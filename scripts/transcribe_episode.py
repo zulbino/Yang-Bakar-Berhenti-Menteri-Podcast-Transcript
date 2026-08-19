@@ -1,18 +1,24 @@
-"""Process a single episode from data/manifest.json into episodes/<slug>/raw.md and interview.md.
+"""Process a single episode from data/manifest.json into episodes/<slug>/*.md.
 
-Usage: python scripts/transcribe_episode.py <video_id> [--force]
+Split into two phases so a failure in the rewrite/translate/metadata stage never
+loses the (slow, audio-dependent) raw transcription:
+  - raw phase:     download audio -> upload -> transcribe -> write raw.md
+  - rewrite phase: read raw.md -> clean/EN/MS rewrite + metadata -> write interview*.md
+
+Usage: python scripts/transcribe_episode.py <video_id> [--force] [--stage raw|rewrite|all]
 """
 import json
 import sys
 from pathlib import Path
 
-from common import chunk_windows, episode_slug, frontmatter_md, human_duration
+from common import episode_slug, frontmatter_md, human_duration, read_frontmatter_body
 import lib_gemini
+import yt_download
 
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
 EPISODES_DIR = ROOT / "episodes"
-CHUNK_SECONDS = 1200  # 20 min per chunk, safely under Gemini's ~8k output token cap
+AUDIO_DIR = ROOT / "audio"
 
 
 def load_episode(video_id):
@@ -23,7 +29,53 @@ def load_episode(video_id):
     raise SystemExit(f"video_id {video_id} not found in manifest")
 
 
-def process(video_id, force=False):
+def episode_common_fields(episode):
+    duration_seconds = episode["duration_seconds"]
+    return {
+        "title": episode["title"],
+        "video_id": episode["video_id"],
+        "youtube_url": episode["youtube_url"],
+        "channel": episode["channel"],
+        "publish_date": f"{episode['upload_date'][0:4]}-{episode['upload_date'][4:6]}-{episode['upload_date'][6:8]}",
+        "duration_seconds": duration_seconds,
+        "duration": human_duration(duration_seconds),
+        "view_count": episode["view_count"],
+    }
+
+
+def process_raw(video_id, force=False):
+    episode = load_episode(video_id)
+    slug = episode_slug(episode)
+    out_dir = EPISODES_DIR / slug
+    raw_path = out_dir / "raw.md"
+
+    if raw_path.exists() and not force:
+        print(f"skip raw {slug} (already exists, use --force to redo)")
+        return out_dir
+
+    print(f"=== raw: {slug} ===")
+    client = lib_gemini.get_client()
+    duration_human = human_duration(episode["duration_seconds"])
+
+    AUDIO_DIR.mkdir(exist_ok=True)
+    print("downloading audio ...")
+    audio_path = yt_download.download_audio(video_id, AUDIO_DIR)
+    print("uploading audio to Gemini ...")
+    audio_file = lib_gemini.upload_audio(client, audio_path)
+    audio_path.unlink()
+
+    print("transcribing raw ...")
+    full_raw = lib_gemini.transcribe_raw(client, audio_file, duration_human)
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    raw_fields = episode_common_fields(episode)
+    raw_fields["note"] = "Raw, lightly-cleaned transcript straight from audio. See interview.md for the polished newspaper-style rewrite."
+    raw_path.write_text(frontmatter_md(raw_fields, "# Raw Transcript\n\n" + full_raw), encoding="utf-8")
+    print(f"wrote {raw_path}")
+    return out_dir
+
+
+def process_rewrite(video_id, force=False):
     episode = load_episode(video_id)
     slug = episode_slug(episode)
     out_dir = EPISODES_DIR / slug
@@ -32,66 +84,36 @@ def process(video_id, force=False):
     interview_en_path = out_dir / "interview-en.md"
     interview_ms_path = out_dir / "interview-ms.md"
 
-    if not force and all(p.exists() for p in (raw_path, interview_path, interview_en_path, interview_ms_path)):
-        print(f"skip {slug} (already processed, use --force to redo)")
+    if not raw_path.exists():
+        raise SystemExit(f"{raw_path} missing -- run the raw phase first")
+
+    if not force and all(p.exists() for p in (interview_path, interview_en_path, interview_ms_path)):
+        print(f"skip rewrite {slug} (already exists, use --force to redo)")
         return out_dir
 
-    print(f"=== {slug} ===")
+    print(f"=== rewrite: {slug} ===")
     client = lib_gemini.get_client()
+    _, full_raw = read_frontmatter_body(raw_path)
 
-    duration = episode["duration_seconds"]
-    windows = list(chunk_windows(duration, CHUNK_SECONDS))
-    raw_chunks = []
-    clean_chunks = []
-    en_chunks = []
-    ms_chunks = []
-    for i, (start, end) in enumerate(windows, 1):
-        print(f"[{i}/{len(windows)}] transcribing {start}s-{end}s ...")
-        raw_text = lib_gemini.transcribe_raw_chunk(client, episode["youtube_url"], start, end)
-        raw_chunks.append(raw_text)
-        print(f"[{i}/{len(windows)}] rewriting to newspaper style (mixed) ...")
-        clean_text = lib_gemini.rewrite_clean_chunk(client, raw_text)
-        clean_chunks.append(clean_text)
-        print(f"[{i}/{len(windows)}] translating to English ...")
-        en_chunks.append(lib_gemini.translate_chunk(client, clean_text, "English"))
-        print(f"[{i}/{len(windows)}] translating to Bahasa Melayu ...")
-        ms_chunks.append(lib_gemini.translate_chunk(client, clean_text, "Bahasa Melayu"))
-
-    full_raw = "\n\n".join(raw_chunks)
-    full_clean = "\n\n".join(clean_chunks)
-    full_en = "\n\n".join(en_chunks)
-    full_ms = "\n\n".join(ms_chunks)
-
+    print("rewriting to newspaper style (mixed) ...")
+    full_clean = lib_gemini.rewrite_clean(client, full_raw)
+    print("translating to English ...")
+    full_en = lib_gemini.translate(client, full_clean, "English")
+    print("translating to Bahasa Melayu ...")
+    full_ms = lib_gemini.translate(client, full_clean, "Bahasa Melayu")
     print("extracting metadata (hosts/guests/summary/topics) ...")
     meta = lib_gemini.extract_metadata(client, full_clean)
 
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    common_fields = {
-        "title": episode["title"],
-        "video_id": episode["video_id"],
-        "youtube_url": episode["youtube_url"],
-        "channel": episode["channel"],
-        "publish_date": f"{episode['upload_date'][0:4]}-{episode['upload_date'][4:6]}-{episode['upload_date'][6:8]}",
-        "duration_seconds": episode["duration_seconds"],
-        "duration": human_duration(episode["duration_seconds"]),
-        "view_count": episode["view_count"],
-        "hosts": meta["hosts"],
-        "guests": meta["guests"],
-    }
-
-    raw_fields = dict(common_fields)
-    raw_fields["note"] = "Raw, lightly-cleaned transcript straight from audio. See interview.md for the polished newspaper-style rewrite."
-    raw_path.write_text(frontmatter_md(raw_fields, "# Raw Transcript\n\n" + full_raw), encoding="utf-8")
-
-    interview_common = dict(common_fields)
+    interview_common = episode_common_fields(episode)
+    interview_common["hosts"] = meta["hosts"]
+    interview_common["guests"] = meta["guests"]
     interview_common["topics"] = meta["topics"]
     interview_common["summary"] = meta["summary"]
 
-    interview_fields = dict(interview_common)
-    interview_fields["language"] = "mixed"
-    interview_fields["note"] = "Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions."
-    interview_path.write_text(frontmatter_md(interview_fields, "# Interview\n\n" + full_clean), encoding="utf-8")
+    mixed_fields = dict(interview_common)
+    mixed_fields["language"] = "mixed"
+    mixed_fields["note"] = "Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions."
+    interview_path.write_text(frontmatter_md(mixed_fields, "# Interview\n\n" + full_clean), encoding="utf-8")
 
     en_fields = dict(interview_common)
     en_fields["language"] = "en"
@@ -103,14 +125,25 @@ def process(video_id, force=False):
     ms_fields["note"] = "Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa)."
     interview_ms_path.write_text(frontmatter_md(ms_fields, "# Interview (Bahasa Melayu)\n\n" + full_ms), encoding="utf-8")
 
-    print(f"wrote {raw_path}")
     print(f"wrote {interview_path}")
     print(f"wrote {interview_en_path}")
     print(f"wrote {interview_ms_path}")
     return out_dir
 
 
+def process(video_id, force=False, stage="all"):
+    out_dir = None
+    if stage in ("raw", "all"):
+        out_dir = process_raw(video_id, force=force)
+    if stage in ("rewrite", "all"):
+        out_dir = process_rewrite(video_id, force=force)
+    return out_dir
+
+
 if __name__ == "__main__":
     video_id = sys.argv[1]
     force = "--force" in sys.argv
-    process(video_id, force=force)
+    stage = "all"
+    if "--stage" in sys.argv:
+        stage = sys.argv[sys.argv.index("--stage") + 1]
+    process(video_id, force=force, stage=stage)

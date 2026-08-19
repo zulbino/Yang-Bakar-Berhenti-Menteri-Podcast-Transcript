@@ -1,3 +1,5 @@
 yt-dlp
+yt-dlp-ejs
+bgutil-ytdlp-pot-provider
 google-genai
 pyyaml

@@ -25,22 +25,20 @@ def human_duration(seconds):
     return f"{m}m {s}s"
 
 
-def mmss(seconds):
-    m, s = divmod(int(seconds), 60)
-    return f"{m:02d}:{s:02d}"
-
-
-def chunk_windows(total_seconds, chunk_seconds=1200):
-    start = 0
-    while start < total_seconds:
-        end = min(start + chunk_seconds, total_seconds)
-        yield start, end
-        start = end
-
-
 def frontmatter_md(fields, body):
     yaml_text = yaml.dump(fields, allow_unicode=True, sort_keys=False, default_flow_style=False)
     return f"---\n{yaml_text}---\n\n{body}\n"
+
+
+def read_frontmatter_body(path):
+    """Split a frontmatter_md()-written file into (fields, body), dropping the leading '# Heading' line."""
+    text = path.read_text(encoding="utf-8")
+    _, yaml_text, body = text.split("---", 2)
+    fields = yaml.safe_load(yaml_text)
+    body = body.strip()
+    if body.startswith("#"):
+        body = body.split("\n", 1)[1].lstrip()
+    return fields, body
 
 
 def retry(fn, max_attempts=5, base_delay=10, what=""):
