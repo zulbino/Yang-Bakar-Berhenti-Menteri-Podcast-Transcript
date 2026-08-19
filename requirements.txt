@@ -1,0 +1,3 @@
+yt-dlp
+google-genai
+pyyaml
