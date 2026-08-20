@@ -12,17 +12,21 @@ hosts:
 guests:
 - Haziq
 topics:
-- Anti-Lompat Parti Law
-- MACC Compound Settlement on Corruption Cases
-- ARM Semiconductor Deal and Cybertrooper Allegations
-- Academy in Industry (ADI) and Youth Employment
-- Media Clickbait and Political Ethics
-summary: In episode 23 of the Yang Beriya podcast, host Rafizi Ramli and co-host Haziq
-  discuss current social, political, and economic issues in Malaysia. They address
-  media clickbait, political anti-hopping laws, inappropriate politician photo-ops,
-  MACC's controversial compound settlement in high-profile corruption cases, cybertrooper
-  allegations regarding Malaysia's semiconductor deal with ARM, and solutions for
-  underage youth employment through the Academy in Industry (ADI) initiative.
+- Clickbait Media Reporting
+- Anti-Party Hopping Law
+- SPRM Compound Settlement & Jana Wibawa Case
+- Kedah Rubber City & Foreign Direct Investment
+- ARM Collaboration & Semiconductor IP Design
+- Cybertrooper Attacks & Allegations
+- Underage Employment & TVET Apprenticeships
+summary: In episode 23 of the Yang Beriya podcast, Rafizi Ramli and Haziq review weekly
+  trending news and political issues. They discuss clickbait media headlines, the
+  Anti-Hopping Law, political photo opportunities during emergencies, SPRM's controversial
+  compound offer in the Jana Wibawa case, and political hypocrisy regarding Chinese
+  script at Kedah Rubber City. Rafizi also addresses cybertrooper attacks over Malaysia's
+  strategic semiconductor collaboration with ARM, as well as the detention of underage
+  factory workers, advocating for industry apprenticeships through the Academy in
+  Industry (ADI) program.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -30,86 +34,98 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Peace be upon you and welcome to the 23rd episode of the *Yang Beriya* podcast with Rafizi Ramli. To our viewers, don't forget to follow Rafizi Ramli's social media on YouTube, Facebook, Instagram, and TikTok. YB, I have a motherly instinct or a gut feeling that we will finish today's recording in under two hours.
+**Haziq:** Assalamualaikum and welcome to the 23rd episode of the *Yang Beriya* podcast with Saudara Rafizi Ramli. YB, my instinct tells me we will finish today's recording in under two hours.
 
-**Rafizi Ramli:** How on earth do you have a motherly instinct? That’s not an instinct, that’s a necessity.
+**Rafizi Ramli:** That's not an instinct, that's a necessity.
 
-**Haziq:** Right, a necessity. But today I have to do the thing viewers hate most—interrupting.
+**Haziq:** All right, YB. Let me go straight to the first segment, *Beriya*, where we examine this week's viral issues. The first issue is titled "Terpaling Cina." There was a social media post about a Malay man who obtained a phone number from a Chinese individual. When he called the number, he automatically spoke using a Chinese accent. However, when they met in person, it turned out both of them were Malay.
 
-**Rafizi Ramli:** Sure, go ahead and interrupt.
+**Rafizi Ramli:** What is the *Beriya* context and impact of this story?
 
-**Haziq:** All right YB. Let's move straight to our first segment, *Beriya*. Let's see what we have this week. First, the "Terpaling Chinese" issue. There's a viral story about a man given a phone number by a Chinese person to do business with. When he called, he automatically spoke in a Chinese accent: *"Boss, is it convenient to come over to your house today?"* The other guy replied, *"Okay boss, I'll be back in another 20 minutes."* When they met up, it turned out both of them were Malay. What is YB's view on its societal impact?
+**Haziq:** We often make assumptions based on minimal information, and then immediately adjust our way of speaking according to those assumptions.
 
-**Rafizi Ramli:** He made an assumption based purely on perception. But actually, this issue isn't really *Beriya* (dramatic/over the top). You're the one being *Beriya* by bringing it up. The moment an issue needs a lengthy explanation just to show where it's funny or pretentious, it means it's not *Beriya*.
+**Rafizi Ramli:** This one isn't actually that *Beriya*. Haziq is the one being *Beriya* this time. The moment something has to be explained in elaborate detail just to clarify its pretentiousness, it means it's not really that *Beriya*.
 
-**Haziq:** Okay, I admit I failed on this first topic. I hope some viewer laughs at 3 in the morning. Next YB, news headline: "TM cables not found, law graduate among 4 charged with attempting to steal TM cables." This is a crime, but the news bulletin emphasized the title "law graduate".
+**Haziq:** Fair enough, I admit defeat on the first issue. Let's move to the second issue: "Couldn't find connections (*kabel*) to get a job, stole TM cables." A law graduate was among four individuals charged with attempting to steal Telekom Malaysia cables.
 
-**Rafizi Ramli:** Cable theft is common everywhere. It's just that the TV station deliberately emphasized "law graduate" as clickbait. Humans, regardless of their educational background, when desperate times strike, anything can happen. For example in the United States, have you heard of the Unabomber, Ted Kaczynski? He was a brilliant Harvard-educated mathematician, but became a terrorist who was the hardest to capture for two decades. So educational background doesn't guarantee anything. As for this issue, the one being *Beriya* is the media making that clickbait.
+**Rafizi Ramli:** Cable theft is a common crime that happens everywhere. However, the media report placed emphasis on the phrase "law graduate" as clickbait. We don't know his actual age—he might already be 36 or 37 years old. A person's educational background does not guarantee their life choices. In the United States, Ted Kaczynski, or the "Unabomber," was a brilliant scientist who graduated from Harvard University, yet became a terrorist targeting experts and lawyers with package bombs for two decades. So, what's *Beriya* here is the media using the suspect's educational background as clickbait.
 
-**Haziq:** Congratulations TV3. Next YB, a political issue. Beluran MP (Datuk Seri Ronald Kiandee) asked a question in Parliament: *"Why has the Anti-Party Hopping Act failed to stop MPs from switching parties, and what action is the government taking to strengthen this law?"*
+**Haziq:** Next, a political issue. Beluran Member of Parliament, Datuk Seri Ronald Kiandee, asked a question in Parliament: "Why has the Anti-Party Hopping Act failed to stop MPs from party hopping, and what action is the government taking to strengthen this law?"
 
-**Rafizi Ramli:** This one is definitely *Beriya*. In the context of Sabah, Ronald Kiandee was dissatisfied because Bersatu, which won big in the 2020 State Election (PRN), later left and joined GRS. But he must remember, Bersatu in Sabah itself was formed as a result of party-hopping by UMNO MPs in 2018 who joined Bersatu. When he asks why the Anti-Party Hopping Act failed, he should look in the mirror first. This issue passes as *Beriya*.
+**Rafizi Ramli:** This is truly *Beriya*. After the 2020 Sabah State Election, Bersatu appeared to win big before a majority of its elected representatives hopped over to join GRS. However, Bersatu's very existence in Sabah stemmed from UMNO representatives hopping into Bersatu in 2018. When Ronald Kiandee asks why this act failed to prevent party hopping, he should really look in the mirror first.
 
-**Haziq:** Next YB, "Let the picture speak". This is a photo from a Facebook post by Haji Hanafi Ahmad at the scene of a fire at a Taska/PASTI building in Kemaman. He is wearing leather shoes, jeans, and holding a fire hose pretending to extinguish the fire while peeking at the camera.
+**Haziq:** Next issue, let the photo speak for itself. A local politician uploaded a photo of himself holding a fire hose in front of a burning PASTI kindergarten in Kemaman.
 
-**Rafizi Ramli:** This picture is clearly staged and photobombed. In terms of ethics and safety, members of the public or politicians should not operate firefighting equipment at an incident scene. It endangers lives and can obstruct the duties of trained civil servants. The problem with some politicians is that they feel compelled to show their faces everywhere. When authorities like firefighters or ambulances are present, politicians need to learn to step aside and be ordinary people. In other countries, obstructing civil servants in this manner can lead to court prosecution.
+**Rafizi Ramli:** Just look at his attire—leather shoes, jeans, and that peering pose is clearly staged or a photo-op. The fire is a tragic incident, but ethically and legally, neither members of the public nor elected representatives should handle firefighting equipment while firefighters are on duty. This action endangers lives and can obstruct public servants from performing their duties. Overseas, interfering with authorities during an emergency can lead to prosecution in court. Unfortunately, our politicians always want to show their faces everywhere, while a section of society praises them without considering the ethical and safety aspects.
 
-**Haziq:** Next, news regarding a passport application involving a 6-day transit in Dubai that was rejected by the judge. The judge stated that purchasing tickets in advance was at the applicant's own risk and granting such permission could open the floodgates.
+**Haziq:** Next screenshot: An individual's passport application requesting a six-day transit in Dubai was rejected by the court. The judge emphasized that purchasing flight tickets in advance was at one's own risk, and approving such a long transit would open the floodgates to inappropriate precedents.
 
-**Rafizi Ramli:** Transiting in Dubai for up to 6 days is quite odd. A transit should be kept as short as possible. But we have heard rumors that Tan Sri Muhyiddin Yassin's son-in-law is allegedly in Dubai. It's just that there is no concrete proof.
+**Rafizi Ramli:** Why the need for a transit in Dubai for up to six days? Usually, people want transit times to be as short as possible. Many have linked this to rumors regarding Tan Sri Muhyiddin Yassin's son-in-law, who is alleged to be residing there, although there is no official proof.
 
-**Haziq:** Related to that issue as well YB, news reported: "Compound paid, MACC (SPRM) still has to chase." This refers to Datuk Adam Radlan, who was reported to be overseas after paying an RM4.1 million compound related to the Jana Wibawa case.
+**Haziq:** The next issue concerns the Jana Wibawa case: Datuk Adam Radlan was discharged from charges after paying a RM4.1 million compound, but is now being sought again by SPRM on suspicion of having left the country.
 
-**Rafizi Ramli:** This case is hilarious and *Beriya* on MACC's part. Datuk Adam Radlan was charged with money laundering and corruption worth over RM6 million, but was freed after being allowed to pay an RM4.1 million compound. He is still RM2 million ahead. Then MACC announced they are looking for him again because they found out he had gone overseas.
+**Rafizi Ramli:** When SPRM Chief Commissioner, Tan Sri Azam Baki, announced that SPRM was searching for Datuk Adam Radlan again, it became a truly *Beriya* matter. He was charged with corruption and money laundering worth over RM6 million, but was discharged after paying a RM4.1 million compound—meaning he still gained a RM2 million profit.
 
-According to the MACC Act, compound provisions do exist. However, the original purpose of a compound is to be used on a key witness (crown witness) or a minor accomplice in order to obtain evidence to prosecute a bigger fish. This provision was not designed to let the main person accused of accepting bribes off the hook quietly without a court trial.
+There is indeed a provision in the SPRM Act that allows for compound offers, but the context for that provision exists for specific situations. For example, when two parties are involved in corruption and the prosecution needs one to become a crown witness to prosecute the party that received the larger payoff. The compound provision is not intended to give an easy exit to the main accused after the investigation is completed.
 
-When the compound provision is used like this, it creates room for backroom deals (*kaw-tim*) and abuse of power. Someone could take an RM100 million bribe, negotiate to pay an RM20 million compound, and walk away with no court criminal record. Once charges are dropped after the compound is paid, the passport ban is also lifted. So it's no surprise he detoured overseas. My advice to MACC is to avoid compound settlements for high-profile major corruption cases like this.
+The tendency to settle cases through compounds without an open trial in court is very dangerous because it opens up space for backroom dealing (*kaw-tim*). When charges are dropped after the compound is paid, any passport restrictions are also revoked in court. So, it is no surprise when the individual takes the opportunity to leave the country. My advice to SPRM is to avoid the habit of offering compounds for major cases of national interest.
 
-**Haziq:** Very clear. So for this week's *Beriya* award, which one do you pick YB?
+**Haziq:** The final issue for this segment: PAS did not condemn the Chinese inscription stone erected in Kedah Rubber City.
 
-**Rafizi Ramli:** I award it to MACC and Tan Sri Azam Baki over this compound issue.
+**Rafizi Ramli:** PAS and Perikatan Nasional supporters frequently portray themselves as staunch defenders of the Malay language and loudly condemn any presence of Chinese script. However, on the issue of the commemorative stone for the Prince Changsan tire factory investment at Kedah Rubber City, they suddenly went quiet.
 
----
+Kedah Executive Councillor (Exco), Dr. Haim Hilman, gave a lengthy explanation on social media without mentioning a single word that this was a Federal Government project. Kedah Rubber City in Padang Terap is an NCIA asset under the Ministry of Economy. Efforts to bring in this RM2 billion investment were driven entirely by the Federal Government through NCIA, where I myself witnessed the land agreement in 2024.
 
-**Haziq:** All right YB, let's enter the *Hidup Keras* segment. First issue: "Pro-bono shot PMX in the foot". Could YB comment on the alleged cybertrooper attacks against you regarding the intellectual property registration and the ARM agreement?
+During the early days of my administration at the Ministry of Economy, the Kedah Rubber City project had almost stalled because the investors announced during the PN era pulled out. We made the decision to continue in order to develop the Padang Terap area. Unfortunately, the Kedah State Government leadership did not give credit to the Federal Government and promoted it as a state success, right up until this Chinese script issue went viral.
 
-**Rafizi Ramli:** I have tweeted about this and I will send an official letter to the Prime Minister (Datuk Seri Anwar Ibrahim) to share my view that the government and PKR leadership must control their paid cybertroopers. The slanderous narrative they created regarding this ARM (*Advanced RISC Machines*) issue not only attacks me, but also adversely affects the country's image.
+**Haziq:** Among the issues discussed, which one does YB select as the winner of this week's *Beriya* award?
 
-For general understanding, in the semiconductor industry, there are two main models. The legacy model (like Intel and AMD) designs the chip architecture and manufactures it themselves. The second model, which currently dominates the smartphone and IoT gadget market—covering over 95% of the market—is the Intellectual Property (IP) ownership model used by companies like ARM. ARM designs the chip architecture blueprints, then sells IP licenses and collects royalties for every chip manufactured by other companies like Samsung or Apple.
+**Rafizi Ramli:** I give it to SPRM and Tan Sri Azam Baki over the issue of the compound offer and the re-hunting of the accused.
 
-Malaysia's semiconductor ecosystem has long been stuck in the middle-income trap. Since 1972 in Penang, we have merely been a manufacturing outpost doing lower-tier work like packaging and testing. We do not have our own IP Design, unlike Taipei (TSMC) and Shenzhen which file thousands of IPs every year.
+**Haziq:** Let's move into the *Hidup Keras* segment. First issue: The attack by cybertroopers regarding the government's collaboration with ARM (Advanced RISC Machines) and allegations of misappropriation of funds. Could YB elaborate on what actually happened?
 
-That is why while at the Ministry of Economy, we organized the KL20 event and invited ARM's top management. The Prime Minister himself was impressed and requested ARM to collaborate with Malaysia. As a result of continuous negotiations by the ministry team, ARM agreed to sign a strategic agreement—the first of its kind in the world between ARM and a government—to enable Malaysia to build local chip design capabilities (*Made BY Malaysia*) within 5 years.
+**Rafizi Ramli:** Slanderous messages crafted by cybertroopers—or what are called "Cheplos"—are extremely dangerous because they damage the country's image. Most citizens may not know what ARM is. ARM is an international chip architecture company founded by experts from Cambridge University.
 
-Suddenly, paid cybertroopers (dubbed 'Cheplos') spread slander claiming I accepted an RM1 billion bribe from ARM and used my former officer, James, to launder the money through a small eatery called *Kering*. This is an utterly absurd allegation. First, nobody launders hundreds of millions through a small restaurant selling RM5 meals. Second, throwing corruption allegations like this indirectly accuses an international giant like ARM of paying bribes.
+Unlike traditional models such as Intel or AMD that design and manufacture their own chips, ARM pioneered the Intellectual Property (IP) ownership model. ARM designs highly energy-efficient chip architecture and sells those IP licenses to other companies for manufacturing, collecting royalties on every chip sold. Today, over 95% of chips in smartphones, IoT devices, and electric vehicles use ARM architecture.
 
-If this issue is dragged to court, ARM leadership from Silicon Valley, the Prime Minister, the MITI Minister, and the Second Finance Minister would have to be called to testify. The whole world would see how ridiculous Malaysian politics is, slandering an international investment partner purely out of internal political malice and jealousy.
+In the local semiconductor industry, Malaysia has for decades remained at the lower end of the value chain, namely packaging and testing. Although Intel's factory was established in Penang in 1972—earlier than Taipei (TSMC) and Shenzhen—Penang fell behind in terms of innovation because we did not own any local IP and merely served as an assembly hub.
 
-Regarding James, he is an Oxford law graduate with specialized expertise in technology and investment. He was part of the Ministry of Economy's task force that negotiated with ARM online. When I resigned, ARM was concerned about project continuity and professionally offered James a job to manage setting up ARM's office in Malaysia. However, due to these relentless slanderous political attacks, James resigned from ARM in less than a month and has now returned to work in the UK. The nation suffers a brain drain loss simply because of shallow politics.
+When the Ministry of Economy organized the KL20 summit in 2024, we invited ARM's leadership. The Prime Minister, Datuk Seri Anwar Ibrahim, was deeply interested in ARM's potential. As a result, we initiated official negotiations and successfully sealed a strategic agreement where a government entered into direct cooperation with ARM to build local chip design capabilities with a five-year target.
 
-I want to remind the Prime Minister to discipline these PKR cybertroopers. If this slander continues, I will not hesitate to take defamation legal action, even if it ends up embarrassing the country internationally. If possible, I still want to protect the interest of this national project for the future of the local semiconductor industry.
+**Haziq:** What exactly are the accusations leveled by the cybertroopers regarding this issue?
 
-**Haziq:** A very clear explanation YB. Next, a social issue regarding the case of 31 underage teenagers caught working in a factory. What is YB's view and solution to this issue?
+**Rafizi Ramli:** They fabricated a story claiming that I received RM1 billion in bribes from ARM and appointed my former officer, James, to join ARM in order to launder the money through a restaurant business. This is an utterly absurd accusation. No one transfers tens of millions of ringgit to be laundered through a small restaurant with RM5 sales margins.
 
-**Rafizi Ramli:** From one angle, these teenagers are actually good kids because they chose to work for an honest living rather than getting involved in unhealthy activities like illegal street racing (*merempit*). However, due to policy and bureaucratic constraints, they are considered to have violated labor laws.
+Negotiations with ARM were officially led by a government committee comprising the Deputy Secretary-General (TKSU) of the Ministry of Economy, Datuk Balu, along with officers with backgrounds in law and fund management, like James. We negotiated transparently via video conferencing without any overseas travel expenses. The Cabinet approved these negotiations, and the launch ceremony was witnessed by the Prime Minister as well as Cabinet ministers such as Tengku Zafrul and Amir Hamzah.
 
-The root cause is our overly rigid education system. The single model of success in our society forces all young people to stay in classrooms until age 17 to sit for SPM, followed by a diploma or degree. When in reality, there is a bell-curve distribution—there is a group of youths who simply have no interest in academic theoretical learning, preferring instead to work and learn practical skills.
+When I resigned from the Ministry of Economy, ARM—which had just opened an office in TRX—feared that the implementation of this project would be stalled. On that basis, ARM offered a role to James to assist with their office's transition phase. However, due to extreme slanderous attacks from these cybertroopers, James decided to resign less than a month later and is now working in the UK. We lost a major talent (brain drain) because of dirty politics.
 
-European countries (like Germany) and Japan have long used apprenticeship systems or guilds. Teenagers aged 15 or 16 can directly enter the workforce, get trained on industry sites, and obtain phased certifications while earning a full wage.
+**Haziq:** What action will YB take regarding this attack?
 
-That's why previously at the Ministry of Economy, we launched the **Academy in Industry (ADI)** program in collaboration with KESUMA, which was also included as a policy in RMK13 to encourage school leaving as early as age 16 for skills pathways.
+**Rafizi Ramli:** These slanderous accusations not only attack me, but also damage the reputation of an international giant like ARM. If I take this case to court, ARM representatives would need to testify, and government documents involving the Ministry of Finance, MITI, and MIDA would have to be disclosed. This would embarrass the country in the eyes of international investors.
 
-Through ADI, we changed the traditional TVET approach. Previously, government TVET programs directed a lot of funding to training providers, while trainees still had no guaranteed job after completing the course. Through ADI, incentives are given directly to employers and workers. Employers hire them directly at minimum wage (around RM1,700 to RM2,000 including allowances), and the training syllabus is managed at the workplace. After 9 months and 18 months, these young workers are awarded the Malaysian Skills Certificate (SKM 1 & 2) without needing to sit for written classroom exams.
+I will send an official letter to the Prime Minister to remind him to rein in these paid PKR cybertroopers. Most of them are individuals who jumped parties after PKR became the government and are controlled by certain parties in minister offices. If the government does not discipline them, I will not hesitate to file a lawsuit in court to clear my name.
 
-Our experience shows that thousands of school leavers are interested in joining ADI. The main challenge actually lies in the attitude of some employers who prefer hiring foreign workers because foreign workers are tied to permits and cannot job-hop. If the ADI program is organized widely and made mandatory for industries before applying for foreign worker quotas, the issue of underage teenagers working illegally can be resolved systematically.
+My primary goal is to ensure that the agenda to build chips "Made by Malaysia" is not abandoned. The government should shift its focus from giving hundreds of millions in cash subsidies to foreign companies towards IP ownership that adds long-term value to local talent.
 
-Society and parents also need to change their perception. Children's success is not measured solely by a university degree. In today's tech sector, software development or multimedia companies no longer look at degrees; instead, they look at portfolios and actual skills. There are various pathways to succeed in life, as long as they don't break the law or ruin themselves.
+**Haziq:** Moving to the second issue in *Hidup Keras*: The case of 31 underage teenagers who were nabbed working at a factory. How does YB view this issue from a policy and social perspective?
 
-**Haziq:** Thank you very much YB for sharing on today's 23rd episode. Our recording went slightly over two hours.
+**Rafizi Ramli:** This case is deeply saddening, but it reflects a gap in our system. These kids were arrested for working underage or using fake identities, even though their intention was simply to earn an honest living rather than getting involved in negative activities like illegal street racing (*rempit*) or drugs.
 
-**Rafizi Ramli:** Just a little bit over.
+The local education system still adheres to a single model of success: remaining in school until Form 5, taking SPM, and pursuing higher education at a university or classroom-based TVET institution. In reality, not all teenagers are academically inclined. Forcing them to sit in a classroom for years on end often yields no results.
 
-**Haziq:** We'll see you again on the 24th episode next week. Good night everyone.
+In European countries and Japan, apprenticeship systems have been used for hundreds of years. Teenagers aged 15 or 16 who are not interested in the academic pathway can directly enter the workforce through industrial guilds and be trained practically at the workplace before being certified with skill credentials.
 
-**Rafizi Ramli:** Good night.
+While at the Ministry of Economy, we collaborated with KESUMA to launch the Academy in Industry (ADI) program. Through this program, local youth are directly employed by companies and receive on-the-job training. Within 9 to 18 months, they earn a full monthly salary (RM1,800–RM2,000 including allowances) while being awarded the Malaysian Skills Certificate (SKM) Levels 1 and 2 without having to take conventional written examinations.
+
+**Haziq:** Are there challenges in terms of parental perceptions and employer habits when implementing this approach?
+
+**Rafizi Ramli:** Yes, there is a perceptual barrier where many parents still view a university degree as the sole guarantee for the future. In today's technical and technology sectors—such as software development or data science—employers no longer look for a piece of degree paper; instead, they evaluate actual skills and project portfolios.
+
+On the employers' side, many are more comfortable relying on foreign workers because the three-year work permit tie reduces turnover rates. The Academy in Industry program was designed with tiered incentives to ensure that local youth remain in service for at least 18 months.
+
+The judgmental attitude toward youth who choose to start working early needs to change. The government needs to streamline various career pathways so these young people can contribute to the economy with dignity.
+
+**Haziq:** Thank you, YB, for such a comprehensive sharing for this 23rd episode. We'll see you again in the next episode.
+
+**Rafizi Ramli:** Thank you. Good night.
