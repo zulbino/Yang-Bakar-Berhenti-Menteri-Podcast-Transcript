@@ -1,8 +1,8 @@
 """Gemini calls for the transcription pipeline: raw transcription, editorial rewrite, translation, metadata.
 
-Each episode is processed in a single call per stage (not chunked). gemini-3.5-flash
-supports a 65,536-token output limit, comfortably covering even the longest (~3.5hr)
-episode's raw transcript (~30k words). The audio is uploaded as a standalone file
+Each episode is processed in a single call per stage (not chunked). Every model in
+MODEL_FALLBACK_CHAIN supports a 65,536-token output limit, comfortably covering even
+the longest (~3.5hr) episode's raw transcript (~30k words). The audio is uploaded as a standalone file
 (no video track) via the Files API -- referencing a YouTube URL directly loads the
 full video at a much higher per-second token rate regardless of any offset given,
 which blows the 1,048,576-token input limit for anything beyond roughly an hour.
@@ -12,17 +12,59 @@ import re
 import time
 
 from google import genai
-from google.genai import types
+from google.genai import errors, types
 
 from common import human_duration, retry
 
-# gemini-3.7-flash has repeatedly hit sustained 503 UNAVAILABLE (high demand) across
-# multiple test attempts since its Aug 13 launch. gemini-3.6-flash has been reliable
-# throughout; pricing is identical, so there's no upside to retrying 3.7-flash.
-# Free-tier daily quota is tracked per-model, so when gemini-3.6-flash's 20/day cap
-# is exhausted, gemini-3.5-flash has its own separate allowance to fall back to.
-RAW_MODEL = "gemini-3.5-flash"
-TEXT_MODEL = "gemini-3.5-flash"
+# Free-tier daily quota (20 requests/day) is tracked per-model, independently of
+# every other model. gemini-3.7-flash is excluded from the chain -- it has
+# repeatedly hit sustained 503 UNAVAILABLE (high demand) since its Aug 13 launch,
+# which is Google-side capacity, not a quota problem, so switching model on that
+# error would just waste an attempt. When one model's free-tier quota is
+# exhausted (detected via the RESOURCE_EXHAUSTED + FreeTier error), every
+# subsequent call in this process automatically moves on to the next model in
+# the chain, so a run can keep going across all offered models until the daily
+# reset instead of stalling on the first one hit.
+MODEL_FALLBACK_CHAIN = [
+    "gemini-3.6-flash",
+    "gemini-3.5-flash",
+    "gemini-3-flash-preview",
+    "gemini-3.1-flash-lite",
+]
+_model_idx = 0
+
+
+def current_model():
+    return MODEL_FALLBACK_CHAIN[_model_idx]
+
+
+def _is_free_tier_quota_exhausted(e):
+    return (
+        isinstance(e, errors.ClientError)
+        and e.code == 429
+        and e.status == "RESOURCE_EXHAUSTED"
+        and "FreeTier" in (e.message or "")
+    )
+
+
+def _advance_model():
+    global _model_idx
+    if _model_idx + 1 >= len(MODEL_FALLBACK_CHAIN):
+        return False
+    _model_idx += 1
+    print(f"  [fallback] switching to {current_model()} (free-tier quota exhausted)", flush=True)
+    return True
+
+
+def generate_content(client, contents, config):
+    """generate_content with automatic model fallback on free-tier quota exhaustion."""
+    while True:
+        try:
+            return client.models.generate_content(model=current_model(), contents=contents, config=config)
+        except errors.APIError as e:
+            if _is_free_tier_quota_exhausted(e) and _advance_model():
+                continue
+            raise
 
 # This is a political podcast discussing corruption inquiries, scandals, and named
 # public figures -- content Gemini's default safety filters (esp. civic integrity /
@@ -152,7 +194,7 @@ def _finish_reason_name(resp):
     return getattr(reason, "name", str(reason))
 
 
-def _generate_with_continuation(client, model, config, initial_parts):
+def _generate_with_continuation(client, config, initial_parts):
     # A single response can hit MAX_OUTPUT_TOKENS well before a long episode's
     # transcript/rewrite/translation is complete; keep asking the model to
     # continue in the same conversation until it finishes naturally, capped to
@@ -160,7 +202,7 @@ def _generate_with_continuation(client, model, config, initial_parts):
     contents = [types.Content(role="user", parts=initial_parts)]
     full_text = ""
     for _ in range(8):
-        resp = client.models.generate_content(model=model, contents=contents, config=config)
+        resp = generate_content(client, contents, config)
         text = _text(resp)
         full_text += text
         if _finish_reason_name(resp) != "MAX_TOKENS":
@@ -206,7 +248,7 @@ def transcribe_raw(client, audio_file, duration_human, duration_seconds):
         contents = [types.Content(role="user", parts=[audio_part, types.Part(text=prompt)])]
         full_text = ""
         for round_num in range(15):
-            resp = client.models.generate_content(model=RAW_MODEL, contents=contents, config=config)
+            resp = generate_content(client, contents, config)
             text = _text(resp)
             full_text += text
             covered = _last_timestamp_seconds(full_text)
@@ -257,7 +299,7 @@ def rewrite_clean(client, raw_text):
         prompt = CLEAN_PROMPT_TEMPLATE.format(raw_text=chunk)
 
         def call(prompt=prompt):
-            return _generate_with_continuation(client, TEXT_MODEL, config, [types.Part(text=prompt)])
+            return _generate_with_continuation(client, config, [types.Part(text=prompt)])
 
         results.append(retry(call, max_attempts=10, base_delay=30, what="clean rewrite"))
     return "\n\n".join(results)
@@ -272,7 +314,7 @@ def translate(client, mixed_text, target_language):
         prompt = TRANSLATE_PROMPT_TEMPLATE.format(target_language=target_language, mixed_text=chunk)
 
         def call(prompt=prompt):
-            return _generate_with_continuation(client, TEXT_MODEL, config, [types.Part(text=prompt)])
+            return _generate_with_continuation(client, config, [types.Part(text=prompt)])
 
         results.append(retry(call, max_attempts=10, base_delay=30, what=f"translate to {target_language}"))
     return "\n\n".join(results)
@@ -283,7 +325,7 @@ def extract_metadata(client, clean_text):
     config = types.GenerateContentConfig(response_mime_type="application/json", response_schema=META_SCHEMA, safety_settings=SAFETY_SETTINGS)
 
     def call():
-        resp = client.models.generate_content(model=TEXT_MODEL, contents=[prompt], config=config)
+        resp = generate_content(client, [prompt], config)
         return json.loads(_text(resp))
 
     return retry(call, max_attempts=10, base_delay=30, what="metadata extraction")
