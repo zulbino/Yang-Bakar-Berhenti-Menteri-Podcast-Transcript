@@ -9,24 +9,22 @@ duration: 2h 7m
 view_count: 35313
 hosts:
 - Rafizi Ramli
-guests: []
+guests:
+- Speaker 1
 topics:
-- Minister and MP Salary Transparency
-- Bersatu Internal Leadership Crisis
-- PAS Political Strategy
-- STPM and University Placement Challenges
-- Bintulu LNG Security Concerns
-- Pro-Palestine Demonstration SOPs
-- Urban Renewal Act (URA)
-- Global Youth Protests and Capitalism
-summary: In this 13th episode of the Yang Berhenti Menteri podcast, Rafizi Ramli discloses
-  his net monthly income as both a minister and an MP to clarify public misconceptions
-  regarding political salaries. He evaluates recent political developments involving
-  Bersatu and PAS, discusses security concerns surrounding Bintulu LNG facilities,
-  addresses university placement issues for STPM students, evaluates SOPs during pro-Palestine
-  demonstrations, clarifies the Urban Renewal Act (URA), and analyzes global youth
-  protests in Nepal and Indonesia within the context of systemic issues in global
-  capitalism.
+- Ministerial salary transparency
+- Political integrity
+- Internal politics in Bersatu
+- Vacancy tax for housing
+- Brain drain in Malaysia
+- Role of media in governance
+- Public policy and government accountability
+summary: In the 13th episode of the 'Berhenti Menteri' podcast, Rafizi Ramli engages
+  in a candid discussion about transparency and political discourse. He reveals his
+  salary slip as a Minister to address public misconceptions, debates the challenges
+  of attracting professionals to politics due to income disparities, discusses internal
+  power dynamics in the Bersatu party, evaluates current political rumors, and offers
+  insights on housing policy and the importance of integrity in governance.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -34,104 +32,218 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Assalamualaikum and welcome to the *Yang Berhenti Menteri* podcast, episode 13, YB. Did you notice that today is episode 13, YB?
+**Speaker 1:** Assalamualaikum and welcome to the 13th episode of the "Berhenti Menteri" podcast. YB, have you noticed anything about this 13th episode?
 
-**Rafizi Ramli:** Yes, today is Friday the 13th, Friday the 13th, lots of ghosts coming out.
+**Rafizi Ramli:** Yes, today is Friday the 13th; lots of ghosts are coming out.
 
-**Host:** To those who just joined, tap the screen, leave a comment, and share.
+**Speaker 1:** So for those who just joined, please tap-tap the screen, reply, comment, and share.
 
-**Rafizi Ramli:** What is this "tap the screen" thing?
+**Rafizi Ramli:** What is "tap-tap the screen"?
 
-**Host:** Tapping the screen on TikTok, YB. When we tap it many times, heart icons appear and the podcast's engagement goes up.
+**Speaker 1:** Tap-tapping the screen is on TikTok, YB. It creates hearts, right? You tap many times, and the engagement goes up.
 
-**Rafizi Ramli:** Oh, can't people send gifts? Why haven't I ever gotten gifts?
+**Rafizi Ramli:** Hmm. Can’t people send gifts through that? Why have I never received a gift?
 
-**Host:** Politicians can't receive gifts on TikTok, YB. That's how TikTok's system is set up.
+**Speaker 1:** My apologies, YB, politicians aren't allowed to do that.
 
-**Rafizi Ramli:** Ah, you can't be a politician like this then. No wonder I stopped being a minister.
+**Rafizi Ramli:** Not even on TikTok?
 
-**Host:** Before we move to the main segment, we have an additional segment for this week only. Last week, YB promised to show something to the viewers out there: a payslip.
+**Speaker 1:** TikTok doesn't allow it. So, YB, how does that work? You can't be a politician.
 
-**Rafizi Ramli:** This is about last week's debt issue. I saw on Twitter many people reminding me not to forget to show my payslip. I almost forgot earlier too.
+**Rafizi Ramli:** Hmm.
 
-**Host:** But there were also doubts in the comment section asking you not to show it for privacy reasons.
+**Speaker 1:** Okay, that’s fine. Before we head to the "Beria" segment, YB, we have an extra segment for this week only. Last week, you promised to show something to our friends out there, which was your payslip.
 
-**Rafizi Ramli:** What is there to keep private? Unless it's showing my debts, that's private. Even then, I already disclosed all my debts during my asset declaration previously. So there's nothing private at all, especially compared to the tens of millions figures people often peddle.
+**Rafizi Ramli:** Ah, so this is settling last week’s debt. I’ve seen everyone on Twitter reminding me not to forget the payslip. I almost forgot just now.
 
-**Host:** YB isn't just sharing an MP's payslip, but also the payslip of a minister or administration member. Let's take a look.
+**Speaker 1:** But there was some concern in the comments, saying you shouldn’t show your private information.
 
-**Rafizi Ramli:** This is the first time you all can see a minister's payslip. The basic salary for an administration member is RM11,000. Then there is a ministerial allowance of RM4,000. The RM4,000 housing allowance is actually deducted on the right side because I reside in government quarters, so I don't get that. There are entertainment allowances, a driver allowance, a RM2,500 housing/driver allowance for the spouse, and RM1,500 for Federal Administration. The gross total is RM40,000. After income tax deductions, quarters, and EPF (KWSP), a minister's net salary comes out to RM29,000.
+**Rafizi Ramli:** What is there to be private about?
 
-**Host:** What is that EPF deduction actually for, YB?
+**Speaker 1:** So it isn't private. We have a debt segment, YB.
 
-**Rafizi Ramli:** I haven't checked this payslip in detail either. Any HR experts who know can comment below. What is certain is that a minister's net salary after various deductions comes down to RM29,000. A minister is also a Member of Parliament, so they receive an MP's salary through a separate payslip.
+**Rafizi Ramli:** Unless you're showing my debts. That would be private. Even then, I already revealed all my debts when I declared my assets.
 
-**Host:** Let's look at the MP's payslip now.
+**Speaker 1:** Yes, everyone can see that. The ones they’ve been harping on about—the 20 million. So YB, not just a Member of Parliament’s payslip, but the payslip of a Minister or an administrative member. So let’s take a look. Three, two, one. Okay, zoom in.
 
-**Rafizi Ramli:** An MP's basic salary is RM16,000. Since I am a member of the ministerial administration, I do not receive MP allowances. The Angkasa deduction on this slip is actually a monthly contribution deduction to the PKR party amounting to RM8,000. PKR uses a deduction mechanism similar to Angkasa. After the RM8,000 deduction, I bring home RM7,600. When you add the minister's net salary of RM29,000 and the MP's net salary of RM7,600, my total net income is around RM35,000 to RM36,000 a month.
+**Rafizi Ramli:** What is this?
 
-**Host:** Out there, it is often hyped up that a minister's salary can reach RM60,000 to RM100,000 a month. Why does your salary look so small, YB?
+**Speaker 1:** Take your time to look at it. This is the first time people can see a Minister’s payslip. Salary for administrative members is 11,000.
 
-**Rafizi Ramli:** Maybe I'm the most low-level minister. In truth, it depends on each minister. Some ministers sit on GLC boards of directors, for example, and receive board fees and meeting allowances. Similarly, a Chief Minister or Menteri Besar who chairs state economic development corporations and various subsidiaries; if you add up a RM10,000 chairman's allowance here and RM5,000 there, the total can exceed RM100,000 a month. MPs can also claim travel and hotel accommodation according to certain conditions. For MPs outside the Kuala Lumpur area, monthly claims can reach RM15,000 to RM20,000. It's just that I've never made such claims in my life.
+**Rafizi Ramli:** Hmm.
 
-**Host:** How does it compare if you had stayed in the private sector, YB?
+**Speaker 1:** Then there is the Minister’s entertainment allowance of 4,000. The 4,000 house allowance is actually deducted because on the right side, it shows the quarters allowance is returned since you live in official quarters. So, you don’t get that. Then the driver, and what is this? I can’t see.
 
-**Rafizi Ramli:** This is a dilemma or dichotomy. A minister's net salary of RM29,000 a month in the private sector or a GLC is actually equivalent to a senior manager level, not even reaching general manager, let alone a CEO who usually earns RM70,000 and above. The scope of responsibility of a minister or Secretary-General of a Ministry (KSU) encompasses governance of the entire country and enormous sectors, but their net income is equivalent to private senior management. That is why many private professionals are not interested in joining politics because there is no comparable financial reward.
+**Speaker 1:** This is the domestic helper allowance of 2,500 and federal administration of 1,500. So it totals 40,000, but after deductions for income tax, quarters, and KBP. YB, do you have KBP? I don’t know what that is.
 
-There is a view that we need to pay higher salaries to attract quality talent into politics and reduce exposure to corruption. However, we cannot look at it purely from the perspective of private sector parity; instead, we must take into account the median salary of the public, which is around RM3,000 a month. For most people, a RM30,000 salary is enormous. To me, politics is a calling. The reward is not purely in terms of ringgit and sen. As long as our political culture is not cleansed of the habit of demanding financial allocations from leadership, financial pressures in politics will persist.
+**Rafizi Ramli:** Do I?
 
-**Host:** Next, we move to the "Overzealous" ("Beria") or "Pretentious" ("Poyo") segment. Are you ready, YB?
+**Speaker 1:** It says KBP deduction.
 
-**Rafizi Ramli:** 10 to 15 years ago when I coached school debate teams, I didn't quite understand these terms. "Beria" basically means poyo (pretentious or overdoing it).
+**Rafizi Ramli:** I suppose so; if there is a deduction, it must be there.
 
-**Host:** First image: Bersatu stresses that it does not take dirty paths to remain in power and selects Tan Sri Muhyiddin Yassin as the candidate for the 11th Prime Minister.
+**Speaker 1:** Oh, there’s a pension one too. Eh, no, there isn't. I don’t know what this is.
 
-**Rafizi Ramli:** This is a report from Bersatu's recent Annual General Assembly. I disagree with the claim that Bersatu doesn't take dirty paths, when their moves started with back-door statutory declarations (SDs), the suspension of Parliament, and the declaration of emergency. In this picture, Tan Sri Muhyiddin and Datuk Seri Hamzah Zainuddin are laughing uproariously together, even though all of Malaysia knows the two of them are in a major feud behind the scenes. I give it a score of 3 out of 5.
+**Rafizi Ramli:** Actually, what is the KBP deduction for? To anyone who knows, any HR personnel who knows, please comment because we don't know.
 
-**Host:** Second image: PAS is ready to cooperate with all parties except DAP, including PKR and UMNO.
+**Speaker 1:** So we have 29,000, right, YB?
 
-**Rafizi Ramli:** They are truly eager to return to power and become ministers again. As long as they get a ministerial post, they'll be all smiles. I give it a score of 1.
+**Rafizi Ramli:** 29,000. Actually, I need to check my EPF after this to see if I’m getting contributions or not.
 
-**Host:** Third image: A post from Syed, a former Putrajaya Bersatu committee member and Special Functions Officer (PTTK) to the Foreign Minister, regarding a meeting session with the Prime Minister.
+**Speaker 1:** Ah, that’s a Minister’s pay; meaning after all the deductions, it leaves 29,000, and a Minister is also a Member of Parliament. So, you get the MP salary.
 
-**Rafizi Ramli:** He was previously invited to the YBM podcast but gave all kinds of excuses. I feel there's no need to waste time entertaining this issue because it has no value. I give it a score of 1.
+**Speaker 1:** The MP salary is on a different payslip.
 
-**Host:** Fourth image: Viral slander on social media claiming that a school principal and the Minister of Education, Fadhlina Sidek, are cousins and colluded in a case.
+**Rafizi Ramli:** On a different payslip.
 
-**Rafizi Ramli:** This is the habit of making wild accusations and flinging slander recklessly. YB Fadhlina filed a police report, and the individual in question has apologized and retracted the statement after admitting to being misled by information from TikTok Live. Next time, before jumping in to comment so passionately, go check the accuracy of the information first. I give it a score of 2.
+**Speaker 1:** Can we move next?
 
-**Host:** Starting the next segment, "Life is Tough, Kid" ("Hidup Keras Dik"). The first topic is the internal crisis in Bersatu where 120 Division Chiefs are reportedly demanding Tan Sri Muhyiddin step down. Is this part of their election preparation?
+**Rafizi Ramli:** Yes.
 
-**Rafizi Ramli:** Out of 202 Bersatu divisions, 120 divisions is more than half. Meaning this pressure via statutory declarations signals that Muhyiddin has lost the confidence of the majority of division leaders. This turmoil is huge. Whether Muhyiddin steps down or not, this kind of internal conflict increases the public's disgust towards political parties. Fence-sitters are not interested in internal feuds; instead, they want leadership that focuses on work. Within Perikatan Nasional, the public realizes PAS's administrative capabilities are limited, so they look to Bersatu for policy capability. Unfortunately, for three consecutive years, their general assemblies have only revolved around sentiments of promoting specific individuals. Political confrontation should shift away from fanatical sentiment toward policy debate and data-driven economic solutions.
+**Speaker 1:** Okay, good. So that’s the MP payslip. The basic salary for an MP is actually 16,000. Because you are an administrative member—a Minister—you only get the Minister’s allowance. You don’t get all the MP allowances. So, 16,000 minus the Angkasa deduction, YB.
 
-**Host:** Regarding the security issue and threats against the LNG complex in Bintulu, Sarawak, what is the underlying message behind this issue?
+**Rafizi Ramli:** What is the Angkasa deduction?
 
-**Rafizi Ramli:** The security forces naturally do not share detailed information due to security factors. However, this LNG complex is extremely critical to the country's economy because LNG is among our largest export commodities with long-term contracts to countries like Japan, China, and Korea. If the facility is forced to temporarily shut down as a proactive security measure, losses could reach tens of millions of ringgit a day. This threat case shows that the nation's security challenges are becoming increasingly complex. Companies managing strategic national infrastructure like TNB, Petronas, and Telekom Malaysia need to review their physical security SOPs as well as cyber threats.
+**Speaker 1:** Deductions for the party.
 
-**Host:** A hot issue involves the rejection of high-achieving STPM students into Universiti Malaya (UM). There is a proposal to establish a single examination pathway because STPM is said to be much tougher than matriculation or foundation courses.
+**Rafizi Ramli:** But why is it under the Angkasa column, YB?
 
-**Rafizi Ramli:** The diversity of pre-university entry channels is not an issue unique to Malaysia. In the UK, students enter university via A-Levels, IB (International Baccalaureate), Scottish Highers, or HND. In Malaysia, this issue becomes emotional due to racial perception, where matriculation is seen as favoring Bumiputeras while public university quotas are alleged to narrow opportunities for other races.
+**Rafizi Ramli:** Because Angkasa does have an arrangement with the government. If there are loan deductions or cooperative fees, everything is done through Angkasa. So, I recall PKR has a concept similar to Angkasa. So, it deducts 8,000, and I receive 7,600.
 
-However, the core issue that is rarely discussed is the financial sustainability of public universities. Public universities rely over 90% on government allocations and subsidies. Fees paid by regular students cover only around 10% of the actual cost. Due to the government's fiscal constraints, universities are forced to balance their finances by opening Channel 2 (direct intake charging full fees) and attracting international students to cross-subsidize the education of other students. As a result, places for the UPU channel become extremely limited and competitive for popular courses like Accounting at UM.
+**Speaker 1:** So they deduct even more. The contribution to the party is 8,000, and everyone receives 7,600. So adding the two from earlier, 29 plus 7, you get about 35,000 or 36,000 a month.
 
-Furthermore, we need to look at the flaws in the grading and assessment system. When too many students obtain a 4.0 GPA (4 flat) or 10 As, it becomes difficult for the examination system to distinguish true academic merit according to a normal bell curve. We also need to rectify the disconnect between course supply and demand. Courses that have low industry demand but consume significant resources should be restructured so that capacity can be expanded for high-demand courses. Creating a single exam system will not solve the problem if the root cause is a shortage of seats and funding constraints.
+**Speaker 1:** So out there, they exaggerate the Minister’s salary.
 
-**Host:** Regarding the pro-Palestine rally at Sogo and Suria KLCC where wooden flagpole sticks were not allowed in by security guards, was that action justified?
+**Rafizi Ramli:** It’s not just exaggerated, it’s inflated.
 
-**Rafizi Ramli:** This is a lose-lose issue. The security personnel at Suria KLCC acted in accordance with building security SOPs prohibiting objects that could be used as weapons. This does not mean Suria KLCC management is anti-Palestine. However, security SOPs need to be updated and clarified. A reasonable solution is allowing participants to bring in flags or keffiyeh scarves, but requiring wooden flagpoles to be left at the entrance or concierge counter.
+**Speaker 1:** Sorry, another typo. Ministers should be getting 60,000, some even 100,000, but you, YB, are just barely getting by.
 
-**Host:** What about the Urban Renewal Act (URA / PSB) issue and PAS's statements regarding the Kampung Sungai Baru issue?
+**Rafizi Ramli:** That’s it, I think I’m the Minister who is "barely getting by," right?
 
-**Rafizi Ramli:** Urban redevelopment is an unavoidable necessity to ensure local residents benefit from rising property values. Regarding PAS's claim that the Kampung Sungai Baru case is a "teaser" for the URA, I advise PAS not to exploit this issue merely to stoke public anger.
+**Speaker 1:** No, well, I think it depends on each Minister because some Ministers sit on boards of directors. For example, if they are on a GLC board of directors, they get fees as a board member, meeting allowances, and so on. That’s why if you add it all up, it might be that much. Then, for instance, a Chief Minister has the state economic development corporation, then subsidiaries, so if they sit as the chairman of the board of directors for each of those—that one pays 10, this one five—that is how it can reach over 100,000.
 
-When PAS was in the Federal government previously, this Kampung Sungai Baru project was approved under their own administration. Records show that PAS's Urban Committee (Lajnah Bandar) previously supported this legislation before making a U-turn. If PAS becomes the Federal government in the future, they will still proceed with this urban renewal act. The most paramount matter is ensuring that initial negotiation processes and legal terms are drafted fairly to protect the rights of property owners and tenants.
+**Speaker 1:** Then for MPs, they can claim, although I have never claimed anything. Everyone is surviving, right? Now that I am poor, I suppose I should claim, right? But there are MPs who claim for travel, hotels, and so on; there are conditions for it. So for those outside KL, they can claim up to 20,000 or 15,000 a month. So, adding it all up, they can get over 40,000. If they are also appointed to a GLC board of directors or a statutory body, they have other allowances too. But I only have this much.
 
-**Host:** Next, we move to the World News segment, specifically the wave of youth (Gen Z) protests in Nepal and Indonesia. What is actually happening to world hegemony?
+**Speaker 1:** Right, and if YB were still in the private sector, how would you look at it?
 
-**Rafizi Ramli:** The youth protests in Nepal and Indonesia are symptoms of cracks in the global capitalist system after operating without grounded challenges for over 100 years.
+**Rafizi Ramli:** Well, that’s what people call, as the Mat Salleh say, a "dichotomy"—I’m the only one who likes using the word "dichotomy," right? It means the dilemma is more complicated because if you compare a Minister’s net salary of 29,000 to the private sector, I think 29,000 is a senior manager’s salary. It doesn’t reach general manager level, let alone CEO, because CEO salaries are usually 70,000 and above.
 
-Historically, starting from the Industrial Revolution in the 19th century, an ideological conflict existed between capitalism and communism/socialism. The idea of communism was based on state ownership of all property (communes). However, by the 1950s and 1960s, systemic failures in the Soviet Union and China under Mao Zedong proved that communism failed to match the prosperity brought by the capitalist system. After Deng Xiaoping's economic reforms in the late 1970s, the world practically practiced only one system: capitalism.
+**Speaker 1:** So this is a polemic because it’s not just Ministers, but also, for example, the Secretary-General of a ministry. Their scope of responsibility covers the entire country and a large sector. But their salary is just that—29,000.
 
-After a century, the cracks in the capitalist system are beginning to show due to an excessively large inequality gap between the elite and ordinary people. In Europe, the dissatisfaction of right-wing youth is easily inflamed by anti-immigrant sentiment. In Nepal, the situation is even more unique. Nepal overthrew its monarchy around 20 years ago, and governance was taken over by the Communist Party, which promised to distribute wealth equitably. Yet after two decades, only the communist party leaders themselves have become wealthy, while the people remain poor. Anger erupted when the government took action to ban social media platforms.
+**Rafizi Ramli:** A KSU (Secretary-General) gets about 29,000 like that, unless the KSU sits on different boards, then they have additions. But if you compare it to basic salary.
 
-This is a profound lesson for politicians in Malaysia. Whether it is Pakatan Harapan, Barisan Nasional, or PAS, if the public continues to feel squeezed and promises of change are not delivered—while new leaders multiply their personal wealth instead—public anger will eventually explode.
+**Speaker 1:** Meaning, a person responsible for overseeing a sector so vast that it covers an entire country only earns a senior manager’s salary. That is why people in the private sector are not attracted to join politics because there is no remuneration. This is a dilemma in society because there is a view that we need to pay higher salaries to attract more high-quality people to enter politics.
+
+**Speaker 1:** But even if we compare it to the private sector, a Minister’s net salary of 29,000 is actually low. However, we cannot look solely at parity with the private sector. We must also look at parity with, for example, average and median wages. The median wage of the people is about 3,000. So for most people, a Minister’s salary of 30,000 feels like a lot. So this matter will continue to be a polemic and a societal dilemma because with that salary, the type of people willing to step forward to join politics and take on the risks might not be many professionals.
+
+**Speaker 1:** That’s why if we look at it, professionals are usually only Senate appointments. Not many who hold corporate positions or have high incomes would resign to get involved in politics because they would lose too much. And some say that is why politicians are prone to corruption, but I don’t know about others; that depends on everyone’s individual intentions.
+
+**Rafizi Ramli:** I think politics is a "calling."
+
+**Speaker 1:** Meaning, if we want to move forward, the remuneration shouldn't just be about money, right? That’s why, in party elections, people like me don’t have the opportunity to live luxuriously like others used to. Besides the fact that I don’t agree with showing off luxury with hotels, giving headscarves, and all that. One reason is that I really don’t have the money, because that’s all we get. So as long as we don’t clean up our political culture—which actually doesn’t depend only on the top leadership, but also on the grassroots—we shouldn’t rely on the top leadership to hand out money. Otherwise, the pressure to have deep pockets will continue, and that cycle will persist.
+
+**Speaker 1:** Right, YB. So, have you seen it all?
+
+**Rafizi Ramli:** Ah, satisfied.
+
+**Speaker 1:** You are all satisfied that you got to see the Minister’s and MP’s payslips. This is not the first time, guys.
+
+**Rafizi Ramli:** It’s the first time for a Minister to get a Minister’s payslip shown.
+
+**Speaker 1:** Ha, debts settled? Okay, let’s move on to the actual segment, which is "Beria."
+
+**Speaker 1:** So "Beria" here, YB, aside from being earnest, you actually call it "poyo" (pretentious).
+
+**Rafizi Ramli:** Well, 10, 15 years ago, I used to coach school kids, debate coaching. Back then, I didn’t even understand this "poyo" thing.
+
+**Speaker 1:** So I was still stuck. Stuck in that era, my understanding of "Beria" is that it’s probably just "poyo."
+
+**Rafizi Ramli:** Hmm. Okay.
+
+**Speaker 1:** Okay YB, are you ready? As usual, we provide the image, and you explain. The first one, "11th PM Candidate Bersatu won’t take ugly, dirty roads to remain in power." This is from the recent Bersatu Annual General Meeting where there was shouting, there were SDs (Statutory Declarations).
+
+**Rafizi Ramli:** Finally, the resolution for Tan Sri Muhyiddin to remain the PM candidate. The only part I’m not satisfied with is saying Bersatu doesn’t take ugly, dirty roads to remain in power. Because it started with the "Tebuk Atap" (Roof Drilling) SDs. Then they suspended Parliament during the emergency. Then we couldn’t leave our homes. So, that’s not true. But, well, it is "beria" (earnest) to wear red. His Baju Melayu looked nice.
+
+**Rafizi Ramli:** This dilemma is the same as, I remember, when Pakatan Harapan was in the opposition, it was a bit more comfortable because there wasn’t much contradiction regarding the Prime Minister candidate. So, in Bersatu right now, the internal turmoil seems huge because news reports say there are already 120 SDs. I’m just saying there will be more later.
+
+**Speaker 1:** Oh, there’s more?
+
+**Rafizi Ramli:** "Beria" because it looks like Tan Sri Muhyiddin is earnestly laughing with Datuk Seri Hamzah Zainuddin. Azmin looks like he’s thinking, look at Hilman’s face. Even Hilman is saying they are being so earnest, because all of Malaysia knows that Muhyiddin and Hamzah are actually in a big fight, yet they are earnestly laughing in front of people.
+
+**Speaker 1:** Next. "PAS is ready to cooperate with all parties except DAP." Establishing cooperation with PKR and UMNO.
+
+**Rafizi Ramli:** Ah, that’s true; they want to get back into power. As long as they get to be Ministers again. If Ustaz Idris becomes a Minister again, he’ll be happy. Hmm, "beria," indeed, if it were up to him, he’s earnest about cooperating with everyone.
+
+**Speaker 1:** Next. This is Sid, YB. Do you know Sid?
+
+**Rafizi Ramli:** No, I don’t know him. I only remember one thing because he used to talk big. Then I invited him to the YBM podcast.
+
+**Speaker 1:** Oh, he was invited?
+
+**Rafizi Ramli:** Then he gave all sorts of excuses. Who is this guy?
+
+**Speaker 1:** He was an AJK (committee member) for Bersatu Putrajaya. Up until now, if I’m not mistaken. And he was also once the PTTK (special officer) for the Foreign Minister.
+
+**Rafizi Ramli:** I see. That was when they were in power. So what is he saying? Well, whatever the PM meets, it will all turn out like this. It’s "beria" (trying too hard), I guess. He looks sloppy (*selebek*). But he’s earnestly sloppy. A curse (*badi*). So supposedly there is a curse. I’m more worried if there’s a curse with him. So he can just spin things. Whoever the Minister is that hired him as an officer or whatever. A curse, he didn't become a Minister. After that. Because Saifuddin Abdullah is no longer one. Oh, it hit him.
+
+**Speaker 1:** So you can say the same, YB. Are you ready for us to invite him back, YB?
+
+**Rafizi Ramli:** No need. It’s a waste of time. A waste of time. I don’t think he has any value. Why are you all entertaining him? Better we don’t entertain him again.
+
+**Speaker 1:** Okay, last one. "This is the principal and Fadhlina are cousins." These are all these cousins. It’s no wonder they are colluding in this case. The principal wasn’t detained, only to find out they are cousins.
+
+**Rafizi Ramli:** Well, they are "beria" (enthusiastically) slandering people. I don’t know the details, but I don’t think that principal is Fadhlina’s cousin. I don’t know the ins and outs of Fadhlina’s family, but I don’t think so. This is the behavior of just shooting blindly. Fadhlina has already made a police report, right? And the person has also retracted the statement. But the fact that they were so confident saying they are cousins, this is like that MP from Kepala Batas, also cousins. He said he got it from TikTok, from someone else’s live stream. Then when he checked back, he had deleted it. So he had no defense. Even though it wasn’t you. You’re just smart, aren’t you? Enjoyable, right? Next time, at least, even though people say *ChatGPT* is sometimes used for jokes, before you are "beria" (eager) to write a comment, go ahead and "beria" (earnestly) chat on *ChatGPT* first, ask it. Because at the very least, *ChatGPT* can give you a rough picture, and then you have to investigate further.
+
+**Speaker 1:** True. Do you want to do a ranking, YB?
+
+**Rafizi Ramli:** This week the "Beria" segment is quite bland. You all chose very bland ones. For this one, I give a three because I like the four people in front with Radzi Jidin on the side. The way they laugh, grin, and glare—it’s earnest. For this one, I give a one because there is no value in bringing him into this podcast. For this one, I give a two, because next time, being this "beria" (eager) leads to police reports and everything. But his identity is already known to people.
+
+**Speaker 1:** But the "Beria" for this week is bland. So I ask my friends to suggest "Beria" for next week.
+
+**Rafizi Ramli:** Find ones that are truly "beria" (earnest).
+
+**Speaker 1:** Let’s continue. The next segment is "Hidup Keras Dik" (Living Hard, Kid). Bersatu is shocked that 120 Bersatu division heads are pushing for Muhyiddin to step down. Is this their election preparation like what Azmin said, YB?
+
+**Rafizi Ramli:** This is other people’s party. Actually, if I were still the Deputy President of PKR, I wouldn’t comment because it’s a party matter. But now we are free agents, we can comment on anything. Well, if you look at those 120 division heads, Bersatu actually has 202, right? 120 is more than half. So I understand their intention; the sworn declaration means they no longer have confidence in the leadership, coming from more than half of the divisions. That is actually, according to the rules, when 120 people sign a sworn declaration, it is a party constitutional process. So, if the party has a constitution, and the constitution gives power to the division heads, then the division heads have the legitimacy to determine the party’s direction. That’s all, there’s no problem.
+
+**Speaker 1:** Do you feel that Bersatu will split into two, namely the Hamzah camp and the Muhyiddin camp?
+
+**Rafizi Ramli:** I think if we look at the history of parties in Malaysia, when leadership clashes like this occur, usually it ends in a split. We look at UMNO, we look at PAS, we look at PKR, we look at DAP. All these parties have gone through phases of leadership clashes and splits. So if Bersatu wants to remain, it must find a way to resolve this leadership issue internally, diplomatically. But if it wants to continue fighting and splitting, then that is what will happen. Eventually, the party will become weak and divided. So that is up to Bersatu’s leadership to choose which path to take.
+
+**Speaker 1:** Thank you, YB, for this clarification. Zari asks, is a vacant house tax truly capable of lowering housing prices that are becoming increasingly unreasonable?
+
+**Rafizi Ramli:** This is a very interesting question and is a very hot issue in the world right now. The issue of a vacant house tax or "vacancy tax." If we look at developed countries like Canada, Australia, and the UK, they have already implemented this vacancy tax. Its goal is to encourage homeowners who leave their houses vacant without occupants to rent them out. Because when a house is left vacant, it reduces the supply of houses in the market. And when the supply of houses is low, rent will increase, and house prices will also increase. So, is it capable of lowering house prices in Malaysia? I think it is one of the instruments that can be used to address the problem of house prices. But it is not the absolute solution. We also need to look at other factors such as construction material costs, land costs, and the national housing policy as a whole. But to answer Zari’s question, is it capable of lowering housing prices that are becoming increasingly unreasonable? I think in the long term, yes. Because if many people rent out their houses, the supply of rental houses will increase, then rental prices will stabilize. And when rental prices stabilize, the demand to buy houses for speculative purposes will decrease. So that is one step that can be considered.
+
+**Speaker 1:** Azam asks, why do so many talented Malaysian workers choose to migrate abroad? And what are the concrete steps of the government to attract them back?
+
+**Rafizi Ramli:** Ah, this is a very heavy and deep question. The issue of "brain drain" is an issue that has long haunted our country. The answer to Azam’s question requires a comprehensive approach. First, we have to understand why they leave. Usually, they leave because they are looking for better career opportunities, higher salaries, and also a better quality of life. So to bring them back, we have to provide an ecosystem that is attractive to them. We have to provide career opportunities that are on par with what they get abroad. We have to ensure the salaries offered are competitive. And most importantly, we have to ensure the work environment and quality of life in Malaysia are attractive. Aside from that, the government can also provide incentives to those who want to return. For example, tax facilities, relocation assistance, and so on. But once again, this is not something that can be solved in a short time. It is a long-term effort that requires cooperation from the government, the private sector, and the community.
+
+**Speaker 1:** Let’s continue to our final segment, which is the hope segment. YB, can you provide some encouraging words for the people of Malaysia?
+
+**Rafizi Ramli:** Wow, the hope segment. My hope for the people of Malaysia is that we continue to be united, continue working hard, and continue to be optimistic for the future of our country. I believe with the strength of the Malaysian people, we are capable of facing any challenge, and we are capable of achieving a more brilliant future for all. Together, we can.
+
+**Speaker 1:** Thank you, YB. And before I forget, there is a program we will be doing this weekend, YB?
+
+**Rafizi Ramli:** Yes, a meet-the-people program. I will be holding meetings in several places, the nearest one being in Seremban this Saturday. I invite everyone to come.
+
+**Speaker 1:** Good, YB. Speaking of integrity, to what extent do you feel the government today has succeeded in fostering a culture of integrity among civil servants and political leaders?
+
+**Rafizi Ramli:** Integrity is something very fundamental. If we want our country to advance, if we want our economy to grow, integrity is the key. The Madani government does indeed place integrity as a priority. We have various mechanisms to monitor, to ensure that corrupt practices and abuses of power can be reduced. But this is not just the government’s job. It is everyone’s job. There needs to be awareness from society, from civil servants, and from political leaders themselves. I feel that change is happening. We see now that more and more corruption cases are being brought to court. This shows that our justice system is functioning well. And I hope that this will serve as a warning to anyone who tries to commit acts of corruption. But we cannot get comfortable. We have to continue this effort. We have to ensure that the culture of integrity becomes our daily culture.
+
+**Speaker 1:** What is YB’s view on the Auditor General’s report that often shows leaks in the government’s financial management?
+
+**Rafizi Ramli:** The Auditor General’s report is a very important document. It gives us a clear picture of how the people’s money is spent. And when we see there are leaks, we have to take action. We cannot let these leaks continue. So what the government is doing is that we examine every remark made by the Auditor General. And the ministries involved are obligated to provide explanations and also action plans on how they intend to overcome the problem. This is a very strict process. We want to ensure that every ringgit spent is for the benefit of the people.
+
+**Speaker 1:** What is the role of the media in shaping public perception of the government?
+
+**Rafizi Ramli:** The media plays a huge role. The media is the bridge between the government and the people. If the media reports news accurately and fairly, then the people will receive the correct information. But if the media reports inaccurate information, or is biased, then it will form a wrong perception. Therefore, I hope that the media in Malaysia will continue to carry out their duties with integrity. And I also hope that the people will be wiser in evaluating the news they receive. Because in this age of social media, fake news spreads very quickly. So, media literacy is very important now.
+
+**Speaker 1:** Is there anything else you would like to say to the people, YB?
+
+**Rafizi Ramli:** I just want to advise everyone, let us work together to develop our country. Let us not allow differences in political opinion to hinder us from working together for the interest of the nation. We have a lot of potential, we have great human resources, and we have many sources of wealth. If we are united, I am confident we can achieve even greater excellence. Thank you to everyone who listened to this podcast. May we all be blessed by Allah.
+
+**Speaker 1:** Thank you very much, YB Rafizi, for your willingness to spend time with us. May you continue to be energetic in carrying out your duties for the people and the country.
+
+**Rafizi Ramli:** Amin, likewise.
+
+**Speaker 1:** Alright, that concludes our podcast for today. See you in the next episode.
