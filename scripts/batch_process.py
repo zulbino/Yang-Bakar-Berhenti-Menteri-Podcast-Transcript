@@ -11,6 +11,7 @@ Usage:
 import json
 import subprocess
 import sys
+import traceback
 from pathlib import Path
 
 from transcribe_episode import process
@@ -49,3 +50,4 @@ if __name__ == "__main__":
                 commit_episode(out_dir, ep["title"], stage)
         except Exception as e:
             print(f"FAILED {ep['video_id']}: {e}", file=sys.stderr)
+            traceback.print_exc()
