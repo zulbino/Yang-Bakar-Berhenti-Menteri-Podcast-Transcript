@@ -19,8 +19,10 @@ from common import human_duration, retry
 # gemini-3.7-flash has repeatedly hit sustained 503 UNAVAILABLE (high demand) across
 # multiple test attempts since its Aug 13 launch. gemini-3.6-flash has been reliable
 # throughout; pricing is identical, so there's no upside to retrying 3.7-flash.
-RAW_MODEL = "gemini-3.6-flash"
-TEXT_MODEL = "gemini-3.6-flash"
+# Free-tier daily quota is tracked per-model, so when gemini-3.6-flash's 20/day cap
+# is exhausted, gemini-3.5-flash has its own separate allowance to fall back to.
+RAW_MODEL = "gemini-3.5-flash"
+TEXT_MODEL = "gemini-3.5-flash"
 
 # This is a political podcast discussing corruption inquiries, scandals, and named
 # public figures -- content Gemini's default safety filters (esp. civic integrity /
