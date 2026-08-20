@@ -15,14 +15,15 @@ guests:
 topics:
 - Sales and Service Tax (SST)
 - Bumiputera Economic Empowerment
-- Government Agency Restructuring
-- Public Sector Productivity
+- Government Agency Restructuring & Efficiency
+- Structural Economic Reforms
 - Progressive Wage Policy
-summary: In this episode of Yang Bakar Menteri, Minister of Economy Rafizi Ramli answers
-  questions from guest Faiz of Financial Faiz regarding the Sales and Service Tax
-  (SST), challenges in Bumiputera economic empowerment, restructuring government agencies
-  such as Teraju, Ekuinas, and Yayasan Peneraju, public sector productivity, and the
-  implementation of the Progressive Wage Policy.
+summary: In this episode of Yang Bakar Menteri, host Rafizi Ramli addresses queries
+  from financial content creator Faiz regarding the implementation, scope, and confusion
+  around Sales and Service Tax (SST) for small businesses. Rafizi also discusses support
+  programs and government agency efficiency for Bumiputera entrepreneurs following
+  the Bumiputera Economic Congress, strategies for executing long-term structural
+  economic reforms, and the mechanism behind the Progressive Wage Policy.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -30,96 +31,76 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Assalamualaikum warahmatullahi wabarakatuh. Welcome to the *Yang Bakar Menteri* podcast show. We broadcast biweekly. Tonight, as usual, we are joined by YB Rafizi Ramli. How are you, YB?
+**Host:** Assalamualaikum warahmatullahi wabarakatuh. Welcome to the *Yang Bakar Menteri* podcast show. We broadcast once every two weeks. Tonight, as usual, we are with YB Rafizi Ramli. How are you, YB?
 
-**Rafizi Ramli:** My leg hurts quite a bit. I need to sleep soundly because this pain persists 24 hours a day. So, if my mood isn't great tonight, it has nothing to do with this podcast.
+**Rafizi Ramli:** My leg hurts.
 
-**Host:** We pray for YB's speedy recovery. Tonight we have a special guest who is well known on social media, brother Faiz from the show *Financial Faiz*. Ready to roast the Minister tonight?
+**Host:** Have you eaten yet, YB?
 
-**Faiz:** God willing, yes. Thank you for inviting me. Let's go.
+**Rafizi Ramli:** Yes, I have. I got to sleep deep, so it's 24/7 pain. So if I'm in a bad mood tonight, it's nothing to do with the podcast. It's just, you know...
 
-**Host:** Tonight, brother Faiz will try to roast YB Minister, and if YB feels the heat, he will roast him right back. I am filling in for brother Nazri Hamdan as the moderator tonight. Before brother Faiz begins, we have also gathered questions from viewers via the hashtag #TanyaRafizi on social media. Without further delay, let's start with a question from brother Faiz.
+**Host:** Okay, we pray that YB gets well soon. Tonight we have a special guest, someone famous on social media, brother Faiz from Financial Faiz.
 
-**Faiz:** Thank you, YB. My company started paying SST this year. In the early stages, there was a threshold that exempted us. However, the implementation of this SST is quite confusing and explanations from the Customs Department were rather weak, especially when the Service Tax rate was raised to 8% in March, which sparked outrage among many people. Why did this happen?
+**Rafizi Ramli:** That looked really awkward. He says famous, and then he doesn't remember the name.
 
-**Rafizi Ramli:** In reality, the Sales and Service Tax (SST) is nothing new. It is a tax that has existed for a long time. Through the annual Budget, the government has the right to determine the types of services or goods subject to tax as well as their tax rates. This is not something that only happens under the Unity Government, but rather an existing policy approach from before.
+**Host:** No, the show's name is Financial Faiz.
 
-The main question is, why did the government raise the rate by 2% and add three new services? Some parties suggested that GST be re-implemented. However, our approach is to tax as small a group as possible. If we implement GST, all 30 million Malaysians will be taxed. In contrast, SST previously only involved around 500,000 companies. Although adding three new service areas expanded SST coverage slightly, the number of taxpayers is still far smaller compared to GST. The government chose to narrow the scope of this indirect tax to specific groups only, including professional services such as the one run by brother Faiz.
+**Faiz:** The brand is actually more than just his name, you know. Faiz, the face.
 
-**Faiz:** From a legal standpoint, that is indeed within the government's jurisdiction. But from the perspective of a small business owner, it is confusing. Our company has one sector code, but offers several services—for example, advertising and marketing. Marketing is subject to SST, while advertising receives an exemption. When we provide services to different clients like agencies or banks, an imbalance arises that surprises our finance team. Why does this difference exist?
+**Host:** OK, brother Faiz, how are you?
 
-**Rafizi Ramli:** In principle, if the service is the same, the treatment should be similar. Specifically for the advertising industry, SST regulations actually began back in 2019. There are two main components: services provided by the firm itself, and pass-through costs such as media buys.
+**Faiz:** Alhamdulillah. Thank you for having me here. Let's go.
 
-Collecting tax on media buys is unfair because it would lead to double taxation. Therefore, media buys are exempted from SST because they are counted as pass-through costs within the same service group. Customs has issued guidance notes on this since 2019. For companies that have just crossed the tax threshold, I understand that it takes time to comprehend these differences. The policy intent is to be fair so that companies do not pay tax on pass-through costs. Tax regimes are constantly evolving, and if there are weaknesses in explanation, it is the government's responsibility to improve them.
+**Host:** Let's go. Ready to grill the Minister tonight?
 
-**Faiz:** This clarity is important for business efficiency. Small businesses like ours want to focus on generating revenue, not be burdened by bureaucracy and the threat of penalties.
+**Faiz:** Insya-Allah, yes.
 
-Speaking of business issues, I recently attended an Engagement Session for the Bumiputera Economic Congress. The participation of Bumiputera companies in industry was found to still be very small. Despite various government assistance initiatives, the delivery is not felt at the grassroots level. New entrepreneurs frequently make structural mistakes with their companies due to a lack of exposure. Bumiputera assistance should be more effective. Why is the situation still like this?
+**Host:** Earlier before we went live, there were already some hot questions, but that's behind-the-scenes stuff. Tonight, we will let brother Faiz try to grill YB Minister. And if YB Minister feels the heat, he will grill back. I am replacing brother Nazri Hamdan as the moderator tonight. Before brother Faiz begins, we also have prepared several questions from viewers outside through the hashtag #TanyaRafizi. But before that, let's start with brother Faiz first. Yes.
 
-**Rafizi Ramli:** This issue of assistance for Bumiputera entrepreneurs has existed for a long time. The public funds allocated are substantial. Non-Bumiputeras, on the other hand, frequently question why tax allocations are used specifically for Bumiputeras while they have to be self-reliant. Therefore, balance is important. The government organized the Bumiputera Economic Congress because we acknowledge that the billions of ringgit spent every year have yet to deliver a satisfactory impact at the entrepreneur level.
+**Faiz:** OK. YB, let's get to it. So, I have a company and we have started paying SST this year. When we started about a year ago, not yet because there had to be a threshold, which is nice. But my finance team complained that the implementation of SST is indeed quite confusing, and the explanation from the Customs Department is quite weak. Especially when this March they want to raise the service tax to 8%, which makes people angry. Why did this happen?
 
-This shortcoming stems from several factors:
+**Rafizi Ramli:** Actually, the Sales and Service Tax (SST) is nothing new. This tax has existed for a long time, and year after year during the Budget, the government has the right to determine which sectors or types of services and goods are subject to the tax.
 
-First, the expectation gap. Government assistance must not cause Bumiputera entrepreneurs to become overly reliant on it. They need to compete with non-Bumiputera companies and foreign companies that are self-reliant without assistance. Providing capital and training must be balanced with capability building.
+**Faiz:** Now there are 15, increased from 12 to 15.
 
-Second, the target group. Focus should be given to small, competitive companies through capability building, rather than merely awarding contracts or grants. Continually handing out grants without building long-term competitiveness is unhealthy. Unfortunately, past programs often veered toward large companies and contract awards.
+**Rafizi Ramli:** There are 15, with three new ones added, along with rate adjustments. So this is not something that happens under this unity government only; this has been happening since before. To me, this is not a matter of something new. From the perspective of the government and the Customs Department, the act is already there and any company that meets the eligibility criteria must pay SST. The only question is, why raise the tax by 2% or add three new services? Because there are options like GST, but if we implement GST, all 30 million Malaysians will have to pay. SST previously only involved around 500,000 companies. So with the addition of three new service areas, the number of taxpaying entities is still small compared to if we switched to GST. The government's current approach is to focus on a targeted group, including professional services such as those run by Faiz.
 
-Third, overlapping government agency programs. Programs competing against each other cause large allocations to fail to reach the target groups. The government's new approach is to ensure that spent allocations produce entrepreneurs who are capable of being self-reliant and exiting reliance on the assistance system, thereby creating space for new entrepreneurs.
+**Faiz:** OK, YB. It's true YB answered from a legal standpoint that SST is under the government's jurisdiction to raise or lower. But from the standpoint of small business owners, it's quite confusing because some businesses operate in several fields. We have one sector code but provide multiple services. When the field is the same as the client's, there's no need to charge SST because it's already paid. But if the fields aren't the same, for example Financial Faiz or FS Studios has two services: advertising and marketing. One gets an exemption, the other doesn't. This shocked our finance team—why targeted services differ according to the client's sector code. Why is there this imbalance? Why pick and choose?
 
-**Faiz:** As a participant in a program under an agency of the Ministry of Economy, my view from the grassroots is that the cost of hiring management consultants is huge, yet the results do not stem from the program itself. Companies eligible to join the program are already profitable and stable to begin with.
+**Rafizi Ramli:** Careful saying that, after this the Customs Department will come and audit. Ideally, if the service is the same, the coverage should be consistent. However, there are specific adjustments, for example in advertising services.
 
-Looking at data from DOSM and the Ministry of Economy, over the past three years, only one out of 97 companies listed on Bursa Malaysia was a Bumiputera company. The median income gap also widened from 1989 to 2022. Even though agency aid budgets have increased, where went wrong? What do the Ministry of Economy and YB yourself want to change?
+**Faiz:** True, advertising vs marketing.
 
-**Rafizi Ramli:** A major problem in government is the overlap among dozens of agencies, each claiming to run Bumiputera programs with mixed success rates. Often, out of 100 participants, only two truly succeed, but those two are the ones hyped up.
+**Rafizi Ramli:** Advertising is specific, and the SST regulations on it have been in place since 2019. There are two components: one is the firm's own service, and the other is the pass-through cost. Media buy, for example, is not subjected to SST to avoid double taxation because it is considered within the same group of service. Guidelines have been issued by Customs since 2019 to identify pass-through costs. For companies that are newly eligible to pay tax, I do understand it does take some time to really understand the difference. But the intention is to be fair so that companies do not pay tax on pass-through costs. Tax regimes anywhere will always evolve, and if there are weaknesses in understanding, it is the government's role to rectify them. If everything were 100% easy to understand, tax consultants wouldn't exist.
 
-That is why the Bumiputera Economic Congress was held: to shift direction and mindset. Second, if program design is not done carefully, a large portion of the allocation leaks to consultants.
+**Faiz:** True. But that's talking about the efficiency of running a business in Malaysia. Even though my company is only a year and a half old, being tied down by red tape raises fears of penalties. Looking back at the recent Bumiputera Economic Congress Engagement Session, participation by Bumiputera companies is still very small. Although data shows a lot of aid is provided, that assistance hardly reaches the grassroots level. Most of us do not come from business families, so issues arise such as choosing the wrong business structure (Sdn Bhd vs Enterprise) and failing to comply with audit reports. Shouldn't Bumiputera support be more felt?
 
-At the Ministry of Economy, we have changed this approach. In poverty eradication programs like the People's Income Initiative (IPR INTAN), we no longer hire consultants for training or give direct cash aid to participants. Instead, the government invests in modern agricultural infrastructure to reduce business risk. Participants have to come and work the sites. The principle is to give a fishing rod, not a fish.
+**Rafizi Ramli:** The issue of assistance to Bumiputera entrepreneurs started even before independence. In reality, a lot of public money is allocated for the Bumiputera ecosystem. Non-Bumiputeras, on the other hand, might question why tax money is used that way, so a balancing act is essential. That is why we organized the Bumiputera Economic Congress, because the government accepts the fact that despite billions of ringgit spent every year, Bumiputera entrepreneurs still feel the impact is not enough.
 
-This concept has also been refined for Bumiputera agencies under the Ministry of Economy, such as Teraju, Ekuinas, and Yayasan Peneraju. After auditing past programs over the last 7 to 8 months, I was dissatisfied because there were abuses and grant allocations were not reaching the target groups.
+**Faiz:** Why does that happen?
 
-**Faiz:** I am glad YB conducted an audit and expressed dissatisfaction with the findings. However, regarding agencies like Ekuinas and Teraju, are the staffing and size of these agencies too bloated? In private companies, every staffing cost is ensured to yield productivity. Can the size of these public agencies be streamlined, and overlapping agencies consolidated?
+**Rafizi Ramli:** This means there are shortcomings and targeting needs to be improved. It also stems from dependency. Bumiputera entrepreneurs have to compete with non-Bumiputera businesses and foreign companies that receive no aid, so they need to build their own capabilities. Assistance should not go as far as weakening competitiveness. Furthermore, focus should be given to competitive small companies through capability building, rather than purely giving out contracts or grants. I ran my own business before; getting a RM1 million grant is certainly enjoyable, but for the long term it is unhealthy if it creates dependency. In addition, there is duplication of programs among government agencies, causing aid not to reach effectively. The government needs to set clear parameters: if an allocation of X billion is given to empower Y number of companies, after a certain period those companies must become self-competitive so that allocations can be shifted to new companies.
 
-**Rafizi Ramli:** Regarding the consultant issue, program allocations are approved according to annual budgets and often involve approvals for long-term contracts. A project approved in 2020, for example, is bound by a 5-year contract. When the new government takes over, we set a cut-off date, but existing projects must be completed according to contract. Full adjustments will become visible after these remaining contract periods expire.
+**Faiz:** YB, I myself am a participant in a program under the Ministry of Economy through one of its agencies. From an on-the-ground perspective, we know management consulting costs are huge, but the participants' success isn't really due to the program itself because accepted participants already had existing businesses and showed profits for the last 2–3 years. Apart from that, data from the last three years shows only 1 out of 97 companies listed on Bursa Malaysia is a Bumiputera company. The median income gap has also widened from 1989 to 2022 despite increasing agency budgets. Where did things go wrong, and what does the Ministry of Economy or YB personally want to change?
 
-Regarding claims that the public sector is too bloated, we must be objective. The definition of a civil servant in Malaysia differs from other countries because it includes teachers, doctors, nurses, police, and the military. Adding teachers or doctors is a direct service requirement for the people.
+**Rafizi Ramli:** Overlapping programs among dozens of agencies is a major issue. Many agencies claim to run Bumiputera assistance programs, but their success rates vary. Out of 100 participants, maybe only 2 truly succeed, and those 2 are the ones hyped up. This is what we are changing through the Bumiputera Economic Congress. In addition, careless program design has led to a portion of allocations going to consultants. In new approaches like the People's Income Initiative (IPR), we no longer use consultants or give direct cash to participants. Instead, the government invests in infrastructure and the ecosystem—such as IPR INTAN for modern agriculture—where participants come to work and cultivate the sites. This strategy of giving the fishing rod, not the fish, is being applied to agencies under the Ministry of Economy such as Teraju, Ekuinas, and Peneraju. I have spent the last 7 to 8 months auditing legacy programs and rectifying these leakages.
 
-There are two ways to manage staffing: cut manning, or sweat the asset to maximize productivity. We want the civil service to utilize technology for manual tasks so that manpower can be shifted to critical sectors like health and education. Staffing additions are strictly controlled by the Public Service Department (JPA) and operating budgets.
+**Faiz:** YB, I'm glad YB audited them and was dissatisfied with the previous state of affairs. Regarding agencies like Ekuinas and Teraju, are their allocations still being used to hire consultants? And are these agencies overly bloated? In private business, every staffing cost must yield productivity. Can government agencies and bodies like MARA or Peneraju be slimmed down or consolidated to avoid duplication?
 
-For example, at the Ministry of Economy, the Economic Planning Unit (EPU) previously only formulated policy. Now, with the same headcount, the poverty eradication division consisting of 12–13 people must go down to the ground to manage program implementation. Our approach is to double productivity with existing resources.
+**Rafizi Ramli:** Regarding consultants, government program allocations are approved under annual budgets and usually run for a period of several years (for instance, a 5-year contract approved in 2020). When a new government comes in, we set a cut-off, but existing contractually bound projects must be completed. In another 1 to 2 years, programs that expire will not be renewed. Regarding manning, the definition of civil servants in Malaysia includes teachers, doctors, police, and military personnel—differing from foreign countries that count only public administrators. Therefore, we cannot make a blanket claim that the civil service is bloated. What matters is right-sizing and ensuring efficiency. The available choices are to reduce positions or sweat the asset—meaning increasing output and productivity with the existing workforce. For example, in the Ministry of Economy, the Economic Planning Unit (EPU), which previously only formulated policies, now also executes programs such as poverty eradication using the exact same headcount. Regarding the proposal to merge all Bumiputera agencies, there is no one-size-fits-all. An excessively large size can breed bureaucracy, combined inefficiencies, and corruption risks. MARA focuses on education and small entrepreneurs, while Ekuinas functions as a private equity firm funding growth-stage companies toward Bursa Malaysia. The best step is not merging everything blindly, but to realign and harmonize so that each agency returns to its core mandate.
 
-Regarding the proposal to merge Bumiputera agencies, we must be careful. Each agency was established with a specific mandate according to the needs of its era. MARA focuses on education and micro/small entrepreneurs. However, entrepreneurs at the growth stage require private equity firms like Ekuinas to take equity and develop them until they are eligible for the stock market.
+**Faiz:** In terms of long-term economic strategy moving towards a high-income nation, a lot of people are concerned about implementation speed. Things take time, but the public expects fast results. How do you manage that expectation gap between long-term structural reforms and short-term public perception?
 
-Merging all agencies into a single giant entity could create greater bureaucracy, delays, and inefficiency. Size can be a source of corruption and bureaucracy. The best approach is realignment so that each agency returns to its original mandate efficiently.
+**Rafizi Ramli:** That's the eternal dilemma of any government, especially in a democracy. Structural reforms—whether it's fiscal consolidation, wage progressive models, energy transition, or restructuring Bumiputera empowerment—they don't yield results overnight. They take 3 to 5 years, sometimes a decade, to fully bear fruit. But politically, you operate on a 5-year cycle, and people feel the pinch of daily living costs every single day. So the strategy has to be two-fold. First, you must deliver short-term relief and quick wins through targeted assistance, cost-of-living mitigation, and immediate micro-support, so that people have room to breathe. Second, you stay the course on structural reforms with absolute conviction, without getting distracted by the daily noise or social media outrage. If you sacrifice long-term structural reform just to chase short-term popularity, the country will stay stuck in the middle-income trap forever. So my approach is simple: do the right thing, explain the rationale clearly, deliver short-term cushions where necessary, and let the results speak for themselves when the structural reforms mature.
 
-**Faiz:** Regarding the low achievement of Bumiputera entrepreneurs in initial public offerings (IPOs), what concrete actions has the Ministry of Economy instructed these agencies to take?
+**Host:** Moving on to a question from netizens via the hashtag #TanyaRafizi, the question asks: "YB, what concrete steps is the government taking to ensure that this Progressive Wage Policy initiative is genuinely joined by private employers and doesn't become merely a voluntary option that is ultimately ignored?" Please YB.
 
-**Rafizi Ramli:** We have laid out specific short- and medium-term strategies through the realignment of three agencies under the Ministry of Economy:
+**Rafizi Ramli:** This Progressive Wage Policy (PWP) is structured around three main principles: voluntary, productivity-based, and supported by government incentives. In the initial stage, it begins voluntarily through a pilot project where the government provides cash incentives to help employers offset part of the increased salary costs for workers after attending upskilling training. When this pilot project demonstrates increased productivity and reasonable wages, it builds market confidence. Companies participating in the PWP will attract top talent, forcing other companies to follow suit due to market forces.
 
-1. **Yayasan Peneraju:** Focused on becoming a Bumiputera professional talent bank from A to Z, and subsequently acting as a talent funnel of entrepreneurs into Teraju.
-2. **Teraju:** Focusing on small businesses from the early (seed) stage up to medium size.
-3. **Ekuinas:** Focusing on medium-sized companies at the growth stage to develop them for the public market (IPO).
-
-Previously, Teraju operated without strategic coordination—anyone could apply for an allocation of RM200 million without strict oversight. As a result, "grant-preneurs" emerged who repeatedly took grants without any intention of building an actual business. Target enforcement is now tightened. As for Ekuinas, I have instructed them to double the number of companies developed, rather than just focusing on a small number of companies.
-
-**Faiz:** One last question from me before we move to audience questions. In the long-term economic strategy toward becoming a high-income nation, there is a gap between the time required for structural reforms and the people's desire for quick results. How does YB manage this expectation gap?
-
-**Rafizi Ramli:** That's the eternal dilemma of any government, especially in a democracy. Structural reforms—whether it's fiscal consolidation, wage progressive models, energy transition, or restructuring Bumiputera empowerment—they don't yield results overnight. They take 3 to 5 years, sometimes a decade, to fully bear fruit. But politically, you operate on a 5-year cycle, and people feel the pinch of daily living costs every single day.
-
-So the strategy has to be two-fold. First, you must deliver short-term relief and quick wins through targeted assistance, cost-of-living mitigation, and immediate micro-support, so that people have room to breathe. Second, you stay the course on structural reforms with absolute conviction, without getting distracted by the daily noise or social media outrage. If you sacrifice long-term structural reform just to chase short-term popularity, the country will stay stuck in the middle-income trap forever. So my approach is simple: do the right thing, explain the rationale clearly, deliver short-term cushions where necessary, and let the results speak for themselves when the structural reforms mature.
-
-**Host:** Moving on to audience questions via the hashtag #TanyaRafizi on Twitter: *"YB, what are the government's concrete steps to ensure that this Progressive Wage Policy is genuinely adopted by private employers and does not become a mere voluntary option that is ultimately ignored?"*
-
-**Rafizi Ramli:** The Progressive Wage Policy is designed based on three main principles: voluntary, productivity-linked, and supported by government incentives.
-
-In the initial stage, it begins on a voluntary basis through a pilot project. The government provides cash incentives to help employers offset part of the increased wage costs after workers undergo upskilling training.
-
-When this pilot project proves to boost productivity and bring reasonable wage increases, market confidence will build naturally. Companies participating in the policy will attract the best talent. This will compel other companies to follow suit due to market forces. This ability to attract talent along with government incentives is what will drive the comprehensive implementation of progressive wages.
-
-**Host:** Thank you YB for that clarification. As time is pressing, we have discussed many heavy topics tonight. Thank you to our special guest, brother Faiz (*Financial Faiz*) for the sharp questions, and thank you to YB Rafizi Ramli for the detailed explanation.
+**Host:** Alright, thank you YB for that clarification. As time is against us tonight, thank you to our special guest, brother Faiz from Financial Faiz, and thank you to YB Rafizi Ramli for the detailed explanation.
 
 **Faiz:** Thank you YB, thank you for having me. Great conversation tonight.
 
 **Rafizi Ramli:** Thank you Faiz, thank you host.
 
-**Host:** Thank you to all our viewers. We will see you again in the next episode of *Yang Bakar Menteri* two weeks from now. Assalamualaikum warahmatullahi wabarakatuh and good night.
+**Host:** Thank you to all our viewers. We will see you again in two weeks for another episode of *Yang Bakar Menteri*. Assalamualaikum warahmatullahi wabarakatuh and good night.
