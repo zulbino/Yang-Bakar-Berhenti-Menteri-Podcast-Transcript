@@ -9,24 +9,22 @@ duration: 2h 7m
 view_count: 35313
 hosts:
 - Rafizi Ramli
-guests: []
+guests:
+- Speaker 1
 topics:
-- Minister and MP Salary Transparency
-- Bersatu Internal Leadership Crisis
-- PAS Political Strategy
-- STPM and University Placement Challenges
-- Bintulu LNG Security Concerns
-- Pro-Palestine Demonstration SOPs
-- Urban Renewal Act (URA)
-- Global Youth Protests and Capitalism
-summary: In this 13th episode of the Yang Berhenti Menteri podcast, Rafizi Ramli discloses
-  his net monthly income as both a minister and an MP to clarify public misconceptions
-  regarding political salaries. He evaluates recent political developments involving
-  Bersatu and PAS, discusses security concerns surrounding Bintulu LNG facilities,
-  addresses university placement issues for STPM students, evaluates SOPs during pro-Palestine
-  demonstrations, clarifies the Urban Renewal Act (URA), and analyzes global youth
-  protests in Nepal and Indonesia within the context of systemic issues in global
-  capitalism.
+- Ministerial salary transparency
+- Political integrity
+- Internal politics in Bersatu
+- Vacancy tax for housing
+- Brain drain in Malaysia
+- Role of media in governance
+- Public policy and government accountability
+summary: In the 13th episode of the 'Berhenti Menteri' podcast, Rafizi Ramli engages
+  in a candid discussion about transparency and political discourse. He reveals his
+  salary slip as a Minister to address public misconceptions, debates the challenges
+  of attracting professionals to politics due to income disparities, discusses internal
+  power dynamics in the Bersatu party, evaluates current political rumors, and offers
+  insights on housing policy and the importance of integrity in governance.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -35,104 +33,218 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Host:** Assalamualaikum dan selamat datang ke podcast *Yang Berhenti Menteri*, episod ke-13 YB. YB perasan tak hari ini episod 13?
+**Speaker 1:** Assalamualaikum dan selamat datang ke episod ke-13 podcast "Berhenti Menteri". YB, perasan tak apa dengan episod ke-13 ni?
 
-**Rafizi Ramli:** Ya, hari ini Jumaat 13, Friday the 13th, banyak hantu keluar.
+**Rafizi Ramli:** Ya, hari ini Jumaat ke-13 (*Friday the 13th*), banyak hantu keluar.
 
-**Host:** Kepada yang baru masuk, tap-tap skrin, tinggalkan komen, dan kongsikan.
+**Speaker 1:** Jadi yang baru masuk, *tap-tap screen*, *reply*, komen, dan *share*.
 
-**Rafizi Ramli:** Tap-tap skrin ni apa dia?
+**Rafizi Ramli:** *Tap-tap screen* ni apa dia?
 
-**Host:** Tap-tap skrin dekat TikTok, YB. Bila kita tekan banyak kali, tanda *love* keluar dan *engagement* podcast akan naik.
+**Speaker 1:** *Tap-tap screen* ni dekat TikTok YB. Jadi dia ada *love* kan? *Tap* banyak-banyak, jadi *engagement* tu naiklah.
 
-**Rafizi Ramli:** Oh, bukan orang boleh bagi *gift* ke? Kenapa saya tak pernah dapat *gift*?
+**Rafizi Ramli:** Hmm. Dia bukan orang boleh bagi *gift* ke? Kenapa aku tak pernah dapat *gift*?
 
-**Host:** Ahli politik tak boleh dapat *gift* dekat TikTok, YB. Memang sistem TikTok tetapkan begitu.
+**Speaker 1:** Maaf lah YB, ahli politik dia tak boleh.
 
-**Rafizi Ramli:** Lah, tak boleh jadi politikus macam ini. Patutlah saya berhenti menteri.
+**Rafizi Ramli:** TikTok pun tak boleh?
 
-**Host:** Sebelum kita ke segmen utama, kita ada segmen tambahan untuk minggu ini sahaja. Minggu lepas YB ada berjanji untuk menunjukkan sesuatu kepada penonton di luar sana, iaitu slip gaji.
+**Speaker 1:** TikTok tak boleh. Jadi YB macam mana? Dia tak boleh jadi *politician*.
 
-**Rafizi Ramli:** Ini kes hutang minggu lepas. Saya tengok dekat Twitter ramai yang mengingatkan jangan lupa tunjuk slip gaji. Saya pun hampir terlupa tadi.
+**Rafizi Ramli:** Hmm.
 
-**Host:** Tapi ada juga keraguan di ruangan komen yang minta jangan tunjuk atas faktor privasi.
+**Speaker 1:** Okey tak apa. Sebelum kita ke segmen "Beria" YB, kita ada segmen tambahan untuk minggu ini sahaja. Minggu lepas YB ada janji sesuatu untuk ditunjukkan kepada kawan-kawan kita di luar sana, iaitu slip gaji.
 
-**Rafizi Ramli:** Apa yang nak privatenya? Kecuali kalau tunjuk hutang saya, itu privasi. Itu pun saya dah tunjuk semua hutang saya masa pengisytiharan aset dulu. Jadi tiada apa yang privasi pun, terutamanya berbanding angka berpuluh-puluh juta yang sering dijajakan orang.
+**Rafizi Ramli:** Ha, ni kira hutang minggu lepas lah. Ada tengok dekat Twitter semua orang duk ingatkan jangan lupa slip gaji. Aku dah nak terlupa tadi.
 
-**Host:** YB bukan sahaja berkongsi slip gaji Ahli Parlimen, tetapi juga slip gaji menteri atau anggota pentadbiran. Mari kita lihat.
+**Speaker 1:** Tapi ada *concern* juga dekat komen, kata janganlah tunjuk *privacy*.
 
-**Rafizi Ramli:** Ini kali pertama korang boleh tengok slip gaji menteri. Gaji pokok anggota pentadbiran ialah RM11,000. Kemudian ada elaun menteri RM4,000. Elaun rumah RM4,000 itu sebenarnya dipotong semula di sebelah kanan kerana saya menduduki kuarters kerajaan, jadi tak dapatlah. Ada elaun keraian, pemandu, elaun rumah/pemandu isteri RM2,500, dan Pentadbiran Persekutuan RM1,500. Jumlah kasar semuanya RM40,000. Selepas potongan cukai pendapatan, kuarters, dan KWSP, gaji bersih menteri tinggal RM29,000.
+**Rafizi Ramli:** Apa yang nak *private*-nya?
 
-**Host:** Potongan KWSP itu untuk apa sebenarnya YB?
+**Speaker 1:** Jadi ia bukan *privacy*. Kita ada segmen hutang YB.
 
-**Rafizi Ramli:** Saya pun tidak pernah semak slip gaji ini secara terperinci. Mana-mana pakar HR yang tahu boleh komen di bawah. Apa yang pasti, gaji bersih menteri selepas pelbagai potongan tinggal RM29,000. Seorang menteri juga merupakan seorang Ahli Parlimen, jadi beliau menerima gaji Ahli Parlimen menerusi slip gaji yang berasingan.
+**Rafizi Ramli:** Kecuali tunjuk hutang aku. Itu *private* lah. Itu pun aku tunjuk hutang aku semua dulu masa *declare* aset.
 
-**Host:** Mari kita lihat slip gaji Ahli Parlimen pula.
+**Speaker 1:** Ya, boleh tengok kan. Yang dia orang jaja banyak 20 juta. Jadi YB, bukan setakat slip gaji ahli parlimen, tapi slip gaji menteri atau anggota pentadbiran. Jadi kita tengok, tiga, dua, satu. Okey, *zoom*.
 
-**Rafizi Ramli:** Gaji pokok Ahli Parlimen ialah RM16,000. Oleh kerana saya anggota pentadbiran menteri, saya tidak menerima elaun-elaun Ahli Parlimen. Potongan Angkasa pada slip ini sebenarnya ialah potongan sumbangan bulanan kepada parti PKR sebanyak RM8,000. PKR menggunakan mekanisme potongan serupa dengan Angkasa. Selepas dipotong RM8,000, saya membawa pulang RM7,600. Apabila dicampurkan gaji bersih menteri RM29,000 dan gaji bersih Ahli Parlimen RM7,600, jumlah pendapatan bersih saya adalah sekitar RM35,000 hingga RM36,000 sebulan.
+**Rafizi Ramli:** Apa ni?
 
-**Host:** Di luar sana sering digembar-gemburkan bahawa gaji menteri boleh mencecah RM60,000 hingga RM100,000 sebulan. Kenapa gaji YB nampak kecil?
+**Speaker 1:** Tengoklah lama-lama. Ini kali pertama orang boleh tengok slip gaji menteri. Gaji anggota pentadbiran 11,000.
 
-**Rafizi Ramli:** Mungkin saya menteri paling cabuk. Sebenarnya ia bergantung kepada menteri masing-masing. Ada menteri yang menganggotai lembaga pengarah GLC, contohnya, dan mereka menerima yuran lembaga pengarah serta elaun mesyuarat. Begitu juga Menteri Besar yang mempengerusikan perbadanan kemajuan ekonomi negeri dan pelbagai anak syarikat; jika dicampurkan elaun pengerusi RM10,000 di sini dan RM5,000 di sana, jumlahnya boleh mencecah RM100,000 lebih sebulan. Ahli Parlimen juga boleh membuat tuntutan perjalanan dan penginapan hotel mengikut syarat tertentu. Bagi Ahli Parlimen kawasan luar Kuala Lumpur, tuntutan bulanan boleh mencecah RM15,000 hingga RM20,000. Cuma saya seumur hidup tidak pernah membuat tuntutan sebegini.
+**Rafizi Ramli:** Hmm.
 
-**Host:** Bagaimana kalau dibandingkan jika YB kekal berkhidmat di sektor swasta?
+**Speaker 1:** Kemudian ada elaun keraian menteri 4,000. Elaun rumah 4,000 tu sebenarnya ditolak sebab ada sebelah kanan tu pulang balik elaun kuarters sebab duduk kuarters kan. So tak dapatlah. Kemudian pemandu, dan ni apa ni? Saya tak nampak.
 
-**Rafizi Ramli:** Ini dilema atau dikotomi. Gaji bersih menteri RM29,000 sebulan di sektor swasta atau GLC sebenarnya setaraf dengan tahap *senior manager*, tidak sampai ke peringkat *general manager*, apatah lagi CEO yang selalunya berpendapatan RM70,000 ke atas. Skop tanggungjawab seorang menteri atau Ketua Setiausaha Kementerian (KSU) meliputi tadbir urus seluruh negara dan sektor yang amat besar, tetapi pendapatan bersih mereka sama seperti pengurusan kanan swasta. Sebab itu ramai profesional swasta tidak tertarik untuk menyertai politik kerana tiada imbuhan kewangan yang setara. 
+**Speaker 1:** Ini elaun pembantu rumah 2,500 dan pentadbiran Persekutuan 1,500. So semuanya 40,000, tapi setelah ditolak cukai pendapatan, kuarters, dan KBP. YB ada KBP? Tak tahu lah apa tu.
 
-Ada pandangan menyatakan kita perlu membayar gaji lebih tinggi untuk menarik bakat berkualiti ke dalam politik dan mengurangkan pendedahan kepada rasuah. Namun, kita tidak boleh melihat dari sudut pariti swasta semata-mata, sebaliknya kena mengambil kira median gaji rakyat yang sekitar RM3,000 sebulan. Bagi kebanyakan rakyat, gaji RM30,000 itu amat besar. Pada saya, politik adalah satu panggilan (*calling*). Imbuhan itu bukannya semata-mata dalam bentuk wang ringgit. Selagi budaya politik kita tidak dibersihkan daripada kebiasaan menuntut peruntukan wang daripada pimpinan, tekanan kewangan dalam politik akan terus berterusan.
+**Rafizi Ramli:** Ada ke?
 
-**Host:** Seterusnya kita beralih ke segmen "Beria" atau "Poyo". YB dah sedia?
+**Speaker 1:** Dia tulis potongan KBP.
 
-**Rafizi Ramli:** Zaman 10 hingga 15 tahun dahulu sewaktu saya melatih skuad debat sekolah, saya kurang faham istilah ini. Maksud "beria" ini kira poyolah.
+**Rafizi Ramli:** Yalah kot, kalau dia ada potong, ada lah tu.
 
-**Host:** Gambar pertama: Bersatu menegaskan tidak ambil jalan kotor untuk kekal berkuasa dan memilih Tan Sri Muhyiddin Yassin sebagai calon Perdana Menteri ke-11.
+**Speaker 1:** Eh ada pencen lagi. Ish, tak adalah. Tak tahu lah ni apa kan.
 
-**Rafizi Ramli:** Ini laporan Perhimpunan Agung Tahunan Bersatu baru-baru ini. Saya kurang bersetuju dengan dakwaan bahawa Bersatu tidak mengambil jalan kotor, sedangkan langkah mereka bermula dengan akuan bersumpah (SD) tebuk atap, penggantungan Parlimen, dan pengisytiharan darurat. Dalam gambar ini, Tan Sri Muhyiddin dan Datuk Seri Hamzah Zainuddin ketawa beria-ria bersama, sedangkan satu Malaysia tahu mereka berdua sedang berbalah besar di belakang tabir. Saya beri markah 3 daripada 5.
+**Rafizi Ramli:** *Actually* potongan KBP tu untuk apa? Kepada sesiapa yang tahu, mana-mana HR yang tahu, boleh komen sebab kami tak tahu.
 
-**Host:** Gambar kedua: PAS sedia bekerjasama dengan semua parti kecuali DAP, termasuk PKR dan UMNO.
+**Speaker 1:** Jadi kita ada 29,000 lah YB ya.
 
-**Rafizi Ramli:** Mereka memang beria-ria mahu kembali berkuasa dan menjadi menteri semula. Asalkan dapat jawatan menteri, tersengih-sengihlah. Saya beri markah 1.
+**Rafizi Ramli:** 29,000. *Actually* lepas ni kena *check* lah EPF aku, dapat caruman ke tidak kan.
 
-**Host:** Gambar ketiga: Hantaran daripada Syed, bekas AJK Bersatu Putrajaya dan Pegawai Tugas-Tugas Khas (PTTK) Menteri Luar Negeri, mengenai sesi pertemuan Perdana Menteri.
+**Speaker 1:** Ah itu menteri lah, maksudnya dia potong-potong, dia tinggal 29,000 dan menteri juga ahli parlimen. Jadi dia dapat gaji ahli parlimen.
 
-**Rafizi Ramli:** Dia ini dulu pernah dijemput ke podcast YBM tetapi memberi pelbagai alasan. Saya rasa tidak perlu buang masa melayan isu ini kerana tiada nilai. Saya beri markah 1.
+**Speaker 1:** Gaji ahli parlimen dengan slip gaji yang lain.
 
-**Host:** Gambar keempat: Fitnah tular di media sosial yang mendakwa pengetua sebuah sekolah dan Menteri Pendidikan, Fadhlina Sidek, mempunyai hubungan sepupu dan bersubahat dalam satu kes.
+**Rafizi Ramli:** Dengan slip gaji yang lain lah.
 
-**Rafizi Ramli:** Ini perangai main tembak dan melempar fitnah secara beria-ria. YB Fadhlina telah membuat laporan polis dan individu berkenaan sudah memohon maaf serta menarik balik kenyataan tersebut selepas mengaku terpedaya dengan maklumat TikTok Live. Lain kali sebelum nak komen beria-ria, pergilah menyemak kesahihan maklumat terlebih dahulu. Saya beri markah 2.
+**Speaker 1:** *Can we move next?*
 
-**Host:** Bermula segmen seterusnya, "Hidup Keras Dik". Topik pertama ialah kemelut dalaman Bersatu apabila 120 Ketua Bahagian dilaporkan mendesak Tan Sri Muhyiddin berundur. Adakah ini sebahagian daripada persediaan pilihan raya mereka?
+**Rafizi Ramli:** Ya.
 
-**Rafizi Ramli:** Daripada 202 bahagian Bersatu, 120 bahagian melebihi separuh. Maksudnya desakan menerusi akuan bersumpah ini menandakan Muhyiddin telah hilang kepercayaan majoriti pimpinan bahagian. Pergolakan ini amat besar. Sama ada Muhyiddin berundur atau tidak, konflik dalaman sebegini menambahkan kemualan rakyat terhadap parti politik. Pengundi atas pagar tidak berminat dengan perbalahan dalaman sebaliknya mahukan pimpinan yang menumpukan kerja. Dalam Perikatan Nasional, rakyat sedar kemampuan pentadbiran PAS adalah terhad, jadi mereka mengharapkan keupayaan dasar daripada Bersatu. Malangnya, tiga tahun berturut-turut perhimpunan agung mereka hanya berputar mengenai sentimen menaikkan individu tertentu. Pertembungan politik sepatutnya beralih daripada sentimen ketaksuban kepada perdebatan dasar dan jalan penyelesaian ekonomi yang berasaskan data.
+**Speaker 1:** Okey baik. Ah itu slip gaji ahli parlimen, gaji pokok ahli parlimen sebenarnya 16,000. Oleh kerana sebagai anggota pentadbiran menteri, elaun tu dapat elaun menteri ajelah. Dia tak dapat elaun ahli parlimen semua. Jadi 16,000 tolak yang Angkasa tu sebenarnya, YB.
 
-**Host:** Mengenai isu keselamatan dan ugutan ancaman terhadap kompleks LNG di Bintulu, Sarawak, apa mesej sebenarnya di sebalik isu ini?
+**Rafizi Ramli:** Angkasa tu macam mana?
 
-**Rafizi Ramli:** Pasukan keselamatan sememangnya tidak berkongsi maklumat terperinci atas faktor keselamatan. Namun, kompleks LNG ini amat kritikal kepada ekonomi negara kerana LNG merupakan antara komoditi eksport terbesar kita dengan kontrak jangka panjang ke negara seperti Jepun, China, dan Korea. Jika fasiliti tersebut terpaksa ditutup sementara atas langkah proaktif keselamatan, kerugiannya boleh mencecah puluhan juta ringgit sehari. Kes ugutan ini menunjukkan cabaran keselamatan negara semakin kompleks. Syarikat yang menguruskan infrastruktur strategik negara seperti TNB, Petronas, dan Telekom Malaysia perlu menyemak semula SOP keselamatan fizikal serta ancaman siber mereka.
+**Speaker 1:** Potongan kepada parti.
 
-**Host:** Isu panas membabitkan penolakan kemasukan pelajar cemerlang STPM ke Universiti Malaya (UM). Wujud cadangan supaya diwujudkan satu saluran peperiksaan tunggal (*single examination*) kerana STPM dikatakan jauh lebih sukar berbanding matrikulasi atau asasi.
+**Rafizi Ramli:** *But why* ruang Angkasa YB?
 
-**Rafizi Ramli:** Kepelbagaian saluran kemasukan pra-universiti bukannya isu unik di Malaysia. Di UK, pelajar memasuki universiti menerusi A-Level, IB (*International Baccalaureate*), *Scottish Highers*, mahupun HND. Di Malaysia, isu ini menjadi emosional disebabkan persepsi perkauman, di mana matrikulasi dilihat lebih memihak kepada Bumiputera manakala kuota universiti awam didakwa menyempitkan peluang kaum lain.
+**Rafizi Ramli:** Sebab memang Angkasa ada *arrangement* kan dengan kerajaan. Kalau potongan pinjaman ke, koperasi ke, semua dibuat melalui Angkasa. Jadi saya ingat PKR memang ada konsep yang serupa dengan Angkasa. So dia tolak 8,000, aku dapat 7,600.
 
-Namun, isu teras yang jarang dibincangkan ialah kebolehtahanan (*sustainability*) kewangan universiti awam. Universiti awam bergantung lebih 90% kepada peruntukan dan subsidi kerajaan. Yuran yang dibayar pelajar biasa hanya menampung sekitar 10% daripada kos sebenar. Disebabkan kekangan ruang fiskal kerajaan, universiti terpaksa mengimbangi kewangan dengan membuka Saluran 2 (*direct intake* yang mengenakan yuran penuh) serta menarik pelajar antarabangsa untuk mengos-subsidikan (*cross-subsidise*) pengajian pelajar lain. Akibatnya, tempat untuk saluran UPU menjadi sangat terhad dan kompetitif bagi kursus popular seperti Perakaunan di UM.
+**Speaker 1:** Jadi dia potong lagi banyak. Sumbangan kepada parti itu 8,000, semua dapat 7,600. Jadi campur dua tadi 29 campur 7, dapatlah dalam 35, 36,000 lah sebulan.
 
-Selain itu, kita perlu melihat kepincangan sistem penilaian dan gred. Apabila terlalu ramai pelajar mendapat skor *4 flat* atau *10A*, sistem peperiksaan sukar membezakan kelayakan akademik sebenar mengikut keluk normal (*bell curve*). Kita juga perlu memperbetulkan jurang ketidakseimbangan (*disconnect*) antara penawaran dan permintaan kursus. Kursus yang kurang permintaan industri tetapi menggunakan banyak sumber wajar disusun semula (*restructure*) supaya tempat dapat ditambah bagi kursus berpermintaan tinggi. Mewujudkan peperiksaan tunggal tidak akan menyelesaikan masalah jika punca utamanya ialah kekangan tempat dan peruntukan dana.
+**Speaker 1:** Jadi dekat luar tu digemuk-gemukkan gaji menteri.
 
-**Host:** Mengenai isu perhimpunan pro-Palestin di Sogo dan Suria KLCC di mana tiang kayu bendera tidak dibenarkan masuk oleh pengawal keselamatan, adakah tindakan itu wajar?
+**Rafizi Ramli:** Mana ada digemuk-gemukkan, digemba-gemukkan.
 
-**Rafizi Ramli:** Ini isu *lose-lose*. Petugas keselamatan di Suria KLCC bertindak mengikut SOP keselamatan premis yang melarang kemasukan objek yang boleh dijadikan senjata. Ini bukannya bermakna pengurusan Suria KLCC anti-Palestin. Namun, SOP keselamatan perlu dikemas kini dan diperjelaskan. Penyelesaian yang wajar ialah membenarkan peserta membawa masuk bendera atau kain kafiyeh, tetapi tiang panji kayu perlu ditinggalkan di pintu masuk atau kaunter *concierge*.
+**Speaker 1:** *Sorry*, *typo* lagi. Menteri-menteri ni kena dapat 60,000, ada sampai 100,000, tapi YB *cabut* sahaja ni.
 
-**Host:** Bagaimana pula dengan isu Akta Pembaharuan Semula Bandar (URA / PSB) dan kenyataan PAS mengenai isu Kampung Sungai Baru?
+**Rafizi Ramli:** Itulah, aku rasa aku menteri paling *cabut* kut, kan.
 
-**Rafizi Ramli:** Pembangunan semula bandar adalah satu keperluan yang tidak boleh dielakkan demi memastikan penduduk tempatan mendapat manfaat daripada peningkatan nilai hartanah. Mengenai dakwaan PAS bahawa kes Kampung Sungai Baru adalah "teaser" kepada URA, saya menasihatkan PAS supaya jangan menunggang isu ini semata-mata untuk membakar api kemarahan rakyat.
+**Speaker 1:** Tak, yalah saya ingat dia bergantung kepada menteri masing-masing lah sebab ada menteri dia duduk dalam lembaga pengarah kan. Kalau lembaga pengarah GLC contohnya, semua tu, dan dia ada yuran sebagai lembaga pengarah, elaun mesyuarat dan sebagainya lah. Sebab tu kalau campur-campur mungkinlah. Kemudian kalau contohnya menteri besar, ada perbadanan kemajuan ekonomi negeri, kemudian ada anak syarikat, semua jadi kalau dia duduk sebagai pengerusi lembaga pengarah setiap satu tu, yang itu 10, yang ini lima, semua tu yang boleh sampai 100,000 lebih lah.
 
-Semasa PAS berada dalam kerajaan Persekutuan dahulu, projek Kampung Sungai Baru ini diluluskan di bawah pentadbiran mereka sendiri. Rekod menunjukkan Lajnah Bandar PAS pernah menyokong perundangan ini sebelum mereka membuat pusingan U. Jika PAS menjadi kerajaan Persekutuan pada masa akan datang, mereka tetap akan meneruskan akta pembaharuan semula bandar ini. Perkara paling utama ialah memastikan proses rundingan awal dan terma perundangan dirangka secara adil bagi melindungi hak pemilik hartanah serta penyewa.
+**Speaker 1:** Kemudian kalau ahli parlimen, dia boleh *claim* cuma saya tak pernah *claim* lah. Semua hidup kan? Sekarang ni aku miskin jadi aku nak kena *claim* lah agaknya kan. Tapi ada ahli parlimen yang perjalanan dia itu *claim*, hotel semua, dia ada syarat-syarat dia lah kan. Jadi kalau yang di luar KL tu, dia boleh sampai 20,000, 15,000 sebulan *claim* lah. Jadi campur-campur tu bolehlah dapat 40,000 lebih. Kalau dia pula ada lembaga pengarah dilantik dalam GLC ke *statutory body*, dan dia ada elaun-elaun lain lah. Tapi saya memang ini jelah.
 
-**Host:** Seterusnya kita beralih ke segmen Berita Dunia, khususnya gelombang protes anak muda (Gen Z) di Nepal dan Indonesia. Apakah yang sebenarnya sedang berlaku kepada hegemoni dunia?
+**Speaker 1:** Baik, dan kalau YB masih *stay* dekat *private*, macam mana YB tengok?
 
-**Rafizi Ramli:** Protes anak muda di Nepal dan Indonesia adalah simptom keretakan sistem kapitalisme global selepas beroperasi tanpa cabaran berasas selama lebih 100 tahun.
+**Rafizi Ramli:** Dah itu yalah ini yang orang kata, Mat Salleh kata *dichotomy* lah kan, aku je yang suka pakai perkataan *dichotomy* kan. Maksudnya dia lebih rumit dilemanya lah kerana kalau nak dibandingkan gaji seorang menteri bersih 29,000, kalau di sektor swasta 29,000 ni saya ingat, itu *senior manager* lah kan, dia tak sampai *general manager* apatah lagi CEO kan sebab gaji CEO selalunya 70,000 ke atas kan.
 
-Secara sejarahnya, bertitik tolak daripada Revolusi Industri pada abad ke-19, wujud pertentangan ideologi antara kapitalisme dan komunisme/sosialisme. Gagasan komunisme berasaskan pemilikan negara ke atas semua harta (*commune*). Namun menjelang tahun 1950-an dan 1960-an, kegagalan sistem di Kesatuan Soviet dan China di bawah Mao Zedong membuktikan bahawa komunisme gagal menandingi kemakmuran yang dibawakan oleh sistem kapitalis. Selepas pembaruan ekonomi oleh Deng Xiaoping pada lewat 1970-an, dunia secara praktikalnya hanya mengamalkan satu sistem, iaitu kapitalisme.
+**Speaker 1:** Jadi memang ini jadi polemik kerana bukan sahaja menterilah, tetapi juga contohnya ketua setiausaha kementerian. Bidang skop tanggungjawab dia tu meliputi satu negara dan juga sektor yang besar kan. Tapi gaji dia macam itulah 29,000.
 
-Selepas satu abad, keretakan sistem kapitalis mula terserlah akibat jurang kesenjangan (*inequality*) yang terlalu besar antara golongan elit dan rakyat biasa. Di Eropah, ketidakpuasan hati anak muda berhaluan kanan mudah dibakar oleh sentimen anti-imigran. Di Nepal, situasinya lebih unik. Nepal menumbangkan sistem monarki sekitar 20 tahun lalu dan pemerintahan dikuasai oleh Parti Komunis yang berjanji untuk mengagihkan kekayaan secara saksama. Namun selepas dua dekad, yang kaya-raya hanyalah pemimpin parti komunis itu sendiri, manakala rakyat kekal miskin. Kemarahan meletus apabila kerajaan tindakan mengharamkan platform media sosial.
+**Rafizi Ramli:** KSU kan 29,000 macam itu kan, kecuali KSU dia duduk dalam *board* yang berlainan tu dia pun dah adalah tambah-tambah. Tapi kalau nak dibanding dengan gaji pokok.
 
-Ini adalah iktibar mendalam kepada ahli-ahli politik di Malaysia. Baik Pakatan Harapan, Barisan Nasional, mahupun PAS, jika rakyat terus ditekan dan janji perubahan tidak dijelmakan—malah pemimpin baharu pula yang melipatgandakan kekayaan peribadi—kemarahan rakyat akhirnya akan meletup.
+**Speaker 1:** Maksudnya, seorang yang bertanggungjawab menjaga satu sektor yang begitu besar meliputi satu negara, gajinya itu hanyalah gaji pengurus kanan, *senior manager* kan. Jadi sebab itu orang di sektor swasta tidak tertarik lah untuk menyertai politik ke semua ini kerana tidak ada imbuhan. Jadi ini dilema dalam masyarakat kerana ada satu pandangan kata kita perlu bayar gaji yang lebih tinggi supaya menarik lebih ramai orang yang berkualiti lah masuk politik.
+
+**Speaker 1:** Tapi walaupun kalau kita banding dengan sektor swasta, gaji menteri 29,000 bersih ni rendah sebenarnya berbanding sektor swasta. Tapi kita tak boleh tengok semata-mata dengan *parity* sektor swasta begitu. Kita juga kena tengok dengan *parity* contohnya gaji purata dan median gaji rakyat. Sebab median gaji rakyat ni dalam 3,000. Jadi bagi kebanyakan rakyat, gaji menteri 30,000 tu dia rasa banyak lah kan. Jadi perkara ini akan terus jadi polemik dan dilema masyarakat kerana bila gaji yang begitu, jenis orang yang sanggup ke depan untuk menyertai politik mengambil jawatan dengan risikonya tu mungkin tak ramailah *professional* tu.
+
+**Speaker 1:** So sebab tu kalau kita tengok *professional* ni selalunya hanya lantikan senator. Tak banyak lah yang ada jawatan korporat atau berpendapatan tinggi kemudian meletak jawatan dan berkecimpung dalam politik kerana rugi banyak kan. Dan ada juga yang kata sebab itulah ahli politik terdedah kepada rasuah kan, tapi saya tak tahu yang lain lah itu terpulang kepada niat masing-masing lah.
+
+**Rafizi Ramli:** Saya ingat politik ni ialah *calling*.
+
+**Speaker 1:** Maksudnya, kalau kita nak ke depan, maksudnya imbuhan itu bukan semata-mata daripada wang lah. Kan? Ah jadi sebab tu, kalau dalam pemilihan parti, orang macam saya, tak adalah peluang untuk bermewah-mewah macam orang lain dulu. Selain daripada saya tak bersetuju bermewah-mewah dengan hotel, bagi tudung ke apa semua ni kan. Satu sebabnya, memang aku tak ada duit lah kan sebab itu jelah yang kita dapat kan. Jadi selagi kita tidak membersihkan budaya politik kita, yang mana ini sebenarnya bukan bergantung kepada pimpinan atas sahaja lah, dia bergantung juga kepada orang bawah juga lah. Jangan bergantung kepada pimpinan atas hulur duit semua. Kalau tidak tekanan untuk ada poket yang tebal tu akan berterusan lah dan kitaran itu akan terus berterusan.
+
+**Speaker 1:** Baik YB. So dah tengok dah semua?
+
+**Rafizi Ramli:** Ah, puas.
+
+**Speaker 1:** Puas hati kau orang dapat tengok slip gaji menteri dan ahli parlimen. Ini bukan kali pertama lah kau orang.
+
+**Rafizi Ramli:** Kali pertama lah kut untuk menteri dapat slip gaji menteri.
+
+**Speaker 1:** Ha, habis hutang? Okey, kita teruskan kepada segmen yang sebenar lah iaitu "Beria".
+
+**Speaker 1:** Ha jadi "Beria" ni YB, selain beria, YB panggil poyo lah sebenarnya.
+
+**Rafizi Ramli:** Yalah zaman-zaman 10, 15 tahun dulu, saya kan selalu *coach* budak-budak sekolah, *coach* debat lah. Masa tu mula-mula aku pun tak faham poyo-poyo ni kan.
+
+**Speaker 1:** Jadi aku masa lagi *stuck*. Sangkut dengan zaman itu, pemahaman saya "beria" mat ni, kira poyo lah kut.
+
+**Rafizi Ramli:** Hmm. Okey.
+
+**Speaker 1:** Okey YB dah bersedia? Macam biasa lah, kita bagi gambar dan YB *explain*. Yang pertama, "Calon PM ke-11 Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa." Ah yang ini yang perhimpunan Agung tahunan Bersatu baru nilah ada jerit-menjerit, ada SD.
+
+**Rafizi Ramli:** Akhirnya resolusi supaya Tan Sri Muhyiddin kekal menjadi calon PM. Cuma bab tu aku tak puas hati lah kalau kata Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa. Sebab dia bermula dengan SD Tebuk Atap. Lepas tu dia gantung parlimen darurat. Lepas tu kita semua tak boleh keluar rumah, kan. Ah jadi tak betul lah. Cuma, yalah, beria pakai merah. Cantik baju Melayu dia kan.
+
+**Rafizi Ramli:** Dilema ini sama lah macam saya ingat cuma masa Pakatan Harapan dari pembangkang dulu dia agak selesa sikit kerana tidak ada begitu banyak percanggahan mengenai calon Perdana Menteri kan. Jadi dalam Bersatu sekarang ni pergolakan itu nampaknya besar kerana laporan berita sudah ada 120 SD. Aku cuma tu nanti akan ada lagi.
+
+**Speaker 1:** Oh ada lagi.
+
+**Rafizi Ramli:** Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan Datuk Seri Hamzah Zainuddin beria gelak. Azmin dia macam dalam hati, cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni sebab satu Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan, tapi beria dia gelak depan orang.
+
+**Speaker 1:** Seterusnya. "PAS sedia kerjasama dengan semua parti kecuali DAP." Menjalin kerjasama dengan PKR dan UMNO.
+
+**Rafizi Ramli:** Ah betul lah dia nak balik berkuasa. Asalkan dapat jadi menteri balik. Kalau Ustaz Idris jadi menteri balik, *happy* lah dia. Hmm beria lah, memanglah kalau jadi dia beria-ria nak bekerjasama dengan semua lah kan.
+
+**Speaker 1:** Seterusnya. Ini Sid, YB. YB kenal Sid?
+
+**Rafizi Ramli:** Tak ada, aku tak kenal. Aku ingat dia satu je sebab dulu dia sembang kencang. Lepas tu aku pun jemput dia ke podcast YBM lah.
+
+**Speaker 1:** Oh pernah dijemput?
+
+**Rafizi Ramli:** Lepas tu segala jenis alasan dia beri. Siapa dia ni?
+
+**Speaker 1:** Dia ni dulu AJK Bersatu Putrajaya. Sampai sekarang lah tak silap saya. Dan juga dulu pernah jadi PTTK Menteri Luar Negeri.
+
+**Rafizi Ramli:** I see. Itu mereka berkuasa dulu lah. Jadi dia cakap apa ni? Yalah apa saja yang PM jumpa semua akan jadi macam ini. Beria lah kut. *Selebek* lah dia ni. Tapi beria lah *selebek*. Badi. So kononnya ada Badi lah. Aku lagi bimbang kalau Badi dengan dia. Jadi boleh je pusing. Siapa yang menteri ambil dia jadi pegawai ke apa. Badi kalah tak jadi menteri. Lepas tu lah. Sebab Saifuddin Abdullah dah tak jadi. Oh kena kat dia.
+
+**Speaker 1:** So *you can say the same* lah. YB *ready* untuk kita jemput balik YB?
+
+**Rafizi Ramli:** Tak payah. Buang masa lah. Buang masa. Aku tak rasa dia ada nilai lah. Yang kau orang layan dia ni kenapa? Baik kita takkan layan lagi.
+
+**Speaker 1:** Okey *last* sekali. "Ini pengetua dan Fadhlina tu sepupu." Ni geng-geng sepupu-sepapat ni. Tak hairanlah mereka bersekongkol dalam kes ini. Pengetua tak ditahan baru tahu rupa-rupanya sepupu je.
+
+**Rafizi Ramli:** Yalah, beria dia fitnah orang lah kan. Saya tak tahu *detail* dia lah tapi saya tak rasa lah pengetua tu sepupu Fadhlina kan. Aku bukanlah tahu selok-belok keluarga Fadhlina tapi saya tak rasa lah. Ini perangai yang pakai tembak aje. Fadhlina dah buat laporan polis kut kan. Dan dia pun dah tarik balik kenyataan tu. Tapi yang dia *confident* sangat kata sepupu-sepapat ni, ini macam yang ahli parlimen Kepala Batas tu juga, sepupu-sepupu. Dia kata dapat dari TikTok, dari *live* orang lain lah. Kemudian bila dia *check* balik, dah *delete*. Jadi dia tak ada *defense* lah. Padahal bukan engkau. Pandai aje kan. Seronok kan. Ah lain kali, paling kurang lah walaupun orang kata *ChatGPT* ni kadang-kadang orang buat lawak kan. Sebelum beria nak tulis komen, pergilah beria-ria *chat* dekat *ChatGPT* dulu, tanya kan. Sebab paling kurang *ChatGPT* tu dia boleh lah bagi gambaran kasar, lepas tu kena selidik lagi kan.
+
+**Speaker 1:** Betul. YB nak buat *ranking* ke?
+
+**Rafizi Ramli:** Minggu ni macam hambar je "Beria" dia. Kau orang pilih yang hambar semua ni. Yang ini aku bagi tiga lah sebab aku suka empat-empat orang kat depan dengan Radzi Jidin kat tepi. Beria dia orang gelak, sengih, jeling kan. Yang ini pun aku bagi satu lah sebab tidak ada nilai untuk masuk podcast ini. Yang ini aku bagilah dua, sebab lain kali beria-ria macam ni kan dah kena ada laporan polis semua kan. Tapi *identity* dia tu dah orang kenal.
+
+**Speaker 1:** Tapi "Beria" minggu ini adalah hambar. Jadi saya minta tolong rakan-rakan untuk cadangkan "Beria" pada minggu depan nanti.
+
+**Rafizi Ramli:** Carilah yang betul-betul beria.
+
+**Speaker 1:** Kita teruskan. Segmen seterusnya adalah "Hidup Keras Dik". Bersatu dikejutkan 120 ketua bahagian Bersatu geser Muhyiddin berundur. Adakah ini persediaan pilihan raya mereka seperti yang Azmin cakap tu YB?
+
+**Rafizi Ramli:** Ini parti orang kan. Sebenarnya kalau aku tu masih lagi Timbalan Presiden PKR, aku tak komen lah sebab parti. Tapi sekarang kita *free agent*, boleh komen apa-apa kan. Yalah, dia sebenarnya kalau tengok 120 ketua bahagian tu, Bersatu sebenarnya ada 202 kan? 120 ni lebih daripada separuh. Jadi saya fahamlah niat mereka ialah akuan bersumpah tu maksudnya tidak lagi mendapat kepercayaan daripada 120 dari lebih daripada separuh bahagian tu lah. Itu sebenarnya, kalau ikut peraturan, apabila 120 orang tu menandatangani akuan bersumpah, itu adalah satu proses perlembagaan parti. Jadi, kalau parti itu ada perlembagaan, dan perlembagaan itu memberikan kuasa kepada ketua bahagian, maka ketua bahagian itu mempunyai legitimasi untuk menentukan hala tuju parti. Itu sajalah, tak ada pun masalah.
+
+**Speaker 1:** YB rasa adakah parti Bersatu ini akan berpecah kepada dua, iaitu kem Hamzah dan kem Muhyiddin?
+
+**Rafizi Ramli:** Saya ingat kalau kita tengok kepada sejarah parti di Malaysia ni, apabila berlaku pertembungan kepimpinan seperti ini, biasanya dia akan berakhir dengan perpecahan. Kita tengok UMNO, kita tengok PAS, kita tengok PKR, kita tengok DAP. Semua parti-parti ini pernah melalui fasa pertembungan kepimpinan dan perpecahan. Jadi kalau Bersatu ini dia nak kekal, dia kena cari jalan untuk menyelesaikan masalah kepimpinan ini secara dalaman, secara diplomatik. Tapi kalau dia nak teruskan dengan cara bergaduh, cara berpecah, maka itulah yang akan berlaku. Akhirnya parti itu akan jadi lemah, parti itu akan jadi berpecah. Jadi itu terpulang kepada pimpinan Bersatu lah nak pilih jalan mana.
+
+**Speaker 1:** Terima kasih YB atas pencerahan ini. Zari tanya, adakah cukai rumah kosong benar-benar mampu menurunkan harga rumah yang makin tidak masuk akal?
+
+**Rafizi Ramli:** Ini satu soalan yang sangat menarik dan ia adalah satu isu yang sangat hangat di dunia sekarang ni. Isu cukai rumah kosong atau *vacancy tax*. Kalau kita tengok di negara-negara maju seperti di Kanada, di Australia, di UK, mereka sudah pun melaksanakan *vacancy tax* ini. Matlamatnya adalah untuk menggalakkan pemilik rumah yang membiarkan rumah mereka kosong tanpa penghuni untuk menyewakan rumah mereka. Kerana apabila rumah itu dibiarkan kosong, ia mengurangkan bekalan rumah di pasaran. Dan apabila bekalan rumah itu kurang, harga sewa akan naik dan harga rumah juga akan naik. Jadi, adakah ia mampu menurunkan harga rumah di Malaysia? Saya rasa ia adalah salah satu daripada instrumen yang boleh digunakan untuk menangani masalah harga rumah. Tapi ia bukanlah penyelesaian mutlak. Kita perlu melihat juga kepada faktor-faktor lain seperti kos bahan binaan, kos tanah, dan juga dasar perumahan negara secara keseluruhannya. Tapi kalau nak menjawab soalan Zari tu, adakah ia mampu menurunkan harga rumah yang makin tidak masuk akal? Saya rasa dalam jangka masa panjang, ya. Sebab kalau ramai orang menyewakan rumah mereka, maka bekalan rumah sewa akan bertambah, maka harga sewa akan stabil. Dan apabila harga sewa stabil, permintaan untuk membeli rumah untuk tujuan spekulasi akan berkurangan. Jadi itu satu langkah yang boleh dipertimbangkan.
+
+**Speaker 1:** Azam tanya, mengapa begitu ramai tenaga kerja berbakat Malaysia memilih untuk berhijrah ke luar negara? Dan apakah langkah konkrit kerajaan untuk menarik mereka kembali?
+
+**Rafizi Ramli:** Ah, ini soalan yang sangat berat dan sangat mendalam. Isu *brain drain* ini adalah satu isu yang telah lama menghantui negara kita. Jawapan kepada soalan Azam ni memerlukan satu pendekatan yang menyeluruh. Pertama, kita kena faham kenapa mereka pergi. Biasanya mereka pergi kerana mencari peluang kerjaya yang lebih baik, gaji yang lebih tinggi, dan juga kualiti kehidupan yang lebih baik. Jadi untuk membawa mereka balik, kita kena sediakan ekosistem yang menarik untuk mereka. Kita kena sediakan peluang kerjaya yang setaraf dengan apa yang mereka dapat di luar negara. Kita kena pastikan gaji yang ditawarkan adalah kompetitif. Dan yang paling penting, kita kena pastikan persekitaran kerja dan kualiti kehidupan di Malaysia adalah menarik. Selain daripada itu, kerajaan juga boleh menyediakan insentif-insentif kepada mereka yang ingin pulang. Contohnya, kemudahan cukai, bantuan untuk penempatan semula, dan sebagainya. Tapi sekali lagi, ini bukanlah satu perkara yang boleh diselesaikan dalam masa yang singkat. Ia adalah satu usaha jangka masa panjang yang memerlukan kerjasama daripada kerajaan, sektor swasta, dan juga masyarakat.
+
+**Speaker 1:** Kita teruskan ke segmen terakhir kita iaitu segmen harapan. YB boleh berikan satu kata-kata semangat untuk rakyat Malaysia?
+
+**Rafizi Ramli:** Wah, segmen harapan. Harapan saya untuk rakyat Malaysia adalah semoga kita terus bersatu padu, terus bekerja keras, dan terus optimis untuk masa depan negara kita. Saya percaya dengan kekuatan rakyat Malaysia, kita mampu menghadapi apa jua cabaran dan kita mampu mencapai masa depan yang lebih cemerlang untuk semua. Bersama-sama, kita boleh.
+
+**Speaker 1:** Terima kasih YB. Dan sebelum saya terlupa, ada program yang kita akan buat hujung minggu ni, YB?
+
+**Rafizi Ramli:** Ya, program perjumpaan dengan rakyat. Saya akan buat perjumpaan di beberapa tempat, yang paling dekat adalah di Seremban hari Sabtu ni. Jemput semua datang.
+
+**Speaker 1:** Baik YB. Bercakap tentang integriti, sejauh mana YB rasa kerajaan hari ini telah berjaya memupuk budaya integriti dalam kalangan penjawat awam dan pemimpin politik?
+
+**Rafizi Ramli:** Integriti ni dia satu perkara yang sangat *fundamental*. Kalau kita nak negara kita maju, kalau kita nak ekonomi kita berkembang, integriti adalah kunci. Kerajaan Madani memang meletakkan integriti sebagai keutamaan. Kita ada pelbagai mekanisme untuk memantau, untuk memastikan bahawa amalan rasuah, amalan salah guna kuasa ini dapat dikurangkan. Tapi, ini bukan kerja kerajaan saja. Ini kerja semua orang. Perlu ada kesedaran daripada masyarakat, daripada penjawat awam, daripada pemimpin politik sendiri. Saya rasa perubahan tu sedang berlaku. Kita lihat sekarang ni makin banyak kes rasuah yang dibawa ke mahkamah. Ini menunjukkan bahawa sistem keadilan kita sedang berfungsi dengan baik. Dan saya berharap bahawa ini akan menjadi satu amaran kepada sesiapa yang cuba untuk melakukan amalan rasuah. Tapi, kita tak boleh selesa. Kita kena teruskan usaha ni. Kita kena pastikan bahawa budaya integriti tu menjadi budaya seharian kita.
+
+**Speaker 1:** Apa pandangan YB tentang laporan Ketua Audit Negara yang sering menunjukkan adanya ketirisan dalam pengurusan kewangan kerajaan?
+
+**Rafizi Ramli:** Laporan Ketua Audit Negara adalah satu dokumen yang sangat penting. Ia memberikan kita gambaran yang jelas tentang bagaimana wang rakyat dibelanjakan. Dan bila kita lihat ada ketirisan, kita kena ambil tindakan. Kita tidak boleh biarkan ketirisan ni berterusan. Jadi apa yang kerajaan buat adalah kita meneliti setiap teguran yang dibuat oleh Ketua Audit Negara. Dan kementerian-kementerian yang terlibat, mereka diwajibkan untuk memberikan penjelasan dan juga pelan tindakan bagaimana mereka nak mengatasi masalah tersebut. Ini adalah satu proses yang sangat ketat. Kita mahu memastikan bahawa setiap ringgit yang dibelanjakan adalah untuk kepentingan rakyat.
+
+**Speaker 1:** Bagaimana peranan media dalam membentuk persepsi masyarakat terhadap kerajaan?
+
+**Rafizi Ramli:** Media memainkan peranan yang sangat besar. Media adalah jambatan antara kerajaan dan rakyat. Kalau media melaporkan berita dengan tepat, dengan adil, maka rakyat akan mendapat maklumat yang betul. Tapi kalau media melaporkan maklumat yang tidak tepat, atau bersifat berat sebelah, maka ia akan membentuk persepsi yang salah. Oleh itu, saya berharap bahawa media di Malaysia akan terus menjalankan tanggungjawab mereka dengan berintegriti. Dan saya juga berharap bahawa rakyat akan lebih bijak dalam menilai berita-berita yang diterima. Kerana di zaman media sosial ni, berita palsu sangat cepat tersebar. Jadi, literasi media adalah sangat penting sekarang ni.
+
+**Speaker 1:** Adakah apa-apa lagi yang YB nak sampaikan kepada rakyat?
+
+**Rafizi Ramli:** Saya cuma nak pesan pada semua, marilah kita bersama-sama membangunkan negara kita. Jangan kita biarkan perbezaan pandangan politik menghalang kita daripada bekerjasama untuk kepentingan negara. Kita ada banyak potensi, kita ada sumber manusia yang hebat, kita ada sumber kekayaan yang banyak. Kalau kita bersatu, saya yakin kita boleh mencapai kecemerlangan yang lebih besar lagi. Terima kasih kepada semua yang mendengar podcast ni. Semoga kita semua dirahmati Allah.
+
+**Speaker 1:** Terima kasih banyak YB Rafizi atas kesudian meluangkan masa. Semoga YB terus bersemangat dalam menjalankan tugas demi rakyat dan negara.
+
+**Rafizi Ramli:** Amin, sama-sama.
+
+**Speaker 1:** Baiklah, tamatlah sudah podcast kita hari ini. Jumpa lagi di episod akan datang.
