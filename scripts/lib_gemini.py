@@ -39,11 +39,14 @@ def current_model():
 
 
 def _is_free_tier_quota_exhausted(e):
+    # The literal "FreeTier" string only appears in the nested quotaId field
+    # inside e.details (e.g. "GenerateRequestsPerDayPerProjectPerModel-FreeTier"),
+    # not in e.message, which just says "...generate_content_free_tier_requests...".
     return (
         isinstance(e, errors.ClientError)
         and e.code == 429
         and e.status == "RESOURCE_EXHAUSTED"
-        and "FreeTier" in (e.message or "")
+        and "freetier" in str(e.details).lower()
     )
 
 
