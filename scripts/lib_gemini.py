@@ -8,17 +8,17 @@ full video at a much higher per-second token rate regardless of any offset given
 which blows the 1,048,576-token input limit for anything beyond roughly an hour.
 """
 import json
+import re
 import time
 
 from google import genai
 from google.genai import types
 
-from common import retry
+from common import human_duration, retry
 
-# gemini-3.7-flash returned sustained 503 UNAVAILABLE (high demand) across repeated
-# test runs, including a live probe against 5 models where it was the only failure --
-# likely capacity strain since it's a very recently launched model. Using
-# gemini-3.6-flash everywhere instead since it passed consistently.
+# gemini-3.7-flash has repeatedly hit sustained 503 UNAVAILABLE (high demand) across
+# multiple test attempts since its Aug 13 launch. gemini-3.6-flash has been reliable
+# throughout; pricing is identical, so there's no upside to retrying 3.7-flash.
 RAW_MODEL = "gemini-3.6-flash"
 TEXT_MODEL = "gemini-3.6-flash"
 
@@ -58,9 +58,9 @@ Below is the full raw transcript of a Malaysian political podcast/interview feat
 Task:
 1. Rewrite it into a clean, professional Q&A format using Markdown bold speaker labels (e.g. "**Rafizi Ramli:** ...") with the actual speaker names from the transcript.
 2. Smooth out spoken awkwardness, filler words, false starts, and repetition, while preserving the speaker's true intent, tone, and key points. Do not invent or omit substantive claims.
-3. Keep Malay quotes in polished Malay and English quotes in clean English. Do not translate between languages; you may add a short bracketed translation of an idiom only if it aids clarity.
+3. Preserve the language of each clause or phrase exactly as spoken, including mid-sentence code-switching (e.g. a sentence that starts in English and finishes in Malay must stay that way). Do not normalize a mixed-language sentence into a single language. Only polish grammar and remove filler within each language segment; do not translate any segment into the other language. You may add a short bracketed translation of an idiom only if it aids clarity.
 4. Do not include timestamps.
-5. Cover the full conversation, from opening to close; do not truncate or summarize the tail end.
+5. This may be a partial excerpt of a longer conversation rather than the whole thing. Rewrite everything given to you in full -- this is a rewrite, not a summary. Do not condense multiple turns into one, skip exchanges, or shorten the overall length; the output should be comparably comprehensive to the input, just polished.
 6. Output pure Markdown Q&A body text only. No YAML frontmatter, no top-level title heading.
 
 Raw transcript:
@@ -77,7 +77,7 @@ Task:
 2. Preserve the exact Q&A structure and Markdown speaker labels (e.g. "**Rafizi Ramli:** ...").
 3. Preserve all substantive facts, figures, and claims exactly. Do not add or drop content.
 4. Keep proper nouns, acronyms, and terms with no natural equivalent as-is (e.g. "PADU", "GST", agency and person names).
-5. Translate the full interview end to end; do not truncate or summarize the tail end.
+5. This may be a partial excerpt of a longer interview rather than the whole thing. Translate everything given to you in full; do not condense, shorten, or summarize any part of it.
 6. Output pure Markdown Q&A body text only. No YAML frontmatter, no top-level title heading.
 
 Mixed-language version:
@@ -135,38 +135,145 @@ def upload_audio(client, audio_path):
     return file
 
 
-def transcribe_raw(client, audio_file, duration_human):
+MAX_OUTPUT_TOKENS = 65536
+
+CONTINUE_PROMPT = (
+    "Continue the transcript exactly from where you left off. Do not repeat any "
+    "earlier lines, do not add commentary or a preamble, and do not restart the "
+    "timestamp count — pick up at the next moment in the audio."
+)
+
+
+def _finish_reason_name(resp):
+    candidate = resp.candidates[0] if resp.candidates else None
+    reason = candidate.finish_reason if candidate else None
+    return getattr(reason, "name", str(reason))
+
+
+def _generate_with_continuation(client, model, config, initial_parts):
+    # A single response can hit MAX_OUTPUT_TOKENS well before a long episode's
+    # transcript/rewrite/translation is complete; keep asking the model to
+    # continue in the same conversation until it finishes naturally, capped to
+    # avoid a runaway loop.
+    contents = [types.Content(role="user", parts=initial_parts)]
+    full_text = ""
+    for _ in range(8):
+        resp = client.models.generate_content(model=model, contents=contents, config=config)
+        text = _text(resp)
+        full_text += text
+        if _finish_reason_name(resp) != "MAX_TOKENS":
+            return full_text
+        contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
+        contents.append(types.Content(role="user", parts=[types.Part(text=CONTINUE_PROMPT)]))
+    raise RuntimeError(f"{model} still hitting MAX_TOKENS after 8 continuations")
+
+
+_TIMESTAMP_RE = re.compile(r"\[(?:(\d+):)?(\d+):(\d+)\]")
+
+
+def _last_timestamp_seconds(text):
+    matches = _TIMESTAMP_RE.findall(text)
+    if not matches:
+        return 0
+    h, m, s = matches[-1]
+    return (int(h) if h else 0) * 3600 + int(m) * 60 + int(s)
+
+
+def _trim_dangling_fragment(text):
+    """The response hitting MAX_OUTPUT_TOKENS exactly once the 95% coverage
+    threshold is reached can leave a half-written final line/turn (e.g. a bare
+    "[3:1" with no closing bracket or speaker text). Drop a trailing block that
+    doesn't end in normal sentence punctuation."""
+    blocks = text.rstrip().split("\n\n")
+    if blocks and not re.search(r'[.!?\]"\')]\s*$', blocks[-1]):
+        blocks = blocks[:-1]
+    return "\n\n".join(blocks) + "\n"
+
+
+def transcribe_raw(client, audio_file, duration_human, duration_seconds):
     prompt = RAW_PROMPT_TEMPLATE.format(duration=duration_human)
+    audio_part = types.Part(file_data=types.FileData(file_uri=audio_file.uri, mime_type=audio_file.mime_type))
+    config = types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS, max_output_tokens=MAX_OUTPUT_TOKENS)
 
     def call():
-        resp = client.models.generate_content(
-            model=RAW_MODEL,
-            contents=[types.Content(parts=[types.Part(file_data=types.FileData(file_uri=audio_file.uri, mime_type=audio_file.mime_type)), types.Part(text=prompt)])],
-            config=types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS),
-        )
-        return _text(resp)
+        # The model sometimes stops (finish_reason STOP, not MAX_TOKENS) well
+        # before the end of a long episode, as if it decided the transcript was
+        # "done." Keep forcing continuations, using the last timestamp actually
+        # emitted (not the model's own say-so) to judge whether it truly reached
+        # the end, until coverage is close enough or the round cap is hit.
+        contents = [types.Content(role="user", parts=[audio_part, types.Part(text=prompt)])]
+        full_text = ""
+        for round_num in range(15):
+            resp = client.models.generate_content(model=RAW_MODEL, contents=contents, config=config)
+            text = _text(resp)
+            full_text += text
+            covered = _last_timestamp_seconds(full_text)
+            if covered >= duration_seconds * 0.95:
+                return _trim_dangling_fragment(full_text)
+            remaining_human = human_duration(max(duration_seconds - covered, 0))
+            contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
+            contents.append(types.Content(role="user", parts=[types.Part(text=(
+                f"The transcript is not finished -- you have only covered up to roughly "
+                f"{covered // 60}:{covered % 60:02d} out of {duration_human} total. "
+                f"{CONTINUE_PROMPT} There is still about {remaining_human} of audio left; "
+                "keep going until you reach the actual end of the episode."
+            ))]))
+        raise RuntimeError(f"raw transcription still incomplete after 15 continuation rounds (reached ~{_last_timestamp_seconds(full_text)}s of {duration_seconds}s)")
 
     return retry(call, max_attempts=10, base_delay=30, what="raw transcription")
 
 
+# Handing a multi-hour transcript to the model in one shot risks it choosing to
+# summarize/condense rather than fully rewrite -- it finishes cleanly (STOP, not
+# MAX_TOKENS) so the continuation loop never catches it. Chunking keeps each
+# call small enough that full-coverage rewriting is the natural, easy answer.
+CHUNK_CHARS = 40_000
+
+
+def _split_into_chunks(text, max_chars):
+    blocks = text.split("\n\n")
+    chunks = []
+    current, current_len = [], 0
+    for block in blocks:
+        block_len = len(block) + 2
+        if current and current_len + block_len > max_chars:
+            chunks.append("\n\n".join(current))
+            current, current_len = [], 0
+        current.append(block)
+        current_len += block_len
+    if current:
+        chunks.append("\n\n".join(current))
+    return chunks
+
+
 def rewrite_clean(client, raw_text):
-    prompt = CLEAN_PROMPT_TEMPLATE.format(raw_text=raw_text)
+    config = types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS, max_output_tokens=MAX_OUTPUT_TOKENS)
+    chunks = _split_into_chunks(raw_text, CHUNK_CHARS)
 
-    def call():
-        resp = client.models.generate_content(model=TEXT_MODEL, contents=[prompt], config=types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS))
-        return _text(resp)
+    results = []
+    for chunk in chunks:
+        prompt = CLEAN_PROMPT_TEMPLATE.format(raw_text=chunk)
 
-    return retry(call, max_attempts=10, base_delay=30, what="clean rewrite")
+        def call(prompt=prompt):
+            return _generate_with_continuation(client, TEXT_MODEL, config, [types.Part(text=prompt)])
+
+        results.append(retry(call, max_attempts=10, base_delay=30, what="clean rewrite"))
+    return "\n\n".join(results)
 
 
 def translate(client, mixed_text, target_language):
-    prompt = TRANSLATE_PROMPT_TEMPLATE.format(target_language=target_language, mixed_text=mixed_text)
+    config = types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS, max_output_tokens=MAX_OUTPUT_TOKENS)
+    chunks = _split_into_chunks(mixed_text, CHUNK_CHARS)
 
-    def call():
-        resp = client.models.generate_content(model=TEXT_MODEL, contents=[prompt], config=types.GenerateContentConfig(safety_settings=SAFETY_SETTINGS))
-        return _text(resp)
+    results = []
+    for chunk in chunks:
+        prompt = TRANSLATE_PROMPT_TEMPLATE.format(target_language=target_language, mixed_text=chunk)
 
-    return retry(call, max_attempts=10, base_delay=30, what=f"translate to {target_language}")
+        def call(prompt=prompt):
+            return _generate_with_continuation(client, TEXT_MODEL, config, [types.Part(text=prompt)])
+
+        results.append(retry(call, max_attempts=10, base_delay=30, what=f"translate to {target_language}"))
+    return "\n\n".join(results)
 
 
 def extract_metadata(client, clean_text):

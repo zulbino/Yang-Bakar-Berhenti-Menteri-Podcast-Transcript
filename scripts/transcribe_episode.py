@@ -65,7 +65,7 @@ def process_raw(video_id, force=False):
     audio_path.unlink()
 
     print("transcribing raw ...")
-    full_raw = lib_gemini.transcribe_raw(client, audio_file, duration_human)
+    full_raw = lib_gemini.transcribe_raw(client, audio_file, duration_human, episode["duration_seconds"])
 
     out_dir.mkdir(parents=True, exist_ok=True)
     raw_fields = episode_common_fields(episode)
