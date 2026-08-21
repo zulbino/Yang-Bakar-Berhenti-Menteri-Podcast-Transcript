@@ -13,200 +13,1787 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:00] [music]
+[02:28] Rafizi Ramli: Selamat datang dan assalamualaikum kepada semua yang menonton podcast Yang Berhenti Menteri dah episod ke-19. Sebelum kita mula dengan segmen yang biasa, ada orang tanya dalam komen lah saya tengok.
+[02:44] Speaker 1: Ah, dia suruh tukar engkau.
+[02:46] Rafizi Ramli: Itu satu lah. Tapi yang satu lagi. Ada tanya kenapa YB Raf suka pakai baju batik setiap hari Jumaat ni?
+[02:56] Speaker 1: Dia sebab um masa saya dalam kerajaan.
+[03:01] Rafizi Ramli: Hmm.
+[03:01] Speaker 1: Em banyak baju batik.
+[03:05] Rafizi Ramli: Ah.
+[03:05] Speaker 1: So, kalau tak pakai baju batik tu rugi lah.
+[03:08] Rafizi Ramli: Kan? Jadi.
+[03:09] Speaker 1: Baik, baik, baik.
+[03:10] Rafizi Ramli: Ah, kalau tidak saya pakai t-shirt sepanjang masa.
+[03:13] Speaker 1: Hmm.
+[03:14] Rafizi Ramli: Okay YB, itu jawapan dia. Ah, kita teruskan ke segmen biasa lah YB. Kita ke segmen So, yang tukar tadi?
+[03:21] Speaker 1: Yang tukar?
+[03:22] Rafizi Ramli: Tukar moderator.
+[03:26] Speaker 1: YB tentukan lah, saya takut.
+[03:29] Rafizi Ramli: Okey.
+[03:30] Speaker 1: Okey, segmen yang pertama YB, beria mat, macam biasalah orang yang poyo, tapi bukanlah poyo pun. Mungkin kita nak ketengahkan juga apa isu-isu semasa, selain politik juga sikit. Kita tengok yang pertama.
+[03:43] Speaker 1: Beria.
+[03:44] Rafizi Ramli: Ah, okay ni politik lah.
+[03:45] Speaker 1: Ketua Srikandi ceritakan pengorbanan Menteri Pelajaran. YB perasan YB? Menteri Pendidikan, ke Menteri Pelajaran?
+[03:53] Speaker 1: Menteri Pendidikan.
+[03:54] Rafizi Ramli: Menteri Pendidikan.
+[03:55] Speaker 1: Ah, typo ni.
+[03:56] Rafizi Ramli: Hmm.
+[03:57] Speaker 1: Ah.
+[03:58] Rafizi Ramli: Dia yalah, do wish birthday YB. Tapi dia cerita lah penat dan.
+[04:03] Speaker 1: Hmm, nampak pernah tertidur di tandas.
+[04:05] Rafizi Ramli: Saya tak baca posting nilah. Tapi yalah dia dah jadi Dah kena delete.
+[04:10] Speaker 1: Ah, dia dah jadi meme dekat the netizen lah kan, hmm.
+[04:16] Rafizi Ramli: Hmm.
+[04:17] Speaker 1: Selain program kementerian, hmm.
+[04:21] Speaker 1: Selamat meranum usia. Ni maksudnya apa? Happy birthday.
+[04:25] Speaker 1: Err meranum. Meranum. Hmm.
+[04:29] Speaker 1: First time saya dengar eh.
+[04:30] Speaker 1: Hmm.
+[04:32] Speaker 1: Em dekat mana yang dia kata tidur dalam tandas tu?
+[04:37] Speaker 1: Pernah tertidur dalam tandas akibat terlalu letih tapi tetap tak pernah mengeluh.
+[04:43] Speaker 1: Oh, pernah tertidur di dalam tandas akibat terlalu letih.
+[04:48] Speaker 1: Hmm.
+[04:50] Speaker 1: Hmm, susah eh?
+[04:52] Speaker 1: Ini dah boleh lapor kepada Jabatan Tenaga Kerja.
+[04:59] Speaker 1: Sebab ini sudah menjadi satu penganiayaan, kan? Kalau seseorang pekerja itu dia kerja terlalu penat sampai em tertidur di dalam tandas.
+[05:12] Speaker 1: Ini dah memang.
+[05:13] Speaker 1: Tak sangka itu respons. Perlu dilaporkan kepada Jabatan Tenaga Kerjalah. Cuma, ah eh.
+[05:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[05:23] Speaker 1: Okay.
+[05:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[05:27] Speaker 1: Ah.
+[05:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[05:40] Speaker 1: Mula.
+[05:40] Speaker 1: Sebab bosan dekat pejabat.
+[05:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[05:44] Speaker 1: Yalah.
+[05:45] Speaker 1: Cool juga. Ah.
+[05:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[05:56] Speaker 1: Ah.
+[05:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[06:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[06:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[06:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[06:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[06:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[07:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[07:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[07:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[07:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[08:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[08:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[08:28] Speaker 1: Okay.
+[08:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[08:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[08:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[08:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[09:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[09:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[09:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[09:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[09:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[10:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[10:11] Speaker 1: Saya patut dapat makan free lah.
+[10:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[10:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[10:30] Speaker 1: Hmm.
+[10:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[10:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[10:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[11:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[11:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[11:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[11:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[11:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[11:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[12:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[12:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[12:52] Speaker 1: Okay YB, ada lagi ni.
+[12:56] Speaker 1: Ah, Deepavali call.
+[12:58] Speaker 1: Ni dekat mana ni?
+[12:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[13:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[13:12] Speaker 1: Tak ada orang pergi tegur ke?
+[13:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[13:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[13:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[13:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[14:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[14:28] Speaker 1: 100%.
+[14:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[14:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[14:42] Speaker 1: Ah.
+[14:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[14:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[15:11] Speaker 1: Cuma ah eh.
+[15:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[15:23] Speaker 1: Okay.
+[15:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[15:27] Speaker 1: Ah.
+[15:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[15:40] Speaker 1: Mula.
+[15:40] Speaker 1: Sebab bosan dekat pejabat.
+[15:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[15:44] Speaker 1: Yalah.
+[15:45] Speaker 1: Cool juga. Ah.
+[15:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[15:56] Speaker 1: Ah.
+[15:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[16:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[16:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[16:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[16:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[16:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[17:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[17:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[17:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[17:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[18:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[18:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[18:28] Speaker 1: Okay.
+[18:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[18:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[18:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[18:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[19:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[19:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[19:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[19:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[19:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[20:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[20:11] Speaker 1: Saya patut dapat makan free lah.
+[20:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[20:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[20:30] Speaker 1: Hmm.
+[20:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[20:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[20:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[21:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[21:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[21:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[21:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[21:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[21:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[22:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[22:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[22:52] Speaker 1: Okay YB, ada lagi ni.
+[22:56] Speaker 1: Ah, Deepavali call.
+[22:58] Speaker 1: Ni dekat mana ni?
+[22:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[23:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[23:12] Speaker 1: Tak ada orang pergi tegur ke?
+[23:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[23:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[23:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[23:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[24:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[24:28] Speaker 1: 100%.
+[24:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[24:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[24:42] Speaker 1: Ah.
+[24:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[24:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[25:11] Speaker 1: Cuma ah eh.
+[25:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[25:23] Speaker 1: Okay.
+[25:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[25:27] Speaker 1: Ah.
+[25:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[25:40] Speaker 1: Mula.
+[25:40] Speaker 1: Sebab bosan dekat pejabat.
+[25:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[25:44] Speaker 1: Yalah.
+[25:45] Speaker 1: Cool juga. Ah.
+[25:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[25:56] Speaker 1: Ah.
+[25:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[26:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[26:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[26:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[26:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[26:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[27:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[27:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[27:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[27:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[28:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[28:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[28:28] Speaker 1: Okay.
+[28:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[28:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[28:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[28:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[29:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[29:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[29:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[29:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[29:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[30:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[30:11] Speaker 1: Saya patut dapat makan free lah.
+[30:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[30:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[30:30] Speaker 1: Hmm.
+[30:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[30:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[30:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[31:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[31:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[31:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[31:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[31:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[31:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[32:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[32:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[32:52] Speaker 1: Okay YB, ada lagi ni.
+[32:56] Speaker 1: Ah, Deepavali call.
+[32:58] Speaker 1: Ni dekat mana ni?
+[32:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[33:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[33:12] Speaker 1: Tak ada orang pergi tegur ke?
+[33:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[33:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[33:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[33:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[34:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[34:28] Speaker 1: 100%.
+[34:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[34:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[34:42] Speaker 1: Ah.
+[34:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[34:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[35:11] Speaker 1: Cuma ah eh.
+[35:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[35:23] Speaker 1: Okay.
+[35:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[35:27] Speaker 1: Ah.
+[35:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[35:40] Speaker 1: Mula.
+[35:40] Speaker 1: Sebab bosan dekat pejabat.
+[35:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[35:44] Speaker 1: Yalah.
+[35:45] Speaker 1: Cool juga. Ah.
+[35:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[35:56] Speaker 1: Ah.
+[35:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[36:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[36:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[36:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[36:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[36:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[37:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[37:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[37:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[37:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[38:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[38:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[38:28] Speaker 1: Okay.
+[38:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[38:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[38:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[38:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[39:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[39:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[39:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[39:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[39:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[40:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[40:11] Speaker 1: Saya patut dapat makan free lah.
+[40:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[40:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[40:30] Speaker 1: Hmm.
+[40:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[40:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[40:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[41:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[41:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[41:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[41:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[41:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[41:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[42:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[42:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[42:52] Speaker 1: Okay YB, ada lagi ni.
+[42:56] Speaker 1: Ah, Deepavali call.
+[42:58] Speaker 1: Ni dekat mana ni?
+[42:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[43:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[43:12] Speaker 1: Tak ada orang pergi tegur ke?
+[43:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[43:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[43:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[43:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[44:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[44:28] Speaker 1: 100%.
+[44:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[44:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[44:42] Speaker 1: Ah.
+[44:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[44:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[45:11] Speaker 1: Cuma ah eh.
+[45:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[45:23] Speaker 1: Okay.
+[45:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[45:27] Speaker 1: Ah.
+[45:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[45:40] Speaker 1: Mula.
+[45:40] Speaker 1: Sebab bosan dekat pejabat.
+[45:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[45:44] Speaker 1: Yalah.
+[45:45] Speaker 1: Cool juga. Ah.
+[45:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[45:56] Speaker 1: Ah.
+[45:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[46:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[46:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[46:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[46:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[46:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[47:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[47:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[47:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[47:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[48:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[48:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[48:28] Speaker 1: Okay.
+[48:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[48:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[48:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[48:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[49:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[49:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[49:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[49:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[49:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[50:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[50:11] Speaker 1: Saya patut dapat makan free lah.
+[50:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[50:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[50:30] Speaker 1: Hmm.
+[50:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[50:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[50:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[51:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[51:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[51:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[51:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[51:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[51:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[52:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[52:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[52:52] Speaker 1: Okay YB, ada lagi ni.
+[52:56] Speaker 1: Ah, Deepavali call.
+[52:58] Speaker 1: Ni dekat mana ni?
+[52:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[53:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[53:12] Speaker 1: Tak ada orang pergi tegur ke?
+[53:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[53:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[53:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[53:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[54:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[54:28] Speaker 1: 100%.
+[54:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[54:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[54:42] Speaker 1: Ah.
+[54:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[54:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[55:11] Speaker 1: Cuma ah eh.
+[55:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[55:23] Speaker 1: Okay.
+[55:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[55:27] Speaker 1: Ah.
+[55:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[55:40] Speaker 1: Mula.
+[55:40] Speaker 1: Sebab bosan dekat pejabat.
+[55:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[55:44] Speaker 1: Yalah.
+[55:45] Speaker 1: Cool juga. Ah.
+[55:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[55:56] Speaker 1: Ah.
+[55:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[56:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[56:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[56:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[56:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[56:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[57:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[57:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[57:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[57:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[58:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[58:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[58:28] Speaker 1: Okay.
+[58:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[58:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[58:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[58:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[59:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[59:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[59:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[59:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[59:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[60:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[60:11] Speaker 1: Saya patut dapat makan free lah.
+[60:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[60:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[60:30] Speaker 1: Hmm.
+[60:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[60:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[60:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[61:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[61:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[61:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[61:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[61:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[61:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[62:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[62:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[62:52] Speaker 1: Okay YB, ada lagi ni.
+[62:56] Speaker 1: Ah, Deepavali call.
+[62:58] Speaker 1: Ni dekat mana ni?
+[62:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[63:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[63:12] Speaker 1: Tak ada orang pergi tegur ke?
+[63:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[63:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[63:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[63:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[64:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[64:28] Speaker 1: 100%.
+[64:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[64:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[64:42] Speaker 1: Ah.
+[64:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[64:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[65:11] Speaker 1: Cuma ah eh.
+[65:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[65:23] Speaker 1: Okay.
+[65:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[65:27] Speaker 1: Ah.
+[65:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[65:40] Speaker 1: Mula.
+[65:40] Speaker 1: Sebab bosan dekat pejabat.
+[65:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[65:44] Speaker 1: Yalah.
+[65:45] Speaker 1: Cool juga. Ah.
+[65:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[65:56] Speaker 1: Ah.
+[65:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[66:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[66:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[66:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[66:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[66:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[67:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[67:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[67:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[67:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[68:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[68:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[68:28] Speaker 1: Okay.
+[68:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[68:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[68:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[68:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[69:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[69:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[69:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[69:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[69:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[70:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[70:11] Speaker 1: Saya patut dapat makan free lah.
+[70:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[70:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[70:30] Speaker 1: Hmm.
+[70:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[70:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[70:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[71:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[71:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[71:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[71:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[71:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[71:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[72:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[72:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[72:52] Speaker 1: Okay YB, ada lagi ni.
+[72:56] Speaker 1: Ah, Deepavali call.
+[72:58] Speaker 1: Ni dekat mana ni?
+[72:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[73:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[73:12] Speaker 1: Tak ada orang pergi tegur ke?
+[73:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[73:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[73:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[73:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[74:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[74:28] Speaker 1: 100%.
+[74:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[74:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[74:42] Speaker 1: Ah.
+[74:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[74:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[75:11] Speaker 1: Cuma ah eh.
+[75:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[75:23] Speaker 1: Okay.
+[75:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[75:27] Speaker 1: Ah.
+[75:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[75:40] Speaker 1: Mula.
+[75:40] Speaker 1: Sebab bosan dekat pejabat.
+[75:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[75:44] Speaker 1: Yalah.
+[75:45] Speaker 1: Cool juga. Ah.
+[75:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[75:56] Speaker 1: Ah.
+[75:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[76:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[76:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[76:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[76:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[76:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[77:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[77:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[77:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[77:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[78:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[78:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[78:28] Speaker 1: Okay.
+[78:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[78:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[78:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[78:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[79:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[79:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[79:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[79:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[79:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[80:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[80:11] Speaker 1: Saya patut dapat makan free lah.
+[80:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[80:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[80:30] Speaker 1: Hmm.
+[80:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[80:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[80:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[81:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[81:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[81:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[81:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[81:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[81:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[82:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[82:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[82:52] Speaker 1: Okay YB, ada lagi ni.
+[82:56] Speaker 1: Ah, Deepavali call.
+[82:58] Speaker 1: Ni dekat mana ni?
+[82:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[83:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[83:12] Speaker 1: Tak ada orang pergi tegur ke?
+[83:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[83:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[83:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[83:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[84:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[84:28] Speaker 1: 100%.
+[84:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[84:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[84:42] Speaker 1: Ah.
+[84:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[84:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[85:11] Speaker 1: Cuma ah eh.
+[85:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[85:23] Speaker 1: Okay.
+[85:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[85:27] Speaker 1: Ah.
+[85:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[85:40] Speaker 1: Mula.
+[85:40] Speaker 1: Sebab bosan dekat pejabat.
+[85:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[85:44] Speaker 1: Yalah.
+[85:45] Speaker 1: Cool juga. Ah.
+[85:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[85:56] Speaker 1: Ah.
+[85:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[86:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[86:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[86:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[86:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[86:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[87:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[87:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[87:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[87:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[88:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[88:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[88:28] Speaker 1: Okay.
+[88:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[88:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[88:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[88:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[89:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[89:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[89:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[89:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[89:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[90:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[90:11] Speaker 1: Saya patut dapat makan free lah.
+[90:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[90:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[90:30] Speaker 1: Hmm.
+[90:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[90:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[90:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[91:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[91:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[91:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[91:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[91:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[91:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[92:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[92:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[92:52] Speaker 1: Okay YB, ada lagi ni.
+[92:56] Speaker 1: Ah, Deepavali call.
+[92:58] Speaker 1: Ni dekat mana ni?
+[92:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[93:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[93:12] Speaker 1: Tak ada orang pergi tegur ke?
+[93:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[93:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[93:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[93:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[94:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[94:28] Speaker 1: 100%.
+[94:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[94:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[94:42] Speaker 1: Ah.
+[94:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[94:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[95:11] Speaker 1: Cuma ah eh.
+[95:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[95:23] Speaker 1: Okay.
+[95:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[95:27] Speaker 1: Ah.
+[95:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[95:40] Speaker 1: Mula.
+[95:40] Speaker 1: Sebab bosan dekat pejabat.
+[95:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[95:44] Speaker 1: Yalah.
+[95:45] Speaker 1: Cool juga. Ah.
+[95:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[95:56] Speaker 1: Ah.
+[95:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[96:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[96:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[96:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[96:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[96:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[97:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[97:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[97:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[97:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[98:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[98:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[98:28] Speaker 1: Okay.
+[98:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[98:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[98:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[98:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[99:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[99:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[99:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[99:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[99:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[100:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[100:11] Speaker 1: Saya patut dapat makan free lah.
+[100:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[100:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[100:30] Speaker 1: Hmm.
+[100:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[100:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[100:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[111:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[111:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[111:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[111:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[111:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[111:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[122:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[122:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[122:52] Speaker 1: Okay YB, ada lagi ni.
+[122:56] Speaker 1: Ah, Deepavali call.
+[122:58] Speaker 1: Ni dekat mana ni?
+[122:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[133:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[133:12] Speaker 1: Tak ada orang pergi tegur ke?
+[133:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[133:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[133:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[133:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[144:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[144:28] Speaker 1: 100%.
+[144:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[144:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[144:42] Speaker 1: Ah.
+[144:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[144:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[155:11] Speaker 1: Cuma ah eh.
+[155:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[155:23] Speaker 1: Okay.
+[155:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[155:27] Speaker 1: Ah.
+[155:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[155:40] Speaker 1: Mula.
+[155:40] Speaker 1: Sebab bosan dekat pejabat.
+[155:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[155:44] Speaker 1: Yalah.
+[155:45] Speaker 1: Cool juga. Ah.
+[155:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[155:56] Speaker 1: Ah.
+[155:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[166:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[166:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[166:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[166:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[166:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[177:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[177:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[177:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[177:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[188:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[188:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[188:28] Speaker 1: Okay.
+[188:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[188:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[188:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[188:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[199:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[199:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[199:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[199:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[199:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[200:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[200:11] Speaker 1: Saya patut dapat makan free lah.
+[200:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[200:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[200:30] Speaker 1: Hmm.
+[200:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[200:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[200:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[211:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[211:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[211:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[211:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[211:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[211:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[222:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[222:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[222:52] Speaker 1: Okay YB, ada lagi ni.
+[222:56] Speaker 1: Ah, Deepavali call.
+[222:58] Speaker 1: Ni dekat mana ni?
+[222:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[233:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[233:12] Speaker 1: Tak ada orang pergi tegur ke?
+[233:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[233:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[233:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[233:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[244:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[244:28] Speaker 1: 100%.
+[244:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[244:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[244:42] Speaker 1: Ah.
+[244:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[244:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[255:11] Speaker 1: Cuma ah eh.
+[255:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[255:23] Speaker 1: Okay.
+[255:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[255:27] Speaker 1: Ah.
+[255:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[255:40] Speaker 1: Mula.
+[255:40] Speaker 1: Sebab bosan dekat pejabat.
+[255:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[255:44] Speaker 1: Yalah.
+[255:45] Speaker 1: Cool juga. Ah.
+[255:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[255:56] Speaker 1: Ah.
+[255:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[266:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[266:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[266:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[266:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[266:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[277:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[277:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[277:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[277:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[288:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[288:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[288:28] Speaker 1: Okay.
+[288:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[288:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[288:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[288:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[299:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[299:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[299:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[299:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[299:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[300:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[300:11] Speaker 1: Saya patut dapat makan free lah.
+[300:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[300:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[300:30] Speaker 1: Hmm.
+[300:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[300:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[300:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[311:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[311:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[311:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[311:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[311:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[311:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[322:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[322:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[322:52] Speaker 1: Okay YB, ada lagi ni.
+[322:56] Speaker 1: Ah, Deepavali call.
+[322:58] Speaker 1: Ni dekat mana ni?
+[322:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[333:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[333:12] Speaker 1: Tak ada orang pergi tegur ke?
+[333:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[333:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[333:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[333:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[344:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[344:28] Speaker 1: 100%.
+[344:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[344:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[344:42] Speaker 1: Ah.
+[344:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[344:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[355:11] Speaker 1: Cuma ah eh.
+[355:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[355:23] Speaker 1: Okay.
+[355:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[355:27] Speaker 1: Ah.
+[355:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[355:40] Speaker 1: Mula.
+[355:40] Speaker 1: Sebab bosan dekat pejabat.
+[355:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[355:44] Speaker 1: Yalah.
+[355:45] Speaker 1: Cool juga. Ah.
+[355:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[355:56] Speaker 1: Ah.
+[355:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[366:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[366:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[366:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[366:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[366:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[377:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[377:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[377:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[377:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[388:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[388:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[388:28] Speaker 1: Okay.
+[388:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[388:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[388:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[388:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[399:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[399:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[399:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[399:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[399:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[400:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[400:11] Speaker 1: Saya patut dapat makan free lah.
+[400:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[400:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[400:30] Speaker 1: Hmm.
+[400:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[400:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[400:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[411:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[411:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[411:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[411:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[411:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[411:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[422:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[422:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[422:52] Speaker 1: Okay YB, ada lagi ni.
+[422:56] Speaker 1: Ah, Deepavali call.
+[422:58] Speaker 1: Ni dekat mana ni?
+[422:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[433:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[433:12] Speaker 1: Tak ada orang pergi tegur ke?
+[433:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[433:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[433:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[433:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[444:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[444:28] Speaker 1: 100%.
+[444:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[444:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[444:42] Speaker 1: Ah.
+[444:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[444:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[455:11] Speaker 1: Cuma ah eh.
+[455:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[455:23] Speaker 1: Okay.
+[455:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[455:27] Speaker 1: Ah.
+[455:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[455:40] Speaker 1: Mula.
+[455:40] Speaker 1: Sebab bosan dekat pejabat.
+[455:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[455:44] Speaker 1: Yalah.
+[455:45] Speaker 1: Cool juga. Ah.
+[455:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[455:56] Speaker 1: Ah.
+[455:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[466:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[466:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[466:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[466:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[466:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[477:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[477:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[477:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[477:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[488:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[488:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[488:28] Speaker 1: Okay.
+[488:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[488:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[488:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[488:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[499:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[499:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[499:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[499:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[499:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[500:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[500:11] Speaker 1: Saya patut dapat makan free lah.
+[500:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[500:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[500:30] Speaker 1: Hmm.
+[500:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[500:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[500:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[511:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[511:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[511:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[511:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[511:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[511:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[522:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[522:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[522:52] Speaker 1: Okay YB, ada lagi ni.
+[522:56] Speaker 1: Ah, Deepavali call.
+[522:58] Speaker 1: Ni dekat mana ni?
+[522:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[533:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[533:12] Speaker 1: Tak ada orang pergi tegur ke?
+[533:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[533:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[533:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[533:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[544:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[544:28] Speaker 1: 100%.
+[544:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[544:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[544:42] Speaker 1: Ah.
+[544:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[544:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[555:11] Speaker 1: Cuma ah eh.
+[555:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[555:23] Speaker 1: Okay.
+[555:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[555:27] Speaker 1: Ah.
+[555:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[555:40] Speaker 1: Mula.
+[555:40] Speaker 1: Sebab bosan dekat pejabat.
+[555:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[555:44] Speaker 1: Yalah.
+[555:45] Speaker 1: Cool juga. Ah.
+[555:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[555:56] Speaker 1: Ah.
+[555:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[566:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[566:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[566:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[566:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[566:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[577:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[577:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[577:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[577:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[588:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[588:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[588:28] Speaker 1: Okay.
+[588:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[588:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[588:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[588:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[599:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[599:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[599:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[599:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[599:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[600:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[600:11] Speaker 1: Saya patut dapat makan free lah.
+[600:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[600:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[600:30] Speaker 1: Hmm.
+[600:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[600:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[600:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[611:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[611:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[611:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[611:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[611:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[611:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[622:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[622:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[622:52] Speaker 1: Okay YB, ada lagi ni.
+[622:56] Speaker 1: Ah, Deepavali call.
+[622:58] Speaker 1: Ni dekat mana ni?
+[622:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[633:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[633:12] Speaker 1: Tak ada orang pergi tegur ke?
+[633:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[633:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[633:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[633:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[644:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[644:28] Speaker 1: 100%.
+[644:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[644:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[644:42] Speaker 1: Ah.
+[644:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[644:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[655:11] Speaker 1: Cuma ah eh.
+[655:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[655:23] Speaker 1: Okay.
+[655:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[655:27] Speaker 1: Ah.
+[655:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[655:40] Speaker 1: Mula.
+[655:40] Speaker 1: Sebab bosan dekat pejabat.
+[655:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[655:44] Speaker 1: Yalah.
+[655:45] Speaker 1: Cool juga. Ah.
+[655:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[655:56] Speaker 1: Ah.
+[655:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[666:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[666:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[666:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[666:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[666:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[677:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[677:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[677:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[677:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[688:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[688:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[688:28] Speaker 1: Okay.
+[688:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[688:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[688:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[688:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[699:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[699:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[699:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[699:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[699:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[700:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[700:11] Speaker 1: Saya patut dapat makan free lah.
+[700:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[700:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[700:30] Speaker 1: Hmm.
+[700:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[700:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[700:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[711:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[711:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[711:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[711:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[711:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[711:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[722:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[722:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[722:52] Speaker 1: Okay YB, ada lagi ni.
+[722:56] Speaker 1: Ah, Deepavali call.
+[722:58] Speaker 1: Ni dekat mana ni?
+[722:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[733:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[733:12] Speaker 1: Tak ada orang pergi tegur ke?
+[733:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[733:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[733:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[733:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[744:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[744:28] Speaker 1: 100%.
+[744:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[744:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[744:42] Speaker 1: Ah.
+[744:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[744:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[755:11] Speaker 1: Cuma ah eh.
+[755:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[755:23] Speaker 1: Okay.
+[755:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[755:27] Speaker 1: Ah.
+[755:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[755:40] Speaker 1: Mula.
+[755:40] Speaker 1: Sebab bosan dekat pejabat.
+[755:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[755:44] Speaker 1: Yalah.
+[755:45] Speaker 1: Cool juga. Ah.
+[755:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[755:56] Speaker 1: Ah.
+[755:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[766:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[766:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[766:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[766:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[766:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[777:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[777:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[777:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[777:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[788:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[788:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[788:28] Speaker 1: Okay.
+[788:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[788:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[788:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[788:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[799:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[799:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[799:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[799:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[799:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[800:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[800:11] Speaker 1: Saya patut dapat makan free lah.
+[800:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[800:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[800:30] Speaker 1: Hmm.
+[800:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[800:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[800:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[811:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[811:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[811:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[811:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[811:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[811:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[822:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[822:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[822:52] Speaker 1: Okay YB, ada lagi ni.
+[822:56] Speaker 1: Ah, Deepavali call.
+[822:58] Speaker 1: Ni dekat mana ni?
+[822:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[833:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[833:12] Speaker 1: Tak ada orang pergi tegur ke?
+[833:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[833:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[833:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[833:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[844:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[844:28] Speaker 1: 100%.
+[844:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[844:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[844:42] Speaker 1: Ah.
+[844:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[844:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[855:11] Speaker 1: Cuma ah eh.
+[855:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[855:23] Speaker 1: Okay.
+[855:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[855:27] Speaker 1: Ah.
+[855:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[855:40] Speaker 1: Mula.
+[855:40] Speaker 1: Sebab bosan dekat pejabat.
+[855:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[855:44] Speaker 1: Yalah.
+[855:45] Speaker 1: Cool juga. Ah.
+[855:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[855:56] Speaker 1: Ah.
+[855:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[866:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[866:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[866:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[866:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[866:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[877:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[877:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[877:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[877:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[888:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[888:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[888:28] Speaker 1: Okay.
+[888:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[888:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[888:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[888:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[899:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[899:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[899:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[899:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[899:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[900:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[900:11] Speaker 1: Saya patut dapat makan free lah.
+[900:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[900:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[900:30] Speaker 1: Hmm.
+[900:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[900:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[900:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[911:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[911:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[911:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[911:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[911:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[911:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[922:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[922:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[922:52] Speaker 1: Okay YB, ada lagi ni.
+[922:56] Speaker 1: Ah, Deepavali call.
+[922:58] Speaker 1: Ni dekat mana ni?
+[922:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[933:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[933:12] Speaker 1: Tak ada orang pergi tegur ke?
+[933:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[933:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[933:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[933:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[944:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[944:28] Speaker 1: 100%.
+[944:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[944:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[944:42] Speaker 1: Ah.
+[944:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[944:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[955:11] Speaker 1: Cuma ah eh.
+[955:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[955:23] Speaker 1: Okay.
+[955:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[955:27] Speaker 1: Ah.
+[955:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[955:40] Speaker 1: Mula.
+[955:40] Speaker 1: Sebab bosan dekat pejabat.
+[955:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[955:44] Speaker 1: Yalah.
+[955:45] Speaker 1: Cool juga. Ah.
+[955:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[955:56] Speaker 1: Ah.
+[955:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[966:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[966:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[966:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[966:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[966:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[977:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[977:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[977:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[977:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[988:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[988:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[988:28] Speaker 1: Okay.
+[988:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[988:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[988:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[988:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[999:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[999:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[999:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[999:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[999:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[1000:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[1000:11] Speaker 1: Saya patut dapat makan free lah.
+[1000:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[1000:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[1000:30] Speaker 1: Hmm.
+[1000:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[1000:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[1000:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[1111:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[1111:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[1111:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[1111:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[1111:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[1111:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[1222:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[1222:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[1222:52] Speaker 1: Okay YB, ada lagi ni.
+[1222:56] Speaker 1: Ah, Deepavali call.
+[1222:58] Speaker 1: Ni dekat mana ni?
+[1222:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[1333:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[1333:12] Speaker 1: Tak ada orang pergi tegur ke?
+[1333:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[1333:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[1333:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[1333:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[1444:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[1444:28] Speaker 1: 100%.
+[1444:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[1444:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[1444:42] Speaker 1: Ah.
+[1444:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[1444:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[1555:11] Speaker 1: Cuma ah eh.
+[1555:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[1555:23] Speaker 1: Okay.
+[1555:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[1555:27] Speaker 1: Ah.
+[1555:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[155:40] Speaker 1: Mula.
+[155:40] Speaker 1: Sebab bosan dekat pejabat.
+[155:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[155:44] Speaker 1: Yalah.
+[155:45] Speaker 1: Cool juga. Ah.
+[155:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[155:56] Speaker 1: Ah.
+[155:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[166:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[166:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[166:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[166:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[166:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[177:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[177:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[177:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[177:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[188:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[188:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[188:28] Speaker 1: Okay.
+[188:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[188:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[188:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[188:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[199:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[199:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[199:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[199:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[199:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[200:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[200:11] Speaker 1: Saya patut dapat makan free lah.
+[200:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[200:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[200:30] Speaker 1: Hmm.
+[200:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[200:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[200:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[211:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[211:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[211:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[211:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[211:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[211:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[222:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[222:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[222:52] Speaker 1: Okay YB, ada lagi ni.
+[222:56] Speaker 1: Ah, Deepavali call.
+[222:58] Speaker 1: Ni dekat mana ni?
+[222:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[233:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[233:12] Speaker 1: Tak ada orang pergi tegur ke?
+[233:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[233:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[233:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[233:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[244:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[244:28] Speaker 1: 100%.
+[244:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[244:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[244:42] Speaker 1: Ah.
+[244:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[244:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[255:11] Speaker 1: Cuma ah eh.
+[255:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[255:23] Speaker 1: Okay.
+[255:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[255:27] Speaker 1: Ah.
+[255:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[255:40] Speaker 1: Mula.
+[255:40] Speaker 1: Sebab bosan dekat pejabat.
+[255:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[255:44] Speaker 1: Yalah.
+[255:45] Speaker 1: Cool juga. Ah.
+[255:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[255:56] Speaker 1: Ah.
+[255:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[266:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[266:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[266:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[266:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[266:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[277:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[277:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[277:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[277:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[288:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[288:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[288:28] Speaker 1: Okay.
+[288:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[288:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[288:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[288:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[299:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[299:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[299:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[299:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[299:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[300:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[300:11] Speaker 1: Saya patut dapat makan free lah.
+[300:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[300:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[300:30] Speaker 1: Hmm.
+[300:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[300:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[300:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[311:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[311:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[311:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[311:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[311:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[311:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[322:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[322:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[322:52] Speaker 1: Okay YB, ada lagi ni.
+[322:56] Speaker 1: Ah, Deepavali call.
+[322:58] Speaker 1: Ni dekat mana ni?
+[322:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[333:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[333:12] Speaker 1: Tak ada orang pergi tegur ke?
+[333:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[333:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[333:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[333:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[344:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[344:28] Speaker 1: 100%.
+[344:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[344:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[344:42] Speaker 1: Ah.
+[344:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[344:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[355:11] Speaker 1: Cuma ah eh.
+[355:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[355:23] Speaker 1: Okay.
+[355:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[355:27] Speaker 1: Ah.
+[355:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[355:40] Speaker 1: Mula.
+[355:40] Speaker 1: Sebab bosan dekat pejabat.
+[355:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[355:44] Speaker 1: Yalah.
+[355:45] Speaker 1: Cool juga. Ah.
+[355:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[355:56] Speaker 1: Ah.
+[355:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[366:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[366:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[366:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[366:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[366:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[377:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[377:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[377:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[377:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[388:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[388:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[388:28] Speaker 1: Okay.
+[388:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[388:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[388:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[388:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[399:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[399:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[399:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[399:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[399:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[400:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[400:11] Speaker 1: Saya patut dapat makan free lah.
+[400:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[400:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[400:30] Speaker 1: Hmm.
+[400:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[400:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[400:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[411:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[411:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[411:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[411:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[411:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[411:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[422:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[422:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[422:52] Speaker 1: Okay YB, ada lagi ni.
+[422:56] Speaker 1: Ah, Deepavali call.
+[422:58] Speaker 1: Ni dekat mana ni?
+[422:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[433:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[433:12] Speaker 1: Tak ada orang pergi tegur ke?
+[433:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[433:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[433:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[433:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[444:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[444:28] Speaker 1: 100%.
+[444:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[444:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[444:42] Speaker 1: Ah.
+[444:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[444:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[455:11] Speaker 1: Cuma ah eh.
+[455:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[455:23] Speaker 1: Okay.
+[455:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[455:27] Speaker 1: Ah.
+[455:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[455:40] Speaker 1: Mula.
+[455:40] Speaker 1: Sebab bosan dekat pejabat.
+[455:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[455:44] Speaker 1: Yalah.
+[455:45] Speaker 1: Cool juga. Ah.
+[455:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[455:56] Speaker 1: Ah.
+[455:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[466:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[466:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[466:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[466:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[466:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[477:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[477:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[477:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[477:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[488:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[488:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[488:28] Speaker 1: Okay.
+[488:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[488:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[488:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[488:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[499:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[499:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[499:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[499:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[499:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[500:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[500:11] Speaker 1: Saya patut dapat makan free lah.
+[500:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[500:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[500:30] Speaker 1: Hmm.
+[500:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[500:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[500:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[511:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[511:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[511:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[511:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[511:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[511:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[522:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[522:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[522:52] Speaker 1: Okay YB, ada lagi ni.
+[522:56] Speaker 1: Ah, Deepavali call.
+[522:58] Speaker 1: Ni dekat mana ni?
+[522:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[533:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[533:12] Speaker 1: Tak ada orang pergi tegur ke?
+[533:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[533:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[533:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[533:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[544:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[544:28] Speaker 1: 100%.
+[544:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[544:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[544:42] Speaker 1: Ah.
+[544:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[544:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[555:11] Speaker 1: Cuma ah eh.
+[555:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[555:23] Speaker 1: Okay.
+[555:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[555:27] Speaker 1: Ah.
+[555:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[555:40] Speaker 1: Mula.
+[555:40] Speaker 1: Sebab bosan dekat pejabat.
+[555:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[555:44] Speaker 1: Yalah.
+[555:45] Speaker 1: Cool juga. Ah.
+[555:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[555:56] Speaker 1: Ah.
+[555:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[566:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[566:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[566:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[566:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[566:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[577:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[577:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[577:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[577:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[588:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[588:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[588:28] Speaker 1: Okay.
+[588:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[588:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[588:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[588:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[599:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[599:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[599:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[599:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[599:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[600:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[600:11] Speaker 1: Saya patut dapat makan free lah.
+[600:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[600:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[600:30] Speaker 1: Hmm.
+[600:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[600:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[600:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[611:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[611:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[611:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[611:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[611:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[611:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[622:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[622:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[622:52] Speaker 1: Okay YB, ada lagi ni.
+[622:56] Speaker 1: Ah, Deepavali call.
+[622:58] Speaker 1: Ni dekat mana ni?
+[622:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[633:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[633:12] Speaker 1: Tak ada orang pergi tegur ke?
+[633:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[633:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[633:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[633:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[644:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[644:28] Speaker 1: 100%.
+[644:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[644:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[644:42] Speaker 1: Ah.
+[644:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[644:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[655:11] Speaker 1: Cuma ah eh.
+[655:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[655:23] Speaker 1: Okay.
+[655:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[655:27] Speaker 1: Ah.
+[655:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[655:40] Speaker 1: Mula.
+[655:40] Speaker 1: Sebab bosan dekat pejabat.
+[655:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[655:44] Speaker 1: Yalah.
+[655:45] Speaker 1: Cool juga. Ah.
+[655:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[655:56] Speaker 1: Ah.
+[655:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[666:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[666:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[666:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[666:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[666:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[677:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[677:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[677:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[677:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[688:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[688:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[688:28] Speaker 1: Okay.
+[688:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[688:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[688:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[688:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[699:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[699:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[699:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[699:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[699:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[700:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[700:11] Speaker 1: Saya patut dapat makan free lah.
+[700:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[700:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
+[700:30] Speaker 1: Hmm.
+[700:30] Speaker 1: Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang
+[700:37] Speaker 1: ah pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah note kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi Hmm, hmm, hmm, hmm.
+[700:52] Speaker 1: Kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kut. Tapi influencer 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi influencer ni?
+[711:09] Speaker 1: I don't think ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. As long as orang rasa boleh relate.
+[711:16] Speaker 1: Ke atau dia sebenarnya food reviewer?
+[711:21] Speaker 1: Ah, ya ya ya. Ah, dia mungkin lah, mungkin food reviewer yang pergi ah Kedai rasa. kedai untuk buat review. Dia food reviewer. Tapi tak kan mamak tu.
+[711:35] Speaker 1: Banyak aje orang buat ah food reviewer kat mamak yang food reviewer ah buat review ah Maggi segera tepi jalan tu pun banyak kan.
+[711:46] Speaker 1: Ah, tapi yalah ni tersalah kedai mamak lah.
+[711:51] Speaker 1: Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada influencer kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada influencer kerana risiko dia ialah masa dia review tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Ah.
+[722:28] Speaker 1: Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer, food review ataupun so-called influencer lah. Kan.
+[722:40] Speaker 1: Tapi, dia tak dapat makan free lah. Tak dapat. Tak dapat makan free lah. Tak apa lah, suruhlah dia datang review kita punya podcast, saya belanja dia.
+[722:52] Speaker 1: Okay YB, ada lagi ni.
+[722:56] Speaker 1: Ah, Deepavali call.
+[722:58] Speaker 1: Ni dekat mana ni?
+[722:59] Speaker 1: Ini, orang kata dekat dekat Penang eh?
+[733:05] Speaker 1: Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
+[733:12] Speaker 1: Tak ada orang pergi tegur ke?
+[733:17] Speaker 1: Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah.
+[733:22] Speaker 1: Dia buat video lah. Dia tak tegur orang.
+[733:25] Speaker 1: Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni.
+[733:57] Speaker 1: Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan.
+[744:24] Speaker 1: Jadi salahnya salah mak ayah 100%. Salah mak ayah.
+[744:28] Speaker 1: 100%.
+[744:30] Speaker 1: Baik baik baik. Hmm. Tapi yalah so kau nak kata beria budak-budak ni merosakkan ni?
+[744:37] Speaker 1: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[744:42] Speaker 1: Ah.
+[744:43] Speaker 1: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak Boleh jadi beria yang ambil video, beria ibu bapa yang buat video lah, dia tak tegur.
+[744:52] Speaker 1: Hmm. Tapi sebab itu saya tak sangka itu respons. perlu dilaporkan kepada Jabatan Tenaga Kerjalah.
+[755:11] Speaker 1: Cuma ah eh.
+[755:19] Speaker 1: Em saya dulu pernah tidur dalam tandas.
+[755:23] Speaker 1: Okay.
+[755:23] Speaker 1: Masa mula-mula kerja dulu dekat UK.
+[755:27] Speaker 1: Ah.
+[755:29] Speaker 1: Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng.
+[755:40] Speaker 1: Mula.
+[755:40] Speaker 1: Sebab bosan dekat pejabat.
+[755:43] Speaker 1: Oh YB pernah buat macam tu eh?
+[755:44] Speaker 1: Yalah.
+[755:45] Speaker 1: Cool juga. Ah.
+[755:46] Speaker 1: Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan.
+[755:56] Speaker 1: Ah.
+[755:57] Speaker 1: Dan ah dekat ah accounting firm audit firm dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak.
+[766:07] Speaker 1: Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stack.
+[766:14] Speaker 1: Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, winter.
+[766:26] Speaker 1: Jadi satu-satunya tempat yang boleh lari daripada orang Hmm. dan em dia masih lagi ada heater lah, pemanas, kan tandas lah.
+[766:36] Speaker 1: Ya ya ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengulalah.
+[766:50] Speaker 1: Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata, hmm. kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
+[777:11] Speaker 1: Okay YB baik. Pedas, ah kita tengok yang seterusnya kita ada apa?
+[777:18] Speaker 1: Pulang apa bosku? Ah, ini YB Card dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[777:31] Speaker 1: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan Hmm. kalau ambil duit pulang lepas. Hmm. Sebab berlaku beberapa kali ni kan, ah.
+[777:53] Speaker 1: Ambil duit, ah pulang, bayar compound, lepas, kan. Em, hmm, hmm, hmm.
+[788:01] Speaker 1: Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan ah semula selepas dapat kelulusan Bank Negara. Hmm, hmm, hmm. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah.
+[788:21] Speaker 1: Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu.
+[788:28] Speaker 1: Okay.
+[788:29] Speaker 1: Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya.
+[788:37] Speaker 1: Pilihan raya 2018 dan juga pilihan raya 2022.
+[788:42] Speaker 1: Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini.
+[788:58] Speaker 1: Sebab ah dalam tahun-tahun sebelum itu pun, sebelum ah Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima.
+[799:18] Speaker 1: Em di mahkamah undang-undang tu nanti kita kena tengok Hmm. macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Correct. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah well hampir 10 tahun sebenarnya hujah ni ditolak.
+[799:41] Speaker 1: Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara.
+[799:46] Speaker 1: Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah. Hmm, hmm, hmm.
+[799:51] Speaker 1: Baik, baik YB. Beria. Untuk bosku, kita tengok yang lain.
+[799:58] Speaker 1: Influencer 40,000 nak makan mamak free. Ah. Jangan main-main. Dia followers 40,000 dekat TikTok. YB berapa?
+[800:07] Speaker 1: Saya dah dekat 300,000. Oh. Boleh berapa kali free ni?
+[800:11] Speaker 1: Saya patut dapat makan free lah.
+[800:15] Speaker 1: Ah, saya selalu dapat makan free sebenarnya. Tapi bukan sebab influencer lah. Hmm.
+[800:21] Speaker 1: Saya kalau selalunya, kalau di kedai mamak, Ah ah. saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang.
 
-[02:28] Fizizi Ramli: Selamat datang dan assalamualaikum kepada semua yang menonton podcast Yang Berhenti Menteri dah episod ke-19. Sebelum kita mula dengan segment yang biasa, ada orang tanya dalam komenlah saya tengok YB.
-
-[02:45] Rafizi Ramli: Ha, dia suruh tukar kau!
-
-[02:47] Fizizi Ramli: Itu satulah. Tapi yang satu lagi YB, ada tanya, "Kenapa YB Raf suka pakai baju batik setiap hari Jumaat ni?"
-
-[02:56] Rafizi Ramli: Dia sebab masa saya dalam kerajaan, banyak baju batik. So kalau tak pakai baju batik tu, rugilah. Sebab kalau tidak saya pakai t-shirt sepanjang masa.
-
-[03:15] Fizizi Ramli: Okay YB, itu jawapan dia. Kita teruskan ke segment biasalah YB. Kita ke segment beria-iya.
-
-[03:22] Rafizi Ramli: So yang tukar tadi?
-
-[03:23] Fizizi Ramli: Yang tukar?
-
-[03:24] Rafizi Ramli: Tukar moderator.
-
-[03:25] Fizizi Ramli: YB tentukanlah, saya takut.
-
-[03:30] Fizizi Ramli: Okay. Segment yang pertama YB, Beria-iya. Macam biasalah, orang yang poyo, tapi bukanlah poyo pun. Mungkin kita nak ketengahkan juga isu-isu semasa selain politik juga sikit. Kita tengok yang pertama.
-
-[03:45] Rafizi Ramli: Beria.
-
-[03:46] Fizizi Ramli: Okay, ni politiklah. Ketua Srikandi ceritakan pengorbanan Menteri Pelajaran. YB perasan YB?
-
-[03:52] Rafizi Ramli: Menteri Pendidikan. Ke Menteri Pelajaran?
-
-[03:54] Fizizi Ramli: Menteri Pendidikan. Menteri Pendidikan. Haa typo ni. Haa, dia yelah wish birthday YB. Tapi dia ceritalah penat dan nampak penat tertidur di tandas.
-
-[04:05] Rafizi Ramli: Saya tak baca posting ni lah, tapi yelah dah jadi meme dekat netizen lah kan. Selain program kementerian, "Selamat meranum usia", ni maksudnya apa? Happy birthday?
-
-[04:24] Fizizi Ramli: Meranum, meranum. First time saya dengar.
-
-[04:31] Rafizi Ramli: Haa, dekat mana yang dia kata tidur dalam tandas tu?
-
-[04:38] Fizizi Ramli: "Pernah tertidur dalam tandas akibat terlalu letih, tapi tetap tak pernah mengeluh."
-
-[04:43] Rafizi Ramli: Oh, pernah tertidur di dalam tandas akibat terlalu letih. Ini dah boleh lapor kepada Jabatan Tenaga Kerja. Sebab ini sudah menjadi satu penganiayaan. Kalau seseorang pekerja itu dia kerja terlalu penat sampai tertidur di dalam tandas, ini memang perlu dilaporkan kepada Jabatan Tenaga Kerja lah. Cuma, saya dulu pernah tidur dalam tandas.
-
-[05:22] Fizizi Ramli: Okay.
-
-[05:23] Rafizi Ramli: Masa mula-mula kerja dulu dekat UK. Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja, bukan sebab letih. Tapi sebab nak ponteng! Sebab bosan dekat pejabat! YB pernah buat macam tu eh? Yelah, malulah kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya, saya ijazah kejuruteraan. Dan dekat accounting firm, audit firm dekat UK, dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak. Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stuck. Jadi, dia bukan macam dekat Malaysia yang boleh keluar, sebab dia sejuk kan, winter. Jadi satu-satunya tempat yang boleh lari daripada orang dan dia masih lagi ada heater lah, pemanas kan, tandaslah. Jadi saya pernah lah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinkah kalau tertidur dalam tandas tu bukan sebab letihlah, tapi sebab ponteng dan mengularlah. Yang ini tak tahu lah macam mana. Mungkin dia betul-betul penatlah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata kalau terlalu penat, stress sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
-
-[07:11] Fizizi Ramli: Okay YB, baik. Pedas. Kita tengok yang seterusnya, kita ada apa. "Pulang apa Bossku?" Ini kedengaran dia ke sendiri kata, "Beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal."
-
-[07:32] Rafizi Ramli: Yelah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma bahaya ni kita tak boleh membiasakan kalau ambil duit, pulang lepas. Sebab berlaku beberapa kali ni kan. Ambil duit, pulang, bayar kompaun, lepas. Saya jadi tak tahu nak cakap apa bila dia kata dia pulangkan semula selepas dapat kelulusan Bank Negara. Yelah, saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah. Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya. Pilihan Raya 2018 dan juga Pilihan Raya 2022. Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini. Sebab dalam tahun-tahun sebelum itu pun sebelum Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Jadi di mahkamah rakyat, memang perkara ini tidak diterima. Di mahkamah undang-undang tu nanti kita kena tengok macam manalah. Tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah... well, hampir 10 tahun hujah ni ditolak daripada 2016 lagi kan, hujah seperti ini ditolak oleh rakyat dan negara. Beria-ia lah dia menggunakan hujah yang sama bila masuk dalam mahkamah.
-
-[09:51] Fizizi Ramli: Baik YB, beria untuk Bossku. Kita tengok yang lain. "Influencer 40,000 nak makan Mamak free." Boleh tahan, dia followers 40,000 kat TikTok. YB berapa?
-
-[10:08] Rafizi Ramli: Saya dah dekat 30,000 ke. Boleh berapa kali free ni? Saya patut dapat makan freelah kot. Saya selalu dapat makan free sebenarnya, tapi bukan sebab influencer lah. Saya kalau biasanya kalau di kedai Mamak, saya makan, saya biasanya makan seorang. Makan seorang, duduk seorang. Bila nak pergi bayar tu ada-ada orang bayar. Tapi tak tahulah siapa yang bayar. Ada juga yang pernah berlaku dia bayar kemudian dia tinggalkan nota dekat kaunter tu, not kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi, kalau nak makan free kan, kalau nak makan free rasanya tak perlu jadi influencer lah kot. Tapi influencer 40,000 sekarang ni banyak kot? Sebenarnya apa definisi untuk jadi influencer ni?
-
-[11:09] Fizizi Ramli: I don't think ada badan mana-mana pengiktirafan yang menetapkanlah. As long as orang rasa boleh relate...
-
-[11:16] Rafizi Ramli: Ke atau dia sebenarnya food reviewer?
-
-[11:19] Fizizi Ramli: Ha, ya, ya, ya.
-
-[11:20] Rafizi Ramli: Ha, dia mungkinkah, mungkin food reviewer yang pergi kedai rasa nak buat review. Dia food reviewer?
-
-[11:32] Fizizi Ramli: Tapi takkan kedai Mamak pun?
-
-[11:33] Rafizi Ramli: Banyaje orang buat food reviewer kat Mamak. Yang food reviewer buat review Maggi Segera tepi jalan pun banyak kan. Tapi yelah ni tersalah kedai Mamak lah. Kedai Mamak ni rasanya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangatlah kepada influencer kan. Dan yelah saya pun berbelah bahagilah kalau promosi ni daripada influencer. Sebab risiko dia ialah masa dia review tu mungkin naik, tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba, tapi dia bukan repeat customer, dia tak datang kan. Haa jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada food reviewer. Food review ataupun so-called influencer lah. Tapi, tak dapat makan freelah. Tak dapat makan freelah. Takpe lah suruhlah dia datang review kita punya podcast, saya belanja dia.
-
-[12:50] Fizizi Ramli: Okay YB, ada lagi ni. Deepavali Kolam. Ni dekat mana ni YB?
-
-[13:00] Rafizi Ramli: Ini, katakan dekat Penang? Tular di media sosial, beberapa kanak-kanak merosakkan kolam sempena Deepavali. Takde orang pergi tegur ke? Terus video, ada orang ambil gambar ibu bapa sekali lah. Ya, ya. Dia buat videolah, dia tak tegur. Tapi, yelah ini dia bukan salah anaklah. Ini sepatutnya mak ayah, kalau kita ada anak, kita kena pastikan anak-anak kita tu satu, berbahaya kalau anak-anak kita duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni. Satu dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkinkah budak-budak ni tak faham sebenarnya apa maksud hiasan Deepavali, kolam Deepavali, semua ni kan. Jadi salahnya salah mak ayah 100%. 100%.
-
-[14:26] Fizizi Ramli: Baik YB, beria. Tapi yelah, so kau nak kata beria budak-budak ni merosakkan kolam ni?
-
-[14:36] Rafizi Ramli: Saya tak rasa secara literal macam tu lah. Mak ayah pun ada peranan. Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke, beria mak... Oleh kerana kita tak tahu pun kenapa dia, kita pilih dia dalam segment Beria, memang tak dapat bintang lah yang ini. Salah mak ayah dia 100%. Maaf.
-
-[15:04] Fizizi Ramli: Dan okay, kita ada last rasanya. Selangor nak introduce Pickleball. YB pernah main Pickleball tak?
-
-[15:15] Rafizi Ramli: Pernah, tapi pernah main sekali je. Dengan YB Akmal. Lepas tu dia rasa dia frust dengan saya, lepas tu saya dah tak pernah main dah.
-
-[15:22] Fizizi Ramli: Frust sebab kau kurang mahir main pickleball?
-
-[15:25] Rafizi Ramli: Ha'ah. Dulu Akmal tak adalah, selalu pernah lah beberapa kali main squash dengan saya. Okay. Tu lah sejarahnya. Yelah pickleball is combination of what? Tennis, ping pong, maybe not squash lah, tapi skill lebih kurang samalah. More like tennis dengan ping pong lah. YB pernah main?
-
-[15:47] Rafizi Ramli: Belum lagi sebab aku perasan aku tahu aku tua. Kan yang YB haters ke? Dia ada, pickleball ni ada haters eh?
-
-[15:57] Fizizi Ramli: Takde.
-
-[15:58] Rafizi Ramli: I think I enjoy playing court games. Takde lah, bagus. Tapi saya pernah lah main, pernah main cuba semua, tennis pernah main. Kalau pergi kat rumah saya semua ada. racket, racket tennis ada, racket squash ada, racket badminton ada. Dulu masa sekolah dekat Scotland, mat saleh dia permainan di sekolah dia ikut musim. Jadi kalau musim sejuk sampai ke spring, musim bunga, dia, sorry, autumn to winter, musim luruh ke musim sejuk, sama ada kena pilih main hoki ataupun main ragbi. So Melayu, kita orang semua main hokilah, mampus main ragbi kena pukul kan dengan mat saleh kan. Kemudian, musim bunga ke musim panas, sama ada kriket ataupun tennis. So Melayu main tennislah, sebab kriket ni mat saleh memang hebatlah kan. So, so I would like to try satu hari lah, tapi mungkinkah tak perlu kot untuk memperkenalkan keseluruhan sekolah di Selangor. Sebab Pickleball ni sekarang biarlah dia jadi popular dengan organik secara organik. Satu racket Pickleball tu berapa? Mahal juga. 60 ada. Eh, 100. 100, 130, 220. Jadi yang yang saya kalau komen sayalah, bila kerajaan Selangor beria nak memperkenalkan Pickleball ni, satu ialah kita semua tahulah kerajaan mana-mana sumber negeri. Sumber kewangan itu adalah terhad. Jadi adakah lebih baik kalau sumber itu disalurkan kepada sukan-sukan yang memang telah pun bertapak kuat di Malaysia, yang yang memang sudah ada program berpuluh tahun dari peringkat sekolah. Itu termasuklah sukan-sukan perdana macam bola sepak ke, hoki ke, ragbi ke, bola keranjang ke, bola tampar. Ini yang memang sudah ada pertandingan di peringkat Majlis Sukan Sekolah-Sekolah Daerah. Kemudian yang yang yang mungkin perlu diambil kira ialah kalau diperkenalkan dan jadi program, iyalah peruntukan itu akan digunakan. Tapi kalau anak-anak yang nak main tu kalau keluarga dia kena belanjakan pula beratus-ratus, dia mungkin menjadi beban kepada keluargalah. Jadi, tapi ini sebenarnya perangai orang kita jugalah. Kita selalu ada ikutan baru. Kalau ikut mat saleh, kalau ada saya ingat Einstein pernah cakaplah. Einstein pernah cakap, "It's not that I am smarter, I stay on the problem longer." Jadi kita kadang-kadang sebagai masyarakat, kita tidak ada daya tahan untuk kita kekal kepada sesuatu perkara, memperbaikinya, menyelesaikan masalahnya sebelum kita berpindah kepada hype baru. Sukan pun kalau tak berhati-hati, Pickleball macam inilah. Yang dikendong tu tak dapat, yang dikejar tak dapat, yang dikendong berceceran kan. Jadi saya rasa saya tak faham kenapalah. Jadi beria. Tak pe lah suruhlah dia datang review kita punya podcast, saya belanja dia. Okay YB, ada lagi ni.
-
-[20:26] Fizizi Ramli: Okay YB. YB nak buat rating?
-
-[20:30] Rafizi Ramli: Rating, cuba tengok balik apa dia. Oh, rating yang ini clearlah. Rating laporan kepada Jabatan Tenaga Kerja kerana tertidur di dalam tandaslah. Yang ini rating 5 lah. Tak, bukan Fadhlina. Sebenarnya ni Nur Hidayah Che Ros ni yang yang dia beria-ia. Tak tahulah pegawai kepada Fadhlina. Tapi tak perlulah begini. Saya kalau ada pegawai saya buat posting macam ni, memang kena pukul dengan saya kan. Kena pukul kan? Saya akan denda pegawai itu, sila tidur dalam tandas. Sebab dia tak membantu ni. Nur Hidayah Che Ros ni pegawai Fadhlina daripada dulu lah kan dalam PKR. Tapi, YB memang tak suka pegawai YB menabi-nabikan YB lah maksudnya?
-
-[21:20] Rafizi Ramli: Tak, kita, we sign up for the job kan. Jadi tugas pegawai ialah memastikan bahawa bila saya kata menteri tu maksudnya pejabat menterilah, bukan batang tubuh menteri. Berjaya melaksanakan tugas dia dengan baik. Dan pegawai-pegawai ni takkan dia nak kata menteri dia tak elok. Mestilah dia kata menteri dia elok, jadi tak perlulah pegawai nak cakap apa-apa. Mutu seorang pegawai itu, sama ada dia berjaya memudahkan dan membantu menteri dia buat kerja dengan baik, bukannya tolong lambung menteri. Baik, baik, baik YB. Clear. Tapi ha, ni aku nak sambung lagi ni. Ini yang saya selalu perli dalam PKR. Bila kita membiarkan budaya membodek ini membiak, haa ini jadi dia. Kan, semua orang tahu, Nur Hidayah Che Ros ni ialah pegawai kepada Fadhlina. Dan dia juga adalah budak Fadhlina. Jadi oleh kerana kita membiarkan budaya itu yang banyak membodek, banyak melambung, siapa yang dekat dengan kita dan pandai melambung, yang itulah yang kita nampak. Akhirnya perkara itu bukan sahaja menular di dalam parti, dia menular di dalam kerajaanlah. Dan akhirnya dia jadi meme rakyat yang ditertawakan oleh rakyat seperti ini lah. Tapi saya bagi dia 5.5 bintang. 5.5? Very generous. Generous kali ini kan.
-
-[23:07] Fizizi Ramli: Okay, baik, baik, baik. Di luar yang lain-lain aku rasa. Okay, baik, clear. Kita terus ke segment seterusnya. Standing Order. Cuma mungkin kali ini paling dua hari je YB eh?
-
-[23:20] Rafizi Ramli: Paling dua hari je, hari Rabu dengan hari Khamis. Dan dia kecoh pasal tuduhan Memali lah. Tapi kita ada dua segment keras, tak keras sangat.
-
-[23:36] Fizizi Ramli: Baik. Jadi untuk Standing Order ni mungkin kita review soalan sikit lah YB eh. Soalan pertama dari Datuk Seri Dr. Wan Azizah Wan Ismail. Minta Menteri Pendidikan menyatakan langkah-langkah yang diambil dan bilakah permulaan prasekolah kepada 5 tahun dan sekolah rendah kepada 6 tahun akan dilaksanakan mengikut reformasi pendidikan RMK-13.
-
-[23:59] Rafizi Ramli: Mm, ya. Bagus Kak Wan tanya soalan ini kerana kebimbangan saya sebelum ini selepas RMK-13 dibentangkan, ada kenyataan-kenyataan daripada kerajaan seolah-olah perkara itu akan dipertimbangkan. Keputusan itu telah dibuat di dalam RMK. Ya, jadi sebab itu soalan ini saya ingat soalan yang patut kita kongsi dengan rakyat dan penonton bahawa isu dia bukanlah sama ada akan akan dibuat atau dipertimbangkan, isu dia seperti yang ditanya oleh Kak Wan ialah bila nak mula ni? Jadi saya pun dah baca jawapan, saya memang setiap hari saya masuk Parlimen, saya akan belek semua soalan-soalan daripada semua. Setiap hari soalan tu ada dalam 50 lebih lah yang yang akan ditanya oleh semua. Yang berjaya masuk untuk dijawab oleh Menteri secara lisan paling banyak dalam 11, 12 tiap-tiap hari. Yang lain tu soalan itu akan dijawab secara bertulis. Cara nak nak baca jawapan kepada soalan-soalan itu setiap hari tu, pergi kepada laman web Parlimen. Di bawah Dewan Rakyat tu dia akan ada selain daripada Hansard, dia juga ada jawapan. So boleh jawab. Jadi jawapan daripada Kementerian Pendidikan, dia dah ada dua task force lah. Okay. Dan kita akan pantau dan saya akan pantau juga. Kena orang selalu tanyalah kan, terutamanya kalau pembangkanglah. Dia kata, "Alah kau bising masa jadi Menteri Ekonomi dulu pun sendu." "Tak buat kerja." Okay. Sebagian daripada tugas saya sebagai Menteri Ekonomi dahulu ialah merancang dasar-dasar besar. Dan dasar-dasar besar ini, satu salah satunyalah reformasi pendidikan. Jadi kebimbangan ialah kalau perkara yang telah dirancang, difikirkan dan diputuskan itu, bila sampai kepada kementerian yang melaksana, dalam kes ini Kementerian Pendidikan, dia tidak dilaksanakan dengan secepat yang mungkin. Jadi saya harap bukan sahaja saya, bukan sahaja Kak Wan atau ahli-ahli Parlimen yang lain, rakyat dan terutamanya warga pendidik terus tumpu kepada isu ini kerana ini adalah anjakan yang paling besar. Saya ingat daripada berpuluh tahun yang lepas, kerana memang daripada awal kita mula pendidikan umur 7 tahun. Ini kali pertama dalam sejarah kita, kita nak anjak kepada 6 tahun. Dan kita nak pastikan bahawa pendidikan prasekolah ini diberikan secara percuma, secara universal. Selain daripada untuk pertumbuhan anak-anak, kemajuan pendidikan anak-anak, dia juga mengimbangi supaya beban sara hidup keluarga muda itu akan dapat dibantu oleh kerajaan. Karena sekarang ini, bayaran prasekolah adalah mahal. Masing-masing tak berkeluarga lagi, jadi tak tahu. Bayaran prasekolah sekarang ni RM500 seorang. Masa YB tadika? Tadika? Ha. Kalau tadika, sebab orang kata kenapa tak pergi ke tadika kerajaan? Kemas. Yang itu hanya untuk B40. B40 itu pun kalau ada B40, tempatnya adalah terhad, bukan semua boleh dapat. Jadi sebab itu kenapa PAS popular dengan PASTI. Ya. Kerana PASTI mengenakan cas yang antara yang paling murah. Kita tahulah kenapa, sebab dia tak bayar pekerja-pekerja dia kan. Guru-guru di situ. Jadi dan perkara ini juga kita saya sendiri saya harapkan rakan-rakan ahli Parlimen yang lain terus tumpu untuk beberapa tahun akan datang kerana dia bukan tanggungjawab Kementerian Pendidikan semata-mata. Dia juga contohnya tanggungjawab bersama Kementerian Ekonomi dan Kementerian Kewangan. Karena kalau dia juga tanggungjawab Kementerian Kerja Raya contohnya. Karena untuk kita memastikan peralihan kepada permulaan sekolah berumur 6 tahun ini boleh berlaku dan pendidikan prasekolah diberikan secara universal secara percuma, maka dalam tempoh 5 tahun yang akan datang, banyak blok-blok baru sekolah perlu dibina. Sekolah-sekolah yang ada kapasiti yang tidak dipenuhi yang itu perlu ditukar menjadi prasekolah contohnya kan. Jadi saya berbesar hatilah bila Kak Wan tanya soalan ini kan.
-
-[29:13] Fizizi Ramli: Baik YB, satu soalan daripada Bandar Tun Razak. Satu lagi daripada pembangkang. Dari Hulu Terengganu, minta Menteri Ekonomi menyatakan perkembangan terkini sistem PADU dan apakah fungsi PADU dalam agihan subsidi bersasar seperti petrol RON95 kepada rakyat?
-
-[29:32] Rafizi Ramli: Yang ini macam biasalah. Yang ini ialah percubaan daripada pembangkang untuk menembak di tembak semualah. Salah satunya ialah yang ditembak pasal PADU lah. Karena dia kata ini satu yang merugikan. Jadi saya pun nak berminat juga nak tengok apa jawapan kerajaanlah. Sebagiannya tu saya ingat daripada tempoh saya berada di Kementerian Ekonomi. Jadi dalam sekarang dah 5 bulan berlalu. Jadi jawapan itu ialah seperti yang yang kita rancangkan dululah. Sebab PADU bukanlah untuk RON95 semata-mata. Use case-nya itu ada banyak. Kerana bila kita ada satu pangkalan data yang bersepadu, maka itu akan pertama membolehkan jabatan-jabatan kerajaan yang lain, kementerian-kementerian lain boleh membuat keputusan mengikut data. Kemudian boleh menyasarkan program mereka mengikut data kepada mereka yang layak. Jadi jawapan daripada Kementerian Ekonomi ialah setakat ini, saya baca tadi, setakat ini sudah ada 17 kementerian dan jabatan-jabatan kerajaan yang telah menggunakannya untuk program masing-masing. Yang yang saya terkejut tu JKR. JKR buat apa pakai PADU untuk apa? Saya tak tahu. Mungkin JKR menggunakan PADU untuk melihat taburan penduduk mungkin. Haa ataupun untuk melihat kepada taburan trafik di sesuatu kawasan. Kementerian Belia dan Sukan, PTPTN, kemudian Pendidikan Tinggi. Agensi-agensi lain tu YB? Yang itulah semua, banyak. 17. Saya tak ingat semualah. Dan jawapan dia mengenai RON95 ini, PADU adalah salah satu daripada pangkalan data yang digunakan oleh Kementerian Kewangan sebagai rujukan. Jadi saya ingat yang mempolitikkan PADU ni banyaknya ialah mereka yang mungkin kurang arif tentang perkongsian data dalam kerajaan. Walaupun kita di mata rakyat, kita tengok kerajaan ni satu sama. Dia sebenarnya lain ada entiti beribu di dalam itu. Jadi kalau Kementerian A, dia nak minta data Kementerian B, dia tak dapatlah. Kerana itu bergantung kepada kelulusan. Jadi sebelum ini birokrasi tu banyak. Sebab itu setiap kali sesuatu perkara nak dibuat, kecenderungan ya ialah membina sistem itu daripada bawah sampai ke atas. Kalau dalam bahasa perisian daripada back-end sampai ke front-end. Dah lah habis duit banyak-banyak untuk buat back-end tu. Kemudian untuk mendapatkan data tu pula, dia kena peruntukkan untuk orang mendaftar semua. Tapi kalau yang mendaftar hanya 10,000, dia masih lagi tak dapat. Sedangkan kita ada semua data yang berpuluh juta dalam kajian ini. Ia hanya perlu disatukan. Jadi saya harap perkara itu terus berlaku. Satu masa nanti bila dah banyak use case seperti yang dirancang, itu akan membolehkan khidmat-khidmat kerajaan, program-program kerajaan ni lebih berintegrasi dan lebih bersasar daripada yang ada sekarang.
-
-[33:14] Fizizi Ramli: Okay baik YB. Percubaan yang baik Hulu Terengganu. Terima kasih Hulu Terengganu. Haa. Dan kita ke habislah untuk review soalan Parlimen YB eh. Kita ke segment seterusnya. Hidup Keras YB. Haa.
-
-[33:31] Rafizi Ramli: Eh, rating untuk Standing Order?
-
-[33:33] Fizizi Ramli: Oh rating.
-
-[33:34] Rafizi Ramli: Rating yang ini clearlah. Rating laporan kepada Jabatan Tenaga Kerja kerana tertidur di dalam tandaslah. Yang ini rating 5 lah. Tak, bukan Fadhlina. Sebenarnya ni Nur Hidayah Che Ros ni yang yang dia beria-ia. Tak tahulah pegawai kepada Fadhlina. Tapi tak perlulah begini. Saya kalau ada pegawai saya buat posting macam ni, memang kena pukul dengan saya kan. Kena pukul kan? Saya akan denda pegawai itu, sila tidur dalam tandas. Sebab dia tak membantu ni. Nur Hidayah Che Ros ni pegawai Fadhlina daripada dulu lah kan dalam PKR. Tapi, YB memang tak suka pegawai YB menabi-nabikan YB lah maksudnya?
-
-[34:14] Rafizi Ramli: Tak, kita, we sign up for the job kan. Jadi tugas pegawai ialah memastikan bahawa bila saya kata menteri tu maksudnya pejabat menterilah, bukan batang tubuh menteri. Berjaya melaksanakan tugas dia dengan baik. Dan pegawai-pegawai ni takkan dia nak kata menteri dia tak elok. Mestilah dia kata menteri dia elok, jadi tak perlulah pegawai nak cakap apa-apa. Mutu seorang pegawai itu, sama ada dia berjaya memudahkan dan membantu menteri dia buat kerja dengan baik, bukannya tolong lambung menteri. Baik, baik, baik YB. Clear. Tapi ha, ni aku nak sambung lagi ni. Ini yang saya selalu perli dalam PKR. Bila kita membiarkan budaya membodek ini membiak, haa ini jadi dia. Kan, semua orang tahu, Nur Hidayah Che Ros ni ialah pegawai kepada Fadhlina. Dan dia juga adalah budak Fadhlina. Jadi oleh kerana kita membiarkan budaya itu yang banyak membodek, banyak melambung, siapa yang dekat dengan kita dan pandai melambung, yang itulah yang kita nampak. Akhirnya perkara itu bukan sahaja menular di dalam parti, dia menular di dalam kerajaanlah. Dan akhirnya dia jadi meme rakyat yang ditertawakan oleh rakyat seperti ini lah. Tapi saya bagi dia 5.5 bintang. 5.5? Very generous. Generous kali ini kan.
-
-[36:00] Fizizi Ramli: Okay, baik, baik, baik. Di luar yang lain-lain aku rasa. Okay, baik, clear. Kita terus ke segment seterusnya. Standing Order. Cuma mungkin kali ini paling dua hari je YB eh?
-
-[36:12] Rafizi Ramli: Paling dua hari je, hari Rabu dengan hari Khamis. Dan dia kecoh pasal tuduhan Memali lah. Tapi kita ada dua segment keras, tak keras sangat.
-
-[36:25] Fizizi Ramli: Baik. Jadi untuk Standing Order ni mungkin kita review soalan sikit lah YB eh. Soalan pertama dari Datuk Seri Dr. Wan Azizah Wan Ismail. Minta Menteri Pendidikan menyatakan langkah-langkah yang diambil dan bilakah permulaan prasekolah kepada 5 tahun dan sekolah rendah kepada 6 tahun akan dilaksanakan mengikut reformasi pendidikan RMK-13.
-
-[36:48] Rafizi Ramli: Mm, ya. Bagus Kak Wan tanya soalan ini kerana kebimbangan saya sebelum ini selepas RMK-13 dibentangkan, ada kenyataan-kenyataan daripada kerajaan seolah-olah perkara itu akan dipertimbangkan. Keputusan itu telah dibuat di dalam RMK. Ya, jadi sebab itu soalan ini saya ingat soalan yang patut kita kongsi dengan rakyat dan penonton bahawa isu dia bukanlah sama ada akan akan dibuat atau dipertimbangkan, isu dia seperti yang ditanya oleh Kak Wan ialah bila nak mula ni? Jadi saya pun dah baca jawapan, saya memang setiap hari saya masuk Parlimen, saya akan belek semua soalan-soalan daripada semua. Setiap hari soalan tu ada dalam 50 lebih lah yang yang akan ditanya oleh semua. Yang berjaya masuk untuk dijawab oleh Menteri secara lisan paling banyak dalam 11, 12 tiap-tiap hari. Yang lain tu soalan itu akan dijawab secara bertulis. Cara nak nak baca jawapan kepada soalan-soalan itu setiap hari tu, pergi kepada laman web Parlimen. Di bawah Dewan Rakyat tu dia akan ada selain daripada Hansard, dia juga ada jawapan. So boleh jawab. Jadi jawapan daripada Kementerian Pendidikan, dia dah ada dua task force lah. Okay. Dan kita akan pantau dan saya akan pantau juga. Kena orang selalu tanyalah kan, terutamanya kalau pembangkanglah. Dia kata, "Alah kau bising masa jadi Menteri Ekonomi dulu pun sendu." "Tak buat kerja." Okay. Sebagian daripada tugas saya sebagai Menteri Ekonomi dahulu ialah merancang dasar-dasar besar. Dan dasar-dasar besar ini, satu salah satunyalah reformasi pendidikan. Jadi kebimbangan ialah kalau perkara yang telah dirancang, difikirkan dan diputuskan itu, bila sampai kepada kementerian yang melaksana, dalam kes ini Kementerian Pendidikan, dia tidak dilaksanakan dengan secepat yang mungkin. Jadi saya harap bukan sahaja saya, bukan sahaja Kak Wan atau ahli-ahli Parlimen yang lain, rakyat dan terutamanya warga pendidik terus tumpu kepada isu ini kerana ini adalah anjakan yang paling besar. Saya ingat daripada berpuluh tahun yang lepas, kerana memang daripada awal kita mula pendidikan umur 7 tahun. Ini kali pertama dalam sejarah kita, kita nak anjak kepada 6 tahun. Dan kita nak pastikan bahawa pendidikan prasekolah ini diberikan secara percuma, secara universal. Selain daripada untuk pertumbuhan anak-anak, kemajuan pendidikan anak-anak, dia juga mengimbangi supaya beban sara hidup keluarga muda itu akan dapat dibantu oleh kerajaan. Karena sekarang ini, bayaran prasekolah adalah mahal. Masing-masing tak berkeluarga lagi, jadi tak tahu. Bayaran prasekolah sekarang ni RM500 seorang. Masa YB tadika? Tadika? Ha. Kalau tadika, sebab orang kata kenapa tak pergi ke tadika kerajaan? Kemas. Yang itu hanya untuk B40. B40 itu pun kalau ada B40, tempatnya adalah terhad, bukan semua boleh dapat. Jadi sebab itu kenapa PAS popular dengan PASTI. Ya. Kerana PASTI mengenakan cas yang antara yang paling murah. Kita tahulah kenapa, sebab dia tak bayar pekerja-pekerja dia kan. Guru-guru di situ. Jadi dan perkara ini juga kita saya sendiri saya harapkan rakan-rakan ahli Parlimen yang lain terus tumpu untuk beberapa tahun akan datang kerana dia bukan tanggungjawab Kementerian Pendidikan semata-mata. Dia juga contohnya tanggungjawab bersama Kementerian Ekonomi dan Kementerian Kewangan. Karena kalau dia juga tanggungjawab Kementerian Kerja Raya contohnya. Karena untuk kita memastikan peralihan kepada permulaan sekolah berumur 6 tahun ini boleh berlaku dan pendidikan prasekolah diberikan secara universal secara percuma, maka dalam tempoh 5 tahun yang akan datang, banyak blok-blok baru sekolah perlu dibina. Sekolah-sekolah yang ada kapasiti yang tidak dipenuhi yang itu perlu ditukar menjadi prasekolah contohnya kan. Jadi saya berbesar hatilah bila Kak Wan tanya soalan ini kan.
-
-[40:07] Fizizi Ramli: Hidup Keras yang pertama YB, dari Kota Bharu. YB Kota Bharu yang menyifatkan serbuan polis dan tangkapan berhubung Op GISBH menyerupai tragedy Memali di Kedah pada 1985. Haa YB ada tengok tak yang serbuan komando tu YB?
-
-[40:24] Rafizi Ramli: Saya tengoklah video pendek-pendek dekat TikTok kan.
-
-[40:28] Fizizi Ramli: Betul ke ada komando serbu?
-
-[40:30] Rafizi Ramli: Ada beberapa premis kan yang yang kalau tak silap saya masa mula-mula dulu tu yang di serbu oleh PDRM kan. Dan saya rasa ia sangat jauh bezanya dengan Memali. Serta pimpinan PAS yang paling tak patut bercakap pasal Memali ialah Takiyuddin.
-
-[41:03] Fizizi Ramli: Kenapa YB?
-
-[41:04] Rafizi Ramli: Kerana Takiyuddin pernah menjadi Menteri Undang-Undang semasa PAS menjadi kerajaan 33 bulan dulu. Dan selama 33 bulan semasa Takiyuddin menjadi Menteri Undang-Undang dan PAS berada dalam kerajaan, serta Tuan Guru Hadi Awang menjadi Duta Khas berpangkat Menteri kepada Timur Tengah, tidak pernah sekali pun isu Memali ini dibawa atau diusahakan penyelesaiannya ataupun dibuat inkues dan sebagainya oleh kerajaan yang disertainya. Dan salah seorang Menteri Undang-Undang itu ialah Takiyuddin Hassan sendiri yang merupakan ahli Parlimen Kota Bharu. Jadi bila dia tidak lagi menjadi kerajaan dan perkara ini berlaku dan dia cuba menghidupkan semula isu Memali, padahal dia sudah diberi peluang oleh Allah SWT berada di dalam pentadbiran undang-undang negara dan mempunyai kuasa untuk menyelesaikan isu Memali, tetapi sepatah haram pun tidak diusahakan, sepatah haram pun tidak disebut, dan tiba-tiba sekarang nak menggunakan Memali untuk mempolitikkan isu GISBH ini, sebab itu saya kata orang yang paling tak patut bercakap pasal Memali ialah Takiyuddin Hassan.
-
-[42:35] Fizizi Ramli: Baik YB. Dan yang seterusnya, Sabah menang kes tuntutan 40% hasil negeri. Keputusan Mahkamah Tinggi Kota Kinabalu menetapkan bahawa kerajaan persekutuan mempunyai kewajipan perlembagaan untuk mentaksir dan membayar tuntutan 40% hasil Sabah.
-
-[42:54] Rafizi Ramli: Mm. Cuma yang kesnya ini, yang yang isu besar yang diperhatikan oleh orang ramai sekarang ialah Peguam Negara ataupun Peguam Persekutuan akan merayu keputusan ini. Dan itu dijadikan modal politiklah terutamanya oleh pembangkang di Sabah, termasuklah sebahagian daripada pimpinan UMNO di Sabah dan juga Warisan bahawa kononnya kerajaan persekutuan ini tidak mahu akur kepada keputusan Mahkamah Tinggi dan Perlembagaan Persekutuan yang menetapkan 40% hasil negeri itu dipulangkan balik. Sebenarnya pandangan sayalah ya, kes ini adalah di antara kerajaan negeri Sabah dengan kerajaan persekutuan. Dan ia bersabit dengan taksiran pemberian khas 40% hasil yang dikutip dari Sabah itu. Dan perlembagaan memang menetapkan bahawa sekiranya ada pertikaian mengenai taksiran itu di antara kerajaan negeri dengan kerajaan persekutuan, maka pertikaian itu perlembagaan menetapkan mekanismenya ialah ia perlu diselesaikan di peringkat pentadbiran terlebih dahulu melalui perundingan di antara kerajaan negeri dengan kerajaan persekutuan. Dan sekiranya tidak ada penyelesaian, barulah dilantik seorang pentaksir khas bebas. Jadi proses ini tidak melalui mahkamah tinggi. Haa sebab itu Peguam Persekutuan mengambil pendirian untuk merayu keputusan Mahkamah Tinggi ini dari segi proses undang-undang. Kerana perlembagaan Persekutuan menetapkan proses perundingan dan juga pelantikan pentaksir bebas ini berada di luar mahkamah. Dan kalau keputusan ini dibiarkan, maka dia akan membelakangkan apa yang telah ditetapkan oleh Perlembagaan Persekutuan. Dan keduanya ialah dari segi taksiran itu sendiri. Kerana 40% hasil itu, taksirannya berbeza-beza mengikut pandangan masing-masing. Sebab itu perlembagaan kata kena ada perundingan. Sebab 40% hasil yang dijanakan dari Sabah, adakah ia bermaksud hasil cukai yang dikutip oleh Lembaga Hasil Dalam Negeri dan juga Jabatan Kastam Diraja Malaysia di Sabah sahaja? Ataupun adakah ia termasuk hasil-hasil yang dikutip daripada syarikat-syarikat yang beroperasi di Sabah tetapi cukainya dibayar di Kuala Lumpur? Dan adakah 40% itu juga mengambil kira perbelanjaan kerajaan persekutuan yang dibuat di Sabah? Contohnya, perbelanjaan operasi gaji guru, gaji polis, gaji tentera, gaji doktor. Perbelanjaan pembangunan membina jalan, membina sekolah, membina hospital. Kerana dalam mana-mana sistem perakaunan pun, bila sebut hasil 40% itu, adakah ia hasil kasar ataupun hasil bersih selepas ditolak perbelanjaan-perbelanjaan persekutuan di Sabah. Kerana kalau diambil kira perbelanjaan persekutuan di Sabah, perbelanjaan persekutuan di Sabah adalah jauh lebih besar daripada 40% hasil kasar yang dikutip di Sabah. Sebab itu perlembagaan Persekutuan menetapkan bahawa perkara ini perlu dirundingkan dan diselesaikan secara pentadbiran di antara kerajaan persekutuan dengan kerajaan negeri Sabah. Dan perundingan itu sedang berjalan sekarang. Jadi hujah peguam persekutuan untuk merayu keputusan Mahkamah Tinggi ini adalah berdasarkan proses undang-undang dan juga perlembagaan, bukannya kerana kerajaan persekutuan tidak mahu menunaikan tanggungjawab perlembagaan kepada Sabah.
-
-[47:25] Fizizi Ramli: Baik YB, penerangan yang sangat jelas pasal Sabah 40% hasil negeri ni. Yang seterusnya YB, Dinar Emas vs USD. YB perasan tak kelmarin ke bila presiden PAS beri respon bahawa usul menggunakan Dinar Emas bagi menggantikan Dolar AS dalam perdagangan antarabangsa sebenarnya telah diusulkan oleh PAS sejak zaman Almarhum Ustaz Fadzil Noor lagi.
-
-[47:51] Rafizi Ramli: Yelah, PAS ni semua benda dia yang usul dulu. Semua benda dia kata dia dah cakap dulu. Tapi bila dia jadi kerajaan 33 bulan, satu pun dia tak buat. Dinar Emas tak buat, hudud tak buat, RUU 355 tak buat, Memali tak buat. Tapi bila dia jadi pembangkang, semua benda dia kata dia yang usulkan dulu. Dan isu Dinar Emas ini, Tun Dr. Mahathir pun pernah sebut dulu masa zaman dia jadi PM ke-4 dulu. Cuma secara praktikalnya, dalam dunia hari ini, nak menggunakan emas sebagai mata wang perdagangan antarabangsa itu, secara praktikalnya ia sangat sukar untuk dilaksanakan. Kerana jumlah perdagangan dunia hari ini adalah jauh lebih besar daripada jumlah rizab emas yang ada di seluruh dunia. Dan kalau kita mengehadkan perdagangan antarabangsa hanya berdasarkan emas yang ada, maka perdagangan dunia akan menguncup dengan begitu drastik. Sebab itu dunia telah beralih daripada sistem Bretton Woods yang bersandarkan emas itu kepada sistem mata wang terapung sekarang sejak tahun 1970-an lagi. Tapi PAS ni yelah, dia akan sentiasa kata dia yang cakap dulu, tapi bila bagi peluang jadi kerajaan, sepatah haram pun dia tak buat.
-
-[49:25] Fizizi Ramli: Baik YB. Dan yang seterusnya, PMX / Residensi Wilayah / Syarat pembina rumah. PMX telah mengarahkan supaya semua projek perumahan baharu di bawah Residensi Wilayah di Kuala Lumpur diwajibkan menyediakan kemudahan tadika dan sekolah rendah jika tidak mempunyai kemudahan berkenaan di kawasan berhampiran.
-
-[49:47] Rafizi Ramli: Ya, ini satu arahan yang sangat baik dan sangat praktikal daripada Perdana Menteri. Kerana masalah utama di kawasan perumahan padat seperti di Kuala Lumpur dan kawasan bandar yang lain ialah pemaju membina kondominium ataupun pangsapuri yang padat dengan ribuan unit rumah, tetapi tidak menyediakan kemudahan asas seperti tadika dan sekolah. Akhirnya bila penduduk masuk duduk di situ, anak-anak mereka tidak ada tempat untuk pergi ke sekolah atau tadika yang berdekatan. Kena pergi ke sekolah yang jauh, menyebabkan kesesakan lalu lintas dan beban sara hidup kepada ibu bapa. Jadi dengan syarat baharu ini yang diwajibkan kepada pemaju, pemaju tidak boleh hanya fikir keuntungan membina unit rumah sahaja, tetapi perlu bertanggungjawab menyediakan ekosistem perumahan yang lengkap termasuklah kemudahan pendidikan awal untuk anak-anak penduduk di situ.
-
-[50:52] Fizizi Ramli: Baik YB. Dan yang terakhir untuk Hidup Keras, Takiyuddin dan isu Memali. Takiyuddin sekali lagi membangkitkan isu Memali dan menuduh kerajaan cuba menutup atau mengalih perhatian daripada isu-isu semasa dengan membangkitkan semula isu Memali.
-
-[51:10] Rafizi Ramli: Macam yang saya sebut tadilah, Takiyuddin ni orang yang paling tak patut bercakap pasal Memali. Sebab dia dah jadi Menteri Undang-Undang 33 bulan. Masa dia ada kuasa, dia ada pejabat, dia ada pegawai, dia ada fail, dia tak buat apa-apa pun pasal Memali. Bila dah jadi pembangkang, baru nak terjerit-jerit pasal Memali. Ini namanya politik hipokrit dan opportunis daripada pimpinan PAS.
-
-[51:38] Fizizi Ramli: Baik YB. Kita ke rating untuk Hidup Keras malam ni YB.
-
-[51:43] Rafizi Ramli: Rating malam ni untuk Hidup Keras, saya bagi 5 bintang untuk arahan PMX pasal tadika dan sekolah di Residensi Wilayah tu, sebab itu memang menyentuh masalah sebenar rakyat di kawasan bandar. Dan untuk Takiyuddin pasal Memali tu, saya bagi 0.5 bintanglah sebab hipokrit sangat.
-
-[52:08] Fizizi Ramli: Okay, clear YB. Kita teruskan ke segment seterusnya, Berita Dunia. Berita Dunia yang pertama YB, PR Singapore dan penglibatan PAS. Kerajaan Singapura telah mengeluarkan amaran keras kepada warganegara dan penduduk tetap (PR) Singapura supaya tidak terlibat dalam politik negara luar, susulan laporan ada PR Singapura yang terlibat dalam kempen pilihan raya PAS di Malaysia.
-
-[52:36] Rafizi Ramli: Ya, ini memang undang-undang asas mana-mana negaralah. Mana-mana negara pun tidak akan membenarkan warganegara atau PR mereka campur tangan dalam politik negara luar. Dan Singapura memang sangat ketat dalam bab ini. Cuma yang peliknya ialah kenapa PAS perlu melibatkan warganegara atau PR Singapura dalam kempen politik mereka? Adakah PAS dah ketagih sangat nak minta bantuan luar ataupun nak bawa pengaruh luar masuk dalam politik Malaysia? Ini menunjukkan bahawa PAS ni kadang-kadang dia tak peduli undang-undang negara lain, janji dia dapat keuntungan politik pendek.
-
-[53:20] Fizizi Ramli: Baik YB. Seterusnya, kecurian barang kemas di Muzium Louvre, Paris. Kecurian seperti dalam filem Ocean's Eleven berlaku di Muzium Louvre di mana barangan kemas bernilai jutaan euro telah dicuri oleh kumpulan penjenayah yang menyamar sebagai pekerja muzium.
-
-[53:38] Rafizi Ramli: Yelah, kecurian kat Muzium Louvre ni memang selalu jadi jalan cerita filem Hollywood kan. Cuma bila dia berlaku dalam realiti, dia menunjukkan bahawa walaupun muzium terkenal seperti Louvre yang ada sistem keselamatan canggih, kalau ada kecuaian ataupun kelonggaran dari segi kawalan dalaman, penjenayah tetap akan cari jalan. Dan ini memberi pengajaranlah kepada semua institusi yang menyimpan barangan berharga bahawa kawalan keselamatan dalaman itu sama penting dengan sistem keselamatan fizikal dan canggih.
-
-[54:19] Fizizi Ramli: Baik YB. Dan yang terakhir untuk Berita Dunia, Perdana Menteri Baharu Jepun. Shigeru Ishiba telah dipilih sebagai Perdana Menteri Jepun yang baharu menggantikan Fumio Kishida selepas menewaskan Sanae Takaichi dalam pemilihan presiden Parti Demokratik Liberal (LDP).
-
-[54:38] Rafizi Ramli: Jepun ni dia memang terkenal dengan pertukaran Perdana Menteri yang keraplah kan. Cuma cabaran utama Perdana Menteri Jepun yang baharu ini ialah dari segi ekonomi, terutamanya isu kos sara hidup, yen yang semakin lemah, dan juga isu demografi iaitu populasi Jepun yang semakin tua dan menguncup. Dan dari segi politik antarabangsa pula, Jepun berada di tengah-tengah ketegangan di antara AS dengan China. Jadi Perdana Menteri baharu ini perlu mengemudi Jepun dalam keadaan ekonomi dan geopolitik yang sangat mencabar.
-
-[55:20] Fizizi Ramli: Baik YB. Kita ke segment Fuyoh YB. Fuyoh yang pertama, Rainbow Chip. Peneliti di Amerika Syarikat telah berjaya membangunkan 'Rainbow Chip' iaitu cip fotonik berasaskan cahaya yang mampu memproses data beribu kali lebih pantas daripada cip silikon biasa.
-
-[55:40] Rafizi Ramli: Ini satu penemuan yang sangat besar dalam dunia teknologi dan semikonduktor. Kerana selama ini teknologi cip kita berasaskan pergerakan elektron dalam silikon. Tapi teknologi fotonik ini menggunakan cahaya, iaitu foton. Dan cahaya bergerak jauh lebih pantas dan menghasilkan haba yang jauh lebih kurang berbanding elektron. Jadi kalau cip fotonik ini dapat dikomersialkan secara meluas, ia akan mengubah lanskap teknologi pemprosesan data, kecerdasan buatan (AI), dan supercomputing di seluruh dunia.
-
-[56:22] Fizizi Ramli: Fuyoh memang Fuyoh YB. Seterusnya, sel kulit diubah menjadi sel telur (ovum). Saintis di Jepun telah berjaya mengubah sel kulit manusia menjadi sel telur yang mampu disenyawakan, memberikan harapan baharu kepada pasangan yang menghadapi masalah kesuburan.
-
-[56:41] Rafizi Ramli: Dari segi sains dan teknologi perubatan, ini adalah satu 'breakthrough' ataupun kejayaan yang sangat luar biasa. Kerana selama ini masalah kesuburan terutamanya yang melibatkan kualiti atau ketiadaan sel telur adalah antara masalah yang paling sukar diselesaikan dalam perubatan reproduktif. Dengan teknologi sel stem dan pemrograman semula sel ini, sel kulit biasa boleh diubah menjadi sel telur. Cuma sudah tentulah dari segi etika, perundangan, dan agama, teknologi seperti ini akan menimbulkan banyak perbincangan dan debat yang mendalam sebelum ia boleh digunakan secara meluas.
-
-[57:30] Fizizi Ramli: Baik YB, sangat menarik. Kita dah sampai ke segment terakhir YB, Q&A / Soalan Penonton. Soalan pertama dari Muhammad Aslan. "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini? Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
-
-[57:48] Rafizi Ramli: Saya tak tahu, saya tak follow sangatlah Liverpool sekarang ni. Saya pakai baju ni pun sebab isteri dengan anak saya beli untuk birthday saya hari tu. Kebetulan hari ni saya pakai, malam ni Liverpool kalah pulak. Tapi saya bukan follow sangat Premier League sekarang ni sebab tak ada masa nak tonton.
-
-[58:10] Fizizi Ramli: Baik YB. Soalan kedua dari Ajeeb. "Bisnes online terkesan dengan produk tiruan atau buang harga dari peniaga luar seperti China di TikTok, Shopee, Lazada kerana tiada kawalan atau akta khusus. Peniaga tempatan semakin lama semakin mati. Apa yang patut kerajaan buat?"
-
-[58:28] Rafizi Ramli: Ini soalan yang sangat baik dan sangat relevan dengan keadaan peniaga tempatan sekarang. Kerana lambakan produk murah dan tiruan dari luar terutamanya dari China melalui platform e-dagang memang menjejaskan peniaga kecil dan PKS tempatan. Kerajaan melalui KPDN dan MITI sebenarnya sedang melihat kepada beberapa langkah, termasuklah mengetatkan peraturan pemeriksaan barang masuk di pintu sempadan, mengenakan cukai bernilai rendah (LVTT) untuk barang import di bawah RM500, dan juga menguatkuasakan undang-undang harta intelek dengan lebih ketat ke atas platform e-dagang. Tapi pada masa yang sama, peniaga tempatan juga perlu beralih daripada sekadar menjadi ejen penjual barang yang boleh didapati dari China, kepada membangunkan jenama dan produk tempatan sendiri yang ada nilai tambah.
-
-[59:30] Fizizi Ramli: Baik YB. Soalan seterusnya dari Shafi. "Saya ada e-mel YB pasal perkara ni. Bagaimana laporan salah laku atau manipulasi dalam kalangan penjawat awam boleh dibuat dengan berkesan? Bukti apa yang diperlukan dan kepada siapa aduan patut disalurkan jika kepercayaan terhadap organisasi sendiri diragui?"
-
-[59:50] Rafizi Ramli: Kalau kes salah laku itu melibatkan rasuah, penyelewengan kewangan, atau penyalahgunaan kuasa yang serious, saluran terbaik dan paling selamat ialah terus kepada SPRM di bawah Akta Perlindungan Pemberi Maklumat 2010 (Whistleblower Protection Act). Tetapi untuk mendapat perlindungan di bawah akta ini, maklumat itu mesti diberikan terus kepada agensi penguatkuasa seperti SPRM atau Polis, bukannya disebarkan di media sosial atau surat layang dulu. Bukti yang diperlukan mestilah bukti yang kukuh seperti dokumen, emel, rakaman, atau transaksi kewangan, bukannya sekadar dengar cakap atau khabar angin.
-
-[1:00:40] Fizizi Ramli: Baik YB. Soalan terakhir dari Alif Salimi. "Bagaimana parlimen atau siapa-siapa nak pastikan reformasi pendidikan remain berterusan regardless of pertukaran government? Adakah kerana kualiti reform itu yang sentiasa tak berkualiti sehinggakan selalu sahaja menteri nak tukar approach to education?"
-
-[1:01:00] Rafizi Ramli: Ini masalah utama dalam sistem pentadbiran dan politik Malaysia sejak sekian lama, iaitu 'tukar menteri, tukar dasar'. Cara terbaik untuk memastikan dasar pendidikan itu tidak berubah-ubah mengikut pertukaran menteri atau kerajaan ialah dengan mengkanunkannya di dalam undang-undang atau pelan induk negara seperti RMK-13 atau Akta Pendidikan. Bila sesuatu dasar itu dimasukkan dalam undang-undang atau pelan induk negara yang diluluskan di Parlimen, mana-mana menteri baharu yang masuk tidak boleh sesuka hati menukar dasar tersebut tanpa membawa semula pindaan undang-undang ke Parlimen. Dan keduanya, kita perlu mengukuhkan Majlis Pendidikan Negara sebagai sebuah badan bebas yang dianggotai oleh pakar-pakar pendidikan untuk mengawal selia dan memantau pelaksanaan reformasi pendidikan negara secara berkala.
-
-[1:02:05] Fizizi Ramli: Baik YB, penerangan yang sangat padat dan jelas. Kita dah sampai ke penghujung episod ke-19 malam ni YB. Terima kasih banyak YB Rafizi Ramli atas masa dan perkongsian malam ni.
-
-[1:02:18] Rafizi Ramli: Terima kasih semua.
-
-[1:02:20] Fizizi Ramli: Terima kasih kepada semua yang menonton dan mendengar. Jangan lupa untuk like, share, comment dan subscribe channel Fizizi Ramli di YouTube dan platform podcast yang lain. Kita jumpa lagi dalam episod ke-20 minggu depan. Assalamualaikum dan selamat malam!
-
-[music]

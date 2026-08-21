@@ -10,22 +10,18 @@ view_count: 36739
 hosts:
 - Rafizi Ramli
 guests:
-- Fizizi Ramli
+- Speaker 1
 topics:
-- Cadangan Pelaksanaan Prasekolah Umur 5 Tahun Dalam RMK-13
-- Pangkalan Data PADU dan Penyasaran Subsidi RON95
-- Isu Operasi GISBH berbanding Peristiwa Memali
-- Tuntutan 40 Peratus Hasil Negeri Sabah
-- Pengenalan Sukan Pickleball di Sekolah
-- Penggunaan Dinar Emas dalam Perdagangan
-- Cabaran Peniaga E-Dagang Tempatan Terhadap Barangan Import
-- Saluran dan Akta Perlindungan Pemberi Maklumat
-summary: Dalam episod ke-19 podcast Yang Berhenti Menteri, Rafizi Ramli bersama moderator
-  Fizizi Ramli membincangkan pelbagai isu semasa, dasar kerajaan, dan soalan penonton.
-  Perbincangan merangkumi pelaksanaan umur persekolahan prasekolah di bawah RMK-13,
-  peranan pangkalan data PADU, isu GISBH berbanding peristiwa Memali, pertikaian tuntutan
-  40 peratus hasil Sabah, pengenalan sukan Pickleball di sekolah, serta langkah menangani
-  persaingan e-dagang luar negara.
+- Minister's work fatigue controversy
+- Najib Razak's 1MDB legal defense
+- Influencer culture and restaurant reviews
+- Parental responsibility for children's behavior
+- Deepavali decorations damage incident
+summary: In the 19th episode of his podcast, Rafizi Ramli and his co-host discuss
+  various trending social and political issues. Topics include a controversial social
+  media post by a political figure about a minister's work fatigue, Najib Razak's
+  legal arguments regarding 1MDB, an influencer's request for free food at a mamak
+  restaurant, and parents' responsibility regarding children damaging Deepavali decorations.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -34,100 +30,88 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Fizizi Ramli:** Selamat datang dan assalamualaikum kepada semua yang menonton podcast *Yang Berhenti Menteri* episod ke-19. Sebelum kita mula dengan segmen biasa, ada penonton yang bertanya dalam ruangan komen, kenapa YB suka memakai baju batik setiap hari Jumaat?
+**Rafizi Ramli:** Selamat datang dan assalamualaikum kepada semua yang menonton podcast *Yang Bakar Menteri* episod ke-19. Sebelum kita mula dengan segmen yang biasa, ada orang tanya dalam komen lah saya tengok.
 
-**Rafizi Ramli:** Masa saya dalam kerajaan dulu, saya dapat banyak baju batik. Kalau tak pakai, rugi pula. Sebab kalau tidak, saya cuma akan pakai t-shirt sepanjang masa.
+**Speaker 1:** Ah, dia suruh tukar engkau.
 
-**Fizizi Ramli:** Baiklah, itu jawapannya. Ada juga yang suruh tukar moderator, tapi itu YB yang tentukan. Kita teruskan ke segmen pertama iaitu *Beria-iya*, di mana kita ketengahkan isu-isu semasa. Isu pertama: kenyataan Ketua Srikandi berkenaan pengorbanan Menteri Pendidikan, YB Fadhlina Sidek, yang dikatakan terlalu letih hingga tertidur di dalam tandas. Apa pandangan YB?
+**Rafizi Ramli:** Itu satu lah. Tapi yang satu lagi, ada tanya kenapa YB Raf suka pakai baju batik setiap hari Jumaat ni?
 
-**Rafizi Ramli:** Pernah tertidur di dalam tandas akibat terlalu letih? Ini sebenarnya sudah boleh dilaporkan kepada Jabatan Tenaga Kerja kerana dikira sebagai penganiayaan pekerja. Kalau pekerja terlalu penat sampai tertidur dalam tandas, memang wajar dilaporkan. Tapi sejujurnya, saya sendiri pernah tidur dalam tandas masa awal-awal bekerja di UK dulu. Bezanya, saya bukan tidur sebab penat, tetapi sebab nak ponteng dan "mengular" sebab bosan di pejabat! Masa itu musim sejuk, jadi tandas sahaja tempat yang ada pemanas dan boleh lari dari orang. Jadi dari sudut netizen, kalau seseorang itu terlalu penat dan stres sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundurkan diri.
+**Speaker 1:** Sebab masa saya dalam kerajaan, em banyak baju batik. So, kalau tak pakai baju batik tu rugi lah.
 
-**Fizizi Ramli:** Pedas jawapan itu. Seterusnya, isu "Pulang apa Bossku?". Pihak pembelaan Datuk Seri Najib Razak dalam kes 1MDB berhujah bahawa beliau merupakan satu-satunya individu yang memulangkan semula wang suapan ke akaun asal selepas mendapat kelulusan Bank Negara.
+**Rafizi Ramli:** Kan? Jadi, ah, kalau tidak saya pakai t-shirt sepanjang masa. Okay YB, itu jawapan dia. Ah, kita teruskan ke segmen biasa lah YB. Kita ke segmen... yang tukar tadi?
 
-**Rafizi Ramli:** Itu hujah sinikal dan sindiran dalam pembelaan beliau. Namun, bahaya jika kita membiasakan amalan ambil duit, pulangkan balik, bayar kompaun, kemudian terlepas. Di mahkamah rakyat, majoriti rakyat sebenarnya telah membuat keputusan dan menghakimi isu 1MDB ini dalam dua Pilihan Raya Umum (2018 dan 2022). Hujah bahawa wang tersebut telah dikembalikan bukannya hujah baharu; ia telah ditolak oleh rakyat sejak 2016 lagi. Amat "beria-ia" untuk terus mengulang hujah yang sama di mahkamah.
+**Speaker 1:** Yang tukar?
 
-**Fizizi Ramli:** Seterusnya, ada pempengaruh (*influencer*) TikTok dengan 40,000 pengikut yang meminta makanan percuma di kedai Mamak. YB sendiri ada puluhan ribu pengikut, pernah dapat makan percuma?
+**Rafizi Ramli:** Tukar moderator.
 
-**Rafizi Ramli:** Saya selalu juga dapat makan percuma di kedai Mamak, tapi bukan sebab saya pempengaruh. Selalunya saya makan seorang diri, dan bila nak bayar, rupanya ada orang lain yang dah tolong bayarkan. Untuk kes pempengaruh ini, kedai Mamak yang dah maju biasanya mempunyai pelanggan tetap sendiri dan tidak bergantung kepada pempengaruh. Secara peribadi, kalau saya buat bisnes, saya berhati-hati untuk bergantung kepada ulasan makanan pempengaruh. Kerana orang yang datang mungkin sekadar nak mencuba sekali dan bukannya menjadi pelanggan tetap. Apapun, kalau dia tak dapat makan percuma di kedai Mamak, suruh dia datang ulas podcast kita, nanti saya belanja!
+**Speaker 1:** YB tentukan lah, saya takut.
 
-**Fizizi Ramli:** Seterusnya, tular video beberapa kanak-kanak merosakkan hiasan kolam Deepavali tanpa ditegur oleh ibu bapa mereka. Pandangan YB?
+**Rafizi Ramli:** Okey.
 
-**Rafizi Ramli:** Ini 100% kesalahan ibu bapa. Kanak-kanak mungkin tidak faham kepentingan atau maksud hiasan kolam Deepavali tersebut. Sebagai ibu bapa, adalah berbahaya jika membiarkan anak-anak berkeliaran tanpa pengawasan dan membuat hal sendiri. Ibu bapa sepatutnya menegur dan mendidik anak-anak.
+**Speaker 1:** Okey, segmen yang pertama YB, *Beria Mat*, macam biasalah orang yang poyo, tapi bukanlah poyo pun. Mungkin kita nak ketengahkan juga apa isu-isu semasa, selain politik juga sikit. Kita tengok yang pertama. *Beria*.
 
-**Fizizi Ramli:** Berkenaan cadangan Kerajaan Negeri Selangor untuk memperkenalkan sukan Pickleball di sekolah-sekolah, apa pandangan YB?
+**Rafizi Ramli:** Ah, okay ni politik lah.
 
-**Rafizi Ramli:** Saya pernah cuba main Pickleball sekali dengan YB Akmal. Pickleball ini sukan yang bagus, tetapi biarlah ia berkembang secara organik. Peralatan seperti raket Pickleball bukannya murah, boleh mencecah beratus ringgit. Apabila kerajaan negeri beria-ia mahu memperkenalkannya di sekolah, kita kena ingat bahawa sumber kewangan kerajaan adalah terhad. Adakah lebih baik sumber itu disalurkan kepada sukan yang sudah bertapak kukuh seperti bola sepak, hoki, ragbi, bola keranjang, atau bola tampar? Jika ia dijadikan program sekolah, kos raket itu boleh menjadi beban kewangan kepada ibu bapa. Kita kerap terikut-ikut dengan trend baharu (*hype*) tanpa menyelesaikan atau memperkukuh sukan sedia ada.
+**Speaker 1:** Ketua Srikandi ceritakan pengorbanan Menteri Pendidikan. YB perasan tak? Menteri Pendidikan. Ah, typo ni.
 
-**Fizizi Ramli:** Berapa penilaian atau rating YB untuk segmen *Beria-iya* kali ini?
+**Rafizi Ramli:** Hmm. Dia yalah, *do wish birthday* YB. Tapi dia cerita lah penat dan...
 
-**Rafizi Ramli:** Untuk isu pegawai menteri yang buat hantaran mengenai menteri tertidur dalam tandas, saya bagi 5.5 bintang. Pegawai sepatutnya memudahkan tugas menteri dan menjaga imej, bukannya membuat hantaran membodek atau melambung-lambung menteri yang akhirnya menjadi bahan jenaka rakyat. Budaya membodek ini kalau dibiarkan, ia merosakkan parti dan kerajaan.
+**Speaker 1:** Hmm, nampak pernah tertidur di tandas.
 
-**Fizizi Ramli:** Baik, kita beralih ke segmen *Standing Order* untuk meneliti soalan-soalan dalam Parlimen. Soalan pertama daripada Datuk Seri Dr. Wan Azizah Wan Ismail (Bandar Tun Razak) meminta Menteri Pendidikan menyatakan langkah dan pelaksanaan prasekolah bagi kanak-kanak 5 tahun dan sekolah rendah bagi umur 6 tahun di bawah RMK-13.
+**Rafizi Ramli:** Saya tak baca *posting* ni lah. Tapi yalah dia dah kena *delete*.
 
-**Rafizi Ramli:** Ini soalan yang sangat bagus daripada Kak Wan. Keputusan meletakkan umur persekolahan bermula 6 tahun dan prasekolah seawal 5 tahun secara percuma dan universal telah pun dibuat di dalam RMK-13. Isunya sekarang bukannya sama ada mahu pertimbangkan atau tidak, tetapi bilakah ia akan mula dilaksanakan. Sebagai mantan Menteri Ekonomi yang merancang dasar ini, kebimbangan saya ialah kelewatan pelaksanaan di peringkat kementerian pelaksana. Ini anjakan terbesar dalam sistem pendidikan negara setelah berpuluh tahun. Yuran prasekolah swasta hari ini mencecah RM500 sebulan, yang menjadi beban besar buat keluarga muda. Pelaksanaan ini memerlukan pembinaan blok sekolah baharu dan penukaran ruang sekolah sedia ada oleh Kementerian Kerja Raya, Kementerian Ekonomi, dan Kementerian Kewangan. Saya berharap semua pihak terus memantau perkara ini.
+**Speaker 1:** Ah, dia dah jadi *meme* dekat *the netizen* lah kan, hmm.
 
-**Fizizi Ramli:** Soalan seterusnya daripada pembangkang, Ahli Parlimen Hulu Terengganu, yang meminta Menteri Ekonomi menyatakan perkembangan terkini pangkalan data PADU dan fungsinya dalam agihan subsidi bersasar RON95.
+**Rafizi Ramli:** Hmm.
 
-**Rafizi Ramli:** Ini percubaan pembangkang untuk terus menyerang PADU. Hakikatnya, PADU bukan dibina untuk penyasaran subsidi RON95 semata-mata, sebaliknya ia mempunyai pelbagai guna (*use cases*). Setakat ini, sebanyak 17 kementerian dan agensi kerajaan—termasuk JKR, Kementerian Belia dan Sukan, PTPTN, dan Kementerian Pendidikan Tinggi—telah menggunakan pangkalan data PADU untuk program masing-masing. Bagi penyasaran RON95, PADU merupakan salah satu pangkalan data rujukan utama Kementerian Kewangan. Mereka yang mempolitikkan PADU selalunya kurang memahami pengurusan data inter-agensi dalam kerajaan. PADU menyatukan data berpuluh juta rakyat supaya program kerajaan lebih berintegrasi dan bersasar.
+**Speaker 1:** Selain program kementerian... "Selamat meranum usia". Ni maksudnya apa? *Happy birthday*.
 
-**Fizizi Ramli:** Kita beralih ke segmen *Hidup Keras*. Isu pertama, kenyataan Ahli Parlimen Kota Bharu (Takiyuddin Hassan) yang menyifatkan serbuan polis berhubung Op GISBH menyerupai tragedi Memali 1985.
+**Speaker 1:** Err meranum. Meranum. *First time* saya dengar eh.
 
-**Rafizi Ramli:** Operasi PDRM terhadap premis GISBH sangat jauh bezanya dengan peristiwa Memali. Takiyuddin merupakan orang yang paling tidak patut bercakap mengenai Memali. Beliau pernah menjadi Menteri Undang-Undang selama 33 bulan sewaktu PAS berada dalam kerajaan, dan Tan Sri Hadi Awang menjadi Duta Khas Berpangkat Menteri. Sepanjang tempoh 33 bulan itu, sepatah haram pun mereka tidak pernah membawa isu Memali, mengadakan inkues, atau mencari penyelesaian. Apabila sudah menjadi pembangkang semula, baru sibuk nak membangkitkan isu Memali untuk mempolitikkan isu GISBH.
+**Speaker 1:** Em dekat mana yang dia kata tidur dalam tandas tu?
 
-**Fizizi Ramli:** Mengenai keputusan Mahkamah Tinggi Kota Kinabalu yang menetapkan bahawa Kerajaan Persekutuan mempunyai kewajipan perlembagaan untuk mentaksir dan membayar tuntutan 40% hasil negeri Sabah, Peguam Negara akan merayu keputusan ini. Apa pandangan YB?
+**Speaker 1:** "Pernah tertidur dalam tandas akibat terlalu letih tapi tetap tak pernah mengeluh."
 
-**Rafizi Ramli:** Pertikaian ini adalah antara Kerajaan Negeri Sabah dan Kerajaan Persekutuan. Perlembagaan Persekutuan menetapkan bahawa sebarang pertikaian berkenaan taksiran pemberian khas 40% perlu diselesaikan terlebih dahulu melalui rundingan pentadbiran antara kedua-dua pihak, dan jika gagal, melalui pelantikan pentaksir bebas—bukannya menerusi Mahkamah Tinggi. Rayuan dibuat oleh Peguam Persekutuan bagi mempertahankan proses perlembagaan tersebut. Selain itu, taksiran 40% itu menimbulkan persoalan perakaunan: adakah ia bermaksud hasil kasar atau hasil bersih selepas ditolak perbelanjaan persekutuan di Sabah (seperti gaji guru, polis, tentera, doktor, serta perbelanjaan pembangunan jalan dan hospital)? Jika perbelanjaan persekutuan diambil kira, nilainya jauh lebih besar daripada 40% hasil kasar yang dikutip. Oleh sebab itu, rundingan pentadbiran yang sedang berjalan adalah saluran yang betul.
+**Speaker 1:** Oh, pernah tertidur di dalam tandas akibat terlalu letih. Hmm, susah eh? Ini dah boleh lapor kepada Jabatan Tenaga Kerja. Sebab ini sudah menjadi satu penganiayaan, kan? Kalau seseorang pekerja itu dia kerja terlalu penat sampai tertidur di dalam tandas.
 
-**Fizizi Ramli:** Mengenai usul penggunaan Dinar Emas bagi menggantikan Dolar AS dalam perdagangan antarabangsa yang didakwa oleh Presiden PAS telah diusulkan sejak zaman Almarhum Ustaz Fadzil Noor lagi.
+**Speaker 1:** Tak sangka itu respons. Perlu dilaporkan kepada Jabatan Tenaga Kerjalah. Cuma, em, saya dulu pernah tidur dalam tandas.
 
-**Rafizi Ramli:** PAS memang sentiasa mendakwa mereka yang pertama mengusulkan semua perkara. Tetapi sepanjang 33 bulan menjadi kerajaan, satu apa pun tidak dibuat—Dinar Emas tidak dibuat, RUU 355 tidak dibuat, hudud tidak dibuat. Secara praktikalnya, penggunaan emas dalam perdagangan dunia hari ini amat sukar kerana jumlah perdagangan global jauh melebihi rizab emas dunia. Jika digantungkan pada emas semata-mata, perdagangan dunia akan menguncup teruk. Itulah sebabnya dunia beralih daripada sistem Bretton Woods sejak 1970-an.
+**Speaker 1:** Okay.
 
-**Fizizi Ramli:** Seterusnya, arahan Perdana Menteri (PMX) supaya semua projek perumahan baharu di bawah Residensi Wilayah di Kuala Lumpur diwajibkan menyediakan kemudahan tadika dan sekolah rendah jika tiada kemudahan berdekatan.
+**Speaker 1:** Masa mula-mula kerja dulu dekat UK. Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng. Mula, sebab bosan dekat pejabat.
 
-**Rafizi Ramli:** Ini arahan yang sangat baik dan praktikal. Di kawasan padat seperti Kuala Lumpur, pemaju sering membina ribuan unit kediaman tanpa menyediakan kemudahan asas pendidikan awal. Ini menimbulkan kesesakan jalan raya dan beban kewangan kepada ibu bapa yang kena hantar anak ke sekolah yang jauh. Pemaju tidak boleh hanya mengejar keuntungan, tetapi mesti bertanggungjawab menyediakan ekosistem perumahan yang lengkap.
+**Speaker 1:** Oh YB pernah buat macam tu eh?
 
-**Fizizi Ramli:** Berapa rating YB untuk segmen *Hidup Keras*?
+**Speaker 1:** Yalah. Apa lah eh, malu kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya ijazah kejuruteraan dan dekat *accounting firm* atau *audit firm* dekat UK. Dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak. Jadi saya tak faham banyak benda pasal *accounting* kan. Jadi macam bosan, kadang-kadang *stuck*. Ah jadi em dia bukan macam dekat Malaysia yang em boleh keluar sebab em dia sejuk kan, *winter*. Jadi satu-satunya tempat yang boleh lari daripada orang dan em dia masih lagi ada *heater* lah, pemanas, kan tandas lah. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu, bukan sebab letih lah. Tapi sebab ponteng dan mengular lah.
 
-**Rafizi Ramli:** Untuk arahan PMX berkenaan tadika/sekolah di Residensi Wilayah, saya beri 5 bintang kerana ia menyentuh masalah hakiki rakyat. Untuk kenyataan Takiyuddin berkenaan Memali, saya beri 0.5 bintang sahaja kerana terlalu hipokrit.
+**Speaker 1:** Jadi kan? Yang ini tak tahulah macam mana. Mungkin dia betul-betul penat lah. Tapi kalau penat tu, bahaya *posting* ni sebab *netizen* akan kata, hmm, kalau terlalu penat, stres, sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
 
-**Fizizi Ramli:** Seterusnya segmen *Berita Dunia*. Pertama, Kerajaan Singapura mengeluarkan amaran keras kepada warganegara dan Penduduk Tetap (PR) Singapura supaya tidak terlibat dalam politik negara luar, susulan laporan ada PR Singapura yang terlibat dalam kempen pilihan raya PAS.
+**Speaker 1:** Okay YB, baik. Pedas. Ah kita tengok yang seterusnya kita ada apa? *Pulang apa bosku?* Ah, ini YB, *Card* dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
 
-**Rafizi Ramli:** Mana-mana negara tidak akan membenarkan warganegara atau PR mereka campur tangan dalam politik luar. Singapura sangat ketat dalam hal ini. Kenapa PAS perlu melibatkan warga atau PR Singapura dalam kempen mereka? Ini menunjukkan PAS kadang-kadang tidak peduli undang-undang negara luar demi kepentingan politik jangka pendek.
+**Rafizi Ramli:** Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma em bahaya ni. Kita tak boleh membiasakan kalau ambil duit, pulang, lepas. Sebab berlaku beberapa kali ni kan, ah. Ambil duit, ah pulang, bayar *compound*, lepas, kan. Saya jadi tak tahu nak cakap apa. Bila dia kata dia pulangkan semula selepas dapat kelulusan Bank Negara. Em, yalah saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDB lah. Sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya. Pilihan raya 2018 dan juga pilihan raya 2022. Jadi berdasarkan yang itu, pandangan saya, majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini. Sebab ah dalam tahun-tahun sebelum itu pun, sebelum Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Ah, jadi di Mahkamah Rakyat memang perkara ini tidak diterima. Em di mahkamah undang-undang tu nanti kita kena tengok macam manalah. Ah, tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama. *Correct*. Kalau hujah ini telah ditolak, sekarang ni dah hampir 7 tahun hujah, *well* hampir 10 tahun sebenarnya hujah ni ditolak daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara. Em, beria lah dia menggunakan hujah yang sama bila masuk dalam mahkamah.
 
-**Fizizi Ramli:** Isu kecurian barang kemas bernilai jutaan euro di Muzium Louvre, Paris, oleh kumpulan yang menyamar sebagai pekerja muzium.
+**Speaker 1:** Baik, baik YB. *Beria*. Untuk bosku, kita tengok yang lain. *Influencer* 40,000 nak makan mamak *free*. Ah. Jangan main-main. Dia *followers* 40,000 dekat TikTok. YB berapa?
 
-**Rafizi Ramli:** Walaupun muzium terkenal seperti Louvre mempunyai sistem keselamatan canggih, kecuaian atau kelonggaran kawalan dalaman tetap boleh dieksploitasi penjenayah. Kawalan keselamatan dalaman adalah sama pentingnya dengan sistem keselamatan fizikal.
+**Rafizi Ramli:** Saya dah dekat 300,000.
 
-**Fizizi Ramli:** Pelantikan Shigeru Ishiba sebagai Perdana Menteri Baharu Jepun menggantikan Fumio Kishida.
+**Speaker 1:** Oh. Boleh berapa kali *free* ni?
 
-**Rafizi Ramli:** Jepun sememangnya kerap bertukar Perdana Menteri. Cabaran utama PM baharu ini ialah menangani kos sara hidup, mata wang yen yang lemah, masalah penuaan populasi, serta mengemudi geopolitik di antara AS dan China.
+**Rafizi Ramli:** Saya patut dapat makan *free* lah. Ah, saya selalu dapat makan *free* sebenarnya. Tapi bukan sebab *influencer* lah. Hmm. Saya kalau selalunya, kalau di kedai mamak, saya makan, saya selalunya makan seorang. Ah. Hmm, makan seorang, duk seorang. Ah bila nak pergi bayar tu, ada ada orang bayar. Tapi tak tahu lah siapa yang bayar. Ada juga yang pernah berlaku, ah dia bayar kemudian dia tinggalkan nota dekat kaunter tu, ah *note* kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi, kalau nak makan *free* kan, kalau nak makan *free* rasanya tak perlu jadi *influencer* lah kut. Tapi *influencer* 40,000 sekarang ni banyak lah kut. Sebenarnya apa definisi untuk jadi *influencer* ni?
 
-**Fizizi Ramli:** Kita beralih ke segmen *Fuyoh*. Pertama, penemuan 'Rainbow Chip' (cip fotonik berasaskan cahaya) di AS yang mampu memproses data beribu kali lebih pantas berbanding cip silikon biasa.
+**Speaker 1:** *I don't think* ada badan mana-mana pengiktirafan yang menetapkan lah. Ah. *As long as* orang rasa boleh *relate*.
 
-**Rafizi Ramli:** Ini penemuan teknologi semikonduktor yang amat besar. Sebelum ini cip menggunakan pergerakan elektron dalam silikon. Fotonik menggunakan cahaya (foton) yang jauh lebih pantas dan kurang menghasilkan haba. Jika dikomersialkan, ia akan merancakkan sektor AI dan *supercomputing* dunia.
+**Rafizi Ramli:** Ke atau dia sebenarnya *food reviewer*? Ah, ya ya ya. Ah, dia mungkin lah, mungkin *food reviewer* yang pergi kedai untuk buat *review*. Dia *food reviewer*. Tapi tak kan mamak tu. Banyak aje orang buat *food reviewer* kat mamak yang *food reviewer* buat *review* Maggi segera tepi jalan tu pun banyak kan. Ah, tapi yalah ni tersalah kedai mamak lah. Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangat lah kepada *influencer* kan. Dan yalah saya pun em berbelah bahagi juga lah. Kalau promosi ni daripada *influencer* kerana risiko dia ialah masa dia *review* tu mungkin naik. Tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan *repeat customer*, dia tak datang kan. Jadi saya kalau buat bisnes, saya agak berhati-hati untuk bergantung kepada *food reviewer*, *food review* ataupun *so-called influencer* lah. Kan. Tapi, dia tak dapat makan *free* lah. Tak dapat. Tak dapat makan *free* lah. Tak apa lah, suruhlah dia datang *review* kita punya podcast, saya belanja dia.
 
-**Fizizi Ramli:** Kejayaan saintis Jepun mengubah sel kulit manusia menjadi sel telur (ovum) yang boleh disenyawakan.
+**Speaker 1:** Okay YB, ada lagi ni. *Deepavali kolam*.
 
-**Rafizi Ramli:** Ini *breakthrough* luar biasa dalam perubatan reproduktif untuk menangani isu kesuburan. Namun dari sudut etika, perundangan, dan agama, ia memerlukan perbincangan mendalam sebelum dilaksanakan secara meluas.
+**Rafizi Ramli:** Ni dekat mana ni?
 
-**Fizizi Ramli:** Seterusnya, segmen soalan penonton (Q&A). Soalan pertama daripada Muhammad Aslan: Kenapa prestasi Liverpool semakin merosot kebelakangan ini?
+**Speaker 1:** Ini, orang kata dekat Penang eh? Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali.
 
-**Rafizi Ramli:** Saya tidak sempat mengikut perkembangan Liga Perdana Inggeris secara dekat sekarang kerana kesuntukan masa. Saya pakai jersi ini pun sebab anak dan isteri belikan hadiah hari jadi. Kebetulan malam ini saya pakai, Liverpool kalah pula.
+**Rafizi Ramli:** Tak ada orang pergi tegur ke? Pastu video ada orang ambil gambar ibu bapa sekalilah. Ah. Dia buat video lah. Dia tak tegur orang. Hmm. Tapi yalah ini dia bukan salah anak lah. Em ini sepatutnya mak ayah kalau kita ada anak, em kita kena pastikan em anak-anak kita tu satu berbahaya. Kalau anak-anak kita em duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku, mak ayah dia tak tahu kat mana ni. Ah. Satu, dia berbahaya. Keduanya ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa ah maksud em ah hiasan Deepavali, kolam Deepavali, semua ni kan. Jadi salahnya salah mak ayah 100%. Salah mak ayah.
 
-**Fizizi Ramli:** Soalan kedua daripada Ajeeb: Peniaga dalam talian tempatan terjejas akibat lambakan produk tiruan dan "buang harga" dari peniaga luar seperti China di TikTok, Shopee, dan Lazada. Apa tindakan kerajaan?
+**Speaker 1:** 100%.
 
-**Rafizi Ramli:** Ini isu yang sangat relevan. Kerajaan melalui KPDN dan MITI sedang melihat beberapa langkah, termasuk memperketat pemeriksaan sempadan, mengenakan Cukai Barang Bernilai Rendah (LVTT) untuk barang import bawah RM500, dan menguatkuasakan hak cipta/harta intelek di platform e-dagang. Peniaga tempatan juga perlu beralih daripada sekadar menjadi ejen menjual barang import kepada membangunkan jenama dan produk tempatan sendiri yang mempunyai nilai tambah.
+**Rafizi Ramli:** Baik, baik, baik. Hmm. Tapi yalah so kau nak kata *beria* budak-budak ni merosakkan ni?
 
-**Fizizi Ramli:** Soalan daripada Shafi: Bagaimana laporan salah laku atau manipulasi dalam kalangan penjawat awam boleh dibuat secara berkesan dan selamat?
-
-**Rafizi Ramli:** Jika melibatkan rasuah atau penyalahgunaan kuasa, saluran terbaik ialah menyalurkan maklumat terus kepada SPRM di bawah Akta Perlindungan Pemberi Maklumat 2010. Untuk mendapat perlindungan akta, maklumat mesti diberikan terus kepada agensi penguat kuasa, bukannya disebarkan di media sosial atau surat layang terlebih dahulu. Bukti yang diberikan mestilah kukuh seperti dokumen, e-mel, atau transaksi kewangan.
-
-**Fizizi Ramli:** Soalan terakhir daripada Alif Salimi: Bagaimana memastikan reformasi pendidikan berterusan tanpa terjejas akibat pertukaran menteri atau kerajaan?
-
-**Rafizi Ramli:** Amalan "tukar menteri, tukar dasar" perlu dihentikan. Cara terbaik ialah mengkanunkan dasar pendidikan di dalam undang-undang atau pelan induk negara seperti RMK-13 atau Akta Pendidikan yang diluluskan di Parlimen. Mana-mana menteri baharu tidak boleh menukar dasar tersebut secara sewenang-wenangnya tanpa kelulusan Parlimen. Selain itu, Majlis Pendidikan Negara perlu diperkasa sebagai badan bebas yang memantau pelaksanaan reformasi secara berterusan.
-
-**Fizizi Ramli:** Terima kasih banyak YB Rafizi Ramli atas perkongsian padat malam ini.
-
-**Rafizi Ramli:** Terima kasih semua.
-
-**Fizizi Ramli:** Terima kasih kepada semua pembaca dan penonton. Jangan lupa untuk *like*, *share*, *comment*, dan *subscribe*. Kita jumpa lagi dalam episod akan datang! Assalamualaikum dan selamat malam.
+**Speaker 1:** Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia. Tapi video ni maksudnya *beria* ni *beria* siapa? *Beria* yang ambil video ke *beria* mak? Boleh jadi *beria* yang ambil video, *beria* ibu bapa yang buat video lah, dia tak tegur.
