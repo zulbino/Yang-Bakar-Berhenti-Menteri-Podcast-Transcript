@@ -10,22 +10,18 @@ view_count: 36739
 hosts:
 - Rafizi Ramli
 guests:
-- Fizizi Ramli
+- Speaker 1
 topics:
-- Cadangan Pelaksanaan Prasekolah Umur 5 Tahun Dalam RMK-13
-- Pangkalan Data PADU dan Penyasaran Subsidi RON95
-- Isu Operasi GISBH berbanding Peristiwa Memali
-- Tuntutan 40 Peratus Hasil Negeri Sabah
-- Pengenalan Sukan Pickleball di Sekolah
-- Penggunaan Dinar Emas dalam Perdagangan
-- Cabaran Peniaga E-Dagang Tempatan Terhadap Barangan Import
-- Saluran dan Akta Perlindungan Pemberi Maklumat
-summary: Dalam episod ke-19 podcast Yang Berhenti Menteri, Rafizi Ramli bersama moderator
-  Fizizi Ramli membincangkan pelbagai isu semasa, dasar kerajaan, dan soalan penonton.
-  Perbincangan merangkumi pelaksanaan umur persekolahan prasekolah di bawah RMK-13,
-  peranan pangkalan data PADU, isu GISBH berbanding peristiwa Memali, pertikaian tuntutan
-  40 peratus hasil Sabah, pengenalan sukan Pickleball di sekolah, serta langkah menangani
-  persaingan e-dagang luar negara.
+- Minister's work fatigue controversy
+- Najib Razak's 1MDB legal defense
+- Influencer culture and restaurant reviews
+- Parental responsibility for children's behavior
+- Deepavali decorations damage incident
+summary: In the 19th episode of his podcast, Rafizi Ramli and his co-host discuss
+  various trending social and political issues. Topics include a controversial social
+  media post by a political figure about a minister's work fatigue, Najib Razak's
+  legal arguments regarding 1MDB, an influencer's request for free food at a mamak
+  restaurant, and parents' responsibility regarding children damaging Deepavali decorations.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -33,100 +29,88 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Fizizi Ramli:** Welcome and assalamu'alaikum to everyone watching episode 19 of the *Yang Berhenti Menteri* podcast. Before we start with our regular segments, some viewers asked in the comments section: why does YB like wearing a batik shirt every Friday?
+**Rafizi Ramli:** Welcome and *assalamualaikum* to everyone watching episode 19 of the *Yang Bakar Menteri* podcast. Before we start with the usual segments, I’ve seen some people asking questions in the comments.
 
-**Rafizi Ramli:** Back when I was in government, I received a lot of batik shirts. It would be a waste not to wear them. Otherwise, I would just be wearing a t-shirt all the time.
+**Speaker 1:** Ah, they asked to change you.
 
-**Fizizi Ramli:** Alright, so that's the answer. Some people also suggested changing the moderator, but that's for YB to decide. Let's move on to our first segment, *Beria-iya*, where we highlight current issues. The first issue: the statement by the Srikandi Chief regarding the sacrifice of Education Minister YB Fadhlina Sidek, who was said to be so exhausted that she fell asleep in the toilet. What is your view, YB?
+**Rafizi Ramli:** That’s one thing. But another one is, they asked why YB Raf likes wearing batik shirts every Friday?
 
-**Rafizi Ramli:** Falling asleep in the toilet due to extreme exhaustion? This could actually be reported to the Department of Labour because it counts as employee abuse. If a worker is so exhausted that they fall asleep in the toilet, it is indeed justified to report it. But to be honest, I myself once slept in a toilet back during my early working days in the UK. The difference is, I didn't sleep because I was tired, but because I wanted to slack off and play truant because I was bored at the office! It was winter at the time, so the toilet was the only place with a heater where I could get away from people. So from the perspective of netizens, if someone is so exhausted and stressed out that they fall asleep in the toilet, maybe it's time to step down.
+**Speaker 1:** Because when I was in the government, I had many batik shirts. So, if I don’t wear them, it’s a waste.
 
-**Fizizi Ramli:** That's a sharp answer. Next, the issue of "Pulang apa Bossku?" [What refund, Bossku?]. Datuk Seri Najib Razak's defense team in the 1MDB case argued that he was the only individual who returned the bribe money to the original account after obtaining approval from Bank Negara.
+**Rafizi Ramli:** Right? So, if not, I’d be wearing a t-shirt all the time. Okay YB, that’s the answer. Let’s move on to the usual segments. Let’s go to the segment... the one we changed?
 
-**Rafizi Ramli:** That is a cynical argument and sarcasm in his defense. However, it is dangerous if we normalize the practice of taking money, returning it, paying a compound, and then getting off scot-free. In the court of public opinion, the majority of the rakyat have actually made their decision and judged this 1MDB issue in two General Elections (2018 and 2022). The argument that the money was returned is not a new one; it has been rejected by the people since 2016. It is extremely "beria-ia" to keep repeating the same argument in court.
+**Speaker 1:** The one we changed?
 
-**Fizizi Ramli:** Next, there is a TikTok influencer with 40,000 followers who asked for free food at a Mamak stall. YB yourself have tens of thousands of followers, have you ever gotten free food?
+**Rafizi Ramli:** Changing the moderator.
 
-**Rafizi Ramli:** I often get free food at Mamak stalls too, but not because I'm an influencer. Usually, I eat alone, and when I want to pay, it turns out someone else has already settled the bill for me. In the case of this influencer, established Mamak stalls usually have their own regular customers and don't rely on influencers. Personally, if I were running a business, I'd be cautious about relying on food reviews from influencers. Because the people who come might just want to try it once rather than become regular customers. Anyway, if he doesn't get free food at the Mamak stall, tell him to come review our podcast, and I'll treat him!
+**Speaker 1:** It’s up to you, YB, I’m scared.
 
-**Fizizi Ramli:** Next, a video went viral showing several children damaging Deepavali kolam decorations without being reprimanded by their parents. Your thoughts, YB?
+**Rafizi Ramli:** Okay.
 
-**Rafizi Ramli:** This is 100% the fault of the parents. Children might not understand the importance or meaning of the Deepavali kolam decoration. As parents, it is dangerous to let children roam unsupervised and do as they please. Parents should reprimand and educate their children.
+**Speaker 1:** Okay, the first segment YB is *Beria Mat*, as usual, about people who are *poyo* (pretentious), or maybe not even *poyo*. Perhaps we want to highlight current issues, apart from just politics. Let’s look at the first one. *Beria*.
 
-**Fizizi Ramli:** Regarding the Selangor State Government's proposal to introduce Pickleball in schools, what is your view, YB?
+**Rafizi Ramli:** Ah, okay, this is politics.
 
-**Rafizi Ramli:** I tried playing Pickleball once with YB Akmal. Pickleball is a good sport, but let it grow organically. Equipment like Pickleball paddles is not cheap; it can cost hundreds of ringgit. When a state government eagerly pushes to introduce it in schools, we must remember that government financial resources are limited. Would it be better to channel those resources to well-established sports like football, hockey, rugby, basketball, or volleyball? If it is made a school program, the cost of the paddles could become a financial burden on parents. We often get caught up in new hypes without resolving or strengthening existing sports.
+**Speaker 1:** The Srikandi Chief describes the Minister of Education’s sacrifices. Did you notice, YB? Minister of Education. Ah, this is a typo.
 
-**Fizizi Ramli:** What is your rating or evaluation for this *Beria-iya* segment this time?
+**Rafizi Ramli:** Hmm. Well, she was wishing YB a happy birthday. But she talked about how tired they were and...
 
-**Rafizi Ramli:** For the issue of the ministerial officer posting about the minister falling asleep in the toilet, I give it 5.5 stars. Officers should facilitate the minister's work and protect their image, not post apple-polishing or exaggerated posts praising the minister that end up becoming a laughingstock for the public. If this apple-polishing culture is left unchecked, it damages the party and the government.
+**Speaker 1:** Hmm, it says here they once fell asleep in the toilet.
 
-**Fizizi Ramli:** Alright, let's move on to the *Standing Order* segment to examine questions in Parliament. The first question from Datuk Seri Dr. Wan Azizah Wan Ismail (Bandar Tun Razak) asks the Minister of Education to state the measures and implementation for preschool for 5-year-olds and primary school for age 6 under RMK-13.
+**Rafizi Ramli:** I didn't read this post. But yeah, it’s already been deleted.
 
-**Rafizi Ramli:** This is a very good question from Kak Wan. The decision to set the schooling age starting at 6 and free, universal preschool as early as 5 has already been made in RMK-13. The issue now is not whether to consider it or not, but when implementation will begin. As the former Economy Minister who planned this policy, my concern is the delay in implementation at the executing ministry level. This is the biggest shift in the country's education system in decades. Private preschool fees today reach RM500 a month, which is a heavy burden for young families. This implementation requires the construction of new school blocks and the conversion of existing school spaces by the Ministry of Works, Ministry of Economy, and Ministry of Finance. I hope all parties continue to monitor this matter.
+**Speaker 1:** Ah, it has become a *meme* among the netizens, hasn't it? Hmm.
 
-**Fizizi Ramli:** The next question is from the opposition, the MP for Hulu Terengganu, who asked the Economy Minister to state the latest updates on the PADU database and its function in the targeted RON95 subsidy distribution.
+**Rafizi Ramli:** Hmm.
 
-**Rafizi Ramli:** This is an attempt by the opposition to continue attacking PADU. In reality, PADU was not built solely for RON95 subsidy targeting; rather, it has various use cases. So far, 17 ministries and government agencies—including JKR, the Ministry of Youth and Sports, PTPTN, and the Ministry of Higher Education—have used the PADU database for their respective programs. For RON95 targeting, PADU is one of the main reference databases for the Ministry of Finance. Those who politicize PADU often lack an understanding of inter-agency data management in government. PADU consolidates the data of tens of millions of citizens so that government programs are more integrated and targeted.
+**Speaker 1:** Apart from ministry programs... "Selamat meranum usia." What does this mean? *Happy birthday*.
 
-**Fizizi Ramli:** Moving on to the *Hidup Keras* segment. The first issue is the statement by the MP for Kota Bharu (Takiyuddin Hassan), who described the police raid related to Op GISBH as resembling the 1985 Memali tragedy.
+**Speaker 1:** Err, *meranum*. *Meranum*. First time I’ve heard that.
 
-**Rafizi Ramli:** The PDRM operation against GISBH premises is vastly different from the Memali event. Takiyuddin is the last person who should speak about Memali. He was the Law Minister for 33 months when PAS was in government, and Tan Sri Hadi Awang was a Special Envoy with Ministerial Status. Throughout those 33 months, they never uttered a single word about Memali, conducted an inquest, or sought a resolution. Only when they became the opposition again did they scramble to bring up the Memali issue to politicize GISBH.
+**Speaker 1:** Em, where does she say they slept in the toilet?
 
-**Fizizi Ramli:** Regarding the Kota Kinabalu High Court ruling establishing that the Federal Government has a constitutional obligation to assess and pay the 40% Sabah state revenue claim, the Attorney General will appeal this decision. What is YB's view?
+**Speaker 1:** "Once fell asleep in the toilet due to extreme fatigue but never complained."
 
-**Rafizi Ramli:** This dispute is between the Sabah State Government and the Federal Government. The Federal Constitution stipulates that any dispute regarding the assessment of the 40% special grant must first be resolved through administrative negotiations between both parties, and if those fail, through the appointment of an independent assessor—not through the High Court. The appeal was filed by the Federal Counsel to defend that constitutional process. Furthermore, the 40% assessment raises accounting questions: does it mean gross revenue or net revenue after deducting federal expenditure in Sabah (such as the salaries of teachers, police, military, doctors, as well as development expenditure for roads and hospitals)? If federal expenditure is factored in, the value is far larger than 40% of the gross revenue collected. For that reason, the ongoing administrative negotiations are the proper channel.
+**Speaker 1:** Oh, once fell asleep in the toilet due to extreme fatigue. Hmm, that’s tough, isn’t it? This could be reported to the Department of Labour. Because it becomes a form of abuse, right? If an employee works so hard that they fall asleep in a toilet.
 
-**Fizizi Ramli:** On the motion to use Gold Dinars to replace the US Dollar in international trade, which the PAS President claimed had been proposed since the era of the late Ustaz Fadzil Noor.
+**Speaker 1:** Didn’t expect that response. It should be reported to the Department of Labour. It’s just that, em, I once slept in a toilet too.
 
-**Rafizi Ramli:** PAS always claims they were the first to propose everything. But during their 33 months in government, absolutely nothing was done—no Gold Dinar, no RUU 355, no hudud. Practically speaking, using gold in world trade today is extremely difficult because the volume of global trade far exceeds world gold reserves. If pegged solely to gold, global trade would shrink severely. That is why the world moved away from the Bretton Woods system in the 1970s.
+**Speaker 1:** Okay.
 
-**Fizizi Ramli:** Next, the Prime Minister's (PMX) directive that all new housing projects under Residensi Wilayah in Kuala Lumpur must provide kindergarten and primary school facilities if there are no nearby facilities available.
+**Speaker 1:** Back when I first started working in the UK. But based on my experience, sleeping in the toilet during work hours wasn’t because of fatigue, but because I was slacking off. Initially, it was because I was bored at the office.
 
-**Rafizi Ramli:** This is a very good and practical directive. In densely populated areas like Kuala Lumpur, developers often build thousands of residential units without providing basic early education facilities. This leads to traffic congestion and a financial burden for parents who have to send their children to distant schools. Developers cannot just chase profits; they must take responsibility for providing a complete housing ecosystem.
+**Speaker 1:** Oh, YB did that?
 
-**Fizizi Ramli:** What is YB's rating for the *Hidup Keras* segment?
+**Speaker 1:** Yeah. Oh man, it’s embarrassing, right? But when I first started, in the first month or two, because I have an engineering degree and I was at an accounting or audit firm in the UK. They just take everyone, right? They don’t care if you have the background or not. So, I didn't understand a lot of things about accounting. So, I was bored, sometimes I’d get stuck. It’s not like in Malaysia where you can go outside because it’s cold there, *winter*. So the only place you could hide from people and it still had a *heater* was the toilet. So, I did sit in the toilet because I was bored, to the point of falling asleep. So maybe if someone falls asleep in the toilet, it’s not because of fatigue. But because they are skipping work and slacking off.
 
-**Rafizi Ramli:** For PMX's directive regarding kindergartens/schools at Residensi Wilayah, I give 5 stars because it addresses a genuine issue faced by the people. For Takiyuddin's statement regarding Memali, I give only 0.5 stars because it is hypocritical to the extreme.
+**Speaker 1:** Right? I don’t know about this one. Maybe they really were tired. But if it’s fatigue, this post is dangerous because *netizens* will say, "Hmm, if you’re so tired and stressed that you fall asleep in the toilet, maybe it’s time to step down."
 
-**Fizizi Ramli:** Next, the *World News* segment. First, the Singapore Government issued a stern warning to Singaporean citizens and Permanent Residents (PR) not to get involved in foreign politics, following reports that Singapore PRs were involved in PAS election campaigning.
+**Speaker 1:** Okay YB, fair enough. Spicy. Let’s see what we have next. *Pulang apa bosku?* Ah, this one YB, his own card says he is the only money launderer in history who returned the bribe money to the original account.
 
-**Rafizi Ramli:** No country will allow its citizens or PRs to interfere in foreign politics. Singapore is very strict about this. Why does PAS need to involve Singapore citizens or PRs in their campaigning? This shows that PAS sometimes disregards foreign laws for short-term political interests.
+**Rafizi Ramli:** Yeah, that’s seen as cynical and a sarcastic remark in his defense arguments, right? But em, this is dangerous. We can’t normalize the idea of taking money, returning it, and getting off scot-free. Because this has happened a few times now, right? Take money, return it, pay a *compound*, and get off, right? I don’t know what to say. When he says he returned it after getting approval from Bank Negara. Em, well, sometimes I think about Datuk Seri Najib and the 1MDB case. Actually, the people have been divided into certain groups that have decided it was a major misappropriation; that was actually translated in two elections. The 2018 election and also the 2022 election. So, based on that, in my view, the majority of the people have indeed made a decision and judged for themselves based on the arguments given by Datuk Seri Najib himself, including this one. Because even in the years before that, before Barisan Nasional lost in 2018, the argument given was indeed that the money had been returned. So, in the Court of Public Opinion, this matter was not accepted. Em, in a court of law, we’ll have to see how that goes. But perhaps Datuk Seri Najib is too eager to use the same argument. *Correct*. If this argument has been rejected—and now it’s been nearly 7 years, well, actually almost 10 years that this argument has been rejected since 2016—these kinds of arguments have been rejected by the people and the nation. Em, he is really insistent on using the same argument when he enters the courtroom.
 
-**Fizizi Ramli:** The issue of the theft of millions of euros worth of jewelry at the Louvre Museum in Paris by a group disguised as museum workers.
+**Speaker 1:** Right, right YB. *Beria*. For *bosku*, let’s look at another one. A 40,000-follower *influencer* wants to eat for free at a *mamak*. Ah. Don’t mess around. They have 40,000 *followers* on TikTok. How many do you have, YB?
 
-**Rafizi Ramli:** Even famous museums like the Louvre have advanced security systems, but negligence or internal control lapses can still be exploited by criminals. Internal security controls are just as important as physical security systems.
+**Rafizi Ramli:** I’m close to 300,000.
 
-**Fizizi Ramli:** The appointment of Shigeru Ishiba as the new Prime Minister of Japan, replacing Fumio Kishida.
+**Speaker 1:** Oh. How many free meals does that get you?
 
-**Rafizi Ramli:** Japan indeed changes Prime Ministers frequently. The main challenges for this new PM are addressing the cost of living, the weak yen, an aging population, and navigating geopolitics between the US and China.
+**Rafizi Ramli:** I should be getting free meals. I do get free meals often, actually. But not because I’m an *influencer*. Hmm. Usually, at the *mamak*, I eat alone. I eat alone, sit alone. When I’m about to pay, someone else has paid for it. But I don’t know who paid. It has also happened that they paid and left a note at the counter, a small *note* behind the receipt of the bill they paid for, right? So, if you want to eat for free, I don’t think you need to be an *influencer*. But there are a lot of 40,000-follower *influencers* now, I guess. What is the actual definition of being an *influencer*?
 
-**Fizizi Ramli:** Moving on to the *Fuyoh* segment. First, the discovery of the 'Rainbow Chip' (a light-based photonic chip) in the US, which is capable of processing data thousands of times faster than standard silicon chips.
+**Speaker 1:** *I don’t think* there is any recognized body that sets it. *As long as* people feel they can relate.
 
-**Rafizi Ramli:** This is a major technological breakthrough in semiconductors. Previously, chips used the movement of electrons in silicon. Photonics uses light (photons), which is far faster and generates less heat. If commercialized, it will boost the global AI and supercomputing sectors.
+**Rafizi Ramli:** Or is he actually a *food reviewer*? Ah, yes, yes, yes. Ah, maybe, maybe he is a *food reviewer* who goes to shops to do a *review*. He is a *food reviewer*. But not at a *mamak* shop. Many people do *food reviews* at *mamak* shops; there are even *food reviewers* who do *reviews* for instant Maggi noodles by the roadside. But yeah, he went to the wrong *mamak* shop. If a *mamak* shop is successful, it already has its own customers. So it doesn't really depend on *influencers*, right? And yeah, I am also conflicted. If a promotion is from an *influencer*, the risk is that the traffic might spike during the *review*. But if you’re not careful, the people who visit are only there to try it out but they aren’t *repeat customers*, they don’t come back. So, if I were running a business, I would be quite careful about relying on *food reviewers*, *food reviews*, or so-called *influencers*. But, he didn’t get to eat for free. He didn’t. He didn’t get to eat for free. Never mind, tell him to come and *review* our podcast, I’ll treat him.
 
-**Fizizi Ramli:** The success of Japanese scientists in converting human skin cells into egg cells (ova) that can be fertilized.
+**Speaker 1:** Okay YB, there’s more. *Deepavali kolam*.
 
-**Rafizi Ramli:** This is an extraordinary breakthrough in reproductive medicine to address fertility issues. However, from an ethical, legal, and religious standpoint, it requires deep discussion before being widely implemented.
+**Rafizi Ramli:** Where is this?
 
-**Fizizi Ramli:** Next, the audience Q&A segment. The first question is from Muhammad Aslan: Why has Liverpool's performance been declining recently?
+**Speaker 1:** This one, people are saying it’s in Penang, right? It went viral on social media that some children damaged a *kolam* (decorative floor art) for Deepavali.
 
-**Rafizi Ramli:** I haven't had time to closely follow the Premier League lately due to time constraints. I'm wearing this jersey only because my wife and child bought it as a birthday present. Coincidentally, I wore it tonight, and Liverpool lost.
+**Rafizi Ramli:** Didn’t anyone go and reprimand them? And the video shows the parents taking pictures too. They made a video. They didn’t reprimand anyone. Hmm. But yeah, this isn't the children’s fault. This is the parents' responsibility; if we have children, we must ensure they are safe. If our children are sitting apart and doing their own thing away from us—in this day and age, looking at this, when this happened, the parents didn't know where they were. One, it’s dangerous. Secondly, children don’t know any better. If the parents don’t reprimand or watch over them, this is what happens. It’s just that these children probably don’t understand what the Deepavali decorations or the Deepavali *kolam* mean. So, the fault is 100% the parents’. The parents’ fault.
 
-**Fizizi Ramli:** The second question is from Ajeeb: Local online sellers are affected by the influx of counterfeit products and price-dumping by foreign sellers, such as those from China, on TikTok, Shopee, and Lazada. What action is the government taking?
+**Speaker 1:** 100%.
 
-**Rafizi Ramli:** This is a very relevant issue. The government, through KPDN and MITI, is looking at several measures, including tightening border inspections, imposing the Low Value Goods Tax (LVTT) on imported goods under RM500, and enforcing copyright/intellectual property rights on e-commerce platforms. Local sellers also need to transition from merely acting as agents selling imported goods to developing their own local brands and products with added value.
+**Rafizi Ramli:** Good, good, good. Hmm. But yeah, so are you saying the kids were *beria* (trying too hard) to damage this?
 
-**Fizizi Ramli:** Question from Shafi: How can reports of misconduct or manipulation among civil servants be made effectively and safely?
-
-**Rafizi Ramli:** If it involves corruption or abuse of power, the best channel is to report the information directly to the SPRM under the Whistleblower Protection Act 2010. To receive protection under the act, the information must be provided directly to the enforcement agency, rather than being spread on social media or through anonymous letters first. The evidence provided must be solid, such as documents, emails, or financial transactions.
-
-**Fizizi Ramli:** The final question is from Alif Salimi: How do we ensure education reform continues without being affected by changes in ministers or governments?
-
-**Rafizi Ramli:** The practice of "change of minister, change of policy" must stop. The best way is to codify education policy in law or national blueprints like RMK-13 or the Education Act passed in Parliament. Any new minister cannot change the policy arbitrarily without parliamentary approval. In addition, the National Education Council needs to be empowered as an independent body that continuously monitors the implementation of reforms.
-
-**Fizizi Ramli:** Thank you very much, YB Rafizi Ramli, for the insightful sharing tonight.
-
-**Rafizi Ramli:** Thank you, everyone.
-
-**Fizizi Ramli:** Thank you to all readers and viewers. Don't forget to like, share, comment, and subscribe. See you in the next episode! Assalamu'alaikum and good night.
+**Speaker 1:** I don’t think it was literal like that. Parents have their roles. But who is this video calling *beria*? Is it *beria* on the part of the one filming, or *beria* on the part of the mother? It could be that the one filming and the parents making the video were *beria*, and they didn't reprimand them.
