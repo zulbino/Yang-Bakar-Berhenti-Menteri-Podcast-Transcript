@@ -10,171 +10,661 @@ view_count: 50313
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
-
 # Raw Transcript
 
+
+
 [00:00] [Music]
+
+
+
 [03:28] Speaker 1: Assalamualaikum dan salam sejahtera. Podcast yang berhenti menteri. Episod yang ke... keenam ke ketujuh? Ketujuh. Ah, tapi sebelum saya ni saya tanya teruslah saudara Daniel eh. Ehm datang ke podcast ni tak takut kena gam ke?
+
+
+
 [04:47] Speaker 2: Siapa yang boleh gam saya pun?
+
+
+
 [04:49] Speaker 1: Sebab dia ketua cabang. Oh. Ah ketua cabang apa? Mas Gading. Mas Gading. Ah tapi selain daripada tu dia juga merupakan seorang pemengaruh lah. Ah dia cerita kat saya tadi. Eh YouTube dah bagi tahu dia eh. Dia ni merupakan antara top 10 apa kita panggil, pemengaruh politik dekat Malaysialah. Dan dah dapat apa, gold silver coin tu?
+
+
+
 [05:09] Speaker 2: Silver button.
+
+
+
 [05:11] Speaker 1: Oh silver button.
+
+
+
 [05:12] Speaker 2: Kau tanya soalan kat Daniel, belum ada masa Daniel nak jawab lagi dah potong. Bagilah Daniel jawab dulu. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [05:20] Speaker 1: Sorry sorry.
+
+
+
 [05:21] Speaker 2: Sorry sorry.
+
+
+
 [05:22] Speaker 1: Ehm macam mana saya nak jawab eh? Sebab soalan saya itu bukan soalan...
+
+
+
 [05:25] Speaker 2: Soalan. Ah.
-[05:26] Speaker 1: Tak habis, ah dia bukan soalan juga macam mana saya nak jawab, tapi eh. 
-[05:30] Speaker 2: Ya. 
+
+
+
+[05:26] Speaker 1: Tak habis, ah dia bukan soalan juga macam mana saya nak jawab, tapi eh.
+
+
+
+[05:30] Speaker 2: Ya.
+
+
+
 [05:31] Speaker 1: Dia macam nilah. Ehm, kalau daripada segi, ehm, YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. Ehm, dan, ehm, melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan saya tak layan kan. So saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okelah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
-[06:21] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. Ah. Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[06:21] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. Ah. Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [06:52] Speaker 1: Hmm.
+
+
+
 [06:53] Speaker 2: Iswadi mungkin tak eh?
+
+
+
 [06:55] Speaker 1: Oh Iswadi bukan J-KOM eh?
+
+
+
 [06:56] Speaker 2: Bukan.
+
+
+
 [06:57] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
 [07:03] Speaker 1: Dia kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Buat YouTube ni, memang kita nampak banyak hal tahu. Betul-betul kita nampaklah. Macam YB dia ada pengalaman, dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan.
-[08:33] Speaker 1: Ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti orang kata kritik kritik kan. Dia cakap dia orang nak berlakon eh. Tapi benda ni ada teknik. Sebab itu perlu belajar dengan bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. 
-[09:12] Speaker 1: YB tahu ni tapi dia tak nak ajar J-KOM. 
-[09:15] Speaker 2: Hmm. 
-[09:22] Speaker 1: Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetize juga eh? 
+
+
+
+[08:33] Speaker 1: Ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti orang kata kritik kritik kan. Dia cakap dia orang nak berlakon eh. Tapi benda ni ada teknik. Sebab itu perlu belajar dengan bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ.
+
+
+
+[09:12] Speaker 1: YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[09:15] Speaker 2: Hmm.
+
+
+
+[09:22] Speaker 1: Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetize juga eh?
+
+
+
 [09:32] Speaker 1: Ah saya punya yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetize ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetize.
-[09:47] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. 
-[09:51] Speaker 1: Belum belum. Saya nanti tak apa selepas. 
-[09:54] Speaker 1: Jadi kena belajar dengan Daniel. 
-[09:59] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetize ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1000 subscribe, 4000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetize dah pun. 4000 jam tu dia lebih kurang dalam 1000 1000 ah 1000 berapa. 1000 satu video tu ah 10,000 viewer tu dah dah dapat dah orang. Macam mana boleh saya dah saya terkejut juga oh. Untunglah ni. 
+
+
+
+[09:47] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize.
+
+
+
+[09:51] Speaker 1: Belum belum. Saya nanti tak apa selepas.
+
+
+
+[09:54] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[09:59] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetize ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1000 subscribe, 4000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetize dah pun. 4000 jam tu dia lebih kurang dalam 1000 1000 ah 1000 berapa. 1000 satu video tu ah 10,000 viewer tu dah dah dapat dah orang. Macam mana boleh saya dah saya terkejut juga oh. Untunglah ni.
+
+
+
 [11:06] Speaker 1: Tak tak tak terpikir kan tadi buat terpikir eh, kenapa pula aku punya YouTube ni tak boleh monetise.
-[11:13] Speaker 1: Ah. Atau pun 
-[11:15] Speaker 1: So yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. Ah lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV. 
-[12:12] Speaker 1: Yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[12:35] Speaker 1: Jadi kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu. 
-[13:16] Speaker 1: ah ah orang kat bawah yang cuba mengusahakan perusahaan sosial. ah jadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dulu. 
+
+
+
+[11:13] Speaker 1: Ah. Atau pun
+
+
+
+[11:15] Speaker 1: So yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. Ah lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV.
+
+
+
+[12:12] Speaker 1: Yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[12:35] Speaker 1: Jadi kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu.
+
+
+
+[13:16] Speaker 1: ah ah orang kat bawah yang cuba mengusahakan perusahaan sosial. ah jadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dulu.
+
+
+
 [14:14] Speaker 1: Aku tengah menunggu jawapan ni ni kan. Sorry sorry. Sorry sorry.
-[14:26] Speaker 1: ah macam mana saya nak jawab eh? Sebab soalan itu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. 
-[15:10] Speaker 1: Saya saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[16:21] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[16:34] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[14:26] Speaker 1: ah macam mana saya nak jawab eh? Sebab soalan itu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu.
+
+
+
+[15:10] Speaker 1: Saya saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[16:21] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[16:34] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [16:51] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [17:01] Speaker 1: Oh Iswadi bukan J-KOM eh?
+
+
+
 [17:07] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
 [17:15] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
-[18:32] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM. 
-[20:10] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh? 
-[21:13] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[22:04] Speaker 1: Betullah. Patutnya aku kena monetise lah, rugilah. Kau tak monetise. Oh belum belum eh. Saya nanti, tak apa selepas. 
-[22:36] Speaker 1: Iaitu kena belajar dengan Daniel. Selepas ni nanti kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[23:59] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[24:59] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[26:15] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[28:55] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[31:39] Speaker 1: Ah, tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. 
-[31:54] Speaker 1: Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[18:32] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[20:10] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh?
+
+
+
+[21:13] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[22:04] Speaker 1: Betullah. Patutnya aku kena monetise lah, rugilah. Kau tak monetise. Oh belum belum eh. Saya nanti, tak apa selepas.
+
+
+
+[22:36] Speaker 1: Iaitu kena belajar dengan Daniel. Selepas ni nanti kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[23:59] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[24:59] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[26:15] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[28:55] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[31:39] Speaker 1: Ah, tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar.
+
+
+
+[31:54] Speaker 1: Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [32:06] Speaker 1: Sorry sorry. Still.
-[32:38] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah, tak habis. 
-[33:14] Speaker 1: Ah dia bukan soalan juga, macam mana saya nak jawab. Tapi, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan saya tak layan kan. So saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[40:19] Speaker 1: Ni sepatutnya dah jadi orang besar J-KOM eh. 
-[40:53] Speaker 1: Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[32:38] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah, tak habis.
+
+
+
+[33:14] Speaker 1: Ah dia bukan soalan juga, macam mana saya nak jawab. Tapi, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan saya tak layan kan. So saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[40:19] Speaker 1: Ni sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[40:53] Speaker 1: Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [41:31] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [41:40] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[41:43] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
-[42:25] Speaker 1: Dia kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. 
+
+
+
+[41:43] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
+[42:25] Speaker 1: Dia kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan.
+
+
+
 [43:35] Speaker 1: Buat YouTube ni, memang kita nampak banyak hal tahu. Betul-betul kita nampaklah. Macam YB dia ada pengalaman, ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan.
-[45:15] Speaker 1: Ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. 
-[46:11] Speaker 1: YB tahu ni tapi dia tak nak ajar J-KOM. 
-[46:33] Speaker 1: "Belajar eh." Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. 
-[47:11] Speaker 1: Dan dah monetise juga eh? 
-[47:21] Speaker 1: Ah saya punya yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[47:58] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. 
-[48:19] Speaker 1: Belum belum ni, saya nanti tak apa selepas. 
-[48:47] Speaker 1: Jadi kena belajar dengan Daniel. 
-[49:15] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1000 subscribe, 4000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4000 jam tu dia lebih kurang dalam 1000 1000 ah 1000 berapa. 1000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[50:18] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[51:24] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[52:16] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[53:57] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[54:32] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[45:15] Speaker 1: Ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ.
+
+
+
+[46:11] Speaker 1: YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[46:33] Speaker 1: "Belajar eh." Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik.
+
+
+
+[47:11] Speaker 1: Dan dah monetise juga eh?
+
+
+
+[47:21] Speaker 1: Ah saya punya yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[47:58] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize.
+
+
+
+[48:19] Speaker 1: Belum belum ni, saya nanti tak apa selepas.
+
+
+
+[48:47] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[49:15] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1000 subscribe, 4000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4000 jam tu dia lebih kurang dalam 1000 1000 ah 1000 berapa. 1000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[50:18] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[51:24] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[52:16] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[53:57] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[54:32] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [55:04] Speaker 1: Sorry sorry. Still.
-[55:18] Speaker 1: "Eh, macam mana saya nak jawab eh?" Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[57:12] Speaker 1: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[58:24] Speaker 1: Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[55:18] Speaker 1: "Eh, macam mana saya nak jawab eh?" Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[57:12] Speaker 1: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[58:24] Speaker 1: Yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [59:04] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [59:34] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[59:58] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
-[1:00:53] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah. 
-[1:02:18] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM. 
-[1:03:55] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh? 
-[1:04:55] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[1:05:32] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas. 
-[1:06:05] Speaker 1: Jadi kena belajar dengan Daniel. 
-[1:06:51] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[1:07:46] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[1:08:49] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[1:10:04] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[1:11:47] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[1:12:47] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[59:58] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
+[1:00:53] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
+
+
+
+[1:02:18] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[1:03:55] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh?
+
+
+
+[1:04:55] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[1:05:32] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas.
+
+
+
+[1:06:05] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[1:06:51] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[1:07:46] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[1:08:49] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[1:10:04] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[1:11:47] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[1:12:47] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [1:13:38] Speaker 1: Sorry sorry. Still.
-[1:14:18] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[1:16:03] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[1:16:16] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[1:14:18] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[1:16:03] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[1:16:16] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [1:16:33] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [1:16:42] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[1:16:45] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
-[1:17:28] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah. 
-[1:18:47] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM. 
-[1:20:25] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh? 
-[1:21:26] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[1:22:18] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas. 
-[1:22:50] Speaker 1: Jadi kena belajar dengan Daniel. 
-[1:23:30] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[1:24:49] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[1:25:52] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[1:27:08] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[1:28:49] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[1:29:26] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[1:16:45] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
+[1:17:28] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
+
+
+
+[1:18:47] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[1:20:25] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh?
+
+
+
+[1:21:26] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[1:22:18] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas.
+
+
+
+[1:22:50] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[1:23:30] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[1:24:49] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[1:25:52] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[1:27:08] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[1:28:49] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[1:29:26] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [1:30:17] Speaker 1: Sorry sorry. Still.
-[1:31:00] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[1:32:05] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[1:32:19] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[1:31:00] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[1:32:05] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[1:32:19] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [1:33:01] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [1:33:10] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[1:33:13] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
-[1:33:55] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah. 
-[1:35:16] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM. 
-[1:36:58] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh? 
-[1:37:58] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[1:38:51] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas. 
-[1:39:24] Speaker 1: Jadi kena belajar dengan Daniel. 
-[1:40:08] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[1:41:07] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[1:42:10] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[1:43:13] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[1:44:55] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[1:45:31] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[1:33:13] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
+[1:33:55] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
+
+
+
+[1:35:16] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[1:36:58] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh?
+
+
+
+[1:37:58] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[1:38:51] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas.
+
+
+
+[1:39:24] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[1:40:08] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[1:41:07] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[1:42:10] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[1:43:13] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[1:44:55] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[1:45:31] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [1:46:14] Speaker 1: Sorry sorry. Still.
-[1:47:04] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[1:48:19] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[1:49:03] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[1:47:04] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[1:48:19] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[1:49:03] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [1:49:46] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [1:49:55] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[1:49:58] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
-[1:50:41] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah. 
-[1:52:03] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM. 
-[1:53:46] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh? 
-[1:54:46] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise. 
-[1:55:39] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas. 
-[1:56:12] Speaker 1: Jadi kena belajar dengan Daniel. 
-[1:56:56] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang. 
-[1:57:54] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?" 
-[1:58:58] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan. 
-[2:00:12] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia. 
-[2:01:56] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial. 
-[2:02:35] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni. 
+
+
+
+[1:49:58] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
+[1:50:41] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
+
+
+
+[1:52:03] Speaker 1: Macam YB dia ada pengalaman ah dia macam kita cakap tadi lah, kita dah jadi pemengaruh ni, kalau orang tak tengok apa segala macam ni, nak tengok apa yang kita nak ulas itu sebenarnya. Apa yang kita bahas itu kan. Jadi itu yang saya nampaklah dan baiklah. ah, kalau saya nak cakap lebih eh untuk kita nak, nak cakap J-KOM ni nanti nanti orang kata kritik kritik kan. Dia cakap, "eh, dia orang ni berlakon eh." Tapi benda ni ada teknik. Sebab itu perlu belajar dengan, bukan saya kata saya pandailah, tapi mungkin dengan kami boleh boleh kita boleh ni kan sebenarnya benda itu. Sebab itu kenapa kita agak lemau lah di situ. YB tahu ni tapi dia tak nak ajar J-KOM.
+
+
+
+[1:53:46] Speaker 1: Belajar. Ah. Dia dia dia tahu dia tahu. Saya yakin. Baik baik baik baik. Dan dah monetise juga eh?
+
+
+
+[1:54:46] Speaker 1: Ah saya punya, yalah. 100 lebih. Takkanlah tidak. Jadi satu-satunya orang yang tak monetise ni adalah saudara Rafizi. Walaupun dia dah banyak, tapi dia tak monetise.
+
+
+
+[1:55:39] Speaker 1: Patutnya kau kena monetise lah, rugilah. Kau tak monetize. Oh belum belum eh. Saya nanti, tak apa selepas.
+
+
+
+[1:56:12] Speaker 1: Jadi kena belajar dengan Daniel.
+
+
+
+[1:56:56] Speaker 1: Selepas ni kita tengok kenapa dia jadi macam tu. Dia dia punya syarat YouTube untuk monetise ni, ah satu, dia bagi kita ni mudahlah sekarang ni macam YB dah mudah. Dia syarat dia satu a, dua, dia satu ah 1,000 subscribe, 4,000 jam tayangan. Saya ingat hari pertama dia buat video tu dah dah monetise dah pun. 4,000 jam tu dia lebih kurang dalam 1,000 1,000 ah 1,000 berapa. 1,000 satu video tu, ah 10,000 viewer tu dah dah dapat dah orang.
+
+
+
+[1:57:54] Speaker 1: Macam mana boleh? Saya dah saya terkejut juga, oh. Untunglah ni. Tak tak tak terpikir kan, tadi buat terpikir eh, "Kenapa pula aku punya YouTube ni tak boleh monetise?"
+
+
+
+[1:58:58] Speaker 1: So, ah, yang yang menonton dekat luar, lepas ni ni nak selit sedikit ah iklanlah kan.
+
+
+
+[2:00:12] Speaker 1: Ah, lepas ni yang mengenai Ayuh Malaysia kan selain podcast ni, podcastlah. Tapi selepas ini setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan ah live TV yang kita akan siarkan ah di YouTube saya dan juga YouTube Ayuh Malaysia.
+
+
+
+[2:01:56] Speaker 1: Jadi ah, kena minta subscribe di kedua-duanya dan juga kena minta ah tolong tonton kerana bila kita monetise duit tu tak datang kepada sayalah. Dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu ah, ah orang kat bawah yang cuba mengusahakan perusahaan sosial.
+
+
+
+[2:02:35] Speaker 1: ah tadi dia cerita monetise ni sebab aku tak fikir macam mana nak bayar. Bagilah Daniel jawab dululah. Aku tengah menunggu jawapan daripada Daniel ni.
+
+
+
 [2:03:19] Speaker 1: Sorry sorry. Still.
-[2:04:01] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan. 
-[2:05:04] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh. 
-[2:05:18] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu? 
+
+
+
+[2:04:01] Speaker 1: Ah macam mana saya nak jawab eh? Sebab soalan saya tu bukan soalan soalan. Ah. Tak habis, ah dia bukan soalan juga macam mana saya nak jawab. Tapi ah, ah dia macam nilah. ah, kalau daripada segi, ah YouTube lah yang kita sebut tadi tu, ah memang adalah dua kali, tiga kali lah tak silap saya. Daripada pihak YouTube Malaysialah, dia ada, dia buat eh video macam video call lah. So, dia buat temujanji. So, dia tanya saya benda tu kan. Saya cakap saya tanyalah sebab kenapa tiba-tiba pihak YouTube telefon kan. ah dan ah melalui email waktu tu. Saya ingat scammer lah, mula-mula saya tak layan. Ada dua tiga bulan je tak layan kan. So, saya check balik email tu dan dia cakap dia YouTube Malaysialah. Saya cakap okey lah. So dia, dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah dan saya, saya tanya kenapa saya kan terpilih kan? Sebab ada 10 orang kamu orang ah YouTube daripada Malaysia, YouTuber Malaysia yang politik dia kata waktu tu. So saya pun terkejutlah sebab saya saya rasa saya bukan orangnya kan. Banyak lagi orang lain tu saya fikir macam tu lah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
+
+
+
+[2:05:04] Speaker 2: Ini sepatutnya dah jadi orang besar J-KOM eh.
+
+
+
+[2:05:18] Speaker 1: Ah, yang yang J-KOM tu ada tak yang dalam yang YouTube pilih tu?
+
+
+
 [2:06:01] Speaker 1: Iswadi mungkin tak eh?
+
+
+
 [2:06:10] Speaker 1: Oh Iswadi bukan J-KOM eh?
-[2:06:13] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak. 
+
+
+
+[2:06:13] Speaker 1: Ah tak ada. Iswadi lah. Semua orang Sarawak.
+
+
+
 [2:06:55] Speaker 1: Dia, kita nak cerita ke situ dulu ke, macam mana eh? Tapi kalau kita nak cerita benda nilah, saya saya sebab saya bermula daripada bawah tahu. Ah macam YB Rafizi, dia bukan bermula daripada bawah. Dia, dia dah ada nama besar. Ah, dia dah ada nama besar, kalau dia buat apa pun, jadilah dia punya kan. Kami ni kami ni yang yang betul-betul daripada bawah ni yang merintis orang kata pemengaruh daripada bawah ni kan. Ah, buat YouTube ni, memang ah kita nampak banyak hal tahu. Ah betul-betul kita nampaklah.
 

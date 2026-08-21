@@ -237,6 +237,17 @@ def _trim_dangling_fragment(text):
     return "\n\n".join(blocks) + "\n"
 
 
+def _normalize_turn_breaks(text):
+    """The model can occasionally omit the blank line between speaker turns,
+    producing one run-on paragraph with no "\n\n" anywhere. That silently
+    defeats _split_into_chunks (which splits on "\n\n"), letting an oversized
+    block bypass chunking entirely and get sent to the model in a single call
+    -- exactly the failure mode CHUNK_CHARS exists to prevent. Force a blank
+    line before every timestamp marker so each turn is its own paragraph."""
+    text = re.sub(r"[ \t\n]*(?=\[(?:\d+:)?\d+:\d+\])", "\n\n", text)
+    return text.lstrip("\n")
+
+
 def transcribe_raw(client, audio_file, duration_human, duration_seconds):
     prompt = RAW_PROMPT_TEMPLATE.format(duration=duration_human)
     audio_part = types.Part(file_data=types.FileData(file_uri=audio_file.uri, mime_type=audio_file.mime_type))
@@ -268,7 +279,7 @@ def transcribe_raw(client, audio_file, duration_human, duration_seconds):
                     "hallucination loop, not real coverage)"
                 )
             if covered >= duration_seconds * 0.95:
-                return _trim_dangling_fragment(full_text)
+                return _trim_dangling_fragment(_normalize_turn_breaks(full_text))
             remaining_human = human_duration(max(duration_seconds - covered, 0))
             contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
             contents.append(types.Content(role="user", parts=[types.Part(text=(
@@ -291,6 +302,11 @@ CHUNK_CHARS = 40_000
 
 def _split_into_chunks(text, max_chars):
     blocks = text.split("\n\n")
+    # A "\n\n"-delimited block can itself exceed max_chars (e.g. a raw
+    # transcript missing turn breaks). Left alone it would bypass chunking
+    # entirely and get sent to the model in one oversized call -- hard-slice
+    # it so the size cap this function exists to enforce always holds.
+    blocks = [b[i:i + max_chars] for b in blocks for i in range(0, len(b), max_chars)] or [""]
     chunks = []
     current, current_len = [], 0
     for block in blocks:

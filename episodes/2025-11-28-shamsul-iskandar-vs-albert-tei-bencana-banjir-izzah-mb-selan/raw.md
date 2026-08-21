@@ -14,5 +14,7339 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[02:31] Speaker 1: Assalamualaikum dan selamat datang. Podcast yang berhenti menteri episod 24. Macam biasa bersama saudara Rafizi Ramli. Jadi sebelum mulakan episod ataupun segmen biasa YB, mungkin saya boleh tanya sikitlah. Ni ada orang tanya. [02:46] Minggu ni minggu terakhir kempen PRN Sabah. Oh. Ada yang tanya, YB Rafizi pertama, YB Rafizi tak turun kempen sekali ke? Kedua, kalau tidak ada tak mana-mana orang parti ke apa yang tag YB, YB tolonglah turun sekali ataupun jemputlah turun sekali kempen. [03:05] Ada saja tapi saya tak rasa saya menambah nilai. Sebab dia bergantung kepada jentera juga. Daripada pemilihan parti yang lepas tu kita tahulah yang bahawa keseluruhan jentera dan juga pimpinan parti ni mesej yang diberikan dan juga dengan segala cerita yang berlaku di belakang tabir pemilihan itu daripada sistem dia semua itu. [03:40] Maksudnya pemimpin seperti saya ni tidak dikehendaki. Jadi kalau you turun pun bila keseluruhan jentera itu adalah mereka yang lebih benci kepada saya daripada mereka benci kepada PAS, PN dan UMNO. Jadi dia tidak akan membantu siapa-siapalah. Jadi dia banyak cara untuk kita menyumbangkan. Jadi orang Sabah saya ingat banyak aje yang menonton podcast ni. Jadi saya menyumbang dengan memberi gambaran bahawa masih ada lagi saki baki semangat reformasi dalam PKR ni kan. Kot hati mereka terbuka untuk mengundi PKR lah. [04:28] Esok? [04:29] Esok insya-Allah. Baik YB. Kita terus ke segmen yang [04:34] Ada satu lagi, ada satu lagi sebab juga yang dahlah alang-alang tanya, alang-alang tanya. [04:41] Yalah saya berpengalamanlah menjaga pilihan raya ni daripada tahun 2011 dan antara pilihan raya pertama yang saya terlibat dengan dekat adalah Pilihan Raya Negeri Sarawak 2011. Satu lagi sebab yang saya rasa tidak ada keperluan untuk saya turun, kerana sebenarnya pengundi di Sabah dan Sarawak ni mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan sebab mereka nak orang tempatan. [05:54] Jadi dia jadi cash 22 tahu sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan Saifuddin Nasution. [06:40] Jadi kalau tidak berhati-hati itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu, saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [07:19] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah tapi kita tak boleh nak paksa mereka buat sesuatu kan. Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [07:48] Calon pun ada? [07:49] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [07:54] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa, sikit. [07:57] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa, hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [08:15] Saya selalunya tak layan sangat, itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ, semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [09:14] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [10:04] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [10:21] Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria, tadi dah kira intro beria beria kau tanya soalan kan? [10:27] Okey. [10:35] Yang pertama. [10:46] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [10:48] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [11:15] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [11:37] Ah, so tengah banjir. [11:40] Ni kawan kau ke apa ni kantoi dengan isteri ni? [11:43] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [11:49] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [12:03] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [12:13] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [12:20] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [12:25] Macam-macam. [12:26] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [12:31] Dia what is the pronunciation Haknyai ke Haknyai? [12:33] Dia orang kata Haknyai cuma orang kita Haknyai. [12:36] Oh dia Haknyai. [12:37] Haknyai. [12:38] Ni, aku saja nak test siapa yang selalu pergi ni. [12:43] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [12:48] Oh AMK. tak jemput saya. [12:51] Sampai hati. [12:52] So apa cerita ni? [12:53] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [13:01] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [13:06] Sebab apa orang bawa motor besar pergi Haknyai? [13:07] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [13:12] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [13:17] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [13:21] 60km dari Bukit Kayu Hitam. [13:25] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [13:28] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [14:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [15:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [15:25] Ratus ke puluh? [15:27] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [15:31] 4000? [15:32] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [15:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [15:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [16:04] Gila. Alright. Okey. [16:08] Beria YB. [16:09] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [16:17] Okey baik. [16:18] Next. [16:19] Pilihan Raya. [16:20] Rakyat, please buat election hari-hari. [16:24] Yang ini video ni video dia tengah baiki apa ni? [16:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [16:32] Oh ini Satu lagi dekat nilah, bersihkan. [16:35] Oh bersihkan. [16:37] Ada satu yang kita tak masuk. [16:38] Apa lagi yang beria ni? [16:40] Datuk Seri Shafie Apdal. [16:41] Baiki jalan. Baiki jalan. Baiki jalan. [16:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [17:11] So calon kena pergi. [17:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [17:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [17:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [18:02] Suka gimik. [18:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [18:07] Ah. [18:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [18:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [18:29] Bagi saya benda itu feudal sangat. [18:32] Dia bekerja, aku bekerja. Dia ada kerja dia. [18:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. [18:50] Ha. [18:51] Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya. Kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [19:24] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [20:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [21:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [21:38] Calon pun ada? [21:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [21:47] Okey. Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [21:55] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [22:15] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [23:09] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [23:44] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [24:02] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [24:14] Okey. [24:17] Yang pertama. [24:23] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [24:26] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [24:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [25:05] Ah, so tengah banjir. [25:09] Ni kawan kau ke apa ni kantoi dengan isteri ni? [25:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [25:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [25:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [25:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [25:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [25:52] Macam-macam. [25:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [25:58] Dia what is the pronunciation Haknyai ke Haknyai? [26:01] Dia orang kata Haknyai cuma orang kita Haknyai. [26:04] Oh dia Haknyai. [26:06] Haknyai. [26:07] Ni, aku saja nak test siapa yang selalu pergi ni. [26:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [26:18] Oh AMK. tak jemput saya. [26:21] Sampai hati. [26:22] So apa cerita ni? [26:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [26:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [26:40] Sebab apa orang bawa motor besar pergi Haknyai? [26:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [26:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [26:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [26:56] 60km dari Bukit Kayu Hitam. [27:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [27:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [27:44] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [28:09] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [28:34] Ratus ke puluh? [28:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [28:40] 4000? [28:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [28:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [29:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [29:13] Gila. Alright. Okey. [29:17] Beria YB. [29:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [29:26] Okey baik. [29:27] Next. [29:28] Pilihan Raya. [29:30] Rakyat, please buat election hari-hari. [29:34] Yang ini video ni video dia tengah baiki apa ni? [29:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [29:42] Oh ini Satu lagi dekat nilah, bersihkan. [29:45] Oh bersihkan. [29:47] Ada satu yang kita tak masuk. [29:48] Apa lagi yang beria ni? [29:50] Datuk Seri Shafie Apdal. [29:51] Baiki jalan. Baiki jalan. Baiki jalan. [29:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [30:21] So calon kena pergi. [30:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [30:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [30:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [31:12] Suka gimik. [31:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [31:17] Ah. [31:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [31:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [31:39] Bagi saya benda itu feudal sangat. [31:42] Dia bekerja, aku bekerja. Dia ada kerja dia. [31:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [32:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [33:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [34:19] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [34:48] Calon pun ada? [34:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [34:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [35:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [35:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [36:13] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [36:48] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [37:06] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [37:16] Okey. [37:21] Yang pertama. [37:32] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [37:35] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [37:55] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [38:15] Ah, so tengah banjir. [38:19] Ni kawan kau ke apa ni kantoi dengan isteri ni? [38:22] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [38:26] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [38:45] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [38:50] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [38:57] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [39:02] Macam-macam. [39:05] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [39:08] Dia what is the pronunciation Haknyai ke Haknyai? [39:11] Dia orang kata Haknyai cuma orang kita Haknyai. [39:14] Oh dia Haknyai. [39:16] Haknyai. [39:17] Ni, aku saja nak test siapa yang selalu pergi ni. [39:22] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [39:28] Oh AMK. tak jemput saya. [39:31] Sampai hati. [39:32] So apa cerita ni? [39:36] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [39:44] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [39:50] Sebab apa orang bawa motor besar pergi Haknyai? [39:51] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [39:57] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [40:01] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [40:06] 60km dari Bukit Kayu Hitam. [40:10] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [40:13] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [40:53] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [41:18] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [41:34] Ratus ke puluh? [41:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [41:40] 4000? [41:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [41:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [42:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [42:13] Gila. Alright. Okey. [42:17] Beria YB. [42:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [42:26] Okey baik. [42:27] Next. [42:28] Pilihan Raya. [42:30] Rakyat, please buat election hari-hari. [42:34] Yang ini video ni video dia tengah baiki apa ni? [42:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [42:42] Oh ini Satu lagi dekat nilah, bersihkan. [42:45] Oh bersihkan. [42:47] Ada satu yang kita tak masuk. [42:48] Apa lagi yang beria ni? [42:50] Datuk Seri Shafie Apdal. [42:51] Baiki jalan. Baiki jalan. Baiki jalan. [42:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [43:21] So calon kena pergi. [43:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [43:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [43:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [44:12] Suka gimik. [44:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [44:17] Ah. [44:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [44:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [44:39] Bagi saya benda itu feudal sangat. [44:42] Dia bekerja, aku bekerja. Dia ada kerja dia. [44:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [45:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [46:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [47:24] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [47:53] Calon pun ada? [47:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [48:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [48:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [48:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [49:18] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [49:54] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [50:12] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [50:22] Okey. [50:26] Yang pertama. [50:37] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [50:40] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [51:00] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [51:21] Ah, so tengah banjir. [51:24] Ni kawan kau ke apa ni kantoi dengan isteri ni? [51:28] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [51:32] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [51:51] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [51:55] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [52:03] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [52:08] Macam-macam. [52:10] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [52:14] Dia what is the pronunciation Haknyai ke Haknyai? [52:17] Dia orang kata Haknyai cuma orang kita Haknyai. [52:20] Oh dia Haknyai. [52:21] Haknyai. [52:23] Ni, aku saja nak test siapa yang selalu pergi ni. [52:28] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [52:33] Oh AMK. tak jemput saya. [52:37] Sampai hati. [52:38] So apa cerita ni? [52:42] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [52:50] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [52:56] Sebab apa orang bawa motor besar pergi Haknyai? [52:57] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [53:02] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [53:07] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [53:11] 60km dari Bukit Kayu Hitam. [53:15] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [53:19] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [53:59] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [54:23] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [54:39] Ratus ke puluh? [54:41] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [54:45] 4000? [54:46] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [55:00] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [55:13] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [55:18] Gila. Alright. Okey. [55:22] Beria YB. [55:23] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [55:31] Okey baik. [55:32] Next. [55:33] Pilihan Raya. [55:35] Rakyat, please buat election hari-hari. [55:39] Yang ini video ni video dia tengah baiki apa ni? [55:42] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [55:47] Oh ini Satu lagi dekat nilah, bersihkan. [55:50] Oh bersihkan. [55:52] Ada satu yang kita tak masuk. [55:53] Apa lagi yang beria ni? [55:55] Datuk Seri Shafie Apdal. [55:56] Baiki jalan. Baiki jalan. Baiki jalan. [56:01] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [56:26] So calon kena pergi. [56:28] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [56:38] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [56:56] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [57:17] Suka gimik. [57:19] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [57:22] Ah. [57:23] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [57:30] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [57:44] Bagi saya benda itu feudal sangat. [57:47] Dia bekerja, aku bekerja. Dia ada kerja dia. [57:50] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [58:59] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [59:45] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:00:10] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:00:53] Calon pun ada? [1:00:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:01:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:01:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:01:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:02:18] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:02:53] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:03:11] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:03:21] Okey. [1:03:26] Yang pertama. [1:03:37] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:03:40] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:04:00] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:04:20] Ah, so tengah banjir. [1:04:24] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:04:27] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:04:31] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:04:50] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:04:55] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:05:02] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:05:07] Macam-macam. [1:05:10] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:05:13] Dia what is the pronunciation Haknyai ke Haknyai? [1:05:16] Dia orang kata Haknyai cuma orang kita Haknyai. [1:05:19] Oh dia Haknyai. [1:05:21] Haknyai. [1:05:22] Ni, aku saja nak test siapa yang selalu pergi ni. [1:05:27] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:05:33] Oh AMK. tak jemput saya. [1:05:36] Sampai hati. [1:05:37] So apa cerita ni? [1:05:41] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:05:49] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:05:55] Sebab apa orang bawa motor besar pergi Haknyai? [1:05:56] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:06:02] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:06:06] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:06:11] 60km dari Bukit Kayu Hitam. [1:06:15] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:06:18] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:06:58] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:07:23] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:07:39] Ratus ke puluh? [1:07:41] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:07:45] 4000? [1:07:46] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:08:00] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:08:13] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:08:18] Gila. Alright. Okey. [1:08:22] Beria YB. [1:08:23] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:08:31] Okey baik. [1:08:32] Next. [1:08:33] Pilihan Raya. [1:08:35] Rakyat, please buat election hari-hari. [1:08:39] Yang ini video ni video dia tengah baiki apa ni? [1:08:42] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:08:47] Oh ini Satu lagi dekat nilah, bersihkan. [1:08:50] Oh bersihkan. [1:08:52] Ada satu yang kita tak masuk. [1:08:53] Apa lagi yang beria ni? [1:08:55] Datuk Seri Shafie Apdal. [1:08:56] Baiki jalan. Baiki jalan. Baiki jalan. [1:09:01] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:09:26] So calon kena pergi. [1:09:28] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:09:38] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:09:56] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:10:17] Suka gimik. [1:10:19] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:10:22] Ah. [1:10:23] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:10:30] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:10:44] Bagi saya benda itu feudal sangat. [1:10:47] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:10:50] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:11:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:12:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:13:24] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:13:53] Calon pun ada? [1:13:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:14:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:14:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:14:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:15:13] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:15:48] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:16:06] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:16:16] Okey. [1:16:21] Yang pertama. [1:16:32] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:16:35] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:16:55] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:17:15] Ah, so tengah banjir. [1:17:19] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:17:22] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:17:26] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:17:45] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:17:50] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:17:57] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:18:02] Macam-macam. [1:18:05] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:18:08] Dia what is the pronunciation Haknyai ke Haknyai? [1:18:11] Dia orang kata Haknyai cuma orang kita Haknyai. [1:18:14] Oh dia Haknyai. [1:18:16] Haknyai. [1:18:17] Ni, aku saja nak test siapa yang selalu pergi ni. [1:18:22] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:18:28] Oh AMK. tak jemput saya. [1:18:31] Sampai hati. [1:18:32] So apa cerita ni? [1:18:36] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:18:44] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:18:50] Sebab apa orang bawa motor besar pergi Haknyai? [1:18:51] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:18:57] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:19:01] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:19:06] 60km dari Bukit Kayu Hitam. [1:19:10] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:19:13] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:19:53] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:20:18] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:20:34] Ratus ke puluh? [1:20:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:20:40] 4000? [1:20:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:20:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:21:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:21:13] Gila. Alright. Okey. [1:21:17] Beria YB. [1:21:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:21:26] Okey baik. [1:21:27] Next. [1:21:28] Pilihan Raya. [1:21:30] Rakyat, please buat election hari-hari. [1:21:34] Yang ini video ni video dia tengah baiki apa ni? [1:21:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:21:42] Oh ini Satu lagi dekat nilah, bersihkan. [1:21:45] Oh bersihkan. [1:21:47] Ada satu yang kita tak masuk. [1:21:48] Apa lagi yang beria ni? [1:21:50] Datuk Seri Shafie Apdal. [1:21:51] Baiki jalan. Baiki jalan. Baiki jalan. [1:21:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:22:21] So calon kena pergi. [1:22:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:22:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:22:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:23:12] Suka gimik. [1:23:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:23:17] Ah. [1:23:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:23:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:23:39] Bagi saya benda itu feudal sangat. [1:23:42] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:23:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:24:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:25:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:26:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:26:43] Calon pun ada? [1:26:47] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:26:52] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:26:56] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:27:16] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:28:03] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:28:38] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:28:56] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:29:06] Okey. [1:29:11] Yang pertama. [1:29:22] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:29:25] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:29:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:30:05] Ah, so tengah banjir. [1:30:09] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:30:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:30:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:30:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:30:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:30:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:30:52] Macam-macam. [1:30:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:30:58] Dia what is the pronunciation Haknyai ke Haknyai? [1:31:01] Dia orang kata Haknyai cuma orang kita Haknyai. [1:31:04] Oh dia Haknyai. [1:31:06] Haknyai. [1:31:07] Ni, aku saja nak test siapa yang selalu pergi ni. [1:31:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:31:18] Oh AMK. tak jemput saya. [1:31:21] Sampai hati. [1:31:22] So apa cerita ni? [1:31:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:31:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:31:40] Sebab apa orang bawa motor besar pergi Haknyai? [1:31:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:31:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:31:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:31:56] 60km dari Bukit Kayu Hitam. [1:32:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:32:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:32:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:33:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:33:24] Ratus ke puluh? [1:33:26] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:33:30] 4000? [1:33:31] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:33:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:33:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:34:03] Gila. Alright. Okey. [1:34:07] Beria YB. [1:34:08] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:34:16] Okey baik. [1:34:17] Next. [1:34:18] Pilihan Raya. [1:34:20] Rakyat, please buat election hari-hari. [1:34:24] Yang ini video ni video dia tengah baiki apa ni? [1:34:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:34:32] Oh ini Satu lagi dekat nilah, bersihkan. [1:34:35] Oh bersihkan. [1:34:37] Ada satu yang kita tak masuk. [1:34:38] Apa lagi yang beria ni? [1:34:40] Datuk Seri Shafie Apdal. [1:34:41] Baiki jalan. Baiki jalan. Baiki jalan. [1:34:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:35:11] So calon kena pergi. [1:35:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:35:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:35:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:36:02] Suka gimik. [1:36:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:36:07] Ah. [1:36:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:36:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:36:29] Bagi saya benda itu feudal sangat. [1:36:32] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:36:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:37:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:38:30] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:39:10] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:39:38] Calon pun ada? [1:39:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:39:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:39:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:40:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:40:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:41:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:41:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:42:01] Okey. [1:42:06] Yang pertama. [1:42:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:42:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:42:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:43:00] Ah, so tengah banjir. [1:43:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:43:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:43:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:43:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:43:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:43:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:43:47] Macam-macam. [1:43:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:43:53] Dia what is the pronunciation Haknyai ke Haknyai? [1:43:56] Dia orang kata Haknyai cuma orang kita Haknyai. [1:43:59] Oh dia Haknyai. [1:44:01] Haknyai. [1:44:02] Ni, aku saja nak test siapa yang selalu pergi ni. [1:44:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:44:13] Oh AMK. tak jemput saya. [1:44:16] Sampai hati. [1:44:17] So apa cerita ni? [1:44:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:44:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:44:35] Sebab apa orang bawa motor besar pergi Haknyai? [1:44:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:44:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:44:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:44:51] 60km dari Bukit Kayu Hitam. [1:44:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:44:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:45:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:46:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:46:19] Ratus ke puluh? [1:46:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:46:25] 4000? [1:46:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:46:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:46:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:46:58] Gila. Alright. Okey. [1:47:02] Beria YB. [1:47:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:47:11] Okey baik. [1:47:12] Next. [1:47:13] Pilihan Raya. [1:47:15] Rakyat, please buat election hari-hari. [1:47:19] Yang ini video ni video dia tengah baiki apa ni? [1:47:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:47:27] Oh ini Satu lagi dekat nilah, bersihkan. [1:47:30] Oh bersihkan. [1:47:32] Ada satu yang kita tak masuk. [1:47:33] Apa lagi yang beria ni? [1:47:35] Datuk Seri Shafie Apdal. [1:47:36] Baiki jalan. Baiki jalan. Baiki jalan. [1:47:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:48:06] So calon kena pergi. [1:48:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:48:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:48:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:48:57] Suka gimik. [1:48:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:49:02] Ah. [1:49:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:49:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:49:24] Bagi saya benda itu feudal sangat. [1:49:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:49:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:50:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:51:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:52:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:52:38] Calon pun ada? [1:52:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:52:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:52:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:53:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:54:03] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:54:38] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:54:56] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:55:06] Okey. [1:55:11] Yang pertama. [1:55:22] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:55:25] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:55:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:56:05] Ah, so tengah banjir. [1:56:09] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:56:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:56:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:56:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:56:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:56:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:56:52] Macam-macam. [1:56:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:56:58] Dia what is the pronunciation Haknyai ke Haknyai? [1:57:01] Dia orang kata Haknyai cuma orang kita Haknyai. [1:57:04] Oh dia Haknyai. [1:57:06] Haknyai. [1:57:07] Ni, aku saja nak test siapa yang selalu pergi ni. [1:57:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:57:18] Oh AMK. tak jemput saya. [1:57:21] Sampai hati. [1:57:22] So apa cerita ni? [1:57:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:57:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:57:40] Sebab apa orang bawa motor besar pergi Haknyai? [1:57:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:57:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:57:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:57:56] 60km dari Bukit Kayu Hitam. [1:58:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:58:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:58:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:59:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:59:24] Ratus ke puluh? [1:59:26] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:59:30] 4000? [1:59:31] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:59:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:59:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:00:03] Gila. Alright. Okey. [2:00:07] Beria YB. [2:00:08] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:00:16] Okey baik. [2:00:17] Next. [2:00:18] Pilihan Raya. [2:00:20] Rakyat, please buat election hari-hari. [2:00:24] Yang ini video ni video dia tengah baiki apa ni? [2:00:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:00:32] Oh ini Satu lagi dekat nilah, bersihkan. [2:00:35] Oh bersihkan. [2:00:37] Ada satu yang kita tak masuk. [2:00:38] Apa lagi yang beria ni? [2:00:40] Datuk Seri Shafie Apdal. [2:00:41] Baiki jalan. Baiki jalan. Baiki jalan. [2:00:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:01:11] So calon kena pergi. [2:01:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:01:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:01:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:02:02] Suka gimik. [2:02:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:02:07] Ah. [2:02:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:02:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:02:29] Bagi saya benda itu feudal sangat. [2:02:32] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:02:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:03:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:04:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:05:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:05:38] Calon pun ada? [2:05:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:05:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:05:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:06:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:06:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:07:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:07:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:08:01] Okey. [2:08:06] Yang pertama. [2:08:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:08:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:08:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:09:00] Ah, so tengah banjir. [2:09:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:09:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:09:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:09:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:09:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:09:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:09:47] Macam-macam. [2:09:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:09:53] Dia what is the pronunciation Haknyai ke Haknyai? [2:09:56] Dia orang kata Haknyai cuma orang kita Haknyai. [2:09:59] Oh dia Haknyai. [2:10:01] Haknyai. [2:10:02] Ni, aku saja nak test siapa yang selalu pergi ni. [2:10:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:10:13] Oh AMK. tak jemput saya. [2:10:16] Sampai hati. [2:10:17] So apa cerita ni? [2:10:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:10:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:10:35] Sebab apa orang bawa motor besar pergi Haknyai? [2:10:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:10:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:10:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:10:51] 60km dari Bukit Kayu Hitam. [2:10:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:10:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:11:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:12:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:12:19] Ratus ke puluh? [2:12:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:12:25] 4000? [2:12:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:12:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:12:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:12:58] Gila. Alright. Okey. [2:13:02] Beria YB. [2:13:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:13:11] Okey baik. [2:13:12] Next. [2:13:13] Pilihan Raya. [2:13:15] Rakyat, please buat election hari-hari. [2:13:19] Yang ini video ni video dia tengah baiki apa ni? [2:13:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:13:27] Oh ini Satu lagi dekat nilah, bersihkan. [2:13:30] Oh bersihkan. [2:13:32] Ada satu yang kita tak masuk. [2:13:33] Apa lagi yang beria ni? [2:13:35] Datuk Seri Shafie Apdal. [2:13:36] Baiki jalan. Baiki jalan. Baiki jalan. [2:13:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:14:06] So calon kena pergi. [2:14:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:14:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:14:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:14:57] Suka gimik. [2:14:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:15:02] Ah. [2:15:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:15:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:15:24] Bagi saya benda itu feudal sangat. [2:15:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:15:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:16:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:17:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:18:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:18:38] Calon pun ada? [2:18:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:18:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:18:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:19:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:19:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:20:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:20:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:21:01] Okey. [2:21:06] Yang pertama. [2:21:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:21:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:21:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:22:00] Ah, so tengah banjir. [2:22:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:22:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:22:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:22:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:22:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:22:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:22:47] Macam-macam. [2:22:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:22:53] Dia what is the pronunciation Haknyai ke Haknyai? [2:22:56] Dia orang kata Haknyai cuma orang kita Haknyai. [2:22:59] Oh dia Haknyai. [2:23:01] Haknyai. [2:23:02] Ni, aku saja nak test siapa yang selalu pergi ni. [2:23:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:23:13] Oh AMK. tak jemput saya. [2:23:16] Sampai hati. [2:23:17] So apa cerita ni? [2:23:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:23:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:23:35] Sebab apa orang bawa motor besar pergi Haknyai? [2:23:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:23:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:23:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:23:51] 60km dari Bukit Kayu Hitam. [2:23:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:23:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:24:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:25:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:25:19] Ratus ke puluh? [2:25:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:25:25] 4000? [2:25:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:25:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:25:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:25:58] Gila. Alright. Okey. [2:26:02] Beria YB. [2:26:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:26:11] Okey baik. [2:26:12] Next. [2:26:13] Pilihan Raya. [2:26:15] Rakyat, please buat election hari-hari. [2:26:19] Yang ini video ni video dia tengah baiki apa ni? [2:26:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:26:27] Oh ini Satu lagi dekat nilah, bersihkan. [2:26:30] Oh bersihkan. [2:26:32] Ada satu yang kita tak masuk. [2:26:33] Apa lagi yang beria ni? [2:26:35] Datuk Seri Shafie Apdal. [2:26:36] Baiki jalan. Baiki jalan. Baiki jalan. [2:26:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:27:06] So calon kena pergi. [2:27:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:27:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:27:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:27:57] Suka gimik. [2:27:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:28:02] Ah. [2:28:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:28:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:28:24] Bagi saya benda itu feudal sangat. [2:28:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:28:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:29:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:30:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:31:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:31:38] Calon pun ada? [2:31:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:31:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:31:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:32:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:32:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:33:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:33:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:34:01] Okey. [2:34:06] Yang pertama. [2:34:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:34:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:34:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:35:00] Ah, so tengah banjir. [2:35:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:35:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:35:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:35:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:35:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:35:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:35:47] Macam-macam. [2:35:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:35:53] Dia what is the pronunciation Haknyai ke Haknyai? [2:35:56] Dia orang kata Haknyai cuma orang kita Haknyai. [2:35:59] Oh dia Haknyai. [2:36:01] Haknyai. [2:36:02] Ni, aku saja nak test siapa yang selalu pergi ni. [2:36:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:36:13] Oh AMK. tak jemput saya. [2:36:16] Sampai hati. [2:36:17] So apa cerita ni? [2:36:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:36:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:36:35] Sebab apa orang bawa motor besar pergi Haknyai? [2:36:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:36:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:36:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:36:51] 60km dari Bukit Kayu Hitam. [2:36:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:36:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:37:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:38:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:38:19] Ratus ke puluh? [2:38:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:38:25] 4000? [2:38:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:38:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:38:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:38:58] Gila. Alright. Okey. [2:39:02] Beria YB. [2:39:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:39:11] Okey baik. [2:39:12] Next. [2:39:13] Pilihan Raya. [2:39:15] Rakyat, please buat election hari-hari. [2:39:19] Yang ini video ni video dia tengah baiki apa ni? [2:39:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:39:27] Oh ini Satu lagi dekat nilah, bersihkan. [2:39:30] Oh bersihkan. [2:39:32] Ada satu yang kita tak masuk. [2:39:33] Apa lagi yang beria ni? [2:39:35] Datuk Seri Shafie Apdal. [2:39:36] Baiki jalan. Baiki jalan. Baiki jalan. [2:39:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:40:06] So calon kena pergi. [2:40:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:40:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:40:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:40:57] Suka gimik. [2:40:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:41:02] Ah. [2:41:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:41:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:41:24] Bagi saya benda itu feudal sangat. [2:41:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:41:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:42:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:43:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:44:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:44:38] Calon pun ada? [2:44:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:44:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:44:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:45:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:45:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:46:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:46:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:47:01] Okey. [2:47:06] Yang pertama. [2:47:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:47:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:47:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:48:00] Ah, so tengah banjir. [2:48:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:48:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:48:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:48:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:48:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:48:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:48:47] Macam-macam. [2:48:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:48:53] Dia what is the pronunciation Haknyai ke Haknyai? [2:48:56] Dia orang kata Haknyai cuma orang kita Haknyai. [2:48:59] Oh dia Haknyai. [2:49:01] Haknyai. [2:49:02] Ni, aku saja nak test siapa yang selalu pergi ni. [2:49:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:49:13] Oh AMK. tak jemput saya. [2:49:16] Sampai hati. [2:49:17] So apa cerita ni? [2:49:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:49:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:49:35] Sebab apa orang bawa motor besar pergi Haknyai? [2:49:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:49:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:49:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:49:51] 60km dari Bukit Kayu Hitam. [2:49:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:49:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:50:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:51:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:51:19] Ratus ke puluh? [2:51:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:51:25] 4000? [2:51:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:51:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:51:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:51:58] Gila. Alright. Okey. [2:52:02] Beria YB. [2:52:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:52:11] Okey baik. [2:52:12] Next. [2:52:13] Pilihan Raya. [2:52:15] Rakyat, please buat election hari-hari. [2:52:19] Yang ini video ni video dia tengah baiki apa ni? [2:52:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:52:27] Oh ini Satu lagi dekat nilah, bersihkan. [2:52:30] Oh bersihkan. [2:52:32] Ada satu yang kita tak masuk. [2:52:33] Apa lagi yang beria ni? [2:52:35] Datuk Seri Shafie Apdal. [2:52:36] Baiki jalan. Baiki jalan. Baiki jalan. [2:52:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:53:06] So calon kena pergi. [2:53:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:53:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:53:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:53:57] Suka gimik. [2:53:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:54:02] Ah. [2:54:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:54:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:54:24] Bagi saya benda itu feudal sangat. [2:54:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:54:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:55:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:56:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:57:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:57:38] Calon pun ada? [2:57:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:57:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:57:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:58:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:58:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:59:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:59:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [3:00:01] Okey. [3:00:06] Yang pertama. [3:00:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [3:00:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [3:00:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [3:01:00] Ah, so tengah banjir. [3:01:04] Ni kawan kau ke apa ni kantoi dengan isteri ni? [3:01:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [3:01:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [3:01:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [3:01:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [3:01:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [3:01:47] Macam-macam. [3:01:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [3:01:53] Dia what is the pronunciation Haknyai ke Haknyai? [3:01:56] Dia orang kata Haknyai cuma orang kita Haknyai. [3:01:59] Oh dia Haknyai. [3:02:01] Haknyai. [3:02:02] Ni, aku saja nak test siapa yang selalu pergi ni. [3:02:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [3:02:13] Oh AMK. tak jemput saya. [3:02:16] Sampai hati. [3:02:17] So apa cerita ni? [3:02:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [3:02:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [3:02:35] Sebab apa orang bawa motor besar pergi Haknyai? [3:02:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [3:02:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [3:02:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [3:02:51] 60km dari Bukit Kayu Hitam. [3:02:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [3:02:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [3:03:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [3:04:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [3:04:19] Ratus ke puluh? [3:04:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [3:04:25] 4000? [3:04:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [3:04:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [3:04:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [3:04:58] Gila. Alright. Okey. [3:05:02] Beria YB. [3:05:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [3:05:11] Okey baik. [3:05:12] Next. [3:05:13] Pilihan Raya. [3:05:15] Rakyat, please buat election hari-hari. [3:05:19] Yang ini video ni video dia tengah baiki apa ni? [3:05:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [3:05:27] Oh ini Satu lagi dekat nilah, bersihkan. [3:05:30] Oh bersihkan. [3:05:32] Ada satu yang kita tak masuk. [3:05:33] Apa lagi yang beria ni? [3:05:35] Datuk Seri Shafie Apdal. [3:05:36] Baiki jalan. Baiki jalan. Baiki jalan. [3:05:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [3:06:06] So calon kena pergi. [3:06:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [3:06:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [3:06:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [3:06:57] Suka gimik. [3:06:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [3:07:02] Ah. [3:07:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [3:07:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [3:07:24] Bagi saya benda itu feudal sangat. [3:07:27] Dia bekerja, aku bekerja. Dia ada kerja dia. [3:07:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [3:08:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [3:09:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [31:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [31:38] Calon pun ada? [31:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [31:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [31:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [32:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [33:09] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [33:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [34:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [34:11] Okey. [34:16] Yang pertama. [34:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [34:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [34:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [35:10] Ah, so tengah banjir. [35:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [35:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [35:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [35:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [35:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [35:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [35:57] Macam-macam. [36:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [36:03] Dia what is the pronunciation Haknyai ke Haknyai? [36:06] Dia orang kata Haknyai cuma orang kita Haknyai. [36:09] Oh dia Haknyai. [36:11] Haknyai. [36:12] Ni, aku saja nak test siapa yang selalu pergi ni. [36:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [36:23] Oh AMK. tak jemput saya. [36:26] Sampai hati. [36:27] So apa cerita ni? [36:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [36:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [36:45] Sebab apa orang bawa motor besar pergi Haknyai? [36:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [36:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [36:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [37:01] 60km dari Bukit Kayu Hitam. [37:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [37:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [37:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [38:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [38:29] Ratus ke puluh? [38:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [38:35] 4000? [38:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [38:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [39:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [39:08] Gila. Alright. Okey. [39:12] Beria YB. [39:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [39:21] Okey baik. [39:22] Next. [39:23] Pilihan Raya. [39:25] Rakyat, please buat election hari-hari. [39:29] Yang ini video ni video dia tengah baiki apa ni? [39:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [39:37] Oh ini Satu lagi dekat nilah, bersihkan. [39:40] Oh bersihkan. [39:42] Ada satu yang kita tak masuk. [39:43] Apa lagi yang beria ni? [39:45] Datuk Seri Shafie Apdal. [39:46] Baiki jalan. Baiki jalan. Baiki jalan. [39:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [40:16] So calon kena pergi. [40:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [40:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [40:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [41:07] Suka gimik. [41:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [41:12] Ah. [41:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [41:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [41:34] Bagi saya benda itu feudal sangat. [41:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [41:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [42:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [43:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [44:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [44:48] Calon pun ada? [44:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [44:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [45:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [45:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [46:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [46:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [47:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [47:11] Okey. [47:16] Yang pertama. [47:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [47:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [47:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [48:10] Ah, so tengah banjir. [48:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [48:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [48:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [48:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [48:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [48:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [48:57] Macam-macam. [49:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [49:03] Dia what is the pronunciation Haknyai ke Haknyai? [49:06] Dia orang kata Haknyai cuma orang kita Haknyai. [49:09] Oh dia Haknyai. [49:11] Haknyai. [49:12] Ni, aku saja nak test siapa yang selalu pergi ni. [49:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [49:23] Oh AMK. tak jemput saya. [49:26] Sampai hati. [49:27] So apa cerita ni? [49:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [49:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [49:45] Sebab apa orang bawa motor besar pergi Haknyai? [49:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [49:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [49:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [50:01] 60km dari Bukit Kayu Hitam. [50:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [50:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [50:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [51:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [51:29] Ratus ke puluh? [51:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [51:35] 4000? [51:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [51:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [52:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [52:08] Gila. Alright. Okey. [52:12] Beria YB. [52:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [52:21] Okey baik. [52:22] Next. [52:23] Pilihan Raya. [52:25] Rakyat, please buat election hari-hari. [52:29] Yang ini video ni video dia tengah baiki apa ni? [52:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [52:37] Oh ini Satu lagi dekat nilah, bersihkan. [52:40] Oh bersihkan. [52:42] Ada satu yang kita tak masuk. [52:43] Apa lagi yang beria ni? [52:45] Datuk Seri Shafie Apdal. [52:46] Baiki jalan. Baiki jalan. Baiki jalan. [52:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [53:16] So calon kena pergi. [53:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [53:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [53:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [54:07] Suka gimik. [54:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [54:12] Ah. [54:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [54:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [54:34] Bagi saya benda itu feudal sangat. [54:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [54:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [55:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [56:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [57:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [57:48] Calon pun ada? [57:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [57:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [58:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [58:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [59:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [59:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:00:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:00:11] Okey. [1:00:16] Yang pertama. [1:00:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:00:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:00:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:01:10] Ah, so tengah banjir. [1:01:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:01:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:01:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:01:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:01:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:01:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:01:57] Macam-macam. [1:02:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:02:03] Dia what is the pronunciation Haknyai ke Haknyai? [1:02:06] Dia orang kata Haknyai cuma orang kita Haknyai. [1:02:09] Oh dia Haknyai. [1:02:11] Haknyai. [1:02:12] Ni, aku saja nak test siapa yang selalu pergi ni. [1:02:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:02:23] Oh AMK. tak jemput saya. [1:02:26] Sampai hati. [1:02:27] So apa cerita ni? [1:02:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:02:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:02:45] Sebab apa orang bawa motor besar pergi Haknyai? [1:02:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:02:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:02:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:03:01] 60km dari Bukit Kayu Hitam. [1:03:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:03:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:03:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:04:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:04:29] Ratus ke puluh? [1:04:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:04:35] 4000? [1:04:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:04:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:05:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:05:08] Gila. Alright. Okey. [1:05:12] Beria YB. [1:05:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:05:21] Okey baik. [1:05:22] Next. [1:05:23] Pilihan Raya. [1:05:25] Rakyat, please buat election hari-hari. [1:05:29] Yang ini video ni video dia tengah baiki apa ni? [1:05:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:05:37] Oh ini Satu lagi dekat nilah, bersihkan. [1:05:40] Oh bersihkan. [1:05:42] Ada satu yang kita tak masuk. [1:05:43] Apa lagi yang beria ni? [1:05:45] Datuk Seri Shafie Apdal. [1:05:46] Baiki jalan. Baiki jalan. Baiki jalan. [1:05:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:06:16] So calon kena pergi. [1:06:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:06:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:06:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:07:07] Suka gimik. [1:07:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:07:12] Ah. [1:07:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:07:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:07:34] Bagi saya benda itu feudal sangat. [1:07:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:07:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:08:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:09:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:10:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:10:48] Calon pun ada? [1:10:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:10:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:11:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:11:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:12:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:12:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:13:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:13:11] Okey. [1:13:16] Yang pertama. [1:13:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:13:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:13:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:14:10] Ah, so tengah banjir. [1:14:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:14:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:14:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:14:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:14:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:14:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:14:57] Macam-macam. [1:15:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:15:03] Dia what is the pronunciation Haknyai ke Haknyai? [1:15:06] Dia orang kata Haknyai cuma orang kita Haknyai. [1:15:09] Oh dia Haknyai. [1:15:11] Haknyai. [1:15:12] Ni, aku saja nak test siapa yang selalu pergi ni. [1:15:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:15:23] Oh AMK. tak jemput saya. [1:15:26] Sampai hati. [1:15:27] So apa cerita ni? [1:15:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:15:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:15:45] Sebab apa orang bawa motor besar pergi Haknyai? [1:15:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:15:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:15:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:16:01] 60km dari Bukit Kayu Hitam. [1:16:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:16:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:16:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:17:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:17:29] Ratus ke puluh? [1:17:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:17:35] 4000? [1:17:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:17:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:18:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:18:08] Gila. Alright. Okey. [1:18:12] Beria YB. [1:18:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:18:21] Okey baik. [1:18:22] Next. [1:18:23] Pilihan Raya. [1:18:25] Rakyat, please buat election hari-hari. [1:18:29] Yang ini video ni video dia tengah baiki apa ni? [1:18:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:18:37] Oh ini Satu lagi dekat nilah, bersihkan. [1:18:40] Oh bersihkan. [1:18:42] Ada satu yang kita tak masuk. [1:18:43] Apa lagi yang beria ni? [1:18:45] Datuk Seri Shafie Apdal. [1:18:46] Baiki jalan. Baiki jalan. Baiki jalan. [1:18:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:19:16] So calon kena pergi. [1:19:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:19:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:19:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:20:07] Suka gimik. [1:20:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:20:12] Ah. [1:20:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:20:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:20:34] Bagi saya benda itu feudal sangat. [1:20:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:20:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:21:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:22:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:23:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:23:48] Calon pun ada? [1:23:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:23:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:24:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:24:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:25:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:25:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:26:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:26:11] Okey. [1:26:16] Yang pertama. [1:26:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:26:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:26:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:27:10] Ah, so tengah banjir. [1:27:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:27:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:27:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:27:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:27:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:27:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:27:57] Macam-macam. [1:28:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:28:03] Dia what is the pronunciation Haknyai ke Haknyai? [1:28:06] Dia orang kata Haknyai cuma orang kita Haknyai. [1:28:09] Oh dia Haknyai. [1:28:11] Haknyai. [1:28:12] Ni, aku saja nak test siapa yang selalu pergi ni. [1:28:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:28:23] Oh AMK. tak jemput saya. [1:28:26] Sampai hati. [1:28:27] So apa cerita ni? [1:28:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:28:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:28:45] Sebab apa orang bawa motor besar pergi Haknyai? [1:28:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:28:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:28:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:29:01] 60km dari Bukit Kayu Hitam. [1:29:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:29:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:29:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:30:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:30:29] Ratus ke puluh? [1:30:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:30:35] 4000? [1:30:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:30:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:31:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:31:08] Gila. Alright. Okey. [1:31:12] Beria YB. [1:31:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:31:21] Okey baik. [1:31:22] Next. [1:31:23] Pilihan Raya. [1:31:25] Rakyat, please buat election hari-hari. [1:31:29] Yang ini video ni video dia tengah baiki apa ni? [1:31:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:31:37] Oh ini Satu lagi dekat nilah, bersihkan. [1:31:40] Oh bersihkan. [1:31:42] Ada satu yang kita tak masuk. [1:31:43] Apa lagi yang beria ni? [1:31:45] Datuk Seri Shafie Apdal. [1:31:46] Baiki jalan. Baiki jalan. Baiki jalan. [1:31:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:32:16] So calon kena pergi. [1:32:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:32:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:32:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:33:07] Suka gimik. [1:33:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:33:12] Ah. [1:33:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:33:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:33:34] Bagi saya benda itu feudal sangat. [1:33:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:33:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:34:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:35:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:36:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:36:48] Calon pun ada? [1:36:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:36:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:37:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:37:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:38:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:38:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:39:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:39:11] Okey. [1:39:16] Yang pertama. [1:39:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:39:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:39:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:40:10] Ah, so tengah banjir. [1:40:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:40:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:40:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:40:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:40:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:40:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:40:57] Macam-macam. [1:41:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:41:03] Dia what is the pronunciation Haknyai ke Haknyai? [1:41:06] Dia orang kata Haknyai cuma orang kita Haknyai. [1:41:09] Oh dia Haknyai. [1:41:11] Haknyai. [1:41:12] Ni, aku saja nak test siapa yang selalu pergi ni. [1:41:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:41:23] Oh AMK. tak jemput saya. [1:41:26] Sampai hati. [1:41:27] So apa cerita ni? [1:41:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:41:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:41:45] Sebab apa orang bawa motor besar pergi Haknyai? [1:41:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:41:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:41:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:42:01] 60km dari Bukit Kayu Hitam. [1:42:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:42:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:42:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:43:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:43:29] Ratus ke puluh? [1:43:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:43:35] 4000? [1:43:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:43:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:44:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:44:08] Gila. Alright. Okey. [1:44:12] Beria YB. [1:44:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:44:21] Okey baik. [1:44:22] Next. [1:44:23] Pilihan Raya. [1:44:25] Rakyat, please buat election hari-hari. [1:44:29] Yang ini video ni video dia tengah baiki apa ni? [1:44:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:44:37] Oh ini Satu lagi dekat nilah, bersihkan. [1:44:40] Oh bersihkan. [1:44:42] Ada satu yang kita tak masuk. [1:44:43] Apa lagi yang beria ni? [1:44:45] Datuk Seri Shafie Apdal. [1:44:46] Baiki jalan. Baiki jalan. Baiki jalan. [1:44:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:45:16] So calon kena pergi. [1:45:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:45:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:45:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:46:07] Suka gimik. [1:46:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:46:12] Ah. [1:46:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:46:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:46:34] Bagi saya benda itu feudal sangat. [1:46:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:46:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [1:47:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [1:48:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [1:49:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [1:49:48] Calon pun ada? [1:49:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [1:49:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [1:50:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [1:50:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [1:51:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [1:51:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [1:52:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [1:52:11] Okey. [1:52:16] Yang pertama. [1:52:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [1:52:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [1:52:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [1:53:10] Ah, so tengah banjir. [1:53:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [1:53:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [1:53:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [1:53:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [1:53:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [1:53:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [1:53:57] Macam-macam. [1:54:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [1:54:03] Dia what is the pronunciation Haknyai ke Haknyai? [1:54:06] Dia orang kata Haknyai cuma orang kita Haknyai. [1:54:09] Oh dia Haknyai. [1:54:11] Haknyai. [1:54:12] Ni, aku saja nak test siapa yang selalu pergi ni. [1:54:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [1:54:23] Oh AMK. tak jemput saya. [1:54:26] Sampai hati. [1:54:27] So apa cerita ni? [1:54:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [1:54:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [1:54:45] Sebab apa orang bawa motor besar pergi Haknyai? [1:54:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [1:54:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [1:54:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [1:55:01] 60km dari Bukit Kayu Hitam. [1:55:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [1:55:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [1:55:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [1:56:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [1:56:29] Ratus ke puluh? [1:56:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [1:56:35] 4000? [1:56:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [1:56:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [1:57:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [1:57:08] Gila. Alright. Okey. [1:57:12] Beria YB. [1:57:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [1:57:21] Okey baik. [1:57:22] Next. [1:57:23] Pilihan Raya. [1:57:25] Rakyat, please buat election hari-hari. [1:57:29] Yang ini video ni video dia tengah baiki apa ni? [1:57:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [1:57:37] Oh ini Satu lagi dekat nilah, bersihkan. [1:57:40] Oh bersihkan. [1:57:42] Ada satu yang kita tak masuk. [1:57:43] Apa lagi yang beria ni? [1:57:45] Datuk Seri Shafie Apdal. [1:57:46] Baiki jalan. Baiki jalan. Baiki jalan. [1:57:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [1:58:16] So calon kena pergi. [1:58:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [1:58:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [1:58:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [1:59:07] Suka gimik. [1:59:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [1:59:12] Ah. [1:59:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [1:59:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [1:59:34] Bagi saya benda itu feudal sangat. [1:59:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [1:59:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:00:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:01:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:02:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:02:48] Calon pun ada? [2:02:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:02:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:03:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:03:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:04:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:04:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:05:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:05:11] Okey. [2:05:16] Yang pertama. [2:05:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:05:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:05:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:06:10] Ah, so tengah banjir. [2:06:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:06:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:06:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:06:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:06:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:06:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:06:57] Macam-macam. [2:07:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:07:03] Dia what is the pronunciation Haknyai ke Haknyai? [2:07:06] Dia orang kata Haknyai cuma orang kita Haknyai. [2:07:09] Oh dia Haknyai. [2:07:11] Haknyai. [2:07:12] Ni, aku saja nak test siapa yang selalu pergi ni. [2:07:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:07:23] Oh AMK. tak jemput saya. [2:07:26] Sampai hati. [2:07:27] So apa cerita ni? [2:07:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:07:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:07:45] Sebab apa orang bawa motor besar pergi Haknyai? [2:07:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:07:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:07:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:08:01] 60km dari Bukit Kayu Hitam. [2:08:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:08:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:08:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:09:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:09:29] Ratus ke puluh? [2:09:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:09:35] 4000? [2:09:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:09:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:10:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:10:08] Gila. Alright. Okey. [2:10:12] Beria YB. [2:10:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:10:21] Okey baik. [2:10:22] Next. [2:10:23] Pilihan Raya. [2:10:25] Rakyat, please buat election hari-hari. [2:10:29] Yang ini video ni video dia tengah baiki apa ni? [2:10:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:10:37] Oh ini Satu lagi dekat nilah, bersihkan. [2:10:40] Oh bersihkan. [2:10:42] Ada satu yang kita tak masuk. [2:10:43] Apa lagi yang beria ni? [2:10:45] Datuk Seri Shafie Apdal. [2:10:46] Baiki jalan. Baiki jalan. Baiki jalan. [2:10:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:11:16] So calon kena pergi. [2:11:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:11:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:11:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:12:07] Suka gimik. [2:12:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:12:12] Ah. [2:12:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:12:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:12:34] Bagi saya benda itu feudal sangat. [2:12:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:12:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:13:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:14:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:15:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:15:48] Calon pun ada? [2:15:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:15:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:16:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang? [2:16:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan. [2:17:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu. [2:17:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR? [2:18:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan? [2:18:11] Okey. [2:18:16] Yang pertama. [2:18:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB. [2:18:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia? [2:18:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan? [2:19:10] Ah, so tengah banjir. [2:19:14] Ni kawan kau ke apa ni kantoi dengan isteri ni? [2:19:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah. [2:19:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan. [2:19:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada [2:19:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya. [2:19:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga. [2:19:57] Macam-macam. [2:20:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu. [2:20:03] Dia what is the pronunciation Haknyai ke Haknyai? [2:20:06] Dia orang kata Haknyai cuma orang kita Haknyai. [2:20:09] Oh dia Haknyai. [2:20:11] Haknyai. [2:20:12] Ni, aku saja nak test siapa yang selalu pergi ni. [2:20:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly. [2:20:23] Oh AMK. tak jemput saya. [2:20:26] Sampai hati. [2:20:27] So apa cerita ni? [2:20:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah. [2:20:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai. [2:20:45] Sebab apa orang bawa motor besar pergi Haknyai? [2:20:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand. [2:20:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat. [2:20:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km. [2:21:01] 60km dari Bukit Kayu Hitam. [2:21:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir? [2:21:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late. [2:21:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin. [2:22:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana? [2:22:29] Ratus ke puluh? [2:22:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia. [2:22:35] 4000? [2:22:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan? [2:22:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu? [2:23:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang. [2:23:08] Gila. Alright. Okey. [2:23:12] Beria YB. [2:23:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain. [2:23:21] Okey baik. [2:23:22] Next. [2:23:23] Pilihan Raya. [2:23:25] Rakyat, please buat election hari-hari. [2:23:29] Yang ini video ni video dia tengah baiki apa ni? [2:23:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu. [2:23:37] Oh ini Satu lagi dekat nilah, bersihkan. [2:23:40] Oh bersihkan. [2:23:42] Ada satu yang kita tak masuk. [2:23:43] Apa lagi yang beria ni? [2:23:45] Datuk Seri Shafie Apdal. [2:23:46] Baiki jalan. Baiki jalan. Baiki jalan. [2:23:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera. [2:24:16] So calon kena pergi. [2:24:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan. [2:24:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah. [2:24:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu. [2:25:07] Suka gimik. [2:25:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal. [2:25:12] Ah. [2:25:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya. [2:25:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah. [2:25:34] Bagi saya benda itu feudal sangat. [2:25:37] Dia bekerja, aku bekerja. Dia ada kerja dia. [2:25:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan. [2:26:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution. [2:27:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan. [2:28:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun. [2:28:48] Calon pun ada? [2:28:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat. [2:28:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit. [2:29:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak
+
+
+[02:31] Speaker 1: Assalamualaikum dan selamat datang. Podcast yang berhenti menteri episod 24. Macam biasa bersama saudara Rafizi Ramli. Jadi sebelum mulakan episod ataupun segmen biasa YB, mungkin saya boleh tanya sikitlah. Ni ada orang tanya.
+
+
+
+[02:46] Minggu ni minggu terakhir kempen PRN Sabah. Oh. Ada yang tanya, YB Rafizi pertama, YB Rafizi tak turun kempen sekali ke? Kedua, kalau tidak ada tak mana-mana orang parti ke apa yang tag YB, YB tolonglah turun sekali ataupun jemputlah turun sekali kempen.
+
+
+
+[03:05] Ada saja tapi saya tak rasa saya menambah nilai. Sebab dia bergantung kepada jentera juga. Daripada pemilihan parti yang lepas tu kita tahulah yang bahawa keseluruhan jentera dan juga pimpinan parti ni mesej yang diberikan dan juga dengan segala cerita yang berlaku di belakang tabir pemilihan itu daripada sistem dia semua itu.
+
+
+
+[03:40] Maksudnya pemimpin seperti saya ni tidak dikehendaki. Jadi kalau you turun pun bila keseluruhan jentera itu adalah mereka yang lebih benci kepada saya daripada mereka benci kepada PAS, PN dan UMNO. Jadi dia tidak akan membantu siapa-siapalah. Jadi dia banyak cara untuk kita menyumbangkan. Jadi orang Sabah saya ingat banyak aje yang menonton podcast ni. Jadi saya menyumbang dengan memberi gambaran bahawa masih ada lagi saki baki semangat reformasi dalam PKR ni kan. Kot hati mereka terbuka untuk mengundi PKR lah.
+
+
+
+[04:28] Esok?
+
+
+
+[04:29] Esok insya-Allah. Baik YB. Kita terus ke segmen yang
+
+
+
+[04:34] Ada satu lagi, ada satu lagi sebab juga yang dahlah alang-alang tanya, alang-alang tanya.
+
+
+
+[04:41] Yalah saya berpengalamanlah menjaga pilihan raya ni daripada tahun 2011 dan antara pilihan raya pertama yang saya terlibat dengan dekat adalah Pilihan Raya Negeri Sarawak 2011. Satu lagi sebab yang saya rasa tidak ada keperluan untuk saya turun, kerana sebenarnya pengundi di Sabah dan Sarawak ni mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan sebab mereka nak orang tempatan.
+
+
+
+[05:54] Jadi dia jadi cash 22 tahu sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan Saifuddin Nasution.
+
+
+
+[06:40] Jadi kalau tidak berhati-hati itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu, saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[07:19] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah tapi kita tak boleh nak paksa mereka buat sesuatu kan. Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[07:48] Calon pun ada?
+
+
+
+[07:49] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[07:54] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa, sikit.
+
+
+
+[07:57] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa, hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[08:15] Saya selalunya tak layan sangat, itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ, semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[09:14] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[10:04] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[10:21] Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria, tadi dah kira intro beria beria kau tanya soalan kan?
+
+
+
+[10:27] Okey.
+
+
+
+[10:35] Yang pertama.
+
+
+
+[10:46] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[10:48] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[11:15] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[11:37] Ah, so tengah banjir.
+
+
+
+[11:40] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[11:43] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[11:49] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[12:03] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[12:13] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[12:20] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[12:25] Macam-macam.
+
+
+
+[12:26] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[12:31] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[12:33] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[12:36] Oh dia Haknyai.
+
+
+
+[12:37] Haknyai.
+
+
+
+[12:38] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[12:43] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[12:48] Oh AMK. tak jemput saya.
+
+
+
+[12:51] Sampai hati.
+
+
+
+[12:52] So apa cerita ni?
+
+
+
+[12:53] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[13:01] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[13:06] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[13:07] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[13:12] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[13:17] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[13:21] 60km dari Bukit Kayu Hitam.
+
+
+
+[13:25] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[13:28] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[14:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[15:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[15:25] Ratus ke puluh?
+
+
+
+[15:27] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[15:31] 4000?
+
+
+
+[15:32] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[15:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[15:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[16:04] Gila. Alright. Okey.
+
+
+
+[16:08] Beria YB.
+
+
+
+[16:09] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[16:17] Okey baik.
+
+
+
+[16:18] Next.
+
+
+
+[16:19] Pilihan Raya.
+
+
+
+[16:20] Rakyat, please buat election hari-hari.
+
+
+
+[16:24] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[16:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[16:32] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[16:35] Oh bersihkan.
+
+
+
+[16:37] Ada satu yang kita tak masuk.
+
+
+
+[16:38] Apa lagi yang beria ni?
+
+
+
+[16:40] Datuk Seri Shafie Apdal.
+
+
+
+[16:41] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[16:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[17:11] So calon kena pergi.
+
+
+
+[17:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[17:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[17:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[18:02] Suka gimik.
+
+
+
+[18:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[18:07] Ah.
+
+
+
+[18:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[18:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[18:29] Bagi saya benda itu feudal sangat.
+
+
+
+[18:32] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[18:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang.
+
+
+
+[18:50] Ha.
+
+
+
+[18:51] Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya. Kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[19:24] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[20:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[21:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[21:38] Calon pun ada?
+
+
+
+[21:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[21:47] Okey. Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[21:55] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[22:15] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[23:09] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[23:44] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[24:02] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[24:14] Okey.
+
+
+
+[24:17] Yang pertama.
+
+
+
+[24:23] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[24:26] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[24:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[25:05] Ah, so tengah banjir.
+
+
+
+[25:09] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[25:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[25:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[25:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[25:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[25:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[25:52] Macam-macam.
+
+
+
+[25:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[25:58] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[26:01] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[26:04] Oh dia Haknyai.
+
+
+
+[26:06] Haknyai.
+
+
+
+[26:07] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[26:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[26:18] Oh AMK. tak jemput saya.
+
+
+
+[26:21] Sampai hati.
+
+
+
+[26:22] So apa cerita ni?
+
+
+
+[26:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[26:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[26:40] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[26:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[26:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[26:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[26:56] 60km dari Bukit Kayu Hitam.
+
+
+
+[27:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[27:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[27:44] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[28:09] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[28:34] Ratus ke puluh?
+
+
+
+[28:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[28:40] 4000?
+
+
+
+[28:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[28:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[29:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[29:13] Gila. Alright. Okey.
+
+
+
+[29:17] Beria YB.
+
+
+
+[29:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[29:26] Okey baik.
+
+
+
+[29:27] Next.
+
+
+
+[29:28] Pilihan Raya.
+
+
+
+[29:30] Rakyat, please buat election hari-hari.
+
+
+
+[29:34] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[29:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[29:42] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[29:45] Oh bersihkan.
+
+
+
+[29:47] Ada satu yang kita tak masuk.
+
+
+
+[29:48] Apa lagi yang beria ni?
+
+
+
+[29:50] Datuk Seri Shafie Apdal.
+
+
+
+[29:51] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[29:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[30:21] So calon kena pergi.
+
+
+
+[30:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[30:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[30:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[31:12] Suka gimik.
+
+
+
+[31:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[31:17] Ah.
+
+
+
+[31:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[31:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[31:39] Bagi saya benda itu feudal sangat.
+
+
+
+[31:42] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[31:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[32:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[33:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[34:19] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[34:48] Calon pun ada?
+
+
+
+[34:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[34:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[35:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[35:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[36:13] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[36:48] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[37:06] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[37:16] Okey.
+
+
+
+[37:21] Yang pertama.
+
+
+
+[37:32] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[37:35] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[37:55] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[38:15] Ah, so tengah banjir.
+
+
+
+[38:19] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[38:22] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[38:26] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[38:45] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[38:50] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[38:57] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[39:02] Macam-macam.
+
+
+
+[39:05] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[39:08] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[39:11] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[39:14] Oh dia Haknyai.
+
+
+
+[39:16] Haknyai.
+
+
+
+[39:17] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[39:22] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[39:28] Oh AMK. tak jemput saya.
+
+
+
+[39:31] Sampai hati.
+
+
+
+[39:32] So apa cerita ni?
+
+
+
+[39:36] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[39:44] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[39:50] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[39:51] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[39:57] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[40:01] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[40:06] 60km dari Bukit Kayu Hitam.
+
+
+
+[40:10] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[40:13] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[40:53] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[41:18] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[41:34] Ratus ke puluh?
+
+
+
+[41:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[41:40] 4000?
+
+
+
+[41:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[41:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[42:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[42:13] Gila. Alright. Okey.
+
+
+
+[42:17] Beria YB.
+
+
+
+[42:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[42:26] Okey baik.
+
+
+
+[42:27] Next.
+
+
+
+[42:28] Pilihan Raya.
+
+
+
+[42:30] Rakyat, please buat election hari-hari.
+
+
+
+[42:34] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[42:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[42:42] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[42:45] Oh bersihkan.
+
+
+
+[42:47] Ada satu yang kita tak masuk.
+
+
+
+[42:48] Apa lagi yang beria ni?
+
+
+
+[42:50] Datuk Seri Shafie Apdal.
+
+
+
+[42:51] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[42:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[43:21] So calon kena pergi.
+
+
+
+[43:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[43:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[43:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[44:12] Suka gimik.
+
+
+
+[44:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[44:17] Ah.
+
+
+
+[44:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[44:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[44:39] Bagi saya benda itu feudal sangat.
+
+
+
+[44:42] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[44:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[45:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[46:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[47:24] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[47:53] Calon pun ada?
+
+
+
+[47:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[48:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[48:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[48:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[49:18] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[49:54] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[50:12] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[50:22] Okey.
+
+
+
+[50:26] Yang pertama.
+
+
+
+[50:37] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[50:40] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[51:00] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[51:21] Ah, so tengah banjir.
+
+
+
+[51:24] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[51:28] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[51:32] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[51:51] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[51:55] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[52:03] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[52:08] Macam-macam.
+
+
+
+[52:10] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[52:14] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[52:17] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[52:20] Oh dia Haknyai.
+
+
+
+[52:21] Haknyai.
+
+
+
+[52:23] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[52:28] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[52:33] Oh AMK. tak jemput saya.
+
+
+
+[52:37] Sampai hati.
+
+
+
+[52:38] So apa cerita ni?
+
+
+
+[52:42] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[52:50] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[52:56] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[52:57] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[53:02] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[53:07] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[53:11] 60km dari Bukit Kayu Hitam.
+
+
+
+[53:15] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[53:19] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[53:59] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[54:23] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[54:39] Ratus ke puluh?
+
+
+
+[54:41] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[54:45] 4000?
+
+
+
+[54:46] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[55:00] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[55:13] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[55:18] Gila. Alright. Okey.
+
+
+
+[55:22] Beria YB.
+
+
+
+[55:23] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[55:31] Okey baik.
+
+
+
+[55:32] Next.
+
+
+
+[55:33] Pilihan Raya.
+
+
+
+[55:35] Rakyat, please buat election hari-hari.
+
+
+
+[55:39] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[55:42] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[55:47] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[55:50] Oh bersihkan.
+
+
+
+[55:52] Ada satu yang kita tak masuk.
+
+
+
+[55:53] Apa lagi yang beria ni?
+
+
+
+[55:55] Datuk Seri Shafie Apdal.
+
+
+
+[55:56] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[56:01] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[56:26] So calon kena pergi.
+
+
+
+[56:28] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[56:38] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[56:56] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[57:17] Suka gimik.
+
+
+
+[57:19] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[57:22] Ah.
+
+
+
+[57:23] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[57:30] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[57:44] Bagi saya benda itu feudal sangat.
+
+
+
+[57:47] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[57:50] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[58:59] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[59:45] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:00:10] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:00:53] Calon pun ada?
+
+
+
+[1:00:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:01:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:01:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:01:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:02:18] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:02:53] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:03:11] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:03:21] Okey.
+
+
+
+[1:03:26] Yang pertama.
+
+
+
+[1:03:37] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:03:40] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:04:00] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:04:20] Ah, so tengah banjir.
+
+
+
+[1:04:24] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:04:27] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:04:31] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:04:50] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:04:55] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:05:02] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:05:07] Macam-macam.
+
+
+
+[1:05:10] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:05:13] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:05:16] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:05:19] Oh dia Haknyai.
+
+
+
+[1:05:21] Haknyai.
+
+
+
+[1:05:22] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:05:27] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:05:33] Oh AMK. tak jemput saya.
+
+
+
+[1:05:36] Sampai hati.
+
+
+
+[1:05:37] So apa cerita ni?
+
+
+
+[1:05:41] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:05:49] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:05:55] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:05:56] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:06:02] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:06:06] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:06:11] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:06:15] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:06:18] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:06:58] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:07:23] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:07:39] Ratus ke puluh?
+
+
+
+[1:07:41] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:07:45] 4000?
+
+
+
+[1:07:46] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:08:00] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:08:13] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:08:18] Gila. Alright. Okey.
+
+
+
+[1:08:22] Beria YB.
+
+
+
+[1:08:23] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:08:31] Okey baik.
+
+
+
+[1:08:32] Next.
+
+
+
+[1:08:33] Pilihan Raya.
+
+
+
+[1:08:35] Rakyat, please buat election hari-hari.
+
+
+
+[1:08:39] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:08:42] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:08:47] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:08:50] Oh bersihkan.
+
+
+
+[1:08:52] Ada satu yang kita tak masuk.
+
+
+
+[1:08:53] Apa lagi yang beria ni?
+
+
+
+[1:08:55] Datuk Seri Shafie Apdal.
+
+
+
+[1:08:56] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:09:01] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:09:26] So calon kena pergi.
+
+
+
+[1:09:28] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:09:38] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:09:56] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:10:17] Suka gimik.
+
+
+
+[1:10:19] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:10:22] Ah.
+
+
+
+[1:10:23] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:10:30] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:10:44] Bagi saya benda itu feudal sangat.
+
+
+
+[1:10:47] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:10:50] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:11:54] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:12:40] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:13:24] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:13:53] Calon pun ada?
+
+
+
+[1:13:57] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:14:02] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:14:06] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:14:26] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:15:13] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:15:48] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:16:06] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:16:16] Okey.
+
+
+
+[1:16:21] Yang pertama.
+
+
+
+[1:16:32] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:16:35] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:16:55] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:17:15] Ah, so tengah banjir.
+
+
+
+[1:17:19] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:17:22] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:17:26] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:17:45] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:17:50] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:17:57] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:18:02] Macam-macam.
+
+
+
+[1:18:05] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:18:08] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:18:11] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:18:14] Oh dia Haknyai.
+
+
+
+[1:18:16] Haknyai.
+
+
+
+[1:18:17] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:18:22] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:18:28] Oh AMK. tak jemput saya.
+
+
+
+[1:18:31] Sampai hati.
+
+
+
+[1:18:32] So apa cerita ni?
+
+
+
+[1:18:36] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:18:44] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:18:50] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:18:51] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:18:57] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:19:01] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:19:06] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:19:10] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:19:13] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:19:53] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:20:18] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:20:34] Ratus ke puluh?
+
+
+
+[1:20:36] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:20:40] 4000?
+
+
+
+[1:20:41] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:20:55] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:21:08] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:21:13] Gila. Alright. Okey.
+
+
+
+[1:21:17] Beria YB.
+
+
+
+[1:21:18] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:21:26] Okey baik.
+
+
+
+[1:21:27] Next.
+
+
+
+[1:21:28] Pilihan Raya.
+
+
+
+[1:21:30] Rakyat, please buat election hari-hari.
+
+
+
+[1:21:34] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:21:37] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:21:42] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:21:45] Oh bersihkan.
+
+
+
+[1:21:47] Ada satu yang kita tak masuk.
+
+
+
+[1:21:48] Apa lagi yang beria ni?
+
+
+
+[1:21:50] Datuk Seri Shafie Apdal.
+
+
+
+[1:21:51] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:21:56] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:22:21] So calon kena pergi.
+
+
+
+[1:22:23] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:22:33] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:22:51] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:23:12] Suka gimik.
+
+
+
+[1:23:14] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:23:17] Ah.
+
+
+
+[1:23:18] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:23:25] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:23:39] Bagi saya benda itu feudal sangat.
+
+
+
+[1:23:42] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:23:45] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:24:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:25:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:26:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:26:43] Calon pun ada?
+
+
+
+[1:26:47] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:26:52] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:26:56] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:27:16] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:28:03] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:28:38] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:28:56] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:29:06] Okey.
+
+
+
+[1:29:11] Yang pertama.
+
+
+
+[1:29:22] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:29:25] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:29:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:30:05] Ah, so tengah banjir.
+
+
+
+[1:30:09] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:30:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:30:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:30:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:30:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:30:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:30:52] Macam-macam.
+
+
+
+[1:30:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:30:58] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:31:01] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:31:04] Oh dia Haknyai.
+
+
+
+[1:31:06] Haknyai.
+
+
+
+[1:31:07] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:31:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:31:18] Oh AMK. tak jemput saya.
+
+
+
+[1:31:21] Sampai hati.
+
+
+
+[1:31:22] So apa cerita ni?
+
+
+
+[1:31:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:31:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:31:40] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:31:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:31:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:31:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:31:56] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:32:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:32:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:32:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:33:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:33:24] Ratus ke puluh?
+
+
+
+[1:33:26] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:33:30] 4000?
+
+
+
+[1:33:31] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:33:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:33:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:34:03] Gila. Alright. Okey.
+
+
+
+[1:34:07] Beria YB.
+
+
+
+[1:34:08] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:34:16] Okey baik.
+
+
+
+[1:34:17] Next.
+
+
+
+[1:34:18] Pilihan Raya.
+
+
+
+[1:34:20] Rakyat, please buat election hari-hari.
+
+
+
+[1:34:24] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:34:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:34:32] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:34:35] Oh bersihkan.
+
+
+
+[1:34:37] Ada satu yang kita tak masuk.
+
+
+
+[1:34:38] Apa lagi yang beria ni?
+
+
+
+[1:34:40] Datuk Seri Shafie Apdal.
+
+
+
+[1:34:41] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:34:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:35:11] So calon kena pergi.
+
+
+
+[1:35:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:35:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:35:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:36:02] Suka gimik.
+
+
+
+[1:36:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:36:07] Ah.
+
+
+
+[1:36:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:36:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:36:29] Bagi saya benda itu feudal sangat.
+
+
+
+[1:36:32] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:36:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:37:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:38:30] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:39:10] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:39:38] Calon pun ada?
+
+
+
+[1:39:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:39:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:39:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:40:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:40:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:41:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:41:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:42:01] Okey.
+
+
+
+[1:42:06] Yang pertama.
+
+
+
+[1:42:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:42:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:42:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:43:00] Ah, so tengah banjir.
+
+
+
+[1:43:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:43:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:43:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:43:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:43:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:43:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:43:47] Macam-macam.
+
+
+
+[1:43:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:43:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:43:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:43:59] Oh dia Haknyai.
+
+
+
+[1:44:01] Haknyai.
+
+
+
+[1:44:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:44:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:44:13] Oh AMK. tak jemput saya.
+
+
+
+[1:44:16] Sampai hati.
+
+
+
+[1:44:17] So apa cerita ni?
+
+
+
+[1:44:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:44:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:44:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:44:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:44:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:44:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:44:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:44:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:44:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:45:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:46:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:46:19] Ratus ke puluh?
+
+
+
+[1:46:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:46:25] 4000?
+
+
+
+[1:46:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:46:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:46:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:46:58] Gila. Alright. Okey.
+
+
+
+[1:47:02] Beria YB.
+
+
+
+[1:47:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:47:11] Okey baik.
+
+
+
+[1:47:12] Next.
+
+
+
+[1:47:13] Pilihan Raya.
+
+
+
+[1:47:15] Rakyat, please buat election hari-hari.
+
+
+
+[1:47:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:47:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:47:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:47:30] Oh bersihkan.
+
+
+
+[1:47:32] Ada satu yang kita tak masuk.
+
+
+
+[1:47:33] Apa lagi yang beria ni?
+
+
+
+[1:47:35] Datuk Seri Shafie Apdal.
+
+
+
+[1:47:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:47:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:48:06] So calon kena pergi.
+
+
+
+[1:48:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:48:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:48:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:48:57] Suka gimik.
+
+
+
+[1:48:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:49:02] Ah.
+
+
+
+[1:49:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:49:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:49:24] Bagi saya benda itu feudal sangat.
+
+
+
+[1:49:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:49:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:50:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:51:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:52:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:52:38] Calon pun ada?
+
+
+
+[1:52:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:52:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:52:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:53:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:54:03] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:54:38] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:54:56] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:55:06] Okey.
+
+
+
+[1:55:11] Yang pertama.
+
+
+
+[1:55:22] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:55:25] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:55:45] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:56:05] Ah, so tengah banjir.
+
+
+
+[1:56:09] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:56:12] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:56:16] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:56:35] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:56:40] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:56:47] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:56:52] Macam-macam.
+
+
+
+[1:56:55] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:56:58] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:57:01] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:57:04] Oh dia Haknyai.
+
+
+
+[1:57:06] Haknyai.
+
+
+
+[1:57:07] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:57:12] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:57:18] Oh AMK. tak jemput saya.
+
+
+
+[1:57:21] Sampai hati.
+
+
+
+[1:57:22] So apa cerita ni?
+
+
+
+[1:57:26] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:57:34] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:57:40] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:57:41] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:57:47] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:57:51] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:57:56] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:58:00] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:58:03] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:58:43] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:59:08] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:59:24] Ratus ke puluh?
+
+
+
+[1:59:26] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:59:30] 4000?
+
+
+
+[1:59:31] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:59:45] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:59:58] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:00:03] Gila. Alright. Okey.
+
+
+
+[2:00:07] Beria YB.
+
+
+
+[2:00:08] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:00:16] Okey baik.
+
+
+
+[2:00:17] Next.
+
+
+
+[2:00:18] Pilihan Raya.
+
+
+
+[2:00:20] Rakyat, please buat election hari-hari.
+
+
+
+[2:00:24] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:00:27] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:00:32] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:00:35] Oh bersihkan.
+
+
+
+[2:00:37] Ada satu yang kita tak masuk.
+
+
+
+[2:00:38] Apa lagi yang beria ni?
+
+
+
+[2:00:40] Datuk Seri Shafie Apdal.
+
+
+
+[2:00:41] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:00:46] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:01:11] So calon kena pergi.
+
+
+
+[2:01:13] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:01:23] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:01:41] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:02:02] Suka gimik.
+
+
+
+[2:02:04] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:02:07] Ah.
+
+
+
+[2:02:08] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:02:15] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:02:29] Bagi saya benda itu feudal sangat.
+
+
+
+[2:02:32] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:02:35] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:03:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:04:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:05:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:05:38] Calon pun ada?
+
+
+
+[2:05:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:05:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:05:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:06:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:06:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:07:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:07:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:08:01] Okey.
+
+
+
+[2:08:06] Yang pertama.
+
+
+
+[2:08:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:08:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:08:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:09:00] Ah, so tengah banjir.
+
+
+
+[2:09:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:09:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:09:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:09:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:09:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:09:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:09:47] Macam-macam.
+
+
+
+[2:09:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:09:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:09:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:09:59] Oh dia Haknyai.
+
+
+
+[2:10:01] Haknyai.
+
+
+
+[2:10:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:10:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:10:13] Oh AMK. tak jemput saya.
+
+
+
+[2:10:16] Sampai hati.
+
+
+
+[2:10:17] So apa cerita ni?
+
+
+
+[2:10:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:10:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:10:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:10:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:10:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:10:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:10:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:10:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:10:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:11:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:12:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:12:19] Ratus ke puluh?
+
+
+
+[2:12:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:12:25] 4000?
+
+
+
+[2:12:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:12:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:12:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:12:58] Gila. Alright. Okey.
+
+
+
+[2:13:02] Beria YB.
+
+
+
+[2:13:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:13:11] Okey baik.
+
+
+
+[2:13:12] Next.
+
+
+
+[2:13:13] Pilihan Raya.
+
+
+
+[2:13:15] Rakyat, please buat election hari-hari.
+
+
+
+[2:13:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:13:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:13:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:13:30] Oh bersihkan.
+
+
+
+[2:13:32] Ada satu yang kita tak masuk.
+
+
+
+[2:13:33] Apa lagi yang beria ni?
+
+
+
+[2:13:35] Datuk Seri Shafie Apdal.
+
+
+
+[2:13:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:13:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:14:06] So calon kena pergi.
+
+
+
+[2:14:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:14:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:14:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:14:57] Suka gimik.
+
+
+
+[2:14:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:15:02] Ah.
+
+
+
+[2:15:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:15:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:15:24] Bagi saya benda itu feudal sangat.
+
+
+
+[2:15:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:15:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:16:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:17:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:18:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:18:38] Calon pun ada?
+
+
+
+[2:18:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:18:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:18:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:19:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:19:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:20:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:20:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:21:01] Okey.
+
+
+
+[2:21:06] Yang pertama.
+
+
+
+[2:21:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:21:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:21:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:22:00] Ah, so tengah banjir.
+
+
+
+[2:22:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:22:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:22:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:22:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:22:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:22:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:22:47] Macam-macam.
+
+
+
+[2:22:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:22:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:22:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:22:59] Oh dia Haknyai.
+
+
+
+[2:23:01] Haknyai.
+
+
+
+[2:23:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:23:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:23:13] Oh AMK. tak jemput saya.
+
+
+
+[2:23:16] Sampai hati.
+
+
+
+[2:23:17] So apa cerita ni?
+
+
+
+[2:23:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:23:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:23:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:23:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:23:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:23:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:23:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:23:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:23:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:24:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:25:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:25:19] Ratus ke puluh?
+
+
+
+[2:25:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:25:25] 4000?
+
+
+
+[2:25:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:25:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:25:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:25:58] Gila. Alright. Okey.
+
+
+
+[2:26:02] Beria YB.
+
+
+
+[2:26:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:26:11] Okey baik.
+
+
+
+[2:26:12] Next.
+
+
+
+[2:26:13] Pilihan Raya.
+
+
+
+[2:26:15] Rakyat, please buat election hari-hari.
+
+
+
+[2:26:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:26:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:26:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:26:30] Oh bersihkan.
+
+
+
+[2:26:32] Ada satu yang kita tak masuk.
+
+
+
+[2:26:33] Apa lagi yang beria ni?
+
+
+
+[2:26:35] Datuk Seri Shafie Apdal.
+
+
+
+[2:26:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:26:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:27:06] So calon kena pergi.
+
+
+
+[2:27:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:27:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:27:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:27:57] Suka gimik.
+
+
+
+[2:27:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:28:02] Ah.
+
+
+
+[2:28:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:28:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:28:24] Bagi saya benda itu feudal sangat.
+
+
+
+[2:28:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:28:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:29:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:30:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:31:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:31:38] Calon pun ada?
+
+
+
+[2:31:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:31:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:31:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:32:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:32:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:33:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:33:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:34:01] Okey.
+
+
+
+[2:34:06] Yang pertama.
+
+
+
+[2:34:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:34:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:34:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:35:00] Ah, so tengah banjir.
+
+
+
+[2:35:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:35:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:35:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:35:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:35:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:35:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:35:47] Macam-macam.
+
+
+
+[2:35:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:35:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:35:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:35:59] Oh dia Haknyai.
+
+
+
+[2:36:01] Haknyai.
+
+
+
+[2:36:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:36:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:36:13] Oh AMK. tak jemput saya.
+
+
+
+[2:36:16] Sampai hati.
+
+
+
+[2:36:17] So apa cerita ni?
+
+
+
+[2:36:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:36:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:36:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:36:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:36:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:36:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:36:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:36:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:36:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:37:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:38:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:38:19] Ratus ke puluh?
+
+
+
+[2:38:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:38:25] 4000?
+
+
+
+[2:38:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:38:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:38:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:38:58] Gila. Alright. Okey.
+
+
+
+[2:39:02] Beria YB.
+
+
+
+[2:39:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:39:11] Okey baik.
+
+
+
+[2:39:12] Next.
+
+
+
+[2:39:13] Pilihan Raya.
+
+
+
+[2:39:15] Rakyat, please buat election hari-hari.
+
+
+
+[2:39:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:39:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:39:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:39:30] Oh bersihkan.
+
+
+
+[2:39:32] Ada satu yang kita tak masuk.
+
+
+
+[2:39:33] Apa lagi yang beria ni?
+
+
+
+[2:39:35] Datuk Seri Shafie Apdal.
+
+
+
+[2:39:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:39:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:40:06] So calon kena pergi.
+
+
+
+[2:40:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:40:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:40:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:40:57] Suka gimik.
+
+
+
+[2:40:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:41:02] Ah.
+
+
+
+[2:41:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:41:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:41:24] Bagi saya benda itu feudal sangat.
+
+
+
+[2:41:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:41:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:42:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:43:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:44:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:44:38] Calon pun ada?
+
+
+
+[2:44:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:44:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:44:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:45:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:45:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:46:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:46:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:47:01] Okey.
+
+
+
+[2:47:06] Yang pertama.
+
+
+
+[2:47:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:47:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:47:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:48:00] Ah, so tengah banjir.
+
+
+
+[2:48:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:48:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:48:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:48:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:48:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:48:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:48:47] Macam-macam.
+
+
+
+[2:48:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:48:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:48:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:48:59] Oh dia Haknyai.
+
+
+
+[2:49:01] Haknyai.
+
+
+
+[2:49:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:49:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:49:13] Oh AMK. tak jemput saya.
+
+
+
+[2:49:16] Sampai hati.
+
+
+
+[2:49:17] So apa cerita ni?
+
+
+
+[2:49:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:49:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:49:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:49:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:49:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:49:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:49:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:49:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:49:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:50:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:51:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:51:19] Ratus ke puluh?
+
+
+
+[2:51:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:51:25] 4000?
+
+
+
+[2:51:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:51:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:51:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:51:58] Gila. Alright. Okey.
+
+
+
+[2:52:02] Beria YB.
+
+
+
+[2:52:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:52:11] Okey baik.
+
+
+
+[2:52:12] Next.
+
+
+
+[2:52:13] Pilihan Raya.
+
+
+
+[2:52:15] Rakyat, please buat election hari-hari.
+
+
+
+[2:52:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:52:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:52:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:52:30] Oh bersihkan.
+
+
+
+[2:52:32] Ada satu yang kita tak masuk.
+
+
+
+[2:52:33] Apa lagi yang beria ni?
+
+
+
+[2:52:35] Datuk Seri Shafie Apdal.
+
+
+
+[2:52:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:52:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:53:06] So calon kena pergi.
+
+
+
+[2:53:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:53:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:53:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:53:57] Suka gimik.
+
+
+
+[2:53:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:54:02] Ah.
+
+
+
+[2:54:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:54:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:54:24] Bagi saya benda itu feudal sangat.
+
+
+
+[2:54:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:54:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:55:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:56:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:57:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:57:38] Calon pun ada?
+
+
+
+[2:57:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:57:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:57:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:58:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:58:58] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:59:33] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:59:51] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[3:00:01] Okey.
+
+
+
+[3:00:06] Yang pertama.
+
+
+
+[3:00:17] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[3:00:20] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[3:00:40] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[3:01:00] Ah, so tengah banjir.
+
+
+
+[3:01:04] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[3:01:07] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[3:01:11] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[3:01:30] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[3:01:35] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[3:01:42] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[3:01:47] Macam-macam.
+
+
+
+[3:01:50] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[3:01:53] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[3:01:56] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[3:01:59] Oh dia Haknyai.
+
+
+
+[3:02:01] Haknyai.
+
+
+
+[3:02:02] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[3:02:07] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[3:02:13] Oh AMK. tak jemput saya.
+
+
+
+[3:02:16] Sampai hati.
+
+
+
+[3:02:17] So apa cerita ni?
+
+
+
+[3:02:21] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[3:02:29] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[3:02:35] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[3:02:36] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[3:02:42] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[3:02:46] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[3:02:51] 60km dari Bukit Kayu Hitam.
+
+
+
+[3:02:55] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[3:02:58] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[3:03:38] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[3:04:03] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[3:04:19] Ratus ke puluh?
+
+
+
+[3:04:21] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[3:04:25] 4000?
+
+
+
+[3:04:26] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[3:04:40] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[3:04:53] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[3:04:58] Gila. Alright. Okey.
+
+
+
+[3:05:02] Beria YB.
+
+
+
+[3:05:03] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[3:05:11] Okey baik.
+
+
+
+[3:05:12] Next.
+
+
+
+[3:05:13] Pilihan Raya.
+
+
+
+[3:05:15] Rakyat, please buat election hari-hari.
+
+
+
+[3:05:19] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[3:05:22] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[3:05:27] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[3:05:30] Oh bersihkan.
+
+
+
+[3:05:32] Ada satu yang kita tak masuk.
+
+
+
+[3:05:33] Apa lagi yang beria ni?
+
+
+
+[3:05:35] Datuk Seri Shafie Apdal.
+
+
+
+[3:05:36] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[3:05:41] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[3:06:06] So calon kena pergi.
+
+
+
+[3:06:08] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[3:06:18] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[3:06:36] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[3:06:57] Suka gimik.
+
+
+
+[3:06:59] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[3:07:02] Ah.
+
+
+
+[3:07:03] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[3:07:10] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[3:07:24] Bagi saya benda itu feudal sangat.
+
+
+
+[3:07:27] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[3:07:30] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[3:08:39] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[3:09:25] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[31:05] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[31:38] Calon pun ada?
+
+
+
+[31:42] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[31:47] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[31:51] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[32:11] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[33:09] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[33:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[34:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[34:11] Okey.
+
+
+
+[34:16] Yang pertama.
+
+
+
+[34:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[34:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[34:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[35:10] Ah, so tengah banjir.
+
+
+
+[35:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[35:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[35:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[35:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[35:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[35:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[35:57] Macam-macam.
+
+
+
+[36:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[36:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[36:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[36:09] Oh dia Haknyai.
+
+
+
+[36:11] Haknyai.
+
+
+
+[36:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[36:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[36:23] Oh AMK. tak jemput saya.
+
+
+
+[36:26] Sampai hati.
+
+
+
+[36:27] So apa cerita ni?
+
+
+
+[36:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[36:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[36:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[36:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[36:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[36:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[37:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[37:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[37:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[37:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[38:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[38:29] Ratus ke puluh?
+
+
+
+[38:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[38:35] 4000?
+
+
+
+[38:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[38:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[39:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[39:08] Gila. Alright. Okey.
+
+
+
+[39:12] Beria YB.
+
+
+
+[39:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[39:21] Okey baik.
+
+
+
+[39:22] Next.
+
+
+
+[39:23] Pilihan Raya.
+
+
+
+[39:25] Rakyat, please buat election hari-hari.
+
+
+
+[39:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[39:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[39:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[39:40] Oh bersihkan.
+
+
+
+[39:42] Ada satu yang kita tak masuk.
+
+
+
+[39:43] Apa lagi yang beria ni?
+
+
+
+[39:45] Datuk Seri Shafie Apdal.
+
+
+
+[39:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[39:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[40:16] So calon kena pergi.
+
+
+
+[40:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[40:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[40:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[41:07] Suka gimik.
+
+
+
+[41:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[41:12] Ah.
+
+
+
+[41:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[41:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[41:34] Bagi saya benda itu feudal sangat.
+
+
+
+[41:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[41:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[42:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[43:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[44:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[44:48] Calon pun ada?
+
+
+
+[44:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[44:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[45:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[45:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[46:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[46:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[47:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[47:11] Okey.
+
+
+
+[47:16] Yang pertama.
+
+
+
+[47:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[47:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[47:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[48:10] Ah, so tengah banjir.
+
+
+
+[48:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[48:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[48:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[48:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[48:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[48:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[48:57] Macam-macam.
+
+
+
+[49:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[49:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[49:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[49:09] Oh dia Haknyai.
+
+
+
+[49:11] Haknyai.
+
+
+
+[49:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[49:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[49:23] Oh AMK. tak jemput saya.
+
+
+
+[49:26] Sampai hati.
+
+
+
+[49:27] So apa cerita ni?
+
+
+
+[49:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[49:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[49:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[49:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[49:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[49:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[50:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[50:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[50:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[50:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[51:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[51:29] Ratus ke puluh?
+
+
+
+[51:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[51:35] 4000?
+
+
+
+[51:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[51:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[52:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[52:08] Gila. Alright. Okey.
+
+
+
+[52:12] Beria YB.
+
+
+
+[52:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[52:21] Okey baik.
+
+
+
+[52:22] Next.
+
+
+
+[52:23] Pilihan Raya.
+
+
+
+[52:25] Rakyat, please buat election hari-hari.
+
+
+
+[52:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[52:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[52:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[52:40] Oh bersihkan.
+
+
+
+[52:42] Ada satu yang kita tak masuk.
+
+
+
+[52:43] Apa lagi yang beria ni?
+
+
+
+[52:45] Datuk Seri Shafie Apdal.
+
+
+
+[52:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[52:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[53:16] So calon kena pergi.
+
+
+
+[53:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[53:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[53:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[54:07] Suka gimik.
+
+
+
+[54:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[54:12] Ah.
+
+
+
+[54:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[54:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[54:34] Bagi saya benda itu feudal sangat.
+
+
+
+[54:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[54:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[55:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[56:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[57:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[57:48] Calon pun ada?
+
+
+
+[57:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[57:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[58:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[58:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[59:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[59:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:00:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:00:11] Okey.
+
+
+
+[1:00:16] Yang pertama.
+
+
+
+[1:00:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:00:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:00:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:01:10] Ah, so tengah banjir.
+
+
+
+[1:01:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:01:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:01:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:01:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:01:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:01:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:01:57] Macam-macam.
+
+
+
+[1:02:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:02:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:02:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:02:09] Oh dia Haknyai.
+
+
+
+[1:02:11] Haknyai.
+
+
+
+[1:02:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:02:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:02:23] Oh AMK. tak jemput saya.
+
+
+
+[1:02:26] Sampai hati.
+
+
+
+[1:02:27] So apa cerita ni?
+
+
+
+[1:02:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:02:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:02:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:02:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:02:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:02:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:03:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:03:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:03:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:03:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:04:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:04:29] Ratus ke puluh?
+
+
+
+[1:04:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:04:35] 4000?
+
+
+
+[1:04:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:04:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:05:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:05:08] Gila. Alright. Okey.
+
+
+
+[1:05:12] Beria YB.
+
+
+
+[1:05:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:05:21] Okey baik.
+
+
+
+[1:05:22] Next.
+
+
+
+[1:05:23] Pilihan Raya.
+
+
+
+[1:05:25] Rakyat, please buat election hari-hari.
+
+
+
+[1:05:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:05:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:05:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:05:40] Oh bersihkan.
+
+
+
+[1:05:42] Ada satu yang kita tak masuk.
+
+
+
+[1:05:43] Apa lagi yang beria ni?
+
+
+
+[1:05:45] Datuk Seri Shafie Apdal.
+
+
+
+[1:05:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:05:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:06:16] So calon kena pergi.
+
+
+
+[1:06:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:06:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:06:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:07:07] Suka gimik.
+
+
+
+[1:07:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:07:12] Ah.
+
+
+
+[1:07:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:07:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:07:34] Bagi saya benda itu feudal sangat.
+
+
+
+[1:07:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:07:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:08:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:09:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:10:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:10:48] Calon pun ada?
+
+
+
+[1:10:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:10:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:11:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:11:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:12:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:12:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:13:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:13:11] Okey.
+
+
+
+[1:13:16] Yang pertama.
+
+
+
+[1:13:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:13:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:13:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:14:10] Ah, so tengah banjir.
+
+
+
+[1:14:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:14:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:14:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:14:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:14:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:14:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:14:57] Macam-macam.
+
+
+
+[1:15:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:15:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:15:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:15:09] Oh dia Haknyai.
+
+
+
+[1:15:11] Haknyai.
+
+
+
+[1:15:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:15:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:15:23] Oh AMK. tak jemput saya.
+
+
+
+[1:15:26] Sampai hati.
+
+
+
+[1:15:27] So apa cerita ni?
+
+
+
+[1:15:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:15:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:15:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:15:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:15:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:15:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:16:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:16:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:16:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:16:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:17:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:17:29] Ratus ke puluh?
+
+
+
+[1:17:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:17:35] 4000?
+
+
+
+[1:17:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:17:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:18:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:18:08] Gila. Alright. Okey.
+
+
+
+[1:18:12] Beria YB.
+
+
+
+[1:18:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:18:21] Okey baik.
+
+
+
+[1:18:22] Next.
+
+
+
+[1:18:23] Pilihan Raya.
+
+
+
+[1:18:25] Rakyat, please buat election hari-hari.
+
+
+
+[1:18:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:18:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:18:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:18:40] Oh bersihkan.
+
+
+
+[1:18:42] Ada satu yang kita tak masuk.
+
+
+
+[1:18:43] Apa lagi yang beria ni?
+
+
+
+[1:18:45] Datuk Seri Shafie Apdal.
+
+
+
+[1:18:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:18:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:19:16] So calon kena pergi.
+
+
+
+[1:19:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:19:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:19:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:20:07] Suka gimik.
+
+
+
+[1:20:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:20:12] Ah.
+
+
+
+[1:20:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:20:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:20:34] Bagi saya benda itu feudal sangat.
+
+
+
+[1:20:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:20:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:21:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:22:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:23:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:23:48] Calon pun ada?
+
+
+
+[1:23:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:23:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:24:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:24:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:25:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:25:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:26:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:26:11] Okey.
+
+
+
+[1:26:16] Yang pertama.
+
+
+
+[1:26:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:26:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:26:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:27:10] Ah, so tengah banjir.
+
+
+
+[1:27:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:27:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:27:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:27:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:27:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:27:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:27:57] Macam-macam.
+
+
+
+[1:28:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:28:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:28:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:28:09] Oh dia Haknyai.
+
+
+
+[1:28:11] Haknyai.
+
+
+
+[1:28:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:28:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:28:23] Oh AMK. tak jemput saya.
+
+
+
+[1:28:26] Sampai hati.
+
+
+
+[1:28:27] So apa cerita ni?
+
+
+
+[1:28:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:28:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:28:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:28:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:28:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:28:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:29:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:29:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:29:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:29:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:30:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:30:29] Ratus ke puluh?
+
+
+
+[1:30:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:30:35] 4000?
+
+
+
+[1:30:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:30:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:31:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:31:08] Gila. Alright. Okey.
+
+
+
+[1:31:12] Beria YB.
+
+
+
+[1:31:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:31:21] Okey baik.
+
+
+
+[1:31:22] Next.
+
+
+
+[1:31:23] Pilihan Raya.
+
+
+
+[1:31:25] Rakyat, please buat election hari-hari.
+
+
+
+[1:31:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:31:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:31:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:31:40] Oh bersihkan.
+
+
+
+[1:31:42] Ada satu yang kita tak masuk.
+
+
+
+[1:31:43] Apa lagi yang beria ni?
+
+
+
+[1:31:45] Datuk Seri Shafie Apdal.
+
+
+
+[1:31:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:31:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:32:16] So calon kena pergi.
+
+
+
+[1:32:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:32:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:32:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:33:07] Suka gimik.
+
+
+
+[1:33:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:33:12] Ah.
+
+
+
+[1:33:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:33:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:33:34] Bagi saya benda itu feudal sangat.
+
+
+
+[1:33:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:33:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:34:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:35:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:36:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:36:48] Calon pun ada?
+
+
+
+[1:36:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:36:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:37:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:37:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:38:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:38:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:39:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:39:11] Okey.
+
+
+
+[1:39:16] Yang pertama.
+
+
+
+[1:39:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:39:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:39:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:40:10] Ah, so tengah banjir.
+
+
+
+[1:40:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:40:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:40:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:40:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:40:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:40:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:40:57] Macam-macam.
+
+
+
+[1:41:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:41:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:41:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:41:09] Oh dia Haknyai.
+
+
+
+[1:41:11] Haknyai.
+
+
+
+[1:41:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:41:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:41:23] Oh AMK. tak jemput saya.
+
+
+
+[1:41:26] Sampai hati.
+
+
+
+[1:41:27] So apa cerita ni?
+
+
+
+[1:41:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:41:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:41:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:41:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:41:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:41:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:42:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:42:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:42:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:42:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:43:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:43:29] Ratus ke puluh?
+
+
+
+[1:43:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:43:35] 4000?
+
+
+
+[1:43:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:43:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:44:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:44:08] Gila. Alright. Okey.
+
+
+
+[1:44:12] Beria YB.
+
+
+
+[1:44:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:44:21] Okey baik.
+
+
+
+[1:44:22] Next.
+
+
+
+[1:44:23] Pilihan Raya.
+
+
+
+[1:44:25] Rakyat, please buat election hari-hari.
+
+
+
+[1:44:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:44:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:44:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:44:40] Oh bersihkan.
+
+
+
+[1:44:42] Ada satu yang kita tak masuk.
+
+
+
+[1:44:43] Apa lagi yang beria ni?
+
+
+
+[1:44:45] Datuk Seri Shafie Apdal.
+
+
+
+[1:44:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:44:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:45:16] So calon kena pergi.
+
+
+
+[1:45:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:45:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:45:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:46:07] Suka gimik.
+
+
+
+[1:46:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:46:12] Ah.
+
+
+
+[1:46:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:46:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:46:34] Bagi saya benda itu feudal sangat.
+
+
+
+[1:46:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:46:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[1:47:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[1:48:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[1:49:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[1:49:48] Calon pun ada?
+
+
+
+[1:49:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[1:49:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[1:50:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[1:50:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[1:51:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[1:51:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[1:52:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[1:52:11] Okey.
+
+
+
+[1:52:16] Yang pertama.
+
+
+
+[1:52:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[1:52:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[1:52:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[1:53:10] Ah, so tengah banjir.
+
+
+
+[1:53:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[1:53:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[1:53:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[1:53:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[1:53:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[1:53:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[1:53:57] Macam-macam.
+
+
+
+[1:54:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[1:54:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[1:54:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[1:54:09] Oh dia Haknyai.
+
+
+
+[1:54:11] Haknyai.
+
+
+
+[1:54:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[1:54:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[1:54:23] Oh AMK. tak jemput saya.
+
+
+
+[1:54:26] Sampai hati.
+
+
+
+[1:54:27] So apa cerita ni?
+
+
+
+[1:54:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[1:54:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[1:54:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[1:54:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[1:54:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[1:54:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[1:55:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[1:55:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[1:55:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[1:55:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[1:56:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[1:56:29] Ratus ke puluh?
+
+
+
+[1:56:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[1:56:35] 4000?
+
+
+
+[1:56:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[1:56:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[1:57:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[1:57:08] Gila. Alright. Okey.
+
+
+
+[1:57:12] Beria YB.
+
+
+
+[1:57:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[1:57:21] Okey baik.
+
+
+
+[1:57:22] Next.
+
+
+
+[1:57:23] Pilihan Raya.
+
+
+
+[1:57:25] Rakyat, please buat election hari-hari.
+
+
+
+[1:57:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[1:57:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[1:57:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[1:57:40] Oh bersihkan.
+
+
+
+[1:57:42] Ada satu yang kita tak masuk.
+
+
+
+[1:57:43] Apa lagi yang beria ni?
+
+
+
+[1:57:45] Datuk Seri Shafie Apdal.
+
+
+
+[1:57:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[1:57:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[1:58:16] So calon kena pergi.
+
+
+
+[1:58:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[1:58:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[1:58:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[1:59:07] Suka gimik.
+
+
+
+[1:59:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[1:59:12] Ah.
+
+
+
+[1:59:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[1:59:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[1:59:34] Bagi saya benda itu feudal sangat.
+
+
+
+[1:59:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[1:59:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:00:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:01:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:02:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:02:48] Calon pun ada?
+
+
+
+[2:02:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:02:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:03:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:03:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:04:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:04:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:05:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:05:11] Okey.
+
+
+
+[2:05:16] Yang pertama.
+
+
+
+[2:05:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:05:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:05:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:06:10] Ah, so tengah banjir.
+
+
+
+[2:06:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:06:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:06:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:06:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:06:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:06:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:06:57] Macam-macam.
+
+
+
+[2:07:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:07:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:07:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:07:09] Oh dia Haknyai.
+
+
+
+[2:07:11] Haknyai.
+
+
+
+[2:07:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:07:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:07:23] Oh AMK. tak jemput saya.
+
+
+
+[2:07:26] Sampai hati.
+
+
+
+[2:07:27] So apa cerita ni?
+
+
+
+[2:07:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:07:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:07:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:07:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:07:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:07:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:08:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:08:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:08:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:08:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:09:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:09:29] Ratus ke puluh?
+
+
+
+[2:09:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:09:35] 4000?
+
+
+
+[2:09:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:09:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:10:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:10:08] Gila. Alright. Okey.
+
+
+
+[2:10:12] Beria YB.
+
+
+
+[2:10:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:10:21] Okey baik.
+
+
+
+[2:10:22] Next.
+
+
+
+[2:10:23] Pilihan Raya.
+
+
+
+[2:10:25] Rakyat, please buat election hari-hari.
+
+
+
+[2:10:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:10:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:10:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:10:40] Oh bersihkan.
+
+
+
+[2:10:42] Ada satu yang kita tak masuk.
+
+
+
+[2:10:43] Apa lagi yang beria ni?
+
+
+
+[2:10:45] Datuk Seri Shafie Apdal.
+
+
+
+[2:10:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:10:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:11:16] So calon kena pergi.
+
+
+
+[2:11:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:11:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:11:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:12:07] Suka gimik.
+
+
+
+[2:12:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:12:12] Ah.
+
+
+
+[2:12:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:12:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:12:34] Bagi saya benda itu feudal sangat.
+
+
+
+[2:12:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:12:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:13:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:14:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:15:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:15:48] Calon pun ada?
+
+
+
+[2:15:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:15:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:16:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak turun. Macam mana YB mesej pada orang?
+
+
+
+[2:16:21] Saya selalunya tak layan sangat. Itu dah level-level cap lot seitu. Sebab kalau kita nak mengukur sumbanganlah kan, mereka itu yang duk komplain-komplain ni, membanding-bandingkan dengan KJ semuanya kan. Mereka ini tak wujud pun semasa kita bersusah payah. Jadi kalau nak kira sumbangan, saya tak rasalah saya perlu berdabik dada dan menunjukkan akulah yang banyak menyumbang dan aku terus menyumbang. Kerana kita berada di situ sebelum pun parti PKR ini dilahirkan dan masa susah payah dulu kan, masa parti kalah, masa kena keluar duit sendiri, masa saya pernah cerita kan masa buat radio internet yang pertama, semua daripada luar negara semua kan.
+
+
+
+[2:17:08] Yang itulah yang memberi kekuatan, yang membina parti yang ada sekarang kan, cuma sebahagian daripada PKR ni bila yang masuk ini ialah jenis-jenis yang kita tak tahu datang daripada mana dalam kebelakangan dua tiga tahun ini. Mereka yang tidak faham sejarah dan juga suka duka membina parti ini yang keluarkan kenyataan-kenyataan begitu.
+
+
+
+[2:17:43] Yang lain tu saya ingat dia tak timbullah soal orang ini menyumbang tengok KJ pun lebih menyumbang. Saya rasa kalau tanya KJ pun KJ malu kan. Ada juga pandangan yang tanya, takkan sampai ke level itu PKR?
+
+
+
+[2:18:01] Hmm. Okey, baik YB. Clear. Kita ke segmen yang pertama. Beria Mat. Tadi dah beria tadi dah kira intro beria-beria kau tanya soalan kan?
+
+
+
+[2:18:11] Okey.
+
+
+
+[2:18:16] Yang pertama.
+
+
+
+[2:18:27] Menangis sebab kantoi dengan isteri, ini banjir baru-baru ni YB.
+
+
+
+[2:18:30] Ini apa cerita dia ni? Aku tak follow sangat cerita-cerita yang tahulah kalau dekat media sosial cerita macam nilah yang paling viral kan tapi dia tak pernah keluar pula timeline aku. So apa cerita dia?
+
+
+
+[2:18:50] Saya pun jarang pergi, tapi Farhan tadi dia kata dia nak sangat beria-ia dia nak terangkan. Macam mana Farhan?
+
+
+
+[2:19:10] Ah, so tengah banjir.
+
+
+
+[2:19:14] Ni kawan kau ke apa ni kantoi dengan isteri ni?
+
+
+
+[2:19:17] Saya ada FC kawan-kawan yang stuck tak dapat balik Malaysia. Tapi bukan sebab kantoi dengan isteri lah.
+
+
+
+[2:19:21] So, mereka ada adalah tulah dekat sosial media ni menyatakan ada report suami pergi KL tapi last-last sebab banjir dia kantoi skandal sana. Ada juga yang kata suami kawan.
+
+
+
+[2:19:40] Kantoi skandal sana maksudnya tiba-tiba dia ada di Haknya di sana dengan seseorang lah. Dia kata kat wife dia pergi mana? Dia kata kat wife dia pergi KL. Ini yang ini yang ada
+
+
+
+[2:19:45] Oh itu yang lovely Nor Pinky kata tak sebenarnya memang meeting kat KL tapi side visit nya ke Haknya.
+
+
+
+[2:19:52] Ada ada lagi satu yang kata dia ride pergi Cameron tapi last-last kantoi kat Ayah juga.
+
+
+
+[2:19:57] Macam-macam.
+
+
+
+[2:20:00] Tapi setahu saya YB kalau pergi Haknya tu tak payah bawa skandal pun tak apa juga tu.
+
+
+
+[2:20:03] Dia what is the pronunciation Haknyai ke Haknyai?
+
+
+
+[2:20:06] Dia orang kata Haknyai cuma orang kita Haknyai.
+
+
+
+[2:20:09] Oh dia Haknyai.
+
+
+
+[2:20:11] Haknyai.
+
+
+
+[2:20:12] Ni, aku saja nak test siapa yang selalu pergi ni.
+
+
+
+[2:20:17] Tapi pun. Siapa yang selalu, siapa yang boleh pronounce properly.
+
+
+
+[2:20:23] Oh AMK. tak jemput saya.
+
+
+
+[2:20:26] Sampai hati.
+
+
+
+[2:20:27] So apa cerita ni?
+
+
+
+[2:20:31] Beria lah tipu isteri. Boleh saja cakap. Nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi mana. Tak biasa menipu lah.
+
+
+
+[2:20:39] Ah, selalu, selalu orang yang bawa motor besar ni memang pergi Haknyai.
+
+
+
+[2:20:45] Sebab apa orang bawa motor besar pergi Haknyai?
+
+
+
+[2:20:46] Sebab dia first stop lepas cross border nak pergi Northern Thailand.
+
+
+
+[2:20:52] Haknyai ni kat mana sebenarnya? Yalah dia dekat sebelah pantai barat.
+
+
+
+[2:20:56] Kalau cross Bukit Kayu Hitam, first town Danok, lepas Danok 60km.
+
+
+
+[2:21:01] 60km dari Bukit Kayu Hitam.
+
+
+
+[2:21:05] So macam mana susah sangat kita nak pergi rescue dia yang banjir?
+
+
+
+[2:21:08] Ah itu yang United 6 Malaysia dah pergi, and then according to earlier reports tadi ada I think beberapa pasukan jentera Malaysia yang memang masuk untuk tolonglah tapi a bit a bit too late.
+
+
+
+[2:21:48] Dia kalau beria pun yang ini cerita, yalah yang buat cerita ni pun yang memviralkan ni pun beria juga. Sebabnya begini, isu ini ialah isu yang yang penting kerana ramai orang terkandas dekat sana. Kita perlu kan, kita perlukan rescue secepat mungkin.
+
+
+
+[2:22:13] Tapi bila ada cerita-cerita macam ni dia devalue perkara itu kan. Jadi orang memandang cerita hak Nyai hak yai, hak yai ni seolah-olah yalah ini cerita menipu isteri pergi kat Haknyai. Padahal ada berapa berapa puluh orang kat sana?
+
+
+
+[2:22:29] Ratus ke puluh?
+
+
+
+[2:22:31] Yang terkandas kat sana? Dia katakan 4000 orang rakyat Malaysia.
+
+
+
+[2:22:35] 4000?
+
+
+
+[2:22:36] Ha, ada 4000 orang yang terkandas dekat sana kan? Jadi yang saya yang saya lebih cenderung yang buat cerita ni yang betul-betul beria ni kan?
+
+
+
+[2:22:50] Sedangkan cerita sebenar dia yang lebih yang itu balik disettle suami isteri dialah biar disettle lah. Ini cerita dia, macam mana nak selamatkan 4000 orang yang yang masih lagi terkandas? Itu kaki siapa pula tu?
+
+
+
+[2:23:03] Ah ni dia punya wife dia tu pantang. Tapi husband dia kantoi curang.
+
+
+
+[2:23:08] Gila. Alright. Okey.
+
+
+
+[2:23:12] Beria YB.
+
+
+
+[2:23:13] Kurang sikitlah. Kurang sikit tak cukup. Ini, ini beria menunggang atas kesusahan orang lain.
+
+
+
+[2:23:21] Okey baik.
+
+
+
+[2:23:22] Next.
+
+
+
+[2:23:23] Pilihan Raya.
+
+
+
+[2:23:25] Rakyat, please buat election hari-hari.
+
+
+
+[2:23:29] Yang ini video ni video dia tengah baiki apa ni?
+
+
+
+[2:23:32] Ya satu tengah baiki jambatan yang biasa rumah ni dekat atas laut tu.
+
+
+
+[2:23:37] Oh ini Satu lagi dekat nilah, bersihkan.
+
+
+
+[2:23:40] Oh bersihkan.
+
+
+
+[2:23:42] Ada satu yang kita tak masuk.
+
+
+
+[2:23:43] Apa lagi yang beria ni?
+
+
+
+[2:23:45] Datuk Seri Shafie Apdal.
+
+
+
+[2:23:46] Baiki jalan. Baiki jalan. Baiki jalan.
+
+
+
+[2:23:51] Ya ini sebab itu saya selalunya yang ini sebenarnya kan pandangan sayalah jentera-jentera parti itu pun kena lebih faham sekarang bahawa yang selalunya lah yang merancang program-program gimik macam ni itu jentera.
+
+
+
+[2:24:16] So calon kena pergi.
+
+
+
+[2:24:18] Tapi banyaklah calon yang suka kan. Itu juga yang contohnya dulu ada menteri turun basuh longkang semua itu kan.
+
+
+
+[2:24:28] Dia itu umm pentingnya pegawai-pegawai ataupun pembantu-pembantu contoh kepada pembantu calon untuk memastikan program, kempen itu tidak jadi macam itu. Kalau tidak dia berterusan lah.
+
+
+
+[2:24:46] Jadi yang akan kena hentam gila-gilanya ialah calon-calon dan ahli politik nilah. Tapi sebahagian sebabnya juga ialah kerana memang masyarakat kita macam itu. Orang dikeliling budaya politik kita tu macam itu.
+
+
+
+[2:25:07] Suka gimik.
+
+
+
+[2:25:09] Dia dia bukan semata-mata suka gimik tahu. Dia feudal.
+
+
+
+[2:25:12] Ah.
+
+
+
+[2:25:13] Dia bagi dia ini, Allah tengok ini dia wakil rakyat. Yang macam ini tak jadi wakil rakyat, apa lagi ni? Ini calon. Oh kalau wakil rakyat baik ya Allah hebatnya.
+
+
+
+[2:25:20] Oh ya Allah hebatnya wakil rakyat dia ini sangatlah sayangkan orang. Sebab itu saya contohnya, ramai orang kita, kalau tengok video-video Datuk Akmal kemudian Datuk Akmal Ketua Pemuda UMNO kan? Kemudian ada juga video-video yang adun-adun pergi marah-marah orang, saya tak sukalah.
+
+
+
+[2:25:34] Bagi saya benda itu feudal sangat.
+
+
+
+[2:25:37] Dia bekerja, aku bekerja. Dia ada kerja dia.
+
+
+
+[2:25:40] Kalau nak tidak ada keperluan untuk saya turun. Kerana sebenarnya pengundi di Sabah dan Sarawak ini, mereka tak gemar sangat kalau orang Semenanjung dan pimpinan Semenanjung yang datang. Jadi kalau ada apa-apa, yang itu yang saya ingat satu risiko besar yang diambil oleh PKR terutamanya kerana hampir keseluruhan kempen di Sabah itu dipandu dan diketuai dan yang diketengahkan adalah pimpinan-pimpinan konon tokoh besar daripada Semenanjung. Jadi dia sebenarnya menguatkan lagi sentimen bahawa PKR di Sabah ini ialah parti dari Semenanjung yang ketandusan pimpinan tempatan. Sebab mereka nak orang tempatan.
+
+
+
+[2:26:49] Jadi dia jadi cash 22 tahu. Sebab itu saya dalam beberapa episod yang lepas eh ada komen kalau bawa calon-calon lompat ini, ini akan melemahkan semangat dan juga reputasi PKR di peringkat akar umbi di Sabah. Dia seolah-olah memberi gambaran bahawa PKR Sabah ini tidak ada pimpinan yang hebat dari kalangan mereka sampai nak kena bawa orang luar. Dan itu akan terus melunturkan keyakinan. Pada masa yang sama bila dilihat pula sepanjang tempoh kempen ni yang diketengahkan Nurul Izzah kan, sekarang Datuk Seri Anwar sendiri kena terpaksa turun berkempen kan, Saifuddin Nasution.
+
+
+
+[2:27:35] Jadi kalau tidak berhati-hati, itu akan menambahkan lagi rasa bahawa PKR Sabah ini sebenarnya tidaklah mewakili sepenuhnya aspirasi orang Sabah dan mereka menunggu isyarat daripada Semenanjung. Sebab itu dalam pemilihan parti yang lepas, yang lepas-lepaslah kan. Saya selalunya ada sokongan yang baik daripada Sabah. Saya tak bagi duit ke apa semua. Satu saya ingat yang yang mungkin membezakan saya daripada orang lain dalam PKR ialah saya tak campur tangan.
+
+
+
+[2:28:15] Sabah dan Sarawak ni mereka nak buat keputusan sendiri macam Sabah pun. Jadi biarkan mereka. Kita kecuali kalau ada keputusan mereka itu yang nampak berbeza daripada perspektif kepentingan nasional. Maka kita kena bagi hujah kitalah. Tapi kita tak boleh nak paksa mereka buat sesuatu kan? Jadi itu juga jawapan yang saya bagi bila adalah beberapa calon ataupun jentera yang minta saya turun.
+
+
+
+[2:28:48] Calon pun ada?
+
+
+
+[2:28:52] Ada, calon yang. Baik-baik. Tapi mereka semua sudah hebat-hebat.
+
+
+
+[2:28:57] Ala-alang jugalah eh, tapi saya takut drag, tapi tak apa sikit.
+
+
+
+[2:29:01] Saya terbaca tadilah ada daripada geng Damai kata, ini KJ yang dibuang pun sanggup ataupun bersar apa hati dia besarlah kan, untuk pergi ke Sabah kempen. YB yang masih lagi ahli parlimen, pemimpin senior walaupun dah tak ada jawatan dalam parti, tak
 
