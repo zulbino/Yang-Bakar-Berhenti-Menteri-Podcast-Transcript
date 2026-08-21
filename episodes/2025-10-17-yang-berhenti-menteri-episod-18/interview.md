@@ -9,25 +9,22 @@ duration: 2h 18m
 view_count: 36879
 hosts:
 - Rafizi Ramli
-guests: []
+guests:
+- Speaker 1
 topics:
-- Isu pengibaran bendera Israel
-- Penggunaan kad armada petrol bagi menteri
-- Penipuan rawatan elektrolisis kaki
-- Calon Perdana Menteri Perikatan Nasional
-- Perbahasan Dasar Belanjawan 2025
-- Kesiapsiagaan gempa bumi dan keselamatan paip gas
-- Keganasan sekolah dan cadangan hukuman rotan
-- Anugerah Nobel Kimia dan Metal-Organic Frameworks (MOFs)
-- Peruntukan belanjawan pertahanan negara
-- Kepimpinan Malaysia sebagai Pengerusi ASEAN
-summary: Dalam Episod 18 podcast Yang Berhenti Menteri, Rafizi Ramli membincangkan
-  pelbagai isu tular seperti isu pengibaran bendera Israel, penggunaan kad armada
-  menteri, penipuan rawatan elektrolisis, dan isu calon Perdana Menteri Perikatan
-  Nasional. Beliau turut mencerakinkan topik Belanjawan 2025, kesiapsiagaan bencana
-  gempa bumi, masalah disiplin sekolah dan hukuman rotan, penemuan MOFs oleh pemenang
-  Anugerah Nobel Kimia Prof. Omar Yaghi, serta menjawab soalan penonton mengenai RON92,
-  peruntukan pertahanan negara, dan kepimpinan Malaysia dalam ASEAN.
+- PAS and the Israeli flag
+- Ministerial petrol fleet cards
+- Health misinformation and scams
+- Perikatan Nasional leadership turmoil
+- QR code obituary scams
+- Alternative budget credibility
+summary: In this episode of the 'Siang Berhenti Menteri' podcast, Rafizi Ramli and
+  his co-host discuss various viral social media issues, political incidents, and
+  scams. Topics include the irony surrounding PAS members and the Israeli flag, public
+  misconceptions about ministerial petrol cards, the danger of health scams like foot
+  detoxing, political maneuvering within Perikatan Nasional, and the ethics of QR
+  code scams on obituaries. The conversation concludes with a discussion on the opposition's
+  alternative budget presented during the Parliamentary budget debate.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -36,86 +33,160 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Co-host:** Selamat datang ke *Yang Berhenti Menteri*, Episod 18. Bagi anda yang mendengar menerusi Spotify secara audio sahaja tanpa dapat melihat wajah kami, terima kasih kerana terus mengikuti podcast ini.
+**Speaker 1:** Episode 18 of the 'Siang Berhenti Menteri' podcast. For those joining us, please follow and subscribe to the page and the Rafizi Ramli channel on YouTube and other social media. We are also on Spotify for those who prefer to listen to the audio version, YB. Some people don't watch the video; they just listen to your voice and mine.
 
-**Rafizi Ramli:** Ya, saya ada rakan yang mendengar podcast kita di Spotify semasa dia berjoging. Kalau kita lambat muat naik, dia akan menghantar mesej bertanyakan episod baharu.
+**Rafizi Ramli:** Yes, I have a friend who listens to the podcast on Spotify while jogging. If you guys are slow to upload, he will message me to ask about it.
 
-**Co-host:** Baik YB. Kita terus kepada segmen pertama minggu ini, iaitu perbincangan berkenaan isu-isu tular yang disifatkan sebagai *beria* atau *poyo*. Siapa yang menjadi perhatian kita minggu ini?
+**Speaker 1:** Okay, fair enough, YB. Let’s dive into the various issues from this week. First, how many people have been 'poyo' (arrogant/pretentious) this week? Let’s look at the first one.
 
-**Rafizi Ramli:** Sebenarnya isu pertama ini tidaklah menjadi begitu besar sekiranya penyokong PAS sebelum ini tidak bertindak keterlaluan dalam hal-hal lain, seperti isu bendera China atau pandangan mengenai Palestin. Nak dijadikan cerita, apabila mereka beria-ia mahu membuat aksi gimik mengibar bendera Israel, tindakan itu akhirnya ditertawakan oleh rakyat. Benda ini agak ironik kerana selepas timbul kontroversi pengibaran bendera China di Teluk Intan, tiba-tiba ada yang mengibarkan bendera Israel di Kelantan. Yang saya tidak faham ialah bagaimana dan di mana mereka mendapatkan bendera Israel itu? Sama ada dibeli melalui laman e-dagang atau ditempah khas dari Thailand.
+**Rafizi Ramli:** People are still using the word 'poyo'?
 
-**Co-host:** Seterusnya YB, timbul isu tular di media sosial berkenaan kenyataan YAB Perdana Menteri, Dato’ Seri Anwar Ibrahim, yang memberitahu beliau membayar RM2.60 untuk minyak petrol. Ramai yang bertanyakan hal ini.
+**Speaker 1:** Yes, though perhaps I'm a bit of a 'boomer' for saying it.
 
-**Rafizi Ramli:** Saya fikir mungkin mereka yang bertanyakan isu ini tidak faham bagaimana sistem kerajaan berfungsi. Seorang Menteri atau Perdana Menteri sebenarnya tidak membayar minyak secara tunai di stesen minyak. Setiap Menteri, Timbalan Menteri, malah pasangan mereka disediakan kad armada (*fleet card*) oleh kerajaan. Oleh itu, mereka jarang mengisi minyak sendiri kerana tugas itu dilakukan oleh pemandu. Saya tidak pasti sama ada nilai pengiraan kad armada itu dirujuk pada harga RM2.60 atau bagaimana, tetapi hakikatnya perbelanjaan minyak itu dibayar oleh kerajaan. Menganggap Perdana Menteri berhenti di stesen minyak dan membayar RM2.60 secara peribadi adalah tidak logik kerana urusan itu ditangani oleh pemandu dan pegawai keselamatan beliau.
+**Rafizi Ramli:** Hmm.
 
-**Co-host:** Gambar seterusnya menunjukkan kaedah rawatan rendam kaki yang didakwa mampu mengeluarkan toksin dan kolesterol melalui proses kononnya elektrolisis. 
+**Speaker 1:** What? No. Do 'boomers' use 'poyo'?
 
-**Rafizi Ramli:** Ini scammer yang menggunakan alat elektrolisis berasaskan dua plat elektrik untuk mendakwa toksin dan kolesterol boleh keluar melalui rendaman kaki. Kalau kaedah ini benar-benar berkesan, saya tidak perlulah makan ubat kolesterol—cukup sekadar merendam kaki. Berbahaya apabila ramai masyarakat, termasuk berbilang bangsa, terpengaruh dengan jalan pintas sebegini. Nasihat saya, jika ada masalah kesihatan, berjumpalah doktor terlebih dahulu. Mengurangkan kolesterol tidak ada jalan pintas; ia memerlukan kawalan pemakanan dan senaman yang berterusan. Scammer sebegini sama seperti skim cepat kaya yang mengambil kesempatan atas sikap sesetengah orang yang suka akan penyelesaian mudah.
+**Rafizi Ramli:** Gen-Z wouldn't use it.
 
-**Co-host:** Isu seterusnya ialah kenyataan Ahli Parlimen Marang mengenai risiko menamakan calon Perdana Menteri bagi Perikatan Nasional (PN), atas alasan keselamatan seperti bimbang diculik atau disabotaj.
+**Speaker 1:** Ah.
 
-**Rafizi Ramli:** Saya berada dalam Dewan Rakyat semasa Ahli Parlimen Marang berucap. Kita semua tahu sebab sebenar PN masih belum menamakan calon Perdana Menteri adalah kerana PAS tidak bersetuju dengan Tan Sri Muhyiddin Yassin. Dato' Seri Hadi Awang nampaknya lebih cenderung kepada Dato' Seri Hamzah Zainuddin, yang turut memberi kesan kepada pergolakan dalaman Bersatu. Alasan diculik atau disabotaj itu sukar diterima akal oleh rakyat umum, walaupun mungkin dipercayai oleh sesetengah ahli parti. Daripada memberi alasan sebegini, adalah lebih berterus terang jika mereka menyatakan bahawa perkara itu masih dalam perbincangan.
+**Rafizi Ramli:** And definitely not Gen-X. So who actually uses 'poyo'?
 
-**Co-host:** Isu terakhir dalam segmen ini ialah tindakan penipu yang menukar kod QR sumbangan dalam berita obituari untuk mencuri wang duka keluarga si mati.
+**Speaker 1:** Well, everyone. Anyway, my apologies.
 
-**Rafizi Ramli:** Ini tindakan yang sangat jahat. Dalam tempoh kurang 24 jam selepas sesuatu musibah berlaku, scammer mengambil kesempatan atas kesedihan keluarga untuk mengaut keuntungan. Mujur perkara ini dikenal pasti lebih awal dan orang ramai diingatkan supaya menyalurkan bantuan terus kepada keluarga mangsa tanpa menggunakan kod QR yang diragui.
+**Rafizi Ramli:** (Laughs)
 
-**Co-host:** Daripada kesemua isu ini YB, mana satu yang menjadi pemenang utama segmen *beria* minggu ini?
+**Speaker 1:** Let’s look at the first item, YB. What do you see?
 
-**Rafizi Ramli:** Pemenang mutlak minggu ini ialah isu pengibaran bendera Israel. Perkara itu jelas memakan diri PAS semula dan pasti akan terus dibangkitkan pada masa akan datang.
+**Rafizi Ramli:** It wouldn't really be much of an issue if PAS supporters weren't so extreme whenever something involves the Chinese flag or similar things. Or if they weren't so extreme with their differing views on Palestine. The long and short of it is that they are 'terpaling' (the most) passionate about Palestine. To make a long story short, I think it was ironic that they went to such lengths to stage this dramatic display with the Israeli flag. 
 
----
+They ended up being mocked by the public. It’s so ironic—they made such a big fuss about the Chinese flag being flown in Teluk Intan, and then suddenly, they are flying an Israeli flag in Kelantan. The one thing I don't understand is, where did they even get an Israeli flag? Where do you even find one?
 
-**Co-host:** Kita beralih kepada segmen *Standing Order*. Minggu ini Parlimen menumpukan perhatian kepada Perbahasan Dasar Belanjawan 2025. Apakah pandangan pertama YB mengenai ucapan Ketua Pembangkang?
+**Speaker 1:** Well, you’d have to ask them.
 
-**Rafizi Ramli:** Selepas dua tahun menerima tekanan daripada rakyat supaya mengemukakan belanjawan alternatif, akhirnya pihak pembangkang cuba menunjukkan yang mereka mempunyai cadangan sendiri. Namun, terdapat perbezaan ketara antara belanjawan alternatif yang sebenar dengan apa yang dibentangkan. Saya adalah antara kumpulan pertama yang pernah menyusun dokumen belanjawan alternatif pembangkang dalam sejarah negara. Belanjawan alternatif bukannya sekadar pengumuman berunsur populis, tetapi mesti berasaskan dokumen rasmi yang menunjukkan anggaran hasil, perbelanjaan mengurus, perbelanjaan pembangunan, serta unjuran hutang negara.
+**Rafizi Ramli:** They were so committed. Maybe they got it from Thailand? Or maybe Shopee.
 
-Sebagai contoh, jika pembangkang mencadangkan pemberian RM6,000 setahun kepada rakyat, ia mesti dikoskan (*costed*) dengan teliti. Adakah pemberian itu untuk setiap isi rumah atau setiap individu? Berapa jumlah keseluruhan yang terlibat? Jika bantuan tunai sedia ada (STR dan SARA) bernilai sekitar RM15 bilion setahun, penggandaan kadar bantuan tersebut akan melonjakkan kos kepada RM30 bilion setahun. Dengan defisit semasa 3.5% dan lebihan semasa yang terhad, dari mana sumber kewangan akan diperoleh?
+**Speaker 1:** Oh, Shopee sells them?
 
-Di negara maju seperti United Kingdom, terdapat badan bebas seperti *Office for Budget Responsibility* yang mengira dan mengesahkan kos setiap cadangan parti politik. Tanpa perincian sedemikian, cadangan PN itu hanyalah manifestasi janji manis yang tidak menyentuh masalah struktur utama negara, seperti perangkap pendapatan sederhana (*middle-income trap*), produktiviti, dan beban khidmat hutang (*debt service charge*) yang semakin meningkat.
+**Rafizi Ramli:** They can be custom-made.
 
-**Co-host:** Mari kita semak soalan-soalan Parlimen minggu ini. Soalan pertama datang daripada Ir. Ts. Zahir Hassan (Titiwangsa) berkenaan tahap kesiapsiagaan menghadapi bencana gempa bumi berikutan lapan gegaran di Johor, serta penguatkuasaan piawaian *Eurocode 8* dalam reka bentuk bangunan.
+**Speaker 1:** You sound like you’ve bought one before.
 
-**Rafizi Ramli:** YB Zahir ialah seorang jurutera awam bertauliah dan Pengerusi Kaukus Parlimen mengenai keselamatan dan bencana. Soalan ini sangat kritikal tetapi kurang diberi perhatian oleh media dan masyarakat. Kita pernah mengalami lapan gegaran di Segamat, yang merupakan hab kawalan utama bagi rangkaian paip gas Semenanjung Malaysia. Sekiranya berlaku gangguan struktur pada infrastruktur gas tersebut, impaknya amat besar kepada negara. Agensi berkaitan dan Petronas perlu membuat penilaian risiko dan kesiapsiagaan secara menyeluruh. Ini soalan yang sangat substantif daripada seorang ahli Parlimen yang berasaskan latar belakang profesionalnya.
+**Rafizi Ramli:** Not at all. It’s an Israeli flag.
 
-**Co-host:** Soalan kedua daripada Ahli Parlimen Besut meminta Kementerian Dalam Negeri menjelaskan klasifikasi dakwaan bahawa YAB Perdana Menteri menerima wang tidak diaudit daripada seorang tokoh perniagaan sebagai sekadar isu audit dan pentadbiran parti PKR.
+**Speaker 1:** Okay, next, YB. Have you noticed?
 
-**Rafizi Ramli:** Walaupun soalan ini datang daripada pembangkang, ini adalah soalan yang tepat pada sasarannya (*bullseye*). Latar belakangnya melibatkan rakaman tular mengenai dakwaan penerimaan wang dan kes laporan polis berhubung dugaan pemalsuan tanda tangan penyata kewangan oleh seorang ketua cabang parti. Jika dakwaan pemalsuan tanda tangan itu wujud, ia adalah kes jenayah pemalsuan (*forgery*). Dalam masa yang sama, dakwaan penerimaan wang tidak diaudit menuntut penjelasan yang tegas, terutamanya apabila Perdana Menteri mendukung imej antirasuah. Jika tuduhan itu palsu, tindakan tegas seperti pemecatan parti patut diambil ke atas individu berkenaan, bukannya sekadar penggantungan keahlian yang kelihatan teragak-agak.
+**Rafizi Ramli:** Yes, there are the usual people on social media. Our people are diligent. They forward things and then ask in the comments or on Messenger, "Is it true that Datuk Seri Anwar says he pays RM2.60 for petrol?"
 
----
+**Speaker 1:** Right.
 
-**Co-host:** Kita masuk ke segmen *Hidup Keras*. Isu utama minggu ini ialah siri insiden keganasan dan salah laku di sekolah. Antara cadangan yang kerap dibangkitkan oleh orang ramai dan ahli politik ialah mengembalikan hukuman rotan. Apakah diagnosis YB terhadap isu ini?
+**Rafizi Ramli:** Many have asked me that. I think maybe it’s civil servants asking. Because ministers don't pay for petrol.
 
-**Rafizi Ramli:** Kebelakangan ini kita melihat pelbagai reaksi—ada yang mendesak hukuman rotan dikembalikan, dan ada yang menyalahkan penggunaan telefon pintar sehingga kerajaan mempertimbangkan langkah penguatkuasaan e-KYC bagi media sosial. Pada pandangan saya, kita tidak boleh melatah dengan sekadar menguruskan simptom tanpa meneliti punca akar (*root cause*). 
+**Speaker 1:** Ah.
 
-Masalah yang berlaku di sekolah adalah cerminan keadaan masyarakat kita hari ini (*reflection of our society*). Kanak-kanak membesar dalam dunia yang terhubung melampau (*hyper-connected*). Sebagai ibu bapa, kita perlu cermin diri kita terlebih dahulu: Berapa banyak masa yang kita luangkan bersama anak-anak? Sejauh mana tingkah laku, kekasaran, dan kecenderungan menghukum dalam kalangan orang dewasa mempengaruhi minda mereka?
+**Rafizi Ramli:** For ministers, all petrol is paid for by the government.
 
-Isu ini tidak boleh diselesaikan secara mudah dengan menyerahkan tanggungjawab mendidik 100% kepada guru atau mengembalikan hukuman rotan semata-mata. Latar belakang masyarakat hari ini sudah berbeza berbanding era lalu. Jika hukuman rotan dibenarkan semula tanpa konsensus mendalam, adakah ibu bapa hari ini bersedia menerima kesannya tanpa membuat aduan media? Sebarang keputusan mengenai disiplin sekolah mesti berasaskan data, kajian mendalam, dan libat urus bersama Persatuan Ibu Bapa dan Guru (PIBG), bukannya keputusan unilateral oleh Kabinet semata-mata. Didikan utama tetap bermula dari rumah.
+**Speaker 1:** Is it via claim or a specific card?
 
----
+**Rafizi Ramli:** There is a specific card.
 
-**Co-host:** Seterusnya segmen *Fuyo*. Minggu ini kita memberi tumpuan kepada Anugerah Nobel Kimia yang dimenangi oleh Profesor Omar Yaghi bersama rakannya atas penemuan Kerangka Logam-Organik (*Metal-Organic Frameworks* - MOFs).
+**Speaker 1:** A specific card for ministers?
 
-**Rafizi Ramli:** Perkara yang paling menyentuh perasaan ialah Omar Yaghi merupakan seorang saintis kelahiran kem pelarian Palestin di Jordan sebelum melanjutkan pengajian di Amerika Syarikat. Daripada populasi sekitar 6 juta orang Palestin di dunia, lahir seorang pemenang Anugerah Nobel Kimia. Ini wajar menjadi iktibar kepada kita di Malaysia.
+**Rafizi Ramli:** Yes, every minister or deputy minister is provided with a fleet card. Even their spouses, though mine doesn't have one because she doesn't have a driving license. As a minister, you never pump your own gas because the driver does it. I'm not sure if the fleet card rate is RM2.60 now, but the concept of a minister paying for their own petrol is a bit strange. Especially for the Prime Minister. I don’t think Datuk Seri Anwar has time to drive his own car, stop at a petrol station, and pay RM2.60.
 
-Dari sudut sains, MOFs adalah struktur bahan berliang (*porous*) pada peringkat atomik yang dianalogikan seperti "beg tangan Hermione" dalam kisah Harry Potter—nampak kecil di luar tetapi mempunyai ruang permukaan dalaman yang sangat luas. Penemuan ini membolehkan perangkap molekul spesifik dicipta pada peringkat sub-atomik. Ia mempunyai potensi besar dalam teknologi penangkapan, penggunaan, dan penyimpanan karbon (*Carbon Capture, Utilization, and Storage* - CCUS), yang boleh mengubah peta teknologi hijau dan usaha menangani perubahan iklim dunia pada masa hadapan.
+**Speaker 1:** Exactly, his driver and security detail probably handle all of that. So, what are you asking me to rate here? The PM making a big deal about paying RM2.60? Maybe it was a family member of his.
 
----
+**Rafizi Ramli:** Or maybe he just wanted to point out that the fleet card is charged at RM2.60.
 
-**Co-host:** Kita masuk ke segmen terakhir, *Yang Berhenti Menteri Question Time*. 
+**Speaker 1:** But the fleet card is paid for by the government. So it’s free for him.
 
-Soalan pertama daripada Fandy: "Bolehkah kerajaan memperkenalkan semula petrol RON92 seperti dahulu kerana kebanyakan kereta boleh menggunakan minimum RON91 dan harganya lebih murah?"
+**Rafizi Ramli:** I think those who keep forwarding the message actually know that ministers and deputies don't pay for their own petrol—it's covered by the government.
 
-**Rafizi Ramli:** Pertimbangan mengenai gred bahan api bukan sekadar faktor harga runcit, tetapi terikat dengan piawaian pelepasan karbon antarabangsa dan komitmen hijau negara. Trend global kini bergerak ke arah tenaga bersih dan kenderaan elektrik (EV). Daripada kita berundur ke belakang menggunakan bahan api gred lebih rendah yang meningkatkan pelepasan karbon, fokus negara sepatutnya tertumpu kepada mematangkan ekosistem EV agar lebih terjangkau oleh rakyat. Ini membolehkan kita mengurangkan kebergantungan kepada import minyak dan beralih kepada sumber tenaga boleh baharu tempatan seperti solar dan hidro.
+**Speaker 1:** Is there no limit?
 
-**Co-host:** Soalan kedua daripada Hakam Hafiz: "Mengapa peruntukan pertahanan Malaysia secara purata sekitar RM17 bilion setahun berbanding Singapura yang mencecah RM65 bilion hingga RM71 bilion setahun?"
+**Rafizi Ramli:** That’s it. I have never paid for petrol myself, except during election campaigns when I used my own car. I’m not sure if other ministers do that. During a campaign, because I use my own vehicle, I have to pay for it myself. I don’t think the PM is allowed to use his own car anyway, given his security protocols.
 
-**Rafizi Ramli:** Jawapan ringkasnya ialah faktor kemampuan kewangan negara. Walaupun peruntukan Kementerian Pertahanan dinaikkan dalam belanjawan terkini, kita berdepan kekangan fiskal. Keutamaan perbelanjaan aset terpaksa disalurkan untuk menyelesaikan komitmen projek sedia ada seperti Kapal Tempur Pesisir (LCS). Keadaan ini menjejaskan kelajuan pemodenan aset Tentera Darat dan Tentera Udara. Sebab itulah kawalan hutang dan pengurangan bayaran khidmat hutang negara amat kritikal; sekiranya kita dapat menjimatkan beberapa bilion ringgit daripada beban faedah hutang, dana tersebut boleh dialihkan terus untuk menaik taraf aset pertahanan negara.
+**Speaker 1:** Very well, YB. Let’s move to the next one. Soaking your feet to remove toxins. 
 
-**Co-host:** Soalan terakhir daripada Mahrin Zainal berkenaan peranan Malaysia sebagai Pengerusi ASEAN, terutamanya dalam mengimbangi diplomasi berprinsip isu Gaza dengan kedatangan pemimpin dunia seperti Donald Trump.
+**Rafizi Ramli:** Oh, this uncle? He’s the one who claimed that soaking your feet draws out toxins.
 
-**Rafizi Ramli:** Kita perlu faham bahawa ASEAN beroperasi atas prinsip konsensus dan tidak campur tangan (*non-interference*). Malaysia bertindak sebagai pengerusi dan tuan rumah bagi pihak seluruh blok ASEAN, bukannya membuat keputusan secara bersendirian mengikut selera politik domestik semata-mata. Walaupun Malaysia konsisten dan tegas dalam isu hak asasi serta konflik Gaza, mengendalikan persidangan peringkat antarabangsa memerlukan diplomasi berprinsip yang mengekalkan perpaduan dan kedudukan strategik ASEAN sebagai blok ekonomi penting dunia.
+**Speaker 1:** Yes, it went viral recently because of this video, even though the concept is old.
 
-**Co-host:** Terima kasih YB atas penjelasan yang komprehensif. Sekian sahaja untuk episod kali ini. Selamat Menyambut Hari Deepavali, *Deepavali Nal Vaazthukal* kepada seluruh penganut Hindu. Terus menyokong dan berkongsi podcast *Yang Berhenti Menteri*. Jumpa lagi minggu depan.
+**Rafizi Ramli:** Because there are electrodes involved. He claims it's electrolysis.
 
-**Rafizi Ramli:** Selamat malam.
+**Speaker 1:** He didn't even mention electrolysis; he just straight up said, "This is toxins," and "This is cholesterol."
+
+**Rafizi Ramli:** Oh, so if you soak your feet, the cholesterol just comes out?
+
+**Speaker 1:** Yes, and so on.
+
+**Rafizi Ramli:** (Laughs)
+
+**Speaker 1:** If it were that easy, I wouldn't have to take so much medication for my cholesterol. I’d just go soak my feet.
+
+**Rafizi Ramli:** What I find more interesting is how many customers he has. It's sad that people fall for this. My advice is, if you come across these things, consult a doctor first. If you don't have time to see a doctor, ask ChatGPT. But this is dangerous because people should have enough sense to realize that if you could draw cholesterol and toxins out of your body by soaking your feet with two electric plates, nobody in Malaysia would be sick. We wouldn’t need the Minister of Health.
+
+**Speaker 1:** Everyone would just be soaking their feet.
+
+**Rafizi Ramli:** The real danger is getting electrocuted. But we have many scammers in this country, and the problem is that there’s a market for them. It’s the same with get-rich-quick schemes.
+
+**Speaker 1:** Our society never learns when it comes to get-rich-quick schemes. Ponzi schemes where people believe that if they invest RM500, they can get RM5,000 back—it makes no sense. But because some people want a shortcut, they fall for it. So, for those who believe in this foot-soaking thing, it means they are looking for shortcuts. There is no shortcut for reducing cholesterol. You have to control your diet and go jogging.
+
+**Rafizi Ramli:** That’s the hard part.
+
+**Speaker 1:** (Laughs) Okay, YB. So, the conclusion is: people in Terengganu call it 'elektrolisis'?
+
+**Rafizi Ramli:** Why would you say it's from Terengganu?
+
+**Speaker 1:** Just kidding.
+
+**Rafizi Ramli:** You mentioned electrolysis, and I said people in Terengganu call it electrolysis.
+
+**Speaker 1:** That’s not funny, and it’s not true. Just because I mentioned electrolysis doesn't mean I represent the people of Terengganu.
+
+**Rafizi Ramli:** (Laughs)
+
+**Speaker 1:** You were reaching. It’s dangerous, too. The people of Terengganu might get angry and think you're accusing them of running this scam.
+
+**Rafizi Ramli:** Not the people of Terengganu.
+
+**Speaker 1:** Okay, okay, fair enough. Next. There are so many of these. The risk for candidates.
+
+**Rafizi Ramli:** I was in the Dewan (Parliament) when the Marang MP (Hadi Awang) gave a speech. He claimed the risk for candidates was regarding safety—that they might be kidnapped or sabotaged, or have gold bars or drugs planted on them. We all know the real reason Perikatan Nasional hasn't named a Prime Ministerial candidate is because PAS doesn't agree with Tan Sri Muhyiddin Yassin. And I think Datuk Seri Hadi Awang would prefer Datuk Seri Hamzah Zainuddin to be the candidate. That’s what’s causing the turmoil in Bersatu right now.
+
+While we can laugh at the excuses given, I think the public is capable of judging for themselves that Perikatan Nasional is in disarray, and this will continue to be a problem. I’m not sure if Datuk Seri Hadi Awang realizes that the Malaysian public isn't like the members of PAS. If he tells PAS members that an ant is a dragon, they will believe him. But the Malaysian public will consider the logic—whether it makes sense or what the real reason might be. It’s difficult for the people to be constantly guessing who the Prime Minister will be because they're afraid of being kidnapped or sabotaged.
+
+We can give him a rating for how hard he tried to avoid answering the real issue, which is that he no longer wants Tan Sri Muhyiddin Yassin as the candidate. If he had just been transparent—saying it’s still being discussed within the coalition—it wouldn’t be a source of amusement. But instead, it became a perfect segment for this podcast.
+
+**Speaker 1:** Right, YB. I think that's the last one. Oh wait, there's more. The scammer who changed the QR code on an obituary.
+
+**Rafizi Ramli:** That’s evil and criminal. Scammers are so persistent. They’ll try to scam anyone, but doing it in under 24 hours, taking advantage of someone’s tragedy to make money—that is truly evil. And our society is usually very generous, so many want to contribute. I don’t know how many were cheated by this scammer, but this is the worst kind of scam. If they catch this person, they should be thrown in prison for a long time. Compared to the 'toxin' scammer earlier, this one is much worse because it takes advantage of a family's grief. Fortunately, it was identified early and the public was alerted.
+
+**Speaker 1:** If you want to help, give directly to the family. Don't use these QR codes. I’m scared to use QR codes now. Okay, YB. Can we rate these?
+
+**Rafizi Ramli:** Yes.
+
+**Speaker 1:** The winner this week is definitely the Israeli flag incident—it was a total slap in the face for PAS. 
+
+**Rafizi Ramli:** PAS will think twice next time before commenting on other flags, as I’m sure this will be brought up repeatedly.
+
+**Speaker 1:** Right. That’s all for our segments today. There were six, quite a lot. Let’s move to the standing order. There isn't much of a government agenda this week, it’s mostly debates.
+
+**Rafizi Ramli:** This week and next week, we are focused on the Budget debate. 
+
+**Speaker 1:** The policy debate.
+
+**Rafizi Ramli:** Yes, the policy debate for the Budget, in addition to the usual questions asked in the morning.
+
+**Speaker 1:** Right, YB. Let’s look at the first one. Perikatan Nasional’s Budget.
+
+**Rafizi Ramli:** This was from the Opposition Leader's speech, YB. If I may ask, what was your first impression when you heard his speech?
+
+**Rafizi Ramli:** I wasn't in the Dewan for that part. I arrived a bit late because I was speaking myself. The Opposition Leader spoke in the morning, around 11:30 or 12:30. I spoke in the afternoon. There were several things we could analyze for the benefit of the people. Firstly, the pressure from the public for the opposition to present an alternative budget—after two years, they finally couldn't play dumb anymore. They tried to show they have an alternative budget.
+
+But, and there is a 'but', I and several colleagues were among the first to ever produce an alternative budget in Malaysian history. When we talk about an alternative budget, it isn't just a few announcements read out by the Opposition Leader. It’s a budget document! It must start with basic things: total revenue, total expenditure, development expenditure, and the state of government debt. Even if it doesn't need to be as detailed as a government document, those are the minimum requirements needed to call it an 'alternative budget.' You need revenue projections, expenditure projections, and debt projections. That is what determines the subsequent details, like how the spending will be allocated and the priority list. 
+
+Only then can the public judge whether the opposition has the credibility to manage the economy, because everything needs to be costed. For example, if you promise RM6,000 to the people annually, you need to detail it. Is that for households or every individual? Then you can compare that cost against projected revenue. If the projected revenue is RM350 billion, and this proposal alone costs RM30 billion, plus other expenditures like salaries and debt servicing, then the public can assess the credibility. What they announced was just 'gula-gula' (political candy) that wasn't costed. 
+
+We haven't reached the level of some developed countries. In some countries with more mature democratic systems, they have an independent body that costs every announcement made by politicians. If the government or the opposition makes a proposal, this independent office calculates and provides an opinion on whether the math is correct. If it’s not, they point it out. In the UK, they have the Office for Budget Responsibility, which is under Parliament. We don't have that in Malaysia yet.
