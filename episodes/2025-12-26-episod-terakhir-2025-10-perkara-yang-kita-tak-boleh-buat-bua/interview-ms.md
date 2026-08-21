@@ -10,89 +10,203 @@ duration: 3h 31m
 view_count: 264521
 hosts:
 - Rafizi Ramli
-- Speaker 1
 guests:
 - Iqbal
 topics:
-- Perlis Menteri Besar resignation
-- PAS-Bersatu relationship
+- Perlis state government crisis
+- Menteri Besar of Perlis resignation
+- Internal politics of PAS and Bersatu
 - Pakatan Harapan political strategy
-- Perlis state elections
-- 1MDB donation case
-summary: In this special 28th episode, the hosts and guest discuss the resignation
-  of the Perlis Menteri Besar, the political dynamics between PAS and Bersatu, the
-  state of Pakatan Harapan in Perlis, and the potential implications of early state
-  elections.
+- 1MDB 2.6 billion donation case
+- Political power struggles in Malaysia
+summary: In this special episode of Yang Bakar Menteri, Rafizi Ramli and Iqbal discuss
+  the recent political developments in Perlis, specifically the resignation of the
+  Menteri Besar and the internal power struggles within the Perlis state government
+  involving PAS and Bersatu. They also touch upon Pakatan Harapan's stance and the
+  broader implications of these political shifts, while briefly mentioning an upcoming
+  1MDB case decision.
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum dan selamat datang ke podcast *Yang Bakar Menteri* episod khas, episod ke-28. Sebelum saya membuat pengakuan, mungkin lebih baik untuk saya ucapkan, *Merry Christmas, ho, ho, ho*. Kekok pula. Okey, minta maaf.
+**Rafizi Ramli:** Assalamualaikum dan selamat datang ke podcast *Yang Bakar Menteri*, episod khas nombor 28. Sebelum saya membuat sebarang pengakuan, mungkin lebih baik saya ucapkan, "Selamat Hari Krismas," ho ho ho.
 
-**Speaker 1:** YB, adakah anda menulis perkara itu dalam skrip anda?
+**Speaker 2:** Janggal pula. Baiklah, saya minta maaf.
 
-**Rafizi Ramli:** Tak, tidak ada. Tapi saya diberitahu, memang ini episod untuk *Merry Christmas*.
+**Rafizi Ramli:** YB.
 
-**Speaker 1:** Kenapa perlu ada *ho, ho, ho* itu, minta maaf.
+**Speaker 2:** Adakah anda tulis itu dalam skrip anda?
 
-**Rafizi Ramli:** Saja-saja, YB. Tapi sebenarnya saya diberitahu episod ini sepatutnya tidak wujud pun, sebab Farhan minta supaya berehat, tapi YB kata tidak boleh, kesian kepada pendengar-pendengar kita, jadi...
+**Rafizi Ramli:** Tidak, saya tidak tulis. Tetapi saya diberitahu ini adalah episod Selamat Hari Krismas.
 
-**Speaker 1:** Saya tidak kata begitu, tapi tidak apalah.
+**Speaker 2:** Kenapa dengan "ho ho ho" itu? Minta maaf, saya cuma...
 
-**Rafizi Ramli:** Dia main cakap macam itu. Tapi yang kami minta berehat itu betul.
+**Rafizi Ramli:** Saja suka-suka, YB. Tapi sebenarnya, saya diberitahu episod ini sepatutnya tidak wujud kerana Farhan meminta kita bercuti. Tetapi YB kata tidak boleh, kita mesti kesian kepada pendengar kita. Jadi...
 
-**Speaker 1:** Tidak, tidak betul. Oh, baik. Saya kasihan. Jadi, untuk mencapai kata sepakat, untuk minggu ini kita buat sehari awal YB, ya. Kita buat rakaman pada malam, bukan malam Krismas lah, tapi malam itu.
+**Speaker 2:** Saya tidak kata begitu, tapi tidak mengapa.
 
-**Speaker 1:** Hah?
+**Rafizi Ramli:** Tidak, dia memang selalu kata begitu.
 
-**Rafizi Ramli:** Dia bukan Islam, dia bukan malam, dia bukan Islam. Malam Jumaat.
+**Speaker 2:** Dia memang selalu kata begitu.
 
-**Speaker 1:** Dia bermula daripada Maghrib. Dia diikuti oleh, ha. Malam Krismas, ha. Baik. Selepas Tahajud, ha.
+**Rafizi Ramli:** Ya, dia memang selalu kata begitu.
 
-**Rafizi Ramli:** Okey, jadi apa-apa pun kena beritahu juga sebab sebenarnya pada malam inilah. Esok kita jangka satu keputusan yang besar juga, kan? Ha, Iqbal lah.
+**Speaker 2:** Tetapi memang benar kami meminta untuk bercuti.
 
-**Speaker 1:** Ya, kita menjangkakan keputusan kes 1MDB, ah, sudah tidak. 1MDB *donation*. Ya, sumbangan. Okey, YB Kamal, anda mungkin orang yang paling sesuai untuk terangkan apa kes ini.
+**Rafizi Ramli:** Permintaan untuk bercuti itu benar. Tetapi saya rasa kasihan kepada pendengar, itu...
 
-**Speaker 1:** Minggu depanlah. Saya pun sudah lupa, tapi yalah. Tidak, saya fikir kalaupun kebetulan semasa kita menetapkan rakaman ini kita tidak terfikir esok ada kes besar, kan? Tetapi kalaupun kita buat malam esok, saya fikir keputusan itu keluar menjelang tengah hari. Ia akan mengambil masa untuk kita teliti, ah, penghakiman semuanya. Kerana ini ialah sumbangan 2.6 bilion itu. Jadi, kita tidak ulas yang itu malam ini. Kita tunggu edisi Tahun Baru. Beri kami masa seminggu untuk benar-benar menelitinya, dan untuk Farhan dapat berehat sedikit. Supaya kita semua boleh mengambil hujung minggu yang panjang pada hujung minggu ini. Alhamdulillah.
+**Speaker 2:** Tidak, itu tidak benar. Tidak. Oh baiklah, saya kesian kepada mereka. Jadi, sebagai jalan tengah, kami rakam episod ini sehari lebih awal, YB. Kami merakam pada malam Krismas, bukan pada hari Krismas, tetapi malam Krismas.
 
-**Rafizi Ramli:** Okey, baik YB. Dan...
+**Speaker 2:** Apa? Dia bukan Muslim, dia bukan...
 
-**Speaker 1:** Saya masih tidak dapat melupakan perkara *ho, ho, ho* itu.
+**Rafizi Ramli:** Dia bukan Muslim. Ini malam Khamis [malam Jumaat].
 
-**Rafizi Ramli:** Saya minta maaf. Pastikan anda akhiri episod ini dengan *ho, ho, ho*.
+**Speaker 2:** Ia bermula selepas Maghrib. Ia mengikut waktu itu, ya.
 
-**Speaker 1:** Nanti di hujung episod ini. Kami merancang untuk membuat kompilasi cebisan audio terbaik Hazeeq sepanjang 28 episod ini. Sudah tentu. Saya tidak tahu sama ada penonton akan menghargainya, saya tidak tahu sama ada penonton akan menghargainya...
+**Rafizi Ramli:** Ya, malam Krismas.
 
-**Speaker 1:** Kena maki lagi. Ha, sebab nanti akan ada tekanan yang lebih tinggi untuk menukar moderator.
+**Speaker 2:** Malam Krismas, ya, selepas solat tahajud.
 
-**Speaker 1:** Apa-apa pun YB, episod khas pada kali ini kami sudah kumpulkan 10 isu utama yang akan kita jelaskan nanti. Cuma kita ada segmen *Beria Hidup Keras* pada kali ini dan terus kita kepada 10 isu utama itu lah. Jadi kita pergi terus kepada segmen yang pertama, *Beria Hidup Keras*. Kita ada beberapa lah YB, yang pertama ini ia agak seperti gajah dalam bilik (*elephant in the room*), tapi orang yang beria itu dia menyorok-nyorok. Jadi YB kena, mungkin nak cuba sorot dia lah. Kita tengok yang pertama. Gajah dalam bilik yang cuba menyorok-nyorok adalah Menteri Besar yang meletakkan jawatan lah. Tapi mungkin orang awam tidak perasan, rupanya ada orang. Kadang-kadang tidak tercapai akal. Apa yang dia cuba katakan?
+**Rafizi Ramli:** Baiklah, jadi saya perlu maklumkan kepada pendengar bahawa esok kita menjangkakan satu keputusan besar. Iqbal?
 
-**Speaker 1:** Tapi setakat rakaman ini beberapa jam lepas, Menteri Besar Perlis baru sahaja meletakkan jawatan. Ya, baru sahaja meletakkan jawatan. Dan kalau kita jejaki lah YB, dari Selasa, pengerusi PH beritahu bersedia untuk pilihan raya. Kemudian sehari selepas itu, PH Perlis sokong kerajaan kekal dan selepas itu Menteri Besar Perlis meletakkan jawatan. Jadi yang beria ini Aminlah, beria nak jadi Menteri Besar ke? Betul. Sebab saya pun ada baca juga.
+**Speaker 2:** Ya, kita menjangkakan keputusan kes 1MDB.
 
-**Speaker 1:** Ada soalan. Tanda soal. Oh, ini nak kongsi. Ah, saya tidak rasa Amin beria nak jadi Menteri Besar Perlis. Tanda soal lah, sebab beritanya di luar yalah, dia sekarang nak ganti Syamsul Iskandar sebagai sosiopolitik kanan. Jadi, tiada gerakan Kanga. Lebih kepada gerakan Albert Tei. Jadi, yalah ini yang masalahnya, kalau Pengerusi PH Negeri beria-ia sangat. Saya ingat ini tidak merujuk kepada pimpinan pusatlah, kan, beria mengeluarkan kenyataan awal-awalnya, bersedia menghadapi pilihan raya negeri dalam keadaan yang, pandangan saya kepada PH adalah situasi kalah-kalah (*lose-lose*). Kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri ia adalah situasi kalah-kalah kepada PH, terutamanya selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan sokongan, kan? Dan saya ingat hari kedua itu, bila tiba-tiba kena keluarkan kenyataan bahawa PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ini sudah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai pergi buat keputusan bersedia hadapi pilihan raya negeri ini. Tidak tahu lah yang kawan baik dengan Amin ini, Iqbal lah.
+**Rafizi Ramli:** Kes derma itu.
 
-**Iqbal:** Ya.
+**Speaker 2:** Ya, kes derma itu. Dan anda mungkin orang yang paling layak untuk menjelaskan perincian kes tersebut.
 
-**Speaker 1:** Tapi saya nak tanya, jadi kalau anda perlu meneka, kalau ada pilihan raya negeri yang berlaku sekarang. Sekarang pun PH hanya ada satu kerusi, kan? Di Perlis. Adakah anda fikir mereka akan kehilangan kerusi itu?
+**Rafizi Ramli:** Mari kita simpan itu untuk minggu depan. Saya pun sudah lupa perinciannya, tapi ya. Saya rasa kita tidak terfikir bahawa akan ada kes besar esok ketika kita menjadualkan rakaman ini. Tetapi jika kita merakam malam esok, keputusannya sudah keluar tengah hari nanti. Ia akan mengambil masa untuk kita meneliti penghakiman dan segala-galanya kerana ini adalah kes derma 2.6 bilion.
 
-**Iqbal:** Mereka mungkin akan kalah. Sebab Indra Kayangan ini, walaupun saya fikir Indra Kayangan ini lebih kurang 60/40, 60 peratus Melayu, 40 peratus bukan Melayu. Atau bahkan lebih rendah daripada 40 peratus di Indra Kayangan, kan? Jadi, kita sudah tengok rekod. Kalau sentimen pengundi Cina itu sama macam yang berlaku di Sabah, dan sebenarnya rasa tidak puas hati itu sebenarnya lagi besar di Semenanjung daripada di Sabah. Jadi, kalau jumlah yang keluar mengundi sama juga dalam 40 peratus, dan ada peralihan undi, PH hanya dapat sekitar 50 peratus, 60 peratus daripada undi itu, maka Indra Kayangan pun tidak selamat.
+**Speaker 2:** Ya, bahagian itu.
 
-**Speaker 1:** Menarik. Jadi, tapi Amin sajalah yang beria.
+**Rafizi Ramli:** Jadi, kita tidak akan mengulas mengenai perkara itu malam ini. Mari kita tunggu edisi Tahun Baru. Beri kami masa seminggu untuk benar-benar menelitinya.
 
-**Iqbal:** Tidak, yang saya ingat, penyokong-penyokong di media sosial ini, sekarang sedang bersoraklah, kan? Penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ini, Amanah. Sebab saya, entah kenapa, saya fikir, dia ada persaingan emosi dengan PAS itu, kan? Sebab, selalunya PAS akan kata, mereka ini stabil, kemudian akan wala', akan ikut kepimpinan, dia tidak mementingkan kuasa, kan? Jadi, jelas sekali kuasa itu merosakkan, di mana-mana pun, dan dalam mana-mana parti.
+**Speaker 2:** Dan supaya Farhan boleh berehat.
 
-**Speaker 1:** Walaupun negeri yang paling kecil di Malaysia pun, kuasa boleh merosakkan, kan? Perebutan sesama mereka, dan dia ada dimensi yang lebih besar lah, kerana apa yang berlaku di Perlis ini. Walaupun ia Perlis, yang mana kecil, dan orang mungkin rasa dia tidak ada kesan kepada negara, tapi apa yang berlaku di Perlis ini, saya rasa macam bukan retak menanti belah lagi, memang sudah terbelah hubungan di antara PAS dengan Bersatu. Maka tiada jalan untuk berpatah balik bagi PAS dan Bersatu lah.
+**Rafizi Ramli:** Ya.
 
-**Iqbal:** Sekejap, saya nak mencelah. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+**Speaker 2:** Supaya kita semua boleh bercuti panjang hujung minggu ini. Ya.
 
-**Speaker 1:** Itu, yang ini, eksklusif lah. Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR itu masih sampai banyak lah. Dia antara orangnya.
+**Rafizi Ramli:** Alhamdulillah.
 
-**Speaker 1:** Ah, lobi dan nama-namanya, nak kata lobi itu *wallahuaklam* lah kan, tapi nama-nama antara yang disebut-sebut lah, dipertimbangkan kan. Jadi, janganlah kutuk dia sangat. Ah, kalaupun dia tidak jadi Menteri Besar Perlis, sebab saya selalu, dia jadi setakat ini, kan. Jadi tidak sia-sia lah dia membuat ciapan sepanjang masa.
+**Speaker 2:** Baiklah, bagus YB.
 
-**Speaker 1:** Okey, baik YB. Saya masih tidak dapat melupakan perkara *ho, ho, ho* itu.
+**Rafizi Ramli:** Dan saya masih tidak boleh lupa tentang "ho ho ho" itu.
 
-**Rafizi Ramli:** Saya minta maaf. Pastikan anda akhiri episod ini dengan *ho, ho, ho*.
+**Speaker 2:** Saya memohon maaf.
 
-**Speaker 1:** Nanti di hujung episod ini. Kami merancang untuk membuat kompilasi cebisan audio terbaik Hazeeq sepanjang 28 episod ini. Sudah tentu lah. Saya tidak tahu sama ada penonton akan menghargainya. Kena maki lagi. Ha, sebab nanti akan ada tekanan yang lebih tinggi untuk menukar moderator.
+**Rafizi Ramli:** Pastikan anda tamatkan episod ini dengan "ho ho ho" di penghujung rakaman ini.
+
+**Speaker 2:** Kami merancang untuk membuat kompilasi klip audio terbaik Haziq sepanjang 28 episod. Sudah tentu, saya tidak tahu sama ada pendengar akan menghargainya atau tidak.
+
+**Rafizi Ramli:** Kita akan kena marah lagi.
+
+**Speaker 2:** Ya, kerana akan ada tekanan yang lebih tinggi untuk menukar moderator.
+
+**Rafizi Ramli:** Walau apa pun, YB, untuk episod khas ini, kami telah menyusun 10 isu utama yang akan kita jelaskan. Kami telah berusaha keras untuk episod ini, jadi mari teruskan kepada 10 isu utama itu. Mari kita pergi ke segmen pertama. Kita ada beberapa isu, YB. Yang pertama ini agak sensitif, tetapi individu yang terlibat cuba menyembunyikannya. YB, mungkin anda ingin bangkitkan perkara ini. Mari kita lihat yang pertama.
+
+**Speaker 2:** Individu yang cuba menyembunyikannya ialah Menteri Besar yang meletak jawatan. Mungkin orang ramai belum perasan lagi. Rupa-rupanya, ada seseorang.
+
+**Rafizi Ramli:** Kadang-kadang ia di luar pemahaman. Apa yang cuba dia sampaikan?
+
+**Speaker 2:** Tetapi setakat rakaman ini dibuat, Menteri Besar Perlis baru sahaja meletak jawatan.
+
+**Rafizi Ramli:** Ya, baru sahaja meletak jawatan. Dan jika kita perhatikan, YB, pada hari Selasa, Pengerusi PH menyatakan mereka bersedia untuk pilihan raya. Kemudian, sehari selepas itu, PH Perlis menyokong kerajaan untuk kekal, dan selepas itu, MB Perlis meletak jawatan.
+
+**Speaker 2:** Jadi, siapa yang begitu terdesak? Adakah Amin yang terdesak untuk menjadi MB? Kerana...
+
+**Rafizi Ramli:** Ya, saya baca tentang itu juga. Ada satu soalan.
+
+**Speaker 2:** Tidak ada soalan pun.
+
+**Rafizi Ramli:** Saya pun baca itu. Siapa namanya? Oh, saya ingin kongsi ini. Saya rasa Amin tidak terdesak untuk menjadi MB Perlis. Kerana berita di luar sana ialah dia kini mahu menggantikan Syamsul Iskandar sebagai tokoh politik kanan.
+
+**Speaker 2:** Jadi, tidak ada "Langkah Kangar".
+
+**Rafizi Ramli:** Tidak, tiada "Langkah Kangar". Ia lebih kepada "Langkah Albert Tay".
+
+**Speaker 2:** Jadi ya, ini masalahnya. Jika...
+
+**Rafizi Ramli:** Ya, Pengerusi PH Negeri terlalu terdesak. Saya tidak fikir ini dirujuk kepada kepimpinan pusat. Dia terlalu terdesak untuk mengeluarkan kenyataan itu.
+
+**Rafizi Ramli:** Pada awalnya, dia kata mereka bersedia untuk menghadapi pilihan raya negeri dalam situasi di mana...
+
+**Rafizi Ramli:** Pada pandangan saya, ia adalah situasi kalah-kalah (lose-lose) bagi PH. Mengambil kira keadaan PH sekarang, pilihan raya negeri adalah situasi kalah-kalah bagi PH, terutamanya selepas apa yang berlaku di Sabah. Tiada tanda-tanda perubahan sokongan.
+
+**Rafizi Ramli:** Dan saya rasa pada hari kedua, apabila mereka tiba-tiba terpaksa mengeluarkan kenyataan bahawa PH menyokong PAS untuk mentadbir Perlis sehingga akhir penggal, itu bermakna ada arahan daripada kepimpinan pusat kerana anda bertindak sendiri untuk membuat keputusan bagi bersedia menghadapi pilihan raya negeri. Saya tidak tahu jika kawan baik anda Amin orangnya, Iqbal?
+
+**Speaker 2:** Tidak, tetapi saya ingin tanya, jika anda perlu meneka, jika pilihan raya negeri berlaku sekarang, PH hanya ada satu kerusi di Perlis, bukan? Adakah anda fikir mereka akan hilang satu kerusi itu?
+
+**Rafizi Ramli:** Mungkin juga.
+
+**Speaker 2:** Kerana Indra Kayangan, walaupun saya fikir ia sekitar 60-40. 60% Melayu, 40% bukan Melayu. Atau mungkin lebih rendah daripada 40% di Indra Kayangan. Jadi...
+
+**Rafizi Ramli:** Kita telah lihat rekodnya. Jika sentimen pengundi Cina sama seperti apa yang berlaku di Sabah, dan sebenarnya, rasa tidak puas hati lebih besar di Semenanjung berbanding di Sabah.
+
+**Speaker 2:** Jadi, jika peratusan keluar mengundi sekitar 40% dan berlaku peralihan undi, PH hanya akan mendapat sekitar 50% hingga 60% daripada undi tersebut.
+
+**Rafizi Ramli:** Maka Indra Kayangan pun tidak selamat.
+
+**Speaker 2:** Baiklah.
+
+**Rafizi Ramli:** Menarik.
+
+**Speaker 2:** Jadi Amin orangnya yang begitu terdesak.
+
+**Rafizi Ramli:** Tidak, saya rasa penyokong di media sosial yang bersorak sekarang. Penyokong PH yang paling kuat bersorak. Saya lihat Amanah yang paling ke hadapan dalam bersorak.
+
+**Speaker 2:** Baiklah.
+
+**Rafizi Ramli:** Kerana entah bagaimana saya rasa mereka mempunyai persaingan emosi dengan PAS. Kerana...
+
+**Rafizi Ramli:** Biasanya, PAS akan kata mereka stabil, mereka akan mengikut kepimpinan, dan mereka tidak mengutamakan kuasa. Jadi...
+
+**Rafizi Ramli:** Jelas sekali, kuasa boleh merosakkan di mana-mana dan dalam mana-mana parti, malah di negeri terkecil di Malaysia pun, kuasa boleh merosakkan. Perebutan kuasa dalam kalangan mereka mempunyai dimensi yang lebih besar disebabkan apa yang berlaku di Perlis. Walaupun ia Perlis, yang kecil dan mungkin orang fikir tiada kesan kepada negara...
+
+**Rafizi Ramli:** Tetapi apa yang berlaku di Perlis, saya rasa ia bukan lagi sekadar retakan yang menunggu masa untuk pecah; hubungan antara PAS dan Bersatu sudah pun rosak.
+
+**Speaker 2:** Hmm, izinkan saya mencelah. Kerana anda sebut tadi bahawa Amin mahu menggantikan Sem?
+
+**Rafizi Ramli:** Itu eksklusif.
+
+**Speaker 2:** Konspirasi, bukan?
+
+**Rafizi Ramli:** Walaupun orang suruh saya tinggalkan PKR, gosip dari dalam PKR masih sampai kepada saya. Dia antara...
+
+**Speaker 2:** Sedang dilobi?
+
+**Rafizi Ramli:** Dilobi, dan namanya antara yang dipertimbangkan. Jadi, jangan kritik dia sangat. Walaupun dia tidak menjadi MB Perlis, saya di pihak dia, setakat ini.
+
+**Rafizi Ramli:** Jadi tindakannya men-tweet sepanjang masa itu tidak sia-sia.
+
+**Rafizi Ramli:** Baiklah, bagus YB.
+
+**Speaker 2:** Hei, Iqbal mahu cakap sesuatu tadi.
+
+**Rafizi Ramli:** Saya ingin minta pendapat anda, YB, mengenai 133 nama Bersatu itu.
+
+**Speaker 2:** Setahu saya, Bersatu adalah parti minoriti dalam gabungan di Perlis.
+
+**Rafizi Ramli:** Hmm.
+
+**Speaker 2:** Apa yang akan terjadi dengan itu?
+
+**Rafizi Ramli:** Itu juga tindakan yang terdesak.
+
+**Speaker 2:** Jadi, dinamika sesebuah gabungan, di mana ketua gabungan itu dipimpin oleh seseorang daripada parti minoriti.
+
+**Rafizi Ramli:** Hmm.
+
+**Speaker 2:** Tidak, saya fikir perebutan kuasa ini... itu pandangan saya.
+
+**Rafizi Ramli:** Perebutan kuasa ini tidak unik kepada BN, UMNO, atau PKR. Anda tahu, di mana ada kuasa, di situ ada perebutan, malah dalam PAS sendiri pun ada. Jadi, perebutan kuasa di Perlis tidak lagi dapat dibendung. Tetapi apabila lima ADUN Bersatu berpakat dengan tiga ADUN PAS untuk menandatangani akuan bersumpah (SD)...
+
+**Speaker 2:** Tiga orang itu sudah pun...
+
+**Rafizi Ramli:** Mereka sudah dipecat, keahlian ditamatkan.
+
+**Speaker 2:** Ya, dipecat.
+
+**Rafizi Ramli:** Kita mungkin tidak tahu selok-belok apa yang sebenarnya berlaku. Tetapi, secara umumnya, mustahil ia berlaku tanpa restu kepimpinan pusat, bukan? Bersatu mengeluarkan kenyataan...

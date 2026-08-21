@@ -10,19 +10,21 @@ duration: 3h 31m
 view_count: 264521
 hosts:
 - Rafizi Ramli
-- Speaker 1
 guests:
 - Iqbal
 topics:
-- Perlis Menteri Besar resignation
-- PAS-Bersatu relationship
+- Perlis state government crisis
+- Menteri Besar of Perlis resignation
+- Internal politics of PAS and Bersatu
 - Pakatan Harapan political strategy
-- Perlis state elections
-- 1MDB donation case
-summary: In this special 28th episode, the hosts and guest discuss the resignation
-  of the Perlis Menteri Besar, the political dynamics between PAS and Bersatu, the
-  state of Pakatan Harapan in Perlis, and the potential implications of early state
-  elections.
+- 1MDB 2.6 billion donation case
+- Political power struggles in Malaysia
+summary: In this special episode of Yang Bakar Menteri, Rafizi Ramli and Iqbal discuss
+  the recent political developments in Perlis, specifically the resignation of the
+  Menteri Besar and the internal power struggles within the Perlis state government
+  involving PAS and Bersatu. They also touch upon Pakatan Harapan's stance and the
+  broader implications of these political shifts, while briefly mentioning an upcoming
+  1MDB case decision.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -30,70 +32,182 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** Assalamualaikum and welcome to the special episode of the *Yang Berhenti Menteri* podcast, the 28th episode. Before I make a confession, perhaps it would be better for me to say, Merry Christmas, ho, ho, ho. Awkward. Okay, my apologies.
+**Rafizi Ramli:** Assalamualaikum and welcome to the *Yang Bakar Menteri* podcast, special episode number 28. Before I make any confessions, perhaps it is better for me to say, "Merry Christmas," ho ho ho.
 
-**Speaker 1:** YB, did you write that in your script?
+**Speaker 2:** Awkward. Okay, my apologies.
 
-**Rafizi Ramli:** No, I didn't. But I was told that this is indeed the episode for Merry Christmas.
+**Rafizi Ramli:** YB.
 
-**Speaker 1:** Why so with the "ho, ho, ho," sorry.
+**Speaker 2:** Did you write that in your script?
 
-**Rafizi Ramli:** Just for fun, YB. But actually, I was told this episode wasn't supposed to exist because Farhan asked for a break, but I said no, I feel bad for our listeners, so...
+**Rafizi Ramli:** No, I didn't. But I was told this was the Merry Christmas episode.
 
-**Speaker 1:** I didn't say that, but never mind.
+**Speaker 2:** What's with the "ho ho ho"? Sorry, I just...
 
-**Rafizi Ramli:** He just says things like that. But it is true that we did ask for a break.
+**Rafizi Ramli:** Just for fun, YB. But actually, I was told this episode wasn't even supposed to exist because Farhan asked for us to take a break. But YB said no, that we must pity our listeners. So...
 
-**Speaker 1:** No, that’s not true. Oh, fine. I feel sorry for them. So, to compromise everything, for this week we are recording one day early, YB, yes. We are doing the recording at night—not Christmas night, but that night.
+**Speaker 2:** I didn't say that, but never mind.
 
-**Speaker 1:** Huh?
+**Rafizi Ramli:** No, he just says things like that.
 
-**Rafizi Ramli:** It’s not Muslim—it’s not night—it’s not Muslim. Thursday night.
+**Speaker 2:** He just says things like that.
 
-**Speaker 1:** It starts from Maghrib. It's followed by, ha. Christmas night, ha. Right. After Tahajud, ha.
+**Rafizi Ramli:** Yes, he just says things like that.
 
-**Rafizi Ramli:** Okay, so I should mention it because it's actually tonight. Tomorrow we expect a big decision as well, right? Ha, Iqbal.
+**Speaker 2:** But it is true that we asked for a break.
 
-**Speaker 1:** Yes, we are expecting the verdict for the 1MDB case—ah, never mind. 1MDB donation. Yes, donation. Okay, YB Kamal, you're probably the best person to explain what this case is.
+**Rafizi Ramli:** The request for a break is true. But I feel sorry for the listeners, that's...
 
-**Speaker 1:** Next week. I’ve forgotten about it too, but yes. No, I think even if we didn't think about the big case happening tomorrow when setting this recording time, if we were to do it tomorrow night, I think the verdict would be out by noon. It will take us some time to go through the judgment and everything. Because this is the 2.6 billion donation case. So, we won't comment on that tonight. We will wait for the New Year edition. Give us one week to really go through it, and for Farhan to get some rest. So that all of us can take a long weekend this weekend. Alhamdulillah.
+**Speaker 2:** No, that's not true. No. Oh fine, I feel sorry for them. So, to compromise, we recorded this one day early, YB. We are recording on Christmas night, well, not the day of Christmas, but Christmas night.
 
-**Rafizi Ramli:** Okay, very well YB. And...
+**Speaker 2:** What? He’s not Muslim, he’s not...
 
-**Speaker 1:** I still cannot get over that "ho, ho, ho" thing.
+**Rafizi Ramli:** He’s not Muslim. It’s Thursday night.
 
-**Rafizi Ramli:** I apologize. Make sure you end that episode with "ho, ho, ho."
+**Speaker 2:** It just starts from Maghrib. It follows that, yes.
 
-**Speaker 1:** At the end of this episode. We are planning to do a compilation of Hazeeq’s best sound bites throughout the whole 28 episodes. Of course. I don't know whether the audience will appreciate it...
+**Rafizi Ramli:** Yes, Christmas night.
 
-**Speaker 1:** I’ll get cursed at again. Ha, because there will be higher pressure to change the moderator.
+**Speaker 2:** Christmas night, yes, after *tahajud* (night prayers).
 
-**Speaker 1:** Anyway YB, for this special episode, we have compiled the top 10 issues that we will explain later. We have a "Beria Hidup Keras" segment this time and we will go straight to the top 10. So let's go straight to the first segment, "Beria Hidup Keras." We have a few, YB. The first one is a bit of an "elephant in the room," but the person who is "beria" (enthusiastic/over-the-top) is trying to hide. So YB, perhaps you want to try and highlight it. Let’s look at the first one. The elephant in the room that is trying to hide is the MB who resigned. But perhaps the public hasn't realized that there is actually someone. Sometimes it's beyond comprehension. What is he trying to say?
+**Rafizi Ramli:** Okay, so I should inform the audience that tomorrow we expect a major decision. Iqbal?
 
-**Speaker 1:** But as of a few hours before this recording, the Perlis MB just resigned. Yes, just resigned. And if we keep track, YB, from Tuesday, the PH chairman said they were ready for an election. Then a day later, PH Perlis supported the government to remain, and after that, the Perlis MB resigned. So, is Amin the one who is "beria"? Is he desperate to become the MB? Correct. Because I have been reading about it too.
+**Speaker 2:** Yes, we expect the 1MDB case decision.
 
-**Speaker 1:** There is a question. A question mark. Oh, I want to share this. Ah, I don't think Amin is "beria" about wanting to be the Perlis MB. It’s a question mark, because the news outside is that he now wants to replace Syamsul Iskandar as the senior socio-political [official]. So, it’s not a "Kanga move." It’s more of an "Albert Tei move." So, yes, this is the problem when the State PH Chairman is too "beria." I don't think this was referred to the central leadership, right? "Beria" issuing a statement early on, saying they are ready to face a state election, which, in my view, is a "lose-lose" for PH. To PH. With the current state of PH, if there is a state election, it is a "lose-lose" for PH, especially after what happened in Sabah. There are no signs of a change in support, right? And I think on the second day, when they suddenly had to issue a statement that PH supports PAS to rule Perlis until the end of the term. That means there was an instruction from the central leadership because you acted on your own to make the decision to be ready to face a state election. I don't know if your good friend Amin is the one, Iqbal.
+**Rafizi Ramli:** The donation.
 
-**Iqbal:** Yes.
+**Speaker 2:** Yes, the donation. And you are probably the best person to explain the details of the case.
 
-**Speaker 1:** But I want to ask, if you had to guess, if a state election happened now—right now PH only has one seat, right? In Perlis. Do you think they would lose that one seat?
+**Rafizi Ramli:** Let’s save that for next week. I’ve even forgotten the details, but yes. I don't think we thought about the fact that there would be a big case tomorrow when we scheduled this recording. But if we were to record tomorrow night, the decision would be out by noon. It will take us some time to go through the judgment and everything because this is the 2.6 billion donation case.
 
-**Iqbal:** They might. Because in Indra Kayangan, even though I think it’s about 60/40—60 percent Malay, 40 percent non-Malay—or even lower than 40 percent in Indra Kayangan, right? So, we have seen the record. If the Chinese voter mood is the same as what happened in Sabah—and actually the discontent is even bigger in the Peninsula than in Sabah—so, if the number of people coming out to vote is the same at around 40 percent, and there is a swing, PH would only get around 50 to 60 percent of the vote, then even Indra Kayangan is not safe.
+**Speaker 2:** Yes, that part.
 
-**Speaker 1:** Interesting. So, only Amin is being "beria."
+**Rafizi Ramli:** So, we won't comment on that tonight. Let’s wait for the New Year edition. Give us one week to really go through it.
 
-**Iqbal:** No, as far as I remember, the supporters on social media are cheering now, right? PH supporters are the ones cheering the most. I see those at the front cheering are from Amanah. Because I, somehow, think they have an emotional rivalry with PAS, right? Because, usually PAS will say they are stable, they will have "wala'" (loyalty), they will follow the leadership, they don't value power, right? So, obviously power corrupts, anywhere, and in any party.
+**Speaker 2:** And so Farhan can get some rest.
 
-**Speaker 1:** Even in the smallest state in Malaysia, power can corrupt, right? The infighting among them, and it has a bigger dimension because of what is happening in Perlis. Even though it's Perlis, which is small, and people might feel it has no impact on the country, but what is happening in Perlis, I feel it's not just a crack waiting to break, the relationship between PAS and Bersatu is truly fractured. Then there’s no turning back for PAS and Bersatu.
+**Rafizi Ramli:** Yes.
 
-**Iqbal:** Wait, I want to interject. Because YB mentioned earlier, Amin wants to replace Sem?
+**Speaker 2:** So all of us can take a long weekend this weekend. Yeah.
 
-**Speaker 1:** That—this one is exclusive. Even though people tell me to leave PKR, the gossip from PKR still reaches me a lot. He is one of the people.
+**Rafizi Ramli:** Alhamdulillah.
 
-**Speaker 1:** Ah, lobbying and the names, whether the lobbying is true, *wallahuaklam* (God knows best), right, but the names are among those being mentioned and considered. So, don't criticize him too much. Ah, even if he doesn't become the Perlis MB, because I always... he has been [active] so far, right? So his tweeting all the time wasn't in vain.
+**Speaker 2:** Okay, good, YB.
 
-**Speaker 1:** Okay, very well YB. I still cannot get over that "ho, ho, ho" thing.
+**Rafizi Ramli:** And I still cannot get over that "ho ho ho."
 
-**Rafizi Ramli:** I apologize. Make sure you end that episode with "ho, ho, ho."
+**Speaker 2:** I apologize.
 
-**Speaker 1:** At the end of this episode. We are planning to do a compilation of Hazeeq’s best sound bites throughout the whole 28 episodes. Of course. I don't know whether the audience will appreciate it. I’ll get cursed at again. Ha, because there will be higher pressure to change the moderator.
+**Rafizi Ramli:** Make sure you end the episode with "ho ho ho" at the end of this recording.
+
+**Speaker 2:** We were planning to do a compilation of Haziq’s best sound bites throughout all 28 episodes. Of course, I don't know whether the audience will appreciate that or not.
+
+**Rafizi Ramli:** We’ll get scolded again.
+
+**Speaker 2:** Yes, because there will be even higher pressure to change the moderator.
+
+**Rafizi Ramli:** Anyway, anyway YB, for this special episode, we have compiled the top 10 issues that we will explain. We have been working hard for this one, so let’s get straight to those top 10. Let’s go to the first segment. We have a few issues, YB. The first one is a bit of an elephant in the room, but the person involved is trying to hide it. YB, perhaps you want to highlight this. Let’s look at the first one.
+
+**Speaker 2:** The elephant in the room who is trying to hide is the MB (Menteri Besar) who resigned. Maybe the public hasn't noticed yet. It turns out, there is someone.
+
+**Rafizi Ramli:** Sometimes it is beyond comprehension. What is he trying to say?
+
+**Speaker 2:** But as of this recording, the MB of Perlis has just resigned.
+
+**Rafizi Ramli:** Yes, just resigned. And if we keep track, YB, on Tuesday, the PH Chairman said they were ready for an election. Then, a day later, PH Perlis supported the government to remain, and after that, the MB of Perlis resigned.
+
+**Speaker 2:** So, who is so eager? Is it Amin who is eager to be MB? Because...
+
+**Rafizi Ramli:** Yes, I read about that too. There was a question.
+
+**Speaker 2:** There was no question.
+
+**Rafizi Ramli:** I also read that. What is his name? Oh, I want to share this. I don't think Amin is eager to be the MB of Perlis. Because the news outside is that he now wants to replace Syamsul Iskandar as a senior political figure.
+
+**Speaker 2:** So, there is no "Kangar move."
+
+**Rafizi Ramli:** No, there is no "Kangar move." It’s more of an "Albert Tay move."
+
+**Speaker 2:** So yes, this is the problem. If...
+
+**Rafizi Ramli:** Yes, the State PH Chairman was so eager. I don't think this was referred to the central leadership. He was so eager to release that statement.
+
+**Rafizi Ramli:** Early on, he said they were ready to face the state election in a situation where...
+
+**Rafizi Ramli:** In my view, it is a lose-lose for PH. Given PH’s current state, a state election is a lose-lose for PH, especially after what happened in Sabah. There are no signs of a shift in support.
+
+**Rafizi Ramli:** And I think on the second day, when they suddenly had to release a statement that PH supports PAS to govern Perlis until the end of the term, it means there was an instruction from the central leadership because you were acting on your own to make the decision to be ready for a state election. I don't know if your good friend Amin is the one, Iqbal?
+
+**Speaker 2:** No, but I want to ask, if you had to guess, if a state election were to happen now, PH only has one seat in Perlis, right? Do you think they would lose that one seat?
+
+**Rafizi Ramli:** They might.
+
+**Speaker 2:** Because Indra Kayangan, even though I think it is roughly 60-40. 60% Malay, 40% non-Malay. Or even lower than 40% in Indra Kayangan. So...
+
+**Rafizi Ramli:** We have seen the record. If the Chinese voter mood is the same as what happened in Sabah, and actually, the discontent is greater in the Peninsula than in Sabah.
+
+**Speaker 2:** So, if the turnout is also around 40% and there is a swing, PH will only get around 50% to 60% of those votes.
+
+**Rafizi Ramli:** Then even Indra Kayangan is not safe.
+
+**Speaker 2:** Okay.
+
+**Rafizi Ramli:** Interesting.
+
+**Speaker 2:** So Amin is the one who is so eager.
+
+**Rafizi Ramli:** No, the... I think the supporters on social media are cheering now. PH supporters are the ones cheering the most. I see Amanah is the most forward in cheering.
+
+**Speaker 2:** Okay.
+
+**Rafizi Ramli:** Because somehow I think they have an emotional rivalry with PAS. Because...
+
+**Rafizi Ramli:** Usually, PAS will say they are stable, they will follow the leadership, and they don’t prioritize power. So...
+
+**Rafizi Ramli:** Obviously, power corrupts anywhere and in any party, even in the smallest state in Malaysia, power can corrupt. The infighting among them has a larger dimension because of what happened in Perlis. Even though it is Perlis, which is small and people might think it has no impact on the country...
+
+**Rafizi Ramli:** But what happened in Perlis, I feel it is no longer just a crack waiting to split; the relationship between PAS and Bersatu is already broken.
+
+**Speaker 2:** Hmm, let me interrupt. Because you mentioned earlier that Amin wants to replace Sem?
+
+**Rafizi Ramli:** That is exclusive.
+
+**Speaker 2:** Conspiracy, right?
+
+**Rafizi Ramli:** Even though people tell me to leave PKR, the gossip from within PKR still reaches me. He is among...
+
+**Speaker 2:** Being lobbied?
+
+**Rafizi Ramli:** Lobbied, and his name is among those being considered. So, don't criticize him too much. Even if he doesn't become the MB of Perlis, I am on his side, so far.
+
+**Rafizi Ramli:** So his tweeting all the time was not in vain.
+
+**Rafizi Ramli:** Okay, good YB.
+
+**Speaker 2:** Hey, Iqbal wanted to say something earlier.
+
+**Rafizi Ramli:** I want to ask for your opinion, YB, regarding the Bersatu 133 names.
+
+**Speaker 2:** To my knowledge, Bersatu is the minority party in the coalition in Perlis.
+
+**Rafizi Ramli:** Hmm.
+
+**Speaker 2:** What would that do?
+
+**Rafizi Ramli:** That is also being eager.
+
+**Speaker 2:** So, the dynamics of a coalition, where the head of the coalition is led by someone from a minority party.
+
+**Rafizi Ramli:** Hmm.
+
+**Speaker 2:** No, I think this power struggle... that is my view.
+
+**Rafizi Ramli:** This power struggle is not unique to BN, UMNO, or PKR. You know, wherever there is power, there is a struggle, even within PAS itself. So, the power struggle in Perlis can no longer be contained. But when five Bersatu assemblymen conspired with three PAS assemblymen to sign statutory declarations...
+
+**Speaker 2:** Those three were already...
+
+**Rafizi Ramli:** They were sacked, membership was terminated.
+
+**Speaker 2:** Yes, sacked.
+
+**Rafizi Ramli:** We might not know the ins and outs of what really happened. But, generally, it is impossible for it to happen without the blessing of the central leadership, right? Bersatu released a statement...
