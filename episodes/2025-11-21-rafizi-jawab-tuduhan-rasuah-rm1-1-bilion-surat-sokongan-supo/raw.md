@@ -13,190 +13,6727 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:00] Haziq: Assalamualaikum dan selamat datang podcast Yang Beriya episod ke-23 bersama saudara Rafizi. Jadi alang-alang kita bersama saudara Rafizi, kena follow sosial media saudara Rafizi Ramli, YouTube dan juga Facebook, IG dan TikTok. YB, saya ada motherly instinct ataupun apa kita panggil, naluri kewanitaan...
+[00:00] [Music]
+[02:28] Assalamualaikum dan selamat datang. Podcast yang bertimbang menteri episod ke-23 bersama Saudara Rafizi. Jadi alang-alang kita bersama Saudara Rafizi, kena follow sosial media Saudara Rafizi, Ramli, Youtube dan juga Facebook, IG dan TikTok. OEB, saya ada Madali Instinct ataupun, apa kita panggil? Macam mana pula? Naluri. Kau ada naluri. Orang lelaki boleh ada naluri instinct ke? Naluri saya, kita akan habiskan bawa dua jam hari ini. Oh, itu bukan naluri. Itu keperluan. Keperluan. Tapi saya kena buat benda yang orang ataupun penonton pun tak sukalah, mencelah. Aah, yalah. Celah, lah. Aah. Okey. Baik, WB. Okey, kita terus ke episod ke-23, segmen pertama. Kita ada beria. Kita tengok apa yang ada minggu ni, WB. Pertama, terpaling Cina. Oh, panjang. Nak kena baca ke? Aa, diberi nombor oleh satu APN ni, call dia, auto aku tertun cakap, slang Cina sikit. Bos, ini rumah, lu ada senang, mahu datang hari ini. Dia pun, okey, bos, wah mali lagi, luar 10 minit. Datang-datang rupanya dua-dua Melayu. Aku Melayu, dia Melayu. Ini dekat, dari Obulan saya ambil.
+[03:45] So, faham.
+[03:46] Fahamlah, tapi apa konteks dia?
+[03:48] Dia, yalah. Dia apa assume the power of assumptionlah. Dia disebabkan dia dapat nombor daripada orang Cina, dia cakap dengan Cina. Sama juga macam kita beli barang, WB. Ah, bila kita beli OK sis, dua-dua.
+[04:04] So apa, apa yang yang beria society impact-nya?
+[04:09] Kita assume, aa berdasarkan walaupun kita tak ada info tentang orang tulah. Dan kita bercakap, kita assume orang tu Cina. Kita cakap dalam slang dia.
+[04:22] Yang ini sebenarnya dia, yang ini tak adalah beria. Engkau yang, engkaulah yang beria, kut.
+[04:26] Sayalah beria kali ini, tapi pertama kali saya beria.
+[04:28] Share. Beria. Actually, the moment beria kena explain, dia tak jadi beria. Dia tak beria. Baik, maaf. Saya, ini gagal, WB.
+[04:36] Gagal. Gagal. Tapi ramai kata, orang gelak 3:00 pagi tengok ni. Tapi gagallah, okey. Saya harap ada yang gelak.
+[04:42] Gagal? I mean, maybelah, tapi ah, for nak sebab beria ni poyo, kan? Ha, nak kata dia poyo. Poyo. Maaf, dia tak poyo.
+[04:52] Tak poyolah, kut. Kita tengok yang next.
+[04:54] Ini pun saya takut tak poyo.
+[04:56] Hmm. Dia kan dah takut dah.
+[04:59] Ha. Okey, next.
+[05:01] Tak jumpa kabel, dapatkan kerja, curi kabel TM. Graduan undang-undang antara empat didakwa cuba curi kabel TM.
+[05:09] Ni jenayahlah, WB. Tapi sebelum ni pun kita pernah letak macam ni.
+[05:15] Kabel TM tak mati kena electrocute, kut. Sebab, aa
+[05:21] Hmm. Itulah.
+[05:22] Dia, dia sebenarnya dia kalau anythinglah yang beria, dia bukan sangat soal curi kabel ni, kut. Curi kabel ni benda biasalah di mana-mana. Tapi buletin TV3 tu, dia nak juga emphasize graduan undang-undang.
+[05:40] Klikbait.
+[05:42] Ha, klikbait ni klikbaitlah. Um, yalah.
+[05:46] Gang-gang Azi.
+[05:47] Tak kenal? Tak ada.
+[05:49] Aku check umur dia, dia dah tua. Dia dah 36, 37. Jadi,
+[05:55] Saya tak faham, kenapa kena letak graduan undang-undang tulah, kut. Yalah. Ada orang ada graduan. Yalah, masing-masing latar belakang belajar dia tu tak tak tak tentu. Kalau, kalau tengok dekat US, you tahu, aa, pernah baca pasal Unabomber?
+[06:13] Aa, tak tahu in detailah.
+[06:14] The Unate Kaczynski. Pernah tahu Unate Kaczynski? Aa.
+[06:18] Dia tu saintis yang cukup hebat. Dia pergi Harvard, kan? Aa, jadi
+[06:26] dia jadi terrorist yang antara paling susah ditangkap. Dia daripada tahun '70-an sampai ditangkap tahun '94.
+[06:37] Mhm. Aa, dan aa, selama dua dekad tu dia akan hantar kotak kepada saintislah, doktorlah, loyer. Buka meletup, buka meletup, kan? Jadi, aa, bukan saja kat Malaysialah, kat mana-mana, latar belakang apa, aa, yalah, hidup ni keras.
+[07:00] Kan? Masing-masing. Jadi yang ini kalau beria, beria nak klikbait graduan undang-undang tu kan.
+[07:07] Ha, dia dia sebenarnya yalah agak biasa.
+[07:11] Um, yalah.
+[07:13] Jenayah. Dia tangkap, um, mhm, mhm.
+[07:15] Okey, WB.
+[07:16] Next.
+[07:17] Macam sendu aje beria minggu ni.
+[07:19] Ha, okey. Kita haraplah. Kita expect macam tulah.
+[07:21] Okey, alright. WB punya standard takut.
+[07:23] Tak kan ni dua sendulah.
+[07:25] Ah, okey.
+[07:26] Politik.
+[07:28] MP lompat tanya, apa punca dia lompat?
+[07:31] Ini soalan 19 November, baru saja.
+[07:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[07:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[07:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[08:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[08:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[08:40] Okey. Baik, WB.
+[08:41] Beria, okey. Yang ni lepaslah beria.
+[08:43] Okey, next.
+[08:46] Biar gambar berbicara.
+[08:47] Oh, ya ini memang.
+[08:49] Kepada yang jogging tak dapat tengoklah.
+[08:51] Ha, ni menang terus. Segmen ni kan, tak payah.
+[08:54] Tapi WB saya agak takut letak sebab actually, dia sebenarnya, kebakaran tu agak sedih sikitlah.
+[09:00] Tak tak, tapi memang ini dia post dekat Facebook dia. Bukan tak tak kena saman, kan?
+[09:06] Ha. Memang dia post. Haji Hanafiah Mat.
+[09:08] Cuba tengok dengan kasut kulit dia tu dengan jeans dia. Baju lebih kurang sama colour aku, aa.
+[09:16] Hmm.
+[09:17] Aa, dan gaya dia tu nampak sangat fotobom ataupun berlakonlah, kan? Aa, siap mengintai-ngintai tu.
+[09:26] Tak, cuma
+[09:27] hmm.
+[09:28] Tapi konteks tu sedihlah, WB.
+[09:31] Yalah. Konteks rumah tu semua, kan? Cuma yang
+[09:34] Pasti yang tak bakar. Budak-budak ramai yang menangis takut semua, kan? Oh, ni pasti di di Kemamanlah, ini.
+[09:39] Yalah.
+[09:40] Yes. Cuma sebenarnya, saya tak tahu ada undang-undang ke tidak. Saya tak pasti boleh ke tidak buat tu.
+[09:47] Saya check, aah, check GPT tadi sebelum WB masuk, aa memang civilian tak boleh mengendalikan.
+[09:53] Tak boleh. Ah, tak boleh mengendalikan kerana dia membahayakan nyawa.
+[09:57] Mhm.
+[09:57] Contohnya, kalau um
+[10:02] ada satu kebakaran dan bomba sedang menjalankan tugas. Ada wakil rakyat pergi menyelit kat situ sehingga dia menghalang kerja bomba itu, kalau jadi apa-apa, maksudnya usaha menyelamat itu ada masalah. Jadi saya ingatlah.
+[10:18] Saya tak pasti aa, undang-undanglah secara spesifik ke tidak. Tapi, etikanya dia tak bolehlah. Jadi, sebab itu um
+[10:30] masalah ahli politik ini, dia nak menyelit muka dia di mana-mana. Aa, kan? Jadi.
+[10:36] Oh, function WB.
+[10:37] Ha. Um, banyak lagi function lain.
+[10:41] Dia sebab, um, sebab tu kalau macam macam sayalah, kan? Kalau jadi sibuk-sibuk, um, kalau dah ada sama ada ambulans ke ataupun bomba ke ataupun pihak berkuasa yang menguruskan,
+[10:57] ahli politik kena membiasakan diri jadi orang biasa. Jangan sibuk-sibuk di situ.
+[11:03] Hmm. Ha, fahamlah. Orang kita sangat suka. Masalah pun orang kita juga. Ada demand. Mesti ada. Ada demand, dia kan, oh bagusnyalah tengok dia tu, ha sampai bagusnya wakil rakyat kita sampai dia sendiri yang pergi padamkan kebakaran. Tapi sebenarnya selain daripada soal aa undang-undang, sepatutnyalah etika dia, termasuklah rakyat biasa.
+[11:28] Aa, kalau dah ada pihak yang profesional, yang ada amanah itu dan dilatih, maka kita tak boleh kacau, kan? Yang ini ni yang ini tak adalah beria. Engkau yang, engkaulah yang beria, kut.
+[11:39] Hmm.
+[11:40] Yalah.
+[11:41] Jenayah, dia tangkap, mhm, mhm.
+[11:43] Mhm.
+[11:45] Okey, WB.
+[11:46] Next.
+[11:47] Macam sendu aje beria minggu ni.
+[11:49] Ya, macam ni. Ah, okey.
+[11:51] Kita haraplah. Kita expect macam tulah.
+[11:53] Okey, alright. WB punya standard takut.
+[11:55] Tak kan ni dua sendulah.
+[11:57] Ah, okey.
+[11:58] Politik.
+[12:00] MP lompat tanya, apa punca dia lompat?
+[12:03] Ini soalan 19 November, baru saja.
+[12:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[12:15] Berialah. Yang ini sebab konteks Sabah lah kan?
+[12:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[12:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[12:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[13:06] Okey. Baik, WB.
+[13:07] Beria, okey. Yang ni lepaslah beria.
+[13:09] Okey, alright. WB punya standard takut.
+[13:11] Tak kan ni dua sendulah.
+[13:13] Ah, okey.
+[13:14] Politik.
+[13:16] MP lompat tanya, apa punca dia lompat?
+[13:19] Ini soalan 19 November, baru saja.
+[13:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[13:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[13:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[13:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[14:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[14:28] Okey. Baik, WB.
+[14:29] Beria, okey. Yang ni lepaslah beria.
+[14:31] Okey, alright. WB punya standard takut.
+[14:33] Tak kan ni dua sendulah.
+[14:35] Ah, okey.
+[14:36] Politik.
+[14:38] MP lompat tanya, apa punca dia lompat?
+[14:41] Ini soalan 19 November, baru saja.
+[14:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[14:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+[14:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[15:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[15:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[15:50] Okey. Baik, WB.
+[15:51] Beria, okey. Yang ni lepaslah beria.
+[15:53] Okey, alright. WB punya standard takut.
+[15:55] Tak kan ni dua sendulah.
+[15:57] Ah, okey.
+[15:58] Politik.
+[16:00] MP lompat tanya, apa punca dia lompat?
+[16:03] Ini soalan 19 November, baru saja.
+[16:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[16:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+[16:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[16:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[17:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[17:12] Okey. Baik, WB.
+[17:13] Beria, okey. Yang ni lepaslah beria.
+[17:15] Okey, alright. WB punya standard takut.
+[17:17] Tak kan ni dua sendulah.
+[17:19] Ah, okey.
+[17:20] Politik.
+[17:22] MP lompat tanya, apa punca dia lompat?
+[17:25] Ini soalan 19 November, baru saja.
+[17:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[17:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+[17:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[18:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[18:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[18:34] Okey. Baik, WB.
+[18:35] Beria, okey. Yang ni lepaslah beria.
+[18:37] Okey, alright. WB punya standard takut.
+[18:39] Tak kan ni dua sendulah.
+[18:41] Ah, okey.
+[18:42] Politik.
+[18:44] MP lompat tanya, apa punca dia lompat?
+[18:47] Ini soalan 19 November, baru saja.
+[18:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[19:00] Berialah. Yang ini sebab konteks Sabah lah kan?
+[19:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[19:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[19:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[19:56] Okey. Baik, WB.
+[19:57] Beria, okey. Yang ni lepaslah beria.
+[19:59] Okey, alright. WB punya standard takut.
+[20:01] Tak kan ni dua sendulah.
+[20:03] Ah, okey.
+[20:04] Politik.
+[20:06] MP lompat tanya, apa punca dia lompat?
+[20:09] Ini soalan 19 November, baru saja.
+[20:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[20:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+[20:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[20:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[21:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[21:18] Okey. Baik, WB.
+[21:19] Beria, okey. Yang ni lepaslah beria.
+[21:21] Okey, alright. WB punya standard takut.
+[21:23] Tak kan ni dua sendulah.
+[21:25] Ah, okey.
+[21:26] Politik.
+[21:28] MP lompat tanya, apa punca dia lompat?
+[21:31] Ini soalan 19 November, baru saja.
+[21:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[21:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[21:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[22:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[22:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[22:40] Okey. Baik, WB.
+[22:41] Beria, okey. Yang ni lepaslah beria.
+[22:43] Okey, alright. WB punya standard takut.
+[22:45] Tak kan ni dua sendulah.
+[22:47] Ah, okey.
+[22:48] Politik.
+[22:50] MP lompat tanya, apa punca dia lompat?
+[22:53] Ini soalan 19 November, baru saja.
+[22:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[23:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+[23:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[23:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[23:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[24:02] Okey. Baik, WB.
+[24:03] Beria, okey. Yang ni lepaslah beria.
+[24:05] Okey, alright. WB punya standard takut.
+[24:07] Tak kan ni dua sendulah.
+[24:09] Ah, okey.
+[24:10] Politik.
+[24:12] MP lompat tanya, apa punca dia lompat?
+[24:15] Ini soalan 19 November, baru saja.
+[24:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[24:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+[24:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[24:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[25:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[25:24] Okey. Baik, WB.
+[25:25] Beria, okey. Yang ni lepaslah beria.
+[25:27] Okey, alright. WB punya standard takut.
+[25:29] Tak kan ni dua sendulah.
+[25:31] Ah, okey.
+[25:32] Politik.
+[25:34] MP lompat tanya, apa punca dia lompat?
+[25:37] Ini soalan 19 November, baru saja.
+[25:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[25:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+[25:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[26:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[26:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[26:46] Okey. Baik, WB.
+[26:47] Beria, okey. Yang ni lepaslah beria.
+[26:49] Okey, alright. WB punya standard takut.
+[26:51] Tak kan ni dua sendulah.
+[26:53] Ah, okey.
+[26:54] Politik.
+[26:56] MP lompat tanya, apa punca dia lompat?
+[26:59] Ini soalan 19 November, baru saja.
+[27:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[27:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+[27:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[27:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[27:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[28:08] Okey. Baik, WB.
+[28:09] Beria, okey. Yang ni lepaslah beria.
+[28:11] Okey, alright. WB punya standard takut.
+[28:13] Tak kan ni dua sendulah.
+[28:15] Ah, okey.
+[28:16] Politik.
+[28:18] MP lompat tanya, apa punca dia lompat?
+[28:21] Ini soalan 19 November, baru saja.
+[28:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[28:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+[28:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[29:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[29:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[29:30] Okey. Baik, WB.
+[29:31] Beria, okey. Yang ni lepaslah beria.
+[29:33] Okey, alright. WB punya standard takut.
+[29:35] Tak kan ni dua sendulah.
+[29:37] Ah, okey.
+[29:38] Politik.
+[29:40] MP lompat tanya, apa punca dia lompat?
+[29:43] Ini soalan 19 November, baru saja.
+[29:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[29:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+[30:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[30:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[30:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[30:52] Okey. Baik, WB.
+[30:53] Beria, okey. Yang ni lepaslah beria.
+[30:55] Okey, alright. WB punya standard takut.
+[30:57] Tak kan ni dua sendulah.
+[30:59] Ah, okey.
+[31:00] Politik.
+[31:02] MP lompat tanya, apa punca dia lompat?
+[31:05] Ini soalan 19 November, baru saja.
+[31:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[31:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+[31:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[31:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[32:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[32:14] Okey. Baik, WB.
+[32:15] Beria, okey. Yang ni lepaslah beria.
+[32:17] Okey, alright. WB punya standard takut.
+[32:19] Tak kan ni dua sendulah.
+[32:21] Ah, okey.
+[32:22] Politik.
+[32:24] MP lompat tanya, apa punca dia lompat?
+[32:27] Ini soalan 19 November, baru saja.
+[32:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[32:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+[32:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[33:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[33:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[33:36] Okey. Baik, WB.
+[33:37] Beria, okey. Yang ni lepaslah beria.
+[33:39] Okey, alright. WB punya standard takut.
+[33:41] Tak kan ni dua sendulah.
+[33:43] Ah, okey.
+[33:44] Politik.
+[33:46] MP lompat tanya, apa punca dia lompat?
+[33:49] Ini soalan 19 November, baru saja.
+[33:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[34:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+[34:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[34:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[34:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[34:58] Okey. Baik, WB.
+[34:59] Beria, okey. Yang ni lepaslah beria.
+[35:01] Okey, alright. WB punya standard takut.
+[35:03] Tak kan ni dua sendulah.
+[35:05] Ah, okey.
+[35:06] Politik.
+[35:08] MP lompat tanya, apa punca dia lompat?
+[35:11] Ini soalan 19 November, baru saja.
+[35:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[35:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+[35:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[35:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[36:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[36:20] Okey. Baik, WB.
+[36:21] Beria, okey. Yang ni lepaslah beria.
+[36:23] Okey, alright. WB punya standard takut.
+[36:25] Tak kan ni dua sendulah.
+[36:27] Ah, okey.
+[36:28] Politik.
+[36:30] MP lompat tanya, apa punca dia lompat?
+[36:33] Ini soalan 19 November, baru saja.
+[36:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[36:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+[36:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[37:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[37:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[37:42] Okey. Baik, WB.
+[37:43] Beria, okey. Yang ni lepaslah beria.
+[37:45] Okey, alright. WB punya standard takut.
+[37:47] Tak kan ni dua sendulah.
+[37:49] Ah, okey.
+[37:50] Politik.
+[37:52] MP lompat tanya, apa punca dia lompat?
+[37:55] Ini soalan 19 November, baru saja.
+[37:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[38:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+[38:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[38:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[38:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[39:04] Okey. Baik, WB.
+[39:05] Beria, okey. Yang ni lepaslah beria.
+[39:07] Okey, alright. WB punya standard takut.
+[39:09] Tak kan ni dua sendulah.
+[39:11] Ah, okey.
+[39:12] Politik.
+[39:14] MP lompat tanya, apa punca dia lompat?
+[39:17] Ini soalan 19 November, baru saja.
+[39:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[39:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+[39:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[39:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[40:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[40:26] Okey. Baik, WB.
+[40:27] Beria, okey. Yang ni lepaslah beria.
+[40:29] Okey, alright. WB punya standard takut.
+[40:31] Tak kan ni dua sendulah.
+[40:33] Ah, okey.
+[40:34] Politik.
+[40:36] MP lompat tanya, apa punca dia lompat?
+[40:39] Ini soalan 19 November, baru saja.
+[40:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[40:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+[40:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[41:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[41:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[41:48] Okey. Baik, WB.
+[41:49] Beria, okey. Yang ni lepaslah beria.
+[41:51] Okey, alright. WB punya standard takut.
+[41:53] Tak kan ni dua sendulah.
+[41:55] Ah, okey.
+[41:56] Politik.
+[41:58] MP lompat tanya, apa punca dia lompat?
+[42:01] Ini soalan 19 November, baru saja.
+[42:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[42:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+[42:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[42:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[42:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[43:10] Okey. Baik, WB.
+[43:11] Beria, okey. Yang ni lepaslah beria.
+[43:13] Okey, alright. WB punya standard takut.
+[43:15] Tak kan ni dua sendulah.
+[43:17] Ah, okey.
+[43:18] Politik.
+[43:20] MP lompat tanya, apa punca dia lompat?
+[43:23] Ini soalan 19 November, baru saja.
+[43:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[43:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+[43:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[44:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[44:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[44:32] Okey. Baik, WB.
+[44:33] Beria, okey. Yang ni lepaslah beria.
+[44:35] Okey, alright. WB punya standard takut.
+[44:37] Tak kan ni dua sendulah.
+[44:39] Ah, okey.
+[44:40] Politik.
+[44:42] MP lompat tanya, apa punca dia lompat?
+[44:45] Ini soalan 19 November, baru saja.
+[44:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[44:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+[45:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[45:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[45:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[45:54] Okey. Baik, WB.
+[45:55] Beria, okey. Yang ni lepaslah beria.
+[45:57] Okey, alright. WB punya standard takut.
+[45:59] Tak kan ni dua sendulah.
+[46:01] Ah, okey.
+[46:02] Politik.
+[46:04] MP lompat tanya, apa punca dia lompat?
+[46:07] Ini soalan 19 November, baru saja.
+[46:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[46:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+[46:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[46:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[47:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[47:16] Okey. Baik, WB.
+[47:17] Beria, okey. Yang ni lepaslah beria.
+[47:19] Okey, alright. WB punya standard takut.
+[47:21] Tak kan ni dua sendulah.
+[47:23] Ah, okey.
+[47:24] Politik.
+[47:26] MP lompat tanya, apa punca dia lompat?
+[47:29] Ini soalan 19 November, baru saja.
+[47:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[47:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+[47:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[48:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[48:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[48:38] Okey. Baik, WB.
+[48:39] Beria, okey. Yang ni lepaslah beria.
+[48:41] Okey, alright. WB punya standard takut.
+[48:43] Tak kan ni dua sendulah.
+[48:45] Ah, okey.
+[48:46] Politik.
+[48:48] MP lompat tanya, apa punca dia lompat?
+[48:51] Ini soalan 19 November, baru saja.
+[48:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[49:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+[49:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[49:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[49:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[50:00] Okey. Baik, WB.
+[50:01] Beria, okey. Yang ni lepaslah beria.
+[50:03] Okey, alright. WB punya standard takut.
+[50:05] Tak kan ni dua sendulah.
+[50:07] Ah, okey.
+[50:08] Politik.
+[50:10] MP lompat tanya, apa punca dia lompat?
+[50:13] Ini soalan 19 November, baru saja.
+[50:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[50:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+[50:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[50:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[51:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[51:22] Okey. Baik, WB.
+[51:23] Beria, okey. Yang ni lepaslah beria.
+[51:25] Okey, alright. WB punya standard takut.
+[51:27] Tak kan ni dua sendulah.
+[51:29] Ah, okey.
+[51:30] Politik.
+[51:32] MP lompat tanya, apa punca dia lompat?
+[51:35] Ini soalan 19 November, baru saja.
+[51:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[51:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+[51:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[52:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[52:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[52:44] Okey. Baik, WB.
+[52:45] Beria, okey. Yang ni lepaslah beria.
+[52:47] Okey, alright. WB punya standard takut.
+[52:49] Tak kan ni dua sendulah.
+[52:51] Ah, okey.
+[52:52] Politik.
+[52:54] MP lompat tanya, apa punca dia lompat?
+[52:57] Ini soalan 19 November, baru saja.
+[52:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[53:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+[53:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[53:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[53:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[54:06] Okey. Baik, WB.
+[54:07] Beria, okey. Yang ni lepaslah beria.
+[54:09] Okey, alright. WB punya standard takut.
+[54:11] Tak kan ni dua sendulah.
+[54:13] Ah, okey.
+[54:14] Politik.
+[54:16] MP lompat tanya, apa punca dia lompat?
+[54:19] Ini soalan 19 November, baru saja.
+[54:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[54:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[54:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[54:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[55:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[55:28] Okey. Baik, WB.
+[55:29] Beria, okey. Yang ni lepaslah beria.
+[55:31] Okey, alright. WB punya standard takut.
+[55:33] Tak kan ni dua sendulah.
+[55:35] Ah, okey.
+[55:36] Politik.
+[55:38] MP lompat tanya, apa punca dia lompat?
+[55:41] Ini soalan 19 November, baru saja.
+[55:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[55:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+[55:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[56:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[56:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[56:50] Okey. Baik, WB.
+[56:51] Beria, okey. Yang ni lepaslah beria.
+[56:53] Okey, alright. WB punya standard takut.
+[56:55] Tak kan ni dua sendulah.
+[56:57] Ah, okey.
+[56:58] Politik.
+[57:00] MP lompat tanya, apa punca dia lompat?
+[57:03] Ini soalan 19 November, baru saja.
+[57:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[57:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+[57:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[57:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[58:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[58:12] Okey. Baik, WB.
+[58:13] Beria, okey. Yang ni lepaslah beria.
+[58:15] Okey, alright. WB punya standard takut.
+[58:17] Tak kan ni dua sendulah.
+[58:19] Ah, okey.
+[58:20] Politik.
+[58:22] MP lompat tanya, apa punca dia lompat?
+[58:25] Ini soalan 19 November, baru saja.
+[58:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[58:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+[58:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[59:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[59:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[59:34] Okey. Baik, WB.
+[59:35] Beria, okey. Yang ni lepaslah beria.
+[59:37] Okey, alright. WB punya standard takut.
+[59:39] Tak kan ni dua sendulah.
+[59:41] Ah, okey.
+[59:42] Politik.
+[59:44] MP lompat tanya, apa punca dia lompat?
+[59:47] Ini soalan 19 November, baru saja.
+[59:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[59:60] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:00:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:00:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:00:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:00:56] Okey. Baik, WB.
+[1:00:57] Beria, okey. Yang ni lepaslah beria.
+[1:00:59] Okey, alright. WB punya standard takut.
+[1:01:01] Tak kan ni dua sendulah.
+[1:01:03] Ah, okey.
+[1:01:04] Politik.
+[1:01:06] MP lompat tanya, apa punca dia lompat?
+[1:01:09] Ini soalan 19 November, baru saja.
+[1:01:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:01:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:01:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:01:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:02:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:02:18] Okey. Baik, WB.
+[1:02:19] Beria, okey. Yang ni lepaslah beria.
+[1:02:21] Okey, alright. WB punya standard takut.
+[1:02:23] Tak kan ni dua sendulah.
+[1:02:25] Ah, okey.
+[1:02:26] Politik.
+[1:02:28] MP lompat tanya, apa punca dia lompat?
+[1:02:31] Ini soalan 19 November, baru saja.
+[1:02:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:02:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:02:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:03:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:03:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:03:40] Okey. Baik, WB.
+[1:03:41] Beria, okey. Yang ni lepaslah beria.
+[1:03:43] Okey, alright. WB punya standard takut.
+[1:03:45] Tak kan ni dua sendulah.
+[1:03:47] Ah, okey.
+[1:03:48] Politik.
+[1:03:50] MP lompat tanya, apa punca dia lompat?
+[1:03:53] Ini soalan 19 November, baru saja.
+[1:03:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:04:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:04:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:04:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:04:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:05:02] Okey. Baik, WB.
+[1:05:03] Beria, okey. Yang ni lepaslah beria.
+[1:05:05] Okey, alright. WB punya standard takut.
+[1:05:07] Tak kan ni dua sendulah.
+[1:05:09] Ah, okey.
+[1:05:10] Politik.
+[1:05:12] MP lompat tanya, apa punca dia lompat?
+[1:05:15] Ini soalan 19 November, baru saja.
+[1:05:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:05:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:05:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:05:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:06:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:06:24] Okey. Baik, WB.
+[1:06:25] Beria, okey. Yang ni lepaslah beria.
+[1:06:27] Okey, alright. WB punya standard takut.
+[1:06:29] Tak kan ni dua sendulah.
+[1:06:31] Ah, okey.
+[1:06:32] Politik.
+[1:06:34] MP lompat tanya, apa punca dia lompat?
+[1:06:37] Ini soalan 19 November, baru saja.
+[1:06:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:06:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:06:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:07:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:07:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:07:46] Okey. Baik, WB.
+[1:07:47] Beria, okey. Yang ni lepaslah beria.
+[1:07:49] Okey, alright. WB punya standard takut.
+[1:07:51] Tak kan ni dua sendulah.
+[1:07:53] Ah, okey.
+[1:07:54] Politik.
+[1:07:56] MP lompat tanya, apa punca dia lompat?
+[1:07:59] Ini soalan 19 November, baru saja.
+[1:08:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:08:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:08:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:08:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:08:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:09:08] Okey. Baik, WB.
+[1:09:09] Beria, okey. Yang ni lepaslah beria.
+[1:09:11] Okey, alright. WB punya standard takut.
+[1:09:13] Tak kan ni dua sendulah.
+[1:09:15] Ah, okey.
+[1:09:16] Politik.
+[1:09:18] MP lompat tanya, apa punca dia lompat?
+[1:09:21] Ini soalan 19 November, baru saja.
+[1:09:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:09:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:09:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:10:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:10:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:10:30] Okey. Baik, WB.
+[1:10:31] Beria, okey. Yang ni lepaslah beria.
+[1:10:33] Okey, alright. WB punya standard takut.
+[1:10:35] Tak kan ni dua sendulah.
+[1:10:37] Ah, okey.
+[1:10:38] Politik.
+[1:10:40] MP lompat tanya, apa punca dia lompat?
+[1:10:43] Ini soalan 19 November, baru saja.
+[1:10:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:10:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:11:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:11:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:11:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:11:52] Okey. Baik, WB.
+[1:11:53] Beria, okey. Yang ni lepaslah beria.
+[1:11:55] Okey, alright. WB punya standard takut.
+[1:11:57] Tak kan ni dua sendulah.
+[1:11:59] Ah, okey.
+[1:12:00] Politik.
+[1:12:02] MP lompat tanya, apa punca dia lompat?
+[1:12:05] Ini soalan 19 November, baru saja.
+[1:12:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:12:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:12:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:12:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:13:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:13:14] Okey. Baik, WB.
+[1:13:15] Beria, okey. Yang ni lepaslah beria.
+[1:13:17] Okey, alright. WB punya standard takut.
+[1:13:19] Tak kan ni dua sendulah.
+[1:13:21] Ah, okey.
+[1:13:22] Politik.
+[1:13:24] MP lompat tanya, apa punca dia lompat?
+[1:13:27] Ini soalan 19 November, baru saja.
+[1:13:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:13:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:13:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:14:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:14:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:14:36] Okey. Baik, WB.
+[1:14:37] Beria, okey. Yang ni lepaslah beria.
+[1:14:39] Okey, alright. WB punya standard takut.
+[1:14:41] Tak kan ni dua sendulah.
+[1:14:43] Ah, okey.
+[1:14:44] Politik.
+[1:14:46] MP lompat tanya, apa punca dia lompat?
+[1:14:49] Ini soalan 19 November, baru saja.
+[1:14:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:15:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:15:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:15:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:15:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:15:58] Okey. Baik, WB.
+[1:15:59] Beria, okey. Yang ni lepaslah beria.
+[1:16:01] Okey, alright. WB punya standard takut.
+[1:16:03] Tak kan ni dua sendulah.
+[1:16:05] Ah, okey.
+[1:16:06] Politik.
+[1:16:08] MP lompat tanya, apa punca dia lompat?
+[1:16:11] Ini soalan 19 November, baru saja.
+[1:16:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:16:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:16:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:16:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:17:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:17:20] Okey. Baik, WB.
+[1:17:21] Beria, okey. Yang ni lepaslah beria.
+[1:17:23] Okey, alright. WB punya standard takut.
+[1:17:25] Tak kan ni dua sendulah.
+[1:17:27] Ah, okey.
+[1:17:28] Politik.
+[1:17:30] MP lompat tanya, apa punca dia lompat?
+[1:17:33] Ini soalan 19 November, baru saja.
+[1:17:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:17:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:17:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:18:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:18:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:18:42] Okey. Baik, WB.
+[1:18:43] Beria, okey. Yang ni lepaslah beria.
+[1:18:45] Okey, alright. WB punya standard takut.
+[1:18:47] Tak kan ni dua sendulah.
+[1:18:49] Ah, okey.
+[1:18:50] Politik.
+[1:18:52] MP lompat tanya, apa punca dia lompat?
+[1:18:55] Ini soalan 19 November, baru saja.
+[1:18:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:19:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:19:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:19:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:19:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:20:04] Okey. Baik, WB.
+[1:20:05] Beria, okey. Yang ni lepaslah beria.
+[1:20:07] Okey, alright. WB punya standard takut.
+[1:20:09] Tak kan ni dua sendulah.
+[1:20:11] Ah, okey.
+[1:20:12] Politik.
+[1:20:14] MP lompat tanya, apa punca dia lompat?
+[1:20:17] Ini soalan 19 November, baru saja.
+[1:20:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:20:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:20:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:20:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:21:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:21:26] Okey. Baik, WB.
+[1:21:27] Beria, okey. Yang ni lepaslah beria.
+[1:21:29] Okey, alright. WB punya standard takut.
+[1:21:31] Tak kan ni dua sendulah.
+[1:21:33] Ah, okey.
+[1:21:34] Politik.
+[1:21:36] MP lompat tanya, apa punca dia lompat?
+[1:21:39] Ini soalan 19 November, baru saja.
+[1:21:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:21:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:21:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:22:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:22:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:22:48] Okey. Baik, WB.
+[1:22:49] Beria, okey. Yang ni lepaslah beria.
+[1:22:51] Okey, alright. WB punya standard takut.
+[1:22:53] Tak kan ni dua sendulah.
+[1:22:55] Ah, okey.
+[1:22:56] Politik.
+[1:22:58] MP lompat tanya, apa punca dia lompat?
+[1:23:01] Ini soalan 19 November, baru saja.
+[1:23:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:23:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:23:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:23:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:23:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:24:10] Okey. Baik, WB.
+[1:24:11] Beria, okey. Yang ni lepaslah beria.
+[1:24:13] Okey, alright. WB punya standard takut.
+[1:24:15] Tak kan ni dua sendulah.
+[1:24:17] Ah, okey.
+[1:24:18] Politik.
+[1:24:20] MP lompat tanya, apa punca dia lompat?
+[1:24:23] Ini soalan 19 November, baru saja.
+[1:24:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:24:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:24:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:25:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:25:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:25:32] Okey. Baik, WB.
+[1:25:33] Beria, okey. Yang ni lepaslah beria.
+[1:25:35] Okey, alright. WB punya standard takut.
+[1:25:37] Tak kan ni dua sendulah.
+[1:25:39] Ah, okey.
+[1:25:40] Politik.
+[1:25:42] MP lompat tanya, apa punca dia lompat?
+[1:25:45] Ini soalan 19 November, baru saja.
+[1:25:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:25:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:26:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:26:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:26:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:26:54] Okey. Baik, WB.
+[1:26:55] Beria, okey. Yang ni lepaslah beria.
+[1:26:57] Okey, alright. WB punya standard takut.
+[1:26:59] Tak kan ni dua sendulah.
+[1:27:01] Ah, okey.
+[1:27:02] Politik.
+[1:27:04] MP lompat tanya, apa punca dia lompat?
+[1:27:07] Ini soalan 19 November, baru saja.
+[1:27:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:27:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:27:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:27:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:28:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:28:16] Okey. Baik, WB.
+[1:28:17] Beria, okey. Yang ni lepaslah beria.
+[1:28:19] Okey, alright. WB punya standard takut.
+[1:28:21] Tak kan ni dua sendulah.
+[1:28:23] Ah, okey.
+[1:28:24] Politik.
+[1:28:26] MP lompat tanya, apa punca dia lompat?
+[1:28:29] Ini soalan 19 November, baru saja.
+[1:28:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:28:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:28:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:29:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:29:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:29:38] Okey. Baik, WB.
+[1:29:39] Beria, okey. Yang ni lepaslah beria.
+[1:29:41] Okey, alright. WB punya standard takut.
+[1:29:43] Tak kan ni dua sendulah.
+[1:29:45] Ah, okey.
+[1:29:46] Politik.
+[1:29:48] MP lompat tanya, apa punca dia lompat?
+[1:29:51] Ini soalan 19 November, baru saja.
+[1:29:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:30:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:30:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:30:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:30:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:31:00] Okey. Baik, WB.
+[1:31:01] Beria, okey. Yang ni lepaslah beria.
+[1:31:03] Okey, alright. WB punya standard takut.
+[1:31:05] Tak kan ni dua sendulah.
+[1:31:07] Ah, okey.
+[1:31:08] Politik.
+[1:31:10] MP lompat tanya, apa punca dia lompat?
+[1:31:13] Ini soalan 19 November, baru saja.
+[1:31:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:31:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:31:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:31:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:32:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:32:22] Okey. Baik, WB.
+[1:32:23] Beria, okey. Yang ni lepaslah beria.
+[1:32:25] Okey, alright. WB punya standard takut.
+[1:32:27] Tak kan ni dua sendulah.
+[1:32:29] Ah, okey.
+[1:32:30] Politik.
+[1:32:32] MP lompat tanya, apa punca dia lompat?
+[1:32:35] Ini soalan 19 November, baru saja.
+[1:32:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:32:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:32:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:33:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:33:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:33:44] Okey. Baik, WB.
+[1:33:45] Beria, okey. Yang ni lepaslah beria.
+[1:33:47] Okey, alright. WB punya standard takut.
+[1:33:49] Tak kan ni dua sendulah.
+[1:33:51] Ah, okey.
+[1:33:52] Politik.
+[1:33:54] MP lompat tanya, apa punca dia lompat?
+[1:33:57] Ini soalan 19 November, baru saja.
+[1:33:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:34:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:34:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:34:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:34:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:35:06] Okey. Baik, WB.
+[1:35:07] Beria, okey. Yang ni lepaslah beria.
+[1:35:09] Okey, alright. WB punya standard takut.
+[1:35:11] Tak kan ni dua sendulah.
+[1:35:13] Ah, okey.
+[1:35:14] Politik.
+[1:35:16] MP lompat tanya, apa punca dia lompat?
+[1:35:19] Ini soalan 19 November, baru saja.
+[1:35:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:35:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:35:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:35:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:36:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:36:28] Okey. Baik, WB.
+[1:36:29] Beria, okey. Yang ni lepaslah beria.
+[1:36:31] Okey, alright. WB punya standard takut.
+[1:36:33] Tak kan ni dua sendulah.
+[1:36:35] Ah, okey.
+[1:36:36] Politik.
+[1:36:38] MP lompat tanya, apa punca dia lompat?
+[1:36:41] Ini soalan 19 November, baru saja.
+[1:36:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:36:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:36:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:37:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:37:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:37:50] Okey. Baik, WB.
+[1:37:51] Beria, okey. Yang ni lepaslah beria.
+[1:37:53] Okey, alright. WB punya standard takut.
+[1:37:55] Tak kan ni dua sendulah.
+[1:37:57] Ah, okey.
+[1:37:58] Politik.
+[1:38:00] MP lompat tanya, apa punca dia lompat?
+[1:38:03] Ini soalan 19 November, baru saja.
+[1:38:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:38:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:38:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:38:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:39:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:39:12] Okey. Baik, WB.
+[1:39:13] Beria, okey. Yang ni lepaslah beria.
+[1:39:15] Okey, alright. WB punya standard takut.
+[1:39:17] Tak kan ni dua sendulah.
+[1:39:19] Ah, okey.
+[1:39:20] Politik.
+[1:39:22] MP lompat tanya, apa punca dia lompat?
+[1:39:25] Ini soalan 19 November, baru saja.
+[1:39:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:39:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:39:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:40:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:40:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:40:34] Okey. Baik, WB.
+[1:40:35] Beria, okey. Yang ni lepaslah beria.
+[1:40:37] Okey, alright. WB punya standard takut.
+[1:40:39] Tak kan ni dua sendulah.
+[1:40:41] Ah, okey.
+[1:40:42] Politik.
+[1:40:44] MP lompat tanya, apa punca dia lompat?
+[1:40:47] Ini soalan 19 November, baru saja.
+[1:40:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:41:00] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:41:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:41:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:41:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:41:56] Okey. Baik, WB.
+[1:41:57] Beria, okey. Yang ni lepaslah beria.
+[1:41:59] Okey, alright. WB punya standard takut.
+[1:42:01] Tak kan ni dua sendulah.
+[1:42:03] Ah, okey.
+[1:42:04] Politik.
+[1:42:06] MP lompat tanya, apa punca dia lompat?
+[1:42:09] Ini soalan 19 November, baru saja.
+[1:42:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:42:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:42:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:42:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:43:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:43:18] Okey. Baik, WB.
+[1:43:19] Beria, okey. Yang ni lepaslah beria.
+[1:43:21] Okey, alright. WB punya standard takut.
+[1:43:23] Tak kan ni dua sendulah.
+[1:43:25] Ah, okey.
+[1:43:26] Politik.
+[1:43:28] MP lompat tanya, apa punca dia lompat?
+[1:43:31] Ini soalan 19 November, baru saja.
+[1:43:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:43:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:43:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:44:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:44:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:44:40] Okey. Baik, WB.
+[1:44:41] Beria, okey. Yang ni lepaslah beria.
+[1:44:43] Okey, alright. WB punya standard takut.
+[1:44:45] Tak kan ni dua sendulah.
+[1:44:47] Ah, okey.
+[1:44:48] Politik.
+[1:44:50] MP lompat tanya, apa punca dia lompat?
+[1:44:53] Ini soalan 19 November, baru saja.
+[1:44:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:45:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:45:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:45:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:45:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:46:02] Okey. Baik, WB.
+[1:46:03] Beria, okey. Yang ni lepaslah beria.
+[1:46:05] Okey, alright. WB punya standard takut.
+[1:46:07] Tak kan ni dua sendulah.
+[1:46:09] Ah, okey.
+[1:46:10] Politik.
+[1:46:12] MP lompat tanya, apa punca dia lompat?
+[1:46:15] Ini soalan 19 November, baru saja.
+[1:46:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:46:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:46:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:46:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:47:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:47:24] Okey. Baik, WB.
+[1:47:25] Beria, okey. Yang ni lepaslah beria.
+[1:47:27] Okey, alright. WB punya standard takut.
+[1:47:29] Tak kan ni dua sendulah.
+[1:47:31] Ah, okey.
+[1:47:32] Politik.
+[1:47:34] MP lompat tanya, apa punca dia lompat?
+[1:47:37] Ini soalan 19 November, baru saja.
+[1:47:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:47:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:47:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:48:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:48:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:48:46] Okey. Baik, WB.
+[1:48:47] Beria, okey. Yang ni lepaslah beria.
+[1:48:49] Okey, alright. WB punya standard takut.
+[1:48:51] Tak kan ni dua sendulah.
+[1:48:53] Ah, okey.
+[1:48:54] Politik.
+[1:48:56] MP lompat tanya, apa punca dia lompat?
+[1:48:59] Ini soalan 19 November, baru saja.
+[1:49:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:49:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:49:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:49:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:49:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:50:08] Okey. Baik, WB.
+[1:50:09] Beria, okey. Yang ni lepaslah beria.
+[1:50:11] Okey, alright. WB punya standard takut.
+[1:50:13] Tak kan ni dua sendulah.
+[1:50:15] Ah, okey.
+[1:50:16] Politik.
+[1:50:18] MP lompat tanya, apa punca dia lompat?
+[1:50:21] Ini soalan 19 November, baru saja.
+[1:50:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:50:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:50:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:51:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:51:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:51:30] Okey. Baik, WB.
+[1:51:31] Beria, okey. Yang ni lepaslah beria.
+[1:51:33] Okey, alright. WB punya standard takut.
+[1:51:35] Tak kan ni dua sendulah.
+[1:51:37] Ah, okey.
+[1:51:38] Politik.
+[1:51:40] MP lompat tanya, apa punca dia lompat?
+[1:51:43] Ini soalan 19 November, baru saja.
+[1:51:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:51:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:52:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:52:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:52:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:52:52] Okey. Baik, WB.
+[1:52:53] Beria, okey. Yang ni lepaslah beria.
+[1:52:55] Okey, alright. WB punya standard takut.
+[1:52:57] Tak kan ni dua sendulah.
+[1:52:59] Ah, okey.
+[1:53:00] Politik.
+[1:53:02] MP lompat tanya, apa punca dia lompat?
+[1:53:05] Ini soalan 19 November, baru saja.
+[1:53:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:53:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:53:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:53:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:54:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:54:14] Okey. Baik, WB.
+[1:54:15] Beria, okey. Yang ni lepaslah beria.
+[1:54:17] Okey, alright. WB punya standard takut.
+[1:54:19] Tak kan ni dua sendulah.
+[1:54:21] Ah, okey.
+[1:54:22] Politik.
+[1:54:24] MP lompat tanya, apa punca dia lompat?
+[1:54:27] Ini soalan 19 November, baru saja.
+[1:54:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:54:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:54:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:55:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:55:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:55:36] Okey. Baik, WB.
+[1:55:37] Beria, okey. Yang ni lepaslah beria.
+[1:55:39] Okey, alright. WB punya standard takut.
+[1:55:41] Tak kan ni dua sendulah.
+[1:55:43] Ah, okey.
+[1:55:44] Politik.
+[1:55:46] MP lompat tanya, apa punca dia lompat?
+[1:55:49] Ini soalan 19 November, baru saja.
+[1:55:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:56:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:56:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:56:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:56:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:56:58] Okey. Baik, WB.
+[1:56:59] Beria, okey. Yang ni lepaslah beria.
+[1:57:01] Okey, alright. WB punya standard takut.
+[1:57:03] Tak kan ni dua sendulah.
+[1:57:05] Ah, okey.
+[1:57:06] Politik.
+[1:57:08] MP lompat tanya, apa punca dia lompat?
+[1:57:11] Ini soalan 19 November, baru saja.
+[1:57:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:57:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:57:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:57:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:58:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:58:20] Okey. Baik, WB.
+[1:58:21] Beria, okey. Yang ni lepaslah beria.
+[1:58:23] Okey, alright. WB punya standard takut.
+[1:58:25] Tak kan ni dua sendulah.
+[1:58:27] Ah, okey.
+[1:58:28] Politik.
+[1:58:30] MP lompat tanya, apa punca dia lompat?
+[1:58:33] Ini soalan 19 November, baru saja.
+[1:58:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[1:58:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+[1:58:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[1:59:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[1:59:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[1:59:42] Okey. Baik, WB.
+[1:59:43] Beria, okey. Yang ni lepaslah beria.
+[1:59:45] Okey, alright. WB punya standard takut.
+[1:59:47] Tak kan ni dua sendulah.
+[1:59:49] Ah, okey.
+[1:59:50] Politik.
+[1:59:52] MP lompat tanya, apa punca dia lompat?
+[1:59:55] Ini soalan 19 November, baru saja.
+[1:59:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:00:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:00:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:00:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:00:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:01:04] Okey. Baik, WB.
+[2:01:05] Beria, okey. Yang ni lepaslah beria.
+[2:01:07] Okey, alright. WB punya standard takut.
+[2:01:09] Tak kan ni dua sendulah.
+[2:01:11] Ah, okey.
+[2:01:12] Politik.
+[2:01:14] MP lompat tanya, apa punca dia lompat?
+[2:01:17] Ini soalan 19 November, baru saja.
+[2:01:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:01:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:01:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:01:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:02:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:02:26] Okey. Baik, WB.
+[2:02:27] Beria, okey. Yang ni lepaslah beria.
+[2:02:29] Okey, alright. WB punya standard takut.
+[2:02:31] Tak kan ni dua sendulah.
+[2:02:33] Ah, okey.
+[2:02:34] Politik.
+[2:02:36] MP lompat tanya, apa punca dia lompat?
+[2:02:39] Ini soalan 19 November, baru saja.
+[2:02:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:02:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:02:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:03:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:03:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:03:48] Okey. Baik, WB.
+[2:03:49] Beria, okey. Yang ni lepaslah beria.
+[2:03:51] Okey, alright. WB punya standard takut.
+[2:03:53] Tak kan ni dua sendulah.
+[2:03:55] Ah, okey.
+[2:03:56] Politik.
+[2:03:58] MP lompat tanya, apa punca dia lompat?
+[2:04:01] Ini soalan 19 November, baru saja.
+[2:04:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:04:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:04:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:04:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:04:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:05:10] Okey. Baik, WB.
+[2:05:11] Beria, okey. Yang ni lepaslah beria.
+[2:05:13] Okey, alright. WB punya standard takut.
+[2:05:15] Tak kan ni dua sendulah.
+[2:05:17] Ah, okey.
+[2:05:18] Politik.
+[2:05:20] MP lompat tanya, apa punca dia lompat?
+[2:05:23] Ini soalan 19 November, baru saja.
+[2:05:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:05:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:05:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:06:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:06:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:06:32] Okey. Baik, WB.
+[2:06:33] Beria, okey. Yang ni lepaslah beria.
+[2:06:35] Okey, alright. WB punya standard takut.
+[2:06:37] Tak kan ni dua sendulah.
+[2:06:39] Ah, okey.
+[2:06:40] Politik.
+[2:06:42] MP lompat tanya, apa punca dia lompat?
+[2:06:45] Ini soalan 19 November, baru saja.
+[2:06:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:06:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:07:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:07:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:07:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:07:54] Okey. Baik, WB.
+[2:07:55] Beria, okey. Yang ni lepaslah beria.
+[2:07:57] Okey, alright. WB punya standard takut.
+[2:07:59] Tak kan ni dua sendulah.
+[2:08:01] Ah, okey.
+[2:08:02] Politik.
+[2:08:04] MP lompat tanya, apa punca dia lompat?
+[2:08:07] Ini soalan 19 November, baru saja.
+[2:08:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:08:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:08:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:08:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:09:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:09:16] Okey. Baik, WB.
+[2:09:17] Beria, okey. Yang ni lepaslah beria.
+[2:09:19] Okey, alright. WB punya standard takut.
+[2:09:21] Tak kan ni dua sendulah.
+[2:09:23] Ah, okey.
+[2:09:24] Politik.
+[2:09:26] MP lompat tanya, apa punca dia lompat?
+[2:09:29] Ini soalan 19 November, baru saja.
+[2:09:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:09:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:09:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:10:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:10:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:10:38] Okey. Baik, WB.
+[2:10:39] Beria, okey. Yang ni lepaslah beria.
+[2:10:41] Okey, alright. WB punya standard takut.
+[2:10:43] Tak kan ni dua sendulah.
+[2:10:45] Ah, okey.
+[2:10:46] Politik.
+[2:10:48] MP lompat tanya, apa punca dia lompat?
+[2:10:51] Ini soalan 19 November, baru saja.
+[2:10:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:11:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:11:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:11:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:11:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:12:00] Okey. Baik, WB.
+[2:12:01] Beria, okey. Yang ni lepaslah beria.
+[2:12:03] Okey, alright. WB punya standard takut.
+[2:12:05] Tak kan ni dua sendulah.
+[2:12:07] Ah, okey.
+[2:12:08] Politik.
+[2:12:10] MP lompat tanya, apa punca dia lompat?
+[2:12:13] Ini soalan 19 November, baru saja.
+[2:12:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:12:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:12:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:12:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:13:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:13:22] Okey. Baik, WB.
+[2:13:23] Beria, okey. Yang ni lepaslah beria.
+[2:13:25] Okey, alright. WB punya standard takut.
+[2:13:27] Tak kan ni dua sendulah.
+[2:13:29] Ah, okey.
+[2:13:30] Politik.
+[2:13:32] MP lompat tanya, apa punca dia lompat?
+[2:13:35] Ini soalan 19 November, baru saja.
+[2:13:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:13:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:13:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:14:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:14:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:14:44] Okey. Baik, WB.
+[2:14:45] Beria, okey. Yang ni lepaslah beria.
+[2:14:47] Okey, alright. WB punya standard takut.
+[2:14:49] Tak kan ni dua sendulah.
+[2:14:51] Ah, okey.
+[2:14:52] Politik.
+[2:14:54] MP lompat tanya, apa punca dia lompat?
+[2:14:57] Ini soalan 19 November, baru saja.
+[2:14:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:15:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:15:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:15:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:15:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:16:06] Okey. Baik, WB.
+[2:16:07] Beria, okey. Yang ni lepaslah beria.
+[2:16:09] Okey, alright. WB punya standard takut.
+[2:16:11] Tak kan ni dua sendulah.
+[2:16:13] Ah, okey.
+[2:16:14] Politik.
+[2:16:16] MP lompat tanya, apa punca dia lompat?
+[2:16:19] Ini soalan 19 November, baru saja.
+[2:16:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:16:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:16:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:16:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:17:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:17:28] Okey. Baik, WB.
+[2:17:29] Beria, okey. Yang ni lepaslah beria.
+[2:17:31] Okey, alright. WB punya standard takut.
+[2:17:33] Tak kan ni dua sendulah.
+[2:17:35] Ah, okey.
+[2:17:36] Politik.
+[2:17:38] MP lompat tanya, apa punca dia lompat?
+[2:17:41] Ini soalan 19 November, baru saja.
+[2:17:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:17:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:17:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:18:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:18:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:18:50] Okey. Baik, WB.
+[2:18:51] Beria, okey. Yang ni lepaslah beria.
+[2:18:53] Okey, alright. WB punya standard takut.
+[2:18:55] Tak kan ni dua sendulah.
+[2:18:57] Ah, okey.
+[2:18:58] Politik.
+[2:19:00] MP lompat tanya, apa punca dia lompat?
+[2:19:03] Ini soalan 19 November, baru saja.
+[2:19:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:19:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:19:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:19:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:20:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:20:12] Okey. Baik, WB.
+[2:20:13] Beria, okey. Yang ni lepaslah beria.
+[2:20:15] Okey, alright. WB punya standard takut.
+[2:20:17] Tak kan ni dua sendulah.
+[2:20:19] Ah, okey.
+[2:20:20] Politik.
+[2:20:22] MP lompat tanya, apa punca dia lompat?
+[2:20:25] Ini soalan 19 November, baru saja.
+[2:20:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:20:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:20:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:21:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:21:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:21:34] Okey. Baik, WB.
+[2:21:35] Beria, okey. Yang ni lepaslah beria.
+[2:21:37] Okey, alright. WB punya standard takut.
+[2:21:39] Tak kan ni dua sendulah.
+[2:21:41] Ah, okey.
+[2:21:42] Politik.
+[2:21:44] MP lompat tanya, apa punca dia lompat?
+[2:21:47] Ini soalan 19 November, baru saja.
+[2:21:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:22:00] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:22:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:22:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:22:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:22:56] Okey. Baik, WB.
+[2:22:57] Beria, okey. Yang ni lepaslah beria.
+[2:22:59] Okey, alright. WB punya standard takut.
+[2:23:01] Tak kan ni dua sendulah.
+[2:23:03] Ah, okey.
+[2:23:04] Politik.
+[2:23:06] MP lompat tanya, apa punca dia lompat?
+[2:23:09] Ini soalan 19 November, baru saja.
+[2:23:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:23:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:23:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:23:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:24:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:24:18] Okey. Baik, WB.
+[2:24:19] Beria, okey. Yang ni lepaslah beria.
+[2:24:21] Okey, alright. WB punya standard takut.
+[2:24:23] Tak kan ni dua sendulah.
+[2:24:25] Ah, okey.
+[2:24:26] Politik.
+[2:24:28] MP lompat tanya, apa punca dia lompat?
+[2:24:31] Ini soalan 19 November, baru saja.
+[2:24:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:24:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:24:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:25:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:25:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:25:40] Okey. Baik, WB.
+[2:25:41] Beria, okey. Yang ni lepaslah beria.
+[2:25:43] Okey, alright. WB punya standard takut.
+[2:25:45] Tak kan ni dua sendulah.
+[2:25:47] Ah, okey.
+[2:25:48] Politik.
+[2:25:50] MP lompat tanya, apa punca dia lompat?
+[2:25:53] Ini soalan 19 November, baru saja.
+[2:25:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:26:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:26:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:26:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:26:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:27:02] Okey. Baik, WB.
+[2:27:03] Beria, okey. Yang ni lepaslah beria.
+[2:27:05] Okey, alright. WB punya standard takut.
+[2:27:07] Tak kan ni dua sendulah.
+[2:27:09] Ah, okey.
+[2:27:10] Politik.
+[2:27:12] MP lompat tanya, apa punca dia lompat?
+[2:27:15] Ini soalan 19 November, baru saja.
+[2:27:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:27:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:27:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:27:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:28:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:28:24] Okey. Baik, WB.
+[2:28:25] Beria, okey. Yang ni lepaslah beria.
+[2:28:27] Okey, alright. WB punya standard takut.
+[2:28:29] Tak kan ni dua sendulah.
+[2:28:31] Ah, okey.
+[2:28:32] Politik.
+[2:28:34] MP lompat tanya, apa punca dia lompat?
+[2:28:37] Ini soalan 19 November, baru saja.
+[2:28:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[2:28:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+[2:28:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[2:29:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[2:29:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[2:29:46] Okey. Baik, WB.
+[2:29:47] Beria, okey. Yang ni lepaslah beria.
+[2:29:49] Okey, alright. WB punya standard takut.
+[2:29:51] Tak kan ni dua sendulah.
+[2:29:53] Ah, okey.
+[2:29:54] Politik.
+[2:29:56] MP lompat tanya, apa punca dia lompat?
+[2:29:59] Ini soalan 19 November, baru saja.
+[3:00:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:00:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:00:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:00:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:00:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:01:08] Okey. Baik, WB.
+[3:01:09] Beria, okey. Yang ni lepaslah beria.
+[3:01:11] Okey, alright. WB punya standard takut.
+[3:01:13] Tak kan ni dua sendulah.
+[3:01:15] Ah, okey.
+[3:01:16] Politik.
+[3:01:18] MP lompat tanya, apa punca dia lompat?
+[3:01:21] Ini soalan 19 November, baru saja.
+[3:01:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:01:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:01:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:02:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:02:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:02:30] Okey. Baik, WB.
+[3:02:31] Beria, okey. Yang ni lepaslah beria.
+[3:02:33] Okey, alright. WB punya standard takut.
+[3:02:35] Tak kan ni dua sendulah.
+[3:02:37] Ah, okey.
+[3:02:38] Politik.
+[3:02:40] MP lompat tanya, apa punca dia lompat?
+[3:02:43] Ini soalan 19 November, baru saja.
+[3:02:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:02:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:03:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:03:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:03:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:03:52] Okey. Baik, WB.
+[3:03:53] Beria, okey. Yang ni lepaslah beria.
+[3:03:55] Okey, alright. WB punya standard takut.
+[3:03:57] Tak kan ni dua sendulah.
+[3:03:59] Ah, okey.
+[3:04:00] Politik.
+[3:04:02] MP lompat tanya, apa punca dia lompat?
+[3:04:05] Ini soalan 19 November, baru saja.
+[3:04:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:04:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:04:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:04:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:05:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:05:14] Okey. Baik, WB.
+[3:05:15] Beria, okey. Yang ni lepaslah beria.
+[3:05:17] Okey, alright. WB punya standard takut.
+[3:05:19] Tak kan ni dua sendulah.
+[3:05:21] Ah, okey.
+[3:05:22] Politik.
+[3:05:24] MP lompat tanya, apa punca dia lompat?
+[3:05:27] Ini soalan 19 November, baru saja.
+[3:05:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:05:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:05:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:06:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:06:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:06:36] Okey. Baik, WB.
+[3:06:37] Beria, okey. Yang ni lepaslah beria.
+[3:06:39] Okey, alright. WB punya standard takut.
+[3:06:41] Tak kan ni dua sendulah.
+[3:06:43] Ah, okey.
+[3:06:44] Politik.
+[3:06:46] MP lompat tanya, apa punca dia lompat?
+[3:06:49] Ini soalan 19 November, baru saja.
+[3:06:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:07:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:07:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:07:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:07:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:07:58] Okey. Baik, WB.
+[3:07:59] Beria, okey. Yang ni lepaslah beria.
+[3:08:01] Okey, alright. WB punya standard takut.
+[3:08:03] Tak kan ni dua sendulah.
+[3:08:05] Ah, okey.
+[3:08:06] Politik.
+[3:08:08] MP lompat tanya, apa punca dia lompat?
+[3:08:11] Ini soalan 19 November, baru saja.
+[3:08:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:08:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:08:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:08:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:09:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:09:20] Okey. Baik, WB.
+[3:09:21] Beria, okey. Yang ni lepaslah beria.
+[3:09:23] Okey, alright. WB punya standard takut.
+[3:09:25] Tak kan ni dua sendulah.
+[3:09:27] Ah, okey.
+[3:09:28] Politik.
+[3:09:30] MP lompat tanya, apa punca dia lompat?
+[3:09:33] Ini soalan 19 November, baru saja.
+[3:09:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:09:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:09:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:10:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:10:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:10:42] Okey. Baik, WB.
+[3:10:43] Beria, okey. Yang ni lepaslah beria.
+[3:10:45] Okey, alright. WB punya standard takut.
+[3:10:47] Tak kan ni dua sendulah.
+[3:10:49] Ah, okey.
+[3:10:50] Politik.
+[3:10:52] MP lompat tanya, apa punca dia lompat?
+[3:10:55] Ini soalan 19 November, baru saja.
+[3:10:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:11:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:11:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:11:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:11:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:12:04] Okey. Baik, WB.
+[3:12:05] Beria, okey. Yang ni lepaslah beria.
+[3:12:07] Okey, alright. WB punya standard takut.
+[3:12:09] Tak kan ni dua sendulah.
+[3:12:11] Ah, okey.
+[3:12:12] Politik.
+[3:12:14] MP lompat tanya, apa punca dia lompat?
+[3:12:17] Ini soalan 19 November, baru saja.
+[3:12:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:12:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:12:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:12:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:13:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:13:26] Okey. Baik, WB.
+[3:13:27] Beria, okey. Yang ni lepaslah beria.
+[3:13:29] Okey, alright. WB punya standard takut.
+[3:13:31] Tak kan ni dua sendulah.
+[3:13:33] Ah, okey.
+[3:13:34] Politik.
+[3:13:36] MP lompat tanya, apa punca dia lompat?
+[3:13:39] Ini soalan 19 November, baru saja.
+[3:13:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:13:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:13:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:14:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:14:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:14:48] Okey. Baik, WB.
+[3:14:49] Beria, okey. Yang ni lepaslah beria.
+[3:14:51] Okey, alright. WB punya standard takut.
+[3:14:53] Tak kan ni dua sendulah.
+[3:14:55] Ah, okey.
+[3:14:56] Politik.
+[3:14:58] MP lompat tanya, apa punca dia lompat?
+[3:15:01] Ini soalan 19 November, baru saja.
+[3:15:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:15:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:15:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:15:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:15:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:16:10] Okey. Baik, WB.
+[3:16:11] Beria, okey. Yang ni lepaslah beria.
+[3:16:13] Okey, alright. WB punya standard takut.
+[3:16:15] Tak kan ni dua sendulah.
+[3:16:17] Ah, okey.
+[3:16:18] Politik.
+[3:16:20] MP lompat tanya, apa punca dia lompat?
+[3:16:23] Ini soalan 19 November, baru saja.
+[3:16:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:16:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:16:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:17:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:17:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:17:32] Okey. Baik, WB.
+[3:17:33] Beria, okey. Yang ni lepaslah beria.
+[3:17:35] Okey, alright. WB punya standard takut.
+[3:17:37] Tak kan ni dua sendulah.
+[3:17:39] Ah, okey.
+[3:17:40] Politik.
+[3:17:42] MP lompat tanya, apa punca dia lompat?
+[3:17:45] Ini soalan 19 November, baru saja.
+[3:17:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:17:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:18:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:18:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:18:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:18:54] Okey. Baik, WB.
+[3:18:55] Beria, okey. Yang ni lepaslah beria.
+[3:18:57] Okey, alright. WB punya standard takut.
+[3:18:59] Tak kan ni dua sendulah.
+[3:19:01] Ah, okey.
+[3:19:02] Politik.
+[3:19:04] MP lompat tanya, apa punca dia lompat?
+[3:19:07] Ini soalan 19 November, baru saja.
+[3:19:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:19:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:19:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:19:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:20:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:20:16] Okey. Baik, WB.
+[3:20:17] Beria, okey. Yang ni lepaslah beria.
+[3:20:19] Okey, alright. WB punya standard takut.
+[3:20:21] Tak kan ni dua sendulah.
+[3:20:23] Ah, okey.
+[3:20:24] Politik.
+[3:20:26] MP lompat tanya, apa punca dia lompat?
+[3:20:29] Ini soalan 19 November, baru saja.
+[3:20:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:20:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:20:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:21:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:21:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:21:38] Okey. Baik, WB.
+[3:21:39] Beria, okey. Yang ni lepaslah beria.
+[3:21:41] Okey, alright. WB punya standard takut.
+[3:21:43] Tak kan ni dua sendulah.
+[3:21:45] Ah, okey.
+[3:21:46] Politik.
+[3:21:48] MP lompat tanya, apa punca dia lompat?
+[3:21:51] Ini soalan 19 November, baru saja.
+[3:21:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:22:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:22:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:22:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:22:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:23:00] Okey. Baik, WB.
+[3:23:01] Beria, okey. Yang ni lepaslah beria.
+[3:23:03] Okey, alright. WB punya standard takut.
+[3:23:05] Tak kan ni dua sendulah.
+[3:23:07] Ah, okey.
+[3:23:08] Politik.
+[3:23:10] MP lompat tanya, apa punca dia lompat?
+[3:23:13] Ini soalan 19 November, baru saja.
+[3:23:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:23:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:23:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:23:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:24:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:24:22] Okey. Baik, WB.
+[3:24:23] Beria, okey. Yang ni lepaslah beria.
+[3:24:25] Okey, alright. WB punya standard takut.
+[3:24:27] Tak kan ni dua sendulah.
+[3:24:29] Ah, okey.
+[3:24:30] Politik.
+[3:24:32] MP lompat tanya, apa punca dia lompat?
+[3:24:35] Ini soalan 19 November, baru saja.
+[3:24:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:24:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:24:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:25:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:25:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:25:44] Okey. Baik, WB.
+[3:25:45] Beria, okey. Yang ni lepaslah beria.
+[3:25:47] Okey, alright. WB punya standard takut.
+[3:25:49] Tak kan ni dua sendulah.
+[3:25:51] Ah, okey.
+[3:25:52] Politik.
+[3:25:54] MP lompat tanya, apa punca dia lompat?
+[3:25:57] Ini soalan 19 November, baru saja.
+[3:25:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:26:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:26:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:26:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:26:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:27:06] Okey. Baik, WB.
+[3:27:07] Beria, okey. Yang ni lepaslah beria.
+[3:27:09] Okey, alright. WB punya standard takut.
+[3:27:11] Tak kan ni dua sendulah.
+[3:27:13] Ah, okey.
+[3:27:14] Politik.
+[3:27:16] MP lompat tanya, apa punca dia lompat?
+[3:27:19] Ini soalan 19 November, baru saja.
+[3:27:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:27:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:27:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:27:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:28:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:28:28] Okey. Baik, WB.
+[3:28:29] Beria, okey. Yang ni lepaslah beria.
+[3:28:31] Okey, alright. WB punya standard takut.
+[3:28:33] Tak kan ni dua sendulah.
+[3:28:35] Ah, okey.
+[3:28:36] Politik.
+[3:28:38] MP lompat tanya, apa punca dia lompat?
+[3:28:41] Ini soalan 19 November, baru saja.
+[3:28:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:28:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:28:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:29:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:29:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:29:50] Okey. Baik, WB.
+[3:29:51] Beria, okey. Yang ni lepaslah beria.
+[3:29:53] Okey, alright. WB punya standard takut.
+[3:29:55] Tak kan ni dua sendulah.
+[3:29:57] Ah, okey.
+[3:29:58] Politik.
+[3:30:00] MP lompat tanya, apa punca dia lompat?
+[3:30:03] Ini soalan 19 November, baru saja.
+[3:30:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:30:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:30:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:30:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:31:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:31:12] Okey. Baik, WB.
+[3:31:13] Beria, okey. Yang ni lepaslah beria.
+[3:31:15] Okey, alright. WB punya standard takut.
+[3:31:17] Tak kan ni dua sendulah.
+[3:31:19] Ah, okey.
+[3:31:20] Politik.
+[3:31:22] MP lompat tanya, apa punca dia lompat?
+[3:31:25] Ini soalan 19 November, baru saja.
+[3:31:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:31:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:31:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:32:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:32:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:32:34] Okey. Baik, WB.
+[3:32:35] Beria, okey. Yang ni lepaslah beria.
+[3:32:37] Okey, alright. WB punya standard takut.
+[3:32:39] Tak kan ni dua sendulah.
+[3:32:41] Ah, okey.
+[3:32:42] Politik.
+[3:32:44] MP lompat tanya, apa punca dia lompat?
+[3:32:47] Ini soalan 19 November, baru saja.
+[3:32:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:33:00] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:33:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:33:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:33:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:33:56] Okey. Baik, WB.
+[3:33:57] Beria, okey. Yang ni lepaslah beria.
+[3:33:59] Okey, alright. WB punya standard takut.
+[3:34:01] Tak kan ni dua sendulah.
+[3:34:03] Ah, okey.
+[3:34:04] Politik.
+[3:34:06] MP lompat tanya, apa punca dia lompat?
+[3:34:09] Ini soalan 19 November, baru saja.
+[3:34:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:34:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:34:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:34:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:35:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:35:18] Okey. Baik, WB.
+[3:35:19] Beria, okey. Yang ni lepaslah beria.
+[3:35:21] Okey, alright. WB punya standard takut.
+[3:35:23] Tak kan ni dua sendulah.
+[3:35:25] Ah, okey.
+[3:35:26] Politik.
+[3:35:28] MP lompat tanya, apa punca dia lompat?
+[3:35:31] Ini soalan 19 November, baru saja.
+[3:35:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:35:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:35:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:36:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:36:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:36:40] Okey. Baik, WB.
+[3:36:41] Beria, okey. Yang ni lepaslah beria.
+[3:36:43] Okey, alright. WB punya standard takut.
+[3:36:45] Tak kan ni dua sendulah.
+[3:36:47] Ah, okey.
+[3:36:48] Politik.
+[3:36:50] MP lompat tanya, apa punca dia lompat?
+[3:36:53] Ini soalan 19 November, baru saja.
+[3:36:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:37:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:37:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:37:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:37:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:38:02] Okey. Baik, WB.
+[3:38:03] Beria, okey. Yang ni lepaslah beria.
+[3:38:05] Okey, alright. WB punya standard takut.
+[3:38:07] Tak kan ni dua sendulah.
+[3:38:09] Ah, okey.
+[3:38:10] Politik.
+[3:38:12] MP lompat tanya, apa punca dia lompat?
+[3:38:15] Ini soalan 19 November, baru saja.
+[3:38:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:38:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:38:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:38:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:39:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:39:24] Okey. Baik, WB.
+[3:39:25] Beria, okey. Yang ni lepaslah beria.
+[3:39:27] Okey, alright. WB punya standard takut.
+[3:39:29] Tak kan ni dua sendulah.
+[3:39:31] Ah, okey.
+[3:39:32] Politik.
+[3:39:34] MP lompat tanya, apa punca dia lompat?
+[3:39:37] Ini soalan 19 November, baru saja.
+[3:39:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:39:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:39:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:40:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:40:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:40:46] Okey. Baik, WB.
+[3:40:47] Beria, okey. Yang ni lepaslah beria.
+[3:40:49] Okey, alright. WB punya standard takut.
+[3:40:51] Tak kan ni dua sendulah.
+[3:40:53] Ah, okey.
+[3:40:54] Politik.
+[3:40:56] MP lompat tanya, apa punca dia lompat?
+[3:40:59] Ini soalan 19 November, baru saja.
+[3:41:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:41:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:41:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:41:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:41:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:42:08] Okey. Baik, WB.
+[3:42:09] Beria, okey. Yang ni lepaslah beria.
+[3:42:11] Okey, alright. WB punya standard takut.
+[3:42:13] Tak kan ni dua sendulah.
+[3:42:15] Ah, okey.
+[3:42:16] Politik.
+[3:42:18] MP lompat tanya, apa punca dia lompat?
+[3:42:21] Ini soalan 19 November, baru saja.
+[3:42:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:42:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:42:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:43:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:43:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:43:30] Okey. Baik, WB.
+[3:43:31] Beria, okey. Yang ni lepaslah beria.
+[3:43:33] Okey, alright. WB punya standard takut.
+[3:43:35] Tak kan ni dua sendulah.
+[3:43:37] Ah, okey.
+[3:43:38] Politik.
+[3:43:40] MP lompat tanya, apa punca dia lompat?
+[3:43:43] Ini soalan 19 November, baru saja.
+[3:43:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:43:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:44:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:44:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:44:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:44:52] Okey. Baik, WB.
+[3:44:53] Beria, okey. Yang ni lepaslah beria.
+[3:44:55] Okey, alright. WB punya standard takut.
+[3:44:57] Tak kan ni dua sendulah.
+[3:44:59] Ah, okey.
+[3:45:00] Politik.
+[3:45:02] MP lompat tanya, apa punca dia lompat?
+[3:45:05] Ini soalan 19 November, baru saja.
+[3:45:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:45:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:45:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:45:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:46:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:46:14] Okey. Baik, WB.
+[3:46:15] Beria, okey. Yang ni lepaslah beria.
+[3:46:17] Okey, alright. WB punya standard takut.
+[3:46:19] Tak kan ni dua sendulah.
+[3:46:21] Ah, okey.
+[3:46:22] Politik.
+[3:46:24] MP lompat tanya, apa punca dia lompat?
+[3:46:27] Ini soalan 19 November, baru saja.
+[3:46:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:46:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:46:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:47:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:47:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:47:36] Okey. Baik, WB.
+[3:47:37] Beria, okey. Yang ni lepaslah beria.
+[3:47:39] Okey, alright. WB punya standard takut.
+[3:47:41] Tak kan ni dua sendulah.
+[3:47:43] Ah, okey.
+[3:47:44] Politik.
+[3:47:46] MP lompat tanya, apa punca dia lompat?
+[3:47:49] Ini soalan 19 November, baru saja.
+[3:47:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:48:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:48:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:48:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:48:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:48:58] Okey. Baik, WB.
+[3:48:59] Beria, okey. Yang ni lepaslah beria.
+[3:49:01] Okey, alright. WB punya standard takut.
+[3:49:03] Tak kan ni dua sendulah.
+[3:49:05] Ah, okey.
+[3:49:06] Politik.
+[3:49:08] MP lompat tanya, apa punca dia lompat?
+[3:49:11] Ini soalan 19 November, baru saja.
+[3:49:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:49:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:49:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:49:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:50:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:50:20] Okey. Baik, WB.
+[3:50:21] Beria, okey. Yang ni lepaslah beria.
+[3:50:23] Okey, alright. WB punya standard takut.
+[3:50:25] Tak kan ni dua sendulah.
+[3:50:27] Ah, okey.
+[3:50:28] Politik.
+[3:50:30] MP lompat tanya, apa punca dia lompat?
+[3:50:33] Ini soalan 19 November, baru saja.
+[3:50:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:50:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:50:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:51:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:51:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:51:42] Okey. Baik, WB.
+[3:51:43] Beria, okey. Yang ni lepaslah beria.
+[3:51:45] Okey, alright. WB punya standard takut.
+[3:51:47] Tak kan ni dua sendulah.
+[3:51:49] Ah, okey.
+[3:51:50] Politik.
+[3:51:52] MP lompat tanya, apa punca dia lompat?
+[3:51:55] Ini soalan 19 November, baru saja.
+[3:51:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:52:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:52:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:52:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:52:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:53:04] Okey. Baik, WB.
+[3:53:05] Beria, okey. Yang ni lepaslah beria.
+[3:53:07] Okey, alright. WB punya standard takut.
+[3:53:09] Tak kan ni dua sendulah.
+[3:53:11] Ah, okey.
+[3:53:12] Politik.
+[3:53:14] MP lompat tanya, apa punca dia lompat?
+[3:53:17] Ini soalan 19 November, baru saja.
+[3:53:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:53:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:53:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:53:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:54:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:54:26] Okey. Baik, WB.
+[3:54:27] Beria, okey. Yang ni lepaslah beria.
+[3:54:29] Okey, alright. WB punya standard takut.
+[3:54:31] Tak kan ni dua sendulah.
+[3:54:33] Ah, okey.
+[3:54:34] Politik.
+[3:54:36] MP lompat tanya, apa punca dia lompat?
+[3:54:39] Ini soalan 19 November, baru saja.
+[3:54:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:54:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:54:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:55:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:55:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:55:48] Okey. Baik, WB.
+[3:55:49] Beria, okey. Yang ni lepaslah beria.
+[3:55:51] Okey, alright. WB punya standard takut.
+[3:55:53] Tak kan ni dua sendulah.
+[3:55:55] Ah, okey.
+[3:55:56] Politik.
+[3:55:58] MP lompat tanya, apa punca dia lompat?
+[3:56:01] Ini soalan 19 November, baru saja.
+[3:56:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:56:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:56:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[3:56:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[3:56:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[3:57:10] Okey. Baik, WB.
+[3:57:11] Beria, okey. Yang ni lepaslah beria.
+[3:57:13] Okey, alright. WB punya standard takut.
+[3:57:15] Tak kan ni dua sendulah.
+[3:57:17] Ah, okey.
+[3:57:18] Politik.
+[3:57:20] MP lompat tanya, apa punca dia lompat?
+[3:57:23] Ini soalan 19 November, baru saja.
+[3:57:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[3:57:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+[3:57:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[38:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[38:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[38:32] Okey. Baik, WB.
+[38:33] Beria, okey. Yang ni lepaslah beria.
+[38:35] Okey, alright. WB punya standard takut.
+[38:37] Tak kan ni dua sendulah.
+[38:39] Ah, okey.
+[38:40] Politik.
+[38:42] MP lompat tanya, apa punca dia lompat?
+[38:45] Ini soalan 19 November, baru saja.
+[38:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[38:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+[39:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[39:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[39:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[39:54] Okey. Baik, WB.
+[39:55] Beria, okey. Yang ni lepaslah beria.
+[39:57] Okey, alright. WB punya standard takut.
+[39:59] Tak kan ni dua sendulah.
+[40:01] Ah, okey.
+[40:02] Politik.
+[40:04] MP lompat tanya, apa punca dia lompat?
+[40:07] Ini soalan 19 November, baru saja.
+[40:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[40:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+[40:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[40:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[41:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[41:16] Okey. Baik, WB.
+[41:17] Beria, okey. Yang ni lepaslah beria.
+[41:19] Okey, alright. WB punya standard takut.
+[41:21] Tak kan ni dua sendulah.
+[41:23] Ah, okey.
+[41:24] Politik.
+[41:26] MP lompat tanya, apa punca dia lompat?
+[41:29] Ini soalan 19 November, baru saja.
+[41:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[41:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+[41:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[42:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[42:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[42:38] Okey. Baik, WB.
+[42:39] Beria, okey. Yang ni lepaslah beria.
+[42:41] Okey, alright. WB punya standard takut.
+[42:43] Tak kan ni dua sendulah.
+[42:45] Ah, okey.
+[42:46] Politik.
+[42:48] MP lompat tanya, apa punca dia lompat?
+[42:51] Ini soalan 19 November, baru saja.
+[42:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[43:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+[43:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[43:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[43:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[44:00] Okey. Baik, WB.
+[44:01] Beria, okey. Yang ni lepaslah beria.
+[44:03] Okey, alright. WB punya standard takut.
+[44:05] Tak kan ni dua sendulah.
+[44:07] Ah, okey.
+[44:08] Politik.
+[44:10] MP lompat tanya, apa punca dia lompat?
+[44:13] Ini soalan 19 November, baru saja.
+[44:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[44:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+[44:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[44:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[45:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[45:22] Okey. Baik, WB.
+[45:23] Beria, okey. Yang ni lepaslah beria.
+[45:25] Okey, alright. WB punya standard takut.
+[45:27] Tak kan ni dua sendulah.
+[45:29] Ah, okey.
+[45:30] Politik.
+[45:32] MP lompat tanya, apa punca dia lompat?
+[45:35] Ini soalan 19 November, baru saja.
+[45:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[45:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+[45:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[46:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[46:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[46:44] Okey. Baik, WB.
+[46:45] Beria, okey. Yang ni lepaslah beria.
+[46:47] Okey, alright. WB punya standard takut.
+[46:49] Tak kan ni dua sendulah.
+[46:51] Ah, okey.
+[46:52] Politik.
+[46:54] MP lompat tanya, apa punca dia lompat?
+[46:57] Ini soalan 19 November, baru saja.
+[46:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[47:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+[47:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[47:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[47:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+[48:06] Okey. Baik, WB.
+[48:07] Beria, okey. Yang ni lepaslah beria.
+[48:09] Okey, alright. WB punya standard takut.
+[48:11] Tak kan ni dua sendulah.
+[48:13] Ah, okey.
+[48:14] Politik.
+[48:16] MP lompat tanya, apa punca dia lompat?
+[48:19] Ini soalan 19 November, baru saja.
+[48:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+[48:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+[48:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+[48:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+[49:16] Aa, kalau tanya kenapaAkta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[49:26] Okey. Baik, WB.
+
+[49:28] Beria, okey. Yang ni lepaslah beria.
+
+[49:30] Okey, alright. WB punya standard takut.
+
+[49:32] Tak kan ni dua sendulah.
+
+[49:34] Ah, okey.
+
+[49:35] Politik.
+
+[49:37] MP lompat tanya, apa punca dia lompat?
+
+[49:40] Ini soalan 19 November, baru saja.
+
+[49:42] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[49:53] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[49:57] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[50:20] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[50:37] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[50:49] Okey. Baik, WB.
+
+[50:50] Beria, okey. Yang ni lepaslah beria.
+
+[50:52] Okey, alright. WB punya standard takut.
+
+[50:54] Tak kan ni dua sendulah.
+
+[50:56] Ah, okey.
+
+[50:57] Politik.
+
+[50:59] MP lompat tanya, apa punca dia lompat?
+
+[51:02] Ini soalan 19 November, baru saja.
+
+[51:04] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[51:15] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[51:19] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[51:42] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[51:59] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[52:11] Okey. Baik, WB.
+
+[52:12] Beria, okey. Yang ni lepaslah beria.
+
+[52:14] Okey, alright. WB punya standard takut.
+
+[52:16] Tak kan ni dua sendulah.
+
+[52:18] Ah, okey.
+
+[52:19] Politik.
+
+[52:21] MP lompat tanya, apa punca dia lompat?
+
+[52:24] Ini soalan 19 November, baru saja.
+
+[52:26] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[52:37] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[52:41] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[53:04] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[53:21] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[53:33] Okey. Baik, WB.
+
+[53:34] Beria, okey. Yang ni lepaslah beria.
+
+[53:36] Okey, alright. WB punya standard takut.
+
+[53:38] Tak kan ni dua sendulah.
+
+[53:40] Ah, okey.
+
+[53:41] Politik.
+
+[53:43] MP lompat tanya, apa punca dia lompat?
+
+[53:46] Ini soalan 19 November, baru saja.
+
+[53:48] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[53:59] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[54:03] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[54:26] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[54:43] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[54:55] Okey. Baik, WB.
+
+[54:56] Beria, okey. Yang ni lepaslah beria.
+
+[54:58] Okey, alright. WB punya standard takut.
+
+[55:00] Tak kan ni dua sendulah.
+
+[55:02] Ah, okey.
+
+[55:03] Politik.
+
+[55:05] MP lompat tanya, apa punca dia lompat?
+
+[55:08] Ini soalan 19 November, baru saja.
+
+[55:10] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[55:21] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[55:25] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[55:48] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[56:05] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[56:17] Okey. Baik, WB.
+
+[56:18] Beria, okey. Yang ni lepaslah beria.
+
+[56:20] Okey, alright. WB punya standard takut.
+
+[56:22] Tak kan ni dua sendulah.
+
+[56:24] Ah, okey.
+
+[56:25] Politik.
+
+[56:27] MP lompat tanya, apa punca dia lompat?
+
+[56:30] Ini soalan 19 November, baru saja.
+
+[56:32] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[56:43] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[56:47] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[57:10] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[57:27] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[57:39] Okey. Baik, WB.
+
+[57:40] Beria, okey. Yang ni lepaslah beria.
+
+[57:42] Okey, alright. WB punya standard takut.
+
+[57:44] Tak kan ni dua sendulah.
+
+[57:46] Ah, okey.
+
+[57:47] Politik.
+
+[57:49] MP lompat tanya, apa punca dia lompat?
+
+[57:52] Ini soalan 19 November, baru saja.
+
+[57:54] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[58:05] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[58:09] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[58:32] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[58:49] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[59:01] Okey. Baik, WB.
+
+[59:02] Beria, okey. Yang ni lepaslah beria.
+
+[59:04] Okey, alright. WB punya standard takut.
+
+[59:06] Tak kan ni dua sendulah.
+
+[59:08] Ah, okey.
+
+[59:09] Politik.
+
+[59:11] MP lompat tanya, apa punca dia lompat?
+
+[59:14] Ini soalan 19 November, baru saja.
+
+[59:16] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[59:27] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[59:31] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[59:54] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:00:11] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:00:23] Okey. Baik, WB.
+
+[1:00:24] Beria, okey. Yang ni lepaslah beria.
+
+[1:00:26] Okey, alright. WB punya standard takut.
+
+[1:00:28] Tak kan ni dua sendulah.
+
+[1:00:30] Ah, okey.
+
+[1:00:31] Politik.
+
+[1:00:33] MP lompat tanya, apa punca dia lompat?
+
+[1:00:36] Ini soalan 19 November, baru saja.
+
+[1:00:38] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:00:49] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:00:53] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:01:16] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:01:33] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:01:45] Okey. Baik, WB.
+
+[1:01:46] Beria, okey. Yang ni lepaslah beria.
+
+[1:01:48] Okey, alright. WB punya standard takut.
+
+[1:01:50] Tak kan ni dua sendulah.
+
+[1:01:52] Ah, okey.
+
+[1:01:53] Politik.
+
+[1:01:55] MP lompat tanya, apa punca dia lompat?
+
+[1:01:58] Ini soalan 19 November, baru saja.
+
+[1:02:00] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:02:11] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:02:15] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:02:38] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:02:55] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:03:07] Okey. Baik, WB.
+
+[1:03:08] Beria, okey. Yang ni lepaslah beria.
+
+[1:03:10] Okey, alright. WB punya standard takut.
+
+[1:03:12] Tak kan ni dua sendulah.
+
+[1:03:14] Ah, okey.
+
+[1:03:15] Politik.
+
+[1:03:17] MP lompat tanya, apa punca dia lompat?
+
+[1:03:20] Ini soalan 19 November, baru saja.
+
+[1:03:22] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:03:33] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:03:37] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:04:00] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:04:17] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:04:29] Okey. Baik, WB.
+
+[1:04:30] Beria, okey. Yang ni lepaslah beria.
+
+[1:04:32] Okey, alright. WB punya standard takut.
+
+[1:04:34] Tak kan ni dua sendulah.
+
+[1:04:36] Ah, okey.
+
+[1:04:37] Politik.
+
+[1:04:39] MP lompat tanya, apa punca dia lompat?
+
+[1:04:42] Ini soalan 19 November, baru saja.
+
+[1:04:44] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:04:55] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:04:59] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:05:22] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:05:39] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:05:51] Okey. Baik, WB.
+
+[1:05:52] Beria, okey. Yang ni lepaslah beria.
+
+[1:05:54] Okey, alright. WB punya standard takut.
+
+[1:05:56] Tak kan ni dua sendulah.
+
+[1:05:58] Ah, okey.
+
+[1:05:59] Politik.
+
+[1:06:01] MP lompat tanya, apa punca dia lompat?
+
+[1:06:04] Ini soalan 19 November, baru saja.
+
+[1:06:06] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:06:17] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:06:21] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:06:44] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:07:01] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:07:13] Okey. Baik, WB.
+
+[1:07:14] Beria, okey. Yang ni lepaslah beria.
+
+[1:07:16] Okey, alright. WB punya standard takut.
+
+[1:07:18] Tak kan ni dua sendulah.
+
+[1:07:20] Ah, okey.
+
+[1:07:21] Politik.
+
+[1:07:23] MP lompat tanya, apa punca dia lompat?
+
+[1:07:26] Ini soalan 19 November, baru saja.
+
+[1:07:28] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:07:39] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:07:43] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:08:06] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:08:23] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:08:35] Okey. Baik, WB.
+
+[1:08:36] Beria, okey. Yang ni lepaslah beria.
+
+[1:08:38] Okey, alright. WB punya standard takut.
+
+[1:08:40] Tak kan ni dua sendulah.
+
+[1:08:42] Ah, okey.
+
+[1:08:43] Politik.
+
+[1:08:45] MP lompat tanya, apa punca dia lompat?
+
+[1:08:48] Ini soalan 19 November, baru saja.
+
+[1:08:50] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:09:01] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:09:05] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:09:28] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:09:45] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:09:57] Okey. Baik, WB.
+
+[1:09:58] Beria, okey. Yang ni lepaslah beria.
+
+[1:10:00] Okey, alright. WB punya standard takut.
+
+[1:10:02] Tak kan ni dua sendulah.
+
+[1:10:04] Ah, okey.
+
+[1:10:05] Politik.
+
+[1:10:07] MP lompat tanya, apa punca dia lompat?
+
+[1:10:10] Ini soalan 19 November, baru saja.
+
+[1:10:12] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:10:23] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:10:27] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:10:50] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:11:07] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:11:19] Okey. Baik, WB.
+
+[1:11:20] Beria, okey. Yang ni lepaslah beria.
+
+[1:11:22] Okey, alright. WB punya standard takut.
+
+[1:11:24] Tak kan ni dua sendulah.
+
+[1:11:26] Ah, okey.
+
+[1:11:27] Politik.
+
+[1:11:29] MP lompat tanya, apa punca dia lompat?
+
+[1:11:32] Ini soalan 19 November, baru saja.
+
+[1:11:34] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:11:45] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:11:49] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:12:12] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:12:29] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:12:41] Okey. Baik, WB.
+
+[1:12:42] Beria, okey. Yang ni lepaslah beria.
+
+[1:12:44] Okey, alright. WB punya standard takut.
+
+[1:12:46] Tak kan ni dua sendulah.
+
+[1:12:48] Ah, okey.
+
+[1:12:49] Politik.
+
+[1:12:51] MP lompat tanya, apa punca dia lompat?
+
+[1:12:54] Ini soalan 19 November, baru saja.
+
+[1:12:56] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:13:07] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:13:11] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:13:34] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:13:51] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:14:03] Okey. Baik, WB.
+
+[1:14:04] Beria, okey. Yang ni lepaslah beria.
+
+[1:14:06] Okey, alright. WB punya standard takut.
+
+[1:14:08] Tak kan ni dua sendulah.
+
+[1:14:10] Ah, okey.
+
+[1:14:11] Politik.
+
+[1:14:13] MP lompat tanya, apa punca dia lompat?
+
+[1:14:16] Ini soalan 19 November, baru saja.
+
+[1:14:18] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:14:29] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:14:33] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:14:56] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:15:13] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:15:25] Okey. Baik, WB.
+
+[1:15:26] Beria, okey. Yang ni lepaslah beria.
+
+[1:15:28] Okey, alright. WB punya standard takut.
+
+[1:15:30] Tak kan ni dua sendulah.
+
+[1:15:32] Ah, okey.
+
+[1:15:33] Politik.
+
+[1:15:35] MP lompat tanya, apa punca dia lompat?
+
+[1:15:38] Ini soalan 19 November, baru saja.
+
+[1:15:40] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:15:51] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:15:55] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:16:18] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:16:35] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:16:47] Okey. Baik, WB.
+
+[1:16:48] Beria, okey. Yang ni lepaslah beria.
+
+[1:16:50] Okey, alright. WB punya standard takut.
+
+[1:16:52] Tak kan ni dua sendulah.
+
+[1:16:54] Ah, okey.
+
+[1:16:55] Politik.
+
+[1:16:57] MP lompat tanya, apa punca dia lompat?
+
+[1:17:00] Ini soalan 19 November, baru saja.
+
+[1:17:02] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:17:13] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:17:17] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:17:40] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:17:57] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:18:09] Okey. Baik, WB.
+
+[1:18:10] Beria, okey. Yang ni lepaslah beria.
+
+[1:18:12] Okey, alright. WB punya standard takut.
+
+[1:18:14] Tak kan ni dua sendulah.
+
+[1:18:16] Ah, okey.
+
+[1:18:17] Politik.
+
+[1:18:19] MP lompat tanya, apa punca dia lompat?
+
+[1:18:22] Ini soalan 19 November, baru saja.
+
+[1:18:24] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:18:35] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:18:39] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:19:02] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:19:19] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:19:31] Okey. Baik, WB.
+
+[1:19:32] Beria, okey. Yang ni lepaslah beria.
+
+[1:19:34] Okey, alright. WB punya standard takut.
+
+[1:19:36] Tak kan ni dua sendulah.
+
+[1:19:38] Ah, okey.
+
+[1:19:39] Politik.
+
+[1:19:41] MP lompat tanya, apa punca dia lompat?
+
+[1:19:44] Ini soalan 19 November, baru saja.
+
+[1:19:46] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:19:57] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:00:01] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:00:24] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:00:41] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:00:53] Okey. Baik, WB.
+
+[2:00:54] Beria, okey. Yang ni lepaslah beria.
+
+[2:00:56] Okey, alright. WB punya standard takut.
+
+[2:00:58] Tak kan ni dua sendulah.
+
+[2:01:00] Ah, okey.
+
+[2:01:01] Politik.
+
+[2:01:03] MP lompat tanya, apa punca dia lompat?
+
+[2:01:06] Ini soalan 19 November, baru saja.
+
+[2:01:08] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:01:19] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:01:23] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:01:46] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:02:03] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:02:15] Okey. Baik, WB.
+
+[2:02:16] Beria, okey. Yang ni lepaslah beria.
+
+[2:02:18] Okey, alright. WB punya standard takut.
+
+[2:02:20] Tak kan ni dua sendulah.
+
+[2:02:22] Ah, okey.
+
+[2:02:23] Politik.
+
+[2:02:25] MP lompat tanya, apa punca dia lompat?
+
+[2:02:28] Ini soalan 19 November, baru saja.
+
+[2:02:30] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:02:41] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:02:45] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:03:08] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:03:25] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:03:37] Okey. Baik, WB.
+
+[2:03:38] Beria, okey. Yang ni lepaslah beria.
+
+[2:03:40] Okey, alright. WB punya standard takut.
+
+[2:03:42] Tak kan ni dua sendulah.
+
+[2:03:44] Ah, okey.
+
+[2:03:45] Politik.
+
+[2:03:47] MP lompat tanya, apa punca dia lompat?
+
+[2:03:50] Ini soalan 19 November, baru saja.
+
+[2:03:52] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:04:03] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:04:07] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:04:30] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:04:47] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:04:59] Okey. Baik, WB.
+
+[2:05:00] Beria, okey. Yang ni lepaslah beria.
+
+[2:05:02] Okey, alright. WB punya standard takut.
+
+[2:05:04] Tak kan ni dua sendulah.
+
+[2:05:06] Ah, okey.
+
+[2:05:07] Politik.
+
+[2:05:09] MP lompat tanya, apa punca dia lompat?
+
+[2:05:12] Ini soalan 19 November, baru saja.
+
+[2:05:14] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:05:25] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:05:29] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:05:52] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:06:09] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:06:21] Okey. Baik, WB.
+
+[2:06:22] Beria, okey. Yang ni lepaslah beria.
+
+[2:06:24] Okey, alright. WB punya standard takut.
+
+[2:06:26] Tak kan ni dua sendulah.
+
+[2:06:28] Ah, okey.
+
+[2:06:29] Politik.
+
+[2:06:31] MP lompat tanya, apa punca dia lompat?
+
+[2:06:34] Ini soalan 19 November, baru saja.
+
+[2:06:36] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:06:47] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:06:51] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:07:14] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:07:31] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:07:43] Okey. Baik, WB.
+
+[2:07:44] Beria, okey. Yang ni lepaslah beria.
+
+[2:07:46] Okey, alright. WB punya standard takut.
+
+[2:07:48] Tak kan ni dua sendulah.
+
+[2:07:50] Ah, okey.
+
+[2:07:51] Politik.
+
+[2:07:53] MP lompat tanya, apa punca dia lompat?
+
+[2:07:56] Ini soalan 19 November, baru saja.
+
+[2:07:58] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:08:09] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:08:13] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:08:36] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:08:53] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:09:05] Okey. Baik, WB.
+
+[2:09:06] Beria, okey. Yang ni lepaslah beria.
+
+[2:09:08] Okey, alright. WB punya standard takut.
+
+[2:09:10] Tak kan ni dua sendulah.
+
+[2:09:12] Ah, okey.
+
+[2:09:13] Politik.
+
+[2:09:15] MP lompat tanya, apa punca dia lompat?
+
+[2:09:18] Ini soalan 19 November, baru saja.
+
+[2:09:20] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:09:31] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:09:35] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:09:58] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:10:15] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:10:27] Okey. Baik, WB.
+
+[2:10:28] Beria, okey. Yang ni lepaslah beria.
+
+[2:10:30] Okey, alright. WB punya standard takut.
+
+[2:10:32] Tak kan ni dua sendulah.
+
+[2:10:34] Ah, okey.
+
+[2:10:35] Politik.
+
+[2:10:37] MP lompat tanya, apa punca dia lompat?
+
+[2:10:40] Ini soalan 19 November, baru saja.
+
+[2:10:42] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:10:53] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:10:57] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:11:20] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:11:37] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:11:49] Okey. Baik, WB.
+
+[2:11:50] Beria, okey. Yang ni lepaslah beria.
+
+[2:11:52] Okey, alright. WB punya standard takut.
+
+[2:11:54] Tak kan ni dua sendulah.
+
+[2:11:56] Ah, okey.
+
+[2:11:57] Politik.
+
+[2:11:59] MP lompat tanya, apa punca dia lompat?
+
+[2:12:02] Ini soalan 19 November, baru saja.
+
+[2:12:04] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:12:15] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:12:19] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:12:42] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:12:59] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:13:11] Okey. Baik, WB.
+
+[2:13:12] Beria, okey. Yang ni lepaslah beria.
+
+[2:13:14] Okey, alright. WB punya standard takut.
+
+[2:13:16] Tak kan ni dua sendulah.
+
+[2:13:18] Ah, okey.
+
+[2:13:19] Politik.
+
+[2:13:21] MP lompat tanya, apa punca dia lompat?
+
+[2:13:24] Ini soalan 19 November, baru saja.
+
+[2:13:26] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:13:37] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:13:41] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:14:04] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:14:21] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:14:33] Okey. Baik, WB.
+
+[2:14:34] Beria, okey. Yang ni lepaslah beria.
+
+[2:14:36] Okey, alright. WB punya standard takut.
+
+[2:14:38] Tak kan ni dua sendulah.
+
+[2:14:40] Ah, okey.
+
+[2:14:41] Politik.
+
+[2:14:43] MP lompat tanya, apa punca dia lompat?
+
+[2:14:46] Ini soalan 19 November, baru saja.
+
+[2:14:48] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:14:59] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:15:03] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:15:26] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:15:43] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:15:55] Okey. Baik, WB.
+
+[2:15:56] Beria, okey. Yang ni lepaslah beria.
+
+[2:15:58] Okey, alright. WB punya standard takut.
+
+[2:16:00] Tak kan ni dua sendulah.
+
+[2:16:02] Ah, okey.
+
+[2:16:03] Politik.
+
+[2:16:05] MP lompat tanya, apa punca dia lompat?
+
+[2:16:08] Ini soalan 19 November, baru saja.
+
+[2:16:10] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:16:21] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:16:25] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:16:48] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:17:05] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:17:17] Okey. Baik, WB.
+
+[2:17:18] Beria, okey. Yang ni lepaslah beria.
+
+[2:17:20] Okey, alright. WB punya standard takut.
+
+[2:17:22] Tak kan ni dua sendulah.
+
+[2:17:24] Ah, okey.
+
+[2:17:25] Politik.
+
+[2:17:27] MP lompat tanya, apa punca dia lompat?
+
+[2:17:30] Ini soalan 19 November, baru saja.
+
+[2:17:32] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:17:43] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:17:47] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:18:10] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:18:27] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:18:39] Okey. Baik, WB.
+
+[2:18:40] Beria, okey. Yang ni lepaslah beria.
+
+[2:18:42] Okey, alright. WB punya standard takut.
+
+[2:18:44] Tak kan ni dua sendulah.
+
+[2:18:46] Ah, okey.
+
+[2:18:47] Politik.
+
+[2:18:49] MP lompat tanya, apa punca dia lompat?
+
+[2:18:52] Ini soalan 19 November, baru saja.
+
+[2:18:54] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:19:05] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:19:09] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:19:32] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:19:49] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:20:01] Okey. Baik, WB.
+
+[2:20:02] Beria, okey. Yang ni lepaslah beria.
+
+[2:20:04] Okey, alright. WB punya standard takut.
+
+[2:20:06] Tak kan ni dua sendulah.
+
+[2:20:08] Ah, okey.
+
+[2:20:09] Politik.
+
+[2:20:11] MP lompat tanya, apa punca dia lompat?
+
+[2:20:14] Ini soalan 19 November, baru saja.
+
+[2:20:16] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:20:27] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:20:31] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:20:54] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:21:11] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:21:23] Okey. Baik, WB.
+
+[2:21:24] Beria, okey. Yang ni lepaslah beria.
+
+[2:21:26] Okey, alright. WB punya standard takut.
+
+[2:21:28] Tak kan ni dua sendulah.
+
+[2:21:30] Ah, okey.
+
+[2:21:31] Politik.
+
+[2:21:33] MP lompat tanya, apa punca dia lompat?
+
+[2:21:36] Ini soalan 19 November, baru saja.
+
+[2:21:38] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:21:49] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:21:53] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:22:16] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:22:33] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:22:45] Okey. Baik, WB.
+
+[2:22:46] Beria, okey. Yang ni lepaslah beria.
+
+[2:22:48] Okey, alright. WB punya standard takut.
+
+[2:22:50] Tak kan ni dua sendulah.
+
+[2:22:52] Ah, okey.
+
+[2:22:53] Politik.
+
+[2:22:55] MP lompat tanya, apa punca dia lompat?
+
+[2:22:58] Ini soalan 19 November, baru saja.
+
+[2:23:00] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:23:11] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:23:15] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:23:38] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:23:55] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:24:07] Okey. Baik, WB.
+
+[2:24:08] Beria, okey. Yang ni lepaslah beria.
+
+[2:24:10] Okey, alright. WB punya standard takut.
+
+[2:24:12] Tak kan ni dua sendulah.
+
+[2:24:14] Ah, okey.
+
+[2:24:15] Politik.
+
+[2:24:17] MP lompat tanya, apa punca dia lompat?
+
+[2:24:20] Ini soalan 19 November, baru saja.
+
+[2:24:22] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:24:33] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:24:37] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:25:00] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:25:17] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:25:29] Okey. Baik, WB.
+
+[2:25:30] Beria, okey. Yang ni lepaslah beria.
+
+[2:25:32] Okey, alright. WB punya standard takut.
+
+[2:25:34] Tak kan ni dua sendulah.
+
+[2:25:36] Ah, okey.
+
+[2:25:37] Politik.
+
+[2:25:39] MP lompat tanya, apa punca dia lompat?
+
+[2:25:42] Ini soalan 19 November, baru saja.
+
+[2:25:44] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:25:55] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:25:59] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:26:22] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:26:39] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:26:51] Okey. Baik, WB.
+
+[2:26:52] Beria, okey. Yang ni lepaslah beria.
+
+[2:26:54] Okey, alright. WB punya standard takut.
+
+[2:26:56] Tak kan ni dua sendulah.
+
+[2:26:58] Ah, okey.
+
+[2:26:59] Politik.
+
+[2:27:01] MP lompat tanya, apa punca dia lompat?
+
+[2:27:04] Ini soalan 19 November, baru saja.
+
+[2:27:06] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:27:17] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:27:21] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:27:44] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:28:01] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:28:13] Okey. Baik, WB.
+
+[2:28:14] Beria, okey. Yang ni lepaslah beria.
+
+[2:28:16] Okey, alright. WB punya standard takut.
+
+[2:28:18] Tak kan ni dua sendulah.
+
+[2:28:20] Ah, okey.
+
+[2:28:21] Politik.
+
+[2:28:23] MP lompat tanya, apa punca dia lompat?
+
+[2:28:26] Ini soalan 19 November, baru saja.
+
+[2:28:28] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:28:39] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:28:43] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:29:06] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:29:23] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:29:35] Okey. Baik, WB.
+
+[2:29:36] Beria, okey. Yang ni lepaslah beria.
+
+[2:29:38] Okey, alright. WB punya standard takut.
+
+[2:29:40] Tak kan ni dua sendulah.
+
+[2:29:42] Ah, okey.
+
+[2:29:43] Politik.
+
+[2:29:45] MP lompat tanya, apa punca dia lompat?
+
+[2:29:48] Ini soalan 19 November, baru saja.
+
+[2:29:50] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:30:01] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:30:05] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:30:28] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:30:45] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:30:57] Okey. Baik, WB.
+
+[2:30:58] Beria, okey. Yang ni lepaslah beria.
+
+[2:31:00] Okey, alright. WB punya standard takut.
+
+[2:31:02] Tak kan ni dua sendulah.
+
+[2:31:04] Ah, okey.
+
+[2:31:05] Politik.
+
+[2:31:07] MP lompat tanya, apa punca dia lompat?
+
+[2:31:10] Ini soalan 19 November, baru saja.
+
+[2:31:12] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:31:23] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:31:27] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:31:50] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:32:07] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:32:19] Okey. Baik, WB.
+
+[2:32:20] Beria, okey. Yang ni lepaslah beria.
+
+[2:32:22] Okey, alright. WB punya standard takut.
+
+[2:32:24] Tak kan ni dua sendulah.
+
+[2:32:26] Ah, okey.
+
+[2:32:27] Politik.
+
+[2:32:29] MP lompat tanya, apa punca dia lompat?
+
+[2:32:32] Ini soalan 19 November, baru saja.
+
+[2:32:34] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:32:45] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:32:49] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:33:12] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:33:29] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:33:41] Okey. Baik, WB.
+
+[2:33:42] Beria, okey. Yang ni lepaslah beria.
+
+[2:33:44] Okey, alright. WB punya standard takut.
+
+[2:33:46] Tak kan ni dua sendulah.
+
+[2:33:48] Ah, okey.
+
+[2:33:49] Politik.
+
+[2:33:51] MP lompat tanya, apa punca dia lompat?
+
+[2:33:54] Ini soalan 19 November, baru saja.
+
+[2:33:56] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:34:07] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:34:11] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:34:34] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:34:51] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:35:03] Okey. Baik, WB.
+
+[2:35:04] Beria, okey. Yang ni lepaslah beria.
+
+[2:35:06] Okey, alright. WB punya standard takut.
+
+[2:35:08] Tak kan ni dua sendulah.
+
+[2:35:10] Ah, okey.
+
+[2:35:11] Politik.
+
+[2:35:13] MP lompat tanya, apa punca dia lompat?
+
+[2:35:16] Ini soalan 19 November, baru saja.
+
+[2:35:18] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:35:29] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:35:33] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:35:56] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:36:13] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:36:25] Okey. Baik, WB.
+
+[2:36:26] Beria, okey. Yang ni lepaslah beria.
+
+[2:36:28] Okey, alright. WB punya standard takut.
+
+[2:36:30] Tak kan ni dua sendulah.
+
+[2:36:32] Ah, okey.
+
+[2:36:33] Politik.
+
+[2:36:35] MP lompat tanya, apa punca dia lompat?
+
+[2:36:38] Ini soalan 19 November, baru saja.
+
+[2:36:40] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:36:51] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:36:55] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:37:18] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:37:35] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:37:47] Okey. Baik, WB.
+
+[2:37:48] Beria, okey. Yang ni lepaslah beria.
+
+[2:37:50] Okey, alright. WB punya standard takut.
+
+[2:37:52] Tak kan ni dua sendulah.
+
+[2:37:54] Ah, okey.
+
+[2:37:55] Politik.
+
+[2:37:57] MP lompat tanya, apa punca dia lompat?
+
+[2:38:00] Ini soalan 19 November, baru saja.
+
+[2:38:02] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:38:13] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:38:17] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:38:40] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:38:57] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:39:09] Okey. Baik, WB.
+
+[2:39:10] Beria, okey. Yang ni lepaslah beria.
+
+[2:39:12] Okey, alright. WB punya standard takut.
+
+[2:39:14] Tak kan ni dua sendulah.
+
+[2:39:16] Ah, okey.
+
+[2:39:17] Politik.
+
+[2:39:19] MP lompat tanya, apa punca dia lompat?
+
+[2:39:22] Ini soalan 19 November, baru saja.
+
+[2:39:24] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:39:35] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:39:39] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:40:02] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:40:19] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:40:31] Okey. Baik, WB.
+
+[2:40:32] Beria, okey. Yang ni lepaslah beria.
+
+[2:40:34] Okey, alright. WB punya standard takut.
+
+[2:40:36] Tak kan ni dua sendulah.
+
+[2:40:38] Ah, okey.
+
+[2:40:39] Politik.
+
+[2:40:41] MP lompat tanya, apa punca dia lompat?
+
+[2:40:44] Ini soalan 19 November, baru saja.
+
+[2:40:46] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:40:57] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:41:01] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:41:24] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:41:41] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:41:53] Okey. Baik, WB.
+
+[2:41:54] Beria, okey. Yang ni lepaslah beria.
+
+[2:41:56] Okey, alright. WB punya standard takut.
+
+[2:41:58] Tak kan ni dua sendulah.
+
+[2:42:00] Ah, okey.
+
+[2:42:01] Politik.
+
+[2:42:03] MP lompat tanya, apa punca dia lompat?
+
+[2:42:06] Ini soalan 19 November, baru saja.
+
+[2:42:08] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:42:19] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:42:23] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:42:46] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:43:03] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:43:15] Okey. Baik, WB.
+
+[2:43:16] Beria, okey. Yang ni lepaslah beria.
+
+[2:43:18] Okey, alright. WB punya standard takut.
+
+[2:43:20] Tak kan ni dua sendulah.
+
+[2:43:22] Ah, okey.
+
+[2:43:23] Politik.
+
+[2:43:25] MP lompat tanya, apa punca dia lompat?
+
+[2:43:28] Ini soalan 19 November, baru saja.
+
+[2:43:30] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:43:41] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:43:45] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:44:08] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:44:25] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:44:37] Okey. Baik, WB.
+
+[2:44:38] Beria, okey. Yang ni lepaslah beria.
+
+[2:44:40] Okey, alright. WB punya standard takut.
+
+[2:44:42] Tak kan ni dua sendulah.
+
+[2:44:44] Ah, okey.
+
+[2:44:45] Politik.
+
+[2:44:47] MP lompat tanya, apa punca dia lompat?
+
+[2:44:50] Ini soalan 19 November, baru saja.
+
+[2:44:52] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:45:03] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:45:07] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:45:30] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:45:47] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:45:59] Okey. Baik, WB.
+
+[2:46:00] Beria, okey. Yang ni lepaslah beria.
+
+[2:46:02] Okey, alright. WB punya standard takut.
+
+[2:46:04] Tak kan ni dua sendulah.
+
+[2:46:06] Ah, okey.
+
+[2:46:07] Politik.
+
+[2:46:09] MP lompat tanya, apa punca dia lompat?
+
+[2:46:12] Ini soalan 19 November, baru saja.
+
+[2:46:14] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:46:25] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:46:29] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:46:52] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:47:09] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:47:21] Okey. Baik, WB.
+
+[2:47:22] Beria, okey. Yang ni lepaslah beria.
+
+[2:47:24] Okey, alright. WB punya standard takut.
+
+[2:47:26] Tak kan ni dua sendulah.
+
+[2:47:28] Ah, okey.
+
+[2:47:29] Politik.
+
+[2:47:31] MP lompat tanya, apa punca dia lompat?
+
+[2:47:34] Ini soalan 19 November, baru saja.
+
+[2:47:36] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:47:47] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:47:51] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:48:14] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:48:31] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:48:43] Okey. Baik, WB.
+
+[2:48:44] Beria, okey. Yang ni lepaslah beria.
+
+[2:48:46] Okey, alright. WB punya standard takut.
+
+[2:48:48] Tak kan ni dua sendulah.
+
+[2:48:50] Ah, okey.
+
+[2:48:51] Politik.
+
+[2:48:53] MP lompat tanya, apa punca dia lompat?
+
+[2:48:56] Ini soalan 19 November, baru saja.
+
+[2:48:58] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:49:09] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:49:13] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:49:36] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:49:53] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:50:05] Okey. Baik, WB.
+
+[2:50:06] Beria, okey. Yang ni lepaslah beria.
+
+[2:50:08] Okey, alright. WB punya standard takut.
+
+[2:50:10] Tak kan ni dua sendulah.
+
+[2:50:12] Ah, okey.
+
+[2:50:13] Politik.
+
+[2:50:15] MP lompat tanya, apa punca dia lompat?
+
+[2:50:18] Ini soalan 19 November, baru saja.
+
+[2:50:20] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:50:31] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:50:35] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:50:58] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:51:15] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:51:27] Okey. Baik, WB.
+
+[2:51:28] Beria, okey. Yang ni lepaslah beria.
+
+[2:51:30] Okey, alright. WB punya standard takut.
+
+[2:51:32] Tak kan ni dua sendulah.
+
+[2:51:34] Ah, okey.
+
+[2:51:35] Politik.
+
+[2:51:37] MP lompat tanya, apa punca dia lompat?
+
+[2:51:40] Ini soalan 19 November, baru saja.
+
+[2:51:42] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:51:53] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:51:57] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:52:20] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:52:37] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:52:49] Okey. Baik, WB.
+
+[2:52:50] Beria, okey. Yang ni lepaslah beria.
+
+[2:52:52] Okey, alright. WB punya standard takut.
+
+[2:52:54] Tak kan ni dua sendulah.
+
+[2:52:56] Ah, okey.
+
+[2:52:57] Politik.
+
+[2:52:59] MP lompat tanya, apa punca dia lompat?
+
+[2:53:02] Ini soalan 19 November, baru saja.
+
+[2:53:04] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:53:15] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:53:19] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:53:42] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:53:59] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:54:11] Okey. Baik, WB.
+
+[2:54:12] Beria, okey. Yang ni lepaslah beria.
+
+[2:54:14] Okey, alright. WB punya standard takut.
+
+[2:54:16] Tak kan ni dua sendulah.
+
+[2:54:18] Ah, okey.
+
+[2:54:19] Politik.
+
+[2:54:21] MP lompat tanya, apa punca dia lompat?
+
+[2:54:24] Ini soalan 19 November, baru saja.
+
+[2:54:26] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:54:37] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:54:41] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:55:04] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:55:21] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:55:33] Okey. Baik, WB.
+
+[2:55:34] Beria, okey. Yang ni lepaslah beria.
+
+[2:55:36] Okey, alright. WB punya standard takut.
+
+[2:55:38] Tak kan ni dua sendulah.
+
+[2:55:40] Ah, okey.
+
+[2:55:41] Politik.
+
+[2:55:43] MP lompat tanya, apa punca dia lompat?
+
+[2:55:46] Ini soalan 19 November, baru saja.
+
+[2:55:48] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:55:59] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:56:03] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:56:26] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:56:43] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:56:55] Okey. Baik, WB.
+
+[2:56:56] Beria, okey. Yang ni lepaslah beria.
+
+[2:56:58] Okey, alright. WB punya standard takut.
+
+[2:57:00] Tak kan ni dua sendulah.
+
+[2:57:02] Ah, okey.
+
+[2:57:03] Politik.
+
+[2:57:05] MP lompat tanya, apa punca dia lompat?
+
+[2:57:08] Ini soalan 19 November, baru saja.
+
+[2:57:10] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:57:21] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:57:25] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:57:48] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:58:05] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:58:17] Okey. Baik, WB.
+
+[2:58:18] Beria, okey. Yang ni lepaslah beria.
+
+[2:58:20] Okey, alright. WB punya standard takut.
+
+[2:58:22] Tak kan ni dua sendulah.
+
+[2:58:24] Ah, okey.
+
+[2:58:25] Politik.
+
+[2:58:27] MP lompat tanya, apa punca dia lompat?
+
+[2:58:30] Ini soalan 19 November, baru saja.
+
+[2:58:32] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:58:43] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:58:47] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:59:10] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:59:27] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:59:39] Okey. Baik, WB.
+
+[2:59:40] Beria, okey. Yang ni lepaslah beria.
+
+[2:59:42] Okey, alright. WB punya standard takut.
+
+[2:59:44] Tak kan ni dua sendulah.
+
+[2:59:46] Ah, okey.
+
+[2:59:47] Politik.
+
+[2:59:49] MP lompat tanya, apa punca dia lompat?
+
+[2:59:52] Ini soalan 19 November, baru saja.
+
+[2:59:54] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:00:05] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:00:09] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:00:32] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:00:49] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:01:01] Okey. Baik, WB.
+
+[3:01:02] Beria, okey. Yang ni lepaslah beria.
+
+[3:01:04] Okey, alright. WB punya standard takut.
+
+[3:01:06] Tak kan ni dua sendulah.
+
+[3:01:08] Ah, okey.
+
+[3:01:09] Politik.
+
+[3:01:11] MP lompat tanya, apa punca dia lompat?
+
+[3:01:14] Ini soalan 19 November, baru saja.
+
+[3:01:16] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:01:27] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:01:31] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:01:54] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:02:11] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:02:23] Okey. Baik, WB.
+
+[3:02:24] Beria, okey. Yang ni lepaslah beria.
+
+[3:02:26] Okey, alright. WB punya standard takut.
+
+[3:02:28] Tak kan ni dua sendulah.
+
+[3:02:30] Ah, okey.
+
+[3:02:31] Politik.
+
+[3:02:33] MP lompat tanya, apa punca dia lompat?
+
+[3:02:36] Ini soalan 19 November, baru saja.
+
+[3:02:38] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:02:49] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:02:53] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:03:16] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:03:33] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:03:45] Okey. Baik, WB.
+
+[3:03:46] Beria, okey. Yang ni lepaslah beria.
+
+[3:03:48] Okey, alright. WB punya standard takut.
+
+[3:03:50] Tak kan ni dua sendulah.
+
+[3:03:52] Ah, okey.
+
+[3:03:53] Politik.
+
+[3:03:55] MP lompat tanya, apa punca dia lompat?
+
+[3:03:58] Ini soalan 19 November, baru saja.
+
+[3:04:00] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:04:11] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:04:15] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:04:38] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:04:55] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:05:07] Okey. Baik, WB.
+
+[3:05:08] Beria, okey. Yang ni lepaslah beria.
+
+[3:05:10] Okey, alright. WB punya standard takut.
+
+[3:05:12] Tak kan ni dua sendulah.
+
+[3:05:14] Ah, okey.
+
+[3:05:15] Politik.
+
+[3:05:17] MP lompat tanya, apa punca dia lompat?
+
+[3:05:20] Ini soalan 19 November, baru saja.
+
+[3:05:22] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:05:33] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:05:37] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:06:00] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:06:17] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:06:29] Okey. Baik, WB.
+
+[3:06:30] Beria, okey. Yang ni lepaslah beria.
+
+[3:06:32] Okey, alright. WB punya standard takut.
+
+[3:06:34] Tak kan ni dua sendulah.
+
+[3:06:36] Ah, okey.
+
+[3:06:37] Politik.
+
+[3:06:39] MP lompat tanya, apa punca dia lompat?
+
+[3:06:42] Ini soalan 19 November, baru saja.
+
+[3:06:44] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:06:55] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:06:59] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:02:49] Rafizi Ramli: Macam mana pula kau ada motherly instinct?
+[3:07:22] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:02:54] Haziq: Mana ada lelaki... Naluri saya kita akan habiskan bawah 2 jam hari ini.
+[3:07:39] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:02:59] Rafizi Ramli: Oh, itu bukan naluri. Itu keperluan.
+[3:07:51] Okey. Baik, WB.
 
-[00:03:03] Haziq: Keperluan. Tapi saya kena buat benda yang orang ataupun penonton paling tak sukalah, mencelah.
+[3:07:52] Beria, okey. Yang ni lepaslah beria.
 
-[00:03:07] Rafizi Ramli: Ha yalah, celahlah.
+[3:07:54] Okey, alright. WB punya standard takut.
 
-[00:03:08] Haziq: Okay, baik YB. Kita terus ke episod ke-23, segmen pertama. Kita ada Beriya, kita tengok apa yang ada minggu ini YB. Pertama, Terpaling Cina. Oh, panjang. Nak kena baca ke? Diberi number oleh satu apek ni, call dia, auto aku ter-autotune cakap slang Cina sikit. "Boss, ini rumah lu ada senang mau datang hari ini?" Dia pun, "Okay boss, gua ambalik lagi luar 20 minit." Datang-datang rupanya dua-dua Melayu, aku Melayu, dia Melayu. Ini dekat, dari Ohbulan saya ambil. Boleh faham?
+[3:07:56] Tak kan ni dua sendulah.
 
-[00:03:46] Rafizi Ramli: Fahamlah, tapi apa konteks dia?
+[3:07:58] Ah, okey.
 
-[00:03:48] Haziq: Dia yalah, dia assume, the power of assumptionlah. Disebabkan dia dapat number daripada orang Cina, dia cakap dengan Cina. Sama juga macam kita beli barang YB, bila kita beli OKC, dua-dua...
+[3:07:59] Politik.
 
-[00:04:03] Rafizi Ramli: So apa, apa yang Beriya society impactnya?
+[3:08:01] MP lompat tanya, apa punca dia lompat?
 
-[00:04:08] Haziq: Kita assume berdasarkan walau pun kita tak ada info tentang orang itulah, dan kita bercakap, kita assume orang tu Cina, kita cakap dalam slang dia.
+[3:08:04] Ini soalan 19 November, baru saja.
 
-[00:04:22] Rafizi Ramli: Yang ini sebenarnya, yang ini tak adalah Beriya sangat. Kau yang, kau lah yang Beriya ni.
+[3:08:06] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:04:26] Haziq: Saya yang Beriya kali ini. Pertama kali saya Beriya.
+[3:08:17] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:04:28] Rafizi Ramli: Ya, Beriya. Actually the moment Beriya kena explain, dia tak Beriyalah.
+[3:08:21] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:04:33] Haziq: Dia tak Beriya. Baik, maaf. Saya ini gagal YB.
+[3:08:44] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:04:36] Rafizi Ramli: Gagal, gagal.
+[3:09:01] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:04:37] Haziq: Tapi ramai kata orang gelak 3 pagi tengok ini. Tapi gagallah. Okay. Saya harap ada yang gelak.
+[3:09:13] Okey. Baik, WB.
 
-[00:04:42] Rafizi Ramli: Tak lah, I mean maybelah. Tapi for, nak, sebab Beriya ni poyokan?
+[3:09:14] Beria, okey. Yang ni lepaslah beria.
 
-[00:04:49] Haziq: Poyilah.
+[3:09:16] Okey, alright. WB punya standard takut.
 
-[00:04:50] Rafizi Ramli: Nak kata dia poyo...
+[3:09:18] Tak kan ni dua sendulah.
 
-[00:04:51] Haziq: Maaf, dia tak poyo.
+[3:09:20] Ah, okey.
 
-[00:04:52] Rafizi Ramli: Tak poyolah kot.
+[3:09:21] Politik.
 
-[00:04:53] Haziq: Kita tengok yang next.
+[3:09:23] MP lompat tanya, apa punca dia lompat?
 
-[00:04:54] Rafizi Ramli: Ini pun saya takut tak poyo.
+[3:09:26] Ini soalan 19 November, baru saja.
 
-[00:04:56] Haziq: Dia kan dah takut dah.
+[3:09:28] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:05:00] Rafizi Ramli: Okay, next.
+[3:09:39] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:05:01] Haziq: Tak jumpa kabel, dapatkan kerja, curi kabel TM. Graduan undang-undang antara 4 didakwa cuba curi kabel TM. Ni jenayahlah YB. Tapi sebelum ini pun kita pernah letak macam ini.
+[3:09:43] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:05:15] Rafizi Ramli: Kabel TM tak mati kena electrocute ke? Sebab...
+[3:10:06] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:05:21] Haziq: Itulah.
+[3:10:23] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:05:22] Rafizi Ramli: Dia sebenarnya, kalau anything lah yang Beriya, dia bukan sangat soal curi kabel ni kot. Curi kabel ni benda biasalah di mana-mana.
+[3:10:35] Okey. Baik, WB.
 
-[00:05:34] Haziq: Betul.
+[3:10:36] Beria, okey. Yang ni lepaslah beria.
 
-[00:05:35] Rafizi Ramli: Tapi buletin TV3 tu dia nak juga emphasize graduan undang-undang.
+[3:10:38] Okey, alright. WB punya standard takut.
 
-[00:05:41] Haziq: Clickbait.
+[3:10:40] Tak kan ni dua sendulah.
 
-[00:05:42] Rafizi Ramli: Ha, clickbaitlah, clickbaitlah. Takut-takut umur dia dia dah tua. Dia dah 36, 37. Jadi saya tak faham kenapa kena letak graduan undang-undang tulah kot. Yalah, ada orang ada graduan yalah masing-masing latar belakang belajar dia tu tak tak tak tentu. Kalau kalau tengok dekat US, kau pernah baca pasal Unabomber?
+[3:10:42] Ah, okey.
 
-[00:06:13] Haziq: Tak tahu in detail lah.
+[3:10:43] Politik.
 
-[00:06:15] Rafizi Ramli: Ted Kaczynski, pernah dengar Ted Kaczynski? Dia tu saintis yang cukup hebat. Dia pergi Harvard. Kan? Jadi dia jadi pengganas yang antara paling susah nak ditangkap. Dia daripada tahun 70-an sampai ditangkap tahun 94. Dan selama dua dekad tu, dia akan hantar kotak kepada saintislah, doktorlah, peguam. Buka, meletup. Buka, meletup. Kan? Jadi bukan sahaja kat Malaysialah. Kat mana-mana latar belakang apa, yalah hidup ini keras. Kan? Masing-masing. Jadi yang ini kalau Beriya, Beriya nak clickbait graduan undang-undang tu kan.
+[3:10:45] MP lompat tanya, apa punca dia lompat?
 
-[00:07:07] Haziq: Beriya kat TV3. Tahniah TV3.
+[3:10:48] Ini soalan 19 November, baru saja.
 
-[00:07:08] Rafizi Ramli: Dia sebenarnya yalah, agak biasa. Jenayah, didangkap.
+[3:10:50] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[07:16] Haziq: Okay YB. Next.
+[3:11:01] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:07:17] Rafizi Ramli: Macam sendu je Beriya minggu ni.
+[3:11:05] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:07:18] Haziq: Dia jenis, kita haraplah, in expect macam itulah. Tapi YB punya standard tinggi sangat.
+[3:11:28] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:07:22] Rafizi Ramli: Setakat ni dua-dua sendulah.
+[3:11:45] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:07:26] Haziq: Politik. MP Lompat tanya, "Apa punca dia lompat?" Ini soalan 19 November, baru sahaja. Beluran tanya, "Mengapa Akta Anti Lompat Parti gagal menghalang ahli-ali Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?"
+[3:11:57] Okey. Baik, WB.
 
-[00:07:44] Rafizi Ramli: Beriyalah. Yang ini sebab konteks Sabah lah kan. Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan. PRN yang lepas, tahun 2020 dulu, Bersatu dilihat menang besar. Dan sebahagian besar yang Bersatu tu kemudian lompat dan dia jadi GRS sekaranglah. Tapi Bersatu di Sabah itu pun hasil daripada lompat juga. Karena daripada UMNO tahun 2018, yang UMNO itu yang lompat masuk jadi Bersatu. Jadi Beriya lompat. Sepatutnya dialah yang jawab kot. Kalau tanya kenapa Akta Anti Lompat Parti gagal menghalang ahli Parlimen melompat parti, patut dia cermin diri dululah kot.
+[3:11:58] Beria, okey. Yang ni lepaslah beria.
 
-[00:08:40] Haziq: Okay, baik YB.
+[3:12:00] Okey, alright. WB punya standard takut.
 
-[00:08:42] Rafizi Ramli: Beriya, okay. Ini lepaslah Beriya.
+[3:12:02] Tak kan ni dua sendulah.
 
-[00:08:44] Haziq: Yang next. Biar gambar berbicara.
+[3:12:04] Ah, okey.
 
-[00:08:48] Rafizi Ramli: Oh, yang ini memang.
+[3:12:05] Politik.
 
-[00:08:49] Haziq: Kepada yang jogging tak dapat tengoklah.
+[3:12:07] MP lompat tanya, apa punca dia lompat?
 
-[00:08:52] Rafizi Ramli: Ni menang terus terus lagu ni kan, tak payah. Tapi YB, saya agak takut letak sebab sebenarnya kebakaran tu agak sedih sikitlah. Tak tak, tapi memang ini dia post dekat Facebook dia. Bukan tak tak kena samannlah.
+[3:12:10] Ini soalan 19 November, baru saja.
 
-[00:09:07] Haziq: Memang dia post. Haji Hanafi Ahmad.
+[3:12:12] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:09:10] Rafizi Ramli: Cuba tengok. Cuba tengok dengan kasut kulit dia tu, dengan jeans dia, baju lebih kurang sama color aku. Dan gaya dia tu nampak sangat photo-bomb ataupun berlakonlah kan. Siap mengintai-ngintai lagi. Tak, cuma...
+[3:12:23] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:09:27] Haziq: Tapi konteks dia sedihlah YB.
+[3:12:27] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:09:31] Rafizi Ramli: Yalah, konteks rumah tu semua kan. Cuma yang...
+[3:12:50] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:09:34] Haziq: Pasti yang terbakar. So budak-budak ramai yang menangis, takut semua.
+[3:13:07] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:09:39] Rafizi Ramli: Oh, ni pasti di Kemamanlah kan? Cuma sebenarnya, saya tak tahu ada undang-undang ke tidak. Saya tak pasti, boleh ke tidak buat tu?
+[3:13:19] Okey. Baik, WB.
 
-[00:09:48] Haziq: Saya check ChatGPT tadi sebelum YB masuk, memang civilian tak boleh mengendalikan.
+[3:13:20] Beria, okey. Yang ni lepaslah beria.
 
-[00:09:53] Rafizi Ramli: Tak boleh. Ha, tak boleh mengendalikan. Sebab dia membahayakan nyawa. Contohnya, kalau ada satu kebakaran, dan bomba sedang menjalankan tugas, ada wakil rakyat pergi menyelit kat situ sehingga dia menghalang kerja bomba itu, kalau jadi apa-apa, maksudnya usaha menyelamat itu ada masalah. Jadi saya ingatlah, saya tak pasti undang-undanglah secara spesifik ke tidak, tapi etikanya, dia tak bolehlah. Jadi sebab tu... Masalah ahli politik ni, dia nak menyelit muka dia di mana-mana. Kan? Jadi...
+[3:13:22] Okey, alright. WB punya standard takut.
 
-[00:10:36] Haziq: Tak ada function YB.
+[3:13:24] Tak kan ni dua sendulah.
 
-[00:10:38] Rafizi Ramli: Ha. BANYAK lagi function lain. Dia, sebab... Sebab tu kalau macam, macam sayalah kan, kalau jadi sibuk-sibuk, kalau dah ada, sama ada ambulans ke, ataupun bomba ke, ataupun pihak berkuasa yang menguruskan, ahli politik kena membiasakan diri jadi orang biasa. Jangan sibuk-sibuk di situ. Mmm, fahamlah. Orang kita sangat suka. Masalah pun orang kita juga. Ada demand. Mesti ada, ada demand dia kan. "Oh bagusnyalah. Tengok dia tu ha, sampai bagusnya wakil rakyat kita, sampai dia sendiri yang pergi padamkan kebakaran." Tapi sebenarnya, selain daripada soal undang-undang, sepatutnyalah etika dia, termasuklah rakyat biasa. Kalau dah ada pihak yang profesional yang ada amanah itu dan dilatih, maka kita tak boleh kacau. Yang ini ni kalau di negara lain, memang dah ada diambil tindakan ni. Memang sebulat-bulatnya memang ada pendakwaan ni. Sebab ini boleh didakwa mengganggu tugas penjawat awam.
+[3:13:26] Ah, okey.
 
-[00:11:54] Haziq: Baik YB. Ini calonlah.
+[3:13:27] Politik.
 
-[00:11:56] Rafizi Ramli: Mmm.
+[3:13:29] MP lompat tanya, apa punca dia lompat?
 
-[00:11:57] Haziq: Untuk kali ketiga. Okay, next. Transit di Dubai 6 hari. Cuma apa ni, hakim pun marah. Tak dibenarkan. Hakim kata, yalah, kau beli tiket awal-awal, it's on your own risk. Kalau kita benarkan, akan ada floodgate.
+[3:13:32] Ini soalan 19 November, baru saja.
 
-[00:12:15] Rafizi Ramli: Ini sebab nak bincang Langkah Dubai ke apa ni? Sampai 6 hari di Dubai? 6 hari. Dubai tu panas tahu.
+[3:13:34] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:12:23] Haziq: Actually dapat pergi jugalah 2 harilah. 1 ke 2 hari.
+[3:13:45] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:12:27] Rafizi Ramli: Transit 2 hari pun dah lama. Transit ni bukankah kita nak cuba sependek yang mungkin?
+[3:13:49] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:12:34] Haziq: YB nak jumpa ada saudara-mara kat sana kot.
+[3:14:12] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:12:37] Rafizi Ramli: Em, tak tahulah. Ah, ah, ah. Ah yalah. Tapi kita tak tahu kan, menantu Tan Sri Muhyiddin duduk kat mana. Orang katalah duduk di Dubai.
+[3:14:29] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:12:48] Haziq: Oh, okay.
+[3:14:41] Okey. Baik, WB.
 
-[00:12:49] Rafizi Ramli: Haziq tak tahu ya? Ya Allah.
+[3:14:42] Beria, okey. Yang ni lepaslah beria.
 
-[00:12:51] Haziq: Saya bukan keluarga dia, tak tahu.
+[3:14:44] Okey, alright. WB punya standard takut.
 
-[00:12:53] Rafizi Ramli: Patutnya ha, ni tak research awal-awal ni. Orang katalah, tapi tidak ada bukti.
+[3:14:46] Tak kan ni dua sendulah.
 
-[00:12:58] Haziq: Baik, baik, baik. Saya ingat duduk di Kota Kuala London. Okay, baik. All right. Next. Dah bayar kompaun, MACC kena kejar lagi.
+[3:14:48] Ah, okey.
 
-[00:13:08] Rafizi Ramli: Yang ini sepupu kepada menantu. Ke macam mana? Dia ada kaitan dengan Tan Sri Muhyiddin juga. Sepupu, rasanya sepupu kepada menantu. Ah yang ini pun lawak jugalah ni. Mmm, SPRM sekarang ni tengah mencari nama dia apa? Datuk, Datuk Adam Radlan kan? Kerana beritanya dia telah meninggalkan Malaysia selepas membayar kompaun RM4.1 juta mengenai Jana Wibawa. Jadi ini yang Tan Sri Azam Baki beritahulah. Saya ingat masa keputusan itu dibuat, saya memang troll gila-gilalah. Kerana dia didakwa dengan tuduhan yalah, pengubahan wang haram, rasuah semua sebanyak 6 juta lebih. Jadi dia dibebaskan kerana dibenarkan membayar kompaun 4 juta. Untung lagi 2 juta kan? Dan bila perkara ini disebut oleh Ketua Pesuruhjaya SPRM ni, dia jadi Beriyalah, Tan Sri Azam Baki ni. Sebab kalau tengok undang-undang SPRM, memang ada peruntukan mengenakan kompaun. Tapi konteks dia kenapa peruntukan itu ada tu, saya rasa tak kenalah kepada seorang yang dituduh seperti Datuk Adam Radlan ni. Sepatutnya kalau dah jelas, maksudnya bila dikenakan kompaun itu maksudnya dia memang ada bukti yang jelaslah. Sebab tu dia juga sanggup bayar. Kalau dah jelas ada bukti, dakwa dan kenakan hukuman macam orang lainlah. Tapi malangnya undang-undang kita ada satu peruntukan yang membenarkan SPRM menawarkan kompaun. Jadi itu yang berbahaya. Kerana bising-bising-bising cakap pasal rasuah, cakap pasal tangkap, kemudian selepas konon melalui siasatan semua, eh tiba-tiba dilepaskan hanya kerana dia bayar kompaun. Dan kita dah tengok beberapa kali kejadian ini berlaku melibatkan tokoh-tokoh yang ada kaitan dengan nama-nama besarlah yang didakwa kan. Sebenarnya peruntukan untuk menawarkan kompaun atau mengenakan kompaun tu konteks dia tak sama yang macam ini. Dia contohnya ada dua orang. Sama ada seorang memberi rasuah, yang didakwa itu yang menerima rasuah. Atau pun dua-dua orang ambil rasuah, tetapi untuk pendakwa raya mendapatkan keterangan untuk mendakwa yang lebih besar makan rasuah itu, maka yang jadi saksi, jadi crown witness itu, maka ditawarkan untuk bayar kompaun. Sebab kalau dua-dua didakwa, pemberi rasuah dengan penerima rasuah, ataupun dua-dua orang terima rasuah, yang ini kecil sikit, yang ini besar, kalau dua-dua didakwa, kalau ia tidak mendapat keterangan yang sepatutnya, dua-dua lepas. Jadi sebab itu peruntukan kompaun itu ada dalam Akta SPRM. Bukannya untuk orang yang kena tuduh, okay kita siasat semua, okaylah bayar kompaunlah. Dan yang saya lagi bimbang pasal bila bagi sayalah, peruntukan kompaun ini kalau nampak disalahgunakan, dia membuka pintu rasuah. Maksudnya kalau saya didakwa rasuah 100 juta contohnya kan, saya boleh kaw-tim tahu dengan pendakwa raya ke, SPRM, okelah you just kompaun sayalah. Kompaun 20 juta saya bayar. Tapi saya lepaslah? Ha jadi sebab itu keputusan untuk kompaun ini keputusan SPRM, pada pemahaman saya, sebab kuasa itu ada pada kuasa SPRM. Dia nak kata paying the court-imposed penalty tu kan, dia tak sebut tahu sebenarnya itu kompaun mengikut Akta SPRM. Jadi dia jadi lawak dan Beriyalah bila tiba-tiba SPRM pula pergi maklumkan, "Oh, sebenarnya kami nakkan dia sekali lagi, tapi dia dah cabut lagi." Jadi nasihat saya lepas ni tak payah kompaunlah. Siapa yang memang betul-betul dah jadi isu negara macam ini beberapa tahun kan, kes dia dibincangkan, tiba-tiba diberi kompaun. Dan bagi kompaun, memang dia larilah. Silap-silap hari berjumpa di transit Dubailah.
+[3:14:49] Politik.
 
-[00:18:27] Haziq: Baik YB. Okay. Tapi YB, ada satu persoalanlah. Dia bayar kompaun tu dikira lepas teruslah?
+[3:14:51] MP lompat tanya, apa punca dia lompat?
 
-[00:18:35] Rafizi Ramli: Dia lepas terus. Ha.
+[3:14:54] Ini soalan 19 November, baru saja.
 
-[00:18:37] Haziq: That means tak ada sekatan pasport semua, tak ada?
+[3:14:56] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:18:40] Rafizi Ramli: Lepas settailah. Drop charges lah. Semua pendakwaan itu di di dihentikanlah.
+[3:15:07] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:18:46] Haziq: Tapi macam mana boleh dikatakan lesap? Sebab kalau dah bebas terus, dan dia travel overseas, mesti ada rekod dia keluar masuk negara...
+[3:15:11] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:18:53] Rafizi Ramli: Yalah, tapi sebab itu SPRM tahu dia dah pergi keluar negara.
+[3:15:34] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:18:57] Haziq: Waktu dia nak cari tu, dia dah kat luar negara dah.
+[3:15:51] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
 
-[00:18:58] Rafizi Ramli: Yalah, maksudnya boleh semak dengan SPRM... Dengan dengan imigresen. Imigresen boleh maklumkan pasport dia dah keluar semualah. Cuma sepatutnya itulah orang kata, siapa suruh bagi kompaun awal-awal? Jadi dia jadi lawak yang Beriyalah. You bagi dia kompaun, you lepaskan dia, terutamanya kalau memang ada kes-kes lain yang sedang ada ni kan? Dan kalau contohnya SPRM dah siasat Jana Wibawa dan juga aduan-aduan salah laku rasuah semasa pentadbiran Perikatan Nasional, dia mesti berkaitan. Kerana ada watak-watak yang sebenarnya jadi broker. Dialah broker yang itu. Jadi saya ingat bila SPRM mencari Datuk Adam Radlan ni dalam siasatan MAX 2 ni, maksudnya yalah, dia ada di mana-mana. Jadi semasa keputusan nak bagi kompaun itu, bukankah sepatutnya SPRM dah tengok dia ini sama ada material weakness ataupun person of interest dalam kes 1, kes 2, kes 3 yang kita bagi dia kompaun buat apa? Paling kurang kau nak bagi kompaun pun peganglah pasport. Tapi itu pun akan ada bermasalah di mahkamah. Kalau pendakwa raya dan SPRM kata, aku selalu pergi mahkamah. Contohnya kata, "Okay kompaun, tapi kami nak pegang pasport dia." Defense lawyer akan bantah. Kalau dia dah dibebaskan, tak ada pendakwaan, semua pertuduhan telah digugurkan, kenapa nak pegang pasport dia? Dan besar kemungkinan mahkamah akan bersetujulah. Baik. Kompaun ini sendiri memang masalahlah.
+[3:16:03] Okey. Baik, WB.
 
-[00:20:51] Rafizi Ramli: Jadi saya harap lepas ni kita tak dengarlah cerita-cerita kompaun ni. Saya pun bimbang kalau ada kecenderungan di pihak SPRM atau kerajaan yang suka kompaun ni. Kerana kompaun ini membuka ruang untuk kaw-tim. Dia tak masuk mahkamah. Siasat-siasat-siasat, tangkap-tangkap-tangkap, diam. Lepas tu hilang. Sebab apa? Oh sebenarnya dia telah membayar kompaun. Jadi kes itu tidak dibawa di mahkamah. Jadi pendakwa raya tak boleh nak buat apa. Mahkamah tak boleh nak buat apa kerana yang menyiasat, pihak berkuasa itu, contohnya kalau macam SPRM ke, LHDN ke, "Oh kita kompaun sahajalah." Sama juga macam kes yang lain-lain. Kalau macam LHDN, pun berbahaya. Dia buka ruang kaw-tim. Kalau contohnya taksiran pertama 100 juta. Tapi oleh kerana ada kompaun ke, ada "Oh kita, kita kaw-tim dululah. Kita kaw-tim 100 juta jadi 20 juta." Jadi untuk turunkan 20 juta tu, adalah bayar A, bayar B, bayar C kan? Jadi dia buka, dia buka ruang surat sokonganlah, itulah, inilah kan? Jadi saya memang kurang selesalah kalau selalu membaca, "Eh kes..." Terutamanya kes-kes besar. Sebab kalau kita orang biasa kan, kena tangkap dengan SPRM ke, dengan LHDN ke, saya tak rasa kita ada ruang untuk bincang untuk kompaun ni. Kerana peruntukan kompaun itu sebenarnya agak jelas supaya kerja untuk kerjasama mensabitkan pertuduhan orang lain yang lebih besar. Jadi kita mesti jadi saksi, sepatutnya. Bukannya digunakan untuk membebaskan orang yang memang dituduh untuk rasuah.
+[3:16:04] Beria, okey. Yang ni lepaslah beria.
 
-[00:22:40] Haziq: Baik YB. Clear. Beriya kepada SPRM. Dan last. Ada lagi yang last? Ah. Pas tak kecam tulisan Bahasa Cina. Yang itu tu apa tu? Great Wall of China ke apa tu? Oh, sarang semut ke apa tu?
+[3:16:06] Okey, alright. WB punya standard takut.
 
-[00:22:56] Rafizi Ramli: Dia commemoration punya batu.
+[3:16:08] Tak kan ni dua sendulah.
 
-[00:22:58] Haziq: Commemoration batu. Apa nama, Changsan kan? Prince Changsan. Prince Changsan.
+[3:16:10] Ah, okey.
 
-[00:23:06] Rafizi Ramli: Yang ini ni yalah, dia jadi isu sebab selalunya lah, penyokong-penyokong PAS dan PN ni dia yang terpaling pencinta Bahasa Melayulah. Kalau ada Bahasa Cina, Mandarin ataupun tak ada Bahasa Melayu, memang kena kecam jadi isu besarlah. Saya pun menunggu dah kot-kot Dr. Akmal Saleh ke kan? Tapi tak dengar apa kan? Sebab dulu cerita stokin pun jadi isu besar. Tapi bila kena kat dia, tak bunyilah. Jadi saya terbaca jugalah penerangan panjang lebar ni Dr. apa ni? Dr. Haim Hilman ni kan, Exco Kedah ni panjang lebar kan. Cuma bila saya baca, baru saya perasan, "Eh, ini projek kita! Tak ada kena mengena dengan Kedah!" Satu patah dia tak sebut tahu. Hahaha. Memang betul, saya teringat ni. Sebab inilah juga Exco Kedah yang tahun lepas ke awal tahun lepas kan? Tahun lepas di Dewan Undangan Negeri Kedah, kecoh buat cerita kononnya saya tak nak tanda tangan sehingga untuk menghalang projek di Kedah, Kulim Hi-Tech Park, fasa seterusnya, semualah. Oh buat cerita sedihlah. Lepas saya jawab dua-three kali, terus diamlah dia kan. Dia tak beritahu cerita sebenar. Ni sebenarnya atas projek lebih kurang 2 bilionlah kilang tayar di Kedah Rubber City. Kedah Rubber City ni di Padang Terap. Sebenarnya itu di bawah Kementerian Ekonomi. Kedah Rubber City itu adalah hak milik sepenuhnya Kerajaan Persekutuan. Dan dia diusahakan oleh Kerajaan Persekutuan. Tapi tengoklah, kalau Dr. Haim Hilman ni kan, bab cerita benda yang tak tak betul, dia sanggup pergi ke ke Dewan Undangan Negeri, tak beritahu cerita sepenuhnya. Bila dah kena kecam baru dia diam. Sama juga yang ini. Satu patah pun dia tak cerita ni. Sebenarnya tak ada kena mengena Kerajaan Negeri pun. Kedah Rubber City itu ialah milik Kerajaan Persekutuan yang menjadi aset NCIA, Koridor Pembangunan Ekonomi Wilayah Utara di bawah Kementerian Ekonomi. Usaha untuk membawa masuk Prince Changsan ni pun memang juga oleh NCIA dan kami terlibat secara langsunglah. Malah sebenarnya perjanjian dia beli tanah tu, saya yang yang menjadi saksi dalam tahun 2024 kan. Tapi kita tak adalah pergi pusing satu dunia beritahu ha tengok ni apa kita buat semua kan. Paling kuranglah kan? Paling kurang sepatutnya Kerajaan Negeri Kedah dengan Dr. Haim Hilman ni sebutlah, beritahulah, "Ini terima kasih," ataupun, "Ini adalah projek Persekutuan." Dan saya cakap banyak sikit malam ni ni kerana kita tahu, yang ini lah yang penyokong PAS akan beritahu, "Tengoklah kehebatan Kerajaan Negeri Sedah membawa masuk pelaburan 2 bilion." Sedangkan Kedah Rubber City sebelum ini memang dah dah nak mati. Ada pelabur-pelabur yang diumumkan semasa Perikatan Nasional tu semua tak jadi. Tutup, tutup, tutup. Jadi pada awal saya jadi menteri, kita kena buat keputusanlah. Sama ada kita nak sekat terus ataupun tutuplah, tak payahlah belanja untuk Kedah Rubber City ni kan. Tapi keputusan kami ialah tak apa, kita teruskan. Malah saya dah beritahu kepada kerajaan negeri dan ahli Parlimen Padang Terap pun. Tujuan kita bawa dan kita teruskan juga supaya agensi Persekutuan fokus untuk bawa pelaburan baru ialah supaya bila dah sampai, saya ingat fasa pertama dah sampai 75%. Bila dah sampai 100%, dia ada fasa pertama, fasa kedua, dan kita boleh besarkan dan bina jalan baru menghubungkan Padang Terap kepada Alor Setar. Tapi yang ini semua takkan disebutlah. Kalau dalam Parlimen itu mesti tanya, "Kenapa menganaktirikan negeri-negeri kami?" Nak harap dia bawa masuk, dia tak bawa masuklah. Dan nasib baik berita ni keluar sebab tulisan Bahasa Cina. Kalau tidak kita tak sedar pun. Dia dah pukul gendang satu mati ni kejayaan dia kan. Jadi sekarang dia tulislah, tulisan Cina batu asas sengaja dipolitikkan.
+[3:16:11] Politik.
 
-[00:28:00] Haziq: Tapi YB, wakil Persekutuan macam tak nampak langsung. Exco punyalah ramai. Tak nampaklah? Kan? Dia tak tahu. Potong tang corner. Dia tak ada tak ada dijemput semua saya tak nampaklah kan. Begitulah keadaan di Malaysia. Betullah.
+[3:16:13] MP lompat tanya, apa punca dia lompat?
 
-[00:28:15] Rafizi Ramli: Baik YB. Untuk rating? Mungkin YB pilih satu yang paling Beriya.
+[3:16:16] Ini soalan 19 November, baru saja.
 
-[00:28:19] Haziq: Saya kena bagi kat SPRM lah. Tahniah kepada Tan Sri Azam Baki. Sebab lepas, lepas tu garu kepala. Dia Beriya garu kepalalah kalau macam ni kan.
+[3:16:18] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
 
-[00:28:31] Rafizi Ramli: Okay, baik YB. Kita ke next, Hidup Keras.
+[3:16:29] Berialah. Yang ini sebab konteks Sabah lah kan?
 
-[00:28:35] Haziq: Ha. Kita pergi yang pertama terus.
+[3:16:33] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
 
-[00:28:38] Rafizi Ramli: Am. Probono tertembak kaki PMX, tanda soalan. Yalah, kalau saya nak start YB, saya nak tanya follow up sikit. YB dah sampaikan dah mesej kepada pimpinan kerajaan?
+[3:16:56] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
 
-[00:28:51] Haziq: Saya tweet lah. Saya pasti tweet tu sampailah kepada Perdana Menteri. Tapi saya akan tulislah satu surat berkongsi pandangan saya bahawa Perdana Menteri dengan pimpinan kerajaan dengan PKR mesti mengawal cybertrooper-cybertrooper mereka. Kerana kita tahu cybertrooper ni dikawal. Dikawal oleh sama ada orang-orang tertentu yang rapat dengan menteri, orang-orang tertentu yang ada kaitan dengan pejabat Perdana Menteri. Muka dikawal. Sebab itu mesej itu dibuat secara tersusun. Dia bukan organik tahu kan? Jadi sebab saya nak kena ingatkan Perdana Menteri jugalah. Contohnya bila mereka mencipta dan memfitnah mengenai ARM ini, kesan kepada negara besar. Sebelum, sebelum, sebelum itulah, saya ingat majoriti rakyat Malaysia tidak biasa ataupun tidak tahu ARM ni apa dia. Baik. Dia bila nak buat chip kan, chip tu ada blueprint dia, ada architecture dia kan. Dia kalau macam kita nak buat kuuih lah, dia kan ada resepi. Chip pun ada resepi ataupun blueprint atau architecture dialah. Dan dia ada beberapa buah syarikat besar saja di dunia yang ada pengaruh besar sebagai pembangun chip. Zaman 70-an dulu, masa itu model yang berjaya di dunia ialah model yang mana syarikat chip itu membangunkan sendiri architecture mereka dan mengilang sendiri chip. Sebab itu kita ada Intel, kita ada contohnya AMD, ha ni antara yang besar-besarlah kan. Jadi antara tahun 70-an, 80-an, 90-an, pembuat chip yang dominan di dunia yang kita sedia maklumlah, Intel. Kalau kat Malaysia, kita tahu Intel dengan AMD lah kan. Itu chip yang mereka reka sendiri, intellectual property (IP) tu mereka sendiri, dan mereka kilang. Itu yang ada Intel kat Malaysia semua ni kan. Tapi ada sebuah syarikat yang yang ditubuhkan oleh pakar-pakar daripada Universiti Cambridge, nama dia ARM. Sebenarnya syarikat tu dah lama daripada tahun 70-an. Tapi dia dia tidak meletup sehingga saya ingat akhir tahun 90-an lah kan. Oleh kerana model itu model pertama itu dominan, syarikat macam Intel, AMD buat research sendiri, membangunkan sendiri chip, kemudian mereka mengilang sendiri, mereka memasang sendiri ataupun menjual kepada laptop pembuat PC semua kan. Dalam tahun 90-an, kita mula ada fenomena baru iaitu gadget bermula dengan smartphone ya. Masa itulah mula ada model kedua untuk membuat chip semikonduktor ni iaitu syarikat yang mereka cipta chip itu, mereka cipta tu maksudnya dia buat blueprint semualah, dia sebenarnya tidak mengilang. Dia jual architecture dia, kemudian orang lain akan kilang, orang lain jual, dia tak terlibat langsung. Dia tumpu kepada R&D dan buat IP sahaja. Dia jual IP itu kepada syarikat lain, kemudian dia ambil royalti atas setiap chip yang dijual. Sekarang ini model itu yang dominan. Sebab oleh kerana model yang pertama tu mereka terlalu selesa, because dia rasa dia dah ada captive market dia, dia buat. Jadi R&D mereka itu lebih perlahan berbanding dengan yang dibuat dengan oleh ARM. Dan ARM memang daripada awal kelebihan mereka ialah mereka menumpukan kepada teknologi chip yang cekap tenaga supaya tak panas. Jadi lebih banyak boleh letak, dia tak panas. Dia tidak menggunakan tenaga yang banyak. Maka sebab itu, chip yang direka oleh ARM sangat sesuai untuk gadget macam smartphone. Jadi fast forward, sekarang 20 tahun daripada lewat 90-an, sekarang 2020-an, ARM chip yang dalam phonelah, dalam phone, dalam kereta, dalam semua IoT gadget ni, kalau dalam phone, 95% semua chip ARM. Dan daripada phone, daripada ARM punya IPlah. So contohnya eh, kalau kalau telefon Samsung, chip tu chip Samsunglah. Tapi itu ARM. Ah dia tak tapi bagi setiap telefon Samsung, setiap chip Samsung itu, ARM dapat duitlah. Sebab dia ambil royalti. So tu cara dia. Sama juga contohnya bila China, China ada tiba-tiba kita tengok China ada chip sendiri semua ni, dia sebenarnya daripada model itulah. ARM, dia sebenarnya pakai teknologi ARM. kan. Jadi cara itu lebih sesuai di zaman sekarang ini untuk scale up semikonduktor kan. Jadi latar belakang itu sangat penting untuk rakyat untuk membezakan apa beza cara Intel dengan cara ARM. Ni macam OEM YB? Tak tak lah. Tak, OEM well OEM lain sebab dia tak ada bahagian royalti. Ah ya ya ya. OEM ni maksudnya saya pemegang IP, tapi saya tak nak ada kilang. Jadi saya bagi kat you, you buat, kemudian saya beli ataupun orang lain beli, tapi dia tak ada IP. Dia tak ada royalti. Yang ini setiap satu ada royalti kan. Jadi ekosistem itu ialah ekosistem yang menjadi dominan sekarang dalam pembangunan chip. Baik. Jadi nak berbalik kepada probono semua nilah kan. Jadi asal usul ARM ni begini. Bila kami di Kementerian Ekonomi melihat, dia bermula dengan plan ekonomilah, baik Kerangka Ekonomi Madani ke, kita buat Kajian Separuh Penggal semua kan. Ada satu jurang yang tidak boleh dinafikan dalam ekonomi kita, iaitu kita tidak boleh keluar daripada perangkap ekonomi pertengahan ini, middle income trap, yang mana sebahagian besar daripada eksport kita, sebahagian besar daripada aktiviti kita ni adalah aktiviti perkilangan sebenarnya yang berada di tahap tengah ataupun rendah. Ambil contoh semikonduktor. Kita cakap, "Alah semikonduktor ni ada daripada zaman Najib semua." Yalah, tapi model itu tidak berubah. Semikonduktor itu dari segi rantaian nilai dia besar. Dia bermula daripada yang paling atas sekali oleh ARM dan juga beberapa syarikat lain yang mereka cipta. Daripada mereka cipta tu barulah dia keluar kepada design semua. Daripada situlah baru keluar kepada perkilangan. Daripada situlah pergi kepada dipanggil packaging. Yang kalau tengok dalam kilang kan, yang tengok cucuk-cucuk tu. Ah itu packaging. OK. Yang yang orang kata manufacturing ni lebih kepada wafer fabrication. Dia buat wafer, kemudian dia kena potong, kemudian dia kena cucuk-cucuk. Yang itu dipanggil packaging. Lepas packaging tu testing, lepas tu dia ship out lah. Malaysia berada di peringkat yang bawah tu. Packaging dengan testing, yang kita ada selama ini sebenarnya packaging dengan testing. Adalah orang kata, "Oh kita kena buat wafer." Tapi wafer tu kita pernah lah cuba buat, ada satu syarikat Silterra, tapi pelaburan untuk satu wafer fabrication ni sangat tinggi dan dalam dunia ni ada berapa je. Di China pun ada 4-5 je wafer fabrication ni. Jadi model yang selalunya dipakai ialah terutamanya di negara-negara Barat kan, dan syarikat-syarikat China sekarang, mereka ambil IP ARM menggunakan kepakaran ARM untuk membina kepakaran sendiri, membangunkan chip mereka, kemudian dijual, dia pasanglah. Dalam kereta ke, BYD ke, Xpeng ke, dalam phone ke, semua ni kan. Tapi bagi setiap yang jual tu sebenarnya ARM dapat duit. Jadi bila kita tengok jurang ekonomi kita, kita tak boleh terus bersaing. Kita umum pun banyak macam mana pun pelaburan itu, FDI ini, tapi kalau dia masih lagi bergantung kepada model lama iaitu Malaysia ini dijadikan sebagai manufacturing outpost. Sebenarnya satu tempat untuk kilang murah sahaja kerana tenaga buruh kita murah, kita memang takkan boleh melangkah dan melonjak untuk menawarkan contohnya kerja-kerja yang Eh? Eh, saya dah bini pun. Ke lagi? Sorry ah. K. yang boleh apa nama ni melonjakkan, menawarkan kerja bergaji tinggi semualah kan. Kemudian kita tengok juga perbandingan contohnya Pulau Pinang dengan Shenzhen, dengan Taipei. Taipei memang dikenalilah sebagai pusat semikonduktor dunia, TSMC ada TSMC ni ialah wafer fabricator yang antara paling besar di dunialah. TSMC bermula di Taipei. So semikonduktor tu pusat dia di Taipei. Dan sekarang ini di China, Shenzhen lah kan. Sebenarnya bila kita bandingkan antara Pulau Pinang dengan Shenzhen, dengan Taipei, sebenarnya Pulau Pinang yang lebih awal memulakan industri semikonduktor. Kilang Intel di Pulau Pinang bermula saya ingat tahun 1972, TSMC di Taipei 1982, 10 tahun dong. Shenzhen lagi lambat daripada Pulau Pinang dengan Taipeilah kan. Jadi kami tengok kepada banyak kajian ilmiah lah kan, dan ada kajian ilmiah yang membandingkan dan telah pun mengkaji kenapa walaupun Pulau Pinang mula jauh lebih awal daripada Taipei dan Shenzhen, tapi Pulau Pinang ketinggalan berbanding Taipei dengan Shenzhen. Sebabnya ialah kerana ketiadaan IP. Jadi Pulau Pinang tu walaupun kita kata pusat semikonduktor, dia sebenarnya tempat memasang sahaja. Dia tidak direka di situ. Sedangkan kalau di Taipei dan di Shenzhen kan, dia ada data yang membandingkan jumlah IP yang difailkan daripada satu tahun ke satu tahun antara Taipei, Shenzhen dengan Pulau Pinang. Shenzhen dengan Taipei ni daripada 80-an dia makin naik, makin naik. Pulau Pinang flat tak ada, kerana dia pasang sahaja. Kalau tanya industri kitalah, dia hm, hm, hm, kita pun yang syarikat yang cuba untuk mereka semikonduktor ni tak banyak. Ada 2-3 saja. Mungkin yang paling orang kenal ialah Skychip lah, yang diberikan dana awal oleh kerajaan untuk memulakan. Saya ingat kepada bekas-bekas engineer Intel dekat Pulau Pinang. Dia pun mula Skychip kan. Tapi IP kita ni kalau nak banding dengan Taipei, dengan Shenzhen ni memang langit dengan bumi lah kan. Berdasarkan itulah, nak dijadikan ceritalah. Tahun 2024, Kementerian Ekonomi menganjurkan KL20. Maksudnya kita menggabungkan semua agensi dan juga kementerian, pemain industri, yang berkaitan dengan digital, elektronik, startup, pelaburan semua ni. Kerana kita nak kena bina ekosistem itu. Ekosistem yang berasaskan kepada venture capital, kepada private equity, untuk membiayai juga pemain industri. Sebab kalau tidak cakap pasal startup-startup saja ni, tak boleh. Kalau tidak ada ekosistem yang menyeluruh, kita tak ke mana. Jadi kita buat KL20, dan saya ingat itu antara yang yang paling berjayalah dalam tempoh 5-6 tahun yang lepas ni kan. Kerana daripada itu juga kita jemput satu dunia syarikat-syarikat besar. Salah satunya, walaupun di Malaysia dalam sistem kerajaan kita sebelum itu mereka tak tak tak faham sangat dan tak pandang, tak tahu pun ada ARM. Tapi kami jemput ARM. Jadi ARM datang. Jadi ARM datang CK Sen dia punya head of ini regionlah datang. Saya ingat Datuk Seri Anwar impressed. Ah itu kan. Sebab malam sebelum pelancaran KL20 tu kita ada dinner. Mmm, mmm. Dengan Datuk Seri Anwar, saya, dengan semua yang datang nilah, semua all these head of venture capital, private equity, all these tech companies semua kan. So dia impressed dengan ARM lah. Jadi saya ingat sebelum CK Sen balik lah, masa tu CK Sen masih lagi base di Taipei. Tak tak beberapa bulan lepas itu dia dinaikkan pangkat menjadi Head of Sales, Global Sales saya ingat di di di San Francisco lah di Silicon Valley kan. So dia jumpa. Datuk Seri Anwarlah yang yang minta ARM bantu kita. Jadi selepas itu, follow up itu dibuat oleh pasukan kamilah. Baik, sebelum saya pergi panjang lebar, saya nak sebut begini. Bila Cheplos-Cheplos ni pandai-pandai buat cerita kata saya ambil rasuah daripada ARM ni, dia bukan tuduh saya tahu. Dia tuduh ARM. Kerajaan Malaysia ada perjanjian dengan ARM, dan itu perjanjian yang pertama dalam dunia seperti itu. ARM lepas kita pujuk, kita bincang lebih kurang setahun, bersetujulah. Dan Perjanjian pertama dengan sebuah kerajaan. Dengan sebuah kerajaan. Dia tak pernah buat macam itu. Dia orang monopoli dalam dunia. 90% lebih daripada chip di dalam gadget, telefon semua ni kereta, semua dia. Haha, betul. Dan apa Malaysia ni? Yalah. Kan? Sebab sales dia ialah di China, di Korea, Samsung semua tu, semua ARM. So what is our bargaining power untuk sampai tarik? Hah, itu, er, sebelum sampai kat situ, sebelum sampai kat situ kan. Jadi maksudnya bila mereka tuduh ini, inilah tak cerdik, lain kali pergilah sekolah lama sikit, kan. Dan dan siapa-siapa yang mengarahkan mereka ni, ni pendek akal. Mmm. Kerana kalau dia teruskan contohnya kan, datanglah cek akaun saya. Datanglah cek akaun James. Mmm. Dan saya rasa cerita pasal James semua kan, haha. Pergilah cek semua, satu sen pun tak ada. Mmm. Tapi kalau saya bawa ke mahkamah, maksudnya ARM kena datang bagi keterangan tahu. Mmm, betul juga. Ah ARM akan bagi keterangan, semua perjanjian itu akan dibuka, semua pegawai-pegawai PM, MIDA yang tanda tangan semua ni MITI semua kena datang. Mmm. Dan malulah Malaysia. ARM akan kata, Apalah, ini perkara pertama yang kita buat dalam negara pertama yang kita nak ada kerjasama seperti ini, Tiba-tiba dia dok bergaduh bodoh dengan Cheplos. Cheplos polis dunia, ya. Dan satu dunia akan tahu, kerana satu dunia sedang melihat kepada ARM ni. Cheplos. Jadi sebab itu saya beritahulah dalam ada orang tanya semua, saya kata, Boleh kalau saman ni memang kalah teruslah. Tapi Perdana Menteri Malaysia kena hadir kat situ, Senator Tengku Zafrul kena ada kat situ, Senator Amir Hamzah kena ada kat situ, ARM datang kat situ. Memang Malaysia akan menjadi popular for the wrong reason, sama macam naturalization kitalah, pemain-pemain kita. Ha, satu dunia tengok, tapi memalukan kan. Jadi sebab itu saya akan tulis nota kepada PM terlebih dahulu supaya mengawal Cheplos-Cheplos ini, kalau pun paling kuranglah hantar mereka pergi kursus dulu. Kan, jangan jangan tembak bodoh seperti ini kan. Mmm, baik. Berbalik. Saya tahu lah, ini cubaan untuk macam biasalah fitnah lah kan, untuk kononnya memburukkan nama saya. Orang macam saya tahu bahawa saya orang pertama yang akan ditembak daripada zaman Najib sampai sekarang. Atas kerja sayalah, kerana saya membongkarkan skandal. Kemudian saya bawa isu-isu rasuah kan. Dan oleh sebab itu saya banyak musuhlah. Mana-mana ada ajelah, dalam parti itu pun ada musuh, dalam PKR pun ada, dengan pembangkang pun ada, dalam UMNO pun ada, yang dendam dengan saya pasal Najib pun ada, banyaklah kan. Kalau saya, dan sekarang ini contohnya mereka yang dalam kerajaan yang tak suka dengan saya ni, mereka ada kuasa atas semua badan-badan pihak berkuasa. Daripada polis, daripada SPRM, daripada MCMC kan. Akaun saya dalam bank tu, saya pasti dia cek. Oh. Dia tengok je berapa duit saya, apa yang masuk dan semuanya kan. Daripada zaman Najib sampailah ke sekarang, saya pasti kan. Kalau ada duit, kalau ada perkara macam itu, saya dah lama kena. Mmm. Kan? Sebab itu kalau masa saya dekat kementerian dulu kan, pasukan saya, harta kepada driver saya sendiri pun, saya kata jangan buat benda bodoh. Orang offer ke apa jangan ambil, kerana tak sampai seminggu kau akan masuk ke dalam. Mmm. Sebab saya banyak musuh politik yang tak suka dengan apa yang saya buatlah. Jadi sebab itu, kalau masuk mahkamah memang tak ada masalah. Saya tunjuk semua bank statement saya, itu pergilah cek rumah saya, kucing saya, memang tak ada. Daripada dulu lagi, or I'm fully aware what I do carry that risk. So I have to be whiter than white. Memang betullah. Jadi, cuma dia tuduh contohnya James kan. Ha, dia kata, saya keluar, dia bayar 1 bilion, kemudian saya letak apa nama ni pegawai saya, bekas pegawai saya, bekerja dengan ARM untuk jaga duit saya dan duit itu dicuci untuk buat Kering. Satu, tak adalah orang bodoh dalam dunia ni, kalau curi duit ratus-ratus juta ni, pergi letak dekat restoran cabuk untuk jual RM5 makan Kering. Margin pun tak ada. Haha. Keduanya James tu latar belakang dia. Ini Haziq tanya tadi. Kenapa mereka bersetuju? Bukan mudah tahu. Saya bila PM oleh kerana kami yang perkenalkan ARM ini kepada Malaysia, Dan juga kepada Datuk Seri Anwar sendiri, kami yang susun. Jadi bila follow up itu dibuat oleh pasukan kamilah. Baik, sebelum saya pergi panjang lebar, saya nak sebut begini. Bila Cheplos-Cheplos ni pandai-pandai buat cerita kata saya ambil rasuah daripada ARM ni, dia bukan tuduh saya tahu. Dia tuduh ARM. Kerajaan Malaysia ada perjanjian dengan ARM, dan itu perjanjian yang pertama dalam dunia seperti itu. ARM lepas kita pujuk, kita bincang lebih kurang setahun, bersetujulah. Dan Perjanjian pertama dengan sebuah kerajaan. Dengan sebuah kerajaan. Dia tak pernah buat macam itu. Dia orang monopoli dalam dunia. 90% lebih daripada chip di dalam gadget, telefon semua ni kereta, semua dia. Haha, betul. Dan apa Malaysia ni? Yalah. Kan? Sebab sales dia ialah di China, di Korea, Samsung semua tu, semua ARM. So what is our bargaining power untuk sampai tarik? Hah, itu, er, sebelum sampai kat situ, sebelum sampai kat situ kan. Jadi maksudnya bila mereka tuduh ini, inilah tak cerdik, lain kali pergilah sekolah lama sikit, kan. Dan dan siapa-siapa yang mengarahkan mereka ni, ni pendek akal. Mmm. Kerana kalau dia teruskan contohnya kan, datanglah cek akaun saya. Datanglah cek akaun James. Mmm. Dan saya rasa cerita pasal James semua kan, haha. Pergilah cek semua, satu sen pun tak ada. Mmm. Tapi kalau saya bawa ke mahkamah, maksudnya ARM kena datang bagi keterangan tahu. Mmm, betul juga. Ah ARM akan bagi keterangan, semua perjanjian itu akan dibuka, semua pegawai-pegawai PM, MIDA yang tanda tangan semua ni MITI semua kena datang. Mmm. Dan malulah Malaysia. ARM akan kata, Apalah, ini perkara pertama yang kita buat dalam negara pertama yang kita nak ada kerjasama seperti ini, Tiba-tiba dia dok bergaduh bodoh dengan Cheplos. Cheplos polis dunia, ya. Dan satu dunia akan tahu, kerana satu dunia sedang melihat kepada ARM ni. Cheplos. Jadi sebab itu saya beritahulah dalam ada orang tanya semua, saya kata, Boleh kalau saman ni memang kalah teruslah. Tapi Perdana Menteri Malaysia kena hadir kat situ, Senator Tengku Zafrul kena ada kat situ, Senator Amir Hamzah kena ada kat situ, ARM datang kat situ. Memang Malaysia akan menjadi popular for the wrong reason, sama macam naturalization kitalah, pemain-pemain kita. Ha, satu dunia tengok, tapi memalukan kan. Jadi sebab itu saya akan tulis nota kepada PM terlebih dahulu supaya mengawal Cheplos-Cheplos ini, kalau pun paling kuranglah hantar mereka pergi kursus dulu. Kan, jangan jangan tembak bodoh seperti ini kan. Mmm, baik. Berbalik. Saya tahu lah, ini cubaan untuk macam biasalah fitnah lah kan, untuk kononnya memburukkan nama saya. Orang macam saya tahu bahawa saya orang pertama yang akan ditembak daripada zaman Najib sampai sekarang. Atas kerja sayalah, kerana saya membongkarkan skandal. Kemudian saya bawa isu-isu rasuah kan. Dan oleh sebab itu saya banyak musuhlah. Mana-mana ada ajelah, dalam parti itu pun ada musuh, dalam PKR pun ada, dengan pembangkang pun ada, dalam UMNO pun ada, yang dendam dengan saya pasal Najib pun ada, banyaklah kan. Kalau saya, dan sekarang ini contohnya mereka yang dalam kerajaan yang tak suka dengan saya ni, mereka ada kuasa atas semua badan-badan pihak berkuasa. Daripada polis, daripada SPRM, daripada MCMC kan. Akaun saya dalam bank tu, saya pasti dia cek. Oh. Dia tengok je berapa duit saya, apa yang masuk dan semuanya kan. Daripada zaman Najib sampailah ke sekarang, saya pasti kan. Kalau ada duit, kalau ada perkara macam itu, saya dah lama kena. Mmm. Kerana kalau ada, kalau ada perkara macam itu, saya dah lama kena. Mmm. Sebab itu kalau masa saya dekat kementerian dulu kan, pasukan saya, harta kepada driver saya sendiri pun, saya kata jangan buat benda bodoh. Orang offer ke apa jangan ambil, kerana tak sampai seminggu kau akan masuk ke dalam. Mmm. Sebab saya banyak musuh politik yang tak suka dengan apa yang saya buatlah. Jadi sebab itu, kalau masuk mahkamah memang tak ada masalah. Saya tunjuk semua bank statement saya, itu pergilah cek rumah saya, kucing saya, memang tak ada. Daripada dulu lagi, or I'm fully aware what I do carry that risk. So I have to be whiter than white. Memang betullah. Jadi, cuma dia tuduh contohnya James kan. Ha, dia kata, saya keluar, dia bayar 1 bilion, kemudian saya letak apa nama ni pegawai saya, bekas pegawai saya, bekerja dengan ARM untuk jaga duit saya dan duit itu dicuci untuk buat Kering. Satu, tak adalah orang bodoh dalam dunia ni, kalau curi duit ratus-ratus juta ni, pergi letak dekat restoran cabuk untuk jual RM5 makan Kering. Margin pun tak ada. Haha. Keduanya James tu latar belakang dia. Ini Haziq tanya tadi. Kenapa mereka bersetuju? Bukan mudah tahu. Saya bila PM oleh kerana kami yang perkenalkan ARM ini kepada Malaysia, Dan juga kepada Datuk Seri Anwar sendiri, kami yang susun. Jadi bila follow up itu dibuat oleh pasukan kamilah. Sebenarnya, masa itu CK Sen masih lagi base di Taipei, tak tak beberapa bulan lepas itu dia dinaikkan pangkat menjadi Head of Sales, Global Sales saya ingat di di di San Francisco lah di Silicon Valley kan. So dia jumpa. Datuk Seri Anwarlah yang yang minta ARM bantu kita. Jadi selepas itu, follow up itu dibuat oleh pasukan kamilah. Sebelum saya pergi panjang lebar, saya nak sebut begini. Bila Cheplos-Cheplos ni pandai-pandai buat cerita kata saya ambil rasuah daripada ARM ni, dia bukan tuduh saya tahu. Dia tuduh ARM. Kerajaan Malaysia ada perjanjian dengan ARM, dan itu perjanjian yang pertama dalam dunia seperti itu. ARM lepas kita pujuk, kita bincang lebih kurang setahun, bersetujulah. Dan Perjanjian pertama dengan sebuah kerajaan. Dengan sebuah kerajaan. Dia tak pernah buat macam itu. Dia orang monopoli dalam dunia. 90% lebih daripada chip di dalam gadget, telefon semua ni kereta, semua dia. Haha, betul. Dan apa Malaysia ni? Yalah. Kan? Sebab sales dia ialah di China, di Korea, Samsung semua tu, semua ARM. So what is our bargaining power untuk sampai tarik? Hah, itu, er, sebelum sampai kat situ, sebelum sampai kat situ kan. Jadi maksudnya bila mereka tuduh ini, inilah tak cerdik, lain kali pergilah sekolah lama sikit, kan. Dan dan siapa-siapa yang mengarahkan mereka ni, ni pendek akal. Mmm. Kerana kalau dia teruskan contohnya kan, datanglah cek akaun saya. Datanglah cek akaun James. Mmm. Dan saya rasa cerita pasal James semua kan, haha. Pergilah cek semua, satu sen pun tak ada. Mmm. Tapi kalau saya bawa ke mahkamah, maksudnya ARM kena datang bagi keterangan tahu. Mmm, betul juga. Ah ARM akan bagi keterangan, semua perjanjian itu akan dibuka, semua pegawai-pegawai PM, MIDA yang tanda tangan semua ni MITI semua kena datang. Mmm. Dan malulah Malaysia. ARM akan kata, Apalah, ini perkara pertama yang kita buat dalam negara pertama yang kita nak ada kerjasama seperti ini, Tiba-tiba dia dok bergaduh bodoh dengan Cheplos. Cheplos polis dunia, ya. Dan satu dunia akan tahu, kerana satu dunia sedang melihat kepada ARM ni. Cheplos. Jadi sebab itu saya beritahulah dalam ada orang tanya semua, saya kata, Boleh kalau saman ni memang kalah teruslah. Tapi Perdana Menteri Malaysia kena hadir kat situ, Senator Tengku Zafrul kena ada kat situ, Senator Amir Hamzah kena ada kat situ, ARM datang kat situ. Memang Malaysia akan menjadi popular for the wrong reason, sama macam naturalization kitalah, pemain-pemain kita. Ha, satu dunia tengok, tapi memalukan kan. Jadi sebab itu saya akan tulis nota kepada PM terlebih dahulu supaya mengawal Cheplos-Cheplos ini, kalau pun paling kuranglah hantar mereka pergi kursus dulu. Kan, jangan jangan tembak bodoh seperti ini kan. Mmm, baik. Berbalik. Saya tahu lah, ini cubaan untuk macam biasalah fitnah lah kan, untuk kononnya memburukkan nama saya. Orang macam saya tahu bahawa saya orang pertama yang akan ditembak daripada zaman Najib sampai sekarang. Atas kerja sayalah, kerana saya membongkarkan skandal. Kemudian saya bawa isu-isu rasuah kan. Dan oleh sebab itu saya banyak musuhlah. Mana-mana ada ajelah, dalam parti itu pun ada musuh, dalam PKR pun ada, dengan pembangkang pun ada, dalam UMNO pun ada, yang dendam dengan saya pasal Najib pun ada, banyaklah kan. Kalau saya, dan sekarang ini contohnya mereka yang dalam kerajaan yang tak suka dengan saya ni, mereka ada kuasa atas semua badan-badan pihak berkuasa. Daripada polis, daripada SPRM, daripada MCMC kan. Akaun saya dalam bank tu, saya pasti dia cek. Oh. Dia tengok je berapa duit saya, apa yang masuk dan semuanya kan. Daripada zaman Najib sampailah ke sekarang, saya pasti kan. Kalau ada duit, kalau ada perkara macam itu, saya dah lama kena. Mmm. Sebab itu kalau masa saya dekat kementerian dulu kan, pasukan saya, harta kepada driver saya sendiri pun, saya kata jangan buat benda bodoh. Orang offer ke apa jangan ambil, kerana tak sampai seminggu kau akan masuk ke dalam. Mmm. Sebab saya banyak musuh politik yang tak suka dengan apa yang saya buatlah. Jadi sebab itu, kalau masuk mahkamah memang tak ada masalah. Saya tunjuk semua bank statement saya, itu pergilah cek rumah saya, kucing saya, memang tak ada. Daripada dulu lagi, or I'm fully aware what I do carry that risk. So I have to be whiter than white. Memang betullah. Jadi, cuma dia tuduh contohnya James kan. Ha, dia kata, saya keluar, dia bayar 1 bilion, kemudian saya letak apa nama ni pegawai saya, bekas pegawai saya, bekerja dengan ARM untuk jaga duit saya dan duit itu dicuci untuk buat Kering. Satu, tak adalah orang bodoh dalam dunia ni, kalau curi duit ratus-ratus juta ni, pergi letak dekat restoran cabuk untuk jual RM5 makan Kering. Margin pun tak ada. Haha. Keduanya James tu latar belakang dia. Ini Haziq tanya tadi. Kenapa mereka bersetuju? Bukan mudah tahu. Saya bila PM oleh kerana kami yang perkenalkan ARM ini kepada Malaysia, Dan juga kepada Datuk Seri Anwar sendiri, kami yang susun. Jadi bila follow up itu dibuat oleh pasukan kamilah. Pasukan saya diketuai oleh Timbalan Ketua Setiausaha, TKSU Kementerian sekarang, Datuk Balu. Datuk Balu memang yalah, orang yang terlibat lama di dalam, dia memang jaga industri. Dia di Kementerian Ekonomi, dia menjaga sektor ekonomi industri, so memang itu bidang dialah kan. James, oleh kerana, dan dan dia ada dua orang lagi dalam pasukan itu selain daripada pegawai-pegawai lain kan. Dan dua orang itu, dua-dua bukan orang kerajaan, mengikut orang swasta. James yang disebut itu, sebelum ini dia dia peguam, latar belakang undang-undang daripada Oxford, kemudian latar belakang dia sebelum saya minta dia resign kerja dia sertai pejabat saya, dia memang dalam bidang tech. Jadi dia ada niche situ yang mana dia dalam bidang tech dan dia juga ada latar belakang undang-undang. Seorang lagi ialah seorang basically fund manager kan, yang memang tugas dia pelaburan PE VC semua dia tahulah kan. Jadi mereka yang memulakan perundingan itu dengan ARM. Kerana kami yang jemput ARM, jadi hubungan di antara kerajaan Malaysia dengan ARM itu bermula melalui kamilah. Sebelum awal-awal sebelum ARM bersetuju datang ke KL20 tu ada beberapa mesyuarat yang online, dan kami tak payah pergi tahu ke US ke apa, lawatan sambil belajar, semua online. Meeting dengan ARM semua online. VC je, video call je kan. Mula kena pujuk dia datang, kemudian bila dia datang, kami jadi rapatlah, saya dengan ARM semua kan. Tapi bukannya sebagai head of delegation untuk merundingkan... Ah nantilah, ha kan. Head Head of, dia working team. Mmm. Working team itu memang ada yang utamanya seorang TKSU dan dua orang lagi ialah pegawai sayalah. Kerana ilmu dan juga kemahiran dan pengetahuan yang dua orang ni lebih banyak daripada yang ada dalam kerajaan. Ha. Jadi memang you perlukan expert yang memang dalam bidang itu dan kebetulan dua-dua orang ini memang expert dan dia ada maklumat dan pengetahuan kerana itu bidang dia kan. Jadi rundingan bermula sebenarnya yang mengetuainya saya. Saya meeting pukul 2:00 pagi dengan dia orang berapa kali. Kan, tengah demam ke apa, mereka di San Francisco, kita di sini. Dan masalah San Francisco ni kerana time difference dia panjang, jadi dia pun kena awal pagi saya ingat, kita kat sini pukul 2:00. Jadi akhirnya, pengurusan ARM ni rasa yang mereka teruja melihat sebuah kerajaan yang sangat proaktif, nampak memang betul-betul nak pursue benda ini. Cita-cita kita dengan kerjasama melalui ARM kita boleh menghasilkan chip kita sendiri dalam tempoh 5 tahun. Itu penting kerana, ah ini berkaitan dengan AAT jugan ni, haha, YB. Yang AAT ni kan. Itu penting kerana kita dok sibuk bina data center. Setiap kali kita bina data center contohnya kan, MITI, Datuk Seri Anwar kan umum, "FDI banyak ini," semua kan. Katakanlah FDI 3 bilion. Yang tak diumum ialah FDI 3 bilion itu sebahagian besarnya bayar keluar balik. Kerana yang dibuat di sini, yang yang berkaitan dengan Malaysia hanyalah tanah dan juga buat bangunan. Semua isi dalam tu tu daripada rack dia, daripada rack bolehlah kita buat sikit-sikit. Tapi daripada dia punya komputer, unit, chip, itu semua import daripada US. Jadi, data center kita yang banyak ni, takkan, dan dia akan melalui life cycle dia. 5 tahun, dia kena tukar chip, chip akan ada chip yang lebih baik dan mereka akan sentiasa mencari chip yang kurang menggunakan tenaga dan tak cepat panas. Because kos utama data center adalah elektrik dan juga air. To cool it down. So the the the the more energy efficient the chip, is the better kan. Jadi, setiap 5 tahun akan ada chip yang baru, dia nak kena tukar semua kan. Takkanlah kita terus nak import daripada US daripada negara-negara lain kan. ODM semua ni daripada US semua kan. Tambah pula, kita ada juga GLC-GLC kita yang mula menubuhkan data center. Syarikat-syarikat Malaysia yang menubuhkan data center. Dan mereka sepatutnya telah mula beralih menggunakan chip tempatan kerana demand itu ada sendiri. Syarikat kita sendiri beli. Kalau data center itu semua milik negara luar, dia boleh katalah, "Eh kita tak naklah Malaysia, kita nak beli daripada negara itu semua." Tapi kalau data center itu bila GLC kita, syarikat swasta kita, kerajaan pun banyak membayar menggunakan data center, dan kita sepatutnya beralih menggunakan chip kita sendiri. Mereka chip kita sendiri. Itu cita-cita kita lah. Yang itu yang kita sampaikan kepada ARM. Jadi dia rasa, yalah, dia rasa macam rancangan itu masuk akal dan dia nampak kerajaan Malaysia bersungguh-sungguh jumpa saya, jumpa Datuk Seri Anwar dua-tiga kali kan. Dan apabila perbincangan awal itu akhirnya mendapat keputusan Kabinet. Bawa kali pertama, jadi ini, jadi kita nak mulakan rundingan dengan ARM untuk dapat draft perjanjian. Kena dapat persetujuan Kabinet. Bawa ke. So so yang itu memang di peringkat Kementerian Ekonomi. Tapi bila sampai ke peringkat kedua dan ketiga iaitu untuk menandatangani, sebenarnya rundingan itu ada wakil daripada semua. Menteri Zafrul pun join rundingan itu. Ah ha. Ah. Ahli PKR terbaru tu. Ah dia pun umum. Amir Hamzah, Menteri Kewangan Kedua pun terlibat. Kan. Jadi memanglah ada pandangan yang berbeza-beza dalam kajian. Kan. Memang kita akan terus ada pandangan bahawa alah ini susah sangatlah nak buat. Ada yang bagi pandangan macam itu? Itulah pandangan daripada MITI dan juga Kementerian Kewangan masa itu. Ha. Susahlah nak buat ni. Kita ni, ni daripada kita pasang, kita terus nak. Tapi kita, saya pula beritahu, kita tak boleh cakap kat satu dunia ni kita ada plan itu, plan ini semua, tapi kita tak mula pun, tak berani. Kena beranilah, kena buatlah. Kalau ada cita-cita dan kita ada, dan memang tugas kerajaanlah untuk menggerakkan seluruh yang kita ada ke arah itu, kan. Dan akhirnya diti-ditandatanganilah, yang lancarkan Datuk Seri Anwar sendiri, kan. Dia jadi berita besar kan. Semua masa tu senyum-senyum sengihlah. Kan tak keluar kan. Ramai sengih tak tu? Ha tengok ramai sengih kat situ kan. Ha semua sengih kat atas tu. Ada yang siap buat content lepas tu. Ha ada orang buat content, semua lepas itu kan. Ha itu "Made by Malaysia". Sebab saya dok ulang berkali-kali kita kena tukar model kita daripada "Made in Malaysia" kepada "Made by Malaysia". Sama juga, satu lagi pandangan yang yang mungkin dia mengganggu status quo kerajaan sebelum ini dari segi dasarlah kan. Orang tak tahu tahu. Bila FDI datang umum besar itu, besar ini kan, ada FDI-FDI besar tu, kita sebenarnya bagi subsidi kat dia tahu. Ha kalau dia umum 3 bilion, 4 bilion, kerajaan janji, "Kami akan bagi 500 juta." Jadi bayangkan, kita kutip cukai ni daripada orang semua ni, tapi untuk kita bawa masuk FDI tu, kita yang itu kita tak umum. Saya tanya di Parlimen, MITI tak nak jawab. MITI kata itu rahsia negara. Mmm. Tapi bayangkan rakyat biasa tak tahu ni. Kita kalau kita bayar cukai, RM1,000 kita tak bayar, kita kena saman masuk mahkamah tahu. Kumpul-kumpul duit yang kutip ni, sebab kita sayang dekat company ini ataupun multinational corporation ni penting untuk negara. Okelah, you masuk melabur banyak ni, kita bagi duit banyak ini. Campur-campur duit tu berbilion-bilion tahu. Jadi saya daripada awal daripada kita buat rangkakerangka Madani, Ekonomi Madani, kemudian kita buat kajian separuh penggal, Kementerian Ekonomi berkeras kata, kita kena bertukar daripada insentif berbentuk tunai macam itu kepada insentif berbentuk IP. Mmm. Jadi daripada kita belanja bilion-bilion, lepas tu dia datang dia gunakan duit kita, buat kilang dia, kilang itu sediakan pekerjaan bawah, dan dia hanya untuk pasang benda. Baagilah kita gunakan peruntukan kerajaan untuk membawa masuk syarikat yang memindahkan teknologi dan bawa IP tapi orang kita yang buat. Mmm. Ha itu, it's why ARM penting untuk itulah kan. Okay ah, nak tutup cerita nilah. Okay. Dah happy, dah mula semua ni kan, dah jadi berita dunia, semua sengih semua tu kan, saya pun letak jawatan. Jadi bila saya letak jawatan, masa itu ARM sebab baru tanda tangan, dia dia baru buka pejabat dekat TRX kan, dia buka pejabat. Dan kami adalah pasukan yang mewakili kerajaan yang yang menguruskan perjalanan pelaksanaan itu daripada awal, daripada mesyuarat-mesyuarat awal sampailah dia jadi, sampai dia ada kat sini kan. Jadi diterkejutlah. Macam mana ni? Tiba-tiba your whole team tak ada ni. You resign, your pegawai yang memang jadi tenaga penting dalam ini, so kalau you tak ada macam mana? Atas dasar itulah saya ingat mereka menawarkan kepada James untuk menyertai pasukan mereka untuk memastikan ibu pejabat mereka di sini dibuka, operasi mereka dibuka kan. Tapi dalam lepas sebulan lebih James sertai mereka tu, sebab dah mula dengar Cheplos-Cheplos ni buat ceritalah. Oh ini cuci duitlah, semua. James meletak jawatan terus. Jadi tak sampai sebulan pun James dengan ARM. ARM punyalah sedih, hantar mesej saya berkali-kali terkejut semua, tapi saya kata, "It's his decision." Saya tak ada kena-mengena. Saya tak tahu pun contohnya ARM menawarkan kerja to the to James to manage and help their transitioning here. Tapi akhirnya oleh kerana politik-politik bodoh macam itu, dia merugikan negara. Sekarang ni pun dia dah merugikan negara. I mean, kita kita ada seorang yang yang yang ialah yang boleh menyumbang besar macam James yang memang kepakaran dia begitu. Sekarang dia duduk kat UK lah, dia tak baliklah. Kan? Brain drain lah dia tak balik duduk kat UK. Jadi apa kita nak kata sebab dah lah saya dalam 3 tahun lepas saya kena pujuk dia letak jawatan, gaji tinggi untuk berbakti kepada negara. Dia buat kerja siang malam, kita semua bawa masuk ARM semua dan cita-cita kita nak tengok ada chip buatan kita sendiri dalam tempoh 5 tahun. Tapi oleh kerana politik bodoh yang ada dalam negara kita, terutamanya dalam PKR, yang subkontrak kerja-kerja untuk serang saya ni kepada orang-orang yang lompat parti daripada Pejuanglah, daripada PAS semua, akhirnya jadi macam ini. Dan inilah nanti saya akan maklumkan kepada Datuk Seri Anwar. Ya. Hentikan perkara itu, tumpu supaya cita-cita kita untuk ada chip buatan kita sendiri dalam tempoh 5 tahun ini berlangsung. Dan jangan sampai saya bawa kes ini ke mahkamah. Ha, kalau mereka tak mendisiplinkan Cheplos-Cheplos ini, saya akan saman. Cuma saya dengan James sebenarnya, buat masa sebenarnya saman dia orang ni, dia orang ni bukannya ada duit pun. Saman kau setakat nak nak nak apa nama ni melepaskan geram kan? Saman dia semua bankrap. Ah. Dia tak mencapai apa-apa, tetapi akhirnya negara kita akan menjadi berita dunia sekali lagilah. Dan saya tak pasti apa pandangan ARM. Sebab ARM ni dia monopoli tahu. Dia dia akan rasa eh kalau macam ni tak payahlah. Tak payahlah kan. Dan yang dia kata bayar dulu benda tak ada, itu pun tak cerdik, bodoh. Namanya IP. Kan IP. Memanglah IP untuk tempoh 5 tahun dia ada bayaran tahunan dia. Dia release satu design kat kita, kita kena bayarlah. Tapi usaha itu mestilah berada di peringkat kerajaan dan negara Malaysia untuk cepat-cepat mendapatkan syarikat yang boleh menggunakan IP tu. Dan sebelum saya letak jawatan memang dah ada 3-4 syarikat Malaysia dan juga dunia yang nak masuk ke Malaysia. Sebab itu juga hujah kami kepada kerajaan. Daripada kita dok offerkan duit tunai 1.5 bilion ni kan yang membazir duit negara menggunakan duit pembayar cukai, kita sepatutnya menggunakan IP ARM ini untuk menarik syarikat-syarikat besar dari sebab dia tak tentu boleh dapat IP tu sendiri daripada ARM. Malaysia ada IP, kita boleh kata, contohnya satu syarikat kereta EV yang antara paling maju di China yang kereta dia ni bukan BYD punya typelah, kereta dia yang memang self drive, yang besar semua lah kan, yang yang paling banyak menggunakan chip kan, mereka nak buat chip mereka sendiri. Tapi kalau dia terus dengan ARM, mungkin panjanglah. Sebab ARM monopoli. ARM kata buat apa I nak bagi kat you gini. Tapi melalui Malaysia, kita kata, EV you datang Malaysia, melabur kat Malaysia beberapa ratus juta, buka kilang you semua, buka kilang untuk buat chip di sini, dan you boleh masuk program ini kerana you boleh dapat IP token itu. Saya tak tahu apa yang jadilah. Jadi sebab itu sepatutnyalah kerajaan kena tumpu yang itulah. Kami dah dah sediakan semua ni. Janganlah kerana soal politik, benda yang sepenting itu yang boleh melonjakkan Malaysia tiba-tiba dia jadi lawak jenaka antarabangsa seperti inilah. Jadi saya akan hantar nota kepada Datuk Seri Anwar dahulu, tengok macam mana reaksi dia. Amarannya keras? Tak ada lah, saya tak bagi amaran. Kan, saya kalau apa-apa saya buat tindakan, saya letak jawatan je. Tak ada amaran-amaran kan, saya buat terus kan. Tengok apa reaksi, kerana dia kena bagi arahan kepada mereka dalam kerajaan yang mengawal cybertrooper-cybertrooper berbayar ini. Kan, jadi kalau tak ada tindakan apa-apa, saya akan samannlah. Jadi kita tunggulah dos. Cuma saya masih lagi seorang patriot yang saya ingat ini hasil usaha aku dengan kawan-kawan dekat Kementerian Ekonomi dulu ni. Benda ini masih lagi adalah projek besar negara yang boleh mengubah masa depan negara. Kalau saya terikut-ikut dengan perangai mereka, dan kalau Malaysia rugi, dan yalah. Itu sebelum saya sampai ke peringkat itu, biarlah Perdana Menteri dan juga kerajaan ambil tindakan untuk mendisiplinkan dan menguruskan ni. Cheplos-cheplos cybertrooper yang ada. Orang ramai mungkin tak tahu Cheplos ni apa ni? Cheplos ni ialah cybertrooper berbayar PKR. Nama itu diberikan oleh orang PKR sendiri kepada mereka. Dan sebagian besar mereka ini adalah daripada parti-parti lain yang hanya masuk dalam PKR selepas PKR jadi kerajaan. Dan mereka ini yang lebih-lebih. Ha. Itu jawapan dialah. Tapi ada satu soalan, because perbincangan pasal masa isu ni naik, ada persoalan besar yang which is takkanlah cybertrooper-cybertrooper ni dan dia punya apa masterlah. Tak tak perasan yang benda ni akan is a ticking time bomb yang akan sabotaj diri diri dia orang sendiri? Dia tak cerdik, sebab tu nama dia Cheplos. Mmm. Dia tak ada benda lain nak serang YB kot. Dan dan bukan YB tak rasake benda ni dah jadi satu benda yang tenat sangat yang dia orang willing to do apa-apa sahaja untuk attack you? Good luck lah. Najib tried. Tapi tak sedar yang benda ni akan jadi, I mean kalau PKR pun boleh buat benda macam ni, parti-parti lain pun... So forever kita ada Parti lain suka, sebab selalunya kritikan saya itu dia orang tak jawab kerja. So I'm in a sweet spot now. You know, yang orang tak faham kan. No, saya rasa masalahnya, saya tak rasalah yang cybertrooper berbayar ni faham latar belakang ARM ni apa, IP ni apa semua. Maksudnya mereka diberikan maklumat oleh Yalah. Oleh oleh paymaster mereka dan paymaster itu ada access kepada maklumat maklumat kerajaan. Sebab tu saya nak ingatkan Datuk Seri Anwar, ini zaman lain, bukan zaman macam dulu. Dan oleh kerana paymaster mereka ini otaknya pun tak cerdik mana, mereka pun tak terlibat langsung dalam urusan seperti ini, dia tak ambil kira, dia tak buat due diligence yang sebenarnya perkara ini boleh memalu negara sekali lagi. Mmm. Baik. Crystal clear. Kita ke segmen yang lain, sebab ini dah 1 jam 52 minit. Hmm. Ada banyak lagi tak? Ada satu lagi yang keras. Ha. Satu je lagi yang keras, lepas tu kita tutup kawan-kabor. Hahaha. Alhamdulillah. Okay, ringan sikitlah YB. Cuma dia masalah sosial sikit. 31 remaja bawah umur dicekup kerja kilang. Hmm. Apa penyelesaian YB? Saya dan enter terus. Yang ini kesianlah juga kan, sebenarnya. Yalah, maksudnya bawah umur ni bawah 17 tahunlah. Bawah 16 kan? Kita syarat kita 16. Kalau pekerja yang dibenarkan bekerja 16 tahun ke atas. Bersekolah tapi mungkin mereka masih lagi tingkatan 5 lah, sebab ikut undang-undang persekolahan wajib sampai. Tapi mungkin belum dikuatkuasakanlah. So maksudnya sama ada bawah 16 tahun ke apalah. There must be something wrong with our system yang mungkin YB nampak, kami tak nampaklah. For other individuals... Okay, ada masalahnya secara undang-undang, satu, masalah dia ialah kalau dia pakai identiti orang lain itu secara undang-undang dia mungkin dia boleh dikenakan tindakanlah. Mmm. Tapi itulah, ada utamanya kalau yang dah dropout school pun, ada yang part-time semua kan. Ini sebenarnya satu satu perkara yang kami cuba cari penyelesaian dan memang dah ada pilot project pun. Okay. Ada orang tidak bersetujulah bila saya kata kita dan benda itu dah jadi dasar pun dalam RMK13. Yaitu sekolah berakhir pada umur 16 tahun. Okay. Kan, itu satu kan. Kerana sistem pendidikan kita ini pun sepatutnya telah mula diubah secara beransur-ansur untuk mengambil kira bukan sahaja keperluan ekonomi negara dan masyarakat, tetapi juga kecenderungan golongan muda. Mmm. Golongan muda mereka lebih cenderung untuk bekerja lebih awal. Mmm. Tapi sistem pendidikan kita masih lagi kena sekolah sampai tingkatan 5. Tapi mungkin belum dikuatkuasakanlah. So maksudnya sama ada bawah 16 tahun ke apalah. Dan ada yang kata, "Kan kita dah ada TVET? Kan kita dah ada TVET?" Perasan tak TVET tu macam mana? Belajar juga. Belajar juga. Jadi cara kita, sekolah kita, ambil SPM. Oh yang cerdik dapat beasiswa masuk universiti. Gini gini gini gini. Yang tak cerdik, ha kamu pergi Institut Latihan Ambil TVET semualah, konon tak cerdik kan. Mmm. Sebenarnya dia kalau keputusan dia tidak begitu cemerlang semasa SPM, mungkin sebabnya bukanlah sebab dia bodoh ke apa. Mungkin dia memang dah tak minat berada dalam bilik darjah. Yang kita hantar dia 3 tahun lagi dalam bilik darjah tu buat apa? Mmm. Lepas tu dia keluar dengan sijil ke diploma TVET, lepas tu dia nak cari kerja pun payah. Kerja pun susah payah 3 tahun dia kena buat semua tu. Tapi tiba-tiba keluar mungkin tak dapat kerja. Tapi dia tengok kawan-kawan dia yang dah bekerja tu dah ada dah ada wang kan. Jadi benda tu kita tak boleh ubah tahu. Itu adalah fenomena yang dalam masyarakat. Kalau adalah pembuat dasar yang rasa dia boleh ubah semua hanya kerana, "Oh kita nak kena pastikan anak-anak kita semua sampai masuk universiti." Tak ada. Ingat last week aku kata bell curve? Bell curve. Ada ada orang dia di tempat bell curve yang berlainan kan. Macam mana negara lain menangani? Sebab itu kalau tengok Eropahlah 200, 300 tahun yang lepas kan. Macam mana sistem yang ada di Eropah dan di Jepun pun sama juga kan. Macam mana mereka mengimbangi di antara pendidikan formal sekolah dengan tenaga kerja yang mungkin tidak berminat secara akademik tetapi boleh menyumbang dengan besar kepada ekonomi dan masyarakat. Mereka gunakan masa itu dipanggil apprenticeship lah. Sebab tu kalau di di Eropah terutamanya kan, kita ada banyak guilds. Maksudnya guilds lah, bahasa Melayu apa dia? Macam persatuan. Dewanalah. Macam persatuanlah. Persatuan tukang kayu, persatuan tukang besi, persatuan ini, persatuan itu. Jadi budak-budak yang umur 15, 16 tahun ini, dia tak pergi sekolah ke, tak ada TVET ke apa ni. Dia pergi terus bekerja dan mereka dilatih dan daripada itulah bila dia dah ada kemahiran semua di dalam pandai, kemudian dia ambil sijillah. Sistem itu masih lagi ada di Germany sekarang tahu, di di beberapa negara di Eropah. Dia tak sama macam sistem yang ada di Malaysia sekaranglah kan. Jadi em malah contohnya kan, saya catat akauntan kan, akauntan bertauliah. ICAEW kan, sekarang lainlah. ICAEW ni dia kena ada ijazah, banyak yang ada ijazahlah. Kemudian baru ambil. Tapi awal-awal dulu, 100 tahun yang lepas, orang yang jadi chartered accountant ni dia habis umur 15 16, 17 tahun, dia terus pergi kerja dan dia dilatih semasa kerja kemudian dia ambil exam. Mmm. Jadi mengambil kira perkara itulah, mengambil kira bahwa generasi sekarang ini ada kumpulan yang sebenarnya lebih manfaat kepada mereka dan masyarakat kalau dia bekerja dan dia belajar dan disijilkan. Sebenarnya Kementerian Ekonomi dengan KESUMA telah pun ada program iaitu Akademi Dalam Industri. Mmm. Dan saya rasa dah ada dalam 5,6 ribu pelajar yang dalam. Dan mereka bukan pelajar. Maksudnya, apa beza orang kata, "Alah TVET ni kan dah buat. Ni dia nak tunjuk pandailah ni." Adalah Cheplos semua cakap kan. Lain tahu. Sebelum kami masuklah, masa kita nak push Akademi Dalam Industri ni kan, untuk kita perbesarkan kan, Hampir semua program kerajaan yang disebut TVET semua tu ialah program latihan tanpa kerja. Ah. jadi contohnya kalau masuk program TVET, sama ada kau pergi belajar ataupun kau kena latih. Siapa sebenarnya yang kaya bila dilatih tu? Company tulah. Company yang melatih itulah. Lepas tu budak-budak tu kena latih semua dia pun. Tegangah. Kerja tak ada. Jadi kami kata, benda tu tak boleh dah. Yang kita nak kalau kita nak bagi insentif, kita bagi insentif kepada budak itu dan company agar dia terus diambil kerja. Mmm. Dan company itu dia dah ada silibus dia yang boleh diiktiraf setaraf dengan sijil kemahiran Malaysia tahap 1, tahap 2. Dia ajar budak tu, lepas 5,6 bulan, 9 bulan dia kerja dengan kemahiran yang dia ada, didapatlah sijil. Mmm. Tak payah nak pergi ambil periksa semua dalam kelas semua. Yang kayanya, company trainer. Budak-budak lepas tu masih lagi tak dapat kerja. Kan. jadi perkara itu memang dah adalah. Dan sebab itulah, tapi yalah, tidak kesampaian sebab saya tak ada lagikan. Jadi tak ada orang yang nak memekak pasal benda nilah, tak tak boleh dibesar-besarkan. Harapan saya di masa akan datang macam tu. Sekolah kita, sebab tu saya selalu sebut pasal kita ni dah kena mula beransur-ansur ubah. Kita tak boleh ada perangai kita dah ada ni. Ha tanya, "Oh kita dah ada, kita dah ada TVET." Tapi TVET tu macam mana? Kalau TVET tu yang berubahnya hanyalah kandungan sukatan pelajaran, tetapi kaedah dia sama, budak tu dah memang tak nak sekolah dah lepas tingkatan 4. Dia nak kerja. Janganlah paksa dia. Sedangkan kalau dia kerja kan, contohnya kan, gaji minima kita RM1,700. Mmm. Kalau campur overtime, kalau ambil pekerja asing kan, campur nak kena bayar levilah, campur nak kena bayar permit, campur overtime, majikan kena bayar seorang pekerja asing mungkin RM2,000 lebih sebulan. Mmm. Eh daripada bayar RM2,000 lebih sebulan, baik bagi budak-budak ni kerja, terutamanya di kilang-kilang macam elektronik semua, kilang-kilang ni. Cuma kebimbangan majikan ialah budak kita ni cepat-cepat lari. Mmm. Dia kerja cepat lari. Sebab itu kita buat Akademi Dalam Industri, dia kena kerja sekurang-kurangnya 18 bulan. Sebab kita bagi insentif itu untuk dia kerja, kemudian lepas 9 bulan pertama dia dapat sijil. Kemudian lepas 18 bulan dia dapat sijil peringkat kedua, maksudnya SKM 1, SKM 2 kan. Jadi dia rasa seronok. Dia bekerja, dia belajar sambil kerja dan dia melalui pensijilan itu tanpa ambil exam sangat. Lepas 18 bulan, gaji dia RM2,000 sebulan ni. RM1,700 campur allowance RM2,000, RM2,000, RM2,000. Lepas 18 bulan bukan sahaja dia dah ada gaji tiap-tiap bulan, dia dah ada pengalaman kerja, dia juga ada sijil berbanding dengan contoh kita hantar budak-budak ke Institut TVET ambil masa 2 tahun untuk dapat sijil kemahiran. Buat apa? Mmm. ha tapi benda tu saya ingat masih lagi berjalanlah, tapi saya tak pasti bila saya tak ada ni. Sebab kalau saya ada, saya dok ketuk tiap-tiap bulan. Berapa orang yang ini tu semua kan. Dan rancangan kami dulu di Kementerian Ekonomi ialah bila kita dah mula buktikan, sebab begini tahu. Majikan ada yang bagi alasan, "Eh bukan kita tak nak ambil pekerja tempatan. Pekerja tempatan tak nak kerja." Itu sebab saya kita mulakan dan kita besarkan Akademi Dalam Industri kan. Sebab kita nak buktikan sebenarnya pekerja tempatan ada, budak-budak ni nak kerja. Dan memang telah terbukti lepas 6 bulan, maksudnya saya ingat di akhir tahun 2023, jumlah lepasan sekolah yang nak kerja dan nak masuk dalam Akademi Dalam Industri dah 10,000 orang. Mmm. Cuma masa itu barulah, kita tahulah masalahnya sebahagiannya adalah dengan majikan, bukan dengan pelajar. Bukan dengan pekerja tempatan. Kerana majikan lepas tu dia bagi alasan, dia tak nak ambillah, sebab dia lagi selesa dengan pekerja asing sebab pekerja asing tak boleh lari. Pekerja asing sekali permit 3 tahun duduk, senang, tak payah fikir dah. Mmm. sedangkan kalau pekerja tempatan ni, dia kena fikir eh kalau budak ni lari lah, itulah semua. Jadi tapi ada lebih kurang saya ingat 5,000 sekarang di dalam program Akademi Dalam Industri yang kepada majikan kita kata, kita bagi allowance, kita bagi insentif untuk dia ambil, kemudian kalau budak ni selesai 18 bulan dia dapat insentif lagi. Untuk pelajar-pelajar dia dapat insentif tiap-tiap bulan saya ingat 200, 200, 200, 200 semua kan. Dan rancangan kita ialah kalau kita boleh perbesarkan, then satu hari nanti kita boleh buat syarat kepada majikan-majikan, sebelum kamu minta pekerja asing, kamu kena ambil yang ini dulu ni. Ini semua dah ada ni. Budak-budak ni nak kerja. Sebab gajinya RM2,000. RM1,800, RM2,000 semua kan. Jadi tapi perkara itu masalah dalam kerajaan ialah birokrasi lah. Orang akan kata, "Eh ini bukan kerja, kamu siapa Kementerian Ekonomi sibuk-sibuk? Ah ini kerja kami, ah ini ni." Ah pun ampam ampam ampam mesyuarat 6 bulan, 7 bulan, 1 tahun macam tu. Mmm. So, jadi kalau contohnya kita boleh perbesarkan Akademi Dalam Industri atau pun bagilah nama apa pun, tapi kalau kita boleh bawa majikan, sistem pendidikan, semua ni, then perkara ini tak berlakulah. Budak-budak sampai kena tangkap, sebab dari satu sudut, sebenarnya mereka ini budak baiklah. Mmm. Dia bekerja. Kerjalah. Daripada dia jadi mat rempit? Mmm. Banyak lagi yang bermasalah rempit. Dia bekerja ha, sanggup buat part time, sebahagiannya tu dah memang dropout pun dia bekerja kan. Jadi saya tengok jadi saya rasa macam terkilanlah, kerana sebenarnya inilah yang kita nak daripada budak-budak kita. Dia tak memilih, dia kalau dia tahu kecenderungan saya ialah bekerja macam ini, dia buat kerja, dan dia membantu negara, sebab dia buat kerja pekerjaannya tempatan, bukan pekerja asing kan. Tapi sebab kita dasar, program itu tidak dicantumkan dan tidak dirangkumkan, jadi mereka akhirnya kena tangkap. Mmm. Tapi YB, saja saja nak tanya satulah. The concept yang you mention, kata you kerja and training on the job. Mmm. Itu satu konsep yang saya rasa banyak err especially parents lah dekat Malaysia ni, they won't be able to accept. Dia orang masih nak go through that whole process of kena masuk universiti, kena sambung belajar, dapat sijil. Adakah satu mindset shift kena berlaku? Yalah, itu itu tugas kita. Kalau yang dalam politik yang nak kerajaan, tugas kita untuk kita membawa pengetahuan itu kepada ibu bapalah. Dan ini memang Saya ingat 10 tahun lepas. Sekarang tahun berapa? 2025. Oh 15 tahun lepaslah. Masa itu saya masih lagi dipanggil ke sekolah-sekolah untuk bagi bengkel kerjaya kepada budak-budak kan. Jadi saya daripada dulu beritahu, bagi yang nak buat akaun eh, sebenarnya tak payah ambil ijazah. Pergi buat terus ACCA. Buat terus ACCA dalam kalau tambah budak cerdik, 3 tahun dia terus dah qualify dia boleh kerja kan. Jadi ramai yang excited semua ni kan. Masaalah dia apa dia? Ibu bapa. Ini datuk-datuk ni tahu, datuk doktor semua ni kan. Oh dia marah kat akulah. Dia kata, "Ini tidak menjamin masa depan anak sayalah, saya nak anak saya buat ijazah juga." Dia kena masuk universiti juga. Kesian budak tu, budak tu lagi faham daripada bapak dia tahu yang yang datuk-datuk semua ni kan. Jadi memang betul, itu keluarga T20 di Kuala Lumpur. Apatah lagi keluarga B40 di luar bandar semua, mereka tak tahu. Jadi itulah juga sebenarnya fungsi pendidikan. Kita dari segi khidmat kerjaya dan nasihat di sekolah ni memang kuranglah kan. Jadi saya pernah lah kadang-kadang cikgu yang dihantar untuk jadi kaunselor kerjaya, dia pun baru keluar IPG. Dia pun tak pernah tahu, tak pernah jumpa engineer kadang-kadang semua kan. Jadi saya pernah bantu kaunselor-kaunselor macam ini. Jadi dia berterima kasihlah sebab dia, masa itu aku bukan YB lah. Saya masa itu Encik Rafizi. Haha kan. Mmm. Eh bantu. So kan, sebab dia pun tak tahu. Jadi sekolah-sekolah perlu memainkan peranan itu, tambah baik. Orang macam saya, orang yang profesional kat luar tu kena beritahu. Ambil contoh tech kan. Untuk yang jadi software developer semua ni kan. I run a startup. Mmm. I see CV untuk data scientist dengan software engineer hampir everyday semua kan. Eh ingat orang tengok ke ijazah? Mana ada! Orang tak tengok dah ijazah sekarang. Orang tengok sebenarnya dia ada kemahiran apa. Orang tengok dia punya project kat GitHub. And then, you put him into the test. Dia boleh code ke tidak gini gini gini gini. Sama juga contohnya orang yang buat multimedia, you know, people video editor semua. Orang mana peduli pun. Saya pernah ada contohnya dua-three orang pekerja kan. Seorang tu di IKBN, seorang tu yang ijazah. Kadang-kadang yang IKBN tu lagi bagus. Sebab it's very much skill. Dia bukannyalah ijazah semua ni kan. Bukanlah bermakna kita tak bagi budak-budak masuk universiti. Tapi model kerjaya yang hanya ada satu yang dalam masyarakat. Benda tu dah kena berubah. Model kita selama ini ialah ambil SPM kena kredit, kena dapat beasiswa, kena masuk universiti, kalau tidak matilah engkau, gagal engkau. Mana ada, tak adalah budak macam tu kan. So multi-prong solution. Ya, dia sebab tu saya selalu ulang, kita kena ubah yang one single model of success. Dia tak ada. Dia sebenarnya ada budak balik hebat-hebat pun tengok-tengok lepas 20 tahun yang cangkul yang tanam pokok tu lagi berjaya lagi tu semua kan. Jadi kita sebab masyarakat kita cepat menghukum. Mmm. Daripada kecil lagi kita hukum. "Ha kamu kalau tak gini gini gini gini, ha tak elok. Oh kamu kalau tak..." tak boleh. Jadi mereka perlu diajar, there are various ways of the path to success. Dia sama macam politiklah. Politik kita ni sebab tu dia cerminan semua ni dalam masyarakat. Politik dia kena kemas. Bukan, bukan tu saja. Politik ni maksudnya kalau nak naik kena bodek, oh kena bersabar, oh kena tu, oh awak kena tunggu... Mana ada, there are different ways. Asalkan kita tak compromise ta... apa nama ni prinsip kita, harga diri kita. That's to me. Yeah, there are different ways that people should be encouraged to explore. After all, the more pathways, lagilah kreatif dan lagilah meriah dalam negara kita. And creativity is what we need. Jadi kalau kita daripada sekolah lagi, sistem kita tu tidak menggalakkan budak-budak macam itu, then dia macam ni kasihanlah. For all you know, they can become very good machinist. Who knows? Mmm. Saya selalu sebut contohnya Dyson kan. Dyson bukan pergi sekolah, bukan pergi universiti pun. Dia sebenarnya tak ada ijazah ke apa pun Robert Dyson. Tapi dia minat. Dia minat, dia membaca, minat dia buat, dia lukis, lepas tu dia hantar kat orang. Ambil masa 20 tahunlah kan. Tapi dia jadi billionaire lah sekarang. Bukan semua orang boleh jadi macam itu. Tetapi maksudnya, kalau masyarakat kita ini memahami dan menghargai bahawa kanak-kanak, orang muda ni sebenarnya dia ada different pathways in life, yang kita menghukum sangat. Asalkan dia tidak merempit, dia tak ambil dadah. Kalau dia nak kerja lagi bagus, dia nak buat kerja cuci longkang pun baguslah, galakkan. Paling kurang dia hidup dengan bagus, kan? Tapi kita tak ada macam itu. Kita, "Oh nak TVET, nak buat kemahiran. Oh kena pergi kolej. Oh nak tu, oh kena pergi ini." Budak tu memang dah mungkin tak berminat pun nak masuk kelas. Dan akhirnya jadilah perkara-perkara macam ini. Cukuplah dua jam. Baik YB, lebih sikit. Lebih sikit. Ha. Okay YB, terima kasih banyak pada minggu ini. Episod 23. Ya, episod 23. Kita tu jelah kot pada kali ini. Kita jumpa lagi minggu depan, tapi minggu depan banyak, pedas sikit kot. Pedas ke? Ke? Okelah, okelah. Tak pedas sangat, tak terlampau tak pedas. Seimbanglah. Okay, okay, kita jumpa lagi episod ke-24. Tengok siapa lagi yang kata bakar pada episod akan datang. Kita jumpa lagi, selamat malam. Mana ada bakar-bakar sekarang? Ha, tak ada bakar dah. Haha. Dulu yang bakar. Itu jelah kot. Ha, itu jelah kot.
+[3:17:13] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:17:25] Okey. Baik, WB.
+
+[3:17:26] Beria, okey. Yang ni lepaslah beria.
+
+[3:17:28] Okey, alright. WB punya standard takut.
+
+[3:17:30] Tak kan ni dua sendulah.
+
+[3:17:32] Ah, okey.
+
+[3:17:33] Politik.
+
+[3:17:35] MP lompat tanya, apa punca dia lompat?
+
+[3:17:38] Ini soalan 19 November, baru saja.
+
+[3:17:40] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:17:51] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:17:55] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:18:18] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:18:35] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:18:47] Okey. Baik, WB.
+
+[3:18:48] Beria, okey. Yang ni lepaslah beria.
+
+[3:18:50] Okey, alright. WB punya standard takut.
+
+[3:18:52] Tak kan ni dua sendulah.
+
+[3:18:54] Ah, okey.
+
+[3:18:55] Politik.
+
+[3:18:57] MP lompat tanya, apa punca dia lompat?
+
+[3:19:00] Ini soalan 19 November, baru saja.
+
+[3:19:02] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:19:13] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:19:17] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:19:40] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:19:57] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:20:09] Okey. Baik, WB.
+
+[3:20:10] Beria, okey. Yang ni lepaslah beria.
+
+[3:20:12] Okey, alright. WB punya standard takut.
+
+[3:20:14] Tak kan ni dua sendulah.
+
+[3:20:16] Ah, okey.
+
+[3:20:17] Politik.
+
+[3:20:19] MP lompat tanya, apa punca dia lompat?
+
+[3:20:22] Ini soalan 19 November, baru saja.
+
+[3:20:24] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:20:35] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:20:39] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:21:02] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:21:19] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:21:31] Okey. Baik, WB.
+
+[3:21:32] Beria, okey. Yang ni lepaslah beria.
+
+[3:21:34] Okey, alright. WB punya standard takut.
+
+[3:21:36] Tak kan ni dua sendulah.
+
+[3:21:38] Ah, okey.
+
+[3:21:39] Politik.
+
+[3:21:41] MP lompat tanya, apa punca dia lompat?
+
+[3:21:44] Ini soalan 19 November, baru saja.
+
+[3:21:46] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:21:57] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:22:01] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:22:24] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:22:41] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:22:53] Okey. Baik, WB.
+
+[3:22:54] Beria, okey. Yang ni lepaslah beria.
+
+[3:22:56] Okey, alright. WB punya standard takut.
+
+[3:22:58] Tak kan ni dua sendulah.
+
+[3:23:00] Ah, okey.
+
+[3:23:01] Politik.
+
+[3:23:03] MP lompat tanya, apa punca dia lompat?
+
+[3:23:06] Ini soalan 19 November, baru saja.
+
+[3:23:08] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:23:19] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:23:23] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:23:46] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:24:03] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:24:15] Okey. Baik, WB.
+
+[3:24:16] Beria, okey. Yang ni lepaslah beria.
+
+[3:24:18] Okey, alright. WB punya standard takut.
+
+[3:24:20] Tak kan ni dua sendulah.
+
+[3:24:22] Ah, okey.
+
+[3:24:23] Politik.
+
+[3:24:25] MP lompat tanya, apa punca dia lompat?
+
+[3:24:28] Ini soalan 19 November, baru saja.
+
+[3:24:30] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:24:41] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:24:45] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:25:08] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:25:25] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:25:37] Okey. Baik, WB.
+
+[3:25:38] Beria, okey. Yang ni lepaslah beria.
+
+[3:25:40] Okey, alright. WB punya standard takut.
+
+[3:25:42] Tak kan ni dua sendulah.
+
+[3:25:44] Ah, okey.
+
+[3:25:45] Politik.
+
+[3:25:47] MP lompat tanya, apa punca dia lompat?
+
+[3:25:50] Ini soalan 19 November, baru saja.
+
+[3:25:52] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:26:03] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:26:07] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:26:30] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:26:47] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:26:59] Okey. Baik, WB.
+
+[3:27:00] Beria, okey. Yang ni lepaslah beria.
+
+[3:27:02] Okey, alright. WB punya standard takut.
+
+[3:27:04] Tak kan ni dua sendulah.
+
+[3:27:06] Ah, okey.
+
+[3:27:07] Politik.
+
+[3:27:09] MP lompat tanya, apa punca dia lompat?
+
+[3:27:12] Ini soalan 19 November, baru saja.
+
+[3:27:14] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:27:25] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:27:29] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:27:52] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:28:09] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:28:21] Okey. Baik, WB.
+
+[3:28:22] Beria, okey. Yang ni lepaslah beria.
+
+[3:28:24] Okey, alright. WB punya standard takut.
+
+[3:28:26] Tak kan ni dua sendulah.
+
+[3:28:28] Ah, okey.
+
+[3:28:29] Politik.
+
+[3:28:31] MP lompat tanya, apa punca dia lompat?
+
+[3:28:34] Ini soalan 19 November, baru saja.
+
+[3:28:36] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:28:47] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:28:51] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:29:14] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:29:31] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:29:43] Okey. Baik, WB.
+
+[3:29:44] Beria, okey. Yang ni lepaslah beria.
+
+[3:29:46] Okey, alright. WB punya standard takut.
+
+[3:29:48] Tak kan ni dua sendulah.
+
+[3:29:50] Ah, okey.
+
+[3:29:51] Politik.
+
+[3:29:53] MP lompat tanya, apa punca dia lompat?
+
+[3:29:56] Ini soalan 19 November, baru saja.
+
+[3:29:58] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:30:09] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:30:13] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:30:36] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:30:53] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:31:05] Okey. Baik, WB.
+
+[3:31:06] Beria, okey. Yang ni lepaslah beria.
+
+[3:31:08] Okey, alright. WB punya standard takut.
+
+[3:31:10] Tak kan ni dua sendulah.
+
+[3:31:12] Ah, okey.
+
+[3:31:13] Politik.
+
+[3:31:15] MP lompat tanya, apa punca dia lompat?
+
+[3:31:18] Ini soalan 19 November, baru saja.
+
+[3:31:20] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:31:31] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:31:35] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:31:58] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:32:15] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:32:27] Okey. Baik, WB.
+
+[3:32:28] Beria, okey. Yang ni lepaslah beria.
+
+[3:32:30] Okey, alright. WB punya standard takut.
+
+[3:32:32] Tak kan ni dua sendulah.
+
+[3:32:34] Ah, okey.
+
+[3:32:35] Politik.
+
+[3:32:37] MP lompat tanya, apa punca dia lompat?
+
+[3:32:40] Ini soalan 19 November, baru saja.
+
+[3:32:42] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:32:53] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:32:57] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:33:20] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:33:37] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:33:49] Okey. Baik, WB.
+
+[3:33:50] Beria, okey. Yang ni lepaslah beria.
+
+[3:33:52] Okey, alright. WB punya standard takut.
+
+[3:33:54] Tak kan ni dua sendulah.
+
+[3:33:56] Ah, okey.
+
+[3:33:57] Politik.
+
+[3:33:59] MP lompat tanya, apa punca dia lompat?
+
+[3:34:02] Ini soalan 19 November, baru saja.
+
+[3:34:04] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:34:15] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:34:19] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:34:42] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:34:59] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:35:11] Okey. Baik, WB.
+
+[3:35:12] Beria, okey. Yang ni lepaslah beria.
+
+[3:35:14] Okey, alright. WB punya standard takut.
+
+[3:35:16] Tak kan ni dua sendulah.
+
+[3:35:18] Ah, okey.
+
+[3:35:19] Politik.
+
+[3:35:21] MP lompat tanya, apa punca dia lompat?
+
+[3:35:24] Ini soalan 19 November, baru saja.
+
+[3:35:26] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:35:37] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:35:41] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:36:04] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:36:21] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:36:33] Okey. Baik, WB.
+
+[3:36:34] Beria, okey. Yang ni lepaslah beria.
+
+[3:36:36] Okey, alright. WB punya standard takut.
+
+[3:36:38] Tak kan ni dua sendulah.
+
+[3:36:40] Ah, okey.
+
+[3:36:41] Politik.
+
+[3:36:43] MP lompat tanya, apa punca dia lompat?
+
+[3:36:46] Ini soalan 19 November, baru saja.
+
+[3:36:48] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:36:59] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:37:03] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:37:26] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:37:43] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:37:55] Okey. Baik, WB.
+
+[3:37:56] Beria, okey. Yang ni lepaslah beria.
+
+[3:37:58] Okey, alright. WB punya standard takut.
+
+[3:38:00] Tak kan ni dua sendulah.
+
+[3:38:02] Ah, okey.
+
+[3:38:03] Politik.
+
+[3:38:05] MP lompat tanya, apa punca dia lompat?
+
+[3:38:08] Ini soalan 19 November, baru saja.
+
+[3:38:10] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:38:21] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:38:25] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:38:48] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:39:05] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:39:17] Okey. Baik, WB.
+
+[3:39:18] Beria, okey. Yang ni lepaslah beria.
+
+[3:39:20] Okey, alright. WB punya standard takut.
+
+[3:39:22] Tak kan ni dua sendulah.
+
+[3:39:24] Ah, okey.
+
+[3:39:25] Politik.
+
+[3:39:27] MP lompat tanya, apa punca dia lompat?
+
+[3:39:30] Ini soalan 19 November, baru saja.
+
+[3:39:32] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:39:43] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:39:47] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:40:10] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:40:27] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:40:39] Okey. Baik, WB.
+
+[3:40:40] Beria, okey. Yang ni lepaslah beria.
+
+[3:40:42] Okey, alright. WB punya standard takut.
+
+[3:40:44] Tak kan ni dua sendulah.
+
+[3:40:46] Ah, okey.
+
+[3:40:47] Politik.
+
+[3:40:49] MP lompat tanya, apa punca dia lompat?
+
+[3:40:52] Ini soalan 19 November, baru saja.
+
+[3:40:54] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:41:05] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:41:09] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:41:32] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:41:49] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:42:01] Okey. Baik, WB.
+
+[3:42:02] Beria, okey. Yang ni lepaslah beria.
+
+[3:42:04] Okey, alright. WB punya standard takut.
+
+[3:42:06] Tak kan ni dua sendulah.
+
+[3:42:08] Ah, okey.
+
+[3:42:09] Politik.
+
+[3:42:11] MP lompat tanya, apa punca dia lompat?
+
+[3:42:14] Ini soalan 19 November, baru saja.
+
+[3:42:16] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:42:27] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:42:31] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:42:54] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:43:11] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:43:23] Okey. Baik, WB.
+
+[3:43:24] Beria, okey. Yang ni lepaslah beria.
+
+[3:43:26] Okey, alright. WB punya standard takut.
+
+[3:43:28] Tak kan ni dua sendulah.
+
+[3:43:30] Ah, okey.
+
+[3:43:31] Politik.
+
+[3:43:33] MP lompat tanya, apa punca dia lompat?
+
+[3:43:36] Ini soalan 19 November, baru saja.
+
+[3:43:38] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:43:49] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:43:53] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:44:16] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:44:33] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:44:45] Okey. Baik, WB.
+
+[3:44:46] Beria, okey. Yang ni lepaslah beria.
+
+[3:44:48] Okey, alright. WB punya standard takut.
+
+[3:44:50] Tak kan ni dua sendulah.
+
+[3:44:52] Ah, okey.
+
+[3:44:53] Politik.
+
+[3:44:55] MP lompat tanya, apa punca dia lompat?
+
+[3:44:58] Ini soalan 19 November, baru saja.
+
+[3:45:00] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:45:11] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:45:15] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:45:38] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:45:55] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:46:07] Okey. Baik, WB.
+
+[3:46:08] Beria, okey. Yang ni lepaslah beria.
+
+[3:46:10] Okey, alright. WB punya standard takut.
+
+[3:46:12] Tak kan ni dua sendulah.
+
+[3:46:14] Ah, okey.
+
+[3:46:15] Politik.
+
+[3:46:17] MP lompat tanya, apa punca dia lompat?
+
+[3:46:20] Ini soalan 19 November, baru saja.
+
+[3:46:22] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:46:33] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:46:37] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:47:00] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:47:17] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:47:29] Okey. Baik, WB.
+
+[3:47:30] Beria, okey. Yang ni lepaslah beria.
+
+[3:47:32] Okey, alright. WB punya standard takut.
+
+[3:47:34] Tak kan ni dua sendulah.
+
+[3:47:36] Ah, okey.
+
+[3:47:37] Politik.
+
+[3:47:39] MP lompat tanya, apa punca dia lompat?
+
+[3:47:42] Ini soalan 19 November, baru saja.
+
+[3:47:44] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:47:55] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:47:59] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:48:22] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:48:39] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:48:51] Okey. Baik, WB.
+
+[3:48:52] Beria, okey. Yang ni lepaslah beria.
+
+[3:48:54] Okey, alright. WB punya standard takut.
+
+[3:48:56] Tak kan ni dua sendulah.
+
+[3:48:58] Ah, okey.
+
+[3:48:59] Politik.
+
+[3:49:01] MP lompat tanya, apa punca dia lompat?
+
+[3:49:04] Ini soalan 19 November, baru saja.
+
+[3:49:06] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:49:17] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:49:21] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:49:44] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:50:01] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:50:13] Okey. Baik, WB.
+
+[3:50:14] Beria, okey. Yang ni lepaslah beria.
+
+[3:50:16] Okey, alright. WB punya standard takut.
+
+[3:50:18] Tak kan ni dua sendulah.
+
+[3:50:20] Ah, okey.
+
+[3:50:21] Politik.
+
+[3:50:23] MP lompat tanya, apa punca dia lompat?
+
+[3:50:26] Ini soalan 19 November, baru saja.
+
+[3:50:28] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:50:39] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:50:43] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:51:06] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:51:23] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:51:35] Okey. Baik, WB.
+
+[3:51:36] Beria, okey. Yang ni lepaslah beria.
+
+[3:51:38] Okey, alright. WB punya standard takut.
+
+[3:51:40] Tak kan ni dua sendulah.
+
+[3:51:42] Ah, okey.
+
+[3:51:43] Politik.
+
+[3:51:45] MP lompat tanya, apa punca dia lompat?
+
+[3:51:48] Ini soalan 19 November, baru saja.
+
+[3:51:50] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:52:01] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:52:05] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:52:28] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:52:45] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:52:57] Okey. Baik, WB.
+
+[3:52:58] Beria, okey. Yang ni lepaslah beria.
+
+[3:53:00] Okey, alright. WB punya standard takut.
+
+[3:53:02] Tak kan ni dua sendulah.
+
+[3:53:04] Ah, okey.
+
+[3:53:05] Politik.
+
+[3:53:07] MP lompat tanya, apa punca dia lompat?
+
+[3:53:10] Ini soalan 19 November, baru saja.
+
+[3:53:12] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:53:23] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:53:27] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:53:50] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:54:07] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:54:19] Okey. Baik, WB.
+
+[3:54:20] Beria, okey. Yang ni lepaslah beria.
+
+[3:54:22] Okey, alright. WB punya standard takut.
+
+[3:54:24] Tak kan ni dua sendulah.
+
+[3:54:26] Ah, okey.
+
+[3:54:27] Politik.
+
+[3:54:29] MP lompat tanya, apa punca dia lompat?
+
+[3:54:32] Ini soalan 19 November, baru saja.
+
+[3:54:34] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:54:45] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:54:49] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:55:12] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:55:29] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:55:41] Okey. Baik, WB.
+
+[3:55:42] Beria, okey. Yang ni lepaslah beria.
+
+[3:55:44] Okey, alright. WB punya standard takut.
+
+[3:55:46] Tak kan ni dua sendulah.
+
+[3:55:48] Ah, okey.
+
+[3:55:49] Politik.
+
+[3:55:51] MP lompat tanya, apa punca dia lompat?
+
+[3:55:54] Ini soalan 19 November, baru saja.
+
+[3:55:56] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:56:07] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:56:11] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:56:34] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:56:51] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:57:03] Okey. Baik, WB.
+
+[3:57:04] Beria, okey. Yang ni lepaslah beria.
+
+[3:57:06] Okey, alright. WB punya standard takut.
+
+[3:57:08] Tak kan ni dua sendulah.
+
+[3:57:10] Ah, okey.
+
+[3:57:11] Politik.
+
+[3:57:13] MP lompat tanya, apa punca dia lompat?
+
+[3:57:16] Ini soalan 19 November, baru saja.
+
+[3:57:18] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:57:29] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:57:33] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRN yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:57:56] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:58:13] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[3:58:25] Okey. Baik, WB.
+
+[3:58:26] Beria, okey. Yang ni lepaslah beria.
+
+[3:58:28] Okey, alright. WB punya standard takut.
+
+[3:58:30] Tak kan ni dua sendulah.
+
+[3:58:32] Ah, okey.
+
+[3:58:33] Politik.
+
+[3:58:35] MP lompat tanya, apa punca dia lompat?
+
+[3:58:38] Ini soalan 19 November, baru saja.
+
+[3:58:40] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[3:58:51] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[3:58:55] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[3:59:18] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[3:59:35] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[39:47] Okey. Baik, WB.
+
+[39:48] Beria, okey. Yang ni lepaslah beria.
+
+[39:50] Okey, alright. WB punya standard takut.
+
+[39:52] Tak kan ni dua sendulah.
+
+[39:54] Ah, okey.
+
+[39:55] Politik.
+
+[39:57] MP lompat tanya, apa punca dia lompat?
+
+[39:59] Ini soalan 19 November, baru saja.
+
+[40:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[40:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[40:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[40:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[40:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[41:08] Okey. Baik, WB.
+
+[41:09] Beria, okey. Yang ni lepaslah beria.
+
+[41:11] Okey, alright. WB punya standard takut.
+
+[41:13] Tak kan ni dua sendulah.
+
+[41:15] Ah, okey.
+
+[41:16] Politik.
+
+[41:18] MP lompat tanya, apa punca dia lompat?
+
+[41:21] Ini soalan 19 November, baru saja.
+
+[41:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[41:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[41:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[42:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[42:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[42:30] Okey. Baik, WB.
+
+[42:31] Beria, okey. Yang ni lepaslah beria.
+
+[42:33] Okey, alright. WB punya standard takut.
+
+[42:35] Tak kan ni dua sendulah.
+
+[42:37] Ah, okey.
+
+[42:38] Politik.
+
+[42:40] MP lompat tanya, apa punca dia lompat?
+
+[42:43] Ini soalan 19 November, baru saja.
+
+[42:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[42:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[43:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[43:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[43:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[43:52] Okey. Baik, WB.
+
+[43:53] Beria, okey. Yang ni lepaslah beria.
+
+[43:55] Okey, alright. WB punya standard takut.
+
+[43:57] Tak kan ni dua sendulah.
+
+[43:59] Ah, okey.
+
+[44:00] Politik.
+
+[44:02] MP lompat tanya, apa punca dia lompat?
+
+[44:05] Ini soalan 19 November, baru saja.
+
+[44:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[44:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[44:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[44:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[45:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[45:14] Okey. Baik, WB.
+
+[45:15] Beria, okey. Yang ni lepaslah beria.
+
+[45:17] Okey, alright. WB punya standard takut.
+
+[45:19] Tak kan ni dua sendulah.
+
+[45:21] Ah, okey.
+
+[45:22] Politik.
+
+[45:24] MP lompat tanya, apa punca dia lompat?
+
+[45:27] Ini soalan 19 November, baru saja.
+
+[45:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[45:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[45:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[46:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[46:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[46:36] Okey. Baik, WB.
+
+[46:37] Beria, okey. Yang ni lepaslah beria.
+
+[46:39] Okey, alright. WB punya standard takut.
+
+[46:41] Tak kan ni dua sendulah.
+
+[46:43] Ah, okey.
+
+[46:44] Politik.
+
+[46:46] MP lompat tanya, apa punca dia lompat?
+
+[46:49] Ini soalan 19 November, baru saja.
+
+[46:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[47:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[47:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[47:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[47:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[47:58] Okey. Baik, WB.
+
+[47:59] Beria, okey. Yang ni lepaslah beria.
+
+[48:01] Okey, alright. WB punya standard takut.
+
+[48:03] Tak kan ni dua sendulah.
+
+[48:05] Ah, okey.
+
+[48:06] Politik.
+
+[48:08] MP lompat tanya, apa punca dia lompat?
+
+[48:11] Ini soalan 19 November, baru saja.
+
+[48:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[48:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[48:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[48:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[49:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[49:20] Okey. Baik, WB.
+
+[49:21] Beria, okey. Yang ni lepaslah beria.
+
+[49:23] Okey, alright. WB punya standard takut.
+
+[49:25] Tak kan ni dua sendulah.
+
+[49:27] Ah, okey.
+
+[49:28] Politik.
+
+[49:30] MP lompat tanya, apa punca dia lompat?
+
+[49:33] Ini soalan 19 November, baru saja.
+
+[49:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[49:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[49:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[50:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[50:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[50:42] Okey. Baik, WB.
+
+[50:43] Beria, okey. Yang ni lepaslah beria.
+
+[50:45] Okey, alright. WB punya standard takut.
+
+[50:47] Tak kan ni dua sendulah.
+
+[50:49] Ah, okey.
+
+[50:50] Politik.
+
+[50:52] MP lompat tanya, apa punca dia lompat?
+
+[50:55] Ini soalan 19 November, baru saja.
+
+[50:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[51:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[51:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[51:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[51:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[52:04] Okey. Baik, WB.
+
+[52:05] Beria, okey. Yang ni lepaslah beria.
+
+[52:07] Okey, alright. WB punya standard takut.
+
+[52:09] Tak kan ni dua sendulah.
+
+[52:11] Ah, okey.
+
+[52:12] Politik.
+
+[52:14] MP lompat tanya, apa punca dia lompat?
+
+[52:17] Ini soalan 19 November, baru saja.
+
+[52:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[52:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[52:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[52:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[53:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[53:26] Okey. Baik, WB.
+
+[53:27] Beria, okey. Yang ni lepaslah beria.
+
+[53:29] Okey, alright. WB punya standard takut.
+
+[53:31] Tak kan ni dua sendulah.
+
+[53:33] Ah, okey.
+
+[53:34] Politik.
+
+[53:36] MP lompat tanya, apa punca dia lompat?
+
+[53:39] Ini soalan 19 November, baru saja.
+
+[53:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[53:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[53:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[54:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[54:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[54:48] Okey. Baik, WB.
+
+[54:49] Beria, okey. Yang ni lepaslah beria.
+
+[54:51] Okey, alright. WB punya standard takut.
+
+[54:53] Tak kan ni dua sendulah.
+
+[54:55] Ah, okey.
+
+[54:56] Politik.
+
+[54:58] MP lompat tanya, apa punca dia lompat?
+
+[55:01] Ini soalan 19 November, baru saja.
+
+[55:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[55:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[55:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[55:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[55:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[56:10] Okey. Baik, WB.
+
+[56:11] Beria, okey. Yang ni lepaslah beria.
+
+[56:13] Okey, alright. WB punya standard takut.
+
+[56:15] Tak kan ni dua sendulah.
+
+[56:17] Ah, okey.
+
+[56:18] Politik.
+
+[56:20] MP lompat tanya, apa punca dia lompat?
+
+[56:23] Ini soalan 19 November, baru saja.
+
+[56:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[56:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[56:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[57:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[57:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[57:32] Okey. Baik, WB.
+
+[57:33] Beria, okey. Yang ni lepaslah beria.
+
+[57:35] Okey, alright. WB punya standard takut.
+
+[57:37] Tak kan ni dua sendulah.
+
+[57:39] Ah, okey.
+
+[57:40] Politik.
+
+[57:42] MP lompat tanya, apa punca dia lompat?
+
+[57:45] Ini soalan 19 November, baru saja.
+
+[57:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[57:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[58:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[58:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[58:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[58:54] Okey. Baik, WB.
+
+[58:55] Beria, okey. Yang ni lepaslah beria.
+
+[58:57] Okey, alright. WB punya standard takut.
+
+[58:59] Tak kan ni dua sendulah.
+
+[59:01] Ah, okey.
+
+[59:02] Politik.
+
+[59:04] MP lompat tanya, apa punca dia lompat?
+
+[59:07] Ini soalan 19 November, baru saja.
+
+[59:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[59:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[59:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[59:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:00:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:00:16] Okey. Baik, WB.
+
+[1:00:17] Beria, okey. Yang ni lepaslah beria.
+
+[1:00:19] Okey, alright. WB punya standard takut.
+
+[1:00:21] Tak kan ni dua sendulah.
+
+[1:00:23] Ah, okey.
+
+[1:00:24] Politik.
+
+[1:00:26] MP lompat tanya, apa punca dia lompat?
+
+[1:00:29] Ini soalan 19 November, baru saja.
+
+[1:00:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:00:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:00:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:01:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:01:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:01:38] Okey. Baik, WB.
+
+[1:01:39] Beria, okey. Yang ni lepaslah beria.
+
+[1:01:41] Okey, alright. WB punya standard takut.
+
+[1:01:43] Tak kan ni dua sendulah.
+
+[1:01:45] Ah, okey.
+
+[1:01:46] Politik.
+
+[1:01:48] MP lompat tanya, apa punca dia lompat?
+
+[1:01:51] Ini soalan 19 November, baru saja.
+
+[1:01:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:02:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:02:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:02:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:02:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:03:00] Okey. Baik, WB.
+
+[1:03:01] Beria, okey. Yang ni lepaslah beria.
+
+[1:03:03] Okey, alright. WB punya standard takut.
+
+[1:03:05] Tak kan ni dua sendulah.
+
+[1:03:07] Ah, okey.
+
+[1:03:08] Politik.
+
+[1:03:10] MP lompat tanya, apa punca dia lompat?
+
+[1:03:13] Ini soalan 19 November, baru saja.
+
+[1:03:15] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:03:26] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:03:30] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:03:53] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:04:10] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:04:22] Okey. Baik, WB.
+
+[1:04:23] Beria, okey. Yang ni lepaslah beria.
+
+[1:04:25] Okey, alright. WB punya standard takut.
+
+[1:04:27] Tak kan ni dua sendulah.
+
+[1:04:29] Ah, okey.
+
+[1:04:30] Politik.
+
+[1:04:32] MP lompat tanya, apa punca dia lompat?
+
+[1:04:35] Ini soalan 19 November, baru saja.
+
+[1:04:37] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:04:48] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:04:52] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:05:15] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:05:32] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:05:44] Okey. Baik, WB.
+
+[1:05:45] Beria, okey. Yang ni lepaslah beria.
+
+[1:05:47] Okey, alright. WB punya standard takut.
+
+[1:05:49] Tak kan ni dua sendulah.
+
+[1:05:51] Ah, okey.
+
+[1:05:52] Politik.
+
+[1:05:54] MP lompat tanya, apa punca dia lompat?
+
+[1:05:57] Ini soalan 19 November, baru saja.
+
+[1:05:59] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:06:10] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:06:14] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:06:37] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:06:54] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:07:06] Okey. Baik, WB.
+
+[1:07:07] Beria, okey. Yang ni lepaslah beria.
+
+[1:07:09] Okey, alright. WB punya standard takut.
+
+[1:07:11] Tak kan ni dua sendulah.
+
+[1:07:13] Ah, okey.
+
+[1:07:14] Politik.
+
+[1:07:16] MP lompat tanya, apa punca dia lompat?
+
+[1:07:19] Ini soalan 19 November, baru saja.
+
+[1:07:21] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:07:32] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:07:36] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:07:59] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:08:16] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:08:28] Okey. Baik, WB.
+
+[1:08:29] Beria, okey. Yang ni lepaslah beria.
+
+[1:08:31] Okey, alright. WB punya standard takut.
+
+[1:08:33] Tak kan ni dua sendulah.
+
+[1:08:35] Ah, okey.
+
+[1:08:36] Politik.
+
+[1:08:38] MP lompat tanya, apa punca dia lompat?
+
+[1:08:41] Ini soalan 19 November, baru saja.
+
+[1:08:43] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:08:54] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:08:58] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:09:21] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:09:38] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:09:50] Okey. Baik, WB.
+
+[1:09:51] Beria, okey. Yang ni lepaslah beria.
+
+[1:09:53] Okey, alright. WB punya standard takut.
+
+[1:09:55] Tak kan ni dua sendulah.
+
+[1:09:57] Ah, okey.
+
+[1:09:58] Politik.
+
+[1:10:00] MP lompat tanya, apa punca dia lompat?
+
+[1:10:03] Ini soalan 19 November, baru saja.
+
+[1:10:05] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:10:16] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:10:20] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:10:43] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:11:00] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:11:12] Okey. Baik, WB.
+
+[1:11:13] Beria, okey. Yang ni lepaslah beria.
+
+[1:11:15] Okey, alright. WB punya standard takut.
+
+[1:11:17] Tak kan ni dua sendulah.
+
+[1:11:19] Ah, okey.
+
+[1:11:20] Politik.
+
+[1:11:22] MP lompat tanya, apa punca dia lompat?
+
+[1:11:25] Ini soalan 19 November, baru saja.
+
+[1:11:27] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:11:38] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:11:42] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:12:05] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:12:22] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:12:34] Okey. Baik, WB.
+
+[1:12:35] Beria, okey. Yang ni lepaslah beria.
+
+[1:12:37] Okey, alright. WB punya standard takut.
+
+[1:12:39] Tak kan ni dua sendulah.
+
+[1:12:41] Ah, okey.
+
+[1:12:42] Politik.
+
+[1:12:44] MP lompat tanya, apa punca dia lompat?
+
+[1:12:47] Ini soalan 19 November, baru saja.
+
+[1:12:49] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:13:00] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:13:04] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:13:27] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:13:44] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:13:56] Okey. Baik, WB.
+
+[1:13:57] Beria, okey. Yang ni lepaslah beria.
+
+[1:13:59] Okey, alright. WB punya standard takut.
+
+[1:14:01] Tak kan ni dua sendulah.
+
+[1:14:03] Ah, okey.
+
+[1:14:04] Politik.
+
+[1:14:06] MP lompat tanya, apa punca dia lompat?
+
+[1:14:09] Ini soalan 19 November, baru saja.
+
+[1:14:11] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:14:22] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:14:26] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:14:49] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:15:06] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:15:18] Okey. Baik, WB.
+
+[1:15:19] Beria, okey. Yang ni lepaslah beria.
+
+[1:15:21] Okey, alright. WB punya standard takut.
+
+[1:15:23] Tak kan ni dua sendulah.
+
+[1:15:25] Ah, okey.
+
+[1:15:26] Politik.
+
+[1:15:28] MP lompat tanya, apa punca dia lompat?
+
+[1:15:31] Ini soalan 19 November, baru saja.
+
+[1:15:33] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:15:44] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:15:48] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:16:11] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:16:28] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:16:40] Okey. Baik, WB.
+
+[1:16:41] Beria, okey. Yang ni lepaslah beria.
+
+[1:16:43] Okey, alright. WB punya standard takut.
+
+[1:16:45] Tak kan ni dua sendulah.
+
+[1:16:47] Ah, okey.
+
+[1:16:48] Politik.
+
+[1:16:50] MP lompat tanya, apa punca dia lompat?
+
+[1:16:53] Ini soalan 19 November, baru saja.
+
+[1:16:55] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:17:06] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:17:10] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:17:33] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:17:50] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:18:02] Okey. Baik, WB.
+
+[1:18:03] Beria, okey. Yang ni lepaslah beria.
+
+[1:18:05] Okey, alright. WB punya standard takut.
+
+[1:18:07] Tak kan ni dua sendulah.
+
+[1:18:09] Ah, okey.
+
+[1:18:10] Politik.
+
+[1:18:12] MP lompat tanya, apa punca dia lompat?
+
+[1:18:15] Ini soalan 19 November, baru saja.
+
+[1:18:17] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:18:28] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:18:32] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:18:55] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:19:12] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:19:24] Okey. Baik, WB.
+
+[1:19:25] Beria, okey. Yang ni lepaslah beria.
+
+[1:19:27] Okey, alright. WB punya standard takut.
+
+[1:19:29] Tak kan ni dua sendulah.
+
+[1:19:31] Ah, okey.
+
+[1:19:32] Politik.
+
+[1:19:34] MP lompat tanya, apa punca dia lompat?
+
+[1:19:37] Ini soalan 19 November, baru saja.
+
+[1:19:39] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:19:50] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:19:54] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:20:17] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:20:34] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:20:46] Okey. Baik, WB.
+
+[1:20:47] Beria, okey. Yang ni lepaslah beria.
+
+[1:20:49] Okey, alright. WB punya standard takut.
+
+[1:20:51] Tak kan ni dua sendulah.
+
+[1:20:53] Ah, okey.
+
+[1:20:54] Politik.
+
+[1:20:56] MP lompat tanya, apa punca dia lompat?
+
+[1:20:59] Ini soalan 19 November, baru saja.
+
+[1:21:01] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:21:12] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:21:16] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:21:39] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:21:56] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:22:08] Okey. Baik, WB.
+
+[1:22:09] Beria, okey. Yang ni lepaslah beria.
+
+[1:22:11] Okey, alright. WB punya standard takut.
+
+[1:22:13] Tak kan ni dua sendulah.
+
+[1:22:15] Ah, okey.
+
+[1:22:16] Politik.
+
+[1:22:18] MP lompat tanya, apa punca dia lompat?
+
+[1:22:21] Ini soalan 19 November, baru saja.
+
+[1:22:23] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:22:34] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:22:38] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:23:01] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:23:18] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:23:30] Okey. Baik, WB.
+
+[1:23:31] Beria, okey. Yang ni lepaslah beria.
+
+[1:23:33] Okey, alright. WB punya standard takut.
+
+[1:23:35] Tak kan ni dua sendulah.
+
+[1:23:37] Ah, okey.
+
+[1:23:38] Politik.
+
+[1:23:40] MP lompat tanya, apa punca dia lompat?
+
+[1:23:43] Ini soalan 19 November, baru saja.
+
+[1:23:45] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:23:56] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:24:00] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:24:23] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:24:40] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:24:52] Okey. Baik, WB.
+
+[1:24:53] Beria, okey. Yang ni lepaslah beria.
+
+[1:24:55] Okey, alright. WB punya standard takut.
+
+[1:24:57] Tak kan ni dua sendulah.
+
+[1:24:59] Ah, okey.
+
+[1:25:00] Politik.
+
+[1:25:02] MP lompat tanya, apa punca dia lompat?
+
+[1:25:05] Ini soalan 19 November, baru saja.
+
+[1:25:07] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:25:18] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:25:22] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:25:45] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:26:02] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:26:14] Okey. Baik, WB.
+
+[1:26:15] Beria, okey. Yang ni lepaslah beria.
+
+[1:26:17] Okey, alright. WB punya standard takut.
+
+[1:26:19] Tak kan ni dua sendulah.
+
+[1:26:21] Ah, okey.
+
+[1:26:22] Politik.
+
+[1:26:24] MP lompat tanya, apa punca dia lompat?
+
+[1:26:27] Ini soalan 19 November, baru saja.
+
+[1:26:29] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:26:40] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:26:44] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:27:07] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:27:24] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:27:36] Okey. Baik, WB.
+
+[1:27:37] Beria, okey. Yang ni lepaslah beria.
+
+[1:27:39] Okey, alright. WB punya standard takut.
+
+[1:27:41] Tak kan ni dua sendulah.
+
+[1:27:43] Ah, okey.
+
+[1:27:44] Politik.
+
+[1:27:46] MP lompat tanya, apa punca dia lompat?
+
+[1:27:49] Ini soalan 19 November, baru saja.
+
+[1:27:51] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:28:02] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:28:06] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:28:29] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:28:46] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:28:58] Okey. Baik, WB.
+
+[1:28:59] Beria, okey. Yang ni lepaslah beria.
+
+[1:29:01] Okey, alright. WB punya standard takut.
+
+[1:29:03] Tak kan ni dua sendulah.
+
+[1:29:05] Ah, okey.
+
+[1:29:06] Politik.
+
+[1:29:08] MP lompat tanya, apa punca dia lompat?
+
+[1:29:11] Ini soalan 19 November, baru saja.
+
+[1:29:13] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:29:24] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:29:28] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:29:51] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:30:08] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:30:20] Okey. Baik, WB.
+
+[1:30:21] Beria, okey. Yang ni lepaslah beria.
+
+[1:30:23] Okey, alright. WB punya standard takut.
+
+[1:30:25] Tak kan ni dua sendulah.
+
+[1:30:27] Ah, okey.
+
+[1:30:28] Politik.
+
+[1:30:30] MP lompat tanya, apa punca dia lompat?
+
+[1:30:33] Ini soalan 19 November, baru saja.
+
+[1:30:35] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:30:46] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:30:50] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:31:13] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:31:30] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:31:42] Okey. Baik, WB.
+
+[1:31:43] Beria, okey. Yang ni lepaslah beria.
+
+[1:31:45] Okey, alright. WB punya standard takut.
+
+[1:31:47] Tak kan ni dua sendulah.
+
+[1:31:49] Ah, okey.
+
+[1:31:50] Politik.
+
+[1:31:52] MP lompat tanya, apa punca dia lompat?
+
+[1:31:55] Ini soalan 19 November, baru saja.
+
+[1:31:57] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:32:08] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:32:12] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:32:35] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:32:52] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:33:04] Okey. Baik, WB.
+
+[1:33:05] Beria, okey. Yang ni lepaslah beria.
+
+[1:33:07] Okey, alright. WB punya standard takut.
+
+[1:33:09] Tak kan ni dua sendulah.
+
+[1:33:11] Ah, okey.
+
+[1:33:12] Politik.
+
+[1:33:14] MP lompat tanya, apa punca dia lompat?
+
+[1:33:17] Ini soalan 19 November, baru saja.
+
+[1:33:19] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:33:30] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:33:34] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:33:57] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:34:14] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:34:26] Okey. Baik, WB.
+
+[1:34:27] Beria, okey. Yang ni lepaslah beria.
+
+[1:34:29] Okey, alright. WB punya standard takut.
+
+[1:34:31] Tak kan ni dua sendulah.
+
+[1:34:33] Ah, okey.
+
+[1:34:34] Politik.
+
+[1:34:36] MP lompat tanya, apa punca dia lompat?
+
+[1:34:39] Ini soalan 19 November, baru saja.
+
+[1:34:41] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:34:52] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:34:56] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:35:19] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:35:36] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:35:48] Okey. Baik, WB.
+
+[1:35:49] Beria, okey. Yang ni lepaslah beria.
+
+[1:35:51] Okey, alright. WB punya standard takut.
+
+[1:35:53] Tak kan ni dua sendulah.
+
+[1:35:55] Ah, okey.
+
+[1:35:56] Politik.
+
+[1:35:58] MP lompat tanya, apa punca dia lompat?
+
+[1:36:01] Ini soalan 19 November, baru saja.
+
+[1:36:03] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:36:14] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:36:18] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:36:41] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:36:58] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:37:10] Okey. Baik, WB.
+
+[1:37:11] Beria, okey. Yang ni lepaslah beria.
+
+[1:37:13] Okey, alright. WB punya standard takut.
+
+[1:37:15] Tak kan ni dua sendulah.
+
+[1:37:17] Ah, okey.
+
+[1:37:18] Politik.
+
+[1:37:20] MP lompat tanya, apa punca dia lompat?
+
+[1:37:23] Ini soalan 19 November, baru saja.
+
+[1:37:25] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:37:36] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:37:40] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:38:03] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:38:20] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:38:32] Okey. Baik, WB.
+
+[1:38:33] Beria, okey. Yang ni lepaslah beria.
+
+[1:38:35] Okey, alright. WB punya standard takut.
+
+[1:38:37] Tak kan ni dua sendulah.
+
+[1:38:39] Ah, okey.
+
+[1:38:40] Politik.
+
+[1:38:42] MP lompat tanya, apa punca dia lompat?
+
+[1:38:45] Ini soalan 19 November, baru saja.
+
+[1:38:47] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[1:38:58] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[1:39:02] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[1:39:25] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[1:39:42] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[1:39:54] Okey. Baik, WB.
+
+[1:39:55] Beria, okey. Yang ni lepaslah beria.
+
+[1:39:57] Okey, alright. WB punya standard takut.
+
+[1:39:59] Tak kan ni dua sendulah.
+
+[2:00:01] Ah, okey.
+
+[2:00:02] Politik.
+
+[2:00:04] MP lompat tanya, apa punca dia lompat?
+
+[2:00:07] Ini soalan 19 November, baru saja.
+
+[2:00:09] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:00:20] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:00:24] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:00:47] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:01:04] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:01:16] Okey. Baik, WB.
+
+[2:01:17] Beria, okey. Yang ni lepaslah beria.
+
+[2:01:19] Okey, alright. WB punya standard takut.
+
+[2:01:21] Tak kan ni dua sendulah.
+
+[2:01:23] Ah, okey.
+
+[2:01:24] Politik.
+
+[2:01:26] MP lompat tanya, apa punca dia lompat?
+
+[2:01:29] Ini soalan 19 November, baru saja.
+
+[2:01:31] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:01:42] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:01:46] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:02:09] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:02:26] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[2:02:38] Okey. Baik, WB.
+
+[2:02:39] Beria, okey. Yang ni lepaslah beria.
+
+[2:02:41] Okey, alright. WB punya standard takut.
+
+[2:02:43] Tak kan ni dua sendulah.
+
+[2:02:45] Ah, okey.
+
+[2:02:46] Politik.
+
+[2:02:48] MP lompat tanya, apa punca dia lompat?
+
+[2:02:51] Ini soalan 19 November, baru saja.
+
+[2:02:53] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[2:03:04] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[2:03:08] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[2:03:31] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[2:03:48] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[123:55] Okey. Baik, WB.
+
+[123:56] Beria, okey. Yang ni lepaslah beria.
+
+[123:58] Okey, alright. WB punya standard takut.
+
+[124:00] Tak kan ni dua sendulah.
+
+[124:02] Ah, okey.
+
+[124:03] Politik.
+
+[124:05] MP lompat tanya, apa punca dia lompat?
+
+[124:08] Ini soalan 19 November, baru saja.
+
+[124:10] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[124:21] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[124:25] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[124:48] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[125:05] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[125:17] Okey. Baik, WB.
+
+[125:18] Beria, okey. Yang ni lepaslah beria.
+
+[125:20] Okey, alright. WB punya standard takut.
+
+[125:22] Tak kan ni dua sendulah.
+
+[125:24] Ah, okey.
+
+[125:25] Politik.
+
+[125:27] MP lompat tanya, apa punca dia lompat?
+
+[125:30] Ini soalan 19 November, baru saja.
+
+[125:32] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[125:43] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[125:47] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[126:10] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[126:27] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[126:39] Okey. Baik, WB.
+
+[126:40] Beria, okey. Yang ni lepaslah beria.
+
+[126:42] Okey, alright. WB punya standard takut.
+
+[126:44] Tak kan ni dua sendulah.
+
+[126:46] Ah, okey.
+
+[126:47] Politik.
+
+[126:49] MP lompat tanya, apa punca dia lompat?
+
+[126:52] Ini soalan 19 November, baru saja.
+
+[126:54] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[127:05] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[127:09] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[127:32] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[127:49] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[128:01] Okey. Baik, WB.
+
+[128:02] Beria, okey. Yang ni lepaslah beria.
+
+[128:04] Okey, alright. WB punya standard takut.
+
+[128:06] Tak kan ni dua sendulah.
+
+[128:08] Ah, okey.
+
+[128:09] Politik.
+
+[128:11] MP lompat tanya, apa punca dia lompat?
+
+[128:14] Ini soalan 19 November, baru saja.
+
+[128:16] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[128:27] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[128:31] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[128:54] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[129:11] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[129:23] Okey. Baik, WB.
+
+[129:24] Beria, okey. Yang ni lepaslah beria.
+
+[129:26] Okey, alright. WB punya standard takut.
+
+[129:28] Tak kan ni dua sendulah.
+
+[129:30] Ah, okey.
+
+[129:31] Politik.
+
+[129:33] MP lompat tanya, apa punca dia lompat?
+
+[129:36] Ini soalan 19 November, baru saja.
+
+[129:38] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[129:49] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[129:53] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[130:16] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[130:33] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[130:45] Okey. Baik, WB.
+
+[130:46] Beria, okey. Yang ni lepaslah beria.
+
+[130:48] Okey, alright. WB punya standard takut.
+
+[130:50] Tak kan ni dua sendulah.
+
+[130:52] Ah, okey.
+
+[130:53] Politik.
+
+[130:55] MP lompat tanya, apa punca dia lompat?
+
+[130:58] Ini soalan 19 November, baru saja.
+
+[131:00] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[131:11] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[131:15] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[131:38] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[131:55] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[132:07] Okey. Baik, WB.
+
+[132:08] Beria, okey. Yang ni lepaslah beria.
+
+[132:10] Okey, alright. WB punya standard takut.
+
+[132:12] Tak kan ni dua sendulah.
+
+[132:14] Ah, okey.
+
+[132:15] Politik.
+
+[132:17] MP lompat tanya, apa punca dia lompat?
+
+[132:20] Ini soalan 19 November, baru saja.
+
+[132:22] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[132:33] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[132:37] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[133:00] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[133:17] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[133:29] Okey. Baik, WB.
+
+[133:30] Beria, okey. Yang ni lepaslah beria.
+
+[133:32] Okey, alright. WB punya standard takut.
+
+[133:34] Tak kan ni dua sendulah.
+
+[133:36] Ah, okey.
+
+[133:37] Politik.
+
+[133:39] MP lompat tanya, apa punca dia lompat?
+
+[133:42] Ini soalan 19 November, baru saja.
+
+[133:44] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[133:55] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[133:59] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[134:22] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[134:39] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[134:51] Okey. Baik, WB.
+
+[134:52] Beria, okey. Yang ni lepaslah beria.
+
+[134:54] Okey, alright. WB punya standard takut.
+
+[134:56] Tak kan ni dua sendulah.
+
+[134:58] Ah, okey.
+
+[134:59] Politik.
+
+[135:01] MP lompat tanya, apa punca dia lompat?
+
+[135:04] Ini soalan 19 November, baru saja.
+
+[135:06] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[135:17] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[135:21] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[135:44] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[136:01] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[136:13] Okey. Baik, WB.
+
+[136:14] Beria, okey. Yang ni lepaslah beria.
+
+[136:16] Okey, alright. WB punya standard takut.
+
+[136:18] Tak kan ni dua sendulah.
+
+[136:20] Ah, okey.
+
+[136:21] Politik.
+
+[136:23] MP lompat tanya, apa punca dia lompat?
+
+[136:26] Ini soalan 19 November, baru saja.
+
+[136:28] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[136:39] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[136:43] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[137:06] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[137:23] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[137:35] Okey. Baik, WB.
+
+[137:36] Beria, okey. Yang ni lepaslah beria.
+
+[137:38] Okey, alright. WB punya standard takut.
+
+[137:40] Tak kan ni dua sendulah.
+
+[137:42] Ah, okey.
+
+[137:43] Politik.
+
+[137:45] MP lompat tanya, apa punca dia lompat?
+
+[137:48] Ini soalan 19 November, baru saja.
+
+[137:50] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[138:01] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[138:05] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[138:28] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[138:45] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[138:57] Okey. Baik, WB.
+
+[138:58] Beria, okey. Yang ni lepaslah beria.
+
+[139:00] Okey, alright. WB punya standard takut.
+
+[139:02] Tak kan ni dua sendulah.
+
+[139:04] Ah, okey.
+
+[139:05] Politik.
+
+[139:07] MP lompat tanya, apa punca dia lompat?
+
+[139:10] Ini soalan 19 November, baru saja.
+
+[139:12] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[139:23] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[139:27] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[139:50] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[140:07] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[140:19] Okey. Baik, WB.
+
+[140:20] Beria, okey. Yang ni lepaslah beria.
+
+[140:22] Okey, alright. WB punya standard takut.
+
+[140:24] Tak kan ni dua sendulah.
+
+[140:26] Ah, okey.
+
+[140:27] Politik.
+
+[140:29] MP lompat tanya, apa punca dia lompat?
+
+[140:32] Ini soalan 19 November, baru saja.
+
+[140:34] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[140:45] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[140:49] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[141:12] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[141:29] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[141:41] Okey. Baik, WB.
+
+[141:42] Beria, okey. Yang ni lepaslah beria.
+
+[141:44] Okey, alright. WB punya standard takut.
+
+[141:46] Tak kan ni dua sendulah.
+
+[141:48] Ah, okey.
+
+[141:49] Politik.
+
+[141:51] MP lompat tanya, apa punca dia lompat?
+
+[141:54] Ini soalan 19 November, baru saja.
+
+[141:56] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[142:07] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[142:11] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[142:34] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[142:51] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[143:03] Okey. Baik, WB.
+
+[143:04] Beria, okey. Yang ni lepaslah beria.
+
+[143:06] Okey, alright. WB punya standard takut.
+
+[143:08] Tak kan ni dua sendulah.
+
+[143:10] Ah, okey.
+
+[143:11] Politik.
+
+[143:13] MP lompat tanya, apa punca dia lompat?
+
+[143:16] Ini soalan 19 November, baru saja.
+
+[143:18] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[143:29] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[143:33] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[143:56] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[144:13] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[144:25] Okey. Baik, WB.
+
+[144:26] Beria, okey. Yang ni lepaslah beria.
+
+[144:28] Okey, alright. WB punya standard takut.
+
+[144:30] Tak kan ni dua sendulah.
+
+[144:32] Ah, okey.
+
+[144:33] Politik.
+
+[144:35] MP lompat tanya, apa punca dia lompat?
+
+[144:38] Ini soalan 19 November, baru saja.
+
+[144:40] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[144:51] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[144:55] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[145:18] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[145:35] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[145:47] Okey. Baik, WB.
+
+[145:48] Beria, okey. Yang ni lepaslah beria.
+
+[145:50] Okey, alright. WB punya standard takut.
+
+[145:52] Tak kan ni dua sendulah.
+
+[145:54] Ah, okey.
+
+[145:55] Politik.
+
+[145:57] MP lompat tanya, apa punca dia lompat?
+
+[146:00] Ini soalan 19 November, baru saja.
+
+[146:02] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[146:13] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[146:17] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[146:40] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[146:57] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[147:09] Okey. Baik, WB.
+
+[147:10] Beria, okey. Yang ni lepaslah beria.
+
+[147:12] Okey, alright. WB punya standard takut.
+
+[147:14] Tak kan ni dua sendulah.
+
+[147:16] Ah, okey.
+
+[147:17] Politik.
+
+[147:19] MP lompat tanya, apa punca dia lompat?
+
+[147:22] Ini soalan 19 November, baru saja.
+
+[147:24] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[147:35] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[147:39] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[148:02] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[148:19] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[148:31] Okey. Baik, WB.
+
+[148:32] Beria, okey. Yang ni lepaslah beria.
+
+[148:34] Okey, alright. WB punya standard takut.
+
+[148:36] Tak kan ni dua sendulah.
+
+[148:38] Ah, okey.
+
+[148:39] Politik.
+
+[148:41] MP lompat tanya, apa punca dia lompat?
+
+[148:44] Ini soalan 19 November, baru saja.
+
+[148:46] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[148:57] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[149:01] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[149:24] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[149:41] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[149:53] Okey. Baik, WB.
+
+[149:54] Beria, okey. Yang ni lepaslah beria.
+
+[149:56] Okey, alright. WB punya standard takut.
+
+[149:58] Tak kan ni dua sendulah.
+
+[150:00] Ah, okey.
+
+[150:01] Politik.
+
+[150:03] MP lompat tanya, apa punca dia lompat?
+
+[150:06] Ini soalan 19 November, baru saja.
+
+[150:08] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[150:19] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[150:23] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[150:46] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[151:03] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[151:15] Okey. Baik, WB.
+
+[151:16] Beria, okey. Yang ni lepaslah beria.
+
+[151:18] Okey, alright. WB punya standard takut.
+
+[151:20] Tak kan ni dua sendulah.
+
+[151:22] Ah, okey.
+
+[151:23] Politik.
+
+[151:25] MP lompat tanya, apa punca dia lompat?
+
+[151:28] Ini soalan 19 November, baru saja.
+
+[151:30] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[151:41] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[151:45] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[152:08] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[152:25] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[152:37] Okey. Baik, WB.
+
+[152:38] Beria, okey. Yang ni lepaslah beria.
+
+[152:40] Okey, alright. WB punya standard takut.
+
+[152:42] Tak kan ni dua sendulah.
+
+[152:44] Ah, okey.
+
+[152:45] Politik.
+
+[152:47] MP lompat tanya, apa punca dia lompat?
+
+[152:50] Ini soalan 19 November, baru saja.
+
+[152:52] Hmm. Ha, Beluran tanya, aa mengapa Akta Antilompat Parti gagal menghalang Ahli Parlimen macam dia melompat parti? Apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini?
+
+[153:03] Berialah. Yang ini sebab konteks Sabah lah kan?
+
+[153:07] Ya, Sabah. Kita pakai. Aa, Datuk Seri Ronald Kiandee ni tak puas hati sebab bagi dia PRU ataupun PRN lah kan, PRU yang lepas tahun 2020 dulu, Bersatu dilihat menang besar. Mhm. Mhm. Dan aa sebahagian besar yang bersatu tu kemudian lompat dan dia jadi GRS lah kan.
+
+[15:30] Tapi Bersatu di Sabah itu pun aa hasil daripada lompat juga. Kerana daripada UMNO tahun 2018 yang UMNO itu yang lompat masuk jadi Bersatu. Jadi, beria aa lompat. Jadi sepatutnya dialah yang jawab, kut.
+
+[15:47] Aa, kalau tanya kenapa Akta Antilompat Parti gagal menghalang Ahli Parlimen melompat parti. Aa, patut dia cermin diri dululah, kut. Hmm.
+
+[155:59] [Music]
+
