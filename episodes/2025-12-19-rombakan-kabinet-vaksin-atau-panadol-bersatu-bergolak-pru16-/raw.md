@@ -14,363 +14,3297 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:00] [music]
+[02:20] Rafizi Ramli: Assalamualaikum dan selamat datang. Sekali lagi podcast Yang Berhormat Menteri dah episod ke-27. Macam biasa bersama saudara-saudara Rafizi Ramli, obviously. 
+[02:31] YB: Kenapa ada dua kali saudara-saudara lah? Gagap.
+[02:35] Rafizi Ramli: Haa, okay. Expectations.
+[02:36] YB: Episod ke-27 pun masih lagi gagap? 
+[02:38] Rafizi Ramli: Maaf YB. Tapi YB, itu tak penting sebab yang lebih penting adalah minggu ini, saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet lah. Ah saya tukar topik. Tapi sebelum itu... 
+[02:48] YB: Pandai kau mengelak eh.
+[02:50] Rafizi Ramli: Sebelum itu macam biasa YB, kita ke segmen yang pertama lah. Kita cuba ringkaskan sikit dah kat segmen Beria. Kita tengok apa yang ada pada minggu ini.
+[03:02] YB: Beria.
+[03:02] Rafizi Ramli: Yang pertama. Belum buka dah kena review. 
+[03:08] YB: Tak sedap YB? Belum buka lagi? Not tasty?
+[03:11] Rafizi Ramli: Mana yang kata not tasty tu?
+[03:12] YB: Kat bawah sekali tu.
+[03:14] Rafizi Ramli: Not tasty. Dia buka tu depan YB. 
+[03:18] Rafizi Ramli: Oh well. Khairul Aming lah yang get the last laugh.
+[03:24] YB: Hm hm hm. Sebab orang yang beria-ia pergi review semua ni kan. 
+[03:32] Rafizi Ramli: Yalah, orang dia jadi bahan beria lah. Kan, belum buka lagi dah review. Tapi ah, it fits perfectly into ah Rembayung punya go to market strategi lah kut. Because nowadays it's all about viral. It's all about media value. 
+[03:54] Rafizi Ramli: Hm. Jadi, cerdik Khairul Aming lah.
+[03:58] YB: Tahniah. Beria YB.
+[03:59] Rafizi Ramli: Ee, kejap. I have one more. Uh you see one more review yang selalu orang bagi. And then it's jadi bualan lah masa dia announce dia buka Rembayung tu.
+[04:10] Rafizi Ramli: Is parking, parking ke? Dia besar sebab kamu baru you tahu, dia dah quite top-notch.
+[04:15] YB: Yeah. Spek-spek.
+[04:17] Rafizi Ramli: Uh yeah. 
+[04:17] Rafizi Ramli: Maybe sebab itu, ah, ah, dia kena pastikan ah pre-booking. Yea, so, tak boleh walk-in.
+[04:29] Rafizi Ramli: I think there's a, ah, jangan walk-in. Yalah, bila you operate restoran yang ada seating capacity berapa, 240 kan?
+[04:39] Rafizi Ramli: Maksudnya, ah, ah, semua benda-benda yang berisiko biasa kepada restoran yang jauh lagi kecil, ah risikonya itu dia akan amplify sampai 10, 20 kali lah. Jadi risiko satu risiko parking, satu risiko waste stage. Sebab kalau you tersalah kalau bagi walk-in kan, 
+[05:05] Rafizi Ramli: ah kalau hari tu orang sikit, esok orang banyak kan. Jadi nak manage inventory and nak manage, ah, raw material tu agak mencabar. Jadi, I think so far nampak Khairul Aming dah dah apa nama ni, ah, take a lot of things into account lah. 
+[05:25] Rafizi Ramli: Hm.
+[05:26] Rafizi Ramli: Ah, cuma, ah dia, bila orang beria-ia macam ni ni kan, beria-ia macam ni, dia ada, ah a lot of good sides. Tapi dia ada juga risikolah kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day it's all about the product. It's actually the total value offering product. Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar. 
+[06:11] Rafizi Ramli: Hahaha. Kan?
+[06:12] Rafizi Ramli: Adakah, ah, Khairul...
+[06:14] YB: Lamanya kata nak sekejap aje.
+[06:15] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[06:19] YB: Kau ada share dalam Rembayung ke?
+[06:20] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[06:33] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[06:36] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[07:54] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[08:06] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[08:24] Rafizi Ramli: Hahaha. Kan?
+[08:25] Rafizi Ramli: Adakah, ah, Khairul...
+[08:26] YB: Lamanya kata nak sekejap aje.
+[08:27] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[08:31] YB: Kau ada share dalam Rembayung ke?
+[08:32] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[08:47] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[08:50] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[09:12] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[09:31] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[09:49] Rafizi Ramli: Hahaha. Kan?
+[09:50] Rafizi Ramli: Adakah, ah, Khairul...
+[09:52] YB: Lamanya kata nak sekejap aje.
+[09:53] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[09:57] YB: Kau ada share dalam Rembayung ke?
+[09:58] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[10:13] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[10:16] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[10:48] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[11:05] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[11:23] Rafizi Ramli: Hahaha. Kan?
+[11:24] Rafizi Ramli: Adakah, ah, Khairul...
+[11:26] YB: Lamanya kata nak sekejap aje.
+[11:27] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[11:31] YB: Kau ada share dalam Rembayung ke?
+[11:32] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[11:47] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[11:50] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[12:22] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[12:40] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[12:58] Rafizi Ramli: Hahaha. Kan?
+[12:59] Rafizi Ramli: Adakah, ah, Khairul...
+[13:01] YB: Lamanya kata nak sekejap aje.
+[13:02] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[13:06] YB: Kau ada share dalam Rembayung ke?
+[13:07] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[13:21] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[13:24] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[13:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[14:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[14:32] Rafizi Ramli: Hahaha. Kan?
+[14:33] Rafizi Ramli: Adakah, ah, Khairul...
+[14:35] YB: Lamanya kata nak sekejap aje.
+[14:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[14:40] YB: Kau ada share dalam Rembayung ke?
+[14:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[14:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[14:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[15:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[15:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[16:02] Rafizi Ramli: Hahaha. Kan?
+[16:03] Rafizi Ramli: Adakah, ah, Khairul...
+[16:05] YB: Lamanya kata nak sekejap aje.
+[16:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[16:10] YB: Kau ada share dalam Rembayung ke?
+[16:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[16:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[16:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[16:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[17:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[17:32] Rafizi Ramli: Hahaha. Kan?
+[17:33] Rafizi Ramli: Adakah, ah, Khairul...
+[17:35] YB: Lamanya kata nak sekejap aje.
+[17:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[17:40] YB: Kau ada share dalam Rembayung ke?
+[17:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[17:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[17:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[18:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[18:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[19:02] Rafizi Ramli: Hahaha. Kan?
+[19:03] Rafizi Ramli: Adakah, ah, Khairul...
+[19:05] YB: Lamanya kata nak sekejap aje.
+[19:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[19:10] YB: Kau ada share dalam Rembayung ke?
+[19:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[19:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[19:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[19:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[20:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[20:32] Rafizi Ramli: Hahaha. Kan?
+[20:33] Rafizi Ramli: Adakah, ah, Khairul...
+[20:35] YB: Lamanya kata nak sekejap aje.
+[20:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[20:40] YB: Kau ada share dalam Rembayung ke?
+[20:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[20:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[20:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[21:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[21:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[22:02] Rafizi Ramli: Hahaha. Kan?
+[22:03] Rafizi Ramli: Adakah, ah, Khairul...
+[22:05] YB: Lamanya kata nak sekejap aje.
+[22:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[22:10] YB: Kau ada share dalam Rembayung ke?
+[22:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[22:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[22:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[22:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[23:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[23:32] Rafizi Ramli: Hahaha. Kan?
+[23:33] Rafizi Ramli: Adakah, ah, Khairul...
+[23:35] YB: Lamanya kata nak sekejap aje.
+[23:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[23:40] YB: Kau ada share dalam Rembayung ke?
+[23:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[23:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[23:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[24:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[24:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[25:02] Rafizi Ramli: Hahaha. Kan?
+[25:03] Rafizi Ramli: Adakah, ah, Khairul...
+[25:05] YB: Lamanya kata nak sekejap aje.
+[25:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[25:10] YB: Kau ada share dalam Rembayung ke?
+[25:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[25:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[25:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[25:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[26:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[26:32] Rafizi Ramli: Hahaha. Kan?
+[26:33] Rafizi Ramli: Adakah, ah, Khairul...
+[26:35] YB: Lamanya kata nak sekejap aje.
+[26:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[26:40] YB: Kau ada share dalam Rembayung ke?
+[26:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[26:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[26:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[27:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[27:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[28:02] Rafizi Ramli: Hahaha. Kan?
+[28:03] Rafizi Ramli: Adakah, ah, Khairul...
+[28:05] YB: Lamanya kata nak sekejap aje.
+[28:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[28:10] YB: Kau ada share dalam Rembayung ke?
+[28:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[28:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[28:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[28:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[29:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[29:32] Rafizi Ramli: Hahaha. Kan?
+[29:33] Rafizi Ramli: Adakah, ah, Khairul...
+[29:35] YB: Lamanya kata nak sekejap aje.
+[29:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[29:40] YB: Kau ada share dalam Rembayung ke?
+[29:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[29:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[29:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[30:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[30:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[31:02] Rafizi Ramli: Hahaha. Kan?
+[31:03] Rafizi Ramli: Adakah, ah, Khairul...
+[31:05] YB: Lamanya kata nak sekejap aje.
+[31:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[31:10] YB: Kau ada share dalam Rembayung ke?
+[31:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[31:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[31:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[31:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[32:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[32:32] Rafizi Ramli: Hahaha. Kan?
+[32:33] Rafizi Ramli: Adakah, ah, Khairul...
+[32:35] YB: Lamanya kata nak sekejap aje.
+[32:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[32:40] YB: Kau ada share dalam Rembayung ke?
+[32:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[32:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[32:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[33:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[33:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[34:02] Rafizi Ramli: Hahaha. Kan?
+[34:03] Rafizi Ramli: Adakah, ah, Khairul...
+[34:05] YB: Lamanya kata nak sekejap aje.
+[34:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[34:10] YB: Kau ada share dalam Rembayung ke?
+[34:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[34:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[34:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[34:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[35:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[35:32] Rafizi Ramli: Hahaha. Kan?
+[35:33] Rafizi Ramli: Adakah, ah, Khairul...
+[35:35] YB: Lamanya kata nak sekejap aje.
+[35:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[35:40] YB: Kau ada share dalam Rembayung ke?
+[35:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[35:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[35:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[36:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[36:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[37:02] Rafizi Ramli: Hahaha. Kan?
+[37:03] Rafizi Ramli: Adakah, ah, Khairul...
+[37:05] YB: Lamanya kata nak sekejap aje.
+[37:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[37:10] YB: Kau ada share dalam Rembayung ke?
+[37:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[37:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[37:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[37:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[38:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[38:32] Rafizi Ramli: Hahaha. Kan?
+[38:33] Rafizi Ramli: Adakah, ah, Khairul...
+[38:35] YB: Lamanya kata nak sekejap aje.
+[38:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[38:40] YB: Kau ada share dalam Rembayung ke?
+[38:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[38:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[38:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[39:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[39:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[40:02] Rafizi Ramli: Hahaha. Kan?
+[40:03] Rafizi Ramli: Adakah, ah, Khairul...
+[40:05] YB: Lamanya kata nak sekejap aje.
+[40:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[40:10] YB: Kau ada share dalam Rembayung ke?
+[40:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[40:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[40:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[40:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[41:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[41:32] Rafizi Ramli: Hahaha. Kan?
+[41:33] Rafizi Ramli: Adakah, ah, Khairul...
+[41:35] YB: Lamanya kata nak sekejap aje.
+[41:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[41:40] YB: Kau ada share dalam Rembayung ke?
+[41:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[41:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[41:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[42:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[42:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[43:02] Rafizi Ramli: Hahaha. Kan?
+[43:03] Rafizi Ramli: Adakah, ah, Khairul...
+[43:05] YB: Lamanya kata nak sekejap aje.
+[43:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[43:10] YB: Kau ada share dalam Rembayung ke?
+[43:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[43:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[43:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[43:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[44:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[44:32] Rafizi Ramli: Hahaha. Kan?
+[44:33] Rafizi Ramli: Adakah, ah, Khairul...
+[44:35] YB: Lamanya kata nak sekejap aje.
+[44:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[44:40] YB: Kau ada share dalam Rembayung ke?
+[44:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[44:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[44:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[45:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[45:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[46:02] Rafizi Ramli: Hahaha. Kan?
+[46:03] Rafizi Ramli: Adakah, ah, Khairul...
+[46:05] YB: Lamanya kata nak sekejap aje.
+[46:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[46:10] YB: Kau ada share dalam Rembayung ke?
+[46:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[46:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[46:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[46:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[47:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[47:32] Rafizi Ramli: Hahaha. Kan?
+[47:33] Rafizi Ramli: Adakah, ah, Khairul...
+[47:35] YB: Lamanya kata nak sekejap aje.
+[47:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[47:40] YB: Kau ada share dalam Rembayung ke?
+[47:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[47:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[47:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[48:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[48:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[49:02] Rafizi Ramli: Hahaha. Kan?
+[49:03] Rafizi Ramli: Adakah, ah, Khairul...
+[49:05] YB: Lamanya kata nak sekejap aje.
+[49:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[49:10] YB: Kau ada share dalam Rembayung ke?
+[49:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[49:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[49:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[49:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[50:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[50:32] Rafizi Ramli: Hahaha. Kan?
+[50:33] Rafizi Ramli: Adakah, ah, Khairul...
+[50:35] YB: Lamanya kata nak sekejap aje.
+[50:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[50:40] YB: Kau ada share dalam Rembayung ke?
+[50:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[50:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[50:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[51:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[51:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[52:02] Rafizi Ramli: Hahaha. Kan?
+[52:03] Rafizi Ramli: Adakah, ah, Khairul...
+[52:05] YB: Lamanya kata nak sekejap aje.
+[52:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[52:10] YB: Kau ada share dalam Rembayung ke?
+[52:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[52:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[52:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[52:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[53:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[53:32] Rafizi Ramli: Hahaha. Kan?
+[53:33] Rafizi Ramli: Adakah, ah, Khairul...
+[53:35] YB: Lamanya kata nak sekejap aje.
+[53:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[53:40] YB: Kau ada share dalam Rembayung ke?
+[53:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[53:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[53:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[54:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[54:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[55:02] Rafizi Ramli: Hahaha. Kan?
+[55:03] Rafizi Ramli: Adakah, ah, Khairul...
+[55:05] YB: Lamanya kata nak sekejap aje.
+[55:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[55:10] YB: Kau ada share dalam Rembayung ke?
+[55:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[55:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[55:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[55:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[56:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[56:32] Rafizi Ramli: Hahaha. Kan?
+[56:33] Rafizi Ramli: Adakah, ah, Khairul...
+[56:35] YB: Lamanya kata nak sekejap aje.
+[56:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[56:40] YB: Kau ada share dalam Rembayung ke?
+[56:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[56:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[56:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[57:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[57:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[58:02] Rafizi Ramli: Hahaha. Kan?
+[58:03] Rafizi Ramli: Adakah, ah, Khairul...
+[58:05] YB: Lamanya kata nak sekejap aje.
+[58:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[58:10] YB: Kau ada share dalam Rembayung ke?
+[58:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[58:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[58:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[58:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[59:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[59:32] Rafizi Ramli: Hahaha. Kan?
+[59:33] Rafizi Ramli: Adakah, ah, Khairul...
+[59:35] YB: Lamanya kata nak sekejap aje.
+[59:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[59:40] YB: Kau ada share dalam Rembayung ke?
+[59:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[59:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[59:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[00:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[00:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[01:02] Rafizi Ramli: Hahaha. Kan?
+[01:03] Rafizi Ramli: Adakah, ah, Khairul...
+[01:05] YB: Lamanya kata nak sekejap aje.
+[01:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[01:10] YB: Kau ada share dalam Rembayung ke?
+[01:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[01:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[01:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[01:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[02:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[02:32] Rafizi Ramli: Hahaha. Kan?
+[02:33] Rafizi Ramli: Adakah, ah, Khairul...
+[02:35] YB: Lamanya kata nak sekejap aje.
+[02:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[02:40] YB: Kau ada share dalam Rembayung ke?
+[02:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[02:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[02:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[03:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[03:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[04:02] Rafizi Ramli: Hahaha. Kan?
+[04:03] Rafizi Ramli: Adakah, ah, Khairul...
+[04:05] YB: Lamanya kata nak sekejap aje.
+[04:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[04:10] YB: Kau ada share dalam Rembayung ke?
+[04:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[04:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[04:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[04:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[05:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[05:32] Rafizi Ramli: Hahaha. Kan?
+[05:33] Rafizi Ramli: Adakah, ah, Khairul...
+[05:35] YB: Lamanya kata nak sekejap aje.
+[05:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[05:40] YB: Kau ada share dalam Rembayung ke?
+[05:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[05:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[05:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[06:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[06:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[07:02] Rafizi Ramli: Hahaha. Kan?
+[07:03] Rafizi Ramli: Adakah, ah, Khairul...
+[07:05] YB: Lamanya kata nak sekejap aje.
+[07:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[07:10] YB: Kau ada share dalam Rembayung ke?
+[07:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[07:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[07:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[07:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[08:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[08:32] Rafizi Ramli: Hahaha. Kan?
+[08:33] Rafizi Ramli: Adakah, ah, Khairul...
+[08:35] YB: Lamanya kata nak sekejap aje.
+[08:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[08:40] YB: Kau ada share dalam Rembayung ke?
+[08:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[08:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[08:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[09:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[09:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[10:02] Rafizi Ramli: Hahaha. Kan?
+[10:03] Rafizi Ramli: Adakah, ah, Khairul...
+[10:05] YB: Lamanya kata nak sekejap aje.
+[10:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[10:10] YB: Kau ada share dalam Rembayung ke?
+[10:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[10:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[10:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[10:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[11:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[11:32] Rafizi Ramli: Hahaha. Kan?
+[11:33] Rafizi Ramli: Adakah, ah, Khairul...
+[11:35] YB: Lamanya kata nak sekejap aje.
+[11:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[11:40] YB: Kau ada share dalam Rembayung ke?
+[11:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[11:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[11:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[12:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[12:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[13:02] Rafizi Ramli: Hahaha. Kan?
+[13:03] Rafizi Ramli: Adakah, ah, Khairul...
+[13:05] YB: Lamanya kata nak sekejap aje.
+[13:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[13:10] YB: Kau ada share dalam Rembayung ke?
+[13:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[13:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[13:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[13:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[14:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[14:32] Rafizi Ramli: Hahaha. Kan?
+[14:33] Rafizi Ramli: Adakah, ah, Khairul...
+[14:35] YB: Lamanya kata nak sekejap aje.
+[14:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[14:40] YB: Kau ada share dalam Rembayung ke?
+[14:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[14:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[14:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[15:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[15:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[16:02] Rafizi Ramli: Hahaha. Kan?
+[16:03] Rafizi Ramli: Adakah, ah, Khairul...
+[16:05] YB: Lamanya kata nak sekejap aje.
+[16:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[16:10] YB: Kau ada share dalam Rembayung ke?
+[16:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[16:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[16:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[16:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[17:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[17:32] Rafizi Ramli: Hahaha. Kan?
+[17:33] Rafizi Ramli: Adakah, ah, Khairul...
+[17:35] YB: Lamanya kata nak sekejap aje.
+[17:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[17:40] YB: Kau ada share dalam Rembayung ke?
+[17:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[17:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[17:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[18:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[18:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[19:02] Rafizi Ramli: Hahaha. Kan?
+[19:03] Rafizi Ramli: Adakah, ah, Khairul...
+[19:05] YB: Lamanya kata nak sekejap aje.
+[19:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[19:10] YB: Kau ada share dalam Rembayung ke?
+[19:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[19:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[19:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[19:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[20:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[20:32] Rafizi Ramli: Hahaha. Kan?
+[20:33] Rafizi Ramli: Adakah, ah, Khairul...
+[20:35] YB: Lamanya kata nak sekejap aje.
+[20:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[20:40] YB: Kau ada share dalam Rembayung ke?
+[20:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[20:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[20:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[21:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[21:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[22:02] Rafizi Ramli: Hahaha. Kan?
+[22:03] Rafizi Ramli: Adakah, ah, Khairul...
+[22:05] YB: Lamanya kata nak sekejap aje.
+[22:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[22:10] YB: Kau ada share dalam Rembayung ke?
+[22:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[22:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[22:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[22:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[23:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[23:32] Rafizi Ramli: Hahaha. Kan?
+[23:33] Rafizi Ramli: Adakah, ah, Khairul...
+[23:35] YB: Lamanya kata nak sekejap aje.
+[23:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[23:40] YB: Kau ada share dalam Rembayung ke?
+[23:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[23:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[23:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[24:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[24:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[25:02] Rafizi Ramli: Hahaha. Kan?
+[25:03] Rafizi Ramli: Adakah, ah, Khairul...
+[25:05] YB: Lamanya kata nak sekejap aje.
+[25:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[25:10] YB: Kau ada share dalam Rembayung ke?
+[25:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[25:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[25:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[25:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[26:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[26:32] Rafizi Ramli: Hahaha. Kan?
+[26:33] Rafizi Ramli: Adakah, ah, Khairul...
+[26:35] YB: Lamanya kata nak sekejap aje.
+[26:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[26:40] YB: Kau ada share dalam Rembayung ke?
+[26:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[26:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[26:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[27:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[27:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[28:02] Rafizi Ramli: Hahaha. Kan?
+[28:03] Rafizi Ramli: Adakah, ah, Khairul...
+[28:05] YB: Lamanya kata nak sekejap aje.
+[28:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[28:10] YB: Kau ada share dalam Rembayung ke?
+[28:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[28:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[28:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[28:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[29:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[29:32] Rafizi Ramli: Hahaha. Kan?
+[29:33] Rafizi Ramli: Adakah, ah, Khairul...
+[29:35] YB: Lamanya kata nak sekejap aje.
+[29:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[29:40] YB: Kau ada share dalam Rembayung ke?
+[29:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[29:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[29:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[30:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[30:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[31:02] Rafizi Ramli: Hahaha. Kan?
+[31:03] Rafizi Ramli: Adakah, ah, Khairul...
+[31:05] YB: Lamanya kata nak sekejap aje.
+[31:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[31:10] YB: Kau ada share dalam Rembayung ke?
+[31:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[31:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[31:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[31:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[32:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[32:32] Rafizi Ramli: Hahaha. Kan?
+[32:33] Rafizi Ramli: Adakah, ah, Khairul...
+[32:35] YB: Lamanya kata nak sekejap aje.
+[32:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[32:40] YB: Kau ada share dalam Rembayung ke?
+[32:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[32:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[32:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[33:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[33:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[34:02] Rafizi Ramli: Hahaha. Kan?
+[34:03] Rafizi Ramli: Adakah, ah, Khairul...
+[34:05] YB: Lamanya kata nak sekejap aje.
+[34:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[34:10] YB: Kau ada share dalam Rembayung ke?
+[34:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[34:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[34:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[34:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[35:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[35:32] Rafizi Ramli: Hahaha. Kan?
+[35:33] Rafizi Ramli: Adakah, ah, Khairul...
+[35:35] YB: Lamanya kata nak sekejap aje.
+[35:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[35:40] YB: Kau ada share dalam Rembayung ke?
+[35:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[35:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[35:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[36:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[36:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[37:02] Rafizi Ramli: Hahaha. Kan?
+[37:03] Rafizi Ramli: Adakah, ah, Khairul...
+[37:05] YB: Lamanya kata nak sekejap aje.
+[37:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[37:10] YB: Kau ada share dalam Rembayung ke?
+[37:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[37:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[37:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[37:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[38:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[38:32] Rafizi Ramli: Hahaha. Kan?
+[38:33] Rafizi Ramli: Adakah, ah, Khairul...
+[38:35] YB: Lamanya kata nak sekejap aje.
+[38:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[38:40] YB: Kau ada share dalam Rembayung ke?
+[38:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[38:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[38:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[39:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[39:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[40:02] Rafizi Ramli: Hahaha. Kan?
+[40:03] Rafizi Ramli: Adakah, ah, Khairul...
+[40:05] YB: Lamanya kata nak sekejap aje.
+[40:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[40:10] YB: Kau ada share dalam Rembayung ke?
+[40:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[40:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[40:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[40:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[41:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[41:32] Rafizi Ramli: Hahaha. Kan?
+[41:33] Rafizi Ramli: Adakah, ah, Khairul...
+[41:35] YB: Lamanya kata nak sekejap aje.
+[41:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[41:40] YB: Kau ada share dalam Rembayung ke?
+[41:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[41:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[41:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[42:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[42:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[43:02] Rafizi Ramli: Hahaha. Kan?
+[43:03] Rafizi Ramli: Adakah, ah, Khairul...
+[43:05] YB: Lamanya kata nak sekejap aje.
+[43:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[43:10] YB: Kau ada share dalam Rembayung ke?
+[43:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[43:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[43:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[43:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[44:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[44:32] Rafizi Ramli: Hahaha. Kan?
+[44:33] Rafizi Ramli: Adakah, ah, Khairul...
+[44:35] YB: Lamanya kata nak sekejap aje.
+[44:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[44:40] YB: Kau ada share dalam Rembayung ke?
+[44:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[44:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[44:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[45:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[45:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[46:02] Rafizi Ramli: Hahaha. Kan?
+[46:03] Rafizi Ramli: Adakah, ah, Khairul...
+[46:05] YB: Lamanya kata nak sekejap aje.
+[46:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[46:10] YB: Kau ada share dalam Rembayung ke?
+[46:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[46:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[46:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[46:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[47:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[47:32] Rafizi Ramli: Hahaha. Kan?
+[47:33] Rafizi Ramli: Adakah, ah, Khairul...
+[47:35] YB: Lamanya kata nak sekejap aje.
+[47:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[47:40] YB: Kau ada share dalam Rembayung ke?
+[47:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[47:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[47:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[48:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[48:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[49:02] Rafizi Ramli: Hahaha. Kan?
+[49:03] Rafizi Ramli: Adakah, ah, Khairul...
+[49:05] YB: Lamanya kata nak sekejap aje.
+[49:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[49:10] YB: Kau ada share dalam Rembayung ke?
+[49:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[49:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[49:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[49:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[50:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[50:32] Rafizi Ramli: Hahaha. Kan?
+[50:33] Rafizi Ramli: Adakah, ah, Khairul...
+[50:35] YB: Lamanya kata nak sekejap aje.
+[50:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[50:40] YB: Kau ada share dalam Rembayung ke?
+[50:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[50:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[50:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[51:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[51:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[52:02] Rafizi Ramli: Hahaha. Kan?
+[52:03] Rafizi Ramli: Adakah, ah, Khairul...
+[52:05] YB: Lamanya kata nak sekejap aje.
+[52:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[52:10] YB: Kau ada share dalam Rembayung ke?
+[52:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[52:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[52:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[52:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[53:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[53:32] Rafizi Ramli: Hahaha. Kan?
+[53:33] Rafizi Ramli: Adakah, ah, Khairul...
+[53:35] YB: Lamanya kata nak sekejap aje.
+[53:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[53:40] YB: Kau ada share dalam Rembayung ke?
+[53:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[53:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[53:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[54:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[54:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[55:02] Rafizi Ramli: Hahaha. Kan?
+[55:03] Rafizi Ramli: Adakah, ah, Khairul...
+[55:05] YB: Lamanya kata nak sekejap aje.
+[55:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[55:10] YB: Kau ada share dalam Rembayung ke?
+[55:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[55:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[55:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[55:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[56:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[56:32] Rafizi Ramli: Hahaha. Kan?
+[56:33] Rafizi Ramli: Adakah, ah, Khairul...
+[56:35] YB: Lamanya kata nak sekejap aje.
+[56:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[56:40] YB: Kau ada share dalam Rembayung ke?
+[56:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[56:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[56:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[57:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[57:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[58:02] Rafizi Ramli: Hahaha. Kan?
+[58:03] Rafizi Ramli: Adakah, ah, Khairul...
+[58:05] YB: Lamanya kata nak sekejap aje.
+[58:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[58:10] YB: Kau ada share dalam Rembayung ke?
+[58:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[58:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[58:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[58:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[59:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[59:32] Rafizi Ramli: Hahaha. Kan?
+[59:33] Rafizi Ramli: Adakah, ah, Khairul...
+[59:35] YB: Lamanya kata nak sekejap aje.
+[59:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[59:40] YB: Kau ada share dalam Rembayung ke?
+[59:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[59:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[59:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[60:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[60:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[61:02] Rafizi Ramli: Hahaha. Kan?
+[61:03] Rafizi Ramli: Adakah, ah, Khairul...
+[61:05] YB: Lamanya kata nak sekejap aje.
+[61:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[61:10] YB: Kau ada share dalam Rembayung ke?
+[61:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[61:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[61:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[61:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[62:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[62:32] Rafizi Ramli: Hahaha. Kan?
+[62:33] Rafizi Ramli: Adakah, ah, Khairul...
+[62:35] YB: Lamanya kata nak sekejap aje.
+[62:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[62:40] YB: Kau ada share dalam Rembayung ke?
+[62:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[62:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[62:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[63:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[63:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[64:02] Rafizi Ramli: Hahaha. Kan?
+[64:03] Rafizi Ramli: Adakah, ah, Khairul...
+[64:05] YB: Lamanya kata nak sekejap aje.
+[64:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[64:10] YB: Kau ada share dalam Rembayung ke?
+[64:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[64:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[64:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[64:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[65:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[65:32] Rafizi Ramli: Hahaha. Kan?
+[65:33] Rafizi Ramli: Adakah, ah, Khairul...
+[65:35] YB: Lamanya kata nak sekejap aje.
+[65:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[65:40] YB: Kau ada share dalam Rembayung ke?
+[65:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[65:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[65:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[66:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[66:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[67:02] Rafizi Ramli: Hahaha. Kan?
+[67:03] Rafizi Ramli: Adakah, ah, Khairul...
+[67:05] YB: Lamanya kata nak sekejap aje.
+[67:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[67:10] YB: Kau ada share dalam Rembayung ke?
+[67:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[67:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[67:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[67:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[68:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[68:32] Rafizi Ramli: Hahaha. Kan?
+[68:33] Rafizi Ramli: Adakah, ah, Khairul...
+[68:35] YB: Lamanya kata nak sekejap aje.
+[68:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[68:40] YB: Kau ada share dalam Rembayung ke?
+[68:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[68:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[68:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[69:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[69:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[70:02] Rafizi Ramli: Hahaha. Kan?
+[70:03] Rafizi Ramli: Adakah, ah, Khairul...
+[70:05] YB: Lamanya kata nak sekejap aje.
+[70:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[70:10] YB: Kau ada share dalam Rembayung ke?
+[70:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[70:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[70:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[70:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[71:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[71:32] Rafizi Ramli: Hahaha. Kan?
+[71:33] Rafizi Ramli: Adakah, ah, Khairul...
+[71:35] YB: Lamanya kata nak sekejap aje.
+[71:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[71:40] YB: Kau ada share dalam Rembayung ke?
+[71:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[71:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[71:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[72:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[72:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[73:02] Rafizi Ramli: Hahaha. Kan?
+[73:03] Rafizi Ramli: Adakah, ah, Khairul...
+[73:05] YB: Lamanya kata nak sekejap aje.
+[73:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[73:10] YB: Kau ada share dalam Rembayung ke?
+[73:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[73:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[73:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[73:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[74:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[74:32] Rafizi Ramli: Hahaha. Kan?
+[74:33] Rafizi Ramli: Adakah, ah, Khairul...
+[74:35] YB: Lamanya kata nak sekejap aje.
+[74:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[74:40] YB: Kau ada share dalam Rembayung ke?
+[74:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[74:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[74:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[75:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[75:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[76:02] Rafizi Ramli: Hahaha. Kan?
+[76:03] Rafizi Ramli: Adakah, ah, Khairul...
+[76:05] YB: Lamanya kata nak sekejap aje.
+[76:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[76:10] YB: Kau ada share dalam Rembayung ke?
+[76:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[76:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[76:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[76:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[77:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[77:32] Rafizi Ramli: Hahaha. Kan?
+[77:33] Rafizi Ramli: Adakah, ah, Khairul...
+[77:35] YB: Lamanya kata nak sekejap aje.
+[77:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[77:40] YB: Kau ada share dalam Rembayung ke?
+[77:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[77:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[77:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[78:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[78:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[79:02] Rafizi Ramli: Hahaha. Kan?
+[79:03] Rafizi Ramli: Adakah, ah, Khairul...
+[79:05] YB: Lamanya kata nak sekejap aje.
+[79:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[79:10] YB: Kau ada share dalam Rembayung ke?
+[79:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[79:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[79:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[79:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[80:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[80:32] Rafizi Ramli: Hahaha. Kan?
+[80:33] Rafizi Ramli: Adakah, ah, Khairul...
+[80:35] YB: Lamanya kata nak sekejap aje.
+[80:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[80:40] YB: Kau ada share dalam Rembayung ke?
+[80:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[80:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[80:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[81:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[81:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[82:02] Rafizi Ramli: Hahaha. Kan?
+[82:03] Rafizi Ramli: Adakah, ah, Khairul...
+[82:05] YB: Lamanya kata nak sekejap aje.
+[82:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[82:10] YB: Kau ada share dalam Rembayung ke?
+[82:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[82:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[82:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[82:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[83:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[83:32] Rafizi Ramli: Hahaha. Kan?
+[83:33] Rafizi Ramli: Adakah, ah, Khairul...
+[83:35] YB: Lamanya kata nak sekejap aje.
+[83:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[83:40] YB: Kau ada share dalam Rembayung ke?
+[83:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[83:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[83:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[84:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[84:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[85:02] Rafizi Ramli: Hahaha. Kan?
+[85:03] Rafizi Ramli: Adakah, ah, Khairul...
+[85:05] YB: Lamanya kata nak sekejap aje.
+[85:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[85:10] YB: Kau ada share dalam Rembayung ke?
+[85:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[85:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[85:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[85:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[86:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[86:32] Rafizi Ramli: Hahaha. Kan?
+[86:33] Rafizi Ramli: Adakah, ah, Khairul...
+[86:35] YB: Lamanya kata nak sekejap aje.
+[86:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[86:40] YB: Kau ada share dalam Rembayung ke?
+[86:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[86:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[86:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[87:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[87:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[88:02] Rafizi Ramli: Hahaha. Kan?
+[88:03] Rafizi Ramli: Adakah, ah, Khairul...
+[88:05] YB: Lamanya kata nak sekejap aje.
+[88:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[88:10] YB: Kau ada share dalam Rembayung ke?
+[88:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[88:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[88:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[88:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[89:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[89:32] Rafizi Ramli: Hahaha. Kan?
+[89:33] Rafizi Ramli: Adakah, ah, Khairul...
+[89:35] YB: Lamanya kata nak sekejap aje.
+[89:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[89:40] YB: Kau ada share dalam Rembayung ke?
+[89:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[89:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[89:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[90:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[90:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[91:02] Rafizi Ramli: Hahaha. Kan?
+[91:03] Rafizi Ramli: Adakah, ah, Khairul...
+[91:05] YB: Lamanya kata nak sekejap aje.
+[91:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[91:10] YB: Kau ada share dalam Rembayung ke?
+[91:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[91:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[91:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[91:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[92:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[92:32] Rafizi Ramli: Hahaha. Kan?
+[92:33] Rafizi Ramli: Adakah, ah, Khairul...
+[92:35] YB: Lamanya kata nak sekejap aje.
+[92:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[92:40] YB: Kau ada share dalam Rembayung ke?
+[92:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[92:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[92:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[93:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[93:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[94:02] Rafizi Ramli: Hahaha. Kan?
+[94:03] Rafizi Ramli: Adakah, ah, Khairul...
+[94:05] YB: Lamanya kata nak sekejap aje.
+[94:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[94:10] YB: Kau ada share dalam Rembayung ke?
+[94:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[94:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[94:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[94:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[95:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[95:32] Rafizi Ramli: Hahaha. Kan?
+[95:33] Rafizi Ramli: Adakah, ah, Khairul...
+[95:35] YB: Lamanya kata nak sekejap aje.
+[95:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[95:40] YB: Kau ada share dalam Rembayung ke?
+[95:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[95:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[95:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[96:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[96:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[97:02] Rafizi Ramli: Hahaha. Kan?
+[97:03] Rafizi Ramli: Adakah, ah, Khairul...
+[97:05] YB: Lamanya kata nak sekejap aje.
+[97:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[97:10] YB: Kau ada share dalam Rembayung ke?
+[97:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[97:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[97:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[97:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[98:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[98:32] Rafizi Ramli: Hahaha. Kan?
+[98:33] Rafizi Ramli: Adakah, ah, Khairul...
+[98:35] YB: Lamanya kata nak sekejap aje.
+[98:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[98:40] YB: Kau ada share dalam Rembayung ke?
+[98:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[98:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[98:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[99:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[99:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[100:02] Rafizi Ramli: Hahaha. Kan?
+[100:03] Rafizi Ramli: Adakah, ah, Khairul...
+[100:05] YB: Lamanya kata nak sekejap aje.
+[100:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[100:10] YB: Kau ada share dalam Rembayung ke?
+[100:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[100:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[100:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[100:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[101:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[101:32] Rafizi Ramli: Hahaha. Kan?
+[101:33] Rafizi Ramli: Adakah, ah, Khairul...
+[101:35] YB: Lamanya kata nak sekejap aje.
+[101:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[101:40] YB: Kau ada share dalam Rembayung ke?
+[101:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[101:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[101:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[102:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[102:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[103:02] Rafizi Ramli: Hahaha. Kan?
+[103:03] Rafizi Ramli: Adakah, ah, Khairul...
+[103:05] YB: Lamanya kata nak sekejap aje.
+[103:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[103:10] YB: Kau ada share dalam Rembayung ke?
+[103:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[103:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[103:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[103:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[104:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[104:32] Rafizi Ramli: Hahaha. Kan?
+[104:33] Rafizi Ramli: Adakah, ah, Khairul...
+[104:35] YB: Lamanya kata nak sekejap aje.
+[104:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[104:40] YB: Kau ada share dalam Rembayung ke?
+[104:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[104:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[104:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[105:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[105:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[106:02] Rafizi Ramli: Hahaha. Kan?
+[106:03] Rafizi Ramli: Adakah, ah, Khairul...
+[106:05] YB: Lamanya kata nak sekejap aje.
+[106:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[106:10] YB: Kau ada share dalam Rembayung ke?
+[106:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[106:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[106:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[106:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[107:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[107:32] Rafizi Ramli: Hahaha. Kan?
+[107:33] Rafizi Ramli: Adakah, ah, Khairul...
+[107:35] YB: Lamanya kata nak sekejap aje.
+[107:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[107:40] YB: Kau ada share dalam Rembayung ke?
+[107:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[107:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[107:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[108:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+[108:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+[109:02] Rafizi Ramli: Hahaha. Kan?
+[109:03] Rafizi Ramli: Adakah, ah, Khairul...
+[109:05] YB: Lamanya kata nak sekejap aje.
+[109:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+[109:10] YB: Kau ada share dalam Rembayung ke?
+[109:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+[109:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+[109:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+[109:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Remayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[110:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[110:32] Rafizi Ramli: Hahaha. Kan?
+
+[110:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[110:35] YB: Lamanya kata nak sekejap aje.
+
+[110:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[110:40] YB: Kau ada share dalam Rembayung ke?
+
+[110:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[110:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[110:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[111:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[111:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[112:02] Rafizi Ramli: Hahaha. Kan?
+
+[112:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[112:05] YB: Lamanya kata nak sekejap aje.
+
+[112:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[112:10] YB: Kau ada share dalam Rembayung ke?
+
+[112:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[112:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[112:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[112:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[113:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[113:32] Rafizi Ramli: Hahaha. Kan?
+
+[113:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[113:35] YB: Lamanya kata nak sekejap aje.
+
+[113:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[113:40] YB: Kau ada share dalam Rembayung ke?
+
+[113:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[113:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[113:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[114:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[114:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[115:02] Rafizi Ramli: Hahaha. Kan?
+
+[115:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[115:05] YB: Lamanya kata nak sekejap aje.
+
+[115:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[115:10] YB: Kau ada share dalam Rembayung ke?
+
+[115:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[115:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[115:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[115:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[116:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[116:32] Rafizi Ramli: Hahaha. Kan?
+
+[116:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[116:35] YB: Lamanya kata nak sekejap aje.
+
+[116:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[116:40] YB: Kau ada share dalam Rembayung ke?
+
+[116:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[116:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[116:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[117:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[117:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[118:02] Rafizi Ramli: Hahaha. Kan?
+
+[118:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[118:05] YB: Lamanya kata nak sekejap aje.
+
+[118:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[118:10] YB: Kau ada share dalam Rembayung ke?
+
+[118:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[118:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[118:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[118:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[119:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[119:32] Rafizi Ramli: Hahaha. Kan?
+
+[119:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[119:35] YB: Lamanya kata nak sekejap aje.
+
+[119:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[119:40] YB: Kau ada share dalam Rembayung ke?
+
+[119:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[119:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[119:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[120:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[120:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[121:02] Rafizi Ramli: Hahaha. Kan?
+
+[121:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[121:05] YB: Lamanya kata nak sekejap aje.
+
+[121:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[121:10] YB: Kau ada share dalam Rembayung ke?
+
+[121:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[121:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[121:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[121:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[122:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[122:32] Rafizi Ramli: Hahaha. Kan?
+
+[122:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[122:35] YB: Lamanya kata nak sekejap aje.
+
+[122:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[122:40] YB: Kau ada share dalam Rembayung ke?
+
+[122:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[122:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[122:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[123:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[123:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[124:02] Rafizi Ramli: Hahaha. Kan?
+
+[124:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[124:05] YB: Lamanya kata nak sekejap aje.
+
+[124:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[124:10] YB: Kau ada share dalam Rembayung ke?
+
+[124:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[124:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[124:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[124:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[125:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[125:32] Rafizi Ramli: Hahaha. Kan?
+
+[125:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[125:35] YB: Lamanya kata nak sekejap aje.
+
+[125:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[125:40] YB: Kau ada share dalam Rembayung ke?
+
+[125:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[125:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[125:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[126:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[126:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[127:02] Rafizi Ramli: Hahaha. Kan?
+
+[127:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[127:05] YB: Lamanya kata nak sekejap aje.
+
+[127:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[127:10] YB: Kau ada share dalam Rembayung ke?
+
+[127:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[127:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[127:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[127:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[128:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[128:32] Rafizi Ramli: Hahaha. Kan?
+
+[128:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[128:35] YB: Lamanya kata nak sekejap aje.
+
+[128:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[128:40] YB: Kau ada share dalam Rembayung ke?
+
+[128:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[128:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[128:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[129:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[129:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[130:02] Rafizi Ramli: Hahaha. Kan?
+
+[130:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[130:05] YB: Lamanya kata nak sekejap aje.
+
+[130:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[130:10] YB: Kau ada share dalam Rembayung ke?
+
+[130:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[130:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[130:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[130:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[131:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[131:32] Rafizi Ramli: Hahaha. Kan?
+
+[131:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[131:35] YB: Lamanya kata nak sekejap aje.
+
+[131:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[131:40] YB: Kau ada share dalam Rembayung ke?
+
+[131:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[131:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[131:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[132:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[132:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[133:02] Rafizi Ramli: Hahaha. Kan?
+
+[133:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[133:05] YB: Lamanya kata nak sekejap aje.
+
+[133:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[133:10] YB: Kau ada share dalam Rembayung ke?
+
+[133:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[133:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[133:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[133:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[134:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[134:32] Rafizi Ramli: Hahaha. Kan?
+
+[134:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[134:35] YB: Lamanya kata nak sekejap aje.
+
+[134:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[134:40] YB: Kau ada share dalam Rembayung ke?
+
+[134:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[134:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[134:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[135:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[135:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[136:02] Rafizi Ramli: Hahaha. Kan?
+
+[136:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[136:05] YB: Lamanya kata nak sekejap aje.
+
+[136:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[136:10] YB: Kau ada share dalam Rembayung ke?
+
+[136:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[136:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[136:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[136:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[137:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[137:32] Rafizi Ramli: Hahaha. Kan?
+
+[137:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[137:35] YB: Lamanya kata nak sekejap aje.
+
+[137:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[137:40] YB: Kau ada share dalam Rembayung ke?
+
+[137:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[137:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[137:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[138:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[138:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[139:02] Rafizi Ramli: Hahaha. Kan?
+
+[139:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[139:05] YB: Lamanya kata nak sekejap aje.
+
+[139:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[139:10] YB: Kau ada share dalam Rembayung ke?
+
+[139:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[139:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[139:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[139:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[140:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[140:32] Rafizi Ramli: Hahaha. Kan?
+
+[140:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[140:35] YB: Lamanya kata nak sekejap aje.
+
+[140:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[140:40] YB: Kau ada share dalam Rembayung ke?
+
+[140:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[140:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[140:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[141:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[141:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[142:02] Rafizi Ramli: Hahaha. Kan?
+
+[142:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[142:05] YB: Lamanya kata nak sekejap aje.
+
+[142:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[142:10] YB: Kau ada share dalam Rembayung ke?
+
+[142:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[142:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[142:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[142:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[143:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[143:32] Rafizi Ramli: Hahaha. Kan?
+
+[143:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[143:35] YB: Lamanya kata nak sekejap aje.
+
+[143:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[143:40] YB: Kau ada share dalam Rembayung ke?
+
+[143:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[143:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[143:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[144:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[144:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[145:02] Rafizi Ramli: Hahaha. Kan?
+
+[145:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[145:05] YB: Lamanya kata nak sekejap aje.
+
+[145:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[145:10] YB: Kau ada share dalam Rembayung ke?
+
+[145:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[145:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[145:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[145:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[146:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[146:32] Rafizi Ramli: Hahaha. Kan?
+
+[146:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[146:35] YB: Lamanya kata nak sekejap aje.
+
+[146:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[146:40] YB: Kau ada share dalam Rembayung ke?
+
+[146:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[146:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[146:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[147:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[147:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[148:02] Rafizi Ramli: Hahaha. Kan?
+
+[148:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[148:05] YB: Lamanya kata nak sekejap aje.
+
+[148:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[148:10] YB: Kau ada share dalam Rembayung ke?
+
+[148:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[148:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[148:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[148:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[149:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[149:32] Rafizi Ramli: Hahaha. Kan?
+
+[149:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[149:35] YB: Lamanya kata nak sekejap aje.
+
+[149:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[149:40] YB: Kau ada share dalam Rembayung ke?
+
+[149:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[149:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[149:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[150:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[150:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[151:02] Rafizi Ramli: Hahaha. Kan?
+
+[151:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[151:05] YB: Lamanya kata nak sekejap aje.
+
+[151:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[151:10] YB: Kau ada share dalam Rembayung ke?
+
+[151:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[151:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[151:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[151:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[152:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[152:32] Rafizi Ramli: Hahaha. Kan?
+
+[152:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[152:35] YB: Lamanya kata nak sekejap aje.
+
+[152:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[152:40] YB: Kau ada share dalam Rembayung ke?
+
+[152:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[152:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[152:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[153:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[153:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[154:02] Rafizi Ramli: Hahaha. Kan?
+
+[154:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[154:05] YB: Lamanya kata nak sekejap aje.
+
+[154:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[154:10] YB: Kau ada share dalam Rembayung ke?
+
+[154:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[154:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[154:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[154:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[155:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[155:32] Rafizi Ramli: Hahaha. Kan?
+
+[155:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[155:35] YB: Lamanya kata nak sekejap aje.
+
+[155:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[155:40] YB: Kau ada share dalam Rembayung ke?
+
+[155:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[155:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[155:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[156:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[156:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[157:02] Rafizi Ramli: Hahaha. Kan?
+
+[157:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[157:05] YB: Lamanya kata nak sekejap aje.
+
+[157:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[157:10] YB: Kau ada share dalam Rembayung ke?
+
+[157:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[157:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[157:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[157:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[158:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[158:32] Rafizi Ramli: Hahaha. Kan?
+
+[158:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[158:35] YB: Lamanya kata nak sekejap aje.
+
+[158:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[158:40] YB: Kau ada share dalam Rembayung ke?
+
+[158:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[158:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[158:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[159:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[159:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[160:02] Rafizi Ramli: Hahaha. Kan?
+
+[160:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[160:05] YB: Lamanya kata nak sekejap aje.
+
+[160:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[160:10] YB: Kau ada share dalam Rembayung ke?
+
+[160:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[160:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[160:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[160:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[161:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[161:32] Rafizi Ramli: Hahaha. Kan?
+
+[161:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[161:35] YB: Lamanya kata nak sekejap aje.
+
+[161:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[161:40] YB: Kau ada share dalam Rembayung ke?
+
+[161:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[161:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[161:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[162:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[162:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[163:02] Rafizi Ramli: Hahaha. Kan?
+
+[163:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[163:05] YB: Lamanya kata nak sekejap aje.
+
+[163:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[163:10] YB: Kau ada share dalam Rembayung ke?
+
+[163:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[163:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[163:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[163:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[164:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[164:32] Rafizi Ramli: Hahaha. Kan?
+
+[164:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[164:35] YB: Lamanya kata nak sekejap aje.
+
+[164:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[164:40] YB: Kau ada share dalam Rembayung ke?
+
+[164:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[164:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[164:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[165:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[165:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[166:02] Rafizi Ramli: Hahaha. Kan?
+
+[166:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[166:05] YB: Lamanya kata nak sekejap aje.
+
+[166:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[166:10] YB: Kau ada share dalam Rembayung ke?
+
+[166:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[166:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[166:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[166:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[167:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[167:32] Rafizi Ramli: Hahaha. Kan?
+
+[167:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[167:35] YB: Lamanya kata nak sekejap aje.
+
+[167:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[167:40] YB: Kau ada share dalam Rembayung ke?
+
+[167:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[167:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[167:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[168:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[168:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[169:02] Rafizi Ramli: Hahaha. Kan?
+
+[169:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[169:05] YB: Lamanya kata nak sekejap aje.
+
+[169:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[169:10] YB: Kau ada share dalam Rembayung ke?
+
+[169:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[169:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[169:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[169:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[170:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[170:32] Rafizi Ramli: Hahaha. Kan?
+
+[170:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[170:35] YB: Lamanya kata nak sekejap aje.
+
+[170:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[170:40] YB: Kau ada share dalam Rembayung ke?
+
+[170:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[170:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[170:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[171:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[171:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[172:02] Rafizi Ramli: Hahaha. Kan?
+
+[172:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[172:05] YB: Lamanya kata nak sekejap aje.
+
+[172:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[172:10] YB: Kau ada share dalam Rembayung ke?
+
+[172:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[172:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[172:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[172:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[173:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[173:32] Rafizi Ramli: Hahaha. Kan?
+
+[173:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[173:35] YB: Lamanya kata nak sekejap aje.
+
+[173:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[173:40] YB: Kau ada share dalam Rembayung ke?
+
+[173:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[173:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[173:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[174:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[174:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[175:02] Rafizi Ramli: Hahaha. Kan?
+
+[175:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[175:05] YB: Lamanya kata nak sekejap aje.
+
+[175:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[175:10] YB: Kau ada share dalam Rembayung ke?
+
+[175:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[175:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[175:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[175:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[176:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[176:32] Rafizi Ramli: Hahaha. Kan?
+
+[176:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[176:35] YB: Lamanya kata nak sekejap aje.
+
+[176:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[176:40] YB: Kau ada share dalam Rembayung ke?
+
+[176:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[176:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[176:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[177:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[177:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[178:02] Rafizi Ramli: Hahaha. Kan?
+
+[178:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[178:05] YB: Lamanya kata nak sekejap aje.
+
+[178:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[178:10] YB: Kau ada share dalam Rembayung ke?
+
+[178:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[178:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[178:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[02:21]
-Farhan: Assalamualaikum dan selamat datang. Sekali lagi Podcast Yang Menteri-Menteri dah episod ke-27. Macam biasa bersama saudara-saudara Rafizi Ramli, obviously.
+[178:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[02:32]
-Rafizi Ramli: Kenapa ada dua kali saudara-saudara? Gagap?
+[179:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[02:35]
-Farhan: Hmm. Expectation...
+[179:32] Rafizi Ramli: Hahaha. Kan?
 
-[02:36]
-Rafizi Ramli: Episod ke-27 pun masih lagi gagap?
+[179:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[02:38]
-Farhan: Maaf YB. Tapi YB, itu tak penting, sebab yang lagi penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet lah. Saya tukar topik. K. Tapi sebelum itu...
+[179:35] YB: Lamanya kata nak sekejap aje.
 
-[02:48]
-Rafizi Ramli: Pandai kau mengelak ya.
+[179:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[02:50]
-Farhan: Sebelum itu, macam biasa, kita ke segmen yang pertamalah. Kita cuba ringkaskan sikit. Dah kat segmen Ber-Iya. Kita tengok apa yang ada pada minggu ini.
+[179:40] YB: Kau ada share dalam Rembayung ke?
 
-[03:02]
-Farhan: Yang pertama. Belum buka dah kena review. Tak sedap YB. Belum buka lagi. "Not tasty" YB. Kat bawah sekali tu. Not tasty. Dia buka tahun depan YB.
+[179:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[03:18]
-Rafizi Ramli: Ah well, Khairul Aming lah yang get the last laugh. Sebab orang yang ber-iya-iya pergi review semua ni kan, yalah, dia jadi bahan ber-iya lah kerana belum buka lagi dah review. Tapi it fits perfectly into Rembayung punya go-to-market strategy lah kot. Because nowadays it's all about viral. It's all about media value. Jadi, cerdik Khairul Aming lah. Tahniah. Ber-iya YB?
+[179:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[04:00]
-Zaid: Kejap. I have one more. I see one more review yang Saiful-lah bagi. Ini jadi bualanlah, maksud dia announce buka kat Rembayung tu, is parking. Parking kejap lagi susah sebab kampung baru. Dan spec-spec kan?
+[179:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[04:17]
-Rafizi Ramli: Maybe sebab tu dia kena pastikan pre-booking. So I think there's a, jangan walk-in. Yalah bila you operate restaurant yang ada seating capacity berapa, 240 kan? Maksudnya, semua benda-benda yang berisiko biasa kepada restoran yang jauh lagi kecil, risiko tu dia akan amplify sampai 10-20 kali lah. Jadi risiko satu, risiko parking. Satu, risiko wastage. Sebab kalau you tersalah kalau bagi walk-in, kalau hari tu orang sikit, esok orang banyak kan, jadi nak manage inventory and nak manage raw materials tu agak mencabar. Jadi I think so far nampak Khairul Aming dah dah apa nama ni, take a lot of things into account lah. Cuma dia bila orang ber-iya macam ini kan, ber-iya macam ni, dia ada a lot of good sides, tapi dia ada juga risikolah kerana sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day it's all about the product. Is actually the total value offering product dengan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KLCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam mana, nak ambil gambar.
+[180:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[06:12]
-Zaid: Lamanya. Kata nak sekejap saja.
+[180:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[06:14]
-Zaid: Sori, sori, sori. Satu lagi. Because I teringat balik perbualan...
+[181:02] Rafizi Ramli: Hahaha. Kan?
 
-[06:18]
-Farhan: Kau ada share dalam Rembayung ke?
+[181:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[06:21]
-Zaid: Tak tak tak tak tak. I teringat balik perbualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun...
+[181:05] YB: Lamanya kata nak sekejap aje.
 
-[06:33]
-Rafizi Ramli: Saya tak rasa dia nak jadi idola. And in fact kadang-kadang what we need more in society is less of, you know, idols, more of people who actually do it. kan? Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan. Tapi inspirasi tu kalau setakat "Oh saya jadi fan awak," what we need is actually more and more people yang, especially yang muda-muda, yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita dok preach daripada dulu lah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera, success model tu dia masih lagi sangkut kepada success model zaman 70-an, 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah, tapi kelas menengah makan gaji. Jadi the capital is not mobilized, dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Maybank lah, dekat CelcomDigi lah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So in that sense lah.
+[181:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[08:35]
-Farhan: With assistance daripada government?
+[181:10] YB: Kau ada share dalam Rembayung ke?
 
-[08:37]
-Rafizi Ramli: Mana ada government assistance dekat tempat lain. Macam Khairul Aming lah orang cakap kan.
+[181:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[08:41]
-Farhan: Yalah, tapi itu pun jadi isu juga. Sebab ada...
+[181:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[08:45]
-Rafizi Ramli: Hei, Ber-Iya! Yang ber-iya sangat ni kenapa? Ber-iya kena pendek!
+[181:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[08:52]
-Zaid: Saya excited sebab Rembayung ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
+[181:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[09:10]
-Rafizi Ramli: Dia ada partner kan. Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia. Kalau katakanlah di US lah, ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan, dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya, dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dolar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk raise capital kan, panjang tebal macam ni agreement. Dan sebab kelas menengah kita ni, yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Kan? Kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk bagi modal nak buat bisnes.
+[182:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[10:29]
-Farhan: Okay. Okay YB. 8 minit airtime.
+[182:32] Rafizi Ramli: Hahaha. Kan?
 
-[10:35]
-Rafizi Ramli: Lepas tu Khairul Aming bayar kitalah. Sebab mempromosikan Rembayung.
+[182:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[10:43]
-Farhan: Okay, next YB kita ada: "Ber-iya. Adoi pusingnya, banyak sangat surat minta sokongan."
+[182:35] YB: Lamanya kata nak sekejap aje.
 
-[10:50]
-Rafizi Ramli: Ber-iya mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Othman ni. Satunya ialah bila Utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa, lebaran kah lembaran? Lembaran?
+[182:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[11:16]
-Farhan: Lembaran.
+[182:40] YB: Kau ada share dalam Rembayung ke?
 
-[11:17]
-Rafizi Ramli: Lebaran...
+[182:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[11:18]
-Farhan: Lebaran tu raya.
+[182:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[11:19]
-Rafizi Ramli: Lebaran raya. Saya tes. So kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah. Maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini, teranglah ikut macam mana pun, beritahu dia ikut proses kan, walaupun ber-iya-iya menerangkan, ia sesuatu yang rakyat memang dah buat keputusan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu. Katakanlah saya, saya nak masuk tender, itu pun masalah orang politik tahu. Sebab dia tak pernah melalui proses tender tu. Dia kat atas, dia bagi arahan kalau dia campur tangan kan. Nak masuk tender kan, this very idea that no matter how good I am, tapi ada orang lain boleh ada express lane. Express lane tu orang tak suka. Kalau dekat supermarket pun, kita beratur susah payah ada orang pergi potong, memang orang marahlah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tenderlah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan, dia memang tidak akan berjaya mengubah persepsi rakyatlah. Jadi cubalah lagi di masa akan datang.
+[182:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[13:00]
-Farhan: Baik YB, good luck. Kita tengok yang seterusnya YB.
+[183:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[13:03]
-Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun dialu-alukanlah. Boleh. Boleh lah. Berapa caj YB? tapi kita caj lah. Dua muka surat Utusan Malaysia caj dia berapa noh? Takkan caj harga tu, mahal sikit. Mahallah dua muka surat. Belpuluh ribulah. Puluh ribulah. Hmm. Okay, baik.
+[183:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[13:25]
-Farhan: Yang ketiga. "Influencer dihalang rasmi majlis. Pendidikan vs Populariti."
+[184:02] Rafizi Ramli: Hahaha. Kan?
 
-[13:35]
-Rafizi Ramli: So yang mana kita nak kata dia ber-iya ni? Dia ber-iya terangkan ke, dia ber-iya pergi rasmikan ke apa?
+[184:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[13:42]
-Farhan: Actually susah YB, depends kepada perception. Tapi YB pernah terangkan pasal benda nilah dalam ceramah Hiruk kat Kedah. Why anak-anak muda okay untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi, because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional. Boleh influencer dapat duit semua. So it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian?
+[184:05] YB: Lamanya kata nak sekejap aje.
 
-[14:12]
-Rafizi Ramli: Itu tak menjawab soalan aku. Aku tanya yang mana yang kau kata ber-iya ni? Ber-iya dia terang ke, ber-iya dia masuk sekolah?
+[184:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[14:20]
-Farhan: Boleh jadi ber-iya dia terang, sebab yalah, walaupun orang kata dia tak ada qualification, tapi dia boleh masuk sekolah. Atau ber-iya orang bash dialah. Kalau sebenarnya, okay saya...
+[184:10] YB: Kau ada share dalam Rembayung ke?
 
-[14:32]
-Zaid: Sebenarnya yang ber-iya ialah yang tukang ajak dia.
+[184:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[14:36]
-Rafizi Ramli: Oh, tukang ajak. Sebab dia kata orang jemput kan.
+[184:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[14:40]
-Zaid: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[184:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[14:44]
-Rafizi Ramli: Mungkindlah kot. Mungkin sebenarnya yang ber-iya tu cikgu-cikgu yang jemput dia. Kan? Yalah masa, itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubah lah kan. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial. Kata orang netizen ni pandai-pandai je buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan, RM500 pun susah nak dapat sumbangan. Jadi, mungkinkah yang ber-iya tu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Netizen pula, kan free, boleh komen, so dia komenlah. Cuma ini sesuatu yang masyarakat kena fikirkanlah kan. Satu maksudnya adakah bermakna mereka yang berduit, yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat? Itu satu. Kan, itu satu perkara yang masyarakat kena buat keputusanlah. Saya selalunya kurang yalah, kurang seronoklah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaik-nyalah sekolah mesti menunjukkan nilai itu kepada murid-murid kan. Bahawa yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma. Itu bagus. Tapi fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Dan itu yang datang berbalik kepada yang Hazim sebut tadilah. Maksudnya, sekolah pun kena berhati-hati bahawa kita nak kena imbangkan bagaimana kita memberi success model, model kejayaan untuk anak-anak itu. Kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan yalah, kesan dia kepada masyarakat di jangka masa panjang tu dia akan ada kesanlah.
+[184:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[17:34]
-Farhan: Cuma yang didebatkan sini ialah YB kata penting pendidikan, tapi pendidikan tu tak semestinya melalui institusi formal. Sebab dia ni pun usahawan muda. Jadi macam mana YB?
+[185:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[17:45]
-Rafizi Ramli: Alah, tak habislah kalau kita cakap kan. Sebab yang itu memang betul. Maksudnya memang betul bahawa ada orang yang berjaya di dunia ini tidak semuanya ada kelulusan yang baik ataupun kelulusan yang formal. Saya selalu bagi contoh Dyson kan. Dia bukannya ada pendidikan sains ke apa ke kan. Sama juga macam Jack Ma. Jack Ma awal-awal dulu minta kerja kat KFC tak lepas. KFC tak nak ambil dia kan. Dan banyaklah di seluruh dunia macam itu. Tetapi, tetapi itu nilai. Maksudnya kalau sekolah berjaya mendidik anak-anak bahawa kecemerlangan akademik ni hanyalah salah satu daripada resipi utama, resipi yang lebih utama ialah disiplin diri, kerja jujur, semua itulah kan. Cuma konteks itu agak lainlah kalau dengan influencer. Kan? Jadi saya tak rasa kita boleh samakan Jack Ma ataupun Dyson ataupun semua yang tokoh-tokoh besar dalam dunia ini, kita nak samakan dengan influencer tak bolehlah. Macam tu yalah, kalau tak berhati-hati kita menggalakkan anak-anak supaya berfikiran macam itulah, buat apa nak belajar susah-susah, baik jadi influencer. Dan sementara mungkin betul pada pandangan dia, dan benda itu pilihan keluarga dia dan pilihan budak itulah untuk diri dia, tetapi untuk masyarakat, kalau masyarakat itu tidak membudayakan ilmu, the pursuit of knowledge is does not form the core of that society, then masyarakat itu akan ketinggalanlah. Any civilization pun tak dapat bertahan lama kalau dia tidak dibina di atas core pursuit of knowledge. Dan saya rasa perkara itu tidak boleh dipadam daripada peranan utama sekolah lah. Ini sok, ini segmen ber-iya! Tapi kau dah jadi very heavy nak cerita pasal civilization pulak.
+[185:32] Rafizi Ramli: Hahaha. Kan?
 
-[20:12]
-Farhan: Lepas ni politik lebih politiklah YB. Jadi ini masyarakat sikit.
+[185:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[20:17]
-Rafizi Ramli: Okelokah YB. Yang mana paling ber-iya?
+[185:35] YB: Lamanya kata nak sekejap aje.
 
-[20:20]
-Farhan: Minggu-minggu depan kalau tak ada material, kita bercutilah daripada ber-iya seminggu.
+[185:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[20:25]
-Rafizi Ramli: Dia susah nak komen ber-iya dia. Okay. Sebab yalah, Fuziah dah tak ada. Susah nak top. Kan? Kita biasa tengok berita macam Saiful Jamil dan tengah membentuk kerajaan dengan satu kerusi, ah yang itu baru ber-iya.
+[185:40] YB: Kau ada share dalam Rembayung ke?
 
-[20:45]
-Farhan: Itu rare sangat YB.
+[185:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[20:47]
-Rafizi Ramli: Okay. Okay YB. YB nak rate ke tak payah?
+[185:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[20:51]
-Farhan: Tak payahlah minggu ni. Okay, baik. Kita tengoklah apa yang keras sikit YB pada minggu ini. Hidup keras dik, sudah pasti. Yang pertama berkaitan dengan rombakan kabinet YB. Hmm. Orang tanya Itu semua yang terlibat ke? Kenapa Timbalan Menteri Agama tak ada kat situ korang? Gambar dia satu je, which is dekat depan. I think dekat parlimen masa, masa dia swearing as senator. That's not a good excuse untuk tak masukkan dialah kan. Tapi tak apalah. Sejenis orang tertinggal. Ada lagi kan? Ahli Parlimen Tawau tak ada. Tawau, Lo Su Fui. Okay. Okay. YB. Vaksin atau panadol? Yalah kita tahu rombakan kabinet ini dibuat selepas...
+[185:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[21:43]
-Rafizi Ramli: Aku gerun tengok muka Sim lah. Kenapa dia senyum happy sangat tu?
+[186:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[21:47]
-Farhan: YB dia pernah masuk segmen ber-iya berkali-kali. Saya rasa itu menjawab soalan. Dan kemudian mendapat... Oh, Malaysia Great Again! Berbaloi. Oh, dia pernah masuk. Okay, okay. Tapi sekarang Timbalan Menteri bolehlah Malaysia Great Again. YB vaksin atau panadol? Sama ada rombakan kabinet ini cure the disease untuk terus menang PRU ataupun dia sekadar menahan sakit panadol, tapi dia tak ubah trajektori atau apa? Tapi that's mungkin kita punya apa ni tujuan perbincanganlah. Tapi kalau nak start daripada awal, kalau boleh dapat gambaran awal daripada YB dalam keadaan YB, kita tengok pelantikan ni ada some yalah, negatif komen daripada netizen. Kenapa orang ini diletakkan kat situ? Orang ini diletak kat sini? Jadi sebenarnya, what is the state dalam yang sekarang kita ada dalam keadaan kabinet disusun seperti itu?
+[186:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[22:42]
-Rafizi Ramli: Vaksin ni nanti anti-vax marah lah pula. The premise is that kalau vaksin dia akan mengubat sakit. Panadol penahan sakit kan? Tapi tak semua orang setuju vaksin mengubat sakitlah. Just to put a note supaya anti-vax kalau tak marah kan. Yalah, I mean, rombakan jemaah menteri ini perlu dibuat. Saya ingat banyak perbincangan tu lupa satu perkara penting iaitu dia bukan rombakan jemaah menteri yang macam berlaku di beberapa negara lain yang mana ia dibuat di tengah penggal untuk menambah baik kerajaanlah. Itu bukan sebab utama. Lagipun kita sebenarnya dah 60% daripada penggal ni sebenarnya kan. Dia bukan di tengah penggallah. Rombakan ini perlu dibuat oleh kerana Tengku Zafrul dah tak jadi menteri, ada kekosongan. Kemudian ditambah pula saya dengan Ni dengan Iwan letak jawatan. Jadi dia disebabkan oleh kekosonganlah. Jadi dia tak sama dengan rombakan-rombakan jemaah menteri yang pernah berlaku terutamanya zaman-zaman dululah kan. Jadi dari segi itu saya ingat pertimbangan yang Datuk Seri Anwar buat itu bukan semata-mata untuk menambah baik prestasi kerajaanlah. This is a reshuffle that is forced upon him, not because he wanted it lah. Jadi dah alang-alang tu kita buatlah, ambil ambil ambil peluanglah kan. Jadi komen netizen memang akan ada komenlah. Sekarang kalau orang komen sebab boleh komen. Dulu sebab tak boleh komen. So sekarang, bayangkan orang kita setiap satu benda Khairul Aming ke, ni kalau kelas ni pun orang akan komen. Jadi lerang komenlah. Jadi kalau soal sesuatu macam rombakan jemaah menteri memang akan mengundang pelbagai pandanganlah. Akhirnya semua perancangan itu di dalam kepala Perdana Menterilah, kita hanya boleh meneka. Dan biarkan melalui proses itulah. Awal-awal itu ada euforia. Orang nak tahu siapa dia ni latar belakang dia, semua kan. Kemudian dia juga bergantung kepada penjawat itulah yang jadi menteri dan timbalan menteri tu kan. Kalau tidak berhati-hati, 2 bulan orang lupalah. Dan kesan dan risiko yang diambil oleh Datuk Seri Anwar ialah dan ini memang dinyatakan sendiri oleh Perdana Menterilah. Saya baca berita, saya ingat semalam kan. Selepas, oh dua, 2 hari lepas kan, selepas jemaah menteri mesyuarat jemaah menteri yang pertama dengan kabinet baru ini, Datuk Seri Anwar pun, saya ingat ada temu ramah dengan Bernama kan, yang dia mengaku dia mengakui bahawa prestasi perlu diperbaiki kan. Dan kerana risiko yang paling utama ialah kalau prestasi tidak lebih baik, maka itu akan ada kesan kepada potensi Datuk Seri Anwar untuk kembali jadi Perdana Menteri dalam tempoh 2 tahun dari sekaranglah. Takkan saya nak komen apa. Maybe, maybe we can also highlight... Oh, Saifuddin pun tak ada! Ha, patut agi ah. Dah crowded sangat. Crowd-ed. CM pun tak ada, Achu. Hmm, oh dah crowded sangat. Banyak komen yang dilontarkan oleh netizenlah. Dia orang mengatakan yalah, banyak muka baru. Tapi ada juga menteri-menteri yang sepatutnya Banyak muka baru ke? Berbanding dengan last reshuffle lah. Berbanding daripada biasa. Ya. Ada menteri-menteri yang dikatakan perform, tetapi ditukarkan portfolio. Ada menteri-menteri yang dikatakan tak berapa perform, di-retain. Seperti yang di-mention oleh orang ramai yang paling gempalah, adalah peletakan Steven Sim di KUSKOP dan Ramanan di KESUMA. Itu antara benda yang dipersoalkanlah. Dan juga also Hannah Yeoh yang dipindahkan ke Kementerian Wilayah. Zaliha di-drop. Ada mungkin YB boleh bagi pandangan tentang this reshuffling steps?
+[187:02] Rafizi Ramli: Hahaha. Kan?
 
-[28:11]
-Rafizi Ramli: Shuffle macam Dance On The Floor ke? I baru teringat benda tu. Shuffle. Dance on the floor. No, okay. Saya rasa kita tolak tepi dahulu komen-komen yang pasal Steven Sim ke, Ramanan ke, Zaliha ke kan. Sebab saya rasa komen yang itu mengenai pertukaran-pertukaran itu lebih bertumpu kepada pandangan orang PH. Mmm. Saya tak rasa dia ada kesan atau traction yang lebih besar dengan pengundi biasa. Rombakan kabinet ni kita yalah, kena terima hakikatlah. Sebenarnya yang orang paling teruja dan menunggu tu hanyalah satu nama. Fadhlina. Ya. Yang itu yang semua orang tunggu. Dengan yang yang saya rasa yang rakyat biasa yang tidak partisan ini kerana Kementerian Pendidikan itu sangat penting kan. Malah, malah soal siapa jadi Menteri Ekonomi pun tak ada orang tak peduli sangat pun. Yang yang tumpuan selama beberapa bulan terutamanya sejak kami letak jawatan dan confirm akan ada rombakan kabinet, kemudian dengan beberapa isu yang berlaku ialah sama ada Datuk Seri Anwar Ibrahim akan menukar Menteri Pendidikan ataupun tidak. Dan itu adalah pandangan yang menyeluruh merentasi semua kumpulan. Sama ada penyokong parti, sama ada tapi lebih-lebih lagi terutamanya dengan rakyat biasalah kerana semua ibu bapa yang Melayu, yang bukan Melayu kan. Jadi apabila rombakan ini tidak melibatkan Fadhlina langsung dan Kementerian Pendidikan tidak disentuh langsung, jadi bagi sayalah, itu secara automatik akan menjadi pertanda bahawa pandangan rakyat biasa ialah rombakan ini tidak akan ada kesan apa-apa. Sebab yang mereka tumpu yang itu sahajalah kan. jadi itu yang sebab itu kita tengok komen tu kebanyakannya bagi saya ialah komen daripada penyokong PH. Hanya penyokong PH saja yang "Oh Steven Sim lah, oh itulah, inilah" kan. Sebab rakyat biasa tak fikir macam itu. Rakyat biasa tidak ada banyak pandangan pun pasal Steven Sim, hatta Ramanan pun. Kan? Jadi yang penting bagi mereka ialah Kementerian Pendidikan. And I think Datuk Seri Anwar missed a great opportunity to invest in improving his image. Sebab kalau dia menukar Fadhlina tempoh hari, 2 hari yang 2-3 hari lepas bila diumumkan, orang biasa akan take a step back and cakap "Okay, maksudnya dia mendengar, maksudnya dia objektif. Walaupun Fadhlina ini diketahui sebagai seorang yang yang macam anak angkat dia sendiri, anak kawan baik dia semua, attachment ada. dan dan walau macam mana pun selama ini Perdana Menteri mempertahankan Menteri Pendidikan. Tapi oleh kerana mesej rakyat itu sangat jelas, maka dia menerima mesej itu." Quite clearly is the opposite now lah. Dia memberi gambaran daripada rombakan ini bahawa Perdana Menteri tidak mendengar mesej utama daripada rakyatlah. Jadi saya rasa itu yang paling utama. Tapi somehow, sebab euforia orang kita, euforia media kan, dia tak sampai ke peringkat ada orang angkat tangan kata "Hang on, ini bising-bising-bising semua ni, tapi because you tak tukar yang ini, maka sebenarnya it doesn't really excite me lah." Kan? So bagi saya, isu yang paling utama ialah sama ada ada Menteri Pendidikan baru ataupun tidak. Yang itu tak jadilah. Cuma daripada rombakan ini isu yang lebih saya ingat meluas di kalangan pengundi biasa ialah soal Kementerian Wilayahlah. Dan itu yang dipermainkan sebagai isu perkauman apabila menteri bukan Melayu dan Timbalan Menteri bukan Melayu. Jadi dua isu ini sebenarnya adalah isu utama daripada rombakan ini. Yang soal Ramanan kenapa Ramanan dilantik menjadi menteri sumber manusia, yang itu orang PKR, orang biasa tak peduli sangatlah. Dan sama jugalah, maksudnya mesej daripada Datuk Seri Anwar kepada penyokong-penyokong PH yang memang sangat negatif pasal Ramanan ini di dalam dan di luar PKR ialah, "Ya, minta maaf, kau orang buat bising macam mana pun, I decide and I like this guy for whatever reason." Again, you know, strike two lah. Strike one pasal Fadhlina, jadi strike two kan. And then ia ditambah pula apabila Ramanan mengambil tempat seorang menteri yang popular dengan dengan penyokong PH. Steven Sim popularlah. You know, that's why we have to be very careful and get out of our bubble. Because yang Steven Sim popular ni ialah dengan penyokong PH. Dia tidak melambangkan semuanyalah kan. Tapi maksudnya, risiko yang diambil Datuk Seri Anwar ialah dengan rentetan perkara yang berlaku daripada pemilihan PKR, dari soal nepotisme, daripada soal Azam Baki, ini semua isu-isu yang sangat penting bagi penyokong PH and PKR atas pagar yang menyokong PH and PKR, tapi mesej yang diberikan ialah "I am not bothered about your opinion" lah. Jadi strike two kan. Dan yang lain-lain tu saya rasa hanya tiga isu tadi. Dua yang melibatkan rakyat biasa keseluruhan, Fadhlina dengan repercussion yang boleh dipolitikkan daripada lensa perkauman. Satu ialah yang berkaitan dengan pengundi PH lah. Pertukaran Ramanan dinaikkan juga jadi menteri walaupun dijadikan bahan troll selama beberapa bulan, jadi dia tak payah tukar dia punya baju stitches Ramanan Anwar tu lah, dia boleh terus pakailah kan. Dan juga Steven Sim. Adalah perkara-perkara yang agak minor. Contohnya, kontroversi yang yang yang diloncatkan mengenai Timbalan Menteri Agama. KPT. Timbalan Menteri KPT tu, ha itu nasib dialah kan. kemudian satu lagi kontroversi yang saya ingat mungkin tak besar, tapi masih lagi jadi isu dalaman PH lah contohnya, sehingga sekarang Amanah tidak diberikan peluang harta menjadi Timbalan Menteri Agama. Jadi perkara. Cuma saya ingat perkara-perkara yang itu dia akan mati dengan cepat. So bila kita menilai kesan daripada sesuatu tindakan politik contohnya, soal rombakan kabinet ni kan, that's why saya selalu sebut kita kena separate the noise from the actual topic tu. Kan? Jadi the noise tu yang berkaitan dengan Timbalan Menteri Agama, yang berkaitan dengan apa nama ni, mungkin rasa tidak puas hati sama ada Amanah ataupun parti-parti lain dalam PH, yang itu dia akan mati dengan cepat. Kesan yang lebih besar adalah dua perkara tadi, dua kumpulan tadi. Satu ialah apabila Datuk Seri Anwar Ibrahim isyaratnya daripada rombakan kabinet ini ialah penyokong-penyokong PH, apa yang kamu suarakan ini hanyalah bising di media sosial sahaja, dia tidak memberi kesan kepada saya. So I don't want to take your opinion into account. Itu akan ada kesan besar. Untuk satu masa berbulan-bulan, itu akan melunturkan lagi rasa hormat penyokong atas pagar dan juga penyokong PH. Karena seolah-olah pandangan mereka ni langsung tidak diambil kira. Dan kerajaan Datuk Seri Anwar mungkin boleh ketepikan pandangan itu sebagai bising-bising di media sosial. Tapi PH ni parti media sosial. PH menjadi lebih kuat sehingga boleh membentuk kerajaan tahun 2018, tahun 2022 nya, kerana kita kuat di media sosial lah. UMNO daripada tahun 2013, 2008 lagi garu kepala ni. Macam mana nak membina kekuatan internet dan digital untuk melawan PKR dan PH. Tiba-tiba kekuatan yang ada itu bila sampai kepada sekarang, dia tidak kira dia tidak diambil kiralah kan. Dan satu lagi yang akan ada kesan yang panjang ialah soal prestasi Kementerian Pendidikan dan konotasi apabila Datuk Seri Anwar tidak mengambil kira pandangan dan maklum balas rakyat mengenai Menteri Pendidikan. Dan kalau PAS dan juga UMNO pun bersuara, tapi saya rasa UMNO tu lebih kerana kebimbangan UMNO bila isu ini akan mengundang satu lagi siri serangan perkaumanlah. Kerana sekarang mengelak-elakkan Menteri Wilayah daripada DAP, Menteri Perumahan daripada DAP, mereka akan bersekongkol dan ini akan menekan dengan urat dan sebagainya. Tiba-tiba dia ada satu naratif baru yang menakut-nakutkanlah. Jadi itu tiga perkara yang saya rasa lebih dominan sebelum kita nak kata vaksin atau panadol.
+[187:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[39:16]
-Zaid: Mungkin saya lontarkan satu lagi persoalanlah. Because antara biggest losers, quote and unquote, certain people cakap kan, adalah MCA dan MIC. Sejak kebelakangan ni mereka lebih bertaring. Pulled out from Barisan Nasional semua tu, tetapi dia still lose out in terms of reshuffle kali ini. Maybe is it because Datuk Seri Anwar maybe doesn't look at them as Insignificant? Insignificant maybe a too harsh of a word lah. Tapi too small of a player ataupun...
+[187:05] YB: Lamanya kata nak sekejap aje.
 
-[39:55]
-Rafizi Ramli: Saya tak rasa MIC is the biggest loser. Tu ada bekas Bendahari MIC. Ada wakil dalam kabinet. Ha. Naturalisasi. Ha, dinaturalisasi oleh PKR. Dia ada wakil daripada MIC kan. Tak, saya rasa dari isu mengenai MCA dengan MIC ini, saya dah ulas minggu lepas bahawa ugutan ataupun bising-bising itu lebih kepada soal positioning dan bargaining power MCA MIC di dalam kerajaan melalui BN. Satu ialah window yang ada ini ialah untuk rombakan jemaah menteri ni lah, sama ada mereka dapat tempat ataupun tidak. Tapi tak mudah jugalah. Pertama contohnya, dari segi perkiraan berapa mewakili parti mana, dia mengikut gabungan. Jadi BN kan, gabungan BN. Untuk memberi satu jawatan menteri kepada sama ada MCA ataupun MIC, maka BN kena bagi kerusi tu pada mereka. Karena perjanjian kerajaan perpaduan, yang itu saya tulislah. Memang dah secara jelas menunjukkan dia mesti berkadar langsung dengan jumlah kerusi. Malah sebenarnya UMNO dapat lebih sekarang. Ya, ya. sebab kalau ikut perkadaran itu BN sepatutnya dapat 5 sahaja. tapi sebab Tengku Zafrul dahulu tidak dikatakan mewakili UMNO, tetapi mewakili... Dalam perbincangan tu kata bukan mewakili UMNO. Masa awal-awal kita tubuhlah. Ini bukan kuota UMNO, ini kuota Tengku Zafrul sebab Tengku Zafrul dot dot dot lah. jadi UMNO pula kata "Oh, tapi sebab dia ahli UMNO, maka bila dia tak ada nanti kuota itu mesti jadi kuota UMNO." Tapi sekarang UMNO kalau ikut berkadar langsung, UMNO dapat lebihlah satu kan. Jadi sama ada UMNO nak bagi satu kerusi dia kepada MCA ataupun satu kerusi jemaah menteri itu kepada MIC, takkan bagilah. Jadi kalau UMNO nak tekan pula PH, bagi kerusi kamu, lagilah tak bagi. Jadi memang dalam keadaan sekarang kan, jadi window ini memang dah terlepaslah kepada MCA dan MIC. Dan sama ada Datuk Seri Anwar kira MCA MIC ni insignificant ke, you know, tak perlu layan ke apa, yang itu Datuk Seri Anwar boleh dengan mudah terlepas dengan cara, "Eh bukan saya. Ini kamu selesailah BN." "Kalau kamu dah bincang dalam BN, tiba-tiba satu kerusi BN pun BN tak nak bagi kepada MCA dengan MIC, jangan marah saya." Kan? Jadi window yang seterusnya kita kena tengok sama ada mereka berjaya dapatkan kerusi daripada PKR atau MCA atau DAP dalam pilihan raya umum yang akan datanglah.
+[187:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[43:09]
-Farhan: Baik, baik YB. I got I got more question. Sure, sure, sure. Nanti minggu depan kita tukar eh. Kita cuba Farhan jadi moderator. Satu lagi persoalan, basically dikatakan now with the introduction lebih ramai orang muda, especially in terms of deputy ministers, and then Taufiq dinaikkan sebagai Minister KBS. Dikatakan Datuk Seri Anwar sedang mencuba solidify the future generations to lead based on this reshuffle. Is that a fair comment? Is that a fair assumption?
+[187:10] YB: Kau ada share dalam Rembayung ke?
 
-[43:49]
-Rafizi Ramli: Yalah, dia a little bit of both and there lah kan. Pengalaman saya dengan Datuk Seri Anwar ni, yalah. Dia suka kalau yang muda, kalau yang muda tu boleh nampak dengan premise yang muda itu kononnya boleh berlari lagi pantaslah. Dan satu lagi premise ialah kalau yang muda itu boleh menarik sokongan pengundi mudalah. Dua-dua premise itu mesti diuji selepas ini. Sama ada yang muda-muda yang dilantik ini, pertama, boleh lari lagi pantas daripada calon-calon yang lain. Because it has to be a fair balance of dari segi energy, kecekapan, tapi kecekapan itu sebahagiannya datang daripada pengalaman. Sebab dia berbeza, contohnya untuk kita melambung seorang tokoh muda dalam parti, yang tidak ada tanggungjawab untuk mentadbir dan menguruskan satu kementerian, kan, dengan menteri yang bertanggungjawab kerana proses itu adalah sangat panjang. Kementerian ada birokrasi dia, ada peraturan dia, and then you have to bring to the table your expertise dalam perkara-perkara tertentu kan. Jadi it remains to be seen. Kita hanya boleh dapat tengok dalam tempoh 6-1 tahun daripada sekarang sama ada kedua-dua premise itu berjaya. Premise yang dengan meletakkan lebih banyak pimpinan ataupun ahli parlimen yang muda, mereka akan menjadi lebih cekap, lebih laju, lebih kreatif, lebih inovatif. Dan sama ada dengan kehadiran mereka itu boleh menambah undi golongan muda yang sekarang ini memang PH ada masalah besarlah kan. Cuma, ada cumanya. Karena ramai daripada kami sekarang ni ialah, ialah golongan muda dalam PKR dululah kan. Yang ini yang dia akan jadi dikotomi tu. Kalaupun Datuk Seri Anwar ingin menggunakan pimpinan muda untuk melonjakkan sokongan rakyat, tapi dia mesti beri kebebasan kepada yang muda itu. Kerana kami telah melalui pengalaman itu, yang mana selagi kami tidak ada pandangan sendiri, you're okay. The moment bila kita cuba mencabar status quo ataupun kita ada pandangan contohnya soal budaya dalam parti, yang itu tiba-tiba dia tak kira muda tak muda dah, dia kira kau tak walak. Kan? Jadi premise yang yang mengatakan bahawa ini satu strategi Datuk Seri Anwar, dua-duanya bergantung kepada beliau. Maksudnya, kecualilah dia bagi kebebasan dan dia bersabar dan dia memahami bahawa untuk mendapat undi golongan muda itu, pimpinan, menteri, timbalan menteri yang muda ini mesti keluar daripada kepompong lama. Sebab kenapa orang rasa pimpinan muda ini mungkin lebih baik, kerana mereka tidak terikat dengan budaya yang lama, cara kerja yang lama. Dan orang nak tukar, nak ada perubahan, sebab mereka tak suka dengan yang lamalah. Tapi kalau kita ambil yang muda, letakkan dalam satu sistem yang birokrasinya tidak berubah, budayanya tidak berubah, caranya masih lagi matriarkal, masih lagi patronizing, masih lagi kena ikut 1 2 3 seperti yang telah ditetapkan, maka akhirnya dia takkan ada kesan sangatlah pada pandangan sayalah.
+[187:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[48:08]
-Farhan: Baik, baik YB. Sebelum kita tanya expectation moving forward kepada kabinet dan apa yang kita boleh expect sehingga ke pilihan raya akan ada major reshuffle lagi tak, mungkin saya tanya sikit soalan yang ramai tanyajugalah. YB pun ada buat posting semalam berkaitan dengan beberapa rakan-rakan rapat YB yang menyertai... Rapat ke? Itu Akmal je mengaku. Pasal... Eh, YB tulis dalam caption semalam. Rakan-rakanlah, kawan. Kawan YB. Kalau tak tulis, dia kecil hati. Yalah, kita ada Saudara Akmal sebagai Menteri Ekonomi, Tuan Syed Ibrahim sebagai Timbalan Menteri NRES, macam mana YB tengok secara general?
+[187:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[48:58]
-Rafizi Ramli: Yalah, kalau ikut dinamik dalam PKR tu, saya dapat banyaklah mesej. Dinamik itu yang paling fresh menongging ialah Damailah. Sebab separuh mati lanyak dan sampai parti bergolak begini, akhirnya yang nampaknya mendapat tempat itu ramainya yang sebelum ini sama ada memang betul-betul hardcore dan dilihat rapat dengan saya ataupun yang dilihat dapat kerusi, diangkat itu, hasil daripada pandangan sayalah. Mayoriti adalah dalam kumpulan itulah. Kalau macam Akmal dengan Tuan Syed Ibrahim ni, tak payah katalah kan. Orang kata toreh tangan memang keluar nama akulah kan. Tapi ada juga yang orang tak tak tak mungkin tidak tidak faham pasal dinamik di dalam PKR contohnya, Mustapha Sakmud. Okay. Ha, Mustapha Sakmud memang dikenali sebagai yang rapat dengan saya. Kerana dia bukan daripada Sepanggar. Yang berkeras untuk bagi dia kerusi parlimen dan sehingga dia jadi ahli parlimen daripada Kota Belud ke Sepanggar itu ialah keputusan-keputusan yang saya buat masa dalam PRU 2022 lah. Sama juga dengan cadangan untuk dia menjadi Timbalan Menteri sebelum ini, Timbalan Menteri KESUMA, Timbalan Menteri KPT kan. Jadi Mustapha Sakmud tu bagi sebahagian daripada PKR di bawah, dia melihat hai, orang yang yang yang maksudnya jalan politik itu lebih lebih cenderung kepada sayalah. Maksudnya kita ada contohnya CM. CM Chu. Ahli Parlimen Miri. CM umur berapa sekarang? 29, 28. Dah tua dah CM tu? Aku masih... Aku masih lagi ingat dia umur 23. 1992. Mmm. Dua Years. Sama dengan... Oh, sama dengan... Jadi CM, jadi CM contohnya kan, yalah dulu kontroversilah kerana saya mencadangkan supaya kita tukar calon ahli parlimen Miri. Dan CM itu sangat muda masa itulah, masa nak bertanding tu kan. So, jadi CM, Yunes pun. Yunes. Yunes. Yunes Kuantan, kan. kerusi Segamat. Jadi bila dikira-kira tu, maka saya fahamlah kalau ada yang geng-geng sebelah sana yang rasa buat apa aku susah-susah, akhirnya yang dapat muka-muka nak... Tapi itulah, kami senyumlah kerana saya ingat kami lebih kenal Anwar Ibrahim daripada sebahagian besar mereka ni. Itu cara Datuk Seri Anwar nak balance lah. Balance kan. Dan satu lagi saya ingat yang mungkin kecewa ialah kumpulan di sekeliling Datuk Seri Amirudinlah, Menteri Besar. Kerana urat-uratnya sebelum ini dia akan datang ke federal dan urat-uratnya juga dia mungkin akan jadi Menteri Pendidikan. Jadi maksudnya pintu itu telah tertutup, dia tak takkan yalah dia akan kekal di Selangor. Dalam keadaan masuk pilihan raya negeri yang akan datang ia lebih mencabar kepada beliau untuk mempertahankan Negeri Selangor ini. Kerana sebelum berlaku Sabah pun dalam PRN 2023, beliau hanya mampu membawa kerajaan Selangor yang ada ini dengan majoriti 8 kerusi sahaja. Jadi kalau tsunami yang berlaku di di Sabah dengan pengundi bukan Melayu itu, maksudnya DAP hilang semua kerusi, Selangor bukanlah tempat yang selamatlah. Jadi kecuali dia masa dalam pilihan raya akan datang, dia berjaya meyakinkan Datuk Seri Anwar supaya dia tidak lagi bertanding di Selangor. Tapi jalan itu makin makin tertutuplah. Dan pada masa yang sama saya ingat strategi daripada kumpulan Amir ini ialah dia nak position himself sebagai the natural successor kepada Datuk Seri Anwarlah. Selain daripada Izzah. sebab tu dia jadi sangat rapat dengan Izzah untuk 2-3 tahun yang lepas kan. Tapi dalam politik Malaysia kalau tidak berada di Persekutuan, then you are not seen in the running untuk successor lah. Jadi berbalik juga kepada yang yang ditanya pasal Farhan tanya tadi pasal ini menyediakan succession planning untuk masa akan datang. Dia sebenarnya huru-hara. Kerana kalau ikut hierarki parti tu huru-haralah. Kerana Amir tak ada kat di Persekutuan, tak ada. So he's out. Izzah is out. jadi yang paling senior di dalam kabinet itu ialah Ramanan. Ramanan tak boleh successor. Saifuddin tidak ada legitimasi dalam parti ataupun dalam kerusi, tak boleh successor. Jadi sebenarnya PKR now masih lagi one man show Anwar Ibrahim di peringkat Persekutuanlah. Akmal dia takkan pertimbangkanlah. Jadi yalah I think it's premature untuk kita nak judge prestasi. Yang kita boleh bagi komen setakat ini ialah pandangan dan reaksi politik daripada kumpulan yang berbeza-bezalah daripada rakyat, daripada... Sebab saya rasa rombakan kabinet ini Tambah Datuk Seri Anwar Ibrahim yang saya kenal, dia sebenarnya 80% politik 20% competence. Dan kita boleh tengok dengan dengan pelantikan-pelantikan yang dibuatkan. Contohnya kalau ikut competence, Steven Sim dikekalkan di situ kan. Tapi Ramanan nak juga kerusi tu, dapatlah kat Ramanan kan. jadi terlalu awal untuk kita buat keputusan, kita kena melalui 6-7 bulan yang akan datang. Dan apa-apa keputusan ataupun penilaian rakyat itu akan terus diterjemahkan di pilihan rayalah kerana tempoh berbaki ni hanya lebih kurang setahun setengah 2 tahunlah. Cuma yalah saya dalam banyak-banyak yang ada ada dua orang yang yang digugurkanlah kan. Ya, yang digugurkan. Yalah saya Tiga oranglah termasuk Timbalan Menteri. Siapa seorang lagi? Saraswathi. Oh Saras, Saras. Masa Saras dah ada Ramanan. Dan Ramanan tak suka Saras, Saras tak suka Ramanan. Jadi mereka tak boleh duduk di dalam satu kandang. Kan? Yalah yang I think ialah perasaan saya bercampur-campurlah. Maksudnya pada satu masa saya ingat he's a loss. Yang beliau digugurkan. Satu masa lagi saya rasa it's bagus juga. kerana beliau ni seorang yang sangat baik dan juga sangat bendul. Dr Naim lah. Dr Naim digugurkan kan. Kerana dia memang bukan orang politik. Dan dia seorang yang terlalu baik sebagai seorang manusia, akhlak dia tu baik sangat. Jadi mungkin politik is perhaps not a place for him lah. Dalam tempoh 2 tahun setengah yang sama-sama dalam Jemaah Menteri, memang yalah, akhlak beliau itu di dalam Jemaah Menteri, sesama menteri-menteri memang antara yang orang yang sangat baiklah kan. Tapi saya ingat kalau nak berbanding dengan Senator, Senator apa ni, yang mana? Dr Zulkifli. Dr Zulkifli kan yang menggantikan dia. Dr Zulkifli ni satunya ialah orang kuat ABIM. Hmm. Aaa jadi kalau nak ikut credential tu, Dr Naim ini tidak dilihat begitulah, bukan dalam lensa ABIM kan. Jadi itu dah satu kelebihan dan satu kekurangan kepada beliaulah, kepada Dr Naim. Satu lagi saya ingat Dr Zulkifli ni lebih kepada seorang politician lah dari segi aura berbanding dengan Dr Naim yang memang betul-betul akademik akademisian dan juga seorang pentadbir true and true kan. But I hope he will have a good time kembali kepada keluarga dan berehatlah lepas ni. Tapi yalah, the irony IS THIS tau. Ini adalah antara Menteri Agama yang paling kurang kontroversi. Halam. Sebenarnya Menteri Agama ni banyak kontroversi. Dan selalulah kena hentam kiri kanan kan. Jadi saya tak pasti, jadi itu itu yang mungkin pandangan yang berbeza-bezalah macam mana kita nak menilai kan. Bagi saya, kalau seorang Menteri Agama tu, dia tak ada kontroversi, actually it's especially quite good. Kerana untuk sebuah kerajaan, kita tak nak ada kontroversi yang berkaitan agama. Kalau ada kontroversi agama ni susah kerana soal agama nya is very divisive. You cannot bring people to the middle, you know, orang yang kata A, A lah, orang kata Z, Z lah kan. Jadi dalam tempoh 2 tahun setengah ada termasuklah penyokong PH pun yang merasakan dia tidak agresif. Mungkin itu pertimbangan yang Datuk Seri Anwar buatlah. Dia ni tak agresif kan. Tidak berjaya melawan PAS, you know, ataupun dia ni macam tak ada kesan, sebab dia pendiam ataupun dia Dr Naim kan. Tapi pandangan saya agak berbeza. Maksudnya kalau ada Menteri Agama tu kerja jalan, perkara itu berlaku, penambahbaikan itu berlaku, tapi dari satu isu ke satu isu dia tidak meletup dan dia aman damai, dia tidak ada kontroversi, Saya rasa itu prestasi yang baik. Kan? Jadi, tapi malangnya orang politik selalunya dia tak memandang daripada perspektif itulah. Orang politik ni memandang kualiti seseorang itu mestilah agresif, mestilah bising, mestilah melawan kan. Tapi untuk portfolio agama, kita kena tengok selepas inilah. Tapi whatever people say about Dr Naim lah, maksudnya dalam tempoh 2 tahun setengah yang lepas itu, walaupun orang mungkin tak terfikir, the fact that kita tidak ada kontroversi agama yang besar seperti sebelum ini, saya rasa itu satu kejayaan yang dia boleh banggakanlah. Bagaimanakah dengan Dr seorang lagi yang digugurkan juga? Dr Zaliha? Tak tahulah saya. Yalah, saya ingat itu ketentuan Allah lah. Saya I cannot pretend that I know what was the consideration ataupun perasaan dia. Tapi yalah, berbanding dengan orang lain yang nak kata orang lama dalam PKR ni ramai orang lama kan. Dr Zaliha boleh dikira sangat bertuahlah. Jadi kalau dia nak kecil hati ke ataupun ya saya rasa dia telah mendapat lebih daripada ramai lagi orang lain kan. Contohnya masa Kak Wan jadi Timbalan Perdana Menteri dulu kan, she was plucked out of nowhere untuk menjadi setiausaha politik sebab setiausaha politik yang pertama adalah Kak Oji, Wani Roziah kepada Kak Wan tahun 2018. Tapi Wani Roziah sibuk, dia memang exco, dia kena jaga semua, jadi dia tak sanggup untuk lama, dia hanya membantu Kak Wan masa awal-awal itu sebagai setiausaha politik kan dan I think Dr Zaliha dibawa masuklah out of nowhere pun kan, sebab Dr Zaliha ni dah lama bersara daripada politik dalam PKR ni. Dia last sekali bertanding 2008. Lepas tu dia dah tak ada peranan dah, apa pun. Dia pun dah memang move on dalam politik kan. Kemudian saya letakkan dia di Sekijang. Itu pun bertuah kan dan kita terpaksa pujuk arwah Kak Natrah masa itu Ahli Parlimen Sekijang masa itu untuk memberi laluan kepada beliau. Itu pun was already given on a silver platter. Kemudian masa nak bentuk kabinet, you know, nama dia awal bukan nama dia yang naik untuk Menteri Kesehatan. Kita pujuk lagi atas dasar sebab, tapi memang betullah, masa itu dalam Ahli Parlimen PH, satu-satunya yang doktor dan wanita adalah beliaulah. Jadi, YB sendiri cadangkan? Ya saya yang cadangkan Zaliha untuk jadi Menteri Kesehatan. She takes both boxes lah. Dia seorang doktor, dia juga wanita kan. Jadi dari segi itu I think yeah, dia sudah pencen pun saya ingat ada 2-3 pencenlah. Pencen menteri, pencen ahli parlimen, pencen Sopol kan. Jadi saya ingat baguslah. Yalah, of course orang-orang dalam parti ni ada pandangan yang yang panjang mengenai Dr Zaliha lah kerana dia pengerusi Jawatankuasa Pemilihan untuk dua pemilihan berturut-turut yang kontroversi kan. Tahun 2022, keputusan untuk Ketua Wanita diubah, yang awalnya itu Wani Roziah, tapi kemudian tiba-tiba kalah dengan 40 lebih undi kan. Kemudian pemilihan yang lepas kan. Tapi saya saya ingat dia masa nya pun dah bersesuaian for her to move on kan dan apa-apa pun itu pertimbangan Datuk Seri Anwar lah. Paling syok sekali YB? Saya rasa untuk sesiapa pun. No, I mean, the irony is this. Mana ada. Dia dah tak berhenti. Dia lain sedikit lah. Tak, tapi the irony is this, tau. Ini adalah antara Menteri Agama yang paling kurang kontroversi. Halam. Sebenarnya Menteri Agama ni banyak kontroversi. Dan selalulah kena hentam kiri kanan kan. Jadi saya tak pasti. Jadi itu itu yang mungkin pandangan yang berbeza-bezalah macam mana kita nak menilai kan. Bagi saya, kalau seorang Menteri Agama tu, dia tak ada kontroversi, actually is especially quite good. Kerana untuk sebuah kerajaan, kita tak nak ada kontroversi yang berkaitan agama. Kalau ada kontroversi agama ni susah kerana soal agama nya is very divisive. You cannot bring people to the middle, you know, orang yang kata A, A lah, orang kata Z, Z lah kan. Jadi dalam tempoh 2 tahun setengah ada termasuklah penyokong PH pun yang merasakan dia tidak agresif. Mungkin itu pertimbangan yang Datuk Seri Anwar buatlah. Dia ni tak agresif kan. Tidak berjaya melawan PAS, you know, ataupun dia ni macam tak ada kesan, sebab dia pendiam ataupun dia Dr Naim kan. Tapi pandangan saya agak berbeza. Maksudnya kalau ada Menteri Agama tu, kerja jalan, perkara itu berlaku, penambahbaikan itu berlaku, tapi dari satu isu ke satu isu dia tidak meletup. Dan dia aman damai, dia tidak ada kontroversi. Saya rasa itu prestasi yang baik. Kan? Jadi, tapi malangnya orang politik selalunya dia tak memandang daripada perspektif itulah. Orang politik ni memandang kualiti seseorang itu mestilah agresif, mestilah bising, mestilah melawan kan. Tapi untuk portfolio agama, kita kena tengok selepas inilah. Tapi whatever people say about Dr Naim lah, maksudnya dalam tempoh 2 tahun setengah yang lepas itu, walaupun orang mungkin tak terfikir, the fact that kita tidak ada kontroversi agama yang besar seperti sebelum ini, saya rasa itu satu kejayaan yang dia boleh banggakanlah.
+[187:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:05:01]
-Farhan: Vaksin atau Panadol? Mungkin masa yang akan menentukan. Tapi kita boleh tengok ke isu keras yang seterusnya, YB? Saya rasa soalan YB dah terjawab.
+[187:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:05:13]
-Rafizi Ramli: So, vaksin ke Panadol ni?
+[188:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:05:15]
-Farhan: Nanti time can tell. But Panadol memang definitely Panadol buat masa sekaranglah. Tapi vaksin tu, kalaupun vaksin yang berkesan, oleh kerana dia tidak dicuba dalam medical trial yang lama, dia mungkin ada side effect yang besar.
+[188:32] Rafizi Ramli: Hahaha. Kan?
 
-[1:05:37]
-Zaid: Baik, baik. Cukup ke tidak masa untuk vaksin atau Panadol? Panadol memang cukup kot. Tapi vaksin...
+[188:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:05:46]
-Farhan: Panadol memang lah.
+[188:35] YB: Lamanya kata nak sekejap aje.
 
-[1:05:48]
-Zaid: Maksudnya apa dia untuk tengok kesan? I mean, kita dah ada cabinet lineup elections. Adakah...
+[188:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:05:59]
-Rafizi Ramli: Tak, okay. Orang ingatlah oleh kerana Akmal jadi Menteri Ekonomi, lepas ni aku cakap berlapiklah. Kononnya kan. Ada lah aku cakap benda yang sama sahaja kan. The whole idea of this podcast ialah untuk melontarkan perkara-perkara yang orang politik ni terlalu berhati-hati untuk sebut. And I've always felt that sebenarnya calling a spade a spade is perhaps the best policy in life lah kan. Sama ada ada cukup masa ke tidak, I don't think sama ada 2 tahun ke 3 tahun ke 4 tahun ke it makes that much difference. Because to be fair kepada yang dilantik ini, dia bukan sangat soal mereka atau kemahiran mereka atau kemampuan mereka melonjakkan prestasi. Dia bermula dengan gaya kerajaan. Gaya kerajaan tu ada dua bahagian kan. Satu ialah Perdana Menteri. Datuk Seri Anwar sejak menjadi Perdana Menteri, segala imej kerajaan itu dipusatkan kepada beliau. Dan malangnya lah dalam negara kitalah kan. Daripada zaman Tun Abdullah, bukan daripada zaman Datuk Seri Najib lagi, memang itu strategi yang digunakan oleh penasihat-penasihat komunikasi kerajaan ni. Maksudnya kalau ada Perdana Menteri, maka every image of success and greatness of a government must be communicated through the Prime Minister. jadi sebab itu zaman Datuk Seri Najib dulu saya ingat 2013 kan. Dah nampak dah strateginya ialah semua kempen itu mestilah berlegar mengenai kehebatan Datuk Seri Najib. And I remember saying that is very dangerous. Because if that is be-all strategy, everything is Najib, gambar pun semua gambar Najib, orang pun cium tangan Najib semua. All it takes is to shoot him down. Bila you shoot him down, bila Datuk Seri Najib ini imejnya jatuh merudum di mata rakyat, it will bring the whole BN down. True enough lah. Tapi perkara itu akhirnya disambung jugalah bila Bersatu dan Perikatan Nasional masa zaman Tan Sri Muhyiddin. Semua Abah, Abah bercakap, Abah, Abah, Abah. That's it. You know, you shoot. Datuk Seri Ismail Sabri tak cukup lamalah kan. Tapi unfortunately, masa Datuk Seri Anwar menjadi Perdana Menteri, itu yang saya kata, orang sekeliling ni penting tau. Because if you fuel in the bubble kan, you blow the bubble bigger and bigger, itu yang semuanya mestilah Datuk Seri Anwar Ibrahim. Jadi for the last 3 years, memang imej kerajaan tu semua Datuk Seri Anwar. Nobody could actually rise up higher, or nobody could be seen as being more prominent than him. Jadi yang ini UMNO pandailah. Sebab UMNO dah duduk dalam sistem itu untuk masa yang lama kan. Sebab itu menteri-menteri UMNO ni daripada segi silat politik dia, you notice, dia takkan ke depan. So because it's a win-win for them. Kalau Datuk Seri Anwar berhasil melonjakkan kerajaan dan cukup popular, mereka dapat laba without having to do much. Mereka dapat laba. Tapi contohnya kalau imej Datuk Seri Anwar itu merudum dan tidak popular kan, UMNO ada option to survive. Dia akan masuk dalam PRU akan datang kata, "Tak apalah terima kasih, it's been a marvelous 5 years, we'll take our separate ways now." So you can jettison Anwar Ibrahim and PH, you pun pandai-pandai sendiri kan. So I don't think perkara itu boleh ditukar sekarang. The whole image is very intertwined dengan Datuk Seri Anwar, who is to a certain extent a bit more presidential than prime ministerial. Jadi, you letaklah team macam mana pun, unless itu bertukar, dia tidak ada kesan yang sangatlah. Perkara kedua yang tidak bertukar ialah birokrasi kerajaan. Birokrasi kerajaan tak bertukar, maka kalaupun ada menteri yang nak buat macam-macam kan ataupun dia ada idea semua kan, dia nak melalui lapisan demi lapisan dan pembangkangan demi pembangkangan and the bureaucracy yang akan mengheret berbulan-bulan untuk satu keputusan. Macam-macam jawatankuasa, go to and fro, to and fro, lama-lama dia give up lah. Jadi, in that sense, you know, it's not so much sama ada masa 2 tahun itu cukup ataupun tidak, is actually the very core of macam mana kerajaan kita berfungsi lah.
+[188:40] YB: Kau ada share dalam Rembayung ke?
 
-[1:12:12]
-Zaid: But when you mention bureaucracy, is it a bureaucracy di antara cabinet ataupun bureaucracy yang melibatkan penjawat awam?
+[188:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:12:20]
-Rafizi Ramli: No, I think all. Semua. Sebab itu kalau orang tanya kenapa kerajaan atau jabatan kerajaan jadi macam tu lah. Sebab mungkinlah sebab kita mewarisi perkhidmatan awam daripada budaya British dululah kan. Budayanya ialah jangan ambil risiko and cover your back as much as possible. Jadi sebab itu kalau peraturan ke ataupun pekeliling ke ataupun dasar ke, semua itu is designed to make sure that kalau anything happens, you are not exposed. Sebab itu tak mudah kalau orang tanyalah, "Ini rasuah yang banyak-banyak ni ada projek tak siap, penyelewengan, laporan Ketua Audit Negara, after Laporan Ketua Audit Negara, tapi tak ada seorang pun yang dikenakan keputusan." Sebab tak mudah, kerana orang ini buat keputusan ataupun dia dia buat keputusan pada level dia, peringkat dia. Naik kepada level seterusnya, naik kepada level seterusnya, naik kepada level seterusnya. Kalau apa-apa terjadi, yang itu kata "Saya sebenarnya bukan 100% bertanggungjawab, ada lagi orang atas." Orang atas kata "Oh saya ada lagi atas atas atas." Last-last kena kat menterilah. Jadi finally, tak apalah. So everything is designed to cover your back. Jadi, sebenarnya the bureaucracy itu daripada atas sampai ke bawah, cuma dekat bawah tu perhaps less politik, dekat atas tu lebih banyak politiklah. Politik di antara kementerian, politik di antara sesama KSU, politik di antara menteri, dan panjang ceritalah. Jadi kalau itu tidak ditukar, kabinet yang ada, buatlah macam mana rombakan pun, dia akan melepasi hurdle demi hurdle halangan demi halangan ini lah.
+[188:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:14:48]
-Farhan: Tapi masa YB pernah menjadi menteri dulu, dengan satu batang tubuh menteri sahaja, boleh ke diubah sebenarnya?
+[188:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:14:55]
-Rafizi Ramli: Sebab itu saya orang mungkin kata dia ni bukan team player. Sebab kalau saya kata, contohnya dengan perkara yang berkaitan contohnya, gaji progresif, semua orang bangkang. Setiap satu benda yang IPR, semua orang bangkang. Memang orang tak setuju. Tapi you kena berkeraslah. You kena berkeras 1 2 3, you kena push and push and push. Saya bernasib baik kerana pegawai-pegawai di Kementerian Ekonomi tu, selepas beberapa bulan pertama tahulah, "Okaylah, we are in it together on the same boat, kita push." Tapi bila you keep pushing and you nak kacau status quo, orang tu tak suka, orang ni tak suka, orang ni tak suka kan. Sebab, nak salahkan mereka pun saya ingat kalau saya jadi menteri daripada parti lain di kementerian lain pun saya kata, "Buat apa susah-susah? Biarlah Datuk Seri Anwar lah ke depan. Biar dialah berpenat-penat, berkempen semua. Kalau dia berjaya, kita dapat. Kalau dia tak berjaya, gol lah dia, kita pergi ke kanan." Jadi, I mean, I'm in a different situation lah. Saya Timbalan Presiden masa itu, dan pembangkang kalau orang tanya, memang tumpukan semua serangan kepada Datuk Seri Anwar dan juga saya. Kalau tak buat apa-apa ataupun kita tak ada idea baru, lagi teruk kenalah kan.
+[189:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:16:32]
-Farhan: Baik, baik YB. Kita ke...
+[189:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:16:34]
-Zaid: 2 jam.
+[190:02] Rafizi Ramli: Hahaha. Kan?
 
-[1:16:35]
-Farhan: 2 jam eh? Mungkin kita ada satu lagi yang terakhir. Kalau minggu lepas merajuk, mungkin minggu ini soal idealism dan pragmatism YB.
+[190:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:16:47]
-Rafizi Ramli: Ah, yang ini bagus jugalah. It comes directly after, after topik tadi kan.
+[190:05] YB: Lamanya kata nak sekejap aje.
 
-[1:16:54]
-Farhan: Ya, ya, ya, ya, ya.
+[190:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:16:55]
-Rafizi Ramli: Sebab yang ini juga yang saya dok gelak tengok komen-komen ceplos ni. Sebab ceplos duduk dalam dunia dia. Dan mereka menilai hidup ini berdasarkan pangkat dan kedudukan dan cara mereka quantify success itu ialah sama ada you jadi menteri ke tidak, you itu ni ke tidak. Actually rakyat tak fikir macam itu tahu. Rakyat sebenarnya, sebab dia tak tak tak ada kesan kepada hidup dia aku jadi menteri ke tidak. Engkau jadi timbalan menteri... Tak ada kesan tahu. Dia tak ada dan konsep yang mana menteri, jawatan dalam kerajaan ini ialah pembesar negara, ini dah ketinggalan zaman dah. Menteri, pembesar timbalan menteri, jawatan-jawatan ni ialah tempat untuk kena troll. You see, people forget that in the last one generation daripada tahun 2000 bila mula ada sosial medialah 2008, 10 ke atas ni kan, rakyat Malaysia ni ada hobi baru. Hobi dia ialah troll dan maki ahli politik. How can you troll and maki ahli politik kalau you tengok dia di peringkat sebagai pembesar? It's not. Dan rakyat pula, dia tak ada rugi apa-apa. Dia bangun, dia mungkin penganggur saja. Tapi cara dia komen tu kan, oh macam sehebat-hebat manusia. Puas hati dia hari ini "Aku maki Anwar. Ini hari aku maki Mahathir." Kan, seronok kan. Now, sebab itu kalau orang politik masih lagi duduk dalam bubble dan tidak menyedari bahawa the value system in our society telah berubah. Mereka tidak lagi melihat kepada ahli politik ataupun menteri sebagai pembesar. Mereka tidak hormat sangat, malah ada sebahagian benci kepada ahli politik semua kan. Jadi bila komen-komen ceplos kata, "Ah tengok ni, seni politik Datuk Seri Anwar ini sangat tinggi. Sebab itu dia kekal jadi Perdana Menteri." Atau "Ah dia ni tak boleh kerja dengan orang" ataupun "Dia ni ideal saja, pandai berfikir saja, tak boleh buat kerja. Tengok padan muka kau rugi. Ha tengok itu." Actually itu pandangan minoriti. Pandangan rakyat yang yang yang lebih saya ingat lebih dominan ialah kau makan gaji dengan aku, I have this criteria of what I want from my government or minister or my MP. I want you to do this job and try your best. I want you to be smarter than me. Actually kan. I want you to have passion, I want you to have an impact. Dia dia bukan macam zaman dulu tu. Zaman dulu jadi wakil rakyat ni, balik sebulan sekali pakai kereta besar masuk kampung, hebatlah. Atau pun pergi bagi duit. Sekarang bagi duit dia ambil, esok dia troll engkau baliklah. Kan? Jadi, kriteria untuk menjadi ahli politik tu makin tinggi dan makin tinggi dan makin tinggi. Jadi kalau orang kata hujah ataupun defense yang kerajaan ada semata-mata kerana "Oh Datuk Seri Anwar ini lah seorang yang banyak berjuang dan dia telah lama, maka hormatilah dan sayangilah dia," it's not gonna work. Jadi is a challenge for any party, including me contohnya, dalam keadaan noise yang banyak begini, how do you define your brand value as a political party, as a politician? Apa value offering kita? Dia sama macam Khairul Aming tadilah. Kalau kita dalam digital media kan, sebenarnya kita kena test. Sebab tu orang yang biasa dengan yang faham tentang digital communication, it has to be about A/B testing. You test that one, you test that one. Dia tak adalalah dulu, saya you know, I I have clients yang digital media semua ni kan. Sebelum ada zaman digital media kan, masa tu all the big advertising firms in the world kan, dia akan habiskan masa berbulan-bulan untuk develop strategy gini gini gini gini, kemudian dapatlah satu visual daripada and satu kempen brand, yang itulah dia bawa kepada company untuk luluskan, dapat yang itu, dipun mainkan itu kan. Dengan digital media, digital world, is totally opposite. You cannot afford to put all eggs in just one egg in just one basket. It's not gonna work. Is all about errors. What you need is that you need to shoot as many errors as possible. Kemudian, that's why it's a function of frequency. Lagi banyak content, maka lagi cepat perkara itu sampai kepada orang. Is a trial and error sebenarnya? Dia tak adalah trial and error buta. Kalau trial and error buta jadi ceplos Wan Fayhaddin lah kan. Jadi, dia ada science to it lah. And you you need to constantly test sebenarnya apa majoriti ataupun kumpulan besar rakyat rasakan untuk melihat niche yang macam mana. And don't be surprised sebenarnya bila kriteria itu makin banyak daripada rakyat kan. Kalau rakyat perlu pilih di antara pragmatism dengan idealism ni kan, you can tell straight away yang mana akan pilih apa. Yang pilih pragmatism ni yang maksudnya kona ikut mana pun, bertukar hari ini cakap lain, esok cakap lain, hari ini bergaduh, esok bersalam, yang ini adalah penyokong tegar parti. Yang ini saja yang apa pun pimpinan buat, bagus kan. Pengundi atas pagar, oleh kerana dia tidak mengacau hidup dia, dia tak dapat apa-apa pun. Siapa-siapa jadi kerajaan. Yang yang yang pengundi tegar ni, penyokong tegar parti ni, dia dapat jawatan tau. sebab tu pragmatism is important. Sebab kalau tidak, siapa nak bayar aku RM8,000 sebulan ni? Kereta baru beli kan? So, pengundi atas pagar oleh kerana dia sebenarnya tak ada kesan kepada hidup dia, they look more for idealism. They look more for consistency. They look more for calling the spade a spade. sebab itu lagi relate dengan dia tahu sebagai manusia biasa. Sebab dia tak faham macam mana kau boleh telan benda ni ni kan? Dulu kau cakap lain, hari ini kau cakap lain. Dia tak fahamlah sebab dia tidak duduk di dalam budaya politik itu, dia tak tahu sebenarnya orang politik yang ceplos semua ni kalau dia macam ni dia dapat sesuatu. Orang biasa tak dapat sesuatu. So the way they think, ahli politik dalam zaman sekarang ni mestilah cuba untuk berfikir as close as possible to dengan rakyat biasa. Dan rakyat biasa sebenarnya tidak suka dengan mainan politik kona kiri kanan, apa nama ni, sebab itu contohnya lah kan, orang parti bolehlah cakap apa sahaja pasal pemilihan PKR hari itu. Logik itu di orang biasa dia tak masuk. Dan itu adalah kegagalan dan cabaran yang besar kepada mana-mana parti politik yang ada sekarang kat Malaysia ini, dalam keadaan saya rasa setiap 6 bulan jumlah pengundi yang merasakan aku tak suka semua yang ada ni makin lama makin besar makin besar makin besar.
+[190:10] YB: Kau ada share dalam Rembayung ke?
 
-[1:33:57]
-Zaid: Maksud YB, PRU16?
+[190:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:33:59]
-Rafizi Ramli: Tak, aku tak kata macam tu.
+[190:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:34:01]
-Zaid: Maksudnya kalau kalau...
+[190:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:34:03]
-Rafizi Ramli: Kalau dah kalah lah... Maksudnya...
+[190:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:34:05]
-Farhan: Pada kami generasi kami tu sangat malanglah. Good luck to you lah. Not my problem. Well kalau dah kalah kan, maksudnya... Kenapa pula kau rasa generasi engkau, you cannot speak on behalf of your generation, engkau je yang fikir macam tu. Orang lain yang muda-muda semua nak yang ha... I mean we will be we have to go satu lagi cycle of Yeah, nak menunggu cycle. Well Definitely I think it will take a lot more than one or two cycles. Mmm. kan? Jadi sebab itu kan awal-awal kita selalu bincang, yang dalam dunia ini kan, sejarahnya ialah parti-parti yang naik atas dasar reformasi dan berjaya menjadi kerajaan, tak banyak yang berjaya lepas satu penggal kalah dan tak pernah kembali dah lepas tu. Mmm. Jadi besar itu yang kebimbangan utama kitalah. Sebab itu I'm concerned about the future. Kalau kalaulah saya nampak orang kata "Ah kau ni ideal sangatlah. Oh kau ni semua kan." Well is that idealism is the only weapon that we have to secure the future untuk progressive multi-racial politics di dalam negara ini. Karena Malaysia akan terus menjadi negara yang populasinya mayoritinya beralih kepada Bumiputera, Melayu daripada satu dekad ke satu dekad. Mmm. Jadi kalau contohnya, pengalaman yang ada dengan PH ni, pengundi biasa, your generation rasa pahit, it was such a let down, mereka kata gitu-gitu-gini tapi eh, sama je. Then what's the point? bila what's the point itu, maka yang akan jadi dominant ialah parti-parti sayap kanan, parti-parti yang perkauman di masa akan datang kan. Jadi sebab itu soalan bila kita kritik, bila kita menegur, Dia tak ada kena-mengena dengan jawatan ke, menteri ke apa semua ni. I've said so many times sebenarnya, kalau kita tak korup, sebenarnya tak berbaloi jadi menteri. Gaji sikit, lepas tu kena baik kita jadi CEO syarikat besar. CEO GLC pun dapat 200-300 ribu sebulan. Buat apa jadi menteri gaji RM35,000, lepas tu kena bagi segala jenis bendalah, kucing sangkut kat pokok pun orang call engkau kan. Jadi tak berbaloi. The only reason there's a meaning to that job ialah kalau we can contribute to make sure that political contestation di Malaysia ini kekal kompetitif demi masa akan datang. And that is what is at stake now bila orang kata idealism versus pragmatism ni, kerana pragmatism seperti yang ramai orang rasalah, kerajaan yang ada sekarang inilah. Walaupun kerajaan PH kan, kerana terlalu nak jadi pragmatik, the only conclusion yang pengundi akan buat ialah "Actually kau orang ni sama saja." The idealism itu yang sangat penting untuk membezakan parti-parti yang ada dalam keadaan pengundi rasa "Korang ni semua sama sahaja."
+[191:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:38:09]
-Farhan: Baik, baik YB.
+[191:32] Rafizi Ramli: Hahaha. Kan?
 
-[1:38:10]
-Zaid: 2 jam 15 minit.
+[191:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:38:12]
-Farhan: Sangat deep.
+[191:35] YB: Lamanya kata nak sekejap aje.
 
-[1:38:13]
-Zaid: Sangat deep.
+[191:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:38:14]
-Rafizi Ramli: Yalah kita nak panjangkan je kan. Supaya orang tengok lebih lama.
+[191:40] YB: Kau ada share dalam Rembayung ke?
 
-[1:38:22]
-Farhan: Okay YB? Kita ke segmen seterusnya?
+[191:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:38:25]
-Rafizi Ramli: Boleh, boleh.
+[191:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:38:27]
-Farhan: Kita ke Fuyoo. Akhirnya kembali balik.
+[191:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:38:29]
-Rafizi Ramli: Fuyoo ni aku rasa hang korang, aku penat dah. Sila, pasal apa? Hasilaloh komen korang.
+[192:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:38:34]
-Farhan: Baik kan, saudara Farhan, mari kita beraksi bersama-sama.
+[192:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:38:37]
-Zaid: Boleh, boleh.
+[193:02] Rafizi Ramli: Hahaha. Kan?
 
-[1:38:38]
-Farhan: Menang juara Junior Nobel. Kenapa pula dengan komen tak ada kat sini? Dia Ahli Parlimen Teluk Intan?
+[193:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:38:43]
-Zaid: Sebab tak dijemput.
+[193:05] YB: Lamanya kata nak sekejap aje.
 
-[1:38:45]
-Farhan: Oh, tak dijemput. Actually apa... research yang dia buat? Belvinder. Dia ada dualah. Dua kali menang. Dia cipta sejarah, menang dua kali. First adalah regarding bio, sori, reabsorbable stent.
+[193:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:39:15]
-Rafizi Ramli: Stent? Stent. Something that you can relate to. Oh I have a personal interest in it. Reabsorbable maksudnya bukan ke berbahaya nanti stent tu hilang? Yalah. Yes. So over time dia akan hilang. Maksudnya kan lagi berbahaya untuk jantung aku? Tak, the whole idea of having a stent untuk dia make sure kan the pathway tu adalah. So kalau dia hilang lama-lama dia collapse baliklah?
+[193:10] YB: Kau ada share dalam Rembayung ke?
 
-[1:39:46]
-Zaid: Okay, so the official term is developing bio-reabsorbable drug-eluting stent. So drug-eluting portion tu, stent tu release medication over time, over time, over time. And gradually slow release, slow releaselah. The second price yang dimenang adalah kerana dia develop AI model yang boleh detect glioma dalam CT scan. So basically dia ambil satu CT scan, AI tu detect with accuracy yang tinggi, glioma yang ada dalam the brainlah.
+[193:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:40:24]
-Rafizi Ramli: So, She's from Imperial?
+[193:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:40:27]
-Zaid: Dia actually dari Queen Mary University, London. QMUL. James' University. Ya. James' first degree dekat QMUL, and then dia buat master dekat Oxford.
+[193:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:40:48]
-Rafizi Ramli: And ini hanya untuk undergraduate students sahaja?
+[193:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:40:51]
-Zaid: Ya. Tapi dia menang twice in a row. So that's very impressivelah.
+[194:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:40:56]
-Rafizi Ramli: She's doing medic dekat QMUL?
+[194:32] Rafizi Ramli: Hahaha. Kan?
 
-[1:40:59]
-Zaid: Yes. Biomedical engineering to be exact.
+[194:33] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:41:02]
-Rafizi Ramli: Biomedical engineering. So we wanted to highlight dia sebab dia antara, saya baca-baca research dia, kagum betul lah dekat achievement dia. Kenapa dia dipanggil Junior Nobel?
+[194:35] YB: Lamanya kata nak sekejap aje.
 
-[1:41:17]
-Zaid: Sebab it's for the students and below.
+[194:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:41:19]
-Rafizi Ramli: Yalah, but is it given by Alfred Nobel Foundation?
+[194:40] YB: Kau ada share dalam Rembayung ke?
 
-[1:41:22]
-Zaid: Yes, yes, yes, yes.
+[194:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:41:23]
-Rafizi Ramli: It is given by Nobel Foundation? Aku takut sebab kadang-kadang Malaysia ni, kita suka hype. Dia mungkin dapat award semua, tapi kita pun letak Junior Nobel, but it's actually not Nobel from Nobel Foundation. But this is from Nobel Foundation? Okay, tabiatlah. Aku takut sebab kadang-kadang Malaysia ni, kita suka hype. Dia mungkin dapat award semua, tapi kita pun letak Junior Nobel, but it's actually not Nobel from Nobel Foundation. But this is from Nobel Foundation? Okay, tabiiklah.
+[194:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:41:56]
-Zaid: So, suruh dialah bertanding dekat Teluk Intan nanti. Ganti dengan Nga Kor Ming. Sorry, sori, sori.
+[194:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
 
-[1:42:04]
-Farhan: Okay, baik.
+[195:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
 
-[1:42:05]
-Zaid: Antara kita nak pakai platform ni lah, come back and serve kot, minta dia datang balik kan.
+[195:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
 
-[1:42:11]
-Rafizi Ramli: Siapa yang nak minta dia datang balik ni?
+[196:02] Rafizi Ramli: Hahaha. Kan?
 
-[1:42:13]
-Zaid: Tak, kita kita buat pelawaan yang terbuka.
+[196:03] Rafizi Ramli: Adakah, ah, Khairul...
 
-[1:42:16]
-Rafizi Ramli: Why would she come back? That's a good question. Kalau saya jadi dia, saya tak datang balik. No, not so much tak suka Malaysia ke apa. And this is a challenge kitalah. And that's the reasonlah contohnyalah, nak cerita, that's the reason kenapa dulu aku buat engineering kan, electronic engineering. That's part of the reason kenapa aku kemudian swing tukar jadi chartered accountant. Sebab if you want to pursue research, semua ni yang high level, semua ni kan, frontier work kan, especially dalam engineering, mana ada kerja kat Malaysia? So, you balik kat Malaysia, masa tu alamak, yang ada lab berapa je? And then it doesn't pay. Lepas tu bukan ke mana sangat pun. Kalau jadi electronic engineer, balik-balik kerja kilang. Tak apalah kan. So, you know, to be fair to her lah, I mean, she's helping mankind dengan her research and the breakthroughs she made kan. Kalau dia balik kat Malaysia, as biomedical engineer, dia nak kerja kat mana? To be fair to her lah. Rugilah. Ya tak? Logik.
+[196:05] YB: Lamanya kata nak sekejap aje.
 
-[1:43:40]
-Zaid: Okeylah, saya tak tahu nak reply apa tu.
+[196:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
 
-[1:43:43]
-Rafizi Ramli: Tu satu. Yang kedua, ni nak suruh buat jemputan suruh dia balik Malaysia ni, kau ni siapa nak buat jemputan semua? Anonymous lah kot. Okay, all right. So, we wish all the luck in the world kan. I hope one day she comes back to Malaysia and bawa duit PE and VC and all these research company come to Malaysia. I mean, at her age now kalau dia nak balik kasihanlah kat dia. Kalau dia ada much better opportunity, especially kalau dah dapat Junior Nobel Award kan, most probably the largest of pharmaceutical company in the world would want her. And she's better off going there and then timba pengalaman to come back one day. Kirim salam dekat family dia dekat Teluk Intan. Bye-bye. Bye-bye, dia takkan baliklah. Kita ke segmen seterusnya. Segmen terakhir YB. Banyak tanya. Berapa banyak tanya minggu ini? Kita ada berapa penyet ni? Kita dah 2 jam 22 minit. Okay, dalam 8 minit. Okay, all right. Baik. Soalan pertama, Cheong Way Gin. "YB, statistik tunjuk ramai kerja sendiri dah mencarum Perkeso tapi sektor seni cuma sikit sangat. Sebagai orang yang banyak kerja dengan kreatif dan media, apa model perlindungan sosial yang realistik untuk musician, pelakon, kru produksi yang income turun naik macam yo-yo ni?"
+[196:10] YB: Kau ada share dalam Rembayung ke?
 
-[1:45:26]
-Rafizi Ramli: Memanglah yang caruman optional contribution ni, caruman pilihan yang dibuat oleh Perkeso, ialah untuk semua orang yang memang tidak ada pekerjaan tetaplah. Jadi saya tak rasa soal dia ialah model perlindungan sosial yang ada ni tak realistik. Dia sebenarnya mungkinlah, sama ada musician itu industri di Malaysia ini tidak sebegitu baik macam negara-negara lain yang pendapatan mereka sangat tidak menentu, pelakon, kru produksi ini kan. Atau pun sebab gaji mereka itu rendah. Jadi sebab itu untuk dia buat pilihan untuk mencarum tu dia rasa tak cukup. Tapi dari segi modelnya, memang saya ingat model yang ada dengan Perkeso sekarang ini memadai. So it's not so much about the social security model, is macam mana kita nak membangunkan industri-industri seni ini supaya dia mendapat lebih banyak pelaburan, modal, kerjanya itu lebih lebih tetap. Mungkinlah, kalau tengok di Hollywoodlah, kesatuan pekerja mereka tu sangat sangat kukuh. Sangat berpengaruh dia punya union. Union untuk pekerja Hollywood, untuk pekerja-pekerja seni, untuk penulis skrip kan. Tahun bila 2 tahun lepas? 2 tahun lepas bila kesatuan pekerja penulis skrip Hollywood mogok, nayalah satu dunia tahu. Jam semua dia orang ni kan. Jadi, mungkin saya ingat yang yang yang boleh dipertimbangkan ialah kesatuan pekerja pekerja-pekerja seni ni perlu ditubuhkan kalau kalau belum ada, dan kalau yang ada, mereka perlu lebih vokal dan lebih lebih apa nama ni kedepanlah. Sebab kadang-kadang persatuan seni yang ada kat Malaysia ni banyaknya lebih kepada kebajikan. Dia bukan sangat, cuma saya fahamlah the the difficulty ialah sebab mereka bukan digaji tetap. So kalau dia tak ada majikan yang tetap, macam mana pula dia nak buat kesatuan pekerja kan? So if anything Cheong, that is yang saya rasa perlu diberikan perhatian. Dia bukan soal Perkeso semua ni. Is about how do you want to create that collective bargaining dalam keadaan yang industri seni di Malaysia ini dia tak setaraf dengan di negara-negara lain yang mana is more well-funded, is more structured, dia memang ada in employment of industri seni and therefore, they have a union. Kita ni sebenarnya kebanyakannya freelancers lah itulah semua kan. So mungkin Ramanan... ini homework untuk Ramanan. Okay, baik. Ramanan kena fikirkan macam mana nak... I can redirect Cheong kepada Ramanan. Ramanan kena fikirkan How do you cater for freelancers yang ada ni so that they can have the collective bargaining dengan majikan-majikan. Once I think you sort that one out, actually soal mencarum sendiri memang Perkeso dah adalah. So, the root cause is not Perkeso. The root cause is the haphazard nature of their employment.
+[196:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
 
-[1:49:15]
-Farhan: Menarik YB, tiap-tiap minggu boleh bagi satu homework kat satu menteri. Boleh, boleh, boleh. Supaya bagi homework dia bukan layan pun. Okay, baik YB. Soalan yang terakhir YB. Dari Nandini. "YB, bila kita nampak kes suami isteri di penjara sehari dan denda kerana curi barang kurang RM100, ramai bandingkan dengan kes rasuah juta-juta yang nampak lebih ringan. Dari perspektif reform sistem keadilan, apa yang patut dirombak untuk elak rasa kelas bawah dihukum, kelas atas dilindungi?" Ini ada yang latest yang kat Melaka tu kan? Kesian. Dia ambil apa ni? Ada 4 barang, 4-5 barang. Dia kena penjara sehari kan? Sehari. Satu ialah, ialah saya tak baca Penal Code daripada cover to cover lah kan. Kesalahan-kesalahan seperti ini selalunya jatuh di bawah Penal Code. Eh, you are a lawyer. Ha, you did law degree. Patut kaulah cakap kat aku. So, dia di bawah Penal Code? Ya, Penal Code. Dan Penal Code itu menetapkan hukuman minimum. Mm-hmm. Haa. So, yang majistret jatuhkan hukuman tu selalunya dia berpandukan kepada hukuman yang ada dalam akta itulah. Jadi, satu perkara yang yang saya harap ini kita boleh lontar cabaran pula kepada Menteri Dalam Negeri, kepada Datuk Seri Saifuddin Nasution lah kan. Semasa Kanun Keseksaan, Penal Code tu digubal dulu dulu dululah kan, saya ingat inflasi dah naik beratus kali ganda lah kan. Dulu mungkinkah kalau RM100, RM200 tu besar masa itu kan, maka hukuman itu minimum semua tu ditetapkan berdasarkan keadaan di situ. Tapi sekarang ni dengan inflasinya semua, mungkin RM100 sekarang ini nilai dia masa zaman Penal Code tu dibuat mungkin 50 sen je kot kan. Jadi revision of that tu saya ingat kena buat dan kena cari jalan macam mana kerajaan tidak perlu pergi ke parlimen berkali-kali untuk catch up dengan inflation. Itu satu kan. Yang kedua, sebab itu mungkin kaedah yang lebih baik ialah kita dah kena ada satu community service, rehabilitation punya sistem supaya kesalahan-kesalahan kecil ini tidak dibawa dan didakwa sama sehingga meletakkan mereka satu kelas dengan kes rasuah juta-juta semua ni. contohnya petty theft, shoplifting semua ni, kalau dekat dekat negara lain macam US kan, UK, Australia, setahu saya, ni semua masuk dalam kategori community service. Mmg. So, mungkinkah ada yang berpandangan dalam sistem kerajaan "Oh tak bolehlah, kalau macam tu semua orang mencurilah." "Ah itu adalah risiko itu, semua orang mencuri walaupun saya rasa tak adalalah teruk itu. Tapi risiko yang ada sekarang ini lebih besar, iaitu bila sekali-sekali orang tengok, "Ya Allah, orang ni miskin, curi roti kena penjara seminggu." Kemudian dapat pula apa ni yang Datuk apa ni yang daripada Timbalan Ketua Bahagian Bersatu Segambut tu, didakwa 6 juta bayar 4 juta. ada bekas Perdana Menteri 170 juta pulangkan balik tak kena apa. Kan? Jadi, ada saja kalau pulangkan balik tak kena apa kan. Jadi itu dua perkara yang perlu dibuatlah. Mungki saya harap netizen lambung banyak-banyak supaya kita kena pinda Penal Code itu dan dan tengok, tapi I have to admit I don't read it cover to cover lah. Tapi secara falsafahnya lah, kesalahan-kesalahan seperti ini sepatutnya dia tergolong di dalam community servicelah. Dia bukan masuk di dalam Penal Code. Aku bukan Menteri Undang-Undang ya. sori. Sebab I kita bincang pasal ni, teringat pasal yang that judge dekat Providence tu. Frank Caprio, something like that. The nicest judge in the world. Mmm. Kita sistem mahkamah dan kehakiman dekat Malaysia ni tak ada ruang untuk perbicaraan mahkamah di mana kalau family tu betul-betul susah, di dibenarkan lah tapi dilepaskan dengan macam kan kat kasih kasihanlah, dengan belas kasihan semua tu. Dia ada sebenarnya. I mean I don't know in details lah. sebab lawyer ni kan, kau cakap A dia kata B, kau cakap B dia kata C kan. But I'm a beneficiary of one of the provisions. Born of good behaviour. My case OSEA, saya didakwa dan dijatuhkan penjara 3 tahun kan 2017. Kerana mendedahkan laporan mengenai 1MDB yang berkait dengan kelewatan bayar pencen askar. Masa tu yalah saya ahli parlimen, I had to make a decision lah kan. Ni ramai pencen yang dok komplain, dia tak dapat pencen, tak dapat bayaran semua. Engkau tanya dalam parlimen macam tu semua, dia tak layan pun. Jadi, kau kena tunjukkan laporan memang kata duit macam itu kan. Jadi akulah 30 3 tahun kan, jatuh hukuman bersalah. Kemudian pergi ke Mahkamah Rayuan, so kami ambil jalan strategi begini lah. Saya mengaku bersalah. Sebab memanglah dah dedah, memang betul. Masa tu I was prepared lah, kilajuer pun jel lah. apa nama ni mengaku bersalah, tapi kita runding hantar representation kepada Jabatan Peguam Negara, Pendaftar Raya, supaya kita minta dengan hakim, saya tidak dikenakan hukuman penjara, tetapi dikenakan hukuman Good Behaviour Bond selama 2 tahun. Ada dalam undang-undang kita. jadi mahkamah pun mengambil kira ini tidak ada kepentingan peribadi, ini kepentingan awam semua ni kan. Dan unique situation berkaitan dengan 1MDB semua, jadi mahkamah menjatuhkan hukuman Good Behaviour Bond. So benda tu memang ada sebenarnya, tapi itulah yang sebab tu saya kata soalan Nandini ni betul lah. Dia bukan saja hakim tahu, dia juga perlukan Jabatan Pendakwa Raya ni. Pendakwa raya supaya pastikan Tapi pendakwa raya kat bawah-bawah ni pulalah kan. Hmm mm. Dia menurut arahan. Dan yang pendakwa raya dekat peringkat negeri, dia menurut pekeliling daripada KL, Putrajaya kan. Jadi kecuali ada dasar kerajaan yang mengatakan kita nak macam ni macam ni, ini di bawah community service, yang macam ni macam ni, good behaviour bond lepas kan sahaja atas dasar ihsan dan sebagainya. Jadi dia memudahkan hakim dan pendakwa rayalah. Sebab kalau hakim pula tiba-tiba pandai-pandai lepaskan gini gini gini gini kan, kemudian pendakwa raya pergi pergi rayu, satu hal pula. Sebab pendakwa raya pula, dia akan kira kalau dia dakwa 10, dia kena menang semua, 10 atau 9. Kalau kalah nampak teruk. Jadi, you know, so all this sebenarnya perlukan political direction daripada kerajaan. Sebab tu saya harap ada orang sampaikan kepada Datuk Seri Saifuddin Nasution lah. Dia mungkin banyak benda nak buat ni kan, tapi yang ini adalah perkara yang tak ada orang boleh bangkangleh. Ini adalah satu ketidakadilan dalam masyarakat. Kalau ada ibu ambil susu, ataupun dia memang orang susah, ataupun budak nakal, dia petty theft, RM200 kan, don't destroy his future dengan pergi penjara ke apa semualah. Bagi dia community servicelah. Hmm. Baik, crystal clear YB. Kesian. Alhamdulillah. Tak ada lagi kan? Tak ada dah. Alhamdulillah. Selamat bercuti. Tapi minggu depan kami tetap ada tau. Ya, baik. Ha. Dia orang dia orang minta supaya minggu depan tak ada, tak boleh. Kita tiap minggu kena ada. Ha, so minggu depan walaupun cuti, 1 hari selepas Krismas kan? Ya, ya. Ya. Kita tetap bersiaran. Baik. Boxing Boxing Day. Boxing Day. Engkau Boxing apa? Boxing Day. Yalah, I know, but what do you box, you know? You don't celebrate Christmas? Tak, tak, kita box yang ber-iya. Okay YB. Not a good idea. Kita balik dulu YB. Itu saja, bye.
+[196:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
 
-[1:58:14] [music]
+[196:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[196:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[197:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[197:32] Rafizi Ramli: Hahaha. Kan?
+
+[197:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[197:35] YB: Lamanya kata nak sekejap aje.
+
+[197:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[197:40] YB: Kau ada share dalam Rembayung ke?
+
+[197:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[197:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[197:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[198:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[198:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[199:02] Rafizi Ramli: Hahaha. Kan?
+
+[199:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[199:05] YB: Lamanya kata nak sekejap aje.
+
+[199:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[199:10] YB: Kau ada share dalam Rembayung ke?
+
+[199:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[199:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[199:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[199:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[200:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[200:32] Rafizi Ramli: Hahaha. Kan?
+
+[200:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[200:35] YB: Lamanya kata nak sekejap aje.
+
+[200:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[200:40] YB: Kau ada share dalam Rembayung ke?
+
+[200:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[200:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[200:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[201:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[201:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[202:02] Rafizi Ramli: Hahaha. Kan?
+
+[202:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[202:05] YB: Lamanya kata nak sekejap aje.
+
+[202:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[202:10] YB: Kau ada share dalam Rembayung ke?
+
+[202:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[202:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[202:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[202:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[203:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[203:32] Rafizi Ramli: Hahaha. Kan?
+
+[203:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[203:35] YB: Lamanya kata nak sekejap aje.
+
+[203:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[203:40] YB: Kau ada share dalam Rembayung ke?
+
+[203:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[203:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[203:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[204:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[204:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[205:02] Rafizi Ramli: Hahaha. Kan?
+
+[205:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[205:05] YB: Lamanya kata nak sekejap aje.
+
+[205:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[205:10] YB: Kau ada share dalam Rembayung ke?
+
+[205:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[205:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[205:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[205:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[206:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[206:32] Rafizi Ramli: Hahaha. Kan?
+
+[206:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[206:35] YB: Lamanya kata nak sekejap aje.
+
+[206:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[206:40] YB: Kau ada share dalam Rembayung ke?
+
+[206:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[206:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[206:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[207:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[207:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[208:02] Rafizi Ramli: Hahaha. Kan?
+
+[208:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[208:05] YB: Lamanya kata nak sekejap aje.
+
+[208:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[208:10] YB: Kau ada share dalam Rembayung ke?
+
+[208:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[208:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[208:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[208:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[209:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[209:32] Rafizi Ramli: Hahaha. Kan?
+
+[209:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[209:35] YB: Lamanya kata nak sekejap aje.
+
+[209:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[209:40] YB: Kau ada share dalam Rembayung ke?
+
+[209:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[209:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[209:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[210:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[210:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[211:02] Rafizi Ramli: Hahaha. Kan?
+
+[211:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[211:05] YB: Lamanya kata nak sekejap aje.
+
+[211:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[211:10] YB: Kau ada share dalam Rembayung ke?
+
+[211:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[211:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[211:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[211:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[212:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[212:32] Rafizi Ramli: Hahaha. Kan?
+
+[212:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[212:35] YB: Lamanya kata nak sekejap aje.
+
+[212:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[212:40] YB: Kau ada share dalam Rembayung ke?
+
+[212:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[212:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[212:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[213:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[213:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[214:02] Rafizi Ramli: Hahaha. Kan?
+
+[214:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[214:05] YB: Lamanya kata nak sekejap aje.
+
+[214:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[214:10] YB: Kau ada share dalam Rembayung ke?
+
+[214:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[214:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[214:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[214:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[215:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[215:32] Rafizi Ramli: Hahaha. Kan?
+
+[215:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[215:35] YB: Lamanya kata nak sekejap aje.
+
+[215:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[215:40] YB: Kau ada share dalam Rembayung ke?
+
+[215:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[215:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[215:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[216:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[216:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[217:02] Rafizi Ramli: Hahaha. Kan?
+
+[217:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[217:05] YB: Lamanya kata nak sekejap aje.
+
+[217:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[217:10] YB: Kau ada share dalam Rembayung ke?
+
+[217:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[217:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[217:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[217:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[218:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[218:32] Rafizi Ramli: Hahaha. Kan?
+
+[218:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[218:35] YB: Lamanya kata nak sekejap aje.
+
+[218:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[218:40] YB: Kau ada share dalam Rembayung ke?
+
+[218:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[218:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[218:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[219:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[219:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[220:02] Rafizi Ramli: Hahaha. Kan?
+
+[220:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[220:05] YB: Lamanya kata nak sekejap aje.
+
+[220:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[220:10] YB: Kau ada share dalam Rembayung ke?
+
+[220:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[220:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[220:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[220:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[221:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[221:32] Rafizi Ramli: Hahaha. Kan?
+
+[221:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[221:35] YB: Lamanya kata nak sekejap aje.
+
+[221:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[221:40] YB: Kau ada share dalam Rembayung ke?
+
+[221:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[221:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[221:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[222:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[222:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[223:02] Rafizi Ramli: Hahaha. Kan?
+
+[223:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[223:05] YB: Lamanya kata nak sekejap aje.
+
+[223:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[223:10] YB: Kau ada share dalam Rembayung ke?
+
+[223:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[223:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[223:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[223:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[224:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[224:32] Rafizi Ramli: Hahaha. Kan?
+
+[224:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[224:35] YB: Lamanya kata nak sekejap aje.
+
+[224:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[224:40] YB: Kau ada share dalam Rembayung ke?
+
+[224:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[224:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[224:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[225:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[225:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[226:02] Rafizi Ramli: Hahaha. Kan?
+
+[226:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[226:05] YB: Lamanya kata nak sekejap aje.
+
+[226:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[226:10] YB: Kau ada share dalam Rembayung ke?
+
+[226:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[226:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[226:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[226:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[227:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[227:32] Rafizi Ramli: Hahaha. Kan?
+
+[227:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[227:35] YB: Lamanya kata nak sekejap aje.
+
+[227:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[227:40] YB: Kau ada share dalam Rembayung ke?
+
+[227:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[227:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[227:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[228:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[228:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[229:02] Rafizi Ramli: Hahaha. Kan?
+
+[229:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[229:05] YB: Lamanya kata nak sekejap aje.
+
+[229:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[229:10] YB: Kau ada share dalam Rembayung ke?
+
+[229:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[229:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[229:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[229:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[230:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[230:32] Rafizi Ramli: Hahaha. Kan?
+
+[230:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[230:35] YB: Lamanya kata nak sekejap aje.
+
+[230:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[230:40] YB: Kau ada share dalam Rembayung ke?
+
+[230:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[230:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[230:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[231:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[231:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[232:02] Rafizi Ramli: Hahaha. Kan?
+
+[232:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[232:05] YB: Lamanya kata nak sekejap aje.
+
+[232:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[232:10] YB: Kau ada share dalam Rembayung ke?
+
+[232:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[232:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[232:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[232:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[233:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[233:32] Rafizi Ramli: Hahaha. Kan?
+
+[233:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[233:35] YB: Lamanya kata nak sekejap aje.
+
+[233:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[233:40] YB: Kau ada share dalam Rembayung ke?
+
+[233:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[233:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[233:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[234:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[234:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[235:02] Rafizi Ramli: Hahaha. Kan?
+
+[235:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[235:05] YB: Lamanya kata nak sekejap aje.
+
+[235:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[235:10] YB: Kau ada share dalam Rembayung ke?
+
+[235:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[235:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[235:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[235:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[236:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[236:32] Rafizi Ramli: Hahaha. Kan?
+
+[236:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[236:35] YB: Lamanya kata nak sekejap aje.
+
+[236:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[236:40] YB: Kau ada share dalam Rembayung ke?
+
+[236:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[236:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[236:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[237:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[237:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[238:02] Rafizi Ramli: Hahaha. Kan?
+
+[238:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[238:05] YB: Lamanya kata nak sekejap aje.
+
+[238:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[238:10] YB: Kau ada share dalam Rembayung ke?
+
+[238:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[238:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[238:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[238:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[239:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[239:32] Rafizi Ramli: Hahaha. Kan?
+
+[239:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[239:35] YB: Lamanya kata nak sekejap aje.
+
+[239:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[239:40] YB: Kau ada share dalam Rembayung ke?
+
+[239:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[239:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[239:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[240:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[240:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[241:02] Rafizi Ramli: Hahaha. Kan?
+
+[241:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[241:05] YB: Lamanya kata nak sekejap aje.
+
+[241:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[241:10] YB: Kau ada share dalam Rembayung ke?
+
+[241:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[241:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[241:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[241:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[242:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[242:32] Rafizi Ramli: Hahaha. Kan?
+
+[242:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[242:35] YB: Lamanya kata nak sekejap aje.
+
+[242:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[242:40] YB: Kau ada share dalam Rembayung ke?
+
+[242:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[242:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[242:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[243:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[243:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[244:02] Rafizi Ramli: Hahaha. Kan?
+
+[244:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[244:05] YB: Lamanya kata nak sekejap aje.
+
+[244:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[244:10] YB: Kau ada share dalam Rembayung ke?
+
+[244:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[244:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[244:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[244:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[245:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[245:32] Rafizi Ramli: Hahaha. Kan?
+
+[245:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[245:35] YB: Lamanya kata nak sekejap aje.
+
+[245:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[245:40] YB: Kau ada share dalam Rembayung ke?
+
+[245:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[245:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[245:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[246:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[246:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[247:02] Rafizi Ramli: Hahaha. Kan?
+
+[247:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[247:05] YB: Lamanya kata nak sekejap aje.
+
+[247:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[247:10] YB: Kau ada share dalam Rembayung ke?
+
+[247:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[247:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[247:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[247:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[248:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[248:32] Rafizi Ramli: Hahaha. Kan?
+
+[248:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[248:35] YB: Lamanya kata nak sekejap aje.
+
+[248:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[248:40] YB: Kau ada share dalam Rembayung ke?
+
+[248:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[248:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[248:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[249:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[249:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[250:02] Rafizi Ramli: Hahaha. Kan?
+
+[250:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[250:05] YB: Lamanya kata nak sekejap aje.
+
+[250:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[250:10] YB: Kau ada share dalam Rembayung ke?
+
+[250:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[250:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[250:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[250:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[251:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[251:32] Rafizi Ramli: Hahaha. Kan?
+
+[251:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[251:35] YB: Lamanya kata nak sekejap aje.
+
+[251:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[251:40] YB: Kau ada share dalam Rembayung ke?
+
+[251:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[251:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[251:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[252:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[252:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[253:02] Rafizi Ramli: Hahaha. Kan?
+
+[253:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[253:05] YB: Lamanya kata nak sekejap aje.
+
+[253:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[253:10] YB: Kau ada share dalam Rembayung ke?
+
+[253:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[253:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[253:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[253:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[254:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[254:32] Rafizi Ramli: Hahaha. Kan?
+
+[254:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[254:35] YB: Lamanya kata nak sekejap aje.
+
+[254:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[254:40] YB: Kau ada share dalam Rembayung ke?
+
+[254:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[254:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[254:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[255:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[255:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[256:02] Rafizi Ramli: Hahaha. Kan?
+
+[256:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[256:05] YB: Lamanya kata nak sekejap aje.
+
+[256:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[256:10] YB: Kau ada share dalam Rembayung ke?
+
+[256:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[256:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[256:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[256:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[257:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[257:32] Rafizi Ramli: Hahaha. Kan?
+
+[257:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[257:35] YB: Lamanya kata nak sekejap aje.
+
+[257:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[257:40] YB: Kau ada share dalam Rembayung ke?
+
+[257:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[257:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[257:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[258:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[258:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[259:02] Rafizi Ramli: Hahaha. Kan?
+
+[259:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[259:05] YB: Lamanya kata nak sekejap aje.
+
+[259:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[259:10] YB: Kau ada share dalam Rembayung ke?
+
+[259:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[259:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[259:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[259:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[260:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[260:32] Rafizi Ramli: Hahaha. Kan?
+
+[260:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[260:35] YB: Lamanya kata nak sekejap aje.
+
+[260:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[260:40] YB: Kau ada share dalam Rembayung ke?
+
+[260:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[260:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[260:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[261:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[261:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[262:02] Rafizi Ramli: Hahaha. Kan?
+
+[262:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[262:05] YB: Lamanya kata nak sekejap aje.
+
+[262:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[262:10] YB: Kau ada share dalam Rembayung ke?
+
+[262:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[262:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[262:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[262:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[263:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[263:32] Rafizi Ramli: Hahaha. Kan?
+
+[263:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[263:35] YB: Lamanya kata nak sekejap aje.
+
+[263:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[263:40] YB: Kau ada share dalam Rembayung ke?
+
+[263:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[263:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[263:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[264:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[264:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[265:02] Rafizi Ramli: Hahaha. Kan?
+
+[265:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[265:05] YB: Lamanya kata nak sekejap aje.
+
+[265:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[265:10] YB: Kau ada share dalam Rembayung ke?
+
+[265:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[265:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[265:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[265:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[266:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[266:32] Rafizi Ramli: Hahaha. Kan?
+
+[266:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[266:35] YB: Lamanya kata nak sekejap aje.
+
+[266:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[266:40] YB: Kau ada share dalam Rembayung ke?
+
+[266:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[266:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[266:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[267:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[267:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[268:02] Rafizi Ramli: Hahaha. Kan?
+
+[268:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[268:05] YB: Lamanya kata nak sekejap aje.
+
+[268:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[268:10] YB: Kau ada share dalam Rembayung ke?
+
+[268:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[268:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[268:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[268:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[269:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[269:32] Rafizi Ramli: Hahaha. Kan?
+
+[269:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[269:35] YB: Lamanya kata nak sekejap aje.
+
+[269:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[269:40] YB: Kau ada share dalam Rembayung ke?
+
+[269:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[269:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[269:58] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[270:26] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[270:44] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[271:02] Rafizi Ramli: Hahaha. Kan?
+
+[271:03] Rafizi Ramli: Adakah, ah, Khairul...
+
+[271:05] YB: Lamanya kata nak sekejap aje.
+
+[271:06] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[271:10] YB: Kau ada share dalam Rembayung ke?
+
+[271:11] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[271:25] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
+[271:28] Rafizi Ramli: And in fact kadang-kadang, ah, what we need more in society, is less of, you know, idols, more of people who actually do it. Ah, dan jadi, ah, apa nama ni, ah, bagus dari segi, ah, orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, ooo saya jadi fan awak. Like what we need is actually more and more people yang, especially yang muda-muda yang memilih jalan untuk berniaga. Dan, ah, saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, ah bila kita rombak semula Yayasan Peneraju, Teraju, salah satu fokusnya ialah untuk kita menukar success model. Sebab terutamanya kepada Bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, Bumiputera dah ramai kelas menengah. Tapi kelas menengah makan gaji.
+
+[271:56] Rafizi Ramli: Jadi, the capital is not mobilized dan selalunya is very inward into you. Maksudnya, kelas menengah Melayu boleh makan di Rembayung lah. Bayar berapa pun. Tapi, dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana, ah, sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product. It's actually the total value offering product. Hm.
+
+[272:14] Rafizi Ramli: Dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama orang jalan kaki daripada KICC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam nak ambil gambar.
+
+[272:32] Rafizi Ramli: Hahaha. Kan?
+
+[272:33] Rafizi Ramli: Adakah, ah, Khairul...
+
+[272:35] YB: Lamanya kata nak sekejap aje.
+
+[272:36] Rafizi Ramli: Sorry, sorry, sorry. Satu lagi, because I, I, I teringat balik ah.
+
+[272:40] YB: Kau ada share dalam Rembayung ke?
+
+[272:41] Rafizi Ramli: Tak, tak, tak ada. I, I teringat balik ah, perbualan kita pasal usahawan muda, semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola? ataupun...
+
+[272:55] Rafizi Ramli: Saya tak rasa dia nak jadi idola. 
+
