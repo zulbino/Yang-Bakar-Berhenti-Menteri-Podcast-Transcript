@@ -232,7 +232,7 @@ def _trim_dangling_fragment(text):
     "[3:1" with no closing bracket or speaker text). Drop a trailing block that
     doesn't end in normal sentence punctuation."""
     blocks = text.rstrip().split("\n\n")
-    if blocks and not re.search(r'[.!?\]"\')]\s*$', blocks[-1]):
+    if len(blocks) > 1 and not re.search(r'[.!?\]"\')]\s*$', blocks[-1]):
         blocks = blocks[:-1]
     return "\n\n".join(blocks) + "\n"
 
