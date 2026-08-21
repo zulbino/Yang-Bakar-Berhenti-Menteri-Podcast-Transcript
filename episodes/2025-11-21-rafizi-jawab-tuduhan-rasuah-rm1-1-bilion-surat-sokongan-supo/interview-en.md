@@ -9,24 +9,20 @@ duration: 2h 15m
 view_count: 57923
 hosts:
 - Rafizi Ramli
+- Moderator
 guests:
-- Haziq
+- Interviewer
 topics:
-- Clickbait Media Reporting
-- Anti-Party Hopping Law
-- SPRM Compound Settlement & Jana Wibawa Case
-- Kedah Rubber City & Foreign Direct Investment
-- ARM Collaboration & Semiconductor IP Design
-- Cybertrooper Attacks & Allegations
-- Underage Employment & TVET Apprenticeships
-summary: In episode 23 of the Yang Beriya podcast, Rafizi Ramli and Haziq review weekly
-  trending news and political issues. They discuss clickbait media headlines, the
-  Anti-Hopping Law, political photo opportunities during emergencies, SPRM's controversial
-  compound offer in the Jana Wibawa case, and political hypocrisy regarding Chinese
-  script at Kedah Rubber City. Rafizi also addresses cybertrooper attacks over Malaysia's
-  strategic semiconductor collaboration with ARM, as well as the detention of underage
-  factory workers, advocating for industry apprenticeships through the Academy in
-  Industry (ADI) program.
+- Social assumptions and stereotyping
+- Media clickbait and framing
+- Party-hopping politics in Malaysia
+- Anti-Hopping Act efficacy
+- Ethics of politicians at disaster scenes
+summary: In this 23rd episode of the podcast 'Yang Bertimbang Menteri', Rafizi Ramli
+  and the moderator discuss various trending topics, including social assumptions
+  regarding race-based slang, news headlines focusing on educational backgrounds,
+  the Anti-Hopping Act in the context of Sabah politics involving Ronald Kiandee,
+  and the ethics of politicians interfering in emergency response scenes.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -34,98 +30,118 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum and welcome to the 23rd episode of the *Yang Beriya* podcast with Saudara Rafizi Ramli. YB, my instinct tells me we will finish today's recording in under two hours.
+**Moderator:** Assalamualaikum and welcome to the 23rd episode of the "Yang Bertimbang Menteri" podcast with Brother Rafizi. Don’t forget to follow Brother Rafizi’s social media—YouTube, Facebook, Instagram, and TikTok. I have a hunch—can men even have hunches?—that we will spend more than two hours here today. Oh, that’s not a hunch, that’s a necessity. But I have to do the thing the audience dislikes, which is interrupting.
 
-**Rafizi Ramli:** That's not an instinct, that's a necessity.
+**Rafizi Ramli:** Okay, good. Let's head straight into the first segment of episode 23. We have the "Beria" segment. Let’s see what we have this week. First, "terpaling Cina" (the ultimate Chinese). There was an individual who was given a phone number, and when he called, he immediately spoke with a slight Chinese slang. "Boss, this is the house, are you free, want to come today?" He thought the person was Chinese, but when he arrived, it turned out both were Malay. I took this from Obulan.
 
-**Haziq:** All right, YB. Let me go straight to the first segment, *Beriya*, where we examine this week's viral issues. The first issue is titled "Terpaling Cina." There was a social media post about a Malay man who obtained a phone number from a Chinese individual. When he called the number, he automatically spoke using a Chinese accent. However, when they met in person, it turned out both of them were Malay.
+**Moderator:** I understand, but what is the context?
 
-**Rafizi Ramli:** What is the *Beriya* context and impact of this story?
+**Rafizi Ramli:** He assumed; he used *the power of assumption*. Because he got the number from a Chinese person, he immediately spoke using that slang. It’s the same as when we buy things; we make assumptions.
 
-**Haziq:** We often make assumptions based on minimal information, and then immediately adjust our way of speaking according to those assumptions.
+**Moderator:** So, what is the *social impact*?
 
-**Rafizi Ramli:** This one isn't actually that *Beriya*. Haziq is the one being *Beriya* this time. The moment something has to be explained in elaborate detail just to clarify its pretentiousness, it means it's not really that *Beriya*.
+**Rafizi Ramli:** We make assumptions even though we don't have info about that person, and we speak using their slang.
 
-**Haziq:** Fair enough, I admit defeat on the first issue. Let's move to the second issue: "Couldn't find connections (*kabel*) to get a job, stole TM cables." A law graduate was among four individuals charged with attempting to steal Telekom Malaysia cables.
+**Moderator:** This one actually isn't really "beria" (trying too hard). Maybe you’re the one trying too hard, perhaps.
 
-**Rafizi Ramli:** Cable theft is a common crime that happens everywhere. However, the media report placed emphasis on the phrase "law graduate" as clickbait. We don't know his actual age—he might already be 36 or 37 years old. A person's educational background does not guarantee their life choices. In the United States, Ted Kaczynski, or the "Unabomber," was a brilliant scientist who graduated from Harvard University, yet became a terrorist targeting experts and lawyers with package bombs for two decades. So, what's *Beriya* here is the media using the suspect's educational background as clickbait.
+**Rafizi Ramli:** I am the one trying too hard this time, but it’s the first time I’ve tried too hard.
 
-**Haziq:** Next, a political issue. Beluran Member of Parliament, Datuk Seri Ronald Kiandee, asked a question in Parliament: "Why has the Anti-Party Hopping Act failed to stop MPs from party hopping, and what action is the government taking to strengthen this law?"
+**Moderator:** *Actually*, the moment a "beria" thing has to be explained, it’s no longer "beria." Sorry, I have to say this is a failure.
 
-**Rafizi Ramli:** This is truly *Beriya*. After the 2020 Sabah State Election, Bersatu appeared to win big before a majority of its elected representatives hopped over to join GRS. However, Bersatu's very existence in Sabah stemmed from UMNO representatives hopping into Bersatu in 2018. When Ronald Kiandee asks why this act failed to prevent party hopping, he should really look in the mirror first.
+**Rafizi Ramli:** A failure, huh? But many people say they laugh at 3:00 a.m. watching this. But it’s a failure, okay.
 
-**Haziq:** Next issue, let the photo speak for itself. A local politician uploaded a photo of himself holding a fire hose in front of a burning PASTI kindergarten in Kemaman.
+**Moderator:** Failure. I mean, *maybe*, but because "beria" is supposed to be pretentious (*poyo*), right? Sorry, this one isn't pretentious.
 
-**Rafizi Ramli:** Just look at his attire—leather shoes, jeans, and that peering pose is clearly staged or a photo-op. The fire is a tragic incident, but ethically and legally, neither members of the public nor elected representatives should handle firefighting equipment while firefighters are on duty. This action endangers lives and can obstruct public servants from performing their duties. Overseas, interfering with authorities during an emergency can lead to prosecution in court. Unfortunately, our politicians always want to show their faces everywhere, while a section of society praises them without considering the ethical and safety aspects.
+**Rafizi Ramli:** Not pretentious, I suppose. Let's see the next one. I’m afraid this one isn't pretentious either.
 
-**Haziq:** Next screenshot: An individual's passport application requesting a six-day transit in Dubai was rejected by the court. The judge emphasized that purchasing flight tickets in advance was at one's own risk, and approving such a long transit would open the floodgates to inappropriate precedents.
+**Moderator:** "Can't find cables, get a job, steal TM cables. Law graduate among four charged with attempting to steal TM cables." This is a crime, but we have seen headlines like this before. The TM cables didn't die from being *electrocuted*, right?
 
-**Rafizi Ramli:** Why the need for a transit in Dubai for up to six days? Usually, people want transit times to be as short as possible. Many have linked this to rumors regarding Tan Sri Muhyiddin Yassin's son-in-law, who is alleged to be residing there, although there is no official proof.
+**Rafizi Ramli:** That’s it. Actually, if anything is "beria," it’s not really about the cable theft. Cable theft is a common occurrence everywhere. But that TV3 bulletin really wanted to *emphasize* "law graduate."
 
-**Haziq:** The next issue concerns the Jana Wibawa case: Datuk Adam Radlan was discharged from charges after paying a RM4.1 million compound, but is now being sought again by SPRM on suspicion of having left the country.
+**Moderator:** Clickbait.
 
-**Rafizi Ramli:** When SPRM Chief Commissioner, Tan Sri Azam Baki, announced that SPRM was searching for Datuk Adam Radlan again, it became a truly *Beriya* matter. He was charged with corruption and money laundering worth over RM6 million, but was discharged after paying a RM4.1 million compound—meaning he still gained a RM2 million profit.
+**Rafizi Ramli:** Ha, this is indeed clickbait. Um, yes.
 
-There is indeed a provision in the SPRM Act that allows for compound offers, but the context for that provision exists for specific situations. For example, when two parties are involved in corruption and the prosecution needs one to become a crown witness to prosecute the party that received the larger payoff. The compound provision is not intended to give an easy exit to the main accused after the investigation is completed.
+**Moderator:** "Gang-gang Azi." Don’t know them?
 
-The tendency to settle cases through compounds without an open trial in court is very dangerous because it opens up space for backroom dealing (*kaw-tim*). When charges are dropped after the compound is paid, any passport restrictions are also revoked in court. So, it is no surprise when the individual takes the opportunity to leave the country. My advice to SPRM is to avoid the habit of offering compounds for major cases of national interest.
+**Rafizi Ramli:** I already checked his age; he’s old, 36, 37 years old. I don’t understand why they have to include "law graduate." Everyone's educational background is uncertain. If you look at the US, do you know about the Unabomber, Ted Kaczynski?
 
-**Haziq:** The final issue for this segment: PAS did not condemn the Chinese inscription stone erected in Kedah Rubber City.
+**Moderator:** I don't know the details.
 
-**Rafizi Ramli:** PAS and Perikatan Nasional supporters frequently portray themselves as staunch defenders of the Malay language and loudly condemn any presence of Chinese script. However, on the issue of the commemorative stone for the Prince Changsan tire factory investment at Kedah Rubber City, they suddenly went quiet.
+**Rafizi Ramli:** He was a brilliant scientist, went to Harvard, but he became one of the hardest-to-catch terrorists from the 70s to '94. For two decades, he sent boxes to scientists, doctors, lawyers; they’d explode when opened. So, it's not just in Malaysia, anywhere and regardless of background, life is hard. So this one, if it’s "beria," he’s trying too hard to clickbait the "law graduate" part, right?
 
-Kedah Executive Councillor (Exco), Dr. Haim Hilman, gave a lengthy explanation on social media without mentioning a single word that this was a Federal Government project. Kedah Rubber City in Padang Terap is an NCIA asset under the Ministry of Economy. Efforts to bring in this RM2 billion investment were driven entirely by the Federal Government through NCIA, where I myself witnessed the land agreement in 2024.
+**Moderator:** Ha, it’s actually quite common. Crime. Arrested. Okay, next. This "beria" segment feels a bit dull this week.
 
-During the early days of my administration at the Ministry of Economy, the Kedah Rubber City project had almost stalled because the investors announced during the PN era pulled out. We made the decision to continue in order to develop the Padang Terap area. Unfortunately, the Kedah State Government leadership did not give credit to the Federal Government and promoted it as a state success, right up until this Chinese script issue went viral.
+**Rafizi Ramli:** Ha, okay. We hope, we *expect* that to be the case.
 
-**Haziq:** Among the issues discussed, which one does YB select as the winner of this week's *Beriya* award?
+**Moderator:** Okay, alright. WB (YB) standard is scary. Surely these two aren't dull? Okay, politics. "Hopping MP asks, what is the cause of him hopping?" This is a question from November 19, just recently. Beluran asks, "Why did the Anti-Hopping Act fail to prevent Members of Parliament from hopping parties? What are the government's actions to strengthen this law?"
 
-**Rafizi Ramli:** I give it to SPRM and Tan Sri Azam Baki over the issue of the compound offer and the re-hunting of the accused.
+**Rafizi Ramli:** That’s "beria" (trying too hard). This one is because of the Sabah context, right? Datuk Seri Ronald Kiandee is dissatisfied because, to him, in the last state election in 2020, Bersatu was seen to have won big, and a large portion of those in Bersatu later hopped and became GRS. But Bersatu in Sabah was also a result of hopping—from UMNO in 2018, those who hopped and became Bersatu. So, for him to be "beria" about hopping, he should be the one answering, I think. If he asks why the Anti-Hopping Act failed, he should look in the mirror first.
 
-**Haziq:** Let's move into the *Hidup Keras* segment. First issue: The attack by cybertroopers regarding the government's collaboration with ARM (Advanced RISC Machines) and allegations of misappropriation of funds. Could YB elaborate on what actually happened?
+**Moderator:** Okay, good. "Beria," okay, this one passes.
 
-**Rafizi Ramli:** Slanderous messages crafted by cybertroopers—or what are called "Cheplos"—are extremely dangerous because they damage the country's image. Most citizens may not know what ARM is. ARM is an international chip architecture company founded by experts from Cambridge University.
+**Rafizi Ramli:** Next. "Let the pictures speak." For those who are jogging, they can't see it. Haji Hanafiah Mat, look at his leather shoes and his jeans, his shirt is almost the same color as mine. His style looks so much like a *photobomb* or acting, peeking like that.
 
-Unlike traditional models such as Intel or AMD that design and manufacture their own chips, ARM pioneered the Intellectual Property (IP) ownership model. ARM designs highly energy-efficient chip architecture and sells those IP licenses to other companies for manufacturing, collecting royalties on every chip sold. Today, over 95% of chips in smartphones, IoT devices, and electric vehicles use ARM architecture.
+**Moderator:** But the context is sad, that fire. Surely those who weren't burning, many children were crying in fear. Oh, this must be in Kemaman.
 
-In the local semiconductor industry, Malaysia has for decades remained at the lower end of the value chain, namely packaging and testing. Although Intel's factory was established in Penang in 1972—earlier than Taipei (TSMC) and Shenzhen—Penang fell behind in terms of innovation because we did not own any local IP and merely served as an assembly hub.
+**Rafizi Ramli:** Yes. Only, actually, I don't know if there is a law or not. I checked GPT earlier before coming in; indeed, members of the public cannot handle it because it endangers lives. For example, if there is a fire and the fire department is carrying out their duties, and a people's representative goes in and gets in the way of the fire department's work, if anything happens, the rescue effort has problems. I am not sure about the specific law, but ethically, he shouldn't. The problem with these politicians is that they want to squeeze their faces in everywhere.
 
-When the Ministry of Economy organized the KL20 summit in 2024, we invited ARM's leadership. The Prime Minister, Datuk Seri Anwar Ibrahim, was deeply interested in ARM's potential. As a result, we initiated official negotiations and successfully sealed a strategic agreement where a government entered into direct cooperation with ARM to build local chip design capabilities with a five-year target.
+**Moderator:** Oh, *function* (seeking attention), is it?
 
-**Haziq:** What exactly are the accusations leveled by the cybertroopers regarding this issue?
+**Rafizi Ramli:** Ha, there are many other *functions*. If there is already an ambulance, fire department, or authorities managing it, politicians should get used to being regular people. Don't be busybody there. Our people really love it, there’s a *demand*. "Oh, how good our representative is, he went himself to put out the fire." But actually, besides the legal aspect, ethically, including for regular citizens, if there are professionals already entrusted and trained, we shouldn't interfere.
 
-**Rafizi Ramli:** They fabricated a story claiming that I received RM1 billion in bribes from ARM and appointed my former officer, James, to join ARM in order to launder the money through a restaurant business. This is an utterly absurd accusation. No one transfers tens of millions of ringgit to be laundered through a small restaurant with RM5 sales margins.
+**Interviewer:** Politics question. An MP who hopped asks, what is the cause of him hopping? This is a question on November 19, just recently. Beluran asks, why did the Anti-Hopping Act fail to prevent MPs like him from hopping parties? What are the government's actions to strengthen this law?
 
-Negotiations with ARM were officially led by a government committee comprising the Deputy Secretary-General (TKSU) of the Ministry of Economy, Datuk Balu, along with officers with backgrounds in law and fund management, like James. We negotiated transparently via video conferencing without any overseas travel expenses. The Cabinet approved these negotiations, and the launch ceremony was witnessed by the Prime Minister as well as Cabinet ministers such as Tengku Zafrul and Amir Hamzah.
+**Rafizi Ramli:** That’s "beria." This one is because of the Sabah context, right? Yes, Sabah. We use it. Datuk Seri Ronald Kiandee is dissatisfied because, to him, the last GE or state election back in 2020, Bersatu was seen to have won big. And a large portion of those in Bersatu later hopped and became GRS [Gabungan Rakyat Sabah], right? But Bersatu in Sabah was also a result of hopping too. Because from UMNO in 2018, those UMNO members were the ones who hopped to become Bersatu. So, he is "beria" about hopping. So, he should be the one answering, I think. If he asks why the Anti-Hopping Act failed to prevent MPs from hopping parties, he should look in the mirror first, I think.
 
-When I resigned from the Ministry of Economy, ARM—which had just opened an office in TRX—feared that the implementation of this project would be stalled. On that basis, ARM offered a role to James to assist with their office's transition phase. However, due to extreme slanderous attacks from these cybertroopers, James decided to resign less than a month later and is now working in the UK. We lost a major talent (brain drain) because of dirty politics.
+**Interviewer:** Beluran MP asked, why did the Anti-Hopping Act fail to stop MPs like him from switching parties? What is the government doing to strengthen this law?
 
-**Haziq:** What action will YB take regarding this attack?
+**Rafizi Ramli:** This is a question from November 19, just recently. To be fair, this question is raised within the context of Sabah, right? Datuk Seri Ronald Kiandee is clearly dissatisfied because, in his view, during the last state election in 2020, Bersatu was seen to have won big, and a large portion of those members subsequently jumped to form GRS [Gabungan Rakyat Sabah]. However, Bersatu in Sabah was itself a product of party-hopping. They originated from UMNO in 2018; those UMNO members were the ones who jumped to become Bersatu. So, for him to be so adamant about the issue of jumping, he should be the one answering that question, I think. If one asks why the Anti-Hopping Act failed to prevent MPs from switching parties, perhaps he should look in the mirror first.
 
-**Rafizi Ramli:** These slanderous accusations not only attack me, but also damage the reputation of an international giant like ARM. If I take this case to court, ARM representatives would need to testify, and government documents involving the Ministry of Finance, MITI, and MIDA would have to be disclosed. This would embarrass the country in the eyes of international investors.
+**Host:** Hopping MP asks, what is the cause of him hopping? This is a question from November 19, just recently. Beluran asks, why did the Anti-Hopping Act fail to prevent MPs like him from hopping parties? What are the government's actions to strengthen this law?
 
-I will send an official letter to the Prime Minister to remind him to rein in these paid PKR cybertroopers. Most of them are individuals who jumped parties after PKR became the government and are controlled by certain parties in minister offices. If the government does not discipline them, I will not hesitate to file a lawsuit in court to clear my name.
+**Rafizi Ramli:** That’s "beria." This one is because of the Sabah context, right? Yes, Sabah. We use it. Datuk Seri Ronald Kiandee is dissatisfied because to him, the GE or state election, the state election back in 2020, Bersatu was seen to have won big. And a large portion of those in Bersatu later hopped and became GRS. But Bersatu in Sabah was also a result of hopping too. Because from UMNO in 2018, it was those UMNO members who hopped to become Bersatu. So, he is "beria" about hopping. So, he should be the one answering, I think. If he asks why the Anti-Hopping Act failed to prevent MPs from hopping parties, he should look in the mirror first, I think.
 
-My primary goal is to ensure that the agenda to build chips "Made by Malaysia" is not abandoned. The government should shift its focus from giving hundreds of millions in cash subsidies to foreign companies towards IP ownership that adds long-term value to local talent.
+**Interviewer:** There is a question dated November 19, just recently.
 
-**Haziq:** Moving to the second issue in *Hidup Keras*: The case of 31 underage teenagers who were nabbed working at a factory. How does YB view this issue from a policy and social perspective?
+**Rafizi Ramli:** Hmm.
 
-**Rafizi Ramli:** This case is deeply saddening, but it reflects a gap in our system. These kids were arrested for working underage or using fake identities, even though their intention was simply to earn an honest living rather than getting involved in negative activities like illegal street racing (*rempit*) or drugs.
+**Interviewer:** Beluran asks, why did the Anti-Hopping Act fail to prevent MPs like him from hopping parties? What are the government's actions to strengthen this law?
 
-The local education system still adheres to a single model of success: remaining in school until Form 5, taking SPM, and pursuing higher education at a university or classroom-based TVET institution. In reality, not all teenagers are academically inclined. Forcing them to sit in a classroom for years on end often yields no results.
+**Rafizi Ramli:** That’s "beria." This one is because of the Sabah context, right?
 
-In European countries and Japan, apprenticeship systems have been used for hundreds of years. Teenagers aged 15 or 16 who are not interested in the academic pathway can directly enter the workforce through industrial guilds and be trained practically at the workplace before being certified with skill credentials.
+**Interviewer:** Yes, Sabah. We use it.
 
-While at the Ministry of Economy, we collaborated with KESUMA to launch the Academy in Industry (ADI) program. Through this program, local youth are directly employed by companies and receive on-the-job training. Within 9 to 18 months, they earn a full monthly salary (RM1,800–RM2,000 including allowances) while being awarded the Malaysian Skills Certificate (SKM) Levels 1 and 2 without having to take conventional written examinations.
+**Rafizi Ramli:** Datuk Seri Ronald Kiandee is dissatisfied because to him, the last state election back in 2020, Bersatu was seen to have won big. And a large portion of those in Bersatu later hopped and became GRS. But Bersatu in Sabah was also a result of hopping too. Because from UMNO in 2018, it was those UMNO members who hopped to become Bersatu. So, he is "beria" about hopping. He should be the one answering, I think. If he asks why the Anti-Hopping Act failed to prevent MPs from hopping parties, he should look in the mirror first, I think.
 
-**Haziq:** Are there challenges in terms of parental perceptions and employer habits when implementing this approach?
+**Interviewer:** Okay. Good, WB.
 
-**Rafizi Ramli:** Yes, there is a perceptual barrier where many parents still view a university degree as the sole guarantee for the future. In today's technical and technology sectors—such as software development or data science—employers no longer look for a piece of degree paper; instead, they evaluate actual skills and project portfolios.
+**Rafizi Ramli:** "Beria," okay. This one passes as "beria."
 
-On the employers' side, many are more comfortable relying on foreign workers because the three-year work permit tie reduces turnover rates. The Academy in Industry program was designed with tiered incentives to ensure that local youth remain in service for at least 18 months.
+**Interviewer:** Okay, alright. WB's standard is scary. Surely these two aren't dull. Ah, okay. Politics. Hopping MP asks, what is the cause of him hopping?
 
-The judgmental attitude toward youth who choose to start working early needs to change. The government needs to streamline various career pathways so these young people can contribute to the economy with dignity.
+**Interviewer:** Beluran is asking why the Anti-Hopping Law failed to stop Members of Parliament like him from party hopping, and what the government is doing to strengthen this law?
 
-**Haziq:** Thank you, YB, for such a comprehensive sharing for this 23rd episode. We'll see you again in the next episode.
+**Rafizi Ramli:** This is in the context of Sabah, right?
 
-**Rafizi Ramli:** Thank you. Good night.
+**Interviewer:** Yes, Sabah.
+
+**Rafizi Ramli:** Datuk Seri Ronald Kiandee is unhappy because, in his view, during the last general election or state election—specifically the 2020 election—Bersatu appeared to have won big. And a large portion of those in Bersatu subsequently jumped and became GRS [Gabungan Rakyat Sabah]. However, Bersatu in Sabah was also a result of party hopping. It came from UMNO in 2018, when those from UMNO jumped to join Bersatu. So, for him to be so adamant about "jumping," he should probably be the one answering that question. If he is asking why the Anti-Hopping Law failed to stop MPs from switching parties, he should perhaps look in the mirror first.
+
+**Interviewer:** Alright, and regarding the "WB"?
+
+**Rafizi Ramli:** Yes, and that is also a factor. People have concerns about the standards held by WB.
+
+**Interviewer:** It shouldn’t be a double standard, right?
+
+**Rafizi Ramli:** Exactly. It’s politics.
+
+**Interviewer:** An MP who hopped is now asking about the root cause of jumping?
+
+**Rafizi Ramli:** And this question was only raised on November 19th, quite recently.
+
+**Interviewer:** Politics. Hopping MP asks, what is the cause of him hopping? This is a question on November 19, just recently. Beluran asks, why did the Anti-Hopping Act fail to prevent MPs like him from hopping parties? What are the government's actions to strengthen this law?
+
+**Rafizi Ramli:** That’s "beria." This one is because of the Sabah context, right? Yes, Sabah. We use it. Datuk Seri Ronald Kiandee is dissatisfied because to him, the GE or state election, the GE back in 2020, Bersatu was seen to have won big. And a large portion of those in Bersatu later hopped and became GRS. But Bersatu in Sabah was also a result of hopping too. Because from UMNO in 2018, it was those UMNO members who hopped to become Bersatu. So, he is "beria" about hopping. So, he should be the one answering, I think. If he asks why the Anti-Hopping Act failed to prevent MPs from hopping parties, he should look in the mirror first, I think.
+
+**Interviewer:** Okay. Good, WB. "Beria," okay. This one passes as "beria." Okay, alright. WB's standard is scary. Surely these two aren't dull.
