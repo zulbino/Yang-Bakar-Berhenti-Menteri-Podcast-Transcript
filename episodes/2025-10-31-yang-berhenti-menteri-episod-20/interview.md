@@ -9,16 +9,21 @@ duration: 2h 32m
 view_count: 68808
 hosts:
 - Rafizi Ramli
-guests: []
+- Speaker 1
+guests:
+- Speaker 2
 topics:
-- Modern Agriculture
-- Entrepreneurship and Social Enterprise
-- KESUM and FlexiMat
-- Affordable Food and Consumer Market Forces
-summary: Rafizi Ramli shares insights on modern agriculture for youth, compares business
-  perspectives among ethnic communities in Malaysia, and details the social objectives
-  behind launching KESUM and FlexiMat to empower everyday entrepreneurs, create flexible
-  job opportunities, and stabilize food prices.
+- Pokemon card collecting
+- Political rhetoric regarding Donald Trump
+- Prime Minister Anwar Ibrahim's foreign relations
+- Misinformation in Malaysian digital media
+- International cat competitions
+- Political identity and values
+summary: In this episode of the Berhentimenteri podcast, Rafizi Ramli and the moderator
+  discuss a variety of current events including the high-value sale of a Pokemon card
+  collection, the changing political rhetoric surrounding Donald Trump's relationship
+  with Prime Minister Anwar Ibrahim, the spread of misinformation by political commentators,
+  and the performance of a Malaysian cat in an international competition.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -27,30 +32,90 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Rafizi Ramli:** Kalau dapat RM3,000 hingga RM4,000 sebulan, memang orang muda akan rasa lebih baik jadi petani daripada bekerja di Kuala Lumpur. Mengenai pertanian moden, apakah perbezaan membina tapak pertanian moden berbanding membuka kilang? Kalau buka kilang, gaji minimum RM2,000. Tapi tapak pertanian moden yang operasinya seperti kilang boleh membayar RM3,000 lebih. Kalau ini dapat dibangunkan dengan cepat, kita boleh mengalihkan minat orang muda untuk bekerja di sini. Masalahnya, usaha membangunkan tapak-tapak ini kurang seksi. Namun, kita kena terus beri tumpuan. Kalau tidak, seperti kata YB Hassan Karim, naya kita nanti apabila tiada lagi orang yang mahu bercucuk tanam.
+**Speaker 1:** Assalamualaikum. Salam Flexismat dan salam kesom kepada semua pendengar episod ke-20 podcast Berhentimenteri. Dah episod 20. Jadi YB, saya nampak sihatlah, jadi saya tak perlu tanya.
 
-**Host:** Baik YB, tahniah YB Hassan. Itu soalan terakhir untuk segmen ini. Kita boleh terus ke segmen seterusnya, "Hidup Keras." Sebelum kita menyentuh isu tarif dan lawatan Donald Trump ke Malaysia, kita tengok dulu FlexiMat dan KESUM. Pagi tadi YB ada memberitahu kami bahawa YB *very enjoy the process*—malah lebih seronok daripada menjadi menteri.
+**Rafizi Ramli:** Nampak sihat tapi terkejut, apa punya salam ni? Kau ingat ni salam ni ke?
 
-**Rafizi Ramli:** Memang betul. Saya tidak tahu orang lain, tetapi saya memang minat berniaga. Ini bukan sangat soal mencari kekayaan, kerana berniaga ini tidak semestinya menjadikan kita kaya. Ini topik yang agak sensitif.
+**Speaker 1:** Okey, saya tarik balik, tapi sebenarnya nak promotelah. Bad promotion.
 
-Apakah perbezaan perspektif antara sesetengah orang Melayu dan orang Cina dalam perniagaan? Semua orang mahu cari duit—*no, no, I mean*, semua orang mahu buat duit. Namun, terdapat perbezaan dari segi perspektif perniagaan. Kita dibesarkan dalam suasana Melayu dan Bumiputera yang memandang kerja makan gaji dan menjadi pengurus sebagai *pinnacle* kerjaya. Belajar di universiti, makan gaji, jadi pengurus bank atau pegawai—itulah penanda aras kejayaan. Sebaliknya, orang Melayu yang berniaga sering dilihat hanya mahu menjadi kaya.
+**Rafizi Ramli:** Ada cara lain yang mungkin lebih gentleman untuk promote.
 
-Tetapi cuba tanya orang Cina yang berniaga secara biasa-biasa—bukan tauke besar atau taipan, kerana kalau sudah jadi taipan, Melayu atau Cina sama sahaja. Cuba tanya pengusaha kedai runcit atau kedai barangan keras (*hardware*) yang diwarisi daripada bapa atau datuk mereka. Bagi mereka, berniaga itu adalah kerjaya dan punca rezeki harian. Melalui perniagaan itu, mereka menyediakan peluang pekerjaan kepada anak-anak, ahli keluarga, dan rakan-rakan. Tidak semua anak-anak mereka berpeluang belajar tinggi untuk masuk ke perkhidmatan awam, jadi mereka bekerja dalam perniagaan tersebut.
+**Speaker 1:** Baik, baik. Jadi sebelum kita bermula dengan episod dan excitement yang lain, saya mungkin kena highlight awal-awal bahawa esok pagi jam 10 pagi kita ada pelancaran Fleximart di Shah Alam.
 
-Perspektif saya dalam perniagaan pula bukanlah untuk menjadi kaya. Kalau saya mahu kaya, lebih baik saya *kowtim* projek, jadi "Ali Baba", atau cium tangan untuk menjadi ahli lembaga pengarah di syarikat-syarikat yang membayar RM30,000 hingga RM40,000 sebulan tanpa perlu bekerja keras. Namun, mengusahakan perniagaan dari bawah ada keberkatannya yang tersendiri. Walaupun pemiliknya tidak kaya, perniagaan itu memberi gaji RM3,000, RM4,000, atau RM5,000 sebulan kepada anak-anak muda. Walaupun pemilik kadang-kadang pening kepala apabila untung tidak seberapa, keuntungan sebenar adalah dalam bentuk keberkatan lain.
+**Rafizi Ramli:** Tak adalah pelancaran, kita buka pintu, berniagalah.
 
-Dalam tempoh tiga bulan lepas, kami memulakan KESUM dan FlexiMat. Kami mengambil mereka yang tidak pernah berniaga dan 100% makan gaji seumur hidup. Saya sendiri lalui proses melatih dan mengajar mereka, serta mengambil risiko itu. Esok perniagaan ini akan dibuka. Yang membuatkan saya gembira bukannya soal duit—malah saya risau jika perniagaan tidak menjana keuntungan kerana gaji pekerja perlu dibayar. Namun, dalam tempoh tiga bulan ini, tujuh hingga lapan orang perintis ini sudah mula rasa seronok menguruskan kedai.
+**Speaker 1:** Ya, dan kita akan ada segmen khas untuk itu. Jadi sebelum itu, sebelum ke beria, mungkin saya nak tanya producer kita ada apa-apa ke?
 
-Bagi saya, pahala membuka perniagaan dan menyediakan rezeki seperti ini kadang-kadang lebih besar daripada menjadi menteri. Melalui beberapa syarikat yang saya usahakan sepanjang 10 tahun lalu, lebih 300 pekerja telah berkhidmat. Ada anak-anak muda yang pada mulanya datang naik motosikal selepas tamat universiti, kini mampu membeli kereta, memiliki rumah, berkahwin, dan berkeluarga. Apabila perniagaan diuruskan dengan baik dan pemiliknya tidak zalim, perniagaan itu menjadi punca rezeki yang besar untuk anak-anak muda.
+**Speaker 2:** Tak ada. Kita boleh bermula.
 
-**Host:** *Very inspirational*, YB. Jika YB mahu bandingkan KESUM dengan kedai lain untuk memberi gambaran, adakah ia satu konsep baharu atau sudah ada model yang serupa?
+**Speaker 1:** Baik tuan. Jadi kita mulakan dengan...
 
-**Rafizi Ramli:** Tidaklah, kita tidak perlu *reinvent the wheel*. Kita lihat kepada *consumer behavior* semasa dan objektif sosial yang ingin dicapai.
+**Rafizi Ramli:** Dia setiap minggu masa nak start tu semua orang berdebar-debar, apa pulalah moderator nak menyimpang minggu ni, kan?
 
-Objektif sosial pertama adalah untuk memberi peluang kepada lebih ramai orang biasa memiliki perniagaan. Halangan (*hurdle rate*) untuk membuka premis peruncitan sekarang terlalu tinggi. Melalui sistem francais sedia ada, seseorang memerlukan sekurang-kurangnya RM500,000 dan risikonya ditanggung sepenuhnya oleh peniaga. Anak muda berusia 25 atau 26 tahun yang baharu tamat universiti mana ada RM500,000. Menerusi perusahaan sosial (*social enterprise*), kita mahu menurunkan *hurdle rate* ini kepada sekitar RM150,000 untuk membuka satu outlet peruncitan.
+**Speaker 1:** Okey saya dah tak nak menyimpang lagi. Kita ke beriamat terus, okey? Yang pertama kita ada hobi jadi durian runtuh, koleksi kad Pokemon nilai berjuta.
 
-Objektif sosial kedua adalah untuk menyediakan peluang pekerjaan. Bukan sahaja untuk anak muda, malah untuk suri rumah dan warga emas atau pesara. Kami mereka bentuk susunan kerja dan SOP supaya warga emas boleh bekerja mengikut syif pendek, contohnya 4 jam sewaktu *peak hours*. Satu outlet memerlukan empat hingga enam pekerja tetap dan sekitar enam pekerja sambilan. Sewaktu saya belajar di universiti dahulu, kerja sambilan 3 jam sehari adalah perkara biasa.
+**Rafizi Ramli:** Hmm.
 
-Objektif sosial ketiga adalah untuk menghentikan normalisasi kenaikan harga makanan siap. Naratif masyarakat sekarang menganggap harga makanan di gerai tepi jalan pun wajar bermula pada RM8 untuk nasi dan ayam, manakala di restoran berharga RM10 hingga RM12 atas alasan sewa dan kos lain meningkat. Kita mahu hentikan normalisasi ini. Bagi mereka yang berpendapatan RM2,000 hingga RM3,000 sebulan, kita tawarkan pilihan makanan bawah RM5—sekitar RM4 hingga RM5—yang kenyang, sedap, dan murah.
+**Speaker 1:** YB pernah dengar?
 
-Apabila ada tawaran perkhidmatan pada harga yang berpatutan di pasaran, ia mewujudkan kuasa pasaran (*market forces*). Apabila lebih banyak kedai menawarkan harga yang lebih murah, peniaga yang menjual pada harga mahal perlu berfikir semula. Sebelum ini di Malaysia, kita jarang bercakap tentang *market forces*. Dahulu orang mengecam saya apabila saya kata jika sesebuah kedai menjual pada harga tidak berpatutan, kita jangan beli. Namun, itu adalah logik perniagaan. Contohnya, saya tidak pernah membeli kopi di ZUS Coffee atau Starbucks kerana bagi saya, kopi segera RM3 sudah mencukupi. Kita perlu memanfaatkan kuasa pengguna dan kuasa pasaran.
+**Rafizi Ramli:** Saya ada baca. Ada orang beli kan. Dia jual berapa? 1.87 juta. Dia tak beritahu berapa modal dia.
+
+**Speaker 1:** Dia ada bagi saya. Saya dah check. YB rasa berapa? Teka jelah.
+
+**Rafizi Ramli:** Tak tahu, 100 ribu mungkin? 
+
+**Speaker 1:** No. Tak. Margin dia senipis saya punya. 
+
+**Rafizi Ramli:** So what, 1.5 juta? 
+
+**Speaker 1:** Ya, 1.5 juta. Senipis saya punya rambut.
+
+**Rafizi Ramli:** Dan yalah, dia very fortunate.
+
+**Speaker 1:** Lama mana dia kumpul tu?
+
+**Rafizi Ramli:** Dalam rasa dekat setahun jugalah, tapi dia kena cross all over the country untuk dapat tu. 
+
+**Speaker 1:** So 1.5 juta tu campur dengan dia punya travelling expenses kut. 
+
+**Rafizi Ramli:** Kitalah, adalah juga margin, nasib baik ada orang beli. Tapi sekali beli aje dapat 1.8, dia bukannya banyak-banyak.
+
+**Speaker 1:** Yalah betullah, nasib baik. I mean, itu pun yang selalu dibuat oleh collectorlah kan. Dia kumpul, dia usaha dia untuk kumpul semua. Jadi orang lain tu bila dia beli, dia beli lengkap semua. Saya cuma masalah bila buat collector ni sebab anak saya masa muda-muda dululah. Sekarang ni dia dah kurang minat sikitlah. Dia gila kumpul Lego. Jadi kita orang beli Lego segala jenis Lego, model semua adalah, yang masa tu dia memang minat pasanglah. Cuma ada masalah kalau buat koleksi sebab tak boleh buka. Sebab bila kita nak jual balik tu dia mesti dalam pristine condition. Jadi kecuali memang orang dah memang betul-betul minat awal untuk jual koleksilah. Macam anak saya ada satu lagi, dia kumpul kereta metal case yang kecil-kecil tu kan. Saya ingat kita orang dah ada dekat beribu lah kalau benda tu kan tapi againlah, some tu payah nak cari contohnya metal case kereta Russia. Yang model Russia dekat Russia jelah kan, jadi nak dapat tu punyalah payah masalahnya. Macam anak saya, dia beli lepas tu dia buka, dia main, dia letak dan tak boleh juallah.
+
+**Speaker 1:** Okey baik, baik, baik.
+
+**Rafizi Ramli:** Tapi okeylah, berbalik modal.
+
+**Speaker 1:** Baik, baik. Okey itu yang pertama. Kita tengok yang kedua. Dulu ucap tahniah, Wahyu politik pun boleh U-turn ikut musim. Ini ketua penerangan PAS, Fali Syahri jemput Trump akan jadi penyebab kejatuhan Anwar. YB tahu tak kenapa dia cakap macam ni?
+
+**Rafizi Ramli:** Tak, dia senang ya, dalil politiklah. Sebab awal tu, ini juga masalah dalam politik. Sebab dia doktrin *an enemy of my enemy is my friend and vice versa*. Jadi awal tu saya ingat PAS memainkan retorik bahawa Anwar diketepikan oleh Trump sebab tak mendapat, tak jumpa, tak dapat panggilan telefon semua kan. Jadi oleh sebab Trump dilihat mengenepikan Perdana Menteri Malaysia yang mereka tidak suka, jadi Trump jadi kawan dia, jadi idolalah, itu yang sampai ucap tahniah. Sekarang ni bila tiba-tiba Trump pula jadi baik dengan Dato Sri Anwar, jadi keluar dalil politik yang barulah.
+
+**Speaker 1:** Ah. Tapi yalah dia tahulah YB, dia pernah hantar ucapan kepada Trump dan kemudian dia terus tak dapat jadi kerajaan. Jadi sebab itulah dia kata macam ni. Okey.
+
+**Rafizi Ramli:** Aku tak faham sangat apa yang kau cakap. Aku gelak jelah.
+
+**Speaker 1:** Saya harap yang lain faham.
+
+**Rafizi Ramli:** Harap yang kat luar tu fahamlah.
+
+**Speaker 1:** Okey, yang seterusnya. Pasal Trump juga. Kita ada Papa Gomo. Trump tak jadi datang Malaysia.
+
+**Rafizi Ramli:** Ini bila pula Papa Gomo cakap ni?
+
+**Speaker 1:** Ini memang a few days sebelum datang. Cuma yang mengejutkan YB, saya tak fahamlah psyche sesetengah yang menonton ni sampai 7, 8 ribu di live TikTok lah. Jadi yap. Tapi last-last datanglah.
+
+**Rafizi Ramli:** Saya pun tak faham yang kau orang letakkan Papa Gomo kat sini ni. Dia actually confident dia kata dekat viewer dia, "saya dapat maklumat dari dalam yang Trump tolak datang ke Malaysia."
+
+**Speaker 1:** Siapa percaya Papa Gomo silap-silap hari masuk lokap macam dia dululah. Jadi yalah, itu masalah ada kita macam budaya kita juga macam dulu-dulu kan kita ada orang kata sidang gosip tingkap. Pagi-pagi makcik-makcik semua buka tingkap rumah berjiran. Lepas tu dia bercakaplah, keluar semua cerita. Jadi memang dalam masyarakat kita ada marketlah untuk orang macam Papa Gomo ni. Dia cakap apa pun, mereka disatukan oleh satu perkaralah iaitu kebencian kepada Anwar Ibrahim. Jadi lagi banyak hentam lagi banyak bawa cerita, benar tak benar tu tak penting, yang menunjukkan Anwar tu tak baik. Papa Gomo akan terus ada pengikutlah, yang malang tu pengikut-pengikut dia tulah yang akhirnya jadi bahan content kepada Papa Gomo saja.
+
+**Speaker 1:** Hmm. Baik, baik. Kita tengok ada lagi ke tak. Okey, juara dunia. Seekor kucing betina.
+
+**Rafizi Ramli:** Baik lagi kucing ni daripada Papa Gomo, paling kurang menaikkan nama Malaysia.
+
+**Speaker 1:** Tahniah kepada baby. Dia menang di Romania. Pertunjukan kucing antarabangsa. YB tak nak hantar kucing YB?
+
+**Rafizi Ramli:** Tak boleh sebab ada bla-bla ekor tu. Jadi dia tak boleh pilih kasi ya.
+
+**Speaker 1:** Okey. Baik, baik, baik. Dan mungkin kita tengok kalau ada lagi. Make Malaysia Great Again by Sims Zazin.
+
+**Rafizi Ramli:** Hmm, Ahli Parlimen PKR daripada Bayan Baru. Make Malaysia Great Again. Yang ini bermasalah. Terlalu beria ni kut sebab tahulah Trump datang sebagai presiden US mewakili kerajaan US. Tapi mantra *Make America Great Again* itu mewakili hampir kebanyakan perkara yang kita sebagai masyarakat Malaysia tak bersetuju, apatah lagi sebagai PKR kan, termasuklah dari segi dasarnya yang perkauman, yang bersayap kanan, yang menuding jari kepada semua yang kita pun jadi mangsa sekaranglah dengan banyak perkara kan. Jadi apabila datang daripada seorang ahli parlimen PKR, bila tiba-tiba Trump pula jadi baik dengan Dato Sri Anwar, jadi keluar dalil politik yang barulah.

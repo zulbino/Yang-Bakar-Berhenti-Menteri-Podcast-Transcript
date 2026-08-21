@@ -9,16 +9,21 @@ duration: 2h 32m
 view_count: 68808
 hosts:
 - Rafizi Ramli
-guests: []
+- Speaker 1
+guests:
+- Speaker 2
 topics:
-- Modern Agriculture
-- Entrepreneurship and Social Enterprise
-- KESUM and FlexiMat
-- Affordable Food and Consumer Market Forces
-summary: Rafizi Ramli shares insights on modern agriculture for youth, compares business
-  perspectives among ethnic communities in Malaysia, and details the social objectives
-  behind launching KESUM and FlexiMat to empower everyday entrepreneurs, create flexible
-  job opportunities, and stabilize food prices.
+- Pokemon card collecting
+- Political rhetoric regarding Donald Trump
+- Prime Minister Anwar Ibrahim's foreign relations
+- Misinformation in Malaysian digital media
+- International cat competitions
+- Political identity and values
+summary: In this episode of the Berhentimenteri podcast, Rafizi Ramli and the moderator
+  discuss a variety of current events including the high-value sale of a Pokemon card
+  collection, the changing political rhetoric surrounding Donald Trump's relationship
+  with Prime Minister Anwar Ibrahim, the spread of misinformation by political commentators,
+  and the performance of a Malaysian cat in an international competition.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -26,30 +31,90 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** If they can earn RM3,000 to RM4,000 a month, young people will definitely feel it is better to become farmers than to work in Kuala Lumpur. Regarding modern agriculture, what is the difference between setting up a modern agriculture site versus opening a factory? If you open a factory, the minimum wage is RM2,000. But a modern agriculture site operating like a factory can pay over RM3,000. If this can be developed quickly, we can shift the interest of young people to work here. The problem is that developing these sites isn't seen as "sexy." However, we must remain focused. Otherwise, as YB Hassan Karim said, we will be in trouble when there is no one left who wants to farm.
+**Speaker 1:** Assalamualaikum. Greetings to the Flexismat and the *kesom* (enthusiasts/listeners) of the 20th episode of the Berhentimenteri podcast. We’ve reached episode 20. So, YB (Honourable Minister), you look healthy, so I don't need to ask.
 
-**Host:** Alright YB, congratulations YB Hassan. That was the last question for this segment. We can move straight to the next segment, "Hidup Keras." Before we touch on the issue of tariffs and Donald Trump's visit to Malaysia, let's first look at FlexiMat and KESUM. This morning you mentioned to us that you *very much enjoy the process*—in fact, even more than being a minister.
+**Rafizi Ramli:** You look healthy, but I’m shocked—what kind of greeting is that? Do you think this is [a greeting for]... you-know-what?
 
-**Rafizi Ramli:** That's true. I don't know about others, but I really enjoy doing business. It's not so much about pursuing wealth, because doing business doesn't necessarily make you rich. This is a somewhat sensitive topic.
+**Speaker 1:** Okay, I retract that, but honestly, I just wanted to promote. Bad promotion.
 
-What is the difference in perspective between some Malays and Chinese in business? Everyone wants to earn money—no, no, I mean, everyone wants to make money. However, there is a difference in business perspective. We were raised in a Malay and Bumiputera environment that views working a salaried job and becoming a manager as the pinnacle of a career. Graduating from university, earning a salary, becoming a bank manager or an officer—that is the benchmark of success. On the other hand, Malays who go into business are often seen as just wanting to get rich.
+**Rafizi Ramli:** There are other ways that might be more gentlemanly to promote.
 
-But ask ordinary Chinese business owners—not the big taukes or tycoons, because if you're a tycoon, Malay or Chinese, it's the same. Ask the owners of grocery stores or hardware stores inherited from their fathers or grandfathers. To them, doing business is a career and a daily source of livelihood. Through that business, they provide job opportunities for their children, family members, and friends. Not all of their children have the opportunity to pursue higher education to enter the civil service, so they work in the business.
+**Speaker 1:** Right, right. So before we begin the episode and other excitement, I should perhaps highlight early on that tomorrow morning at 10 AM, we have the launch of Fleximart in Shah Alam.
 
-My perspective on business is not about becoming rich either. If I wanted to be rich, it would be better for me to cut deals (*kowtim*) on projects, act as an "Ali Baba," or kiss hands to become a board member at companies paying RM30,000 to RM40,000 a month without having to work hard. However, building a business from the ground up has its own unique blessings. Even if the owner isn't rich, the business pays salaries of RM3,000, RM4,000, or RM5,000 a month to young people. Even though the owner sometimes gets headaches when profits are minimal, the real gain comes in the form of other blessings.
+**Rafizi Ramli:** It’s not a launch; we’re just opening the doors to do business.
 
-In the past three months, we started KESUM and FlexiMat. We recruited people who had never done business before and were 100% salaried workers all their lives. I personally went through the process of training and teaching them, as well as taking on that risk. Tomorrow, this business will open. What makes me happy isn't about the money—in fact, I worry if the business doesn't make a profit because workers' salaries have to be paid. However, during these three months, these seven to eight pioneers have already begun to enjoy managing the store.
+**Speaker 1:** Yes, and we will have a special segment for that. So before that, before we get too eager, let me ask our producer if there’s anything else?
 
-To me, the spiritual reward of starting a business and providing livelihoods like this is sometimes greater than being a minister. Through several companies I've run over the past 10 years, more than 300 employees have served. There are young people who initially arrived riding motorcycles after graduating from university, and now they can afford to buy cars, own homes, get married, and start families. When a business is managed well and the owner isn't oppressive, that business becomes a major source of livelihood for young people.
+**Speaker 2:** Nothing. We can start.
 
-**Host:** Very inspirational, YB. If you were to compare KESUM with other stores to give us a picture, is it a new concept or is there already a similar model?
+**Speaker 1:** Very well, sir. So let us start with...
 
-**Rafizi Ramli:** No, we don't need to reinvent the wheel. We look at current consumer behavior and the social objectives we want to achieve.
+**Rafizi Ramli:** Every week when we're about to start, everyone is nervous, wondering what the moderator is going to digress into this week, right?
 
-The first social objective is to give more ordinary people the opportunity to own a business. The hurdle rate to open a retail outlet right now is too high. Through existing franchise systems, someone needs at least RM500,000, and the risk is borne entirely by the entrepreneur. Where would a 25- or 26-year-old youth fresh out of university get RM500,000? Through a social enterprise model, we want to lower this hurdle rate to around RM150,000 to open a retail outlet.
+**Speaker 1:** Okay, I won't digress anymore. Let’s get straight to the headlines, okay? First, we have a hobby that turned into a windfall: a collection of Pokémon cards worth millions.
 
-The second social objective is to provide employment opportunities—not just for young people, but also for homemakers and senior citizens or retirees. We designed the work schedule and SOPs so that senior citizens can work short shifts, for example, 4 hours during peak hours. One outlet requires four to six permanent staff and about six part-time workers. When I was studying at university, working a part-time job 3 hours a day was normal.
+**Rafizi Ramli:** Hmm.
 
-The third social objective is to stop normalizing price increases for prepared food. The current societal narrative considers it normal for food prices at roadside stalls to start at RM8 for rice and chicken, while at restaurants it costs RM10 to RM12 on the grounds of rising rent and other costs. We want to stop this normalization. For those earning RM2,000 to RM3,000 a month, we offer food options under RM5—around RM4 to RM5—that are filling, delicious, and affordable.
+**Speaker 1:** Have you heard, YB?
 
-When there are services offered at reasonable prices in the market, it creates market forces. When more shops offer cheaper prices, traders who sell at expensive prices will have to reconsider. Previously in Malaysia, we rarely talked about market forces. People used to criticize me when I said that if a shop sells at an unreasonable price, we shouldn't buy from them. But that is business logic. For example, I have never bought coffee at ZUS Coffee or Starbucks because to me, a RM3 instant coffee is enough. We need to leverage consumer power and market forces.
+**Rafizi Ramli:** I read about it. Someone bought it, right? How much did he sell it for? 1.87 million. He didn’t say what his capital was.
+
+**Speaker 1:** He told me. I already checked. What do you think, YB? Just guess.
+
+**Rafizi Ramli:** I don’t know, maybe 100,000?
+
+**Speaker 1:** No. Not even close. His margin is as thin as mine.
+
+**Rafizi Ramli:** So what, 1.5 million?
+
+**Speaker 1:** Yes, 1.5 million. As thin as my hair.
+
+**Rafizi Ramli:** And well, he is very fortunate.
+
+**Speaker 1:** How long did he collect that?
+
+**Rafizi Ramli:** I feel like it took about a year, but he had to travel all over the country to get them.
+
+**Speaker 1:** So that 1.5 million probably includes his travelling expenses.
+
+**Rafizi Ramli:** Of course, there was some margin there; it’s lucky someone actually bought it. But he only bought it once and got 1.8; it’s not like it happens frequently.
+
+**Speaker 1:** Yes, that’s true, lucky indeed. I mean, that’s what collectors usually do, right? They put in the effort to collect everything. So when someone else buys it, they buy the complete set. My only problem with collecting is—well, my child used to be like that when they were younger. Now they’ve lost interest a bit. They were crazy about collecting Lego. So we bought all kinds of Lego, models, everything; back then they were really interested in assembling them. The only problem with collecting is that you can’t open them. Because when you want to sell them back, they must be in pristine condition. So, unless someone is truly interested in selling their collection from the start... Like my child, they have something else, they collect those small metal-case cars. I think we have thousands of them, but again, some are hard to find, like the Russian metal-case cars. Those Russian models are only in Russia, right? So trying to get them is such a hassle. Like my child, they buy them, then open them, play with them, and put them away—so they can’t be sold.
+
+**Speaker 1:** Okay, fair enough, fair enough.
+
+**Rafizi Ramli:** But that’s fine, back to the capital.
+
+**Speaker 1:** Right, right. Okay, that’s the first one. Let’s look at the second. Once offering congratulations, even political principles can U-turn with the season. This is the PAS Information Chief, Fali Syahri, inviting Trump—claiming it will cause Anwar’s downfall. Do you know why he said this, YB?
+
+**Rafizi Ramli:** No, it’s simple, it’s political justification. Because initially—this is also a problem in politics—they adopt the doctrine that "an enemy of my enemy is my friend, and vice versa." So initially, I remember PAS playing the rhetoric that Anwar was being sidelined by Trump because he didn’t get a phone call, didn't meet, and so on, right? So, because Trump was seen as sidelining the Prime Minister of Malaysia—whom they dislike—Trump became their friend, their idol; that’s why they congratulated him. Now, when Trump suddenly becomes friendly with Dato’ Seri Anwar, they come up with new political justifications.
+
+**Speaker 1:** Ah. But well, he knows, YB, he once sent congratulations to Trump and then immediately failed to become the government. So that’s why he said this. Okay.
+
+**Rafizi Ramli:** I don’t really understand what you’re saying. I’ll just laugh.
+
+**Speaker 1:** I hope the others understand.
+
+**Rafizi Ramli:** Hopefully, those out there understand.
+
+**Speaker 1:** Okay, the next one. Also about Trump. We have Papa Gomo. Trump is not coming to Malaysia.
+
+**Rafizi Ramli:** When did Papa Gomo say this?
+
+**Speaker 1:** This was indeed a few days before he arrived. But what surprises me, YB, is that I don't understand the psyche of the viewers, reaching 7, 8 thousand on TikTok Live. So yeah. But in the end, he came.
+
+**Rafizi Ramli:** I don’t even understand why you guys are featuring Papa Gomo here. He was actually confident when he told his viewers, "I got information from the inside that Trump refused to come to Malaysia."
+
+**Speaker 1:** Whoever believes Papa Gomo might end up in a lock-up like he did back then. So yeah, that’s the problem; it’s like our culture, like the old days when we had "window gossip." In the morning, the aunties would all open their windows to talk to neighbours. Then they’d talk, and all sorts of stories would come out. So, in our society, there is indeed a market for people like Papa Gomo. Whatever he says, they are united by one thing: hatred for Anwar Ibrahim. The more he attacks, the more stories he brings—whether true or false doesn't matter, as long as it shows Anwar is "bad." Papa Gomo will always have followers; the unfortunate ones are those followers who eventually just become content for Papa Gomo.
+
+**Speaker 1:** Hmm. Right, right. Let’s see if there’s anything else. Okay, world champion. A female cat.
+
+**Rafizi Ramli:** This cat is better than Papa Gomo; at least it brought glory to Malaysia.
+
+**Speaker 1:** Congratulations to Baby. It won in Romania. An international cat show. Don't you want to send your cat, YB?
+
+**Rafizi Ramli:** I can't, because of that... thing with the tail. So it can't be spayed or neutered.
+
+**Speaker 1:** Okay. Right, right, right. And let’s see if there is any more. "Make Malaysia Great Again" by Sims Zazin.
+
+**Rafizi Ramli:** Hmm, the PKR Member of Parliament for Bayan Baru. "Make Malaysia Great Again." This is problematic. This is probably trying too hard, because we know Trump is coming as the President of the US, representing the US government. But the mantra "Make America Great Again" represents almost everything that we as Malaysians do not agree with, let alone as PKR, right? Including its policies—which are racist, right-wing, and point fingers at everyone—which we are now victims of in many ways, right? So, when it comes from a PKR Member of Parliament, and when Trump suddenly becomes friendly with Dato’ Seri Anwar, new political justifications appear.
