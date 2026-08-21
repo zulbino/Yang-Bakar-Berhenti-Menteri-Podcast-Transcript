@@ -9,15 +9,20 @@ duration: 2h 27m
 view_count: 81493
 hosts:
 - Rafizi Ramli
-guests: []
+guests:
+- Speaker 1
+- Speaker 2
 topics:
-- Sultan Pemurah and social media cash giveaways
-- Abang Grab Hero clearing clogged drains
-- Cheplos and his social media behavior
-summary: In episode 26 of 'Bukan Yang Berhenti Menteri', Rafizi Ramli discusses various
-  viral social media topics, including 'Sultan Pemurah' giving out RM100 to people
-  for waving, an inspiring Grab rider cleaning clogged drains, and past social media
-  posts by online personality Cheplos.
+- Sultan Pemurah and performative charity
+- The ethics of content creation and philanthropy
+- Feudalistic culture in social media trends
+- The role of politicians in digital spaces
+- Analysis of viral social media personalities
+summary: In this episode, Rafizi Ramli and two hosts discuss the trend of content
+  creation involving public displays of wealth and philanthropy, specifically focusing
+  on a viral figure known as 'Sultan Pemurah'. Rafizi critiques the performative nature
+  of such giving and reflects on the ethics of political figures and celebrities using
+  charity for content, while also touching upon other viral social media figures.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -25,80 +30,54 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Welcome to the 26th episode of *Bukan Yang Berhenti Menteri* with Brother Rafizi Ramli. Before we begin, don't forget to follow our social media channels on Facebook, Twitter, Instagram, and YouTube. Word has it, there's an account that has reached one million followers?
+**Speaker 1:** Welcome, Honorable Minister, to the 26th episode with Rafizi Ramli. Before that, please follow our social media on Facebook, Twitter, Instagram, and YouTube. Even though our Facebook account has reached 1 million followers, we must continue to grow our support. I do not want to prolong the talk; there are many issues this week, YB. Let’s move straight to the first segment.
 
-**Rafizi Ramli:** That's the Komando account.
+**Speaker 1:** Bismillah. Okay, the issue of "wave your hand and get RM100." Do you know who this is, YB? I don't know him. People call him "Sultan Pemurah" (The Generous Sultan). This is the first time I’ve encountered this issue, but I don't even know who he is. Only on social media, he is linked as a *cyber trooper*—or did Papa Gomo call him what kind of *cyber trooper*?
 
-**Host:** The Komando account, one million followers on Facebook. We need to gain even more followers together. Without further ado, we have many issues this week, YB. We can go straight to our first segment.
+**Rafizi Ramli:** Tun M’s *cyber trooper*.
 
-**Host:** The first issue: just waving a hand gets you RM100. Before that, YB, do you know this individual?
+**Speaker 1:** Oh, Tun M’s *cyber trooper*. Not Che’gu? Ah, that one, many media outlets showed him giving RM100 every time someone waved their hand. After that, there was someone in the background giving instructions—but do you know this individual, YB?
 
-**Rafizi Ramli:** I don't know him. Isn't he the individual that Papagomo isn't too happy with?
+**Rafizi Ramli:** I don’t really know and I don’t follow it much, but some people say he gives "angpau" (red packets). It has its risks. In Melaka, in Klebang, if you give money like that, people will take it multiple times. So, the person behind him had to tell them, "Wave only once to get RM100."
 
-**Host:** People call him Sultan Pemurah.
+**Speaker 2:** But Azik, what is the ritual behind giving that RM100? Why does he give it? Is he genuinely generous?
 
-**Rafizi Ramli:** I never knew that. This is the first time I've come across him because of this issue, but even then, it's not like I really know him. It's just that on social media I saw cybertroopers. What did Papagomo call those cybertroopers?
+**Speaker 1:** He is well-known as "Sultan Pemurah" because he used to give gifts on people's live streams. He once gave a Lion gift. Do you know how much one such gift costs, YB?
 
-**Host:** Tun M's cybertroopers.
+**Rafizi Ramli:** I don't know.
 
-**Rafizi Ramli:** Oh, Tun M's cybertroopers who were very angry at him. On social media, there are many videos showing him giving RM100 just for waving a hand. Then there was someone behind him reminding people to wave only once.
+**Speaker 1:** More than RM2,000. That’s on TikTok. I hope tonight he gives a Lion gift to your TikTok Live as well.
 
-**Host:** YB, do you know the person behind him?
+**Rafizi Ramli:** Eh, we are broadcasting on TikTok, but it’s not allowed because I am a politician. Politicians are not allowed to receive gifts at all.
 
-**Rafizi Ramli:** I don't know him and didn't really look closely. But it's true, his action is like giving out angpao. The risk when giving money like angpao is that people will take it two or three times. That's why the person behind him reminded them to wave only once to get RM100.
+**Speaker 1:** Not at all? Oh, if so, no point in doing a TikTok Live.
 
-**Co-host:** What's his reason for giving out that RM100? Is it simply because he's a generous person?
+**Rafizi Ramli:** Regarding this matter, I am personally uncomfortable with this method. Firstly, in our culture and Islamic teachings, the right hand should give without the left hand knowing. When it is turned into media content, we don't want to judge people's intentions, but the act of normalizing things like "wave your hand and get RM100" actually fosters feudal elements in our society. Wealthy people who appear out of nowhere and start handing out money—it’s as if they are idolizing money. If it’s for festive occasions like Hari Raya, giving angpau is our culture, but this is different. It would be better if he knew who was truly in need and helped quietly. This looks like it was intentionally done for content.
 
-**Host:** He is indeed famous for being generous. People used to call him Sultan Pemurah because during TikTok live sessions, he would often give big gifts like the lion gift. YB, do you know how much one of those gifts costs? More than RM2,000.
+**Speaker 2:** But YB, this has political connotations because if I’m not mistaken, he is a PKR member.
 
-**Rafizi Ramli:** Oh really? That's on TikTok. I hope tonight he gives a lion gift during my TikTok live stream.
+**Rafizi Ramli:** Maybe it was after my time; I really don't know him.
 
-**Host:** We can't accept gifts.
+**Speaker 2:** If we swapped him with a celebrity like Aisah Khalid who often gives contributions, would that also be considered "trying too hard"?
 
-**Rafizi Ramli:** Because this is political content?
+**Rafizi Ramli:** That is a matter of personal opinion. The public might like it, regarding it as a blessing or good fortune. Some might consider it an inspiration to do good, but to me, it is done the wrong way. I still hold to the basic principle I mentioned earlier; if you want to give, let the left hand not know. When it becomes a culture where the wealthy must descend and give, we are actually idolizing money. If artists do it for content, maybe it’s a different story, but this is the age of content. Everything is for the sake of content.
 
-**Host:** Yes, political accounts cannot accept any gifts.
+**Speaker 2:** Alright. Okay YB, if waving one hand gets you RM100, what if you wave two hands and get RM200? The guy would be jammed! Okay, moving on.
 
-**Rafizi Ramli:** What a waste, missed opportunity. No point doing TikTok then if that's the case.
+**Speaker 1:** The Grab Hero. This is a new category, right, YB? This seems like an "antidote" to the previous content. People rarely see individuals like this who are sincerely helping. He has no connection to that clogged drain; he doesn’t even know where his motorcycle is, but he was willing to stop to help. Because usually, a clogged drain is just surface-level trash. If everyone "tried as hard" as this, that would be good. Even if he did this every day, it would be good.
 
-Personally, I'm usually uncomfortable with this way of doing things. In our culture, especially in Islam, there's a principle that when the right hand gives, even the left hand shouldn't know. When it is turned into social media content, we certainly can't read people's intentions. But making a culture out of "wave your hand and get RM100" fosters feudalism in our society. Meaning, the wealthy people at the top—whose source of wealth we don't even know—are encouraged as a norm to give openly like this. 
+**Speaker 2:** Good, YB. Let’s look at the next one, but don't continue yet, YB. Bismillah.
 
-For me, if it's a festive occasion like Hari Raya where we give angpao to children to cheer up the atmosphere, that has a cultural perspective. But generally speaking, it is better if someone identifies people who are genuinely struggling and goes to help them quietly. Except in this case, it's more about creating content.
+**Speaker 1:** What is this story? Eh, but he is praising you, YB?
 
-**Co-host:** This issue has political connotations because if I'm not mistaken, he was once a PKR member.
+**Rafizi Ramli:** That was back then. That was in the past. Oh, he’s a "fan boy." Someone tagged me. What is his problem? People don't know the background; he says he recites my name like a mantra every hour of every day. I’m afraid that even when he passes away, he’ll still be reciting my name. That incident was in 2019. It’s not easy to get a photo together with the family. A great figure, but he misspelled the word "macho." But supposedly, he’s the "macho-est."
 
-**Rafizi Ramli:** Really? Maybe after my time. I don't know him.
+**Rafizi Ramli:** Actually, characters like this come and go. I think he intentionally created the content. But, forgive me, this is because there are political connotations since he is a PKR member.
 
-**Co-host:** If we compare him to celebrities like Aisar Khaled who frequently give money to the public, would that also be considered overly eager, or what?
+**Speaker 2:** Maybe it was after my time?
 
-**Rafizi Ramli:** That's up to each person's view. Maybe the public likes it, viewing it as coming into unexpected good fortune or starting off on the right foot.
+**Rafizi Ramli:** Perhaps. After my time, I don't know him.
 
-**Host:** Some view it as an inspiration for others to do good deeds, even if in a somewhat inappropriate way.
+**Speaker 2:** If we swapped him with a celebrity like Aisah Khalid who often gives money, would that also be considered "trying too hard," or was I going to ask that?
 
-**Rafizi Ramli:** I hold to the basic principle: when giving, if the right hand gives, the left hand shouldn't know. Everyone has their own reasons, but if it becomes a culture where rich people have to come down just to be glorified for their money, we are as if worshipping wealth. But it's up to individual perspectives. For artists, maybe it's good for content creation. 
-
-For me, if waving one hand gets RM100, how much do you get for waving two hands?
-
-**Host:** You get RM200. Gotcha, bro!
-
-**Host:** Next, "Abang Grab Hero". This is a new category, YB.
-
-**Rafizi Ramli:** This is an antidote to other issues. The antidote to last week's "Cukup Jumlah" episode.
-
-**Host:** It's rare for us to see such actions.
-
-**Rafizi Ramli:** We rarely witness something like this because it has no direct connection to him. We don't even know where he parked his motorcycle, yet he went to help clear the clogged drain. A clogged drain is usually caused by just a small amount of rubbish at the top. If everyone was so eagerly hardworking like this, it would be great. Being overly eager like this is fine—doing it every day would be great too.
-
-**Host:** Next YB, don't be shocked. Bismillah.
-
-**Rafizi Ramli:** A picture of Cheplos! But he used to praise me, right?
-
-**Host:** That was back in the day.
-
-**Rafizi Ramli:** Oh, back when he was a fanboy. Someone tagged me in this picture.
-
-**Host:** What is wrong with his mindset?
-
-**Rafizi Ramli:** People don't know his background. He once said that he performs *wirid* every day and every hour mentioning my name. I bet even before he passes away, he'll still be reciting my name! This picture is from 2019. His caption read: *"It's not easy to get a picture with the family of a great figure... but the most macho."* 
-
-Actually, characters like this come and go. There's always a reason for it. It's just that for me, regarding his overly eager actions... I don't really understand. Whether to say I don't understand or otherwise, I myself don't really know.
+**Rafizi Ramli:** That is a matter of personal opinion. The public might like it, regarding it as a blessing or good fortune. Some might consider it an inspiration to do good, but to me, it is done the wrong way. I still hold to the basic principle I mentioned earlier; if you want to give, let the left hand not know. When it becomes a culture where the wealthy must descend and give, we are actually idolizing money. If artists do it for content, maybe it’s a different story, but this is the age of content. Everything is for the sake of content.
