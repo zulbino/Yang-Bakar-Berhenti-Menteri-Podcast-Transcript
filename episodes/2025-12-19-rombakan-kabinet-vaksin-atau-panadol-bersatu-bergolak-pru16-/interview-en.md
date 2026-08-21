@@ -11,25 +11,20 @@ view_count: 102912
 hosts:
 - Rafizi Ramli
 guests:
-- Farhan
-- Zaid
+- YB
 topics:
-- Rembayung Restaurant & Entrepreneurship
-- Support Letters Perception
-- Influencer Invitations in Schools
-- Malaysian Cabinet Reshuffle Analysis
-- Political Idealism vs Pragmatism
-- Belvinder Kaur's Academic Achievement
-- Social Security for Creative Industry Freelancers
-- Legal Reforms for Petty Theft Cases
-summary: In episode 27 of Podcast Yang Menteri-Menteri, Rafizi Ramli together with
-  co-hosts Farhan and Zaid discusses current Malaysian issues, including early social
-  media reviews of Khairul Aming's Rembayung restaurant and youth entrepreneurship,
-  public perceptions of support letters, and schools inviting influencers. They delve
-  into a detailed analysis of the recent Cabinet reshuffle, succession planning, and
-  political pragmatism versus idealism, followed by highlighting student Belvinder
-  Kaur's academic achievements, social security protection for creative freelancers,
-  and legal reforms regarding petty theft punishments.
+- Cabinet reshuffle
+- Rembayung restaurant business operations
+- Entrepreneurship and youth inspiration
+- Bumiputera success model reform
+- Mobilization of capital
+- Viral marketing and sustainable business
+summary: In the 27th episode of his podcast, Rafizi Ramli discusses current affairs,
+  focusing on the entrepreneurial success of Khairul Aming's restaurant, Rembayung.
+  The discussion explores themes of business sustainability, the importance of shifting
+  the 'success model' for the Bumiputera community beyond traditional middle-class
+  salary employment, and the necessity of cultivating real entrepreneurship rather
+  than celebrity culture.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -37,114 +32,178 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Farhan:** Assalamualaikum and welcome once again to the Minister-Ministers Podcast, episode 27. As usual, I am joined by brother Rafizi Ramli.
+**Rafizi Ramli:** Assalamualaikum and welcome. Once again, it is the 27th episode of the "Yang Berhormat Minister" podcast. As usual, I am with you, Rafizi Ramli.
 
-**Rafizi Ramli:** Why did you say "saudara" twice? We're on episode 27 and you're still stuttering?
+**YB:** Why did you say "saudara-saudara" (brothers and sisters) twice just now? Are you stuttering?
 
-**Farhan:** My apologies, YB. But that isn't important. This week, the biggest issue is obviously the Cabinet reshuffle. Before we get into the main topic, as usual we'll start off with the "Ber-Iya" segment to look at what's trending this week.
+**Rafizi Ramli:** Haa, okay. Expectations.
 
-**Farhan:** First up, the issue of Khairul Aming's restaurant, Rembayung. It hasn't even opened yet, but it has already received reviews on social media. Someone gave it a "not tasty" review, even though the premise will only open next year.
+**YB:** You’re on the 27th episode and you’re still stuttering?
 
-**Rafizi Ramli:** Khairul Aming gets the last laugh. The people who eagerly went out of their way to write reviews before the restaurant even opened ultimately became laughingstocks. However, the go-to-market strategy for Rembayung is extremely effective because in today's world, virality and media value are everything. Congratulations to Khairul Aming.
+**Rafizi Ramli:** Sorry, YB. But YB, that’s not important. What’s more important, I think, is that the biggest issue this week relates to the cabinet reshuffle. I’ll change the topic. But before that...
 
-**Zaid:** There's another review regarding the issue of limited parking space in Kampung Baru.
+**YB:** You’re good at dodging, aren't you?
 
-**Rafizi Ramli:** That is probably why he ensured a pre-booking system was implemented to avoid walk-ins. When operating a restaurant with a 240-seat capacity, business risks such as inventory control, raw materials, and parking logistics multiply compared to a small restaurant. Khairul Aming seems to have taken all these factors into account. The main challenge now is whether this initial virality can sustain in the long run, which depends on the product's value proposition and pricing quality.
+**Rafizi Ramli:** Before that, as usual, YB, we go to the first segment. Let’s try to summarize it a bit in the "Beria" segment. Let's see what we have this week.
 
-**Zaid:** Recalling our previous conversation about young entrepreneurs, do you feel he should be made an idol?
+**YB:** Beria.
 
-**Rafizi Ramli:** I feel our society doesn't need more idols, but rather more doers. Inspiration is good, but what we fundamentally need is for more young people to choose the business path. 
+**Rafizi Ramli:** The first one: It hasn’t even opened yet and it’s already being reviewed.
 
-Back when I was at the Ministry of Economy, when we revamped Yayasan Peneraju and Teraju, our main focus was changing the success model. For the Bumiputera community, the model of success is still trapped in the mold of the 1970s and 80s aimed at producing a salaried middle class. Capital is not widely mobilized. The young Malay middle class still queues up wanting to work at large corporate companies like Petronas, Maybank, or CelcomDigi—unlike in innovative countries where young people dare to start their own businesses.
+**YB:** Is it not tasty, YB? It hasn’t even opened yet? Not tasty?
 
-**Farhan:** Is government assistance necessary?
+**Rafizi Ramli:** Who said "not tasty"?
 
-**Rafizi Ramli:** Not everything requires government aid, just as Khairul Aming himself demonstrated.
+**YB:** Down there at the bottom.
 
-**Zaid:** But there's a dispute on social media over whether he received aid or started the business entirely with his own capital.
+**Rafizi Ramli:** Not tasty. It opens in front of you, YB. Oh well. Khairul Aming is the one who gets the last laugh.
 
-**Rafizi Ramli:** He has business partners. The main challenge for entrepreneurs in Malaysia and among Bumiputeras is access to capital. In the United States or China, if a young person has a good idea and works hard, startup capital can easily be obtained through casual discussions with investors. In Malaysia, the process of raising capital requires thick, complex contracts. Investors here usually want someone to prove their success first before they are willing to grant trust and capital.
+**YB:** Hm, hm, hm. Because people are so eager ("beria-ia") to go and review all this, right?
 
-**Farhan:** Alright, that wraps up the Rembayung issue after eight minutes. Next up, YB, the issue regarding Kamil Othman's response about the viral support letter.
+**Rafizi Ramli:** Yes, it becomes a point of obsession. You know, it hasn't even opened yet and people are already reviewing it. But it fits perfectly into Rembayung's go-to-market strategy, I suppose. Because nowadays it's all about going viral. It's all about media value.
 
-**Rafizi Ramli:** I'm not sure who his communications strategy advisor is. When Utusan Malaysia published a two-page interview, that was clearly a communication strategy to clarify the situation. However, the issue of support letters is not a topic that can win public perception. No matter how much it is explained that proper processes were followed, the public will still view it negatively. 
+**Rafizi Ramli:** Hm. So, Khairul Aming is clever.
 
-Ordinary citizens who participate in tenders understand that a support letter is seen as an express lane. If we are queuing at a supermarket and someone cuts the line, naturally people get angry. The same thing happens in a tender process. No matter how great the explanation given is, it's hard to change the fundamental perception of the public.
+**YB:** Congratulations. Beria, YB.
 
-**Farhan:** The next issue in this segment: "Influencer barred from officiating school event: Education vs Popularity."
+**Rafizi Ramli:** Oh, wait. I have one more. You see, one more review that people always give, and it became a topic of conversation when he announced that he was opening Rembayung. It’s parking—is it parking? It’s huge, because for those who just found out, it’s quite top-notch.
 
-**Zaid:** Actually, the ones being overly eager here are the school authorities who invited the influencer.
+**YB:** Yeah. Top-spec.
 
-**Rafizi Ramli:** Perhaps the school faced difficulties securing financial donations, even if it was just RM500, and thus took the approach of inviting an influencer. However, this is something society needs to reflect upon. Is a person's standing in society measured solely by wealth and money? Wealth is temporary; knowledge is permanent.
+**Rafizi Ramli:** Yeah. Maybe that’s why he has to ensure pre-booking. So, no walk-ins. I think there’s a—don’t walk in. Yes, when you operate a restaurant that has a seating capacity of, what, 240, right? Meaning, all the risks that are common to much smaller restaurants, those risks will be amplified by 10 or 20 times. So, one risk is parking; another is wastage. Because if you get the walk-ins wrong—if there are few people one day and many the next—it’s quite challenging to manage inventory and raw materials. So, I think so far it looks like Khairul Aming has taken a lot of things into account.
 
-Schools should be places that foster a love and culture of knowledge from a young age. Children's success models should not be based solely on material wealth, as this has long-term consequences on societal values.
+**Rafizi Ramli:** Ah, but when people are this obsessive, there are a lot of good sides. But there are also risks, because of whether the interest remains past the initial viral phase, whether you can sustain it. So, at the end of the day, it's all about the product. It’s actually the total value offering of the product. And whether the pricing is right or not. But I think for the first few months, people will walk from KICC just to go there because it has become part of our culture. They want to go and experience it, like they want to take pictures.
 
-**Farhan:** But there's a view arguing that success doesn't necessarily come from formal educational institutions, as seen with certain global entrepreneurs or innovators.
+**Rafizi Ramli:** Hahaha. Right?
 
-**Rafizi Ramli:** It's true that many successful people in the world lack high formal academic qualifications, such as James Dyson or Jack Ma. Success also requires self-discipline and honesty. However, we cannot equate those industrial figures with social media influencers. If society does not cultivate the pursuit of knowledge as a core foundation, that civilization will not endure for long. The fundamental role of schools in nurturing a culture of knowledge cannot be erased.
+**YB:** That took a long time when you said it would be brief.
 
-**Farhan:** Alright, YB. Moving on to this week's main topic regarding the Cabinet reshuffle. Does this reshuffle act as a "vaccine" that cures the illness in preparation for the election, or is it merely a "panadol" to temporarily dull the pain?
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I remembered our conversation about young entrepreneurs. Do you think he is someone who can be considered an idol? Or...
 
-**Rafizi Ramli:** We need to understand the context of this Cabinet reshuffle. This was not a mid-term reshuffle specifically planned to boost overall government performance—after all, we have already passed 60% of this Parliamentary term. This was a forced reshuffle triggered by vacancies after Tengku Zafrul was no longer a minister, followed by my resignation and Nik Nazmi's. So the Prime Minister, Datuk Seri Anwar Ibrahim, used these vacancies as an opportunity to reorganize the Cabinet.
+**Rafizi Ramli:** I don’t think he wants to be an idol. And in fact, sometimes, what we need more in society is fewer idols and more people who actually do it. And it’s good in the sense that people can get inspiration. But if that inspiration is just, "Ooo, I’m your fan," what we need is actually more and more people, especially the younger ones, who choose the path of entrepreneurship. And I think that is what we have been preaching for a long time.
 
-Regarding reaction from netizens, any reshuffle is bound to invite diverse opinions. However, if we look at it from the perspective of ordinary, non-partisan voters, their main focus over the past few months has actually been on one specific portfolio: the Ministry of Education and Fadhlina Sidek's position. When this reshuffle did not touch the Ministry of Education at all, the general public perception became that the Cabinet reshuffle brought no major changes. The Prime Minister missed an opportunity to show the people that he listens to their feedback.
+**Rafizi Ramli:** Like back at the Ministry of Economy, when we restructured Yayasan Peneraju and Teraju, one of the focuses was to change the "success model." Especially for the Bumiputera. That success model was still stuck in the 70s or 80s success model for producing a middle class. So, we have many Bumiputera in the middle class, but they are middle-class wage earners.
 
-Another widespread issue among ordinary voters is the lineup in the Federal Territories Ministry portfolio, which is now being manipulated through a racial lens by the opposition because both the minister and deputy minister are non-Malay.
+**Rafizi Ramli:** So, the capital is not mobilized and usually it is very inward-looking. Meaning, the Malay middle class can eat at Rembayung, and pay whatever price. But in terms of how to grow and mobilize that capital, it’s still circling among just a few people.
 
-Meanwhile, portfolio swaps such as Steven Sim moving to KUSKOP and Ramanan's appointment to KESUMA were mostly discussed by PH and PKR supporters themselves, rather than catching the main attention of general voters. This decision sends a message to die-hard PH supporters that their views on social media do not affect the Prime Minister's political considerations. Consequently, it could erode the respect of fence-sitters and PH's core supporters in the long run if not addressed properly.
+**Rafizi Ramli:** It depends on whether the pricing is right or not. But I think for the first few months, people will walk from KICC just to go there because it has become part of our culture. People want to experience it and take photos. 
 
-**Zaid:** What about the position of parties like MCA and MIC, which are seen by some as the losers in this reshuffle?
+**Rafizi Ramli:** Right? 
 
-**Rafizi Ramli:** I don't feel MIC lost out because the former MIC Treasurer (Ramanan) was appointed as a full minister, albeit under the PKR ticket. As for MCA and MIC, their demands are more about positioning and bargaining power within Barisan Nasional. According to the agreement forming the Unity Government, the distribution of Cabinet seats is based on the proportion of Parliamentary seats held by each party coalition. Based on that ratio, BN's quota was actually already filled by UMNO. UMNO naturally will not hand over its ministerial seats to MCA or MIC. The Prime Minister can leave this issue to be resolved internally within Barisan Nasional.
+**Rafizi Ramli:** Is, ah, Khairul... 
 
-**Farhan:** Regarding the appointment of many young leaders as ministers and deputy ministers, such as Taufiq at KBS, is this a step by the Prime Minister toward succession planning?
+**YB:** You said this was going to be quick! 
 
-**Rafizi Ramli:** That impression relies on two assumptions: first, that Youth leaders can work faster; second, that Youth leaders can attract the support of young voters. Both assumptions need to be tested over the next 6 to 12 months. Young leadership requires the freedom to challenge the status quo and introduce changes to working methods. If they are inserted into an old bureaucratic system that remains patriarchal and patronizing, it ultimately will not deliver the expected results.
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I just remembered something. 
 
-Regarding the dynamics within PKR, the appointments of colleagues like Akmal Nasrullah Mohd Nasir as Minister of Economy and Syed Ibrahim Syed Noh as Deputy Minister of NRES, along with Mustapha Sakmud, CM Chu, and Yuneswaran, show an effort to balance factions within the party.
+**YB:** Do you have shares in Rembayung? 
 
-As for succession planning, the reality is that the structure at the Federal level is still not organized according to party hierarchy. Amirudin Shari remains in Selangor and Nurul Izzah is not in the Federal government. Therefore, at the Federal level, the administration remains essentially a one-man show under the Prime Minister.
+**Rafizi Ramli:** No, no, I don’t. I just remembered our conversation about young entrepreneurs. Does YB feel that this person is someone who could be made into an idol, or... 
 
-Regarding dropped ministers like Dr. Naim Mokhtar, he is a very fine administrator who does not play a political role. For the religious portfolio, the absence of controversy is actually an administrative success, even if politicians prefer a more aggressive approach. As for Dr. Zaliha Mustafa, she was previously given a substantial amount of space and opportunity throughout her time in the administration.
+**Rafizi Ramli:** I don’t think he wants to be an idol. 
 
-**Zaid:** Is there enough time remaining to see whether this Cabinet reshuffle acts as a "vaccine" or a "panadol"?
+**Rafizi Ramli:** And in fact, sometimes what we need more in society is less of, you know, idols, and more of people who actually do it. It’s good in the sense that people can get inspiration, but if that inspiration is just, "Oh, I’m your fan," that’s not enough. What we actually need is more and more people, especially the younger generation, who choose the path of entrepreneurship. And I think that is what we have been preaching for a long time. When I was at the Ministry of Economy, when we restructured Yayasan Peneraju and Teraju, one of the focuses was to change the "success model," especially for the Bumiputera community. That success model was still stuck in the 70s or 80s, aimed at producing a middle class. So, we have many Bumiputera in the middle class, but they are mostly salary earners. 
 
-**Rafizi Ramli:** The deciding factor isn't just a timeframe of two or three years, but rather the governance style and the government bureaucracy itself.
+**Rafizi Ramli:** Therefore, the capital is not mobilized and it is usually very inward. Meaning, the Malay middle class can eat at Rembayung and pay whatever the price, but in terms of how to grow and mobilize that capital, it’s still circling among a few because it depends on whether the interest remains once the initial viral phase is over—whether you can sustain it. So, at the end of the day, it’s all about the product. It’s actually the total value offering of the product.
 
-First, the government's current image is overly centralized around the Prime Minister (a presidential approach). This strategy by communications advisors carries risks: if the Prime Minister's image is damaged, the entire government's image suffers as well.
+**Rafizi Ramli:** The capital is not mobilized, and usually it is very inward-looking. Meaning, the Malay middle class can eat at Rembayung, paying whatever price. But in terms of how to grow and mobilize that capital, it is still circling among a few, because it depends on whether the interest remains past the initial viral phase, whether you can sustain it. So at the end of the day, it's all about the product. It's actually the total value offering of the product.
 
-Second, our civil service bureaucracy is generally very risk-averse, adopting a "cover your back" mentality. Any new policy proposal must go through numerous committees and layers, taking months. Without continuous political drive and firm resolve from ministers to push against bureaucratic hurdles, real change is difficult to achieve.
+**Rafizi Ramli:** Whether the pricing is right or not, right? But I think for the first few months, people will walk from KICC just to go there because it has become part of our culture. They want to go and experience it, like wanting to take photos.
 
-**Farhan:** What about the debate between idealism and pragmatism in the current political scenario?
+**Rafizi Ramli:** Hahaha. Right?
 
-**Rafizi Ramli:** Some political commentators frequently judge success based solely on a minister's rank and position. However, public perception has shifted. People no longer view politicians or ministers as dignitaries; instead, they see them as agents paid to serve.
+**Rafizi Ramli:** Is, ah, Khairul...
 
-Die-hard party supporters are usually willing to accept pragmatism—that is, compromise or shifting stances in order to stay in power. However, fence-sitters demand idealism, consistency, and honesty.
+**YB:** That took a long time, you said it would be brief.
 
-If the Unity Government becomes overly pragmatic to the point of sacrificing the idealistic values of reform, fence-sitters will feel that "all political parties are just the same." This is extremely dangerous for the future of progressive, multiracial politics in Malaysia. If fence-sitters become disillusioned, racial and right-wing politics will return to dominate. Idealism is the single most essential element in distinguishing our political brand in the eyes of the public.
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I remembered back.
 
-**Farhan:** That concludes our discussion on the main topic. Let's move on to the next segment, the "Fuyoo" segment.
+**YB:** Do you have shares in Rembayung?
 
-**Zaid:** This week we want to highlight the achievement of Belvinder Kaur, a biomedical engineering student at Queen Mary University of London (QMUL) who won the "Junior Nobel" Award (The Undergraduate Awards) two consecutive times. The awards were won through her research on bio-reabsorbable stents and the development of an AI model to detect glioma in CT scans.
+**Rafizi Ramli:** No, no, I don't. I remembered back to our conversation about young entrepreneurs, right? Do you feel that he is one who could be made into an idol? Or...
 
-**Rafizi Ramli:** This is a truly remarkable and proud achievement. However, regarding suggestions to invite her back to serve in Malaysia immediately, we must be rational. The R&D ecosystem and biomedical engineering industry in Malaysia are not yet mature enough to accommodate high-level expertise like this. It is better for her to gain experience and make an impact internationally first before returning to contribute to the country in the future.
+**Rafizi Ramli:** I don’t think he wants to be an idol. 
 
-**Farhan:** Alright, moving into the final segment, "Banyak Tanya", to answer questions from listeners.
+**Rafizi Ramli:** And in fact, sometimes what we need more in society is less of, you know, idols, and more of people who actually do it. And it’s good in the sense that people can get inspiration. But if that inspiration is just, "Ooo, I'm your fan." Like what we need is actually more and more people, especially the young ones, who choose the path of entrepreneurship. And I think that is indeed what we have been preaching for a long time. Like back at the Ministry of Economy, when we restructured Yayasan Peneraju and Teraju, one of the focuses was for us to change the success model. Because especially for the Bumiputera, the success model is still stuck to the 70s or 80s success model to produce a middle class. So, we already have many Bumiputera in the middle class, but they are middle-class wage earners.
 
-First question from Cheong Way Gin: *"YB, statistics show many self-employed workers contribute to SOCSO, but the arts sector is still very low. What is a realistic social protection model for musicians, actors, and production crews whose income is irregular?"*
+**Rafizi Ramli:** In fact, sometimes what we need more in society is less of idols and more of people who actually do it. It is good in terms of people getting inspiration, but if that inspiration is just, "Oh, I’m a fan of yours," that isn't enough. What we need is more and more people, especially the younger generation, to choose the path of entrepreneurship. That is something I have been preaching for a long time. When I was at the Ministry of Economy, one of the main focuses when we restructured Yayasan Peneraju and Teraju was to change the "success model," especially for the Bumiputera community. The current success model is still stuck in the 70s or 80s, which is aimed at creating a middle class. We have many middle-class Bumiputera now, but they are mostly wage earners.
 
-**Rafizi Ramli:** The main problem isn't with SOCSO's social protection model, because a self-employed scheme is already available. The root cause of this issue is the freelance, irregular, and low-income nature of work in the arts sector. 
+**Rafizi Ramli:** The capital is not mobilized and usually remains very inward-looking. Meaning, the Malay middle class can afford to eat at Rembayung and pay whatever the price is. However, in terms of how to grow and mobilize that capital, it still revolves around a few people. It depends on whether that interest persists after the initial viral phase and whether you can sustain it. At the end of the day, it is all about the product. It is the total value offering of the product.
 
-The actual solution requires a collective bargaining mechanism through strong labor unions like in Hollywood, rather than mere welfare associations. This is a task that the Ministry of Human Resources (KESUMA) needs to consider to protect the welfare of creative industry players and freelancers.
+**Rafizi Ramli:** It comes down to whether the pricing is right or not. But I think for the first few months, people will even walk from KICC just to go there because it has become our culture. They want to experience it and take pictures.
 
-**Farhan:** Second question from Nandini: *"YB, when ordinary people are jailed and fined for stealing items worth less than RM100 due to hardship, many compare it with multi-million ringgit corruption cases. From the perspective of justice system reform, what should be revamped?"*
+**Rafizi Ramli:** Hahaha. Right?
 
-**Rafizi Ramli:** First, the Penal Code needs to be reviewed, particularly in terms of monetary thresholds and minimum sentences, so that it keeps pace with current inflation. The value of RM100 today is vastly different from when the law was drafted decades ago.
+**Rafizi Ramli:** Is, uh, Khairul...
 
-Second, we need to expand the use of community service orders and good behavior bonds for petty offences like petty theft or shoplifting driven by financial hardship, rather than immediately imposing prison sentences.
+**YB:** You said it would be brief!
 
-Our legal system does indeed have provisions for good behavior bonds (as was once applied to me in the OSA case), but it requires clear policy and political direction from the Public Prosecution Department and the Ministry of Home Affairs. This is crucial so that minor cases are handled on humanitarian grounds and through community service, rather than being treated like serious crimes or grand corruption.
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I just remembered.
 
-**Farhan:** Very clear explanation, YB. That is all for this episode. Thank you, YB. Next week we will still broadcast as usual, even though it's a public holiday.
+**YB:** Do you have shares in Rembayung?
 
-**Rafizi Ramli:** Thank you, everyone. Enjoy the holiday and see you next week.
+**Rafizi Ramli:** No, no, I don't. I just remembered our conversation about young entrepreneurs. Do you feel he is someone who can be considered an idol, or...
+
+**Rafizi Ramli:** I don’t think he wants to be an idol.
+
+**Rafizi Ramli:** I was thinking back about our conversation regarding young entrepreneurs. Do you think he is someone who could be considered an idol, or...?
+
+**Rafizi Ramli:** I don’t think he wants to be an idol. 
+
+**Rafizi Ramli:** In fact, sometimes what we need more in society is fewer idols and more people who actually do it. It’s good if people can draw inspiration, but if that inspiration only goes as far as “I’m your fan,” that’s not enough. What we need is more and more people, especially the younger generation, choosing to go into business. I believe that is what we have been preaching for a long time. When I was at the Ministry of Economy, when we restructured Yayasan Peneraju and Teraju, one of our key focuses was to change the “success model,” especially for the Bumiputera community. That success model was still stuck in the 70s or 80s, aimed at creating a middle class. So, we have many middle-class Bumiputera, but it is a middle class that mostly relies on a salary.
+
+**Rafizi Ramli:** As a result, the capital is not mobilized and it is usually very inward-looking. Meaning, the Malay middle class can afford to eat at a place like Rembayung, regardless of the price. But in terms of how to grow and mobilize that capital, it’s still circulating among just a few people. It depends on whether the interest remains after the initial viral phase—whether you can sustain it. At the end of the day, it’s all about the product. It’s actually the total value offering of the product.
+
+**Rafizi Ramli:** It comes down to whether the pricing is right. But I think in the first few months, even people walking from KICC would go there because it’s become part of our culture. They want to go and get a feel for it, or just to take pictures.
+
+**Rafizi Ramli:** [Laughs] Right?
+
+**Rafizi Ramli:** Is, uh, Khairul...
+
+**YB:** You said this would only take a moment!
+
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I just remembered...
+
+**YB:** Do you have shares in Rembayung?
+
+**Rafizi Ramli:** No, no, no, I don't. I was just thinking back about our conversation regarding young entrepreneurs. Do you think he is someone who could be considered an idol, or...?
+
+**Rafizi Ramli:** I don’t think he wants to be an idol. 
+
+**Rafizi Ramli:** In fact, sometimes what we need more in society is fewer idols and more people who actually do it. It’s good if people can draw inspiration, but if that inspiration only goes as far as “I’m your fan,” that’s not enough. What we need is more and more people, especially the younger generation, choosing to go into business. I believe that is what we have been preaching for a long time. When I was at the Ministry of Economy, when we restructured Yayasan Peneraju and Teraju, one of our key focuses was to change the “success model,” especially for the Bumiputera community. That success model was still stuck in the 70s or 80s, aimed at creating a middle class. So, we have many middle-class Bumiputera, but it is a middle class that mostly relies on a salary.
+
+**Rafizi Ramli:** As a result, the capital is not mobilized and it is usually very inward-looking. Meaning, the Malay middle class can afford to eat at a place like Rembayung, regardless of the price. But in terms of how to grow and mobilize that capital, it’s still circulating among just a few people. It depends on whether the interest remains after the initial viral phase—whether you can sustain it. At the end of the day, it’s all about the product. It’s actually the total value offering of the product.
+
+**Rafizi Ramli:** It comes down to whether the pricing is right. But I think in the first few months, even people walking from KICC would go there because it’s become part of our culture. They want to go and get a feel for it, or just to take pictures.
+
+**Rafizi Ramli:** [Laughs] Right?
+
+**Rafizi Ramli:** Is Khairul...
+
+**YB:** That took a long time, you said it would just be a moment.
+
+**Rafizi Ramli:** Sorry, one more thing, because I remembered back our conversation about young entrepreneurs, right? Do you feel that he is one who could be made into an idol or...
+
+**YB:** Do you have shares in Rembayung?
+
+**Rafizi Ramli:** No. I remembered back our conversation about young entrepreneurs, right? Do you feel that he is one who could be made into an idol?
+
+**Rafizi Ramli:** I don’t think he wants to be an idol. And in fact, sometimes what we need more in society is less of you know, idols, more of people who actually do it. And it becomes good in the sense that people can get inspiration. But if that inspiration is just "Ooo, I'm your fan." Like what we need is actually more and more people, especially the young ones who choose the path of business. And I think that is indeed what we have been preaching [emphasizing] for a long time. Like at the Ministry of Economy before, when we restructured Yayasan Peneraju, Teraju, one of the focuses was for us to change the success model. Because especially for the Bumiputera, the success model is still stuck to the 70s to 80s success model to produce a middle class. So, we already have many Bumiputera in the middle class, but they are middle-class wage earners.
+
+**Rafizi Ramli:** So, the capital is not mobilized and usually it is very inward-looking. Meaning, the Malay middle class can eat at Rembayung, paying whatever price. But in terms of how to grow and mobilize that capital, it is still circling among a few because it depends on whether the interest remains past the initial viral phase, whether you can sustain it. So at the end of the day, it's all about the product. It's actually the total value offering of the product.
+
+**Rafizi Ramli:** And whether the pricing is right or not, right? But I think for the first few months, people will walk from KICC just to go there because it has become our culture, right? They want to go and experience it, like wanting to take pictures.
+
+**Rafizi Ramli:** Hahaha. Right?
+
+**Rafizi Ramli:** And whether the pricing is right or not, right? But I think for the first few months people will walk from KICC just to go there because it has become our culture, right? They want to go and experience it like wanting to take pictures. Hahaha. Right? Is, ah, Khairul...
+
+**YB:** That took a long time, you said it would be brief.
+
+**Rafizi Ramli:** Sorry, sorry, sorry. One more thing, because I remembered back ah.
+
+**YB:** Do you have shares in Rembayung?
+
+**Rafizi Ramli:** No, no, no. I remembered back ah our conversation about young entrepreneurs, right? Do you feel that he is one who could be made into an idol? Or... I don’t think he wants to be an idol. And in fact, sometimes, what we need more in society is less of you know, idols, more of people who actually do it. And it becomes good in the sense that people can get inspiration. But if that inspiration is just, "Ooo, I'm your fan." Like what we need is actually more and more people who, especially the young ones, who choose the path of business. And I think that is indeed what we have been preaching for a long time.
+
+**Rafizi Ramli:** Like at the Ministry of Economy before, when we restructured Yayasan Peneraju, Teraju, one of the focuses was for us to change the success model. Because especially for the Bumiputera, the success model is still stuck to the 70 to 80 era success model to produce a middle class. So, we already have many Bumiputera in the middle class. But they are middle-class wage earners. So, the capital is not mobilized and usually is very inward-looking. Meaning, the Malay middle class can eat at Rembayung, paying whatever price. But in terms of how to grow and mobilize that capital, it is still circling among a few because it depends on whether the interest remains past the initial viral phase, whether you can sustain it. So at the end of the day, it's all about the product. It's actually the total value offering of the product.
