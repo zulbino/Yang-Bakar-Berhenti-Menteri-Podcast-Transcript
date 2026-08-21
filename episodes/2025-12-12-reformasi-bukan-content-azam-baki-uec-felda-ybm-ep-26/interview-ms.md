@@ -11,72 +11,44 @@ hosts:
 - Rafizi Ramli
 guests:
 - Speaker 1
-- Speaker 2
 topics:
-- Sultan Pemurah and performative charity
-- The ethics of content creation and philanthropy
-- Feudalistic culture in social media trends
-- The role of politicians in digital spaces
-- Analysis of viral social media personalities
-summary: In this episode, Rafizi Ramli and two hosts discuss the trend of content
-  creation involving public displays of wealth and philanthropy, specifically focusing
-  on a viral figure known as 'Sultan Pemurah'. Rafizi critiques the performative nature
-  of such giving and reflects on the ethics of political figures and celebrities using
-  charity for content, while also touching upon other viral social media figures.
+- Cash distribution culture on social media
+- Feudal mindset in charity
+- Political influence in online content
+- Public service and proactive citizenship
+- Obsessive social media personalities
+summary: In this episode, Rafizi Ramli and the host discuss various social media phenomena,
+  including the controversial practice of influencers handing out money for content,
+  comparing it to cultural charity practices. They also discuss positive viral acts
+  of public service and address persistent social media personalities targeting Rafizi.
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
 # Interview (Bahasa Melayu)
 
-**Speaker 1:** Selamat datang, Yang Berhormat Menteri, ke episod ke-26 bersama saudara Rafizi Ramli. Sebelum itu, sila ikuti media sosial kami di Facebook, Twitter, Instagram, dan YouTube. Walaupun akaun Facebook sudah mencecah 1 juta pengikut, kita perlu terus menambah sokongan. Saya tidak mahu memanjangkan bicara, ada banyak isu minggu ini, YB. Kita terus kepada segmen pertama.
+**Speaker 1:** Kita berada di episod 26 bersama Rafizi Ramli. Sebelum kita bermula, sila ikuti akaun media sosial kami di Facebook, Twitter, IG, dan YouTube. Kita telah mencapai 1 juta pengikut di Facebook—satu pencapaian yang signifikan. Saya tidak akan melengahkan masa kerana kita mempunyai banyak isu untuk dibincangkan minggu ini. Mari kita teruskan. Episod 26, segmen pertama. Bismillah.
 
-**Speaker 1:** Bismillah. Okey, isu "lambai tangan dapat RM100". YB kenal ke dia ni? Saya tak kenal. Orang panggil dia "Sultan Pemurah". Ini kali pertama saya terserempak dengan isu ini, tapi saya tak kenal pun siapa dia. Cuma dalam media sosial, dia dikaitkan sebagai *cyber trooper*—atau adakah Papa Gomo panggil dia *cyber trooper* apa ya?
+**Speaker 1:** Jadi, kita telah mendengar tentang insiden "lambai tangan dapat RM100". Adakah anda tahu siapa individu ini? Adakah ini orang yang tidak disenangi oleh Papa Gomo? Orang memanggilnya "Sultan Pemurah". Ini kali pertama saya terserempak dengan beliau. Beliau nampaknya dikaitkan dengan apa yang Papa Gomo panggil sebagai "CyberTrooper Tun M". Bukan Chegu Bard, tetapi seseorang yang membuatkan orang ramai agak marah. Pihak media sedang menyoroti bagaimana beliau hanya menghulurkan wang RM100 untuk sesiapa yang melambai. Adakah anda mengenalinya?
 
-**Rafizi Ramli:** *Cyber trooper* Tun M.
+**Speaker 2:** Tidak juga. Saya ada melihat beberapa perkara di media sosial, tetapi saya tidak mengikutinya dengan rapat. Nampaknya beliau seperti sedang memberi "ampau".
 
-**Speaker 1:** Oh, *cyber trooper* Tun M. Bukan Che’gu? Ah, yang itu, banyak media paparkan dia bagi RM100 setiap kali orang lambai tangan. Lepas itu, ada orang di belakang yang bagi arahan—tapi YB kenal ke individu ini?
+**Speaker 1:** Ia berisiko, bukan? Ini berlaku di Klebang, Melaka. Ada risiko apabila anda mengedarkan wang seperti itu kerana orang ramai akan cuba mengambilnya dua atau tiga kali. Itulah sebabnya anda dengar orang di latar belakang berkata, "Lambai sekali sahaja, dapat RM100." Namun, apakah tujuannya? Adakah beliau memang secara semula jadinya pemurah? Ada yang mengatakan beliau dipanggil "Sultan Pemurah" kerana beliau sering memberi hadiah semasa sesi TikTok Live. Adakah anda tahu berapa harga hadiah "Lion"?
 
-**Rafizi Ramli:** Saya tidak begitu tahu dan tidak mengikuti sangat, tapi ada orang cakap dia bagi "angpau". Ia ada risikonya. Di Melaka, di Klebang, kalau bagi wang seperti itu, orang akan ambil berkali-kali. Jadi, orang di belakang itu terpaksa beritahu "lambai sekali sahaja dapat RM100".
+**Speaker 2:** Harganya melebihi 2,000.
 
-**Speaker 2:** Tapi Azik, apa upacara di sebalik pemberian RM100 itu? Kenapa dia bagi? Adakah dia memang pemurah?
+**Speaker 1:** Betul, begitulah caranya di TikTok. Baiklah, mungkin malam ini beliau akan berikan kita Lion, Ibi? Oh tunggu, kita tidak boleh menerima hadiah kerana kita adalah ahli politik.
 
-**Speaker 1:** Dia memang dikenali sebagai "Sultan Pemurah" sebab dulu dia selalu bagi *gift* di *live* orang. Dia pernah bagi *gift* Lion. YB tahu tak harga satu *gift* itu berapa?
+**Speaker 2:** Walau bagaimanapun, saya secara amnya kurang selesa dengan pendekatan ini. Dalam budaya kita, terutamanya dalam Islam, diajarkan bahawa apabila tangan kanan memberi, tangan kiri tidak sepatutnya tahu. Selain itu, walaupun kita tidak harus menghakimi niat seseorang, trend "lambai dapat RM100" ini mempromosikan mentaliti feudal dalam masyarakat. Ia mengukuhkan idea tentang individu kaya di peringkat atasan—yang mungkin orang ramai tidak kenali atau fahami—memberi wang kepada orang ramai. Saya berasa tidak selesa apabila ini menjadi budaya, walaupun pada musim perayaan seperti Raya. Jika seseorang benar-benar mahu membantu, lebih baik cari mereka yang benar-benar memerlukan dan bantu secara senyap. Saya mengesyaki ini hanyalah untuk kandungan yang "beria-ia".
 
-**Rafizi Ramli:** Tak tahu.
+**Speaker 1:** Tetapi beliau mempunyai konotasi politik. Saya percaya beliau adalah ahli PKR.
 
-**Speaker 1:** Lebih RM2,000. Itu di TikTok. Harap malam ini dia bagi *gift* Lion kepada *TikTok Live* YB pula.
+**Speaker 2:** Itu mungkin selepas zaman saya; saya tidak mengenalinya. Jika kita bandingkan ini dengan selebriti seperti Aishah Khalid yang juga kerap mengedarkan wang—adakah itu juga dianggap "beria"? Saya akan katakan itu soal perspektif. Orang ramai mungkin menghargainya sebagai satu bentuk rezeki, tetapi saya berpegang pada prinsip bahawa amal jariah haruslah dilakukan secara rahsia. Apabila ia menjadi budaya di mana golongan kaya berasa mereka perlu melakukan perbuatan ini untuk dilihat, kita akhirnya memuja wang. Ia mungkin berkesan untuk kandungan, tetapi ia tetap pada dasarnya tentang "era kandungan".
 
-**Rafizi Ramli:** Eh, kita sedang bersiaran di TikTok, tapi tidak boleh sebab saya seorang ahli politik. Ahli politik tidak boleh menerima *gift* langsung.
+**Speaker 1:** Jika lambai sebelah tangan dapat RM100, apa yang berlaku jika lambai dua tangan? RM200?
 
-**Speaker 1:** Tidak boleh langsung? Alah, kalau begitu tidak payah buat *TikTok Live* lah.
+**Speaker 1:** Seterusnya, kita ada "Abang Grab Hero". Ini kategori baharu, Ibi—penawar kepada isu minggu lepas. Kita jarang melihat perkara ini; beliau membersihkan longkang yang tersumbat, yang tiada kaitan dengan dirinya sendiri. Beliau tidak peduli pun di mana motosikalnya, tetapi baguslah beliau membantu. Selalunya, sumbatan ini hanya disebabkan oleh sedikit sampah di permukaan. Jika semua orang proaktif seperti ini, alangkah baiknya. "Beria" yang sebegini sangat bagus.
 
-**Rafizi Ramli:** Mengenai perkara ini, saya secara peribadinya kurang selesa dengan cara begini. Pertamanya, dalam budaya kita dan ajaran Islam, tangan yang memberi itu biarlah tangan kanan yang memberi, tangan kiri tidak tahu. Apabila ia dijadikan konten media, kita tidak mahu membaca niat orang, tapi tindakan membudayakan perkara seperti "lambai tangan dapat RM100" ini sebenarnya memupuk unsur feudal dalam masyarakat kita. Orang kaya yang entah dari mana tiba-tiba turun dan memberi wang, ia seolah-olah mendewakan wang. Kalau majlis perayaan seperti Hari Raya, pemberian angpau itu budaya kita, tapi ini berbeza. Adalah lebih baik jika dia tahu siapa yang benar-benar susah dan tolong secara senyap. Ini kelihatan seperti sengaja dibuat untuk konten.
+**Speaker 1:** Sekarang, Ibi, jangan terkejut. Cap Los adalah yang paling konsisten. Beliau pernah memuji anda, bukan?
 
-**Speaker 2:** Tapi YB, ini ada konotasi politik kerana kalau tidak silap saya, dia adalah ahli PKR.
-
-**Rafizi Ramli:** Mungkin selepas zaman saya kut, saya memang tidak kenal.
-
-**Speaker 2:** Kalau kita tukar dia dengan selebriti seperti Aisah Khalid yang selalu memberi sumbangan, adakah itu dikira "beria" juga?
-
-**Rafizi Ramli:** Itu pandangan masing-masing. Rakyat mungkin suka, ia dianggap rezeki atau langkah kanan. Ada yang menganggapnya inspirasi untuk berbuat baik, tetapi bagi saya, ia dilakukan dengan cara yang salah. Saya tetap berpegang kepada prinsip asas tadi; jika mahu memberi, biarlah tangan kiri tidak tahu. Apabila ia menjadi budaya di mana orang kaya mesti turun dan memberi, kita sebenarnya mendewakan wang. Kalau artis buat untuk konten, mungkin lain ceritanya, tetapi ini adalah zaman konten. Semuanya demi konten.
-
-**Speaker 2:** Baiklah. Okey YB, kalau lambai satu tangan dapat RM100, kalau lambai dua tangan dapat RM200? *Jammed* member! Okey, seterusnya.
-
-**Speaker 1:** Abang Grab Hero. Ini kategori baru pula ya, YB? Ini seolah-olah "antidot" kepada konten yang sebelum ini. Orang jarang nampak individu seperti ini yang ikhlas menolong. Dia tiada kaitan pun dengan longkang tersumbat itu, motor dia pun tidak tahu di mana, tapi dia sudi berhenti untuk tolong. Sebab biasanya, longkang tersumbat itu sebenarnya hanya kerana sedikit sampah di permukaan. Kalau semua orang "beria" seperti ini, baguslah. Tiap-tiap hari dia buat macam ini pun bagus.
-
-**Speaker 2:** Baik, YB. Kita tengok yang seterusnya, tapi YB jangan teruskan dulu. Bismillah.
-
-**Speaker 1:** Cerita apa ini? Eh, tapi dia puji YB?
-
-**Rafizi Ramli:** Dulu. Itu zaman dulu. Oh, *fan boy* lah. Ada orang tag saya. Apa masalah jiwa dia ini? Orang tidak tahu latar belakang, dia kata dia wirid nama saya setiap jam setiap hari. Takut nanti bila dia meninggal pun, dia masih wirid nama saya. Itu kejadian tahun 2019. Bukan senang nak dapat gambar bersama keluarga. Tokoh hebat, tapi salah eja perkataan "macho". Tapi paling macho lah kononnya.
-
-**Rafizi Ramli:** Sebenarnya watak seperti ini datang dan pergi. Saya ingat dia sengaja buat konten. Tapi, maaf, ini kerana ada konotasi politik sebab dia ahli PKR.
-
-**Speaker 2:** Mungkin selepas zaman saya kut?
-
-**Rafizi Ramli:** Mungkinlah. Lepas zaman saya, saya tidak kenal.
-
-**Speaker 2:** Kalau kita tukar dia dengan selebriti seperti Aisah Khalid yang selalu bagi duit, adakah itu dikira "beria" juga atau saya pun nak tanya?
-
-**Rafizi Ramli:** Itu pandangan masing-masing. Rakyat mungkin suka, ia dianggap rezeki atau langkah kanan. Ada yang menganggapnya inspirasi untuk berbuat baik, tetapi bagi saya, ia dilakukan dengan cara yang salah. Saya tetap berpegang kepada prinsip asas tadi; jika mahu memberi, biarlah tangan kiri tidak tahu. Apabila ia menjadi budaya di mana orang kaya mesti turun dan memberi, kita sebenarnya mendewakan wang. Kalau artis buat untuk konten, mungkin lain ceritanya, tetapi ini adalah zaman konten. Semuanya demi konten.
+**Speaker 2:** Itu pada tahun 2019. Seseorang baru-baru ini menandakan saya dalam hantaran ini. Apa yang tidak kena dengan jiwanya? Beliau mendakwa beliau menyebut nama saya dalam "wirid" beliau setiap jam. Saya bimbang beliau akan menyebut nama saya walaupun di saat nazak. Sukar untuk mendapatkan gambar bersama keluarga, tetapi orang ini... sesuatu yang lain. Watak-watak ini datang dan pergi. Saya fikir beliau hanya melakukannya untuk kandungan semata-mata.
