@@ -10,21 +10,31 @@ view_count: 36879
 hosts:
 - Rafizi Ramli
 guests:
-- Speaker 1
+- Haziq
+- Farhan
 topics:
-- PAS and the Israeli flag
-- Ministerial petrol fleet cards
-- Health misinformation and scams
-- Perikatan Nasional leadership turmoil
-- QR code obituary scams
-- Alternative budget credibility
-summary: In this episode of the 'Siang Berhenti Menteri' podcast, Rafizi Ramli and
-  his co-host discuss various viral social media issues, political incidents, and
-  scams. Topics include the irony surrounding PAS members and the Israeli flag, public
-  misconceptions about ministerial petrol cards, the danger of health scams like foot
-  detoxing, political maneuvering within Perikatan Nasional, and the ethics of QR
-  code scams on obituaries. The conversation concludes with a discussion on the opposition's
-  alternative budget presented during the Parliamentary budget debate.
+- PAS Israeli flag controversy
+- PM Anwar's petrol payment comments
+- Toxic foot soak scams
+- PN Alternative Budget and RM6000 annual aid
+- Office of Budget Responsibility (UK)
+- Earthquake preparedness and Segamat gas pipelines
+- PKR Wangsa Maju branch allegations
+- School violence and discipline methods
+- National Education Council (Majlis Pendidikan Negara)
+- Ikatan Prihatin Rakyat (IPR) formation
+- Internal crisis in Bersatu (Wan Saiful and Wan Faisal)
+- Nobel Prize in Chemistry and Metal-Organic Frameworks
+- RON95 and RON92 petrol subsidies
+- National defense budget and LCS project
+- ASEAN 2025 and Donald Trump
+summary: In this 18th episode, Rafizi Ramli analyzes recent political controversies,
+  including the internal rift in Perikatan Nasional and Bersatu, the lack of credibility
+  in the opposition's alternative budget, and the Israeli flag incident in Kelantan.
+  He also explores social issues such as the root causes of school violence, the need
+  for a National Education Council, and the economic rationale behind subsidy reforms.
+  Scientific and geopolitical topics are also touched upon, ranging from Nobel-winning
+  chemical frameworks to Malaysia's upcoming role as ASEAN chair.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -32,160 +42,240 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Speaker 1:** Episode 18 of the 'Siang Berhenti Menteri' podcast. For those joining us, please follow and subscribe to the page and the Rafizi Ramli channel on YouTube and other social media. We are also on Spotify for those who prefer to listen to the audio version, YB. Some people don't watch the video; they just listen to your voice and mine.
+**Haziq:** This is episode 18 of the "Yang Berhenti Menteri" podcast. For those who just joined, I’d like to ask you to follow and subscribe to Rafizi Ramli’s page and channel on YouTube and other social media platforms. We also have a podcast on Spotify for those who prefer listening to the audio. Many people listen there without seeing my face or the Minister’s face.
 
-**Rafizi Ramli:** Yes, I have a friend who listens to the podcast on Spotify while jogging. If you guys are slow to upload, he will message me to ask about it.
+**Rafizi Ramli:** Yes, I have a friend who listens to the Spotify podcast while he’s jogging. So, if you guys are late uploading it, he’ll message me to ask about it.
 
-**Speaker 1:** Okay, fair enough, YB. Let’s dive into the various issues from this week. First, how many people have been 'poyo' (arrogant/pretentious) this week? Let’s look at the first one.
+**Haziq:** Alright, Minister. Let’s head straight into the various issues that happened this week. As usual, let’s see how many "poyo" [pretentious] people there were this week.
 
-**Rafizi Ramli:** People are still using the word 'poyo'?
+**Rafizi Ramli:** Do people still use the word "poyo"?
 
-**Speaker 1:** Yes, though perhaps I'm a bit of a 'boomer' for saying it.
+**Haziq:** They do, but maybe it’s a boomer thing.
 
-**Rafizi Ramli:** Hmm.
+**Rafizi Ramli:** What? Boomers use "poyo"? Gen Z doesn’t use "poyo."
 
-**Speaker 1:** What? No. Do 'boomers' use 'poyo'?
+**Haziq:** Gen Z doesn't use it.
 
-**Rafizi Ramli:** Gen-Z wouldn't use it.
+**Rafizi Ramli:** Well, I'm not Gen X, so who exactly is using "poyo"?
 
-**Speaker 1:** Ah.
+**Haziq:** Everyone. Okay, Minister, my apologies. Let’s look at the first item. What do you see?
 
-**Rafizi Ramli:** And definitely not Gen-X. So who actually uses 'poyo'?
+**Rafizi Ramli:** It actually wouldn't have been much of an issue if PAS supporters hadn't been so extreme previously when things involving the Chinese flag or others cropped up. Or if they weren't so extreme whenever there’s a slightly different view on Palestine—the long and short of it is that they act "the most Palestinian of all." So, as the story goes, I think when they were so eager to stage a grand display using the Israeli flag, they were laughed at by the people. That’s why, while waving a Chinese flag in Teluk Intan was considered outrageous, suddenly they’re waving an Israeli flag in Kelantan. It’s very ironic, but it’s true they were trying too hard. There’s only one part I don’t understand: how did they get an Israeli flag? Where did they get it from?
 
-**Speaker 1:** Well, everyone. Anyway, my apologies.
+**Haziq:** You’d have to ask them. Maybe they got it from Thailand or Shopee. Okay, next, Minister. Did you notice this issue?
 
-**Rafizi Ramli:** (Laughs)
+**Rafizi Ramli:** Yes, people forwarded it to me on social media and asked about it via messenger and in the comments. This was when Datuk Seri Anwar said he pays RM2.60 for petrol. Many of those asking me were likely government officials, I think, because ministers don't pay for petrol. All ministers' fuel is paid for by the government.
 
-**Speaker 1:** Let’s look at the first item, YB. What do you see?
+**Haziq:** Is it by claim or do you have a specific card?
 
-**Rafizi Ramli:** It wouldn't really be much of an issue if PAS supporters weren't so extreme whenever something involves the Chinese flag or similar things. Or if they weren't so extreme with their differing views on Palestine. The long and short of it is that they are 'terpaling' (the most) passionate about Palestine. To make a long story short, I think it was ironic that they went to such lengths to stage this dramatic display with the Israeli flag. 
+**Rafizi Ramli:** There is a specific fleet card for ministers. For example, every minister or deputy minister, and even the spouse—though my wife doesn't have one because she doesn't have a driving license—is given a fleet card. So, if you’re a minister, you never actually pump petrol yourself because the driver does it. I’m not sure if the fleet card rate is RM2.60 right now, but the concept of a minister paying for petrol is a bit strange, let alone the Prime Minister. I don’t think Datuk Seri Anwar has the time to drive himself, stop at a petrol station, and pay RM2.60. Most likely, it’s his driver and security detail who handle that. So, what do you want me to rate this?
 
-They ended up being mocked by the public. It’s so ironic—they made such a big fuss about the Chinese flag being flown in Teluk Intan, and then suddenly, they are flying an Israeli flag in Kelantan. The one thing I don't understand is, where did they even get an Israeli flag? Where do you even find one?
+**Haziq:** They're trying too hard. The PM said he pays RM2.60. Maybe it was his children, or maybe he wanted to say the fleet card rate is RM2.60.
 
-**Speaker 1:** Well, you’d have to ask them.
+**Rafizi Ramli:** But the fleet card is paid for by the government, so it’s free. I think those forwarding this actually know that ministers or deputy ministers don't pay for fuel. There isn't even a limit. I never paid for fuel before except during the election campaign. I don’t know if other ministers did the same during campaigns, but I used my own car and didn't use the official vehicle. When you use your own car, you have to pay for it yourself. I don’t think the PM is allowed to use his own car because of security protocols.
 
-**Rafizi Ramli:** They were so committed. Maybe they got it from Thailand? Or maybe Shopee.
+**Haziq:** Understood, Minister. Okay, let’s go to the next issue: soaking feet to remove toxins.
 
-**Speaker 1:** Oh, Shopee sells them?
+**Rafizi Ramli:** Is this the uncle who says soaking your feet removes toxins? Supposedly using electrodes? Claims of electrolysis?
 
-**Rafizi Ramli:** They can be custom-made.
+**Haziq:** He didn't even mention electrolysis. He just straight up said these are toxins, this is cholesterol.
 
-**Speaker 1:** You sound like you’ve bought one before.
+**Rafizi Ramli:** Oh, so if you put your feet in, the cholesterol just comes out?
 
-**Rafizi Ramli:** Not at all. It’s an Israeli flag.
+**Haziq:** Yes, it turns blackish.
 
-**Speaker 1:** Okay, next, YB. Have you noticed?
+**Rafizi Ramli:** If it’s like this, I wouldn’t need to take so much medication for my cholesterol. I’d just go soak my feet. I’m more fascinated by how many customers he has from various races. My advice is if you come across things like this, go see a doctor first. If you don't have time for a doctor, ask ChatGPT. This is dangerous because if cholesterol and toxins could be removed just by soaking your feet with two electric plates like electrolysis, no one in Malaysia would be sick. Dr. Zaliha might as well resign; there’d be no need for a Health Minister. The danger is that someone might get electrocuted. There are many scammers in our country; as long as there are people who believe, there will be a market for these scammers. It’s just like get-rich-quick schemes. In our society, people never stop believing in Ponzi schemes where they think putting in RM500 will get them RM5,000. Your logic tells you it makes no sense, but some still try to take shortcuts. To reduce cholesterol, there are no shortcuts; you have to control your diet and go jogging.
 
-**Rafizi Ramli:** Yes, there are the usual people on social media. Our people are diligent. They forward things and then ask in the comments or on Messenger, "Is it true that Datuk Seri Anwar says he pays RM2.60 for petrol?"
+**Haziq:** That’s the hard part. Okay, Minister. So the conclusion is, this is what Terengganu people call "elektrolesis."
 
-**Speaker 1:** Right.
+**Rafizi Ramli:** First of all, that’s not funny, and second, it’s not right. Just because I mentioned electrolysis, I don't represent the people of Terengganu. Don't just make things up. That’s dangerous; people from Terengganu will get angry as if you're accusing them of being the ones behind this scam. It wasn't someone from Terengganu; they'll get mad at you.
 
-**Rafizi Ramli:** Many have asked me that. I think maybe it’s civil servants asking. Because ministers don't pay for petrol.
+**Haziq:** Fair enough. Next, the risks of being a PM candidate.
 
-**Speaker 1:** Ah.
+**Rafizi Ramli:** I was in the chamber when the Member of Parliament for Marang gave this speech. He said the risk is for safety—fearing kidnapping or sabotage by having gold bars or drugs planted on them. We all know the real reason Perikatan Nasional hasn't named a Prime Minister candidate yet is because PAS does not agree with Tan Sri Muhyiddin Yassin. I believe Datuk Seri Hadi Awang is more interested in having Datuk Seri Hamzah Zainuddin as the PM candidate, and that is also what’s affecting Bersatu, leading to the current internal turmoil. While we can laugh at the excuses given, I think the people can see for themselves that Perikatan Nasional is in disarray. I’m just not sure why Datuk Seri Hadi Awang would give such an excuse. I don't think he realizes that not all Malaysians are like PAS members. If Datuk Seri Hadi Awang gave an excuse about weaver ants, PAS members would believe it wholeheartedly. But the Malaysian public will weigh whether it’s logical or not. If that’s the case, it would be difficult for the people to have to guess who the Prime Minister will be every election just because of a fear of kidnapping or sabotage. We can give him points for "trying too hard" to avoid answering the real issue: that he disagrees with and no longer wants Tan Sri Muhyiddin Yassin as the PM candidate. If he had spoken truthfully and said it was still being discussed within PN, he wouldn't be a laughing stock.
 
-**Rafizi Ramli:** For ministers, all petrol is paid for by the government.
+**Haziq:** Right, Minister. Okay, I have one more, the last one I think: a scammer swapping donation QR codes in an obituary.
 
-**Speaker 1:** Is it via claim or a specific card?
+**Rafizi Ramli:** That person is evil; this is a straight-up crime. These scammers are really going for it; they’ll scam anything. But to scam within such a short window of less than 24 hours shows they are exploiting someone else's tragedy to make money. Our society is usually very generous when things like this happen. I don’t know how many were cheated, but this is the worst kind of scammer. In terms of effort and ideas, you could say they're "trying hard," but if caught, they should be thrown in jail for a long time. The toxin scammer earlier is slightly more noble than someone exploiting a family's grief. Luckily, it was identified early and the public was informed to give aid directly to the family. I’m even scared to use QR codes now.
 
-**Rafizi Ramli:** There is a specific card.
+**Haziq:** Alright, Minister. Can we get a brief rating?
 
-**Speaker 1:** A specific card for ministers?
+**Rafizi Ramli:** The Israel flag issue gets a five. Congratulations! This is the clear winner; there's no need to rate the others. This week's winner is the Israel flag because it was a "direct hit" to PAS’s face. PAS will think twice before commenting on other flags because I’m sure this will be brought up repeatedly.
 
-**Rafizi Ramli:** Yes, every minister or deputy minister is provided with a fleet card. Even their spouses, though mine doesn't have one because she doesn't have a driving license. As a minister, you never pump your own gas because the driver does it. I'm not sure if the fleet card rate is RM2.60 now, but the concept of a minister paying for their own petrol is a bit strange. Especially for the Prime Minister. I don’t think Datuk Seri Anwar has time to drive his own car, stop at a petrol station, and pay RM2.60.
+**Haziq:** Okay. Let’s move on to the Standing Order segment, Minister. This week is more about the debates.
 
-**Speaker 1:** Exactly, his driver and security detail probably handle all of that. So, what are you asking me to rate here? The PM making a big deal about paying RM2.60? Maybe it was a family member of his.
+**Rafizi Ramli:** This week and next week are the budget policy debates, in addition to the usual questions asked in the morning.
 
-**Rafizi Ramli:** Or maybe he just wanted to point out that the fleet card is charged at RM2.60.
+**Haziq:** Right. Okay, let’s look at the first one: The Perikatan Nasional Budget. This is from the Opposition Leader’s speech. What was your first impression when you heard his speech?
 
-**Speaker 1:** But the fleet card is paid for by the government. So it’s free for him.
+**Rafizi Ramli:** I entered the chamber a bit late because I was speaking in the afternoon, while the Opposition Leader spoke in the morning. There are a few things we can dissect for the benefit of the people. First, it means the pressure from the people regarding the opposition’s function to present an alternative budget was finally heard after two years. They tried to show they have an alternative budget. However, I and several other colleagues were among the first group to produce the first opposition alternative budget in Malaysian history. When we say "alternative budget," it’s not just a few announcements read out in a speech. It must be a budget document that shows the fundamentals: total revenue, total expenditure, development expenditure, and the government's debt position. While it doesn't need to be as detailed as a government document, those are the minimum requirements—there must be estimated revenue, expenditure, and debt projections. From there, the people can judge their credibility in managing the economy because everything needs to be costed. For example, the proposal to give the people RM6,000 a year needs to be detailed—is it per household or per individual, and what is the annual liability? Only then can we see the spending compared to the projected income. If projected revenue is only RM350 billion but one program alone costs RM30 billion alongside other commitments like salaries and debt service, the public can see the credibility from there. So, what was announced was just un-costed "candies." In developed countries with more mature democratic systems, they have independent bodies whose job is to cost every political announcement. If the opposition says they will do a certain program, the independent body will calculate it and provide guidance on whether the math is correct. If it isn't, they will state that the actual projection is different. In the UK, there is a body under Parliament called the Office of Budget Responsibility.
 
-**Rafizi Ramli:** I think those who keep forwarding the message actually know that ministers and deputies don't pay for their own petrol—it's covered by the government.
+**Farhan (Producer):** Office of Budget Responsibility.
 
-**Speaker 1:** Is there no limit?
+**Rafizi Ramli:** Yes, the Office of Budget Responsibility. The UK has this body, so politicians cannot simply make reckless announcements. If the Office of Budget Responsibility says the projection is wrong, it embarrasses the party. This builds discipline for political parties when they propose policies. Malaysia doesn't have that yet. Returning to what the Opposition Leader announced, from one perspective, there is slight progress because they finally listened to the netizens who often tagged PN every time there was a budget. They knew that if it was the third consecutive year without details of an alternative budget, they would continue to be trolled. I hope next year we can see the opposition produce a full alternative budget. If they need my help, they can ask, though we’ll have to negotiate a consultant fee. It can't be for free. But the disappointing part is that the content was focused purely on the RM6,000-a-year "candy," while the country's main problem is structural. One is productivity and economic complexity, which doesn't produce the revenue needed to meet the people's expectations because we are stuck in the middle-income trap. A budget should present what will be done to correct that economic structure. The second problem is the massive debt trajectory. If government supporters ask what our proposal is, it means it's true we have a problem. Don't get angry at those who point out the problem; otherwise, it becomes like Najib’s time with 1MDB, where anyone who dared to point out the problem was attacked. Currently, among government supporters, I see reactions when I raise the issue of debt and excessively high debt service charges—it’s as if it shouldn't be touched for fear of losing the election to PAS. On the opposition side, they don't touch the problem at all, acting as if it isn't their concern, even while they promise to give RM6,000, which would certainly worsen the national debt position without structural changes. In the end, it just becomes "big talk" in Parliament. We are a society that only likes to hear good things; we don’t want to hear the unpleasant truths. Only when we get hit do we start groaning. PN's alternative budget didn't touch on that at all. If I were an ordinary citizen who understood the country's financial problems, I’d be scratching my head; everyone is trying to be popular by offering sweet candies, and eventually, the whole country gets diabetes and has to have its legs amputated.
 
-**Rafizi Ramli:** That’s it. I have never paid for petrol myself, except during election campaigns when I used my own car. I’m not sure if other ministers do that. During a campaign, because I use my own vehicle, I have to pay for it myself. I don’t think the PM is allowed to use his own car anyway, given his security protocols.
+**Haziq:** Alright, Minister. If we do the math, even now, the STR for the highest e-Kasih recipients is around RM4,600. When you add in what the Opposition Leader said, it jumps twofold to RM8,200 a year. Is this feasible, and what would be the effect on the country?
 
-**Speaker 1:** Very well, YB. Let’s move to the next one. Soaking your feet to remove toxins. 
+**Rafizi Ramli:** As long as they don't show the details, it’s hard for us to determine the actual cost. If the criteria for these cash contributions don't change, the existing cost to the country is around RM15 billion a year. If it doubles to RM8,000, the total amount should rise to RM30 billion a year. That’s an additional RM15 billion, whereas under Budget 2026, we already have a 3.5 percent deficit and the current surplus (revenue minus operating expenditure) is only about RM5 billion. So it would decrease, meaning we would have a RM10 billion shortfall. If you look at other countries, there are two different models. The Scandinavian model imposes high taxes, up to 30-40 percent; they have no cash aid, but almost everything is free—childcare costs, healthcare, education, and public transport are very cheap. Even though taxes are high, the quality of life is good because basic costs are funded by the government. There are also models in other countries that provide monthly cash aid but government services are not subsidized. In Malaysia, we are in the middle. If we want everything for free but also impose high taxes, the people won't agree. Our economic structure also has issues because 40 percent of workers are in the informal sector and don't pay taxes. If we want to give this much cash aid, we will have an affordability issue because at the same time, blanket subsidies cause the cost of government services to rise without corresponding charges. So, good luck to those competing to become the government.
 
-**Rafizi Ramli:** Oh, this uncle? He’s the one who claimed that soaking your feet draws out toxins.
+**Haziq:** Thank you, Minister, for dissecting their budget. It was only a speech, not a published document. But they had a theme: correcting the structure, boosting the economy, and relieving the people.
 
-**Speaker 1:** Yes, it went viral recently because of this video, even though the concept is old.
+**Rafizi Ramli:** I didn't see the "correcting the structure" part at all. The reports that got widespread coverage were only about that RM6,000 a year.
 
-**Rafizi Ramli:** Because there are electrodes involved. He claims it's electrolysis.
+**Haziq:** You mentioned subsidy targeting and the PM’s new statement, but we’ll comment on that later. Let’s go to the next question. I want to ask, how many questions can an MP actually submit?
 
-**Speaker 1:** He didn't even mention electrolysis; he just straight up said, "This is toxins," and "This is cholesterol."
+**Rafizi Ramli:** They can submit 10 oral questions per session, which have a chance of appearing in the top 10 list for each day. Every day there are dozens of oral questions; not all of them can be answered directly by a minister or deputy minister. Usually, only 10 to 15 questions are answered in the morning—the ones where the ministers are busy reciting poems. Oral questions that are not selected will receive written replies. Additionally, they can send five written questions which will definitely be answered in writing and won't be raised in the chamber. In my case, my oral questions never come up. Usually, the government and the House decide which oral questions get raised.
 
-**Rafizi Ramli:** Oh, so if you soak your feet, the cholesterol just comes out?
+**Haziq:** I’ll read one question from Honorable Zahir Hassan (Wangsa Maju): Ask the Prime Minister to state the plans to increase the level of community preparedness in facing the possibility of earthquake disasters after experiencing eight tremors with magnitudes between 2.5 and 4.1 in Johor, and the enforcement of the use of Eurocode 8 or equivalent standards in designing buildings in Malaysia. What is your review, Minister?
 
-**Speaker 1:** Yes, and so on.
+**Rafizi Ramli:** Honorable Zahir is a certified civil engineer and was a senior leader in the private sector. I noticed only one or two politicians talking about this. We had eight significant tremors in Segamat in the last two months, and Segamat is the main hub for our Peninsular gas system. If a pipe in Putra Heights recently could explode like that, imagine the effect of eight tremors in Segamat on the gas network, yet we aren't discussing it. The community and the government aren't discussing it. I am very pleased and hope Honorable Zahir can pursue this continuously because this is a major issue. Earthquakes are rare in the Peninsula; they usually only happen in Sabah, which is near the "Ring of Fire." But when it hits Segamat eight times, it’s serious. Honorable Zahir is also the chairman of the parliamentary caucus on safety and disasters. The problem is this issue isn't "sexy" for the people or the media, so it doesn't become a main talking point. I hope after this, not just Honorable Zahir, but the entire community, especially in North Johor, pays attention. I’m not sure if Petronas has provided feedback, so perhaps a parliamentary select committee should call the relevant departments and Petronas for a risk assessment. I’m sure Petronas has conducted their own assessments because it’s a huge risk to their assets. Segamat is the heart of the gas pipelines for the whole of Malaysia; the lines from Terengganu connect at Segamat before heading up the West Coast.
 
-**Rafizi Ramli:** (Laughs)
+**Haziq:** Right. Let's look at another question from Besut: Ask the Minister of Home Affairs to state the ministry's rationale for classifying the Prime Minister's alleged receipt of un-audited money from a business figure as merely an audit and party administration issue, and the difference between this case and previous cases where political parties were investigated for similar allegations. Whose case is this, Minister?
 
-**Speaker 1:** If it were that easy, I wouldn't have to take so much medication for my cholesterol. I’d just go soak my feet.
+**Rafizi Ramli:** I don't necessarily like the way the MP for Besut debates, even since the early terms, because he likes to shout, but this question is a "hard hitter." I take the stance of "don't shoot the messenger" even if we might not like his style. The background is a viral video of the PKR Wangsa Maju Branch Chief, who at the time was embroiled in controversy because there was a police report against him regarding the forgery of the branch treasurer's signature for financial statements. The treasurer filed a police report, and it should be a criminal forgery case. Then there was a secretly recorded video claiming the PM received money from a big tycoon, but that money was not audited. Most recently, I was informed that PKR decided to suspend him for one year. We haven't heard of any investigation or legal action. This question is very relevant because the police report about the forged signature is a criminal case of public interest. We want to know the outcome. Furthermore, Datuk Seri Anwar has an image of being the "most anti-corruption," so when his name is mentioned in such an unpleasant context, in other countries, there would certainly be a long investigation. But here, we hear nothing from the authorities, and even PKR's action seems half-hearted. If the Branch Chief's allegations were false, he should have been sacked. When he is only suspended, it looks like posturing. I salute the MP for Besut for asking a "bullseye" question. We shouldn't just want to hear sweet things; if an ulcer isn't treated, it will eventually spread. There are two things that should be clear-cut: the forged signature issue and the accusation of the PM receiving un-audited money. If the accusations are false, take firm action; if they are not false, it’s even more dangerous because the authorities must investigate. Ultimately, PKR might hope this issue just disappears, but the MP for Besut has "picked up" the issue even though it was question number 26, which wasn't raised for an oral answer.
 
-**Rafizi Ramli:** What I find more interesting is how many customers he has. It's sad that people fall for this. My advice is, if you come across these things, consult a doctor first. If you don't have time to see a doctor, ask ChatGPT. But this is dangerous because people should have enough sense to realize that if you could draw cholesterol and toxins out of your body by soaking your feet with two electric plates, nobody in Malaysia would be sick. We wouldn’t need the Minister of Health.
+**Haziq:** Understood, Minister. That’s for the Standing Order segment. We move on to the "Hidup Keras" [Hard Life] segment. There are many "hard" issues this week, especially concerning widespread school violence. In the netizen comments, the most frequently found word is "rotan" [caning]. Other politicians, including Akmal Saleh, are also talking about caning. Is the diagnosis of "caning" correct in terms of correlation or causation regarding this school violence issue?
 
-**Speaker 1:** Everyone would just be soaking their feet.
+**Rafizi Ramli:** I’ve seen various reactions. The initial reaction in Parliament was that we need caning, we need to be firm, and we need to punish. I also saw the reaction of the Prime Minister, Datuk Seri Anwar Ibrahim. His reaction went back to mobile phones or smartphones. That’s what he said. So based on Datuk Seri Anwar's initial feedback, the cabinet will discuss smartphones. There are signs that school children or students might not be allowed to bring smartphones after this. In fact, they aren't allowed to now, but there might be additional regulations.
 
-**Rafizi Ramli:** The real danger is getting electrocuted. But we have many scammers in this country, and the problem is that there’s a market for them. It’s the same with get-rich-quick schemes.
+It might also be related to what the Communications Minister, Fahmi Fadzil, mentioned regarding the announcement that e-KYC will be implemented for social media platforms. I don't want to comment on that in detail yet because I haven't given a reaction for several reasons. One, I am also a father, and I know that raising children now is indeed challenging. It’s not the same as when I was young because we live in a connected world. Today's children can see and compare everything happening all over the world. The amount of information is a thousand times more than when I was growing up.
 
-**Speaker 1:** Our society never learns when it comes to get-rich-quick schemes. Ponzi schemes where people believe that if they invest RM500, they can get RM5,000 back—it makes no sense. But because some people want a shortcut, they fall for it. So, for those who believe in this foot-soaking thing, it means they are looking for shortcuts. There is no shortcut for reducing cholesterol. You have to control your diet and go jogging.
+We need to consider that as the reality. It might be linked to what Datuk Seri Anwar said about mobile phones, but my view is that we cannot go against the tide. The world is connected. So, whatever we do to limit information channels, I don't think it will be effective. That might just be us reacting to manage the symptoms, not the root cause.
 
-**Rafizi Ramli:** That’s the hard part.
+Secondly, I believe everything that has happened recently is a reflection of our society. This is us as a society. That’s why I know some people might think that when cases like this happen, I’d be the first to attack the Education Minister, Fadhlina Sidek, or the Ministry of Education. Attacking the Ministry of Education solely for the sake of it, while it might feel good to vent frustration, might not be the solution because this is a societal issue. Every politician and every teacher is a parent. Before we get to the question of how this happens in schools, it’s most appropriate for every parent to look in the mirror first.
 
-**Speaker 1:** (Laughs) Okay, YB. So, the conclusion is: people in Terengganu call it 'elektrolisis'?
+Because the question we have to ask is how much time do we spend with our children? How much do our own behaviors, attitudes, and lapses actually affect our children without us realizing it? How much do we know about what is happening with them? I feel this is one of the weaknesses I need to improve on from time to time. I feel I don’t spend enough time with my child. However, I am a bit lucky because my wife and I made the decision that she would be the one to sacrifice. My wife resigned to be a full-time housewife because our view was that there needs to be one parent 100 percent present with the child.
 
-**Rafizi Ramli:** Why would you say it's from Terengganu?
+But the problem is, how many are willing to make that sacrifice and shift from a double-income household to a single-income household? We made that joint decision in 2017. It wasn't an easy decision. My wife is as qualified as I am, studied overseas, worked in a bank, has a good degree, but suddenly she has no income and no career. She studied hard since she was little; it’s not easy. And what right do I have as a husband to ask her to sacrifice? But that was a decision we made together. I have the ability to do that, whereas a large portion of families in Malaysia do not.
 
-**Speaker 1:** Just kidding.
+They need both to work. That’s why some parents would prefer their children stay at school until 6:00 PM if possible. That’s dangerous because even if it’s convenient for parents, where is the line when the responsibility of raising a child has shifted to the teacher? On the school’s side, teachers will feel they can't cane or reprimand because if they do even a little too much, parents get angry. So they just ignore it.
 
-**Rafizi Ramli:** You mentioned electrolysis, and I said people in Terengganu call it electrolysis.
+Our problem as a society is that we find it very easy to point fingers at others. Parents easily make generalizations. Our society easily generalizes everything. Teachers generalize like this, parents generalize like that. It’s actually far more complicated. I advise myself not to be quick to react and judge because this issue is more complex than economic issues. It is actually a symbol and a translation of who we are as a society. Our society now is harsher, quicker to judge, accuse, and believe something before it is verified.
 
-**Speaker 1:** That’s not funny, and it’s not true. Just because I mentioned electrolysis doesn't mean I represent the people of Terengganu.
+Look at the case that happened in Bandar Utama, where a victim was stabbed. The parents had to make a media statement asking people to stop spreading false information and to give them space. Our people are very quick to believe and accept things wholesale; the more sensational, the better. Those are adults, and those adults are the parents of these children. If that is the attitude of the family unit and society, it is impossible for us to ask the children to be angels.
 
-**Rafizi Ramli:** (Laughs)
+Then regarding schools, some say we must bring back caning. I’m not sure if simply bringing back caning will solve the problem. I think the cane is a symbol, meaning teachers must be given the freedom to educate. Educating means there must be an element of punishment. What form of punishment? In simple terms, people say the cane. But educating, in my view, is not 100 percent about punishment. Even if there is an element of punishment, it won't necessarily solve the problem because the societal background is different.
 
-**Speaker 1:** You were reaching. It’s dangerous, too. The people of Terengganu might get angry and think you're accusing them of running this scam.
+Our society now is not the same as when we were being caned. Parents back then weren't as critical as they are now; they didn't attack people as much. Their lives were simple—earn a living and look after the kids. Society has changed, so the background is no longer an apples-to-apples comparison. Before, teachers could cane or kick, but the state of society then was different. So the punishment element is only one component, not the 100 percent component. If teachers are allowed to cane, what about the reaction of parents whose attitude is either to hand over the child completely or to refuse to let the child be touched at all?
 
-**Rafizi Ramli:** Not the people of Terengganu.
+If we look at systems in other countries, this problem isn't unique to Malaysia. In Japan, the focus in early schooling is on values and discipline. They are trained to digest certain values, such as cleanliness. Schools in Japan, as I recall, don't have janitors; they clean the schools themselves. They are taught that values of respect, punctuality, and cooperation are more important than the syllabus at the early stages.
 
-**Speaker 1:** Okay, okay, fair enough. Next. There are so many of these. The risk for candidates.
+**Haziq:** But in this education system, we have questions regarding the Prime Minister’s actions.
 
-**Rafizi Ramli:** I was in the Dewan (Parliament) when the Marang MP (Hadi Awang) gave a speech. He claimed the risk for candidates was regarding safety—that they might be kidnapped or sabotaged, or have gold bars or drugs planted on them. We all know the real reason Perikatan Nasional hasn't named a Prime Ministerial candidate is because PAS doesn't agree with Tan Sri Muhyiddin Yassin. And I think Datuk Seri Hadi Awang would prefer Datuk Seri Hamzah Zainuddin to be the candidate. That’s what’s causing the turmoil in Bersatu right now.
+**Rafizi Ramli:** Oh, I see. Okay, so we’ll postpone that to the second part.
 
-While we can laugh at the excuses given, I think the public is capable of judging for themselves that Perikatan Nasional is in disarray, and this will continue to be a problem. I’m not sure if Datuk Seri Hadi Awang realizes that the Malaysian public isn't like the members of PAS. If he tells PAS members that an ant is a dragon, they will believe him. But the Malaysian public will consider the logic—whether it makes sense or what the real reason might be. It’s difficult for the people to be constantly guessing who the Prime Minister will be because they're afraid of being kidnapped or sabotaged.
+**Haziq:** But you said you wanted to touch on e-KYC specifically?
 
-We can give him a rating for how hard he tried to avoid answering the real issue, which is that he no longer wants Tan Sri Muhyiddin Yassin as the candidate. If he had just been transparent—saying it’s still being discussed within the coalition—it wouldn’t be a source of amusement. But instead, it became a perfect segment for this podcast.
+**Rafizi Ramli:** That is a government decision. As long as any decision is made by taking everything into account. This is a cultural and societal problem that needs to be handled holistically. You can't just look at certain components. If e-KYC is implemented and children under 13 can't have social media, what about when they are 14 or 15? The problem with this is we don't yet know the hypothesis or theory and what the supporting data is.
 
-**Speaker 1:** Right, YB. I think that's the last one. Oh wait, there's more. The scammer who changed the QR code on an obituary.
+For example, if the government says the response to these incidents is introducing e-KYC so that children under 13 don't have social media access, it means the hypothesis is that children become violent because of social media. Do we have the data for that? I don't think so. That’s how my brain processes it. If there is data, it needs to be shared so the people are convinced, not simply by the government stating the causation is such. If it’s still at the hypothesis stage, we need more things to support and verify that theory. As of now, we haven't seen it.
 
-**Rafizi Ramli:** That’s evil and criminal. Scammers are so persistent. They’ll try to scam anyone, but doing it in under 24 hours, taking advantage of someone’s tragedy to make money—that is truly evil. And our society is usually very generous, so many want to contribute. I don’t know how many were cheated by this scammer, but this is the worst kind of scam. If they catch this person, they should be thrown in prison for a long time. Compared to the 'toxin' scammer earlier, this one is much worse because it takes advantage of a family's grief. Fortunately, it was identified early and the public was alerted.
+**Haziq:** Right, Minister. Before we move to the next issue, here’s a question from Farhan, our producer. The Deputy Chief of Wanita Keadilan issued a statement saying don't blame the Education Minister for issues like this. What is your brief comment?
 
-**Speaker 1:** If you want to help, give directly to the family. Don't use these QR codes. I’m scared to use QR codes now. Okay, YB. Can we rate these?
+**Rafizi Ramli:** My comments are never brief. Well, it comes with the job. Those things happened in schools. The cases in Melaka and Bandar Utama both happened within school grounds. So indeed, everything that happens within school grounds is the responsibility of the Education Minister and the Ministry of Education. I believe the people are rational enough to distinguish which criticism is appropriate and which is excessive. It isn't the place of a politician to plead for sympathy to avoid being criticized.
 
-**Rafizi Ramli:** Yes.
+Being a minister is like my situation before. The title is Economy Minister, but the Ministry of Economy is actually just a planner and not an implementer. There isn't a single thing that can be implemented by the Ministry of Economy other than planning and providing policy; others have to do it. The price of goods, for example, involves the Ministry of Agriculture, KPDN, MITI, and the Ministry of Finance for fiscal matters. But I can't plead for people not to attack me about price hikes because it supposedly has nothing to do with me. You can't do that. Trust the wisdom of the masses because the people can judge our reactions and follow-up actions. That is more important than playing on emotional sympathy.
 
-**Speaker 1:** The winner this week is definitely the Israeli flag incident—it was a total slap in the face for PAS. 
+**Haziq:** Right, Minister. Let’s talk a bit about politics. The formation of the Ikatan Prihatin Rakyat (IPR) by Tan Sri Muhyiddin Yassin. Does the formation of IPR have an impact on the national political landscape?
 
-**Rafizi Ramli:** PAS will think twice next time before commenting on other flags, as I’m sure this will be brought up repeatedly.
+**Rafizi Ramli:** I’m not sure if he checked before choosing the name IPR? IPR stands for the Inisiatif Pendapatan Rakyat [People’s Income Initiative]. One of its features is the "vending machine" that they always joke about. All this time he’s been mocking IPR, then suddenly he chooses IPR as the name of his party. "The Vending Machine Party." As for that, I’ve slightly lost my mind. Didn't you guys do any due diligence? Usually, like me, before choosing a name, I’d Google it first to see what other names are out there. If it invites cynicism, I wouldn't choose it.
 
-**Speaker 1:** Right. That’s all for our segments today. There were six, quite a lot. Let’s move to the standing order. There isn't much of a government agenda this week, it’s mostly debates.
+It’s very clear that when choosing Ikatan Prihatin Rakyat, Tan Sri Muhyiddin’s advisors didn't do their work. After this, PH-supporting netizens will joke about his IPR repeatedly. If he didn't do deep research even for the name, the rest might be even more "fragile." On the one hand, this is a normal thing done by any opposition. The opposition will say we must gather strength to fight the government. From the perspective of Tan Sri Muhyiddin and PN, the goal is to build a larger coalition to reach support outside the Malay group. That’s why in this IPR, there are parties seen as non-Malay parties, like Urumai (Prof. Ramasamy) and even PSM is there.
 
-**Rafizi Ramli:** This week and next week, we are focused on the Budget debate. 
+But I want to dissect a few things. First, why is there a need for a coalition on top of a coalition? There is already Perikatan Nasional (PN). If you need to expand, just accept other parties into PN. Suddenly you have PN, but above it or beside it, there is something even larger with 11 parties named IPR. It’s a mess because it symbolizes the current state within PN. Most likely, PN is no longer functioning in terms of political consensus.
 
-**Speaker 1:** The policy debate.
+We went through this with PAS during Pakatan Rakyat. After 2013, PAS started making trouble. The early sign that PAS is problematic in an alliance is when the PAS President, Datuk Seri Hadi Awang, rarely attends meetings. We could tell he was no longer comfortable. We are well aware that PAS no longer agrees with Tan Sri Muhyiddin as the Prime Minister candidate. In fact, the Terengganu Menteri Besar, Datuk Samsuri, resigned as the PN Treasurer General. When there is a clash between PAS and Bersatu, and Bersatu itself is split in two, PN becomes scattered. Maybe that’s why Tan Sri Muhyiddin feels there needs to be this IPR coalition.
 
-**Rafizi Ramli:** Yes, the policy debate for the Budget, in addition to the usual questions asked in the morning.
+The problem is, besides PAS and Bersatu, the other parties in IPR do not have significant influence or are untested in elections. Gerakan doesn't win easily, MUDA only won one seat with PH support previously, Putra has never won, and Urumai is untested. If the goal is to widen support among non-Malays or urban groups, I’m not confident it can give a boost to PAS and Bersatu.
 
-**Speaker 1:** Right, YB. Let’s look at the first one. Perikatan Nasional’s Budget.
+That’s not even including how PAS will react. Where will seat negotiations be decided? In PN or in IPR? If decided in IPR and PAS disagrees, what happens? The logical thing would be to expand Perikatan Nasional, but we know that’s hard because PN has cracked. PAS’s record is that when they start feeling strong, they want to interfere in the affairs of partner parties. We went through it in Selangor before when PAS wanted to determine who from PKR should be this or that so they could be the "big brother."
 
-**Rafizi Ramli:** This was from the Opposition Leader's speech, YB. If I may ask, what was your first impression when you heard his speech?
+In any political coalition, when there is a "big brother" concept, there will be problems. UMNO could be the big brother before because they were the backbone of the government since independence, and even they are in disarray now within BN. PAS has never learned. In Bersatu’s current turmoil, it’s clear PAS is siding with Datuk Seri Hamzah Zainuddin because in PAS’s view, Hamzah will "kiss their hand," whereas Muhyiddin won't. That is poison to a political coalition. This IPR is most likely a reaction to the mess inside PN. He wants to escape. It’s not too late for Tan Sri Muhyiddin to change the name of this IPR before more people find out.
 
-**Rafizi Ramli:** I wasn't in the Dewan for that part. I arrived a bit late because I was speaking myself. The Opposition Leader spoke in the morning, around 11:30 or 12:30. I spoke in the afternoon. There were several things we could analyze for the benefit of the people. Firstly, the pressure from the public for the opposition to present an alternative budget—after two years, they finally couldn't play dumb anymore. They tried to show they have an alternative budget.
+**Haziq:** Right, Minister. Let’s go back to the education issue. Regarding the Prime Minister’s statement that there are problems in our education system.
 
-But, and there is a 'but', I and several colleagues were among the first to ever produce an alternative budget in Malaysian history. When we talk about an alternative budget, it isn't just a few announcements read out by the Opposition Leader. It’s a budget document! It must start with basic things: total revenue, total expenditure, development expenditure, and the state of government debt. Even if it doesn't need to be as detailed as a government document, those are the minimum requirements needed to call it an 'alternative budget.' You need revenue projections, expenditure projections, and debt projections. That is what determines the subsequent details, like how the spending will be allocated and the priority list. 
+**Rafizi Ramli:** Even before the case in Bandar Utama, the Prime Minister said there are problems in the education system and there needs to be serious emphasis on aspects of values and morals. I don't think anyone disagrees. The problem is, he is the Prime Minister. The group of voters supporting PH has been dissatisfied since 2023 because they see no reforms or clear framework to improve the education system. Many feel the Education Minister's performance is not good because there is no direction.
 
-Only then can the public judge whether the opposition has the credibility to manage the economy, because everything needs to be costed. For example, if you promise RM6,000 to the people annually, you need to detail it. Is that for households or every individual? Then you can compare that cost against projected revenue. If the projected revenue is RM350 billion, and this proposal alone costs RM30 billion, plus other expenditures like salaries and debt servicing, then the public can assess the credibility. What they announced was just 'gula-gula' (political candy) that wasn't costed. 
+This was discussed internally from the beginning. So when Datuk Seri Anwar says this after three years, it feels awkward because people will ask: "What have you done for the last three years?" I might be considered the "bad boy" because my view in the cabinet is that we cannot leave education policy entirely to the power of the Education Minister and the Ministry of Education alone.
 
-We haven't reached the level of some developed countries. In some countries with more mature democratic systems, they have an independent body that costs every announcement made by politicians. If the government or the opposition makes a proposal, this independent office calculates and provides an opinion on whether the math is correct. If it’s not, they point it out. In the UK, they have the Office for Budget Responsibility, which is under Parliament. We don't have that in Malaysia yet.
+Before RMK-13, there was actually not a single council that allowed other ministries to interfere in education matters. Education issues could only be voiced in the Cabinet if the Education Minister presented a paper. If they didn't bring it up, other ministers couldn't give views. That’s why I proposed the establishment of the National Education Council so that the ministry is accountable to a national council and we can provide views that are not 100 percent controlled by the ministry itself.
+
+Initially, the Ministry of Education rejected it outright. Last February 2024, I met the Prime Minister and insisted on this matter. Finally, it was included in RMK-13. I was informed that the National Education Council has been established and the first meeting has occurred, but we haven't heard anything. We don't know who the members are. This shows we need a more dynamic education minister. The education sector has been opened for baseline calibration, but we haven't heard a thing. So the netizens' reaction is quite cynical; the question is right, but "you are the Prime Minister."
+
+Returning to the issue of values and morals. There are different models. In Japan, the emphasis is on values and discipline in the early stages. In Scandinavia, the priority in the early stages is to cultivate the joy of learning. Both these methods produce world-class students in PISA rankings, far better than Malaysia.
+
+We need to discuss this at length after this, and it cannot just be a government decision. If we want to change the system, that process must happen now. What does "serious emphasis" mean? I’ll give an example that might not be popular: The teaching content related to Islamic education now is much higher than when I was in school. The number of subjects and teachers with an Islamic education background is much higher. Before, there might have been 5-6 religious teachers; now they might make up 30-40 percent of the total teachers.
+
+Meaning, if the approach is only on external things through subject content but doesn't change attitudes, we will be back at square one. It must be based on facts and data. We need program designs for pilot tests before scaling up. It cannot just be the Prime Minister’s rhetoric as a reaction to current events. People want to know: "If that's the case, how are we going to do it?"
+
+I hope the ministry will become more proactive. Right now, people are pointing fingers at the minister because she is very reactive—only answering when something comes up. The people want to see a holistic plan. For example, look at how we tackled the difficult economic narrative before. We talked about subsidy targeting, structural changes, and the energy transition plan in detail. We don't see this from the Ministry of Education.
+
+So when the Prime Minister gives a general statement, the people say: "We only have two years left, what is going to be done?" I hope the Cabinet doesn't "shoot the messenger." What I mentioned is the thought of many Malaysians. The silver lining is that this education issue is being discussed widely. Government supporters might say "we have built many schools," but for the people, that is just the government's job. The people want to see daily problems addressed with big plans translated into small actions.
+
+**Haziq:** Right, Minister. One more issue from the Prime Minister’s speech, verbatim, regarding the blanket subsidy for RON95. He said: "The initial proposal was to raise the price then provide PADU. I said if we don't learn from the electricity experience, that’s not smart. People cannot accept a price increase when wages aren't rising." Could you comment?
+
+**Rafizi Ramli:** I believe this is the Prime Minister and Finance Minister answering unofficially. Many economic stakeholders, including international institutions, have criticized the "Budi 95" approach because it isn't a true re-targeting; it’s actually quite populist. The government has shifted from the original decision to limiting subsidies.
+
+I feel it is inappropriate for the PM to speak this way. When the electricity subsidy retargeting took place, it was the first instance of such retargeting. The one who championed it the most was the Prime Minister himself. He hailed that approach as a good one—so that the "super-rich" pay while the people are protected. At that time, no criticism arose. We received positive views from stakeholders that this administration would do the right thing, rather than being populist. The savings from the electricity subsidy were the highest compared to diesel and petrol.
+
+When the PM suddenly turns around and says "learn from that mistake," it gives the impression that the government has turned populist, whereas what was promoted was reform. I had set a timeline that the RON95 retargeting must happen by June 2024 at the latest, but the Ministry of Finance consistently disagreed. Now that the elections are approaching, populist narratives are starting to emerge.
+
+Analysts will view this as a "flip-flop." It is even more dangerous when Datuk Seri Anwar seemingly suggests that the electricity subsidy retargeting was a mistake. "I would be stupid if I repeated that mistake." If that was a mistake, then the electricity system we have now must be changed because it has become a "mistake." I feel that matter was not thoroughly considered; perhaps he was emotional at the time thinking about me.
+
+Do not mix emotions with policy. If a policy is good, say it is good. If you want to implement Budi 95 because the election is near, just say so. Do not say one thing in public and another behind the scenes. In this day and age, people will comment, and it will breed cynicism. It does not help the economic narrative among those who are knowledgeable.
+
+**Haziq:** That’s heated, YB. Let’s lower the temperature a bit with a statement from Syahir Sulaiman. He said YB follows the speeches of "Tok Guru" which sound good in coffee shops, but not a single one of your formulas has worked. Your comments, YB?
+
+**Rafizi Ramli:** If this were a primary school essay, the marks would be poor because it lacks coherence. There should be an object and a subject in a single sentence. First, he says it sounds good in a coffee shop, then he asks where it was picked up from—what does that have to do with the formula not working? Which is the subject and which is the object? If a language teacher saw this, there would definitely be an issue with the sentence structure.
+
+However, I think he might be lashing out because he wrote that speech himself. Actually, I don’t need to give a long answer because every time the MP for Bachok tries to make a comment like this, netizens respond en masse with poems (*pantun*). I see that netizens are already having a field day attacking him. It’s just that we know this is the only bullet he has against me—repeatedly claiming the "formula didn't work." It might be effective within the PAS circles who repeat it, but as politicians, we must be careful not to stay within our own bubble. Elections and the people are not determined solely by the supporters of our respective parties. Political ideas only have traction if they can influence ordinary people or fence-sitters. Fence-sitters are not incapable of scrutinizing facts to judge whether a formula works or not.
+
+As for the claim that the formula failed, which is repeated by the Bachok MP and the opposition—if I were them, I would have some pride. I wouldn't be so adamant about this because the very formulas they claim failed were the ones they campaigned for desperately back in 2010 and 2013, such as the PTPTN formula during the Pakatan Rakyat era. In fact, while he now repeats that the formula failed, he doesn't realize he is overstepping. PAS was the one that took the PTPTN formula and promised free education in the 2018 General Election.
+
+The public is well aware that the PTPTN issue was dissected in 2010–2011. At that time, the PTPTN debt was only RM20 billion, so there was room for the government to intervene either through refinancing or changing the entire concept because the country's fiscal position still had space. Now, PTPTN has reached RM41 billion. That is why we said 15 years ago that if something was not done, this debt would drag the country down. Datuk Seri Najib’s government at the time merely conducted "business as usual." Now, Bachok is repeating the same thing. He is "plagiarizing" something that is outdated. It is as if everyone else is playing sophisticated video games, while he is still playing *Tetris*.
+
+At the same time, those who can evaluate the overall situation fairly can see that several major initiatives started at the Ministry of Economy are now yielding dividends for the government. The Prime Minister, the Second Finance Minister, and the MITI Minister now frequently mention the JS-SEZ. The JS-SEZ was an idea from the Ministry of Economy, and our ministry worked on it from A to Z until we successfully signed the agreement in a very short period. Investment after investment is mentioned. At the very least, the fruits of our labor and efforts at the Ministry of Economy have succeeded in bringing tens of billions in investment to the state of Johor and the country every year.
+
+PAS has been the state government of Kelantan for decades; what have you brought? As "Shahirnomics," the greatest economic expert—the only "nomics" existing after "Najibnomics"—what exactly have you brought for the four states that PAS administers? There is no contribution in Kelantan, and no results in Terengganu either. I suggest it would be better for the Bachok MP to develop better poetry than to use these kinds of points, as he will only be belittled. Have some self-pity if you continue to give netizens "easy volleys" to ridicule you.
+
+**Haziq:** Very well, YB, that’s enough about Syahir Sulaiman. We have another rather tough issue; regarding the sackings and suspensions in Bersatu. I don’t know if YB will be annoyed or not because this is a bit "gossipy," but people want to know your views or observations. Is what is happening caused by "invisible hands" from outside Bersatu, or is it truly their own internal problem?
+
+**Rafizi Ramli:** I don’t know. It just so happened that when I was in Parliament the other day, several Bersatu leaders from Negeri Sembilan wanted to take a photo with me. I didn’t quite understand why Bersatu people wanted a photo with me, but I took it anyway. I asked them about the allegations of Wan Faisal selling seats in the last election. How do you sell seats? Ultimately, the decision on which seats to contest is the party president's decision, not an individual's.
+
+The answer given by those Negeri Sembilan Bersatu leaders was that those were all just excuses. This is actually related to the rivalry between Group A and Group B within Bersatu. I believe these two (Wan Saiful and Wan Faisal) are the "commanders" of Group B who need to be made an example of. I don’t want to comment at length; after all, politicians go through phases of ups and downs and backstabbing.
+
+The irony is that both of these individuals are original members of Bersatu. Wan Saiful joined when it was founded in 2016. I remember when I was campaigning on a truck in Kedah in 2017–2018, Wan Saiful was already the candidate for the Pendang parliamentary seat. Ironically, Bersatu is in turmoil and those being kicked out are the original members of the party, while the chaos is largely caused by those who jumped in later, such as Hamzah Zainuddin and Azmin Ali. That is the nature of party politics. People might say the same thing could happen in PKR.
+
+I’m not sure what their next move will be. Both have said they will remain loyal to Bersatu, but over the last 10 years, Bersatu has had many waves of internal ups and downs. Both were major supporters of Tun Mahathir before, but when Tun Mahathir was "stabbed" within Bersatu, they swung to Tan Sri Muhyiddin. It’s the same with Wan Faisal; he was the deputy to Syed Saddiq, but then he suddenly "stabbed" Syed Saddiq, and now the time has come where he is "stabbing" Tan Sri Muhyiddin. So, when they say they will stay with Bersatu, we have to take it with a pinch of salt.
+
+If you ask me as a political commentator, what is the most suitable move for them? Join PKR. Since Wan Saiful has a court case, if he joins PKR, maybe it can be negotiated? As for Wan Faisal, perhaps PKR lacks young leaders who appear professional since all of us are no longer there (in the youth wing), so there is a vacuum there. Wan Faisal could fill that spot, and perhaps when paired with Kamil Munim, they would look like a good match. [Rafizi laughs]
+
+**Haziq:** Okay YB, that’s all for the tough stuff this week. Let’s move to the next segment. Previously, we discussed Renewable Energy (RE) a lot. This time, there’s something a bit different regarding the Nobel Prize in Chemistry—"Hermione's handbag." Hermione is a character in Harry Potter who carries a small bag that contains all sorts of things. What is the significance of this technology or discovery to our lives, YB?
+
+**Rafizi Ramli:** Before we get to the matter of MOFs (Metal-Organic Frameworks), I feel that we in Malaysia do not celebrate enough that the winner of the Nobel Prize in Chemistry this year is a Palestinian refugee named Omar Yaghi. He was born in a Jordanian refugee camp, then moved to the United States and became a professor at Berkeley. I’m not sure if we have ever had a Muslim win the Nobel Prize in Chemistry before.
+
+There are only 6 million Palestinians in the world and they are scattered amidst all kinds of hardship, yet they can produce a Nobel winner. How many Malay Muslims are there in Malaysia? 17–18 million, but we have never won. We are triple their number. That should touch our souls; how a Palestinian refugee can win a chemistry award while we, who are wealthy, live comfortably, and have good education, have yet to produce a Nobel winner.
+
+Regarding MOFs, listeners can go and Google it. It might not look impressive to the naked eye because it exists at the atomic structure level. The science is that if a polymer goes through a certain process, the structure of that polymer can be designed so that the spaces between atoms can be used to fill other atoms. That is what is referred to as "Hermione's bag." We think that at the atomic level, things are already packed tightly, but it turns out there is a lot of space. Research proves that the available space is actually as large as a football field.
+
+Because these spaces exist (porous), they can be used to trap carbon. Future materials like polymers, if made from MOFs, can trap carbon. In Malaysia, after this, people might question CCUS (Carbon Capture, Utilization, and Storage). Instead of trapping carbon and storing it in abandoned underground oil and gas wells, it is better to use these MOFs. If this research develops, we will have compounds that can trap carbon and change many things. Many countries require expensive planning for net-zero carbon targets. The discovery of space at the atomic level to trap other compounds is something that may one day bring about a major change. we are happy that the winner is a Palestinian, which gives even greater meaning behind the tragedy happening in Palestine now.
+
+**Haziq:** Very well YB, thank you for the sharing on MOF. We move to the final segment, "The Questioning Segment" or *Menteri Question Time*. The first question is from Fendi: Can the government reintroduce RON92 petrol like before because most cars can take a minimum of RON91 and the price is cheaper?
+
+**Rafizi Ramli:** The consideration regarding RON92 or 91 is not just about price. At the international and economic level, although the cost paid by the people is cheaper, the cost to the country is higher because we are subject to international carbon regulations. In the future, there will be cross-border carbon credits, and any country or company that produces a lot of greenhouse gases will bear a high economic cost.
+
+Secondly, the world trend now is toward cleaner energy for transport, namely electricity (EV). Some things discussed 15 years ago are no longer suitable now because global megatrends have changed. The country's focus is on providing electric vehicles as cheaply as possible so that we no longer depend on petrol. Cheaper EVs are not just about green commitments, but they free us from dependence on oil imports, given that our oil resources are depleting. We have other sources of electricity that can be developed, such as solar, geothermal, and hydro, which do not depend on imports. So, I do not agree with going backward to use RON92/91 just to lower oil prices.
+
+**Haziq:** Very well YB, clear. The next question is from Hakam Hafiz: Why doesn't Malaysia practice a policy of empowering national defense? Over a seven-year period, Malaysia only allocated an average of RM17 billion a year compared to Singapore's RM65 billion. This year alone, Singapore allocated RM71 billion. Your comments, YB?
+
+**Rafizi Ramli:** Money. The problem is money. Actually, there has been a significant increase in the allocation to the Ministry of Defense over the last two or three years while I have been the Minister of Economy. But we have to implement it within fiscal constraints. According to the asset upgrading plan, we have army, navy, and air force assets. In 2023–2024, we did give priority to naval assets, especially to complete the LCS (Littoral Combat Ship).
+
+Unfortunately, when the LCS project derailed, the additional money provided should have been able to go to other assets. Because of that, although the defense allocation appears to be increasing, air force and army assets have had to wait a bit longer because we need to "plug the hole" in the navy first. That is why when I talk about the country's fiscal and financial position, it is related to all these things. We must focus on how to reduce debt and debt service payment expenses. Our debt service payment is RM58 billion; if we can save RM3–4 billion a year, that money can be used to add defense assets. For now, those constraints still exist.
+
+**Haziq:** Very well YB. The last question is from Martin Zainal: With Trump expected to attend the ASEAN Summit in Kuala Lumpur, how does Malaysia balance principled diplomacy like the Gaza issue and human rights with geopolitical realities, including the controversy if Trump needs to be invited?
+
+**Rafizi Ramli:** This issue was not raised by the opposition in general, but was raised by Wan Faisal. We must remember that Malaysia is the Chair of ASEAN next year, but ASEAN is a consensus body whose diplomacy is very complex. It is not as if Malaysia can make decisions 100 percent according to its own will. From my experience in the ministry, agreeing on two or three paragraphs in an ASEAN cooperation framework can take months. If one country says they do not agree, then there is no decision.
+
+In the context of Trump, that decision is not a decision for the Malaysian government alone. Malaysia is the chair and host, but the decision is made on behalf of ASEAN. Any strategic stance that ASEAN wants to take must have the consensus of all member countries. Previously, the international community considered ASEAN to be just a "talk shop" because its consensus process was slow. But now, ASEAN has become stronger and is looked up to by the world because this region is set to become the fourth largest economic power block in the world within ten years. However, the doctrine of non-interference and the doctrine of consensus are still practiced. So, while there are policy commonalities regarding Gaza, human rights, and Myanmar among ASEAN countries, it does not mean those matters can be decided based solely on political whims or populism in Malaysia.
+
+**Haziq:** Very well YB, clear. With that, this episode comes to an end. We will meet again next week. I take this opportunity to wish a Happy Deepavali to everyone. Don't forget to continue supporting and sharing the "Yang Berhenti Menteri" podcast. Good night.

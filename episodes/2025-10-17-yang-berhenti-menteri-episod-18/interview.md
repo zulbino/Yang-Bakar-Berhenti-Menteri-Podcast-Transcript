@@ -10,21 +10,31 @@ view_count: 36879
 hosts:
 - Rafizi Ramli
 guests:
-- Speaker 1
+- Haziq
+- Farhan
 topics:
-- PAS and the Israeli flag
-- Ministerial petrol fleet cards
-- Health misinformation and scams
-- Perikatan Nasional leadership turmoil
-- QR code obituary scams
-- Alternative budget credibility
-summary: In this episode of the 'Siang Berhenti Menteri' podcast, Rafizi Ramli and
-  his co-host discuss various viral social media issues, political incidents, and
-  scams. Topics include the irony surrounding PAS members and the Israeli flag, public
-  misconceptions about ministerial petrol cards, the danger of health scams like foot
-  detoxing, political maneuvering within Perikatan Nasional, and the ethics of QR
-  code scams on obituaries. The conversation concludes with a discussion on the opposition's
-  alternative budget presented during the Parliamentary budget debate.
+- PAS Israeli flag controversy
+- PM Anwar's petrol payment comments
+- Toxic foot soak scams
+- PN Alternative Budget and RM6000 annual aid
+- Office of Budget Responsibility (UK)
+- Earthquake preparedness and Segamat gas pipelines
+- PKR Wangsa Maju branch allegations
+- School violence and discipline methods
+- National Education Council (Majlis Pendidikan Negara)
+- Ikatan Prihatin Rakyat (IPR) formation
+- Internal crisis in Bersatu (Wan Saiful and Wan Faisal)
+- Nobel Prize in Chemistry and Metal-Organic Frameworks
+- RON95 and RON92 petrol subsidies
+- National defense budget and LCS project
+- ASEAN 2025 and Donald Trump
+summary: In this 18th episode, Rafizi Ramli analyzes recent political controversies,
+  including the internal rift in Perikatan Nasional and Bersatu, the lack of credibility
+  in the opposition's alternative budget, and the Israeli flag incident in Kelantan.
+  He also explores social issues such as the root causes of school violence, the need
+  for a National Education Council, and the economic rationale behind subsidy reforms.
+  Scientific and geopolitical topics are also touched upon, ranging from Nobel-winning
+  chemical frameworks to Malaysia's upcoming role as ASEAN chair.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -33,160 +43,240 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Speaker 1:** Episode 18 of the 'Siang Berhenti Menteri' podcast. For those joining us, please follow and subscribe to the page and the Rafizi Ramli channel on YouTube and other social media. We are also on Spotify for those who prefer to listen to the audio version, YB. Some people don't watch the video; they just listen to your voice and mine.
+**Haziq:** Podcast Yang Berhenti Menteri episod ke-18. Jadi bagi yang baru masuk ni, saya nak minta anda terus follow dan subscribe page dan juga channel Rafizi Ramli di YouTube dan media sosial lain. Kita juga ada podcast di Spotify bagi yang lebih suka mendengar secara audio siar. Ramai juga yang dengar di sana tanpa melihat muka saya dan muka YB.
 
-**Rafizi Ramli:** Yes, I have a friend who listens to the podcast on Spotify while jogging. If you guys are slow to upload, he will message me to ask about it.
+**Rafizi Ramli:** Ya, saya ada kawan yang gunakan podcast kat Spotify tu masa dia jogging. So kalau kau orang lambat upload, dia akan mesej bertanya.
 
-**Speaker 1:** Okay, fair enough, YB. Let’s dive into the various issues from this week. First, how many people have been 'poyo' (arrogant/pretentious) this week? Let’s look at the first one.
+**Haziq:** Okey baik, YB. Kita terus kepada isu macam-macam benda yang berlaku pada minggu ini. Kita tengok dulu macam biasa, berapa ramai orang yang "poyo" pada minggu ini.
 
-**Rafizi Ramli:** People are still using the word 'poyo'?
+**Rafizi Ramli:** Ada lagi ke orang guna perkataan poyo ni?
 
-**Speaker 1:** Yes, though perhaps I'm a bit of a 'boomer' for saying it.
+**Haziq:** Adalah, tapi boomer kut.
 
-**Rafizi Ramli:** Hmm.
+**Rafizi Ramli:** Ha? Boomer pakai poyo? Gen Z tak pakailah poyo.
 
-**Speaker 1:** What? No. Do 'boomers' use 'poyo'?
+**Haziq:** Gen Z tak pakai poyo.
 
-**Rafizi Ramli:** Gen-Z wouldn't use it.
+**Rafizi Ramli:** Well, I'm not Gen X, so siapa yang pakai poyo ni?
 
-**Speaker 1:** Ah.
+**Haziq:** Semua oranglah. Okey baik YB, maaf. Kita tengok benda yang pertama. Apa yang YB nampak?
 
-**Rafizi Ramli:** And definitely not Gen-X. So who actually uses 'poyo'?
+**Rafizi Ramli:** Dia sebenarnya taklah jadi isu sangat kalau penyokong PAS sebelum ini tidak keterlaluan bila ada benda-benda yang melibatkan bendera China atau yang lain. Ataupun tidak keterlaluan kalau ada pandangan yang berbeza sedikit mengenai Palestin—the long and short of it, mereka "terpaling Palestin" lah. Jadi nak dijadikan cerita, saya ingat bila mereka beria-ia nak buat staging yang paling gempak pakai bendera Israel, mereka ditertawakan oleh rakyat. Sebab itulah, kibar bendera China di Teluk Intan dianggap amat melampau, tiba-tiba dia kibar bendera Israel dekat Kelantan. Jadi sangat ironi, cuma betullah mereka beria-ria. Yang bab tu saya tak faham satu je: macam mana dia dapatkan bendera Israel? Kat mana dia ambil bendera Israel tu?
 
-**Speaker 1:** Well, everyone. Anyway, my apologies.
+**Haziq:** Kena tanya berialah. Mungkin dia ambil daripada Thailand kut, atau Shopee. Okey, next YB. Perasan tak isu ni?
 
-**Rafizi Ramli:** (Laughs)
+**Rafizi Ramli:** Ya, ada orang forward kat media sosial dan bertanya dekat messenger serta di komen. Ini bila Datuk Seri Anwar kata dia bayar RM2.60 untuk minyak. Banyak yang tanya saya tu, saya ingat mungkin pegawai kerajaan yang bertanya, sebab menteri tak bayar minyak. Menteri semua minyak dibayar oleh kerajaan.
 
-**Speaker 1:** Let’s look at the first item, YB. What do you see?
+**Haziq:** By claim atau memang ada spesifik kad?
 
-**Rafizi Ramli:** It wouldn't really be much of an issue if PAS supporters weren't so extreme whenever something involves the Chinese flag or similar things. Or if they weren't so extreme with their differing views on Palestine. The long and short of it is that they are 'terpaling' (the most) passionate about Palestine. To make a long story short, I think it was ironic that they went to such lengths to stage this dramatic display with the Israeli flag. 
+**Rafizi Ramli:** Memang ada spesifik fleet card untuk menteri. Contohnya setiap menteri atau timbalan menteri, malah isteri pun—walaupun isteri saya tidaklah sebab dia tak ada driving license—akan diberikan fleet card. Jadi kalau jadi menteri ni memang tak pernah isi minyak sendiri sebab driver yang isi. Jadi saya tak pastilah fleet card tu RM2.60 ke tidak sekarang, tapi konsep menteri bayar minyak ni memang pelik sikit, apatah lagi Perdana Menteri. Saya tak rasa Datuk Seri Anwar ada masa bawa kereta kemudian berhenti dekat petrol station bayar RM2.60. Besar kemungkinan semua itu driver dan security detail dia yang buat. So kau nak suruh aku rate apa ni?
 
-They ended up being mocked by the public. It’s so ironic—they made such a big fuss about the Chinese flag being flown in Teluk Intan, and then suddenly, they are flying an Israeli flag in Kelantan. The one thing I don't understand is, where did they even get an Israeli flag? Where do you even find one?
+**Haziq:** Beria. PM kata dia bayar RM2.60. Mungkin anak-beranak dia kut, atau mungkin dia nak bagi tahu yang fleet card tu RM2.60.
 
-**Speaker 1:** Well, you’d have to ask them.
+**Rafizi Ramli:** Tapi fleet card tu dibayar oleh kerajaan, jadi dia percumalah. I think mereka yang forward tu sebenarnya tahu menteri atau timbalan menteri ni sebenarnya tak bayar minyak. Limit pun tak ada. Saya memang tak pernah bayar minyak dulu kecuali masa kempen pilihan raya. Yang ini saya tak tahu menteri lain buat ke tidak masa kempen pilihan raya sebab saya menggunakan kereta sendiri dan tidak gunakan kereta rasmi. Bila guna kereta sendiri, kena bayar sendirilah. Saya tak rasa PM dibenarkan menggunakan kereta sendiri sebab dia ada security protocol dia.
 
-**Rafizi Ramli:** They were so committed. Maybe they got it from Thailand? Or maybe Shopee.
+**Haziq:** Baik YB. Okey kita pergi ke isu seterusnya: rendam kaki keluar toksin.
 
-**Speaker 1:** Oh, Shopee sells them?
+**Rafizi Ramli:** Pakcik ni yang kata kalau rendam kaki keluar toksin? Konon ada elektrod? Kononnya elektrolisis?
 
-**Rafizi Ramli:** They can be custom-made.
+**Haziq:** Dia tak cakap pasal elektrolisis pun. Dia terus kata ini toksin, ini kolesterol.
 
-**Speaker 1:** You sound like you’ve bought one before.
+**Rafizi Ramli:** Oh, kalau letak kaki, kolesterol tu keluarlah?
 
-**Rafizi Ramli:** Not at all. It’s an Israeli flag.
+**Haziq:** Ya, blackish.
 
-**Speaker 1:** Okay, next, YB. Have you noticed?
+**Rafizi Ramli:** Kalau macam ini, tak adalah saya kena makan ubat banyak untuk kolesterol. Saya pergi rendam kaki jelah. Saya lagi tertarik dengan ramainya pelanggan dia yang berbilang bangsa. Saya nasihatkan kalau terjumpa perkara-perkara macam ini, pergi jumpa doktor dulu. Kalau tak sempat jumpa doktor, tanya ChatGPT. Perkara ni berbahaya kerana kalau kolesterol dan toksin boleh keluar hanya dengan rendam kaki pakai dua plate elektrik macam elektrolisis itu, tak ada orang sakitlah kat Malaysia. Suruh Dr. Zaliha letak jawatan, tak payah ada Menteri Kesihatan. Yang bahayanya takut nanti kena electrocuted. Scammer di dalam negara kita ni banyak; ada orang yang percaya, maka ada market untuk scammer ni. Dia sama macam skim cepat kaya. Dalam masyarakat kita tak habis-habis soal Ponzi scheme yang orang percaya kalau letak RM500 boleh dapat RM5,000. Akal tahu tak masuk akal, tapi ada yang cuba jalan pintas. Untuk mengurangkan kolesterol ni tak ada jalan pintas; kena kawal makan dan pergi jogging.
 
-**Rafizi Ramli:** Yes, there are the usual people on social media. Our people are diligent. They forward things and then ask in the comments or on Messenger, "Is it true that Datuk Seri Anwar says he pays RM2.60 for petrol?"
+**Haziq:** Susah tu. Okey baik YB. Jadi konklusinya ini sebenarnya orang Terengganu panggil "elektrolesis".
 
-**Speaker 1:** Right.
+**Rafizi Ramli:** Satu tak lawak, kedua tak betul. Hanya sebab saya sebut elektrolisis, saya tidak mewakili orang Terengganu. Pandai-pandai saja. Itu berbahaya nanti orang Terengganu marah seolah-olah menuduh orang Terengganu yang buat scam ni. Bukan orang Terengganu, marah mereka nanti.
 
-**Rafizi Ramli:** Many have asked me that. I think maybe it’s civil servants asking. Because ministers don't pay for petrol.
+**Haziq:** Okey baik. Next, risiko calon PM.
 
-**Speaker 1:** Ah.
+**Rafizi Ramli:** Saya ada dalam dewan masa Ahli Parlimen Marang ni berucap. Katanya risiko dia ialah demi keselamatan, takut nanti diculik ataupun disabotaj dengan diletakkan jongkong emas atau dadah. Kita semua tahu bahawa kenapa Perikatan Nasional masih belum menamakan calon Perdana Menteri ialah kerana PAS tidak bersetuju dengan Tan Sri Muhyiddin Yassin. Saya ingat Datuk Seri Hadi Awang lebih minat supaya Datuk Seri Hamzah Zainuddin jadi calon Perdana Menteri, dan itu jugalah yang memberi kesan kepada Bersatu seperti yang bergolak sekarang. Sementara kita boleh gelakkan alasan yang diberikan, saya ingat rakyat boleh menilai sendiri yang sebenarnya Perikatan Nasional pun berantakan. Cuma saya tak pasti bila Datuk Seri Hadi Awang bagi alasan sebegitu. Saya ingat dia tidak memahami bahawa rakyat Malaysia ni bukan semuanya macam ahli PAS. Ahli PAS kalau Datuk Seri Hadi Awang bagi alasan kerengga pun mereka percaya betul-betul. Tapi rakyat Malaysia akan pertimbangkan logik atau tidak. Kalau macam itu, payahlah rakyat setiap kali nak masuk pilihan raya kena berteka-teki siapa yang akan jadi Perdana Menteri sebab takut kena culik atau sabotaj. Cuma kita boleh bagi markahlah kerana dia "beria-ia" cuba mengelak daripada menjawab perkara yang sebenarnya, iaitu dia tidak bersetuju dan tidak lagi mahukan Tan Sri Muhyiddin Yassin menjadi calon PM. Kalau dia bercakap berterus-terang bahawa ia masih dibincangkan di dalam PN, mungkin dia tak jadi bahan gelak.
 
-**Rafizi Ramli:** For ministers, all petrol is paid for by the government.
+**Haziq:** Baik YB. Okey saya ada lagi ni, ini yang terakhir saya rasa: penipu tukar kod QR derma dalam obituri.
 
-**Speaker 1:** Is it via claim or a specific card?
+**Rafizi Ramli:** Jahat orang ni, ini memang jenayahlah. Scammer ni memang beria-ia; segala jenis benda dia nak scam. Tetapi scam dalam tempoh yang pendek tak sampai 24 jam ini menunjukkan dia mengambil kesempatan atas musibah orang lain untuk buat duit. Masyarakat kita pula selalunya pemurah bila ada perkara macam ini. Saya tak tahu berapa ramai yang telah tertipu, tapi ini memang sejahat-jahat scammer. Dari segi usaha dan idea tu bolehlah kata dia beria-ia, tapi kalau tangkap, sepatutnya sumbat dalam penjara lama-lama. Scammer toksin tadi mulia sedikit daripada yang mengambil kesempatan atas duka keluarga ni. Nasib baik ia dikenalpasti lebih awal dan orang ramai telah dimaklumkan supaya bagi bantuan terus kepada keluarga. Saya pun takut lepas ni nak guna QR kod.
 
-**Rafizi Ramli:** There is a specific card.
+**Haziq:** Okey baik YB. Boleh kita rate secara ringkas?
 
-**Speaker 1:** A specific card for ministers?
+**Rafizi Ramli:** Yang bendera Israel kena bagi lima. Tahniah! Yang ini memang pemenang terus, yang lain tak payah rate dah. Minggu ini pemenangnya ialah bendera Israel sebab memang kena "setepek" [direct hit] atas muka PAS. Lepas ni PAS berfikir panjanglah kalau nak komen pasal bendera lain sebab saya pasti benda ni akan terus diungkit berkali-kali.
 
-**Rafizi Ramli:** Yes, every minister or deputy minister is provided with a fleet card. Even their spouses, though mine doesn't have one because she doesn't have a driving license. As a minister, you never pump your own gas because the driver does it. I'm not sure if the fleet card rate is RM2.60 now, but the concept of a minister paying for their own petrol is a bit strange. Especially for the Prime Minister. I don’t think Datuk Seri Anwar has time to drive his own car, stop at a petrol station, and pay RM2.60.
+**Haziq:** Okey baik. Kita teruskan ke segmen Standing Order, YB. Minggu ni lebih kepada perbahasan.
 
-**Speaker 1:** Exactly, his driver and security detail probably handle all of that. So, what are you asking me to rate here? The PM making a big deal about paying RM2.60? Maybe it was a family member of his.
+**Rafizi Ramli:** Minggu ini dan minggu depan ialah perbahasan dasar belanjawan, selain daripada soalan-soalan biasa yang ditanya di sebelah pagi.
 
-**Rafizi Ramli:** Or maybe he just wanted to point out that the fleet card is charged at RM2.60.
+**Haziq:** Baik YB. Okey kita tengok yang pertama: Belanjawan Perikatan Nasional. Ini daripada ucapan Ketua Pembangkang. Apa first impression YB bila dengar ucapan beliau?
 
-**Speaker 1:** But the fleet card is paid for by the government. So it’s free for him.
+**Rafizi Ramli:** Saya masuk lambat sedikit ke dewan kerana saya berucap sebelah petang, manakala Ketua Pembangkang berucap di sebelah pagi. Ada beberapa perkara yang boleh kita kupas untuk kebaikan rakyat. Pertama, maksudnya tekanan rakyat mengenai fungsi pembangkang supaya membentangkan belanjawan alternatif itu akhirnya didengari selepas dua tahun. Mereka cuba menunjukkan mereka ada belanjawan alternatif. Tetapi, saya dan beberapa rakan lain adalah antara kumpulan pertama yang menghasilkan belanjawan alternatif pembangkang yang pertama dalam sejarah Malaysia. Bila kita sebut belanjawan alternatif, ia bukannya sekadar beberapa pengumuman yang dibacakan dalam ucapan. Ia mestilah satu dokumen belanjawan yang menunjukkan perkara asas: berapa hasil, berapa perbelanjaan, berapa belanja pembangunan, dan bagaimana kedudukan hutang kerajaan. Walaupun tidak perlu diperincikan sepertimana dokumen kerajaan, itu adalah perkara paling minima yang perlu ada—kena ada anggaran hasil, perbelanjaan, dan unjuran hutang. Daripada situ barulah rakyat boleh menilai kredibiliti mereka dalam menguruskan ekonomi kerana setiap sesuatu itu perlu dikoskan. Contohnya, cadangan beri rakyat RM6,000 setahun perlu diperincikan sama ada diberi kepada isi rumah atau setiap individu, kemudian berapa tanggungan setahun. Barulah kita nampak perbelanjaannya dibandingkan dengan unjuran pendapatan. Jika unjuran hasil cuma RM350 bilion tapi satu program saja sudah RM30 bilion di samping komitmen lain seperti gaji dan khidmat hutang, dari situ rakyat boleh tengok kredibiliti. Jadi yang diumumkan itu hanyalah gula-gula yang tidak dikoskan. Di negara maju yang sistem demokrasinya lebih matang, mereka ada badan bebas yang kerjanya ialah mengoskan setiap pengumuman ahli politik. Jika pembangkang kata mereka akan buat sekian program, badan bebas itu akan mengira dan memberi panduan sama ada matematik itu betul. Jika tidak betul, mereka akan beritahu unjuran sebenarnya berbeza. Di UK, ada satu badan di bawah Parlimen dipanggil Office of Budget Responsibility.
 
-**Rafizi Ramli:** I think those who keep forwarding the message actually know that ministers and deputies don't pay for their own petrol—it's covered by the government.
+**Farhan (Producer):** Office of Budget Responsibility.
 
-**Speaker 1:** Is there no limit?
+**Rafizi Ramli:** Ya, Office of Budget Responsibility. Di UK ada badan ini, jadi ahli politik tak boleh semborono buat pengumuman. Kalau Office of Budget Responsibility kata unjuran itu tidak betul, ia akan memalukan parti tersebut. Ini membina disiplin parti politik apabila mereka mencadangkan dasar. Malaysia belum ada perkara itu. Berbalik kepada apa yang diumumkan Ketua Pembangkang, pada satu sudut ada sedikit kemajuan kerana akhirnya mereka mendengar suara netizen yang sering memetik nama PN setiap kali ada belanjawan. Mereka tahu kalau tahun ketiga berturut-turut tiada perincian bajet alternatif, mereka akan terus kena "troll". Saya harap tahun depan kita boleh tengok pembangkang menghasilkan belanjawan alternatif yang penuh. Kalau nak minta pertolongan saya pun boleh, tapi nanti kita runding charge lah sebagai konsultan. Tak boleh percumalah. Tapi yang mengecewakan ialah kandungannya hanya semata-mata ditumpukan kepada gula-gula RM6,000 setahun, sedangkan masalah utama negara adalah soal struktur. Satunya ialah produktiviti dan kompleksiti ekonomi yang tidak menghasilkan hasil yang diperlukan untuk memenuhi ekspektasi rakyat kerana kita tersangkut dalam middle income trap. Belanjawan sepatutnya membentangkan apa yang akan dibuat untuk memperbetulkan struktur ekonomi itu. Masalah kedua ialah landasan hutang yang besar. Jika penyokong kerajaan bertanya apa cadangan kita, maksudnya betullah kita ada masalah. Jangan marah kepada orang yang menunjukkan masalah, nanti jadi seperti zaman Najib dengan 1MDB dulu di mana sesiapa yang berani tunjuk masalah akan dihentam. Sekarang ini di sebelah penyokong kerajaan, saya tengok reaksi bila saya timbulkan masalah hutang dan debt service charge yang terlalu tinggi, ia seolah-olah tidak boleh disentuh kerana bimbang akan kalah pilihan raya kepada PAS. Di sebelah pembangkang pula, langsung tak sentuh masalah itu seolah-olah ia bukan masalah mereka, sedangkan mereka berjanji nak bagi RM6,000 yang sudah tentu akan memburukkan kedudukan hutang negara jika tiada perubahan struktur. Akhirnya ia jadi sembang kencang di Parlimen sajalah. Kita adalah masyarakat yang hanya suka mendengar perkara yang baik-baik, perkara kurang manis kita tak nak dengar. Bila dah kena langgar, barulah kita mengerang. Belanjawan alternatif PN langsung tidak menyentuh perkara itu. Jika saya rakyat biasa yang faham masalah kewangan negara, saya akan garu kepala; masing-masing cuba menjadi popular dengan menawarkan gula-gula manis, akhirnya satu negara kena kencing manis dan kena potong kaki.
 
-**Rafizi Ramli:** That’s it. I have never paid for petrol myself, except during election campaigns when I used my own car. I’m not sure if other ministers do that. During a campaign, because I use my own vehicle, I have to pay for it myself. I don’t think the PM is allowed to use his own car anyway, given his security protocols.
+**Haziq:** Okey baik YB. Kalau kita buat kira-kira, dengan keadaan sekarang pun STR bagi penerima tertinggi e-Kasih adalah sekitar RM4,600. Bila dimasukkan dengan apa yang Ketua Pembangkang cakap, dia melonjak dua kali ganda jadi RM8,200 setahun. Adakah ini boleh dilaksanakan dan apa kesan dia pada negara?
 
-**Speaker 1:** Very well, YB. Let’s move to the next one. Soaking your feet to remove toxins. 
+**Rafizi Ramli:** Selagi mereka tidak menunjukkan perincian, sukar untuk kita tentukan kos sebenar. Jika kriteria pemberian sumbangan tunai ini tidak berubah, kos sedia ada kepada negara ialah sekitar RM15 bilion setahun. Jika ia naik dua kali ganda kepada RM8,000, jumlah keseluruhan sepatutnya naik kepada RM30 bilion setahun. Tambahan RM15 bilion itu, sedangkan di bawah Belanjawan 2026 kita sudah ada defisit 3.5 peratus dan lebihan semasa (hasil tolak belanja mengurus) pula hanya ada lebih kurang RM5 bilion. Jadi ia akan berkurang, maksudnya kita akan kekurangan RM10 bilion. Kalau tengok negara lain, ada dua model berbeza. Model Scandinavia mengenakan cukai yang tinggi sehingga 30-40 peratus; mereka tiada bantuan tunai tetapi hampir semuanya percuma—kos penjagaan anak, kesihatan, pendidikan, dan pengangkutan awam sangat murah. Walaupun cukai tinggi, mutu kehidupan baik kerana kos asas telah dibiayai kerajaan. Ada juga model negara lain yang memberikan bantuan tunai tiap bulan tetapi khidmat kerajaan tidak diberikan subsidi. Di Malaysia, kita berada di tengah-tengah. Jika kita mahu semua percuma tapi kenakan cukai tinggi, rakyat tidak akan setuju. Struktur ekonomi kita juga ada masalah kerana 40 peratus pekerja berada di sektor informal dan tidak membayar cukai. Jika kita nak bagi bantuan tunai sebegini banyak, kita akan ada masalah kemampuan menanggungnya kerana pada masa yang sama subsidi tidak bersasar menyebabkan kos khidmat kerajaan naik tanpa caj yang berpadanan. Jadi, selamat maju jaya kepada mereka yang sedang berebut untuk menjadi kerajaan.
 
-**Rafizi Ramli:** Oh, this uncle? He’s the one who claimed that soaking your feet draws out toxins.
+**Haziq:** Terima kasih YB kerana membedah belanjawan mereka. Ia hanya ucapan, bukan dokumen yang diterbitkan. Tapi mereka ada tema: memperbetulkan struktur, menyemarakkan ekonomi, dan melegakan rakyat.
 
-**Speaker 1:** Yes, it went viral recently because of this video, even though the concept is old.
+**Rafizi Ramli:** Bab memperbetulkan struktur tu saya tak nampak langsung. Laporan yang mendapat liputan meluas hanyalah mengenai RM6,000 setahun itu sahaja.
 
-**Rafizi Ramli:** Because there are electrodes involved. He claims it's electrolysis.
+**Haziq:** YB ada sebut tentang penyasaran subsidi dan kenyataan baru PM, tapi kita akan ulas nanti. Kita pergi ke soalan seterusnya. Saya nak tanya, berapa banyak soalan sebenarnya seorang ahli Parlimen boleh submit?
 
-**Speaker 1:** He didn't even mention electrolysis; he just straight up said, "This is toxins," and "This is cholesterol."
+**Rafizi Ramli:** Dia boleh kemukakan 10 soalan lisan setiap sesi yang berkemungkinan naik dalam senarai 10 soalan pertama setiap hari. Setiap hari ada berpuluh-puluh soalan lisan, bukannya semua sempat dijawab terus oleh menteri atau timbalan menteri. Selalunya antara 10 ke 15 soalan sahaja yang dijawab pagi-pagi—yang menteri sibuk berpantun tu. Soalan lisan yang tidak terpilih akan diberikan jawapan secara bertulis. Selain itu, boleh hantar lima soalan bertulis yang memang akan dijawab secara bertulis dan tidak akan naik dalam dewan. Macam saya, soalan lisan saya tak pernah naiklah. Selalunya kerajaan dan Dewan Rakyat akan pilih soalan lisan mana yang akan naik.
 
-**Rafizi Ramli:** Oh, so if you soak your feet, the cholesterol just comes out?
+**Haziq:** Saya bacakan satu soalan daripada YB Zahir Hassan (Wangsa Maju): Minta Perdana Menteri menyatakan perancangan untuk meningkatkan tahap kesiapsiagaan masyarakat dalam menghadapi kemungkinan bencana gempa bumi setelah mengalami lapan gegaran bermagnitud antara 2.5 hingga 4.1 di Johor dan penguatkuasaan kawalan penggunaan Eurocode 8 atau piawaian yang setara dalam mereka bentuk bangunan di Malaysia. Apa review YB?
 
-**Speaker 1:** Yes, and so on.
+**Rafizi Ramli:** YB Zahir ni memang seorang jurutera bertauliah dalam bidang kejuruteraan awam dan pernah menjadi pemimpin kanan sektor swasta. Saya perhatikan ada satu dua orang saja ahli politik yang membicarakan pasal perkara ini. Kita ada lapan gegaran besar di Segamat dalam dua bulan lepas, dan Segamat itu adalah pencawang utama kepada sistem gas Semenanjung kita. Jika paip di Putra Heights tempoh hari pun boleh meletup begitu, bayangkan kesan lapan gegaran di Segamat kepada jaringan gas, tapi kita tak bincangkan. Masyarakat dan kerajaan tak bincang. Saya sangat berbesar hati dan harap YB Zahir boleh bawa perkara ini secara berterusan kerana ini soal besar. Gempa bumi jarang berlaku di Semenanjung; selalunya hanya di Sabah yang dekat dengan "Ring of Fire". Tapi bila sudah sampai ke Segamat sebanyak lapan kali, ia serius. YB Zahir juga pengerusi kaukus parlimen mengenai keselamatan dan bencana. Masalahnya perkara ini tidak "seksi" untuk rakyat atau media, jadi ia tidak menjadi bualan utama. Saya harap selepas ini bukan sahaja YB Zahir, tapi masyarakat keseluruhan terutamanya di Utara Johor memberi tumpuan. Saya tak pasti sama ada Petronas telah memberi maklum balas, jadi mungkin jawatankuasa terpilih parlimen patut memanggil jabatan berkaitan dan Petronas untuk penilaian risiko. Saya pasti Petronas sudah melaksanakan penilaian mereka kerana ia risiko besar kepada aset mereka. Segamat itu nadi kepada saluran gas seluruh Malaysia; saluran dari Terengganu bersambung di Segamat sebelum naik ke Pantai Barat.
 
-**Rafizi Ramli:** (Laughs)
+**Haziq:** Baik YB. Kita tengok satu lagi soalan dari Besut: Minta Menteri Dalam Negeri menyatakan rasional kementerian mengklasifikasikan dakwaan Perdana Menteri menerima wang tidak diaudit daripada seorang tokoh perniagaan sebagai sekadar isu audit dan pentadbiran parti, serta perbezaan kes berkenaan dengan kes terdahulu yang menyaksikan parti politik disiasat atas dakwaan serupa. Kes siapa ni YB?
 
-**Speaker 1:** If it were that easy, I wouldn't have to take so much medication for my cholesterol. I’d just go soak my feet.
+**Rafizi Ramli:** Saya tidak semestinya gemar cara Ahli Parlimen Besut ni berbahas sejak penggal awal lagi kerana beliau suka menjerit, tapi soalan ini memang "hard hitter". Saya mengambil pendirian "don't shoot the messenger" walaupun kita mungkin tidak berkenan dengan cara beliau. Latar belakangnya ialah viral video Ketua Cabang PKR Wangsa Maju yang masa itu bergelumang kontroversi kerana ada laporan polis terhadapnya mengenai pemalsuan tandatangan bendahari cawangan bagi penyata kewangan. Bendahari itu buat laporan polis dan sepatutnya ia kes jenayah pemalsuan (forgery). Kemudian ada pula video yang dirakam secara rahsia menyatakan PM mendapat wang daripada seorang tokoh taipun besar tetapi wang itu tidak diaudit. Terkini, saya dimaklumkan PKR membuat keputusan untuk menggantung beliau selama satu tahun. Kita tak dengar adanya siasatan atau tindakan undang-undang. Soalan ini sangat relevan sebab laporan polis mengenai pemalsuan tandatangan itu ialah kes berkepentingan awam yang bersifat jenayah. Kita nak tahu apa keputusannya. Selain itu, Datuk Seri Anwar mempunyai imej "terpaling anti-rasuah", jadi bila nama beliau disebut dalam konteks yang tidak manis begini, di negara lain sudah tentu ada siasatan panjang. Tetapi di sini, kita tak dengar apa-apa daripada pihak berkuasa, malah tindakan PKR pun nampak tidak serius. Jika dakwaan Ketua Cabang itu palsu, sepatutnya dia sudah dipecat. Bila hanya gantung, ia nampak macam "acah tak acah". Saya tabik juga kepada Ahli Parlimen Besut kerana menanyakan soalan yang "bulls eye". Kita jangan hanya nak dengar benda yang manis sahaja; kudis itu kalau tidak dirawat lama-lama dia akan merebak. Ada dua perkara yang sepatutnya clear cut: soal pemalsuan tandatangan dan tuduhan PM menerima wang tidak diaudit. Jika tuduhan itu palsu, ambil tindakan tegas; jika tidak palsu, lagi berbahayalah kerana pihak berkuasa kena siasat. Akhirnya PKR mungkin berharap perkara ini akan hilang begitu sahaja, tapi Ahli Parlimen Besut telah "pick up" isu ini walaupun ia soalan nombor 26 yang tidak naik untuk dijawab secara lisan.
 
-**Rafizi Ramli:** What I find more interesting is how many customers he has. It's sad that people fall for this. My advice is, if you come across these things, consult a doctor first. If you don't have time to see a doctor, ask ChatGPT. But this is dangerous because people should have enough sense to realize that if you could draw cholesterol and toxins out of your body by soaking your feet with two electric plates, nobody in Malaysia would be sick. We wouldn’t need the Minister of Health.
+**Haziq:** Okey baik YB. Itu untuk segmen Standing Order. Kita terus ke segmen Hidup Keras. Minggu ini banyak isu keras, terutamanya mengenai keganasan di sekolah yang meluas. Dalam komen netizen, perkataan yang paling banyak dijumpai adalah "rotan". Ahli politik lain termasuk Akmal Saleh pun bercakap pasal rotan. Adakah diagnosis "rotan" ini betul dari segi korelasi atau causation dalam isu keganasan sekolah ini?
 
-**Speaker 1:** Everyone would just be soaking their feet.
+**Rafizi Ramli:** Saya tengok macam-macam reaksi. Reaksi awal kalau di Parlimen itu ialah kita perlu rotan, kita perlu tegas, dan kita perlu hukum. Saya juga lihat reaksi Perdana Menteri, Datuk Seri Anwar Ibrahim. Reaksi dia, dia kembali kepada *handphone* atau *smartphone*. Itu yang dia katakan. Jadi kalau ikut maklum balas awal Datuk Seri Anwar, kabinet akan membincangkan mengenai *smartphone*. Ada tanda-tanda sama ada murid sekolah atau pelajar sekolah lepas ini tidak dibenarkan membawa *smartphone*. Memang sekarang pun tak boleh bawa, tapi mungkin ada peraturan tambahan.
 
-**Rafizi Ramli:** The real danger is getting electrocuted. But we have many scammers in this country, and the problem is that there’s a market for them. It’s the same with get-rich-quick schemes.
+Ia mungkin juga berkaitan dengan yang disebut oleh Menteri Komunikasi, saudara Fahmi Fadzil, yang telah mengumumkan bahawa e-KYC akan dilaksanakan untuk platform media sosial. Saya tak nak komen yang itu secara terperinci dahulu sebab saya tak bagi reaksi langsung atas beberapa sebab. Satu, saya juga seorang bapa dan saya tahu bahawa membesarkan anak sekarang ini memang mencabar. Tidak sama dengan zaman saya muda dahulu kerana kita hidup dalam dunia yang bersambung. Kanak-kanak zaman sekarang boleh melihat dan membandingkan semua yang berlaku di seluruh dunia. Maklumat itu beribu kali ganda lebih banyak berbanding masa saya membesar.
 
-**Speaker 1:** Our society never learns when it comes to get-rich-quick schemes. Ponzi schemes where people believe that if they invest RM500, they can get RM5,000 back—it makes no sense. But because some people want a shortcut, they fall for it. So, for those who believe in this foot-soaking thing, it means they are looking for shortcuts. There is no shortcut for reducing cholesterol. You have to control your diet and go jogging.
+Kita perlu mengambil kira bahawa itu realitinya. Mungkin juga berkait dengan apa yang Datuk Seri Anwar sebut pasal *handphone*, cuma pandangan saya ialah kita tak boleh menongkah arus. Dunia ini memang bersambung. Jadi apa-apa yang kita buat untuk mengehadkan saluran maklumat itu, saya tak rasa akan berkesan. Itu mungkin kita melatah untuk menguruskan simptom, bukan *root cause*.
 
-**Rafizi Ramli:** That’s the hard part.
+Kedua, saya ingat semua yang berlaku kebelakangan ini ialah refleksi masyarakat kita. *This is us as a society.* Jadi sebab itu saya tahu ada orang mungkin ingat bila ada kes macam ini, saya orang pertama akan hentam Menteri Pendidikan, Fadhlina Sidek, ataupun Kementerian Pendidikan. Menghentam Kementerian Pendidikan semata-mata itu walaupun sedap untuk melepaskan geram, ia mungkin bukan penyelesaiannya kerana ini adalah isu masyarakat. Setiap ahli politik dan setiap guru itu adalah ibu bapa. Sebelum kita sampai kepada soal bagaimana perkara ini berlaku di sekolah, paling sesuai setiap ibu bapa mencermin diri dahulu.
 
-**Speaker 1:** (Laughs) Okay, YB. So, the conclusion is: people in Terengganu call it 'elektrolisis'?
+Sebab yang kita kena tanya ialah berapa banyak kita menghabiskan masa dengan anak-anak kita? Berapa banyak sebenarnya perangai, sikap, dan ketelanjuran kita memberi kesan kepada anak-anak tanpa kita sedar? Berapa banyak kita tahu apa yang berlaku dengan mereka? Saya sendiri rasa ini antara kelemahan yang perlu saya perbaiki dari semasa ke semasa. Saya rasa saya tidak menghabiskan masa yang cukup dengan anak saya. Cuma saya bernasib baik sedikit kerana saya dan isteri membuat keputusan bahawa isteri saya yang perlu berkorban. Isteri saya meletakkan jawatan untuk menjadi suri rumah sepenuh masa kerana pandangan kami ialah perlu ada seorang ibu atau bapa yang 100 peratus berada dengan anak.
 
-**Rafizi Ramli:** Why would you say it's from Terengganu?
+Tapi masalahnya, berapa ramai yang sanggup berkorban begitu dan sanggup beralih daripada *double income household* menjadi *single income household*? Kami buat keputusan bersama pada tahun 2017. Ia bukan keputusan yang mudah. Isteri saya berkelayakan sama macam saya, balik luar negara, kerja di bank, ijazah yang baik, tapi tiba-tiba tidak ada pendapatan dan kerjaya langsung. Belajar susah payah masa kecil, ia tak mudah. Dan apa hak saya sebagai suami untuk minta dia berkorban? Tapi itu keputusan yang kami buat bersama. Saya ada kemampuan untuk buat begitu, sedangkan sebahagian besar keluarga di Malaysia tidak ada kemampuan itu.
 
-**Speaker 1:** Just kidding.
+Mereka memerlukan kedua-duanya bekerja. Sebab itu ada ibu bapa yang kalau boleh mahu anak duduk di sekolah sampai pukul 6:00 petang. Itu berbahaya kerana walaupun mudah untuk ibu bapa, di mana garis pemisahnya apabila tanggungjawab membesarkan anak telah berpindah kepada guru? Di sebelah sekolah pula, guru akan rasa mereka tidak boleh rotan atau tegur kerana kalau terlebih sedikit, ibu bapa marah. Jadi mereka buat tak tahu sahaja.
 
-**Rafizi Ramli:** You mentioned electrolysis, and I said people in Terengganu call it electrolysis.
+Masalah kita sebagai masyarakat ialah kita sangat mudah untuk menuding jari kepada orang lain. Ibu bapa mudah untuk membuat "generalization"—apa dalam bahasa Melayu? Memukul rata. Masyarakat kita mudah untuk pukul rata semua perkara. Guru pukul rata begitu, ibu bapa pukul rata begini. Ia sebenarnya jauh lebih rumit. Saya menasihati diri saya supaya jangan cepat melatah dan menghukum kerana isu ini lebih rumit daripada isu ekonomi. Ia sebenarnya ialah lambang dan terjemahan kita sebagai sebuah masyarakat. Masyarakat kita sekarang lebih kasar, lebih mudah untuk menghukum, menuduh, dan percaya sesuatu sebelum disemak.
 
-**Speaker 1:** That’s not funny, and it’s not true. Just because I mentioned electrolysis doesn't mean I represent the people of Terengganu.
+Tengok kes yang berlaku di Bandar Utama, di mana mangsa kena tikam. Ibu bapa terpaksa membuat kenyataan media supaya orang berhenti menyebarkan perkara yang tidak betul dan beri ruang kepada mereka. Orang kita sangat mudah percaya dan terima bulat-bulat; lebih sensasi lebih baik. Itu orang dewasa, dan orang dewasa ini adalah ibu bapa kepada anak-anak. Kalau itu sikap unit keluarga dan masyarakat, mustahil untuk kita suruh anak-anak jadi malaikat.
 
-**Rafizi Ramli:** (Laughs)
+Kemudian daripada segi sekolah, ada yang kata kita kena rotan. Saya tak pastilah sama ada kalau kita kembalikan rotan semata-mata akan selesai masalah. Saya ingat rotan itu ialah perlambangan, maksudnya guru mesti diberi kebebasan untuk mendidik. Mendidik itu maknanya mesti ada elemen menghukum. Bentuk hukuman yang macam mana? Dalam bahasa mudah orang kata rotanlah. Tapi mendidik pada pandangan saya bukannya 100 peratus menghukum. Kalau pun ada elemen menghukum, ia belum tentu menyelesaikan masalah kerana latar belakang masyarakat sudah berbeza.
 
-**Speaker 1:** You were reaching. It’s dangerous, too. The people of Terengganu might get angry and think you're accusing them of running this scam.
+Masyarakat kita sekarang tidak sama dengan zaman kami kena rotan dulu. Ibu bapa dulu tidak sekritis sekarang; mereka tidak banyak menghentam orang. Hidup mereka *simple*, cari makan dan jaga anak. Masyarakat telah berubah, jadi latar belakang itu tidak lagi *apple to apple*. Dulu guru boleh rotan atau sepak, tapi keadaan masyarakat masa itu berbeza. Jadi elemen menghukum itu hanya satu komponen, bukan 100 peratus komponen. Kalau guru dibenarkan merotan, macam mana pula tindak balas ibu bapa yang sikapnya menyerahkan anak bulat-bulat atau tidak boleh disentuh langsung?
 
-**Rafizi Ramli:** Not the people of Terengganu.
+Jika kita lihat sistem di negara lain, masalah ini bukan sahaja di Malaysia. Di Jepun, tumpuan pada peringkat awal persekolahan ialah nilai dan disiplin. Mereka dilatih untuk menghadam nilai tertentu contohnya kebersihan. Sekolah di Jepun seingat saya tidak ada tukang sapu; mereka bersihkan sekolah sendiri. Mereka diajar nilai hormat, ketepatan masa, dan kerjasama lebih penting daripada *syllabus* pada peringkat awal.
 
-**Speaker 1:** Okay, okay, fair enough. Next. There are so many of these. The risk for candidates.
+**Haziq:** Cuma dalam sistem pendidikan ini, kita ada soalan mengenai tindakan Perdana Menteri.
 
-**Rafizi Ramli:** I was in the Dewan (Parliament) when the Marang MP (Hadi Awang) gave a speech. He claimed the risk for candidates was regarding safety—that they might be kidnapped or sabotaged, or have gold bars or drugs planted on them. We all know the real reason Perikatan Nasional hasn't named a Prime Ministerial candidate is because PAS doesn't agree with Tan Sri Muhyiddin Yassin. And I think Datuk Seri Hadi Awang would prefer Datuk Seri Hamzah Zainuddin to be the candidate. That’s what’s causing the turmoil in Bersatu right now.
+**Rafizi Ramli:** Oh, *I see*. Okey, jadi kita tangguh itu kepada bahagian kedua.
 
-While we can laugh at the excuses given, I think the public is capable of judging for themselves that Perikatan Nasional is in disarray, and this will continue to be a problem. I’m not sure if Datuk Seri Hadi Awang realizes that the Malaysian public isn't like the members of PAS. If he tells PAS members that an ant is a dragon, they will believe him. But the Malaysian public will consider the logic—whether it makes sense or what the real reason might be. It’s difficult for the people to be constantly guessing who the Prime Minister will be because they're afraid of being kidnapped or sabotaged.
+**Haziq:** Cuma YB ada kata nak sentuh tentang e-KYC secara spesifik?
 
-We can give him a rating for how hard he tried to avoid answering the real issue, which is that he no longer wants Tan Sri Muhyiddin Yassin as the candidate. If he had just been transparent—saying it’s still being discussed within the coalition—it wouldn’t be a source of amusement. But instead, it became a perfect segment for this podcast.
+**Rafizi Ramli:** Itu keputusan kerajaan. Asalkan sesuatu keputusan itu dibuat dengan mengambil kira secara keseluruhan. Ini masalah budaya dan masyarakat yang perlu ditangani secara holistik. Ia tak boleh melihat kepada komponen tertentu sahaja. Kalau e-KYC dilaksanakan dan kanak-kanak bawah 13 tahun tak boleh ada media sosial, bagaimana pula kalau umur dia 14 atau 15 tahun? Masalah perkara ini ialah kita tak tahu lagi apa hipotesis atau teorinya dan apakah data yang menyokong.
 
-**Speaker 1:** Right, YB. I think that's the last one. Oh wait, there's more. The scammer who changed the QR code on an obituary.
+Contohnya, jika kerajaan kata tindak balas kepada kejadian ini ialah memperkenalkan e-KYC supaya kanak-kanak bawah 13 tahun tidak ada akses media sosial, maksudnya hipotesisnya ialah kanak-kanak menjadi ganas kerana media sosial. Adakah kita sudah ada data untuk itu? *I don't think so.* Itu cara otak saya proses. Jika ada data, perkara itu perlu dikongsi supaya rakyat diyakinkan, bukan semata-mata kerajaan menyatakan *causation*-nya begitu. Kalau masih di peringkat hipotesis, kita perlukan lebih banyak perkara untuk menyokong dan mengesahkan teori itu. Buat masa sekarang, kita tak nampak lagi.
 
-**Rafizi Ramli:** That’s evil and criminal. Scammers are so persistent. They’ll try to scam anyone, but doing it in under 24 hours, taking advantage of someone’s tragedy to make money—that is truly evil. And our society is usually very generous, so many want to contribute. I don’t know how many were cheated by this scammer, but this is the worst kind of scam. If they catch this person, they should be thrown in prison for a long time. Compared to the 'toxin' scammer earlier, this one is much worse because it takes advantage of a family's grief. Fortunately, it was identified early and the public was alerted.
+**Haziq:** Baik YB. Sebelum kita ke isu seterusnya, ini soalan daripada saudara Farhan, *producer* kita. Timbalan Ketua Wanita Keadilan ada keluarkan kenyataan bahawa jangan salahkan Menteri Pendidikan untuk isu-isu sebegini. Apa komen YB secara *brief*?
 
-**Speaker 1:** If you want to help, give directly to the family. Don't use these QR codes. I’m scared to use QR codes now. Okay, YB. Can we rate these?
+**Rafizi Ramli:** Komen aku mana pernah *brief*. Well, *it comes with the job*. Perkara itu berlaku di sekolah. Kes di Melaka dan di Bandar Utama kedua-duanya berlaku dalam kawasan sekolah. Jadi memang segala yang berlaku di dalam kawasan sekolah adalah tanggungjawab Menteri Pendidikan dan Kementerian Pendidikan. Saya ingat rakyat berfikiran waras untuk membezakan kritikan mana yang sesuai dan yang melampau. Bukanlah tempat ahli politik untuk menagih simpati supaya jangan dikritik.
 
-**Rafizi Ramli:** Yes.
+Menjadi menteri itu contohnya macam saya dahulu. Namanya Menteri Ekonomi, tetapi Kementerian Ekonomi sebenarnya hanyalah perancang dan bukan pelaksana. Tidak ada satu perkara pun yang boleh dilaksanakan oleh Kementerian Ekonomi selain daripada merancang dan menyediakan dasar; orang lain yang kena buat. Harga barang contohnya, ia melibatkan Kementerian Pertanian, KPDN, MITI, dan Kementerian Kewangan untuk fiskal. Tapi saya tak bolehlah merayu kata jangan hentam saya pasal harga barang naik kerana kononnya tak ada kena-mengena dengan saya. Tak bolehlah begitu. *Trust the wisdom of the masses* kerana rakyat boleh menilai reaksi dan tindakan susulan kita. Itu lebih penting daripada bermain emosional simpati.
 
-**Speaker 1:** The winner this week is definitely the Israeli flag incident—it was a total slap in the face for PAS. 
+**Haziq:** Baik YB. Kita pergi ke topik politik sikit. Pembentukan Ikatan Prihatin Rakyat (IPR) oleh Tan Sri Muhyiddin Yassin. Adakah pembentukan IPR ini memberi impak terhadap landskap politik negara?
 
-**Rafizi Ramli:** PAS will think twice next time before commenting on other flags, as I’m sure this will be brought up repeatedly.
+**Rafizi Ramli:** Saya tak pasti masa dia pilih IPR ini, dia tak semak dulu ke? IPR ini ialah Inisiatif Pendapatan Rakyat. Salah satunya ialah mesin gedegang yang mereka selalu buat lawak itu. Selama ini dia perli buat lawak pasal IPR, tiba-tiba dia pilih nama parti dia IPR pula. "Parti Mesin Gedegang." Yang itu bagi saya, saya dah macam hilang akal sikit. Korang ni tak buat *due diligence* ke apa? Sepatutnya macam saya, sebelum pilih nama, saya Google dulu untuk tengok apa nama lain yang ada. Kalau ia mengundang sinisisme, saya tak pilihlah.
 
-**Speaker 1:** Right. That’s all for our segments today. There were six, quite a lot. Let’s move to the standing order. There isn't much of a government agenda this week, it’s mostly debates.
+Nampak sangat masa dia pilih Ikatan Prihatin Rakyat ini, penasihat Tan Sri Muhyiddin memang tak buat kerja. Lepas ini netizen penyokong PH akan buat lawak berkali-kali pasal IPR dia. Jika daripada nama pun dia dah tak buat kajian mendalam, yang lain itu mungkin lebih "koyak". *On the one hand*, ini perkara biasa yang dibuat oleh mana-mana pembangkang. Pembangkang akan kata kita mesti kumpulkan kekuatan untuk melawan kerajaan. Dari perspektif Tan Sri Muhyiddin dan PN, tujuannya ialah membina gabungan yang lebih besar untuk mencapai sokongan di luar kumpulan Melayu. Sebab itu dalam IPR ini ada parti yang dilihat bukan parti Melayu seperti Urumai (Prof. Ramasamy) dan PSM pun ada.
 
-**Rafizi Ramli:** This week and next week, we are focused on the Budget debate. 
+Tapi saya nak kupas beberapa perkara. Pertama, kenapa perlu ada gabungan atas gabungan? Kan sudah ada Perikatan Nasional (PN). Kalau perlu memperbesarkan, terimalah parti lain masuk PN. Tiba-tiba ada PN, tapi di atas atau di sebelahnya ada lagi yang lebih besar dengan 11 parti bernama IPR. Perkara itu caca merba kerana ia melambangkan keadaan di dalam PN sekarang. Besar kemungkinan PN tidak lagi berfungsi dari segi kesepakatan politik.
 
-**Speaker 1:** The policy debate.
+Kami pernah melaluinya bersama PAS masa Pakatan Rakyat. Selepas 2013, PAS mula buat onar. Tanda awal PAS bermasalah dalam sesuatu pakatan ialah apabila Presiden PAS, Datuk Seri Hadi Awang, jarang pergi mesyuarat. Kita dah boleh tahu dia dah tak selesa. Kita sedia maklum bahawa PAS tidak lagi bersetuju dengan Tan Sri Muhyiddin untuk menjadi calon Perdana Menteri. Malah, Menteri Besar Terengganu, Datuk Seri Samsuri, meletak jawatan daripada Bendahari Agung PN. Bila ada pertembungan PAS dengan Bersatu, dan Bersatu pula berpecah dua, PN jadi berterabur. Mungkin itu sebabnya Tan Sri Muhyiddin rasa perlu ada gabungan IPR.
 
-**Rafizi Ramli:** Yes, the policy debate for the Budget, in addition to the usual questions asked in the morning.
+Masalahnya, selain PAS dan Bersatu, parti lain dalam IPR ini tidak mempunyai pengaruh besar atau belum teruji dalam pilihan raya. Gerakan tidak mudah untuk menang, MUDA hanya menang satu kerusi atas sokongan PH sebelum ini, Putra tak pernah menang, dan Urumai pun belum teruji. Jika tujuannya untuk melebarkan sokongan bukan Melayu atau kumpulan bandar, saya tak yakin ia boleh memberi lonjakan kepada PAS dan Bersatu.
 
-**Speaker 1:** Right, YB. Let’s look at the first one. Perikatan Nasional’s Budget.
+Itu belum lagi masuk soal bagaimana reaksi PAS. Di mana rundingan kerusi nanti akan diputuskan? Di PN atau di IPR? Kalau diputuskan di IPR dan PAS tidak bersetuju, macam mana? Warasnya ialah besarkan Perikatan Nasional, tapi kita sedia maklum perkara itu susah kerana PN telah retak. Rekod PAS ialah apabila dia mula rasa kuat, dia mahu campur tangan dalam urusan parti rakan. Kami melaluinya di Selangor dahulu apabila PAS mahu menentukan siapa daripada PKR yang patut jadi begitu dan begini supaya mereka jadi "abang besar".
 
-**Rafizi Ramli:** This was from the Opposition Leader's speech, YB. If I may ask, what was your first impression when you heard his speech?
+Dalam mana-mana gabungan politik, bila ada konsep "abang besar", ia akan bermasalah. UMNO boleh jadi abang besar dulu kerana mereka tulang belakang kerajaan sejak merdeka, itu pun sekarang kucar-kacir dalam BN. PAS tidak pernah belajar. Dalam pergolakan Bersatu sekarang, jelas PAS berpihak kepada Datuk Seri Hamzah Zainuddin kerana pada pandangan PAS, Hamzah akan "cium tangan" mereka, manakala Muhyiddin tidak. Itu adalah racun kepada gabungan politik. IPR ini besar kemungkinan ialah reaksi kepada keadaan caca merba di dalam PN. Dia mahu *escape*. Masih belum terlambat untuk Tan Sri Muhyiddin menukar nama IPR ini sebelum ramai orang tahu.
 
-**Rafizi Ramli:** I wasn't in the Dewan for that part. I arrived a bit late because I was speaking myself. The Opposition Leader spoke in the morning, around 11:30 or 12:30. I spoke in the afternoon. There were several things we could analyze for the benefit of the people. Firstly, the pressure from the public for the opposition to present an alternative budget—after two years, they finally couldn't play dumb anymore. They tried to show they have an alternative budget.
+**Haziq:** Baik YB. Kita kembali kepada isu pendidikan. Berkenaan kenyataan Perdana Menteri bahawa ada masalah dalam sistem pendidikan kita.
 
-But, and there is a 'but', I and several colleagues were among the first to ever produce an alternative budget in Malaysian history. When we talk about an alternative budget, it isn't just a few announcements read out by the Opposition Leader. It’s a budget document! It must start with basic things: total revenue, total expenditure, development expenditure, and the state of government debt. Even if it doesn't need to be as detailed as a government document, those are the minimum requirements needed to call it an 'alternative budget.' You need revenue projections, expenditure projections, and debt projections. That is what determines the subsequent details, like how the spending will be allocated and the priority list. 
+**Rafizi Ramli:** Sebelum kes di Bandar Utama, Perdana Menteri kata ada masalah dalam sistem pendidikan dan perlu penekanan serius terhadap aspek nilai dan moral. Saya rasa tak ada orang yang tak bersetuju. Masalahnya, dia Perdana Menteri. Kumpulan pengundi penyokong PH sudah tidak puas hati sejak 2023 lagi kerana dilihat tidak ada pembaharuan atau kerangka jelas untuk menambah baik sistem pendidikan. Ramai yang merasakan prestasi Menteri Pendidikan tidak baik kerana tidak ada hala tuju.
 
-Only then can the public judge whether the opposition has the credibility to manage the economy, because everything needs to be costed. For example, if you promise RM6,000 to the people annually, you need to detail it. Is that for households or every individual? Then you can compare that cost against projected revenue. If the projected revenue is RM350 billion, and this proposal alone costs RM30 billion, plus other expenditures like salaries and debt servicing, then the public can assess the credibility. What they announced was just 'gula-gula' (political candy) that wasn't costed. 
+Perkara ini dibincangkan secara dalaman daripada awal. Jadi bila Datuk Seri Anwar cakap macam ini selepas tiga tahun, ia jadi kekok kerana orang akan bertanya: "*What have you done for the last three years?*" Saya ini mungkin dianggap "budak jahat" kerana pandangan saya dalam kabinet ialah kita tidak boleh membiarkan dasar pendidikan ditinggalkan bulat-bulat kepada kuasa Menteri Pendidikan dan Kementerian Pendidikan semata-mata.
 
-We haven't reached the level of some developed countries. In some countries with more mature democratic systems, they have an independent body that costs every announcement made by politicians. If the government or the opposition makes a proposal, this independent office calculates and provides an opinion on whether the math is correct. If it’s not, they point it out. In the UK, they have the Office for Budget Responsibility, which is under Parliament. We don't have that in Malaysia yet.
+Sebelum RMK-13, sebenarnya tidak ada satu majlis pun yang membenarkan kementerian lain campur tangan soal pendidikan. Isu pendidikan hanya boleh disuarakan di dalam Jemaah Menteri jika Menteri Pendidikan membentang kertas. Kalau dia tak bawa, menteri lain tak boleh bagi pandangan. Sebab itu saya bawa cadangan menubuhkan Majlis Pendidikan Negara supaya kementerian bertanggungjawab kepada satu majlis kebangsaan dan kita boleh beri pandangan yang tidak dikawal 100 peratus oleh kementerian itu sendiri.
+
+Awalnya Kementerian Pendidikan menolak bulat-bulat. Pada Februari 2025 yang lepas, saya berjumpa Perdana Menteri dan berkeras mengenai perkara ini. Akhirnya ia dimasukkan dalam RMK-13. Saya dimaklumkan Majlis Pendidikan Negara itu telah pun ditubuhkan dan mesyuarat pertama telah berlaku, cuma kita tak dengar apa-apa. Kita tak tahu siapa anggotanya. Ini menunjukkan kita perlukan menteri pendidikan yang lebih dinamik. Sektor pendidikan sudah dibuka untuk kalibrasi landasan, tapi tak dengar apa-apa pun. Jadi reaksi netizen agak sinikal; soalannya betul, tapi "kamulah Perdana Menteri."
+
+Kembali kepada soal nilai dan moral. Ada model yang berbeza-beza. Di Jepun, penekanan adalah pada nilai dan disiplin di peringkat awal. Di Scandinavia, keutamaan peringkat awal adalah untuk mencambahkan rasa seronok belajar. Kedua-dua kaedah ini menghasilkan mutu pelajar bertaraf dunia dalam kedudukan PISA, jauh lebih baik daripada Malaysia.
+
+Kita nak kena bincang panjang lebar lepas ini dan ia tak boleh jadi keputusan kerajaan semata-mata. Jika kita nak mengubah sistem, proses itu kena berlaku sekarang. Apa maksud "penekanan serius"? Saya bagi contoh yang mungkin tidak popular: Kandungan pengajaran berkaitan pendidikan Islam sekarang jauh lebih tinggi daripada masa saya di sekolah dahulu. Jumlah mata pelajaran dan guru berlatarbelakangkan pendidikan Islam jauh lebih tinggi. Dulu ustaz ustazah mungkin ada 5-6 orang, sekarang mungkin 30-40 peratus daripada jumlah guru.
+
+Maksudnya, jika pendekatannya hanya pada perkara zahir melalui kandungan mata pelajaran tapi tidak mengubah sikap, kita akan kembali ke *square one*. Ia mesti bersandarkan fakta dan data. Kita perlukan *program design* untuk *pilot test* sebelum diskalakan. Ia tidak boleh jadi retorik Perdana Menteri semata-mata sebagai reaksi kepada keadaan semasa. Orang nak tahu: "*If that's the case, how are we going to do it?*"
+
+Saya harap kementerian akan jadi lebih proaktif. Sekarang ini orang menuding jari kepada menteri kerana dia sangat reaktif—ada perkara baru jawab. Rakyat nak tengok pelan holistik. Contohnya, bagaimana kita menangani naratif ekonomi yang sulit dulu. Kita sebut pasal penyasaran subsidi, perubahan struktur, dan pelan peralihan tenaga secara terperinci. Kita tak nampak ini daripada Kementerian Pendidikan.
+
+Jadi bila Perdana Menteri bagi *general statement*, rakyat kata: "Kita tinggal dua tahun lagi ni, apa yang nak dibuat?" Saya harap Jemaah Menteri janganlah *shoot the messenger*. Apa yang saya sebut adalah pemikiran ramai rakyat Malaysia. Hikmahnya ialah soal pendidikan ini dibincangkan secara meluas. Penyokong kerajaan mungkin kata "kita telah banyak buat sekolah," tapi bagi rakyat, itu memang kerja kerajaan. Rakyat nak tengok masalah harian ditangani dengan rancangan besar yang diterjemahkan kepada tindakan kecil.
+
+**Haziq:** Baik YB. Satu lagi isu daripada ucapan Perdana Menteri secara verbatim berkaitan *blanket* subsidi untuk RON95. Dia kata: "Cadangan awal naik harga kemudian bagi PADU. Saya kata kalau tak belajar dari pengalaman elektrik tu tak cerdiklah. Orang tak boleh terima kenaikan harga dalam keadaan gaji tak naik." Boleh YB komen?
+
+**Rafizi Ramli:** Saya ingat ini Perdana Menteri dan Menteri Kewangan menjawab secara tidak rasmi. Ramai pemegang taruh ekonomi termasuk institusi dunia mengkritik pendekatan "Budi 95" kerana ia bukan penyasaran semula; ia sebenarnya agak populis. Kerajaan telah beralih daripada keputusan asal kepada mengehadkan subsidi.
+
+Cuma saya rasa tak manislah PM sebut macam ini. Semasa penyasaran subsidi elektrik berlaku, itu adalah penyasaran semula yang pertama. Yang paling banyak mencanangkannya ialah Perdana Menteri sendiri. Beliau mengangkat cara itu sebagai bagus—supaya yang "maha kaya" bayar dan rakyat dilindungi. Masa itu tidak timbul soal kritikan. Kita dapat pandangan positif daripada pemegang taruh bahawa pentadbiran ini akan melakukan perkara yang betul, bukan populis. Penjimatan subsidi elektrik itu paling tinggi berbanding diesel dan petrol.
+
+Bila PM tiba-tiba pusing dan kata "belajar dari kesilapan itu," ia memberi gambaran kerajaan bertukar menjadi populis sedangkan yang diwawarkan ialah reformasi. Saya telah letak garis masa bahawa penyasaran RON95 mesti berlaku selewat-lewatnya Jun 2024, tapi Kementerian Kewangan secara berterusan tidak bersetuju. Bila dah nak dekat pilihan raya, mula keluar cerita populis.
+
+Penganalisa akan merasakan ini *flip-flop*. Lebih berbahaya bila Datuk Seri Anwar seolah-olah mengatakan penyasaran subsidi elektrik itu satu kesilapan. "Bodohlah saya kalau saya mengulangi kesilapan itu." Jika itu kesilapan, maka sistem elektrik yang kita ada sekarang kena tukarlah kerana ia sudah jadi "kesilapan". Saya rasa perkara itu tidak diperhalusi; mungkin dia emosi masa itu teringat dekat saya.
+
+Jangan campurkan emosi dengan dasar. Kalau dasar itu baik, katakan ia baik. Jika mahu buat Budi 95 sebab dekat dengan pilihan raya, cakap sajalah begitu. Jangan depan cakap lain, belakang cakap lain. Zaman sekarang orang akan komen, dan ia akan menimbulkan sinisisme. Ia tidak membantu naratif ekonomi di kalangan mereka yang berpengetahuan.
+
+**Haziq:** Panas, YB. Kita turunkan suhu sikit dengan satu kenyataan daripada Syahir Sulaiman. Dia kata YB ikut ucapan Tok Guru yang bunyinya sedap di warung kopi, tapi formulanya satu pun tidak menjadi. Komen YB?
+
+**Rafizi Ramli:** Ini kalau buat karangan untuk UPSR, markah dia tak cantik kerana tidak bersambung. Sepatutnya ada objek dan subjek dalam satu ayat. Mula-mula dia kata bunyi sedap di kedai kopi, kemudian dia kata kutip di mana, apa kena-mengena dengan formula tak jadi? Yang mana subjek, yang mana objek? Kalau guru bahasa tengok ini, memang ada masalah dalam struktur ayat. 
+
+Tapi saya rasa mungkin dia melenting sebab dia sendiri yang menulis ucapan itu. Sebenarnya saya tak perlu jawab panjang kerana setiap kali Ahli Parlimen Bachok cuba buat komen macam ini, netizen beramai-ramai mengungkapkan pantun. Saya tengok netizen dah 'beraya' menghentam dia. Cuma, kita tahulah ini satu-satunya peluru yang dia ada terhadap saya—cuba mengulangi "formulanya tak menjadi." Ia mungkin berkesan dalam kelompok PAS yang mengulanginya, tapi sebagai orang politik, kita kena berhati-hati supaya tidak duduk dalam kepompong sendiri. Pilihan raya dan rakyat bukan ditentukan oleh penyokong parti masing-masing semata-mata. Idea politik hanya ada *traction* kalau boleh mempengaruhi orang biasa ataupun pengundi atas pagar. Pengundi atas pagar bukannya tidak boleh meneliti fakta-fakta kalau nak menilai soal formula itu menjadi atau tidak.
+
+Soal formula yang didakwa tak jadi yang diulang oleh Ahli Parlimen Bachok dan pembangkang ini—kalau saya, saya ada maruahlah. Saya takkan beria-ia macam ini sebab formula yang dikatakan tak jadi itulah yang menjadi bahan kempen politik mereka mati-matian dulu pada tahun 2010 dan 2013, seperti formula PTPTN di peringkat Pakatan Rakyat. Malah, sekarang dia ulang formula tidak menjadi, dia tak sedar dia yang terlebih sudu daripada kuah. PAS yang mengambil formula PTPTN itu dan menjanjikan pendidikan percuma dalam PRU 2018. 
+
+Rakyat sedia maklum isu PTPTN ini dikupas tahun 2010-2011. Pada masa itu hutang PTPTN hanyalah RM20 bilion, jadi ada ruang untuk kerajaan campur tangan sama ada melalui *refinancing* atau mengubah keseluruhan konsep kerana kedudukan fiskal negara masih ada ruang. Sekarang ini PTPTN dah jadi RM41 bilion. Sebab itu kita sebut 15 tahun lepas, kalau tidak dilakukan sesuatu, hutang ini akan mengheret negara. Kerajaan Datuk Seri Najib masa itu hanya bersifat *business as usual*. Sekarang, Bachok mengulang perkara yang sama. Dia 'menciplak' benda yang sudah ketinggalan zaman. Ibaratnya, orang sekarang sudah bermain permainan video yang canggih, dia masih lagi bermain *Tetris*. 
+
+Pada masa yang sama, mereka yang boleh menilai secara keseluruhan boleh berlaku adil bahawa ada beberapa perkara besar yang dimulakan di Kementerian Ekonomi sekarang membawa laba kepada kerajaan. Perdana Menteri, Menteri Kewangan Kedua, dan Menteri MITI sekarang selalu muncul soal JS-SEZ. JS-SEZ itu ialah buah fikiran daripada Kementerian Ekonomi, dan yang mengusahakan daripada A ke Z sehingga berjaya menandatangani perjanjian ialah kementerian kami dalam tempoh yang sangat singkat. Pelaburan demi pelaburan disebut. Paling kurang, hasil buah tangan dan usaha kami di Kementerian Ekonomi berjaya membawa puluh-puluh bilion pelaburan kepada negeri Johor dan negara setiap tahun. 
+
+PAS sudah berpuluh tahun jadi kerajaan Negeri Kelantan, apa yang kamu bawa? Kamu sebagai "Shahirnomics," pakar ekonomi paling hebat—satu-satunya "nomics" yang ada selepas "Najibnomics"—apa sebenarnya yang kamu bawa untuk empat buah negeri yang PAS tadbir itu? Sumbangan di Kelantan tiada, di Terengganu pun tiada hasilnya. Saya cadangkan lebih baik Ahli Parlimen Bachok bangunkan pantun yang lebih baik daripada gunakan perkara-perkara macam ini kerana dia akan diperlekehkan. Kasihanilah diri sendiri kalau berterusan memberi 'bola lambung' kepada netizen untuk diperlekehkan.
+
+**Haziq:** Baik YB, cukup daripada Shahir Sulaiman. Kita ada satu lagi isu yang agak keras; berkaitan pecat dan gantung dalam Bersatu. Saya tidak tahu kalau YB akan marah atau tidak sebab ini agak 'gosip', cuma orang nak tahu pandangan atau *observation* YB. Adakah benda yang berlaku ini disebabkan ada 'tangan-tangan ghaib' dari luar Bersatu ataupun memang masalah dalaman mereka sendiri?
+
+**Rafizi Ramli:** Saya tidak tahu. Cuma kebetulan saya di Parlimen hari itu, ada beberapa pimpinan Bersatu daripada Negeri Sembilan yang mahu bergambar dengan saya. Saya pun tak faham orang Bersatu nak ambil gambar dengan saya, tapi saya ambillah. Saya tanya mereka tentang tuduhan Wan Faisal menjual kerusi dalam pilihan raya lepas. Macam mana nak jual kerusi? Akhirnya keputusan kerusi mana nak ditandingi adalah keputusan presiden parti, bukannya individu. 
+
+Jawapan yang diberikan pimpinan Bersatu Negeri Sembilan itu ialah semua itu hanya alasan. Ini sebenarnya berkaitan dengan persaingan antara Kumpulan A dan Kumpulan B di dalam Bersatu. Saya ingat dua orang ini (Wan Saiful dan Wan Faisal) ialah 'panglima' Kumpulan B yang perlu dijadikan pengajaran. Saya tidak mahu komen panjang, lagipun ahli politik memang melalui fasa turun naik dan tikam-menikam. 
+
+Ironinya, kedua-dua orang ini adalah anggota asal Bersatu. Wan Saiful menyertai sejak ditubuhkan tahun 2016. Saya ingat masa saya berceramah atas trak di Kedah tahun 2017-2018, Wan Saiful sudah menjadi calon Ahli Parlimen Pendang. Ironinya, Bersatu berkecamuk dan yang tertendang ini ialah mereka yang asal di dalam parti, manakala kucar-kacir itu sebahagian besarnya disebabkan oleh mereka yang melompat masuk kemudian, seperti Hamzah Zainuddin dan Azmin Ali. Itu asam garam dalam partilah. Orang mungkin kata benda yang sama boleh berlaku dalam PKR. 
+
+Saya tak pasti apa tindakan mereka seterusnya. Kedua-duanya menyebut akan setia dengan Bersatu, tapi dalam tempoh 10 tahun lepas, Bersatu ini banyak gelombang turun naik sesama mereka. Kedua-duanya penyokong utama Tun Mahathir dulu, tapi bila Tun Mahathir 'kena tikam' dalam Bersatu, mereka *swing* kepada Tan Sri Muhyiddin. Sama juga macam Wan Faisal; dia adalah timbalan kepada Syed Saddiq, tapi tiba-tiba dia 'menikam' Syed Saddiq, dan sekarang sampai masa dia 'menikam' Tan Sri Muhyiddin pula. Jadi, bila mereka kata akan kekal dengan Bersatu, kita kena *take it with a pinch of salt* [ambil dengan rasa ragu-ragu]. 
+
+Kalau tanya saya sebagai komentator politik, apa langkah yang paling sesuai untuk mereka? Masuk PKR lah. Kerana Wan Saiful ada kes, kalau masuk PKR mungkin boleh runding? Wan Faisal pula, mungkin PKR kekurangan pimpinan muda yang nampak profesional memandangkan kami semua sudah tiada (dalam sayap pemuda), jadi ada *vacuum* di situ. Wan Faisal boleh menggantikan tempat itu dan mungkin bila bergandingan dengan Kamil Munim, mereka nampak cocok berdua. [Rafizi ketawa]
+
+**Haziq:** Okey YB, habis itu sahaja benda yang keras minggu ini. Kita pergi ke segmen seterusnya. Sebelum ini kita banyak bincang pasal *Renewable Energy* (RE). Kali ini ada sesuatu yang lain sedikit mengenai Nobel Kimia—*Hermione's handbag*. Hermione ini watak dalam Harry Potter yang bawa beg kecil tapi di dalamnya ada macam-macam barang. Apa kepentingan teknologi atau penemuan ini kepada kehidupan kita, YB?
+
+**Rafizi Ramli:** Sebelum sampai soal MOFs (*Metal-Organic Frameworks*) ini, saya rasa kita di Malaysia tidak cukup meraikan bahawa pemenang Hadiah Nobel Kimia tahun ini ialah seorang pelarian Palestin bernama Omar Yaghi. Dia dilahirkan di kem pelarian Jordan, kemudian pindah ke Amerika Syarikat dan jadi profesor di Berkeley. Saya tak pasti sama ada kita pernah ada orang Islam yang menang Nobel Kimia sebelum ini. 
+
+Orang Palestin ini ada 6 juta saja di dunia dan mereka bertebaran dalam segala kesusahan, tapi mereka boleh melahirkan pemenang Nobel. Berapa orang Melayu Islam di Malaysia? 17-18 juta, tapi kita tak pernah menang. Kita tiga kali ganda jumlahnya. Itu sepatutnya menyentuh jiwa kitalah; bagaimana seorang pelarian Palestin boleh menang anugerah kimia sedangkan kita yang kaya, hidup senang, dan ada pendidikan baik, masih belum ada yang menang Nobel.
+
+Mengenai MOFs ini, pendengar boleh pergi Google. Ia mungkin tidak nampak hebat di mata kasar sebab ia berada pada peringkat *atomic structure*. Sainsnya ialah jika polimer melalui proses tertentu, struktur polimer itu boleh dirancang supaya ruang-ruang di antara atom boleh digunakan untuk mengisi atom-atom lain. Itulah yang disebut sebagai *Hermione's bag*. Kita ingat pada peringkat *atomic level* itu sudah padat rapat, rupanya ada banyak ruang. Penyelidikan membuktikan ruang yang ada itu sebenarnya sama luas dengan padang bola sepak. 
+
+Apabila ruang-ruang itu wujud (*porous*), ia boleh digunakan untuk memerangkap karbon. Bahan masa depan seperti polimer, jika dibuat daripada MOFs, boleh memerangkap karbon. Di Malaysia, selepas ini orang mungkin akan mempersoalkan CCUS (*Carbon Capture, Utilization, and Storage*). Daripada memerangkap karbon dan simpan dalam *abandoned wells* minyak dan gas bawah tanah, lebih baik gunakan MOFs ini. Jika penyelidikan ini berkembang, kita akan ada kompound yang boleh memerangkap karbon dan mengubah banyak perkara. Banyak negara memerlukan perancangan mahal untuk sasaran sifar karbon. Penemuan ruang di peringkat *atomic level* untuk memerangkap kompound lain ini adalah perkara yang mungkin satu ketika nanti membawa perubahan besar. Kita tumpang gembira pemenangnya ialah seorang Palestin, yang memberi makna lebih besar di sebalik tragedi yang berlaku di Palestin sekarang.
+
+**Haziq:** Baik YB, terima kasih atas perkongsian MOF. Kita ke segmen terakhir, "Segmen Banyak Tanya" atau *Menteri Question Time*. Soalan pertama daripada Fendi: Boleh tak kerajaan perkenalkan semula petrol RON92 macam dahulu sebab kebanyakan kereta boleh isi minimum RON91 dan harganya lebih murah?
+
+**Rafizi Ramli:** Pertimbangan mengenai RON92 atau 91 ini bukan soal harga semata-mata. Di peringkat antarabangsa dan ekonomi, walaupun kos yang dibayar rakyat lebih murah, kos kepada negara adalah lebih tinggi kerana kita tertakluk kepada peraturan karbon antarabangsa. Di masa hadapan, akan ada *cross-border carbon credit* dan mana-mana negara atau syarikat yang menghasilkan banyak gas rumah hijau akan menanggung kos ekonomi yang tinggi.
+
+Keduanya, kecenderungan dunia sekarang adalah kepada tenaga yang lebih bersih untuk pengangkutan, iaitu elektrik (EV). Ada perkara yang dibincangkan 15 tahun lepas tidak lagi sesuai sekarang kerana *megatrend* dunia telah berubah. Tumpuan negara ialah menyediakan kenderaan elektrik semurah mungkin supaya kita tidak lagi bergantung kepada petrol. EV yang lebih murah bukan sahaja patut kepada komitmen hijau, tetapi membebaskan kita daripada pergantungan import minyak memandangkan sumber minyak kita semakin berkurangan. Kita ada sumber elektrik lain yang boleh dibangunkan seperti solar, geoterma, dan hidro yang tidak bergantung kepada import. Jadi, saya tidak bersetuju untuk kembali ke belakang menggunakan RON92/91 hanya untuk menurunkan harga minyak.
+
+**Haziq:** Baik YB, jelas. Soalan seterusnya daripada Hakam Hafiz: Kenapa Malaysia tidak mengamalkan dasar memperkasakan pertahanan negara? Dalam tempoh tujuh tahun, Malaysia hanya peruntukkan purata RM17 bilion setahun berbanding Singapura RM65 bilion. Tahun ini sahaja Singapura memperuntukkan RM71 bilion. Komen YB?
+
+**Rafizi Ramli:** Wang. Masalahnya ialah wang. Sebenarnya ada peningkatan peruntukan ketara kepada Kementerian Pertahanan dalam dua tiga tahun lepas sepanjang saya jadi Menteri Ekonomi. Tapi kita perlu melaksanakannya dalam keadaan kekangan fiskal. Mengikut *asset upgrading plan*, kita ada aset tentera darat, laut, dan udara. Pada 2023-2024, kita memang beri kelebihan kepada aset tentera laut, terutamanya untuk menyiapkan LCS (*Littoral Combat Ship*). 
+
+Malangnya, apabila projek LCS tergelincir, wang tambahan yang diberikan itu sepatutnya boleh pergi kepada aset-aset lain. Oleh sebab itu, walaupun peruntukan pertahanan nampak meningkat, aset tentera udara dan darat terpaksa menunggu sedikit lama kerana kita perlu 'menutup lubang' di tentera laut dahulu. Sebab itu apabila saya bercakap tentang kedudukan fiskal dan kewangan negara, ia berkait dengan semua perkara ini. Kita mesti tumpukan cara mengurangkan hutang dan belanja bayaran khidmat hutang. Bayaran khidmat hutang kita RM58 bilion; kalau kita boleh jimat RM3-4 bilion setahun, wang itu boleh digunakan untuk menambah aset pertahanan. Buat masa sekarang, kekangan itu memang masih ada.
+
+**Haziq:** Baik YB. Soalan terakhir daripada Martin Zainal: Dengan Trump dijangka hadir ke Sidang Kemuncak ASEAN di Kuala Lumpur, bagaimana Malaysia mengimbangkan diplomasi berprinsip seperti isu Gaza dan hak asasi dengan realiti geopolitik, termasuk kontroversi jika perlu menjemput Trump?
+
+**Rafizi Ramli:** Isu ini bukan dibangkitkan pembangkang secara umum, tapi dibangkitkan oleh Wan Faisal. Kita kena ingat Malaysia adalah Pengerusi ASEAN tahun depan, tetapi ASEAN ialah badan konsensus yang diplomasinya sangat rumit. Bukannya Malaysia boleh buat keputusan 100 peratus ikut kehendak sendiri. Pengalaman saya di kementerian, untuk bersetuju dua tiga perenggan dalam rangka kerjasama ASEAN pun boleh mengambil masa berbulan-bulan. Jika satu negara kata tidak setuju, maka tiada kata putus.
+
+Dalam konteks Trump, keputusan itu bukan keputusan kerajaan Malaysia semata-mata. Malaysia adalah pengerusi dan tuan rumah, tetapi keputusan itu dibuat bagi pihak ASEAN. Apa-apa pendirian strategi yang ASEAN mahu bawa mestilah mendapat konsensus semua negara anggota. Dulu masyarakat antarabangsa menganggap ASEAN ini sekadar *talk shop* kerana proses konsensusnya lambat. Tapi sekarang, ASEAN menjadi lebih kukuh dan dipandang dunia kerana rantau ini bakal menjadi blok kuasa ekonomi nombor empat dunia dalam tempoh sepuluh tahun. Walau bagaimanapun, doktrin tidak campur tangan dan doktrin konsensus tetap diamalkan. Jadi, sementara ada titik pertemuan dasar mengenai Gaza, hak asasi, dan Myanmar di kalangan negara ASEAN, ia tidak bermakna perkara itu boleh diputuskan mengikut liuk-lentok politik atau populisme di Malaysia sahaja.
+
+**Haziq:** Baik YB, jelas. Dengan itu berakhirlah episod kali ini. Kita berjumpa lagi minggu depan. Saya ambil kesempatan mengucapkan Selamat Hari Deepavali kepada semua. Jangan lupa terus sokong dan kongsi podcast "Yang Berhenti Menteri." Selamat malam.
