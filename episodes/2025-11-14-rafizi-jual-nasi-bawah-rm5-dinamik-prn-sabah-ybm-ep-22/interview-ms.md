@@ -9,174 +9,129 @@ duration: 2h 52m
 view_count: 114359
 hosts:
 - Rafizi Ramli
-guests: []
+guests:
+- Speaker 2
+- Webby
 topics:
-- National Monument (Tugu Negara) Parliamentary Debate
-- Kesum and Fleximart Social Enterprise Operations
-- Racial Stereotypes and Corruption (Normal Distribution Concept)
-- Terengganu ADUN Vehicle Loan Scheme
-- Tengku Zafrul's Political Transition and PKR Strategy
-- Kedah ADUN's Statement on Sabah
-- Progressive Wage Policy (Dasar Gaji Progresif) and SMEs
-- Sabah State Election (PRN) and 40% Federal Revenue Claim
-- Government Ministry Spending on Social Media Influencers
-summary: In Episode 22 of Podcast Yang Berhenti Menteri, host Rafizi Ramli addresses
-  recent political, economic, and social issues in Malaysia. He discusses parliamentary
-  debates regarding the Tugu Negara statue, refutes political trolling over photos
-  of him mopping his social enterprise shop, explains statistical normal distribution
-  in countering racial stereotypes about corruption, and critiques Terengganu's state
-  vehicle loan scheme for ADUNs. He also shares insights on Tengku Zafrul's entry
-  into PKR, the business model behind Kesum and Fleximart, the implementation of the
-  Progressive Wage Policy for SMEs, PKR's strategy for the Sabah State Election, and
-  government spending on social media influencers.
+- Tugu Negara statue architecture
+- Social media criticism of economic conditions
+- Racial stereotyping and statistical normal distribution
+- Terengganu state assembly vehicle loan scheme
+summary: In the 22nd episode of the 'Berhenti Menteri' podcast, Rafizi Ramli and his
+  co-host discuss various trending political and social issues, including comments
+  on Tugu Negara's architecture, social media criticism regarding Rafizi mopping his
+  cafe floor, racial stereotyping in corruption, and the controversy surrounding a
+  vehicle loan scheme for Terengganu state assembly members.
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
 # Interview (Bahasa Melayu)
 
-**Co-Host 1:** Podcast Yang Berhenti Menteri, Episod ke-22. Assalamu’alaikum dan selamat sejahtera. Selamat datang kepada semua penonton baharu. Jangan lupa untuk ikuti media sosial Mohd Rafizi Ramli dan Spotify baharu kita yang sudah mencecah hampir 600 pengikut.
+**Rafizi Ramli:** Podcast "Berhenti Menteri" episod ke-22. Assalamualaikum dan Selamat Sejahtera. Selamat datang.
 
-**Rafizi Ramli:** Masih sedikit itu. Gaya bercakap macam tak sampai sebulan, buat malu saja.
+**Speaker 2:** Selamat.
 
-**Co-Host 1:** Baik, kita tarik balik. Salam kepada penonton kita, antaranya Jasni di Alor Setar dan Ramanan di Shah Alam. Pengarah kita ada bersama?
+**Rafizi Ramli:** Kepada ramai-ramai yang baru menonton, jangan lupa untuk mengikuti sosial media Muhammad Rafizi Ramli dan juga Spotify baru kita yang tak sampai sebulan, kita dah ada dekat 600 pengikut.
 
-**Pengarah:** Ada, ada.
+**Speaker 2:** Sikitlah tu.
 
-**Co-Host 1:** Baik, YB. Mari kita terus ke segmen pertama seperti biasa.
+**Rafizi Ramli:** Sikit. Tapi mungkin tak ramai yang berjoging.
 
-**Rafizi Ramli:** Minggu ini kita cuba selesaikan dengan cepat. Saya agak penat sebab sudah dua minggu menguruskan kedai. Lagipun minggu lepas tidak banyak isu besar. Mungkin ramai yang keterlaluan bertindak, tetapi isu berskala besar atau berimpak tinggi tidak banyak.
+**Speaker 2:** Gaya cakap, tak sampai sebulan. Itu buat malu.
 
-**Co-Host 1:** Baik, YB. Perkara pertama: "Hidung Tugu Negara terlampau mancung." YB ada di Dewan Rakyat semasa perbahasan ini?
+**Rafizi Ramli:** Okey, tarik balik. Kepada ramai-ramai tu, Jasni di Alor Setar, Ramannan di Shah Alam.
 
-**Rafizi Ramli:** Saya tiada di situ. Ini perbahasan Ahli Parlimen Sabak Bernam. Dia menyebut tugu peringatan menampilkan patung gangsa askar yang menyerupai masyarakat Eropah. Kalau dia tidak beritahu, saya pun tidak perasan. Tapi adakah dia bermaksud hidung orang Melayu dan rakyat Malaysia tidak mancung?
+**Speaker 2:** Ya, ya.
 
-**Co-Host 1:** Mesej implisitnya mungkin begitu.
+**Rafizi Ramli:** Saya tengok komen.
 
-**Rafizi Ramli:** Saya rasa reaksi rakyat Malaysia sama sahaja. Banyak lagi perkara lain yang sepatutnya dibawa ke Parlimen. Kadang-kadang saya kurang faham dengan sesetengah Ahli Parlimen. Masa untuk mengambil bahagian dalam perbahasan itu sangat pendek dan laluannya sukar kerana berpuluh-puluh orang berada dalam senarai menunggu. Semasa penggal pertama saya dahulu, ada kalanya saya berucap jam 11 malam, malah pernah jam 2 pagi. Peluang bercakap sangat terhad, hanya ada dua atau tiga minit. Jadi, saya tidak faham bagaimana dalam tempoh sesingkat itu, perkara utama yang berada di fikiran mereka ialah hidung patung gangsa yang terlampau mancung. Sekurang-kurangnya, bercakaplah berkenaan isu penduduk di kawasan mereka.
+**Speaker 2:** Okey.
 
-**Co-Host 1:** Mungkin beliau baru selesai berjoging di situ semalam?
+**Rafizi Ramli:** Baik, Webby. Jadi sebelum itu.
 
-**Rafizi Ramli:** Di situ susah mahu berjoging. Nampak sangat kamu bukan seorang jurujoging. Di kawasan itu berbukit-bukit. Kalau aktiviti kembara berjalan kaki sesuai di situ, tetapi untuk berjoging sebaik-baiknya di trek yang rata.
+**Speaker 2:** Eh, kita ada pengarah kita sekali. Hidup tak?
 
-**Co-Host 1:** Baik YB. Seterusnya: "Tauke kedai mop lantai, ini dek kerana ekonomi tak menentu."
+**Rafizi Ramli:** Ya.
 
-**Rafizi Ramli:** Ini daripada hantaran Facebook Rosziah Ismail. Siapa yang mengambil gambar ini sebenarnya?
+**Speaker 2:** Ah hidup. Okey baik. Kita tengok segmen yang pertama macam biasa, Webby.
 
-**Co-Host 1:** Adakah YB betul-betul membersihkan lantai, atau sekadar gimik politik?
+**Speaker 2:** Minggu ni kita cepat kut. Saya penat sebab saya dah dua minggu jaga kedai ni, orang penatlah. So, kita akan buat cepat, cepat, cepat.
 
-**Rafizi Ramli:** Tidak, saya betul-betul memop lantai. Kedai itu diserahkan kepada kami tiga hari sebelum tarikh pelancaran. Kalau perniagaan biasa, mungkin mereka tunggu sebulan untuk persediaan sebelum dilancarkan. Tetapi ini adalah sebuah perusahaan sosial. Jika perlu membayar sewa sebulan tanpa sebarang hasil, perniagaan akan terbeban. Sebab itu saya tetapkan jadual yang sangat ketat.
+**Rafizi Ramli:** Lagipun minggu lepas pun tak banyak isu kan. Yang beria mungkin ramailah orang beria, tapi yang besar tu mungkin tak banyaklah kan.
 
-Barang dan peralatan dapur sampai dua hari sebelum pelancaran. Gambar itu diambil sehari sebelum pembukaan. Semasa keadaan kelam-kabut di mana semua orang tumpu di bahagian dapur, tiada siapa yang membersihkan lantai. Jadi, saya diarah oleh isteri saya untuk memop lantai.
+**Speaker 2:** Okey.
 
-**Co-Host 1:** Ada sesetengah pihak yang membuat perbandingan antara YB dengan Azmin Ali.
+**Rafizi Ramli:** Baik, Webby. Kita tengok yang pertama kita ada apa? "Hidung Tugu Negara terlampau mancung."
 
-**Rafizi Ramli:** Saya tidak pasti, tetapi kedudukan Azmin berbeza, makam beliau lebih tinggi di Masjidil Haram. Sebenarnya semasa keadaan panik itu, saya tidak perasan ada orang mengambil gambar. Kami perlu menyiapkan kedai dalam tempoh kurang daripada 24 jam. Tetapi biasalah, tentera pencela kebangsaan ini rekodnya memang begitu. Mereka dari dahulu suka mencela saya kerana kempen saya menentang Najib Razak. Ini saki-baki pengikut *wala’i* sama ada masih berbayar atau tidak, saya tidak pasti.
+**Webby:** Ada dalam dewan waktu ni?
 
-Konotasi "tauke kedai mop lantai kerana ekonomi tidak menentu" ini menunjukkan ada perkara yang kurang tepat dalam pemikiran sesetengah pihak. Apabila mereka menganggap pemilik kedai memop lantai sendiri hanya berlaku apabila ekonomi meleset, itu andaian yang silap. Pemilik perniagaan yang sebenar memang akan turun padang membuat kerja sendiri dari peringkat awal supaya pekerja tidak boleh mengelirukan mereka. Jika kita membaca sejarah perniagaan besar, pengasas asal memang melakukan pelbagai kerja sendiri. Menyangka pemilik kedai memop lantai sebagai tanda ekonomi tidak menentu adalah satu pandangan yang dangkal.
+**Rafizi Ramli:** Tak ada, ahli parlimen sebab perbahasanlah.
 
-**Co-Host 2:** Gambar tersebut diambil sebelum kedai dibuka?
+**Webby:** Ya, ya, ya.
 
-**Rafizi Ramli:** Ya, sekitar jam 5 atau 6 petang sehari sebelum pembukaan. Waktu itu agak cemas kerana kami perlu menyediakan bahan mentah dan memasang perkakas untuk hari esoknya. Pekerja berkata mereka mahu menyelesaikan urusan dapur dahulu sebelum memop lantai, tetapi jika ditunggu, mungkin siap jam 3 atau 4 pagi. Keesokan harinya kedai sudah dibuka, sedangkan tapak tersebut baharu selesai kerja pengubahsuaian beberapa hari sebelumnya. Jadi, saya terus membersihkan lantai. Malah semalam pun saya ada mencuci ayam kerana sambutan pelanggan terlalu ramai dan bekalan ayam terputus lebih awal daripada jangkaan.
+**Rafizi Ramli:** Monumen kan, menampilkan patung gangsa askar yang menyerupai masyarakat Eropah. Kalau dia tak beritahu, saya tak perasan. Pun beria ke? Nasib dia beritahu. Tapi adakah dia kata hidung orang Melayu dan orang Malaysia tak mancung? Itulah mesej yang tersirat ini. Hmm. Banyak-banyak benda lagilah, saya ingat rakyat Malaysia reaksi sama, banyak lagi benda lain yang nak dibawa ke parlimen. Kadang-kadang ahli parlimen pun saya tak faham jugalah kan. Maksudnya, masa dia berbahas tu, masa pendek tahu. Orang selalu tanyalah macam saya. Saya jarang mencelah ataupun bercakap ke dalam parlimen kecuali dalam perkara-perkara yang bagi saya ialah rang undang-undang yang cukup pentinglah. Sebabnya ialah susah nak dapat peluang bercakap tu. Barisan menunggu dia berpuluh-puluh orang. Dulu masa penggal pertama saya kadang-kadang bercakap pukul 11:00 malam, dua pagi pun pernah kan? Jadi dahlah susah nak dapat peluang bercakap. Kemudian masa yang ada 2 minit, 5 minit kan? Jadi kadang-kadang saya tak faham ahli parlimen dengan peluang yang cukup terhad itu, perkara dalam kepala dia ialah patung gangsa hidung terlalu mancung. Paling kurang kalau dia bercakap pasal penduduk kawasan dia pun tak apalah kan.
 
-**Co-Host 1:** Seterusnya YB: "Bahana stereotaip rasuah ikut kaum." YB ada perasan isu ini?
+**Speaker 2:** Hmm.
 
-**Rafizi Ramli:** Berkenaan kenyataan yang membandingkan pemandu Malaysia dengan pemandu Singapura yang ditahan kerana rasuah, mendakwa perbezaan tadbir urus antara "Jenis C" dan "Jenis M"?
+**Rafizi Ramli:** Okey baik. Mungkin dia baru berjoging kat situ kut semalam.
 
-**Co-Host 1:** Ya, laporan portal media Singapura menyenaraikan nama pemandu dan pegawai polis yang terlibat.
+**Speaker 2:** Situ susah berjoging.
 
-**Rafizi Ramli:** Adakah pemandu Malaysia yang memberi rasuah itu semuanya Melayu dan pegawai polis itu Melayu?
+**Rafizi Ramli:** Oh, susah berjoging? Nampak sangat tak pernah berjoging, bukan pelari joging lah kan? Kat situ susah berjoging kan? Dia kalau boleh berjoging sikit pun dekat taman, dia panggil apa kat situ? Taman Tasik Perdana. Itu pun payah, sebab dia agak berbukit semuanya. Kalau mendaki kat dalam tu okey. Berjoging ni sebaiknya laluan rata lah, lagi mudah kan? So tak tahulah dalam ahli parlimen lain berjoging kat situ kan.
 
-**Co-Host 1:** Ada melibatkan pelbagai kaum.
+**Speaker 2:** Okey, baik, Webby. Kita tengok yang seterusnya. "Tauke kedai mop lantai. Indikator ekonomi tak menentu."
 
-**Rafizi Ramli:** Stereotaip sebegini sering berlaku. Dari sudut matematik, semasa di sekolah kita belajar taburan normal atau keluk loceng. Ini sebenarnya satu hukum alam. Dalam mana-mana sampel atau populasi masyarakat, taburan akan mengikut keluk loceng tersebut. Ada kelompok kecil di hujung kiri, kelompok majoriti di tengah, dan kelompok kecil di hujung kanan.
+**Rafizi Ramli:** Ini siapa yang ambil? Oh, Roziah Ismail, Facebook. Kantoi yang ambil. Webby ni betul-betul mop ke atau gimik politik ya? Tak, tak betul-betul mop, sebab kita dapat kedai ni siap dalam tiga hari sebelum nak lancar. Boleh saja nak buat macam bisnes lain, tunggu sebulan nak sedia lepas tu baru nak lancar. Tapi ni perusahaan sosial. Bayar sewa sebulan tanpa ada hasil, payahlah kedai itu. Jadi, memang saya tetapkan jadual masa yang sangat pendek. Dapat kedai tu tiga hari sebelum itu. Peralatan dapur semua sampai dua hari sebelum buka. Jadi dalam semua kelangkabut, mana yang nak kena tumpu dekat dapur, dua dapur semua tu, tak ada orang yang mop lantai kan. Jadi saya dengan isteri saya, saya sebenarnya diarahkan oleh isteri sayalah.
 
-Jika kita memahami hukum taburan normal ini, stereotaip tidak sepatutnya wujud. Dalam isu rasuah, keluk taburan yang sama terpakai kepada mana-mana kaum—Melayu, Cina, mahupun India. Majoriti dalam setiap kaum adalah orang yang jujur, manakala pelaku rasuah berada di hujung keluk tersebut. Individu yang gemar menggunakan stereotaip kaum sebenarnya gagal memahami prinsip asas taburan normal ini kerana mengambil sampel di hujung keluk lalu membuat generalisasi terhadap seluruh kelompok.
+**Speaker 2:** Ada beberapa orang sebenarnya menarik persamaan dengan Azmin Ali.
 
-**Co-Host 1:** Seterusnya, berkenaan skim pinjaman kenderaan Kerajaan Negeri Terengganu untuk Ahli Dewan Undangan Negeri (ADUN).
+**Rafizi Ramli:** Azmin? Saya tak tahulah kan, tapi Azmin mana boleh tak sama, makam Azmin lagi tinggi, dia di Masjidil Haram. Tak, so yang ini masa tengah kelangkabut, jadi saya pun tak perasan agaknya, orang awam datang singgah, dia ambil gambar. Sebab kalau tidak, kita tak sempat nak siapkan kedai itulah dalam tempoh kurang daripada 24 jam kan. Tapi ni biasalah tentera troll kebangsaan Malaysia ni. Rekod dia macam itulah. Dulu dia walajip kan? Dia memang daripada dulu suka hina saya, sebab saya kempen banyak menentang Najib. Jadi saya ingat ini saki-baki walajip. Sama ada masih lagi berbayar ke tidak tu saya tak tahulah kan. Tapi dia pun ambil kesempatanlah. "Tauke kedai mop lantai" kan? Konotasi ni pun sebenarnya menunjukkan ada benda yang tak betul dalam kepala otak orang Melayu. Ini saya ingat tentera troll kebangsaan Malaysia ni Melayulah kut, kan? Gaya dia ni bila dia cakap zaman ekonomi tak menentu ni, sampai tauke kedai pun kena mop sendiri. Eh sebenarnya ahli perniagaan memang dia buat sendiri tahu. Masalahnya kita ni tersangat terpengaruh dengan budaya rasuah dan jalan singkat yang orang Melayu ingat kalau bisnes ni semua kena megah holding. Bos duduk kat dalam. Eh, bos yang sebenar memang dia buat sendiri tahu. Memang sebab itu anak buah ke pekerja dia tahu tak boleh nak kelentong bos dia, dia buat semua kan. Mana-mana kalau bacalah semua bisnes syarikat yang paling besar, bos yang awal itu memang dia buat sendirilah. Dan sebab itu kalau nak kata zaman ekonomi tak menentu ini sampai tauke kedai pun kena mop sendiri, dia rasa lawak, sebenarnya bodohlah.
 
-**Rafizi Ramli:** Ini berkenaan kelulusan skim pinjaman kenderaan kepada ADUN Terengganu yang dinaikkan daripada RM40,000 kepada RM200,000. Kenapa perkara ini perlu dibawa dan diluluskan dalam Majlis Mesyuarat Kerajaan Negeri (MMKN)?
+**Speaker 2:** Tapi gambar tu sebenarnya sebelum kedai buka?
 
-**Co-Host 1:** Kerana ia melibatkan ADUN dan diluluskan di Dewan Undangan Negeri (DUN).
+**Rafizi Ramli:** Sebelum. Ya, sebelum. Itu yang saya kata. Ini saya ingat dalam pukul 5:00, 6:00 petang kan, masa itu tengah panik, sebab masa nilah juga nak kena bersiap untuk esok. Masa ni jugalah barang mentah baru sampai, masa nilah jugalah nak pasang semua kan. Awalnya kakitangan kata, "Kami nak siapkan semua, kat dapur semua, apa sebab itu kami nak mop." Jadi saya kata, "Kau nak siapkan pukul berapa ni? Pukul 3:00, 4:00 pagi. Kalau 3:00, 4:00 pagi siap semua ni, kau orang tak mop dah. Orang datang esok kotor." Lagipun dia baru habis pembinaan dua tiga hari sebelum tu kan. Lepas ini saya tak mop dah sekarang kan. Semalam aje saya cuci ayam. Itu pun bukan sebab ekonomi tak menentulah. Sebabnya dia ramai sangat orang, jadi kita cepat habis ayam yang telah disediakan. Jadi anggaran kita tu lebih cepatlah. Jadi, terpaksalah aku cuci ayam semalam.
 
-**Rafizi Ramli:** Apa keperluannya Kerajaan Negeri atau Persekutuan menyediakan skim pinjaman kenderaan sebegini? Dahulu, skim pinjaman kerajaan seperti LPPSA diwujudkan apabila kadar faedah bank komersial sangat tinggi, sekitar 9% hingga 10%, manakala skim kerajaan menawarkan kadar 4%. Namun kini, kadar faedah pinjaman perumahan atau sewa beli bank komersial sudah berada sekitar 2% hingga 4%. Jadi, jika mana-mana ADUN mahu membeli kenderaan baharu, mereka boleh membuat pinjaman terus daripada bank komersial.
+**Speaker 2:** Okey, baik, Webby. Beria?
 
-**Co-Host 2:** Alasan yang diberikan oleh pihak Kerajaan Negeri ialah jika dikira untuk semua 32 ADUN dengan jumlah maksimum RM200,000 seorang, jumlah keseluruhannya hanya RM6.4 juta, bukannya RM16 juta seperti yang didakwa sesetengah pihak.
+**Rafizi Ramli:** Ni bukan beria, ni jahat.
 
-**Rafizi Ramli:** Menggunakan angka RM6.4 juta sebagai alasan tetap tidak munasabah dari segi kewangan dan moral. Pertama, dari segi kemampuan kewangan, Kerajaan Negeri Terengganu mempunyai hasil kutipan sendiri yang antara terendah di Malaysia—sekitar RM185 juta setahun dari cukai tanah dan hasil negeri. Belanjawan tahunan bernilai lebih RM1 bilion itu sebahagian besarnya bergantung kepada geran dan saluran Persekutuan. Dalam keadaan kewangan negeri yang terhad, setiap sen wang awam adalah berharga dan dikira defisit.
+**Speaker 2:** Ni jahat.
 
-Kedua, dari sudut pertimbangan moral, ramai rakyat Terengganu, terutamanya golongan miskin dan pelajar, memerlukan bantuan. ADUN sudah mempunyai pendapatan yang jauh lebih tinggi daripada rakyat biasa. Jika mereka mampu membeli kenderaan bernilai RM200,000, mereka sepatutnya membuat pinjaman bank komersial sendiri. Jika RM6.4 juta itu diperuntukkan untuk bantuan pelajaran, katakan RM200 sebulan (RM1,200 setahun) untuk setiap keluarga, jumlah itu boleh membantu kira-kira 5,300 keluarga di Terengganu. Pertimbangan moral sepatutnya mendahulukan kebajikan 5,300 keluarga rakyat berbanding memberikan kemewahan pinjaman khas kepada 32 ADUN.
+**Rafizi Ramli:** Baik, jahat. Salah segmen. Okey, seterusnya. "Bahana stereotaip rasuah ikut kaum."
 
-**Co-Host 1:** Seterusnya: "Tengku Zafrul menyertai PKR kerana perjuangan, bukan jawatan." Berapa ramai rakyat Malaysia yang mempercayainya?
+**Speaker 2:** Webby perasan? Nanti kejap. Ini sementara itu di Malaysia, pemandu Malaysia. Yang mana yang stereotaip rasuah ikut kaum ni? T Michael T's ni. "Lihat perbezaannya. Sekarang anda tahu mengapa Singapura sekurang-kurangnya 10 tahun lebih maju daripada Malaysia. Ditadbir oleh Jenis C berbanding Jenis M." Itulah yang stereotaip nya.
 
-**Rafizi Ramli:** Tengku Zafrul sendiri mempercayainya. Apa lagi jawapan yang boleh diberikan oleh beliau? Namun dalam politik, masyarakat tidak hanya menilai kata-kata, tetapi melihat tindakan dan rekod jangka panjang. Kebanyakan rakyat yang berada di tengah-tengah keluk taburan normal mempunyai pandangan berbelah bahagi terhadap ahli politik secara umumnya.
+**Rafizi Ramli:** Mana dia tahu yang nak rasuah tu orang Melayu?
 
-Apatah lagi bagi tokoh yang berlatarbelakangkan pelantikan secara terus (seperti payung terjun) sebagai Menteri, kemudian diberikan kerusi bertanding di Kuala Selangor, dan kini dinamakan untuk bertanding di Ampang. Dalam mana-mana parti sekalipun, persepsi "anak emas" dan pelantikan secara ekspres ini akan menimbulkan rasa tidak puas hati dalam kalangan akar umbi yang telah berkhidmat puluhan tahun. Di UMNO Selangor dahulu perkara ini berlaku, dan potensi pergolakan yang sama boleh terbawa ke dalam PKR. Bagi saya mudah sahaja; jika beliau mahu berjuang bersama, mari kita sama-sama turun ke padang dan berkhidmat untuk rakyat.
+**Speaker 2:** Memang ada laporan dia. Apa ni laporan Straits Times Singapura lah. Nama rasuah dengan nama polis itu.
 
-**Co-Host 1:** Bagaimana jika ada pihak berhujah beliau ikhlas kerana melepaskan jawatan Ketua Pegawai Eksekutif (CEO) korporat berpendapatan ratusan ribu sebulan?
+**Rafizi Ramli:** Maksudnya, so yang pemandu Malaysia yang rasuah itu memang Melayulah?
 
-**Rafizi Ramli:** Beliau tidak melepaskan jawatan CEO untuk turun ke jalanan, membina gerakan dari bawah, mengorbankan kerjaya pada usia muda, dan berhadapan tindakan undang-undang atau lokap seperti yang dilalui oleh pejuang reformasi terdahulu. Beliau melepaskan jawatan korporat untuk terus menjawat jawatan Menteri dengan pelbagai kemudahan. Saya tidak menganggap peralihan terus dari korporat ke jawatan Menteri tanpa rekod panjang membela isu rakyat terpinggir sebagai satu pengorbanan politik yang sebenar.
+**Speaker 2:** Cina.
 
-**Co-Host 2:** Ada pandangan yang menyatakan Malaysia memerlukan lebih ramai ahli politik berlatarbelakangkan teknokrat. Apa pandangan YB?
+**Rafizi Ramli:** Polis itu? Melayu. So konon terbaliklah. Yalah, tapi biasalah akan ada stereotaip pada perkara-perkara tertentu. Orang yang stereotaip ni, saya nak kata sampah masyarakat sebenarnya, tapi yalah, kasar sangat dia kata nanti. Sebab ni falsafah sikitlah kan? Kita belajar matematik kan? Dekat sekolah, ada macam-macamlah kalau kat universiti belajar, matematik kejuruteraan yang rumit semua kan? Tapi, satu ilmu matematik yang saya nak sebut pasal stereotaip lah, walaupun orang tanya, mungkin orang garu kepala kat luar. Apa kena mengena stereotaip dengan matematik ni? Satu ilmu matematik yang saya rasa bagi sayalah, paling berguna kepada saya dan sepatutnya kalau masyarakat faham, sepatutnya faham dengan ilmu matematik yang Allah dah berikan itu, dia tak patut ada stereotaip ni. Dia nama dia taburan normal (normal distribution). Ke tak ada? Yang ni, lengkung loceng (bell curve) tu? Ha, lengkung loceng itu kan? Dulu lengkung loceng belajar masa tingkatan berapa? Tingkatan 4. Matematik Tambahan tingkatan 4. Semua orang matematik kan? Mesti orang belajar matematik lengkung loceng kan? Lengkung loceng, taburan normal lah. Nama pun taburan normal. Apa maksud lengkung loceng? Itu sebenarnya hukum alam tahu. Bukan, bukan masyarakat. Apa-apa pun dia ada lengkung loceng dia. Maksudnya, dia ada kuartil yang rendah, majoriti sampel itu mesti berada di tengah, dan dia ada satu lagi kuartil yang lainlah. Maka anda dapat lengkung loceng lah kan? Maksudnya daripada ilmu matematik itu lagi, kalau kita betul-betul mendalami, kita faham bahawa stereotaip ni tak patut wujud. Kerana Allah dah tetapkan hukum alam melalui matematik ini, bahawa semua benda dalam dunia ini ada lengkung loceng. Jadi, kalau kita ambil soal rasuah, kan? Lengkung loceng yang sama, adalah. Yang Melayu pun, ada yang memang makan rasuah. Tapi, lengkung loceng dia yang normalnya itu kebanyakan tidaklah. Cina pun macam itu, India pun macam itu. Sebab itu, apa-apa masalah yang baik ke, yang buruk ke, dia mengikuti lengkung loceng kan. Dan masalah orang yang suka bagi stereotaip ni, maksudnya dia gagal matematik. Dia tak faham pun lengkung loceng kan? Jadi, dia ambil sampel yang, yang sebenarnya di hujung lengkung loceng itu, dia pukul rata semua kan? Jadi, saya tak tahulah, mungkin cara matematik kita diajar kut. Cikgu-cikgu ada beritahu ke sebenarnya masa mengajar taburan normal? Ini sebenarnya hukum alam. Tak ada. Sebab aku dulu bedah. Walaupun saya semakin meningkat usia kemudian saya sedar dan saya buat banyak lagi, yalah, sains data, statistik, kemudian saya sedar, sebenarnya matematik yang paling indah adalah matematik lengkung loceng. Sebab ia menjelaskan banyak perkara dalam masyarakat. So, minta maaflah kaki-kaki yang suka terutamanya pakai stereotaip kaum ini, minta maaflah kalau saya sebut kau orang ini sampah masyarakat sebenarnya. Dah lah tak reti matematik. Segmen baru: Sampah masyarakat.
 
-**Rafizi Ramli:** Kita memang memerlukan pembuat dasar yang mempunyai pengetahuan dan latar belakang profesional. Namun, ada kesan tidak diingini jika kita menganggap semua teknokrat akan menjadi menteri yang baik secara automatik.
+**Speaker 2:** Seterusnya, "Kasi mari buat pinjaman kereta, kasi."
 
-Pemimpin yang baik memerlukan kedua-duanya: kemahiran teknokratik dan kebertanggungjawaban politik. Seseorang tidak boleh menjadi ahli politik yang berkesan jika hanya ada pengetahuan tanpa kefahaman terhadap denyut nadi rakyat. Sebaliknya, jika seseorang hanya menjadi ahli politik tanpa sebarang latar belakang kerjaya atau kepakaran khusus, mereka hanya akan bergantung sepenuhnya kepada taklimat pegawai.
+**Rafizi Ramli:** Orang kampung YB?
 
-Sebab itu saya kerap menasihati orang muda dalam parti supaya tidak menjadi ahli politik sepenuh masa pada usia yang terlalu muda. Bekerja dahulu dalam industri, bina kerjaya dan kemahiran, dan pada masa yang sama berkhidmat kepada masyarakat. Apabila seseorang teknokrat dilantik terus tanpa perlu melalui proses pilihan raya atau menjawab terus kepada pengundi, mereka cenderung membuat keputusan dari "menara gading" tanpa merasa kebertanggungjawaban penuh kepada rakyat.
+**Speaker 2:** Dia bukan sahaja orang kampung. Saya pernah sebut kan, dulu sebelum dia jadi Ahli Dewan Undangan Negeri (Adun), susah payah, dia selalu jemput aku untuk berceramah untuk dia kan. Ah ni orang cukai lah ni. Ini yang kerajaan Negeri Terengganu perkenalkan skim pinjaman kereta kepada Adun. Dia nak lah. Dah lulus dalam Mesyuarat Kerajaan Negeri (MMKN).
 
-**Co-Host 1:** Baik, YB. Isu seterusnya: kenyataan seorang ADUN di Kedah berkenaan agihan roti Gardenia semasa kempen di Sabah.
+**Rafizi Ramli:** Tapi nak kena bawa dekat DUN kan?
 
-**Rafizi Ramli:** ADUN Kuala Ketil yang juga seorang Exco Kerajaan Negeri Kedah. Kenyataan yang meremehkan masyarakat Sabah sedemikian tidak sepatutnya keluar daripada mulut seorang wakil rakyat. Ia menggambarkan pandangan yang rendah terhadap rakyat Sabah. Nasihat saya kepada pengundi di Sabah, nilaikan kenyataan-kenyataan sedemikian secara matang apabila tiba pilihan raya negeri kelak. Sebagai Exco, beliau sepatutnya lebih berhati-hati dalam menuturkan kata-kata.
+**Speaker 2:** Kenapa nak kena bawa dekat DUN?
 
-**Co-Host 1:** Kita beralih ke segmen "Pascamortem Seminggu Kesum dan Fleximart".
+**Rafizi Ramli:** Itu yang dicakapkan. Sebab kalau ada skim itu, itu pentadbiran lah.
 
-**Rafizi Ramli:** Dari segi pengurusan, jika kita menjadi ketua atau pengurus, kita perlu memahami operasi dari A hingga Z. Pengalaman saya sejak berumur 26 tahun menguruskan syarikat mengajar saya bahawa jika kita tidak mempelajari dan melakukan sendiri kerja-kerja di peringkat bawahan, kita tidak akan memahami realiti operasi yang sebenar. Sebab itu pada hari pertama pembukaan, saya berada di kedai sepanjang hari untuk memantau perjalanan operasi.
+**Speaker 2:** Sebab dia nak bawa kat DUN sebab DUN itu semua dia orang punya, 32. Jadi dan skim ini adalah kepada Adun. Maksudnya semua PAS lah. Jadi dia nak bentangkan dekat DUN. Dia naik daripada berapa? 40,000 kepada 200,000.
 
-Alhamdulillah, sambutan daripada orang ramai sangat menggalakkan. Lebih penting lagi, ia membuka wacana awam berkenaan konsep perusahaan sosial. Niat saya dari muda adalah untuk melihat lebih ramai anak muda Bumiputera menceburi bidang perniagaan. Berdasarkan taburan demografi dan sejarah sosioekonomi, wujud kecenderungan dalam kalangan kelas menengah Bumiputera berpencapaian tinggi untuk memilih kerjaya makan gaji dalam korporat atau perkhidmatan awam berbanding mengambil risiko berniaga. Jurang pendapatan isi rumah sebenarnya berpunca daripada bentuk pekerjaan, di mana sebahagian besar kelas menengah Melayu bergantung kepada makan gaji.
+**Rafizi Ramli:** Yang saya tak faham satu bendalah kan, apa keperluan kerajaan negeri ataupun, setakat tertentu lah, kerajaan pusat, ada skim pinjaman ni? Dia punya tempoh berapa? Skim pinjaman ni maksudnya faedah, kadar faedah yang dibayar lagi rendah daripada bank ke apa? Sepatutnyalah macam LPPSA sikitlah kut.
 
-**Co-Host 2:** Ramai anak muda mahu berniaga, tetapi cabaran utamanya ialah isu penggemblengan modal. Bagaimana model perusahaan sosial ini menyelesaikan isu tersebut?
+**Speaker 2:** Tak tentu juga. Dulu lain, contohnya penjawat awam, ada LPPSA kan? Dulu masa kadar faedah tinggi, 9%, 10%. Jadi, skim yang ditawarkan melalui skim penjawat awam, contohnya, dia lebih menariklah kerana 4%. Tapi sekarang, kalau tengok, kadar faedah atau kadar keuntungan yang dikenakan kepada gadai janji ataupun pinjaman perumahan daripada bank, sebenarnya sekitar 4.3, 4.4 saja. Sebab proses birokrasi dia kalau nak buat pembiayaan semula, gadai janjinya lebih panjang kan? Jadi itu untuk kerajaan Persekutuan. Jadi contohnya, kalau untuk Adun, kalau dia nak beli kereta, pergilah kat bank. Sekarang kadar faedah bank pun dalam 2% lebih. Sewa beli adalah sekitar 2% lebih. Jadi maksudnya, kadar faedah berkesan lebih kurang 3% saja.
 
-**Rafizi Ramli:** Isu penggemblengan modal memang cabaran utama. Model perniagaan konvensional memerlukan modal besar, pinjaman bank yang sukar diperolehi, atau pelabur ekuiti yang menuntut pulangan yang sangat tinggi. Manakala model geran kerajaan pula berisiko melahirkan usahawan geran yang bergantung kepada bantuan tanpa daya tahan perniagaan.
+**Rafizi Ramli:** Kecuali dia orang tak payah bayar kadar faedah lah kut buat skim ni kan? Mesti ada kadar faedah kan?
 
-Dalam Islam, wujud konsep *Musyarakah* (perkongsian) yang selari dengan prinsip ekonomi pasar sosial—iaitu mengimbangi pencarian keuntungan dengan matlamat sosial. Melalui Kesum dan Fleximart, saya menyalurkan modal awal menerusi instrumen *Cumulative Unsecured Loan Stock* (CULS) dengan kadar pulangan minimum yang ditetapkan sekitar 2.5% sahaja (kira-kira RM500 sebulan untuk pelabur).
+**Speaker 2:** Dia punya alasan yang diberi is kalau dikira pun dengan 32 Adun, jumlah maksimum 200,000 setiap orang, nilainya hanya 6.4 juta, bukan 16 juta. Dewan dia jawab dakwaan sebab ada yang kata 16 juta. Oh mana ada, bukan 16 juta. Walaupun logik menggunakan angka kecil untuk Terengganu pun, saya rasa...
 
-Tujuannya adalah untuk membuktikan kewujudan kelas aset baharu dalam bentuk pelaburan perusahaan sosial. Golongan kelas menengah dan profesional Bumiputera yang mempunyai simpanan boleh melabur dalam perusahaan sosial ini. Pelaburan ini memberikan pulangan yang stabil dan selamat, manakala lebihan keuntungan perniagaan diagihkan semula kepada pekerja dan pengurusan anak muda. Ini mengurangkan halangan kemasukan untuk anak muda berniaga tanpa terbeban dengan kadar keuntungan kapitalis yang melampau.
-
-Dari segi operasi Kesum, oleh kerana kita menjual hidangan seperti nasi lemak ayam goreng pada harga RM5.00 hingga RM5.50 (dengan kos bahan mentah sekitar RM3.00-RM3.50 dan kos tidak langsung sekitar RM1.00), margin perniagaan adalah sangat nipis. Perniagaan ini bergantung sepenuhnya kepada jumlah jualan yang tinggi dan kecekapan operasi. Proses penyediaan dari pesanan hingga penghidangan mesti dilakukan bawah 5 minit dengan tenaga kerja dapur yang optimum (3 orang krew dapur). Kecekapan fizikal dan reka bentuk dapur perlu ditambah baik dari semasa ke semasa untuk menghapuskan kesesakan operasi.
-
-**Co-Host 2:** Ada pembeli yang memuat naik resit di media sosial dan mendakwa harga RM5.00 ini boleh menjejaskan peniaga tempatan lain. Apa penjelasan YB?
-
-**Rafizi Ramli:** Kesum adalah satu eksperimen sosial. Kos bahan mentah bagi sepinggan nasi lemak dan ayam goreng secara realitinya adalah sekitar RM3.00 hingga RM3.50. Apabila perniagaan biasa menjualnya pada harga RM12.00, margin kasarnya adalah sekitar 300%. Kesum tidak menanggung beban margin tinggi untuk keuntungan pemilik yang melampau, sebaliknya mengehadkan pulangan pelabur kepada RM500 sebulan. Ini membuktikan bahawa dengan kecekapan operasi dan struktur modal yang betul, makanan berkualiti boleh dijual pada harga berpatutan.
-
-**Co-Host 1:** Bagaimana pula perkaitannya dengan Dasar Gaji Progresif dan masalah sektor PKS?
-
-**Rafizi Ramli:** Masalah utama Perusahaan Kecil dan Sederhana (PKS) di Malaysia ialah kadar pusingan ganti pekerja yang tinggi dan kesukaran menarik bakat berkualiti. Kebanyakan graduan memilih untuk bekerja di syarikat korporat besar di pusat bandar. PKS menghabiskan masa dan kos melatih pekerja baharu, tetapi pekerja melompat kerja selepas beberapa bulan.
-
-Dasar Gaji Progresif dirangka sebagai skim penyertaan sukarela yang saksama. Kerajaan menyediakan insentif kewangan (sehingga RM200 sebulan bagi setiap pekerja) kepada majikan untuk tempoh 2 tahun, dengan syarat majikan menaikkan gaji permulaan pekerja dan menyediakan latihan peningkatan kemahiran. Selepas tempoh 2 tahun, peningkatan produktiviti hasil daripada latihan tersebut membolehkan majikan mengekalkan tangga gaji yang lebih tinggi tersebut secara mampan.
-
-Mengulas kritikan pihak tertentu seperti Tong Kooi Hong berkenaan penyertaan 21,000 pekerja berbanding sasaran awal 50,000 orang: 21,000 pekerja ini melibatkan sekitar 700 majikan yang benar-benar komited untuk menaikkan struktur gaji dan produktiviti syarikat mereka. Kerajaan boleh sahaja mencapai sasaran 100% secara populis dengan memberi agihan wang secara percuma tanpa syarat, tetapi itu tidak mampan dan tidak menyelesaikan masalah struktur ekonomi. Dasar ini berhasrat membaiki tahap gaji rakyat dan daya saing PKS secara berperingkat.
-
-**Co-Host 1:** Perkara seterusnya berkenaan perkembangan politik menjelang Pilihan Raya Negeri (PRN) Sabah dan pendekatan parti.
-
-**Rafizi Ramli:** Berkenaan kenyataan Setiausaha Agung Pakatan Harapan, Saifuddin Nasution, bahawa "urusan pilihan raya adalah untuk menang" dan apa sahaja strategi yang membawa kemenangan adalah baik: jika dari awal matlamat utama hanya semata-mata untuk menang dengan apa cara sekalipun, slogan "Lawan Tetap Lawan" tidak akan wujud.
-
-Pendirian saya dalam PKR adalah berasaskan prinsip dan data saintifik. Pada tahun 2016, apabila kita menubuhkan Pakatan Harapan tanpa PAS, pandangan konvensional ketika itu mendakwa PH akan kalah teruk kerana tanpa PAS, undi Melayu tidak akan diperolehi. Namun, berdasarkan data kajian selidik dan prinsip menentang rasuah serta mempertahankan kepelbagaian kaum, kita kekal dengan prinsip tersebut. Sikap mempertahankan prinsip itulah yang menarik sokongan pengundi atas pagar.
-
-Berkenaan PRN Sabah, tindakan meletakkan calon-calon bertaraf "payung terjun" atau tokoh yang bertukar dari parti lain—sehingga mengenepikan ketua-ketua cabang PKR tempatan yang telah berkhidmat puluhan tahun—mungkin memberi kelebihan jangka pendek mengikut teori "asal menang". Namun dari sudut binaan parti, ia merosakkan tiang asas parti di Sabah. Daripada 26 cabang PKR di Sabah, hanya dua atau tiga ketua cabang yang terpilih sebagai calon. Ini melemahkan dorongan dan kesetiaan akar umbi parti dalam jangka panjang.
-
-**Co-Host 1:** Bagaimana pula dengan isu tuntutan 40% hasil Persekutuan di Sabah?
-
-**Rafizi Ramli:** Tuntutan 40% hasil Persekutuan yang diperolehi dari Sabah adalah hak yang termaktub di bawah Perkara 112C dan 112D Perlembagaan Persekutuan. Kerajaan Persekutuan membuat rayuan terhadap beberapa aspek teknikal penghakiman Mahkamah Tinggi, bukannya menafikan hak perlembagaan tersebut secara mutlak.
-
-Sebagai Perdana Menteri, Datuk Seri Anwar Ibrahim terpaksa menguruskan isu warisan sejarah ini yang tidak diselesaikan oleh pentadbiran terdahulu. Namun, keutamaan utama Kerajaan Persekutuan dan Negeri mestilah memastikan hak rakyat Sabah dikembalikan dan pembangunan sosioekonomi negeri dibantu secara tuntas.
-
-**Co-Host 2:** Apa pandangan YB mengenai penggunaan pempengaruh oleh kementerian untuk tujuan publisiti dasar?
-
-**Rafizi Ramli:** Semasa saya menerajui Kementerian Ekonomi, saya tidak menyokong penggunaan dana awam yang besar untuk membayar pempengaruh media sosial. Ada bayaran pempengaruh yang mencecah RM80,000 untuk satu hantaran video. Penggunaan pempengaruh tidak mampan kerana kesetiaan mereka bergantung kepada pihak yang membayar. Pendekatan terbaik bagi mana-mana pentadbir awam ialah menyampaikan maklumat dasar secara terus, berfakta, dan berhemat menggunakan saluran rasmi tanpa membazirkan wang rakyat.
-
-**Co-Host 1:** Soalan terakhir daripada penonton: berkenaan semakan skim gaji Pembantu Tadbir dalam perkhidmatan awam yang didakwa ketinggalan.
-
-**Rafizi Ramli:** Urusan skema perkhidmatan awam dan struktur gaji penjawat awam adalah di bawah bidang kuasa Jabatan Perkhidmatan Awam (JPA) dan Kementerian Kewangan, yang dipimpin oleh Perdana Menteri. Saya tidak terlibat secara langsung dalam urusan pentadbiran skema perkhidmatan awam tersebut. Cadangan saya, wakil persatuan boleh mengemukakan perkara ini terus kepada kepimpinan Kementerian Kewangan atau JPA untuk pertimbangan lanjut.
-
-**Co-Host 1:** Baik YB, terima kasih atas penjelasan malam ini. Kita jumpa lagi di episod akan datang. Assalamu’alaikum dan selamat malam.
+**Rafizi Ramli:** Tak, dia selalu, yalah, sesuatu keputusan kerajaan itu, dia perlu mengambil kira lebih banyak perkara dan pertimbangan berbanding dengan contohnya pertimbangan swasta ataupun pertimbangan biasa yang, yang tidak berkepentingan awam lah.
