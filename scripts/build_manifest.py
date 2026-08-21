@@ -1,7 +1,7 @@
-"""Build data/manifest.json: full metadata for YBM podcast episodes >= 2 hours.
+"""Build data/manifest.json: full metadata for YBM podcast episodes >= 1 hour.
 
-Snippets, teasers, short-form clips, and shorter (<2hr) episodes in the playlist
-are excluded by duration -- only full-length episodes are archived.
+Snippets, teasers, and short-form clips in the playlist are excluded by
+duration -- only full-length episodes are archived.
 Re-run this to refresh metadata or pick up newly published episodes.
 """
 import json
@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 
 PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N"
-MIN_DURATION_SECONDS = 7200
+MIN_DURATION_SECONDS = 3600
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
 
