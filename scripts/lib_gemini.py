@@ -255,6 +255,18 @@ def transcribe_raw(client, audio_file, duration_human, duration_seconds):
             text = _text(resp)
             full_text += text
             covered = _last_timestamp_seconds(full_text)
+            if covered > duration_seconds * 1.5:
+                # The model can degenerate into repeating short bracketed tags
+                # (e.g. "[music]", "[laughter]") with fabricated, ever-increasing
+                # timestamps instead of real transcript content. A timestamp far
+                # beyond the actual audio duration is itself evidence of this,
+                # not genuine coverage -- treat it as a failed attempt so retry()
+                # starts a fresh conversation instead of accepting the garbage.
+                raise RuntimeError(
+                    f"raw transcription timestamps ran away: last timestamp {covered}s "
+                    f"is far beyond the audio's {duration_seconds}s duration (likely a "
+                    "hallucination loop, not real coverage)"
+                )
             if covered >= duration_seconds * 0.95:
                 return _trim_dangling_fragment(full_text)
             remaining_human = human_duration(max(duration_seconds - covered, 0))
