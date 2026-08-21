@@ -12,16 +12,15 @@ hosts:
 guests:
 - Speaker 1
 topics:
-- Minister's work fatigue controversy
-- Najib Razak's 1MDB legal defense
-- Influencer culture and restaurant reviews
-- Parental responsibility for children's behavior
-- Deepavali decorations damage incident
-summary: In the 19th episode of his podcast, Rafizi Ramli and his co-host discuss
-  various trending social and political issues. Topics include a controversial social
-  media post by a political figure about a minister's work fatigue, Najib Razak's
-  legal arguments regarding 1MDB, an influencer's request for free food at a mamak
-  restaurant, and parents' responsibility regarding children damaging Deepavali decorations.
+- Ministers' social media image
+- Work-life balance in government
+- 1MDB and corruption case defense strategies
+- Public sentiment on political accountability
+summary: In this episode of the 'Berhenti Menteri' podcast, Rafizi Ramli discusses
+  current events and social media trends with his co-host. Topics include the public
+  perception of ministers' work habits, specifically a viral social media post about
+  a minister sleeping in a restroom, and a critique of the defense arguments used
+  in high-profile corruption cases involving former leaders.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -29,88 +28,32 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** Welcome and *assalamualaikum* to everyone watching episode 19 of the *Yang Bakar Menteri* podcast. Before we start with the usual segments, I’ve seen some people asking questions in the comments.
+**Speaker 1:** Welcome and peace be upon all who are watching the 19th episode of the *Berhenti Menteri* podcast. Before we start with our usual segments, I noticed some people asking in the comments.
 
-**Speaker 1:** Ah, they asked to change you.
+**Rafizi Ramli:** Ha, they are asking to change your [moderator] position.
 
-**Rafizi Ramli:** That’s one thing. But another one is, they asked why YB Raf likes wearing batik shirts every Friday?
+**Speaker 1:** That’s one thing. But another thing, some are asking, why does WB Raf like wearing batik shirts every Friday?
 
-**Speaker 1:** Because when I was in the government, I had many batik shirts. So, if I don’t wear them, it’s a waste.
+**Rafizi Ramli:** Because when I was in the government, I had a lot of batik shirts. So, if I don't wear them, it’s a waste, right? Otherwise, I would just be wearing t-shirts all the time.
 
-**Rafizi Ramli:** Right? So, if not, I’d be wearing a t-shirt all the time. Okay YB, that’s the answer. Let’s move on to the usual segments. Let’s go to the segment... the one we changed?
+**Speaker 1:** Okay WB, that’s the answer. Let’s continue to our usual segments. We’ll go to the segment... the one we swapped earlier?
 
-**Speaker 1:** The one we changed?
+**Speaker 1:** The one we swapped?
 
-**Rafizi Ramli:** Changing the moderator.
+**Rafizi Ramli:** Swapping the moderator. WB will decide, I’m scared. Okay.
 
-**Speaker 1:** It’s up to you, YB, I’m scared.
+**Speaker 1:** Okay, the first segment, WB, is "Beria Mat" (Trying Too Hard). As usual, it’s for people who are *poyoh* (acting full of themselves), though not necessarily *poyoh*. Maybe we want to highlight current issues outside of politics. Let’s look at the first one. *Beria*. Okay, this is political. The Srikandi Chief recounts the sacrifices of the Minister of Education. Did you notice, WB? This is a typo. It was meant to be a birthday wish, but she talked about how tired the Minister was, appearing so exhausted that she fell asleep in the toilet.
 
-**Rafizi Ramli:** Okay.
+**Rafizi Ramli:** I haven't read this post. But well, it’s already become a meme among netizens, right? Aside from the ministry’s programs, what does "Selamat meranum usia" mean? Happy birthday? *Meranum* (ripening). First time I’ve heard that. Where did she say she slept in the toilet?
 
-**Speaker 1:** Okay, the first segment YB is *Beria Mat*, as usual, about people who are *poyo* (pretentious), or maybe not even *poyo*. Perhaps we want to highlight current issues, apart from just politics. Let’s look at the first one. *Beria*.
+**Speaker 1:** "Once fell asleep in the toilet due to being overly exhausted, yet never complained."
 
-**Rafizi Ramli:** Ah, okay, this is politics.
+**Rafizi Ramli:** Oh, once fell asleep in the toilet due to being overly exhausted. This can be reported to the Department of Labour. Because this has become a form of maltreatment, hasn't it? If an employee is so tired that they fall asleep in the toilet, that really should be reported to the Department of Labour. Although, I once slept in a toilet myself. When I first started working in the UK. But in my experience, sleeping in the toilet during work hours wasn't because of exhaustion, but because I was skipping work. Because I was bored at the office.
 
-**Speaker 1:** The Srikandi Chief describes the Minister of Education’s sacrifices. Did you notice, YB? Minister of Education. Ah, this is a typo.
+**Speaker 1:** Oh, WB used to do that?
 
-**Rafizi Ramli:** Hmm. Well, she was wishing YB a happy birthday. But she talked about how tired they were and...
+**Rafizi Ramli:** Yes. It was so cool. But in the beginning, the first month or two, because I had an engineering degree and I was at an accounting or audit firm in the UK, they just took everyone, right? They didn’t care about your background. So, I didn’t understand much about accounting, and I was bored, sometimes stuck. It’s not like in Malaysia; you could go outside because it was cold, winter. So, the only place where you could hide from people and there was still a heater—a radiator—was the toilet. So, I did sit in the toilet, bored until I fell asleep. So, perhaps if someone falls asleep in the toilet, it’s not because they are tired, but because they are skipping work and slacking off. So, I don’t know about this one. Maybe she really was tired. But if she is that tired, this post is dangerous because netizens will say if she is that tired and stressed to the point of falling asleep in the toilet, perhaps it is time to step down.
 
-**Speaker 1:** Hmm, it says here they once fell asleep in the toilet.
+**Speaker 1:** Okay WB, noted. Sharp. Let’s look at the next one. "What are you returning, bossku?" Ha, this one, he says himself that he is the only money launderer in history who returned the bribe money back to the original account.
 
-**Rafizi Ramli:** I didn't read this post. But yeah, it’s already been deleted.
-
-**Speaker 1:** Ah, it has become a *meme* among the netizens, hasn't it? Hmm.
-
-**Rafizi Ramli:** Hmm.
-
-**Speaker 1:** Apart from ministry programs... "Selamat meranum usia." What does this mean? *Happy birthday*.
-
-**Speaker 1:** Err, *meranum*. *Meranum*. First time I’ve heard that.
-
-**Speaker 1:** Em, where does she say they slept in the toilet?
-
-**Speaker 1:** "Once fell asleep in the toilet due to extreme fatigue but never complained."
-
-**Speaker 1:** Oh, once fell asleep in the toilet due to extreme fatigue. Hmm, that’s tough, isn’t it? This could be reported to the Department of Labour. Because it becomes a form of abuse, right? If an employee works so hard that they fall asleep in a toilet.
-
-**Speaker 1:** Didn’t expect that response. It should be reported to the Department of Labour. It’s just that, em, I once slept in a toilet too.
-
-**Speaker 1:** Okay.
-
-**Speaker 1:** Back when I first started working in the UK. But based on my experience, sleeping in the toilet during work hours wasn’t because of fatigue, but because I was slacking off. Initially, it was because I was bored at the office.
-
-**Speaker 1:** Oh, YB did that?
-
-**Speaker 1:** Yeah. Oh man, it’s embarrassing, right? But when I first started, in the first month or two, because I have an engineering degree and I was at an accounting or audit firm in the UK. They just take everyone, right? They don’t care if you have the background or not. So, I didn't understand a lot of things about accounting. So, I was bored, sometimes I’d get stuck. It’s not like in Malaysia where you can go outside because it’s cold there, *winter*. So the only place you could hide from people and it still had a *heater* was the toilet. So, I did sit in the toilet because I was bored, to the point of falling asleep. So maybe if someone falls asleep in the toilet, it’s not because of fatigue. But because they are skipping work and slacking off.
-
-**Speaker 1:** Right? I don’t know about this one. Maybe they really were tired. But if it’s fatigue, this post is dangerous because *netizens* will say, "Hmm, if you’re so tired and stressed that you fall asleep in the toilet, maybe it’s time to step down."
-
-**Speaker 1:** Okay YB, fair enough. Spicy. Let’s see what we have next. *Pulang apa bosku?* Ah, this one YB, his own card says he is the only money launderer in history who returned the bribe money to the original account.
-
-**Rafizi Ramli:** Yeah, that’s seen as cynical and a sarcastic remark in his defense arguments, right? But em, this is dangerous. We can’t normalize the idea of taking money, returning it, and getting off scot-free. Because this has happened a few times now, right? Take money, return it, pay a *compound*, and get off, right? I don’t know what to say. When he says he returned it after getting approval from Bank Negara. Em, well, sometimes I think about Datuk Seri Najib and the 1MDB case. Actually, the people have been divided into certain groups that have decided it was a major misappropriation; that was actually translated in two elections. The 2018 election and also the 2022 election. So, based on that, in my view, the majority of the people have indeed made a decision and judged for themselves based on the arguments given by Datuk Seri Najib himself, including this one. Because even in the years before that, before Barisan Nasional lost in 2018, the argument given was indeed that the money had been returned. So, in the Court of Public Opinion, this matter was not accepted. Em, in a court of law, we’ll have to see how that goes. But perhaps Datuk Seri Najib is too eager to use the same argument. *Correct*. If this argument has been rejected—and now it’s been nearly 7 years, well, actually almost 10 years that this argument has been rejected since 2016—these kinds of arguments have been rejected by the people and the nation. Em, he is really insistent on using the same argument when he enters the courtroom.
-
-**Speaker 1:** Right, right YB. *Beria*. For *bosku*, let’s look at another one. A 40,000-follower *influencer* wants to eat for free at a *mamak*. Ah. Don’t mess around. They have 40,000 *followers* on TikTok. How many do you have, YB?
-
-**Rafizi Ramli:** I’m close to 300,000.
-
-**Speaker 1:** Oh. How many free meals does that get you?
-
-**Rafizi Ramli:** I should be getting free meals. I do get free meals often, actually. But not because I’m an *influencer*. Hmm. Usually, at the *mamak*, I eat alone. I eat alone, sit alone. When I’m about to pay, someone else has paid for it. But I don’t know who paid. It has also happened that they paid and left a note at the counter, a small *note* behind the receipt of the bill they paid for, right? So, if you want to eat for free, I don’t think you need to be an *influencer*. But there are a lot of 40,000-follower *influencers* now, I guess. What is the actual definition of being an *influencer*?
-
-**Speaker 1:** *I don’t think* there is any recognized body that sets it. *As long as* people feel they can relate.
-
-**Rafizi Ramli:** Or is he actually a *food reviewer*? Ah, yes, yes, yes. Ah, maybe, maybe he is a *food reviewer* who goes to shops to do a *review*. He is a *food reviewer*. But not at a *mamak* shop. Many people do *food reviews* at *mamak* shops; there are even *food reviewers* who do *reviews* for instant Maggi noodles by the roadside. But yeah, he went to the wrong *mamak* shop. If a *mamak* shop is successful, it already has its own customers. So it doesn't really depend on *influencers*, right? And yeah, I am also conflicted. If a promotion is from an *influencer*, the risk is that the traffic might spike during the *review*. But if you’re not careful, the people who visit are only there to try it out but they aren’t *repeat customers*, they don’t come back. So, if I were running a business, I would be quite careful about relying on *food reviewers*, *food reviews*, or so-called *influencers*. But, he didn’t get to eat for free. He didn’t. He didn’t get to eat for free. Never mind, tell him to come and *review* our podcast, I’ll treat him.
-
-**Speaker 1:** Okay YB, there’s more. *Deepavali kolam*.
-
-**Rafizi Ramli:** Where is this?
-
-**Speaker 1:** This one, people are saying it’s in Penang, right? It went viral on social media that some children damaged a *kolam* (decorative floor art) for Deepavali.
-
-**Rafizi Ramli:** Didn’t anyone go and reprimand them? And the video shows the parents taking pictures too. They made a video. They didn’t reprimand anyone. Hmm. But yeah, this isn't the children’s fault. This is the parents' responsibility; if we have children, we must ensure they are safe. If our children are sitting apart and doing their own thing away from us—in this day and age, looking at this, when this happened, the parents didn't know where they were. One, it’s dangerous. Secondly, children don’t know any better. If the parents don’t reprimand or watch over them, this is what happens. It’s just that these children probably don’t understand what the Deepavali decorations or the Deepavali *kolam* mean. So, the fault is 100% the parents’. The parents’ fault.
-
-**Speaker 1:** 100%.
-
-**Rafizi Ramli:** Good, good, good. Hmm. But yeah, so are you saying the kids were *beria* (trying too hard) to damage this?
-
-**Speaker 1:** I don’t think it was literal like that. Parents have their roles. But who is this video calling *beria*? Is it *beria* on the part of the one filming, or *beria* on the part of the mother? It could be that the one filming and the parents making the video were *beria*, and they didn't reprimand them.
+**Rafizi Ramli:** Yes, that is cynical and a sarcastic remark in his defense argument, isn't it? But it’s dangerous; we cannot normalize taking money and returning it later. Because this has happened several times, right? Take money, return it, pay a compound, and you’re free? I don’t know what to say when he says he returned it after getting approval from Bank Negara. Well, sometimes I think, in the case of Datuk Seri Najib and the 1MDB scandal, the public has actually been divided into specific groups that have decided it was a major misappropriation; that was actually translated in two elections—the 2018 Election and also the 2022 Election. So, based on that, in my view, the majority of the public has made a decision and judged for themselves based on the arguments given by Datuk Seri Najib himself, including this one. Because in the years before that, before Barisan Nasional lost in 2018, the argument given was indeed that the money had been returned. So, in the Court of Public Opinion, this matter was not accepted. In a court of law, we will see how it goes, but perhaps Datuk Seri Najib is trying too hard by using the same argument. If this argument has been rejected—and now it’s been nearly 7 years, well, nearly 10 years actually since this argument was rejected back in 2016, right? Arguments like this have been rejected by the people and the nation. He is really trying hard by using the same argument when he enters the courtroom.
