@@ -9,157 +9,177 @@ duration: 2h 39m
 view_count: 44884
 hosts:
 - Rafizi Ramli
-- Aziq
+- Speaker 2
 guests:
-- Datuk Dr. Rais Hussin
+- Datuk Dr. Rais Husin
 topics:
-- Pakatan Harapan 1.0 Leadership Transition Agreement
-- Rais Hussin's Political Journey with Bersatu and PKR
-- Perikatan Nasional Dynamics and PAS Leadership
-- 5G Infrastructure and Active Technology Neutrality (AI Chips)
-- Food Security, Malnutrition, and B40 Economic Challenges
-- Government Communication and Trade Agreements
-summary: In episode 21 of the Yang Berkhidmat podcast, hosts Rafizi Ramli and Aziq
-  speak with guest Datuk Dr. Rais Hussin, former Bersatu Supreme Council member and
-  technocrat. They discuss the historical backstories of the PH 1.0 transition agreement,
-  internal dynamics in Bersatu, PKR, and PAS, Malaysia's tech neutrality regarding
-  AI chips and 5G deployment, as well as food security and B40 economic pressures.
+- Malaysian politics
+- Bersatu and PKR political dynamics
+- The 2017 transition agreement
+- Tan Sri Muhyiddin's political future
+- Children in MMA fighting
+- Flexi Mart social enterprise
+- Cost of living and retail economics
+summary: This episode features a conversation between Rafizi Ramli and his guest,
+  Datuk Dr. Rais Husin. They discuss Rais Husin's political background and departure
+  from Bersatu to join PKR, the historical transition agreement regarding the premiership
+  between Tun Mahathir and Datuk Seri Anwar, and current political insights regarding
+  the upcoming elections. Additionally, the hosts and their guest discuss the societal
+  implications of allowing children to participate in MMA fighting events and Rafizi
+  shares his experiences and economic philosophy regarding his new 'Flexi Mart' social
+  enterprise project.
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
 # Interview (Bahasa Melayu)
 
-**Aziq:** Assalamualaikum dan selamat datang ke podcast *Yang Berkhidmat*, episod ke-21. Hari ini kita ada seorang lagi tetamu istimewa yang misteri, tetapi dah diteka dengan tepat oleh penonton. Kita bersama Datuk Dr. Rais Hussin. Apa khabar, Datuk?
+**Rafizi Ramli:** Assalamualaikum dan selamat datang ke episod ke-21 podcast ini, bersama saya YB Rafizi dan...
 
-**Datuk Dr. Rais Hussin:** Alhamdulillah, terima kasih kerana menjemput saya.
+**Speaker 2:** Tiada lagi ucapan yang mengarut minggu ini.
 
-**Aziq:** Datuk Dr. Rais Hussin adalah bekas Ahli Majlis Pimpinan Tertinggi Bersatu. Datuk keluar Bersatu pada 7 Oktober 2022 atas alasan masalah kesihatan dan tugas lain, cuma beberapa hari selepas itu Datuk menyertai PKR. Sebenarnya apa puncanya? Adakah sebab prinsip atau ada faktor lain?
+**Rafizi Ramli:** Tiada, tiada, YB. Saya sudah bertaubat. Tetapi kita ada seorang lagi tetamu istimewa bersama kita malam ini—seseorang yang misteri tetapi sudah pun diteka dengan betul oleh...
 
-**Datuk Dr. Rais Hussin:** Masa itu saya memang dalam proses pemulihan selepas pembedahan *quadruple bypass* pada tahun 2019, jadi saya tidak lagi aktif sangat dalam politik. Fokus saya lebih kepada penulisan, penyelidikan, dan ketika itu diberi tugas di MDEC untuk membuat pembersihan serta menstruktur semula sistem. 
+**Speaker 2:** Yalah, korang guna gambar dia. Memanglah orang boleh teka.
 
-Dari segi politik, ulasan saya terhad kepada penulisan *op-ed* dan kemunculan di TV. Tetapi apabila saya melihat beberapa perkara sudah tidak sehaluan dengan niat asal saya berkecimpung dalam politik, saya mula berfikir. Saya bukan seorang ahli politik tegar—Rafizi tahu, saya sentiasa menyebut bahawa saya seorang teknokrat dari latar belakang telekomunikasi dan IT. Saya mula masuk politik pada tahun 2015 apabila Tan Sri Muhyiddin Yassin dipecat. Dari situ timbul minat untuk membantu dari segi pentadbiran, pendaftaran perlembagaan, rekaan logo, menggembleng sokongan, serta merangka strategi.
+**Rafizi Ramli:** Bukan, tetapi gambarnya bukan... dia tidak lain tidak bukan...
 
-Masa itu, Tun Mahathir agak berat hati untuk menubuhkan parti baharu. Tetapi saya tegaskan bahawa satu-satunya cara untuk berjuang ialah dengan menubuhkan parti berasaskan kaum Melayu, kerana parti lain akan terus dicop sebagai pengkhianat. Kita pegang lima prinsip teras: reformasi, keadilan, keterangkuman, kesederhanaan, dan progresif. Namun, lama-kelamaan parti itu bergerak ke arah politik kepartian biasa. 
+**Speaker 2:** Letaklah gambar lain, kan, barulah misteri.
 
-Dalam masa yang sama, saya ada berbincang dengan Datuk Seri Anwar Ibrahim. Saya tegaskan saya tidak mahu aktif secara politik berjawatan, tetapi saya nampak lima prinsip tersebut sangat bertepatan dengan PKR. Peliknya, selepas menyertai PKR, saya tidak pernah dibenarkan untuk aktif dalam parti. Saya rasa hairan—takkanlah dengan pengalaman yang saya ada, saya tidak boleh menyumbang?
+**Rafizi Ramli:** Datuk Dr. Rais Husin, apa khabar, Datuk?
 
-Bila saya bertanya kepada pemimpin senior PKR mengapa begitu, jawapannya sangat menarik. Seorang pemimpin kanan memberitahu bahawa mereka ragu-ragu dengan saya kerana saya pernah berada dalam Bersatu, berjuang bersama Tan Sri Muhyiddin dan Tun Mahathir. Pelik, sebab semasa saya dengan Tun Mahathir, orang anggap saya orang Anwar! Bila saya masuk PKR, orang anggap saya orang Muhyiddin. Padahal saya adalah Rais Hussin. Disebabkan syak wasangka itu, saya tidak diberi sebarang peranan utama dalam PKR sehingga hari ini.
+**Datuk Dr. Rais Husin:** Alhamdulillah. Terima kasih kerana menjemput saya.
 
-**Aziq:** Sebelum kita masuk segmen seterusnya, Datuk juga pernah bekerjasama dengan YB Rafizi sewaktu penyediaan perjanjian peralihan kuasa (*transition agreement*) antara Tun Mahathir dengan Datuk Seri Anwar. Boleh Datuk kongsikan kisahnya?
+**Rafizi Ramli:** Ya. Jadi, Datuk Dr. Rais Husin adalah bekas ahli Majlis Pimpinan Tertinggi Bersatu.
 
-**Datuk Dr. Rais Hussin:** Ya, itu cerita Pakatan Harapan 1.0. Masa itu saya banyak berbincang dengan Nurul Izzah. Saya ingat lagi di Starbucks Pantai Hospital—isteri saya berada di wad menunggu masa untuk bersalin anak kembar—kami meluangkan masa hampir dua jam berbincang jalan terbaik untuk menjadikan Tun Mahathir Perdana Menteri semula. Itu satu-satunya jalan untuk mengeluarkan Datuk Seri Anwar melalui proses pengampunan. Masa itu DAP belum mahu menerima Tan Sri Muhyiddin sebagai calon PM.
+**Speaker 2:** Macam itu cara mulakan. Daripada semua perkara yang dia dah buat, awak mulakan dengan dia sebagai ahli "bekas". Allah.
 
-Perjanjian peralihan kuasa itu ditarikhkan pada 14 Julai 2017. Hari berikutnya anak kembar saya lahir. Malam tersebut, perbincangan di pejabat PKR agak tegang. Tun Mahathir sampai berkata, "Jika begini, kami keluar." Arwah Salahuddin Ayub bangun dan tegaskan kita mesti cari jalan penyelesaian. Saya minta rehat 15 hingga 30 minit untuk kita draf perjanjian.
+**Rafizi Ramli:** Bukan, itu kapsyen awak. Saya cuma ikut sahaja. Jika saya boleh mulakan, Doktor—anda meninggalkan Bersatu pada 7 Oktober 2022. Anda menyatakan bahawa salah satu sebab peletakan jawatan anda adalah masalah kesihatan dan komitmen lain. Walau bagaimanapun, beberapa hari kemudian, anda menyertai PKR. Jadi, apakah sebab sebenarnya, Doktor? Adakah kerana prinsip anda atau perkara lain?
 
-Rafizi bawa draf beliau, saya bawa draf saya. Draf Rafizi banyak fokus kepada pengampunan dan peralihan kuasa untuk Datuk Seri Anwar. Draf saya pula merangkumi perkara tersebut tetapi turut memberi penekanan kepada rakyat Malaysia, kerana saya tahu dokumen ini akhirnya akan bocor kepada umum. Rafizi mendesak untuk meletakkan tempoh spesifik 24 bulan untuk peralihan PM, manakala saya cadangkan supaya ia tidak diletakkan tempoh tetap.
+**Speaker 2:** Dia tanya soalan, kemudian bagi soalan yang memimpin dan jawapan yang memimpin.
 
-**Rafizi Ramli:** Saya pun dah hampir lupa butirannya...
+**Datuk Dr. Rais Husin:** Tetapi itu memang situasi kesihatan pada masa itu. Saya baru sahaja pulih daripada pembedahan *quadruple bypass* pada tahun 2019, dan saya tidak lagi aktif dalam politik. Fokus saya terutamanya adalah pada penulisan, penyelidikan, dan pada masa itu, saya ditugaskan di MDEC untuk membersihkan sistem. Ia perkara biasa. Ya, itulah yang saya fokuskan. Mengenai politik, selain daripada ulasan dan rencana pendapat, kemunculan saya di TV agak terhad.
 
-**Datuk Dr. Rais Hussin:** Ya, Rafizi berkeras mahu letak tempoh dua tahun. Saya bimbang jika diletakkan tempoh tetap, Perdana Menteri ketika itu akan menjadi sasaran mudah (*sitting duck*). Tetapi Tun Mahathir, Kak Wan (Datuk Seri Wan Azizah), Tan Sri Muhyiddin, Tan Kok Wai, dan Ustaz Mat Sabu akhirnya menandatangani perjanjian tersebut. 
+**Datuk Dr. Rais Husin:** Tetapi apabila saya melihat beberapa perkara yang tidak selari dengan sebab saya menyertai politik pada mulanya... Saya bukan seorang ahli politik. Malah, Raf sentiasa boleh beritahu anda, saya selalu suka gunakan perkataan: "Saya bukan ahli politik." Saya sentiasa seorang teknokrat—Telekom, IT, dan sebagainya. Saya menyertai pada tahun 2015 buat pertama kali apabila Tan Sri Muhyiddin dipecat, dan itulah masa minat terhadap politik mula timbul. Tetapi ia lebih kepada bahagian pentadbiran—menubuhkannya, perlembagaan, logo, menggerakkan sokongan, strategi, dan taktik.
 
-Selepas majlis selesai, saya terus bergegas ke hospital. Pengalaman itu memberi suntikan semangat bahawa kita sedang melakukan sesuatu untuk negara. Namun selepas membentuk kerajaan, untuk mengakses pemimpin pun sukar kerana dipagar oleh lingkaran tertentu. 
+**Datuk Dr Rais Husin:** Pada masa itu, Tun Mahathir keberatan untuk menubuhkan parti. Saya kata satu-satunya cara untuk melawan adalah dengan menubuhkan parti, dan parti itu mestilah parti berasaskan Melayu kerana mana-mana parti lain akan dipanggil pengkhianat. Terdapat lima prinsip: Reformasi, Keadilan, Keterangkuman, Kesederhanaan, dan Progresif. Ini adalah prinsip terasnya. Saya melihat perkara-perkara semakin menjauh untuk menjadi "politik sebenar." Pada masa yang sama, saya bercakap dengan Datuk Seri Anwar Ibrahim di barisan hadapan politik, tetapi saya katakan bahawa secara politik, saya tidak mahu aktif. Pada ketika itu, saya melihat lima prinsip ini sangat selari dengan PKR. Jadi itulah sebabnya saya menyertai. Tetapi cepat ke masa kini—ini cerita yang pelik, dan ini kali pertama saya bercakap mengenainya secara terbuka, Raf.
 
-Sebelum menyertai PKR, saya ada berjumpa Datuk Seri Anwar di Bukit Gasing. Saya tekankan: "Datuk Seri, jaga kebajikan rakyat. Ekonomi perut (*perut economy*) sangat penting." Ada lima perkara asas: menangani kos sara hidup, perkhidmatan kesihatan mampu milik, perumahan mampu milik, pekerjaan bermaruah dan berkualiti, serta kestabilan ekonomi. Lebih 90 peratus rakyat mahukan perkara ini. Namun pusingan politik tetap sama, dan persepsi syak wasangka itu masih ada.
+**Speaker 2:** Okey.
 
-**Aziq:** Baik, terima kasih Datuk. Kita teruskan ke segmen pertama kita, *Berekatan*.
+**Datuk Dr Rais Husin:** Dan saya tidak pernah dibenarkan untuk aktif dalam parti PKR. Saya agak hairan—saya tidak kata saya yang terbaik atau yang bagus, tetapi dengan semua pengalaman yang saya ada, pastinya saya boleh menyumbang kepada parti. Apabila saya cuba bertanya mengapa, jawapannya sangat menarik—ini datang daripada pemimpin kanan PKR yang masih memegang jawatan sekarang. Orang itu memberitahu saya, "Mereka ragu dengan kamu, Rais, sebab kamu dulu di Bersatu, kamu pernah berjuang, kamu orang Tun Mahathir." Saya sentiasa menjadi "orang seseorang"—sama ada orang Tun Mahathir, tetapi bagi Tun Mahathir, saya orang Anwar. Saya rasa pelik apabila saya menjadi "orang lain pula." Lagipun, saya Rais Husin.
 
-**Rafizi Ramli:** Ini segmen khas untuk bantu saya kurang bercakap hari ini. Kalau tidak, letih orang mendengar.
+**Datuk Dr Rais Husin:** Itulah sebabnya apabila saya tahu perkara itu, saya tidak memainkan sebarang peranan dalam PKR, dan sehingga hari ini, itu adalah kebenarannya. Kerana perkara itu disampaikan kepada saya bukan oleh seorang pemimpin kanan, tetapi tiga atau empat pemimpin kanan yang berkata, "Anda terlalu rapat dengan Tan Sri Muhyiddin, anda terlalu rapat dengan Tun Mahathir, dan oleh itu mereka curiga dengan anda." Astaghfirullahalazim. Saya benar-benar membuat langkah untuk menyertai parti supaya saya boleh memainkan peranan—bukan secara politik, bermakna bukan sangat untuk jawatan, kuasa, atau perkara seumpama itu, tetapi lebih kepada bagaimana saya boleh menyumbang kepada parti. Tetapi itu dihentikan. Pemimpin kanan ini memberitahu saya, bukan sekali atau dua kali, tetapi berkali-kali daripada sumber yang berbeza. Saya kata, "Okey, saya ditakdirkan untuk menjadi orang orang lain."
 
----
+**Rafizi Ramli:** Satu lagi perkara sebelum kita mulakan segmen. Doktor, anda juga bekerja dengan saya semasa perjanjian peralihan antara Tun Mahathir dan Datuk Seri Anwar. Bolehkah anda berikan taklimat kepada kami mengenainya?
 
-### Segmen 1: Berekatan
+**Datuk Dr Rais Husin:** Ya, itu adalah kisah PH 1.0. Pada masa itu, saya banyak berbincang dengan Iza juga. Saya ingat di Hospital Pantai, sementara isteri saya hendak bersalin, kami berada di kafe di tingkat bawah—Starbucks Zionis. Kami menghabiskan masa kira-kira dua jam membincangkan hala tuju dan menjadikan Tun Mahathir PM semula. Kenapa? Kerana saya katakan itu satu-satunya cara untuk mengeluarkan Datuk Seri Anwar, untuk mengampunkan proses tersebut. Pada masa itu, jika anda ingat dengan betul, Raf, DAP tidak mahu menerima Tan Sri Muhyiddin sebagai calon PM. Tetapi pada ketika itu, itulah satu-satunya penyelesaian yang kami ada. Keesokan harinya atau sehari selepas itu, Nurul dan Iza pergi ke London untuk membincangkannya.
 
-**Aziq:** Isu pertama: Menggunakan anak sendiri dan kanak-kanak untuk mempromosikan acara perlawanan dan pergaduhan seperti Muay Thai atau MMA. Apa pandangan YB Rafizi?
+**Datuk Dr Rais Husin:** Jadi, perjanjian peralihan itu adalah pada 14 Julai 2017. Saya tidak boleh lupa kerana kembar saya lahir keesokan harinya, dan malam itu sehingga tengah malam, berlaku pergaduhan di pejabat PKR.
 
-**Rafizi Ramli:** Perkara ini selalu lalu di linimasa (*timeline*) saya. Peraturan asasnya cukup mudah: penglibatan anak-anak bawah umur dalam promosi pergaduhan seperti ini tidak sepatutnya berlaku. Bagi saya peribadi, cabaran terbesar saya sebagai ahli politik adalah untuk mengekalkan privasi isteri dan anak saya, kerana mereka berhak mendapat kehidupan peribadi. 
+**Rafizi Ramli:** Oleh semua orang. Dan kemudian Tun Mahathir berkata, "Lihat, jika itu masalahnya, kami akan keluar." Salahuddin Ayub, jika anda ingat, dia bangun.
 
-Masyarakat kita kadang-kadang terlepas pandang bab ini. Kalau program biasa tidak mengapa, tetapi ini melibatkan sukan tempur seperti Muay Thai. Sebagai ibu bapa, kita kena tahu had dan tidak menyertakan anak-anak kecil dalam gimik sebegini.
+**Datuk Dr Rais Husin:** Dia berkata, "Kita tidak boleh buat begini." Dia agak... dia berkata, "Kita perlu buat ini." Kemudian saya bertanya, jika anda ingat, "Bolehkah beri kami rehat 15 atau 30 minit? Kami akan hasilkan satu perjanjian." Raf membawa perjanjian, saya membawa perjanjian. Dan dalam perjanjian itu, kebanyakannya tertumpu kepada Datuk Seri Anwar. Sejujurnya, dalam perjanjian saya, semua yang Raf sebutkan—peralihan dan sebagainya—ada di sana, tetapi kami juga banyak memfokuskan kepada Rakyat Malaysia. Kenapa? Pandangan saya ialah perjanjian ini akan bocor. Di Malaysia, semuanya bocor. Jadi saya tahu ia akan bocor. Itulah sebabnya kami mencadangkan perkara itu. Raf berkeras untuk meletakkan 24 bulan.
 
-**Datuk Dr. Rais Hussin:** Saya pun terkejut bila terpandang di linimasa (*timeline*). Kanak-kanak itu terlalu muda. Dalam keadaan sekarang di mana isu buli dan budaya samseng di sekolah makin membimbangkan, perkara sebegini tidak wajar dipromosikan. Saya tidak akan benarkan anak saya terlibat dengan perkara seperti ini. Sukan bola atau badminton tidak mengapa, tetapi sukan tempur yang menayangkan aksi berdarah dan kekerasan akan mengikis peradaban. Bagaimana kita nak mendidik anak-anak jika budaya bertumbuk ini dijadikan nilai kebiasaan?
+**Speaker 2:** Awak dapat 24 bulan, ke?
 
-**Aziq:** Topik kedua: "Abah PM" atau Tan Sri Muhyiddin Yassin. Bagaimana Datuk melihat kedudukan beliau sekarang?
+**Datuk Dr Rais Husin:** Dua tahun.
 
-**Datuk Dr. Rais Hussin:** Secara peribadi, beliau seorang yang baik dan tenang. Semasa beliau menjadi PM, saya mempunyai akses yang baik untuk menyampaikan pandangan. Ada isu yang saya tentang keras pada zaman beliau, contohnya pelaksanaan Rangkaian Borong Tunggal (*Single Wholesale Network* - SWN) bagi 5G yang saya anggap tidak praktikal. Saya jelaskan kepada beliau mengapa model SWN gagal di negara lain dan mengesyorkan model Rangkaian Borong Pelbagai (*Multiple Wholesale Network* - MWN). Beliau bersedia mendengar tanpa melatah. 
+**Speaker 2:** Tidak, tidak. Untuk jadi PM, 24 bulan.
 
-Apabila Datuk Seri Anwar menjadi PM, saya juga jelaskan perkara sama dalam pertemuan di Parlimen. Kerajaan akhirnya bersetuju beralih ke Rangkaian Borong Dua Lapis (*Dual Wholesale Network* - DWN), walaupun dari segi pelaksanaan teknikal ada pandangan berbeza.
+**Rafizi Ramli:** Oh ya, ya. Saya berkeras.
 
-Mengenai kedudukan politik Tan Sri Muhyiddin, jangan memandang rendah keupayaan Perikatan Nasional (PN). Kajian EMIR Research semasa Pilihan Raya Negeri lalu menunjukkan ketepatan 95.6 peratus. Data menunjukkan sokongan pengundi di kawasan zon Melayu (*Malay belt*) terhadap PN masih sangat kukuh.
+**Datuk Dr Rais Husin:** Ya, anda berkeras. Saya terlupa itu. Tetapi saya kata tidak. Jika anda buat begitu...
 
-**Rafizi Ramli:** Tetapi PAS kelihatan seperti tidak menyokong Tan Sri Muhyiddin untuk kembali menjadi Perdana Menteri. Kekuatan PN terletak pada pengundi Melayu di bawah pengaruh PAS. Jika PAS lebih cenderung kepada Datuk Seri Hamzah Zainudin berbanding Muhyiddin, bagaimana Muhyiddin mahu mengemudi perkara ini?
+**Speaker 2:** Inilah sebabnya ia menjadi terbuka (open-ended).
 
-**Datuk Dr. Rais Hussin:** PAS boleh mengubah pendirian mengikut kesesuaian keadaan politik mereka. Berita mengenai kekecewaan PAS terhadap Muhyiddin kebanyakannya datang daripada khabar angin atau kenyataan individu tertentu. Pengalaman saya dengan PAS, mereka akan menyokong sesiapa sahaja yang terbukti boleh menyampaikan hasil dan memberi kepimpinan. 
+**Datuk Dr Rais Husin:** Biar saya jelaskan, Raf. Kerana saya kata ia akan membebankan Perdana Menteri. Pada masa itu, ingat, saya bukan ahli politik, kan? Saya benar-benar percaya bahawa semua orang dalam perkara ini bersama-sama. Saya tidak boleh "tidak mempercayai" perkara itu. Orang pertama yang menandatangani perjanjian itu adalah... yang kedua adalah... yang ketiga adalah Tan Sri Muhyiddin, yang keempat adalah Tan Kok Wai, dan yang kelima adalah orang yang saya selalu panggil Ustaz Mat Sabu. Sebaik sahaja mereka tandatangani, saya mahu bertolak ke hospital kerana kembar saya akan lahir. Mukhriz berkata, "Awak tunggu dulu sehingga sidang media selesai." Sebaik sahaja sidang media selesai, kali ini saya tidak bertanya sesiapa, saya terus pergi. Saya berjalan berjinjit ke Hospital Pantai pada masa itu, dan isteri saya berkata, "Oh, jadi awak sampai sekarang? Selepas semua ini, baru awak sampai sekarang?" Nasihat yang bagus. Kembar lahir keesokan harinya, pada pagi Sabtu. Alhamdulillah. Kalau tidak, wanita memang sangat bagus dalam sejarah, anda tahu?
 
-Bagi PH dan Kerajaan Perpaduan, parti seperti PKR dan UMNO perlu melaksanakan apa yang sepatutnya. UMNO kebelakangan ini kerap menegaskan mereka membentuk Kerajaan Perpaduan atas titah Yang di-Pertuan Agong, bukan atas ikatan rasmi dengan PH. Tidak mustahil beberapa bulan sebelum PRU16, UMNO memilih untuk bergerak solo. Jika perkara itu berlaku, persaingan akan menjadi sangat terbuka.
+**Datuk Dr Rais Husin:** Mereka tidak akan lupa atau memaafkan saya. Itulah pengalaman yang saya ada dengan Raf. Kami sentiasa mempunyai beberapa interaksi positif. Kami melakukan banyak ramalan dan sebagainya. Pada masa itu, saya teruja kerana ia memberikan "steroid" untuk percaya "anda sedang melakukan sesuatu untuk negara." Tetapi selepas beberapa ketika, anda rasa seperti dipukul dengan kuat. Kenapa? Kerana selepas mereka menjadi PM atau mendapat kuasa, sukar untuk mendekati mereka kerana mereka dikelilingi oleh orang tertentu.
 
-**Aziq:** Seterusnya, isu tampal stiker pada pesawat oleh penyokong bola sepak.
+**Rafizi Ramli:** Okey, Doktor. Tetapi saya dilantik sebagai Meranti (penasihat) oleh Datuk Seri Anwar.
 
-**Rafizi Ramli:** Ini kes Ultras Negeri Sembilan yang menampal stiker pada badan pesawat dan merakamnya untuk kandungan media sosial. Ini perbuatan yang kurang bijak dan merupakan satu kesalahan.
+**Speaker 2:** Ya, betul. Okey.
 
-**Datuk Dr. Rais Hussin:** Menampal stiker pada hartanah awam atau pesawat adalah satu kesalahan vandalisme. Kalau hari ini tampal stiker dibiarkan, esok lusa orang boleh pergi sembur cat.
+**Rafizi Ramli:** Betul. Mari kita teruskan ke segmen yang YB Rafizi minta.
 
-**Aziq:** Topik seterusnya: "Raya lambat lagi, tetapi ada acara bermaaf-maafan." Ini merujuk kepada tindakan Menteri Nga Kor Ming yang menegur wartawan, kemudian mengadakan majlis bermaaf-maafan.
+**Speaker 2:** Ia untuk bantu saya bercakap kurang hari ini. Jika tidak, saya akan kepenatan.
 
-**Datuk Dr. Rais Hussin:** Dulu saya pernah bermula sebagai wartawan meja jenayah di *The Sun* dan *The Star*. Pada era Tun Mahathir, menteri dianggap sangat berkuasa. Hari ini dengan adanya media sosial, setiap tindakan menteri diperhatikan secara langsung. Tindakan Nga Kor Ming memohon maaf secara terbuka itu munasabah untuk meredakan keadaan, berbanding sesetengah menteri yang terlalu mengekalkan ego.
+**Rafizi Ramli:** Kita akan fokus pada ART dan Bersatu. Kita akan percepatkan yang lain. Pertama, kita ada Beria.
 
-**Rafizi Ramli:** Saya ada pandangan sedikit berbeza. Insiden spontan seperti itu sebenarnya menguatkan persepsi dan rasa curiga dalam kalangan pengundi Melayu terhadap DAP. Apabila tindak balas asal menteri adalah memanggil pengarang dan menyasar media tertentu, pengundi melihat itu sebagai manifestasi sikap yang sebenar. 
+**Speaker 2:** Beria.
 
-Apabila permohonan maaf dibuat selepas itu secara rasmi, rakyat menganggapnya sebagai gimik dangkal. Ahli politik tidak boleh terlalu bergantung kepada gimik. Percubaan untuk kelihatan mesra secara berlebihan—seperti berpantun berlebih-lebihan—sering kali dipandang serong oleh pengundi atas pagar. Perkara sebegini menjejaskan usaha Pakatan Harapan untuk membina keyakinan dalam kalangan pengundi Melayu.
+**Rafizi Ramli:** Ah, Beria, kawan.
 
-**Aziq:** Topik terakhir dalam segmen ini: Kenyataan Presiden PAS, Datuk Seri Hadi Awang, yang menggunakan pelbagai kiasan haiwan untuk mengulas isu politik dan antarabangsa.
+**Speaker 2:** Beria di sini bermaksud "poyo".
 
-**Rafizi Ramli:** Menarik bila dibaca tulisan tersebut. Ada lebih 15 jenis haiwan disebutkan—ular, babi hutan, rusa, tapir, harimau, lembu, kerbau, kambing, cengkerik, lipas, belalang, katak, dan tikus. Datuk Seri Hadi memang gemar menggunakan tamsilan haiwan dalam penulisan beliau sejak dulu lagi.
+**Rafizi Ramli:** Untuk orang tua, ia "poyo". Mari lihat yang pertama.
 
-**Datuk Dr. Rais Hussin:** Perumpamaan yang digunakan mengenai hubungan geopolitik ada mesejnya, terutamanya perbandingan saiz ekonomi dan ketenteraan. Contohnya dari segi ketenteraan, kapal yang kita terima daripada AS baru-baru ini pun merupakan kapal terpakai berusia 58 tahun. Mesej dasarnya ialah negara kecil seperti kita perlu sangat berhati-hati dalam mengendalikan perjanjian dengan kuasa besar.
+**Speaker 2:** Kita ada "menggunakan anak sendiri untuk mempromosikan acara pergaduhan."
 
----
+**Rafizi Ramli:** Wira perasan?
 
-### Segmen 2: Standing Order (Pertanyaan Parlimen)
+**Speaker 2:** Ia muncul di garis masa saya, tetapi saya tidak mengikutinya sangat. Dia bergaduh dengan Jojo, kan? Ini mengenai Muay Thai.
 
-**Aziq:** Kita masuk ke segmen *Standing Order*. Soalan pertama dari Parlimen Pulai kepada Menteri Pelaburan, Perdagangan dan Industri (MITI): Apakah strategi kementerian untuk memastikan industri pusat data di Malaysia boleh menggunakan cip AI dari Amerika Syarikat (seperti Nvidia) dan China (seperti Huawei Ascend) di sebalik persaingan blok ekonomi?
+**Rafizi Ramli:** Muay Thai. Betul. Saya tidak tahu.
 
-**Rafizi Ramli:** Soalan ini sangat relevan dengan dasar teknologi negara. Dunia digital kini terbahagi kepada dua timbunan teknologi (*tech stack*) utama—satu berasaskan blok Barat (AS) dan satu lagi berasaskan China (seperti OpenAI lwn. DeepSeek, atau iOS lwn. Android). 
+**Speaker 2:** Peraturan mudah adalah agak jelas. Anda tidak boleh menggunakan kanak-kanak atau anak sendiri untuk ini. Dalam kes saya sendiri, sesetengah orang mungkin suka jika mereka menjadi tokoh awam, tetapi cabaran terbesar saya adalah untuk menyembunyikan isteri dan anak-anak saya. Mereka berhak mendapat kehidupan peribadi kerana ini adalah kerja kita. Tetapi masyarakat kita tidak berhati-hati mengenai perkara ini. Bagi saya, ini melampaui batas kerana ia bukan program sensitif—ini Muay Thai, di mana kanak-kanak dipukul di muka dan berdarah.
 
-Sebagai negara kecil yang belum membina teknologi asas sendiri, Malaysia sepatutnya kekal berkecuali secara teknologi (*technology agnostic*)—iaitu tidak terikat kepada satu-satu ekosistem teknologi sahaja. Jika perjanjian perdagangan atau tarif yang kita tandatangani memaksa kita bergantung hanya kepada satu timbunan teknologi (contohnya mengehadkan pengimportan cip GPU dari China), kita mengikat kebebasan negara dalam jangka panjang. Pengusaha pusat data dari pelbagai negara akan keberatan melabur di sini jika teknologi mereka tidak disokong.
+**Rafizi Ramli:** Teruskan, Doktor.
 
-**Datuk Dr. Rais Hussin:** Saya bersetuju. Malaysia mesti mengamalkan keneutralan aktif (*active neutrality*). Kita tidak boleh mengehadkan pilihan teknologi kita. Lihat contoh pelaksanaan 5G sebelum ini, terdapat naratif bahawa hanya satu penyedia teknologi yang terbaik, sedangkan wujud alternatif global lain seperti Huawei. 
+**Datuk Dr Rais Husin:** Saya melihat perkara itu di garis masa saya. Saya terkejut—bukan sekadar terkejut, tetapi "terkejut gorila"—kerana mereka hanya kanak-kanak. Terlalu muda untuk memulakan ini. Dalam konteks hari ini, di mana kita melihat buli di sekolah, meraikan gangsterisme dan pergaduhan, mungkin ia tidak sesuai. Saya tidak akan membenarkan anak saya melakukan ini kerana ia bukan sesuatu yang anda mahukan untuk anak anda. Bermain bola sepak atau badminton tidak mengapa, tetapi cara itu... tamadun Timur sudah hilang. Bagaimana anda mendidik anak apabila anda mengajar mereka menjadi seperti itu? Saya terkejut.
 
-Apabila Huawei disekat daripada menggunakan sistem operasi Android, dalam tempoh enam bulan mereka berjaya membangunkan HarmonyOS. Mereka membuat persediaan awal terhadap risiko sekatan GPU dan AI. Dalam konteks Malaysia, jika perjanjian antarabangsa mewajibkan kita berunding (*consult*) dengan kuasa luar sebelum membuat keputusan teknologi tempatan, ia merugikan kedaulatan negara. Mengapa kita perlu meminta izin negara luar untuk menentukan hala tuju pelaburan teknologi kita sendiri?
+**Rafizi Ramli:** Adakah ini zon perang, atau kejohanan Muay Thai kanak-kanak?
 
-Jawapan kementerian selalunya bersifat umum seperti "memastikan Malaysia kekal berkecuali" atau melalui inisiatif *Silicon Vision*. Namun realitinya, dasar kawalan teknologi antara kuasa besar memerlukan kita mengekalkan pendirian neutral yang bebas dan tegas.
+**Speaker 2:** Ia seni bela diri campuran.
 
-**Aziq:** Soalan kedua dari Parlimen Pagoh kepada Menteri Pertanian dan Keterjaminan Makanan: Apakah strategi komprehensif kementerian bagi menangani inflasi makanan serta mencegah fenomena beban berganda (*double burden* - kemiskinan dan malnutrisi) dalam kalangan B40 yang kini membelanjakan 71.9% pendapatan bulanan untuk keperluan asas berbanding 64% di T20?
+**Rafizi Ramli:** Untuk apa?
 
-**Datuk Dr. Rais Hussin:** Isu keterjaminan makanan (*food security*) ini adalah masalah struktur yang sangat serius. Malaysia mengimport 73% daripada keperluan cili negara, padahal cili adalah tanaman yang paling mudah ditanam di tanah kita. Kadar sara diri beras yang diisytiharkan sekitar 60%, tetapi angka sebenar pengeluaran domestik dianggarkan sekitar 48% sahaja, selebihnya bergantung kepada bekalan import dan penyesuaian lain. 
+**Speaker 2:** Untuk kanak-kanak. Ada kategori kanak-kanak.
 
-Paling membimbangkan ialah kecukupan kendiri benih (*seed self-sufficiency*), di mana kita mengimport 83% daripada benih pertanian kita. Segalanya bermula daripada benih. Jika nilai ringgit susut atau wujud krisis rantaian bekalan global, golongan B40 yang paling teruk terkesan. 
+**Rafizi Ramli:** Masyarakat perlu menerima bahawa ibu bapa perlu bersikap wajar. Apa sahaja yang kita lakukan, sebaiknya jangan melibatkan kanak-kanak.
 
-Pengelasan B40 dan M40 sendiri sudah lapuk. Akibat krisis ekonomi pasca-COVID, kita sebenarnya melihat kemunculan kelompok "B70" kerana perbelanjaan isi rumah untuk barangan makanan asas telah meningkat hampir dua kali ganda.
+**Speaker 2:** Dan MMA, mereka benar-benar memukul muka, ia berdarah.
 
-**Rafizi Ramli:** Laporan PBB mengenai kemiskinan bandar di Kuala Lumpur juga menekankan isu pemakanan anak-anak B40. Banyak keluarga miskin bandar terpaksa bergantung kepada mi segera sebagai makanan harian. Ini mengandungi nilai zat yang sangat rendah dan menyumbang kepada masalah tumbesaran terbantut (*stunted growth*) dari segi fizikal dan perkembangan kognitif anak-anak.
+**Rafizi Ramli:** Betul. Beria untuk kepentingan anda sendiri. Seterusnya, YB? Kita ada Abah PM.
 
-**Datuk Dr. Rais Hussin:** Perlu ada usaha menyokong inovasi tempatan. Contohnya di Sabah, ada usahawan muda yang menghasilkan mi segera berasaskan lebihan sayuran sawi yang berkhasiat. Kerajaan sepatutnya memberi dana dan kecekapan skala ekonomi (*economies of scale*) kepada syarikat permulaan seperti ini supaya produk pemakanan sihat dapat disalurkan kepada golongan berpendapatan rendah pada harga mampu milik.
+**Speaker 2:** Ini perlu ditanya kepada Datuk Rais. Adakah anda masih berhubung dengan Tan Sri Muhyiddin?
 
----
+**Datuk Dr Rais Husin:** Sangat kerap. Secara peribadi, Tan Sri Muhyiddin seorang yang sangat baik. Saya tidak ada aduan tentang beliau. Semasa beliau menjadi PM, saya mempunyai akses yang agak mudah kepadanya. Alhamdulillah. Semasa tempoh beliau menjadi Perdana Menteri, ada satu isu yang saya tidak boleh sokong: Rangkaian Borong Tunggal 5G (5G Single Wholesale Network), yang saya percaya adalah satu penipuan. Saya pergi berjumpa dengannya beberapa kali dan memberitahunya, "Ia satu penipuan, Tan Sri. Beri saya 15 minit, dan saya akan jelaskan." Rangkaian Borong Tunggal 5G adalah kegagalan di setiap negara, kecuali Brunei atas sebab-sebab mereka yang tersendiri. Saya sentiasa menyokong Rangkaian Borong Berbilang. Apabila Datuk Seri Anwar menjadi PM, itulah satu-satunya masa saya mempunyai sesi satu-lawan-satu dengannya. Selepas itu, beliau dikelilingi sepenuhnya. Tan Sri Muhyiddin sanggup mendengar; beliau seorang yang sangat tenang dan sabar. Beliau tidak mudah marah. Saya tidak bersetuju dengan rampasan kuasa kerajaan—saya merayu di BFM supaya ia tidak berlaku—tetapi beliau seorang yang baik.
 
-### Perjanjian Perdagangan, Isu Bersatu, dan Penutup
+**Rafizi Ramli:** Jadi, bagaimana pula dengan ini? Adakah beliau beria mahu menjadi PM semula?
 
-**Rafizi Ramli:** Mengenai respons kerajaan terhadap kebimbangan awam dalam perjanjian perdagangan dan pelepasan tarif (ART): pendekatan penjelasan kerajaan tidak boleh sekadar bersandarkan kepada sentimen "percaya sajalah pada saya, bro" (*"trust me, bro"*). 
+**Datuk Dr Rais Husin:** Tolong jangan tulis beliau keluar (tulis beliau berakhir). Beliau seorang yang sangat tenang dan sabar. Selain itu, data daripada Amara Research menunjukkan ketepatan tinggi dalam keputusan pilihan raya. Angka-angka menunjukkan bahawa Perikatan Nasional tidak harus diketepikan, terutamanya di kawasan tali pinggang Melayu.
 
-Rakyat dan penganalisis membaca teks perjanjian itu perkataan demi perkataan. Apabila terdapat klausa yang mengikat atau memberi kelebihan implisit kepada pihak luar, penjelasan menteri bahawa "kita boleh menguruskannya" tidak cukup meyakinkan. Strategi komunikasi kerajaan perlu lebih canggih dan telus dalam memperincikan implikasi undang-undang serta dasar jangka panjang.
+**Speaker 2:** Jadi, beria di sini bermaksud kita tidak boleh mengetepikan beliau.
 
-Mengenai kemelut dalaman Bersatu pula, timbul persoalan mengapa kumpulan Datuk Seri Hamzah Zainudin kelihatan terdesak mahukan perubahan kepimpinan secara pantas sebelum PRU16. Sama ada mereka merasakan peluang PN untuk menang lebih tinggi di bawah kepimpinan baharu, atau wujud pertembungan puak yang sukar didamaikan antara kumpulan Hamzah dengan kumpulan Datuk Seri Azmin Ali. Tan Sri Muhyiddin mungkin dilihat sebagai pelindung kepada Azmin, membuatkan blok Hamzah mahu menentukan garis masa peralihan yang jelas.
+**Rafizi Ramli:** Adalah wajar untuk beliau beria. Datuk Rais kata Tan Sri Muhyiddin mempunyai peluang untuk menjadi PM.
 
-**Datuk Dr. Rais Hussin:** Surat Akuan Sumpah (SD) yang digerakkan oleh sesetengah ahli Parlimen Bersatu sebenarnya lebih kepada mendesak Tan Sri Muhyiddin menetapkan pelan peralihan kuasa (*transition plan*) yang jelas, bukannya meletak jawatan serta-merta. 
+**Datuk Dr Rais Husin:** Angka-angka menunjukkan itu, kecuali pihak sebelah sana mula melakukan apa yang sepatutnya mereka lakukan.
 
-Gaya politik dalaman ini digerakkan oleh percaturam belakang tabir. Kenyataan Saifuddin Abdullah mengenai isu kewangan parti juga mencerminkan realiti pengurusan parti pembangkang. Sewaktu awal penubuhan Bersatu dahulu, pimpinan banyak menggunakan dana peribadi sendiri untuk menguruskan parti. Politik tidak boleh bergerak semata-mata atas faktor peruntukan kewangan.
+**Speaker 2:** Tetapi PAS tidak menyokong beliau.
 
-**Aziq:** Masa kita dah mencecah lebih dua jam setengah. Kita sempat sentuh sedikit pasal kempen Zohran Mamdani di AS yang popular dengan pendekatan media sosial berasaskan muzik dan rap.
+**Datuk Dr Rais Husin:** PAS jelas bahawa mereka mahukan Datuk Seri Hamzah dan bukannya Tan Sri Muhyiddin. Tetapi PAS biasanya mengubah membuat keputusan mereka mengikut keperluan. Jika seseorang itu boleh memberikan hasil dan menyediakan kepimpinan, mereka akan bersama orang itu. Bagi kerajaan sekarang, DAP ada di sana, dan mereka tidak akan ke mana-mana. Tetapi baki kerajaan perpaduan perlu melakukan tugas mereka. Mengenai UMNO, mereka terus mengatakan mereka tidak menandatangani dengan Pakatan Harapan; mereka membentuk kerajaan perpaduan atas titah Yang di-Pertuan Agong. Pandangan saya ialah beberapa bulan sebelum PRU16, UMNO akan berkata, "Terima kasih atas masanya, kami mempunyai perjalanan yang baik, kami akan bergerak sendiri."
 
-**Rafizi Ramli:** Gaya kempen beliau sangat kreatif dan relevan dengan pengundi muda. Cuma kita di sini tidak bolehlah ber-rap macam beliau.
+**Datuk Dr Rais Husin:** Saya tinggal di Bukit Jelutong, Shah Alam. Orang Melayu berpendapatan sederhana dan tinggi di sana sudah mula berkata, "Ini tidak boleh diteruskan." Mereka menjangkakan lebih banyak daripada reformasi yang dijanjikan, tetapi keadaan hanya "dua kali lima" (sama sahaja). Ahli politik seperti lampin—mereka perlu ditukar atas sebab yang sama. Jangan ketepikan beliau. Sabah dan Sarawak akan mengikut pemenang. Dengan 165 kerusi parlimen di sebelah sana, mereka akan mengikut pemenang.
 
-**Aziq:** Baik YB, terima kasih banyak. Terima kasih juga kepada Datuk Dr. Rais Hussin kerana sudi hadir dan berkongsi pandangan yang mendalam malam ini.
+**Rafizi Ramli:** Mengenai isu "Flexi Mart"—jika saya boleh berkongsi pendapat saya. Alhamdulillah. Ia menambah satu lagi sakit kepala; saya mendapat serangan keresahan setiap hari. Kita kena semak jualan sekarang. Dari segi ekonomi, terdapat banyak perkara—dasar kerajaan dan pasaran, iaitu penawaran dan permintaan. Cara konvensional untuk mengendalikan kos sara hidup adalah dengan kerajaan memberi bantuan. Itu tidak mengapa. Tetapi jika kita tidak mengurus pasaran, ia sukar. Mengapa kita tidak boleh mengawal harga? Kerana jika kita berbuat demikian, ia bukan lagi ekonomi pasaran.
 
-**Datuk Dr. Rais Hussin:** Terima kasih kerana menjemput saya.
+**Rafizi Ramli:** Apabila kerajaan meningkatkan STR (bantuan), anda mengepam wang ke dalam pasaran pengguna. Adakah kita memeriksa jika syarikat yang mendapat keuntungan luar jangka menaikkan harga mereka? Kita tidak. Kita sedang menormalkan kenaikan harga. Masyarakat tidak mencabar kopi RM15 atau makan tengah hari RM15; kita hanya menerimanya. Kerajaan bertindak balas dengan memberi lebih banyak wang—wang pembayar cukai. Kita mesti mencabar status quo.
 
-**Aziq:** Kepada semua penonton, terima kasih kerana bersama kami. Jangan lupa kongsikan podcast ini. Kita jumpa lagi minggu depan dalam episod *Yang Berkhidmat* yang seterusnya. Selamat malam!
+**Rafizi Ramli:** Flexi Mart telah berjalan selama seminggu. Marginnya sangat nipis. Kopi yang berharga RM4 dijual pada harga RM4.90. Di atas kertas, 90 sen tidaklah buruk. Tetapi terima kasih kepada orang ramai di Malaysia, kami mempunyai sekurang-kurangnya 400 orang sehari. Itu sangat banyak untuk kedai runcit. Tetapi bandingkan dengan kedai biasa di mana kosnya RM4 dan mereka menjualnya pada harga RM12; margin mereka ialah RM8.
+
+**Rafizi Ramli:** Alhamdulillah, trafik menunjukkan bahawa jika sebuah kedai menawarkan harga rendah, ia akan mendapat sambutan. Dan ia menyatukan rakyat Malaysia—PKR, Bersatu, PAS, UMNO, Cina, Melayu, India—semua orang pergi ke sana. Saya perlu membuktikan bahawa dengan harga ini, ia masih boleh memberikan pulangan 4-5% setahun kepada rakan kongsi ekuiti. Kemudian mereka akan melihat bahawa daripada meletakkan wang mereka di bank, lebih baik menyumbang kepada perusahaan sosial. Anda mendapat pulangan yang setanding, tetapi ia membantu rakyat. Teori itu masih bertahan selepas seminggu.
+
+**Rafizi Ramli:** Ia satu cabaran kepada status quo. Kita kecewa kerana untuk politik, orang akan berjuang sehingga mati, tetapi untuk kos barangan, mereka tidak mahu mencabar status quo. Kita perlu mencabarnya. Saya positif bahawa jika model ini terbukti dalam satu atau dua bulan, kita boleh mendesak untuk lebih banyak lagi. Kita mahu membuktikan bahawa anda tidak memerlukan model "Kedai Rakyat" gaya kerajaan; ia mestilah kukuh dari segi kewangan dan operasi. Ia cekap, beroperasi pada margin yang nipis, dan bergantung pada volum.
+
+**Rafizi Ramli:** Ia satu minggu yang indah bagi saya. Rakyat Malaysia boleh bersatu tanpa kita mencampuradukkan politik. Saya mendapat komen yang mengatakan, "Saya tidak menyokong YB, tetapi saya menyokong ini." Saya mahu berkata, "Anda tidak perlu kata anda tidak menyokong saya, pergi sahaja ke kedai itu." Ia satu eksperimen sosial yang melebihi jangkaan saya. Kemampuan adalah kuncinya.
+
+**Rafizi Ramli:** Allahyarham bapa saya mempunyai perniagaan penghantaran kargo dan kedai runcit. Saya seorang ahli perniagaan sejak saya berumur 13 tahun—saya menjual Nasi Lemak dan mengenakan bayaran kepada orang untuk menyalin tugasan saya. Rahsia runcit bapa saya mudah: penyumberan yang kompetitif. Beliau pergi ke KL hampir setiap hari untuk mendapatkan barang pada harga borong, yang meluaskan margin beliau.
+
+**Rafizi Ramli:** Mengenai margin 90 sen untuk kopi, itu hebat. Orang lain menjualnya pada harga RM12 atau RM13 kerana biji kopi itu sendiri hanya RM1. Selebihnya hanyalah kos sampingan. Jadi, orang lain mempunyai margin 200-300%.
+
+**Rafizi Ramli:** Bagi kumpulan pelanggan terbesar di Flexi Mart di Shah Alam—kami fikir ia adalah pelajar dari UITM. Tidak, ia pasangan Melayu tua. Pesara. Mereka suka pergi ke sana, minum kopi, dan makan di sana. Saya masih mengkaji mengapa.
+
+**Rafizi Ramli:** Walau apa pun, kembali kepada isu Muay Thai. Bagi saya, ini melampaui batas. Menggunakan kanak-kanak dalam acara sedemikian tidak wajar. Meraikan pergaduhan dan buli bukanlah sesuatu yang anda mahukan untuk anak anda. Bagaimana anda mendidik anak apabila anda mengajar mereka menjadi seperti itu? Saya terkejut. Masyarakat perlu menerima bahawa ibu bapa perlu bersikap wajar. Apa sahaja yang kita lakukan, sebaiknya jangan melibatkan kanak-kanak. Terutamanya apabila MMA melibatkan memukul muka dan berdarah.
+
+**Rafizi Ramli:** Tetapi walau apa pun, ia adalah seminggu yang penuh pembelajaran. Ia lebih baik daripada semalam—walaupun menjadi lebih baik daripada semalam tidak semestinya bermakna ia sudah bagus. Tetapi kepada mereka yang menonton, ia adalah satu minggu yang indah.
