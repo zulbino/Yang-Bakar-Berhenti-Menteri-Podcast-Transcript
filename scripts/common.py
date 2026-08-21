@@ -10,10 +10,26 @@ def slugify(text):
     return text.strip("-")[:60]
 
 
+# The show was renamed from "Yang Bakar Menteri" to "Yang Berhenti Menteri" partway
+# through; this episode sits at that transition and carries no number in its title.
+EPISODE_NUMBER_OVERRIDES = {"2k8hW9hDvGE": 0}
+
+_EPISODE_NUMBER_RE = re.compile(r"(?:Episod|EP)\s*#?(\d+)|#(\d+)", re.IGNORECASE)
+
+
+def episode_number(episode):
+    if episode["video_id"] in EPISODE_NUMBER_OVERRIDES:
+        return EPISODE_NUMBER_OVERRIDES[episode["video_id"]]
+    m = _EPISODE_NUMBER_RE.search(episode["title"])
+    return int(m.group(1) or m.group(2)) if m else None
+
+
 def episode_slug(episode):
     date = episode["upload_date"]  # YYYYMMDD
     date_fmt = f"{date[0:4]}-{date[4:6]}-{date[6:8]}"
-    return f"{date_fmt}-{slugify(episode['title'])}"
+    num = episode_number(episode)
+    ep_part = f"ep{num:02d}-" if num is not None else ""
+    return f"{date_fmt}-{ep_part}{slugify(episode['title'])}"
 
 
 def human_duration(seconds):
