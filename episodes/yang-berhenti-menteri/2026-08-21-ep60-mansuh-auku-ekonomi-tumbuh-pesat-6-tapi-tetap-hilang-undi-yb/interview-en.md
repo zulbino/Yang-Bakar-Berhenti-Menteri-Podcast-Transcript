@@ -11,7 +11,7 @@ hosts:
 - Rafizi Ramli
 - Podcast Host
 guests:
-- Samdek Joe
+- Sum Dek Joe
 - Haziq
 - Interviewer
 topics:
@@ -36,23 +36,23 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Podcast Host:** Podcast "Yang Berhenti Menteri," episode 60. As usual, I am here with Rafizi Ramli. And, appearing for an unusual occasion, we have our special guest, Saudara Samdek Joe. Apologies, is it Sumdek Joe or Samdek Joe? Samdek Joe. I was just testing you. But it’s okay, my apologies. How are you?
+**Podcast Host:** Podcast "Yang Berhenti Menteri," episode 60. As usual, I am here with Rafizi Ramli. And, appearing for an unusual occasion, we have our special guest, Saudara Sum Dek Joe. Apologies, is it Sumdek Joe or Sum Dek Joe? Sum Dek Joe. I was just testing you. But it’s okay, my apologies. How are you?
 
-**Samdek Joe:** I am healthy, thank you.
+**Sum Dek Joe:** I am healthy, thank you.
 
 **Podcast Host:** If we look at your profile, this isn't your first time appearing. We have seen you at many launches and tours. Looking at your background, let’s go formal. You were involved with Anwar Ibrahim, right? We will touch on that later. You are a lecturer at the Australian National University and an advisor for the Macroeconomic Department of Treasury in Papua New Guinea. What was it like in Papua New Guinea?
 
-**Samdek Joe:** At the time, I was working with the Asian Development Bank (ADB). ADB has projects in developing countries like Papua New Guinea where the government or civil servants might lack the capacity for budgeting or forecasting. My main role at the Department of Treasury—the equivalent of the Treasury in Malaysia—was to conduct medium-term forecasting and budgeting. It was purely focused on fiscal matters.
+**Sum Dek Joe:** At the time, I was working with the Asian Development Bank (ADB). ADB has projects in developing countries like Papua New Guinea where the government or civil servants might lack the capacity for budgeting or forecasting. My main role at the Department of Treasury—the equivalent of the Treasury in Malaysia—was to conduct medium-term forecasting and budgeting. It was purely focused on fiscal matters.
 
 **Rafizi Ramli:** Malaysia went through that same phase in the past, where experts from the World Bank and international economic agencies came to help and train us. It is the same as the current stage. Governments often receive requests, usually from African countries, to send our officers or experts to train their ministries. When I was at the Ministry of Economic Affairs, we sent macro planners and statistics officers from DOSM. I feel bad for them, though—they were like, "Please, don't send me to Africa!" But that work is very meaningful. It is about directly helping the people who need it most, compared to Malaysia, where we already have the capacity. It is genuinely meaningful, even if our people prefer to be attached in New York or D.C. rather than Papua New Guinea.
 
 **Podcast Host:** Why didn't you get a "whitening effect" or a tan?
 
-**Samdek Joe:** I was quite heavily into diving, but so far, I am okay. My last role was as an economist at the ASEAN+3 Macroeconomic Research Office before resigning.
+**Sum Dek Joe:** I was quite heavily into diving, but so far, I am okay. My last role was as an economist at the ASEAN+3 Macroeconomic Research Office before resigning.
 
 **Podcast Host:** Let’s move to that question. Why were you willing to resign and help YB Rafizi full-time?
 
-**Samdek Joe:** I think there are times when you have to answer a calling. In Malay, it is a *panggilan* or a sense of *kesedaran* [awareness]. To serve and contribute to the struggle together—it is something you need to answer. I was based in Singapore with ASEAN+3, so it wasn't as far as Papua New Guinea. But I believe Malaysia deserves much better. The current political parties are very limited; they do not discuss policies, structural reforms, or how to resolve long-term problems. They aren't discussed in any existing political parties. Sometimes they just say, "he scammed me," and that’s it.
+**Sum Dek Joe:** I think there are times when you have to answer a calling. In Malay, it is a *panggilan* or a sense of *kesedaran* [awareness]. To serve and contribute to the struggle together—it is something you need to answer. I was based in Singapore with ASEAN+3, so it wasn't as far as Papua New Guinea. But I believe Malaysia deserves much better. The current political parties are very limited; they do not discuss policies, structural reforms, or how to resolve long-term problems. They aren't discussed in any existing political parties. Sometimes they just say, "he scammed me," and that’s it.
 
 **Rafizi Ramli:** I didn't force him. It is pro bono, voluntary. Joe was actually my intern in 2014, after his first year of university. For those in their 30s, they can compare their experiences—having worked and faced the reality of the system—with the solutions offered by current politicians. Those who want to do the "crazy work" like Joe, who puts himself in a position to help build this together, I welcome them. His salary is ten sen—well, zero, actually.
 
@@ -60,13 +60,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** I didn't read it, but the point is, it’s an LOD for RM5 million. Usually, these political figures won't win that much. It’s like Isham Jalil; you can ask for millions, but the judge will determine the "aggravated damages" based on how much the reputation was actually tarnished. The "Beria" part here is the value—RM5 million—and the determination to sue everyone who mentions them.
 
-**Samdek Joe:** In academic terms, the court in Malaysia regards damages as compensation, not as a punitive measure. There has to be a calculation to justify it—what they call the "vindication of reputation" against monetary value. Usually, these million-ringgit cases are from people who can prove that the defamation caused them to lose a business, for example.
+**Sum Dek Joe:** In academic terms, the court in Malaysia regards damages as compensation, not as a punitive measure. There has to be a calculation to justify it—what they call the "vindication of reputation" against monetary value. Usually, these million-ringgit cases are from people who can prove that the defamation caused them to lose a business, for example.
 
 **Rafizi Ramli:** Dr. Asyraf Wajdi has the legal right to sue, but lawsuits aren't easy. In the eyes of the law, you have to prove that the statement was fabricated without evidence or made with malicious intent. It is very difficult for a politician to prove malicious intent when the criticism is related to public interest. If I wanted to sue, the easiest cases to win would be the harsh comments on Facebook, but that’s a waste of time and money. The lawyer costs, the mediation process—the judge will usually ask for an out-of-court settlement. The netizens just apologize and walk away, while you end up paying for a lawyer. I accepted a long time ago that netizens who spread slander don't lose anything. They hit and run. I leave it to God. But if I ever sue, it would be someone like Caprice, because he made very heavy, clear-cut accusations of corruption involving billions. That is a clear case of defamation, and since Caprice is wealthy, it might be worth it.
 
 **Podcast Host:** Second "Beria" topic: The wage reform agenda being "kept in storage" until the second term. This refers to the statement by the former Deputy President of PKR.
 
-**Samdek Joe:** I am very confident about the second term—wait, no, I’m actually not that confident about them winning the next general election. And regarding wage reform, why wait for the second term? You can start now. I don't understand the context of waiting.
+**Sum Dek Joe:** I am very confident about the second term—wait, no, I’m actually not that confident about them winning the next general election. And regarding wage reform, why wait for the second term? You can start now. I don't understand the context of waiting.
 
 **Rafizi Ramli:** Wage reform—specifically labor market reform—is a structural issue we identified from the start. I presented a white paper on the Progressive Wage Policy in Parliament to address problems like "wage compression." The issue is that the current government sees anything coming from the Ministry of Economy as an "enemy" initiative—perhaps they fear I’ll get the credit, or they prefer to use the budget for direct cash handouts like STR (Sumbangan Tunai Rahmah) for political capital. It’s not just about the second term; it’s about the fact that the policy was already there and just wasn't executed.
 
@@ -78,7 +78,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** It’s embarrassing when they collect names and phone numbers for food baskets and then use that data to register people for PKR without their consent. I prefer to institutionalize all aid so that it isn't used for political games. When you go to school, you don't thank the local representative for the building because it’s your right as a taxpayer. We aren't at that stage yet, though. In developed countries, representatives don't play Santa Claus.
 
-**Samdek Joe:** Australia is more civilized in the sense that their discourse is policy-oriented, not based on rhetoric. They don't have members of parliament going around with food boxes. Malaysia lacks a legislated "social protection" anchor, which is why aid is so politicized.
+**Sum Dek Joe:** Australia is more civilized in the sense that their discourse is policy-oriented, not based on rhetoric. They don't have members of parliament going around with food boxes. Malaysia lacks a legislated "social protection" anchor, which is why aid is so politicized.
 
 **Rafizi Ramli:** Exactly. If we institutionalize social aid, the supply comes from the government, not the political party. We are trying to change that culture, even if it’s an uphill battle. We are moving toward a culture where candidates are chosen by members at the grassroots level, not by the party president. This reduces horse-trading, lobbying, and political corruption. It’s a work in progress, but we are committed to it.
 

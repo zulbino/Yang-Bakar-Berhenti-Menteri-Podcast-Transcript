@@ -11,7 +11,7 @@ hosts:
 - Rafizi Ramli
 - Podcast Host
 guests:
-- Samdek Joe
+- Sum Dek Joe
 - Haziq
 - Interviewer
 topics:
@@ -35,23 +35,23 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Hos Podcast:** Podcast "Yang Berhenti Menteri," episod 60. Seperti biasa, saya bersama Rafizi Ramli. Dan, satu kehadiran yang agak luar biasa, kita ada tetamu istimewa kita, Saudara Samdek Joe. Minta maaf, adakah ia Sumdek Joe atau Samdek Joe? Samdek Joe. Saya cuma menguji anda. Tapi tidak mengapa, maafkan saya. Apa khabar?
+**Hos Podcast:** Podcast "Yang Berhenti Menteri," episod 60. Seperti biasa, saya bersama Rafizi Ramli. Dan, satu kehadiran yang agak luar biasa, kita ada tetamu istimewa kita, Saudara Sum Dek Joe. Minta maaf, adakah ia Sumdek Joe atau Sum Dek Joe? Sum Dek Joe. Saya cuma menguji anda. Tapi tidak mengapa, maafkan saya. Apa khabar?
 
-**Samdek Joe:** Saya sihat, terima kasih.
+**Sum Dek Joe:** Saya sihat, terima kasih.
 
 **Hos Podcast:** Jika kita lihat profil anda, ini bukan kali pertama anda muncul. Kami telah melihat anda di banyak majlis pelancaran dan jelajah. Melihat kepada latar belakang anda, mari kita berformal sedikit. Anda pernah terlibat dengan Anwar Ibrahim, bukan? Kita akan sentuh perkara itu kemudian. Anda seorang pensyarah di Australian National University dan penasihat untuk Jabatan Makroekonomi Perbendaharaan di Papua New Guinea. Bagaimana keadaannya di Papua New Guinea?
 
-**Samdek Joe:** Pada masa itu, saya bekerja dengan Asian Development Bank (ADB). ADB mempunyai projek di negara-negara membangun seperti Papua New Guinea di mana kerajaan atau kakitangan awam mungkin kekurangan kapasiti untuk belanjawan atau ramalan ekonomi. Peranan utama saya di Jabatan Perbendaharaan—bersamaan dengan Perbendaharaan di Malaysia—adalah untuk menjalankan ramalan jangka sederhana dan belanjawan. Ia tertumpu sepenuhnya kepada hal-hal fiskal.
+**Sum Dek Joe:** Pada masa itu, saya bekerja dengan Asian Development Bank (ADB). ADB mempunyai projek di negara-negara membangun seperti Papua New Guinea di mana kerajaan atau kakitangan awam mungkin kekurangan kapasiti untuk belanjawan atau ramalan ekonomi. Peranan utama saya di Jabatan Perbendaharaan—bersamaan dengan Perbendaharaan di Malaysia—adalah untuk menjalankan ramalan jangka sederhana dan belanjawan. Ia tertumpu sepenuhnya kepada hal-hal fiskal.
 
 **Rafizi Ramli:** Malaysia pernah melalui fasa yang sama pada masa lalu, di mana pakar-pakar dari Bank Dunia dan agensi ekonomi antarabangsa datang untuk membantu dan melatih kita. Ia sama seperti tahap sekarang. Kerajaan sering menerima permintaan, biasanya daripada negara-negara Afrika, untuk menghantar pegawai atau pakar kita bagi melatih kementerian mereka. Semasa saya di Kementerian Ekonomi, kami menghantar perancang makro dan pegawai statistik dari DOSM. Saya berasa kasihan kepada mereka, mereka seperti, "Tolonglah, jangan hantar saya ke Afrika!" Tetapi kerja itu sangat bermakna. Ia adalah mengenai membantu secara langsung mereka yang paling memerlukan, berbanding Malaysia, di mana kita sudah mempunyai kapasiti. Ia benar-benar bermakna, walaupun orang kita lebih suka ditempatkan di New York atau D.C. berbanding Papua New Guinea.
 
 **Hos Podcast:** Mengapa anda tidak mendapat "kesan pemutihan" atau berjemur?
 
-**Samdek Joe:** Saya agak aktif dalam aktiviti menyelam, tetapi setakat ini, saya okey. Peranan terakhir saya adalah sebagai pakar ekonomi di ASEAN+3 Macroeconomic Research Office sebelum meletak jawatan.
+**Sum Dek Joe:** Saya agak aktif dalam aktiviti menyelam, tetapi setakat ini, saya okey. Peranan terakhir saya adalah sebagai pakar ekonomi di ASEAN+3 Macroeconomic Research Office sebelum meletak jawatan.
 
 **Hos Podcast:** Mari kita beralih kepada soalan itu. Mengapa anda sanggup meletak jawatan dan membantu YB Rafizi sepenuh masa?
 
-**Samdek Joe:** Saya fikir ada masanya anda perlu menjawab panggilan. Dalam bahasa Melayu, ia adalah panggilan atau rasa kesedaran. Untuk berkhidmat dan menyumbang kepada perjuangan bersama—ia adalah sesuatu yang perlu anda jawab. Saya berpangkalan di Singapura dengan ASEAN+3, jadi ia tidak sejauh Papua New Guinea. Tetapi saya percaya Malaysia layak mendapat yang jauh lebih baik. Parti politik semasa sangat terhad; mereka tidak membincangkan dasar, reformasi struktur, atau cara menyelesaikan masalah jangka panjang. Ia tidak dibincangkan dalam mana-mana parti politik sedia ada. Kadangkala mereka hanya berkata, "dia tipu saya," dan itu sahaja.
+**Sum Dek Joe:** Saya fikir ada masanya anda perlu menjawab panggilan. Dalam bahasa Melayu, ia adalah panggilan atau rasa kesedaran. Untuk berkhidmat dan menyumbang kepada perjuangan bersama—ia adalah sesuatu yang perlu anda jawab. Saya berpangkalan di Singapura dengan ASEAN+3, jadi ia tidak sejauh Papua New Guinea. Tetapi saya percaya Malaysia layak mendapat yang jauh lebih baik. Parti politik semasa sangat terhad; mereka tidak membincangkan dasar, reformasi struktur, atau cara menyelesaikan masalah jangka panjang. Ia tidak dibincangkan dalam mana-mana parti politik sedia ada. Kadangkala mereka hanya berkata, "dia tipu saya," dan itu sahaja.
 
 **Rafizi Ramli:** Saya tidak memaksa dia. Ia adalah pro bono, sukarela. Joe sebenarnya pelatih saya pada 2014, selepas tahun pertamanya di universiti. Bagi mereka yang berusia 30-an, mereka boleh membandingkan pengalaman mereka—setelah bekerja dan menghadapi realiti sistem—dengan penyelesaian yang ditawarkan oleh ahli politik semasa. Mereka yang mahu melakukan "kerja gila" seperti Joe, yang meletakkan dirinya dalam kedudukan untuk membantu membina ini bersama-sama, saya alu-alukan. Gajinya sepuluh sen—sebenarnya, sifar.
 
@@ -59,13 +59,13 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi Ramli:** Saya tidak membacanya, tetapi intinya, itu adalah LOD untuk RM5 juta. Biasanya, tokoh politik ini tidak akan menang sebanyak itu. Ia seperti Isham Jalil; anda boleh minta berjuta-juta, tetapi hakim akan menentukan "ganti rugi teruk" berdasarkan sejauh mana reputasi itu sebenarnya terjejas. Bahagian "beria" di sini ialah nilainya—RM5 juta—dan keazaman untuk menyaman semua orang yang menyebut nama mereka.
 
-**Samdek Joe:** Dalam istilah akademik, mahkamah di Malaysia menganggap ganti rugi sebagai pampasan, bukan sebagai langkah punitif. Perlu ada pengiraan untuk mewajarkannya—apa yang mereka panggil "penghakiman reputasi" berbanding nilai kewangan. Biasanya, kes berjuta-juta ringgit ini datang daripada mereka yang boleh membuktikan bahawa fitnah itu menyebabkan mereka kehilangan perniagaan, contohnya.
+**Sum Dek Joe:** Dalam istilah akademik, mahkamah di Malaysia menganggap ganti rugi sebagai pampasan, bukan sebagai langkah punitif. Perlu ada pengiraan untuk mewajarkannya—apa yang mereka panggil "penghakiman reputasi" berbanding nilai kewangan. Biasanya, kes berjuta-juta ringgit ini datang daripada mereka yang boleh membuktikan bahawa fitnah itu menyebabkan mereka kehilangan perniagaan, contohnya.
 
 **Rafizi Ramli:** Dr. Asyraf Wajdi mempunyai hak undang-undang untuk menyaman, tetapi tuntutan mahkamah tidak mudah. Di mata undang-undang, anda perlu membuktikan bahawa kenyataan itu dibuat-buat tanpa bukti atau dibuat dengan niat jahat. Sangat sukar bagi seorang ahli politik untuk membuktikan niat jahat apabila kritikan itu berkaitan dengan kepentingan awam. Jika saya mahu menyaman, kes paling mudah untuk dimenangi adalah komen kesat di Facebook, tetapi itu membuang masa dan wang. Kos peguam, proses mediasi—hakim biasanya akan meminta penyelesaian di luar mahkamah. Netizen hanya meminta maaf dan pergi, sementara anda akhirnya membayar peguam. Saya sudah lama menerima hakikat bahawa netizen yang menyebarkan fitnah tidak rugi apa-apa. Mereka buat "hit and run." Saya serahkan kepada Tuhan. Tetapi jika saya pernah menyaman, ia adalah seseorang seperti Caprice, kerana dia membuat tuduhan rasuah yang sangat berat dan jelas membabitkan berbilion ringgit. Itu adalah kes fitnah yang jelas, dan memandangkan Caprice kaya, ia mungkin berbaloi.
 
 **Hos Podcast:** Topik "Beria" kedua: Agenda reformasi gaji yang "disimpan dalam simpanan" sehingga penggal kedua. Ini merujuk kepada kenyataan bekas Timbalan Presiden PKR.
 
-**Samdek Joe:** Saya sangat yakin tentang penggal kedua—tunggu, tidak, saya sebenarnya tidak begitu yakin tentang mereka memenangi pilihan raya umum akan datang. Dan mengenai reformasi gaji, mengapa perlu tunggu penggal kedua? Anda boleh bermula sekarang. Saya tidak faham konteks menunggu itu.
+**Sum Dek Joe:** Saya sangat yakin tentang penggal kedua—tunggu, tidak, saya sebenarnya tidak begitu yakin tentang mereka memenangi pilihan raya umum akan datang. Dan mengenai reformasi gaji, mengapa perlu tunggu penggal kedua? Anda boleh bermula sekarang. Saya tidak faham konteks menunggu itu.
 
 **Rafizi Ramli:** Reformasi gaji—khususnya reformasi pasaran buruh—adalah isu struktur yang kami kenal pasti sejak awal. Saya membentangkan kertas putih mengenai Dasar Gaji Progresif di Parlimen untuk menangani masalah seperti "mampatan gaji." Isunya ialah kerajaan semasa melihat apa sahaja yang datang daripada Kementerian Ekonomi sebagai inisiatif "musuh"—mungkin mereka takut saya akan mendapat kredit, atau mereka lebih suka menggunakan bajet untuk bantuan tunai langsung seperti STR (Sumbangan Tunai Rahmah) sebagai modal politik. Ia bukan sekadar tentang penggal kedua; ia adalah tentang fakta bahawa dasar itu sudah ada dan cuma tidak dilaksanakan.
 
@@ -77,7 +77,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi Ramli:** Memalukan apabila mereka mengumpul nama dan nombor telefon untuk bakul makanan dan kemudian menggunakan data itu untuk mendaftarkan orang ke dalam PKR tanpa kebenaran mereka. Saya lebih suka melembagakan semua bantuan supaya ia tidak digunakan untuk permainan politik. Apabila anda pergi ke sekolah, anda tidak berterima kasih kepada wakil rakyat tempatan untuk bangunan itu kerana ia adalah hak anda sebagai pembayar cukai. Kita belum sampai ke tahap itu lagi. Di negara maju, wakil rakyat tidak bermain watak Santa Claus.
 
-**Samdek Joe:** Australia lebih bertamadun dalam erti kata wacana mereka berorientasikan dasar, bukan berasaskan retorik. Mereka tidak mempunyai ahli parlimen yang berjalan ke sana sini membawa kotak makanan. Malaysia kekurangan sauh "perlindungan sosial" yang digubal, itulah sebabnya bantuan begitu dipolitikkan.
+**Sum Dek Joe:** Australia lebih bertamadun dalam erti kata wacana mereka berorientasikan dasar, bukan berasaskan retorik. Mereka tidak mempunyai ahli parlimen yang berjalan ke sana sini membawa kotak makanan. Malaysia kekurangan sauh "perlindungan sosial" yang digubal, itulah sebabnya bantuan begitu dipolitikkan.
 
 **Rafizi Ramli:** Tepat sekali. Jika kita melembagakan bantuan sosial, bekalan datang daripada kerajaan, bukan parti politik. Kami sedang cuba mengubah budaya itu, walaupun ia adalah perjuangan yang sukar. Kami sedang bergerak ke arah budaya di mana calon dipilih oleh ahli di peringkat akar umbi, bukan oleh presiden parti. Ini mengurangkan tawar-menawar, melobi, dan rasuah politik. Ia adalah kerja yang sedang dalam proses, tetapi kami komited kepadanya.
 
