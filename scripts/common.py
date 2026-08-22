@@ -14,6 +14,21 @@ def slugify(text):
 # through; this episode sits at that transition and carries no number in its title.
 EPISODE_NUMBER_OVERRIDES = {"2k8hW9hDvGE": 0}
 
+# The 6 episodes under the original show name, all from 2024 -- a closed, historical
+# set that won't grow now that the show has been renamed. Everything else (including
+# the 2k8hW9hDvGE transition episode above, titled "Podcast Yang Berhenti Menteri?")
+# belongs under the current name.
+YANG_BAKAR_MENTERI_VIDEO_IDS = {
+    "c9JQ9BoGJms", "WT1m_Yl5E_M", "Y2o4gIQAlwc",
+    "lNmIx3ssUIM", "AHAa0a58w64", "-tpyLr5kwxI",
+}
+
+
+def show_era_dir(episode):
+    if episode["video_id"] in YANG_BAKAR_MENTERI_VIDEO_IDS:
+        return "yang-bakar-menteri"
+    return "yang-berhenti-menteri"
+
 _EPISODE_NUMBER_RE = re.compile(r"(?:Episod|EP)\s*#?(\d+)|#(\d+)", re.IGNORECASE)
 
 
@@ -30,6 +45,12 @@ def episode_slug(episode):
     num = episode_number(episode)
     ep_part = f"ep{num:02d}-" if num is not None else ""
     return f"{date_fmt}-{ep_part}{slugify(episode['title'])}"
+
+
+def episode_path(episode):
+    """Path (relative to EPISODES_DIR) to this episode's folder, e.g.
+    "yang-berhenti-menteri/2025-06-20-ep01-yang-berhenti-menteri-1"."""
+    return f"{show_era_dir(episode)}/{episode_slug(episode)}"
 
 
 def human_duration(seconds):

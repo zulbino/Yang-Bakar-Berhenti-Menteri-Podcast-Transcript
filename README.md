@@ -12,7 +12,7 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for the full pipeline diagram, the models
 
 ## Structure
 
-Each episode lives in `episodes/<publish-date>-<title-slug>/` with four files:
+Each episode lives in `episodes/<show-name>/<publish-date>-<title-slug>/` with four files. `<show-name>` is `yang-bakar-menteri` for the show's original 2024 run, or `yang-berhenti-menteri` for everything since the 2025 rename:
 
 - `raw.md` -- a close-to-verbatim transcript straight from the audio, with timestamps. Filler words are lightly cleaned up but nothing is paraphrased or summarized. Most episodes have speaker labels; episodes transcribed by the local ASR fallback don't (see [ARCHITECTURE.md](ARCHITECTURE.md)).
 - `interview.md` -- a polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu -- closest to how the conversation was actually spoken.

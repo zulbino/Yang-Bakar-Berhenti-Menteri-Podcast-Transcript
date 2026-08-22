@@ -28,7 +28,7 @@ def strip_frontmatter(text):
 
 episodes_dir = Path(__file__).parent.parent / "episodes"
 rows = []
-for ep_dir in sorted(episodes_dir.iterdir()):
+for ep_dir in sorted(episodes_dir.glob("*/*")):
     raw_path = ep_dir / "raw.md"
     interview_path = ep_dir / "interview.md"
     if not raw_path.exists() or not interview_path.exists():

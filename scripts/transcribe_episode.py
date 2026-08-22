@@ -21,7 +21,7 @@ import json
 import sys
 from pathlib import Path
 
-from common import episode_slug, frontmatter_md, human_duration, read_frontmatter_body
+from common import episode_path, episode_slug, frontmatter_md, human_duration, read_frontmatter_body
 import lib_gemini
 import yt_download
 
@@ -56,7 +56,7 @@ def episode_common_fields(episode):
 def process_raw(video_id, force=False, engine="gemini"):
     episode = load_episode(video_id)
     slug = episode_slug(episode)
-    out_dir = EPISODES_DIR / slug
+    out_dir = EPISODES_DIR / episode_path(episode)
     raw_path = out_dir / "raw.md"
 
     if raw_path.exists() and not force:
@@ -99,7 +99,7 @@ def process_raw(video_id, force=False, engine="gemini"):
 def process_rewrite(video_id, force=False, rewrite_engine="gemini"):
     episode = load_episode(video_id)
     slug = episode_slug(episode)
-    out_dir = EPISODES_DIR / slug
+    out_dir = EPISODES_DIR / episode_path(episode)
     raw_path = out_dir / "raw.md"
     interview_path = out_dir / "interview.md"
     interview_en_path = out_dir / "interview-en.md"

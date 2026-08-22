@@ -118,7 +118,7 @@ def check_episode(ep_dir):
 
 def main():
     results = {}
-    for ep_dir in sorted(EPISODES_DIR.iterdir()):
+    for ep_dir in sorted(EPISODES_DIR.glob("*/*")):
         if not ep_dir.is_dir():
             continue
         results[ep_dir.name] = check_episode(ep_dir)

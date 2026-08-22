@@ -12,7 +12,7 @@ Lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris) untuk rajah ali
 
 ## Struktur
 
-Setiap episod berada dalam `episodes/<tarikh-siaran>-<slug-tajuk>/` dengan empat fail:
+Setiap episod berada dalam `episodes/<nama-rancangan>/<tarikh-siaran>-<slug-tajuk>/` dengan empat fail. `<nama-rancangan>` ialah `yang-bakar-menteri` untuk siri asal 2024, atau `yang-berhenti-menteri` untuk semua episod selepas penukaran nama pada 2025:
 
 - `raw.md` -- transkrip hampir-verbatim terus daripada audio, lengkap dengan cap masa. Perkataan pengisi (filler) dibersihkan sedikit tetapi tiada apa-apa diparafrasa atau diringkaskan. Kebanyakan episod ada label penutur; episod yang ditranskrip melalui alternatif ASR tempatan tiada label penutur (lihat [ARCHITECTURE.md](ARCHITECTURE.md)).
 - `interview.md` -- tulisan semula gaya Tanya-Jawab akhbar yang dikemas, dikekalkan dalam bahasa campuran Inggeris/Bahasa Melayu asal -- paling hampir dengan cara perbualan itu sebenarnya dituturkan.
