@@ -10,6 +10,10 @@ Hanya episod penuh (1+ jam) disertakan. Teaser pendek, klip sorotan, snippet kad
 
 Lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris) untuk rajah aliran kerja penuh, model-model yang telah diuji, dan sebab di sebalik pilihan teknologi yang digunakan.
 
+## Kenapa arkib ini wujud
+
+Rafizi Ramli bercakap berjam-jam dalam podcast ini tentang apa yang sebenarnya berlaku dalam kerajaan -- bagaimana sesuatu cadangan reformasi dikemukakan, siapa menghalangnya, kenapa, dan apa yang dia akan buat secara berbeza pada masa depan. Butiran sebegini wujud dalam video sepanjang 2-3 jam dan pada dasarnya hilang begitu sahaja: tiada siapa menatal semula podcast untuk mencari satu butiran dasar daripada episod ke-34. Saya bina arkib ini supaya rekod itu wujud sebagai teks yang boleh dicari -- sesuatu yang boleh dipetik wartawan, dirujuk penulis biografi, atau dicari oleh rakyat Malaysia yang cuba memahami kenapa sesuatu percubaan reformasi gagal buat kali pertama.
+
 ## Struktur
 
 Setiap episod berada dalam `episodes/<nama-rancangan>/<tarikh-siaran>-<slug-tajuk>/` dengan empat fail. `<nama-rancangan>` ialah `yang-bakar-menteri` untuk siri asal 2024, atau `yang-berhenti-menteri` untuk semua episod selepas penukaran nama pada 2025:
@@ -28,6 +32,8 @@ Kesemua empat fail berkongsi frontmatter YAML yang sama (tajuk, ID video, URL Yo
 Transkrip dan tulisan semula dijana oleh model AI yang mendengar terus daripada audio sumber. Ia tidak disahkan secara manual berbanding rakaman asal. Percampuran bahasa (code-switching) antara Bahasa Melayu dan Inggeris dikekalkan, bukan diterjemah, tetapi kesilapan, salah dengar, atau salah kaitan penutur adalah mungkin berlaku, terutamanya semasa pertindihan suara (cross-talk). Anggap `raw.md` sebagai rujukan paling hampir dengan sumber asal, dan `interview.md` sebagai tulisan semula editorial yang dibina di atasnya.
 
 `python scripts/qa_check.py` mengaudit setiap episod untuk kesan kegagalan yang diketahui (tulisan semula terpotong, cap masa yang berhalusinasi, penaakulan model yang tertinggal dalam teks, dan lain-lain) dan menulis hasilnya ke `QA_CHECKLIST.md`. Jalankan skrip ini selepas mana-mana kumpulan pemprosesan dan semak hasilnya sebelum mempercayai kod keluar (exit code) yang bersih -- beberapa kegagalan ini tidak menghasilkan sebarang ralat atau kod keluar bukan-sifar, hanya kandungan fail yang rosak atau terpotong.
+
+Nama khas (nama orang, ejaan luar biasa) yang ditranskrip oleh enjin ASR tempatan belum disemak berbanding mana-mana kamus rujukan. Satu pusingan pembetulan secara manual dirancang, menyemak perkataan yang disyaki berbanding kamus PRPM Dewan Bahasa dan Pustaka melalui pustaka `malaya` -- lihat [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations) (dalam Bahasa Inggeris) untuk butiran alat tersebut.
 
 ## Lesen dan penafian
 
