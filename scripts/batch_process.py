@@ -32,17 +32,30 @@ def commit_episode(out_dir, title, stage):
 
 
 if __name__ == "__main__":
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    force = "--force" in sys.argv
+    argv = sys.argv[1:]
+    # Flag values (e.g. "local" in "--engine local") don't start with "--", so
+    # they must be explicitly excluded below -- otherwise they leak into the
+    # positional video-id filter and silently match zero episodes.
+    skip_indices = set()
+    force = "--force" in argv
+    if force:
+        skip_indices.add(argv.index("--force"))
     stage = "all"
-    if "--stage" in sys.argv:
-        stage = sys.argv[sys.argv.index("--stage") + 1]
+    if "--stage" in argv:
+        idx = argv.index("--stage")
+        stage = argv[idx + 1]
+        skip_indices.update({idx, idx + 1})
     engine = "gemini"
-    if "--engine" in sys.argv:
-        engine = sys.argv[sys.argv.index("--engine") + 1]
+    if "--engine" in argv:
+        idx = argv.index("--engine")
+        engine = argv[idx + 1]
+        skip_indices.update({idx, idx + 1})
     rewrite_engine = "gemini"
-    if "--rewrite-engine" in sys.argv:
-        rewrite_engine = sys.argv[sys.argv.index("--rewrite-engine") + 1]
+    if "--rewrite-engine" in argv:
+        idx = argv.index("--rewrite-engine")
+        rewrite_engine = argv[idx + 1]
+        skip_indices.update({idx, idx + 1})
+    args = [a for i, a in enumerate(argv) if i not in skip_indices]
 
     episodes = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
     episodes.sort(key=lambda ep: ep["upload_date"])  # oldest (Ep 1) first
