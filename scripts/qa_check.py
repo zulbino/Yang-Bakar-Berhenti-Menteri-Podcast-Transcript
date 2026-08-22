@@ -11,6 +11,9 @@ Checks per episode:
     wrapped timestamps in place of real transcript content
   - raw.md uses "[MM:SS] Speaker: text" on one line consistently, not split
     across two lines
+  - interview.md / interview-ms.md actually contain Malay content when their
+    own frontmatter claims language: mixed/ms (catches the rewrite stage
+    silently translating everything to English instead of preserving it)
   - cross-references data/manifest.json to list episodes with no episodes/
     folder yet (never run through the pipeline at all)
 
@@ -55,6 +58,16 @@ BACKTICK_TIMESTAMP_RE = re.compile(r"`(?:\d{1,2}:)?\d{2}:\d{2}`")
 # happens to leave standalone [MM:SS] lines with no speaker/text at all.
 SPLIT_TIMESTAMP_RE = re.compile(r"^\[((?:\d+:)?\d+:\d+)\]\s*\n(?=[A-Z][\w .'-]{0,40}:\s)", re.M)
 
+# The rewrite stage sometimes ignores its own instruction to preserve
+# code-switching and translates a "mixed" or "ms" file into plain English
+# instead -- confirmed on several episodes by comparing against a genuinely
+# mixed raw.md. Length-based truncation checks miss this since translating
+# doesn't necessarily shorten the text. Density is calibrated against known
+# episodes: real mixed/Malay content scores several to a dozen hits per 1000
+# chars; fully English-translated content scores under 0.3.
+MALAY_MARKERS = (" yang ", " dan ", " saya ", " kita ", " itu ", " ini ", " tak ", " dengan ", " kepada ", " juga ")
+MIN_MALAY_DENSITY = 1.0  # marker hits per 1000 chars, for files claiming language: mixed/ms
+
 
 def last_timestamp_seconds(text):
     matches = TIMESTAMP_RE.findall(text)
@@ -67,6 +80,12 @@ def last_timestamp_seconds(text):
 def duration_seconds(frontmatter_text):
     m = re.search(r"duration_seconds:\s*(\d+)", frontmatter_text)
     return int(m.group(1)) if m else None
+
+
+def malay_density(text):
+    lowered = text.lower()
+    hits = sum(lowered.count(marker) for marker in MALAY_MARKERS)
+    return hits / len(lowered) * 1000 if lowered else 0
 
 
 def check_episode(ep_dir):
@@ -109,9 +128,20 @@ def check_episode(ep_dir):
         if not path.exists():
             issues.append(f"missing {name}")
             continue
-        ratio = len(path.read_text(encoding="utf-8")) / raw_len if raw_len else 0
+        interview_text = path.read_text(encoding="utf-8")
+        ratio = len(interview_text) / raw_len if raw_len else 0
         if ratio < MIN_INTERVIEW_RATIO:
             issues.append(f"{name} looks truncated (ratio {ratio:.2f} vs raw.md, expected >= {MIN_INTERVIEW_RATIO})")
+
+        lang_match = re.search(r"^language:\s*(\S+)", interview_text, re.M)
+        language = lang_match.group(1) if lang_match else None
+        if language in ("mixed", "ms"):
+            density = malay_density(interview_text)
+            if density < MIN_MALAY_DENSITY:
+                issues.append(
+                    f"{name} claims language: {language} but reads as English-only "
+                    f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})"
+                )
 
     return issues
 
