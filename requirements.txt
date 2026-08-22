@@ -11,4 +11,4 @@ soundfile
 silero-vad
 
 # Claude rewrite fallback (--rewrite-engine claude), see scripts/lib_claude_rewrite.py
-anthropic
+# -- needs the `claude` CLI on PATH (Claude Code), not a Python package
