@@ -40,6 +40,30 @@ reasons (see below).
 
 ## Model evaluation history
 
+### Raw transcription: earlier LLM-based candidates (rejected before the Whisper comparison)
+
+Before settling on a fine-tuned Whisper model, an earlier round tested whether a
+general-purpose local LLM with native audio input could replace Gemini outright. Five
+models across three architectures were run against the same real clip (a segment of
+episode 9 containing "Ahli Parlimen Ampang"), via LM Studio / llama.cpp on the RTX
+2070:
+
+| Model | Result |
+|---|---|
+| `whisper-large-v3-turbo` (hosted on Groq) | Corrupted "Ampang" to "Ambang"; fabricated a plausible-sounding passage not present in the audio |
+| `Qwen3-ASR-1.7B` (`ggml-org/Qwen3-ASR-1.7B-GGUF`) | Same "Ambang" corruption and near-identical fabricated passage |
+| `polyglot-lion-1.7b` (Qwen3-ASR fine-tune for SEA languages, converted to GGUF manually) | Same corruption and fabrication -- confirms the problem lives in the shared audio encoder, not the text decoder a fine-tune would touch |
+| `gemma-4-12b-it` (`unsloth/gemma-4-12b-it-GGUF`) | Uncapped: runaway generation, 1488+ tokens for a 70-second clip, never terminated (llama.cpp's Gemma-4 audio path is explicitly experimental). Capped at 154 tokens: got "Ampang" right for the first time, but substituted Tagalog for the opening Malay line and mangled the show's own name |
+
+All five models, across three unrelated architectures, hallucinated the same
+fabricated passage at the same point in the clip -- most likely a shared
+training-data reaction to an ambiguous moment in the audio (background chatter or
+cross-talk) that Gemini correctly ignored. That result, plus the runaway-generation
+and language-substitution failures, closed out this line of investigation: stay on
+Gemini for raw transcription. The later local-ASR fallback (below) used a
+deliberately narrower starting point -- Malay-specific Whisper fine-tunes rather than
+general-purpose multimodal LLMs -- and got a working result.
+
 ### Raw transcription: which local ASR model
 
 Five candidates were tested directly against real episode audio (a 13-minute clip,
@@ -61,6 +85,16 @@ model or to Malay/English code-switching.
 Local ASR's known limitation: no speaker diarization. Episodes transcribed this way
 have `[MM:SS] text` turns with no speaker label, documented in each file's
 frontmatter `note` field.
+
+### Raw transcription: hardware
+
+Local ASR runs on a machine with two GPUs: an NVIDIA RTX 2070 (8GB, used for
+inference) and a GTX 970 (4GB, otherwise idle), driver 581.57, PyTorch built for
+CUDA 13.0. With both GPUs visible to CUDA, long transcription runs deadlock
+unpredictably -- a silent hang at 0% CPU, no error, at a different point in the
+run each time. `lib_local_asr.py` sets `CUDA_VISIBLE_DEVICES=0` unconditionally
+before torch initializes to force single-GPU use. Harmless on a single-GPU
+machine; required on this one.
 
 ### Raw transcription: the Gemini model chain
 
