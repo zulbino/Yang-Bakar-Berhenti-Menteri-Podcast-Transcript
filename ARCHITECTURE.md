@@ -163,7 +163,12 @@ against the `episodes/` folder to flag episodes that were never processed at all
 
 - Episodes transcribed via `--engine local` have no speaker diarization.
 - Local ASR proper-noun accuracy (names, unusual spellings) isn't verified against
-  any reference dictionary yet -- a manual correction pass is planned.
+  any reference dictionary yet -- a manual correction pass is planned, guided by the
+  repo owner rather than guessed at automatically. Candidate tooling for that pass:
+  the `malaya` Python library's `dictionary.keyword_dbp()` and `dictionary.is_malay()`,
+  which check a word against Dewan Bahasa dan Pustaka's PRPM reference (scraped, not a
+  documented API -- fine for occasional lookups during a correction pass, not for
+  validating every word of every transcript at scale).
 - Crosstalk-driven entity errors are possible in any Whisper-family transcription,
   local or cloud.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer
