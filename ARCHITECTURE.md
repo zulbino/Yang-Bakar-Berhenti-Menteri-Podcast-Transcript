@@ -95,12 +95,11 @@ rather than any one key or project), a fallback provider was needed here too.
   extraction -- across dozens of hour-plus episodes) and over `claude-haiku-4-5` to
   avoid losing nuance on mixed-language political content.
 - **First implementation** called the Anthropic Messages API directly through the
-  `anthropic` Python SDK. It turned out no standalone Anthropic API key was available
-  for this project -- it runs under an enterprise Claude Code seat scoped to the
-  Claude Code product, not a general-purpose API credit.
+  `anthropic` Python SDK. That needs a standalone `ANTHROPIC_API_KEY`, which wasn't
+  available for this project.
 - **Rewritten** to shell out to the `claude` CLI in headless mode (`claude -p`)
-  instead, which reuses that same enterprise login with no separate credential
-  needed.
+  instead, which uses whatever Claude Code authentication is already configured
+  locally, with no separate API key needed.
 - **A real cost issue** surfaced during that rewrite. Without an explicit
   `--system-prompt` override and a full `--disallowedTools` list, each one-off CLI
   call reloaded Claude Code's entire default system prompt and tool schemas fresh --
