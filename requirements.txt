@@ -3,3 +3,9 @@ yt-dlp-ejs
 bgutil-ytdlp-pot-provider
 google-genai
 pyyaml
+
+# local ASR fallback (--engine local), see scripts/lib_local_asr.py
+torch
+transformers
+soundfile
+silero-vad
