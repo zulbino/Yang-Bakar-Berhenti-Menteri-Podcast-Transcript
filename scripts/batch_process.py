@@ -7,6 +7,7 @@ Usage:
   python scripts/batch_process.py --stage rewrite         # rewrite/translate/metadata only (raw.md must already exist)
   python scripts/batch_process.py --force                # redo existing files
   python scripts/batch_process.py --engine local          # raw stage via local ASR fallback (see lib_local_asr.py)
+  python scripts/batch_process.py --rewrite-engine claude  # rewrite stage via Claude fallback (see lib_claude_rewrite.py)
   python scripts/batch_process.py ID1 ID2 ID3            # only these video IDs
 """
 import json
@@ -39,6 +40,9 @@ if __name__ == "__main__":
     engine = "gemini"
     if "--engine" in sys.argv:
         engine = sys.argv[sys.argv.index("--engine") + 1]
+    rewrite_engine = "gemini"
+    if "--rewrite-engine" in sys.argv:
+        rewrite_engine = sys.argv[sys.argv.index("--rewrite-engine") + 1]
 
     episodes = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
     episodes.sort(key=lambda ep: ep["upload_date"])  # oldest (Ep 1) first
@@ -49,7 +53,7 @@ if __name__ == "__main__":
     for i, ep in enumerate(episodes, 1):
         print(f"\n### episode {i}/{len(episodes)}: {ep['title']} ###")
         try:
-            out_dir = process(ep["video_id"], force=force, stage=stage, engine=engine)
+            out_dir = process(ep["video_id"], force=force, stage=stage, engine=engine, rewrite_engine=rewrite_engine)
             if out_dir:
                 commit_episode(out_dir, ep["title"], stage)
         except Exception as e:

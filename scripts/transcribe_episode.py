@@ -5,12 +5,17 @@ loses the (slow, audio-dependent) raw transcription:
   - raw phase:     download audio -> upload -> transcribe -> write raw.md
   - rewrite phase: read raw.md -> clean/EN/MS rewrite + metadata -> write interview*.md
 
-Usage: python scripts/transcribe_episode.py <video_id> [--force] [--stage raw|rewrite|all] [--engine gemini|local]
+Usage: python scripts/transcribe_episode.py <video_id> [--force] [--stage raw|rewrite|all]
+       [--engine gemini|local] [--rewrite-engine gemini|claude]
 
 --engine local runs the raw stage on-device (mesolitica/malaysian-whisper-medium-v2 +
 VAD chunking, see lib_local_asr.py) instead of the Gemini API -- a fallback for when
 Gemini access is unavailable (e.g. billing blocked). No speaker diarization. Only
-affects the raw stage; rewrite always uses Gemini.
+affects the raw stage.
+
+--rewrite-engine claude runs the rewrite stage (clean/EN/MS rewrite + metadata) via
+the Claude API (see lib_claude_rewrite.py) instead of Gemini, same fallback reason.
+Only affects the rewrite stage.
 """
 import json
 import sys
@@ -91,7 +96,7 @@ def process_raw(video_id, force=False, engine="gemini"):
     return out_dir
 
 
-def process_rewrite(video_id, force=False):
+def process_rewrite(video_id, force=False, rewrite_engine="gemini"):
     episode = load_episode(video_id)
     slug = episode_slug(episode)
     out_dir = EPISODES_DIR / slug
@@ -107,18 +112,23 @@ def process_rewrite(video_id, force=False):
         print(f"skip rewrite {slug} (already exists, use --force to redo)")
         return out_dir
 
-    print(f"=== rewrite: {slug} ===")
-    client = lib_gemini.get_client()
+    print(f"=== rewrite: {slug} ({rewrite_engine}) ===")
+    if rewrite_engine == "claude":
+        import lib_claude_rewrite
+        engine = lib_claude_rewrite
+    else:
+        engine = lib_gemini
+    client = engine.get_client()
     _, full_raw = read_frontmatter_body(raw_path)
 
     print("rewriting to newspaper style (mixed) ...")
-    full_clean = lib_gemini.rewrite_clean(client, full_raw)
+    full_clean = engine.rewrite_clean(client, full_raw)
     print("translating to English ...")
-    full_en = lib_gemini.translate(client, full_clean, "English")
+    full_en = engine.translate(client, full_clean, "English")
     print("translating to Bahasa Melayu ...")
-    full_ms = lib_gemini.translate(client, full_clean, "Bahasa Melayu")
+    full_ms = engine.translate(client, full_clean, "Bahasa Melayu")
     print("extracting metadata (hosts/guests/summary/topics) ...")
-    meta = lib_gemini.extract_metadata(client, full_clean)
+    meta = engine.extract_metadata(client, full_clean)
 
     interview_common = episode_common_fields(episode)
     interview_common["hosts"] = meta["hosts"]
@@ -147,12 +157,12 @@ def process_rewrite(video_id, force=False):
     return out_dir
 
 
-def process(video_id, force=False, stage="all", engine="gemini"):
+def process(video_id, force=False, stage="all", engine="gemini", rewrite_engine="gemini"):
     out_dir = None
     if stage in ("raw", "all"):
         out_dir = process_raw(video_id, force=force, engine=engine)
     if stage in ("rewrite", "all"):
-        out_dir = process_rewrite(video_id, force=force)
+        out_dir = process_rewrite(video_id, force=force, rewrite_engine=rewrite_engine)
     return out_dir
 
 
@@ -165,4 +175,7 @@ if __name__ == "__main__":
     engine = "gemini"
     if "--engine" in sys.argv:
         engine = sys.argv[sys.argv.index("--engine") + 1]
-    process(video_id, force=force, stage=stage, engine=engine)
+    rewrite_engine = "gemini"
+    if "--rewrite-engine" in sys.argv:
+        rewrite_engine = sys.argv[sys.argv.index("--rewrite-engine") + 1]
+    process(video_id, force=force, stage=stage, engine=engine, rewrite_engine=rewrite_engine)
