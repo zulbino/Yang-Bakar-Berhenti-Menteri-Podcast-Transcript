@@ -6,168 +6,168 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 ## Flagged episodes
 
-- [ ] **2025-05-10-podcast-yang-berhenti-menteri**
+- [ ] **2025-05-10-ep00-podcast-yang-berhenti-menteri**
   - interview-ms.md looks truncated (ratio 0.33 vs raw.md, expected >= 0.35)
-- [ ] **2025-08-01-yang-berhenti-menteri-7**
+- [ ] **2025-08-01-ep07-yang-berhenti-menteri-7**
   - interview.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
-- [ ] **2025-08-15-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi**
+- [ ] **2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi**
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-- [ ] **2025-10-24-yang-berhenti-menteri-episod-19**
+- [ ] **2025-10-24-ep19-yang-berhenti-menteri-episod-19**
   - interview.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
-- [ ] **2025-10-31-yang-berhenti-menteri-episod-20**
+- [ ] **2025-10-31-ep20-yang-berhenti-menteri-episod-20**
   - raw.md has a 23165-char block with no paragraph breaks (wall-of-text)
-- [ ] **2025-11-07-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21**
+- [ ] **2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21**
   - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
-- [ ] **2025-11-14-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22**
+- [ ] **2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22**
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-- [ ] **2025-11-21-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo**
+- [ ] **2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo**
   - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-- [ ] **2025-11-28-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
+- [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
   - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-- [ ] **2025-12-05-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25**
+- [ ] **2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-- [ ] **2025-12-12-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26**
+- [ ] **2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26**
   - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-- [ ] **2025-12-19-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
+- [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-- [ ] **2025-12-26-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua**
+- [ ] **2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua**
   - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-- [ ] **2026-01-02-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
+- [ ] **2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
   - interview.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.29 vs raw.md, expected >= 0.35)
-- [ ] **2026-01-09-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
+- [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
   - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
-- [ ] **2026-01-23-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
+- [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
   - raw.md timestamp coverage 454% -- likely hallucinated runaway timestamps
   - interview.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
-- [ ] **2026-02-27-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha**
+- [ ] **2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha**
   - raw.md timestamp coverage 12703% -- likely hallucinated runaway timestamps
   - raw.md has a 178381-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-- [ ] **2026-03-13-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
+- [ ] **2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
   - raw.md timestamp coverage 165% -- likely hallucinated runaway timestamps
   - interview.md looks truncated (ratio 0.19 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
-- [ ] **2026-03-18-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
+- [ ] **2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
   - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-- [ ] **2026-03-27-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan**
+- [ ] **2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-- [ ] **2026-04-03-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-**
+- [ ] **2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-**
   - interview.md looks truncated (ratio 0.01 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.01 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.01 vs raw.md, expected >= 0.35)
-- [ ] **2026-04-10-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
+- [ ] **2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
   - raw.md timestamp coverage 178% -- likely hallucinated runaway timestamps
   - raw.md has a 223696-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-- [ ] **2026-04-17-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
+- [ ] **2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-- [ ] **2026-04-24-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih**
+- [ ] **2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih**
   - interview.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
-- [ ] **2026-05-01-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r**
+- [ ] **2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r**
   - raw.md timestamp coverage 4728% -- likely hallucinated runaway timestamps
   - raw.md has a 156731-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-- [ ] **2026-05-08-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47**
+- [ ] **2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47**
   - raw.md timestamp coverage 293% -- likely hallucinated runaway timestamps
   - raw.md has a 408414-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-- [ ] **2026-05-15-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi**
+- [ ] **2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-05-22-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
+- [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
   - raw.md timestamp coverage 5466% -- likely hallucinated runaway timestamps
   - raw.md has a 200936-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
-- [ ] **2026-05-29-rafizi-berdepan-firing-squad-ybm-50**
+- [ ] **2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-06-05-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51**
+- [ ] **2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-06-12-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb**
+- [ ] **2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-06-19-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
+- [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-07-17-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-**
+- [ ] **2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-07-24-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
+- [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md timestamp coverage 465% -- likely hallucinated runaway timestamps
   - raw.md has a 226393-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-- [ ] **2026-07-31-laporan-rci-tabung-haji-ybm-57**
+- [ ] **2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57**
   - interview.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
-- [ ] **2026-08-07-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
+- [ ] **2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-- [ ] **2026-08-14-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-**
+- [ ] **2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-**
   - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
@@ -175,12 +175,12 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 ## Clean episodes
 
-- [x] 2024-02-05-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-
-- [x] 2025-09-05-yang-berhenti-menteri-episod-12
-- [x] 2025-09-12-yang-berhenti-menteri-episod-13
-- [x] 2025-09-26-yang-berhenti-menteri-episod-15
-- [x] 2025-10-03-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v
-- [x] 2025-10-10-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam
-- [x] 2025-10-17-yang-berhenti-menteri-episod-18
-- [x] 2026-01-16-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk
-- [x] 2026-01-30-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-
+- [x] 2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-
+- [x] 2025-09-05-ep12-yang-berhenti-menteri-episod-12
+- [x] 2025-09-12-ep13-yang-berhenti-menteri-episod-13
+- [x] 2025-09-26-ep15-yang-berhenti-menteri-episod-15
+- [x] 2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v
+- [x] 2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam
+- [x] 2025-10-17-ep18-yang-berhenti-menteri-episod-18
+- [x] 2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk
+- [x] 2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-
