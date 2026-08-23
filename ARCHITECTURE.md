@@ -127,6 +127,36 @@ fallback to advance to. That's the actual reason `--engine local` exists for the
 stage: not a transcription-quality problem, a quota-shape problem specific to
 long-form audio in a single call.
 
+### Raw transcription: the PROHIBITED_CONTENT safety block
+
+While redoing the raw stage through Gemini across the archive, two episodes
+discussing corruption allegations against named public officials failed every retry
+with an identical error: `finish_reason=None,
+prompt_feedback=block_reason=PROHIBITED_CONTENT`.
+
+This is not the same thing `SAFETY_SETTINGS` above controls. Gemini's API has two
+independent safety layers: the five adjustable harm categories (harassment, hate
+speech, sexual content, dangerous content, civic integrity) this pipeline already
+sets to `BLOCK_NONE`, and a separate built-in "prohibited use policy" layer that no
+safety-setting combination can disable. `PROHIBITED_CONTENT` belongs to the second
+layer, so widening `SAFETY_SETTINGS` further would not have helped. Retrying the same
+model against it is also pointless -- the classification is deterministic, not a
+transient failure -- so the original 10-attempt exponential backoff wasted roughly 15
+minutes per blocked episode before giving up.
+
+Reports on Google's own AI Developer forum note this block triggers more readily on
+the newest model generation (Gemini 3.x) than older ones, particularly for
+audio/video-understanding requests -- exactly this pipeline's raw-transcription call
+shape. `gemini-3.7-flash` and `gemini-3.6-flash` had only just been promoted to the
+front of `MODEL_FALLBACK_CHAIN` (previous section) when this surfaced, which fits.
+
+**Fix**: `generate_content()` detects `PROHIBITED_CONTENT` immediately after the API
+call returns and advances to the next model in the fallback chain right away -- the
+same mechanism already used for quota exhaustion and sustained `503`s
+(`_is_prohibited_content_block` in `lib_gemini.py`). This walks straight to an
+older/different-generation model within the same attempt, instead of exhausting ten
+identical retries against a model that will never produce output for that content.
+
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
 The rewrite stage originally only used Gemini. When Gemini's account-level billing
@@ -173,6 +203,13 @@ wall-of-text blocks with no paragraph breaks, rewrite files disproportionately s
 against their raw transcript, leaked model reasoning in place of transcript content,
 and inconsistent turn formatting. It also cross-references `data/manifest.json`
 against the `episodes/` folder to flag episodes that were never processed at all.
+
+Every output file's frontmatter also records which model actually produced it
+(`model:`), and `qa_check.py` flags any file made by one of the fallback chain's
+weakest, most degradation-prone models (`gemini-3.1-flash-lite` and the `gemini-2.5`
+line) for a closer look, even when the other checks pass. This field is only
+populated for episodes (re)processed after it was added -- older episodes show no
+model line in `QA_CHECKLIST.md` until reprocessed.
 
 ## Known limitations
 
