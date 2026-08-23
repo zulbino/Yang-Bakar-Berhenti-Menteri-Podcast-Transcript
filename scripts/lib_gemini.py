@@ -38,10 +38,15 @@ from common import human_duration, retry
 # so degradation-prone models sit at the end, reached only once everything
 # better is genuinely exhausted or down. qa_check.py's language-density check
 # is what catches it if a weak fallback model does mistranslate; it no longer
-# passes silently. gemini-3.1-pro and the gemini-2.5 line are included for
+# passes silently. gemini-3.1-pro-preview and gemini-2.5-pro are included for
 # quota diversity (each model's free-tier quota is independent, see above) --
-# 2.5 is the older, cheaper, previously-proven generation, kept as a last
-# resort rather than a first choice.
+# kept as a last resort rather than a first choice. gemini-2.5-flash and
+# gemini-2.5-flash-lite used to round out this tier but both 404 with "no
+# longer available to new users" on this project -- confirmed directly, not
+# just quota-exhausted -- so they're replaced with the "-latest" rolling
+# aliases (gemini-flash-latest / gemini-flash-lite-latest), which stay
+# pointed at whatever generation Google currently serves instead of a pinned
+# version that can be retired later.
 MODEL_FALLBACK_CHAIN = [
     "gemini-3.7-flash",
     "gemini-3.6-flash",
@@ -51,8 +56,8 @@ MODEL_FALLBACK_CHAIN = [
     "gemini-3-flash-preview",
     "gemini-3.1-flash-lite",
     "gemini-2.5-pro",
-    "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
+    "gemini-flash-latest",
+    "gemini-flash-lite-latest",
 ]
 _model_idx = 0
 UNAVAILABLE_RETRIES_BEFORE_FALLBACK = 2

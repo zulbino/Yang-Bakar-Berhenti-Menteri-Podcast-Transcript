@@ -105,26 +105,33 @@ first, since a single transient 503 usually self-recovers, then advance):
 
 `gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.1-pro-preview` → `gemini-3.5-flash` →
 `gemini-3.5-flash-lite` → `gemini-3-flash-preview` → `gemini-3.1-flash-lite` →
-`gemini-2.5-pro` → `gemini-2.5-flash` → `gemini-2.5-flash-lite`
+`gemini-2.5-pro` → `gemini-flash-latest` → `gemini-flash-lite-latest`
 
 It also advances on a plain `404 NOT_FOUND` (`_is_model_not_found`) -- a wrong or
 deprecated model ID in this list 404s identically on every retry, which otherwise
-burns a full 10-attempt backoff before failing the whole episode. Caught directly:
-this list originally had `gemini-3.1-pro` (missing the `-preview` suffix that the
-real model ID needs), confirmed against `client.models.list()`. Treating any 404 as
-"skip this model" fixes that specific typo and the general class of bug -- a model
-Google renames or retires later won't need a special case either.
+burns a full 10-attempt backoff before failing the whole episode. Caught twice in
+practice: this list originally had `gemini-3.1-pro` (missing the `-preview` suffix
+the real model ID needs, confirmed against `client.models.list()`), and separately
+`gemini-2.5-flash` / `gemini-2.5-flash-lite` turned out to be fully retired --
+`404 "no longer available to new users"`, not a quota issue -- so a batch that
+genuinely exhausted every model above them cascaded all the way to the end and
+dead-ended on two models that could never succeed. Replaced with the `-latest`
+rolling aliases (`gemini-flash-latest`, `gemini-flash-lite-latest`), which track
+whatever generation Google currently serves instead of a pinned version number that
+can be retired later. Treating any 404 as "skip this model" fixes both incidents and
+the general class of bug -- a model Google renames or retires again won't need a new
+special case.
 
 `gemini-3.7-flash` was originally excluded outright -- it repeatedly returned
 sustained `503 UNAVAILABLE` (high demand) since its Aug 13 2026 launch, a Google-side
 capacity problem, not a quota problem, so falling back to it used to just waste an
 attempt. Re-added once that congestion reportedly cleared, now with real 503 handling
-(above) instead of exclusion. The `gemini-2.5` line is the older, cheaper, previously-
-proven generation, kept at the end as a last resort for quota diversity rather than a
-first choice. Every model in this chain -- not just the weakest ones -- has shown it
-can silently drop mixed-language code-switching under some conditions (see the
-model-evaluation history above); `qa_check.py`'s language-density check is what
-catches that now, not model selection alone.
+(above) instead of exclusion. `gemini-2.5-pro` and the two `-latest` aliases are kept
+at the end as a last resort for quota diversity rather than a first choice. Every
+model in this chain -- not just the weakest ones -- has shown it can silently drop
+mixed-language code-switching under some conditions (see the model-evaluation history
+above); `qa_check.py`'s language-density check is what catches that now, not model
+selection alone.
 
 This chain handles *daily request-count* exhaustion well. It doesn't help with a
 different quota dimension: *input tokens per minute*. A single raw-transcription call
