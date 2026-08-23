@@ -7,522 +7,1255 @@ publish_date: '2025-08-29'
 duration_seconds: 6675
 duration: 1h 51m
 view_count: 37381
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[02:30] Assalamualaikum and welcome back to the latest episode of Yang Berhenti Menteri with me, your host for tonight, Iqbal, and our permanent fixture, YB Rafizi Ramli. Ficture and fittings, I think. And also, we have a special guest for tonight, YB Nick Nazmi. Another one, Yang Berhenti Menteri. Oh yeah, it's the second episode of Yang Berhenti Menteri. Before this, Rafizi used to...
+[00:00] [music/intro]
 
-[02:58] Mencul kat lebih masa sebagai You punya guest Guest dan sekarang ni you're returning the favour ataupun
 
-[03:06] I think, okay lah, let me be frank lah, ni kan. Minggu ni takde orang? Haa, sebab susah sangat to get people to appear, semua takut. Okay. Takut kepada you ke takut kepada... I know, I think...
 
-[03:21] I want to say I'm afraid of Farhan. But I think it's generally, it's like, if it's normal in our society, if you are anti-mainstream a little bit, so people don't want to be near, right? So, a few panelists who agreed last week, all cancelled, cancelled, cancelled. Okay. But cancelled at the last minute?
+[02:30] Iqbal: Assalamualaikum dan selamat kembali ke episod terkini Yang Berhenti Menteri bersama saya, hos anda untuk malam ni, Iqbal, dan our permanent fixture, YB Rafizi Ramli.
 
-[03:47] There was no last minute, 3-4 days before that. It's the same, last minute. So, there's nothing against Nick. But thank you for saving us tonight. Actually, there are other hosts that have been cancelled. So, I had to... Hahaha. Don't be so arrogant, Iqbal. Because last week, we had feedback that my performance as a host last week was very disappointing to YU Rafizi because...
 
-[04:16] Your audience, they love you YB. They love your lectures. And you also admit that you have a soul of a preacher. So let's give the people what they want tonight. I think the audience is different. The audience that I've seen so far in YBM podcast is that they want to go deep. They don't want to just... Superficial. Or just remarks.
 
-[04:46] Dia nak tahu jadi memang panjang sikit. So dia orang tak kisahlah kalau kita membebel panjang sikit. So long as you go deep into an issue lah. Go deep dan juga go berisi dari segitu. Berisi macam pelih aku je. I've lost weight though. That's a recurring thing that Nick Nazmi was saying to us last week in our previous interview with you. Bahawa you bukan jenis bersukan. I was saying, I was saying, I was saying waktu tu, kalau Kak Collette tu you were everywhere except for sports. But I didn't say you kemuliaan main hockey. Tapi minggu lepas bila kita orang tanya YB Rafizi, apa kementerian yang mungkin dia akan minat untuk terajui? Kementerian Sukan tu was on lower on his list. Okay, so. No, it's actually opportunistic sebab...
+[02:41] Rafizi Ramli: Fixture and fittings aku ni.
 
-[05:39] I mean you have to match dengan your skill kan Aku kalau orang macam dekat college dulu form 1 kan
 
-[05:47] You see all the sportsmen, it's not that I have a lower chance of making a difference if I want to play rugby. So I can, but I have to work double, triple than others. So what should I do? I should do something else. Path of least resistance. But at the same time, my perception when I came back from studying abroad,
 
-[06:10] luar negara mungkin yes kita ada so called jocks yang ahli-ahli sukan yang itulah budak-budak popular tapi kat sini saya perasan golongan budak popular adalah golongan budak berdebat
+[02:43] Iqbal: Dan juga kita punya guest, special guest untuk malam ni, YB Nik Nazmi. Seorang lagi.
 
-[06:22] No, they actually depends. Depends on the culture. But then you were also a debate student. That's because I was con-go. No, because debaters at MC, going back to MC, at our school, they had a long tradition of debating. So, seniors debating is the most common.
 
-[06:49] Di bulan 1 aku rasa dia dah pergi screen test lah. So dia dah kidnap you awal-awal. Sebab dia, I don't know how it works now lah kan. Macam kami dulu, memang the first 1-2 months tu, setiap pasukan akan pergi promote, join lah pasukan kami. Okay. So you decide lah. Discounting lah. Discounting lah. They do scouts kan. Tapi antara yang paling kiasu, I think the betting team lah. Dia mahu pergi buat screen test, once dia pegang you tu, Memang make sure kau takkan lagi dah kan. Jadi your whole life revolve around it lah. Wabinik pengalaman you pun lain sikit juga. I simpadan. I try my very best to get into the team. I actually main basketball. Tapi waktu tu dah tak ada. PPM tak ada basketball dah. But form 2 masuk dah start involve debate. Eh form 3. So waktu tu samalah. Actually basketball pun tak ada pas depan ingat tu. Tak ada pas depan. So, then, so debate, okeylah, then I manage to masuk mendapatlah piala tu. Faham, faham. So, ala-ala kita tengah berbincang pasal zaman-zaman The Both of You were Ramadjus. Kita untuk episod malam ni adalah sempena Hari Merdeka pada hari Ahad ni. Kita merakam episod ni pada...
 
-[08:10] Friday, on Friday. What day of the month? Whatever day of the month this is. And for today's episode of Merdeka, I might want to start with a question about the soul of Merdeka. In terms of YB Nick, you were born in the 80s, YB Raf, 70s. So you are still Gen Y, right? Is Gen Y still there now?
+[02:50] Nik Nazmi: Yang berhenti menteri.
 
-[08:36] I thought tak adalah gen X terus ke millennial kan? Gen Y is millennials. Haa gen Y is millennials. Yes. So YB Rafizi kiranya gen X lah kan. Dan setahu saya bila saya dengar orang-orang tua saya cakap pasal zaman merdeka masa diorang muda-muda sikit diorang akan beritahu saya zaman dulu semangat tu lagi kuat daripada sekarang berbanding dengan ada orang akan berkibar-kibar benda dekat depan rumah diorang. tetap bernirakan tempat kerja. Dan sederang, adakah pengalaman you both masa remaja sering ingat you tellies dengan this account of Merdeka zaman dulu?
 
-[09:18] You want to say it first, right? I don't know, because my father is a civil servant. But he is not a kind of Kiba Bendera. Not to say he is not patriotic, but he is...
 
-[09:33] I mean masing-masing ada cara Masing-masing kan nak tunjukkan patriotisme Tetapi dia lebih kepada Lihat pada nilai-nilai tu lah Okay So saya pun dalam makna dalam
+[02:52] Rafizi Ramli: Oh yeah yeah. Kuasa dua.
 
-[09:44] keadaan macam tu, tak tahu. So bila tahun I guess 90-an tu kita ada konotasi tertentu kalau orang pasang mendera lah, politik dia macam mana, semua-semua. So saya lahir memang dalam latar belakang macam tu. Tapi of course lah pergi sekolah apa tu, sambutan tu ada. Yelah saya dekat bilik, dekat London tu bilik saya ada mendera Malaysia kan mendera dekat di London. Hahaha. Komi. Kemudian tak ada live lah. you ask that question again
 
-[10:17] Saya tak ingatlah masa saya
 
-[10:21] I grew up in the 80s, then in middle school, early 90s. I don't think that physically, the month of independence is much more relaxed than it is now. In fact, I don't think this is...
+[02:53] Iqbal: Yang Berhenti to the power of two. Sebelum ni Rafizi pernah muncul kat Lebih Masa sebagai you punya guest. Guest dan sekarang ni you returning the favor. Apa pun is this-
 
-[10:46] bahang merdeka tu dulu kan itu secara fizikal lah dia tak adalah saya tak ingat dulu orang kibar-kibar bendera kecil semua ni dulu tau but maybe because Malaysia miskin macam tu so people tak boleh and tak banyak orang ada kereta tau people forget that masa tu tak banyak orang ada kereta nak pasang bendera ataupun you know saya membesar di Kemaman kan tak adalah kaya sangat kan orang nak pasang rumah pun banyak rumah kayu semua lawak lah rumah kayu tiba-tiba ada benda ke kan situ kan jadi secara fizikalnya kalau nak kata tahun 80-an, 90-an tu lagi meriah daripada sekarang I don't think
 
-[11:32] Betul pun. Kemudian, apa nama ni...
 
-[11:38] The only thing I remember is when I was a kid, people would watch live telecasts at Merdeka. Which is boring to me because there's no story. I didn't watch it when I was a kid. But, even if there's a big difference,
+[03:07] Rafizi Ramli: I think okeylah. Let me be franklah ini kan.
 
-[11:56] I may be wrong, but I don't think the issue of who is more patriotic or patriotism arose before. It's more harmonious. Okay. I mean, now we... It doesn't punish. It doesn't punish. There is no judgmental or suddenly it wants to be close to...
 
-[12:18] Hari Merdeka, who is the most spiritual, the most patriotic? There's no such thing. People go through and... But you feel the calmness. I just don't know. My perception, the era of 1988, 90 especially, and 1991, the 2020 era, at that time, there was that
 
-[12:42] can do spirit. Malaysia boleh. Menang Malaysia Thomas, Piala Thomas and then yelah waktu tu kita rasa memang I think that confidence ada. Nick Matang, dia dah boleh observe benda tu. Aku masa 90s 92, aku tak perasa apa pun. Aku tahu aku nak makan apa je. Tak fikir pun semua ni. Because kalau 80an tu dia ada some tension politically apa tu kan pecahan UMNO and then ada Saya pun tak banyak yang tu in hindsight lah. Tetapi 90-an tu macam lebih tenang dan semua orang macam Malaysia apa nak buat je boleh buat. Dia ada satu iklan tu Malaysia Airlines, dia macam buat spaceship. At that time Malaysia Airlines pergi hampir semua benua kot. Kan Universiti Harris, New York semua. So waktu tu memang kita rasa Malaysia ni tak lama lagi akan jadi negara maju lah. Itu sense yang kita ada. macam you sebut that slogan Malaysia Boleh dan lagu-lagu Keranamu lagu-lagu Keranamu tu much much tapi semua lagu-lagu tu
+[03:09] Iqbal: Minggu ni takde orang?
 
-[13:53] There's that sense of marketing that people accept. Versus now, when there's an attempt to release new marketing materials for Merdeka for this era, the reception is not as positive. What do you think is going on there?
 
-[14:11] I don't think so. You don't think so? Was it because you were popularly accepted? I don't think so. I think the majority of people didn't even take the port. Okay. Right? But because there was no social media back then, so people couldn't buy or anything. But I remember, as I said, growing up, in fact, when I started working in Malaysia, then into my late twenties,
 
-[14:40] Memanglah saya tak ambil pot sangat pun, kau nyanyilah lagu apa pun. Yang paling best Merdeka ni cuti. Yes, yes. Sebab dah sekolah itulah. Jadi saya tak rasa dia banyak beza dulu dan sekarang. Cuma...
+[03:10] Rafizi Ramli: Ha! Sebab susah sangat to get people to appear. Semua takut.
 
-[14:54] If anything lah, yang Nick kata tu is I think from that perspective, dulu tak ada tension. It's not an issue, people just go by kan. So if anything is from that perspective tau, maybe yang kalau Iqbal kata sekarang ni orang tolak semua tu, Pali is because social media, Pali juga it's symptomatic yang the tension is there lah. YB Nick setuju dengan pandangan tu? isu dia pasal tension tu. Macam dulu-dulu kalau kita nak apa nama ni nak tunggu berita. I mean semua orang akan orang Melayu akan makan pukul lapan atau pukul sembilan lah. But dia akan tunggu berita pukul lapan malam lah dapat saya ingat ni. Dia tak lengkap. Tapi dah sementara tu dia kena buka TV. So sementara tu bukan setuju asal orang kita ada. I mean Astro pun what late nineties itu pun bukan semua ada. Ya. Jadi nak tak nak dia benda tu teringyang-yang lah. Tapi sekarang Kalau FYP, you tak tengok benda-benda tu, susahlah nak dengar. So, I think that itu yang perbezaan. Kerajaan dah tak ada that monopoly maklumat. So, kalau dari segi, okay, benda tu tak beza dari dulu sekarang, at what point then, macam you were saying, masa you umur 20-an, you tak rasa pun benda ni, at what point did you really feel?
 
-[16:16] semangat patriotisme terhadap Malaysia.
 
-[16:20] Untuk saya mungkin setiap kali tengok Olimpik dan Dato' Lee Chong Wei tengah masuk final dengan Lendan.
+[03:17] Iqbal: Okey. Takut kepada you ke takut kepada-
 
-[16:26] Tetapi untuk kamu berdua,
 
-[16:29] I mean...
 
-[16:31] Pengalaman sayur lah kan
+[03:19] Rafizi Ramli: I know, I think- Aku nak cakap takut kepada Farhash. But I think is generally lah is like kalau biasalah dalam society kita, kalau you are anti-mainstream sikit, so people don't want to be near lah kan. Jadi a few panelist yang dah setuju minggu-minggu lepas, semua cancel cancel cancel tu.
 
-[16:33] Erm...
 
-[16:35] Depends maksud semangat patriotism tu apa dia. Okay. Jadi...
 
-[16:43] Maybe because of my upbringing. We are villagers, we never dream of big things. So I have never seen it from the perspective of the country. So most of our perspective about society and by extension the country is around us. So to me, most of it is from interaction with people. So it's like...
+[03:45] Iqbal: Okey. Tapi cancel pada last minute?
 
-[17:11] Kalau membesar di kemahaman dengan...
 
-[17:17] You can see the development of the school. There is a sense of pride and I can be part of this. That's why I think that if the students are educated, everyone wants to work in the oil mill. But of course, when you start going to middle school,
 
-[17:42] you baca sejarah lebih banyak dan sebagainya kan. I think lensa patriotism saya lebih from the reading and historical
+[03:47] Rafizi Ramli: Ada, tak adalah last minute. Tiga empat hari sebelum tu lah. Samalah tu, last minute lah tu kan.
 
-[17:53] perspektif. Maksudnya ada benda yang I felt that things could have been done better. Ataupun you tahu sebenarnya Malaysia ni sebenarnya asal-usul dia begini. Jadi kalau ada sesuatu perkara di luar contohnya kalau ada soal perkara. That's why I was very anti-racism daripada kecil tau. Because it's that perspektif bahawa negara ni dibina bersama. So, I have never, I don't have that tau Iqbal which is, wow saya sangat bangga dengan negara kita ni semua gini kan. It's always the feeling that sebenarnya Malaysia has gone, has done bad, good.
 
-[18:41] could have done better dan ada ingredient-ingredient yang perlu dipertahankan the strength of jadi mungkin sebab aku nerd aku cuma baca buku sejarah je kan sebab tu ada jiwa pencaram wah binik
 
-[18:58] Yalah dia kalau yang superficial tu saya tengok Malaysia Seri tiga sama dengan Korea, Selatan kan bola dekat Doha tu short. Tapi macam saya, because again I think partly macam pendedahan ayah saya, dia generasi...
+[03:52] Iqbal: Ha betullah.
 
-[19:17] In the middle of the rise, it was the era of Tun Razak. And in that era, there were a lot of Malays, if he was a public servant, or even ordinary people. He had some romanticism with Tun Razak. In terms of? In terms of his people's soul. I mean, in fact, ironically, a lot of the basics can be said to be a bit left of center. All his right-hand people at that time, right?
 
-[19:42] apa nama tapi dia juga so my father dia juga cerita pasal Asri Muda apa nama Ahmad Bustamam Dr. Burhanuddin dan sebagainya lah jadi saya punya ni pun lebih
 
-[19:54] I was curious about... At that time, it was expensive to get subversive information. Because you read history, you know one side. So, what did you get? You got the book, Mahasiswa Mengugat. For example, and all that in the language room. Because of the research debate. So, those are the things that we appreciate. So, I was...
+[03:53] Rafizi Ramli: So tak adalah nothing against Nik. Tapi thank you for saving us tonight.
 
-[20:18] Saya tertanya-tanya tentang sejarah Malaysia yang lebih luas lah. Jadi itu yang sebab rasa macam kita tak raikan mereka. Sedangkan kita tahu, orang kanan pun berjuang untuk kemerdekaan. Tetapi orang kiri lebih awal.
 
-[20:35] And not many people got it. Maybe we remember because there was a road near Taman Tun. Wait a minute. That's it. But the stories are what I'm curious about. And indeed, to get the materials, you have to look for it. Those days, it won't appear. The phone will turn around. Long and short of it, both of us are curious. So we don't look at superficial things.
 
-[21:02] Historically, how, for example, if you talk about racialism and from an early age, you realize that it's not the version of Malaysia that you agree with. How can you reach that conclusion at a time when there are many other people
+[04:00] Iqbal: Sebenarnya ada juga hos-hos lain yang telah cancel, jadi saya pun terpaksa-
 
-[21:21] looked at the same thing, read the same history books, knew the same things you knew, but made a different conclusion. But I think, I mean, both Nick and I,
 
-[21:31] kita mendapat manfaat daripada fakta
 
-[21:34] Kami ni masa membesar ada slightly higher curiosity.
+[04:06] Rafizi Ramli: Sebab Jangan marah Iqbal eh.
 
-[21:42] So I think our reading is wider. And I benefit from my seniors. So when I was in Form 1, I read books that
 
-[21:57] offer multiple perspectives from the history books that we read. And I think it's also because both of them is debating tradition at MCKK. We read and we explore all of that. So, I mean, it's a requirement for you to read a lot even from the age of 13. So, then you read different kinds. For example, even perspective, for example,
 
-[22:24] kita membesar contohnya diberitahu komunis sangat jahat saya ingat orang cerita pasal kecil-kecil orang cerita komunis dia ambil alih
+[04:09] Iqbal: Sebab minggu lepas kita ada feedback bahawa prestasi saya sebagai hos minggu lepas banyak sangat mencelah YB Rafizi kerana you punya audience, they love you YB. They love you punya lecture-lecture and you pun sendiri mengaku yang you ada jiwa pensyarah. Maka let's give the people what they want tonight.
 
-[22:38] kemudian dia masuk kampung, dia bunuh semua orang kan. Jadi dia kalau pejoratif dia apa kalau China yang paling ni, China komunis. China komunis kan. Kalau berbelakang, tak. Versus Melayu kampung ni. Tapi bila you baca dan you mula faham contohnya MPAJA, kemudian selepas Jepun menyerah diri, menyerah kalah, yang apa nama ni ada vacuum
 
-[23:11] And then, there were communist attempts to enter the village and try to take over the administration. So, then you put things you understand better. It's the same with, for example, the migration to Malaysia. There are Chinese, there are Indians, right? We grew up as if the Chinese and Indians
 
-[23:36] POOP came, suddenly he came, then he took everything. But if we read more broadly, actually that is the British policy. The one who took a lot is the British. The one who took a lot is the British. And actually there are industries,
+[04:25] Rafizi Ramli: Tak saya- I think audience berbeza-bezalah kan. Audience yang setakat ini saya tengok YBM podcast ni ialah dia memang nak going deep. Dia tak nak apa nama just apa nama ni-
 
-[23:57] yang memang digerakkan oleh migran sebab orang Melayu pada ketika itu ada tanah
 
-[24:06] and we live off the land. If the farmers are farmers, so for example, when there is the BG Timah industry, actually it's quite difficult, the BG Timah industry, people sit in the concierge, die, get sick, sleep, like that. So the Malays don't want it at that time.
 
-[24:32] Dan China masa itu di bawah mancu, teruk jadi banyak orang susah. Jadi dia bawa ke sini dan the Chinese went through that hardship. Dan oleh kerana dia concentrated di kawasan-kawasan BJT Mah, they form a community. Daripada community itulah maka dia terpaksalah ada kedai, kedai makan. Jadi bandar then grow around that. Jadi bila kita tengok dari segi perkembangan socioekonomi, sangat berbeza daripada stereotip politik yang
+[04:42] Iqbal: Superficial.
 
-[25:07] Most of the Malay children grew up. So I think we benefit from the reading that is above average when we were young. And a lot of it is attributable to the fact that we were debaters. It was a requirement to read. But if I'm wrong, it sounded like your father seemed like the kind of man who was passionate.
 
-[25:31] Ya, ya, ya. So, ya. So, I think kita orang, apa tu, kita orang, komputer pun ada lambat. I mean, he could afford to, kan. Tapi, Astro pun ada lambat. I think dia beli kereta, dapat free. Zaman tu, Astro, then baru. So, nak tak nak? And I was basically sebab kakak-kakak jauh beza. Dia orang dah belajar dah kerja, kahwin semua. So, macam anak tunggal lah. So, I think that is why. Macam sekarang tengok anak saya susah. sekarang wawah ada handphone, ada semua kan. But, um...
 
-[26:04] Yes, and he encouraged, I think he gave freedom for us to explore the outside. Then maybe I put that question in this context, that okay, yes, reading will open the door and all this, but I know a lot of people who
+[04:43] Rafizi Ramli: ataupun just remarks. Dia nak tahu jadi memang panjang sikit. So dia orang tak kisahlah kalau kita membebel panjang sikit so long as you go deep into an issuelah.
 
-[26:24] berpengajian tinggi perspektif dia luas kerana dah travel merata-rata, dia baca pun
 
-[26:33] vocabulary mungkin dia orang lagi banyak daripada saya punya vocabulary tapi dia punya perspektif dia punya pendapat, dia punya pandangan pasal dunia sangat-sangat
 
-[26:44] Not about... About Malaysia and patriotism, you mean? Yes, specifically. With regard to what Malaysia should be, with regard to the idea of what kind of society we should be, they don't agree with you two, even though
+[04:56] Iqbal: Go deep dan juga go berisi. Boleh dikira macam tu.
 
-[27:03] People like that. It depends on what he reads. Okay. But I think if you want to compare me with Nick, with the majority of other Malays, we are anomalies. We do not represent the majority of Malays because
 
-[27:28] environment kami berbeza kan whatever I hate to go back to MCKK but it is actually quite true kerana
 
-[27:38] Kami dibesarkan di MCKK yang memang ada tradisi kepimpinan yang panjang. Yang memang, you know, saya tak rasa lah kalau sekolah menengah biasa yang ramai orang ambil pot pasal politik. Tapi di MCKK is part and parcel because the long line of alumni of Sultan semua ni kan. Jadi dari segi itu, saya ingat pembacaan dan juga our upbringing Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+[05:00] Rafizi Ramli: Berisi macam perli aku je. I've lost weight tau.
 
-[28:09] Konteks tu berbeza dengan orang lain Macam Haa Tapi Okay nak
 
-[28:14] ambil pandangan yang berbeza sikit saya kenal ramai juga kan maknanya dia dapat go through apa yang kita go through dia pun hidup senang hmm
 
-[28:25] Tak susah
+[05:05] Iqbal: That's a recurring thing that Nik Nazmi was saying to us last week in our previous interview with you bahawa you bukan jenis bersukan. So mungkin-
 
-[28:26] Tetapi dia punya ada still misalnya sense of Malay insecurity. Ya, so maknanya dia belajar, belajar overseas. That question of nature versus nurture, your pendapat macam the same style. Dia tak perlu mana kita tahu kalau anak dia kalau tak ada scholarship pun dia boleh hidup. Semua contohnya lah. Tapi still bila bab sampai itu dia akan ada that, kadang-kadang dalam grup. Okay, saya tahu. Saya tak ada was. Dulu-dulu pun email thread kan. kalau kita tahu orang tu susah, orang tu mungkin tak expose dan sebagainya mungkin faham tapi mereka yang
 
-[29:03] They don't need to be scared. Yes, I can't understand other people, right? But in my case, you know, your question, nature versus nurture, right? Part of it, I think because
 
-[29:17] the big influence is because I come from a working class family. So, if you are a Malay working class family, you have to live on your own. Because there wasn't much help back then. There was no style brim for money. You had to... If you didn't have money, you didn't have it back then. So, I grew up in a family where parents knew
+[05:17] Nik Nazmi: Tak, I was saying I was saying waktu tu kalau kat kolej tu you were everywhere except for sports. But I didn't say you kemudian main hoki.
 
-[29:45] You have to work hard because you're on your own.
 
-[29:47] And we depend on you, you are on your own kan. Then the only apa orang kata yang dapat tukar tu is pendidikan lah. Pendidikan. So saya grow up dalam environment keluarga Melayu yang 100% percaya social mobility ni hanyalah pendidikan. Jadi bergolok-bergadai ke apa kalau pendidikan kena kan. But at the same time sekolah dulu macam saya sekolah rendah dia agak multiracial. Walaupun mungkin konotasinya, apa nama ni mungkin bunyi negatif sekarang. Tapi dulu competition nak kalahkan anak Cina jadi top student tu is a positive connotation dulu tau. Betul betul. Sebab sekolah selalunya susah memang anak Cina lah yang top student ni. Jadi kalau ada Melayu yang boleh beat anak Cina, memang hebat lah mamat ni kan. Bukan di Kemaman je, di PJ pun sama. Di PJ pun, jadi Kemaman kan. Memang you kena beat anak Cina. Dan zaman tu kita ada pelbagai kaum. Sekolah kebangsaan. Jadi we embrace competition differently tau. Jadi saya rasa that's why. Itu sesuatu yang dah berubah. No, I think it is berubah lah that one kan. So sekarang sekolah kebangsaan dekat. I mean saya sekolah kebangsaan Lasal PJ. Dia ada salib besar bawah tu tulis Jawi. Sampai sekarang kan. Tapi zaman saya dulu probably 60-40. Dari segi kaum. Dan kita ada Melayu, Cina kaya. juga ada Melayu setinggan, Kampung Medan dan sebagainya.
 
-[31:21] Sekarang saya datang, mostly daripada sekarang dah jadi flat lah. Yang of course lah area Bukit Gasing tu, of course Chinese almost tak ada. 95% sekolah mubalik eh. 95% Melayu, banyak daripada ni. Jadi...
+[05:24] Iqbal: Tapi, tapi minggu lepas bila kita orang tanya YB Rafizi apa menteri kementerian yang mungkin dia akan berminat untuk terajui. Kementerian Sukan tu was lower on his list.
 
-[31:35] Maknanya peralaman ini dah jadi sangat-sangat asing. Sekolah Kebangsaan boleh bilang dengan jari yang ada apa itu, especially Chinese lah, China kan. India ada sikit. Dan itu pun dalam spot-spot tertentu je. So I think you know, growing up dalam keadaan yang competition is good kan. Then especially kalau you boleh compete. And a lot of us actually boleh compete dengan normalist daripada sekolah rendah pun lagi. dan kemudian anda mempunyai perspektif yang berbeza tentang negara, membangun kepimpinan semua.
 
-[32:13] bagi saya lah, I mean to me personally jadi I get the steroid to be more confident so saya tak ada that insecurity because what's the worst that can happen to me sebagai orang Melayu lah because wherever I was masuk MCKK and then dapat scholarship I'm 10 times better than my father's generation so saya tak tahu sekarang dengan segala yang berlaku ini yang saya pernah sebut juga menteri bahawa the challenge untuk orang Melayu dan dia berkait dengan insecurity yang berkait dengan patriotism ialah kita terperangkap dengan middle class syndrome ni. Kejayaan dasar kerajaan tahun 60-an, 70-an ialah melahirkan kelas menengah Melayu. Pendidikan hantar luar negara semua kan. Jadi bapa kita lah or our peers sekarang ni kan, dia membesar dalam keadaan yang kelas menengah tau. Dia bukan rumah kayu, miskin, kampung semua kan. Jadi social mobility itu dia dah jadi perlahan kerana anak mereka lahir dan membesar dalam rumah batu, ada kereta semua ni kan. Jadi the frustration tu kalau value creation dalam kelas menengah Melayu ni tidak...
 
-[33:42] and that can only happen through competition, entrepreneurship and so on. It will not happen from eating the same pie. So that's what I think creates, and I noticed, even from my cohorts when I was in school, usually the one who feels more secure is actually a difficult child.
+[05:34] Nik Nazmi: Okey.
 
-[34:06] yang lagi miskin and then they got liberated and dia pergi overseas, pergi top university, dia tak balik dah. Dia memang very confident. Yang selalunya lagi insecure adalah mereka yang economically better off daripada itu. Boleh cuba terangkan apa you rasa tengah berlaku di situ? Macam saya sebut lah, it's actually... So, starting point tu dah tinggi? I mean dah tinggi sikit? dia macam untuk orang yang daripada working class yang lebih miskin kan sebenarnya opportunity tu is game changer kepada mereka then opportunity tu datang dengan competition dan sebagainya so once they sprint, they sprint sedangkan kalau middle class, kalau tidak berhati-hati middle class akan ada a bit more comfort level tau starting point dia dah tinggi, comfort level dia pun ada kalau tidak berhati-hati
 
-[35:08] Ada sedikit rasa kebenaran.
 
-[35:11] Itu yang kompleks. I mean it's not scientific, it's not apa nama ni on data. But it's my observation from my cohort. The more yang tak balik Malaysia yang internationally, international citizen ni, actually banyak budak kampung tau. Bukan budak KL semua. Dia ada satu lagi perspektif dia. Orang yang generasi awal yang terlibat buat dasar semua. Dia dekat JPA Timbalan KPPA Waktu DB Mula-mula bajet 10 juta Dia pergi Tansi Usin Minta fight-fight-fight Dapat 25 juta Dapat 50 juta Every year naik kan
+[05:35] Rafizi Ramli: No, it's actually opportunistic sebab I mean you have to match dengan your skill kan. Aku kalau macam dekat kolej dulu form 1 kan, kau tengok semua orang sportsman semua ni it's not that I have a lower chance of making a difference kalau aku nak main ragbi lagu tu. So I can, but I have to work double, triple daripada orang lain. So buat apa? Baik aku buat benda lain kan.
 
-[35:54] So,
 
-[35:55] Dia sangat nasionalis. I mean that's Tun Razak Boy. So dia memang semangat nasionalis dan sebagainya. Pada masa yang sama, anak-anak dia, dia pastikan hantar semua sekolah membalik. Sebab dia nak anak dia bercampur. Ayah saya keluar group start daripada Kelantan. Tapi dia punya perspektif anak dia kena pergi ni bercampur dengan orang kaum lain dan juga berbahasa Inggeris dengan baik. Kan? Jadi bila saya nak pergi MCKK tu pun dia 50-50. Sampai tengok kena hantar sekolah baru, tak pergi lasar lah. Then dia okey lah, you okey lah. Confident dengan FDK. Ya, until dapat sekolah baru pun tak ada. Then pergi MCKK.
 
-[36:31] But they understand the compromise and so on. But for us, the generation that was born, the middle class generation, we take it for granted. Like my father went to the UM in the 50s, the Malay who entered the university was like winning a lottery. Right? What is that? But now, our generation is different. Right? Everyone gets a scholarship, gets a university, gets this. So he already has...
+[06:03] Iqbal: Path of least resistance.
 
-[36:59] The view is different and he doesn't understand what we did in the 70s, there is a reason. So in the knowledge of YB, like you were saying earlier,
 
-[37:10] You anggap kamu berdua anomaly dari kalangan Melayu Malaysia.
 
-[37:17] When you grew up, did you notice that you were different? No, actually. Because, well, if I was 12 years old and started thinking like this, it's a problem. Something is wrong with me. I think we grew up as usual.
+[06:04] Rafizi Ramli: Path of least resistance.
 
-[37:32] Then let me share, because when I was in my third year, there was a time when Mr. Gusro asked us to read a passage from Surat Kabar or something. And at home, my parents always talked about politics. So I said, I don't know, all of that, I'm used to hearing it.
 
-[37:48] And in the newspaper, there was an UMNO statement. And one of my classmates was reading the passage. Then when he arrived at the UMNO statement, he stopped for a while and he was like, U-M-N-O. Then I was like, huh? Don't you know what that statement was? So at that time, I realized that, okay, clearly, political discussions at home are not something ordinary.
 
-[38:14] Saya tidak. Saya rasa kerana ibu bapa saya adalah orang yang mudah.
+[06:06] Iqbal: Tapi pada masa yang sama persepsi saya bila saya balik dari belajar luar negara, luar negara mungkin yes kita ada so called jocks yang ahli-ahli sukan yang itulah budak-budak popular. Tapi kat sini saya perasan golongan budak popular adalah golongan budak berdebat.
 
-[38:22] Our preoccupation is social mobility and to make sure that we can look after ourselves. I think if anything, if I start to understand, because we, I, this thinking is a little different. Actually, at university, at university, because I'm in the UK, right? And what is this called? UKAC and so on, right?
 
-[38:51] So, it's really group, right? So, I can see that my view on the issues of the community is different from other people who mostly come from the rich kids of KL. There's one example that... No, I mean, the one that I think people don't like the most is my view about
 
-[39:14] about the Kalsom project. UKAC has a Kalsom project where during the summer holiday, the children of Malaysia and other countries, Malay, Chinese, Indian, will go to a country or go to a school. Then we will gather the poor children to make a summer camp. So I remember when I was the chairman, I was the president.
+[06:23] Rafizi Ramli: Tak, that actually depends juga kan. Depends culture.
 
-[39:43] I felt bad about it because I cannot tell the difference that you all came here because you want to help or it's just a summer holiday for you to make you feel good about yourself because you're not going to solve the problem by just talking for 3-4 hours
 
-[40:04] and then you go home and you leave the kids behind. What happens to them? They will go back to their village, right? Obviously, it was unpopular. They were like party poopers. You know? But I think a lot of my... and a lot of it was also during the UK.
 
-[40:24] Because the UK's left and right divide to political spectrum is very clear. And class consciousness. Class consciousness is very clear. So it was quite obvious I was left-wing. It was quite obvious that I think the Tory, you know, I take side with Labour or Liberal Democrat most of the time, if not all the time. So a lot of...
+[06:27] Iqbal: Which but then you were also budak berdebat.
 
-[40:52] you know, introspective recognition that I think I don't have the opportunity in this world because other thoughts are still in uni but certainly not in school.
 
-[41:06] When did you notice yang... I... Ni advance sikit. Ni advance sikit. 12 sekarang. Because when I was born, my dad was 52. Oh. Dan dia memang I ingatlah, saya memang similar lah dengan pengalaman Iqbal. Jadi memang sembangannya serious. Agama, politik, ekonomi. Dan tiba-tiba member datang rumah kan. And then after a few times, I tengok member macam sebab dia ingat semua budak macam tu. Then I noticed that, okay benda tu agak luar biasa lah. Because my first realisation untuk politik ni, waktu 1990, waktu tu semua orang nak sokong BN. Tetapi for whatever reason. Tak adalah, not ni, not apa nama ni, bukan BN. Dan dekat MCKK, anak Atuk Sri Mustafa Muhammad, my batchmate, I bully dia sampai dia kata takpelah tua nanti dia sokong PAS lah. Yelah, it was just budak-budak. Kan, but...
 
-[42:10] But I think the conversations with my father helped. And of course for me, at school, the reformation and all that, that provided the platform. The platform to realise that... To read, to see that there is an alternative and what I'm looking for is something that
+[06:29] Rafizi Ramli: That's because I was kiasu. Tak, sebab debaters dekat MC lah kan. Ini going back to MC lah. Dekat sekolah kita orang dulu, dia ada long tradition of debating. Jadi seniors debating ni paling kiasu. Di bulan satu aku rasa dia dah pergi screen test dah. So dia dah kidnap you awal-awal. Sebab dia dia I don't know how it works now lah kan. Macam kami dulu, memang the first one, two months tu setiap pasukan akan pergi promote, join lah pasukan kami.
 
-[42:29] multiracial dan sebagainya sebab sebelum tu benda tu agak non-mainstream lah dia mungkin yang mendengar yang Gen Z sebenarnya dia tak faham semua kita orang cakap ni sebab
 
-[42:41] Masa tu tak ada internet. Ya, ya. Haa, tak ada internet tau. Sesuatu tu untuk... Dia tak ada, bukan everyday you dapat different perspective. Perspective tu apa yang you dapat daripada mainstream media ataupun daripada TV. Jadi, as you say lah Iqbal, actually there is always a turning point yang you rasa. Actually, pandangan aku ni lain daripada yang lain. mula cari pembacaan-pembacaan lain lah. I guess dari segi
 
-[43:17] bila bercakap pasal kamu, kita sebagai anomali, adakah
+[07:06] Iqbal: Okey.
 
-[43:23] the thinking that is held in the mainstream from Wabi Wabi's point of view, is this thinking a challenge that needs to be overcome? Or is it just a force of nature? It's just like that, so we need to live in a world that is... No, back then, Malaysia was the total control of information by the government of UMNO and BN. I remember the early days of the reformation, right?
 
-[43:49] sumbangan yang paling besar kepada reformasi masa itulah at least daripada perspektif saya ialah maklumat
 
-[43:57] Jadi sebab itu saya ada nilai sebab saya boleh buat website. In fact masa tahun 2000 tu semua saya buat radio internet daripada London tau untuk pemuda keadilan. Macam orang bodoh, akulah tulis berita, akulah rekodkan suara aku, akulah letak streaming. Masa tu dah ada streaming. Adalah aku rasa 15 orang dengar 30 hari lah kan. One of each was me lah. Saya cuba bayar, aku dah kerja masa tu kan, so adalah kredit kad. Bayar untuk beli airwave untuk shortwave, untuk transmit radio shortwave daripada Europe out to Malaysia. Tapi masa tu apa, what was the instinct? No, because maklumat orang tak dapat. Jadi masa di awal reformasi dulu, the biggest fight ialah how do you break the information blockade. Yang awal-awal ni sama ada webmaster ataupun kalau gila sikit cuba buat radio lah kan.
+[07:07] Rafizi Ramli: So you decide lah. It's form 1 kan. They scouting lah. They do scouts kan. Tapi antara yang paling kiasu I think debating team lah. Dia orang pergi buat screen test semua. Once dia pegang you tu, dia memang make sure kau takkan lari dah kan. Jadi your whole life revolve around debating.
 
-[45:07] By now, that thing is no longer there. So it's not actually mainstream or not mainstream. Actually it's a progress. And because of that, don't underestimate how destructive technology is. For example, like PKR and PH itself, the turning point towards 2018 is actually Facebook.
 
-[45:31] Ya Hmm Ha kan Saya realize Masa 2000 Pika awal-awal Facebook 2008 semua ni Semua orang nak mengorat budak-budak je Ha kan So nak berkenalan Ha kan So dia mula ada Video feature streaming ni Dalam 2013 Hmm
 
-[45:49] Kan, and that's when saya antara orang yang paling awal lah yang sebenarnya stream ceramah live on Facebook seawal 2016. Masa tu benda tu complicated gila kerana gadget semua nak ada, kena pergi mana-mana tu kena ada 4-5 sim card yang maxisnya yang tu semua kan. And masa itu UMNO, PAS semua-semua tak catch up lagi tau. sebenarnya PKR memang paling ke depan dan DAP masa itu lebih kepada YouTube I think. Not so much. Macam tu ubah TV semua kan. So dia far sighted lah. Dia YouTube far sighted. Mungkin lah Tony Pua masa dia dah fikir pasal podcast kan. So sebenarnya it's the technology. So the technology will break and mold society. Jadi itu juga peringatan kepada kerajaan ataupun parti-parti politik. nak kawal itu, nak kawal ini. Tapi kita sebenarnya terpaksa menerima hakikat masyarakat akan berubah dengan teknologi. Sepertimana masyarakat Malaysia daripada one source of truth masa kami membesar, hebat macam mana UMNO pun finally UMNO tu sumbangan besar yang menyebabkan UMNO kalah sebenarnya ialah teknologi because it allows people to have access away daripada Waktu saya bertanding Waktu tu
+[07:24] Iqbal: YB Nik, pengalaman you pun-
 
-[47:21] 2008 kira pembangkang dapat buat satu progres yang besar nafikan majoriti 3 menang 5 negeri semua it was blocked
 
-[47:32] Waktu tu sebab orang macam, waktu tu contohnya lah sebab orang satu sudut orang-orang Mahathir dipinggirkan. Kade Yasin, Rocky Brew semua, dia orang ada blog. Jeff Wee, kebetulan saya, Jeff Wee semua bertanding pula. Jadi that was the turning point kalau 2008. Dan betul 2018 is Facebook. Jadi teknologi... 2022 TikTok lah. Ya, itu dah kita kalah yang tu lah. Masa tu YB Nick dah sedarkah apa yang YB Rafizi tengah merujuk kepada ni yang bahawa the main cabaran pada masa tu adalah the information monopoly and kalau boleh atasi
 
-[48:13] cabaran tu, maka there would be white gains yang boleh dicabar. Macam 2008 tu saya campaign, satu tu saya buat video, video campaign lah. Orang tak kenal kata siapa budak, macam budak sekolah ni nak bertanding kat sini kan. So saya buat, waktu tu VCD. Ha masa tu zaman VCD betul, masa tu zaman VCD. Saya buat, letak lah kat YouTube ada zaman, tapi YouTube macam suam-suam kuku lah. Tapi kita buat VCD semua, so memang kita merasakan bahawa orang ambil alih sekarang bercakap tentang VCD ya, ok dia orang dulu VCD ni banyak buat duit tau so you tak tahu zaman-zaman yang saya ingat pergi pasar malam pasal ada it's the same cuma orang kan pergi ceramah banyak-banyak dulu tak ada live stream semua ni kan jadi bila pergi ceramah tu dia banyak VCD pedler and yang orang buat VCD terutamanya orang-orang pas lah jadi berterima kasih lah Kerana orang pas akan ambil video, burn into VCD, kemudian jual kat orang tau. Haa.. Dulu-dulu macam, sebab saya masuk politik waktu tu, semua kita punya apa, your moment kita dah arrive tu, oh bila ada VCD kita dijual. Haa.. Maksudnya.. Nampak laku tak? You made it kan? You made it. Haa.. Maksudnya ceramahnya tu, ada orang nak dengar sampai orang sanggup beli. Kamu tahu kan, macam revolusi Iran nanti was the cassette. Cassette. Komaini. Dia dekat Maris kan. Cassette dia ni. Dan kalau reformasi tu pun awal-awal cassette. At the beginning cassette. At the beginning cassette. Yang orang edar, orang dengar. I recall reading arwah Raja Petra. Dia...
+[07:26] Nik Nazmi: Lain sikit. Sebab I I simpang dan. I try my very best to get into the team. I actually main basketball. Tapi waktu tu dah tak ada, PPM tak ada basketball dah. And waktu form 2 masuk dah start involve debate. Eh form 3. So waktu tu samalah. Actually basketball pun tak ada masa depan juga untuk Tak ada masa depan. Kan? Tak tinggi-tinggi waktu tu kan. So then so debate okeylah, and I manage to masuk dapatlah piala tu.
 
-[49:59] In one of his blogs Mencerita bagaimana dia Mula rapat dengan Abdul Hadi Awang Presiden PAS Kerana
 
-[50:10] Raja Petra dia ambil kredit membawa Hadi ke...
 
-[50:15] Arena Urban
+[07:56] Iqbal: Faham, faham. So alang-alang kita tengah berbincang pasal zaman-zaman the both of you were remaja's, kita untuk episod malam ni adalah sempena Hari Merdeka pada hari Ahad ni. Kita merakam episod ni pada Friday, pada hari Jumaat. Apa hari bulan? Whatever hari bulan this is. Dan untuk episod Merdeka hari ni, saya mungkin nak mula dengan soalan ber- berjiwa merdeka. Dari segi YB Nik, you lahir dalam dekad 80-an, YB Raf 70-an. So you are still Gen Y kan? Dan-
 
-[50:18] Malaysia for the waktu tu. So the first ever speech yang Presiden PAS, oh sekarang Presiden PAS beri kat KL was organised by Raja Petra pada masa tu. So mungkin ada... When was that? That was I guess early 80s kot. 80s sebab Raja Petra in the 80s dia duduk di Terengganu, dia jual kereta, dia ada car dealership kat sana. I don't know, we were too young lah masa tu kan.
 
-[50:44] We were close. I was actually very close to Arwah Raja Petra. Because from the reformation days, he runs a website. A free Anwar campaign. And I'm the guy in London doing some of the writing and the website.
 
-[51:01] So we, and then again, we examined a little bit of the connection. But of course, we parted ways at some point. And this thing, in terms of the scene at that time, was very small. And like you're saying, you know the ancestors of Rajapetra from that time. But even though it was small, it had a big impact, clearly.
+[08:34] Rafizi Ramli: Gen Y ni ada ke sekarang? I thought tak adalah. Gen X terus ke millennials kan?
 
-[51:24] Tak, saya ingat dia samalah bila you anti-establishment ni tak ramai orang. Hanya beberapa orang gila. Haa kan, jadi... Dan beberapa orang gila berjaya menjatuhkan kerajaan BN 2 ke 3 dan 5 negeri, kerajaan negeri.
 
-[51:41] No, I think 2008 tu sebenarnya banyaknya perpecahan dalaman UMNO. Jadi Tun Mahathir had a lot of contribution untuk 2008. Kan dan UMNO pula ambil pemuda dia jadi sangat keras. Keras, hindra, non-Malays. Take for non-Malays for granted. Sedangkan kemenangan UMNO tahun 1999 dan juga 2004 tu adalah But apa nama ni
 
-[52:15] Kalau kita tengoklah sebenarnya tawaran ataupun kempen PKR
+[08:39] Iqbal: Gen Y is a is millennials.
 
-[52:21] PAS dan juga DAP, pembangkang masa itu, masa 2008. Tak ada apa pun sebenarnya. Air percuma. Air. Eh tak ada kita, air percuma tak ada lagi. 2008. Dah ada ke 2008? BA. PKR dengan PAS. I think, apa tu, Hassan Ali selit benda tu dan kita pun sign off. Oh, sebab tu kena ada. nama ni UMNO. But then again, setiap pilihan raya is not necessarily strength pemenang. It's also, it's dynamic competition, weakness of your opponent. Dia punya defense lemah. Dia punya defense lemah. Saya ingat membaca lepas
 
-[53:10] Arwah Tun Abdullah Badawi passed away and there was a person who posted that we didn't give him credit for after he became the Prime Minister, he could have held
 
-[53:24] that information scene, but he did not, to the benefit of Malaysians. Do you agree to a certain extent that
+[08:41] Rafizi Ramli: Ah Gen Y is millennials. Okey all right all right.
 
-[53:33] itu salah satu sumbangan besar
 
-[53:36] Tunaulah balawi kepada
 
-[53:38] negara ni. Kita nak masuk sama nak cakap dulu. Dia sebenarnya ada parallel di antara pentadbiran Tun Abdullah Badawi
+[08:43] Iqbal: So so YB Rafizi kiranya Gen X lah kan. Dan setahu saya bila saya dengar orang-orang tua saya cakap pasal zaman Merdeka masa dia orang muda-muda sikit, dia orang dia orang akan beritahu saya zaman dulu semangat tu lagi kuat daripada sekarang. Berbanding dengan ada you know orang akan berkibar-kibar bendera kat depan rumah dia orang, dia orang akan letak bendera dekat tempat kerja, kat desk dia orang. Adakah pengalaman you both masa remaja seingat you tallies dengan this account of Merdeka zaman dulu?
 
-[53:51] dengan Datuk Seri Anwar sekarang tau ok ya
 
-[53:54] I can see.
 
-[53:55] The change from the time of Tun Mahathir, the strong man, all of this. So finally, when Tun Abdullah Badawi became the Prime Minister, actually, his soft sell to the Malaysian people was reform. Then to be fair to him,
+[09:18] Rafizi Ramli: Nik nak cakap dulu ke aku?
 
-[54:19] ada reform yang berlaku yang dimulakan daripada zaman Tuan Abdullah Badawi termasuklah contohnya Akta SPRM termasuklah JAC, Peratakan Hakim semuanya kan and then itu juga yang dia selalu dikritik oleh UMNO semasa itu ialah kerana dia tidak dilihat keras dan tegas menangani serangan pembangkang tetapi yang ini ingatan kepada kerajaan yang sedia ada sekarang
 
-[54:54] Eeeemmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-[54:56] Oleh kerana timbul cerita-cerita lain, cerita pasal anak dia, cerita pasal menantu dia, cerita pasal fourth floor, sebagainya kan. Jadi dia eklip semua tu kan. Jadi dengan mudah dia menimbulkan orang kata apa nama ni resepi untuk meletup....Pastun Mahdi......dilihat sebagai tidak kesampaian......dan kekecewaan kerana...
+[09:20] Nik Nazmi: Saya tak tahu. Saya because ayah saya penjawat awam, tapi dia dia bukan jenis kibar bendera. Bukan bukan nak cakap dia tak patriotik, tetapi dia I mean masing-masing ada cara masing-masing kan nak nak tunjukkan patriotisma. Tetapi dia lebih kepada lihat pada nilai-nilai tulah.
 
-[55:32] There are also things related to the issue of crony, corruption, and so on. Even though, actually, if you remove those issues, actually, he did some monumental reform. That will also happen to this government. On the one hand, that's why I saw Dato' Sri Amir Hamzah when he was holding the Government Procurement Act.
 
-[56:00] apa yang ditanya baik oleh backbenchers ataupun baik oleh pembangkang kan and those questions are valid kan dia ada hanya ada satu jawapan saja ini adalah penambahbaikan ini dah baik ni berbanding dengan status quo itu berbahaya tau kalau kita cakap kepada rakyat yang terutamanya pengundi PH sendiri bahawa kalau kerajaan buat sesuatu alah apalah korang nak complain ini kan dah lebih baik itulah yang berlaku Semasa zaman Tun Abdullah Badawi dan sekarang ini sedang berlaku kerana expectation dan harapan rakyat itu berbeza. Kita tak boleh nak kata just because we are marginally better, we are already the best. So tambah pula sekarang dengan kerajaan yang ada, dia macam repeat cerita-cerita Farhaj lah. Jadi dia cloud semua. Jadi kalau Dato' Sri Anwar lah, hopefully the best case scenario for him. One day orang akan ingat dia seperti tuan Al-Babdawi lah. Maksudnya, oh sebenarnya maybe we don't give him enough credit. Okay menarik tapi waktu dia jadi Perdana Menteri tu ada macam-macam lah yang menyebabkan. But that's why I think mentality kita, actually to be fair lah saya pun awal-awal jadi Menteri kan, there's a lot of heartache.
 
-[57:24] Kerana...
+[09:41] Iqbal: Okey.
 
-[57:25] It's long hours dan you buat apa pun tak betul, you kena balance dengan yak-yak kat luar tu, pelekehkan semua. Pada masa yang sama, you have to fight the system, you have to find something kan. So, you have to wonder why bother sebenarnya kan. Dan memanglah natural kita rasa bahawa we are already trying our best. Kenapalah korang macam ni kan. Selepas itu, lebih kurang setahun saya menyedari, sebenarnya memang itulah jadi kerajaan. Dan untuk jujur kepada orang yang meminta-minta di luar ini ataupun kritik di luar, ialah sebenarnya, adakah salah untuk menambahkan kejayaan yang lebih tinggi? Selepas itu, kita menjanjikan untuk tidak hanya lebih baik daripada UMNO, BN ataupun PN sebelum ini. radically different. Jadi this issue sebenarnya akan terus menjadi perkara yang akan menghambat mana-mana kerajaan yang mengaku akan buat reform. Dia sebab apa nama ni
 
-[58:44] On one hand, you ada orang yang...
 
-[58:49] konservatif lah. Dia tak akan berpuas hati. Dia rasa kita ni terlalu liberal, terlalu terbuka, terlalu cepat pun. But that was part Lafayette. Kita pun ada perumpamaan dia hari ni.
+[09:42] Nik Nazmi: So saya pun dalam makna dalam keadaan macam tu. Tak tahu. So bila tahun I guess 90-an tu, kita ada konotasi tertentu kalau orang pasang benderalah, politik dia macam mana, semua-semua. So saya lahir memang dalam latar belakang macam tu. Tapi of course lah pergi pergi sekolah apa tu sambutan tu ada. Yalah, saya dekat bilik dekat dekat London tu, bilik saya ada bendera Malaysia kalau melekat di dinding. Corny. Memang tak ada life lah.
 
-[59:02] At the same time, people who want to change our stubborn supporters feel dissatisfied. But what's more, of course we may be in the reality of the government today, there are challenges. But when we go back and use the answers that are sometimes templates,
 
-[59:23] yang mungkin juga disediakan oleh senior-senior PTD atau senior-senior politik sebelum ni kita copy paste, kita bagi jawapan sama
 
-[59:32] While the answer is what we have been talking about when we become a leader. So I think it's okay, we may not be able to do 100%, but the way we answer is the same. So for me, what is this, it's fast. Once you are in the system, I think if we want to feel, especially if we are less engaged, less looking out, we will feel comfortable quickly.
+[10:12] Rafizi Ramli: No, I you see when you ask that question kan, saya tak ingatlah masa saya membesar dululah, maksudnya 80s, kemudian di sekolah masa sekolah menengah early 90s kan. Saya tak ingatlah yang secara fizikalnya bulan Merdeka itu jauh lagi meriah daripada sekarang. In fact, saya tak rasa pun apa nama ni bahang Merdeka tu dulu kan. Itu secara fizikal lah. So dia tak adalah, saya tak ingat dulu orang kibar-kibar bendera kecil semua ni dulu tau. But maybe because Malaysia miskin waktu tu kan. So so people tak boleh and tak banyak orang ada kereta tau. People forget that masa tu. Tak banyak orang ada kereta nak pasang bendera ataupun you know saya membesar di Kemaman kan, tak adalah kaya sangat kan. Jadi saya ingat orang nak pasang rumah pun banyak rumah kayu semua, lawaklah rumah kayu tiba-tiba ada bendera kat situ kan. Jadi secara fizikalnya kalau nak kata tahun 80-an, 90-an tu lagi meriah daripada sekarang, I don't think betul pun. Kemudian apa nama ni yang the only thing saya ingatlah kalau kalau Merdeka masa kecil-kecil tulah orang tengok live telecast dekat Dataran Merdeka sajalah, itu sajalah. Which is to me bosan sebab tak ada jalan cerita kan. So aku pun tak tengok dulu kecil-kecil kan. Cuma okey kalau pun yang ada perbezaan ketara eh, I may be wrong tapi saya tak rasa isu siapa lebih patriotik atau patriotism ni timbul dulu lah. Dia lebih lebih harmoni.
 
-[59:57] Tetapi, so apa YB Rafizi terangkan that pemahaman dari segi jadi kerajaan, dari segi jadi pembangkang adakah
 
-[1:00:05] that kesedaran, did you already kind of knew that before jadi menteri ataupun adakah satu kesedaran ni hanya sampai kepada YBNIC lepas jadi menteri? Sedikit sebab saya ada pengalaman di kerajaan negeri 2008 sampai 2018 tetapi dia tak samalah sampai mana betul tak se at the federal level dia punya level tak se intense tak se intense lah I mean selangor apa pun aku jaga pula pendidikan memang bukan bawa kita bagi duit je at the federal level, the buck stops with you. Dan walaupun kadang-kadang banyak benda, tanah, mineral, tak ada kos saya pun. Tetapi orang akan tengok kat kita. So memang it's a whole different level lah. I realise it semasa jadi menteri lah. Aku mana pernah jadi aku. Ex-co ke apa kan, I've never been in public service pun. Ini kali pertama lah semasa jadi menteri kan.
 
-[1:01:06] There was a sense of unfairness. This is not fair. Sometimes, the comments, most of them are netizens, for example, early on. I'm a nerd. So before you make your argument, make sure you read it properly. Don't comment on things you don't know and then you make a fuss.
+[12:09] Iqbal: Okey.
 
-[1:01:27] Initially, I mean, it did push my blood pressure. Literally. After a while, I realized that you have two options.
 
-[1:01:45] Either you ambil pot yang diorang kata semua ni And then you pick a fight dengan diorang ni
 
-[1:01:51] They don't care what, the netizens or the walaun, they don't care what. But you have a job to do. So, because of that, the only way is the second option. Which is you try your best, you prepare your best. At first, it's understandable that you are misunderstood.
+[12:10] Rafizi Ramli: Maksudnya sekarang ni kan kita-
 
-[1:02:15] It's understandable. Jadi, being misunderstood actually is part and parcel of jadi menteri ataupun public figure lah. Dan dia lagi macam tengok film, baru buka 10 minit dah buat your judgement. It's understandable to be misunderstood boleh jadi t-shirt ni untuk menteri. Semua lah kan. Actually, kalau you... Kalau kita tinggalkan sesuatu, one day orang akan faham.
 
-[1:02:55] The lack, you know, orang kata tertinggal bus ni, yang netizen tertinggal bus ni, lama-lama dia akan catch up masa itu kan. Jadi sebab itu... Tapi bila berhenti semua tiba-tiba sayang. That's quite normal lah kan. Jadi I think after almost a year lah, then I realize that lah. I think sebenarnya, you have to take a step back and then realize, actually ini bukan popularity contest lah. You win an argument pun dengan walaun semua ni pun tak guna.
 
-[1:03:29] The important thing is, wherever you need to be clear, you need to be clear. You can't make people angry and criticize. You can advise people to check before they get angry. But that's the best you can do. The rest, actually, your work, people hopefully will appreciate and understand many, many years down the line. And I think, in my case, once I take that position,
+[12:10] Nik Nazmi: Dia tak menghukumlah.
 
-[1:03:55] Ia membuat banyak perkara lebih mudah. Ia memberikan banyak kejelasan.
 
-[1:04:02] To what extent do you believe that intention is important? For example, if we have Tun Abdul Abadawi, maybe his intention to have a hands-off policy for the web, internet, maybe he's just lazy to hold the arena. But if his intention is because he's just lazy, is that still worth praise?
 
-[1:04:30] I don't know, I've never asked him, I didn't have time to ask him. It's hard to be a good person, right? But I think, yes, I mean, I think his contribution, I think, in hindsight, there are many positive things, right? But one thing that I learned when I became a minister, which is very different in scale from my previous duties, is that
+[12:11] Rafizi Ramli: Ha dia tak menghukum, tak ada judgmental ataupun tak adalah tiba-tiba nak dekat dengan Hari Merdeka ni siapa yang terpaling jiwa Merdeka, terpaling patriotik. Tak ada tahu. It's just people go through and but you feel the calmness lah kan.
 
-[1:04:51] If we don't realize one intention, but we also have to have an end goal in mind. What is our objective? So if not, we will be firefighting. When it's just a moment. 24 hours, if you want to get a hundred letters, invitations, all small and big, don't go to this person, upset and so on. What is this name? But at the end of the day, you just have to know what's your end goal.
 
-[1:05:18] and the way you do it, with the best way, and I think of course you have to have some discipline for your life, your health and so on, family. Then okay, because if you don't, you want to fight, everything is over, your time is over, you're not happy, your family is not happy, health will disappear. I judge a politician first and foremost by intention.
 
-[1:05:43] But then like you said, macam mana you boleh
+[12:30] Nik Nazmi: Cuma tak tahulah. Persepsi saya era waktu 88, 90 especially lah, dan 91 apa Wawasan 2020. Waktu tu ada that can-do spirit. Malaysia Boleh.
 
-[1:05:46] ascertain seseorang itu punya niat. You can tell daripada behaviour dia. Okay. When I say niat ni, bukanlah dari segi apa nama ni, policy ke apa. Itu yang orang selalu complain kata aku bukan team player lah, elite lah. Sebab I judge someone dalam politik first and foremost niat. Dia kalau mana-mana PM dia ada tepi tu, setiap gambar tu niat dia. Haa kan. Jadi you boleh nampak terus so Iqbal. Dato' Mamat ni ni Dia sebenarnya bukanlah
 
-[1:06:20] fully subscribe kepada reform ataupun niat dia bukanlah untuk apa nama ni public service pun. Dia sebenarnya nak hidup. Politik ni hanyalah satu jalan untuk hidup senang bagi dia kan. So it begins with that tau. Tapisan itu sangat penting. Kemudian dia, but niat semata-mata tak cukup. Sebab macam YB Nick sebut tadi kena ada angle in mind. I mean even if you have end goal in mind kan, tapi kalau selepas ni kan, kalau dia tak ada sikap yang betul, maksudnya dia rajin, dia sanggup belajar, dia tak sombong, dia jujur, dia memang tak akan ambil duit, then the third level is competence. Barulah orang itu pada pandangan saya, dia boleh jadi pemimpin yang ada potensi. Dia sama juga dalam kerajaan. You can tell sebenarnya niat kawan-kawan you yang actually dia ni, kenapa dia suka sangat menghadiri semua majlis dan merasmikan semua. Sebab niat dia bukanlah sangat nak bawa perubahan ke apa. Dia nak jadi menteri dan selesa jadi menteri je. I mean because betul kalau you nak remote control atau autopilot sebagai menteri ni senang Kalau dari segi superficial lah sebab semua dah tersedia Text ucapan, draft jawapan
 
-[1:08:02] You know you want to chair a meeting, right? Yes. All of them, Assalamualaikum, are written. Yes, there are people like that. Yes, there are people like that. There are people like that in the cabinet. But when the intervention is in the cabinet, they have a speech note, they read it one by one. But my point is,
+[12:44] Rafizi Ramli: Ah yeah, Malaysia Boleh.
 
-[1:08:20] What's the use of it there? Because if that's the case, it's better for KSU to just enter the cabinet. Because you are the one who has a political mandate, accountable to the public, then you have to give direction. I mean, I have great respect. My father is a civil servant. But he has a different job scope. He gives advice on the final decision of the political direction from us. One more thing,
 
-[1:08:42] In the cabinet, we are responsible collectively. So you have a minister who will not speak if it's not his thing. He speaks a lot, he's the one who's always out. The one who's always out, the one who always has a view. Because at that time,
 
-[1:08:59] That is our last intervention lah, kan, kalau kerajaan nak buat benda yang kita tak selesa ke apa. And you have to speak beyond your brief. Kan, jadi bagi saya, saya rasa penting untuk, sebab saya, I'm not just minister for NRES, tapi saya juga ahli jemaah menteri. Tapi tak banyak lah yang semua main selamat. Itu kalau coming back to soal niat semua tu kan,
+[12:45] Nik Nazmi: Menang Piala Thomas and then yalah waktu tu kita rasa memang I think that confidence ada. Maybe-
 
-[1:09:23] Itu yang saya ada masalah kalau dengan PAS ni.
 
-[1:09:28] Dari segi? Sebab saya rasa banyak tu niat dia tu tak adalah niat jahat. Niat dia dia nak jadi wakil rakyat dan juga dia nak jadi selesa orang kerajaan lah kan. Tapi bab sikap dengan kompetens tu saya rasa tak lepas. Jadi kalau ramai orang tanya, kenapalah YB tak sokong sangat PAS semua ni kan? yang ada dalam negara kita. Unit all three lah. But you know on apa nama ni on the same press lah kan. Sebab itu kalau orang yang niat sahaja tapi sikap tak betul. Itu yang kontes kami dalam PKR. Maksudnya budaya itu kena betul. Sikap itu kena betul. Kita kalau kita nampak terus terang eh geng-geng ni kerja dia dia nak bermewah je. Dia bermewah, dia nak rasa dia jadi orang besar dia tak teliti soal duit, soal betul ke salah maksudnya sikap tu is memang off dan itu memang tak boleh kerana dia akan menjahanamkan ini perkara-perkara yang di mata rakyat biasa
 
-[1:10:49] Dia tak faham kenapa pimpinan politik macam saya, Kenik semua ni, kita berserisih faham.
+[12:54] Rafizi Ramli: Nik Nik matang. Dia dah boleh observe benda tu. Aku masa 90, 91, 92 takut tak dapat balik lagi. Aku tahu aku nak makan apa aje. Tak fikir pun semua ni.
 
-[1:10:56] Sebab tu orang selalu kata, kamu kan dalam satu parti. Kenapa kamu nak bergaduh? Eh tak, sebab dia ada this layer ni kan, kalau punya niat you betul, tapi kalau perangai salah, or in the case, dia orang baik, kemudian dia pun sikap baik, tapi satu benda dia tak boleh buat kerja. Dia hanya menjadi pasu bunga dekat situ. Tak payahlah kan. Jadi, very expensive pasu bunga kan. yang saya ingat dalam budaya politik kita
 
-[1:11:30] masih lagi jauh lah. Jadi orang rasa kenapa kamu nak, itu yang orang kata, dia rasa dia seorang je betul. I mean is it wrong to put a higher standard? Because without that higher standard, actually then what's the point of changing government and bertanding masuk politik semua? Macam biarlah, saya perlu fikir kalau tak buat apa penat-penat kita ikut jalan reformasi. Kalau tak, war-war rasa UMNO kan dah naik pangkat laju mungkin. bernasib baik kali pertama tanding menang semua tetapi it was not obvious at that time kan orang cakap sekarang waktu tu kita masuk tu kat dia dalam 5 kerusi lepas tu tinggal 1 kerusi kan jadi maknanya kita kena reflect balik maknanya kita masuk ni sebab ada percaya pada nilai-nilai lah yep dari segi contohnya
 
-[1:12:21] When I discuss with my friends about the political parties in Malaysia, they will say... We are far from independence, Iqbal. I'm waiting for when we will enter independence. I'm sure it's independence. But for example, when we think about what the political party is, in my opinion, maybe a political party is...
+[13:04] Nik Nazmi: Lah because kalau 80-an tu dia ada some tension politically, apa tu kan, apa perpecahan UMNO and then ada some isu kaum, Operasi Lalang. Saya pun tak banyak yang tu in hindsight lah. Tetapi 90-an tu macam lebih-
 
-[1:12:43] berkedepankan sesuatu visi apa Malaysia patut jadi dan biasanya kalau kita fikir dari segi apa
 
-[1:12:51] Tugas Parti-parti itu Dia akan cakap Ini visi kita Kalau awak percaya Dengan visi kita Maka unilah kita Versus
 
-[1:13:00] A lot of party-party kat Malaysia, kita tak tahu dia percaya apa. Dia suka, oh you suka apa? You suka apa? You suka apa? Oh kalau you suka benda ni, you ingat untuk kita, kita akan buat benda ni. Dan satu-satunya,
+[13:17] Rafizi Ramli: Ya lebih tenanglah.
 
-[1:13:10] ...parti yang rasa macam dia......dia berasaskan dia punya...
 
-[1:13:16] their vision is the past. We don't see other parties offering a sense of what Malaysia should be based on core set principles. Do you think that's fair? PSM. Yes, PSM. PSM is very clear.
 
-[1:13:37] No, it's a fair comment lah sebenarnya kan. Dan cuma saya tak rasa yang apa nama ni hanya kerana ada parti macam PAS atau PSM ada clarity that does not make it.
+[13:18] Nik Nazmi: lebih tenang dan semua orang macam oh Malaysia apa nak buat aje boleh boleh buat kan. I mean dia ada satu iklan tu ingat Malaysia Airline dia macam buat spaceship. Tak tahu you ingat tak? Then because at that time Malaysia Airlines pergi hampir semua benua kut. Kan? Buenos Aires, New York semua. So waktu tu memang kita rasa Malaysia ni tak lama lagi akan jadi negara majulah. Itu the sense yang kita ada.
 
-[1:13:55] better than orang lain. Kerana clarity itu pun mestilah tengok clear kot mana. Jadi memang kalau macam PAS, memang mudahlah dia bagi clarity kerana dia menonggang agama. Sama juga kalau macam PSM, mudahlah dia bagi clarity kerana socialism cara dia orang itu will not work at all. Dia tidak akan menyelesaikan. And that makes them so far un-electable sampai sekarang. Jadi masalah kepada parti-parti lain, kumpulan yang berbeza-beza bukan sahaja dari segi kaum tapi juga sosioekonomi dari segi background dan sebagainya jadi Malaysia ni sangat majmur bila sangat majmur kita nak kena jadi se-inclusive yang sebaik mungkin kan dan mungkin bagi pengundi dia tak nampak sangat lah dan itu kelemahan sebelum inilah. Kita tak boleh menyampaikan VC itu dengan baik seperti mana kita faham. I can tell straight away why saya dalam PKR dan VC bahagian mana yang dalam PKR yang saya subscribe kenapa saya tak masuk UMNO dan sebagainya. It's not about semata-mata Melayu, Cina, PAS. Sebenarnya dari segi the
 
-[1:15:24] In terms of the worldview that I hold, right? I don't believe that Malaysia, I don't want to be a Malaysian or a Malaysian who is righteous by suppressing others. I don't want to take other people's rights. I don't want to actually be great with unfair behavior and be afraid of my own imagination. I want to be a confident person.
 
-[1:15:50] I want to be able to strike on my own. I want to be able to put forth an argument dengan confidence sama ada betul atau salah. Dan saya mahu dihormati for that. And I have my pride. And I want to have that pride. Jadi Malaysia yang saya ingat masa dulu-dulu yang boleh diterjemahkan ke arah masyarakat macam itu ialah melalui PKR. pandangan, kerana premium yang diberikan kepada intellectual, kerana kita tidak ambil jalan mudah yang mengambil emosi, perkauman dan sebagainya lah. Whether or not PKR is still on that path, we all have to ask but kalaulah contohnya kita consistent memastikan bahawa itulah yang orang nampak PKR. me a different kind of person yang can thrive on my own under Malaysian Sun tanpa falling back on all this identity on all this divide ini kan. Because if you are like that, campak kat mana pun you'll be fine. Campak pergi Jepun pun okay. Dia macam 99, 98, 99 tu sebab dia ada kisah.
+[13:41] Iqbal: Okey. Tapi contohnya macam you sebut that slogan Malaysia Boleh dan then lagu-lagu Keranamu, lagu-lagu Tanggal 31-
 
-[1:17:11] who supported Dato' Sri Anwar Ibrahim. But people also forget that many people who support reformation are not just on the individual, Anwar Ibrahim, but people see that many people don't support him even during his time in UMNO. But they support because they feel what happened to him, he was oppressed and so on, one issue of justice or injustice that needs to be fought by all of them, for example. So,
 
-[1:17:36] Tapi problem kita sekarang apa? Kita dah tak ada apa yang nak bagi orang faham. Dulu kita ada cerita yang berlaku kepada Dato' Syed Anwar. Sekarang, I mean pengundi yang mengundi sekarang, ni macam cerita saya dengan Tuan Husin, saya tak tahu apa dia buat.
 
-[1:17:53] So same, reformation has been a long story. We have won, justice used to win in 5-4, young people. Now we are left with 1-2. And that's scary. That's our problem, how to make people understand about justice struggle. Like in the AP, there are challenges. Around 2008, 2013, there was a crisis. It changed. So how to capture it now? But Iqbal, before you,
+[13:49] Rafizi Ramli: Keranamu tu much much later.
 
-[1:18:23] kepada melik rakyat Malaysia pandangan saya kan
 
-[1:18:26] Orang kata apa nama ni, visi yang jelas seperti mana yang kita biasa di negara-negara lain. Kalau di Eropah contohnya visinya kanan lawan kiri. Di Malaysia susah tau nak dapat satu parti yang electable sehingga boleh jadi kerajaan yang boleh bagi visi yang jelas. Kerana dia ada diskonandrum tau. last VC itu lagi you exclude other people. Okay. So the challenge is always macam sebab itu bagi saya lah kalau saya jadi consultant kepada parti baru kan mana-mana I think dia bukan lagi VC ke I mean clarity itu bukan lagi dalam perspektif ataupun acuan yang kita biasa tahu clarity itu mestilah dari segi essence which is which brings back to soal merdeka semua ni Majoritism itu, dia bukannya sesuatu yang form. It's substantive tau, substance over form. Sama juga, clarity sesuatu parti, political party, bagi satu masyarakat yang majmuk macam Malaysia, dia tak boleh form tau. Dia mesti the essence of it. Jadi, China pun faham, India pun faham and they feel that they have a stake, Sabah, Sarawak pun faham, yang Melayu majority pun faham. you berkira-kira macam yang sedia ada sekarang ni kalau yang parti perkawaman yang yang berteraskan Melayu sebab dikira Melayu majority aku ambil yang ini. Yang Cina dikira oh kita kalau kita dapat yang ini kita boleh bargaining power kita boleh empower. I think going forward kalau perkara itu berterusan masalah asal Malaysia.
 
-[1:20:19] Actually, speaking as someone who was there in 1998, at the reform rally, I remember my mother... How old were you, Mas? I was 5 years old. I remember my mother picked me up. I was also screaming about reform. But the actual thing, like YB Nate said, now we don't have a similar thing that happens now. Emotive event, emotive story. But for me, I think the closest thing...
+[13:51] Iqbal: Ya much much later. Tapi semua lagu-lagu tu ada that sense of that marketing sense yang orang terima benda tu versus sekarang bila ada percubaan untuk keluar bahan-bahan marketing baru untuk Merdeka untuk zaman ni the reception is not as positive. What do you think is going on there?
 
-[1:20:45] Or the most recent thing that happened, that maybe gave me awareness was the one that you discussed and your role in awakening Malaysians to what happened in the incident. Because just the idea that a Prime Minister can do that and get away with it was...
 
-[1:21:05] utterly unacceptable to me on a visceral level.
 
-[1:21:11] I mean, speaking of independence, there's a possibility now that Dato' Sri Najib might be experiencing that. Does that undermine this idea of what Malaysia should be like? What all you just discussed? No, okay. I think the possibility of Dato' Sri Najib being a hero again, or free, and so on, right?
+[14:11] Rafizi Ramli: Saya tak rasa pun.
 
-[1:21:39] Apapun perasaan kita, sebenarnya itu saikel yang pernah berlaku di negara-negara lain.
 
-[1:21:46] Sebab masyarakat akan lupa. Betul lah Tun Mahathir kata. Orang kita mudah lupa. Which is true. Kalau di Filipina kan. Contohnya Philippines kan. Marcos 1986 kan. Dan.
 
-[1:22:01] I was in the third grade at that time, but I still remember the TV. The shoes. Yes, the shoes, the email, everything. And we in Malaysia at that time could feel the emotion, the sadness and the feelings of the Filipinos at that time. The joy of liberation. Marcos was flown by a helicopter from Malacanang Palace.
+[14:13] Iqbal: Tak rasa? Adakah dulu Keranamu was diterima secara popular?
 
-[1:22:29] I never, in the past 10-15 years, thought that Marcos would come back. Marcos did come back. And you see, in other countries, it's going to happen over and over again. So, the society, our identity, our independence, what we feel as a society, it has never started.
 
-[1:22:54] Dan itu juga realisation yang saya ingat kami yang budak-budak mentah yang kena scam masuk reformasi dulu ni kan. I think as we grow older, kita faham sebenarnya is a continuous cycle. There's no such as, sebab I don't know Nick lah, you know, saya dulu kan tak minat politik dan dia jadi diheret oleh kawan-kawan. 2 years, I can focus, I will help and menang, oh good menang everything will be fine dia tak ada lah macam tu kan, jadi dia sama tau, the test is not on Najib or PKR or Anwar, the test is on our society, jadi dan kita kalau contohnya, kita kena terima hakikat lah yang generasi muda
 
-[1:23:46] the generation that didn't go through the emotive experience, they didn't understand our feelings, what it felt when it was directed towards 1MDB. They didn't understand all that. So, they just looked at what they wanted to look at. If they thought Najib was great, they thought Najib was great. So, it's the duty subsequently of the people to continuously make sure
+[14:17] Rafizi Ramli: I don't think so. I think majoriti rakyat tak ambil pot pun.
 
-[1:24:13] that in our society, there's enough sanity for that. That we should not forget and we should not allow it to happen again. If we are lazy, then it will happen again. But YB Nick, if we say we are lazy as a society, is that a reason to give up or is it like YB Yorafiz said, you just have to keep going on?
 
-[1:24:36] Yeah, I understand. I mean, to feel disappointed, to feel disappointed, that's an easy feeling. That's our instinctive reaction. But that's it. This thing is like we used to fight for independence. Maybe we used to think that when we were independent, we would become rich. In fact, we have big companies, the British kept holding until the 70s, early 80s.
 
-[1:25:04] I think that's the most important thing. Maybe in our youth, we think that we can achieve it, we can win power, everything will be easy. But we also have to educate the community that it is a process. And without us being vigilant, without us applying those values to the future generation, then that thing will come back.
+[14:20] Iqbal: Okey.
 
-[1:25:29] to haunt us. So, I understand people want to give up, but it's life. I mean, that's life, that we have to continue the process and we will reach our goal. But then, the next steps have to be continued. I mean, on that, right? I mean, Malaysia is one Malaysia, right? But try if we look at the psyche in Germany, right? After the trauma,
 
-[1:25:57] Perang dunia kedua kan
 
-[1:25:59] generations after generations of Germans dia memang sangat
+[14:21] Rafizi Ramli: Ha kan. Cuma sebab dulu tak ada sosial media. Jadi orang tak adalah boleh perli ke apa. Tapi saya ingatlah macam saya katalah, membesar semua in fact masa saya mula yalah balik Malaysia, kerja, kemudian into my late 20s kan, memanglah saya tak ambil pot sangat pun. Kau nyanyilah lagu apa pun. Yang paling best Merdeka ni cuti. Kan? Jadi saya tak rasa dia banyak beza dulu dan sekarang. Cuma if anything lah yang Nik kata tu is is I think from that perspective. Dulu tak ada tension. It's it's not an issue, people just go by kan. So if anything it's from that perspective tau. Maybe yang kalau Iqbal kata sekarang ni orang tolak semua tu, partly is because social media. But partly juga it's symptomatic yang the tension is there lah.
 
-[1:26:07] takut dengan unsur-unsur pekauman, dengan anti-immigrant. So they become a very civilized society yang sangat tolerant kepada semua tau. Dan bukan sahaja psyche orang Jerman tau, dia juga segala sistem negara itu, everything itu dibuat untuk mengelakkan never again. But look what happened in the last 10-15 years. semua parti-parti mainstream sekarang dalam ancaman. Kerana akhirnya, masyarakat sekarang lurch to the right, kita ada far right yang memang perkauman, yang memang tak tolerant, yang berbahaya. Kita semua tahu berbahaya. Dan saya ada kawan-kawan yang Jerman yang melalui fasa itu, what had happened, kenapa jadi begini. Tapi I think it's just Dan itu adalah ujian. Dan you may be overwhelmed by the time.
 
-[1:27:16] Ini ingatan kepada saya, Nik dan yang lain-lain kan. Dia tidak semestinya lah kan kita dalam politik bahawa kalau idea kita itu progresif dan sebagainya, kita mungkin tak menang sampai bila-bila. But someone has got to do it because it's a cycle and it's a process. Dan kita tak boleh biarkan perkara itu terputus. So that's how I see things lah. And that's how saya agak terbuka lah apa yang jadi kat Malaysia selepas ini. Datuk Seri Najib ataupun Datin Seri Rosmah jadi PM one day. I'm actually prepared for it kan. So I do what I can sebelum my expiry date kan. But so long as masyarakat ada alternatif. Yang saya lebih bimbang yang kalau saya agak vocal kalau mengenai kerajaan sekarang ni ialah saya bimbang rakyat rasa never again berisiko dengan pembaharuan atau perubahan.
 
-[1:28:18] Sebab saya terluka.
+[15:19] Iqbal: YB Nik setuju dengan pandangan tu?
 
-[1:28:20] That's what I'm worried about. Because once that happens, you open the gate and it takes so long before the next generation will dare to take the risk to change it. Like in Japan. Like in Japan. So, is that the main challenge? Like what YB Nick said earlier, after independence, there was a sense that all our problems will be solved now. But actually, the British still hold on to the companies of Malaysia until the 70s.
 
-[1:28:49] Sekarang ni kita dah merdekakan
 
-[1:28:53] Diri daripada that one party system rule that kita berada bawah selama the first 60 years of Malaysia. Akibat sumbangan-sumbangan daripada orang-orang macam YBYB.
+[15:21] Nik Nazmi: Ya ya, I think largely betul yang maksudnya isu dia pasal tension tu. Macam dulu dulu kalau kita nak apa nama ni nak tunggu berita. I mean semua orang akan orang Melayu akan makan pukul 8:00 atau pukul 9:00 lah. But dia orang akan tunggu berita pukul 8:00 malam nak dapat ni. Dia tak lengkap kan. Tapi nak sementara tu dia kena buka TV. So sementara tu because tu aje saluran yang kita ada. I mean Astro pun what late 90s, itu pun bukan semua ada. Jadi nak tak nak dia benda tu terngiang-ngianglah. Tapi sekarang kalau your FYP you tak tengok benda-benda tu, susahlah nak dengar. So I think I think that itu yang perbezaan. Kerajaan dah tak ada that that monopoli maklumat.
 
-[1:29:07] Tapi, now that kita ada kerajaan yang boleh berubah, apakah cabaran utama yang seterusnya?
 
-[1:29:13] Pada pandangan YB
 
-[1:29:15] cabaran pertama saya rasa dia jangan jadi dia kena kekalkan identiti dia
+[16:04] Iqbal: So kalau dari segi okey benda tu tak beza dari dulu sekarang. At what point then macam you were saying masa you umur 20-an you tak tak rasa pun benda ni. At what point did you really feel semangat patriotisme terhadap Malaysia? Untuk saya mungkin setiap kali tengok Olimpik and Datuk Lee Chong Wei tengah masuk finals dengan Lin Dan. Tapi for the both of you?
 
-[1:29:22] Because kalau back-back tu maknanya dia tak dapat bezakan.
 
-[1:29:25] What's the name of this? Alalam, better buy Auri. Right? Why take the cheap imitation? So, for me, we have a unique selling proposition as PKR. Yes, we are a united government, we understand. But that's what it means, where is our red line? Where is our red line? Where is our border? But if people see that our reasons are always, oh, we don't have numbers and so on, then people will
 
-[1:29:52] kata kenapa kita pegang kuasa kan, jadi bagi saya itu penting supaya orang merasakan ada identiti kita maknanya dia nak beli barang kita tu ada sebab dia, dia tak boleh dah kelabu, jadi sama kalau tu kita akan kalah
+[16:30] Rafizi Ramli: Saya I mean pengalaman sayalah kan. Depends maksud semangat patriotisme tu apa dia kan. Jadi mungkin sebab upbringing saya, kita orang kampung, orang biasa, we never dream of benda besar. So saya tak pernah tengok daripada perspektif negara ke apalah kan. So kebanyakan daripada perspektif kita pasal masyarakat dan by extension negara ialah benda sekeliling kita. Jadi to me kebanyakannya tu ialah daripada interaksi dengan orang kan. Jadi macam kalau membesar di Kemaman kan, you you you you boleh tengok apa nama ni kalau di Kerteh, you boleh tengoklah pembangunan tu ada. So there is a sense of pride and I can be part of this. Ya, sebab tu saya ingat budak-budak kalau di di Kemaman, di Kerteh kan, semua orang nak kerja kat dekat kilang minyak semua tu kan. But of course bila you mula masuk sekolah menengah, you baca sejarah lebih banyak dan sebagainya kan, I think lensa patriotisme saya lebih from the reading and historical-
 
-[1:30:08] Kerana kita tak ada kekuatan organisasi, kita tak ada kekuatan akar umbi, kita tak ada kekuatan yang macam ada pada misalnya UMNO PAS atau DAP bagi saya lah. Tetapi kita PKR ni very gerila kan. Dia macam perang gerila masuk tak ramai orang semua tapi kita berjaya. Tak pakai drone je. PKR dia pakai drone je. I guess tapi YB Nick dari luar konteks politik, do you think apakah cabaran-cabaran utama in the same way yang lepas kita merdeka dari British tapi syarikat-syarikat kita masih dipegang oleh British? ada tak? Cabaran kita I think is sejauh mana kita betul-betul dapat tukar sistem dalam kerajaan lah. So I think yang tu expectation, harapan rakyat ni. Sejauh mana kita dapat buat satu sistem yang mengelak daripada politik wang. Sejauh mana kita memastikan ada beberapa perkara dari segi
 
-[1:30:59] Laws that protect democracy and so on can be passed. Okay. So that's what people want to see. So they don't want the coffee paste answer. Yes. That's the big one. I feel like, you know, the challenge and also the main threat to Malaysia in the next 10-15 years, actually the lack of social mobility.
 
-[1:31:26] Maksudnya So ini satu cabaran ekonomi? I mean everything keseluruhan Kita jangan ambil pandangan
+[17:53] Iqbal: Okey.
 
-[1:31:35] We, the city people or the influential people who have this administration, because maybe our lives, eating and drinking, there is no problem actually, right? Paying bills, all this. It's just, if Maslow hierarchy, right? We are a little above, right? The majority of the people actually, they are under. Meaning, they want a better house, and they want to have a middle class life, right?
 
-[1:32:02] Jadi, ini semua tentang mobiliti sosial.
 
-[1:32:06] tahun 70-an, 80-an dan even especially 90-an kan yang macam Nick sebut tadi tu kenapa ada that sense of positivity you know I mean trust and pride in Malaysia, Merdeka, everything positive Malaysia boleh ni kerana social mobility was good maksudnya kalau you susah you belajar, you keluar and then kerja bank lepas tu lah lepas tu senang lah sebab tu masalah kau pun dia reda sikit walaupun dah lepas di EB semua tapi semua orang boleh semua ada upliftment kek membesar jadi sekarang ini masalah utama kita ialah social mobility tu adalah perlahan salah satu sebabnya kerana kita starting at a higher point sekarang ni middle class kan satu lagi sebabnya ialah kerana dari segi competitiveness ekonomi kita ni banyak masalah struktur kan dari segi bentuk ekonominya, dari segi syarikatnya dari segi kemampuan mencipta nilai ekonomi kita kan kenapa ada masalah struktur dia kembali kepada yang Nick sebut tadi political will, sistem dari segi regulation budaya politik, rasuah dan sebagainya. Jadi sebenarnya walaupun social ialah sesuatu yang semua orang faham. Kalau dia rasa macam, aku kerja tiap-tiap hari ni macam orang gila, ni sama je hidup aku. Dan dia tak sukalah, dia tak puas hati kan. But, dia as you feel layer after layer after layer, it goes back to government sebenarnya kan. Now.
+[17:54] Rafizi Ramli: -perspective.
 
-[1:33:55] Kenapa I say is the biggest threat? Ialah itu telah berlaku di negara-negara lain. Dia belum sampai kat Malaysia lagi. Kenapa berlaku fenomena Trump di US? Kenapa berlaku kucah-kacir, ketidakstabilan politik? Ataupun kalau di UK, Nigel Faraj. Kalau di Eropah, why the lurch to the far right? It's because of the lack of social mobility. Orang-orang frustrated. Ajar macam mana pun, macam itu juga. Then they start pointing fingers lah. Dia akan jadi anti-elit. Yang kaya tu sebenarnya mesti jahat ini. Dia menekan kita. Jadilah PSM. Contohnya kan. Ataupun pendatang tu jahat. Ataupun pendatang jahat. Orang Cina jahat kan. So bila keadaan ini berlaku, maka...
 
-[1:34:45] Hanya parti-parti politik yang populis sahaja yang akan mendapat tempat. Yang menjahat. It tends to be yang parti-parti populis adalah yang menggunakan, yang memperkudakan sentimen perkawaman, sentimen agama. Kenapa tak...
 
-[1:35:00] kurang parti politik yang memperkudakan sentimen kelas.
+[17:55] Iqbal: I see.
 
-[1:35:04] Dia tapi dia sebenarnya kalau kita tengok eh Kalau Yelah ok kalau kita pergi luar
 
-[1:35:10] For example, Trump or reforms, he is the leader of the middle class, the white people. He writes on that. And when he sees other people who are called liberals, he says that at the end of the day, the economic structure has not changed. And he sees other people, other skin colors, all come. But it's the same here.
 
-[1:35:33] So, if we look at it, people will play with the sentiment. It means that the class is replaced by the people. But they play with the people below. In Malaysia, it's more unique. In Malaysia, it's more unique because the class and the people are quite the same. Okay. For example, to ordinary Malays,
+[17:55] Rafizi Ramli: Maksudnya ada benda yang yang yang I felt that things could have been done better. Ataupun you tahu sebenarnya Malaysia ni sebenarnya asal usul dia begini. Jadi kalau ada sesuatu perkara di luar contohnya kalau ada soal That's why I was very anti-racism daripada kecil tau. Because it's that perspektif bahawa negara ni dibina bersama kan. Then and so I have never I don't have that tau Iqbal which is, "Wow, saya sangat bangga dengan negara kita ni semua." Gini kan. It's always the feeling that sebenarnya Malaysia has gone has done be- good, could have done better, dan ada ingredient-ingredient yang perlu dipertahankan. The strength of of kan. Jadi mungkin sebab aku nerd lah kut. Aku kerja membaca buku sejarah aje kan.
 
-[1:35:59] Bila cerita pasal orang kaya ni, sebahagian besar dia ingat orang kaya ni orang bukan Melayu lah. So it's actually quite interchangeable. So in Malaysia it's even more dangerous kerana the identification ataupun the disparity between different races itu. Sebab itu dia boleh jadi emotif. Sebenarnya saya tak rasa sangatlah soal politik perkauman di Malaysia ni pasal politik. And that economic insecurity comes from the lack of social mobility. Kenapa orang macam saya dengan Nick have that confidence and tak ada economic insecurity, tak ada, I mean, racism semua ni, kita tak ada insecurity because we have achieved our social mobility tau. betul-betul berjalan. Sebab itu, walaupun orang maki saya kalau pasal jadi Menteri Ekonomi dulu apa semua, sebab bagi saya, you boleh je buat kosmetik ni. You nak bagi duit ke apa, it's not going to delay the time bomb. The time bomb which is to fix our social mobility.
 
-[1:37:19] is structural reform for the economy. And that's a lot of bitter pills. We have to swallow those bitter pills. But that's also our challenge in the government. Those bitter pills can only come with political will, with regulatory and many other things. Good communication. Good communication and so on. So this will continue to be a challenge. And let's say there is a new government.
 
-[1:37:48] They are only interested in short term and they kick the can down the road yet again. So finally, if Malaysia is not careful, the world spiral is the same as we see in other countries. It becomes tax and spend, tax and spend. Who is unlucky to become a government when we default on debt? It's sugar.
+[18:55] Iqbal: Sebab tu ada jiwa pensyarah. YB Nik?
 
-[1:38:11] Dan insecurity itu, in fact, among kelas pekerja Cina pun anak-anak muda, dia terasa juga. Dan itulah makna dia akan terasa nak salahkan dasar pro-Melayu contohnya atau pro-Bumi. Tapi on the flip side, yang sana dia akan menyalahkan peniaga atau toke-toke Cina lah. Contohnya yang control ekonomi. Tapi yang memainkan kat atas lah, the politician yang suffer. actually berlaku di mana-mana lah
 
-[1:38:43] You know what political elites do is they make sure that you point fingers to each other, to the left, to the right, to the front, to the back, so that you don't point fingers to the top.
 
-[1:38:58] Because at the end of the day, it's all about the economy unfortunately. It's because of the inequality and the disparity. So, as long as we are in the spirit of independence, as long as we are Malays, Chinese, Indian, we don't understand that actually
+[18:58] Nik Nazmi: Yalah, dia kalau yang superficial tu, saya tengok apa Malaysia seri tiga sama dengan Korea Selatan kan bola dekat Doha tu syok. Tapi macam saya because again I think partly macam pendedahan ayah saya. Dia dia dia generasi dalam dia tengah naik tu zaman Tun Razak. And zaman tu I think banyak orang Melayu kalau dia penjawat awam or even orang biasa, dia ada some romanticism lah dengan Tun Razak ni.
 
-[1:39:17] No matter how great the government is, the rich Malays, Chinese, and Indians are still rich. Every year, they are getting richer. Today, this party won, they are also the ones sitting at the table. The next day, another party won, and they are also there. It's a bit embarrassing because, for example, in the context of the Urban Renewal Act, just to use an example,
 
-[1:39:42] There is a clear criticism of the act, but when it is framed in the context of the community, then a discussion that can be held rationally and can be held in a safe way, then it can't be because we have framed the discussion in the context of the community. I don't know, Ranit. I don't know if there is a pass.
 
-[1:40:09] Bila dia frame URA ataupun PSB ni daripada konteks ni DAP nak halau Melayu daripada bandar ni kan. I don't know whether they really believe in it or they just being very smart untuk membakar api perkauman. Okay, untuk penceritaan dia. Sebab benda tu shortcut kan. Urban Redevelopment Act ni later lah kan Tapi
+[19:29] Iqbal: Dari segi?
 
-[1:40:45] Bila dia buat begitu tu, dia mudah untuk dia lah tapi berbahaya untuk dan yang jadi mangsa sebenarnya kalau tidak dibuat berhati-hati, redevelopment ni or gentrification kalau dia berlaku. Yang jadi mangsa ni semua, bukannya Melayu. Kawasan saya yang duduk dekat flat-flat kos gendah ni sama banyak je Melayu, Cina, India lah. Semua akan jadi mangsa kalau tak berhati-hati. So saya dah mula nampak sebenarnya jalan singkat yang diambil contohnya PAS, contohnya PN that dia memang tak nak tau bincang secara ilmiah ataupun to stick to the facts and basically practical arguments. Sebab benda tu payah. Jadi dia lurch kepada populism cakap benda yang memang akan terbakar terus. Terima kasih.
 
-[1:41:47] Maybe we can bring that discussion to a close because... When are we going to talk about Merdeka? Or Sudirman for that matter? By the time we finish this discussion, it's Merdeka. Actually, now that you mention it, now you asked about our growing up, about Merdeka,
 
-[1:42:04] Actually, the constant theme of Merdeka growing up is Sudirman. With his clothes. Now it's dangerous if you make clothes for him. So, I guess we can start to close up. But then, from the perspective of personal reflections,
+[19:30] Nik Nazmi: Dari segi dia punya jiwa rakyat. I mean dia in fact ironically banyak dia punya dasar-dasar tu boleh dikata agak left of center. Orang kanan dia semua waktu tu kan. Apa nama Tapi dia juga so my father dia juga cerita pasal Asri Muda, apa nama Ahmad Boestamam, Dr. Burhanuddin dan sebagainyalah. Jadi saya punya ni pun lebih saya selalu curious about zaman tu mahal nak dapat info-info yang orang kata subversif ni. Sebab you baca sejarah, you tahu satu pihak aje lah. Ha jadi apa tu dapat dulu dapat buku Mahasiswa Menggugat misalnya and all that dekat bilik bahasa sebab research debate. So benda-benda tu yang kita kita hargailah kan. So I was saya saya tertanya-tanya tentang yalah sejarah Malaysia yang lebih luaslah. Jadi I itu yang sebab rasa macam kita tak raikan mereka kan. Sedangkan kita tahu I mean okey orang kanan pun berjuang untuk kemerdekaan, tetapi orang kiri lebih awal dan tak banyak yang dapat nilah. Mungkin kita ingat pun sebab ada jalan dekat Taman Tun. Itu aje. Tapi makna cerita-cerita tu yang saya curious lah. Dan memang nak dapat bahan-bahan tu macam you have to look for it those days kan. Tak dia takkan muncul. Telefon pusing lagi.
 
-[1:42:26] Was there a moment di mana kedua-dua YBN, YBDFZ, you rasa this was the most merdeka point you've reached in your career? Was it waktu 2018 kita berjaya-jatuhkan kerajaan BN ataupun was it bila...
 
-[1:42:43] Anwar menjadi PMX, adakah itu masa yang tertentu yang membuat anda berpikir, kita mungkin rasa apa, Datuk-Datuk, Ibu Bapa kita rasa pada tahun 1997?
 
-[1:42:57] Hmm, well, I think 2018 tukar kerajaan tu adalah rasa. But the sense yang...
+[20:53] Rafizi Ramli: Long and short of it, both of us mat nerd lah. So kita tak tak tak tengok superficial things.
 
-[1:43:05] Sebab sebelum itu nak bayang benda itu susah. Jadi apa nama ini ada perasaan itu. Dan satu lagi, bila Datuk Seri Najib disabitkan bersalah. Sebab tak semua negara dapat satu, kita lalu perubahan kerajaan dengan aman damai. Dan kedua dapat membawa mantan Perdana Menteri mereka ke penjara. Certain ni kita boleh tengok kat Singapore. Habislah kau orang UMNO marking kau tu. Marking podcast ni. Marking duduk already. So that was my point lah. After that of course benda tu ada simpang sio dia. Tapi I think ada sense of kita mencapai sesuatu lah. Saya pelik sikit tau.
 
-[1:43:56] Saya rasa saat yang paling membebaskan adalah pada tahun 2008.
 
-[1:44:03] Because I was on the outside. I was a corporate, working as a corporate. So I wasn't involved in the 2008 campaign. My family and I were at Kemaman, after the election, we watched TV at night. And if you were outside at that time, you didn't feel the campaign was going to be a big shock in 2008. So when 2008 happened, I really felt
+[21:00] Iqbal: Tapi then dari segi historical, macam mana contohnya kalau you sebut dari segi racialism dan you dari umur yang awal sedar bahawa itu bukan versi Malaysia yang you setuju dengan. Macam mana you boleh sampai konklusi tu pada waktu yang ramai orang lain looked at the same thing, read the same history books, knew the same things you knew, tapi made a different conclusion?
 
-[1:44:31] Finally, everything was not futile after all. Then, you know, it cannot be turned back. And it provides, jadi sebab itu lepas 2008 tu, walaupun saya tak berminat, I have my career semua, lepas tu bila Dato' Sri Anwar duk kacau semua, sebab itu saya dengan bodohnya resign my job. 2013, 2018 or 2022 even, because saya ingat because I was actually in the thick of everything. Jadi kalau you basically you were part and parcel of the campaign strategy, you've been campaigning, you more or less know the result. Jadi it wasn't such a shock. Jadi habis saja keputusan itu, then you sibuk pula with the aftermath nak bentuk kerajaan lah itu. of 2022, 4 hari tak tidur tau. Sebab susah nak bentuk kerajaan kan. I remember at some point tu I just singgah dekat office and then aku just pengsan for about 2 hours kan. Jadi I never had that
 
-[1:45:46] feel how 2008 was like. 2008 was like until dawn, you know, you didn't sleep. It's like, I was about to... Yeah, yeah, yeah. Was it excitement? Let's go for Rizal Krawlambat. And then you must remember, Selangor Rizal Krawlambat, and you must remember, Iqbal, 2008 happened after the utter destruction of 2004.
 
-[1:46:08] And everyone was already wrapped up, all the mosquitoes, there was no chance. So suddenly, you know, you feel that the last 10 years was not in vain. And it burned all the spirits. So I've never felt anything like that since. Okay, so taking that sense, that emotional resonance that YB Rafizi just explained earlier, if you had to sum up Merdeka,
+[21:27] Rafizi Ramli: Tak tapi saya rasa yalah I mean both Nik and I, kita benefit from the fact of kami ni masa membesar ada slightly higher curiosity. Jadi saya rasa kami punya pembacaan is wider. And I benefit from my seniors. So masa saya form 1 ke apa kan, senior saya memang dah membaca buku-buku yang offer multiple perspektif daripada buku sejarah yang kita baca itulah. And I think it's also because both of it's debating tradition dekat MCKK. Memang kami baca and we explore semua tu. Jadi I mean it's a requirement for you to read a lot even daripada umur 13 kan. Jadi then you read different kind and then then then contohnya even perspektif contohnya eh, kita membesar contohnya diberitahu komunis sangat jahat. Saya ingat orang cerita pasal kecil-kecil dulu orang cerita komunis dia ambil alih kemudian dia masuk kampung, dia bunuh semua orang kan. Jadi-
 
-[1:46:37] As an emotional vibe for orang-orang muda yang mungkin tak pernah melalui apa-apa yang kita pernah melalui in the past 10-20 years, apakah merdeka kepada kedua-dua anda?
 
-[1:46:53] Simpanan dulu aneh kalau simpanan. Simpanan dia simpanan. Apa Merdeka eh. Merdeka I think ultimately dia bebas tu satu bahagian. Tetapi dia juga kita ada keupayaan untuk menentukan hal tujuh kita.
 
-[1:47:11] Okay. Pressure tu? Ha? Pressure tu. Pressure, pressure. And I think itu yang macam bagilah macam kadang-kadang bila tengok orang muda, in fact kan kita dah dapat undi 18 for better or for worse. But I think benda tu pun inevitable. Kita boleh persoal ke apa, inevitable. Tapi yang FRA, tak kisah ada mengundi PAS tu satu hal lah. Tapi kalau yang budak-budak ni langsung tak kisah dan tak ambil tahu because dulu kita nak dapat undi 18 tu susah. Orang zaman merdeka tu bila dia tak, the whole point is untuk kita tentukan hala tuju kita kan. So for me, itu satu benda bebas tapi juga bebas saja kita tak dapat tentukan hala tuju kita tak akan ada makna lah.
+[22:43] Nik Nazmi: Dia dia kalau pejoratif dia apa kalau Cina yang paling ni, Cina komunis.
 
-[1:47:55] Wajib Rafizi Yelah I think Merdeka ni Is precisely what it is lah Merdeka
 
-[1:48:04] Merdeka means Yelah yang Yang lain tu kan Bangunan ke All these forms Bagi saya tak penting sangat lah What I wish Ialah semua orang ada jiwa merdeka Dan Susah kita nak explain what it is Jiwa merdeka ke apa Tapi I hope whatever we were doing For the last 3-4 months Actually itulah maknanya I'm glad Saya sendiri, Nick, dengan menolak dan menunggu senjata kita, saya rasa kita telah membuktikan kepada diri kita sendiri, lebih daripada apa-apa yang lain, bahawa kita masih mempunyainya.
 
-[1:48:46] Kita masih mempunyai api di dalam perut yang kita, maksudnya jika kita perlu berjalan ke jauh untuk memutuskan kejayaan kita sendiri dan untuk melakukan apa yang kita fikir betul dengan yakin dan tanpa maaf. Dan saya rasa itu yang saya harapkan kepada semua orang di Malaysia inilah. Jangan beri maaf untuk apa sahaja kita. Kalau Melayu, tak payahlah nak rasa kita ni lemah ke, lembek ke, ditindas ke ataupun bodoh ke. kita ni mati ke India ke apa, it's like you know, have that confidence, have that conviction, do what we think is right, kita tak semestinya betul but kalau kita salah pun we will learn from it, but have the pride to chart your own course in life lah. So kalau semua orang macam tu, I think Malaysia will prosper.
+[22:48] Rafizi Ramli: Ha Cina komunis, Cina komunis kan.
 
-[1:49:40] Great!
 
-[1:49:41] Saya rasa itu suatu poin untuk berakhir dengan baik. Selamat Hari Merdeka. Ikhbal sangatlah bersopan hari ini. Kena lah. Kena lah. Lepas dah habis kena kecam dah trauma dah. Trauma. Kena jatuh dari kesilapan. Saya merdekakan diri daripada komen-komen negatif. Terima kasih kepada semua penonton-penonton yang berhenti menteri kerana bersama kami untuk lepas 1 jam 40 minit. dan Selamat Hari Merdeka. Hari ini aku rasa viewership went down. Hahaha. Janganlah panggil aku. Dah sebab orang bosan tu kalau tak bakar-bakar ni. Oh. Dia nak cuba bakar je. Bakar lagi, bakar lagi. Itu kena panggil orang lain. It was weird because you had people, the feedback asking for, can you ask for more vision questions like long term Oh ya ke? vision building questions. Oh okay okay. So ada. Oh ada ada juga. Tak ada tapi tak ramai. Itu nerd-nerd lah yang tanya. Okay ada juga nerd-nerd lah. So to the nerds, Sama Arimadeka
 
-[1:50:44] I can see.
+[22:49] Nik Nazmi: Kalau belah Kelantan.
+
+
+
+[22:51] Iqbal: Versus Melayu kampung eh?
+
+
+
+[22:53] Rafizi Ramli: Ha jadi tapi bila you baca then you mula mula faham contohnya MPAJA, kemudian selepas Jepun kan, Jepun menyerah diri menyerah kalah, kemudian ada 13 hari yang apa nama ni ada vakum. And then memang ada cubaan komunis masa itu masuk kampung dan cuba ambil alih pentadbiran. Jadi then then then you put things, you understand better. Sama juga dengan contohnya soal migration ke Malaysia. Ada orang Cina, ada orang India kan. Kita membesar seolah-olah orang Cina, orang India ni poop datang dia tiba-tiba dia datang kemudian dia ambil semua. Tapi kalau kita baca yang yang yang lebih meluas, sebenarnya itu adalah polisi British.
+
+
+
+[23:50] Iqbal: Yang ambil banyak tu British.
+
+
+
+[23:51] Rafizi Ramli: Ha yang ambil banyak tu British. Dan sebenarnya ada industri-industri yang yang memang digerakkan oleh migran sebab orang Melayu pada ketika itu ada tanah dan we live off the land. Kalau yang nelayan, nelayan. Yang bertani, bertani. Jadi contohnya bila ada industri bijih timah, sebenarnya dia cukup susah industri bijih timah ni kan. Orang duduk dalam kongsi, mati demam, tidur macam tu aje. Jadi orang Melayu tak nak masa itu. Jadi dan China masa itu di bawah Manchu teruk, jadi banyak orang susah. Jadi dibawa ke sini dan the Chinese went through that hardship. Dan oleh kerana dia concentrated di kawasan-kawasan bijih timah, they form a community. Daripada komuniti itulah maka dia terpaksalah ada kedai, kedai makan. Jadi bandar then grow around that. Jadi bila kita tengok dari segi perkembangan sosioekonomi, dia beri lensa yang sangat berbeza daripada stereotaip politik yang kebanyakan budak Melayu membesarlah. Jadi saya rasa kami benefit daripada pembacaan yang yang above average semasa kami muda and a lot of it is attributable to the fact that we were debaters. It was a requirement to read.
+
+
+
+[25:23] Iqbal: Tapi kalau correct me if I'm wrong, it sounded like your father pun seemed like the kind of man yang memupuk semangat patriotisme ni dalam you punya keluarga.
+
+
+
+[25:34] Nik Nazmi: Ya ya ya. So ya, so I think kita orang apa tu kita orang komputer pun ada lambat. I mean he could afford to kan, tapi Astro pun ada lambat. I think dia beli kereta dapat free zaman tu Astro then baru. So nak tak nak and I was basically sebab kakak-kakak jauh beza. Dia orang dah belajar, dah kerja, kahwin semua. So macam anak anak anak tunggallah. So I think that is why macam sekarang tengok anak saya susah. And of course sekarang awal-awal dah ada handphone, ada semua kan. But ya so memang dan dan dia encourage I think dia bagi freedom untuk kita explore yang luar kotatlah kan.
+
+
+
+[26:14] Iqbal: Then mungkin saya letak question tu dalam konteks ni. That okey yes, membaca akan membuka minda dan semua ni. Tapi saya kenal ramai juga manusia yang berpengajian tinggi, perspektif dia luas kerana dah dah travel merata-rata, dia baca pun vocabulary mungkin dia orang lagi banyak daripada saya punya vocabulary, tapi dia punya perspektif, dia punya pendapat, dia punya pandangan pasal dunia sangat-sangat bukan apa-
+
+
+
+[26:46] Rafizi Ramli: Pasal Malaysia and patriotism, you mean?
+
+
+
+[26:49] Iqbal: Yes, specifically with regard to apa Malaysia patut jadi, with regard to the idea of apa jenis masyarakat apa kita patut jadi. Dia tak bersependapat dengan kamu berdua walaupun orang-orang macam tu-
+
+
+
+[27:04] Rafizi Ramli: Dia bergantung dibaca apalah kut.
+
+
+
+[27:08] Iqbal: Kan?
+
+
+
+[27:09] Rafizi Ramli: Tak tapi tapi yalah saya rasa kalau nak bandingkan saya dengan Nik dengan majority of yalah orang Melayu yang lain, kami anomalis. Kami tidak mewakili majoriti Melayu kerana environment kami berbeza kan. Whatever I I hate to go back to MCKK, but it is actually quite true kerana kami dibesarkan di MCKK yang memang ada tradisi kepimpinan yang yang panjang. Yang memang you know saya tak rasalah kalau sekolah menengah biasa yang ramai orang ambil port pasal politik. Tapi di MCKK is part and parcel because the long line of alumni of Sultan semua ni kan. Jadi dari segi itu saya ingat pembacaan dan juga our upbringing, the konteks tu berbeza dengan orang lain.
+
+
+
+[28:13] Nik Nazmi: Tapi okey nak ambil pandangan yang berbeza sikit. Saya kenal ramai juga kan. Makna dia dapat go through apa yang kita go through. Dia pun hidup senang, tak susah. Tetapi dia punya ada still misalnya sense of Malay insecurity. Ya. So makna dia belajar belajar overseas-
+
+
+
+[28:35] Iqbal: That that that question of nature versus nurture, your pendapat macam mana?
+
+
+
+[28:40] Nik Nazmi: Makna dia dia dia tak perlu makna kita tahu kalau you know anak dia kalau tak ada scholarship pun dia boleh hidup semua contohnyalah. Tapi still bila bab sampai tu dia akan ada that kan dalam grup okey saya tahu tak ada WhatsApp. Dulu-dulu pun e-mel thread kan. Tapi that sense ni yang mana kalau kita tahu orang tu susah, orang tu mungkin tak tak exposed dan sebagainya, mungkin faham. Tapi mereka yang they don't need to be scared.
+
+
+
+[29:06] Rafizi Ramli: Yalah saya tak boleh faham orang lain kan. Tapi in my case you know your question, nature versus nurture kan. Sebahagiannya saya ingat sebab pengaruh yang besar tu because saya memang come from working-class family. Jadi kalau you are a Malay working-class family yang hidup kena pandai-pandai sendiri, sebab dulu tak banyak bantuan tau. Dia tak ada style BR1M bagi duit semua ni. You memang kena duit tu kalau you tak ada, tak adalah dulu kan. Jadi I grew up in a family yang parents memang tahu you have to work hard because you're on your own. And we depend on you, you are on your own kan.
+
+
+
+[29:51] Nik Nazmi: Dan the only apa orang kata yang dapat tukar tu is pendidikanlah.
+
+
+
+[29:54] Rafizi Ramli: Pendidikan. So so so saya grow up dalam environment keluarga Melayu yang 100% percaya social mobility ni hanyalah pendidikan. Jadi bergolok bergadailah ke apa kalau pendidikan kena kan. But at the same time, sekolah dulu macam saya sekolah rendah, dia agak multiracial. Jadi saya daripada awal, walaupun mungkin konotasinya apa nama ni mungkin bunyi negatif sekarang, tapi dulu competition nak kalahkan anak Cina jadi top student tu is a positive connotation dulu tahu. Sebab sekolah selalunya susah, memang anak Cinalah yang top student ni. Jadi kalau ada Melayu yang boleh beat anak Cina, memang hebatlah mamat ni kan.
+
+
+
+[30:40] Nik Nazmi: Di Kemaman aje. Di PJ pun sama.
+
+
+
+[30:42] Rafizi Ramli: PJ pun sama. Saya di Kemaman kan. So you know to be top student darjah 5, darjah 6 tu memang you kena beat anak Cina.
+
+
+
+[30:49] Iqbal: And zaman zaman tu kita ada pelbagai kaum kat sekolah kebangsaan.
+
+
+
+[30:52] Rafizi Ramli: Pelbagai kaum lah kan. Jadi we embrace competition differently tau. Jadi saya rasa that's why go-
+
+
+
+[30:59] Iqbal: Adakah itu sesuatu yang dah berubah?
+
+
+
+[31:01] Rafizi Ramli: No, I think it's berubah lah that one kan.
+
+
+
+[31:03] Nik Nazmi: Sekarang sekolah kebangsaan dekat I mean saya saya sekolah kebangsaan La Salle PJ. Dia ada salib besar, bawah tu tulis jawi. Sampai sekarang eh. Tapi zaman saya dulu probably 60-40 dari segi kaum dan kita ada Melayu, Cina kaya. Kita juga ada Melayu setinggan, Kampung Medan semua ni. Sekarang saya datang dia mostly daripada sekarang dah jadi flat lah. Yang of courselah area Bukit Gasing tu of course Chinese almost tak ada. 95% sekolah mubaligh eh, 95% Melayu, banyak daripada ni. Jadi makna sekarang pengalaman ni dah jadi sangat-sangat asing. Sekolah kebangsaan boleh bilang dengan jari yang ada apa tu especially Chineselah, Cina kan. India ada sikit dan tu pun dalam spot-spot tertentu aje.
+
+
+
+[31:49] Rafizi Ramli: So I think you know growing up dalam keadaan yang competition is good kan and especially kalau you boleh compete and and a lot of us actually boleh compete dengan non-Malays daripada sekolah rendah pun lagi. So bila you pergi MCKK and then you ada a different kind of perspective pasal nation building, leadership semua, I think it bagi sayalah, I mean to me personally, jadi I get the steroid to be more confident. So saya tak ada that insecurity because what's the worst that can happen to me sebagai orang Melayulah because wherever I was, masuk MCKK and then dapat scholarship, I'm 10 times better than my father's generation. So saya tak tahu sekarang dengan segala yang berlaku, ini yang saya pernah sebut juga semasa jadi menteri, bahawa the challenge untuk orang Melayu dan dia berkait dengan insecurity yang berkait dengan patriotism ialah kita terperangkap dengan middle-class sindrom ni. Kejayaan dasar kerajaan tahun 60-an, 70-an ialah melahirkan kelas menengah Melayu. Pendidikan hantar luar negara semua kan. Jadi bapa kitalah or our peers sekarang ni kan, dia membesar dalam keadaan yang kelas menengah tau. Dia bukan rumah kayu, miskin, kampung semua kan. Jadi social mobility itu dia dah jadi perlahan kerana anak mereka lahir dan membesar dalam rumah batu, ada kereta, semua ni kan. Jadi the frustration tu kalau value creation dalam kelas menengah Melayu ni tidak dipercepatkan and that can only happen through competition, entrepreneurship dan dan dan sebagainya. It will not happen from eating the same pie kan. Jadi itu yang saya ingat creates and I notice lah kan even daripada my cohorts lah masa di sekolah eh. Selalunya yang lebih feeling secured ni, sebenarnya anak orang susah. Yang lagi miskin and then they got liberated and dia pergi overseas, pergi top university, dia tak balik dah. Dia memang jadi you know memang very confident. Yang selalunya lagi insecure adalah mereka yang economically better off daripada-
+
+
+
+[34:24] Iqbal: Boleh cuba terangkan apa you rasa tengah berlaku di situ?
+
+
+
+[34:27] Rafizi Ramli: Macam saya sebutlah. It's actually-
+
+
+
+[34:29] Nik Nazmi: Makna starting point tu dah dah tinggi. I mean dah tinggi sikit.
+
+
+
+[34:33] Rafizi Ramli: Ha dia tinggi sikit. Jadi untuk untuk apa nama ni dia dia macam untuk orang yang daripada working class yang lebih miskin kan, sebenarnya opportunity to is game changer kepada mereka. Dan opportunity tu datang dengan competition dan sebagainya. So once they spring, they spring. Sedangkan kalau middle class, kalau tidak berhati-hati, middle class akan ada a bit more comfort level tau. Starting point dia dah tinggi, comfort level dia pun ada. Jadi kalau tidak berhati-hati, there is some sense of entitlement. Itu itu yang yang the complex. I mean it's not scientific, it's not apa nama ni orang kata but it's my observation from my cohort. The more yang yang tak balik Malaysia, yang internationally international citizen ni, actually banyak budak kampung tau. Bukan budak KL semua.
+
+
+
+[35:32] Nik Nazmi: Dia dia the other ada satu lagi perspektif dia. Orang yang generasi awal yang terlibat buat dasar semua macam ayah saya, dia dekat JPA. Timbalan KPPA waktu DEB. Mula-mula bajet 10 juta, dia pergi Tan Sri Syed Hussin minta fight fight fight dapat 25 juta, dapat 50 juta. Every year naik kan? So dia orang sangat nasionalis. I mean that's Tun Razak boy kan. So dia memang semangat nasionalis dan sebagainya. Pada masa yang sama, anak-anak dia, dia pastikan hantar semua sekolah mubaligh. Sebab dia nak anak dia bercampur. And ayah saya keluarga ustaz daripada Kelantan. Tapi dia punya perspektif anak dia kena pergi ni bercampur dengan orang kaum lain dan juga berbahasa Inggeris dengan baik. Kan? Jadi bila saya nak pergi MCKK tu pun dia 50-50. Sampai tengok kena hantar sekolah baru, tak pergi La Salle. Ha then dia okeylah pergilah. Tak confident dengan MCKK. Tak confident sekolah bukan ya. But until dapat sekolah baru baru tak nak, then pergi MCKK. So but dia dia orang faham the compromise dan sebagainya. Tapi bagi kita, generasi yang lahir apa tu generasi kelas menengah ni, we take it for granted. Macam ayah saya pergi UM tahun 50-an, Melayu yang masuk universiti tu macam macam menang loterilah. Bukan? Apa tu so but now generasi generasi kita dah lain. Kan? Semua orang dapat scholarship, dapat universiti, dapat ni. Jadi dia dah dia punya pandangan tu dah berbeza dan dia tak faham yang apa yang kita buat tahun 70-an semua tu ada dia punya sebab.
+
+
+
+[37:06] Iqbal: Jadi pada pengetahuan kedua-dua YB ni, like you were saying earlier, you anggap kamu berdua anomali dari kalangan Melayu Malaysia. Waktu membesar, did you notice that you were different?
+
+
+
+[37:21] Rafizi Ramli: Tak sebenarnya. Sebab yalah kalau aku umur 12 tahun dah mula fikir macam ni, masalahlah aku. Something is wrong with me kan. I think kita grow up macam biasa.
+
+
+
+[37:32] Iqbal: Sebab okey then let me share. Sebab masa saya darjah tiga, ada satu ketika cikgu suruh kita orang baca satu passage kat kelas like from surat khabar ke apa-apa. And kat rumah, parents saya memang selalu berbincang pasal politik. So perkataan UMNO tu semua memang dah dah biasa dengar. And kat dalam surat khabar tu, ada perkataan UMNO. And one of my classmates was reading the passage. Lepas tu bila dia sampai kat perkataan UMNO tu, dia berhenti sekejap dan dia macam, "U-M-N-O." Lepas tu saya pun macam, "Hah? You tak tahu ke perkataan tu apa?" So masa tu saya terus sedar bahawa okey, clearly perbincangan politik kat rumah bukan sesuatu yang biasa. So tapi-
+
+
+
+[38:14] Rafizi Ramli: I don't. I mean saya I think because my parents were simple folks kan. So our preoccupation is social mobility and and to make sure that that we can look after ourselves kan. I think if anything lah kalau saya mula faham pasal that kami sayalah pemikiran ni lain sikit sebenarnya di universiti. Di universiti sebab saya di UK kan dan dan apa nama ni UKEC dan sebagainya kan. So it's elite group kan. Jadi saya boleh nampaklah yang pandangan saya mengenai isu-isu masyarakat ni berbeza daripada orang lain yang kebanyakannya datang daripada budak-budak kaya KL ni, lain.
+
+
+
+[39:06] Iqbal: Ada satu contoh yang-
+
+
+
+[39:08] Rafizi Ramli: No, I mean yang yang yang paling saya ingat orang paling tak suka kat sayalah is like my view pasal pasal Project Kalsom. Kan? UKEC ada Project Kalsom yang mana masa summer holiday, budak-budak Malaysia luar negara ni Melayu, Cina, India akan pergi ke ke negeri ataupun dia pergi satu sekolah, kemudian kita akan kumpul budak-budak miskin untuk buat macam summer camp lah kan. So saya ingat masa saya chairman, you know I was a president kan. I felt bad about it kerana I cannot tell the difference yang kau orang semua ni datang ni betul-betul sebab kau orang nak tolong ataupun it's just a summer holiday for you to make to make you feel good about yourself. Because you're not going to solve the problem by just bercakap tiga empat hari and then you know and then you balik, you tinggal budak-budak ni. What happens to them? They will go back to their kampung kan. Obviously it was unpopular lah. Dia macam party poopers, you know. Tapi I think a lot of my my my and and a lot of it juga semasa di UK. Sebab UK dia punya left and right divide tu, political spectrum tu sangat jelas.
+
+
+
+[40:32] Nik Nazmi: Dan class.
+
+
+
+[40:33] Rafizi Ramli: Dan class, class consciousness sangat jelas. So it was quite obvious I was left-wing. It was quite obvious yang saya rasa Tory, you know, I take side with Labour or Liberal Democrat most of the time if not all the time kan. Jadi so a lot of you know introspective recognition yang aku rasa aku tak ada peluanglah dalam dunia ni sebab fikiran lain ni masa kat uni. But certainly not in sekolah lah.
+
+
+
+[41:06] Iqbal: When did you notice yang pemikiran you berbeza?
+
+
+
+[41:09] Nik Nazmi: I I I I Dia advance sikit. Dia advance sikit. Sebab apa umur 12 tahun dah rasa dah? Because when I was born, my my dad was 52.
+
+
+
+[41:18] Rafizi Ramli: Oh.
+
+
+
+[41:19] Nik Nazmi: Dan dia memang I ingatlah sembang similar lah dengan pengalaman Iqbal. Jadi memang sembang dengan dia serius. Agama, politik, ekonomi. Dan tiba-tiba member datang rumah kan. And then bila after a few times saya tengok member macam blur. So my my dad macam nak sembang biasa because dia ingat semua budak macam tu. Then I noticed that okey benda tu agak luar biasalah kan. Because my first realization untuk politik ni waktu 1990. Waktu tu semua orang nak sokong BN. Saudara-mara kan. Tapi for whatever reason-
+
+
+
+[41:49] Rafizi Ramli: 46 kau 46.
+
+
+
+[41:50] Nik Nazmi: Tak adalah not not ni not apa nama ni bukan BN. Dan dekat MCKK anak anak Datuk Seri Mustapa Mohamed my batch mate, I buli dia sampai dia kata tak apalah tua nanti dia sokong PAS lah dia kata. But it was just yalah it was just budak-budak kan. But but I think yalah the conversations dengan ayah semua tu membantu. And then of course for me dekat sekolah then Reformasi semua tu that that provided the the platform lah.
+
+
+
+[42:20] Iqbal: The platform to realize yang you punya-
+
+
+
+[42:22] Nik Nazmi: To ya to see that benda ni ada there is an alternative dan yang saya duk cari tu something yang multiracial dan sebagainya because sebelum tu benda tu agak non-mainstream lah.
+
+
+
+[42:33] Rafizi Ramli: Okey dia mungkin yang mendengar yang yang Gen Z semua ni dia tak faham semua kita orang cakap ni sebab masa tu tak ada internet. Masa tak ada internet tau. Dia tak ada bukan everyday you dapat different perspective. Perspektif tu apa yang you dapat daripada mainstream media ataupun daripada TV. Jadi as you say lah Iqbal, actually there is always a turning point yang you rasa actually pandangan aku ni lain daripada yang lain. Because out of that realization, you mula cari pembacaan-pembacaan lainlah.
+
+
+
+[43:15] Iqbal: I guess dari segi bila bercakap pasal kamu kita sebagai anomali, adakah pemikiran yang dipegang secara mainstream pada pandangan YB-YB, adakah pemikiran ni sesuatu cabaran yang perlu diatasi ataupun adakah it's just a force of nature memang macam tu aje, jadi kita perlu hidup dalam dunia yang memang macam ni?
+
+
+
+[43:37] Rafizi Ramli: No, dulu memang Malaysia ni oleh kerana the total control of information oleh kerajaan UMNO dan BN. Saya ingat masa awal-awal Reformasi dulu kan, sumbangan yang paling besar kepada Reformasi masa itulah, at least daripada perspektif saya ialah ialah maklumat. Jadi sebab itu saya ada nilai sebab saya boleh buat website. In fact, masa tahun 2000 tu semua saya buat radio internet daripada London tau untuk Pemuda Keadilan. Macam orang bodoh. Akulah tulis berita, akulah rekodkan suara aku, akulah letak streaming. Masa tu dah ada streaming. Adalah aku rasa 15 orang dengar tiap-tiap harilah kan. So in fact-
+
+
+
+[44:19] Iqbal: One of which was me lah.
+
+
+
+[44:23] Rafizi Ramli: So in fact masa tu, I was exploring and I tried tau bayar, aku dah kerja masa tu kan. So adalah kad kredit. Bayar untuk beli airwave untuk shortwave untuk transmit radio shortwave daripada Eropah tau to Malaysia.
+
+
+
+[44:39] Iqbal: Tapi masa tu apa what was the instinct?
+
+
+
+[44:41] Rafizi Ramli: No, because maklumat orang tak dapat. Jadi masa di awal Reformasi dulu, the biggest fight ialah how do you break the information blockade. Sebab itu laman reformasi kan yang kita yang awal-awal ni sama ada webmaster ataupun kalau gila sikit cuba buat radiolah kan. Tapi by now benda tu dah tak ada dah. Jadi dia bukanlah sebenarnya mainstream tak mainstream tu. Sebenarnya is a progress. And sebab itu don't underestimate how destructive technology is kan. Contohnya macam PKR dan PH sendiri kan, the turning point ke arah 2018 tu sebenarnya Facebook. Kan? Saya realize masa 2000 because awal-awal Facebook 2008 semua ni semua orang nak mengurat budak-budak aje kan. So nak berkenalan apa kan. So dia mula ada video feature streaming ni dalam 2013. Kan? And that's when saya antara orang yang paling awallah yang sebenarnya stream ceramah live on Facebook seawal 2016. Masa tu benda tu complicated gila kerana gajet semua nak ada, kena pergi mana-mana tu kena ada empat lima sim kad, yang Maxis nya, yang tu semua kan. And masa itu, UMNO, PAS semua semua tak catch up lagi tau. Jadi by the time kita masuk 2018 tu, sebenarnya PKR memang paling ke depan dan DAP masa itu lebih kepada YouTube I think. Not so much masa tu Ubah TV semua kan.
+
+
+
+[46:28] Nik Nazmi: So dia far-sighted lah.
+
+
+
+[46:29] Rafizi Ramli: Ha dia dia YouTube. Mungkinlah Tony Pua masa tu dah fikir pasal podcast kan. So sebenarnya is the technology. So the technology will break and mold society. Jadi itu juga peringatan kepada kerajaan ataupun parti-parti politik. Kita bolehlah kata nak kawal itu, nak kawal ini, tapi kita sebenarnya terpaksa menerima hakikat masyarakat akan berubah dengan teknologi sepertimana masyarakat Malaysia daripada one source of truth masa kami membesar, hebat macam mana UMNO pun, finally UMNO tu sumbangan besar yang menyebabkan UMNO kalah sebenarnya ialah teknologi because it allows people to have access away daripada Utusan, daripada tu kan. Jadi-
+
+
+
+[47:18] Nik Nazmi: Dia dia 2008 eh waktu saya bertanding waktu tu. 2008 kira pembangkang dapat buat satu ha dapat buat satu progres yang besar. Nafikan majoriti dua pertiga, menang lima negeri semua. It was blog. Kan? Waktu tu sebab ha orang macam waktu tu contohnyalah sebab orang satu sudut orang-orang Mahathir dipinggirkan. Kadir Jasin, Rocky's Bru semua, dia orang ada blog. Jeff Ooi, saya kebetulan saya, Jeff Ooi semua bertanding pula. Kan? Jadi that was the turning point kalau 2008. Dan betul 2018 is Facebook. Jadi teknologi-
+
+
+
+[47:57] Rafizi Ramli: 2022 TikTok lah. Yang kita kalah yang tulah.
+
+
+
+[48:02] Iqbal: Masa tu YB Nik dah sedar ke apa yang YB Rafizi tengah merujuk kepada ni? Yang bahawa the main cabaran pada masa tu adalah the information monopoly and kalau boleh atasi cabaran tu, maka there would be white gains yang boleh dicapai?
+
+
+
+[48:17] Nik Nazmi: Yap yap. Macam 2008 tu saya kempen, satu tu saya buat video video kempenlah. Orang tak kenal, kata siapa budak macam budak sekolah ni nak bertanding kat sini kan? So saya buat waktu tu VCD.
+
+
+
+[48:31] Rafizi Ramli: Ha masa tu zaman VCD, betul. Masa tu zaman VCD.
+
+
+
+[48:33] Nik Nazmi: Dan ada pamphlet kan. Saya buat ni letaklah kat YouTube, ada. Zaman tapi YouTube macam suam-suam kukulah. Tapi kita buat VCD semua. So memang kita merasakan bahawa maklumat people take it for granted now.
+
+
+
+[48:46] Rafizi Ramli: Talking about VCD kan, ha yang video orang. Dulu VCD ni banyak buat duit tau. You tak tahu. Zaman-zaman 2008-
+
+
+
+[48:55] Iqbal: Yang saya ingat pergi pasar malam lepas tu ada abang-
+
+
+
+[48:57] Rafizi Ramli: Ha that it's the same. Ha kan. Cuma orang kan pergi ceramah banyak-banyak. Dulu tak ada live stream semua ni kan. Jadi bila pergi ceramah tu, dia banyak VCD peddler and yang orang buat VCD terutamanya orang-orang PAS lah. Jadi berterima kasihlah kepada kami yang selalu berceramah dulu ni. Kerana orang PAS akan ambil video, burn into VCD, kemudian jual kat orang tau. Ha.
+
+
+
+[49:21] Nik Nazmi: Nah dulu-dulu macam yalah sebab saya masuk politik waktu tu semua kita punya apa your moment kita dah arrive tu, oh bila ada VCD kita dijual. Maksudnya dah ada orang nak beli kan. Maksudnya ceramah you tu ada orang nak dengar sampai orang sanggup beli.
+
+
+
+[49:40] Rafizi Ramli: Honestly.
+
+
+
+[49:41] Nik Nazmi: Tapi actually kalau ingat I think tak tahu berapa ramai orang tahu kan, macam Revolusi Iran I think was the cassette.
+
+
+
+[49:46] Iqbal: Kaset.
+
+
+
+[49:47] Nik Nazmi: Khomeini, dia dekat Paris kan? Kaset dia ni. Dan kalau Reformasi tu pun awal-awal kaset.
+
+
+
+[49:51] Rafizi Ramli: At the beginning kaset.
+
+
+
+[49:52] Nik Nazmi: Ada video kaset yang orang edar, orang dengar.
+
+
+
+[49:55] Iqbal: I recall reading arwah Raja Petra, dia in one of his blogs, cerita bagaimana dia mula rapat dengan Abdul Hadi Awang, Presiden PAS, kerana Raja Petra dia ambil kredit membawa Hadi ke arena urban Malaysia pada waktu tu. So he the first ever speech yang Presiden PAS oh sekarang Presiden PAS beri kat KL was organized by Raja Petra pada masa tu. So mungkin-
+
+
+
+[50:30] Rafizi Ramli: When was that eh?
+
+
+
+[50:31] Iqbal: That was I guess early 80s kut.
+
+
+
+[50:33] Rafizi Ramli: 80s. Sebab Raja Petra in the 80s dia duduk di Terengganu, dia jual kereta. Dia ada car dealership kat sana. I don't know, we were too young lah masa tu kan. We were close, I was actually very close to arwah Raja Petra. Sebab from the Reformasi days lah. Sebab he runs website Free Anwar Campaign. And I'm the guy in London doing some of the writing and the website. Jadi so we and then again lah it's MCKK connection lah kan. Jadi but of course we parted ways at some point lah kan.
+
+
+
+[51:10] Iqbal: Dan benda ni dari segi the the that scene masa tu was very small and like you're saying, you kenal arwah Raja Petra pada masa tu. Tapi walaupun small, it had a big impact clearly.
+
+
+
+[51:24] Rafizi Ramli: Tak, dia saya ingat dia samalah bila you anti-establishment, tak ramai orang. Hanya beberapa orang gila kan. Jadi-
+
+
+
+[51:35] Iqbal: Dan beberapa orang gila berjaya menjatuhkan kerajaan BN dua pertiga dan lima negeri kerajaan negeri.
+
+
+
+[51:41] Rafizi Ramli: No, I think 2008 tu sebenarnya banyaknya perpecahan dalaman UMNO. Jadi Tun Mahathir had a lot of contribution untuk 2008.
+
+
+
+[51:52] Nik Nazmi: Dan dan apa tu UMNO pula ambil apa tu pemuda dia jadi sangat keras. Keris, apa tu HINDRAF.
+
+
+
+[52:00] Rafizi Ramli: Ha keris semua kan.
+
+
+
+[52:01] Nik Nazmi: So non-Malays Take non-Malays for the for granted. Sedangkan kemenangan UMNO tahun 1999 dan juga 2004 tu adalah solid backing of non-Malays kan. But apa nama ni kalau kita tengoklah sebenarnya, tawaran ataupun kempen PKR, PAS dan juga DAP, pembangkang masa itu masa 2008, tak ada apa pun sebenarnya.
+
+
+
+[52:27] Iqbal: Air percuma.
+
+
+
+[52:28] Rafizi Ramli: Eh tak ada lagi tau. Air percuma tak ada lagi.
+
+
+
+[52:30] Iqbal: Dah ada. 2008 dah ada.
+
+
+
+[52:32] Nik Nazmi: BA. PKR dengan PAS, I think apa tu Hasan Ali selit benda tu dan kita pun sign off.
+
+
+
+[52:42] Rafizi Ramli: Oh, itu sebab tu kena ada.
+
+
+
+[52:45] Rafizi Ramli: So I think 2008 tu banyaknya kerana perpecahan dalaman apa nama ni UMNO. But then again, setiap pilihan raya is not necessarily strength pemenang. Is also is dynamic competition, weakness of your opponent.
+
+
+
+[53:05] Nik Nazmi: Dia punya defense lemah.
+
+
+
+[53:07] Rafizi Ramli: Dia punya defense lemah.
+
+
+
+[53:08] Iqbal: Saya ingat membaca lepas arwah Tun Abdullah Badawi passed away and ada seorang buat post bahawa kita tak bagi dia kredit for lepas dia jadi Perdana Menteri, he could have kekangkan that information punya scene, but he did not to the benefit of Malaysians. Do you agree to that to a certain extent bahawa itu salah satu sumbangan besar Tun Abdullah Badawi kepada negara ni?
+
+
+
+[53:39] Rafizi Ramli: Kita nak usung siapa nak cakap dulu? Dia dia sebenarnya ada parallel di antara pentadbiran Tun Abdullah Badawi dengan Datuk Seri Anwar sekarang tau. Okey eh. Perubahan daripada zaman Tun Mahathir yang strong man semua ni kan, jadi akhirnya bila Tun Abdullah Badawi jadi Perdana Menteri, sebenarnya soft sell dia kepada rakyat Malaysia ialah reform. Dan to be fair to him, ada reform yang berlaku yang dimulakan daripada zaman Tun Abdullah Badawi lah, termasuklah contohnya Akta SPRM, termasuklah JAC pelantikan hakim semuanya kan. And then itu juga yang dia selalu dikritik oleh UMNO semasa itu ialah kerana dia tidak dilihat keras dan tegas menangani serangan pembangkang contohnya kan. Tetapi yang ini ingatan kepada kerajaan yang sedia ada sekaranglah, oleh kerana timbul cerita-cerita lain, cerita pasal anak dia, cerita pasal menantu dia, cerita pasal fourth floor sebagainya kan. Jadi dia eclipse semua tu kan. Jadi dengan mudah dia menimbulkan orang kata apa nama ni resepi untuk meletup. Kerana bagi mereka yang mengharapkan reform daripada kerajaan UMNO yang berlainan selepas Tun Mahathir, dia lihat sebagai tidak kesampaian dan kekecewaan kerana ada juga benda-benda yang dikaitkan dengan soal kroni, soal rasuah dan sebagainya kan. Walaupun actually if you remove those issues, sebenarnya he did some monumental reform kan. Itu juga yang akan berlaku kepada kerajaan ini. On the one hand, sebab tu saya tengok Datuk Seri Amir Hamzah tadi masa menggulung Government Procurement Act lah kan. Apa yang ditanya baik oleh backbenchers ataupun baik oleh pembangkang kan and those questions are valid kan, dia ada hanya ada satu jawapan saja. Ini adalah penambahbaikan, ini dah baik ni berbanding dengan status quo. Itu berbahaya tau. Kalau kita cakap kepada rakyat yang terutamanya pengundi PH sendiri bahawa kalau kerajaan buat sesuatu, "Alah, apalah kau orang nak complain? Ini kan dah lebih baik." Itulah yang berlaku semasa zaman Tun Abdullah Badawi dan sekarang ini sedang berlaku kerana expectation dan harapan rakyat itu berbeza. Kita tak boleh nak kata just because we are marginally better, we are already the best kan. So tambah pula sekarang dengan kerajaan yang ada, dia macam repeat cerita, cerita Farhash lah, cerita Jadi dia cloud semua. Jadi kalau Datuk Seri Anwar lah, hopefully the best-case scenario for him whatever happens, one day orang akan ingat dia seperti Tun Abdullah Badawi lah. Maksudnya, "Oh sebenarnya maybe we don't give him enough credit." Okey, menarik. Tapi waktu dia jadi Perdana Menteri tu ada macam-macamlah yang- Ha but but that's why I think mentaliti kita actually to be fair lah, saya pun awal-awal jadi menteri kan, there's a lot of heartache kerana is long hours and you buat apa pun tak betul. You kena balance dengan rakyat kat luar tu perlekehkan semua. Pada masa yang sama, you have to fight the system, you have to find something kan. So you have to wonder why bother sebenarnya kan. Dan memanglah natural kita rasa bahawa we are already trying our best, kenapalah kau orang macam ni ni kan? But I think to be fair, after a while after a while lebih kurang setahun, I realized actually memang itulah jadi kerajaan. And to be fair to orang yang meminta-minta kat luar ni ataupun kritik kat luar ialah sebenarnya is it wrong to put a higher expectation? After all, kita menjanjikan to be not just better daripada UMNO, BN ataupun PN sebelum ini. Kita menjanjikan radically different. Jadi this issue sebenarnya akan terus menjadi perkara yang akan menghambat mana-mana kerajaan yang mengaku akan buat reform.
+
+
+
+[58:41] Nik Nazmi: Dia sebab tu dia sebab apa nama ni on one hand you ada orang yang konservatif lah eh. Dia takkan berpuas hati. I mean dia rasa kita ni terlalu liberal, terlalu terbuka, terlalu cepat berubah. That was Pak Lah face. And kita pun ada ada perumpamaan dia hari ini. Pada masa yang sama, orang yang nak perubahan yang kita punya penyokong tegar rasa tak puas hati. Okey. Tapi dia yang menambah ni, of course kita mungkin ada dalam realiti kerajaan lagi-lagi hari ini semua ada cabaran dia. Tetapi bila kita pusing balik dan kita gunakan jawapan-jawapan yang kadang-kadang template yang mungkin juga disediakan oleh apa tu senior-senior PTD atau senior-senior politik sebelum ni, kita copy paste kita bagi jawapan sama. Sedangkan jawapan tulah yang selama ni kita duk bahan bila kita jadi pembangkang. Kan? Jadi saya rasa macam okey kita mungkin tak dapat buat 100%, tetapi cara kita jawab tu pun satu. Kan? So bagi saya apa nama ni dia cepat aje. Once you are in the system, I think kalau kita nak rasa especially kalau kita kurang engage, kurang tengok keluar, kita akan cepat rasa selesa.
+
+
+
+[59:58] Iqbal: Tetapi so apa YB Rafizi terangkan that that pemahaman dari segi jadi kerajaan, dari segi jadi pembangkang, adakah that kesedaran did you already kind of knew that before jadi menteri ataupun adakah satu kesedaran ni hanya sampai kepada YB Nik lepas jadi menteri?
+
+
+
+[60:14] Nik Nazmi: Sedikit sebab saya ada pengalaman di kerajaan negeri 2008 sampai 2018. Tetapi dia tak samalah sampai makna betul tak se at the federal level dia punya level-
+
+
+
+[60:26] Rafizi Ramli: Tak se-intense dekat Federal.
+
+
+
+[60:27] Nik Nazmi: Tak se-intense lah. I mean Selangor apa orang kisah? Aku jaga pula pendidikan, memang memang bukan bawah Kita bagi duit aje. Kan? Tetapi bila apa di at the federal level kan, the buck stops with you. Dan walaupun kadang-kadang banyak benda tanah, apa mineral tak ada kuasa saya pun. Tetapi orang akan tengok kat kita. Kan? So so memang is a whole different level lah.
+
+
+
+[60:53] Rafizi Ramli: I I realize it semasa jadi menterilah. Aku mana pernah jadi exco ke apa kan. I've never been in public service pun. Ini kali pertamalah semasa jadi menteri kan. Awal-awal tu there was a sense of unfairness. Ini tak fair lah. It's like kadang-kadang pun yang komen semua tu kebanyakannya netizen kan, contohnya awal-awal saya kan nerd. So before you make your argument, you make sure you baca betul-betullah. You janganlah komen benda-benda yang you tak tahu and then you nak buat bising. So initially, I mean it did apa nama ni push my blood pressure tau masa tu kan.
+
+
+
+[61:35] Iqbal: Literally.
+
+
+
+[61:36] Rafizi Ramli: Literally kan. After a while, saya realize sebenarnya you have two options. Either you ambil port yang dia orang kata semua ni and then you pick a fight dengan dia orang ni. Dia tak rugi apa sebenarnya yang netizen ataupun walaun semua ni, dia tak rugi apa. Tapi you have a job to do. So sebab itu the only way is second option, which is you try your best, you you prepare your best. Awal-awal is is understandable that you are misunderstood. Okey. Kan? It's understandable. Jadi being misunderstood actually is part and parcel of jadi menteri ataupun public figure lah.
+
+
+
+[62:28] Nik Nazmi: Dan dia lagi macam you nak apa tengok filem, baru buka 10 minit dah buat your judgement kan? Hancur.
+
+
+
+[62:35] Iqbal: It's understandable to be misunderstood boleh jadi t-shirt ni untuk-
+
+
+
+[62:39] Rafizi Ramli: It's understandable to be misunderstood. Tapi going back to cerita Pak Lah semualah kan. Actually kalau you kalau kita tinggalkan sesuatu, one day orang akan faham. The the lag you know orang kata tertinggal bas ni yang yang netizen tertinggal bas ni lama-lama dia akan catch up masa itu kan. Jadi sebab itu-
+
+
+
+[63:05] Nik Nazmi: Tapi bila berhenti, semua orang tiba-tiba sayang.
+
+
+
+[63:10] Rafizi Ramli: That's quite normal lah kan. Jadi I think after almost a year lah then I realized that lah. I think sebenarnya you have to take a step back and then realize actually ini bukan popularity contest lah. Then you win an argument pun dengan walaun semua ni pun tak guna. Yang penting ialah mana yang you perlu jelas, you perlu jelas. You tak boleh nak marah orang kritik. You can advise orang supaya sebelum melalak tu check lah dulu kan, but that's the best you can do. The rest actually your work, people hopefully will appreciate and understand many, many years down the line. And I think in my case, once I take that that apa name position kan, it makes a lot of things easier. That it provides a lot of clarity.
+
+
+
+[64:02] Iqbal: To what extent dua-dua YB percaya bahawa niat tu adalah penting? Dari segi contohnya kalau kita guna contoh Tun Abdullah Badawi tu, mungkin niat dia untuk ada hands-off polisi untuk laman web internet mungkin dia just malas nak nak nak kekangkan arena itu. Tapi adakah itu kalau kalaulah niat dia tu adalah sebab dia just malas, is that still worth praise?
+
+
+
+[64:30] Rafizi Ramli: Entah, tak tahu. Saya tak pernah tanya dia. Tak sempat tanya dia.
+
+
+
+[64:33] Nik Nazmi: Susah nak tengok niat orang kan. But I think yalah, I think dia sumbangan dia tu I think in hindsight banyak yang positif kan. Tetapi yang satu benda yang saya belajar bila jadi menteri sangat berbeza skala dia daripada tugas-tugas lain saya sebelum ni ialah kalau kita tak sedar satu niat, tetapi juga dia kena ada end goal in mind. Apa objektif kita?
+
+
+
+[64:58] Iqbal: Okey.
+
+
+
+[64:59] Nik Nazmi: So kalau tak, kita akan jadi firefighting. Kan? Benda sekejap aje. Apa 24 jam ni, I mean kalau nak you dapat surat beratus-ratus, jemputanlah, apalah, semua kecil, besar, tak pergi orang ni merajuk dan sebagainya. Apa nama ni but at the end of the day, you just have to know what's your end goal dan cara you buat tu dengan cara yang terbaik. And and and I think of course you nak nak you have to have some discipline for your life, your health dan sebagainya, keluarga kan. Then okey, because kalau tak, you nak rebut semua, last-last habis aje. Your time habis, you tak happy, your family tak happy, kesihatan akan hilang.
+
+
+
+[65:39] Rafizi Ramli: I I I judge a politician first and foremost by niat.
+
+
+
+[65:44] Iqbal: But then like you said, macam mana you boleh ascertain seseorang itu punya niat?
+
+
+
+[65:48] Rafizi Ramli: You can tell daripada behaviour dia. Okey. Okey, when I say niat ni, bukanlah dari segi apa nama ni polisi ke apa. Itu yang orang selalu complain kata aku bukan team player lah, elit lah, sebab I judge someone dalam politik first and foremost niat.
+
+
+
+[66:07] Nik Nazmi: Dia kalau kalau apa mana-mana PM dia ada tepi tu setiap gambar, tu niat dia lain.
+
+
+
+[66:12] Rafizi Ramli: Ha kan. Jadi jadi you boleh nampak terus tau Iqbal yang budak ni atau mamat ni ni, dia sebenarnya bukanlah fully subscribe kepada reform ataupun niat dia bukanlah untuk apa nama ni public service pun. Dia sebenarnya nak hidup. Politik ni hanyalah satu jalan untuk hidup senang bagi dia kan. So it begins with that tau. Tapisan itu sangat penting. Kemudian dia but niat semata-mata tak cukup.
+
+
+
+[66:44] Iqbal: Hmm. Sebab macam YB Nik sebut tadi, kena ada end goal in mind.
+
+
+
+[66:47] Rafizi Ramli: Ha dia kena not just that tau. I mean even if you have end goal in mind kan, tapi kalau selepas niat, kalau dia tak ada sikap yang betul, maksudnya dia rajin, dia sanggup belajar, dia tak sombong-
+
+
+
+[67:03] Nik Nazmi: Jujur.
+
+
+
+[67:04] Rafizi Ramli: -dia jujur, dia memang takkan ambil duit. Then the third level is competence. Ha then lepas niat you rasa niat dia betul, tapisan you tengok budak ni boleh diajar kan semua. Kemudian dia ada kompetensi untuk buat sesuatu, barulah orang itu pada pandangan saya, dia boleh jadi pemimpin yang ada potensi. Dia sama juga dalam kerajaan. You can tell sebenarnya niat kawan-kawan you yang actually dia orang ni ni kenapa dia suka sangat menghadiri semua majlis dan dan dan merasmikan semua, sebab niat dia bukanlah sangat nak bawa perubahan ke apa. Dia nak dia nak jadi menteri dan selesa jadi menteri aje.
+
+
+
+[67:50] Nik Nazmi: Orang lupa tahu. I mean because betul, kalau you nak remote control atau autopilot sebagai menteri ni senang. Kalau dari segi superficial lah sebab semua dah tersedia. Teks ucapan, draf jawapan-
+
+
+
+[68:03] Rafizi Ramli: Eh you tahu you nak pengerusikan meeting kan?
+
+
+
+[68:04] Nik Nazmi: Ha.
+
+
+
+[68:05] Rafizi Ramli: Semua setiap satu tu assalamualaikum pun ditulis tau.
+
+
+
+[68:10] Nik Nazmi: Ya, ada orang macam tu. Ada orang macam tu. Dekat kabinet pun ada macam tu. Tapi bila intervention dia dalam kabinet, dia ada nota percakapan, dia baca sebiji-sebiji. Tapi my point is apa guna you kat situ? Sebab kalau macam tu, baik KSU aje masuk kabinet. Because you are the one yang ada mandat politik, accountable to the public, dan you have to give direction. I mean I have great respect, ayah saya penjawat awam. Tetapi they dia punya job scope lain. Dia bagi nasihat, keputusan akhir political direction tu daripada kita. Satu lagi dalam kabinet, your your kita bertanggungjawab secara kolektif. So you ada menteri yang takkan cakap kalau bukan benda dia. Yang banyak cakap kami ni tercampak keluar ni.
+
+
+
+[68:55] Rafizi Ramli: Yang tercampak keluar nilah yang selalu ada pandangan kan.
+
+
+
+[68:58] Nik Nazmi: Ha sebab kita at that time that is our last intervention lah kan kalau kerajaan nak buat benda yang kita tak selesa ke apa. And you have to speak beyond your brief. Kan? Jadi bagi saya, saya rasa penting untuk sebab saya I'm not just minister for NRES, tapi saya juga ahli Jemaah Menteri. Tapi tak banyaklah yang yang semua main selamat.
+
+
+
+[69:20] Rafizi Ramli: Itu itu kalau coming back to soal niat semua tu kan. Itu yang saya ada masalah kalau dengan PAS ni.
+
+
+
+[69:29] Iqbal: Dari segi?
+
+
+
+[69:30] Rafizi Ramli: Sebab saya rasa banyak tu niat dia tu tak adalah niat jahat. Niat dia dia nak jadi wakil rakyat dan juga dia nak jadi selesa orang kerajaanlah kan. Tapi bab sikap dengan competence tu, saya rasa tak lepas. Ha jadi kalau ramai orang tanya, "Kenapalah YB YB tak sokong sangat PAS semua ni? Kan dia orang kan orang baik-baik." Tapi orang baik-baik sahaja tidak semestinya akan menyelesaikan masalah yang yang ada dalam negara kita. You need all three lah. But you know on apa nama ni on the same breath lah kan. Sebab itu kalau orang yang niat saja tapi sikap tak betul, ha itu yang contest kami dalam PKR. Maksudnya budaya tu kena betul, sikap tu kena betul. Kita kalau kita nampak terus terang, "Eh geng-geng ni kerja dia dia nak bermewah aje. Dia tak berminat pun." Sebab itu bila dia nak bermewah, dia nak rasa dia jadi orang besar, dia tak tak teliti soal duit, soal betul ke salah. Maksudnya sikap tu is memang off. Dan dan itu memang tak bolehlah kerana dia akan menjahanamkan kan. Ini perkara-perkara yang di mata rakyat biasa, dia tak faham kenapa pimpinan politik macam saya ke Nik semua ni, kita berselisih faham. Ha sebab tu orang selalu kata, "Kamu kan dalam satu parti? Kenapa kamu nak bergaduh?" Eh tak, sebab you know dia ada this layer ni kan. Kalaupun niat you betul, tapi kalau perangai salah, or in the case dia orang baik, kemudian dia pun sikap baik, tapi satu benda dia tak boleh buat kerja. Dia hanya menjadi pasu bunga dekat situ. Tak payahlah kan. Jadi-
+
+
+
+[71:21] Nik Nazmi: Very expensive.
+
+
+
+[71:22] Rafizi Ramli: Very expensive pasu bunga kan. Jadi ini adalah expectation yang saya ingat dalam budaya politik kita masih lagi jauhlah. Kan? Jadi orang rasa kenapa kamu nak Itu yang orang kata dia rasa dia seorang aje betul. I mean is it wrong to put a higher standard? Because without that higher standard, actually then what's the point of changing government and bertanding masuk politik semua?
+
+
+
+[71:50] Nik Nazmi: Tak macam yalah saya pun selalu fikir eh kalau tak buat apa penat-penat kita ikut jalan Reformasi? Kan? Kalau tak awal-awal masuk UMNO kan dah dah naik pangkat laju. Mungkin I mean alhamdulillah saya bernasib baik kali pertama bertanding menang semua. Tetapi it was not obvious at that time. Kan? Orang cakap sekarang, waktu tu kita masuk tu Keadilan lima kerusi, lepas tu tinggal satu kerusi. Kan? Jadi makna kita kena reflect balik makna kita masuk ni sebab ada percaya pada nilai-nilailah.
+
+
+
+[72:17] Iqbal: Yap. Dari segi contohnya bila saya berbincang dengan kawan-kawan pasal parti-parti politik di Malaysia, mereka akan cakap-
+
+
+
+[72:26] Rafizi Ramli: Kita dah jauh daripada Merdeka ni tau Iqbal. Aku tengah tunggu bila kita nak masuk bendera.
+
+
+
+[72:31] Iqbal: I'll return to Merdeka, tapi contohnya bila kita fikir pasal parti politik tu apa, pada pandangan saya mungkin sesuatu parti politik tu dia dia kedepankan suatu visi apa Malaysia patut jadi. Dan biasanya kalau kita fikir dari segi apa tugas parti politik tu, dia akan cakap, "Ini visi kita. Kalau awak percaya dengan visi kita, maka undilah kita." Versus a lot of parti politik kat Malaysia, kita tak tahu dia percaya apa. Dia cakap, "Oh you suka apa? You suka apa? You suka apa? Oh kalau you suka benda ni, you undi untuk kita, kita akan buat benda ni." Dan satu-satunya parti yang rasa macam dia dia berasaskan dia punya dia punya visi tu adalah PAS. Kita tak nampak sangat parti-parti lain mungkin offer a sense of what Malaysia should be berdasarkan a core set principles. Do you think that's fair to say?
+
+
+
+[73:31] Nik Nazmi: PSM lah.
+
+
+
+[73:32] Rafizi Ramli: PSM. PSM is very clear.
+
+
+
+[73:36] Iqbal: Okey.
+
+
+
+[73:37] Rafizi Ramli: No, is a is a fair comment lah sebenarnya kan. Dan cuma saya tak rasa yang apa nama ni hanya kerana ada parti macam PAS atau PSM ada clarity, that does not make it better than orang lain. Kerana clarity itu pun mestilah tengok clear ikut mana, ya tak? Ha jadi memang kalau macam PAS memang mudahlah dia bagi clarity kerana dia menunggang agama. Sama juga kalau macam PSM, mudahlah dia bagi clarity kerana sosialisme cara dia orang itu will not work at all, dia tidak akan menyelesaikan and that makes them so far unelectable sampai sekaranglah. Jadi masalah kepada parti-parti lain, kita ada kumpulan yang berbeza-beza bukan sahaja dari segi kaum, tapi juga sosioekonomi, dari segi background dan sebagainya. Jadi Malaysia ni sangat majmuk. Bila sangat majmuk, kita nak kena jadi seinklusif yang yang yang yang apa ni sebaik mungkin kan. Dan mungkin bagi pengundi dia tak nampak sangatlah dan itu kelemahan saya ingat PKR sebelum inilah. Kita tak boleh menyampaikan visi itu dengan baik sepertimana kita faham. I I can tell straight away why saya dalam PKR dan visi bahagian mana yang dalam PKR yang saya subscribe, kenapa saya tak masuk UMNO dan sebagainya. It's not about semata-mata Melayu, Cina, PAS, apa. Sebenarnya dari segi the confidence and jati diri. In terms of the worldview that I hold kan. Saya tak percaya yang Malaysia saya tak nak jadi orang Malaysia ataupun Malaysia yang yang yang sejahtera dengan menekan orang lain. Saya tak mahu ambil hak orang lain. Saya tak nak sebenarnya jadi hebat dengan berlaku tidak adil dan takut-takut dengan bayang-bayang sendiri tau. I want to be a confident person. I want to be able to to to strike on my own. I want to be able to apa nama ni put forth an argument dengan confident sama ada betul atau salah dan saya mahu dihormati for that. And I have my pride and I want to have that pride kan. Jadi Malaysia yang saya ingat masa dulu-dulu yang boleh diterjemahkan ke arah masyarakat macam itu ialah melalui PKR. Kerana kemajmukannya, kerana hormatnya kepada perbezaan pandangan, kerana premium yang diberikan kepada intelektual, kerana kita tidak ambil jalan mudah yang mengambil emosi perkauman dan sebagainyalah. Whether or not PKR is still on that path, we all have to ask. But kalaulah contohnya kita konsisten memastikan bahawa itulah yang orang nampak PKR, meaning that I support this party because it makes me a a different kind of person yang can thrive on my own under Malaysian sun tanpa falling back on all these identity, on all this divide ni kan. Because if you are like that, campak kat mana pun, you'll be fine. Campak pergi Jepun pun okey.
+
+
+
+[77:06] Nik Nazmi: Dia macam 99 98 99 tu sebab dia ada kisah yang menimpa Datuk Seri Anwar Ibrahim. Tetapi orang lupa juga banyak yang sokong Reformasi tu not just atas individu Anwar Ibrahim. Tetapi orang tengok I mean ramai tu bukan tak sokong dia pun zaman di UMNO. Tetapi menyokong kerana merasakan apa yang terjadi kat dia, dia dizalimi dan sebagainya. Satu isu keadilan, ketidakadilan yang perlu diperjuangkan oleh semua misalnyalah. Jadi tapi problem kita sekarang apa? Kita dah tak ada apa yang nak tak nak bagi orang faham. Dulu kita ada cerita yang berlaku kepada Datuk Seri Anwar. Sekarang I mean pengundi yang mengundi sekarang, ini macam cerita saya apa dengan Tok Hussein saya tak tahu apa dia buat. So same ya, makna Reformasi ni dah jadi cerita lama. Kita dah menang, Keadilan dulu menang undi saluran 5, 4, orang muda. Sekarang kita tinggal saluran 1, 2. And that's scary. I think tu yang masalah kitalah. Macam mana nak bagi orang faham tentang perjuangan Keadilan. And I think macam DAP pun dia ada cabaran. Dia banyak around 2008 punya, 2013 punya kesedaran.
+
+
+
+[78:16] Iqbal: Ubah.
+
+
+
+[78:17] Nik Nazmi: Ha Ubah. So macam mana nak capture sekarang?
+
+
+
+[78:20] Rafizi Ramli: But but Iqbal I mean before before here, kepada rakyat Malaysia, pandangan saya kan the orang kata apa nama ni visi yang jelas sepertimana yang kita biasa di negara-negara lain kan. Kalau di Eropah contohnya visinya kanan lawan kiri. Ha kan? Kat Malaysia susah tau nak dapat satu parti yang electable sehingga boleh jadi kerajaan yang boleh bagi visi yang jelas kerana I mean the other this conundrum tau. Lagi jelas visi itu, lagi you exclude other people.
+
+
+
+[79:00] Iqbal: Ah okey.
+
+
+
+[79:02] Rafizi Ramli: So the challenge is always macam Sebab itu bagi sayalah eh kalau saya jadi konsultan kepada parti baru kan mana-mana, I think dia bukan lagi visi ke I mean clarity tu bukan lagi dalam perspektif ataupun acuan yang kita biasa tahu. Clarity itu mestilah dari segi essence. Which is which brings back to soal Merdeka semua ni. Sebab patriotism itu, dia bukannya sesuatu yang form. It's substantive tau, substance over form. Sama juga clarity sesuatu parti political party bagi satu masyarakat yang majmuk macam Malaysia, dia tak boleh form tau. Dia mesti the essence of it. Jadi Cina pun faham, India pun faham and they feel that they have a state, Sabah, Sarawak pun faham and yang yang Melayu majoriti pun faham. The moment kalau you berkira-kira macam yang sedia ada sekarang ni kalau yang parti perkauman yang yang berteraskan Melayu, sebab dia kira Melayu majoriti, aku ambil yang ini. Yang Cina dia kira, "Oh kita kalau kita dapat yang ini, kita boleh bargaining power, kita boleh in power." I think going forward kalau perkara itu berterusan, masalahlah tu Malaysia.
+
+
+
+[80:19] Iqbal: Sebenarnya bercakap sebagai seseorang yang ada kat situ pada 1998 kat rally Reformasi tu, saya ingat mak saya-
+
+
+
+[80:27] Rafizi Ramli: How old were you masa tu?
+
+
+
+[80:28] Iqbal: I was 5 years old. Saya ingat mak saya angkat saya, saya pun jerit-jerit Reformasi. Tapi the actual thing macam YB Nik cakap, sekarang kita tak ada a similar thing yang berlaku sekarang yang boleh Emotive events. Emotive story. Tapi untuk saya, saya rasa the closest thing ataupun the most recent thing yang berlaku yang mungkin beri saya kesedaran tu was the 1MDB saga and your role in awakening Malaysians to apa berlaku dalam kejadian tersebut. Sebab just the the idea yang seseorang Perdana Menteri boleh buat sedemikian and get away with it was utterly unacceptable to me on a visceral level. And I mean speaking of kemerdekaan, there's a possibility now that Datuk Seri Najib might be experiencing that. Does that undermine this idea of apa Malaysia sepatutnya jadi pada apa semua yang you baru bincang tadi?
+
+
+
+[81:28] Rafizi Ramli: Tak okey. Saya see I think possibility Datuk Seri Najib apa ni diangkat menjadi hero balik ataupun bebas dan sebagainya kan, apa pun perasaan kita, sebenarnya itu cycle yang pernah berlaku di negara-negara lain. Sebab masyarakat akan lupa. Betullah Tun Mahathir kata. Orang kita mudah lupa, which is true. Kalau di Filipina kan contohnya Philippines kan Marcos 1986 kan. Kita saya darjah tiga masa tu, tapi saya ingatlah TV semua kan.
+
+
+
+[82:05] Nik Nazmi: Kasut.
+
+
+
+[82:06] Rafizi Ramli: Kasut, Imelda semua kan. Dan kita yang dekat Malaysia pun masa itu boleh rasa emosi tau kesengsaraan dan perasaan orang Filipina masa tu kan. The joy of liberation, apa nama ni Marcos diterbangkan dengan helikopter daripada Malacañang Palace kan. I never dalam 10-15 tahun sebelum ini terfikir that Marcos will come back. Marcos did come back. Dan you tengok di mana-mana negara lain, is going to happen over and over again. Jadi masyarakatlah soal you know jati diri kita, Merdeka, what we feel sebagai satu masyarakat, dia tak pernah statik. Dan itu juga realization yang saya ingat kami yang yang budak-budak mentah yang kena scam masuk Reformasi dulu ni kan, I think as we grow older, kita faham sebenarnya is a continuous cycle. There's no such thing. Sebab I don't know Nik lah, you know. Saya dulu kan tak minat politik dan dia jadi di diheret oleh kawan-kawan eh. So I look at everything almost transactionally tau. Okey, I can take two years, I can focus, I will help and menang. Oh good, menang, everything will be fine. Dia tak adalah macam tu kan. Jadi dia sama tau. The test is not on Najib or PKR or Anwar, the test is on our society. Jadi dan kita kalau contohnya kita kena terima hakikatlah yang generasi muda, generasi yang yang yang yang apa ni tak melalui that emotive experience itu, dia tak faham perasaan kita what it felt masa itu ke arah 1MDB, dia tak faham semua tu kan. Jadi dia hanya tengok apa yang dia nak tengoklah. Kalau dia rasa Najib hebat, dia rasa Najib hebatlah. So is the duty subsequently of the people to continuously make sure that dalam society kita, there's enough sanity tau that that we should not forget and we should not allow it to happen again. Kalau kita lalai, maka it will happen again lah.
+
+
+
+[84:26] Iqbal: Tapi YB Nik, kalau katakan kita lalai sebagai satu masyarakat, adakah itu sebab sesuatu sebab untuk putus asa ataupun adakah macam YB Rafizi cakap, you just have to keep going on?
+
+
+
+[84:37] Nik Nazmi: Ya, I mean I saya faham. I mean nak rasa kecewa, nak rasa putus asa tu perasaan yang mudahlah. Itu kita punya apa tu instinctive reaction. Tapi tulah makna benda ni macam dulu kita pejuang Merdeka. Mungkin dulu kita ingat bila dah Merdeka, tak ada masalah. Terus jadi kaya. Terus jadi kaya. In fact, kita punya kompeni-kompeni besar, British terus pegang sampai tahun 70-an, 80-an awal 80-an kan. Jadi apa tu saya rasa maksud yang paling penting yalah itu mungkin zaman muda tu kita rasa benda tu oh kita capai okey kita menang kuasa, benda segala-galanya akan mudah kan. Tetapi makna kita juga kena mendidik masyarakat bahawa ia satu proses. Dan tanpa kita berwaspada, tanpa kita terapkan nilai-nilai itu kepada generasi akan datang, maka benda tu akan datang balik menghantui kitalah. Jadi saya faham orang nak putus asa, tetapi it's life. I mean itu kehidupan bahawa kita kena kena proses tu berterusan dan kita pun akan sampai tarikh luput kita. But then generasi seterusnya kena teruskanlah.
+
+
+
+[85:45] Rafizi Ramli: I mean on that kan, I mean Malaysia is satu Malaysialah kan. Kita kita Tapi cuba kalau kita tengok psyche di Jerman, Germany kan. Selepas trauma Perang Dunia Kedua kan, generations after generations of Germans, dia memang sangat takut dengan unsur-unsur perkauman, dengan apa ni anti-imigran. So they become a very civilized society yang yang sangat toleran kepada semua tau. Dan bukan sahaja psyche orang German tau, dia juga segala sistem negara itu, everything itu dibuat untuk mengelakkan never again. But look what happened in the last 10-15 years. Semua parti-parti mainstream sekarang dalam ancaman. Kerana akhirnya, masyarakat sekarang lurch to the right. Kita ada far-right yang memang perkauman, yang memang tak toleran, yang yang berbahaya. Kita semua tahu berbahaya dan saya ada kawan-kawan yang yang yang Germans yang melalui fasa itu, what had happened, you know, kenapa jadi begini? Tapi I think it's just peredaran zaman dan peredaran masyarakatlah. Dan itu adalah ujian dan you may you you may be overwhelmed by the tide. Ini ingatan kepada saya, Nik, dan yang lain-lain kan. Dia tidak semestinyalah kan kita dalam politik bahawa kalau idea kita itu progresif dan sebagainya, kita mungkin tak menang sampai bila-bila. But someone has got to do it because it's a cycle and it's a process dan kita tak boleh biarkan perkara itu terputus. Ha kan. So so that's how I see things lah. And that's how saya agak terbukalah apa yang jadi kat Malaysia selepas ini. Mungkin Datuk Seri Najib ataupun Datin Seri Rosmah jadi PM one day. I am actually prepared for it kan. So I do what I can sebelum my expiry date kan. But so long as masyarakat ada alternatif. Yang saya lebih bimbang yang kalau saya agak vokal kalau mengenai kerajaan sekarang ni, ialah saya bimbang rakyat rasa never again that I will take risk with reform or change sebab I got bitten. Yang itu yang saya bimbang. Because once that happens, you buka the gate and it takes so long sebelum the next generation akan berani ambil risiko untuk berubah sekali lagi.
+
+
+
+[88:33] Nik Nazmi: Macam di Jepunlah.
+
+
+
+[88:34] Rafizi Ramli: Ha macam di Jepun.
+
+
+
+[88:35] Iqbal: So adakah itu cabaran utama? So macam tadi YB Nik sebut lepas Merdeka, you know there was a sense yang oh semua masalah kita akan selesai sekarang. Tapi sebenarnya British masih pegang syarikat-syarikat Malaysia sampai tahun 70-an dekad 70-an. Sekarang ni kita dah merdekakan diri daripada that one-party system rule that kita berada bawah the first 60 tahun of Malaysia akibat sumbangan-sumbangan daripada orang-orang macam YB-YB. Tapi now that kita ada kerajaan yang boleh berubah, apakah cabaran utama yang seterusnya pada pandangan YB?
+
+
+
+[89:15] Nik Nazmi: Cabaran pertama saya rasa dia jangan jadi dia dia kena kekalkan identiti dia. Because kalau back back to makna dia tak dapat bezakan, apa nama ni alang-alang baik beli yang ori lah. Kan? Kenapa take the cheap imitation? Jadi bagi saya, kita ada unique selling proposition kita sebagai PKR. Ya, kita kerajaan perpaduan, kita faham. Tetapi itulah makna mana redline kita? Mana garis merah kita? Mana sempadan kita? Tapi kalau orang tengok eh dan alasan kita akhirnya asyik-asyik, "Oh kita tak ada numbers," dan sebagainya, then orang akan kata kenapa kita pegang kuasa? Kan? Jadi bagi saya itu penting supaya orang merasakan ada identiti kita. Makna dia nak beli barang kita tu ada sebab dia. Dia tak boleh dah dah kelabu, jadi sama because kalau tu kita akan kalah. Because kita tak ada kekuatan organisasi, kita tak ada kekuatan akar umbi, kita tak ada kekuatan yang macam ada pada misalnya UMNO, PAS atau DAP bagi sayalah. Tetapi kita PKR ni very gerila. Kan? Dia macam perang gerila masuk tak ramai orang semua, tapi kita berjaya.
+
+
+
+[90:24] Rafizi Ramli: Tak, pakai dron aje. Dia pakai dron aje.
+
+
+
+[90:28] Iqbal: I guess tapi YB Nik dari luar konteks politik, do you think apakah cabaran-cabaran utama in the same way yang lepas kita merdeka dari British tapi syarikat-syarikat kita masih dipegang oleh British, ada tak a parallel?
+
+
+
+[90:40] Nik Nazmi: Cabaran kita I think is sejauh mana kita betul-betul dapat tukar sistem dalam kerajaanlah. Okey. So I think yang tu expectation, harapan rakyat ni. Sejauh mana kita dapat buat satu sistem yang mengelak daripada politik wang, sejauh mana kita memastikan ada beberapa perkara dari segi undang-undang yang menjaga demokrasi dan sebagainya dapat dipelihara. Okey. Jadi itu yang orang nak tengok. Kan? Jadi tak nak jawapan yang copy paste tu. Yang tu yang yang besarlah.
+
+
+
+[91:11] Rafizi Ramli: I I I feel like kan, you know cabaran dan juga ancaman utamalah kepada Malaysia lah in the next 10-15 years kan, sebenarnya the lack of social mobility.
+
+
+
+[91:25] Iqbal: Maksudnya? So ini satu cabaran ekonomi?
+
+
+
+[91:29] Rafizi Ramli: I mean everything, keseluruhan. Okey. Kita jangan ambil pandangan kita yang orang bandar ataupun orang yang berpengaruh yang ada pentadbiran ni sebab kita mungkin hidup kita makan, minum ni tak ada masalah sebenarnya kan, bayar bil semua ni. It's just kalau Maslow hierarchy tu kan, kita ni dah kat atas sikitlah kan. Majoriti of rakyat ni sebenarnya dia di bawah. Maksudnya dia nakkan rumah yang yang lebih baik dan dia nak ada hidup middle class kan. Jadi it's all about social mobility kan. Tahun 70-an, 80-an, and especially 90-an yang macam Nik sebut tadi tu, kenapa ada that sense of positive you know I mean trust and pride in Malaysia, Merdeka, everything positive, Malaysia Boleh ni, kerana social mobility was good. Maksudnya kalau you susah, you belajar, you keluar, and then kerja bank lepas tu, lepas tu senanglah kan kan ha.
+
+
+
+[92:37] Nik Nazmi: Sebab tu masalah kaum pun dia reda sikit. Walaupun dah lepas DEB semua, tapi semua orang boleh ada-
+
+
+
+[92:42] Rafizi Ramli: Sebab tu dia kata semua ada ada that upliftment tau.
+
+
+
+[92:44] Nik Nazmi: Kek membesar.
+
+
+
+[92:45] Rafizi Ramli: Ha kek membesar kan. Jadi sekarang ini, masalah utama kita ialah social mobility tu adalah perlahan. Satu salah satu sebabnya kerana kita starting at a higher point dah sekarang ni, middle class kan. Satu lagi sebabnya ialah kerana dari segi competitiveness, ekonomi kita ni sebenarnya banyak masalah struktur. Kan? Dari segi bentuk ekonominya, dari segi syarikatnya, dari segi kemampuan mencipta nilai ekonomi kita kan. Kenapa ada masalah struktur? Dia kembali kepada yang Nik sebut tadi, political will, sistem dari segi regulation, budaya politik, rasuah, dan sebagainya. Jadi sebenarnya, walaupun sosioekonomi social mobility itu ialah sesuatu yang semua orang faham. Kalau dia rasa macam, "Aku kerja tiap-tiap hari ni macam orang gila ni, sama aje hidup aku." Then dia tak sukalah, dia dia tak puas hati kan. But dia as you peel layer after layer after layer, it goes back to government sebenarnya kan. Now, kenapa I say is the biggest threat ialah itu telah berlaku di negara-negara lain. Dia belum sampai kat Malaysia lagi. Kenapa berlaku fenomena Trump di US? Kenapa berlaku kucar-kacir, ketidakstabilan politik ataupun kalau di UK, Nigel Farage. Kalau di Eropah, why the lurch to the far-right is because of the lack of social mobility.
+
+
+
+[94:21] Iqbal: Orang dah frustrated.
+
+
+
+[94:23] Rafizi Ramli: Ha bila orang frustrated, belajar macam mana pun macam itu juga, they then they start pointing fingers lah. Dia akan jadi anti-elit. Yang kaya tu sebenarnya mesti jahat ini. Ha dia menekan kita, jadilah PSM. Contohnya kan.
+
+
+
+[94:38] Nik Nazmi: Ataupun pendatang tu jahat.
+
+
+
+[94:39] Rafizi Ramli: Ataupun pendatang jahat, orang Cina jahat kan. So bila keadaan ini berlaku, maka hanya parti-parti politik yang populis sahaja yang akan mendapat tempat. Yang menjadi-
+
+
+
+[94:51] Iqbal: It tends to be yang parti-parti populis adalah yang menggunakan yang memperkudakan sentimen perkauman, sentimen agama. Kenapa kurang parti politik yang memperkudakan sentimen kelas?
+
+
+
+[95:05] Nik Nazmi: Dia tapi dia sebenarnya kalau kita tengok eh, kalau kalau yalah okey kalau kita pergi luar, contohnya macam Trump ataupun macam Reform semua, dia memperkudakan kelas pertengahan orang putih. Kan? Makna dia ride on that. Dan bila tengok orang lain yang quote unquote liberal ni dok cakap, tapi at the end of the day, struktur ekonomi tak berubah. Kan? Dan dia nampak orang kulit lain kulit warna lain semua datang. Tapi sama dekat sini. Kan? Jadi kalau kita tengok orang akan mainkan maksudnya sentimen makna dia jadi kelas tu dia replace by kaumlah. Tetapi dia mempermainkan orang yang di bawah.
+
+
+
+[95:44] Rafizi Ramli: Di di Malaysia dia lebih unik. Di Malaysia dia lebih unik kerana kelas dan kaum itu dia agak sama.
+
+
+
+[95:52] Iqbal: Okey.
+
+
+
+[95:53] Rafizi Ramli: Ha contohnya kan, kepada orang Melayu biasa kan, bila cerita pasal orang kaya ni, sebahagian besar dia ingat orang kaya ni orang bukan Melayulah. So is actually quite interchangeable. So so in in Malaysia is even more dangerous kerana the identification ataupun the disparity between different races itu, sebab itu dia boleh jadi emotif. Sebenarnya saya tak rasa sangatlah soal politik perkauman di Malaysia ni pasal politik. Dia pasal economic insecurity. And that economic insecurity comes from the lack of social mobility. Kenapa orang macam saya dengan Nik have that confidence and tak ada ekonomi insecurity tak tak ada I mean racism semua ni, kita tak ada insecurity because we we have achieved our social mobility tau.
+
+
+
+[96:49] Iqbal: Okey.
+
+
+
+[96:50] Rafizi Ramli: Ha jadi unless kerajaan berjaya memastikan the economic reforms actually betul-betul berjalan. Sebab itu walaupun orang maki saya kalau pasal jadi Menteri Ekonomi dulu apa semua, sebab bagi saya, you boleh aje buat kosmetik ni. You nak bagi duit ke apa, it's not going to delay the time bomb. The time bomb which is to fix our social mobility ialah structural reform for the economy. Dan itu banyak bitter pills. Bitter pills tu kita kena telan. Tapi itulah juga cabaran kita dalam kerajaanlah. Those bitter pills can only come with political will, dengan regulatory, dan banyak benda yang lainlah. Good communication dan sebagainya kan. Jadi ini akan terus jadi cabaranlah. Dan katakanlah ada kerajaan baru, dia hanya berminat untuk short term saja and they kick the can down the road yet again kan. Jadi akhirnya Malaysia kalau tak berhati-hati, will spiral sama macam kita tengok di negara-negara lainlah. Dia jadi tax and spend, tax and spend. Siapa yang bernasib malang jadi kerajaan masa kita default on hutang tu, ha gulunglah kau.
+
+
+
+[98:11] Nik Nazmi: Dan dia the insecurity tu in fact among kelas pekerja Cina pun, anak-anak muda dia terasa juga. Dan itulah makna then dia akan terasa nak salahkan oh dasar pro-Melayu contohnya atau pro-Bumiputera. Dan tapi on the flip side yang sana dia akan menyalahkan apa nama ni peniaga atau tauke-tauke Cinalah contohnya yang control ekonomi. Jadi tapi yang duk bermain ni kat ataslah, the politician dan ni. Yang suffer ialah di bawah.
+
+
+
+[98:39] Rafizi Ramli: There's there's this saying tau kan. I mean this is actually berlaku di mana-manalah. You know what political elites do is they make sure that you point fingers to each other, to the left, to the right, to the front, to the back, so that you don't point fingers to the top. Because at the end of the day sebenarnya, it's all about the economy unfortunately lah. Dia sebab agihan, the disparity semua kan. Jadi selagi orang kitalah you know dalam semangat Merdeka semua ni kan, selagi orang kita orang Melayu, Cina, India ni sebenarnya tak faham that actually tukarlah kerajaan macam mana pun, hebat macam mana pun, yang tauke-tauke kaya Melayu, Cina, India tu tetap kaya. Tiap-tiap tahun dia makin kaya tau. Hari ini parti ni menang, dia juga yang duduk kat meja tu. Esok parti lain menang, eh dia juga ada kat situ tau.
+
+
+
+[99:35] Iqbal: Yang agak malang sebab contohnya dalam konteks the Urban Renewal Act just to use an example, ada criticism yang sah berkenaan akta tu. Tapi bila diframekan dalam konteks perkauman, terus sesuatu perbincangan yang boleh diadakan secara rasional dan boleh diadakan secara berhemah terus tak boleh beradu sebab kita dah framekan perbincangan tu dalam konteks perkauman.
+
+
+
+[100:05] Rafizi Ramli: Saya saya I don't know lah Nik. Saya tak tahu sama ada PAS ni bila dia frame URA ataupun PSB ni daripada konteks ni ni DAP nak halau Melayu daripada bandar ni kan, I don't know whether they really believe in it or they're just being very smart untuk membakar api perkauman.
+
+
+
+[100:26] Nik Nazmi: Untuk untuk penceritaan dia. Sebab benda tu short cut.
+
+
+
+[100:30] Rafizi Ramli: Ha shortcut ha. Jadi I I will comment much longer nanti pasal Urban Redevelopment Act ni later lah kan. Tapi bila dia buat begitu tu, dia mudah untuk dialah, tapi berbahaya untuk dan yang jadi mangsa. Sebenarnya kalau tidak dibuat berhati-hati, redevelopment ni or gentrification kalau dia berlaku, yang jadi mangsa ni semua bukannya Melayu. Kawasan saya yang duduk dekat flat-flat kos rendah ni sama banyak aje Melayu, Cina, India tau. Semua akan jadi mangsa kalau tak berhati-hati. Tapi itulah that's what I meant by populism. So saya dah mula nampak sebenarnya jalan singkat yang diambil contohnya PAS, contohnya PN, that dia memang tak tak nak tau bincang secara ilmiah ataupun to stick to the facts and basically practical arguments. Sebab benda tu payah. Jadi dia lurch kepada populism, cakap benda yang memang akan terbakar terus. Ha cakaplah.
+
+
+
+[101:47] Iqbal: Mungkin kita boleh bawa perbincangan ni to a close kerana-
+
+
+
+[101:51] Rafizi Ramli: Bila kita nak cakap pasal Merdeka?
+
+
+
+[101:53] Iqbal: By the time-
+
+
+
+[101:54] Rafizi Ramli: Sudirman for that matter.
+
+
+
+[101:56] Iqbal: By the time kita habis perbincangan ni dah Merdeka dah.
+
+
+
+[101:58] Rafizi Ramli: Actually now that you mentioned it kan, tadi you tanya pasal pasal yalah our growing up pasal Merdeka semua kan. Actually the constant theme of Merdeka growing up ni Sudirman lah.
+
+
+
+[102:09] Nik Nazmi: Hmm.
+
+
+
+[102:10] Rafizi Ramli: Ha dengan baju dia.
+
+
+
+[102:13] Nik Nazmi: Sekarang bahaya kalau buat apa buat baju guna bendera.
+
+
+
+[102:17] Rafizi Ramli: Jadi Sudirman kena tarik balik.
+
+
+
+[102:19] Iqbal: So I guess mungkin kita boleh mula close up, but then dari segi personal reflections, was there a moment di mana kedua-dua YB Nik, YB Rafizi, you rasa there was this was the most merdeka point you've reached in your career? Was it waktu 2018 kita berjaya jatuhkan kerajaan BN ataupun was it bila Anwar became PMX? Was there a specific moment in time that made you go, kita mungkin rasa apa datuk-datuk, ibu bapa kita rasa pada tahun 1957?
+
+
+
+[102:58] Nik Nazmi: Well well, I think 2018 tukar kerajaan tu adalah rasa the sense yang because sebelum tu nak bayang benda tu susah kan. Jadi apa nama ni ada perasaan tu. Dan satu lagi saya yalah bila Datuk Seri Najib disabitkan bersalah. Because tak semua negara dapat satu kita lalu that perubahan kerajaan dengan aman damai dan kedua dapat dapat membawa mantan Perdana Menteri mereka ke penjara. Saya rasa itu satu makna certainly kita boleh tengok kat Singapura kata-
+
+
+
+[103:38] Rafizi Ramli: Habislah kau, orang UMNO maki kau lepas ni.
+
+
+
+[103:41] Iqbal: Maki podcast ni, maki dua-dua YB.
+
+
+
+[103:43] Nik Nazmi: So that was my point lah I rasa kan. Yalah after that of course benda tu ada simpang-siur dia. Tapi I think ada sense of kita mencapai sesuatulah.
+
+
+
+[103:54] Iqbal: Okey.
+
+
+
+[103:55] Rafizi Ramli: Saya pelik sikit tau. Saya rasa the most liberating moment was actually 2008.
+
+
+
+[104:04] Iqbal: Hmm.
+
+
+
+[104:05] Rafizi Ramli: Sebabnya sebab I was on the outside. Saya korporat, kerja korporat. Jadi saya tak terlibat dalam kempen 2008 semua tu. Saya dengan keluarga dekat Kemaman. Habis mengundi tu, malam semua tengok TV kan. Then kalau you di luar masa tu, you tak rasa denyut kempen tu, memang it was a big shock lah 2008 kan. Dan jadi bila 2008 berlaku tu, saya memang betul-betul rasa finally everything was not futile after all. Then you know you know it cannot be turned back. And and it provide Jadi sebab itu lepas 2008 tu, walaupun saya tak berminat, I have my market, my career semua, lepas tu bila Datuk Seri Anwar duk duk kacau semua, sebab itu saya dengan bodohnya resign my job. Kan to do Memerdekakan saya daripada corporate slave kan. 2013, 18, or 2022 even, because saya ingat because I was actually in the thick of everything. Jadi kalau you basically you're part and parcel of the campaign strategy, you've been campaigning, you more or less know the result. Jadi it wasn't such a shock. Jadi habis saja keputusan itu, then you sibuk pula with the aftermath nak bentuk kerajaanlah itu. Jadi aku mandi pun tak sempat kan. And in the case of 2022, empat hari tak tidur tau. Sebab susah nak bentuk kerajaan kan. I remember at some point tu I just singgah dekat ofis and then aku just pengsan for about two hours kan. Jadi I never had that feel sepertimana 2008. 2008 was yang sampai subuh tahu tak tidur. It's like I was crying.
+
+
+
+[105:55] Iqbal: Was it excitement?
+
+
+
+[105:56] Nik Nazmi: Dah Selangor pun result keluar lambat.
+
+
+
+[105:58] Rafizi Ramli: And then you must And Selangor result keluar lambat kan. And you must remember Iqbal, 2008 happened selepas the utter destruction of 2004. Dan semua orang dah bungkus dah parti nyamuk semua ni, tak adalah, tak ada can lah kan. Jadi it suddenly you know you feel that the last 10 years was not in vain lah kan. Then itu membakar semangat semualah kan. Jadi I've never felt anything like that since.
+
+
+
+[106:28] Iqbal: Okey. So mengambil that sense, that emotional resonance yang YB Rafizi baru terangkan tadi, if you had to sum up Merdeka as an emotional vibe for orang-orang muda yang mungkin tak pernah melalui apa-apa yang kita pernah lalui the past 10, 20 years, apakah Merdeka kepada kedua-dua anda?
+
+
+
+[106:53] Rafizi Ramli: Simpanan dululah Nik, kau simpan.
+
+
+
+[106:56] Nik Nazmi: Simpanan disimpan eh? Apa Merdeka eh? Merdeka I think ultimately dia bebas tu satu bahagian, tetapi dia juga kita ada keupayaan untuk menentukan hala tuju kita. Okey and-
+
+
+
+[107:13] Iqbal: Rasa macam tu? Pressure tu?
+
+
+
+[107:15] Nik Nazmi: Pressure pressure and I think itu yang macam bagi yalah macam kadang-kadang boleh tengok orang muda in fact kan kita dah dapat Undi18 for better or for worse. But I think benda tu pun inevitable. Kita boleh persoal ke apa, inevitable. Tapi yang hairan tak kisahlah dia mengundi PAS tu satu hallah. Tapi kalau yang budak-budak ni langsung tak kisah dan tak ambil tahu because dulu kita nak dapat Undi18 tu susah. And bila kita tengok balik dulu orang zaman Merdeka tu bila dia nak the whole point is untuk kita tentukan hala tuju kita kan. So for me, itu satu benda bebas tapi juga bebas saja without dapat tentukan hala tuju kita takkan ada maknalah.
+
+
+
+[107:55] Iqbal: YB Rafizi?
+
+
+
+[107:57] Rafizi Ramli: Yalah I think Merdeka ni is precisely what it is lah, merdeka. Merdeka means yalah yang yang lain tu kan bangunan ke, all these forms semua ni bagi saya tak penting sangatlah. What I wish ialah semua orang ada jiwa merdekalah. And susah kita nak explain what it is jiwa merdeka ke apa. Tapi I hope whatever we were doing for the last three, four months actually itulah maknanya and I'm glad. Saya rasa kami I mean at least myself, Nik kan, you know by resigning and sticking to our gun, at least I think we prove to ourselves lah more than anything else that we still have it. We still have the fire in the belly that kita maksudnya if you have to walk away to decide your own destiny and to do what you think is right confidently and without apology. And I think that's that's that's what I wish for kepada semua orang di Malaysia inilah. Jangan be apologetic for whatever we are. Kalau Melayu, tak payahlah nak rasa kita ni lemah ke, lembik ke, ditindas ke, ataupun bodoh ke. Kalau Cina, tak payahlah nak rasa pendatanglah, kita ni mati ke. India ke apa, it's like you know have that confidence, have that conviction, do what we think is right. Kita tak semestinya betul, but kalau kita salah pun we will learn from it, but have the pride to chart your own cause in life lah. So kalau semua orang macam tu, I think Malaysia will prosper.
+
+
+
+[109:40] Iqbal: Great. Saya rasa itu satu point to nicely end on. Selamat Hari Merdeka.
+
+
+
+[109:48] Rafizi Ramli: Iqbal sangatlah bersopan hari ini.
+
+
+
+[109:50] Iqbal: Kenalah. Kenalah. Lepas habis kena kecam, dah taubat dah. Dah belajar dari kesilapan. Yes, yes. Saya merdekakan diri daripada apa komen-komen negatif lepas ni. Terima kasih kepada semua penonton-penonton Yang Berhenti Menteri kerana bersama kami untuk the past 1:40, 1 hour 40 minit dan selamat Hari Merdeka.
+
+
+
+[110:13] Rafizi Ramli: Hari ini aku rasa viewership rendahlah.
+
+
+
+[110:16] Iqbal: Janganlah bagi tahu.
+
+
+
+[110:18] Rafizi Ramli: Dah sebab orang bosanlah kalau tak bakar-bakar ni. Dia nak bakar aje, bakar lagi bakar lagi.
+
+
+
+[110:23] Nik Nazmi: Tu kena panggil orang lain.
+
+
+
+[110:25] Iqbal: It was weird because you had people the feedback asking for can you ask for more vision questions like long term nation building questions? Yes.
+
+
+
+[110:33] Rafizi Ramli: Oh ya ke? Oh okey okey okey. Oh ada ada juga.
+
+
+
+[110:34] Iqbal: So ada. Ada tapi tak ramai. Tu nerd-nerd lah yang tanya minta maaf semua so to the nerds, selamat menyambut Hari Merdeka.
+
+
+
+[110:41] Rafizi Ramli: Semoga selamat Hari Merdeka.
 
