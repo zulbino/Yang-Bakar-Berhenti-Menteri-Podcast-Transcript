@@ -9,201 +9,557 @@ duration: 1h 36m
 view_count: 50133
 hosts:
 - Rafizi Ramli
+guests:
 - Iqbal
 - Cili Sos
-guests: []
 topics:
-- Political ideology and reform
-- PKR party dynamics
-- Government cabinet performance
-- PADU database implementation
-- Subsidy targeting
-- Cyberbullying legislation
-- The role of the Ministry of Economy
-- Career path from engineering to politics
-summary: In this episode of 'Siapa Makan Cili', host Rafizi Ramli engages in an extensive
-  dialogue with the Sos Cili team regarding his political journey, experiences as
-  a Cabinet minister, and his views on reform in Malaysia. The conversation covers
-  his early aspirations, the internal dynamics of PKR, his stance on the 'end does
-  not justify the means' philosophy, his progress in managing ministerial portfolios
-  like the Ministry of Economy, and his candid assessment of current government challenges,
-  including the implementation of the PADU database and the pace of policy reforms.
+- Rafizi Ramli's education and scholarship background
+- Farhaj and his alleged influence over Anwar Ibrahim
+- PKR internal factionalism ('Black Shirt Gang' vs Azmin faction)
+- Kajang Move and 'ends justify the means' debate
+- Formation of the unity government with UMNO
+- MCMC Act Section 233 'offensive and annoying' provision and cyberbullying law
+- Cabinet ministers' performance evaluation
+- Pace of reform and whether UMNO is a scapegoat
+- PADU centralized database initiative and subsidy retargeting
+- Cyber troopers, online misogyny and political trolling
+- Separation of Attorney General and Public Prosecutor roles
+- Rafizi Ramli's political ambitions and views on power
+summary: A crossover episode between "Berhenti Menteri" and the "Siapa Makan Cili"
+  podcast, where hosts Iqbal and Cili Sos interview Rafizi Ramli. The wide-ranging
+  conversation covers his schooling and scholarship history (Exxon, Petronas), his
+  early PKR involvement, the rise and influence of Farhaj within Anwar Ibrahim's inner
+  circle and the so-called "Black Shirt Gang" faction, the Kajang Move and the "ends
+  justify the means" debate, the formation of the unity government with UMNO, the
+  controversial MCMC Act Section 233 "offensive and annoying" provision and cyberbullying
+  laws, his candid grading of fellow cabinet ministers' performance, whether UMNO
+  is a scapegoat for slow reforms, the PADU centralized data initiative and subsidy
+  retargeting politics, cyber troopers and online toxicity, and his own ambivalence
+  about ambitions of becoming Prime Minister.
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
 # Interview (Bahasa Melayu)
 
-**Sos Cili:** Assalamualaikum dan selamat datang ke episod terbaharu "Berhenti Menteri" bersama hos anda daripada Sos Cili, Iqbal dan Cili Sos. Ciao! Ini adalah episod istimewa "Siapa Makan Cili" kerana kami di sini bersama seorang bekas menteri.
+**Host:** Assalamualaikum dan selamat datang ke episod terbaru "Berhenti Menteri", bersama kami host-host Siapa Makan Cili, Iqbal dan Cili Sos. Ciao!
 
-**Rafizi Ramli:** Saya tidak makan cili.
+**Host:** Dan ini episod khas untuk Siapa Makan Cili kerana ini episod bersama satu lagi podcast show, "Berhenti Menteri." Dan kita ada tetamu khas iaitu...
 
-**Sos Cili:** Betul ke? Adakah ia alahan?
+**Rafizi Ramli:** Rafizi Ramli! Saya tak makan cili.
 
-**Rafizi Ramli:** Bukan, ia tidak pedas. Orang Terengganu tidak makan cili pedas. Memang betul. Anda makan *nasi dagang* dengan *sambal* ke? Tidak, tiada *nasi dagang* yang pedas. *Nasi dagang* itu manis.
+**Host:** Betul ke? Sebab alahan, atau sebab memang tak pedas?
 
-**Sos Cili:** Mungkin saya keliru dengan makanan Kelantan. Apa-apa pun, kami terjumpa satu gambar yang kami rasa agak sesuai. Ia daripada podcast lain, iaitu podcast Victor Tan. Kami dengar dia ada di sini minggu lepas, jadi terima kasih, Victor Tan, untuk gambar ini.
+**Rafizi Ramli:** Sebab tak pedas. Orang Terengganu tak makan pedas.
 
-**Rafizi Ramli:** Itu bukan gambar yang cantik langsung. Mungkin kalau saya kacak, ia akan jadi cantik. Dia berikan gambaran penuh syaitan. Dia panggil saya separuh syaitan.
+**Host:** Betul ke orang Terengganu tak makan pedas?
 
-**Sos Cili:** Separuh sahaja?
+**Rafizi Ramli:** Betul. Nasi dagang tak ada yang pedas — nasi dagang tu manis.
 
-**Rafizi Ramli:** Ya, separuh. Belum masak sepenuhnya lagi.
+**Host:** Oh yeah? Mungkin saya keliru dengan makanan Kelantan.
 
-**Sos Cili:** Kami ada peminat yang bertanya tentang YB, tetapi sebelum itu, kami ada sedikit pemecah ais. Dalam episod kami sebelum ini, kami menemu bual YB Nik Nazmi, dan beliau berkongsi cerita tentang anda yang telah kami bincangkan selama seminggu.
+**Rafizi Ramli:** Tak — mungkin orang yang pergi Terengganu tu keliru, ingatkan itu makanan Terengganu, sebab naturally orang Terengganu tak makan pedas.
 
-**Rafizi Ramli:** Korang ni memang elit sangat. Teruskan, mainkanlah.
+**Host:** Okey, okey. Jadi, kita jumpa gambar ni yang kita rasa sesuai — tapi ini diambil daripada podcast orang lain, Victor Tan punya. Kita dengar dia datang sini minggu lepas. Jadi terima kasih, Victor Tan, untuk gambar cantik ni.
 
-**Sos Cili (Audio dimainkan):** *“Apabila anda mula masuk, seperti pelajar lain, adakah semua orang mahu menjadi ahli politik? Ia adalah kem latihan peruntukan. Saya rasa semasa Tingkatan 3, dia menulis kisah Perdana Menteri.”*
+**Rafizi Ramli:** Itu tak cantik langsung — mungkin saya separuh cantik.
 
-**Rafizi Ramli:** Saya boleh saman dia di mahkamah sebab itu! Tidak, ada latar belakang di sebalik cerita itu. Kami pergi ke peringkat akhir kejohanan bahas, dan tajuk untuk tahun itu ialah "kestabilan politik lawan kestabilan ekonomi." Kami berhujah untuk kestabilan ekonomi. Eh, nanti orang marah pula kalau saya cakap bahasa Inggeris, saya kena cakap BM. *Stability ekonomi* lawan *stability politik*. Jurulatih bahas saya ada cara untuk menyakat kerana kami menentang pasukan yang menyokong kestabilan politik. Jadi, dia putuskan saya perlu jadi PM. Saya baru Tingkatan 3! Dia seorang penerbit yang hebat, semuanya didokumentasikan.
+**Host:** Dia bagi gambar penuh malaikat dan syaitan. Dia panggil YB syaitan.
 
-**Sos Cili:** Jadi, itu untuk pertandingan, bukan aspirasi anda sendiri?
+**Rafizi Ramli:** Separuh syaitan.
 
-**Rafizi Ramli:** Sebenarnya, sepanjang hidup saya, semasa di sekolah, saya mahu jadi cikgu.
+**Host:** Separuh je.
 
-**Sos Cili:** Mengajar subjek apa?
+**Rafizi Ramli:** Tetap ada separuh syaitan tu. Belum masak lagi sepenuhnya.
 
-**Rafizi Ramli:** Tidak kisah, saya cuma mahu mengajar. Itulah sebabnya orang kata saya suka *membebel*. Tetapi sebenarnya, saya sangat bagus dalam fizik. Sebab itu saya ambil ijazah dalam kejuruteraan elektrik. Walaupun, pada mulanya saya mahu jadi ahli sejarah. Saya bagus dalam fizik, tetapi saya suka membaca sejarah. Masalahnya, tiada siapa yang mahu beri biasiswa kepada ahli sejarah. Zaman saya, sistem memaksa anda masuk ke aliran sains tulen jika mahukan biasiswa. Anda tidak boleh ambil subjek sastera pun. Jika anda pelajar sains, anda dianggap "budak bijak." Jadi, saya ambil kejuruteraan elektronik kerana ia banyak melibatkan matematik.
+**Host:** Jadi, kita ada fanbase tanya pasal YB — tapi sebelum tu kita ada icebreaker sikit. Dalam episod Siapa Makan Cili sebelum ni, kita ada interview YB Nik Nazmi, dan ketika itu Nik Nazmi ada kongsi satu cerita tentang YB.
 
-**Sos Cili:** Adakah kerana bidang itu kekurangan orang?
+**Host:** Ya, itu yang kita nak tunjuk kepada YB. Kita dah cakap pasal ni seminggu — tapi sikit je, satu icebreaker sahaja.
 
-**Rafizi Ramli:** Tidak juga. Bunyinya agak bodoh, tetapi pada umur 17 tahun, saya dapat dua biasiswa sebelum saya menduduki SPM lagi. Exxon ada biasiswa pada tahun 90-an; mereka sangat *kiasu* (berdaya saing/takut rugi), jadi mereka mahu sambar pelajar terbaik lebih awal. Mereka pergi ke sekolah tertentu untuk memantau pelajar. Saya adalah salah seorang daripada hanya empat orang di negara ini yang mendapatnya. Mereka layan kami macam raja, bawa kami jumpa pengurusan "Mat Salleh" di Shangri-La. Saya jumpa ketua geologi, dan dia beritahu saya tahun pertama hanya menghafal 100 jenis batu. Selepas itu, saya kata, "Saya tak akan jadi ahli geologi, saya akan jadi PM." Itu bukan dalam perancangan masa itu! Petronas adalah yang kedua, juga *kiasu*, memberi biasiswa sebelum keputusan SPM keluar. Jadi, saya tolak tawaran Exxon.
+**Rafizi Ramli:** Okey, korang elitis betul lah. [klip dimainkan]
 
-**Sos Cili:** Kami banyak menyebut nama anda dalam temu bual kami dengan Nik Nazmi.
+**Host:** Oh, mana nak tekan play? Dah rosak pun.
 
-**Rafizi Ramli:** Yeke? Patutlah saya rasa sakit.
+**Host:** [klip Nik Nazmi] Jadi, masa YB baru masuk — macam pelajar lain, semua nak jadi ahli politik ke?
 
-**Sos Cili:** Kami tanya dia siapa "Farhaj", memandangkan kenyataan anda baru-baru ini tentang syarikat perlombongan Sabah. Kami mahu faham siapa dia dan hubungannya dengan Perdana Menteri Anwar Ibrahim. Nik Nazmi tidak mahu menjawab.
+**Rafizi Ramli:** Tak, itu untuk debate camp lah.
 
-**Rafizi Ramli:** Sama ada Nik tidak mahu menjawab, atau dia berkelakuan pelik. Kebanyakan kami dalam PKR tahu sedikit sebanyak. Saya rasa dia lahir di Kuala Kangsar. Dia lulusan Universiti Portsmouth dan terlibat dalam Kelab Anwar Ibrahim ketika Anwar dibebaskan dari penjara pada 2004. Saya tidak berada dalam kelab itu kerana saya dari generasi berbeza—saya sertai PKR pada '99. Apabila Anwar dibebaskan pada 2004, saya pada dasarnya mengucapkan selamat tinggal kerana saya mahu meneruskan hidup. Kebanyakan orang yang menyertai PKR pada peringkat awal adalah golongan profesional yang cuba mengimbangi kerjaya dan aktivisme. Saya kembali ke parti sekitar 2009. Ketika itu, Farhaj sudah berada dalam sayap pemuda.
+**Host:** [klip diteruskan] Rafizi, saya rasa masa Tingkatan Tiga, dia tulis skrip tentang menjadi Perdana Menteri...
 
-**Sos Cili:** Adakah itu sekitar masa Langkah Kajang?
+**Rafizi Ramli:** Saya boleh saman dia di mahkamah pasal tu! Tak, ada latar belakang untuk perkara itu. Sebab kami masuk final debating championship. Jadi topik untuk tahun itu adalah political stability versus economic stability — jadi kami untuk stability ekonomi. Eh, nanti orang marah kalau saya cakap Inggeris, saya kena cakap BM — stability ekonomi lawan stability politik, jadi kami untuk stability ekonomi. Jadi debating coach saya, saya rasa, nak berjenaka sebab kami lawan pasukan yang menyokong political stability — maksudnya, semua ahli politik, kan? Jadi dia decide, "you kena jadi PM." Saya baru Tingkatan 3, dan saya kena jadi PM. Jadi, jadilah satu production besar, semuanya documented.
 
-**Rafizi Ramli:** Tidak, Langkah Kajang tahun 2014. Dari 2009 hingga 2012, saya adalah ketua staf kepada Dato' Sri Anwar ketika beliau menjadi penasihat ekonomi Selangor. Sepanjang tempoh itu, Farhaj tidak mempunyai pengaruh seperti yang kita lihat sekarang. Dia hanya muncul semula apabila Dato' Sri Anwar dibebaskan dari penjara pada 2018.
+**Host:** Okey faham lah — jadi ini untuk pertandingan lah, bukan YB sendiri nak jadi macam tu?
 
-**Sos Cili:** Tetapi apa yang anda maksudkan dengan "pengaruh besar"? Dia tidak memegang jawatan.
+**Rafizi Ramli:** Sebenarnya, sepanjang hidup saya, masa kat sekolah, saya nak jadi pencerah — pengajar.
 
-**Rafizi Ramli:** Sudah menjadi pengetahuan umum bahawa banyak gerakan dalam parti dibuat oleh Farhaj. Kali pertama saya perasan tentang dia ialah hari ketiga atau keempat selepas kami menang pada Mei 2018. Saya berada di hospital di Cheras, dan ada orang beratur untuk bertemu Dato' Sri Anwar. Farhaj ada di sana, beratur seperti orang lain. Saya tinggalkan politik selepas 2018, tetapi apabila Anwar membuka pejabatnya di Bukit Gasing, dia membawa Farhaj masuk. Dari situ, anda boleh nampak pengaruhnya yang sangat besar.
+**Host:** Mengajar subjek apa?
 
-**Sos Cili:** Apabila anda mempunyai perselisihan faham dengan Azmin Ali, PKR dikenali sebagai parti yang mempunyai puak. Apakah faktor penyatu? Adakah Anwar Ibrahim?
+**Rafizi Ramli:** Tak kisah lah, aku nak mengajar je. Sebab tu orang cakap saya suka membebel.
 
-**Rafizi Ramli:** Tidak, itu masalahnya. Orang yang masuk PKR—golongan idealis seperti kami—tidak melihat kuasa sebagai objektif. Kuasa adalah alat untuk perubahan, dan perubahan itu mesti berlaku dalam masyarakat, bukan sekadar menukar kerajaan. "Matlamat tidak menghalalkan cara." Konflik saya dengan Azmin adalah tentang budaya. Jika anda membawa perubahan tetapi menggunakan budaya politik lama yang sama, anda tidak ada bezanya. Ada golongan yang percaya kuasa adalah segala-galanya—anda dapat kuasa dahulu, baru buat baik.
+**Host:** Actually itu quite true, kan? Tapi masa tu apa subjek yang YB rasa YB boleh, atau paling minat nak mengajar?
 
-**Sos Cili:** Adakah "Geng Baju Hitam" adalah antitesis kepada puak anda?
+**Rafizi Ramli:** Saya sangat bagus dalam fizik.
 
-**Rafizi Ramli:** Mereka menggelar diri mereka sebagai pembela Anwar Ibrahim. Ia mengingatkan saya kepada "Geng Berempat" (Gang of Four) semasa akhir era Mao Zedong—semua orang perlu menyanyi mengikut rentak yang sama. Saya sudah ingatkan Dato' Sri Anwar bahawa cara "Baju Hitam" lebih berbahaya daripada pendekatan "Matlamat Menghalalkan Cara" Azmin.
+**Host:** Itu sebab YB ambil ijazah dalam kejuruteraan elektrik, kan?
 
-**Sos Cili:** Anda katakan "matlamat tidak menghalalkan cara," tetapi bagaimana pula dengan Langkah Kajang atau pembentukan Kerajaan Perpaduan sekarang bersama UMNO?
+**Rafizi Ramli:** Ya, itu juga sebahagian daripada cerita. Sebenarnya, saya nak jadi peguam — maaf, saya nak jadi ahli sejarah. Saya sangat bagus dalam fizik, tapi saya juga sangat berminat membaca sejarah, jadi saya nak jadi ahli sejarah. Tapi tak ada orang nak bagi biasiswa kepada seorang ahli sejarah, jadi saya putuskan saya nak jadi peguam pula. Tapi Malaysia ada satu sistem — you kena ambil sains tulen, you tak boleh ambil subjek sastera.
 
-**Rafizi Ramli:** Langkah Kajang adalah bukti kami golongan purist. Kami tidak boleh membiarkan seorang Menteri Besar kekal apabila mereka terjejas dengan kes mahkamah—kami perlu mempertahankan integriti parti. Bagi Kerajaan Perpaduan, itu adalah arahan Agong. Muhyiddin enggan membentuknya, jadi Anwar terpaksa. Jika anda berada di tempat saya, apa yang anda akan lakukan? Adakah anda akan mencetuskan Pilihan Raya Umum yang lain? Kami memeterai aturan itu dengan piagam yang jelas dan prinsip bersama. Ia adalah memilih yang lebih baik daripada dua keburukan.
+**Host:** Oh, menarik — sains tulen tu untuk budak-budak pandai?
 
-**Sos Cili:** Mengenai pemberi maklumat yang bertemu dengan anda tentang Farhaj, adakah itu proses yang sedang berlangsung?
+**Rafizi Ramli:** Tak, tak, itu peraturan. Kalau zaman saya, kalau you sains tulen, you boleh apply biasiswa untuk ini dan itu. Maksud saya, semua cikgu masa tu — walaupun you nak jadi ahli ekonomi atau akauntan, you kena ambil sains, you tak boleh pun ambil subjek sastera. Dan kalau you orang Cina, memang tak ada peluang langsung. Jadi saya rasa yang paling kurang bersifat "kejuruteraan," actually kejuruteraan elektronik, sebab lebih kepada matematik. Itulah macam mana ia berakhir sebagai jurutera elektronik.
 
-**Rafizi Ramli:** Ya. Apabila anda memberi tumpuan kepada sesuatu, maklumat akan datang. Ia adalah kerja yang sedang berjalan. Ia serupa dengan kes NFC yang saya kendalikan bertahun-tahun dahulu. Pemberi maklumat datang kepada saya selepas saya menyatakan secara terbuka bahawa Farhaj perlu disiasat. Saya rasa saya adalah ahli politik pertama yang menyebut namanya secara terbuka.
+**Host:** Sebab masa tu YB nampak bidang tu kurang orang dan minat pasal tu ke sebab apa?
 
-**Sos Cili:** Kenapa ambil masa yang lama? Semua orang berbisik tentang perkara ini selama bertahun-tahun.
+**Rafizi Ramli:** Tak juga, tak juga. Lebih kepada — okey lah, ni bunyi bodoh, tapi masa umur 17 tahun. Cerita dia panjang lah, sebab saya dapat satu lagi biasiswa sebelum itu. Saya dapat dua biasiswa.
 
-**Rafizi Ramli:** Anda perlu tanya orang lain tentang itu. Saya tidak tahu mengapa orang takut kepadanya. Sebelum saya meletak jawatan, saya membangkitkan isu-isu ini secara dalaman kepada Dato' Sri Anwar berkali-kali. Jawapannya sentiasa, "Dia bekas setiausaha politik saya." Isunya bukan sama ada dia memegang jawatan atau tidak; ia adalah persepsi bahawa dia mempunyai pengaruh terhadap keputusan kerajaan. Walaupun persepsi itu tidak 100 peratus tepat, ia tetap berbahaya.
+**Host:** Berapa biasiswa YB dapat ni?
 
-**Sos Cili:** Adakah anda bersetuju dengan sentimen bahawa kerajaan BN lebih baik kerana keluarga anda tidak diserang ketika itu?
+**Rafizi Ramli:** Saya dapat dua biasiswa. Saya dapat biasiswa sebelum saya duduk untuk SPM. Masa tu Exxon ada biasiswa — sekarang Exxon tak bagi biasiswa lagi, ni kepada Exxon yang dengar kan. Masa tu, zaman 90-an, Exxon kiasu tau. Dia rasa dia nak ambil kononnya top student sebelum orang lain dulu, so dia offer biasiswa berdasarkan keputusan semester pertama, semester kedua Tingkatan 4, dan semester pertama Tingkatan 5.
 
-**Rafizi Ramli:** Itu bukan perbandingan "epal dengan epal". Tidakkah kejam meletakkan saya dalam penjara selama tiga tahun ketika anak-anak saya berumur lima tahun? Menampar saya dengan 14 kes dan memasukkan saya ke lokap? Apabila anda berasa terancam, mereka yang berkuasa memilih kaedah ganas. Alat negara digunakan terhadap saya ketika itu, dan pelakon yang rapat dengan negara juga terlibat.
+**Host:** Wow. Tapi macam mana mereka monitor semua sekolah?
 
-**Sos Cili:** Berurusan dengan kes "Deep State"—kenapa ia tidak pernah selesai?
+**Rafizi Ramli:** Itu yang elitist lah — dia pergi sekolah-sekolah tertentu sahaja.
 
-**Rafizi Ramli:** Saya tidak rasa setiap kes boleh diletakkan dalam satu kotak. Tetapi terdapat mekanisme pertahanan dalam jabatan kerajaan untuk melindungi reputasi mereka, yang perlu diubah. Majoriti pegawai kerajaan sama seperti anda dan saya; mereka mahu melakukan kerja yang baik. Tetapi ada "epal busuk". Apabila pelakon penyangak mengambil rasuah atau mengikut perintah haram, kita tidak sepatutnya melindungi mereka hanya untuk mengelakkan "PR buruk" bagi institusi tersebut.
+**Host:** Okey, okey.
 
-**Sos Cili:** Mengenai Akta MCMC dan kandungan "menyinggung perasaan dan mengganggu"—ketika anda berada dalam Kabinet, adakah terdapat perbincangan mengenai memansuhkan undang-undang "zalim" ini?
+**Rafizi Ramli:** Jadi saya dapat. Menariknya, kita ada dua alumni — secara teknikalnya "crony babies" Exxon. Bapa saya, bapa dia pun sama — kenapa lah macam tu. Jadi itu biasiswa pertama saya, untuk buat geologi.
 
-**Rafizi Ramli:** Ada. Tetapi kita perlu mengimbangi perspektif politik kita dengan realiti buli siber yang menjejaskan orang biasa yang tidak ada kaitan dengan politik. Undang-undang itu dibincangkan selepas seorang wanita membunuh diri akibat buli siber. Undang-undang semasa kita tidak cukup lengkap untuk mendakwa mereka yang terlibat. Masalahnya ialah "matlamat" tidak selalunya kelihatan hitam dan putih dalam praktiknya. Jika anda tidak mempunyai peruntukan ini, bagaimana anda melindungi rakyat daripada gangguan digital? Walau bagaimanapun, saya bersetuju bahawa kita perlu memperbaharui Kanun Keseksaan untuk membezakan antara pelbagai jenis kesalahan supaya undang-undang tidak disalahgunakan. Kita masih jauh untuk pergi, tetapi matlamatnya adalah untuk mengalihkan masyarakat ke arah lebih empati dan kurang penyalahgunaan kuasa.
+**Host:** Oh, untuk buat geologi?
 
-**Penemu Bual:** Jika tiada perlindungan, ia mesti dikodkan ke dalam undang-undang. Bagi saya, ia mesti dikodkan ke dalam undang-undang untuk melindungi orang yang tidak mempunyai akses kepada perkara ini. Mengenai fitnah—jika ia tidak bersifat jenayah, sebagai contoh, jika ia melibatkan melontar kata-kata yang kemudian mengakibatkan jenayah—jadi, buat masa ini untuk kes buli siber, walaupun seseorang mati, tiada siapa yang dihukum oleh undang-undang?
+**Rafizi Ramli:** Ha, ini ExxonMobil — ada pegawai-pegawai yang dah tua. Jadi hanya empat orang daripada kami dari seluruh negara yang dapat biasiswa ini, jadi mereka layan kami macam raja. Saya ingat suatu masa dalam bulan Ogos, mereka bawa kami ke pejabat mereka untuk jumpa pihak pengurusan — saya rasa di suatu tempat di Shangri-La, tempat "international" masa tu. Itu je — itulah betapa tuanya saya!
 
-**Rafizi Ramli:** Undang-undang tidak mencukupi untuk itu, seperti yang saya faham daripada perbincangan sebelum ini dalam kerajaan. Kesukarannya—dan kami memang membincangkannya—adalah bagaimana anda mentakrifkan "menyinggung" lawan "terganggu"? Ia terlalu longgar. Sesetengah orang berasa tersinggung, yang lain tidak. Akan sentiasa ada pihak yang berhujah ia akan disalahgunakan. Ia telah dibangkitkan dalam kabinet. Bagaimana kita pastikan ia tidak disalahgunakan, sebagai contoh, oleh ahli politik, atau walaupun Jason Leong membuat jenaka bodoh yang dia fikir lucu tetapi menyinggung perasaan orang lain? Bagaimana anda melindungi daripada itu? Ia mungkin untuk didebatkan. Jadi ia dibangkitkan dan didebatkan. Sebab itu, bagi saya, proses itu mesti berlaku. Maksudnya, jika mahkamah membatalkannya, anda perlu merangka semula, dan melalui proses itu sekali lagi. Tetapi pada masa yang sama, walaupun ia adalah kesilapan oleh Fahmi Fadzil, dia harus pergi dan menjelaskan kepada orang ramai: "Kenapa anda perlukan ini?" Pastikan orang ramai benar-benar faham. Siapa yang membaca semua akta multimedia ini? Siapa yang membaca kanun keseksaan? Melainkan anda pergi ke mahkamah seperti yang saya selalu lakukan—sentiasa didakwa, bukan? Kebanyakan orang tidak tahu apa itu. Kita harus menjelaskannya dengan betul; akan ada cukup orang yang faham dan, pada masa yang sama, boleh menyumbang tentang bagaimana kita menguruskan keseimbangan itu.
+**Host:** Saya tak setua tu, kita tak setua tu.
 
-**Penemu Bual:** Jadi apa yang anda katakan ialah Menteri Komunikasi mempunyai masalah komunikasi?
+**Rafizi Ramli:** Jadi saya jumpa ketua geologi, saya tanya, "apa sebenarnya you belajar dalam geologi?" You budak Tingkatan 5, budak kampung, you tak tahu apa-apa. Dia cakap, tahun pertama, you kena hafal 100 batu.
 
-**Rafizi Ramli:** Saya tidak perlu katakan itu; semua orang tahu. Kami telah menjemput YB Fahmi Fadzil. InsyaAllah, beliau akan menerima jemputan kami tidak lama lagi. Itu satu kenyataan yang meremehkan. Memandangkan semua orang menyebutnya, kenapa tidak panggil semua orang datang? Seterusnya, mungkin kita boleh ke soalan seterusnya. Mengenai kabinet—berdasarkan pengalaman anda sebelum ini, bolehkah anda berkongsi pendapat anda tentang ahli kabinet, membandingkan berada dengan mereka dalam kabinet sebelum dan selepas? Ahli mana yang anda rasa paling mengecewakan, dan mana satu yang telah menarik perhatian anda paling banyak selepas melihat prestasi mereka?
+**Host:** Okey.
 
-**Rafizi Ramli:** Saya sangat sukar untuk dipuaskan. Biar saya berikan anda "bakul" menteri. Saya rasa menteri daripada UMNO, sebagai contoh, seperti Tok Mat atau Khalid Nordin—dan untuk berlaku adil, Azalina—mereka tahu cara melakukan kerja mereka, sama ada apa yang mereka lakukan adalah rutin biasa atau sesuatu yang baharu. Anda boleh tahu mereka mengawal keadaan kerana pengalaman mereka; mereka sudah lama menjadi menteri. Jadi itu satu kategori. Ia adalah satu standard. Orang yang sudah biasa menjadi menteri tidak mudah diintimidasi. Mereka tahu bagaimana ia berfungsi. Ia hanya persoalan sama ada mereka mahu mendorong perkara baharu atau tidak. Kemudian kita ada kategori menteri baharu yang tidak pernah menjadi menteri sebelum ini.
+**Rafizi Ramli:** Tahun kedua, hafal lagi satu set batu. Dan dia bunyi begitu terpesona dengan semua batu-batu ni kan. Jadi akhirnya saya putuskan, saya tak akan jadi ahli geologi, saya akan jadi PM. Itu bukan dalam rancangan masa itu.
 
-**Penemu Bual:** Dan dia orang pertama yang menjadi menteri, bukan?
+**Rafizi Ramli:** Jadi biasiswa kedua, selain Exxon, lagi kiasu — dia bagi sebelum keluar keputusan SPM. Petronas kiasu no. 2 sikit — dia bagi biasiswa sebelum keluar keputusan SPM.
 
-**Rafizi Ramli:** Saya akan katakan, sebagai contoh, Nik menguruskannya dengan baik. Kemudian, Armizan menguruskannya dengan baik. Itu pandangan saya. Jelas sekali, Loke boleh memerintah. Daripada DAP, anda boleh tahu Loke tidak diintimidasi dan dia boleh memerintah. Kemudian anda ada bakul lain. Yang... saya maksudkan... mereka di luar kemampuan mereka. Ya, mereka bergelut. Mereka bergelut dari segi mengendalikan kerumitan dan kepelbagaian masalah yang timbul. Kedua, dari segi idea. Ketiga, dan yang paling penting, adalah keupayaan untuk memerintah. Anda tahu, pegawai kerajaan, mereka boleh menghidu darah. Jika menteri masuk, selepas dua atau tiga bulan, mereka tahu jika menteri perlukan nota untuk membaca fail pun. Malah pergi ke parlimen, mereka panik. Mereka tanya, "Apa yang saya nak jawab? Di mana jawapannya?" Pegawai terus tahu yang menteri itu boleh "dimakan". Kita ada menteri yang saya sebutkan sebelum ini—ramai daripada PKR juga, seperti Fadlina, Zaleha, Fahmi—kerana mereka tidak pernah menguruskan organisasi. Kelebihan yang saya ada adalah kerana saya pernah bekerja sebelum ini. Anda mempunyai syarikat sendiri; saya datang daripada organisasi besar, dunia korporat, kemudian saya menguruskan syarikat sendiri. Malah menguruskan Invoke dengan 40,000 lebih sukarelawan adalah organisasi yang besar. Anda tahu disiplin, gaya pengurusan, dan sebagainya. Tetapi jika anda tidak pernah menguruskan pasukan lima orang, dan tiba-tiba anda perlu menguruskan 500,000 orang, ia sukar. Mustahil.
+**Rafizi Ramli:** Jadi sejurus selepas saya menduduki SPM, saya pergi Petronas, dan ia agak straightforward — saya dah dapat biasiswa.
 
-**Penemu Bual:** Ini membawa kita dengan baik ke soalan seterusnya. Terdapat persepsi bahawa kebanyakan reformasi yang orang mahu lihat tidak berlaku, dan berkali-kali kita dengar bahawa UMNO dijadikan kambing hitam—bahawa perkara ini tidak dapat dilaksanakan kerana terdapat tentangan. Sejauh mana itu benar?
+**Host:** Tapi biasiswa yang kedua, yang pertama tu cancel?
 
-**Rafizi Ramli:** Saya sebenarnya tidak bersetuju, dan ini kali pertama saya meletakkannya dalam rekod. Melainkan ia berlaku di belakang saya—maksudnya ia bukan penipuan, ia tidak berlaku dalam kabinet—pengalaman saya ialah UMNO bukan halangan. Kawan-kawan UMNO, jangan marah. UMNO berada dalam permainan untuk kuasa, dari dulu hingga sekarang. Dan untuk perkara itu, mana-mana parti politik pun. Tetapi UMNO sudah wujud lebih lama, jadi mereka lebih tahu dinamika kuasa. UMNO juga tahu bahawa, sebagai contoh, kawasan pilihan raya tradisional mereka—Melayu luar bandar—adalah pertempuran yang sukar kerana ada PAS dan PN. Mereka mahu bertanding dari segi tapak Melayu, tetapi ia tidak semudah itu kerana ada DAP bersama. Jadi mereka mencari konstituen baharu—konstituen yang UMNO pernah ada tetapi hilang, sebagai contoh, Melayu bandar atau bukan Melayu, atau golongan berpendidikan yang selama bertahun-tahun pergi ke PKR/PH. Jadi, sebenarnya, apa sahaja yang menjadikan kerajaan popular kepada konstituen yang mereka mahu fokuskan, UMNO okay dengan itu. Saya tidak nampak UMNO mempunyai masalah. Dan saya tidak benar-benar ingat UMNO membantah perkara radikal yang saya bawa. Ada yang kata, "Mereka tidak membantah di depan anda, mereka membantah di belakang anda." Kadangkala saya dengar itu apabila saya bertanya mengapa [perkara terhenti], mereka kata, "Mereka tidak setuju, jadi mereka datang jumpa saya." Tetapi secara rekod, secara rasmi, saya fikir kita perlu membetulkan naratif jika orang kata kepantasan reformasi perlahan kerana UMNO. Menyalahkan UMNO tidak akan menyelamatkan PKR dan PH.
+**Rafizi Ramli:** Tak, tak, maksud saya you tolak lah — you tolak biasiswa Exxon tu.
 
-**Penemu Bual:** Biar saya spesifik tentang apa yang saya maksudkan dengan kepantasan reformasi yang perlahan. Kita boleh melihat janji manifesto GE15—pemisahan AG dan Pendakwa Raya, atau proses pencalonan ketua SPRM. Apabila orang bertanya, adakah terdapat pengampunan yang menjadi batu penghalang kepada semua janji yang dibuat?
+**Host:** Okey, menarik. Jadi sebenarnya kita ada banyak bincang perkara — nama Rafizi banyak muncul dalam episod kita dengan YB Nik Nazmi tu.
 
-**Rafizi Ramli:** Itu bukan kesnya. Jika pemisahan kuasa pendakwaan daripada kerajaan telah dikemukakan, semua orang bersetuju. Cuma orang tidak berpuas hati dengan kepantasannya. Proses untuk menukar undang-undang dijangka mengambil masa dua hingga tiga tahun, yang mana, mengikut standard kerajaan, adalah boleh diterima. Pengalaman saya ialah untuk merangka akta, biasanya mengambil masa tiga hingga empat tahun. Dalam kes saya, untuk Akta US, kami membina dalam 11 bulan, tetapi ia adalah neraka untuk melakukannya dalam 11 bulan. Ia tidak mudah. Jadi untuk sesuatu yang besar seperti pemisahan kuasa, ia melibatkan institusi dan semua undang-undang sedia ada.
+**Rafizi Ramli:** Ya, malangnya. Patutlah aku demam.
 
-**Penemu Bual:** Adakah terdapat janji kempen yang anda cuba jadikan akta tetapi tidak dapat semasa kerajaan perpaduan ini?
+**Host:** Sebenarnya dalam episod tu juga kita ada tanya soalan kepada YB Nik Nazmi yang dia actually tak nak jawab.
 
-**Rafizi Ramli:** Tiada satu pun janji itu di bawah bidang kuasa Kementerian Ekonomi. Dan anda tidak boleh campur tangan dalam kementerian lain. Anda akan jadi menteri yang teruk jika, semasa dalam kabinet, anda mengabaikan portfolio sendiri dan sibuk mencampuri urusan orang lain. Jadi itu satu hujah. Adakah terdapat tentangan? Tidak. Sudah ada keputusan kabinet untuk itu berlaku. Tetapi sama ada anda boleh melakukannya dalam setahun atau dua tahun dan bukannya tiga atau empat—di situlah, mungkin, kita boleh mempercepatkannya.
+**Rafizi Ramli:** Apa dia — pasal Farhaj ke?
 
-**Penemu Bual:** Sebagai contoh, jika anda menjalankan politik dan segala-galanya perlu melalui parlimen khas, adakah itu juga sebabnya?
+**Host:** Dia ada jawab lah, dia ada jawab — ya, sikit "menghapuskan." Soalan yang kita tanya adalah kita nak faham siapa itu Farhaj, sebab pada masa kita temubual dengan Nik Nazmi, YB baru keluar kenyataan pasal Farhaj punya syarikat perlombongan Sabah dan kaitan apa yang tengah berlaku masa tu. Jadi saya pun masa tu tengah correct sikit pasal nak kenal siapa Farhaj ni.
 
-**Rafizi Ramli:** Itu tidak pernah dibangkitkan. Kerana sesuatu mesti dibawa ke hadapan oleh kementerian masing-masing, melainkan diarahkan oleh Perdana Menteri. Pelantikan ketua SPRM, sebagai contoh—itu semua kuasa Perdana Menteri. Jika Perdana Menteri tidak membangkitkannya, selain daripada kami menyebutnya di sana sini dalam mesyuarat parti, ia mati di situ. Sebab itu saya fikir, sebahagiannya, Dato’ Sri Anwar perlu menjawab. Untuk meletakkan kesalahan kepada UMNO adalah tidak adil. Sudah tentu, jika anda tanya Dato’ Sri Anwar, dia ada sebabnya. Sebagai contoh, jika perlembagaan mengatakan ini, atau jika akta perlu ditukar—ia tidak memerlukan pindaan perlembagaan, tetapi akta—dia perlu mengambil kira pandangan pihak berkepentingan lain. Saya masih fikir, sekurang-kurangnya, ia boleh dibincangkan. Tetapi ia tidak dibangkitkan, dan melainkan anda mahu bergaduh dengan PM, anda tidak boleh tanya, "Kenapa anda tidak bawa ini atau itu?" Ia adalah tanggungjawab kolektif.
+**Rafizi Ramli:** Tak ada banyak masalah — kena saman pun, Andy kena saman. Saya tak buat apa-apa kenyataan, saya cuma menanya soalan. Jadi soalan kami adalah siapakah Farhaj, dan macam mana kaitannya dengan Perdana Menteri Anwar Ibrahim.
 
-**Penemu Bual:** Sebagai pengundi yang membuang undi mengharapkan perkara ini, bolehkah saya berpegang pada harapan itu, atau haruskah saya melepaskannya?
+**Host:** Sama ada Nik tak nak jawab, atau dia rasa janggal.
 
-**Rafizi Ramli:** Saya fikir apa yang berlaku sekarang adalah baik—kerajaan mahu mengimbangi tuntutan semua kumpulan. Sudah tentu, kerajaan boleh berkata, "Kami perlu mengimbangi ini dan mengutamakan perkara lain." Tetapi daripada pihak rakyat, setiap kumpulan mempunyai hak untuk menuntut apa yang penting bagi mereka. Mereka yang tidak diutamakan atau dipercepatkan akan ketinggalan. Situasi sekarang, saya fikir, akan melibatkan bunyi bising di sana sini, dengan orang tidak berpuas hati. Itu adalah ujian dan cabaran bagi kerajaan yang menang atas dasar reformasi. Anda perlu mengimbanginya. Jika saya seorang warganegara atau kumpulan, saya akan berasa, "Ini tidak berbaloi," kerana apabila mereka menang, isu saya ditolak ke bawah. Saya mahu isu saya dibawa ke atas. Jadi saya fikir tekanan dan wacana mesti diteruskan.
+**Rafizi Ramli:** Orang dalam PKR, kebanyakan kami tahu sikit-sikit. Farhaj dilahirkan, saya rasa, di Kuala Kangsar.
 
-**Penemu Bual:** Berdasarkan kerja kerajaan setakat ini, adakah kepantasannya okay?
+**Host:** Oh, jadi dia bersekolah di situ juga?
 
-**Rafizi Ramli:** Tidak, saya fikir ia perlahan.
+**Rafizi Ramli:** Tak, tak — dia yang dari depan Clifford.
 
-**Penemu Bual:** Kenapa ia perlahan?
+**Host:** Ada rivalry dengan MCKK?
 
-**Rafizi Ramli:** Ia gabungan isu. Ini adalah momentum yang saya tetapkan untuk diri saya sendiri apabila saya mula-mula mengambil alih. Kita ada lima tahun untuk satu kerajaan. Perubahan asas dan visi yang perlu dibuat mesti dicuba dalam dua tahun pertama. Anda mahu menukar undang-undang atau melancarkan perkara baharu? Anda lakukannya dalam dua tahun pertama supaya selepas itu, ia mula mempunyai legasi dan kesan kepada rakyat. Dalam tiga tahun akan datang, anda fokus kepada pelaksanaan. Tetapi saya fikir ia bergantung kepada setiap kementerian dan setiap menteri, dan juga Perdana Menteri. Dalam dua tahun pertama, ada menteri yang masih mencari rentak dan dalam keluk pembelajaran. Jadi, perkara yang sepatutnya menetapkan kepantasan dari awal bergantung kepada setiap kementerian. Kedua, reformasi besar—seperti pelantikan—tidak boleh menunggu lama kerana orang akan menuntutnya selepas satu tahun. Kemudian kita ada kes seperti pelanjutan Tan Sri Azam Baki, yang membuat orang marah. Perkara-perkara itu dalam kawalan Perdana Menteri dan sepatutnya dilakukan dalam tempoh dua tahun, dan sekarang kita tahu tidak semuanya berlaku.
+**Rafizi Ramli:** Tak, saya tak tahu. Dia tak dapat biasiswa ke China pun, jadi saya tak tahu. Orang selalu tanya nama dia lah, saya tak tahu. Tapi saya diberitahu keluarga dia — saya rasa bapa dia orang Filipina.
 
-**Penemu Bual:** Untuk memahami dinamika, ambil PADU sebagai contoh—inisiatif itu datang daripada kementerian anda. Adakah ia pergi ke PM dahulu atau kabinet untuk mendapatkan konsensus? Atau adakah anda bebas untuk melakukan apa sahaja yang anda mahu?
+**Host:** Oh!
 
-**Rafizi Ramli:** Tidak, apabila keputusan melibatkan dasar atau akta yang perlu ditukar, atau jatuh di bawah bidang kuasa orang lain, anda mesti membawanya ke kabinet. Dalam kes PADU, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Apabila dipersetujui, ia dibawa ke kabinet. Kabinet bersetuju. Semua orang bersetuju. Tetapi budaya di Malaysia, seperti yang saya katakan, mereka bersetuju di depan anda, tetapi ada sabotaj. Seseorang bertanya, "Apakah status PADU sekarang?" Ia beroperasi 100 peratus. Apabila kami membentangkan PADU, kami mempunyai dua atau tiga sebab mengapa kami memerlukan satu pangkalan data pusat bersepadu. Satu adalah kos—lebih daripada apa-apa pun. Kerajaan membelanjakan kira-kira 13 bilion setahun untuk sistem IT—kira-kira 7 bilion sebagai capex dan 6 bilion sebagai opex. Ia terus meningkat kerana sistem ini tidak bersepadu. Setiap kementerian dan jabatan membuat sistem sendiri dari awal. Jika anda tahu cara membangunkan sistem, melakukan dari awal bermakna back-end dilakukan berulang kali, yang membentuk sebahagian besar perbelanjaan. Semua maklumat ini sudah ada dalam kerajaan, tetapi undang-undang tidak membenarkan perkongsian.
+**Rafizi Ramli:** Saya diberitahu, saya diberitahu, okey — jadi kalau you nak tanya, saya cerita nanti. Jadi, saya rasa kemunculan pertama dia dalam parti yang kami perasan adalah suatu masa dalam 2005–2006, masa tu dia mungkin baru habis belajar. Saya rasa dia bergraduat daripada Portsmouth University dan balik sebab dia terlibat dalam Anwar Ibrahim Club — bila Anwar Ibrahim dibebaskan dari penjara 2004, dia join tak lama selepas itu.
 
-**Penemu Bual:** Saya tidak tahu itu. Bukankah ia hanya soal membaiki data?
+**Host:** YB ada dalam kelab yang sama juga?
 
-**Rafizi Ramli:** Oh tidak, ia jauh lebih rumit. Undang-undang tidak membenarkan perkongsian, sebagai contoh, kerana privasi. Ia bukan sekadar PDPA. Sebagai contoh, apabila Jabatan Pendaftaran Negara mendaftarkan sijil kelahiran dan IC, akta itu memberi kuasa untuk mengumpul data itu hanya kepada JPN. Setiap akta secara khusus mengatakan anda tidak boleh berkongsi data dengan orang lain. Jadi, anda perlu mengatasi halangan. Anda perlukan keputusan kabinet untuk berkongsi data, dan sebab itulah kami perlukan Akta Omnibus. Apabila ia ada, anda sebenarnya perlu melakukannya. Bayangkan jika kita mempunyai satu pangkalan data back-end bersepadu; maka setiap aplikasi atau sistem baharu hanya akan fokus pada front-end—hanya kulitnya—kerana anda menarik data yang sama daripada back-end itu.
+**Rafizi Ramli:** Tak, sebab kami datang daripada generasi berbeza. Saya masuk PKR sejak 98–99. Jadi bila Anwar dibebaskan 2004, saya kata bye-bye, sebab saya nak move on dengan hidup saya. Ramai juga daripada kami yang masuk masa 98–99 tu memang tak berminat sangat dengan politik [sebagai kerjaya] — kebanyakan orang yang masuk PKR awal-awal dulu adalah profesional. You lead a double life, tau — juggle antara kerjaya profesional dengan aktivisme.
 
-**Penemu Bual:** Orang merungut tentang PADU—golongan bandar merungut.
+**Host:** Masa tu YB in charge Amanjaya?
 
-**Rafizi Ramli:** Kerana ia isu masa dengan pengumuman pemansuhan subsidi petrol. Apabila anda mempunyai semua butiran ini daripada semua jabatan kerajaan dan kami membukanya untuk orang awam mengemaskini—kerana kerajaan sudah mempunyai data anda daripada LHDN dan KWSP—anda boleh menambah atau membetulkannya. Jika anda tidak melakukannya, orang kata data itu salah. Apabila kami mempunyai itu, ia adalah data kedudukan sosio-ekonomi yang paling tepat bagi mana-mana keluarga. Jadi jika anda mahu melakukan penyasaran subsidi, itulah data yang kami ada. Ia bukan persoalan PADU, ia persoalan kes penggunaan. Kes penggunaan terbesar sepatutnya penyiasatan semula subsidi, tetapi MOF tidak bersetuju. Mereka mahu menggunakan cara mereka sendiri.
+**Rafizi Ramli:** Eh tak, itu 2009. Saya di Petronas masa tu — baru balik dari UK, itu kerja pertama saya di Malaysia. Jadi sebab tu kita tak berada dalam parti bersama masa tu — saya dah basically move on. Saya kembali ke parti sekitar 2009; masa tu saya ingat dia dalam sayap pemuda, salah seorang daripada mereka di universiti.
 
-**Penemu Bual:** Kenapa?
+**Host:** 2009 masa sekitar Kajang Move?
 
-**Rafizi Ramli:** Well, saya fikir ia sebahagiannya politik. Anda perlu ingat, gabungan ini mempunyai banyak cabaran. Terdapat sekitar 217 bentuk bantuan tunai yang diedarkan oleh pelbagai jabatan, dengan bajet kira-kira 26 bilion. Idea PADU ialah apabila anda mempunyai sistem berpusat, anda tidak perlukan lima, enam, atau tujuh jabatan memberi bantuan secara berasingan. Kerana apabila anda melakukan itu, anda mempunyai ralat pengecualian, anda mempunyai ralat kemasukan—sesetengah orang dapat empat, sesetengah tiada langsung. Anda mempunyai satu gambaran penuh, dan bukannya memberi jumlah kecil di sana sini, anda berikan semuanya sekali gus. Jika anda lakukan itu, orang yang tidak dapat sebelum ini sekarang akan dapat, tetapi bajetnya adalah seperti itu. Jika anda memusatkan, ia bermakna sesetengah pihak hilang pengaruh, hilang kuasa, hilang bajet. Jadi ada banyak tentangan. Ada juga ketakutan bahawa jika kita melakukan penyasaran subsidi, kita akan kalah pilihan raya. DAP, sebagai contoh, mati-matian menentangnya.
+**Rafizi Ramli:** Sekitar? Tak, Kajang Move 2014. Kemudian, saya rasa lepas itu, ada sebab — saya ingat sekitar 2011–2012 dia hilang lah, tak ada apa-apa perkembangan sangat. Jadi antara tahun 2009 sampai 2018 — Dato' Seri Anwar masuk balik penjara 2015 kan — antara 2009 sampai 2012 tu saya more or less jadi ketua staf dia masa saya CEO di Selangor, dan Dato' Seri Anwar penasihat ekonomi Selangor masa tu. Jadi sampai dia masuk penjara balik 2015, Farhaj tak ada pengaruh besar macam yang kita tengok sekarang — tak ada. Farhaj, lepas habis sayap pemuda tu, habis dekat situ lah. Dia hanya muncul balik bila Dato' Seri Anwar keluar penjara 2018.
 
-**Penemu Bual:** Bagaimana jika saya salah mengisytiharkan pendapatan saya? Saya mungkin mempunyai perniagaan dan kata saya peroleh RM1,000 sedangkan saya peroleh RM10,000. Bagaimana anda menyemaknya?
+**Host:** Tapi apakah maksud "pengaruh besar" ni? Sebab dia tak memegang apa-apa jawatan pun.
 
-**Rafizi Ramli:** Jika anda seorang pekerja bebas, anda masih perlu memfailkan LHDN anda. Jika tiada KWSP, ia akan muncul dalam LHDN. Satu-satunya risiko adalah pekerja tidak formal yang benar-benar peroleh RM1,500 hingga RM2,000; mereka itu kemungkinan besar layak mendapat bantuan. Tetapi bagi mereka yang mempunyai pendapatan, ia akan muncul di suatu tempat. Sebab itu kita perlu menggabungkan semuanya. Jika mereka salah mengisytiharkan, ada algoritma yang menandakannya. Jika mereka kata mereka peroleh 1,000 tetapi mereka ada BMW, atau rekod LHDN menunjukkan penyata cukai mereka dari tiga tahun lepas, algoritma menandakannya. Sesetengah orang tidak suka PADU kerana mereka takut ketelusan. Mereka takut kerajaan akan tahu mereka kurang mengisytiharkan. Tetapi sebagai sebuah negara, kita tidak boleh maju ke depan tanpa pangkalan data berpusat. Dan kerja itu sudah selesai. Mana-mana kerajaan yang datang seterusnya hanya perlu "membasuh kaki" dan berjalan masuk.
+**Rafizi Ramli:** Kerana semua orang tahu banyak percaturan di dalam parti memang dibuat oleh Farhaj. Ini common knowledge — dulu di dalam parti, sekarang di luar pun semua orang dah tahu. Kalau tengok 2018, saya ingat kali pertama saya perasan Farhaj adalah hari ketiga atau keempat selepas kami menang pada Mei 2018, masa saya berada di hospital di Cheras — Dato' Seri Anwar masih belum menerima pengampunan lagi. Masa tu ada dua tiga orang yang nak jumpa Dato' Seri Anwar — antaranya saya, Saifuddin, Dr Rahim Ghouse... tak, tak, Farhaj tak ada langsung dekat situ. Itu kali pertama saya perasan dia, sebab dia beratur di luar untuk minta jumpa Dato' Seri Anwar.
 
-**Penemu Bual:** Adakah kes penggunaan untuk subsidi petroleum satu-satunya yang tidak dipersetujui?
+**Rafizi Ramli:** Tapi saya keluar selepas 2018, you tahu — saya pack up dan cakap, itu je, saya tak berminat dengan politik, saya teruskan buat hal saya. Dari situ, saya rasa, bila Anwar tubuh balik pejabat dia di Bukit Gasing, atas apa-apa sebab, dia ambil Farhaj.
 
-**Rafizi Ramli:** Tidak. Terutama apabila PM mengumumkan tiada penyasaran subsidi [untuk RON95] kerana harga turun kepada RM1.69 untuk semua orang. Tetapi untuk kes penggunaan lain, seperti Kementerian Digital membina aplikasi berpusat—MyGov—back-endnya ialah PADU. Orang ingat PADU hanya untuk RON95, tetapi sebenarnya jauh lebih luas.
+**Rafizi Ramli:** Daripada situ, daripada apa yang saya dengar, pengaruh dia berkembang dengan sangat pesat.
 
-**Penemu Bual:** Adakah kementerian anda memusnahkan semua silo? Bolehkah KPM masih menyimpan silo mereka dan tidak menggunakan PADU?
+**Host:** Berapa umur dia masa tu — macam 30?
 
-**Rafizi Ramli:** Apabila kami mencipta PADU, kami tidak memusnahkan pangkalan data lain, tetapi ia mengekstrak data. Kerana ia adalah dasar kerajaan untuk berkongsi dan bersepadu, mereka perlu memberikannya. KWSP memberikannya, LHDN memberikannya. Tidak masuk akal bagi mereka membelanjakan wang untuk membina pangkalan data saingan sendiri. Jadi mereka akan menggunakan PADU.
+**Rafizi Ramli:** Mesti lah. Farhaj ni berapa umur sekarang...
 
-**Penemu Bual:** Dari segi penyampaian maklumat, usaha yang paling ketara adalah melalui Cyber Troopers. Mengapa terdapat begitu ramai penyokong anda yang rasis, seksis, dan klasis? Dan adakah anda sedar terdapat ramai orang di Twitter yang misoginis dan pembuli? Adakah pemimpin PKR akan melakukan sesuatu tentang ini?
+**Host:** Kenapa Nik cakap dia jadi setiausaha politik kepada Anwar selepas Farhaj — atau sebelum?
 
-**Rafizi Ramli:** Saya fikir saya tidak boleh mencampurkannya. Saya kekalkan itu. Kadangkala apabila ada sesuatu yang keras, saya hanya menyekat mereka. Kita adalah negara di mana pandangan sangat berbeza. Orang panggil orang lain ini dan itu—ia dunia bebas. Ia Twitter. Ia X. Anda bergaduh di sana. Sebagai contoh, ada orang yang merupakan penyokong PSM mengadu sokongan mereka buruk. Saya tidak boleh pergi dan marah pada PSM. Anda tidak boleh menggunakan satu peraturan untuk diri sendiri dan peraturan berbeza kepada orang lain. Jadi biarkanlah. Jika anda tidak suka, jangan tengok, atau sekat mereka. Itu sahaja.
+**Rafizi Ramli:** Tak, sebelum — jauh, jauh lebih awal. Sebab Nik masa tu, apa nama dia, staf Dato' Seri Anwar antara 2006 hingga 2008. Saya ingat, dia balik dan cakap dia nak join kerja Anwar untuk 6 bulan — saya tak berapa happy dengan tu. Saya rasa itu tak betul, atas dua sebab.
 
-**Penemu Bual:** Jika anda mempunyai pilihan kementerian mana yang anda mahu ambil alih, yang mana satu untuk impak paling besar?
+**Rafizi Ramli:** Satu — atas dasar tanggungjawab, saya rasa kalau dia jadi apa-apa pada usia muda begitu, tak ada sesiapa akan jaga dia. Ahli politik ni, masa dia nak suruh you join dia, dia cakap macam-macam — lepas tu kalau jadi apa-apa, you kena survive sendiri. Sudah tentu, memandangkan keluarga dia senang, saya tak worried sangat pasal tu.
 
-**Rafizi Ramli:** Saya tidak tahu bagaimana orang lain menjadi menteri, tetapi jika anda masuk politik untuk berkhidmat, ia bermakna anda mahu membuat perubahan. Anda hanya boleh membuat perubahan jika anda meminati perkara itu. Saya hanya berminat dengan ekonomi, pendidikan, dan perkara berkaitan teknologi/industri. Ia kerana itu adalah perkara yang saya tahu dan pernah terlibat. Jangan letak saya di Kementerian Belia dan Sukan, sebagai contoh; saya tidak boleh membuat perubahan. Jika anda menjadi PM, anda tugaskan seseorang kepada portfolio berdasarkan kepakaran dan minat mereka. Saya bukan diplomat; jangan letak saya sebagai Menteri Luar. Jangan letak saya sebagai Menteri Hal Ehwal Agama. Saya fikir sudah diketahui bahawa hanya dalam beberapa portfolio itu saya boleh membuat perubahan.
+**Rafizi Ramli:** Tapi sebab yang satu lagi — saya selalu percaya kalau you nak join politik sebagai orang muda cuma untuk isi kerusi...
 
-**Penemu Bual:** Bagaimana cita-cita anda untuk menjadi PM berubah dalam tiga bulan terakhir?
+**Host:** Duit dah cukup?
 
-**Rafizi Ramli:** Saya tahu anda tidak akan percaya, tetapi saya tiada cita-cita, walaupun dalam politik. Saya keluar pada kemuncak kemenangan PH pada 2018. Saya hanya keluar dan kata selamat tinggal. Saya pergi berjoging dan saya sangat gembira dengan hidup saya. Saya tidak tahu berapa kali saya perlu mengulanginya; saya tiada minat pada kuasa. Tidak seperti orang lain, saya tidak melihat politik atau kuasa sebagai satu-satunya cara untuk membuat perubahan. Tetapi jika ia datang, ia datang. Tanggungjawab saya adalah memastikan masyarakat tidak kecewa dengan konsep reformasi ini. Bernie Sanders tidak perlu menjadi Presiden AS untuk membuat perubahan. Saya tiada matlamat untuk menjadi menteri. Apabila anda sampai ke tahap saya dalam hidup, ia tidak banyak perbezaan lagi.
+**Rafizi Ramli:** Bukan — itu tak payah jadi ahli politik kalau dah banyak duit. Apa yang saya maksudkan ialah you kena membawa bakat, membawa pengetahuan — you kena bawa kepakaran, baru you boleh menambah nilai. Kalau you datang umur 22 tahun, tiba-tiba kata "saya nak jadi pemimpin besar" — ia tak berfungsi macam tu. Dalam politik, sebaiknya kita ada satu kumpulan ahli politik yang masing-masing membawa kemahiran berbeza untuk kerajaan — seperti satu pengembaraan, satu ensemble.
 
-**Penemu Bual:** Jika tugas memanggil, adakah anda akan menyahutnya?
+**Host:** Jadi, pada tahap ini, bila YB kata seseorang macam Farhaj memegang pengaruh besar dalam parti, untuk apa pengaruh itu digunakan?
 
-**Rafizi Ramli:** Ya, jika tugas memanggil. Tetapi matlamat tidak menghalalkan cara. Saya sentiasa rasa bahawa mengekalkan diri anda dan cuba menjadi sebanyak mungkin seperti siapa anda ketika berusia 20 tahun—budak muda yang bodoh—adalah penting apabila anda meningkat dewasa, kerana anda cenderung untuk hilang pandangan tentang itu. Saya fikir saya sangat naif sebelum ini. Saya melihat dunia dalam hitam dan putih. Sekarang, saya jauh lebih bijak.
+**Rafizi Ramli:** Kalau kita tengok pilihan raya sebelum ini — pada 2018, masa saya bergaduh dengan Azmin, Farhaj tak terlibat sangat, sebab saya ingat Dato' Seri Anwar baru sahaja dibebaskan dari penjara, dan bila pilihan raya nak berlaku, dia kena pergi Jerman untuk pembedahan, jadi dia tak ada masa itu. Tapi menjelang 2022, dia sudah ada faksi sendiri — "Geng Baju Hitam."
 
-**Penemu Bual:** Anda tidak menganggap diri anda jemu?
+**Host:** Okey, boleh terangkan apakah faksi ini? Sebab masa YB bergaduh dengan Azmin dulu, Azmin duk hantar mesej macam-macam.
 
-**Rafizi Ramli:** Tidak, saya tidak. Saya fikir kita telah mencapai banyak perkara. Orang berdebat sama ada saya peduli tentang menjadi PM atau hanya tentang kuasa. Ia bergantung kepada bagaimana anda mengukur pencapaian anda. Jika anda mengukurnya dengan menjadi Menteri atau PM, okay. Tetapi saya ingat dengan tepat apa yang saya mahu lakukan apabila saya masuk politik. Selagi suara progresif itu hidup, itu satu pencapaian. Kita mengambil mudah perkara yang tidak wujud ketika saya muda—demo, backbencher bersuara. Ini adalah pencapaian yang saya sumbangkan. Perubahan tidak berlaku serta-merta; ia secara berperingkat.
+**Rafizi Ramli:** Masa saya ada ketidaksepakatan dengan Dato' Seri Azmin, PKR memang dikenali sebagai parti yang ada banyak faksi — mungkin itu bukan khusus kepada PKR, tapi drama faksi PKR memang nampak paling seronok diikuti. PKR ni amalgamasi daripada kumpulan-kumpulan yang berbeza.
+
+**Host:** Jadi apakah faktor penyatu-nya — adakah satu ideologi, satu prinsip yang sama? Adakah ia Anwar Ibrahim?
+
+**Rafizi Ramli:** Tak, tak — itulah masalahnya. Kerana walaupun dari segi perlembagaan, tawaran reformasi semua tu, pada peringkat itu semua orang setuju. The why and how tu yang berbeza.
+
+**Host:** Kenapa berbeza? Boleh bagi contoh?
+
+**Rafizi Ramli:** Orang yang menyertai PKR yang benar-benar idealistik, macam kami, yang mahukan reformasi — kuasa bukan objektif kami, tak pernah. Kuasa adalah [alat untuk] perubahan, dan saya tak pernah percaya bahawa perubahan berlaku semata-mata dengan menukar kerajaan. Perubahan mesti berlaku dalam masyarakat. Jadi matlamat tidak menghalalkan cara. Sebab itulah konflik dengan Azmin, dari awal, adalah tentang budaya. Contohnya, kalau kita nak bawa perubahan supaya negara lebih baik, tapi cara dan budaya politik yang kita bawa sama sahaja — maka you tak ada beza.
+
+**Rafizi Ramli:** Tapi ada juga kumpulan yang melihat bahawa kuasa itu segala-galanya — you mesti dapatkan kuasa dahulu, dan dengan mendapatkan kuasa itu barulah you boleh buat kebaikan. Jadi untuk mendapatkan kuasa itu, you kena main apa sahaja permainan yang ada. Jadi dalam PKR pada mana-mana satu masa, sekurang-kurangnya mesti ada dua faksi — yang satu, golongan purist, yang rasa okey walaupun ambil masa lebih lama, tapi you kena buat langkah demi langkah, secara sistematik, kerana matlamat tidak menghalalkan cara — dan antitesis di sebelah lagi.
+
+**Host:** Dan adakah geng baju hitam ni antitesis kepada faksi YB?
+
+**Rafizi Ramli:** Tak, geng baju hitam masa dia mula, saya dah tak aktif dalam parti — saya hanya kembali ke parti Mac 2022.
+
+**Host:** Sebelum G15?
+
+**Rafizi Ramli:** Sebelum G15, sebelum pemilihan 2022. Masa itu, geng baju hitam ni menggayakan diri sebagai pembela Anwar Ibrahim.
+
+**Host:** Okey.
+
+**Rafizi Ramli:** Jadi, mereka meletakkan diri seolah-olah Anwar Ibrahim itu segala-galanya. Ia tak berbeza sangat, kalau you baca sejarah — tengok penghujung hayat Mao Zedong, sebelum dia meninggal — you ada Gang of Four.
+
+**Host:** [ketawa]
+
+**Rafizi Ramli:** Gang of Four, yang tak boleh disentuh — maksud saya, tak ada sesiapa boleh sentuh mereka — dan semua orang kena ikut rentak Mao Zedong.
+
+**Host:** Tak, YB memang cikgu sejarah!
+
+**Rafizi Ramli:** Saya boleh buka kelas sejarah! Jadi saya nampak Geng Baju Hitam ada gaya yang sama, sebab kuasa politik dan pengaruh mereka datang daripada Anwar Ibrahim. Tapi dari segi ideologi, tak ada apa-apa pun — tak ada benda macam "raja tidak boleh melakukan kesalahan." Tapi saya pernah ingatkan Dato' Seri Anwar bahawa cara Geng Baju Hitam ini lebih berbahaya daripada "matlamat menghalalkan cara" Azmin.
+
+**Host:** Boleh bagi contoh kenapa?
+
+**Rafizi Ramli:** Itu kena tanya Anwar Ibrahim kenapa dia biarkan mereka begitu.
+
+**Host:** Biar kita jemput Anwar Ibrahim datang ke Sos Cili — dia tanya soalan itu, sebab kami pun nak tahu juga.
+
+**Rafizi Ramli:** Ya, itulah.
+
+**Host:** Okey, sebenarnya YB akan jadi menteri pertama yang menghadiri podcast kita yang masih bekerja — oh, sebenarnya dah bukan menteri sekarang. Sebenarnya kita ada buka ruang soalan kepada penonton-penonton kita, dan...
+
+**Host:** Tapi sebelum itu saya nak tanya lagi. YB kata "matlamat tidak menghalalkan cara" kan — tapi bagi saya, kerana saya pun ikuti kerjaya YB lama, semasa Kajang Move, ia nampak macam itulah tepatnya matlamat menghalalkan cara.
+
+**Rafizi Ramli:** Kalau ada apa-apa pun, saya rasa Kajang Move adalah bukti — you boleh kata sama ada kami naif atau tidak, ia bukti bahawa kami sebegitu purist. Sebab Allahyarham Tan Sri Khalid memang ada kes — tak ada sesiapa mempertikaikan kes dia dengan bank Islam itu. Dia ada RM70 juta, dan perkara itu telah diketahui sejak hari pertama dia jadi Menteri Besar pada 2008, tapi tak selesai, tak selesai, tak selesai — jadi tiba-tiba kes tu settle di luar mahkamah. Jadi pada pandangan kami masa tu, you dah tercalar integriti. You boleh berdebat sama ada itu strategi politik yang baik, tapi golongan purist dalam parti rasa you mesti mempertahankan [integriti parti] — masa tu PKR hanya ada seorang Menteri Besar, you tak boleh biarkan pegawai awam tertinggi [daripada parti kita] terdedah kepada segala tuduhan ini.
+
+**Host:** Tapi apa pandangan YB tentang Zahid Hamidi, atau semua orang UMNO yang currently [dalam kerajaan]?
+
+**Rafizi Ramli:** [keliru dengan nama] Ya, ya, tolong jangan saman saya — Zahid Hamidi. Tak, saya rasa... okey, apa pilihan — kalau you dalam kedudukan kami, apa pilihan yang you akan buat pada hari itu?
+
+**Host:** Betul juga, yeah. Apa pilihan yang YB akan buat?
+
+**Rafizi Ramli:** Agong kata bentuk kerajaan perpaduan dengan semua parti, dan itu bermakna you kena masukkan UMNO. Jadi bila Agong panggil Muhyiddin, Muhyiddin menolak. Agong panggil Dato' Seri Anwar — you kena bentuk kerajaan perpaduan, kalau tidak tak akan ada kerajaan. Jadi kalau you dalam kedudukan itu, apa yang you akan buat? Kalau ia "matlamat menghalalkan cara," you akan terus terima sahaja. Tak, tak, tak, itu bukan matlamat menghalalkan cara.
+
+**Host:** Kerana keadaannya sangat berbeza masa itu — YB nak ada pilihan raya umum lagi satu?
+
+**Rafizi Ramli:** Tak lah.
+
+**Host:** Jadi macam mana?
+
+**Rafizi Ramli:** Saya faham — ya, ya, ya. Tapi dalam kes itu, golongan purist akan kata, secara teori, kita tahu [pendirian berprinsip] adalah untuk tidak masuk ke gelanggang itu langsung. Tapi kalau you lihat, kami berusaha sedaya upaya untuk pastikan susunan itu dimeterai dengan satu perjanjian — ada perjanjian, ada piagam yang jelas tentang apa yang boleh dan tak boleh dibuat, prinsip bersama dan sebagainya. Saya rasa itu keburukan yang lebih kecil daripada dua keburukan yang kita terpaksa hidup dengannya. Isunya, saya rasa, bukan setakat membentuk kerajaan — isunya ialah selepas you bentuk kerajaan, macam mana you bertindak, sebab itu jadi fluid. Bila fluid tu, jadi kadar reformasi, benda tu subjektif. Sampai bila kita nak kata, "oh, kita kerajaan, jadi kita tak boleh buat 1, 2, 3, 4"? Pada satu ketika, saya rasa you mesti tetapkan garisan.
+
+**Host:** Okey, sebenarnya kita dah sentuh beberapa isu, tapi ada beberapa lagi soalan yang kita nak tanya. Tadi...
+
+**Host:** Oh, maaf, maaf. Jadi, ada satu soalan — YB kata YB nak tanya pasal Farhaj.
+
+**Host:** Ya, ya, ya. Jadi — semalam, YB ada kaitan dengan serangan yang baru berlaku...
+
+**Rafizi Ramli:** Saya tak ada kaitan — saya cuma menjelaskan...
+
+**Host:** Okey, maaf. Ada fitnah yang tersebar, dan ia tidak adil kepada Ismail Sabri dan KJ. Jadi, saya faham YB menggalakkan Dato' Seri Ismail Sabri untuk buat laporan polis?
+
+**Rafizi Ramli:** Tak — dia beritahu saya dia akan buat laporan polis, jadi saya kata baguslah, teruskan, saya akan buat bahagian saya, dia kena buat bahagian dia.
+
+**Host:** Dan YB sendiri sudah menjelaskan bahawa pemberi maklumat yang berjumpa YB satu, dua minggu lepas ada kaitan dengan Farhaj. Sebenarnya, bolehkah YB kongsi apakah kes ini pasal — atau masih berjalan?
+
+**Rafizi Ramli:** Prosesnya ialah bila you dah tumpu kepada sesuatu, kemudian akan ada orang bagi maklumat. Maklumat itu bukannya macam kertas siasatan penuh — semuanya berselerak, jadi you kena cari lebih maklumat. Saya sendiri pun ada pengalaman buat ini dari zaman NFC dan sebagainya — ia proses yang sama. Jadi, ia kerja yang sedang berjalan.
+
+**Host:** Saya ada soalan — kutipan maklumat tentang Farhaj ini, ia berlaku sebelum atau selepas YB letak jawatan sebagai Menteri?
+
+**Rafizi Ramli:** Saya sedar — contohnya, bila you dalam kerajaan, you akan sedar tentang kontrak-kontrak tertentu, orang bercakap pasal kontrak ini, kemudian you baca daripada media — laporan media, syarikat ini syarikat itu — kemudian kita ada kawan-kawan dalam korporat, dalam bank, dalam bidang perundangan yang akan beritahu you ini dan itu. Isu yang berkaitan Farhaj ni, orang dah bercakap lama. Cuma pemberi maklumat ni datang selepas saya menyebut bahawa Farhaj perlu disiasat, kerana saya ingat itu kali pertama mana-mana ahli politik menyatakan secara terbuka pasal Farhaj. Jadi bila you buat kerja penyiasatan begini, sebaik sahaja you hantar isyarat itu, terpulang kepada you ke mana ia membawa.
+
+**Host:** Okey, jadi kalau selama ni benda ni dah jadi rahsia umum, semua orang dah tahu, dah membisik-bisik pasal benda ni, kenapa YB mengambil masa yang lama sampai YB jadi orang pertama yang membangkitkan isu ni?
+
+**Rafizi Ramli:** Saya tak tahu maksudnya "mengambil masa yang lama."
+
+**Host:** Macam mana ia jadi YB adalah orang pertama yang membangkitkan isu ini?
+
+**Rafizi Ramli:** Saya tak tahu, kena tanya orang lain lah kot.
+
+**Host:** Dalam semua bisikan-bisikan yang berlaku selama ni, tak ada siapa pernah tanya Dato' Seri Anwar? Orang cakap orang takut kat Farhaj.
+
+**Rafizi Ramli:** Adakah? Saya tak tahu, you kena tanya orang lain, sebab saya tak [tahu]. Cuma sebelum saya meletakkan jawatan, sebarang isu mengenai Farhaj — kerana kalau sebut Farhaj, dia akan dikaitkan dengan Dato' Seri Anwar — jadi perkara ini perlu kita bawa secara dalaman kepada Dato' Seri Anwar.
+
+**Host:** Pada pengetahuan YB, adakah perkara ini disebut berkali-kali?
+
+**Rafizi Ramli:** Tapi jawapan Dato' Seri Anwar itu sama sahaja — dia kata dia bekas setiausaha politik saya. Bukan isu sama ada Farhaj ni bekas ataupun masih memegang jawatan atau tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhaj ada pengaruh yang besar dalam keputusan kerajaan — sama ada betul atau tidak pun, kalaulah tak betul, persepsi itu sudah berbahaya. Jadi memang dibawa kepada Dato' Sri Anwar, tapi jawapannya begitu sahaja — "dia bekas setiausaha politik saya," tak ada apa-apa yang lain — bagi saya, isu Farhaj ini dah dibisik-bisikkan lama.
+
+**Host:** Tapi pembangkang tak ambil kesempatan untuk membawa nama dia keluar dekat media pun.
+
+**Rafizi Ramli:** Kerja penyiasatan ini susah, susah. Saya cuma memberi perhatian — ada juga ahli parti pembangunan yang telah disaman oleh Farhaj. Tapi beberapa isu yang dia nak bawa, untuk dia, cukup sekadar mengatakan dia telah buat kerjanya. Ia tak semudah itu — ambil banyak kerja untuk check satu-satu, confirm semua, bina kes tersebut. Dan kalau contohnya kita tak bersetuju dengan sesuatu dasar, bukan saja tak setuju, kena beritahu kenapa, apa alternatifnya, kira, unjuran, semua itu kena buat. Jadi saya nampak pembangkang tak sampai ke peringkat itu — permainan mereka hanyalah menyebut sahaja dengan harapan orang marah. Kebelakangan ini, antara tahun 2024 sampai awal 2025, sokongan pembangkang dah "plateau."
+
+**Host:** Ya, betul.
+
+**Rafizi Ramli:** Ia dah mendatar sebabnya ialah ada had berapa banyak you boleh perah daripada emosi, you tahu — you kena guna dram yang sama je lah, jadi lama-lama orang bosan. Tapi sebenarnya banyak isu yang boleh dikaji sekarang, kalau saya pembangkang. Tapi saya tengok dia malas.
+
+**Host:** Boleh seronok jadi pembangkang?
+
+**Rafizi Ramli:** Saya tak tahu, saya bukan pembangkang.
+
+**Host:** Tapi kalau mengingat balik zaman YB jadi pembangkang, adakah zaman itu lagi seronok daripada sekarang?
+
+**Rafizi Ramli:** Tak boleh banding, tapi you kena faham — zaman saya jadi pembangkang, saya ada 14 kes. Boleh pakai yang tu, seronok juga. Setiap satu bulan saya masuk lokap. Jadi saya rasa korang, bila korang buat lawak pasal kerajaan, korang kena letak itu dalam perspektif — dan tak masuk lokap, itu sudah satu pencapaian besar.
+
+**Host:** Saya nak tanya pasal poin tu, YB, sebab lepas serangan yang berlaku tu, ramai yang kongsi pendapat mereka bahawa cakap apa pun pasal kerajaan zaman BN dulu, tapi tak pernah masa YB kutuk kerajaan BN dulu, keluarga YB itself kena serang. Adakah YB setuju dengan penilaian itu — bahawa kerajaan BN lebih baik dahulu, sebab sekurang-kurangnya dahulu keluarga YB tidak diserang?
+
+**Rafizi Ramli:** Saya rasa itu bukan perbandingan setara. Adakah kita nak kata, meletakkan saya dalam penjara selama 3 tahun, dalam keadaan anak-anak saya baru berumur 5 tahun, itu tidak kejam? Maksud saya, mengenakan 14 kes ke atas saya, tiap-tiap minggu, kadang-kadang masuk lokap — itu tak zalim ke? Cerita anak ke apa, ini semua sama je. Ini soal bila ada sebarang tekanan ataupun ancaman daripada pihak yang rasa terancam. Dalam kes sekarang ni, saya tak tahu siapa, tapi pihak yang rasa terancam memilih cara yang ganas. Cuma zaman BN dulu, saya ingat zaman Najib, ia melibatkan segala apparatus kerajaan — apparatus bukan kerajaan pun ada. Jadi saya tak kena seorang diri.
+
+**Host:** Atas nota itu, kita nak pergi ke soalan seterusnya.
+
+**Host:** Oh, okey, dah bukan Farhaj ni.
+
+**Host:** Masih Farhaj-light lah, yang ni.
+
+**Host:** Ok, ok — sekurang-kurangnya bukan MCKK macam Victor.
+
+**Rafizi Ramli:** Bukan, bukan, bukan. MCKK dah siap — pasti dah.
+
+**Host:** Ok, jadi yang ni soalan terakhir tentang Farhaj lah — okey, tak direct tentang Farhaj. Saya ada seorang kawan, dia tanya, kerana YB pun dah kena serang — yang ini, yang suntikan tu kan.
+
+**Host:** Kita ada kes-kes lain di mana orang diserang, dan kemudian orang menyalahkan kerajaan dalam satu cara atau lain — kes Pastor Raymond Koh, Pamela, Teoh Beng Hock. Jadi sekarang YB dah masuk kerajaan — apakah perasaan YB tentang kejadian ini? Adakah sama, atau tak? Dalam kejadian macam ini, orang akan sebut perkataan "deep state."
+
+**Rafizi Ramli:** Deep state, ya betul. Maksud saya, saya tak rasa setiap kes boleh diletakkan dalam satu kotak — apple to apple. Ia bukan apple to apple, setiap satu ada faktor uniknya sendiri, keadaannya sendiri. Tapi bila sampai kepada — bila kes-kes ini tidak dapat diselesaikan, sudah tentu orang tanya kenapa begitu, dan selalunya satu perkara yang sentiasa menjadi — saya tak akan kata ia satu dilema, tapi satu pertimbangan besar dalam kerajaan atau jabatan-jabatan kerajaan — adalah untuk mengekalkan reputasi mereka. Itu perlu berubah. Maksudnya, kalau kita kata "deep state," kadang-kadang tak adil kepada ramai pegawai kerajaan lain — kerana majoriti pegawai kerajaan sama macam kita, dia cuma nak buat kerja dengan baik. Tapi ada bad apples — bad apples yang kadang-kadang buat rogue, ataupun ambil rasuah, ataupun ambil arahan daripada orang lain. Cuma bila dah berlaku, kalau ia melibatkan pegawai kerajaan, maka pertimbangan — mekanisme pertahanan ini bahawa kita kena lindungi, kalau tidak nama kita buruk — itu perlu berubah. Kita tak ada fakta kes, dan kita tidak terlibat langsung dalam setiap butiran kecil bagi setiap kes tu, orang kata macam-macam — ada kata deep state, ada kata pihak berkuasa yang terlibat. Saya tak rasa keseluruhannya, contohnya kalau polis — saya tak rasa PDRM semua condone ia. Tapi mereka yang buat keputusan tu, selalunya, walaupun tak terlibat, fikir, "kalau kita buat ni, nanti moral polis jatuh," atau kalau menteri kata, "nanti kita dilihat tidak melindungi penguatkuasa." Mungkin dari sudut itu.
+
+**Host:** Apakah hubungan YB dengan ahli-ahli polis, kerana dulu kena tangkap, sekarang YB suruh mereka tangkap orang lain?
+
+**Rafizi Ramli:** Saya tak — maksud saya itu perkara lain. Menteri tak boleh nak kacau langsung. Sebagai rakyat sekarang, sudah tentu, ia sama macam meminta polis untuk siasat.
+
+**Host:** Jadi, apakah bezanya cara polis mengendalikan kes ini?
+
+**Rafizi Ramli:** Tak ada beza. Saya rasa kalau orang beranggapan you boleh suruh polis sebab you ahli politik atau menteri, itu salah, you tahu. Kita betulkan persepsi itu — undang-undang, dan setiap daripada kita tertakluk kepada undang-undang yang sama. Jadi kalau contohnya saya ditangkap, dituduh melanggar peraturan tertentu, saya perlu disiasat juga. Itu pun sebab tu saya rasa polis suka saya — bila saya ditangkap, saya tak buat apa-apa, saya tak cuba gigit telinga orang, saya tak cuba lari, dia suruh saya jalan, saya jalan.
+
+**Host:** Okey, YB, tapi prinsipnya ialah kita semua tertakluk kepada undang-undang yang sama...
+
+**Rafizi Ramli:** Mungkin secara teori betul, tapi kita nampak banyak contoh di mana undang-undang tak...
+
+**Host:** ...tak diaplikasi secara sama rata. Contohnya, ibu yang curi susu untuk anak dia dipenjara beberapa hari, sementara orang curi berjuta-juta ringgit...
+
+**Rafizi Ramli:** Memang ada persepsi kuat tentang itu. Itu perlu ditanya kepada mahkamah dan juga hakim-hakim. Saya selalu mempertahankan hakim — tapi saya harap, saya nak kongsi satu cerita. Masa saya di UK, setiap kali musim panas semasa saya bercuti, satu perkara yang saya tak pernah lepaskan ialah saya akan luangkan seminggu duduk dalam mahkamah.
+
+**Host:** Di mana mahkamahnya?
+
+**Rafizi Ramli:** Mahkamahnya di Kemaman, di Kuantan. Saya akan duduk di situ — setiap hari saya pergi mahkamah, sebab kalau you nak belajar tentang masyarakat, tempat yang paling baik ialah di mahkamah. Itu drama manusia.
+
+**Host:** Itu aktiviti YB — orang lain pergi clubbing semua, YB duduk dengar!
+
+**Rafizi Ramli:** Sebenarnya, saya harapkan satu perkara — saya harap lebih ramai hakim kita berani menggunakan belas kasihan, sebab saya pernah tengok hakim-hakim, dan saya ingat dengan jelas seorang hakim perempuan di Mahkamah Majistret Kemaman — itu tahun 1996 — ada seorang emak yang dituduh mencuri susu. Dia tak ada peguam, jadi terus ke penjatuhan hukuman, dan dia mengaku. Hakim tu kata, "jangan mengaku, jangan mengaku lagi, jangan mengaku" — you tahu, "tak, tak, jangan mengaku."
+
+**Rafizi Ramli:** Jadi saya harapkan — sebab bila hukuman yang tak setara ni dijatuhkan, curi susu sampai enam bulan penjara — untuk adil kepada kerajaan, sama ada zaman Najib dulu, zaman Anwar, atau zaman siapa-siapa pada masa depan, itu bukan kerajaan — itu hakim yang menjatuhkan hukuman. Sudah tentu, kerajaan boleh disalahkan kalau orang nak kata tak pinda Kanun Keseksaan, tapi peruntukan mencuri dalam Kanun Keseksaan itu selalunya luas. Kalau ada apa-apa pun, kerajaan bersalah kerana tak reform Kanun Keseksaan itu untuk membezakan lagi segala-galanya, tapi ia banyak bergantung kepada pendakwa raya, DPP. Sebab itu saya selalu rasa bahawa menukar kerajaan itu bukan segala-galanya kepada perubahan yang kita mahukan dalam masyarakat — kita perlukan lebih empati, mempertahankan yang lemah. Jadi, di manakah datangnya ketidakadilan ini?
+
+**Host:** Jadi, semasa YB sebagai ahli politik, YB cakap YB hadapi pelbagai hakim, dan masuk lokap berkali-kali. Tapi kita tak nampak benda ini berlaku selalu kepada orang dalam kerajaan.
+
+**Rafizi Ramli:** Apa maksud you?
+
+**Host:** Macam menteri yang aktif, atau parti yang menang — aktivis daripada pihak kerajaan yang masuk penjara, dalam sejarah Malaysia.
+
+**Rafizi Ramli:** Eh, sekarang kita ada Perdana Menteri yang pernah masuk penjara.
+
+**Host:** Ex-ex-ex.
+
+**Rafizi Ramli:** Ex-ex-ex, itulah yang saya kata — semua "ex" sekarang, kan?
+
+**Host:** Ya. Jadi maksudnya, kalau bukan dari sudut polis, dari sudut mana pula — DPP? Peguam Negara?
+
+**Rafizi Ramli:** Melainkan satu hari kita betul-betul berjaya memisahkan kuasa pendakwaan daripada politik — itu juga satu perkara yang kita nak tanya pasal reformasi. Selagi kuasa pendakwaan raya berada di bawah bidang kuasa yang sama dengan pelantikan hakim negeri, dan hakim negeri itu dilantik oleh Perdana Menteri, saya ingat perkara ini akan terus berlaku — maksudnya, kalau you nak siasat menteri, dia fikir dua kali, tiga kali, dan sebagainya — melainkan sudah senang untuk siasat peguam [selepas keluar jawatan].
+
+**Host:** Okey, saya nak masuk soalan ini semula lepas ni. Tapi sebelum itu, next point — berapa banyak soalan YB ada ni, YB? Ini banyak!
+
+**Host:** Bila kita buat call-out untuk soalan, banyak yang masuk. Ini yang paling ramai — berkaitan dengan satu kes yang baru selesai dua hari lepas — mengenai Seksyen 233, "offensive and annoying" dalam Akta MCMC.
+
+**Host:** Kalau saya tak silap, YB pun pernah dibawa ke MCMC?
+
+**Rafizi Ramli:** Tidak, tidak pernah. Saya didakwa di bawah Kanun Keseksaan kerana menghina UMNO. Saya didakwa dan saya menang.
+
+**Host:** Didakwa di bawah Kanun Keseksaan kerana menghina UMNO?
+
+**Rafizi Ramli:** Ada satu kesilapan dalam pertuduhan Kanun Keseksaan itu — kerana menghina UMNO.
+
+**Host:** Okey, tapi kes ini berkaitan mungkin masa YB berada dalam Jemaah Menteri — ada tak perbincangan-perbincangan tentang pindaan akta-akta zalim ini, dan setakat mana perbincangan itu sampai?
+
+**Rafizi Ramli:** Ada. Contohnya, saya ingat pasal perkataan "offensive" dan "annoying" ini. Saya rasa kita kena imbangkan di antara perspektif yang kita lihat melalui lensa politik dengan ancaman daripada perkara "offensive and annoying" yang dibuat oleh orang biasa yang tak ada kena-mengena dengan politik. Selalunya kes yang di-highlight melibatkan politik ataupun hak asasi manusia. Tapi macam mana pula dengan kes-kes buli, perkataan "offensive" tadi — kalau saya tak silap, pindaan itu dibincangkan selepas satu kes seorang wanita yang membunuh diri selepas dibuli secara siber. Sebenarnya undang-undang kita tidak cukup lengkap untuk mendakwa yang terlibat, jadi dia hanya didakwa dengan satu tuduhan yang kecil, dibayar denda, dan dibebaskan sahaja. Jadi on that sense, topi yang saya pakai masa menteri dahulu ialah — sebanyak mana kita, sebagai orang yang partisan, selalu melihat daripada lensa politik, dan kita selalu kata "ni mesti ada benda nak buat ni" — apa yang saya belajar daripada masa saya sebagai menteri adalah dunia ini bukan berputar sekeliling kita. Ada banyak lagi kes orang biasa yang kena buli, offensive, tapi bila nak ambil tindakan tak boleh — contoh kes Zara sekarang, you boleh berdebat sama ada peraturan ini betul atau tidak — pendakwa raya meletakkan peraturan bahawa dia mesti melebihi kebarangkalian tertentu sebelum boleh dakwa, maksudnya kebarangkalian menang, kalau saya tak silap, 90%, baru boleh dakwa. Sebabnya ialah, kalau tak ada peraturan itu, ia membuang masa DPP, dan dakwa, dakwa, dakwa semua kalah, kalah, kalah — itu pun duit pembayar cukai, orang marah juga. Jadi dia letakkan bar itu. Masalahnya, bila you letak bar itu, undang-undang macam ini jarang boleh digunakan untuk mendakwa. Jadi ada kecenderungan untuk mendakwa kesalahan kecil sahaja, dan rakyat pula marah.
+
+**Rafizi Ramli:** Jadi itu kerumitannya — saya rasa isu dengan peruntukan "offensive" Seksyen 233 Akta MCMC ini jauh lebih rumit daripada kes yang dibawa ini. Ia bukan hitam putih.
+
+**Host:** Nak tanya soalan Dr Jason — dia nak strike out, rayuan terhadap keputusan mahkamah untuk strike out "offend and annoy" — tapi Fahmi Fazli, yang kita kenal dia pergi Bersih, cakap anti-korupsi, semua dalam pergerakan anti-reformasi Anwar — jadi kenapa yang ini semua dah tukar?
+
+**Rafizi Ramli:** Saya tahu, ia bukan hitam putih — tepat kerana itu. Dalam kes ini, saya bukan nak bela Fahmi Fazli — satu podcast pun tak akan habis kalau saya nak perli Fahmi Fazli sahaja! Tapi actually, kesan dia kepada orang ramai itu lebih besar. Dan masalahnya, bila undang-undang yang berkaitan dengan perasaan — ini yang berkaitan perasaan ni — sengaja tidak dikhususkan, jadi tak senang. Tapi ketiadaan peruntukan undang-undang akan membolehkan buli, buli siber, dan banyak perkara lain itu tidak boleh diambil tindakan undang-undang. Jadi, biarkan proses itu berjalan.
+
+**Host:** Maksudnya, kalau draf yang ada sekarang ini mahkamah tidak bersetuju, kerajaan kena tengok balik, redraft balik?
+
+**Rafizi Ramli:** Tapi pandangan saya, kena ada peruntukan undang-undang bagi perkara-perkara yang berkaitan dengan tindakan jahat, terutamanya yang berselindung di sebalik era digital ini — kita perlukan undang-undang untuk itu. Tapi kita ada undang-undang untuk fitnah dan semua itu juga, you tahu — you kena bayar ganti rugi untuk kenyataan palsu. Ia bukan — you tahu betapa susahnya nak melalui saman fitnah. Jadi katakanlah kalau fitnah, orang kata "saman lah" — you nak buka satu fail, sekurang-kurangnya beberapa ribu ringgit. Lepas itu turun naik mahkamah lima tahun. Untuk ahli politik atau ahli perniagaan macam Farhaj, bolehlah. Tapi kalau orang biasa? Sebab itu mereka just give up. Dan sepatutnya undang-undang melindungi orang macam ini.
+
+**Rafizi Ramli:** Kalau tak ada perlindungan, sebab itulah ia mesti — bagi saya, ia mesti dikodkan dalam undang-undang — untuk kita melindungi orang-orang yang tak ada akses kepada benda-benda macam ini. Jadi dari segi fitnah pun, kalau ia bukan bersifat jenayah, contohnya kalau perbuatan itu menghamburkan kata-kata yang menyebabkan berlakunya jenayah selepas itu—
+
+**Host:** Jadi buat masa ini untuk kes buli siber, walaupun seseorang mati, tak ada sesiapa dihukum oleh undang-undang?
+
+**Rafizi Ramli:** Undang-undang tidak mencukupi untuk perkara itu, seperti yang saya fahami daripada perbincangan-perbincangan dalam kerajaan sebelum ini. Undang-undang— cuma kesukarannya, kita memang bincang, "offensive" dengan "annoyed" ni macam mana nak bezakan? Ia terlalu longgar.
+
+**Host:** Macam mana?
+
+**Rafizi Ramli:** Offensive lah. Sebab ada orang rasa tersinggung, ada orang tidak, dan akan ada pihak yang kata ini akan disalahgunakan. Ini telah dibangkitkan di dalam kabinet — macam mana kita nak pastikan ia tidak disalahgunakan, contohnya oleh ahli politik, atau even Jason Leong buat lawak yang dia rasa funny tapi ia offensive kepada orang lain. Macam mana you nak lindungi dalam situasi macam itu?
+
+**Host:** Boleh, boleh.
+
+**Rafizi Ramli:** Jadi ia dibangkitkan dan diperdebatkan. Sebab itu, bagi saya, proses itu kena berlaku — maksudnya kalau mahkamah dah strike it down, you kena draft balik, kena lalui proses itu semula. Tapi pada masa yang sama, kalaupun ada kesilapan, Fahmi Fazil patut pergi terangkan kepada rakyat, kenapa you perlukan ini. Pastikan orang faham — siapa yang baca semua Akta Multimedia ni? Siapa baca Kanun Keseksaan? Kecuali you pergi mahkamah macam saya ni, selalu kena dakwa. Kebanyakan orang tak tahu apa itu. Sepatutnya diterangkan betul-betul supaya cukup ramai orang faham, dan pada masa yang sama boleh sumbang pendapat. Macam mana kita nak urus keseimbangan itu.
+
+**Host:** Jadi apa yang YB katakan ialah menteri komunikasi ada masalah komunikasi.
+
+**Rafizi Ramli:** Saya tidak perlu mengatakan itu — semua orang sudah tahu itu. Kami sudah jemput YB Fahmi Fazil. InsyaAllah lepas ini dia akan terima jemputan kita.
+
+**Host:** Itu satu kenyataan yang under-statement kalau dia yang cakap. Baiklah, mungkin kita pergi ke soalan seterusnya, berkaitan dengan Jemaah Menteri. Berdasarkan pengalaman YB sebelum ini bersama mereka dalam kabinet, ahli mana yang YB rasa paling underwhelming, dan yang paling mengagumkan YB selepas melihat prestasi mereka?
+
+**Rafizi Ramli:** Saya ni sangat susah nak berpuas hati.
+
+**Host:** Okay, yang paling kurang mengecewakan kalau begitu.
+
+**Rafizi Ramli:** Haa, nanti awak kata saya bias. Biar saya bagi, saya rasa, beberapa kelompok menteri. Saya rasa menteri-menteri daripada UMNO — contohnya Tok Mat, Khalid Nordin, kalau nak adil, Azalina — mereka tahu macam mana nak buat kerja mereka, sama ada apa yang mereka buat itu perkara biasa atau ada benda baru pun. Tapi boleh nampak yang mereka berada dalam kawalan, sebab pengalaman — dia dah lama jadi menteri. Jadi itu satu kategori.
+
+**Host:** Maksudnya itu satu standard?
+
+**Rafizi Ramli:** Bahawa orang yang sudah biasa jadi menteri ni, dia tak gayat. Dia tahu macam mana nak buat. Ia hanya soal sama ada mereka nak dorong perkara-perkara baru atau tidak. Kemudian kita ada satu kategori menteri-menteri baru yang tak pernah jadi menteri langsung, dulunya daripada pembangkang — dan ini kali pertama mereka jadi menteri. Saya akan kata, contohnya, Nga menguruskan dengan baik. Armizan pun menguruskan dengan baik — itu pandangan saya. Loke pula, dari DAP, awak boleh nampak dia tak gayat dan dia boleh command. Kemudian ada satu lagi kelompok — yang out of the league. Mereka struggle, saya rasa, pertama dari segi mengendalikan kerumitan dan pelbagai masalah yang timbul, kedua dari segi idea, dan ketiga — dan ini yang paling penting — dari segi command. Awak tahu, pegawai-pegawai kerajaan ni, mereka boleh hidu bau darah. Maksudnya kalau menteri itu masuk, lepas dua tiga bulan, dia tahu — menteri ni nak baca fail pun orang kena buat nota untuk dia. Pergi ke Parlimen pun panik. Apa nak jawab, mana jawapan — semua tak ada. Mereka tahu terus menteri tu boleh "dimakan." Itu kita tahulah. Ada beberapa menteri yang pernah saya sebut — kebanyakannya daripada PKR juga — Fadlina, Zaleha, Fahmi — kerana mereka tidak pernah menguruskan sebarang organisasi sebelum ini. Maksud saya, kelebihan yang saya ada ialah kerana saya pernah bekerja — saya ada syarikat sendiri, saya pernah bekerja dalam organisasi besar, dalam dunia korporat, kemudian saya urus syarikat saya sendiri dan sebagainya. Malah menguruskan INVOKE dulu, dengan lebih 40,000 sukarelawan, itu adalah organisasi yang besar. Awak tahu disiplinnya, gaya pengurusannya dan sebagainya. Tapi kalau, contohnya, awak tak pernah urus pasukan lima orang, tiba-tiba awak kena urus lima ratus ribu orang — itu susah. Mustahil.
+
+**Host:** Ini membawa kita dengan baik kepada soalan seterusnya. Ini berkaitan dengan tanggapan bahawa kebanyakan reform yang rakyat mahu lihat belum juga tercapai setakat ini, dan banyak kali kita dengar UMNO dijadikan kambing hitam — bahawa perkara-perkara ini tidak boleh dilaksanakan kerana tentangan daripada mereka. Sejauh mana benarnya itu?
+
+**Rafizi Ramli:** Saya sebenarnya tidak bersetuju, dan ini kali pertama saya meletakkannya secara rasmi.
+
+**Host:** Okay.
+
+**Rafizi Ramli:** Melainkan ia berlaku di belakang saya — maksudnya di luar kabinet — itu bukan pengalaman saya. Kawan-kawan UMNO, jangan marah saya — tapi UMNO berada dalam permainan untuk kuasa, dari dulu sampai sekarang, dan begitu juga mana-mana parti politik lain. Cuma UMNO ini lebih lama, jadi mereka lebih faham dinamik kuasa. UMNO juga tahu, contohnya, untuk konstituen tradisi mereka — Melayu kampung — itu satu pertarungan yang sukar, sebab ada PAS, ada PN. Untuk bertanding dari segi undi Melayu, tak semudah itu sebab ada DAP bersama kerajaan sekarang. Jadi mereka sedang mencari konstituen baru — konstituen yang UMNO pernah ada tetapi hilang, contohnya Melayu bandar, contohnya bukan Melayu, contohnya golongan berpendidikan yang selama ini beralih kepada PKR/PH. Jadi sebenarnya, apa-apa yang membuat kerajaan ini popular kepada konstituen yang mereka nak fokus — UMNO okay dengan itu. Saya tak nampak UMNO ada masalah dengan itu, dan saya tak ingat sangat pun UMNO membantah — termasuk perkara-perkara yang agak radikal yang saya bawa. Kalaupun ada yang tak setuju, mereka tak bantah depan saya — mereka bantah di belakang. Kadang-kadang saya dengar itu bila saya tanya kenapa, dan mereka datang jumpa saya secara peribadi untuk beritahu tak setuju. Tapi secara rasmi, on record, saya rasa kita perlu betulkan tanggapan bahawa kelajuan reform ini perlahan disebabkan UMNO. Menjadikan UMNO kambing hitam tidak akan menyelamatkan PKR atau PH pun.
+
+**Host:** Okay, jadi biar saya spesifik tentang apa yang saya maksudkan dengan kelajuan reform yang perlahan ini. Kita boleh lihat daripada janji-janji manifesto PRU15, contohnya pemisahan Peguam Negara dan Pendakwa Raya, pencalonan untuk Ketua MACC/SPRM — adakah janji-janji ini menjadi halangan, atau adakah ia hanya soal kelajuan?
+
+**Rafizi Ramli:** Bukan itu masalahnya. Kalau pemisahan kuasa Peguam Negara daripada kerajaan itu dibawa, semua orang bersetuju — hanya orang mungkin tidak berpuas hati dengan kelajuannya. Sebab proses untuk meminda undang-undang itu semuanya dijangka mengambil masa dua hingga tiga tahun, dan itu, mengikut standard kerajaan — dulu dan sekarang — boleh diterima. Sebab pengalaman saya, untuk buat satu akta biasanya mengambil masa tiga hingga empat tahun. Dalam kes saya, kami siapkan satu akta dalam 11 bulan, tapi ia sebenarnya sangat mencabar untuk buat dalam 11 bulan; tak senang. Jadi untuk sesuatu yang sebesar pemisahan kuasa Peguam Negara ini, yang melibatkan institusi dan undang-undang sedia ada, masa yang diambil itu adalah wajar.
+
+**Host:** Ada cerita tak, YB — contohnya salah satu janji kempen yang YB cuba bawa masuk sebagai sebahagian daripada Kementerian Ekonomi tetapi tak menjadi dalam kerajaan perpaduan ini?
+
+**Rafizi Ramli:** Tak ada satu pun janji itu di bawah bidang tugas Kementerian Ekonomi, dan awak tak boleh kacau kementerian lain. Maksud saya, awak jadi menteri yang lousy kalau dalam kabinet, portfolio sendiri awak tak buat apa, tapi awak sibuk kacau portfolio orang lain. Jadi itu satu perbatasan. Adakah ada bangkangan? Tak ada — memang dah ada keputusan kabinet untuk perkara itu berlaku. Tapi soalnya sama ada awak boleh buat dalam setahun dua tahun, berbanding tiga empat tahun. Itu yang saya rasa, mungkin, boleh dipercepatkan.
+
+**Host:** Kalau macam itu, contohnya isu seperti pindaan supaya segala perlantikan penting perlu melalui parlimen khas — adakah itu juga sebab, atau itu tak pernah dibawa langsung?
+
+**Rafizi Ramli:** Itu tak pernah dibawa. Sebab macam ini — sesuatu perkara itu mesti dibawa oleh kementerian masing-masing, kecuali diarahkan oleh Perdana Menteri. Perlantikan, contohnya Ketua MACC dan sebagainya, semua itu kuasa Perdana Menteri. Jadi kalau Perdana Menteri tidak membawanya, selain kita boleh sebut sana-sini dalam mesyuarat parti, ya, mati di situ. Sebab itu saya rasa sebahagian daripadanya, Dato' Seri Anwar perlu jawab — untuk meletakkan kesalahan atas UMNO bila sebenarnya tidak begitu adalah tidak adil. Tentulah kalau tanya Dato' Seri Anwar, dia ada alasan dia — setiap satu ini, contohnya kalau perlembagaan kata begini... Kalau MACC, saya tak rasa ia perlembagaan pun — ia akta. Ia tidak memerlukan pindaan perlembagaan, tapi kalau akta, dia perlu ambil pandangan pemegang taruh yang lain. Tapi saya masih rasa, sekurang-kurangnya, perkara itu boleh dibincangkan. Tapi memang tidak dibawa — kecuali awak nak bergaduh dengan PM, tanya kenapa tak bawa yang ini, kenapa tak bawa yang itu.
+
+**Host:** Jadi apa yang tadi dikatakan itu tanggungjawab kolektif?
+
+**Rafizi Ramli:** Kolektif. Tanggungjawab kolektif.
+
+**Host:** Okay, bertanya sebagai seorang pengundi — masa saya letakkan undi saya dalam kotak mengundi, benda-benda yang saya harapkan waktu itu — adakah saya boleh terus berpegang kepada harapan-harapan itu, atau patutkah saya lepaskan sahaja?
+
+**Rafizi Ramli:** Saya rasa apa yang berlaku sekarang ini bagus — maksudnya kerajaan ini perlu mengimbangi tuntutan semua pihak, macam-macam kumpulan — kaum, contohnya, satu kumpulan; kelas, satu kumpulan lagi, dan sebagainya. Kerajaan boleh kata, "kita perlu imbangkan, dan kita nak beri keutamaan kepada perkara-perkara tertentu dulu sebelum yang lain." Tapi di pihak rakyat, setiap kumpulan berhak menuntut apa yang penting untuk dia, dan mana-mana yang tidak diutamakan atau dipercepatkan itu, tercicirlah. Jadi keadaan sekarang ini, saya rasa memang akan ada bising sana-sini, orang tak berpuas hati — dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas platform reform. Awak kena imbangkan; dan kalau saya jadi rakyat atau salah satu kumpulan itu, saya pun akan rasa isu saya sepatutnya diutamakan, sebab bila dah menang, saya nak isu saya dinaikkan ke atas. Jadi saya rasa tekanan dan wacana itu mesti diteruskan.
+
+**Host:** Tadi kita minta YB memberi gred untuk prestasi ahli-ahli menteri; sekarang mungkin kita boleh masuk kepada soalan-soalan polisi. Berdasarkan kerja kerajaan selama ini, adakah kelajuannya memuaskan?
+
+**Rafizi Ramli:** Tak, saya rasa perlahan.
+
+**Host:** Kenapa perlahan?
+
+**Rafizi Ramli:** Ia gabungan beberapa isu. Ini adalah momentum yang saya tetapkan untuk diri saya sendiri bila saya mula-mula ambil alih jawatan — kita ada lima tahun untuk satu penggal kerajaan. Perubahan-perubahan asas dan visi yang perlu dibuat, mesti dicuba dalam dua tahun pertama, supaya selepas itu awak fokus kepada pelaksanaan. Jadi sama ada awak nak tukar undang-undang atau awak nak lancarkan benda baru, buat dalam dua tahun pertama, supaya selepas itu ia mula ada legasi, ada kesan kepada rakyat — dari segi ekonomi, undang-undang — supaya tiga tahun berikutnya, awak fokus kepada pelaksanaan. Tapi, sebab masing-masing bergantung kepada kementerian masing-masing, menteri masing-masing, dan juga kepada Perdana Menteri, saya rasa dalam dua tahun pertama itu, ada menteri yang masih mencari ritma — dia sendiri masih dalam proses pembelajaran, nak belajar semua ini. Jadi perkara-perkara yang sepatutnya, pada saya, menetapkan rentak dari awal, terserah kepada kementerian masing-masing — itu yang pertama. Kedua, perkara-perkara reform besar, contohnya dari segi perlantikan dan sebagainya — itu tak boleh tunggu lama, sebab orang akan menuntut selepas setahun. Kemudian kita ada pula kes seperti Tan Sri Azam Baki yang berlanjutan, jadi orang memang marah — dan perkara-perkara itu sepatutnya di bawah kawalan Perdana Menteri, perlu dibuat dalam tempoh dua tahun yang sama. Setakat ini kita tahu, itu semua tak berlaku sepenuhnya.
+
+**Host:** Untuk faham dinamik ini lebih lanjut, contohnya seperti PADU — inisiatif itu datang daripada kementerian YB sendiri kan? Jadi lepas itu macam mana — YB hantar emel kepada PM dulu, atau hantar kepada kabinet, dan dapat konsensus atau bantahan? Itu dinamiknya, atau YB bebas untuk buat apa sahaja yang YB nak buat?
+
+**Rafizi Ramli:** Tak, tak. Apabila sesuatu keputusan itu melibatkan dasar atau akta yang perlu ditukar, atau bidang kuasa orang lain, awak kena bawa ke kabinet. Jadi dalam kes PADU, contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Bila dipersetujui di situ, dibawa ke kabinet, dan kabinet setuju. Jadi semua setuju — tak ada yang tak setuju. Tapi budaya kita di Malaysia ini, seperti saya katakan tadi, dia setuju depan, sabotaj di belakang. Tadi ada orang tanya apa status PADU sekarang — PADU beroperasi 100 peratus. Masa kita bentangkan dan dapat arahan untuk buat, diagnosisnya ada dua tiga keperluan. Kenapa kita perlukan satu pangkalan data utama yang bersepadu — satu, dari segi kos, lebih daripada apa-apa lain. Apa maksudnya? Contohnya, kerajaan belanja setiap tahun lebih kurang RM13 bilion untuk sistem IT — lebih kurang RM7 bilion sebagai capex, RM6 bilion sebagai opex. Kenapa ia terus naik dari tahun ke tahun? Sebab sistem-sistem ini tidak bersepadu. Setiap kementerian, setiap jabatan, buat sistem dia sendiri, dari kosong. Kalau awak tahu macam mana nak bina sistem, buat dari kosong bermakna back-end awak kena buat balik, front-end pun sama — dan back-end merupakan bahagian besar daripada perbelanjaan. Kemudian awak lalui proses yang sama lagi — awak suruh orang mendaftar, awak belanja untuk promosi dan sebagainya. Semua maklumat ini sebenarnya sudah ada dalam kerajaan.
+
+**Host:** Cuma undang-undang tidak membenarkan perkongsian?
+
+**Rafizi Ramli:** Betul. Undang-undang tak membenarkan perkongsian.
+
+**Host:** Oh, saya tak tahu itu. Jadi bukankah itu hanya soal membaiki data?
+
+**Rafizi Ramli:** Oh tidak, ia lebih rumit daripada itu. Pertama, kenapa penggabungan data dalam sistem kerajaan ini baru berlaku sekarang? Tak pernah berlaku sebelum ini. Takkanlah kerajaan-kerajaan sebelum ini tak pernah terfikir untuk buat ini — mereka memang terfikir, tapi mereka berputus asa, sebab mereka perlu tukar undang-undang dahulu, kemudian gabungkan semua data ini. Dalam akta, memang disebut tak boleh kongsi data dengan pihak lain — sebab isu privasi.
+
+**Host:** PDPA?
+
+**Rafizi Ramli:** Bukan, PDPA datang jauh kemudian. Contohnya, akta pendaftaran — bidang kuasanya ialah Jabatan Pendaftaran Negara. Bila kita daftar IC, sijil lahir dan sebagainya, akta itu memberi kuasa untuk mengumpul data dan maklumat itu hanya kepada Jabatan Pendaftaran Negara, dan akta itu secara spesifik menyatakan data itu tidak boleh dikongsi. Begitulah keadaannya bagi setiap satu akta. Jadi awak kena melepasi halangan itu — perlukan satu keputusan dasar kerajaan untuk kongsi data, dan kita nak kumpulkan semua data itu — hence PADU. Selepas itu kita ada Akta Omnibus, Akta Perkongsian Data pun sudah ada. Kemudian, bila itu sudah ada, awak sebenarnya kena buat pula. Sebabnya, kalau kita ada satu pangkalan data yang bersepadu di back-end, selepas ini setiap app atau sistem baru hanya perlu fokus kepada front-end — kulitnya sahaja — sebab awak boleh tarik data yang sama daripada situ. Kepada pengguna pula, takkan kat JPJ daftar sekali, Jabatan Pendaftaran Negara daftar sekali lagi — kita selalu complain pasal ini. Tapi bila kita buat PADU, orang bandar seperti kamu semua pun yang paling bising. Sebab ia isu masa — bertembung dengan pengumuman penyingkiran subsidi petrol. Itulah sebabnya orang tanya apa jadi dengan PADU. Sebenarnya, bila awak sudah ada semua data ini daripada semua jabatan kerajaan, dan kita buka peluang kepada rakyat untuk mengemas kini — sebab kerajaan sudah pun ada data awak daripada LHDN, daripada KWSP, kerajaan tahu berapa gaji awak — awak boleh tambah atau betulkan, kalau tidak orang akan kata data itu salah. Jadi bila kita buka, kegunaan pertama, bila awak dah ada semua itu, sebenarnya itu adalah data paling tepat tentang kedudukan sosio-ekonomi mana-mana keluarga. Jadi kalau awak nak buat penyasaran semula subsidi yang betul-betul tepat, itulah data yang kita ada. Jadi ia bukan soal PADU — ia soal kegunaan. Kegunaan paling besar yang patut digunakan ialah untuk penyasaran semula subsidi. Tapi MOF tak bersetuju.
+
+**Host:** MOF nak guna cara dia sendiri? Kenapa?
+
+**Rafizi Ramli:** Saya rasa sebahagiannya politik. Awak kena ingat, kerajaan gabungan ini menghadapi banyak cabaran. Sebab bajet untuk bantuan-bantuan yang diagihkan oleh pelbagai jabatan — kerajaan ada sekitar 217 bentuk bantuan tunai, dengan bajet lebih kurang RM26 bilion. Idea PADU ialah, sekali dah ada pangkalan data berpusat, tak payah lagi lima, enam, tujuh jabatan bagi secara berasingan. Sebab bila diagihkan secara berasingan, ada exclusion error, ada inclusion error — ada orang dapat empat kali, ada yang tak dapat langsung, sebab data itu berasingan. Selepas ini, dengan satu pangkalan data sahaja, semua itu tersusun — tapi itu bermakna hilang pengaruh, hilang kuasa, hilang bajet untuk jabatan-jabatan berkenaan. Periuk nasi tertutup. Jadi sebab itulah, bila nak melaksanakan PADU, banyak tentangan. Ada juga yang rasa kalau kita buat penyasaran semula subsidi, kita akan kalah pilihan raya — DAP contohnya mati-matian tak bersetuju.
+
+**Host:** Kalau katakan saya nak dapat bantuan, dan saya boleh letak pendapatan saya, saya boleh kemas kini maklumat itu sendiri — saya mungkin ada bisnes sendiri yang bergaji RM10,000 sebulan, tapi saya declare pendapatan saya RM1,000 sebulan, dan tak ada cara nak check benda itu sebab saya freelance — soalan tambahan ini pun ramai orang tanya, T15/T10 macam mana nak disemak?
+
+**Rafizi Ramli:** Sebenarnya kalau awak freelance, awak masih perlu bayar cukai, awak masih fail LHDN. Jadi kalaupun tak ada dalam KWSP, ia akan ada dalam LHDN. Yang betul-betul berisiko tak ada maklumat daripada LHDN mahupun KWSP hanyalah pekerja informal yang gaji rendah — RM1,500, RM2,000 — dan orang macam ini besar kemungkinan memang layak untuk dapat bantuan. Tapi kalau orang yang memang berpendapatan tinggi, ia akan muncul di suatu tempat — sebab itu kita perlu gabungkan semuanya. Jadi kalau dia mis-declare pun, memang ada algoritma yang akan check — dia kata pendapatan seribu, tapi kereta dia BMW, rumah dia macam ini, di LHDN rekod cukai tiga tahun terakhir menunjukkan lain. Algoritma itu akan secara automatik flag perkara itu.
+
+**Host:** Itu juga sebahagian sebab saya rasa ada orang tak suka PADU — mereka takut dengan ketelusan itu, takut kerajaan akan tahu mereka misdeclare atau under-declare.
+
+**Rafizi Ramli:** Ya, betul. Ada juga, terutamanya orang bandar, yang melihat PADU sebagai satu cara kerajaan untuk mengejar orang bayar cukai. Jadi bantahan terhadap PADU ini banyak sebabnya — dalam kerajaan sendiri ada bentuk lain, orang ramai pun ada bentuk lain. Tapi sebagai sebuah negara, kita tak boleh bergerak ke depan tanpa satu pangkalan data berpusat. Dan kerja itu sudah selesai. Mana-mana kerajaan yang masuk selepas ini tinggal cuci kaki sahaja — sudah ada. Mereka cuma perlu fikirkan bagaimana kegunaannya nak digunakan. Sekarang PADU sudah ada beberapa kegunaan — contohnya PTPTN sedang mengusahakan penggunaan untuk pertimbangkan bagaimana bayaran bulanan patut dikategorikan mengikut kumpulan sosio-ekonomi, dan mereka fall back kepada PADU. Begitu juga yang lain — setiap kali sesebuah agensi perlu menilai kedudukan kewangan atau sosio-ekonomi seseorang dengan lebih adil, mereka akan fall back kepada PADU.
+
+**Host:** Cuba saya faham — jadi sekarang status PADU ialah pangkalan data asas sudah siap dan boleh digunakan oleh setiap kementerian, tapi kegunaannya belum siap sepenuhnya?
+
+**Rafizi Ramli:** Kegunaan yang belum dipersetujui hanyalah untuk RON95 — terutamanya bila PM sudah umumkan tak akan ada penyasaran semula subsidi untuk itu, sebab harga akan turun kepada RM1.69 untuk semua, jadi tak perlu pangkalan data untuk itu — semua orang akan dapat. Tapi untuk kegunaan lain yang orang ramai tak tahu — contohnya Kementerian Digital sedang membangunkan satu aplikasi tersentral, saya rasa MyGov namanya, sebab sekarang ada macam-macam app, setiap satu kos duit, tak dikemas kini, vendor pun banyak, dan kepada rakyat ia menyusahkan — sepatutnya cuma satu app sahaja yang ada semuanya. Itu sebahagian daripada usaha mendigitalkan kerajaan. Jadi Kementerian Digital, semasa membangunkan itu — saya tak tahu bila mereka akan lancar — back-end-nya memanglah PADU. Cuma rakyat tak nampak; PADU seolah-olah nampak macam RON95 sahaja, sedangkan ia jauh lebih luas daripada itu. Bayangkan, awak tak ada back-end untuk sistem awak. PADU itulah back-end untuk sistem kerajaan, dan ia sudah siap.
+
+**Host:** Maksudnya sekarang YB, dengan kementerian YB, telah menghancurkan semua silo?
+
+**Rafizi Ramli:** Bukan sepenuhnya begitu. Selepas PADU wujud, boleh sahaja KPM atau kementerian lain masih menjaga silo mereka sendiri — masih ada pangkalan data sendiri. Sebab bila kita buat PADU, kita bukan hapuskan semua pangkalan data lain, tapi ia mengekstrak daripadanya. Sekarang, sebab ini sudah jadi dasar kerajaan untuk kongsi dan gabungkan data, mereka mesti bagi — KWSP bagi, LHDN bagi. Jadi pangkalan data mereka masih ada, cuma untuk beberapa kementerian yang besar — MOF, KDN, Jabatan Pendaftaran Negara — tapi kementerian yang kecil, tak masuk akal untuk mereka belanjakan duit membangunkan pangkalan data sendiri sebab tak akan boleh menyaingi pangkalan data PADU yang besar. Jadi mereka akan gunakan PADU sahaja. Tapi tak ada apa yang menghalang mereka — cuma mungkin rakyat tak faham "ikan besar" ini. Dalam RMK-13 pun kita sudah letakkan senibina perusahaan (enterprise architecture), dan senibina ini mesti berada di atas sekali, menggabungkan semua kementerian. Jadi kalau ada kementerian atau jabatan yang cuba buat sistem sendiri tapi tak fit ke dalam senibina perusahaan itu, dan oleh itu perlu dibuat dari awal — bila mereka minta bajet daripada Kementerian Ekonomi, kami tak akan bagi. Sebab awak tak perlu buat A, B, C, D, E — awak hanya perlu buat C dan D, sebab yang lain sudah ada dalam PADU. Itulah cara awak mengawalnya juga.
+
+**Host:** Saya rasa kita perlu beralih daripada topik itu. Baiklah, mungkin kita masuk soalan terakhir — Cyber Troopers. Dari segi penyampaian maklumat, usaha untuk menyampaikan inisiatif kerajaan, kebanyakannya dilakukan oleh cyber troopers. Kami dapat dua soalan berkaitan itu. Yang pertama, salam daripada Wahid — kepada Rafizi Ramli sebagai aktivis politik: kenapa ramai penyokong YB yang bersifat rasis, seksis, ableist dan klasis? Satu lagi soalan — adakah YB sedar ramai orang di Twitter, kebanyakannya misogynist dan bullies, dan adakah ada apa-apa yang sekurang-kurangnya pemimpin PKR akan buat tentang perkara ini?
+
+**Rafizi Ramli:** Tak, saya rasa saya tak boleh campur adukkan itu. Itu saya kekalkan — kadang-kadang bila ada yang kasar atau apa-apa, sebab kalau saya block je, orang bising-bising, block je lah. Sebabnya begini — kita ini negara yang pandangannya sangat berbeza-beza. Orang ini kata seseorang seksis dan sebagainya, orang lain pula kata sebaliknya. Maksud saya, ini dunia bebas — ini Twitter, ini X. Gaduh lah kat situ. Contohnya ada dua tiga orang penyokong PSM yang mengadu sokongan mereka teruk — saya tak boleh pergi marah PSM sebab saya tak suka suara seseorang di situ. Saya tak boleh, dan awak tak boleh apply satu peraturan kepada diri sendiri tapi peraturan lain untuk orang lain. Jadi biarkan sahaja. Kalau pada saya, awak tak suka sangat, maka jangan ambil hati — kecuali awak nak report sebab benda-benda itu annoying dan offensif. Sebab apa yang offensif kepada awak mungkin tak offensif kepada orang lain. Jadi ia selalu ada dua sisi mata wang. Ada orang kata macam ini, ada orang pandang kita secara berbeza. Jadi bagi saya, biarkan sahaja — payah-payah nak block atau comment. Itu sahaja.
+
+**Host:** Okay, soalan terakhir — ini soalan pertama yang kami tanya dan juga soalan terakhir. YB pernah menulis di MCKK, buat profiling dulu—
+
+**Rafizi Ramli:** Eh, orang yang letak benda itu dah meninggal, pergi tanya dia. *(ketawa)* Nak jadi PM?
+
+**Host:** Kalau boleh — kalau YB nak. Tapi sebelum itu, saya ada satu soalan susulan. Kalau YB boleh pilih mana-mana kementerian sekalipun untuk diambil alih pada masa depan, yang mana satu? Saya ada bertaruh dengan salah seorang kru YB tentang kementerian mana yang YB akan pilih — yang mana paling impactful untuk YB, bila YB nak buat perubahan?
+
+**Rafizi Ramli:** Saya tak tahulah macam mana orang lain nak jadi menteri atau kenapa mereka nak jadi menteri. Saya rasa, kalau awak masuk politik dan awak nak berkhidmat dalam kerajaan, itu bermakna awak nak buat perbezaan. Dan awak hanya boleh buat perbezaan kalau awak passionate tentang benda itu. Saya hanya passionate dalam dua tiga perkara — pertama, ekonomi, apa-apa yang berkaitan ekonomi; kedua, pendidikan; ketiga, yang berkaitan industri — teknologi, industri-industri. Sebab benda-benda itu adalah sesuatu yang saya tahu, saya pernah terlibat, dan bukan sekadar IT sahaja.
+
+**Host:** Seperti MITI, maksud YB?
+
+**Rafizi Ramli:** Tak, maksud saya — janganlah letak saya di Kementerian Belia dan Sukan contohnya, saya tak boleh buat perbezaan di situ. Ia seperti — sebab awak tak bagus dalam sukan masa di MCKK dulu kan? Kalau awak jadi PM, bila awak nak assign seseorang kepada satu kementerian atau portfolio, ia mesti sesuatu yang bersesuaian dengan kepakaran dan minat dia, barulah dia boleh buat kerja dengan baik. Jadi saya rasa saya dikenali — saya hanya bagus dalam beberapa perkara ini sahaja. Kalau saya jadi Menteri Luar, mesti berperang — saya bukan diplomat, saya cakap apa yang saya nak cakap. Janganlah letak saya jadi Menteri Agama contohnya. Jadi saya rasa hanya dalam beberapa portfolio ini sahajalah saya boleh buat perbezaan.
+
+**Host:** Dan bagaimana pula cita-cita untuk jadi PM — macam mana timeline itu berubah dengan perkembangan-perkembangan tiga bulan kebelakangan ini?
+
+**Rafizi Ramli:** Saya tahu kamu semua tak akan percaya — saya tak ada ambisi langsung dalam politik pun.
+
+**Host:** Sejujurnya, YB agak konsisten tentang itu.
+
+**Rafizi Ramli:** Tak, tak ada bukti kepada sesiapa — mana ada ahli politik yang boleh berjalan keluar dan berkata selamat tinggal macam yang saya buat beberapa tahun lalu. Namakan seorang. Saya walk out di kemuncak PH menang 2018 — saya just walk out dan cakap bye-bye, good luck to you guys. Saya pergi jogging dan saya sangat happy dengan hidup saya. Sekarang pun saya boleh just walk out. Saya tak tahu dah berapa kali saya kena ulang — sebenarnya saya tak ada minat dalam kuasa. Dan tak seperti orang lain, saya rasa saya tak melihat politik atau kuasa sebagai satu-satunya cara untuk membuat perbezaan atau perubahan. Tapi — itu satu "tapi." Maksud saya, kalau ia datang, ia datang. Tanggungjawab saya, pada saya, jauh lebih besar — untuk pastikan masyarakat tidak hilang keyakinan terhadap konsep reform ini, terhadap perubahan masyarakat. Dan saya rasa Bernie Sanders tak perlu jadi Presiden Amerika Syarikat untuk buat perbezaan. Jadi ia macam — dan saya rasa itu yang buat saya happy, sebab saya tak ada matlamat untuk jadi menteri atau apa-apa. Sama ada saya MP atau bukan MP, suara dan pandangan saya sekarang ini masih matter. Dan sekali awak sampai ke peringkat hidup saya ni, sebenarnya tak banyak beza pun sama ada satu cara atau yang lain.
+
+**Host:** Tapi mungkin boleh tanya soalan itu dalam bentuk lain — tanggungjawab itu satu amanah, satu beban. Kalau tugas memanggil, adakah YB akan menyahutnya?
+
+**Rafizi Ramli:** Ya, kalau tugas memanggil. Tapi matlamat tidak menghalalkan cara. Kalau seseorang kata, "oh, kita kena selamatkan negara dengan jadi Perdana Menteri," maka awak kena keras kepala nak jadi PM — itu satu kerja untuk... maksud saya, betul kan? Dan saya selalu rasa, mengekalkan diri sendiri — cuba jadi sebanyak mungkin macam diri awak semasa berumur 20-an, semasa awak seorang budak muda yang naif — itu penting semasa awak semakin tua, sebab awak cenderung untuk lose sight.
+
+**Host:** Macam mana YB rasa YB buat setakat ini dari segi itu?
+
+**Rafizi Ramli:** Tak, tak, tak — saya jauh lebih wise sekarang. Saya rasa dulu saya sangat naif — saya betul-betul nampak dunia dalam hitam putih.
+
+**Host:** Jadi sekarang dah tak lagi?
+
+**Rafizi Ramli:** Saya rasa semuanya great sekarang. Sangat great.
+
+**Host:** Tapi YB tak anggap diri YB jaded?
+
+**Rafizi Ramli:** Tak, saya tak jaded. Sebenarnya, saya rasa kita sudah mencapai banyak. Orang lain — itu kembali kepada soalan tentang jadi Perdana Menteri, jadi berkuasa — bergantung macam mana awak quantify pencapaian awak. Kalau awak quantify dengan jadi menteri, Perdana Menteri, kuasa dan sebagainya — okaylah, ada banyak debat tentang itu. Saya tidak. Bagi saya, saya masih ingat betul-betul apa yang saya nak buat bila saya masuk politik dulu — dengar benda-benda yang bodoh sangat, dan saya rasa surely kita boleh buat lebih baik daripada ini. Jadi selagi suara-suara progresif itu masih hidup, saya rasa itu satu pencapaian yang kita sudah capai sepanjang tahun-tahun ini. Sama juga dengan benda-benda yang kita ambil for granted sekarang — ini semua tak wujud semasa saya muda dulu. Demonstrasi, kita ambil for granted sekarang — dulu tak wujud. Backbencher boleh bersuara — dulu pun tak wujud. Semua ini adalah pencapaian yang saya rasa saya sumbangkan kepadanya, dan saya rasa ia sesuatu yang berbaloi untuk diteruskan dalam 10, 15 tahun akan datang. Cuma, saya tak jangka perubahan berlaku serta-merta — ia incremental.
+
+**Host:** Baik, saya rasa itu tempat yang sesuai untuk kita akhiri perbincangan ini.
+
+**Rafizi Ramli:** Kamu semua ni macam kucing-kucing saya yang penakut je. *(ketawa)*
+
+**Host:** Tak, sebab dah lewat — sudah pukul 10.30, sudah masuk waktu tidur saya sebenarnya. Terima kasih YB kerana sudi join podcast bekas menteri kami. Kalau ada bekas menteri lain yang nak sertai podcast kita, sila — siapa lagi? Kena tunggu reshuffle, atau tiga bulan lagi? Sorry, Najib Razak, kalau YB nak, YB boleh hubungi kami — kita boleh buat secara remote. Terima kasih kepada semua penonton. Seperti biasa, tinggalkan pandangan anda di ruangan komen di bawah tentang perbincangan ini. Kami cover semua yang anda nak tahu. Dan seperti biasa, keep it on Chilli Sauce untuk lebih isu semasa, tambah pedas.
