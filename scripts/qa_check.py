@@ -25,6 +25,7 @@ import re
 from pathlib import Path
 
 from common import episode_slug
+from lib_gemini import MODEL_FALLBACK_CHAIN
 
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
@@ -68,6 +69,14 @@ SPLIT_TIMESTAMP_RE = re.compile(r"^\[((?:\d+:)?\d+:\d+)\]\s*\n(?=[A-Z][\w .'-]{0
 MALAY_MARKERS = (" yang ", " dan ", " saya ", " kita ", " itu ", " ini ", " tak ", " dengan ", " kepada ", " juga ")
 MIN_MALAY_DENSITY = 1.0  # marker hits per 1000 chars, for files claiming language: mixed/ms
 
+MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
+# Bottom of the fallback chain, only reached once every better model is exhausted or
+# down -- confirmed prone to silently dropping code-switched content (see
+# lib_gemini.py's MODEL_FALLBACK_CHAIN comment and the language-mistranslation
+# writeup). Flag any output file produced by one of these so it gets a closer look
+# even when the density/ratio checks above don't catch anything.
+WEAK_MODELS = set(MODEL_FALLBACK_CHAIN[6:])
+
 
 def last_timestamp_seconds(text):
     matches = TIMESTAMP_RE.findall(text)
@@ -90,14 +99,21 @@ def malay_density(text):
 
 def check_episode(ep_dir):
     issues = []
+    models = {}
     raw_path = ep_dir / "raw.md"
     if not raw_path.exists():
-        return ["missing raw.md"]
+        return ["missing raw.md"], models
 
     raw_text = raw_path.read_text(encoding="utf-8")
     fm_match = FRONTMATTER_RE.match(raw_text)
     duration = duration_seconds(fm_match.group(1)) if fm_match else None
     body = raw_text[fm_match.end():] if fm_match else raw_text
+
+    raw_model_match = MODEL_RE.search(fm_match.group(1)) if fm_match else None
+    if raw_model_match:
+        models["raw.md"] = raw_model_match.group(1)
+        if models["raw.md"] in WEAK_MODELS:
+            issues.append(f"raw.md produced by weaker fallback model {models['raw.md']} -- verify content quality closely")
 
     if duration:
         covered = last_timestamp_seconds(body)
@@ -133,6 +149,12 @@ def check_episode(ep_dir):
         if ratio < MIN_INTERVIEW_RATIO:
             issues.append(f"{name} looks truncated (ratio {ratio:.2f} vs raw.md, expected >= {MIN_INTERVIEW_RATIO})")
 
+        model_match = MODEL_RE.search(interview_text)
+        if model_match:
+            models[name] = model_match.group(1)
+            if models[name] in WEAK_MODELS:
+                issues.append(f"{name} produced by weaker fallback model {models[name]} -- verify content quality closely")
+
         lang_match = re.search(r"^language:\s*(\S+)", interview_text, re.M)
         language = lang_match.group(1) if lang_match else None
         if language in ("mixed", "ms"):
@@ -143,7 +165,11 @@ def check_episode(ep_dir):
                     f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})"
                 )
 
-    return issues
+    return issues, models
+
+
+def format_models(models):
+    return "models: " + ", ".join(f"{name}={model}" for name, model in models.items())
 
 
 def main():
@@ -159,7 +185,7 @@ def main():
     )
 
     total = len(results)
-    broken = {slug: issues for slug, issues in results.items() if issues}
+    broken = {slug: result for slug, result in results.items() if result[0]}
 
     lines = [
         "# QA Checklist",
@@ -169,14 +195,19 @@ def main():
         "",
         "Re-run after any reprocessing batch: `python scripts/qa_check.py`.",
         "",
+        "`model:` is only recorded in frontmatter for episodes (re)processed since this "
+        "field was added -- older episodes show no model line until reprocessed.",
+        "",
     ]
     if broken:
         lines.append("## Flagged episodes")
         lines.append("")
-        for slug, issues in broken.items():
+        for slug, (issues, models) in broken.items():
             lines.append(f"- [ ] **{slug}**")
             for issue in issues:
                 lines.append(f"  - {issue}")
+            if models:
+                lines.append(f"  - {format_models(models)}")
         lines.append("")
     if unprocessed:
         lines.append("## Not yet processed")
@@ -188,9 +219,10 @@ def main():
         lines.append("")
     lines.append("## Clean episodes")
     lines.append("")
-    for slug, issues in results.items():
+    for slug, (issues, models) in results.items():
         if not issues:
-            lines.append(f"- [x] {slug}")
+            suffix = f" ({format_models(models)})" if models else ""
+            lines.append(f"- [x] {slug}{suffix}")
     lines.append("")
 
     OUT_PATH.write_text("\n".join(lines), encoding="utf-8")

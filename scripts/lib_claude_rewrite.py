@@ -53,6 +53,10 @@ def get_client():
     return None  # no client object needed -- each call is a fresh CLI invocation
 
 
+def current_model():
+    return MODEL
+
+
 def _run_claude(prompt, session_id=None, json_schema=None):
     cmd = [
         CLAUDE_EXE, "-p", "--output-format", "json", "--model", MODEL,

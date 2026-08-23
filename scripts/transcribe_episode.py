@@ -75,6 +75,7 @@ def process_raw(video_id, force=False, engine="gemini"):
         import lib_local_asr
         full_raw = lib_local_asr.transcribe_raw_local(audio_path, episode["duration_seconds"])
         audio_path.unlink()
+        model_used = lib_local_asr.MODEL
         note = ("Raw transcript from the local ASR fallback (no Gemini access), "
                 "mesolitica/malaysian-whisper-medium-v2 with VAD chunking. No speaker "
                 "diarization -- turns are not labeled by speaker. See interview.md for "
@@ -86,10 +87,12 @@ def process_raw(video_id, force=False, engine="gemini"):
         audio_path.unlink()
         print("transcribing raw ...")
         full_raw = lib_gemini.transcribe_raw(client, audio_file, duration_human, episode["duration_seconds"])
+        model_used = lib_gemini.current_model()
         note = "Raw, lightly-cleaned transcript straight from audio. See interview.md for the polished newspaper-style rewrite."
 
     out_dir.mkdir(parents=True, exist_ok=True)
     raw_fields = episode_common_fields(episode)
+    raw_fields["model"] = model_used
     raw_fields["note"] = note
     raw_path.write_text(frontmatter_md(raw_fields, "# Raw Transcript\n\n" + full_raw), encoding="utf-8")
     print(f"wrote {raw_path}")
@@ -123,10 +126,13 @@ def process_rewrite(video_id, force=False, rewrite_engine="gemini"):
 
     print("rewriting to newspaper style (mixed) ...")
     full_clean = engine.rewrite_clean(client, full_raw)
+    clean_model = engine.current_model()
     print("translating to English ...")
     full_en = engine.translate(client, full_clean, "English")
+    en_model = engine.current_model()
     print("translating to Bahasa Melayu ...")
     full_ms = engine.translate(client, full_clean, "Bahasa Melayu")
+    ms_model = engine.current_model()
     print("extracting metadata (hosts/guests/summary/topics) ...")
     meta = engine.extract_metadata(client, full_clean)
 
@@ -138,16 +144,19 @@ def process_rewrite(video_id, force=False, rewrite_engine="gemini"):
 
     mixed_fields = dict(interview_common)
     mixed_fields["language"] = "mixed"
+    mixed_fields["model"] = clean_model
     mixed_fields["note"] = "Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions."
     interview_path.write_text(frontmatter_md(mixed_fields, "# Interview\n\n" + full_clean), encoding="utf-8")
 
     en_fields = dict(interview_common)
     en_fields["language"] = "en"
+    en_fields["model"] = en_model
     en_fields["note"] = "Full English translation of interview.md (the mixed-language newspaper-style rewrite)."
     interview_en_path.write_text(frontmatter_md(en_fields, "# Interview (English)\n\n" + full_en), encoding="utf-8")
 
     ms_fields = dict(interview_common)
     ms_fields["language"] = "ms"
+    ms_fields["model"] = ms_model
     ms_fields["note"] = "Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa)."
     interview_ms_path.write_text(frontmatter_md(ms_fields, "# Interview (Bahasa Melayu)\n\n" + full_ms), encoding="utf-8")
 
