@@ -137,7 +137,12 @@ rather than any one key or project), a fallback provider was needed here too.
 - **Model:** `claude-sonnet-5`, chosen over `claude-opus-5` for cost (this stage runs
   four calls per episode -- one rewrite plus two translations plus metadata
   extraction -- across dozens of hour-plus episodes) and over `claude-haiku-4-5` to
-  avoid losing nuance on mixed-language political content.
+  avoid losing nuance on mixed-language political content. That Haiku exclusion was
+  a judgment call at design time; later tested directly to check whether it was
+  worth revisiting for cost. It wasn't -- Haiku silently dropped roughly half of a
+  Malay translation on a test episode while still ending the file cleanly (not an
+  obvious mid-sentence cutoff), a completion-loop robustness failure specific to
+  Haiku, not just a capability gap. Sonnet stays the default.
 - **First implementation** called the Anthropic Messages API directly through the
   `anthropic` Python SDK. That needs a standalone `ANTHROPIC_API_KEY`, which wasn't
   available for this project.
@@ -180,7 +185,20 @@ against the `episodes/` folder to flag episodes that were never processed at all
   reference, question/answer flow, tone), not reading a label. Treat
   `interview.md`/`interview-en.md`/`interview-ms.md` speaker attribution on
   these episodes as the model's best guess, not a verified fact, especially
-  in fast multi-speaker exchanges.
+  in fast multi-speaker exchanges. **Confirmed as a real, not just
+  theoretical, problem**: a Gemini audio spot-check on one episode's opening
+  exchange found the model-inferred rewrite had folded a real Rafizi Ramli
+  line into a generic "Podcast Host" turn -- an actual misattributed quote,
+  not a hypothetical risk. Re-running the raw stage via Gemini on that same
+  episode produced correct diarization (confirmed against the same
+  independent spot-check) and identified 13 distinct named speakers across a
+  3h18m episode, something local-ASR-plus-inference cannot do. A cheaper
+  alternative -- asking Gemini for just a chronological speaker-change list
+  (not a full transcript) to merge onto existing local-ASR text -- was tried
+  and abandoned: this show's speakers change every few seconds, so a
+  speaker-only pass needs roughly as many continuation rounds as a full
+  transcript would, with no real quota saving. The only fix that actually
+  works is redoing the raw stage via Gemini outright.
 - Local ASR proper-noun accuracy (names, unusual spellings) isn't verified against
   any reference dictionary yet -- a manual correction pass is planned, guided by the
   repo owner rather than guessed at automatically. Candidate tooling for that pass:

@@ -143,8 +143,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview-en.md
   - missing interview-ms.md
 - [ ] **2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb**
-  - interview.md looks truncated (ratio 0.35 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.35 vs raw.md, expected >= 0.35)
+  - raw.md has a 21925-char block with no paragraph breaks (wall-of-text)
+  - interview.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
 
 ## Clean episodes
 
