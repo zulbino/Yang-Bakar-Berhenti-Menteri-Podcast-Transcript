@@ -45,7 +45,7 @@ from common import human_duration, retry
 MODEL_FALLBACK_CHAIN = [
     "gemini-3.7-flash",
     "gemini-3.6-flash",
-    "gemini-3.1-pro",
+    "gemini-3.1-pro-preview",
     "gemini-3.5-flash",
     "gemini-3.5-flash-lite",
     "gemini-3-flash-preview",
@@ -79,6 +79,16 @@ def _is_unavailable(e):
     return isinstance(e, errors.ServerError) and e.code == 503
 
 
+def _is_model_not_found(e):
+    # A wrong/deprecated model ID in MODEL_FALLBACK_CHAIN (e.g. missing a "-preview"
+    # suffix) 404s identically on every retry -- confirmed directly when
+    # "gemini-3.1-pro" (should have been "gemini-3.1-pro-preview") burned a full
+    # 10-attempt backoff on every episode that reached it before failing outright.
+    # Advance past it like any other unusable model instead of retrying a name that
+    # will never resolve.
+    return isinstance(e, errors.ClientError) and e.code == 404
+
+
 def _is_prohibited_content_block(resp):
     # PROHIBITED_CONTENT is a built-in Google safety layer, separate from and not
     # disabled by SAFETY_SETTINGS below (that only covers the 5 adjustable harm
@@ -101,7 +111,8 @@ def _advance_model(reason):
 
 def generate_content(client, contents, config):
     """generate_content with automatic model fallback on free-tier quota exhaustion,
-    sustained model unavailability (503), or a hard PROHIBITED_CONTENT safety block."""
+    sustained model unavailability (503), a nonexistent/deprecated model (404), or a
+    hard PROHIBITED_CONTENT safety block."""
     unavailable_streak = 0
     while True:
         try:
@@ -109,6 +120,11 @@ def generate_content(client, contents, config):
         except errors.APIError as e:
             if _is_free_tier_quota_exhausted(e):
                 if _advance_model("free-tier quota exhausted"):
+                    unavailable_streak = 0
+                    continue
+                raise
+            if _is_model_not_found(e):
+                if _advance_model("model not found"):
                     unavailable_streak = 0
                     continue
                 raise

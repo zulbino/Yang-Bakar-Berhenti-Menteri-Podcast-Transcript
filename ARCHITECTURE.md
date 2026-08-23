@@ -103,9 +103,17 @@ one when the current model's free-tier daily quota (20 requests/day per model) i
 exhausted, or when it hits sustained `503 UNAVAILABLE` (a couple of quick retries
 first, since a single transient 503 usually self-recovers, then advance):
 
-`gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.1-pro` → `gemini-3.5-flash` →
+`gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.1-pro-preview` → `gemini-3.5-flash` →
 `gemini-3.5-flash-lite` → `gemini-3-flash-preview` → `gemini-3.1-flash-lite` →
 `gemini-2.5-pro` → `gemini-2.5-flash` → `gemini-2.5-flash-lite`
+
+It also advances on a plain `404 NOT_FOUND` (`_is_model_not_found`) -- a wrong or
+deprecated model ID in this list 404s identically on every retry, which otherwise
+burns a full 10-attempt backoff before failing the whole episode. Caught directly:
+this list originally had `gemini-3.1-pro` (missing the `-preview` suffix that the
+real model ID needs), confirmed against `client.models.list()`. Treating any 404 as
+"skip this model" fixes that specific typo and the general class of bug -- a model
+Google renames or retires later won't need a special case either.
 
 `gemini-3.7-flash` was originally excluded outright -- it repeatedly returned
 sustained `503 UNAVAILABLE` (high demand) since its Aug 13 2026 launch, a Google-side
