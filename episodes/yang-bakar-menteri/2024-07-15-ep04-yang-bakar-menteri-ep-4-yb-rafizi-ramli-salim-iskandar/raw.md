@@ -7,410 +7,2099 @@ publish_date: '2024-07-15'
 duration_seconds: 4944
 duration: 1h 22m
 view_count: 91347
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[05:07] Assalamualaikum warahmatullahi wabarakatuh Salam sejahtera Kembali lagi ke podcast Yang Bakar Menteri
+[00:00] [Music / Intro]
 
-[05:14] Episod keempat Saya Haziq Dan Kali ini kita Ada seorang tetamu yang
 
-[05:21] Controversial? Not only that, we have Saudara Salim. How are you, Saudara? Good, good. Okay, we just have to take care of our quality podcast. YP Menteri. So, this is not what I'm asking for. I'm afraid that the Menteri will get mad at me. Don't get mad at me. I'm a good boy.
 
-[05:44] Okay, we have to take care of our podcast quality, so we'll make a declaration. We don't have any questions before this session, YB. You received the questions before this session, right? No, right? Saudara Salim also doesn't have any questions, right? I'm a witness, I'll tell you. Zero. Come.
+[05:07] Haziq: Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera dan kembali lagi ke podcast Yang Bakar Menteri episod keempat. Saya Haziq dan kali ini kita ada seorang tetamu yang kontroversi. Tak lain tak bukan kita ada saudara Salim. Khabar saudara?
 
-[06:07] YB doesn't know what I want to ask, I don't know what YB wants to ask if he wants to. He wants to burn chili, if YB wants to burn chili, I will burn the minister. Let's see what happens. Okay, let's see. So this is his opportunity. All this time he's been talking about various things on social media. He doesn't know how to reply in front of people. Sometimes he doesn't reply. Sometimes he forgets. So,
 
-[06:27] If you don't have any censorship, ask directly, the minister will answer. And ask again, ask again, it's okay to be in a hurry. Okay, can we start? Yes. Okay, good. You can start, I'll pick you up. If I want to ask a question, I can. You can too. This is a good one.
 
-[06:49] Podcasts, there will be a lot of people saying this. Yes, okay. Later, they will say, I'm a designer. Wait, wait, wait, YB, YB, sorry, sorry, sorry. YB, I actually, I want to ask, YB, you're my boss. Because there are... Don't be like that. Wait, wait, wait, wait, wait, wait, wait. There are people accusing me of being a Rafizi cutter.
+[05:28] Salim Iskandar: Khabar baik.
 
-[07:06] So I prepared a name for the invoice, I want to claim it Sure, but I don't pay That's it, how come they say I'm Kartel Rafizi? I think someone has heard of it Why? Why? I don't know I know, I'm sorry to say That's one of the reasons they met Exactly, but I want to tell them YB has blocked me on Twitter, on X YB has blocked me, I don't have access to YB How did I become a KTYB? So it's like...
 
-[07:39] Saya pun tak tahulah Tetapi YB, you like it or not, I'm so sorry YB YB baru-baru ni menjadi satu figura yang sangat popular Yang sangat dikecam oleh Popular dikecam lah Dikecam, bukan sahaja orang luar Orang luar tak apa, tetapi saya difahamkan dan saya melihat Bahawasanya di kalangan kawan-kawan Di kalangan kawan-kawan pun sangat-sangat mengecam YB bakar adalah YB
 
-[08:12] So what say you, sir? Tak, saya biasa kena kecam.
+[05:30] Haziq: Okey, cuma kita kena jaga juga kita punya kualiti podcast ni YB Menteri. Jadi saya minta...
 
-[08:16] daripada dulu pun
 
-[08:19] Kecam kawan dan lawan tu biasalah
 
-[08:22] Tapi saya ingat kalau pasal Sungai Bakar lah
+[05:40] Salim Iskandar: Saya takut nanti Menteri marah saya. Janganlah marah saya, saya budak baik.
 
-[08:26] We have to look at the decision in a principled way. So, YB didn't say it because YB said a word that is very liked or feared, which is halal. I've said a word that is more harsh than that. Oh, really? And actually, the decision, that's why we have to go back to the decision. If we look at the decision, until now,
 
-[08:53] Tak ada seorang pun yang mengemukakan data untuk menunjukkan yang analisa keputusan PKR itu tak betul. Pertama, ialah sebenarnya sokongan pengundi Melayu tak berubah daripada PRU 2022, PRN 2023 dan sekarang.
 
-[09:15] Calon kami hanya dapat sekitar 22 ke 23% undi Melayu. Kemudian undi Cina pun tahap sokongan tak berubah.
+[05:46] Rafizi Ramli: Bantai menteri dah macam ni macam mana?
 
-[09:24] More or less 90% above India. But is there a change? Okay, I really believe it. The only difference is that the Chinese and Indian candidates did not appear in the situation of the Malay candidates appearing high.
 
-[09:39] Kalau nak dikatakan sebab ceramah ataupun bahan kempen itu ataupun dasar kerajaan macam diesel dan sebagainya menyebabkan peralihan sokongan, sepatutnya sokongan itu turun.
 
-[09:56] He didn't go out, or he went out in large numbers, but he went down. That didn't happen. And if you look at the small election of the country, the percentage of non-Malay voters who went out is usually lower. But this time, it's lower than the previous one. Usually in 50 minutes... Does that mean something happened?
+[05:50] Haziq: Okey, kita kena jaga kita punya kualiti podcast ni YB. Jadi kita buat declaration sikit. Kita tak ada apa-apa sebarang soalan sebelum sesi ni ya YB? Soalan you terima sebelum ni tak ada?
 
-[10:14] Ada beberapa faktor. Kita perlu lihat kerana mungkin saya, saya tak mewakili mana-mana parti YB. Saya bukan orang PN, saya bukan orang itu. Malah saya di belasah kiri kanan. Saya pun tak tahu kadang-kadang apa benda dengan ini. Yang saya bawa selalu adalah suara rakyat. Seperti mana YB tahu saya represent, saya ada buat podcast juga. Podcast kita macam level tepi jalan. Tak ada hebat-hebat macam ini semua. Saya selalunya bawa isu-isu rakyat bersama dengan partner saya, Rafiq Rashid. Okay, jadi...
 
-[10:47] We talk more about the people. And whatever the issue is, especially our PMX, we always bring things that we criticize. So we criticize it because we say things that are not true, are not true, are not true. If in the current situation, we look at Sungai Bakap, we bring it a little rewind to the back. We go to Kuala Kubu Baru. The Kuala Kubu Baru, the result was...
 
-[11:12] Good for PH? It's different because the new Kuala Kubu... The visa hasn't been lifted? No. That's the thing. The amount of support from the Malays is more or less the same as the PRN. There's a little bit of increase. The increase is only for the early candidates.
+[06:02] Rafizi Ramli: Tak ada.
 
-[11:32] I mean, the police and the army. The one that gives 95%? The one that votes for the Malay community is not different. Only the chair of Kuala Kubur Baru cannot be compared to the chair of Sungai Bakar. Because Sungai Bakar is the majority Malay chair. And it's more rural. And in Sungai Bakar, 61% are Malay. In PKB, 58%? PK?
 
-[11:59] Tak, it's a non-Malay majority kerusi.
 
-[12:03] Tapi Melayu kat KKB was 58% if I'm not mistaken. We have to check the data. Tak, tak, tak. What's wrong? What's wrong is a 60-40 seats. Sebab agihan kerusi dalam PH, mana-mana kerusi yang melepasi jumlah pengundi bukan Melayu, mengatasi 50 ke atas, itu semua DAP bertanding. Jadi kerusi KKB is a 60-40 kerusi lebih kurang. Whereas di Sungai Bakap, dia terbalik. tahap sokongan. Tahap sokongan di KKB tak banyak, tak berbeza pun dengan tahap sokongan masa PRN dan masa PRU. Cuma oleh kerana jumlah pengundi bukan lain.
+[06:03] Haziq: Tak ada eh. Saudara Salim pun tak ada eh?
 
-[12:46] Itu satu, pengundi Melayu je yang awal je tapi sebab pengundi bukan Melayu di KKB lebih tinggi. Jadi walaupun dia turun sedikit, majoriti tu masih lebih kurang sama dikekalkan macam PRN lepas.
 
-[13:00] Okay, now my question is, let's go back to Sungai Bakap. Sorry, Sungai Bakap. Don't shake the table. Sorry, sorry. You can't, it's heavy. When you shake it, it shakes. So, okay, that shows that this table is... You don't have a function after this. Salim asked directly. Sorry. It's okay, you can ask. It's okay, you can ask. You can ask. It's okay, you can ask. Okay, so...
 
-[13:21] Kalau kita tengok sungai bakar ni balik, KKB sebelum subsidi diesel ditarik.
+[06:04] Salim Iskandar: Saya saksi, saya bagi tahu datang YB tak tahu apa saya nak tanya, saya pun tak tahu apa YB nak tanya kalau dia nak kan. Kalau dia nak bakar cili kalau YB nak bakar cili, saya yang bakar menteri. Kita tengoklah apa jadi.
 
-[13:32] So, after the diesel subsidy is withdrawn, whether you like it or not, there is an effect, right? This is very different from the way we talk about politics, Salim, based on data analysis. When we analyze data, there are two concepts that I hope the listeners can google after this. One is called correlation, the other is called causation.
 
-[13:59] Correlation ni maksudnya kita tengok data macam ini, keputusan dia macam ini. Jadi dari segi itu kan, nak kata ada full correlation pun tak ada. Kerana kita kata tahap sokongan bukan Melayu dan Melayu
 
-[14:15] DKKB and also in Sungai Bakar, they are the same. Meaning, if in Sungai Bakar, the last PRN, 22% of Malay people to PH, this time it's the same. DKKB in 28% of Malay people in the last PRN, recently it's the same. China is the same, India is the same. So, the correlation, to say there is a correlation, there is not. But below the correlation, even if we say,
+[06:16] Haziq: Okey, kita tengok. Jadi ini peluang dia. Selama ni cakap macam-macam dekat sosial media, nak balas depan-depan tak tahu. Kadang-kadang tak balas, kadang-kadang lupa. Jadi tak ada apa-apa censorship apa-apa, tanya terus. Menteri akan jawab dan tanya jawab lagi sekali, tanya lagi bertalu-talu pun tak apa. Okey boleh kita start eh?
 
-[14:43] Okeylah ada diesel sebab itu orang bantah dan sebagainya kan. Sebab itu kita kena pergi lebih dalam tengok ada causation ke tidak iaitu adakah data-data yang mengesahkan bahawa orang tidak keluar mengundi itu disebabkan oleh diesel.
 
-[15:00] We don't have the data, except if we go back, knock on the door, ask again, whether you didn't go out because of diesel. In the situation, the record of non-Malay voters from the previous PRKs and PRNs is indeed lower. That's why if we look at the time of the Juhu National Election,
 
-[15:21] the election of Melaka, it seems that PH lost badly. One of the reasons is that the non-Malay voters did not appear. But when the 2022 PRU came, the result was very different from the PRN, even though the time was only six months. Because the record of the presence of non-Malay voters. So if you ask me,
+[06:38] Rafizi Ramli: Boleh.
 
-[15:43] I can't deny that it's a factor. I can't. But if it's based on the decision itself, you cannot. I agree. But could be that, could be not. It could be, unless you go and really collect more data and study it again. The last PRN, the majority was 1,500.
 
-[16:03] Recently, it's 4,267. So even though the turnout, voter turnout is like 62%, because as you said, the Chinese and Indian... 65. 65. 65. So the result, the final result was the majority has been increased. So you can say 2 or 3 times, 2 times. No, that's why you have to understand the math. I'll give you an example.
 
-[16:28] If before this, 100 people in one channel, 30% are not Malaysian, 70% are Malaysian. If the same comes out, 30% who are not Malaysian come out, 70% who are Malaysian come out, the support level does not change. This is 22%, this is 90%, right? So the majority is said to be 100, right? But when the one comes out,
+[06:39] Haziq: Okey baik, boleh start saya jemput.
 
-[16:54] The 70% of the Malays came out and their support was only 22% to PH. But the 30% came out, only 4 people came out. So they saw the majority from the night, that's the situation. They saw the majority, 4,000, but they thought there was a change in support. But actually there was none, only because of the composition that came out. But YB, I'm so sorry YB.
 
-[17:22] Apabila kita tahu pattern orang Cina ni kalau kita tengok tak kisahlah PRK ke apa ke As long as they are local lah, orang Cina ni pukul 7 pagi dia dah siap lah Dia kalau bersemangat lah, dia kalau berapi ni kan orang Cina ni dia kalau berapi dia semangat dia kata I'm gonna go, 7 o'clock in the morning tak ada kaum lain memang orang Cina je Ini bukan racist but this is the fact Kalau kita tengok dekat undi-undi mana dulu kalau kita tengok Tak itu hanya dalam PRU PRU betul Tapi bukan dalam PRN atau PRK Tapi biasanya penolakan undi yang bukan Melayu ni tak seteruk seperti yang berlaku di Sungai Bakar. Dia bukan penolakan undi sebab kalau dia keluar dia akan undi hampir 90-95%. Dia tak keluar tu kita tak boleh samakan dengan penolakan.
 
-[18:11] You don't have any data to support mengatakan penolakan Terutamanya dalam 4-5 tahun yang lepas Pola ni memang ada Masa PRN, PRK dia tak keluar, PRU dia keluar Ya, tapi still walaupun kita kata data apa semua The actual fact is, I'm so sorry to say this lah Because sini pun yang bakar menteri kan So saya datang sini pun nak bakar juga ni Tapi bakar kena berfakta dan berbuktilah sahaja Dia tak boleh cakap kedai kopi pusing-pusing lah kan Problem is now sekarang ni kita hadapi hari ni adalah
+[06:40] Salim Iskandar: Eh tapi nanti jap ah. Kalau saya nak tanya soalan, Menteri boleh tanya saya?
 
-[18:46] Penolakan rakyat ni Dia dah macam kalau kita tengok dalam medsauce apa semua Bukan tiktok lah, tiktok dah memang Fahmi dah control lah Oops Fahmi jangan marah Okay So what happen is dekat tempat-tempat lain kita tengok
 
-[18:59] Keresahan rakyat Ketidakpuas hatian rakyat Terhadap Kerajaan hari ini I'm sorry sir Because I cannot blame you Because you're just a minister Hmm
 
-[19:12] Okay, fact is fact. You guys listen. He came to the podcast. No, no. Because why? I'm sorry. I'm still in the frame. Yeah, yeah, yeah. The table is shaking too much. I'm afraid. He's afraid. He's out of frame. He put the table on me. Okay. Okay. So, um...
+[06:43] Haziq: Boleh.
 
-[19:30] I cannot blame you. You are a data man. We know that you always go with the data. But the facts remain. If I want to blame you, you are just a minister of economy. Not that you are still a great minister, but you have your bosses above. You have one boss above you,
 
-[19:48] But the concept is not the same as that, Salim. It is actually a collective responsibility. And the portfolio of the economy is under the Ministry of Economy. So, I think we can't say that the boss has to take the full blame. That's why, for example,
 
-[20:11] Zaman Dato' Sri Najib dulu kan, as much as we put a lot of focus on Dato' Sri Najib,
+[06:44] Rafizi Ramli: Boleh juga.
 
-[20:18] It was actually quite a collective responsibility of semua menteri Termasuk, I mean, yang dia kenal tu dia kenal lah, itu mengikut proses dia lah Tapi ada juga contohnya orang-orang yang sebahagian daripada kabinet lepas ke apa Masih ada dengan kawan-kawan you sekarang? Dia kadang-kadang tu senang lah, dia cuci tangan kan, dia tak boleh sebenarnya So in this case I think YB, yes lah you responsibility. Kalau contohnya ada isu kos harian hidup.
 
-[20:53] which we have never denied, the challenge is the cost of living. Of course, the main policy and view that we try to make is mostly placed under the Ministry of Finance, under the Ministry of Economy, for example, including MITI and several others. And of course, we
 
-[21:14] present our case, PM has his view, but to say 100% this is because people reject that person, I think it's a collective responsibility. So you're saying that everyone is responsible for the same thing? Yes, I don't have a problem if people ask. Only if I insist, don't take it lightly.
+[06:45] Haziq: Boleh.
 
-[21:36] So for example, if the previous PN, the record is like this, like this, like this, right? He can't even finish cooking oil, he can't even finish eggs. He's ready to know all the problems. Is there a problem with cooking oil now? Still we got problem. Where is the price now compared to before? No, I'm not talking about the price, I'm talking about the availability.
 
-[22:01] minyak tu. Mana ada? Banding dengan dulu. Minyak yang RM2.50. So I'm not talking about the normal one. The normal one is okay. The normal one is okay. Tapi minyak RM2.50 daripada minyak paket tu kan. Dari pada dulu ada masalah. Sama ada macam mana pun dia ada masalah. Kerana isu dia bukan semata-mata isu pasaran, isu harga. Isu dia bila kita buat begitu, dia ada ketirisan. Ketirisan yang berlaku bukan di persempadan eh. Ketirisan berlaku di dalam kedai. Dalam kedai pun. Saya tengok ni anak ayah, ok dia simpan kat bawah, kawan dia datang dia pergi Sebab itu pandangan saya daripada awal, semua orang tahu bahawa kita dah sampai satu had yang mana sistem kita nak bantu rakyat ni Contohnya kita sediakan minyak subsidi RM2.50 satu paket ni Dia dah sampai satu had yang dah susah kita nak buat begitu kerana kita dah ada lebih kurang 4 juta orang asing
 
-[22:58] Dia tak sama dengan dukungan. Itu yang unrecorded lah. No, recorded lebih kurang 3.5. Kita campur tolak lah 500 ribu unrecorded. So lebih kurang 4 juta kan. 4 juta ni lebih daripada 10% rakyat Malaysia. Rakyat Malaysia tau, rakyat Malaysia ni ada 30 juta je kan. Jadi sebenarnya dan iyalah, banyaklah yang berlaku dia sembunyi kemudian sebagainya kan. So benda tu dia bukan pentadbiran mana-mana pun dia tidak tertakluk kepada turun naik harga minyak Ini sebenarnya soal proses
+[06:47] Rafizi Ramli: Ini Salim datang podcast ni nanti macam-macam orang kata ni.
 
-[23:31] Soal sistem, itu juga yang diesel. Kita dah sampai ke satu peringkat, bila beza harga kita itu dah tinggi sangat, sehinggakan dia dah ada sindiket.
 
-[23:42] It has become a syndicate worth billions of ringgit. If we continue like before, on the one hand, the people will say, what is this? The money is not enough. We see it as a waste, we don't care. I want to ask for clarification. I want to ask for clarification. Like this, let's talk about diesel again. Okay. I'm right. If you want to talk about pulling diesel, pulling subsidies, diesel or petrol. Not pulling, but pulling back. Pulling back, okay. But the thing is, if you want to do that,
 
-[24:15] Yes, you can do that, but not now. In my opinion, as a people, we're talking about this, you have to listen to our people's voice as well. Because we've found that... There are a lot of people, Salim, not just you. There are a lot. Because I... I want to say...
+[06:52] Salim Iskandar: Ya, okey.
 
-[24:31] Saya faham lah, podcast semua, influencer, semua ada pandangan Tapi kita juga kena berhati-hati kata saya mewakili rakyat Maksudnya saya tak mewakili parti, kalau parti ni dia ada agenda Mana-mana parti pun ada agenda, if you want to blame me or you want to say that I'm PN, I'm not sir Saya buat satu grup, di mana saya tahu ada dalam grup ni kita banyak bantu rakyat yang susah apa semua I hear a lot of stories, I like to, saya suka bersembang Saya ni jenis peramah, orang tak kenal saya tegur je Okay that's me, orang tengok saya ni garang lah, dia ni maki orang lah Tak garang cute apa malah ni Cute lah Tambah bila dia letak spek mata kat atas Ini spek sebab tak nampak
 
-[25:24] Okay, so basically itulah masalah yang kita hadapi. So kerajaan kena dengar. Okay, I know.
 
-[25:33] You know, we can talk about data and all that, but the government has to listen to what we are facing right now. I know the government knows this, but the people are having a hard time right now. So when the subsidy is drawn at this time, it's a disaster. Okay, for example, I have a friend, he uses a diesel truck. So now, he usually fills it up in a week.
+[06:53] Rafizi Ramli: Nanti mesti dia kata aku dah beli Salim.
 
-[25:57] It's filled once a week, for it to run smoothly. And once a month, it's filled 4 times. Okay, once it's filled, in 150, 150, 160, that's the range for the Mitsubishi Triton. Okay, so 4 times it's filled, it's about 600.
 
-[26:15] Now, with the new oil price, when it is filled, it becomes RM250. Okay, RM250, so sometimes it goes to RM26, right? A month, it becomes RM1020, we take RM1000, the average.
 
-[26:27] We got RM200 for the subsidy. It means that he spent RM800. He paid RM600, now he pays RM800. It means that the increase, sorry YB, maybe I'm not intelligent as you ask her. I'm a very strict person. But then again, when you see at that, we already have some increment there. There's an extra cost that we have to pay. Alright, so,
+[06:55] Salim Iskandar: Eh kejap. Kejap kejap kejap. YB YB, sorry sorry sorry. YB, saya sebenarnya kan, saya nak tanya YB you my boss? Because ada ada Jangan macam tu pula. Kejap kejap kejap, sabar sabar. Ada orang menuduh saya kartel Rafizi.
 
-[26:53] Ini adalah perkara yang kita hadapi.
 
-[26:58] Saya tak rasa ada kerajaan sebelum ini
 
-[27:02] that the Prime Minister has been talking about the Basmi of Poverty for a long time. Whatever you say about Anwar Ibrahim, I don't think you have seen any Prime Minister before who has been advocating for the Basmi of Poverty. So, from there, it means
+[07:07] Rafizi Ramli: Oh ya ke?
 
-[27:21] It's very clear that we understand the situation below. Wait, let me finish. I want to answer what you said. Save the chillies. So, I think in that sense, we have to give the credit where it is due. That's why, for example, when it comes to the poor,
 
-[27:41] Bila PM kata bahawa kemiskinan tegak telah dihapuskan Sebab memang kita go through setiap satu di dalam rekod Dan yang masih rekod kata miskin tegak Tapi bila kita check sebenarnya sama ada dia dah keluar daripada garis kemiskinan Dan kita kena pakai satu standard Sebab masing-masing akan kata saya susah It's quite relative kan So standard tu ialah standard yang digunapakai di seluruh dunia yang sama. Meaning that kalau you pendapatan isi rumah di bawah RM2,000 lah, you missing tegak. So kita dah go through setiap satu negeri, seorang-seorang-seorang, mana yang di atas kita keluarkan, mana yang betul-betul di bawah kita tambah duit supaya dia dapat.
 
-[28:29] So in that sense, from the point of view of the STR, from the ICU, if we raise it, it will exceed RM2,000 per month. So that happens. But that's why I said we have to look at the relative group. So we put that first. Then we also diesel.
+[07:08] Salim Iskandar: Jadi saya ada sediakan apa nama dia, invois-invois ni saya nak claim.
 
-[28:56] Saya fahamlah ada orang dia pakai minyak lebih sikit kerana kegiatan ekonomi dia ataupun perjalanan dia mungkin lebih. Ada orang kurang sikit kan. Jadi untuk kita buat dasar, kita nak letak berapa kita nak bagi ni, sebab itu kita kena ambil tata purata satu negara.
 
-[29:14] Dan kalau ikut datanya, penggunaan minyak diesel 200 itu adalah kadar purata yang digunakan oleh keluarga biasa.
 
-[29:27] So it's true that there will be some that he wears a little more, he's a little taller. But there are also other people who, for example, he doesn't wear that much, he gets 200, meaning the family that actually gets an additional. That one you go around anywhere, Salim, there will be that difference. But the majority, if we work normally, if we go back to work, using diesel, this car, the diesel is really, filling once a week is quite common. I say the most,
+[07:12] Rafizi Ramli: Bolehlah, tapi saya tak bayarlah.
 
-[29:56] low la ni kan, ada yang jenis pergi hantar barang apa semua, mungkin dia pakai lebih lagi ya. So, di sinilah jadi masalah. That's why as I said, I'm not against the idea, but not at the moment.
 
-[30:09] Ya, okey. Awak patut tunggu sehingga...
 
-[30:12] When? Let me ask you, when? When should we wait? We have a problem now with our economy. Okay, it's related to the economy. So I want to ask again, when should we wait? I want to ask, YB Rafizi. I asked you earlier, you answer first, until when? Okay, you have to wait until we're okay. How are we going to be okay? Okay, okay, okay. Okay, you answer first, or do I have to answer first? It's okay, let you answer first.
+[07:14] Salim Iskandar: Ha tulah. Macam mana ni, dia orang kata saya kartel Rafizi. Saya rasa ada orang pernah dengar kan, eh?
 
-[30:38] So that's precisely the problem. Successive government keeps saying that we have to wait for the okay. Actually, the state of the country is getting worse and worse. And with that, we are not okay until when.
 
-[30:55] What the government wants to do through the subsidy investigation to the people is actually related to strengthening the country's economy. Because now the subsidy has reached RM52-55 billion a year. Isn't it better? It's precisely as you say, because many families are having a hard time now.
 
-[31:21] Dan kita juga sedia tahu satu kalau diesel dia bocor.
+[07:19] Rafizi Ramli: Macam Kenapa pula?
 
-[31:25] Dia banyak seludup, dia banyak dalam negara ni industri yang patut tak dapat diambil kan.
 
-[31:33] Kemudian kalau RON95 kita tahu keluarga yang lebih berada, T20 M40 ini sebenarnya dia kereta lagi banyak, dia pakai lagi banyak. Jadi jumlah subsidi itu lebih banyak pergi kepada orang yang sebenarnya tak perlu pun subsidi itu berbanding dengan orang kat bawah ini. Contohnya kalau dia ada motor saja, dia dapat sebulan berapa saja. Tapi kerajaan tetap membelanjakan RM52 ke RM55 bilion. Alihkan kepada keluarga-keluarga yang lebih layak.
 
-[32:08] Sebab dengan berbuat begitu, satu bukan sahaja kita boleh alihkan dan diorang akan dapat lebih banyak, yang keduanya itu akan membaiki ekonomi negara yang akan merancakkan lagi ekonomi kerana kita akan mengurangkan hutang.
+[07:20] Salim Iskandar: Kenapa? Saya tak tahulah. Saya tahu yang saya minta maaf cakaplah.
 
-[32:26] Dan pada masa yang... Apa yang rancak YB? Saya minta maaf YB. Saya terpaksa kena potong. Okey. Saya... Yalah. Saya cili kan. Saya memang tak boleh. Saya mesti nak juga cili. Okey. Kita cerita pasal rancak...
 
-[32:40] And suddenly we see now, when you pull the subsidy, it means their income has started to... Yes, because there are some that are okay, some that are not okay, right? Okay, good. And I see the economic situation now, back to the people who spend, now I see people are more afraid to spend.
 
-[33:01] If you look at the indicator, because usually if you just go and look, the economy is different from the data, they also look at what is happening below. Okay, so if we look at the spending of the people, they are more careful now. Many people go to the shopping complex, yes, that's right, I don't want to go, right? Shopping complex, if we go on weekends, it's full, but that's more window shopping. Okay, then let me ask you this, Alim.
+[07:24] Rafizi Ramli: Itu pun salah satu sebab yang dia orang jemput kau sebenarnya.
 
-[33:26] Kalau you kata data-data ni semua ekonomi is not data, tak boleh kira-kira, kita kena tengok yang masalah kita kalau kita tengok di keliling kita kan.
 
-[33:38] Kita hanya berada dalam lingkungan orang yang sekeliling kita.
 
-[33:42] Kalaupun orang yang sekeliling kita itu mewakili segenap lapisan masyarakat Itu pun bukan lagi memberi gambaran keseluruhan tentang ekonomi Tambah lagi kita ini mustahil lah boleh kenal semua orang And dia akan ada sampling bias Sebab itu akhirnya Whatever we say Kita kena bergantung kepada pelaporan rasmi ekonomi negara Yang dibuat mengikut standard antarabangsa Bukan kita pandai-pandai So when you say Bila kita tengok orang kurang berbelanja sebenarnya Benda itu tak sama dengan hasil ekonomi Hasil ekonomi bila contohnya Dia berkembang suku pertama dulu 4.3% kan
+[07:26] Salim Iskandar: Exactly, you know, tapi saya nak saya nak bagi tahu dia orang, YB dah block saya dekat Twitter, dekat X. YB dah block saya, saya langsung tak ada akses dengan YB. Jadi macam mana saya nak jadi macam mana saya jadi kartel YB? Jadi macam hancing ah kan?
 
-[34:29] Bahagian paling besar yang menyumbang kepada pertumbuhan ekonomi itu ialah consumption.
 
-[34:37] Perbelanjaan rakyat. Dia bukannya pelaburan dan sebagainya. Jadi tidak ada correlation yang contohnya kita tengok kita rasa orang kurang berbelanja lah. Sedangkan kedai-kedai ekonomi yang datanya dikumpul daripada semua ni menunjukkan perbelanjaan itu kekal rancak.
 
-[34:56] So, which one, if you become a government, which one do you want to hold? Do you want to listen to what Salim said to 4-5 people? Or do you want to use data that shows that the spending remains stable and that's what drives the economy? That's why, if we remove subsidies,
+[07:40] Rafizi Ramli: Saya pun tak tahulah.
 
-[35:16] Satu dia akan apa nama ni membolehkan yang tertekan ni dia dapat tambahan wang. Tambahan ni saya dengar daripada tadi YP tu kata tambahan you akan bawa subsidi dia pergi ke sana apa semua. Okay memanglah saya mewakili 4-5 orang lah katakan. Memanglah you just take it as that. Saya mewakili 4-5 orang je. Dalam grup saya ada 7,000 orang. Saya buat cili kasih taruh ni. Tapi itu grup yang ada sampling bias tadi. Semua sekepala Macam you Betul Dia tidak melambangkan Semua sila majority Tetapi itu satu grup Saya juga Ada di X Saya juga ada di Facebook Saya juga ada di YouTube Saya juga ada di Saya pakai semua platform Semua platform saya pakai Bila saya buat live Saya buat semua So kebanyakannya Apa yang berlaku Bila dia yang susah Dia yang akan datang mengadu Akan mengadu Yang mereka sekarang Hadapi Kesulitan Apa semua Kalau satu dua orang tak apa Because networking kita Kita akan suruh pergi check Mungkin ada dekat Johor Melaka Pergi tengok apa masalah betul ke ni Sebab kita dah pernah kena tipu Ada yang menyamar kata kan Jadi So kita buat apa Pergi check tengok Tengok betul-betul memang susah Okay Kalau nak kata bawah Garis kemiskinan 2000 Means to say Ada yang Ambil gaji RM1,500 je So minimum payment kan So Dan ada anak Apa semua So they are facing this problem So Okay Katakan you tarik subsidi You bagi bantuan Even STR pun sekarang ni YB STR pun Bukan semua orang dapat Macam zaman dulu YB Dia terlampau strict And daripada segi itu YB, kalau kita argue benda ni, I mean I cannot say that you are right, I'm right also I can only argue with you based on data Okay contohnya, I know I know Salim, but you kata contohnya STR sekarang ni tak semua yang dapat, tak ramai yang dapat macam dulu It's not like that
 
-[37:08] Masa beri mula-mula dulu ada lebih kurang 6 juta orang je. Sekarang penerima STR 10 juta.
 
-[37:17] So how do we say... That's why your data is very... I'm very a bit shocked. No, that is the same data that was provided by the same group of government officials from the time of Datuk Sunil. What is the rate of STR paid now? More than before.
+[07:43] Salim Iskandar: Ha, tetapi YB, you like it or not, I'm so sorry YB eh. YB baru-baru ni menjadi satu figura yang sangat popular, yang sangat dikecam oleh...
 
-[37:37] Dia kalau satu tahun dia ada kategori-kategori dia. Satu per family. Dia ada berapa kategori? Itu lagi kan. Bila dia bertambah daripada dulu 6 juta sekarang sampai 10 juta penerima kan. Dan oleh kerana STR diberikan...
 
-[37:50] Kepada setiap individu Kadang-kadang satu isi rumah tu Dua tiga orang dapat Dalam satu family tu Dan STR telah dinaikkan Kalau I think kalau satu family yang paling miskin tu Dia boleh dapat sampai enam ribu
 
-[38:06] Sorry, I heard from people who got the brain, from the time of Najib, now there are people who got 200.5, 400.5. Help Google? Yes. Help Google. The time of Dato' Sri Najib,
+[07:51] Rafizi Ramli: Bergantung tang mana. Popular dikecamlah.
 
-[38:21] Brim dapat berapa kali selama ini? Sekali sahaja Sekarang berapa kali? Empat kali dia pecahkan Macam mana tu? Tolong google Brim berapa sekarang Dia sebenarnya
 
-[38:35] Lebih banyak sekarang. Cuma saya tak kata semua ni okey, Salim. Because kita tahu bahawa harga barang memang lebih tinggi sekarang berbanding dengan dulu. Kita juga tahu bahawa terutamanya 3-4 tahun yang lepas, masa zaman Covid tu,
 
-[38:52] the increase in inflation that we inherited is higher in 2021, 2022, and 2023. So, the price of this item, when it goes up, it stays there. So, I'm not saying that everything is okay. But if you want to say that it was cut, all of that is not true. Right? So, okay. I mean, I have to accept also, right? So, if we do this, we have to accept it, okay? So, it's okay. We are talking about data. But one thing you have to know that
+[07:54] Salim Iskandar: Dikecam, okey. Bukan sahaja bukan sahaja orang luar. Orang luar tak apa, tetapi saya difahamkan dan saya melihat bahawasanya di kalangan kawan-kawan. Okey, di kalangan kawan-kawan pun sangat-sangat mengecam YB sebab dia orang kata salah satu punca kekalahan di Sungai Bakap adalah YB. So what say you, sir?
 
-[39:21] Saya tak pernah menolak yang itu sebab itu contohnya bila kita rancang dan yang ini ada beberapa perkara yang pedih untuk kita buat kan.
 
-[39:36] Kalau sebelum ini, pendekatan pentadbiran sebelum ini melihat semata-mata kepada bagi subsidi pukal untuk mengekalkan harga. Tapi dia tak nak bercakap pasal gaji dan pendapatan.
 
-[39:50] Now we have to make both of them and this subsidy has reached the level of oil subsidy of around RM55 billion. Combined with STR, other subsidies, LPG, electric, it reaches RM80 billion. That's why we want to emphasize that if the subsidy is in the same style as before, it's true that the price is not going up.
+[08:13] Rafizi Ramli: Tak, saya biasa kena kecam. Daripada dulu pun kecam kawan dan lawan tu biasalah. Tapi saya ingat kalau pasal Sungai Bakaplah, kita kena tengok kepada keputusan dia secara terperinci.
 
-[40:16] Tapi 80 bilion ni banyak pergi kepada syarikat-syarikat.
 
-[40:20] Lebih baik dialihkan supaya masuk poket rakyat tiap-tiap bulan Yang itu Tengok Diesel kita memang bagi tiap-tiap bulan 200, 200, 200 Tapi bukan semua rakyat dapat YB Ya lah siapa yang tak ada diesel Kecualilah kau Tuan Ibrahim, Tuan Man naik motor pakai diesel Kalau tak ada diesel tak dapat lah Kecuali ada kereta Saya nak tanya Tak jumpa lagi Google STR Tak apalah Itulah masalah dia tak jumpa, tak apalah. It's okay. Betul zaman sekarang empat kali. Zaman Najib dulu the less than tapi kita tengah cari. Ya tak apa okay fine. It's okay because sekarang ni kita berbalik-balik pada apa nama dia. Nanti jap tadi kan satu lagi benda yang sangat berbeza yang kita buat sekarang ni ialah kita nak naikkan gaji.
 
-[41:12] Sebab itu kakitangan awam kita dah selesaikan PM makan umum.
+[08:31] Salim Iskandar: Jadi YB tak cakap kerana YB tersebut satu perkataan yang sangat digemari ataupun sangat ditakuti iaitu bahalol?
 
-[41:17] Kita sekarang buat projek rintis untuk dasar gaji progresif untuk pekerja swasta yang dalam lingkungan gaji RM2,000 ke RM5,000 kerana kalau tumpu semata-mata kepada mengawal harga, kena belanja sampai RM80 bilion satu per tiga daripada perbelanjaan negara hanya untuk kekalkan tapi gaji tak naik, tak sama, tak jadi juga. So dari segi itu... You nak naikkan gaji penjawat awal? memang dah dibuat keputusan dan dia akan diumumkan masa bajet. Tapi aku nak tanya kau.
 
-[41:54] Adakah tidak sebelum ini kerajaan yang memberi fokus kepada pekerja swasta yang di atas gaji minima ni? Sebab sekarang ni gaji minima semata-mata dia tak membantu rakyat sangat je. Bukan sahaja sebab RM1,500 kerana yang banyak gaji minima ni adalah pekerja asing.
 
-[42:14] Because 3.5 million registered are foreign workers. They are the ones who do the lower jobs and they are the ones who get the minimum wage. Our workers are above the minimum wage. But when the minimum wage goes up, the company raises this one, this one, the Malaysian people, it doesn't go up. That's why we see that most of our people's wages are below RM3,000.
+[08:38] Rafizi Ramli: Saya pernah sebut perkataan yang lebih kasar daripada itu pun.
 
-[42:40] Kita tengah buat projek rintis dasar gaji progresif supaya kita tengok macam mana semua. Dengan harapan selepas ini bila kita ada dan laksana secara menyeluruh, pekerja swasta yang gaji dia antara RM2,000 ke RM5,000 itu juga boleh naik gaji secara berkala baru dia boleh imbangi. When you're planning to do that? I can't argue sekarang because YB cakap they are planning. No, no, no. Projek rintis sedang berlaku. Projek Rintis akan selesai September 2024 dan berdasarkan dapatan daripada projek Rintis itu itu memberi enough evidence for us to design to scale up kepada lebih ramai bermula 2025 ke atas. But let me ask this question dengan segala yang kami kita duk cakap ni kan.
 
-[43:34] Has the PM ever talked about raising the wages of the people? If I ask, let's say I'm sitting there, Muhyiddin Yassin is sitting here. If I ask Muhyiddin Yassin, actually, when you talk about the people standing, everyone knows. You ask a very wrong question to a very wrong person. I'm sorry.
 
-[43:52] Kalau saya kata kerajaan hari ini gagal, saya juga kata pembangkang terpaling lemah
+[08:42] Salim Iskandar: Oh ya?
 
-[43:58] Dua-dua sama Boleh bersalam tak Salim? Boleh bersalam tak? Boleh bersalam
 
-[44:03] Okay, I mean, you know, sir, I'm being fair because they all know that I'm a part-time Muhyiddin. Because you tell a lot, you don't show anything, I mean, everything. So, I must be fair. Okay, I must be fair because I'm fighting for the people. Okay, our main goal, the government is also fighting for the people. True. But we want to see the result, okay? We don't want to blame everything, all this. It's just Anwar, I'm sorry, Datu Sri Anwar, don't be angry.
 
-[44:31] Okay, he's like this. He's cute when he does this. You guys talk less, work more, boss. You guys talk less, work more. Because why? Sometimes we talk, we talk, we talk. I repeat, I repeat. Why are you angry? You say I'm a fool. This is a fool for you. I mean, you know, this kind of thing will happen.
+[08:43] Rafizi Ramli: Kan? Dan dan sebenarnya yang keputusan, sebab tu kena balik kepada keputusan kan. Kalau tengok keputusan sehingga sekarang tak ada seorang pun yang mengemukakan data untuk menunjukkan yang analisa keputusan PKR itu tak betul. Yang pertama ialah sebenarnya sokongan pengundi Melayu tak berubah daripada PRU 2022, PRN 2023 dan sekarang. Maksudnya calon kami hanya dapat sekitar 22 ke 23 peratus undi Melayu. Kemudian undi Cina pun tahap sokongan tak berubah, lebih kurang 90 peratus ke atas, India...
 
-[44:51] You know, kita dah tengok banyak dah And talking about investor apa semua So YB, saya tak blame you YB Macam tadi saya kata tadi No, it's okay to blame me I sign up for the job Of course But then again We want to see the leader So that's why saya cakap Sorry ya, saya kalau nak pergi detail apa semua YB dah faham dah YB is planning something So kita akan tengok Kalau tak, nanti kita datang kita tutup balik YB Boleh ya? Kau buat cili yang betul Betul buat cili nanti Okay, alright, cun Boleh Sebab sekarang ni kita nak cakap banyak pun YB is in the plan Doing that, dia ada plan dia Cuma-cuma Okay I want to give The perspective Okay Masa awal-awal Okay
 
-[45:27] We came to office lah lebih kurang 14-15 bulan yang lepas Masa itu bukan sahaja orang biasa lah Dunia pun tanya, penganalisa pun tanya Okay apa plan ekonomi kerajaan gini-gini kan Masa itu bila kita lancar satu-satu-satu
 
-[45:46] from energy transition, then NIMP, then fiscal consolidation. Indeed, in 2023, it did not see any effect. Now, after less than 15 months, the effect has been seen. The stock market is now rising and God willing, by the end of this year, if we follow the trend, it can exceed RM1,700.
+[09:26] Salim Iskandar: Tapi ada tak perubahan? Ha okey, betul saya percaya.
 
-[46:10] The last time we were at 1,700 was during the COVID-19 pandemic because of the pandemic. But before that, it was difficult to get past 1,700 and 1,800. If we look at the past 2-3 days, the international film industry started to flag up that Malaysia is a place for investors to enter.
 
-[46:32] The last kali benda ni berlaku ialah 6 tahun yang lepas yang mana upgrading ni berlaku. Jadi maksudnya memanglah kita kena bagi tumpuan awal-awal itu kepada ekonomi yang besar dulu. Sekarang ini bila itu dah dapat keyakinan pertumbuhan ekonomi elok sebab itu kita...
 
-[46:50] Akan pastikan Macam dasar gaji progresif Yang lain ni Trickle effect tu Sampai kepada rakyat Melalui gaji dan sebagainya Tapi dia tak boleh berlaku Serta-merta Dia ambil masa sedikit lah Cakap lah YB With all due respect
+[09:29] Rafizi Ramli: Cuma yang berbeza hanya...
 
-[47:04] You know, I didn't see anything. I'm sorry. Maybe I'm a bit of a burden, a bit of a loser, a bit of a loser. A bit of a cutie. But I think I didn't see anything. And what we saw today was, one, the increase in electricity. The increase in electricity is crazy, YB. I myself, YB,
 
-[47:28] From the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night, the night
 
-[47:50] But the fire is crazy. The scariest thing is, the thing we are most afraid of, YB. TNB. Now, let's say, for example, we see the people, YB has to accept this, the burning, we want to burn this. Suddenly, if we tell, okay, we have a fire at the border, billions of us are lost. So, we can't do anything. Our solution is to go up, pull it up here.
+[09:30] Salim Iskandar: Dia orang tak keluar kan?
 
-[48:19] Itu untuk diesel dah buat Tiba-tiba keluar Roll 95 pun Huh
 
-[48:24] Dekat apa nama dia Sembadan round 95 Diseruduk dengan berbilion-bilion Lepas tu datang berita terbaru ni Baru ni 2-3 hari lepas ni TNB rugi 3 bilion Sebab apa? Sebab
 
-[48:39] Kau tahu tak? Bitcoin curi api. Eh, TNB. Kalau Bitcoin curi api, kau takkan kau nak salahkan Hafizie?
+[09:31] Rafizi Ramli: Dia tak keluar. Pengundi Cina dan India tak keluar dalam keadaan pengundi Melayu keluar tinggi. Jadi kalau nak dikatakan sebab ceramah ataupun bahan kempen itu ataupun dasar kerajaan macam diesel dan sebagainya menyebabkan peralihan sokongan, sepatutnya sokongan itu turun. Dia tak keluar ataupun dia keluar ramai-ramai tapi turun. Benda tu tak berlaku. Dan kalau tengok kepada pilihan raya-pilihan raya kecil negeri, memang selalunya peratusan keluar pengundi bukan Melayu lebih rendah. Cuma kali ini dia lebih rendah daripada yang sebelum ini, selalunya dalam 50...
 
-[48:46] Kau tiada di sini, God.
 
-[48:48] You have to do your job and then you have to make sure you have your Officer enough if you cannot you work without enforcement You go and find out where this leak happened Come on YB Data data what all things you can see But Re-investigation of the electric subsidy has been happening since January 2023 Nothing to do with the theft of bitcoin or anything And TNB is more powerful And
 
-[49:15] Sebenarnya, majoriti isi rumah menggunakan elektrik di bawah 1000 kW.
+[10:12] Salim Iskandar: Maknanya dia berlaku something jugalah? There is some factor also.
 
-[49:25] Dan diorang memang tak ada perubahan elektrik. Tapi bila dah sampai 1000 ke 1500, 1500 ke atas. Memanglah sebab. Dia begini Salim. Kalau dia dah 5 aircon.
 
-[49:41] But it's not just 5 aircon, it's 3 aircon. Yes, 3 aircon. 1 watt power, I've checked with TNB, they said if it's 3 aircon, it's around a few hundred. But sometimes, when the electric comes,
 
-[50:03] If the government wants to look handsome, don't give TNB a happy face. You have to do something about TNB. Because why? I'm telling you, sir. Because TNB is... No, he's not a TNB Muslim. He's actually a government subsidy. Okay, I'll give you his picture.
+[10:15] Rafizi Ramli: Kita, I think...
 
-[50:20] When we entered, in December 2022, January, you have already pulled 20 cents here. Actually, we are in the same decision. People don't know that the electricity subsidy has reached, if we don't do something, it can reach 15 to 17 billion a year.
 
-[50:44] Oh, YB just found out? No, I'm telling you. Oh, YB just found out. Okay, wait. Now, I'll take it in reverse. YB just gave me this. I want to burn this YB. YB, give it to me. YB said it's cute, right? I want to burn this YB. We take this. YB just became a government for 15 months, right? 15 months. How many months? About 20 months. 20 months. It's been more than a year. Okay, it's been more than a year. 20 months. Okay. Now, we pull it back.
 
-[51:06] I'm a scholar, today I'll go up, tomorrow I'll go down. Okay, after that, our country is a rich country. It should be fire, water, what's its name, all of these are not expensive like that. I didn't say YB, I said there are other people. I don't want to mention names, I'll be arrested. Okay, so when he said, you over promise, you said we will cancel the PPPTN. No, he actually didn't over promise. Okay, why, no, why, I also said the same before this.
+[10:17] Salim Iskandar: You have to you have to see, because maybe saya, saya tak mewakili mana-mana parti YB. Saya bukan orang PN, saya bukan orang tu. Saya malah saya dibelasah kiri kanan. Saya pun tak tahu kadang-kadang apa bendalah dengan ni kan. Yang saya bawa selalu adalah suara rakyat. Seperti mana YB tahu saya represent saya ada buat podcast juga tapi podcast kita macam level tepi jalanlah. Tak ada hebat-hebat macam ni semua. Okey, so saya selalunya bawa isu-isu rakyat bersama dengan partner saya Rafique Rashid, lawyer tu. Okey, so kita lebih cerita pasal rakyatlah, okey. Rakyat dan apa nama dia, apa-apa saja isu especially PMX kita ni, kita selalu bawa benda kita kritik apa semualah kan. So kita kritik pun kita kritik berpada because kita cakap benda yang tak betul betul, tak betul tak betullah. Kalau dalam hal sekarang ni, kita tengok dekat Sungai Bakap ni, kita bawa pergi rewind sikit ke belakang. Kita pergi ke Kuala Kubu Baharu. The Kuala Kubu Baharu, the result was good for PH.
 
-[51:33] Kenapa semasa... Oh, ya, formula. Ya, ya. Kenapa? In fact, formula minyak RON95 itu aku punya tahu sampai hari ini. Apa yang keluar ni? Tak tahu, tak tahu. Aku pegang tadi semua keluar ni. Tak lalu animated. I'm so sorry, I'm so sorry. Tak, tak. Dia kat atas. Kan? Sini, sini. Dia, dia beza. Okey, saya boleh terangkan soal minyak dan juga elektrik bersama-sama. Masa tahun 2017, 2018 kan? Masa itu berapa harga minyak mentah satu tong?
 
-[52:07] Masa tu dia lebih kurang $50 setong Bawa eh Masa tahun 2021 berapa setong?
 
-[52:21] 2020, lebih kurang 2020 salim Masa tu dah tengah covid semua lah So dia minyak mentah ni Dia masa 2015 dia jatuh mendadak dalam 30 Sekarang berapa satu tahun YP? Saya tak berpandailah Lebih kurang $85 Okay katakanlah in few months Dia dahji $40 So miak kita akan ikut pada pasaran kita kan So we are basically The miak will be following the market price...as a mechanism. Cuma kalau minyak itu dah turun...
+[11:14] Rafizi Ramli: Dia lain kerana Kuala Kubu Baharu...
 
-[52:56] That's a good question. I can answer it again. Not to Salim, but to those who are struggling outside. I mean, it must be fair to you too. So, for example, the price of RM2.05 that we have now is the price of raw oil in around 2018, around $50 a ton.
 
-[53:18] Bila dia jatuh dalam tahun 2020 ke 2021 tu Dia sampai $20 setong Aku nak tanya kau dan rakyat kat luar Ada tak minyak turun?
 
-[53:28] Muhyiddin Kenapa tak tanya Muhyiddin Masa minyak Yang itu dia orang tak bising tau Masa minyak turun sampai 20 dolar, 30 dolar setong Dia tak turunkan pun Dia faham lah kan Masalah dia kan Kalau harga minyak tu Yang masa kita orang Nak jawab yang saya ulang kan Masa tu kita orang kata Kalau minyak 50 dolar setong Boleh bagi singgit sekarang takkanlah tak boleh turunkan sedikit kerana subsidi itu pun dalam subsidi tahun 2015 lebih kurang 1 bilion. 2017 itu lebih kurang 5 bilion. 2018 lebih kurang 5-6 bilion kan. Kemudian sampai ke 2019-2020 itu dia tinggal 500 juta saja salib. Jadi masa itu kita kata takkanlah kos tak boleh ambil 2-3 bilion untuk turunkan 20-30 sen. Sebab harga dia Tapi masalahnya, by 2022, dia dah naik sampai ujung 2022 lah. Dia dah naik sampai $110 setang.
+[11:17] Salim Iskandar: Diesel belum naik.
 
-[54:38] When it becomes $110 a ton, the subsidy from the time of Muhyiddin, which should have been the price of oil, which is RM500 million, becomes RM55 billion, petrol and diesel. Muhyiddin can say, I did that because when it came down, I took the profit, right? We took it. So when it came up, we went back. So Muhyiddin can answer like that. Or Muhyiddin will say, my wife didn't give it.
 
-[55:03] I'm not involved in this matter. So, when Dato' Sri Anwar said that we can lower the price of oil, it was based on the price at that time, RM30-40.
 
-[55:20] 50 dolar Yang masa tu Takkanlah Dengan kita Katakanlah bajet kita Masa itu Dalam 280 bilion Last dia cakap Bulan 7 Tahun 2022 Betul?
+[11:18] Rafizi Ramli: Bukan.
 
-[55:32] Why can't we put it in the public? Because I'm not the Prime Minister, he said. This is Anwar who said, sorry, sorry, Anwar, don't be angry, brother. Don't be angry, don't be angry. Okay, he said, in July 2022, during the PKR Convention. Okay, he said that because we are not the Prime Minister. That's why, YB, I'm not angry at YB. I always, wait a minute, YB, don't be angry, be patient, be patient. This is to be said. Because when you become a leader, I'm talking about Anwar, Anwar. Sorry, this is my view as a Malaysian. I think you should just retire. Let the young people rise. This is my opinion. I want to see because this is a bright man. People say it's a cartel. It's not a cartel. But I think we have to be fair to everyone.
 
-[56:22] How long do we have to serve Jurassic Park? No, no. It's tiring. Go back to Anwar, Muhyiddin, go back to Anwar, Muhyiddin, Anwar. This is actually a reflection of our society as well. Our society needs older people to be more trustworthy. They can become our counsellors. How many young leaders have long experience in government?
 
-[56:52] YB, forgive me. Can I say something? Can I be frank with you? Sure, I don't want to be rude. If you want to say... If you're wrong, I'll make a police report and you're done. It's not my fault. I'm sorry. Okay, so, we've tested... Because we've seen the old ones, like Anwar and all. He's more or less like that, his story and all. We want to see some fresh mind.
+[11:19] Salim Iskandar: Diesel belum tarik.
 
-[57:20] This is what we want because we want to see someone like you, someone like KJ. If you ask me, KJ is my good friend. We are friends, but we don't know each other. So we need this kind of dynamic, a young figure who can move forward. Okay, we can't reject the old people. We respect with all due respect. I mean, if you ask me, even though you like it or not, even like Tun Mahathir, Who else is here? Kuli. Kuli or people like Hanwa. I mean, you should play with your grandchildren and then you become an advisor. Advisor is good. This is my view.
 
-[58:02] Apa sebenarnya masalah utama dalam masyarakat kita sekarang when it comes to leadership?
 
-[58:09] Is it related to ideas? Or the main challenge is to unite the people who are actually very polarized. The Malay people there. Why? Because of that, the young people, I'm not young, I'm almost 50 years old. How old are you? I'm 47. 47? How old are you?
+[11:19] Rafizi Ramli: Bukan. That's the thing kan. Jumlah dari segi sokongan Melayu pun lebih kurang sama dengan PRN dan PRU.
 
-[58:38] Kau nampak macam 25 25 eh Saya baru je 3 hari lepas jadi 51 So muda lah So you muda, I tua So I yang dah 51 ni pun, I wanted to see Someone yang muda Ya but I think At this stage You sama dengan KJ ke? You muda daripada KJ? Tak, I muda KJ, KJ 48 KJ 76, you were 76, I'm 77 77, okay So apa nama ni yang diperlukan sekarang Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[59:08] But this is how saya ingat dalam PKR contohnya kan. Saya dengan Dato' Sri Anwar, we work together.
 
-[59:15] well together kerana saya ada kelebihan saya dari segi I'm a technocrat jadi you know, sebabnya data gini-gini I understand the market better kan tapi ada benda yang saya tak boleh buat when it comes to leading a country or society sebab saya belum makan garam lagi contohnya untuk menyatukan semua orang sebagai orang tua because that is the biggest challenge negara. You have people like Dato' Sri Anwar Ibrahim that can bring everyone to the table dan bagi kita ruang yang muda-muda teknokrat ini untuk tumpu kepada kerja-kerja yang bersahabat dengan technical because not everyone can do what he is doing bringing the whole society yang berpecah belah ni around one table Are we one now? Well at least we are focused dan kita We are not sir. Ya tapi kita telah berjaya. Just now you just Untuk I, Melayu masih lagi 3. But hang on, hang on, hang on. Politically kan, Salim kan.
+[11:27] Salim Iskandar: Ada sikit naik kan? Ada sikit naik ya?
 
-[1:00:21] kita akhirnya berjaya bawa kestabilan politik di dalam negara ini and yeah of course it's two third government whatever we say ialah orang-orang pembangkang tiap-tiap hari dia berharap lah kerajaan jatuh tak bersatu but that's not the case dan sebab itulah pelabur semua ekonomi semua mula yakin because finally after 5 years betul ke dia yakin saya nak tengok actually I wanted to see YB sorry because YB cakap YB you menteri ekonomi you should know about this economy you have the data, you have the data, you see more. So, but until this thing is been realized, sampai saya nampak banyak yang masuk betul-betul, we see, of course kita tahu Google dah commit berapa bilion nak masuk apa semua, but until we see the factory has been built, datang sini apa semua kan, but setakat hari ini, yang kita nampak adalah,
 
-[1:01:11] Fahmi said, tomorrow we have a good news. Tomorrow is Eid, he said we have a good news tomorrow. What is this? Hey, this is a good news. Oh, he must have given us a toll free or something. Maybe he said we should delete the toll because of the subsidy. I already know what you want to say. Example, example, example, right? Then suddenly, tomorrow Datuk Sri Anwar Ibrahim will come with a style.
 
-[1:01:33] Bapak Sabu korang ni lah
+[11:28] Rafizi Ramli: Yang naik itu hanyalah pengundi-pengundi awal. Maksudnya polis dan tentera.
 
-[1:01:35] Tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak,
 
-[1:01:39] Saya kata, Ya Allah, Ya Tuhanku.
 
-[1:01:42] That is not your job, Mr. Prime Minister. I'm so sorry, sir. I mean, you're so big, I'm so small, even though my body is bigger. But then again, you know, sir, it's not like that. Okay, because you want to show, if you want to do something, okay, don't declare it like that. Just let Mak Sabu say it. I'll try to say it tomorrow. Hehehehe. Egg, egg, 3 cents. Hehehehe. Okay? Yeah, I'll do it again. People make noise. Egg, 3 cents. Egg, 3 cents. But it's an egg, right? No, no, hang on.
+[11:34] Salim Iskandar: Yang bagi 95% tu.
 
-[1:02:10] But actually the spending that the government has to pay to lower the 3 cents is more than RM100 million. In a situation where all the problems that we have... RM3 per person is RM1 million, right? No, no. But in a situation where we have debts, with interest, that we have to bear, actually the government can say, you know what, we can't even give one.
 
-[1:02:38] So, the investigation in the situation we have to do, that means that if we know that eggs are the common denominator that many families use, then giving 100 million a location is actually quite a monumental thing. How much per person do you get RM3 per person?
 
-[1:03:00] Jangan tengok RM3 satu orang Begitu you tengok You know You ada hutang yang tinggi Yang you nak kena bayar Wariskan semua ni kan You ada interest yang tinggi Tak payah bagi Not that Kalau tak bagi Kau kata potong subsidi pula Itu maksudnya Kita kembang
+[11:36] Rafizi Ramli: Ya. Yang undi Melayu saluran biasa dia tak tak berbeza. Cuma kerusi Kuala Kubu Baharu tak boleh dibandingkan dengan kerusi Sungai Bakap. Kerana Sungai Bakap ini kerusi majoriti Melayu dan lebih kampung. Dan di Sungai Bakap 61 peratus Melayu.
 
-[1:03:17] continuously alihkan. Can I? I just want to ask one thing, YB. Okay? It's okay if you don't give 3 cents for eggs. Because eggs are looking for a high density place, I'm saying. If we go to PJ or something, I mean, I live in Kota Damansara. If you go there to look for eggs, there are certain days that we can get. If not, if you go on a day that you've missed, there is still some shortage. But it doesn't happen in the village. All the villages are okay. But we really miss the white rice of the place.
 
-[1:03:45] Yang sangat-sangat menjauhkan diri daripada kita Jadi benda-benda macam ni semua So kalau YB nak tanya saya Saya boleh cerita macam-macam Pasal apa yang berlaku kat bawah Apa semua So then again Tapi benda tu kita akan argue apa semua YB You menteri ekonomi sir You just bring Prosperous Good Bawa lah investment yang bagus Apa semua We hope that lah you know Sebab Macam ni lah salim We hope that lah Kita bukanlah kita kata nak bagi jatuh je Apa semua Tetapi kalau bagi saya Kata-kata tu doa Tiap-tiap hari Tapi kalau Kalau Anwar seruk-seruk, memanglah kau pun psychologically rasa teruk kan? Ya, tapi kalau Anwar dah tak boleh handle.
 
-[1:04:22] Saudara Datuk Sri Anwar Ibrahim
+[11:55] Salim Iskandar: Di KKB 58?
 
-[1:04:25] orang muda, maksud saya, lelaki saya
 
-[1:04:29] Sorry lah, this is my opinion lah Tak ada kena-mengena Korang kata katil ke apa ke, you know
 
-[1:04:34] Unfortunately, Salim, I think your opinion is not shared by the majority of Malaysians. I mean, your opinion, if you ask me, I think this is the good junction, which combines all the leaders from all parties, from those who were in politics 40 years ago to the young ones, because it's a junction where we need everyone to focus on their strength.
+[11:57] Rafizi Ramli: KKB...
 
-[1:05:01] Yang tua-tua ni is to bring back society supaya kita Janganlah extreme and polarize sangat Yang muda yang ada technocratic skill yang boleh do, you focus on that one There are things I can do, there are things I cannot do, there are things KJ boleh buat, KJ tak boleh buat So we need everyone dan bukan sahaja umur, party pun we need everyone around the table Let's fix a country 3-4 tahun ni, lepas ni Siapa-siapa nak ambil ikut suka lah Tapi saya nak bagitahu satu lah, YB you have to be fair to the Malay Malay was the one yang tahun 1998 berguling depan jalan tau Tak jalan depan guling, I think YB you was one of them Kau tak, aku lah, kau tak kan, aku yang berguling kan I was Mahathir all the way Haa, ada ada ada Mahathir, I mengaku lah, I was to Mahathir, I was to Mahathir all the way Tapi tak adalah berguling, kita lari dari polis ke lah Yang barik depan lori tu mana? Itu orang PAS lah Bukan Mana ada Budak Cina satu yang muda dulu barik depan lori
 
-[1:05:58] This year. His name is Tian Chua? History. Okay. It's okay. Okay. Now, we have to accept the reality. He's not lying, right? He's sitting, right? He's lying. He's sitting. He's sitting. He's sitting. He's a bit tired. He's lying. At that time, he was caught. Pop. One snap. That's the picture. Okay. It's okay. That's the history. But we also have to accept the reality. That the Malays are today. Today. Hang on. Hang on.
 
-[1:06:21] Before that, he said that the old Anwar had to resign. Why didn't you say the same thing to Mahathir? Mahathir? Where did he become PM? Yes, he's almost 100 years old. You know, he's still...
+[11:58] Salim Iskandar: 58?
 
-[1:06:37] bergerak aktif, ada pandangan politik semua gini-gini eh yang itu boleh, tak boleh, kau tak suka dia retire pula dia adalah seorang negarawan haa pula ada bekas Perdana Menteri sekejap sekejap, bekas Perdana Menteri dua kali itu cili yang tak bagus tu lah, itu cili masam lah bekas Perdana Menteri dua kali, dia bagi opinion sama ada kau nak terima ke tak nak terima tak apa dan dia tengok tu kan Dia bagi opinion sekarang sebab dia bertanding dulu, dia kalah deposit. Kalau dia menang, dia masih lagi nak jadi Perdana Menteri. Tapi cuma dalam pilihan raya yang lepas, dia kalah deposit. Parti dia kalah. Kalau tidak, kalau you kata yang tua-tua ni kena retire Anwar ke Muhyiddin semua, eh, kau kan penyokong kuat Mahathir, you have to apply the same one kepada Tuan Mahathir. Betul, tak macam ni. Dengar, kita boleh suruh Tuan Mahathir retire pun. He's not going for any PM. Dia bertanding tau dalam PRU yang lepas Tapi katalah Tun M nak bertanding kan Katalah contoh kan ada satu seat ke apa ke Atau dia boleh buat macam dia baru keluar penjara Dapat pengampunan Lepas tu dia Batuk berhenti Dia pun berhenti Orang tu pergi bertanding Dah jadi parlimen-parlimen Ini sejarah berlaku ya Okay So kalau kita tengok lah Kalau kita nak compare Mahathir tak gila macam Mahathir yang kita kata maha fir'aun Dua kali dia tak jawatan
 
-[1:08:03] Dua kali. Dua ribu tiga. Dan...
 
-[1:08:06] 2020. Yes, 2020 he put the position. Twice a dictator who is said to be a maha fir'aun and all, he put the position twice. So, if we say he is crazy, look, how a person who wants to defend, this must be fair, wants to defend his position as Prime Minister, he has to close the parliament.
+[11:59] Rafizi Ramli: Tak. It's a non-Malay majority kerusi. Dia dia tak sama.
 
-[1:08:27] He closed the parliament, extended it, made a emergency, to defend the chair of the Prime Minister. I mean, I must be fair to everyone, you see, because we've seen this. Okay, so he did that. But when it comes to Mahathir, this is the beauty about him. No matter what we hate, we love him, but when it comes to his position, he said that when he doesn't have support,
 
-[1:08:50] I have a different view because I think what happened was more complicated than what Salim said. But because he's a Salim idol, I don't want to argue. Fair. Okay, now we're talking about Anwar, about the Malay community.
 
-[1:09:08] His stigma, Anwar Ibrahim, was proven in court. Hey moderator, how long has it been? It's been an hour and 10 minutes. Ah, a little bit more, it's over. Who is this? I don't know, they chose. Huh? How did he play here? We're both here. Poor him. Poor him? He doesn't want to mess around. He doesn't want to mess around. He doesn't want to mess around. Okay, YB, like this. Last, right, Salim? If I want to say something, I just said the stigma of the Malays, we have to look back.
+[12:05] Salim Iskandar: Tapi tapi Melayu kat KKB was 58% if I'm not mistaken. We have to check the data lah.
 
-[1:09:36] We have to look back at what happened to the Prime Minister today because the accusations that were made by the people now show what happened and we have been here for a year and a half and we cannot blame the Malays we have to be patient when we know when we try people don't want to accept this and that you have to find a way, be a big soul let Rafi Zee be the Prime Minister Thank you!
 
-[1:10:03] Itu bukan pesanan penaja Tak terapisi Tak apa nama ni I think Kita tak pernah Tolak lah cerita sebenarnya Kebimbangan orang Melayu tu perlu Diuruskan Cuma
 
-[1:10:22] Dalam menguruskan Apa nama ni Yalah kebimbangan Insecurity orang Melayu Kehendak orang Melayu tu kan Kita tak bolehlah sampai Apa nama ni Kita ambil Jalan singkat Contohnya Jalan singkat memang mudah Maksudnya kalau Pertanding lah Presiden PKR Pertanding lah Presiden PKR Tolong, tolong Salim Iskandar minta Dia tak nak ajak aku lagi dah Dia tak nak ajak lah Tak sabarlah Aku nak ambilkan Oh sorry So dia tak I think kita kena ambil jalan yang susah lah Kalau jalan pendek mudah lah Maksudnya bagi semua kan Tapi
+[12:09] Rafizi Ramli: Tak tak tak tak. Was wrong, is a 60-40 seats. Sebab agihan kerusi dalam PH, mana-mana kerusi yang melepasi jumlah pengundi bukan Melayu mengatasi 50 ke atas tu semua DAP bertanding. Jadi kerusi KKB is a 60-40 kerusi lebih kurang, whereas di Sungai Bakap dia terbalik. Tapi sebab tu kita kena tengok tahap sokongan. Tahap sokongan di KKB tak banyak tak berbeza pun dengan tahap sokongan masa PRN dan masa PRU. Cuma oleh kerana jumlah pengundi bukan Melayu...
 
-[1:11:02] Sebenarnya yang akan mewarisi hutang-hutang ni Anak-anak Melayu juga nanti Sebab 20 tahun akan datang 30 tahun akan datang Jumlah penduduk Melayu ni Lebih tinggi daripada China dan India Kita very productive Jadi akhirnya Kita boleh Selesaikan contohnya Orang kata orang bagi placebo lah Bagi penadol je Tapi nanti lama-lama dapat cancer kemudian Itu satu Yang kedua kita kena ambil maklum lah jalan ke depan ni ialah kita perlukan setiap kumpulan dalam negara kita ni dan orang Melayu kena bekerjasama dengan China, dengan India and vice versa sebab yang kita nak bersaing ni bukan sesama kita ni, ni yang Vietnam yang India, daripada benua India semua tu kalau negara terus
 
-[1:11:52] can't go up again in terms of the economy, finally the Malays are also the ones who have to be held accountable. If anything, that's the difference between the existing government and the path taken by the protesters. The protesters for Panadol, the sugar to the Malays, for the sake of the reason, give us the government that all the Malays, we Malays, we control everything, solve the problem. You and I know that's not the case.
 
-[1:12:22] And I think that's why I take responsibility if people are angry, angry about the economy. Can I say something? I'll add a little bit. You said thank you earlier. I have to. When YB said this, how is YB? YB has said a lot of things, the formula king, what all, YB has said what all. He is now like this, when people are angry,
+[12:22] Salim Iskandar: Diberi pada non-Malay.
 
-[1:12:43] Fima je lah
 
-[1:12:45] Terima je lah Redor je lah Dia tengah marah Dia kata takpelah Kata KJ Dia kata Dulu korang juga kata Miat nak naik apa semua kan Sampai sini miat nak korang apa semua Sekarang bila kena ludah kat muka Korang lap je lah Dia begini Dia kalau Benda itu yang Tidak
 
-[1:13:03] Apa nama ni, maksudnya tu pandangan Yang tidak memesungkan keadaan atau fakta Aku tak kisah Terima je lah Yang tu biasalah Contohnya, orang tak suka kepala aku botak Nasib kau Nasib kau orang tak nak rambut Tak nak rambut kan Tak nak Buat apa nak tanam rambut, sakit lah Ya, betul So, contohnya kan Tapi kalau benda itu Dia tidak melambangkan fakta yang sebenar Contohnya Kalau kata Brim sekarang lagi sikit daripada dulu Dulu BRIM sekali, sekarang 4 kali. Jumlah. Jadi, benda ni tak betul. Jadi, yang tak betul tu aku jawab lah. Kalau aku dah bagi fakta 4, 5, 6 kali, buat tak tahu juga, then kalau aku terbalul, janganlah marah. Benda tu dah ada kan. Jadi, I think bergantung juga kepada komen. That's why I don't have any problem siapa-siapa nak datang. Tapi, kita kena berpegang kepada yang fakta tu fakta lah. Yang lain tu contohnya pandangan. Perlukah muda, tua itu? Itu pandangan. Itu pandangan. Itu hal kamu lah. So I think so long as we stick to that, then tak ada masalah. Last my question.
+[12:31] Salim Iskandar: Terbalik.
 
-[1:14:11] Why did you change your name to Budi? I already answered it in the parliament You changed your name to Budi? Just make it simple, you changed your name to Budi Who made the song? Budiku, tabur, padu, kudu Salim, please follow my TikTok Don't block me, can you unblock me on Twitter?
 
-[1:14:33] Please unblock me on Twitter and please follow me. Please follow me. I... People will say it's a cartel. It's okay. It's a cartel, right? People want to say anything. Just let it be. Actually, what's his name? What's his name? Salim Iskandar.
 
-[1:14:49] Salim Iskandar Iskandar Oh ni Baju merah sama baju ni Masih lagi kena vlog Ya Why Tak kenal maka tak cinta Tak cinta ya betul Aku dah unblock Wow And then aku follow lah juga Follow lah Steady Tengok Rafizie Ramli follow you Memang kata lah Memang kata lah macam ni Sekarang kata lah tengok Haa tu dia Haa cantik tu At least kita buat depan-depan Betul-betul So bagi saya baca ni lah Rakyat Malaysia Saya cakap Saya jenis satu Kalau you kenal saya Apa you nampak saya inilah saya Saya tak suka bermuka-muka munafik Saya cakap macam ni Kalau ada benda yang tak tu Saya harap tak serik lah Sebab ada banyak isu lagi kita nak bincang So lepas ni kalau Dia orang semua hentam Kata kau katel aku bayar Kau nak jawab apa Saya hantar invoice je lah. Boleh? Bila aku dapat invoice, nanti aku tunjukkan lah. Ya boleh boleh. So baca tu cerita, sebab apa YB? Saya cakap satu lah YB. Dalam dekat X tu kadang-kadang, dekat X tu, dia kata apa tau? Salim dibayar. YB kena tahu cerita saya, background saya sikit-sikit. Macam mana keluar cerita tu? Okay, sebab ni bila nak habis ni? Itulah, takpelah sikit. Syok kan? Best kan? So apa yang berlaku dekat X tu, dia yang bagitahu ada kawan saya satu lah. Lepas tu bayar tak apa tak mampu bayar sekarang jadi miskin jadi saya minta serkah Dia kata macam tu lah jadi minta serkah ni Okay bermakna I'm a beggar Miskin minta serkah Tetapi bila datang dekat X pula dia yang kata Salim dibayar oleh PM, salim dibayar oleh Mahathir, salim dibayar oleh itu
+[12:45] Salim Iskandar: Awal naik.
 
-[1:16:34] Lepas tu aku duduk kat corner kata Korang kena decide ni aku miskin beggar ke Aku dibayar ni sekarang Mana satu aku ni So kadang-kadang aku fikir-fikir-fikir
 
-[1:16:44] Menangis kat wujud kata terjumpa tim pelantar
 
-[1:16:47] Jangan potong eh Jadi kita tak tahu sebenarnya Korang kena decide So korang Adakah aku kata Rafizi
+[12:46] Rafizi Ramli: Tu satu, pengundi Melayu aje yang awal aje. Tapi sebab pengundi bukan Melayu di KKB lebih tinggi, jadi walaupun dia turun sedikit, majoriti tu masih lebih kurang apa nama ni, sama dikekalkan macam PRN lepas.
 
-[1:16:56] Atau aku ni seorang rakyat biasa dari tepi jalan. Cili kasih taruh bersama. Yang bakar menteri.
 
-[1:17:06] Okay tapi jadi Formula semua okay eh
 
-[1:17:09] The formula is not okay. Salim has given us all kinds of chilies. But I hope, YB, regardless of whatever I said, regardless of whether people like it or not, I hope for the sake of the Malaysian people, please do something about it. InsyaAllah. Take care of our country. Don't change the government. If you change the government, you have to ask Muhyiddin. But as long as there is Muhyiddin, he won't change it. Don't worry. Because Muhyiddin, he has already held it. Oh, so damn! Okay, please. I think Politicians will do anything Anyone in our position Would want to do something Only
+[12:59] Salim Iskandar: PRN lepas. Okey, sekarang persoalan saya, okey kita balik balik kepada Sungai Bakap ya. Sorry Sungai Bakap.
 
-[1:17:50] Cara tu berbeza-bezalah In my case, like it Orang suka ke tak suka Kalau kau dah diberi kerja Might as well you selesaikan kerja tu Tapi orang benci kat you, I tengok jumpa dengan you Semangat dengan you satu jam I think you're quite very jovial, very good person I mean, you're very polite Apa yang nak marah? Tak kenal tak cinta? Kan? Jadi itulah, tak apalah I think bukanlah aku nak asut korang semua Aku dah panggil Bos! Nak buat jadi gua Bos, bos, kata Rafizi Aku dah panggil lah segala jenis manusia pun dia orang tak nak datang. I'm sure kalau dia datang pun dia jadi katel jugalah. Ya. Oh YB Varel kan? Nanti kita sembang dengan YB Varel. YB Varel come on! Oh YB Varel. Kita jemput dia. Tak apa nanti saya sembang dengan YB Varel. Why not duduk sembang? Amin cakap je lah. Amin okey. Daripada demo belakang rumah aku, yang dia demo itu belakang rumah aku tau. Kesian kucing-kucing aku. dah dah dah balik balik balik balik balik 1 hour and 30 minutes ok itu sahaja terima kasih salam lah salam ok thank you thank you it was my pleasure ok thank you so salam is the first kita harap yang lain akan join sekali kita buat invitation juga kepada semua yang
 
-[1:19:10] Let's burn the minister. Okay, thank you. See you again. If Papa Gomor comes, you won't be angry. Eh, sure. Gomor, come. Gomor. But poor Papa Gomor, he's in the lockup tonight.
 
-[1:19:25] I feel sorry for him. I just want to ask one thing. Regardless of our differences, we shouldn't hold hands. Because what you can show to the people is, if we have a lot of mouths, you show by doing the work. You show, we do a good job. It's like YB. He said, he explained everything. So I, and people say, we have to give him a chance. Because he has a plan. So we see, six months down the road, if nothing happens, we come again. We did it again, we did it again. So that's how it is. So we have to give a shot but we don't need to use it, to scare them. I mean, YB, you know, if you can send a message, you don't need to go and arrest them. So I think, yes, sometimes we, in anger, we say it because we are angry. So in the time of you all, the protesters, you all were very fiery, powerful, everything. And I got arrested 14 times. Got arrested many times, yes, exactly. I know, I know. team
+[13:04] Rafizi Ramli: Jangan guntangkan meja.
 
-[1:20:26] Masa orang lain buat You sepatutnya macam ni Saya minta PH ni Korang patut tunjuk Yang korang tak berjiwa kecil Macam kerajaan terdahulu Korang patut tunjuk Yang korang jiwa besar Kena kritik Ya ok
 
-[1:20:38] Don't be too over, don't make a fitnah. That's the thing, sometimes. If you're over and fitnah. You have to be patient. But if you're over and fitnah to... For example, and this is also my advice to not just you, everyone. If for example, the criticism is over and fitnah,
 
-[1:21:01] Walaupun konon ke atas Anwar Ibrahim Tapi he is a prime minister yang mewakili institusi So dia ada undang-undang Dia panggil criminal defamation Jadi kita tak But why tak guna Akta Hasutan 1948? But I Itu semua keputusan yang dibuat oleh Polis dengan AG sebenarnya You can go and check none of us Akta Hasutan 1948 Adalah manifesto PH Dalam PRU15 Untuk dihapuskan Koyak benda tu Bakul sampah kan Show us Tolong InsyaAllah Tunjukkan kepada kami Buang lakta tu InsyaAllah pada masa yang sesuai
+[13:05] Salim Iskandar: Goyanglah, sorry sorry. Tak boleh, dia berat badan ni bila dia ni dia goyang kan. Ha so okey, itu menunjukkan meja ni...
 
-[1:21:39] Oh, masa dia siap tak nak subscribe? Eh, eh, eh. Okeylah guys. Okey, okey. Assalamualaikum. Waalaikumsalam. Waalaikumsalam.
+
+
+[13:11] Rafizi Ramli: Kau tak ada fungsi dah lepas ni. Memang Salim tanya terus aje.
+
+
+
+[13:14] Haziq: Sorry. Boleh boleh teruskan.
+
+
+
+[13:15] Rafizi Ramli: Tak, it's okay. Boleh tanya aje, boleh tanya.
+
+
+
+[13:16] Salim Iskandar: Nampak drop mic balik kat akulah. Okey, so kalau kita tengok Sungai Bakap ni balik eh. Okey, KKB was before sebelum diesel, sebelum subsidi diesel ditarik. Sungai Bakap selepas subsidi diesel ditarik. So you suka atau tidak, memang ada efek. Betul tak betul?
+
+
+
+[13:39] Rafizi Ramli: Tak, okey. This is yang sangat berbeza dengan kita sembang politik tepi jalan Salim, dengan berdasarkan analisa data, okey ya. Dalam bila kita analisa data kan, ada dua konsep yang saya harap pendengar pun mula tengok, boleh Google lepas ni. Satu dipanggil correlation, satu dipanggil causation. Correlation ini maksudnya kita tengok data macam ini, keputusan dia macam ini. Jadi dari segi itu kan, nak kata ada full correlation pun tak ada kerana kita kata tahap sokongan bukan Melayu dan Melayu di KKB dan juga di Sungai Bakap, dia sama. Maksudnya kalau di Sungai Bakap, PRN yang lepas 22 peratus Melayu kepada PH, kali ini pun sama. Di KKB dalam 28 peratus macam tu Melayu dalam PRN lepas, baru-baru ni pun sama. Cina pun sama, India pun sama. Baik, so correlation tu nak kata ada correlation, tak ada. Tapi di bawah correlation, kalau pun kita katalah ada diesel, sebab itu orang bantah dan sebagainya kan. Sebab itu kita kena pergi lebih dalam, tengok ada causation ke tidak. Iaitu adakah data-data yang mengesahkan bahawa orang tidak keluar mengundi itu disebabkan oleh diesel? Data itu kita tak ada, kecuali kita pergi balik, kita ketuk pintu, tanya balik adakah kamu tak keluar ni sebab diesel dalam keadaan memang rekod pengundi bukan Melayu daripada PRK-PRK yang lepas dan juga PRN memang lebih rendah. Sebab itu kalau kita tengok masa Pilihan Raya Negeri Johor, Pilihan Raya Negeri Melaka, nampak PH kalah teruk kan? Sebabnya juga salah satu sebabnya ialah kerana pengundi bukan Melayu tak keluar. Tapi bila mari PRU 2022, sebab itu keputusannya itu sangat berbeza dengan PRN walaupun tempoh dia hanya 6 bulan. Sebab memang rekodnya kehadiran pengundi bukan Melayu. So if you ask me, saya tak boleh nak menolak bahawa itu faktor, I can't. Tapi kalau berdasarkan keputusan itu sahaja...
+
+
+
+[15:05] Salim Iskandar: Tanya baliklah.
+
+
+
+[15:50] Salim Iskandar: Ya, you cannot.
+
+
+
+[15:51] Rafizi Ramli: Dia tak ada You cannot.
+
+
+
+[15:52] Salim Iskandar: Masa tu I agree, I agree. But could be that, could be not.
+
+
+
+[15:55] Rafizi Ramli: It could be, it could be. Unless you go and really collect more data and study balik.
+
+
+
+[15:58] Salim Iskandar: Really study on that. Betul. PRN lepas, 1,500 majoriti. Baru-baru ni 4,267. So even though the turnout, voter turnout is like 62% eh, because as you said yang Chinese and Indian...
+
+
+
+[16:12] Rafizi Ramli: It's about 65. 65. Di Sungai Bakap is 65.
+
+
+
+[16:13] Salim Iskandar: 65 lah. 65, okey. Baik, so the the the result the final result was the the majority has been increased. So boleh katakan dua atau tiga kali ganda? Dua kali gandalah.
+
+
+
+[16:23] Rafizi Ramli: Tak, sebab tu you have to understand the maths. Okey ya, saya bagi contoh kan. Kalau sebelum ini 100 orang di satu saluran itu, 30 peratus adalah bukan Melayu, 70 peratus adalah Melayu. Kalau sama keluar ni, 30 peratus yang bukan Melayu keluar, 70 peratus yang Melayu keluar, tahap sokongan tak berubah. Yang ni 22 peratus, yang ini 90 peratus kan. Maka majoritinya tu katakanlah 100 kan. Tapi bila yang keluar yang yang yang 70 peratus Melayu ni keluar semua dan sokongan dia 22 peratus hanya kepada PH, tapi yang 30 peratus ni ada empat orang aje keluar. Jadi dia nampak majoriti tu daripada dia naik melonjaklah. Itulah keadaan yang nampak majoriti 4,000 tapi orang ingat ada peralihan sokongan. Tapi sebenarnya tak ada. Hanya kerana komposisi yang keluar itu.
+
+
+
+[17:16] Salim Iskandar: Tak ada. I understand, I understand. Tetapi YB, I'm so sorry YB eh. Apabila kita tahu ya, pattern orang Cina ni kalau kita tengok, tak kisahlah PRK ke apa ke, as long as they are they local lah, local eh. Orang Cina ni pukul 7:00 pagi dia dah siap dah. Dia kalau bersemangat eh, dia kalau berapi ni kan orang Cina ni kalau dia berapi dia semangat dia kata, "I want to go." 7:00 in the morning, tak ada kaum lain memang orang Cina aje. Ini ini bukan rasis eh, but this is a fact. Kalau kita tengok dekat undi-undi mana dulu kalau kita tengok...
+
+
+
+[17:47] Rafizi Ramli: Tak, itu hanya dalam PRU.
+
+
+
+[17:48] Salim Iskandar: PRU, betul.
+
+
+
+[17:49] Rafizi Ramli: Tapi bukan dalam PRN atau PRK.
+
+
+
+[17:51] Salim Iskandar: Tapi okey, baik. Tetapi biasanya penolakan undi yang bukan Melayu ni tak seteruk seperti yang berlaku di Sungai Bakap.
+
+
+
+[17:59] Rafizi Ramli: Dia bukan penolakan undi, sebab yang kalau kalau dia keluar, dia akan undi hampir 90-95 peratus. Dia tak keluar tu, kita tak boleh samakan dengan penolakan. You don't have any data to support mengatakan penolakan terutamanya dalam 4-5 tahun yang lepas, pola ni memang ada. Masa PRN, PRK dia tak keluar, PRU dia keluar.
+
+
+
+[18:01] Salim Iskandar: Sebab dia orang tak keluar.
+
+
+
+[18:07] Salim Iskandar: Betul.
+
+
+
+[18:14] Salim Iskandar: Betul, betul, betul.
+
+
+
+[18:21] Salim Iskandar: Ya.
+
+
+
+[18:24] Rafizi Ramli: Ha.
+
+
+
+[18:25] Salim Iskandar: Ya, tapi still walaupun kita kata data apa semua, the the actual fact is I'm so sorry to say this lah eh because ini pun Yang Bakar Menteri kan. So saya datang sini pun nak bakar juga ni.
+
+
+
+[18:33] Rafizi Ramli: Ha.
+
+
+
+[18:35] Rafizi Ramli: Tapi bakar kena berfakta dan berbuktilah Salim. Dia tak boleh cakap kedai kopi pusing pusing pusinglah kan.
+
+
+
+[18:38] Salim Iskandar: Ya, of course. Betul. The problem is now, sekarang ni kita hadapi hari ni adalah penolakan rakyat ni, dia dah macam kalau kita tengok dalam medsos apa semua, bukan TikTok lah. TikTok dah memang Fahmi dah control lah. Ops Fahmi jangan marah. Okey, so what happened is dekat tempat-tempat lain kita tengok keresahan rakyat. Ketidakpuashatian rakyat terhadap kerajaan hari ni. I'm sorry, sir, because I cannot blame you because you're just a minister. Okey, facts is facts eh, kau orang dengar eh, kau orang dengar.
+
+
+
+[19:15] Rafizi Ramli: Mentang-mentang dia datang podcast aku.
+
+
+
+[19:16] Salim Iskandar: Bukan bukan. Because why? Saya minta maaf eh, I'm still in the frame? Meja ni goyang kuat sangat, saya takut.
+
+
+
+[19:20] Rafizi Ramli: Ya ya ya. Dia takut dia out of frame, dia duk tolak meja kat aku ni ha.
+
+
+
+[19:28] Salim Iskandar: Okey, okey. So, I cannot blame you, okey. You are data man. We know that you always go with the data apa semua, tetapi the facts remain, see? Kalau saya nak blame you eh, you are just Menteri Ekonomi. Bukanlah kata Menteri Ekonomi still hebat eh, tetapi you have your bosses above. You have one boss above you...
+
+
+
+[19:48] Rafizi Ramli: Tapi konsep dia tak sama macam tu, Salim. Dia sebenarnya is a collective responsibility. Dan apa namanya, portfolio ekonomi itu adalah di bawah Kementerian Ekonomi kan. Jadi I think kita tak boleh nak kata the boss has to take the full blame. Sebab itu contohnya kan, zaman Datuk Seri Najib dulu kan, as much as we put a lot of focus on Datuk Seri Najib, it was actually quite a collective responsibility of semua menteri. Termasuk, I mean I mean yang yang dia kena tu dia kenalah, itu mengikut proseslah. Tapi...
+
+
+
+[20:23] Salim Iskandar: Tapi kasihan dia kena sorang aje.
+
+
+
+[20:27] Salim Iskandar: Ikut proses ikut mahkamahlah itu.
+
+
+
+[20:29] Rafizi Ramli: Tapi ada juga contohnya orang-orang yang sebahagian daripada kabinet lepas ke apa...
+
+
+
+[20:35] Salim Iskandar: Masih ada dengan kawan-kawan you sekarang?
+
+
+
+[20:36] Rafizi Ramli: Ada. Dia kadang-kadang tu senanglah, dia cuci tangan kan. Dia tak boleh sebenarnya. So in this case, I think...
+
+
+
+[20:44] Salim Iskandar: YB, biasalah tu.
+
+
+
+[20:46] Rafizi Ramli: Kan? So in that sense, it's a collective responsibility. Kalau kalau contohnya ada isu kos sara hidup, which kita tak pernah deny, memang cabaran dia ialah kos sara hidup kan. Of course, the main policy dan pandangan yang kita cuba buat tu kebanyakannya terletak di bawah Kementerian Kewangan, di bawah Kementerian Ekonomi contohnya, termasuklah juga MITI dan beberapa yang lain kan. And of course, we present our case, PM ada pandangan dia. Tapi nak kata 100 peratus ini sebab orang menolak orang itu, orang ini, I think it's a is a collective responsibility. So saya tak...
+
+
+
+[20:49] Salim Iskandar: Exactly.
+
+
+
+[21:26] Salim Iskandar: So you're saying that semua bertanggungjawab bersamalah?
+
+
+
+[21:28] Rafizi Ramli: Ya, saya tak ada masalah untuk kalau orang tanya kan. Cuma yang kalau saya tegur ialah jangan ambil sekerat-sekerat. Jadi contohnya kan, kalau PN sebelum ini rekod dia begini begini begini kan, dia pun minyak masak pun dia tak boleh selesai dulu, telur pun dia tak boleh selesai. Dia sedia maklum semua masalah.
+
+
+
+[21:30] Salim Iskandar: Okey.
+
+
+
+[21:50] Salim Iskandar: Apa kurang sekarang?
+
+
+
+[21:51] Rafizi Ramli: Minyak masak ada masalah ke sekarang Salim?
+
+
+
+[21:53] Salim Iskandar: Ada, still we got problem.
+
+
+
+[21:55] Rafizi Ramli: Mana ada? Harga sekarang bandingkan dulu.
+
+
+
+[21:57] Salim Iskandar: 2 ringgit RM2.50? No, I'm not talking about the price, I'm talking about the availability. Minyak tu.
+
+
+
+[22:02] Rafizi Ramli: Mana ada?
+
+
+
+[22:03] Salim Iskandar: Minyak yang yang RM2.50. Saya I'm not talking about the normal, the normal one it's okay, the normal one it's okay.
+
+
+
+[22:05] Rafizi Ramli: Yang peket?
+
+
+
+[22:07] Salim Iskandar: The normal one is okay.
+
+
+
+[22:09] Rafizi Ramli: Tapi minyak RM2.50 daripada minyak peket tu kan...
+
+
+
+[22:12] Salim Iskandar: Peket subsidi minyak tu lah.
+
+
+
+[22:13] Rafizi Ramli: Daripada dulu ada masalah. Sama ada macam mana pun dia ada masalah kerana isu dia bukan semata-mata isu pasaran, isu harga. Isu dia bila kita buat begitu, dia ada ketirisan.
+
+
+
+[22:25] Salim Iskandar: Ketirisan yang berlaku bukan di sempadan eh? Ketirisan berlaku dalam dalam kedai.
+
+
+
+[22:27] Rafizi Ramli: Dalam dalam dalam kedai.
+
+
+
+[22:29] Salim Iskandar: Dalam kedai. Dia Bangladesh kata, saya tengok ni hangpa ayaq, okey dia simpan kat bawah. Kawan dia datang dia panggil.
+
+
+
+[22:33] Rafizi Ramli: Sebab sebab itu pandangan saya daripada awal, semua orang tahu bahawa kita dah sampai satu had yang mana sistem kita nak bantu rakyat ni contohnya kita sediakan minyak subsidi RM2.50 satu peket ni, dia dah sampai satu had yang dah susah kita nak buat begitu kerana kita dah ada lebih kurang 4 juta orang asing. Dia tak sama dengan...
+
+
+
+[22:59] Salim Iskandar: Itu itu yang recorded lah, yang unrecorded?
+
+
+
+[23:01] Rafizi Ramli: No, recorded lebih kurang 3.5. Kita campur tolaklah 500,000 unrecorded, so lebih kurang 4 juta kan. 4 juta ni lebih daripada 10 peratus rakyat Malaysia. Rakyat Malaysia ni ada 30 juta aje kan? Jadi sebenarnya dan yalah, banyaklah yang berlaku. Dia sembunyi kemudian sebagainya kan. So benda tu dia bukan pentadbiran mana-mana pun dia tidak tertakluk kepada turun naik harga minyak masak ni, dia sebenarnya soal proses. Soal sistem. Itu juga yang diesel. Dia kita dah sampai ke satu peringkat, bila beza harga kita tu dah tinggi sangat sehinggakan dia dah ada sindiket. Dia dah jadi sindiket berbilion-bilion ringgit. Kalau kita terus macam dulu juga, on the one hand rakyat akan cakap, "Ni apa tiris, duit tak cukup semua." Kita tengok dia bocor, kita tak kisah.
+
+
+
+[23:13] Salim Iskandar: 32 juta.
+
+
+
+[23:19] Salim Iskandar: Beri pada kawan-kawan dia semua, ya.
+
+
+
+[23:53] Salim Iskandar: Baik. Saya nak minta Saya nak minta mohon mencelah ya. Saya minta mohon mencelah. Macam ni, kita cerita pasal diesel balik. Okey, saya saya betul kalau you nak cerita pasal nak tarik diesel nak tarik subsidi diesel atau petrol...
+
+
+
+[24:08] Rafizi Ramli: Bukan tarik, sasar balik.
+
+
+
+[24:09] Salim Iskandar: Sasar balik. Okey okey. Rephrase lah, whatever you say it okey. But the thing is kalau you want to do that...
+
+
+
+[24:10] Rafizi Ramli: Beza tu tau.
+
+
+
+[24:15] Salim Iskandar: Yes, you can do that but not now. In my opinion sebagai rakyat kita bercakap ni, you have to listen to our rakyat punya suara jugalah. Because kita dapati bahawasanya sekarang...
+
+
+
+[24:24] Rafizi Ramli: Rakyat banyak tau Salim, bukan you seorang aje.
+
+
+
+[24:26] Salim Iskandar: Banyak banyak, rakyat banyak. Because dekat saya saya saya...
+
+
+
+[24:29] Rafizi Ramli: And saya nak saya nak sebut, you know saya fahamlah podcast semua, influencer you know semua ada pandangan. Tapi kita juga kena berhati-hati kata, "Saya mewakili rakyat."
+
+
+
+[24:40] Salim Iskandar: Tak silap. Maknanya saya tak mewakili parti. Kalau parti ni dia ada depa punya agenda. Okey, mana-mana parti pun ada agenda. If you want to blame me, or you want to say that I'm PN, I'm not, sir. Okey, saya buat satu grup di mana saya tahu ada dalam grup ni kita banyak bantu rakyat yang susah apa semua eh. So dalam keadaan sekarang, di bawah ni bila saya turun merata-rata saya pergi apa semua saya jumpa, then I I I hear a lot of stories. I like to saya suka bersembang. Saya ni jenis peramah. Orang tak kenal pun saya tegur aje. Okey, that's me. Sebab orang tengok saya ni garanglah, dia ni maki oranglah apalah.
+
+
+
+[24:42] Rafizi Ramli: Okey ah okey.
+
+
+
+[25:12] Rafizi Ramli: Eh tak garang, comel apa malam ni.
+
+
+
+[25:14] Salim Iskandar: Ya? Comel eh? Kan ah?
+
+
+
+[25:18] Rafizi Ramli: Tambah bila diletak spek mata kat atas.
+
+
+
+[25:21] Salim Iskandar: Ini spek sebab tak nampak. Okey, so basically itulah masalah yang kita hadapi. So kerajaan kena dengar. Okey, I know boleh cakap data apa semua tapi kerajaan kena dengar yang sekarang ni ya kita sekarang ni memang kita tengah susah. Ini saya tahu kerajaan pun tahu, tetapi rakyat tengah susah sekarang ni. Jadi bila ditarik subsidi ketika ini, bersasar bersasar eh. Okey, contoh saya bagi eh, saya ada satu kawan. Kawan saya ni dia pakai apa nama dia, trak diesel eh. So sekarang dia biasanya isi seminggu seminggu sekali dia isi untuk dia berjalan merata eh. Dan sebulan dia isi empat kali. Okey, sekali isi dulu dalam 150, 150-160 lah, that's the range eh untuk yang Mitsubishi Triton. Okey, so empat kali isi is about 600. Sekarang dengan harga minyak baru ni, bila dia isi dia dah jadi 250. Okey, 250 so kadang-kadang pergi 260 macam tu lah kan? Okey baik. Sebulan dah jadi 1,020, kita ambil 1,000 lah at average. Subsidi bersasar kita dapat RM200. Okey, RM200 maknanya dia keluar RM800. Okey, itu mula dia bayar 600 sekarang dia bayar 800, maknanya still kenaikan Ini cerita ini sorry YB, maybe I'm not intelligent as you are, sir. Okey, I'm I'm I'm a very street person, you see. So, but then again, when you see at that, we already have some increment there. Okey, that's extra cost that we have to pay. All right, so these are the things that we are we are facing lah ya.
+
+
+
+[26:57] Rafizi Ramli: Baik eh, okey. Saya tak rasa ada kerajaan sebelum ini yang Perdana Menterinya sepanjang masa bercakap pasal basmi kemiskinan. Whatever you say about Anwar Ibrahimlah, I don't think you have seen any Prime Minister before yang mengerah semua untuk basmi kemiskinan. So daripada situ maksudnya, it's very clear kita faham keadaan di bawah kan? Jadi...
+
+
+
+[27:25] Salim Iskandar: Bercakap...
+
+
+
+[27:26] Rafizi Ramli: Hang on, hang on. Let let me finish, let me finish. Sebab saya nak jawab juga yang cerita diesel tu. Simpan cili sikitlah. So, I think in that sense I think we have to give the credit where it is due. Sebab itu contohnya bila basmi kemiskinan tegar kan. Bila PM kata bahawa kemiskinan tegar telah dihapuskan, sebab memang kita go through setiap satu di dalam rekod dan yang yang masih rekod kata miskin tegar, tapi bila kita check sebenarnya sama ada dia dah keluar daripada garis kemiskinan. Dan kita kena pakai satu standard. Sebab masing-masing akan kata saya susah, saya It's quite relative kan? So standard tu ialah standard yang diguna pakai di seluruh dunia dan sebelum ni pun kerajaan pakai standard yang sama. Meaning that kalau you pendapatan isi rumah di bawah 2,000 lah eh, you miskin tegar. So kita dah go through setiap satu negeri seorang seorang seorang. Mana yang di atas kita keluarkan, mana yang betul-betul di bawah kita tambah duit supaya dia dapat. Jadi in that sense lah kan...
+
+
+
+[27:30] Salim Iskandar: Dah panas, panas eh?
+
+
+
+[28:31] Salim Iskandar: Tambah duit daripada segi apa, STR?
+
+
+
+[28:33] Rafizi Ramli: Daripada STR, daripada apa nama ni, ICU. Kalau untuk kita naikkan dia melepasi RM2,000 sebulan. Jadi benda tu berlaku. Jadi tapi yalah, okey eh. Sebab tu saya kata kita kena tengok kumpulan demi kumpulan relative kan. So yang itu kita tumpukan terlebih dahulu kan. Kemudian pula, sama juga cerita diesel. Saya fahamlah, ada orang dia pakai minyak lebih sikit kerana kegiatan ekonomi dia ataupun perjalanan dia mungkin lebih kan. Ada orang kurang sikit kan. Jadi untuk kita buat dasar, kita nak letak berapa kita nak bagi ni, sebab itu kita kena ambil data purata satu negara. Dan kalau ikut datanya, penggunaan minyak diesel 200 itu adalah kadar purata yang digunakan oleh keluarga biasa. So memang betullah akan ada yang dia pakai lebih sikit, dia tinggi sikitlah. Tapi ada juga orang lain yang contohnya dia tak pakai sebanyak tu, dia dapat 200. Maksudnya keluarga yang itu sebenarnya dia dapat tambahan lagi. That one you pusing kut mana pun Salim, memang akan ada yang the different lah.
+
+
+
+[29:03] Salim Iskandar: Perjalanan dia jauh, ya ya.
+
+
+
+[29:44] Salim Iskandar: Akan ada betul, saya tak nafikan, yes. Tetapi majoritinya kalau kita bekerja biasa, kalau kita pergi balik kerja apa semua menggunakan diesel, sesetengah kereta ni diesel tu memang isi seminggu sekali tu it's quite common. Saya cakap yang paling low lah ni kan? Ada yang jenis pergi hantar barang apa semua, mungkin dia pakai lebih lagi eh. So di sinilah jadi masalah. That's why as as I said, I'm not against the idea, but not at the moment.
+
+
+
+[30:10] Rafizi Ramli: Tak, okey. You see...
+
+
+
+[30:11] Salim Iskandar: You you should wait until sir...
+
+
+
+[30:13] Rafizi Ramli: When? Let me ask you when? Bila kata you should wait, bila?
+
+
+
+[30:16] Salim Iskandar: Bagi We we have a problem now dengan ekonomi kita, okey?
+
+
+
+[30:19] Rafizi Ramli: Okey, dia berkait dengan ekonomi. So that's why I want to ask balik, bila kata we should wait ni sampai sampai bila?
+
+
+
+[30:25] Salim Iskandar: Saya nak tanya YB Rafizi...
+
+
+
+[30:27] Rafizi Ramli: Tak dialah, aku tanya engkau. Kau jawab dululah sampai bila.
+
+
+
+[30:30] Salim Iskandar: Okey, you kena tunggu sampai kita dah okey. Macam mana kita nak okey? Macam mana kita nak okey? Macam mana kita nak okey?
+
+
+
+[30:33] Rafizi Ramli: Okey okey okey okey. Okey, you jawab dulu ke aku nak jawab dulu ni?
+
+
+
+[30:37] Salim Iskandar: Tak apalah, bagi you jawab.
+
+
+
+[30:38] Rafizi Ramli: Okey, okey. So that's precisely the problem kan. Successive government terus bercakap bahawa kita kena tunggu okey, tunggu okey. Sebenarnya keadaan negara makin lama makin teruk dan dengan unjuran itu sampai bila-bila kita tak okey. Dan apa yang kerajaan nak buat melalui penyasaran subsidi kepada rakyat ni, dia sebenarnya ada berkaitan untuk memperkukuhkan ekonomi negara. Because sekarang subsidi dah sampai 52-55 bilion setahun. Bukankah lebih baik it's precisely as you say, oleh kerana keluarga banyak yang susah kan sekarang. Dan kita juga sedia tahu, satu kalau diesel dia bocor. Dia banyak apa nama ni, seludup. Dia banyak dalam negara ni industri yang patut tak dapat dia ambil kan. Kemudian kalau RON95 kita tahu keluarga yang lebih berada, T20, upper M40 ni sebenarnya dia kereta lagi banyak, dia pakai lagi banyak. Jadi jumlah subsidi tu lebih banyak pergi kepada orang yang sebenarnya tak perlu pun subsidi tu berbanding dengan orang kat bawah ni. Contohnya kalau dia ada motor sahaja, dia dapat sebulan berapa aje. Tapi kerajaan tetap membelanjakan 52 ke 55 bilion. Bukankah lebih baik ambil duit tu, alihkan kepada keluarga-keluarga yang lebih layak? Okey ya. So sebab dengan berbuat begitu, satu bukan sahaja kita boleh alihkan dan dia orang akan dapat lebih banyak. Yang keduanya, itu akan membaiki ekonomi negara yang akan merancakkan lagi ekonomi kerana sebab kerana kita akan mengurangkan hutang. Dan pada masa yang...
+
+
+
+[32:27] Salim Iskandar: Apa yang rancak YB? Saya minta maaf YB, saya terpaksa kena potong eh. Okey, saya yalah, saya cili kan? Saya memang tak boleh, saya mesti nak juga cili ah. Okey, kita cerita pasal rancak. Then tiba-tiba kita tengok sekarang ni, bila you tarik subsidi, maknanya dia orang punya income tu dah mula yalah because ada sesetengah yang okey, ada sesetengah yang tak okey kan? Okey baik. Dan saya tengok kerancakan ekonomi sekarang berbalik-balik pada orang spend eh. Sekarang saya nampak orang lebih takut nak spend. Dia orang kalau you tengok kedai mamak ke apa ke indikator because biasanya kalau you just pergi, you just tengok. Ekonomi is different daripada data. Dia ada juga tengok apa yang berlaku kat bawah. Okey, so kalau kita tengok the the the spending of the people, they are more careful careful now. Banyak orang pergi shopping complex penuh, ya betul saya tak nafikan ya. Shopping complex kalau weekend kita pergi penuh, tapi that's more window shopping.
+
+
+
+[33:10] Rafizi Ramli: Okey.
+
+
+
+[33:24] Rafizi Ramli: Okey, then let me ask you this, Salim eh. Kalau you kata data-data ni semua economy is not data, tak boleh kira-kira, kita kena tengok yang masalah kita, kalau kita tengok di keliling kita kan, kita hanya berada dalam lingkungan orang yang sekeliling kita. Kalau pun orang yang sekeliling kita tu mewakili segenap lapisan masyarakat kan, itu pun bukan lagi memberi gambaran keseluruhan tentang ekonomi. Tambah lagi kita ni mustahillah boleh kenal semua orang and dia akan ada sampling bias. Okey, sebab itu akhirnya whatever we say, kita kena bergantung kepada pelaporan rasmi ekonomi negara yang dibuat mengikut standard antarabangsa, satu dunia pakai ni bukan kita pandai-pandai. So okey eh, so when you say bila kita tengok orang kurang berbelanja sebenarnya, benda itu tak sama dengan hasil ekonomi. Hasil ekonomi bila contohnya dia berkembang suku pertama dulu 4.3 peratus kan, bahagian paling besar yang menyumbang kepada pertumbuhan ekonomi itu ialah consumption. Perbelanjaan rakyat, dia bukannya pelaburan dan sebagainya. Jadi tidak ada correlation yang contohnya kita tengok kita rasa orang kurang berbelanjalah, sedangkan kedai-kedai ekonomi yang datanya dikumpul daripada semua ni menunjukkan perbelanjaan itu kekal rancak. So so yang mana satu if you jadi kerajaan, yang mana satu you nak pegang ni? Nak dengar yang Salim cakap dengan empat lima orang ataupun nak mendengar menggunakan data yang menunjukkan bahawa perbelanjaan kekal rancak dan itulah yang memacu ekonomi? Sebab itu eh kalau kita alihkan subsidi, satu dia akan apa nama ni, membolehkan yang yang yang tertekan ni dia dapat tambahan wang eh.
+
+
+
+[33:48] Salim Iskandar: Betul.
+
+
+
+[34:13] Salim Iskandar: Tetapi...
+
+
+
+[35:01] Salim Iskandar: Kalau...
+
+
+
+[35:08] Salim Iskandar: Baik.
+
+
+
+[35:25] Salim Iskandar: Tambahan ni saya dengar daripada tadi YB duk kata tambahan, you akan bawa subsidi dia pergi ke sana apa semua. Okey, memanglah saya mewakili empat lima oranglah katakan. Memanglah we just take it as a as a that eh. Saya mewakili empat lima orang aje, dalam grup saya ada 7,000 orang. Saya buat Cili Kasi Taruk ni. Dan kita...
+
+
+
+[35:42] Rafizi Ramli: Tapi itu grup yang ada sampling bias Salim, yang yang maksudnya memang semua sekepala macam you. Dia tidak melambangkan semua silent majority ni.
+
+
+
+[35:48] Salim Iskandar: Sampling bias. Betul, betul. Tetapi itu satu grup. Saya juga ada di X, saya juga ada di Facebook, saya juga ada di YouTube, saya juga ada di saya pakai semua platform eh. Semua platform saya pakai, bila saya buat live saya buat semua. So kebanyakannya apa yang berlaku bila dia orang susah ke apa ke, dia orang akan datang mengadu eh. Akan mengadu yang mereka sekarang hadapi kesulitan ya apa semua. Kalau satu dua orang tak apa because networking kita pun kita akan suruh pergi check tengok, mungkin ada dekat Johor, Melaka apa semua kan. Pergi tengok apa masalah, betul ke ni? Sebab kita dah pernah kena tipu. Ada yang menyamar kata kan. Jadi so kita buat apa? Pergi check tengok, tengok betul-betul memang susah, okey. Kalau nak kata bawah garis kemiskinan 2,000, means to say ada yang buat ambil gaji 1,500 aje, so minimum payment kan. So dan ada anak apa semua, so they are facing this problem. So okey, katakan you tarik subsidi, you bagi bantuan, even STR pun sekarang ni YB, STR pun bukan semua orang dapat macam zaman dulu YB. Dia terlampau straight and and daripada segi itu YB, okey kalau kita argue benda ni I mean I cannot say that you are right, I'm right also. So...
+
+
+
+[36:54] Rafizi Ramli: Tak, I can only argue with you based on data. Okey contoh I know, I know Salim, but you kata contohnya STR sekarang ni tak semua yang dapat, tak ramai yang dapat macam dulu.
+
+
+
+[36:57] Salim Iskandar: You are You are data man, I'm talking about voices.
+
+
+
+[37:07] Salim Iskandar: It's not like that, ah?
+
+
+
+[37:08] Rafizi Ramli: Tak. Masa BR1M mula-mula dulu, ada lebih kurang 6 juta orang aje. Sekarang penerima STR 10 juta.
+
+
+
+[37:17] Salim Iskandar: They did?
+
+
+
+[37:18] Rafizi Ramli: So macam mana kita nak kata...
+
+
+
+[37:19] Salim Iskandar: You are That's why your data is very I'm very a bit shocked.
+
+
+
+[37:23] Rafizi Ramli: No, itu adalah data yang diaudit. Data yang sama yang disediakan oleh kumpulan yang sama, pegawai kerajaan daripada zaman Datuk Seri Najib sampai sekarang.
+
+
+
+[37:32] Salim Iskandar: What is the rate of STR dibayar sekarang ni?
+
+
+
+[37:35] Rafizi Ramli: Lebih tinggi daripada dulu.
+
+
+
+[37:36] Salim Iskandar: Rata-rata? Berapa?
+
+
+
+[37:37] Rafizi Ramli: Dia kalau satu tahun dia ada kategori-kategori dia.
+
+
+
+[37:40] Salim Iskandar: Satu per per family? Ha okey, dia ada berapa kategori?
+
+
+
+[37:42] Rafizi Ramli: Ha itu lagi lagilah kan. Bila bila dia bertambah daripada dulu 6 juta sekarang sampai 10 juta penerima kan, dan oleh kerana STR diberikan kepada setiap individu, kadang-kadang satu isi rumah tu dua tiga orang dapat dalam satu famili tu. Dan STR telah dinaikkan kalau I think kalau satu famili yang paling miskin tu dia boleh dapat sampai 6,000.
+
+
+
+[38:07] Salim Iskandar: Hmm. Sorry YB, saya dengar daripada orang yang dapat BR1M ni apa semua, okey daripada dulu zaman Najib tu dapat, sekarang ni dia dapat ada yang dapat 250, 450...
+
+
+
+[38:18] Rafizi Ramli: Tolong Google, tolong Google. Zaman Datuk Seri Najib dulu, BR1M dapat berapa kali setahun?
+
+
+
+[38:19] Salim Iskandar: Ya.
+
+
+
+[38:24] Salim Iskandar: Sekali.
+
+
+
+[38:25] Rafizi Ramli: Sekali setahun, sekarang berapa kali? Berapa kali sekarang?
+
+
+
+[38:28] Rafizi Ramli: Empat!
+
+
+
+[38:29] Haziq: Empat.
+
+
+
+[38:29] Salim Iskandar: Empat kali dia pecah.
+
+
+
+[38:30] Rafizi Ramli: Ha macam mana tu? Ha tolong Google BR1M berapa sekarang. Dia sebenarnya lebih banyak sekarang. Cuma saya tak kata semua ni okey, Salim because kita tahu bahawa harga barang memang lebih tinggi sekarang berbanding dengan dulu. Kita juga tahu bahawa terutamanya 3-4 tahun yang lepas masa zaman COVID tu, kenaikan inflasi yang kami warisi tu lebih tinggi dalam tahun 2021, 2022 dekat arah 2023. Jadi harga barang ni bila dia naik, dia kekal kat situ. Jadi I'm not saying that sebenarnya semua okey, tapi kalau nak kata dipotong, semua tu tak betul, ha kan?
+
+
+
+[38:45] Salim Iskandar: Ya.
+
+
+
+[39:12] Salim Iskandar: Faham. So okey, I mean I have to accept also, right? So kita kalau buat ni kita kena terimalah, okey. So tak apa, we are talking about data dan tapi one thing you have to know that the rakyat, they are facing...
+
+
+
+[39:23] Rafizi Ramli: Tak, saya tak pernah Saya tak pernah menolak yang itu. Sebab itu contohnya, bila kita rancang dan yang ini ada beberapa perkara yang yang yalah pedihlah untuk kita buat kan. Kalau sebelum ini kan, pendekatan pentadbiran sebelum ini melihat semata-mata kepada bagi subsidi pukal untuk mengekalkan harga, tapi dia tak nak bercakap pasal gaji dan pendapatan. Sekarang kita kata kita kena buat dua-dua dan subsidi yang ini pun dia dah sampai ke peringkat subsidi minyak sahaja lebih kurang 55 bilion, campur STR, campur subsidi lain, campur LPG, campur elektrik dia sampai 80 bilion. Sebab itu kita nak sasarkan kerana kalau subsidi stail pukal sebelum ini, memanglah rakyat kata, "Okey, at least harga tak naik kononnya kan." Tapi 80 bilion ni banyak pergi kepada syarikat-syarikat. Lebih baik dialihkan supaya masuk poket rakyat tiap-tiap bulan. Yang itu ya, ha?
+
+
+
+[40:25] Salim Iskandar: Bukan bukan pakai STR.
+
+
+
+[40:27] Rafizi Ramli: Kalau kalau tengok, diesel kita memang bagi tiap-tiap bulan, 200 200 200 kan? Jadi apa...
+
+
+
+[40:32] Salim Iskandar: Tapi bukan semua rakyat dapat, YB.
+
+
+
+[40:34] Rafizi Ramli: Yalah, siapa yang tak ada diesel, kecualilah kalau Tuan Ibrahim Tuan Man naik motor pakai diesel. Kalau tak ada Kalau tak ada diesel, tak dapatlah. Kecuali ada kereta...
+
+
+
+[40:39] Salim Iskandar: Dia tak dapatlah. Tak dapatlah.
+
+
+
+[40:44] Salim Iskandar: Okey, saya saya saya nak tanya...
+
+
+
+[40:45] Rafizi Ramli: Tak jumpa lagi Google STR?
+
+
+
+[40:47] Salim Iskandar: Tak apalah. Itulah masalah dia. Kalau Google pun tak jumpa, tak apalah. It's okay.
+
+
+
+[40:53] Haziq: Betul, zaman sekarang empat kali. Zaman Najib dulu the less than, tapi kita tengah cari lagi.
+
+
+
+[40:58] Salim Iskandar: Ya, tak apa. Okey, fine. It's okay because sekarang ni kita berbalik-balik pada apa nama dia...
+
+
+
+[41:04] Rafizi Ramli: Tak apa, okey. Nanti jap, tadi kan satu lagi benda yang sangat berbeza yang kita buat sekarang ni ialah kita nak naikkan gaji. Sebab tu kakitangan awam kita dah selesaikan, PM akan umum. Kita sekarang buat projek rintis untuk dasar gaji progresif untuk pekerja swasta yang dalam lingkungan gaji 2,000 ke 5,000. Kerana kalau tumpu semata-mata kepada mengawal harga kan, kena belanja sampai 80 bilion, 1/3 daripada perbelanjaan negara hanya untuk kekalkan, tapi gaji tak naik. Tak sama, tak jadi juga. So dari segi itu...
+
+
+
+[41:44] Salim Iskandar: You nak naikkan gaji penjawat awam?
+
+
+
+[41:46] Rafizi Ramli: Penjawat awam memang dah dibuat keputusan dan dia akan diumumkan masa bajet.
+
+
+
+[41:49] Salim Iskandar: Dah. Boleh? Masa bajet?
+
+
+
+[41:52] Rafizi Ramli: Tapi aku nak tanya engkau eh, ada ke tidak sebelum ini kerajaan yang memberi fokus kepada pekerja swasta yang di atas gaji minima ni? Sebab sekarang ni gaji minima semata-mata dia tak membantu rakyat sangat aje. Bukan saja sebab 1,500, kerana yang banyak gaji minima ni adalah pekerja asing. Sebab 3.5 juta yang berdaftar ni pekerja asing. Dia orang yang buat kerja bawah ni dan dia orang yang paling banyak dapat gaji minima. Pekerja kita ni di atas sedikit gaji minima, tapi bila gaji minima tu naik naik naik, kompeni dia naikkan yang ini, yang ini ni yang rakyat Malaysia ni tak naiklah. Sebab itu kita tengok sebahagian besar rakyat kita gaji dia bawah 3,000. Dan kita tengah buat projek rintis dasar gaji progresif supaya kita tengok macam mana semua dengan harapan selepas ini bila kita ada dan laksana secara menyeluruh, pekerja swasta yang gaji dia antara 2,000 ke 5,000 itu juga boleh naik gaji secara berkala, baru dia boleh imbangi.
+
+
+
+[42:07] Salim Iskandar: 1,500 tak cukuplah.
+
+
+
+[43:00] Salim Iskandar: When you're planning to do that? I tak boleh argue ah sekarang because YB cakap they are planning. So it's not...
+
+
+
+[43:05] Rafizi Ramli: No no no, projek rintis sedang berlaku sekarang.
+
+
+
+[43:07] Salim Iskandar: Sedang berlaku, okey. Jadi berapa lama kita akan nampak?
+
+
+
+[43:09] Rafizi Ramli: Projek rintis akan selesai September 2024. Dan berdasarkan dapatan daripada projek rintis itu, itu memberi enough evidence for us to design to scale up kepada lebih ramai bermula 2025 ke atas. But let me ask this question. Dengan segala yang kami kita duk cakap ni kan, PN pernah bercakap ke pasal nak menaikkan gaji rakyat? Kalau saya tanya, katakanlah aku duduk kat situ, Muhyiddin Yassin duduk kat sini. Kalau aku tanya Muhyiddin Yassin, sebenarnya dengan you cakap pasal rakyat menderita, semua orang tahu keadaan susah.
+
+
+
+[43:30] Salim Iskandar: Okey.
+
+
+
+[43:48] Salim Iskandar: You ask a very wrong question to a very wrong person. I'm sorry eh.
+
+
+
+[43:51] Rafizi Ramli: Ya.
+
+
+
+[43:52] Salim Iskandar: Kalau saya kata kerajaan hari ni gagal, saya juga kata pembangkang terpalang lemah. Dua-dua sama.
+
+
+
+[44:00] Rafizi Ramli: Boleh bersalam tak Salim? Boleh bersalam tak? Boleh bersalam.
+
+
+
+[44:03] Salim Iskandar: Okey, I mean, you know, sir, I'm I'm being fair because dia orang semua tahu saya orang paling kuat bantai Muhyiddin because you cerita banyak, you you doesn't show anything, I mean apa semua. So I must be fair. Okey, I must be fair because I'm fighting for the people. Okey, our main goal, kerajaan pun fighting for the people, but we want to see the result, okey? Kita tak naklah blame kata everything apa semua ni semua. Cuma Anwar ni, saya minta maaflah YB eh. Datuk Seri Anwar jangan marah eh. Ha okey, dia macam ni tahu.
+
+
+
+[44:08] Rafizi Ramli: Fair enough, fair enough.
+
+
+
+[44:21] Rafizi Ramli: True.
+
+
+
+[44:23] Salim Iskandar: Ya.
+
+
+
+[44:26] Rafizi Ramli: Ya.
+
+
+
+[44:32] Rafizi Ramli: Dia cute dia buat macam tu.
+
+
+
+[44:35] Salim Iskandar: Kurangkan bercakap, lebihkan kerja bos. Nah, kurangkan bercakap lebihkan kerja because why? Sometimes kita bercakap ni, kita bercakap cakap, "Saya ulang! Saya ulang!" YB marah nanti kata saya bahalol. Ha ni bahalol tunggulah ni kan? Ha jadi you know, I mean I mean I mean, you know, this this kind of thing yang akan berlaku. Jadi you know, kita dah tengok banyak dah and talking about investor apa semua. So YB, saya tak blame you YB, macam tadi saya kata tadi...
+
+
+
+[44:58] Rafizi Ramli: No, it's okay to blame me, I's hired for the job.
+
+
+
+[45:01] Salim Iskandar: Of course, but then again, we want to see the leader. So that's why saya cakap, sorry eh saya kalau nak pergi detail apa semua YB dah faham dah, YB is planning something. So kita akan tengok, kalau tak nanti kita datang kita tutur balik YB eh, boleh eh?
+
+
+
+[45:12] Rafizi Ramli: Kau bawa kau bawa cili yang betul dengan dia.
+
+
+
+[45:14] Salim Iskandar: Betul punya cili nanti, okey all right, cun. Boleh, sebab sekarang ni kita nak cakap banyak pun because YB is in the plan, doing that. Dia ada plan dia bila tarik subsidi...
+
+
+
+[45:21] Rafizi Ramli: Cuma cuma okey eh, I I I want to give the perspective kan Salim kan. Okey eh, masa awal-awal we came to office lah lebih kurang 14-15 bulan yang lepas. Masa itu bukan saja orang biasalah, dunia pun tanya, penganalisa pun tanya, "Okey apa plan ekonomi kerajaan gini gini kan?" Masa tu bila kita lancar satu satu satu daripada peralihan tenaga, kemudian NIMP, kemudian fiscal consolidation kan. Memanglah dalam tahun 2023 tu dia tak nampak kesan. Sekarang lepas lebih kurang 15 bulan, kesan tu dah nampak. Bursa sekarang ni tengah naik dan insya-Allah menjelang akhir tahun ni kalau ikut unjuran dialah, dia boleh melepasi 1,700. Last sekali kita 1,700 ni kalau masa COVID tu sebab glove lah. Tapi sebelum itu, memang susah nak lepas 1,700, 1,800 ni. Kalau kita tengok yang dua tiga hari lepas kan, firma antarabangsa mula flag up bahawa Malaysia ialah tempat untuk pelabur-pelabur masuk. The last sekali benda ni berlaku ialah 6 tahun yang lepas yang mana upgrading ni berlaku. Jadi maksudnya, memanglah kita kena bagi tumpuan awal-awal itu kepada ekonomi yang besar dulu. Sekarang ini bila itu dah dapat keyakinan, pertumbuhan ekonomi elok, sebab itu kita akan pastikan macam dasar gaji progresif yang lain ni trickle effect tu sampai kepada rakyat melalui gaji dan sebagainya. Tapi dia tak boleh berlaku serta-merta, dia ambil masa sedikitlah.
+
+
+
+[46:01] Salim Iskandar: Ya.
+
+
+
+[47:00] Salim Iskandar: Ya, tapi saya minta maaf cakaplah YB with all due respect, you know, saya tak nampak apa pun. Saya minta maaflah eh. Saya mungkin saya saya ni seorang yang bebal, bahalol, yang kurang cerdik...
+
+
+
+[47:13] Rafizi Ramli: Agak comellah.
+
+
+
+[47:16] Salim Iskandar: Tapi tapi saya rasa saya tak nampak dan apa yang kita nampak hari ini adalah dan satu kenaikan bahan kenaikan apa elektrik. YB, kenaikan elektrik ni gila YB. Saya sendiri YB, daripada dia naik dia naik naik mencanak tu sampai eh kau orang ni gila ke apa ni? Tapi consumption kita makin kurang because kita tak pakai ekon banyak dah, takutlah sekarang takut. Jadi lepas tu anak-anak pun dah makin besar, dah kahwin, dah berhijrah keluar. Jadi tinggallah kita main golf kat rumah apa tak ada benda nak buat kan? Sebab ada anak-anak kecil apa semua kan? So yang dah besar dah besarlah, yang kecil-kecil lagi. So tapi kenaikan api tu menggila, okey. Yang paling saya paling menakutkan, yang paling-paling kita takutlah YB. TNB sekarang ni cerita macam ni contoh eh, contoh eh. Sekarang ni kita nampaklah rakyat YB kena terima ni Yang Bakar Menteri, kita nak bakar ni. Tiba-tiba keluar cerita, "Okey, kita berlaku ketirisan dekat sempadan ni semua berbilion-bilion kita hilang." Ya? Jadi kita jadi macam ni kita tak boleh buat apa, kita solution kita adalah untuk kita naik tarik subsidi. Itu untuk diesel, dah buat. Tiba-tiba keluar, RON95 pun hu! Dekat apa dekat apa nama dia sempadan, RON95 diseludup dengan berbilion-bilion. Okey, lepas tu datang berita terbaru ni, baru ni dua tiga hari lepas ni. TNB rugi 3 bilion sebab apa? Sebab kau tahu tak? Bitcoin curi api. Eh TNB, kalau Bitcoin curi api, kau takkanlah kau nak salahkan Rafizi? Engkau TNB kut? You have to do your job and then you have to make sure you have your officer enough, if you cannot you work with the enforcement, you go and find lah dekat mana kebocoran yang berlaku. Come on YB, data-data apa semua sekarang kalau you boleh tengok.
+
+
+
+[49:00] Rafizi Ramli: Tak, tapi penyasaran semula subsidi elektrik tu telah berlaku daripada Januari 2023, tak ada kena-mengena dengan kecurian apa di Bitcoin ke apa. Dan...
+
+
+
+[49:10] Salim Iskandar: TNB wayang kuat lebih.
+
+
+
+[49:14] Rafizi Ramli: Dan dan sebenarnya majoriti isi rumah menggunakan elektrik di bawah 1,000 kilowatt dan dia orang memang tak ada perubahan elektrik. Tapi bila dah sampai 1,000 ke 1,500, 1,500 ke atas, memang memanglah sebab ya dia begini Salim. Kalau dia dah lima ekon...
+
+
+
+[49:41] Salim Iskandar: Saya bukan lima ekon jalan. Okey, contoh eh. Bukan lima ekon jalan, katakan satu malam jalan tiga ekon. Okey?
+
+
+
+[49:47] Rafizi Ramli: Yalah, tiga ekon, tiga ekon.
+
+
+
+[49:49] Salim Iskandar: Tiga ekon. 1 horsepower apa semua, saya ada check dengan apa TNB apa semua. Berapa lebih kurang kurang lebih kira apa semua kan. Dia kata kalau tiga ekon apa semua dalam mungkinlah lingkungan few hundred lah eh, few hundred kau akan bayar. Tapi kadang-kadang bil elektrik datang ni government kalau nak nak nampak handsome, kasi kasi jangan bagi happy TNB ni. You have to do something about TNB because why? I'm telling you sir, because TNB ni memang you know...
+
+
+
+[50:14] Rafizi Ramli: Tak, dia dia bukan TNB Salim, dia sebenarnya subsidi kerajaan. Okey, saya bagi gambaran dia kan. Bila kami masuk Disember 2022 kan...
+
+
+
+[50:25] Salim Iskandar: Januari Anwar dah tarik 20 sen dekat sini.
+
+
+
+[50:27] Rafizi Ramli: Okey. Tak, sebenarnya yang yang yang yalah, itu keputusan bersama kan. Orang tak tahu sebenarnya subsidi elektrik telah pun sampai kalau kita tak buat sesuatu, dia boleh sampai 15 ke 17 bilion setahun.
+
+
+
+[50:44] Salim Iskandar: Oh baru YB tahu?
+
+
+
+[50:46] Rafizi Ramli: Tak tak, ini I'm telling you lah.
+
+
+
+[50:47] Salim Iskandar: Okey jap, sekejap. Sekarang saya ambil reverse sikit. YB pernah bagi saya, saya nak bakar YB ni. YB bagilah, YB kata saya comel kan saya nak bakar YB. Kita ambil ni YB baru jadi kerajaan 15 bulan, betul? 6 15 bulan, berapa bulan? 15 bulan?
+
+
+
+[51:00] Rafizi Ramli: Lebih kurang 20 dah.
+
+
+
+[51:01] Salim Iskandar: 20 bulan dah, setahun lebih dah. Okey setahun lebih dah, 20 bulan dah okey. Sekarang kita tarik balik pergi. "Saya ulang, hari ini saya naik esok minyak turun." Satu, okey. Lepas tu, "Negara kita ini negara yang kaya, sepatutnya api, air, apa nama dia ni semua tidak mahal sebegitu. Kita..." Saya tak cakap YB, saya cakap ada orang lainlah. Saya tak nak sebut nama nanti saya kena tangkap. Okey, jadi bila dia cakap, you overpromise you kata kita akan batalkan PTPTN...
+
+
+
+[51:26] Rafizi Ramli: Tak, dia sebenarnya tak overpromise, okey. Kenapa...
+
+
+
+[51:29] Salim Iskandar: You overclaim.
+
+
+
+[51:30] Rafizi Ramli: Tak. Kenapa Saya pun sebut yang sama sebelum ini. Kenapa semasa Ya ya, kenapa In fact formula minyak RON95 tu aku punya tahu sampai hari ini. Ha.
+
+
+
+[51:35] Salim Iskandar: Oh ya, formula.
+
+
+
+[51:40] Salim Iskandar: Yang apa yang keluar ni?
+
+
+
+[51:41] Rafizi Ramli: Tulang kau.
+
+
+
+[51:42] Salim Iskandar: Aku? Pegang aje terus keluar ni ha.
+
+
+
+[51:44] Rafizi Ramli: Terlalu animated lah tangan ni.
+
+
+
+[51:46] Salim Iskandar: Meja goyang, that's why I'm sorry, I'm so sorry.
+
+
+
+[51:47] Rafizi Ramli: Tak tak, dia dia kat atas tu ha. Kan? Ni kat atas ah. Dia dia beza. Okey, saya boleh terangkan soal minyak dan juga elektrik bersama-sama eh. Masa tahun 2017, 2018 kan? Ha, masa itu berapa harga minyak mentah satu tong?
+
+
+
+[52:02] Salim Iskandar: Zaman Najib.
+
+
+
+[52:08] Salim Iskandar: Saya tak ingat berapa tapi kesian Najib ah. A B C D G S T.
+
+
+
+[52:11] Rafizi Ramli: Masa tu dia lebih kurang 50 dolar setong, ke bawah eh. Masa tahun 2021, berapa setong?
+
+
+
+[52:21] Salim Iskandar: Tak ingat YB.
+
+
+
+[52:22] Rafizi Ramli: 2020? Lebih kurang 20, Salim. Okey.
+
+
+
+[52:24] Salim Iskandar: Ya, 20. Masa tu dah tengah COVID apa semualah.
+
+
+
+[52:27] Rafizi Ramli: Ha lepas COVID semualah. So so dia minyak mentah ni, dia masa 2015 dia jatuh mendadak dalam 30.
+
+
+
+[52:35] Salim Iskandar: Sekarang berapa satu tong YB? Saya tak berapa pandailah.
+
+
+
+[52:37] Rafizi Ramli: Lebih kurang 85 dolar.
+
+
+
+[52:39] Salim Iskandar: Okey, katakanlah in few few months dia jadi 40 dolar. So minyak kita akan ikut pada pasaran kita akan turun? So we are basically the minyak will be following the market price?
+
+
+
+[52:44] Rafizi Ramli: Ya, ya ya ya.
+
+
+
+[52:49] Rafizi Ramli: Tak tak, bukan. Dia kita ada APM lah, Automatic Pricing Mechanism. Cuma kalau minyak tu dah turun, maka ke Ha, that's a good question. Aku boleh balas balik ini kan, bukan kepada Salim lah, kepada yang duk memekak kat luar tu kan, okey ah. So it's like eh, contohnya harga RM2.05 yang kita ada sekarang ini ialah harga yang semasa minyak mentah in around 2018, lebih kurang 50 dolar setong kan. Bila dia jatuh dalam tahun 2020 ke 2021 tu dia sampai 20 dolar setong, aku nak tanya engkau dan rakyat kat luar, ada tak minyak turun?
+
+
+
+[53:00] Salim Iskandar: Biar.
+
+
+
+[53:03] Salim Iskandar: Tak apalah, I mean it must be fair to you too. I mean...
+
+
+
+[53:06] Rafizi Ramli: Okey, okey.
+
+
+
+[53:23] Salim Iskandar: Ya ya ya.
+
+
+
+[53:28] Salim Iskandar: Tak ada.
+
+
+
+[53:29] Rafizi Ramli: Ha, Muhyiddin? Kenapa tak tanya Muhyiddin masa tu?
+
+
+
+[53:32] Salim Iskandar: Weh, kau buat apa? Tidur?
+
+
+
+[53:34] Rafizi Ramli: Masa minyak Yang itu dia orang tak bising tau. Masa minyak turun sampai 20 dolar, 30 dolar setong, dia tak turunkan pun.
+
+
+
+[53:43] Salim Iskandar: Dapat kat dialah lebihlah.
+
+
+
+[53:44] Rafizi Ramli: Ha dia Fahamlah kan? Masalah dia kan, kalau harga minyak tu yang masa kita orang...
+
+
+
+[53:49] Salim Iskandar: Tapi tapi ada...
+
+
+
+[53:50] Rafizi Ramli: Tak, ini nak jawab yang saya ulang tadi. Masa tu kita orang kata, kalau minyak 50 dolar setong kan, takkanlah tak boleh turunkan sedikit kerana subsidi tu pun dalam Subsidi tahun 2015 lebih kurang 1 bilion. 2017 tu lebih kurang 5 bilion. 2018 lebih kurang 5-6 bilion kan. Kemudian sampai ke 2019, 2020 tu dia tinggal 500 juta aje, Salim.
+
+
+
+[53:52] Salim Iskandar: Okey, saya ulang.
+
+
+
+[53:58] Salim Iskandar: Boleh bagi seringgit setengah.
+
+
+
+[54:21] Salim Iskandar: Hmm.
+
+
+
+[54:21] Rafizi Ramli: Jadi masa tu kita kata, takkanlah kau tak boleh ambil 2-3 bilion untuk turunkan 20-30 sen sebab harga dia rendah. Tapi masalahnya by 2022, dia dah naik sampai hujung 2022 lah eh, dia dah naik sampai 110 dolar setong. Bila dia dah jadi 110 dolar setong, subsidi ni yang daripada zaman Muhyiddin tu yang sepatutnya dia turunkan harga minyak yang 500 juta, jadi 55 bilion petrol dan diesel.
+
+
+
+[54:27] Salim Iskandar: Hmm.
+
+
+
+[54:51] Salim Iskandar: Muhyiddin boleh kata, saya buat macam tu sebab ketika turun saya saya ambil untung kan, kita ambil. So ketika naik kita cover lah balik. So Muhyiddin boleh jawab macam tu.
+
+
+
+[55:00] Rafizi Ramli: Tak ada.
+
+
+
+[55:00] Salim Iskandar: Atau Muhyiddin kata, bini aku tak bagi.
+
+
+
+[55:02] Rafizi Ramli: Tak ada.
+
+
+
+[55:04] Salim Iskandar: Jangan marah eh, sorry.
+
+
+
+[55:05] Rafizi Ramli: Saya tak terlibat bab-bab bini ni kan. So so masa apa namanya Datuk Seri Anwar ke saya kata kita boleh turunkan harga minyak, itu berdasarkan harga masa tu 30, 40, 50 dolar. Yang masa tu takkanlah dengan kita katakanlah bajet kita masa itu dalam 280 bilion...
+
+
+
+[55:08] Salim Iskandar: Bini tak bagi letak jawatan, Presiden PAS.
+
+
+
+[55:29] Salim Iskandar: Last dia cakap bulan 7 tahun 2022, betul? "Mengapa kita tak boleh turunkan harga minyak? Kerana saya tak menjadi Perdana Menteri!" dia kata kan? Ini ini Anwar cakap, sorry sorry Anwar, jangan marah eh brother. Jangan marah jangan marah. Okey, dia cakap bulan 7 tahun 2022 ketika Konvensyen PKR, okey. Dia cakap macam tu, "Sebab kita tak jadi Perdana Menteri." That's why YB, saya tak marah kat YB. Saya selalu, kejap YB jangan marah, sabar YB, sabar. Ini nak bakar. Sebab bila kau jadi leader, saya cerita pasal Anwar eh Anwar. Engkau bila jadi leader, saya saya rasa macam ni lah pada pandangan sayalah eh, sorry eh. Ini minta maaf, ini pandangan saya sebagai rakyat Malaysia eh. I rasa yang dah tua-tua ni kau orang retire ajelah. Bagilah orang muda macam ni naik. Ini my opinion lah, you know. I mean, I want to see because this is bright man.
+
+
+
+[56:14] Rafizi Ramli: Lagi lagilah orang kata kartel.
+
+
+
+[56:16] Salim Iskandar: Kartel, you know. Eh bukan kartel lah, tak.
+
+
+
+[56:18] Rafizi Ramli: No no, that that but I think we have to be fair to everyone lah. Maksudnya...
+
+
+
+[56:23] Salim Iskandar: Sampai bila kita nak layan Jurassic Park?
+
+
+
+[56:25] Rafizi Ramli: Tak tak.
+
+
+
+[56:26] Salim Iskandar: Letihlah. Balik-balik Anwar, Muhyiddin. Balik-balik ini, Anwar, Muhyiddin, Anwar...
+
+
+
+[56:28] Rafizi Ramli: Okey, let me ask. Benda ni sebenarnya ialah refleksi masyarakat kita juga kan. Masyarakat kita memang memerlukan orang yang lebih tua untuk mereka lebih percayai. Berapa ramai Okey, let me ask you, berapa ramai pimpinan muda ni yang ada pengalaman lama dalam kerajaan?
+
+
+
+[56:42] Salim Iskandar: They can become our counsellor, penasihat.
+
+
+
+[56:52] Salim Iskandar: YB, maafkan saya. Boleh tak saya cakap sikit? Can I be frank with you?
+
+
+
+[56:57] Rafizi Ramli: Bolehlah, takkan aku nak halau kau.
+
+
+
+[56:59] Salim Iskandar: Ya betul eh. Okey, kalau nak kata...
+
+
+
+[57:01] Rafizi Ramli: Kalau salah, orang buat laporan polis siap engkau. Bukan salah aku.
+
+
+
+[57:05] Salim Iskandar: Tolonglah aku, bail aku. Okey, dia macam ni. Macam kita tengok, we have tested macam because kita dah tengok yang lama-lama macam Anwar apa semua, dia lebih kurang kurang lebih begitu juga cerita dia apa semua. We want to see some fresh mind. We we this is what we want because we want to see we want to see someone like you, someone like KJ. Ini kalau you tanya I, KJ is my my good friend as well lah, you know. I mean kita berkawanlah kan, tak tak rapat tapi kenallah. So we need this kind of dynamic apa nama dia figura yang muda yang boleh memacu. Okey, kita jangan tolak orang tua-tua, tak boleh. Kita respect with all due respect, I mean if you ask me even though you like it or not, even macam orang macam Tun Mahathir, orang-orang macam apa nama dia yang siapa senior lagi? Ku Li, Ku Li ataupun orang-orang macam Anwar ni kan, I mean patut main dengan anak cucu and then you jadi advisor. Advisor kan bagus?
+
+
+
+[57:59] Rafizi Ramli: That's okey. You see, okey this this is my view lah kan. Apa sebenarnya masalah utama dalam masyarakat kita sekarang when it comes to leadership? Adakah ia bersabit dengan idea ataupun cabaran utamanya ialah untuk menyatukan masyarakat yang sebenarnya tersangat polarized? Yang Melayu ni Melayu sangat, yang ini. Jadi sebab itu, orang yang muda yang aku tak adalah muda, aku dah dekat 50 tahun kan.
+
+
+
+[58:21] Salim Iskandar: Teruk sangat Melayu.
+
+
+
+[58:24] Salim Iskandar: Sebab apa YB?
+
+
+
+[58:31] Salim Iskandar: How how old are you?
+
+
+
+[58:32] Rafizi Ramli: I'm 47, going to 48.
+
+
+
+[58:34] Salim Iskandar: 47 tua? You how how you think how old I am?
+
+
+
+[58:38] Rafizi Ramli: Kau nampak macam 25.
+
+
+
+[58:40] Salim Iskandar: 25 eh? Saya baru aje tiga hari lepas jadi 51.
+
+
+
+[58:45] Rafizi Ramli: Sebaya dialah.
+
+
+
+[58:46] Salim Iskandar: 51, sebaya dia. So you muda, I tua. You see, so I yang dah 51 ni pun I wanted to see someone yang muda.
+
+
+
+[58:53] Rafizi Ramli: Ya, but I think at this stage...
+
+
+
+[58:55] Salim Iskandar: You sama dengan KJ ke you muda daripada KJ?
+
+
+
+[58:57] Rafizi Ramli: Tak, I muda KJ. KJ 48.
+
+
+
+[58:59] Salim Iskandar: KJ 76, you were...
+
+
+
+[59:00] Rafizi Ramli: 76, I'm 77. 77 ha.
+
+
+
+[59:02] Salim Iskandar: 77 ha okey.
+
+
+
+[59:03] Rafizi Ramli: So apa nama ni, yang diperlukan sekarang and okey, you may disagree but this is how saya ingat dalam PKR contohnya kan. Saya dengan Datuk Seri Anwar, we work well together kerana saya ada kelebihan saya dari segi I'm a technocrat. Jadi you know, selalunya data gini gini I I understand the market better kan. Tapi ada benda yang saya tak boleh buat when it comes to leading a country or society. Sebab saya belum makan garam lagi contohnya untuk menyatukan semua orang sebagai orang tua because that is the best that is the biggest challenge. Jadi sebab itu kombinasi sekarang ni, saya ingat berkesan untuk negara. You have people like Datuk Seri Anwar Ibrahim that can bring everyone to the table dan bagi kita ruang yang muda-muda teknokrat ini untuk tumpu kepada kerja-kerja yang bersabit dengan teknikal because not everyone can do what he is doing, bringing the whole society yang berpecah-belah ni around one table, ha?
+
+
+
+[59:22] Salim Iskandar: Lepas tu...
+
+
+
+[59:31] Salim Iskandar: Maksudnya?
+
+
+
+[59:49] Salim Iskandar: No, sir.
+
+
+
+[59:52] Salim Iskandar: No, sir.
+
+
+
+[60:07] Salim Iskandar: Are we are we like one now? Are we one now?
+
+
+
+[60:09] Rafizi Ramli: Well, at least we are focused dan kita...
+
+
+
+[60:11] Salim Iskandar: We are not, sir.
+
+
+
+[60:12] Rafizi Ramli: Ya, tapi kita telah berjaya...
+
+
+
+[60:14] Salim Iskandar: Just now you just bagi tahu I, Melayu masih lagi tidak...
+
+
+
+[60:18] Rafizi Ramli: But hang on hang on hang on. Politically kan Salim kan, kita akhirnya berjaya bawa kestabilan politik di dalam negara ini and...
+
+
+
+[60:27] Salim Iskandar: Are we?
+
+
+
+[60:28] Rafizi Ramli: Ya, of course, it's 2/3 government. Whatever we say, yalah orang-orang pembangkang tiap-tiap hari dia berharaplah kerajaan jatuh, tak bersatu. But that's not the case dan sebab itulah pelabur semua, ekonomi semua mula yakin because finally after 5 years...
+
+
+
+[60:38] Salim Iskandar: Tak ada kalah.
+
+
+
+[60:44] Salim Iskandar: Betul ke dia orang yakin? Saya nak tengok actually, I wanted to see YB eh, sorry eh. Because YB cakap YB Menteri Ekonomi, you should know about this ekonomi apa semualah. I don't have the data, you have the data, you see more. So but until this thing is been realized, sampai saya nampak banyak yang masuk betul-betul, we see of course kita tahu Google dah commit berapa bilion nak masuk apa semua. But until we see the factory is been built, datang sini apa semua kan. But setakat hari ni yang kita nampak adalah esok Fahmi kata esok kita ada satu berita gembira. Ini besok nak raya ni, dia kata kita ada berita gembira besok. Kita tunggu apa benda ni? Weh berita gembira ni! Oh mesti dia bagi kita tol free ke apa ke kan? Mungkin dia kata kita hapuskan tol terus sebab subsidi dah tarik. Contoh contoh contoh contoh kan. Lepas tu tiba-tiba besok datang Datuk Seri Anwar Ibrahim dengan bergaya, bergaya dengan style kan. Mat Sabu duk belah kanan dia. Telur turun 3 sen, dia kata.
+
+
+
+[61:25] Rafizi Ramli: Aku dah tahu kau nak cakap apa. Tengok muka pun aku tahu dah.
+
+
+
+[61:40] Salim Iskandar: Saya kata ya Allah ya Tuhanku, that is not your job Mr. Prime Minister, I'm so sorry sir. I'm I'm I mean you are so big, I'm so small even though my body is bigger, but then again you know sir, bukan cara macam tu. Okey, because you want to show you kalau nak buat something okey, you janganlah declare macam tu bagi Mat Sabu cakap. Mat Sabu besok kata, "Telur turun 3 sen weh, seri eh ha." Okey.
+
+
+
+[62:03] Rafizi Ramli: Ya, bab bab Salim kan orang duk buat bising telur 3 sen telur 3 sen...
+
+
+
+[62:07] Salim Iskandar: Tapi telur kan?
+
+
+
+[62:09] Rafizi Ramli: No no, hang on eh. Tapi sebenarnya perbelanjaan yang kerajaan kena agihkan itu untuk turun 3 sen itu is more than 100 million. Dalam keadaan yang sebenarnya segala masalah yang kita warisi...
+
+
+
+[62:17] Salim Iskandar: Dapatlah itu.
+
+
+
+[62:24] Salim Iskandar: RM3 seorang dapat kan 100 million?
+
+
+
+[62:26] Rafizi Ramli: No no, but dalam keadaan yang kita dengan hutang, dengan interest yang kita kena tanggung, sebenarnya boleh saja kerajaan kata, "You know what, kita tak mampu bagi satu pun." So so penyasaran tu dalam keadaan kita kena buat, that means that kalau kita tahu bahawa telur ini adalah the common denominator yang banyak keluarga pakai, then giving 100 million allocation is actually quite a monumental thing dalam keadaan...
+
+
+
+[62:58] Salim Iskandar: How much per per per person dia orang dapat? RM3 seorang?
+
+
+
+[63:01] Rafizi Ramli: No, jangan tengok RM3 satu orang begitu. You tengok if you know, you ada hutang yang tinggi yang you nak kena bayar, wariskan semua ni kan. You ada interest yang tinggi, ha?
+
+
+
+[63:10] Salim Iskandar: Tak payah bagilah. Tak payah bagi.
+
+
+
+[63:12] Rafizi Ramli: Dah kalau Dah kalau tak bagi, kau kata potong subsidi pula. Itu maksudnya kita continuously alih...
+
+
+
+[63:15] Salim Iskandar: Tak, bukan. I mean I mean...
+
+
+
+[63:19] Salim Iskandar: Boleh tak boleh tak saya nak minta satu aje YB? Okey, telur 3 sen tak bagi pun tak apa lah, it's okay lah sebab telur nak cari tempat high density saya cakap ni eh. Kalau kita pergi ke macam PJ ke apa ke kan, I mean saya duduk Kota Damansara eh. Situ kalau pergi cari telur dia ada hari-hari tertentu yang kita boleh dapat. Kalau tidak, kalau you pergi hari yang you dah miss ke apa ke, there is still some shortage. Tapi tak berlaku di kampung, kampung semua dah okey dah, dah stable. Tetapi kita sangat merindui beras putih tempatan yang sangat-sangat menjauhkan diri daripada kita. Jadi benda-benda macam ni semua, so kalau YB nak tanya saya, saya boleh cerita macam-macam pasal apa yang berlaku kat bawah apa semua. So then again, tapi benda tu kita akan argue apa semua. YB, you Menteri Ekonomi, sir, you just bring prosperous good apa bawalah investment yang bagus apa semua, we hope that lah you know. Sebab...
+
+
+
+[64:06] Rafizi Ramli: Macam nilah Salim, ha.
+
+
+
+[64:08] Salim Iskandar: Ha we hope that lah, kita bukanlah kita kata nak bagi jatuh aje apa semua. Tetapi kalau bagi saya...
+
+
+
+[64:12] Rafizi Ramli: Kata-kata tu doa tiap-tiap hari. Kalau kata teruk teruk teruk, memanglah kau pun psychologically rasa teruk kan?
+
+
+
+[64:15] Salim Iskandar: Ya, tapi kalau kalau Anwar...
+
+
+
+[64:19] Salim Iskandar: Ya, tapi kalau Anwar dah tak boleh handle...
+
+
+
+[64:22] Rafizi Ramli: Betul.
+
+
+
+[64:23] Salim Iskandar: Saudara Datuk Seri Anwar Ibrahim, younger person you know. I mean, my man. Sorilah, this is my my opinion eh. Tak ada kena-mengena, kawan kata kartel ke apa ke you know. Itu aje.
+
+
+
+[64:36] Rafizi Ramli: Unfortunately Salim, I think your opinion tu is not shared by majority of Malaysians. I mean it's your opinion. Saya kalau tanya saya, I think it's a this is the good junction yang mana kombinasi semua pimpinan yang ada daripada semua parti, daripada yang pernah ada dalam politik 40 tahun lepas kepada yang muda semua, because it's a it's a junction where we need everyone to focus on their strength. Yang tua-tua ni is to bring back society supaya kita janganlah extreme and polarized sangat. Yang muda yang ada technocratic skill, yang boleh tu, you focus on that one. There are things I can do, there are things I cannot do. There are things KJ boleh buat, KJ tak boleh buat. So we need everyone. Dan bukan saja umur, parti pun we need everyone around the table. Let's fix the country tiga empat tahun ni. Lepas ni, siapa-siapa nak ambil ikut sukalah.
+
+
+
+[65:17] Salim Iskandar: Tapi...
+
+
+
+[65:19] Salim Iskandar: Ya, betul.
+
+
+
+[65:21] Salim Iskandar: Tapi...
+
+
+
+[65:31] Salim Iskandar: Ya, tapi saya nak bagi tahu satulah eh. YB, you have to be fair to the Malay. Malay was the one yang tahun 1998 berguling depan jalan tahu. Atas jalan depa berguling. I think YB was one of them.
+
+
+
+[65:41] Rafizi Ramli: Kotak akulah, engkau tak kan? Aku yang berguling kan?
+
+
+
+[65:44] Salim Iskandar: I was I was Mahathir all the way.
+
+
+
+[65:45] Rafizi Ramli: Ha ada ada ada.
+
+
+
+[65:46] Salim Iskandar: Mahathir, I mengaku eh I was Mahathir. Mahathir all the way.
+
+
+
+[65:47] Rafizi Ramli: Mengaku mengaku juga.
+
+
+
+[65:49] Rafizi Ramli: Tak, tapi tak adalah berguling. Kita orang lari daripada polis.
+
+
+
+[65:51] Salim Iskandar: Tak ada bergulinglah. Yang baring depan lori tu mana?
+
+
+
+[65:53] Rafizi Ramli: Itu orang PAS lah!
+
+
+
+[65:54] Salim Iskandar: Bukan. Budak Cina satu yang muda dulu baring depan lori.
+
+
+
+[65:55] Rafizi Ramli: Mana ada?
+
+
+
+[65:58] Salim Iskandar: Ni tahun bila? Nama dia Tian Chua. Sejarah. Okey, tak apa. Okey, sekarang sekarang ni kita kena terima hakikat...
+
+
+
+[66:01] Rafizi Ramli: Itu duduk, itu baru betul.
+
+
+
+[66:06] Rafizi Ramli: Dia tak ada baring kan? Dia duduk kan?
+
+
+
+[66:07] Salim Iskandar: Dia baring, dia duduklah duduklah. Agak-agak dia dah letih sangat penat dia baring kut masa tu kau tangkap pap satu snap gambar tu. Okey, it's okay that's a history lah. Tetapi kita kena terima juga hakikat bahawasanya orang Melayu eh hari ni...
+
+
+
+[66:20] Rafizi Ramli: Tapi hang on hang on hang on. Sebelum tu kan, bila cakap yang tua Anwar ni kena resign semua, kenapa kau tak cakap benda yang sama macam Mahathir? Pada Mahathir?
+
+
+
+[66:29] Salim Iskandar: Mahathir Mahathir jadi PM lagi ke?
+
+
+
+[66:31] Rafizi Ramli: Yalah dia dah umur dekat nak masuk 100 tahun. You know, dia masih lagi bergerak aktif, ada pandangan politik semua gini gini gini. Eh yang itu boleh, tak boleh kau tak suruh dia retire pula?
+
+
+
+[66:40] Salim Iskandar: Tak apa.
+
+
+
+[66:45] Salim Iskandar: Dia adalah seorang negarawan.
+
+
+
+[66:47] Rafizi Ramli: Ha pulak dah!
+
+
+
+[66:49] Salim Iskandar: Bekas Perdana Menteri. Kejap kejap, bekas Perdana Menteri dua kali.
+
+
+
+[66:50] Rafizi Ramli: Sabar sat. Ha itu cili yang tak bagus tahu dak? Itu cili masam.
+
+
+
+[66:56] Salim Iskandar: Bekas bekas Perdana Menteri dua kali, dia bagi opinion. Sama ada kau nak terima ke tak nak terima, tak apa. Dan dia tengok tu kan...
+
+
+
+[67:00] Rafizi Ramli: Ya, ya ya ya.
+
+
+
+[67:04] Rafizi Ramli: Tak tak tak, tapi hypothetically kan Salim kan, dia bagi opinion sekarang sebab dia bertanding dulu, dia kalah deposit. Kalau dia menang, dia masih lagi nak jadi Perdana Menteri. Ha tapi cuma dalam pilihan raya yang lepas, dia kalah deposit, parti dia kalah. Kalau tidak, kalau you kata yang yang tua-tua ni kena retire, Anwar ke Muhyiddin semua, eh kau kan penyokong kuat Mahathir? You have to apply the same one kepada Tun Mahathir lah.
+
+
+
+[67:17] Salim Iskandar: Hmm.
+
+
+
+[67:30] Salim Iskandar: Betul, tak macam ni. Dengar eh, kita boleh suruh Tun Mahathir Tun Mahathir dah retire pun, I'm he's not going for any PM anymore.
+
+
+
+[67:37] Rafizi Ramli: Ya tapi dia bertanding tau dalam PRU yang lepas sampai hilang deposit.
+
+
+
+[67:40] Salim Iskandar: Ya, tapi katalah katalah Tun M nak bertanding kan, katalah contoh kan adalah satu seat ke apa ke atau dia boleh buat macam dia baru keluar penjara dapat pengampunan, lepas tu batuk berhenti, depa berhenti orang tu pergi bertanding dah jadi ahli parlimen. Ini sejarah berlaku eh. Okey, so kalau kita tengoklah kalau kita nak compare, Mahathir tak gila macam tu. Mahathir yang kita kata Maha Firaun, dua kali letak jawatan. Dua kali, 2003 dan 2020. Ya, 2020 dia letak jawatan. Dua kali seorang diktator yang dikatakan Maha Firaun apa semua, dia letak jawatan dua kali. So kalau kita kata dia gila kuasa, tengok eh macam mana seorang yang nak mempertahan Ini must be fair, nak mempertahankan jawatan Perdana Menteri dia, dia terpaksa tutup parlimen. Betul? Dia tutup parlimen, dia perpanjangkan, buat darurat apa semua untuk mempertahankan kerusi Perdana Menteri dia. I mean, it must be fair to everyone, you see? Because we have seen this. Okey, jadi dia buat macam tu. So but when comes to Mahathir, this is the beauty about him. No matter what we hate him, we love him, but when comes to his dia punya position, dia kata bila dia tak ada sokongan dah, aku letak jawatan.
+
+
+
+[68:51] Rafizi Ramli: Saya adalah sebenarnya pandangan lain because I think yang berlaku tu lebih rumit daripada yang Salim cakap, tapi sebab dia idola Salim, aku malaslah nak bertekak, ha.
+
+
+
+[69:00] Salim Iskandar: Okey, fair.
+
+
+
+[69:05] Salim Iskandar: Okey. Tak, sekarang ni kita cerita pasal Anwar, pasal apa masyarakat Melayu eh. Stigma dia, Anwar Ibrahim terbukti dalam mahkamah apa yang kesalahan...
+
+
+
+[69:13] Rafizi Ramli: Eh moderator, lama mana ni?
+
+
+
+[69:15] Haziq: Ni dah sejam 10 minit.
+
+
+
+[69:16] Rafizi Ramli: Sikit lagi nak habis dah.
+
+
+
+[69:18] Salim Iskandar: Ini ini siapa ni? Siapa dia ni?
+
+
+
+[69:19] Rafizi Ramli: Aku tak tahu dia orang pilih.
+
+
+
+[69:21] Salim Iskandar: Tak, macam mana dia mai kat sini? Kita dua orang sembang.
+
+
+
+[69:23] Rafizi Ramli: Yalah kesian kat dialah, takkanlah kacau. Tak cukup vokal.
+
+
+
+[69:29] Salim Iskandar: Okey, YB macam ni.
+
+
+
+[69:30] Rafizi Ramli: Last lah kut Salim.
+
+
+
+[69:31] Salim Iskandar: Ha saya kalau nak cakap apa, saya cuma kata stigma orang Melayu ni kita kena tengok balik. Kita kena tengok balik apa yang berlaku pada Perdana Menteri yang ada hari ni because benda-benda yang pertuduhan yang dilalui, masyarakat nampak sekarang apa yang berlaku dan setahun setengah dah kita dan kita tak boleh blame orang Melayu semata-mata. Kita kena muhasabah diri kita juga apabila kita tahu bila dah kita cuba orang dah tak nak terima dah satu ni, you have to find a way be berjiwa besar, bagilah Rafizi jadi Perdana Menteri. Terima kasih. Thank you.
+
+
+
+[70:04] Rafizi Ramli: Itu bukan pesanan penaja eh.
+
+
+
+[70:07] Salim Iskandar: Kartel Rafizi.
+
+
+
+[70:10] Rafizi Ramli: Tak, apa nama ni, I think kita tak pernah tolaklah cerita sebenarnya kebimbangan orang Melayu tu perlu diuruskan kan. Cuma dalam menguruskan apa nama ni yalah kebimbangan, insecurity orang Melayu, kehendak orang Melayu tu kan, kita tak bolehlah sampai apa nama ni kita ambil jalan singkat contohnya. Jalan singkat memang mudah. Maksudnya kalau...
+
+
+
+[70:40] Salim Iskandar: Bertandinglah Presiden PKR, bertandinglah Presiden PKR. Tolong tolong, Salim Iskandar minta. Dia tak nak ajak aku lagi dah.
+
+
+
+[70:44] Rafizi Ramli: Dah ada, tak nak ajaklah hangpa ni. Tak sabarlah, aku nak habiskan dulu bercakap dengan dia ni.
+
+
+
+[70:50] Salim Iskandar: Okey, sorry.
+
+
+
+[70:52] Rafizi Ramli: So dia tak dia dia I think kita kena ambil jalan yang yang yang susah lah. Kalau jalan pendek, mudah tahu. Maksudnya bagi semua kan, tapi sebenarnya yang akan mewarisi hutang-hutang ni anak-anak Melayu juga nanti. Sebab 20 tahun akan datang, 30 tahun akan datang, jumlah penduduk Melayu ni lebih tinggi daripada Cina dan India yang semakin menurun. Tulah kan. Jadi akhirnya kita boleh selesaikan contohnya, orang kata orang bagi plasebolah, bagi Panadol aje. Tapi nanti lama-lama dapat kanser kemudian kan, tu satu. Yang kedua, kita kena ambil maklum lah bahawa satu-satunya jalan ke depan ni ialah kita perlukan setiap kumpulan dalam negara kita ni. Dan orang Melayu kena bekerjasama dengan Cina, dengan India and vice versa. Sebab yang kita nak bersaing ni bukan sesama kita ni. Ini yang Vietnam, yang India daripada benua India semua tu. Kalau negara terus tak boleh naik balik dari segi ekonomi, akhirnya Melayu juga yang kena tanggung. If anything, itu perbezaan kerajaan yang ada dengan jalan yang diambil oleh pembangkang. Pembangkang bagi Panadol ni, gula-gula kepada apa nama ni yang Melayu ni atas alasan, "Bagilah kepada kami kerajaan yang semua Melayu, kita Melayu semua ni kita kontrol semua, selesai semua masalah." You and I know that's not the case. Kan? Jadi and I think sebab itu memang saya ambil tanggungjawab kalau orang duk marah, maki pasal ekonomi...
+
+
+
+[71:14] Salim Iskandar: Of course. Kita very productive.
+
+
+
+[72:20] Salim Iskandar: Yap.
+
+
+
+[72:29] Salim Iskandar: Can I say something? Saya tambah sikit aje YB punya ni.
+
+
+
+[72:32] Rafizi Ramli: Tadi kau dah kata thank you.
+
+
+
+[72:33] Salim Iskandar: Dah habis dah. Saya terpaksa saya bila YB cakap ni, macam ni YB. YB dah cakap macam-macam, Raja Formula, apa semua YB dah kata apa semua. Dia sekarang ni macam nilah bila orang rakyat tengah marah, terima ajelah. Terima ajelah, reda ajelah. Dia tengah marah dia kata, "Tak apalah." Kata KJ eh, dia kata, "Dulu kau orang juga kata minyak nak naik apa semua kan, subsidi minyak nak kurang apa semua. Sekarang bila kena ludah kat muka, kau lap ajelah." Carry on lah.
+
+
+
+[72:45] Rafizi Ramli: Okey.
+
+
+
+[72:47] Rafizi Ramli: Ha.
+
+
+
+[72:51] Rafizi Ramli: Ha.
+
+
+
+[72:58] Rafizi Ramli: Tak, dia begini. Dia kalau benda itu yang tidak apa nama ni maksudnya itu pandangan yang tidak memesongkan keadaan atau fakta, aku tak kisah tau. Yang itu biasalah. Contohnya orang tak suka kepala aku botak, nasib engkaulah.
+
+
+
+[73:12] Salim Iskandar: Terima ajelah.
+
+
+
+[73:17] Salim Iskandar: Nasib kau oranglah kan? Boleh tanam rambut kan? Tak payah?
+
+
+
+[73:20] Rafizi Ramli: Tak, buat apa nak tanam rambut? Sakitlah. Kan? Ha. So contohnya kan, tapi kalau benda itu dia tidak melambangkan fakta yang sebenar, contohnya kalau kata BR1M sekarang lagi sikit daripada dulu...
+
+
+
+[73:22] Salim Iskandar: Ya, betul.
+
+
+
+[73:33] Salim Iskandar: Dulu BR1M sekali, sekarang empat kali.
+
+
+
+[73:34] Rafizi Ramli: Dulu BR1M sekali sekarang empat kali jumlah. Jadi benda ni tak betul. Jadi yang tak betul tu aku jawablah. Kalau aku dah bagi fakta 4, 5, 6 kali, buat tak tahu juga, then kalau aku kata bahalol janganlah marah. Benda tu dah ada kan? Jadi I think bergantung juga kepada komen. That's why I don't have any problem siapa-siapa nak datang, tapi kita kena berpegang kepada yang fakta tu faktalah. Yang lain tu contohnya pandangan, perlukah muda, tua tu, itu pandangan. Itu hal kamulah kan? So I think so long as we stick to that, then tak ada masalah.
+
+
+
+[74:04] Salim Iskandar: Pandangan, itu pandangan okey. Itu pandanganlah, pandangan saya.
+
+
+
+[74:10] Salim Iskandar: Last my question. Kenapa PADU tukar BUDI?
+
+
+
+[74:14] Rafizi Ramli: Aku dah jawab kat parlimen.
+
+
+
+[74:15] Salim Iskandar: PADU bertukar jadi BUDI? Just what? Simple aje, PADU tukar jadi BUDI.
+
+
+
+[74:16] Rafizi Ramli: Tak.
+
+
+
+[74:21] Salim Iskandar: Sampai buat lagu, "Budiku tabur, paduku..."
+
+
+
+[74:26] Rafizi Ramli: Yang yang itu Salim sila follow aku punya TikTok. Ada satu klip.
+
+
+
+[74:28] Salim Iskandar: Okey. Tolong saya, tolong unblock saya dekat Twitter boleh tak, X? Tolong unblock saya dekat Twitter dan tolong follow saya. Tolong follow saya.
+
+
+
+[74:37] Rafizi Ramli: Okeylah. Aku Nanti orang kata kartel.
+
+
+
+[74:39] Salim Iskandar: Tak apa, kartel alang-alang kan? Orang nak cakap macam-macam, biar ajelah.
+
+
+
+[74:44] Rafizi Ramli: Actually, alamak. Apa nama ni, dia apa dia? Salim Iskandar. Salim Iskandar. Satu Oh, ni ha.
+
+
+
+[74:48] Salim Iskandar: Salim Iskandar.
+
+
+
+[74:53] Salim Iskandar: Baju merah, sama baju ni ah.
+
+
+
+[74:55] Rafizi Ramli: Patutlah kena block.
+
+
+
+[74:57] Salim Iskandar: Why?
+
+
+
+[74:58] Rafizi Ramli: Okeylah, sengajalah. Tak kenal maka tak cinta. Aku dah unblock. And then aku follow lah juga.
+
+
+
+[75:00] Salim Iskandar: Oh, tengok.
+
+
+
+[75:01] Salim Iskandar: Tak cinta ya, betul.
+
+
+
+[75:04] Salim Iskandar: Wow!
+
+
+
+[75:06] Haziq: Follow back.
+
+
+
+[75:07] Salim Iskandar: Steady! Tengok, Rafizi Ramli follow yo!
+
+
+
+[75:13] Rafizi Ramli: Memang kartellah macam ni. Memang kartellah macam ni.
+
+
+
+[75:15] Salim Iskandar: Oh kartel, sekarang kartel eh tengok eh. Ha tu dia ha, cantik tu. All right, so okey.
+
+
+
+[75:20] Rafizi Ramli: At least kita buat depan-depan, bukan belakang-belakang.
+
+
+
+[75:21] Salim Iskandar: Depan-depan, ya betul betul betul ha. So bagi saya macam nilah rakyat Malaysia.
+
+
+
+[75:25] Rafizi Ramli: Ha tengok, Happy Birthday Che Det Official.
+
+
+
+[75:27] Salim Iskandar: Ya, you know? Setuju setuju. Saya cakap, I mean saya cakap terus terang saya tak Saya jenis satu YB, kalau you kenal saya, saya ni jenis apa you you nampak saya, inilah saya. Okey, saya tak suka bermuka-muka munafik ke apa ke. Saya cakap macam ni. Kalau ada benda yang tak tu, kita cakap. Saya harap tak seriklah sebab ada banyak isu lagi kita nak bincang. Kalau boleh ajak...
+
+
+
+[75:43] Rafizi Ramli: Tak ada, tak serik. Selepas ni kalau kalau dia orang semua hentam kata kau kartel aku bayar semua ni, kau nak jawab apa?
+
+
+
+[75:49] Salim Iskandar: Ha saya hantar invois lah. Boleh?
+
+
+
+[75:52] Rafizi Ramli: Bila aku dapat invois, nanti aku tunjukkanlah.
+
+
+
+[75:54] Salim Iskandar: Ya boleh boleh. So macam tu cerita. Sebab apa YB, saya cakap satulah YB eh. Dalam dekat X tu kadang-kadang, dekat X tu dia orang kata apa tahu? Salim dibayar. Okey, YB kena tahu cerita saya background saya sikit cerita sikitlah.
+
+
+
+[76:08] Rafizi Ramli: Macam mana keluar cerita tu?
+
+
+
+[76:09] Salim Iskandar: Okey, sebab...
+
+
+
+[76:10] Rafizi Ramli: Ni bila nak habis ni?
+
+
+
+[76:11] Salim Iskandar: Tulah, tak apalah sikit syok kan? Best kan? Okey, so apa yang berlaku dekat X tu dia orang bagi tahu ada kawan saya satulah, dia dedahkan kata saya duduk rumah mahal lepas tu bayar tak apa tak mampu bayar sekarang dah jadi miskin jadi saya minta sedekah. Dia kata macam tulah, jadi minta sedekah ni. Okey, bermakna I'm a beggar. Miskin minta sedekah. Tetapi bila datang dekat X pula, ada yang kata Salim dibayar oleh PM, Salim dibayar oleh Mahathir, Salim dibayar oleh itu. Lepas tu aku duduk kat corner, aku kata kau orang kena decide ni, aku miskin beggar ke aku dibayar ni sekarang? Mana satu aku ni? So kadang-kadang aku fikir fikir fikir, menangis kat bucu katil terjumpa tin Planta. Jangan potong eh. Jadi kita tak tahu sebenarnya. Kau orang kena decide. So kau orang aku adakah aku kartel Rafizi atau aku ni seorang rakyat biasa dari tepi jalan? Cili Kasi Taruk bersama Yang Bakar Menteri.
+
+
+
+[77:07] Haziq: Okey tapi jadi formula semua okey eh?
+
+
+
+[77:10] Rafizi Ramli: Formula tak okeylah. Salim dah kasi cili segala cili.
+
+
+
+[77:14] Salim Iskandar: Tapi saya haraplah YB, regardless of whatever I said, regardless of orang suka you ke tak suka you ke, saya harap for the sake of rakyat Malaysia, please do something about it. Jagalah negara kita, ha?
+
+
+
+[77:24] Rafizi Ramli: Insya-Allah.
+
+
+
+[77:27] Haziq: Jangan tukar kerajaan eh?
+
+
+
+[77:27] Salim Iskandar: Itu tukar kerajaan kena tanya Muhyiddin. Tapi selagi ada Muhyiddin, dia takkan tukar punya, jangan risau. Because Muhyiddin Anwar dah pegang. Ops, so damn son. Okey, silakan.
+
+
+
+[77:36] Rafizi Ramli: Aku tak pernah tengok podcast Salim. Tengok real life. Tak tak, I think yalah I think...
+
+
+
+[77:43] Salim Iskandar: Politician will do anything ya YB, biasalah tu.
+
+
+
+[77:45] Rafizi Ramli: Yalah, I mean anyone in our position would want to do something kan. Cuma cara tu berbeza-bezalah. I mean in my case, like it, orang suka ke tak suka, kalau kau dah diberi kerja, might as well you selesaikan kerja.
+
+
+
+[78:01] Salim Iskandar: Tapi orang benci kat you, I tengok jumpa dengan you, sembang dengan you satu jam, I think you're quite very jovial, very good person. I mean, you are very polite. Apa yang nak marah? Tak kenal maka tak cinta. Kan? Ha jadi itulah, tak apalah. I think bukanlah aku nak hasut orang suruh jadi bos! Nak bagi jadi wow, bos bos kartel Rafizi.
+
+
+
+[78:18] Rafizi Ramli: Aku dah panggillah segala jenis manusia yang tak suka kat aku ni, dia orang tak nak datang. Ha. I'm sure kalau dia datang pun, dia jadi kartel jugalah.
+
+
+
+[78:26] Salim Iskandar: Ya. Oh, YB YB viral eh? Tak apa nanti kita sembang pasal YB viral. YB viral, come on let's come on!
+
+
+
+[78:33] Rafizi Ramli: YB viral? Kita jemputlah, dia tak nak.
+
+
+
+[78:36] Salim Iskandar: Ya ya, ini pun Tak apa, nanti saya sembang dengan YB viral. Why not duduk sembang? I mean cakap ajelah, I mean okey.
+
+
+
+[78:42] Rafizi Ramli: Daripada demo belakang rumah aku, yang dia demo itu belakang rumah aku tau. Kesian kucing-kucing aku.
+
+
+
+[78:48] Salim Iskandar: Ya eh?
+
+
+
+[78:50] Rafizi Ramli: Okey okey okey. Dah dah dah, balik balik balik.
+
+
+
+[78:54] Haziq: 1 hour and 30 minutes. Okey itu saja. Terima kasih saudara Salim.
+
+
+
+[78:57] Rafizi Ramli: Bagi salamlah.
+
+
+
+[78:58] Salim Iskandar: Salam. Thank you YB.
+
+
+
+[78:59] Rafizi Ramli: Okey, thank you. Thank you.
+
+
+
+[79:01] Salim Iskandar: My pleasure to meet you.
+
+
+
+[79:02] Rafizi Ramli: Okey, thank you.
+
+
+
+[79:04] Haziq: So Salim is the first, kita harap yang lain akan join sekali. Kita buat invitation juga kepada semua yang bersama-sama...
+
+
+
+[79:12] Salim Iskandar: Mari kita Bakar Menteri.
+
+
+
+[79:13] Haziq: Yeah! Okey, itu saja. Terima kasih, kita jumpa lagi.
+
+
+
+[79:16] Rafizi Ramli: Eh kalau Papagomo datang, kau tak marah?
+
+
+
+[79:17] Salim Iskandar: Eh boleh!
+
+
+
+[79:18] Rafizi Ramli: Ha okeylah.
+
+
+
+[79:19] Salim Iskandar: Gomo, datanglah. Gomo. Tapi kesianlah Papagomo masuk lokap malam ni. Kesianlah dia.
+
+
+
+[79:26] Rafizi Ramli: Aku tak boleh komen.
+
+
+
+[79:27] Salim Iskandar: Yalah yalah kesianlah. I mean I mean saya nak minta satu ajelah kan, regardless of kita ada apa-apa perbezaan pandangan, tak payahlah sampai nak tangkap-tangkap. Okey, because what you can show to the rakyat is kalau kita ni mulut banyak celupar apa semua, you show by doing the work. Kau tunjuk tengok kita buat kerja bagus, tengok macam YB ni. Ha steady aje dia cakap dia explain apa semua. So I kata orang apa kita kena bagi peluang juga because dia baru ni dia ada plan-plan apa semua, so kita tengok. 6 months down the road kalau tak ada apa-apa berlaku, kita datang lagi.
+
+
+
+[79:54] Rafizi Ramli: Cili lagilah.
+
+
+
+[79:55] Salim Iskandar: Ha kita buatlah lagi, kita bubuhlah lagi kan? Ha so macam tulah. So we have to give, tapi tak perlu nak guna nak nak takut-takutkan. I mean YB, you know kalau boleh sampaikan mesej, tak perlu nak pergi tangkap apa semua. So I think ya kadang-kadang kita dalam marah tu kita cakap because kita tengah marah. So zaman you all pembangkang pun, you all were very fiery, power, apa semua.
+
+
+
+[80:18] Rafizi Ramli: Dan aku kena tangkap 14 kali.
+
+
+
+[80:19] Salim Iskandar: Kena tangkap banyak kali ya, exactly. I know, I know. Ha so biasalah tu, tapi cuma why you want to do the same masa orang lain buat? You sepatutnya macam ni eh, saya minta PH ni kau orang patut tunjuk yang kau orang tak berjiwa kecil macam kerajaan terdahulu. Kau orang patut tunjuk yang kau orang jiwa besar kena kritik, biar okey. Jangan over sangat, jangan buat fitnah apa semua.
+
+
+
+[80:41] Rafizi Ramli: Ha then that's the thing. Kadang-kadang kalau over dan fitnah...
+
+
+
+[80:45] Salim Iskandar: Kalau buat fitnah, are you going to saman?
+
+
+
+[80:46] Rafizi Ramli: Taklah, tapi kalau over dan fitnah kepada contohnya kan and and this is also my advice to not just you, semua oranglah. Kalau contohnya kritikan itu dia over dan fitnah, walaupun konon ke atas Anwar Ibrahim, tapi he is the Prime Minister yang mewakili institusi. So dia ada undang-undang tu.
+
+
+
+[81:10] Salim Iskandar: Dia panggil criminal defamation, I understand. Tapi why nak guna Akta Hasutan 1948?
+
+
+
+[81:11] Rafizi Ramli: Ha jadi jadi kita tak saya sebenarnya...
+
+
+
+[81:15] Rafizi Ramli: But I I itu semua keputusan yang dibuat oleh oleh polis dengan AG sebenarnya. You can go and check none of us campur tangan.
+
+
+
+[81:24] Salim Iskandar: Akta Hasutan 1948 adalah manifesto PH dalam PRU15 untuk dihapuskan. Sepatutnya koyak benda tu, bakul sampahkan. Show us! Tolong!
+
+
+
+[81:34] Rafizi Ramli: Insya- Insya-Allah.
+
+
+
+[81:36] Salim Iskandar: Tunjukkan kepada kami, buanglah akta tu.
+
+
+
+[81:37] Rafizi Ramli: Insya-Allah pada masa yang sesuai.
+
+
+
+[81:39] Salim Iskandar: Oh, masa tersirat tak nak tak sesuai eh? Okeylah guys, thank you very much.
+
+
+
+[81:44] Haziq: Okey, terima kasih. Assalamualaikum.
+
+
+
+[81:46] Rafizi Ramli: Waalaikumussalam.
+
+
+
+[81:47] Salim Iskandar: Waalaikumussalam.
+
+
+
+[81:48] [Music / Outro]
 
