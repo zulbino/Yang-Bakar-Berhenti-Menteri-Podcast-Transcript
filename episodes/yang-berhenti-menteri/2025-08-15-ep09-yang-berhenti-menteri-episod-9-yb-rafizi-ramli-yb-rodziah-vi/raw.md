@@ -7,846 +7,635 @@ publish_date: '2025-08-15'
 duration_seconds: 8063
 duration: 2h 14m
 view_count: 50857
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[05:26] Selamat sejahtera dan selamat sepupu. Welcome to episode 9 of Yang Berhenti Menteri. I am here with YB Pandan Rafizi Ramli and also YB Rodziah Ismail.
+[00:00] [Muzik / Skrin Menunggu]
 
-[05:41] Ahli Parlimen Ampang. Hi. Oh, I got it right. Dia berhaya pandan dengan Ampang. Dekat. And it's an honour to be here. Thank you for having me as your moderator guest, YB Refugee. And it...
 
-[05:59] is actually incredible, what
 
-[06:01] we're experiencing right now to all the viewers right now. We are actually here with YB Rafizi who I think, just based on what your staff told me earlier, you shed tears and I think I saw that for the very first time. You can't admit it. It's like, it's forever, the internet is forever YB.
+[05:27] Victor Tan: Selamat sejahtera dan selamat sepupu. Welcome to episode 9 of Yang Berhenti Menteri. I am here with YB Pandan, Rafizi Ramli, and also YB Rodziah Ismail, Ahli Parlimen Ampang.
 
-[06:26] Tetapi,
 
-[06:27] YB, I mean...
 
-[06:28] I had never actually seen that before and like, it's rare really to see a politician cry tears on television. And the last time I saw that was like with Lee Kuan Yew. I'll say that for a fact.
+[05:45] Rodziah Ismail: Thank you.
 
-[06:42] But I want to know, YB, as a human being, I think that
 
-[06:46] it's tough to even imagine what you had gone through and I want to know like uh YB like how are you good Alhamdulillah um
 
-[06:57] Yelah, dia...
+[05:46] Rafizi Ramli: Dia bahaya Pandan dengan Ampang ni. Dekat sangat.
 
-[07:00] Masalah jadi ahli politik, ahli parlimen ni kan maksudnya
 
-[07:05] Um...
 
-[07:07] Whatever happens, we have to put a preface. So, I think it's better to maintain composure. So, in my position, it's like when it first happened, in a hurry, all that panic, all that. Because we don't know actually,
+[05:51] Victor Tan: And it's an honor to be here. Thank you for having me as your moderator guest, YB Rafizi. And it is actually incredible what we're experiencing right now. To all the viewers right now, we are actually here with YB Rafizi, who I think, just based on what your staff told me earlier, you shed tears, and I think I saw that, for the very first time.
 
-[07:30] Dia racun ke, dia daiso, dia uncertainty yang buat lagi panic lah kan. Jadi dalam keadaan isteri saya pun panic, anak saya tak tahu, kita semua tak tahu kalau saya pun panic, dia kecoh lah. Jadi memanglah saya ingat sidang media tu semalam tu sebab...
 
-[07:53] There's a pent up feeling sebenarnya sebab saya dalam tempoh 24 jam pertama tu dia kena simpan semua kan. Jadi saya ingat it's a junction that I had to berhenti sekejap because dia ada banyak torrent of emotion. But beyond that I think macam saya sebut semalam lah maksudnya ini part and parcel of
 
-[08:18] Jalan yang kami sebagai sebuah keluarga pilih lah kan. Jadi sebenarnya kami dah melalui semua. So we are trained I suppose to keep it to ourselves and adapt quickly. Jadi my wife pun okay, anak pun okay.
+[06:17] Rafizi Ramli: Tak boleh tak kalau tak mengaku?
 
-[08:36] Cuma kita nak membantu siasatan tu, dia banyak ambil masa pergi balik ke balai dan sebagainya lah. Beyond that, I think it's routine continue. Sebab tu pada awalnya bila team saya kata kita skip minggu ni,
 
-[08:53] My view is that that's exactly what bullies want. For example, if we are bullied, this is bully, actually bullying. The reaction they want is to disturb our lives, everything is not going well. So that's why the best thing is to continue as usual. That's why the podcast has to continue as usual.
 
-[09:19] Actually, yesterday, when the incident or the feeling arose, I think not only Rafiq Ziramri spoke about it, but all of us. Yes, all of us. Everybody of us, maybe there are some who reflect too. There are a lot of things that we have hidden all this time. So, it's actually something that happened. It's like...
+[06:20] Victor Tan: It's like it's forever. The internet is forever, YB. But YB, I mean, I had never actually seen that before, and like, it's rare really to see a politician cry tears on television. And the last time I saw that was like with Lee Kuan Yew. I'll say that for a fact. But I want to know, YB, as a human being, I think that it's tough to even imagine what you had gone through, and I want to know like, YB, like how are you?
 
-[09:43] Yelah orang lama PKR yang macam Kak Oji yang bermula sebagai aktivis kan. Jadi in the case of Kak Oji pula seorang ibu kan. Maksudnya 20, sekarang berapa tahun? 27 tahun dalam PKR. 8. Harum 8 kan daripada...
 
-[10:02] activists have to be pressured. And if a woman, a mother, all the time that is lost with her child. So I think that's also the tool that it takes actually to bring change. Because of that,
 
-[10:19] Kalau yang mendengar sebelum ini, kami kritikal tu bukanlah sebab menang, kalah sangat. Tapi harga yang orang perlu bayar untuk membawa perubahan tu adalah sangat tinggi. Dan harga itu telah dibayar oleh ramai orang. Jadi bagi mereka yang ada tanggungjawab untuk buat benda yang sepatutnya, semua yang kita minta adalah untuk kita buat, kan? orang lain sebelum ini. Ya, betul. Dan untuk kamu semua yang berada di sini, saya ingin mengucapkan terima kasih sebagai seorang warga Malaysia. Terima kasih kerana pengorbanan yang anda buat.
+[06:53] Rafizi Ramli: Good, alhamdulillah. Yalah, dia you see, masalah jadi ahli politik, ahli parlimen ni kan, maksudnya apa pun jadi, kita kena put a brave face kan. Jadi yalah saya, sebaiknya kita maintain composure kan. Jadi dalam kedudukan saya macam apa ni masa bila dia mula-mula berlaku, dalam kecoh semua tu, panik semua tu, sebab kita tak tahu sebenarnya dia racun ke, dia tidak. So, the uncertainty yang buat lagi paniklah kan. Jadi dalam keadaan isteri saya pun panik, anak saya tak tahu, kita semua tak tahu. Kalau kalau saya pun panik, dia kecohlah. Jadi memanglah saya ingat sidang media tu semalam tu, sebab there's a pent-up feeling sebenarnya. Sebab saya dalam tempoh 24 jam pertama tu, dia kena simpan semua kan. Jadi saya ingat is a junction that I had to berhenti sekejap because dia ada banyak a torrent of emotion. But beyond that, I think macam saya sebut semalamlah, maksudnya ini part and parcel of jalan yang kami sebagai sebuah keluarga pilihlah kan. Jadi sebenarnya kami dah melalui semua. So, we are trained, I suppose, to to keep it to ourselves and and adapt quickly. Jadi my wife pun okey, anak pun okey. Cuma kita yalah, nak membantu siasatan tu dia banyak ambil masa pergi balik ke balai dan sebagainyalah. Beyond that, I think is routine continues. Sebab tu pada awalnya bila team saya kata kita skip minggu ni, pandangan saya ialah that's exactly what bullies want. Kalau contohnya kita dibuli, and this is bulilah sebenarnya kan, ugut, buli ni, memang reaksi yang dia nak ialah kita mengacau hidup kita, semua tak boleh jalan, semua. Jadi sebab itu the best thing is to continue as usual. Sebab itu podcast pun kena continue as usual macam hari ni.
 
-[11:00] that you are making, that you continue to make, that even now you are emphasizing even as you go forward in your life. In Chinese, and I'm aware that I'm the second Chinese guest on your podcast at the moment, so there's this Chinese proverb,
 
-[11:15] you make yourself, or rather a teacher, right? And this is actually related to the idea of education, becomes like a candle and burns themselves in order to enlighten the world. So in many ways, YB. So thank you for enlightening us, even in what is
 
-[11:31] a hard time that I think is not just a hard time for you personally, but I know of course that well it's a hard time also for your family in like many different ways as well as for us as a nation who feel that there's a sort of generational break almost and that's what I'm here also to ask you about today.
+[09:19] Rodziah Ismail: Actually masa semalam tu, bila kejadian ataupun perasaan itu timbul, I think not Rafizi Ramli aje rasa bercakap tentang itu, tapi kami semua. Boleh I think everybody of us mungkin ada yang reflects juga banyak benda yang kita pendamkan selama ni. So, it's actually something yang happen lah.
 
-[11:51] Jadi, apa yang saya fikirkan hari ini, topik
 
-[11:56] was more or less like kind of introduced by you as well like you talk about bullying and of course we are here to discuss
 
-[12:03] a range of different things. Like for example, well, your case, why we gonna moody gut? So, then of course then there's the Zara, Kairina case, and then the education system in general. And,
+[09:42] Rafizi Ramli: Tambah kalau macam yalah orang lama PKR yang macam Kak Ogy yang bermula sebagai aktivis kan. Jadi in the case of macam Kak Ogy pula seorang ibu kan. Maksudnya 20 sekarang berapa tahun? 27 tahun dalam PKR ni.
 
-[12:15] Maybe I didn't introduce myself before, my name is Victor Tan. So I own my own YouTube channel, if you go ahead and you look for Victor Tan, then you can see me say Selamat sejahtera dan selamat sepupu like hundreds of times if you like. I run a company called Ascendant Education. And if you want to look at some of my writings, then you can find it on sepupunomics.com. Today, I have the unique opportunity to talk about
 
-[12:40] a very sad moment in our nation. And of course, that's underscored by well, your case and also the case of
 
-[12:49] Baiklah...
+[09:59] Rodziah Ismail: 28.
 
-[12:51] Allahyarham, Zara, Kairina. And as a citizen, I didn't really know very much about this case. And maybe I'm not so privy to a lot of things that have been going on, but
 
-[13:05] Wabi
 
-[13:06] Do you remember where you were when you first found out about the Zara Karina case? Do you remember what happened when it came to your mind that this is something that actually happened in Malaysia?
+[10:00] Rafizi Ramli: 28 kan. Daripada aktivis, kena tekan, and then kalau seorang wanita, ibu, semua masa yang hilang dengan anak. So, I think yang itu juga yang the toll that it takes sebenarnya to bring change lah. Sebab itu kalau yang mendengar sebelum ini, kami kritikal tu bukanlah sebab menang kalah sangat. But the price that we that people have to pay to bring change tu adalah sangat tinggi. Dan harga itu telah dibayar oleh ramai orang. Jadi bagi mereka yang ada tanggungjawab untuk buat benda yang yang sepatutnya, all we ever ask is for you to do it right kan. Sebab harga itu telah dibayar oleh orang lain kan sebelum ini.
 
-[13:17] Hmm, actually kalau ikutkan, ya.
 
-[13:21] I know about Zara Karina is that it's normal when we are with social media, suddenly we see her story become or a lot in TikTok and so on. So I started to see what the real issue is.
 
-[13:43] The question is, at that time, if I'm not mistaken, it was 3 or 4 days after the incident happened. If I'm not mistaken, it was 16 or 17 days of July. But the first video that happened, I watched his mother's video. His mother spoke about it, she felt worried and she felt something is not right.
+[10:51] Victor Tan: Absolutely. And to both of you YBs here, I want to say as a Malaysian citizen, terima kasih. Thank you for the sacrifice that you made, that you are making, that you continue to make, that even now you are emphasizing even as you go forward in your life. In Chinese, and I'm aware that I'm the second Chinese guest on your podcast at the moment, so there's this Chinese proverb: well, you make yourself, or rather a teacher, right, and this is actually related to the idea of education, becomes like a candle and burns themselves in order to enlighten the world. So in many ways, YBs, so thank you for enlightening us even in what is a hard time that I think is not just a hard time for you personally, but I know of course that, well, it's a hard time also for your family in like many different ways as well as for us as a nation who feel that there's a sort of generational break almost. And that's what I'm here also to ask you about today. So YB, today I think the topic was more or less like kind of introduced by you as well, like you talk about bullying. And of course, we are here to discuss a range of different things, like for example, well, your case, why we can bully that. And of course, then there's the Zara Qairina case, and then the education system in general. And maybe I didn't introduce myself before. My name is Victor Tan. So I own my own YouTube channel. If you go ahead and you look for Victor Tan, then you can see me say selamat sejahtera dan selamat sepupu like hundreds of times if you like. I run a company called Ascendant Education. And if you want to look at some of my writings, then you can find it on sepupunomics.com. Today, I have the unique opportunity to talk about a very sad moment in our nation. And of course, that's underscored by, well, your case and also the case of, well, Allahyarham Zara Qairina. And as a citizen, you know, I didn't really know very much about this case. And we are not so privy to like a lot of things that have been going on. But YBs, do you remember where you were when you first found out about the Zara Qairina case? Do you remember what happened when it came to your mind that this is something that actually happened in Malaysia?
 
-[14:11] yang dia perlukan supaya siasatan dibuat dengan lanjut. So, di situ...
 
-[14:18] I think Di situ make me Tengok eh Kenapa
 
-[14:23] Teruk sangat isu ni berlaku kan. Dan baru kita tengok bahawa sebenarnya dia bukan meninggal on the spot. Dia meninggal selepas beberapa jam dia dibawa ke hospital. Apapun, apapun, bila cerita-cerita rentetan ibu dia tu, saya tengok kejadian ni kemungkinan tidak berlaku hanya hari tu.
+[13:18] Rodziah Ismail: Actually kalau ikutkan, ya, saya tahu tentang Zara Qairina ni adalah biasalah bila kita dengan sosial media, tiba-tiba kita tengok cerita dia menjadi-jadi ataupun banyaklah dalam dalam dalam TikTok dan sebagainya. Jadi saya start untuk tengok apa isu sebenarnya. Dan persoalannya masa tu tak silap saya dah lepas tiga ke empat hari selepas kejadian berlaku. Tak silap saya 16 ke 17 hari bulan 7, ya? 16 hari bulan 7 tak silap saya kan. Tapi first video is happen that saya tertengok ibu dia punya video. Ibu dia bercakap tentang dia dia rasa risau dan dia dia rasa something is not right yang dia perlukan supaya siasatan dibuat dengan lanjut. So di situ, I think di situ make me tengok eh, kenapa teruk sangat isu ni berlaku kan. Dan baru kita tengok bahawa sebenarnya dia bukan meninggal on the spot, dia meninggal selepas beberapa jam dia dibawa ke hospital. Apa pun, apa pun, bila cerita-cerita rentetan ibu dia tu, saya tengok kejadian ini kemungkinan tidak berlaku hanya hari tu. The bully maybe berlaku dah beberapa kali. Kita tak tahulah. Tetapi persoalannya bagaimanakah kes itu ditangani? Macam saya sebutlah, sepatutnya sekolah ataupun tempat mana-mana untuk kanak-kanak itu adalah tempat yang selamat untuk mereka kan. Tetapi kenapa ianya tidak berlaku? Tidak berlaku di situ. So and then yalah, cerita tengok bertambah-tambah ada lagulah pula yang yang I think kenapa benda tu berlaku adalah rasa ketidakpuasan hati di sudut apa sebenarnya berlaku kan? Kenapa kenapa benda ni tidak dijawab ataupun tidak diberikan satu satu indication yang sebaiknya ataupun yalah, semua everybody want to know what's happening kan.
 
-[14:47] The bully maybe berlaku dah beberapa kali Kita tak tahulah Tetapi persoalannya bagaimanakah kes itu ditangani
 
-[14:56] As I said, schools or places for children are safe places for them. But why didn't it happen? It didn't happen there. Then, I saw that there was a song. I think why it happened was because of the sense of dissatisfaction.
 
-[15:21] Apa sebenarnya berlaku kan? Kenapa benda ni tidak dijawab? Ataupun tidak diberikan satu indication yang sebaiknya? Ataupun, yelah, semua, everybody want to know what's happening kan? Dan dia dah jadi isu antarabangsa. Like, there are people in Thailand, there are people in Singapore. But I'm all using the hashtag, justiceforzara hashtag. Tapi dalam masa yang sama sebenarnya, beberapa kajian yang lain juga berlaku. UTM punya student maknanya apa yang saya risau sekarang ni kita sebagai ahli parlimen kan apakah benda ni menjadi normal, normal pada kita untuk okelah dengar saja dan tiada tindakan yang lebih serius ataupun kita rasa this is high time kita betul-betul screw tengok betul-betul apakah environment kita perlu kita sediakan dalam keadaan begini, what happen actually ni kan. Ha. Ya. So that's it lah Kak G. I I rasa macam
+[15:37] Victor Tan: Dan dia dah jadi isu antarabangsa. Like there are people in Thailand and even Singapore who are all using the #JusticeForZara hashtag.
 
-[16:28] Katalah Kes ini
 
-[16:31] It's not as big as it might be, the story is deep. It's deep, it's quiet. Like what happened to Rafizi, because he's a big name. Even the late Zahra, they were children.
 
-[16:52] murid yang kalau tak ada siapa bising tak ada siapa pun ambil tahu ya dia something ini yang saya punya point lah maknanya kita jangan hmm
+[15:45] Rodziah Ismail: Tapi dalam masa yang sama sebenarnya, beberapa kejadian lain juga berlaku. Kan? Macam that UiTM punya student. Maknanya apa yang saya risau sekarang ni, kita sebagai ahli parlimen kan, apakah benda ni menjadi norma? Norma pada kita untuk okeylah, dengar saja dan tiada tindakan yang lebih serius. Ataupun kita kita rasa this is high time kita betul-betul skru tengok betul-betul apakah environment kita perlu kita sediakan dalam keadaan begini? Or what happened actually dalam masyarakat kita sekarang ni kan? Ha. So that's it lah. Kak Ji I rasa macam katalah ya, kes ini tidak di tidak diwawar-wawarkan sebegitu besar, kemungkinan besar cerita tu tenggelam. Ya, dia tenggelam, dia senyap kan. Macam macam apa yang berlaku pada Rafizi, sebab dia nama besar. Ya. Kalau even arwah Allahyarhamah Zara ke siapa ke, mereka itu somebody anak murid yang kalau tak ada siapa bising, tak ada siapa pun ambil tahu. Ya, this is something. Ini yang saya punya point lah, maknanya kita jangan jangan ingat nyawa tu percumalah. We need to take action dan kena tengok balik, revisit balik apa yang sebenarnya berlaku kan. Itu itu pandangan Kak Jilah. Terima kasih.
 
-[17:01] Don't think that life is a waste. You need to take action and look back. Re-visit what actually happened. Right? Yes. That's what I think. Thank you. I remember...
 
-[17:20] Saya bangunlah sebenarnya ambil maklum pasal kes Zara ni. Saya ingat dalam seminggu lepas macam itulah. Itu buat saya di rumah. Sebab kami dah tak tengok TV tau. Kami tengok YouTube. Jadi malam kalau saya balik, itu selalunya...
 
-[17:39] My wife and son, when it's family time, they watch YouTube. They watch YouTube Kuching, they watch YouTube Makan, and all that. So, I remember, sometimes last week,
+[17:18] Rafizi Ramli: Saya teringat, saya barulah sebenarnya ambil maklum pasal kes Zara ni. Saya ingat dalam seminggu lepas macam itulah, dan it's brought saya di rumah. Sebab kami dah tak tengok TV tau, kami tengok YouTube. Jadi malam kalau saya balik tu selalunya my wife dengan anak dia kalau family time tu tengok YouTubelah kan. Tengok YouTube kucinglah, tengok YouTube makanlah semua kan. Jadi saya ingat sometime last week lah. Family saya agak sensitif pasal buli di sekolah ni sebab anaklah kan, anak. Jadi mereka yang ada anak di sekolah, memang isu buli ni berlaku, cuma dia pada tahap yang berbeza-bezalah. Kemudian saya dengan isteri saya, dua-dua belajar sekolah asrama penuh kan. Jadi kita memang sangat biasalah kalau pasal kes buli, kes pukul ni. Jadi isteri saya yang yang tunjukkan dululah. Cuma masa tu saya tak tak tahu hujung pangkal. Jadi saya pun kena mengaku bahawa sebenarnya saya tak ada maklumat yang menyeluruh sebenarnya tentang apa yang berlaku kan. Yang itu yang saya ingat menyebabkan keadaan yang meletup sampai sekarang. Kerana bila maklumat itu tidak jelas dan dalam kes Zara ni dia sudah meninggal kan. Jadi dan bila orang tahu sedikit demi sedikit, jatuh bangunan kan mula-mula? Kan kalau dia mula-mula ada versi jatuh bangunan semua. Macam-macam versi kan. Kemudian apa nama ni, tak ada bedah siasat. Jadi peliklah kan. Jadi dari situlah sedikit demi sedikit dan dalam kes saya, saya adalah peluang untuk tanya orang itu, tanya orang ini, tanya kawan dari Sabah sebenarnya apa yang berlaku. Dan kemudian saya fahamlah bahawa emosi itu berlainan kerana banyak perkara yang yang sangat unik di Sabah kerana bila disebut tentang VVIP semua kan. Tapi kalaulah contohnya perkara itu ditangani dengan lebih proaktif. Sebab itu saya bila kejadian yang melibatkan anak saya sendiri kan, saya dalam tempoh 2-3 jam saya keluarkan kenyataan media. Kemudian keesokan harinya saya terangkan mana yang saya boleh terangkan yang tidak, pada pandangan sayalah, yang tidak mengganggu siasatan. Kerana dalam zaman media sosial ni, sangatlah penting untuk kita memastikan spekulasi tu dia tidak sampai ke langit. Kerana bila dah sampai ke langit itu, macam-macam cerita akan keluarlah. Dan banyak tu adalah mungkin lebih jauh daripada yang sebenarnya. Tapi dalam kes Zara ini, oleh kerana perkara itu tidak ditangani dengan dengan baik, dia sudah jadi sampai isu yang sangat emosilah. Dan memanglah isu kalau ada anak yang meninggal di sekolah, apatah lagi di asrama kan, memanglah dia satu isu yang emosi kerana semua rakyat Malaysia ni ada anak kan? Dan sebahagian besar hantar anak ke sekolah, sekolah kerajaan. Jadi saya saya faham, kakak saya cikgu contohnya kan. Memanglah sukar. Tetapi itulah tanggungjawab di peringkat tertinggi untuk memastikan bahawa perkara ini, SOP-nya, latihannya, tindak balasnya bila berlaku sesuatu seperti ini, ditangani dengan sebaik yang mungkin.
 
-[17:55] Family saya agak sensitif Asal bully di sekolah ni Sebab Anak lah kan Anak Jadi Mereka yang ada Anak di sekolah Memang isu bully ni Berlaku Cuma dia pada Perang
 
-[18:12] Tahap yang berbeza-bezalah Kemudian saya dengan isteri saya Dua-dua belajar sekolah selama penuh Kita memang Sangat biasa lah Kalau pasal kes buli, kes pukul Jadi isteri saya Yang tunjukkan dulu lah Cuma masa itu saya tak
 
-[18:33] tak tahu jom bangkal jadi saya pun kena mengaku bahawa sebenarnya saya tak ada maklumat yang menyeluruh sebenarnya tentang apa yang berlaku kan yang itu yang saya ingat hmm
+[21:31] Victor Tan: Saya nak minta YB, pernah tak YB pergi dekat Instagram lepas tu search kan #JusticeForZara? Pernah tak buat begitu? Sebab masa saya ternampak isu ini untuk kali pertama kan, so memang dia ada #JusticeForZara. Maka saya telah buat search dan lepas tu saya nampak memang ada banyak orang yang sangat beremosi. Dan lepas tu dia orang duk buat expose muka-muka orang yang kononnya pembuli sebagainya. Dikatakan juga macam, "Oh, ni adalah tomboy, ini adalah teding, ini adalah..." Macam-macamlah. Tapi yang saya rasa ini macam there could have been a lot more done I guess from the ministry to address this issue. But now actually, I want to tie in this issue, and actually it's related to your case as well, and I apologize if this is personal. Tapi I saw actually an Instagram post that your son had made like quite a while ago. And I think that it ties in, and I hope that you don't mind if I like raise this idea. And this post actually is about Allahyarham Abang Zulfarhan. So your son, in his, how old is he actually?
 
-[18:48] Menyebabkan keadaan dia meletup sampai sekarang Kerana Bila maklumat itu tidak jelas Dan dalam kes Zahara ni Dia sudah meninggal Jadi Dan bila orang tahu sedikit Demi sedikit Jatuh bangunan ni
 
-[19:05] At first, there was a version of Jatuh Bangunan, etc. Various versions. Then, there was no post-mortem. So, it's weird. So, from there, little by little, and in my case, I had the opportunity to ask people, ask people, ask friends from Sabah, actually what happened. And then I understood that
 
-[19:33] Emosi itu berlainan kerana banyak perkara yang sangat unik di Sabah Kerana bila disebut tentang VVIP semua kan Tapi kalaulah contohnya perkara itu ditangani dengan lebih proaktif Sebab itu saya bila kejadian yang melibatkan anak saya sendiri kan
+[23:04] Rafizi Ramli: My son is 12.
 
-[19:58] I, within 2-3 hours, I published the media statement. Then, the next day, I explained what I could explain, which, in my opinion, did not interfere with the investigation. Because, in this social media era, it is very important for us to ensure that the speculation does not reach the sky. Because when it reaches the sky,
 
-[20:26] Macam-macam cerita akan keluar lah Dan banyak tu adalah mungkin lebih jauh daripada yang sebenarnya Tapi dalam kisah Zara ni oleh kerana
 
-[20:38] Perkara itu tidak ditangani dengan baik, dia sudah jadi sampai isu yang sangat emosi lah. Dan memanglah isu kalau ada anak yang meninggal di sekolah, apatah lagi di asrama kan. Memanglah dia satu isu yang emosi kerana semua rakyat Malaysia ni ada anak kan. Dan sebagian besar hantar anak ke sekolah, sekolah kerajaan.
+[23:06] Victor Tan: Your son is 12, and he Okay, have you seen this post, YB? I'm not sure if you saw it. Okay, let me read it for you. Let me ask you, does it sound like something that a 12-year-old under normal circumstances would write? Okay? So it reads: "Dear Abang Zulfarhan, Mommy and I will fight against any form of bullies. No one should die because of bullies. I was bullied in school before because Daddy is my father. It took Mommy months to get me out of the trauma. How I wish help was on your way when you needed the most." And that's what I read from this one out. Maybe you remember this?
 
-[21:04] So, I understand, my sister is a teacher, for example, right? It's difficult. But that is the responsibility at the highest level to ensure that this matter, its SOP, its training, its response when something like this happens, is handled as well as possible.
 
-[21:30] Saya nak minta YB Pernah tak YB pergi dekat Instagram Lepas tu search kan hashtag Justice for Zara Pernah tak? Berbuat begitu sebab
 
-[21:42] Masa saya ternampak isu ini untuk kali pertama kan So memang dia ada hashtag justiceforzara Maka saya telah buat search dan lepas tu saya nampak Memang ada banyak orang yang sangat beremosi Dan lepas tu dia orang buat expose Muka-muka orang yang koronnya pembuli sebagainya Dikatakan juga macam Ini adalah tomboy, ini adalah dedeng, ini adalah...
+[23:44] Rafizi Ramli: Yeah, I do. I do remember. Dia dia ada latar belakang. Sebab tu saya sebut tadi, kalau pasal buli ni, sebab itu yang kes pasal kes Allahyarhamah Zara ni, my wife dengan anak yang tunjukkan. Sebab kes buli ni dia ada sedikit latar belakang dengan anak sayalah. I think we believe dia kena buli dan sebenarnya jadi anak seorang ahli politik, tambah lagi kalau ahli politik yang begitu kontroversi macam saya, actually is a very difficult situation for him. Sekarang sudah sekolah ketiga kan. Jadi daripada sekolah yang pertama, so so kami melalui sendiri proses itu yang mana kita rasa dia dibuli. Saya melalui proses isteri sayalah kan, melalui proses itu kemudian dibawa ke sekolah dan kita tengok yalah, reaksi yang berbeza-beza di dari guru yang berbeza-beza, terutamanya dari pihak pentadbiran sekolah yang berbeza-beza. Kemudian sebab itu tukar sekolah kan. Jadi jadi setiap isu buli tu kalau di sekolah, memang dia sangat personal kepada my son and my wife sebenarnya because they went through it lah kan. Jadi anak saya ni pemalu, very introvert, and jadi dia anak seorang kan. Jadi dia introvert. Tapi pada masa yang sama, saya faham juga bahawa di sekolah, apa nama ni, kemahiran untuk mengendalikan sesuatu kes itu sebenarnya rumit. Dan sebab itu kita boleh tengok perbezaan yang besar, pengalaman keluarga saya sendiri, antara yang guru yang berkemahiran dan ada compassion dan dia mengambil serius tentang apa-apa perkara yang bersabit dengan buli, dengan contohnya guru yang kalau apa-apa selalunya, salahnya salah budak itu. Kalau budak tu rasa dia kena buli, jadi ada seolah-olah you know sebahagian segelintir yang cara menanganinya itu akan menyebabkan sama ada budak itu sendiri atau ibu bapa rasa takut untuk atau serba salah untuk bersuara. Sebab akhirnya dia masih lagi kena pergi ke sekolah itu. Akhirnya dia masih lagi kena pergi ke kelas itu. Jadi kalau cikgu rasa bila sesuatu perkara itu dibawa oleh budak itu ataupun ibu bapa kan, kalau cikgu tu tidak terlatih ataupun tidak yalah tidak menanganinya dengan baik, dia akan bagi gambaran yang budak ni suka bagi nuisance, bagi masalah. Jadi akhirnya dia yang budak itu akhirnya dahlah dia kena buli, kemudian cikgu pula bagi dia rasa macam dia budak jahat dan sebagainya kan. Jadi masa anak saya mula-mula pergi sekolah masa zaman COVID, kan, darjah satu tu masa zaman COVID Kak Ogy kan, memang susah masa tu sebab dengan segala yang kelam-kabut semua kan, dan budak-budak kan. Kita ibu bapa ni ataupun orang tua ni, selalu ada kecenderungan kalau budak-budak ni kita kata, "Memang budak-budak macam itulah." Budaya tu kita nak kena kena betulkan. Sebab kita mungkin kata tak apalah dia budak-budak, tetapi psikologi budak-budak yang lain ada kesan yang besar. Jadi posting itu Victor, ialah kerana you know bila berlaku apa-apa kes buli kan, jadi dia memang sangat sensitif kepada anak dan isteri saya, a lot more than for me.
 
-[22:15] Macam-macam lah Tapi Yang Saya Saya
 
-[22:22] Russell ini Macam There could have been a lot
 
-[22:27] more than I guess from the ministry to address this issue. But now actually I want to tie in this issue. And actually it's related to your case as well. And I apologize if this is personal. But...
+[28:05] Rodziah Ismail: Macam traumalah.
 
-[22:43] I saw actually an Instagram post that your son had made quite a while ago and I think that it ties in and I hope that you don't mind if I raise this idea
 
-[22:53] And this post actually is about Allah Ya'alham, Abang, Zulfarhan. Yeah, yeah. So your son, in his... How old is he actually?
 
-[23:04] My son is 12. Your son is 12? And he... Okay, have you seen this post, YB? I'm not sure if you saw it. Okay, let me read it for you. Let me ask you, does it sound like something that a 12-year-old, under normal circumstances, would write? Okay. So it reads, Dear Abang Zulfarhan, Mommy and I will fight against any form of bullies. No one should die because of bullies. I was bullied in school before because Daddy is my father.
+[28:06] Rafizi Ramli: Ha, trauma dia tu kan. Jadi sebab apa nama ni, jadi bila kami pindah sekolah ke Putrajaya, daripada sekolah yang dulu, memang isteri saya dengan saya dah bagi the full briefing kepada sekolah. Contohnya anak saya memang dia dia tak nak perhatian, dia tak nak dilayan berlainan sebab dia rasa orang pandang serong dekat dia. Dan ditambah bila jadi anak ahli politik yang seperti saya, memanglah ada ada dia dia ada kadang-kadang guru ada pandangan yang berlainan. Tapi juga ialah dia punya peers, classmates dia kan. Dia datang daripada rumah yang ibu bapa mereka ada pandangan politik yang berlainan. Jadi sebenarnya contohnya dalam tiga empat bulan yang lepaslah bila saya buat keputusan untuk letak jawatan, it has not been easy for my son, you know. Bila dia pergi ke sekolah, kawan-kawan dia tanya sebab apa. Sebab kami tak pernah bincang pasal politik dan sebagainya. I mean, it's totally off dalam my family yang yang kami tiga orang ni untuk bincang pasal politik. Kita bincang pasal benda lainlah kan. Jadi dia tak ada maklumat. Dia tak tahu bila dia tiba-tiba pergi sekolah orang tanya, "Kenapa bapa you kena buang?" So dia balik, "Daddy, kenapa you kena buang?" Saya nak terang tu susah kan. Jadi, "Oh, ayah you ni kena lucut jawatan." Jadi so I had to go through that process untuk dia memahami. Kemudian contohnya, "Kenapa Daddy dah tak kerja dekat Putrajaya?" Sebab Daddy dah resign. "Why you resign?" Jadi saya contohnya sebagai parents sendiri kan, I saya nak shield my son as much as possible daripada semua ni. Tapi you can't in school kan. Jadi sometimes ini yang kesukaran sebenarnya menangani kes buli terutamanya di sekolah biasa. Sebenarnya di di sekolah asrama tu, dia lebih straightforward tau daripada sekolah biasa. Sebab the fine line antara perangai budak-budak dengan actually membuli, how do you draw the line? Kalau saya jadi guru pun, macam kakak saya cikgu kan, dia tak mudah tau. Sebab itu saya ingat bila berlaku apa nama ni kes Zara ni kan, itu menunjukkan bahawa kita tidak boleh menangani soal buli di sekolah ini hanya dengan slogan. Dan on record kan, dalam mesyuarat Jemaah Menteri sepanjang saya berada di dalam kabinet tu kan, saya rasa saya antara menteri yang berkali-kali bawa cerita buli di sekolah. Sebab tu kalau orang tanya kenapa YB suka buli YB Fadhlina? Sebab sebenarnya ada beberapa perkara yang memang saya dah sebut berkali-kali jangan ambil mudah. Termasuklah buli di sekolah. Saya sebut daripada tahun pertama 2023, 24 lagi. Tapi jawapan Fadhlina tu macam tulah. Kita semua dah bagus, kita semua dah ada, ha itu semua kan. Jadi sedangkan yang anak di sekolah ni yang anak saya tahu kan, jadi kan. Jadi and to be fair to PM, I can share this, to be fair to Datuk Seri Anwar, dia selalunya sangat bersetuju dan menyambung bila saya sebut soal buli. Sebab ada persamaan di antara cucu-cucu dia dengan anak saya. Kami ni anak kami ialah anak high profile politician yang ada sebahagian daripada rakyat Malaysia memang tak suka. Jadi they are subjected to segala jenis komen kan. Cucu Datuk Seri Anwar pun macam itu, anak saya pun macam ni kan. Jadi setiap kali kami bawa cerita pasal buli di sekolah ni di kabinet, saya ingatlah, memang Datuk Seri Anwar akan sokong. Cuma saya saya jarang berpuas hati dengan jawapan menterilah. Sebab seolah-olah menteri itu tidak faham perkara ini sangat rumit, you know.
 
-[23:31] It took mommy months to get me out of the trauma. How I wish help was on your way.
 
-[23:37] when you need it the most. And that's what I'll read from this one out. But maybe you remember this part. Yeah, I do. I do remember. You remember this part. He has a background. That's why I mentioned earlier. If it's about bullying, that's why it's...
 
-[23:54] Sebab kes Allah Ya Rahman Zara ni My wife Dengan anak yang tunjukkan Sebab kes bully ni Dia ada sedikit latar belakang Dengan anak saya lah I think we believe dia
+[32:21] Rodziah Ismail: Tapi apakah apakah kita tengok masalah buli ni memang daripada dulu ada kan? Sebenarnya sebab Kak Ji tak tak masuk saya tak masuk boarding school pun sebab saya takut kena bulilah kan. Walaupun saya anak polislah eh. Saya lebih selesa tapi kebetulan cikgu saya memang saya nampak dia cepatlah kalau ada apa-apa dia cepat. Tapi isu yang lebih fundamental saya rasa, isu buli ni dah lama. Dan selaku ahli select committee kan dalam parlimen berkaitan dengan isu buli ni, kita tengok rupanya pengajaran tentang subjek kepada guru tentang memahami tentang buli, karakter, dan sebagainya ini tidak dibi- diberikan dengan baik. Dan sebenarnya kanak-kanak, dia ada hak dia ya, dalam kita tengok dalam konvensyen mana-mana pun ada they have we have children's rights apa ni yang perlu ditangani di sudut aspek keselamatan dan sebagainya. Tetapi guru tak belajar benda ni. Cikgu tidak diajar, tapi diajar psikologi, pedagogi, cara pembelajaran, dan sebagainya. Tetapi memahami karakter budak, apa hak dia, contoh kan macam anak Rafizi seorang introvert. Cucu saya, saya tak pernah kena, anak saya tak pernah kenalah sebab saya ni macam jenis yang kalau ada apa-apa pergi. Cucu saya ini buli lain pula. Dia balik contoh eh contoh, dia balik mak dia selalu cakap lapar sangat, tak makan. Walhal duit bagi. Rupanya buli cara lain. Buli dia, "You anak wakil rakyat, banyak duit. Jadi duit you bagi kat kami." Ha itu lain pulak kan.
 
-[24:07] He was bullied. And actually, being a child of a politician, not to mention a politician who is as controversial as me, actually is a very difficult situation for him. Now, he's in his third year of school. Right? So, from the first school... So, we went through the process ourselves, where...
 
-[24:34] Kita rasa dia dibuli. Saya melalui proses isteri saya lah. Melalui proses itu kemudian dibawa ke sekolah dan kita tengok...
 
-[24:47] Yes, different reactions from different teachers, especially from different school administrators. Then, because of that, they changed schools. So, every bullying issue, if at school, it's really...
+[34:09] Rafizi Ramli: Ini bukan buli fizikal.
 
-[25:10] personal to my son and my wife because they went through it. So, my son is a shy person, very introvert. And so, he is a child of his own, right? So, he is an introvert. But at the same time, I also understand that at school,
 
-[25:33] apa nama ni kemahiran untuk mengendalikan sesuatu kes itu sebenarnya rumit dan sebab itu kita boleh tengok perbezaan yang besar pengalaman keluarga saya sendiri antara yang
 
-[25:49] Guru yang berkemahiran dan ada compassion dan dia mengambil serius tentang apa-apa perkara yang bersabit dengan bully. Dengan contohnya guru yang kalau apa-apa selalunya, salahnya yang salah budak itu.
+[34:11] Rodziah Ismail: Yang saya ingat masa awal-awallah masa dia darjah satu, darjah dua, kami mula perasan tu sebab barang dia selalu hilang. Ha itu lagi satu. Jadi dia pressured because you know dia dia mungkin tak boleh nak nak nak kalau dia bising pun, "You anak wakil rakyat," kan? Jadi bila dia balik tu dia nak dia nak beritahu yang barang dia hilang tu dan dia selalu berlaku, sama juga macam duit. Dia selalu Sebab tu saya kata dia sangat tricky sebab kadang-kadang peer dia, classmate dia, minta pinjam tapi tak bagi balik sampai bila-bila. Lama-lama kalau selalu pinjam selalu pinjam, maksudnya itu samalah juga dengan meminta duit dia. And he's not in a position to say no kan.
 
-[26:08] Kalau budak tu rasa dia kena bully, jadi ada seolah-olah sebahagian, segelintir yang cara menanganinya itu akan menyebabkan sama ada budak itu sendiri atau ibu bapa rasa...
 
-[26:26] afraid to or guilty to speak because finally he still has to go to school finally he still has to go to class so if the teacher feels when something is brought by the child or the parents, right if the teacher is not trained or not yes, not handling it well
 
-[26:51] Dia akan bagi gambaran yang budak ni suka bagi nuisen, bagi masalah. Jadi akhirnya, dia yang budak itu akhirnya dah lah dia kena bully. Kemudian cikgu pula bagi dia rasa macam dia budak jahat dan sebagainya kan. Jadi...
+[34:56] Rodziah Ismail: Tapi satu aspek lagi ya, Raf dengan Victor, budak-budak ni kalau ada berlaku apa-apa, ke mana sebenarnya dia nak buat aduan itu? That's the the part that we need to think about lah. Kalau kita kata dia nak mengadu pada cikgu ke, pada orang yang ada talian something yang dia boleh share masalah tu supaya benda tu cepat ditangani. Aduan satu, cara kita apa cara kita tackle isu tu cepat ke lambat pun satu lagi. So those things yang kita kena tengok. Sebab tu saya rasa minta maaflah sebutlah sebab saya rasa guru-guru juga kena lebih sensitif. Dan kalau kita dah belajar psikologi kanak-kanak, kita nampak perubahan-perubahan yang ada kan. Dan kita boleh tengok pun karakter budak ni, dia jenis dominan ke, tak ke kan. Saya rasa dah kita boleh cari pendekatan lain. Tapi persoalannya apakah semua guru boleh memainkan peranan ni kan?
 
-[27:10] masa anak saya mula-mula pergi sekolah masa zaman Covid
 
-[27:15] kan, tajar satu dia masa zaman covid kat UG kan memang susah masa tu sebab dengan segala yang telang kabut semua kan dan budak-budak kan, kita ibu bapa ni ataupun orang tua ni selalu ada kecenderungan kalau budak-budak ni kita kata memang budak-budak macam itulah
 
-[27:36] We have to correct the culture. Because we might say, it's okay, he's a kid. But the psychology of other kids has a big effect. So, posting that, Victor, is because, you know, when it happens, any bullying case, right? So, he is very sensitive to my children and wife. A lot more than
+[36:01] Victor Tan: YB, boleh tak saya mencelah sikit? Sebab saya terperasan sesuatu yang agak disturbing. Sebab naratif yang kita selalu dapat daripada internet tu adalah bahawa naratif Zara Qairina tu adalah sesuatu yang mustahil akan dikeluarkan kalau orang ramai tak buat apa-apa pun. As if somehow, this Zara would not have had the news known about her and she would have essentially just been continually tortured, and things could have gone bad in another situation whereby, like 10,000 other kids, maybe like she would have just faded off into the distance. Tapi apa yang saya dengar daripada perbincangan YB-YB tadi adalah bahawa walaupun you anak siapa ke, walaupun you boleh dianggap sebagai anak VVIP ke, so for example YB Rafizi, we could say, YB Rodziah, we could also say, that your kids, your grandchildren, are anak VIP. So it seems like almost this bullying thing is something that affects us all. Like it seems very strange to me to think about that. And actually, right, YB Rafizi, I do want to ask you a little bit, right. And for this, I'm going to show you yet another picture. I have a lot of pictures. Maybe you remember this.
 
-[28:04] Macam trauma lah Haa trauma dia tu kan Jadi sebab Apa nama ni Jadi bila kami pindah sekolah Ke Putrajaya Dari sekolah yang dulu Haa Memang Isteri saya dengan saya Dah bagi the full briefing Kepada sekolah Haa Contohnya Anak saya memang Dia tak nak perhatian Dia tak nak dilayan berlainan Sebab
 
-[28:27] dia rasa orang pandang serong dekat dia dan ditambah bila jadi anak ahli politik yang seperti saya
 
-[28:35] memanglah ada dia ada kadang-kadang guru ada pandangan yang berlainan tapi juga ialah
+[37:49] Rafizi Ramli: That one I remember.
 
-[28:43] Dia punya peers Budak classmate dia kan
 
-[28:48] Dia datang daripada rumah yang ibu bapa mereka ada pandangan politik yang berlainan. Jadi sebenarnya contohnya dalam 3-4 bulan yang lepas lah bila saya buat keputusan untuk letak jawatan. It has not been easy for my son you know.
 
-[29:04] Bila dia pergi ke sekolah Kawan-kawan dia tanya sebab apa Sebab kami tak pernah bincang pasal politik dan sebagainya I mean it's totally off dalam my family Yang kami tiga orang ni untuk bincang pasal politik
+[37:52] Victor Tan: So, maybe you remember the whole "Bungwak bungwek wek, fiat sapientia virtus," dan sebagainya. Dan kepada para penonton, ini adalah sebuah gambar YB Rafizi yang sedang pada masa ni...
 
-[29:22] Kita bincang macam benda lain kan Jadi Dia tak ada maklumat Dia tak tahu Dia tiba-tiba pergi sekolah Orang tanya Kenapa bapak you kena buang
 
-[29:30] So dia balik, Daddy kenapa you kena buang? Saya nak terang tu susah. Jadi, oh ayah you ni kena lucut jawatan. Jadi, so I had to go to that process untuk dia memahami kemudian contohnya, kenapa Daddy dah tak kerja dekat Putrajaya? Sebab Daddy dah resign. Why you resign? Jadi, saya contohnya sebagai parents dia kan, saya nak shield my son as much as possible daripada semua ni. lah in school kan jadi sometimes ini yang kesukaran sebenarnya menangani kes bully terutama yang di sekolah biasa sebenarnya di di sekolah asrama tu dia lebih straight forward tau daripada sekolah biasa sebab
 
-[30:16] The fine line antara perangai budak-budak dengan actually membuli. How do you draw the line? Kalau saya jadi guru pun, macam kakak saya cikgu kan, dia tak mudah tau. Sebab itu saya ingat bila berlaku apa nama ni, kes Zara ni kan, itu menunjukkan bahawa kita tidak boleh...
+[38:09] Rafizi Ramli: I've been trying to get back to that shape ever since. Masa kat sekolah dulu saya kurus kan. Kat sekolah boarding school tak cukup makan, jadi kurus.
 
-[30:39] menangani soal buli di sekolah ini hanya dengan slogan dan on record kan dalam mesyuarat jemaah menteri sepanjang saya berada di dalam kabinet tu kan saya rasa saya antara menteri yang berkali-kali bawa cerita buli di sekolah sebab tu kalau orang tanya kenapa YB suka buli YB Fadlina
 
-[31:03] Sebab sebenarnya ada beberapa perkara yang memang saya dah sebut berkali-kali. Jangan ambil mudah. Termasuklah bully di sekolah. Saya sebut daripada tahun pertama, 23, 24 lagi. Tapi jawapan Fadlina tu macam tu lah.
 
-[31:18] Kita semua dah bagus
+[38:21] Victor Tan: Ya, ni ni outfit band kan?
 
-[31:20] Kita semua dah ada. Haa, ya itu semua kan. Jadi, sedangkan yang anak di sekolah ni, yang anak saya tau. Kan, jadi kan, jadi. And to be fair to PM, I can share this. To be fair to Dato' Sri Anwar, dia selalunya sangat bersetuju dan menyambung bila saya sebut soal buli. Sebab ada persamaan di antara cucu-cucu dia dengan anak saya, kami ni, rakyat Malaysia memang tak suka jadi they are subjected to segala jenis komen kan cucu Dato' Syed Anwar apa macam itu
 
-[31:59] Anak saya pun macam ni kan. Jadi, setiap kali kami bawa cerita pasal buli di sekolah ni, di kabinet, saya ingatlah, memang Datuk Zainal akan sokong. Cuma, saya jarang berpuas hati dengan jawapan menteri lah. Sebab seolah-olah menteri itu tidak...
 
-[32:17] Paham
+[38:23] Rafizi Ramli: Outfit that is for military band.
 
-[32:19] Perkara ini sangat rumit. Tapi apakah kita tengok masalah bully ni memang daripada dulu, bukan ada kan? Sebenarnya sebab kau tak masuk, saya tak masuk boarding school pun sebab saya...
 
-[32:33] I'm afraid of being bullied, even though I want to be a police officer. I'm more comfortable. But coincidentally, my teacher, I saw that he was quick, if he got anything, he was quick. But the issue that is more fundamental, I think, the issue of bullying has been around for a long time. And as a member of the select committee in the parliament, regarding the issue of bullying, we see
 
-[32:55] Rupanya, pengajaran tentang subjek kepada penyelidikan
+[38:26] Victor Tan: Military band, ya betul.
 
-[33:00] Guru tentang memahami tentang bully, character dan sebagainya ni Tidak diberikan dengan baik Dan sebenarnya kanak-kanak dia ada hak dia Kita tengok dalam convention mana-mana pun We have children's rights yang perlu ditangani Di sudut aspek keselamatan dan sebagainya Tetapi guru tak belajar benda ni Cikgu tidak diajar tapi diajar psikologi Tetapi memahami
 
-[33:32] The character of the boy, what is his right, for example, like the son of Rafizi, an introvert. My grandson, I have never been hit, my son has never been hit because I am a kind of person who if there is a problem, I will go. My grandson, this is another bully. He came back, for example, he came back, his mother always said,
 
-[33:55] lapar sangat tak makan. Walau duit bagi. Rupanya bully dia lain. Bully dia you anak wakil rakyat banyak duit jadi duit you bagi kat kami. Itu itu. Ha itu lain pula kan. Itu agak biasa je. Ha. Macam-macam anak saya pun. Yang saya ingat yang masa awal-awal lah masa dia dah jahat satu, jahat dua. Kami mula perasan tu sebab barang dia selalu hilang. Ha itu. Jadi dia pressure because you know dia dia mungkin tak boleh nak dia bising pun you nak wakil rakyat kan jadi bila dia balik tu dia nak dia nak beritahu yang barang dia hilang tu dan dia selalu berlaku sama juga macam duit dia selalu sebab tu saya kata dia sangat
+[38:28] Rafizi Ramli: Dan yep, ni gambar YB Rafizi plus minus maybe I don't know like like I don't know how many kg, or whatever have you right there.
 
-[34:38] tricky because sometimes his peers, his classmates ask for a loan but they don't give it back until when. For a long time, if you always borrow, you always borrow. It means that it's the same as asking for his money and he's not in a position to say no. But one more aspect, Ralph and Victor, these kids, if anything happens, where do they actually want to make that complaint?
 
-[35:07] the part that we need to think about lah kalau kita kata aa
 
-[35:12] He wants to complain to the teacher, to the person who has a string of something that he can share the problem so that the thing is handled quickly. One complaint, the way we tackle the issue quickly or slowly is another one. Those things that we have to look at. That's why I think, I'm sorry to say, because I think teachers too, have to be more sensitive.
+[38:39] Rafizi Ramli: Masa tu saya you know I was very thin dulu. Saya ingat dalam 40 kg.
 
-[35:40] And if we have studied psychology with our children, we can see the changes that exist. And we can see the character of this child, whether he is a dominant or not. I think we can look for other approaches. But the question is, what are all the teachers who can play this role? Wabi, can I...
 
-[36:03] Menjelaskan Sebab Saya terperasan Sesuatu yang Agak Disturbing Sebab
 
-[36:10] Naratif yang kita selalu dapat daripada internet itu adalah bahawa naratif Zara Khairina itu adalah sesuatu yang mustahil akan dikeluarkan kalau orang ramai tak buat apa pun.
+[38:44] Rodziah Ismail: Tingkatan?
 
-[36:28] Seolah-olah, bagaimanapun,
 
-[36:32] Zara tidak akan mempunyai
 
-[36:35] the news known about her and she would have essentially just been continually tortured.
+[38:45] Rafizi Ramli: Tingkatan lima.
 
-[36:43] things could have gone bad in another situation whereby
 
-[36:49] like 10,000 other kids maybe like she would have just faded off into the distance but
 
-[36:55] What I heard from the discussion of YBYB earlier is that even though you can be considered as a VVIP child, so for example, YB Refugee, we could say, YB Roji, we could also say that
+[38:48] Victor Tan: Masa YB Rafizi dianugerahkan dengan Anugerah Carey-Bockiah kerana beliau telah menjadi pelajar yang paling baik dalam seluruh MCKK. Dan ya, like again, ini adalah Datuk Seri Anwar Ibrahim right there. So pernah bincang tak gambar ni dengan Datuk Seri Anwar?
 
-[37:17] your kids, your grandchildren,
 
-[37:20] are not VIP. So it seems like almost this bullying thing is something that affects us all.
 
-[37:27] Baik.
+[39:12] Rafizi Ramli: Tak pernah.
 
-[37:28] Nampak sangat aneh bagi saya untuk memikirkan itu.
 
-[37:33] And actually right, YBRVZ, I do want to ask you a little bit right, and for this I'm going to show you yet another picture.
 
-[37:45] Saya mempunyai banyak gambar. Mungkin anda ingat ini. Yang itu saya ingat. Jadi, mungkin anda ingat Bung Wak Bung Wet Wet. Fiat Sapientia Virtus. Dan sebagainya. Dan kepada para penonton, ini adalah sebuah gambar Wabi Rafizi yang sedang pada masa ini. Saya telah cuba untuk kembali ke kapal itu sejak itu. terus kan ke sekolah boarding school tak cukup makan jadi terus ya ni outfit done kan
+[39:13] Victor Tan: Tak pernah? You've never actually talked to him about this picture? It's on your website. It's like the number one picture like rafiziramli.com/about/. Go look for it.
 
-[38:22] Outfit itu untuk band militer. Band militer, betul. Dan ini gambar YB Rafizi.
 
-[38:33] tambah atau kurang, mungkin, saya tidak tahu, seperti
 
-[38:36] I don't know how many kg or what I don't have you right there. I was very thin dulu, saya ingat. Saya dalam 40 kg. What, tekan tan? Tekan tan 5. 5? I was very thin. Masa YB Rafizi dianugerahkan dengan anugerah Carrie Bokiah. Kerana beliau telah menjadi pelajar yang paling baik dalam seluruh
+[39:23] Rafizi Ramli: Tak. Saya ingat Kak Ogy pun fahamlah kan dan tahu. Hubungan saya dengan Datuk Seri Anwar ni is strictly professional. Maksudnya kami tak pernah bincang pasal apa nama ni keluarga kami ataupun benda-benda yang dulu kan. I mean I and sebagai karakter pulaklah, saya bukan jenis orang yang orang kata romanticize. Saya memang orang kata emotionally dead kan. Jadi sepanjang saya yalah kenal Datuk Seri Anwar, itu ialah hari kali pertama saya kenal Datuk Seri Anwar dengan kawanlah. Latar belakang dia, Speech Day MCKK ni setiap tahun rotation dia ialah dengan Sultan-sultan. Jadi Datuk Seri Anwar jadi Timbalan Perdana Menteri tahun 1993. Jadi masa 93-94 tu, I think Board of Governors lah yang menentukan ini dia sebagai satu penghormatan kepada Datuk Seri Anwar. Jadi I think for the first time sebenarnya bukan Sultan yang datanglah. Jadi tapi saya tak pernah bercakap, kita pun tak pernah nak refer ke apa. Jadi it remains a picture, yeah. We've never spoken of it ever since.
 
-[38:59] MCKK Err Dania Like Again This is Datuk Sri Anwar Ibrahim right there So erm Have you ever discussed this picture with Datuk Sri Anwar? Never Never? You've never actually talked to him about this picture?
 
-[39:16] It's on your website. It's like the number one picture. Like rafiziramli.com slash about slash. Go, look for it.
 
-[39:23] Tak, saya ingat Kauji pun faham kan, tahu hubungan saya dengan Dato' Sri Anwar ni
+[40:45] Victor Tan: Never spoken of it. Like but you were widely viewed, right, as like one of the pemacu reformasi yang utama. I mean like was there not a point when like, you know, you had a friendship, you know, like you have conversations about casual things, you know, like, "Oh, Datuk Seri, like how are you today?" Or like for example, maybe you go up to him and say, "Anwar, dah makan belum?" Or something like that. Like was there never a point when that actually happened?
 
-[39:32] It's strictly professional. Maksudnya, kami tak pernah bincang pasal...
 
-[39:39] apa nama ni keluarga kami ataupun benda-benda yang dulu kan I mean I and sebagai karakter pula lah saya bukan jenis orang yang orang kata romanticize. Saya memang orang kata emotionally dead kan. Jadi sepanjang saya ialah kenal Dato' Sri Anwar. Itu ialah hari kali pertama saya kenal Dato' Sri Anwar dengan kawan lah. Lata belakang dia rotation dia ialah dengan Sultan-Sultan. Jadi, Dato' Sri Anwar jadi
 
-[40:16] Timbalan Perdana Menteri tahun 1993 Jadi masa 1994 tu I think Board of Governance lah yang menentukan ini Dia sebagai satu penghormatan kepada Dato' Sri Anwar Jadi I think for the first time Sebenarnya bukan Sultan yang datang lah Jadi
+[41:10] Rafizi Ramli: Tak ada.
 
-[40:35] But I've never spoken, we've never referred, so it remains a feature. We've never spoken of it ever since. Never spoken of it, but you were widely viewed as like,
 
-[40:50] One of the permaju reformasi yang utama, I mean like, was there not a point when like, you know, you had a friendship, you know, like you have conversations about casual things, you know, like, Oh, Dato' Sri, like how are you today? Or like, for example, maybe you go up to him and say, Anuwa, dah makan belum? Or something like that. Like, was there never a point when that actually happened?
 
-[41:10] No, I don't think so. I think, no, I don't think so. I think, I think, I and Raffi Zee ourselves, we are the people who are behind the scenes doing our work, but we seldom talk, right? We are not talking about everything because we are just doing our work. I think so too, because
+[41:11] Rodziah Ismail: Tak ada. Saya rasa tak tak ada. Even Victor, saya ingat saya dengan Rafizi sendiri pun kita dalam kita orang yang di belakang buat kerja, tetapi kita seldom bercakap kan? Tak ada. We are not sembang semua sebab kita buat kerja aje rasanya kan.
 
-[41:31] Kita tak pernah ada masa untuk simpan. Tak pernah, betul. Actually that's sebenarnya the fault line dalam PKR. Haa. Dia ada dua kumpulan.
 
-[41:40] Satu kumpulan ni macam kami ni yang orang kata, so yang orang kata bukan team player lah, ini tak pandai jaga orang. Because we really focus on work. Jadi kalau mesyuarat parti ke apa, bila kita jumpa, memang pasal kerja tu je kita tak pernah cakap pasal diri kita tau. But of course, normally ada jugalah satu kumpulan lagi yang pasal personal relationship. Dia ada masa turun, jumpa, sembang, makan, you know. the move dan dengan Datuk Seri Anwar, sebarang interaction tu memang dalam kerangka kerja lah. It's within our work framework. Jadi usually is about what is happening that ni ni ni ni. Jadi kami kami tak pernah. Oh I see. Interesting.
 
-[42:28] I actually wonder right, like, um, cause I remember reading an article like a while ago about how you basically quit WhatsApp. Cause like it was better for your mental health. Yeah. So I'm like wondering right, like,
+[41:29] Rafizi Ramli: Dia sebahagiannya juga saya ingat Kak Ogy, sebab kita tak pernah ada masa untuk sembang. Actually that's sebenarnya the fault line dalam PKR. Dia ada dua kumpulan. Satu kumpulan macam kami ni yang orang kata, so yang orang kata bukan team player lah, ini tak pandai jaga orang because we really focus on work. Jadi kalau mesyuarat parti ke apa semua bila kita jumpa, memang pasal kerja tu aje. Kita tak pernah cakap pasal diri kita tau. But of course normally ada jugalah satu kumpulan lagi yang pasal personal relationship, dia ada masa turun jumpa sembang, makan, you know. Jadi we have always been in the move. Dan dengan Datuk Seri Anwar, sebarang interaction tu memang dalam kerangka kerjalah. It's within our work framework. Jadi usually it's about what is happening that ni ni ni. Jadi kami kami tak pernah.
 
-[42:40] if somehow like you know you all have like a secret like
 
-[42:45] WhatsApp group or something And then like Ahli Parlimen Pergi main Pickleball Then Sight Study Then like Ajak Marathon Like that sort of thing Like I don't know Like if that were Something that Actually like existed Like you know In Malaysia Memang adalah WhatsApp group Ahli Parlimen Semua ada Tapi saya memang Tak ada dalam mana-mana WhatsApp group Dan orang semua
 
-[43:06] Yang kawan-kawan saya semua ni, my colleagues semua dah tahu I'm an acquired taste. Haa, maksudnya memang you know, dia kena cara lain lah. So kalau macam kita orang, kita orang SMS lah ataupun just pick up the call lah. Tapi memang ada tau. So I don't impose it, they don't impose it on me. Memang kalau macam Wong Chen ni, dia kira convenient untuk segala jenis benda. Kejap ajak orang main apa nama, basketball lah, kejap badminton, kejap pickleball lah. So, saya memang, eh memang betul saya quit dulu tu because
+[42:27] Victor Tan: I see. Interesting. I actually wonder, right, like cause I remember reading an article a while ago about how you basically quit WhatsApp. Cause like it was better for your mental health. So I'm like wondering, right, like if somehow like, you know, y'all have like a secret like WhatsApp group or something, and then like ahli parlimen pergi main pickleball, then Syed Saddiq and like ajak marathon, like that sort of thing. Like I don't know like if that were something that actually like existed like, you know, in Malaysia.
 
-[43:42] For me, it's too toxic. Because I never changed my number since 2003. So, my number is all over the world. Yes, that's right. And a lot of people will just add it to the group. So, in the group, every day, they fight about politics. Then, they text and ask you to respond.
 
-[44:09] We only have 24 hours a day. If I respond to one, I have to respond to hundreds of times. But if you're in that group, there are people who are annoying. And when WhatsApp, the call is free. Actually, my phone never stops ringing with calls. All the people I don't know. How can I do my job? So finally I made the decision, you know, it's better.
 
-[44:35] So long as you are accessible, then there is another way to access you, email or all this, what is it called, SMS or, so it's better if I don't have WhatsApp. So I'm really happy, I've quit WhatsApp since 2021, I think, or 2020, I think. So it's weird, Vita?
+[42:59] Rafizi Ramli: Memang adalah WhatsApp group ahli parlimen semua ada. Tapi saya memang tak ada dalam mana-mana WhatsApp group lah. Dan orang semua yang kawan-kawan saya semua ni, my colleagues semua dah tahu I'm an acquired taste. Maksudnya memang you know dia kena cara lainlah. So kalau macam kita orang, kita orang SMS lah ataupun just pick up the call lah. Tapi memang ada tau. So I don't impose it, they don't impose it on me. Memang kalau macam Wong Chen ni, dia kira convener untuk segala jenis benda. Kejap ajak orang main main apa nama basketball lah, kejap badminton, kejap pickleball lah kan. So saya memang and and memang betul saya quit dulu tu because dia dah bagi saya dah terlalu jadi toksik sangat. Sebab my number tu saya tak pernah tukar daripada tahun 2003. Jadi nombor saya tu satu dunia ada. Dan banyak orang akan just add dalam group semua. Jadi dalam group tu tiap-tiap hari kerja dia bergaduh pasal politik, lepas tu dia tag suruh you respons semua. We only have 24 hours a day. Kalau saya respons satu, beratus lagi nak kena respons kan. Tapi kalau you ada dalam group tu, ada aje orang mengacau semua kan. And bila WhatsApp tu call dia percuma kan, actually my phone never stops ringing dengan call. Semua orang yang saya tak kenal. Habis macam mana you nak buat kerja? Jadi finally I made the decision you know, lebih baik so long as you are accessible dan ada cara lain untuk access you, email ke semua ni, apa nama ni SMS ke, jadi lebih baik saya tak ada WhatsApp terus. Jadi saya memang bahagia, saya dah quit WhatsApp daripada tahun 2021 I think, or 2020 I think.
 
-[44:57] Like, sekarang, lepas saya dengar penjelasan tu, saya rasa macam make sense sikit. Tapi, I guess, I ask the question because like, it's out of concern for you, YB. Because like, I guess the normal thing that like, you would expect right, is that like, you have a support system, especially in a...
 
-[45:14] a difficult time and I hope also by the way that your son is in good hands as well and has a good support system so and also right I want to say at the moment so again YB Roji like when you saw that post I showed you earlier right does it seem like something that a 12 year old would write
 
-[45:33] Yang tadi right, the post I showed you Like, did it seem like something that a 12 year old would write?
+[44:54] Rodziah Ismail: So pelik eh, Victor?
 
-[45:41] No. It doesn't seem like something that's not your own, right? Like, your son, YB, has a very strong presence of mind. And I think that you should rightly be proud. But since we're... I know that right now you're... Yes, I did. Yeah. I'm very... Yeah. I'm on his hood. Yeah. And so he...
 
-[45:57] I suppose dia lah what is in his head Apa yang dia tulis tu I mean different people have different way to manage lah Jadi sebab itu macam sekarang ni
 
-[46:08] He looks okay, but we don't know what's inside him. So, all these things, he's very sensitive. I noticed that he... Because I didn't follow him that much. But I remember that posting when Zulfarhan was there. It's something that's very emotional to him. And he expressed it like that because he's a very introvert person.
+[44:56] Victor Tan: Sekarang lepas saya dengar penjelasan tu, saya rasa macam make sense aje. Tapi I guess I ask the question because like it's out of concern for you, YB. Because like I guess the normal thing that like you would expect, right, is that like you have a support system, especially in a difficult time. And I hope also by the way that your son is in good hands as well and has a good support system. So, and and also, right, I want to say at the moment, so again, YB Rodziah, like when you saw that post I showed you earlier, right, does it seem like something that a 12-year-old would write?
 
-[46:30] Jadi I can understand What you say Bila tengok semua tu There are certain Things yang Memang Personal to him Then he express it
 
-[46:42] I think this is good something and at least lah, Ben ada cara untuk share the feelings dengan cara dia buat macam ni kan. Although by now, my wife and I, kita orang dah ada into mind sebab dia punya Instagram lah, most probably kena private kan. Oh, okay. Sebab we also went through that stage yang masa dia kecil, umur 3-4 tahun, dia ikut kami campaign seluruh negara kan.
 
-[47:11] masa tu dia tak faham apa jadi memang dia happy lah orang tu dukung semua lompat saya berceramah dia naik semua kan tapi by the time dia umur 6-7 tahun dia dah faham
+[45:34] Rodziah Ismail: 12 ya?
 
-[47:25] the campaign and so on, he totally 180 degrees. He really didn't want to go, he didn't want to, so he withdraw more when he knew. And I think as he went through, wherever people want to go, people took pictures of me with him, all that. After a while, I think he, maybe he doesn't want that. So I think in the early days, we started
 
-[47:52] My wife buka dia account for him Jadi awal-awal tu
 
-[47:57] We were naive to think that it's just a record untuk mak, ayah dengan anak gambar bersama kan. Jadi eventually, I think someone in our position...
+[45:35] Victor Tan: Yang tadi right, the post I showed you. Like did it seem like something that a 12-year-old would write?
 
-[48:09] as best as possible we want to maintain our privacy but I'm also realistic it's not easy to be private so I don't know that that is the discussion that eventually I think we have to have in a family dinner
 
-[48:25] But still, Ben, I hope that you get well soon. And I know that while the attackers, they tried to do a psychological tactic, I know that that's going to be the six months or so that you're going to be monitored. And yeah, I hope that you...
 
-[48:39] grow stronger as a result of all this and you will overcome and you will do much better. You know YB, I'm not sure if you read comments at all, but somebody was saying that you should give Ben an adik so that you can have more smart people in the world. We did try, we did try actually to be fair kan. And then actually there was a stage yang Ben tanya apa nama ni, kenapa dia tak ada adik kan. Tapi I think rezeki kami hanya seorang. Kerana saya rasa kedua-dua isteri saya dan saya berkahwin lewat.
+[45:41] Rodziah Ismail: No.
 
-[49:14] By the time Ben was conceived Semua tu pun My wife pun dah Late 30 So Jadi For the second tu Actually dia dah Not easy to conceive Untuk
 
-[49:25] You know, female, ladies have biological clock, myself, but more for ladies lah. I think it's not advisable anymore. But I think they've passed that stage. The stage where, kenapa tak dapat adik semua kan. So, I think, sebab itu, I think eventually, dia dapat 20 orang adik, kucing-kucing lah. Kucing lah. Okay, understand.
 
-[49:53] Now I want to move the focus back to the idea of bullying, right? And also in more colonial-like institutions. So in Malaysia, it doesn't get much more kayangan than MCKK, you know, for those of you who don't know. So there was a school that the colonial elite created at the time to train essentially the civil servants. And you have a whole range of different people who were a part of that. So of course, you have
+[45:42] Victor Tan: It doesn't seem like something that a 12-year-old would write, right? Like your son, YB, has a very strong presence of mind and I think that you should rightly be proud. And I know that by now your...
 
-[50:21] well yourself YB Raft I wasn't elitist I was like can't put my skin but still I mean like it's true but
 
-[50:31] It doesn't matter where you start, what matters is what you do with the gift of life. You too, for those of you who like Pokemon. Anyway, but also then you have Dato' Sri Anwar and you have also Nick Nazmi, whom I interviewed a couple of weeks ago. So now going back to the bullying thing, why be rough?
 
-[50:53] You were talking earlier about how, like, maybe there's a culture, you know, that, like, stops people from, like, uh, recognizing maybe, like, uh, oh, bullying is something that they are conscious of. You say also that maybe, like, kids, they can be very...
+[45:52] Rafizi Ramli: No, dia very he's on his own world. So he he I suppose ialah what is in his head, apa yang dia tulis tu, I mean different people have different way to manage lah. Jadi sebab itu macam sekarang ni, dia nampak okey, tapi kita tak tahu what's inside him lah. Jadi macam all these things, dia memang very sensitive. I notice lah dia Sebab I tak follow sangat dia tau, but I remember that posting lah masa Zulfarhan tu kan. It's something yang you know very emotional to him, and he expressed it like that because he's a very introvert kan. Jadi I can understand what you say and bila tengok semua tu, there are certain things yang memang personal to him and he expressed it.
 
-[51:12] berhati-hati dengan orang yang
 
-[51:15] Bukan team player So
 
-[51:20] I know of course that like, you know, in 2023 right, for example, like there was a bullying case at MCKK. And at that time, the PTA said to a parent who was viral about the case of bullying at MCKK, and said, oh you are selfish, or you shouldn't have done that, or you destroyed the reputation of the school. So I'm interested to know why B.
+[46:43] Rodziah Ismail: I think this is good, something yang at least lah Ben ada cara untuk share share the feelings dengan cara dia buat macam ni kan.
 
-[51:44] When you were at MCKK, even back then, was bullying a real thing? Something that you really experienced? Yes, all kinds of physical touch. I think I was hit by a stick or a stick. I think I've been through it at MCKK.
 
-[52:04] Cuma sebenarnya dia, okay this is where over the years kan saya rasa sebab tu saya, I don't pretend that I have an answer to all this cerita bully.
 
-[52:15] For someone yang dah go through boarding school And dah go through dan pernah merasa semua Kemudian sebagai ayah yang pernah juga melalui ini Kemudian my sister is a teacher So we always discuss what happened at school semua kan Dia sebenarnya adalah satu perkara yang lebih rumit Daripada menguruskan ekonomi negara That's my view And saya memang I don't have an answer Sebab dia perspektif dan juga situasi yang berbeza-beza yang, contohnya,
+[46:52] Rafizi Ramli: Walaupun by now I we all my wife and I kita orang dah ada in two minds sebab dia punya Instagram lah. Most probably kena private-kan or delete soon because kan. Sebab we also went through that stage yang masa dia kecil umur 3-4 tahun, dia ikut kami kempen seluruh negara kan. Masa tu dia tak faham apa. Jadi memang dia happylah. Orang tu dukung semua, lompat, saya berceramah dia naik semua kan. Tapi by the time dia umur 6-7 tahun, dia dah faham kempen tu apa dan sebagainya, dia totally 180 degrees tau. Dia memang tak nak pergi, tak nak tu. Jadi dia he withdrew more lah bila dia tahu. Sebab and I think as he went through, pergi mana-mana, orang nak yalah orang ambil gambar dengan saya, dengan dia semua tu, after a while I think dia dia maybe he he doesn't want that. Jadi saya ingat masa awal-awal ni kita orang mula my my wife buka the account for him. Jadi awal-awal tu we were naive to think that it's just a rekod untuk mak, ayah dengan anak gambar bersama kan. Jadi event I think someone in our position as best as possible we want to maintain our privacy, tapi I'm also realistic lah. Dia tak mudah untuk private kan. So I don't know, that that is the discussion that eventually I think we have to to have in a family dinner lah kan.
 
-[52:47] Yalah budayanya tu diwarisi daripada zaman British Dan zaman British Guru-guru sebenarnya tidak menguruskan sekolah
 
-[53:01] Sekolah diuruskan oleh murid-murid sendiri oleh pelajar terutamanya senior.
 
-[53:06] So, all of them. Even choosing, in my time, choosing what is it called, the menu, discussing with the steward who takes care of the dining hall. The menu, as the Union President, he discussed with us, not with the teacher. Everything we run, all the facilities we run, we have student newspaper. It was my time back then, right? So, it's actually inherited from the system.
+[48:26] Victor Tan: But still, then I hope that you get well soon. And like I know that, well, the attackers they tried to do a psychological tactic. I know that like that's going to be like the 6 months also that you're going to be monitored. And yeah, I hope that you grow stronger as a result of all this, and you will overcome and you will do much better. You know, YB, I'm not sure if you read comments at all, but somebody was saying that, you know, you should give Ben an adik so that you can have more smart people in the country.
 
-[53:32] public school daripada UK yang mana guru-guru tak campur tangan tau sekolah diuruskan oleh
 
-[53:41] Students. That's why we have a supervisory board, a prefactorial board, and we also have a student union. So the school management is managed by the union. Because of that, for example, at the level of one, 100 people, they sit in one ashram, 5 people are supervisors. Usually 2 at level 4, 3 at level 5.
 
-[54:05] kemudian main tekatan 2 satu lagi asrama juga 5 orang prefact bila masuk tekatan 3, 4, 5 baru duduk dengan senior kan jadi tahun pertama tu
+[48:53] Rafizi Ramli: We did try. We did try, you know, to be frank kan. And then actually there was a stage yang Ben tanya apa nama ni kenapa dia tak ada adik kan? Tapi I think rezeki kami hanya seorang. Part of it is because I think both my wife and I got married late. Jadi by the time Ben was conceived semua tu pun my wife pun dah late 30s. Jadi for the second tu, actually dia dah not easy to conceive untuk you know female. Ladies have biological clock, myself semua kan. Jadi but more for ladies lah. I think it's not advisable anymore sebenarnya. But I think dia dah pass that stage. The stage where kenapa tak dapat adik semua kan. So I think kan, jadi sebab itu I think eventually dia dapat 20 orang adik, kucing-kucinglah.
 
-[54:18] Itu dikira sebagai tahun untuk melatih dan membentuk pelajar. So, discipline is very hard. Contohnya, saya bagi contoh. Kalau zaman sekarang ni, memang pecah dunia lah contohnya kan.
 
-[54:35] So awal-awal, we were trained untuk makan dengan fork and spoon. Not fork lah. Fork and spoon. Betul. Fork and spoon kan. Fork and spoon tu dia makan atas tray besi kan.
 
-[54:49] So You makan Kalau ada seorang bunyi Ting
+[49:52] Victor Tan: Okay. Understand. Now, I want to move the focus back to like the idea of like bullying, right, and also in like more kononnyalah institusi kayangan. So like in Malaysia, it doesn't get much more kayangan than MCKK. You know, like for those of you who tak tahu, so like that was a school that the colonial elite, right, created at the time to train essentially the civil servants, and you have a whole range of different people who were a part of that. So of course, you have, well, yourself, YB Raf, that you were...
 
-[54:53] One hall has to be built and the fine is the same as you walking around the dark walk for half an hour or you can't eat at all. Oh. For example, right? That's to train you so that after a while, everyone is careful, it doesn't make any sound. Very, it's the same as an inspection or something, right?
 
-[55:16] That, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that, that,
 
-[55:40] Sebelum lights off. Lights off, saya ingat masa itu 11.30 kan. Prefax akan check semua bawah katil semua ni kan. Kalau ada satu sampah sahaja, you kena apa nama ni, buat push up semua ni kan. Selagi tak ada orang mengaku,
+[50:24] Rafizi Ramli: I wasn't the elite though. Saya budak kampung miskin.
 
-[55:58] 2 pagi tak boleh tidur lagi esok nak pergi kelas ni pukul 5 pagi dah kena bangun kan jadi after a while I realize tak apalah akulah yang kena mengaku
 
-[56:10] So I was strange contohnya daripada awal tak apalah your friend semua your peers tahu it wasn't you but it's your job.
 
-[56:20] to basically take the fall jadi taking the fall tu is part and parcel of the training kan jadi if you ask me kan
+[50:28] Victor Tan: But still, I mean like it's true. But it doesn't matter where you start. What matters is what you do with the gift of life. Mewtwo, for those of you who like Pokemon. Anyway, but also then you have Datuk Seri Anwar and you have also Nik Nazmi whom I interviewed like a couple of weeks ago. So now, going back to the bullying thing, YB Raf, so you were talking earlier about how like maybe there's a culture, you know, that like stops people from like recognizing maybe like, "Oh, bullying is something that they are conscious of." You say also that maybe like kids, they can be very wary, right, of like people who adalah bukan team player lah. So I know of course that like, you know, in 2023, right, for example, like there was a bullying case at MCKK. Dan masa tu, PTA duk kata kepada seorang ibu bapa yang duk viralkan isu kes buli dekat MCKK tu, dan cakap, "Oh, you are selfish. Oh, you shouldn't have done that. Oh, you destroy the reputation of the school." So I'm interested to know, YB, when you were at MCKK, right, like even back then, isu buli tu, was it a real thing, something that you really experienced?
 
-[56:30] On the one hand kan memang siksa lah. There were many times yang saya rasa aku tak naklah duduk sekolah ni kan. Tapi...
 
-[56:39] I cannot deny sebenarnya that it really mold my character. Kan? Jadi, sebab itu saya kata complicated. Back then, zaman itu, pada masa yang sama, contohnya kan, kita budak-budak 13 year old kan, very regimented, you kena hafal wirid apa, you kena ni, semua, you kena boleh lead untuk sembayang semua tu kan. Dan tiap-tiap malam, you kena go through dengan prefect, dia akan check you dah hafal semua ke tidak. Saya tidak faham apa yang awak cakap.
 
-[57:10] So, on the one hand, I think if you tanyalah semua budak MCKK zaman kami and earlier, we would say that it really contributed to our character building. Tetapi, there were unwritten rules that certain lines you cannot cross.
+[51:53] Rafizi Ramli: Yalah, semua jenis physical touch ni saya ingat kena lempang ke, kena terajang ke, saya ingat saya dah pernah lalui di MCKK lah. Cuma sebenarnya dia okey, this is where over the years kan saya rasa, sebab tu saya I don't pretend that I have an answer to all this cerita buli. For someone yang dah go through boarding school and dah go through dan pernah merasa semua, kemudian sebagai ayah yang yang pernah juga melalui ini, kemudian my sister is a teacher, so we always discuss what happened in school semua kan. Dia sebenarnya adalah satu perkara yang lebih rumit daripada menguruskan ekonomi negara. That's my view. And saya memang I don't I don't have an answer sebab dia dia perspektif dan juga situasi yang berbeza-beza. Take MCKK for example kan. Yalah, budayanya tu diwarisi daripada zaman British dulu kan. Dan zaman British, guru-guru sebenarnya tidak menguruskan sekolah. Sekolah diuruskan oleh murid-murid sendiri, oleh pelajar, terutamanya senior. So semua. Even choosing, zaman saya dulu, choosing apa nama ni menu, bincang dengan steward yang jaga dining hall tu, menu tu pun saya sebagai Union President, dia bincang dengan kami tau, bukan cikgu tau. Everything we run. Facility semua we run. We have student newspaper. Dululah, masa saya dululah kan. Jadi it's sebenarnya dia warisan daripada sistem public school daripada UK yang mana guru-guru tak campur tangan tau. Sekolah diuruskan oleh pelajar-pelajar. Sebab tu kita ada Lembaga Pengawas, Prefectorial Board, dan juga kita ada Student Union. Jadi urusan sekolah tu diuruskan oleh union kan. Now okey, oleh sebab itu, maka contohnya tingkatan satu, 100 orang, dia duduk satu asrama, lima orang pengawas. Dua selalunya dua tingkatan empat, tiga tingkatan lima. Kemudian naik tingkatan dua, satu lagi asrama, juga lima orang prefek. Bila masuk tingkatan tiga, empat, lima, baru duduk dengan senior kan. Jadi tahun pertama tu, di itu dikira sebagai tahun untuk melatih dan membentuk pelajar. So, discipline is very hard. Contohnya eh, saya bagi contohlah, ini ini Kalau zaman sekarang ni, memang pecah dunialah contohnya kan. So awal-awal, we were trained untuk makan dengan fork and spoon. Not fork lah, fork and spoon, betul tak? Fork and spoon kan. Fork and spoon tu dia makan atas tray besi kan. So you makan kalau ada seorang bunyi ting, satu hall kena bangun and denda dia sama ada you keliling Dewan Selera sampai setengah jam or you tak boleh makan langsung. Ha contohnya kan. That's to train you so that after a while, memang semua orang berhati-hati. Memang tak bunyi apalah, very Sama juga contohnya inspection ke apa kan. Jadi that yang itu memang prefek ada kuasa yang besar dengan segala jenis Jadi contohnya kan, what I learned about leadership daripada awal kan. Kalau Kak Ogy tanya, kenapa selalunya saya ni tak apalah aku kena pun biarlah aku kena, sebabnya I started pada umur 13. Saya sebagai class monitor ataupun dorm monitor kan. Sebelum lights off, lights off saya ingat masa tu 11:30 kan, prefek akan check semua bawah katil semua ni kan. Kalau ada satu sampah saja, you kena apa nama ni buat push up semua ni kan. Selagi tak ada orang mengaku, 2:00 pagi tak boleh tidur lagi. Esok nak pergi kelas ni, pukul 5:00 pagi dah kena bangun kan. Jadi after a while I realized, tak apalah, akulah yang kena mengaku. So I was trained contohnya daripada awal, tak apalah your friend semua, your peers tahu it wasn't you, but it's your job to basically take the fall kan. Jadi taking the fall tu is part and parcel of the training kan. Jadi if you ask me kan, on the one hand kan memang seksalah. There were many times yang saya rasa aku tak naklah duduk sekolah ni kan. Tapi I cannot deny sebenarnya that it really mould my character. Kan? Jadi sebab itu saya kata complicated. Back then zaman itu, pada masa yang sama contohnya kan, kita budak budak 13-year-old kan. Very regimented, you kena hafal wirid apa, you kena ni semua, you kena boleh lead untuk sembahyang semua tu kan. Dan tiap-tiap malam you kena go through dengan prefek, dia akan check you dah hafal semua ke tidak. Tak hafal kena denda semua orang. Kan? So on the one hand, I think if you tanyalah semua budak MCKK zaman kami and earlier kan, we would say that it really contributed to our character building. Tetapi, there were unwritten rules that certain lines you cannot cross. Contohnya hukuman kan kalau prefek buat kan, it cannot be physical, personal macam tu. It's all about push up, it's all about running semualah. And it's a collective punishment kan. Tapi kalau terajang, pelempang seorang-seorang just out of that, that dekat MCKK, that is considered buli. The other is considered as punishment kan. Cuma the line is blurred. So kalau contohnya you ada prefek umur 16 tahun, sebab tu saya ini ini pesanan sikit, sebab tu saya tak jadi prefek, Kak Ogy. Saya as I went through that kan, you know all these collective punishments, sebab saya memang saya daripada form one lagi sayalah class monitor, sayalah tu kan. So saya selalu jadi mangsalah kan. So by the time saya form three, memang confirmlah saya jadi prefek nak naik form four ni kan, for all my academic, my co-curriculum kan. I didn't want because I felt masa itu pun, sebenarnya saya tak nak jadi macam orang lain yang yang decide punishment untuk orang lain. I don't want to do it because I felt that it's too heavy a responsibility. So kalau budak umur 16-17 kalau mereka dibiarkan dan dia tak ada pengisian nilai yang betul tentang right and wrong, adil ke tidak, memang akan adalah yang abuse. Dan yang ada abuse tu yang berlaku fizikal kan. Tapi yang satu lagi juga pernah berlaku di MCKK dan juga semua sekolah asramalah, ini ialah senior-senior yang geng yang suka pukul orang ni. Malam-malam pukul 2-3 pagi, dia 20 orang kejut seorang, "Aku tak suka engkau sebab kau kurang ajar semua," pukul sampai patah budak tu kan. Yang itu memang tak boleh dan tak boleh dan tak bolehlah.
 
-[57:29] Contohnya Hukuman kan Kalau prefect buat kan It cannot be Physical personal macam tu It's all about push up It's all about running Semualah And it's a collective punishment kan Tapi kalau
 
-[57:41] terajang, pelempang, sorang-sorang just out of that, that dekat MCKK, that is considered bully. The other is considered as punishment kan. Cuma, the line is blurred.
 
-[57:53] So kalau contohnya You ada prefact Umur 16 tahun Sebab tu saya Ini Ini
+[59:18] Rodziah Ismail: Tapi bila saya dengar tadi tu, Kak Ji dengar tadi tu, Kak Ji rasa macam in one part kita nak disiplinlah. Disiplin, maknanya macam cerita awal tu, it is satu karakter untuk mendisiplin. Sebab tu ada punishment kalau kita tak buat. Tetapi buli ni lain. Dia menggunakan kuasa dia kepada benda yang tidak di dalam struktur yang betul.
 
-[57:59] personal sikit. Sebab tu saya tak jadi prefect kot, Cik. Saya, as I went through that kan, you know, all this collective punishment, sebab saya, memang saya daripada form 1 lagi, saya lah kelas monitor, saya lah tu kan. So, saya selalu jadi mangsa lah kan. So, by the time saya form 3, memang confirm lah saya jadi prefect nak naik form 4 ni kan, for all my academic, my co-curricular kan. I didn't want because I felt masa itu pun sebenarnya saya tak nak jadi macam orang lain yang decide punishment orang lain. I don't want to do it because I felt that it's too heavy a responsibility. Wow. So kalau budak umur enam belas tujuh belas kalau mereka dibiarkan dan dia tak ada pengisian nilai yang betul tentang right and wrong, adil ke tidak, memang akan adalah yang abuse. Dan yang ada abuse tu yang berlaku fizikal. Tapi yang satu lagi
 
-[58:55] It also happened in MCKK and all the ashrams. These are the seniors who like to beat people. At night, at 2-3 in the morning, there were 20 people, one person was shocked, I don't like you because you're not polite, beat until the boy broke. That's really...
 
-[59:15] tak boleh dan tak boleh dan tak boleh lah. Tapi bila saya dengar tadi tu, kau oji dengar tadi tu, kau oji rasa macam in one part kita nak discipline lah. Haa, discipline. Discipline. Maknanya macam cerita awal tu, itu satu karakter untuk mendiscipline. Ya, ya. Sebab tu ada punishment kalau kita tak buat. Tetapi bully ni lain. Dia menggunakan kuasa dia kepada benda yang tidak di dalam structure yang betul. Tapi saya ingat sekarang kat oji kan, pendika boleh. Sebab ada balance tak boleh terima. That's why bila kita bincang benda ni. Sebab saya kata complicated. Betul. Very complicated. Sebab dia sekarang ni tak macam dulu. Dulu kita boleh terima sebab itu kita sebahagian daripada discipline kepada diri kita. Tetapi nowadays if you do that kenalah dengan ni. Saya bagi tutup kan pandangan guru. Cuba cakap dengan guru lah kan.
+[59:42] Rafizi Ramli: Tapi saya ingat sekarang Kak Ogy kan, yang part disiplin tu pun dikira buli. Sebab ada parents tak boleh terima.
 
-[1:00:09] senior teachers, there will be teachers who say, and we at the Ministry of Economy, when we did the 13th Malaysian Plan, we did have a focus group that asked, and I'm good with many more teachers from the past and present, teachers also feel that they are tied.
 
-[1:00:30] Kerana macam mana dia nak mendisiplin kan? Kalau dia ada seorang yang disruptive, yang dikira pelajar ni dah disruptive dalam kelas tu kan? Dia tak boleh rotan, dia tak boleh tu, dia tak boleh ni. Itu yang kadang-kadang,
 
-[1:00:47] Kita selalu fikir pasal semua keadaan yang ideal. Pasal semua budak ni dia semua macam baik semalam. Tapi ada. Bukan salah budak itu ada latar belakang dia. But the fact is budak itu boleh menjadi disruptive kepada sekolah. Contohnya kan saya tak nak bagilah. Ada kes yang macam yang saya tahu yang berakhir dengan pukul memukul ni. Kerana salah yang dipukul itu memang dilihat sebagai disruptif.
+[59:48] Rodziah Ismail: That's why bila kita bincang benda ni sekarang ni, betul, very complicated sebab dia sekarang ni tak macam dulu. Dulu kita boleh terima sebab itu kita kata sebahagian daripada disiplin kepada diri kita. Tetapi nowadays, if you do that, kenalah dengan ni.
 
-[1:01:22] He's in the open class. He's challenging authority. So, right? And that happens. It's reality that teachers have to go through every day. For example, if you're a teacher, what do you want to do? You can't touch him, you know, what do you do? Like that, right? Then, parents obviously, we will still feel, you know, my son is like this, my son is like that, right?
 
-[1:01:50] Sebab tu saya kata keadaan yang rumit, dia sekarang ini, the hypersensitivity kepada soal bully, kalau tidak diletakkan di dalam latihan dan ketersediaan guru yang baik, guru pun jadi super salah. Dia nak tegur pun tak boleh, dia nak disiplin pun tak boleh. Akhirnya dia buat apa tu? Dia biar.
 
-[1:02:12] Let it be, Kak Uji. Finally, if you're not careful, it will be a bully to other kids. True. So, you know, since I cannot do anything, then it's okay, I'll do whatever I want. That's why, Kak Uji, I think we need to have a protocol on how to control things like this. If in our current situation, we...
+[1:00:05] Rafizi Ramli: Saya bagi contoh kan, pandangan guru. Cuba cakap dengan guru-gurulah kan. Guru-guru yang senior kan. Memang akan ada guru yang cakap and kami di Kementerian Ekonomi pun bila kita buat Rancangan Malaysia Ke-13 dulu kan, memang kita ada focus group yang tanya. Dan saya baik dengan banyak lagi guru yang daripada zaman dulu dan yang sekarang ni kan. Guru pun rasa dia terikat. Kerana macam mana dia nak mendisiplinkan? Kalau dia ada seorang yang disrupt- disruptive yang dikira yalah, pelajar ni dah disruptive dalam kelas tu kan. Dia tak boleh rotan, dia tak boleh tu, dia tak boleh ni. Itu yang kadang-kadang kita selalu fikir pasal semua keadaan yang ideal. Pasal semua budak ni dia semua macam baik semualah. Tapi ada, bukan salah budak itu, ada latar belakang dia, but the fact is budak itu boleh menjadi disruptive kepada sekolah. Contohnya kan, saya tak nak bagilah, ada kes yang macam yang saya tahu yang berakhir dengan pukul-memukul ni ialah kerana salah yang yang dipukul itu memang dilihat sebagai disruptive. Dia vape dalam kelas terbuka. He's challenging authority. Jadi kan, jadi dan dan benda itu berlaku tau. It's realiti yang cikgu-cikgu terpaksa lalui setiap hari. Contohnya so kalau you cikgu, you nak buat apa? You tak boleh sentuh dia, you tu, you know what do you do macam tu kan. Then parents obviously kita tak akan tetap rasa you know anak saya macam ni, anak saya macam tu kan. Jadi sebab itu saya kata keadaannya rumit, dia sekarang ini the the hypersensitivity kepada soal buli, kalau tidak diletakkan di dalam latihan dan ketersediaan guru yang baik, guru pun jadi serba salah. Dia nak tegur pun tak boleh, dia nak disiplin pun tak boleh. Akhirnya dia buat apa tahu? Dia biar. Biar itulah Kak Ogy, akhirnya kalau tak berhati-hati, dia jadi buli kepada budak yang lain. Betul. Jadi it's you know since I cannot do anything, then tak apalah ikut sukalah. Kan?
 
-[1:02:33] Nak ambil sebab salah, nak ambil action tak ambil pun salah kan tetapi how to Sebab tu saya bersimpati dengan cikgu-cikgu tau I mean saya pernah jadi cikgu tau Lebih kurang 2 bulan masa cuti summer break Satu sebab internship dekat Kemaman mana ada kan Jadi satu-satunya kerja masa sama jadi cikgu lah kan So tak mudah Sebab itu kalau ada orang begini Kita kena pisahkan di antara frontliners teachers Berdepan dengan semua ni Dengan mereka yang membuat dasar Dan yang Yang apa nama ni Menentukan Polisinya, protokolnya, latihannya Apa nama ni orang kata Early warning signal dia macam mana kan Sebab cikgu Samalah seperti juga Nurse dan doktor They are frontliners yang terpaksa berdepan Dengan benda ni tiap-tiap hari Kalau mereka terus dibebankan Dengan conflicting Ibu bapa Dengan Pandangan ini Guru apa nama ni Guru besar dengan pandangan ini Kementerian dengan pandangan Lama-lama ni Dia buat apa Dan ikut sukalah Aku lah Sebab buat ini pun salah Buat itu pun salah Dan sekarang ni Saya nak cabar awak sikit Sebab memang ada guru Kadang-kadang yang memang Ada problem sikit lah Seperti mana Kita Ingati Ada seorang cikgu Di sebuah SJKC kan So Cikgu bahasa Melayu Tapi dia cakap kepada pelajar-pelajar dia Oh you tak boleh cakap bahasa Melayu Maka you balik lah China So like it's an element of complication after complication And actually YB I'm going to read you a quote right now
 
-[1:04:22] and this is actually related to why I brought out MCKK in the first place, from Kurt Vonnegut Jr., the author,
 
-[1:04:29] True terror is to wake up one morning and discover that your high school class is running the country. Why be? If someone is like,
+[1:02:23] Rodziah Ismail: Sebab tu Kak Ji rasa kita kena ada satu protokol yang bagaimana nak mengawas benda-benda macam ni. Kalau dalam situasi kita sekarang ni kan, kita nak ambil serba salah, nak ambil action tak ambil pun salah kan. Tetapi how to Kita kena buat.
 
-[1:04:40] On average, I'm not going to comment here.
 
-[1:04:43] they went to MCKK and after that, they became graduates. So there's a very high chance that they will end up becoming somebody who ends up leading the society. Or at least, maybe it's a selection effect, I don't know. There's a correlation, maybe that people who are already very successful, they place their kids within that place right there. But when I hear you talk about the system of
 
-[1:05:10] trying to force people to do push-ups, that kind of thing. Oh, you have to take the fall, that kind of thing. I remember the story of Hang Tuah and Hang Jebat. It almost reminds me of how Hang Tuah
+[1:02:41] Rafizi Ramli: Sebab tu saya bersimpati dengan cikgu-cikgu tahu. I mean saya tak saya pernah jadi cikgu tahu. Lebih kurang dua bulan masa cuti summer break. Saya nak satu sebab internship dekat Kemaman mana ada kan. Jadi satu-satunya kerja masa summer, jadi cikgulah kan. So tak mudah. Sebab itu kalau ada orang begini, saya kita kena pisahkan di antara frontliners teachers yang berdepan dengan semua ni, dengan mereka yang membuat dasar dan yang yang yang yang yang apa nama ni menentukan polisinya, protokolnya, latihannya, apa nama ni orang kata early warning signal dia macam mana kan. Sebab cikgu samalah seperti juga nurse dan doktor, they are frontliners yang terpaksa berdepan dengan benda ni tiap-tiap hari. Kalau mereka terus dibebankan dengan conflicting ibu bapa dengan pandangan ini, apa nama ni guru besar dengan pandangan ini, kementerian dengan pandangan, lama-lama dia tahu dia buat apa? "Ikut sukalah." Aku ha kan. "Ikut sukalah." Sebab buat ini pun salah, buat itu pun salah kan?
 
-[1:05:22] basically was wrongfully blamed, so that he was expected to take the fall. Then Hang Jebat, dear dog Mengamuk, then after that, then Hang Tuah was supposed to go out and then like, kill his friend, which he did in like the most epic duel of the entirety of Malay literature. So like, what I'm trying to say here is, like, you know, if we have this sort of system, right, that is kind of like, incentivizing this sort of thing, I don't know, like, is there a need, maybe, to move away from
 
-[1:05:49] the dredges of the past. And like, you know, when we think about like,
 
-[1:05:53] previous cases of like cyberbullying, for example, like with the Isha case, like sometime last year, you know, like there were
+[1:03:49] Victor Tan: Dan sekarang ni saya nak cabar YB sikit sebab memang ada guru kadang-kadang yang memang ada problem sikitlah. Seperti mana kita ingati, ada seorang cikgu di sebuah SJKC kan. So cikgu tu cikgu Bahasa Melayu, tapi dia cakap kepada pelajar-pelajar dia, "Oh, you tak boleh cakap Bahasa Melayu, maka you baliklah China." So so like it's an element of complication after complication. And actually, YB, I'm going to read you a quote right now, and this is actually related to why I brought up MCKK in the first place, from Kurt Vonnegut Jr., the author: "True terror is to wake up one morning and discover that your high school class is running the country." YB, kalau seseorang tu, like just on average lah umpamanya, dia pergi ke MCKK dan lepas tu dia menjadi graduan, so there's a very high chance, right, that they will end up becoming somebody who ends up leading the society. Or at least like, maybe it's a selection effect, I don't know, like there's a correlation maybe that like, you know, people who are already very successful like they place, you know, their kids like within that place right there. But you know, when I hear you talk about like the system of like trying to force people lah to do like push-ups, that kind of thing lah, "Oh, you have to take the fall," that kind of thing, teringat peristiwa Hang Tuah dan Hang Jebat. Like it almost like reminds me of how like, you know, Hang Tuah basically was wrongfully blamed so that he was expected to take the fall. Then Hang Jebat, dia duk mengamuk, then after that then Hang Tuah was supposed to go out and then like kill his friend, which he did in like the most epic duel of the entirety of Malay literature. So like what what I'm trying to say here is like, you know, if we have this sort of system, right, that is kind of like incentivizing this sort of thing, I don't know, like is there a need maybe to move away from the dredges of the past? And like you know, when we think about like previous cases of like cyberbullying, for example, like with the Esha case like sometime last year, you know, like there were these discussions going online and eventually YB Fahmi, our current Minister of Communications, he eventually introduced the Esha clause to basically stop cyberbullying. So now, when you think about the Zara case, and like when you think about also the sort of situation that we are in right now with bullying, right, like happening not just to poor kids, but also to kids of like YBs, like your cucu, or like your anak ke, that sort of thing right there. I mean, where do you feel that like maybe we should start to go from here?
 
-[1:06:00] these discussions going online and eventually YB Fahmy, our current Minister of Communications, he eventually introduced the Isha clause to basically stop cyberbullying. So now, when you think about the Zara case and when you think about also the sort of situation that we are in right now with bullying, happening not just to
 
-[1:06:24] poor kids, but also to kids of like, YBs, like, uh, your choo-choo, or like your anak ke, that sort of thing right there. I mean,
 
-[1:06:33] where do you feel that like maybe we should start to go from here?
+[1:06:40] Rafizi Ramli: Dia dia I think is a you see okey ah. Ini I may sound agak berlainanlah daripada you, Victor. Okey ah. Masa kita muda, you know, I think I I quoted this before: every generation blames the one before. Setiap yang kita dapat itu ada tu bila tak kena, you know kita kata ini tak betul, ini ini ini dan sebagainya. Sebenarnya apa yang kita ada is a product of the needs and requirement of every generation built layer upon layer. Jadi contohnya sistem yang kita ada sekarang kan, kalau kalau pendidikan yang ada asrama penuh, ada MRSM, ada yang merasakan ini semua elit dan sebagainya, ini adalah keperluan zaman dulu. Zaman dulu, kerajaan tidak ada cukup wang untuk sediakan pendidikan yang terbaik kepada semua di semua tempat. Jadi sebab itu caranya it made sense dulu-dulu ialah untuk memastikan terutamanya yang daripada luar bandar, dia dapat mutu pendidikan yang terbaik, maka dibuat sekolah asrama penuh. Over the years, of course lah they have the alumni dan sebagainya, then apa nama ni, dia timbullah pula isu-isu baru kan. Sebenarnya isu dia bukanlah soal yang ini tak betul, yang ini salah. Isu dia ialah dasar dan juga cara kita menguruskan contohnya pendidikan, dia mesti betul-betul responsive and forward-looking. Kerana apa yang betul 10 tahun lepas, 20 tahun yang lepas, mungkin tidak lagi sesuai sekarang. Contohnya kalau tanya saya kan, kalau adalah mungkin di di peringkat umur kita Kak Ogy benda ni bukan isulah, tapi mungkin yang muda-mudalah, dia akan ada perasaan anti-elitism. "Oh ini elit, ini semua kan." Tapi kalau tanya saya, sebab tu saya tak hantar pun anak saya ke MCKK contohnya kan. Because satu, saya rasa dia akan mengambil tempat yang yang daripada orang lain yang orang lain mungkin lebih memerlukan. Yang keduanya bagi saya, kita di zaman yang mana pelajar-pelajar tidak perlu pergi ke sekolah tertentu untuk dapatkan pendidikan yang berkualiti. Actually, we should have the means now and kita kena fokus supaya pergilah sekolah mana-mana pun, kualiti dia sama saja dengan MCKK. Kan? Ha. So so so that's the way Itu keperluan sekarang, berbanding dengan keperluan tahun 60-an, 70-an, perlukan MRSM ini kan, perlukan sekolah asrama penuh kan. Jadi if anything, itu yang sepatutnya kita perbetulkan, bagaimana nak meletakkan kalau pendidikan is at the center of nation building dan dia mesti forward-looking yang responsif kepada Kalau dulu ibu bapa zaman dulu contohnya saya tingkatan satu tahun 1990, kalau saya balik beritahu kat mak ayah saya saya kena lempang ataupun saya, "Penatlah malam-malam tak boleh tidur, selalu ni kan," you know what I I never told them. Ini mungkin dia tahu sekarang for the first time. You know why? Sebab kami datang daripada kampung, susah, mak ayah saya nak hantar susah payah ni, kenapalah nak susah payahkan mak ayah saya. Then kalau beritahu kat mak ayah saya pun, mak ayah saya akan kata, "Tak apalah, mungkin sebab kau buat salah kut." Sebab dia lebih percaya kepada guru, sekolah yang ada itulah harapan dia besar kan. Itu zaman itu tau. But society has changed. Yang parents sekarang ni, dia punya demand, dia punya expectation kepada sekolah, guru ni dah berbeza. Jadi you tak boleh tukar yang itu. Society You cannot talk down to society kata, "Oh you tak boleh macam ni." I mean tugas politician and policy makers is to really see macam mana angin tu bertiup semua dan mencari jalan tengah yang paling baik dan konstruktif, dan you have to make the call kepada trade-off trade-off yang perlu berlaku. Sebab dia banyak stakeholder ni. Cikgunya macam ni, you tak boleh nak salahkan cikgu semua, you tak boleh nak salahkan ibu bapa semua kan. Jadi sebab itu akhirnya menterilah yang salah. So I think kalau if anything, itu yang bila saya jadi menteri, mungkin orang tak suka, ialah kerana saya suka mencabar status quo. Dan bila saya cabar status quo tu, bukanlah nak tunjukkan kau hebat ke, aku cerdik ke apa. Sebab policy making has to be very agile. Keadaan bertukar. Saya bagi contoh di kawasan kamilah kan, Ampang dengan apa ni Pandan, ada ticking time bomb. Refugee is a di Ampang dan Pandan adalah populasi refugee, pelarian paling tinggi tahu dan orang asing. Ticking time bomb. Pandangan masyarakat, keadaan semasa, keperluan semua ni akan berubah tahu 5-10 tahun daripada sekarang. Jadi sebenarnya nanti ahli parlimen dan juga kerajaan, kita perlu revisit dan kita perlu responsif kepada keadaan semasa dan macam mana kita nak menyelesaikan yang mana dia macam air dengan minyak ni, tak boleh bercampur ni kan. So if anything, the agility of policy making itu perlulah very forward-looking. Itulah sebenarnya yang saya rasa kita ada jurang yang sangat besar. Kerana selalunya nak buat sesuatu perubahan ni, apatah lagi yang melibatkan sekolah ni, 500,000 guru, 450,000 gurulah, sekolah semua ni kan, punyalah payah nak buat. Jadi akhirnya apa yang kita buat? "Tak apalah, kita ikut sajalah, biarlah." Dia jadi autopilot tau, and then you jadi reaktif. Sepatutnya tak boleh, you kena proaktif. You dah kena tengok sebenarnya ibu bapa sekarang lain, budak-budak sekarang lain. Apa yang dulu boleh diterima oleh masyarakat, sekarang tak boleh diterima kan. Itu sebenarnya yang saya rasa kita perlu fokus rather than the form. The form yang ini lawan yang ini, parents ni rasa macam ni semua kan. Tanggungjawab pimpinan dekat atas is how to create a very responsive, proactive, and agile education system yang yang boleh preempt perkara-perkara inilah.
 
-[1:06:39] Dia, dia, saya rasa, dia, awak nampak, okey, ya?
 
-[1:06:42] Ini saya mungkin terdengar...
 
-[1:06:45] Agak berlainan lah daripada you, Victor. Hmm.
+[1:13:44] Rodziah Ismail: And then saya punya pandangan kan, kalau boleh education kita ni, it is the quality kita kena tengok. Bukan lagi, "Oh ini sekolah asrama, ni bukan asrama." Tetapi regardless you dekat sekolah mana, sekolah kebangsaan ke kan, sekolah biasa ke, sepatutnya kualiti pendidikan tu sama. Dan sekarang ini di bandar, kita ada masalah lain kan. Masalah sekolah tak cukup, so orang ramai dan sebagainya kan. Satu kelas 50 orang. Jadi okey yang bab asrama tu satu cerita lagi, semua orang berebut nak masuk, asrama pun tak cukup. Tetapi memang saya setuju dengan Rafizi, dulu orang susah ni kita tak ada kita tidak ada akses pada pendidikan sebab kita miskin ataupun jauh. Itu yang kita ditempatkan di asrama tu. Supaya we no need to go every day. Macam saya duduk Ipoh, Ulu Kinta tempat PM, saya berulang ke sekolah menengah contohnya, tak mahu duduk asrama, it takes me one hour, pergi balik dua jam. Itu tak masuk kokurikulum, tetapi kawan-kawan terpaksa walaupun bandar Ipoh tu ada sekolah teknik asrama, tetapi tak macam dulu. Jalan susah, kenderaan susah kan. Jadi duduklah asrama, tak apalah sebab...
 
-[1:06:49] Masa kita muda,
 
-[1:06:52] You know, I think I quoted this before, every generation blames the one before. Setiap yang kita dapat itu ada tu bila tak kena, you know, kita kata ni tak betul, ini, ini, ini dan sebagainya. Sebenarnya apa yang kita ada is a product.
 
-[1:07:12] of the needs and requirements of every generation build layer upon layer. So for example, the system that we have now, if the education system has a full ashram, MRSM,
+[1:15:05] Rafizi Ramli: Padahal duduk dekat Tambun tu aje pun.
 
-[1:07:28] Ada yang merasakan ini semua elit dan sebagainya. Ini adalah keperluan zaman dulu. Zaman dulu, kerajaan tidak ada cukup wang untuk sediakan pendidikan yang terbaik kepada semua di semua tempat. Jadi sebab itu caranya, it makes sense dulu-dulu ialah...
 
-[1:07:49] untuk memastikan terutamanya yang daripada luar bandar dia dapat mutu pendidikan yang terbaik maka dia buat sekolah selamat penuh over the years of course lah they have the alumni dan sebagainya dan apa nama ni dia timbullah pula isu-isu baru kan
 
-[1:08:10] sebenarnya isu dia bukanlah soal yang ini tak betul, yang ini salah isu dia ialah
+[1:15:07] Rodziah Ismail: Situ aje pun kan. Ha jadi tapi sekarang isu dia, accessibility tu dah tak ada isu. Masalah dia kualiti pendidikan perlu kita lihat supaya sama di tempat mana pun. Dan saya setuju sekarang ni lagi online, lagi information itu lebih mudah kita perolehi. Mungkin kita kena tengok aspek lain pula kan, internet, supaya kita at par dengan tempat-tempat lain kan. Macam-macamlah kita kena buat. Tapi yang yang orang kata yang itu pun kita tak terkejar nak buat, yang ini yang tambah lagi. Lama-lama lantaklah apa jadi pun.
 
-[1:08:20] dasar dan juga cara kita menguruskan contohnya
 
-[1:08:25] pendidikan, dia mesti betul-betul responsive and forward looking. Kerana, apa yang betul 10 tahun lepas, 20 tahun yang lepas,
 
-[1:08:38] Mungkin tidak lagi sesuai sekarang. Contohnya kalau tanya saya kan. Kalau adalah mungkin di pingkat umur kita kat OG benda ni bukan isu lah. Tapi mungkin yang muda-muda lah. Dia akan ada perasaan anti-elitism. Ini semua kan. Tapi kalau tanya saya. Sebab tu saya tak hantar pun anak saya ke MCKK. Contohnya because satu saya rasa. Dia akan mengambil tempat yang daripada orang lain. Yang orang lain mungkin lebih memerlukan. Yang keduanya bagi saya Kita di zaman yang mana
+[1:15:43] Rafizi Ramli: Saya saya nak selit sikit. Ini orang kata sebab tu saya nak nak tegur Fadhlina sekali lagi. Sebabnya begini, sebab bila sebagai menteri, kita saya tengok dialah kan. Yalah kita sama-sama dalam kabinet, saya tengok dia. Bila dalam dalam sebagai Menteri Pendidikan, saya nampak dia nak gloss semua. Semuanya baik, semuanya bagus. Jadi kalau kalau ada orang tanya sikit, dia jegil mata, "Jangan kacau kami." Tak boleh macam itu. Kalau dia ada beberapa kementerian yang operational, yang melibatkan nyawa, yang melibatkan semua orang setiap hari. Kementerian Dalam Negeri, ni polis semua ni, Kementerian Kesihatan, dan Kementerian Pendidikan. Yang ini yang front line dengan rakyat ni, complexity dia memang lebih kompleks daripada beberapa kementerian yang lain. Kerana operational ni tiap-tiap hari ni ada sahaja meletup kiri kanan semua ni kan. Pada masa yang sama nak manage operational ni, you nak kena ada forward planning macam mana dengan kan. Jadi tak ada oranglah dalam dunia ni yang percaya kalau everything is perfect. Semua bagus, semua tu. Orang tanya, dia marah balik kan. Sepatutnya dialah yang paling banyak mendengar sekali. Jadi kalau kalau saya rasa Fadhlina nak turn the corner ni kan daripada kena kecam macam tu, dia kena berubah yang itu. Dia tak boleh jadi defensif, dia kena dengar. Memang betullah there is always two sides of the story. Ada orang kata pandangan macam ini, tapi dia perlulah menyatakan pandangan dari daripada kementerian dan sebagainya. Dia mesti berasaskan pada fakta. Tetapi dia tak boleh nampak seperti kita ni defensif dan kita menolak mentah-mentah apa-apa saja yang dibawakan. Impression yang saya dapat sekarang yang daripada Menteri Pendidikan sekarang macam itulah. You tak boleh tanya langsung, "Oh kita dah rancang, oh kita dah ada." Kalau macam tu orang kata, "Hmm," kan. Jadi benda yang orang suka pun jadi orang tak suka tau.
 
-[1:09:14] pelajar-pelajar tidak perlu pergi ke sekolah tertentu untuk dapatkan pendidikan yang berkualiti ya
 
-[1:09:23] Actually we should have the means now and kita kena fokus supaya pergilah sekolah mana-mana pun quality dia sama saja dengan MCKK. So that's the way, itu keperluan sekarang berbanding dengan keperluan tahun 60-an, 70-an, perlukan MRSM, perlukan sekolah selama penuh. Kalau pendidikan is at the center of nation building
 
-[1:09:58] dan dia mesti forward looking yang responsif kepada kalau dulu ibu bapa zaman dulu contohnya saya dekatan 1 tahun 1990 kalau saya balik beritahu kat mak ayah saya saya kena lempang ataupun saya penatlah malam-malam tak boleh tidur selalu ni kan
+[1:18:05] Victor Tan: I mean, like benda yang saya macam rasa sangsi sikit sekarang ialah dalam peruntukan untuk bajet negara kami setiap tahun kan, so education memang duk paling besar kan. So like you'd wonder if you know, these people are like, you know, spending the money correctly. Dan sekarang ni saya nak buat transition sikit kepada sesuatu yang kami sedia maklum sekarang tentang isu patriotism. Jadi...
 
-[1:10:17] You know what, I never told them. Maybe they know now. For the first time. You know why? Because we came from the village, it's hard. My parents want to send, it's hard to pay. Why is it hard to pay my parents? And if I tell my parents, my parents will say,
 
-[1:10:35] Tak apalah mungkin sebab kau buat salah kot. Sebab dia lebih percaya kepada guru, sekolah yang ada itulah harapan dia besar kan. Itu zaman itu tau. But society has changed. Macam parents sekarang ni, dia punya demand, dia punya expectation kepada sekolah guru ni dah berbeza. Jadi, you tak boleh tukar yang itu. Society, you cannot talk down to society kata, oh you tak boleh macam ni. is to really see macam mana angin tu bertiup semua dan mencari jalan tengah yang paling baik dan konstruktif then you have to make the call kepada trade-off-trade-off yang perlu berlaku sebab dia banyak stakeholder ni cikgu nya macam ni, you tak boleh nak salahkan cikgu semua you tak boleh nak salahkan ibu bapa semua kan jadi sebab itu akhirnya menteri lah yang salah so I think
 
-[1:11:32] Kalau if anything, itu yang bila saya jadi menteri...
+[1:18:39] Rafizi Ramli: Ha, bendera!
 
-[1:11:37] Mungkin orang tak suka Ialah kerana saya suka mencabar status quo Dan bila saya cabar status quo Itu bukanlah nak tunjukkan Kau hebat ke Aku cerdik ke Kenapa? Sebab policy making Has to be very agile Betul Keadaan bertukar Saya bagi contoh Di kawasan kami lah kan Ampang dengan Apa ni Pandan Ada di King Taimbong Refugee is Di Ampang dan Pandan Adalah population refugee Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[1:12:07] Then what I say, ticking time bomb.
 
-[1:12:11] Pandangan masyarakat, keadaan semasa, keperluan sebenarnya akan berubah tau. 5-10 tahun daripada sekarang. Jadi sebenarnya nanti ahli parlimen...
+[1:18:41] Victor Tan: Betul! Sebab kita pun boleh cakap...
 
-[1:12:21] Dan juga kerajaan, kita perlu revisit dan kita perlu responsif kepada keadaan semasa dan macam mana kita nak menyelesaikan yang mana dia macam air dengan minyak ni, tak boleh bercampur ni. So, if anything, the agility of...
 
-[1:12:37] policy making itu perlulah very forward looking itulah sebenarnya yang saya rasa kita ada jurang yang sangat besar, kerana selalunya nak buat sesuatu perubahan yang petah lagi yang melibatkan sekolah ni, 500 ribu guru, 450 ribu guru lah, sekolah semua ni kan punya lah payah nak buat jadi akhirnya, apa yang kita buat
 
-[1:13:02] Tak apalah, kita ikut je lah, biarlah. Dia jadi autopilot tau. And then you jadi reaktif. Sepatutnya tak boleh, you kena jadi proaktif. You dah kena tengok sebenarnya, ibu bapa sekarang, lain.
+[1:18:44] Rafizi Ramli: Yang ini senang sikitlah komen, patriotism. Pasal cikgu, sekolah, budak tadi payah betul nak cerita.
 
-[1:13:16] Kids nowadays are different. What was previously accepted by the community, now cannot be accepted. That's actually what I think we need to focus on. Rather than the form. The form, this is the law, this is the parents who feel like this. The responsibility of the leadership above is how to create a very responsive, proactive and agile education system that can pre-empt these things.
 
-[1:13:44] And then saya punya pandangan kan kalau boleh education kita ni is the quality kita kena tengok.
 
-[1:13:51] Bukan lagi, oh ni sekolah asrama, ni bukan asrama. Tetapi, regardless you dekat sekolah mana, sekolah kebangsaan ke, sekolah biasa ke, sepatutnya kualiti pendidikan tu sama. Dan sekarang ni, di bandar, kita ada masalah lain. Masalah sekolah tak cukup, orang ramai dan sebagainya kan. Satu kelas, 50 orang. Jadi, yang asrama tu satu cerita lagi, semua orang berobot nak masuk, asrama pun tak cukup. Dulu orang susah ni kita tak ada, kita tidak ada akses pada pendidikan sebab kita miskin ataupun jauh. Itu yang kita ditempatkan di asrama tu supaya we no need to go everyday. Macam saya duduk Ipoh, Ulu Kinta, tempat PM. Saya berulang ke sekolah menengah contohnya, tak mahu duduk di asrama. It takes me one hour, pergi balik dua jam. Kita tak masuk kalau ada karikulum.
+[1:18:51] Victor Tan: Yang kami sedia maklum kan, pendidikan ni juga merupakan sesuatu yang membentuk spirit, nafsu, roh kita sebagai sebuah masyarakat. Maka sebahagian daripada nafsu tersebut adalah apa? Perasaan patriotik dalam kalangan murid-murid dalam sebuah masyarakat ni. Jadi pada pandangan YB-YB sekalian, adakah menghabiskan duit untuk membeli lencana bendera tu, adakah itu pelaburan yang baik? Dan setakat mana apa? Pelan untuk menjana nafsu ini adalah pelan yang baik? Dan ini juga saya rasa merangkumi usaha kemungkinan ya untuk membina civic awareness yang mungkin telah dikecam oleh YB Rafizi pada semalam ke dua hari yang lalu pasal budak-budak yang duk menjerit, "Oh, hidup PM!" So ya, apakah pandangan YB-YB sekalian?
 
-[1:14:50] Kawan-kawan terpaksa walaupun bandar Ipoh tu ada sekolah teknik asrama tetapi
 
-[1:14:58] Tak macam dulu. Jalan susah, kenderaan susah kan. Jadi duduklah selama. Tak apalah sebab... Padahal duduk dekat Tambun tu je pun. Situ je pun kan. Jadi macam tu. Tapi sekarang isu dia, accessibility tu dah tak ada isu. Masalahnya kualiti pendidikan perlu kita lihat supaya sama di tempat mana pun. Dan saya setuju sebab sekarang ni lagi online. Lagi information itu lebih mudah kita berhenti. supaya kita ad-par dengan tempat-tempat lain macam-macam lah kita kena buat tapi yang orang kata yang itu pun kita tak terkejar nak buat
 
-[1:15:39] Yang ini yang tambah lagi. Lama-lama lantaklah apa jadi pun. Saya nak selit sikit. Ni orang kata. Sebab tu saya nak tekur Fadlina sikit lagi. Rafi Zain memang terang. Sebabnya begini. Sebab bila sebagai menteri, saya tengok dia lah kan. Kita sama-sama dalam kabinet. Saya tengok dia. Bila dalam sebagai menteri pendidikan,
+[1:20:11] Rafizi Ramli: Kak Ogy dululah.
 
-[1:16:06] Saya nampak dia nak gloss semua.
 
-[1:16:09] Semuanya baik Semuanya bagus Jadi kalau Kalau ada orang tanya sikit Dia jegil mata Jangan kacau kami Tak boleh macam itu Ikut-ikut-ikut Haa
 
-[1:16:20] Kalau dia ada beberapa kementerian yang operational, yang melibatkan nyawa, yang melibatkan semua orang setiap hari. Kementerian dalam negeri, ni polis semua ni, Kementerian Kesihatan dan Kementerian Pendidikan. Yang ini, yang front line dengan rakyat ni, kompleksiti dia memang lebih kompleks daripada beberapa kementerian yang lain. Kerana operational ni tiap-tiap hari ni ada sengaja meletup kiri, kanan semua ni kan. yang sama nak manage operational ni you nak kena ada forward planning macam mana dengan ni
+[1:20:12] Rodziah Ismail: Okey, zaman kita dulu, macam saya dulu, tak ada pun bendera pakai kat lencana. Tetapi sebenarnya cara ya cara patriotism itu ditanamkan dalam diri kita adalah untuk dengan cara dia dia come up with a motivation kenapa kita nak buat benda tu kan. Maksudnya kita diajar tentang sayang kepada negara kan, ataupun hormat dengan kedaulatan undang-undang, practice as a good citizen kan. Jadi yang memotivasikan kita nak buat semua ni, bukan sebab kita ada nak pasang bendera ke ataupun bendera dan sebagainya, tetapi kita rasa ni tanggungjawab kita dan kita rasa sayang sebab kita nak jadi satu citizen yang baik kan. Jadi pada saya, dia tak retoriklah. Orang kata cara kita meluahkan ya hasrat kita tu bukan retorik. Jadi bendera tu penting untuk semangat, tetapi tidaklah itu satu-satunya untuk kita ni untuk kita kibarkan bendera, kita rasa seronok macam parti-parti pun ada bendera kan. Tetapi pada saya, kita kita yang lebih penting adalah how we motivate diri kita, anak-anak kita, anak bangsa kita supaya sayangkan negara ni. Ha itu lebih penting.
 
-[1:16:57] So, there is no one in this world who believes that everything is perfect. Everything is good. People ask, he gets angry again. He should be the one who listens the most. So, if I think Fadlina wants to turn the corner, instead of being hit like that, he has to change that. He can't be defensive. He has to listen. It's true, there is always
 
-[1:17:25] Two side of the story. Ada orang kata pandangan macam ini. Tapi dia perlulah menyatakan pandangan daripada kementerian dan sebagainya. Dia mesti berasaskan pada fakta. Tetapi dia tak boleh nampak seperti kita ni defensif. Dan kita menolak mentah-mentah apa-apa saja yang dibawa.
 
-[1:17:49] Impression yang saya dapat sekarang yang daripada Menteri Pendidikan sekarang macam itulah. You tak boleh tanya langsung. Oh, kita dah rancang. Oh, kita dah ada. Oh, macam tu orang kata. Jadi, benda yang orang suka pun jadi orang tak suka tau. I mean, like...
+[1:21:48] Victor Tan: Okay, now my surprise for you comes. Dengar kata, ni dari ChatGPT, mungkin halusinasi, dengar kata YB Rodziah pernah kalah dalam proses pemilihan kepada YB Fadhlina 32 undi. Is that true, or is that like itu itu fitnah daripada ChatGPT?
 
-[1:18:06] Benda yang saya macam rasa sangsi sikit sekarang ialah dalam peruntukan untuk bajet negara kami setiap tahun kan, so education memang paling besar kan, so like
 
-[1:18:22] you'd wonder if these people are spending the money correctly. And now I want to make a transition to something that we are now aware of, about the issue of patriotism. So... Is it true? It's true. Because...
 
-[1:18:42] Kita boleh cakap Senang sikit lah komen Ya ya ya Fadzah cikgu Sekolah budak tu Ibu ayah tu Nak cerita Yang Kami sedia maklum kan Pendidikan ni Juga merupakan Sesuatu yang Membentuk
+[1:22:07] Rodziah Ismail: Saya nak betulkanlah, saya tak pernah kalah.
 
-[1:18:59] spirit, nafsu, roh kita sebagai sebuah masyarakat. Maka, sebahagian daripada...
 
-[1:19:09] Nafsu tersebut adalah perasaan patriotik dalam kalangan murid-murid dalam sebuah masyarakat ini. Jadi, pada pandangan YBYB sekalian, adakah menghabiskan duit untuk membeli batch bendera itu, adakah itu pelaburan yang baik dan setakat mana...
 
-[1:19:37] Pelan untuk menjana Nasu ini adalah pelan yang baik. Dan ini juga saya rasa merangkumi usaha kemungkinannya untuk membina civic awareness yang...
+[1:22:11] Rafizi Ramli: Dia masa tu tu bukan kalah tau.
 
-[1:19:52] Maybe it was rejected by YB Rafizi yesterday or two days ago. About the kids who... Oh yeah, happy birthday PM! Yeah, happy birthday PM. So, yeah, what is YB Rafizi's view on this? You go first. Okay, in our time, like me, there was no flag wearing a badge. But actually,
 
-[1:20:21] Cara Cara
 
-[1:20:24] patriotism itu ditanamkan dalam diri kita adalah untuk dengan cara dia
+[1:22:14] Rodziah Ismail: Saya bukan kalah kan. Saya menang, saya menang. Tetapi yalah, ada pertimbangan lain yang yang membuang undi ya, undian sepatutnya menjadi milik saya. Tapi yang diumumkan adalah di pihak satu lagi, Fadhlina menang dengan 32 undi.
 
-[1:20:34] they come up with a motivation, why we want to do that. Right? Meaning, we are taught about love for the country, right? Or respect the law, practice as a good citizen, right? So, what motivates us to do all this, not because we want to build a village or a village and so on, but
 
-[1:21:02] Kita rasa ni tanggungjawab kita dan kita rasa sayang sebab kita nak jadi satu citizen yang baik. Jadi pada saya...
 
-[1:21:12] It's not rhetorical. People say that the way we express our desire is not rhetorical. So, the flag is important for the spirit, but it's not the only one for us. For us to spread the flag, we feel happy. Like there are parties, there are flags, right? But for me,
+[1:22:36] Rafizi Ramli: Kak Ogy menang.
 
-[1:21:38] Kita yang lebih penting adalah How we motivate
 
-[1:21:42] our children, our children, our children to love this country. That's more important. Okay, now my surprise for you comes. I heard that, this is from the GPT chat, maybe hallucination. I heard that YB Rozia has lost in the election process to YB Fadlina 32 votes. Is that true? Or is that like, that's a slander from the GPT chat?
 
-[1:22:07] Saya nak betulkan lah. Saya tak menangkan lah. Ha? Kenapa cakap macam tu? Ha? Kenapa cakap macam tu? Yang masa depan tu bukan kalah tu. Saya bukan kalah kan. Sebenarnya kau menang. Saya menang. Saya menang. Tetapi, yelah, ada pertimbangan lain yang membuang undi. Undi yang sepatutnya menjadi milik saya. Tapi yang diumumkan itu. Yang diumumkan adalah di pihak satu lagi. Fadlina menang 32. Fadlina menang 32 undi. Ha? tu dia quote yang last tu je lah. Ha ha ha. Tak chat GPT dia hanya aa quote aa yang rasmi terakhir. Rasmi sahaja. Aa dia tak letakkan konteks dan rentetan ke arah. Tapi apa kaitan tu dengan soalan sebelum tu pula? Sebab okey A aa
+[1:22:38] Rodziah Ismail: So ChatGPT tu dia quote yang last tu ajelah.
 
-[1:22:58] I want to ask, because YBRPC has said that you have to get to the root cause of everything. So in RMK 13, we have to see if there are efforts in our society to accept the challenge of building a more complex economy.
 
-[1:23:24] I also realized that AI is something that is very important in our society. And I want to ask you guys, if you were the education minister and you had full reign, complete privilege, like no constraint whatsoever, you know, like what would you do in this situation, given this particular challenge, you know, rather than glossing over the question of like, you know, flags, you know, like badge for every single student, that kind of thing right there, I mean,
 
-[1:23:55] Is it?
+[1:22:42] Rafizi Ramli: Tak, ChatGPT dia hanya quote yang rasmi terakhir. Dia tak letakkan konteks dan rentetan ke arah itu.
 
-[1:23:56] useful for inculcating patriotism like you make an investment you want to return on investment so like does that like help does it
 
-[1:24:05] maybe, I don't know, like, stop people from getting the flag wrong.
 
-[1:24:09] Tak, yang pasal bendera tadi lah pakai badge kan.
+[1:22:53] Rodziah Ismail: Apa kaitan tu dengan soalan sebelum tu pula?
 
-[1:24:17] Saya ingat dia ada latar belakang dia lah Maksudnya Ini kadang-kadang Ialah budaya dalam
 
-[1:24:24] masyarakat kita pun ada budaya dalam
 
-[1:24:28] pentadbiran negara pun ada. Maksudnya bila orang baru masuk dia kena tunjukkan ada perubahan. Ada dia buat apa-apa. Jadi sebenarnya yang pakai flag dekat batch ni dia bukan bermula di sekolah tau. Dengan dengan dia bermula dengan kaki tangan awak. Jadi ada kepimpinan baru saya perhati eh tiba-tiba tukar apa nama ni kena ada flag kepada batch kaki tangan awak. Jadi lepas ni pergi perhati kaki tangan awak punya tu semua ada flag lah. Jadi bila itu telah dibuat maka saya pun tak tahu macam mana dengan ada orang yang ada idea apa entah dekat Kementerian Pendidikan. Dia kata ha ini untuk menyokong inisiatif bendera ini
+[1:22:55] Victor Tan: Sebab okay, A, saya nak minta kalau... Sebab dulu YB Rafizi pun pernah berkata bahawa you have to get to the root cause of everything. So dalam RMK-13 tu pun, kita kena tengok adakah keupayaan dalam masyarakat kami ni bersedia untuk menerima cabaran untuk menjana sebuah ekonomi yang lebih kompleks? Dan kami sedia sedar juga bahawa AI tu adalah sesuatu yang lebih yang amat penting dalam masyarakat kami ni. Dan saya nak mintalah YB-YB sekalian, if you were the Education Minister and you had full rein, complete privilege, like no constraint whatsoever, you know, like what what would you do in this situation given this particular challenge, you know, rather than glossing over the question of like, you know, flags, you know, like badge for every single student, that kind of thing right there. I mean, is it useful for inculcating patriotism? Like you make an investment, you want a return on investment. So like does that like help? Does it maybe, I don't know, like stop people from getting the flag wrong?
 
-[1:25:16] Kita di Kementerian Pendidikan, agaknya lah saya fikir kan, kita di Kementerian Pendidikan ni lebih hebat. Bukan sahaja penjawat awam yang pakai bendera di nametag, budak-budak pun kena pakai kan. Jadi dia nampak hebat sangat kan. Jadi itu sebenarnya masalah budaya yang mana.
 
-[1:25:34] That's what I said, when every time there's a new leader, he wants to leave his legacy in a cosmetic way. So, the canon is that he brings change. So, there are things that people think, ah, Nimtec is this era, that's it. That too is related to the issue of patriotism.
 
-[1:25:57] Yalah kita ada two school of thoughts lah kan. Orang macam kami ni saya ingat. Ialah jenis yang benda-benda yang nampak di depan mata ini tidak sepenting kepada roh, kepada the substance kan. Jadi kalau patriotism...
+[1:24:10] Rafizi Ramli: Tak, yang yang pasal bendera tadilah pakai lencana kan. Saya ingat dia ada latar belakang dialah. Maksudnya ini kadang-kadang ialah budaya dalam masyarakat kita pun ada, budaya dalam pentadbiran negara pun ada. Maksudnya bila orang baru masuk, dia kena tunjukkan ada perubahan. Jadi sebenarnya yang pakai flag dekat lencana ni, dia bukan bermula di sekolahlah dengan dengan dia bermula dengan kakitangan awam. Jadi ada kepimpinan baru, saya perhati, eh tiba-tiba tukar. Apa nama ni kena ada flag kepada lencana kakitangan awam. Jadi lepas ni pergi perhati kakitangan awam punya nametag tu, semua ada flag tau. Jadi bila itu telah dibuat, maka saya pun tak tahu macam mana dengan ada orang yang ada idea apa entah dekat Kementerian Pendidikan, dia kata, "Ha! Ini untuk menyokong inisiatif bendera ini, kita di Kementerian Pendidikan," agaknya lah saya fikir kan, "kita di Kementerian Pendidikan ni lebih hebat. Bukan sahaja penjawat awam yang pakai bendera di nametag, budak-budak pun kena pakai." Jadi dia nampak hebatlah kan. Jadi itu sebenarnya masalah budaya yang mana itu yang saya kata bila ada setiap kali ada pemimpin baru, dia nak meninggalkan bekas dia tu ialah dengan cara kosmetik. Jadi kononnya dia bawa perubahan. Jadi adalah benda yang orang ingat, "Ha yang nametag ni zaman sekian-sekianlah," kan. Itu juga berkait dengan soal patriotism tu. Kan? Yalah, kita ada two school of thoughts lah kan. Orang macam kami ni saya ingat, ialah jenis yang benda-benda yang yang nampak di depan mata ini tidak sepenting kepada roh, kepada the substance kan. Jadi kalau patriotism, dia bukannya menunjukkan akulah yang terpaling patriotik ke apa. Patriotism ni ialah melahirkan Ini pandangan sayalah kan. Patriotism ini ialah melahirkan warganegara, setiap rakyat yang cintakan negara. Bagaimana dia cinta negara itu, dia tidak ada sepesen tau. Dia bukan ada satu model saja. Kalau kau tak buat yang ini, kau tak cintakan negara. Ada macam-macam cara orang nak cintakan negara. Jual pasembur paling hebat pun bagi saya adalah sangat patriotik. Kan? So sebab itu masa saya ingat masa kami di sekolahlah kan, masa saya muda sikit daripada Kak Ogylah kan, tapi zaman saya 80-an juga Kak Ogy kan. Saya tak ingatlah yang kita diajar pasal you know menzahirkan you know kan. Tapi yang saya dapat daripada sekolah, daripada guru-guru semua ialah kita mestilah lakukan yang terbaik dalam semua benda. Dan becoming the best in everything that you do, putting your best effort, itu membawa kebaikan kepada orang sekeliling kita dan bila itu berlaku, sebenarnya masyarakat jadi lebih baik. Negara yang baik ini ialah kerana masyarakat dia baik. And that's to me is already patriotic. Kan? Jadi sebab itu substance-nya itu kalau sayalah untuk sekolah semuanya ini, we have to go back to the basics. Basics untuk membawa the best out of anak-anak kita ni, macam mana dia nak menzahirkan itu, terpulang kat dia sebenarnya kan. Tapi oleh kerana kita hidup di zaman membodeklah, kebelakangan ni sebelum-sebelum ni bila kita dah tua sikit ni kita tengok, yalah zaman kita dulu Malaysia tak kaya. Bodek pun bukan dapat apa sangat pun. Zaman sekarang ni Malaysia kaya kan. Jadi kalau dapat kedudukan semua ni kan. Jadi dia berlumba-lumba menzahirkan dia dia nak kena tunjuk tau, "Saya dah buat yang ini." Sebab kalau tidak, katalah Kak Ogy jadi Menteri Pendidikan ke, saya jadi Menteri Pendidikan, netizen pun satu zaman sekarang ni kan. Dia nak tengok benda depan mata. "Apa kau dah buat? Apa kau dah buat?" Sedangkan benda tu salah tau. To me, jadi menteri ni ialah memastikan akar itu kuat. Akar kuat tu dia berbuah bukan zaman kita. Yang banyak benda yang ada kat Malaysia ni, bukannya yang menteri yang ada sekarang ni. Ini akar daripada yang dah ditanam tahun 60-an, 70-an. Tapi dulu akar tu kuat kan. So the challenge you know you know kalau you tanya semua macam mana nak buat AI semua, patriotism, challengenya ialah Menteri Pendidikan yang akan datang, you kena berani that my job is to prepare the foundation, strengthen the foundation. I don't care sebenarnya you cakap saya ni macam mana, if this is right untuk anak kita and this will produce a very good education system, I put my neck for it. Masalahnya sistem kita tak macam itulah. Nanti orang akan tembak kaulah.
 
-[1:26:16] Dia bukannya menunjukkan akulah yang terpaling patriotik ke apa Patriotism ni ialah melahirkan Ini pandangan saya kan Patriotism ni ialah melahirkan
 
-[1:26:32] warga negara setiap rakyat yang cintakan negara hmm
 
-[1:26:39] How he loves the country, he doesn't have a single cent. He doesn't have just one model. If you don't do this, you don't love the country. There are many ways people want to love the country. Even the best pasembo sales, for me, are very patriotic. Right? So that's why, I remember when we were in school, right?
+[1:29:48] Rodziah Ismail: Dia kalau kita punya foundation kuat, kita punya perasaan cinta kepada negara tu kuat, tak payah bagi, kita beli pun kita sanggup. Betul tak? Kita kita boleh buat sesuatu untuk just untuk memastikan kita boleh memberi kepada negara kita kan. So I think saya rasa adalah timbullah dia bercakap bila kita tengok duit yang telah dibelanjakan sebanyak itu, kita katakan. Saya terfikir kalau di dalam parlimen tu bising-bising ahli parlimen minta peruntukan dan sebagainya, eloklah kalau lebih baik duit itu disalurkan kepada benda-benda yang lebih asas kepada sekolah. Asas tu apa? Kadang-kadang kita tengok mungkin capaian internetnya tak ada kan, ataupun mungkin saya risaulah cakap kat Ampang nilah, tak tahulah kat Pandan kan, ada kerusi meja pun dah dah obsolete dah, dah dah teruk kan. So pada saya, patriotik tu kita kena saya anak polis, lagilah patut patriotiklah kan, tapi sebenarnya menanamkan tu kena betul-betul tanam spirit of it. Barulah boleh.
 
-[1:27:05] Saya muda sikit daripada Kak Oji lah kan. Tapi zaman saya, 80-an juga Kak Oji kan. Saya tak ingatlah yang kita diajar pasal, you know, menzahirkan. Tak pernah, Kak Oji pun tak ada. Tapi yang saya dapat daripada sekolah, daripada guru-guru semua, ialah...
 
-[1:27:25] Kita mestilah lakukan yang terbaik dalam semua benda.
 
-[1:27:30] And becoming the best in everything that you do, putting your best effort, itu membawa kebaikan kepada orang sekeliling kita. Dan bila itu berlaku, sebenarnya masyarakat jadi lebih baik. Negara yang baik ini ialah kerana masyarakat dia baik. And that to me is already patriotic.
+[1:31:00] Rafizi Ramli: Macam kami contohnya dulu kami pembangkang kan, ahli politik dan ahli parlimen pembangkang kan. Saya ingat masa bila saya kritiklah kalau contoh ada financial scandal ke apa kan, ada pihak masa tu orang UMNO semua kata saya ni tak patriotiklah. Ini apa ni kritik pasal FELDA, pasal Tabung Haji semua kan. Tapi sebab pemikiran saya ingat pemikiran kami ialah untuk membaiki dan mempertahankan sesuatu institusi tu, dia bukan lambung aje tau. Mengkritik untuk memperbaiki, itu pun patriotiklah. Jadi yang saya rasa itu juga sedikit kelemahan kalau bila kita ada parti yang baru bertukar semua ni kan. Yang berbahayanya ialah masa kita jadi pembangkang dulu, kita boleh kritik. Masa itu kita kata ini perkara yang patriotik. Jadi bila kita jadi apa nama ni kerajaan, jadi menteri, orang lain kritik, "Ah ini tak boleh, tak patriotik." Itu tak boleh tau. So that's why patriotism ini, you boleh nampak sebenarnya it is internalized. Kalau orang itu dia ada konsep bagisayalah konsep yang betul mengenai patriotism, dia takkan bertukar-tukar tau. Because it's the core of your upbringing kan. Jadi semua ni bagi saya kalau dimulakan di sekolah, sepatutnya patriotism semua ni sivik ni mestilah sesuatu nilai yang kita nak bina dengan anak-anak kita. Jangan kita prescribe dekat dia tau apa yang patriotik, apa yang tak tu apa ni kan. Kita yang kita bina ialah nilai yang dia jadi pegangan dia. So in my case contohnya kan, why I am like this kan? Sebab saya ingat saya daripada MCKK lagi, satu nilai yang saya pegang ialah saya memang akan sokong underdog. Lebih mulia menyokong orang yang lemah daripada jadi orang yang kuat dekat atas. That's the culture yang saya diajar daripada sekolah tau.
 
-[1:27:51] Jadi sebab itu substance-nya itu kalau saya lah untuk sekolah semuanya ini, we have to go back to the basics. Basics untuk membawa the best out of anak-anak kita ni, macam mana dia nak menzahirkan itu, terpulang kat dia.
 
-[1:28:11] But because we live in the era of being rich. In the past, when we were a little older, we saw that in our time, Malaysia was not rich. Being rich is not a big deal. In today's time, Malaysia is rich, right? So if we get a seat, all of this. So it's a waste, it's a waste.
 
-[1:28:34] He wants to be shown that he has done this. Because if not, let's say Kak Oji becomes the Minister of Education or I become the Minister of Education. Netizens are the same. In this day and age, they want to see things in front of their eyes. What have you done? What have you done? While that thing is wrong. To me, being a minister is to make sure that the roots are strong.
+[1:33:07] Rodziah Ismail: Macam sama.
 
-[1:28:59] The strong roots are not from our time. There are many things in Malaysia, not from the current ministers. This is the roots of what was planted in the 60s and 70s. But the roots were strong. So the challenge, if you ask how to do AI, patriotism, the challenge is the minister of education who will come, you have to be brave.
 
-[1:29:25] that my job is to prepare the foundation, strengthen the foundation. I don't care, actually. You tell me how, if this is right for our children, and this will produce a very good education system, I put my neck for it. The problem is, our system is not like that. People will shoot you. If our foundation is strong, if our love for the country is strong,
 
-[1:29:53] Tak payah bagi. Kita beli pun kita sanggup. Betul tak? Kita boleh buat sesuatu untuk memastikan kita boleh memberi kepada negara kita kan. So I think, saya rasa ada lah timbul lah daripada cakap bila kita tengok...
+[1:33:08] Rafizi Ramli: Sebab tu orang tanya, "You kenapalah selalu kalahlah? Kenapa ni kenapa?" That's because we were brought up to support the underdog. Sebab itu kita masuk PKR. Betul kita orang tak masuk UMNO semua because we always chose the underdog tau. Jadi saya tak pasti sama ada di sekolah sekarang, adakah nilai yang macam itu tu berjaya kita bentuk dalam anak-anak kita kan?
 
-[1:30:11] Duit yang telah dibelanjakan sebanyak itu Kita katakan Saya terfikir kalau di dalam parlimen tu Bising-bising ahli parlimen Minta peruntukan dan sebagainya Eloklah kalau lebih baik Duit itu disalurkan kepada Benda-benda yang lebih asas kepada sekolah Asas tu apa? Kadang-kadang kita tengok mungkin Pencapaian internetnya tak ada Kan? Ataupun mungkin Saya risaulah cakap Kak Ampang ni lah Tak tahulah Kak Pandan kan? kursi meja pun dah obsolete lah, dah teruk kan. So pada saya patriotik tu kita kena, saya anak polis lagi lah partai patriotik lah kan. Tapi sebenarnya menanamkan tu kena betul-betul tanam spirit of it. Barulah boleh. Macam kami contohnya dulu kami pembangkang kan, ahli politik dan ahli parlimen pembangkang kan.
 
-[1:31:05] I remember when I was criticizing, for example, there was a financial scandal or something. There was a party at that time, UMNO, all of them said that I was not patriotic. This, this, what, this, criticizing about Felda, Suwata Ponghaji, all of them. But because of our thoughts, I think our thoughts are,
 
-[1:31:26] untuk membaiki dan mempertahankan sesuatu institusi itu dia bukan lambung je tau mengkritik untuk memperbaiki itu pun patriotik tau jadi yang saya rasa itu juga sedikit kelemahan kalau bila kita ada parti yang baru bertukar semua ni kan
+[1:33:33] Rodziah Ismail: Sebab tu saya sendiri macam risau kan kalau kita bina hanya akademik semata-mata, pencapaian result akademik tu yang menyebabkan seolah-olahnya kita berjaya. Tetapi nilai tidak ada. Kita tak tanamkan kepada anak-anak kita ataupun anak-anak murid-murid kita tentang apa nilai yang betul yang ada kan? Walaupun mungkin dia tidaklah berkuasa pada ketika itu. Macam saya Kak Ji sendiri pun tidak pilih nak jadi apa ni prefek ke masa tu. I jadi pustakawan sebab saya suka baca buku lagi kan.
 
-[1:31:47] The danger is when we become a supporter, we can criticize. At that time, we said this is a patriotic thing. So when we become a minister, other people criticize, oh, this is not allowed, not patriotic. That's not allowed. So that's why patriotism, you can see it is internalized. If that person has a concept for me,
 
-[1:32:13] konsep yang betul mengenai patriotism, dia takkan bertukar-tukar tau. Because it's the core of your upbringing kan. Jadi, semua ni bagi saya, kalau dimulakan di sekolah, sepatutnya patriotism, semua ni, civik ni, mestilah sesuatu nilai yang kita nak bina dengan anak-anak kita. Jangan kita prescribe dekat dia tau. Apa yang patriotik, apa yang taktu, apa ni kan. Jadi pegangan dia. So. In my case contohnya kan. Why I am like this kan.
 
-[1:32:49] Sebab saya ingat saya daripada MCKK lagi, satu nilai yang saya pegang ialah saya memang akan sokong underdog.
+[1:34:09] Rafizi Ramli: Saya kalau jadi pustakawan, saya tidur dalam perpustakaan.
 
-[1:32:57] Lebih mulia menyokong orang yang lemah Daripada jadi orang yang kuat dekat atas That's the culture yang saya diajar daripada sekolah Macam sama Sebab tu orang tanya you Kenapa lah selalu kalah lah Kenapa ni? Kenapa? That's because we were brought up to support the underdog Sebab itu kita masuk PKR Sebab tu kita orang tak masuk UMNO semua Because we always choose the underdog tau
 
-[1:33:22] Jadi saya tak pasti sama ada di sekolah sekarang Adakah
 
-[1:33:27] Nilai yang macam itu tu berjaya kita bentuk dalam anak-anak kita. Sebab tu saya sendiri macam risau kan kalau kita bina hanya akademik semata-mata. Capaian result akademik tu yang menyebabkan seseolahnya kita berjaya. Tetapi nilai tidak ada. Kita tak tanamkan kepada anak-anak kita ataupun anak-anak murid-murid kita tentang apa yang nilai yang betul yang ada kan. berkuasa pada ketika itu macam saya bukan Kak Haji sendiri pun tidak pilih nak jadi apa ni prefect kan masa tu jadi pustak kawan sebab saya suka baca buku lagi kan saya kata pustak kawan saya suka kata tapi nilai tu yang kita tahu tak semestinya you are there baru you dapat semua kan itu
+[1:34:13] Rodziah Ismail: Tapi nilai tu yang kita tahu, "Oh tak semestinya you are there baru you dapat semua." Kan? Ha itu.
 
-[1:34:22] I have a surprise for you.
 
-[1:34:24] Satu orang, dua orang, tiga orang.
 
-[1:34:27] Can you?
+[1:34:22] Victor Tan: I have a surprise for you. Satu orang, dua orang, tiga orang. Selamat Hari Kemerdekaan yang bakal datang. One for you, one for you. So...
 
-[1:34:28] Selamat Hari Kemerdekaan yang bakal datang. One for you. So... Ni betul lah. Tak terbalik lah. Ya betul. Nak video betul. Kalau tidak nanti akan ada demo di studio. Seorang doktor akan kejar nanti. Jadi... Ya tapi saya bawa bendera ni sebab dalam kenyataan ia merupakan simbol untuk negara kami ini.
 
-[1:35:06] Yang saya bimbang sekarang ni adalah kalau kita tengok dalam sistem pendidikan kan so memang ada emphasis untuk datangkan semangat perciotik macam ni tapi yang kita tahu juga adalah pelajar sekarang akan menjadi masa depan dan pemimpin sekarang adalah masa depan, masa lalu maka kalau kita tengok masyarakat
 
-[1:35:34] We, at this time, which is now in existence, where the UMNO youth, the PAS youth, unite to go to Penang, then bully someone. Uncle Dua, poor uncle Dua. Poor. But, um, yeah,
+[1:34:38] Rafizi Ramli: Ni betullah king. Tengok atas tak terbalik kan? Ha ha. Ni betul. 14 jalur betul, ha ni semua betul. Kalau tidak nanti akan ada demo di studio.
 
-[1:35:54] What they said is that the sovereignty of the country and the importance of the flag is a must. It is something that cannot be compromised. But when I heard what YBYB said, it was like...
 
-[1:36:13] If you don't use symbols that are necessarily visible, you can still be a good Malaysian. You think that that's kind of like true?
 
-[1:36:23] Ya, saya akan berjumpa dengan awak.
+[1:34:47] Victor Tan: Nanti ada orang doktor-doktor akan kecam nanti. Jadi ya, tapi saya bawa bendera ni sebab ia seolah-olah dan memang dalam kenyataan, ia merupakan simbol untuk negara kami ini. Yang saya bimbang sekarang ni adalah kalau kita tengok dalam sistem pendidikan kan, so memang ada emphasis untuk datangkan semangat patriotik macam ni. Tapi yang kita tahu juga adalah pelajar sekarang akan menjadi masa depan dan pemimpin sekarang adalah masa depan masa lalu. Maka kalau kita tengok masyarakat kita pada masa ni yang kian wujud dalam mana Pemuda UMNO lah, Pemuda PAS lah, Bersatu lah, dia orang duk pergi ke Penang lepas tu buli seorang...
 
-[1:36:24] To be a good citizen, it's not necessarily that if we put up a lot of flags at home, we will be good. If it's dangerous, it's like this. We put up a lot of flags at home, then we beat them up. Beat them up, then go to the toilet, etc. But that's not the only way, right? It's a pity like my uncle in Penang, he was put up and returned.
 
-[1:36:53] Pernah tak kita kata, ok kalau kita semangat kita betul,
 
-[1:36:57] Untuk pastikan semua orang Memasang mereka dengan betul Kita boleh ajar dia Kenapa kita nak kritik dia Kenapa kita nak marah dia Ya ambil video Kau dah nampak dia terbalik Pergi je lah tegur Pergi je tegur Ini memang saja Pergi viral So niat tu sebenarnya Niat tu sebenarnya yang menyebabkan Tak bagus lah macam tu kan Dia dah jadi sebenarnya sasaran politik Jadi Itu yang saya kata apa nama ni
+[1:35:48] Rafizi Ramli: Pak cik tua. Kesian kat uncle tu ah.
 
-[1:37:30] Zaman sekarang orang mengejar viral Zaman sebab Yalah nampak macam hebat kan Yang muda-muda pemimpin Baik daripada mana-mana parti lah kan Masa muda ni orang boleh terima lah Stunt-stunt macam ni Tapi kita akan jadi tua Bila kita jadi tua Makin berumur Rakyat akan Hmm
 
-[1:37:57] to see how our substance is. Until when, for example, Dr. Akmal, the head of UMNO, until when did he get a stun like this? Right. So, by bringing people to bully and scare an uncle, it's not over, right? The school problem is not over.
 
-[1:38:26] Kenapa dia tak tengok Di sudut yang lain
+[1:35:51] Victor Tan: Kesian! Tapi ya, yang mereka kata tu, kedaulatan negara dan juga kepentingan bendera tu adalah mutlak. Ia sesuatu yang tidak boleh dikompromikan. Tapi apabila saya dengar apa yang YB-YB sekalian cakap, seolah-olah macam kalau you tak guna simbol-simbol yang necessarily visible pun, you can still be a good Malaysian. You think that that's kind of like true?
 
-[1:38:31] Niat pakcik tu pada asalnya dia nak pasang bendera. Tak, kita pun, Kak Oji, kita pun tak adalah susah payah nak pergi ambil besar-besar beli bendera nak pasang ke rumah. Dia tu at least dia ada effort. Dia sanggup make the effort tau. Make the effort. Make the effort. Sebab saya anak polis tau. Dulu tak payah sebut pun memang kami dah jadi disiplin. Kalau hari kemasaan kan, kita akan sendiri pasang bendera. Jelah bendera tu dah berapa kali pakai pun kita simpan lepas tu. Dah jadi satu disiplin. Jadi kalau ada mana-mana rakyat Malaysia yang rasa terpanggil sebab Hari Merdeka nak meraihkan begitu. Tersilap pasang saja. Pergilah nasihatkan saja. Jangan jadikan tu politik yang sebenarnya orang gelakkan dia balik lah. Tapi saya tengok dekat social media lah kan. Saya ada buat satu posting lah komen pasal bendera ni kan. Mesti aku kena kecam ni. Sebab orang Melayu semua ni marah ni kan. Actually that's not true.
 
-[1:39:36] sebenarnya dia dapat likes yang banyak, viral yang banyak jadi saya rasa
 
-[1:39:42] Kalau tidak berhati-hatilah mereka yang menunggang bendera ni kan, yang buat jadi isu politik bendera. Kadang-kadang dia hidup dalam bubble yang short sendiri. Sebab silent majority ni yang orang biasa, yang Melayu biasa ni, dia banyak lagi benda lain dan dia bukanlah tak nampak uncle tu tersalah pasang. Dia tersalah pasang, dia nak pasang ni kan. Jadi yang kau pergi bantai dia tu kenapa? Jadi kalau terus menunggang benda-benda yang orang kata form over substance macam ni
+[1:36:23] Rodziah Ismail: Yalah, dia nak jadi warganegara yang baik ni tak semestinya dengan Kalau macam tu baik kita pasang bendera banyak-banyak kat rumah tu, kita jadi baik dah kan?
 
-[1:40:20] Saya tak rasalah it's sustainable. Malah nasihat saya kepada yang muda-muda, that's not how you build your branding sebagai politician. Dengarlah sikit daripada kita orang yang dah tua sikit ni. Tapi lebih merisaukan. Lebih merisaukan selain pada apa yang Raf sebutkan di sudut.
 
-[1:40:39] pandangan kenapa nak tonggang benda macam ni kan tapi yang merisau kan adalah
 
-[1:40:44] Kenapa kita tidak menjadikan budaya memperbetulkan, menasihati itu satu norm? Sekarang ni kecam je kerjanya kan? Kita kena ubah. Let's rakyat Malaysia, mari kita sama-sama buat start from diri kita sendiri kan? Supaya, you nak main politik tu satu cerita lah. Tetapi janganlah sampai menganaya. Ini pun boleh juga ni. Boleh, boleh. dah jadi macam sebuah masyarakat bully. So, saya rasa macam, like, apa yang terjadi kepada aa...
+[1:36:33] Rafizi Ramli: Dan kalau macam tu lagi bahaya. Dia jadi macam ni tau, kita pasang bendera banyak-banyak kat rumah, lepas tu kita sakau duit orang, lepas tu pergi curi, macam-macam.
 
-[1:41:24] 阿爹Zara, Kairina, dan juga kepada anak YB Rath, it's like one of the many symptoms of a root cause of this sort of bullying culture, almost like has come up in our society. And yeah, so,
 
-[1:41:40] Thank you for your views on YBYB. And now, in the interest of time, so maybe we can transition to questions from the community who want to ask your expertise on YBYB. And this question is from...
 
-[1:42:03] Kamarul Amir yang bercakap di bawah RMK 13 sekarang ni ada pelan dalam mana budak-budak sepatutnya habiskan sekolah pada umur 16 umpamanya dan dalam podcast YB yang sebelum ni so YB pernah cakap yang kalau kita tak buat benda ni kalau kita tak raise the retirement age maka 30-40 tahun yang akan datang maka generasi yang seterusnya akan bayar untuk ke
+[1:36:44] Rodziah Ismail: Tetapi that's not the only way kan. Maknanya kesianlah macam pak cik dekat pak cik dekat dekat Penang tu kan dia terpasang terbalik. Pernah tak kita kata okey kalau kita semangat kita betul kan untuk pastikan semua orang memasang bendera dengan betul, kita boleh aje ajar dia. Kenapa kita nak kritik dia? Kenapa kita nak marah dia?
 
-[1:42:42] Tidak inginan ataupun kekurangan Apa? Political will untuk berbuat Begitu Maka Hmm
 
-[1:42:51] Adakah pada pandangan YB, kerajaan mempunyai sekarang ini preparasi ataupun keinginan untuk menyelesaikan masalah-masalah yang YB telah tunjukkan dalam podcast yang sebelum itu?
 
-[1:43:11] Bagaimanakah kita boleh memastikan keadilan antara generasi untuk semua kohort yang bekerja di negara ini?
+[1:37:06] Rafizi Ramli: Yang ambil video tu pun, kau dah nampak dia terbalik, pergi ajelah tegur uncle tu. Ini memang sengaja ambil terus pergi viralkan.
 
-[1:43:24] Dia mesti bermula dengan satu anjak kandasa yang radikal. Jadi itu sebenarnya fungsi RMK. RMK lah setiap lima tahun. Dia mesti ada visi yang...
 
-[1:43:38] Anjakannya itu akan menjadi panduan kepada kerajaan dan masyarakat. Jadi dalam RMK13 ini maksudnya ada satu penerimaan dan telah dipersetujui bahawa kita mesti bergerak ke arah itu. Jadi proses-proses itu selepas ini perlu berlaku. Selamat tinggal.
 
-[1:44:09] Kalau kita kata untuk kita mencapai dan transisi itu mesti berlaku contohnya dalam tempoh 10 tahun. 20, 35 memang universal preschool, umur 5 tahun, 6 tahun mula dan 16 tahun keluar. Dan transisi itu mesti...
+[1:37:16] Rodziah Ismail: So niat tu sebenarnya, niat tu sebenarnya yang menyebabkan tak baguslah macam tu kan.
 
-[1:44:30] complete 2035 maka bajet untuk 26, 27 tu you dah kena map out berapa sekolah, berapa cikgu, berapa peruntukan semualah kan so kecuali lah, kecuali yang akan berlaku kemungkinan-kemungkinannya kan, mungkin kerajaan kata, oh kita mungkin tak boleh buat lah, ataupun dia kata, ok kita menukar dasar kan, yang itu akan Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[1:45:00] mana kerajaan yang ada kemahuan politik, keberanian politik untuk membuat keputusan itu kerana bila kita dah bersetuju, tujuan saya berkeras masukkan dalam RMK 13 contohnya perkara-perkara yang besar seperti ini, saya tak kata mudah
 
-[1:45:22] Some people say, how is this school, what is it called, Asohan Center, Tadika, Tabika, all of these are not enough. That's why I put it in. Because after this, it has to be enough. So don't go buy a lot of cars, don't go abroad a lot. So that we can save all the money and we can focus on building this school.
+[1:37:23] Rafizi Ramli: Yalah, dia dah jadi sebenarnya sasaran politik kan. Jadi itu yang saya kata apa nama ni zaman sekarang orang mengejar viral, zaman sebab yalah nampak macam hebat kan. Yang muda-muda pemimpin baik daripada mana-mana partilah kan. Masa muda ni orang boleh terimalah stail-stail macam ini. Tapi kita akan jadi tua. Bila kita jadi tua, makin berumur, rakyat akan nak tengok sebenarnya substance isi kita tu macam mana. Sampai bila contohnya Dr. Akmal, Ketua Pemuda UMNO, sampai bila dia nak buat stail macam ini kan? Jadi dengan bawa orang apa nama ni membuli dan menakut-nakutkan seorang pak cik ni kan, apa ni itu tak selesaikan. Masalah sekolah tak selesai. Masalah ha.
 
-[1:45:46] Jadi kalau ada contohnya kerajaan yang menukar dan lain-lain tu, maksudnya itu rakyat akan menghakimi lah. Dan itu juga tugas orang macam saya lah untuk terus menyampaikan berita dan memberitahu bahawa eh, you cannot continuously kick the can down the road. You tak boleh lari daripada masalah. Memanglah susah. Itulah sebab kau jadi kerajaan kan. Dan kalau tidak,
 
-[1:46:15] Bukan sahaja kita tak boleh menjamin yang orang kata apa nama ni kesejahteraan yang lebih seimbang di antara generasi ni dia akan melebarkan lagi kan. Jadi sebenarnya
 
-[1:46:30] Bila kita kata keadaan itu perlu diperbaiki kalau tidak akan berlaku situasi ini yang mana golongan millennial sekarang ini
+[1:38:28] Rodziah Ismail: Tapi kenapa kenapa dia tak tengok kan di sudut yang lain? Niat pak cik tu pada asalnya dia nak pasang bendera.
 
-[1:46:43] dan juga Gen Z akan menanggung beban ini, itu kalau kita tidak berjaya memperbaiki keadaan. Tapi contohnya lah, kalau kita boleh strukturkan ekonomi kita, katakanlah dalam 10 tahun daripada sekarang, engineer kita dah buat kapal terbang.
 
-[1:47:02] Contohnya kan kilang-kilang kita ni jadi gedung kilang bahan gadget elektronik paling mahal dalam dunia. Kalau itu berjaya berlaku, maka gaji pun naik, laba keuntungan pun naik, maka kita akan berjaya menutup lah jurang yang kita unjur sekarang ini. Jadi cara untuk...
 
-[1:47:24] memastikan keseimbangan itu sebab itu segala perubahan yang kita kata kena buat ini kena berlaku yang diletakkan di dalam RMK 13 dari segi reformasi pendidikan reformasi pasaran buruh pasal gaji kemudian pasal mensrukturkan balik ekonomi itulah perkara-perkara yang mesti dibuat untuk memastikan generational fairness
+[1:38:35] Rafizi Ramli: Tak, kita pun Kak Ogy, kita pun tak adalah susah payah nak pergi ambil besar-besar beli bendera nak pasang kat rumah.
 
-[1:47:50] Tapi kalau kita hanya letak dalam RMK 13, lepas ni dia tak berlaku. Ataupun kalau bertukar kerajaan, dia pergi tukar pula. Dan maka it's given lah yang kita akan ada jurang itu yang mana golongan anak-anak kita ni kat OG nanti mereka akan jadi lebih miskin daripada kita. Tapi kalau kita dengar apa yang dibincangkan.
 
-[1:48:14] Dengan yang dibentangkan dan dibincangkan sekarang Dah habislah petang tadi habis Petang semalam kita habis semua tu
 
-[1:48:20] Tapi isu besar sekarang ni, pelaksanaan. The commitment untuk kita melaksanakannya itu juga menjadi big question marks. Sebabnya dulu siapa nak tahu, nak ambil tahu tentang RMK 12, 11 semua tu. Belum ni orang tak ambil pot pun. Rasanya RMK 13 ni yang paling semua orang tanya apa dia, nak tahu juga ada tak expect ni, ada tak focus itu. Bagaimana kita
+[1:38:43] Rodziah Ismail: Dia tu at least ada effort.
 
-[1:48:52] Kita telah bincang, dah debate Lepas tu, di sudut pelaksanaan tu Menjadi satu
 
-[1:48:58] one, people say, compulsory action to the ministry to carry out. Right? Yes, to calculate. That's the ministry's job, to detail the achievement again. That's why I, I think my discussion in parliament this time, I emphasize that if there is a mechanism for us to measure how this RMK, which has been planned well, is successfully carried out. If it doesn't work,
 
-[1:49:26] Maknanya siapa, macam mana kita patut...
+[1:38:44] Rafizi Ramli: Dia sanggup make the effort tau. He made the effort.
 
-[1:49:30] Question balik dalam parlimen, kena ada accountability di dalam parlimen yang setiap perancangan ini yang dah habis masa dah plan betul-betul ni mesti diukur sebab kita setengah bersetuju. Kan kita dah debate, dah bersetuju, dah bagi pandangan tetapi kekuatan itu mesti diikat dengan bagaimana kita jadikan itu satu pelaporan pula pencapaiannya.
 
-[1:49:54] Kalau tidak dia jadi kertas akademik je lah. Tak ada pelaporan, tak ada pencapaian dan sebagainya kan. Sebab apa saya timbulkan benda ni. Ini cerita pasal sekolah juga. RMK 10. Sekolah sengai sering. Dah ada bajet, dah cerita, dah bincang. Kali ini...
 
-[1:50:13] Saya pergi mesyuarat baru ni, sedap je jawapan daripada PPD, minta maaf YB, perancangan sekolah tu dibatalkan.
+[1:38:49] Rodziah Ismail: Sebab saya saya anak polis tau. Dulu tak payah sebut pun memang kami dah jadi disiplin. Kalau hari kebangsaan kan, kita akan sendiri pasang bendera. Tak kiralah bendera tu dah berapa kali pakai pun kita simpan lepas tu. Dah jadi satu disiplin. Jadi kalau ada mana-mana rakyat Malaysia yang rasa terpanggil sebab Hari Merdeka nak meraikan begitu, tersilap pasang saja, pergilah nasihatkan saja. Jangan jadikan tu polemik politik yang sebenarnya orang gelakkan dia baliklah.
 
-[1:50:21] Can you imagine, we are waiting for 3 RMKs and it's done, it's done, suddenly it's gone. And then who suffers, the people suffer. So that's the mechanism to ensure that the planning happens. If by 2035 we hope that this pre-school will be implemented, who will make sure that it happens? If it doesn't happen, who is responsible?
 
-[1:50:45] Itu juga saya harap sangat kita ada satu mekanisme yang bagus Sebab saya rasa
 
-[1:50:52] Apa yang kita dah bincang, yang mereka dah habiskan masa turun padang itu, itu adalah benda yang bukan sengaja dibuat. Benda yang memang patut dibuat pada ketika ini kita jangka kan. Jadi that's my feeling. So whatever our focus.
+[1:39:23] Rafizi Ramli: Tapi saya tengok dekat sosial medialah kan, saya ada buat satu postinglah komen pasal bendera ni kan. Saya ingat lepas ni mak mesti aku kena kecam ni sebab orang Melayu semua ni marahkan ni kan. Actually that's not true tau. Sebenarnya dia dapat likes yang banyak, viral yang banyak. Jadi saya rasa kalau tidak berhati-hatilah, mereka yang menunggang bendera ni kan yang buat jadi isu politik benda, kadang-kadang dia hidup dalam bubble yang syok sendiri tau. Sebab silent majority ni yang orang biasa yang Melayu biasa ni, dia banyak lagi benda lain dan dia bukanlah tak nampak uncle tu tersalah pasang. Dia tersalah pasang, dia nak pasang kan. Jadi yang kau pergi bantai dia tu kenapa? Sedangkan benda-benda lain yang lagi penting ni tak ada pun kau bersuara semua kan. Jadi kalau terus menunggang benda-benda yang yalah yang orang kata form over substance macam ni, saya tak rasalah it's sustainable. Malah nasihat saya kepada yang muda-muda, that's not how you build your branding sebagai politician kan. Dengarlah sikit daripada kita orang yang dah tua sikit ni.
 
-[1:51:11] We are talking about the old generation, the young generation, we want to fix the situation. And this is the best rule. We have to have a commitment to implement it. Thank you, YB Roji. But, but,
 
-[1:51:27] Saya diminta oleh komuniti ini untuk
 
-[1:51:31] lebih menekan YB Roji Berapa masa do we have? Ada satu fan yang
+[1:40:34] Rodziah Ismail: Tapi lebih merisaukan, lebih merisaukan selain pada apa yang Raf sebutkan di sudut pandangan kenapa nak tunggang benda macam ni kan. Tapi yang merisaukan adalah kenapa kita tidak menjadikan budaya memperbetulkan, menasihati tu satu satu norm? Sekarang ni kecam aje kerjanya kan. Kita kena ubah. Let's rakyat Malaysia, mari kita sama-sama buat start from diri kita sendiri kan. Supaya you nak main politik tu satu ceritalah, tetapi janganlah sampai menganiaya. Ini pun buli juga ni.
 
-[1:51:38] Satu Okey
 
-[1:51:40] Satu soalan oleh seorang fan
 
-[1:51:43] Yang minta YB Rozia Hmm
+[1:41:10] Rafizi Ramli: Ini buli. Memang buli tu.
 
-[1:51:47] Kalau diberi peluang, bagaimanakah YB akan menyelesaikan isu-isu dalam kalangan masyarakat kami ini? Ada banyak tu. Like, there are like 4 issues here. Okay. A.
 
-[1:52:02] Diskriminasi berdasarkan bangsa, agama ataupun gender
 
-[1:52:10] B, korupsi dalam kalangan pejabat awam yang mengimpak masyarakat secara negatif. Ketiga, ke...
+[1:41:14] Victor Tan: Macam kita dah jadi macam sebuah masyarakat buli. So saya rasa macam like apa yang terjadi kepada adik Zara Qairina dan juga kepada anak YB Raf, it's like one of the many symptoms tau, like of a root cause of like this sort of bullying culture almost that has come up in our society. And yeah, so terima kasih untuk pandangan YB-YB sekalian. Dan sekarang ni, in the interest of time, so mungkin kita boleh transition kepada soalan-soalan yang berpunca daripada komuniti yang ingin menanya kepakaran YB-YB sekalian. Dan soalan ni dari Kamarul Amir yang bercakap: Di bawah RMK-13, sekarang ni ada pelan dalam mana budak-budak sepatutnya habiskan sekolah pada umur 16 umpamanya. Dan dalam podcast YB yang sebelum ni, so YB pernah cakap yang kalau kita tak buat benda ni, kalau kita tak raise the retirement age, maka 30-40 tahun yang akan datang, maka generasi yang seterusnya akan bayar untuk ketidakinginan ataupun kekurangan apa political will untuk berbuat begitu. Maka adakah pada pandangan YB, kerajaan mempunyai sekarang ni preparasi ataupun keinginan untuk menyelesaikan masalah-masalah yang YB telah tunjukkan dalam podcast yang sebelum tu? Dan bagaimanakah kita boleh memastikan keadilan antara generasi untuk apa semua kohort yang bekerja di negara ni?
 
-[1:52:24] Tidak upayaan untuk kalangan B40 untuk memegang pekerjaan untuk jangka masa lama dan akhirnya, apa?
 
-[1:52:39] domestic violence kepada kanak-kanak dan juga wanita wow orang ni wow it's like itu soalan tu soalan fokus satu lagi dan kalau boleh selesai part-part tu jadi Perdana Menteri jadi Perdana Menteri terus lah baik saya jaga Perdana Menteri terus kan pertama kan boleh tanya dengan Nurul Zan marah Izzah dia dah buk tapi itu itu mungkin soalan tu timbul sebabkan isu itu masih belum diselesaikan bertahun-tahun. Memang orang dia target YB Rozia. Tengok, YB Rozia, if given of YB Rozia.
 
-[1:53:21] Okay kalau kita tengok soalan yang ada tu Dia banyak kementerian lah yang terlibat kan
+[1:43:24] Rafizi Ramli: Dia dia you know dia mesti bermula dengan satu anjakan dasar yang radikal kan. Jadi itu sebenarnya fungsi RMK. RMK lah setiap 5 tahun, dia mesti ada visi yang anjakannya itu akan menjadi panduan kepada kerajaan dan masyarakat kan. Jadi dalam RMK-13 ini maksudnya ada satu penerimaan dan telah dipersetujui bahawa kita mesti bergerak ke arah itu kan. Jadi proses-proses itu selepas ini perlu berlakulah. Maksudnya contohnyalah, penyediaan peruntukan tahunan melalui belanjawan. Kalau kita kata untuk kita mencapai dan transisi itu mesti berlaku contohnya dalam tempoh 10 tahun, 2035 memang universal preschool umur 5 tahun, 6 tahun mula dan 16 tahun keluar, dan transisi itu mesti complete 2035, maka bajet untuk 2026, 2027 tu, you dah kena map out berapa sekolah, berapa cikgu, berapa peruntukan semualah kan. So kecualilah, kecuali yang akan berlaku kemungkinan-kemungkinannya kan, mungkin kerajaan kata, "Oh kita mungkin tak boleh buatlah," ataupun dia kata, "Okey, kita menukar dasar," kan. Yang itu akan dihakimi oleh rakyatlah. Mana kerajaan yang ada kemahuan politik, keberanian politik untuk membuat keputusan itu. Kerana bila kita dah bersetuju, sekarang tujuan saya berkeras masukkan dalam RMK-13 contohnya, perkara-perkara yang besar seperti ini, saya tak kata mudah. Ada orang kata, "Macam mana ni? Sekolah apa nama ni pusat asuhan, tadika, tabika semua ni pun semua tak cukup." Ha sebab tulah aku masukkan! Sebab selepas ini kena cukuplah! Jadi janganlah pergi beli kereta banyak-banyak ke, janganlah pergi luar negara banyak-banyak, supaya semua duit tu kita jimatkan dan kita utamakan untuk bina sekolah nilah kan. Jadi kalau ada contohnya kerajaan yang menukar dan lain-lain tu, maksudnya itu rakyat akan menghakimilah. Dan itu juga tugas orang macam sayalah untuk terus menyampaikan berita dan memberitahu bahawa, "Eh, you cannot continuously kick the can down the road. You tak boleh lari daripada masalah. Memanglah susah, itulah sebab kau jadi kerajaan kan." Dan kalau tidak, bukan sahaja kita tak boleh menjamin yang yang yang orang kata apa nama ni kesejahteraan yang lebih seimbang di antara generasi ni, dia akan melebarkan lagi kan. Jadi sebenarnya bila kita kata keadaan itu perlu diperbaiki kalau tidak akan berlaku situasi ini yang mana golongan milenial sekarang ini dan juga Gen Z akan menanggung beban ini, itu kalau kita tidak berjaya memperbaiki keadaan. Tapi contohnyalah kalau kita boleh strukturkan ekonomi kita, katakanlah dalam 10 tahun daripada sekarang, jurutera kita dah buat kapal terbang contohnya kan, kilang-kilang kita ni jadi gedung kilang bahan gajet elektronik paling mahal dalam dunia, kalau itu berjaya berlaku, maka gaji pun naik, laba keuntungan pun naik, maka kita akan berjaya menutuplah jurang yang kita unjur sekarang ini. Jadi cara untuk memastikan keseimbangan itu, sebab itu segala perubahan yang kita kata kena buat ini kena berlaku. Yang diletakkan di dalam RMK-13 dari segi reformasi pendidikan, reformasi pasaran buruh kan pasal gaji, kemudian pasal menstrukturkan balik ekonomi, itulah perkara-perkara yang mesti dibuat untuk memastikan generational fairness kan. Tapi kalau kalau kita hanya letak dalam RMK-13 lepas ni dia tak berlaku ataupun kalau bertukar kerajaan dia pergi tukar pula, then you know it's given lah yang kita akan ada jurang itu yang mana golongan anak-anak kita ni Kak Ogy nanti, mereka akan jadi lebih miskin daripada kita.
 
-[1:53:31] Okey, kalau boleh saya sentuh satu lah tentang diskriminasi dan sebagainya. Benda ni kita nak kata tak ada atas, dah ada atas. Okey, dia masalah keganasan, masalah diskriminasi semua tu, dia macam kita cakap patriotik tadilah. Dia perlu dalam pembentukan, pembentukan nilai, pendidikan dan sebagainya untuk kita tanamkan benda yang baik, yang betul itu.
 
-[1:54:01] Kalau kita biasa tengok violence, biasa rasa tak bersalah buat violence, benda tu akan bina dalam diri kita. Tapi kalau kita nak bercakap tentang dasar, saya teringat satu perjumpaan dengan satu ahli parlimen dari England.
 
-[1:54:21] Riau!
+[1:48:10] Rodziah Ismail: Tapi kalau kita dengar apa yang dibincangkan dengan yang dibentangkan dan dibincangkan sekarang, dah habislah petang tadi habis petang semalam kita habis semua tu. Tapi isu besar sekarang ni pelaksanaan. The commitment untuk kita melaksanakannya itu juga menjadi big question marks. Sebabnya dulu siapa siapa nak tahu nak nak nak ambil tahu tentang RMK-13 12, 11 semua tu? Tak ambil port pun. Rasanya RMK-13 ni yang paling semua orang tanya apa dia, nak nak tahu juga ada tak aspek ni, ada tak fokus itu. Tapi persoalannya bagaimana kita ya, kita telah bincang, dah debat, lepas tu di sudut pelaksanaan tu menjadi satu satu orang kata compulsory action kepada kementerian untuk laksanakan kan? Yalah nak rangka tu kerja kementerianlah untuk untuk mendetailkan lagi pencapaian itu. Sebab tu saya saya ingat perbahasan saya di parlimen kali ini, saya menegaskan supaya kalau ada mekanisma untuk kita ukur bagaimana RMK ini yang telah di-plankan dengan baik ini berjaya dilaksanakan. Kalau tak berjaya, maknanya siapa macam mana kita patut question balik dalam parlimen? Kena ada accountability di dalam parlimen yang setiap rancangan ini yang dah habis masa, dah plan betul-betul ni mesti diukur. Sebab kita semua bersetuju kan. Kita kita dah debate, dah bersetuju, dah bagi pandangan, tetapi kekuatan itu mesti diikat dengan bagaimana kita jadikan itu satu pelaporan pula pencapaiannya. Kalau tidak, dia jadi kertas akademik ajelah, tak ada pelaporan, tak ada pencapaian, dan sebagainya kan. Sebab apa saya timbulkan benda ni? Ni cerita pasal sekolah juga kan. RMK-10 ya, Sekolah Sungai Sering dah ada bajet, dah cerita, dah bincang. Kali ini saya pergi mesyuarat baru ni, sedap aje jawapan daripada PPD, "Minta maaf YB, perancangan sekolah tu dibatalkan." Can you imagine tiga RMK kita tunggu dan dah jadi kata dah nak buat, tiba-tiba tak ada. And then siapa yang suffer? Rakyat yang suffer. Jadi itu mekanisma memastikan perancangan tu betul terjadi. Kalau by 2035 kita harapkan universal school ni, preschool ni terlaksana, siapa yang akan pastikan benda berlaku? Kalau tak berlaku, siapa bertanggungjawab? Ha itu juga saya ingat harap sangat kita ada satu mekanisma yang yang baguslah. Sebab saya rasa apa yang kita dah bincang, yang yang mereka dah habiskan masa turun padang itu, itu adalah benda yang bukan sengaja dibuat, benda yang memang patut dibuat pada ketika ini kita jangka kan. Jadi that's my feeling. So whatever our focus, we are kita bercakap tentang generasi tua menjaga muda, kita nak perbetulkan keadaan, dan inilah kaedah yang terbaik kita kena ada komitmen untuk laksanakanlah.
 
-[1:54:22] Balik-balik kepada pendidikan. Dia kata dia manage to tahun bila ya? Tahun 2010 something like that. Dia kata masa dia jadi menteri pendidikan, dia minta supaya satu bajet khas yang luar biasa.
 
-[1:54:39] Untuk memperbetulkan masalah keganasan rumah tangga pada ketika itu Di England dia agak tinggi masa itu kan Jadi apa yang dia buat adalah Masa dia minta tu dia kata Keuangan itu adalah untuk Jadikan satu subjek khusus di sekolah
 
-[1:55:00] Tentang Kanak-kanak ini Dia bermula daripada pendidikan Sekolah tau Untuk mereka memahami Apa tu violence yang sebenar Kalau macam kata kes bully ke apa Ataupun domestic violence semua tu Di situ Apa yang saya nak sebutkan Dia kata kita tak boleh ukur Lagi Bila kita invest kepada pendidikan Dengan kita
+[1:51:24] Victor Tan: Terima kasih YB Rodziah. Tetapi tetapi, saya diminta oleh komuniti ini untuk lebih menekan YB Rodziah. Berapa masa do we have? Ada satu fan yang Satu? Okey. Satu soalan oleh sebuah seorang fan yang minta: YB Rodziah, kalau diberi peluang, bagaimanakah YB akan menyelesaikan isu-isu dalam kalangan masyarakat kami ini? Ada banyak lo, like there are like four issues here. Okey. A, diskriminasi berdasarkan bangsa, agama, ataupun gender. B, apa? Korupsi dalam kalangan penjawat awam yang mengimpak masyarakat secara negatif. Ketiga, ketidakupayaan untuk kalangan B40 untuk memegang pekerjaan untuk jangka masa lama. Dan akhirnya, apa? Domestic violence kepada kanak-kanak dan juga wanita. Wow like Orang ni wow it's like It's a question for another podcast.
 
-[1:55:23] How much money do we want to get back? Something like that. Meaning sometimes, the money we spend is for a much better investment. And he said after 10 years, he saw a drastic decrease. Because what, Rafizie, these kids, when they see that thing happening in their lives,
 
-[1:55:44] It's repeated again. Bila dia dah tua nanti, dia naturally dia akan jadi orang yang yang apa kata, yang violence lah. Dia desensitize violence. So dia, dia unconscious mind dia, dia rasa act tu betul.
 
-[1:56:01] So apa yang dia buat selain daripada hukuman yang lebih tinggi, yang lebih teruk, tapi pemahaman dia kata prevention itu lebih baik dengan memberikan pendidikan yang asas kepada mana yang betul, mana yang tak. Tapi bottom line maknanya memberi manusia itu.
+[1:52:50] Rafizi Ramli: Dan dan kalau boleh selesai empat-empat tu, jadi Perdana Menteri teruslah.
 
-[1:56:24] satu nilai ukuran yang baik itu akan menjadikan kita lebih baik. Okey, tentang korupsi yang berlaku,
 
-[1:56:32] Saya tunggu sangat ombudsman ini berlaku. Atau ombudsman ini, kita kena ada political will lah. Dah lama sangat, kerajaan ini kadang-kadang...
 
-[1:56:44] There is a unit integrity. If we want to have an in-depth issue, people see this, they want to report the unit integrity only in depth. But if we have an ombudsman, we can voice it or we can report it legally.
+[1:52:54] Rodziah Ismail: Jadi Perdana Menteri teruslah kan? Yang pertama kan.
 
-[1:57:11] Pelakuan-pelakuan rasuah yang ada di kalangan kaki tangan Jadi kalau kita nak cerita tentang penguatkuasaan lah The law yang mana yang baik Saya rasa kita tak boleh tangguh dah ombak semen tu Tetapi saya tak pasti kalau saya jadi menteri
 
-[1:57:28] Saya nak benda tu jalan dah sebab dah kaji lama.
 
-[1:57:32] Benda yang cepat yang patut kita buat perubahan ni kita kena buat. Kadang, tapi saya tak pasti kenapa delay tu berlaku lah. Tapi nak cakap dengan Victor lah.
+[1:52:59] Victor Tan: Bertanding dengan Nurul Izzah nanti.
 
-[1:57:43] If I were to be a minister, I wouldn't be interested in being a minister. We're on another island now. So if... Binda done that next time. That's it. Maybe that island will become Singapore. Thank you, YB Roji. We've been talking about this for two hours.
 
-[1:58:09] Tetapi izinkan saya tamati sesi ini dengan satu lagi soalan terakhir yang akan juga gunakan evidence sikit.
 
-[1:58:22] So, setakat ni YBYB sekalian telah lantang bersuara tentang kes buli dan sistem pendidikan, kompleksiti, kalau buat yang macam ni mungkin sangat rumit. Tapi saya nak tujukan soalan ni kepada...
+[1:53:01] Rafizi Ramli: Marah Izzah nanti, dia dah book Kak Ogy.
 
-[1:58:41] Well, YB Rafizi. And this is actually related to MCKK. So, YB... What's your fixation with MCKK? I mean, like...
 
-[1:58:53] I have a fascination with certain institutions of certain sociological things that they represent. For example, Harvard, for example, right?
 
-[1:59:05] I have some students who went there, and interestingly enough, actually, one of them actually became the top student in the entirety of Harvard University, which is interesting. I might actually talk to him on my podcast, Malaysia, by the way. But anyway, back to this idea right here.
+[1:53:06] Rodziah Ismail: Tapi itu itu mungkin soalan tu timbul sebabkan isu tu masih belum diselesaikan bertahun-tahun.
 
-[1:59:21] So, in a society, maybe half of the institutions will maybe gather an individual group that may have the same interests. So, so far, YBYB has said that maybe we have to focus on quality education. But what we also understand is
 
-[1:59:48] Dalam kehidupan ni, mungkin ada sebuah hidden curriculum. It's about not just what you know, but also who you know. Dan saya akan baca daripada teret yang pernah YB tuliskan.
 
-[2:00:02] Have you ever had a friendship so intense that it influenced your life so much? Well, I did. Dan ini adalah berkaitan dengan... So, ingat korang semua sekalian. Nama anak YB Rath adalah Ben. Dan...
+[1:53:14] Victor Tan: Memang memang orang ni dia dia target YB Rodziah tau. "YB Rodziah, if given YB Rodziah..."
 
-[2:00:19] Ini adalah satu lagi band dan ini adalah pemacu amanat negara ataupun yang sekarang ini dikenali sebagai UKEC ala Yaham Adlan Benan Omar yang dahulunya merupakan lulusan Cambridge University dalam history dan law kan? History and law.
 
-[2:00:46] dan juga merupakan tokoh yang telah memacu UK EC ke
 
-[2:00:52] Where did it become a place? It's the same as Kauji, right? He was the first youth secretary, right? Kauji was the first female secretary. So, Kauji knew Ben first, right? He knew Ben first. He was the first female secretary. Kauji knew Ben first. I knew Ben first. Because he was the founding secretary of Wansa. Ben was the founding secretary of Pemuda. Yes, yes, yes. Okay. So,
+[1:53:22] Rodziah Ismail: Okey, kalau kalau kalau kita tengok soalan yang yang ada tu, dia banyak banyak kementerianlah kan yang terlibat kan. Okey, kalau boleh saya sentuh satulah tentang diskriminasi dan sebagainya ini, benda ni kita nak kata tak ada akta, dah ada akta, okey. Dia dia masalah keganasan, masalah diskriminasi semua tu, dia macam kita cakap patriotik tadilah. Dia perlu dalam pembentukan ya pembentukan nilai, pendidikan, dan sebagainya untuk kita tanamkan benda yang baik, yang betul itu. Kan? Kalau kita biasa tengok violence, rasa tak bersalah buat violence, benda tu akan binalah dalam diri kita kan. Tapi kalau kita nak bercakap tentang dasar ya tentang dasar, saya teringat satu perjumpaan dengan satu ahli parlimen dari England ya. Dia balik-balik kepada pendidikan. Dia kata dia manage to tahun bila ya? Tahun 2010 something like that kan. Dia kata masa dia jadi Menteri Pendidikan ya, dia minta supaya satu bajet khas yang luar biasa untuk memperbetulkan masalah keganasan rumah tangga pada ketika itu ya di England agak tinggi masa tu kan. Jadi apa yang dia buat adalah masa dia minta tu dia kata kewangan itu adalah untuk jadikan satu subjek khusus di sekolah tentang kanak-kanak ini. Dia bermula daripada pendidikan sekolah tau untuk mereka memahami apa itu violence yang sebenar. Kalau macam kata kes buli ke apa ataupun domestic violence semua tu, di situ. Apa yang saya nak sebutkan, dia kata kita tak boleh ukur lagi bila kita invest kepada pendidikan dengan kita cakap berapa ROI kita nak dapat balik, something like that. Makna sometimes duit yang kita spend itu adalah untuk investment jauh lebih baik. Dan dia kata after 10 years, dia nampak pengurangan agak drastik. Sebab apa Rafizi, budak-budak ni dia bila tengok benda tu berlaku di dalam dalam kehidupan dia, it's repeated again bila dia dah tua nanti. Dia naturally dia akan jadi orang yang yang apa orang kata yang violencelah, yang violence.
 
-[2:01:18] If we look at it, and by the way, why I'm on this podcast is because I crashed the UKC event. And after that, during YB Rafizi's speech, I've trolled the speech. And yeah, so I want to ask,
 
-[2:01:40] So, does YBYB feel that there is a role for elite education in this era? Or has the community been so divided from the road to the path in which elite education is no longer relevant? And indeed, as a community, we need to
 
-[2:02:07] And MCKK, and also Squadlight Elite, SPP and so on, they've served their purpose. Now they've become havens of bullying or whatever, and they no longer serve a role, we need to move on. What are your views on YBYB?
+[1:55:54] Rafizi Ramli: Dia desensitized bagi dia.
 
-[2:02:22] I answered first, right? I'm the one who's in boarding school, right? Yes. No, I think it's a dangerous thinking. Right? I actually believe that people should make choices. The government's job in...
 
-[2:02:41] menguruskan masyarakat ialah bukan menentukan masyarakat
 
-[2:02:47] tugas kerajaan untuk saya terlebih dahulu dan terutamanya adalah untuk menyediakan
+[1:55:56] Rodziah Ismail: So dia dia unconscious mind dia, dia rasa act itu betul. So apa yang dia buat, selain daripada hukuman yang lebih tinggi, yang lebih lebih lebih teruk, tapi pemahaman, dia kata prevention itu lebih baik dengan memberikan pendidikan yang asas kepada mana yang betul, mana tak. Tapi bottom line maknanya memberi manusia itu satu nilai ukuran yang baik, itu akan menjadikan kita lebih baik. Okey, tentang corruption yang berlaku, saya tunggu sangat ombudsman ni berlaku. Ya, akta ombudsman ini kita kena ada political will lah. Kan? Dah lama sangat pegawai-pegawai kerajaan ini kadang-kadang dia ada unit integriti kan, unit integriti. Kalau kita nak dalaman punya isu, orang tu nampak nak nak sesiapa yang nampak perkara ini, nak laporkan, unit integriti saja yang yang secara dalaman. Tapi kalau kita ada ombudsman, ya kita boleh menyuarakan ataupun kita boleh melaporkan secara legal perlakuan-perlakuan rasuah yang ada di kalangan kakitangan. Jadi kalau kita nak cerita tentang penguatkuasaanlah, the law yang mana yang baik, saya rasa kita tak boleh tangguh dah ombudsman tu. Tetapi saya tak pasti kalau saya jadi menteri, saya nak benda tu jalan dah sebab dah kaji lama. Benda yang yang yang cepat yang patut kita buat perubahan ni kita kena buat. Kadang tapi saya tak saya tak pasti kenapa delay tu berlakulah. Tapi nak cakap dengan Victor lah, kalau saya jadi menteri, sebenarnya saya tak minat pun jadi menteri.
 
-[2:02:52] a floor of what should it do. So, in terms of income, socioeconomic, it must have a floor. So that the people below need to join hands with the government to bring it there. It's the same with education. There must be a floor of an acceptable quality to everyone. Now, when you do that, the question of MCKK or all schools, it doesn't arise anymore.
 
-[2:03:18] It's emerging now because of the elite schools and all this. Because as Oji said, the quality is that the parents think they need to go to a certain school so that their children have a future. That is the problem. So I think if the quality is all, people don't want to send it to MCKK or TKAC or anything. Then allow them to explore and move on their own. Because they have a niche market.
 
-[2:03:47] And what is this? If there are people who believe in the elite, so-called elite. And I think even this whole notion that you go to MCKK, you know who, that's not true. Actually, I mean it's like, there are things like that. But by and large, I think,
+[1:57:48] Rafizi Ramli: Kita kita dah kita dah ke pulau lain dah sekarang ni.
 
-[2:04:10] Majoriti of lepasan MCKK ni 80% or so sebenarnya hidup seperti orang biasa. Seperti abang saya. Ha kan? Abang Kak Oji MCKK. My brother is MCKK. Hidup seperti orang biasa kan? They choose not to be. Ha. Cuma every now and then dia ada apa nama ni karakter yang public figure daripada MCKK. Sebagainya, from every batch yang ada 100 people, adalah 2-3 orang. But these 2 or 3 people, myself, Anwar, Ibrahim, we do not characterise MCKK sebenarnya kan. Adalah yang cuba nak dapatkan connection sebab dia MCKK, tapi kau datang depan saya, memang aku baling kusi lah.
 
-[2:05:02] You notice I never wear the Thai sangat ke apa semua. Makobah. Haa, makobah ke apa. Saya tak. Because, you know, I value MCKK for the value it taught me. You know, for the underdogs, for working hard. Some of those values tu memang legacy daripada dulu-dulu. Contohnya MCKK is very, to be fair to MCKK, it's very democratic.
 
-[2:05:27] You anak orang susah pun, ini masa my time lah, now I tak tahu eh. You know, the idea is that of to take 113 year old kan, dalam batch tu ada anak kerabat raja, ada anak orang kaya, ada anak nelayan, ada anak orang susah. But nobody gives a damn of your background. You are judged solely by, you cedek ke tidak, you rajin ke tidak, you main sports ke tidak. Sebab tu every batch, dia tak ada a set template tau. kita orang memang jenis yang laid back
+[1:57:52] Rodziah Ismail: Ha jadi kalau been there, done that punya stail tau kan. Ha itu aje.
 
-[2:06:00] You know, we don't pay that much attention to all this. Kena nampak kaya ke apa semua. So my batch test only about a few of us who actually have public profile.
 
-[2:06:12] or corporate profile, the rest are biasa kan. So, they, in the future, the purpose that they were set up in the first place, take MCKK kan, the purpose to produce aristocrats or top bureaucrats to take over the country and manage the country, memang dah lama pun tak ada kat MCKK tu. It's just another school.
 
-[2:06:34] Because time change and the reason why that happens is because as the quality of education across the board is lifted, then people have more choices. And you know, if you go to MCKK, like my son, sometimes you know, if the issue about
+[1:57:58] Victor Tan: Mungkin pulau itu akan jadi Singapura ke? Terima kasih YB Rodziah. Dah dua jam kita bersembang ini, tetapi izinkan saya tamati sesi ini dengan satu lagi soalan terakhir yang akan juga gunakan evidence sikit. So setakat ni YB-YB sekalian telah lantang bersuara tentang kes buli dan sistem pendidikan, kompleksiti, kalau buat yang macam ni mungkin sangat rumit. Tapi saya nak tujukan soalan ni kepada well YB Rafizi, dan ini sebenarnya berkaitan juga dengan MCKK. So YB...
 
-[2:06:56] Kalau dia tanyalah, dia nak pergi boarding school ke tidak, dia disini boarding school macam mana. Dia cakap, well, if you want to go to 100-year-old toilet, then you can consider MCKK lah. Kan? It's a 100-year-old toilet. Yang flush dia tu masih lagi besi tau. You know, it's literally steel. Kan? Jadi, it's such an old school where you jalan atas lantai tu bungi. So, back then, masa itu, dia kira hebat. I'm not going to send my son there. Kan? Jadi...
 
-[2:07:30] The reason why this discussion, you know, whether elite education perlu ada semua tu kan, and now if you ask people, orang akan kata apa yang elitnya MCKK-nya, garden international lagi elit.
 
-[2:07:46] some Marlborough College is more elite. So, you know, the moment the discussion is to me quite divisive like that, then there's no end to it. Because of that, the government's duty, and my view, is basically to provide for the majority so that they have the same opportunity. Those who can afford,
+[1:58:50] Rafizi Ramli: Ada saja fixation with MCKK ni.
 
-[2:08:10] to have a different, to provide differently, so long as they can afford, then they should be given that choice and therefore, the market akan create sendiri. International school ada. Why? Because ada market.
 
-[2:08:24] Boarding school will be there because there is a market for it. But so long as people don't have to go to MCKK, you can actually get the same education in Ampang or Pandan, I think then the government has done a good job. And therefore, the focus should be that, not who this MRSM is for, MCKK, you know, I think that doesn't help us much. And then maybe, I don't know, because I've never,
 
-[2:08:50] Duduk pada body school or elite school kan The character building Actually It depends on Macam mana Di mana dia dapat Ataupun siapa yang mencorak dia
+[1:58:53] Victor Tan: I mean like I have a fascination, you know, with like certain institutions cause like of certain sociological things that they represent. Like for example Harvard for example, right? I have some students who went there, and interestingly enough actually one of them actually became the top student in the entirety of Harvard University, which is interesting. I might actually talk to him on my podcast, Malaysian by the way. But by anyway, like back to this idea right here. So dalam sesebuah masyarakat, mungkin sesetengah institusi akan mungkin kumpulkan sekumpulan individu yang mungkin ada minat yang sama. So setakat ni YB-YB sekalian telah bercakap bahawa mungkin kita kena fokus kepada pendidikan yang berkualiti. Tetapi apa yang kita juga faham kan adalah dalam kehidupan ni mungkin ada sebuah hidden curriculum, it's about not just what you know but also who you know. Dan saya akan baca daripada thread yang pernah YB tuliskan: "Have you ever had a friendship so intense that it influenced your life so much? Well, I did." Dan ini adalah berkaitan dengan so ingat kau orang semua sekalian, nama anak YB Raf adalah Ben. Dan ini adalah satu lagi Ben, dan ini adalah pemacu Amanat Negara ataupun yang sekarang ni dikenali sebagai UKEC, Allahyarham Adlan Benan Omar yang dahulunya merupakan lulusan Cambridge University dalam history dan law kan? Law, history and law. History dan law, dan juga merupakan tokoh yang telah memacu UKEC ke tempat mana ia menjadi tempat...
 
-[2:09:04] Ya the character building Contoh macam Saya ada tiga anak kan Now they all engineers kan Engineers kan So Masa dulu Dia nak masuk MRSM
 
-[2:09:15] Dia ada nak masuk MRSM ke tak pergi ke Saya kata sekolah ni sepatutnya semua sama apa yang dia ajar Silibus kan sama saya cakap Yang bezakan dia adalah disiplin dia untuk dia mencapai apa yang dia nak
 
-[2:09:29] So saya kata It's up to you Kan Tetapi
+[2:00:56] Rafizi Ramli: Sama Kak Ogy kan, Setiausaha Pemuda pertama kan? Kak Ogy Setiausaha Wanita. Masa Kak Ogy kena ban dulukan?
 
-[2:09:34] Saya rasa tak ada ibu bapa yang nak tengok anak-anak tak berjaya Tetapi menjadikan ianya macam elit orang tertentu saja itu salah Itu salah Sepatutnya dia terbuka pada semua layak masuk dan sebagainya Tetapi persoalan kita sekarang ini
 
-[2:09:49] mungkin jugalah apa yang Victor nak nak semua sampaikan ni apakah kita nak mengekalkan MCKK ke whatever Kursyah ke semua-semua ni dalam keadaan yang terlalu elit lagi ataupun kita nak kembali macam dulu balik tapi itu actually sebenarnya that one I contest that is a misconception sebenarnya MCKK was elit dulu in the 50s 60s because it's a federal Dapat segala peruntukan the best teachers. Have you been to MCKK sekarang? Tak.
 
-[2:10:24] Actually, the budget is less than the school in KL. Because it's just another school. The teachers are from there. So, you know, what elite of it? They don't have any beautiful buildings. So, this focus that you know is a special, it's not right. It's actually wrong because the school is underfunded.
+[2:01:02] Rodziah Ismail: Kena ban dulu daripada sekolah. Kak Ogy kena ban dulu.
 
-[2:10:49] I mean, running a school yang 120 tahun, maintenance dia mahal semua, you cannot buat sama. Tapi because of budget yang tak cukup, sama macam semua sekolah lain, so the deterioration, semua tu, physical deterioration is a lot worse. It is what it is now kerana alumni ship in.
 
-[2:11:09] parents chip in and the parent alumni chip in because of that hundred years worth of ethos that you know you know we we have a tradition and culture of excellence that we must produce and we must defend if anything you want to replicate the same ethos that's why it should happen
 
-[2:11:31] Tapi sekarang dalam sistem sekolah kerajaan, tak ada special status school tau. There's no. Tak ada. That's why I say it's a misconception. I have never actually visited MCKK before. I mean like if you're visiting one day then like I'm happy to be proven wrong but... I think you will change your mind. Kerana now old boys and parents always have to raise our own money and chip in in order even to fix the infrastructure. So in that sense If you Are more privy to things All this talk about Elite and so on ni Actually tak betul Sekolah asrama penuh semua ni Because they are old kan 70 years 100 years 120 years macam MCKK kan Actually dia dapat bajet yang sama je Sedangkan The expectation Kemudian The physical deterioration tu Is a lot worse than a new school Sebab itu you tengok Sekolah di Putrajaya Sekolah-sekolah baru ni jauh lagi hebat daripada sekolah-sekolah asrama yang dulu-dulu. Kan? So...
+[2:01:05] Rafizi Ramli: I kenal Ben dulu. Kak Ogy the other the other founding secretary of Wanita. Ben was the founding secretary of Pemuda.
 
-[2:12:38] So, the whole discussion about the quality, sebab kita biasanya bila kita bercakap pasal pendidikan ni, kita ni suka bermusim-musim tau. Masa musim buat yang ni kita buat, betul kita tinggal, kita buat benda lain pula. So, eventually everything that starts well, it deteriorates. So, there is a challenge yang sebenarnya in our system, actually not for a particular school and so on. YB Raf dan YB Roji for that incredible conversation learn a lot and so thank you for your time and for having me on this podcast as well, it's an honour and yep, dengan itu so kita akan tamatkan sesi ini selamat negara ku akan datang, sorry selamat hari merdeka
 
-[2:13:31] Hari Merdeka Oh Nanti kena kecam tu Hahaha
 
-[2:13:35] Thank you again to all of you YBs. So I hope that you enjoyed the flags and thank you for that conversation. And that's it.
+[2:01:15] Rodziah Ismail: Pemuda.
+
+
+
+[2:01:18] Victor Tan: Um, so kalau kita tengok, and by the way why I'm on this podcast adalah sebab saya crash event UKEC tu, dan lepas tu masa ucapan YB Rafizi, aku dah duk troll ucapan tersebut, dan ya so saya nak minta. So adakah YB-YB sekalian terasa bahawa ada peranan untuk pendidikan elit dalam zaman ini, ataupun adakah masyarakat telah kian beredar daripada pangkalan jalan kepada a path dalam mana pendidikan elit itu tidak lagi relevan? Dan memang sebagai sebuah masyarakat, kita perlu ubahkan, dan MCKK dan juga sekolah elit, SBP dan sebagainya, they've served their purpose, now they become havens of bullying or whatever, and they no longer serve a role, we need to move on? Apakah pandangan YB-YB sekalian?
+
+
+
+[2:02:22] Rafizi Ramli: I saya jawab dululah kan sebab saya yang boarding school ni kan. No, I think is a dangerous thinking kan. Saya sebenarnya believe that people should make choices. Tugas kerajaan dalam menguruskan masyarakat ialah bukan menentukan masyarakat. Tugas kerajaan to me, first and foremost, is to provide a floor of of what should do. Jadi kalau dari segi pendapatan sosioekonomi, dia kena ada floor supaya orang yang di bawah itu perlu campur tangan kerajaan to bring it there kan. Sama juga dengan pendidikan, there must be a floor of an acceptable quality kepada semua. Now when you do that, dia soal MCKK ke semua sekolah ni tak timbullah. Dia timbul sekarang pasal oh elite school lah ini semua ni kerana macam Kak Ogy kata, kualiti itu ibu bapa rasa dia perlu pergi ke sekolah tertentu baru anak dia ada masa depan. That is the problem. Kan? So I think kalau kalau kualiti tu semua, orang tak nak hantar pun kat MCKK ke, kat TKC ke apa. Then allow them to explore and move on their own because they have a niche market. Dan dan apa nama ni kalau ada orang yang yang believe in the elite so-called elite, and I think even you know this whole notion yang pergi ke MCKK you know who semua, that's not true tau Victor. Actually I mean it's like adalah yang macam itu, tetapi by and large I think majority of lepasan MCKK ni, 80% or so, sebenarnya hidup seperti orang biasa.
+
+
+
+[2:04:18] Rodziah Ismail: Seperti abang saya.
+
+
+
+[2:04:19] Rafizi Ramli: Abang Kak Ogy MCKK ah?
+
+
+
+[2:04:21] Rodziah Ismail: My brother is MCKK.
+
+
+
+[2:04:22] Rafizi Ramli: Hidup seperti orang biasa kan.
+
+
+
+[2:04:24] Rodziah Ismail: They choose not to be in politics.
+
+
+
+[2:04:26] Rafizi Ramli: Cuma every now and then, dia ada apa nama ni karakter yang public figure daripada MCKK and you know because of ethos of MCKK ni, leadership dan sebagainya, from every batch yang ada 100 people, adalah dua tiga orang. But these two or three people, myself, Anwar Ibrahim, we do not characterize MCKK sebenarnya kan. Adalah yang cuba nak dapatkan connection sebab dia MCKK, tapi kalau datang depan saya memang aku baling kerusilah. You notice I never wear the tie sangat ke apa semua. MCOBA ke apa, saya tak because you know I value MCKK for the value it taught me. You know for the underdogs, for working hard. Some of those values tu memang legasi daripada dulu-dulu. Contohnya MCKK is very to be fair to MCKK, is very democratic. You anak orang susah pun, ini masa my time lah, now I tak tahu eh, you know the idea is that of to take 113-year-old kan, dalam batch tu ada anak kerabat raja, ada anak orang kaya, ada anak nelayan dan anak orang susah, but nobody gives a damn of your background. You are judged solely by you cerdik ke tidak, you rajin ke tidak, you main sport ke tidak. Sebab tu every batch dia tak ada a set template tau. My batch contohnya kita orang memang jenis yang laid-back. You know we we don't pay that much attention to all this, kena nampak kaya ke apa semua. So my batch there's only about a few of us who actually have public profile or corporate profile, the rest are biasa kan. So the in the future the the purpose that that they were set up in the first place, take MCKK kan, the purpose to produce aristocrats or top bureaucrats to take over the country and manage the country, memang dah lama pun tak ada kat MCKK tu. It's just another school kan. Jadi because time change and the reason why that happens kerana as the quality of education across the board is lifted, then people have more choices. And you know if you go to MCKK lah kan, tanya my my son kan, sometime you know kalau diisu about kalau ditanyalah dia nak pergi boarding school ke tidak, Daddy punya boarding school macam mana? I cakap, "Well, if you want to go to 100-year-old toilet, then you can consider MCKK lah." Kan? It's a 100-year-old toilet yang flush dia tu masih lagi besi tau. You know it's literally steel kan. Jadi it's a such an old school where you jalan atas lantai tu bunyi, you know the So back then masa itu dikira hebat. Now a lot of contohnya urban parents cakap, "I'm not going to send my my my son there," kan. Jadi the reason why this discussion, you know, whether elite education perlu ada semua tu kan, and now if you ask people, orang akan kata apa yang elitnya MCKK-nya, Garden International lagi elit. Some Marlborough College is more elite kan. Jadi you know the moment the discussion tu is is to me quite divisive seperti itu dan there's no end to it. Sebab itu tugas kerajaan in my view lah kan, is basically to provide for the majority so that they have the same opportunity. Those who can afford to have a different to provide differently, so long as they can afford, then they should be given that choice, and therefore the market akan create sendirilah. International school ada, why? Because ada market. Boarding school nanti ada because memang ada market for it. But so long saya orang tak payah susah payah nak pergi MCKK, you can actually get the same education dekat Ampang or Pandan, I think then the government has done a good job, and therefore the focus should be that. Not MRSM ini kepada siapalah, MCKK, you know I think that doesn't help as much lah.
+
+
+
+[2:08:48] Rodziah Ismail: And then maybe tak tahulah sebab saya tak pernah duduk dalam boarding school or elite elite school kan. The character building actually is is is depends on macam mana di mana dia dapat ataupun siapa yang mencorak dia. Ya, the character building. Contoh macam saya ada tiga anak kan, now they are all engineers kan, engineers kan. So masa dulu dia nak masuk MRSM, dia ada nak masuk MRSM ke tak pergi ke, saya kata sekolah ni sepatutnya semua sama apa yang diajar. Silibus kan sama, saya cakap. Yang bezakan dia adalah disiplin dia untuk dia mencapai apa yang dia nak. So saya kata it's up to you kan. Tetapi saya rasa tak ada ibu bapa yang nak tengok anak-anak tak berjaya, tetapi menjadikan ianya macam elit orang sesetengah aje, itu salah. Itu salah. Sepatutnya dia terbuka pada semua, layak, masuk, dan sebagainya. Tetapi persoalan kita sekarang ini mungkin jugalah apa yang Victor nak nak sampai-sampaikan ni, apakah kita nak mengekalkan MCKK ke whatever, Kolej Yayasan Saad ke, semua-semua ni dalam keadaan yang terlalu elit lagi, ataupun kita nak kembali macam dulu balik?
+
+
+
+[2:10:06] Rafizi Ramli: Tapi itu actually, sebenarnya that one I contest. That is a misconception.
+
+
+
+[2:10:11] Rodziah Ismail: Misconception sebenarnya.
+
+
+
+[2:10:13] Rafizi Ramli: Sebenarnya MCKK was elite dulu in the 50s, 60s because it's a federal school.
+
+
+
+[2:10:19] Rodziah Ismail: That's it.
+
+
+
+[2:10:20] Rafizi Ramli: Dia dapat segala peruntukan, the best teachers semua. Have you been to MCKK sekarang? Actually bajet dia lagi kurang daripada sekolah kat KL ni tau. Ya, because it's just another school. Cikgu-cikgu daripada situ aje. So so you know what what elite of it? Dia tak ada apa, bangunan dia aje yang cantik semua kan. Jadi this focus that you know is a special, it's not right. It's it's actually wrong because the school is underfunded. I mean running a school yang 120 tahun, maintenance dia mahal semua. You cannot buat sama. Tapi because of bajet yang tak cukup, sama macam semua sekolah lain, so the deterioration semua tu, physical deterioration is a lot worse than a new school. Sebab tu you tengok sekolah di Putrajaya, sekolah-sekolah baru ni, jauh lagi hebat daripada sekolah-sekolah asrama yang dulu-dulu. Kan? So hence the whole discussion about the quality. Sebab kita biasanya bila kita bercakap pasal pendidikan ni, kita ni suka bermusim-musim tau. Masa musim buat yang ni, kita buat. Lepas tu kita tinggal, kita buat benda lain pula. So eventually, everything that starts well, it deteriorates. So that is the challenge yang sebenarnya in our system, actually not for a particular school and so on lah.
+
+
+
+[2:11:06] Victor Tan: All right, so thank you YB Raf and YB Rodziah for that incredible conversation. Learned a lot, and yeah, so thank you for your time and for having me on this podcast as well. It's an honor. And yep, dengan itu, so kita akan tamatkan sesi ini. Selamat Negaraku akan datang. Sorry, selamat Hari Merdeka. Hari Merdeka, oh nanti kena kecam tu.
+
+
+
+[2:11:38] Rodziah Ismail: Negaraku, okey.
+
+
+
+[2:11:39] Victor Tan: Oh tak apa, tak apa deh. Kalau kalau nanti duduk, nanti kena kecam lebih teruk lagi. But yeah, thank you again to both of you YBs. Yeah, so I hope that you enjoy the flags, and yeah, so thank you for that conversation. Yeah, and that's it.
 
