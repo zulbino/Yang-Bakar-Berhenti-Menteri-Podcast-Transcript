@@ -7,798 +7,4604 @@ publish_date: '2026-02-20'
 duration_seconds: 9483
 duration: 2h 38m
 view_count: 181982
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+model: gemini-3-flash-preview
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[02:24] Kita terpaksa mulakan podcast kita lambat sikit tadi YB Sebab memberi laluan kepada bunyi mercun CNY yang agak
+[02:24] Speaker 1: Kita terpaksa mulakan podcast kita lambat sikit tadi, YB, sebab memberi laluan kepada bunyi mercun CN-Y yang agak panjang.
 
-[02:33] Panjang. Tak pergi salam lagi. Assalamualaikum. Waalaikumsalam warahmatullahi wabarakatuh. Dan selamat berpuasa. Selamat berpuasa. Dia ada dua kompon sekali dah. Dan selamat tahun baru Cina. Sebab kita ada cincong hari ni. Kita ada cincong hari ni. YB cincong. Sekali aku je. Selama je panggil cincong. YB, how are you YB? Good, good. Tapi tadi tu, yang awal-awal tu pun tak betul. Sebab kau kata kita kena memulakan siaran. Siaran mula tepat jam pukul 10. Ya. Cuma dia dirakam awal. Ya. Jadi rakaman. Kita rakam lambat hari ni. Lambat sedikit. Lambat lebih kurang tujuh minit. Kerana ada mercun tahun baru Cina. Ya. Wabi. Cengcung walaupun cuti-cuti ni. Datang ke podcast ni. Eh dah mula kerja dah. Oh dah mula kerja. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerja lah. Siapa kena buka kedai lah. Mood masa raya lah. Mood masa raya. Badan kena kerja. Okey-okey. Baik Wabi. Jadi mungkin sebelum kita start Saya pakai baju Melayu Color merah Barulah kena Ramadhan Dan juga Tahun baru Cina Tapi sebab Haziq dah pakai Saya dah neutralize kan lah Walaupun tak merah sangat pun Kalau tidak nanti jadi Macam boreang Tapi tak apa Sebab aku dah pakai Apa nama ni Dia panggil apa ni Ni bukan Chong Sam Ni bukan lah It's just baju raya Baju Oh ni bukan Chong Sam Chong Sam yang perempuan tu So dia tak ada nama spesifik name untuk baju ni yang YB pakai yang ketat tu kan tapi viral mana ada ketat oh tak ketat mana ada ketat itu saya XL kan saja je tapi post tu viral tapi ada orang kata mula aku tak faham ada orang duk komen ini baju AI ke ini baju AI ke aku mula-mula tak faham apa pula aku pakai baju susah payah kan rupanya sebab kononnya pimpinan PAS buat apa nama ni, buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI. Itu memang susah payah sebut terbelit didah. Baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Itu memang Saya dapati post tu memang viral sekali Dan mungkin post yang terviral Tahun ni Post yang terviral tahun ni Saya sedar Dekat Facebook sahaja Dah dekat 1 million view kan Just nice nanti kita nak sentuh pasal
 
-[05:21] Mandarin dengan lidah yang berbelik lepas ini. Mungkin sebelum start beria lah, ala-ala macam biasa, kita biasa akan tanya guest kita lah. Mungkin penonton, saya nak tahulah, ada penonton pun nak tahu juga. Okay. Your first experience dengan YB Raf mungkin? Oh tu dah lama dah, saya rasa kita mula jumpa kat mahkamah tapi... Mahkamah. Untuk memberikan sokongan. Eh dah, no no no no. Tengok Cincong lupa Masa tu Cincong adalah pegawai penyelidik Dato' Sri Anwar Ibrahim You were research officer Dato' Sri Anwar tahun 2008 ke 2012 Sebelum you bertanding first time Di Semambu 2013 So saya selalunya menulis ucapan Untuk Dato' Sri Anwar Ucapan parlimen dia That's how kita mula lias Dengan Siapa seorang lagi tu? Wei Heng Cuma Chin Chong 2013 Mula bertanding So sebelum tu lah Sebelum tu But remember kita jumpa Masa tu bila Rah baru Balik Or baru like Come back to party Come back Be back dekat Chin yang perkenalkan kita Siapa? Chin Kemamat Oh Chin Kemamat Ya ya Chin Kemamat Itu must be Untuk pemilihan
 
-[06:50] cabang 2010 kan that was the first time saya kembali sebelum tu saya jawatan semua dekat pusat saya tak pernah bertanding dekat cabang jadi 2010 dan
+[02:34] Speaker 2: Tak bagi salam lagi.
 
-[07:05] Yalah kesian. Kemaman adalah bersebelahan dengan Indera Mahkota. So Cincong di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat kan? Dekat-dekat, sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua. Dua-dua, Pantai Timur. Okay, baik baby. Kita terus ke segmen. Cincong kurang bernasib baik hari inilah. Kerana dijemput, sebab kita jemput jadual ni memang kita tentukan awal kan. Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas itu panas. Jadi Cincong kena hadir pada sesi, pada podcast yang panas. Jadi lepas ini kena kejar dengan Chaplos. Tak apa. YB ready? Kita jumpa. Ready. Baik.
 
-[07:55] Kita.. Ni kalau bunyi bising kat luar tu.. Sebabnya ada orang potong rumput. Potong rumput.. Motor lalu dengan main merco. Main merco lah. Pagi-pagi sebab tu selalunya kita tak buat pagi lah. Pagi ni macam-macam lah. Ada orang potong rumput lah kan. Jadi kalau dengar bising sikit tu orang potong rumput ni. Tapi tu membuktikan satu lah baby. Studio kita bukan kat Menara Ilham lah. Tak tak tak. Sebab ada tuduhan. Nanti kita akan tengok next. Oh iya ke? Ada tuduhan. Kata studio kat Menara Ilham. Saya boleh jadi saksi lah Tempat ni tempat memang Rakyat lah kan Tempat rakyat eh Nak parking pun susah Dia di rumah kedai Okay Alright Okay berapa pun Kita tengok beria Yang pertama ni mungkin kita start Mile sikit lah eh
 
-[08:41] Ya
+[02:35] Speaker 1: Assalamualaikum.
 
-[08:43] Isu Bersatu Bergaduh
 
-[08:46] Tetapi menolak Muhyiddin berpaksikan tutup agama. Ini Wan Faisal yang cakap. Dia punya level menonggang itu kan. Sebab itu saya menasihatkan kepada Cincong. Mungkin tuan-tuan politik janganlah menonggang agama. Sebab bila dia mula menonggang agama ni dia ketagihan tau. Sebab dia kerja shortcut kan. PKR ataupun PH lah Semua tu diletakkan dalam lensa agama lah Menunggang agama Sekarang terbawa-bawa Dia bergaduh sama dia Sama Islam Sama Melayu Sama totok bersatu
 
-[09:31] Sekarang dia dah berpaksikan tuntutan agama. Tapi dia belajar dengan cepat lah. So fast learner lah. Itu kelebihan dia lah. Dengan cuma satu je kan. Kelantan dia tu masa lagi tak jalan. Tak nampak. Tak duduk lah. So maksudnya dia tak boleh masuk. Pas lagi lah kot. Walaupun dah pakai kopiah semua kan. So bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni. Yang macam mana Itu kita kena jemput dia Tak apalah Bersangkan pokat Okay baby Betul ya
+[02:36] Speaker 2: Waalaikumsalam warahmatullahi wabarakatuh.
 
-[10:12] Boleh kita...
 
-[10:13] Beria, beria, beria. Memang yang ini sangat beria menunggang agama. Tahniah. Okey.
 
-[10:20] Hmm, bersedia?
+[02:39] Speaker 1: Selamat dan selamat berpuasa. Selamat berpuasa. Selamat Tahun Baru Cina. Selamat Tahun Baru Cina.
 
-[10:22] Haaa Yang ini Yang ini haa Cincong haa Tak masuk bahasa Cincong terheret Haa Ini apa ni Wabi? Yang ini aku pun nak tengok ni PMX beria jadi Saitro Backup Azam Baki Maksudnya dia sendiri yang forward video ni Orang yang bukan VKR mungkin terkejut lah Haa Itu salah satu sebab saya keluar daripada Saya tak ada WhatsApp ni kan Sebab WhatsApp ni banyak grup lah. Jadi PKR ni ada. Saya rasa yang ini dekat grup Malaysia Madani ke apa. Kemudian ada banyak-banyak grup lain lah orang. Grup-grup tu lah. Grup-grup tu lah kan.
 
-[11:06] Uh...
 
-[11:07] People may not know outside, other than being the Prime Minister, Dato' Sri Anwar also, once in a while, he, people say, moonlighting. What is he called? Moonlighting. Moonlighting, right? He moonlighting as a side throw too. In WhatsApp. Look at this, he forwarded one comment, one content. TikTok. TikTok, why young people want
+[02:44] Speaker 2: Sebab kita ada Chenghong hari ini. Kita ada Chenghong hari ini. YB Chenghong sekali aku saja.
 
-[11:32] Tangkap Azam Baki Kemudian adalah gambar Said Sadiq Gambar Arwah Tun Daim Gambar Naimah Gambar Tun Malik Itu gambar siapa? Mirzan ke? Atau Pemozani lah Hmm
 
-[11:45] Nak menunjukkan bahawa muda ini sebenarnya dibiayai dan adalah alat kepada...
 
-[11:52] Tun Daim, Dr Mahathir, all of them. If it comes from ordinary people, it's okay. It comes from the Prime Minister. And he sent it to the WhatsApp groups. And we know the direction is clear. Please spread it because so far there are only 45 likes. And 7 comments.
+[02:51] Speaker 1: Selama ni panggil Chenghong. YB, how are you, YB? Good, good.
 
-[12:21] Yelah
 
-[12:23] Saya ingat bila rakyat nampak, dia menimbulkan banyak persoalan. Konten-konten sampah macam ini. Sebab ini semua cyber trooper. Bila konten itu datang daripada akaun ataupun...
 
-[12:44] platform ataupun kumpulan yang memang tidak memperkenalkan diri kita tak tahu siapa di belakang dan membuat tuduhan yang macam-macam ialah itu masuk dalam kategori cyber trooper lah kan jadi bila Perdana Menteri sendiri yang satu macam mana dia boleh tahu konten-konten ni kita pun tak tahu kita pun tak follow Ada 45 likes je pun Kemudian Bukan setakat macam mana dia tahu Kemudian dia juga forward Kat orang semua kan Tapi orang mungkin terkejut lah Saya yang dah lama Dengan dia ni memang Memang tak terkejut dia memang macam ni Forward Dia jenis macam tu lah kan Dan mungkin orang tertanya-tanya juga Sebab selalu jadi bahan Perdebatan dekat Twitter retweet menggunakan akaun rasmi Dato' Sri Anwar ni. Kadang-kadang retweet benda-benda yang daripada Saitro juga. Siapa yang buat agaknya?
+[02:55] Speaker 2: Tak, tapi tadi tu yang awal-awal tu pun tak betul. Sebab kalau kata kita kena memulakan siaran, siaran mula tepat jam pukul 10:00. Cuma dia dirakam awal. Jadi rakaman Kita nak lambat hari ni. Lambat sedikit.
 
-[13:52] Saya tak tahulah Kita tak boleh nak kata Kita pun tak tahu Berapa orang yang ada Access account dia Itu kan Haa
 
-[14:00] Tapi ada dua kemungkinan kan. Saya tahu memang dia hands-on. Bak-bak akaun dia ni. Oh hands-on. Dia hands-on lah. Bak-bak WhatsApp, bak-bak Twitter, semua ni kan. Dulu dia yang paling dia check sepanjang masa. Yang ialah maksudnya dia sendiri dulu Twitter lah. Facebook semua dia kurang. Dulu-dululah sekarang wallahualam lah. Dengan ada TikTok semua. Saya tak tahu lah kan. Tapi ada dua kemungkinan. dia sendiri.
 
-[14:32] One more thing, even if it's someone else, but when it has become an issue, because some of the retweets are from Chaplots or from Cybertroopers, when people have reached, I think Malaysia Kini also made a report about PM himself who retweeted this, right? If it's me, right? If there is,
+[03:09] Speaker 2: Lambat lebih kurang 7 minit kerana ada mercun tahun baru Cina.
 
-[14:56] Team saya Macam saya pun ada orang lain Yang ada akses Kepada account saya Semua kan Kalau adalah team saya Yang pergi retweet
 
-[15:06] Dan saya tak setuju Memang mati kena hempuk dengan aku Dengar apa kan? Memang betul kena That's why Basically lah you notice Saya tak pernah retweet atau share Apa semua kan Tapi kalau ada yang menyalahgunakan Pandai-pandai buat Yang saya tak setuju Memang mati kena hempuk Jadi either way Sama ada Dato' Sri Anwar sendiri Yang retweet Ataupun repost Ataupun orang lain Tapi maksudnya tidak kisahlah akaun rasmi dia itu menyebarkan perkara-perkara yang sesetengah daripada rakyat kita tak selesa lah. Jangan suruh aku saja komen, tu cincong sama-sama kena. Sama-sama kena. Saya takut dah tanya tu. Bagi saya, yang tu mewakili juga walaupun kalau digunakan oleh orang lain, akaun tu kan, tapi mewakili tu jadi jadi mewakili pendirian juga dari sini so
 
-[16:13] Kalau bukan, artinya perlu dilakukan sesuatu. Kalau tidak, dia memberikan tanggapan. Ini adalah daripada Perdana Menteri sendiri. Cuma ada satu lagi perspektif yang sebenarnya lagi...
+[03:13] Speaker 1: YB Chenghong walaupun cuti-cuti ni datang ke podcast ni.
 
-[16:30] Lagi serious tau Saya ingat Saya ingat ada beberapa orang Yang forward dekat saya ni Daripada kumpulan yang berlainan jugalah kan Hmm
 
-[16:42] Dia punya perspektif dia tu bila dia tanya saya Dia orang dalam grup yang macam-macam ni lah Ini grup PKR semua Jadi ramai lah orang PKR kan Dia bukan sangat soal PMX jadi beria jadi Saitro ni Dia sebenarnya tentang...
 
-[16:58] the actual establishment of the Prime Minister regarding the accusations against Tan Sri Azam Baki. So the comments that were given, it means that it is clear that the Prime Minister has made a conclusion that Tan Sri Azam Baki is clean.
+[03:18] Speaker 2: Eh dah mula kerja dah. Dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
 
-[17:21] He didn't even want to know what had been revealed by the media. He didn't care, for example, that there was a violation through the ownership of shares. We've seen his reaction outside. His reaction when reporters asked, he got angry again, right? He said, people do their jobs, why do they want to throw everything away, right? What is this? Listen to his explanation, right? Then I remember after...
 
-[17:50] Dibincangkan di kabinet
 
-[17:54] Besar kemungkinan Yalah Ada yang Mahukan sekurang-kurangnya Siasatan dibuat Jadi kerajaan buat siasatan Walaupun siasatan itu Bukan siasatan bebas Kawan sama kawan Siasatkan Tapi bila keluar
+[03:27] Speaker 1: Bot cuti rayalah.
 
-[18:11] Dato' Sri Anwar sendiri yang jadi saitro, duk forward perkara-perkara yang menunjukkan, mengiakan naratif sekarang, kononnya Azam Baki ini diserang oleh kumpulan-kumpulan yang korup. Itu naratif dia. Itu menunjukkan itu pendirian dia. Jadi itu sangat... Lebih serius. Itu lebih serius. Maksudnya Perdana Menteri berpandangan bahawa Azam Baki ini bersih dan semua yang telah di
 
-[18:47] siyakan oleh Bloomberg tu dia tak berminat langsung untuk tahu pendedahan-pendedahan itu dia tak minat untuk siasat kerana dia sendiri ni yang jadi pedler yang apa nama ni duduk sibuk nak tunjukkan dan membesarkan naratif seolah-olah Azam Baki ini menjadi bahan serangan kerana dia buat kerja jadi tiga orang yang dilantik untuk menyiasat Azam Baki tu kepada Perdana Menteri, Peguam Negara, Ketua Pengarah Perkhidmatan Awam dan Ketua Setiausaha Perbandaraan. Semuanya adalah staf dia, staf Perdana Menteri. Report itu Perdana Menteri. Jadi bila Perdana Menteri belum siasatan bermula pun, dia dah jadi saitro macam ini, dia dah buat kesimpulan.
 
-[19:39] Kita tahulah ke mananya nanti kan. Itu yang sebenarnya kenapa orang forward dekat saya. Kerana bagi mereka, ini sebenarnya dah menunjukkan belang Dato' Sri Anwar Ibrahim dalam kes ini. Jadi tak payahlah buat apa-apa siasatan oleh tiga orang ini. Cuma kita bila dapat itu kita kata, ah ini beria jadi Saitro ini. bahkan naratif yang kononnya Azam Baki ini diserang sebab dia buat kerja. Itu memang nak tutup terus soal perkara-perkara yang timbul mengenai integriti Tan Sri Azam Baki. Kita dah jumpa pengganti YB Fuziah punya.
+[03:28] Speaker 2: Bot. Badan dah kerja.
 
-[20:32] Tapi itulah mungkin susah jugalah. Sebab cukup jumlah tu payah. Payah. Sebab traction dia dengan rakyat tu kan. Beza dia sebab yang YB Fuziah tu. Dia menjadi juara beria sepanjang zaman setakat ni. Ialah kerana dia buat sendiri dan rakyat tengok. Jadi tak sempat kita nak komen benda tu dah meletup. Yang PMX beria jadi saestro. Ni rakyat tak tengok lagi ni. Okey, tapi beria. Kita tengok.
 
-[21:09] Haa ada lagi Haa Haa Convention PKR Haa Bukan Haa thumbs down Convention nyek nyek nyek Thumbs up lah Haa PKR Kedah Tumpu rampas semula kursi Pernah dimenangi Okey
 
-[21:24] PKR berada pada tahap yang terbaik. Yelah kami dah tak ada. Ya kan. Dah ada semua. Kemudian mengungkit dia. Dulu berempas pulas dengan FRU berpuluh tahun. Kena sepak, kena terajang. Sekarang dah ada semua syukurlah. Dan dia ulang lagi. Nyet-nyet tu sekali lagi. Nyet-nyet-nyet. Syukurlah. Hmm.
+[03:32] Speaker 2: Okey okey. Baik YB. jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
 
-[21:45] Apa nama ni Saya satu benda lah kan Saya notice lah Saya tak tahu cincong Perhatikan ke tidak kan
 
-[21:55] Datuk Seri Anwar ni dia mempertahankan ataupun menjawab perkara-perkara yang ditimbulkan mengenai parti semua ni di dalam konvensyen lah kan.
 
-[22:07] But the language has become the language that was used in the Amno era. For example, the language of Syukur. In the Amno era, every time we criticise the scandal of corruption or things that need to be updated,
+[03:48] Speaker 2: Kalau tidak nanti jadi macam Borian.
 
-[22:28] Chinese people, if there is something that is not satisfying. What is the answer to UMNO? Thank God, the country is still safe. So, I'm not sure if Dato' Sri Anwar noticed or not, his language and tone have started to be the language and tone of the previous UMNO era. Thank God. It's the same when...
 
-[22:55] Kita timbulkan Soal integrity Tan Sri Azam Baki Ya
 
-[23:01] Semalam lah kan ada satu perhimpunan Sekarang ni pegawai-pegawai kerajaan pun jadi mangsa lah Tiap-tiap bulan kena dengar dia berceloteh lah kan Tak pernah berlaku tau sebelum ini Kalau you notice Perdana Menteri-Perdana Menteri sebelum ini Tidak pernah menggunakan medan dalaman kerajaan Untuk menjawab isu politik Politik ni di luar dasar, soal pentadbiran Datuk Seri Anwar Ibrahim yang pertama lah yang mana you tak boleh beritahu, ini program kerajaan ke program ceramah politik masa saya menteri itu dulu pun, banyak yang
+[03:51] Speaker 1: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
 
-[23:45] Yang timbulkan perkara itu Mereka kurang selesa Tak selesa kan Sebab Apa nama ni Penjawat awam ni Dia tak nak Campur aduk Soal pentadbiran Dengan soal politik ni kan Tapi kalau tengok semalam Masa Dia DKDN kan Hmm
 
-[24:01] He made a mistake. We raised the issue of integrity of Tan Sri Azam Baki. He talked to the public servants. All public servants, he equated the issue of integrity of Tan Sri Azam Baki as an attack on the public servants.
 
-[24:21] and he is the one who defends the civil servants from being attacked. So, that's the same thing as UMNO. When we ask, this is actually to shake the hands of the Malaysian civil servants. So, I look at the past, one, one, one, right? The tendency is the tendency to repeat
+[03:57] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
 
-[24:47] ayat-ayat yang UMNO pakai dahulu. Tak tahulah, mungkin sumpahan kot siapa-siapa yang jadi kerajaan sebab lama UMNO jadi kerajaan, kepala otak dia, dia jadi UMNO. Tak tahulah, cincong yang bukan kerajaan mungkin. Saya nampak juga mungkin dari segi balik kepada konvensyen kan, ada juga risiko dia jadi eco-chamber yang mana bila dia preach to the converted crowd lah, yang sama lah. So, kadang rasa selesa. pandangan agak berbeza dan makin berbeza sekarang. Pandangan rakyat. Pandangan rakyat. Yang kita lihat kepada contohnya tadi kan Bloomberg adalah satu agensi berita yang sangat credible. Dan bila kata disamban pun mereka kata bersedia. Berbanding dengan TikTok lah, TikTokers lah, apa itu kan. Yang ada 75 line. Beside troll lain. 45 line. Tinggi sangat tu. 75 line. Ni PKR Kedah tu boleh
 
-[25:47] Merampas mula kursi di Kedah ke? Hmm.
 
-[25:51] Saya baca ini merupakan satu juga kesan eco chamber lah Yang mana memang dalaman kita nak buat kita rasa semangat lah kan Jadi kata kita boleh menang, kita akan menang Tetapi kena lihat kepada juga statistik dan juga persepsi masyarakat Ni PKR berada pada tahap terbaik ni
+[04:10] Speaker 1: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
 
-[26:16] Maybe? Because the more people, the better. Oh, that's why. That's why. We still haven't got the latest survey. Because the latest survey is important. It shows the people's view after the Tan Sri Azam Baki issue.
 
-[26:40] I don't think it's beautiful. But actually, what we can see is... It's different, right? The difference between the survey and the reaction on social media is that the survey will be weighted and represented. It means this, right? Let's say the sample is 2,000 people.
 
-[27:06] And the sample from those 2,000 people, every candidate has a representative. For example, a 20-year-old Malay, a 20-year-old Malay, a 20-year-old Malay,
+[04:30] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
 
-[27:25] pendidikan SPM, Melayu, semua ni ada berat-berat serata ni kan. Jadi survei ialah setiap pandangan daripada serata itu sebenarnya ada dapatan. Dan bila dah dapat dapatan itu, maka dia in statistic what is called representative. Dia akan being weighted and represented. Maksudnya kita tengok Melayu yang umur 20 tahun di bandar. atas pengundi. So maka yang itu akan weighted and represented berdasarkan jumlah pengundi itu kan. Jadi semua angka survei itu maka dia lebih melambangkan pandangan keseluruhan rakyat lah. Itu survei. Kalau social media ni masalahnya dia ada echo chamber dan dia ada bias. Kalau tengok di contohnya Facebook saya atau cinco. Memanglah Itu jenis yang menyokong kami. Jadi dia tidak melambangkan keadaan sebenar rakyatlah. Dia sama yang Najib dulu, Amno kata.
 
-[28:37] Najib ni cukup kuat Kerana tengok Setiap posting dia tu Ada puluh-puluh ribu yang menyokong Jadi pada satu ketika Ni sebelum saya kembali 2022 lah Sebab
 
-[28:49] Before I joined the competition, I thought if I lost, I wouldn't join. It's a waste of time. So we developed some kind of algorithm to guess who the 30,000 people who were on Najib's live page were. So when we did it, we saw that even though he saw 30,000 people,
+[04:52] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
 
-[29:16] Sebenarnya dia datang daripada konstituensi pengundi yang sama. Maksudnya dia Melayu, dia Melayu luar bandar, dia Melayu banyaknya di pantai timur kan. Tapi di sebelah pantai barat apatah lagi orang bukan Melayu sangat rendah lah. Jadi 30 ribu itu tak sama dan tak melambangkan, dia mungkin melambangkan sentimen di beberapa tempat saja kan. Kita tak dapat survei lagi lah. Tapi kalau tengok kat sentimen di social media tu, dalam isu yang bersabit Tan Sri Azam Baki sahaja, memang Dato' Sri Anwar teruk kena lanyak.
 
-[30:01] Memang PKR teruk kena lanyak sebenarnya kan Dan kalau tengok pada posting-posting saya pun Walaupun dia tak representatif Kerana mereka yang melihat itu Menyokong itu Ialah mereka yang sukakan kat kita lah Tapi kalau tengok kepada di Facebook saya kan
 
-[30:21] sebenarnya ada lonjakan tinggi daripada beberapa bulan yang lepas dan lonjakan tinggi itu bila kita tengok ialah
+[05:04] Speaker 1: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
 
-[30:30] One is that there are more non-Malay people who come. Before this, he didn't really care. Another is the Malay people. So there is indeed a surge, especially if the posting is related to anti-corruption, Tan Sri Azam Baki. So if Dato' Sri Anwar wants to say that PKI is at its best, yes, that's his view and that is...
 
-[30:56] Pukul gendang perang nak bagi semangat kepada anggota-anggota PKR lah Tapi general ni ada macam-macam Ada banyak general kan Banyak jenis general masuk perang
 
-[31:10] Ada jenis general yang dia macam raja. Dia duduk di... Ini kalau kau baca jenis perang-perang zaman-zaman dulu lah. Kau tengok movie semua kan. Ada general yang dia macam raja. Dia duduk di atas bukit semua kan. Dengan kuda dia tengok. Lepas tu dia suruh orang pergi perang. Lepas tu orang semua yang tentera dia pergi tu mati kena sembelih. Dia pun terima kasih dia balik lah. Ada yang macam tu kan. Wallace ke kan yang macam orang sebut dulu Salahuddin Al-Ayubi yang mana bila berperang itu dia tahu tanggungjawab dia ialah
+[05:13] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
 
-[31:52] Don't make sure the army is being attacked. So, usually, he's in front of the charge. He's not sitting in the back, sending in the infantry, sending in the artillery. There's no such thing. He's the one who's going to fight. So, we want to see when Dato' Sri Anwar hit the war flag, said PKR Brother, at this best stage, we have to see in the war, I mean, in the 16th PLU, whether he's being attacked or not. Okay, bye, Abie.
 
-[32:22] Beria? Beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria. Beria, beria.
 
-[32:26] So far, there's no complaint yet? No complaint yet. Oh! Stealing RM1.1 billion. It's a good thing we can open it. It's a good thing we can open it. There's a PT to open Flaxi Mark and Kesom. Selling at a low price. It's okay, we'll wait. From Friends of Mazli Balik. Faiz Naaman is the one who jumped in PKR. Right?
+[05:25] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
 
-[32:54] Cuma dengan 1.1 bilion
 
-[32:58] open a fleximat, a piece, and a piece of other things. Either I'm stupid, or, I don't know, if you meet someone who steals 1.1 billion, then he goes to open a shop, you think, he's mental, right? He's not sane, right?
 
-[33:24] Dia ada fenomena macam inilah. Saya ingat Faiz Naaman ni dia bergaduh lebih awal dalam bersatu. Jadi dia masuk selepas kita dah jadi kerajaan.
+[05:39] Speaker 2: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
 
-[33:38] I think he was very hopeful. He entered before the PRN Negeri, right? Early. When the PRN Negeri was in Selangor. Maybe he hoped that he would get a seat at that time. He didn't get a seat. So now he has to be careful. Be careful to make accusations, to be beaten. Maybe he hoped he would get a seat again.
 
-[34:05] Kepada Faiz ni Faiz Al-Aman ni
 
-[34:09] Kau kena ingat sebenarnya kalau masuk parti ni tapi tak menjadi sebahagian daripada katel ataupun bukan kawan baik ramanan, kau takkan dapat kusinya. Mudah sajalah kan.
+[05:51] Speaker 1: Even earlier.
 
-[34:27] Saya sebenarnya bila orang macam ini, saya pun tak tahulah dia seronok buat tuduhan macam ini semua ni kan. Saya tak terasa apalah tapi dosa itu dia tanggung lah. Kalau habis saman boleh buka dua lagi tu. Tak guna dia orang ni sebenarnya tak tahulah. Sebab kalau nak saman, masalah saman orang ni kan. Kerana dia mengambil banyak masa. So, it's not worth it. Dan yang kita kena saman nanti tu kita saman. Haa, ada lah orang yang kena saman tu kan. Tapi kalau setiap...
 
-[35:09] level cyber trooper ni dah jadi level chaplose. Dan ni dia ni kan, dia buat conjecture yang...
 
-[35:19] memang tak waras punya konjek Asia kan. Tapi yang lain tu kita dia tanggung di akhirat nanti lah. Ya, Wabi? Saya rasa sebab dia beriaya mungkin sebab dia baru dalam parti PKR. So dia kena jadi chef-loss yang lebih besar? Dia kena tunjukkan dia ke depan. Dan sedangkan saya perhatikan yang orang lama kan dalam parti tentang kes ni kan, ramai yang sebenarnya berdiam diri sebab mereka tahu sebenarnya apa yang berlaku. dan tidak
+[05:52] Speaker 1: Tengok Cincng lupa.
 
-[35:50] Tambah katakan...
 
-[35:52] dosa lah dalam kes ni Actually, Cian Chun has a good point yang banyak echo pasal 1.1 billion ni actually, Ciaplos dengan yang baru masuk
 
-[36:04] Who are the old examples? Nurul Izzah. Nurul Izzah doesn't comment on anything. The old grassroots, or the branch, right? The head of the branch. But YB, if you really ask Frank, some people ask, after that, what money did you use to buy a flat?
+[05:53] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
 
-[36:30] Dia rakyat tak tahu sebenarnya ahli parlimen Apatah lagi ahli parlimen yang ada jawatan sebagai menteri
 
-[36:40] Bila kita habis berkhidmat, kita dapat gratuity. Maksudnya dibayar. Gratuity ni dalam bahasa Melayu apa dia? Ganjaran. Imbuhan, ganjaran. Ganjaran sekaligus setiap lima tahun.
 
-[36:53] So if the first member of parliament is a graduate, he will get a gratuity of more than RM200,000. So when I put the position, he has his own formula to calculate the gratuity as a member of parliament and also as a minister when he puts the position. I think he will get it at RM400,000. That's it. I don't feel like...
+[06:00] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
 
-[37:18] Yelah memanglah duit kita sebab itu gaji kita kan tapi
 
-[37:25] Dia ada cerita sebenarnya di belakang flight Simak dan Kesom ni. Mungkin saya dah makan cerita lah.
 
-[37:32] Bila saya letak jawatan...
+[06:13] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
 
-[37:34] Ada budak-budak yang dekat ibu pejabat PKR tu Dia dah bekerja belas tahun
 
-[37:43] They can't accept the madness that happens in PKR because they are witnesses to everything. They know, right? So the seniors, there are three people, the head of the PKR office, the right one, who has been working for 12 years. He went to put up a position, he didn't ask me.
 
-[38:04] So suddenly, there are three families that actually no longer have a source of income. Then there are others from my office, there are others. So I end up with a situation, I can just wash my hands. It's your fate, I don't have a job, you don't have a job either.
+[06:21] Speaker 1: Dengan siapa seorang lagi tu?
 
-[38:30] Tapi tak baiklah kesian kalau orang tekan pekapai kan ada tambah kalau yang dah berumur sikit tu dah ada anak semua kan.
 
-[38:38] Jadi aku tak ada duit nak bayar gaji dia orang ni. Dan pada masa yang sama, dia tak sustainable kalau you bayar, bayar, bayar kan. Jadi masa itulah datangnya idea. Aku memang dari dulu sebenarnya berminat kedai runcit, kedai makan ni sebab ini cara yang paling baik untuk kita belajar tentang unit cost, tentang semua kan. Jadi daripada situ lah aku ingat okey lah Allah dah bagi rezeki, Boo!
 
-[39:09] You know... Kalau pakai kat kita pun... Setakat tu je lah kan... Jadi baik letak duit ini... Untuk buka perniagaan... Social enterprise... Kalau kita... Jadi dia... Dia banyak manfaat... Kepada orang lain... Dia juga boleh pastikan...
+[06:24] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
 
-[39:27] Apa nama ni?
 
-[39:29] Yelah budak-budak ni ada kerja pada masa yang sama juga. Dia boleh bagi kebaikan kepada orang ramai, dapat makanan yang berpatutan. Dan kalau kita boleh buktikan model itu boleh berjaya, dan kita boleh cuba yakinkan lebih ramai orang pakai model yang sama. Jadi daripada situlah saya letak RM400,000 saya itu untuk buka. Aku menyesal sekarang kan. Tapi masa itu kan. Betul lah. Bukanlah ambil 1.1 bilion. Joli pergi buka flexi mana. Kalau ada 1.1 bilion, dia jadi macam jolok lah. Duduk kat luar negara, kaya raya, kereta. Paling kurang pun kalau tak jadi jolok pun jadi macam Farhaj. Rumah puluh-puluh juta semua. Tak adalah macam aku menyewa sekarang kan. Buka kedai roci. Buka kedai roci. Nak makan. Tak masuk akal. sejarah Malaysia ada orang yang berkuasa ambil duit sampai 1.1 bilion pergi buka kedai runcit tak pernah berlaku beria beria ok Bobby kita dah 40 minit kita nak kena
 
-[40:44] Terima kasih.
+[06:30] Speaker 1: Ya ya. So sebelum tulah.
 
-[40:46] Ini mungkin saya kena tanya Mantan pengarah
 
-[40:51] Komunikasi. Macam mana admin-admin sosial media parti politik ini sebenarnya? Saya nampak dia sebenarnya perlu ada satu strategi komunikasi dan perlu adanya hierarki. Dia nampaknya bersatu mungkin lebih sibuk dengan kerja-kerja lain. Jadi sehingga bila isu dalaman itu jadi terlalu hangat, Sokmak mereka pun menjadi satu medan Perperangan Duka ceritanya nampak memang berjaya Di hijack lah Walaupun tak dapat hijack parti Tapi geng-geng ni yang Hamzah lah kan Dia dapat hijack sokmak dia Ni boleh kira kategori Tebuk atap jugalah Tebuk atap dekat Maya lah kan Ni alam Maya Ni kira tebuk Facebook Banyak, Bersatu ni dia, banyak perkara-perkara yang dia pelopori di Malaysia lah. Satu, tebuk atap masa Sheraton move. Sekarang ni ialah tebuk Facebook. Tebuk Facebook. Jadi berhati-hati kan. Jadi kita pastikan kita punya Facebook itu, orang yang ada admin tu, careful proof daripada tebuk Facebook ni. Tiba-tiba Bersatu bukan sahaja hijack Facebook sendiri, Facebook Rafizi pun kena hijack Bersatu. Menarik Tak pernah berlaku Ni pun tak pernah berlaku Tembok Facebook ni Itu saja YB Beri kita Mungkin YB nak
 
-[42:32] Berikan medal? Saya bagi medal saya pun tu tanya Cincong. Tanya YB. Aku memang kalau dalam empat-empat ni, ada empat kan? Ada satu. Lima. Yang lima ni minta maaf lawan Faisal, minggu ini kau kalah. Maaf. Sebab dia tak boleh lawan PM jadi Saitrullah. Yang ini saya punya pilihan. Cincong. Pilihan saya dah dipilih lah ni. Sebab bagi saya separuhnya saya rasa mungkin tak terpijak kepada realiti. Tapi keduanya saya terutamanya.
+[06:31] Speaker 2: Before that.
 
-[43:11] Rasa sedikit apa itu...
 
-[43:14] dalam kes ni berada pada tahap terbaik lah. Yang tu memang kalau bagi saya yang bermula dari peringkat ranting, buka ranting sejak belasan tahun kan. Jadi memang perlu dikaji semula kalau tak memang faham. Bias-bias sangat lah. Bagus lah WB. Tapi selepas melihat Anwar Ibrahim buat begini, aku pun bersetuju dengan cincong. Inilah yang nampaknya. Berperasan ya? Berperasan. Tadi tak perasan ucapan dia. kata apa? Nyek-nyek-nyek. Nyek-nyek-nyek. Yelah-yelah. Okey, YB. Kita ada satu segmen baru. Bukan segmen baru. Kan segmen hanya untuk minggu inilah. Hanya untuk minggu inilah. Sebab kita tak ada parlimen minggu ini. Ya. Jadi kita buat update sikit lah Ayuh Malaysia. Kita buat update Ayuh Malaysia. Jadi saya rasa yelah ada dua lah. Satu tentang perkara baru atau dalam fleksimat dan kesur YB akan ceritakan. Dan satu lagi untuk projek baru Ayuh Malaysia. Cikgu akan ceritakan lah Tapi mungkin Kalau YB boleh kongsi Apa Kelainan sikit Bulan puasa ni Untuk Fleximat dan kesung
 
-[44:23] Memang...
+[06:32] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
 
-[44:25] Ramai yang tanya, dia tanya boleh ke tidak...
 
-[44:29] Letakkan tabung dekat fleksimat dengan kesom itu supaya mereka boleh menyumbang.
 
-[44:36] Dan dengan sumbangan itu bolehlah diberikan makanan ataupun barang ini secara percuma kepada mereka yang memerlukan. Memang kita daripada awal bertujuan nak buat begitu tapi...
+[06:41] Speaker 1: Siapa?
 
-[44:52] Benda itu mestilah secara tersusun. Dia tak boleh letak tabung sahaja. Kerana kalau untuk tabung itu hanya orang... Kalau orang nak menyumbang, dia kena pergi kat situ. Contohnya kan. Sama juga kalau letak tabung begitu, maksudnya...
 
-[45:08] Only people who go to the shop can demand free food. And when they demand it, we don't know which one is right or not. If it's like a product, it's even more if it's at Fleximat. If they go and ask, we don't know if it's really difficult or not. So in the past month, we have built a system. So it will be done in order. So, for example.
 
-[45:38] Dekat kesum kan memang ada permintaan untuk bulk order. Maksudnya dia nak order 100, 200, dia nak bagi kat orang kan.
+[06:42] Speaker 1: Chin.
 
-[45:48] Jadi......ehm...
 
-[45:51] Sama jugalah Kita kalau kita nak uruskan Semata-mata Berdasarkan Orang order Pakai telefon Semua payah kan Jadi kita buat Melalui website lah Kalau pergi ke www.kesom.my Dekat handphone tu Type
 
-[46:08] www.kesom.my daripada situ boleh order dan kita boleh deliver cuma dia ada minimum order
+[06:43] Speaker 2: Chin.
 
-[46:20] kuantiti lah maksudnya 10 orang kalau nak suruh kita hantar sebab kalau main order satu suruh kita hantar mampu kita kan dan dia ada radius dia jugalah dalam kawasan terdekat minimum 10 orang kemudian kita tambah charge penghantaran macam biasa lah sebab kita tak boleh pakai grab, grab mahal lah sangat mahal sangat kan jadi kita kena gaji orang untuk jadi deliver sebab itu kalau ada permintaan yang mencukupi baru berbaloi untuk kita gaji lah Pertama ialah Yang menyumbang itu Dia yang calonkan Siapa yang patut dapat So kalau contohnya Dia nak bagi 10, 20 Dia nak hantar ke anak yatim ke Dia dah memang siap dah Dia akan masukkan di dalam borang online itu Siapa penerima dia PIC dia kat mana semua Kemudian kita hantar kan Ataupun kami pun Memang sekarang ini sedang membina Memang dah ada senarai-senarai penerima yang di kawasan-kawasan tertentu, kalau macam Kesum tu, dia lebih di kawasan Ampang, sekeliling tu. Kalau macam untuk Fleximat, kita cuba juga dapatkan di kawasan-kawasan lain. Petaling Jaya ke yang mana, sebab hantar barang runcik ni boleh lagi besar daripada hantar makanan lah. Jadi dia juga boleh pilih daripada senarai tu. Yang ini yang memang kami dah tahu orang susah dalam kawasan-kawasan tertentu lah. kita akan dapat maklum balas daripada rakyat sendiri, jiran-jiran. Dia boleh beritahu kalau dia calonkan tu, dia boleh beritahu sebenarnya kawasan rumah saya ni ada 3-4 orang ni, ni senarai dia, masuk kanan senarai, supaya nanti bila ada sumbangan, kita boleh hantar terus lah makanan ke apa kan. Ataupun pilihan ketiga, dia tak nak pening kepala, dia percaya dekat kami, maka dia serah kepada kami untuk agihkan lah. Fleximat, kita ada sediakan basically food box lah. Ini orang nak puasa, kemudian orang nak nak raya. Kemudian dia akan berterusan selepas ini tau. Ini bukan untuk Ramadan sahajalah. Dia akan bermula zaman Ramadan. Tapi contohnya untuk food box ni.
 
-[48:38] When we have more and more recipients who are nominated, we have seen it. Actually, in the future, people can give donations. Actually, every month, RM100 for this food box goes to this poor family. And we will send it. The procedure is the same, as long as he nominates the recipient.
 
-[48:58] Ataupun dia pilih daripada senarai kita. Ataupun dia serahkan kepada kita untuk agihkan. Jadi dengan cara ini, maksudnya kita ada audit trail. Kita tahu sebenarnya kalau disumbangkan itu memang kena sampai. Sebab nanti kita akan bagi pengesahan. Dia jadi macam delivery biasa. Bila contohnya Fleximat hantar food box itu kepada penerima. diterima bukti yang akan dihantar secara sistem otomatik kepada WhatsApp yang menderma tadilah jadi saya minta orang ramai kalau boleh pergi ke kalau berminat boleh pergi ke
+[06:46] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
 
-[49:45] www.kesom.my itu untuk kalau untuk menyumbang bagi kesom ataupun www.fleximat.my untuk dan dia boleh pakai payment gateway dia bukan pakai transfer ke bank account dia memang pakai payment gateway dan payment gateway itu bila menyumbang dia akan masuk kepada apa ni Ayuh Malaysia jadi crowdfunding itu sebenarnya pergi kepada account Ayuh Malaysia kerana account itu dikenali dan juga memang telah ada dengan payment gateway EGHL semua daripada dulu dan daripada situ Ayuh Malaysia akan just put the order kepada Kesum ataupun kepada FlexSigma dan akan deliver lah so saya berharap kalau mereka yang masih lagi ada ruang untuk menyumbang menyumbang supaya kita membantu kepada makanan secara percuma kepada penerima-penerima miskin di seluruh KL sama juga kepada Fleximat dan kalau di luar KL tapi order dia tinggi dia bukan kesum lah kepada Fleximat kita memang dah ada yang nak menyumbang daripada luar KL tapi dia beli banyak lah 50, 60 kotak macam itu pun kita terima keluar KL tu kita nak kena-kenakan bayaran sedikit lah. Jadi kalau boleh jangan tinggalkan lama-lama. Kalau boleh dalam satu, dua, tiga hari ni siapa yang berniat, yang menonton boleh pergi terus dan supaya kita ada masa untuk proses dan hantar. Website dah live? Website memang live sebentar tadi. Hari Jumaat hari ni lah. Hari memang lah hari ni. So sepatutnya kalau pergi check hopefully dia orang dah go through semua ada sepatutnya dah memang boleh berurusan sekarang lah. As we now malam ni kan sekarang ni dah sepatutnya dah dekat pukul sebelah lebih ni. So dah dah boleh menyumbang terus lah. Okay. Baik Ubi. Itu bahagian saya. Ini bahagian kita ada dua projek baru ya Ubi. Ya ya. Untuk Ayo Malaysia. Pinjam gadget dan apa satu lagi? Saya terpanggilah untuk kongsikan siarkan ucapan Tahu Bau Cina lah yang berjaya menarik perhatian ramai. Boleh faham ke? Boleh faham. Boleh faham. Saya ingat AI yang buat. Aku malu betul cakap. Ya Allah. Because I listen to how it should be pronounced. So practice, practice, practice tapi bila sampai sebab dia macam ni masa practice dia satu ayat, satu ayat. So you quite okay. Bila you nak kena sebut semua tu aku rasa German pun lagi bunyinya lagi elok Tapi boleh faham. Boleh faham. Bertahapnya kita kata lulus. So untuk akan datang saya nampak menarik lah. Seperti mana yang saya berminat untuk juga mengasahi bahasa lain kan. So bahasa Jepun saya pun pernah belajar sikit. And apatah lagi kita ni alamnya memang pelbagai bahasa kan. Bahasa Melayu, Bahasa Inggeris dan lain-lain. inisiatif untuk apa itu mengajarlah contohnya bahasa Mandarin kan dalam kes ini apatah lagi bahasa Mandarin sekarang jadi makin penting di rantau ini jadi akan diadakan satu lah saya difahamkan kan satu kelas satu kelas main your Mandarin kelas Mandarin kelas Mandarin jadi dalam gambar itu nampak macam saya tapi bukan saya yang mengajarlah dia kita yang pertama kelas kita mungkin dalam seminggu daripada sekarang dia akan siarkan Jangan lupa untuk berlangganan dan berlangganan.
 
-[53:48] Pertengahan Mac Pertengahan Pertengahan Bukan first week Mac ke
 
-[53:55] Rekodin
+[07:11] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
 
-[53:57] Recording ialah buat apa Kalau nak tunggu lama-lama Dah record tu terus lah Tak apa-tak apa Nanti kita orang bergaduh Jadi akan juga Recruit Akan juga Beberapa Yang berminat lah Mereka yang berminat untuk Belajar sama-sama Melalui proses tu Sebenarnya Ramai menganggap
 
-[54:19] Belajar satu bahasa baru adalah benda yang boring. Sebenarnya ianya juga boleh dijadikan agak menarik lah. Saya difahamkan Raf juga akan menjadi salah seorang peserta. Kita akan ada lebih kurang 13-14 orang pelajar. 13-14 orang pelajar. Dan dia akan ada pelajar daripada latar belakang yang berlainan. Termasuklah orang macam saya. Termasuklah contohnya Cina yang muka Cina tapi tak reti semata. Sebab apa tu? Banana. juga India, termasuk juga yang muda tua semua. Jadi silibusnya ialah 12 minggu berturut-turut. Jadi tiap-tiap minggu kita akan lalui lebih kurang satu jam lebih lah kelas. Saya dah tengok silibus dia lah. Dia tak adalah sampai boleh jadi fahsih berbahasa Mandarin. Tapi boleh berkomunikasi di Malaysia lah. 12 minggu berturut-turut. Jadi kita mengambil inspirasi daripada mind Jadi dia dipanggil mind your Mandarin. Jadi kepada yang...
 
-[55:24] yang berminat ukuran dia macam ni bila dah habis 12 minggu main your Mandarin ni maksudnya kita pergi ke pasar kita boleh sembang dan kita boleh order di pasar dan saya juga alu-alukan kita alu-alukan penonton-penonton daripada walaun-walaun pas yang lain-lain yang selalu kata China ni tak boleh harap bila kita pergi beli kat kedai dia kan dia cakap China dia tipu kita. Selepas 12 minggu, insyaAllah pakcik-pakcik walaun tidak ditipu. Maka boleh membuat kejutan dekat kedai-kedai tu. Tengah-tengah tu, dia cakap Cina. Tapi tahun ni nampak ramai walaun pun baju merah, baju sifat cat. Tak masuk beria tadi. Mungkin siapa yang berminat boleh juga daftar lah kan. Jadi kita harap lah sebenarnya
+[07:16] Speaker 1: Dua-dua pantai Timur.
 
-[56:22] Ehm...
 
-[56:24] Kalau kita boleh dapatkan lebih ramai...
 
-[56:29] Orang yang mencintai ilmu. Dan belajar bahasa Mandarin ini adalah belajar ilmu. Jadi kalau lebih ramai daripada kalangan kita yang mencintai ilmu, maka saya harap itu akan dapat mengurangkan bebal perkauman di Malaysia. Sebab bahasa Mandarin ini disamakan dengan perkauman. Sebenarnya bahasa-bahasa lah. belajar bahasa Mandarin masa dekat UK. Give up aku. Sebab payah kan. Jadi sebab itu selepas lebih kurang 25 tahun kemudian saya nak mencuba sekali lagi. Tapi kali ini akan berjaya. Dan belajar yang mudah-mudah sekolah. Dan ada satu lagi kerja Yobi. Pinjam gadget.
+[07:17] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inilah kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
 
-[57:22] Pinjam gadget ni adalah satu program yang saya sangat mendekati lah. Cincung memang cincung yang lebih banyak gadget. Boleh bincang cincung. Dan kita selalu nampak ada keperluan bila masuk universiti, masuk college. Bagi keluarga B40 memerlukan gadget lah untuk belajar. Jadi tambahan pula sekarang memang bukan lagi satu option tapi satu keperluan. Jadi sebelum ni memang sibuk kerja lah. Ada yang sampai ke pejabat saya minta sumbangan semua tu. Jadi menjadi hajat rakan-rakan IOM Malaysia dan termasuk saya untuk
 
-[57:58] to develop a program where we can borrow the gadget with a very patient cost. But at the same time, we also train those who are interested to learn to repair the gadget. So this initiative will start soon. We will start with
 
-[58:22] Mengumpul dululah siapa yang ada gadget terpakai, yang tidak ada, tidak guna dekat rumah ke, dalam simpanan stor ke, boleh mula sumbang dulu. Dan kami akan juga mulakan satu kelas untuk memperbaiki laptop tu dalam masa terdekat.
+[07:36] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
 
-[58:42] So, apa ni, saya ingat yang ini yang kita dah set 8 Mac kan, Pak An kan, kita akan lancarkan program pinjam gadget ini.
 
-[58:53] But the loan of gadgets is chicken and egg. We need to donate gadgets. So far, there are more or less tens of laptops that have been donated to IO Malaysia. These laptops will need to be repaired. And for those who are trained, so there are two, like you said earlier, there are two.
 
-[59:18] dua bahagian pinjam gadget ni. Satu kita melatih mereka yang berminat, tak kisahlah anak muda ke or even pensioner tau untuk mereka ada kemahiran membaiki laptop, membaiki gadget ni supaya kemudian mereka boleh baiki laptop-laptop yang disumbangkan dan laptop-laptop itulah kemudiannya yang akan dipinjamkan kepada keluarga yang miskin lah. Jadi Saya ingat 8 Mac Dan sekarang ini Bagi mereka yang berminat lah Dah boleh mula untuk sumbangkan Laptop, gadget ini Di pusat-pusat khidmat Di seluruh KL lah Di Pandan boleh Di PJ, di Ampang Di Subang, di Wang Semaju Nanti kita akan buat iklan Dari satu masa ke satu masa lah Malam ini kita terangkan sedikit saja Kemudian bagi mereka laptop semua tu nanti kita akan ada website semualah untuk mereka pinjam jadi harapan kita ialah dia mewujudkan satu ekosistem yang mana orang boleh bagi laptop yang dia dah tak pakai, laptop itu akan digunakan dan dia juga akan dimanfaatkan oleh orang-orang yang kita latih untuk cuma
+[07:51] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
 
-[1:00:41] nak rangkumkan semua, semua ini buat masa sekarang ini kami kumpul duit kami sendirilah. Ini bukan duit 1.1 bilion. Kita saling cover-mengcover. Semua ini perlukan kos. Jadi bagi mereka yang rasa usaha-usaha ini sebenarnya ada manfaat kepada orang ramai, crowdfunding. Crowdfunding itulah yang akan digunakan untuk contohnya menganjurkan latihan. Bila latih itu kita kena bayar. Kita kena bayar pelatih, kita kena sediakan tempat semua kan. Jadi bagi mereka yang ingin menyumbang dan itu tujuan Ayuh Malaysia pun untuk kita mengembangkan social enterprise kan. Jadi cuma kita tak nak orang bagi tapi tak tahu jadi apa dengan duit itu kan. Jadi melalui Ayuh ada program-program tertentu yang memang ada audit trail dia dan sekarang ini kita dah mula ada lebih daripada sekarang ini kira empat lah kan selain daripada yang fleksimat dan kesum kan jadi bagi mereka yang nak menyumbang baik sama ada nak membeli ataupun nak bagi bersedekah, nak infar ataupun nak menyumbang untuk membiayai program-program social enterprise seperti pinjam ke bawah, saya harap boleh pergi ke website ayuhmalaysia.org dekat situ memang ada interface untuk menyumbang crowdfunding.
 
-[1:02:23] Okey. Baik. Satu jam. Satu jam. Tepat. Tepat. Jadi kita ke segmen yang terakhirlah. Sebab kita ada dua jam. Ini untuk menjawab. Dua jam. Memang telajar ni. Telajar. Jadi kepada yang menonton. Selepas habis menonton. Boleh terus tidur dua minit. Bangun untuk tahajud. Okey. Kita ada isu yang pertama. isu perjanjian amni sekali lagi berbangkit tapi saya tak pasti mungkin untuk elakkan daripada ini menjadi semang-semang politik saja kita kena pergi sekali lagi the significance of it satu dan kemudian baru kita tengok mungkin the process of governance tu maybe
 
-[1:03:14] Yes, when we talk about this agreement, I think our country has the courage to revive the ecosystem in the front-end semiconductor. So our story is more ambitious and people can't imagine. Maybe if YB can illustrate a little bit.
+[07:55] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
 
-[1:03:33] Haa... Okey lah. Dia... Sebenarnya bila kita... Haa... Tengok lah kan...
 
-[1:03:43] Kerajaan bertukar-ganti. Strategi ekonominya sama. Daripada zaman Najib lagipun dulu, aspirasi negara ialah untuk melonjakkan ke rantaian nilai yang lebih tinggi. Sebab dia berkait dengan produktiviti. Kalau contohnya kita hanya memasang.
 
-[1:04:08] Selama ini kita hanya memasang, kita tak reka kan. Bila kita pasang, kalau tengok rantaian nilai lah sesuatu barang tu kan.
+[08:00] Speaker 2: Potong rumput, motor lalu dengan my mercun.
 
-[1:04:18] Siapa yang paling banyak dapat untung ialah mereka yang ada idea, ada teknologi dan mereka yang mereka. Tapi dalam dunia sekarang ini, selepas dia reka, dia tak buat sendiri. Dia hantarkan negara-negara yang tenaga buruhnya murah. Dari situlah dia pasang, dia kilang, dia pasang. Jadi rantaian nilai itu lebih rendah. Kita memang daripada dulu tersangkut dekat situ. Kita tak boleh nak reka sendiri. Kita tahu negara-negara macam Korea, Taiwan dan sekarang China bagaimana mereka mengembangkan ekonomi mereka ialah kerana mereka melonjak ke atas. Jadi dalam semi-conductor, sebelum, ini panjang cerita ini kan.
 
-[1:05:04] Why is the semiconductor important? I first saw Dato Sri Anwar Kliling talk about AI, AI, AI, Artificial Intelligence. The people also talk about Artificial Intelligence, Artificial Intelligence. I think from the beginning, people don't really understand. They think that Artificial Intelligence is a GPT check.
 
-[1:05:25] Ekonomi itu, bila orang kata ekonomi yang berasaskan kepada
+[08:02] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
 
-[1:05:30] AI, dia bukannya ekonomi berasaskan cek GPT. Kau nampak duit banyak mananya daripada cek GPT. Di belakang cek GPT itu, untuk membolehkan ada cek GPT, untuk membolehkan even robot, untuk membolehkan contohnya satu hari nanti autonomous driving kereta bawa sendiri. Di belakang itu adalah satu industri yang cukup besar. Itu yang dinamakan industri berasaskan AI. Dia kena ada data center
 
-[1:06:03] Kerana dia tak cukup dengan komputer-komputer CPU kita ni, dia perlukan bangunan bertingkat-tingkat yang ada berpuluh-puluh ribu chip ni kan. Dia perlukan data center. Tapi data center saja tak cukup kan. Di satu sudut dia perlukan tenaga boleh baru, tenaga hijau.
 
-[1:06:21] Tapi di satu sudut lagi dia perlukan chip yang banyak. Dan chip itu mestilah laju semua kan. Jadi sebab itu bila kita tengok untuk kita melonjakkan ekonomi kita yang bernilai tinggi...
+[08:13] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
 
-[1:06:38] Satu peluang yang ada ialah peluang yang melibatkan artificial intelligence, yang melibatkan data center dan daripada itu kita kena buat chip sendiri.
 
-[1:06:54] Nak buat cip ni orang kata pemindahan teknologi. Saya kadang-kadang lawak jugalah. Saya tahu lah ini macam zaman sekolah dulu kan. Kita masuk pertandingan perbahasan. Okey. Masuk pertandingan perbahasan adalah tajuk. Malaysia mesti menyokong pemindahan teknologi kan. Ini dah 40 tahun aku tengok kadang-kadang komen-komen netizen ni masih lagi start di zaman 1980-an pertandingan perbahasan. Oh ini semua tak perlu. Kita hanya perlu pindahkan teknologi. Kenapa kita masih lagi tersangkut Kerana teknologi tidak dipindahkan dah Ini konsep pemindahan teknologi ni sebenarnya Selepas 40-50 tahun Kita tahu bahawa Kalau kita berharap orang pindahkan teknologi Dia tak pindahkan teknologi Kita terus jadi mangsa tukang pasang Dan gunakan barang dia Sebab itu Masa kementerian ekonomi Masa kami masuk dululah
 
-[1:07:53] Kita compare kan. Sebab dia ada satu perkara yang pelik tau. Hmm.
+[08:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
 
-[1:07:58] Malaysia sebenarnya memulakan industri semikonduktor ini lebih awal daripada negara-negara lain di rantau ini. Malaysia mula tahun 1972.
 
-[1:08:09] We see Taiwan starting in the early 80s, 81, like that. Shenzhen is slower, in the 80s. Korea is also in the 80s. But it's weird, why are we the first to start, he is the most forward? The world's semiconductor center is Taiwan, TSMC. Then Korea has Samsung with...
 
-[1:08:36] Hynix Kemudian you ada Shenzhen Jadi kita pun tengok Sebenarnya Kita tengok kepada beberapa kajian Ada satu kajian tu menarik Dia membandingkan
+[08:24] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
 
-[1:08:51] IP filing, intellectual property filing di antara Penang, Malaysia, dengan Taiwan, dengan Shenzhen, dengan Korea. Memang langit dengan bumi dalam masa tempoh 10 tahun walaupun kita dah ada 20 tahun dalam industri itu. Mereka memang menumpukan kepada IP. Mereka tak tumpu kepada kilang-kilang besar. Mereka menggalakkan kepada IP. Saya boleh lihat.
 
-[1:09:21] This is what I want to say about Miti. The conflict with Miti. Why Miti is so stubborn. Zafrul is so stubborn. He doesn't agree with Am's promise. There will be a story about why he is so stubborn to make content about Am. He doesn't agree but he should make content. There is a story.
 
-[1:09:40] So when we look at the willingness to do RMK 13, the view of the Ministry of Economy is that we have to change our model of incentives. Unlike Malaysia, with Taiwan, with Shenzhen, with Seoul, right?
+[08:31] Speaker 2: Dia di rumah kedai.
 
-[1:09:58] Ialah kerana Malaysia model kita ialah untuk menarik minat MNC-MNC kilang-kilang besar ini datang untuk suruh kita pasang.
 
-[1:10:10] And we give a lot of incentives, we give billions of incentives that are not known to many people. When the government announced that it had successfully withdrawn the FDI of 4 billion from the company, it did not actually tell how many tax incentives were given, tax relief, how many tax incentives were given.
 
-[1:10:37] Ada kalau campur-campur-campur, ada yang berbilion tau. Jadi saya tanya soalan itu di parlimen bila aku dah tak jadi menteri. Miti jawab, Zafrul jawab, inilah rahsia kerajaan. Itu yang kita nak tukar. Kita kata kalau kita terus berbelanja berbilion-bilion ringgit tiap-tiap tahun, bagi duit percuma sebagai insentif kepada syarikat besar, sampai bila-bila jadi pekerja kilang. Kita takkan berjaya naik dan mencipta. Jadi kementerian pandangan, kementerian ekonomi, ini yang pertembungan dengan MITI lah. Kerana kuasa itu besar kepada MITI. Dia ada bajet berbilion-bilion untuk dia bagi kat syarikat-syarikat ni. Lepas tu dia umum, FDI masuk.
+[08:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
 
-[1:11:28] Oh, senang lah macam tu kan. Jadi kita nak tukar, kita kata kita dah kena kurangkan insentif cukai, insentif kapital yang bagi ni, kita kena bagi insentif dalam bentuk IP.
 
-[1:11:45] So kalau you nak masuk cukai you bayar, yang lain semua you bayar tapi you dapat IP yang you tak boleh dapat dari tempat lain kan. Jadi daripada situlah timbul arm.
 
-[1:11:56] Kerana dia padan dengan cita-cita kita untuk mencipta chip sendiri. Dan mencipta chip sendiri itu maksudnya dia kena juga dengan model ekonomi kita yang berasaskan kepada AI dan sebagainya lah.
+[08:41] Speaker 2: Haah. Ha.
 
-[1:12:13] Aku boleh sambung lagi tapi kesian dah cincung dengan ni semua. Sebelum banyak lagi cerita, ini belum masuk lagi cerita pasal apa nama ni dipercepatkan ni kan. YB Cincung punya pendapat tak? Tak sebab saya juga graduan bidang elektronik kan. Kita dua orang kan. Kita dua sama. Kita dua elektronik engineer. Jadi memang ramai kawan juga kerja kat Intel, Penang, syarikat lain. Dan memang perlukan satu lonjatan. lagi 20 tahun situasi mungkin lagi mencabar sebab yang memasang tu negara lain lagi murah dulunya kita bersaing dengan contohnya Taiwan lepas tu dia dah melonjat so kita tinggal lah dalam liga yang sama sekarang dengan Vietnam dia akan datang mungkin dengan Bangladesh mungkin dengan negara lain so kita kalau tak ada lonjatan kita akan stay the same so bagi saya ini adalah satu percubaan dalam rancangan RMK ke-13 Dan saya juga cadangkan supaya lebih banyakkan homegrown pattern. Yang itu sangat penting. Sebab kalau tak ada hak cipta, sebenarnya kita tak ke mana-mana. Saya setujulah dengan bapak itu. Okey, sekarang aku nak cerita sikitlah pasal... Kita pernah cerita dulu lah. Tapi orang mungkin tak faham pasal arm semua ni kan. Baguslah juga sebab dia...
 
-[1:13:38] mengajar dan mengajak rakyat kita untuk memahami industri semikonduktor ni. Yang orang kita selalu faham ialah Intel. Intel, Intel, Intel. Cip semikonduktor ni Intel lah kan. Dia ada dua jenis dalam dua kaedah membangunkan cip dalam dunia ni kan. Satu ialah yang mana dia dibangunkan oleh in-house, oleh syarikat itu chip dia sendiri dan dia jual chip itu. Ini termasuklah Intel termasukkan even AMD lah saya ingat buat lah kan. Ini yang dulu-dululah. Ini yang laptop zaman banyak dalam laptop lah zaman dulu-dulu kan sebab dulu chip ni hanya digunakan di dalam PC dan juga laptop.
 
-[1:14:28] Bermula awal tahun 2000 lah, banyak lagi benda yang mula menggunakan chip lah. Satu ialah mainframe dah kurang dah. Bila ada cloud, dia mula ada data center. Tapi yang meledakkan penggunaan chip ini ialah gadget, handphone, tablet, IOT semua ni kan. Kereta. Kereta kan, machine apa nama ni, vacuum cleaner ni, semua ni kan. Ini semua yang meledakkan permintaan kepada chip.
+[08:43] Speaker 1: Isu Bersatu bergaduh.
 
-[1:15:03] Another practice that existed from the past is the practice used by a company from Cambridge. It is a result of the Cambridge industry. The company is called ARM. It has been around for a long time, even in 1975. He took another practice. He is not involved in the production.
 
-[1:15:27] and he didn't market his chip using his name ARM. Because people don't know what ARM is, right? What he did was, his expertise was chip to chip. And why is this ARM chip so popular, especially in handphones and gadgets, because it uses enough energy compared to Intel.
 
-[1:15:49] Jadi oleh kerana dia tak banyak pakai tenaga, dia sesuai lah dengan handphone semua kalau tidak bateri. Kita letih, kita nak kena charge kan dalam kereta semua kan. Cara kaedah dia lain tau, dia menyediakan blueprint keseluruhan design tu dan bila orang nakkan design, dia kena bayar royalty kat dia, kena beli IP tu dulu. dah siap. Yang perlu diubah hanya lebih kurang 20% disesuaikan untuk kegunaan lah. Inikah apa yang syarikat-syarikat satap macam Skychip semua tu buat? Maksudnya 20% Nanti belum sampai kat Skychip lagi lah. Skychip sebelum ini pun tak sampai kat situ lagi lah. Ini yang Samsung, Apple semua lah. Qualcomm buat semua lah kan. So dia akan beli daripada ARM. So dia ubah 20% saja. Yang itu digunakan dalam dia punya Bila Samsung contohnya jual phone dia kan, harga kalau phone tu bila Apple jual, harga dalam phone tu mungkin RM2000 kan. Harga prosesor dia, chip dia katakanlah RM500-600 kan. Bagi setiap penjualan chip tu, arm akan ada royalty dia. So ada dua bahagian royalty. Satu, access untuk dapat RM80% dan dia bantu kita untuk kita siapkan chip kita. jual itu, then apa nama ni, dia akan dapat duit jugalah. Jadi,
+[08:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
 
-[1:17:25] Keadaan di sekarang...
 
-[1:17:27] 95% pasaran cip dunia ini yang gadget, yang mobile, yang kereta semua arm. Dia monopoli tau. So you tak bolehlah duk sibuk kalau kita duk umum kita sekarang nak jadi front end. Kita sekarang nak melangkah ke era baru semiconductor. Kena gelakkan orang lah kerana you nak jadi macam mana. Semua dikawal oleh arm. Jadi sebab itu 2024 ke KL20 kan. Jadi Am tak pernah ada kat rantau Asia Tenggara ni. Tak ada dekat Asia Tenggara ni yang buat chip.
 
-[1:18:07] So, I don't know how we did it. Luckily, we knocked on the door and suddenly he came. Because for him, KL20 looked interesting at that time. He gathered. So, he came. When he came, we met him. We took him to see Dato' Sri Anwar too. So, Dato' Sri Anwar was interested.
+[08:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
 
-[1:18:26] So, initially, Dato' Sri Anwar said, please help us to build a semiconductor. So, this was a meeting between me and Dato' Sri Anwar, a day after the L20. So, Dato' Sri Anwar, PMX, asked him to go to university. Okay. Then,
 
-[1:18:50] Contact kami lah kata, actually kalau you betul-betul serious pasal nak bangunkan front-end chip ni, dia sebenarnya lebih complicated daripada itu. You need the IP. Kemudian you perlu latih engineer-engineer. Kemudian you perlukan the environment untuk you design. Kerana IP saja, you perlukan the software. Dia macam kita nak tulis dokumen. door, you nak tulis pakai apa tak boleh kan, so even the whole engineering environment tu you perlukan, semua ni dengan arm kan kemudian you perlu latih sampai 10,000 engineer, semua itulah kan, kemudian
 
-[1:19:37] Even if you can design, you need ARM to help you connect with the buyer. Who wants to buy your chip? This is a chicken and egg. You can't make a chip but no one wants to buy it. But all of that, because ARM is a 95% monopoly in the world, everything has to go through it. So from there, when we discuss,
+[08:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
 
-[1:20:02] Maka memang tanggungjawab itu ialah kementerian ekonomi sebab kementerian ekonomi yang bawa masuk, kementerian ekonomi yang menetapkan dasar contohnya insentif ini mesti beralih kepada IP. Tak boleh dah bagi berbilion-bilion kepada syarikat asing ni. Kita kalau tak bayar cukai mati kita kena kejar. Tapi ambil cukai bilion-bilion tu lepas tu kita bagi balik kepada syarikat asing ni lepas tu kita umum FDI. Aku tak puas hati bab tu tau. Dan itu jadi sumber korupsi. Bila ada orang, ada menteri, ada pegawai-pegawai yang boleh menentukan, saya bagi awak RM300 juta, saya bagi awak RM1 bilion, itu jadi sumber korupsi.
 
-[1:20:47] Jadi kalau apa-apa yang nak dilaburkan balik Bagi IP ke ada Kan jadi Jadi
 
-[1:20:53] sebab itu kementerian ekonomi yang merundingkan lah maka kami rundingkan dan perkara itu dibawa berkali-kali ke kabinet lah dan masa itulah yang semua bergebut-gebut nak ambil kredit
+[09:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
 
-[1:21:07] Jadi kalau macam Miti
 
-[1:21:11] Jadi dia dalam keadaan yang pelik. Kami bersetuju front end ni. Tapi kami tak setuju Kementerian Ekonomi buat. Ia mestilah kami. Haa pula dah. Yang kamu jadi Miti, Menteri bertahun-tahun yang kau tak fikir kenapa? Bila orang lain buat, pasal kau dengki. Teruklah macam tu kan. Jadi Anwar Ibrahim pula awal-awal. Dia macam tu lah. Dia depan lain, belakang lain kan. Dia awal-awal dia juga yang suruh Kementerian Ekonomi pergi buat semua tu. Jadi bila dia tengok Zafrul tak puas hati menjerit-jerit ni. Dia, oh tak boleh lah ni, macam mana ni, macam mana ni Tapi saya nak benda ni berlaku Itu yang kena pergi ke kabinet berkali-kali lah
 
-[1:21:50] So, in the end, we also gave up and said, it's okay, this is for the country. Are there any kids who are fighting to publicize who wants to publicize this credit? It's up to you to take it. So, because of that, in the end, even though it was tried 100% by the Ministry of Economy, the arm that is close to the Ministry of Economy,
+[09:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
 
-[1:22:12] If you look at the announcement, the signature is placed under the Miti. But there is wisdom in it. When it becomes like this, what do you want to say to me? All these things, the signature is Miti, the money control is Miti, all Miti, all Maida.
 
-[1:22:32] Sebab masa itu Maida dengan Miti, Pantah Hadir mudah saja, saya bersetuju benda ini tapi kami yang kena buat. Kami yang kena umum. Dan ikut suka kau ambil je lah. Jadi sama jugalah pasal Kementerian Kewangan, Amir Hamzah. Dia macam neither here nor there. Saya setuju tapi saya tak setuju. Saya setuju tapi saya tak setuju. Saya tak setuju sebab duit tu banyak sangat. Saya setuju kan dia. Pumpang, pumpang, pumpang dia drag, drag, drag, drag. Anwar Ibrahim ni dah dua kali jumpa dengan pimpinan. Dah memang nak sign, dah komik. Dua kali tukar tarikh ni. Sepatutnya, I think mula-mula Februari.
 
-[1:23:12] Dia dah datang semua tapi Anwar tak boleh nak selesaikan. Sebab Zafrul dengan Amir Hamzah tak bersetuju ni. Miti tak bersetuju sangat kan. Jadi dia pun minta tempoh masa. Kemudian Anwar sendiri yang pergi bincang dengan CEO Am. Dan juga dengan apa nama ni Masayoshi San lah. Tuan punya softbank kan. Kemudian dia happy-happy-happy-happy. Itu yang jadi. Itulah kan. Saya nanti bukan sekarang lah. satu persatu, berapa banyak mesyuarat ni yang telah dilalui untuk menunjukkan kalau dia kata perkara ini terburu-buru dan yang terburu-buru itu seluruh kerajaan Malaysia lah, bukan kita lah jadi sebab itu yang lawak ni
+[09:27] Speaker 2: Sama Tok Tok Bersatu.
 
-[1:24:01] Gambar apa ni? Gambar tu rakan media lah. Rakan media masa tu, dia sedia maklum benda yang berlaku ni. Hmm.
 
-[1:24:09] Itu gambar reporter Zafrul bagi maklum balas kepada reporter depan tandas kan? Dia betul-betul selepas...
 
-[1:24:23] Launching ceremony tu, dia keluar cepat-cepat di depan tandas tu and then buat. Dia bila launching, bukan dia nak pastikan supaya dia the first yang bagi maklum balas kepada media lah. Beria YB tunjuk. Beria. Beria juga lah. Supaya arm ini dikenali sebagai hasil tangan kerja dia lah, air tangan dia lah kan. So kita orang, aku duduk kat atas pentas, sibuk lagi dia dah ada kat depan lah bagi PC kan. kebodohan yang ada dalam kajian sebelum ini punyalah berebut kredit. Dan saya ingat, Am sendiri kata jangan announce dulu, jangan announce apa-apa dulu sebab diorang listed on and very sensitive to announce the deal. Sebab benda ni tak pernah berlaku sebelum ini. Am tidak pernah ada sebarang program seperti ini untuk membantu sesuatu negara untuk membangunkan semikodakter. Aku monopoli Kau nak kau datang jumpa aku Kau tunjukkan berapa duit kau ada Sama ada you ada kepakaran ke tidak Sebab arm is in their best interest Bila dia bagi you IP Chip itu berjaya dihasilkan Dan chip itu berjaya dipasarkan
+[09:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
 
-[1:25:42] Sebab duit dia bukan bayaran IP tu semata-mata tau. Duit dia ialah bila dia jadi Samsung. Bila dia jadi Huawei. Sebab bagi setiap gadget itu dia dapat duit kan. So awalnya tu dia tak bagilah umum. Tapi lawak lah kita orang masih dekat dalam. Zafrul dah bagi sidang media pasal pelancaran. Kemudian Zafrul jugalah dalam sidang media dia tu. Dia cuba nak pastikan kredit itu kepada PM dan dia. Sebenarnya inilah hasil diketuai oleh PM, rundingan semua. Nak beritahu ini tak ada kena-mengena dengan kepentingan ekonomi. Allah maha kaya. Selepas satu tahun, dia berbalik macam ini. Bila sekarang dia nak gunakan kononnya, aku sakau 1.1 bilion dengan tergesa-gesa buat benda ini. mengumumkannya pun Tengku Zafrul, yang duk ambil gambarnya pun Datuk Seri Anwar Ibrahim, kok mana yang Rafizi tergesa-gesa kan? Cuma,
 
-[1:26:53] Ini samalah Yang ini Dan juga selepas ini Yang pasal neta kan Ya Err
 
-[1:27:00] Dia sebenarnya untuk menuduh berlaku salah laku, dia kena ada unsur-unsur salah laku. Unsur salah laku yang pertama ialah dia mestilah ada...
+[09:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
 
-[1:27:12] Perihal kepentingan peribadi dan juga kewangan Itu sebenarnya elemen yang perlu dibuktikan Kalau ada pertuduhan Siapa yang sebenarnya mendapat manfaat dan kepentingan peribadi Selepas perkara itu dibuktikan
 
-[1:27:32] Dia kena buktikan pula Ada pemberi Dan ada penerima Hmm
 
-[1:27:37] Apa yang diberi, apa yang diterima kan Dan perkara ketiga, dia kena buktikan bahawa Ada salah guna kuasa untuk membolehkan Sesuatu keputusan yang merugikan negara itu telah dibuat demi habuan Hmm
+[09:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
 
-[1:27:58] Tiga-tiga ni tak ada. Kan? Jadi, saya sebenarnya agak...
 
-[1:28:03] It's a good thing if he continues and if he claims in court, it's good, we can show. We arrest everyone, Tengku Zafrul, we arrest Anwar Ibrahim, we arrest Amey Hamzah, we arrest KSU, TKSU, MITI, we arrest everyone, they all go to court.
 
-[1:28:27] Tapi saya rasa dia tak akan berakhir di mahkamah. Sebab tujuan dia ini hanya ialah untuk mewujudkan persepsi sekarang kan.
+[09:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
 
-[1:28:37] I want to sit with my lawyer, if he doesn't end with a hearing in court, I want to sue the government. Because of misusing and having something in the eyes for the character assassination, because of the SPRM, if we pay attention,
 
-[1:28:58] SPRM sebelum ini kan orang tu tak kena dakwa baru kena tahan untuk soal siasat atau reman kan. Dia dah perik orang tu dan dah bawah panggil media.
 
-[1:29:08] Bayangkan berapa ramai kaki tangan kerajaan, orang biasa yang selepas itu kita tak tahu pun kes dia itu sebenarnya kena dakwa ke tidak. Tapi dia dah seret, dia dah malukan sebab Azam Baki nak tunjukkan bagusnya dia buat kerja. Kalau bercakap dengan penjawat awam, ramai penjawat awam merasakan perkara itu cukup tidak adil kepada mereka. Kerana mereka boleh kena pasang macam itu je. dan dia kena reman
+[09:50] Speaker 2: Tak nampak. Jadi.
 
-[1:29:40] Even though there's nothing, he was only insulted. One Malaysian has seen all of this. So I'm waiting for him to end his preaching. Alhamdulillah. I'm sure he's actually very embarrassed to go to court. But if he doesn't end his preaching, if he wants to do the style of the past, the style of the modern era, shouting, shouting, shouting, that person, that person, that person. Remember one thing from the beginning, right? We're embarrassed. Anwar Ibrahim,
 
-[1:30:09] Pergi buat ucapan, kata ada bukti Perikatan Nasional dapat duit judi.
 
-[1:30:16] I don't know who told him. Maybe Tengku Zafrul, because he was the Minister of Finance who was responsible at that time, I don't know. But he never asked us. We don't know. We think there is proof. After a week becomes a month, after a month becomes a year, do you remember? Quietly like that. Accusing people
+[09:51] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
 
-[1:30:39] Ambil duit judi ni sebenarnya benda yang besar kan. Jadi kalau tengok memang banyak tuduhan-tuduhan yang dibuat tetapi tidak ada bukti. Jadi kalau yang pasal arm ni jadi macam tu juga tak apa. Kalau dia diam berbulan-bulan lepas ni aku tak kena tangkap ke tak kena dakwa aku akan saman kerajaan tau. Sekarang ni tengah bincang dengan peguam. Kalau itu keadaannya memang aku nak saman kerajaan pihak berkuasa macam SPRM ni tidak boleh sewenang-wenangnya dijadikan senjata untuk menyerang sesiapa yang orang politik atau SPRM ataupun politik dalaman kerajaan tak suka.
 
-[1:31:26] But now, Raf, this is just a matter of opinion. It's just a matter of opinion. What's their opinion if we can still access everything that's happening? I don't know, actually. Because I respect this. Even though they know Malaysia through us, through me.
 
-[1:31:48] Ehh...
+[09:53] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
 
-[1:31:50] Apa yang jadi pun kan Kita nak Malaysia berjaya Betul Dan benda ni tak pernah Sekarang lagi
 
-[1:31:57] It's more challenging because Indonesia is already in the lead. Hmm. So, last month Indonesia also had a similar program like this with ARM, right? So, in the past, if only we, Malaysia, at least we can breathe a little bit, right? Other people can't. If this program is problematic, Indonesia will make a chip first. We're dead, right? So, whoever it is, we want Malaysia
 
-[1:32:26] mendapat laba dan untung daripada inilah. Dan jaya lah. So saya tak berhubung dengan dia orang langsung. Ini yang sebenarnya satu-satunya reaksi yang saya ada ialah selepas saya resign.
+[10:00] Speaker 2: Itulah kita kena jemput dia YB.
 
-[1:32:42] Bila mereka datang, kita tanda tangan dalam bulan Mac kan ke Februari. Bulan Mac kan, Mac 2025. Jadi lepas itu ada beberapa siri mesyuarat bila nak mula operasional lah kan. I think awal Mei tu.
 
-[1:32:57] Masa tu saya dah buat keputusan akan resign lah Ada satu mesyuarat dengan dia orang Dia terduduk lah Dia terkejut badak lah
 
-[1:33:04] Dan dia memang peliklah. Tak pernah lagi berlaku dalam dunia ini yang mana presiden ialah ayah dan timbalan presiden adalah anak. Yang itu dibuat komen tau kan. Tak pernah berlaku lagi lah. Jadi saya menghormati lah sebenarnya kita jangan campurkan perkara ini perlu diteruskan oleh mereka. Tapi dari sini yang datang Mohon supaya kalau mereka, kalau James, pegawai di Kementerian Ekonomi, pegawai saya yang menguruskan salah seorang, yang menguruskan rundingan dengan amat.
+[10:03] Speaker 2: Tak apalah mengurangkan podcast.
 
-[1:33:50] Mereka tanya pandangan saya. Okey. Kalau kami tak ada, dia kata payah nak buat benda ni ni.
 
-[1:33:57] Because the ones who really understand, who really help, who bring it to the current level are me and my team, including James. When we all resigned, he said he didn't know where to go because he didn't know the government, he didn't know Malaysia, he didn't know where to knock.
 
-[1:34:19] Jadi dia tanya kalau mereka mendapatkan khidmat James di dalam pasukan peralihan untuk melaksanakan program inilah.
+[10:09] Speaker 1: Okey, alright. Beria? Hmm. Boleh kita Beria ya beria, beria, beria.
 
-[1:34:33] My view at that time was that it was your right and James' right. It had nothing to do with me. We asked James to put up a position from the private company first. Take a pay card and join the National Service. He had done the National Service for two and a half years. He resigned. He returned to the private sector. Our side has no right to prevent him from working with anyone.
 
-[1:35:03] So James, they hired James in the transfer team, basically a transition team, to start implementing this as a relationship between the armed forces. Because he wasn't even in Southeast Asia. He didn't know much about Malaysia, with his team in San Francisco, in Cambridge, and here. But after two months,
 
-[1:35:29] James perasan pegawai-pegawai kerajaan ada yang daripada MITI, ada yang daripada MOM, duduk sindir-sindir dia kata sebenarnya kamu ni jaga interest Rafizi.
+[10:14] Speaker 2: Memang yang ni sangat beria menunggang agama.
 
-[1:35:45] James resign terus lepas tu. Kita bendul, kita tak terfikir kan. Jadi, ini kepada pegawai-pegawai MITI dan pegawai-pegawai MOF lah kan. Kamu pegawai kerajaan. Kamu jangan campur politik kan. Benda kalau bagus, bagus. Kalau tak bagus, jangan cuba main politik. Kerana politik ni ada pasang surut, ada turut naik kan. Mereka yang berada kat Putrajaya, satu hari nanti orang lain masuk kan. Jadi pegawai kerajaan ni jangan campur lah kan. Jadi bila James dia dengar, masa tu kita tak tahu apa-apa pun ingatkan okey lah you teruskan kan. So James kata dia nak resign. Because dia kata...
 
-[1:36:35] Well, ikut suka diorang lah nak buat apa. Tapi kalau nak menuduh begini, padahal sebenarnya Am yang...
 
-[1:36:43] Yang apa nama ni Yang minta Yang minta kan Untuk memastikan benda ni berjaya kan Dia sebenarnya Kalau ikut nak pergi buat benda lain Apa kan Jadi Selepas 2 bulan Memang James resign lah Tapi Fitnah yang dibuat tu Kononnya James jadi director Eh arm ni Is New York Lister Mana ada orang Boleh jadi director Atau apa semua kan Jadi dia kata Ada kepentingan semua Jadi Dia kena Buktikan Tiga perkara itulah, satu sen pun tak ada. Saya tidak berada di dalam mana-mana jawatan kuasa yang buat keputusan semata-mata saya. Keputusan ini adalah keputusan kabinet. Nantilah minggu depan saya senaraikan setiap satu mesyuarat.
+[10:18] Speaker 1: Tahniah. Okey.
 
-[1:37:31] that have been passed, where there is Zafrul, where there is Amey Hamzah, where there is Anwar Ibrahim, every one of them, where there is KSU MITI, where there is TKSU MITI, where there is CEO Maida, all of that we will list one by one, right? The agreement is
 
-[1:37:51] Peguam negara Yang semak semua Tak ada Tak ada satu benda Malah frustration Saya dulu itulah
 
-[1:37:59] Sebab itulah kita tak boleh ke mana. Perangai dalam kerajaan ni, perangai hasad dengki Melayu tu tak pernah habis tau. Dia kira, dan dia sebenarnya, perlambangan kepada yang ada dalam PKR juga, jengjong. Dia macam ni kan, kamu buat kerja sampai mampus, idea semua kamu, kamu buatlah semua, tapi dah siap tu beri kat aku eh, biar aku nampak cantik di depan, sengih semua. Jadi, perangai budaya tu tak habis. Berobot kredit. Berobot kredit. Budaya berobot kredit. Akhirnya, dia bukan sepanjang lebih kurang 6 bulan yang kita nak luluskan benda ini kan. Tak ada satu hujah pun yang kata...
+[10:20] Speaker 2: Hmm. Bersedia?
 
-[1:38:39] Program ini tidak baik untuk Malaysia Semua kami setuju Tetapi Kami kena buat Kami setuju Tetapi Ada je tetapi je kan Tapi tak pernah kata Saya tak bersetuju Kerana ini merugikan negara Tak ada
 
-[1:38:51] Jadi akhirnya dia jadi perkara titik bengit bergaduh. Dia sama macam PKR lah. Mula-mula diorang ni tak boleh diada sebab kita nak orang lain. Bila kami tak ada, oh tapi kami nak mereka buat kerja. Mereka mesti setia dengan parti. Bila kita dah kata dah kamu jadi pemimpinan, kut suka kamu, oh macam ni saya teruk lah mereka tak membantu kita. Eh dia kan kamu yang nak jadi pemimpin. Buat apa kalau nak jadi ketua tapi suruh orang lain buat kerja kan? Itu namanya Ali Baba. Jadi dalam kerajaan pun perangai itu tak habis tau. Jadi saya awal-awal tu fras kerana semua orang bersetuju benda ni okey. Semua orang kata ini akan melonjakkan nama Malaysia. Tapi pada masa yang sama semua orang letak segala jenis halangan supaya dia ke depan. Dia ke depan. Itulah sebenarnya cerita pasal am lah. Dia cepat-cepat nak sailang ke kanan tu. Sekarang ini bila benda ni ada, orang boleh pergi google. Semua orang kata eh tapi Zafrul yang kata macam ni. Eh tapi Anwar Ibrahim yang kata macam ni. Kok mana yang Rafi Zirajnya. Okay. Baik. Oh ada lagi. Ada lagi. Sikit lagi. Kita lupa.
 
-[1:40:16] Soal bergebut-gebut nak dapat kredit ni kan?
+[10:22] Speaker 1: Ha. Yang ini yang ini ha Cincng ha. Tak usah masa Cincng terheret.
 
-[1:40:20] benda ni bukan sahaja sampai kat kerajaan persekutuan dia sampai kat Selangor
 
-[1:40:25] Jadi kalau nak dakwa lah kata benda ni rush semua kan Bukan sahaja setakat aku yang tergesa-gesa Lebih tergesa-gesa ialah Nurul Izzah dengan Amiruddin Syahri lah Nurul Izzah yang tak pernah terlibat pasal semiconductor ni Tiba-tiba menjadi penasihat kepada semiconductor Kan dekat Selangor kan ada IC Design Park Di bawah sidang
 
-[1:40:57] IC Design Park itu ialah program kerajaan persekutuan. Di bawah arm inilah. Yang memberi peruntukan 50 juta itu untuk mewujud IC Design Park. Bukannya kerajaan Selangor. Itu diluluskan oleh...
+[10:28] Speaker 1: Ha. Ini apa ni YB?
 
-[1:41:11] Kementerian Ekonomi. Supaya kita boleh mula menarik startup dan syarikat-syarikat untuk mereka cipta cip menggunakan IP daripada ARM. Dan kat situ yang kita nak latih ekosistem tu macam tu lah. Jadi kita pun susah payahlah gabungkan itu. Tak pernah ada Amiruddin Syahari tak pernah ada Nurul Izzah. Bila aku resign, tiba-tiba Jadi penasihat SIDEC mengenai semi-konduktor pasal arm semua ni lah. Anwar Ibrahim pun pergi melawat, jumpa engineer semua kan. Jadi akhirnya budaya kita tu sampai kesudah tak habis lah. Budaya ambil foto finish. Jadi kalau sekarang ni bagus lah hikmah dia.
 
-[1:42:01] Kalau kata benda ni terkesa-kesa merugikan negara...
 
-[1:42:06] Ramainyalah orang bodoh di kalangan pimpinan kita ni Benda ni merugikan negara Tapi semua berebut-rebut nak pergi ambil gambar ni Semua berebut-rebut nak jadi penasihat Tapi selagi dia tidak menunjukkan tiga elemen tadi
+[10:33] Speaker 1: Yang ini aku pun nak tengok ni. PMX beria jadi syro. Backup Azam Baki.
 
-[1:42:21] The element of personal importance, the element of the giver and the recipient, and also the proof of the money that comes in, and the element of... The element of success. Success. That is not there until now. So we wait. He is now playing with perception outside.
 
-[1:42:45] Okey, mungkin kita ada satu lagi YB yang tuduhan juga. Kasi agak cincong jadi mangsa minggu ini. Eh, tak. Live. Neta, Itramas dan Invoke. Ini YB Cincong. Kalau kita dengar apa yang dikatakan oleh Caprice, kalau Inverber Team. YB Rafizi oversaw direct nego punya projek awarded to Itramas. Di mana dia kata tu? Ini dekat dalam video pertama tu. Oh, video pertama. adalah terus kepada Lee Chubu yang dikatakan ada share juga dalam Invo dan itulah menyebabkan apa ni konflik kepentingan apabila projek flagship Bawah Neta tu adalah juga apa ni Itramas walaupun Itramas dengan UAM lah kan jadi
 
-[1:43:38] I, now if you want to count it, it's already at 11 or 12 o'clock, right? Poor people who are watching. Because he just wants to hear one thing. He wants to hear whether I will sue or not. I will sue. Okay. So, only this process of suing, we have to explain, give an explanation.
+[10:38] Speaker 1: Maksudnya dia sendiri yang forward video ni.
 
-[1:44:02] Selepas kita bagi penjelasan, kita bagi dia peluang untuk dia sampaikan penjelasan itu kepada pendengar-pendengar dia. Kemudian kita bagi peluang dia untuk minta maaf.
 
-[1:44:14] We have given all the opportunities since the last three days. Not only did he not apologize, he did not share, he was busy with one sentence, he was confused. So that's why I have discussed with my lawyer and we will continue with the summons to Caprice.
 
-[1:44:37] We will look at the other ones one by one. But I think it's because Caprice is the one who made the content. And the content, it really accused me that I oversaw the direct nego where the company that has a connection with me is its benefit. Then when I mentioned
+[10:42] Speaker 1: Orang yang bukan PKR mungkin terkejutlah.
 
-[1:45:06] ...saya akan saman......jawapan Caprice ni......dan juga Chaplos-Chaplos yang lain lah. Dia hanya kata...
 
-[1:45:16] Kami tanya sahaja Oh dia tanya boleh Orang lain tanya tak boleh kan Mengikut undang-undang Deformation Deformation law lah kan
 
-[1:45:27] bertanya itu bukanlah defense ataupun boleh menyelamatkan daripada kena tindakan saman memfitnah. Sebab dia ada konsep innuendo dan insinuation. Dengan bertanya tetapi bertanya itu adalah satu helah untuk mewujudkan innuendo sesuatu di dalam bentuk pertanyaan yang itu tetap fitnah jugalah kan. Jadi ada konsep innuendo, ada konsep insinuation apabila hakim melihat defamation. Baik.
+[10:45] Speaker 1: Itu salah satu sebab saya keluar daripada saya tak ada WhatsApp ni kan sebab WhatsApp ni ada banyak-banyak group lah. Jadi PKR ni ada saya rasa
 
-[1:46:10] Saya nak jawab yang tu semua. Tapi sebelum itu, kita bukti yang dia kata ni. Bukti ni kononnya ada 6 bukti yang dia bagi kan. So aku tengok lah. Mungkin korang dah tengok secara terperinci lah.
 
-[1:46:24] Bukti pertama ialah teks ucapan aku semasa pelancaran National Energy Transition Roadmap.
 
-[1:46:35] Tek sucapan itu menyatakan bahawa kita kena mempercepatkan peralihan tenaga kita.
+[10:55] Speaker 2: yang ini dekat group Malaysia Madani gapo. Kemudian ada banyak-banyak group lainlah orang orang group-grouplah kan.
 
-[1:46:42] Bukti apa pula? Sejauh saya tahu ini adalah satu mikrodokumen. Jadi kalau macam itu, naya lah semua menteri dituduh salah guna kuasa sebab dia ada buat ucapan. Minta percepatkan. Dan dalam itu tak ada sebut syarikat, tak ada sebut apa. Kita hanya sebutkan bahawa sasaran macam mana kita akan mempercepatkan peralihan tenaga. lagi gambar di atas pentas yang mana ada tanda tangan ni MOU aku jadi saksi kan aku. Bukan jadi saksi pun. Selepas dia sign dia ambil gambar kan. MOU tu di antara Kazanah UAM dan juga Itramas dan rasanya masa tu dah ada I-Squad Capital ke belum lagi? Tak ada lagi. Belum ada lagi. Mungkin lah. So yang itu Nanti aku jawab. Itu kan maksudnya.
 
-[1:47:45] Ambil gambar MOU syarikat swasta Tanda tangan Itu jadi bukti Jadi Ehm
 
-[1:47:53] Kemudian satu lagi gambar ialah laporan berita, satu lagi bukti kondonya lah, laporan berita di laman Itramas.
+[11:06] Speaker 1: Orang mungkin tak tahu di luar bahawa selain daripada menjadi Perdana Menteri, Datuk Seri Anwar juga sekali-sekala dia orang kata Moonlighting. Dia panggil apa?
 
-[1:48:05] Itramas commented on Neta and how Neta will accelerate the energy transition and create business opportunities for new energy companies. There is no need to mention the name. Meaning, if that's the case, all the comments about Neta on his website, on the media, I have all the importance.
 
-[1:48:30] Then, the only thing that he said, this is important evidence, is that he showed the search of the Malaysian company, SSM, in 2019. He showed that he tried to have shares in Invo, RM300,000. That's what I will comment on next. But so far,
 
-[1:48:54] Sebab tu aku bila tengok semua tu... Aku kata... Hmm... Ini boleh menang saman ni. Peluang tinggi. Peluang tinggi kan. Sebab... Memang kalau nak tengok tu... Memang... Satu... Dia akan...
+[11:18] Speaker 1: Moonlighting lah kan? Dia Moonlighting sebagai syro juga kan. Di dalam WhatsApp WhatsApp.
 
-[1:49:10] We have to ask the elements of the previous one. The first element is the element of importance. Meaning, the corruption has happened. The corruption has happened. So, we also have to look at the elements of the giver and the recipient. Who gave, who received. And if there is evidence at that time, for example, that's what people say.
 
-[1:49:34] Oh kalau Azam Baki, Bloomberg dakwa, korang tak percaya. Kalau Caprice, korang tak percaya. Eh janganlah letakkan Caprice dengan Chaplos ni sama dengan Bloomberg. Baca yang Bloomberg tulis tu. Yang Bloomberg tulis tu bukti satu-satu. Tarikh apa dia? Gambar ada. CCTV ada. Laporan polis ada. Setiap satu tu semua betul. Yang ini ni satu pun tak ada kan. Terima kasih.
 
-[1:50:06] Elemen pemberi dan penerima tu tak ada. Duit tak ada masuk. Kecuali dia boleh tunjukkan lah. Masuk dalam bank account semua. Dan macam aku selalu cakap lah. My bank account ni I'm sure. Amlah dekat Bukit Aman ke SPRM ke bank negara. Dia pantau tiap-tiap hari. Dia tahu berapa duit aku ada, duit masuk. Kalau aku betul-betul ambil duit. Aku dah lama kat dalam. Anwar Ibrahim dah suruh letak kat dalam lama dah. Supaya tutup mulut. Tapi sampai sekarang tak jadi. Dan yang ketiga dia kena tunjukkan elemen
+[11:20] Speaker 1: Tengok ni dia forwardkan satu comment, satu video daripada siapa? Syed Saddiq. Syed Saddiq kata apa? Dia backup Azam Baki. Lepas tu dia komen. Bagus, sangat bagus.
 
-[1:50:40] Ada campur tangan Okey ya Baik
 
-[1:50:44] Now let's start dengan soal Lee Choo Bu Yang kononnya Conflict of interest ni kan
 
-[1:50:52] I actually only knew Lee Chubu after I was not in politics. In 2019. Before that, I didn't know him. Lee Chubu is... Itramas, right? Chubu was the GM, CEO of I think Hewlett Packard Malaysia. I think it was HP in the 1990s. So...
+[11:30] Speaker 1: Syed Saddiq ni orang yang dulu lawan dia kan? Sekarang muji dia. Ini bukan fake akaun kan? Ni betul akaun Datuk Seri Anwar Ibrahim.
 
-[1:51:20] I don't Yelah daripada yang saya kenal-kenal macam itulah kan Dia sebenarnya klien
 
-[1:51:26] Tahun 2018 kan
 
-[1:51:31] Saya jarang sebut lah Because malas Kalau tidak ni cerita lepas Kalau tidak nanti orang kata mengungkit kan So
+[11:39] Speaker 2: Eh saya tak tahulah itu betul atau tidak. Tapi saya tak terkejutlah kalau itu memang betul dia.
 
-[1:51:40] Ini kalau saya minta orang ramai fikir benda ini kan. Kepayahan dan keadaan yang kami kena lalui. Anwar Ibrahim dalam penjara.
 
-[1:51:51] Pati betrabu
 
-[1:51:54] Azmin Ali dah tak pedulikan parti asalkan dia menjadi orang rapat kepada Tun Mahathir dan seterusnya dia menjadi calon Tuan Menteri. Itu keadaan 2016 kan.
+[11:47] Speaker 1: Hmm.
 
-[1:52:05] Semua orang kata PKR, PH ni akan mati sebab PAS tak ada.
 
-[1:52:12] So we, the young people, including Chin Chong, Wong Chen, all of them. What are our options? We also made invoices so that we can be able to attend more than 55 marginal seats, the Parliament of Tumpuan. Not only PKR's, including Amanah's, we also helped.
 
-[1:52:37] So I put my money. I took out all the money I had from the bank. Because we need to hire people. Ask politicians to do their jobs, they become chaplers. They don't want to do all the work, go to the office, do it all the time, they have to sit at the coffee shop, but they get paid. Forward, forward, forward, forward.
+[11:48] Speaker 2: Hmm.
 
-[1:53:03] So, at that time, this is one of the reasons why politicians don't like me. Because I rarely like to hire politicians to do work. Because for me, they are lazy. You pay a lot of wages, you get only one hour a day. So, from the beginning, we made a decision, we need a professional team. That's why Invoke was established.
 
-[1:53:28] Bila invoke ditubuhkan, kita dapat ramai budak-budak yang bersemangat lah. Ada yang memang kumpulan awal tu semua yang top universiti. Dia orang semua letak jawatan tau. Ada yang balik daripada luar negara, letak jawatan kerja. Jadi okey lah kan, masa dia orang kerja...
 
-[1:53:49] Tak, I take 5 sekejap Boleh, boleh Tak apa, tak apa Jarang berlaku Tetap berlaku Tak pernah berlaku Tak pernah berlaku Tak apa, tak apa Sila, sila, sila Okay
+[11:52] Speaker 1: Okeylah tu.
 
-[1:54:02] So, dia orang semua...
 
-[1:54:06] Letak jawatan, bekerja kan
 
-[1:54:11] So sampai 2018 okey lah kan Akhirnya kita berjaya menukar kerajaan
+[11:53] Speaker 2: Okeylah tu. Baguslah tu.
 
-[1:54:18] Masa tu Malaysia dah euforia ni Yang tweet famous Start tweet famous You know Semua ni Semua dia masing-masing Buat hal dia kan
 
-[1:54:27] Saya ditinggalkan dengan lebih kurang 100 orang budak-budak cerdik ini. Apa nak buat?
 
-[1:54:33] Dan masa itu, bila saya bersuara mengenai Tun Mahathir kerana dia buldus keputusan melantik menteri, satu Malaysia ludah maki aku.
+[11:55] Speaker 1: Baguslah tu.
 
-[1:54:48] Jadi, pada tahun 2018, kemudian...
 
-[1:54:51] I have to decide You know Dengan duit yang ada Semua ni Apa nak buat dengan budak-budak ni kan Untuk aku tutup info Dan diorang pandai-pandai sendiri Aku rasa cukup
 
-[1:55:04] Cukup zalim kepada dia orang Budak-budak ni kan Sebab dia dah bagi 2-3 tahun hidup dia untuk invoke
+[11:56] Speaker 2: Okey. Alright.
 
-[1:55:11] untuk Malaysia kan orang tak fikir tau contohnya bila truck tu pergi ceramah daripada satu tempat ke satu tempat kan satu hari truck tu 5 tempat tau
 
-[1:55:25] Pagi di Kedah Kemudian Tengah hari di Apa nama ni Katakanlah Penang Kemudian Petang di utara Perak Malam-malam lagi kan Dia ingat Sampai-sampai tu Terus sembang-sembang Hmm
 
-[1:55:42] We're done, they have to pack up. So we have a team that works almost 20 hours a day, 7 days for 2 years. For you to say, okay, thank you, bye-bye, it's just not fair. They gave their life to this. So that's the decision, okay, we pivot to commercial.
+[11:57] Speaker 1: Hmm.
 
-[1:56:10] Kemudian okeylah kita mulalah semua kepakaran yang ada dekat tim itu daripada software engineering, daripada data scientist, daripada digital marketing, daripada kreatif artis semua tu kan. Semua tu kita gabungkan dan kita mula package kan kepada bisnes SME semualah. Daripada situlah tiba-tiba datang satu klien bernama Itramas. Piding satu projek membekalkan sistem lampu berintegrasi di GALF. Di salah sebuah negara GALF.
 
-[1:56:49] Saya rasa ia adalah Bahrain jika saya tidak salah.
 
-[1:56:53] Dan mereka perlu buat satu platform, smart platform, IOT dengan data science, dengan software engineering semua yang menggunakan live 5.
+[11:59] Speaker 2: Kita terus ke segment.
 
-[1:57:05] In Malaysia, we always use wifi. They have a wifi light, internet light. It's a long story, I don't know. So it was a brand new technology. So they wanted to do a platform to package it for them to bid for. I think in Manama, in Bahrain, there's a smart city.
 
-[1:57:27] But Itramas is not a software engineering or data science company. So that's how they came across us. They knocked our door because it made more sense for them to hire and work with a company like Invoke. Because they are an engineering company and the background of Itramas is
 
-[1:57:49] Dia ni, Itramas ni ada sejak tahun 1999-2000. Mereka, perniagaan awal mereka ialah sebenarnya LED lights. Dan I think, if you Google, mereka adalah salah satu daripada syarikat...
+[12:03] Speaker 1: Cincng kurang bernasib baik hari inialah.
 
-[1:58:06] the biggest LED lights in Malaysia. They supply not only in Malaysia, they supply to Australia, Melbourne, Stockholm, all over the world. Their lights are used all over the world. They are one of the largest in Malaysia.
 
-[1:58:26] But over the years, Itrahmas also became, because it is photovoltaic. Its technology, when it makes LED technology, it is PV, photovoltaic, right? So when Solar started to exist, they also became one of the first solar companies in Malaysia. So by the time they reached Invoke,
 
-[1:58:49] In 2019, mereka memanglah antara syarikat solar paling besar di Malaysia. Sebab masa itu pun, dia dah tak silap punya ada 100 megawatt solar farm. Dia ada di Kedah, if I'm not mistaken. Dia ada di Melaka dan dia juga ada di Tengganu. So dia memang telah pun, they are basically a bona fide syarikat solar yang memang ada kilang sendiri, yang ada EPCC semualah. Terima kasih.
+[12:07] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
 
-[1:59:19] So, I don't know. They came and approached Invoke to work with us because they see us as a strategic feed. Because we have software engineers, we have data scientists, we can do IoT platform. And then rather than they make their own team, might as well work with Invoke.
 
-[1:59:38] Jadi...
 
-[1:59:41] The arrangement was for them to because aku pula kan aku kata ini you bidding for apa nama ni um
+[12:30] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
 
-[1:59:52] projek Smart City dekat Bahrain ni dan kita-kita buat susah payah kemudian tak jadi buang masa aku je kan and I have to employ people I have to keep this team sebenarnya kan jadi sebab itu dia dah dapat ke belum dekat sana? apa dia? they were still bidding oh dia bidding cuma dia nak kena bid together lah dengan Smart IOP platform semua tu kan dia tak boleh beritahu kami we are a very good LED PV manufacturer dengan segalanya.
 
-[2:00:24] So the arrangement is this. They put a preference share. This is what Azam Baki was confused about. When Caprice said there was a share in Invo, that too can actually be a share. Because preference shares are not shares. Preference shares are loans.
 
-[2:00:50] There are many types of preference shares. There are redeemable preference shares. Meaning, he gives a loan of RM1 million. Every year we have to pay interest to him. If it's 5%, we have to pay RM50,000 a year. Something like that.
+[12:51] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
 
-[2:01:10] Then if it's redeemable, meaning after a certain time, maybe 5 years, maybe 10 years, we have to pay back 1 million preference shares. It's just that it shows as a preference share, it doesn't show as a loan. But it's actually a loan. Why is it a loan? Because it has no right to vote, it has no right to deposit, it has no right to our profit, it has no right to anything.
 
-[2:01:36] Jadi sebenarnya ia adalah syarikat keutamaan.
 
-[2:01:40] There are many types of preference shares. There are redeemable cumulative preference shares, you know, RCPS. There are redeemable preference shares, RPS. There are irredeemable cumulative, all kinds of things, right?
+[12:55] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
 
-[2:01:57] So, yang invoke ada ialah because of that arrangement,
 
-[2:02:02] So kita bersetuju dengan Itramas, you put in RM300,000 almost like a deposit for the work in the form of preference shares lah. So sebab dia pun kalau dia nak letak deposit, kami tak kenal sangat ni. Dia nak letak deposit kalau aku lari dengan duit tu. Payah juga kan deposit tapi kerja tak jalan. So dia letak sebagai preference shares. I think we have to pay like 2.5% kupon lah tiap-tiap tahun kan. je tu habis jalan lah semua tu kan
 
-[2:02:34] So, and it's only RM300,000. It's a deposit for the work. It's only RM300,000. So, sebab itulah, 2019 tu cubu ada preference shares. Which is not a share, it's a loan. So, kerja tu habis dalam 2021 also lah. And I think we surrender, we submit everything kat dia orang semua. And because of that lah, maka it was offset against the... done for it. Sebab itu after that, dia dah tak ada preference shares. So, for Caprice untuk kata ini adalah saham kepentingan
+[13:00] Speaker 2: Potong rumput, motor lalu dengan my mercun.
 
-[2:03:14] Basically, it's just a client. Chubu and Itramas is just a client. If that's the case, Invoke has many more clients. Clients from around the world. There's MNC's client. Sony is also Invoke's client.
 
-[2:03:33] For example, MCMC is Invoke's client all these years. So if that's the case, all of this is over, there is an interest in Invoke. And especially when preference shares is not a share, it's basically a commercial agreement because of the project. The contract is there, you can see it. If you wait for SPRM to come, you can see the contract, you can see what it is.
 
-[2:04:00] Sebab itu bila dia kata
+[13:02] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
 
-[2:04:04] This is a conflict of interest. It's a fitnah. Because Chubu or Itramas is just a client and someone I knew as a client that by 2021, the commercial relationship has been completed.
 
-[2:04:25] Hubungan di antara UAM, Kazanah dengan Itramas itu hal dia. Tak ada kena-mengena. And if you look at this, this project kan...
 
-[2:04:36] It is actually a JV between Kazanah UEM and iSquad Capital. iSquad Capital is a PE firm, private equity firm, infrastructure firm from the US. They have assets all around the world. It's 51% UEM, 49% of them. Meaning, the fund is provided by...
+[13:13] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
 
-[2:05:01] The Americans, I squared capital. What makes you think, one company that is 51-49, which minister can influence like that? The shareholder will not agree.
 
-[2:05:17] Keputusan ini ialah keputusan The JV. It's not even UM. It's The JV between them because I squared capital. And rasanya ada dua tiga lagi tau. Investor, Hexa, semua letak duit dalam tu. Because it's 2.5 billion project kan. So they put their money. Basically dia akan setiap kontrak semua tu perlu diputuskan bersama. What makes you think, what makes Capric think that I can instruct an American, Untuk pilih yang ini, yang ini
 
-[2:05:49] In fact, keputusan... I think keputusan...
+[13:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
 
-[2:05:55] I2 capital
 
-[2:05:57] PIFM yang lain untuk membiayai projek ini juga bergantung kepada kerjasama di antara UEM dengan siapa-siapa yang boleh buat. Dan sebab itu pada masa awal itu kan masa NETA dilancarkan memang ada MOU di antara ITRA MAS dengan UEM kerana UEM alone, bayangkan eh ni, company besar, pelabur asing besar ni kan, dia beritahu saya nak buat solar terbesar di Malaysia 1000 megawatt, 1 gigawatt sebab saya ada tanah di Johor maka saya nak buat
 
-[2:06:41] Kemudian I Skype Capital tanya... Kamu pernah buat ke? Tak pernah. Kamu ada kilang ke? Tak ada. Kamu ada kemakirannya? Tak ada. Memanglah orang tak akan... JV dengan dia. Jadi sebab itu daripada awal...
+[13:24] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
 
-[2:06:58] UEM dengan Kazana... Memang buat keputusan... Ialah untuk tag team dengan Itramas... Kerana Itramas yang ada kepakaran itu... Supaya... Bila... UEM dengan Kazana... Dia...
 
-[2:07:12] Dapatkan pelaburan daripada iSquare Capital semua ni kan. Dia dah ada rancangan yang baik lah. Kami ada MOU dengan Itramas. Itramas ini ialah syarikat terutama di Malaysia yang bukan saja dia ada kilang LED dan juga PV. Dia juga sebenarnya ada dah 100 MW. Dia dah ada 3 solar farm. Dia juga ada klien di seluruh dunia. Jadi kepakaran itu bila digabungkan dengan UEM Saya boleh lihat.
 
-[2:07:43] So, that's why he signed the MOU early on. It has nothing to do with me. Because UEM and Khazanah also know that if there is no ITRAMAS that is experienced, the whole project will not work. And that is a private project. Right? So, except for Caprice,
+[13:31] Speaker 2: Dia di rumah kedai.
 
-[2:08:03] Selain daripada bukti-bukti Google, print screen, screenshot yang dia bagi ni, kecuali dia boleh tunjukkan satu elemen kepentingan.
 
-[2:08:13] Kazanah bayar duit kat aku lah
 
-[2:08:17] Ataupun UEM bayar duit kat aku. Ataupun Itramas bayar duit kat aku. Itu dia kena buktikan. Kemudian dia kena buktikan siapa pemberi, siapa penerima. Dan kita kena ingat tau. Keputusan-keputusan ni buat di peringkat bot yang berlapis-lapis. Satu dia nak kena lepas bot JV dengan Mak Saleh tu. Dengan American tu. I Square Capital. Kemudian dia nak kena lepas bot UEM. Kemudian dia nak kena lepas bot Khazanah. Bagaimana dengan dia? Anwar Ibrahim.
+[13:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
 
-[2:08:50] So if this thing is not true from the beginning, then it's not just, it looks bad on me, it also looks bad on Anwar Ibrahim. He's the one who killed Zanah. How can this thing be so easy? So all of this is just made to kill the political character. This is my prayer.
 
-[2:09:15] Aku tak nak mati Nanti satu hari nanti Orang kata Kamu jadi seperti Sama dengan orang yang kamu lawan dulu Hmm Kerana itu yang sekarang ini Sedang berlaku dengan PKR dan chaplos-chaplosnya lah
 
-[2:09:30] Dulu kita marah kerana sistem telah disalahgunakan dan disenjatakan untuk membunuh karakter Cuma dulu usung tilam
+[13:41] Speaker 2: Haah. Ha.
 
-[2:09:47] Now, because he feels... Because this, I've mentioned it in the last podcast, there are people from the right, PKR, who come and say, eh, there's proof that you got bribery. If this thing comes out, you're ruined. I said, hmm, where are the people who bribe, give bribe, issue invoices. And if it's true, you issue it. I will explain, I will fight for it.
 
-[2:10:14] So benda tu maksudnya kegilaan di dalam PKR ini ialah untuk menunjukkan bahawa aku ni makan rasuah supaya apa-apa yang kita dedahkan, apa-apa yang kita tunjukkan.
 
-[2:10:30] Benda tu rakyat tak terima lah kan
+[13:43] Speaker 1: Isu Bersatu bergaduh.
 
-[2:10:33] Jadi dia satu kitaran yang sangat menyedihkan. Bukan saja soal PKR pun sekarang ni duk buat benda yang sama yang dulu kononnya reformasi kan. Mereka juga lupa...
 
-[2:10:47] bahawa mereka berada di tempat mereka sekarang ni hasil pendedahan-pendedahan rasuah lah daripada cerita NFC kepada MARA, kepada Tabung Haji, kepada LTAT sampai lawan MDB oleh kerana pendedahan-pendedahan rasuah itulah
 
-[2:11:06] Yang menyebabkan mereka berada kan di tempat mereka sekarang. Sekarang ni mereka nak pusing. Dia kata selama ni yang duk bantu PKR dapat undi ni melalui pendedahan rasuah. Dia pemakan rasuah paling besar, lagi besar daripada Najib. Jadi tak apa. Yang ni kita akan teruskan dan saya akan saman Caprice lah. But don't you think semua banyak-banyak semua adalah distraction juga untuk YB termasukkan. Ada orang yang hantar mesej kat saya lah. Dia kata sebenarnya ini distraction.
+[13:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
 
-[2:11:43] Supaya you terpaksa bertempur pasal benda ni. Dan you tak ada masa untuk tumpu kepada Azam Baki. Sebab tu kita tak dapat jemput Azam Harim. Ini kali pertama selepas beberapa minggu, Azam Baki tidak menjadi tetamu dalam pokas kita. Sebab kita nak kena tumpu yang ni. Tapi betul ada yang kata, ini sebenarnya taktik ni sebenarnya. Supaya you kurang masa dan tenaga Azam Baki. Tapi dia underestimate berapa banyak lemak-lemak aku ada. Jadi banyak lagi lemak-lemak yang aku ada boleh dibakar untuk kita sama-sama tumpu kepada Azam Baki. Tapi dalam kes ini nampak dari segi timingnya dan dari segi tiba-tiba orang yang bernama Caprice ini kan ada tak nampak ada satu benda yang sangat coincident?
 
-[2:12:41] Yang berlaku sekarang Dan siapa di belakang mereka Kalau tengok tu Semasa benda ni Di Apa nama ni Hmm
 
-[2:12:51] keluarkan lah kan. Kalau tengok tu memang dia disusun dengan ceplos-ceplos PKR lah. Sebab tu dia ni memang clearly kalau ikut definisi adalah coordinated inauthentic behavior lah. Maksudnya serangan cyber trooper lah kan. Jadi dan kita tahulah Caprice ni jenis orang yang pergi ke mana-mana untuk dapat tempat dan dapat bayaran kan. Jadi tengoklah Satu dua hari nanti kita akan tunjukkan bukti yang dia ni sibuk sebenarnya nak cuba dapatkan job dekat Kementerian Ekonomi dulu. Caprice, Caprice. Kau tak fikir. Kau terlupa sebenarnya benda-benda yang kau buat masa aku jadi menteri dulu. Jadi dia memang dikenali sebagai orang yang mari mana-mana kerajaan pun dia akan swing. Jadi sekarang ni zaman Anwar Dia jadi penyokong Anwar pula Jadi asalkan Masyuk lah Cuma dia terlupa Dia bermati-matian cuba Untuk dapatkan sesuatu Daripada Kementerian Ekonomi dulu Tapi tak apalah Kita bagi Nanti kita tunjukkan sedikit-sedikit Dan itu saya ingat cincong kan Kalau kita tak sebut pun People can put two and two together tiba-tiba berlaku selepas kita minta Azam Baki direhatkan. Sebelum ini, dua-dua perkara ini menjadi kebanggaan Anwar Ibrahim. Dialah yang pergi rasmi kan, sampai Zafrul berebut-rebut nak dapat kredit semua kan, semua ni kan. Eh, tiba-tiba menjadi sumber rasuah paling besar, negara skandal paling besar, dalam tempoh satu minggu kan. Jadi, timingnya, orangnya, Jangan lupa.
+[13:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
 
-[2:14:53] Okay Kita Kita ada dua lagi Dua lagi Kita ada Dua yang Dalam 20 minit lagi kan Kita ringkat sekarang Haa
 
-[2:15:04] Kita sambung solat tahajud dia selepas kita tidur 2 minit lepas ni. Kita dah lama tidak menjemput pemimpin Bersatu. Bukan Bersatu lagi pun. Pemimpin Reset. Pemimpin Reset. YB Shen Chow. Cuma mungkin saya nak tanya YB sikit lah. Pemecatan Ketua Pembangkang ataupun Timbalan Presiden Bersatu ni. Lebih kepada kesan kepada orang-orang Melayu atas pagar Bagaimana dengan penelitian anda?
 
-[2:15:37] Kita tak ada angka lagi lah kan Tapi Ehm
+[13:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
 
-[2:15:42] Yelah Saya selalu sebutkan Dia ada kuantitatif Dia ada kualitatif kan Kuantitatif ni Mestilah berasaskan Data dan angka Kualitatif ni Pandangan lah Kan Secara logiknya lah
 
-[2:15:56] where the parties that get the support of the people, they have two layers of support. One is the strong voters. One is the voters above the fence or swing voters. So it's certain that if you want to say that it has no effect on the Malay swing voters, it's not true. So if we look at the effect,
 
-[2:16:20] Pemecatan Dan juga beberapa orang
+[14:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
 
-[2:16:24] pimpinan UMNO yang tidak diberikan tempat dalam PRU 2022. Kalau ingat masa itu, Nohoma tak dapat tempat kan. Ada beberapa lah Syahidang Qasim pun jadi isu kan. Kesannya kepada UMNO itu mendalam tau. Pergolakan yang berlaku dalam tempoh satu bulan sebelum mengundi itu disebabkan oleh pecat memacat, tindakan yang diambil dalam sejarah dia lah dari segi jumlah kursi yang dia dapat kan sudah tentu perkara yang sama juga akan berlaku kepada bersatu kerana kalau 2022 itu
 
-[2:17:08] Many people are not satisfied with the actions of Dato Sri Zaid Hamidi and Aman Amno. They are the ones who swing and turn to the PM, who supports Bersatu and also PAS. Now the reverse is also going to be true.
 
-[2:17:23] When the union becomes a mess like this, they will also swing back to UMNO. So I think the main winner of the things that are happening in the current union is UMNO. Finchong? I pay attention to the same thing, only for the people above the fence, I see
+[14:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
 
-[2:17:46] Perkembangan ini memberikan Satu Ada hikmah jugalah Supaya dapat Juga membebaskan diri kan Untuk menilai Mungkin option-option lain Yang Pada masa yang sama
 
-[2:18:03] pemimpin bersatu namanya pun bersatu kan jadi sekarang dah berpecah jadi dari situ kita boleh banyak bacakan bahawa pengundi atas barah tambahan dengan perkembangan politik sekarang semasa memang akan makin menebal
 
-[2:18:21] Baik baik baik baik Cuma ialahHmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+[14:27] Speaker 2: Sama Tok Tok Bersatu.
 
-[2:18:26] Hamzah nak buat parti baru ke tidak ni?
 
-[2:18:30] Apa nama Parti baru Tak tahu Reset dah kot Parti Hamzah Hahaha
 
-[2:18:38] PHP
+[14:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
 
-[2:18:40] But, but yeah, YB before this has talked about what, the candidate who is a candidate for the top one, but this and franchise, this and franchise. Isn't this going to add more people, what, it's hard to make a decision and finally maybe not make a decision at all? Right, then won't this split the...
 
-[2:19:04] Bersatu vote Sama ada Disenfranchised voters tu Makin besar Ataupun tidak Kita tunggu Survey yang seterusnya Lah kan Ha
 
-[2:19:15] Tapi kalau Datuk Seri Hamzah ada parti dia sendiri. Jadi maksudnya kita mungkin bukan sahaja tiga corner, empat corner. Kita mungkin lima, enam corner lah. Jadi lima, enam corner itu masing-masing akan ambil undi masing-masing. Sama ada dia akan ada kesan yang sama di seluruh negara itu pun tak tentu. Dia bergantung kepada pengaruh di kawasan masing-masing lah. Ini pernah berlaku juga dalam tahun 2022. Perjuang buat gerakan tanah air kan? GTA ada berjasa, ada perjuang dalam tu kan? Dia tidak berjaya memecahkan pun undi.
+[14:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
 
-[2:19:56] Malah dia hilang semua deposit Jadi buat masa sekarang contohnya Kalau tengok kepada Akar umbi bersatu
 
-[2:20:06] It seems that the unbi-bersatu is more to Dato' Sri Hamzah than Tansri Muhyiddin. So maybe when the new party of Dato' Sri Hamzah enters, the effect is not the same as the fighters. He may really break the unbi-bersatu again. In fact, I think,
 
-[2:20:29] Plot twist yang belum disebut lagi begini. Dia ada... Aku rasa lah betting akulah. Tekaan aku. Dia ada plot twist.
+[14:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
 
-[2:20:39] Let's say Dato' Sri Hamzah Zainuddin made a party. And a large part of the unity of power actually turned to the party of Dato' Sri Hamzah Zainuddin. And let's say PH, the Hamzah party. PH. PH, we call it PH.
 
-[2:21:02] PH Akronim Akronim, PH
 
-[2:21:05] Agak-agaknya lah adakah PAS akan terus bersama dengan Bersatu? Yang sekarang ini tinggal ke Longsong sahaja. Logiknya tak? Haa jadi ada kemungkinan plot twistnya apabila Dato' Sri Hamzah nanti ada parti dan dia berjaya buktikan majoriti daripada grassroots Bersatu itu bersama dengan dia maka Perikatan Nasional itu memang terburailah. Dia makin terburai kerana PAS akan masuk pilihan raya akan datang dengan PH.
+[14:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
 
-[2:21:42] Hamzah Zainuddin. Oh, nama dia PHZ. Nanti, kan. Jadi, mungkin ada perikatan kebangsaan pula ke... Adalah lagi kan. Yang baru mungkin jadi muafakat nasional 3.0. Mungkin juga bila Tan Sri Muhyiddin dah tak ada di dalam Bersatu, Datuk Seri Hamzah bersetuju untuk ada UMNO. Dan UMNO mungkin bersetuju oleh kerana Bersatu itu dah tak ada. Maka parti itu Jadi sekarang ini Dia membuka kepada banyak kemungkinan Jadi sebab itu
 
-[2:22:21] PRU ke-16 ini adalah PRU yang paling meriah lah. Dia jadi karnival badut-badut politik seluruh Malaysia. Cuma, Raf, kita belum ucap tanya kepada Dato' Sri Azmin. Jaya kekal dalam parti. Jaya kekal dalam parti. Hebat, hebat, hebat. Dan mungkin kena tanya Dato' Sri Anwar Ibrahim juga sebab dia yang selalu jumpa Azmin sekarang. Dia ada plot twist yang lain. Plot twist lain. Cuma, lebih cincung lah mungkin. Dengan keadaan macam ni, ini yang meyakinkan jentera-jentera kerajaan sekarang mungkin dalam PKR sendiri bahawa mereka akan kekal di kedudukan yang terbaik, boleh sambung lagi jadi kerajaan. You mean PH lah? Ya, PH.
 
-[2:23:06] Saya rasa mungkin ini akan memberikan bayangan lah bahawa mereka akan rasa makin selesa dalam kes ini. Cuma kalau bacaannya dalam politik ini sangat tidak tentu. So the moment you feel that you are safe first, mungkin adalah spot yang paling bahaya. Dan complacency itu bagi saya amat sebenarnya dalam hati saya lah mungkin berlaku. ia-ianya dan hidup dalam eco-chambernya. Bagi itu perkara yang saya setujulah menyedihkan sebab perjuangan itu asalnya adalah untuk reform. Untuk melawan institusi yang semua ini tak betul. Tetapi nampak sekarang dah beralihlah perjuangan itu.
+[07:16] Speaker 2: Tak nampak. Jadi.
 
-[2:23:56] Yes, Najib was like that too. In 2015, PH broke up, the People's Union broke up, PAS, Anwar Ibrahim went to jail, PKR also had a big fight between the cartel and us. So that's why, and in 2017, the economy was the best, the growth was the best.
 
-[2:24:20] Kemudian pembangkang pula Alamak calon Perdana Menteri Tun Mahathir Umur 965 Macam mana nak menangnya Jadi Semua orang
 
-[2:24:31] masa itu yakin bahawa Datuk Seri Najib menang. Jadi Anwar Ibrahim sebagai seorang Perdana Menteri dan PKR sebagai sebuah parti tidak pernah berada pada kekuatan yang Najib ada nak masuk pilihan raya. Najib was far stronger dulu dengan Melayu, dengan semua kan. Jadi kalau saya jadi mereka lah, we have to watch by the month. Setiap bulan itu macam mana pergerakan semualah. Dia akan ada banyak kemungkinan baru lah. Jadi yang seronoknya rakyat lah. Ada banyak pilihan dalam pilihan raya akan datang. Yang last sekali.
+[07:17] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
 
-[2:25:12] This is also a must. That's it. This is what surprises me. We've always heard about it. But it's surprising when it comes out of the Prime Minister himself. This is what PM said. Yes, in the convention. He implied it. He implied it. All the things he implied, he implied it all. But yes.
 
-[2:25:35] So, dia imply kata... Ada pernah bising pasal... Masih akulah tak pernah cerita pasal Daim ataupun pasal Mahathir. Ada pernah dengar tak? Ada pernah.
 
-[2:25:47] Tapi ialah inilah Anwar Ibrahim Dia ada hikmah dia tau Sebelum saya jawab lah kan
+[07:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
 
-[2:25:57] Kalau dululah cincong katakanlah, ni dah dekat setahun pemilihan parti kan. Kalau kita cerita banyak benda, orang kan kata, bohong lah, tipu lah. Tapi sekarang ini, Anwar sendiri yang menunjukkan wataknya itu satu persatu kan.
 
-[2:26:17] Ambil contoh tentang Tuan Mahathir, kan?
 
-[2:26:21] Dia lupa sebenarnya kalau dia pergi Google sebenarnya apabila dia diserang sebagai ejen IMF semua ni kan.
+[07:33] Speaker 2: Itulah kita kena jemput dia YB.
 
-[2:26:31] Hanya ada seorang sahaja pimpinan PKR on record yang pernah hentam Tun Mahathir dan tunjukkan bahawa yang ambil pinjaman World Bank masa tahun 1997-1998 itu Tun Mahathir, bukannya Anwar. Yang itu namanya Rafizie Ramli. Semua anak dia pun tak pernah, orang lain pun tak pernah. lupa. 2018, Raff. Ingat tak bila Tun Mahathir melantik alih-alih kabinet, sebenang-benangnya, siapa yang bersuara? Kita tu kan. Tahun 2018, you know, bila Tun Mahathir buat kan, aku kena maki lunyai tu. Satu negara ludah kat aku. I mean, actually dalam banyak-banyak masa lah, of course sekarang ni aku tak rasa sangat lah.
 
-[2:27:30] Tapi masa itu dalam 1-2 hari, 24 jam pertama tu, aku rasa hidup aku sangat sia-sia. Aku nak masuk penjara, habiskan masa, keliling semua dan itu balasan yang aku dapat. Hanya kerana aku seorang sahaja yang berani angkat tangan. Kata Tun tak boleh buat begini kerana you tak rujuk pada parti semua kan. Anwar Ibrahim, dia sendiri bukan sahaja dia tak tegur, tak berani nak tegur Tun Mahathir. Dan kenyataan itu dibincangkan dengan dia dekat hospital di Ceras. Dia keluar, korang boleh pergi Google, dia keluarkan kenyataan pula, dia menerima sebenarnya keputusan Mahathir untuk melantik menteri-menteri itu.
 
-[2:28:15] Dia kira Tak apalah Raf You dah buat kerja untuk parti Biasalah you kena hentam I ni kena nampak pemaaf Style kan Okay Um
+[07:36] Speaker 2: Tak apalah mengurangkan podcast.
 
-[2:28:27] Dia satu sebab lah kan, itu tak campur lagi kan daripada zaman muda. Aku dulu kan salah seorang daripada penulis dekat suara keadilan, dulu nama berita keadilan, berapa banyak yang aku tulis panjang lebar, zaman maziz, semua ni daripada zaman muda kan.
 
-[2:28:47] Kenapa sebenarnya aku tak...
 
-[2:28:50] Hentam Tun Mahathir atau Daim macam dia.
+[07:38] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
 
-[2:28:55] Sebab kita dah jadi kerajaan.
 
-[2:28:59] If it's true, and we want to see it too, right? If there's a misconduct, Tun Mahathir to Tun Daim who has money, then bring him to court. Because after three years, I don't know about other people, I'm also a criminal. When he said, you know, crony, sakao, like this, like this, like this, like this, right? One person has died. He doesn't have
 
-[2:29:23] you know, an avenue to defend himself. Another person, Tun Mahathir, is still there, but he's old. Eh, if you have SPRM under you, the state legislature under you, all of them, right? You claim it.
+[07:50] Speaker 2: Bot cuti rayalah. Bot raya.
 
-[2:29:37] Because the people don't like it. For the people, if you were a politician, you could have campaigned to change the government so that we can clean up the mess. So the people have voted for us, we have become a government. When we become a government, we can't talk like we are a politician. Playing with the mess, making a fuss, because the people are waiting for the right time.
 
-[2:30:05] That's why I didn't say anything. Because what we want to answer is, if I'm talking about Tuan Mahathir to Tuan Daim, a person who is smart and logical will say, YB, you are now the government. Then you do it. Why are you still talking like a politician? Actually, that's the only reason. And I believe,
 
-[2:30:28] Sebenarnya, bila kita jadi kerajaan,
+[07:53] Speaker 1: Badan.
 
-[2:30:33] Kita tak boleh...
 
-[2:30:35] menggunakan medan kerajaan itu untuk serangan politik seperti di pentas politik. Kalaupun contoh orang dulu selalu tanya, kenapa Rafizi tak dedah-dedahkan? Kenapa Rafizi tak lantang macam dulu? Diam saja.
 
-[2:30:52] That is the task as a legislator because a legislator has no avenue to take action. Because he is not a government. If for example, there is a misconduct in the government as a minister, what do we have to do? We have to go and talk to the Prime Minister.
+[07:55] Speaker 2: Okey, okey. Baik.
 
-[2:31:11] Kita kena suruh dia tukar Kita kena berhujah di dalam kabinet Di dalam mesyuarat-mesyuarat dalaman ini Kalau kita dah sampai ke peringkat seterusnya Iaitu kita pergi buat laporan Ataupun kita pergi ke media Maksudnya you tak boleh jadi dalam kajian dah You kena keluar
 
-[2:31:29] Sebab itulah aku keluar. Sebab kita dah exhaust cara itu. Tetapi kalau jadi kerajaan, kita tak boleh sebagai menteri ataupun perdana menteri menggunakan kedudukan kita itu untuk cast aspersion kepada orang lain dalam keadaan you kawal semua yang lain. Kalau kata...
 
-[2:31:51] A. Ada rasuah gini-gini-gini yang sepatutnya bertanggungjawab berlaku ialah polis pergi tangkap lah.
+[07:59] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
 
-[2:31:58] through that process, then he is fair to that person because he can take the judge, he can then answer in court, all right? So, that's why you notice, I really didn't make accusations of corruption since I became a minister. Not only to Tun Daim, not only to Tun Mahathir, to everyone. Where is it? Sanusi or something, there is none.
 
-[2:32:23] The only thing that we start to voice outside is about the Farhash. Because we started to be like a supporter because what we voiced in the government before was not taken action. So we have to voice it because there is a risk that the matter can be protected because it is close to the government, for example. But if it is the enemy of the government,
 
-[2:32:50] Tun Mahathir, Tun Daim, siapa lagi yang lain semua ni kan? Apa nama ni? Tan Sri Muhyiddin ke? Azmin Ali ke? Siapa-siapa? Ambil tindakan lah. Yang kita marah, war-warkan, pergi tangkap, pergi sitar. Lepas tu tak ada tindakan.
+[08:21] Speaker 1: Kalau tidak nanti jadi macam Borian.
 
-[2:33:08] Bising pasal wang kena rampas, RM170 juta lebih, pumpang-pumpang-pumpang. Eh, lepas tu, kau tim. Dakwa pimpinan bersatu, lepas tu bayar kompaun, lepas. Yang itu yang kita marah, kan? Jadi, sebab itu saya tak akan langgar perkara itu.
 
-[2:33:25] Because as a government, then it is your job as a government to make sure that the law or investigation happens. And we are waiting for the court's decision. Why should I make it a political material? That's what Anwar doesn't like about me.
 
-[2:33:43] Kerana I have my way of looking at things dan perkara itu ada benda yang kita tak setuju. Aku tak setuju cara dia berkempen macam sekarang.
+[08:24] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
 
-[2:33:54] It's been 10 years since the end of the war. He also said that people were reprimanded. Oh, I was beaten and beaten because of the reprimand. But he has become the Prime Minister for 3 years. He repeated the same thing. The logic of the people is that the one who reprimands is you.
 
-[2:34:13] Sebab itu susah sebagai pimpinan parti untuk kita, akulah sebagai timbalan presiden untuk aku nak bina image dia. Bila kita nasihat dia tak dengar. Bila kita nasihat dia kata you ni orang Daim, you ni orang Tun Mahathir. Mana ada kalau kita ni orang Tun Daim dengan orang Tun Mahathir, tak adalah kita duduk kedai cabut bunyi motor sebentar tadi. Kita mungkin duduk kat Menara Ilham lah. Tambahan dengan 1.1 bilion ni. Tambah lagi 1.1 bilion Tambah lagi 2.5 bilion kan Kalau dah ada berbilion-bilion macam itu Kerja bodoh lah Kedai fleksimat Kena crowdfunding Kena minta tolong orang Untuk bagi bantuan ke orang lain semua kan Jadi
 
-[2:35:01] Satu benda Yang ini yang mungkin Cep Law Ataupun orang keliling Dato' Sri Anwar Dan Dato' Sri Anwar sendiri Mungkin tak nampak tau
+[08:28] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
 
-[2:35:11] Berhati-hati kena rakyat akan nampak pattern.
 
-[2:35:15] Masa zaman dia dahulu pun Bila UMNO nak matikan dia kan Dia bermula dengan tuduhan dia ejen Yahudi
 
-[2:35:24] He's that agent, he's this agent. Now he uses the same one. Today he said this is the agent of Atok and Daim. After this, I became the agent of Bloomberg, the agent of Yahudi. So, people will think, this is not like we've ever heard of this script.
+[08:52] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
 
-[2:35:45] Maksudnya, kamu melakukan perkara yang sama yang dulu kamu kata kamu jadi mangsa.
 
-[2:35:51] Then I think once you cross that bridge, those who still have a little bit of respect for Dato' Sri Anwar and PKR, if they are the judges above the fence, it's hard for us to defend. Because people will ask, if you are in my shoes, what else do you want to defend them? They have already slandered you.
 
-[2:36:15] He accused you of being an agent, he did the same thing that you used to defend them from UMNO. So if you are still with them, defending them, the stupid thing is you are not them. So at some point, he will reach that level. Okay, well, Webby. Webby, do you have anything to add?
+[09:18] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
 
-[2:36:41] Jangan tambah banyak-banyak cincong Nanti kau pun jadi agent Atuk dan Daim Kita 2 jam 2 jam 35 minit Okey lah Okey bagus lah tu Itu je lakon ya Itu je lakon Selamat berpuasa
 
-[2:36:59] Selamat berpuasa. Selamat bersahur. Jangan makan banyak-banyak. Siapa yang kena makan ubat pagi macam saya, ingatan kepada diri sendiri, sekarang kena makan macam sahur. Sebab aku terlupa. Aku makan ubat jantung semua pagi kan. So, bila tak makan kat sahur tu, terlepas ubat, bahaya lah. Oh, bahaya. Okay, Bobby. Jangan buat lagi. Jangan buat lagi. InsyaAllah tak apa. Okay, kita jumpa minggu depan. Selamat malam. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[2:37:29] Selamat malam, selamat malam.
+[09:47] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[10:04] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[10:13] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[10:25] Speaker 2: Hmm.
+
+
+
+[10:27] Speaker 2: Hmm.
+
+
+
+[10:30] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[10:39] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[10:52] Speaker 1: Even earlier.
+
+
+
+[10:53] Speaker 1: Tengok Cincng lupa.
+
+
+
+[10:54] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[11:00] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[11:13] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[11:21] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[11:24] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[11:30] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[11:31] Speaker 2: Before that.
+
+
+
+[11:32] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[11:41] Speaker 1: Siapa?
+
+
+
+[11:42] Speaker 1: Chin.
+
+
+
+[11:43] Speaker 2: Chin.
+
+
+
+[11:45] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[12:11] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[12:16] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[12:17] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[12:27] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[12:35] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[12:49] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[12:55] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[13:00] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[13:02] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[13:13] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[13:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[13:24] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[13:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[13:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[13:41] Speaker 2: Haah. Ha.
+
+
+
+[13:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[13:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[13:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[13:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[14:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[14:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[14:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[14:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[14:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[14:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[14:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[14:49] Speaker 2: Tak nampak.
+
+
+
+[14:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[14:57] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[15:05] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[15:08] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[15:10] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[15:20] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[15:26] Speaker 1: Badan.
+
+
+
+[15:29] Speaker 2: Okey, okey. Baik.
+
+
+
+[15:33] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[15:48] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[15:52] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[15:56] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[16:10] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[16:36] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[17:05] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[17:21] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[17:34] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[17:46] Speaker 2: Hmm.
+
+
+
+[17:48] Speaker 2: Hmm.
+
+
+
+[17:51] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[18:03] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[18:16] Speaker 1: Even earlier.
+
+
+
+[18:17] Speaker 1: Tengok Cincng lupa.
+
+
+
+[18:18] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[18:24] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[18:37] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[18:45] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[18:48] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[18:54] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[18:55] Speaker 2: Before that.
+
+
+
+[18:56] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[19:05] Speaker 1: Siapa?
+
+
+
+[19:06] Speaker 1: Chin.
+
+
+
+[19:07] Speaker 2: Chin.
+
+
+
+[19:09] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[19:35] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[19:42] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[19:43] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[19:51] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[19:59] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[20:13] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[20:19] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[20:24] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[20:27] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[20:41] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[20:46] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[20:53] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[21:00] Speaker 2: Dia di rumah kedai.
+
+
+
+[21:04] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[21:11] Speaker 2: Haah. Ha.
+
+
+
+[21:13] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[21:16] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[21:20] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[21:28] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[21:35] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[21:48] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[21:57] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[22:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[22:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[22:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[22:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[22:20] Speaker 2: Tak nampak.
+
+
+
+[22:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[22:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[22:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[22:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[22:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[22:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[22:56] Speaker 1: Badan.
+
+
+
+[22:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[23:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[23:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[23:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[23:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[23:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[24:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[24:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[24:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[25:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[25:17] Speaker 2: Hmm.
+
+
+
+[25:19] Speaker 2: Hmm.
+
+
+
+[25:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[25:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[25:46] Speaker 1: Even earlier.
+
+
+
+[25:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[25:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[25:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[26:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[26:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[26:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[26:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[26:25] Speaker 2: Before that.
+
+
+
+[26:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[26:35] Speaker 1: Siapa?
+
+
+
+[26:36] Speaker 1: Chin.
+
+
+
+[26:37] Speaker 2: Chin.
+
+
+
+[26:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[27:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[27:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[27:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[27:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[27:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[27:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[27:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[27:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[27:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[28:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[28:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[28:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[28:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[28:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[28:41] Speaker 2: Haah. Ha.
+
+
+
+[28:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[28:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[28:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[28:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[29:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[29:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[29:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[29:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[29:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[29:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[29:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[29:49] Speaker 2: Tak nampak.
+
+
+
+[29:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[29:57] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[30:05] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[30:08] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[30:10] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[30:20] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[30:26] Speaker 1: Badan.
+
+
+
+[30:29] Speaker 2: Okey, okey. Baik.
+
+
+
+[30:33] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[30:48] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[30:52] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[30:56] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[31:10] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[31:36] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[32:05] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[32:21] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[32:34] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[32:46] Speaker 2: Hmm.
+
+
+
+[32:49] Speaker 2: Hmm.
+
+
+
+[32:51] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[33:03] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[33:16] Speaker 1: Even earlier.
+
+
+
+[33:17] Speaker 1: Tengok Cincng lupa.
+
+
+
+[33:18] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[33:24] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[33:37] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[33:45] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[33:48] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[33:54] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[33:55] Speaker 2: Before that.
+
+
+
+[33:56] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[34:05] Speaker 1: Siapa?
+
+
+
+[34:06] Speaker 1: Chin.
+
+
+
+[34:07] Speaker 2: Chin.
+
+
+
+[34:09] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[34:35] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[34:42] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[34:43] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[34:51] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[34:59] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[35:13] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[35:19] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[35:24] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[35:27] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[35:41] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[35:46] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[35:53] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[36:00] Speaker 2: Dia di rumah kedai.
+
+
+
+[36:04] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[36:11] Speaker 2: Haah. Ha.
+
+
+
+[36:13] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[36:16] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[36:20] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[36:28] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[36:35] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[36:48] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[36:57] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[37:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[37:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[37:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[37:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[37:20] Speaker 2: Tak nampak.
+
+
+
+[37:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[37:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[37:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[37:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[37:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[37:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[37:56] Speaker 1: Badan.
+
+
+
+[37:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[38:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[38:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[38:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[38:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[38:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[39:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[39:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[39:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[40:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[40:17] Speaker 2: Hmm.
+
+
+
+[40:20] Speaker 2: Hmm.
+
+
+
+[40:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[40:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[40:46] Speaker 1: Even earlier.
+
+
+
+[40:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[40:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[40:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[41:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[41:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[41:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[41:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[41:25] Speaker 2: Before that.
+
+
+
+[41:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[41:35] Speaker 1: Siapa?
+
+
+
+[41:36] Speaker 1: Chin.
+
+
+
+[41:37] Speaker 2: Chin.
+
+
+
+[41:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[42:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[42:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[42:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[42:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[42:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[42:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[42:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[42:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[42:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[43:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[43:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[43:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[43:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[43:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[43:41] Speaker 2: Haah. Ha.
+
+
+
+[43:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[43:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[43:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[43:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[44:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[44:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[44:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[44:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[44:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[44:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[44:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[44:49] Speaker 2: Tak nampak.
+
+
+
+[44:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[44:57] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[45:05] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[45:08] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[45:10] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[45:20] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[45:26] Speaker 1: Badan.
+
+
+
+[45:29] Speaker 2: Okey, okey. Baik.
+
+
+
+[45:33] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[45:48] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[45:52] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[45:56] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[46:10] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[46:36] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[47:05] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[47:21] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[47:34] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[47:46] Speaker 2: Hmm.
+
+
+
+[47:48] Speaker 2: Hmm.
+
+
+
+[47:51] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[48:03] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[48:16] Speaker 1: Even earlier.
+
+
+
+[48:17] Speaker 1: Tengok Cincng lupa.
+
+
+
+[48:18] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[48:24] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[48:37] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[48:45] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[48:48] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[48:54] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[48:55] Speaker 2: Before that.
+
+
+
+[48:56] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[49:05] Speaker 1: Siapa?
+
+
+
+[49:06] Speaker 1: Chin.
+
+
+
+[49:07] Speaker 2: Chin.
+
+
+
+[49:09] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[49:35] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[49:42] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[49:43] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[49:51] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[49:59] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[50:13] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[50:19] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[50:24] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[50:27] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[50:41] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[50:46] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[50:53] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[51:00] Speaker 2: Dia di rumah kedai.
+
+
+
+[51:04] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[51:11] Speaker 2: Haah. Ha.
+
+
+
+[51:13] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[51:16] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[51:20] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[51:28] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[51:35] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[51:48] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[51:57] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[52:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[52:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[52:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[52:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[52:20] Speaker 2: Tak nampak.
+
+
+
+[52:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[52:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[52:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[52:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[52:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[52:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[52:56] Speaker 1: Badan.
+
+
+
+[52:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[53:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[53:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[53:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[53:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[53:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[54:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[54:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[54:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[55:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[55:17] Speaker 2: Hmm.
+
+
+
+[55:19] Speaker 2: Hmm.
+
+
+
+[55:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[55:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[55:46] Speaker 1: Even earlier.
+
+
+
+[55:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[55:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[55:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[56:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[56:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[56:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[56:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[56:25] Speaker 2: Before that.
+
+
+
+[56:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[56:35] Speaker 1: Siapa?
+
+
+
+[56:36] Speaker 1: Chin.
+
+
+
+[56:37] Speaker 2: Chin.
+
+
+
+[56:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[57:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[57:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[57:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[57:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[57:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[57:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[57:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[57:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[57:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[58:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[58:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[58:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[58:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[58:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[58:41] Speaker 2: Haah. Ha.
+
+
+
+[58:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[58:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[58:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[58:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[59:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[59:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[59:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[59:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[59:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[59:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[59:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[59:49] Speaker 2: Tak nampak.
+
+
+
+[59:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:00:02] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:00:10] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:00:13] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:00:16] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:00:26] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:00:32] Speaker 1: Badan.
+
+
+
+[01:00:35] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:00:39] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:00:54] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:00:58] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:01:02] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:01:16] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:01:42] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:02:11] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:02:28] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:02:41] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:02:53] Speaker 2: Hmm.
+
+
+
+[01:02:54] Speaker 2: Hmm.
+
+
+
+[01:02:57] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:03:09] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:03:22] Speaker 1: Even earlier.
+
+
+
+[01:03:23] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:03:24] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:03:30] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:03:43] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:03:51] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:03:54] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:04:00] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:04:01] Speaker 2: Before that.
+
+
+
+[01:04:02] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:04:11] Speaker 1: Siapa?
+
+
+
+[01:04:12] Speaker 1: Chin.
+
+
+
+[01:04:13] Speaker 2: Chin.
+
+
+
+[01:04:15] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:04:41] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:04:48] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:04:49] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:04:57] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:05:05] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:05:19] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:05:25] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:05:30] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:05:33] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:05:48] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:05:53] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:06:01] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:06:07] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:06:11] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:06:17] Speaker 2: Haah. Ha.
+
+
+
+[01:06:19] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:06:22] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:06:26] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:06:34] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:06:41] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:06:54] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:07:03] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:07:06] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:07:10] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:07:17] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:07:20] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:07:25] Speaker 2: Tak nampak.
+
+
+
+[01:07:26] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:07:33] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:07:41] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:07:44] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:07:46] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:07:56] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:08:02] Speaker 1: Badan.
+
+
+
+[01:08:05] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:08:09] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:08:24] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:08:28] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:08:32] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:08:46] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:09:12] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:09:41] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:09:58] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:10:11] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:10:23] Speaker 2: Hmm.
+
+
+
+[01:10:25] Speaker 2: Hmm.
+
+
+
+[01:10:28] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:10:39] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:10:52] Speaker 1: Even earlier.
+
+
+
+[01:10:53] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:10:54] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:11:00] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:11:13] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:11:21] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:11:24] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:11:30] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:11:31] Speaker 2: Before that.
+
+
+
+[01:11:32] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:11:41] Speaker 1: Siapa?
+
+
+
+[01:11:42] Speaker 1: Chin.
+
+
+
+[01:11:43] Speaker 2: Chin.
+
+
+
+[01:11:45] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:12:11] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:12:16] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:12:17] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:12:27] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:12:35] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:12:49] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:12:55] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:13:00] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:13:02] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:13:13] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:13:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:13:24] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:13:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:13:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:13:41] Speaker 2: Haah. Ha.
+
+
+
+[01:13:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:13:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:13:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:13:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:14:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:14:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:14:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:14:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:14:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:14:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:14:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:14:49] Speaker 2: Tak nampak.
+
+
+
+[01:14:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:14:57] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:15:05] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:15:08] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:15:10] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:15:20] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:15:26] Speaker 1: Badan.
+
+
+
+[01:15:29] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:15:33] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:15:48] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:15:52] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:15:56] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:16:10] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:16:36] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:17:05] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:17:21] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:17:34] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:17:46] Speaker 2: Hmm.
+
+
+
+[01:17:48] Speaker 2: Hmm.
+
+
+
+[01:17:51] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:18:03] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:18:16] Speaker 1: Even earlier.
+
+
+
+[01:18:17] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:18:18] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:18:24] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:18:37] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:18:45] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:18:48] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:18:54] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:18:55] Speaker 2: Before that.
+
+
+
+[01:18:56] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:19:05] Speaker 1: Siapa?
+
+
+
+[01:19:06] Speaker 1: Chin.
+
+
+
+[01:19:07] Speaker 2: Chin.
+
+
+
+[01:19:09] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:19:35] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:19:42] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:19:43] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:19:51] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:19:59] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:20:13] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:20:19] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:20:24] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:20:27] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:20:41] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:20:46] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:20:53] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:21:00] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:21:04] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:21:11] Speaker 2: Haah. Ha.
+
+
+
+[01:21:13] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:21:16] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:21:20] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:21:28] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:21:35] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:21:48] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:21:57] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:22:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:22:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:22:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:22:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:22:20] Speaker 2: Tak nampak.
+
+
+
+[01:22:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:22:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:22:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:22:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:22:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:22:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:22:56] Speaker 1: Badan.
+
+
+
+[01:22:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:23:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:23:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:23:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:23:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:23:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:24:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:24:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:24:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:25:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:25:17] Speaker 2: Hmm.
+
+
+
+[01:25:19] Speaker 2: Hmm.
+
+
+
+[01:25:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:25:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:25:46] Speaker 1: Even earlier.
+
+
+
+[01:25:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:25:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:25:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:26:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:26:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:26:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:26:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:26:25] Speaker 2: Before that.
+
+
+
+[01:26:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:26:35] Speaker 1: Siapa?
+
+
+
+[01:26:36] Speaker 1: Chin.
+
+
+
+[01:26:37] Speaker 2: Chin.
+
+
+
+[01:26:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:27:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:27:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:27:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:27:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:27:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:27:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:27:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:27:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:27:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:28:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:28:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:28:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:28:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:28:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:28:41] Speaker 2: Haah. Ha.
+
+
+
+[01:28:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:28:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:28:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:28:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:29:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:29:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:29:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:29:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:29:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:29:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:29:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:29:49] Speaker 2: Tak nampak.
+
+
+
+[01:29:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:30:02] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:30:10] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:30:13] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:30:16] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:30:26] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:30:32] Speaker 1: Badan.
+
+
+
+[01:30:35] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:30:39] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:30:54] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:30:58] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:31:02] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:31:16] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:31:42] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:32:11] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:32:28] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:32:41] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:32:53] Speaker 2: Hmm.
+
+
+
+[01:32:54] Speaker 2: Hmm.
+
+
+
+[01:32:57] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:33:09] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:33:22] Speaker 1: Even earlier.
+
+
+
+[01:33:23] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:33:24] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:33:30] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:33:43] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:33:51] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:33:54] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:34:00] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:34:01] Speaker 2: Before that.
+
+
+
+[01:34:02] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:34:11] Speaker 1: Siapa?
+
+
+
+[01:34:12] Speaker 1: Chin.
+
+
+
+[01:34:13] Speaker 2: Chin.
+
+
+
+[01:34:15] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:34:41] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:34:48] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:34:49] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:34:57] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:35:05] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:35:19] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:35:25] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:35:30] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:35:33] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:35:48] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:35:53] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:36:01] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:36:07] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:36:11] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:36:17] Speaker 2: Haah. Ha.
+
+
+
+[01:36:19] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:36:22] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:36:26] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:36:34] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:36:41] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:36:54] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:37:03] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:37:06] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:37:10] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:37:17] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:37:20] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:37:25] Speaker 2: Tak nampak.
+
+
+
+[01:37:26] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:37:33] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:37:41] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:37:44] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:37:46] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:37:56] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:38:02] Speaker 1: Badan.
+
+
+
+[01:38:05] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:38:09] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:38:24] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:38:28] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:38:32] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:38:46] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:39:12] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:39:41] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:39:58] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:40:11] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:40:23] Speaker 2: Hmm.
+
+
+
+[01:40:25] Speaker 2: Hmm.
+
+
+
+[01:40:28] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:40:39] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:40:52] Speaker 1: Even earlier.
+
+
+
+[01:40:53] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:40:54] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:41:00] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:41:13] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:41:21] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:41:24] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:41:30] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:41:31] Speaker 2: Before that.
+
+
+
+[01:41:32] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:41:41] Speaker 1: Siapa?
+
+
+
+[01:41:42] Speaker 1: Chin.
+
+
+
+[01:41:43] Speaker 2: Chin.
+
+
+
+[01:41:45] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:42:11] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:42:16] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:42:17] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:42:27] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:42:35] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:42:49] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:42:55] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:43:00] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:43:02] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:43:13] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:43:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:43:24] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:43:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:43:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:43:41] Speaker 2: Haah. Ha.
+
+
+
+[01:43:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:43:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:43:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:43:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:44:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:44:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:44:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:44:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:44:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:44:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:44:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:44:49] Speaker 2: Tak nampak.
+
+
+
+[01:44:50] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:44:57] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:45:05] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:45:08] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:45:10] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:45:20] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:45:26] Speaker 1: Badan.
+
+
+
+[01:45:29] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:45:33] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:45:48] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:45:52] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:45:56] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:46:10] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:46:36] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:47:05] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:47:21] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:47:34] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:47:46] Speaker 2: Hmm.
+
+
+
+[01:47:48] Speaker 2: Hmm.
+
+
+
+[01:47:51] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:48:03] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:48:16] Speaker 1: Even earlier.
+
+
+
+[01:48:17] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:48:18] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:48:24] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:48:37] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:48:45] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:48:48] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:48:54] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:48:55] Speaker 2: Before that.
+
+
+
+[01:48:56] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:49:05] Speaker 1: Siapa?
+
+
+
+[01:49:06] Speaker 1: Chin.
+
+
+
+[01:49:07] Speaker 2: Chin.
+
+
+
+[01:49:09] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:49:35] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:49:42] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:49:43] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:49:51] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:49:59] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:50:13] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:50:19] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:50:24] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:50:27] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:50:41] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:50:46] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:50:53] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:51:00] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:51:04] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:51:11] Speaker 2: Haah. Ha.
+
+
+
+[01:51:13] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:51:16] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:51:20] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:51:28] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:51:35] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:51:48] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:51:57] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[01:52:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[01:52:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[01:52:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[01:52:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[01:52:20] Speaker 2: Tak nampak.
+
+
+
+[01:52:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[01:52:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[01:52:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[01:52:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[01:52:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[01:52:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[01:52:56] Speaker 1: Badan.
+
+
+
+[01:52:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[01:53:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[01:53:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[01:53:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[01:53:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[01:53:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[01:54:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[01:54:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[01:54:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[01:55:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[01:55:17] Speaker 2: Hmm.
+
+
+
+[01:55:19] Speaker 2: Hmm.
+
+
+
+[01:55:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[01:55:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[01:55:46] Speaker 1: Even earlier.
+
+
+
+[01:55:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[01:55:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[01:55:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[01:56:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[01:56:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[01:56:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[01:56:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[01:56:25] Speaker 2: Before that.
+
+
+
+[01:56:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[01:56:35] Speaker 1: Siapa?
+
+
+
+[01:56:36] Speaker 1: Chin.
+
+
+
+[01:56:37] Speaker 2: Chin.
+
+
+
+[01:56:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[01:57:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[01:57:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[01:57:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[01:57:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[01:57:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[01:57:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[01:57:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[01:57:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[01:57:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[01:58:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[01:58:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[01:58:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[01:58:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[01:58:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[01:58:41] Speaker 2: Haah. Ha.
+
+
+
+[01:58:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[01:58:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[01:58:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[01:58:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[01:59:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[01:59:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[01:59:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[02:00:00] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[02:00:04] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[02:00:11] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[02:00:14] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[02:00:20] Speaker 2: Tak nampak.
+
+
+
+[02:00:21] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[02:00:27] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[02:00:35] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[02:00:38] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[02:00:40] Speaker 1: Eh dah mula kerja dah. Oh dah mula kerja dah. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerjalah. Siapa kena buka kedailah.
+
+
+
+[02:00:50] Speaker 2: Bot cuti rayalah. Bot raya.
+
+
+
+[02:00:56] Speaker 1: Badan.
+
+
+
+[02:00:59] Speaker 2: Okey, okey. Baik.
+
+
+
+[02:03:03] Speaker 1: Jadi mungkin sebelum kita start Tapi saya pakai baju Melayu color merah. Barulah kena Ramadhan dan juga tahun baru Cina. Tapi sebab Azad dah pakai saya dah neutral life sekarang walaupun tak merah sangat pun.
+
+
+
+[02:03:18] Speaker 1: Kalau tidak nanti jadi macam Borian.
+
+
+
+[02:03:22] Speaker 2: Tapi tak apa sebab aku dah pakai apa nama ni, dia panggil apa ni? Ni bukan Chong Sam.
+
+
+
+[02:03:26] Speaker 2: Ni bukan lah. It just baju raya. Ojo bukan bukan Chong Sam. Chong Sam yang perempuan tu. So dia tak ada nama spesifik ni untuk baju ni. Yang YB pakai yang ketat tu kan? Tapi viral. Mana ada ketat? Oh tak ketat.
+
+
+
+[02:03:40] Speaker 2: Mana ada ketat? Itu saya XL kan? Saja aje. Tapi poster viral aje. Ah tapi ada orang kata, mula aku tak faham. Ada orang duk komen, ini baju AI ke? Ini baju AI ke? Aku mula-mula tak faham. Apa pula aku pakai baju susah payah kan?
+
+
+
+[02:04:06] Speaker 2: Rupanya sebab kononnya banyak pimpinan-pimpinan PAS buat apa nama ni buat poster, dia tukar baju dia semua pakai AI, semua pakai jadi baju Cina. So saya nak sebut bahawa ucapan tahun baru Cina saya yang viral itu bukan AI.
+
+
+
+[02:04:35] Speaker 2: Itu memang susah payah sebut terbelit lidah satu, baju pun memang dan bukan baju yang ketat ni, baju yang longgar. Baju yang longgar. Itu memang baju yang betul punya, bukan AI.
+
+
+
+[02:04:52] Speaker 2: Saya dapati poster memang viral sekali yang dan mungkin post yang ter-viral tahun ni. Post yang ter-viral tahun ni.
+
+
+
+[02:05:05] Speaker 2: Saya sudah dekat Facebook saja dah dekat 1 million view kan. Just nanti kita nak sentas pasal Mandarin dengan lidah yang berbelit lepas ini.
+
+
+
+[02:05:17] Speaker 2: Hmm.
+
+
+
+[02:05:19] Speaker 2: Hmm.
+
+
+
+[02:05:21] Speaker 1: Mungkin sebelum start beria lah, ala-alam macam biasa, kita biasa akan tanya guest kitalah. Mungkin penonton saya tahulah, ada penonton pun nak tahu juga, your first experience dengan YB Rafizi Raff mungkin?
+
+
+
+[02:05:33] Speaker 1: Oh itu dah lama dah. Saya rasa kita mula jumpa kat Mahkamah tapi untuk memberikan sokongan. Eh tak. No no no no. Even earlier.
+
+
+
+[02:05:46] Speaker 1: Even earlier.
+
+
+
+[02:05:47] Speaker 1: Tengok Cincng lupa.
+
+
+
+[02:05:48] Speaker 2: Masa tu Cincng adalah pegawai penyelidik Datuk Seri Anwar Ibrahim.
+
+
+
+[02:05:54] Speaker 1: You were research, you were research officer Datuk Seri Anwar tahun 2008 ke 2012 sebelum you bertanding first time di Semambu 2013.
+
+
+
+[02:06:07] Speaker 2: So saya selalunya menulis ucapan untuk Datuk Seri Anwar. Kan ucapan Parlimen dia. That's how kita mulalah.
+
+
+
+[02:06:15] Speaker 1: Dengan siapa seorang lagi tu?
+
+
+
+[02:06:18] Speaker 2: Uing dengan Uing. Cuma Cincng 2013 mula bertanding.
+
+
+
+[02:06:24] Speaker 1: Ya ya. So sebelum tulah.
+
+
+
+[02:06:25] Speaker 2: Before that.
+
+
+
+[02:06:26] Speaker 2: I remember kita jumpa masa tu Bilera baru balik balik or baru like come back. We met dekat Chin yang perkenalkan kita.
+
+
+
+[02:06:35] Speaker 1: Siapa?
+
+
+
+[02:06:36] Speaker 1: Chin.
+
+
+
+[02:06:37] Speaker 2: Chin.
+
+
+
+[02:06:39] Speaker 2: Chin. Itu must be untuk pemilihan cabang 2010 kan? That was the first time saya kembali sebelum tu jabatan semua dekat pusat. Saya tak pernah bertanding dekat cabanglah. Jadi 2010 dan yalah kesian Kemaman adalah bersebelah dengan Indera Mahkota.
+
+
+
+[02:07:05] Speaker 2: So Cincng di Indera Mahkota, saya dekat Kemaman. Oh dekat-dekat eh. Dekat-dekat sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua.
+
+
+
+[02:07:12] Speaker 1: Dua-dua pantai Timur.
+
+
+
+[02:07:13] Speaker 2: Okey, baik YB. Kita terus ke segment. Cincng kurang bernasib baik hari inialah.
+
+
+
+[02:07:21] Speaker 2: Kerana dijemput sebab kita jemput jadual ni memang kita tentukan awal kan? Cuma isu yang timbul tu kita tak boleh tentukan.
+
+
+
+[02:07:29] Speaker 2: Dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas tu panas kan. Jadi Cincng kena hadir pada sesi pada podcast yang panaslah. Jadi lepas ni kena kejar dengan cahlos lah.
+
+
+
+[02:07:43] Speaker 1: Tak apa. YB ready? Kita jumpa ready. Baik.
+
+
+
+[02:07:49] Speaker 1: Kita, ni kalau bunyi bising kat luar tu, sebanyak dua orang potong rumput.
+
+
+
+[02:07:54] Speaker 2: Potong rumput, motor lalu dengan my mercun.
+
+
+
+[02:07:57] Speaker 2: my mercun lah. Pagi-pagi sebab tu selalunya kita tak buat pagilah sebab pagi ni macam-macam, ada orang potong rumputlah kan. Jadi kalau dengar bising sikit tu orang potong rumput.
+
+
+
+[02:08:12] Speaker 1: Tapi tu membuktikan satulah, YB. Studio kita bukan kat Menara Ilhamlah. Tak tak tak tak.
+
+
+
+[02:08:18] Speaker 1: Sebab ada tuduhan, nanti kita akan tengok next tu kan. Kata studio kat Menara Ilham.
+
+
+
+[02:08:25] Speaker 1: Saya boleh jadi saksi lah. Tempat ni tempat memang agak-agak raba-raba kat rakyat eh. Nak parking pun susah.
+
+
+
+[02:08:31] Speaker 2: Dia di rumah kedai.
+
+
+
+[02:08:35] Speaker 1: Okey. Alright, okey, apa pun. Kita tengok beria. Yang pertama ni mungkin kita start mile sikitlah eh.
+
+
+
+[02:08:41] Speaker 2: Haah. Ha.
+
+
+
+[02:08:43] Speaker 1: Isu Bersatu bergaduh.
+
+
+
+[02:08:46] Speaker 2: Tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+
+
+
+[02:08:50] Speaker 1: Ini Wan Faisal yang cakap. Dia punya level menongkat tu kan.
+
+
+
+[02:08:58] Speaker 2: A sebab tu orang saya menasihatkan kepada Cincng, seorang ahli-ahli politik, janganlah menongkat agama.
+
+
+
+[02:09:05] Speaker 2: Sebab bila dia mula menongkat agama ni, dia ketagihan tahu. Sebab dia kerja shortcut kan. Dulu masa dia nak hentam kerajaan ataupun PKR ataupun PH lah.
+
+
+
+[02:09:18] Speaker 2: Semua tu dia letakkan dalam lensa agamalah menongkat agama kan. Sekarang terbau-bau, dia bergaduh sama dia. Sama Islam, sama Melayu.
+
+
+
+[02:09:27] Speaker 2: Sama Tok Tok Bersatu.
+
+
+
+[02:09:30] Speaker 2: Sekarang dia dah berpaksi kan tuntutan agama.
+
+
+
+[02:09:34] Speaker 1: Tapi dia belajar dengan cepatlah. Fast learner lah.
+
+
+
+[02:09:41] Speaker 2: Itu kelebihan dialah dia dengan Cuma satu je kan.
+
+
+
+[02:09:44] Speaker 2: Kelatan dia tu masih lagi tak jalan kan. Tak tak tak tak tak nampak.
+
+
+
+[02:09:49] Speaker 2: Tak nampak.
+
+
+
+[02:10:00] Speaker 1: So, masanya dia tak boleh masuk pas lagilah kut. Walaupun dah pakai kopia semua kan.
+
+
+
+[02:10:07] Speaker 2: So, ini bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni tuntutan agama yang macam mana?
+
+
+
+[02:10:15] Speaker 2: Itulah kita kena jemput dia YB.
+
+
+
+[02:10:18] Speaker 2: Tak apalah mengurangkan podcast.
+
+
+
+[02:10:30] Speaker 2: Eh, kita dah dua jam Berkat dua jam. Dua jam 35 minitlah. Okeylah. Okey, baguslah tu. Itu jelah kut eh. Itu jelah kut. Selamat berpuasa. Selamat berpuasa. Selamat bersahur. Jangan makan banyak-banyak kan. Siapa yang kena makan ubat pagi macam saya, ingatan kepada diri sendiri. Sekarang kena makan macam sahur. Sebab aku terlepa. Aku makan ubat jantung semua pagi kan. So bila tak makan kat sahur tu, terlepas bahaya tau. Oh bahaya.
+
+
+
+[02:11:58] Speaker 1: Okey jangan buat lagi. Jangan buat lagi. Insya-Allah tak buat.
+
+
+
+[02:12:26] Speaker 1: Okey, kita jumpa minggu depan. Selamat malam. Selamat malam. Selamat berpuasa.
+
+[132:26] Speaker 1: oh. Jadi memang ramai kawan juga kerja kat Intel, Penang, syarikat-syarikat lain. Dan memang perlukan satu lonjakan. Kalau tiada lonjakan, ianya akan business as usual lah. Lagi 20 tahun, situasi mungkin lebih mencabar, sebab yang memasang tu negara lain lagi murah.
+
+
+
+[133:00] Speaker 1: Dulunya kita bersaing dengan contohnya Taiwan. Lepas tu dia dah melonjak. So kita tinggallah dalam liga yang sama. Sekarang dengan Vietnam. Dia akan datang mungkin dengan Bangladesh, mungkin dengan negara lain. So kita kalau tak ada lonjakan, kita akan stuck dekat situ. Itulah yang dibahaskan banyak kali dan itu juga yang saya tekankan dalam ucapan Belanjawan 2024.
+
+
+
+[133:55] Speaker 2: Betul. Ya, Najib pun macam tu juga dulu. 2015 kan, PH berpecah. I mean, PH berpecah masa itu lah. BN masa tu kuat lagi. Najib pun buat, macam-macam program, nak lonjakkan ekonomi. Tapi akhirnya, dia terpaksa buat 1MDB, SRC, FELDA, macam-macam lagi untuk funding program-program tu. Yang akhirnya, merosakkan negara.
+
+
+
+[134:49] Speaker 1: Sebab tu kita di Malaysia, kita perlukan satu model ekonomi yang mampan. Yang tidak bergantung kepada sumber yang mudah habis. Contohnya, minyak dan gas. Cukai GST yang akhirnya membebankan rakyat. Kita perlukan industri bernilai tinggi, industri yang berteraskan teknologi, inovasi, dan kebolehan tenaga kerja tempatan. Itu yang sedang kita usahakan sekarang.
+
+
+
+[135:50] Speaker 2: Betul. Itu yang kita sedang usahakan. Tapi ia bukan kerja mudah. Ia mengambil masa, memerlukan komitmen yang tinggi daripada semua pihak. Kerajaan, swasta, rakyat, kita semua kena main peranan. Dan itu yang sedang kita cuba terapkan dalam Rancangan Malaysia ke-13 yang sedang digubal sekarang ni. Kita mahu pastikan bahawa perancangan kita bukan sekadar perancangan atas kertas, tetapi ada pelan tindakan yang jelas, ada KPI yang boleh diukur, dan ada penguatkuasaan yang telus.
+
+
+
+[136:58] Speaker 1: Insya-Allah. Kita harap apa yang dirancang oleh kerajaan hari ini akan membuahkan hasil untuk masa depan Malaysia yang lebih baik. Terima kasih YB Rafizi atas kesudian hadir ke podcast kita hari ini. Banyak perkara menarik yang kita bincangkan.
+
+
+
+[137:30] Speaker 2: Sama-sama. Terima kasih juga menjemput saya.
+
+
+
+[137:34] Speaker 1: Okey penonton semua, jangan lupa like, share, dan subscribe channel kita. Kita jumpa lagi dalam episod seterusnya. Assalamualaikum.
+
+[137:41] Cincng: Saya perhatikan yang sama lah. Cuma bagi pengundi atas pagar, saya nampak perkembangan ini memberikan satu... ada hikmah jugalah. Supaya dapat membebaskan diri untuk menilai mungkin opsyen-opsyen lain yang pada masa yang sama pemimpin Bersatu, namanya pun Bersatu kan? Jadi sekarang dah berpecah. Jadi dari situ kita boleh banyak bacakan bahawa pengundi atas pagar tambahan dengan perkembangan politik sekarang semasa memang akan makin menebal lah.
+
+
+
+[138:22] Rafizi: Baik, baik, baik. Cuma yalah, Hamzah nak buat parti baru ke tidak ni?
+
+
+
+[138:31] Speaker 3: Apa nama parti baru? Tak tahu.
+
+
+
+[138:34] Rafizi: Reset lah kut? Parti Hamzah... PHP? (Ketawa)
+
+
+
+[138:43] Speaker 1: Tapi yalah, YB sebelum ni pun dah bercakap tentang pengundi yang disenfranchised. Bukan kah ini akan menambahkan lagi orang nak susah nak buat keputusan dan akhirnya mungkin tak buat keputusan langsung? And then won't this split the Bersatu vote?
+
+
+
+[139:07] Rafizi: Sama ada disenfranchised voters tu makin besar atau tidak, kita tunggu survey yang seterusnya lah kan. Tapi kalau Datuk Seri Hamzah ada parti dia sendiri, jadi maksudnya kita mungkin bukan saja tiga corner, empat corner, kita mungkin lima enam corner lah. Jadi lima enam corner itu masing-masing akan ambil undi masing-masing. Sama ada dia akan ada kesan yang sama di seluruh negara itu pun tak tentu. Dia bergantung kepada pengaruh di kawasan masing-masing lah.
+
+
+
+[139:40] Rafizi: Ini pernah berlaku juga dalam tahun 2022, contohnya Pejuang. Pejuang buat Gerakan Tanah Air kan, GTA. Ada Berjasa, ada Pejuang dalam tu kan. Dia tidak berjaya memecahkan pun undi Bersatu lagi lah. Malah dia hilang semua deposit. Jadi buat masa sekarang contohnya kalau tengok kepada akar umbi Bersatu, nampaknya akar umbi Bersatu itu lebih kepada Datuk Seri Hamzah daripada Tan Sri Muhyiddin. Jadi mungkin bila parti baru Datuk Seri Hamzah ini masuk, kesannya itu tak sama macam Pejuang. Dia mungkin betul-betul akan memecahkan undi Bersatu lagi lah.
+
+
+
+[140:27] Rafizi: Malah saya rasa plot twist yang belum disebut lagi begini. Aku rasa lah betting aku lah, tekaan aku lah, dia ada plot twist. Katakanlah Datuk Seri Hamzah Zainuddin buat parti. Haah. Dan sebahagian besar daripada kekuatan Bersatu itu sebenarnya beralih kepada parti apa nama ni Datuk Seri Hamzah Zainuddin. Katakanlah PH lah, Parti Hamzah. (Ketawa) PHZ lah, nanti hang. Kan? PHZ. Agak-agaknya lah, adakah PAS akan terus bersama dengan Bersatu yang sekarang ini tinggal kelonsong sahaja? Logiknya tak.
+
+
+
+[141:16] Rafizi: Jadi ada kemungkinan plot twistnya apabila Datuk Seri Hamzah nanti ada parti dan dia berjaya buktikan majoriti daripada akar umbi Bersatu itu bersama dengan dia, maka Perikatan Nasional itu memang terburailah. Sekarang ini pun sebenarnya dah terburai. Dia makin terburai kerana PAS akan masuk pilihan raya akan datang dengan PH Hamzah Zainuddin. Oh nama dia PHZ. Nanti hang. Kan? Jadi mungkin ada Perikatan Kebangsaan pulakah, adalah lagi mufakat nasional 3.0. Mungkin juga bila Tan Sri Muhyiddin dah tak ada di dalam Bersatu, Datuk Seri Hamzah bersetuju untuk ada UMNO. Dan UMNO mungkin bersetuju oleh kerana Bersatu tu dah tak ada, ada PHZ, maka parti itu... jadi sekarang ini dia membuka kepada banyak kemungkinan. Jadi sebab itu PRU ke-16 ini adalah PRU yang paling meriahlah. Dia jadi karnival badut-badut politik seluruh Malaysia.
+
+
+
+[142:30] Rafizi: Cuma kita belum ucap tahniah kepada Datuk Seri Azmin. Berjaya kekal dalam parti Bersatu ni. Hebat, hebat, hebat. Mungkin kena tanya Datuk Seri Anwar Ibrahim juga sebab dia yang selalu jumpa Azmin sekarang ni. (Ketawa) Dia ada plot twist yang lain pula kat situ kan.
+
+
+
+[142:51] Speaker 1: Cuma YB Cincng lah sama, dengan keadaan macam ni, ini yang meyakinkan jentera-jentera kerajaan sekarang mungkin dalam PKR sendiri bahawa mereka akan kekal di kedudukan yang terbaik, boleh sambung lagi jadi kerajaan? You mean PH lah?
+
+
+
+[143:07] Cincng: Saya rasa mungkin ini akan memberikan bayangan lah bahawa mereka akan rasa makin selesa dalam kes ni. Cuma kalau bacaannya dalam politik ni sangat tidak menentu. The moment you feel that you are safest mungkin adalah spot yang paling bahaya. Dan complacency tu bagi saya amat sebenarnya dalam hati saya lah mungkin berlaku. Mungkin berlaku sebab dengan situasi ada orang barunya, beria-iyanya, dan hidup dalam echo chambernya. Bagi itu perkara yang saya setujulah menyedihkan sebab perjuangan tu asalnya adalah untuk reform, untuk melawan institusi yang semua ni tak betul. Tetapi nampak sekarang dah beralihlah perjuangan itu. Understood.
+
+
+
+[143:56] Rafizi: Ya, Najib pun macam tu juga dulu. 2015 kan, PH berpecah... I mean Pakatan Rakyat berpecah masa itu lah. PAS, Anwar Ibrahim masuk penjara, PKR pula bergaduh besar antara Kartel dengan kami semua kan. Jadi sebab itu dan masuk tahun 2017 ekonomi kononnya paling baik, pertumbuhan paling baik semua. Kemudian pembangkang pula alamak calon Perdana Menteri Tun Mahathir umur 95, macam mana nak menang kan? Jadi semua orang masa tu yakin bahawa Datuk Seri Najib menang. Jadi don't then Anwar Ibrahim sebagai seorang Perdana Menteri dan PKR sebagai sebuah parti tidak pernah berada pada kekuatan yang Najib ada nak masuk pilihan raya. Najib was far stronger dulu dengan Melayu dengan semua kan. Jadi kalau saya jadi merekalah, we have to watch by the month. Setiap bulan itu macam mana pergerakan semua lah. But dia akan ada banyak kemungkinan baru lah. Jadi yang seronoknya rakyat lah ada banyak pilihan dalam pilihan raya akan datang.
+
+
+
+[145:09] Speaker 1: Yang last sekali. Ha, ini pun nak kena... itu dia. (Ketawa) Ini yang mengejutkan YB. Yalah kita dah selalu dengar pun semua tulah kan. Tapi mengejutkan apabila ia keluar daripada Perdana Menteri sendiri. Ini memang PM cakap lah? Dalam Konvensyen di Johor. Dia dia apa nama ni, dia imply lah kan? Semua benda dia imply kan? Nyet nyet nyet dia imply semua kan? Tapi yes. So dia imply kata ada pernah bising pasal masa yang aku lah tak pernah cerita pasal Daim ataupun pasal Mahathir. Ada pernah dengar tak? Ada pernah.
+
+
+
+[145:48] Rafizi: Tapi yalah, inilah Anwar Ibrahim kan. Dia ada hikmah dia tau. Sebelum saya jawab lah kan. Kalau dulu lah Cincng katakanlah, ni dah dekat setahun pemilihan parti. Kalau kita cerita banyak benda, orang akan kata, oh bohong ah, tipu ah kan. Tapi sekarang ini Anwar sendiri yang menunjukkan wataknya itu satu persatu kan. Ambil contoh tentang Tun Mahathir kan. Dia lupa sebenarnya kalau dia pergi Google sebenarnya apabila dia diserang sebagai ejen IMF semua kan, hanya ada seorang sahaja pimpinan PKR on record yang pernah hentam Tun Mahathir dan tunjukkan bahawa yang ambil pinjaman World Bank masa tahun 97, 98 tu Tun Mahathir bukannya Anwar. Yang itu namanya Rafizi Ramli kan. Semua anak dia pun tak pernah, orang lain pun tak pernah kan. Tapi dia, Anwar dia boleh ada kemahiran buat-buat lupa.
+
+
+
+[147:05] Cincng: 2018 Raf, ingat tak bila Tun Mahathir melantik ahli-ahli kabinet sewenang-wenangnya? Siapa yang bersuara?
+
+
+
+[147:14] Rafizi: Ahah, cerita tu kan. Tahun 2018, you know bila Tun Mahathir buat kan. Aku kena maki lunyai tau. Satu negara ludah kat aku Azad. Actually dalam banyak-banyak masa lah, of course sekarang ni aku tak rasa sangat lah. Tapi masa itu dalam satu dua hari 24 jam pertama tu aku rasa hidup aku sangat sia-sia. Aku nak masuk penjara, habiskan masa keliling semua dan itu balasan yang aku dapat hanya kerana aku seorang saja yang berani angkat tangan kata Tun tak boleh buat begini kerana you tak rujuk kepada parti semua kan. Anwar Ibrahim dia sendiri bukan saja dia tak tegur, tak berani nak tegur Tun Mahathir, kau tahu lepas itu lepas beberapa hari aku keluarkan kenyataan dan kenyataan itu dibincangkan dengan dia dekat hospital di Cheras. Dia keluarkan kalau kau orang boleh pergi Google, dia keluarkan kenyataan pula dia menerima sebenarnya keputusan Mahathir untuk melantik menteri-menteri tu. Dia kira, tak apalah Raf you dah buat kerja untuk parti, biasalah you kena hentam, I ni kena nampak pemaaf. Ah style kan? Okey.
+
+
+
+[148:27] Rafizi: Dia satu sebab lah kan. Itu tak campur lagi kan daripada zaman muda aku dulu kan salah seorang daripada penulis dekat Suara Keadilan dulu nama Berita Keadilan. Berapa banyak yang aku tulis panjang lebar pasal Mahathir semua ni daripada zaman muda kan. Kenapa sebenarnya aku tak hentam Tun Mahathir atau Daim macam dia? Sebab kita dah jadi kerajaan. Kalau betul dan kita pun nak tengok kan kalau ada salah laku Tun Mahathir ke Tun Daim yang duit semua, dakwalah, bawalah ke mahkamah. Sebab selepas tiga tahun, I don't know about orang lain dah lah, aku pun rimas bila dia duk sebut you know kroni, sakau, gini gini gini kan. Seorang tu dah meninggal. He doesn't have you know an avenue to defend himself. Seorang lagi Tun Mahathir ada lagi tapi yalah dia pun dah tua. Eh kalau you ada SPRM di bawah you, Peguam Negara di bawah you semua kan, you dakwalah, bawalah ke mahkamah. Sebab rakyat tak suka. Rakyat bagi rakyat dulu kalau you pembangkang you bolehlah kempen kata kita nak tukar kerajaan supaya kita boleh bersihkan you know sakau semua ni kan. Jadi rakyat dah bagi undi kat kita, kita dah jadi kerajaan. Bila kita dah jadi kerajaan, kita tak boleh nak sembang macam kita pembangkang tau, main sakau, maki semua. Sebab rakyat tunggu maknanya.
+
+
+
+[150:06] Rafizi: Itulah sebabnya why I didn't say anything kerana kita nak jawab apa sebenarnya kalau aku duk sembang hentam Tun Mahathir ke Tun Daim, manusia yang waras dan logik akan kata, YB you sekarang yang kerajaan, then you do it lah kenapa masih lagi bercakap seperti pembangkang. Actually that's the only reason. And I believe sebenarnya bila kita jadi kerajaan, kita tak boleh menggunakan medan kerajaan itu untuk serangan politik seperti di pentas politik. Kalau pun contoh orang dulu selalu tanya kenapa Rafizi tak dedah-dedahkan, kenapa Rafizi tak lantang macam dulu? Diam-diam saja. Itu adalah tugas sebagai pembangkang kerana pembangkang tidak ada avenue untuk membuat tindakan sebab dia bukan kerajaan.
+
+
+
+[151:03] Rafizi: Kalau contohnya ada salah laku dalam kerajaan, sebagai menteri apa kita kena buat? Kita kena pergi cakap kat Perdana Menteri. Kita kena suruh dia tukar, kita kena berhujah di dalam kabinet, di dalam mesyuarat-mesyuarat dalaman ini. Kalau kita dah sampai ke peringkat seterusnya iaitu kita pergi buat laporan ataupun kita pergi ke media, maksudnya you tak boleh jadi dalam kerajaan dah you kena keluar. Sebab itulah aku keluar sebab kita dah exhaust cara itu. Tetapi kalau jadi kerajaan, kita tak boleh sebagai menteri ataupun Perdana Menteri menggunakan kedudukan kita itu untuk cast aspersion kepada orang lain dalam keadaan you kawal semua yang lain. Kalau katakan A ada rasuah gini gini gini, yang sepatutnya bertanggungjawab berlaku ialah polis pergi tangkap lah melalui proses itu. Barulah dia adil kepada orang itu kerana dia boleh ambil peguam, dia kemudiannya boleh jawab di mahkamah semua kan.
+
+
+
+[152:08] Rafizi: Jadi sebab itu you notice aku memang tak ada buat tuduhan-tuduhan sakau rasuah ni sejak aku jadi menteri bukan saja kepada Tun Daim bukan saja kepada Tun Mahathir kepada semua. Mana ada? Sanusi ke apa tak ada. Satu-satunya yang kita mula bersuara di luar ialah tentang Farhash. Kerana itu kita mula dah jadi macam pembangkang lah kerana yang kita suarakan di dalam kerajaan dahulu tidak diambil tindakan. Jadi kita kena suarakan kerana ada risiko perkara itu boleh dilindungi kerana dia rapat dengan kerajaan contohnya. Tapi kalau yang memang musuh kerajaan, Tun Mahathir, Tun Daim, siapa lagi yang lain semua ni kan, apa nama ni Tan Sri Muhyiddin ke Azmin Ali ke siapa-siapa, ambillah tindakan lah. Yang kita marah, war-warkan pergi tangkap, pergi sita lepas tu tak ada tindakan. Bising pasal wang kena rampas 170 juta lebih, pumpang pumpang pumpang eh lepas tu kow tim. Dakwa pimpinan Bersatu lepas tu bayar kompaun lepas. Yang itu yang kita marah kan.
+
+
+
+[153:22] Rafizi: Jadi sebab itu saya tak akan langgar perkara itu. Kerana sebagai kerajaan then it is your job as a government to make sure hukuman atau siasatan itu berlaku. Dan benda tu kita tunggu keputusan mahkamah lah. Why should I jadikan bahan politik? Itu yang Anwar tak suka dekat aku. Kerana I have my way of looking at things dan perkara itu ada benda yang kita tak setuju. Aku tak setuju cara dia berkempen macam sekarang. Sampai ke sudah dah berpuluh tahun dia juga kata orang dendam kesumat. Oh ini saya dijatuhkan dibogelkan kerana dendam kesumat. Tapi dia dah jadi Perdana Menteri tiga tahun dia ulang benda yang sama, logik rakyat ialah yang dendam kesumat ni you. Sebab itu susah sebagai pimpinan parti untuk kita... aku lah sebagai Timbalan Presiden untuk aku nak bina imej dia bila kita nasihat dia tak dengar. Bila kita nasihat dia kata you ni orang Daim, you ni orang Tun Mahathir. Mana ada kalau kalau kita ni orang Tun Daim dengan orang Tun Mahathir, tak adalah kita duduk kedai cabuk bunyi motor sebentar tadi tu. Kita mungkin duduk kat Menara Ilham lah kut. Tambahan dengan 1.1 billion tu. Tambah lagi 1.1 billion, tambah lagi 2.5 billion kan? Kalau dah ada berbillion-billion macam itu, kerja bodoh lah kedai Fleximart kena crowdfunding, kena minta tolong orang untuk bagi bantuan kat orang lain semua kan.
+
+
+
+[155:01] Rafizi: Satu benda eh, yang ini yang mungkin Ceplos ataupun orang keliling Datuk Seri Anwar dan Datuk Seri Anwar sendiri mungkin tak nampak tau. Berhati-hati kerana rakyat akan nampak pattern. Masa zaman dia dahulu pun bila UMNO nak matikan dia kan, dia bermula dengan tuduhan dia ejen Yahudi, dia ejen itu dia ejen ini kan. Sekarang dia guna yang sama. Hari ini dia kata Rafizi ni ejen Atok dan Daim kan. Lepas ni aku jadi ejen Bloomberg, ejen Yahudi pula kan lepas lama-lama... Jadi orang akan fikir tau, ini bukan macam kita pernah dengar ke skrip ini? Maksudnya kamu melakukan perkara yang sama yang dulu kamu kata kamu jadi mangsa. Dan I think once you cross that bridge kan, mereka yang kalaupun masih lagi ada sedikit bibit-bibit hormat kepada Datuk Seri Anwar dan PKR kalau mereka itu pengundi atas pagar, payahlah kita nak pertahankan. Kerana orang akan tanya, if you are in my shoes orang akan tanya, apa lagi you nak pertahankan dia orang ni? Dia dah fitnah you, dia tuduh you ejen benda mengarut-mengarut, dia buat benda yang sama yang dulu you pertahankan dia orang daripada UMNO. Jadi kalau you masih lagi bersama-sama dengan dia orang ni pertahankan dia orang ni, yang bodohnya engkau bukan dia orang. So at some point dia akan sampai ke peringkat itu lah.
+
+
+
+[156:37] Speaker 1: Okey, baik YB. YB Cincng ada apa nak tambah?
+
+
+
+[156:41] Cincng: Kita... (Ketawa) Jangan tambah banyak-banyak Cincng nanti kau pun jadi ejen Atok dan Daim.
+
+
+
+[156:49] Speaker 1: Kita dua jam setengah... dua jam 35 minit. Okey lah. Okey, baguslah tu. Itu jelah kut eh? Itu jelah kut. Selamat berpuasa dan selamat berpuasa. Selamat bersahur, jangan makan banyak-banyak kan. Siapa yang kena makan ubat pagi macam saya, ingatan kepada diri sendiri sekarang kena makan macam sahur. Sebab aku terlupa aku makan ubat jantung semua pagi kan. So bila tak makan kat sahur tu terlepas ubat bahaya tau. Oh bahaya. Okey, jangan buat lagi. Jangan buat lagi. Insya-Allah tak buat. Okey kita jumpa minggu depan. Selamat malam. Selamat malam. Selamat berpuasa. (Muzik)
 
