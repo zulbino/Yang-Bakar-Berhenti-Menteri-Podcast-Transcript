@@ -161,7 +161,16 @@ against the `episodes/` folder to flag episodes that were never processed at all
 
 ## Known limitations
 
-- Episodes transcribed via `--engine local` have no speaker diarization.
+- Episodes transcribed via `--engine local` have no speaker diarization --
+  `raw.md` for these is one undifferentiated stream of text with no "Speaker:"
+  labels at all. The rewrite stage's prompt says to use "the actual speaker
+  names from the transcript," which holds for Gemini-transcribed raw.md (that
+  stage diarizes), but for local-ASR raw.md there's nothing to extract --
+  the rewrite model is inferring who's speaking purely from context (self-
+  reference, question/answer flow, tone), not reading a label. Treat
+  `interview.md`/`interview-en.md`/`interview-ms.md` speaker attribution on
+  these episodes as the model's best guess, not a verified fact, especially
+  in fast multi-speaker exchanges.
 - Local ASR proper-noun accuracy (names, unusual spellings) isn't verified against
   any reference dictionary yet -- a manual correction pass is planned, guided by the
   repo owner rather than guessed at automatically. Candidate tooling for that pass:
