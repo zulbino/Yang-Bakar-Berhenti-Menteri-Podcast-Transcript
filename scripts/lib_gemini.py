@@ -79,6 +79,17 @@ def _is_unavailable(e):
     return isinstance(e, errors.ServerError) and e.code == 503
 
 
+def _is_prohibited_content_block(resp):
+    # PROHIBITED_CONTENT is a built-in Google safety layer, separate from and not
+    # disabled by SAFETY_SETTINGS below (that only covers the 5 adjustable harm
+    # categories) -- it's a hard, non-configurable block. Confirmed to trip more
+    # readily on newer models (gemini-3.7/3.6-flash) for audio discussing real named
+    # public figures and corruption allegations. Retrying the same model is pointless
+    # since the classification is deterministic; switching model is the only lever.
+    feedback = resp.prompt_feedback
+    return bool(feedback) and feedback.block_reason == types.BlockedReason.PROHIBITED_CONTENT
+
+
 def _advance_model(reason):
     global _model_idx
     if _model_idx + 1 >= len(MODEL_FALLBACK_CHAIN):
@@ -89,14 +100,12 @@ def _advance_model(reason):
 
 
 def generate_content(client, contents, config):
-    """generate_content with automatic model fallback on free-tier quota exhaustion
-    or sustained model unavailability (503)."""
+    """generate_content with automatic model fallback on free-tier quota exhaustion,
+    sustained model unavailability (503), or a hard PROHIBITED_CONTENT safety block."""
     unavailable_streak = 0
     while True:
         try:
             resp = client.models.generate_content(model=current_model(), contents=contents, config=config)
-            unavailable_streak = 0
-            return resp
         except errors.APIError as e:
             if _is_free_tier_quota_exhausted(e):
                 if _advance_model("free-tier quota exhausted"):
@@ -112,6 +121,13 @@ def generate_content(client, contents, config):
                     unavailable_streak = 0
                     continue
             raise
+        else:
+            if _is_prohibited_content_block(resp):
+                if _advance_model("prohibited content block"):
+                    continue
+                raise RuntimeError("prohibited content block persisted through every model in the fallback chain")
+            unavailable_streak = 0
+            return resp
 
 # This is a political podcast discussing corruption inquiries, scandals, and named
 # public figures -- content Gemini's default safety filters (esp. civic integrity /
