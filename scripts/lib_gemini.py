@@ -17,21 +17,46 @@ from google.genai import errors, types
 from common import human_duration, retry
 
 # Free-tier daily quota (20 requests/day) is tracked per-model, independently of
-# every other model. gemini-3.7-flash is excluded from the chain -- it has
-# repeatedly hit sustained 503 UNAVAILABLE (high demand) since its Aug 13 launch,
-# which is Google-side capacity, not a quota problem, so switching model on that
-# error would just waste an attempt. When one model's free-tier quota is
-# exhausted (detected via the RESOURCE_EXHAUSTED + FreeTier error), every
-# subsequent call in this process automatically moves on to the next model in
-# the chain, so a run can keep going across all offered models until the daily
-# reset instead of stalling on the first one hit.
+# every other model. When one model's free-tier quota is exhausted (detected via
+# the RESOURCE_EXHAUSTED + FreeTier error), every subsequent call in this process
+# automatically moves on to the next model in the chain, so a run can keep going
+# across all offered models until the daily reset instead of stalling on the
+# first one hit.
+#
+# gemini-3.7-flash previously hit sustained 503 UNAVAILABLE (high demand) since
+# its Aug 13 launch -- Google-side capacity, not quota -- so it was excluded
+# outright. Re-added once that congestion reportedly cleared, but 503 isn't a
+# quota-exhaustion signal, so it needs its own handling: a couple of quick
+# retries on the same model (a single transient 503 self-recovers most of the
+# time, seen directly in this project's own testing), then advance to the next
+# model if it's still unavailable, rather than wasting the full slow backoff
+# budget on a model that's genuinely down.
+#
+# Ordered best-quality-first, not just by version number. Every model here can
+# also silently drop mixed-language code-switching under load -- confirmed
+# directly on gemini-3.1-flash-lite (see the language-mistranslation writeup) --
+# so degradation-prone models sit at the end, reached only once everything
+# better is genuinely exhausted or down. qa_check.py's language-density check
+# is what catches it if a weak fallback model does mistranslate; it no longer
+# passes silently. gemini-3.1-pro and the gemini-2.5 line are included for
+# quota diversity (each model's free-tier quota is independent, see above) --
+# 2.5 is the older, cheaper, previously-proven generation, kept as a last
+# resort rather than a first choice.
 MODEL_FALLBACK_CHAIN = [
+    "gemini-3.7-flash",
     "gemini-3.6-flash",
+    "gemini-3.1-pro",
     "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
     "gemini-3-flash-preview",
     "gemini-3.1-flash-lite",
+    "gemini-2.5-pro",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
 ]
 _model_idx = 0
+UNAVAILABLE_RETRIES_BEFORE_FALLBACK = 2
+UNAVAILABLE_RETRY_DELAY_SECONDS = 10
 
 
 def current_model():
@@ -50,23 +75,42 @@ def _is_free_tier_quota_exhausted(e):
     )
 
 
-def _advance_model():
+def _is_unavailable(e):
+    return isinstance(e, errors.ServerError) and e.code == 503
+
+
+def _advance_model(reason):
     global _model_idx
     if _model_idx + 1 >= len(MODEL_FALLBACK_CHAIN):
         return False
     _model_idx += 1
-    print(f"  [fallback] switching to {current_model()} (free-tier quota exhausted)", flush=True)
+    print(f"  [fallback] switching to {current_model()} ({reason})", flush=True)
     return True
 
 
 def generate_content(client, contents, config):
-    """generate_content with automatic model fallback on free-tier quota exhaustion."""
+    """generate_content with automatic model fallback on free-tier quota exhaustion
+    or sustained model unavailability (503)."""
+    unavailable_streak = 0
     while True:
         try:
-            return client.models.generate_content(model=current_model(), contents=contents, config=config)
+            resp = client.models.generate_content(model=current_model(), contents=contents, config=config)
+            unavailable_streak = 0
+            return resp
         except errors.APIError as e:
-            if _is_free_tier_quota_exhausted(e) and _advance_model():
-                continue
+            if _is_free_tier_quota_exhausted(e):
+                if _advance_model("free-tier quota exhausted"):
+                    unavailable_streak = 0
+                    continue
+                raise
+            if _is_unavailable(e):
+                unavailable_streak += 1
+                if unavailable_streak <= UNAVAILABLE_RETRIES_BEFORE_FALLBACK:
+                    time.sleep(UNAVAILABLE_RETRY_DELAY_SECONDS)
+                    continue
+                if _advance_model("model unavailable"):
+                    unavailable_streak = 0
+                    continue
             raise
 
 # This is a political podcast discussing corruption inquiries, scandals, and named

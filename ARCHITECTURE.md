@@ -98,15 +98,25 @@ machine; required on this one.
 
 ### Raw transcription: the Gemini model chain
 
-`lib_gemini.py` tries models in order and advances to the next one when the current
-model's free-tier daily quota (20 requests/day per model) is exhausted:
+`lib_gemini.py` tries models in order, best-quality-first, and advances to the next
+one when the current model's free-tier daily quota (20 requests/day per model) is
+exhausted, or when it hits sustained `503 UNAVAILABLE` (a couple of quick retries
+first, since a single transient 503 usually self-recovers, then advance):
 
-`gemini-3.6-flash` → `gemini-3.5-flash` → `gemini-3-flash-preview` → `gemini-3.1-flash-lite`
+`gemini-3.7-flash` → `gemini-3.6-flash` → `gemini-3.1-pro` → `gemini-3.5-flash` →
+`gemini-3.5-flash-lite` → `gemini-3-flash-preview` → `gemini-3.1-flash-lite` →
+`gemini-2.5-pro` → `gemini-2.5-flash` → `gemini-2.5-flash-lite`
 
-`gemini-3.7-flash` is deliberately excluded from the chain. It repeatedly returned
-sustained `503 UNAVAILABLE` (high demand) since its launch -- a Google-side capacity
-problem, not a quota problem, so falling back to it on a quota error would just waste
-an attempt.
+`gemini-3.7-flash` was originally excluded outright -- it repeatedly returned
+sustained `503 UNAVAILABLE` (high demand) since its Aug 13 2026 launch, a Google-side
+capacity problem, not a quota problem, so falling back to it used to just waste an
+attempt. Re-added once that congestion reportedly cleared, now with real 503 handling
+(above) instead of exclusion. The `gemini-2.5` line is the older, cheaper, previously-
+proven generation, kept at the end as a last resort for quota diversity rather than a
+first choice. Every model in this chain -- not just the weakest ones -- has shown it
+can silently drop mixed-language code-switching under some conditions (see the
+model-evaluation history above); `qa_check.py`'s language-density check is what
+catches that now, not model selection alone.
 
 This chain handles *daily request-count* exhaustion well. It doesn't help with a
 different quota dimension: *input tokens per minute*. A single raw-transcription call
