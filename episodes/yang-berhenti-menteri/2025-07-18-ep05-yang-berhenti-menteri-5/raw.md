@@ -7,688 +7,807 @@ publish_date: '2025-07-18'
 duration_seconds: 6861
 duration: 1h 54m
 view_count: 56799
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[00:01] Assalamualaikum and welcome to Podcast Yang Berhenti Menteri, episode 5 with Saudara Fizy Ramli. Our guest speaker tonight is Dato' Syed Azwan or DSA. How are you Dato'? I'm good, I'm good. I'm healthy. Dato', I want to ask you something. When was the first time you met Saudara Fizy?
+[00:00] Moderator
+Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod yang kelima sudah bersama saudara Rafizi Ramli. Guest speaker kita pada malam ini Datuk Syed Azuan atau DSA. Apa khabar Datuk?
 
-[00:20] Saya first time, saya jumpa di Alostar, melibat urus RMK 13. Oh, ya, ya. Okay, baik-baik. Sebab pun saya... Sensitif tu RMK 13 tu. Haa, sensitif tu. Saya pun ada sentuh juga dalam saya punya YouTube live. Haa, haa. Mengenai penungkaran ni, last minute, last minute. Itu bila dah bulan?
 
-[00:40] Last year? This year, in Alostar. I think it was in the second or third month. Oh, yes, because the last time we did it was in Kedah Banjir. Yes, it was postponed to the second month. Then it was the ninth month. So it was the last month.
 
-[01:02] Dato' disebabkan Dato' sponsor kita Pintu Topi pada malam ni Jadi masa lebih untuk perkenalkan Dato' lah Siapa DSA sebenarnya Selain daripada yang kita jumpa Dekat live dan YouTube Okay
+[00:14] Datuk Syed Azuan
+Baik, baik, baik, baik. Sehat, sehat.
 
-[01:15] Hi DSA here, Assalamualaikum, Salam Nusyamadani. So I always, when I make content, my signature is Hi DSA. Hi DSA here. From the beginning, I didn't know how to get it out. So I...
 
-[01:32] Uh...
 
-[01:33] I do a lot of work. But after COVID, I don't know what to do. So, I'm very skeptical about social media. When I hear TikTok, I think, why TikTok? It's just kids. But I will always go out of the country for my business conference. So, when Thailand gives the truth to
+[00:16] Moderator
+Datuk, saya nak tanya sikit. Datuk bila pertama kali jumpa saudara Rafizi sebenarnya?
 
-[01:59] Pergi negara dia, saya lah orang yang pertama rasanya, tergedik-gedik nak pergi. Jadi saya ambil flight, saya nak pergi tengok tempat-tempat yang pernah saya buat conference saya.
 
-[02:09] Jadi di Chiang Mai tu membuka binda saya
 
-[02:13] Muka minda saya tu macam mana Saya pergi satu kedai kopi Kedai kopi tu nama dia Graf Graf
+[00:20] Datuk Syed Azuan
+Saya first time ah, saya jumpa di Alor Setar. Libat urus RMK-13.
 
-[02:20] Graf lah Jadi bila saya masuk situ Saya rasa inilah kehidupan aku lah Kerana saya pernah menjalani hidup yang Ni turun naik Selepas covid tu memang Saya terus jatuh Sebelum covid memang saya
 
-[02:33] nak buat apa tu saya buat lah, duit ada kan seronok orang tu travelling sahaja, tapi bila jatuh begitu lepas covid, saya rasakan I need to do something
 
-[02:43] I said, why not make a TikTok account? So my TikTok account was in Chiang Mai, at the Graph store. When you went to Chiang Mai, why did you go there? Everyone was playing TikTok. No, the shop was a coffee shop that had a lot of signature coffees. Chiang Mai is known for its coffee beans.
+[00:26] Moderator
+OK, baik, baik.
 
-[03:07] Jadi bila saya masuk tu sebab nama tu, dia ada cakap tu kehidupan kita ini ibarat gerak. Jadi dia menukar perception saya, why not I do something in social media.
 
-[03:18] Jadi saya pun buatlah video satu. And quite recent lah maksudnya bila start balik tu? Ya, 20 Julai tak rasa saya. Julai 2022. 2022. Quite recent. Quite recent. Baru 3 tahun saya dalam ni. Lebih kurang sama, apa nama ni, time saya buka akaun TikTok lah. Kena paksa. Julai 2022. Wuih, sama. Lebih kurang sama. Hebat lah. Terbaik lah kata saya. Saya tak tahu apa saya punya nis sebenarnya Saya pun tak tahu Saya main hentam dulu Saya hentam mula-mula
 
-[03:55] Buat konten saya lah Cerita pasal personal Saya tengok orang tak minat pun Cerita apa pasal personal kita kan Jadi saya mula sentuh mengenai
+[00:27] Datuk Syed Azuan
+Sensitif tu RMK-13.
 
-[04:06] Politics. Okay. A little bit. But my content is wow. I remember one content in Bangkok. The content is The Roti Lady. A person who makes bread that looks beautiful. That's my turning point. One million beautiful views. Wow, we have fun. After that, I touched politics. After that, I touched young people. It's very rough. The first video is also one million.
 
-[04:34] I don't remember. I had to force myself to do TikTok. Because after 2018, I was not involved in politics because of my situation. So there was no content, social media. In 2022, everyone will talk about TikTok. I was late on TikTok. Now, I'm chasing after Fadlina.
 
-[05:01] TikTok YB is already a lot, more than 200,000. But for me, TikTok, my children have asked me, Walid, why do you want to play TikTok? Your life is relaxing, people don't know you, people don't hate you. I said I want to do something new. Something that can't be bought with RMB. I first came across DSA's content about kids, about young people. Then I followed. What is it called?
+[00:29] Moderator
+Sensitif Datuk.
 
-[05:25] The story of the kids who want to go to university and study. Yes, the kids who are sometimes motivated by money. Money is everything in life. We don't have knowledge, we can be rich. We can be easy for me, I don't think we can. We want to be rich, we need knowledge.
 
-[05:49] I like it a lot. Okay, Dato'. Tonight, for Dato', we'll open the floor. Open the table. The empty table. But open it for Dato'. Dato' will ask questions to Sd. Rafizi. Sd. Rafizi will answer and if Dato' has an answer, he will answer back.
 
-[06:12] If you don't have it, I'll ask again and burn it again. Can you, Dato'? Yes, you can. Okay, let's start, Dato'. So, actually, on Saturday, I want to go to Kuala Terengganu. There's a haul of Tokku Paloh. Oh, Tokku Zaid Paloh. Yes, Tokku Tokku Paloh. He has a haul of his father, Tokku Tuan Besar. He's my daughter. He's...
+[00:30] Datuk Syed Azuan
+Saya pun ada sentuh juga dalam saya punya YouTube live mengenai perbentungan last minute.
 
-[06:37] I was in the Saif Sharifah gang. He was pushing me to go back to the P. I said, it's okay, I want to go. To get a little more blessing. We are sometimes in a hurry. There is no. So tonight I was also surprised. Because I saw YB's podcast. He has a title. The first one is really great.
 
-[07:02] YB dah kembali Saya tengok itu Media YB Saya pegang ayat satu Welcome back YB Sebelum kita pergi jauh tu Saya nak tanya Kenapa wartawan dia kata Welcome back YB
 
-[07:19] Masa mana? Masa sidang media hari itu? Masa sidang media di Subang Jaya. Ayat itu yang saya pegang. Welcome back YB.
+[00:39] Rafizi Ramli
+Tu bila bulan tahun lepas ah? Tahun lepas.
 
-[07:27] Saya ingat dulu lah sebelum saya jadi menteri lah kan Err
 
-[07:32] Apa ni, saya ada hubungan rapat dengan wartawan media semua ni sebab saya yang paling banyak buat apa nama ni sidang media. Saya punya sidang media ni selalunya tiap-tiap minggu ada dua tiga jadi benda tu benda biasa untuk mereka lah dan
 
-[07:51] The media, in my understanding, they need a story. So, if you are a politician, whoever always brings the story will be close and popular with the media. But when I became a government, we actually couldn't do a lot of media. Because that's not our job. If the reporter asks, this one can't comment, that one can't touch.
+[00:42] Datuk Syed Azuan
+Tahun ni, tahun ni. Tahun ni di Alor Setar. Bulan bulan dua kah, bulan 3 rasanya.
 
-[08:18] Saya ingat dalam tempoh 2 tahun setengah tu memang kehilangan saya dengan media tu boleh dirasakan lah. Jadi hari tu tu ramai-ramai, tu banyak terutamanya yang...
 
-[08:32] yang wartawan yang senior lah kan. Mereka pun mula bekerja tu masa muda-muda lebih kurang sama masa saya mula jadi ahli politik. Jadi it's almost like reunion selepas 2 tahun setengah.
 
-[08:48] Saya pun sebenarnya YB, YB jadi menteri. Saya ada buat konten juga. Saya balun YB kan. Apa khai ni YB Refuzi ni dah jadi menteri air hilang tarik. Memang saya ada 2-3 konten saya main sebelum ni saya tengok balik lah. Aku duduk kata dekat malam ni aku nak jumpa. Jadi saya kata kenapa YB ni? Masa jadi menteri dah jadi macam orang Perlis kata tak ada telok. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+[00:48] Rafizi Ramli
+Bulan Mac.
 
-[09:19] Is that so? Yes. Because of this, we have two fields of responsibility as ministers. One is related to our duties as ministers, and the other is as politicians. So when the government is formed, if the minister, actually the Ministry of Economy is the most complicated to navigate. Because it dominates all fields.
 
-[09:46] Perangkutan dasarnya, kemudian pendidikan, ekonomi semua kan Tapi setiap kementerian itu memang ada tugasan yang dilihat bertindih Jadi keputusan jemaah menteri ialah menteri lain tak boleh komen hal lain
 
-[10:05] Jadi maksudnya, Kementerian Ekonomi memang tak boleh komen apa-apa Sebab kalau soal dasar itu semua berlapik dengan benda-benda lain Kecualilah benda-benda yang memang orang lain tak nak komen Contohnya harga barang, inflasi, yang itu ditinggalkan akulah Tapi bab-bab lain, saya pernah ditegur beberapa kali oleh PM Ini tak boleh sentuh, ini tak boleh sentuh Jadi akhirnya memang susah kita nak bersuara Hanya Kementerian Ekonomi buat lah Kemudian sebagai ahli politik pula
+[00:49] Datuk Syed Azuan
+Ya.
 
-[10:40] I also want to balance, if a minister whose focus is to govern the country, we have to build a good economic narrative, he has a lot of work, right? If there are too many comments about politics, first, he will disrupt our focus. But secondly,
 
-[11:01] When we comment on politics a lot, it will start to touch the hearts of the people. So, UMNO is not happy, DAP is not happy. So, in the end, from the beginning of my decision, it's okay. We focus on the tasks of the Ministry of Economy. So, that's why the content is all content that people say is boring. Because the economy is actually boring.
 
-[11:29] The egg is there. But you have to keep it. That's what I said. I also support this economy in terms of making a video. I made a content about Padu. I thought it was 800,000 views for me to tell Padu. I don't know why I told Padu. But I think it's something that...
+[00:50] Rafizi Ramli
+Oh ya, ya, sebab Kedah paling last sekali sebab masa kita nak buat tu Kedah banjir. So dia postponed.
 
-[11:56] What's interesting about Padu is that when we want to give help, we have to look at it not from the perspective of the income we get. We have to push this person, push that person, then we can give him the help he deserves. But that's it, Wabi. Wabi is gone. Remember, Padu is...
 
-[12:16] Nak guna lagi ke ataupun...
 
-[12:19] Dia ada dari segi data yang ada dalam padu itu perkara itu kira berguna kepada semua kementerian lah. Jadi saya ingat yang itu akan terus digunakan. Lagipun memang...
+[00:54] Datuk Syed Azuan
+Ya, dia postponed tu ke bulan dua rasanya saya. Patut bulan sembilan.
 
-[12:35] Secara umumnya tujuan kita ada padu supaya kita ada satu pangkalan data back end. Jadi kalau setiap kementerian ataupun agensi dia nak buat...
 
-[12:47] aplikasi baru dia tak payah buat yang back end tu dia menjimatkan belanja lebih 50% sebab back end tu yang mahal database, nak ambil data jadi saya ingat dari segi itu padu tu akan terus digunakan dan ada macam-macam lah cuma yang rakyat
 
-[13:05] orang kata aspek daripada padu ni ialah dalam bentuk program bantuan tunai yang mengambil kira perkara-perkara yang DSA sebut tadilah yang ini yang saya ingat daripada beberapa bulan lepas pun nampaknya
+[00:59] Rafizi Ramli
+Ha, patut bulan tahun lepaslah sepatutnya.
 
-[13:22] the government's decision is not in that direction. There are different views. The most dominant view is the view of the Ministry of Finance that it is too complicated to be done. If you want to take into account the income, house, etc., it is said that our people may not understand. It is difficult. That is the difference between my view and the Ministry of Finance.
 
-[13:48] Dengan tak adanya saya, maksudnya saya ingat pandangan Kementerian Kewangan itu akan diambil kira dan dipakailah. Jadi dari segi pemberian tunai. Sebab isu dia, saya ingat Kementerian Kewangan dia melihat STR itu.
 
-[14:02] dan juga yang asal daripada BRIM semua tu, STR tu dia kira itu produk dia, jadi kalau ada padu nanti yang itu kacau dia punya jadi dalam kajian macam tu tau dia kira ini aku punya ni, ada benda baru, aku tak boleh sokong lah dia selalunya macam tu lah kan, dia kacau saya faham, saya sebenarnya tak berminat langsung kita cerita sikit lah tentang RMK 13 ni sebab ini satu, saya melihat sebelum ni RMK 13 Siapa pun tak peduli Tak heran Tiba-tiba ada Masuk parlimen Tapi bila my time YB
+[01:01] Datuk Syed Azuan
+Sembilan.
 
-[14:40] YBP is involved in the management. And I told my friends, the young people, I said, let's go, I want to go. I want to see YB Refizi. Because when I went there, I saw YB has become a difference. In terms of answering questions. But here I want to tell YB,
 
-[14:59] Saya tidak
 
-[15:01] Actually, he was shocked. Because YBP, I saw where the people of UMNO were. When I came back, I was shocked. Where are the people of UMNO? Why didn't they come? At RMK 13. Actually, YB, I want to say to YB, this is a coincidence. I went to the convention, the joint convention. The UMNO representative said, they don't like YB,
+[01:02] Moderator
+Datuk, disebabkan Datuk sponsor kita untuk topi pada malam ini, jadi masa lebih untuk perkenalkan Datuk lah. Siapa DSA sebenarnya, selain daripada yang kita jumpa dekat live dan YouTube?
 
-[15:28] Bagi bantuan direct kepada...
 
-[15:32] Penggawai-penggawai adik aku Mereka nak Sang Ehm
 
-[15:36] Whatever help comes to the IC. I hope it's you. What do you want to comment? Why don't they like to go directly to... Even though there is a brother officer. There is one, from this, Dato' Gapak, I'll mention my friend. Tonight, he said, my friend mentioned my name. He praised YB. He said, thank you YB for giving us help. Then YB commented a little.
+[01:14] Datuk Syed Azuan
+OK, ya. Hai, DSA di sini. Assalamualaikum, salam Nuzul Ramadan ya. Jadi saya selalu apabila saya buat content, signature saya "Hai, DSA di sini".
 
-[16:03] Dia memang, yang ini saya ingat, dia rujuk kepada IKR lah, Inisiatif Kemudahan Rakyat. Okey.
 
-[16:13] Dia dalam kerajaan, orang politik, dia memang berbeza-beza pandangan lah
 
-[16:21] Ada pandangan lama daripada PKR sendiri ke kawan-kawan dalam kerajaan Ialah IKR ini akan melunturkan pengaruh orang politik Kerana rakyat boleh minta terus Kemudian tambah lagi bila kita bagi terus kepada majlis daerah semua
+[01:24] Rafizi Ramli
+Tulah, "Hai, DSA di sini".
 
-[16:45] Ini akan menyebabkan dia tak ada kawalan politik sedikit lah kalau dia melalui sistem dulu pergi ke state development office, pergi ke ICU semua jadi boleh dikawal lah kan. Yang itu berjalan macam biasa. Maksudnya setiap tahun ICU akan mengangkat permohonan peruntukan kepada Kementerian Ekonomi untuk projek-projek yang diuruskan ICU di negeri masing-masing. Batan Perdana Menteri kot suka kan.
 
-[17:18] But actually, under the Ministry of Economy, since the era of Tok Kadok Merdeka, every year, the regional councils throughout Malaysia have been asking for help from the government for small projects. Because I think there are only 3-4 regional councils,
 
-[17:43] di Malaysia ni yang ada duit untuk buat infrastruktur. Kutipan dia daripada cukai pintu ke apa hasil dia tu, bayar gaji pun cukup-cukup makan je. Jadi sebab itu sebenarnya kerajaan negeri pula oleh kerana hampir semua kerajaan negeri ni dia tidak ada hasil yang mencukupi untuk belanja pembangunan dia untuk dia bagi kepada majlis bandaran ni. Jadi sebab itu kalau di kawasan luar bandar, Kalau kadang-kadang kawasan bandar sendiri Rakyat tak faham tau Dia nak suruh buat jambatan kecil RM200,000 pun 10 tahun tak dapat JT tu kan Kadang-kadang saya tengok menteri kena datang jumpa saya Boleh tak tolong tengok ni JT RM200,000 kat kawasan saya
+[01:26] Datuk Syed Azuan
+Ha, di sini. Yang tu daripada awal, saya pun tak tahu macam mana mula boleh keluar begitu kan. Jadi saya ni banyaklah buat kerja kan. Tetapi apabila lepas Covid tu, saya tak tahu nak buat apalah. Jadi mengenai sosial media ni memang saya very skeptical lah. Saya tak bila dengar TikTok je, benda apa TikTok-TikTok ni, ni budak-budak je. Ha, itu bila saya, tapi apabila saya, saya ni selalu saya akan keluar negara atas urusan business conference sayalah. Jadi apabila Thailand ni dia beri kebenaran untuk pergi negara dia, sayalah orang yang pertama rasanya tergedik-gedik nak pi. Jadi saya ambil flight, saya nak pi tengok tempat-tempat yang pernah saya buat conference saya. Jadi di Chiang Mai tu membuka minda saya. Mengubah minda saya tu macam mana? Saya pergi satu kedai kopi, kedai kopi tu nama dia Graph, maybe. Graph. Graph lah. Jadi bila saya masuk situ saya rasa inilah kehidupan akulah. Kerana saya pernah menjalani hidup yang ni turun naik. Selepas Covid tu memang saya terus jatuh. Sebelum Covid memang saya nak buat apa tu saya buatlah, duit ada kan. Seronok lah. Travelling sahaja. Tapi bila jatuh begitu lepas Covid, saya rasakan I need to do something. Saya rasa why not buat akaun TikTok. Jadi akaun TikTok saya ni wujud di mana? Di Chiang Mai, di kedai Graph itulah.
 
-[18:31] Benda itu tak sepatutnya berlaku kerana pada masa yang sama peruntukan RM100 juta ini memang dibayar oleh kerajaan persekutuan melalui kementerian ekonomi kepada semua majlis daerah. Bezanya dia tulis surat kepada menteri.
 
-[18:50] So, when he wrote the letter, I was in the office at the beginning of the first month, right? The letter flew like this every day, everyone asked for a permit to make a road like this. I used to be a representative of the people of my area, right? Actually, if we leave 100% of the requests by the local council, by the government officials,
 
-[19:15] Dia tak tentu buat tu Betul-betul yang rakyat nak Sebab dia ikut pegawai Pegawai kata aku nak kat sini lah Jadi kita perkenalkan IKR IKR maksudnya ada satu saluran baru
+[02:52] Rafizi Ramli
+Maksudnya, masa DSA pergi kat kedai Chiang Mai tu, masuk kedai tu sebab apa, semua orang tengah main TikTok ke?
 
-[19:29] Kita yang peruntukkan biasa yang permohonan daripada majlis perbandaran ini terpecah dua. Satu yang majlis perbandaran minta terus lah kepada yang itu projek bawah RM500,000. Kita proses macam biasa, ada proses dia kena mohon. Tapi untuk rakyat, dia boleh mohon terus.
 
-[19:48] When we ask for it, there are also people who ask, I have asked for it for a long time, it has passed, but why don't you do it? When they ask for it, we will investigate it. Because there are many people, there are contractors who ask for it, projects that are not needed for them. So, you understand, right? So, the officer will make sure that the project is correct, the place is correct. When we see that everything has passed, then we will offer it to the regional council or the city council.
 
-[20:17] ask him to do it. If he does it, then we will give him the permission. So there are also places that we have passed but the regional council does not want. Only the way he, I made a rule, if the regional council is lazy, we have passed 3-4 projects for the people, he doesn't want to do it, it's okay, you have a permit, I don't pass. But because of that,
+[02:57] Datuk Syed Azuan
+Tak, kedai tu kedai coffee yang mana dia signature coffee. Banyak. Chiang Mai ni dia terkenal dengan biji kopi kan.
 
-[20:43] Maka rakyat memohon lah. Bila rakyat memohon, kalau macam di Kedah kan, memang betul lah. Kedah ni nak buat macam mana? 100% hampir 100% pembangkang lah kira-kira. Apa nama ni? Adun ada dua sahaja. Tiga kan? Tiga. Parlimen satu kan?
 
-[21:01] Jadi orang mungkin tak sukalah kerana dia tengok Kedah ni 100% Perikatan Nasional tapi Kementerian Ekonomi masih meluluskan peruntukan-peruntukan kat bawah lah. Yang itu, yang ini kesian kat saya lah. Yang dalam kerajaan pemaki aku, PAS pemaki aku. Padahal kita amalkan benda yang biasa kalau projek tu betul. memang betul diperlukan dan akan bagi manfaat kepada rakyat. Sebab itu yang orang, banyaklah yang duduk bising kat saya, pergi komplain kat PM lah itulah dan sebagainya saya. Saya telan buat tak tahu je lah semualah. Itulah, itu yang ni lah sebab mereka nak semua masuk ke ICU. Tak cukup. Okeylah, itu bab-bab ni lah, bab RMK lah tu. Habis katulah RMK tu.
 
-[21:56] Haa, tak apa RMK pun seminggu lebih je lagi kan nak menjahatkan. Haa, saya pun ada juga buat content tu YB. Sebab RMK ni saya pun tak setuju kan. Haa. Dan last minute orang dah buat semua, tiba-tiba...
+[03:05] Rafizi Ramli
+Ya.
 
-[22:08] I don't know where to put the baby. He wants to change everything. I don't know where to put the baby. I don't know because of my rules to not trouble my employees. After I became the Prime Minister, I didn't contact him at all. I feel sorry for him. He was wrong to say that. I don't know where to put the baby. But,
 
-[22:30] Saya memahami rumitnya proses. Maksudnya dia ambil masa setahun setengah nak buat semua ni kan. Jadi kalau tempoh dua minggu nak ubah tu. Saya tak rasa. Dia sama ada begini tu. Okey. Beza dia begini dia say. Okay.
 
-[22:46] Sebelum zaman saya, orang kerajaan yang di politik ini melihat RMK ini sebagai tempat untuk mohon projek. Aku nak jambatan kat sini lah, gitu-gitu-gitu. Bila kami ambil alih daripada 2022, arahan saya ialah rancangan lima tahun ini sebenarnya bukan senarai projek. projek-projek yang bersesuaian untuk menggerakkan dasar tu kan. Jadi saya tak tahulah takut dua minggu ni which list daripada kementerian dan menteri-menteri semua datang. Aku nak yang ini, aku nak yang itu saya tak tahulah. Mungkin YB disebabkan approach YB macam tu, ramai orang yang cuba nak letak projek-projek ni YB tolak ke macam mana? Tak tapi pada peringkat ini RMK tidak melibatkan projek. Kementerian kata kami nak buat
+[03:06] Datuk Syed Azuan
+Jadi bila saya masuk tu sebab nama tu, dia ada cakap tu kehidupan kita ini ibarat graph. Jadi dia menukar perception saya, why not I do something in social media. Jadi saya pun buatlah video satu.
 
-[23:49] the center of the sky. This is part of it. But he can't because he can't want every small project because we pass the development application according to the rolling plan. So I have put the condition, I hope he doesn't change it, small project capital project under a certain value which is planted every year.
 
-[24:18] Sebab dia boleh disiapkan dalam tempoh 1-2 tahun Projek yang besar Yang memerlukan perancangan besar Dia hanya boleh memohon setiap 2 tahun So rolling plan pertama Rolling plan ketiga Begitulah kan Jadi projek-projek tu akan datang kemudian
 
-[24:34] So that's why I think in this two-week period, it's okay, we'll see. I will try to remember all the documents that I go through, the final draft document. So when it's done, I'll see which one has to be thrown away, which one has to be added, and so on.
+[03:20] Moderator
+Kan quite recent lah maksudnya bila start balik tu.
 
-[24:54] I just saw the Minister of Defense, WB, suddenly want to buy an asset. I was also surprised, at that time, I wouldn't have met WB. No, the process is during the application process. The government has a planning cycle in the SA, right? Oh, long. So, for example,
 
-[25:19] The last request for the purchase of assets is every year according to the rolling plan. It has to be submitted to the Ministry of Economy after the second month. Then from the second to the sixth month, the Ministry of Economy will grill every request. Where to cut, why, what price. Then between the seventh to the eighth month,
 
-[25:47] Before this, I checked one by one. So, I grilled them for two months. Then, we closed it in the middle of August. Then, it was postponed to the 10th of July. But when we closed it in August, the ministry started to return. They started to start the next cycle.
+[03:23] Datuk Syed Azuan
+Ya, 20 Julai tak salah saya, Julai 2022.
 
-[26:11] Jadi sebenarnya permohonan peruntukan itu memang tiap-tiap tahun pun. Cuma cabaran kerajaan ialah untuk memastikan perbelanjaan itu betul-betul yang diperlukan. Yang itu yang tugasan utama Kementerian Ekonomi, pegawai-pegawai. Sebab itu kita orang di Kementerian Ekonomi ada engineer, ada arkitek, ada pakar senjata, ada doktor. Dia cek semua lah, you nak buat macam ini. Terima kasih kerana menonton
 
-[26:42] RMK ni kita tetapkan sealing lah. Contohnya kalau 5 tahun, kita nak peruntukkan untuk 5 tahun itu ia lampak RM400 bilion contohnya. Jadi setahun berapa?
 
-[26:56] If it's a year, it's RM90 billion. From that RM90 billion, we already know that we have to pay the debt that people have made. Or the projects that are going on now. So how many years will each ministry be? That's what they will argue about. Can you give me RM4 billion? Give me an extra RM500 million. When he gets an extra RM500 million, he will look for the things he wants to buy. Is that possible?
+[03:27] Rafizi Ramli
+2022. Oh, quite recent.
 
-[27:21] Dan last minute aku mahu lagi...
 
-[27:24] Apa...
 
-[27:25] 200 juta Yang itu juga bagi saya lah Hmm
+[03:29] Datuk Syed Azuan
+Quite recent. Baru 3 tahun saya dalam, dalam berkecimpung.
 
-[27:30] Banyak perkara yang boleh diperbaiki lagi mengenai cara kita menguruskan belanjawan Contohnya kan
 
-[27:40] Yang ini memang semua akan maki saya.
 
-[27:43] Saya sebenarnya kurang setuju bila menteri duduk pergi umum peruntukan ni. Tak kisahlah dalam pilihan raya ke lepas pilihan raya, kita membawa amalan daripada UMNO yang 10 tahun dulu. PPP, saya sebagai menteri dengan ini mengumumkan jambatan ini.
+[03:32] Rafizi Ramli
+Lebih kurang sama apa nama ni time saya buka akaun TikTok, kena paksa. Julai 2022.
 
-[28:01] Yang dia lupa cakap jambatan tu dah memang orang luluhkan 2 tahun lepas Dah memang tu dalam Jadi saya punya pandangan daripada awal Setiap tahun ni rakyat di setiap daerah dia Sepatutnya dia tahu Peruntukkan untuk tahun ini projek-projek baru yang telah diluluhkan Macam ni, macam ni, macam ni Tak payahlah siapa-siapa nak umum Tapi kita walaupun kerajaan reformis Yang itu bab-bab yang selalunya orang kurang suka kat saya Saya daripada awal, saya nak publish tau.
 
-[28:36] Setiap kawasan parlimen ni Sebenarnya Apa projek yang telah diluluskan Dan akan dibuat oleh kerajaan persekutuan Supaya rakyat tahu Eh kau kata nak buat hospital kat sini Dah lulus lah Lulus tahun 2023 Ni mana ni Kan kan Tapi
 
-[28:53] Tak dipersetujui lah sebab banyak lah ni bahaya nanti ni gini-gini kan. Dan saya ingat kalau kita buat macam itu memang menteri pergi umum bajet ni tak ada dah lah. Sebab ada siapa-siapa nak pergi tak payah umum lah kita dah tahu dah ada kat sini kan. Dia sebenarnya bagus juga untuk wakil rakyat sebab saya kesian kat wakil rakyat. Wakil rakyat sebenarnya tak tahu apa yang berlaku di kawasan dia. Jadi kadang-kadang dia orang nak tahu dia tulis surat kat saya. suruh bagi senarai projek kat kawasan dia tau. Yelah saya kalau tanya pegawai, tanya kerajaan, you know dalaman ada macam-macam sebablah dulu dia takut perkara itu nanti ada orang campur tangan untuk tender, kontrak, PSA tahulah orang kita kalau tahu oh lepas ni ada projek jalan lima ratus juta kat sini orang beratur panjang lah. But you have to balance lah because kalau kita nak transparent benda-benda ni rakyat sepatutnya pasal dia apa yang akan dibina semua kan. Baru kita tahu kita pilih pemimpin kita, dia nak buat apa. Then baru kita tahu, tak guna punya wakil rakyat, engkau dah empat penggal kat situ. Aku tengok wakil rakyat kesebelah tu, projek dia, dia berjaya dapatkan lagi banyak. Engkau punya, itu je kan. Then let them really work hard for it lah kan. Ya, kita tahu KPI masing-masing. Sekarang ni sebenarnya sebab tu, banyak soalan-soalan dalam parlimen. Soalan tanya, apakah kemajuan projek jalan Sekian. Sebab itu akhir ayat akhirnya tak bincang sangat pasal dasar dekat parlimen. Soalan-soalan dia tu tanya pasal projek. Nak marah dia pun tak boleh marah dia satu peratus sebab dia sebenarnya tak tahu tau.
+[03:39] Datuk Syed Azuan
+Ui, sama.
 
-[30:37] Okay, I understand. I agree with that. And the people also want to know what YB is doing. What projects are coming to our area? Okay, so we'll change the ranking. But YB will rise aggressively in the parliament later? What do you want to rise? No, I mean, I'll see what he is first. Okay, okay. Okay, like this.
 
-[31:05] We are in a coalition government. I also sometimes, Wabi, sometimes we want to condemn our counterparts, UMNO, AMANA. Sometimes we feel, as long as I insist, what do you say? The coalition is lost. This is the problem, Wabi. So I always in
 
-[31:21] live in my content, I said that the coalition government is not up to the end, YB. At any time, it can break. What I see in Malaysia is a little longer, other countries have destroyed it. So I want to ask YB, the situation now, another two or three years, YB remembers that after the 16th PRU,
+[03:40] Rafizi Ramli
+Lebih kurang sama.
 
-[31:46] Adakah entiti parti itu
 
-[31:49] Sama atau berubah. Maksudnya apa? Entiti dalam kerajaan perpaduan? Ya, parti itu. Adakah dia akan berubah? Kita tak tahu.
 
-[31:58] daripada situasi sekarang. Saya ingat sinarionya itu masih lagi belum jelas kan sebab asal-usul kerajaan perpaduan ini ialah atas keperluan
+[03:42] Datuk Syed Azuan
+Terterbaiklah saya noh. Jadi perjalanan dalam TikTok itu saya tak tahu apa saya punya niche sebenarnya, saya pun tak tahu. Saya main hentam dulu. Saya hentam mula-mula saya orang kata apa, buat content sayalah. Cerita pasal personal. Saya tengok orang tak minat pun kan. Cerita apa pasal personal kita kan? Jadi saya mula sentuh mengenai politik. OK, sikit-sikitlah kan. Tapi saya punya content tu, dia wow. Satu content di Bangkok tu saya ingat. Content dia "The Roti Lady" ya. Seorang pembuat roti yang pakailah, pakai nampak cantiklah kan. Ah di situ yang turning point saya. 1 million something view. Wow, kita punya seronok. Ha lepas tu saya sentuh politik, lepas tu saya sentuh anak muda.
 
-[32:11] Semasa ketika itu Boleh kerana parlimen tergantung Tidak ada mana-mana gabungan Yang boleh membentuk kerajaan Maka dititahkan Membentuk kerajaan perpaduan Pandangan di dalam setiap gabungan itu pun Saya tengok adalah berbeza-beza
 
-[32:31] Contohnya, di dalam PH sendiri, ada pandangan yang merasakan bahawa perlu masuk PHBN sebagai kerajaan perpaduan. Pandangan GPS sangat jelas bahawa kerajaan perpaduan ini adalah sehingga ke akhir penggal.
 
-[32:52] nokta
+[04:31] Moderator
+Quite viral, first video pun 1 million juga.
 
-[32:53] It means that he is open to what happens after that. Then in PH itself, there is a good view from PKR, but now it is more challenging than in Amanah, which wants a PH-PH match against BN, against BN. The same situation is actually in BN.
 
-[33:19] Saya tengok kepimpinan atas BN terutamanya yang di dalam kabinet lah yang mereka memang cenderung untuk masuk sebagai PHBN dan perkara itu memang kita tak terkejut lah kerana kalau tengok kepada siri pilihan raya kecil yang lepas.
 
-[33:39] Formula PHBN itu banyak bagi keuntungan kepada UMNO yang bertanding sebab mereka akan dapat sokongan daripada pengundi PH. Tapi perkara yang sama tak tentu dikongsi oleh pimpinan akar umbi, ketua-ketua bahagian dan sebagainya. Jadi buat masa sekarang yang saya perhatikan, baik Datuk Seri Anwar dengan Datuk Seri Zahid, PHBN
+[04:34] Rafizi Ramli
+Tak ingatlah sebenarnya. Saya, saya kena paksa sebenarnya TikTok sebab lepas 2018 tu saya memang tak campur politik pun sebab hal saya. Jadi mana ada content sosial media sebenarnya. Sedar-sedar 2022 tu semua orang cerita pasal TikTok. So saya pun kena, saya lambatlah kat TikTok. Tu sekarang terkejarr-kejarr Fadhlina ni.
 
-[34:10] enter as a coalition government, remain as it is now. Either they can convince or harmonize the views of various parties, which is two and a half years is a long time for us to see. So for me, it's still open, actually. Still open, maybe. I don't know what's going to happen. That depends on...
 
-[34:38] Walaupun dari segi pimpinan parti masing-masing itu nampak cenderung ke arah PHBN, tetapi mereka perlu menguruskan pandangan yang berbeza di dalam parti dan gabungan masing-masing.
 
-[34:51] Contohnya dalam BN, MIC dengan MCA memang tak setuju langsung. Jadi perkara-perkara ini yang setakat ini saya tak nampak lagi ada orang kata jalan yang lancar apa yang ada kerajaan perpaduan ini. Yang inilah akan terus masuk kerana semakin dekat dengan pilihan raya, semakin bising dan semakin lantang pandangan yang berbeza-beza itulah.
+[04:59] Datuk Syed Azuan
+Tapi TikTok YB pun dah banyak, 200,000 lebih kan. Tapi bagi sayalah, TikTok ni anak saya pun dah tanya YB kan, "Walid, kenapa nak main TikTok? You kehidupan you relaks, orang tak kenal, orang tak kecam you." I said I want to do something new, kan. Yang tak boleh dibeli dengan duit ringgit lah.
 
-[35:21] I sometimes want to be firm but sometimes I don't dare. They say I want to break the unity. Oh, it's a mess. But I'm like this, WB. I'm in... I always call myself a social media influence, a modern political media. So for me, if I feel it's not true, I'll just be firm, WB. You know? Back to this combination, WB. I see that this combination is actually...
 
-[35:44] Ada kebaikan untuk parti-parti ini kerana
 
-[35:49] Kalau menang pun dalam pertandingan mereka akan dapat jawatan. Bagi saya adakah orang yang kalah ini tiba-tiba diberi jawatan kerana kerajaan perpaduan.
+[05:17] Rafizi Ramli
+Saya first come across DSA punya content yang pasal budak-budak tak mahu masuk. And then I follow. Yang apa nama ni, yang cerita budak-budak tak nak pergi universiti, tak nak belajar.
 
-[36:03] Apa komen, Uri? Ini, ini, ini.
 
-[36:06] Ini soalan direct ke soalan berlapik? Ini direct lah, tapi kalau kita nak jawab pun tak apa. Dia begini, dia...
 
-[36:15] Saya faham contohnya, contohnya bila...
+[05:30] Datuk Syed Azuan
+Ya, budak yang kadang ni dia bagi motivasi songsang kan. Kononnya duit ini adalah segalanya dalam kehidupan. Kan, kita tak ada ilmu pun kita boleh jadi orang kaya. Kita boleh senang. Bagi saya, saya rasa tak bolehlah. Kan, kita nak jadi orang yang kaya ni kena ada ilmu. Itu.
 
-[36:21] PKR membentuk kerajaan 2022, akhir 2022 tu kan.
 
-[36:27] Contohnya, kita perlukan pimpinan yang dikira berpengalaman.
 
-[36:34] Dan senior Jadi atas dasar itu Datuk Seri Saifuddin Dan dia juga pada ketika itu Adalah setiausaha agung Dan memang betul lah Dia adalah pimpinan kanan yang lama Dan dia pernah juga jadi menteri kan Jadi untuk membentuk tu Memang saya faham lah Akan ada keperluan seperti itu
+[05:49] Rafizi Ramli
+Saya like banyak kali ingat.
 
-[36:54] Cuma kita nak kena ambil kira tau Pandangan rakyat ni
 
-[37:01] Yang ini sebenarnya kejayaan reformasi dan PKR juga lah. Kita juga dulu tepuk meja. Kita nak pastikan ada mandat rakyat menang sebab kita tak suka main. Sebab bila orang yang kalah itu dilantik, dia membuka ruang kepada satu budaya politik yang membodek.
 
-[37:22] That's why people will kiss the Prime Minister's hand until the end. Because it's okay if I lose, I don't need to take care of the people. Because if I lose, the PM will give me the answer. So, the reformation itself previously criticized the matter.
+[05:52] Moderator
+OK Datuk, malam ni untuk Datuk lah. Kita open the floor.
 
-[37:42] Because we want to make sure, people say that the ideal that we ask for is almost perfect. He must be good at governing, he cannot be a traitor, he must be professional, he must also win big, he must have a role in the party and so on. But that's actually reformation, right? So,
 
-[38:04] Sementara saya ingat Masa membentuk kerajaan itu Orang boleh
 
-[38:11] Telan lah, orang boleh kira tak apalah kan. Tapi di masa-masa akan datang, kita kena cukup berhati-hati kalau PKR lah terutamanya. Termasuk juga parti-parti PH yang lain lah, apa nama ni, DAP ke Amanah. Kalau nak pastikan orang sokong kita...
+[05:59] Rafizi Ramli
+Open table ni.
 
-[38:29] Kita tak boleh cakap benda lain tapi buat tu benda lain tau. Yang itu yang sekarang ini ditimbulkan oleh rakyat lah. You cakap lain tapi bila you dikajak, eh dulu you juga yang hentam. Dan rakyat faham kenapa melantik yang kalah ini adalah satu budaya yang tidak dikendaki. Kerana dia melahirkan pembodek-pembodek. Jadi saya ingat dalam PRU yang akan datang, Sebenarnya Dato' Sri Anwar dah plan dah. Orang ni ramanan nak jadi ni semua ni kan. You better make sure dia orang ni bertanding di kursi-kursi yang boleh menang semua tau. Make sure dia menang. Jangan dia kalah you pergi lantik. Fuzia Saleh boleh dipertimbangkan untuk kursi pandan contohnya kan kalau nak bagi dia jadi. Jangan dia kalah lantik senator lepas tu lantik jadi menteri. Because memang orang akhirnya rakyat tak boleh terima tau.
 
-[39:28] Direct, right? Direct. I agree. I'm like that. Sometimes in Kedah, I say, eh, this is the minister, where is he? He's lost. He's upset. He's playing with narratives like that. One more thing, I'm sorry, baby. Our PMX, he said, this is a warning because the person is a leader. So he's a warning, being the head of the leadership. But is it relevant for people who have...
 
-[39:53] Bagi saya lah Patut dah boleh berehat lah Tapi dia lantik Bagi jawatan-jawatan yang kritikal Maybe ya
+[06:01] Moderator
+Open table, tapi open seluas-luasnya untuk Datuk. Datuk tanya soalan kepada saudara Rafizi, saudara Rafizi jawab dan kalau Datuk ada jawapan balasa, sekiranya tak ada, Datuk tanya lagi dan bakar lagi. Boleh Datuk?
 
-[40:00] I don't know, it's just a service. Because it's just a service. I think, if I take an example, the head of the JCOM, it's better to take the DSA. At least. I have to be banned from the account. No, no. That's very, very, what is it called, one of the things that some people in PKR are not interested in me. Because they think I'm
 
-[40:27] It's very brutal. I mean, we're all good friends, I know you for a long time. But if you can't do that job, you can't do that job. Because it's not a question of I like you, you're a good person, I thought you were old, you got burned. When we take public positions that are paid by the people's money, one has responsibility to the people.
 
-[40:52] Dan satu lagi, ada tanggungjawab kepada parti kerana kita kena menjalankan tugas itu dengan cukup baik supaya nama parti bagus.
+[06:14] Datuk Syed Azuan
+Boleh, awat tak boleh pula.
 
-[41:02] Jadi yang ini yang bila kita kata orang ni berjasa ke apa semua, dia...
 
-[41:08] Dia jadi subjektif lah Sebab
 
-[41:11] For me, if it's because he's our friend or our friend's son, it's okay. But look at the positions, don't look at the positions that are too critical. Because the positions that are too critical, have interfacing with the people, they need someone who is really skilled. I'll give you an example. In the party, there are people who are angry at me because when I became a minister,
+[06:17] Rafizi Ramli
+Tersiksa kena jawab-jawab ni.
 
-[41:41] Pegawai saya Banyak bukan orang parti Dah
 
-[41:46] Setiausaha akhbar saya dulu Aku malas nak kutuk lah kan Tapi Tapi setiausaha akhbar saya Contohnya dulu Dia dulu pegawai media Said Saddiq
 
-[41:58] So, that's my view. When I want to take my newspaper, for example, I look at the criteria, what it has to do, like this, like this. So, I ask everyone, right? I consider the people in the party, the people I look at, it's hard, right? So, I open, I ask outsiders. So, when I ask outsiders, from media friends, all of them,
+[06:19] Datuk Syed Azuan
+Soalan saya, sebenarnya hari, hari Sabtu ni saya nak ke Kuala Terengganu YB. Ada satu Haul Tokku Paloh kalau YB tahu.
 
-[42:23] Proses itu bukan sebab saya tak suka orang parti ke apa gini-gini. Tapi kalau jawatan itu diberikan hanya kerana saya nak mengenang jasa dia. Satu, semua orang ada jasa tau. Dia kata, banyak jasa orang. Yang keduanya, kalau berjasa tapi tidur. Ataupun buat live ada 10 orang. Tengok kan. Jadi tak boleh lah. Saya duk dapat mesej, boleh tak pergi beritahu kat ketua pengarah JCOM, cukup lah buat line, 10 orang je tengok kan. Jadi yang itu yang bagi saya, akhirnya daripada dulu saya selalu sebut secara terbuka, akhirnya beban tu kena dekat Anwar Ibrahim juga. Kalau kita lantik orang yang kita kata berjasa gini-gini, tapi dia tak boleh buat kerja, akhirnya yang kena hentamnya Anwar Ibrahim juga. yang selari pandangan dia dengan perjuangan
 
-[43:26] But if he can't do his job, he should go for something else. Don't give him something that's critical. That's true. That's very direct. I didn't mention it. But the DSA knows that 10 people are live. They're laughing. I didn't mention it. I've seen it too. So, out of 10 people, one of them is the DSA.
 
-[43:54] I don't know, baby. Okay, I'm just interested in one. I like Johari. Johari Ghani. I like him. In many of the content that I made about Amno, I always up him. I said, this is the future president of Amno. And also the future prime minister of Amno. Because recently he said, baby, to be a candidate, a people's candidate,
+[06:27] Rafizi Ramli
+Haul Tokku Sayyid Paloh.
 
-[44:18] Not like, you're my friend, you're old, you shouldn't be. He said, to be a candidate for the people, the people have to like that friend. Even though he's not a member of the party. I think this is different. So we want to see this. What do you think? Is what he said true? So the candidate for the people, the people have to like him.
 
-[44:40] Dia akhirnya beginilah pandangan saya secara keseluruhan. Kita kena imbangkan. Katakanlah ambil contoh PKR lah kalau bertanding 100 kursi kan. Masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat.
 
-[45:00] Di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding. Di peringkat nasional orang akan melihat image keseluruhan calon-calon yang kita tampilkan. Di peringkat bawah itu juga kita juga nak kena imbangkan dengan...
+[06:28] Datuk Syed Azuan
+Ha Tokku Syed Paloh, ada haul Tokku dia, ayah dia, Tokku Tuan Besar. Jadi anak perempuan saya ni, dia you know, dia dah masuk geng geng Syeikh Sharifah ni. Dia duk desak sayalah, "Walid kena pi." Saya nak pi, saya kata tak apalah saya nak pi, nak dapat ambil berkat sikitlah YB ya. Kadang kita ni kadang dah terpesong sikit. Tak adalah kan. Jadi malam ni saya pun terheran juga kan, sebab saya tengok YB punya apa nama podcast. Dia ada tajuk. Kan, ha dia ada tajuk. Pertama tu memang grand lah kan, orang duk tunggu. YB dah kembali, wah. Saya tengok hari tu ulasan media YB. Saya pegang ayat satu tahu. "Welcome back, YB." Sebelum kita pi jauh tu, saya nak tanya kenapa wartawan dia kata "Welcome back, YB"?
 
-[45:21] the ability to do the work of the Bakti below and also how to receive the party or our general below. So actually, if we put 100 candidates, there is a lot of room for us to make sure there is a balance. There are areas that actually, even though they may be
 
-[45:47] Bukan berjawatan tinggi, hebat, nasional ke semua Tapi orang kenal dia dan memang dia ni orang tahu orang baik dekat situ semua Yang itu saya rasa maka calon di pengkat cabang itu perlu ada
 
-[46:04] But in the area where the candidate's profile is different, where he actually wants to see people who are educated, have names and are also liked, it's even more if the candidate from the branch there is a little bit difficult. So we, that's usually the rule we use. But it's true that the main problem of the parties, it has happened in UMNO,
+[07:19] Rafizi Ramli
+Masa mana? Masa sidang media hari tu?
 
-[46:34] Sekarang berlaku di dalam Bersatu saya ingat dan juga dalam PKR ialah
 
-[46:39] The idea that I'm a member of this party, whether I pay or not, as long as I'm the head of the branch, because when I become the head of the branch, I'm sure I'll be a member of the parliament. That's wrong. So, he still needs these things. And that's what the central leadership has to play an important role.
 
-[47:04] Kalau langsung orang tak kenal, langsung ataupun orang memang kenal, dia penyangak. Susahlah walaupun dia naik presiden ke, dia ketua cabang kat situ, sepatutnya parti tak bolehlah meletakkan calon seperti itulah.
+[07:21] Datuk Syed Azuan
+Masa sidang media di Subang Jaya tu. Ayat tu yang saya pegang. "Welcome back YB."
 
-[47:25] YB, sorry. So, I don't know if it's radical or not. So, why don't we just scrap off the systems or branches that exist now, like political parties abroad. What were you saying? Yes, there has to be a fair balance.
 
-[47:43] Kita nak kata yang bahagian cabang pas panggil nama kawasan kan Kita nak kata semua ni salah pun untuk berlaku adil Zaman 20-40 tahun yang lepas tak ada social media Jadi bila tak ada social media jentera dan organisasi di bawah itu cukup penting Kerana dia nak kena ketuk pintu nak kuat semua kan Jauh lagi popular daripada wakil rakyat yang berpuluh-puluh tu sebab dia tiap-tiap malam dengan social media. Adanya social media maksudnya kempen dan capaian kepada rakyat itu lebih pada skrin daripada fizikal yang kita jumpa. Jadi oleh sebab itu kekuatan parti itu tidak lagi bergantung 100% kepada kekuatan cabang. PKR dan DAP.
 
-[48:45] DAP ni ahli berapa je? 100 ribu je daripada dulu. 100 ribu. Masuk hampir 100%. Kerana image, capaian dia. PKR pun macam itu. Cabang kan macam mana pun. Banyak yang sendu lah. Kedah tu banyak yang sendu lah kan. Tapi bila kita masuk pilihan raya, kenapa orang tanya kan? Kenapa daripada kalah PRN Melaka, Johor, eh tiba-tiba dalam tempoh 7-8 bulan, bolehlah bernyawa sampai boleh bentuk kajian. mengundi sekarang ini, dia tidak lagi tengok orang di kawasan dia, dia tengok isu nasional, dia tengok capaian semua. Jadi, untuk masa depan, maksudnya ada ruang kepada parti-parti untuk cari model yang agak berlainan daripada model tradisi cabang kawasan yang ada ni. Sebab dia tidak lagi bergantung kepada semata-mata kekuatan di kawasan kampung itu. Dan kalau ingat pengalaman saya kalau kat Tengah Anu lah kan, Kadang-kadang parti politik ni sementara kekuatan dekat akar umbi tu adalah
+[07:27] Rafizi Ramli
+Tak, saya ingat dululah sebelum saya jadi menterilah kan. Apa ni saya ada hubungan rapat dengan wartawan, media semua ni sebab saya yang paling banyak buat apa nama ni sidang media. Saya punya sidang media ni selalunya tiap-tiap minggu ada 2-3. Jadi benda tu benda biasa untuk merekalah dan media ni pada pemahaman sayalah, mereka memerlukan cerita. Jadi kalau ahli politik siapa yang selalu bawa cerita tu dia akan rapat dan popular dengan medialah. Tapi bila saya jadi kerajaan, kita sebenarnya tak boleh buat sidang media banyak sangat kerana yang itu bukan luar tugasan kita. Kalau wartawan tanya yang ini tak boleh komen, yang itu tak boleh sentuh. Jadi saya ingat dalam tempoh 2 tahun setengah tu memang kehilangan saya dengan media tu boleh dirasakanlah. Jadi hari itu tu ramai-ramai tu banyak terutamanya yang yang wartawan yang senior lah kan. Mereka pun mula bekerja tu masa muda-muda lebih kurang sama masa saya mula jadi ahli politik. Ah so is almost like reunion selepas 2 tahun setengah.
 
-[49:52] Advantage yang bagus, silap hari dia jadi bala juga. Contohnya orang benci kat JKKK. Dulu-dulu kan UMNO kan ada jawatan keselamatan kampung semua kan. Kalau kat tengah-tengah JKKK ni orang panggil jengkucar kampung. Sebab orang menyampah, orang tahu. Dia ni dulu naik sarapi je. Sarapi sebab dia jadi ketua cawangan UMNO, jadi pengurusi JKKK. Oh hebat dia rasa dia punya kurang hajar orang kita kan. melalui perubahan itu yang mana nak tak naklah orang kata sebab tu sekarang ni orang nak jadi influencer politik ni. Haa kan kalau tengok. Sebab sebenarnya memang betul oleh kerana interaksi rakyat itu lebih kepada skrin maka kekuatan dan pengaruh sebenar ialah kepada konten digital. Dia dah beralih daripada kekuatan di bawah tu lah.
 
-[50:46] Saya setuju Ini memang saya nak tanya sangat Baru-baru ni saya di Thailand, di Patalong Saya ada satu tengah seorang Seusah politik Saya pun kenal siapa dia
 
-[50:59] He said, in this PKR, we don't want a broadcast leader. I heard that I was busy. I remember my content was at 20,000 on YouTube. I was angry. Because he said, we don't want a broadcast leader. We want a light leader. For me, if you don't broadcast,
+[08:47] Datuk Syed Azuan
+Saya pun sebenarnya YB, bila YB jadi menteri, saya ada buat content juga. Saya balon YB kan. "Apasal ni YB Rafizi ni? Dah jadi menteri, hai, hilang taring." Ha, memang saya ada 2-3 content saya mai sebelum ni saya duk tengok balik, "Lah aku duk kata dekat, malam ni aku nak jumpa." Kan. Ha, jadi saya kata kenapa YB ni? Kan, masa jadi, jadi menteri dah jadi macam orang Kedah kata tak ada taring. Tak ada taring. Ha, hentamlah orang kata kan. Ha, tapi Memang macam tu ke YB?
 
-[51:19] Macam mana nak main sinaran Jadi saya rasa macam tak betul PKR ni saya nampak yang
 
-[51:28] Persiaran Saya ingat YB Lain ni Lain tak ada Tadi saya baca Dalam Malaysia Kini
 
-[51:34] MPP yang baru lah Pertama Sang Geta Sang Geta Dia kata Sekarang ni dia PKR nak kena buat Satu Team media Campaign Untuk menaikkan Reputasi PMX balik ni Apa komen Maksudnya dia maulah Siaran Saya nak komen Yang Siaran ni Yalah Syamsul Iskandar ni Saya tak sebut YB sebut Pengalaman saya Dengan Syamsul Iskandar Daripada hari pertama Dalam parti ni sebenarnya dia panggil apa pimpinan apa dia kata apa? Pemimpin siaran. Tak mahu. Dia tak mahu pemimpin siaran. Dia pemimpin sembunyian. Sebab dia begini tau. Dia banyak watak macam ni kan. Dia suruh lah orang macam DSA ke saya orang lain ni biarlah kita yang berkampen dengan rakyat gini semua bersiaran dengan rakyat semua. Dia duduk kat belakang ni bila jadi menang empuk dia pergi ambil.
+[09:20] Rafizi Ramli
 
-[52:33] So, that's why, in the end, when the election decision is not in line with the will of the people outside, it becomes a problem in the party now. Because people ask, who are you? I've never seen you, I've never even known you. So, that's why, as I said, the question earlier,
+[09:20] Rafizi Ramli
+Dia sebab begini kan. OK, kita ada dua bidang tugasanlah kalau menteri kan. Satu, perkara yang bersabit dengan tugas kita sebagai menteri. Satu lagi sebagai ahli politik kan. Jadi bila kerajaan ditubuhkan, kalau menteri, sebenarnya Kementerian Ekonomi tu paling rumit tau nak navigate. Kerana dia merentasi semua bidang. Pengangkutan, dasarnya, kemudian pendidikan, ekonomi, semua kan. Tapi setiap kementerian itu memang ada tugasan yang yang dilihat bertindih. Jadi keputusan Jemaah Menteri ialah menteri lain tak boleh komen hal lain. Jadi maksudnya Kementerian Ekonomi memang tak boleh komen apa-apalah. Sebab kalau soal dasar tu semua berlapik dengan benda-benda lain. Kecualilah benda-benda yang memang orang lain tak nak komen. Contohnya harga barang, inflasi. Yang itu ditinggalkan kat akulah. Tapi bab-bab lain, saya pernah ditegur beberapa kali lah kan oleh PM lah kan. "Ha yang ini tak boleh sentuh, yang ini tak boleh sentuh." Jadi akhirnya memang susah kita nak bersuaralah kan. Kecuali perkara-perkara yang memang betul-betul hanya Kementerian Ekonomi buatlah. Kemudian sebagai ahli politik pula, saya pun nak kena imbangkan. Kalau seorang menteri yang fokus kita tu ialah mentadbir negara, kita nak kena bina naratif ekonomi yang baik, kerja banyak ni kan. Kalau terlalu banyak komen pasal politik, pertama dia akan melunturkan fokus kitalah. Tapi yang keduanya, bila kita komen pasal politik banyak sangat, dia akan mula menyentuh rakan-rakan. Jadi UMNO tak puas hati nanti, DAP tak puas hati. Jadi akhirnya memang daripada awal keputusan saya, tak apalah kita fokus kepada tugasan Kementerian Ekonomi. Jadi sebab itu content-content tu semua content yang yang orang kata bosanlah, sebab ekonomi ni pun bosan sebenarnya kan. Jadi telur tu adalrah. Tapi kena simpan.
 
-[52:58] The reality is that the current political campaign is a digital campaign. If not, I don't have a podcast every week. The current campaign is a digital campaign. If there are still people who think that the news or TV3 has a big influence,
 
-[53:24] But actually, the people started to value the quality of the leaders, the party, and all of that in a continuous digital environment. People may not follow the development in other countries. Trump, for example. Trump. In all the rumors, he won. One of the things that he did was very different.
 
-[53:49] Podcasts are one of the most important things for him. All the podcasts that people say are right-wing, that form anti-immigration, he went. At that time, the Democrats said, why did you go? Mamat is Mamat Perkauman. But yes, once he said, there are 100 million people listening. So quietly, right? So actually,
+[11:36] Datuk Syed Azuan
+Yang tu yang saya rasa, saya memang kadang-kadang apabila saya juga menyokong juga Kementerian Ekonomi ni dalam segi YB buat PADU kan. Memang saya buat content pasal PADU dulu. Saya ingat 800,000 view untuk saya cerita PADU tu. Saya pun tak tahu kenapa aku pi cerita PADU, tapi saya rasa something yang yang menarik tentang PADU ni apabila kita ni nak nak beri bantuan, kita kena melihat bukan dari segi pendapatan yang kita dapat tu. Kan, kita kena tolak hak nu, tolak hak ni, baru kita boleh bagi dia ni layak dapat bantuan. Tapi itulah YB noh, YB dah tak ada ni, ingat-ingat PADU tu depa nak guna lagi kah ataupun?
 
-[54:17] Kalaulah Sam ke siapa-siapa duk kata kita tak nak bersiaran semua, tak apalah tak payah bersiaran kau bertanding confirm kalah sekali lagi kat mana-mana kan. Nak tak nak, image kita ialah dibentuk dari siaran yang berterusan. Siaran itu bukannya sebab...
 
-[54:38] Kita boleh pergi kosong-kosong membebel siaran itu kerana orang dan rakyat akan menilai hati budi kita, pengetahuan kita, kemahiran kita dan sebagainya. Berbeza dengan zaman sebelum ada digital ini di SA kan. Rakyat sebenarnya tak boleh kenal. Kalau parti A dia letak calon itu kat situ, orang tak kenal pun nak tak nak terpaksalah undi kan. Sekarang ni kehendak rakyat lebih daripada itu. Sebab itu dia tak boleh berlakon. pemimpin lah kan, ada banyak tak nak sebut nama lah kan. Tapi ada pemimpin, dia cubalah buat gimmick-gimmick, kadang-kadang kalau masa banjir, pergi basuh-basuh semua ni kan. Zaman digital sekarang ni tak boleh tau. Sebab orang akan mengikuti setiap yang kita buat tiap-tiap hari. Dia tahu kalau kau berlakon sahaja, ni berlakon. Sebab aku dah ikut kau ni daripada awal. Jadi sebab itu, satu perkara yang cukup penting daripada pemimpin siaran ini, ialah dia membolehkan melihat autenticity kita bahawa hang cakap depan macam ni belakang macam ni buat pun macam ni sebab orang tak percaya kat ahli politik sekarang ni dia cakap lain dia buat lain kan jadi kalau ada pimpinan yang bercita-cita tinggi nak jadi pemimpin negara tapi tak nak bersiaran cara politik pemimpin sembunyian ni dia tak ada masa yang panjang dah dalam negara kita ni itu pandangan saya lah itu term baru tu politik sembunyian itu yang baru tak nak sebut tapi bila kecoh lebih mengenai Duta OS
 
-[56:22] Nick Adam. I think it's positive. Because Trump chose him because he's an influential political influencer. Yeah, actually. Yeah, he's influential. Why did Trump send Nick Adam? Sometimes, they want to fight, but for me, that's Trump's right. He wants to send someone, if he wants to send JLo, he can. But, Nick Adam, how is he? Why did Trump...
+[12:20] Rafizi Ramli
+Dia dia ada dari segi data yang ada dalam PADU tu perkara itu kira berguna kepada semua kementerianlah. Jadi saya ingat yang itu akan terus digunakan. Lagipun memang secara umumnya tujuan kita ada PADU supaya kita ada satu pangkalan data back-end. Jadi kalau setiap kementerian ataupun agensi dia nak buat aplikasi baru, dia tak payah buat yang back-end tu, dia menjimatkan belanja lebih 50% lah sebab back-end tu yang mahal, data bank, nak ambil data semua ni kan. jadi saya ingat dari segi itu PADU tu akan terus digunakan dan ada macam-macamlah. Cuma yang rakyat orang kata expect daripada PADU ni ialah dalam bentuk program bantuan tunai yang mengambil kira perkara-perkara yang DSA sebut tadi lah. Yang ini yang saya ingat daripada beberapa bulan lepas pun nampaknya keputusan kerajaan tu tidak ke arah itulah. Karena ada pandangan yang berbeza-beza. Pandangan yang paling dominan ialah pandangan Kementerian Kewangan bahawa dia terlalu rumit untuk dibuat. Kalau nak ambil kira pasal pendapatan isi rumah semua ni dia kata rakyat kita mungkin tak faham, susah. Itu itu perbezaan pandangan antara saya dengan Kementerian Kewanganlah. Jadi dengan tak adanya saya, maksudnya saya ingat pandangan Kementerian Kewangan tu akan akan diambil kira dan dipakailah. Jadi dari segi pemberian tunai, sebab isu dia saya ingat Kementerian Kewangan dia melihat STR itu dan juga yang yang asal daripada BR1M semua tu STR tu, dikira itu produk dia tau. Jadi kalau ada PADU, nanti yang itu kacau dia punya. Jadi dalam kerajaan macam tu tau. Dia kira, "Ah ini aku punya ni, ada benda baru, aku tak boleh sokonglah." Ha dia ada hal-hal macam tu lah kan, ada kacau-kacau.
 
-[56:49] Tiba-tiba bukan diplomat Tiba-tiba dihantarnya seorang
 
-[56:53] Pempengaruh daripada Australia ini Menjadi duta ni Kira ni tak pernah terjadi Haa
 
-[57:00] Saya tak ikuti sangatlah apa nama ni latar belakang ni Adam baca-baca gitu lah. Cuma satu perkara yang mungkinlah kita kena faham ya.
+[14:21] Datuk Syed Azuan
+Saya faham, OK. Saya sebenarnya saya tak berminat langsung lah, kita cerita sikitlah mengenai RMK-13 ni sebab ini satu, saya melihat sebelum ni RMK-13, siapa pun tak peduli YB. RMK yang sebelum-sebelum ni, Rancangan Malaysia Lima Tahun, siapa pun tak peduli, tak heran ya. Tiba-tiba dah ada dah masuk parlimen. Tetapi bila mai time YB, YB pi libat urus. Dan saya memang kata dekat sahabat-sahabat sayalah, anak-anak muda ni, saya kata, "Jom, aku nak pi lah, aku nak tengok YB Rafizi." Sebab bila saya pi di situ, saya melihat YB ni dah wow, ini dah jadi satu kelainan dari segi jawab soalan kan. Tapi sini saya nak bagi tahu dekat YB lah. UMNO, ha cakerani di Kedahlah noh, masa YB pi tu, saya tengok mana pi depa orang-orang UMNO ni. Bila saya balik saya boh tu content. Mana pi orang UMNO? Kenapa tak datang di RMK-13 tu. Sebenarnya YB, ni saya nak cakap kat YB, ni panas sikitlah kan. Masa saya pergi konvensyenlah, Konvensyen Perpaduan, Pengerusi UMNO ni dia kata apa? Mereka tak suka YB bagi bantuan direct kepada pegawai-pegawai daerah. Mereka nak bantuan apa pun datang kepada ICU. Saya pelik juga, awat ni kan? Ha ini, apa YB nak komen ni? Kenapa mereka tak suka pergi direct ke ke padahal ada seorang pegawai daerah, ada seorang tu daripada ni, Datuk Hapar, saya sebutlah sahabat saya. Sebab malam ni dia kata, "Wei, dia kawan aku sebut nama aku ni." Ha dia memuji YB. Dia kata, "Terima kasih YB kerana bagi bantuan kepada kami." Ha tu YB komen sikit.
 
-[57:12] DUS, sistem dia memang lantikan sebagai duta ini adalah kebanyakannya lantikan politik.
 
-[57:20] Dia bukan macam kita yang sebahagian besar duta adalah pegawai diplomatik. Dia memang amalan dia. Dulu bapak JFK, Joseph Kennedy dilantik jadi duta ke UK. Itu benda biasa. Jadi macam DSA kata, itu memang hak Presiden dan kerajaan US. Presiden US menggunakan jawatan-jawatan duta ini sebagai reward kepada penyokong mereka.
 
-[57:58] Bukan benda asing Jadi isu dia adalah Karakter Nick Adams Jadi saya ingat yang itu Kalau Pendirian kerajaan menolak Ataupun ada yang nak membantah Itu hak masing-masing Cuma akhirnya
+[16:03] Rafizi Ramli
+Dia memang yang ini saya ingat DSA rujuk kepada IKR lah, Inisiatif Kemudahan Rakyat. OK ya. Dia dalam kerajaan, orang politik, dia memang berbeza-beza pandanganlah. Ada pandangan lamalah daripada PKR sendiri ke, kawan-kawan dalam kerajaan, ialah IKR ini akan melunturkan pengaruh orang politik. Kerana rakyat boleh minta terus. Kemudian, tambah lagi bila kita bagi terus kepada majlis daerah, semualah kan. Ini akan menyebabkan dia tak ada kawalan politik sedikitlah. Kalau dia melalui sistem dulu, pergi ke State Development Office, pergi ke ICU semua, jadi boleh dikawallah kan. Yang itu berjalan macam biasa. Maksudnya setiap tahun ICU akan mengangkat permohonan peruntukan kepada Kementerian Ekonomi untuk projek-projek yang diuruskan ICU di negeri masing-masing. Yang itu saya tak campurlah, itu di bawah Jabatan Perdana Menteri, ikut sukalah. Tapi sebenarnya lah, di bawah Kementerian Ekonomi daripada zaman Tok Kadok merdeka lagi, memang tiap-tiap tahun Majlis Daerah di seluruh Malaysia ni memohon bantuan terus kepada Kerajaan Persekutuan untuk projek-projek kecil. Sebabnya ialah kerana, saya saya rasa ada 3-4 je lah Majlis Perbandaran ataupun Majlis Daerah di Malaysia ni yang ada duit untuk untuk buat infrastruktur. Kutipan dia daripada cukai pintu ke, apa hasil dia tu, bayar gaji pun cukup-cukup makan je. Jadi sebab itu, sebenarnya kerajaan negeri pula oleh kerana hampir semua kerajaan negeri ni dia tidak ada hasil yang mencukupi untuk belanja pembangunan dia untuk di bagi kepada majlis perbandaran ni. Jadi sebab itu kalau di kawasan luar bandar, di kawasan yang jauh-jauh, malah kalau kadang-kadang kawasan bandar sendiri, rakyat tak faham tau. Dia nak suruh buat jambatan kecil 200,000 pun, 10 tahun tak dapat, jeti tu kan. Saya kadang-kadang saya tengok menteri kena datang jumpa saya, "Boleh tak tolong tengok ni jeti 200,000 kat kawasan saya." Benda tu tak sepatutnya berlaku kerana pada masa yang sama, peruntukan ratus juta ni dibayar oleh Kerajaan Persekutuan melalui Kementerian Ekonomi kepada semua majlis daerah. Beza dia macam ni DSA. Beza nya dia tulis surat kepada menteri. Jadi bila dia tulis surat, majlis saya masuk pejabat dulu awal-awal bulan pertama kan, surat nya tiap-tiap hari tebal macam ni, semua minta peruntukan. Nak buat jalan, gini-gini. Saya pernah jadi wakil rakyat kawasan saya, semua kan. Sebenarnya kalau kita biarkan 100% permohonan oleh majlis daerah semata-mata, oleh pegawai kerajaan semata-mata, dia tak tentu buat tu betul-betul yang rakyat nak. Sebab dia ikut pegawailah. Pegawai kata aku nak kat sinilah kan. Jadi, kita perkenalkan IKR lah. IKR maksudnya ada satu saluran baru, kita yang peruntukan biasa yang permohonan daripada majlis perbandaran ni kita pecah dua. Satu yang majlis perbandaran minta teruslah kepada yang itu projek bawah 500,000 kita apa ni proses macam biasa, ada proses dia dia kena mohon. Tapi untuk rakyat, dia boleh mohon terus. Bila mohon terus ni, ini ada juga orang tanya, "Saya dah mohon lama, dah lulus tapi kenapa tak buat?" Bila dia mohon terus, kita akan siasatlah, tengok dia sebab rakyat ni pun ada macam-macam, ada kontraktor yang dia mohon projek yang tak perlukan pun untuk dia. Jadi faham-fahamlah kan. Jadi pegawai akan pastikan projek tu betul, tempat tu betul, bila kita dah tengok lulus semua, maka kita tawarkan kepada majlis daerah atau majlis perbandaran suruh dia buat. Kalau dia buat, maka kita bagi peruntukan itu kat dialah kan. Jadi ada juga tempat-tempat yang kita dah lulus tapi majlis daerah tak nak. Cuma cara dia, saya buat peraturan, kalau majlis daerah yang malas ni, kita dah luluskan 3-4 projek buat untuk rakyat, dia tak nak buat, tak apalah, engkau punya permohonan aku tak lulus. Jadi, tapi oleh kerana itu berlaku, maka rakyat memohonlah. Bila rakyat memohon, kalau macam di Kedah kan, memang betul lah, Kedah ni nak buat macam mana, 100% hampir 100% pembangkanglah kiranya. Apa nama ni, DUN ada dua sahaja, tiga kan, tiga. Parlimen satu. Jadi orang mungkin tak sukalah kerana dia tengok Kedah ni 100% Perikatan Nasional, tapi Kementerian Ekonomi masih meluluskan peruntukan-peruntukan kat bawahlah. Yang itu, yang ini kesan kat sayalah. Yang dalam kerajaan pemaki aku, PAS pemaki aku. Padahal kita, kita amalkan benda yang biasa. Kalau projek tu betul, saya tak kisahlah yang minta tu orang PAS ke, orang BN ke, orang UMNO ke. Asalkan projek tu memang betul diperlukan dan akan bagi manfaat pada rakyat. Bab itu yang yang orang banyaklah yang duk bising kat saya, pi komplain kat PM lah, itulah dan sebagainya. Saya, saya telan buat tak tahu jelah semua lah.
 
-[58:18] Akhirnya dia akan datang jugalah. Akhirnya dia akan datang juga. Jadi yang itu negara seperti Malaysia ni kita nak kena imbangkanlah. Bagi saya tak salah kita menyatakan secara terbuka yang kita tidak bersetuju dengan pandangan-pandangan dia. Bila dia jadi duta di sini, dia perlu mewakili pandangan kerajaan US, bukan pandangan pribadi dia.
 
-[58:47] Jadi kalau bantahan kita itu boleh diteruskan dan sebagainya kalau ada perkara yang dia telanjur yang nampak bukan pendirian US pendirian dia ada sebenarnya mekanisme untuk kita membantah kita boleh bagi diplomatic note dan sebagainya. Bagi saya yang paling penting begini.
 
-[59:09] Apa-apa pun kita kena pastikan bahawa dalam perang tarif yang sedang berlaku sekarang ini, kita ada pengaruh yang kuat dengan White House.
+[17:44] Datuk Syed Azuan
+Itulah, itu yang saya rasa. Saya memang kadang apabila saya juga menyokong kementerian ekonomi ini dalam segi YB buat PADU kan. Memang saya buat content pasal PADU dulu. Saya ingat 800,000 view untuk saya cerita PADU tu. Saya pun tak tahu kenapa aku pi cerita PADU, tapi saya rasa something yang yang menarik tentang PADU ni apabila kita ni nak nak beri bantuan, kita kena melihat bukan dari segi pendapatan yang kita dapat tu. Kan, kita kena tolak hak nu, tolak hak ni, baru kita boleh bagi dia ni layak dapat bantuan. Tapi itulah YB noh. YB dah tak ada ni, ingat-ingat PADU tu depa nak guna lagi kah ataupun?
 
-[59:21] Dengan Trump Dari segi itu Kalau Malaysia Pandai imbangkan Kalau Nick Adams ini Adalah pempengaruh politik Yang rapat dengan Trump Dan
 
-[59:34] ia sewajarnya digunakan sebagai satu strategi yang baik oleh kerajaan kita. Jadi kita tak boleh nak tengok daripada satu perspektif sahaja kerana kita bantah macam mana pun kemungkinan besar dia tetap ada. Dan kita juga tahu bahawa dia mewakili suara US. Jadi kita gunakan mekanisme kalau benda-benda yang dia kata itu melanggar sensitiviti rakyat. dengan terang.
 
-[1:00:05] Because that's the national interest, so that it's easier for Zafrul to run the tariff. If he doesn't get tired, Zafrul will answer. From 24 early, it goes up 25%. So, use that opportunity as best as you can. Even if I'm in the cabinet, that's my view.
+[18:29] Rafizi Ramli
+Tak apa, RMK pun seminggu lebih je lagi kan nak bentang. Saya pun ada juga buat content tu YB, pasal RMK ni saya pun tak setuju kan. Last-last seminit orang dah buat semua, tiba-tiba digubal semula diarah. Saya pun tak tahu tahap mana tu YB. Dia nak ubah semua, ataupun nak buang hak YB punya tu?
 
-[1:00:27] I took him to the right side of the road. I thought it was settled. I was worried. They were in the middle of the road. I was afraid that from 25, they would go up to 50. Right? When I came back, I was happy. I was in Indonesia. Suddenly, I was 36. So, I was 19. Trump's praise of the pro-Boro was skyrocketing.
 
-[1:00:53] Saya nampak Trump ni dia nak apa sebenarnya Daripada Vietnam, daripada 40 lebih Turun 20 Kita dulu kira paling rendah lah 24 antara negara-negara Perindustrian lah saya cerita ni Kalau Brunei tu kita tak mahu campur lah kan
 
-[1:01:06] Adakah strategi Trump ni Dia tak nak Malaysia ni Dia takut nanti Menjadi dominant Dari segi ni lah Dulu 24 Sekarang naik 25 Dulu 40 Tinggal 20 36 jadi 19 Apa sebenar Trump nak
+[18:49] Rafizi Ramli
+Saya tak tahulah, sebab saya peraturan saya untuk tidak menyusahkan pegawai-pegawai saya, lepas saya dah tak jadi menteri ni saya tak contact langsunglah. Kalau tak kesian kat dia, ada serba salah nak cakap ke tak. Jadi saya tak tahu setakat mana. Cuma, cuma, saya memahami rumitnya proses. Maksudnya dia mengambil masa setahun setengah, nak buat semua ni kan. Jadi kalau tempoh 2 minggu nak ubah tu, saya tak rasa... Dia sama ada begini tau, OK, beza dia begini DSA. Sebelum zaman saya, orang kerajaan ni, ahli politik ni melihat RMK ni sebagai tempat untuk mohon projek. "Aku nak jambatan kat sinilah, gini gini gini" kan. Bila kami ambil alihlah daripada 2022 hari tu kan, arahan saya ialah rancangan 5 tahun ni sebenarnya bukan senarai projek. Dia perlu letakkan landasan dasar dulu, daripada landasan dasar itulah diterjemahkan kepada projek-projek yang bersesuaian untuk menggerakkan dasar tu kan. Jadi saya tak tahulah, takut 2 minggu ni, wish list daripada kementerian dan menteri-menteri semua dah datang lah. "Aku nak yang ini, aku nak yang itu." Yang itu saya tak tahulah kan.
 
-[1:01:22] Why didn't he want to go down to Malaysia? It's hard for me to answer this question because I don't know Trump's head. Sometimes we can't read Trump's head, but what we know is that Trump is a dealmaker.
 
-[1:01:45] Dia seorang perniagaan. Jadi hubungan peribadi sangat penting. Kemudian kalau dia suka engkau, dia suka engkau. Dia jenis macam itu. Dan berbeza dengan Malaysia, Presiden AS ini dia ada kekuatan eksekutif yang absolut. Jadi kalau kita bandingkan Malaysia dengan Vietnam, Vietnam memang belum apa-apa lagi. Dah berkampung kat sana. Kita pun tak tahu apa yang ditawarkan semua. tarif ini ialah untuk dia membaiki defisit dagangan dia.
 
-[1:02:20] Jadi bermaksud bahawa negara-negara yang bersetuju untuk membeli lebih banyak barangan US, dia akan dapat layanan yang lebih baik. Jadi mungkin dari segi itu, Vietnam, Indonesia menawarkan untuk membeli lebih banyak barang ataupun mungkin mereka berkampung lebih lama ataupun ada connection lebih baik. Dia pakai kabel semua ni kan. Perkara-perkara yang...
+[20:13] Moderator
+Mungkin YB, disebabkan approach YB macam tu, ramai orang yang cuba nak letak projek-projek ni YB tolak ke macam mana?
 
-[1:02:53] sewajarnya diambil kira oleh pasukan kita macam mana untuk kita dapat layanan yang baik daripada Trump sebab saya tak rasa Trump ni dia akan mempertimbangkan menggunakan fakta
 
-[1:03:12] Dia tak boleh kata fakta ni kita macam ni, you macam ni, jadi kita macam ni. Dia tak kira. Dia suka aku suka engkau ataupun aku tak suka engkau. Jadi sebab itu dia berbalik kepada soal kalau ada kabel.
 
-[1:03:26] yang membolehkan sebenarnya Trump rasa, hmm saya sukalah Malaysia ni. Haa kan? Jadi maksudnya sekarang ni sama ada signal dia itu ialah aku tak suka sehingga kan kau ataupun offer kau tu macam tak bagus lah negara lain lebih baik bagi offer. Itu perkara-perkara yang sepatutnya dipertimbangkan oleh kerajaan lah. Kerajaan ada satu apa nama ni dia panggil apa nama ni, command center kan. Geopolitik command center. Sebelum aku letak jawatan lah kan dalam bulan mahuah bulan 4 kan Jadi masa tu kita masih lagi menunggu update daripada hasil rundingan awal kan Tapi bagi saya Trump is a dealmaker
+[20:19] Rafizi Ramli
+Tak, tapi pada peringkat ini RMK tidak melibatkan projek. Kecualilah ada lah, bolehlah contohnya kalau ada kementerian kata, "Kami nak buat Pusat Terbang Ke Langit." Ha, ini sebagai... Tapi dia tak boleh sebab dia tak boleh setiap projek kecil tu dia nak, kerana kita meluluskan permohonan peruntukan pembangunan ni mengikut rolling plan. Jadi saya dah letakkan syarat, saya harap dia tak tukarlah kan, projek kecil, capital project yang di bawah nilai tertentu, yang itu dipohon setiap tahun. Sebab dia boleh disiapkan dalam tempoh 1-2 tahun. Projek yang besar yang memerlukan perancangan besar, dia hanya boleh memohon setiap 2 tahun. So rolling plan pertama, rolling plan ketiga, begitulah kan. Jadi projek-projek tu akan datang kemudian. Jadi sebab itu saya rasa dalam tempoh 2 minggu ni, tak apa kita tengoklah. Saya akan cuba ingat semua yang dokumen yang I go through semua tu, yang final draft dokumen tu. Jadi bila dia bentang nanti saya tengoklah mana yang yang kena buang, mana yang ditambah dan sebagainyalah.
 
-[1:04:11] Jadi cari cara untuk membuat perjanjian dengan dia.
 
-[1:04:16] Dato' sikit, pandangan YB tentang ni Adam so sebenarnya agak lain dan sangat rational lah. Cuma bila jadi kerajaan ni susahlah Anwar Ibrahim dan kerajaan nak jawab naratif Prozionis apa semua ni.
 
-[1:04:30] Itulah jawapan dia Maksudnya kalau dia sebagai duta Dia mengeluarkan kenyataan yang pro-Zionist
+[21:38] Datuk Syed Azuan
+Ya lah. Baru-baru ni pun saya tengok Menteri Pertahanan YB, tiba-tiba nak beli aset pula. Saya pun heran juga, masa setahun tu takkan tak jumpa YB, ada jumpa?
 
-[1:04:40] Sebenarnya kita sebagai negara dan juga wakil-wakil parti, NGO ke apa berhak untuk membantah. Kan?
 
-[1:04:49] And we can send diplomatic notes because it is in conflict with our independence. So we cannot follow, for example, only to win the war of social media. Or only because we are afraid of being attacked. For example, if PAS becomes a government,
 
-[1:05:15] Kau ingat Trump akan ambil kisah ke kalau dia nak hantar Nick Adam? Dia hantarlah Nick Adam tu. Ada dalil nanti. Ha kan. Kau buatlah macam mana. Benda akan hantar Nick Adam. Jadi yang baiknya lah di peringkat antara negara kan hubungan antarabangsa ni. Dia ada peraturan dia. Ada benda yang kita suju, setuju. Ada benda yang kita tak setuju, kita boleh nyatakan kita tak setuju. Tapi kita juga menghormati hak dan kedaulatan negara itu. duta yang dihantar. Maka kita kena bersikap profesional lah. Cuma keadaannya sekarang ini, kalaulah kita boleh pastikan kita dapat manfaat dari segi rundingan tarif itu. Dan saya ingat itu tanggungjawab kerajaan lah untuk menerangkan kepada rakyat.
+[21:52] Rafizi Ramli
+Tak, dia proses dia, dia semasa proses permohonan peruntukan. Kerajaan punya planning cycle ni DSA kan, ugh panjang. Jadi contohnya, permohonan terakhir untuk pembelian projek aset semua ni setiap tahun mengikut rolling plan, dia kena submit kepada Kementerian Ekonomi selewat-lewatnya bulan 2. Kemudian daripada bulan 2 ke bulan 6 tu, Kementerian Ekonomi akan grill setiap satu permohonan tu mana nak potong, kenapa gini, harga gini. Lepas tu antara bulan 7 ke bulan 8, sebelum ini, saya check satu-satu. So 2 bulan tu memang saya grill dia orang lah. Lepas tu kita tutup dalam pertengahan bulan 8, kemudian dibentangkan di Belanjawan bulan 10 lah. Tapi bila kita tutup tu bulan 8 tu, di kementerian dia dah bermula balik dah. Dia mula start untuk cycle seterusnya pula kan. Jadi sebenarnya permohonan peruntukan tu memang tiap-tiap tahun pun. Cuma cabaran kerajaan ialah untuk memastikan perbelanjaan tu betul-betul yang diperlukanlah. Ha senarai, yang itu yang yang tugasan utama Kementerian Ekonomi, pegawai-pegawai. Sebab tu kita orang di Kementerian Ekonomi ada engineer, ada arkitek, ada pakar senjata, ada doktor. Dia check semua tau, "You nak buat macam ni?" Jadi apa nama ni, cuma RMK ni kita tetapkan ceiling lah. Contohnya kalau 5 tahun, kita nak peruntukan untuk 5 tahun itu ialah 400 bilion contohnya. Jadi setahun berapa? Kalau setahun 90 bilion kan? Daripada 90 bilion tu kita dah tahu yang ini nak kena bayar hutang, yang orang dah buat semua ni kan, ataupun projek-projek yang sedang berjalan sekarang kan. Jadi berapa ceiling tahunan setiap kementerian? Bab itu yang depa orang kencang gaduhlah, "Boleh bagi saya 4 bilion tak? Bagi saya extra 500 juta." Bila dia dapat extra 500 juta tu, dicarilah benda yang dia nak beli.
 
-[1:06:04] The effect is from the political labours below, but if we look at the example of the DSA, we know that we are less liked by Trump than the 25s, and now it's 40-50, it's one thing. So for the national interest, we have to make sure that the relationship between the government and the White House is good. So find a way in that direction.
 
-[1:06:31] Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.
 
-[1:06:59] Jangan lupa untuk berlangganan.
+[24:14] Datuk Syed Azuan
+Boleh bagi tahu YB? Last-last minute aku mahu lagi 10, apa, 200 juta ke 500 juta.
 
-[1:07:01] It's different in terms of the economy, in terms of building the economy of the people. From what I've said, from the point of giving money, we ask him to do his job. But our people have been like that for a long time. I've already given money. So I don't want to touch the Sejati Madani project. I'm just looking at it. And then we talk about other things. Okay, now I just read it. There is a Minister of Sarawak, Abdul Karim, Abdul Kulir Rahman. He said,
 
-[1:07:29] Eee...
 
-[1:07:31] Hilang Rafizi ni rugikan PKR. Saya pun terkejut juga. Dia selalunya kutuk saya. Haa tu lah. Oh dia benda cukup hebat. Haa selalunya dia kutuk aku. Tapi baru ni dia puji dia kata. YB ni seorang ahli strategis. Pintar. Wow.
+[24:20] Rafizi Ramli
+Tak, yang itu juga bagi sayalah, banyak perkara yang boleh diperbaiki lagi mengenai cara kita menguruskan belanjawan lah kan. Contohnya kan, yang ini memang semua orang akan maki sayalah. Saya sebenarnya kurang setuju bila menteri duk pergi umum peruntukan ni. Tak kisahlah, dalam pilihan raya ke, lepas pilihan raya, dia kita membawa amalan daripada UMNO yang puluh tahun dulu. Pi pi pi, "Ah saya sebagai menteri dengan ini mengumumkan jambatan ini." Yang dia lupa cakap, jambatan tu dah memang orang luluskan 2 tahun lepas dah, memang ada dalam... Jadi saya punya pandangan daripada awal, setiap tahun ni, rakyat di setiap daerah dia, sepatutnya dia tahu peruntukan untuk tahun ini projek-projek baru yang telah diluluskan macam ini, macam ini, berapa berapa berapa. Tak payahlah siapa-siapa nak umum. Kan? Tapi kita walaupun ini Kerajaan Reformis, yang itu bab-bab yang selalunya orang kurang suka kat saya sebab saya kata, saya daripada awal saya nak publish tau. Setiap kawasan parlimen ini sebenarnya apa projek yang telah diluluskan dan akan dibuat oleh Kerajaan Persekutuan supaya rakyat tahu, "Eh kau kata nak buat hospital kat sini, dah lulus dah, lulus tahun 2023, ni mana nih?" Kan? Tapi tak dipersetujuilah, sebab banyaklah ni bahaya nanti, ini gini gini gini kan. Dan saya ingat kalau kita buat macam itu, memang menteri pergi umum bajet ni tak adalainlah. Sebab ada siapa-siapa nak pergi, "Saya umumkan..." Ah kita dah tahu dah ada kat situ kan. Dia sebenarnya bagus juga untuk wakil rakyat. Sebab saya kesian kat wakil rakyat. Wakil rakyat sebenarnya tak tahu apa yang berlaku di kawasan dia. Jadi kadang-kadang dia orang nak tahu, dia tulis surat kat saya, saya akan arahkan suruh bagi senarai projek kat kawasan dia tau. Yalah, saya kalau tanya pegawai, tanya kerajaan dalaman, ada macam-macam sebablah. Dulu dia takut perkara itu nanti ada orang campur tangan untuk tender, kontrak. DSA tahulah orang kita kalau tahu, "Oh lepas ni ada projek jalan 500 juta kat sini," orang beratur panjanglah. But you have to balance lah, because kalau kita nak transparent, benda-benda ni rakyat sepatutnya layak tahu tau di kawasan dia apa yang akan dibina semua kan.
 
-[1:07:45] So apa yang dia kata kat YB tu semua tu betul lah Tetapi bila kita melihat dalam PKR ni Bila YB disingkirkan Saya melihat
 
-[1:07:56] Apa yang orang fikir anak sebenarnya kan? Orang luar mengaknowledge kita sebagai ahli strategi pintar
 
-[1:08:03] and a loss. I want to hear from YB. I always hear from YB, I speak from the media. That's why you should ask the leader of the secret. No, I remember, actually in, actually not only in PKR, but in any party, there will always be a conflict between the two groups.
+[26:55] Datuk Syed Azuan
+Baru kita tahu kita pilih pemimpin kita, dia nak buat apa.
 
-[1:08:29] Kalau tak payah di Malaysia lah Saya bagi contoh lah Kita ambil zaman Lenin dengan Stalin Kan
 
-[1:08:37] Masa zaman Lenin lah lepas Bolshevik, revolusi Bolshevik tu kan, sebenarnya yang dikira kanan dan ideolog kepada komunizm ni sebenarnya Trotsky.
 
-[1:08:53] Trotsky Trotsky kan Dia bukan Stalin lah Stalin ni dia sebenarnya Agak bawah dan kebelakang lah Kerana Stalin ni sebab
+[26:58] Rafizi Ramli
+Dan baru kita tahu tak guna punya wakil rakyat, engkau dah 4 penggal kat situ, aku tengok wakil rakyat sebelah tu projek dia berjaya dapatkan lagi banyak, engkau punya itu saja. Let them really work hard for it.
 
-[1:09:05] Communism started as an ideology. People need to be defended, wealth must be shared. And when Lenin brought the revolution to Russia, it was like a reformation. People believed in that ideology. So the natural successor was Trotsky.
 
-[1:09:32] But when Lenin was gone, there was a conflict because there were two groups. One group that people call ideological, intellectual, ideal, idealism. Another group that I must be able to control, that was Stalin.
 
-[1:09:54] And Stalin, his position in Lenin's time, was the head of propaganda. So he was a supporter of the communist akhbar. He used his death to kill Trotsky. And he arranged for a long time, Trotsky was killed, he had to run away from Russia, went to Cuba, and for a long time he sent people to kill him in Cuba.
+[27:12] Datuk Syed Azuan
+Dia tahu KPI masing-masinglah.
 
-[1:10:20] Bukan sahaja di Rusia tu, China pun macam tu juga.
 
-[1:10:24] Mao Zedong, even though the natural successor to Mao Zedong is someone like Chuen Lai, of course Deng Xiaoping. But he has these gangsters who see that if Deng Xiaoping goes up, we're done.
 
-[1:10:43] Because he has an ideology, he has his idealism, he doesn't eat pot dates and so on. So finally, in the last stage of the life of Mahoshetong, he was surrounded by 4-5 people with wings. That's what he called the M4 gang. That means his wife, all of that. They will control the propaganda.
+[27:14] Rafizi Ramli
+Ha, sekarang ni sebenarnya sebab tu banyak soalan-soalan dalam parlimen soalan tanya, "Apakah kemajuan projek jalan sekian sekian sekian di kawasan..." Sebab itu wakil rakyat akhirnya tak bincang sangat pasal dasar dekat parlimen. Soalan-soalan dia tu tanya pasal projek. Nak marah dia pun tak boleh marah dia 100% sebab dia sebenarnya tak tahu tau.
 
-[1:11:08] Deng Xiaoping tiga kali kena buang, kena jadi buat buruh kasar dan sebagainya. Cuma berbeza dengan Rusia, dengan Soviet. Deng Xiaoping eventually comeback.
 
-[1:11:24] as a leader, and that's it. So, the meaning of the essay, I want to put it there. Actually, it's not something that is surprising, the conflict in any party. In PAS, there is also something like that. It means that there will always be a conflict, people who become the face of the people, and also another group that is like a cat trying to catch a cat.
 
-[1:11:51] Dia duduk kat belakang senyap-senyap Jadi sebab itu mengawal parti adalah sangat penting bagi mereka Biarlah ini yang siaran pemimpin siaran semua ni bekerja separuh mati Naik dapat kuasa kita ambil
+[27:38] Datuk Syed Azuan
+OK, faham YB. Saya memang setuju hak tu. Kan, kita pun rakyat pun nak tahu juga YB ni buat apa kan? Apa projek yang nak datang ke kawasan kita kan. OK, jadi bab RMK tu kita tukar topik lah pula.
 
-[1:12:07] Pertembungan dalam PKR daripada zaman Azmin sampai sekarang itulah sebenarnya. Jadi, bezanya lah.
 
-[1:12:18] Saya dilihat sebagai tidak ada kompromi.
 
-[1:12:22] So, the hope is that this will be arranged. It's been more than a year. I know that because the one who is moving down here is the political support, PM himself. Everyone is clear. I know the message, I can read, I know what's happening. And in a smooth way, the message is that if you want to stay,
+[27:54] Moderator
+Tapi YB akan bangkitkan dengan agresif dekat parlimen nanti?
 
-[1:12:46] You will be a minister, we will keep you as a minister. Even the president's office, without a competition, you sit there. But don't mix everything that happens. You sit quietly, you do your job, become a good broadcast leader so that the people can like us. But we will decide who is behind the scenes.
 
-[1:13:06] My choice, that's it, is to take it all. I have a lot of other work to do, I don't want to get involved in things like that. So finally, I think that part of the people can see it. And that will also be a challenge to PKR after this. If the faces that are always known by the people, you eliminate,
 
-[1:13:34] Kalau yang mengambil tempat itu boleh ke depan dan menggantikan, Alhamdulillah.
+[27:58] Rafizi Ramli
+Nak bangkit apa? Aku tengoklah dulu apa dia.
 
-[1:13:41] Meaning, we are not there, we go and do what is right. But the new generation of leaders who win can win the hearts of the people, can win the people's views, as before, what was done by the leaders of the broadcast, Alhamdulillah, then the PKR will remain relevant.
 
-[1:14:03] Yang bahayanya dan yang saya rasa sedang berlaku sekarang Oleh kerana budayanya itu ialah bersembunyi Ini yang saya kata pemimpin sembunyian kan Bersembunyi di belakang Anwar Ibrahim Supaya
 
-[1:14:17] Yang menjadi pemuka interface dengan rakyat ni hanyalah Anwar Ibrahim Dia tunggu untuk dapat jawatan besar Akhirnya dia akan mengheret Anwar Ibrahim ke bawah Kerana Anwar Ibrahim kena maki pun Anwar Ibrahim lah Kena jawab pun Anwar Ibrahim lah Semua Anwar Ibrahim kena pikul ni Semua ni kan Jadi itulah sebenarnya yang akhirnya berlaku selepas pemilihan yang lepas kan Jadi sebenarnya saya rasa dia orang akan peluk dan cium saya Kalau jenis saya jenis Buatlah apa yang tu Okay aku Aku buat kerja Hang ambillah semua Hang nak kutip sana sini Hang buatlah tak apa Aku terima saja Masalahnya Kalau kita jadi timbalan presiden
+[28:03] Moderator
+Baik, baik, baik.
 
-[1:14:59] Tak boleh
 
-[1:15:00] Kerana tanggungjawab untuk menentukan bahawa satu parti berada pada landasan idealisme reformasi itu cukup penting. Sebab yang nak jawab ni kita ni. Yang berdepan dengan rakyat ni. Kedua, kita tak masuk parti ni untuk jadi macam itu. Kita masuk parti ni dulu sebab kita nak perbetulkan budaya-budaya macam itu kan. Jadi sebab saya tak boleh kompromi bab-bab itulah. Sas tu padu. Dia kata orang macam ni perlu dikeluarkan. Kalau tidak susah kita nak naik. Itu je lah.
 
-[1:15:36] Bagi saya begini Saya nampak Yalah YB cakap tu semua betul tu Bagi saya lah Malam ni saya dapat kepastian lah Okay Penyingkiran YB ni Ada orang kata apa Kerana Saya nampak UMNO
+[28:04] Datuk Syed Azuan
+OK, gini. Kita ni dalam Kerajaan Perpaduan, saya pun kadang YB ha, kadang kita nak menegur kita punya counterpart, UMNO, Amanah, kadang kita rasa "Ui, sat lagi aku tegur, depa kata hilang perpaduan." Ha ni masalah yang ada ni YB. Jadi saya selalu dalam live saya, dalam content saya, saya mengatakan Kerajaan Perpaduan ni bukan sampai kiamat YB. Any time dia boleh pecah. Yang saya tengok di Malaysia ni lamalah sikit, negeri lain dah hancur dah. Jadi saya nak tanya YB lah. Situasi sekarang, lagi 2 setengah tahun. YB ingat selepas PRU-16 ni, adakah entiti parti tu sama atau berubah?
 
-[1:15:49] Jadi bila YB tak ada UMNO akan melebih rasa selesa Dan pemimpin-pemimpin sumian ini
 
-[1:15:57] Dah menang nanti semua Kami akan dapat sesuatu
 
-[1:16:02] So, if one day YB becomes the President of PKR and wants to form a government, I see that YB, PKR, is not even a government. If there are elements like this. So, in the future, if YB becomes the President of PKR and wants to form a government, does YB want
+[28:57] Rafizi Ramli
+Maksudnya apa? Entiti dalam Kerajaan Perpaduan?
 
-[1:16:29] Kerana nak jadi kerajaan juga, aku kena ambil yang ni. Kalau tidak, aku jadi kerajaan. Itu saya nak tanya orang lain.
 
-[1:16:36] Yalah saya tak tahulah kalau saya jadi presiden mana-mana parti Kita jadi presiden persatuan podcast Malaysia Mungkin lebih berpengaruh Tapi sebenarnya yang berlaku Haa
 
-[1:16:51] Dalam 2022 itu kan pembentukan kerajaan perpaduan. Sebenarnya ada hikmah dia kerana amalan di negara lain itu dah lama berlaku bahawa kerajaan campuran atau gabungan itu berlaku selepas pilihan raya.
+[28:59] Datuk Syed Azuan
+Ya, parti tu. Kerajaan Perpaduan. Adakah dia akan berubah? Kita tak tahu. Daripada situasi sekarang ni YB.
 
-[1:17:08] In Germany, for example, sometimes they want to form a government for two months after the election. They can't form it anymore because they want to form a government. The agreement is thick like this. What is this? What can it be? The budget is all gone. So when it comes in, it doesn't come back. The people are clear that
 
-[1:17:32] Ini adalah perkara-perkara yang telah dipersetujui oleh gabungan-gabungan ini kan. Dan itu jadi budaya. Dan bila jadi budaya, rakyat sebenarnya boleh terima lah.
 
-[1:17:43] In 2022, we already have a seed in that direction. This is a story that maybe people have never heard outside. This is because I want to tell you about DSA. How, in my understanding, I am an important person who was there during the referendum. Actually, at the beginning, UMNO could not make a decision to join.
+[29:05] Rafizi Ramli
+Saya ingat senarionya itu masih lagi belum jelas kan. Sebab asal usul Kerajaan Perpaduan ini ialah atas keperluan semasa ketika itu. Oleh kerana parlimen tergantung, tidak ada mana-mana gabungan yang boleh membentuk kerajaan, maka dititahkan membentuk Kerajaan Perpaduanlah kan. Pandangan di dalam setiap gabungan itu pun saya tengok adalah berbeza-beza. Contohnya di dalam PH sendiri kan, ada pandangan yang merasakan perlu mansuh PH-BN sebagai Kerajaan Perpaduan. Pandangan GPS sangat jelas bahawa Kerajaan Perpaduan ini adalah sehingga ke akhir penggal, nokhtah. Maksudnya dia dia dia terbuka apa yang jadi selepas itulah kan. Kemudian dalam PH sendiri pula ada pandangan baik daripada dalam PKR, tetapi sekarang ini lebih lantang daripada dalam Amanah yang mahukan pertandingan PH-PH lawan BN, lawan PN lah kan. Keadaan yang sama sebenarnya di dalam BN. Saya tengok kepimpinan atas BN terutamanya yang di dalam kabinetlah eh, yang mereka memang cenderung untuk masuk sebagai PH-BN dan perkara itu memang kita tak terkejutlah kerana kalau tengok kepada siri pilihan raya kecil yang lepas, formula PH-BN tu banyak bagi keuntungan kepada UMNO lah yang bertanding kan, sebab mereka akan dapat sokongan daripada pengundi PH kan. Tapi perkara yang sama tak tentu dikongsi oleh pimpinan akar umbi, ketua-ketua bahagian dan sebagainya. Jadi buat masa sekarang yang saya perhatikan, baik Datuk Seri Anwar dengan Datuk Seri Zahid, baik Anthony Loke, baik Mat Sabu, nampak mereka nak PH-BN masuk sebagai Kerajaan Perpaduan kekal seperti yang ada sekarang. Sama ada mereka boleh meyakinkan ataupun mengharmonikan pandangan yang pelbagai di dalam gabungan malah parti masing-masing, yang itu 2 tahun setengah ni masa yang panjang tau untuk kita tengoklah. Jadi bagi saya, dia masih lagi terbuka luas sebenarnya.
 
-[1:18:08] Sebab pandangan di dalam UMNO ini Ialah kita kena dengar dua-dua
 
-[1:18:14] The offer from PN and PH, because I think many of the UMNOs are more inclined to PN because they want to be with PK and DAP, it's a disaster. So we have to be patient to meet PN first.
 
-[1:18:37] I remember in the afternoon, there was a meeting between BN and PN at St. Regis. It's normal, we have our feet everywhere. So I was informed that the meeting, Tan Sri Mujan Yassin didn't offer anything. He looked at UMNO, it was like it was very small.
+[32:00] Datuk Syed Azuan
+Masih terbuka YB ah? Tak tahu apa nak jadi lah.
 
-[1:19:03] There is no promise, nothing, just the basics. We need to join together so that the PNPKR date doesn't become a government. Amno's psychology at that time, he just lost badly. So he wants to enter a government that seems to not look at him at all. When I knew that, I quickly drafted a page.
 
-[1:19:26] Ini adalah komitmen PH. Kita akan tanda tangan perjanjian terperinci tapi ini adalah komitmen perkara-perkara dasar yang kita komit.
 
-[1:19:41] Saifuddin gave the document to UMNO, to Tok Mat. So, finally, what I was informed in the last BN meeting, the view was that, yes, it's true, PH, NIDAP, PKR. But it seems that they are more sincere.
+[32:03] Rafizi Ramli
+Yang itu bergantung kepada, sebab walaupun dari segi pimpinan parti masing-masing tu nampak cenderung ke arah PH-BN, tetapi mereka perlu menguruskan pandangan yang berbeza di dalam parti dan gabungan masing-masing. Contohnya dalam BN, MIC dengan MCA memang tak setuju langsung. Kan, jadi perkara-perkara ini yang setakat ini saya tak nampak lagi ada orang kata jalan yang yang lancar. Apa yang ada Kerajaan Perpaduan ini, yang inilah akan terus masuk kerana semakin dekat dengan pilihan raya, semakin bising dan semakin lantang pandangan yang berbeza-beza itulah.
 
-[1:20:00] Kerana paling kurang dia dah set out semua prinsipal kita nak berkongsi kuasa macam mana ni. Kalau dengan PN ni main mulut sahaja dan dia tak pandang kita, jadi itu yang tilt the balance.
 
-[1:20:12] When the oath was lifted, we took a week, I think, we had a meeting team, we drafted the agreement, that's what there is, the agreement is written. Actually, the positions in the cabinet, the positions, all of that, there are regulations in the agreement. Oh, it's already there? It's already there.
 
-[1:20:32] All of them have been signed. There was a meeting where all the party leaders signed it. Whether it was really referred to or not, that was actually outside my control. But what I mean is, if the SA asks, in the future, how to form a government,
+[32:57] Datuk Syed Azuan
+Ya lah, saya pun kadang nak tegur pun kadang tak berani. Depa kata saya ni nak memecahkan perpaduan. Oh kacau. Tapi saya jenislah YB, saya dalam saya ni selalu menggelar saya sebagai pemengaruh media sosial politik madani. Jadi bagi saya kalau rasa tak betul, saya tegur je YB. Berbalik kepada gabungan ni YB, saya melihat gabungan ni sebenarnya ada ada kebaikanlah untuk parti-parti ni, kerana kalah menang pun dalam pertandingan mereka akan dapat jawatan. Bagi saya adakah orang yang kalah ini tiba-tiba diberi jawatan kerana Kerajaan Perpaduan? Apa komen YB? Ini soalan direct ke soalan berlapik? Ini direct lah YB, kalau YB tak nak jawab pun tak apa.
 
-[1:20:50] Saya rasa rakyat dah boleh menerima bahawa parti-parti, kalau tidak ada parti yang ada majoriti untuk membentuk, dia jadi keperluan untuk membentuk kerajaan campuran, rakyat boleh terima. Tetapi pastikan perkara-perkara pokok itu dirundingkan dengan lebih terperinci daripada yang kami buat masa November 2022. tentang pembahagian jawatan, dia mesti mengikut rasio, sumbangan kemudian dasar-dasar utama, dasar-dasar utama itu lebih kurang yang macam ada dalam perlembagaan persekutuan, dia tak terperinci kalau di negara lain, bila dia nak bentuk kerajaan itu, dia terperinci contohnya defisit kena macam-macam ini, ini macam-macam ini jadi bila macam itu, maka dia tak boleh lari dan dia tak berlaku Kerajaan parti PKR ke ataupun UMNO ke ataupun PAS ke Dia tak ada blank check tau Masa di luar lain masa masuk kita kata ini demi untuk perpaduan kerajaan Dia tak boleh Kerana orang boleh tengok yang ini kau langgar Yang ini kau langgar kan Jadi saya ingat itu
 
-[1:22:10] akan menjadi satu proses daripada satu pilihan raya ke satu pilihan raya dan itu akan memudahkan pimpinan-pimpinan di masa akan datang, cuma kalau saya lah
 
-[1:22:22] If the matter is clear to the PKR or PH, this is a very important matter to us, we have shown it in detail. If it is not agreed by the partners that we want to form a government, it is not necessary to be a government.
+[34:10] Rafizi Ramli
+Tak, saya dia begini, dia saya faham contohnya bila PKR membentuk kerajaan 2022, akhir 2022 tu kan, contohnya kita perlukan pimpinan yang dikira berpengalaman dan senior. Jadi atas dasar itu Datuk Seri Saifuddin, dan dia juga pada ketika itu adalah Setiausaha Agung dan memang betullah dia adalah pimpinan kanan yang lama dan dia pernah juga jadi menteri kan. Jadi untuk membentuk tu memang saya fahamlah akan ada keperluan seperti itu. Cuma kita nak kena ambil kira pandangan rakyat ni yang yang ini sebenarnya kejayaan reformasi dan PKR jugalah. Kita juga dulu tepuk meja, kita nak pastikan ada mandat rakyat menang sebab kita tak suka main. Sebab bila orang yang kalah itu dilantik, dia membuka ruang kepada satu budaya politik yang membodek. Maksudnya sebab itu maka orang akan cium tangan Perdana Menteri tu sampai kiamat, kerana tak apa aku kalah kah, aku tak perlu jaga rakyat semua ni, kerana akhirnya kalau kalau aku kalah pun, PM akan bagi aku jawatan kan. Jadi reformasi itu sendiri sebelum ini sangat mengkritik perkara itu. Kerana kita nak pastikan, memang orang kata ideal yang kita minta tu kan, yang kita minta tu kira yang yang orang kata dah memang hampir perfect lah. Dia mesti pandai mentadbir, dia tak boleh ada rasuah, dia juga kena menang besar, dia kena ada jawatan dalam parti dan sebagainya. Tapi itulah reformasi sebenarnya kan. Jadi sementara saya ingat masa membentuk kerajaan itu orang boleh telanlah, orang boleh kira tak apalah kan. Tapi di masa-masa akan datang, kita kena cukup berhati-hati kalau PKR lah terutamanya, termasuk juga parti-parti PH yang lainlah, apa nama ni DAP ke, Amanah. Kalau nak pastikan orang sokong kita, kita tak boleh cakap benda lain, tapi buat tu benda lain tau. Yang itu yang sekarang ini ditimbulkan oleh rakyatlah. You cakap lain, tapi bila you di kerajaan, eh dulu you juga yang hentam. Dan rakyat faham kenapa melantik yang kalah ini adalah satu budaya yang tidak dikehendaki, kerana dia melahirkan pembodek-pembodek. Jadi saya ingat dalam PRU yang akan datang, kalau contohnya Datuk Seri Anwar dah plan dah orang ni ramalan nak jadi menteri semua ni kan, you better make sure dia orang ni bertanding di kerusi-kerusi yang boleh menang semua tau. Make sure dia menang, jangan dia kalah you pergi lantik. Fuziah Salleh boleh dipertimbangkan untuk kerusi Pandan contohnya kan kalau nak bagi dia jadi. Jangan dia kalah, lantik senator lepas tu lantik jadi menteri, because memang orang akhirnya rakyat tak boleh terimalah.
 
-[1:22:44] Secara umumnya, kalau tengok kepada tren politik dunia, parti yang membentuk kerajaan campuran,
 
-[1:22:56] If you don't pay attention, you will lose a lot in the upcoming elections. The best example is in the UK. Cameron formed a coalition government with Nick Clack in 2010. Because the Tory government couldn't get enough votes, he joined the Liberal Democrats.
 
-[1:23:18] But all the people who are angry about the Tories, they are blaming the Liberal Democrats. In 2015, they lost a lot. Nick Clack also lost his seat. He disappeared. The Deputy Prime Minister, the Prime Minister's team, disappeared. He lost his seat.
+[37:25] Moderator
+Direct lah kan.
 
-[1:23:35] So, that's why, for me, if I'm in the position, I have to be balanced. If it reaches the level, only to become a government, it will destroy the soul and image of our party in the eyes of the people who support us, it's better not to be. Wait again.
 
-[1:23:54] Saya memang Dut tengah YB cakap tu Saya lut Soalan saya tu Sebab saya nampak begitu Sebab YB
 
-[1:24:03] Where can people put their jobs? I always say that I have never been hired. If the leader gets the job, he will hold the job until the end. That's what I see YB is different. I want to add. It's okay, please. But it's a lot. One and a half hours. One and a half hours. Okay.
+[37:28] Datuk Syed Azuan
+Direct, saya tak sebut. Saya memang begitulah, kadang di Kedah ni kata "Eh, ni menteri mana kalah ni?" Ha kacau juga kan, depa duk main naratif begitu kan. Satu lagi lah ni minta maaf banyaklah YB noh, PMX kita ni dia kata lantikan ini kerana orang itu berjasa. Jadi dia lantiklah menjadi ketua pengarah kan, tapi adakah relevan orang yang dah bagi sayalah, patut dah boleh berehat, tapi dilantik menjadi jawatan-jawatan yang kritikal ini YB. Tak tahulah, jasa dari segi yalah kerana jasa dia tu.
 
-[1:24:25] Haa tadi, Obi kata tadi Maknanya parti ni tak ada masalah Kalau UMNO ke PAS ke Kalau dia setuju, ok lah Tapi, kena pastikan Syarat-syarat yang kita letak itu Tidak melunturkan Jiwa dan juga Idealisme parti itulah
 
-[1:24:44] Jadi kalau contohnya, kalau reformasi katanya lantikan-lantikan penting itu mesti dibawa ke parlimen.
 
-[1:24:55] Dia kena setuju, dia kena setuju. Kalau dia tak setuju, tak boleh lah. Sekarang yang kita berlaku masa 2022, ialah saya yang draftnya, kita tak sampai ke peringkat itulah. Kita hanya ada dasar-dasar besar, begitulah kan. Jadi, saya rasa dia satu perkembangan yang baik. Sebab kalau kita nak paksa terus kepada rakyat pun, rakyat pun tak boleh terima pun. Ini proses yang akan berlaku dari satu pilihan raya ke satu pilihan raya lah. Kalau contohnya syarat yang diletakkan oleh PKR itu terlalu berlawanan dengan itu, tak payahlah bentuk kajian dengan kita orang. Nanti kau rosak, aku pun rosak.
+[38:19] Rafizi Ramli
+Saya rasalah, kalau ambil contohlah kan, Ketua Pengarah J-KOM, baik dilantik DSA je. Paling kurang. Tak tak, yang itu sangat sangat apa nama ni, antara perkara yang sebahagian orang dalam PKR tak minat dengan sayalah. Sebab dia kira saya ni sangat brutal tau. Maksudnya, kita kawan baik semua, ini aku kenal engkau lama semua, tapi kalau kau tak boleh buat kerja tu, tak boleh buat kerja tu. Kerana, dia bukan soal aku suka kat engkau, kau jasa ke, aku ingat engkau lama dulu kena bakar kan. Bila kita dah ambil jawatan awam yang dibayar oleh duit rakyat, satu ada tanggungjawab kepada rakyat. Dan satu lagi, ada tanggungjawab kepada parti kerana kita kena menjalankan tugas tu dengan cukup baik supaya nama parti bagus kan. Jadi yang ini yang bila kita kata orang ni berjasa ke apa semua, dia dia jadi subjektiflah. Sebab kalau bagi sayalah, kalau sebab dia kawan kita ke, anak kawan kita, boleh, tapi jang, tengok jawatan-jawatan yang macam mana. Jangan jawatan-jawatan yang terlalu kritikal, kerana jawatan yang terlalu kritikal ada interfacing dengan rakyat, dia perlukan orang yang betul-betul mahir kan. Saya bagi contoh kan, dalam parti, ada orang marah kat saya kerana bila saya jadi menteri, pegawai saya, banyak bukan orang parti tau. Setiausaha akhbar saya dulu, aku malas nak kutuklah kan. Tapi, tapi, tapi setiausaha akhbar saya contohnya dulu, dia dulu pegawai media Syed Saddiq. Saya menunjukkan diri? Ha kan, jadi, jadi, cuma itulah pandangan saya. Bila saya nak ambil setiausaha akhbar saya contohnya kan, saya tengok apa kriteria dia, apa dia kena buat, gini gini gini kan. Jadi saya tanya orang semua kan, orang dalam parti saya pertimbang, orang saya tengok, payah kot kan. Jadi saya buka, saya tanya orang luar. Jadi bila tanya orang luar daripada kawan media semua, then proses itu bukan sebab saya tak suka orang parti ke apa gini-gini, tapi kalau jawatan itu diberikan hanya kerana saya nak mengenang jasa dia, satu semua orang ada jasa tau DSA. Banyak jasa orang. Kan. Yang keduanya, kalau berjasa tapi tidur kan, ataupun buat live ada 10 orang tengok. Jadi tak bolehlah, jadi saya ingat akhirnya daripada dulu saya selalu sebut secara terbuka, akhirnya beban tu kena dekat Anwar Ibrahim juga. Kalau kita lantik orang yang kita kata berjasa gini-gini, tapi dia tak boleh buat kerja, akhirnya yang kena hentamnya Anwar Ibrahim juga akhirnya kan. Jadi lebih baik memastikan letak orang yang yang selari pandangan dia dengan perjuangan, tapi yang berjasa tu kalau dia tak boleh buat kerja tu, pilah bagi benda lain sikit, jangan bagi benda-benda yang cukup kritikal tu lah.
 
-[1:25:34] So the people will not get anything because the people choose this party because they think this party will bring a new program, a new foundation, all of that. Like that in this party. But if only to be a government, you join, this one doesn't get it, that one doesn't get it either. So in the end, the people will not like it. So it's not wrong to be a supporter. That's what I don't understand when I see PANS united.
 
-[1:26:00] Sipuk sangat nak tebuk atap
 
-[1:26:03] I really don't understand. Because he has advantages in the government. He also has advantages as a supporter. If our intention is to influence the country's journey. In the government, the advantage is that we can make a basis and so on. But it takes time. It can't happen as soon as possible, then we will always be punished and so on.
+[41:35] Datuk Syed Azuan
+Setuju YB. Wah direct betul YB noh. Saya tak sebut. Tapi Datuk Syed Azuan tahu yang 10 orang live kan. Saya tak sebut YB noh. Saya ada juga lah tengok.
 
-[1:26:32] For the benefit yang kita boleh beraksi, buat tindakan, dia ada keburukan yang lain jugalah kan. Sebagai pembangkang, sebenarnya kelebihannya kau tak payah buat.
 
-[1:26:43] Tapi kalau ada idea dan fakta yang bagus, kita boleh jadi semak imbang yang akhirnya kerajaan kena ikut.
 
-[1:26:51] So even though we are not the ones who become the government, but if we get the way, and that is the function that has been played by PH and PKR for a long time. The election, clean one, clean two, clean, for a long time, whether you want it or not, the government has to follow. And the SPR has to be improved a little. Same with the Act of Peaceful Coordination.
+[41:51] Rafizi Ramli
+So daripada 10 orang tu salah seorangnya DSA.
 
-[1:27:15] Walaupun benda itu tak pernah ada tapi sebab pembangkang duduk gasak, rakyat duduk gasak ni lama-lama kena buat lah. Yang bagusnya benda itu berlaku kita tak payah buat lah sebab dia orang kajian buat kerana dia tunduk. Jadi bagi saya di SA kan kecualilah pemimpin politik ni sibuk sangat nak dapat kereta percuma dengan nak ada pegawai-pegawai duduk keliling dia ni. Tapi kalau kita nak jadi ahli politik yang ada impact kepada rakyat sebenarnya jadi influencer ke, jadi ahli parlimen biasa. Pastikan kita buat kerja itu dengan berkesan lah. Kalau berkesan, contoh badan kehakiman baru ini, orang marahlah kat kita orang, apa ni, darahaka. Tapi paling kurang bila kami buat tindakan itu, ia diberi perhatian. Dan bila ia diberi perhatian, paling kurang saya ingat, dia menyelamatkan kerajaan daripada kena maki lagi tau. Dan itulah tugas kita. Saya tak perlu jadi menteri ke timbalan presiden Sebagai
 
-[1:28:16] Yes, the leader in the government can be a leader outside the government. This is a concept that we have to be noisy for a long time so that people know that being a leader is not his job every day to be a leader. You become a leader, you have a chance for five years, that's why in the UK he called His Majesty's Opposition.
 
-[1:28:41] Because the function of both of them, the education of the protesters is equally important. It becomes an issue if the protesters, the parliament doesn't go. And it becomes a problem. It's a mess. He said he was not well. He said, the leader of PAH is dead. Yes, that's not allowed. Give it to someone else. I guess we're not interested. I'm interested in what is called Takiuddin. He said, as a leader, we follow the prayer. We can't pray.
+[41:54] Datuk Syed Azuan
+Aduhai, tak tahu lah YB. OK, saya mahu ni saya tertarik dengan satu, saya suka Juhari, Juhari. Datuk Juhari Ghani. Saya suka dia. Dalam banyak-banyak content yang saya buat pimpinan UMNO ni, saya selalu up dia YB. Saya kata inilah bakal Presiden UMNO. Dan juga bakal Perdana Menteri daripada UMNO. Sebab baru ni dia cakap YB, nak jadi calon ni wakil rakyat ni, bukan "eh hang kawan aku noh, hang lama dah, hang patut jadi." Tak, dia kata nak jadi calon wakil rakyat, rakyat kena suka kat orang tu. Walaupun dia bukan ahli parti. Wah, saya rasa ini lain macam ni YB. Jadi kita nak tengok hak ni lah. YB punya pandangan apa? Betul ke apa yang dia cakap tu nak jadi calon wakil rakyat, rakyat kena suka dia?
 
-[1:29:09] Diri duduk Tak boleh duduk baring Tak boleh sebenarnya Dekat mata Jadi Bagi dia Pemimpin ni
 
-[1:29:17] As long as he can live, he will be a leader. That's a pass. But if it happens to Webby, he will be angry even if he puts a position. We put a position with Sukarela, he said he was upset. This is not over. So there is one question, what is Webby going to launch? Ayu Malaysia. 27th of July. But suddenly there was a rise in Malaysia.
 
-[1:29:42] Where is the Bangkit Malaysia? The poster that will be released soon. 25th of July. So, there are a lot of people. The number of people who came down from Anwar is 27. 26. Oh, there is another one. Where is the Bangkit Anwar? The Bangkit Rakyat. Bangkit Malaysia? Oh, I see. I see. I just want to announce something that is very important.
+[42:40] Rafizi Ramli
+Dia dia akhirnya begini lah kan, pandangan saya secara keseluruhan. Kita kena imbangkan, katakanlah ambil contoh PKR lah, kalau bertanding 100 kerusi kan. Masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat. Di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding itu kan. Di peringkat nasional, orang akan melihat imej keseluruhan yang calon-calon yang kita tampilkan. Di peringkat bawah tu juga, kita juga nak kena imbangkan dengan kebolehan dia untuk buat kerja, berbakti di bawah dan juga macam mana penerimaan apa nama ni parti-parti atau jentera kita kat bawah lah. Jadi sebenarnya kalau 100 orang calon yang kita letak, dia banyak ruang untuk kita memastikan ada imbangan itu. Ada kawasan yang sebenarnya walaupun dia mungkinlah bukan berjawatan tinggi, hebat, nasional ke semua, tapi orang kenal dia dan memang dia ni orang tahu orang baik dekat situ semua, yang itu saya rasa maka calon di peringkat cabang itu perlu ada. Tapi di kawasan yang profile pengundinya lain, yang dia sebenarnya nak tengok orang yang berpendidikan, ada ada nama dan juga disukai, tambah lagi kalau calon daripada cabang kat situ tu mungkin payah sikit kan, jadi kita itu selalunya orang kata rule yang kita pakai lah. Tapi memang betul yang masalah utama parti-parti, dia telah berlaku di dalam UMNO, sekarang berlaku di dalam Bersatu saya ingat, dan juga dalam PKR ialah idea bahawa aku bergelumang dalam parti ni bayar ke, tikam ke, asalkan aku jadi ketua cabang, sebab bila aku jadi ketua cabang confirm aku jadi wakil rakyat. Yang itu salah. Ha kan. Jadi dia masih lagi memerlukan perkara-perkara yang ini lah kan. Dan yang itu yang pimpinan pusat kena mainkan peranan yang penting. Jadi kalau langsung orang tak kenal, langsung atau pun orang memang kenal dia penyengat. Susahlah walaupun dia naik presiden ke, dia ketua cabang kat situ, sepatutnya parti tak bolehlah meletakkan calon seperti itu lah kan.
 
-[1:30:07] Haa Adakah dia Masa YB nak bohong
 
-[1:30:12] Ayuh Malaysia tu berlainan ke apa ni? Wallahu'alam Saya tahu
 
-[1:30:16] Malam ini sebenarnya ada satu taklimat dan mesyuarat Bukan besar yang dibuat oleh Syamsul Iskandar Saya dapat link
+[45:26] Moderator
+YB, sorry. Jadi, tak tahu radical ke tak. So, why not kita scrap off sahaja sistem-system bahagian atau cabang yang ada sekarang ni macam parti-parti politik kat luar negara? What would you say?
 
-[1:30:31] Saya ingat nak je ajak kawan-kawan semua masuk sekali Dengar apa dia nak bincang kan Tapi tak apalah kita ada podcast Saya tak tahu apa yang nak diumumkan Saya pun tak tahu apa nama ni
 
-[1:30:46] Apa yang dia nak anjurkan bangkit Malaysia semua ni kan Tapi saya faham lah
 
-[1:30:56] Nak tak nak lah kita terpaksa terima hakikat lah sebagai parti lah kan. Bahawa 2-3 bulan kebelakangan ni ni.
+[45:37] Rafizi Ramli
+Dia iyalah, dia dia kena ada a fair balancelah kan. Sebab kita nak kata yang bahagian, cabang, PAS panggil nama kawasan kan? Kawasan. Kita nak kata semua ni salah pun, untuk berlaku adil, zaman 20-40 tahun yang lepas tak ada sosial media. Jadi bila tak ada sosial media, jentera dan organisasi di bawah itu cukup penting kerana dia nak kena ketuk pintu, nak buat semua kan. Sekarang ini oleh kerana, DSA contohnya, jauh lagi popular daripada wakil rakyat yang berpuluh-puluh tu sebab dia tiap-tiap malam dengan sosial media. Adanya sosial media, maksudnya kempen dan capaian kepada rakyat itu lebih pada skrin daripada fizikal yang kita jumpa. Ah jadi oleh sebab itu, kekuatan parti itu tidak lagi bergantung 100% kepada kekuatan cabang, orang kata kan. Dan contoh yang baik ada dua partilah. PKR dan DAP. DAP ni ahli berapa je? 100,000 je daripada dulu. 100,000. Mencekik hampir 100%. Kerana imej, capaian dia. PKR pun macam itu, cabang kan. Macam mana pun, banyak yang sendulah. Kat Kedah tu banyak yang sendu. Tapi bila kita masuk pilihan raya, kenapa orang tanya kan, kenapa daripada kalah PRN Melaka, Johor, eh tiba-tiba dalam tempoh 7-8 bulan, bolehlah bernyawa sampai boleh bentuk kerajaan. Kerana pengundi sekarang ini, dia tidak lagi tengok orang di kawasan dia, dia tengok isu nasional, dia tengok capaian semua. Jadi untuk masa depan, maksudnya ada ruang kepada parti-parti untuk cari modal yang agak berlainan daripada model tradisi cabang kawasan yang ada ni. Sebab dia tidak lagi bergantung semata-mata kekuatan di kawasan kampung itulah. Dan kalau ingat pengalaman saya kalau kat Terengganulah kan. Kadang-kadang parti politik ni, sementara kekuatan dekat akar umbi tu adalah advantage yang bagus, silap hari, dia jadi bala juga. Contohnya orang benci kat JKKK. Dulu-dulu kan. Dulu kan ada Jawatankuasa Keselamatan Kampung semua kan. Kalau kat Terengganu JKKK ni orang panggil Jeng Kucakapung. Sebab orang menyampah sebab orang tahu, dia ni dulu nengok sapi saja. Tapi sebab dia jadi ketua cawangan UMNO, jadi pengerusi JKKK, oh hebat dia rasa dia punya kurang hajar kan, kita kan. Jadi I think Malaysia akan melalui perubahan itu yang mana nak tak naklah orang kata. Sebab tu sekarang ni orang nak jadi influencer politik ni. Ha kan. Kalau tengok, sebab sebenarnya memang betul. Oleh kerana interaksi rakyat itu lebih kepada skrin, maka kekuatan dan pengaruh sebenar ialah kepada content digital. Dia dah beralih daripada kekuatan di bawah itulah.
 
-[1:31:06] Image PKR ni tak berapa cantik sangat Daripada pemilihan dan sebagainya kan
 
-[1:31:13] Jadi kalau orang nak kata kat saya, ni kau punya pasal lah sebab pemilihan kau mulut longkang.
 
-[1:31:19] Don't do it again and again. You already know the effect of it. That's why I said don't. Even before this, I have won and lost in the election. It's not an issue because it doesn't disturb the people below. I was jammed that day when it disturbed the people below. When it disturbed the people below, if I'm the type who says it's okay, I don't want to interfere, I'm really bad.
+[48:58] Datuk Syed Azuan
+Ya, saya setuju YB. Ha ni saya memang nak tanya sangat ni kat YB lah. Baru-baru ni saya di di di Thailand, di Pattani. Saya ada satu tengah seorang setiausaha politiklah. YB pun kenal siapa dia. Kan, dia kata dalam PKR ni, "Kami tak mau pemimpin siaran." Saya bila dengar tu saya boh. Content saya saya ingat dekat 20,000 dalam YouTube lah. Saya geram. Sebab dia kata "Kami tak mau pemimpin siaran, kami mau pemimpin sinaran." Bagi saya, kalau you tak bersiar, Macam mana nak mai sinaran tu? Kan. Ah jadi saya, saya rasa macam tak betul YB. PKR ni saya nampak yang bersiar ni saya ingat YB ja lah. Lain tak ada, baru ah... Tadi saya baca dalam MalaysiaKini, MPB yang barulah, apa nama Sanjeetha Jayakumar, dia kata sekarang ni dia PKR nak kena buat satu tim media kempen untuk menaikkan reputasi PMX balik ni. Apa komen YB ni? Sebenarnya dia mahulah siaran tu.
 
-[1:31:46] Maksudnya, masa jadi pemimpin ni, kau fikir tengkuk kau je. Asalkan kau duduk kat atas tu senang lenang, orang bawah ni susah. Yang itu saya tak boleh terima kan. Jadi, bila dah sampai ke peringkat itu...
 
-[1:31:59] Sebenarnya kalau saya tak bersuara itu pun...
 
-[1:32:02] Grassroot PKR ni banyak kecewa. Saya boleh tengok kat Kedah ke kat mana, di mana-mana lah kan. Dia kecewa. Bila kecewa, kalau di social media ni, yang paling banyak duk backup sama ni, geng-geng ni. Jadi bila dia tarik handbrake dan dia kecewa, kemudian disambung lagi. Dan masalah pula yang JCOM tak JCOM-nya, yang orang pergi check blocks lah itu semua, yang kamu duk maki orang-orang PKR ni, kenapa? Bila keseluruhan kamu duduk serang rakyat-rakyat yang tidak bernama, yang selama ini berpuluh-puluh tahun, duduk angkat Anwar, duduk bela Anwar semua, benda itu jadi personal.
+[50:18] Rafizi Ramli
+Saya nak komen yang siaran nilah kan. Yalah, Shamsul Iskandar ni, pengalaman saya dengan Shamsul Iskandar daripada hari pertama dalam parti ni, dia sebenarnya dia panggil apa? Pimpinan apa dia kata? Pemimpin siaran. Tak, dia tak mahu pemimpin siaran. Dia pemimpin sembunyian. Sebab dia begini, dia banyak watak macam ni kan. Dia suruhlah orang macam DSA ke, saya, orang lain ni biarlah kita yang berkempen dengan rakyat, gini semua bersiaran dengan rakyat semua, dia duduk kat belakang ni, bila jadi menang empuk dia pergi ambil. Jadi sebab itu akhirnya bila keputusan pemilihan, dia tidak selari dengan kehendak rakyat di luar, dia jadi macam masalah dalam parti sekarang. Sebab orang tanya, "Hang ni siapa? Aku tak pernah tengok pun hang, aku tak pernah tahu pun hang." Kan. Jadi, jadi sebab itu macam saya kata, yang yang soalan tadi kan. Realitinya sekarang ialah kempen politik sekarang ni ialah kempen digital. Kalau tidak saya tak dahlah buat podcast tiap-tiap minggu ni. Kempen sekarang ialah kempen digital. Kalalah masih lagi ada orang rasa surat khabar ke, TV3 ke, ada pengaruh yang besar, pengaruh tu ada, tetapi sebenarnya rakyat mula menilai kualiti pemimpin, parti itu semua dalam kandungan digital yang berterusan. Orang mungkin tak mengikutilah apa nama ni perkembangan di negara lain. Trump contohnya, Trump. Dalam segala kucarkacir pempang-pempang-pempang dia menang. Salah satu benda yang sangat berbeza dia buat, podcast ni adalah antara perkara yang paling penting bagi dia. Semua podcast yang orang kata right-wing, yang yang yang berorientasikan perkauman, anti-immigration, dia pergi. Masa itu, Democrat ke orang kata "Kenapa lah pergi mamat tu, mamat perkauman?" Tapi yalah, sekali dia bercakap, ada 100 juta dengar. Jadi secara diam kan, jadi sebenarnya kalau Shams ke siapa-siapa dok kata kita tak nak bersiaran semua, tak apalah tak payah bersiaran, kau bertanding confirm kalah sekali lagi kat mana-mana. Nak tak nak, imej kita ialah dibentuk dari siaran yang berterusan. Siaran itu bukannya sebab kita boleh pergi kosong-kosong membebel. Siaran itu kerana orang dan rakyat akan menilai hati budi kita, pengetahuan kita, kemahiran kita dan sebagainya. Berbeza dengan zaman sebelum ada digital ini DSA kan, rakyat sebenarnya tak boleh kenal. Kalau parti A dia letak calon tu kat situ, hang tak kenal pun nak tak nak terpasalah undi kan. Sekarang ni kehendak rakyat lebih daripada itu. Sebab itu dia tak boleh berlakon. Saya ingat dulu-dulu ada pemimpin kan, ada banyak tak nak sebut namalah kan. Tapi ada pemimpin, dia cubalah buat gimik-gimik, kadang-kadang kalau masa banjir pergi basah-basah semua ni. Zaman digital sekarang ni tak boleh tau, sebab orang akan mengikuti setiap yang kita buat tiap-tiap hari. Dia tahu kalau kau berlakon saja, ni berlakon. Sebab aku dah ikut engkau ni daripada awal. Jadi sebab itu satu perkara yang cukup penting daripada pemimpin siaran ini ialah dia membolehkan rakyat melihat otentisiti kita. Bahawa hang cakap depan macam ni, belakang macam ni, buat pun macam ni. Ha sebab orang tak percaya kat ahli politik sekarang ni. Dia cakap lain, dia buat lain kan. Jadi kalau ada pimpinan yang bercita-cita tinggi nak jadi pemimpin negara, tapi tak nak bersiaran, cara politik pemimpin sembunyian ni, dia tak ada masa yang panjang dah dalam negara kita ni. Itu pandangan sayalah.
 
-[1:32:52] Dari segi sokongan di media sosial tu, jatuh mendadak lah itu yang tak pernah berlaku. PM kena tutup komen, Izzah kena tutup komen, tak pernah berlaku, berlaku. Jadi saya ingat yang ini, DSA, ialah...
 
-[1:33:09] I think it's more than that to build back support. My experience. So, old people, social media, everything. Do you remember when Anwar was imprisoned in 2015? There was a picture of Anwar, Allah, in black and white. That's what we did. That's the campaign we did. Actually,
 
-[1:33:36] Kempen digital ini bergantung kepada emosi.
+[54:33] Moderator
+Itu term baru tu. Politik sembunyian.
 
-[1:33:41] It's not about the arrangement, asking people to change, it's never happened. Like my own experience a month ago, Simpson or not, I didn't ask them to do it, they did it themselves, it's organic. There must be an emotional connection, right? So, the emotional connection, I'm not sure how Samsul Iskandar wants to do it. And if for example,
 
-[1:34:05] Mengarahkan saja Anggota parti semua kat bawah Buat tu Pengalaman saya tak pernah jadi tau ni Saya
 
-[1:34:13] Because the one who holds the position is the government. They are busy going to meetings and gatherings. Usually the most loyal people are the ones who are not famous and not on the back. So if that is done and if that is their purpose, they have to be careful because
+[54:38] Datuk Syed Azuan
+Itu yang baru tu, yang tu ustaz, saya tak nak sebut. YB sebut. Tak tak, DSA tahu yang 10 orang live kan. Tak, saya tak sebut YB. Saya ada jugalah tengok. So daripada 10 orang tu, salah seorangnya DSA. Aduh, tak tahulah YB. OK, saya mahu ni saya tertarik dengan satu, saya suka Juhari, Juhari. Datuk Juhari Ghani. Saya suka dia. Dalam banyak-banyak content yang saya buat pimpinan UMNO ni, saya selalu up dia YB. Saya kata inilah bakal Presiden UMNO. Dan juga bakal Perdana Menteri daripada UMNO. Sebab baru ni dia cakap YB, "Nak jadi calon ni, wakil rakyat ni, bukan eh hang kawan aku noh, hang lama. Hang patut jadi. Tak." Dia kata nak jadi calon wakil rakyat, rakyat kena suka dekat orang tu. Walaupun dia bukan ahli parti. Wah, saya rasa ini lain macam ni YB. Jadi kita nak tengok hak ni lah. YB punya pandangan apa? Betul ke apa yang dia cakap tu nak jadi calon wakil rakyat, rakyat kena suka dia?
 
-[1:34:36] Bagi saya, perkara ini pernah dibuat sebelum-sebelum ini zaman Najib. Dan kita juga tahu contohnya penasihat media di pejabat Perdana Menteri itu ialah Syazali Ramli yang dulu adalah penasihat media Najib.
 
-[1:34:57] So if I want to tell everyone that it's true to do all this, but I really want to backfire, because before this, if a leader is in an unpopular stage, the way is don't fight fire with fire.
 
-[1:35:16] You fight fire with fire tak jadi. Cara dia ialah akhirnya dia kembali kepada soal pentadbiran, dia kembali kepada soal negara, soal perjuangan, soal hati kan. Dan itu mungkin ambil masa sedikit lah, 4-5 bulan ke sebelum benda itu boleh diperbaiki. Tapi kalau tengah orang panas ni, api, ni hampir curah api sekali lagi. Tebakor lagi besar tau. Pandangan saya lah. Saya pun agak pelik juga kan. tiba-tiba ayuh Malaysia
+[55:40] Rafizi Ramli
+Dia dia akhirnya begini lah kan, pandangan saya secara keseluruhan. Kita kena imbangkan, katakanlah ambil contoh PKR lah, kalau bertanding 100 kerusi kan. Masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat. Di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding itu kan. Di peringkat nasional, orang akan melihat imej keseluruhan yang calon-calon yang kita tampilkan. Di peringkat bawah tu juga, kita juga nak kena imbangkan dengan kebolehan dia untuk buat kerja, berbakti di bawah dan juga macam mana penerimaan apa nama ni parti-parti atau jentera kita kat bawah lah. Jadi sebenarnya kalau 100 orang calon yang kita letak, dia banyak ruang untuk kita memastikan ada imbangan itu. Ada kawasan yang sebenarnya walaupun dia mungkinlah bukan berjawatan tinggi, hebat, nasional ke semua, tapi orang kenal dia dan memang dia ni orang tahu orang baik dekat situ semua, yang itu saya rasa maka calon di peringkat cabang itu perlu ada. Tapi di kawasan yang profile pengundinya lain, yang dia sebenarnya nak tengok orang yang berpendidikan, ada ada nama dan juga disukai, tambah lagi kalau calon daripada cabang kat situ tu mungkin payah sikit kan, jadi kita itu selalunya orang kata rule yang kita pakai lah. Tapi memang betul yang masalah utama parti-parti, dia telah berlaku di dalam UMNO, sekarang berlaku di dalam Bersatu saya ingat, dan juga dalam PKR ialah idea bahawa aku bergelumang dalam parti ni bayar ke, tikam ke, asalkan aku jadi ketua cabang, sebab bila aku jadi ketua cabang confirm aku jadi wakil rakyat. Yang itu salah. Ha kan. Jadi dia masih lagi memerlukan perkara-perkara yang ini lah kan. Dan yang itu yang pimpinan pusat kena mainkan peranan yang penting. Jadi kalau langsung orang tak kenal, langsung atau pun orang memang kenal dia penyengat. Susahlah walaupun dia naik presiden ke, dia ketua cabang kat situ, sepatutnya parti tak bolehlah meletakkan calon seperti itu lah.
 
-[1:35:48] Datang satu benda yang baru Kan
 
-[1:35:51] This is another one, when you talk about the bottom of the river, I also sometimes lose, I sit and talk to myself. We can't, they say, we want to go with the leader. It's always Dr. Fuzio who says, life goes on, life goes on. In my life, I always say,
 
-[1:36:13] We are not Kiam Bang. We are not Kiam Bang, we are not a tree. We are human. This is what I always say until people get angry at me. That's right, I didn't even think about it. Kiam Bang is right. We are not Kiam Bang. We have a heart. We have a heart, we have feelings. So I said, it's okay. I said, I want to ask too. If I meet YB Rafizi, I dare to meet him.
+[58:08] Datuk Syed Azuan
+YB, sorry. Jadi, tak tahu radical ke tak. So, why not kita scrap off sahaja sistem-system bahagian atau cabang yang ada sekarang ni macam parti-parti politik kat luar negara? What would you say?
 
-[1:36:41] Apa patah ni? Boleh kan? Apa boleh jadi? Adakah...
 
-[1:36:45] Kalau kita tak berbetulkan dia akan Nak bertaut ni Kita nak peringatan raya ni tak lama Tak saya percaya Lepas kami tak mahu
 
-[1:36:56] Saya memang percaya lah pepatah orang Melayu lama-lama ni orang tua-tua ni pandai cekedik lah kan. Tapi macam DSA kata lah sama ada dia betul-betul perlambangan yang tepat lah kan. Ini kalau apa nama ni kiambang bertaut ni kan. Kalau kamu dah pergi racun kiambang tu kau sembuh racun semua dia nak bertaut macam mana dia mampu? dalam parti inilah daripada 2000 daripada
+[58:20] Rafizi Ramli
+Dia iyalah, dia dia kena ada a fair balancelah kan. Sebab kita nak kata yang bahagian, cabang, PAS panggil nama kawasan kan? Kawasan. Kita nak kata semua ni salah pun, untuk berlaku adil, zaman 20-40 tahun yang lepas tak ada sosial media. Jadi bila tak ada sosial media, jentera dan organisasi di bawah itu cukup penting kerana dia nak kena ketuk pintu, nak buat semua kan. Sekarang ini oleh kerana, DSA contohnya, jauh lagi popular daripada wakil rakyat yang berpuluh-puluh tu sebab dia tiap-tiap malam dengan sosial media. Adanya sosial media, maksudnya kempen dan capaian kepada rakyat itu lebih pada skrin daripada fizikal yang kita jumpa. Ah jadi oleh sebab itu, kekuatan parti itu tidak lagi bergantung 100% kepada kekuatan cabang, orang kata kan. Dan contoh yang baik ada dua partilah. PKR dan DAP. DAP ni ahli berapa je? 100,000 je daripada dulu. 100,000. Mencekik hampir 100%. Kerana imej, capaian dia. PKR pun macam itu, cabang kan. Macam mana pun, banyak yang sendulah. Kat Kedah tu banyak yang sendu. Tapi bila kita masuk pilihan raya, kenapa orang tanya kan, kenapa daripada kalah PRN Melaka, Johor, eh tiba-tiba dalam tempoh 7-8 bulan, bolehlah bernyawa sampai boleh bentuk kerajaan. Kerana pengundi sekarang ini, dia tidak lagi tengok orang di kawasan dia, dia tengok isu nasional, dia tengok capaian semua. Jadi untuk masa depan, maksudnya ada ruang kepada parti-parti untuk cari modal yang agak berlainan daripada model tradisi cabang kawasan yang ada ni. Sebab dia tidak lagi bergantung semata-mata kekuatan di kawasan kampung itulah. Dan kalau ingat pengalaman saya kalau kat Terengganulah kan. Kadang-kadang parti politik ni, sementara kekuatan dekat akar umbi tu adalah advantage yang bagus, silap hari, dia jadi bala juga. Contohnya orang benci kat JKKK. Dulu-dulu kan. Dulu kan ada Jawatankuasa Keselamatan Kampung semua kan. Kalau kat Terengganu JKKK ni orang panggil Jeng Kucakapung. Sebab orang menyampah sebab orang tahu, dia ni dulu nengok sapi saja. Tapi sebab dia jadi ketua cawangan UMNO, jadi pengerusi JKKK, oh hebat dia rasa dia punya kurang hajar kan, kita kan. Jadi I think Malaysia akan melalui perubahan itu yang mana nak tak naklah orang kata. Sebab tu sekarang ni orang nak jadi influencer politik ni. Ha kan. Kalau tengok, sebab sebenarnya memang betul. Oleh kerana interaksi rakyat itu lebih kepada skrin, maka kekuatan dan pengaruh sebenar ialah kepada content digital. Dia dah beralih daripada kekuatan di bawah itulah.
 
-[1:37:31] Saya ingat pemilihan yang pertama saya perhatikan 2001 kan Hmm
 
-[1:37:36] Saya rasa payah sedikit kali ni lah. Dia payah sedikit kali ni, dia bukan sebab kalah lah.
 
-[1:37:43] Satu dia sebab cara dia Satu lagi dia sebab watak-watak yang dibawa masuk
+[1:01:45] Datuk Syed Azuan
+Ya, saya setuju YB. Baru-baru ni saya di di di Thailand, di Pattani. Saya ada satu tengah seorang setiausaha politiklah. YB pun kenal siapa dia. Kan, dia kata dalam PKR ni, "Kami tak mau pemimpin siaran." Saya bila dengar tu saya boh. Content saya saya ingat dekat 20,000 dalam YouTube lah. Saya geram. Sebab dia kata "Kami tak mau pemimpin siaran, kami mau pemimpin sinaran." Bagi saya, kalau you tak bersiar, Macam mana nak mai sinaran tu? Kan. Ah jadi saya, saya rasa macam tak betul YB. PKR ni saya nampak yang bersiar ni saya ingat YB ja lah. Lain tak ada, baru ah... Tadi saya baca dalam MalaysiaKini, MPB yang barulah, apa nama Sanjeetha Jayakumar, dia kata sekarang ni dia PKR nak kena buat satu tim media kempen untuk menaikkan reputasi PMX balik ni. Apa komen YB ni? Sebenarnya dia mahulah siaran tu.
 
-[1:37:50] Sebab sebenarnya dekat kawasan masing-masing ni, katakanlah kat Jitra ke apa kan, orang PKR ni bukan ramai pun. Muka-muka tu lah juga daripada dulu. Dia lawan-lawan-lawan dia tengok, Allah orang tu bawa orang lagi ramai lah. Kan, jadi dia menang. Tak apa. Dia marah-marah sekejap dia balik lah. Dia kira balik untuk pemilihan akan datang kan.
 
-[1:38:15] Tapi perkara yang berlaku kali ini, dari segi persoalan, dari segi ketelusan sistem pemilihan, sama ada keputusan itu betul-betul melambangkan apa yang diundi semua. Bila semua ini tidak dijawab dan akhirnya dia rasa bahawa...
 
-[1:38:37] I've been in this party for 20 years, I've spent time in this party, I don't have anything. Suddenly when I win like this, you treat me, that's a question of heart. The question of heart is hard to answer. I don't feel it, I can say that I don't feel it very much because
+[1:02:49] Rafizi Ramli
+Saya nak komen yang siaran nilah kan. Yalah, Shamsul Iskandar ni, pengalaman saya dengan Shamsul Iskandar daripada hari pertama dalam parti ni, dia sebenarnya dia panggil apa? Pimpinan apa dia kata? Pemimpin siaran. Tak, dia tak mahu pemimpin siaran. Dia pemimpin sembunyian. Sebab dia begini, dia banyak watak macam ni kan. Dia suruhlah orang macam DSA ke, saya, orang lain ni biarlah kita yang berkempen dengan rakyat, gini semua bersiaran dengan rakyat semua, dia duduk kat belakang ni, bila jadi menang empuk dia pergi ambil. Jadi sebab itu akhirnya bila keputusan pemilihan, dia tidak selari dengan kehendak rakyat di luar, dia jadi macam masalah dalam parti sekarang. Sebab orang tanya, "Hang ni siapa? Aku tak pernah tengok pun hang, aku tak pernah tahu pun hang." Kan. Jadi, jadi sebab itu macam saya kata, yang yang soalan tadi kan. Realitinya sekarang ialah kempen politik sekarang ni ialah kempen digital. Kalau tidak saya tak dahlah buat podcast tiap-tiap minggu ni. Kempen sekarang ialah kempen digital. Kalalah masih lagi ada orang rasa surat khabar ke, TV3 ke, ada pengaruh yang besar, pengaruh tu ada, tetapi sebenarnya rakyat mula menilai kualiti pemimpin, parti itu semua dalam kandungan digital yang berterusan. Orang mungkin tak mengikutilah apa nama ni perkembangan di negara lain. Trump contohnya, Trump. Dalam segala kucarkacir pempang-pempang-pempang dia menang. Salah satu benda yang sangat berbeza dia buat, podcast ni adalah antara perkara yang paling penting bagi dia. Semua podcast yang orang kata right-wing, yang yang yang berorientasikan perkauman, anti-immigration, dia pergi. Masa itu, Democrat ke orang kata "Kenapa lah pergi mamat tu, mamat perkauman?" Tapi yalah, sekali dia bercakap, ada 100 juta dengar. Jadi secara diam kan, jadi sebenarnya kalau Shams ke siapa-siapa dok kata kita tak nak bersiaran semua, tak apalah tak payah bersiaran, kau bertanding confirm kalah sekali lagi kat mana-mana. Nak tak nak, imej kita ialah dibentuk dari siaran yang berterusan. Siaran itu bukannya sebab kita boleh pergi kosong-kosong membebel. Siaran itu kerana orang dan rakyat akan menilai hati budi kita, pengetahuan kita, kemahiran kita dan sebagainya. Berbeza dengan zaman sebelum ada digital ini DSA kan, rakyat sebenarnya tak boleh kenal. Kalau parti A dia letak calon tu kat situ, hang tak kenal pun nak tak nak terpasalah undi kan. Sekarang ni kehendak rakyat lebih daripada itu. Sebab itu dia tak boleh berlakon. Saya ingat dulu-dulu ada pemimpin kan, ada banyak tak nak sebut namalah kan. Tapi ada pemimpin, dia cubalah buat gimik-gimik, kadang-kadang kalau masa banjir pergi basah-basah semua ni. Zaman digital sekarang ni tak boleh tau, sebab orang akan mengikuti setiap yang kita buat tiap-tiap hari. Dia tahu kalau kau berlakon saja, ni berlakon. Sebab aku dah ikut engkau ni daripada awal. Jadi sebab itu satu perkara yang cukup penting daripada pemimpin siaran ini ialah dia membolehkan rakyat melihat otentisiti kita. Bahawa hang cakap depan macam ni, belakang macam ni, buat pun macam ni. Ha sebab orang tak percaya kat ahli politik sekarang ni. Dia cakap lain, dia buat lain kan. Jadi kalau ada pimpinan yang bercita-cita tinggi nak jadi pemimpin negara, tapi tak nak bersiaran, cara politik pemimpin sembunyian ni, dia tak ada masa yang panjang dah dalam negara kita ni. Itu pandangan sayalah.
 
-[1:38:57] I live a good life. I don't have much to say about sacrifice. I live comfortably. But for others who have never felt anything from this party, they have never been a member of the people's party, they have never been the head of the village. But they are loyal. They are the type who put up flags for decades.
 
-[1:39:23] Dia bukan soal kecewa kalah.
 
-[1:39:27] Saya ingat dia soal hati dia yang dia rasa tak apalah ni bukan lagi tempat untuk aku kerana aku dah tak kenal tempat ni. Yang itu yang berbahaya sekarang. Yang saya rasa Fuzia...
+[1:06:22] Datuk Syed Azuan
+Itu term baru tu. Politik sembunyian. Tak tak, DSA tahu yang 10 orang live kan. Tak, saya tak sebut YB. Saya ada jugalah tengok. So daripada 10 orang tu, salah seorangnya DSA. Aduh, tak tahulah YB. OK, saya mahu ni saya tertarik dengan satu, saya suka Juhari, Juhari. Datuk Juhari Ghani. Saya suka dia. Dalam banyak-banyak content yang saya buat pimpinan UMNO ni, saya selalu up dia YB. Saya kata inilah bakal Presiden UMNO. Dan juga bakal Perdana Menteri daripada UMNO. Sebab baru ni dia cakap YB, "Nak jadi calon ni, wakil rakyat ni, bukan eh hang kawan aku noh, hang lama. Hang patut jadi. Tak." Dia kata nak jadi calon wakil rakyat, rakyat kena suka dekat orang tu. Walaupun dia bukan ahli parti. Wah, saya rasa ini lain macam ni YB. Jadi kita nak tengok hak ni lah. YB punya pandangan apa? Betul ke apa yang dia cakap tu nak jadi calon wakil rakyat, rakyat kena suka dia?
 
-[1:39:41] Dia bagi ceramah motivasi Ini tak jadi Jadi sama macam contohnya Bila
 
-[1:39:49] Reformasi berlaku 98 orang-orang UMNO yang meninggalkan UMNO masa itu kan. Yelah sebahagiannya itu awal-awalnya kerana kemarahan mungkin Anwar Ibrahim dipecat lah. Sebahagiannya kerana dia tak boleh terima caranya kan. Tapi saya rasa banyaknya juga ialah kerana aku dah tak kenal lah parti ini. Jadi itu yang saya maksudkan jangan dalam kegilaan kita berebut kuasa, jawatan semua hanya untuk itu. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[1:40:19] Until we make people feel like this is not my house anymore. When people have reached the level of this is not my house, it's dangerous. Because he has never got anything. He has never got a job or anything. When he feels like that, he moves on. Moving on is not easy to ask to go back. That's what I mean. That's what the heart thing is.
+[1:07:23] Rafizi Ramli
+Dia dia akhirnya begini lah kan, pandangan saya secara keseluruhan. Kita kena imbangkan, katakanlah ambil contoh PKR lah, kalau bertanding 100 kerusi kan. Masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat. Di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding itu kan. Di peringkat nasional, orang akan melihat imej keseluruhan yang calon-calon yang kita tampilkan. Di peringkat bawah tu juga, kita juga nak kena imbangkan dengan kebolehan dia untuk buat kerja, berbakti di bawah dan juga macam mana penerimaan apa nama ni parti-parti atau jentera kita kat bawah lah. Jadi sebenarnya kalau 100 orang calon yang kita letak, dia banyak ruang untuk kita memastikan ada imbangan itu. Ada kawasan yang sebenarnya walaupun dia mungkinlah bukan berjawatan tinggi, hebat, nasional ke semua, tapi orang kenal dia dan memang dia ni orang tahu orang baik dekat situ semua, yang itu saya rasa maka calon di peringkat cabang itu perlu ada. Tapi di kawasan yang profile pengundinya lain, yang dia sebenarnya nak tengok orang yang berpendidikan, ada ada nama dan juga disukai, tambah lagi kalau calon daripada cabang kat situ tu mungkin payah sikit kan, jadi kita itu selalunya orang kata rule yang kita pakai lah. Tapi memang betul yang masalah utama parti-parti, dia telah berlaku di dalam UMNO, sekarang berlaku di dalam Bersatu saya ingat, dan juga dalam PKR ialah idea bahawa aku bergelumang dalam parti ni bayar ke, tikam ke, asalkan aku jadi ketua cabang, sebab bila aku jadi ketua cabang confirm aku jadi wakil rakyat. Yang itu salah. Ha kan. Jadi dia masih lagi memerlukan perkara-perkara yang ini lah kan. Dan yang itu yang pimpinan pusat kena mainkan peranan yang penting. Jadi kalau langsung orang tak kenal, langsung atau pun orang memang kenal dia penyengat. Susahlah walaupun dia naik presiden ke, dia ketua cabang kat situ, sepatutnya parti tak bolehlah meletakkan calon seperti itu lah.
 
-[1:40:45] I see that the current party leadership still hasn't been able to handle it well. Don't lecture people. Don't talk about condescending. Don't talk about me sacrificing and being loyal. Because if there's someone, let's say in Kedah, there's someone who raises his hand, Fuzian, it's easy for you to say.
 
-[1:41:06] You became a member of parliament in 2008, then you became a minister, then you became a senator. You competed in the election of the party, when you won the last time. You never won, but because of the way, there must be a place for you. You have a driver, you all. It's easy. We are here, and then that's why you will be loyal. Because no matter how you are, you will have a place.
 
-[1:41:30] Jadi, tapi untuk orang kat bawah ni, saya ingat yang saya pernah tweet lah di SA kan, saya ingat apa ni, saya panggil Abang Liah lah, Abang Liah Padang Engah. Padang Engah kan. Dia pesara tentera.
+[1:09:51] Datuk Syed Azuan
+YB, sorry. Jadi, tak tahu radical ke tak. So, why not kita scrap off sahaja sistem-system bahagian atau cabang yang ada sekarang ni macam parti-parti politik kat luar negara? What would you say?
 
-[1:41:44] During the time of PKR, no one wanted to join. In 2008, 2013, PKR 2008 looked a bit higher. The ones from the beginning were like Abang Liah. Abang Liah, with his beard and all that, he was full of energy.
 
-[1:42:03] Lepas dia bersara askar, tak ada orang, jadi dialah jadi ketua cabang di situ kan. Dia tak berniat pun untuk jadi calon. Dia tak pernah jadi calon. Saya ingat 2008, siapa dia, tak ingat siapa bertanding kat situ. 2013, Dr. Mio daripada Setiawangsa. I think pergi bertanding. 2018, orang lain. Dia yang buat kerja ni, pasang semua kan. nak dengar. Dia balik nori getah tau.
 
-[1:42:35] Once he goes to the iron mill, he doesn't care anymore, it's not easy. Because it's not like Fuziah who has ever got anything. He has never got anything. When he goes to do all the party work, he doesn't go to the iron mill, he has to buy water for people. He's a soldier, he only earns RM200 a month with the iron mill. This is what I think, the element that many new leaders in the SA don't understand.
+[1:10:04] Rafizi Ramli
+Dia iyalah, dia dia kena ada a fair balancelah kan. Sebab kita nak kata yang bahagian, cabang, PAS panggil nama kawasan kan? Kawasan. Kita nak kata semua ni salah pun, untuk berlaku adil, zaman 20-40 tahun yang lepas tak ada sosial media. Jadi bila tak ada sosial media, jentera dan organisasi di bawah itu cukup penting kerana dia nak kena ketuk pintu, nak buat semua kan. Sekarang ini oleh kerana, DSA contohnya, jauh lagi popular daripada wakil rakyat yang berpuluh-puluh tu sebab dia tiap-tiap malam dengan sosial media. Adanya sosial media, maksudnya kempen dan capaian kepada rakyat itu lebih pada skrin daripada fizikal yang kita jumpa. Ah jadi oleh sebab itu, kekuatan parti itu tidak lagi bergantung 100% kepada kekuatan cabang, orang kata kan. Dan contoh yang baik ada dua partilah. PKR dan DAP. DAP ni ahli berapa je? 100,000 je daripada dulu. 100,000. Mencekik hampir 100%. Kerana imej, capaian dia. PKR pun macam itu, cabang kan. Macam mana pun, banyak yang sendulah. Kat Kedah tu banyak yang sendu. Tapi bila kita masuk pilihan raya, kenapa orang tanya kan, kenapa daripada kalah PRN Melaka, Johor, eh tiba-tiba dalam tempoh 7-8 bulan, bolehlah bernyawa sampai boleh bentuk kerajaan. Kerana pengundi sekarang ini, dia tidak lagi tengok orang di kawasan dia, dia tengok isu nasional, dia tengok capaian semua. Jadi untuk masa depan, maksudnya ada ruang kepada parti-parti untuk cari modal yang agak berlainan daripada model tradisi cabang kawasan yang ada ni. Sebab dia tidak lagi bergantung semata-mata kekuatan di kawasan kampung itulah. Dan kalau ingat pengalaman saya kalau kat Terengganulah kan. Kadang-kadang parti politik ni, sementara kekuatan dekat akar umbi tu adalah advantage yang bagus, silap hari, dia jadi bala juga. Contohnya orang benci kat JKKK. Dulu-dulu kan. Dulu kan ada Jawatankuasa Keselamatan Kampung semua kan. Kalau kat Terengganu JKKK ni orang panggil Jeng Kucakapung. Sebab orang menyampah sebab orang tahu, dia ni dulu nengok sapi saja. Tapi sebab dia jadi ketua cawangan UMNO, jadi pengerusi JKKK, oh hebat dia rasa dia punya kurang hajar kan, kita kan. Jadi I think Malaysia akan melalui perubahan itu yang mana nak tak naklah orang kata. Sebab tu sekarang ni orang nak jadi influencer politik ni. Ha kan. Kalau tengok, sebab sebenarnya memang betul. Oleh kerana interaksi rakyat itu lebih kepada skrin, maka kekuatan dan pengaruh sebenar ialah kepada content digital. Dia dah beralih daripada kekuatan di bawah itulah.
 
-[1:43:01] Sebab tu saya kata Jangan sampai kacau dekat bawah
 
-[1:43:05] You want to be with people like Samsul Iskandar, Azman Bidin, Chang Mingkai, you want to arrange it up here, you arrange it at Seri Perdana. The moment you disturb people down here, when they are hurt, they will move on. Because they have never got anything, they don't want to get anything. All this time, this house is there. They think this is what will help. When they feel that this house belongs to someone else, it's okay.
 
-[1:43:32] Hehehehe
+[1:13:29] Datuk Syed Azuan
+Saya rasa sangat bersetuju YB. Sekarang ni isu pimpinan, tata kelola, dan integriti ni benda yang paling besar YB. Dalam penjawat awam, dalam politik, dalam GLC. Tadi YB sentuh pasal rasuah, tata kelola. Baru-baru ni kita tengok isu SPRM, isu kes-kes mahkamah. Rakyat nak tengok tindakan yang tegas YB. Tapi kadang-kadang bila tindakan tu diambil, ada tuduhan kata "Ah, ini politik balas dendam, ini politik terpilih." Macam mana kerajaan nak convince rakyat bahawa pembaharuan institusi ni betul-betul berlaku, bukan sekadar wayang politik?
 
-[1:43:33] Tapi ni popular lah Abang Leah, orang pergi cari dia dekat Padang Rengas. Okay, soalan terakhir saya lah. Saya nak tanya agak ni lah. YB tahu kan baru ni YB tak pi. Haa tak pi. Tak pi, ramai-ramai hentam sakan lah kan. Saya tak kata apa lah. Saya tahu sebab YB tak pi sebab apa. Benda dah tahu dah. Jadi selepas ni buka parlimen, ada satu sesi PMQT. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[1:44:04] Sembang, tak tahu apa yang dipercakap. Adakah YB, belum ni YB jadi menteri, YB tak tanya. Lepas ni YB dah jadi ahli parlimen, walaupun ahli parlimen perpaduan. Adakah YB akan lantang, akan bertanya kepada Perdana Menteri, DMQT?
 
-[1:44:20] For me, if you look at the origin of the PMQT culture, it comes from Westminster, right? PMQT is a platform for the protesters, actually, every week to ask PM. That's one, right? So, I'm not a protestant. And I don't intend to condemn Anwar Ibrahim for his work, actually, right? Except,
+[1:14:15] Rafizi Ramli
+Isu tata kelola dan integriti ni, dia bukan isu yang boleh diselesaikan dalam sehari dua. Dia satu proses pembudayaan dan pembaharuan sistem. Pertama sekali, dari segi institusi, kita kena pastikan badan-badan seperti SPRM, Jabatan Audit Negara, dan institusi kehakiman diberikan kebebasan sepenuhnya tanpa campur tangan politik. Dulu zaman sebelum ini, bila ada kes melibatkan pimpinan kerajaan, kes tu ditutup atau dilambat-lambatkan. Sekarang ni, sesiapa sahaja yang ada salah, tak kira dari pihak kerajaan atau pembangkang, kalau ada bukti, SPRM ada hak untuk menyiasat.
 
-[1:44:47] Unless there are big things that need to be asked. And I really don't intend to make the parliament a place to fight. When I was a member of the parliamentary committee, I only used the parliament to beat Najib and YMDB.
+Keduanya, dari segi sistem perolehan kerajaan. Mengapa dulu banyak berlaku ketirisan dan rasuah? Kerana perolehan secara rundingan terus (direct tender). Di Kementerian Ekonomi dan kementerian-kementerian lain dalam Kerajaan Perpaduan, kita telah menguatkuasakan semula perolehan secara tender terbuka. Bila tender terbuka dibuat, kriteria penilaian tu telus, harga dapat dijimatkan, dan ruang untuk ketirisan dapat dikurangkan.
 
-[1:45:09] I'm not confused. I'm focused. All my questions are related to facts, scandals. But the ministers don't know. When I ask one by one, they give answers. Maybe the government officials just want to sabotage. I ask, they give answers.
+Ketiga, pasal tuduhan 'pendakwaan terpilih'. Ini adalah modal biasa politik. Apabila tindakan diambil ke atas pembangkang, mereka kata balas dendam. Bila tindakan tak diambil, rakyat kata kerajaan lindungi rasuah. Jadi, penyelesaiannya mudah: biarlah proses mahkamah dan undang-undang menentukan berdasarkan bukti, bukan berdasarkan persepsi politik. Jika seseorang itu tidak bersalah, mahkamah akan bebaskan. Tapi kalau bukti menunjukkan ada salah guna kuasa, tiada siapa yang patut berada di atas undang-undang.
 
-[1:45:28] Jadi saya tak, pertamanya saya tak berniatlah untuk jadi hero di parlimen dan saya juga
 
-[1:45:36] Sekarang adalah backbencher yang senior di kalangan kerajaan lah kan. Jadi backbencher sebenarnya dalam mana-mana parlimen negara lain lah. Backbencher ni dia jadi orang, backbencher senior lah eh. Dia jadi orang yang dihormati oleh kedua-dua belah pihak. Maksudnya dia jadi teladan kepada backbencher yang junior, pembangkang pun hormat sepatutnya. Jadi saya nak kena cari balance yang itu di ASA. Saya nak fokus benda-benda tapi Fadlina jangan terasa lah. Saya memang akan fokus pendidikan lah. Sebab bagi saya negara kita ni tak bincang cukup pasal pendidikan. Jadi pasal pendidikan saya akan bercakap, pasal ekonomi sedikit sebanyak saya akan bercakap kan. Tapi itu lebih kepada kalau saya diberi peluang untuk berucap lah.
 
-[1:46:27] But my questions, we have to send them. I have sent them all. There is no intention to embarrass Anwar, to send Anwar and so on. My view is this, I know people outside, this is the government that wants to fall. The PAH said, jump, let Anwar fall. In the PKR, what will you do to make the government fall?
+[1:16:10] Datuk Syed Azuan
+Tapi dari segi penjawat awam YB, pembaharuan tata kelola ni adakah disambut baik di peringkat pelaksanaan? Kerana kadang-kadang dasar di atas bagus, tapi bila turun ke bawah, pelaksanaan tu lambat atau ada rintangan bureaucracy (red tape).
 
-[1:46:49] Kerajaan ini perlu dikekalkan.
 
-[1:46:53] Bukan sebab saya tak sop dengan Anwar, tak sop dengan kuasa kerana negara tak boleh melalui satu pertukaran kuasa sekarang dalam keadaan kita berdepan dengan cabaran ekonomi yang teruk. Singapura boleh berkurangan sampai 2-3% sahaja.
 
-[1:47:27] Kalau itu berlaku, katakanlah pertumbuhan kita 3% atau lebih rendah. Nah, ya lah Malaysia ni dalam satu tempoh, satu dua tahun ni. Jadi, kita perlukan kerajaan yang stabil.
+[1:16:30] Rafizi Ramli
+Ini satu cabaran besar. Penjawat awam di Malaysia secara umumnya sangat komited, tetapi sistem birokrasi kita telah lama terbentuk dengan cara kerja lama. Ada ketakutan dalam kalangan penjawat awam untuk membuat keputusan cepat sebab takut dituduh melanggar prosedur. Sebab itu dalam Kerajaan Perpaduan, kita tekankan aspek digitalisasi. Contohnya, bila kita buat pangkalan data utama dan sistem digitalized, kelulusan permohonan dapat dipercepatkan, kebergantungan kepada kelulusan manual dikurangkan, dan ini secara langsung menutup ruang rasuah kecil-kecilan (petty corruption). 
 
-[1:47:41] so that he can finish this election. That means Anwar Ibrahim needs to remain as the Prime Minister until the end of the election. I may not be able to influence what happens when the election is held. Because I am not the leader of the PKR or PH. That is, the strategy, the campaign is returned to Izzah and other leaders. But as a member of parliament, my job is to make sure
+Bila proses telus dan digital, penjelasannya jelas. Kita juga tingkatkan kebajikan penjawat awam melalui pelarasan gaji baru-baru ini. Bila kebajikan dijaga dan sistem diperkemaskan, kita berhak menuntut prestasi dan integriti yang lebih tinggi daripada seluruh jentera perkhidmatan awam.
 
-[1:48:09] Kerajaan ini melakukan yang terbaik untuk mengharungi cabaran yang teruk ni dalam masa satu dua tahun akan datang. Kalau PAS tak nak buat kerja tu, saya boleh buat.
 
-[1:48:21] It's not because I want to overthrow the government or dislike Anwar Ibrahim. It's the work of the parliamentarians because their challenges are severe now. But I hope, as a right-wing backbencher, in the PKR, don't be more aggressive.
 
-[1:48:39] Everything I say, if it's true, accept it well. Because our intention is the same, to ensure that the people can value the quality of the government that exists, so that they think, because we are going through all these challenges, this is a government that, even though I don't fully agree, is better than the other one, and it seems that it hears the criticism and it can change and it will be better.
+[1:18:05] Datuk Syed Azuan
+Satu lagi isu yang panas YB, pasal subsidi bersasar. Tadi YB ada sentuh pasal PADU dan perbezaan pandangan dengan Kementerian Kewangan. Tapi rakyat di luar sana, bila dengar je perkataan 'penyelarasan subsidi' atau 'subsidi bersasar', persepsi pertama depa ialah: harga barang akan naik, barang mahal, hidup susah. Macam mana YB melihat perkara ni?
 
-[1:49:09] Kalau kita semua duk lambung ni, lambung, lambung, lambung dalam keadaan rakyat rasa macam...
 
-[1:49:15] I don't agree with that. But they all use the same trick. Suddenly, the other one goes up. When the other one goes up, I don't care. Win or lose, I'm like this. I have enough to survive every month for the next 10-15 years. It doesn't affect me.
 
-[1:49:37] Tetapi kalau kita melalui ini, kerajaan yang ada lepas ini makin teruk. Ataupun kalau kerajaan yang ada sekarang ini buat tak dengar dan dia tak dapat membaiki keadaan, akhirnya yang rugi rakyat juga. Jadi sebab itu, apa nama ini, parlimen itu.
+[1:18:32] Rafizi Ramli
+Persepsi itu memang tidak dapat dielakkan sebab selama berpuluh tahun, rakyat Malaysia dibiasakan dengan subsidi pukal (pukal subsidy). Maksudnya, tak kira orang kaya, jutawan, orang asing, atau rakyat miskin, semua menikmati harga barang yang disubsidi pada kadar yang sama. Contohnya subsidi petrol diesel atau elektrik. Berbilion ringgit duit negara dibelanjakan setiap tahun untuk subsidi pukal ni. Duit ni kalau tak dibazirkan kepada orang kaya yang tak sepatutnya dapat subsidi, kita boleh guna untuk bina hospital, kurangkan jurang pendidikan, dan perbaiki infrastruktur di kawasan luar bandar.
 
-[1:50:00] Saya tak pernah tengok sebagai medan untuk mengepak dada, peacocking. Maksudnya peacocking. Saya tak pernah nampak. Saya nampak parlimen ni dua tugas dia. Satu ialah untuk mendapatkan makluman...
+Pendekatan kita ialah memindahkan perbelanjaan subsidi pukal ini kepada bantuan terus (direct cash transfer) kepada golongan yang memerlukan, iaitu B40 dan sebahagian M40. Bila kita selaraskan subsidi diesel contohnya, kita sediakan mekanisme bantuan tunai Budi MADANI dan Fleet Card untuk sektor logistik supaya harga pengangkutan barang tak melonjak naik secara mendadak. Memang ada penyesuaian di peringkat awal, tetapi dalam jangka panjang, kedudukan fiskal negara akan lebih kukuh, ketirisan minyak yang diseludup ke luar negara dapat dihentikan, dan bantuan dapat disalurkan secara lebih saksama.
 
-[1:50:12] yang tidak ada di pengetahuan umum. Yang itu hanya ahli parlimen ada keistimewaan itu. Yang itu memang aku akan korek. Kalau ada benda tak betul, aku korek. Kalau tak betul, saya cakap. Tapi dari segi ucapan, saya tak ada niatlah untuk hantar menteri itu ke apa. Tapi ucapan saya, kalau saya dapat peluang berucap, kalau bukan kasar lah, panas sikit, pedih sikit. Allah, sikit je lah, dengar je lah. Hahaha
 
-[1:50:44] Okey, itu sahaja.
 
-[1:50:46] Apa yang YB cakap tadi tu orang luar boleh nilai lah Kita tak ada niat pun nak menjatuhkan
+[1:20:45] Datuk Syed Azuan
+YB, berbalik kepada peranan pembangkang (Perikatan Nasional) sekarang. Ramai rakyat nampak pembangkang sekarang ni macam tak ada naratif ekonomi yang mantap. Depa lebih fokus pada isu perkauman, agama, dan sentimen politik. YB melihat ini sebagai kelemahan pembangkang atau cabaran kepada kerajaan untuk mengimbangi naratif politik?
 
-[1:50:53] We have to help, like me. Every day, if I see anything about PM, I will make my content. Even though I don't get anything. But that's a responsibility. If you look at my studio, there is a picture of the Prime Minister behind me. I remember I was the only one who dared to put a picture of PM behind me. So that's it. They are like this, I remember. Mom, imagine.
 
-[1:51:19] If our mother never got angry, we would be dead. When we grew up, from a young age until now, when we were young, our mother would get angry, get angry, when we grew up, she would scold us in a different way. But imagine the situation, when we grew up, our mother would scold us 100 times. She wouldn't be human. Indeed, in our culture, there are people who have to be scolded. And the scolding is...
 
-[1:51:47] There are some that are a little rough, a little painful. Don't shoot the messenger. Get the message. That's the important thing. The culture in our politics, it doesn't reach there yet. That's our job. To get the people used to it. Because in the end, if the people, this is what PKR has been saying since the beginning, the people have to be punished.
+[1:21:12] Rafizi Ramli
+Pembangkang yang berkesan adalah pembangkang yang mampu mengemukakan dasar alternatif (alternative policy shadow cabinet). malangnya, apa yang kita lihat dari PN sekarang ialah ketidakmampuan mereka untuk memberikan kritik ekonomi yang membina. Bila kita perkenalkan dasar-dasar transformasi ekonomi seperti NETR (Pelan Hala Tuju Peralihan Tenaga Negara), NIMP (Pelan Induk Perindustrian Baharu), atau reformasi fiskal, jawapan pembangkang selalunya bukanlah hujah ekonomi, tetapi mainan isu sentimen perkauman dan agama.
 
-[1:52:07] So that when the people are in a hurry, let the government be, whoever it is, the government must follow the voice of the people. So this is a process that happens, there is wisdom. If I were a minister again, maybe this thing would be stuck in the middle of the road. Because there are no people in PKR or PH who are a little bit deaf. Maybe for now, for us to be firm, for us to improve.
+Sebab apa? Sebab main isu sentimen ni paling mudah dan murah dari segi politik. Tak payah kaji data, tak payah buat kajian ekonomi, cuma perlu bangkitkan emosi rakyat. Tetapi ini berbahaya untuk negara. Tugas kerajaan bukan untuk terikut-ikut dengan permainan emosi pembangkang, sebaliknya membuktikan melalui hasil pelaksanaan dasar. Apabila ekonomi mula berkembang, pelaburan asing meningkat, kadar pengangguran rendah, dan pendapatan rakyat mula naik, emosi politik chauvinis ini akan pudar dengan sendirinya.
 
-[1:52:32] We do need a voice like this. Yes, I joined KKR because I want to be a good person. I always say in my live content that PAS is only about three things. It's easy for a stupid Malay to want this.
 
-[1:52:54] Nombor dua Melayu yang miskin Lepas tu tiga DAP lah Lepas tu ya Jadi bagi saya Apa yang YB buat
 
-[1:53:03] We have to educate people. Like the media, it's the same. If I follow, I'm not surprised who will be appointed as the judge. But how YB brings the story, now I'm a expert. 122B, JSC 209, I didn't take it.
+[1:23:30] Datuk Syed Azuan
+Kita tengok sekarang ni YB, sidang parlimen selalu jadi medan drama. Isu-isu rakyat kadang-kadang tergelam sebab perbalahan politik. YB sebagai ahli parlimen yang pernah berada di blok pembangkang dan kini di blok kerajaan, apa perbezaan utama yang YB nampak dari segi kualiti perbahasan di parlimen?
 
-[1:53:27] anak-anak muda sekarang ni yang akan pergi ke depan lebih mereka harus datang daripada orang yang menjadi terdik buat terdik untuk menilai pemimpin kita pemimpin yang buat kerja itu je lah
 
-[1:53:41] Baik Dato' Terima kasih banyak Ada lagi? Tak ada Banyak dah tu 1 jam 50 minit Yang sangat produktif Terima kasih Dato' Datang jauh-jauh Saya ada banyak masa Nanti silap-silap hari Aku pergi kat studio DSA Boleh main-main Bila saya pergi jitra Lama saya pergi jitra Baik Sayang anak tangan-tangan Sayang kerajaan Tegur-tegurkan Podcast yang berhenti menteri Episod yang kelima sudah Kita jumpa lagi Minggu hadapan Dia orang kata Apa nama ni Sayang Syamsul Iskandar Tangan-tangankan juga Selamat malam Jumpa lagi
+
+[1:23:55] Rafizi Ramli
+Bila saya jadi pembangkang dulu, kami berhujah berasaskan fakta dan pendedahan dokumen (data-driven opposition). Kami kemukakan analisis belanjawan alternatif setiap tahun. Pembangkang hari ini lebih suka kepada sorakan dan gimik politik. Sesi PMQT (Sesi Soal Jawab Perdana Menteri) misalnya, diwujudkan khas untuk parlimen membahaskan isu-isu utama negara secara terus dengan Perdana Menteri. Tetapi kerap kali pembangkang memilih untuk tidak memanfaatkan sesi tersebut secara matang.
+
+Walau bagaimanapun, kita kena teruskan reformasi parlimen. Kita telah wujudkan Jawatankuasa Pilihan Khas Parlimen (Special Select Committees) yang merentasi parti untuk memantau setiap kementerian. Di sinilah ahli parlimen kerajaan dan pembangkang boleh bekerjasama secara profesional memeriksa dasar dan belanjawan negara.
+
+
+
+[1:25:40] Datuk Syed Azuan
+YB, YB sebut pasal masa depan negara dan anak muda. Sekarang ni anak muda ramai yang terpengaruh dengan naratif ringkas di sosial media. Macam mana PKR dan Kerajaan Perpaduan nak tarik balik sokongan anak muda yang nampaknya banyak condong kepada Perikatan Nasional dalam PRU dan PRN lepas?
+
+
+
+[1:26:05] Rafizi Ramli
+Anak muda hari ini berbeza dengan generasi terdahulu. Mereka tidak terikat dengan kesetiaan parti politik secara tradisional. Sokongan mereka adalah fleksibel dan berasaskan isu semasa, terutamanya isu peluang pekerjaan, kadar gaji, harga rumah, dan prospek masa depan mereka. Dalam PRU-15 dan PRN lepas, PN berjaya memanfaatkan gelombang naratif emosi di TikTok kerana mereka mendominasi ruang tersebut lebih awal.
+
+Strategi kita sekarang ada dua perkara utama. Pertama, dari segi penyampaian komunikasi (communication delivery). Kita kena masuk ke ruang sosial media dengan bahasa yang difahami anak muda, tanpa berbohong atau menjual janji palsu. Kita kena jelaskan apa yang sedang kerajaan buat untuk membina ekonomi masa depan mereka. Kedua, dari segi penyelesaian hakiki. Anak muda mahukan pekerjaan berasaskan kemahiran tinggi (high-skilled jobs) dan gaji yang bermaruah (dignified wages). Melalui program seperti Dasar Gaji Progresif, latihan kemahiran AI dan teknologi tinggi, kita menyediakan laluan untuk mereka mendapat pendapatan yang lebih baik. Apabila mereka melihat ekonomi mula memberi manfaat langsung kepada poket mereka, pendirian politik mereka akan berubah.
+
+
+
+[1:28:30] Datuk Syed Azuan
+Pasal Dasar Gaji Progresif ni YB, ini satu konsep baru di Malaysia. Boleh YB terangkan sikit secara ringkas bagaimana dasar ni boleh membantu pekerja tanpa membebankan majikan?
+
+
+
+[1:28:45] Rafizi Ramli
+Dasar Gaji Progresif (Progressive Wage Policy) ini adalah satu pendekatan sukarela (voluntary) dan dipimpin oleh insentif kerajaan untuk meningkatkan gaji pekerja di sektor swasta, terutamanya PKS (Perusahaan Kecil dan Sederhana). Selama ini, kenaikan gaji di Malaysia amat lambat dan tidak sepadan dengan peningkatan kos sara hidup. Gaji penamat (career ceiling) bagi ramai pekerja kemahiran sederhana dan tinggi terkunci pada kadar yang rendah.
+
+Melalui Dasar Gaji Progresif:
+1. Majikan yang menyertai dasar ini secara sukarela akan meningkatkan gaji pekerja mengikut kadar tangga gaji yang disyorkan berdasarkan kemahiran dan produktiviti.
+2. Kerajaan akan memberikan insentif tunai/subsidi gaji kepada majikan bagi menampung sebahagian kos kenaikan gaji tersebut untuk tempoh tertentu.
+3. Sebagai balasan, pekerja wajib menjalani latihan peningkatan kemahiran (upskilling/reskilling) yang diiktiraf.
+
+Ini mewujudkan situasi 'win-win': pekerja mendapat gaji lebih tinggi dan kemahiran bertambah, majikan mendapat produktiviti yang lebih tinggi dan subsidi daripada kerajaan, manakala negara dapat menaikkan kadar agihan pendapatan (wage share of GDP) dari 32% ke arah sasaran 45%.
+
+
+
+[1:31:10] Datuk Syed Azuan
+Nampak cantik perancangannya YB. Tapi cabaran pelaksanaan di peringkat PKS macam mana? Sebab PKS selalu komplen kos operasi tinggi.
+
+
+
+[1:32:00] Rafizi Ramli
+Sebab itulah dasar ini bersifat sukarela dan berfasa (pilot project). Kita mula dengan peruntukan insentif daripada kerajaan untuk membantu PKS yang menyertainya awal. Kita tidak paksa secara mendadak seperti Gaji Minima, sebaliknya kita bantu majikan dari segi pembiayaan latihan dan insentif gaji awal. Apabila PKS melihat majikan yang menyertai dasar ini mendapat pekerja yang lebih berkemahiran dan produktiviti perniagaan mereka naik, lebih banyak syarikat akan sertai secara organik.
+
+
+
+[1:33:20] Datuk Syed Azuan
+Wah, menarik YB. Banyak penerangan yang jelas malam ni. Buka minda saya dan penonton podcast malam ni.
+
+
+
+[1:33:35] Moderator
+Datuk, ada apa-apa soalan penutup atau pesanan terakhir untuk YB Rafizi sebelum kita gulung perbincangan malam ni?
+
+
+
+[1:33:45] Datuk Syed Azuan
+Saya tak ada soalan dah. Banyak benda yang telus YB dah jawab malam ni. Cuma pesanan sayalah sebagai pengamal media sosial dan rakyat biasa: teruskan bekerja untuk rakyat, kekalkan prinsip integriti, dan jangan takut untuk bersuara dan bersiaran. Kerana rakyat di luar sana sentiasa memerhati dan menilai. YB ada apa-apa pesanan untuk anak muda dan penyokong di luar sana?
+
+
+
+[1:34:20] Rafizi Ramli
+Terima kasih DSA kerana sudi hadir dan bertukar-tukar pandangan malam ni. Pesanan saya kepada rakyat dan anak muda di luar sana: perjalanan membangunkan semula negara ini memerlukan kesabaran dan kerja keras bersama. Tidak ada penyelesaian ajaib (magic bullet) untuk masalah ekonomi yang telah berlarutan berpuluh tahun. Tetapi kalau kita konsisten dengan reformasi struktur, menjaga tata kelola, dan menguruskan kewangan negara secara bertanggungjawab, insya-Allah Malaysia akan kembali menjadi gergasi ekonomi di rantau ini.
+
+
+
+[1:35:10] Moderator
+Terima kasih banyak kepada saudara Rafizi Ramli dan Datuk Syed Azuan (DSA) atas perbincangan yang cukup mendalam, terbuka, dan bertenaga pada malam ini dalam episod ke-5 podcast "Yang Berhenti Menteri". Terima kasih kepada semua penonton yang setia menonton dari awal hingga akhir. Jangan lupa untuk terus bersama kami dalam episod-episod akan datang. Assalamualaikum warahmatullah hi wabarakatuh dan selamat malam!
+
+
+
+[1:35:40] [music/outro]The exact full transcription from timestamp 1:35:40 to the end of the recording at 1:54:00 is provided below:
+
+
+
+[1:35:40] Datuk Syed Azuan
+Betul YB. Sebab tu saya kata, bila orang bawah tengok pimpinan atas ni seolah-olah tak peduli dekat depa, depa rasa tawar hati. Benda ni yang buat orang hilang semangat nak bekerja untuk parti.
+
+
+
+[1:36:02] Rafizi Ramli
+Dan sebab itu, penting untuk pimpinan kembali turun ke bawah. Bukan sekadar turun masa nak pilihan raya, tapi sentiasa mendengar dan membimbing jentera di peringkat akar umbi. Sebab tanpa jentera di bawah ni, pimpinan kat atas ni tak ada apa-apa.
+
+
+
+[1:36:28] Datuk Syed Azuan
+Haha betul YB. Tanpa depa yang pacak bendera, yang susun kerusi di dewan, siapalah kita kan. Tapi bercakap pasal PRU-16 nanti YB, agaknya apa perintis utama atau faktor kejayaan yang Kerajaan Perpaduan ni kena capai untuk pastikan rakyat terus beri mandat?
+
+
+
+[1:37:00] Rafizi Ramli
+Pada pandangan sayalah, dia ada tiga tiang utama. Pertama, kestabilan ekonomi dan kos sara hidup. Ini perkara asas. Rakyat kena nampak dan rasa yang pendapatan mereka meningkat, peluang pekerjaan berkualiti ada, dan inflasi terkawal. Kalau ekonomi tumbuh tapi poket rakyat tak merasai, sukar untuk kita yakin mereka akan sokong kembali.
+
+
+
+[1:37:35] Datuk Syed Azuan
+Yang kedua YB?
+
+
+
+[1:37:37] Rafizi Ramli
+Yang kedua ialah kecekapan penyampaian perkhidmatan awam dan pelaksanaan reformasi. Maksudnya, dasar-dasar yang kita umumkan—seperti penyelarasan subsidi, reformasi pencen, pemerkasaan PKS, pendidikan—mesti terlaksana dengan licin. Rakyat nak tengok hasil, bukan sekadar pelan atau pengumuman atas kertas.
+
+
+
+[1:38:10] Datuk Syed Azuan
+Dan yang ketiga?
+
+
+
+[1:38:12] Rafizi Ramli
+Yang ketiga ialah komunikasi politik yang berkesan. Kita kena telus dengan rakyat. Kalau ada masalah, jelaskan dengan jujur kenapa keputusan itu dibuat. Jangan elak atau bagi jawapan pusing-pusing. Rakyat sekarang bijak, depa boleh bezakan antara penjelasan berasaskan fakta dengan auta politik.
+
+
+
+[1:38:40] Datuk Syed Azuan
+Saya setuju bab komunikasi politik tu YB. Kadang-kadang dasar kerajaan ni dah cukup elok, tapi bila sampai kat rakyat, naratif tu terpesong sebab komunikasi tak sampai atau lambat jawab fitnah di sosial media. Kerajaan kena agresif sikit bab ni.
+
+
+
+[1:39:05] Rafizi Ramli
+Sebab itu penerangan berterusan tu penting. Dan penerangan ni bukan kerja menteri seorang atau PM seorang. Seluruh jentera parti dan kerajaan kena faham dasar tersebut dan bantu jelaskan kepada komuniti masing-masing.
+
+
+
+[1:39:28] Moderator
+YB, Datuk, kalau kita tengok ruangan komen kat sosial media ni, ada soalan menarik daripada penonton. Ada yang tanya: "Bagi YB Rafizi dan DSA, apa pandangan tentang peranan pembangkang yang ideal dalam mengukuhkan demokrasi di Malaysia?"
+
+
+
+[1:39:50] Datuk Syed Azuan
+Bagi sayalah, pembangkang yang ideal ni pembangkang yang 'semak dan imbang' (check and balance) secara matang. Bukannya tiap-tiap hari cari jalan nak tebuk atap atau main isu perkauman. Kalau kerajaan buat dasar tak betul, kemukakan hujah ekonomi, kemukakan angka. Barulah rakyat hormat.
+
+
+
+[1:40:20] Rafizi Ramli
+Saya setuju dengan DSA. Pembangkang yang kuat dan matang sebenarnya bagus untuk kerajaan. Dia memaksa kerajaan untuk sentiasa berwaspada dan buat kerja dengan betul. Di negara demokrasi maju, pembangkang ada kabinet bayangan (shadow cabinet) yang mengkaji setiap dasar kementerian. Kalau Kementerian Ekonomi umum pelan, pembangkang kemukakan pelan tandingan. Barulah ada persaingan idea (battle of ideas). Tapi kalau setakat sorak-sorak dalam parlimen, itu tak membantu rakyat.
+
+
+
+[1:40:58] Moderator
+Satu lagi soalan daripada penonton: "YB Rafizi, lepas dah berhenti jadi menteri ni, adakah YB rasa lebih bebas untuk bersuara dan berkarya melalui podcast dan sosial media?"
+
+
+
+[1:41:15] Rafizi Ramli
+Lagi bebaslah haha. Masa jadi menteri dulu, nak cakap apa pun kena fikir sepuluh kali sebab kita bawa nama kerajaan dan kementerian. Sekarang bila sebagai ahli parlimen backbencher dan individu, saya boleh berhujah atas kapasiti peribadi dan analisis bebas. Dan podcast macam ni memberi ruang untuk perbincangan yang lebih santai tapi mendalam tanpa protokol yang ketat.
+
+
+
+[1:41:48] Datuk Syed Azuan
+Sebab tu podcast ni sambutan dia hangat YB. Orang nak dengar Rafizi yang dulu—yang cakap terus terang, bersandarkan data, dan tak berlapik. Benda ni yang rakyat rindu sebenarnya.
+
+
+
+[1:42:08] Rafizi Ramli
+Terima kasih DSA. Cuma beza dia, sekarang ni kita ada tanggungjawab untuk pastikan kerajaan yang ada ni berjaya. Kita bukan pembangkang yang nak perosak kerajaan. Kita nak bantu betulkan apa yang kurang supaya negara kita terus maju.
+
+
+
+[1:42:32] Datuk Syed Azuan
+Awat YB, bercakap pasal perkembangan ekonomi ni, ramai orang bimbang pasal perkembangan ekonomi global, isu perang di Timur Tengah, persaingan US-China. Sejauh mana perkara ni beri kesan dekat Malaysia bagi pandangan YB?
+
+
+
+[1:42:55] Rafizi Ramli
+Pengaruh luar ni memang tak dapat kita elakkan sebab Malaysia ni sebuah ekonomi terbuka (open economy). Perdagangan kita bergantung kepada eksport dan import global. Bila ada konflik geopolitik, kadar faedah AS tinggi, atau rantaian bekalan terganggu, ekonomi kita pasti terasa tempiasnya. Sebab itu, fokus kita kena ubah daripada bergantung semata-mata kepada eksport barangan mentah kepada membina kekuatan ekonomi tempatan dan industri bernilai tinggi.
+
+
+
+[1:43:35] Datuk Syed Azuan
+Contohnya industri apa YB?
+
+
+
+[1:43:38] Rafizi Ramli
+Contohnya sektor teknologi hijau, semikonduktor, tenaga boleh baharu, dan ekonomi digital. Kita ada kelebihan strategik di rantau ASEAN. Kalau kita pelbagaikan sumber ekonomi dan tarik pelaburan bernilai tinggi dalam sektor-sektor baru ni, ekonomi kita akan lebih berdaya tahan (resilient) walaupun ekonomi dunia bergelora.
+
+
+
+[1:44:10] Datuk Syed Azuan
+Bagus YB. Penerangan berasaskan fakta ni yang buat orang faham hala tuju negara. Bincang pasal ekonomi ni kalau tak ada perancangan jangka panjang, memang kita terombang-ambing.
+
+
+
+[1:44:30] Moderator
+Datuk Syed Azuan, soalan untuk Datuk pula dari peminat Datuk di TikTok: "DSA, apa nasihat Datuk kepada pempengaruh (influencer) politik muda yang baru nak meningkat naik di sosial media sekarang?"
+
+
+
+[1:44:48] Datuk Syed Azuan
+Nasihat saya mudah je: jangan jual maruah demi kelangsungan view atau likes. Ramai budak-budak muda sekarang nak cepat viral, depa guna fitnah, guna makian, main isu emosi. Benda tu mampan untuk seminggu dua je. Lepas tu orang benci. Bila kita buat content politik, biarlah ada ilmu, biarlah berfakta, dan jaga adab. Mesej yang baik dengan adab yang elok akan kekal lama dan dipercayai rakyat.
+
+
+
+[1:45:26] Rafizi Ramli
+Saya sokong 100% nasihat DSA tu. Media sosial ni alat (tool). Kalau guna untuk sebar kefahaman dan fakta, dia jadi benda bermakna. Tapi kalau guna untuk adu domba, dia merosakkan masyarakat.
+
+
+
+[1:45:45] Moderator
+Masa amat mencemburui kita. Kita dah menghampiri penghujung episod podcast kita pada malam ini. Perbincangan yang amat menarik, padat dengan pengajaran, teguran mesra, dan pandangan jauh ke depan dari dua tokoh yang sangat berpengaruh dalam arena masing-masing.
+
+
+
+[1:46:12] Moderator
+Sebelum kita akhiri, saya minta sepatah dua kata akhir daripada guest speaker kita, Datuk Syed Azuan, dan seterusnya daripada saudara Rafizi Ramli.
+
+
+
+[1:46:28] Datuk Syed Azuan
+Terima kasih moderator, terima kasih YB Rafizi kerana jemput saya malam ni. Saya rasa amat berbesar hati dapat duduk bersembang empat mata secara terbuka dengan YB. Harapan saya, YB teruslah berjuang, terus bersuara untuk rakyat, dan bawalah PKR serta Kerajaan Perpaduan ni ke arah yang lebih cemerlang. Jangan lupa turun ke Kedah lagi noh YB!
+
+
+
+[1:47:00] Rafizi Ramli
+Insya-Allah DSA, terima kasih banyak-banyak kerana sudi hadir dari jauh, bawa semangat dan pandangan jujur daripada akar umbi. Perbincangan macam ni amat bermakna bagi saya. Kepada semua penonton dan pendengar podcast Yang Berhenti Menteri, terima kasih atas sokongan berterusan anda. Kami akan terus bawakan isu-isu penting rakyat dengan telus dan berfakta.
+
+
+
+[1:47:35] Moderator
+Sekian sahaja untuk episod ke-5 podcast Yang Berhenti Menteri pada kali ini. Jangan lupa untuk terus menyokong, tekan butang like, share, dan subscribe di semua platform sosial media kami. Sehingga kita berjumpa lagi di episod akan datang, wabillahi taufik walhidayah, wassalamualaikum warahmatullahi wabarakatuh dan selamat malam!
+
+
+
+[1:48:10] [music/outro]
+
+
+
+[1:54:00] [End of recording]
 
