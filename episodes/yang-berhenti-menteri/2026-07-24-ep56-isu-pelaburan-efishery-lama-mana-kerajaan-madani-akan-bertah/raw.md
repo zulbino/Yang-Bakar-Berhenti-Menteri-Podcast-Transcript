@@ -6,1502 +6,6557 @@ channel: Rafizi Ramli
 publish_date: '2026-07-24'
 duration_seconds: 9937
 duration: 2h 45m
-view_count: 201538
+view_count: 203668
+model: gemini-flash-lite-latest
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[00:00:00] [Music playing]
+[00:44] Speaker 1: Podcast Yang Berhormat Menteri episod ke-56 macam biasa bersama saudara Rafizi dan Chopper yang menyiau-nyiau di belakang sana.
 
-[00:00:43] Speaker 1: Podcast Yang Bakti Menteri. Episod ke-56. Macam biasa, bersama saudara Rafizi dan Chopper yang mengiau-ngiau di belakang sana.
 
-[00:00:52] Speaker 2: Saya tersenyum sebab tadi panggil nama Chopper, dia menyahut, lepas tu dia tak boleh berhenti menyahut tu.
 
-[00:00:58] Speaker 1: YB macam mana? Seminggu lepas HQ dibuka.
+[00:52] Speaker 2: Saya tersenyum sebab tadi panggil nama Chopper, dia menyahut lepas tu dia tak boleh berhenti menyahut tu.
 
-[00:01:04] Speaker 2: Alhamdulillah, sebab kita dah bergerak, yalah, selaju yang mungkin. Hari Isnin yang lepas memang saya dah duduk dengan calon-calon bersama dalam PRN Johor yang lepas dan kita telah pun bersetuju langkah-langkah susulan supaya khidmat dan juga peranan bersama di peringkat akar umbi yang ditawarkan kepada penduduk di Johor itu akan boleh terus dimulakan. Dan insya-Allah dalam tempoh yang terdekat ini kita akan mula buka satu, ah saya tak suka panggil pejabatlah, kita akan panggil tempat itu sebagai ruang bersama. Ah ah ruang bersama kan.
 
-[00:01:52] Kemudian hari Rabu yang lepas satu mesyuarat permulaan persediaan untuk Pilihan Raya Negeri Melaka telah pun dimulakan dan insya-Allah selepas ini tiap-tiap minggu akan ada perkembangan yang kita akan bagi kemaskini kepada rakyat dan memang komitmen kitalah, semangat berkobar-kobar ni yalah supaya kita mula berkempen di PRN Melaka dan juga memperkenalkan calon-calon seawal yang mungkin.
 
-[00:02:26] Jadi kepada sesiapa yang orang Melaka kena pastikan bahawa lahir di Melaka ataupun alamat itu di Melaka, pengundi Melakalah maksudnya. Bagi mereka yang belum lagi memohon untuk menjadi calon terbuka. Kerana calon-calon bersama seperti yang kita dah tunjukkan di Johor, dia terdiri daripada dua kumpulan. Satu ialah kumpulan penggerak ataupun aktiviti yang aktivis yang pernah ada pengalaman politik dan pengalaman khidmat masyarakat. Satu lagi ialah calon terbuka daripada kalangan golongan profesional, daripada golongan muda. Mereka yang ke depan untuk menawarkan khidmat untuk menyumbang kepada masyarakat. Kepada mereka yang belum lagi memohon menjadi calon, boleh pergi ke laman bersama.org, klik sertai kami. Dekat situ boleh memohon untuk menjadi calon. kena melalui temuduga dengan skrin seperti yang telah dilalui oleh calon-calon lain. Dan hari ini tadi, apps Kancil [00:04:25] OK telah mula beroperasi untuk pengguna-pengguna Android. Dia memang macam tu selalunya. Android, Android, Play Store selalunya lebih cepat daripada Apple Store. Okey. jadi kepada ahli-ahli bersama yang yang menggunakan Android, boleh mula untuk muat turun. Dah live lah kan? apps Kancil dah live dan melalui proses itu dan daripada situ boleh lihat bagaimana kita berhasrat untuk menggunakan kekuatan digital itu untuk menguruskan ahli-ahli bersama dan juga harapan kita daripada satu masa ke satu masa, kita akan perkenalkan feature-feature baru yang bukan saja membantu ahli-ahli bersama di bawah untuk tampil ke depan, menawarkan diri untuk mengendalikan program, untuk membantu meluaskan bersama di peringkat kawasan masing-masing, tetapi juga untuk membezakan sumbangan ahli-ahli yang sedang berusaha sekarang. Jadi, itu proses untuk kita membudayakan satu politik yang baru yang mana ia mestilah berasaskan kepada merit. Sebab itu kita tidak mahu mengadakan sebarang lantikan pimpinan buat masa sekarang. Untuk kita membenarkan proses ini berlaku terlebih dahulu, supaya ahli-ahli bersama, mereka boleh kenal sendiri mengikut track record sesama mereka dan bila pada masa yang sesuai itu, kita ada kayu ukur-kayu ukur kita, barulah satu pemilihan di seluruh negara akan dibuat untuk untuk memilih pimpinan. Dan daripada situ, harapan saya ialah apps Kancil akan memberi satu bentuk ketelusan. Supaya ahli-ahli bersama ini dapat menilai siapa yang layak diberikan amanah sebagai pemimpin. Kita masih menunggu Apple Store untuk meluluskan [00:05:59] Berapa lama lagi YB? You tak pernah boleh tahu sebenarnya. Bagi mereka yang biasa dalam bidang digital ini, masalah Android Play Store dengan Apple Store ni, proses dia tu agak panjang. Pertama, kena mendaftarkan bersama sebagai pembangun aplikasi. Selepas itu telah diluluskan, maka kita kena submit aplikasi itu dan dia sebenarnya bergantung kepada Apple Store ataupun Android kerana mereka akan semak. Jadi dia juga bergantung kepada cepat, laju ataupun ada perkara-perkara yang mereka minta tukar. Betullah, dia minta tukar kadang-kadang kan. Jadi, kita mulakan dengan Android dahulu dan kita doalah dalam tempoh satu dua minggu ini Apple Store pun meluluskan dan itu akan mempercepatkan lagi selaras dengan perancangan-perancangan yang sedang dibuat sekarang.
+[00:59] Speaker 1: YB macam mana? Seminggu lepas HQ dibuka?
 
-[00:07:02] Speaker 1: Baik, baik, baik. Okey YB, satu soalan, enam minit.
 
-[00:07:07] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[00:07:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[01:04] Speaker 2: Alhamdulillah sebab kita dah bergerak ialah selaju yang mungkin.
 
-[00:08:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[00:08:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[00:09:05] Speaker 1: YB minat lari dari mana ke mana?
+[01:12] Hari Isnin yang lepas memang saya dah duduk dengan calon-calon bersama dalam PRN Johor yang lepas dan kita telah pun bersetuju langkah-langkah susulan supaya khidmat dan juga peranan bersama di peringkat akar umbi yang ditawarkan kepada penduduk di Johor itu akan
 
-[00:09:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[00:10:07] Speaker 1: Work smart.
 
-[00:10:08] Speaker 2: Work smart. So, dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk, apa ni, bukanlah permainan tapi satu aktiviti rakyat yang yang yang yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan, jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga, jadi kita boleh design lah, salah satunya mungkin yang ini kot. So, aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[01:34] boleh terus dimulakan dan insya-Allah dalam tempoh yang terdekat ini kita akan mula buka satu saya tak suka panggil pejabatlah, kita akan panggil tempat itu sebagai ruang bersama.
 
-[00:11:32] Speaker 1: Okey, baik, baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[00:11:51] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah.
 
-[00:14:43] Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[01:50] Ruang bersama kan.
 
-[00:16:16] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[00:16:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak I well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[00:20:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Tapi Kak nak buat Kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[01:52] Kemudian hari Rabu yang lepas satu mesyuarat permulaan persediaan untuk Pilihan Raya Negeri Melaka telah pun dimulakan dan insya-Allah selepas ini tiap-tiap minggu akan ada perkembangan yang kita akan bagi kemaskini kepada rakyat.
 
-[00:21:05] Speaker 1: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[00:22:42] Speaker 2: Mmm, nak lari dari mana ke mana? Tak tak, aku rasa kita buat begini, yang ni. yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[00:23:07] Work smart. Work smart, so dari segi efficiency itu lebih cekap, ah itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[02:13] Dan memang komitmen kitalah semangat berkobar-kobar ni ialah supaya kita mula berkempen di PRN Melaka.
 
-[00:24:28] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[00:24:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[00:28:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[02:22] Dan juga memperkenalkan calon-calon seawal yang mungkin.
 
-[00:29:43] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[00:30:10] Speaker 1: Okey, baik.
 
-[00:30:17] Speaker 2: Macam-macam. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[02:27] Jadi kepada sesiapa yang orang Melaka kena pastikan bahawa lahir di Melaka ataupun alamat itu di Melaka, pengundi Melakalah maksudnya.
 
-[00:32:00] Speaker 1: Mhm.
 
-[00:32:11] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[00:32:46] Speaker 1: Dia tak terpakailah.
+[02:40] Bagi mereka yang belum lagi memohon untuk menjadi calon terbuka kerana calon-calon bersama seperti yang kita dah tunjukkan di Johor, dia terdiri daripada dua kumpulan.
 
-[00:33:04] Speaker 2: So, betting apa bodohnya macam tu. Dia buka, dia tak tak dapat apa. Hm. Kecuali memang dia nak ceraikan isteri dia talak tiga kot. Boleh macam YB punya analysis. Betul tak? So. Dia bagi reason itu.
 
-[00:34:04] Speaker 1: Dia bagi reason. Entah-entah dia bagi reason, dak, dia memang nak cerai talak tiga.
 
-[00:34:42] Speaker 2: Sebab kalau betting mestilah. So maksudnya kalau kecualilah kawan dia itu, kalau ah Argentina menang, maksudnya kawan dia itu kalah, kawan dia pula kena ceraikan talak tiga. Mhm. Mhm. Mhm. Kita tak ada full picture. Tak tercapai akal kita untuk menembus benda bodoh macam ini. Mhm. Mhm. Harap tak berlakulah. Mhm. Okey YB, itu orang awam. Ah ini Barisan Nasional pula. Okey. Mhm. Mhm. manifesto pekerjaan mereka dah ditunaikan lah.
+[02:52] Satu ialah kumpulan penggerak ataupun aktivis yang aktivis yang pernah ada pengalaman politik dan pengalaman khidmat masyarakat.
 
-[00:35:10] Dengan melantik Timbalan Exco di Negeri Johor. Dia tak dia tak bagi tahu pun eh kalau waktu camping kita tak dengar eh. Sekarang baru kita ni.
 
-[00:37:37] Well, itu kehendak negeri ah pengundi-pengundi Johor. Hadaplah kau orang. Pedas sikit YB. Yalah kan.
 
-[00:39:15] Ah Tapi yalah. apa kita dah kempen dan kita itu usaha kitalah untuk memberi pencerahan kepada rakyat biasa kan. Kita dah cakap daripada awal, parti-parti seperti UMNO, BN ni, dia bila dia menang, dia tak fikir pun pasal rakyat semua sebab dia ada pandangan bangsawan, dan perangai bangsawan. Mereka merasakan itu adalah hak mereka untuk, ah mendapat habuan, mendapat jawatan, untuk memimpin itu adalah hak mereka kan? Mhm. Jadi masa masa kempen itu saja dia, dia pergi tunjuk kat rakyat, apa kan. Tapi sebab parti yang dah 70 tahun, yang dah berkuasa 60 tahun lebih kan? Tapi yalah, kalau ia pun, janganlah beria-ia nak tunjukkan perangai bangsawan itu, tak sampai, ini lebih kurang seminggu. seminggu. Sebab ah rakyat biasa mungkinlah umm, biar bagus yalah, YB saya jadi Timbalan Exco, bagus yalah. Dia tak sedar Timbalan Exco ni bila diwujudkan jawatan, maka mesti dapat elaun dan gaji. Mhm. Mesti kena sediakan pejabat untuk dia. Mhm. Mestilah juga ada pegawai-pegawai dia yang perlu dilantik. Mhm. Mesti ada peruntukan istimewa. Ya. Jadi, mesti ada elaun-elaun dan sebagainya. Kereta rasmi. Kereta rasmi semua kan. Jadi dia tambah berapa ni 10? 10. Tambah 10 dengan Exco sedia ada pun lebih kurang 10, kan? Mhm. Jadi, spark, hampir separuh daripada wakil rakyat BN itu, semua selain daripada gaji ADUN mereka, tambah lagi ah gaji elaun baru ini. Ya. Tambahlah, saya ingat berapa? Katakanlah setiap seorang, saya tak tahu dapat berapa. Mungkin tambahan 7, 8,000 sebulan. So, 80,000 sebulan, campur dengan elaun, semua campur dengan peruntukan istimewa, so mungkinlah katakanlah busuk-busuk pun 150,000 sebulan lah kan. Seorang, ah eh lebih, kalau seorang, 6, 7, 10, 100, katakanlah, gaji, elaun, gaji campur elaun, tujuh, katakanlah, campur pegawai, campur, campur dengan peruntukan semua mungkin 30,000 sebulan, 300,000 sebulan. Jadi setahun dah kenalah 4 juta. Mhm. 4 juta tu kalau di ah berikan kepada orang kampung, kalau bagi 200 satu keluarga pun dah dapat banyak lagi kan, tapi malangnya orang kita tidak ah ambil port lah, benda-benda macam ini kan, jadi, tak apa lah, tunggu tunggu pilihan raya negeri yang akan datanglah, undilah lagi. Ah dah, ha. Cuma, satu lagi juga yang, saya rasa orang ramai mungkin kurang arif. Yalah. Saya tak rasa dalam perlembagaan ada jawatan-jawatan ini. Ya, ya. Contohnya kan di peringkat persekutuan kan? Perlembagaan yang ada hanyalah untuk jawatan Perdana Menteri dan Menteri-Menteri. Mhm. Jadi contohnya, Timbalan Menteri, hatta Timbalan Perdana Menteri sendiri, sebenarnya tidak ada sebarang punca kuasa di sisi undang-undang. Mhm. Mhm. Timbalan Menteri, dia tak ada kuasa, dia tak boleh nak arahkan apa-apa, jadi dia sebenarnya duduk kat situ lebih kepada pasu bungalah, dan ah kecuali dia dapat Menteri yang bagi ruang kepada dia dan bagi tugasan-tugasan kepada dia untuk dia buat. Mhm. Mhm. Tapi itu pun dia tidak ada punca kuasa di atas kertas. Mhm. Mhm. Ah samalah juga yang di peringkat negeri, saya ingat, saya tak rasa undang-undang tubuh ni ada secara khusus jawatan Timbalan Exco ke apa semua kan? Jadi semua ini akhirnya, ah ah pergi kepada ahli-ahli politik yang dapat jawatan yang tidak ada punca kuasa dan oleh itu tidak ada pertanggungjawaban. Mhm. Mhm. Mhm. Jadi merekalah yang seronok eh. Mhm. Dan saya rasa Johor ni okey lah kalau YB tengok Melaka, Melaka pun ada juga Mhm. Ah 10 Exco, 10 Timbalan Exco, ini maksudnya eksekutif lebih ramai daripada daripada Mhm. Mhm. Keseluruhan, keseluruhan pun. Mhm. Bagus, bagus, bagus. Mhm. Lepas tu kutip cukai lagi, kutip cukai lagi kan? Mhm. Jadi beria yang ini memang beria sebab tak sabar-sabar, eh tapi nak buat macam mana? Dia nak kena umumkan konon Kabinet Negeri kan, jadi tak boleh lama-lama, kena umum teruslah. Inilah hadiah atas kemenangan besar UMNO Barisan Nasional di Johor, tapi hadiahnya bukan kepada rakyat. Hadiahnya kepada sesama mereka. Tahniah peluang pekerjaan. Mhm. Peluang pekerjaan. Memang memang tiba-tiba peluang pekerjaan dinaikkan satu kali ganda dan bergaji tinggi, lebih RM4,000. So. Okey. lebih 4,000 eh? Sebab itu janji dia. Yalah manifesto untuk 10 orang dah diselesaikan. manifesto untuk 10 orang telah pun dilaksanakan. Okey, baik YB. Itu aa pemimpin, ini mungkin pengundi. Ah. Show off duit minyak. Mhm. Ini PRN Johor itulah dua minggu lepas lah kan? Cuma dekat kalau tengok Mhm. Mhm. Eh, lepas ni Negeri Sembilan ada lagilah. Mungkin. Dekat trek, tapi bila ditegur, ah agak melenting jugalah, kata ini memang duit minyak kami. Ah. Dia tak tanya pun undi apalah, sebagainya, jadi nampak macam dinormalisasikan sedikit sebanyak lah. Mhm. Sebab itu politik ni saya ingat ialah umm satu proses yang berpanjangan sebab politik ni sepatutnya ialah proses pencerahan. Mhm. Kita nak mencerdikkan orang ramai Mhm. dan kita nak, err menghentikan amalan-amalan yang walaupun rakyat selesa, tapi sebenarnya itu tidak baik untuk masyarakat. Ini salah satunya lah. Mhm. Sebab mereka yang menerima, dia sukalah, dia kata, dia tak kis, dia tak pernah bertanya, saya ingat. Mhm. Sebenarnya daripada mana dia orang dapat duit ni? Mhm. Kalau dia bagi saya RM200 untuk saya balik tu daripada Penang ke Kota Tinggi itu kan? Mhm. Nama dia Nur Sofia Izahtul Ain kepada, err Puan Nur Sofia Izahtul Ain kan. Mhm. Cantik jari itu kan dengan bunga-bunga dia semua tu kan. Mhm. Um. Memanglah yang menerima tu dia Mhm. Mungkin rasa itu hak sayalah, dia dah nak bagi, saya ingat kat Terengganu dulu bila orang duk tabur duit kan? Adalah saya membesar, jawapan-jawapan orang di kampung macam tu, dia dah nak bagi. Kalau dia tak bagi, baguslah dia bagi. Mhm. Mhm. Dia tidak tahu satu, dia kena tanya tentang sebenarnya daripada mana duit itu datang. Sebab ahli politik tak ada duit sebanyak itu. Jadi duit itu mesti datang daripada sumber yang dipersoalkan. Mhm. Mhm. Dia tak boleh pakai duit kerajaan kerana duit kerajaan memang terbongkar, memang masuk penjaralah. Jadi duit itu duit bawah meja. Mhm. Duit bawah meja itu ialah duit besar, kemungkinan duit raswahlah. Mhm. Mhm. Ah jadi kalau kitalah waras kan, err dan ini satu proses yang akan berterusan dalam masyarakat kitalah. Mhm. Akan ada orang yang merasakan asal saya dapat, eh, saya peduli apa? Dia ambil mana duit rasuah. Bukan kena, kena mengenai aku pun. Mhm. Tapi dia tak sedar bahawa sebab itulah bila rasuah itu berakar, maka dia juga yang complain, oh kenapa toll mahal, kenapa yang itu? Kerana err ah duit bawah meja ini ialah markup kepada segala-galanya yang kerajaan belanja lah, yang projek patut jadi 100 juta, dia jadi 120 juta. Mhm. Mhm. Mhm. Sebab dia nak cover yang itu kan? Dan dan err lapisan, kalau kita nak kira mengupas benda ini secara moral untuk, untuk yang lebih dalam kan. Hmm hmm hmm. Um dia berat sikitlah kalau saya kata. Tapi sebenarnya itu mengambil hak orang. Mengambil hak orang? Yalah. Kalau kita menerima rasuah, dia mengambil hak orang kerana duit tu dicuri. Mhm. Mhm. Duit tu sepatutnya ah pergi kepada orang lain yang lebih berhak kan? Jadi, kalau tanya saya lah, um mengundi itu memang tanggungjawab kita. Mhm. Mhm. Dan kita perlu faham bahawa kalau kita tak mengundi, err dan err pimpinan ataupun kerajaan yang dipilih itu melakukan sesuatu yang kita tak suka Mhm. Mhm. memang nasib kitalah, salah kitalah. Jadi, tanggungjawab setiap rakyat untuk mengundi ialah supaya kita dapat memilih kerajaan yang betul-betul berkhidmat atas kepentingan kita. Bukannya yang bagi duit kat kita. Kalau macam ini, then tak payah ada parti politik lah bagi orang terkaya, semualah untuk jadi ahli politik, dia tabur duit, dia menang, tabur duit, dia menang kan? Mhm. Mhm. Tapi memang betullah kalau tengok ni, beria-ia, saya tak faham yang dia orang share ni kenapa? Dia memang tak rasa salah ke apa? Dia Mhm. Undi di Batu Pahat, duduk JB, undi di Batu Pahat RM50 guys, wow. Mhm. Yalah katanya yang bagi tu tak tak, tak tanya pun undi siapa, asalkan yalah datang tuntut dekat pusat parti tu sahaja dah cukup, macam itulah. Dia rasa itu memang hak dialah. Tapi selalunya benda ni memang, err you kena pergi itu spesifik parti lah. Ya ya, betul, betul. Ah ah ah ah ah. Tapi, dia agak biasa, saya di Pandan, saya pernah sebutkan, memang ada orang datang pada hari mengundi, yang, yang dengan saya sendiri. Saya kebetulan ada di pusat kempen tu, ada orang wanita datang, kata, err "Saya nak mengundi ini, err, duit minyak ada bagi tak?" Mhm. Mhm. Tak ada. Mhm. Konfem aku tak dapat undi itulah, kan? Ha ha. Tapi memang, dia budaya Mhm. Mhm. Jadi orang How, how do we get rid of this budaya ni, eh? No, sebab itu kalau kekecewaan saya mengenai SPRM, mengenai Datuk Seri Anwar sebelum ini ialah, sebab itu ah budaya wang di kalangan ahli politik ini mesti diperangi ah sekeras-kerasnya kerana itulah punca dia. Mhm. Kalau tak ada orang bagi, then tak adalah benda ni. Mhm. Mhm. Betul juga eh. Ah, dia bermula dengan orang bagi. Mhm. Mhm. Dan orang bagi itu ialah kerana kita tutup sebelah mata, rasuah, tak rasuah ni, ada aje alasan kita. Mhm. Mhm. Kalau yang itu, kita beri kerja, yang ini, kalau kawan kita, tak apa. Alasannya ialah, "Oh, parti politik memang perlukan duit." Mhm. Tapi kalau perlukan duit itu untuk melaksanakan aktiviti parti, contoh bayar sewa ataupun bila turun ke bawah, sewa dewan, ataupun ada makan-makan sikit. Mhm. Saya faham lah, tapi bentuk yang macam itu tidak memerlukan ratus-ratus juta. Dia mahal jadi ratus-ratus juta ni ialah kerana dia tabur duit macam inilah. Kalau seorang kena bagi 200, bayar setiap kepala kan. Dan kita semua tahu parti-parti utama di Malaysia semua buat. Bukti dah ada. Siap ada tu kalau dalam pilihan raya negeri, aa umum yang lepas, siap angkat Aa. apa dia panggil ni, angkat baiah. Baiah? Wallahi, saya undi tu. Aa aa wallahi, semua ni kan? Dan dia boleh gelak-gelak, senyum-senyum tahu. "Wallahi saya akan undi tu semua," kan. Dia mungkin kata, "Ikut suka saya lah. Saya nak undi siapa?" Tapi itu dua soalan yang dia tak tanya lah, iaitu, daripada mana datang duit ni, kerana kalau dia tanya soalan itu dia tahu, ini duit bawah meja, duit rasuah ni. Mhm. Mhm. Dan soalan seterusnya, ah apa hukumnya aku makan duit rasuah? Kerana dia mengambil hak orang lain, kan? Ah Tapi kita yalah dalam podcast ni, bising-bising, orang lain tak pedulilah. Mhm. Ah Jadi sebab itu, kalau Paan tanya, "Macam mana kita nak menghentikan semua ni?" kan? Mhm. Ah Soal sama boleh menghentikan atau tidak amalan ini, itu bukan di tangan kita. Mhm. Ah Dia sama kalau macam kerosakan, contohnya dadah. Macam mana kita nak menghentikan dadah di Malaysia ni kan? Mhm. Ah besar kemungkinan sampai kiamat ada orang menyalah substance abuse tu, orang menyalahgunakan dadah tu, memang akan adalah. Mhm. Mhm. Tapi tanggungjawab kita ialah kalau kita berjuang untuk cuba menghentikannya, aa yang itu kita dah lepas lah. Mhm. Pahala dah dapat, tanggungjawab dah selesai. Sama ada benda tu boleh dihapuskan ke tidak, itu juga sebenarnya, ah pilihan yang dibuat oleh ah masyarakat masing-masing lah. Mhm. Mhm. Okey. So, siapa yang beria ni? Yang, yang bangga duk tunjuk itulah kot, YB? So kau nak kata Nur Sofia Izahtul Ain tu yang, yang beria. Politically correct. Mmm okey. Mhm. Ah yang yang yang itu pun nama Budin Martopo. Mhm. Kan? Mhm. Are you sure ni memang dia orang punya betul-betul ah akaun betul. Akaun, sebab dia justify sebab kat bawah tu discussion tu lengthy, YB. Mhm. Mhm. tentang moral macam mana. Oh, kemudian dia menjawab? Ya. O Allahuakbar. Mhm. Mhm. Cuma, saya takkan faham. Maksudnya, dia rasa tak salah lah sebab tu dia tunjuk duit. Maksudnya, dia nak share happy moment, dia dapat duit runtuh daripada langit. Mhm. Mhm. Mhm. So, dia ada dua layer lah. Satu, ambil, tapi mungkin ada orang yang kata, "Salah ni, kita diam-diam ajalah." Tapi ini dia, dia tunjuk terus. Mhm. Mhm. "Ni, okey," ah, macam tu kan. Mhm. Mhm. Mhm. Okey, baik YB. Mhm. Selamatlah kau orang. Mhm. Mhm. Okey baik YB. Yang sepatutnya ada, ini sepatutnya kedua terakhir. Mhm. Ah, tapi tak apa kita tengok dulu. Mhm. Manifesto Negeri Sembilan, bukan. Manifesto Sabah, Tik. Yang ini memang dah disemak, eh. Sebenarnya apa nama ni, ah, ada di laman web. Laman web tu wujud. Cuma Laman web, laman web tu memang laman web UMNO Negeri Sembilan. Betul. Cuma ah selepas daripada keluar ni, ah Of course dia tukarkan lah. dia nafikan lah, maksudnya, tapi bukannya selal- yang rasmi pun. Satu setro ni kan, UMNO ni, nafikan, "Oh, ini tak betul, ah sebab kita belum lagi umum." Tapi, website tu dah ada. Ah, kira kita boleh tengok separuh tu Negeri Sembilan, separuh lagi tiba-tiba Sabah. Sabah. Mhm. Mhm. So, dia dah betulkan ke tidak? Sekarang ni, tengok macam dah tak boleh, dah tak ada dah benda tu. Oh, ya. Ah, tak ada. Lepas daripada orang serang lah. Mhm. Mhm. Begitulah cekapnya BN. Ah. Cekap BN. Dia, ah, copy and paste. Mhm. Lepas tu, siapalah back end orang yang mengusahakan ah laman web ini. Mhm. Ah, takkan dia tak check. Bukan dia tak check, tapi memang besar kemungkinan memang copy and paste lah. Aa tapi Mhm. Mhm. keadaan ini berlaku kerana Mhm. aa mereka yakin yang apa jadi pun rakyat bukan peduli pun pasal manifesto ni. Orang asalkan, Pasat. ah perpaduan ummah. Asalkan Melayu bersatu, ha. Mhm. Mhm. Itu sekarang eh? Mhm. Jadi, itu yang saya selalu ulang dalam ah ceramah semua. Mhm. Orang tanya kenapa ah kita ada bersama dan kenapa kepala kita ni macam tak betul sikit kan? Mhm. Sebab saya tahu di mata rakyat biasa, dia kata, "Apa lah susah-susah duduk dalam politik, lepas tu parti kecil hilang deposit. Kan mudah. Kamu dah ada nama, masuk ajelah UMNO ke, kalau aku masuk PAS ni, dijulang gila, contohnya kan? Ataupun kalau masuk DAP. Technocrat paling hebat. Ha, memang. Aku suci sesucinya lah kan, ah. Ah, kalau masuk UMNO ke apa kan? Jadi, apa yang payah? Mhm. Mhm. Sebabnya ialah inilah, kerana bila parti-parti yang dinosaur ini dan gabungan-gabungan yang selalu jadi pilihan rakyat ini, Mhm. dia dah sampai satu ke peringkat yang mana, dia buat apa pun, rakyat akan pilih dia kerana dia boleh berselindung di sebalik mainan emosi, kan? Ha, kaum lah, itulah semua ni kan? Mhm. Mhm. Bila itu berlaku, maka buat apa dia susah-susah nak perform? Mhm. Mhm. Buat apa dia susah-susah nak pastikan setiap titik itu betul, ada orang check semua? Dia bayar aje subcon, siapa-siapa, aa subcon. Mamat yang subcon itu, ni Mhm. kalau aku kat sekolah, orang kata bata projek, ni kan. Bata projek. Mhm. Mhm. Semua dia nak sapukan dia, Sabah pun dia sapu, Negeri Sembilan pun dia sapu kat dia kan, ha. Mhm. Lepas tu dia pun terlupalah. Kak and paste ni kan. Ha, jadi, buat apa dia nak susah-susah? Kerana dia tahu Mhm. dia macam mana teruk pun, Mhm. sampai hari mengundi, pergi sengih, tunjuk dah cengeh. Ha, ataupun, ah PH. Mhm. Anwar the best eh. Ha. So, Mhm. Mhm. kalau, kalau, kalau PAS, kita mesti slay, noh. Ha, habis dah cerita. Mhm. Jadi, akhirnya, kita melahirkan ah satu sistem politik yang tidak lagi ada Mhm. kebertanggungjawaban, kerana Hmm hmm hmm. you tahu bahawa you buat macam mana pun, you akan lepas. You get away with murder. Ha, ni lah, you get away with murder kan. Mhm. Kalau di negara lain, ah benda macam ini, lancar manifesto tapi kantoi manifesto daripada Sabah. Kak and paste kan, memang dah kantoi gila lah kan, Mhm. Hmm hmm. So, siapa yang beria? Mhm. Siapa yang buat lah YB. Setakat ni nampaknya macam kita yang beria komen, orang lain tak peduli pun. Mhm. Tapi, ada satu benda lah. Mhm. Tak terasa ke kita beria komen. Dah semua ni, orang tak peduli pun sebenarnya. Hm hm hm. Dia benda, yalah, dia benda-benda yang betullah YB cakap. Ha. Oh, ah orang, orang tak peduli pun bagi duit percuma. Tapi, some of it benda penting yang macam duit YB cakap tu kan? I mean Yalah, tapi orang tak peduli. Hmm. Kalau orang tak peduli. Mhm. Ah. Mhm. Sama juga macam ni ni kan, benda yang kita kata sangat penting kerana dia melambangkan Mhm. Hmm hmm. kompetensi, Mhm. ataupun, aa profesionalisme. Mhm. Mhm. Kalau benda macam ini pun tak boleh nak buat, kan? Mhm. Tapi, benda tu tak penting pun Mhm. kepada pengundi. Ha. Jadi akhirnya Mhm. Mhm. pemenang minggu ini ialah kita. Mhm. Beria komen benda-benda yang orang tak peduli pun. Mhm. Rasa beria yang nerd sikit lah minggu ni. Mhm. Okey. Mhm. Tak payahlah. Mhm. Okey. Tapi, sepatutnya ada satu lagi YB, tapi mungkin tak sempat masuk ke? Mhm. Kenapa itu prnn9.com? PRN Yalah, tapi itu bukan BN punya. Hmm. Di di di dikatakan, aa apa ni, memang the whole ni adalah Negeri Sembilan punya ah untuk Negeri Sembilan lah. Ah. Tapi memang, memang konfom itu daripada BN lah. Mhm. Cuma aa, Mhm. aa yang penafian tu datang daripada satu-satu yang kecil nilah. Mhm. So, tidak ada penafian rasmi. Mhm. Tak ada? Ah. Mhm. Mhm. Yalah, tapi orang bukan peduli pun. Mhm. Mhm. Mhm. Hm. Mhm. Mhm. Satu lagi YB, tapi tak ada lah. Mhm. Perlu masuk Paan kalau tak ada? Tak perlu kot. Mhm. Tak ada. Mhm. Ah, World Cup. Oh, tak ada. Malaysia. Mhm. Oh, okey. Mhm. Okey, jadi itu saja YB, eh? Mhm. Mhm. Eh, gaduh-gaduh tu kan? Mhm. Bukan, ini kenyataan Presiden UMNO. Mhm. Mhm. Oh, ha, dia tak ada dekat sini, kenyataan. Oh, kau orang tak jumpa dia punya, kenapa dia tak ada, dia tak ada visual dia. Visual tak tak sempat masuk. Aa. Mhm. Tak apa lah, kita terus ke yang, yang hidup ni keras lah kot. Mhm. Mhm. World Cup dah habis, team kita kalah, so tak apalah. Hmm okey. Mhm. Hmm. Yang dikata ni, apa ni, ah Malaysia jadi tuan rumah, World Cup. Oh. Ah. Yang Zahid kata Malaysia, ah hasrat dia. Mhm. Hasrat dia, ya. hasrat dia, Malaysia jadi ah, apa nama ni, tuan rumah World Cup. Mhm. Tak apa lah, yang itu dah water under the bridge, ah. Mhm. Mhm. Okey. Uh, cuma semua ni kali ini UMNO, YB. Maksudnya, dan BN lah. Mhm. Rahman dan semua tak ada. Mhm. Eh, dia orang semua masuk gua kejap ke? Mhm. Masuk gua kejap. Selepas PRN Johor kan. Mhm. Mhm. Kita yang aje yang terus berpodcast walaupun hilang deposit. Mhm. Dan ada ada juga beberapa kenyataan daripada IMK yang mengulang aa aa angkatan muda keadilan kan, banyak mengulas pasal Rafizi dan bersama. Mhm. Mhm. Tapi dia ulang benda yang samalah, boringlah. Ulang benda yang sama. So kami nak masukkan. Kalau kita masukkan, dia jadi macam kita beria. Mhm. Yalah, tu kan? Mhm. So, Mhm. And, and aa kita move to the next, um, to the next, um, ah, segment untuk memahami startup ini lah. Mhm. Mhm. Mhm. Mhm. Mhm. Sebenarnya macam mana startup, ambil duit ni macam e-fishery ni macam mana dia ambil duit? Mhm. Ada, venture venture capitalist. Okey. VC. Ah. Ah. Ah. Macam mana, apa tu venture capitalist? Venture capitalist ni, ah, secara general nya, ah, is Dia kalau dalam Bahasa Melayu, ialah firma modal teroka. Mhm. Mhm. Mhm. Mhm. Ah, firma, kan. Mhm. Ah, ah. Ah, dia boleh jadi Sovereign Wealth Fund. Eh, tak bukan, mana ada, mana ada VC yang, sovereign wealth fund. Ha. Ha. Ha. Dia VC atau Sovereign Wealth Fund yang ah, macam termasuk holding eh. Mhm. Uh, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okey. But, that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey, okey. Mhm. Mhm. Mhm. So, what is a VC? Dia private ah equity financing. Mhm. Mhm. Ah, ah. Okey lah. I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Mhm. Kan. Ah. Mhm. Okey. Mhm. Um, bayangkan lah, kan? Mhm. Mhm. Mhm. Kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi juga ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, syarikat itu akan untung berbilion-bilion. Mhm. Mhm. Mhm. Tapi budak itu umur baru 20, 30 tahun. Mhm. Dia tak kerja pun kadang-kadang. Baru keluar universiti. Mhm. Mhm. So, macam mana dia nak mulakan perniagaan dia tu? Mhm. Sebab time is of the essence, teknologi bertukar tiap-tiap hari. Mhm. Mhm. Mhm. Kalau dia nak buat macam kita, masuk kerja, tunggu 40, 50 tahun, kumpul duit, nak pergi bank, bank tak bagi duit, kan? Mhm. Akhirnya, idea itu mati sahaja lah. So, how does it work? Dia kena cari orang yang boleh, Mhm. Mhm. Mhm. Mhm. Mhm. bagi modal. Dia kena cari orang yang mana risk appetite, maksudnya, um, risk appetite dalam bahasa Melayu ni apa dia, eh? Mhm. Mhm. Mhm. Uh, Mhm. tahap risiko lah, senang kan. Mhm. Mhm. Mhm. Mhm. Mhm. Appetite ni selera, Mhm. daya tahan. Mhm. Uh. Takkanlah selera risiko dia kan? Risk appetite. Tapi maksudnya daya tahan risiko dia lah, Mhm. Mhm. sangat tinggi. Mhm. Mhm. Maksudnya, kalau dia bagi 100,000, dia, Mhm. sedia maklum bahawa 99%, 100,000 dia itu akan hancur. Mhm. Mhm. Mhm. Mhm. Sebab dia bagi kat budak. Mhm. I like the idea. Budak ni nampak macam, dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Mhm. Mhm. Mhm. Macam Airbnb dulu lah. Mhm. Kan? Ada ke idea nak lawan hotel, kita sewakan bilik kita. Semua rumah kita boleh jadi hotel, kan? Kau bayangkan bila dua orang founders tu pergi jumpa dengan beberapa VC pertama, most people takkan yakin, kan? Mhm. So, Mhm. VC ataupun venture capital firms adalah satu, adalah firma-firma, yang dia ambil kumpul duit daripada orang-orang ini yang kata, "You letak duit dalam fund saya." Mhm. Uh, saya nak raise dulu, um, 100 juta. Mhm. So, you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun, and kita tutup fund ini, you akan dapat return 20%. Mhm. Mhm. So, you invest for equity. Mhm. No, no, you invest in the fund. Mhm. Mhm. Mhm. In the fund. Mhm. Sebab itu kena ada firm nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini. Is this VC firm? Mhm. Mhm. Mhm. Oh, this is people yang invest dalam, okey. Okey. Mhm. Yalah, yalah, yalah. VC firm bukan duit dia. Dia ambil duit orang, sebenarnya. Mhm. Mhm. Mhm. Mhm. Cuma orang yang invest tu invest high yang suka invest kat high risk punya yalah. Ya. So, dia punya risk appetite is high lah. Ah. Ah. So, kewujudan VC firm, VC firm ini. Mhm. Tapi, kenapa masih lagi ada orang juga yang nak melabur kalau dia tahu bahawa, um, dalam dalam nomenclature, startup lah kan, Mhm. dia ada satu period yang dipanggil Valley of Death. Mhm. Ah, maksudnya, daripada mula-mula bermula, kemudian dia buat MVP dia, most viable product, kemudian dia ada product atau service dia, kemudian dia mula jual, kan? Mhm. Mhm. Lepas itu, dia terpaksa melalui zaman yang susah itu, yang produk dia tak ada orang beli ke apa. Mhm. Mhm. Most probably, 90% of the investee companies, syarikat-syarikat startup yang mendapat pelaburan ni, most probably, 90% dalam dunia ni semua bankrap. Mhm. Mhm. Mhm. Mhm. Tapi, kenapa masih lagi ada orang letak duit, and ambil risiko itu? Setiap kali VC firm, VC firm ini, dia ada beberapa yang terkenal di dunia lah. Satu yang paling terkenal, Sequoia lah. Mhm. Mhm. Mhm. Mhm. Mungkin dekat Malaysia, orang tak tahu lah, tapi the the big ones in the world is Sequoia. Mhm. Mhm. Mhm. Kemudian, Softbank tu nak kata VC pun tak juga, sebab selalunya dia selalu masuk di di di bahagian belakang sikit. Dia bila dah syarikat tu dah membesar sikit, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Um. But kenapa masih lagi orang melabur? Sebab memang nature portfolio dia tu ada, mungkin dalam 10% high risk punya. No. Sebab the largest companies in the world, semua bermula macam itu. Mhm. Mhm. Facebook, Google, Alibaba, Tencent, even Apple, zaman-zaman dulu, zaman Steve Jobs, were they all startup. Intel, they were startup. Mhm. Mhm. Mhm. So, so sejarah telah membuktikan bahawa ah kalau 100 company itu, ada satu company yang basically once they succeed, they conquer the world. Termasuklah Airbnb, contohnya kan, yang kita biasa seharian kita inilah, kan? Mhm. Mhm. Mhm. So, ah, the beauty of accounting ni, daripada 1,000, 2,000 tahun yang lepas, dia ialah debit-kredit. Mhm. Hm. Hm. Kalau ada satu kaki dekat debit, dia mesti ada satu kaki kat kredit. Mhm. Mhm. Mhm. So, dia mesti balance out, semua kan. Hm. Hm. Hm. Hm. Tapi selalunya orang lupa ada the third statement. Hm. Third statement itu ialah penyata aliran tunai ataupun cash flow statement. Mhm. Mhm. Mhm. In my work as an auditor, ataupun sebagai, you know, running my own company ke apa, ataupun tengok company lain, samalah juga bila saya duk bongkar ah skandal-skandal kerajaan, semua ini sebelum ini. Semuanya bermula daripada tiga penyata ini. Mhm. Hm. Hm. Saya tengok dekat income statement, saya tengok dekat balance sheet, and then saya tengok dekat cash flow statement. Mhm. Mhm. Sebabnya begini tau. Hm. Hm. Hm. Kalau dia untung, hm, eh, untung dia tu nampak bagus. Mhm. Kemudian, dia reflect dekat ah balance sheet, then you pergi check, eh, duit itu betul-betul masuk, common sure rate ke tidak dengan untung dia? Mhm. Mhm. Sebab, kalau macam ini, is quite obvious sebenarnya, income statement cakaplah apa dia, balance sheet cakaplah apa dia. Mhm. Mhm. Mhm. Mhm. Mhm. Tapi, cash flow, where is the money? Hmm. Duit tak ada. Bila fictitious ni, duit tak ada. Mhm. Mhm. Mhm. So, I don't know macam mana dia orang buat due diligence. Mhm. I don't know macam mana auditor pergi audit semua ni, kan? Ah. Mhm. So, um, hm, hm, hm. Um, that, that's hardly any, ah, Sovereign Wealth Fund, Mhm. ataupun khazanah ataupun dana milik negara ni, that's hardly yang sebenarnya adalah satu VC. Mhm. Okay, but that is a good angle, kerana itu akan membolehkan kita faham, macam mana KUAP, termasuk semua terjebak dalam benda ni. Okey. Okey. So, what is a VC? Dia private ah equity financing, Mhm. mhm. ah, okey lah, I mean, private equity itu kena berhati-hati juga sebab dia ada VC firm, dia ada PE firm, private equity firm. Mhm. Ah, okey. So, aku tolong jawabkan. Ah, ah, ah. Okey. Um. Mhm. Mhm. Bayangkan lah kan, Mhm. Mhm. Mhm. kita ada syarikat-syarikat yang, yang, yang ah, cerdik ataupun budak-budak cerdik, macam DeepSeek semua ni kan. Check GPT semua ni, kan? Mhm. Mhm. Mhm. Mhm. Mhm. Dia ada idea gempar, dia rasa kalau idea dia ini berjaya dibangunkan dan disebarkan ke seluruh dunia, dan beratus-ratus juta orang pakai, sysyarikat-syarikat besar ni, semua ni kan? Mhm. Dan yang hujung sekali kita akan bercakap tentang hayat kerajaan Madani sekarang ini. Jadi tengok sampai habis. Kita cuba kita cuba apa ni, ah agihkan masa yang betul. Kalau macam tu, maksudnya lebih kurang sejam-sejam. Mhm. Mhm. Ha, panjang lah sejam-sejam kan. Ha. Tapi selalunya yang kuat dengan e-fishery nilah yang akan terheret lah. Terheret lah. Ha. Okey baik YB. Duit rakyat hilang lagi. ah dan YB akan cuba mengaitkan semuanya sekali. Ah, kuat, Network School dan Tabung Haji sekali. Mhm. Ha ah, ah saya pun tak tahu macam mana, ah angle yang YB nak ambil. Cuma, ah kalau kita tengok yang isu kuat ni YB, ah saya rasa orang, ah tengok sebab jawapan, ah jawapan daripada kerajaan ni as if benda ni tak ada apa, benda ni kecil sahaja. Tengku Zafrul kata, "Ini less than 1%." Oh, itu jawapan Zafrul? Yalah, bukan duit dia. Mhm. Ha ah ah ah. Okey, kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[03:04] Satu lagi ialah calon terbuka daripada kalangan golongan profesional, daripada golongan muda.
 
-[01:05:05] Cheng, marathon ni sesuai untuk Rafizi.
 
-[01:05:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[01:06:05] Speaker 1: YB minat lari dari mana ke mana?
+[03:11] Mereka yang ke depan untuk menawarkan khidmat untuk menyumbang kepada masyarakat.
 
-[01:06:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[01:07:07] Speaker 1: Work smart.
 
-[01:07:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[03:17] Kepada mereka yang belum lagi memohon menjadi calon, boleh pergi ke laman bersamame.org, klik sertai kami.
 
-[01:08:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[01:09:21] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[01:13:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[03:28] Dekat situ boleh memohon untuk menjadi calon, kena melalui temuduga dengan skrin seperti yang telah dilalui oleh calon-calon lain.
 
-[01:14:05] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[01:16:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[01:18:00] Speaker 1: Mhm.
+[03:38] Dan hari ini tadi apps Kancil telah mula beroperasi untuk pengguna-pengguna Android.
 
-[01:19:12] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[01:20:46] Speaker 1: Dia tak terpakailah.
 
-[01:21:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[03:47] Dia memang macam tu selalunya Android Play Store, Android Play Store selalunya lebih cepat daripada Apple Store.
 
-[01:21:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[01:22:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[01:22:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[03:55] Jadi kepada ahli-ahli bersama yang menggunakan Android, boleh mula untuk muat turun Kancil dah live dan melalui proses itu dan daripada situ boleh melihat bagaimanakah kita berhasrat untuk menggunakan kekuatan digital itu untuk menguruskan ahli-ahli bersama.
 
-[01:23:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[01:23:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[01:24:07] Speaker 1: Work smart.
+[04:22] Dan juga harapan kita dari satu masa ke satu masa, kita akan perkenalkan feature-feature baru yang bukan sahaja membantu ahli-ahli bersama di bawah untuk tampil ke depan, menawarkan diri untuk mengendalikan program, untuk membantu, meluaskan bersama di peringkat kawasan masing-masing.
 
-[01:24:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[01:25:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[01:26:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[04:49] Tetapi juga untuk membezakan sumbangan ahli-ahli yang sedang berusaha sekarang.
 
-[01:29:43] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[01:30:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[01:32:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[04:57] Jadi itu proses untuk kita membudayakan satu politik yang baru yang mana ia mestilah berasaskan kepada merit.
 
-[01:33:44] Speaker 1: Mhm.
 
-[01:34:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[01:35:46] Speaker 1: Dia tak terpakailah.
+[05:05] Sebab itu kita tidak mahu mengadakan sebarang lantikan pimpinan buat masa sekarang untuk kita membenarkan proses ini berlaku terlebih dahulu supaya ahli-ahli bersama mereka boleh kenal sendiri mengikut track record sesama mereka.
 
-[01:36:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[01:36:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[01:37:24] Cheng, marathon ni sesuai untuk Rafizi.
+[05:25] Dan bila pada masa yang sesuai itu, kita ada kayu ukur kayu ukur kita, barulah satu pemilihan di seluruh negara akan dibuat untuk memilih pimpinan.
 
-[01:37:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[01:38:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[01:38:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[05:37] Dan daripada situ harapan saya ialah apps Kancil akan memberi satu bentuk ketelusan supaya ahli-ahli bersama ini dapat menilai siapa yang layak diberikan amanah sebagai pemimpin.
 
-[01:39:07] Speaker 1: Work smart.
 
-[01:39:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[01:40:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[05:59] Kita masih menungu Apple Store untuk meluluskan app lagi.
 
-[01:41:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[01:45:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[01:46:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[06:01] Berapa lama gila?
 
-[01:49:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[01:50:44] Speaker 1: Mhm.
 
-[01:51:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[06:01] You tak tak pernah boleh tahu sebenarnya.
 
-[01:52:46] Speaker 1: Dia tak terpakailah.
 
-[01:53:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[01:53:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[06:03] Bagi mereka yang biasa dalam bidang digital ini, masalah Android Play Store dengan Apple Store ini, proses dia tu agak panjang.
 
-[01:54:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[01:54:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[01:55:05] Speaker 1: YB minat lari dari mana ke mana?
+[06:15] Pertama kena mendaftarkan bersama sebagai pembangun aplikasi.
 
-[01:55:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[01:56:07] Speaker 1: Work smart.
 
-[01:56:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[06:21] Selepas itu telah diluluskan maka kita kena submit aplikasi itu.
 
-[01:57:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[01:58:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[02:02:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[06:29] Dan dia sebenarnya bergantung kepada Apple Store ataupun Android kerana mereka akan semak.
 
-[02:03:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[02:05:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[02:06:44] Speaker 1: Mhm.
+[06:35] Jadi dia juga bergantung kepada cepat, laju ataupun ada perkara-perkara yang mereka minta tukar, sebetulmulah.
 
-[02:07:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[02:08:46] Speaker 1: Dia tak terpakailah.
 
-[02:09:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[06:41] Dia minta tukar kadang-kadang kan.
 
-[02:09:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[02:10:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[02:10:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[06:45] Jadi kita mulakan dengan Android dahulu dan kita doalah dalam tempoh satu dua minggu ini Apple Store pun meluluskan dan itu akan mempercepatkan lagi selaras dengan perancangan-perancangan yang sedang dibuat sekarang.
 
-[02:11:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[02:11:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[02:12:07] Speaker 1: Work smart.
+[07:03] Baik baik baik.
 
-[02:12:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[02:13:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[02:14:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[07:04] Okey, satu soalan, enam minit.
 
-[02:18:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[02:19:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[02:21:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[07:07] Betullah dia kena bagi update dulu.
 
-[02:22:44] Speaker 1: Mhm.
 
-[02:23:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[02:24:46] Speaker 1: Dia tak terpakailah.
+[07:09] Okey, kita macam biasa, kita start dengan beria, beria.
 
-[02:25:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[02:25:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[02:26:24] Cheng, marathon ni sesuai untuk Rafizi.
+[07:15] Sekarang pun orang aku tengok banyak juga yang lama cakap beria, beria.
 
-[02:26:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[02:27:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[02:27:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[07:21] Aku rasa ahli politik lain pun dah mula menggunakan kata beria, transalter, transalter.
 
-[02:28:07] Speaker 1: Work smart.
 
-[02:28:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[02:29:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[07:26] Okey, kita tengok apa yang ada minggu ini.
 
-[02:30:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[02:34:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[02:35:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[07:29] Okey, yang pertama.
 
-[02:37:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[02:38:44] Speaker 1: Mhm.
 
-[02:39:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[07:32] Chang BRMat.
 
-[02:40:46] Speaker 1: Dia tak terpakailah.
 
-[02:41:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[02:41:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[07:34] Maraton ni sesuai untuk Rafizi.
 
-[02:42:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[02:42:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[02:43:05] Speaker 1: YB minat lari dari mana ke mana?
+[07:38] Shortest race in the world.
 
-[02:43:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[02:44:07] Speaker 1: Work smart.
 
-[02:44:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[07:40] Aku kata dalam zakatlah, boleh je.
 
-[02:45:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[02:46:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[02:50:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[07:43] Ini sebab apa?
 
-[02:51:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[02:53:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[02:54:44] Speaker 1: Mhm.
+[07:44] Sebab ada orang kata, aku patut buat larian seperti Said Sadik untuk race fund untuk bersama.
 
-[02:55:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[02:56:46] Speaker 1: Dia tak terpakailah.
 
-[02:57:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[07:56] Eh, nak lari dari mana ke mana?
 
-[02:57:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[02:58:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[02:58:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[07:57] Tak tak, aku rasa kita buat begini, yang buat begini.
 
-[02:59:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[02:59:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[03:00:07] Speaker 1: Work smart.
+[08:01] Mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[03:00:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[03:01:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[03:02:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[08:08] So, dari segi efisiensi, itu lebih cekap, itu lebih efisien kan.
 
-[03:06:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[03:07:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[03:09:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[08:15] Boleh je actually, kita pun memang tengah nak buat satu bentuk apa ni, bukanlah permainan tapi satu aktiviti rakyat yang yang yang sebenarnya banyak dia dah jadi trend di negara-negara lain kan.
 
-[03:10:44] Speaker 1: Mhm.
 
-[03:11:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[03:12:46] Speaker 1: Dia tak terpakailah.
+[08:37] Jadi dia berbentuk obstacle course.
 
-[03:13:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[03:13:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[03:14:24] Cheng, marathon ni sesuai untuk Rafizi.
+[08:38] Tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga.
 
-[03:14:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[03:15:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[03:15:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[08:48] Jadi kita boleh disignlah salah satunya mungkin yang ni kot.
 
-[03:16:07] Speaker 1: Work smart.
 
-[03:16:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[03:17:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[08:52] So, aku tunggu kat depan sekali, lepas tu aku lari 10 minit.
 
-[03:18:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[03:22:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[03:23:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[08:57] Okey, baik, baik.
 
-[03:25:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[03:26:44] Speaker 1: Mhm.
 
-[03:27:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[08:58] Ni kenapa pula?
 
-[03:28:46] Speaker 1: Dia tak terpakailah.
 
-[03:29:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[03:29:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[08:58] Beria ni apa?
 
-[03:30:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[03:30:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[03:31:05] Speaker 1: YB minat lari dari mana ke mana?
+[08:59] Kena mengena dia dengan beria?
 
-[03:31:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[03:32:07] Speaker 1: Work smart.
 
-[03:32:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[09:01] Berialah dia buat pendek.
 
-[03:33:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[03:34:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[03:38:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[09:03] Okey.
 
-[03:39:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[03:41:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[03:42:44] Speaker 1: Mhm.
+[09:05] Tapi bagi idea baru, idea baru.
 
-[03:43:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[03:44:46] Speaker 1: Dia tak terpakailah.
 
-[03:45:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[09:10] Tapi sekarang ni sebab macam tengah, orang tengah form untuk lari-lari semua.
 
-[03:45:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[03:46:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[03:46:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[09:15] YB kan tengah nak fit.
 
-[03:47:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[03:47:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[03:48:07] Speaker 1: Work smart.
+[09:16] YB tak ada join.
 
-[03:48:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[03:49:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[03:50:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[09:17] Yang bayar-bayar ni.
 
-[03:54:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[03:55:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[03:57:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[09:18] Mana ada form sekarang nak lari-lari daripada zaman dulu.
 
-[03:58:44] Speaker 1: Mhm.
 
-[03:59:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[04:00:46] Speaker 1: Dia tak terpakailah.
+[09:21] Memanglah.
 
-[04:01:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[04:01:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[04:02:24] Cheng, marathon ni sesuai untuk Rafizi.
+[09:23] Cuma mungkinlah ada orang yang continuously pick up running kan.
 
-[04:02:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[04:03:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[04:03:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[09:30] Saya memang dah ke laut semua sebab garagara bersama dan juga politik.
 
-[04:04:07] Speaker 1: Work smart.
 
-[04:04:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[04:05:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[09:37] Saya dulu lepas resign tahun lepas bulan enam bulan tujuh tu dia pick up quite okey.
 
-[04:06:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[04:10:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[04:11:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[09:44] Saya tak boleh nak stretch macam dulu.
 
-[04:13:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[04:14:44] Speaker 1: Mhm.
 
-[04:15:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[09:48] So lari agak pace dia tu perlahanlah bandingan dulu-dulu sebab maximum heart rate ni dah jadi lainlah kan.
 
-[04:16:46] Speaker 1: Dia tak terpakailah.
 
-[04:17:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[04:17:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[09:58] Jadi tapi lepas itu lepas bulan puasa cuti puasa Ramadan sebulan lepas bulan puasa terus plan untuk lancar bersama koyak sampai sekarang.
 
-[04:18:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[04:18:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[04:19:05] Speaker 1: YB minat lari dari mana ke mana?
+[10:10] Aku tak exercise langsung.
 
-[04:19:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[04:20:07] Speaker 1: Work smart.
 
-[04:20:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[10:12] Bulan puasa bulan berapa?
 
-[04:21:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[04:22:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[04:26:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[10:13] Bulan empat, bulan empat.
 
-[04:27:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[04:29:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[04:30:44] Speaker 1: Mhm.
+[10:14] Ha ni dah nak masuk tiga bulanlah kan.
 
-[04:31:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[04:32:46] Speaker 1: Dia tak terpakailah.
 
-[04:33:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[10:16] Tiga bulan.
 
-[04:33:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[04:34:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[04:34:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[10:18] Okey baik YB.
 
-[04:35:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[04:35:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[04:36:07] Speaker 1: Work smart.
+[10:19] Baik.
 
-[04:36:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[04:37:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[04:38:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[10:20] Kita tengok yang next.
 
-[04:42:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[04:43:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[04:45:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[10:21] Beria kau ambil ambil binatang ni kan.
 
-[04:46:44] Speaker 1: Mhm.
 
-[04:47:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[04:48:46] Speaker 1: Dia tak terpakailah.
+[10:23] Saja.
 
-[04:49:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[04:49:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[04:50:24] Cheng, marathon ni sesuai untuk Rafizi.
+[10:26] Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi.
 
-[04:50:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[04:51:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[04:51:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[10:31] Okey, itu marathon, ini World Cup.
 
-[04:52:07] Speaker 1: Work smart.
 
-[04:52:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[04:53:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[10:36] Tapi ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah.
 
-[04:54:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[04:58:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[04:59:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[10:44] Ini betul ke tidak ni?
 
-[05:01:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[05:02:44] Speaker 1: Mhm.
 
-[05:03:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[10:46] Sebab sekarang ni masyarakat.
 
-[05:04:46] Speaker 1: Dia tak terpakailah.
 
-[05:05:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[05:05:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[10:47] Hey again tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan.
 
-[05:06:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[05:06:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[05:07:05] Speaker 1: YB minat lari dari mana ke mana?
+[10:50] Sebab selalunya zaman sekarang ini ialah zaman konten.
 
-[05:07:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[05:08:07] Speaker 1: Work smart.
 
-[05:08:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[10:56] Terutamanya dekat trek.
 
-[05:09:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[05:10:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[05:14:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[10:58] Cuma so far sekarang ni benda ni macam dia dah ada berita yang kuatlah dan memang orang macam sahkan benda tu.
 
-[05:15:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[05:17:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[05:18:44] Speaker 1: Mhm.
+[11:06] Ya berita pun memang kontennya.
 
-[05:19:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[05:20:46] Speaker 1: Dia tak terpakailah.
 
-[05:21:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[11:08] Sekarang apa ni click bait semua kan untuk dapat klik sahaja kan.
 
-[05:21:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[05:22:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[05:22:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[11:12] Jadi kita sebenarnya tak tahu tak tahu yang sebenar.
 
-[05:23:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[05:23:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[05:24:07] Speaker 1: Work smart.
+[11:15] Ada ketidak orang yang macam ini yang bertarung dengan kawan dia kalau Argentina kalah terus jatuh talak tiga.
 
-[05:24:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[05:25:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[05:26:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[11:24] Dulu-dulu benda ni dalam politik je.
 
-[05:30:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[05:31:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[05:33:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[11:28] YB cakap baru teringat.
 
-[05:34:44] Speaker 1: Mhm.
 
-[05:35:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[05:36:46] Speaker 1: Dia tak terpakailah.
+[11:31] Kalau lompat parti kosongkan maka jatuh talak.
 
-[05:37:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[05:37:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[05:38:24] Cheng, marathon ni sesuai untuk Rafizi.
+[11:35] Tapi lama sangat YB.
 
-[05:38:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[05:39:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[05:39:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[11:36] Saya pun macam dah tak boleh.
 
-[05:40:07] Speaker 1: Work smart.
 
-[05:40:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[05:41:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[11:39] Tak payahlah kan.
 
-[05:42:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[05:46:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[05:47:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[11:41] Yang mana kan.
 
-[05:49:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[05:50:44] Speaker 1: Mhm.
 
-[05:51:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[11:42] Tapi aku masa tu nak juga tanya kecil-kecil dulu.
 
-[05:52:46] Speaker 1: Dia tak terpakailah.
 
-[05:53:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[05:53:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[11:44] Tapi kalau dia tak kahwin macam mana?
 
-[05:54:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[05:54:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[05:55:05] Speaker 1: YB minat lari dari mana ke mana?
+[11:46] Ada kelebihan kan untuk dia.
 
-[05:55:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[05:56:07] Speaker 1: Work smart.
 
-[05:56:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[11:49] So dia, dia tak ada bayarlah.
 
-[05:57:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[05:58:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[06:02:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[11:51] Dia tak ada apa ni, so dia mudahlah untuk lompat.
 
-[06:03:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[06:05:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[06:06:44] Speaker 1: Mhm.
+[11:56] Ataupun adakah itu bermaksud calon PAS hanya mesti untuk orang yang kahwin saja?
 
-[06:07:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[06:08:46] Speaker 1: Dia tak terpakailah.
 
-[06:09:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[12:04] Sebab kalau tak ada tak kahwin, maka tak boleh nak ikat dengan bond seperti itu.
 
-[06:09:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[06:10:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[06:10:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[12:12] Itu soalan-soalan kita boleh tanya kepada PAS lah.
 
-[06:11:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[06:11:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[06:12:07] Speaker 1: Work smart.
+[12:14] So yang itu lagi ke orang yang kita nak tanya tu?
 
-[06:12:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[06:13:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[06:14:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[12:17] Well, tak tahulah.
 
-[06:18:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[06:19:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[06:21:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[12:18] Nanti adalah orang PAS menjawab kat luar.
 
-[06:22:44] Speaker 1: Mhm.
 
-[06:23:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[06:24:46] Speaker 1: Dia tak terpakailah.
+[12:21] So apa yang nak ceritanya?
 
-[06:25:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[06:25:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[06:26:24] Cheng, marathon ni sesuai untuk Rafizi.
+[12:24] Konon beria orang yang sekiranya betul beria, sekiranya tak betull berialah orang ni buat screenshot.
 
-[06:26:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[06:27:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[06:27:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[12:31] Ini bukan beria, namanya bodoh.
 
-[06:28:07] Speaker 1: Work smart.
 
-[06:28:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[06:29:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[12:33] Bodoh.
 
-[06:30:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[06:34:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[06:35:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[12:34] Ha-ah.
 
-[06:37:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[06:38:44] Speaker 1: Mhm.
 
-[06:39:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[12:35] Yalah.
 
-[06:40:46] Speaker 1: Dia tak terpakailah.
 
-[06:41:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[06:41:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[12:37] Sebab tu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang.
 
-[06:42:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[06:42:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[06:43:05] Speaker 1: YB minat lari dari mana ke mana?
+[12:44] Hm-hm-hm.
 
-[06:43:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[06:44:07] Speaker 1: Work smart.
 
-[06:44:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[12:44] Aku ragu-ragulah.
 
-[06:45:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[06:46:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[06:50:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[12:46] Tak tahu, tak kanlah jahil sangat kut.
 
-[06:51:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-lecl dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[06:53:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[06:54:44] Speaker 1: Mhm.
+[12:48] Mungkin tak ada kan.
 
-[06:55:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[06:56:46] Speaker 1: Dia tak terpakailah.
 
-[06:57:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[12:49] Mungkin tak ada kut.
 
-[06:57:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[06:58:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[06:58:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[12:50] Beria siapa yang buat cerita ni sampai Dr Zulkifli kena pergi reply kan.
 
-[06:59:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[06:59:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[07:00:07] Speaker 1: Work smart.
+[12:59] Okey.
 
-[07:00:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[07:01:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[07:02:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[13:00] Macam-macam.
 
-[07:06:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[07:07:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[07:09:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[13:00] Tapi dia berjayalah sampai masuk dalam beria dalam YBM.
 
-[07:10:44] Speaker 1: Mhm.
 
-[07:11:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[07:12:46] Speaker 1: Dia tak terpakailah.
+[13:04] I don't know, I don't think ada orang sebodoh ini sekarang.
 
-[07:13:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[07:13:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[07:14:24] Cheng, marathon ni sesuai untuk Rafizi.
+[13:09] Hm-hm.
 
-[07:14:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[07:15:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[07:15:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[13:09] Hopefully tak ada.
 
-[07:16:07] Speaker 1: Work smart.
 
-[07:16:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[07:17:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[13:10] Okey.
 
-[07:18:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[07:22:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[07:23:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[13:11] Lebih baik tak ada.
 
-[07:25:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[07:26:44] Speaker 1: Mhm.
 
-[07:27:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[13:12] Ah, tapi kak nak buat kak apa aku nak buat?
 
-[07:28:46] Speaker 1: Dia tak terpakailah.
 
-[07:29:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[07:29:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[13:16] Laki aku bertarung dengan kawan-kawan dia.
 
-[07:30:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[07:30:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[07:31:05] Speaker 1: YB minat lari dari mana ke mana?
+[13:19] Kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga.
 
-[07:31:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[07:32:07] Speaker 1: Work smart.
 
-[07:32:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[13:23] Ya Allah.
 
-[07:33:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[07:34:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[07:38:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[13:25] Hm.
 
-[07:39:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[07:41:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[07:42:44] Speaker 1: Mhm.
+[13:25] Hm.
 
-[07:43:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[07:44:46] Speaker 1: Dia tak terpakailah.
 
-[07:45:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[13:26] Baik YB, kita.
 
-[07:45:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[07:46:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[07:46:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[13:27] So nanti je aku cuba cuba nak fikir yang beria ni.
 
-[07:47:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[07:47:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[07:48:07] Speaker 1: Work smart.
+[13:31] Itu kalau dia betting kan, dia betting.
 
-[07:48:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[07:49:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[07:50:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[13:34] Dia betting ni mestilah ada kalau kalah kena buat apa?
 
-[07:54:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[07:55:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[07:57:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[13:40] Kalau Argentina kalah kena cera talak tiga.
 
-[07:58:44] Speaker 1: Mhm.
 
-[07:59:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[08:00:46] Speaker 1: Dia tak terpakailah.
+[13:44] Kalau Argentina menang, dia tak tepakailah.
 
-[08:01:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[08:01:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[08:02:24] Cheng, marathon ni sesuai untuk Rafizi.
+[13:48] So, betting apa bodohnya macam tu kan.
 
-[08:02:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[08:03:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[08:03:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[13:51] Dia buka Dia tak dapat apa?
 
-[08:04:07] Speaker 1: Work smart.
 
-[08:04:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[08:05:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[13:54] Ha.
 
-[08:06:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[08:10:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[08:11:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[13:54] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[08:13:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[08:14:44] Speaker 1: Mhm.
 
-[08:15:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[13:58] Ada macam-macam eh YB punya analisis.
 
-[08:16:46] Speaker 1: Dia tak terpakailah.
 
-[08:17:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[08:17:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[14:02] Betul tak?
 
-[08:18:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[08:18:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[08:19:05] Speaker 1: YB minat lari dari mana ke mana?
+[14:03] So, Dia bagi reason tu.
 
-[08:19:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[08:20:07] Speaker 1: Work smart.
 
-[08:20:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[14:04] Dia bagi reason.
 
-[08:21:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[08:22:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[08:26:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[14:06] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[08:27:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[08:29:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[08:30:44] Speaker 1: Mhm.
+[14:10] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[08:31:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[08:32:46] Speaker 1: Dia tak terpakailah.
 
-[08:33:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[14:24] Kalau Argentina menang, dia tak tepakailah.
 
-[08:33:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[08:34:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[08:34:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[14:28] So, betting apa bodohnya macam tu kan.
 
-[08:35:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[08:35:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[08:36:07] Speaker 1: Work smart.
+[14:31] Dia buka Dia tak dapat apa?
 
-[08:36:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[08:37:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[08:38:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[14:33] Ha.
 
-[08:42:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[08:43:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[08:45:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[14:34] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[08:46:44] Speaker 1: Mhm.
 
-[08:47:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[08:48:46] Speaker 1: Dia tak terpakailah.
+[14:38] Ada macam-macam eh YB punya analisis.
 
-[08:49:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[08:49:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[08:50:24] Cheng, marathon ni sesuai untuk Rafizi.
+[14:42] Betul tak?
 
-[08:50:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[08:51:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[08:51:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[14:43] So, Dia bagi reason tu.
 
-[08:52:07] Speaker 1: Work smart.
 
-[08:52:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[08:53:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[14:44] Dia bagi reason.
 
-[08:54:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[08:58:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[08:59:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[14:46] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[09:01:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[09:02:44] Speaker 1: Mhm.
 
-[09:03:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[14:50] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[09:04:46] Speaker 1: Dia tak terpakailah.
 
-[09:05:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[09:05:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[15:06] Kalau Argentina menang, dia tak tepakailah.
 
-[09:06:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[09:06:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[09:07:05] Speaker 1: YB minat lari dari mana ke mana?
+[15:08] So, betting apa bodohnya macam tu kan.
 
-[09:07:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[09:08:07] Speaker 1: Work smart.
 
-[09:08:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[15:11] Dia buka Dia tak dapat apa?
 
-[09:09:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[09:10:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[09:14:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[15:13] Ha.
 
-[09:15:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[09:17:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[09:18:44] Speaker 1: Mhm.
+[15:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[09:19:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[09:20:46] Speaker 1: Dia tak terpakailah.
 
-[09:21:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[15:18] Ada macam-macam eh YB punya analisis.
 
-[09:21:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[09:22:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[09:22:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[15:22] Betul tak?
 
-[09:23:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[09:23:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[09:24:07] Speaker 1: Work smart.
+[15:23] So, Dia bagi reason tu.
 
-[09:24:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[09:25:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[09:26:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[15:24] Dia bagi reason.
 
-[09:30:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[09:31:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[09:33:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[15:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[09:34:44] Speaker 1: Mhm.
 
-[09:35:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[09:36:46] Speaker 1: Dia tak terpakailah.
+[15:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[09:37:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[09:37:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[09:38:24] Cheng, marathon ni sesuai untuk Rafizi.
+[15:46] Kalau Argentina menang, dia tak tepakailah.
 
-[09:38:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[09:39:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[09:39:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[15:50] So, betting apa bodohnya macam tu kan.
 
-[09:40:07] Speaker 1: Work smart.
 
-[09:40:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[09:41:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[15:53] Dia buka Dia tak dapat apa?
 
-[09:42:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[09:46:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[09:47:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[15:55] Ha.
 
-[09:49:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[09:50:44] Speaker 1: Mhm.
 
-[09:51:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[15:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[09:52:46] Speaker 1: Dia tak terpakailah.
 
-[09:53:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[09:53:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[16:00] Ada macam-macam eh YB punya analisis.
 
-[09:54:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[09:54:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[09:55:05] Speaker 1: YB minat lari dari mana ke mana?
+[16:04] Betul tak?
 
-[09:55:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[09:56:07] Speaker 1: Work smart.
 
-[09:56:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[16:05] So, Dia bagi reason tu.
 
-[09:57:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[09:58:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[10:02:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[16:06] Dia bagi reason.
 
-[10:03:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[10:05:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[10:06:44] Speaker 1: Mhm.
+[16:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[10:07:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[10:08:46] Speaker 1: Dia tak terpakailah.
 
-[10:09:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[16:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[10:09:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[10:10:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[10:10:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[16:28] Kalau Argentina menang, dia tak tepakailah.
 
-[10:11:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[10:11:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[10:12:07] Speaker 1: Work smart.
+[16:32] So, betting apa bodohnya macam tu kan.
 
-[10:12:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[10:13:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[10:14:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[16:35] Dia buka Dia tak dapat apa?
 
-[10:18:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[10:19:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[10:21:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[16:37] Ha.
 
-[10:22:44] Speaker 1: Mhm.
 
-[10:23:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[10:24:46] Speaker 1: Dia tak terpakailah.
+[16:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[10:25:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[10:25:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[10:26:24] Cheng, marathon ni sesuai untuk Rafizi.
+[16:42] Ada macam-macam eh YB punya analisis.
 
-[10:26:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[10:27:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[10:27:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[16:46] Betul tak?
 
-[10:28:07] Speaker 1: Work smart.
 
-[10:28:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[10:29:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[16:47] So, Dia bagi reason tu.
 
-[10:30:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[10:34:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[10:35:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[16:48] Dia bagi reason.
 
-[10:37:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[10:38:44] Speaker 1: Mhm.
 
-[10:39:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[16:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[10:40:46] Speaker 1: Dia tak terpakailah.
 
-[10:41:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[10:41:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[16:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[10:42:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[10:42:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[10:43:05] Speaker 1: YB minat lari dari mana ke mana?
+[17:10] Kalau Argentina menang, dia tak tepakailah.
 
-[10:43:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[10:44:07] Speaker 1: Work smart.
 
-[10:44:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[17:14] So, betting apa bodohnya macam tu kan.
 
-[10:45:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[10:46:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[10:50:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[17:17] Dia buka Dia tak dapat apa?
 
-[10:51:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[10:53:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[10:54:44] Speaker 1: Mhm.
+[17:19] Ha.
 
-[10:55:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[10:56:46] Speaker 1: Dia tak terpakailah.
 
-[10:57:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[17:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[10:57:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[10:58:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[10:58:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[17:24] Ada macam-macam eh YB punya analisis.
 
-[10:59:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[10:59:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[11:00:07] Speaker 1: Work smart.
+[17:28] Betul tak?
 
-[11:00:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[11:01:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[11:02:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[17:29] So, Dia bagi reason tu.
 
-[11:06:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[11:07:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[11:09:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[17:30] Dia bagi reason.
 
-[11:10:44] Speaker 1: Mhm.
 
-[11:11:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[11:12:46] Speaker 1: Dia tak terpakailah.
+[17:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[11:13:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[11:13:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[11:14:24] Cheng, marathon ni sesuai untuk Rafizi.
+[17:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[11:14:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[11:15:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[11:15:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[17:52] Kalau Argentina menang, dia tak tepakailah.
 
-[11:16:07] Speaker 1: Work smart.
 
-[11:16:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[11:17:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[17:56] So, betting apa bodohnya macam tu kan.
 
-[11:18:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[11:22:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[11:23:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[17:59] Dia buka Dia tak dapat apa?
 
-[11:25:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[11:26:44] Speaker 1: Mhm.
 
-[11:27:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[18:01] Ha.
 
-[11:28:46] Speaker 1: Dia tak terpakailah.
 
-[11:29:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[11:29:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[18:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[11:30:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[11:30:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[11:31:05] Speaker 1: YB minat lari dari mana ke mana?
+[18:06] Ada macam-macam eh YB punya analisis.
 
-[11:31:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[11:32:07] Speaker 1: Work smart.
 
-[11:32:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[18:10] Betul tak?
 
-[11:33:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[11:34:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[11:38:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[18:11] So, Dia bagi reason tu.
 
-[11:39:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[11:41:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[11:42:44] Speaker 1: Mhm.
+[18:12] Dia bagi reason.
 
-[11:43:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[11:44:46] Speaker 1: Dia tak terpakailah.
 
-[11:45:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[18:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[11:45:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[11:46:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[11:46:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[18:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[11:47:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[11:47:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[11:48:07] Speaker 1: Work smart.
+[18:34] Kalau Argentina menang, dia tak tepakailah.
 
-[11:48:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[11:49:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[11:50:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[18:38] So, betting apa bodohnya macam tu kan.
 
-[11:54:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[11:55:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[11:57:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[18:41] Dia buka Dia tak dapat apa?
 
-[11:58:44] Speaker 1: Mhm.
 
-[11:59:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[12:00:46] Speaker 1: Dia tak terpakailah.
+[18:43] Ha.
 
-[12:01:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[12:01:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[12:02:24] Cheng, marathon ni sesuai untuk Rafizi.
+[18:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[12:02:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[12:03:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[12:03:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
+[18:48] Ada macam-macam eh YB punya analisis.
 
-[12:04:07] Speaker 1: Work smart.
 
-[12:04:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[12:05:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
+[18:52] Betul tak?
 
-[12:06:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[12:10:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[12:11:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
+[18:53] So, Dia bagi reason tu.
 
-[12:13:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[12:14:44] Speaker 1: Mhm.
 
-[12:15:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
+[18:54] Dia bagi reason.
 
-[12:16:46] Speaker 1: Dia tak terpakailah.
 
-[12:17:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[12:17:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
+[18:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[12:18:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[12:18:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
 
-[12:19:05] Speaker 1: YB minat lari dari mana ke mana?
+[19:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[12:19:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[12:20:07] Speaker 1: Work smart.
 
-[12:20:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
+[19:16] Kalau Argentina menang, dia tak tepakailah.
 
-[12:21:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[12:22:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
 
-[12:26:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
+[19:20] So, betting apa bodohnya macam tu kan.
 
-[12:27:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[12:29:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
 
-[12:30:44] Speaker 1: Mhm.
+[19:23] Dia buka Dia tak dapat apa?
 
-[12:31:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[12:32:46] Speaker 1: Dia tak terpakailah.
 
-[12:33:04] Speaker 2: Betul lah dia kena bagi update dulu.
+[19:25] Ha.
 
-[12:33:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[12:34:24] Cheng, marathon ni sesuai untuk Rafizi.
 
-[12:34:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje. Ini sebab apa? Sebab ada orang kata, aku patut buat larian seperti Syed Saddiq untuk race fund untuk bersama.
+[19:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[12:35:05] Speaker 1: YB minat lari dari mana ke mana?
 
-[12:35:12] Speaker 2: Tak tak, aku rasa kita buat begini, yang buat begini, mungkin untuk 10 meter sahaja tapi pastikan kita race sama banyak macam itu.
 
-[12:36:07] Speaker 1: Work smart.
+[19:30] Ada macam-macam eh YB punya analisis.
 
-[12:36:08] Speaker 2: Work smart, so dari segi efficiency itu lebih cekap, itu lebih efficient kan. Boleh aje actually, kita pun memang tengah nak buat satu bentuk ah, bukanlah permainan tapi satu aktiviti rakyat yang, yang, yang sebenarnya banyak, dia dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku larilah 10 minit.
 
-[12:37:57] Speaker 1: Okey, baik baik. Ni kenapa pula? Beria ni apa kena mengena dia dengan beria?
 
-[12:38:58] Speaker 2: Beria lah dia buat pendek YB. Oh, tapi bagus bagus bagus bagus, ini bagi idea baru, idea baru. Tapi sekarang ni sebab macam tengah orang tengah FOMO untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni? Mana ada FOMO sekarang nak lari-lari, daripada zaman dulu, memanglah. Cuma mungkin lah ada orang yang continuously pick up running kan, saya memang dah ke laut semua, sebab gara-gara bersama dan juga politik, saya dulu lepas resign tahun lepas, bulan enam, bulan tujuh tu dia pick up quite okey, saya tak boleh nak stretch macam dulu, so lari agak, pace dia tu perlahan lah berbanding dulu-dulu, sebab maksimum heart rate ni dah jadi lain lah kan, jadi, tapi selepas itu, selepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa, terus plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung, bulan puasa bulan berapa? Bulan empat. Bulan empat. Ha, ini dah nak masuk tiga bulan lah kan. Tiga bulan. Okey baik YB. Baik. Kita tengok yang next. Beria kau orang pergi ambil binatang ni. Okey. Aku langsung tak terasa kau orang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon, yang ini World Cup. Tapi ah ada orang yang lebih beria, dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni? Sebab sekarang ni masalah. Eh again, tapi YB selalu cakap ini biasa dia screenshot, dia buat sendiri-sendiri kan? Sebab selalunya zaman sekarang ini ialah zaman konten. Terutamanya dekat trek. Cuma so far sekarang ni benda ni macam dia dah ada berita yang quotelah dan memang orang macam sahkan benda tu. Ya, berita pun memang konten nya. Sekarang apa ni, clickbait semua kan? untuk dapat klik sahaja kan, jadi kita sebenarnya tak tahu lah. Tak tahu yang sebenar. Ada ke tidak orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah, ah terus jatuh talak tiga.
+[19:34] Betul tak?
 
-[12:42:44] Speaker 1: Dulu-dulu benda ni dalam politik aje.
 
-[12:43:35] Speaker 2: YB cakap baru tring. Kalau lompat parti kosongkan, maka jatuh talak. Tapi lama sangat YB, saya pun macam dah tak boleh. Yalah yalah yalah, tak payah sebutlah kan, yang mana kan. Tapi aku masa itu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana? Ada ke kelebihan ke untuk dia? so dia dia tak ada baiah lah, dia tak ada apa ni so so dia mudahlah untuk lompat. ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin sahaja? Sebab kalau tak ada, tak kahwin, maka tak boleh nak ikat dengan bond seperti itu. itu soalan-soalan kita boleh tanya kepada PAS lah. So yang itu lagi ke orang yang kita nak tanya tu? Tak, well, tak tahulah, nanti adalah orang PAS menjawab kat luar ni. Ah so, apa yang nak ceritanya? Konon beria orang yang Sekiranya betul, beria lah orang ni buat screenshot. Ini bukan beria, namanya bodoh. Bodoh. Yalah, sebab itu aku ragu-ragulah benda ini ada wujud manusia seperti ini sekarang, aku ragu-ragulah. Tak tahu, takkanlah jahil sangat kot. Mungkin tak ada kan. Mungkin tak ada kot, tak ada. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena reply. kena pergi reply kan.
 
-[12:45:00] Speaker 1: Okey, baiklah. Macam-macamlah. Tapi dia berjayalah sampai masuk dalam beria dalam YBM. I don't know, I don't think ada orang sebodoh ini, kot sekarang. Hopefully tak ada. Okey. Lebih baik tak ada. Mhm. Ah tapi, kak nak buat ah kak apa aku nak buat, laki aku bertaruh dengan kawan-kawan dia kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga, ya Allah.
+[19:35] So, Dia bagi reason tu.
 
-[12:46:44] Speaker 1: Mhm.
 
-[12:47:21] Speaker 2: Baik YB. Kita So, nanti kejap aku cuba cuba nak fikir yang beria ni, itu kalau dia betting kan. Dia betting. Dia betting ni, mestilah ada kalau kalah kena buat apa? Kalau menang dapat apa? Kalau Argentina kalah kena cerai talak tiga, kalau Argentina menang dapat apa?
 
-[12:48:46] Speaker 1: Dia tak terpakailah.
+[19:36] Dia bagi reason.
 
-[12:49:04] Speaker 2: Betul lah dia kena bagi update dulu.
 
-[12:49:11] Speaker 1: Okey kita macam biasa YB, kita start dengan beria. Beria. Sekarang pun orang aku tengok banyak aje yang dah mula cakap beria, beria. Aku rasa ahli politik lain pun dah mula menggunakan perkataan beria, transetter. Okey kita tengok apa yang ada minggu ni. Okey, yang pertama.
 
-[12:50:24] Cheng, marathon ni sesuai untuk Rafizi.
+[19:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[12:50:32] Speaker 2: Shortest race in the world. Aku tak ada masalah, boleh aje.
+
+
+[19:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[19:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[20:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[20:05] Dia buka Dia tak dapat apa?
+
+
+
+[20:07] Ha.
+
+
+
+[20:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[20:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[20:16] Betul tak?
+
+
+
+[20:17] So, Dia bagi reason tu.
+
+
+
+[20:18] Dia bagi reason.
+
+
+
+[20:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[20:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[20:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[20:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[20:47] Dia buka Dia tak dapat apa?
+
+
+
+[20:49] Ha.
+
+
+
+[20:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[20:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[20:58] Betul tak?
+
+
+
+[20:59] So, Dia bagi reason tu.
+
+
+
+[21:00] Dia bagi reason.
+
+
+
+[21:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[21:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[21:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[21:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[21:29] Dia buka Dia tak dapat apa?
+
+
+
+[21:31] Ha.
+
+
+
+[21:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[21:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[21:40] Betul tak?
+
+
+
+[21:41] So, Dia bagi reason tu.
+
+
+
+[21:42] Dia bagi reason.
+
+
+
+[21:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[21:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[22:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[22:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[22:11] Dia buka Dia tak dapat apa?
+
+
+
+[22:13] Ha.
+
+
+
+[22:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[22:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[22:22] Betul tak?
+
+
+
+[22:23] So, Dia bagi reason tu.
+
+
+
+[22:24] Dia bagi reason.
+
+
+
+[22:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[22:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[22:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[22:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[22:53] Dia buka Dia tak dapat apa?
+
+
+
+[22:55] Ha.
+
+
+
+[22:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[23:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[23:04] Betul tak?
+
+
+
+[23:05] So, Dia bagi reason tu.
+
+
+
+[23:06] Dia bagi reason.
+
+
+
+[23:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[23:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[23:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[23:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[23:35] Dia buka Dia tak dapat apa?
+
+
+
+[23:37] Ha.
+
+
+
+[23:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[23:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[23:46] Betul tak?
+
+
+
+[23:47] So, Dia bagi reason tu.
+
+
+
+[23:48] Dia bagi reason.
+
+
+
+[23:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[23:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[24:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[24:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[24:17] Dia buka Dia tak dapat apa?
+
+
+
+[24:19] Ha.
+
+
+
+[24:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[24:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[24:28] Betul tak?
+
+
+
+[24:29] So, Dia bagi reason tu.
+
+
+
+[24:30] Dia bagi reason.
+
+
+
+[24:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[24:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[24:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[24:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[24:59] Dia buka Dia tak dapat apa?
+
+
+
+[25:01] Ha.
+
+
+
+[25:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[25:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[25:10] Betul tak?
+
+
+
+[25:11] So, Dia bagi reason tu.
+
+
+
+[25:12] Dia bagi reason.
+
+
+
+[25:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[25:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[25:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[25:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[25:41] Dia buka Dia tak dapat apa?
+
+
+
+[25:43] Ha.
+
+
+
+[25:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[25:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[25:52] Betul tak?
+
+
+
+[25:53] So, Dia bagi reason tu.
+
+
+
+[25:54] Dia bagi reason.
+
+
+
+[25:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[26:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[26:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[26:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[26:23] Dia buka Dia tak dapat apa?
+
+
+
+[26:25] Ha.
+
+
+
+[26:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[26:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[26:34] Betul tak?
+
+
+
+[26:35] So, Dia bagi reason tu.
+
+
+
+[26:36] Dia bagi reason.
+
+
+
+[26:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[26:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[26:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[27:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[27:05] Dia buka Dia tak dapat apa?
+
+
+
+[27:07] Ha.
+
+
+
+[27:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[27:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[27:16] Betul tak?
+
+
+
+[27:17] So, Dia bagi reason tu.
+
+
+
+[27:18] Dia bagi reason.
+
+
+
+[27:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[27:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[27:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[27:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[27:47] Dia buka Dia tak dapat apa?
+
+
+
+[27:49] Ha.
+
+
+
+[27:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[27:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[27:58] Betul tak?
+
+
+
+[27:59] So, Dia bagi reason tu.
+
+
+
+[28:00] Dia bagi reason.
+
+
+
+[28:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[28:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[28:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[28:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[28:29] Dia buka Dia tak dapat apa?
+
+
+
+[28:31] Ha.
+
+
+
+[28:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[28:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[28:40] Betul tak?
+
+
+
+[28:41] So, Dia bagi reason tu.
+
+
+
+[28:42] Dia bagi reason.
+
+
+
+[28:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[28:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[29:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[29:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[29:11] Dia buka Dia tak dapat apa?
+
+
+
+[29:13] Ha.
+
+
+
+[29:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[29:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[29:22] Betul tak?
+
+
+
+[29:23] So, Dia bagi reason tu.
+
+
+
+[29:24] Dia bagi reason.
+
+
+
+[29:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[29:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[29:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[29:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[29:53] Dia buka Dia tak dapat apa?
+
+
+
+[29:55] Ha.
+
+
+
+[29:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[30:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[30:04] Betul tak?
+
+
+
+[30:05] So, Dia bagi reason tu.
+
+
+
+[30:06] Dia bagi reason.
+
+
+
+[30:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[30:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[30:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[30:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[30:35] Dia buka Dia tak dapat apa?
+
+
+
+[30:37] Ha.
+
+
+
+[30:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[30:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[30:46] Betul tak?
+
+
+
+[30:47] So, Dia bagi reason tu.
+
+
+
+[30:48] Dia bagi reason.
+
+
+
+[30:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[30:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[31:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[31:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[31:17] Dia buka Dia tak dapat apa?
+
+
+
+[31:19] Ha.
+
+
+
+[31:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[31:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[31:28] Betul tak?
+
+
+
+[31:29] So, Dia bagi reason tu.
+
+
+
+[31:30] Dia bagi reason.
+
+
+
+[31:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[31:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[31:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[31:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[31:59] Dia buka Dia tak dapat apa?
+
+
+
+[32:01] Ha.
+
+
+
+[32:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[32:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[32:10] Betul tak?
+
+
+
+[32:11] So, Dia bagi reason tu.
+
+
+
+[32:12] Dia bagi reason.
+
+
+
+[32:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[32:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[32:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[32:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[32:41] Dia buka Dia tak dapat apa?
+
+
+
+[32:43] Ha.
+
+
+
+[32:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[32:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[32:52] Betul tak?
+
+
+
+[32:53] So, Dia bagi reason tu.
+
+
+
+[32:54] Dia bagi reason.
+
+
+
+[32:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[33:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[33:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[33:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[33:23] Dia buka Dia tak dapat apa?
+
+
+
+[33:25] Ha.
+
+
+
+[33:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[33:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[33:34] Betul tak?
+
+
+
+[33:35] So, Dia bagi reason tu.
+
+
+
+[33:36] Dia bagi reason.
+
+
+
+[33:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[33:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[33:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[34:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[34:05] Dia buka Dia tak dapat apa?
+
+
+
+[34:07] Ha.
+
+
+
+[34:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[34:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[34:16] Betul tak?
+
+
+
+[34:17] So, Dia bagi reason tu.
+
+
+
+[34:18] Dia bagi reason.
+
+
+
+[34:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[34:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[34:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[34:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[34:47] Dia buka Dia tak dapat apa?
+
+
+
+[34:49] Ha.
+
+
+
+[34:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[34:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[34:58] Betul tak?
+
+
+
+[34:59] So, Dia bagi reason tu.
+
+
+
+[35:00] Dia bagi reason.
+
+
+
+[35:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[35:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[35:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[35:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[35:29] Dia buka Dia tak dapat apa?
+
+
+
+[35:31] Ha.
+
+
+
+[35:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[35:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[35:40] Betul tak?
+
+
+
+[35:41] So, Dia bagi reason tu.
+
+
+
+[35:42] Dia bagi reason.
+
+
+
+[35:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[35:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[36:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[36:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[36:11] Dia buka Dia tak dapat apa?
+
+
+
+[36:13] Ha.
+
+
+
+[36:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[36:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[36:22] Betul tak?
+
+
+
+[36:23] So, Dia bagi reason tu.
+
+
+
+[36:24] Dia bagi reason.
+
+
+
+[36:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[36:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[36:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[36:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[36:53] Dia buka Dia tak dapat apa?
+
+
+
+[36:55] Ha.
+
+
+
+[36:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[37:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[37:04] Betul tak?
+
+
+
+[37:05] So, Dia bagi reason tu.
+
+
+
+[37:06] Dia bagi reason.
+
+
+
+[37:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[37:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[37:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[37:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[37:35] Dia buka Dia tak dapat apa?
+
+
+
+[37:37] Ha.
+
+
+
+[37:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[37:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[37:46] Betul tak?
+
+
+
+[37:47] So, Dia bagi reason tu.
+
+
+
+[37:48] Dia bagi reason.
+
+
+
+[37:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[37:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[38:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[38:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[38:17] Dia buka Dia tak dapat apa?
+
+
+
+[38:19] Ha.
+
+
+
+[38:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[38:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[38:28] Betul tak?
+
+
+
+[38:29] So, Dia bagi reason tu.
+
+
+
+[38:30] Dia bagi reason.
+
+
+
+[38:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[38:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[38:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[38:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[38:59] Dia buka Dia tak dapat apa?
+
+
+
+[39:01] Ha.
+
+
+
+[39:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[39:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[39:10] Betul tak?
+
+
+
+[39:11] So, Dia bagi reason tu.
+
+
+
+[39:12] Dia bagi reason.
+
+
+
+[39:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[39:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[39:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[39:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[39:41] Dia buka Dia tak dapat apa?
+
+
+
+[39:43] Ha.
+
+
+
+[39:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[39:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[39:52] Betul tak?
+
+
+
+[39:53] So, Dia bagi reason tu.
+
+
+
+[39:54] Dia bagi reason.
+
+
+
+[39:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[40:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[40:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[40:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[40:23] Dia buka Dia tak dapat apa?
+
+
+
+[40:25] Ha.
+
+
+
+[40:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[40:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[40:34] Betul tak?
+
+
+
+[40:35] So, Dia bagi reason tu.
+
+
+
+[40:36] Dia bagi reason.
+
+
+
+[40:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[40:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[40:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[41:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[41:05] Dia buka Dia tak dapat apa?
+
+
+
+[41:07] Ha.
+
+
+
+[41:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[41:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[41:16] Betul tak?
+
+
+
+[41:17] So, Dia bagi reason tu.
+
+
+
+[41:18] Dia bagi reason.
+
+
+
+[41:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[41:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[41:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[41:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[41:47] Dia buka Dia tak dapat apa?
+
+
+
+[41:49] Ha.
+
+
+
+[41:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[41:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[41:58] Betul tak?
+
+
+
+[41:59] So, Dia bagi reason tu.
+
+
+
+[42:00] Dia bagi reason.
+
+
+
+[42:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[42:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[42:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[42:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[42:29] Dia buka Dia tak dapat apa?
+
+
+
+[42:31] Ha.
+
+
+
+[42:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[42:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[42:40] Betul tak?
+
+
+
+[42:41] So, Dia bagi reason tu.
+
+
+
+[42:42] Dia bagi reason.
+
+
+
+[42:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[42:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[43:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[43:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[43:11] Dia buka Dia tak dapat apa?
+
+
+
+[43:13] Ha.
+
+
+
+[43:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[43:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[43:22] Betul tak?
+
+
+
+[43:23] So, Dia bagi reason tu.
+
+
+
+[43:24] Dia bagi reason.
+
+
+
+[43:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[43:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[43:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[43:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[43:53] Dia buka Dia tak dapat apa?
+
+
+
+[43:55] Ha.
+
+
+
+[43:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[44:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[44:04] Betul tak?
+
+
+
+[44:05] So, Dia bagi reason tu.
+
+
+
+[44:06] Dia bagi reason.
+
+
+
+[44:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[44:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[44:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[44:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[44:35] Dia buka Dia tak dapat apa?
+
+
+
+[44:37] Ha.
+
+
+
+[44:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[44:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[44:46] Betul tak?
+
+
+
+[44:47] So, Dia bagi reason tu.
+
+
+
+[44:48] Dia bagi reason.
+
+
+
+[44:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[44:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[45:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[45:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[45:17] Dia buka Dia tak dapat apa?
+
+
+
+[45:19] Ha.
+
+
+
+[45:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[45:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[45:28] Betul tak?
+
+
+
+[45:29] So, Dia bagi reason tu.
+
+
+
+[45:30] Dia bagi reason.
+
+
+
+[45:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[45:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[45:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[45:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[45:59] Dia buka Dia tak dapat apa?
+
+
+
+[46:01] Ha.
+
+
+
+[46:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[46:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[46:10] Betul tak?
+
+
+
+[46:11] So, Dia bagi reason tu.
+
+
+
+[46:12] Dia bagi reason.
+
+
+
+[46:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[46:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[46:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[46:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[46:41] Dia buka Dia tak dapat apa?
+
+
+
+[46:43] Ha.
+
+
+
+[46:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[46:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[46:52] Betul tak?
+
+
+
+[46:53] So, Dia bagi reason tu.
+
+
+
+[46:54] Dia bagi reason.
+
+
+
+[46:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[47:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[47:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[47:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[47:23] Dia buka Dia tak dapat apa?
+
+
+
+[47:25] Ha.
+
+
+
+[47:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[47:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[47:34] Betul tak?
+
+
+
+[47:35] So, Dia bagi reason tu.
+
+
+
+[47:36] Dia bagi reason.
+
+
+
+[47:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[47:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[47:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[48:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[48:05] Dia buka Dia tak dapat apa?
+
+
+
+[48:07] Ha.
+
+
+
+[48:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[48:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[48:16] Betul tak?
+
+
+
+[48:17] So, Dia bagi reason tu.
+
+
+
+[48:18] Dia bagi reason.
+
+
+
+[48:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[48:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[48:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[48:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[48:47] Dia buka Dia tak dapat apa?
+
+
+
+[48:49] Ha.
+
+
+
+[48:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[48:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[48:58] Betul tak?
+
+
+
+[48:59] So, Dia bagi reason tu.
+
+
+
+[49:00] Dia bagi reason.
+
+
+
+[49:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[49:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[49:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[49:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[49:29] Dia buka Dia tak dapat apa?
+
+
+
+[49:31] Ha.
+
+
+
+[49:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[49:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[49:40] Betul tak?
+
+
+
+[49:41] So, Dia bagi reason tu.
+
+
+
+[49:42] Dia bagi reason.
+
+
+
+[49:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[49:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[50:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[50:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[50:11] Dia buka Dia tak dapat apa?
+
+
+
+[50:13] Ha.
+
+
+
+[50:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[50:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[50:22] Betul tak?
+
+
+
+[50:23] So, Dia bagi reason tu.
+
+
+
+[50:24] Dia bagi reason.
+
+
+
+[50:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[50:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[50:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[50:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[50:53] Dia buka Dia tak dapat apa?
+
+
+
+[50:55] Ha.
+
+
+
+[50:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[51:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[51:04] Betul tak?
+
+
+
+[51:05] So, Dia bagi reason tu.
+
+
+
+[51:06] Dia bagi reason.
+
+
+
+[51:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[51:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[51:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[51:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[51:35] Dia buka Dia tak dapat apa?
+
+
+
+[51:37] Ha.
+
+
+
+[51:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[51:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[51:46] Betul tak?
+
+
+
+[51:47] So, Dia bagi reason tu.
+
+
+
+[51:48] Dia bagi reason.
+
+
+
+[51:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[51:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[52:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[52:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[52:17] Dia buka Dia tak dapat apa?
+
+
+
+[52:19] Ha.
+
+
+
+[52:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[52:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[52:28] Betul tak?
+
+
+
+[52:29] So, Dia bagi reason tu.
+
+
+
+[52:30] Dia bagi reason.
+
+
+
+[52:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[52:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[52:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[52:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[52:59] Dia buka Dia tak dapat apa?
+
+
+
+[53:01] Ha.
+
+
+
+[53:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[53:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[53:10] Betul tak?
+
+
+
+[53:11] So, Dia bagi reason tu.
+
+
+
+[53:12] Dia bagi reason.
+
+
+
+[53:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[53:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[53:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[53:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[53:41] Dia buka Dia tak dapat apa?
+
+
+
+[53:43] Ha.
+
+
+
+[53:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[53:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[53:52] Betul tak?
+
+
+
+[53:53] So, Dia bagi reason tu.
+
+
+
+[53:54] Dia bagi reason.
+
+
+
+[53:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[54:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[54:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[54:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[54:23] Dia buka Dia tak dapat apa?
+
+
+
+[54:25] Ha.
+
+
+
+[54:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[54:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[54:34] Betul tak?
+
+
+
+[54:35] So, Dia bagi reason tu.
+
+
+
+[54:36] Dia bagi reason.
+
+
+
+[54:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[54:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[54:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[55:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[55:05] Dia buka Dia tak dapat apa?
+
+
+
+[55:07] Ha.
+
+
+
+[55:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[55:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[55:16] Betul tak?
+
+
+
+[55:17] So, Dia bagi reason tu.
+
+
+
+[55:18] Dia bagi reason.
+
+
+
+[55:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[55:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[55:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[55:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[55:47] Dia buka Dia tak dapat apa?
+
+
+
+[55:49] Ha.
+
+
+
+[55:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[55:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[55:58] Betul tak?
+
+
+
+[55:59] So, Dia bagi reason tu.
+
+
+
+[56:00] Dia bagi reason.
+
+
+
+[56:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[56:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[56:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[56:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[56:29] Dia buka Dia tak dapat apa?
+
+
+
+[56:31] Ha.
+
+
+
+[56:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[56:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[56:40] Betul tak?
+
+
+
+[56:41] So, Dia bagi reason tu.
+
+
+
+[56:42] Dia bagi reason.
+
+
+
+[56:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[56:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[57:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[57:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[57:11] Dia buka Dia tak dapat apa?
+
+
+
+[57:13] Ha.
+
+
+
+[57:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[57:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[57:22] Betul tak?
+
+
+
+[57:23] So, Dia bagi reason tu.
+
+
+
+[57:24] Dia bagi reason.
+
+
+
+[57:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[57:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[57:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[57:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[57:53] Dia buka Dia tak dapat apa?
+
+
+
+[57:55] Ha.
+
+
+
+[57:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[58:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[58:04] Betul tak?
+
+
+
+[58:05] So, Dia bagi reason tu.
+
+
+
+[58:06] Dia bagi reason.
+
+
+
+[58:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[58:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[58:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[58:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[58:35] Dia buka Dia tak dapat apa?
+
+
+
+[58:37] Ha.
+
+
+
+[58:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[58:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[58:46] Betul tak?
+
+
+
+[58:47] So, Dia bagi reason tu.
+
+
+
+[58:48] Dia bagi reason.
+
+
+
+[58:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[58:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[59:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[59:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[59:17] Dia buka Dia tak dapat apa?
+
+
+
+[59:19] Ha.
+
+
+
+[59:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[59:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[59:28] Betul tak?
+
+
+
+[59:29] So, Dia bagi reason tu.
+
+
+
+[59:30] Dia bagi reason.
+
+
+
+[59:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[59:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[59:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[59:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[59:59] Dia buka Dia tak dapat apa?
+
+
+
+[60:01] Ha.
+
+
+
+[60:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[60:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[60:10] Betul tak?
+
+
+
+[60:11] So, Dia bagi reason tu.
+
+
+
+[60:12] Dia bagi reason.
+
+
+
+[60:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[60:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[60:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[60:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[60:41] Dia buka Dia tak dapat apa?
+
+
+
+[60:43] Ha.
+
+
+
+[60:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[60:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[60:52] Betul tak?
+
+
+
+[60:53] So, Dia bagi reason tu.
+
+
+
+[60:54] Dia bagi reason.
+
+
+
+[60:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[61:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[61:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[61:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[61:23] Dia buka Dia tak dapat apa?
+
+
+
+[61:25] Ha.
+
+
+
+[61:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[61:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[61:34] Betul tak?
+
+
+
+[61:35] So, Dia bagi reason tu.
+
+
+
+[61:36] Dia bagi reason.
+
+
+
+[61:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[61:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[61:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[62:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[62:05] Dia buka Dia tak dapat apa?
+
+
+
+[62:07] Ha.
+
+
+
+[62:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[62:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[62:16] Betul tak?
+
+
+
+[62:17] So, Dia bagi reason tu.
+
+
+
+[62:18] Dia bagi reason.
+
+
+
+[62:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[62:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[62:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[62:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[62:47] Dia buka Dia tak dapat apa?
+
+
+
+[62:49] Ha.
+
+
+
+[62:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[62:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[62:58] Betul tak?
+
+
+
+[62:59] So, Dia bagi reason tu.
+
+
+
+[63:00] Dia bagi reason.
+
+
+
+[63:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[63:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[63:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[63:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[63:29] Dia buka Dia tak dapat apa?
+
+
+
+[63:31] Ha.
+
+
+
+[63:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[63:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[63:40] Betul tak?
+
+
+
+[63:41] So, Dia bagi reason tu.
+
+
+
+[63:42] Dia bagi reason.
+
+
+
+[63:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[63:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[64:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[64:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[64:11] Dia buka Dia tak dapat apa?
+
+
+
+[64:13] Ha.
+
+
+
+[64:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[64:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[64:22] Betul tak?
+
+
+
+[64:23] So, Dia bagi reason tu.
+
+
+
+[64:24] Dia bagi reason.
+
+
+
+[64:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[64:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[64:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[64:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[64:53] Dia buka Dia tak dapat apa?
+
+
+
+[64:55] Ha.
+
+
+
+[64:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[65:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[65:04] Betul tak?
+
+
+
+[65:05] So, Dia bagi reason tu.
+
+
+
+[65:06] Dia bagi reason.
+
+
+
+[65:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[65:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[65:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[65:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[65:35] Dia buka Dia tak dapat apa?
+
+
+
+[65:37] Ha.
+
+
+
+[65:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[65:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[65:46] Betul tak?
+
+
+
+[65:47] So, Dia bagi reason tu.
+
+
+
+[65:48] Dia bagi reason.
+
+
+
+[65:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[65:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[66:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[66:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[66:17] Dia buka Dia tak dapat apa?
+
+
+
+[66:19] Ha.
+
+
+
+[66:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[66:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[66:28] Betul tak?
+
+
+
+[66:29] So, Dia bagi reason tu.
+
+
+
+[66:30] Dia bagi reason.
+
+
+
+[66:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[66:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[66:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[66:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[66:59] Dia buka Dia tak dapat apa?
+
+
+
+[67:01] Ha.
+
+
+
+[67:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[67:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[67:10] Betul tak?
+
+
+
+[67:11] So, Dia bagi reason tu.
+
+
+
+[67:12] Dia bagi reason.
+
+
+
+[67:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[67:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[67:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[67:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[67:41] Dia buka Dia tak dapat apa?
+
+
+
+[67:43] Ha.
+
+
+
+[67:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[67:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[67:52] Betul tak?
+
+
+
+[67:53] So, Dia bagi reason tu.
+
+
+
+[67:54] Dia bagi reason.
+
+
+
+[67:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[68:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[68:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[68:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[68:23] Dia buka Dia tak dapat apa?
+
+
+
+[68:25] Ha.
+
+
+
+[68:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[68:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[68:34] Betul tak?
+
+
+
+[68:35] So, Dia bagi reason tu.
+
+
+
+[68:36] Dia bagi reason.
+
+
+
+[68:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[68:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[68:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[69:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[69:05] Dia buka Dia tak dapat apa?
+
+
+
+[69:07] Ha.
+
+
+
+[69:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[69:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[69:16] Betul tak?
+
+
+
+[69:17] So, Dia bagi reason tu.
+
+
+
+[69:18] Dia bagi reason.
+
+
+
+[69:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[69:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[69:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[69:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[69:47] Dia buka Dia tak dapat apa?
+
+
+
+[69:49] Ha.
+
+
+
+[69:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[69:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[69:58] Betul tak?
+
+
+
+[69:59] So, Dia bagi reason tu.
+
+
+
+[70:00] Dia bagi reason.
+
+
+
+[70:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[70:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[70:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[70:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[70:29] Dia buka Dia tak dapat apa?
+
+
+
+[70:31] Ha.
+
+
+
+[70:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[70:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[70:40] Betul tak?
+
+
+
+[70:41] So, Dia bagi reason tu.
+
+
+
+[70:42] Dia bagi reason.
+
+
+
+[70:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[70:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[71:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[71:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[71:11] Dia buka Dia tak dapat apa?
+
+
+
+[71:13] Ha.
+
+
+
+[71:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[71:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[71:22] Betul tak?
+
+
+
+[71:23] So, Dia bagi reason tu.
+
+
+
+[71:24] Dia bagi reason.
+
+
+
+[71:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[71:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[71:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[71:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[71:53] Dia buka Dia tak dapat apa?
+
+
+
+[71:55] Ha.
+
+
+
+[71:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[72:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[72:04] Betul tak?
+
+
+
+[72:05] So, Dia bagi reason tu.
+
+
+
+[72:06] Dia bagi reason.
+
+
+
+[72:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[72:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[72:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[72:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[72:35] Dia buka Dia tak dapat apa?
+
+
+
+[72:37] Ha.
+
+
+
+[72:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[72:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[72:46] Betul tak?
+
+
+
+[72:47] So, Dia bagi reason tu.
+
+
+
+[72:48] Dia bagi reason.
+
+
+
+[72:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[72:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[73:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[73:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[73:17] Dia buka Dia tak dapat apa?
+
+
+
+[73:19] Ha.
+
+
+
+[73:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[73:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[73:28] Betul tak?
+
+
+
+[73:29] So, Dia bagi reason tu.
+
+
+
+[73:30] Dia bagi reason.
+
+
+
+[73:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[73:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[73:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[73:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[73:59] Dia buka Dia tak dapat apa?
+
+
+
+[74:01] Ha.
+
+
+
+[74:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[74:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[74:10] Betul tak?
+
+
+
+[74:11] So, Dia bagi reason tu.
+
+
+
+[74:12] Dia bagi reason.
+
+
+
+[74:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[74:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[74:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[74:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[74:41] Dia buka Dia tak dapat apa?
+
+
+
+[74:43] Ha.
+
+
+
+[74:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[74:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[74:52] Betul tak?
+
+
+
+[74:53] So, Dia bagi reason tu.
+
+
+
+[74:54] Dia bagi reason.
+
+
+
+[74:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[75:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[75:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[75:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[75:23] Dia buka Dia tak dapat apa?
+
+
+
+[75:25] Ha.
+
+
+
+[75:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[75:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[75:34] Betul tak?
+
+
+
+[75:35] So, Dia bagi reason tu.
+
+
+
+[75:36] Dia bagi reason.
+
+
+
+[75:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[75:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[75:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[76:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[76:05] Dia buka Dia tak dapat apa?
+
+
+
+[76:07] Ha.
+
+
+
+[76:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[76:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[76:16] Betul tak?
+
+
+
+[76:17] So, Dia bagi reason tu.
+
+
+
+[76:18] Dia bagi reason.
+
+
+
+[76:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[76:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[76:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[76:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[76:47] Dia buka Dia tak dapat apa?
+
+
+
+[76:49] Ha.
+
+
+
+[76:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[76:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[76:58] Betul tak?
+
+
+
+[76:59] So, Dia bagi reason tu.
+
+
+
+[77:00] Dia bagi reason.
+
+
+
+[77:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[77:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[77:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[77:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[77:29] Dia buka Dia tak dapat apa?
+
+
+
+[77:31] Ha.
+
+
+
+[77:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[77:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[77:40] Betul tak?
+
+
+
+[77:41] So, Dia bagi reason tu.
+
+
+
+[77:42] Dia bagi reason.
+
+
+
+[77:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[77:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[78:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[78:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[78:11] Dia buka Dia tak dapat apa?
+
+
+
+[78:13] Ha.
+
+
+
+[78:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[78:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[78:22] Betul tak?
+
+
+
+[78:23] So, Dia bagi reason tu.
+
+
+
+[78:24] Dia bagi reason.
+
+
+
+[78:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[78:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[78:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[78:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[78:53] Dia buka Dia tak dapat apa?
+
+
+
+[78:55] Ha.
+
+
+
+[78:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[79:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[79:04] Betul tak?
+
+
+
+[79:05] So, Dia bagi reason tu.
+
+
+
+[79:06] Dia bagi reason.
+
+
+
+[79:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[79:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[79:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[79:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[79:35] Dia buka Dia tak dapat apa?
+
+
+
+[79:37] Ha.
+
+
+
+[79:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[79:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[79:46] Betul tak?
+
+
+
+[79:47] So, Dia bagi reason tu.
+
+
+
+[79:48] Dia bagi reason.
+
+
+
+[79:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[79:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[80:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[80:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[80:17] Dia buka Dia tak dapat apa?
+
+
+
+[80:19] Ha.
+
+
+
+[80:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[80:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[80:28] Betul tak?
+
+
+
+[80:29] So, Dia bagi reason tu.
+
+
+
+[80:30] Dia bagi reason.
+
+
+
+[80:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[80:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[80:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[80:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[80:59] Dia buka Dia tak dapat apa?
+
+
+
+[81:01] Ha.
+
+
+
+[81:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[81:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[81:10] Betul tak?
+
+
+
+[81:11] So, Dia bagi reason tu.
+
+
+
+[81:12] Dia bagi reason.
+
+
+
+[81:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[81:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[81:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[81:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[81:41] Dia buka Dia tak dapat apa?
+
+
+
+[81:43] Ha.
+
+
+
+[81:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[81:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[81:52] Betul tak?
+
+
+
+[81:53] So, Dia bagi reason tu.
+
+
+
+[81:54] Dia bagi reason.
+
+
+
+[81:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[82:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[82:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[82:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[82:23] Dia buka Dia tak dapat apa?
+
+
+
+[82:25] Ha.
+
+
+
+[82:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[82:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[82:34] Betul tak?
+
+
+
+[82:35] So, Dia bagi reason tu.
+
+
+
+[82:36] Dia bagi reason.
+
+
+
+[82:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[82:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[82:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[83:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[83:05] Dia buka Dia tak dapat apa?
+
+
+
+[83:07] Ha.
+
+
+
+[83:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[83:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[83:16] Betul tak?
+
+
+
+[83:17] So, Dia bagi reason tu.
+
+
+
+[83:18] Dia bagi reason.
+
+
+
+[83:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[83:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[83:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[83:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[83:47] Dia buka Dia tak dapat apa?
+
+
+
+[83:49] Ha.
+
+
+
+[83:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[83:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[83:58] Betul tak?
+
+
+
+[83:59] So, Dia bagi reason tu.
+
+
+
+[84:00] Dia bagi reason.
+
+
+
+[84:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[84:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[84:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[84:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[84:29] Dia buka Dia tak dapat apa?
+
+
+
+[84:31] Ha.
+
+
+
+[84:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[84:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[84:40] Betul tak?
+
+
+
+[84:41] So, Dia bagi reason tu.
+
+
+
+[84:42] Dia bagi reason.
+
+
+
+[84:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[84:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[85:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[85:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[85:11] Dia buka Dia tak dapat apa?
+
+
+
+[85:13] Ha.
+
+
+
+[85:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[85:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[85:22] Betul tak?
+
+
+
+[85:23] So, Dia bagi reason tu.
+
+
+
+[85:24] Dia bagi reason.
+
+
+
+[85:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[85:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[85:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[85:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[85:53] Dia buka Dia tak dapat apa?
+
+
+
+[85:55] Ha.
+
+
+
+[85:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[86:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[86:04] Betul tak?
+
+
+
+[86:05] So, Dia bagi reason tu.
+
+
+
+[86:06] Dia bagi reason.
+
+
+
+[86:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[86:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[86:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[86:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[86:35] Dia buka Dia tak dapat apa?
+
+
+
+[86:37] Ha.
+
+
+
+[86:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[86:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[86:46] Betul tak?
+
+
+
+[86:47] So, Dia bagi reason tu.
+
+
+
+[86:48] Dia bagi reason.
+
+
+
+[86:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[86:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[87:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[87:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[87:17] Dia buka Dia tak dapat apa?
+
+
+
+[87:19] Ha.
+
+
+
+[87:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[87:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[87:28] Betul tak?
+
+
+
+[87:29] So, Dia bagi reason tu.
+
+
+
+[87:30] Dia bagi reason.
+
+
+
+[87:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[87:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[87:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[87:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[87:59] Dia buka Dia tak dapat apa?
+
+
+
+[88:01] Ha.
+
+
+
+[88:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[88:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[88:10] Betul tak?
+
+
+
+[88:11] So, Dia bagi reason tu.
+
+
+
+[88:12] Dia bagi reason.
+
+
+
+[88:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[88:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[88:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[88:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[88:41] Dia buka Dia tak dapat apa?
+
+
+
+[88:43] Ha.
+
+
+
+[88:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[88:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[88:52] Betul tak?
+
+
+
+[88:53] So, Dia bagi reason tu.
+
+
+
+[88:54] Dia bagi reason.
+
+
+
+[88:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[89:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[89:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[89:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[89:23] Dia buka Dia tak dapat apa?
+
+
+
+[89:25] Ha.
+
+
+
+[89:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[89:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[89:34] Betul tak?
+
+
+
+[89:35] So, Dia bagi reason tu.
+
+
+
+[89:36] Dia bagi reason.
+
+
+
+[89:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[89:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[89:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[90:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[90:05] Dia buka Dia tak dapat apa?
+
+
+
+[90:07] Ha.
+
+
+
+[90:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[90:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[90:16] Betul tak?
+
+
+
+[90:17] So, Dia bagi reason tu.
+
+
+
+[90:18] Dia bagi reason.
+
+
+
+[90:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[90:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[90:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[90:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[90:47] Dia buka Dia tak dapat apa?
+
+
+
+[90:49] Ha.
+
+
+
+[90:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[90:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[90:58] Betul tak?
+
+
+
+[90:59] So, Dia bagi reason tu.
+
+
+
+[91:00] Dia bagi reason.
+
+
+
+[91:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[91:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[91:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[91:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[91:29] Dia buka Dia tak dapat apa?
+
+
+
+[91:31] Ha.
+
+
+
+[91:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[91:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[91:40] Betul tak?
+
+
+
+[91:41] So, Dia bagi reason tu.
+
+
+
+[91:42] Dia bagi reason.
+
+
+
+[91:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[91:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[92:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[92:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[92:11] Dia buka Dia tak dapat apa?
+
+
+
+[92:13] Ha.
+
+
+
+[92:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[92:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[92:22] Betul tak?
+
+
+
+[92:23] So, Dia bagi reason tu.
+
+
+
+[92:24] Dia bagi reason.
+
+
+
+[92:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[92:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[92:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[92:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[92:53] Dia buka Dia tak dapat apa?
+
+
+
+[92:55] Ha.
+
+
+
+[92:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[93:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[93:04] Betul tak?
+
+
+
+[93:05] So, Dia bagi reason tu.
+
+
+
+[93:06] Dia bagi reason.
+
+
+
+[93:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[93:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[93:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[93:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[93:35] Dia buka Dia tak dapat apa?
+
+
+
+[93:37] Ha.
+
+
+
+[93:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[93:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[93:46] Betul tak?
+
+
+
+[93:47] So, Dia bagi reason tu.
+
+
+
+[93:48] Dia bagi reason.
+
+
+
+[93:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[93:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[94:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[94:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[94:17] Dia buka Dia tak dapat apa?
+
+
+
+[94:19] Ha.
+
+
+
+[94:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[94:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[94:28] Betul tak?
+
+
+
+[94:29] So, Dia bagi reason tu.
+
+
+
+[94:30] Dia bagi reason.
+
+
+
+[94:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[94:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[94:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[94:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[94:59] Dia buka Dia tak dapat apa?
+
+
+
+[95:01] Ha.
+
+
+
+[95:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[95:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[95:10] Betul tak?
+
+
+
+[95:11] So, Dia bagi reason tu.
+
+
+
+[95:12] Dia bagi reason.
+
+
+
+[95:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[95:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[95:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[95:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[95:41] Dia buka Dia tak dapat apa?
+
+
+
+[95:43] Ha.
+
+
+
+[95:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[95:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[95:52] Betul tak?
+
+
+
+[95:53] So, Dia bagi reason tu.
+
+
+
+[95:54] Dia bagi reason.
+
+
+
+[95:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[96:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[96:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[96:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[96:23] Dia buka Dia tak dapat apa?
+
+
+
+[96:25] Ha.
+
+
+
+[96:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[96:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[96:34] Betul tak?
+
+
+
+[96:35] So, Dia bagi reason tu.
+
+
+
+[96:36] Dia bagi reason.
+
+
+
+[96:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[96:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[96:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[97:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[97:05] Dia buka Dia tak dapat apa?
+
+
+
+[97:07] Ha.
+
+
+
+[97:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[97:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[97:16] Betul tak?
+
+
+
+[97:17] So, Dia bagi reason tu.
+
+
+
+[97:18] Dia bagi reason.
+
+
+
+[97:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[97:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[97:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[97:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[97:47] Dia buka Dia tak dapat apa?
+
+
+
+[97:49] Ha.
+
+
+
+[97:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[97:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[97:58] Betul tak?
+
+
+
+[97:59] So, Dia bagi reason tu.
+
+
+
+[98:00] Dia bagi reason.
+
+
+
+[98:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[98:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[98:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[98:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[98:29] Dia buka Dia tak dapat apa?
+
+
+
+[98:31] Ha.
+
+
+
+[98:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[98:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[98:40] Betul tak?
+
+
+
+[98:41] So, Dia bagi reason tu.
+
+
+
+[98:42] Dia bagi reason.
+
+
+
+[98:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[98:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[99:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[99:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[99:11] Dia buka Dia tak dapat apa?
+
+
+
+[99:13] Ha.
+
+
+
+[99:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[99:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[99:22] Betul tak?
+
+
+
+[99:23] So, Dia bagi reason tu.
+
+
+
+[99:24] Dia bagi reason.
+
+
+
+[99:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[99:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[99:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[99:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[99:53] Dia buka Dia tak dapat apa?
+
+
+
+[99:55] Ha.
+
+
+
+[99:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[100:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[100:04] Betul tak?
+
+
+
+[100:05] So, Dia bagi reason tu.
+
+
+
+[100:06] Dia bagi reason.
+
+
+
+[100:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[100:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[100:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[100:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[100:35] Dia buka Dia tak dapat apa?
+
+
+
+[100:37] Ha.
+
+
+
+[100:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[100:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[100:46] Betul tak?
+
+
+
+[100:47] So, Dia bagi reason tu.
+
+
+
+[100:48] Dia bagi reason.
+
+
+
+[100:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[100:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[101:10] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[101:14] So, betting apa bodohnya macam tu kan.
+
+
+
+[101:17] Dia buka Dia tak dapat apa?
+
+
+
+[101:19] Ha.
+
+
+
+[101:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[101:24] Ada macam-macam eh YB punya analisis.
+
+
+
+[101:28] Betul tak?
+
+
+
+[101:29] So, Dia bagi reason tu.
+
+
+
+[101:30] Dia bagi reason.
+
+
+
+[101:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[101:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[101:52] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[101:56] So, betting apa bodohnya macam tu kan.
+
+
+
+[101:59] Dia buka Dia tak dapat apa?
+
+
+
+[102:01] Ha.
+
+
+
+[102:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[102:06] Ada macam-macam eh YB punya analisis.
+
+
+
+[102:10] Betul tak?
+
+
+
+[102:11] So, Dia bagi reason tu.
+
+
+
+[102:12] Dia bagi reason.
+
+
+
+[102:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[102:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[102:34] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[102:38] So, betting apa bodohnya macam tu kan.
+
+
+
+[102:41] Dia buka Dia tak dapat apa?
+
+
+
+[102:43] Ha.
+
+
+
+[102:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[102:48] Ada macam-macam eh YB punya analisis.
+
+
+
+[102:52] Betul tak?
+
+
+
+[102:53] So, Dia bagi reason tu.
+
+
+
+[102:54] Dia bagi reason.
+
+
+
+[102:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[103:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[103:16] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[103:20] So, betting apa bodohnya macam tu kan.
+
+
+
+[103:23] Dia buka Dia tak dapat apa?
+
+
+
+[103:25] Ha.
+
+
+
+[103:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[103:30] Ada macam-macam eh YB punya analisis.
+
+
+
+[103:34] Betul tak?
+
+
+
+[103:35] So, Dia bagi reason tu.
+
+
+
+[103:36] Dia bagi reason.
+
+
+
+[103:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[103:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[103:58] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[104:02] So, betting apa bodohnya macam tu kan.
+
+
+
+[104:05] Dia buka Dia tak dapat apa?
+
+
+
+[104:07] Ha.
+
+
+
+[104:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[104:12] Ada macam-macam eh YB punya analisis.
+
+
+
+[104:16] Betul tak?
+
+
+
+[104:17] So, Dia bagi reason tu.
+
+
+
+[104:18] Dia bagi reason.
+
+
+
+[104:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[104:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[104:40] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[104:44] So, betting apa bodohnya macam tu kan.
+
+
+
+[104:47] Dia buka Dia tak dapat apa?
+
+
+
+[104:49] Ha.
+
+
+
+[104:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[104:54] Ada macam-macam eh YB punya analisis.
+
+
+
+[104:58] Betul tak?
+
+
+
+[104:59] So, Dia bagi reason tu.
+
+
+
+[105:00] Dia bagi reason.
+
+
+
+[105:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[105:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[105:22] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[105:26] So, betting apa bodohnya macam tu kan.
+
+
+
+[105:29] Dia buka Dia tak dapat apa?
+
+
+
+[105:31] Ha.
+
+
+
+[105:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[105:36] Ada macam-macam eh YB punya analisis.
+
+
+
+[105:40] Betul tak?
+
+
+
+[105:41] So, Dia bagi reason tu.
+
+
+
+[105:42] Dia bagi reason.
+
+
+
+[105:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[105:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[106:04] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[106:08] So, betting apa bodohnya macam tu kan.
+
+
+
+[106:11] Dia buka Dia tak dapat apa?
+
+
+
+[106:13] Ha.
+
+
+
+[106:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[106:18] Ada macam-macam eh YB punya analisis.
+
+
+
+[106:22] Betul tak?
+
+
+
+[106:23] So, Dia bagi reason tu.
+
+
+
+[106:24] Dia bagi reason.
+
+
+
+[106:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[106:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[106:46] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[106:50] So, betting apa bodohnya macam tu kan.
+
+
+
+[106:53] Dia buka Dia tak dapat apa?
+
+
+
+[106:55] Ha.
+
+
+
+[106:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[107:00] Ada macam-macam eh YB punya analisis.
+
+
+
+[107:04] Betul tak?
+
+
+
+[107:05] So, Dia bagi reason tu.
+
+
+
+[107:06] Dia bagi reason.
+
+
+
+[107:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[107:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[107:28] Kalau Argentina menang, dia tak tepakailah.
+
+
+
+[107:32] So, betting apa bodohnya macam tu kan.
+
+
+
+[107:35] Dia buka Dia tak dapat apa?
+
+
+
+[107:37] Ha.
+
+
+
+[107:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+
+
+
+[107:42] Ada macam-macam eh YB punya analisis.
+
+
+
+[107:46] Betul tak?
+
+
+
+[107:47] So, Dia bagi reason tu.
+
+
+
+[107:48] Dia bagi reason.
+
+
+
+[107:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+
+
+
+[107:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+
+
+
+[180:10] Kalau Argentina menang, dia tak tepakailah.
 
