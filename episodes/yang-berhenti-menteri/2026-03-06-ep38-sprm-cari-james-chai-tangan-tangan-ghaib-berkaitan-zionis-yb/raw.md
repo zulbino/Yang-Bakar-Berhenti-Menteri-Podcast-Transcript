@@ -7,1146 +7,1495 @@ publish_date: '2026-03-06'
 duration_seconds: 10273
 duration: 2h 51m
 view_count: 213067
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[00:53] Podcast Yang Berhenti Menteri, episode 38. Assalamualaikum, WB, as usual. Waalaikumsalam. Good today. Give a greeting with a bow. No pull. Give a greeting first. Bow, right? Yes, this is a bow. Assalamualaikum. And a greeting of prosperity. And a greeting of prosperity. Greetings.
+[00:00] [muzik/intro]
 
-[01:11] So kau dah jam lah nak cakap salam reformasi pun tak boleh, salam madani pun tak boleh. Sebab tu kau notice kan, aku tak pernah suka tau yang menukar-nukar salam ni. Kalau itu tukar kerajaan, tukar slogan. Salam sejahtera. Sebab tu ada orang dalam kerajaan dulu dia tak berpuas hati dengan aku sebab aku tak sebut salam madani. Pernah dengar orang petikan. Sebab kita bagi salam dan dia lawak lah tukar kerajaan, tukar salam. Assalamualaikum kepada yang Islam Assalamualaikum kepada yang bukan Islam Salam sejahtera lah Kita doakan dia supaya dia dapat kesejahteraan Tukarlah kerajaan macam mana pun kan Jadi kau stick kepada salam sejahtera lah kot Baik Okay YB kita macam biasa lah Disebabkan puasa ni mungkin masa tu agak ni sikit Tapi YB semalam menurunkan bom eh
 
-[02:08] malam sebab Cik Plos semua bising kata nak keluar kat tengah hari ini malam kami kena kerja overtime dah peduli apa Cik Plos cakap apa je kan dia bagus lah agaknya kalau dia kena kerja overtime boleh minta overtime aa okey baik Abie BOM itu ialah content saya dalam saya buat parody haa James Chai dan juga James Bond Abie review orang punya play eh haa betul kan saya review skrip yang nanti kita komen Kita tengok beria dulu lebih. Tapi saya dah call dah orang-orang yang beria semua ni. Dia kata bulan puasa. How? Jadi tak beria sangat lah. Dia tak beria sangat. Tapi kita tengok lah.
 
-[02:47] Yang pertama sekali... Tolak usul dua penggal PM sebab nak Anwar jadi PM lebih lama. Jadi dia tak datang bukan sebab traffic jam ke apa. Tapi dia memang ikhlas. Begitu sayangnya.
+[00:53] Nazri: Podcast Yang Berhormat Menteri, episod ke-38. Assalamualaikum YB, macam biasa.
 
-[03:01] Yang ini saya tak pasti beria dia dari sudut yang mana. Dia ada dua kemungkinan lah. Satu dia beria membodek Dato' Sri Anwar Ibrahim lah.
 
-[03:12] Kedua ataupun dia beria membagi alasan Jadi mungkin keduanya lah kot dia beria kan Tapi...
 
-[03:23] Dia tak cantik lah kerana Ali Parlimen Bukit Gantang ni
+[00:57] Rafizi Ramli: Waalaikumussalam. Bagus hari ni, bagi salam dengan tertib, takde tarik, bagi salam dulu.
 
-[03:31] Ialah salah seorang daripada enam kan ahli parlimen yang dari bersatu tetapi kononnya menyokong Dato' Sri Anwar Ibrahim. Jadi dia adalah ahli parlimen yang lompat lah kan.
 
-[03:46] It should be the politicians who are the weakest because they don't have a party. And it should be them who are the most loyal and dependable to Dato' Sri Anwar Ibrahim. The Prime Minister asked him to do whatever he wanted. When he is not present, whatever reason he gives,
 
-[04:12] Dia bagi gambaran sebenarnya... Dato' Sri Anwar ni semakin longgar kawalannya... Terutamanya...
+[01:05] Nazri: Tertib eh? Ha ini tertib. Assalamualaikum dan salam sejahtera.
 
-[04:20] Kalau yang tidak hadir itu adalah seorang ahli parlimen lompat. Kerana mereka ini tidak ada platform atau kekuatan politik di belakang mereka dalam bentuk parti. Jadi kalau yang mereka yang bergantung harap supaya Dato' Sri Anwar ini kekal jadi Perdana Menteri pun tidak menghormati pentingnya mereka hadir untuk membantu luluskan rang undang-undang itu, Dato' Sri Anwar secara politik itu semakin longgar lah. Tapi berialah bagi alasan. Bagi alasan kan. Okey, baik. Kita...
 
-[05:01] Tengok yang seterusnya.
 
-[05:05] Begaya sewa di hari raya. Cik Mat sewa iPhone untuk raya laris. Awak tak cakap? Aku ada 3-4 iPhone yang dulu-dulu. Haa kan yang... Eh tapi tak boleh lah bagi sewa bahaya. Bahaya macam-macam rahsia negara. Macam-macam kan.
+[01:09] Rafizi Ramli: Dan salam sejahtera. Salam...
 
-[05:23] Oh ni jadi trend sekarang Bergaya sewa di hari raya Ini kritikan pada masyarakat sikit Kritikan ke? Tak lah bukan Pujian
 
-[05:34] Berapa sewa Satu iPhone ni Depends kepada Saya tak pernah sewa lah Sebenarnya kan Tapi Pak Han
 
-[05:43] Pernah sewa juga Tapi anggaran saya Dalam beratus satu ringgit lah Untuk seminggu Sebulan Beratus ringgit sebulan Macam sewa kereta lah kan Macam sewa kereta lah
+[01:11] Nazri: Tak dapat.
 
-[05:53] But yes, it's true. I think it's because of the kids. Or something like that. They're formal. They want to ban going back to the village. So, I mean, rent a car, rent an iPhone, so that when you go back to the village, you look like you're rich. Yes, you look successful. You look successful.
 
-[06:14] Yelah tapi itu budaya kita jugalah sebelum kita nak putuskan yang sewa-sewa budaya sewa iPhone ni beria ke tidak. Teringatlah saya ada dekat ofis lah ada budak beritahu lah. Yelah dia CCA kan.
 
-[06:32] Kerja ok Gaji ok Kalau nak berbanding dengan Sepupu-sepupu dia Kira Haa
+[01:12] Rafizi Ramli: Kau dah jemlah. Nak cakap Salam Reformasi pun tak boleh, Salam Madani pun tak boleh. Sebab tu kau notice kan, aku tak pernah suka tau yang menukar-nukar salam ni. Kalau tukar kerajaan, tukar slogan. Salam sejahtera, sebab tu ada orang dalam kerajaan dulu dia tak berpuas hati dengan aku sebab aku tak sebut Salam Madani.
 
-[06:41] Dia lebih ke depan lah dari segi kelayakan daripada kerjaya sebab sepupu-sepupu yang lain mungkin ada penjawat awam peringkat sokongan kerani ataupun baru masuk ialah baru masuk jadi pre-back ke apa kan.
 
-[06:58] Tapi bila balik kampung... Haa... Masa raya... Yang paling stres sekali dia lah... Haa... Okey... Sebab dia seorang je pakai kereta... Kereta... Kereta...
 
-[07:07] Proton Proton saga yang paling murah Orang lain Walaupun gaji Mungkin tak sampai RM2,000 Atau di bawah Yelah RM2,100 Tapi Haa
+[01:31] Nazri: Ha pernah dengar orang pertikaikan.
 
-[07:21] driving a Honda Civic. So, it's always a mouthpiece. Meaning, why are you poor? You're not successful. So, I just don't know. Maybe I can tell him later. Are you sure that your ancestors brought back expensive cars? Actually, are you sure that he didn't rent it? He didn't rent it, right? But, there is a culture, right? A culture that likes
 
-[07:48] to compare. So, we want to encourage the kids who are stuck with the luxury of renting, the luxury of renting an iPhone, if we think back, they are a product of our society's culture. You don't have to compare when you go back to your hometown. I do. But... Why? Because you're not married? Because I'm not married. I'm using a car. What is that? Use a James car.
 
-[08:16] Proton Persona Aquarium. Aquarium. Proton Persona Aquarium, what does that mean? It means that the window is not tinted at all. Oh, it looks like a scar. Oh, yeah. Isn't this tinted? Shouldn't it be? It has a specific rate. Oh, okay. But it's okay. It's okay to rent an iPhone. Brothers and sisters, if you have
+[01:33] Rafizi Ramli: Haah, sebab kita bagi salam dan dia lawaklah, tukar kerajaan tukar salam. Kan? Salam tu doa. Assalamualaikum kepada yang Islam, assalamualaikum, kepada yang bukan Islam, salam sejahteralah. Kita doakan dia supaya dia dapat kesejahteraan. Tukarlah kerajaan macam mana pun kan? Jadi kau stick kepada salam sejahteralah kut. Baik.
 
-[08:42] There's no need to rent an iPhone. You don't have to go back to the festival. Just throw away RM300. Because this is the kind of behavior of our people. People say, win the village of Tergadai. This is the style. Win the festival of the festival. After that, Papa Kedana. Papa Kedana for months.
 
-[09:10] Okey, baik. Dengar. Kita tengok lagi.
 
-[09:17] politik
+[01:59] Nazri: Okey YB, kita macam biasalah, disebabkan puasa ni mungkin masa tu agak ni sikit. Tapi YB semalam menurunkan bom eh malam, sebab Ceplos semua bising, kata nak keluar kat tengah hari, ini malam, kami kena kerja overtime dah.
 
-[09:19] Rai Bina's children, thumbs down. Rai Bina's parliament members, thumbs up. Poor Rai Bina. Rai Bina is the only one who got hit. This is Tan Sri Mayuddin's statement. He doesn't want to come to parliament because he doesn't want to sit next to Dato Sri Hamzah. What did Dato Sri Hamzah say? He didn't respond.
 
-[09:43] I understand, actually. I feel embarrassed. Let's say, he's fighting and fighting. If I sit next to Anwar Ibrahim, I really don't want to. Let's just change the topic. During the election that day, did anyone comment on the face reaction? Or did YB say hi and sit next to Dato' Sri Anwar?
 
-[10:07] Tak, yang salam itu sebenarnya... Ialah disalah erti. Sebabnya ialah...
+[02:14] Rafizi Ramli: Peduli apa Ceplos cakap apa punya kan. Dia baguslah agaknya kalau dia kena kerja overtime boleh minta overtime.
 
-[10:16] Erm...
 
-[10:19] Telahan saya lah. Dan saya ingat benda tu tak cantik lah.
 
-[10:23] Jadual asal Kongres sepatutnya keputusan pemilihan itu dibuat petang esok kan? Betul. Esoknya. Selalunya dibuat esok masa diakhir selepas perbahasan semua. Dah habis semua kepimpinan sesi ini, diakhir baru diumumkan pemenang, kemudian pemenang mengambil tempat lah. Itu memang tiap-tiap tahun. Jadi berdasarkan jadual asal itu, Kongres sepatutnya bermula 8.30 malam. Cuba dalam pukul 7 malam itulah kita nak maghrib semua.
+[02:22] Nazri: Okey, baik YB.
 
-[11:00] Tiba-tiba diberitahu akan diawalkan pukul 8.
 
-[11:04] Jadi memang kelam kabut lah. Kita bukan duduk kat situ kan dengan jamnya semua kan. Jadi by the time aku sampai 8 suku tu, dia dah bermula dalam 10-15 minit. So bila aku masuk tu, bukanlah aku pandai-pandai nak masuk, nak buat grand entrance ke apa. Memang dah lambat sebab dia orang pandai-pandai percepatkan setengah jam di last minute tanpa tanya siapa-siapa kan. Aku tak suka ganggu program. I don't like the attention on me. Kalau boleh, aku kalau ada pintu kat belakang, aku masuk pintu kat belakang senyap-senyap.
 
-[11:45] Jadi dah lah kau masuk dia dah jadi grand entrance, orang jerit reformasi semua kan. Lepas tu program semua terganggu.
+[02:24] Rafizi Ramli: Bom itu ialah content sayalah. Saya buat parodi.
 
-[11:55] Bila naik ke atas tu kan...
 
-[11:57] Takkanlah pula aku tiba-tiba nak berpeluk. Satu dewan ni kena tengok. Alah macam kau diva pula. Nak kena berpeluk, bersalam semua kan. Aku memang carry on, carry on. Aku nak duduk cepat-cepat lah. Tapi mungkin Dato' Sri Anwar terasa kot. Sebab dia dah tahu apa yang berlaku dia pula. Dan Dato' Sri Anwar ni dia segala-galanya ialah pasal optik kepada orang. Jadi dia kena tunjukkan yang dia ni seorang bapa yang baik semua lah. Aku tak terfikir pun masa tu pasal dia ke apa. Jangan ganggu program ni, jangan ganggu program kan Tapi benda itu disalahertikan lah Kemudian
 
-[12:35] Kemudian kita tahulah kenapa dia dicepatkan kan. Jadi masa duduk sepanjang tu aku dah
+[02:28] Nazri: Ha.
 
-[12:42] Berkira dah tahulah semua ni telah dirancang lah. Dia percepatkan semua sampai jadi kelangkabut tu supaya dia boleh umum keputusan pada malam itu. Dan dia umum keputusan pada malam itu kerana ada jemputan-jemputan daripada parti lain, pimpinan daripada DAP, daripada Amanah, daripada UMNO, daripada duta-duta kan. Dan dia memang telah pun susun Ada kumpulan-kumpulan yang akan menjerit bagi sokongan Jadi dia memang susun semua itu untuk menjatuhkan air muka Jadi maksudnya sepanjang itu
 
-[13:24] Saya terpaksa duduk sebelah dia yang tahu bahawa semuanya telah dirancang begitu kan. Tapi sebenarnya...
 
-[13:38] Kalau nak jadi ahli politik ni kan...
+[02:29] Rafizi Ramli: James Chai dan juga James Bond.
 
-[13:41] Dia dalam kepala otak kita ni Ini nasihat saya mungkin kepada Tan Sri Muhyiddin lah Trick saya, macam mana trick saya kan Trick saya kalau kita nak jadi ahli politik ni Ada dua tiga trick lah eh Satu ialah
 
-[13:56] Sebaik-baiknya jangan bermuka-muka lah. Jadi maksudnya kalau muka tu dah memang muka macam hmm aku tak minat lah dia ni. Kalau kena duduk sebelah Datuk Seri Hamzah Zainuddin pun kekalkan muka tak minat itulah. Sebab kalau orang dah tahu yang mereka tidak sealiran
 
-[14:14] then each of them has to act out, that's actually worse. And the second trick that has to be in the head is, the head has to have a lot of Netflix shows that can happen in a row. Oh. I mean, usually if I, for example, if it's in Congress, right?
+[02:30] Nazri: Dan YB review orang punya play eh?
 
-[14:34] Kita dah tahu kena duduk sebelah Dato' Sri Anwar setelah dia orkestrate segala-galanya kan. Dan malam itu kemuncaknya yang dia nak malukan semua kan. Jadi kau fikirlah benda-benda yang apa nama ni yang mengalih tumpuan daripada semua tu. Aku tak ingat apa aku. Aku cuba selesaikan masalah matematik kot macam tu. Oh itu. Kan. Telah kepala. Okay ini macam mana ni. Kalau ada trik-trik itu, maka tidak perlulah beria-ia, bergaduh.
 
-[15:09] because I don't want to sit next to you like this. But as long as Tan Sri Muhyiddin says this, the speaker will not change their position. It will take longer for him to sit next to me. So this is the function and duty of the special officers. So that the special officers of Tan Sri Muhyiddin and also the special officers of Dato Sri Hamzah
 
-[15:34] make sure their schedule in the parliament is not clashed. Ah, take turns. Take turns, take turns. So this issue doesn't arise if they take turns. Hmm, nice. Yes. We help Tan Sri Muhyiddin a lot. We give him tips in various ways. He has solved a lot of problems. He has solved a lot of problems. Okay, Uwi. Let's look at the others.
+[02:33] Rafizi Ramli: Saya review skrip yang nanti kita komenlah pasal skrip tu kan.
 
-[15:57] Aku bukan calon, kau pun bukan calon. Jadi, bayangkanlah kan. Hmm...
 
-[16:07] Perikatan nasional ni... Haa...
 
-[16:09] daripada krisis yang tidak ada pengurusi pengurusi itu selalunya dilihat sebagai calon Perdana Menteri jadi krisis itu berpanjangan tapi akhirnya masing-masing
+[02:37] Nazri: Ha ya ada nanti. Kita tengok Ber-ia dulu YB. Tapi saya dah call dah orang-orang yang ber-ia semua ni. Dia kata bulan puasa, haus jadi tak ber-ia sangatlah.
 
-[16:27] Penyokong PN ni tepuk tangan Alhamdulillah krisis ini telah selesai Dr. Sam telah jadi pengurusi PN Ingat ke dah habis Daripada krisis tiada pengurusi PN
 
-[16:42] Now, there is no candidate for the crisis, not just any candidate for the Prime Minister. So, to solve the crisis, to appoint the PM, opens up to another crisis, which is, you are not a candidate, I am not a candidate either. So, all of this, it has become like the children of Raibina once again. So, the funny thing is,
 
-[17:10] When among the first statements of Dr. Samsuri, who is said to be a technocrat, who is said to be calm, is like the children of Tadika. Because Tan Sri Muhyiddin, I think Tan Sri Muhyiddin said that the position of PM is not necessarily a candidate for PM. Yes, that's right.
+[02:44] Rafizi Ramli: Dia tak ber-ia sangat.
 
-[17:36] But I don't think Tan Sri Muhyiddin will answer this question. If I'm not a PM candidate, Tan Sri Muhyiddin is not a PM candidate either. Actually, who can be a PM candidate? Because a PM candidate...
 
-[18:03] Who is interested can do it. Whether you get it or not is not certain. Because it depends on the people's choice. So I hope they continue like this. You are not, I am not. After this, if not Dr. Samsuri, not Tuan Sri Muhyiddin, who is the candidate for PM?
 
-[18:29] Senyap-senyap Kona baring kot belakang Datang Azmin Ali But betulkah I mean ada rumours lah Yang mengatakan PAS akan Break off daripada persatu Untuk bersama dengan PKM
+[02:45] Nazri: Okey, tapi kita tengoklah eh.
 
-[18:42] Dengan? Dengan Hamzah Parti Keluarga Malaysia Yang itu nanti kita jawabkan ada hidup keras Jom sekali Jangan jam degan Okay baik mungkin kita ada satu lagi okey? Haa
 
-[18:57] Kejok sahur, ganggu kenter teraman awam. Luckily you didn't pass in front of my house. What's your problem? I will let go of all my cats for a while. I have 20 cats. This is not our culture, right? Where is this? In Puchong? Balakong is there, Tawau is there.
 
-[19:18] Polis tak tangkap ke dia orang ni?
+[02:48] Rafizi Ramli: Ha.
 
-[19:20] Polis pun tak tahulah ini benda yang baik ke tidak kot
 
-[19:24] Ikut mananya kata benda ni baik Yalah dia sekejut orang sahur
 
-[19:28] Dia sedangkan Contohnya kan Sedangkan
+[02:49] Nazri: Yang pertama sekali, tolak usul dua penggal PM sebab nak Anwar jadi PM lebih lama. Jadi dia tak datang bukan sebab traffic jam ke apa, tapi dia memang ikhlas. Begitu sayangnya.
 
-[19:34] Waktu subuh kan?
 
-[19:38] selalunya orang pasang tarohin ataupun kadang-kadang ada kuliah sedangkan peraturan jabatan agama Islam sendiri pun di negeri-negeri bahawa dia mestilah tidak mengganggu ketenteraan orang lain apa nama ni azan subuh azan tu dia kena merdu dia kena sayup-sayup dia bukannya azan tu dekat telinga Bunyi bising Apa kan Dan
 
-[20:12] Mana Nas yang mengatakan perkara ini perkara yang perlu dibuat ataupun sunnah? Adakah? Tak ada.
+[03:01] Rafizi Ramli: Yang ini saya tak pasti ber-ia dia dari sudut yang mana. Dia ada dua kemungkinanlah. Satu, dia ber-ia membodek Datuk Seri Anwar Ibrahimlah. Kedua ataupun dia ber-ia memberi alasan. Jadi mungkin kedua-duanyalah kut dia ber-ia kan. Tapi dia tak cantiklah kan. Ahli Parlimen Bukit Gantang ni ialah salah seorang daripada enam kan Ahli Parlimen yang dari Bersatu tetapi kononnya menyokong Datuk Seri Anwar Ibrahim. Jadi dia adalah Ahli Parlimen yang lompatlah kan. Jadi sepatutnya Ahli Parlimen yang lompat ni secara politiknya ialah yang paling lemahlah kerana dia tidak ada parti kan. Dan sepatutnya merekalah yang paling setia dan bergantung harap kepada Datuk Seri Anwar Ibrahim. Perdana Menteri suruh buat apa dia buatlah. Bila dia tidak hadir kan, apa pun ber-ia dia bagi alasan, dia bagi gambaran sebenarnya Datuk Seri Anwar ni semakin longgar kawalannya terutamanya kalau yang tidak hadir itu adalah seorang Ahli Parlimen lompat. Kerana mereka ini tidak ada platform atau kekuatan politik di belakang mereka dalam bentuk parti. Jadi kalau yang mereka yang bergantung harap supaya Datuk Seri Anwar ini kekal jadi Perdana Menteri pun tidak menghormati pentingnya mereka hadir untuk membantu luluskan rang undang-undang itu, memang dia bagi gambaran yang kawalan Datuk Seri Anwar secara politik itu semakin longgarlah. Tapi ber-ialah bagi alasan kan.
 
-[20:20] Sepatutnya Saibusama Farhan adakah? Ha Engkos orang je Sekolah agama dulu Ha So Tak ada Ha
 
-[20:28] Walaupun datang daripada kau, kita kurang percayai. Kena awak cerita. Semak balik. Tak, tak.
 
-[20:37] Bukan kah?
+[04:57] Nazri: Bagi alasan eh. Okey baik, kita tengok yang seterusnya. Bergaya sewa di hari raya.
 
-[20:40] Waktu malam.
 
-[20:43] dalam bulan Ramadhan ini yang afdolnya ialah
 
-[20:47] Kita kiamulail. Kiamulail itu kalau secara jamaah kita buat di rumah kita ataupun di surau.
+[05:08] Rafizi Ramli: Khidmat sewa iPhone untuk raya laris. Awak tak cakap? Aku ada tiga empat iPhone yang dulu-dulu kan yang... Eh tapi tak bolehlah bagi sewa, bahaya.
 
-[20:54] Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-[20:58] Dan Qiyamul Lai itu diam, tenang, aman sebab dia tak mengganggu orang lain kan. Nama pun Qiyam, bangun masa tidur, selepas masa orang lain tidur kan. Dan waktu malam ni lah waktu beribadah.
 
-[21:12] People pray, right? This is not a matter of worship. This is a matter of having fun. This is a matter of you should sleep, you should be productive in the morning and tomorrow to work, you should be worshiping, you should go to the market and disturb others. It should be the neighbours who make police reports.
+[05:19] Nazri: Bahaya, ni macam-macam rahsia negara dalam tu.
 
-[21:37] so that the police can arrest those who are good at it. Even if we lose the vote, we lose the vote. But this is not our culture and I'm usually a little bit of a trigger. For example, people like to support religion for things that are actually
 
-[21:57] Kepentingan peribadi dia Sebenarnya mereka ni Hanyalah untuk beriang ria bergembira Tapi dia menunggang agama Dan mengatakan Ini satu perkara kebaikan Kerana kita nak kejut orang sahur Mana ada macam tu lah Kamu nak berkeliaran malam-malam Buat bising Jalan itu macam kamu punya jalan Mengganggu orang Itu kamu punya hal lah Kalau kena tangkap, orang tangkap lah Tak payahlah nak tambah-tambah Kononnya di dalam Islam ini memang ada sebab setahu akulah aku hidup dah lama dalam masa 50 tahun ni kan tak pernah lah ada benda ni ni budaya mana ni
 
-[22:36] You were shocked. Do you think I can't be a Ustaz? I'm just being honest. You're right, disturbing neighbours is haram. I didn't say it was haram because I didn't have the right to issue a law. But we all know that all of this, all of this,
+[05:21] Rafizi Ramli: Ha macam-macam kan. Oh ni jadi trend sekarang bergaya sewa di hari raya.
 
-[22:59] For them to play at night, that's all. So if the police go to disturb, they will say, Oh no, we actually did a good thing. That's all. So I advise the police, all the police brothers, if they meet, please ask them to go home. Okay, well, Wabi, that's all we have for now. Wabi wants to read.
 
-[23:23] Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-[23:25] Tapi tengok balik Haa Ni Kanak-kanak Kanak-kanak Haa
+[05:28] Nazri: Ini kritikan kepada masyarakat sikit kut YB?
 
-[23:31] Bergaya sewa. Saya kena bagi anugerah kali ini kepada pengurusi PN yang baru. Tahniah Dr. Sam. Dua kali betul-betul selepas dilantik. Oh, iya ke? Ya, seminggu lepas. Oh, last week pun dia juga? GDP. Oh, GDP. Okey, okey, okey. Minta maaflah. Cuba lagi kalau berterusan begini, boleh merangkul anugerah tahun ini daripada Fuzia Sadeh. Okey, baik. Kita sebelum ke topik utama Hidup Keras, Wabi. Kita promo IO Malaysia sikit. Ini untuk kita ingatkan lah kan. Saya akan buat penerangan.
 
-[24:09] a little bit more, maybe tomorrow or something. But this Sunday, at 9 o'clock, we start at 9 o'clock, 10 o'clock, we will launch another new initiative by Ayuh Malaysia, which is rare, which we try to help in terms of owning a laptop or gadget, especially to the poor family.
 
-[24:37] Um...
+[05:30] Rafizi Ramli: Kritikan ke?
 
-[24:39] Laptop sekarang ni keperluan. Terutamanya kalau yang dah masuk universiti ke atau melepasi sekolah. Malah budak-budak sekolah pun kena ada laptop sekarang ni kan. Dan laptop harga kalau yang spek paling rendah pun paling kurang berapa sangat? RM3,000.
 
-[24:56] RM3,000. The latter is because the price of RAM, even storage, has gone up twice. So, at least RM3,000 if you use Apple, MacBook Air, the cheapest is RM5,000-RM6,000. RM5,000 more. So, it's expensive.
 
-[25:20] Ehh...
+[05:31] Nazri: Taklah, bukan. Pujian.
 
-[25:22] Bagi orang biasa mungkin benda itu bukan hal lah kan tapi bagi masih banyak lagi dekat keluarga dekat Malaysia yang ada halangan kewangan untuk ada akses kepada laptop dan peranti elektronik yang diperlukan untuk pembelajaran lah. kumpulan yang nak membantu kan. Jadi kita bernasib baik kerana ada dua kumpulan yang nak membantulah. Satu memang mereka bisnes dan juga kepakaran mereka.
 
-[26:08] Ialah membaiki laptop-laptop Tapi kita tak nak Semata-mata
 
-[26:17] gunakan duit minta duit daripada orang ramai
+[05:34] Rafizi Ramli: Berapa sewa satu iPhone ni?
 
-[26:21] then give it to them to repair the laptop. Because it looks like it's not sustainable and the effect is not broad. So we built a gadget loan, the concept is like this. It has three components. These three components have their own social benefits. What we need is the first component is for the public
 
-[26:49] yang ada laptop ataupun handphone gadget yang dah tak terpakai daripada
 
-[26:57] not thrown away or from... If you're not careful, if they sell second hand, if the buyer doesn't close all of it, then the personal record, bank information, if the buyer is good at it, he can get it back. So it's not safe. So we don't have a way to...
+[05:38] Nazri: Depends kepada... Saya tak pernah sewalah sebenarnya kan, tapi Pak An?
 
-[27:24] dengan selamat dan selamat dihantar ke
 
-[27:28] gadget kan jadi yang pertama kita minta dan melalui pinjam gadget orang ramai boleh menderma laptop, telefon yang tidak digunakan ataupun yang telah rosak untuk dibaiki tapi tak berbaloi untuk dibaiki jadi dia tersadai kat rumah kan ataupun dia nak upgrade tapi dia tak tahu nak buat macam mana dengan laptop sedia ada terutamanya kepada syarikat syarikat lah jadi dermakan Malaysia, itu komponen pertama. Kebaikannya ialah dia memberi ruang untuk individu dan syarikat membantu masyarakat dan membantu dia dengan bagi cara how to dispose and recycle your gadget reliably, safely and securely. Komponen kedua ialah selepas dia dah
 
-[28:21] dispose itu, kita sebenarnya ada program untuk melatih sesiapa yang nak belajar, baiki gadget, bagi laptop. Jadi kita ada kelas-kelas dan pada hari Ahad ini, pelancarannya ialah dengan 20 orang pelajar pertama. Jadi mereka akan dilatih, latihan itu termasuklah bermula dengan memadamkan semua mengikut peraturan supaya tidak ada apa-apa maklumat. orang kata hard reset lah semua tu kan
+[05:43] Farhan: Saya tak pernah sewa juga tapi anggaran saya dalam beratus-ratus ringgitlah.
 
-[28:55] Then, from the students who are trained according to this group, there will be those who can do part-time to improve the gadget. Especially the good thing is if for example there are university students that we can train or school graduates, right? Because it will create a circle when we continue to get
 
-[29:18] Dermatology, laptops and gadgets from many people. These laptops need to be repaired. So those who have been trained, they will repair and they will be paid. They will be paid. Instead of sending it to the shop, we have these kids that we train. Or maybe the employer.
 
-[29:41] Dia jadi side income untuk dia kan. So mereka akan dibayar lah kan. So dia boleh buat side income di situ lah. Jadi komponen kedua itu ialah mewujudkan satu kumpulan yang kami latih, yang ada kemahiran dan bagi mereka yang berkelapangan dan ada kemahiran itu mereka juga boleh mendapat pendapatan tambahan dengan membaiki laptop-laptop dan juga gadget-gadget inilah. sendiri dia nak buka kedai tu terpulang kat dia lah tapi tanpa buka kedai pun kami yakin sebenarnya kita akan ada cukup gadget setiap bulan untuk mereka baiki untuk mereka dapat lah mungkin RM500-RM600 sebulan bergantung kepada berapa banyak laptop mereka baiki lah. Kemudian komponen ketiga ialah bahagian pinjam gadget tadi.
+[05:47] Rafizi Ramli: Untuk seminggu?
 
-[30:31] Jadi mereka yang nakkan gadget tapi tak ada wang. Jadi mereka pinjam gadget ni macam pusat pinjam virtual lah. Jadi contohnya saya pelajar, saya nak masuk.
 
-[30:49] college saya tak ada laptop kan dan mak tak boleh nak keluarkan beli RM2,000-RM3,000 sekaligus jadi pinjam gadget membenarkan
 
-[31:00] menawarkan pinjam laptop untuk setiap 6 bulan pada sewa RM10 sebulan sahaja. RM10 sebulan, RM10 sebulan, RM10 sebulan. Jadi dia mungkin satu hari nanti lepas 6 bulan, 1 tahun dia dah dapat pinjaman ke dia dah dapat bantuan dia dah boleh beli laptop yang baru lah. Jadi bila dia dah habis nak pakai tu dia boleh pulangkan balik lah. akan dipinjamkan kepada orang lain lah. Jadi kita juga akan lancarkan portal itu kerana semua ini akan dibuat secara virtual. Jadi orang yang menderma laptop itu, dia boleh tengok terus tau laptop dia dekat mana sedang dibaiki dan bila dibaiki, dipinjamkan kepada siapa. Supaya orang tahu, bukannya bagi kepada ayuh Malaysia, lepas tu ayuh Malaysia bagi berkulat ke, ataupun ayuh Malaysia pergi jual buat duit sendiri ke, sebenarnya siapa yang menggunakan laptop dia. Likewise, kepada peminjam, mereka boleh buka akaun, boleh meminjam, dan mereka boleh tengoklah apa nama ni, bayaran bulan yang ada 10 ringgit sebulan dan bila dia nak kembalikan dan sebagainya. Jadi itu akan kita lancarkan pada hari Ahad ini. Dan saya ucap terima kasih kepada YB Lee Chin Chong dan kawan-kawan dia lah. ini kita bagi tugasan kepada YB Lee Chin Chong dan dia telah berjaya secara senyap-senyap dalam tempoh empat lima bulan yang lepas membangunkan keseluruhan program ini dan saya haraplah bagi mereka yang berkelapangan hari Ahad ini pukul sepuluh tapi bulan puasa tak ada makanan kan. Dekat mana tempat tu nanti kita akan umumkan lah kan. Kita akan umumkan tapi dia DPJ lah. Eh persiaran Subang. Persiaran Baiki laptop ini, tempat yang akan jadi kelas itu dan dengan 20 orang yang pertama, pukul 10 dan kita menawarkan 20 untuk tempat untuk kali yang pertama. Dan bagi mereka yang berminat boleh datang sendiri. Bagi mereka yang nak mendermakan laptop terus, boleh datang terus supaya kita boleh login dan kita boleh register laptop itu sendiri. tetapi nak mengikuti termasuklah kita akan siarkan secara langsung step-step langkah-langkah pertama macam mana nak baiki laptop. Jadi boleh menonton di laman sosial saya lah baik di YouTube dan juga Facebook lah pada pukul 10 pagi hari Ahad ini pelancaran Pinjam Gadget dan bagi mereka yang dah nak mula faham macam mana apa maksud Pinjam Gadget semua ni boleh tengok di pinjamgadget.ayuhmalaysia.org URL dia pinjamgadget.ayu.org Jadi hari Ahad ni cuma ada start dengan kelas dan juga kepada siapa yang minat untuk dispose ataupun sumbangkan Beli belum lagi lah Maksudnya pinjam itu belum lagi Kerana kita dah ada pun dalam dekat 30 laptop yang kita akan mula baiki lah Jadi maksudnya 30 laptop pertama itu memang kita dah ada pinjam itu, sebenarnya dah boleh pun daftar di pinjamgadget.ayuhmalaysia.org lah. Dan bila laptop itu ready, dia boleh pick up daripada Ayuh Malaysia lah. Dan saya berharap perkara ini secara berterusan dia mewujudkan ekosistem itu. Dan daripada 30 laptop pertama yang kita ada sekarang ini, saya harap kita boleh dapatkan sampai ratus, sampai beribu-ribu laptop selepas ini. dermakan itu, dia akan bagi manfaat kepada seorang pelajar miskin. Dan banyak pelajar miskin itu tertumpu di lembah kelang jugalah kerana mereka belajar di sini. Dan kalau dia dah sampai ke 10,000 laptop contohnya di dalam program ini, dia boleh digunakan oleh ramai anak-anak miskin di seluruh negara.
+[05:48] Farhan: Sebulan. Beratus ringgit sebulan.
 
-[35:23] ok
 
-[35:24] Kita move on. Mungkin YB boleh terangkan ada isu yang...
 
-[35:30] Orang takut nak donate laptop mereka sebab isu data, progresi semua itu. Adakah program pinjam gadget ini akan ambil langkah yang sepatutnya untuk insur benda tak ada di takdika? Sebab itu kita juga merasakan
+[05:50] Nazri: Macam sewa keretalah kan.
 
-[35:47] Bahawa cara ini sebenarnya lebih selamat tau. Okay. Sebabnya ialah mereka yang akan membaiki laptop-laptop ini ialah mereka yang dilatih daripada scratch mengikut tata cara dan juga orang kata...
 
-[36:07] etika-etika yang betul lah sebab perkara pertama yang dibuat
 
-[36:14] before you can repair it, is to destroy everything according to international standards. That's what we will show on this day of Ahad. So, so that many people can know too, when you send a laptop to repair it, be careful. Because that's me, I'll be honest. If my laptop is damaged, I never send it. If it's damaged, it's just like that. Because I don't believe
+[05:51] Farhan: Macam sewa kereta.
 
-[36:42] There are many things to look at, especially the difficult information, our banking. So we will show you the correct rules and ethics, steps for steps. And the first step is to eliminate, not eliminate using Windows, eliminate 01, 01, 01, 01. Meaning, the whole hard drive is meaningless.
 
-[37:08] From there, we can improve and do other things. So, I think if many people follow, that's why we think that borrowing gadgets is a good social business program for the people. Because it not only creates an ecosystem like this, but it can also improve
 
-[37:36] kefahaman kesedaran rakyat mengenai keselamatan digital untuk mengelakkan daripada kena...
+[05:53] Rafizi Ramli: Tapi yalah ber-ia. Kira ni kira apa dia, budak-budaklah kut tak?
 
-[37:43] skam, kebocoran maklumat dan sebagainya lah. Jadi kita jumpa hari Ahad ini bagi mereka yang boleh hadir nanti tunggu maklumat. Kita akan maklumkan. Kalau tidak boleh ikutinya di laman-laman kami lah. Okay, baik baby.
 
-[37:59] Kita jumpa hari Ahad ni. Kita tengok. Masih datang kan? Datang. Tapi tak.
 
-[38:07] Not many people can come to his place. No, you have to come. But I came. I forced him. I'm sorry. Isaac must want to come. He wants to learn how to erase his device that has all the things in it. Old information. Information that should not be seen by others. Okay, baby. We have a tough life. Let's see what happens in the parliament first.
+[05:59] Nazri: Ke apa dia? Dia FOMO ke?
 
-[38:35] Dua undi reform Ada bunyi dengar orang potong rumput kat luar Itu sebab kita bukan berada di Menara Ilham Menara Ilham bukan eh Kita soundproof pun tidak Ya Allah saya lupa nak bayar parking biarlah So kena saman lah
 
-[38:51] Di BKL RM50 tau sekali saman. Hari-hari dia orang saman kat sini. Sabar anak muda. Sabar. Kau boleh tulis surat kepada Hanayu lah. Kami membantu tapi kami kena saman tiap-tiap hari. Baik. Okey. Dua undi tergendala weh B. Satu RUU hadkan tempoh PM dan satu lagi RUU berkaitan dengan AG dan pendawa raya lah. Mungkin saya pergi satu persatu. Tapi sebelum tu lah kan. Saya duduk tengok video tu tengok Bacok tu beria-ia dengan geng-geng PN tu. Haa ya ya ya. Video tu kan. Dan saya ingat masa...
 
-[39:33] RUU peranan AG dan pendakwa raya ni Kerajaan dan Menteri Datuk Seri Azalina Bentangkan di Parlimen Bahawa
+[06:01] Rafizi Ramli: Dia nak melaram balik kampung ke? So maksudnya sewa kereta, sewa iPhone, supaya bila balik kampung nampak macam kaya-raya.
 
-[39:47] After that, the second reading was not continued with discussion and also a referendum as a consideration of the views of the members of parliament. So it will be referred to a special election authority and will be brought back to parliament to take into account several proposals. At that time,
 
-[40:12] ke Chief Whip Pass lah ahli parlimen Kota Baru Tuan Sri Tuan Sri Tuan Sri Takiuddin kan
 
-[40:21] Dengan bangganya bangun...
+[06:11] Nazri: Ha nampak berjaya.
 
-[40:24] Beginilah, aku duduk saja daripada tempat itu aku tengok sebab dia dengan bangganya bangun dan mendabik dada inilah peranan yang kita mainkan sebagai pembangkang memberikan semak imbang dan tahniahlah atas kejayaan menyebabkan kerajaan terpaksa menurut apa nama ini. di end lah.
 
-[40:55] then the government had to take the time and fix it again. And that is proof that the PM played a role, I'm not sure. He took the credit. What's the problem with the statement of taking his credit? It's the same as the videos of Bacok playing duos and all that. He didn't do it. It has nothing to do with them. There are two reasons why it has nothing to do with them.
 
-[41:23] Pertamanya ialah kerana mereka tak bersuara pun. Itu yang kadang-kadang...
+[06:12] Rafizi Ramli: Nampak berjaya. Yalah tapi tu budaya kita jugalah. Sebelum kita nak putuskan yang sewa-sewa budaya sewa iPhone ni ber-ia ke tidak kan, teringatlah saya ada yalah, dekat ofislah ada budak beritahulah. Yalah dia ACCA kan, kerja okey, gaji okey. Kalau nak berbanding dengan sepupu-sepupu dia, kira dia lebih ke depanlah dari segi kelayakan, daripada kerjaya. Sebab sepupu-sepupu yang lain mungkin ada penjawat awam peringkat sokongan, kerani ataupun baru masuk yalah, baru masuk jadi prebet ke apa kan. Tapi bila balik kampung masa raya yang paling stres sekali dialah.
 
-[41:29] Sangat memenatkan tau sebab dia duduk sibuk cerita pasal aku tak nak duduk sebelah engkau lah. Aku tak nak duduk sebelah engkau lah. Lepas tu pengurusi PN, ahli parlimen kemahaman pula sibuk. You bukan calon PM. You bukan calon PM. Sedangkan kita sedang melalui banyak isu-isu besar negara yang kita perlu berhati-hati dalam tempoh setahun yang lepas kan dari segi isu kehakiman. Aku ada dengar di cerita pasal Azam Baki ke apa, Taki Uden ni? Tak ada. Dan tiba-tiba bila keluar pasal AG, Pemisahan Pendawa Raya, kebimbangan kita bahawa kita mengulangi kesilapan yang sama memberikan kuasa yang sangat besar kepada seorang yang tidak ada pertanggungjawaban.
 
-[42:23] Semua itu kami yang nak kena bentangkan. Bila kami bersuara, kami kena hantar daripada kesemua pihak.
 
-[42:33] Ceplos-ceplos ni makihamun tiap-tiap hari kan. Saya tak apalah kerana saya dah biasa. Saya dibesarkan dalam suasana politik yang penuh fitnah dan juga makihamun. Daripada zaman UMNO, kemudian yang sambung hentam makihamun tu walaun pula kan. Sekarang ni tambah lagi ceplos jadi saya dah biasa. Tapi bayangkan ahli-ahli parlimen lain yang tak biasa. Ambil contohnya YB Roziah. Seorang ahli politik kanan yang dah lama tapi seorang ibu. lembut, kena maki tau setiap kali je kan. Jadi, dan itu bukan tugas hakiki kami pun sebenarnya. Tapi oleh kerana...
+[07:02] Nazri: Okey.
 
-[43:13] Perikatan Nasional itu Saya pun tak faham Dia tak nak bersuara Jadi dalam kes RUU Pemisahan peranan AG dan Pedawaraya ni kan
 
-[43:23] Sama ada dia lambat baca ataupun dia proses birokrasi di dalamnya itu sangat lambat ataupun mereka ini tak faham ataupun mereka memang malas kan. Jadi dibentangkan di atas meja ahli parlimen hari Isnin.
 
-[43:44] Hari Senin itu juga kami baca. Hari Selasa, kami dah ada pendirian dah.
+[07:03] Rafizi Ramli: Sebab dia seorang saja pakai kereta kereta Proton Proton Saga yang paling murah tu kan. Orang lain walaupun gaji mungkin tak sampai RM2,000 ke atau di bawah yalah RM2,100 kan, tapi bawa Honda Civic kan. Jadi dia selalu jadi bahan buah mulutlah, maksudnya kenapa kau ni miskin, tak tak berjaya semua kan. Jadi cuma tak tahulah lepas ni mungkin saya boleh beritahu dia, "Kau sure ke sepupu-sepupu engkau tu bawa balik kereta mahal-mahal semua ni kau sure dia tak sewa?" Tak disewa kan. But budaya tu memang adalah kan. Budaya yang suka membanding-banding kan. Jadi kita nak gelakkan budak-budak yang terjebak dengan bergaya sewa ni pun, ber-ia sewa iPhone ni pun, yalah kalau kita fikir balik mereka adalah produk kepada budaya masyarakat kitalah. Kau tak kena banding-banding bila balik kampung?
 
-[43:48] Hari Selasa tak ada apa daripada Perikatan Nasional. Hari Rabu tak ada apa. Hari Khamis tak ada apa. Saya ingat...
 
-[43:56] Kemudian dengar-dengar macam itu saja kan. Jadi tiba-tiba bila perkara ini memaksa kerajaan untuk rujuk kembali kepada jawatan kuasa pilihan khas, eh dia jadi hero ambil kredit lah. Ini sebab itu dia boleh berkawan baik dengan Zafrul ni. Geng-geng yang pandai corner depan ni kan. Itu satu. Tapi yang lebih lawak bila dia PN Perikatan Nasional bangun, Terima kasih kerana menonton!
 
-[44:28] Sebenarnya apa yang diorang buat pun tidak ada kesan kepada undi 23 tu. Jadi kerajaan terpaksa akur kepada pandangan-pandangan ahli parlimen PKR yang 10 ini sebab utamanya...
+[08:05] Nazri: Ada aje. Tapi...
 
-[44:45] Sudah tentu tidak lain dan tidak bukan. Tanpa kami tidak akan ada 2 per 3. Kerajaan perlu mendapatkan undi 148.
 
-[44:54] So for example, if the National League also violates this law, but all government parliamentarians agree and get 148, do you think Azalina will rise and say we refer back to parliament? No, she's just a bulldozer.
 
-[45:17] Fungsi semak imbang yang lebih besar juga sebenarnya digalas oleh backbench. Oleh ahli-ahli parlimen di sebelah kerajaan yang perlu ada clarity, kecerahan dari segi apa yang tanggungjawab yang kita perlu ada kepada rakyat. Oleh kerana kami terpaksa mengambil keputusan yang susah.
+[08:07] Rafizi Ramli: Sebab apa? Sebab tak kahwin?
 
-[45:41] Maksudnya berbeza pandangan dengan kerajaan dan oleh kerana ada 10 orang maka nak tak nak kerajaan tahu kalau dibentangkan juga nanti jadi macam RUU had tempoh PM itu tak dapat 1.48 malu saja. selia seorang pendawa raya yang sangat berkuasa ini. Kalau tidak kita mengulangi masalah yang sama yang kita ada dengan Tan Sri Azam Baki, tetamu kita juga kan? Ada. Tetamu kita juga minggu ini. Berduet kali ini. Berduet kali ini. Tan Sri Azam Baki yang mana dia terlalu berkuasa dan dia boleh pergi kejar siapa-siapa dan orang tidak ada recourse untuk mengawal kuasa yang dia ada. Wabi, sebelum saya pergi dengan kerajaan untuk menubuhkan select committee yang khas untuk isu pemisahan kuasa itu. Mungkin sebab ada chair plus cakap lah, ini ahli parlimen kerajaan walaupun bad benches, kenalah sokong kerajaan, dapat pun peruntukan daripada kerajaan. Eh, peruntukan kerajaan apa itu duit rakyat? Duit peruntukan dari rakyat.
 
-[47:00] ...praktis atau amalan......backbenchers-backbenchers......di negara Westminster lain......memang boleh untuk kita......berbeza pandangan......termasuk tak beri undi ke atau... Ya, ya, ya, ya......itu biasa......dia...
 
-[47:12] Kalau tengok Kalau contoh yang baik Kan
+[08:09] Nazri: Sebab tak kahwin, pakai ya gitulah kereta apalah, itulah, apalah.
 
-[47:18] yang saya ingat yang diteliti di seluruh dunia ialah
 
-[47:24] Tahun-tahun 2001 dulu kan...
 
-[47:31] the war against Iraq. At that time, the members of the Buruh Party did not support Tony Blair. So, he had his own space. And because of that, we had...
+[08:14] Rafizi Ramli: Pakailah macam kereta James, Proton Persona. Sekarang apa dia?
 
-[47:48] The concept of WIP is... I don't know, maybe people who follow politics understand what WIP is. But WIP is a long-standing concept from the British Parliament. WIP is training, right? Training, right? Meaning, you don't do...
 
-[48:06] Sebab itu dia ada contohnya Chief Whip Ketua Whip Dan Whip kan Tapi Bapak
 
-[48:13] Bukan dalam amalan demokrasi Westminster, bukan semua keputusan itu mesti seratus peratus ikut kerajaan. Walaupun kita ahli parlimen kerajaan, kalau tidak tak payah buat parlimen lah. Perdana Menteri tentukan semualah kan. Bezanya di antara sistem US yang mana pemisahan di antara perundangan dengan eksekutif itu jauh lebih jelas lah. Jadi memang perundangan walaupun parti yang sama mereka tidak terikat dengan eksekutif kan kerana mereka lebih bebas kan. Dalam Wensminster sistem ni dia unik sikit lah dan rumit sedikit kerana
+[08:19] Farhan: Akuarium. Akuarium eh.
 
-[48:57] Perdana Menteri itu dipilih dari kalangan ahli-ahli parlimen sendiri.
 
-[49:03] Dan ahli-ahli parlimen itu dari parti yang sama.
 
-[49:10] Jadi pemisahan di antara eksekutif dengan cabang perundangan itu agak kabur dalam sistem Westminster kan.
+[08:20] Rafizi Ramli: Proton Persona akuarium tu maksud dia?
 
-[49:21] But in any democratic practice, even in the practice of Westminster, there is a clear concept of power separation between the executive branch and the executive branch. And it is better to practice the concept of power separation as much as possible. Because of that, the members of parliament in the Westminster system, they have several...
 
-[49:49] Keadaan tertentu. Ada undi-undi yang dikira undi-undi yang wib boleh ditarik.
 
-[49:59] Maksudnya kena whip lah Undi-undi itu selalunya jenis yang akan menjatuhkan kerajaan So jadi contohnya lah kan Dalam keadaan untuk mengundi bajet setiap tahun Yang itu kalau tak undi memang kena buang lah Kerana dengan tidak mengundi belanjawan Maksudnya samalah dengan kita mahu menjatuhkan kerajaan Yang itu memang kalau saya pun tak mengundi belanjawan Memang sepatutnya saya kena buang lah So, yang itu tidak ada pilihan.
+[08:22] Farhan: Maksudnya cermin window dia takde tinted langsung. Oh, nampaklah.
 
-[50:32] Kemudian ada undi-undi yang apa nama ni...
 
-[50:39] parti ada pendirian masing-masing
 
-[50:42] Dan sebaiknya parti nak orang ikut pendirian itu kan. Tapi itu pun tidak mengikat 100% ahli-ahli parlimen untuk 100% ikut. Kalau dia tak ikut, ketua WIP, saya dulu ketua WIP tau. Saya ketua WIP PKR kan. Kalau dia tak ikut, kita boleh summon dia dan minta dia bagi penjelasan. Contohnya kan. iaitu free vote
+[08:25] Nazri: Nampak jerawat kalau dari luar pun ha.
 
-[51:14] Maksudnya based on conscience. Dan ada isu-isu yang mana ahli parlimen dibenarkan mengundi mengikut conscience masing-masing. Atas beberapa sebab lah. Selalunya sebab utama ialah...
 
-[51:29] Ahli parlimen itu mungkin daripada parti tertentu yang ada pendirian tertentu dalam isu tertentu. Tetapi dia mewakili kawasan yang memang sangat menentang pendirian parti dia dalam isu tertentu. Contoh yang baik kalau macam saya di UK dahulu lah contohnya. Kalau Scotland. Scotland kita ada tiga parti utama lah. Kita ada konservatif, kita ada labour. 90-an kita ada SMP, Scottish National Party kan, Parti Kebangsaan Scotland lah kan.
 
-[52:06] Jadi dalam beberapa isu yang bersabit dengan identiti...
+[08:28] Rafizi Ramli: Tinted ni bukan sepatutnya tak boleh ke? Menyalahi undang-undang.
 
-[52:13] kebangsaan Scotland ataupun yang bersabit dengan devolved power, kuasa yang diperturunkan kepada Dewan Undangan Scotland kan. Walaupun itu bertentangan dengan pendirian di Westminster, tetapi selalunya ahli-ahli parlimen daripada Labour ataupun daripada Tory, dia ada pandangan yang berbeza dan dia akan mengundi bertentangan di Westminster Scotland
 
-[52:44] and also the mood of the Scottish people. So, there are three categories. So, for example, in the recent RUU case, when 10 of the MPs, including myself, made a statement that we would not support, except for the things that we raised,
 
-[53:07] terutamanya yang bersabit dengan pertanggungjawaban kan. Itu dia masuk kategori kedua lah. Jadi kalau Chief Whip PKR sekarang, ialah Datuk Seri Aminuddin Harun. Dia Chief Whip ni selalunya ahli parlimen yang jawatan paling kanan lah dekat parlimen. Jadi masa saya timbalan presiden dulu saya lah. Sekarang timbalan presiden bukan seorang ahli parlimen. dan sama ada menteri besar.
+[08:31] Nazri: Dia ada spesifik rate dialah kan.
 
-[53:39] Selangor atau Menteri Pusat Negeri Sembilan Jadi Chief Whip itu sekarang Menteri Pusat Negeri Sembilan Jadi kalau contohnya Chief Whip PKR Berkehendakkan Supaya saya dan 10 yang lain Memberi penjelasan Kenapa kami mengambil penderian itu Dan kami akan
 
-[53:56] Bagi pendirian lah. Tapi tidak betul kalau kata seseorang ahli parlimen mesti mengikut 100% apa yang ditetapkan oleh kerajaan. Kalau macam itu tak payah ada parlimen lah. Dan kalau macam itu konsep pemisahan kuasa di antara...
 
-[54:16] cabang perundangan dengan cabang eksekutif ni sebenarnya tak wujud lah jadi konsep parlimen itu adalah semak imbang kepada eksekutif pun sebenarnya mainan mulut sajalah hmm
+[08:34] Rafizi Ramli: Okey okey. Tapi ber-ialah, ber-ia sewa iPhone. Adik-adik kalau yang ada sewa nak ada hajatlah nak sewa iPhone nak bawa balik beraya tak payah. Buang duit aje RM300 kan. Sebab ini jenis-jenis kadang-kadang perangai orang kita, orang kata apa ni, menang sorak kampung tergadai. Ini stail menang bergaya masa raya, balik lepas itu papa kedana. Berbulan-bulan papa kedana kan.
 
-[54:29] I have a question. I just want to understand the structure. So, each party has its own whip. Does the government have a whip leader? Yes, a whip leader. Who is the whip leader now? TPM. So, the whip leader is the second prime minister, Dato' Sri Fazil.
 
-[54:53] And each party has its own whip. For example, in the past, I was the PKI whip. Now, it's Dato' Sri Aminuddin. The DAP whip, I think, is Ngah Kho Ming. The UMNO whip is Dato' Sri Ma'asan. Because the whip in the parliament is usually the second person.
 
-[55:13] Kerana dia perlu seorang yang sangat kanan untuk mendapatkan hormat dan otoriti supaya boleh meyakinkan ahli-ahli parlimen parti-parti itu untuk mengundi seperti yang dikendaki oleh kerajaan. Itu masalah PKR sekarang. WIP itu tak apalah Amin Dato' Sri Aminuddin Harun kan. dialah chief whip ialah Zaleha lah sebab dia pengusus BBC kan tapi kalau dari segi senarai kekananan dalam ahli-ahli parlimen dia sangat tidak kanan dia first term MP dia tidak pernah ada jawatan kanan dalam parti dia dilantik semata-mata kerana favourite Dato' Sri Anwar jadi bila dia dihantar ke parlimen macam mana dia nak enforce kerana kalau nak banding dengan saya nak banding dengan Nik Nazmi nak banding dengan Rosia banding dengan
+[09:11] Nazri: Okey baik. Dengar. Kita tengok lagi. Politik. Kanak-kanak Raudhah thumbs down, Ahli Parlimen Raudhah thumbs up.
 
-[56:17] Siapa lagi yang kanan?
 
-[56:20] Baktia Ini semua yang Yang dah multiple terms Nak banding dengan K7 Semua multiple terms kan Jadi Bila PKR Buat lawak macam itu Dia memang
 
-[56:35] Zalihah will have a problem with our command. Because we are far more right. And we are senior parliamentarians in the parliament. Not only in the PKR, but also in the parliament. So it should be the order in the party. That the rightmost person must be the whip. Because he must have the authority to govern. But unfortunately... Usually the number two in the party.
+[09:25] Rafizi Ramli: Kesian Raudhah, Raudhah juga yang kena.
 
-[57:04] Tapi masalahnya Izzah tak ada kat situ lah kan. Tapi satu lagi isu adalah berkaitan dengan bagaimana mereka menangguhkan undian itu dengan membawa usul pemisahan Attorney General dan Public Prosecutor kepada satu jatuhan kuasa pilihan khas yang baru dibentuk. Yang mungkin itu nama itu dipilih sendiri oleh kerajaan juga. Akan ada un-internet consequences ke? Intended consequences. Kita tahulah intended consequences yang kita nak daripada itu. Jadi saya sebenarnya...
 
-[57:43] Kecewa lah kan. Saya cuba cari apa perkataan yang sesuai untuk menggambarkan perkembangan mengenai RUU, pemisahan peranan AG dengan pedagang raya.
 
-[57:56] Kerana isunya itu jelas dan isu itu bukan sahaja kami pandai-pandai sebut. Isu itu juga adalah isu-isu yang dibawa oleh civil society. Pertubuhan bukan kerajaan oleh masyarakat. Dan dalam pertubuhan bukan kerajaan itu bukannya semua kumpulan yang Anwar Ibrahim suka kata liberal-liberal-liberal ni. Termasuklah Abim di dalam itu, termasuklah Ikram, termasuk pertubuhan-pertubuhan Islam tau mengatakan bahawa kalau kita teruskan dengan draft yang sedia ada dia akan mengulangi kesilapan yang sama. Kita mewujudkan seorang yang sangat berkuasa yang tidak bertanggungjawab dan tidak boleh dikawal selia. Jadi
+[09:29] Nazri: Ini ialah kenyataan Tan Sri Muhyiddin tak nak datang Parlimen sebab tak nak duduk sebelah Datuk Seri Hamzah.
 
-[58:45] isu itu jelas walau apapun pusing kona kiri kanan yang Dato' Sri Azalina bagilah macam-macam lah dia bagi alasan tu kan jadi saya menilai daripada ucapan Dato' Sri Azalina sendiri kerana itu pendirian dia dan juga pendirian kerajaan
 
-[59:06] Kemudian saya menilai kepada keputusan kabinet untuk merujuk kepada satu jawatan kuasa khas pilihan yang baru. Sedangkan jawatan kuasa khas parlimen sedia ada itu memang itu tugasnya. Bezanya jawatan kuasa khas parlimen hak asasi manusia, pilihan raya dan juga reformasi institusi. hapri kan? Di dalam itu,
 
-[59:39] Ada orang seperti YB Roziah Yang terdiri daripada 10 orang I see
+[09:38] Rafizi Ramli: Datuk Seri Hamzah cakap apa eh?
 
-[59:47] jawatan kuasa hapri juga telah membuat keputusan sebelum ini bersetuju supaya elemen parlimen mesti dibawa masuk jadi caranya ialah maksudnya
 
-[1:00:00] Bagi saya agak nakal dan tidak ikhlas. Bila kamu dah tahu proses yang sepatutnya ialah bawa balik kepada jawatan kuasa khas HAPRI yang dipenguruskan oleh YB William. Memang ada perbezaan. Kerajaan langsung tak nak bagi kepada Parlimen. Sebab kalau ikut jawapan Datuk Seri Azalina itu kuasa melantik itu kuasa eksekutif. Parlimen kamu dah bagi kuasa itu kepada eksekutif Kamu jangan cuba-cuba campur tangan. Itu pendirian kerajaan sekarang tu.
 
-[1:00:34] Yang disampaikan Maksudnya kuasa nak lantik siapa-siapalah Kami yang jadi menteri Kami jemaah menteri Kami kerajaan Maka semua kuasa mentadbir Terutamanya yang melantik Itu kuasa kami Bukan kuasa parlimen Hmm
+[09:39] Nazri: Dia tak dia tak respon sangatlah.
 
-[1:00:50] Jadi kalau proses lantikan dan proses pemecatan itu ada kawal selia daripada parlimen, jawapan Dato' Sri Azalina hari itu ialah ini sudah pun melanggar semangat pemisahan kuasa kerana kamu dah ambil kuasa kami.
 
-[1:01:09] Saya rasa macam...
 
-[1:01:12] Benda itu boleh digunapakai dengan lebih sesuai di negara-negara yang ada sistem presiden. Sistem presiden itu jawatan cabang eksekutif memang dipilih secara berasingan oleh rakyat. Maka dia ada mandat sendiri tau.
+[09:44] Rafizi Ramli: Saya saya fahamlah sebenarnya memang rasa janggal kan. Katakanlah dia bergaduh dah berpatah arang, kau suruh aku duduk sebelah Anwar Ibrahim. Memang tak naklah aku kan.
 
-[1:01:34] Presiden Prabowo, dia ada mandat dia sendiri. Presiden Trump, ada mandat dia sendiri. Cuma kuasa dia itu diimbangkan dengan satu lagi mandat, semak imbang yang diberikan kepada Parlimen. Contohnya kan.
 
-[1:01:51] Tapi kalau dalam sistem Westminster ini kan, punca segala mandat adalah parlimen. Satu-satunya pilihan raya yang ada ialah parlimen.
 
-[1:02:05] Kalau...
+[09:56] Nazri: Saja tukar topik. Waktu pemilihan hari tu, ada yang komen reaksi muka ataupun waktu YB apa bersalam dan duduk sebelah Datuk Seri Anwar?
 
-[1:02:06] Parti UMNO Atau PH Ataupun ahli-ahli parlimen yang bukan menteri ini Tidak ada atau tidak menang Maka Dato' Sri Azalina tak jadi menteri pun Kan Tetapi tiba-tiba bila dah jadi menteri ni Ini kuasa kami Parlimen jangan campur langsung Kan Dan dia bukan soal perbutan kuasa pun Dia soal Macam mana untuk kita mengikat Seorang yang cukup berkuasa Seperti pendawa raya kuasa rakyat. Kalau contohnya,
 
-[1:02:40] The power of the people in Malaysia is manifested through the election of the Prime Minister. Then it's okay. And no one wants to interfere. There is no parliament to interfere because we know that if the election is not done properly, or not according to the rules, or not performing, or corrupt, then we can remove it by removing the Prime Minister.
 
-[1:03:07] Tapi di Malaysia, masalahnya ataupun keadaannya...
+[10:07] Rafizi Ramli: Tak, yang yang salam itu sebenarnya ialah disalaherti kan. Sebabnya ialah telahan sayalah dan saya saya ingat benda tu tak cantiklah eh. Jadual asal Kongres sepatutnya keputusan pemilihan itu dibuat petang esok kan?
 
-[1:03:13] Kuasa rakyat itu dizahirkan melalui satu-satunya jalan iaitu parlimen. Jadi untuk kita mengikat kepertanggungjawaban,
 
-[1:03:22] the parliament with the people, it must be through the parliament. But the answers and statements made by Dato' Sri Azalina are quite clear that he fully opposed that matter. He didn't hide it, he was honest that day. I think he tried to give an image that the government would consider, find a way, but it didn't work.
 
-[1:03:50] What's more hurt is that what should be referred to the special election authority as it is, whose view is more in line with our view of the 10th, to avoid being hit there, he established his own new special election authority, which he himself, the executive, became the chairman.
+[10:32] Nazri: Betul, esoknya.
 
-[1:04:12] Jawatan kuasa pilihan khas ni sepatutnya ahli-ahli parlimen, cabang parlimen. Kalau tidak, tak payahlah panggil jawatan kuasa pilihan khas parlimen. Panggil saja jawatan kuasa Azalina.
 
-[1:04:25] Kan, senang. Tak ada orang nak komplain pun. Kalau panggil jawatankuasa Azalina, kemudian panggillah siapa-siapa menteri, kamu boleh buatlah.
 
-[1:04:36] Don't try to drag the name and the name of the parliament on your power. But it's not possible because if it happens like that, people will say, eh, but don't bring it to the parliament because of his spirit and his own PH promise. The law must be referred to the special power of the parliament. He is also good at making the special power of the parliament that he himself chaired.
+[10:33] Rafizi Ramli: Selalunya dibuat esok masa di akhir selepas perbahasan semua, dah habis semua kepimpinan sesi ini, di akhir baru diumumkan pemenang, kemudian pemenang mengambil tempatlah. Itu memang tiap-tiap tahun. Jadi berdasarkan jadual asal itu, Kongres sepatutnya bermula 8:30 malam. Tiba-tiba dalam pukul 7:00 malam itulah kita nak maghrib semua, tiba-tiba diberitahu akan diawalkan pukul 8:00. Jadi memang kelam-kabutlah, kita bukan duduk kat situ kan, dengan jemnya semua kan. Jadi by the time aku sampai 8:15 tu, dia dah bermula dalam 10-15 minit kan. So bila aku masuk tu, bukanlah aku pandai-pandai nak masuk nak buat grand entrance ke apa. Memang dah lambat sebab dia orang pandai-pandai percepatkan setengah jam di last minute tanpa tanya siapa-siapa kan. So kau tahulah aku, bila masuk, alamak aku tak suka ganggu program. I don't like the attention on me. Kan kalau boleh aku kalau ada pintu kat belakang aku masuk pintu kat belakang senyap-senyap aje kan. Jadi dahlah engkau masuk dia dah jadi grand entrance, orang jerit reformasi semua kan. Lepas tu program semua terganggu. Bila naik ke atas tu kan, takkanlah pula aku tiba-tiba nak berpeluk satu dewan ni kena tengoklah. Macam kau diva pula nak kena berpeluk, bersalam semua kan. Aku memang carry on carry on, aku nak duduk cepat-cepatlah kan. Tapi mungkin Datuk Seri Anwar terasa kut sebab dia dah tahu apa yang berlaku dia pula dan yalah Datuk Seri Anwar ni dia segala-galanya ialah pasal optik kepada orang. Jadi dia kena tunjukkan yang dia ni seorang bapa yang baik semualah. Aku tak terfikir pun masa tu pasal dia ke apa, aku terfikir jangan ganggu program ni, jangan ganggu program kan. Tapi benda itu disalahertikanlah. Kemudian kemudian kita tahulah kenapa dia dicepatkan kan. Jadi masa duduk sepanjang tu aku dah berkira dah tahulah semua ni telah dirancanglah. Dia percepatkan semua sampai jadi kelam-kabut tu supaya dia boleh umum keputusan pada malam itu. Dan dia umum keputusan pada malam itu kerana ada jemputan-jemputan daripada parti lain, pimpinan daripada DAP, daripada Amanah, daripada UMNO, daripada duta-duta kan. Dan dia memang telah pun susun supaya bila sebut Nurul Izzah tu ada kumpulan-kumpulan yang akan menjerit bagi sokongan. Jadi dia memang susun semua itu untuk menjatuhkan air muka kan. Jadi maksudnya sepanjang itu saya terpaksa duduk sebelah dia yang tahu bahawa semuanya telah dirancang begitu kan. Tapi sebenarnya kalau nak jadi ahli politik ni kan, dia dalam kepala otak kita ni, ini nasihat saya mungkin kepada Tan Sri Muhyiddinlah, trik saya macam mana trik saya kan. Trik saya kalau kita nak jadi ahli politik ni ada dua tiga triklah eh. Satu ialah sebaik-baiknya jangan bermuka-mukalah. Jadi maksudnya kalau muka tu dah memang muka macam hmm aku tak minatlah dia ni, kalau kena duduk sebelah Datuk Seri Hamzah Zainudin pun kekalkan muka tak minat itulah. Sebab kalau orang dah tahu yang mereka tidak sealiran, kemudian masing-masing terpaksa sengih berlakon, itu sebenarnya lagi teruk. Dan yang kedua, trik yang kena ada dalam kepala ialah kepala ni dia kena ada banyak tayangan-tayangan Netflix yang boleh berlaku serentak.
 
-[1:05:02] You cemak semua jatuhkan kuasa parlimen sedia ada Rasanya ada 10 kan sekarang kan Hmm
 
-[1:05:07] Which Parliamentary Office did the Prime Minister manage? Never. Never happened. Where is the Select Committee in the UK? What is it called? Congressional Committee? Senate Committee in the US? Where is the Minister or Secretary of State who chaired the select committee?
 
-[1:05:31] tujuan dia dipanggil select committee ialah supaya ahli-ahli parlimen boleh panggil dan soal menteri. Supaya menteri
+[14:29] Nazri: Oh.
 
-[1:05:41] understand that they are also still responsible to the parliament. And when I want to bring the act, when I was a minister, the new act that I want to bring, I really have to go and face and convince the power of the parliament. There is no question that I am more senior than you, I am the minister of power, that is their power, not the body of the people who are there.
 
-[1:06:07] kita kena hormati fungsi jawatan kuasa pilihan yang ada. Tapi jawatan kuasa pilihan yang diumumkan hari itu, memang tak pernah ada lah kot. Tiba-tiba pengurusinya ialah...
 
-[1:06:21] Menteri sendiri Dan bila kita tengok Satu-satunya ahli parlimen Daripada PKR yang ada Ialah William Leong Hmm
+[14:30] Rafizi Ramli: Maksudnya selalunya aku kalau contohnya kalau masa Kongres kan, kita dah tahu kena duduk sebelah Datuk Seri Anwar setelah dia orchestrate segala-galanya kan. Dan malam itu kemuncaknya yang dia nak malukan semua kan. Jadi kau fikirlah benda-benda yang yang apa nama ni yang mengalih tumpuan daripada semua. Aku tak ingat apa aku, aku cuba selesaikan masalah matematik kut masa tu. Dalam kepala I said, "Okey yang ni macam mana ni kan." So kalau ada trik-trik itu, maka tidak perlulah ber-ia-ia bergaduh pasal saya tak nak duduk sebelah awak macam ini lah kan. Tapi selagi bila Tan Sri Muhyiddin cakap macam ini, lagilah Speaker takkan tukar kedudukan mereka. Lagilah lama dia kena duduk kat sebelah tu kan. Jadi inilah fungsi dan tugas pegawai-pegawai khas supaya pegawai khas Tan Sri Muhyiddin dan juga pegawai khas kepada Datuk Seri Hamzah pastikan jadual mereka berada di Parlimen itu tak clash. Take turn lah, take turn. Jadi tak timbullah isu ni kalau mereka take turn kan. Ber-ia, kita banyak tolong Tan Sri Muhyiddin nampaknya, macam-macam bagi tip kat dia kan.
 
-[1:06:31] Sedangkan ahli PKR, kalau nak banding dengan UMNO lah, sebenarnya ahli parlimen PKR lagi ramai daripada UMNO sebenarnya. Tapi tak adalah. Hanya William kerana ahli PKR yang lain yang kanan, semuanya berpandangan macam kami. Yang menduduki sepatutnya kalau ada seorang lagi, sepatutnya ahli parlimen daripada PKR dalam jatuh kuasa itu, Ia juga berada di dalam jawatan kuasa yang sama lah. Maksudnya hak asasi manusia, pilihan raya dan reformasi institusi kan. Tapi tak adalah. Jadi kita boleh tengok lah. Semua itu begitu sanitize lah. Dan jadi saya akan tunggu bila mereka kembali. Tapi...
 
-[1:07:21] Dato' Sri Azalina, Dato' Sri Anwar, kerajaan kena ingat satu benda lah.
 
-[1:07:26] Mereka memerlukan 148.
+[15:50] Nazri: Dah settle banyak masalah dia.
 
-[1:07:29] Sekarang ni ada 1, 5, 3 Man
 
-[1:07:33] Kalaupun...
 
-[1:07:34] 6 orang daripada kami tetap tidak bersetuju
+[15:51] Rafizi Ramli: Dah settle banyak masalah dia.
 
-[1:07:39] Akhirnya sama ada rang undang-undang itu dapat diluluskan ataupun tidak mestilah bergantung kepada 10 orang ahli parlimen PKR. Ini kerana PN, Perikatan Nasional tak berminat. Dia berminat untuk tunjuk jari sana, jari bawah, jari atas. Itu saja dia berminat kan. Dia tak berminat benda-benda rumit macam ini kan. selia kepada parlimen bukannya kita minta kawal selia 100% kita minta supaya ada
 
-[1:08:18] the line between the parliament and the people's power. And the power of the people is expressed by the parliament. Unless the draft can prove that there is another way to bind the parliament with the power of the people. Then I'm open, right? But otherwise, no matter how you turn around, if you don't get these 10 people, then you won't get the number that day,
 
-[1:08:46] Tak cukup dua. Setiap hari lepas ni tak cukup tiga belas. Jadi saya pun tak faham pendekatan yang diambil oleh kerajaan hari tu.
+[15:52] Nazri: Okey YB, kita tengok yang lain. Aku bukan calon, kau pun bukan calon. Ha yang ini pun ber-ia.
 
-[1:08:59] Why do we need to be so combative and why do we need to be so negative with the views we give? The views are also shared by the people. So, and they should know, no matter what, we need to be sure to get the vote of these 10 people. So, work together a little, open up a little. Don't be so busy showing that you are a minister, you are not a minister.
 
-[1:09:27] Gaya macam itu yang akhirnya bungkus semua kalahnya. RUU pun dah dapat, pilihan raya pun bungkus kan. Jadi, kita akan tengoklah sidang yang akan datang bulan Jun. Sama ada mereka berjaya ataupun tidak. Dan kalau mereka rasa dengan hanya ada YB William Leong, itu akan berjaya mengubah keadaan, mereka tak faham dinamik ahli parlimen. Fikirlah. Kerana yang 10 orang ni yang kanan. Suka je paksa kami Anwar Ibrahim pun tak boleh paksa kami Apatah lagi William Leong kan Jadi akhirnya mereka perlu memikirkan Bagaimana jalan terbaik Untuk
 
-[1:10:08] to improve the draft so that there is a line of responsibility between the parliamentarians and the people. And so far I have not seen any other way except through the parliament. There are people who say, I mean the reaction is like suddenly decided to bring the power to power, right?
+[16:02] Rafizi Ramli: Jadi bayangkanlah kan, Perikatan Nasional ni daripada krisis yang tidak ada pengerusi, pengerusi tu selalunya dilihat sebagai calon Perdana Menterilah kan. Jadi krisis itu berpanjangan, tapi akhirnya masing-masinglah penyokong PN ni tepuk tangan, "Alhamdulillah krisis ini telah selesai kan. Dr Sam telah jadi pengerusi PN." Ingatkan dah habis, daripada krisis tiada pengerusi PN, sekarang krisis tiada calon bukan sesiapa calon Perdana Menteri pula kan. Jadi menyelesaikan krisis untuk melantik pengerusi PN itu membuka kepada satu lagi krisis, iaitu kau bukan calon, aku pun bukan calon. Jadi semua ni dia dah jadi macam kanak-kanak Raudhah sekali lagilah kan. Jadi yang lawaknya bila antara kenyataan pertama Dr Samsuri ini yang dikatakan teknokrat, yang dikatakan tenang ialah macam kanak-kanak tadika. Sebab Tan Sri Muhyiddin saya ingat Tan Sri Muhyiddin yang katalah kan bahawa jawatan pengerusi PN itu bukan semestinya calon PM.
 
-[1:10:29] Ada yang mengatakan ini reaction government selepas kalah. Tak cukup 2 per 3. Eh tak tak tak tak tak. Memang kami dah tahu daripada minggu lepas. Daripada minggu sebelum itu pun. Kita dah tahu. So memang decision government adalah untuk set up. Dan memang sebab menjelang hari...
 
-[1:10:47] Kamis... Dia...
 
-[1:10:51] apa nama ni bacaan kali kedua
+[17:35] Nazri: Ya, betul.
 
-[1:10:56] Bermula hari Senin... Kan... Undian hari Selasa...
 
-[1:11:00] menjelang hari Kamis jawatan kuasa pilihan khas hak asasi pilihan raya dan reformasi institusi memang telah sebulat suara buat keputusan meminta kerajaan untuk merujuk perkara ini kembali kepada jawatan kuasa pilihan khas jadi memang kami dah tahu daripada hari Kamis mustahil mereka boleh mengundi dan kalau mereka mengundi akan kalah jadi satu-satunya jalan buat ialah dengan cara mengusulkan untuk dia merujuk kepada jawatan kuasa pilihan khas. Cuma surprise yang kami dapat ialah jawatan kuasa pilihan khas itu benda yang dibuat sendiri. Bukan jawatan kuasa pilihan khas seperti yang ada di parlimen. Dan kalau YB ingat Dato' Takridin berdiri dan kata dia setuju dengan jawatan kuasa itu.
 
-[1:11:51] Dia memang, diorang mana yang boleh ditunggang untuk kredit dia, dia tunggang kan. Tengoklah nanti, saya tak rasa Taki Yudin akan bermati-matian mempertahankan soal kawal selia parlimen. Draft itu nanti, bila keluar dan saya tak nampaklah kerajaan akan cuba untuk bawa masuk peranan parlimen Besar kemungkinan apa yang mereka akan buat, mereka akan buat satu jawatan kuasa bebas ala-ala ombudsman. Kononnya.
+[17:36] Rafizi Ramli: Tapi saya tak tak ingat Tan Sri Muhyiddin akan apa nama sangka yang Dr Samsuri ni akan jawablah apa nama ni kalau saya bukan calon PM, Tan Sri pun yang pasti Tan Sri Muhyiddin pun bukan juga calon PM. Actually calon PM ni siapa-siapa boleh mencalonkan diri mereka jadi PM. Sebab calon PM ni siapa yang berminat boleh sajalah. Dapat ke tidak tu tak tentu, dia bergantung kepada keputusan pilihan rakyatlah dalam pilihan raya kan. Jadi saya harap mereka teruskan beginilah. Kau bukan, aku pun bukan kan. Lepas ni jadi kalau bukan Dr Samsuri, bukan Tan Sri Muhyiddin, PN ni siapa calon dia? Senyap-senyap kona baring kut belakang, Datuk Azmin Ali.
 
-[1:12:30] Like the SPRM now. If you ask the government, the government will say, we actually already have 5 free authorities that control the SPRM. Free, but let's see what happens now. So they will do the same. They will say, we will make a free authority that will control
 
-[1:12:55] pendawar raya. Tapi yang melantik jawatan kuasa bebas itu ialah Perdana Menteri, geng-geng yang berada di Putrajaya jugalah. Dan akhirnya, seperti yang kita pernah bincang dalam podcast-podcast lepas, apabila kuasa itu dipusatkan di dalam tangan beberapa orang sahaja dan mereka tidak bertanggungjawab kepada rakyat, mereka bertanggungjawab kepada mereka yang melantik, akhirnya dia akan berlegal lah. Dan therefore, it corrupts kan jadi dan saya rasa saya bacaan saya setakat ini tak kira dia akan setuju
 
-[1:13:33] Sebab PN pun sampai kesudah tidak sangat bermati-matian menegaskan tentang keperluan membawa masuk parlimen. Dia akan cuba tengok kalau jadi kok mana pun, Taki Yudin akan cuba masuk untuk ambil kredit lah. Lagipun sekarang ni dia sedang cuba melobi untuk jadi ketua pembangkang ni. Dia kan salah seorang calon ketua pembangkang daripada, dia kena tunjuk dia function lah. Mulan 6 Kalau ada lagi perubahan Tapi yang Yang gagal ni Yang Yang PNDAT tu Yang tu tak payah komen lah Semua orang dah tahu Itu Ck
+[18:33] Farhan: Tapi betul ke, I mean ada rumours lah yang mengatakan PAS akan break off daripada Bersatu untuk bersama dengan PKM?
 
-[1:14:12] Stand it diorang lagi eh Hmm
 
-[1:14:15] Tak adalah. Bukan saja itu. Maksudnya kegagalan kerajaan mendapatkan undi terbabas dua itu kerana...
 
-[1:14:24] It should be easy to pass. Because we agree and everyone agrees. It's just the PN that, as usual, works hard. But there are some weaknesses that how can that happen? And it goes back to what I said earlier.
+[18:42] Rafizi Ramli: Dengan?
 
-[1:14:50] Awal-awal tadi kan yang masa beria kan Haa
 
-[1:14:54] Atas kertas, Datuk Seri Anwar nampak gah kerana ada 153 menyokong. Dua per tiga kan. Tapi hakikatnya, kawalan yang beliau ada semakin longgar.
 
-[1:15:07] Dalam PKR longgar. Sekarang ini dia dah sampai ke dalam PH. Kerana DAP pun ambil pandangan yang berbeza kan.
+[18:43] Farhan: Dengan Hamzah.
 
-[1:15:15] lebih-lebih lagi kepada yang bebas-bebas yang kecil ni. Dalam UMNO pun tidak semuanya menyokong 100% dalam BN kan. Kemudian kita ada pula yang Sabah. Contohnya Jeffrey Kitingan yang bebas dan sebagainya kan. Jadi untuk undi biasa tak ada masalah. Tapi untuk perkara-perkara yang melibatkan 2 per 3 pindaan perlembagaan itu akan jadi cabaran besar kepada Dato' Sri Anwar Ibrahim lah. Dan itu jadi tamparan kerana di awal tahun 2026...
 
-[1:15:53] He himself announced that the year 2026 will be the year of reformation. So if he can't move the institution and the easiest thing like the PM's time is also failed, whether it's because of his own failure or because he took it easy, I think he took it easy.
 
-[1:16:15] Saya rasa dia sangat yakin yang bahawa dia dalam kawalan, semua dalam kawalan dia. Semua orang suka kat dia.
+[18:44] Nazri: Parti Keluarga Malaysia.
 
-[1:16:24] Dan Yalah ada beberapa komen yang selalu disebut Orang mungkin marah dan tak percaya Dato' Sri Anwar
 
-[1:16:32] Sebab dia jadi menteri daripada umur yang muda, 34-35 tahun.
 
-[1:16:38] His planning is usually not that detailed. Because he depends on his right people to do the work, to do everything. He knows that it's going to work. That's his style. He knows that it's going to work. So I think he took it easy because he thought that all of this had been done by Dato' Sri Fazilah or by Zalihah. If I were him,
+[18:46] Rafizi Ramli: Yang itu nanti kita jawab kan ada Hidup Keras hujung sekali. Jangan jump the gun.
 
-[1:17:02] terutamanya selepas gagal mendapat dua undi itu kan saya kena semak balik bahawa saya tak boleh ambil mudah seorang pun kalau prestasi beliau sebagai Perdana Menteri bergantung kepada reformasi institusi dan banyak reformasi institusi memerlukan pindaan dua per tiga parlimen maka sebenarnya dia nak kena jaga setiap seorang kerana dua tiga orang saja bolas dia terbabas Dan kalau beliau masih mengasihkan beliau ada kawalan dan itu sesuatu yang sepatutnya punah sihat-punah sihat di sekeliling dia tu, kena betul-betul fikirlah. Tapi sekarang tak apalah, dia ada penasihat terhebat, penasihat kanan politik, penasihat kanan politik. Tengku Zafrul yang paling hebat ironinya kerana dia tak pernah menang pilihan raya. itu bila tak pernah menang pilihan raya kan. Kita tunggulah weh. Kita tunggu. Okey weh B. Kita tunggulah bulan enam nanti apa akan jadi kalau ada lagi parlimen. Kita akan ulas juga itu nanti. Tapi kita mempersilahkanlah tetamu tetap kita yang dah lama menunggu. Okey.
 
-[1:18:23] This time, Tan Sri Azam Baki with Dato' Sri Anwar Ibrahim. Why is his eyes not red this time? This is a long picture. Oh, a long picture. Good, Pak Han. He takes care of his sensitivity. Before the stock story came out. After the stock story came out, he didn't sleep much.
 
-[1:18:43] Soalan itu terang lagi bersuluh lah Tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki Tapi bila kita tengok apa yang berkembangan mutahir ini Macam-macam cerita keluar Ada dakwaan daripada PM Ada konspirasi untuk menjatuhkan kerajaan Libatkan Zionis Kemudian Tuan Naimah Mereka kata YB backup pula kan. Tak apa, jakap je lah. Dikatakan nak menjatuhkan kerajaan. So dia jadi semakin lama, semakin first deja vu lah kita pernah dengar benda ni. Dan dia jadi macam merepek sebab eh semua kena kecuali tetamu kita tu. Kecuali Azam Baki. Kenapa? Orang selalu cakap kan, dia ingat dia je betul. Kalau orang komplain kat aku, Cik Plor cakap kan. Dia ingat dia je betul. Dia ingat dia je betul kan. Dia tak menggunakan penakulan mantik. penakulan mantik. Mantik? Itu dulu masa tahun 90-an ada satu chapter dalam Max kan nama dia penakulan mantik. Aku pun tak faham. Basically inference. Inference. Siapalah yang pergi terjemahkan jadi penakulan mantik tu kan. So if you infer you know orang yang selalu serang aku kata dia ni bukan team player dia ingat dia je pandai Dengar dia je yang betul kan. You infer the same thing kepada semua yang berlaku dalam kerajaan sekarang. Maknanya, semua orang lain salah. Semua ada masalah. Yang betul hanyalah Azam Baki. Bye
+[18:53] Nazri: Okey baik, mungkin kita ada satu lagi YB?
 
-[1:20:30] Saya ulas pasal rentitan beberapa perkara yang berlaku. Kalau kita ingat berita mengenai...
 
-[1:20:44] Tuan Puan Naimah dan keluarga arwah Tuan Daim ni cuba jatuhkan kerajaan ini dia keluar pada pagi Jumaat
 
-[1:20:56] tepas ya betul yang kita podcast telefon berdering-dering semua orang semua orang kejar aku wartawan-wartawan ingat akulah yang dalang yang cuba menjatuhkan kerajaan jahat betul dia orang ni kan aku hanyalah dalang kepada kucing-kucing ingat Jumaat apa signifikan Jumaat yang lepas
+[18:55] Rafizi Ramli: Ha.
 
-[1:21:19] Pada waktu pagi itu, apa signifikannya?
 
-[1:21:24] Jumat lepas Ya
 
-[1:21:25] Dikatakan apa?
+[18:56] Nazri: Kejut sahur ganggu ketenteraman awam.
 
-[1:21:28] Belum berit
 
-[1:21:29] Apa signifikan Jumat pagi Kalau tengok kepada Tuduhan yang dibuat
 
-[1:21:39] to Tupan Naimah, the timeline. That's a long time ago, right? That was in the year 2025, right? I think it was July 2025, right? It was about a year ago. Why did the police report suddenly, the investigation suddenly, suddenly there was a PC by the National Police Chief, on Friday morning, in the morning, why?
+[19:00] Rafizi Ramli: Nasib baik kau tak lalu depan rumah aku kan.
 
-[1:22:05] Macam Tiada apa-apa yang berlaku
 
-[1:22:08] There's no coincidence in Malaysia. There's no coincidence in Malaysia. I didn't notice. There's a blind spot. There's a blind spot, guys. We're focused on the podcast. But you guys, not every week, you're being a political analyst. You should have seen it.
 
-[1:22:34] Pagi Jumaat yang lepas ialah Kabinet. Okey. Masa Parlimen bersidang, Kabinet ialah Pagi Jumaat. Betul. Dan Kabinet Pagi Jumaat yang lepas adalah Kabinet yang sangat runcing kepada Dato' Sri Anwar Ibrahim. Sebab apa?
+[19:03] Nazri: Apa YB akan buat?
 
-[1:22:51] DAP? Haa, sebab DAP, kenapa?
 
-[1:22:54] DAP wants to ask to do RCI? We don't know if it's already there or not. So DAP has hit the nail on the head. That we will bring it to the Cabinet on Friday. We will bring it to the Cabinet on Friday. So he has built the hope that Anwar Ibrahim, if DAP knocks on the table, what is his choice? He has to agree.
 
-[1:23:22] Dalam bahasa Melayu, masa korang belajar SPM semula dulu, ada tak perkataan sekonyong-konyong?
+[19:04] Rafizi Ramli: Aku akan lepaskan semua kucing-kucing aku tu kejar. Aku ada 20 ekor kucing. Ini ini bukan budaya kita kan?
 
-[1:23:29] Kisah koyong-koyong. Kisah koyong-koyong, kan?
 
-[1:23:32] Tak ada. Google ada ke tidak bahasa sekonyong-konyong? S-E-K-O-N-Y-O-N-G.
 
-[1:23:38] Itu selalu dengar dari Dato' Syed Anwar lah. Yakah? Mana ada. Konyong-konyong. Tiba-tiba. Sebab masa aku sekolah dulu kan, aku selalu tak puas hati sebab ada orang yang tulis, dia mesti nak guna sekonyong-konyong kemudian. Yang maksudnya ialah tiba-tiba. Guna je lah, tiba-tiba orang faham. Sebab sebut sekonyong-konyong orang tak faham kan. So kembali kepada cerita kabinet ni kan. telah memutuskan RCI untuk siasat Azam Baki.
+[19:13] Nazri: Hmm.
 
-[1:24:13] Sepatutnya lah DAP dah bawa DAP dah berkeras DAP akan ketuk meja Kan
 
-[1:24:21] Tiba-tiba pagi-pagi sebelum kabinet lah. Kalau tengok kenyataan tu laporan polis tu keluar dalam pukul 8 lebih kan. 8 lebih. Sebelum kabinet ada kenyataan media daripada IGP bahawa kerajaan sedang menyiasat seorang tokoh yang ternama yang bekerjasama dengan media antarabangsa untuk menjatuhkan kerajaan kan.
 
-[1:24:47] Kita tak ada kat situ lah.
+[19:14] Rafizi Ramli: Ni kat mana ni? Kat Puchong?
 
-[1:24:49] Tapi aku ni dah lama dalam politik. Dan aku dah melalui daripada zaman 98 lah. Kemudian daripada zaman Najib lah. Kan semua ni kan.
 
-[1:25:03] So, aku pun dah ada dalam kabinet. So, aku dah boleh bayangkan apa yang boleh berlaku masa itu. Okay. Maksudnya kalau kabinet itu bermula pukul 9 pagi kan, kenyataan IGP tiba-tiba keluar pukul 8 lebih kan. Jadi PM...
 
-[1:25:19] Melangkai binai itu
+[19:15] Nazri: Balakong ada, Tawau ada.
 
-[1:25:21] Soal RCI semua ni tak penting lah
 
-[1:25:23] We are under attack. There is a conspiracy to overthrow the government. Conspiracy. So, the DAP is in the head. If the DAP wants to overthrow the government, this is the sovereignty of the country. We are under attack. We can discuss that later. So, that's why I think the DAP, until now, has not heard the story about the CIA. Where do we have updates from the DAP? Actually, what was decided
 
-[1:25:53] Di pengkat Di pengkat kabinet kan Jawapan yang Fahmi Fadil bagi Hanyalah
+[19:17] Rafizi Ramli: Ya?
 
-[1:26:00] Let the investigation go first. After the investigation by the state judge, then we can think about whether there is an RCI or not. By time. And we've seen it. And I think Dato' Sri Anwar, those who were involved, all of them, right? They must be heartbroken now. Look, I'm great.
 
-[1:26:21] Aku boleh deflate tekanan DAP tu dengan buat bogeyman baru. Naimah and the gang kan. Dan tiba-tiba ada cerita baru. Itu yang saya buat content pasal James Chai dan James Bond tu. Sebab...
 
-[1:26:42] Saya selalu komen lah yang industri perfileman dan konten Malaysia ni kalau kita nak pergi jauh macam Korea ke, macam Bollywood ke
+[19:17] Nazri: Haah.
 
-[1:26:56] like Scandinavia, we need to focus. Actually, it's not just on cinematography or actors. We need to focus on script writing, screenwriting. We need to focus on the originality of the idea. Because from a short story, we can produce
 
-[1:27:20] cerita yang gempak ambil pelakon yang hebat macam mana pun tapi jalan cerita je teruk tak menjadi juga kan hmm
 
-[1:27:26] Sekarang saya boleh umumkan bahawa saya tarik balik. Tarik balik yang Malaysia ini tidak ada bakat-bakat menulis skrip writing yang bagus. Kerana kalau tengok skrip writing yang ada dari Putrajaya ni, mereka mendabit dada hebat. Dengan ancaman DAP itu, kami berjaya deflate dengan ada cerita baru pasal dakwaan untuk cuba jatuhkan kerajaan. Kemudian, minggu depan, hari Isnin kan? Datuk Seri Anwar pergi ke Parlimen membuat penjelasan tentang konspirasi Yahudi untuk menjatuhkan kerajaan. Dan ceplos-ceplos pun ramai-ramai lambunglah. Bloomberg ini, Michael Bloomberg, Yahudi semua ini. Dan gambaran yang diberikan oleh Datuk Seri Anwar Ibrahim ialah
+[19:18] Rafizi Ramli: Polis tak tangkap ke dia orang ni?
 
-[1:28:21] Actually, being in his condition is dangerous because he is loud, speaking against Israel. So there is indeed an attempt from a group of Zionist faces who are not happy with his loudness. Kutmana also turned to him. So that is the script that is being built now.
 
-[1:28:47] Agaknya lah rakyat biasa apa pandangan mereka.
 
-[1:28:52] Macam dah dengar?
+[19:20] Nazri: Polis pun tak tahulah ini benda yang baik ke tidak kut.
 
-[1:28:53] Yelah apa dia Oh macam pernah dengar Ha betul Tapi yang macam pernah dengar tu Sebelum kita sampai kat macam pernah dengar tu Itu hanyalah untuk orang tua macam aku Kau tak hidup zaman itu Tak hidup lagi Tapi sebelum sampai Cerita macam pernah dengar semua tu
 
-[1:29:07] Kalau lah rakyat biasa yang hidup seharian semua ni... Dia ambil tahu sedikit sebanyak...
 
-[1:29:14] Besar kepercayaan dia kata, eh, inilah ke mana dia pergi cerita ni kan? Ceritanya mudah je. Orang tanya pasal azam baki. Hmm.
+[19:24] Rafizi Ramli: Kut mananya kata benda ni baik?
 
-[1:29:24] Yang itu yang hasil daripada soalan...
 
-[1:29:29] mengenai dakwaan-dakwaan terhadap Tan Sri Azam Baki yang belum terjawab sehingga sekarang, itu yang kerajaan terus melatah dah dua bulan kan? Terus melatah, tak habis-habis. Daripada soal kepemilikan saham,
 
-[1:29:46] Then the corporate mafia issue, after one by one, then the retaliation attack from Tan Sri Azam Baki with his own drones. Now we're talking about drones because Iran attacked back with drones. They sent armed drones and also Intramas drones. So the retaliation attack has been going on for two months. So Gayat will think, if we trace back all of this,
+[19:26] Nazri: Yalah dia kejut orang sahur.
 
-[1:30:14] Punca dia satu je. Orang tanya pasal azam baki. Bukankah kalau jawab dan kalau selesaikan isu azam baki itu, semua ni tak wujud ni. Ini semua ni, semua hasil daripada...
 
-[1:30:30] kegagalan kerajaan untuk mengambil tindakan yang telus yang boleh bagi jawapan kepada soalan-soalan terhadap Tan Sri Azam Baki. Jadi akhirnya...
 
-[1:30:42] Itu yang orang akan kembali kepada...
+[19:28] Farhan: Okey.
 
-[1:30:47] Kesimpulan lah... Bagi yang tua...
 
-[1:30:50] yang pernah hidup zaman 98 kan terutamanya gen X ke atas lah kita akan kata dia jauh lah ni macam dah pernah dengar semua ni kan
 
-[1:31:03] Dulu zaman Anwar Ibrahim Distraction Distraction-nya ialah Pasal Liwat, pasal Tilam, semualah kan
+[19:30] Rafizi Ramli: Dia sedangkan contohnya kan, sedangkan waktu subuh kan, selalunya orang pasang tarhim ataupun apa nama kadang-kadang ada kuliah kan. Sedangkan peraturan Jabatan Agama Islam sendiri pun di negeri-negerilah bahawa dia mestilah tidak mengganggu ketenteraman orang lain kan. Apa nama ni, azan subuh, azan tu dia kena merdu, dia kena sayup-sayup. Dia bukannya azan tu dekat telinga kita bunyi bising apa kan. Dan mana nas yang mengatakan perkara ini perkara yang perlu dibuat ataupun sunnah? Ada ke?
 
-[1:31:17] Kemudian... Bagi mereka yang... Kalaupun tak tua sangat lah... Mungkin... Millennials pun kan... Dan pernah hidup zaman-zaman... 2000... 2015... Semua kan...
 
-[1:31:31] Eh, konspirasi Zionis menjatuhkan negara ni, kerajaan ni, ini ialah skrip yang dikitar-kitar dari satu zaman ke satu zaman. Cuma, siapa yang menjadi boneka Zionis itu yang bertukar-tukar? Yang lawaknya ialah...
 
-[1:31:53] Walaupun nampak macam Tuh Puan Naimah ini...
+[20:19] Nazri: Tak ada.
 
-[1:31:57] Adalah musuh besar Kepada Dato' Sri Anwar Mereka sebenarnya ada persamaan Yang sangat besar Apa dia?
 
-[1:32:09] See Korang kena pergi kelas maths Orang yang belajar matematik Selalunya Diajar dan dilatih Untuk spot a pattern
 
-[1:32:20] Apa sebenarnya pattern yang sebenarnya Naimah dengan Anwar Ibrahim ini lebih rapat malah mereka tergolong dalam kumpulan yang sama.
+[20:20] Rafizi Ramli: Sepatutnya...
 
-[1:32:34] lakukan
 
-[1:32:36] Saya takut nak cakap nanti tu juga kena saman pula Apa dia?
 
-[1:32:40] Dua-dua pernah terlibat dalam a same conspiracy Haa itulah Yang orang tak sedar ialah Kalau kita fikir Bukan orang tak sedar lah Orang sedar yang penulis skrip sekarang ni lah tak sedar kan Hmm
+[20:21] Nazri: Saya bersama Farhan ada ke?
 
-[1:32:54] Selama 30 tahun lebih ni, rakyat Malaysia ni sentiasa dihidangkan dengan konspirasi Zionis ni. Dari satu masa ke semasa, ada saja konspirasi Zionis. Zionis ni cukup minat dengan Malaysia ni kan. Ada je yang dia nak campur tangan kan.
 
-[1:33:13] Dan daripada satu masa ke satu masa, ada je watak yang menjadi boneka kepada Zionis.
 
-[1:33:19] Bukan Watak yang pertamanya Anwar Ibrahim lah Hahaha
+[20:23] Rafizi Ramli: Ha. Aku engkau seorang aje sekolah agama dulu. Ha so?
 
-[1:33:26] Anwar Ibrahim in the 98s and 2000s was one of the reasons, other than the accusation against him, one of the reasons that shocked the people of Amno and Melayu, why Anwar Ibrahim cannot be trusted, is because Anwar Ibrahim is a Zionist doll.
 
-[1:33:49] Look at his friends, all of them are Jews. Setiausaha Perbendaraan US, Rubin. Then Timbalan Setiausaha Pertahanan US, Paul Wolffowitz. All of them are Jews. Not Rubin, Dan Cohen, William Cohen, Bill Cohen, all of them are his friends.
 
-[1:34:13] So it's been planted for a long time.He's a Jew, a Jew, a Jew, a Jew, a Jew. IMF, Anwar likes IMF, Jew. Anwar wants to bring the World Bank formula to Malaysia, Jew. Yaudi, Yaudi, Yaudian.
+[20:27] Nazri: Tak ada.
 
-[1:34:30] Tiba-tiba sekarang ini seorang lagi co-conspirator yang dituduh menjadi boneka Zionis ialah Naimah. Jadi Naimah dan Anwar ni kalau ikut skrip-skrip ini ialah di dalam kumpulan yang sama.
 
-[1:34:46] Maksudnya, rakyat semua tahu bahawa
 
-[1:34:52] Ini semua ni karut lah. Kemudian bila dia semakin mengarut, maka kerajaan kena bagi...
+[20:28] Rafizi Ramli: Tak ada. Walaupun datang daripada engkau kita kurang percayai. Kena apa macam kita semak baliklah kan. Tak, bukankah waktu malam dalam bulan Ramadan ini yang afdalnya ialah kita qiamullail? Qiamullail tu kalau secara jemaah kita buat di rumah kita ataupun di surau. Dan qiamullail tu diam, tenang, aman sebab dia tak mengganggu orang lain kan. Nama pun qiam, bangun masa tidur selepas masa orang lain tidur kan. Dan waktu malam nilah waktu beribadah kan, orang sembahyang semua kan. Ini ni, ni bukan soal ibadah ni. Ini soal bergembira ni. Ini soal yang patutnya kamu tidur, yang patutnya kamu produktif pagi esok untuk kerja, yang patutnya kamu beribadah, engkau pergi beriang-ria dan mengacau orang lain. Sepatutnya jiran-jiran ni buat laporan polis. Supaya polis boleh pergi tangkap siapa-siapa yang pandai-pandai buat ni kan. So hilang undi pun hilang undilah, tapi ini bukan budaya kita dan saya memang selalunya trigger sikitlah kalau contohnya orang suka menunggang agama untuk benda-benda yang sebenarnya kepentingan peribadi dia. Sebenarnya mereka ni hanyalah untuk beriang-ria bergembira, tapi dia menunggang agama dan mengatakan, "Ah ini satu perkara kebaikan kerana kita nak kejut orang sahur." Mana ada macam tulah. Kamu nak berkeliaran malam-malam, buat bising, jalan itu macam kamu punya jalan mengganggu orang, itu kamu punya hal lah kalau kena tangkap kena tangkaplah. Tak payahlah nak tambah-tambah kononnya di dalam Islam perkara ini memang ada. Sebab setahu akulah, aku hidup dah lamalah, dah masuk 50 tahun ni kan, tak pernahlah ada benda ni. Ni budaya mana ni? Terkejut kau? Kau ingat aku tak boleh jadi ustaz ke?
 
-[1:35:04] Buktilah kononnya kan, bukti kenapa Naimah ini dituduh cuba menjatuhkan kerajaan. Buktinya ialah kerana keluarga arwah Tundaim ini melantik satu firma perhubungan awam untuk ada kempen. Komsplan? Tundaim dan juga
 
-[1:35:37] Keluarga beliau lah kan
 
-[1:35:39] So this shows how all of this is done in a planned way. And the proof that Tuh Puan Naimah is a Jewish doll is because the head of the public relations firm is a Jew. This is what Chaplos is talking about.
+[22:41] Nazri: Insaf saya.
 
-[1:36:00] Yalah Bila aku baca tak kata Ya Allahu Akbar
 
-[1:36:08] Tak ada orang nasihat Anwar ke? Ini sebelum cerita Siva Rasa keluar tau. Bila aku baca awal-awal tu aku cakap, Ya Allah Akbar, tak ada orang nasihat Anwar ke?
 
-[1:36:20] My first involvement in PKR, in Anwar Ibrahim, is to be a representative of the free Anwar campaign in the UK and Europe. We have Myself in the UK, we have the late King Petra in Malaysia, and we have Dr Rahim Gaus in Australia.
+[22:44] Rafizi Ramli: Ha tengok memang betul kan, disturbing neighbours is haram. Aku tak adalah sampai cakap haram kerana aku tak adalah sampai boleh mengeluarkan hukum kan. Tapi kita yang waras semua tahu ini semua ini semua untuk dia orang main malam-malam, tu saja. Jadi kalau polis pergi kacau, dia akan kata, "Oh tak, kami sebenarnya buat perkara yang baik." Ha itu sajalah. Jadi saya nasihatkan polis-polis, abang polis semua kalau jumpa tolong suraikan mereka, suruh dia orang balik qiamullail kat rumah.
 
-[1:36:43] Apa fungsi free anuan kempen ni?
 
-[1:36:47] Untuk yakinkan lobby. Untuk melobi pembebasan Anwar Ibrahim lah. Jadi macam mana kami melobi pembebasan Anwar Ibrahim? Apa kerja-kerja yang kami buat lah? Sumbangan kami masa itu. Jumpa media-media dekat situ. Jumpa ahli parlimen. Tiap-tiap bulan saya akan hantar brief. Memberi maklum balas perkembangan di Malaysia. Terutamanya yang bersabit dengan Datuk Seri Anwar Ibrahim. Daripada perspektif. kepada kedutaan-kedutaan, kepada Suruhanjaya Eropah. Saya menulis kepada Chris Patten masa itu, Pesuruhanjaya Eropah. Jadi,
 
-[1:37:28] Memang kerja kami ialah...
+[23:17] Nazri: Okey baik YB, itu setakat ini kita punya Ber-ia. YB nak rate?
 
-[1:37:30] to plan a strategic communication plan for Anwar Ibrahim. In addition, King Petra has managed the free Anwar campaign website. And I am the second webmaster. I am also the writer for the free Anwar campaign. Actually, we are only three or four people. Making a fuss all over the world about free Anwar, right? Just to answer Dato' Sri Anwar Ibrahim,
 
-[1:37:58] Tolonglah sampaikan kat dia
 
-[1:38:00] Ambil sekejap.
+[23:23] Rafizi Ramli: Hmm. Cuba tengok balik. Ni, kanak-kanak, kanak-kanak. Bergaya sewa. Saya kena bagi anugerah kali ini kepada pengerusi PN yang baru.
 
-[1:38:02] Berhenti dan berhenti
 
-[1:38:05] bahawa kalau tidak kerana orang-orang yang dulu buat kerja macam itu, cerita dia dalam penjara ini lama, dia orang lupa sebenarnya. Jadi kalau kerja-kerja itu dikatakan cuba menjatuhkan kerajaan, jadi kami semua ini sama dalam kotak yang sama. Semua dulu mengkhianat kerajaan. Sedangkan pada ketika itu,
 
-[1:38:31] Semua itu adalah perkara yang baik Yang disokong Dia pernah tulis surat kat aku Di UK Diseludupkan You know Berterima kasih Atas apa nama ni Peranan dan sumbangan Free annual campaign Di UK Semua ni maksudnya
+[23:37] Nazri: Tahniah Dr Sam. Dua kali dua kali berturut-turut selepas dilantik.
 
-[1:38:49] Basically, lobbying for him. So, then in 2016, there was a discussion between Nurul Is... I don't know who the email was from, but it was probably Siva Rasa. Because Siva Rasa was the one who explained it. But it was the same thing.
 
-[1:39:11] Untuk Izzah dan juga keluarga Dato' Sri Anwar Ibrahim, mereka berhubung dan berbincang dengan satu firma pelobi di Washington untuk melobi supaya tekanan dibuat terhadap kerajaan Malaysia untuk membebaskan Dato' Sri Anwar Ibrahim.
 
-[1:39:31] Jadi lebih banyak
+[23:41] Rafizi Ramli: Oh ya ke?
 
-[1:39:34] Cerita baru, cabang-cabang cerita daripada cubaan jatuhkan kerajaan.
 
-[1:39:42] kepada Zionis, kepada pengkhianatan kerana guna lobby semua. Lebih banyak cabang cerita dibuka.
 
-[1:39:53] lebih banyak menunjukkan inconsistensi Dato' Sri Anwar Ibrahim.
+[23:42] Nazri: Ya, seminggu lepas tu. Last week pun dia juga? GDP kan.
 
-[1:39:58] Lebih banyak menunjukkan, kalau aku buat tak apa. Kalau orang lain, tak boleh. Kalau aku buat, ini demi perjuang kebenaran. Kalau orang lain buat, kianat. Dan yang saya paling kecewa lah kan,
 
-[1:40:12] Kenapa kita perlu menggunakan kaedah dan jalan yang sama yang berlaku semasa zaman UMNO dulu? Eh kalau macam nak buat macam ni tak payahlah kita reformasi 30 tahun.
 
-[1:40:25] Saya kalau contohnya pandangan saya mengenai Tuan Puan Naimah, dia dan keluarga beliau nak buat satu kempen komunikasi strategik antarabangsa. Itu hak dia lah. Dah keluarga dia kamu lanyak tiap-tiap hari.
+[23:44] Rafizi Ramli: Oh GDP. Okey okey okey, minta maaf. GDP tak penting. Cuba cuba lagi kalau berterusan begini boleh merangkul anugerah tahun ini daripada Fuziah Salleh. Baik.
 
-[1:40:41] People have died and so on. It's not over yet because of the riots. And until now, the accusation is not justified, there is no compensation, the money has not been found yet. If he doesn't want to sit there, sit there quietly, if we become us, we will fight back. And that's what Anwar, Ibrahim, Nurul Izzah, Wan Azizah's family did. He fought back.
 
-[1:41:07] Dan kami semua bantu dia lawan balik. Kerana kami rasa dia teraneh. Contohnya kan. Jadi...
 
-[1:41:12] Kenapalah kita kena kembali kepada skrip-skrip yang zaman UMNO itu sebab itu akhirnya rakyat bila pusing-pusing-pusing-pusing ini dia akan kembali kepada satu kesimpulan akhir. Apa ada dengan Azam Baki? Itu lebih ada jawapan tak?
+[23:57] Nazri: Kita sebelum ke topik utama Hidup Keras YB, mungkin kita promo Ayuh Malaysia sikit?
 
-[1:41:32] Kita faham-faham lah kot. Saya pernah sebut-sebut kan. Jadi saya bagi clue sahaja. Saya bagi clue sahaja. Clue eh. Hmm.
 
-[1:41:40] Maybe in the next week's podcast. Okay. Next week's podcast, we'll answer that. Clues, what about Azam Baki, that Anwar Ibrahim seems to be very afraid of, so that all his political steps since the last two months, have not been successful. Maybe we'll answer that.
 
-[1:42:05] Kita letakkan teori-teori dan hipotesis-hipotesis minggu depan. Saya nak tanya, macam...
+[24:03] Rafizi Ramli: Ini ini untuk kita ingatkanlah kan. Saya akan buat penerangan sedikit lagilah mungkin esok ke apa. Tapi hari Ahad ini, Ahad ini jam 9:00 eh? Kita mulakan jam 9:00?
 
-[1:42:14] Tuan Puan Naimah, dia punya decision untuk
 
-[1:42:17] Employ satu firma Untuk tolong dia Family dia semua tu Adakah itu salah Persis Tak salah
 
-[1:42:26] Kalau contohnya...
+[24:17] Farhan: 10:00.
 
-[1:42:28] He said something, it's the same. Because I was doing that job for Anwar Ibrahim. You know, I was an engineer, then my first job as an auditor and accountant. I didn't know anything about accounting. Where to do my work, where to study, I had to write back at night for all the facts. Back then, I wanted to send facts. Every night, I would send facts to the embassy.
 
-[1:42:56] Pandangan saya...
 
-[1:42:58] Masa saya buat itu dan sekarang ini sama. Iaitu kalau yang kita bentangkan itu adalah fakta.
+[24:18] Rafizi Ramli: 10:00 eh, jam 10:00 kita akan lancarkan satu lagi inisiatif baru oleh Ayuh Malaysia yang jarang adalah yang kita cuba nak membantu dari segi pemilikan laptop atau gajet terutamanya kepada keluarga yang miskin. Laptop sekarang ni keperluan terutamanya kalau yang dah masuk universiti ke atau melepasi sekolah, malah budak-budak sekolah pun kena ada laptop sekarang ni kan. Dan laptop harga kalau yang yang spek paling rendah pun paling kurang berapa sekarang? RM3,000? RM3,000 kan. Kebelakangan ni sebab harga apa nama ni RAM, even apa nama ni storage pun dah dah naik tinggi kan, naik sekali ganda kan. Jadi paling kurang RM3,000. Kalau pakai Apple apa ni MacBook Air paling murah pun berapa sekarang? RM5,000-RM6,000. RM5,000 lebih kan. Jadi mahal. Bagi orang biasa mungkin benda tu bukan hallah kan, tapi bagi masih banyak lagi dekat keluarga dekat Malaysia yang ada halangan kewangan untuk ada akses kepada laptop dan peranti elektronik yang diperlukan untuk pembelajaranlah. Jadi kita tak ada duit, sebab itu melalui Ayuh Malaysia kita bangunkan program-program dengan kerjasama kumpulan yang nak membantu kan. Jadi kita bernasib baik kerana ada dua kumpulan yang nak membantulah. Satu, memang mereka bisnes dan juga kepakaran mereka ialah membaiki laptop-laptop. Tapi tapi kita tak nak semata-mata gunakan duit, minta duit daripada orang ramai kemudian bagi untuk dia orang untuk baiki laptop. Kerana benda tu nampak macam tak sustainable dan kesannya itu tidak meluas kan. Jadi kita bangunkan Pinjam Gadget, konsepnya begini. Dia ada tiga komponen, tiga-tiga komponen ini ada kebaikan sosial masing-masing eh. Yang kita perlukan ialah komponen pertama itu ialah untuk orang ramai yang ada laptop ataupun handphone, gajet yang dah tak terpakai, daripada tak dibuang ataupun daripada kalau tak hati-hati kalau mereka jual second hand kalau yang membeli itu dia tak padam semua dan rekod peribadi, maklumat bank semua tu kalau orang yang membeli tu pandai dia boleh dapatkan balik. Jadi tak selamat. Jadi kita tak ada kaedah tau macam mana how to safely and securely dispose of gajet kan. Jadi yang pertama kita minta dan melalui Pinjam Gadget orang ramai boleh menderma laptop, telefon yang tidak digunakan ataupun yang telah rosak untuk dibaiki tapi tak berbaloi untuk dibaiki jadi dia tersadai kat rumah kan. Ataupun dia nak upgrade tapi dia tak tahu nak buat macam mana dengan laptop sedia ada. Terutamanya kepada syarikat-syarikatlah. Jadi dermakan kepada Ayuh Malaysia, itu komponen pertama. Kebaikannya ialah dia memberi ruang untuk individu dan syarikat membantu masyarakat dan membantu dia dengan bagi cara how to dispose and recycle your gadget reliably, safely and securely. Komponen kedua ialah selepas dia dah dispose itu, kita sebenarnya ada program untuk melatih sesiapa yang nak belajar baiki gajet, baiki laptop. Kan jadi kita ada kelas-kelas dan pada hari Ahad ini pelancarannya ialah dengan 20 orang pelajar pertamalah. Jadi mereka akan dilatih, latihan itu termasuklah bermula dengan memadamkan semua mengikut peraturan supaya tidak ada apa-apa maklumat, basically orang kata hard reset lah semua tu kan. Kemudian daripada pelajar-pelajar yang dilatih mengikut kumpulan ini akan ada yang boleh buat part-time untuk membaiki gajet. Terutamanya yang baiknya kalau contohnya ada budak-budak universiti yang kami boleh latih ataupun budak-budak lepasan sekolah kan. Kerana dia akan mewujudkan kitaran, bila kami terus dapat derma laptop dan juga gajet daripada orang ramai, laptop ini perlu dibaiki. Kan jadi mereka ini yang telah dilatih, mereka yang akan membaiki dan mereka akan dibayar. Ha dibayar. Mereka akan dibayar. Daripada kita hantar kat kedai ke apa, kita ada budak-budak ni yang kita latih ataupun mungkin pesara. Dia jadi side income untuk dia kan. So mereka akan dibayarlah kan. So dia boleh buat side income di situlah. Jadi komponen kedua itu ialah mewujudkan satu kumpulan yang kami latih, yang ada kemahiran dan bagi mereka yang berkelapangan dan ada kemahiran itu mereka juga boleh mendapat pendapatan tambahan dengan membaiki laptop-laptop dan juga gajet-gajet inilah. Kemudian sama ada dia nak buat buat bisnes sendiri, dia nak buka kedai tu terpulang kat dialah, tapi tanpa buka kedai pun kami yakin sebenarnya kita akan ada cukup gajet setiap bulan untuk mereka baiki untuk mereka dapatlah mungkin RM500-RM600, RM1,000 sebulan bergantung kepada berapa banyak laptop mereka baikilah. Kemudian komponen ketiga ialah bahagian Pinjam Gadget tadi. Jadi mereka yang nakkan gajet tapi tak ada wang, jadi mereka Pinjam Gadget ni macam pusat pinjam virtuallah. Okey. Jadi contohnya saya pelajar, saya nak masuk kolej, saya tak ada laptop kan. Dan mak tak boleh nak keluarkan beli RM2,000-RM3,000 sekaligus. Jadi Pinjam Gadget membenarkan menawarkan pinjam laptop untuk setiap 6 bulan pada sewa RM10 sebulan saja. RM10 sebulan, RM10 sebulan, RM10 sebulan. Jadi dia mungkin satu hari nanti lepas 6 bulan, setahun, dia dah dapat pinjaman ke, dia dah dapat bantuan, dia dah boleh beli laptop yang barulah. Jadi bila dia dah habis nak pakai tu, dia boleh pulangkan baliklah. Dan laptop itu akan dipinjamkan kepada orang lainlah. Kan jadi kita juga akan lancarkan portal itu kerana semua ini akan dibuat secara virtual eh. Jadi orang yang menderma laptop tu, dia boleh tengok terus tahu laptop dia dekat mana, sedang dibaiki dan bila dibaiki dipinjamkan kepada siapa. Supaya orang tahu bukannya bagi kepada Ayuh Malaysia lepas tu Ayuh Malaysia bagi berkulat ke ataupun Ayuh Malaysia pergi jual buat duit sendiri ke. Penderma itu akan tahu sebenarnya siapa yang menggunakan laptop dia. Likewise, kepada peminjam mereka boleh buka akaun, boleh meminjam dan mereka boleh tengoklah apa nama ni bayaran bulanan RM10 sebulan dan bila dia nak kena kembalikan dan sebagainyalah. Jadi itu akan kita lancarkan pada hari Ahad ini. Dan saya ucap terima kasih kepada YB Lee Chean Chung dan kawan-kawan dialah. Kerana inisiatif ini kita beri tugasan kepada YB Lee Chean Chung dan dia telah berjaya secara senyap-senyap dalam tempoh 4-5 bulan yang lepas membangunkan keseluruhan program ini. Dan saya haraplah bagi mereka yang berkelapangan, hari Ahad ini pukul 10:00 tapi bulan puasa tak ada makananlah kan. Dekat mana tempat tu? Nanti kita akan umumkanlah kan, kita akan umumkan tapi dia di PJ lah.
 
-[1:43:05] Dan benda tu tak salah
 
-[1:43:07] For example, the thing we are spreading is slander or violating state regulations. We have enough laws to put me in jail. Either from the court of law, which means slander, or they can use the Penal Code.
 
-[1:43:33] There are sections 501, 502, I think, all about crime, criminal defamation. Everything is there. In the past, there was even a warrant. You can sue me for a warrant. But it didn't happen because as long as we convey the information according to the facts,
+[32:56] Farhan: Persiaran Subang.
 
-[1:43:54] And it's not wrong in the law. And if we go back to the Bloomberg issue, this is all back to Bloomberg, right? And the narrative that is trying to be planted is that the Bloomberg claim is part of the conspiracy to overthrow the government. Meaning, if there is criticism of Azam Baki, it's the same as overthrowing the government. Azam Baki is great.
 
-[1:44:19] Because the criticism of the Mubarak was not only to Anwar Ibrahim, not only to the one in the Supreme Court, not only to the government, but also to Azam Baki. But it was seen as a way to overthrow the government. If you go back to the Mubarak's revelations,
 
-[1:44:38] Actually, for years, how many people in Malaysia read the Bloomberg? If you want to read the Bloomberg, you have to pay. I read the Bloomberg and I do pay the Bloomberg every month. Because the Bloomberg has all the information, what is it called, finance, everything, right? But ordinary people,
+[32:57] Rafizi Ramli: Persiaran Subang. Dia ada satu tempat yang kita baiki laptop ini, tempat yang akan jadi kelas itu dan dengan 20 orang yang pertama pukul 10:00 dan kita menawarkan 20 untuk tempat untuk kali yang pertama. Dan bagi mereka yang berminat boleh datang sendiri. Bagi mereka yang nak mendermakan laptop terus boleh datang terus supaya kita boleh log in dan kita boleh register laptop tu sendiri. Bagi mereka yang tidak berkelapangan untuk hadir tetapi nak mengikuti, termasuklah kita akan siarkan secara langsung step-step, langkah-langkah pertama macam mana nak baiki laptop. Jadi boleh menonton di laman sosial sayalah, baik di YouTube dan juga Facebooklah pada pukul 10:00 pagi hari Ahad ini pelancaran Pinjam Gadget. Dan bagi mereka yang dah nak mula faham macam mana apa maksud Pinjam Gadget semua ni, boleh tengok di pinjamgadget.ayuhmalaysia.org. URL dia pinjamgadget.ayuhmalaysia.org.
 
-[1:44:59] Where have people ever taken a pot about Bloomberg? People don't even read it. Only certain people, most likely, not up to 10,000 people every month who read Bloomberg in Malaysia. But why when the story of Bloomberg's revelation about Tan Sri Azam Baki came, it exploded? Why?
 
-[1:45:20] Dia... Sebab fakta-fakta itu memang susah untuk kita nafikan.
 
-[1:45:27] He has done research on that. He has published facts. He has shown Azam Baki's shares in this. This company has something to do with Victor Chin. This company was actually investigated because of the illegal money laundering. This company has something to do with Kongsi Gelap. It has been shown. And when people read it, they go to see it. Actually, it's true. And the proof cannot be broken by Azam Baki or the government.
+[34:05] Nazri: Okey baik. Jadi hari Ahad ni cuma ada start dengan kelas dan juga kepada sesiapa yang minat untuk dispose ataupun sumbangkan?
 
-[1:45:55] Only by saying that this is a conspiracy. So it's the same as 1MDB back then. In the early days, when it was 1MDB, people gave benefit of the doubt. I remember when I started talking about 1MDB back then, Tony Pua, how hard it was for people to care. People didn't understand. That's why I had to take a weird angle. I had to take an angle about SRC back then.
 
-[1:46:18] Kerana itu ialah menggunakan duit pensyen. Orang kita ni bila sebut duit pensyen baru, haa haa haa pensyen aku. Kalau sebut pasal YMDB orang tak peduli kan.
 
-[1:46:28] He started to get the traction after one after one after one, when people look at it, actually what he said, when you look at the facts, it's true, it's not denied. What he said, look at the facts, it's true, it's not denied. So that's what's happening now. So even if you want to say,
+[34:14] Rafizi Ramli: Beli belum lagilah, kita maksudnya pinjam itu belum lagi kerana kita dah ada pun dalam dekat 30 laptop yang kita akan mula baikilah. Jadi maksudnya 30 laptop pertama itu memang kita dah ada dan sesiapa yang berminat untuk meminjam itu, sebenarnya dah boleh pun daftar di pinjamgadget.ayuhmalaysia.org lah. Dan bila laptop tu ready, dia boleh pick up daripada Ayuh Malaysia kan. Dan saya berharap perkara ini secara berterusan dia mewujudkan ekosistem itu dan daripada 30 laptop pertama yang kita ada sekarang ni, saya harap kita boleh dapatkan sampai ratus, sampai beribu-ribu laptop selepas ini kerana setiap satu laptop yang kita dermakan itu dia akan bagi manfaat kepada seorang pelajar miskin. Dan banyak pelajar miskin itu tertumpu di Lembah Klang jugalah kerana mereka belajar di sini kan. Dan kalau dia dah sampai ke 10,000 laptop contohnya di dalam program ini, dia boleh digunakan oleh ramai anak-anak miskin di seluruh negaralah.
 
-[1:46:45] Pak An asked, this violates the law or something. Even though Tuan Puan Naimah paid for the great international communication firm to make a story, but the story was made up, it has no effect. Not only the government can take criminal action against Tuan Puan Naimah and his family, it has no effect on the people.
 
-[1:47:13] He only has the impression that when Bloomberg wrote it, it was true. So he returned to the real issue, which is the things that were raised need to be answered by Tan Sri Azam Baki. He has to answer this about corporate mafia. He has to answer how he has shares in Alung company.
 
-[1:47:36] Velocity Capital itu ialah syarikat peminjam wang berlesin yang kita di Malaysia tahu nama lain ialah sebenarnya ialah Alung lah.
+[35:24] Farhan: Tapi sebelum kita move on, mungkin YB boleh terangkan ada isu yang orang takut nak donate laptop mereka sebab isu data privacy semua tu. Adakah program Pinjam Gadget ni akan ambil langkah yang sepatutnya untuk ensure benda takde ditarik ke?
 
-[1:47:48] How is he in the company? How does he have shares in the company that have a connection and shares in MMAG where the biggest shareholder is Farhaj? As long as that thing is not answered, this thing will not go, it will not disappear. So whatever it is, it will return.
 
-[1:48:11] kepada kesimpulan mudah rakyat sebenarnya apa ada dengan Azam Baki yang Dato' Sri Anwar takut sangat. Kita akan, kita ada satu minggu untuk kita cuba tengok hipotesis-hipotesisnya. Kita kena berhati-hati. Kalau tidak, kita kena semetangkap. Tapi kita akan cuba kupas lah. Minggu depan. Kalau podcast ni ada lah. Kalau podcast ni masih lagi ada minggu depan lah. Saya baru perasan yang report polis yang dibuat Notis dikeluarkan sebagai Plot mengkhianat Adalah hari sebelum notis
 
-[1:48:49] Itu sebab kata, oh ini skripnya sehari sebelum jemaah menteri penting yang akan memutuskan mengenai RCI.
+[35:42] Rafizi Ramli: Sebab itu dalam dalam sebab itu kita juga merasakan bahawa cara ini sebenarnya lebih selamat tahu. Sebabnya ialah mereka yang akan membaiki laptop-laptop ini ialah mereka yang dilatih daripada scratch mengikut tatacara dan dan juga orang kata etika-etika yang betullah. Sebab perkara pertama yang dibuat sebelum boleh baiki ialah memadamkan semua mengikut standard antarabangsa. Yang yang itu nanti yang kita akan tunjukkan hari Ahad ini. Jadi supaya orang ramai pun boleh tahu juga, bila you hantar laptop untuk baiki tu berhati-hati tau. Sebab sebab tu saya eh, saya cakap terus-teranglah, saya kalau laptop rosak saya tak pernah hantar. Kalau rosak hancur macam tu sajalah. Sebab saya tak percaya. Dia macam-macam boleh tengok terutamanya maklumat sulit perbankan kita semualah. Jadi kita akan tunjukkan bagaimana kaedah dan etika yang betul langkah demi langkah dan langkah yang pertama ialah memadamkan bukan padam pakai Windows tu tahu, memadamkan 01010101 maksudnya keseluruhan hard drive itu memang tak ada makna. Kan dan daripada situ kemudianlah baru boleh kita baiki dan buat perkara-perkara lainlah kan. Jadi saya ingat kalau boleh kalau orang ramai ikuti, sebab itu kita ingat Pinjam Gadget ni mungkin satu program perusahaan sosial yang bagus juga kepada rakyat kerana bukan sahaja dia mewujudkan ekosistem yang begini, tetapi dia juga boleh meningkatkan kefahaman, kesedaran rakyat mengenai keselamatan digital untuk mengelakkan daripada kena scam, kebocoran maklumat dan sebagainyalah. Jadi kita jumpa hari Ahad ini bagi mereka yang yang boleh hadir, nanti tunggu maklumat kita akan maklumkan. Kalau tidak, boleh ikutinya di laman-laman kamilah.
 
-[1:49:01] Baik Baik kita tunggu Tetamu kita minggu depan Sebelum itu Kita Ada isu lagi satu lagi SPRM Ada lagi Haa
 
-[1:49:11] SPRM is looking for James Chai. I think we actually have two more, right? But I think it will end up with James Chai. Because at least the fried ones, the fried ones, are only 20-30 minutes. Now it's been an hour and 50 minutes. So we'll keep the other two. Okay. James Bond.
 
-[1:49:34] Dia ada banyak persoalan lah baby.
+[37:57] Nazri: Okey baik YB, clear. Kita jumpa hari Ahad ni. Kita tengok...
 
-[1:49:39] Orang agak frustrated sebab biasanya pergaduhan ni antara ahli politik, ahli politik. Tapi ini mungkin setelah dah berapa lama tak ada seorang private citizen diserang dan diintimidasi seperti inilah. Cuma saya agak menarik dengan kenyataan YB. Yang mana aku punya parody. Book parody satu tapi yang SPRM cari tu saya rasa. Sebelum tu kita kata situ. dan ramai marah jugalah sibuk-sibuk macam biasa lah sibuk-sibuk sangat ni menyerang apa semua ni sebenarnya yang SPRM kena cari adalah Anwar sebab dia ni chief negotiator dia juga yang dua kali berjumpa dulu then YB baru follow up kalau YB mungkin dah mudah sikit
 
-[1:50:32] Ya, saya suka, anda tahu, um...
 
-[1:50:38] Dia gaya Tan Sri Azam Baki masa bagi kemas kini lah siasatan-siasatan besar kan.
+[38:04] Farhan: Nazri datang kan?
 
-[1:50:49] Saya ingat dia kata kita telah panggil 12 pegawai-pegawai kanan kerajaan, seorang bekas menteri semua kan. Tapi bukan dari... So bila dia sebut seorang bekas menteri itu...
 
-[1:51:03] There are media that misinterpreted what I said. Actually, I think the former minister is Zafrul. Zafrul is happy to give the statement that Rafiq is a liar. I'm happy for him. I'm willing to be the number one witness. I guess.
 
-[1:51:25] Tapi bila dia tulis tu kan, ialah kita kena kembali kepada sebenarnya apa tuduhannya? Ya.
+[38:05] Nazri: Datang. Tapi tak tak ramai yang boleh kan dia punya tempat?
 
-[1:51:33] Sebenarnya apa tuduhan yang SPRM menghabiskan juta-juta duit rakyat menumpukan kepada siasatan mengenai arm ni sebenarnya?
 
-[1:51:46] Apa tuduhannya? Ada beberapa. Antaranya tak ikut prosedur. Terlampau cepat. Cepat kan? Tergesa-gesa. Tergesa-gesa. Tak ikut prosedur. Yang lain itu berkaitan dengan angka itu lah. 1.1 bilion itu kan. Hmm.
 
-[1:52:03] Tak ikut prosedur. Haa. Haa.
+[38:09] Farhan: Tak tahu, you kena datang.
 
-[1:52:05] So...
 
-[1:52:07] Kalau tak ikut prosedur dan tergesa-gesa,
 
-[1:52:11] Erm...
+[38:10] Nazri: Ha tapi saya datanglah. Mampus aku. Okey.
 
-[1:52:13] Mana bahagian imbuhan kewangan?
 
-[1:52:16] Hmm Hmm
 
-[1:52:18] Imbuhan maksudnya manfaat tu lah Manfaat lah
+[38:13] Rafizi Ramli: Nazri mesti nak datang, dia dia nak belajar macam mana nak erase dia punya device yang segala-gala benda ada kat dalam tu kan.
 
-[1:52:21] Tak ratifikasinya ikut mana. Hmm.
 
-[1:52:24] Dia susah nak
 
-[1:52:27] Tunjuk. Jadi dia carilah gratifikasi lain lah kot. Yelah apa gratifikasi lain? Dia carilah gratifikasi lain.
+[38:21] Nazri: Maklumat-maklumat lama.
 
-[1:52:33] Aku boleh main komputer Kenapa? Hahaha
 
-[1:52:36] Uh...
 
-[1:52:37] Pegawai YB Yang mendapat kerja di Itu lah Di AM Sorry Dua bulan Transisi Ha
+[38:23] Rafizi Ramli: Maklumat-maklumat yang tidak patut dilihat oleh orang lain.
 
-[1:52:47] That's what I answered. That is, Anwar Ibrahim and all the former ministers and all the former right-wing officials. I want to give a shout out about the gratification. But back to the question of what is the gratification? So, if a country is moved,
 
-[1:53:10] soal kononnya penyelewengan 1.1 bilion arm ini
 
-[1:53:18] But there is no element of eating money, there is no element of gratification. So finally he said he was frustrated and also not following the procedure. So if he was frustrated and not following the procedure, actually the one who was frustrated was Anwar Ibrahim. So the first person who should be called to take the statement is the Prime Minister. So I once mentioned, I remember, Susu Galuh,
+[38:28] Nazri: Okey YB, kita ada Hidup Keras. Kita tengok yang pertamalah apa yang berlaku di Parlimen. Dua undi reform tergendala.
 
-[1:53:47] arm ni dalam beberapa podcast jadi secara cepat saya sebut lah kan
 
-[1:53:54] Saya ingat sebelum kami menganjurkan KL20, itu April 2024 kan?
 
-[1:54:01] Masyarakat di Malaysia ni tak tahu pun Am tu apa Jadi kita buat KL20 Hmm
+[38:38] Rafizi Ramli: Ada bunyi dengar orang potong rumput kat luar. Tu sebab kita bukan berada di Menara Ilham.
 
-[1:54:09] Jadi...
 
-[1:54:11] Ialah rezeki dan juga takdir Allah Kita berjaya meyakinkan Am untuk datang Jadi Am pun datang
 
-[1:54:20] I think from there, people started to understand what is Aam. And the night before the event, I hosted a dinner where Dato' Sri Anwar he sat with all the big tech figures in the world. One of them was from Aam. So he was attracted.
+[38:43] Nazri: Menara Ilham bukan eh.
 
-[1:54:43] So, tomorrow, while I was busy hosting KL20, he was the one who made the request for the MP to come and meet him and some other ministers. Other ministers including Gobind Singh Dio, including Zamri Qadir, including Fahmi Fadil. I, who had a hard time doing it, was not there. Not there? Not there. Not there. So,
 
-[1:55:11] Anwar lah juga yang Oh Bagus lah Am ni bagus lah Am kan Jadi Ini cerita dalam kaya Cerita dalam kaya Ha
 
-[1:55:22] Oleh kerana Amni kenal Malaysia ni melalui kami kan. Jadi selepas mesyuarat dengan Dato' Sri Anwar tu lah April 2024.
+[38:45] Rafizi Ramli: Kita soundproof pun tidak.
 
-[1:55:34] Am pun diambil serius lah. Perdana Menteri Malaysia minta tolong Am untuk bantu Malaysia membangunkan industri semikonduktor. Sama ada mereka faham, Fahmi Fadil faham ke tidak apa yang dibincang masa itu, wallahualam lah kan.
 
-[1:55:52] Kemudian... Am kembali kepada kita lah. Hmm.
 
-[1:55:57] Am sebenarnya tak faham sangat apa PM nak.
+[38:47] Nazri: Ya Allah, saya lupa nak bayar parking, biarlah.
 
-[1:56:01] Sebab dia duk cerita pasal pergi universiti, pergi universiti, pergi universiti. Sebab tu ada Zamri Kadeh masa tu. Masa tu dia menteri pendidikan tinggi kan. Jadi Am ni dia kan rupailah lah sebenarnya PM Anwar ni dia duk cerita pasal pergi universiti, bantu universiti kan. Sebenarnya ekosistem ni jauh lebih besar. Daripada situlah saya pergi balik kepada Dato' Sri Anwar. Dia kata, we have to develop something a lot more comprehensive. Tetapi perkara ini perlu fokus dan ia sesuatu yang Am tak pernah buat dengan mana-mana negara di dunia ini. Jadi Am sendiri minta supaya kita menjaga kerja itu.
 
-[1:56:49] ...kooperasi antara Am dengan Kementerian Ekonomi. Oh, tak ada masalah.
 
-[1:56:55] Dia setuju. But dia nak sangat benda ni jadi. Dia setuju.
+[38:49] Rafizi Ramli: Kena samanlah. DBKL RM50 tau sekali saman.
 
-[1:56:59] Kemudian kami pun balik dan mulakan kerja awal lah kan. Jadi konsepnya... Sebab dia tak pernah ada di dunia tau. Ini yang saya nak jawab juga tentang yang dia kata penyelewengan 1.1 bilion. Sekejap lagi saya jawab kan. Tapi konsep...
 
-[1:57:13] Am bekerjasama membangunkan industri semikonduktor sebuah negara ni tak pernah berlaku di mana-mana di dunia. Ini yang pertama lah. Jadi dia pun on the drawing board, kita pun on the drawing board. So we work together kan. Jadi bila kita dah...
 
-[1:57:31] ...dapat first card...
+[38:54] Farhan: Hari-hari dia orang saman kat sini.
 
-[1:57:33] Jadi saya pergi kepada Dato' Sri Anwar sekali lagi. Dan saya sebut kat dia, kita ni nak beli IP. Bukan sahaja kita nak beli IP, kita juga nak gunakan IP dan ekosistem itu untuk melatih dan melahirkan basically cheap engineers, design engineers. Kemudian kita juga nak membina ekosistem. Malaysia. Dia perlukan ekosistem. Jadi of course dia akan memerlukan komitmen kerajaan Malaysia untuk kita beli IP itu kerana konsepnya ialah kalau company Malaysia nak beli IP untuk buat chip, kiamat tak akan dapat. Satu duit itu dia tak ada. Kedua, arm kata, kau ni siapa? Company mana? Aku ni jual kat Samsung tau. Yang buat aku punya chip ni Samsung Apple. maksudnya TM, Telekom Malaysia ataupun apa lagi, Kazanah nak pergi buat. Dia kata, kau ni siapa kan? Jadi sebab itu kita perlukan kerajaan Malaysia yang kata yang beli inilah kerajaan dan kami bekerjasama dengan ARM untuk membangunkan syarikat-syarikat chip yang dilatih untuk menggunakan IP inilah. So program ini 10 tahun. Dalam tempoh 10 tahun ini sasaran kita ialah kita boleh menghasilkan chip kita sendiri yang boleh digunakan dalam data center kita, dalam negara kita untuk rantai ASEAN semua kan. Sudah tentu untuk 10 tahun ini kita perlukan kos sebab kita kena...
 
-[1:59:16] Bayar lah kan?
 
-[1:59:18] I mentioned to him, Dato Sri Anwar asked, so how much is the price tag? I told him, it's more or less $200 million, so more or less 10 years, more or less $1 billion, and more or less $100 million a year. No problem, proceed. Okay.
+[38:56] Nazri: Sabar anak muda.
 
-[1:59:39] Do you remember, if at first I didn't get a verbal agreement from Dato' Sri Anwar that it will cost us to build our semiconductor sector for 10 years, more or less, what is it, 1 billion, you think I would have gone ahead? Where is it? It's not there. I don't waste time. Okay, if you want to ask, this is back to the 1 billion issue, right?
 
-[2:00:08] Kita nak membangunkan industri semikonduktor yang kita telah gagal berpuluh-puluh tahun untuk
 
-[2:00:15] to the front end to create it itself. And it's more than 100 million a year or 1 billion 10 years. The result of that is that we can have our own chips, we become a semiconductor design center, we enter the category, God willing, 10 years, the category of countries like Taiwan, like Korea, who can make their own chips. We have 10,000 engineers, right? The cost is
+[38:57] Rafizi Ramli: Sabar. Kau boleh tulis surat kepada Hannah Yeoh lah, "Kami membantu tapi kami kena saman tiap-tiap hari."
 
-[2:00:42] 100 juta setahun kan. Cuba tengok bila Dato' Sri Anwar lancarkan apa nama ni New Industrial Master Plan berapa bilion diumumkan untuk tempoh 10 tahun tu? Cuba tengok. 10 bilion kan? Cuba tengok.
 
-[2:01:04] 29.2 bil Untuk New Industrial Master Plan Yang Tengku Zafrul buat Berapa?
 
-[2:01:13] Perlu pelaburan kan? Ya, maksudnya yang kerajaan akan pump. Kerajaan peruntukkan kerajaan, apa-apa.
+[39:06] Nazri: Baik okey, ha yang ini. Dua undi tergendala YB. Satu, RUU had tempoh PM dan satu lagi RUU berkaitan dengan AG dan Pendakwa Rayalah. Mungkin saya pergi satu persatu.
 
-[2:01:20] 95 billion, try to see. 95 billion? New Industry Master Plan 2030 requires 95 billion worth of investment over the 7 years. But 95 billion worth of investment is all from the government or how much is the government? It's not all from that.
 
-[2:01:40] Tapi saya rasa Eh
 
-[2:01:43] 10% was allocated by the government. Yes, around RM10 billion. How many years was it? It was launched in 2023 until 2030. So, it was rejected in 2023, which means 4, 5, 6, 7, 8, 9, 10. 7 years, RM10 billion. RM1 billion a year.
+[39:19] Rafizi Ramli: Tapi sebelum tu lah kan, saya nak komen saya duk tengok video tu tengok Bachok tu ber-ia-ia dengan geng-geng PN dia kan video tu kan. Dan saya ingat masa RUU peranan AG dan Pendakwa Raya ni kerajaan dan Menteri Datuk Seri Azalina bentangkan di Parlimen bahawa bacaan kedua itu selepas itu dia tidak terus dengan perbahasan dan juga undian, sebagai mengambil kira pandangan ahli-ahli Parlimen, maka ia akan dirujuk kepada sebuah jawatankuasa pilihan khaslah dan baru akan dibawa balik ke Parlimen mengambil kira beberapa cadangan macam tu. Masa tu Chief Whip PAS lah, Ahli Parlimen Kota Bharu Tan Sri eh Tan Sri pula, Datuk Seri Takiyuddin kan dengan bangganya bangun begini lah ha ni Takiyuddin tu kan. Aku duduk aje daripada tempat tu aku tengok sebab dia dengan bangganya bangun dan mendabik dada, "Inilah peranan yang kita mainkan sebagai pembangkang memberikan semak imbang dan tahniahlah atas kejayaan menyebabkan kerajaan terpaksa menurut apa nama ni..." Basically dia nak katalah, oleh kerana PN lah, maka kerajaan terpaksa ambil masa dan perbaiki lagi dan itu adalah bukti bahawa PN memainkan peranan semak imbang. Dia ambil kreditlah. Apa masalah dengan kenyataan ambil kredit dia tu sama juga dengan video-video Bachok duk main dua-dua semua ni?
 
-[2:02:06] 1.1 bilion setahun lah. 1.1 bilion setahun. Korang tak buat bising.
 
-[2:02:14] The government had to prepare Tengku Zafrul at that time to do whatever we were not very sure of. So that's why when we mentioned to Dato' Sri Anwar Ibrahim to build this high-end semiconductor industry, we need 100 million a year. He has no problem. Go ahead. Please, please, please.
 
-[2:02:35] Jadi sebab itu kalau ada yang kata ini semua penyelewengan sebab tergesa-gesa, sepatutnya Tan Sri Azam Baki panggil Datuk Sri Anwar dululah. Melebihi semuanya. Saya sebab kalau you berada di kedudukan saya kan,
+[41:16] Nazri: Bukan dia pun yang buat.
 
-[2:02:50] Buat apa saya susah payah Mengunding Buat benda yang rumit Separa mati ni kan Semua lah Buat perjanjian lah Dengan masa yang singkat Kalau saya tahu PM tak setuju Untuk satu bilion Sebab akan pergi kat kabinet Maka akhirnya kalau PM tak setuju letih Masalah kami yang kami kecewa masa itu Seperti biasa Anwar Ibrahim di belakang Dia setuju pada kami Dia suruh kami buat Yang ini ok Jumlah ini ok semua Bila sampai ke kabinet Walaupun dia setuju bila sampai di kabinet Zafrul tak setuju sebab dia kata kami nak buat
 
-[2:03:27] Ini kerja kami. Kenapa nak ambil benda ini daripada kami? Ini bukan tugas kementerian ekonomi.
 
-[2:03:34] Padahal Anwar Ibrahim yang suka. Dan saya hampir mengharapkan Anwar untuk mengatakan, Tidak, Zafrul, ini tugas ini saya dah... Sebab benda ini semua bermula daripada kementerian ekonomi. Daripada idea mereka, mereka yang bawa masuk, yang kamu sibuk-sibuk nak masuk. Ini kenapa? You know, a good leader would have said that. After all, aku yang bagi instruction kat budak ini nak buat. But that never happen. Bila that never happen, itulah. Maka dia ada bangkangan daripada MITI MOF ni kita kena ingat Datuk Seri Amir Hamzah ke pegawai-pegawai kanan MOF ni. Sebelum Anwar Ibrahim dan Amir Hamzah siapa Menteri Keuangan?
+[41:17] Rafizi Ramli: Tak ada kena-mengena dengan dia orang. Ada dua sebab kenapa tak ada kena-mengena dengan dia oranglah. Pertamanya ialah kerana mereka tak bersuara pun. Itu yang kadang-kadang sangat memenatkan tau sebab dia duk sibuk cerita pasal, "Aku tak nak duduk sebelah engkaulah, aku tak nak duduk sebelah engkaulah." Lepas tu Pengerusi PN, Ahli Parlimen Kemaman pula sibuk, "You bukan calon PM, you bukan calon PM." Kan? Sedangkan kita sedang melalui banyak isu-isu besar negara yang kita perlu berhati-hati dalam tempoh setahun yang lepas kan, dari segi isu kehakiman, kemudian isu SPRM. Kau ada dengar dia cerita pasal Azam Baki ke apa Takiyuddin ni?
 
-[2:04:17] Zafrul Zafrul lah Jadi politik mereka Ialah Apa yang MITI setuju Yang nak Selalunya MOF sokong Sebab Zafrul tu dulu Bekas menteri
 
-[2:04:29] Keuangan. Jadi, you dah boleh nampak semua pattern tu lah kan. Jadi, bila Zafrul tidak bersetuju, MOF pun oe, oe, oe lah. Itu pun kita telah melalui semua prosesnya sehinggalah dia diluluskan. Kalau tak diluluskan oleh kabinet semua,
 
-[2:04:49] Kau ingat Anwar Ibrahim boleh pergi lancarkan ke? Kau ingat Maida boleh tanda tangan perjanjian? Kalau tidak, buat apa Tengku Zafrul susah payah pergi berlari-lari nak bagi sedang media? Jadi sebab itu, kalaulah soalnya ialah benda ini sangat besar dan sehingga perlu mencari seorang Cina keding nama James Chai ini untuk menyelesaikan siasatan ini dan tentukan setemerta. Dia tak ada elemen
+[42:02] Nazri: Relaks.
 
-[2:05:21] kreatifikasi. Dia tak ada elemen wang pun kan. Hmm.
 
-[2:05:25] Dia hanya ada soal kononnya benda ini tergesa-gesa.
 
-[2:05:31] Dan konotasi yang cuba diberikan ialah Oleh kerana ini adalah tergesa-gesa Maka ini merugikan negara Now Sepatutnya lah
+[42:03] Rafizi Ramli: Tak ada kan. Dan tiba-tiba bila keluar pasal AG, pemisahan Pendakwa Raya, kebimbangan kita bahawa kita mengulangi kesilapan yang sama memberikan kuasa yang sangat besar kepada seorang yang tidak ada pertanggungjawaban kan. Jadi semua itu kami yang nak kena kena bentangkan tahu. Bila kami bersuara, kami kena hentam daripada kesemua pihak. Ceplos-ceplos ni maki hamun tiap-tiap hari kan. Saya tak apalah kerana saya dah biasa. Saya dibesarkan dalam suasana politik yang penuh fitnah dan juga maki hamun. Daripada zaman UMNO, kemudian yang sambung hentam maki hamun tu walaun pula kan. Sekarang ni tambah lagi Ceplos, jadi saya dah biasa. Tapi bayangkan ahli-ahli Parlimen lain yang tak biasa, ambil contohnya YB Rodziah. Seorang ahli politik kanan yang dah lama, tapi seorang ibu, dia lembut, kena maki tau setiap kali nya kan. Jadi dan itu bukan tugas hakiki kami pun sebenarnya, tapi oleh kerana Perikatan Nasional itu saya pun tak faham, dia tak nak bersuara. Jadi dalam kes RUU pemisahan peranan AG dan Pendakwa Raya ni kan, dia sama ada dia lambat baca ataupun dia proses birokrasi di dalamnya itu sangat lambat ataupun mereka ni tak faham ataupun mereka memang malas kan. Jadi dibentangkan di atas meja ahli Parlimen hari Isnin. Hari Isnin itu juga kami baca, hari Selasa kami dah ada pendirian dah. Hari Selasa tak ada apa daripada Perikatan Nasional, hari Rabu tak ada apa, hari Khamis tak ada apa. Saya ingat kemudian dengar-dengar macam itu saja kan. Jadi tiba-tiba bila perkara ini memaksa kerajaan untuk rujuk kembali kepada Jawatankuasa Pilihan Khas, eh dia jadi hero ambil kreditlah. Ni sebab tu dia boleh berkawan baik dengan Zafrul ni. Geng-geng yang pandai kona depan ni kan. Tu satu. Tapi yang lebih lawak bila dia PN Perikatan Nasional bangun kata ini peranan kami semak imbang, sebenarnya apa yang dia orang buat pun tidak ada kesan kepada undi 2/3 tu. Jadi kerajaan terpaksa akur kepada pandangan-pandangan ahli Parlimen PKR yang 10 ini, sebab utamanya sudah tentu tidak lain dan tidak bukan, tanpa kami tidak akan ada 2/3. Kerajaan perlu mendapatkan undi 148. Jadi contohnya kan, kalaulah Perikatan Nasional pun membangkang rang undang-undang ini, tapi semua ahli Parlimen kerajaan bersetuju dan dapat 148, you ingat Azalina akan bangun dan kata kita rujuk balik ke Parlimen? Tak adalah, dia bulldoze sajalah kan. Jadi fungsi semak imbang yang lebih besar juga sebenarnya digalas oleh backbench, oleh ahli-ahli Parlimen di sebelah kerajaan yang perlu ada clarity, kecerahan dari segi apa yang tanggungjawab yang kita perlu ada pada rakyatlah. Oleh kerana kami terpaksa mengambil keputusan yang susah, maksudnya berbeza pandangan dengan kerajaan dan oleh kerana ada 10 orang, maka nak tak nak kerajaan tahu kalau dibentangkan juga nanti jadi macam RUU had tempoh PM itu tak dapat 148, malu saja. Jadi dari sebelum malu, terpaksalah mereka akur untuk mereka rujuk untuk dibincangkan balik macam mana kita nak tambah unsur-unsur pertanggungjawaban supaya ada orang yang mengawalselia seorang Pendakwa Raya yang sangat berkuasa ini. Kalau tidak, kita mengulangi masalah yang sama yang kita ada dengan Tan Sri Azam Baki, tetamu kita juga kan minggu ni? Tetamu kita juga minggu ni Tan Sri berduet kali ini Tan Sri Azam Baki yang mana dia terlalu berkuasa dan dia boleh pergi kejar siapa-siapa dan orang tidak ada recourse untuk mengawal kuasa yang dia ada tu.
 
-[2:05:41] Kalaulah Anwar Ibrahim dan kabinet baru masa sekarang tersedar, alamak perjanjian ini merugikan negara. Sepatutnya apa yang dibuat?
 
-[2:05:52] Demi ni? Demi ni lah!
 
-[2:05:55] Batalkanlah perjanjian itu. Tapi tak. Anwar juga yang pergi ke IC Design Center kan. Dia juga Nurul Izzah juga yang tiba-tiba jadi penasihat kepada IC Design Park semua kan. Jadi kita confused sekarang ni. Sangat confused. Kementerian Ekonomi sampai sekarang masih lagi menjalankan tugas itu. Masih lagi membangunkan program ini dengan ARM. Contohnya Tengku Zafrul juga di hari terakhir dia jadi Menteri Miti, dia juga yang tergesa-gesa mengumumkan dua syarikat yang dipilih untuk menerima IP untuk membangunkan chip. Satu Skypark, satu Expan. Dia juga pergi umum, eh kalau ini merugikan negara, terminiklah. Jadi kita semua jadi confused akhirnya kan.
+[46:37] Nazri: YB, sebelum saya pergi lebih jauh tentang cadangan kerajaan untuk menubuhkan select committee yang khas untuk isu pemisahan kuasa tu, mungkin sebab ada Ceplos cakaplah, ini ahli Parlimen kerajaan walaupun backbenchers kenalah sokong kerajaan, dapat pun peruntukan daripada kerajaan. Mungkin...
 
-[2:06:53] Ehm...
 
-[2:06:55] Lagi orang tahu pasal perkara ini Lagilah orang akan rasa macam Ya Allah korang sanggup
 
-[2:07:04] Um...
+[46:56] Rafizi Ramli: Eh peruntukan kerajaan apa tu, duit rakyatlah.
 
-[2:07:06] Apa nama ni... Err...
 
-[2:07:09] to distort a very important economic plan of the country that you are also going to take pictures, that you are also going to visit, that you are also fighting to take credit, just because you don't like Rafizi. Because these are all ego games. Anwar wants to show that he is the boss, you don't fight me. That's it.
 
-[2:07:35] For example, if I'm quiet, after my child is attacked, for example, in August. The first signal is after my child is attacked. If for example, I'm quiet, I sit, yes boss,
+[46:57] Nazri: Duit peruntukan daripada rakyat. Praktis atau amalan backbenchers-backbenchers di negara Westminster lain, memang boleh untuk kita berbeza pandangan termasuk tak beri undi ke atau?
 
-[2:07:51] Aku malas bila Tengku Zafrul dilantik jadi penasihat kanan politik tu kan. Timeline ni banyak yang tunjuk Anwar ada. Ceramah dia pasal Tengku Zafrul. Itulah gaya dia pasal Tengku Zafrul ni. Cium tangan kan. Sebenarnya kalau aku. Dia tak adalah berlaku selepas apa nama ni. Serangan pertama tu kan. Kamu ni pasal art.
 
-[2:08:23] And all that I say, I'm not not happy because he's dancing or anything. That's his business. But as a member of parliament, we have to have an opinion and we have to voice it. So look, the big things, my criticism is about the basis and reputation of the government. The big criticism is about art.
 
-[2:08:46] It's true that the agreement is urgent. It has been proven by the US court. It's true that when we compare it with Cambodia, our agreement is almost complete. Then, the criticism about education. It's true. Not only me, but everyone has a problem with the education plan in this country. Then, about SPRM.
+[47:09] Rafizi Ramli: Ya ya ya ya, itu biasa. Dia kalau tengok kalau contoh yang baiklah kan yang saya ingat yang diteliti di seluruh dunia ialah tahun-tahun 2001 dulu kan, perang ke atas Iraq. Masa itu ahli-ahli Parlimen Parti Buruh dia tak menyokong Tony Blair. Jadi dia ada ruang-ruang dialah dan sebab itu kita ada konsep whip ni. Whip ni saya tak tahulah mungkin orang yang biasa mengikuti politik dia fahamlah whip ni apa dia kan. Tapi whip ni konsep lama daripada Parlimen Britain lah. Whip ni ialah belati kan, belati kan. Maksudnya kamu tak buat... Ha gitu kan ha. Sebab tu dia ada contohnya Chief Whip, ketua whip dan whip kan. Tapi bukan dalam amalan demokrasi Westminster bukan semua keputusan itu mesti 100% ikut kerajaan walaupun kita ahli Parlimen kerajaan. Kalau tidak, tak payah buat Parlimen lah. Perdana Menteri tentukan semualah kan. Bezanya di antara sistem US yang mana pemisahan di antara perundangan dengan eksekutif tu jauh lebih jelaslah. Jadi memang perundangan walaupun parti yang sama mereka tidak terikat dengan eksekutif kan, kerana mereka lebih bebas kan. Dalam Westminster system ni dia unik sikitlah dan rumit sedikit kerana Perdana Menteri itu dipilih dari kalangan ahli-ahli Parlimen sendiri. Dan ahli-ahli Parlimen itu dari parti yang sama. Jadi pemisahan di antara eksekutif dengan cabang perundangan tu agak kabur dalam sistem Westminster kan. Tapi dalam mana-mana amalan demokrasilah, hatta amalan Westminster sekali pun, memang ada konsep yang jelas tentang pemisahan kuasa di antara cabang perundangan dan juga cabang eksekutif. Dan sebaiknya konsep pemisahan kuasa itu dipraktikkan seberapa yang yang mungkin. Sebab itu ahli-ahli Parlimen dalam sistem Westminster, dia ada beberapa keadaan tertentu kan. Ada undi-undi yang dikira undi-undi yang whip boleh ditarik. Maksudnya...
 
-[2:09:13] I don't have any complaints about Anwar's personality. I don't repeat the attacks. I don't repeat the attacks on his personality. Even though there are supporters who have already complained, he has already started to complain. I don't want to repeat it. All of that is part of the task as a member of parliament. But if I don't mention it one by one, the story of the armed forces will not come out. So finally, why James Chai?
 
-[2:09:41] Erm...
 
-[2:09:43] Kalau tengok semua yang terlibat dalam cerita arm ni kan semua kanan tu Perdana Menteri, Menteri-Menteri, KSU, KSU.
+[50:00] Nazri: Kena whiplah.
 
-[2:09:53] Saya dapat maklumat lah siasatan setakat ini ni tak ke mana sangat. Sebab dia cuba nak menunjukkan bahawa ada pelanggaran prosedur ataupun perkara ini tergesa-gesa.
 
-[2:10:06] Jadi pelanggaran prosedur itu
 
-[2:10:09] Kalau ikutnya semua dah dibentangkan di kabinet, kemudian dapat kelulusan, mesyuarat pun ada 7-8 kali, dekat kabinet sahaja sampai 3 kali rasanya kan. Jadi tak mudahlah untuk dia dapat...
+[50:00] Rafizi Ramli: Kena whip. Undi-undi tu selalunya jenis yang akan menjatuhkan kerajaan. So jadi contohnyalah kan, dalam keadaan untuk mengundi bajet setiap tahun, yang itu kalau tak undi memang kena buanglah. Kerana dengan tidak mengundi belanjawan maksudnya samalah dengan kita mahu menjatuhkan kerajaan. Yang itu memang kalau saya pun tak mengundi belanjawan, memang sepatutnya saya kena buanglah kan. So yang itu tidak ada pilihan. Kemudian ada undi-undi yang apa nama ni parti ada pendirian masing-masing dan sebaiknya parti nak orang ikut pendirian itu kan. Tapi itu pun tidak mengikat 100% ahli-ahli Parlimen untuk 100% ikut. Kalau dia tak ikut, ketua Saya dulu ketua whip tahu, saya ketua whip PKR kan. Kalau dia tak ikut, kita boleh saman dia dan minta dia bagi penjelasan. Ha contohnya kan. Dan dia ada kategori ketiga iaitu free vote, maksudnya based on conscience. Dan ada isu-isu yang mana ahli Parlimen dibenarkan mengundi mengikut conscience masing-masing atas beberapa sebablah. Selalunya sebab utama ialah ahli Parlimen itu mungkin daripada parti tertentu yang ada pendirian tertentu dalam isu tertentu, tetapi dia mewakili kawasan yang memang sangat menentang pendirian parti dia dalam isu tertentu. Contoh yang baik kalau macam saya di UK dahululah, contohnya kalau Scotland. Scotland kita ada tiga parti utamalah, kita ada Conservative, kita ada Labour dan sejak tahun 90-an kita ada SNP, Scottish National Party kan, parti kebangsaan Scotland lah kan. Jadi dalam beberapa isu yang bersabit dengan identiti kebangsaan Scotland ataupun yang bersabit dengan devolved power, kuasa yang diperturunkan kepada Dewan Undangan Scotland kan, walaupun itu bertentangan dengan pendirian di Westminster, tetapi selalunya ahli-ahli Parlimen daripada Labour ataupun daripada Tory, dia ada pandangan yang berbeza dan dia akan mengundi bertentangan di Westminster kerana dia kena ikut pendirian parti di Scotland dan juga mood rakyat Scotland kan. Jadi dia ada tiga kategori inilah. Jadi kalau macam contohnya dalam kes RUU baru-baru ini bila 10 daripada ahli Parlimen PKR termasuk saya sendiri buat pendirian yang kami tidak akan menyokong kecuali perkara-perkara yang kami bangkitkan itu ditambah baik, terutamanya yang bersabit dengan pertanggungjawaban kan, itu termasuk kategori keduailah. Jadi kalau Chief Whip PKR sekarang ialah Datuk Seri Aminuddin Harun kan. Dia Chief Whip ni selalunya ahli Parlimen yang jawatan paling kananlah dekat Parlimen. Jadi masa saya Timbalan Presiden dulu sayalah. Sekarang Timbalan Presiden bukan seorang ahli Parlimen. Jadi yang paling kanan ialah sama ada Menteri Besar Selangor atau Menteri Besar Negeri Sembilanlah. Jadi Chief Whip itu sekarang Menteri Besar Negeri Sembilan. Jadi kalau contohnya Chief Whip PKR berkehendakkan supaya saya dan 10 yang lain memberi penjelasan kenapa kami mengambil pendirian itu dan kami akan bagi pendirianlah. Tapi tidak betul kalau kata seseorang ahli Parlimen mesti mengikut 100% apa yang ditetapkan oleh kerajaan. Kalau macam itu tak payah ada Parlimen lah. Dan kalau macam itu, konsep pemisahan kuasa di antara cabang perundangan dengan cabang eksekutif ni sebenarnya tak wujudlah. Jadi konsep Parlimen itu adalah semak imbang kepada eksekutif pun sebenarnya mainan mulut sajalah.
 
-[2:10:25] sebarang bukti bahawa dia telah melanggar proses dan prosedur lah. Susah lah. Of course lah, akan ada yang cuba kona baring sekarang lah. Dia akan kata, saya sebenarnya dulu tak setuju benda ni. Yalah, kamu tak setuju. Tapi masa kat kabinet, rekod menunjukkan dia diluluskan dan kamu bersetuju. Kan sekarang, you know, adalah. Saya dimaklumkan, adalah. Yang peguam itu, peguam ini. Mulalah kona-kona kata, oh saya dulu tak setuju. Tapi rekod menunjukkan masa dibentangkan di kabinet kamu bersetuju dan meluluskan draf perjanjian itu kan. Jadi kalau masuk mahkamah you nak dakwa apa? Kerana dia berdasarkan kepada rekod minit-minit itulah kan. Jadi dia ada jam sikit tau. Dan
 
-[2:11:11] It's not easy to press the right one. I mean, to force him to lie or something, he can be a little bit of a corner. And this thing wants to make me angry, it's hard because everything is in the process. So they need a black goat. And a black goat must be someone who is easy to press.
 
-[2:11:35] Enter James Jai. He's a Chinese, skinny, skinny, not a rich man, wearing a proton persona. And they think he can push... I remember the scenario, the scenario planning, the planner, he's like this. He thinks if we can push James,
+[54:30] Farhan: Sori, saya saya ada soalan satu. Just nak understand the the structure lah. So setiap parti ada whip mereka sendiri?
 
-[2:12:01] untuk bagi keterangan menjadi saksi terhadap Rafizi
 
-[2:12:07] Supaya James memberi keterangan bahawa Rafizi tipu sesuatu perkara.
 
-[2:12:13] Rafizi sebenarnya bagi arahan supaya ada beberapa perkara yang dibuat itu yang menyembunyikan fakta daripada kabinet. Maka itu menjadi bukti bahawa prosesnya tergesa-gesa dan
+[54:40] Rafizi Ramli: Hmm.
 
-[2:12:30] violate the rules. Even though there is no gratification, no money, they feel that it is enough for my claim. That I have abused power because evidence from my officers, as a government witness, states that actually he lied a little bit there. Actually he is like this, right?
 
-[2:12:56] And if they get the statement from James, it's great because my own officer who was involved in it, right? Then he looked at James, right? Then he took it. He took the element of cononial gratification because James was asked by the army to...
 
-[2:13:17] to help them build the operation and start the program in Malaysia. Because he has never been to Southeast Asia, he doesn't even know people here. So for the two-month period, James helped them. So I think the SPRM, if the script is like this,
+[54:40] Farhan: Kerajaan ada satu ketua whip atau?
 
-[2:13:39] Mereka akan ugut James...
 
-[2:13:42] If you don't agree to give the statements that implicate Rafizie Ramli, we will charge you for two months of your work. So James, you have to make a decision. Do I have to be sued or Rafizie has to be sued? Do I have to be sued or Rafizie has to be sued? Back to the question, there will be a chapter that says, ha, those two months are corruption.
 
-[2:14:11] Actually, there are no regulations that prevent a civil servant, let alone in the case of James, he is a officer who was brought in as a contract for two years to serve the government. He is not a civil servant who gets a pension or anything. He takes a huge pay cut to help the government, right?
+[54:42] Rafizi Ramli: Ada, ketua whip kerajaan.
 
-[2:14:37] Jadi lepas itu kau nak suruh dia buat apa? Dia tidak terikat kepada apa-apa kecuali dibuktikan bahawa kalau dia join sesuatu syarikat selepas itu, itu adalah hasil daripada rasuah
 
-[2:14:54] the project that was given while he was in the ministry. Which is not the case with Amnah, right? This is what the cabinet has passed so far. So far, no one has been able to prove the element of corruption. I regret it, at least, thinking back, they should have bought me something to eat. I didn't get a cent. Is that a corruption?
 
-[2:15:20] They have to be arrested. KSU, Pengarah, SPRM, Azam Baki, they have to be arrested. As far as food shopping is concerned, it's just us. It's hard for people to meet and shop for food because I don't like it. But other people are used to it. It's good, right? It's good, it's gratification, right?
+[54:44] Farhan: Siapa siapa ketua whip?
 
-[2:15:38] If James is accused of helping and working for two months to build an operation here, I think 90% of the former civil servants, from the KSU, from the KSN, from the KSP, to the head of state police, all have been accused. Why?
 
-[2:16:06] Sebab
 
-[2:16:08] Amalan biasa lepas pegawai-pegawai kerajaan ini bersara, tidak lagi menjadi pendidik pegawai kerajaan. Mereka masuk syarikat-syarikat kontraktor. Berapa banyak ketua pengarah dan timbalan ketua pengarah JKR yang masuk syarikat-syarikat kontraktor besar. Ambil contoh ketua polis negara, Tan Sri Razarudin. ada kaitan dengan NextG.
+[54:46] Nazri: TPM.
 
-[2:16:39] The Director of Public Service, Tan Sri Khairul Adib, the biggest shareholder and the first boss of NextG. If we want to mention one by one, and what we have now, from KSL, KSP, KSU, KSU, when they are big, they also have a place in all these companies.
 
-[2:17:02] Kalau James 2 bulan itu dikatakan gratifikasi, mereka selama bertahun-tahun membuat keputusan yang bagi kontrak kepada syarikat itu, syarikat ini semua, tiba-tiba dia pergi masuk, habis semua tu, menteri-menteri semua, habis kena dakwa semua.
 
-[2:17:17] Aku tak kena dakwa lah sebab aku tak masuk. Kan? So, macam mana nak jawab? Jadi, akhirnya mereka terpaksa tekan James lah. Dan setakat ini...
+[54:47] Rafizi Ramli: Jadi ketua whip kerajaan ialah Timbalan Perdana Menteri keduanyalah, Datuk Seri Fadillah. Dan setiap parti ada whip masing-masing. Contohnya dulu whip PKR saya, sekarang Datuk Seri Aminuddin. Whip DAP saya ingat saya Nga Kor Ming. Whip UMNO ialah Datuk Seri Mat Hasan. Kerana whip di Parlimen selalunya orang nombor dua. Kerana dia perlu seorang yang sangat kanan untuk mendapatkan hormat dan autoriti supaya boleh meyakinkan ahli-ahli Parlimen parti-parti itu untuk mengundi seperti yang dikehendaki oleh kerajaan. Itu masalah PKR sekarang. Whip tu tak apalah, I mean Datuk Seri Aminuddin Harun kan, tapi kalau tengok orang yang sekarang ini dia merasakan dialah Chief Whip ialah Zaleha lah. Ha BBC. Sebab dia pengerusi BBC kan. Tapi kalau dari segi senarai kekananan dalam ahli-ahli Parlimen, dia sangat tidak kanan. Dia first time MP, dia tidak pernah ada jawatan kanan dalam parti, dia dilantik semata-mata kerana favourite Datuk Seri Anwar. Jadi bila dia dihantar ke Parlimen, macam mana dia nak enforce? Kerana kalau nak banding dengan saya, nak banding dengan Nik Nazmi, nak banding dengan Rodziah, nak banding dengan siapa lagi yang kanan?
 
-[2:17:28] The verse that was given was, Oh, we had to issue a notice because James blocked it on WhatsApp. I laughed and thought, If this is the case, it's even more dangerous. Because after this, Azam Baki will issue a notice against Rafizie Ramli. Why?
 
-[2:17:52] Because YB doesn't have WhatsApp. Because I don't have WhatsApp. I don't use WhatsApp. He thought he was blocked. He thought he was blocked. I don't have WhatsApp. So, James, I want to ask. So, what's the story that he said you blocked?
 
-[2:18:05] James kata... Dia duduk kat UK...
+[56:20] Nazri: Bakhtiar, YB Bakhtiar dah lama.
 
-[2:18:10] So, there are numbers that he doesn't know from Malaysia or something, who called 2-3 times, then didn't leave a message or something, he blocked it. Because he didn't even know that the phone number was SPRM. The best thing about SPRM investigators is that they at least send messages.
 
-[2:18:32] And even if they send a WhatsApp message, actually, if you follow the lawyers, it still hasn't met the requirements of the SPRM Act. The notice has clear requirements and regulations. What constitutes a notice, right? Plus, nowadays, people are scammed. I've seen it myself, my staff, in front of my eyes, eating with me, suddenly they call, they pick up.
 
-[2:19:01] From the time he ate, from the time he was happy, his face became red. Then he was like, he didn't want to go down, he took a note and wrote it down. Then from sitting in front of me, he went there, walking around, all of this. Then, it was almost one hour, on the phone, I was like, what's wrong with this kid? I asked him, what's wrong?
+[56:22] Rafizi Ramli: Ha Bakhtiar, ha ini semua yang yang dah multiple terms. Nak banding dengan Kesavan, semua multiple terms kan. Jadi bila PKR buat lawak macam itu, dia memang memang Zaleha akan ada masalah untuk command kamilah kerana kami jauh lebih kanan dan kami adalah ahli Parlimen yang yang senior di dalam Parlimen kan. Bukan sahaja di dalam PKR, tapi juga di dalam Parlimen kan. Jadi sepatutnya begitulah susunan di dalam parti bahawa orang yang paling kanan itu mestilah menjadi whip kerana dia mesti ada autoriti untuk govern kan. Tapi malangnya...
 
-[2:19:22] This is LHDN, what's the matter? I asked him, what's the matter LHDN? I have a debt of RM12,000, how about that? At that time, he was just working, age 22-23. But how can you work for a year and have a debt of RM12,000? I don't even know, it turns out I have a company that I never knew, that company doesn't pay taxes. So now he asks for a settle, so he wants to ask for a transfer of money.
 
-[2:19:50] I said, you're going overseas, you have to scam like this. So, scam is real. And indeed, people, even if they send a message, I'm from LHDN, I'm from SPRM, that's also a big possibility that they won't answer. So, they have to... Because we don't know, there are a lot of scammers, right?
 
-[2:20:12] Kalau sebab itu, lepas 2 hari, dia kata dia cuba hubungi 24 kan, February kan.
+[57:02] Farhan: Selalunya number two in the partylah.
 
-[2:20:19] Kalau sebab itu keluarkan notis ini, memanglah orang marah. Dan ini yang kalau skrip ini ditentukan oleh Azam Baki, Anwar Ibrahim Gali Kubur.
 
-[2:20:32] Azam Bakir sudah tentu dia fikir diri dia je lah. Dia tak fikir tau. Apa pandangan rakyat ke. Dia bukan ahli politik. Kalau dia rasa dia cerdik ahli politik. Dah lama dia bertanding jadi menteri tau.
 
-[2:20:43] Dia tak berani. Dia bukan faham rakyat. Dia bukan. Jadi saya pasti dia tak terfikir langsung dengan hanya keluarkan notis mengenai James ini, satu Malaysia maki Anwar. Pening kepala Anwar lah. Dan yang lagi berbahayanya, tiba-tiba, dah lah.
+[57:04] Rafizi Ramli: Selalunya number two, tapi masalahnya Izzah tak ada kat situlah kan.
 
-[2:21:03] Chinese voters are far from Anwar Ibrahim, he has reached the level of hatred. With the story of chasing Chinese children to the bottom of the pit, then it will be a very emotive story that will cause more Chinese voters, especially Yang Jianzhi, to hate Anwar Ibrahim.
 
-[2:21:27] Sebab itu soalannya ialah apa ada dengan Azam Baki ini sehingga Anwar Ibrahim sanggup kerugian sedemikian rupa Belanda after Belanda after Belanda disebabkan oleh Azam Baki.
 
-[2:21:42] Azam Bakri can't do anything. Let's say he's re-connected after this, right? And then, Anwar Ibrahim is no longer the Prime Minister. He has found that model, that's why he has stayed with three Prime Ministers. From Muhyiddin Yassin, to Ismail Sabri, to Anwar Ibrahim. When the new Prime Minister comes in, he will go and offer, I will...
+[57:10] Nazri: YB, satu lagi isu adalah berkaitan dengan bagaimana mereka menangguhkan undian itu dengan membawa usul pemisahan Attorney-General dan Public Prosecutor kepada satu Jawatankuasa Pilihan Khas yang baru dibentuk, yang mungkin itu nama tu dipilih sendiri oleh kerajaan juga. Akan ada unintended consequences ke atau?
 
-[2:22:05] Pergi selepas Anwar Ibrahim dan letakkan dia di penjara seperti yang saya lakukan sebelum ini.
 
-[2:22:12] How I have chased Muhyiddin Yassin or whatever. So if there is a new prime minister, he must think actually, it's true, it's useful, Hazan Baki, because he knows everything. He has files of everyone. So for me to kill my opponent, I better keep him. So he doesn't have to care. So YB has shared YB's influence. What is it? Now.
 
-[2:22:35] Tak, inference tu lain. Tak maksudnya, nasihat kepada Anwar Ibrahim, kalau dia hilang kawalan daripada skrip-skripnya sehingga Belanda macam mengejar James Chin ini berulang kembali,
+[57:33] Rafizi Ramli: Bukan ada unintended consequences lah, kita tahulah intended consequence yang kita nak daripada itu. Jadi saya sebenarnya kecewalah kan, saya cuba cari apa perkataan yang sesuai untuk menggambarkan perkembangan mengenai RUU pemisahan peranan AG dengan Pendakwa Raya ni kan. Kerana isunya itu jelas dan isu itu bukan sahaja kami pandai-pandai sebut. Isu itu juga adalah isu-isu yang dibawa oleh civil society, pertubuhan-pertubuhan bukan kerajaan, oleh masyarakat dan dalam pertubuhan bukan kerajaan itu bukannya semua kumpulan yang Anwar Ibrahim suka kata liberal liberal liberal ni. Termasuklah ABIM di dalam itu, termasuklah IKRAM, termasuk pertubuhan-pertubuhan Islam tahu yang kami sepakat mengatakan bahawa kalau kita teruskan dengan draf yang sedia ada, dia akan mengulangi kesilapan yang sama. Kita mewujudkan seorang yang sangat berkuasa yang tidak bertanggungjawab dan tidak boleh dikawalselia kan. Jadi isu itu jelas. Walau apa pun pusing kona kiri kanan yang Datuk Seri Azalina bagilah, macam-macamlah dia bagi alasan tu kan. Jadi saya menilai daripada ucapan Datuk Seri Azalina sendiri kerana itu pendirian dia dan juga pendirian kerajaan. Kemudian saya menilai kepada keputusan Kabinet untuk merujuk kepada satu Jawatankuasa Khas Pilihan yang baru, sedangkan Jawatankuasa Khas Parlimen sedia ada tu memang itu tugasnya. Bezanya Jawatankuasa Khas Parlimen Hak Asasi Manusia, Pilihan Raya dan juga Reformasi Institusi, dia panggil HAPRI. Hak Asasi, Pilihan Raya, Reformasi HAPRI kan. Di dalam itu ada orang seperti YB Rodziah yang terdiri daripada 10 orang itu. Jawatankuasa HAPRI juga telah membuat keputusan sebelum ini bersetuju supaya elemen Parlimen mesti dibawa masuk. Jadi caranya ialah maksudnya bagi saya agak nakallah dan tidak ikhlaslah. Bila kamu dah tahu proses yang sepatutnya ialah bawa balik kepada Jawatankuasa Khas HAPRI yang dipengerusikan oleh YB William, memang ada perbezaan ni. Kerajaan langsung tak nak bagi kepada Parlimen. Sebab kalau ikut jawapan Datuk Seri Azalina itu, kuasa melantik itu kuasa eksekutif. Parlimen, kamu dah bagi kuasa itu kepada eksekutif, kamu jangan cuba-cuba campur tangan. Itu pendirian kerajaan sekarang tu yang yang yang disampaikan. Maksudnya kuasa nak lantik siapa-siapalah. Kami yang jadi Menteri, kami Jemaah Menteri, kami kerajaan, maka semua kuasa mentadbir terutamanya yang melantik itu kuasa kami, bukan kuasa Parlimen. Jadi kalau proses lantikan dan proses pemecatan itu ada kawalselia daripada Parlimen, jawapan Datuk Seri Azalina hari tu ialah ini sudah pun melanggar semangat pemisahan kuasa kerana kamu dah ambil kuasa kami. Saya rasa macam benda itu boleh diguna pakai dengan lebih sesuai di negara-negara yang ada sistem presiden. Sistem presiden itu jawatan cabang eksekutif memang dipilih secara berasingan oleh rakyat. Maka dia ada mandat sendiri tahu. Presiden Prabowo dia ada mandat dia sendiri, Presiden Trump ada mandat dia sendiri. Cuma kuasa dia itu diimbangkan dengan satu lagi mandat semak imbang yang diberikan kepada Parlimen contohnya kan. Tapi kalau dalam sistem Westminster ini kan, punca segala mandat adalah Parlimen. Satu-satunya pilihan raya yang ada ialah Parlimen. Kalau parti UMNO atau PH ataupun ahli-ahli Parlimen yang bukan menteri ini tidak ada atau tidak menang, maka Datuk Seri Azalina tak jadi menteri pun. Kan? Tapi tiba-tiba bila dah jadi menteri ni, "Ha ini kuasa kami! Parlimen jangan campur langsung!" kan. Dan dia bukan soal perebutan kuasa pun, dia soal macam mana untuk kita mengikat seorang yang cukup berkuasa seperti Pendakwa Raya kembali kepada kuasa rakyat. Kalau contohnya kuasa rakyat di Malaysia ini dizahirkan melalui pilihan raya yang memilih Perdana Menteri, then okeylah. Then tak ada orang nak campur, tak adalah Parlimen nak campur kerana kita tahu kalau Pendakwa Raya itu tak buat kerja dengan betul ataupun tidak mengikut peraturan ataupun tak perform ataupun korap, then kita boleh remove dia dengan remove Perdana Menteri. Tapi di Malaysia masalahnya ataupun keadaannya, kuasa rakyat itu dizahirkan melalui satu-satunya jalan iaitu Parlimen. Jadi untuk kita mengikat kebertanggungjawaban Pendakwa Raya dengan rakyat, mestilah melalui Parlimen kan. Tapi jawapan dan ucapan yang dibuat oleh Datuk Seri Azalina itu cukup jelaslah bahawa dia menentang sepenuhnya perkara itulah. Dia tak sembunyi-sembunyilah, memang terus-terang hari tu. Saya saya ingat kut-kutlah dia cubalah juga beri gambaran yang dia akan kerajaan akan pertimbang, cari jalan semua kan, tapi tak adalah. Jadi tambah lagi luka ialah yang sepatutnya dirujuk kepada Jawatankuasa Pilihan Khas sedia ada yang pandangan mereka itu nampak lebih selari dengan pandangan kami yang 10 ini, untuk mengelakkan daripada kena bentang kat situ, dia tubuh sendiri Jawatankuasa Pilihan Khas yang baru yang mana dia sendiri, eksekutif jadi pengerusi. Jawatankuasa Pilihan Khas ni sepatutnya ahli-ahli Parlimen, cabang Parlimen. Kalau tidak, tak payahlah panggil Jawatankuasa Pilihan Khas Parlimen, panggil saja Jawatankuasa Azalina. Kan, senang. Tak ada orang nak complain pun. Kalau panggil Jawatankuasa Azalina, kemudian panggillah siapa-siapa menteri, kamu buatlah kan kan. Jangan cuba heret nama dan tunggang nama Parlimen atas jawatankuasa kamu kan. Tapi tak bolehlah kerana kalau jadi macam itu orang akan kata, "Eh tapi tak bawa ke Parlimen ni." Kerana semangatnya dan janji PH sendiri pun, rang undang-undang mesti dirujuk kepada Jawatankuasa Khas Parlimen. Dia pun pandai-pandai buat Jawatankuasa Khas Parlimen yang dia sendiri chair. You semak semua Jawatankuasa Parlimen sedia ada, rasanya ada 10 kan sekarang kan? Mana Jawatankuasa Parlimen yang menteri pengerusikan?
 
-[2:22:52] Azam Baki is not losing anything. The one who is losing is Anwar Ibrahim. Because the one who gets beaten, the one who gets beaten, the one who loses the vote is Anwar Ibrahim. Even if Anwar Ibrahim loses the election, Azam Baki has a choice. Anwar Ibrahim has no choice. Azam Baki can be of greater service to Anwar's enemy who becomes the next Prime Minister. So that's why I don't understand, that maybe we can try to make an inference Because logically, Anwar Ibrahim should have cut the life line with Azam Baki for a long time.
 
-[2:23:34] James's case proves that if two or three months ago we said he was the number one liability, Anwar Ibrahim, now he is not just a liability, he is actually a blunders, after blunders that he did, Anwar Ibrahim was held accountable.
 
-[2:23:54] YB ada beberapa lagi senarai soalan Mungkin antaranya adalah Yelah YB cakap tentang blog WhatsApp Ladi semua Pengkritik-pengkritik Atau chapter cakap Alah ini siasatan je Kenapa tak nak bagi kerjasama Hmm
+[65:11] Nazri: Tak ada.
 
-[2:24:11] Dia kembali kepada... Hmm...
 
-[2:24:16] kewarasan terutamanya mereka yang telah melihat skrip inilah Deja Vu
 
-[2:24:24] Ini...
+[65:12] Rafizi Ramli: Tak pernah berlakulah. Mana ada select committee di UK ke, apa nama ni Congressional Committee ke, Senate Committee dekat US ke yang mana menteri ataupun Secretary of State yang chair committee itu, select committee. Tujuan dia dipanggil select committee ialah supaya ahli-ahli Parlimen boleh panggil dan soal menteri. Supaya menteri faham bahawa mereka juga masih lagi bertanggungjawab kepada Parlimen. Dan saya bila saya nak bawa akta masa saya menteri dulu kan, akta-akta baru yang nak bawa, memang saya kena pergi mengadap dan bentangkan dan yakinkan jawatankuasa-jawatankuasa Parlimen. Tak timbullah soal aku lagi senior daripada engkau, aku menteri, kau siapa semua. Itu kuasa mereka, bukan batang tubuh orang yang ada dekat situ. Kita kena hormati fungsi jawatankuasa pilihan yang ada. Tapi jawatankuasa pilihan yang diumumkan hari tu memang tak pernah adalah kut, tiba-tiba pengerusinya ialah menteri sendiri. Dan bila kita tengok satu-satunya ahli Parlimen daripada PKR yang ada ialah William Leong. Sedangkan ahli PKR kalau nak banding dengan UMNO lah, sebenarnya ahli Parlimen PKR lagi ramai daripada UMNO sebenarnya kan. Tapi tak adalah kan, hanya William kerana ahli PKR yang ahli Parlimen PKR yang lain yang kanan, semuanya berpandangan macam kami. Yang menduduki sepatutnya kalau ada seorang lagi sepatutnya ahli Parlimen daripada PKR dalam jawatankuasa itu, sepatutnya YB Rodziahlah kerana dia juga berada di dalam jawatankuasa yang samalah. Maksudnya Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi kan. Tapi tak adalah. Jadi kita boleh tengoklah semua itu begitu sanitized lah. Dan jadi saya akan tunggu bila mereka kembali, tapi Datuk Seri Azalina, Datuk Seri Anwar, kerajaan kena ingat satu bendalah. Mereka memerlukan 148, sekarang ni ada 153 kan. Kalau pun enam orang daripada kami tetap tidak bersetuju, akhirnya sama ada rang undang-undang itu dapat diluluskan ataupun tidak, mestilah bergantung kepada 10 orang ahli Parlimen PKR ini. Kerana PN, Perikatan Nasional tak berminat. Dia berminat untuk tunjuk ha jari sana, jari bawah, jari atas, itu aje dia berminat kan. Dia tak berminat benda-benda rumit macam ini kan. Jadi kami selagi tidak diyakinkan bahawa draf yang baru itu memberi kawalselia kepada Parlimen, bukannya kita minta kawalselia 100%, kita minta supaya ada talian di antara Pendakwa Raya dengan kuasa rakyat, dan kuasa rakyat itu dizahirkan dengan ahli Parlimen. Kecuali draf itu nanti boleh membuktikan ada cara lain untuk mengikat Pendakwa Raya dengan kuasa rakyat, then I'm open kan. But otherwise, you pusing ikut macam mana pun, kalau tak dapat yang 10 orang ini, maka memang tak dapatlah angka. Hari tu tak cukup dua, silap-silap hari lepas ni tak cukup 13 kan. Jadi saya pun tak faham pendekatan yang diambil oleh kerajaan hari tu. Kenapa perlu begitu kombatif dan kenapa perlu begitu negatif dengan pandangan yang kami bagi? Pandangan itu banyak juga dikongsi oleh rakyat. Jadi dan sepatutnya mereka tahulah, walau macam mana pun kita perlu yakinkan untuk dapatkan undi 10 orang ini. Jadi bekerjasamalah sedikit, terbukalah sedikit. Janganlah duk sibuk sangat tunjuk aku menteri, engkau bukan menteri. Gaya macam itu yang akhirnya bungkus semua pilihan rayanya. RUU pun tak dapat, pilihan raya pun bungkus kan. Jadi saya kita akan tengoklah sidang yang akan datang bulan Jun sama ada mereka berjaya ataupun tidak. Dan kalau mereka rasa dengan hanya ada YB William Leong itu akan berjaya mengubah keadaan, mereka tak faham dinamik ahli Parlimen PKR lah. Kerana yang 10 orang ni yang kanan. Jadi bukannya YB William boleh suka-suka aje paksa kami. Anwar Ibrahim pun tak boleh paksa kami, apatah lagi William Leong kan. Jadi akhirnya mereka perlu memikirkan bagaimana jalan terbaik untuk membaiki draf itu supaya ada pertalian pertanggungjawaban di antara Pendakwa Raya dengan rakyat dan setakat ini saya tak nampak jalan lain kecuali melalui Parlimen.
 
-[2:24:27] Bila Ceplos-ceplos ni Bagi komen-komen Macam tu kan
 
-[2:24:32] Dia makin menguatkan lah
 
-[2:24:36] the belief that they are not the original PKR people. The original PKR people don't say that. That's usually the answer to the question, no, that's it. Because the original PKR people, they have a long memory, as long as the reformation era. So we go back to what I mentioned earlier,
+[70:21] Farhan: Ada ada orang yang mengatakan, I mean the reaction lah macam tiba-tiba decide nak bawa ke jawatankuasa pula kan. Ada yang mengatakan ini reaction government selepas kalah tak cukup 2/3.
 
-[2:25:02] To determine whether something has a hidden intention, whether there is a strange script or not, we compare the facts that we have just discussed. The first fact is, is this really a money theft? Where is the proof of money theft? And it should be,
 
-[2:25:26] Pihak berkuasa seperti SPRM Kalaupun ada orang buat laporan Ada orang buat tuduhan
 
-[2:25:35] Dan bila dia tengok sebenarnya tak ada kecurian wang pun. Jadi laporan itu tak perlu diambil.
+[70:36] Rafizi Ramli: Eh tak tak tak tak tak. Memang kami dah tahu daripada minggu lepas. Daripada minggu sebelum itu pun, kita dah tahu.
 
-[2:25:43] peduli dan tak ada siasatan lah. Sama macam Anwar Ibrahim bela Azam Baki lah. Bila rakyat tanya, wartawan tanya, kenapa tiada siasatan terhadap Azam Baki RCI pasal mafia, korporat mafia tu kan. Jawapan dia ialah kita hanya siasat perkara-perkara yang ada asas. Kalau tidak kita tak boleh nak siasat semua. Betul lah jawapan tu. Kena ada asas. aplikasinya terbalik
 
-[2:26:15] Yang tuduhan terhadap Azam Baki itu banyak asas, banyak faktanya tapi dia tak nak siasat. Yang tuduhan dan laporan mengenai arm ini memang tak ada asas. Memang tak ada wang kecurian, memang dari segi prosedur semua diluluskan dan semua ada resip. Anwar Ibrahim jumpa arm, Anwar Ibrahim sengih sana, Anwar Ibrahim di sini, Zafrul di sana, Rasmi di sini kan. Izzah di sana, tunjuk semua ada kan. Jadi secara warasnya maksudnya laporan itu dan tuduhan itu tidak ada asas. Dan secara warasnya tak diambil peduli pun. Tetapi, tetapi bila dia dijadikan isu paling besar dalam negara ini dari segi rasuah, kes rasuah, inilah kes rasuah paling besar dalam negara sekarang yang melibatkan aku ni. Yang mengalahkan semua kan.
 
-[2:27:14] So, of course, people who are sane say that this is a political game. And the political game, we know that the SPRM record also has its history. Teo Benghok died. Sarah Bani died in 2011. Pamela.
+[70:42] Farhan: So memang decision government adalah untuk set up?
 
-[2:27:33] Pamela. Pamela Ling, in her journey to be questioned by the SPRM, she's been missing until now, we don't know. So, the records, if these chaplos were at James' place, and these chaplos were in a hurry, the problem is they're not in a hurry, right? They already understand that this matter needs to be taken care of because James is only
 
-[2:28:00] sebiji bola yang akan ditendang-tendang demi untuk merosakkan nama aku ataupun lebih besar demi untuk mendakwa aku. Jadi, bukanlah James takkan apa nama ni. Saya pastilah James pun tak bodoh. Dia kerja dekat Cambridge. Chaploss tak fahamlah Cambridge duduk kat mana. Mungkin dia ingat Cambridge tu dekat Kuala Selangor kot. Sekejap je kot. Cambridge ni jauh. Dia kerja. Bukannya dia boleh balik Kecuali nak buat online lah Tapi online Saya tak rasa SPRM akan bersetuju Nak buat online ke apa kan Kecuali Kalau dah SPRM susah payah sangat Pergi je lah kat Cambridge Show Interview Dapat cuti sekali Pergilah kat Cambridge Show Tanya James semua kan Tapi dia tak nak Dia nak suruh James balik Semua kan Jadi James kerja Kan Jadi semua ini Perlukan Penyelarasan Dan James pun ada hak dia.
 
-[2:29:02] So I'm sure that this will be handed over to James' lawyer later on how he wants to deal with the SPRM. So there's no question of why he's afraid if there's nothing. If that's the case, if the verse is used against Anwar Ibrahim in 1998,
+[70:44] Rafizi Ramli: Dan memang sebab menjelang hari Khamis dia apa nama ni bacaan kali kedua bermula hari Isnin kan. Undian hari Selasa. Menjelang hari Khamis, Jawatankuasa Pilihan Khas Hak Asasi, Pilihan Raya dan Reformasi Institusi memang telah sebulat suara buat keputusan meminta kerajaan untuk merujuk perkara ini kembali kepada Jawatankuasa Pilihan Khas. Jadi memang kami dah tahu daripada hari Khamis, mustahil mereka boleh mengundi dan kalau mereka mengundi akan kalah. Jadi satu-satunya jalan yang kerajaan boleh buat ialah dengan cara mengusulkan untuk dia merujuk kepada Jawatankuasa Pilihan Khas. Cuma surprise yang kami dapat ialah Jawatankuasa Pilihan Khas itu benda yang dibuat sendiri, bukan Jawatankuasa Pilihan Khas seperti yang ada di Parlimen.
 
-[2:29:26] Anwar Ibrahim, bila dia kena pecat dan dituduh liwat, dia seret seluruh rakyat Malaysia ni demo untuk jatuhkan kerajaan.
 
-[2:29:34] The words of the UMNO people at that time were like that. Why are you afraid if you don't do it? Right? That's why I never... That's why I said, if you're a PKI person, there are words that you won't use. Because those things will remind you how when you fought before, those words were used and used. For example,
 
-[2:30:01] Ayat-ayat yang macam Ceplos Duk Duk panggil sotong Semua ayat-ayat lucah Semua ni kan Pondan semua ni Orang PKR tak pakai Orang
+[71:46] Nazri: Dan kalau YB ingat, Datuk Takiyuddin berdiri dan kata dia setuju dengan jawatankuasa tu.
 
-[2:30:09] Kerana itu ialah ayat-ayat yang digunakan terhadap Anwar Ibrahim. Soal liwat, pondan, sotong semua ni digunakan terhadap Anwar Ibrahim. Jadi nampak sangat dia orang ni bukan orang asal PKR tau kan. Jadi bukanlah soal James tak berani ke kalau takut kenapa tak datang. Kita sedia maklum bahawa ini adalah satu kerangka skrip politik. ialah seseorang yang boleh ditekan untuk
 
-[2:30:43] cuba jadi bukti pendawaan terhadap aku. Walaupun pendawaan itu ialah pendawaan bodoh lah kerana dia langsung tidak melibatkan wang. Tapi kalau tengok kenyataan Azam Baki awal-awal masa kes ini keluar kan bila wartawan tanya kan. Azam Baki ni pun dia kena pergi kelas politik dan nasihat saya kepada dia, dia patutnya kurang bagi sidang media. Sebab dia tak pandai buat sidang media. yang terlepas cakap
 
-[2:31:15] Dia contradict himself Kalau dalam kes James ni Contohnya dia contradict Mula dia kata sebagai saksi Kemudian sebagai tertuduh Dalam tempoh beberapa minit je Yang awal-awal pasal arm ni
+[71:52] Rafizi Ramli: Dia memang dia orang mana yang boleh ditunggang untuk kredit, dia dia tunggang kan. Tengoklah nanti, saya tak rasa Takiyuddin akan bermati-matian mempertahankan soal kawalselia Parlimen. Draf itu nanti bila keluar dan saya tak nampaklah kerajaan akan cuba untuk bawa masuk peranan Parlimen dalam kawalselia Pendakwa Raya ni. Besar kemungkinan apa yang mereka akan buat, mereka akan buat satu jawatankuasa bebas ala-ala ombudsman. Kononnya. Macam yang ada SPRM sekarang ni. Kalau tanya kerajaan kan, kerajaan akan kata, "Oh kita sebenarnya sudah ada lima jawatankuasa bebas yang mengawalselia SPRM." Bebas apa, cuba kau tengok apa yang berlaku sekarang kan. So mereka akan buat kaedah yang sama. Dia akan kata kita akan buat satu jawatankuasa bebas yang akan mengawalselia Pendakwa Raya. Tapi yang melantik jawatankuasa bebas itu yalah Perdana Menteri, geng-geng yang berada di Putrajaya jugalah. Dan akhirnya seperti yang kita pernah bincang dalam podcast-podcast lepas, apabila kuasa itu dipusatkan di dalam tangan beberapa orang sahaja dan mereka tidak bertanggungjawab kepada rakyat, mereka bertanggungjawab kepada mereka yang melantik, akhirnya dia akan berlegarlah. And therefore, when power is concentrated in a few hands, it corrupts kan. Jadi dan saya rasa, saya bacaan saya setakat ini, Takiyuddin akan setuju. Sebab PN pun sampai kesudah tidak sangat bermati-matian menegaskan tentang keperluan membawa masuk Parlimen. Dia dia akan cuba tengok kalau jadi ikut mana pun, Takiyuddin akan cuba masuk untuk ambil kreditlah. Lagipun sekarang ni dia sedang cuba melobi untuk jadi Ketua Pembangkang ni. Dia kan salah seorang calon Ketua Pembangkang daripada dia kena tunjuk dia function lah.
 
-[2:31:29] antara kenyataan media dia yang dia awal dia actually he wear his plan on his sleeve tau sebab dia awal-awal lagi kata SPRM ni bukan sahaja menyiasat mengenai rasuah yang melibatkan wang
 
-[2:31:44] Kami juga bertanggungjawab menyiasat salah guna kuasa.
 
-[2:31:49] Meaning, in the beginning, he knew that he had nothing to do with money. His best chance to claim and bury me in prison was to violate the process. And violating the process, even though it had nothing to do with money, for them, it was, hmm, I'm sorry, that was a mistake, you have, that's a crime, because you violated the process, you can be claimed. The problem is, they needed James to give
+[74:01] Nazri: Okey baik. Kita tunggulah bulan enam kalau ada lagi Parlimen.
 
-[2:32:18] the explanation and evidence to claim that I asked James to lie there, to hide this and that is a mistake because it has misled the cabinet. And I think Azam Baki has given the plan earlier, the reading.
 
-[2:32:38] Kalau kita jadi James... Hak James lah untuk begitu berhati-hati untuk memastikan perkara ini tak berlaku lah.
 
-[2:32:47] Wabi, 2 and a half hours, but I have 3 more questions. Okay. I have one too. Okay. First, about RM1.1 billion. Maybe there will be critics who say, oh, actually we can do it in another way to build our silicon ecosystem. Why pay to companies from abroad? We can build universities and so on. And maybe the cost is...
+[74:05] Rafizi Ramli: Tapi yang yang gagal ni yang yang PN dak tu, yang itu tak payah komenlah, semua orang dah tahu.
 
-[2:33:10] I don't know, maybe it's cheaper. There's no cost for a university to be cheaper. Maybe. I mean, there's an alternative. If he says maybe, he's stupid. Because the cost of a university is billions. And... There are other alternatives. What other alternatives? Try to ask, what other alternatives? For example, courses. It's like stupid, but I think... You know that it's stupid, right? So what's his answer? Give courses.
 
-[2:33:39] Dia susah sebenarnya Sebab saya percaya memang betul lah Dengan cara ni Bila ada art ni Kita buat asli design kita sendiri Yelah tak tak tak Yang kata alternatif lain tu Maka jawapannya Tanya dia balik Apa alternatif lain
 
-[2:33:52] huh
+[74:11] Nazri: Itu standard dia oranglah YB eh?
 
-[2:33:53] Dia kantor ya? Dia akan kata, oh kita bagi latihan lah. Oh latihan eh. So berapa puluh tahun dah kita melatih? Mana ada? So apa nama ni kita bina pemindahan teknologi? Cuba beritahu macam mana kita dah daripada 1972 ada industri semiconductor. Berapa banyak IP yang telah dipindahkan? So lama-lama dia jam lah. Jadi. Itu dua soalan lagi. Jadi, kau macam mana nak jawab? Saya plus lah. Oh. Tapi sebenarnya, kadang-kadang tak payah layan pun sebab
 
-[2:34:30] Hmm, your brain cells will die. Okay, okay. Respond from Am, a lot of people ask why when there are so many people, but we are waiting for the answer, the response from Am as well. Maybe what is YB's perspective on the question of ordinary people who feel like they want to know about it?
 
-[2:34:51] Keadaan ini meletakkan arm dalam keadaan yang susah. Dia dah ada perjanjian dengan kerajaan Malaysia. Dan dia ada komitmen selama 10 tahun untuk membangunkan industri front-end semikonduktor sepenuhnya di Malaysia.
+[74:14] Rafizi Ramli: Tak adalah, bukan saja tu, maksudnya kegagalan kerajaan mendapatkan undi terbabas dua tu kerana itu memang sepatutnya boleh diluluskan dengan mudah.
 
-[2:35:08] Kemudian dia dah mula mobilize dan bawa pelaburan dekat sini. Maksudnya dia dah mula buka pejabat, dia dah mula bawa engineer-engineer dia ke sini kan. Dia dah mula juga adakan kerjasama dengan universiti dan ada banyak different-different facets of the development yang dia buat kan.
 
-[2:35:29] Erm...
 
-[2:35:31] Oleh itu, dia ada komitmen dengan negara Malaysia yang perlu dikendalikan dengan kerajaan. Kerajaan itu ialah...
+[74:29] Nazri: Ya ya ya.
 
-[2:35:43] Hanwa Ibrahim, now if it's at the Ministry of Economy, it's Akmal. If it's at MITI, it's Jorigani. So, they are aware, for example, that this armed issue has been dragged into a political weapon to kill a person named Rafiq Siramli. So, they can't mix it up. They can't, for example, say,
 
-[2:36:10] Oh sebenarnya tak Tak macam tu Dia tak boleh Jadi sebab itu juga Sepatutnya lah
 
-[2:36:18] Kalau...
+[74:30] Rafizi Ramli: Sebab kami bersetuju dan semua orang bersetujulah kan. PN saja yang seperti biasa kerja dia membangkang kan. Tapi maksudnya ada beberapa kelemahanlah yang macam mana benda itu boleh berlaku sampai dan dia kembali kepada yang saya sebut tadilah. Awal-awal tadi kan yang masa ber-ia kan. Atas kertas Datuk Seri Anwar nampak gah kerana ada 153 menyokong, 2/3 kan. Tapi hakikatnya kawalan yang beliau ada semakin longgar. Dalam PKR longgar, sekarang ini dia dah sampai ke dalam PH kerana DAP pun ambil pandangan yang berbeza kan. Lebih-lebih lagi kepada yang bebas-bebas yang kecil ni. Dalam UMNO pun tidak semuanya menyokong 100%, dalam BN kan. Kemudian kita ada pula yang Sabah contohnya Jeffrey Kitingan yang bebas dan sebagainya kan. Jadi untuk undi biasa tak ada masalah, tapi untuk perkara-perkara yang melibatkan 2/3 pindaan Perlembagaan, itu akan jadi cabaran besar kepada Datuk Seri Anwar Ibrahimlah. Dan itu jadi tamparan kerana di awal tahun 2026, beliau sendiri yang umumkan kononnya tahun 2026 ini akan jadi tahun reformasi. Jadi kalau dia tak boleh nak pinda Perlembagaan dan benda yang paling mudah seperti had tempoh PM pun gagal, sama ada atas kecuaian sendiri ataupun kerana beliau ambil mudah. Saya rasa dia ambil mudah.
 
-[2:36:19] SPRM Azam Baki ni betul-betul jujur lah nak siasat apa nama ni hmm
 
-[2:36:29] Am ni kan, saya boleh hajar mereka cara yang mudah lah tanpa buat drama, tanpa kejar anak Cina Keding ni kan. So contohnya pertama, antara kumpulan pertama dia perlu ambil kenyataan dan siasat ialah Am lah. Dan mereka boleh bekerjasama dengan Bank Negara untuk siasat aliran wang. orang yang tertuduh baik aku ataupun Jim
 
-[2:37:02] Check my bank account, check James' bank account. Then look at the property owner. Is there a property owner who suddenly went up the ladder? James' personal car. I rented it until now. There is no new property in the past year. So,
+[76:14] Nazri: Ambil mudah?
 
-[2:37:25] Itu dengan mudah Amah akan bagi kerjasama lah Semak lah semua Dan Daripada situ Kalau dah memang tak ada Haa
 
-[2:37:34] proof of money flow, it should end there. But in the current situation, the arm cannot be mixed. But for example, if this matter reaches the court, they make a decision to... Because he is actually an ego. People who have power, like Azam Baki, Anwar, or whatever, his view is,
 
-[2:38:00] Aku akan ajar dia Kau tak tahu tau Di koridor of power
+[76:14] Rafizi Ramli: Saya rasa dia ambil mudah. Saya rasa dia sangat yakin yang bahawa dia dalam kawalan, semua dalam kawalan dia. Semua orang suka kat dia. Dan yalah ada beberapa komen yang selalu disebutlah. Orang mungkin marah dan tak percaya. Datuk Seri Anwar, sebab dia jadi menteri daripada umur yang muda, 34-35, dia perancangan dia tu selalunya tidak begitu detail. Kerana dia bergantung kepada orang-orang kanan dia untuk buat kerja, untuk buat semua. Dia tahu benda tu jalan, ha itu stail dialah. Dia tahu benda tu jalan kan. Jadi saya ingat dia memang ambil mudah kerana dia ingat benda ni semua telah diselesaikan oleh Datuk Seri Fadillah ke, oleh Zaleha ke, ni semua kan. Kalau saya jadi dialah, terutamanya selepas gagal mendapat dua undi tu kan, saya kena semak balik bahawa saya tak boleh ambil mudah seorang pun. Kalau kerana kalau prestasi beliau sebagai Perdana Menteri bergantung kepada reformasi institusi dan banyak reformasi institusi memerlukan pindaan 2/3 Parlimen, maka sebenarnya dia nak kena jaga setiap seorang. Kerana dua tiga orang saja bolos, dia terbabas kan. Jadi dan kalau beliau masih merasakan beliau ada kawalan dan itu sesuatu yang sepatutnya penasihat-penasihat di sekeliling dia tu kena betul-betul fikirlah. Tapi sekarang tak apalah, dia ada penasihat terhebat. Apa nama, penasihat kanan politik.
 
-[2:38:06] This sentence teach him a lesson ni benda biasa yang disebut.
 
-[2:38:12] Teach him a lesson.
 
-[2:38:13] because he thought the boy was very brave. We taught him. So, that's the mentality of a powerful person, whether it's a powerful party, enforcement agency, you know, agencies like SPRM, police. We taught him things that are very common in their mentality. We taught him among the big politicians, the prime minister, all of them. Everything is like that. So, he actually,
+[77:54] Nazri: Penasihat kanan politik.
 
-[2:38:42] Dia hanya nak settle score itu. Nak ajar. Jadi, kalau dia dakwa juga. Walaupun tak ada bukti. Kalau benda itu nampak bodoh sangat. Dia nak dakwa juga kan. Dan itu terpulang kepada saya lah. Untuk saya, Sapina Am. Maka Am akan kena Sapina lah. Sama ada Am nak teruskan ketidak perjanjian itu semua. Kesannya kepada kerajaan dan negara. kes mahkamah. Kerana bila dia dah jadi kes mahkamah, bila saya sapina arm untuk jadi saksi dan grill arm semua dan benda ini jadi rekod mahkamah, apa kesannya kepada arm di peringkat antarabangsa, yang itu semua kita tak boleh nak kata. Jadi, masing-masing ada hak. Hak mereka kalau mereka nak selesaikan ego mereka dan kejar dan dakwa, itu terpulang. Aku dah berapa kali kena dakwa, biasa. Tapi hak...
 
-[2:39:42] Saya juga ialah bila kena dakwa, saya sapina habislah daripada Anwar Ibrahim, daripada Zamri Qadir, daripada Gobind Singh, daripada Fahmi Fadil, kepada Tengku Zafrul, kepada KSU dia. Habis semua. Kepada Am tak Am, habis aku akan sapina kan. Dan Am ini ialah syarikat monopoli dunia. Apa-apa Am masuk mahkamah jadi cerita macam ni, dia akan sekali lagi menjadi cerita antarabangsa lah. mungkin terakhir dan boleh collab dengan Farhan sekali berkaitan dengan kesan sokongan isu ini juga sebab mungkin ada soft spot sikit khususnya kepada komuniti China sebab penceritaan dia tu ialah seorang yang dapat straight A tapi bayar sendiri bukan straight A straight A1 zaman dia A1 lagi dia 12A1 dan kemudian kena bayar duit untuk belajar sendiri dan memilih untuk serve kepada negara tapi akhirnya diperlakukan seperti ini. Sebab itu kalau kita tengok, ahli-ahli parlimen DAP pun ramai yang galak mengeluarkan sokongan. Mungkin kesan, apa ini, kesokongan daripada isu ini. Kalau Fahad nak tambah juga. Okay, so saya nak tambah sikit lah. Lagi satu yang saya dapat ini,
 
-[2:41:03] The reaction that my friends gave personally to me. I have a lot of friends who are overseas, a lot of people who are still here but planning to go overseas. So, the consensus in the group was like... The one who returned to Malaysia? They said, the one who is abroad in Malaysia, I said, who asked you to sit there? Things like this can happen again. You think what, reformation is real or what? Emigrate.
+[77:55] Rafizi Ramli: Tengku Zafrul yang paling hebat ironinya kerana dia tak pernah menang pilihan raya. Macam mana dia nak menasihati politik tu bila tak pernah menang pilihan raya kan.
 
-[2:41:26] In Malaysia, it's like, actually it's true, we don't have any hope, so we'll go out. So, when they see a talent in Malaysia, who sacrificed and worked for the country with patriotism, it's also like this.
 
-[2:41:49] I think ramai daripada yang kita sebab pasal Gen Z dan Millenial last week kan, ramai daripada golongan Millenial dan Gen Z sekarang pun dah start mula maybe, I don't know whether this is the right word, tapi disenfranchise dengan this whole patriotism punya feeling. More and more people, especially my generation, yang merasakan, buat apa aku stay on? I mean, even people close to me are already saying that. Merisai ni untuk Azam Baki. Untuk Azam Baki. Even people who are close to me are saying that,
 
-[2:42:20] Mungkin hidup lebih baik di luar negara
+[78:05] Nazri: Kita tunggulah YB.
 
-[2:42:24] Kita tak boleh nak Tentukan terus sekarang lah Tahap sokongan semua ni kan Dan
 
-[2:42:31] Even if there is a correlation, for example, there is a drop in support in a month to the government, correlation is not necessarily causation and it is not necessarily due to this issue. So the best data we have so far is to look at the reaction on social media.
 
-[2:42:54] Dan reaksi itu teruk lah. Reaksi di media dan media sosial, komen dan juga...
+[78:06] Rafizi Ramli: Kita tunggu.
 
-[2:43:03] Maksudnya... Isu ini sangat emotif...
 
-[2:43:07] terutamanya kepada Gen Z dan kumpulan-kumpulan pengundi yang secara tradisinya mengundi PH bukan Melayu, kumpulan bandar, kumpulan terpelajar kerana
 
-[2:43:21] Mereka boleh relate dengan perkara itu. Kumpulan yang banyak menyokong reformasi ini dulu-dulu, kalau yang Melayunya, inilah kumpulan terpelajar, kumpulan profesional. Kumpulan yang 20-30 tahun lepas berada di tempat yang sama seperti James. Dia membuat pilihan untuk...
+[78:07] Nazri: Okey YB, kita tunggulah bulan enam nanti apa akan jadi kalau ada lagi Parlimen. Kita akan ulas juga kat tu nanti. Tapi kita mempersilakanlah tetamu tetap kita yang dah lama menunggu. Kali ini Tan Sri Azam Baki bersama Datuk Seri Anwar Ibrahim. Kenapa mata dia tak merah kali ini?
 
-[2:43:42] to stand up and be counter. Mereka ada pilihan yang tak payah ambil peduli pasal semua ni. Kita kerja kan dah cantik, pakai lenyap bagus-bagus, gaji besar, semakin why bother. So,
 
-[2:43:56] But there were a few ones that I think it's my moral duty to do something. So when it happens like this, one of the old ones can relate because they could have felt the same way seeing the disappointment that is happening now with the reformation. The young ones can relate because of age, because of aspirations, everything. So,
 
-[2:44:23] I wouldn't be so bold to say lah. Sebab perkara ini orang nak migrate ke undi jatuh. I think that one tu kita kena tengok lah. Tetapi...
+[78:28] Rafizi Ramli: Ini gambar lama.
 
-[2:44:37] In every big political change, it requires an emotive story. And that emotive story usually involves the youngest. If you look at the Arab Spring of 2010,
 
-[2:45:01] Dia bermula di mana?
 
-[2:45:06] Feels like so long ago Dia bermula di mana Yang budak tu tengah jual Lepas tu kena Bakar
+[78:28] Nazri: Oh gambar lama. Bagus Pak An, dia menjaga sensitiviti.
 
-[2:45:14] Libya? No. No, it's not Libya. Where? Qatar. No, there's no Qatar. Bahrain. Algeria. Algeria, sorry. He started in Algeria because he was a poor boy. Finally, he burned himself. His name was Muhammad Abu Azizi. That was 2010.
 
-[2:45:32] So, I mean, who is Muhammad Abu Azizi? He's just a poor kid somewhere, right?
 
-[2:45:39] Tapi tindakan dia membakar diri dia for all his frustration semua fired up the whole region.
+[78:33] Rafizi Ramli: Sebelum cerita saham keluarlah. Selepas cerita saham keluar ni, dia kurang tidur sikit.
 
-[2:45:46] Sebab orang boleh relate tau dengan kepayahan ni after all dia kerja paling banyak dia dapat pun 2-3 keping roti je pun itu pun dia tak dapat kan.
 
-[2:45:58] So, the effect of SPRM chasing James, he didn't reach the level of Muhammad Abu Azizi, right? But if you look at his reaction on social media, the anger is real. Since 2025, since the coup in PKR happened, right?
 
-[2:46:22] Even though we are not satisfied with it, there is no issue that causes the main supporters of PKR, which is well known on social media. His work has defended PKR from the beginning. We don't even know who he is. They have been there forever, those who support PKR.
+[78:42] Nazri: Ha.
 
-[2:46:43] But he never said, he's a htia, I won't vote for PKR anymore. It's only the issue of James, I think it's almost like the final straw that breaks the camel's back.
 
-[2:46:55] For them, enough is enough. Some people send people out of the party. They may not be many, maybe 100-200 people. But 100-200 people in the social media that is noisy, their network effect is big. So that's what I said earlier.
 
-[2:47:18] This is the mistake of Dato' Sri Anwar Ibrahim. When he let go of the narrative and the way the script was told, he gave it to Tan Sri Azam Baki. Azam Baki didn't understand the politics of the people, he didn't understand that chasing an underdog, a child like that, was very sensitive.
+[78:44] Rafizi Ramli: Soalan itu terang lagi bersuluhlah YB, tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki? Tapi bila kita tengok apa yang perkembangan mutakhir ini, macam-macam cerita keluar. Ada dakwaan daripada PM ada konspirasi untuk menjatuhkan kerajaan melibatkan Zionis, kemudian Toh Puan Na'imah. Tapi kalau cakap kan dia orang kata YB back up pula kan?
 
-[2:47:46] Because as long as he lives, he has the power. He can press and press anyone he wants. Right? I think that's why he desperately wants to remain as the head of the Pusur Jaya because he has never lived without power. If he didn't become the head of the Pusur Jaya, this is the first time he has lived without power. And I don't know, I suppose he fears it so much. So, but...
 
-[2:48:11] Because of that, he doesn't understand the psychology of the ordinary people. Which is, you can do, you know, you want to be in power, you want to do what, you want to be a leader, you're a leader.
 
-[2:48:20] But the moment you take someone who should be nothing, just a normal kid, why do you bother? That is, I think, the thing that sparked with James in the social media lately. How long it will be, I don't know. We'll see. It also depends on the episodes that will come. For example,
+[79:15] Rafizi Ramli: Tak apa, cakap aje lah.
 
-[2:48:45] Kalau James balik nanti setelah dirundingkan dengan peguam, dia balik. Dia kena tahan, dia kena heret, letak dalam, dia buat macam-macam kat dia kan. Lagilah benda api itu akan tersebar lagi besar kan. Dan terpulang lah. Saya ingat, saya memang dah pasrah lah. I'm ready for this. Saya cakap kat James lah, James it's not a big deal lah. Terima kasih kerana menonton!
 
-[2:49:16] It's not normal, you just strip in front of them, they want to see it. But I think James is sorting out with his lawyer. Then I think it's better for his lawyer to comment on James.
 
-[2:49:34] Okay? It's been a long time. 2 hours and 50 minutes. Ya Allah, it's 1 in the morning. You can do tahajjud after a while. Yes, 2 minutes of tahajjud. Okay, that's all.
+[79:16] Nazri: Dikatakan nak menjatuhkan kerajaan. So dia jadi semakin lama semakin first deja vu lah, kita pernah dengar benda ni dan dia jadi macam merepek sebab eh semua kena kecuali tetamu kita tu.
 
-[2:49:48] We... Selamat Hari Raya. Selamat... It's okay, Selamat Hari Raya. So, next week... Selamat Hari Raya again? Yes, Selamat Hari Raya. Next week, Selamat Hari Raya again. But next week, maybe we'll be broadcasting for 2-3 days before that, on Tuesday or... Selamat Hari Raya. Selamat Hari Raya, we'll wait... I can't wait to celebrate this. For the next week's YB inference. Let me think about it. Okay, okay. Because later...
 
-[2:50:15] Kalau aku kena ke lock up tak apa. Kalau korang kena pergi lock up pada muka. Orang puasa ni. Tapi ya. Kita kena nak macam mana pun nak kena kupas jugalah soal inference itu. Baik-baik.
 
-[2:50:26] Okay, let's sleep first, Abie. They're already asleep because we've recorded in the morning. Okay. Don't say that. They already know, right? No, they know. But try to act a little bit. Okay, okay, okay. Be Anwar Ibrahim. Make it a little bit tiring. Oh, I'm sleepy. Okay, let's sleep first. Good night. Okay, good night. Good fasting. Assalamualaikum.
+[79:27] Rafizi Ramli: Kecuali Azam Baki.
+
+
+
+[79:29] Nazri: Kenapa?
+
+
+
+[79:31] Rafizi Ramli: Orang selalu cakap kan, dia ingat dia aje betul kalau orang komplain kat aku Ceplos cakap apa. Dia ingat dia aje betul, dia ingat dia aje betul kan. Dia tak menggunakan penaakulan mantik. Kerana kalau ikut, kau orang pernah belajar dulu maths penaakulan mantik?
+
+
+
+[79:44] Nazri: Mantik.
+
+
+
+[79:45] Rafizi Ramli: Ha itu dulu masa tahun 90-an ada satu chapter dalam maths kan, nama dia penaakulan mantik. Aku pun tak faham. Basically inference, inference. Siapalah yang pergi terjemahkan jadi penaakulan mantik tu kan. So if you infer you know, orang yang selalu serang aku kata dia ni bukan team player, dia ingat dia aje pandai, dia ingat dia aje yang betul kan. You infer the same thing kepada semua yang berlaku dalam kerajaan sekarang, maknanya semua orang lain salah, semua ada bermasalah, yang betul hanyalah Azam Baki. Baik. Saya saya ulas yalah pasal rentetan beberapa perkara yang berlakulah kan. Kalau kita ingat, berita mengenai Toh Puan Na'imah dan keluarga arwah Tun Daim ni cuba jatuhkan kerajaan ini, dia keluar pada pagi Jumaat lepas.
+
+
+
+[80:57] Nazri: Ya betul, yang waktu kita podcast YB telefon berderet-deret.
+
+
+
+[81:00] Rafizi Ramli: Ha semua orang semua orang kejar aku. Wartawan-wartawan ingat akulah yang dalang yang cuba menjatuhkan kerajaan. Jahat betul dia orang ni kan. Aku hanyalah dalang kepada kucing-kucing. Ingat Jumaat. Apa signifikan Jumaat yang lepas? Pada waktu pagi itu, apa signifikannya?
+
+
+
+[81:23] Farhan: Jumaat lepas?
+
+
+
+[81:24] Nazri: Jumaat lepas.
+
+
+
+[81:24] Farhan: Yang dikatakan apa, Bloomberg?
+
+
+
+[81:30] Rafizi Ramli: No no no no. Apa signifikan...
+
+
+
+[81:33] Nazri: Jumaat pagi.
+
+
+
+[81:34] Rafizi Ramli: Kalau tengok kepada tuduhan yang dibuat kepada Toh Puan Na'imah kan, garis masa dia kan, benda tu dah lama kan. Benda tu tahun 2025 kan. Eh bukan, Julai 2025 ingat kan, lebih kurang setahun yang lepas. Kenapa tiba-tiba ada laporan polis, tiba-tiba siasatan, tiba-tiba ada PC oleh Ketua Polis Negara hari Jumaat lepas, pagi-pagi? Pagi-pagi keluar, kenapa?
+
+
+
+[82:05] Nazri: Macam...
+
+
+
+[82:06] Farhan: Nothing is a coincidence.
+
+
+
+[82:08] Rafizi Ramli: There's no coincidence in Malaysia lah. Mana ada coincidence di Malaysia kan.
+
+
+
+[82:15] Nazri: Tak perasanlah. Ada blind spotlah.
+
+
+
+[82:17] Rafizi Ramli: Ada blind spot kau orang ni.
+
+
+
+[82:19] Farhan: Kami fokus kepada podcast.
+
+
+
+[82:22] Rafizi Ramli: Tapi kau orang bukan ke tiap-tiap minggu menelaah menjadi penganalisa politik? Sepatutnya memang dah nampak dah. Pagi Jumaat yang lepas ialah Kabinet.
+
+
+
+[82:38] Nazri: Okey.
+
+
+
+[82:39] Rafizi Ramli: Masa Parlimen bersidang, Kabinet ialah pagi Jumaat.
+
+
+
+[82:43] Nazri: Betul.
+
+
+
+[82:44] Rafizi Ramli: Dan Kabinet pagi Jumaat yang lepas adalah Kabinet yang sangat runcing kepada Datuk Seri Anwar Ibrahim. Sebab apa?
+
+
+
+[82:51] Nazri: DAP?
+
+
+
+[82:52] Rafizi Ramli: Ha sebab DAP, kenapa?
+
+
+
+[82:54] Nazri: DAP nak suruh buat RCI yang sampai ke sudah kita tak tahu ada ke tak.
+
+
+
+[83:00] Rafizi Ramli: Ha jadi DAP telah pukul gendang ni. Bahawa kami akan bawa kepada Kabinet hari Jumaat, kami akan bawa kepada Kabinet hari Jumaat. Jadi dia dah bina harapan bahawa Anwar Ibrahim kalau DAP ketuk meja, apa pilihan yang dia ada? Kan terpaksa bersetujulah. Dalam bahasa Melayu, masa kau orang belajar SPM semua dulu, ada tak perkataan sekonyong-konyong?
+
+
+
+[83:29] Nazri: Sekonyong-konyong. Sekonyong-konyong kan?
+
+
+
+[83:32] Rafizi Ramli: Tak ada. Cuba Google ada ke tidak bahasa sekonyong-konyong. S-E-K-O-N-Y-O-N-G.
+
+
+
+[83:39] Nazri: Itu selalu dengar dari Datuk Seri Anwar lah.
+
+
+
+[83:41] Rafizi Ramli: Ya ke?
+
+
+
+[83:41] Farhan: Konyong-konyong, tiba-tiba, mendadak.
+
+
+
+[83:44] Rafizi Ramli: Ha! Sebab masa aku sekolah dulu kan, aku selalu tak puas hati sebab ada orang yang tulis dia mesti nak guna sekonyong-konyong kemudian. Yang maksudnya ialah tiba-tiba. Guna ajelah tiba-tiba, orang faham. Sebab sebut sekonyong-konyong orang tak faham kan. Okey eh. So kembali kepada cerita Kabinet tadi kan. Sepatutnya Kabinet hari Jumaat itu telah memutuskan RCI untuk siasat Azam Baki. Sepatutnyalah. DAP dah bawa, DAP dah berkeras, DAP akan ketuk meja kan. Tiba-tiba pagi-pagi, sebelum Kabinet tu, kalau tengok kenyataan tu laporan polis tu keluar dalam pukul 8:00 lebih kan? 8:00 lebih. Sebelum Kabinet, ada kenyataan media daripada IGP bahawa kerajaan sedang menyiasat seorang tokoh yang ternama yang bekerjasama dengan media antarabangsa untuk menjatuhkan kerajaan kan. Kita tak ada kat situlah. Tapi aku ni dah lama dalam politik ni. Dan aku dah melalui daripada zaman '98 lah, kemudian daripada zaman Najib lah kan semua ni kan. So aku pun dah ada dalam Kabinet, so aku dah boleh bayangkan apa yang boleh berlaku masa itu.
+
+
+
+[85:09] Nazri: Okey.
+
+
+
+[85:10] Rafizi Ramli: Maksudnya kalau Kabinet itu bermula pukul 9:00 pagi kan, kenyataan IGP tiba-tiba keluar pukul 8:00 lebih kan. Jadi PM dalam Kabinet tu soal RCI semua ni tak pentinglah. We are under attack! Ada komplot untuk menjatuhkan kerajaan. Konspirasi kan. Jadi DAP garu kepalalah kalau. Jadi DAP kau nak ketuk meja, ini ini kedaulatan negara ni. We are under attack, you know. Itu kita boleh bincang kemudian. Jadi sebab itu saya ingat DAP sampai sekarang tak dengar cerita pasal RCI. Mana kita ada update daripada DAP sebenarnya apa yang diputuskan di peringkat Parlimen di peringkat Kabinet kan? Jawapan yang Fahmi Fadzil bagi hanyalah biarkan dulu siasatan, selepas siasatan jawatankuasa oleh Peguam Negara itu, barulah boleh difikirkan ada RCI ke tidak. Buy time lah. Dan kita dah tengok dan saya rasa Datuk Seri Anwar, mereka yang mencatur semua ni kan, mereka mesti mendabik dada sekarang, "Tengok, hebat aku. Aku boleh deflect tekanan DAP tu dengan buat bogeyman baru, Na'imah and the gang." Dan tiba-tiba ada cerita baru. Itu yang saya buat content pasal James Chai dan James Bond tu. Sebab saya selalu komenlah yang industri perfilman dan content Malaysia ni kalau kita nak pergi jauh macam Korea ke, macam Bollywood ke, macam Scandinavia ke kan, kita perlu fokus sebenarnya bukan semata-mata kepada sinematografi ataupun pelakon. Kita mesti fokus kepada scriptwriting, screenwriting. Kita mesti fokus kepada originality of the idea kan. Kerana daripada jalan cerita yang gempak, barulah menghasilkan cerita yang gempak. Ambil pelakon yang hebat macam mana pun tapi jalan cerita dia teruk, tak menjadi juga kan. Sekarang saya boleh umumkan bahawa saya tarik balik. Tarik balik yang Malaysia ini tidak ada bakat-bakat menulis scriptwriting yang bagus. Kerana kalau tengok scriptwriting yang ada dari Putrajaya ni, mereka mendabik dada, "Hebat. Dengan ancaman DAP itu, kami berjaya deflect dengan ada cerita baru pasal dakwaan untuk cuba jatuhkan kerajaan." Kemudian, minggu depan hari Isnin lah kan? Hari Isnin Datuk Seri Anwar pergi ke Parlimen membuat penjelasan tentang konspirasi Yahudi untuk menjatuhkan kerajaan. Dan Ceplos-Ceplos pun ramai-ramai lambunglah. Bloomberg ini ialah Michael Bloomberg, Yahudi semua ini dan gambaran yang diberikan oleh Datuk Seri Anwar Ibrahim ialah sebenarnya berada di dalam keadaan beliau itu adalah berbahaya kerana beliau lantang bersuara menentang Israel. Jadi memang ada cubaan daripada kelompok Zionis terkemuka yang tidak senang dengan kelantangan beliau. Kut mana pun pusing kat dia jugalah kan. Jadi itu ialah skrip yang dibina sekarang kan. Agaknyalah, rakyat biasa apa pandangan mereka?
+
+
+
+[88:51] Nazri: Macam pernah dengar?
+
+
+
+[88:53] Rafizi Ramli: Yalah, apa dia? Oh macam pernah dengar, ha betul. Tapi yang macam pernah dengar tu sebelum kita sampai kat macam pernah dengar tu, itu hanyalah untuk orang tua macam aku. Kau tak kau tak hidup zaman itu. Tapi sebelum sampai cerita macam pernah dengar semua tu, kalaulah rakyat biasa yang hidup seharian semua ni dia ambil tahu sikit sebanyak, besar kemungkinan dia kata, "Eh, ini dah ke mana dia pergi cerita ni kan?" Ceritanya mudah aje, orang tanya pasal Azam Baki. Yang itu yang hasil daripada soalan mengenai dakwaan-dakwaan terhadap Tan Sri Azam Baki yang belum terjawab sehingga sekarang, itu yang kerajaan terus melatah dah dua bulan ni kan? Terus melatah, tak habis-habis. Daripada soal kepemilikan saham, kemudian soal korporat mafia, lepas satu satu. Kemudian timbul pula serang balas daripada Tan Sri Azam Baki dengan dron-dron dia sendiri. Sekarang cerita dron sebab Iran serang balik dengan pakai dron kan? Dia hantar dron ARM dan juga dron Intramas contohnya kan. So serangan balas dah dua bulan kan. Jadi rakyat akan fikir, eh kalau kita trace balik semua ni, punca dia satu aje. Orang tanya pasal Azam Baki. Bukankah kalau jawab dan kalau selesaikan isu Azam Baki itu, semua ni tak wujud ni? Ini semua ni semua hasil daripada kegagalan kerajaan untuk mengambil tindakan yang telus, yang boleh bagi jawapan kepada soalan-soalan terhadap Tan Sri Azam Baki. Jadi akhirnya itu yang orang akan kembali kepada kesimpulanlah. Bagi yang tua yang pernah hidup zaman '98 kan, terutamanya Gen X ke ataslah, kita akan kata, deja vu ah, ni macam dah pernah dengar semua ni kan. Dulu zaman Anwar Ibrahim, distraction distractionnya ialah pasal liwat, pasal tilam, semualah kan. Kemudian bagi mereka yang kalau pun tak tua sangatlah, mungkin Millennials pun kan dan pernah hidup zaman-zaman 2000, 2015 semua kan, eh konspirasi Zionis menjatuhkan negara ni kerajaan ni, ini ialah skrip yang dikitar-kitar dari satu zaman ke satu zaman. Cuma siapa yang menjadi boneka Zionis itu yang bertukar-tukar. Yang lawaknya ialah walaupun nampak macam Toh Puan Na'imah ini adalah musuh besar kepada Datuk Seri Anwar, mereka sebenarnya ada persamaan yang sangat besar. Apa dia?
+
+
+
+[92:09] Nazri: Hmm.
+
+
+
+[92:11] Rafizi Ramli: See, kau orang kena pergi kelas maths. Orang yang belajar matematik selalunya diajar dan dilatih untuk spot a pattern, a correlation. Apa sebenarnya a pattern yang sebenarnya Na'imah dengan Anwar Ibrahim ni lebih rapat, malah mereka tergolong dalam kumpulan yang sama?
+
+
+
+[92:36] Farhan: Saya takut nak cakap nanti tiba-tiba kena saman pula.
+
+
+
+[92:39] Rafizi Ramli: Apa dia?
+
+
+
+[92:40] Farhan: Dua-dua pernah terlibat dalam a same conspiracy?
+
+
+
+[92:43] Rafizi Ramli: Ha itulah! Yang orang tak sedar ialah kalau kita fikir bukan orang tak sedarlah, orang sedar yang yang penulis skrip sekarang nilah tak sedar kan. Selama 30 tahun lebih ni, rakyat Malaysia ni sentiasa dihidangkan dengan konspirasi Zionis ni. Dari satu masa ke semasa, ada saja konspirasi Zionis. Zionis ni cukup minat dengan Malaysia ni kan, ada aje yang dia nak campur tangan kan. Dan daripada satu masa ke satu masa, ada aje watak yang menjadi boneka kepada Zionis.
+
+
+
+[93:20] Nazri: Soros.
+
+
+
+[93:21] Rafizi Ramli: Bukan. Watak yang pertamanya Anwar Ibrahimlah. Anwar Ibrahim dulu zaman '98, 2000 ni, salah satu sebab selain daripada tuduhan liwat terhadap dialah kan, salah satu sebab yang menusuk kalbu orang-orang UMNO dan Melayu kenapa Anwar Ibrahim tidak boleh dipercayai ialah kerana Anwar Ibrahim ini ialah boneka Zionis. Tengok kawan-kawan dia, kawan-kawan dia semua Yahudi. Apa nama ni, Setiausaha Perbendaharaan US, Rubin. Kemudian Timbalan Setiausaha Pertahanan US, Paul Wolfowitz, semua ini, Yahudi semua ni kan. Eh bukan Rubin, Dan Cohen. Cohen pun, William Cohen pun, Bill Cohen pun kawan dia juga semua kan. Jadi itu ditanam tau lama dia ni Yahudi Yahudi Yahudi Yahudi Yahudi. IMF, Anwar sukakan IMF, Yahudi. Anwar nak bawa formula Bank Dunia ke Malaysia, Yahudi. Yahudi Yahudi Yahudi kan. Tiba-tiba sekarang ini seorang lagi co-conspirator yang dituduh menjadi boneka Zionis ialah Na'imah. Ha jadi Na'imah dan Anwar ni kalau ikut skrip-skrip ini ialah di dalam kumpulan yang sama. Maksudnya rakyat semua tahu bahawa ini semua ni karutlah. Kemudian bila dia semakin mengarut, maka kerajaan kena bagi buktilah kononnya kan bukti kenapa Na'imah ini dituduh cuba menjatuhkan kerajaan. Buktinya ialah kerana keluarga arwah Tun Daim ini melantik satu firma perhubungan awam untuk ada kempen.
+
+
+
+[95:26] Nazri: Comms plan eh?
+
+
+
+[95:27] Rafizi Ramli: Comms plan lah, communication plan, pelan komunikasi strategik untuk membela Tun Daim dan juga keluarga beliaulah kan. So ini menunjukkan bagaimana semua ini dibuat secara terancang dan bukti bahawa Toh Puan Na'imah ini ialah boneka Yahudi ialah kerana firma perhubungan awam itu ketuanya ialah seorang Yahudi. Ini yang Ceplos duk lambung-lambung lambung ni kan. Yalah, bila aku baca tu aku kata, "Ya Allahuakbar." Tak ada orang nasihat Anwar ke? Ini sebelum cerita Sivarasa keluar tau. Bila aku baca awal-awal tu aku cakap, "Ya Allahuakbar, tak ada orang nasihat Anwar ke?" Penglibatan aku yang pertama dalam PKR, dalam Anwar Ibrahim ini ialah menjadi wakil kepada Free Anwar Campaign di UK dan Eropah. Kita ada myself di UK, kita ada yalah arwah Raja Petra di Malaysia dan kita ada Dr Rahim Ghouse di Australia. Apa fungsi Free Anwar Campaign ni?
+
+
+
+[96:46] Nazri: Untuk yakinkan, lobi...
+
+
+
+[96:49] Rafizi Ramli: Yalah, untuk melobi pembebasan Anwar Ibrahimlah kan. Jadi macam mana kami melobi pembebasan Anwar Ibrahimlah, apa kerja-kerja yang kami buatlah, sumbangan kami masa itu?
+
+
+
+[97:00] Nazri: Jumpa media-media dekat situ.
+
+
+
+[97:03] Rafizi Ramli: Jumpa ahli Parlimen, tiap-tiap bulan saya akan hantar brief memberi maklum balas perkembangan di Malaysia terutamanya yang bersabit dengan Datuk Seri Anwar Ibrahim daripada perspektif kami kepada kedutaan-kedutaan, kepada Suruhanjaya Eropah, you know saya menulis kepada Chris Patten masa itu Pesuruhjaya Eropah. Jadi memang kerja kami ialah merancang pelan komunikasi strategik untuk Anwar Ibrahimlah. Selain itu juga Raja Petra ada mengelolakan Free Anwar Campaign website kan dan saya second webmaster, saya juga penulis untuk Free Anwar Campaign. Sebenarnya kami tiga empat orang tu aje buat kecoh satu dunia pasal Free Anwar kan. Cuma untuk menjawab Datuk Seri Anwar Ibrahim, tolonglah sampaikan kat dia, take a moment, pause and reflect bahawa kalau tidak kerana orang-orang yang dulu buat kerja macam itu, cerita dia dalam penjara ni lama dah orang lupa sebenarnya kan. Jadi kalau kerja-kerja itu dikatakan cuba menjatuhkan kerajaan, jadi kami semua ni sama dalam kotak yang samalah, semua dulu mengkhianat kerajaanlah kan. Sedangkan pada ketika itu semua itu adalah perkara yang baik yang disokong. Dia pernah tulis surat kat aku di UK, diseludupkan you know berterima kasih atas apa nama ni peranan dan sumbangan Free Anwar Campaign di UK semua ni. Maksudnya basically kerja melobi untuk dialah kan. Jadi kemudian kantoi tahun 2016 yang ada perbincangan di antara Nurul Izzah... saya tak tahulah emel tu daripada siapa, besar kemungkinan dengan Sivarasa lah kut kan. Sebab Sivarasa yang keluar yang yang menjelaskan. Tapi benda yang samalah, maksudnya untuk Izzah dan juga keluarga Datuk Seri Anwar Ibrahim, mereka berhubung dan berbincang dengan satu firma pelobi di Washington untuk melobi supaya tekanan dibuat terhadap kerajaan Malaysia untuk membebaskan Datuk Seri Anwar Ibrahim. Jadi lebih banyak cerita baru, cabang-cabang cerita daripada cubaan jatuhkan kerajaan kepada Zionis, kepada pengkhianatan kerana guna lobi semua, lebih banyak cabang cerita dibuka, lebih banyak menunjukkan inkonsistensi Datuk Seri Anwar Ibrahim. Lebih banyak menunjukkan kalau aku buat tak apa, kalau orang lain tak boleh. Kalau aku buat ini demi pejuang kebenaran, kalau orang lain buat khianat. Dan yang saya paling kecewalah kan, kenapa kita perlu menggunakan kaedah dan jalan yang sama yang berlaku semasa zaman UMNO dulu? Eh kalau macam nak buat macam ni, tak payahlah kita reformasi 30 tahun. Kan? Tak tak payah. Saya kalau contohnya pandangan saya mengenai Toh Puan Na'imah, dia dan keluarga beliau nak buat satu kempen komunikasi strategik antarabangsa, itu hak dialah. Dah keluarga dia kamu lanyak tiap-tiap hari. Orang tu dah mati dah pun, macam-macam tak habis lagi pasal sakau sakau sakau ni. Dan sampai sekarang tuduhannya tak berkesudahan, tak ada pendakwaan, duit belum jumpa lagi kan. Jadi kalau takkan dia nak duduk kat situ duk diam-diam kena lanyak aje. Kalau kita pun jadi kat kita, kita pun akan lawan balik. Dan yang itulah yang keluarga Anwar Ibrahim, Nurul Izzah, Wan Azizah semua buat, dia lawan balik. Dan kami semua bantu dia lawan balik kerana kami rasa dia teraniaya contohnya kan. Jadi kenapalah kita kena kembali kepada skrip-skrip yang zaman UMNO itu? Sebab itu akhirnya rakyat bila pusing pusing pusing pusing ni, dia akan kembali kepada satu kesimpulan akhir. Apa ada dengan Azam Baki?
+
+
+
+[101:28] Nazri: Itu YB ada jawapan tak?
+
+
+
+[101:31] Rafizi Ramli: Kita faham-fahamlah kut. Saya pernah sebut-sebut kan? Ha jadi saya bagi klu saja, saya bagi klu saja. Klu eh. Mungkinlah, mungkin dalam podcast yang podcast yang minggu depan.
+
+
+
+[101:44] Nazri: Okey.
+
+
+
+[101:45] Rafizi Ramli: Podcast minggu depan kita jawab yang itu. Klu-klu apa ada dengan Azam Baki yang Anwar Ibrahim ini nampaknya takut sangat sehingga segala langkah politik beliau sejak dua bulan terakhir ini tak keruan. Mungkin kita jawab macam tu. Kita kita letakkan teori-teori dan hipotesis-hipotesis minggu depan ha.
+
+
+
+[102:11] Farhan: Saya saya nak tanya eh, macam Toh Puan Na'imah dia punya decision untuk employ satu firma untuk tolong dia, family dia semua tu, adakah itu salah per se?
+
+
+
+[102:24] Rafizi Ramli: Tak salah. Kalau contohnya dia firma sesuatu, samalah macam because I was doing that job for Anwar Ibrahim. You know aku dulu dahlah aku engineer, lepas tu kerja pertama aku sebagai auditor dan akauntan, aku bukan tahu apa pasal akaun pun. Mana nak buat kerja lagi, mana nak study lagi, balik malam kena tulis untuk semua untuk faks surat. Dulu zaman dulu nak hantar faks tau. Tiap-tiap malam faks kepada kedutaan semua kan. Pandangan saya masa saya buat itu dan sekarang ini sama. Iaitu kalau yang kita bentangkan itu adalah fakta, then benda tu tak salah. Kalau contohnya perkara yang kami sebarkan itu adalah fitnah ataupun melanggar peraturan negara, kita ada cukup undang-undang untuk sumbat aku dalam penjara. Sama ada daripada dia boleh saman, maksudnya saman fitnah ataupun dia boleh menggunakan apa nama ni Kanun Keseksaan, Penal Code. Ada Seksyen 501, 502 aku rasa, semua mengenai fitnah jenayah, criminal defamation, semua ada kan. Zaman dulu ada Akta Hasutan pun, boleh sumbat aku untuk Akta Hasutan. Tapi dia tidak berlaku kerana selagi kita menyampaikan maklumat itu mengikut fakta dan dia tak salah di sisi undang-undang. Dan kalau kita kembali kepada soal Bloomberg, ini semua balik kepada Bloomberg lah kan dan yang cuba naratif yang cuba ditanam ialah dakwaan Bloomberg itu ialah sebahagian daripada konspirasi untuk menjatuhkan kerajaan. Maksudnya kalau ada kritikan kepada Azam Baki, itu sama dengan nak menjatuhkan kerajaan tahu. Itu hebatnya Azam Baki. Sebab kritikan Bloomberg tu bukannya kepada Anwar Ibrahim, bukannya kepada Yang di-Pertuan Agong, bukannya kepada kerajaan, kepada Azam Baki. Tapi itu dilihat sebagai untuk menjatuhkan kerajaan kan. Now if you go back to pendedahan-pendedahan Bloomberg, actually kalau selama nilah bertahun-tahun berapa orang sangat kat Malaysia ni baca Bloomberg? Dahlah nak baca Bloomberg ni kena bayar. Aku bacalah Bloomberg dan aku memang bayar Bloomberg tiap-tiap bulan, sebabnya Bloomberg ni ada semualah maklumat apa nama ni kewangan semua kan. Tapi rakyat biasa mana ada orang pernah ambil pot pasal Bloomberg ni. Orang tak baca pun. Hanya orang-orang tertentu, besar kemungkinan tak sampai 10,000 orang setiap bulan yang membaca Bloomberg di Malaysia ni. Tapi kenapa bila sampai cerita pendedahan Bloomberg mengenai Tan Sri Azam Baki dia meletup, kenapa?
+
+
+
+[105:18] Nazri: Dia...
+
+
+
+[105:22] Rafizi Ramli: Sebab fakta-fakta itu memang susah untuk kita nafikan. Perkara itu dia dah buat kajian, dia dah bentangkan fakta, dia dah tunjukkan saham Azam Baki dalam yang ini, kompeni ini ada kaitan dengan Victor Chin, kompeni ini sebenarnya dulu pernah disiasat kerana cuci duit haram, kompeni ini ada kaitan dengan kongsi gelap, habis dah ditunjukkan. Dan bila orang baca, orang pergi semak, actually memang betul. Dan hujah itu tidak boleh dipatahkan oleh baik Azam Baki, baik kerajaan. Hanya dengan kata ini konspirasi semua kan. Jadi sama macam 1MDB dululah. Awal-awal masa 1MDB, orang bagi benefit of the doubt. Aku ingat masa aku mula-mula cakap pasal 1MDB dulu tertipu ah, berapa kerat sangat orang peduli. Orang tak faham pun kan. Sebab itu aku kena ambil angle yang pelik sikit, aku kena ambil angle mengenai SRC dulu tau. Kerana itu ialah menggunakan duit pencen. Orang kita ni bila sebut duit pencen baru, "Ha pencen aku?" Ha kan. Kalau sebut pasal 1MDB orang tak peduli kan. Dia mula mendapat traction tu lepas satu demi satu demi satu ialah bila orang tengok actually yang dia kata ni bila semak fakta, betul, tak dinafi. Yang dia kata semak fakta, betul, tak dinafi. So itu yang berlaku sekaranglah. Jadi kalau pun nak katalah kalau Pak An tanya ini menyalahi undang-undang ke apa kan, kalau pun Toh Puan Na'imah membayar firma komunikasi antarabangsa yang hebat untuk buat cerita, tetapi cerita itu direka-reka, dia tak ada kesan. Bukan sahaja kerajaan boleh ambil tindakan jenayah terhadap Toh Puan Na'imah dan keluarganya, dia tak ada kesan dengan rakyat kan. Dia hanya ada kesan bila Bloomberg yang Bloomberg tulis itu betul. Jadi dia kembali kepada isu yang sebenar, iaitu perkara-perkara yang ditimbulkan itu perlu dijawab oleh Tan Sri Azam Baki. Dia kena jawab ni pasal korporat mafia ni. Dia kena jawab macam mana dia ada saham di dalam syarikat Along. Velocity Capital itu ialah syarikat peminjam wang berlesen yang kita di Malaysia tahu nama lain ialah sebenarnya ialah Along lah. Macam mana dia ada dalam syarikat macam mana dia ada saham dalam syarikat yang ada kaitan dan saham pula dalam MMAG yang mana pemegang saham terbesar ialah Farhash? Selagi benda itu tak terjawab, memang perkara ini takkan pergi takkan hilanglah. Jadi apa pun pusing, dia akan kembali kepada kesimpulan mudah rakyat: sebenarnya apa ada dengan Azam Baki yang Datuk Seri Anwar takut sangat? Kita akan kita ada satu minggu untuk kita cuba tengok hipotesis-hipotesisnya. Kita kena berhati-hati, kalau tidak kita kena serbu tangkap. Tapi kita akan cuba kupaslah minggu depan.
+
+
+
+[108:33] Nazri: Kalau podcast ni adalah.
+
+
+
+[108:35] Rafizi Ramli: Kalau podcast ni masih lagi ada minggu depanlah.
+
+
+
+[108:37] Farhan: Saya saya baru perasan yang report polis yang dibuat yang trigger notis dikeluarkan sebagai apa plot mengkhianat semua ni adalah hari sebelum notis.
+
+
+
+[108:49] Rafizi Ramli: Ha! Notis polis tu. Itu sebab aku kata, oh ini skripnya sehari sebelum Jemaah Menteri penting yang akan memutuskan mengenai RCI. Baik.
+
+
+
+[109:02] Nazri: Baik, kita tunggu tetamu kita minggu depan. Sebelum itu kita ada isu lagi satu SPRM. SPRM mencari James Chai.
+
+
+
+[109:14] Rafizi Ramli: Aku rasa kita sebenarnya ada dua lagi kan, tapi aku rasa dia akan habis sampai James Chai nilah kut. Sebab paling kurang goreng goreng goreng ni, sembang-sembang ni 20-30 minit juga kan.
+
+
+
+[109:26] Nazri: Sekarang dah sejam 50 minit.
+
+
+
+[109:28] Rafizi Ramli: Ha sejam 50 minit kan. Jadi yang dua lagi tu kita simpanlah. Ha, James Bond.
+
+
+
+[109:34] Nazri: Dia ada banyak persoalanlah YB. Antara orang agak frustrated sebab biasanya pergaduhan ni antara ahli politik dengan ahli politik, tapi ini mungkin setelah dah berapa lama tak ada, seorang private citizen diserang dan diintimidasi seperti inilah. Cuma saya agak menarik dengan kenyataan YB Yang mana aku punya parodi?
+
+
+
+[110:04] Nazri: Parodi satu, tapi yang SPRM cari tu saya rasa sebelum tu kita pergi ke situ. Dan ramai marah jugalah. Sibuk-sibuk...
+
+
+
+[110:14] Rafizi Ramli: Siapa yang marah, Ceplos?
+
+
+
+[110:15] Nazri: Ceplos macam biasalah. Sibuk-sibuk sangat ni menyerang apa semua ni, sebenarnya yang SPRM kena cari adalah Anwar sebab yalah dia ni chief negotiator, dia juga yang dua kali berjumpa dulu, then YB baru follow up. Kalau YB mungkin nak ulas sikit?
+
+
+
+[110:33] Rafizi Ramli: Yalah, you know, dia gaya Tan Sri Azam Baki masa bagi kemas kinilah siasatan-siasatan besar kan. Saya ingat dia kata, "Kita telah panggil 12 pegawai-pegawai kanan kerajaan, seorang bekas menteri," semualah kan.
+
+
+
+[110:58] Nazri: Tapi bukan dari...
+
+
+
+[110:59] Rafizi Ramli: So bila dia sebut seorang bekas menteri tu, ada media yang salah tafsir kata sayalah. Sebenarnya saya ingat bekas menteri tu ialah Zafrul. Zafrul happylah bagi kenyataan, "Memang Rafizi tipu semua ni kan. Aku dia memang seronoklah kan. Saya sanggup jadi saksi pendakwa nombor satu." Agak-agaknyalah kan. Tapi bila dia tulis tu kan, yalah kita kena kembali kepada sebenarnya apa tuduhannya? Sebenarnya apa tuduhan yang SPRM duk menghabiskan juta-juta duit rakyat menumpukan kepada siasatan mengenai ARM ni sebenarnya? Apa tuduhannya?
+
+
+
+[111:47] Nazri: Ada beberapa, antaranya tak ikut prosedur, terlampau cepat eh? Cepat kan? Tergesa-gesa. Tak ikut prosedur, yang lain tu berkaitan dengan angka tulah, 1.1 billion tu kan?
+
+
+
+[112:02] Rafizi Ramli: Tak ikut prosedur. So kalau tak ikut prosedur dan tergesa-gesa, mana bahagian imbuhan kewangannya?
+
+
+
+[112:17] Nazri: Imbuhan maksudnya manfaat tulah.
+
+
+
+[112:20] Rafizi Ramli: Manfaat ha. Gratifikasinya ikut mana?
+
+
+
+[112:25] Nazri: Dia susah nak tunjuk jadi dia carilah gratifikasi lainlah kut?
+
+
+
+[112:30] Rafizi Ramli: Yalah, apa gratifikasi lain? Aku boleh main komputer ke apa? Pegawai YB yang mendapat kerja di... Ha itulah. Eh di ARM, sorry.
+
+
+
+[112:44] Rafizi Ramli: Dua bulan transisi. Yang itu nanti saya jawab eh. Yang itu saya jawab. Yang itu berpeluhlah Anwar Ibrahim dan juga semua bekas-bekas menteri dan juga semua bekas pegawai-pegawai kanan. Aku nak bagi sepak maun pasal gratifikasi bab tu kan. Tapi kembali kepada soal sebenarnya apa gratifikasinya? Jadi kalau satu negara digerakkan soal kononnya penyelewengan 1.1 bilion ARM ini, tapi elemen makan duit tak ada, elemen gratifikasi tak ada, jadi akhirnya dia kata tergesa-gesa dan juga tidak mengikut prosedur lah dia kata kan. Jadi kalau tergesa-gesa dan tak mengikut prosedur, sebenarnya yang tergesa-gesanya ialah Anwar Ibrahimlah. Jadi orang pertama yang sepatutnya dipanggil untuk diambil kenyataan ialah Perdana Menterilah kan. Jadi saya pernah sebut saya ingat susur galur ARM ni dalam beberapa podcast, jadi secara cepat saya sebutlah kan. Saya ingat sebelum kami menganjurkan KL20, itu April 2024 kan, masyarakat di Malaysia ni tak tahu pun ARM tu apa. Jadi kita buat KL20. Jadi yalah rezeki dan juga takdir Allah, kita berjaya meyakinkan ARM untuk datang. Jadi ARM pun datang. Saya ingat daripada situlah mulalah orang faham apa ini ARM. Dan malam sebelum pelancaran itu, saya anjurkan satu dinner yang mana Datuk Seri Anwar dia duduk dengan semua tokoh-tokoh tech besar dunia nilah. Salah seorangnya daripada ARM lah. Jadi dia tertarik. Jadi esok tu, sementara saya sibuk duk menganjurkan KL20, dialah yang membuat permintaan supaya wakil ARM ini datang berjumpa dengan dia dan beberapa menteri-menteri lain kan. Menteri-menteri lain termasuklah Gobind Singh Deo, termasuklah Zambry Kadir, termasuklah Fahmi Fadzil kan. Aku yang susah payah buat tak ada pun kat situ, tak ada! Tak ada kan. Jadi Anwarlah juga yang, "Oh baguslah ARM ni, baguslah ARM" kan. Jadi ini cerita dalam kainlah kan. Oleh kerana ARM ni kenal Malaysia ni melalui kami kan, jadi selepas mesyuarat dengan Datuk Seri Anwar tulah April 2024, ARM pun dia ambil seriuslah. Perdana Menteri Malaysia minta tolong ARM untuk bantu Malaysia membangunkan industri semikonduktor. Sama ada mereka faham, Fahmi Fadzil faham ke tidak apa yang dibincang masa tu wallahuaklamlah kan. Kemudian ARM kembali kepada kitalah. ARM sebenarnya tak faham sangat apa PM nak. Sebab dia duk cerita pasal pergi universiti, pergi universiti, pergi universiti. Sebab tu ada Zambry Kadir masa tu. Masa tu dia dia Menteri Pendidikan Tinggi kan. Jadi ARM ni dia garu kepalalah sebenarnya PM Anwar ni dia duk cerita pasal pergi universiti, bantu universiti kan. Sebenarnya ekosistem ni jauh lebih besar. Daripada situlah saya pergi balik kepada Datuk Seri Anwar kata, we have to develop something a lot more comprehensive kan. Tetapi perkara ini perlu fokus dan ia sesuatu yang ARM tak pernah buat dengan mana-mana negara di dunia ini. Jadi ARM sendiri minta supaya we maintain that working cooperation antara ARM dengan Kementerian Ekonomilah. "Oh tak ada problem." Dia setuju, sebab dia nak sangat benda ni jadi, dia setuju. Kemudian kami pun balik dan mulakan kerja awallah kan. Jadi konsepnya sebab dia tak pernah ada di dunia tahu. Ini yang saya nak jawab juga tentang yang dia kata penyelewengan 1.1 bilion ni sekejap lagi saya jawab kan. Tapi konsep ARM bekerjasama membangunkan industri semikonduktor sebuah negara ni tak pernah berlaku di mana-mana di dunia, ini yang pertamalah. Jadi dia pun on the drawing board, kita pun on the drawing board, so we worked together kan. Jadi bila kita dah dah dapat first cut, jadi saya pergi kepada Datuk Seri Anwar sekali lagi dan saya sebut kat dia, kita ni nak beli IP. Bukan sahaja kita nak beli IP, kita juga nak gunakan IP dan ekosistem itu untuk melatih dan melahirkan basically chip engineers, design engineers. Kemudian kita juga nak membina ekosistem, kita nak bawa seberapa banyak startup yang mereka cipta chip itu ke Malaysia. Dia perlukan ekosistem. Jadi of course dia akan memerlukan komitmen kerajaan Malaysia untuk kita beli IP itu. Kerana konsepnya ialah kalau kompeni Malaysia nak beli IP untuk buat chip, kiamat takkan dapat. Satu, duit tu dia tak ada. Kedua, ARM kata, "Engkau ni siapa? Kompeni mana? Aku ni jual kat Samsung tahu, yang buat aku punya chip ni Samsung, Apple. Engkau siapa?" kan. Kalau pun contohnya TM Telekom Malaysia ataupun apa lagi Khazanah nak pergi buat, dia kata, "Kau ni siapa?" kan. Jadi sebab itu kita perlukan kerajaan Malaysia yang kata yang beli ini ialah kerajaan dan kami bekerjasama dengan ARM untuk membangunkan syarikat-syarikat chip yang dilatih untuk menggunakan IP inilah. So program ini 10 tahun. Dalam tempoh 10 tahun ini sasaran kita ialah kita boleh menghasilkan chip kita sendiri yang boleh digunakan dalam data center kita, dalam negara kita untuk rantau ASEAN semualah kan. Sudah tentu untuk 10 tahun ini kita perlukan kos sebab kita kena bayarlah kan. Saya sebut kat dia, Datuk Seri Anwar tanya, "So berapa? What's the price tag?" Saya beritahu dia lebih kurang 200 million dollar lah. So lebih kurang 10 tahun tu lebih kurang 1 bilion and lebih kurang 100 juta setahunlah. "No problem, proceed." Kau orang ingat kalau awal aku tak dapat agreement verbal daripada Datuk Seri Anwar that it will cost us untuk membangunkan sektor semikonduktor kita ni 10 tahun lebih kurang apa nama ni 1 bilion, you think I would have gone ahead? Mana ada. Tak adalah, tak adalah aku buang masa kan. Baik eh, kalau nak tanya ni nak kembali kepada soal penyelewengan 1 bilion ni kan, kita nak membangunkan industri semikonduktor yang kita telah gagal berpuluh-puluh tahun untuk mara ke front-end, untuk mencipta sendiri kan, dan dia lebih kurang 100 juta setahun ataupun 1 bilion 10 tahun. Hasil daripada itu ialah kita boleh ada chip sendiri, kita jadi pusat design semikonduktor, kita masuk ke kategori insya-Allah 10 tahun kategori negara macam Taiwan, macam Korea yang boleh buat chip sendiri, kita ada 10,000 engineer semua kan. Kosnya ialah 100 juta setahun kan. Cuba tengok bila Datuk Seri Anwar lancarkan apa nama ni New Industrial Master Plan, berapa bilion dia umumkan untuk tempoh 10 tahun tu? Cuba tengok. Puluh bilion kan? Cuba tengok.
+
+
+
+[121:05] Nazri: 29.2 bil... eh?
+
+
+
+[121:08] Rafizi Ramli: Untuk New Industrial Master Plan yang Tengku Zafrul buat, berapa?
+
+
+
+[121:14] Nazri: Perlu pelaburan kan?
+
+
+
+[121:15] Rafizi Ramli: Ya maksudnya yang kerajaan akan pam, kerajaan peruntukan kerajaan berapa? 95 bilion? Cuba tengok.
+
+
+
+[121:22] Farhan: 95 bilion.
+
+
+
+[121:23] Rafizi Ramli: 95 bilion, ha!
+
+
+
+[121:25] Farhan: New Industrial Master Plan 2030 requires 95 billion worth of investments over the 7 years.
+
+
+
+[121:30] Rafizi Ramli: Tapi 95 billion worth of investment tu semua daripada kerajaan ataupun berapa yang bahagian kerajaan?
+
+
+
+[121:36] Farhan: Kejap, tengah...
+
+
+
+[121:38] Rafizi Ramli: Ha bukan semua daripada tu tu. Tapi I think 8...
+
+
+
+[121:44] Nazri: Ha 10% diperuntukkan oleh kerajaan.
+
+
+
+[121:46] Rafizi Ramli: Ha, lebih kurang lebih kurang 10 bilionlah lebih kurang kan? 10 bilion kan. Itu berapa tahun? Dilancarkan tahun 2023 sampai 2030.
+
+
+
+[121:55] Nazri: 30.
+
+
+
+[121:55] Rafizi Ramli: Ha. So tolak 2023 maksudnya 4, 5, 6, 7, 8, 9, 10, 7 tahun 10 bilion. 1 bilion setahun! 1.1 bilion setahunlah. 1.1 bilion setahun kau orang tak buat bising yang kerajaan kena sediakan kepada Tengku Zafrul masa itu untuk buat apa pun kita pun tak pasti sangatlah. Jadi sebab itu bila kita sebut kepada Datuk Seri Anwar Ibrahim untuk membina industri semikonduktor aras tinggi ini kita perlukan 100 juta setahun, dia tak ada masalah, "Go ahead. Please, please, please," ha. Jadi sebab itu kalau ada yang kata ini semua penyelewengan sebab tergesa-gesa, sepatutnya Tan Sri Azam Baki panggil Datuk Seri Anwar dululah melebihi semuanya. Saya sebab kalau you berada di kedudukan saya kan, buat apa saya susah payah merunding buat benda yang rumit separuh mati ini kan semua, buat perjanjianlah dengan masa yang singkat kalau saya tahu PM tak setuju untuk 1 bilion? Sebab akan pergi kat Kabinet, maka akhirnya kalau PM tak setuju, letih. Masalah kami yang kami kecewa masa itu, seperti biasa Anwar Ibrahim di belakang dia setuju pada kami, dia suruh kami buat, yang ini okey, jumlah ini okey semua. Bila sampai ke Kabinet, walaupun dia setuju, bila sampai di Kabinet, Zafrul tak setuju sebab dia kata kami nak buat.
+
+
+
+[123:27] Nazri: Hmm.
+
+
+
+[123:28] Rafizi Ramli: Ini kerja kami. Ini kenapa nak ambil benda ni daripada kami? Ini bukan tugas Kementerian Ekonomi. Padahal Anwar Ibrahim yang suruh. And I was half expecting Anwar to say, "No Zafrul, this one tugas ini saya dah sebab benda ini semua bermula daripada Kementerian Ekonomi, daripada idea mereka, mereka yang bawa masuk ARM, yang kamu sibuk-sibuk nak masuk ni kenapa?" kan. You know, a good leader would have said that lah. After all, aku yang bagi instruction kat budak ni nak buat kan. But that never happened. Bila that never happened itulah, maka dia ada bangkangan daripada MITI dan MOF ni kita kena ingat, Datuk Seri Amir Hamzah ke, pegawai-pegawai kanan MOF ni, sebelum Anwar Ibrahim dan Amir Hamzah, siapa Menteri Kewangan?
+
+
+
+[124:18] Farhan: Zafrul.
+
+
+
+[124:18] Rafizi Ramli: Zafrullah. Jadi politik mereka ialah apa yang MITI setuju, yang nak, selalunya MOF sokong. Sebab Zafrul tu dulu bekas Menteri Kewangan kan. Jadi you dah boleh nampak semua pattern tulah kan. Jadi bila Zafrul tidak bersetuju, MOF pun o-e o-e o-e lah. Itu pun kita telah melalui semua prosesnya sehinggalah dia diluluskan. Kalau tak diluluskan oleh Kabinet semua, kau ingat Anwar Ibrahim boleh pergi lancarkan ke? Kau ingat MIDA boleh tanda tangan perjanjian? Kalau tidak, buat apa Tengku Zafrul susah payah pergi berlari-lari nak bagi nak nak bagi sidang media ni kan? Jadi sebab itu kalaulah soalnya ialah benda ini sangat besar dan sehingga perlu mencari seorang Cina keding nama James Chai ni untuk menyelesaikan siasatan ini dan tentukan serta-merta kerana kita tahu by now kita tahu dia tak ada elemen gratifikasi. Dia tak ada elemen wang pun kan. Dia hanya ada soal kononnya benda ini tergesa-gesa dan konotasi yang cuba diberikan ialah oleh kerana ini adalah tergesa-gesa, maka ini merugikan negara. Now, sepatutnyalah kalaulah Anwar Ibrahim dan Kabinet baru masa sekarang tersedar, "Alamak, perjanjian ini merugikan negara," sepatutnya apa yang dia buat?
+
+
+
+[125:52] Nazri: Terminate?
+
+
+
+[125:54] Rafizi Ramli: Terminatelah! Batalkanlah perjanjian tu. Tapi tak, Anwar juga yang pergi kat IC Design Hub center kan, dia juga Nurul Izzah juga yang tiba-tiba jadi penasihat kepada IC Design Park semua kan. Jadi kita confuse sekarang ni, sangat confuse. Kementerian Ekonomi sampai sekarang masih lagi menjalankan tugas itu, masih lagi membangunkan program ini dengan ARM. Kita tengok juga contohnya Tengku Zafrul juga di hari terakhir dia jadi Menteri MITI, dia juga yang tergesa-gesa mengumumkan dua syarikat yang dipilih untuk menerima IP untuk membangunkan chip. Satu Skypark, satu Esperanto. Ha, dia juga pergi umum! Eh kalau ni merugikan negara, terminatelah! Kan? Jadi kita semua jadi confuse akhirnya kan. So maksudnya lagi orang tahu pasal perkara ini, lagilah orang akan rasa macam, "Ya Allah, kau orang sanggup apa nama ni mengkucar-kacirkan satu perancangan ekonomi negara yang sangat penting yang kamu juga duk pergi ambil gambar, yang kamu juga duk pergi melawat, yang kamu juga berebut ambil kredit semata-mata kerana kamu tak suka kepada Rafizi." Sebab ini semua permainan ego semua ni. Anwar nak tunjukkan bahawa dia ialah bos, you jangan lawan saya, tu aje sebenarnya. Contohnya kalau aku diam semua lepas anak aku kena serang contohnya kan Ogos kan, isyarat pertama tu lepas anak saya kena serang kan. Kalau contohnya saya diam, aku duduk kan, aku yes bos. Aku malas bila Tengku Zafrul dilantik jadi penasihat kanan politik tu kan, timeline ni banyak yang tunjuk Anwar duk muah muah kan. Ceramah dia pasal Tengku Zafrul, muah kan. Itulah gaya dia pasal Tengku Zafrul ni, muah cium tangan kan. Sebenarnya kalaulah aku muah, dia tak adalah berlaku selepas apa nama ni serangan pertama tu kan. Jadi bila aku terus bersuara dan terus bersuara, terutamanya pasal ART. Dan semua yang aku bersuara, tak adalah aku tak puas hati sebab dia berjoget ke apa, you know itu hal dialah. Tapi sebagai ahli Parlimen, kita kena ada pandangan dan kita kena suarakan. So tengok perkara-perkara besar kritikan aku ialah mengenai dasar dan reputasi kerajaan. Kritikan besar ialah mengenai ART. Dah memang betul pun perjanjian itu tergesa-gesa. Sekarang pun dah dibuktikan, mahkamah US pun dah kan. Dan dah memang betul pun bila kita banding dengan Kemboja, memang hampas perjanjian kita kan. Kemudian kritikan pasal pendidikan. Dah memang betul pun! Kita bukan aku saja, semua orang ada masalah tentang perancangan pendidikan di negara ini. Kemudian pasal SPRM. Aku tak ada pun komplain pasal peribadi Anwar, aku tak ulang benda-benda serangan, sekali pun aku tak ulang serangan terhadap peribadi dia. Kan walaupun dah ada penyokong-penyokong yang dah menyampah, dia dah mula ungkit tahu kan. Kita tak nak ulang. Semua itu ialah sebahagian daripada tugas sebagai ahli Parlimen kan. Tapi kalau aku tak sebut satu persatu ni, tak adalah keluar cerita ARM ni. Jadi akhirnya kenapa James Chai? Kan? Kalau tengok eh, semua yang terlibat dalam cerita ARM ni kan, semua kanan tahu: Perdana Menteri, menteri-menteri, KSU-KSU. Saya dapat maklumatlah, siasatan setakat ini ni tak ke mana sangat. Sebab dia cuba nak menunjukkan bahawa ada pelanggaran prosedur ataupun perkara ini tergesa-gesa kan. Jadi pelanggaran prosedur tu kalau ikutnya semua dah dibentangkan di Kabinet, kemudian dapat kelulusan, mesyuarat pun ada tujuh lapan kali, dekat Kabinet sahaja sampai tiga kali rasanya kan. Jadi tak mudahlah untuk dia dapat sebarang bukti bahawa dia telah melanggar proses dan prosedurlah, susahlah kan. Of courselah akan ada yang cuba kona baring sekaranglah. Dia akan kata, "Saya sebenarnya dulu tak setuju benda ni." Yalah kamu tak setuju, tapi masa kat Kabinet rekod menunjukkan dia diluluskan dan kamu bersetuju! Kan sekarang you know adalah you know saya dimaklumkan adalah yang yang peguam itu, peguam ini mulalah kona-kona kata, "Oh saya dulu tak setuju." Yalah tapi rekod menunjukkan masa dibentangkan di Kabinet, kamu bersetuju dan meluluskan draf perjanjian itu kan. Jadi kalau masuk mahkamah, you nak dakwa apa? Kerana dia berdasarkan kepada rekod minit-minit itulah kan. Jadi dia ada jem sikit tahu dan dia tak mudahlah untuk tekan yang kanan-kanan ni kan, maksudnya untuk paksa dia berbohong ke apa, dia boleh kona-kona sikitlah. Dan setakat ini nak babitkan saya payahlah kerana semua mengikut proses kan. Jadi mereka perlukan kambing hitam. Dan kambing hitam itu mestilah seorang yang mudah ditekan. Enter James Chai. Dia anak Cina, kurus keding, bukan orang kaya, pakai Proton Persona kan, dan mereka rasa dia boleh tekan. Saya saya ingat senarionya, senario planning pencatur dia macam ni tahu. Dia rasa kalau kita boleh tekan James ini untuk bagi keterangan menjadi saksi terhadap Rafizi. Supaya James memberi keterangan bahawa Rafizi tipu sesuatu perkara. Rafizi sebenarnya bagi arahan supaya ada beberapa perkara yang dibuat itu yang menyembunyikan fakta daripada Kabinet. Maka itu menjadi bukti bahawa prosesnya tergesa-gesa dan melanggar peraturan kan. Walaupun tidak ada unsur gratifikasi, tak ada unsur duit ke apa, mereka merasakan itu cukup untuk dakwa saya. Bahawa saya telah menyalahgunakan kuasa kerana bukti daripada pegawai saya menjadi saksi kerajaan menyatakan bahawa sebenarnya dia ada tipu kat situ sikit, sebenarnya dia ada begini kan. Baik. Dan kalau mereka dapat kenyataan itu daripada James, hebatlah kerana pegawai saya sendiri yang terbabit dalam tu kan. Kemudian dia tengok pula James kan, kemudian diambil lah, diambil unsur kononnya gratifikasi sebab James diminta oleh ARM untuk membantu mereka menubuhkan operasi dan memulakan program itu di Malaysia. Sebab dia tak pernah ada di Asia Tenggara, dia tak kenal orang pun kat sini kan. Jadi untuk tempoh dua bulan itu, James membantu merekalah. Jadi saya ingat SPRM kalau skripnya begini: mereka akan ugut James, "Kalau kamu tak bersetuju untuk bagi kenyataan-kenyataan yang implicate Rafizi Ramli, kami akan caj kamu untuk dua bulan kamu kerja itu." Jadi James kena buat keputusanlah: "Aku nak kena dakwa ke Rafizi kena dakwa? Aku nak kena dakwa ke Rafizi kena dakwa?" kan. Baik. Berbalik kepada soal akan adalah Ceplos kata, "Ha tu dua bulan itu rasuahlah tu! Dua bulan tu rasuahlah" kan. Sebenarnya tidak ada apa-apa peraturan yang menghalang sebarang seorang penjawat awam, apatah lagi dalam kes James ni, dia adalah pegawai yang dibawa masuk secara kontrak untuk tempoh dua tahun untuk berkhidmat dengan kerajaan. Dia bukan penjawat awam yang dapat pencen ke apa semua tu kan. He took a huge pay cut to bantu kerajaan kan. Jadi lepas itu kau nak suruh dia buat apa? Dia tidak terikat kepada apa-apa kecuali dibuktikan bahawa kalau dia join sesuatu syarikat selepas itu, itu adalah hasil daripada rasuah projek yang diberikan semasa dia berada di kementerian, which is not the case dengan ARM lah kan. Yang ini ialah yang telah diluluskan oleh Kabinet, setakat ini tidak dapat dibuktikan unsur rasuah, seorang pun tak dapat sen. Aku menyesal tahu, paling kurang fikir-fikir balik patutnya dia orang belanjalah aku makan hebat sikit ke apa ni kan, satu sen tak dapat tahu.
+
+
+
+[135:18] Nazri: Tu kira rasuah ke kalau belanja makan?
+
+
+
+[135:20] Rafizi Ramli: Kalau macam tu semua dia orang kena tangkaplah. KSU, pengarah, SPRM, Azam Baki ni semua kena tangkap. Setakat belanja makan tu gayanya kita aje dulu tahu, susah orang nak jumpa nak belanja makan because yalah aku tak suka kan, tapi orang lain tu biasalah kan. Baik eh, baik gratifikasi kan. Kalau James kena dakwa sebab dua bulan dia membantu dan bekerja untuk tempoh dua bulan membantu ARM menubuhkan operasi di sini kan, saya rasa 90% daripada bekas-bekas penjawat awam daripada KSU, daripada KSN, daripada KSP, kepada Ketua Polis Negara, semua kena dakwa. Sebab apa?
+
+
+
+[136:06] Nazri: Sebab...
+
+
+
+[136:08] Rafizi Ramli: Amalan biasa lepas pegawai-pegawai kerajaan ini bersara, tidak lagi menjadi pegawai kerajaan, mereka masuk syarikat-syarikat kontraktor tu. Berapa banyak Ketua Pengarah dan Timbalan Ketua Pengarah JKR yang masuk syarikat-syarikat kontraktor besar? Ambil contoh Ketua Polis Negara, Tan Sri Razarudin, dia menjadi pengerusi kepada syarikat yang pusing kanan, pusing kiri semua ada kaitan dengan Nextgreen. Pengarah Perkhidmatan Awam, Tan Sri Khairul Adib, pemegang saham terbesar dan jadi bos dulu kepada Nextgreen, Datasonic. Kalau nak sebut satu-persatu ni dan yang ada sekarang ni daripada KSN yang ada sekarang ni, daripada KSP yang ada sekarang ni, KSU-KSU yang ada sekarang ni, bila mereka bersara, mereka pun ada tempat di semua syarikat ni. Kalau James dua bulan itu dikatakan gratifikasi, mereka selama bertahun-tahun membuat keputusan yang bagi kontrak kepada syarikat itu, syarikat ini semua, tiba-tiba dia pergi masuk, habis semua tu, menteri-menteri semua habis kena dakwa semua. Aku tak kena dakwalah sebab aku tak masuk kan. So, macam mana nak jawab? Jadi akhirnya mereka terpaksa tekan James lah. Dan setakat ini yang ayat yang diberikan ialah, "Oh kami terpaksa keluarkan notis itu kerana James block di WhatsApp." Aku gelak sebab aku fikir, ish kalau macam ni lagi bahaya sebab lepas ini Azam Baki akan keluarkan notis dikehendaki terhadap Rafizi Ramli. Kenapa?
+
+
+
+[137:52] Nazri: Sebab YB tak ada WhatsApp?
+
+
+
+[137:53] Rafizi Ramli: Sebab aku tak ada WhatsApp! Aku tak pakai WhatsApp. Kena block ni. Dia ingat kena block, aku mana ada pakai WhatsApp kan. Jadi James lepas tu saya tanya, "So macam apa cerita yang dia kata you block ni?" James kata dia duduk kat UK. So ada nombor-nombor yang dia tak kenali daripada Malaysia ke apa yang duk call dua tiga kali, lepas tu tak tinggal mesej ke apa, dia block lah. Sebab dia tak tahu pun yang telefon itu ialah SPRM. Hebatnya pegawai penyiasat SPRM. Paling kurang hantarlah mesej. Dan kalau dia hantar mesej WhatsApp pun, sebenarnya kalau ikut peguam-peguam, itu pun masih lagi belum memenuhi kehendak Akta SPRM tahu. Notis itu ada tuntutan dan peraturan yang jelas tahu, what constitutes a notice kan. Tambah pula sekarang ini memang orang scam. Aku pernah tengok sendiri my staff depan mata aku, tengah-tengah makan dengan aku tiba-tiba ada orang telefon, dia pun angkat. Daripada dia makan tu daripada happy, muka dia jadi masam masam masam. Lepas tu dia jadi macam tak keruan turun, ambil note tulis. Lepas tu daripada duduk depan aku pergi kat sana, berjalan pusing semua ni. Lepas tu dah dekat satu jam tau on the phone ni kan. Aku macam, ni apa hal budak ni? So aku tanya dia, "Apa hal?" "Ini LHDN lah." "Apa hal pula?" dia kata. Aku tanya dia, "Apa hal LHDN?" "I ada hutang dalam RM12,000." Macam mana pula? Dia masa tu dia baru kerja, umur 22-23. Macam mana pula kau baru kerja satu tahun ada hutang belas-belas ribu ni? "Tak, I pun tak tahu rupanya I ada satu syarikat yang I tak pernah tahu. Syarikat tu tak bayar cukai. So sekarang dia minta untuk settle, so dia nak minta transfer duit ni." Aku cakap, "Kau ni balik overseas cerdik-cerdik kena scam bodoh macam ni aje?" Jadi scam tu is real. Dan memang pun orang kalau pun hantar mesej, "Saya daripada LHDN, saya daripada SPRM," itu pun besar kemungkinan orang tak jawab tahu. So dia kena... memang tak sebab kita tak tahu, memang scammer banyak kan. So kalau sebab itu lepas dua hari dia kata dia cuba hubungi 24 kan Februari kan, kalau sebab itu keluarkan notis ini, memanglah orang marah dan ini yang kalau skrip ini ditentukan oleh Azam Baki, Anwar Ibrahim gali kubur. Azam Baki sudah tentu dia fikir diri dia aje lah. Dia tak fikir tahu apa pandangan rakyat ke, dia bukan ahli politik. Kalau dia rasa dia cerdik ahli politik, dah lama dia bertanding jadi menteri tahu. Dia tak berani. Dia bukan faham rakyat, dia bukan Jadi saya pasti dia tak terfikir langsung dengan hanya keluarkan notis mengenai James ini, satu Malaysia maki Anwar. Pening kepalalah Anwar tu. Dan yang lebih bahayanya tiba-tiba dahlah pengundi Cina dah memang jauh daripada Anwar Ibrahim, dia dah sampai ke peringkat agak benci, dengan adanya cerita mengejar anak Cina kurus keding ni, maka dia akan jadi satu cerita yang sangat emotif yang akan menyebabkan lebih ramai anak-anak pengundi-pengundi Cina terutamanya yang Gen Z akan benci kepada Anwar Ibrahim. Sebab itu soalannya ialah apa ada dengan Azam Baki ni sehingga Anwar Ibrahim sanggup kerugian sedemikian rupa, blunder after blunder after blunder disebabkan oleh Azam Baki? Azam Baki bukan peduli apa pun kat dia. Katakanlah kalau dia disambung balik lepas ini kan and then Anwar Ibrahim dah tak jadi Perdana Menteri, dia dah jumpa model itu. Sebab itu dia dah kekal dengan tiga Perdana Menteri daripada Muhyiddin Yassin, kepada Ismail Sabri, kepada Anwar Ibrahim. Bila masuk Perdana Menteri yang baru, dia akan pergi offer, "I will go after Anwar Ibrahim and put you put him in the jail just like I have served before. Seperti mana saya telah kejar Muhyiddin Yassin ke apa semua." Jadi kalau ada Perdana Menteri yang baru pun mesti dia fikir actually betullah, ada gunalah Azam Baki ni sebab dia tahu semua, dia ada file semua orang. Jadi untuk aku matikan lawan aku, baik aku simpan dia. Jadi dia tak payah peduli.
+
+
+
+[142:32] Nazri: Jadi YB dah share inference YB?
+
+
+
+[142:34] Rafizi Ramli: Apa dia?
+
+
+
+[142:35] Nazri: Sekarang.
+
+
+
+[142:36] Rafizi Ramli: Tak, inference tu lain. Tak, maksudnya nasihat kepada Anwar Ibrahim, kalau dia hilang kawalan daripada skrip-skripnya sehingga blunder macam mengejar James Chin ini berulang kembali, Azam Baki tak rugi apa-apa. Yang ruginya ialah Anwar Ibrahim kerana yang kena maki, yang kena lanyak, yang hilang undi ialah Anwar Ibrahim. Kalau pun Anwar Ibrahim kalah pilihan raya, Azam Baki ada pilihan, Anwar Ibrahim tak ada pilihan. Azam Baki can be of greater service to Anwar's enemy who becomes the next Prime Minister. Jadi sebab itu aku tak faham yang itu mungkin kita boleh cuba buat inference apa ada dengan Azam Baki minggu depanlah. Sebab secara logiknya lah kan, Anwar Ibrahim sepatutnya dah potong talian hayat dengan Azam Baki ni lama dah. Sebab kes James ini membuktikan bahawa kalau dua tiga bulan yang lepas kita kata dia liabiliti nombor satu Anwar Ibrahim, sekarang dia bukan sahaja liabiliti, dia sebenarnya blunders after blunders yang dia buat, Anwar Ibrahim kena tanggung.
+
+
+
+[143:54] Nazri: YB, ada beberapa lagi senarai soalan. Mungkin antaranya adalah yalah YB cakap tentang block WhatsApp tadi semua. Pengkritik-pengkritik atau Ceplos cakap, "Alah ini siasatan aje, kenapa tak nak bagi kerjasama?"
+
+
+
+[144:10] Rafizi Ramli: Dia kembali kepada kewarasan terutamanya mereka yang telah melihat skrip inilah, deja vu kan. Ini bila Ceplos-Ceplos ni bagi komen-komen macam tu kan, dia makin menguatkanlah kepercayaan bahawa mereka ni bukan orang PKR asal. Orang PKR asal tak cakap macam tu tahu. Itu selalunya jawapan-jawapan orang UMNO dulu tahu yang oh lalalala ni kan. Sebab orang PKR yang asal ni dia ada ingatan yang panjang sepanjang zaman reformasi dahulu kan. Jadi kita kembali kepada yang saya sebut tadi bahawa untuk menentukan sama ada sesuatu itu ada niat tersembunyi, ada skrip pelik ataupun tidak, kita bandingkan fakta-fakta yang kita kupas tadi. Fakta awalnya ialah adakah benda ini betul-betul ada kecurian wang? Mana bukti kecurian wangnya? Dan sepatutnya pihak berkuasa seperti SPRM, kalau pun ada orang buat laporan, ada orang buat tuduhan, dan bila dia tengok sebenarnya tak ada kecurian wang pun, jadi laporan itu tak perlu diambil peduli dan tak ada siasatanlah. Sama macam Anwar Ibrahim bela Azam Bakilah. Bila rakyat tanya, wartawan tanya kenapa tiada siasatan terhadap Azam Baki RCI pasal mafia korporat mafia tu kan, jawapan dia ialah kita hanya siasat perkara-perkara yang ada asas. Kalau tidak, kita tak boleh nak siasat semua. Betullah jawapan tu, kena ada asas. Masalahnya aplikasinya terbalik. Yang tuduhan terhadap Azam Baki tu banyak asas, banyak faktanya, tapi dia tak nak siasat. Yang tuduhan dan laporan mengenai ARM ini memang tak ada asas. Memang tak ada wang kecurian, memang dari segi prosedur semua di diluluskan dan semua ada resit. Anwar Ibrahim jumpa ARM, Anwar Ibrahim sengih sana, Anwar Ibrahim di sini, Zafrul di sana, rasmi di sini kan, Izzah di sana, tunjuk semua ada kan. Jadi secara warasnya maksudnya laporan itu dan tuduhan itu tidak ada asas dan secara warasnya tak diambil peduli pun. Tetapi tetapi bila dia dijadikan isu paling besar dalam negara ini dari segi rasuah, kes rasuah, inilah kes rasuah paling besar dalam negara sekarang yang melibatkan aku ni yang yang kan mengalahkan semua kan. Jadi sudah tentu orang yang waras kata ini ialah mainan politik. Dan mainan politik kita tahu bahawa rekod SPRM pun ada sejarahnya. Teoh Beng Hock mati, Sarbaini dulu tahun 2011 mati, Pamela Ling dalam perjalanan untuk disoal siasat ke SPRM hilang sampai sekarang kita tak tahu kan. Jadi rekod-rekod itu kalaulah Ceplos-Ceplos ini berada di tempat James dan Ceplos-Ceplos ini waras, masalahnya mereka tak waraslah kan, mereka sudah tentu faham bahawa perkara ini perlu berhati-hati kerana James hanyalah sebiji bola yang akan ditendang-tendang demi untuk merosakkan nama aku ataupun lebih besar demi untuk mendakwa aku. Kan? Jadi bukanlah James takkan apa nama ni saya pastilah James pun tak bodoh. Dia kerja dekat Cambridge. Ceplos tak fahamlah Cambridge duduk kat mana, mungkin dia ingat Cambridge tu dekat Kuala Selangor kut. Sekejap aje kut kan. Cambridge ni jauh kan, dia kerja. Jadi bukannya dia boleh balik kecuali nak buat onlinelah, tapi online saya tak rasa SPRM akan bersetuju nak buat online ke apa kan. Kecuali kalau dah SPRM susah payah sangat, pergilah kat Cambridge tu, interview James. Dapat cuti sekali. Dapat cuti sekali, pergilah kat Cambridge tu tanya James semua kan. Tapi dia tak nak, dia nak suruh James balik semua kan. Jadi James kerja kan, jadi semua ini perlukan penyelarasan, pertimbangan dan James pun ada hak dia. Jadi saya pasti nanti satu yang ini serahkan kepada peguam James nantilah macam mana dia nak berurusan dengan dengan SPRM kan. Jadi tak timbul pun soal oh kenapa takut kalau tak ada apa-apa semua kan. Kalau macam itu, Ceplos-Ceplos ni kalau ayat itu digunakan terhadap Anwar Ibrahim tahun 1998, Anwar Ibrahim bila dia kena pecat dan dituduh liwat, dia seret seluruh rakyat Malaysia ni demo untuk jatuhkan kerajaan. Ayat-ayat orang UMNO masa tu macam itulah: "Kenapa takut kalau kamu tak buat?" Kan? Sebab tu aku tak pernah sebab tu aku kata kalau engkau orang asal PKR kan, ada ayat-ayat yang kau takkan pakai. Kerana benda itu akan mengingatkan kau macam mana masa kau berjuang dahulu ayat-ayat itulah yang digunakan dan dihamburkan. Contohnya kan ayat-ayat yang macam Ceplos duk duk panggil sotong, semua ayat-ayat lucah semua ni kan, pondan semua ni, orang PKR tak pakai tahu. Kerana itu ialah ayat-ayat yang digunakan terhadap Anwar Ibrahim. Soal liwat, pondan, sotong semua ni digunakan terhadap Anwar Ibrahim. Jadi nampak sangat dia orang ni bukan orang asal PKR tahu kan. Jadi bukanlah soal James tak berani ke kalau takut kenapa tak datang. Kita sedia maklum bahawa ini adalah satu kerangka skrip politik. Dan kita sedia maklum bahawa nilai James ialah seseorang yang boleh ditekan untuk cuba jadi bukti pendakwaan terhadap aku, walaupun pendakwaan itu ialah pendakwaan bodohlah kerana dia langsung tidak melibatkan wang. Tapi kalau tengok kenyataan Azam Baki awal-awal masa kes ini keluar kan, bila wartawan tanya kan, Azam Baki ni pun dia kena pergi kelas politik dan nasihat saya kepada dia, dia sepatutnya kurang bagi sidang media. Sebab dia tak tak pandai buat sidang media, dia banyak terlepas cakap. Dia contradict himself. Kalau dalam kes James ni, contohnya dia contradict: mula dia kata sebagai saksi, kemudian sebagai tertuduh kan. Dalam tempoh beberapa minit aje. Yang awal-awal pasal ARM ni, antara kenyataan media dia yang dia awal, dia actually he wear his plan on his sleeve tahu. Sebab dia awal-awal lagi kata SPRM ni bukan sahaja menyiasat mengenai rasuah yang melibatkan wang, kami juga bertanggungjawab menyiasat salah guna kuasa. Maksudnya awal-awal lagi dia tahu bahawa dia tak ada kena-mengena dengan duit. The best chance untuk dakwa dan sumbat aku dalam penjara ialah kononnya aku melanggar proses dan melanggar proses itu walaupun tak ada kena-mengena dengan duit, bagi mereka ialah, "Hmm minta maaf, itu telah satu kesalahan, kamu telah itu satu jenayah kerana kamu melanggar proses, kamu boleh didakwa." Masalahnya mereka perlukan James untuk bagi keterangan dan juga bukti untuk mendakwa aku. Kononnya aku suruh James tipu kat sana, sembunyi benda ini dan perkara itu ialah satu kesalahan kerana telah mislead Kabinet kan. And I think Azam Baki dah bagi plan tu lebih awal pembacaannya kan. Jadi kalau kita jadi James, hak James lah untuk begitu berhati-hati untuk memastikan perkara ini tak berlakulah kan.
+
+
+
+[152:48] Nazri: YB, 2 jam setengah, tapi saya ada tiga soalan lagi.
+
+
+
+[152:50] Rafizi Ramli: Okey.
+
+
+
+[152:51] Farhan: Saya ada satu juga tapi tak apa.
+
+
+
+[152:53] Rafizi Ramli: Okey.
+
+
+
+[152:53] Nazri: Pertama, pasal 1.1 bilion balik. Mungkin akan ada pengkritik yang cakap, oh sebenarnya kita boleh buat cara lain untuk membangunkan ekosistem silikon kita ini. Kenapa nak bayar kepada syarikat luar negara? Kita boleh buat universiti dan sebagainya dan mungkin kos tu tak tahulah, mungkin lebih murah. Sebagai contoh.
+
+
+
+[153:12] Rafizi Ramli: Mana ada kos buat universiti lagi murah.
+
+
+
+[153:14] Nazri: Ha mungkinlah dia kata. Maksudnya ada alternatif lainlah.
+
+
+
+[153:17] Rafizi Ramli: Kalau dia kalau dia kata mungkin, dia bodoh. Sebab kos satu universiti berapa bilion kan. Dan...
+
+
+
+[153:24] Nazri: Ada alternatif lainlah maksudnya.
+
+
+
+[153:26] Rafizi Ramli: Apa alternatif lain? Ha cuba tanya dia apa alternatif lain.
+
+
+
+[153:28] Nazri: Contohnya kursuslah, kursus dekat... memang macam bodohlah tapi saya rasa...
+
+
+
+[153:34] Rafizi Ramli: Kau pun tahu benda tu bodoh kan? So apa jawapan dia? Bagi kursus?
+
+
+
+[153:39] Nazri: Ha. Dia susah sebenarnya sebab saya percaya memang betullah dengan cara ni. Bila ada ARM ni, kita buat IC design kita sendiri.
+
+
+
+[153:46] Rafizi Ramli: Yalah, tak tak tak, yang yang kata alternatif lain tu, maka jawapannya tanya dia balik apa alternatif lain? Ha. Dia kantoi lah. Dia akan kata, "Oh kita bagi latihanlah." "Oh latihan eh. So berapa puluh tahun dah kita melatih?" Mana ada. So, "Oh apa nama ni kita bina pemindahan teknologi." "Ha cuba beritahu macam mana kita dah daripada 1972 ada industri semikonduktor, berapa banyak IP yang telah dipindahkan?" Lama-lama dia jem lah. Jadi ha.
+
+
+
+[154:20] Nazri: Itu dua soalan lagi eh?
+
+
+
+[154:21] Rafizi Ramli: Ha. Aku melatih engkau macam mana nak jawab Ceplos lah kan. Tapi sebenarnya kadang-kadang tak payah layan pun sebab nanti sel otak kau mati.
+
+
+
+[154:34] Nazri: Baik baik. Respon daripada ARM. Ramai juga yang tanya, kenapa bila banyak sangat hiruk-pikuk semua ni tapi yalah kita menantikan jawapan apa respon daripada ARM jugalah. Mungkin apa perspektif YB terhadap persoalan orang biasalah yang rasa nak tahu pasal benda tu?
+
+
+
+[154:50] Rafizi Ramli: Keadaan ini meletakkan ARM dalam keadaan yang susahlah. Dia dah ada perjanjian dengan kerajaan Malaysia dan dia ada komitmen selama 10 tahun untuk membangunkan industri front-end semikonduktor sepenuhnya di Malaysia. Kemudian dia dah mula mobilize dan bawa pelaburan dekat sini, maksudnya dia dah mula buka pejabat, dia dah mula bawa engineer-engineer dia ke sini kan. Dia dah mula adakan kerjasama dengan universiti dan ada banyak different different facets of the development yang dia buat kan. Oleh itu dia ada komitmen dengan negara Malaysia yang perlu dikendalikan dengan kerajaan. Kerajaan itu ialah Anwar Ibrahim, sekarang kalau dekat Kementerian Ekonomi, Akmallah kan. Kalau dekat MITI, Zafrul-lah kan. Jadi mereka sedia maklumlah contohnya bahawa isu ARM ini telah diseret menjadi senjata politik untuk membunuh seorang yang bernama Rafizi Ramli kan. Jadi mereka tak boleh nak sesuka campur. Dia tak boleh nak contohnya kata, "Oh sebenarnya tak, tak macam tu." Dia tak boleh kan. Jadi sebab itu juga sepatutnyalah kalau SPRM, Azam Baki ni betul-betul jujurlah nak siasat apa nama ni ARM ni kan, saya boleh ajar mereka cara yang mudahlah tanpa buat drama dan tanpa kejar anak Cina keding ni kan. So contohnya, pertama, antara kumpulan pertama dia perlu ambil kenyataan dan siasat ialah ARM lah.
+
+
+
+[156:48] Nazri: Hmm.
+
+
+
+[156:48] Rafizi Ramli: Dan mereka boleh bekerjasama dengan Bank Negara untuk siasat aliran wang. Ada ke tidak wang daripada ARM masuk kepada orang yang tertuduh, baik aku ataupun James? Check bank akaun aku, check bank akaun James. Kemudian tengok kepada pemilikan harta, ada ke tidak pemilikan harta yang tiba-tiba apa nama ni naik mendadak you know. James kereta Persona tulah, aku rumah sewalah sampai sekarang, tak ada tambah harta barulah dalam tempoh satu tahun yang lepas kan. Jadi itu dengan mudah ARM akan bagi kerjasamalah, semaklah semua dan daripada situ kalau dah memang tak ada bukti aliran wang, sepatutnya habis kat situlah kan. Tapi dalam keadaan sekarang, ARM dia tak boleh campurlah. Tetapi contohnya kalau perkara ini sampai ke mahkamah, mereka buat keputusan untuk sebab dia sebenarnya ego. Orang yang ada kuasa ni macam Azam Baki ke, Anwar ke apa kan, pandangan dia ialah aku akan ajar dia. Kau tak tahu tau di corridor of power, this sentence "teach him a lesson" ni benda biasa yang disebut. "Teach him a lesson." Sebab dia kira budak ni rasa dia berani sangat kan, kita ajar dia kan. Jadi itu memang mentaliti orang yang berkuasa, baik pihak berkuasa, enforcement agency you know, agensi-agensi macam SPRM, polis ni "kita ajar dia ni" benda yang sangat biasa dalam mentaliti mereka kan. "Kita ajar dia ni" di kalangan orang politik besar, Perdana Menteri semua ni kan, semua macam tu kan. Jadi dia sebenarnya dia hanya nak settle score itu, nak ajar kan. Jadi kalau dia dakwa juga walaupun tak ada bukti, kalau benda tu nampak bodoh sangat dia nak dakwa juga kan dan itu terpulang kepada sayalah untuk saya sapina ARM. Maka ARM akan kena sapinalah. Sama ada ARM nak teruskan ke tidak perjanjian itu semua, kesannya kepada kerajaan dan negara bila dia dah jadi kes mahkamah. Kerana bila dia dah jadi kes mahkamah, bila saya sapina ARM untuk jadi saksi dan grill ARM semua dan benda ini jadi rekod mahkamah, apa kesannya kepada ARM di peringkat antarabangsa? Yang itu semua kita tak boleh nak katalah kan. Jadi masing-masing ada hak. Hak mereka kalau mereka nak selesaikan ego mereka dan kejar dan dakwa, itu terpulanglah. Aku dah berapa kali kena dakwa, biasalah kan. Tapi hak saya juga ialah bila kena dakwa, saya sapina habislah daripada Anwar Ibrahim, daripada Zambry Kadir, daripada Gobind Singh, daripada Fahmi Fadzil, kepada Tengku Zafrul, kepada KSU dia, habis semua kepada ARM tak ARM, habis aku akan sapina kan. Dan ARM ini ialah syarikat monopoli dunia. Apa-apa ARM masuk mahkamah jadi cerita macam ni, dia akan sekali lagi menjadi cerita antarabangsalah.
+
+
+
+[160:13] Nazri: Mungkin terakhir dan boleh collab dengan Farhan sekali berkaitan dengan kesan sokongan isu ini juga. Sebab mungkin ada soft spot sikit khususnya kepada komuniti Cina sebab penceritaan dia tu ialah seorang yang dapat straight A tapi bayar sendiri...
+
+
+
+[160:31] Rafizi Ramli: Bukan straight A, straight A1. Zaman dia A1 lagi, dia 12 A1.
+
+
+
+[160:36] Nazri: Ya, dan kemudian kena bayar apa duit untuk belajar sendiri dan memilih untuk serve kepada negara, tapi akhirnya diperlakukan seperti ini. Sebab itu kalau kita tengok ahli-ahli Parlimen DAP pun ramai yang galak mengeluarkan pandanganlah. Mungkin kesan apa ni sokongan daripada isu ni. Kalau Farhan nak tambah juga?
+
+
+
+[160:58] Farhan: Okey, so saya nak tambah sikitlah. Lagi satu yang saya dapat ni reaksi yang kawan-kawan bagi personally kepada saya. Saya ada kawan-kawan ramai yang overseas, ramai yang masih kat sini tapi planning to go overseas. So consensus dalam group tu dia orang kata macam...
+
+
+
+[161:16] Rafizi Ramli: "Jangan balik Malaysia."
+
+
+
+[161:16] Farhan: Dia orang kata yang yang dekat luar Malaysia tu, "Aku dah cakap dah, siapa suruh duduk kat sana? Benda macam ni apa benda macam ni pun boleh berlaku lagi, you tengok Reformasi ke apa, emigrate." Yang dekat Malaysia pula jenis yang macam, "Actually betullah, yang kita orang dah takde hope dah, so might as well kita keluar." So bila dia orang tengok satu talent yang ada kat Malaysia yang sacrifice dan berusaha untuk negara dengan semangat patriotism semua ni kena juga macam ni, I think ramai daripada kan kita sembang pasal Gen Z dan Millennial last week kan, ramai daripada golongan Millennial dan Gen Z sekarang pun dah start mula maybe I don't know whether this is the right word, tapi disenfranchised dengan this whole patriotism punya punya feeling. More and more people, especially my generation, yang merasakan buat apa aku stay on? I I mean...
+
+
+
+[162:13] Rafizi Ramli: Malaysia ni untuk Azam Baki aje.
+
+
+
+[162:15] Farhan: Even people who close to me are saying that.
+
+
+
+[162:16] Rafizi Ramli: Malaysia ni untuk Azam Baki sahaja.
+
+
+
+[162:17] Farhan: Even people who are close to me are saying that maybe life is better abroadlah.
+
+
+
+[162:24] Rafizi Ramli: Kita tak boleh nak tentukan terus sekaranglah tahap sokongan semua ni kan and you know kalau pun ada correlation contohnya ada drop sokongan dalam tempoh sebulan kepada kerajaan, you know correlation is not necessary causation kan, tak tentu disebabkan isu ini. Jadi data yang terbaik yang kita ada setakat ini ialah melihat kepada reaksi di media sosiallah. Dan reaksi itu teruklah. Reaksi di media dan media sosial, komen dan juga maksudnya isu ini sangat emotif terutamanya kepada Gen Z dan kumpulan-kumpulan pengundi yang secara tradisinya mengundi PH lah: bukan Melayu, kumpulan bandar, kumpulan terpelajar kan. Kerana mereka boleh relate dengan perkara itu. Kumpulan yang banyak menyokong reformasi ini dulu-dulu, kalau yang Melayunya ialah kumpulan terpelajar, kumpulan profesional, kumpulan yang 20-30 tahun lepas berada di tempat yang sama seperti James. Dia membuat pilihan untuk to stand up and be counted. Mereka ada pilihan yang tak payah ambil peduli pasal semua ni, kita kerja kan dah cantik pakai lanyard bagus-bagus, gaji besar semua kan, why bother? But they were the few ones yang rasa it's my moral duty to do something. Jadi bila jadi macam ini, satu, yang tua-tua tu dia boleh relate because they could have felt the same way melihatkan kekecewaan yang berlaku sekaranglah dengan reformasi semua kan. Yang muda-muda pula dia boleh relate kerana umur, kerana aspirasi semualah. So I I wouldn't be so bold to say lah sebab perkara ini orang nak migrate ke, undi jatuh, I think that one kita kena tengoklah. Tetapi dalam setiap perkaralah kan yang besar, perubahan politik yang besar, dia perlukan satu satu cerita yang emotif. Dan cerita yang emotif itu selalunya melibatkan orang yang paling kecil. Kalau tengok Arab Spring tahun 2010 dulu, dia bermula di mana?
+
+
+
+[165:06] Nazri: Hmm.
+
+
+
+[165:07] Rafizi Ramli: Feels like so long ago. Dia bermula di mana?
+
+
+
+[165:10] Farhan: Yang budak tu tengah jual lepas tu kena...
+
+
+
+[165:12] Nazri: Bakar.
+
+
+
+[165:14] Farhan: Libya? No.
+
+
+
+[165:15] Rafizi Ramli: No, it's not Libya. Kat mana?
+
+
+
+[165:17] Farhan: Qatar.
+
+
+
+[165:17] Rafizi Ramli: Qatar tak adalah. Algeria.
+
+
+
+[165:21] Farhan: Algeria, sorry.
+
+
+
+[165:22] Rafizi Ramli: Dia bermula di Algeria oleh kerana seorang budak tu dia miskin sangat kan, finally he burned himself. Nama dia Mohamed Bouazizi. And that was 2010. So I mean who is Mohamed Bouazizi? He's just a poor kid somewhere kan. Tapi tindakan dia membakar diri dia for all his frustration semua fired up the whole region. Sebab orang boleh relate tahu dengan kepayahan. After all dia kerja paling banyak dia dapat pun dua tiga keping roti aje pun, itu pun dia tak dapat kan. So kesan SPRM pergi kejar James ini dia tak adalah sampai ke peringkat Mohamed Bouazizi kan, tapi kalau tengok kepada reaksi dia, sosial media, kemarahan itu real tahu. Sepanjang daripada 2025 sejak pergolakan dalam PKR berlaku kan, walaupun tak puas hati macam mana pun kan, tak ada lagi isu yang menyebabkan penyokong-penyokong utama PKR yang memang dikenali dekat sosial media, kerja dia pertahankan PKR daripada dulu, kita tak kenal pun siapa dia, they have been there forever tahu yang duk support PKR ni kan, tapi tak pernah kata dia isytihar, "Saya takkan undi PKR lagi." It's only isu James ni, I think it's it's almost like the final straw that breaks the camel's back tahu yang bagi dia orang okeylah, enough is enough lah. Ada yang hantar borang keluar parti terus kan. Mereka mungkin tak ramailah, mungkin 100-200 orang kan, tapi 100-200 orang dalam media sosial yang bising, dia punya network effect tu besar kan. Jadi itulah yang macam saya kata tadilah. Ini kesilapan Datuk Seri Anwar Ibrahimlah bila dia lepas tangan naratif dan juga jalan cerita skrip ini diserahkan bulat-bulat kepada Tan Sri Azam Baki. Azam Baki tak faham soal naluri rakyat, naluri politik, soal dia tak faham bahawa mengejar an underdog, seorang budak macam itu sangat sensitif. Sebab seumur hidup dia, dia ada kuasa. Dia boleh tekan, jentik siapa yang dia nak tahu. Kan dan saya ingat sebab itu dia bermati-matian nak sangat kekal sebagai Ketua Pesuruhjaya tu sebab dia tak pernah hidup tanpa kuasa. Kalau dia tak jadi Ketua Pesuruhjaya, ini kali pertama dia hidup tanpa kuasa tahu. And I don't know, I suppose he fears it so much lah kan. So but because of that, dia tak faham psikologi rakyat biasa which is you can do you know kau orang nak berkuasa, you nak buat apa, you nak ligan semua, you liganlah. But the moment you jentik orang yang memang sepatutnya dia tak ada apa-apa, dia budak biasa aje pun, why do you bother? That is I think perkara yang spark dengan James di sosial media kebelakangan ini. How long it will be, I don't know lah. Kita tengok, dia juga bergantung kepada episod-episod yang akan datang. Contohnya kan kalau James balik nanti setelah dirundingkan dengan peguam dia balik, dia kena tahan, dia kena heret, letak dalam apa ni dia buat macam-macam kat dia kan, lagilah benda api tu akan tersebar lagi besar kan. So dan terpulanglah. Saya ingat saya memang dah pasrahlah, I'm ready for this. Saya cakap kat James, "Alah James, it's not a big deal lah. The most they will do ialah they will ask you to strip." Macam tak biasa, kau strip ajelah depan dia orang tu, dia orang nak tengok sangat kan. But I think James is sorting out dengan peguam dia dan I think lebih baik peguam dialah nanti yang akan komen bagi pihak James semua kan.
+
+
+
+[170:35] Nazri: Okey.
+
+
+
+[170:36] Rafizi Ramli: Oi, lama ni!
+
+
+
+[170:36] Nazri: 2 jam 50 minit.
+
+
+
+[170:37] Rafizi Ramli: Ya Allahuakbar, dekat pukul 1:00 pagi!
+
+
+
+[170:39] Nazri: Tidur kejap lepas tu boleh buat tahajud kan?
+
+
+
+[170:41] Rafizi Ramli: Ha tulah, tidur dua minit sat lagi.
+
+
+
+[170:43] Nazri: Okey. Baik, itu sahaja. Itu sajalah kut.
+
+
+
+[170:48] Rafizi Ramli: Kita...
+
+
+
+[170:49] Nazri: Kita...
+
+
+
+[170:50] Rafizi Ramli: Selamat hari raya.
+
+
+
+[170:50] Nazri: Selamat... Eh?
+
+
+
+[170:51] Rafizi Ramli: Dah boleh dah selamat hari raya ha.
+
+
+
+[170:54] Nazri: So minggu depan?
+
+
+
+[170:55] Rafizi Ramli: Selamat hari raya lagi.
+
+
+
+[170:56] Nazri: Selamat hari raya lagi.
+
+
+
+[170:57] Rafizi Ramli: Selamat hari raya. Minggu raya tu pun, selamat hari raya lagi. Cuma minggu raya tu mungkin kita akan bersiaran dua tiga hari sebelum tulah, hari Selasa ke kan ha. Selamat hari raya.
+
+
+
+[171:08] Nazri: Selamat hari raya, kita tunggu...
+
+
+
+[171:09] Rafizi Ramli: Aku tak sabar nak beraya ni.
+
+
+
+[171:11] Nazri: Inference YB minggu depan.
+
+
+
+[171:12] Rafizi Ramli: Tengoklah biar saya fikirkan. Sebab nanti kalau aku kena ke lokap tak apa, kalau kau orang kena pergi lokap padan muka, bulan puasa ni. Tapi ya, kita kena nak macam mana pun nak kena kupas jugalah soal inference itu.
+
+
+
+[171:25] Nazri: Baik baik. Okey kita tidur dulu YB. Eh dia orang dah tidur sebab kita dah dekat pagi. Okey.
+
+
+
+[171:31] Rafizi Ramli: Janganlah cakap.
+
+
+
+[171:31] Nazri: Memang live streaming dah tahu kan.
+
+
+
+[171:33] Rafizi Ramli: Tak adalah, dia orang tahu, tapi cubalah berlakon sikit.
+
+
+
+[171:35] Nazri: Okey okey okey.
+
+
+
+[171:36] Rafizi Ramli: Jadilah Anwar Ibrahim, buat-buat penatlah sikit.
+
+
+
+[171:38] Nazri: Ya Allah, mengantuknya. Okey tidur dulu, selamat malam.
+
+
+
+[171:41] Rafizi Ramli: Okey, selamat malam. Selamat berpuasa, assalamualaikum.
 
