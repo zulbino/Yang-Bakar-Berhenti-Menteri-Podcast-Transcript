@@ -7,886 +7,2049 @@ publish_date: '2026-08-21'
 duration_seconds: 11922
 duration: 3h 18m
 view_count: 89200
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[00:45] Podcast yang berhenti menteri, episod ke-60.
+[00:44] Host: Podcast Yang Berhenti Menteri, episod ke-60. Macam biasa bersama saudara Rafizi Ramli. Dan yang tak berapa biasa, bersama tetamu khas kita, saudara Sum Dek Joe.
 
-[00:49] Macam biasa bersama saudara Rafizi Ramli. Dan yang tak berapa biasa bersama tetamu khas kita. Saudara Sumdek Joe. Eh Sumdek Joe ke Samdek Joe? Samdek Joe. Saja je saya test suami. Ya lah tu. Samdek Joe. Tapi tak apa. Sorry lah. Apa khabar? Sehat. Terima kasih. Kalau tengok profil. Yelah saudara Joe pun bukan first time muncul lah. Sebelum ni kita tengok banyak dekat launching. Dekat jelajah-jelajah semua kan. Tapi kalau tengok background lah. Saudara Joe memang apa? Kena panggil saudara Joe. Oh Joe lah Joe. Joe. Lalu formal. Lalu formal lah. Okay. Saudara. Kena ni Anwar Ibrahim kan? Kita akan sentuh nanti. Okay. Lecturer dekat Australian National University. Okay. Kemudian jadi advisor. Microeconomic advisor in Papua New Guinea's Department of Treasury. mana dekat Papua New Guinea tu? So pada masa itu saya dapat so I was pada masa itu saya bekerja dengan Asian Development Bank dan Asian Development Bank dia ada projek-projek di negara yang kurang membangun seperti Papua New Guinea di mana kerajaan mungkin kaki tangan awam mereka kurang capacity untuk buat budgeting atau forecasting so peranan utama saya pada masa itu di kerajaan Papua New Guinea, terutama Department of Treasury ataupun perbendaharaan dalam konteks Malaysia untuk buat medium term forecasting dengan budgeting. Itulah peranan saya kat sana. Fiskal lah. Fiskal lah. Memang fokus dalam fiskal sahaja. Dulu-dulu Malaysia pun ada lalui zaman itu. Okey. Yang mana
 
-[02:42] pakar-pakar daripada World Bank daripada agensi ekonomi dunia datang bekerja sama dan membantu melatih sama juga macam peringkat sekarang
 
-[02:56] Kerajaan biasa saja dapat permintaan daripada selalunya negara Afrika untuk kita menghantar pegawai kita ataupun pakar kita melatih kementerian mereka. Kalau macam saya dekat Kementerian Ekonomi dulu, sama ada makro planner ataupun pegawai-pegawai statistik daripada DOSM. Cuma kesian kat dia orang lah. Aku ingat semua cakap tolonglah jangan hantar aku. Afrika lah yang banyak je kan. Tapi kerja itu sangat bermakna. Sebenarnya it's about you boleh directly helping the people who need it most. Compare dengan berbanding dengan say kat Malaysia, kita dah ada capacity semua. And actually it's actually very meaningful to be helping people who need it the most. Tapi orang kita tak nak, dia nak pergi New York. Attachment di DC, buat apa nak attachment kat Papuan ni gini. Kenapa you tak jadi hitam? Tak jadi gelap? some whitening effect ke sebab I was quite heavily into diving tapi so far okay je and last kali sebagai economist at the Asian Plus 3 macroeconomic research office ini yang terakhir sekali lah sebelum resign betul jadi come to next question maybe kenapa sanggup resign sebab I think yelah you make your corporate career ni ni dipanggil corporate career bukan corporate lah career tak bukan corporate saya pun tak tahu kerjaya korporat. Kerjaya korporat ni dah tanpa actually. Sebab tadi I think the more appropriator macam I think it should be international civil servant. Sebab our stakeholder ni memang semua kerajaan-kerajaan negara masing-masing, negara serantau. So kita memang bukan macam... So ASEAN plus 3, maksud ASEAN campur Cina. Campur Cina, campur Jepun dengan campur Korea Selatan.
+[00:59] Rafizi: Eh, Sum Dek Joe ke Sam Dek Joe?
 
-[04:52] Come to that question. I mean, why are you willing to resign and full-time to help YB RAF together? Why help me? Help together, not YB RAF. Fighting together.
 
-[05:05] I think there are times when we need to... You have to speak Malay, Joe. Speak Malay? Make a little bit. I think... Just 4 minutes, baby. Because... I'm a tough teacher. Indeed. But back to the topic. I think Balik Negerat, to serve, to contribute to the struggle together, this is one of the...
 
-[05:31] Calling in English. In Malay, calling is... Panggilan. Panggilan. Panggilan translation. Kesedaran. One... It's something that I think it's a calling that you need to answer to. Because in ASEAN Plus 3,
+[01:00] Host: Sam Dek Joe.
 
-[05:48] ASEAN Plus 3 is based in Singapore. So Singapore is close actually. So I was quite... So I repeated JB with Singapore even though I live in Singapore. But I repeated it quite often. So it's... To me... It's not as far... It's not as far compared to Papua New Guinea. But I think Malaysia deserves a lot better. The political parties that we have now, they are not there at all. They are very limited in discussing policies, structural reforms, how to resolve long-term problems. They are not being discussed or raised in any political parties that exist now. Sometimes he said I scammed him, that's it. But it's not YB forcing you or anything. I don't know, I just forced him. I didn't force him, he's a pro bono, voluntary.
 
-[06:59] But Joe was my intern in 2014. 2014, 2014. When you were in first year after your first year. Second year. Going into second year? Going into second year. So, he was an intern. So, I don't know what it's called. Well, this is for the young people in their 30s.
 
-[07:27] So mungkin pada masa itulah saya ingat
+[01:01] Joe: Sam Dek Joe.
 
-[07:30] who are in their 30s, they can compare it to the problems that exist because they have gone through the process, they have worked, they have experience, and they can also compare it to the solutions that exist with the parties and politicians. So, those who want to do crazy work like Joe put the position and
 
-[07:56] tumpu untuk sama-sama membina bersama. Saya alu-alukan bayaran gajinya ialah sepuluh sen. Kosong lah. Kosong. Maksudnya kosong. Tak, sepuluh sen depan ni bagi. Okay, baik-baik. Okay. Kita macam biasa lah akan start dengan beria sebelum kita start dengan dua topik yang utama lagi. Dan nanti kita minta komen daripada Joe sekali lah. Kita tengok macam mana apa yang berlaku minggu ni. mostly sebab kongres kot. Saya rasa adalah dua tiga yang akan diselitkan. Masih lagi pasal kongres PKR ke? Kita tapi kita tak masukkan dalam hidup keras lah. Oh. Still lah masih lagi pasal kongres PKR lah. Sebab. Dia ni tak move on lagi daripada PKR. Bukan tak move on. Dia cakap pasal polisi negara. Haa. Pasal gaji ke apa ke. Pandai ke pusing. Okey. Haa. Luruh jantung saya tau. Haa. Okey kita teruskan. Beria. Haa. Yang pertama kita mula dengan UMNO lah. Haa. Kita Susa Agung UMNO Siapa yang dapat LOD ni? Ni Selampau ramai Cuma Ini berlaku selepas disentuhnya Isu RCI Tabung Haji lah Jadi Ismail Saleh dapat LOD Abid Abdullah dapat LOD Dan juga Page-page Pro kerajaan Yang kita tak tahu siapa lah Pun diancam untuk Disaman juga lah My News Hub Something macam tu My News Hub tu bukan Najib punya ke? Sekarang dah jadi... Yakah? Sekarang dah swing ke?
 
-[09:30] I didn't read it. No, there's another name. But it's close. My News Hub is Najib's. It's close too. But the point is... It's Najib Boon's. It's Najib Boon's. LOD. RM5 million. And if we look at it, usually, this political persona, he won't win up to RM5 million. He's like Isyam Jalil, we've talked about it before. He also wants to sue a few million. You can ask for that, but...
+[01:01] Rafizi: Sam Dek Joe. Saja je saya test.
 
-[09:59] Hakim yang akan tentukan Sebab Hakim tengok aggravated damages tu Berdasarkan kepada Betapa tercalanya reputasi kan So yang berianya macam mana? Yang berianya adalah Yelah satu dia nak saman 5 juta Dan antara orang-orang yang disaman tu pun katanya Yelah dia just bangkitkan kenyataan contoh eh Kenyataan saudara Ashraf pada tahun 2016 contohnya amaran tu kan ialah dikatakan dalam surat itu tak menggambarkan keadaan sebenar atau mahu haji itu dikatakan oleh saudara Ashraf sendiri sebab itu menjadi timbalan menteri so depan ni kau dapat LOD saya bersedia untuk melawan sampai habis sebab netizen ni pun satu duk tag aku dengan tag Ashraf Haji Ashraf Haji saman oh masa nak suruh saman cari aku Masa tak ada apa-apa Lanyak aku kan So apa yang beria je
 
-[11:06] Saya rasa nilai tu lah Dan dia punya Nilai 5 juta Dan dia punya kesungguhan untuk nak
 
-[11:16] saman semua orang yang kaitkan dengan dia je dia saman. Saman, saman, saman. Kalau cakap pasal nilai ni daripada OAB dari segi academic terms lah sebab ialah mahkamah kat Malaysia ni dia regard damages ni sebagai damages lah bukan sebagai punitive atau hukuman. Jadi dia kena ada some calculation macam mana benda ni boleh justify. Dia apa panggil? Vindication of reputation. Yang terhadap duit. So yang juta-juta ni biasanya contohnya kes tahun 95 sebab fitnah itu menyebabkan dia lah bisnes dia rugi ke apa ke. So yang ni dia nak kena buktikan lah sampai macam tu sekali. Dia
+[01:04] Joe: Sam Dek Joe, tapi tak apa.
 
-[11:56] Yelah saya Dua hari lepas kan saya sebut Saya
 
-[12:04] I've been a caprice for 3-4 months. You've been a caprice for a long time. I just kept quiet. Just because he just lost the caprice. That's bad. I told him that I also have a caprice. Don't forget. But that's their own rights.
 
-[12:27] Dr. Ashraf Wajdi Dia nak saman ke apa Itu semua hak yang ada Di sisi undang-undang Terpulang Ada defamation law Dan Saman ni tak mudah lah Sebabnya Ialah kerana Kepada mereka yang
+[01:06] Host: Sorrylah, apa khabar?
 
-[12:44] ialah yang tak biasa soal saman sebab di mata orang kita, mata biasa dia tidak melihat soal fitnah ke tak fitnah ni dari perspektif undang-undang. Perspektif undang-undang ni dia akan tengok contohnya kalau yang disebut itu direka-reka
 
-[13:05] Tanpa bersandarkan kepada bukti. Yang itu memang dia akan jadi defamation lah. Kemudian kalau contohnya...
 
-[13:15] yang disebut itu berniat jahat jadi sebab itu kalau jadi ahli politik bila orang kritik semua tu dia tak mudahlah untuk kita tunjukkan ia berniat jahat
+[01:08] Joe: Sihat, terima kasih.
 
-[13:33] Especially if the criticism or negative view towards us is related to public interest. So it's not easy. Only this one, the netizens, actually if you want to sue, the easiest to sue, which God willing can win in court, is those who comment on Facebook. That's if for example, I want to sue, the harsh comments, it's definitely win.
 
-[14:02] Because he seems to have a bad intention, then the facts are all wrong. So that's the choice that politicians have. If, for example, we want to argue and sue all those who say bad things to us, especially if we understand the defamation law and we know that if we sue, we will be fined. It's okay.
 
-[14:31] But we're stupid. Because when we sue, it's the face of the person. Because he suddenly had to go to court. But when he gets to court, he will apologize. Even before he gets to court, he will apologize.
+[01:10] Host: Kalau tengok profil, yelah, saudara Joe pun bukan first time muncullah. Sebelum ni kita tengok banyak dekat launching, kemudian dekat jelajah-jelajah, semua kan. Tapi kalau tengok background lah, saudara Joe memang apa...
 
-[14:47] But for that time, you need to have a lawyer. Then, at least, you need to send an LOD. And the process for the lawyer to draft the LOD, send... The LOD is a letter of demand, a notice of application, right? Apologize, right? Then, the cost of each lawyer, each case, right? And when you go to court, before they start talking, the conversation starts,
 
-[15:14] Hakim akan minta supaya ada mediation Dan hakim selalunya akan minta supaya diselesaikan di luar mahkamah Itu yang kadang-kadang peguam akan nasihatkan anak guam masing-masing berdamai Kalau yang komen itu netizen biasa
 
-[15:36] Dia mungkin tak ada peguam pun. Jadi dia macam maaf je lah. Dia pun balik. Kita yang saman ni... Kena bayar peguam... Masa semua kan. Jadi saya telah menerima lama daripada dulu bahawa...
+[01:27] Rafizi: Kena panggil saudara Joe baru dia rasa Joe.
 
-[15:51] yang netizen yang jahat-jahat yang suka fitnah sebab dia tak rugi apa-apa tau dia rasa dia tak rugi apa-apa dia hit and run dia pergi dia maki dia pergi dia maki dia pergi dia maki kan dia ulang benda yang tak betul dia rasa dia terlepas lah sebab tak ada orang ambil tindakan dekat dia tapi ialah kepada orang Islam yang kita percaya ada akhirat ada neraka semua ni menjawab lah kau dalam kubur kan Komen-komen itu datang daripada sama ada media ataupun sama ada daripada ahli politik lain semua kan. Then kalau kita nak saman pun kita kena tengok juga lah. Kalau yang ditanya itu adalah satu persoalan ataupun dipertikaikan. Jadi kita kena jawab lah sebagai ahli politik. Sebab rakyat biasa dia tidak ada platform untuk menjawab kan. Kita ada platform. nak puaskan hati semua orang apatah lagi kalau soal pertembungan politik you cakap A, dia cakap B you cakap B, dia cakap C kita ulas dan ulas dan ulas harapan kita ialah
 
-[17:05] lebih ramai orang yang percaya daripada yang menerima fitnah itulah kan jadi long and short of it lah jadi saya memerhatikan bila Dr. Ashraf Wajdi ni beria untuk saman
 
-[17:24] Saya pun tak tahu siapa yang menasihati dia. Perkuam-perkuam dia ke apa kan. Sebab it's a rabbit hole.
+[01:30] Host: Joe lah Joe. Okey lalu formal.
 
-[17:32] Once you masuk ke dalam umpan itu, saman, you kena saman semua orang. Sebab the more you nak saman, the more orang akan, sebab kena ingat perangai netizen ni, dia rasa dia akan lepas segala-galanya. Bila dia dah kena baru, kesianlah pakcik tak ada pekerjaan. Masa dia maki, dia tak ingat. Masa dia kutuk orang semua, dia tak ingat tau. Cuma saya macam tu lah, saya pun kesian. Kau heret pakcik ni, dia bukan ada duit pun. Lepas tu dia akan bankrupt. Buat apalah. You nak susahkan hidup dia. Keluarga dia mungkin tak berdosa pun. Dia pun mana tahu. Suami dia tu kerja kaki terol orang. Mana isteri tahu kan. Tak pasal-pasal. Lepas tu hilang mata pencarian semua. Jadi sebab tu saya tak pernah saman. Orang cakap apa. Dan pengalaman saya contohnya kalau pasal tabung haji kan. Sebab yang UMNO dan bagus jugalah Ashraf Wajdi melalui perkara ini kan. zaman saya bawa tapung haji ni, isu dia ni kan yang beria-ia mencipta fitnah, kata saya hasut orang untuk hancurkan tapung haji semua ni, sampai orang tak boleh pergi haji semua tu kan itu UMNO lah, saya tak tahu Ashraf Wajdi ada nasihatkan UMNO ke tidak, jangan buat, eh fitnah bahaya kan, jadi sekarang mereka rasa mereka melaluinya jadi Dan November 2016 dalam blog YB juga, YB dah tunjukkan satu surat kepada dia untuk YB cabar dia saman YB. Sebab dia, ialah tweet yang kata YB ni menyebabkan orang keluarkan duit, menghasut lagi. Adakah dia menyambut apa yang YB? Saya ingat masa tu mungkin peguam dia bagi nasihat yang betul kot. Jangan sambut, jangan saman. Saman pergi habis terbuka semua kan. Nasihat saya dan juga ingatan kepada saya Sebab itu saya tak pernah saman orang Saya hanya saman Caprice itu Kerana tuduhan yang dia buat itu terlalu berat Dia tuduh saya makan rasuah Projek berbilion-bilion Dan ingat tak tadi saya kata Defamation law ini dia tengok first and foremost Is factual accuracy Benda itu memang clear tak betul Kerana itu adalah syarikat swasta Saya semua ni kan Dan dia berbentuk Insinuation Yang maksudnya Berniat jahat Insinuation semua ni Jadi yalah Benda tu dah mudah sangat Kau nak ikut Dari segi undang-undang Maksudnya Ada banyak hujah Yang kita boleh bawa Dan Caprice kaya Jadi kalau saya saman Berbaloi Kalau menang Boleh dapat duit Tapi kalau orang Wah HQ lagi Eh tak adalah Duit akulah Apa dah bagi aku orang So bangka balik HQ Sekarang ni pun aku tengah pikul. Jadi maksudnya kita nak kata beria lah Dr. Ashraf Wajdi ni nak saman. Nanti tengok lah nanti susah pening kalau dia saman semua ni, dia kena pindah pejabat ketua pengarah marah tu duduk dalam mahkamah. Tiap-tiap hari duduk di situ ada kes. Itu salah satu sebab kenapa saya tak nak saman orang. Banyak kerja lain aku boleh buat Jadi lebih mudah serahkan kepada Allah Selesaikanlah yang netizen-netizen yang mulut capui Baik OBI, ini yang first Yang second mungkin saya nak tanya Joe Yang beria second ni Selepas RCI tabung haji Agenda reformasi gaji pun kena peram Ini merujuk kepada kenyataan
 
-[21:27] Timbalan Presiden Parti itulah yang apa ni bercakap bekas oh bekas lupa dah bekas Timbalan Presiden maklumat kena tepat nanti disaman kau haa haa mampus saya tinggal spend dia je haa bekas Timbalan Presiden keadilan Anwar must focus on which reforms in second term cuma isunya apa yang dia buat dalam in second term oh that's the thing second term dapat ke tak aku mula tak nampak Aku dia just register Anwar must focus on which reform Aku ingatkan dalam masa berbaki ni lah Second term Yelah katanya Tak boleh sebab QE kita Cuma 33% Apa Wage Bukan QE CE CE CE Compensation Employee As a share of national accounting As a share of GDP lah Dan productivity kita dah meningkat Tapi gaji masih macam ni Jadi tak boleh Kena Buat ni tapi second term Comment yo Okay dia tu Dia ada dua aspek lah So satu aspek Aspek yang pertama Second term
 
-[22:34] Very confident, Nurul Izzan. Very confident. Okay, okay. Very confident. Very confident about the second term because I don't think it's that strong. Not that confident personally from my own aspect. I think it's actually quite a far-fetched for them to win the general election that will come.
+[01:31] Rafizi: Terlalu formal eh? Okey.
 
-[22:57] So this is the first point. Second point, regarding the reformation of wages, why not do it now? Why do we have to wait until the second term? Yes, there are already some basic policies that are being implemented, but we don't have to wait for the second term. You can start.
 
-[23:19] Terus. So saya langsung tak faham apa konteks dia, kenapa nak tunggu sampai second term baru-baru start. Tapi kita nak cari punchline beria kan kan? Punchline beria. Cuma saya rasa mungkin pengalaman YB jugalah. YB cuba push something waktu jadi menteri dengan dasar gaji progresif semua. Dan tiba-tiba muncul yang ini. Semua tahu bahawa
 
-[23:52] reformasi struktur yang penting itu ialah reformasi pasaran buruk ataupun pasaran kerja kan labor market reform kami pun dah sebut daripada dulu saya ingat lepas ni pun kita nak bincang pasal ekonomi panjang lebar hmm
+[01:32] Host: Saudara...
 
-[24:09] Jadi saya pun tak naklah beria-ia masa ini kan. Cuma itu telah dikenalpasti daripada awal. Dan dasar-dasar awal, program-program awal itu telahpun dibentangkan di parlimen. Saya bentangkan kertas putih dasar gaji progresif yang mengenalpasti beberapa masalah struktur. Contohnya wage compression. semata-mata dengan menaikkan gaji minima. Kerana gaji minima itu juga akan menjadi tekanan kepada
 
-[24:49] Small owners, the big one is the one who told us that SME will cause wage compression. What is wage compression in Malay? Himpitan gaji? Menghimpit. Compress is compress tekan. What did Mr. GPT say about wage compression?
 
-[25:10] Mampatan gaji. Tak bersuju dengan cek GPT. Jadi kita buat masa sekarang kita kekalkan wage compression lah. So masalah utama pekerja kita ada beberapa perkara lah kan. Satu wage compression. Satu lagi ialah kurangnya jumlah pekerjaan bermutu tinggi. Kemahiran tinggi. Keberkemahiran tinggi yang menawarkan gaji yang lebih lumayan kan. dari segi identification of a problem sudah ada dari segi program-program pilot pun telah ada cuma kalau apa-apa yang datang daripada Kementerian Ekonomi sebelum itu dilihat sebagai musuh saya pun tak tahu kenapa mungkin sebab
+[01:33] Rafizi: Dia ni Anwar Ibrahim ke?
 
-[25:59] mereka merasakan jangan bagi jadi kalau tidak nanti Rafizi dapat kredit ataupun mungkin juga kerana mereka rasa oh yang ini-ini memerlukan peruntukan yang tinggi jadi kita nak gunakan duit itu untuk SARA, untuk STR untuk perkara-perkara yang mereka rasakan ada political capital yang lebih besar jadi dia bukan soal second term semata-mata dia juga soal peram Benda ni dah memang dasar kerajaan tapi tak dibuatlah. Jadi berialah kita menunggu second term Dato' Sri Anwar yang mungkin takkan sampai. Mampui kita. Kalau wage reform ni dirancang oleh kerajaan madani ni untuk berlaku dalam...
 
-[26:49] second term, but the second term didn't work out. I'm okay, I'm already grown up. I survive on passive income now. You guys, you don't have a salary at all. But I also survive on passive income. These are all faces of passive income. Okay, okay, good. So, happy? Happy, happy, happy. Okay, next, let's see.
 
-[27:16] Jangan lupa untuk berlangganan dan berlangganan.
+[01:38] Host: Kita akan sentuh nanti. Okey, lecturer dekat Australian National University, okey, kemudian jadi advisor, macroeconomic advisor in Papua New Guinea Department of Treasury. Buat apa sebenarnya dekat Papua New Guinea tu?
 
-[27:17] Setinggi-tinggi tahniah kepada diri saya sendiri.
 
-[27:21] Tak aku lawak tu Ni Joe mungkin tak tahulah Bagi konteks kepada Joe Joe tak faham semua ni Tak berapa follow Fortunately Apa ni Dua tiga hari lepas Apa S
 
-[27:34] speaker, timbalan speaker dan adun-adun di Negeri Sembilan angkat sumpah lah. Jadi beliau ini baru dilantik menjadi timbalan speaker. Ini adun daripada PAS. Adun PAS. Adun Paroi. Dan apa ni poster dan ucapan itu adalah daripada page dia sendiri, di track sendiri lah. Jadi ini posting dia Haji Kamarul. Setinggi-tinggi tahniah dia ucapkan kepada YB Itu yang setinggi-tinggi taniah kepada diri saya sendiri. Tapi kau tak letak satu tau. Yang lawak. Tengok kau terlepas. Aku buat homework tau sebelum aku nak komen. Tapi memang tracks tu dah 24 jam. Tolong selamatkan aku jadi tracks. Sekarang dah jadi murshidul amstrak. Apa nama ni? Yang lawak je. Dia post ni kan. Lepas tu bila orang duk troll ni kata ni. Lepas tu ada satu reply kepada post dia ni. Ini admin. Kau tak perasan ke? Tapi sudah agak terlambat. Sudah agak terlambat. Ini memang. Takkan admin dia tak terfikir ke benda ni?
+[01:50] Rafizi: Holiday.
 
-[28:54] admin kat ujung ya tapi ni admin pas dia tak terfikir benda-benda macam tu saya tak rasa lah ada ni Haji Kamarul ni buat kerja lawak macam ni kan ni memang admin dia lah yang ni juga sebahagiannya yang
 
-[29:12] yang ahli politik ni jadi kos tinggi tau. Dia nak post kat thread pun kena ada orang tolong post kan. Aku selalunya dengan jadi gemuk aku, aku sendiri je kan banyak macam kan. Jadi saya rasa ni memang admin dia lah. Tapi mungkin pas lepas ni kena latih lah dia punya cyber trooper, admin-admin mereka ni. Ini antara perkara-perkara yang makroh dibuat. Kerana mendatangkan masalah kepada wakil rakyat itu Kalau nak claim admin Sila letak dalam posting asal Bukan lebih kurang 10 jam Dah kena troll Buat pergi letak Ini sebenarnya admin Ada kan Pancak lah Ada Ada atas kalipan
 
-[29:58] Aduh Ken
+[01:51] Joe: So pada masa itu saya dapat, so I was saya pada masa itu saya bekerja dengan Asian Development Bank. Dan Asian Development Bank dia ada projek-projek di negara yang kurang membangun seperti Papua New Guinea di mana kerajaan, mungkin kakitangan awam mereka, kurang kapasiti untuk buat budgeting atau forecasting. So peranan utama saya pada masa itu memang membantu kakitangan awam di kerajaan Papua New Guinea terutama Department of Treasury ataupun Perbendaharaanlah dalam konteks Malaysia untuk buat medium-term forecasting dengan budgeting. Itulah peranan saya kat sana.
 
-[30:02] Tak apa nanti kita... Alright, berjaya. Seronok kita. Ini adalah admin eh. Aduh, at least delete ke apa ke, tak tahu kan. Tapi, plot twist dia. Plot twist dia. Ada lagi. Tapi yang itu, Pak Han kena check lah betul-betul. Sebab aku rasa memang daripada akaun Haji Kemarul yang tulis ini admin. Tapi plot twist dia, kalau yang kata ini admin tu, dia daripada akaun lain. Maksudnya dia nak throw. Lagi teruk. Tapi I think daripada Akaun Haji Kamarul Tapi by the way Tahniah lah Haji Kamarul Takut dia delete pulak Takut dia delete kot Lepas kena troll kali kedua Dia terus delete lah Okay baik-baik Next
 
-[30:52] Congratulations. This is in line with last week's segment because last week we shared in the Beria segment, there were people who claimed that the donation of aid boxes was used to register party members. And now the party members in that place have the highest number of members. Congratulations to that place.
 
-[31:18] Itu dah cakap daripada
+[02:32] Host: Fiskallah?
 
-[31:20] Chang Hong Siong, thank you YB for your fair opinion. Our Sri Kuantan neighbourhood centre was originally scheduled to distribute 70 food baskets to the poor on July 26.
 
-[31:35] But it was found that two members of the Kuantan Indramah Kota Justice Party were forcing recipients to register and apply to be members of the party. However, almost every recipient refused this condition so they stopped distributing.
 
-[31:53] Jadi mereka tak pre-announce lah Dia ada kondisi ni Dia just cakap nak bagi foodbasket Sama juga yang minggu lepas Joe Yang itu lagi malu lah Because they collect nama dan juga phone Untuk bagi foodbasket Lepas tu apparently ada tuduhan kata Dia installkan juga atas phone itu sekali lah. So dia jadi isu yang viral lah bila ada yang tiba-tiba mendapati dia dapat SMS cakap dia dah masuk PKR dia tak masuk PKR lah.
+[02:33] Joe: Fiskallah, memang fokus dalam fiskal sahaja.
 
-[32:37] So, he was embarrassed because Farhan was the political leader of Dato' Sri Anwar and Anak Mas. Anak Mas Dato' Sri Anwar, that's right. So, I think Anak Mas Dato' Sri Anwar Ibrahim is now a Kilao.
 
-[32:58] He has a lot of children. He has a lot of children. It's better to pull it back. You'll be sued. Sorry. Pull it back. Pull it back. Pull it back. This one, if it can be defended in court, if he calls, if I say this is a golden child, Dato' Sri Anwar, right? So, understand.
 
-[33:18] that PKR and Datuk Sri Anwar really want to give to Saudara Farhan to win the election, right? But he can't reach this level, right? So, I, the one who scams people, doing all that is one thing. People will know that too and it will backfire. But I, from the beginning,
+[02:37] Rafizi: Dulu-dulu Malaysia pun ada melalui zaman itu.
 
-[33:46] Walaupun orang selalu kritik ke Walaupun ada risiko to me Because in politics Joe
 
-[33:53] Dia ada this dilemma that you need to shout and trumpet what you do Sebab orang kita macam samalah netizen semua ni kan Comment dia pasal bersama aku tengok sekarang Macam dah tak ada benda lain dia nak comment Comment dia ialah parti ni tidak akan berjaya kerana parti ni tak ada duit So masyarakat kita memang menerima seolah-olah Corruption is a necessity dalam politik Sama juga untuk ahli politik, masyarakat menerima blowing
 
-[34:29] your trumpet and pukul gendang itu adalah necessity dalam politik kan. Itu keperluan ahli politik lah. You have to find ways how to communicate kan. Tapi saya daripada dulu tak pernah buat, I don't think jarang sangatlah you tengok
+[02:40] Host: Okey.
 
-[34:46] I'm giving donations to people. It's not because I'm not giving donations to people. But I think that if I become a poor person, you want to help, you help. Don't make a content out of me because I might be a bad person.
 
-[35:06] Saya mungkin tak mahu orang tahu yang saya menerima bantuan kerana you know I have my circumstances, anak saya nak pergi sekolah kan. Kita pun tak nak tahu, tak nak. Sebenarnya kalau boleh lah. Sebab tu dalam Islam kan, kalau tangan kanan bagi, tangan kiri tak boleh tahu. On the other hand, kita nak ahli politik ni berkualiti, bermutu. On the other hand, sebahagian masyarakat kita akan tepuk tangan, oh baiknya dia lah, tengok tu banyaknya dia bagi bantuan and so on kan. Jadi akhirnya dia melahirkan perkara-perkara seperti inilah kan. If only, sebab itu as best as possible, saya kalau boleh lah.
 
-[36:02] Kita institutionalize kan segala bentuk bantuan. Supaya bantuan itu tidak boleh diambil kesempatan untuk tunjuk orang itu baik, orang itu tak baik. When it's institutionalized, memang tugas dan tanggungjawab kerajaan dan negara untuk bantu dia. It's part and process. Sama macam kita pergi sekolah. Zaman tak ada orang pergi sekolah, ada wakil rakyat tunggu. Berterima kasih lah kerana kamilah kamu dapat bersekolah. memang hak kita untuk pergi sekolah kan. Kita bayar cukai, memang you kena buat sekolah tu kan. So kita tak sampai ke peringkat itu lagi lah. Akhirnya jadilah macam ini beria-ia kan. Tapi peranan wakil rakyat di luar negara, terutamanya di negara-negara maju lah, adakah memberikan bantuan ataupun jadi Santa Claus pun sebahagian daripada kerja-kerja macam ini? Tak tahu, cuba tanya Joe. How long did you stay in Australia? Almost 10 years. 5 years. 5 years. 5 years kat Australia. And then, Papua New Guinea 2 years. Papa New Guinea 5 juga. Ya Allah. And then bagus. Tengok wakil rakyat Papa New Guinea dengan wakil rakyat Australia. Itu dia agak sama Papa New Guinea. Mutu Papa New Guinea punya MP macam sama dengan Malaysia. Oh. Memang sama lah. Australia? Australia lebih civilized lah obviously. Meaning? Civilized in the sense that diskusi yang diorang membawa lebih dasar oriented. Lebih berdasarkan kepada dasar. So not much rhetoric lah macam Malaysia. yang macam ini tak ada ahli parlimen Australia pergi balik kotak makanan semua kot. Biasanya tak ada dan juga I think YB tadi YB bawa satu point yang sangat penting iaitu pelindungan sosial sebab kat Malaysia pelindungan sosial terutama social assistance langsung tak ada apa-apa undang yang anchor dia. Dia tak macam let's say best practice lah kalau tengok.
+[02:41] Rafizi: Yang mana pakar-pakar daripada World Bank, daripada agensi ekonomi dunia datang bekerjasama dan membantu melatihlah kan. Sama juga macam peringkat sekarang, kerajaan biasa saja dapat permintaan daripada selalunya negara Afrikalah untuk kita menghantar pegawai kita ataupun pakar kita melatih kementerian mereka. Kalau macam saya dekat Kementerian Ekonomi dulu, sama ada macro planner ataupun pegawai-pegawai statistik daripada DOSM. Cuma kesian kat dia oranglah, dia, aku ingat semua cakap "tolonglah jangan hantar aku". Sebab yelah, dia kena pergi negara-negara Afrikalah yang banyaknya kan.
 
-[37:54] Macam international standard, international labour organisation punya benchmark. Biasanya...
 
-[37:59] They encourage the country to institutionalize social assistance so that the recipient can receive more angry. Because now, let's say what YB said earlier, so if you are a recipient, you are a recipient, sometimes you feel a bit embarrassed. Because it's not your fault, but somehow,
 
-[38:24] Pembalang ataupun... So sometimes you just don't want people to know. Tapi kalau macam situasi ni semua orang tahulah. Tambah kalau kat Malaysia bila...
+[03:28] Joe: Tapi kerja itu sangat bermakna sebenarnya sebab you boleh directly helping the people who need it most compared dengan berbanding dengan say kat Malaysia, kita dah ada kapasiti semua kan. Actually, it's actually very meaningful to be helping people who need it the most.
 
-[38:36] politik ni sangat memecah belah kan. So kalau keluar gambar orang tu menerima bantuan daripada PAS, terus jadi orang PAS. Orang ni menerima bantuan daripada PKR, terus jadi orang PKR. Padahal sebenarnya dia orang susah. Kan siapa-siapa patut pergi bantu dia kan. So but selagi kita tak sampai ke peringkat itu, then benda ni akan berulang-ulang lah. Budaya-budaya macam ni ni Sebab pada pandangan akulah
 
-[39:11] Mungkin orang tak bersetuju lah It's actually
 
-[39:15] Dia tidaklah selari sangat dengan semangat yang ada sebagai orang Islam pun. You nak bantu, you bantu. You bagi zakat, you tak cakap kat semua orang tu. Aku bagi zakat, ini zakat itu. You tolong-tolong lah. It's actually a part of our life belongs to society kan. Jadi it's good for society tu satu. It's also good for us. It's for our fulfillment. Kita bantu, we feel good. And it's between us dengan God tau. Bukan sebab itu kalau majlis bagi sumbangan itu. Yang ini pun kita tak tahu duit kotak makanan itu. Dari mana? Duit dia sendiri ke atau dari mana. For all you know is bantuan kerajaan, peruntukan kerajaan. And then kalau ada sumbangan. Sumbangan itu adakah yang menyumbang itu toke-toke besar yang menggunakan sumbangan ini untuk jadi rapat dengan the powers that be. So dia terlalu banyak soalan-soalan yang perlu dijawab.
+[03:43] Rafizi: Tapi orang kita tak nak, dia nak pergi New York. Nak pergi attachment di DC. Buat apa nak attachment kat Papua New Guinea? Kenapa you tak jadi hitam? Tak jadi gelap?
 
-[40:15] Bye.
 
-[40:16] Ya, budaya...
 
-[40:18] urbanizing sumbangan ataupun aid to public for political games ni, I think it's getting chronic sangat kat Malaysia. Luasa. Tapi dia ada demand, ada supply maybe. Oh, dia mula dah demand supply dia. Kalau kita tutup supply. Tapi supply tu seharga.
+[03:53] Joe: Ada, actually sebab, I don't know, I somehow have some whitening effect kut sebab I was I was quite heavily into diving tapi so far okey je.
 
-[40:35] But the supply is... Chicken and egg demand supply. Oh, chicken and egg. No, but the supply should be provided by the government, not the political party. So, okay, yeah, yeah. So, if we institutionalize the social aid program, then the supply should come from the government, not the political party. Yeah, yeah.
 
-[40:54] Okey kita beria komen benda ni Dah sampai lama aku tengok ni Beria ni dah 40 minit Kita ada dua lagi baby Selamat datang kepada tetamu kita Yang tak pernah datang Terima kasih Jaya kumar
 
-[41:07] The case was closed in 2024, then it was announced in 2026. This is when Anwar Ibrahim made the PKI version of Rumah Bangsa. But YB didn't have to be picked up, poor thing. The one who had to be picked up... I wasn't the only one who wasn't picked up, I was kicked out of the house.
+[04:05] Host: And last sekali, sebagai economist at the ASEAN+3 Macroeconomic Research Office. Ini yang terakhir sekali sebelum resign, betul?
 
-[41:27] Zivia Jayakumar Kita ada TN Chua Dan mungkin yang lain-lain Lagi pun dah berminat lah Untuk buat comeback Siapa yang lain-lain lagi Pandai-pandai kau cakap Rasanya lah Siapa dia Ni Ni Hulu Apa Hulu Klang eh
 
-[41:43] Oh Mungkin lah Spekulasi Tarik balik Tarik balik spekulasi Saya rasa lah Kamar lah dia Itu pandangan Itu pandangan Okay
 
-[41:53] So yang ini mula bila... Hmm...
+[04:12] Joe: Ya, terakhir.
 
-[41:58] Dr Xavier Jayakumar announced that he has returned to PKR. I remember former Parliamentary Member, Dr Kua, who is the Executive Director of Suharam, asked what happened to his case that he had been investigated for the corruption case in 2021?
 
-[42:18] So saya ingat minggu lepas kan, August 19 minggu ni lah minggu ni. Maksudnya SPRM mengesahkan NFA lah. Tapi dia berlaku dalam tahun 2024 tau. Jadi ialah persepsi rakyat ialah...
 
-[42:37] Sudah tentulah Dr. Xavier Jayakumar ni Memang maksudnya dilepaskan Di bawah pentadbiran Dato' Sri Anwar Jadi Masing-masing akan buat kesimpulan Masing-masing Jadi kalau macam itu
+[04:13] Host: Jadi, come to next question YB. Kenapa sanggup resign? Sebab I think yelah, you built your corporate career ni...
 
-[42:56] Mungkin berjaya lah Panggilan rumah mangsa Cuma orang-orang yang tak ada kes Macam aku tak ada Tak ada insentif lah Tak ada insentif Okay Baik baby Kita Ada satu lagi Hmm
 
-[43:17] Together with the PRN Melaka candidate. Finally, we're in the Berya segment. Yeah. Berya Umum Awal. So what are you going to troll? This is... Let's see how Haziq wants to troll himself, wants to troll us.
 
-[43:34] So, you weren't there that night? I had to support LiveWiBee from YouTube for monetization. So, that's why you think you have the right to troll? I wasn't part of it that night. So, what did you troll? No, in a public situation,
+[04:21] Rafizi: Ni dipanggil corporate career?
 
-[43:56] Tak adalah...
 
-[43:58] Many people may not be aware of PRM Melaka because there is no tarikh. But together, it's one step forward. It depends on you, Ans. We say one step forward, many people say it's just a joke.
 
-[44:16] I don't know lah, maybe I didn't see that many. Except for the other side lah. Confirmation bias. Eh, habis kau ingat the other side tu bukan orang ke? Haa, okay. Haa, yelah. The other side obviously, katakanlah orang lain buat, kita pun kata, beria, beria kan. So, it's only natural that orang lain, parti-parti lawan akan kata, haa, apalah bersama ni, dah lah hilang deposit. Beria nak hilang deposit kali kedua. Haa, so what's your answer? Saya ada kemampuan untuk troll diri sendiri Kita cuba pada kata lain Sebab Orang tak kenal Jadi kena ambil masa lama untuk orang mengenali lagi Macam itulah
+[04:22] Host: Bukan corporate, career.
 
-[45:02] Eee... Tak lah, maksud saya... Eee...
 
-[45:06] Untuk jangka masa panjang lah kan Dia sebenarnya bukan semata-mata untuk Perkenalkan calon Supaya orang lebih kenal ke apa
 
-[45:17] Matlamat dia yang saya rasa lebih dalam daripada itu Ialah untuk kita mengurangkan rasuah politik Dalaman Sebab
+[04:24] Rafizi: Saya pun tak tahu orang duk cakap kerjaya korporat. Kerjaya korporat ni menatang apa sebenarnya?
 
-[45:31] Kenapa...
 
-[45:34] parti-parti politik ini mengumumkan calon last minute
 
-[45:38] Kerana horse trading dan juga lobby melobi. Dan horse trading dan lobby melobi ini meletakkan kuasa yang cukup besar di tangan seorang presiden parti. So the sooner you let go and devolve that power, jadi kalau contohnya you dah umum calon awal dan contohnya di masa hadapan lah hasrat kita ialah kepada kita umumkan lebih awal kan. Untuk umum lebih awal tu, proses itu perlu berlaku lebih awal. Dan sebaiknya proses itu tidak melibatkan sangat pemimpinan kan. When you do that, maka kuasa...
+[04:31] Joe: Sebab tadi I think the more appropriate-nya macam I think it should be international civil servant sebab our stakeholder ni memang semua kerajaan-kerajaan negara masing-masing, negara serantau. So kita memang bukan macam korporat.
 
-[46:26] a party president to determine who gets it and who doesn't, lobbying, corruption, corruption, this is not enough. Because the candidate, he wants to be a candidate, he admits to various things to the party leader. I can bring it, I have spent RM20 million, if I become a candidate, I can contribute, all of this. So,
 
-[46:48] This is the first process to be together, we announce it early, get people to, especially the party members. He is not just a candidate, especially the party members to accept this culture that the candidate will be announced early and when he gets the opportunity, it's good that he gets it, if I don't get it, I still have the opportunity.
 
-[47:13] I think in the future, we will see how the development will be together. What we want to build is the culture of choosing candidates made by the party members themselves. It's not in the hands of the president anymore. We just want to strengthen the clean political culture. We need to put safeguards because if now,
+[04:43] Rafizi: So ASEAN+3 macam ASEAN campur China...
 
-[47:37] kita suruh ahli pilih di kawasan parlimen masing-masing kan. Kebimbangan saya tentang rasuah lah. Maksudnya siapa yang ada wang dia masuk, dia beli semua. Then, kita akan ada ramanan episod kedua lah pula. Lebih dalam bersama pula lah kan. Letih kita kan. Jadi, kalau budaya itu 2-3 tahun daripada sekarang memang dah diterima. politik mereka, mana ada pimpinan di atas yang memilih calon?
 
-[48:14] Calon ni semua dipilih oleh ahli dan orang di bawah, konstituen di situ. Sebab itu kita ada konsep primary. So kalau contohnya untuk kerusi Bandar Tun Razak kan, jadi ahli-ahli di Bandar Tun Razak lah. Siapa nak bertanding, dia bertanding. Cuma kita nak kena letakkan safeguard dan juga guardrails, macam-macam nak letak supaya satu tak ada soal duit, rasuah tak boleh beli kan. menilai calon-calon yang berkualiti. Sekarang ni tak ada siapa yang baik dengan orang tu nampak dia hebat. Ketiga, kita juga nak pastikan bila ada primary, katakanlah one day ada primary di bawah, di peringkat bersama. Dia boleh menerima kekalahan itu.
 
-[49:03] If he loses, he loses. So that's why we have to put in place the processes so that the election process is fair and smooth. So people don't question it.
+[04:45] Joe: Campur China, campur Jepun, dengan campur Korea Selatan.
 
-[49:18] Satu lagi cadangan bernas daripada ketua cabang
 
-[49:23] Oh untuk meletakkan Ketua cabang sebagai calon Habis macam mana Sebab bersama tak ada ketua cabang
 
-[49:31] Habislah Sebab itulah Untuk mengelakkan Pelawak-pelawak yang macam Aflin Chowki masuk Kedalam bersama Dan menjadi ketua cabang Dan menjadi calon Sebab itu kita tak ada ketua cabang Unit kita yang paling bawah Dalam bersama Ialah negeri Unit yang dipilih lah Unit yang dipilih Cuma mungkin ada Unintended consequences Oh unintended consequences Dia pula dah Mengumumkan calon awal kena colik ataupun sebagainya. Kalau kena colik tu tak boleh buat apa kan. Tapi dia orang semua dah sign bond. So contohnya kalau mereka...
+[04:52] Host: Come to that question. I mean kenapa sanggup nak resign and full-time untuk tolong YB Rafizi dalam bersama?
 
-[50:14] menarik diri daripada jadi calon. Dia kena bayar 2 juta. Samalah macam bond-bond yang lain. Yang biasa tu kita tahulah kalau dia lompat parti ke, dia tak buat kerja, dia tak pergi sidang. Semua itu kena. Tapi oleh kerana kita umumkan awal, bond itu juga terpakai kalau dia gagal sehingga tidak dinamakan jadi calon. Sebab dia boleh saja, dia tak hadir hari itu. alasan-alasan yang digunakan kenapa parti lain tak menamakan calon lebih awal. Tapi kita tengoklah semua ini adalah...
 
-[50:54] changes and improvements that we are trying to bring into politics. But I agree, I'm sorry to many people, we are indeed proud. We are proud to be a candidate, we are proud to campaign. Okay, done. So, let's go. I have one more point. Many people ask why we use the term candidate for the election. Why the election? Shadow.
 
-[51:22] Yes. So, shadow candidate. So, he hasn't confirmed that he can be replaced? No, he has all the bonds signed. But, he took what Haziq said earlier.
+[05:00] Rafizi: Kenapa tolong aku pula? Tolong bersama.
 
-[51:39] Kalau tiba-tiba dia kena syualat. Hmm.
 
-[51:43] If, for example, in two weeks, the biggest scammer in Malaysia is exposed, we have to withdraw the nomination. We have to do as much as we can to cover it. So, as long as he is not a candidate, he is a shadow candidate. He is like a shadow cabinet, a shadow cabinet.
 
-[52:11] Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Jo, kena pilih yang mana yang paling beria. Bagi saya, saya rasa mahal.
+[05:01] Host: Tolong bersama, bukan tolong YB. Perjuangan bersama.
 
-[52:21] Oh, not Fahani. Fahal Fauzi. I think it's Fahal Fauzi. Beria. Beria cari ahli. Dan menghina rakyat juga. Menghina rakyat. Baik, malu apa bosku?
 
-[52:41] Kita terus ke hidup keras. Tak puas hati. Bersama tak menang. Maaf, saya boleh cuba lagi. Sebab itu kalau aku pilih, aku pilih diri sendiri. Masuk bakul. Masuk bakul, angkat sendiri. Okey, kita terus ke yang pertama.
 
-[53:00] Mansur AUKU kebebasan ekonomi dan mutu pendidikan negara. Ini, iyalah, saya rasa mereka ini pakai jeruklah. Satu, RCI. Pakai jeruk, oh peram. Ini yang ketiga dia peram. Reformasi gaji nak peram, RCI tabung haji diperam, Pemansuan AUKU pun diperam. Tapi, okey, itu satulah. Kemudian, kalau kita lihat juga YB, discussion ataupun, iyalah, dekat-dekat. Mostly restricted on our kuisaf lah. Maksudnya dia ada dua. Dua and the don'ts of the student. Dan juga tak baik urus universiti lah. Mujur boleh kongsi pengalaman dia jadi pensyarah. How long were you as lecturer in ANU? Two and a half years. About two years lah. Two years. Pernah ajar budak Malaysia tak? Pernah. Pernah ada studio Malaysia. Dan pada masa itu saya start sebagai tutor dulu. Lepas itu kena promote jadi pensyarah juga. So ada budak-budak Malaysia juga. So macam mana mengajar budak Australia dekat ANU eh? So far so good. Langsung tak ada. So maksudnya dia tak ada cakap, alah saya tak naklah pensyarah ni dia orang Malaysia. Saya datang ke Australia untuk dapat pensyarah Australia. Tak, saya rasa kat sini sebab saya ada buat kerja rumah sikit lah. So I did my homework dan nampak, wah memang ada banyak code of conduct yang pensyarah perlu mematuhi. Oh, okay. Kat IPTA Malaysia. Kat sana langsung kita tak ada. As far as I know lah, kontrak kena sign, kena kata oh these are the code of conduct yang kita perlu patuhi kalau jadi penyara. So tak ada, langsung tak ada. So I was quite surprised lah apabila saya tengok, wah panjang dia, senarai dia. So Haziq, so? Itu akan di, kita akan go through detail lah. Tapi yang firstnya, mungkin saya nak tanya pandangan lah YB atau Joe. Pengumuman yang tiba-tiba ni, pandangan YB.
+[05:05] Joe: I think there are times when kita perlu...
 
-[54:59] Dalam The first impression
 
-[55:02] Eeeemmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-[55:04] I remember when I read it, my first impression was that it was done. Then people said, Oh, you said you can't reform because we are a joint government, UMNO didn't give it. Oh, now it's possible. That's one thing. I mean, it's a reflection of what I said before.
+[05:08] Rafizi: Joe, kena cakap Bahasa Melayu Joe.
 
-[55:29] bahawa bagi orang yang ulang-ulang kita ni kerajaan gabungan kita ni kerajaan gabungan saya dah terangkan bahawa
 
-[55:38] reformasi itu perlu datang daripada PH dan perlu dipandu oleh Perdana Menteri. Bukan sangat soal UMNO tak bersetuju. UMNO, kerajaan dan sistem yang ada di Malaysia lepas 70 tahun ini memang dia punya. Jadi takkan dia nak kritik sistem dia sendiri. Dia memang banggalah dengan semua sistem yang ada sekarang ini kerana ia adalah kreasi. dalam kerajaan. Benda itu tak akan berlaku lah. Ia mesti dipandu oleh PH melalui Perdana Menteri. Dan masalahnya yang sebelum-sebelum ini, pengalaman saya sendiri, bila kita nak buat selalunya
 
-[56:25] PM yang kata, oh yang ini tak boleh, nanti orang tak suka. Oh yang ini tak boleh. Saya tak nampak sangat pun bangkangan itu daripada UMNO kan. Jadi bila Dato' Sri Anwar umumkan mansur AUKU tiba-tiba dekat Kongres PKR, saya tak rasa dibincang lagi dengan kabinet ke apa tu. Saya tak rasa ada pun dibawa ke apa semua tu kan. Itu bermakna itulah kuasa sebenar seorang Perdana Menteri. consulting kabinet dulu. No, dia kena bawa ke kabinet. Okay, itu discussion seterusnya lah sebab reaksi awal daripada beberapa pihak ialah proses ini perlu melalui di kabinet. Kita nak kena tengok lepas itu sebab pada masa yang sama,
+[05:10] Joe: Cakap Bahasa Melayu. Mix sikit ah, mix sikit.
 
-[57:16] Menteri Pendidikan Tinggi, Datuk Seri Zamri...
 
-[57:21] I think after the announcement of the introduction of AUKU, or maybe before, he also said that the Ministry of Higher Education is trying to make a joint act on higher education. So that's why there are parties that say, we have to look at what comes after AUKU. If you introduce AUKU, then make a new act, but it's the same or worse than AUKU, then
 
-[57:49] What's the point of revoking the AUKU? So, all the processes, even if you want to revoke the AUKU, you must bring it to the Cabinet. Because it's a repeal of the law, and the Cabinet must be passed, and the Cabinet must be arranged so that there is an act to be brought to the Parliament to repeal the AUKU. If there is a new act, it must be brought to the Cabinet as well. If there is a paper brought to the cabinet, it can start with two ways. One, the Prime Minister directs. Another, if the paper comes from the Ministry's initiative, the Prime Minister also has the power to say, I will not allow it to be handed over to the cabinet. We have been hit many times. We have been hit so hard that we cannot enter. So when he brought it to the cabinet, it was the same. He will drive. We have to do this. Okay, you don't agree a little. Where do you want to change? But we must do this. That's what didn't happen before. And now we see suddenly Dato' Sri Anwar became a singer. From a sick chopper to a singer. All of this can be done without... cabinet, he set the rhythm and the pace. But what if the Minister of Higher Education didn't give cooperation?
+[05:12] Host: Okey, okey, mix sikit, mix sikit.
 
-[59:26] Well sepatutnya Sepatutnya kalau Menteri Pendidikan Tinggi Tak nak bersetuju Ada dua pilihan lah Satu Menteri Pendidikan Tinggi tu letak jawatan lah Because kalau inilah pendirian kerajaan Dia tak nak buat Then you are no longer aligned with the Prime Minister You letak jawatan lah Kerana you dah tak dapat mandat daripada Perdana Menteri Yang kedua Perdana Menteri buang lah Ganti yang baru yang nak buang lah Actually that is the basic concept your time. Contohnya bila apa nama ni keadaan itu berlaku semua yang tahu yang berlaku dalam pemilihan PKR itu banyaknya sebenarnya berpunca daripada pandangan Dato' Sri Anwar sendiri dia yang mengizinkan tata cara pemilihan itu pun daripada dia. Maksudnya saya sudah hilang keyakinan daripada Perdana Menteri. Then I have no business to be there. Kerana kalau contohnya Perdana Menteri dah tak ada keyakinan dengan apa-apa yang saya nak buat dan kementerian saya nak buat memang payah dekat kementerian nanti kan similarly
 
-[1:00:34] It works both ways. If PM has said that we want to do 1, 2, 3, it's already public to them, the Minister of Education is high and the Minister doesn't want it, then you better resign. Or replace it with other ministers. But that's one perspective. The other one, I think, that I want to answer Hazib's question earlier, is the same. I'm the only one who doesn't guarantee that young voters will support PH.
 
-[1:01:01] Kita tak faham dan kita bukan tak faham, kita tak bolehlah nak mengesahkan
+[05:14] Rafizi: Baru empat minit YB.
 
-[1:01:06] Apa niat... Tiba-tiba Dato' Sri Anwar nak mansuhkan AUKU ni... Kita boleh buat spekulasi... Kita boleh ulas...
 
-[1:01:15] besar kemungkinan ialah ini dilihat sebagai satu daripada bukti reformasi sedang berjalan sebab kritikan utama terutamanya daripada penyokong PH ialah kerajaan ini telah mengabaikan reformasi jadi buat auku kan
 
-[1:01:36] Erm...
+[05:16] Joe: Sebab...
 
-[1:01:38] Saya bersetuju dengan siapa penganalisis ni, I don't know lah. Saya bersetujulah bahawa sebenarnya kebanyakan daripada pengundi biasa, apatah lagi pengundi muda, aku bukan isu.
 
-[1:01:56] Isu mengenai AUKU ni sebenarnya ialah isu pembinaan negara yang tidak populis langsung. Isu AUKU ni yang kita boleh ulas lah. Sebenarnya apa kesan AUKU kepada negara sebelum ini dan apa yang ideal perlu ada dalam negara kalau kita nak pastikan masyarakat kita cemerlang, apa nama ni ekonomi kita tumbuh semua lah kan. Harapan itu akan berjaya memiliki undi muda
 
-[1:02:30] Saya tak rasa ramai orang-orang muda pun yang faham sebenarnya apa kesan AUKU tu. Sebab kalau nak kata AUKU ini tidak mengharamkan penglibatan di dalam politik. Mana ada AUKU telah dipindah tahun 2019. Apa nama ni, siswa, pelajar-pelajar memang boleh menyertai parti politik. Tak ada masalah kan. Saya tak rasa mereka melihat AUKU ini sebagai satu faktor harian yang mempengaruhi keputusan mereka.
+[05:17] Rafizi: Aku guru yang garang.
 
-[1:03:13] Saya rasa Yelah Hmm
 
-[1:03:17] If the occupation of AUKU is used as a political weapon and political campaign, it will be a loss. Because AUKU and also AUKU, the more important thing is the question of the best high education model for Malaysia. That's what needs to be discussed, which hopefully we will discuss tonight.
 
-[1:03:44] Jadi itulah isu yang YB nak sentuh lah Model pendidikan tinggi Ke arah wujudkan suasana yang lebih baik Apa semua Jauh daripada AUKU Maksudnya kita kena incorporate benda itu Di dalam akta baru yang sepatutnya kita
+[05:21] Joe: Memanglah, memang. But back to the topic. Saya rasa balik negara untuk berkhidmat untuk menyumbang kepada perjuangan bersama ini merupakan satu calling dalam Bahasa Inggeris. Bahasa Melayu calling tu...
 
-[1:04:00] Kita tak sampai ke situ lagi lah Saya ingat yang Yang lebih utama ialah
 
-[1:04:08] kita kena memahami perkara-perkara pokok mengenai pendidikan tinggi. Dia ada beberapa perkara pokok lah kan. Satu ialah mutu
 
-[1:04:22] pendidikan tinggi mutu pendidikan tinggi itu diukur dari beberapa perkara satu dari segi ilmu yang dibangunkan kalau ilmu yang berkaitan dengan sains mudah
+[05:35] Host: Panggilan.
 
-[1:04:37] Orang tengok penemuan baru, teknologi baru, Malaysia tiba-tiba boleh buat robot. Kita ada semikonduktor yang 0.3 nanometer. Fountain design. Yang semua hebat kan. So yang itu orang tak akan persoalkan tentang mutu pendidikan tinggi kita lah. Kita jadi, kita menghasilkan frontier teknologi contohnya kan. So yang itu kalau yang sains dan teknologi. yang bidang sastra kemanusiaan ni slightly more difficult lah. Tapi kalau...
 
-[1:05:13] People say quantifiable fields, like economics. All of these, I think, people can see from the point of view of innovation, the achievement of knowledge, all of that. That's one, right? Our university's motto. The second motto is in terms of the success of the students who are born.
 
-[1:05:40] Terutamanya dari segi pasaran kerja dan juga terutamanya dari segi...
+[05:36] Joe: Panggilan? Panggilan translation.
 
-[1:05:47] The university's ability to adapt to the demands of the industry and also the changes in the labor market. Because it's given that the university has some lag, there is a lagging, the industry has started to change, the market has started to change, it takes time for it to change.
 
-[1:06:09] apa namanya, kursus, silibus, latihan, semua itu kan. Tapi kalau gap itu terlalu besar, dia akan sampai ke satu masalah dalam pasaran kerja yang mana ada mismatch. Jumlah graduan, satu dari segi kuantiti. Yang kurang kerja banyak dihasilkan, yang demand banyak, kurang. Kedua dari segi mutu. Kalaupun boleh memenuhi kehendak pasaran kerja dari segi kuantiti jumlah, sampai ke peringkat yang dikendaki oleh industri, then kita akan hadapi masalah pasaran kerja yang selalu orang komplain sekarang lah, keluar universiti tapi tak ada kerja kan. So itu dua mutu utamalah. Bagi saya lah kan, saya tahu macam universiti kat Malaysia, dia consider as research universiti utama ni kan. Ditengok pada KPI citation, semua research paper, semua tu kan. Kita nak kena balance tau, because citation semua ni is, they are indicators. Tapi indicators kepada how well we are getting to create new technologies, new finding, new research, semualah yang very impactful kan.
 
-[1:07:32] That's one issue, MUTU. Another main issue is sustainability. Financial sustainability. How is this university funded? So, sustainability has two sides. One is the funding for the university itself.
+[05:39] Rafizi: Kesedaran.
 
-[1:07:54] Sebab kalau dia 100% bergantung kepada public funding, while it is good for the public university, for the university lah sebab dia tak payah fikir pasal apa nama ni. Funding semua. Funding semua kan. Dia mungkin ada masalah dari segi adaptability to the market di luar. Sebab dia tak payah compete langsung. Dia buat apa pun, tawar kursus apa pun, So, financial sustainability on the part of university itu penting juga. Itu satu side. The other side,
 
-[1:08:34] which is as equally as important is in terms of financial sustainability from the affordability perspective of students. Because the extreme is that if it is 100% dependent on, what is it called, is driven solely to the university's funding sustainability,
 
-[1:08:58] Ahem
+[05:40] Joe: Kesedaran. Satu is something that I think it's a calling that you need to answer to. Sebab kat ASEAN+3, so ASEAN+3 tu pejabat dia based kat Singapura. So Singapura tu dekat je actually. So I was quite so saya ulang-aliklah JB dengan Singapura walaupun saya duduk kat Singapura tapi saya pun ulang-alik quite often. So, it's to me, is not as far. Dia tak sejauh berbanding dengan Papua New Guinea. Tapi saya rasa Malaysia, dia deserve a lot better. So kalau kita tengok sekarang, landskap politik yang kita ada sekarang, langsung tak ada atau sangat-sangat limited, terhad, dalam diskusi mengenai polisi, reformasi yang struktur, apa, apakah cara penyelesaian mengenai masa, masalah-masalah jangka panjang. Itu langsung tidak dibentangkan atau dibangkitkan di mana-mana parti-parti politik yang ada sekarang.
 
-[1:08:59] One way, for example, they mark up the price to make margin, courses, all of this. Only people who are able to enter. Then, if that means offering to more students from the international level, more people will come. These are all issues that are so...
 
-[1:09:22] khusus kepada universiti, kalau you talk to university leaders, kepada lecturer, academics, a lot of it is about funding. A lot of it is about underinvestment. They think that ada investment. Underinvestment. Kalau you bercakap kepada kerajaan, kerajaan kata It's overfunding. It's overfunding ataupun memang tak ada duit dah. Of course, kalau kita nak pergi in detail kan, there's a lot that you can question. Perlu ke tidak buat bangunan ini and so on kan.
 
-[1:09:57] These are the two questions that a model that we control the university, which is coming to AUKU, it must have the means to ensure the best quality and financial sustainability of the university.
+[06:46] Rafizi: Dia, dia nanti hopefully 10 tahun daripada sekarang jangan dia kata aku scam dia sudah.
 
-[1:10:20] Mungkin kalau saya tanya Joe terus, adakah benda ini menjadi dilema juga kepada universiti-universiti di luar negara? Mungkin from your experience, Alice? Memang, I think apa yang Wabi kata tadi memang betul. So, dia memang perlu strike satu balance di antara self-funding dengan commercial interest dengan sustainability. So, if let's say satu universiti dia memang commercially driven, itu tak baik. Dia punya objektif adalah not just encourage more talent tapi dia ada social return juga, dia ada social responsibility dia juga. So definitely dari segi perspektif ekonomi, kerajaan perlulah memainkan sesuatu peranan dalam funding universiti. sebenarnya datang dari kerajaan sendiri. Jadi, ia sebenarnya mencipta masalah yang apa yang Wabi kata tadi. Ia ada kaitan antara IPTA dengan pasaran kerja. Sebab IPTA langsung tak ada insentif untuk beradaptasi kepada apa yang pasaran mahukan. Sebab kebanyakan peruntukan datang dari kerajaan. Jadi, buat apa yang anda nak beradaptasi. Jadi, kebanyakan masa anda hanya mengikuti ikuran atau anda hanya mengetahui status quo.
 
-[1:11:48] Jadi...
 
-[1:11:50] Yalah orang akan kata At least Joe pernah jadi pensyarah Aku lagi tu Aku hanya bercita-cita untuk jadi pensyarah Tapi tak pernah jadi pensyarah kan Tapi it's Lebih banyak cita-cita
+[06:52] Host: Tapi bukan YB paksa ke apa lah?
 
-[1:12:01] Tak, aku memang ada kecil-kecil nak jadi pensyarah. You can tell kan? I can talk for three hours. Garang lah, garang. Dan aku seorang cikgu yang garang kan, pensyarah. Tak, memang betul. The only ambition aku pernah ada masa kecil-kecil dulu lah was to become a lecturer. By the time aku masuk universiti, sorry, sekolah menengah, masa tu aku dah tak ada cita-cita. Cita-cita aku ialah aku nak dapat scholarship. Cita-cita masa sekolah menengah, So, I wanted to be a lawyer sebenarnya aku memohon because I thought that aku kan practical, I never confined myself to just one tunnel vision kan. So, I thought that orang macam saya ni sebenarnya lebih sesuai untuk art stream. So, mungkin jadi lawyer or historian. I wanted to get a scholarship for law or history. Tapi mana ada scholarship for law and history. You pure science students. So semua offer saya, semua dalam pure science lah. Apa nama ni, geoscientist lah ataupun petroleum engineer lah. And masa tu yang bagi beasiswa mostly oil and gas companies. So Petronas aku kata tak nak lah, mechanical, chemical semua ni. Petroleum, so heavy engineering. And I happen to like maths and physics. Even dekat universiti pun Tengah aku buat Electronic engineer Cita-cita aku tak ada Specific Nak jadi engineer Ke nak jadi apa Aku nak buat duit je So that's why I ended up As chartered accountant That pays a lot So I go into that So Coming back to this Universiti semua
 
-[1:13:50] Maybe a lot of people are watching this from the back of the university. Actually, I think a lot of people, maybe not a lot of discussions or public discourse that really remove the structure or model that we have. So let's take the example of the model that we have. We have two trends, one is the public university.
 
-[1:14:19] And one more is private universities. So everything related to AUKU actually stems from the fact that only the government is able to establish universities for the masses. Right? We, if private universities are also a lot, now it's getting better, people actually
+[06:55] Joe: Langsung tak paksa. Ini memang voluntary, pro bono, voluntary.
 
-[1:14:43] Take loans ataupun self-fund Melalui PTPTN Tapi kebanyakannya
 
-[1:14:51] apa nama ni universiti awam lah kita ada lebih kurang 20 universiti awam campur dengan UIA yang tak dikira secara rasmi sebagai universiti awam
 
-[1:15:06] One more item is UITM. UITM? Sorry, one more item is UITM. UITM, UITM, UIA, not using AUKU. Not using AUKU, right? So, all in all, there are about 23 public universities. So, the ecosystem is that we have these 23 public universities. From these 23 universities, I think three of them don't use...
+[07:01] Rafizi: Cuma yelah, Joe pernah jadi intern saya tahun 2014.
 
-[1:15:31] Well itu pun sebenarnya agak debatable lah kau kata tak pakai auku Aziz.
 
-[1:15:39] Tiga universiti itu, empat, actually empat. UIA ditubuhkan sebagai sebuah syarikat. UITM ada akta dia sendiri, akta ITM. I think 76 ke apa kan. Kemudian UPNM, satu lagi Universiti Melayu. Universiti Melayu dia ada akta sendiri. UM actually ada akta dia sendiri sebab dia ditubuhkan lebih awal kan. AUKU lah kan Oleh kerana universiti awam ini Ditubuhkan oleh kerajaan And funded as you see 85% oleh kerajaan Jadi sebab itu maka Kena ada akta lah So sebab itu masa Orang menjerit Mansoh AUKU Mansoh AUKU Tanggungjawab ahli politik Ialah membawa pemahaman Satu bahagian AUKU atau akta, dia soal kekangan ataupun perkara-perkara pokok mengenai pendidikan tinggi, kalau hak apa yang perlu dilindungi. Kalau ada soal sustainability, fundingnya macam mana semua kan. Jadi akta-nya, oleh kerana dia dana awam, maka dia diurus takbir Saya boleh lihat.
 
-[1:17:11] Bila dia diurus takbir melalui akta...
+[07:04] Joe: Dua tahun, haah, 2014, 2014 when you were in first year, after your first year.
 
-[1:17:14] maka universiti-universiti ini sebenarnya adalah extension kepada Jabatan Kerajaan. Dari segi dana dan juga and automatically bila kerajaan dah bagi duit kan dan dia extension kepada Jabatan Kerajaan, maka perlu ada peraturan-peraturan macam mana nak pakai duit itulah. Dan bila dah ada peraturan-peraturan itu, tingkah laku, tata tertib, semua ni. Jadi kalau kita kembali kepada
 
-[1:17:51] Mutu eh Mutu pendidikan kan
 
-[1:17:54] Sebenarnya yang kita nak ialah percambahan ilmu Percambahan ilmu ni kita memang kena tanya
+[07:08] Joe: Second year kut, second year.
 
-[1:18:06] Ilmu kalau kita constant kan, maksudnya kita menerima ilmu itu seadanya kan.
 
-[1:18:15] How does that knowledge want to develop? Indeed, the very nature of knowledge is that you keep challenging and you keep finding and you find new finding and then you layer the new knowledge upon the foundation of older knowledge. So if the question is not written, this question, I was written to control.
 
-[1:18:41] Dia nak kawal, kawal itu, kawal ini, kawal ini semua kan. Jadi itu bertentangan dengan prinsip pendidikan tinggi dan prinsip mencambahkan pengetahuan kerana kalau yang itu tak boleh komen, yang ini tak boleh, yang ini tak boleh itu kan. Ini sebelum kita sampai soal funding ni tau. Maka akhirnya kita menghasilkan universiti yang dimandulkan. Dan soal universiti yang dimandulkan ni, pasal AUKU, agaknya kalau kita tanya Adam Adli 15 tahun yang lepas kan, masa dia demo AUKU semua tu kan, perspektif pasal AUKU ni 100% ialah mengenai siswa. Actually yang lebih besar ialah bukan siswa, pensyarah tu. Kalau pensyarah tu memang dia dah diikat kiri kanan, dia dah dimandulkan. Macam mana dia nak jadi, macam mana dia nak jadi, nak cari ilmu baru tu satu. Because they can't Kalau dia pun mandul, maka yang siswa kat bawah tu pun mandul lah. Sebab memang ada satu legislation yang tak sure YB aware ke tak, tapi ada satu legislation Akta 605. Itu yang actually mentadbir tata tertib universiti awam. Akta 605 nama dia apa? Itu Akta Badan-Badan Berkanun. Tapi universiti awam IPTA ditadbir sebagai, diurus sebagai Badan-Badan Berkanun boleh ambil wang dari kerajaan. Dan bagi saya ulas, kalau tak silap, seksian dua ke tadi saya nampak, seseorang penggawai tidak boleh sama ada secara lisan atau bertulis atau dengan apa-apa cara lain membuat apa-apa ulasan tentang kelebihan.
+[07:10] Joe: Going into second year.
 
-[1:20:30] apa-apa dasar, rancangan ataupun keputusan badan berkanun atau kerajaan. It's very clear cut. So, pensyarah-pensyarah langsung tak boleh buat apa-apa komen. Of course, ada exemption bagi
 
-[1:20:42] beberapa fakulti lah macam pensyarah perubatan, pensyarah universiti, pensyarah pergigian dan pensyarah farmasi. Dia tak boleh komen sekejap gigi aku. Tapi apa mengenai dasar-dasar kerajaan langsung tak boleh komen. Kita ada penganalisis politik yang boleh kritik YB je lah. Itulah, itu yang peliknya. So that's why itu kuat pelik dalam treatment kan? Universiti ni tak bolehlah komen tapi tiap-tiap minggu ada saja pensyarah-pensyarah UUM hentam aku kan. Jadi, maksud saya...
 
-[1:21:14] If we go deeper, this is actually a complicated problem. And that's why I hope that while we welcome the invasion of AUKU, so that it doesn't become a weapon and also, what is it called?
+[07:11] Joe: Going into second year, going into second year.
 
-[1:21:35] poster boy reform tanpa betul-betul pergi mendalam lah. Kerana soalnya ialah, how do we create an environment and ecosystem that really allows academic freedom to flourish? Because everything begins with academic freedom lah. Maksudnya dia boleh explore, dia boleh challenge, kemudian itu melahirkan suasana universiti apa nama ni menggalakkan perbezaan pendapat dan inilah yang eventually akan diperturunkan kepada siswa-siswa kan AUKU sebelum ni kalau orang cakap AUKU orang ingat ini untuk mengelakkan budak-budak universiti anarkis kalau tak ada AUKU ni anarkis universiti that's not true kan so
 
-[1:22:28] Itu yang menjadi kritikan utama terhadap model yang ada sekarang. Di sebelah pihak kerajaan kan?
 
-[1:22:37] The hujjah will be like this. This is the hujjah of UMNO in the past. Because he came up with AUKU. The hujjah of UMNO, the hujjah of the government in the past was like this. The university was established under the Act. This university is a legal entity. So it is part of the government.
+[07:15] Rafizi: So dia pernah jadi intern, jadi saya tak tahu apa nama ni, yelah, ini kepada yang muda-muda umur 30-an semua ni kan. So mungkin pada masa tulah saya ingat, yang, yang berpendidikan umur 30-an ni, dia boleh bandingkan di antara masalah yang ada, sebab dia dah melalui proses itu, dah bekerja, dah ada pengalaman, dan juga dia boleh bandingkan dengan tawaran penyelesaian yang ada dengan, dengan parti-parti dan ahli politiklah. So siapa-siapa yang nak buat kerja gila macam Joe, letak jawatan dan tumpu untuk sama-sama membina bersama. Saya alu-alukan, bayaran gajinya ialah 10 sen.
 
-[1:22:56] and the funds are from the government. Therefore, the government has the right to ensure that the main funds are made by the government to maintain the government's money that is given to the university.
 
-[1:23:20] Apa yang berlaku, I think over the years lah. Dan semakin kuat dah sekarang, saya ingat. Semakin, semakin... Yang ini minta maaflah Dato' Sri Zamri, sebagai Menteri Pendidikan Tinggi. Saya ingat dalam 3-4 tahun kebelakangan ini,
 
-[1:23:36] kritikan mengenai UMNO masuk universiti dan UMNO mempengaruhi kepimpinan universiti ini makin kuat dalam satu dua tahun ini berbanding dengan sebelum itu lantikan-lantikan semua kan you know
+[08:04] Joe: Kosonglah.
 
-[1:23:54] The comments and complaints seem to be getting stronger now. So what is happening now is the minister who appointed the vice-chancellor. The minister also appointed the board of directors of the university. So when the minister appointed the naib chancellor, the minister appointed the naib chancellor, because of that,
 
-[1:24:19] VC dan juga Dia panggil NC lah NC dan juga TNC ni Selalunya bertukar-tukar Mengikut siapa yang jadi menteri pendidikan tinggi So kalau you Jadi NC Hmm
 
-[1:24:36] Erm...
+[08:05] Host: Kosong, free.
 
-[1:24:38] You were appointed by the minister, right? He will try to do his best so that the minister will like him. So he really, even if there is no direct instruction, even if there is no interference from politics or anything, he becomes self-censorship.
 
-[1:24:58] Sebab dia kira aku naik ni Yelah sebab aku kawan baik tu ke aku ini So dan bila NC naik chancellor itu begitu Maka benda itu budaya itu diperturunkan sampai bawah lah Lantikan ke apa semua tu Dia kira siapa yang Saya ingat dulu-dulu ada orang bagi patah lah Dia kalau ketua tu dia jenis Dia suka tembikai Semua orang kena makan tembikai susah Ada orang suka makan durian rambutan kan, ikut suka lah. Just because bos budaya Melayu lah dalam organisasi Melayu, bos suka makan tembikai, habis orang kena makan tembikai kan. So naturally lah kalau Naib Chancellor itu dalam keadaan sekarang dilantik oleh menteri, dia pun sangat sensitive lah kalau ada siapa-siapa yang kan. Jadi
 
-[1:25:49] Yang ini...
+[08:07] Rafizi: Kosong, 10 sen pun ni bagi...
 
-[1:25:51] it comes with the system. So, even in the best case scenario, even if there is no direction, even if there is no intervention from the minister or political party, at least it is self-sufficient.
 
-[1:26:13] The worst is that he received orders and he did all that for the sake of political interests. We have had a Chancellor before who saw that he was very clear in campaigning for UMNO. For example, right? So, the model that we actually need to question. We have two models, right? And they are related, right?
 
-[1:26:40] Satu ialah universiti pemimpinan. Bagaimana anda menguruskan universiti pemimpinan itu untuk menjaga kemerdekaan mereka dan menginsulasi mereka daripada politik supaya ahli-ahli akademik ini merasakan mereka bebas?
+[08:12] Host: Okey, baik, baik, baik. Okey.
 
-[1:27:00] to speak and pursue knowledge, as long as their views can be maintained. So that's one aspect, how to protect academic freedom. Another is model funding, because it's closely related.
 
-[1:27:23] So, in this current situation, because the government said, I give them money. So, obviously, if I give them money, suddenly, it becomes something else. I'm responsible. I have to answer in parliament. People ask, why didn't the minister do that? Why did the university do that? It becomes like the one at UM, remember? There's an invitation to a...
 
-[1:27:48] academic from the US, but the academic is a pro-Zionist, anti-Palestinian, 100%. To be fair to the minister, he has to be beaten up, not the university. To be fair to Dato' Sri Zamri at that time, he was the one who got beaten up. I don't think he knows how to fight.
+[08:14] Rafizi: Okey.
 
-[1:28:07] perspektif yang mana kerana ia adalah wang umum dan sebab itu saya mesti mempunyai kawalan
 
-[1:28:14] It is actually valid dalam keadaan sekarang. Tapi itulah yang ada kesannya yang menyebabkan dia mengekang kebebasan akademik. Dan itulah yang dikenal pasti sebagai salah satu punca kenapa universiti kita ini dilihat...
 
-[1:28:33] ialah ada ruang yang lagi besar untuk maju sebab when you create that culture maka it's semua pasal political correctness di antara pimpinan dengan kerajaan kemudian di bawah itu dalam university leadership sesama mereka they must be on the right side of the leaders ke atas eventually then hilanglah benda itu Kalau dekat Australia macam mana? So, Australia actually quite interesting. For example, I can't speak for all university lah. Tapi untuk universiti saya, Australia National University, lantikan vice-chancellor, naib-chancellor dibuat oleh ANU council. Dan council itu langsung tak ada. So, kat Malaysia, berbanding dengan Malaysia, Malaysia naib-chancellor memang dilantik oleh menteri. Tapi kat ANU ataupun universiti-universiti lain kat Australia, dia memang dilantik oleh lembaga board. Ya, bot masing-masing. ANU is a public university funded by government. Yes, and also ANU pun ada satu akta sendiri jugalah. So, langsung tak ada menteri pengaruh politik di dalam... Siapa yang lantik bot members? Itu question lah. So, bot member dia ada, kalau tak silap ada 12. 6...
+[08:14] Host: Kita macam biasalah, akan start dengan peria sebelum kita start dengan dua topik yang utama lagi, dan nanti kita minta komen daripada Joe sekali lah. Kita tengok macam mana apa yang berlaku minggu ini. Cuma mostly sebab kongres kut saya rasa adalah dua tiga yang akan diselitkan.
 
-[1:29:55] Terdiri daripada ahli akademik Dengan pelajar So mahasiswa lah Perwakilan mahasiswa Dan ada enam lagi Kalau tak silap Terdiri daripada lantikan Menteri Tapi di atas
 
-[1:30:10] cadangan satu komiti, cadangan jawatan kuasa namanya nomination committee. Nomination committee dekat ministry ataupun nomination committee of the university? Itu saya tak pasti sangat. Tapi at least at the very least ada enam-enam so you still have a fair balance lah. universiti. Bercakap tentang otonomi universiti tadi YB dan Joe dah explain in detail dia punya big dilemma dia macam mana nak seimbangkan semua tapi again lah kalau kita memberikan otonomi kepada universiti dalam keadaan kerajaan tak boleh kerajaan masih bagi duit tapi kerajaan tak boleh nak apa ni menentukan hala tuju universiti sebagai contoh YB banyak sebut antara masalah besar dalam universiti sekarang adalah kursus-kursus yang tak relevan dan benda ini akan mempengaruhi kerajaan sebab isu unemployment dan sebagainya dalam keadaan kerajaan bagi duit kepada universiti tetapi disebabkan otonomi kerajaan tak boleh nak masuk campur langsung. Macam mana benda itu boleh berlaku?
 
-[1:31:29] Okay Soal Yelah kita masih lagi sebenarnya Berbincang mengenai model Semua ni ekosistem ni Hmm
+[08:31] Rafizi: Masih lagi pasal Kongres PKR ke?
 
-[1:31:40] Dia berhubung kait. Dia berhubung kait tentang competition ataupun competitiveness daya saing universiti. Daya saing universiti itu berhubung kait dengan kebebasan akademik semua kan. So ambil contoh yang tadilah pasal universiti yang dilihat tidak berdaya saing Jadi, ambil di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas, di atas,
 
-[1:32:15] The board is now chosen by the minister, even the TNC. I think the next chancellor is also chosen by the minister. I think so. Let's see if the TNC is chosen by the minister or not. Malaysia? Yes. Both? Yes, both. It's up to the TNC. It's chosen by the minister. NC and TNC.
 
-[1:32:39] So, di... Dulu waktu saya kat UM, ada orang yang datang lobby untuk saya bagi nama dia sebagai TNC lah. So, maksudnya pencarah lobbying kau? Wah, hebat. Orang kuat lah ni, Aziz. Sebab masa tu kau presiden... Kesatuan mahasiswa. Korang gelakkan Aziz tau, Aziz dulu presiden kesatuan mahasiswa tau. I mean that's what happened sampai macam tu sekali lah. So, kalau dia tak ada one size fits all kan. Cuma kita tengok model, kita ada, ok, cut lah.
+[08:33] Host: Kita, tapi kita tak masukkan dalam hidup keraslah.
 
-[1:33:14] Kalau kita tengok negara-negara yang universiti dia selalu nampaknya lebih baik daripada kita kan ada dua tiga jenis negara lah. Satu negara-negara barat termasuklah Australia, US, Eropah semua kan.
 
-[1:33:31] Satu ialah Cina. Model dia lain tau tapi keberhasilan universiti dia ke langit lah kan. Satu lagi Korea dengan Japan yang more sebenarnya lebih rapat kepada model negara-negara barat lah. So I think kalau kita tengok model di Eropah, di US, di Australia, di Jepun, di Korea Selatan ni can be categorized as one lah. contohnya
 
-[1:34:05] It's true, except in the US. But in many other countries, universities are partially funded by public funds. Because they have social responsibility. So they are partially funded by public funds. So the government gives grants. We will discuss the forms of grants that can be considered to strike a balance. So the government gives grants. But the government...
+[08:35] Rafizi: Oh, okey. Still lah, masih lagi pasal Kongres PKR lah?
 
-[1:34:31] Kalaupun kerajaan ada wakil, dia hanya ada wakil dekat board lembaga. Komposisi itu perlu dibangunkan supaya dia tidak menjadi rubber stamp. So board selalunya macam itulah. Kalau di Malaysia, di mana-mana pun selalunya kumpulan wakil dalam lembaga pengarah universiti ini selalunya mestilah wakil daripada kerajaan kena ada. memastikan social responsibility ada alignment dengan dasar kerajaan lah kan. Tambah kalau kat Malaysia ni lagi sensitif lah isu masuk universiti, isu equity semua ni. Semua sangat sensitif, orang bergaduh tiap-tiap tahun kan. So kena ada wakil kerajaan. Kena ada wakil akademik. Kemudian kena ada wakil industri. Kena ada wakil luminaries. dan kena ada wakil sama ada students ataupun wakil kaki tangan akademik ke apa semua kan. And satu lagi yang selalu diletakkan ialah wakil alumni. So whether it's 10 orang ke 12 orang ke 15 orang.
 
-[1:35:53] Dia dapat otonomi itu tau. Dan dia menentukan dan dia bertanggungjawab kepada grant yang diperolehi. Dia bertanggungjawab sepenuhnya kepada sustainability universiti kan. Now.
 
-[1:36:06] Itu board Dan board menentukan Hal itu jujur universiti And board is concerned About sustainability Quality Semua kan
+[08:39] Host: Sebab...
 
-[1:36:17] Kemudian...
 
-[1:36:19] Ada beberapa cara lah sama ada dia mungkin ada nomination committee ataupun search committee yang mencari naib chancellor. Dan dia boleh buka secara terbuka. Apa nama ni, naib chancellor mungkin kalau di negara lain lah. Naib chancellor kadang-kadang rakyat negara lain pun. Akademik daripada negara lain. Biasa, benda tu biasa. Dia bukannya, saya mestilah alumni Universiti Melayu untuk menjadi VC Universiti Melayu. Dia terbuka satu dunia Siapa-siapa pun boleh kan Cuma masalah orang kita Katakanlah ada orang Finland seorang Jadi Vice Chancellor UM kan Oh kecoh lah Islam terancam Tak ada orang Malaysia ke Islam terancam lah semua kan Tetapi dalam dunia akademik It's not like that It's actually open kan So itu autonomy mereka Then when you To me lah When you get the selection Process itu right and kita dapatkan orang yang terbaik untuk menjadi kepimpinan universiti daripada VC kepada NC, TNC semua kan. At least itu dah pada landasan yang betul kan. So to your question tadi contohnya.
 
-[1:37:36] Macam mana kita nak selesaikan soal job market, mismatch, dia ada satu lagi badan di universiti which is senate. Senate ini sebenarnya management committee lah. Board ialah yang paling atas, kemudian you ada senate, management committee. Senate inilah wakil-wakil daripada fakulti semua. Sebenarnya dean, dean yang duduk dalam senate semua. tentang kualiti, silibus dan sebagainya. Jadi, sepatutnya
+[08:40] Rafizi: Dia ni tak move on lagi daripada PKR.
 
-[1:38:13] Kita boleh manage soal mismatch ni kalau the flow itu seamless daripada board kepada senate untuk menguruskan. Because the board would know contohnya funding kita banyak-banyak ni je. Okay this is keberhasilan kita di luar sekian-sekian-sekian. And ada wakil industri, ada luminaries kat situ. This is where the future is going Kita mula kena tu kan Dan yang itulah yang daripada Keputusan-keputusan di board itu Yang itulah diterjemahkan oleh NC dan juga Senate So cuma The give and take itu kena berlaku lah Sebab dalam Senate contohnya Kalau ada fakulti yang sebenarnya
 
-[1:39:04] Actually, the faculty, this course, it seems that they are no longer getting a job. Or it's actually already quite outdated, right? So some courses have to be phased out.
 
-[1:39:23] Daripada board dengan senate, you would say that kita sebenarnya nak kena double or triple intake for this. And then kita nak kena translatekan ini kepada more lecture rooms ke, more labs ke, more intakes. Instead of 300 per intake, maybe you need to start taking 700, 800 kan. Semua ini dalam kemampuan akademik untuk buat. Dia bukanlah ilmu, ilmu sains nak ke bulan tau. Cuma Rocket Science Hmm
+[08:42] Host: Bukan tak move on, dia cakap pasal polisi negara, haa pasal gaji ke apa ke.
 
-[1:39:54] The issue yang kita nak kena ulas lepas ni ada dua lah kan. Satu is the funding model. Sebab kalau yang macam Joe kata, kalau 85% benda tu datang daripada geran semata-mata,
 
-[1:40:12] Memang universiti has no incentive, motivation to do it. So, dia orang buat apa? Dia akan berpolitik lah, sesama mereka. Dia akan, you know, saya nak tahan kain ni sampai sudah, then it's no longer
 
-[1:40:27] related to supply and demand, they think, if I can defend this, I can get this, I can get that. So, it becomes a political office. And that depends on the funding model.
+[08:45] Rafizi: Pandai kau pusing.
 
-[1:40:46] proses memberikan otonomi itu bermakna universiti mesti diberi kebebasan diurus takbir secara bebas tanpa campur tangan kerajaan. Dan baru senang kerajaan, dah lah Malaysia ni asyik bertukar ganti kerajaan je mati budak-budak tau, masuk yang ini, tukar macam ni, masuk kan so to me Kita mesti mula dengan autonomi supaya universiti boleh bergerak bebas. Mungkinlah awal-awal ini kita tak berani, takut. Ini kembali kepada sentralisasi versus devolution. Sentralisasi versus desentralisasi.
 
-[1:41:33] Dia tak ada one size fits all. Dia bukanlah nak kata centralization is the best. Or decentralization is the best. If anything that we learn from China, is that they are very practical. Mana yang decentralized, dia decentralized. Ada benda yang dia betul-betul devolve and decentralized. Ada benda dia centralized gila-gila lah. So I think ini sesuatu yang kita akan belajar untuk mencapai keseimbangan semasa kita berjalan. Tetapi, yang ini yang Dato' Sri Anwar sepatutnya sebagai seorang reformis
 
-[1:42:12] sepatutnya betul-betul percaya in my case for example kan I really believe of devolving and bagi
+[08:47] Host: Nasib baik luruh jantung saya tahu tak. Okey, kita teruskan. Peria, haa, yang pertama kita mula dengan UMNO lah.
 
-[1:42:20] as much power to the people below and our job above is to provide safeguards, systems, all of that. So that the framework, so that eventually they self-manage. Because the moment they self-manage, then that's where the creativity, everything comes in. It's the same as we manage, give an example, we manage the same thing. Just add the simplest analogy.
 
-[1:42:50] Memanglah awal-awal tu saya chair meeting. Aku tanya semua tu. Periuk kat mana, belanga kat mana, ni, ni, ni, ni, ni semua kan. I tanya pasal course.
 
-[1:42:59] Once I think that everything has been set out, the system semua tu has been set out kan, aku tak usah campur kau nak masak apa, kau nak buat apa, it's your thing lah. All I know is it must run at a certain speed, frekuensi dia macam mana, flavour dia macam mana, the mood semua kan. Dia sama, governing pun macam itu juga in the case of university ni. Kalau Dato' Sri Anwar betul-betul seorang reformist kan, whole thing about autonomy ni must have neck him like hell. Sebab dia pun tahu sepatutnya that kita tak boleh govern this country ni as orang kata as an emperor. Semua you nak decide, semua you nak tu kan. And menteri pun tak boleh jadi emperor kan. But unfortunately, baru sekarang lah cerita ni keluar. Itu pun kita tak pasti sama ada AUKU ni betul-betul driven by that belief in devolution of power sebenarnya is a cosmetic politic lah. Saya bimbang sebab mereka ni ada beberapa sumpahan yang mereka nak hilangkan. Contohnya harga minyak dulu hari menang esok turun. Jadi dia buatlah macam tu. Kemudian sekarang AUKU ialah dikaitkan dengan Adam dan PPR lah. Sekarang sebab itu dia buat macam tu juga. So we can see lah sebab itu saya rasa lah pandangan saya ni kan we keep coming back to the two central issue kan. tinggi, academic freedom, autonomy for them to self-govern all that risiko nanti salah orang lah semua tu awal-awal mungkin perlu ada handholding but
+[08:55] Rafizi: Uhu.
 
-[1:44:40] After certain time, they will be able to, kita dah ada set precedence, kita dah ada culture kan. Satu lagi, is the funding model. Sebab itu, kalau nak tengok nanti, dalam 2, 3 bulan, 4, 5 bulan nanti, sama ada soal AUKU, pemasaran AUKU ni betul-betul genuine reform ataupun cosmetic reform untuk Adam Adli kan, kita sebenarnya nak kena perhatikan sama ada, of the university funding ketidak and so
 
-[1:45:13] Dia ada banyak pandangan. Satu pandangan saya rasa adalah yang betul-betul percaya bahawa universiti ini adalah kebaikan umum. Oleh itu...
 
-[1:45:33] Saya mesti kira-kira itu
+[08:56] Host: Kita ada Susu Agung UMNO.
 
-[1:45:36] Demam dan chopper pun dah menyakit demam. Sebab itu kita dah letak dia kat luar, tak boleh ada kat dalam. Dia asyik bersin. Haa, dan keluar hingus.
 
-[1:45:45] Copa beri ngos Haa kan fan Ya Allah Kisian Kisian Dengan copa-copa
 
-[1:45:51] Ha? Habuk Dia kata sebab habuk Dia allergic dengan habuk
+[08:59] Rafizi: Siapa yang dapat LOD ni?
 
-[1:45:54] Banyak songit lah. What's the problem lah ni? Kau ingat ni kucing T20 mana ni? Masa dulu dia kucing... Saya rasa dia memang kucing T20. Makan pun makan makanan mahal lah. Gaya dia memang kucing T20 lah. Cuma kalau dia ada kat sini aku nak ungkit. Masa dia jadi kucing gelandangan dulu, bukan sahaja habuk, penuh kan? Makan pun tak ada. Kita orang kutip sekarang. Sekarang dia boleh complain. Demam sebab ada habuk.
 
-[1:46:24] Jadi, dia ada di satu spektrum.
 
-[1:46:30] Kita akan terus ada sama ada daripada kalangan akademik lah mostly lah I think. Daripada kalangan akademik, rakyat biasa pun ada yang berpandangan university and higher education is social public goods. And therefore dia mesti dibiayai sepenuhnya oleh kerajaan. So it's really the best of both worlds for university lah. Dia dapat autonomy, they can do whatever they like. Memang minta je apa dapat kan Tapi my view lah Dia akan ada kesan yang kita cakap tadi lah When there is no incentive Jadi ada risiko keberhasilan universiti itu agak
+[09:01] Host: Ni terlampau ramai, cuma ini berlaku selepas disentuhnya isu RCI Tabung Hajilah. Jadi, Ismail Sabri dapat LOD, Abid Abdullah dapat LOD, saya, dan juga page-page pro kerajaan, yang kita tak tahu siapalah, pun diancam untuk disaman juga lah. MyNewsHub, something macam tu.
 
-[1:47:19] terkebelakang ataupun ada jurang dengan keperluan masyarakat terutamanya juga, I don't think it's just Malaysian case tau. Di mana-mana pun, bila orang pergi for higher education, they would want to secure a good job after that. Sebab ada orang yang berhujah, eh tugas universiti ni bukan untuk cari kerja tau, tugas kita untuk bagi ilmu. So I don't know, masa you lecturer tu macam mana? Objektif dia memang sangat clear Iaitu dapat satu kerja yang bayar Gaji yang baik You mean as a lecturer? No, no, as a student Yalah kan, as a student But when you were a lecturer How do you change your mindset macam itu? Sebab lecturer memang akan banyak yang kata Eh, ini apa susah-susah ni Cakap kursus saya ni tak penting semua Saya bukan tanggungjawab saya untuk Bagi kerja kat Buddha Tukar saya ialah memberi ilmu for me agak actually berbeza sikit sebab saya pada masa so semasa saya jadi pensyarah saya pun jadi satu konsultan untuk Department of Foreign Affairs and Trade Australia so in fact kat universiti dia orang memang menggalakkan staff untuk mencari konsultansi untuk membiayai research I think kat Malaysia mungkin berbeza sikit sebab kat Malaysia I think everything memang dipulangkan kepada terpulang kepada pihak universiti lah when it comes to funding. So sebab itu saya memang always encourage my student always learn something practical. It's not like teori ke of course teori you should still have lah tapi when it comes to benda yang practical you should actually have that too. So the mindset as lecturer waktu you're in Australia adalah untuk benda tu make sure match dengan keperluan student dia lah. It's about I think at the end you also want them to find a good job and then to have a good pay juga. Malaysia sebenarnya. Jadi apa nama ini, sebab itu model tu kan. Insentif itu tak ada, rasa dekat Malaysia. Dia, dia kalau we go into details kan, dia, dia, ialah banyak keluhan lah. If you speak to lecturers, part of it is bureaucracy. Contohnya kalau research kan.
 
-[1:49:42] terutamanya kajian berbasis teknologi
 
-[1:49:47] IP is owned by the university. So there's no, they want to commercialize. So they don't have incentives. They work for the university. So they need to have some personal incentive, right? So if they want to commercialize, they have to go to, I think, like, university innovation office. It's a long story, right? So eventually, if you become a lecturer,
+[09:21] Rafizi: MyNewsHub tu bukan Najib punya ke?
 
-[1:50:13] Kenapa mengganggu? Jadi saya rasa kalau konsultan C pun
 
-[1:50:18] I think university has a lot of consultancy companies. So you are basically a panel of the university company. Rather than, for example, you are hired or you get grant because of your own renowned academic reputation. So we have these two...
 
-[1:50:43] extreme. One is completely funded. The government gives a blind grant. And then with the autonomy, they can do whatever they want. Or completely private university. Meaning, they don't get any government money.
+[09:24] Host: Sekarang dah jadi...
 
-[1:51:01] Dan semuanya itu dia kena dapat daripada kewangan sekolah ataupun geran kajian. Jadi apa yang saya selalu ingat, dia mesti mencapai balasannya. Ini sangat kontroversial. Orang akan kata dia ini gila Cina betul lah. Kalau tak Cina betul lah. Teng Chow Ping. Teng Chow Ping betul lah. Ada...
 
-[1:51:33] satu model sekolah jenis kebangsaan Cina. Tengok sekolah kat Malaysia kan, kita ada satu, kita ada tiga kategori. Satu kategori ialah sekolah kebangsaan yang fully funded by government. Daripada capital kepada cikgu, semua fully funded kan. Satu is basically private school lah. international school yang fully funded privately tak dapat apa daripada kerajaan semua kena bayar kan tapi actually SJKC sits in the middle tau exactly SMJK juga SMJK juga dia actually dapat per capita grant dia dapat per capita grant tapi that's not enough for them so what they do is that dia memang ada fee extra they raise their own funds semua sebab tu SJKC semua ni kadang-kadang sekolah dia ya Allah kan Kalau pergi SJKC ataupun SMJK, you boleh nampak infrastruktur. Infrastruktur di SJKC ataupun SMJK jauh lebih baik daripada SMK ataupun SK. Walaupun tak dapat funding yang complete, secukup seperti SK. Tapi kalau nampak mutu dia dan juga infrastruktur dia, dia memang first world. Because I think SJKC dan SMJK ni, dia dapat gaji cikgu yang daripada kementerian dibayar oleh kementerian lah tapi dia dapat per capita grant je lah per year kan yang lain tu dia nak survive tu dia kena fundraising semua lah kan so university actually kalau to me lah nak strike the balance kan aa
 
-[1:53:17] Basically, so-called basic grant, if we call them, let's say we call it basic grant. Basic grant is something the government has to give. Basic grant means... They can benchmark the number of students. The number of students, depends on how they want to benchmark it. You know, the bare minimum, or not bare minimum, reasonable OPEX and CAPEX that they have. Because, okay.
+[09:27] Rafizi: Ya ke? Sekarang dah swinger?
 
-[1:53:45] Universiti punya komplain sekarang ni lain pula lah. Dia banyak bercelaru tau yang mungkin orang ramai tak faham. Universiti tak puas hati sebab on the one hand,
 
-[1:53:56] Especially the good universities lah yang demand banyak ni kan. On the one hand, dia bergantung kepada grant kerajaan. And kerajaan kata you bergantung kat kita. Tapi dia tak boleh naikkan you fees lah. And because of that, they cannot grow as they like. They cannot be so market oriented as they like. Then to a certain extent ada benarnya contohnya kan. Ambil UM lah contohnya. sudah berada di top 50 di dunia.
 
-[1:54:30] Actually kalau dia nak dapat international student, dia boleh dapat banyak tau. In fact post graduate banyak. Post graduate ke UM, banyak nak masuk UM. Tapi dia nak kena balance sebab dia tak takluk kepada segala jenis peraturan, dia tak boleh buat. Sebab kalau contohnya, dia ambil banyak international student, nanti ex-co-pass tu kata, oh tengok ni, di bawah madani, universiti-universiti telah mengabaikan orang Malaysia untuk orang luar negara kan. So, actually they must be a balance. And kalau I run UM, contohnya, I would like to strike a balance if I get more funding because fee dia lagi mahal semua. Itu kan compare dengan local. Fee dia tak subsidize langsung. I want to charge the full fee for those students. Because I can use that fee untuk subsidize local students. But, that means that I must have the freedom untuk decide cost. apa nama ni capek saya saya nak buka faculty macam mana pengambilan tiap-tiap tahun dia saya tak tertakluk kepada apa nama ni terlalu rigid yang kajian tetapkan semua so to strike a balance kan
+[09:29] Host: Tak tahu, saya saya tak baca... Eh bukan, dia ada satu nama lain, tapi dekat-dekat...
 
-[1:55:44] You know, I've always envisioned there are two types of funding from the government, right? One to the university as a basic grant, which is to cover reasonable OPEX and CAPEX, right?
 
-[1:56:00] Satu lagi tu, you jangan bagi kat universiti. You bagi kat student direct. You bagi kat student direct. So that allow universiti untuk develop programs yang a lot closer to the market and ikut market demand. So that universiti mana yang, they will be forced to say, sorry lah, this cost, intake 10 orang tiap-tiap tahun yang minta ni. Kita punya cost banyak ni. So, I need to get rid 1, 2, 3, 4, 5 The resources Freed up daripada sini Allow me to contohnya Expand this faculty 3-4 times Because the demand for it Is 3-4 times So, they offer banyak So, they can take University students ke International students ke Then, they charge at
 
-[1:56:56] market rate punya fee kan. Cuma untuk budak-budak yang memang layak dapat bantuan, then kalau kerajaan punya grant itu is 90% of the fee, you bayar kat budak tu lah. And budak tu then, they can decide based on market, dia nak pergi universiti mana, and then they secure the funding.
+[09:32] Rafizi: Okey okey, MyNewsHub tu Najib punya.
 
-[1:57:17] Jadi, balasannya antara grant utama, grant asas, dengan kemampuan universiti untuk menguasai kemerdekaan, untuk menawarkan kursus, untuk menginap kursus, untuk memperkembangkan semua itu kerana mereka tahu yang diperlukan oleh pasaran, itu mempunyai lebih banyak permintaan. Oleh itu, mereka boleh menjadi lebih berkelanjutan kewangan di masa depan. Payah nak buat, susah nak buat. But you know.
 
-[1:57:51] Well, good things memang payah lah. I don't know, in Australia or anywhere else macam mana? Sorry, before going to Australia, I think ada satu isu yang mungkin perlu diulas lagi ialah isu PTPTM. Because that also directly related to isu financial sustainability of the country. So kalau kita tengok tabung PTPTM pada masa sekarang, PTPTM is actually losing a lot of money. Jadi ada beberapa unsur-unsur yang saya dapati di mana, contohnya untuk isu PTPTN,
 
-[1:58:31] The PTPTN loan, it charges at 1% hijrah, if I'm not mistaken. Ujrah. Ujrah, sorry, ujrah. It's like faedah in the Islamic context. But 1% is not compounded. So it's actually just by annual basis, based on your outstanding. But at the same time, the cost to get funds by PTPTN to borrow from the public is about
+[09:34] Host: Dia dekat juga, haah. Tapi point dia adalah ancaman...
 
-[1:59:00] 3% to 4%. Market rate lah, 3% to 4%. So technically speaking, in addition tambahan on top of what the government has already allocated to KPT, iaitu Kementerian Pemerintahan Tinggi, the government is also paying for the tertiary loan, PT-PTN. Kerugian yang perlu ditanggung oleh PT-PTN. So these are also an issue. Human, there is a...
 
-[1:59:26] Another whole discussion because even now, students who take PT-PTN, it's not to pay full fee. So if they enter IPTA, they take PT-PTN,
 
-[1:59:44] I think the university fee is 90% subsidized by government. And the loan is 10% paid. The other is actually for cost of living. I understand that the PTPTN was made to...
+[09:38] Rafizi: Itu Najibun punya.
 
-[2:00:09] Ialah membantu keluarga yang susah. Supaya bila...
 
-[2:00:15] he went to university, he wanted to register and then month to month, he didn't have to burden his family, he didn't have to sell the land. During my cousin's time, the parents used to sell the land, they wanted to go to university because they wanted to fork out everything. But that means that, I agree with you, Jo,
 
-[2:00:39] Kalau kita tengok higher education reform ni termasuklah funding reform ni maksudnya kita mesti kena tengok sekaligus dengan PTPTN. Because pinjaman kalau contohnya dia ambil course engineering di UM.
+[09:40] Host: Najibun punya, haah bukan. LOD, RM5 juta YB.
 
-[2:00:57] I don't know, most probably untuk 3 tahun, 4 tahun engineering course, most probably jadi RM120,000, RM130,000. Itu you run sahaja. So campur lagi dengan yang dia mungkin ambil PTPTN untuk dia punya cost of living semua. Tapi kalau ada basically grant to keluarga yang layak dapat, 4 year course untuk U-Run Most probably dia still bayar Just 13, 14 ribu Yang itu boleh ditampung daripada PT-PTN Yang dia kena ambil separately lah Cuma Cara sekarang Bila you subsidize Blanket subsidize Blanket subsidi Kepada universiti Cost semua Semua 90% subsidize Itu yang dia create A mismatch dengan the market My course yang sebenarnya Is actually not competitive with the market Sebab well It's subsidized anyway kan Budak-budak semua tak ada incentive Lecturer pun tak ada incentive semua kan But the moment you allow Fee to reflect market rate
 
-[2:02:15] But the market rate should be lower than the private university. Because you have a core basic grant that brings it lower. So then students can choose. They want to go to a private university at RM150,000 for a course. Or they go to a public university, the fee is RM100,000 but they only pay
 
-[2:02:41] 10. Tapi benda tu disalurkan melalui dia tau. Supaya...
+[09:44] Rafizi: Mhm.
 
-[2:02:47] Let the market decide, let the students decide demand cost yang tinggi.
 
-[2:02:54] Kalau tidak, melalui sistem UPU semua ni yang ada sekarang ni, dia terlalu restricted by availability of popular courses. Jadi semua orang minta popular courses. Dia tak dapat. Itu yang saya tak dapat pilihan pertama. Saya sebenarnya nak jadi engineer. Tapi sekarang saya dapat offer course kedua ialah, I don't know, science and technology. Sebab I ambil lah science and technology. kapasiti banyak itu sahaja. Kapasiti banyak itu kenapa? Sebab kalau saya nak expand, saya kena minta dengan kerajaan melalui kementerian tinggi, saya nak buat fakulti baru. Kalau ditolak tujuh tahun, tak dapat-dapat. So, it restricts the autonomy of university to respond to the market because of bureaucracy, of layered bureaucracy ni kan. Yelah, dia tak ada hard and fast rule.
 
-[2:03:50] But I think what needs to happen is that universities need to be agile. And they have to change with the world so much faster and the world
+[09:44] Host: Dan yelah, kalau kita tengok pun biasanya persona politik ni, dia takkan menang sampai RM5 juta pun, dia macam Aisyah Jalil dulu kita pernah cakap juga. Dia pun nak saman berpuluh juta juga kan.
 
-[2:04:05] change so much faster. Now, right? So how can it be agile if its bureaucracy has a lot of layers? That's why autonomy is very important and grants cannot be by project like now. Now it's by project. Oh, by project. Yes, for example. So it's not like a block budget thing. No, it's not a block grant. It's not a block funding.
 
-[2:04:28] So it's not predictable lah untuk pihak universiti. It's not. So it's quite difficult lah. So contohnya kan, dekat universiti UM, contohnya, dia nak buat classroom baru, 7-8, a block of maybe 7 lecture theatre lah kan.
 
-[2:04:49] Dia kena go through budgeting dekat peringkat dia. Daripada peringkat dia tu, dia kena pergi budgeting tu kepada peringkat KPT dulu. So KPT pun tengok ada 23 universiti minta.
+[09:57] Rafizi: Itu boleh minta, tapi hakim yang akan tentukan sebab hakim tengok aggravated damages tu berdasarkan kepada betapa tercalarnya reputasi kan. So yang beri-ria ni macam mana?
 
-[2:05:03] Okay, this year I want to give you, because last year you got it, you can't, you wait, you come back next year. You come back next year. So the queue for what individual university has to do is long. Then that's the level of KPT, then it reaches the Ministry of Economy. The Ministry of Economy said, no, no, no. So it's not block grant, it's actually by individual project.
 
-[2:05:30] As opposed to, for example, if you have a block grant, what I said earlier about core grant, then they have their income when they can charge at market rate, right? If they have $400 million a year, they can plan and they can do it without actually having to think, having to go up there, go up here, and all that. So they decide for themselves. So we need to be able to make sure that the autonomy is,
 
-[2:05:55] Ia berkaitan dengan kebebasan, bukan sahaja kebebasan akademik, tetapi juga kebebasan pendanaan. Kita dah 2 jam 5 minit. Jadi mungkin kalau ada benda lagi sikit yang tak disentuh, macam mana apa jadi dengan pelajar, apa jadi dengan kerajaan selepas kalau autonomi itu diberikan kepada universiti, mungkin ada regulator ke apa ke? Saya rasa apa jadi dengan pelajar itu adalah selalunya Sebelum ini banyak sangat tertumpu kepada soal demonstran student. You know, yang everything about aku is, oh student kena gantung. It's actually a lot more than just students kan. Kalau universiti itu dah autonomous and we trust, iyalah.
+[10:11] Host: Yang beri-ria-nya adalah, yelah, satu dia nak saman RM5 juta, dan antara orang-orang yang disaman tu pun katanya ialah, dia just bangkitkan kenyataan contoh eh, kenyataan saudara Asyraf pada tahun 2016 tentang surat Bank Negara, sebagai contohnya amaran tu kan. Dikatakan, yelah, surat itu tak menggambarkan keadaan sebenar Tabung Haji, itu dikatakan oleh saudara Asyraf sendiri sewaktu menjadi Timbalan Menteri.
 
-[2:06:46] Akademik ni... Teaching staff semua ni... You know... Kalau budayanya... Yelah academic freedom... Respecting each other semua...
 
-[2:06:56] Kita berharaplah budaya di universiti jadi macam itu. And budayanya ialah dia menghormati the due process semua ni. Jadi everything should be left to university. Sama juga contohnya student affairs. You serahkan kepada union lah untuk decide semua kan. Lagipun budak-budak ni kan manusia lah manusia. Masa dia tak dapat dia bising protest lah. Masa dia kena run sendiri dia diam lah. Dia pandai-pandai manage. they understand. Alamak saya kau sebagai union president alamak yang ini minta ini, ini, ini. So kau pandai-pandailah manage dia orang kan. Cuma akan ada kes-kes disiplin contohnya kan. Yang itu let the university, the senate semua decide. I'm sure the senate will be able to come up dengan proses yang mana ada certain kesalahan yang apa nama ni, suckable from university lahan semua kan and whatever yang dibuat itu
 
-[2:08:01] Tidak boleh bertentangan dengan carta universiti. Dan kalau carta universiti itu, ialah untuk to protect rights rather than to punish. Then dia lain tau. Contohnya untuk kalau carta universiti itu daripada awal, ialah untuk melindungi kebebasan akademik. So, maksudnya bila ada sesuatu kesalahan, susahkan orang ataupun is this in pursuit of
+[10:41] Host: So lepas ni kau dapat LOD?
 
-[2:08:35] academic freedom. It's the same with students. So if we shift from one that is punitive to one that is protective, which means to protect the good things that are needed at university, and I think university will self-regulate, students will self-regulate. There's only one thing.
 
-[2:09:03] Kalau you bagi semua ni universiti ada autonomy, autonomy, autonomy semua ni kan? How do you make sure that universiti semua ni quality-nya dia tak falsify?
 
-[2:09:13] If not, he can... This is Malaysia, you know. He's good. Suddenly, everything looks beautiful on paper, but over time, it becomes like a tabung haji, there's a hole. Right? For all you know, suddenly, the university has a funding gap that he's hiding. 20-30 billion. That's one. One,
+[10:44] Host: Saya bersedia untuk melawan sampai habis.
 
-[2:09:34] kualiti diperlukan secara superficial. Sebab itulah, ada yang mesti ada regulator. Regulator itu untuk memastikan apa nama ini, kebenaran apa pun hasil yang universiti itu ada. Saya juga rasa kita dah ada ketua audit negara semua proses audit itu berjalan macam biasa. Benchmarking mesti boleh berlaku. yang regulator ada is MQA Malaysian Qualifications Agency kan tapi MQA ni more untuk
 
-[2:10:14] Approve Satu permohonan universiti lah Hmm
 
-[2:10:20] Satu lagi is permohonan silibus courses untuk make sure kan courses tu dia boleh benchmark dia tak teruk sangat kan. Tapi sekarang inilah peranan so-called regulator persis tu untuk streamline policy, untuk make sure kan benchmarking, untuk make sure kan synergy dasar tu. Semua tu dibuat oleh Kementerian Pendidikan Tinggi tau. bukan kerajaan lah. It's actually an independent regulator yang responsible kepada
+[10:46] Rafizi: Sebab netizen ni pun satu, duk tag aku dengan tag Asyraf Wajdi suruh Asyraf Wajdi saman aku kan. Oh, masa nak suruh saman cari aku, masa tak ada apa-apa lanyak aku kan.
 
-[2:10:59] Parlimen Saya tak tahu orang lain lah Aku kalau aku Yelah ada peluang lah Kalau sebanyak mana kuasa ni You serah kepada badan-badan bebas ni Eh senang jadi menteri Semua yang bermasalah Actually regulator parlimen semua kan So then Minister can really focus on big Policy Policy on policy Bukannya minister nak kena Nak kena focus ada dekat college kediaman lah, itu sebenarnya masalah universiti tau, masalah pentadbir semua kan. But sekarang ni, minister nak ada kuasa semua, semua di bawah dia. Naib Chancellor pun dia lantik, kau jawab lah. Cita air pun kau kena jawab tau. So there must be some kind of regulator jugalah kan. So kalau I think if we are able to do all this, dan gunakan peluang mansuh auku ini, buat reform ya lah I think we can be hopeful for the future lah in fact dalam RMK 13 lah yeah
 
-[2:12:08] Salah satu yang aku berjaya seludup masuk dalam tu kan ialah untuk memulakan proses memberi otonomi kepada universiti. Actually banyak yang kita bincang ni kan pasal funding semua ni. Yalah I mean some of these ideas memang saya dah bounce around dulu. Tapi biasalah orang tak nak dengar macam aku ni kan. Orang kata biar dia membebis orang kan. Tapi I manage to kita memang ada dalam RMK13 tengok RMK13 tu, satu ialah untuk memulakan proses memberi otonomi kepada satu universiti awam sebagai pilot projek. So now I hope bila dah diumumkan mansuh AUKU semua ni, kita kena teliti dengan dekat lah. Dan hopefully dia ke arah memberi academic freedom and also funding freedom lah. Okay baik baby, kita tutup dekat situ. Kita masuk topik yang kedua iaitu
 
-[2:13:18] Ekonomi tumbuh 6% tetapi tetap hilang undi. Ini berkaitan dengan prestasi pertumbuhan suku kedua 2026 yang baru diumumkan iaitu 6%. Dan ini melebihi daripada anggaran yang dibuat oleh DOSM iaitu 5.4%. Bukan anggaran yang dibuat. Yang itu pun dia panggil advance estimate. Dia katakanlah dia suku kan I mean quarterly is 3 bulan kan So dia katakanlah by bulan kedua tu Dia dah ada result bulan pertama dan bulan kedua Dia dah boleh buat unjuran Itu yang dia panggil advance estimate tu Anggaran awal ni advance estimate kan
+[11:04] Host: So apa yang beri-ria?
 
-[2:14:19] the third month, then they will finalize the data. That's what becomes real. Usually, the advance estimate is not that far from the actual number. So, in quarter two,
 
-[2:14:35] Maksudnya advance estimate 5.8 eh? 5.8 tapi Bloomberg estimate. So consensus estimate 5.2. So dia jauh lebih daripada estimate yang dibuat oleh ahli-ahli ekonomi. Ahli ekonomi lah. Then bila estimate tanya Joe lah, sama jugalah bila ahli ekonomi semua ni buat estimate semua ni. Dia bukannya pakai congak-congak-congak. Dia ada model dia. Maybe you can explain a bit how people do nanti economic estimate kan. Subcontract. Aku nak subcontract sebab aku nak beri kencing. So, dia biasa. So, Joe, you go ahead first. Yelah, dan kenyataan rasmi Bank Negara Malaysia mengatakan itu didorong oleh permintaan domestik yang berterusan dan perisasi ekspor yang kukuh. Mungkin komen, Joe? Saya rasa actually betul apa yang dinyatakan oleh Bank Negara di dalam kenyataan rasmi diorang. Itu memang betul. seperti di mana
 
-[2:15:37] household consumption iaitu permintaan isi rumah. Dia memang kukuh. Tetapi kenapa rakyat tak boleh rasa I think that's the bigger question that we have to answer lah. Kenapa rakyat tidak dapat merasai limpahan ekonomi daripada pertumbuhan, kadar pertumbuhan ekonomi yang sebegitu tinggi. Kalau pergi tanya orang-orang kat ramai, kat kedai semua, ramai memang tak rasa. Dan pada masa yang sama kita boleh rasa kos seorang hidup semakin tinggi Tak, tak mengajar. So,
+[11:05] Host: Saya rasa nilailah, nilai tu, dan dia punya...
 
-[2:16:11] Itu sebenarnya, ia selalu menjadi penipuan bagi ramai orang kerana memang ramai tak boleh menerangkan apakah punca-punca utama di mana ada sesuatu yang tidak berhubung antara gaji.
 
-[2:16:27] and also GDP. But first of all, I might want to elaborate a little bit. So, KDNK, which is a company in the country of Gaza, it measures production. Production? It measures production, it measures how much, how much things are produced in one country, in one economy at one time.
 
-[2:16:50] Dan dia memang ada disconnect lah. It's not directly correlated di antara GDP dan juga gaji. So itu ada satu, ini adalah satu konsep yang kita perlu faham lah. It's not one to one. Even though let's say you ada 5% growth and then you have 5% gaji. Dia memang tak buat macam ni. Tapi ada satu correlation yang memang well established. Not only just kat Malaysia tapi di tahap antarabangsa. wage technically iaitu gaji seharusnya ada correlation yang cukup close relationship lah di antara gaji dengan productivity. Tapi kat Malaysia ini unfortunately not here. It's missing. So kat Malaysia kalau kita tengok dari tahun 2010 sampai sekarang tak mengejar ataupun berkembang secepat atau selaju seperti produktiviti. Dia ada satu disconnect.
+[11:09] Rafizi: Nilai RM5 juta?
 
-[2:18:03] Dan untuk suku tahunan kedua ini, walaupun kita tengok kadar pertumbuhan GDP 6%, tapi kalau kita tengok apakah faktor-faktor yang mendorong pertumbuhan ekonomi 6% ini adalah kebanyakan daripada sektor ekspor. So sektor ekspor ini yang kita tahulah sebab sekarang kita ada global negara kita, memang menghadapi satu permintaan demand boom for AI. So, artificial intelligence. So, kita dapat... You kena terang sikit, Joe. Orang ingat, orang biasa, dia ingat bila baca laporan ekonomi, kata ada demand boom for AI ni, dia ingat robot ke, dia ingat...
 
-[2:18:54] apa nama ni ialah Check GPT demand boom for AI ni mostly semiconductor semiconductor sebab dia ada data processor data center semua so dia memerlukan chip-chip yang cukup pantas ataupun cukup advance dan juga memory chip untuk store data-data yang kita guna kat Check GPT ke atau kat Cloud ke so memang ada permintaan yang sangat tinggi dan Malaysia sebagai satu hub untuk OSET outsource semiconductor assembly and testing. Yang back-end tu? Back-end lah. Memang back-end lah. Dan perlu katakan, yang perlu emphasise back-end ini memang value added yang paling rendah. Di dalam satu rangkaian semiconductor, front-end itu seperti design. Seperti design itu memang merangkumi nilai yang paling tinggi lah. Tapi apa yang kita buat terutama kat Penang, biasanya ialah back-end punya kerja lah. Dan kita boleh nampak pada suku tahun yang kedua, ekspor.
 
-[2:20:00] Sendirian
+[11:10] Host: Dan apa dia punya kesungguhan untuk nak saman semua orang, yang yang kaitkan dengan dia, dia saman, saman, saman, saman.
 
-[2:20:02] 40% of the population. 40%. That's a very high figure. We haven't seen such a high figure for a long time. So, and most importantly, going back to your question, why don't people feel it? So, I don't have a conclusive answer, but what I saw from the macro data is that
 
-[2:20:28] there is a disconnect between GDP and GNI. So for those who don't understand the concept of GDP and GNI, GDP measures the volume of production in an economy. It doesn't matter if you are a foreigner or a local.
 
-[2:20:53] all of what is done in Malaysia is calculated in GDP. But GNI is a little different. GNI represents Gross National Income. What it measures is
+[11:18] Rafizi: Mhm.
 
-[2:21:10] jumlah pendapatan
 
-[2:21:14] that is accrued to Malaysian sahaja. Iaitu pendapatan yang di-accrued oleh orang Malaysia ataupun syarikat Malaysia sahaja. Dan kita boleh nampak pada suku tahunan kedua, GNI, real GNI growth hanya 2.2% sahaja. Iaitu,
 
-[2:21:32] jurang perbezaan di antara GDP dengan GNI
+[11:18] Host: Kalau cakap pasal nilai ni apa YB, dari segi academic terms lah? Sebab yelah, mahkamah kat Malaysia ni dia regard damages ni sebagai damages lah, bukan sebagai punitive atau hukuman. Jadi, dia kena apa ni, ada some calculation, macam mana benda ni boleh, boleh justify. Ada apa panggil, vindication of reputation yang terhadap duit, so yang juta-juta ni biasanya yang dapat adalah macam Vincent Tan contohnya, kes tahun '95 sebab fitnah itu menyebabkan yelah, business dia rugi ke apa ke. So yang ni dia kena nak kena buktikanlah sampai macam tu sekali.
 
-[2:21:38] So let's put maybe a little bit of context. I'm sorry, maybe a little bit of context. Malaysia always has a lower GNI than GDP. That's a common thing because...
 
-[2:21:54] Our country, Malaysia, we get a lot of investment from abroad and we are a small open economy. So we receive a lot of investment. So it's a common thing for our country to have a lower GNI than GDP. That's normal.
 
-[2:22:16] Tetapi apa yang kita notice sekarang adalah jurang perbezaan GDP dengan GNI semakin besar. Dan jurang perbezaan ini semakin besar, dia bermula pada suku tahunan 1, 2025. Dan itu pun coincide dengan timing of the AI boom. So apa yang kita boleh mentafsir daripada jurang perbezaan ini ialah mungkin Again, I have to emphasize it's not conclusive evidence sebab memang tak ada authoritative evidence mengenai kenapa rakyat tak boleh merasa limpahan ekonomi daripada pertumbuhan 6% GDP ini. Tetapi dari makro, dari segi makro apa yang kita boleh tengok, jualan perbezaannya semakin besar.
+[11:55] Rafizi: Dia, yelah, saya dua hari lepas kan, saya sebut, saya telah saman Caprice dalam maksudnya tiga empat bulan dulu.
 
-[2:23:04] And it started in the first year of 2025, which coincided with the AI boom. And if we look at it, most of the export sector, especially the chip companies, are foreign companies. So most of them are like Intel, AMD, Land Research, most of them are foreign companies.
 
-[2:23:31] Jadi, secara asas, apa yang kita lihat di sini adalah ia adalah spekulasi, sekali lagi, kerana kita tidak mempunyai pengetahuan tetapi dari segi angka-angka yang kita boleh nampak dari segi ekonomi ialah
 
-[2:23:45] a lot of the benefits actually go to foreign firms and not local companies or local people. So that's why you have a lot of the... There is a possibility, there is a possibility, even though the GDP is high, 6%, but if we look at the GNI, only 2.2%, so the gap is actually accrued to income of foreigners. Malaysia can't really feel the advantage of GDP that is so high. So maybe GNI going forward, GNI can give a more accurate indication for us to assess where people can feel the advantage of the economy from the economic growth. So in an ideal case, GDP and GNI grow simultaneously? Ideally, the difference between the two is
+[12:05] Host: Dah lama saman?
 
-[2:24:48] tidak sehariannya sebegitu besar. Jadi, semua ini, seperti yang saya katakan tadi, semua ini memang GNI lebih rendah daripada GDP. Tetapi, jurang perbezaannya semakin besar bermula 25 suku pertama. Jadi, saya rasa banyaknya berkaitan dengan repatriasi dendam oleh firma asing. kebanyakan syarikat chip-chip asing ini mungkinlah sebab AI boom permintaan dia tinggi duit yang dapat pun tinggi oleh itu mereka pun repatriate dividend mereka kepada parent entity di luar negara so that's why kita boleh nampak perbezaan ini dan ini mungkin bolehlah menerangkan kenapa rakyat Malaysia tak berapa boleh merasai pertumbuhan ekonomi GDP 6% Dan benda tu dibanyak masuk tapi dibawa balik ke luar. Keluar. Dia macam ni. Aziz kan.
 
-[2:25:55] Let's say KILANG, KILANG Intel. Let's say its sales is RM10 billion per year. Sales is recorded as GDP, RM10 billion. So it sells. But let's say from that RM10 billion,
 
-[2:26:16] Dia dapat dividen 5 bilion Dividen tu dia hantar balik Dekat US lah Dividen 5 bilion Dia tak mengasa kat orang kat sini pun So Ini satu Yalah satu
+[12:06] Rafizi: Dah lama saman, cuma saya buat diam jelahlah kan. Cuma sebab dia baru kalah saman.
 
-[2:26:30] keadaan yang yang mana kita masih lagi ada ruang-ruang yang perlu diberi tumpuan dalam ekonomi kita satu ialah macam saya selalu sebut lah ekonomi kita ni macam piramid yang ke atas tu ujung macam dia punya atas tu macam
 
-[2:26:54] What is it called? The tower at 118th tower, it's just up there. So because the number of large companies, either JLC or MNC in Malaysia, only about 20,000. So we have more than 1 million enterprises, right?
 
-[2:27:15] Yang Yang Considered sebagai Large company Is about 2 point
+[12:13] Host: Jahat YB.
 
-[2:27:23] 5% of that. So 2.5 of 1 million, 25,000. That's it. Even that, the definition of large companies in Malaysia, if you ask people, it's quite low. Because if it's a service company, I think revenue 20 million a year, above 20 million a year, and staff of about, I think,
 
-[2:27:52] 100 or 200 people. It's like a large company that's in that 25,000 companies category. And then, as a medium, I think it's another 2.5%.
 
-[2:28:12] So another 25,000 companies. The other companies are small and micro. About 95% of our companies are small and micro. Micro rating is about 80+. So if you compare it with other countries,
+[12:15] Rafizi: Saya pun beritahulah, saya punya pun saman juga ya, jangan lupa. Cuma yelah, itu hak masing-masing, macam Dr. Asyraf Wajdi dia nak saman ke apa, itu semua hak yang ada di sisi undang-undang, terpulang.
 
-[2:28:30] Dia tak adalah contohnya large companies tu sampai 10% of the entities. Tapi dia medium tu is a lot larger than ours lah. Jadi bila keadaan macam itu,
 
-[2:28:42] We can act like this, meaning that the economic growth looks beautiful every year, but it may be driven by 10,000 companies. So what really benefits is the 10,000, those who work with 10,000 companies and also the government. The government benefits because it is taxed. But people don't feel that their wages are rising or anything because
 
-[2:29:08] Kebanyakan daripada rakyat kita ni, dia bekerja sama ada dengan SME ataupun dia kerja sendiri sebagai mikro. Dan SME, kecuali dia adalah sebahagian daripada ekosistem, that cycle of economy tu. So kalau macam sekarang, is AI cyclical boom kan. dia part and parcel of the
+[12:28] Rafizi: Ada defamation law, dan saman ni tak mudahlah sebabnya ialah kepada mereka yang yelah, yang tak biasa soal saman ni kan, sebab di mata orang kita, mata biasa, dia tidak melihat soal fitnah ke tak fitnah ni dari perspektif undang-undang. Perspektif undang-undang ni dia akan tengok contohnya kalau yang disebut itu direka-reka tanpa bersandarkan kepada bukti, yang itu memang dia akan jadi defamation lah.
 
-[2:29:42] value chain of semiconductor, they don't feel it. So, because of that, I don't know, have we discussed about the wage or not? Not yet. Because of that, in the eyes of the people, they don't care about this 5%, 4% or anything like that.
 
-[2:30:03] Dia sebenarnya pasal gaji More than anything else Because itu yang dia faham lah Itu yang dia merasa tiap-tiap bulan kan Sebab itu pandangan saya daripada dulu lah
 
-[2:30:13] GDP growth is good. Tak adalah orang nak kata pertumbuhan ekonomi ni tak baik. Mengagutlah. Zaman-zaman Najib, walaupun dia tu pukul gendang pasal GDP growth juga. Terhebat ke apa semua kan. Sama juga FDI is good. Tapi jangan kita present a partial view of the economy. Dia mesti holistic kan. Dan pandangan saya daripada dululah.
+[13:11] Host: Mhm, mhm.
 
-[2:30:47] kemajuan yang didorong oleh FDI dan kemajuan yang didorong oleh AI semuanya, ini adalah
 
-[2:30:57] peluang sebegitu sebenarnya jalan yang terbatas untuk kita reform ekonomi kita untuk memperkuat SMEs sebab yang betul-betul akan ada kesan kepada kemajuan yang berkelanjutan di masa depan sebenarnya adalah seberapa kuat SMEs domestik dan lokal kita Atau anda memanfaatkan mereka ke dalam kumpulan nilai itu.
 
-[2:31:35] we improve their scalability as well as sophistication so that they can be an exporter and become a part of higher value chain elsewhere, not just in Malaysia. And if it is successfully done,
+[13:12] Rafizi: Kemudian kalau contohnya, yang disebut itu berniat jahat. Uhum, haa kan. Jadi, sebab itu kalau jadi ahli politik, bila orang kritik semua tu, dia tak mudahlah untuk kita tunjukkan ia berniat jahat, terutamanya jika kritikan atau pandangan negatif terhadap kita itu adalah yang bersabit dengan kepentingan awam. So tak mudahlah. Cuma yang ini yang netizen semua ni kan, sebenarnya kalau nak saman yang paling mudah saman, yang insya-Allah boleh menang di mahkamah, ialah yang duk komen-komen dekat Facebook semua ni.
 
-[2:31:54] maka dia akan ada kesan yang boleh dirasai kerana dia akan diterjemahkan kepada gaji yang lebih tinggi lah. And kalau kita tengok pada gaji, and Joe can comment more after this lah kan. Kalau tengok pada gaji,
 
-[2:32:10] Betul lah. I think kita nak kena attribute lah. Growth tu ada. Saya ingat.
 
-[2:32:18] Kita ada dua tiga bentuk pelaporan gaji kan. Satu labor force statistic lah. Yang itu kan dia tunjukkan labor participation semua daripada median wage semua kan. Satu lagi ialah sebenarnya wage reporting. Wage reporting diperkenalkan masa saya jadi menteri ekonomi dulu. Sebab kalau kat US, dia bukan tengok sangat semata-mata kepada growth tau. They really look at payroll. Unemployment claim. Unemployment claim. Yang itu kalau US punya economic reporting, yang itu lagi penting daripada GDP growth tau. Payroll reporting dengan unemployment punya claim kan. So bila saya masuk dulu,
+[13:54] Host: Uhm.
 
-[2:33:07] We have the reporting of the labour force. But the labour force is survey-based, respondent-based. Whereas we have enough data to start doing payroll reporting. We have more or less 11 million formal sector to people who
 
-[2:33:31] Yang pernah menonton... Dari segi labor force lah... Pasaran kerja ni... Tenaga kerja... Kita ada dua kategori... For economic reporting lah... Satu dia panggil formal... Formal ni sebenarnya...
 
-[2:33:44] Makan gaji lah. Kalau formal ni dia dapat gaji bulanan, ada EPF, ada tax semua lah kan. Satu formal sector, satu lagi informal sector lah. Informal sector ni selalunya dia makan gaji sendiri ataupun unreported. Yang ni kerja-kerja kecil lah. Kalau dia makan gaji sendiri, dia berniaga, dia tak bayar cukai lah, dia tak mencarum semua. So I think kita formal is about 11 million, informal is about 6-7. Selamat tinggal.
+[13:55] Rafizi: Yang itu tuh kalau contohnya saya nak saman kan, yang komen kasar semua tu, memang confirm boleh menang sebab dia memang nampak berniat jahat. Kemudian faktanya tu salah semua kan. Jadi, itu pilihan yang ada kepada ahli-ahli politik kan. Kalau contohnya kita nak bergaduh dan nak saman semua yang yang berkata buruk pada kita, terutamanya kalau kita faham defamation law dan kita tahu yang ini kalau saman memang kena kan.
 
-[2:34:14] I don't remember the figure Sebab the total labour workforce Is about 18 About 18 million So Daripada 11 million Eh
 
-[2:34:25] Sebenarnya kita ada data menyeluruh untuk 11 million ni. Tapi ialah agensi-agensi lah yang itu semua ada yang nak bagi, ada tak nak bagi. Finally kita berjaya lah mendapatkan persetujuan daripada EPF, Perkeso and I think LHDN untuk kita ada granular data. Of course it's not specific data dengan nama ke apa lah. um
 
-[2:34:58] The word is not randomize. What do you do? You aggregate it. Bukan aggregate pun. Maksudnya begini. You tak boleh tahu gaji dia in detail. But you know contohnya. Dia bayar cukai dia berapa. You know dia bayar EPF dia berapa. You know dia bayar pekeso dia berapa. So you can build a model. To assign salary untuk setiap seorang. So we have about 6 million plus granular data. of the former workers yang itu yang kita dapat quarterly wage reporting daripada itu kita boleh dapat tahu beberapa perkara yang mengesahkan lagi apa yang Joe sebut tadi lah, maksudnya ada disconnect
+[14:29] Rafizi: Boleh, tapi bodoh kita.
 
-[2:35:46] Satu contohnya Median wage walaupun naik Median wage memang naik I think masa The report starts Quarter 2 3
 
-[2:35:57] Pada suku pertama 23. Pada suku pertama 10.
 
-[2:35:59] They start quarter 2, 2023, right? Yes. Is it? First quarter 2023. Yes, first quarter 2023. I remember. So, first quarter 2023, median wage. Median wage is for those who are listening. Remember, we had around 6 million people at the point of salary. You look at the lowest salary,
+[14:31] Host: Mhm.
 
-[2:36:25] It doesn't matter if it's 900 or 800, you stack it up to the highest salary, 10 million or something. So you look from there, where is the middle salary? That's what becomes the median. Median wage, during the first report, quarter 2, 2023, is RM2,600.
 
-[2:36:48] 2005... 2005? Yeah. 2500 is actually the first year of 2022. Ah. January 2022. 2022. Ah.
 
-[2:37:03] So that's the first time, 2,500. Now it's increased, I think about 3,000 more. 3,027.
+[14:32] Rafizi: Sebab bila kita saman, memang padan muka orang tulah, sebab dia tiba-tiba nak kena pergi mahkamah semua kan. Tapi sampai kat mahkamah dia akan minta maaf saja.
 
-[2:37:15] Okay, I think I don't remember the running data before because we have a problem with COVID. So, the increase in wages increased until 2019, 2021, it became an anomaly, it dropped. So, I think if you want to compare between 2022-2023 until now,
 
-[2:37:38] I think at the higher level, you can say that the salary is encouraging, if you find the word. That's why if you look at the CE, it has risen up to 33.9%. I remember back then,
 
-[2:37:58] 31% 31% When we took over, when I joined the office Late 2022, I think it's 31% And at that time, it even dropped Before that, 32% dropped to 31% So, until 2025
+[14:42] Host: Mhm, mhm, mhm.
 
-[2:38:21] I suppose to, to the basic makers, 33.9% is 34%. They think it's okay to increase 4% in about 3 years, right? Because our goal is to achieve CE of 40% by 2030. So it looks like it's on track.
 
-[2:38:45] If 2025, we have 34% CE, I'll come to that Joe, I know his face is different. Because CE is a high number, there is a reason. So actually, if I were Zafrul or Dato' Sri Anwar, I would say, we look at numbers, actually we have reached the highest CE in our country's history. It's true, that's actually factually correct. Not bad because in 2022 it's about 31%. So 2022 in 3 years, 2025, it will go up by 34%. But that's why you have to look at the granular payroll. Because 33.9%, 34% is CE. CE means you total all the wages of the workers in Malaysia compared to GDP. How much does the employer go to the employer, the employer, the government? It's actually 34%. Singapore is about 40+. There are European countries that are crazy up to 52, 53. That means half of the country's income is paid by the people. So the higher CE is the better. That's why when we planned RMK, we pushed for very ambitious, 40%. by 2030. That is not a bad number. But when you look at it granular, actually median wage, and to put in perspective, median wage quarter 2, 2026, 3027.
 
-[2:40:32] Maknanya, kalaupun ada kenaikan gaji ini yang meningkatkan kepada 33.9% CE itu...
+[14:44] Rafizi: Sebelum sampai mahkamah pun dia minta maaf. Tapi untuk saman tu you kena ada peguam. Kemudian paling kurang you kena hantar LOD. Dan proses untuk peguam itu draft LOD, hantar, LOD ni letter of demand, notis tuntutan kan, minta maaf kan. Kemudian kos setiap peguam, setiap kes, semua tu kan. Dan bila pergi ke mahkamah pun, sebelum dia mula-mula berbicara, perbicaraan itu bermula, hakim akan minta supaya ada mediation, dan hakim selalunya akan akan minta supaya diselesaikan di luar mahkamah. Itu yang kadang-kadang peguam akan nasihatkan anak guam masing-masing berdamai kan.
 
-[2:40:42] compensation for employees, right? There are many that are above, above the rich. So, if you mix them, once their bonus is RM4-5 million, the CE will go up. But at the bottom, there are two big problems. One is wage compression. Meaning,
 
-[2:41:03] Yang ini yang selalunya PSM lah maki saya Berkarung-karung PSM Parti Sosialis Malaysia kan Sebab
 
-[2:41:13] Ada yang mungkin kurang memahami masalah gaji di Malaysia ni. Dia ingat naikkan gaji minima tu semua okey.
+[15:29] Rafizi: Kalau yang yang komen tu netizen biasa, dia mungkin tak ada peguam pun. Jadi, dia minta maaf sajalah, dia pun balik. Kita yang saman ni, kena bayar peguam, masa, semua kan. Jadi, saya telah menerima lama daripada dulu bahawa yang netizen yang jahat-jahat, yang suka fitnah, sebab dia tak rugi apa-apa tahu, dia rasa dia tak rugi apa-apa. Dia hit and run, dia pergi dia maki, dia pergi dia maki, dia pergi dia maki kan, dia ulang benda yang tak betul semua kan, dia rasa dia terlepaslah sebab tak ada orang ambil tindakan dekat dia.
 
-[2:41:23] That's why now Ramadhan is saying that we want to look at the minimum wage of RM1,700. The reality is that the majority of the owners are SMEs. Their business doesn't go up like that. Everything is enough to eat. So if every 2-3 years you raise the minimum wage from RM1,700,
 
-[2:41:49] And then katakanlah naik RM1900 kan Dia kena naikkan gaji yang bawah-bawah tu semua RM1900 tau Business dia tak naik mana Jadi agaknya daripada mana dia ambil duit nak bayar tau Kepada pengguna?
 
-[2:42:02] Kalau dia boleh pass the course. Not semua orang boleh pass the course. Sebab kalau dia jual makanan ke ataupun something kan. Kalau asyik duk naik lama-lama orang tak beli lah. Ada yang baru kan. Selalunya dia tak naikkan gaji orang lain lah. So orang tempatan lah. And macam Joe pointed out. Masalahnya ialah kebanyakan yang kerja paling bawah ini foreign workers pekerja asing pekerja asing jadi diorang dapat minimum wage sebab tu tengok tak baru ni yang ada
+[16:04] Host: Mhm.
 
-[2:42:41] The arrest, the immigration, I read the report, there's content. When they were interviewed, they told me that their salary was more than RM2,000. It's true, the salary of foreign workers is now more than RM2,000. Because the minimum wage is RM1,700, combined with allowance, combined with overtime, it's indeed RM2,000. So to pay according to the minimum wage,
 
-[2:43:03] Usually, they will cut 2-3 categories. One is fresh graduate. That's why the salary of fresh graduates now is around RM2,000. RM2,000, you can imagine, foreign workers who do the lowest salary, waste collection, RM1,800-RM1,900, the student goes out of university, RM2,100.
 
-[2:43:27] It's really a mess. It's not even compared to the past. There's hardly any growth. So, fresh graduates are always victims. Another victim is experienced workers. Plus, if you're more sorry, if you're a technical worker or a hard worker, who doesn't have the right to work. So, he's been working for 3, 4, 5 years.
+[16:05] Rafizi: Tapi yelah, kepada orang Islam, yang yang kita percaya ada akhirat, ada neraka semua ni, haa menjawablah kau dalam kubur kan. Bila komen-komen itu datang daripada sama ada media, ataupun sama ada daripada ahli politik lain, semua kan, then kalau kita nak saman pun kita kena tengok jugalah, kalau yang ditanya itu adalah satu persoalan, ataupun dipertikaikan, jadi kita kena jawablah sebagai ahli politik. Sebab rakyat biasa dia tidak ada platform untuk menjawab kan, kita ada platform. Jadi, kita jawab, kita tak boleh nak nak nak puaskan hati semua orang, apatah lagi kalau soal pertembungan politik. You cakap A, dia cakap B, you cakap B, dia cakap C kan. Kita ulas dan ulas dan ulas, harapan kita ialah lebih ramai orang yang percaya daripada yang yang yang menerima fitnah itulah kan. Jadi, long and short of it lah, jadi saya memperhatikan bila Dr. Asyraf Wajdi ni beri-ria untuk saman, saya pun tak tahu siapa yang menasihati dia, peguam-peguam dia ke apa ke kan, sebab is a rabbit hole.
 
-[2:43:52] But if you increase his salary, RM30, RM50 a year, for a long time, his salary, in 2000, maybe he started his diploma in 2008. He has worked for 5-6 years, so his salary is RM2004. So the minimum wage order, he didn't get the minimum wage order. He didn't feel anything. In fact,
 
-[2:44:14] Sebahagian daripada mungkin yang kenaikan gaji yang sepatutnya dapat kat dia, majikan dia terpaksa gunakan untuk bayar mengikut peruntukan undang-undang yang pekerja paling bawah tu kan. So we have a huge wage compression. Hmm.
 
-[2:44:30] Because of that, our median wage is RM3,027. Because the middle one, the median wage, most of them are people in that category. Either they work for 2-3 years or 5-6 years, they don't have a diploma, but they are experienced workers, they only have a diploma. Or people who have a diploma, starting salary, salary RM2,000. After 5 years, their salary is still RM3,000.
+[17:30] Rafizi: Once you masuk ke dalam umpan itu, saman, you kena saman semua orang sebab the more you nak saman, the more orang akan, sebab kena ingat perangai netizen ni, dia rasa dia akan terlepas segala-galanya. Bila dia dah kena baru, "kesianlah pakcik tak ada pekerjaan". Masa dia maki dia tak ingat. Masa dia kutuk orang semua dia tak ingat tahu. Cuma saya macam tulah, saya pun kesian, engkau heret pakcik ni, dia bukan ada duit pun. Lepas tu dia akan bankrap. Buat apa lah you nak susahkan hidup dia, keluarga dia mungkin tak berdosa pun. Dia pun bukan tahu suami dia tu kerja kaki troll orang, mana mana isteri tahu kan. Tak pasal-pasal, lepas tu hilang mata pencarian semua. Jadi, saya, sebab tu saya tak pernah saman. Wan cakap apa, dan pengalaman saya contohnya kalau pasal Tabung Haji kan, sebab yang UMNO, dan bagus jugalah Asyraf Wajdi melalui perkara ini kan, sebab masa zaman saya bawa Tabung Haji ni, isu dia ni kan, yang beri-ria mencipta fitnah kata saya hasut orang untuk hancurkan Tabung Haji semua ni, sampai orang tak boleh pergi haji semua tu kan, itu UMNO lah.
 
-[2:44:57] Apabila anda menambahkan semua nombor ini, menyusunnya bersama-sama, ia menjelaskan kenapa...
 
-[2:45:05] The growth of the economy is 600% and the narrative that is being brought is that, Oh, that's good, Dato' Sri Anwar. If we change the PM, we will die. The economy will not grow after this. Look at 6%. I think we have exhausted that runaway.
 
-[2:45:27] Runway itu hanya boleh kita gunakan dalam 2-3 tahun pertama. Sebab itu saya dulu selalu kata we need a cogent and attractive narrative...
+[18:43] Host: Mhm, mhm.
 
-[2:45:39] untuk membangun kepercayaan dalam ekonomi kita. Kepercayaan, portfolio pengaruh akan berlaku, FDI akan berlaku, itu akan menyebabkan ringgit yang diperkuatkan, wang yang datang. Dan sekurang-kurangnya, ia membangun kepercayaan untuk berinvestasi di negara ini, bukan sahaja luar negara, tetapi juga kapital domestik untuk dikeluarkan di sini. Tetapi, untuk memastikan orang merasa dan salah satu structural reform yang paling penting adalah labor market reform. Mungkin boleh tambah satu lagi poin mengenai gaji minima ini, just for an interesting fact, kita boleh rujuk kepada Singapura. Fun fact, Singapura doesn't actually have minimum wage policy. Mereka tak ada gaji minima langsung. Dan untuk address poin YB yang bangkikan tadi mengenai wage compression, feature-feature yang agak similar kepada Malaysia di mana kebergantungan kepada pekerja asing mereka jauh lebih tinggi daripada Malaysia. Malaysia kalau tak silap sekarang. Ialah pekerja Malaysia lah. Termasuklah Joe. Dulu lah, dulu. Kalau tak silap, kadar kebergantungan pekerja asing di Malaysia 14%. Tapi kat Singapura, kalau tak silap, about 40% kot. So, dia jauh lebih tinggi. Tetapi, macam mana diorang which compression itu adalah
 
-[2:47:12] to introduce a mechanism called Local Qualifying Salary where if you want to employ a foreign labourer, you have to make sure you have to ensure the salary you pay
 
-[2:47:29] the local people cannot meet certain requirements, certain levels. So it's not like Malaysia's case, for example, what you said earlier, you either cut or you don't increase the salary. But for Singapore, for you to hire one extra person, one extra foreign labour, you have to make sure that the local people's wages
+[18:44] Rafizi: Saya tak tahu Asyraf Wajdi ada nasihatkan UMNO ke tidak, "jangan buat eh, fitnah bahaya" kan. Jadi, sekarang mereka rasa mereka melaluinya. Jadi, terpulanglah dia nak saman ke tidak kan.
 
-[2:47:53] not only you have to keep it, but because every year it will adjust, it will index inflation. So every year you actually have to increase. So it disincentivizes people to change foreign workers. And most importantly, the change of foreign workers, the whole point, the objective policy needs to
 
-[2:48:16] It needs to be clear. The main objective is not to replace the local people, but to supplement the local people. I think that's what we got confused about here. Because here, I think many narratives are focused on we want to hire more foreign labourers to replace domestic labourers. Because there is...
 
-[2:48:40] because they are cheaper, because of cost consideration. But I think what we need to bring into the narrative is that we want to supplement our labour market.
+[18:59] Host: Dan November 2016, dalam blog YB juga, YB dah tunjukkan satu surat kepada dia untuk YB cabar dia saman YB sebab dia yelah, tweet yang kata YB ni menyebabkan orang keluarkan duit, menghasut lagi. Adakah dia menyahut apa yang YB...
 
-[2:48:50] and not just to replace our labour market. Yeah, that's why I think, in that sense, what Nurul Izzah said, I've said it for a long time, which is actually the only way to appease
 
-[2:49:11] rakyat pasal economic anxiety ni sebenarnya pasal labor market reform. So, kita ada beberapa...
 
-[2:49:21] things that need to be given a boost. And as I said at the beginning, all the pilot projects are already there. But somehow I think it's still there because it's related to me, or because people don't believe in that principle, or because it's rocked.
+[19:15] Rafizi: Saya ingat masa tu mungkin peguam dia bagi nasihat yang betul kut. Jangan sahut, jangan saman. Saman pergi habis terbuka semua kan, haa jadi... Nasihat sayalah, dan juga ingatan kepada sayalah, sebab tu saya tak pernah saman orang. Saya hanya saman Caprice tu, kerana tuduhan yang dibuat tu terlalu berat.
 
-[2:49:45] Rocking the status quo terlebih sangat Rocking the boat terlebih sangat kan So I give you example kan
 
-[2:49:53] Ada beberapa root causes kan
 
-[2:49:56] Satu kita tahu kos paling utama ialah foreign workers.
+[19:35] Host: Mhm.
 
-[2:50:03] So, officially it's about 14% only. Actually, it's much higher than that. If you add the party, it's almost 18-19%. So, imagine that for every 5 workers in Malaysia, one is a foreign worker.
 
-[2:50:23] Dan ummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-[2:50:27] every year kan memang berlumba-lumba untuk penuhkan kuota tu kononnya kan so you have Joharigani will be sebelum inilah eh
+[19:36] Rafizi: Dia tuduh saya makan rasuah.
 
-[2:50:42] Now, he's the Minister of Finance. Oh, he's the Minister of Finance. Before this, he was the Minister of Agriculture. So, don't touch foreign workers. Agriculture needs foreign workers. Every minister from every sector will have a minister who says, we need more foreign workers to cut India's hair.
 
-[2:51:05] Mereka marahkan aku lah kerana aku cakap whatever it is, memang ada some cultural preferences. Tapi kalau setiap satu ini semua perlukan pekerja asing, itu yang jadi sampai 80-19%. So, you tanya majikan. Majikan akan kata kita sebenarnya bukan tak nak ambil pekerja tempatan. kerja-kerja yang dibuat oleh pekerja asing, they are not reliable. Because dia cabut lari. Dua, tiga bulan, dia cabut lari, semua kan.
 
-[2:51:47] Actually, Majikan is not wrong. That's actually correct. In fact, I remember when we did the IPR, the People's Income Initiative, one of the categories was Ehsan, what do we call it? Ehsan, Kikmat Initiative.
+[19:38] Host: Mhm, mhm.
 
-[2:52:11] Inisiatif operator perkhidmatan Something like that kan
 
-[2:52:16] So kita top up RM200 tau over and above
 
-[2:52:23] over and above the minimum wage that they get. So, for the garbage collection, for example, they should get about RM2,000 a month. So, when we opened it, there were a lot of people who applied for Exxon. I think, all in all, about 4,000-5,000 people.
+[19:39] Rafizi: Projek berbilion-bilion, dan ingat tak tadi saya kata defamation law ni dia tengok first and foremost is factual accuracy. Benda tu memang clear tak betul, kerana itu adalah syarikat swasta, tak ada kena-mengena dengan kementerian saya, semua kan, dan dia berbentuk insinuation, yang maksudnya berniat jahat, insinuations semua ni. Jadi, yelah, benda tu dah mudah sangat kau nak ikut dari segi undang-undang, maksudnya ada banyak hujah yang kita boleh bawa, dan Caprice kaya.
 
-[2:52:44] So we work out a program with SW Corp, companies that clean up all this, for cleaners, for us to onboard them. And these companies are more than happy to take them, right?
 
-[2:53:01] Dan kementerian ekonomi Call sorang-sorang Eventually kosong Semua tak nak
 
-[2:53:09] So apa yang majikan cakap tu betul. Yang bukanlah majikan ni gila-gila nak pekerja asing. Tapi memang budak tempatan, orang tempatan, certain jobs dia tak nak. So then...
+[19:54] Host: Mhm.
 
-[2:53:27] If you look at those who can do this job, they usually have a very short retention. They work for 3-4 months, then they quit because they get other offers and all that.
 
-[2:53:43] Jadi ini adalah soalan yang perlu dihadapi oleh negara.
 
-[2:53:49] Kita ada...
+[19:55] Rafizi: Haa, jadi kalau saya saman berbaloi. [gelak] Kalau menang boleh dapat duit.
 
-[2:53:50] Downside on both ways. If it's foreign workers, we have a downside because it has a lot of economic consequences. In terms of jobs, in terms of wages, in terms of foreign outflow. I think it's about 3 billion a month sent abroad. So it's not spent here.
 
-[2:54:19] Itu ialah downside.
 
-[2:54:21] Kepada kalau kita nak ambil pekerja Or leave it to market To manage this kan Kalau ambil pekerja tempatan pun memang dia create
+[19:58] Host: Y-YB ke?
 
-[2:54:35] some disruptions to the business. But the bigger question that the country has to answer is,
 
-[2:54:43] Takkan kita let it just like that. Hmm. Betul. Either way is a problem. Hmm. And problem mesti diselesaikan. Hmm.
 
-[2:54:50] So when you want to solve the problem, there will be people who like it, there will be people who don't like it. The good thing is that some win, some lose eventually, but that thing is sustainable in the long run. That's why we started the academy in the industry together with Kesuma, MPC, all of them.
+[19:59] Rafizi: Eh tak ada lah, duit akulah.
 
-[2:55:12] So kita nak test tau, kita nak test betul ke tidak budak-budak tempatan terutamanya lepasan sekolah ni dia tak nak langsung kerja especially kita mula dengan kilang dulu.
 
-[2:55:25] So, we study some of the root causes lah kenapa dia tak nak kan. Satu sebenarnya accommodation lah.
 
-[2:55:36] Hmm, huh.
+[20:00] Host: Okey, okey. [gelak] Sumbang kepada HQ.
 
-[2:55:37] Relocation. Relocation is a big problem kepada budak tempatan. Kalau pekerja asing, dia nak bising tentang relocation apa dia, memang dia datang daripada Bangladesh. You letak dia kat mana-mana pun, dia datang untuk bekerja. Tapi budak tempatan, dia ada choice. So katakanlah dia asal daripada Ulu Tengah. Gaji yang ditawarkan di Kilang di Penang mungkin RM1,008, RM1,009. untuk dia relocate pandai-pandai dia sendiri pergi semua tu ke Penang dia tak nak baik dia cuba duduk kat Uduk Tengah Nu tu cari kerja apa-apa dia pandailah informal kan so what we develop melalui akademi dalam industri tu you need to package it dia school lever dia kena kerja for 18 bulan and for that kerajaan bagi relocation allowance dan kilang tu sama dengan kerajaan untuk cari rumah untuk dia relocate dia dengan budak-budak semualah.
 
-[2:56:45] Then he got a relocation allowance. Then he was on the job training. So he didn't study, he just went to work. So when he went to work, every month he got RM1,800, RM1,800, RM1,800. Then after 9 months, he will get a second-class Malaysian degree.
 
-[2:57:07] So, the kids actually like it. They don't have to go to class, they can work but they have a license. So, after 18 months, they will get a level 3 license and they will get another payment to get him to stay. So, you tie them up through 2-3 things. One is relocation allowance and for them to settle down.
+[20:03] Rafizi: Sekarang ni pun aku tengah pikul. [gelak] Betul. Jadi, jadi maksudnya kita nak kata beri-ria lah Dr. Asyraf Wajdi ni nak saman.
 
-[2:57:33] The second is that he got an incentive and also got a diploma after 9 months and then after 18 months. Because once he got a degree in third grade, he could use it to enter higher education at diploma. So, and that's how it was designed. So, we opened it to a lot of people. I think it was in 2023 when we started this, right?
 
-[2:58:02] I was listening to the boss. The boss said, there's no YB, they don't want it. They don't want it, it's all like this. The local workers can't do it. So I said, okay, okay, let's work out on something. So we opened the registration. There are 10,000 people who registered and quickly, until we have to close it because by then,
 
-[2:58:25] Then, the employers gave excuses, they couldn't take it, there was no vacancy. So, my conviction is like this, Jo. There is no silver bullet that is a win-win for the salary of foreign workers.
+[20:11] Host: Mhm, mhm. Okey baik. Nanti tengoklah nanti susah pening. Kalau dia saman semua ni, dia kena pindah pejabat Ketua Pengarah MARA tu duduk dalam mahkamah. Tiap-tiap hari kena pergi kes apa semua kan. Itu salah satu sebab kenapa saya tak nak saman orang. Kerana it takes so much time duduk dekat dalam mahkamah tu. Banyak kerja lain aku boleh buat kan. Jadi, lebih mudah serahkan kepada Allah selesaikanlah yang netizen-netizen yang mulut puaka ini kan.
 
-[2:58:44] For example, either way, there must be adjustments. But the problem cannot be left alone. We have to find a way to resolve it. Foreign workers, to me, have to be faced down. Now, 15-16%, gradually, maybe hopefully in a generation, we can get it down to 5%. So, the government and society's job is to manage
 
-[2:59:13] attitude and also the preference of the community. We can't force them to be like foreign workers. Because the situation is not the same. Foreign workers don't have to think about it. It's not that they don't have to think. They know they come here as a migrant worker. So whatever they save for their home, they save it for their country. Not here. So they are willing to share rooms and all. Here,
 
-[2:59:42] Kalau pekerja kita dia nak ada kenderaan, dia nak ada proper housing semua kan.
+[20:41] Host: Okey, baik YB. Ini yang first. Yang second mungkin saya nak tanya Joe. Yang beri-ria second ni, selepas RCI Tabung Haji, agenda reformasi gaji pun kena peram. Ini merujuk kepada kenyataan Timbalan Presiden parti tulah.
 
-[2:59:48] So, these are all the so-called root causes that the government has to tackle one by one, in a joint way. But what we have proven in 2023-2024, with the right incentive and with the right program, actually the kids want to work.
 
-[3:00:08] Same goes tu contohnya, yang ini yang paling tak popular lah. Our addiction kepada foreign workers dekat mamak. Mamak. Exactly. Restaurants. Memang lah kalau tanya restoran-restoran, dia akan kata...
 
-[3:00:24] We can't take this job, they don't want it, it's unreliable. Actually, that's part of the reason why I made a mess. I wanted to test with the right package, with the right design, with the right shift, whether or not the job is working. You know what?
+[21:01] Rafizi: Yang apa ni, bercakap? Bekas.
 
-[3:00:49] I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. I was so angry. We pay them higher, slightly higher than minimum wage, but not too high. They work 8 hours a day, 5 days a week. Then they get overtime.
 
-[3:01:32] Okey je. Cuma sebab is kesum, dia murah gila semua. Jadi orang yang datang kat situ, pelanggan lah, dia tahu contohnya...
 
-[3:01:43] Dia kena adjust expectation lah. Dia tak boleh buat kedai mamak, datang order orang datang. Dia pergi kat kaunter, order. Lepas tu ada panggil nombor, dia pergi ambil. Dia self-clean lah. Self-service lah. So with four people, of course lah. You make sure that menu tu slightly different semua kan. Jadi maksudnya, kalau you nak suruh orang tempatan bekerja macam pekerja asing dekat restoran, berdiri and then sampai 12-13 jam, dia tak nak lah so society also has to change kan sebab kalau tidak dia akan berterusan macam ini that's where government has to come in to design as much programs as possible untuk kita
+[21:04] Host: Bekas bekas, oh bekas. Lupa dah bekas. Bekas Timbalan Presiden. Maklumat kena tepat, nanti dia samankan kau. Mampus saya. Tinggal spender je nanti. Bekas Timbalan Presiden Keadilan, Anwar must focus on wage reforms in second term. Cuma isunya apa yang dia buat dalam...
 
-[3:02:28] to replace the needs of foreign workers with an improved condition to entice local workers to take over this job. Because after all, the employer has to pay the same price. Foreign workers are no longer cheap. They are actually more expensive than local workers. Only the workers...
 
-[3:02:52] Majikan selalunya lebih suka pekerja asing sebab dikira pekerja asing ni tak boleh lari. Tak ada disruption. So, likewise, sama yang macam Joe cerita pasal gaji lah, wage compression ni kan.
 
-[3:03:06] Saya always say that kita nak kena...
+[21:26] Rafizi: In second term?
 
-[3:03:12] tackle all this holistically. If it's just with minimum wage, it won't work. In fact, people are getting angry because you're taking from the right pocket to the left pocket and in an environment where most workers don't have the skills or the low skills level is a worker
 
-[3:03:34] asing, then orang boleh nampak lah the money is going to them, not to us kan. So dia ada beberapa lever lah kan. Satu, ialah kerajaan, to me lah eh, kena terima hakikat bahawa kerajaan kena campur tangan. It doesn't work by just legislation and forcing majikan untuk buat. Sebab, the structure of our economy is as such that only maybe, 5 to 10% of majikan can afford it, kalau you nak paksa. 90% tak boleh nak afford. So, bila you buat sesuatu dasar, you tak boleh enforce or implement, ataupun it become so unpopular, you backtrack. Once you backtrack, 10 tahun lagi orang tak berani nak buat tau. So,
 
-[3:04:19] Government has to accept that government has to intervene. And when the government intervenes, it requires some kind of funding from the government. It will not happen on its own. Then you have to play different levers for this matter. One example is foreign workers. That's why I advocated that
+[01:27] Host: Dia dah sembang seakan-akan nampak second term tu. Aku mula-mula tak nampak second term tu, aku dia just register Anwar must focus on wage reform. Aku ingatkan dalam masa berbaki nilah. Oh, second term. Okey, okey, okey. Yelah, katanya apa, tak boleh sebab QE kita cuma 33%, apa, wage comp... Bukan QE, CE. CE, CE. Compensation employee. As a share of national accounting. As a share of GDP. Dan produktiviti kita dah meningkat tapi gaji masih macam ini, jadi tak boleh, kena buat ini tapi second term. Komen Joe.
 
-[3:04:45] We need to have strict conditions to hire a foreign worker. One is you need to look at the ratio of foreign workers to the location. And if he wants to hire a foreign worker that exceeds a certain ratio, he has to pay a levy that escalates more expensively. Because we have to make it
 
-[3:05:07] ...difficult and expensive for them......untuk ambil pekerja asing......beyond the bare minimum that they need to take.
 
-[3:05:15] Secondly, before they take a foreign worker, they have to go to the clearing house, take the workers who are willing to work. And we've proven that for manufacturing and low-income services, there are up to 10,000 people within a few months only, students after school. The same goes for wages.
+[22:04] Joe: Okey, dia ada dua, dia ada dua aspek lah. So satu aspek, aspek yang pertama, second term. Sangat konfiden Anwar Ibrahim. Beri-ria konfiden. Sangat konfiden pasal second term sebab saya rasa tak, tak berapa kuat untuk, tak berapa konfiden personally for my own aspect, pada pendapat saya, saya rasa is actually quite a far-fetched untuk dia orang menang di, di pilihan raya umum yang, yang bakal datang, yang akan datang ini. So ini yang first point. Second point, mengenai reformasi gaji ini kenapa tak buat sekarang? Kenapa perlu tunggu sampai second term baru buat? Yelah, dah ada, memang dah ada beberapa polisi dasar yang sedang dijalankan, di di di implement tapi we don't have to wait for second term. You can boleh start terus. So saya langsung tak faham apa konteks dia kenapa nak tunggu sampai second term baru boleh start.
 
-[3:05:43] So you can link mengambil pekerja asing contohnya dengan gaji pekerja-pekerja berkemahiran ataupun berpengalaman. Sebenarnya majlis rundingan gaji, sekarang dipanggil majlis rundingan gaji negara lah kan. Dia memang ada bending of salary untuk level apa, jawatan apa. Saya rasa begitu juga. Saya tak percaya. Ia harus diberi ke pasar. Ia harus diberi ke pasar. Sebab kalau anda diperlukan oleh peraturan, satu sebenarnya, payah untuk kerajaan nak kuat kuasa. Pembangunan hampir tak mungkin. Pembangunan hampir tak mungkin. Takkan nak ada pekerja kerajaan daripada JTK ini pergi cek gaji orang tiap-tiap minggu. Tak boleh. Jadi apa yang perlu anda lakukan adalah Orang fall within that panduan gaji. The carrot is contohnya kalau you link it dengan pekerja asing lah. For you to take pekerja asing, maka your salary bending kena macam-macam ni untuk pekerja tempatan. Campur juga tadi macam multi-tier levy. Maksudnya you ambil lebih banyak, you kena bayar lebih banyak kan. The carrot is that if you enroll, itu yang kita buat progressive wage system.
 
-[3:07:12] If you enrol into progressive wage, you abide by the salary banding that you should have. You raise the salary within 5% to 6% every year, starting salary according to the position. If you're an engineer, I think it's RM3,200. If you fall into that and you abide by that, you get incentives from the government for two years.
 
-[3:07:38] So semua ini...
+[23:02] Rafizi: Tapi kita nak cari punchline beri-ria tu kan. Macam beri-ria. Punchline beri-ria. Cuma saya rasa mungkin pengalaman YB jugalah. YB cuba push something waktu jadi menteri dengan apa, dasar gaji progresif semua, dan tiba-tiba muncul yang ini. Dia sesiapa yang yang yelah, memahami sebenarnya masalah makro di negara ini, semua tahu bahawa reformasi struktur yang penting itu ialah reformasi pasaran buruh, ataupun pasaran kerja kan, labour market reform. Kami pun dah sebut daripada dulu. Saya ingat lepas ni pun kita nak bincang pasal ekonomi panjang lebar. Jadi, saya pun tak naklah beri-ria masa ini kan. Cuma itu telah dikenalpasti daripada awal, dan dasar-dasar awal, program-program awal itu telah pun dibentangkan di parlimen. Saya bentangkan kertas putih dasar gaji progresif, yang mengenalpasti beberapa masalah struktur. Contohnya, wage compression. Contohnya, masalah gaji di Malaysia ini tidak boleh diselesaikan semata-mata dengan menaikkan gaji minima, kerana gaji minima itu juga akan menjadi tekanan kepada majikan-majikan kecil tahu, yang besar tu lain cerita, yang SME ni yang akan menyebabkan wage compression. Wage compression dalam Bahasa Melayu nama apa? Impitan gaji ke apa? Menghimpit. Compress is compress tekan. Chat GPT cakap apa kalau wage compression? Mampatan gaji. Tak ngam. Tak bersetuju dengan Chat GPT. Jadi, kita buat masa sekarang kita kekalkan wage compression lah. So, masalah utama pekerja kita ada beberapa perkaralah kan. Satu, wage compression, satu lagi ialah kurangnya jumlah pekerjaan bermutu tinggi, kemahiran tinggi, yang menawarkan gaji yang lebih lumayan kan. Semua ini program dari segi identification of the problem sudah ada. Dari segi program-program pilot pun telah ada. Cuma kalau apa-apa yang datang daripada Kementerian Ekonomi sebelum itu, dilihat sebagai musuh. Saya pun tak tahu kenapa. Mungkin sebab mereka merasakan jangan bagi jadi, kalau tidak nanti Rafizi dapat kredit, ataupun mungkin juga kerana mereka rasa, oh, yang ini ni memerlukan peruntukan yang tinggi, jadi kita nak gunakan duit tu untuk sara, untuk STR, untuk perkara-perkara yang mereka rasakan ada political capital yang lebih besar. Jadi, dia bukan soal second term semata-mata, dia juga soal peram. Benda ni dah memang dasar kajian tapi tak tak dibuatlah. Jadi, beri-rialah kita menunggu second term Datuk Seri Anwar yang mungkin takkan sampai, mampus kita. Kalau wage reform ni dirancang oleh kerajaan Madani ni untuk berlaku dalam penggal kedua, tapi penggal kedua tak jadi, meranulah kau. Aku tak apa, aku memang dah bersara. I survive on passive income sekarang kan, kau oranglah semua. Kau tak ada kerja, dia tak ada gaji langsung. Tapi I pun survive on passive income, passive income. Ini semua muka-muka passive income ni. Okey, baik, baik, baik. Jadi, beri-ria YB? Beri-ria, beri-ria, beri-ria. Okey, next kita tengok. Ni ringan sikitlah. Setinggi-tinggi tahniah kepada diri saya sendiri. Aku lawak tu. Ini Joe mungkin tak tak tahulah. Bagi konteks kepada Joe. Joe tak faham semua ni. Tak berapa follow, unfortunately. Apa ni, dua tiga hari lepas apa, speaker, Timbalan Speaker, dan ADUN-ADUN di Negeri Sembilan angkat sumpah lah. Jadi, beliau ini baru dilantik menjadi Timbalan Speaker. Ini ADUN daripada PAS, ADUN Paroi. ADUN Paroi. Dan apa ni, poster dan ucapan itu adalah daripada page dia sendiri, di thread sendiri lah. Jadi, ini posting dia, Haji Kamarol. "Setinggi-tinggi tahniah diucapkan kepada YB Haji Kamarol Ridzuan." Itu yang setinggi-tinggi tahniah kepada diri saya sendiri. Tapi kau tak letak satu tahu, yang lawak, haa tengok kau terlepas. Aku buat homework tahu sebelum aku datang. YB memang thread sudah ada 24 jam. Tolong samankan dia punya thread. Aku sekarang dah jadi Murshidul Am thread. Apa nama ni, yang lawaknya, dia post ni kan, lepas tu bila orang duk troll ni kata ni, lepas tu ada satu reply kepada post dia ni, "ini admin". Kau tak perasan ke? Tapi sudah agak terlambat lah. Ini admin. Sudah agak terlambat lah. Ini memang, takkan admin dia tak terfikir ke benda ni, haa kan. Tak tahulah, tapi ini admin PAS. Dia tak terfikir benda-benda macam tu. Saya tak rasalah ADUN ni, Haji Kamarol ni buat kerja lawak macam ni kan, ni memang admin dialah. Yang ini juga sebahagiannya yang yang ahli politik ni jadi kos tinggilah. Dia nak post kat thread pun kena ada orang tolong postkan. Alamak, aku selalunya dengan jari gemuk aku, aku sendiri kan, banyaknya kan. Jadi, saya rasa ni memang admin dialah, tapi mungkin PAS lepas ni kena latihlah dia punya cyber trooper, admin-admin mereka ini, ini antara perkara-perkara yang makruh dibuat. Kerana mendatangkan masalah kepada wakil rakyat itu dan kalau nak claim admin, sila letak dalam posting asal, bukan lebih kurang 10 jam dah kena troll baru pergi letak 'ini sebenarnya admin'. Ada kan? Padan ceritanya tak? Ada, ada atas sekali paan. Adoi. Kan. Apa nanti kita tengok. All right, beri-ria. Seronok kita. Ini adalah admin. Tak boleh. Adoi, at least delete ke apa ke tak tahulah kan. Okey. Tapi, plot twist dia, plot twist dia. Ada lagi. Tapi yang itu paan kena check lah betul-betul, sebab aku rasa memang daripada akaun Haji Kamarol yang tulis 'ini admin'. Tapi plot twist dia, kalau yang kata 'ini admin' tu, dia daripada akaun lain. Maksudnya dia nak troll. Lagi teruk. Tapi I think daripada akaun Haji Kamarol. Okey, tanya, tapi by the way tahniahlah Haji Kamarol. Dia pun takut delete pula, takut dia delete kut. Lepas kena troll kali kedua terus dia delete. Okey baik YB, next. Tahniah kepada, ini bersambung dengan minggu lepaslah, sebab minggu lepas kita kongsikan dalam segmen peria, ada penunjuk mendakwa bahawa pemberian kotak bantuan digunakan untuk mendaftar anggota parti, dan sekarang ini anggota parti di tempat tersebut mendapat keanggotaan tertinggi. Tahniah kepada tempat tu. Ah itulah tengok daripada Chang Hong Siong, "Thank you YB for your fair opinion. Our Sri Kuantan neighborhood center was originally scheduled to distribute 70 food baskets to the poor on July 26 but it was found that two members of the Kuantan Indera Mahkota Justice Party were forcing recipients to register and apply to be members of the party." "However," haa ini malunya, "almost every recipient refused this condition so they stopped distributing." Stop distributing? So dia orang tak pre-announce lah? Tak tak tak, dia dia just cakap nak bagi food basket. Sama juga yang minggu lepas Joe, yang itu lagi, lagilah, because they they collect nama dan juga phone untuk bagi food basket, lepas tu apparently ada tuduhan kata dia installkan juga atas phone itu, so maksudnya dia minta phone sekali tahu. So, dia jadi isu yang virallah bila ada yang tiba-tiba mendapati dia dapat SMS cakap dia dah masuk PKR, dia tak masuk PKR. So, yelah, yang yang yang tapi dia memalukanlah sebab Farhan ni ialah Setiausaha Politik Datuk Seri Anwar dan anak emas, memang anak emas Datuk Seri Anwar betullah kan. Saya ingat anak emas Datuk Seri Anwar Ibrahim sekarang ni Khilau. Bukan Khilau, dia dia banyak anak emas. That's baik tarik balik, kut-kut disaman kau. Sorry, tarik balik, tarik balik, tarik balik. Yang ini kalau boleh dipertahankan di mahkamah, kalau dia panggil, kalau saya kata ni anak emas Datuk Seri Anwarlah kan. Jadi, fahamlah yang PKR dan Datuk Seri Anwar nak sangat bagi kepada saudara Farhan ni untuk menang pilihan raya kan, tapi dia tak boleh sampai ke peringkat beginilah kan, so I yang cerita scam orang, buat semua tu is is one thing lah, benda tu akan orang ambil orang tahu juga lah, dan dia akan backfire. Tapi saya daripada dulu, walaupun orang selalu kritik ke, walaupun ada risiko to me because in politics Joe, dia ada this dilemma that you need to shout and trumpet what you do. mhm Kalau tidak sebab sebab orang kita, macam samalah netizen semua ni kan, komen dia pasal besar-besar aku tengok sekarang macam dah tak ada benda lain dia nak komen. Komen dia ialah parti ni tidak akan berjaya kerana parti ni tak ada duit. So, masyarakat kita memang menerima seolah-olah corruption is a necessity dalam politik. Sama juga untuk ahli politik, masyarakat menerima blowing your trumpet and pukul gendang itu adalah necessity dalam politik kan. Itu keperluan ahli politiklah, you have to find ways how to communicate kan. Tapi saya daripada dulu tak pernah buat, I don't think jarang sangatlah you tengok aku ni sampaikan sumbangan kepada orang. Bukannya sebab aku tak sampaikan sumbangan kepada orang, but I think that kalau saya jadi orang miskin itu kan, you nak tolong, you tolonglah. Don't make a content out of me because saya mungkin aib tahu. Saya mungkin tak mahu orang tahu yang saya menerima bantuan kerana you know I have my circumstances, anak saya nak pergi sekolah kan, kita pun tak nak tahu tak nak sebenarnya kalau bolehlah, sebab tu dalam Islam kan, kalau tangan kanan bagi, tangan kiri tak boleh tahu tahu. You nak tolong, you tolong kan, tapi unfortunately dalam politik kita, this oxymoronic culture yang on the one hand kita nak ahli politik ni berkualiti, bermutu, on the other hand on the other hand, you know, sebahagian masyarakat kita akan tepuk tangan, oh baiknya dialah, tengok tu banyaknya dia bagi bantuan and so on kan. Jadi, akhirnya dia melahirkan perkara-perkara seperti inilah kan. If only in, sebab tu as best as possible, saya kalau bolehlah, kita institutionalise-kan segala bentuk bantuan. Supaya bantuan itu tidak boleh diambil kesempatan untuk tunjuk orang tu baik, orang tu tak baik, when is institutionalised memang tugas dan tanggungjawab kerajaan dan negara untuk bantu dia, is part and process. Sama macam kita pergi sekolah. Zaman tak ada orang pergi sekolah ada wakil rakyat tunggu ha, berterima kasihlah kerana kamilah kamu dapat sekolah. School is school, itu memang hak kita untuk pergi sekolah kan. Kita bayar cukai memang you kena buat sekolah tu kan. So kita tak sampai ke peringkat itu lagilah, akhirnya jadilah macam ini beri-ria kan. Tapi peranan wakil rakyat di luar negara, utamanya di negara-negara majulah, adakah memberikan bantuan ataupun jadi Santa Claus pun sebahagian daripada kerja-kerja... Saya tak tahu, cuba tanya Joe. Joe, how long did you stay in Australia, almost 10 years? Five years, five years. Five years, five years kat Australia. And then Papua New Guinea two years. Papua New Guinea five years juga. Ya Allah okey, haa, and then bagus. Tengok wakil rakyat Papua New Guinea dengan wakil rakyat Australia, wakil rakyat Malaysia. Waktu dia agak sama Papua New Guinea punya MP macam sama dengan Malaysia. Memang sama lah, Papua New Guinea. Australia, Australia lebih civilised lah, obviously. Civilised in the sense of diskusi yang dia orang membawa lebih dasar oriented, lebih berdasarkan kepada dasar. So not much retoriklah macam Malaysia. So, yang yang macam ini tak ada ahli parlimen Australia pergi bagi kotak makanan semua ke? Biasanya tak ada, dan juga I think YB tadi, tadi YB membawa satu poin sangat penting iaitu perlindungan sosial, sebab kat Malaysia, perlindungan sosial terutama social assistance langsung tak ada apa-apa undang yang anchor dia orang. Dia tak macam let's say best practice lah, kalau kita tengok macam international standard, International Labour Organization punya benchmark. Biasanya dia orang menggalak negara untuk institutionalise bantuan sosial supaya penerima boleh menerima dengan lebih bermaruah. Kan sebab sekarang, you, I mean let's say apa yang YB kata tadilah, so if you are penerima, you are recipient, kadangkala you tak, you feel a bit embarrassed, kan sebab it's not your fault, tapi somehow memang memalukan, atau apa pun. So, sometimes you just don't want to, you just don't want people to know. Tapi kalau macam situation ni, semua orang tahulah. Tambah kalau kat Malaysia, bila politik ni sangat memecah-belah kan. So kalau keluar gambar orang tu menerima bantuan daripada PAS, terus jadi orang PAS. Orang ni menerima bantuan daripada PKR, terus jadi orang PKR. Padahal sebenarnya dia orang susah, kan, siapa-siapa patut pergi bantu dia kan. So, but selagi kita tak tak tak sampai ke peringkat itu, then benda ni akan berulang-ulanglah, I mean, one wish lah I hope I can see sebelum aku mati lah kan. Budaya-budaya macam ini ni, sebab pada pandangan akulah, mungkin orang tak bersetujulah, is actually dia dia tidaklah selari sangat dengan semangat yang ada sebagai orang Islam pun, you nak bantu, you bantu, you bagi zakat, you tak cakap kat semua orang dah, "aku bagi zakat ini, zakat itu", you tolong, tolonglah. It's actually a part of our life belongs to society kan. Jadi, is good for society tu satu, is also good for us, is for our fulfillment. Kita bantu, we feel good and it's between us dengan God, bukan, sebab tu kalau kalau majlis bagi sumbangan itu, yang ini pun kita tak tahu duit kotak makanan tu, Dari mana? duit dia sendiri ke, atau dia dari mana? For all you know, is bantuan kerajaan, peruntukan kerajaan, and then kalau ada sumbangan, sumbangan itu adakah yang menyumbang itu tokeh-tokeh besar yang menggunakan sumbangan ini untuk jadi rapat dengan the powers that be. So, dia terlalu banyak soalan-soalan yang perlu dijawablah kan. Dan apa, budaya penuaian sumbangan ataupun aid tu, public for political gains ni I think is getting kronik sangat kat Malaysia. Ha, dia mula dah demand-supply dia. Kalau kita tutup apa, supply... Tapi supply tu seharus... Eh, demand-supply, okay. Tak, tapi supply tu seharus... Tapi supply tu seharusnya dibekal oleh kerajaan bukan parti politik. So, okay, yeah yeah. So, kalau kita institutionalise program bantuan sosial, then seharusnya supply tu datang daripada pihak kerajaan. Bukanlah parti politik. Okey kita beri-ria komen benda ni, dah sampai lama aku tengok, beri-ria ni dah 40 minit dah. Kita ada dua lagi YB. Okey, selamat datang kepada tetamu kita yang tak pernah datang. Kepada Xavier Jayakumar. Tutup kes 2024 baru umum 2026. Ini bila saudara Anwar Ibrahim membuat rumah bangsa version PKR lah, tapi YB tak kena jemputlah, kesian. Aku bukan saja tak dijemput, aku ditendang daripada rumah. Xavier Jayakumar, kita ada Tian Chua, dan mungkin yang lain-lain pun dah berminatlah untuk buat comeback. Siapa yang lain-lain lagi? Pandai-pandai kau cakap berminat, siapa dia? Ah ni, kawan ah, ni, Hulu Kelang eh? Azmin. Oh. Mungkinlah, spekulasi, tarik balik. Ah tarik balik, spekulasi. Saya rasalah. Kemarah dia. Itu pandangan. Ha itu pandangan. Okey. So, yang ini mula bila Dr. Xavier Jayakumar umumkan dia dah balik ke PKR. Saya ingat bekas ahli parlimen Dr. Koa, yang pengarah eksekutif Suaram tu tanya, apa jadi dengan kes dia yang dulu dia disiasat untuk kes rasuah tahun 2021 tu? So, saya ingat minggu lepas kan, Ogos 19 minggu nilah, minggu ni. Minggu ni, minggu ni. Maksudnya, SPRM mengesahkan NFA lah, tapi dia berlaku dalam tahun 2024. Jadi, yelah, persepsi rakyat ialah sudah tentulah Dr. Xavier Jayakumar ni memang maksudnya dilepaskan di bawah pentadbiran Datuk Seri Anwar lah, kan. Jadi, masing-masing akan buat kesimpulan masing-masing. Ya. Jadi, kalau macam itu, mungkin berjayalah kut panggilan rumah bangsa. Cuma orang-orang yang tak ada kes macam aku tak ada, tak ada insentiflah. Tak ada insentif. Tak ada insentif, kan? Okey, baik YB, kita ada satu lagi. Bersama umum calon PRN Melaka. Finally kita masuk, kita masuk segmen beri-ria, yay. Beri-ria umum awal. So, kau nak, kau nak troll apa ni? Ini saya Kita tengok macam mana Haziq nak troll diri sendiri, nak troll kita kan. Saya tak ada, so, oh kau tak ada malam tu? Saya kena support live YB, oh daripada YouTube untuk bantu monetization, monetization, so, apa nama ni, sebab itu kau rasa kau ada hak untuk troll lah ni? Haah, saya tak, tak sebahagian daripada tu pada malam itu, sahaja. So, apa kau trollnya? Tak ada lah, dalam keadaan orang tak, saya rasa public tak ada lah, ramai mungkin tak aware lagi tentang PRN Melaka, sebab tarikh pun tak ada. Tapi bersama ni dia apa, satu langkah ke hadapan lah. Dia pergi announce. Di pesuruh_ans, kita kata satu langkah ke hadapan, orang ramai kata beri-ria ni. I don't know lah, maybe I didn't see that many, except for the other side lah. Tu, confirmation bias. Eh, habis kau ingat di other side tu bukan orang ke? Ah, tak, okey, baik, yelah, haah. Di other side, di other side, obviously, katakanlah orang lain buat, kita pun kata beri-ria, beri-ria kan. So, is only natural lah yang orang lain, parti-parti lawan akan kata apalah bersama ni, dah lah hilang deposit, beri-ria nak hilang deposit kali kedua. So, what's your answer? Ini kita Tengok, saya ada kemampuan untuk troll diri sendiri tahu. Kita cuba pendekatan lainlah YB, sebab yelah, kata apa, orang tak kenal, jadi kenalah ambil masa lama untuk orang mengenali lagi. Okey. Macam tu lah kut. Mhm. Daklah, I mean, untuk jangka masa panjanglah kan, dia sebenarnya bukan semata-mata untuk perkenalkan calon supaya orang lebih kenal ke apa. Matlamat dia yang saya rasa lebih dalam daripada itu ialah untuk kita mengurangkan rasuah politik. Oh. Dalaman. Dalaman. Ah, sebab, kenapa parti-parti politik ni mengumumkan calon last minit? Kerana horse trading dan juga, lobi-melobi, dan horse trading dan lobi-melobi ni meletakkan kuasa yang cukup besar di tangan seorang presiden parti. Hm. So, the the sooner you let go and devolve that power, jadi kalau contohnya you dah umum calon awal, dan contohnya di masa hadapanlah, hasrat kita ialah memang kita serahkan kepada ahli, kita serahkan kepada kita umumkan lebih awal kan. Untuk umum lebih awal tu, proses itu perlu berlaku lebih awal, dan dan sebaiknya proses itu tidak melibatkan sangat pun pimpinan kan. When you do that, maka kuasa seorang presiden parti tu untuk menentukan siapa dapat, tak dapat, lobi-melobi, rasuah-merasuah ni kurang. Hm. Sebab calon dia nak jadi calon, dia mengaku macam-macam kepada pimpinan parti tu. Saya boleh bawa itu, saya dah belanja 20 juta, kalau saya jadi calon saya boleh contribute ini semua kan. Jadi, ini proses per- pertama untuk bersamalah, kita umum awal, get people to, terutamanya ahli parti tahu. Dia bukan semata-mata pengundi, terutamanya ahli parti untuk menerima budaya ini yang calon akan diumumkan awal, dan bila dia dah dapat peluang tu, baguslah dia dapat, kalau saya tak dapat saya ada peluang lagi kan. Saya rasa in the future lah tengok macam mana perkembangan bersama, yang kita nak bangunkan ialah budaya memilih calon itu dibuat oleh ahli-ahli parti di situ sendiri. Dia bukan lagi di di di tangan presiden ke apalah. Cuma kita nak kena kukuhkan budaya politik yang bersih, we need to put safeguards, sebab kalau sekarang kita suruh ahli pilih di kawasan parlimen masing-masing kan, kebimbangan saya tentang rasuahlah, maksudnya siapa yang ada wang dia masuk, dia beli semua, dan yelah, kita akan ada ramalan episod kedua lah pula lagi dalam bersama pulalah kan, letih kita kan. Jadi, kalau budaya itu dua tiga tahun daripada sekarang memang dah diterima, then we can go contohnya di negara-negara yang yang lebih matang politik mereka, mana ada pimpinan di atas yang memilih calon. Calon ni semua dipilih oleh ahli dan orang di bawah, konstituen di situ, sebab itu kita ada konsep primary. So kalau contohnya untuk kerusi Bandar Tun Razak, jadi ahli-ahli di Bandar Tun Razaklah, siapa nak bertanding, dia bertanding, cuma kita nak kena letakkan safeguards dan juga guard rails, macam-macam nak letak, supaya satu tak ada soal duit, rasuah tak boleh beli kan, kedua ada transparansi untuk betul-betul menilai calon-calon yang berkualiti. Sekarang ni tak ada, siapa yang baik dengan orang tu nampak dia hebatlah. Ketiga, kita juga nak pastikan bila ada primary, katakanlah one day ada primary di bawah, di peringkat bersama kan, dia boleh menerima kekalahan itu, kalau dia kalah dia kalahlah, dia jadi sebab itu, processes tu we have to put in place, supaya proses pemilihan itu adil, telus, can so people don't question it lah, mhm mhm mhm mhm. Ya, ya, ya, ya, ya, mhm. Tapi apa, budaya penajaan sumbangan ataupun aid tu, public for political gains ni, I think is getting kronik sangat kat Malaysia. Hmm, betul, dah luar biasa. Tapi dia ada demand, ada supply, YB. Ah, dia mula dah demand-supply dia. [gelak] Kalau kita tutup apa, supply... Tapi supply tu seharus... tapi supply tu seharusnya dibekalkan oleh kerajaan bukan parti politik. Okay, yeah, yeah. So, kalau kita institutionalise program bantuan sosial, then seharusnya supply tu datang daripada pihak kerajaan, bukan parti politik. Okey, kita beri-ria komen benda ni, dah sampai lama aku tengok, beri-ria ni dah 40 minit dah. Kita ada dua lagi YB. Okey. Ada ramai yang tanya, kenapa bersama guna the term calon bayangan? Why, why bayangan? Shadow. Ah, yelah, so shadow calon, shadow candidate lah. Maksudnya dia belum confirm dan dia boleh ditukar? Dak, dia semuanya memang, memang apa nama ni telah tandatangan bon semualah kan, tapi mengambil apa yang yang Haziq cakap tadi kan, kalau tiba-tiba dia kena culik, kalau contohnya tiba-tiba dua minggu lagi terdedah besar-besaran, dia sebenarnya scammer terbesar Malaysia. Jadi, kita kena tarik balik pencalonan tu, kita memang buat seberapa yang mampu untuk tapis semua kan. Jadi, selagi dia tak jadi calon, memang dia calon bayanganlah, dia sama macam shadow kabinet, kabinet bayangan semua kan. Okey baik YB, kita nak mengundi. Kita nak mengundi, bagi kat Joelahlah pilih. Kena pilih, kena pilih yang mana paling beri-ria. Bagi saya, saya rasa Fahan. Oh. Mhm, Fahan itu. Bukan Fahannilah, Fhal Fauzi. Fhal Fauzi, okey, okey, beri-ria. Saya rasa Fhal Fauzi. Beri-ria cari ahli. Dan menghina, menghina rakyat juga. Hina rakyat. Komen dia menghina rakyat. Komen dia menghina rakyat, uhum. Okey, baik. Malu apa bossku? [gelak] Malu apa bossku. Baik. Kita terus ke hidup keras. Kita puas hatilah, puas hati. Bersama tak menang. Maaf YB, boleh cuba lagi, [gelak] mhm mhm. Ah, sebab tu kalau aku pilih, aku pilih diri sendiri. [gelak] Masuk bakul angkat sendiri. Okey, kita terus ke yang pertama. [sing]
 
-[3:07:40] perlu spesifik program desain dan dia mestilah satu yang menyeluruh barulah over time and most probably it will take 5 to 10 years anyway. Dan kena coordinate semua supaya jangan kata ada dasar sekian-sekian-sekian tapi Kementerian Sumber Manusia bagi permit pekerja asing non-stop. I mean whatever hard yang Kementerian Ekonomi tetapkan Dia bukan ikut kan Dia Oh sebab Semua kementerian-kementerian lain Datang ketuk meja Oh kita orang perlukan Kerja asing Kita orang perlu kerja asing So You know Dulu-dulu Masa aku ada tu I think dia orang selalu jeling-jeling Sebab aku rasa dia kira Mahmat ni aku buat bising ni Sebab I was super hard That nope
 
-[3:08:27] We will not revise. Hard day banyak tu, hard day banyak tu je. In fact, we are going to make it lower and lower and lower lah. Tapi benda tu hanya dekat macro planning. Dia perlukan kesumah, semua ni work. Sebab itu, hopefully lah. Now that everything coming together, Pakatan Harapan pun,
 
-[3:08:48] There are electoral losses. Dato' Sri Anwar has promised to reform. Izzah has already remembered the future of wage reform. I hope if Dato' Sri Anwar as the Minister of Finance, as the Prime Minister,
+[23:02] Joe: ...memang dah ada beberapa polisi dasar yang sedang dijalankan... but we don't have to wait for second term. You can boleh start terus...
 
-[3:09:09] Inilah yang kita dah sediakan 3-4 tahun dulu untuk dia bergerak. Tapi sebelum ini, tiada siapa yang mahu melakukannya kerana dia terlalu banyak keperluan yang diperlukan dan ia sangat sukar. Bagi mereka, semua ini susah. Tapi sekarang, semuanya menunjukkan keadaan ini yang mana kekembangan GDP, tiada siapa yang terkejut dengan kekembangan GDP lagi. GNI, semoga lepas ini orang akan mula tengok GNI. But finally dia akan tengok kenaikan gaji dia lah.
 
-[3:09:43] Dan saya rasa anda juga menyebutkan satu soalan yang sangat penting mengenai levi multi-tier. Sebab contoh, di Singapura, untuk setiap pekerja asing yang syarikat mahu upah, anda perlu membayar levi yang lebih tinggi. Jadi, jika anda membuatnya lebih mahal untuk anda mengundang pekerja asing, sehingga ia memperlukan anda untuk memperbaiki, untuk meningkatkan produktiviti anda. unsur yang kita tidak sempat ulas dalam diskusi ini ialah peranan pekerja asing dalam produktiviti negara so a lot of productivity lag
 
-[3:10:25] is in a way attributed to our addiction to manual labor, labor intensive. Because the company doesn't have the incentive to transform, to automate, because there's always a cheaper alternative, which is foreign workers. Actually, the multi-tier levy management, MTLM, the economic minister has brought it to the government and it has been approved.
+[23:26] Rafizi: Sebab kalau kita tengok, ini yang kita panggil...
 
-[3:10:53] Okay, I don't know. Siri triggered. Actually... I have to tap, right? I have to tap. I don't believe in Google, Siri, Apple. What's the name? MTLM has been brought to the government, I think, in the middle of...
 
-[3:11:12] 2024 and should be in power and implemented in January 2025. Now it's August 2026. So, you know, my frustration is that. It's like, there is a lack of seriousness and the politics got in the way. Because I think other ministries know
 
-[3:11:39] Maybe Datuk Seri Anwar, the Prime Minister, is always cautious about me because of my independence. So it's so easy to persuade the Prime Minister that even though he has passed, he doesn't have to do it. So we have lost a year and a half. And while these things, if you want to do it, it will take a generation to resolve.
+[23:40] Host: Topik kita yang pertama hari ini, pemansuhan AUKU, kebebasan akademik, dan mutu pendidikan tinggi negara. Benda ni, YB, kalau kita tengok, dia macam bermusim tau. Bila ada isu sikit, orang akan sebut pasal AUKU. Lepas tu dia senyap balik. Tapi baru-baru ni, bila Datuk Seri Anwar sebut pasal kebebasan akademik dekat Kongres PKR hari tu, isu ni hangat balik. Jadi Joe, as an academician, you rasa macam mana? Kebebasan akademik kat Malaysia ni, setakat mana dia betul-betul bebas, ataupun dia sebenarnya tersekat disebabkan oleh kekangan-kekangan perundangan macam AUKU ni?
 
-[3:12:07] Sekali lagi, jadi kemudian reform.
 
-[3:12:11] Dalam keadaan kerajaan bertukar ganti, reform ini, kecuali awak buat awal cepat-cepat dan hasilnya mula menampakkan kesan dan mula mendapat sokongan awam,
 
-[3:12:25] reform will not last. Because when the new government enters, if the reform is not popular, it will be replaced. But if the reform has started to have an effect, people have started to see that my salary has started to rise, the battle and all, the new government can't do anything, they continue. I mean, one good example is NHS in the UK. NHS, after the Second World War,
+[24:28] Joe: I think historically, AUKU ni memang dilantik, oh sorry, digubal pada tahun 1971 untuk mengawal pergerakan pelajar. Tapi over time, dia punya effect tu bukan setakat kepada student tapi also kepada pensyarah, kepada pentadbiran universiti. So, for example, kalau pensyarah nak buat research, nak publish paper, ataupun nak bagi komen tentang polisi kerajaan, ada some self-censorship. You rasa macam, "Eh, kalau aku cakap macam ni, nanti KPI aku terjejas, ataupun contract aku tak drenew." So, that is a real concern. Di Australia, for example, at ANU, we have absolute freedom of speech. Kita boleh kritik kerajaan, kita boleh kritik universiti punya management, and no one will threaten to fire us or cut our funding because of that. So, I think that's the main difference.
 
-[3:12:49] Masa kerajaan Clement Attlee bawa kan Benda tu unthinkable masa tu tau
 
-[3:12:55] to the British citizen, to the British population. Because it's very socialistic. Whoever goes to the hospital for free, is taken care of by the government. It's so socialistic. And you know how aristocratic British society is. But because it's very popular. Everyone has accepted it. When Clement Atlee lost again, I think 1951 or 1952,
 
-[3:13:24] Churchill, when he came back, he had no choice but to continue it. And that's why you have NHS as you have today. So, because of that, the economic situation, I think we've lost, basically we've exhausted the runway.
+[25:20] Rafizi: Betul. Sebenarnya, masalah AUKU ni, orang selalu salah faham. Orang ingat AUKU ni hanya pasal budak-budak universiti nak berpolitik, nak buat demonstrasi. Itu pandangan yang sangat sempit. Masalah utama AUKU ni ialah dia meletakkan seluruh ekosistem universiti di bawah kawalan menteri dan kementerian. Dari segi lantikan Naib Canselor, lantikan Lembaga Pengarah, sehinggalah kepada urusan pentadbiran harian, semuanya tertakluk kepada kelulusan birokrasi kementerian. Jadi, universiti kita ni dia tak jadi badan pengeluar ilmu yang bebas. Dia jadi macam jabatan kerajaan. Bila dia jadi macam jabatan kerajaan, maka minda akademik tu pun jadi minda penjawat awam. Mindset dia ialah "follow the instruction", bukan "challenge the status quo". Sedangkan universiti ni, peranan dia ialah untuk challenge existing knowledge, to find new solutions. Kalau semua orang takut nak challenge, macam mana kita nak ada inovasi?
 
-[3:13:44] We lost the opportunity. And I don't see the government saying that the next government is BN and PN. I don't see BN and PN will push for the kind of reform that we are talking about. Because it involves one sector that is very good, which is foreign workers.
 
-[3:14:06] Foreign workers, their value, their profit to those who are in the industry, to bring in foreign workers, is billions of ringgit every year. From everything, billions of ringgit. So there will be enough vested interest, those who are good at the corner, that will be maintained. So if anything, that's a hyper frustration that we miss the boat.
 
-[3:14:34] Sebab sepatutnya benda ni diputuskan dan diselesaikan and we run away with it, sprint as fast as possible. After 4 years, sepatutnya kita dah mula rasa sedikit you know and...
+[26:22] Host: Tapi YB, menteri-menteri sebelum ni, malah menteri sekarang pun, selalu sebut yang kita tak payah mansuh AUKU. Kita cuma perlu pinda sikit-sikit, bagi kebebasan kepada mahasiswa untuk urus kewangan sendiri, untuk buat aktiviti sendiri. Kenapa kerajaan macam takut sangat nak mansuh terus AUKU ni? Sampaikan ada dakwaan yang kata kalau mansuh AUKU, nanti universiti akan jadi huru-hara, student akan berpolitik 24 jam, tak belajar.
 
-[3:14:51] It's the same as progressive wage. Because the government only gives RM50 million for pilots for 2 years. I think RM50 million for pilots for 50 years. So we can only help at least 52,000 workers.
 
-[3:15:10] Tapi 52,000 orang pekerja itu, dia dapat kenaikan gaji untuk 2 tahun. And after that, gaji dia kekal tau. Sebab dah you naikkan gaji, majikan tak boleh turunkan gaji kau. Sebab tu majikan marah kat aku. Dia cakap, this is a trick. You bagi bantuan ni hanya untuk 2 tahun. Lepas tu, bila dah tak bagi bantuan, kita orang bukan boleh turunkan gaji dia kan. But that's how you push up the level. majikan that wants to be part of it sebab of the training. Because they understand inah budak-budak ni bila they are certified, they are trained, they are marketable, productivity is higher. So katakanlah 50 million, you dapat 52 ribu kan. Kalau 500 million, there's actually half a million worker every year.
 
-[3:16:05] So, if you do every cycle, and the cycle is 2 years, 2 years, 2 years, right? So, you know, half a million cycle, every year, and then they mature 2 years, 2 years, right? So, over 5 years, you can easily reach about 2 million people.
+[26:50] Rafizi: Itu hujah lapuk. Hujah tahun 70-an yang dibawa balik ke zaman sekarang. Budak-budak sekarang ni, dia orang bukan macam budak-budak zaman dulu yang kalau tak ada AUKU, dia orang akan demo hari-hari. Budak-budak sekarang ni lebih concern pasal career, pasal kos sara hidup, pasal masa depan mereka. Dan kalau kita tengok kat negara-negara luar yang tak ada AUKU, tak ada pun universiti dia orang tutup sebab student demo hari-hari. Malah universiti dia oranglah yang paling top dalam dunia. Jadi, hujah kata universiti akan huru-hara tu sebenarnya hujah birokrat yang takut hilang kuasa. Bila AUKU dimansuhkan, bermakna kuasa menteri untuk melantik Naib Canselor, kuasa untuk mengawal universiti tu akan berkurang. Universiti akan dapat autonomi penuh. Bila ada autonomi, bermakna universiti kena self-govern, kena cari dana sendiri, kena manage sendiri. Ini yang ramai pentadbir universiti pun sebenarnya takut, sebab selama ni dia orang selesa berlindung di sebalik kementerian. Apa-apa hal, minta peruntukan. Apa-apa hal, tunggu arahan menteri.
 
-[3:16:25] 2 juta orang itu hampir 20% daripada kawasan kerja kita. Dan itu 500 juta sebulan. Eh, tabung haji untuk bayar tabung haji punya keuntungan yang kajian berhutang kepada tabung haji adalah sekitar 700 juta sebulan. kata kita tak ada jalan penyelesaian, a lot has been prepared and laid out. Cuma, yelah, we miss the opportunity lah. Okay, tak apa. Second term, Abie. Second term. Second term, okay. So, I think kita nak kena berhenti kat situ kot. Ya, 3 jam 16 minit.
 
-[3:17:11] That's all. 3 hours and 16 minutes too? Yes, that's all. Thank you to Joe for being here. Don't be shy, Joe. He'll come again. He'll come again. We'll see you again. Chopper King salam. He's sick outside. He's sick outside.
 
-[3:17:29] Ya, kita bersama. Dan kita ada kenduri bersama di Tangga Batu dekat Bukit Rambai hari Ahad pagi. Dan malam itu kita ada ceramah di Sungai Udang di depan Masjid Tun Ghaffar Baba. Di Sungai Udang. Jadi jumpa saya hari Jumaat. Hari Jumaat pula. Hari Ahad. Hari Ahad dekat Melaka. Selangor kan Kita ada di Subang Di Petaling Jaya Dan malam tu ada Satu dinner Dengan Ahli-ahli bersama Di Kerana Jaya KGNS KGNS
+[27:55] Joe: Dan saya rasa satu lagi point ialah dari segi akauntabiliti. Bila universiti ada autonomi, dia orang terpaksa bersaing secara sihat untuk menarik pelajar, untuk menarik dana penyelidikan. Kat Australia, universiti yang tak perform, dia orang takkan dapat funding daripada industry, and student pun takkan nak masuk. So, they have to make sure their quality is high. Tapi kat Malaysia, sebab almost everything is guaranteed by the government, so tak ada pressure untuk improve the quality of education and research. Kita nampak ranking universiti kita naik sikit, kita dah seronok. Tapi adakah itu mencerminkan kualiti sebenar graduan kita di pasaran kerja? Itu soalan yang kita kena tanya.
 
-[3:18:13] Kelab Golf Negara Subang. Okey, itu saja. Okey, terima kasih banyak-banyak. Terima kasih.
 
-[3:18:20] Assalamualaikum.
+
+[28:40] Host: Betul. Isu kebolehpasaran graduan ni pun satu hal juga. Ramai graduan kita sekarang ni, bila keluar universiti, gaji dia orang sangat rendah. Ada yang terpaksa buat gig economy, jadi rider, sebab tak ada kerja yang bersesuaian dengan kelayakan mereka. Adakah ini juga berpunca daripada kelemahan sistem pendidikan tinggi kita yang tak seiring dengan kehendak industri?
+
+
+
+[29:04] Rafizi: Dia berkait rapat. Bila universiti tidak ada autonomi untuk bekerjasama secara terus dengan industri, maka kurikulum yang diajar tu selalunya ketinggalan zaman. Industri dah guna teknologi AI, universiti masih lagi ajar teori asas tahun 90-an. Sebab apa? Sebab nak tukar silibus pun kena lalu proses kelulusan kementerian yang makan masa bertahun-tahun. Jadi, by the time silibus tu diluluskan, teknologi tu dah obsolete. Ini beza dia bila universiti ada autonomi. Pensyarah boleh terus revise the syllabus seiring with perkembangan industri tanpa perlu tunggu kelulusan birokrasi. Dan ini juga sebabnya kenapa gaji permulaan graduan kita makin lama makin compress. Sebab kualiti graduan yang dihasilkan tidak memenuhi kehendak industri yang memerlukan kemahiran tinggi.
+
+
+
+[29:55] Joe: Dan kalau kita tengok data, upah graduan di Malaysia ni, real wage dia sebenarnya tak banyak berubah sejak 10-15 tahun lepas. Walaupun kos sara hidup dah meningkat berkali ganda. So, there is a mismatch. Kita hasilkan ramai sangat graduan dalam bidang yang pasaran kerja dah tepu, tapi kita kurang graduan dalam bidang yang betul-betul industri perlukan, contohnya engineering, data science, and technical fields.
+
+
+
+[30:25] Host: Jadi YB, apa jalan penyelesaian dia? Kalau kita kata nak mansuh AUKU, tapi pada masa yang sama, kita kena bersedia untuk reform seluruh sistem pentadbiran universiti. Adakah kerajaan sekarang ni betul-betul bersedia untuk ke arah itu?
+
+
+
+[30:40] Rafizi: Bagi saya, kita tak ada pilihan. Kita kena buat. Kalau kita tak buat sekarang, 10-20 tahun akan datang, kita akan terus ketinggalan. Negara-negara jiran kita macam Vietnam, Thailand, dia orang sekarang ni rancak reform sistem pendidikan tinggi mereka untuk tarik pelaburan bernilai tinggi. Kalau kita masih lagi bergelut dengan isu remeh-temeh macam student boleh berpolitik ke tak, pensyarah boleh kritik kerajaan ke tak, kita memang akan rugi. Sebab tu, bagi saya, pemansuhan AUKU ni bukan sekadar isu politik, tapi dia adalah agenda ekonomi yang sangat kritikal untuk masa depan negara.
+
+
+
+[31:20] Host: Okey, terima kasih YB, terima kasih Joe untuk ulasan yang sangat mendalam tentang isu AUKU dan pendidikan tinggi ni. Kita harap adalah tindakan susulan yang lebih berani daripada kementerian selepas ini. Kita rehat kejap, lepas ni kita masuk topik kedua, isu ekonomi semasa dan juga prestasi ringgit.
+
+
+
+[31:40] [music/break]
+
+
+
+[31:55] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik kedua kita hari ini, iaitu prestasi ekonomi negara dan kedudukan nilai ringgit. YB, ini pun satu lagi topik yang hari-hari kita nampak kat media sosial. Orang bandingkan ringgit zaman dulu dengan zaman sekarang, lepas tu salahkan kerajaan sebab ringgit jatuh. Tapi semalam, parlimen kecoh sikit bila ada pembangkang yang kata ekonomi kita ni sebenarnya "tenat" walaupun data menunjukkan pertumbuhan KDNK suku kedua tumbuh sebanyak 5.9%. Jadi YB, tolong perjelaskan sikit, apa sebenarnya status ekonomi kita sekarang ni? Adakah betul tenat macam yang didakwa oleh sesetengah pihak?
+
+
+
+[32:38] Rafizi: [gelak] Pertama sekali, kita kena faham beza antara retorik politik dengan realiti data ekonomi. Pembangkang ni, kerja dia orang memanglah kena kata ekonomi tenat, walaupun kalau ekonomi tumbuh 10% pun dia orang akan kata tenat juga. Sebab itu standard political play. Tapi kalau kita tengok pada data yang dikeluarkan oleh Bank Negara dan Jabatan Perangkaan, suku kedua tahun ni kita tumbuh 5.9%. Itu adalah antara pertumbuhan yang tertinggi di rantau ini. Dan pertumbuhan ni bukan disokong oleh perbelanjaan kerajaan semata-mata, tapi dia disokong oleh private consumption, private investment, dan juga pemulihan dalam sektor eksport, terutamanya eksport elektrikal dan elektronik (E&E) yang dipacu oleh global tech cycle. Jadi, kalau ada orang kata ekonomi tenat, dia sebenarnya menafikan fakta dan data antarabangsa. Malah, institusi kewangan dunia macam IMF, World Bank, semuanya dah revise up kita punya growth forecast untuk tahun ni.
+
+
+
+[33:45] Joe: Dan dari segi analisis ekonomi, pertumbuhan 5.9% tu sebenarnya sangat solid sebab dia datang dengan inflasi yang terkawal. Selalunya, kalau ekonomi tumbuh laju, inflasi pun akan naik laju. Tapi kat Malaysia, inflasi kita suku kedua tu sekitar 1.9% ke 2.0% sahaja. So, growth tu is very stable and sustainable. Dan satu lagi yang kita kena tengok ialah foreign direct investment (FDI) yang terus masuk, terutamanya dalam sektor digital and data centers. Benda ni menunjukkan pelabur luar masih ada keyakinan yang sangat tinggi terhadap prospek jangka panjang ekonomi Malaysia.
+
+
+
+[34:25] Host: Tapi YB, persoalan yang selalu rakyat tanya ialah, "Kalau ekonomi tumbuh 5.9%, kenapa poket kami masih rasa kosong? Kenapa harga barang masih mahal, dan kenapa ringgit kita masih lemah berbanding USD?" Macam mana YB nak jawab persoalan yang sangat realistik daripada rakyat marhaen ni?
+
+
+
+[34:45] Rafizi: Ini soalan yang sangat bagus, dan saya pun selalu tekankan perkara ni. Pertumbuhan ekonomi (KDNK) ni, dia adalah macro indicator. Dia menunjukkan keseluruhan saiz ekonomi kita membesar. Tapi, pembahagian daripada limpahan ekonomi tu (distribution of wealth), dia tak berlaku sekelip mata. Contohnya, bila FDI masuk berbilion-bilion untuk bina data center atau kilang semikonduktor, kilang tu ambil masa dua tiga tahun untuk siap. Bila siap, baru dia mula ambil pekerja, baru dia bayar gaji, baru ada limpahan ekonomi kepada kedai-kedai makan kat sekitar tu, kepada supplier tempatan. Jadi, ada time lag di antara pertumbuhan makro dengan apa yang rakyat rasa dekat poket masing-masing.
+
+
+
+[35:35] Rafizi: Pasal harga barang pula, kita kena faham kita baru saja lalui fasa inflasi global yang sangat tinggi pasca pandemik. Walaupun sekarang kadar inflasi kita dah turun ke paras 2%, bermakna harga barang tu dah tak naik laju macam dulu, tapi harga tu tak turun balik ke paras asal. Dia cuma stabil dekat paras yang tinggi sekarang ni. Ini yang kita panggil price stickiness. Jadi, jawapan dia bukan dengan menurunkan harga barang secara paksa—sebab itu akan merosakkan rantaian bekalan—tapi jawapan dia ialah dengan meningkatkan pendapatan rakyat supaya kuasa beli mereka meningkat seiring dengan peningkatan kos sara hidup. Sebab tu kita push untuk wage reform, untuk dasar gaji progresif, untuk create more high-income jobs.
+
+
+
+[36:20] Joe: Dan pasal ringgit pula, we have to look at the global context. Kelemahan ringgit sejak setahun dua lepas ni sebahagian besarnya dipacu oleh perbezaan kadar faedah (interest rate differential) antara US Federal Reserve dengan Bank Negara Malaysia. US Fed naikkan kadar faedah mereka sampai 5.25% - 5.5%, manakala Bank Negara cuma kekalkan OPR dekat 3.0%. Jadi, perbezaan yang besar ni menyebabkan aliran keluar modal (capital flight) daripada pasaran membangun termasuk Malaysia ke US untuk cari return yang lebih tinggi. Tapi sekarang, bila ada petanda US Fed akan mula turunkan interest rate mereka tak lama lagi, kita nampak ringgit dah mula mengukuh balik. Dalam masa beberapa minggu ni saja, ringgit dah mengukuh dari paras 4.70+ ke paras 4.40+ berbanding USD. Ini membuktikan kelemahan ringgit dulu tu bukan sebab ekonomi kita tenat, tapi sebab faktor luaran yang di luar kawalan kita.
+
+
+
+[37:15] Host: Betul, kita nampak ringgit sekarang ni memang tengah dalam fasa pengukuhan yang agak ketara. Malah, ada penganalisis yang jangka ringgit boleh pergi ke paras 4.20 berbanding USD menjelang akhir tahun. Adakah ini satu petanda yang baik, YB? Dan adakah pengukuhan ringgit ni akan membantu menurunkan harga barang import, terutamanya makanan?
+
+
+
+[37:38] Rafizi: Sudah tentu. Pengukuhan ringgit ni akan mengurangkan kos import kita, terutamanya import makanan sebab Malaysia ni import berbilion ringgit bahan makanan setiap tahun. Bila ringgit mengukuh, kos untuk pengimport akan turun. Dan kita harap pengimport dan peruncit akan pass on savings ni kepada pengguna dengan menurunkan harga barangan tersebut. Tapi sekali lagi, dia ambil masa sikit. Dia tak berlaku hari ni ringgit naik, esok harga tepung terus turun. Dia ada proses dalam rantaian bekalan. Tapi yang paling penting ialah pengukuhan ringgit ni memberikan kestabilan kepada pasaran kewangan kita, and dia akan tarik lebih banyak pelaburan portfolio masuk balik ke Malaysia.
+
+
+
+[38:20] Host: Okey, nampaknya penjelasan daripada YB dan Joe ni sangat jelas dan bersandarkan kepada fakta ekonomi, bukan sekadar persepsi. Jadi, kepada pembangkang di luar sana, bolehlah hadamkan data-data ni sebelum buat kenyataan politik yang tak berasas. Kita rehat sekali lagi, lepas ni kita sambung dengan segmen kegemaran ramai, Hidup Keras, di mana kita akan bincangkan isu-isu yang lebih santai tapi pedas.
+
+
+
+[38:45] [music/break]
+
+
+
+[39:00] Host: Kembali lagi dalam segmen Hidup Keras. Minggu ni kita nak borak pasal satu isu yang agak menarik, iaitu dakwaan sesetengah pihak yang kata ahli politik sekarang ni dah tak berapa rapat dengan rakyat, terutamanya bila dah jadi menteri. YB, ini Joe ada kat sini, dia pun bekas intern YB dulu. Mesti dia tahu perangai YB masa belum jadi menteri dengan bila dah jadi menteri sekarang. Joe, you rasa YB Rafizi ni dah berubah ke sejak jadi menteri? Dah kurang mesra rakyat ke, ataupun makin sombong? [gelak]
+
+
+
+[39:35] Joe: [gelak] Bagi saya, dari segi perangai kerja tu, tak ada beza sangat. Dia memang jenis workaholic dari dulu lagi. Masa saya jadi intern dia tahun 2014 pun, dia punya pace kerja tu memang sangat laju, and dia expect everyone to keep up with him. Cuma bezanya sekarang, bila dah jadi menteri, dia punya tanggungjawab tu jauh lebih besar. Dulu dia cuma menteri bayangan—eh sorry, dia pembangkang yang bebas bercakap apa saja. Tapi sekarang, setiap patah perkataan yang dia sebut tu akan memberi kesan kepada pasaran, kepada dasar negara. Jadi, dia kena lebih berhati-hati. Tapi kalau dari segi personaliti, saya rasa dia masih lagi Rafizi yang sama. Masih suka makan dekat kedai biasa, masih selamba saja. Cuma yelah, protocol tu kadang-kadang buat dia nampak macam jauh sikit daripada rakyat, tapi itu standard lah untuk mana-mana menteri.
+
+
+
+[40:20] Rafizi: Sebenarnya, orang selalu salah faham pasal "mesra rakyat" ni. Bagi saya, mesra rakyat yang paling hakiki ialah dengan membuat kerja kita sehabis baik untuk selesaikan masalah rakyat. Bukannya dengan hari-hari pergi peluk orang, pergi buat lawatan mengejut dekat hospital tapi tak ada penyelesaian sistemik, ataupun hari-hari buat content TikTok tunjuk kita makan biskut kering. Itu bagi saya "mesra rakyat kosmetik". Saya tak suka buat kerja macam tu. Saya punya fokus ialah, macam mana kita nak strukturkan balik ekonomi kita supaya dalam jangka masa panjang, gaji rakyat naik, harga barang stabil, and kita ada sistem keselamatan sosial yang mantap. Kalau saya habiskan masa 24 jam sehari untuk pergi buat content mesra rakyat tapi dasar ekonomi negara berterabur, itu sebenarnya satu pengkhianatan kepada mandat yang rakyat bagi.
+
+
+
+[41:15] Host: Tapi YB, dalam politik zaman sekarang, perception is everything. Kalau YB buat kerja senyap-senyap kat pejabat, tapi orang tak nampak, orang akan kata YB tak buat kerja. Berbanding dengan orang yang buat kerja sikit tapi tunjuk kat media sosial hari-hari, orang akan nampak dia buat kerja gila-gila. Macam mana YB nak balance-kan antara real work dengan perception management ni?
+
+
+
+[41:38] Rafizi: Itu cabaran terbesar kita sekarang ni. Kita hidup dalam zaman di mana "noise" lebih dihargai daripada "substance". Tapi bagi saya, lambat-laun rakyat akan sedar juga. Sebab "substance" ni dia akan menghasilkan "result" yang nyata dalam jangka masa panjang, manakala "noise" ni dia hanya bertahan setakat tempoh video TikTok tu saja. Lepas video tu habis, masalah rakyat tetap tak selesai. Jadi, strategi saya ialah kita teruskan dengan real work, tapi pada masa yang sama, kita cuba improve kita punya communication. Sebab tu kita ada podcast macam ni, kita ada sesi penerangan dasar, supaya kita boleh educate rakyat tentang proses di sebalik pembuatan dasar. Kita tak nak layan sentimen semata-mata, kita nak ajak rakyat berfikir secara rasional.
+
+
+
+[42:25] Joe: Dan saya rasa di pihak penjawat awam pun, dia orang sebenarnya lebih suka menteri yang fokus kepada substance. Sebab bila menteri sibuk buat content kosmetik, penjawat awam yang terpaksa bertungkus-lumus prepare bahan untuk content tu, sedangkan kerja-kerja dasar terbengkalai. Tapi bila menteri fokus kepada dasar, penjawat awam pun rasa bermotivasi sebab dia orang nampak ada direction yang jelas untuk negara.
+
+
+
+[42:50] Host: Betul. Dan kita harap penjawat awam kita sekarang ni pun dah mula nampak ada perubahan dari segi cara kerja, terutamanya dengan pengenalan pelbagai inisiatif digital oleh Kementerian Ekonomi. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Joe kerana sudi luang masa datang ke podcast kita hari ini. Kita harap Joe tak seriklah nak datang lagi lepas ni, walaupun gaji cuma 10 sen. [gelak]
+
+
+
+[43:15] Joe: [gelak] Tak apa, demi perjuangan bersama, 10 sen pun saya sanggup. Terima kasih YB, terima kasih Haziq.
+
+
+
+[43:22] Rafizi: Terima kasih Joe, and selamat bertugas untuk bersama. Kita perlukan lebih ramai orang muda yang berkelayakan macam Joe untuk tampil ke hadapan demi masa depan negara.
+
+
+
+[43:32] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[43:50] [music/outro]
+
+
+
+[44:10] Host: Podcast Yang Bakal Menteri, episod ke-61. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita—eh menteri kesayangan ke, YB? [gelak] Bersama saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Syahredzan Johan, Ahli Parlimen Bangi. Apa khabar, Syah?
+
+
+
+[44:35] Syahredzan: Khabar baik, Haziq. Terima kasih sudi jemput saya ke podcast yang sangat popular ni. Rasa kerdil pula duduk sebelah menteri kita ni. [gelak]
+
+
+
+[44:45] Rafizi: [gelak] Hantar peguam datang parlimen ni bahaya ni, sebab dia orang ni pandai hujah. Tapi apa-apa pun, selamat datang Syah ke podcast kita. Kita nak borak santai-santai saja hari ni, tak payah pening-pening kepala sangat pasal akta ke apa ke.
+
+
+
+[45:30] Syahredzan: [gelak] Sebenarnya, dakwaan kata parlimen jadi rubber stamp ni adalah satu dakwaan yang sangat malas. Sebagai ahli parlimen, kita tahu setiap RUU yang dibawa ke parlimen melalui proses yang sangat ketat. Kita ada Jawatankuasa Pilihan Khas (Select Committee) yang meneliti setiap butiran RUU tu sebelum dia dibawa ke dewan untuk didebatkan. Dan di dalam Select Committee ni, ahli parlimen pembangkang pun ada sekali. Jadi, kalau dia orang rasa ada benda yang tak kena, dia orang patut bangkitkan masa peringkat jawatankuasa tu lagi. Tapi yang selalu berlaku ialah, masa dewan bersidang, dia orang sibuk buat bising pasal isu remeh-temeh, tapi bila sampai masa nak debat pasal RUU yang teknikal, dewan jadi lengang. Jadi, soalan dia ialah, siapa yang sebenarnya tak buat kerja? Adakah parlimen yang rubber stamp, ataupun pembangkang yang tak ada modal nak bahas?
+
+
+
+[46:25] Rafizi: Betul. Dan kita kena faham juga, proses menggubal undang-undang zaman sekarang ni dah tak macam dulu. Dulu, ya, kerajaan buat undang-undang senyap-senyap, lepas tu bawa ke parlimen, bentang pagi, petang terus lulus. Itu barulah betul rubber stamp. Tapi sekarang, di bawah kerajaan perpaduan, kita amalkan pembentangan draf awal (green paper) untuk konsultasi awam, kita bincang dengan stakeholders, kita bawa ke Select Committee dulu. Jadi, by the time RUU tu sampai ke dewan untuk bacaan kali kedua dan ketiga, kebanyakan isu-isu kontroversi tu dah pun diselesaikan di peringkat konsultasi. Sebab tu kita nampak perbahasan di dewan tu lebih lancar. Tapi lancar tu bukan bermakna kita tak bahas, kita dah bahas panjang lebar di luar dewan sebelum tu. Ini yang pembangkang kadang-kadang dia orang sengaja buat-buat tak faham sebab dia orang nak tunjuk dewan dewan dewan dewan ni dikawal oleh kerajaan.
+
+
+
+[47:20] Host: Tapi YB, ada juga RUU yang agak kontroversi yang diluluskan baru-baru ni, contohnya RUU keselamatan siber, yang mana ada sesetengah NGO kata dia akan mengekang kebebasan bersuara. Adakah RUU ni pun dah dibahas secukupnya sebelum diluluskan?
+
+
+
+[47:35] Rafizi: Isu keselamatan siber ni, dia bukan isu kebebasan bersuara semata-mata, tapi dia adalah isu keselamatan siber and kelakuan pengguna. Kita boleh bina sistem keselamatan siber yang paling canggih and selamat dalam dunia, tapi kalau pengguna sendiri mudah terpedaya dengan teknik kejuruteraan sosial (social engineering) macam pautan palsu, panggilan palsu, and tawaran palsu, sistem yang paling selamat pun tetap akan bocor juga. Jadi, penyelesaian dia bukan sekadar dengan memperkukuh sistem keselamatan teknologi semata-mata, tapi kita kena ada satu program kesedaran yang lebih menyeluruh untuk educate rakyat tentang risiko and cara-cara untuk melindungi diri mereka daripada penipuan online ni. Dan ya, kita sekarang ni tengah memperkukuh keupayaan penguatkuasaan kita melalui kerjasama rapat antara agensi-agensi keselamatan tempatan, and kita juga permudahkan proses pelaporan aduan melalui sistem aduan digital yang disediakan oleh kementerian.
+
+
+
+[48:20] Syahredzan: Dan dari segi undang-undang pula, kita kena ada imbangan (balance) antara kebebasan dengan keselamatan. Kebebasan tanpa sempadan ni akhirnya akan merugikan semua orang bila berlaku jenayah siber yang tak terkawal. Tugas parlimen ialah untuk pastikan undang-undang yang kita buat tu ada check and balance yang cukup supaya dia tak disalahgunakan oleh pihak berkuasa, tapi pada masa yang sama dia efektif untuk membanteras jenayah. Dan saya rasa RUU keselamatan siber yang kita luluskan tu dah memenuhi kriteria check and balance ni.
+
+
+
+[48:55] Host: Okey, nampaknya jawaban daripada Syah dan YB sangat mantap. Kita harap rakyat di luar sana fahamlah proses sebenar penggubalan undang-undang ni, tak adalah mudah sangat terikut dengan sentimen "rubber stamp" yang dibawa oleh pihak-pihak tertentu.
+
+
+
+[49:10] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes cuaca ekstrem and banjir kilat di beberapa kawasan bandar utama baru-baru ni. Nik, ini pun di bawah portfolio kementerian you juga. Adakah inisiatif tebatan banjir yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi perubahan iklim (climate change) ni?
+
+
+
+[49:40] Rafizi: [gelak] Mengumumkan calon awal ni ada pro and cons dia. Di satu pihak, dia bagi masa kepada calon untuk bina kawasan, untuk kenal pengundi. Tapi di pihak yang lain, dia mendedahkan calon tu kepada scrutiny awal daripada pihak lawan dan rakyat. Kalau calon tu ada "skeleton in the closet", habis lah dia kena lanyak awal-awal sebelum kempen bermula pun. Dan biasanya, parti-parti politik tak suka umum calon awal sebab dia akan cetuskan sabotaj dalaman daripada puak-puak yang tak terpilih jadi calon. Jadi, kalau pembangkang umum calon awal sekarang ni, saya rasa dia lebih kepada nak tunjuk kononnya dia orang dominan dan bersatu, tapi sebenarnya kat dalam dewan tu masing-masing tengah bergasak rebut kerusi. [gelak]
+
+
+
+[50:25] Syahredzan: [gelak] Betul, saya setuju dengan YB Rafizi. Di Bangi ni pun kita dah mula nampak ada orang dah start gantung banner nak jadi calon parlimenlah, calon ADUNlah, padahal pilihan raya lambat lagi. Bagi saya, rakyat sekarang ni dah bijak. Dia orang tak pandang sangat pasal poster ke banner awal ni. Rakyat pandang siapa yang betul-betul turun padang buat kerja masa susah, bukannya yang tiba-tiba muncul masa nak dekat pilihan raya saja dengan poster besar-besar. Jadi, taktik macam ni takkan memberi kesan sangat pun kepada pengundi.
+
+
+
+[50:55] Host: Okey, itu ulasan untuk segmen Peria kita minggu ni. Kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu hala tuju ekonomi digital negara dan masa depan anak muda dalam sektor teknologi.
+
+
+
+[51:10] [music/break]
+
+
+
+[51:25] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, ekonomi digital dan peluang pekerjaan untuk anak muda dalam sektor teknologi. YB, sejak akhir-akhir ni, kita nampak Kementerian Ekonomi sangat rancak bawa masuk pelaburan dalam sektor digital, terutamanya pembinaan pusat data (data centers) oleh gergasi teknologi dunia macam Microsoft, Google, and Nvidia. Tapi ada juga sesetengah pihak yang kritik, dia orang kata data center ni tak create banyak kerja untuk rakyat tempatan, dia cuma guna banyak elektrik dengan air saja. Macam mana YB nak jawab kritikan ni?
+
+
+
+[52:00] Rafizi: Ini satu lagi mitos ekonomi yang kita kena betulkan. Orang yang kata data center tak create kerja ni, dia cuma nampak pekerja yang jaga bangunan data center tu saja. Memanglah kalau setakat jaga server, tukar hard disk, tak pakai ramai orang. Tapi ekosistem di sekeliling data center tu yang create high-value jobs. Contohnya, bila data center ada kat Malaysia, dia akan tarik syarikat-syarikat perisian (software development), AI startup, cloud service providers untuk base dekat Malaysia sebab latency kita rendah and data sovereignty kita terjamin. Ini yang kita panggil ekosistem AI and cloud. Syarikat-syarikat nilah yang akan ambil ribuan software engineers, data scientists, cybersecurity specialists daripada kalangan anak muda tempatan dengan gaji yang sangat lumayan.
+
+
+
+[52:50] Rafizi: Dan pembinaan data center ni juga memacu industri tempatan kita, terutamanya dalam sektor tenaga boleh baharu (renewable energy) and pembinaan berteknologi tinggi. Sebab data center sekarang ni dia orang commit untuk guna green energy. Jadi, dia akan create demand yang sangat besar untuk projek solar and hidro kat Malaysia, yang mana akan create banyak kerja untuk kontraktor and jurutera tempatan kita. Jadi limpahan dia tu merentasi pelbagai sektor, bukan setakat dalam bangunan data center tu saja.
+
+
+
+[53:20] Syahredzan: Dan saya nampak inisiatif ni sangat penting untuk anak muda, terutamanya graduan dalam bidang STEM. Di Bangi ni, kita ada banyak universiti macam UKM, UNITEN, yang hasilkan ramai graduan engineering and IT setiap tahun. Dulu, ramai graduan kita terpaksa pergi ke Singapura atau negara luar untuk cari kerja dalam bidang tech sebab kat Malaysia tak ada banyak peluang. Tapi sekarang, dengan adanya pelaburan-pelaburan besar ni, dia orang boleh terus kerja kat Malaysia dengan gaji yang kompetitif. Ini sangat penting untuk kurangkan masalah brain drain yang kita hadapi selama ni.
+
+
+
+[53:55] Host: Tapi Syah, dari segi kesediaan graduan kita pula macam mana? Adakah silibus universiti kita sekarang ni betul-betul bersedia untuk hasilkan graduan yang mahir dalam AI, cloud computing, and big data? Ataupun kita masih lagi melahirkan graduan yang hanya tahu teori asas IT saja?
+
+
+
+[54:15] Syahredzan: Itu memang satu cabaran yang kita kena akui. Sebab tu sekarang kementerian, terutamanya Kementerian Pendidikan Tinggi dengan Kementerian Ekonomi, tengah bekerjasama rapat dengan universiti untuk kemas kini silibus mereka. Kita juga galakkan universiti untuk bekerjasama secara terus dengan syarikat-syarikat tech ni untuk buat program internship and industrial training. Contohnya, Microsoft dah lancarkan inisiatif AI kognitif untuk latih beratus ribu rakyat Malaysia dalam bidang AI. Jadi, usaha ni kena datang dari kedua-dua belah pihak—kerajaan sediakan peluang, and institusi pendidikan bersedia untuk hasilkan talenta yang bersesuaian.
+
+
+
+[54:55] Rafizi: Dan satu lagi perkara penting yang kementerian tengah buat ialah KL20, iaitu inisiatif untuk jadikan Kuala Lumpur sebagai antara top 20 global startup hubs menjelang tahun 2030. Kita nak create satu persekitaran di mana usahawan muda tempatan boleh start their own tech companies and scale up globally. Kita mudahkan proses pendaftaran syarikat, kita mudahkan akses kepada pendanaan (venture capital), and kita mudahkan urusan visa untuk pakar tech luar masuk dan bekerjasama dengan lokal talent. Kita tak nak anak muda kita sekadar jadi pekerja kepada syarikat multinasional sahaja, tapi kita nak lahirkan lebih banyak usahawan tech tempatan yang boleh bersaing di peringkat global.
+
+
+
+[55:40] Host: Wow, ini satu visi yang sangat besar untuk masa depan negara, and kita harap anak muda di luar sana ambil peluang ni untuk terus improve mereka punya skills, terutamanya dalam bidang teknologi. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[55:55] [music/break]
+
+
+
+[56:10] Host: Kembali lagi dalam segmen Hidup Keras bersama Syahredzan Johan dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana nak balance-kan masa antara uruskan kawasan parlimen yang sangat besar dengan masa untuk keluarga dan diri sendiri?" Syah, parlimen Bangi ni adalah parlimen yang terbesar di Malaysia dari segi jumlah pengundi, dekat 300,000 orang pengundi kalau tak silap saya. Macam mana you manage your time, Syah? Adakah you sempat tidur ke setiap hari? [gelak]
+
+
+
+[56:43] Syahredzan: [gelak] Soalan ni memang hari-hari bini saya tanya juga dekat rumah. [gelak] Sebenarnya, parlimen Bangi ni memang sangat mencabar sebab saiz dia yang sangat besar, and demografi pengundi dia merentasi pelbagai kaum dan status sosioekonomi. Dari kawasan elit macam Country Heights sehinggalah ke kawasan kampung tradisional and perumahan flat kos rendah. Jadi, tuntutan dia tu berbeza-beza setiap hari. Cara saya manage ialah, kita kena ada satu pasukan khidmat dewan yang sangat mantap dan efisien. Kita tak boleh nak buat semua benda sorang-sorang. Kita kena delegasikan tugas kepada pasukan kita, and kita kena guna teknologi untuk manage aduan rakyat. Sekarang ni kita ada sistem aduan digital di Bangi, so rakyat boleh submit aduan online, and pasukan kita boleh terus track and settle-kan aduan tu tanpa saya perlu ada kat situ fizikal setiap masa.
+
+
+
+[57:35] Syahredzan: Tapi ya, dari segi masa untuk keluarga tu memang kena korban sikitlah. Biasanya hari Sabtu Ahad yang sepatutnya hari cuti tu, itulah hari yang paling sibuk untuk turun padang jumpa rakyat. Tapi nasib baik keluarga faham, and saya cuba pastikan setiap hari kalau ada masa lapang sikit, saya akan spend time dengan anak-anak kat rumah. Kena pandai-pandai curi masalah, orang kata.
+
+
+
+[57:55] Rafizi: [gelak] Ini standard lah untuk mana-mana ahli parlimen, terutamanya parlimen yang besar macam Bangi or Pandan. Tapi bagi saya, cabaran utama bukan setakat manage masa, tapi macam mana kita nak manage expectation rakyat. Sebab rakyat ni kadang-kadang dia orang nak ahli parlimen ada kat setiap majlis kenduri kahwin, majlis potong reben, majlis sekolah. Kalau kita tak pergi, dia orang kata kita sombong. Tapi pada masa yang sama, tugas utama ahli parlimen ialah di dewan rakyat, untuk gubal undang-undang, untuk bahas dasar. Jadi, kita kena balance antara tugasan legislatif dengan tugasan khidmat kawasan. Kalau kita habiskan masa 100% dekat kawasan untuk urusan sosial, dewan dewan dewan dewan parlimen kita akan jadi sunyi, and kita tak dapat nak gubal undang-undang yang berkualiti untuk negara.
+
+
+
+[58:45] Host: Betul. Dan kita harap rakyat di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa berhati-hati, and jangan mudah berkongsi pautan atau maklumat sensitif dengan pihak yang tidak dikenali. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu digital connectivity and how we can upgrade our communication infrastructure.
+
+
+
+[59:05] Nik Nazmi: Terima kasih Haziq, terima kasih Rafizi. Kelestarian ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[59:12] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[59:30] [music/outro]
+
+
+
+[1:00:10] Host: Podcast Yang Bakal Menteri, episod ke-62. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Nik Nazmi Nik Ahmad, Menteri Sumber Asli dan Kelestarian Alam. Apa khabar, Nik?
+
+
+
+[1:00:35] Nik Nazmi: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
+
+
+
+[1:00:43] Rafizi: [gelak] Selamat datang Nik. Kita nak bincang pasal satu topik yang sangat penting untuk masa depan digital negara hari ni, iaitu digital connectivity and how we can upgrade our communication infrastructure.
+
+
+
+[1:01:35] Nik Nazmi: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kementerian tidak pernah buat keputusan secara sebarangan. Apa yang kita buat ialah, kita kaji semula pelaksanaan rangkaian 5G untuk pastikan dia lebih cekap and saksama, and pada masa yang sama memperkukuh persaingan sihat di pasaran. Kita juga nak pastikan sebarang keputusan tidak akan bebankan rakyat dari segi tarif perkhidmatan. Jadi, sebarang keputusan mengenai 5G ni bukan dibuat secara terburu-buru seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[1:02:35] Rafizi: Dan kita kena faham juga, dasar infrastruktur komunikasi ni dia sebenarnya sangat penting untuk memacu ekonomi digital negara. Tapi kita juga kena pastikan yang model perniagaan (business model) yang kita guna adalah mampan, and tidak akan merugikan kewangan negara dalam jangka masa panjang. Jadi, ini adalah satu pendekatan yang seimbang yang kita tengah buat sekarang melalui kolaborasi rapat antara Kementerian Komunikasi and Kementerian Ekonomi.
+
+
+
+[1:03:20] Host: Tapi YB, ada juga yang kata jika kita tumbuh sebanyak 5.9%, ia tidak memberi kesan langsung kepada harga barang di pasaran. Adakah ini juga di luar kawalan kementerian?
+
+
+
+[1:03:32] Rafizi: Itu sebabnya kita perkenalkan pelbagai inisiatif untuk mengawal kos sara hidup, contohnya dengan mengekalkan targeted subsidies, rebat tarif elektrik, and bantuan tunai langsung (STR) kepada yang layak. Kita tak nak bebankan rakyat, tapi pada masa yang sama, kita kena pastikan kualiti pertumbuhan kita sentiasa mampan and saksama. Jadi, ini adalah satu pendekatan "win-win" yang kita tengah buat sekarang.
+
+
+
+[1:04:10] Nik Nazmi: Dan pada masa yang sama, kita juga galakkan industri untuk beralih kepada tenaga boleh baharu, contohnya dengan pasang solar panel di bumbung kilang mereka melalui skim NEM (Net Energy Metering) yang disediakan oleh kementerian. Ini bukan saja boleh kurangkan bil elektrik mereka dalam jangka masa panjang, tapi dia juga membantu mengurangkan jejak karbon (carbon footprint) industri tersebut seiring dengan agenda green transition negara.
+
+
+
+[1:04:40] Host: Okey, nampaknya penjelasan daripada Nik dan YB sangat jelas dan berasaskan kepada realiti fiskal negara. Kita harap rakyat tidak mudah terpengaruh dengan spin politik mengenai tarif elektrik ni.
+
+
+
+[1:04:55] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes cuaca ekstrem and banjir kilat di beberapa kawasan bandar utama baru-baru ni. Nik, ini pun di bawah portfolio kementerian you juga. Adakah inisiatif tebatan banjir yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi perubahan iklim (climate change) ni?
+
+
+
+[1:05:25] Nik Nazmi: Isu banjir kilat di bandar ni, dia berkait rapat dengan dua faktor. Satu, faktor perubahan iklim global yang menyebabkan taburan hujan yang sangat lebat dalam tempoh yang singkat. Apa yang kita panggil "cloudburst". Kadang-kadang hujan lebat yang sepatutnya turun dalam masa sebulan, dia turun dalam masa dua jam saja. Jadi, mana-mana sistem perparitan konvensional pun memang takkan mampu nak tampung aliran air yang terlampau banyak dalam masa singkat tu. Faktor kedua ialah faktor pembangunan yang terlampau pesat and tak terkawal di kawasan bandar, yang mana mengurangkan kawasan tadahan air semula jadi.
+
+
+
+[1:06:05] Nik Nazmi: Jadi, penyelesaian dia bukan sekadar dengan bina projek tebatan banjir bernilai berbilion ringgit semata-mata, tapi kita kena ada satu pelan perancangan bandar yang lebih "climate-resilient". Kita kena integrasikan elemen "sponge city" di mana kita bina lebih banyak taman tasik, kawasan hijau, and sistem perparitan mesra alam yang boleh menyerap and menampung limpahan air hujan sebelum dia masuk ke sungai utama. Dan ya, kita sekarang ni tengah kemas kini pelan tindakan iklim negara (national climate action plan) untuk pastikan semua pembangunan masa depan mengambil kira faktor risiko perubahan iklim ni.
+
+
+
+[1:06:45] Rafizi: Dan kita kena ingat juga, kos untuk menangani bencana banjir ni saban tahun adalah sangat besar, bukan setakat kos bina tebatan banjir, tapi kos untuk baiki infrastruktur yang rosak, kos bantuan kepada mangsa banjir. Jadi, pelaburan dalam kelestarian alam and green transition ni sebenarnya adalah satu "insurance policy" untuk mengelakkan kos bencana yang jauh lebih besar di masa depan. Ini yang kita tengah buat melalui pelbagai inisiatif di bawah Kementerian Ekonomi and Kementerian Sumber Asli.
+
+
+
+[1:07:20] Host: Betul. Dan kita harap rakyat di luar sana pun dapat memainkan peranan masing-masing dengan menjaga kebersihan persekitaran and mengurangkan pembuangan sampah ke dalam longkang yang boleh menyumbat sistem perparitan. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu hala tuju peralihan tenaga negara (energy transition).
+
+
+
+[1:07:40] [music/break]
+
+
+
+[1:07:55] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, hala tuju peralihan tenaga negara atau Energy Transition. Nik, kementerian you baru-baru ni dah lancarkan Pelan Hala Tuju Peralihan Tenaga Negara (NETR) bersama Kementerian Ekonomi. Boleh terangkan sikit, apa sebenarnya matlamat utama NETR ni, and macam mana dia boleh bantu create new economic opportunities untuk negara?
+
+
+
+[1:08:25] Nik Nazmi: NETR ni, dia bukan sekadar satu pelan kelestarian alam semata-mata, tapi dia adalah satu pelan pertumbuhan ekonomi baharu (new growth engine) untuk Malaysia. Matlamat utama dia ialah untuk kita capai sasaran pelepasan gas rumah hijau (GHG) bersih-sifar (net-zero) menjelang tahun 2050, and pada masa yang sama, beralih daripada kebergantungan kepada bahan api fosil (coal and gas) kepada tenaga boleh baharu (solar, hydro, and bioenergy). Sasaran kita ialah untuk tingkatkan kapasiti tenaga boleh baharu (RE) kita kepada 70% menjelang tahun 2050.
+
+
+
+[1:09:05] Nik Nazmi: Langkah ni, dia akan unlock pelaburan bernilai ratusan bilion ringgit dalam sektor RE. Kita nampak sekarang ni, banyak syarikat komersial antarabangsa yang nak melabur kat Malaysia, dia orang letak syarat yang kilang atau data center mereka kena run on green energy. Jadi, kalau kita tak ada RE capacity yang cukup, kita takkan dapat tarik pelaburan bernilai tinggi ni. Sebab tu, NETR ni sangat penting untuk mengekalkan daya saing ekonomi kita di peringkat global. Dan pada masa yang sama, dia akan create ribuan green jobs untuk jurutera, teknisi, and usahawan tempatan kita dalam sektor pemasangan solar, smart grid management, and carbon capture technology.
+
+
+
+[1:09:45] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Peralihan tenaga ni, dia adalah "the next big wave" dalam ekonomi global. Siapa yang menguasai teknologi and kapasiti RE sekarang, dia yang akan memimpin ekonomi masa depan. Malaysia ni, kita ada kelebihan semula jadi yang sangat besar. Kita ada pancaran matahari yang konsisten sepanjang tahun untuk solar, kita ada sistem sungai and empangan yang mantap untuk hidro, and kita ada sisa buangan biomass yang banyak daripada sektor kelapa sawit untuk bioenergy. Jadi, kita ada semua bahan mentah yang diperlukan untuk jadi RE hub di rantau ini.
+
+
+
+[1:10:25] Rafizi: Apa yang kita tengah buat sekarang melalui NETR ialah kita mudahkan regulasi untuk galakkan private sector melabur dalam RE. Kita benarkan cross-border RE trading di mana kita boleh eksport tenaga hijau kita ke Singapura or negara jiran, yang mana akan create demand yang sangat besar untuk projek RE kat Malaysia. Kita juga restructure kita punya grid system supaya dia boleh menampung kemasukan RE yang pelbagai and intermiten ni. Jadi, ini adalah satu reformasi struktur ekonomi yang sangat besar yang kita tengah jalankan sekarang.
+
+
+
+[1:11:05] Host: Tapi Nik, ada juga yang tanya, "Adakah peralihan kepada RE ni akan menyebabkan kos bil elektrik rakyat naik dalam jangka masa panjang sebab teknologi RE ni selalu orang kata mahal berbanding arang batu yang murah?"
+
+
+
+[1:11:10] Nik Nazmi: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, teknologi solar sekarang ni kos dia dah turun mendadak, hampir 85% lebih murah berbanding 10 tahun lepas. Sekarang ni, levelized cost of electricity (LCOE) untuk solar adalah antara yang terendah berbanding tenaga konvensional. Sebaliknya, arang batu and gas asli yang kita guna sekarang ni kos dia makin lama makin mahal and tak menentu sebab kita terpaksa import dari luar negara. Jadi, beralih kepada RE ni sebenarnya akan memberikan kestabilan tarif elektrik kepada rakyat dalam jangka masa panjang sebab kita guna sumber tenaga tempatan yang percuma—pancaran matahari and air sungai—tanpa perlu risau pasal geopolitik global and turun naik harga komoditi dunia.
+
+
+
+[1:11:55] Host: Wow, penjelasan yang sangat meyakinkan daripada Nik dan YB. Nampaknya NETR ni memang satu pelan yang sangat strategik untuk masa depan negara, bukan sekadar syok sendiri pasal kelestarian alam semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras.
+
+
+
+[1:12:10] [music/break]
+
+
+
+[1:12:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Nik Nazmi dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak peribadi sikit untuk Nik, iaitu "Macam mana you manage your mental health and stress level bila hari-hari kena hadapi kecaman and tekanan kerja sebagai seorang menteri kabinet?" Nik, you ni antara menteri yang paling muda juga dalam kabinet, and portfolio you ni hari-hari kena hadapi isu kontroversi macam tarif elektrik, isu alam sekitar, pencemaran sungai. Mesti penat and stress kan?
+
+
+
+[1:12:55] Nik Nazmi: [gelak] Sebenarnya, kalau kata tak stress tu menipulah. Kerja menteri ni memang high stress environment sebab kita kena make decisions yang memberi kesan kepada jutaan orang setiap hari, and like I said, everything is under public scrutiny. Dari isu tarif elektrik sehinggalah kepada isu haiwan liar masuk kampung, semuanya orang cari kementerian saya. [gelak] Cara saya manage stress ialah, first, kita kena terima hakikat yang dalam politik ni, kita takkan mampu nak puaskan hati semua orang. Lambat-laun kita kena buat keputusan yang sukar demi kepentingan jangka panjang negara, walaupun keputusan tu tak popular masa tu.
+
+
+
+[1:13:35] Nik Nazmi: Second, saya cuba pastikan saya ada "off-grid time" sikit setiap minggu. Biasanya hari Ahad kalau tak ada program rasmi yang terlampau penting, saya akan spend time dengan anak saya, main bola or just duduk rumah baca buku. Kena ada masa untuk kita disconnect daripada dunia politik and media sosial ni sekejap supaya otak kita boleh rehat. Kalau kita hari-hari menghadap kecaman kat Twitter or TikTok, lama-lama kita pun boleh jadi gila. [gelak]
+
+
+
+[1:14:05] Rafizi: [gelak] Betul, saya setuju sangat dengan Nik. Kunci dia ialah "disconnect". Sebab media sosial zaman sekarang ni dia create satu "alternative reality" yang sangat toksik. Kalau kita ambil serius setiap kecaman and komen negatif kat media sosial tu, kita takkan boleh buat kerja kita. Kita kena bezakan antara kritikan yang membina dengan kecaman politik yang sengaja dibuat untuk jatuhkan moral kita. Bagi saya, as long as we know we are doing the right thing based on data and facts, we just proceed. Biarlah orang nak cakap apa pun sekarang, lambat-laun bila hasil dia keluar, rakyat sendiri yang akan menilai.
+
+
+
+[1:14:45] Host: Betul, itu satu nasihat yang sangat penting bukan sekadar untuk menteri tapi untuk semua rakyat di luar sana yang hari-hari menghadap media sosial ni. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Nik Nazmi Nik Ahmad kerana sudi hadir ke dewan—eh dewan parlimen pula, dewan dewan dewan dewan, podcast kita hari ni. Semoga terus sukses lestarikan alam and transition tenaga negara, Nik.
+
+
+
+[1:15:05] Nik Nazmi: Terima kasih Haziq, terima kasih Rafizi. Kelestarian alam ni tanggungjawab bersama, kita buat yang terbaik.
+
+
+
+[1:15:11] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[1:15:28] [music/outro]
+
+
+
+[1:16:10] Host: Podcast Yang Bakal Menteri, episod ke-63. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Chang Lih Kang, Menteri Sains, Teknologi dan Inovasi. Apa khabar, Lih Kang?
+
+
+
+[1:16:35] Chang Lih Kang: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
+
+
+
+[1:16:45] Rafizi: [gelak] Selamat datang Lih Kang. Kita nak bincang pasal satu topik yang sangat dekat dengan kementerian you hari ni, iaitu startup ecosystem and how we can drive innovation in Malaysia.
+
+
+
+[1:17:35] Chang Lih Kang: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kementerian tidak pernah beli vaksin baru secara sebarangan. Apa yang kita buat ialah, kita pantau rapat perkembangan varian baru COVID-19 and keberkesanan vaksin sedia ada terhadap varian tersebut. Dan ya, kita ada peruntukan untuk beli vaksin baru sekiranya ada keperluan mendesak demi keselamatan rakyat, terutamanya golongan berisiko tinggi. Tapi buat masa sekarang, stok vaksin sedia ada masih lagi mencukupi and kita tak ada cadangan untuk beli vaksin baru secara besar-besaran seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[1:18:20] Rafizi: Dan kita kena faham juga, proses pembelian vaksin ni dia tertakluk kepada rundingan harga and syarat yang sangat ketat di peringkat antarabangsa. Kita tak boleh beli suka-suka hati tanpa ada kelulusan daripada NPRA (National Pharmaceutical Regulatory Agency) and jawatankuasa teknikal yang berkaitan. Jadi, dakwaan kata kita membazir duit rakyat tu sebenarnya sangat tersasar daripada matlamat sebenar kita untuk memastikan keselamatan and kesihatan rakyat sentiasa terjamin.
+
+
+
+[1:18:50] Host: Okey, nampaknya penjelasan daripada Lih Kang dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh with spin politik mengenai isu vaksin ni.
+
+
+
+[1:19:00] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes jenayah siber and penipuan online (scams) yang merugikan rakyat ratusan juta ringgit baru-baru ni. Lih Kang, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi teknologi and keselamatan siber. Adakah inisiatif keselamatan siber yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi ancaman ni?
+
+
+
+[1:19:30] Chang Lih Kang: Isu jenayah siber ni, dia bukan isu teknologi semata-mata, tapi dia adalah isu kesedaran (awareness) and kelakuan pengguna. Kita boleh bina sistem keselamatan siber yang paling canggih and selamat dalam dunia, tapi kalau pengguna sendiri mudah terpedaya dengan teknik kejuruteraan sosial (social engineering) macam pautan palsu, panggilan palsu, and tawaran palsu, sistem yang paling selamat pun tetap akan bocor juga. Jadi, penyelesaian dia bukan sekadar dengan memperkukuh sistem keselamatan teknologi semata-mata, tapi kita kena ada satu program kesedaran yang lebih menyeluruh untuk educate rakyat tentang risiko and cara-cara untuk melindungi diri mereka daripada penipuan online ni.
+
+
+
+[1:20:10] Chang Lih Kang: Dan ya, kita sekarang ni tengah kemas kini undang-undang keselamatan siber negara (cyber security bill) untuk pastikan semua penyedia perkhidmatan digital mematuhi standard keselamatan yang tinggi, and pada masa yang sama kita memperkukuh keupayaan penguatkuasaan kita melalui kerjasama rapat antara agensi-agensi keselamatan siber tempatan and antarabangsa.
+
+
+
+[1:20:30] Rafizi: Dan kita kena ingat juga, kos untuk menangani bencana jenayah siber ni saban tahun adalah sangat besar, bukan setakat kos memulihkan sistem yang rosak, tapi kos kerugian kewangan yang dialami oleh mangsa-mangsa penipuan ni. Jadi, pelaburan dalam keselamatan siber ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi ekonomi digital negara daripada ancaman jangka panjang.
+
+
+
+[1:20:55] Host: Betul. Dan kita harap rakyat di luar sana pun dapat memainkan peranan masing-masing dengan menjaga keselamatan maklumat peribadi mereka, and jangan mudah berkongsi pautan atau maklumat sensitif dengan pihak yang tidak dikenali. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu startup ecosystem and how we can drive innovation in Malaysia.
+
+
+
+[1:21:10] [music/break]
+
+
+
+[1:21:25] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, startup ecosystem and how we can drive innovation in Malaysia. Lih Kang, kementerian you baru-baru ni dah lancarkan pelbagai inisiatif untuk memperkukuh ekosistem startup kat Malaysia, terutamanya dengan pelancaran program MYStartup and KL20. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif-inisiatif ni, and macam mana dia boleh bantu create new economic opportunities untuk negara?
+
+
+
+[1:21:55] Chang Lih Kang: Matlamat utama MYStartup and KL20 ni, dia bukan sekadar nak bantu startup tempatan survive semata-mata, tapi kita nak create satu ekosistem yang kondusif di mana startup tempatan boleh scale up and bersaing di peringkat global. Sasaran kita ialah untuk jadikan Kuala Lumpur sebagai antara top 20 global startup hubs menjelang tahun 2030, and pada masa yang sama melahirkan lebih banyak unicorn tempatan dalam sektor-sektor teknologi bernilai tinggi macam fintech, AI, and green tech.
+
+
+
+[1:22:25] Chang Lih Kang: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, akses kepada pendanaan (access to capital). Kita bekerjasama rapat dengan syarikat-syarikat venture capital antarabangsa untuk bawa masuk dana pelaburan ke Malaysia, and kita permudahkan proses pelaburan untuk startup tempatan. Dua, akses kepada bakat (access to talent). Kita bekerjasama dengan universiti and industri untuk latih lebih banyak lokal talent dalam bidang teknologi, and pada masa yang sama kita permudahkan kemasukan pakar tech luar melalui skim visa yang mesra pelabur. Tiga, akses kepada pasaran (access to market). Kita bantu startup tempatan untuk tembus pasaran antarabangsa melalui pelbagai program sedia ada and hubungan diplomatik dengan negara-negara serantau.
+
+
+
+[1:23:10] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Startup ecosystem ni, dia adalah pemacu utama inovasi and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pertumbuhan KDNK mereka dipacu oleh sumbangan syarikat-syarikat tech yang baru ditubuhkan dalam tempoh 10-20 tahun lepas. Jadi, kalau kita tak ada ekosistem startup yang mantap, kita takkan dapat nak kurangkan kebergantungan kepada industri tradisional and pelaburan asing konvensional. Kita kena lahirkan lebih banyak syarikat tempatan yang inovatif and mampan demi kelangsungan ekonomi negara.
+
+
+
+[1:23:45] Host: Tapi Lih Kang, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada rakyat biasa di luar sana, ataupun dia hanya memberi faedah kepada sekumpulan anak muda tech-savvy dekat Kuala Lumpur sahaja?"
+
+
+
+[1:24:00] Chang Lih Kang: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan startup tempatan ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, bila kita ada startup tempatan yang perform dalam bidang agritech, dia boleh bantu petani and peladang kita tingkatkan hasil pertanian mereka dengan kos yang lebih rendah. Bila kita ada startup dalam bidang edutech, dia boleh bantu mudahkan akses kepada pendidikan berkualiti untuk anak-anak kita di kawasan luar bandar. Jadi, teknologi and inovasi yang dihasilkan oleh startup ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[1:24:45] Host: Wow, penjelasan yang sangat menarik daripada Lih Kang dan YB. Nampaknya ekosistem startup ni memang satu agenda yang sangat strategik untuk masa depan ekonomi negara, bukan sekadar syok sendiri pasal teknologi semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[1:25:10] [music/break]
+
+
+
+[1:25:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Chang Lih Kang dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan ahli-ahli politik daripada pelbagai parti dalam kerajaan perpaduan sekarang ni, terutamanya bila ada perbezaan pendapat and pendekatan?" Lih Kang, you ni antara pimpinan tertinggi dalam PKR, and dalam masa yang sama you kena bekerjasama rapat dengan menteri-menteri daripada BN, GPS, and GRS. Mesti mencabar kan?
+
+
+
+[1:25:55] Chang Lih Kang: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan awkward lah, yelah, sebab selama ni kita berpuluh tahun berlawan and kritik satu sama lain dari luar dewan. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak buat yang terbaik untuk negara and selesaikan masalah rakyat. Beza dia cuma dari segi pendekatan and prioriti sahaja.
+
+
+
+[1:26:25] Chang Lih Kang: Cara saya manage ialah, kita kena amalkan sikap saling menghormati and berlapang dada. Kita kena fokus kepada titik persamaan (common ground) yang kita ada, and pada masa yang sama kita bersedia untuk berkompromi demi kestabilan politik and kelangsungan kerajaan. Dan kita kerap bincang and mesyuarat secara terus dalam kabinet, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional tanpa perlu gaduh-gaduh kat media sosial.
+
+
+
+[1:26:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Lih Kang. Kunci dia ialah fokus kepada titik persamaan, and bersedia untuk berkompromi demi kestabilan. Sebab dalam politik ni, tiada musuh yang abadi, tiada sahabat yang sejati. Yang abadi hanyalah kepentingan rakyat. Dan saya rasa rakyat pun dah mula nampak kestabilan politik yang kita ada sekarang ni membantu melancarkan proses pembuatan dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[1:27:15] Host: Betul. Dan kita harap kestabilan politik ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Chang Lih Kang kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu sains, teknologi, and inovasi negara, Lih Kang.
+
+
+
+[1:27:35] Chang Lih Kang: Terima kasih Haziq, terima kasih Rafizi. Sains, teknologi, and inovasi ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[1:27:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[1:28:00] [music/outro]
+
+
+
+[1:28:40] Host: Podcast Yang Bakal Menteri, episod ke-64. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Steven Sim, Menteri Sumber Manusia. Apa khabar, Steven?
+
+
+
+[1:29:05] Steven Sim: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening kepala sangat pasal dewan parlimen. [gelak]
+
+
+
+[1:29:15] Rafizi: [gelak] Selamat datang Steven. Kita nak bincang pasal satu topik yang sangat penting untuk masa depan pekerja negara hari ni, iaitu progressive wage system and how we can upgrade our labor market.
+
+
+
+[1:29:30] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu gaji minima yang kecoh sikit baru-baru ni bila ada dakwaan kata kerajaan nak naikkan gaji minima secara mendadak and bebankan majikan kecil. Steven, as the minister yang in charge of this, tolong perjelaskan sikit, betul ke kita nak naikkan gaji minima, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[1:30:05] Steven Sim: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kerajaan tidak pernah naikkan gaji minima secara sebarangan. Apa yang kita buat ialah, kita kaji semula kadar gaji minima setiap dua tahun sekali mengikut peruntukan Akta Majlis Perundingan Gaji Negara 2011. Dan dalam proses kajian ni, kita ambil kira pandangan daripada semua pihak termasuk majikan, pekerja, and penganalisis ekonomi. Kita juga tengok keadaan ekonomi semasa and implikasi terhadap daya saing perniagaan kecil (SMEs) sebelum kita buat apa-apa keputusan. Jadi, sebarang keputusan mengenai gaji minima ni bukan dibuat secara terburu-buru seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[1:30:45] Rafizi: Dan kita kena faham juga, dasar gaji minima ni dia cuma menetapkan "floor wage" atau kadar terendah yang dibenarkan oleh undang-undang untuk mengelakkan eksploitasi pekerja. Tapi dalam jangka masa panjang, kita tak boleh bergantung kepada gaji minima sahaja untuk naikkan upah rakyat. Kita kena ada sistem gaji yang lebih mampan and berasaskan produktiviti, contohnya dasar gaji progresif (progressive wage policy) yang kementerian tengah push sekarang ni. Ini adalah penyelesaian jangka panjang yang sebenar untuk naikkan upah pekerja seiring dengan peningkatan kualiti and produktiviti mereka.
+
+
+
+[1:31:25] Host: Tapi Steven, ada juga majikan kecil yang kata kalau gaji minima naik lagi, dia orang terpaksa tutup kedai sebab tak mampu nak tampung kos operasi. Adakah ini juga di luar kawalan kerajaan?
+
+
+
+[1:31:35] Steven Sim: Itu sebabnya kita perkenalkan skim perintis (pilot project) untuk dasar gaji progresif ni di mana kerajaan sediakan insentif kewangan sementara kepada majikan kecil yang menaikkan gaji pekerja mereka mengikut standard progresif yang ditetapkan. Kita tak nak bebankan majikan kecil, tapi pada masa yang sama, kita kena pastikan pekerja kita mendapat upah yang bermaruah seiring dengan peningkatan kos sara hidup. Jadi, ini adalah satu pendekatan "win-win" yang kita tengah buat sekarang melalui kolaborasi rapat antara Kementerian Sumber Manusia and Kementerian Ekonomi.
+
+
+
+[1:32:10] Host: Okey, nampaknya penjelasan daripada Steven dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh dengan spin politik mengenai isu gaji minima ni.
+
+
+
+[1:32:20] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes kemalangan and keselamatan tempat kerja (OSH) baru-baru ni. Steven, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi undang-undang and penguatkuasaan. Adakah inisiatif keselamatan tempat kerja yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi ancaman ni?
+
+
+
+[1:32:50] Steven Sim: Isu keselamatan tempat kerja ni, dia bukan isu undang-undang semata-mata, tapi dia adalah isu budaya (culture) and kelakuan di tempat kerja. Kita boleh buat undang-undang keselamatan yang paling ketat, tapi kalau majikan and pekerja sendiri tidak mematuhi standard keselamatan yang ditetapkan, kemalangan tetap akan berlaku juga. Jadi, penyelesaian dia bukan sekadar dengan memperkukuh sistem penguatkuasaan semata-mata, tapi kita kena ada satu program kesedaran yang lebih menyeluruh untuk educate majikan and pekerja tentang kepentingan menjaga keselamatan di tempat kerja demi kelangsungan hidup mereka.
+
+
+
+[1:33:30] Steven Sim: Dan ya, kita sekarang ni tengah memperkukuh keupayaan penguatkuasaan kita melalui kerjasama rapat antara agensi-agensi keselamatan tempat kerja tempatan and antarabangsa, and kita juga permudahkan proses pelaporan aduan melalui sistem aduan digital yang disediakan oleh kementerian.
+
+
+
+[1:33:45] Rafizi: Dan kita kena ingat juga, kos untuk menangani bencana kemalangan tempat kerja ni saban tahun adalah sangat besar, bukan setakat kos perubatan, tapi kos kehilangan nyawa and keupayaan bekerja yang dialami oleh pekerja. Jadi, pelaburan dalam keselamatan tempat kerja ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi pasaran kerja kita daripada ancaman jangka panjang.
+
+
+
+[1:34:10] Host: Betul. Dan kita harap majikan and pekerja di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa mematuhi standard keselamatan yang ditetapkan, and jangan mudah mengambil ringan tentang aspek keselamatan di tempat kerja. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu progressive wage system and how we can upgrade our labor market.
+
+
+
+[1:34:30] [music/break]
+
+
+
+[1:34:45] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, progressive wage system and how we can upgrade our labor market. Steven, kementerian you baru-baru ni dah lancarkan pelbagai inisiatif untuk memperkukuh pasaran kerja kat Malaysia, terutamanya dengan pelancaran program progressive wage system. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif ni, and macam mana dia boleh bantu create new economic opportunities untuk negara?
+
+
+
+[1:35:15] Steven Sim: Matmat utama progressive wage system ni, dia bukan sekadar nak bantu pekerja tempatan dapat gaji lebih semata-mata, tapi kita nak create satu ekosistem yang kondusif di mana produktiviti pekerja and upah mereka seiring. Sasaran kita ialah untuk tingkatkan kecekapan pengagihan sumber digital kita, and pada masa yang sama membanteras penyelewengan yang boleh merugikan kewangan negara.
+
+
+
+[1:35:45] Steven Sim: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, pengiktirafan kemahiran (skills recognition). Kita bekerjasama rapat dengan industri untuk bangunkan standard kemahiran yang diiktiraf, and kita pastikan pekerja yang meningkatkan kemahiran mereka mendapat upah yang bersesuaian. Dua, insentif majikan (employer incentives). Kita sediakan insentif kewangan sementara kepada majikan yang menaikkan gaji pekerja mereka mengikut standard progresif yang ditetapkan. Tiga, pemantauan pasaran (market monitoring). Kita bekerjasama dengan agensi-agensi berkaitan untuk pantau perkembangan upah and produktiviti di seluruh negara untuk pastikan dasar ini dilaksanakan dengan berkesan.
+
+
+
+[1:36:20] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Progressive wage system ni, dia adalah pemacu utama peningkatan produktiviti and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pertumbuhan KDNK mereka dipacu oleh sumbangan pekerja berkemahiran tinggi yang mendapat upah yang lumayan. Jadi, kalau kita tak ada sistem gaji yang mantap, kita takkan dapat nak kurangkan kebergantungan kepada industri tradisional and pelaburan asing konvensional. Kita kena lahirkan lebih banyak syarikat tempatan yang inovatif and mampan demi kelangsungan ekonomi negara.
+
+
+
+[1:36:45] Host: Tapi Steven, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada rakyat biasa di luar sana, ataupun dia hanya memberi faedah kepada sekumpulan pekerja korporat dekat bandar-bandar besar sahaja?"
+
+
+
+[1:37:00] Steven Sim: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan progressive wage system ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, bila kita ada sistem gaji progresif yang perform dalam bidang pembuatan, dia boleh bantu pekerja kilang kita tingkatkan pendapatan mereka seiring dengan peningkatan kemahiran. Bila kita ada sistem gaji progresif dalam bidang perkhidmatan, dia boleh bantu mudahkan akses kepada peluang pekerjaan bernilai tinggi untuk anak muda tempatan di luar bandar. Jadi, sistem gaji progresif yang kita reka ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[1:37:45] Host: Wow, penjelasan yang sangat menarik daripada Steven dan YB. Nampaknya progressive wage system ni memang satu agenda yang sangat strategik untuk masa depan ekonomi negara, bukan sekadar syok sendiri pasal upah pekerja semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[1:38:10] [music/break]
+
+
+
+[1:38:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Steven Sim dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan kesatuan-kesatuan sekerja (unions) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Steven, you ni Menteri Sumber Manusia, and dalam masa yang sama you kena bekerjasama rapat dengan kesatuan sekerja macam MTUC, MEF, and pelbagai kesatuan sekerja yang lain. Mesti mencabar kan?
+
+
+
+[1:38:55] Steven Sim: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab selama ni kita tahu ada perbezaan pendapat and pendekatan antara kesatuan sekerja dengan majikan. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak pastikan pekerja kita mendapat hak and upah yang adil, and pada masa yang sama memastikan kelangsungan and kemampanan industri.
+
+
+
+[1:39:25] Steven Sim: Cara saya manage ialah, kita kena amalkan sikap saling menghormati and berlapang dada. Kita kena fokus kepada titik persamaan (common ground) yang kita ada, and pada masa yang sama kita bersedia untuk berkompromi demi kestabilan pasaran kerja and kemampanan industri. Dan kita kerap bincang and mesyuarat secara terus, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional tanpa perlu gaduh-gaduh kat media sosial.
+
+
+
+[1:39:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Steven. Kunci dia ialah fokus kepada titik persamaan, and bersedia untuk berkompromi demi kestabilan. Sebab dalam politik ni, tiada musuh yang abadi, tiada sahabat yang sejati. Yang abadi hanyalah kepentingan rakyat. Dan saya rasa rakyat pun dah mula nampak kestabilan pasaran kerja yang kita ada sekarang ni membantu melancarkan proses pembuatan dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[1:40:15] Host: Betul. Dan kita harap kestabilan pasaran kerja ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Steven Sim kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu sumber manusia negara, Steven.
+
+
+
+[1:40:35] Steven Sim: Terima kasih Haziq, terima kasih Rafizi. Sumber manusia ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[1:40:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[1:41:00] [music/outro]
+
+
+
+[1:41:40] Host: Podcast Yang Bakal Menteri, episod ke-65. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Armizan Ali, Menteri Perdagangan Dalam Negeri dan Kos Sara Living—eh Kos Sara Hidup. Apa khabar, Armizan?
+
+
+
+[1:42:05] Armizan Ali: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
+
+
+
+[1:42:15] Rafizi: [gelak] Selamat datang Armizan. Kita nak bincang pasal satu topik yang sangat penting untuk rakyat negara hari ni, iaitu targeted subsidies and how we can control cost of living.
+
+
+
+[1:42:30] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu minyak masak paket yang kecoh sikit baru-baru ni bila ada dakwaan kata kita nak mansuhkan subsidi minyak masak paket secara mendadak and bebankan rakyat biasa. Armizan, as the minister yang in charge of this, tolong perjelaskan sikit, betul ke kita nak mansuhkan subsidi minyak masak paket, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[1:43:05] Armizan Ali: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kerajaan tidak pernah mansuhkan subsidi minyak masak paket. Apa yang kita buat ialah, kita kaji semula pengedaran and penyasaran subsidi minyak masak paket untuk pastikan dia sampai kepada golongan sasaran—iaitu golongan B40 and sebahagian M40, and pada masa yang sama membanteras penyelewengan and penyeludupan minyak masak paket ni ke luar negara. Jadi, sebarang keputusan mengenai minyak masak paket ni bukan dibuat secara terburu-buru seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[1:43:45] Rafizi: Dan kita kena faham juga, dasar subsidi pukal (blanket subsidy) ni dia sebenarnya tidak efisien sebab semua orang menikmati kadar subsidi yang sama—termasuklah golongan kaya, industri, and warga asing. Jadi, penyasaran subsidi (targeted subsidy) ni adalah satu penyelesaian yang lebih adil and mampan untuk pastikan kita boleh menyalurkan bantuan kepada yang memerlukan sahaja, and pada masa yang sama menjimatkan kewangan negara untuk perkara yang lebih penting.
+
+
+
+[1:44:10] Host: Tapi Armizan, ada juga peniaga kecil yang kata kalau subsidi minyak masak paket ni disasarkan, dia orang terpaksa menaikkan harga makanan untuk tampung kos tersebut. Adakah ini juga di luar kawalan kerajaan?
+
+
+
+[1:44:20] Armizan Ali: Itu sebabnya kita sediakan mekanisme yang bersesuaian untuk peniaga kecil, contohnya dengan mengekalkan kelayakan mereka untuk mendapatkan minyak masak bersubsidi melalui skim-skim tertentu yang dikawal ketat oleh kementerian. Kita tak nak bebankan peniaga kecil, tapi pada masa yang sama, kita kena pastikan tiada unsur ketirisan yang boleh merugikan kewangan negara. Jadi, ini adalah satu pendekatan yang seimbang yang kita tengah buat sekarang melalui kolaborasi rapat antara Kementerian Perdagangan Dalam Negeri and Kementerian Ekonomi.
+
+
+
+[1:44:50] Host: Okey, nampaknya penjelasan daripada Armizan dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh dengan spin politik mengenai isu minyak masak paket ni.
+
+
+
+[1:45:00] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes kartel and pencabulan harga (profiteering) di beberapa kawasan pasaran utama baru-baru ni. Armizan, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi undang-undang and penguatkuasaan. Adakah inisiatif anti-kartel yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi ancaman ni?
+
+
+
+[1:45:30] Armizan Ali: Isu kartel and pencabulan harga ni, dia bukan isu harga semata-mata, tapi dia adalah isu ketelusan (transparency) and persaingan sihat di pasaran. Kita boleh hantar penguatkuasa ke setiap pasar raya setiap hari, tapi kalau persaingan di pasaran sendiri tersekat disebabkan oleh pakatan sulit (collusion) antara beberapa pemain industri besar, harga barang tetap akan dimanipulasi juga. Jadi, penyelesaian dia bukan sekadar dengan menghantar penguatkuasa semata-mata, tapi kita kena memperkukuh undang-undang persaingan kita melalui Suruhanjaya Persaingan Malaysia (MyCC) untuk banteras sebarang unsur monopoli or pakatan kartel yang boleh menindas pengguna.
+
+
+
+[1:46:15] Armizan Ali: Dan ya, kita sekarang ni tengah memperkukuh keupayaan penguatkuasaan kita melalui kerjasama rapat antara agensi-agensi penguatkuasaan tempatan and antarabangsa, and kita juga mudahkan proses pelaporan aduan melalui sistem aduan digital yang disediakan oleh kementerian.
+
+
+
+[1:46:30] Rafizi: Dan kita kena ingat juga, kos untuk menangani bencana manipulasi harga ni saban tahun adalah sangat besar, bukan setakat kos bantuan, tapi kos kerugian ekonomi yang dialami oleh pengguna. Jadi, pelaburan dalam MyCC and undang-undang persaingan ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi ekonomi pasaran kita daripada ancaman jangka panjang.
+
+
+
+[1:47:00] Host: Betul. Dan kita harap pengguna di luar sana pun dapat memainkan peranan masing-masing dengan menjadi pengguna yang bijak, and jangan teragak-agak untuk melaporkan sebarang unsur manipulasi harga kepada pihak berkuasa. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu targeted subsidies and how we can control cost of living.
+
+
+
+[1:47:15] [music/break]
+
+
+
+[1:47:30] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, targeted subsidies and how we can control cost of living. Armizan, kementerian you baru-baru ni dah lancarkan pelbagai inisiatif untuk memperkukuh pasaran tempatan kat Malaysia, terutamanya dengan pelancaran program targeted subsidies. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif ni, and macam mana dia boleh bantu create new economic opportunities untuk negara?
+
+
+
+[1:48:00] Armizan Ali: Matlamat utama targeted subsidies ni, dia bukan sekadar nak kurangkan perbelanjaan kerajaan semata-mata, tapi kita nak create satu ekosistem subsidi yang lebih cekap and saksama. Sasaran kita ialah untuk tingkatkan kecekapan pengagihan subsidi kita, and pada masa yang sama membanteras penyelewengan yang boleh merugikan kewangan negara.
+
+
+
+[1:48:30] Armizan Ali: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, pangkalan data yang bersepadu (integrated database). Kita bekerjasama rapat dengan Kementerian Ekonomi untuk gunakan sistem PADU (Pangkalan Data Utama) untuk kenal pasti golongan sasaran yang layak mendapat subsidi dengan lebih tepat. Dua, mekanisme penyaluran yang cekap (efficient delivery mechanism). Kita sediakan pelbagai saluran penyaluran subsidi, contohnya dengan mengekalkan rebat tarif elektrik, rebat petrol, or bantuan tunai langsung kepada yang layak. Tiga, pemantauan penguatkuasaan yang ketat (enforcement and monitoring). Kita bekerjasama dengan agensi-agensi berkaitan untuk pantau perkembangan harga di pasaran untuk pastikan subsidi ini tidak disalahgunakan.
+
+
+
+[1:49:00] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Targeted subsidies ni, dia adalah pemacu utama penjimatan fiskal and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada subsidi mereka disasarkan secara langsung kepada golongan yang memerlukan. Jadi, kalau kita tak ada sistem subsidi yang mantap, kita takkan dapat nak kurangkan kebergantungan kepada subsidi pukal. Kita kena lahirkan ekosistem subsidi yang lebih cekap and saksama demi kelangsungan ekonomi negara.
+
+
+
+[1:49:30] Host: Tapi Armizan, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada rakyat biasa di luar sana, ataupun dia hanya memberi faedah kepada sekumpulan pengusaha industri besar dekat bandar-bandar besar sahaja?"
+
+
+
+[1:49:40] Armizan Ali: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan targeted subsidies ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, bila kita ada sistem subsidi yang cekap, penjimatan fiskal yang diperoleh boleh digunakan oleh kerajaan untuk menaikkan kadar bantuan tunai langsung (STR) kepada golongan B40 and sebahagian M40. Bila kita ada targeted subsidies, dia boleh membantu mengurangkan inflasi di pasaran akibat ketirisan subsidi. Jadi, sistem targeted subsidies yang kita reka ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[1:50:10] Host: Wow, penjelasan yang sangat menarik daripada Armizan dan YB. Nampaknya targeted subsidies ni memang satu agenda yang sangat strategik untuk masa depan ekonomi negara, bukan sekadar syok sendiri pasal subsidi semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[1:50:30] [music/break]
+
+
+
+[1:50:45] Host: Kembali lagi dalam segmen Hidup Keras bersama Armizan Ali dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan persatuan-persatuan pengguna (consumer associations) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Armizan, you ni Menteri Perdagangan Dalam Negeri, and dalam masa yang sama you kena bekerjasama rapat dengan persatuan pengguna macam FOMCA, CAP, and pelbagai persatuan pengguna yang lain. Mesti mencabar kan?
+
+
+
+[1:51:15] Armizan Ali: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab selama ni kita tahu ada perbezaan pendapat and pendekatan antara persatuan pengguna dengan pihak industri. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak pastikan pengguna kita mendapat hak and harga yang adil, and pada masa yang sama memastikan kelangsungan and kemampanan industri.
+
+
+
+[1:51:45] Armizan Ali: Cara saya manage ialah, kita kena amalkan sikap saling menghormati and berlapang dada. Kita kena fokus kepada titik persamaan (common ground) yang kita ada, and pada masa yang sama kita bersedia untuk berkompromi demi kestabilan pasaran tempatan and kemampanan industri. Dan kita kerap bincang and mesyuarat secara terus, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional tanpa perlu gaduh-gaduh kat media sosial.
+
+
+
+[1:51:55] Rafizi
+
+[1:51:55] Rafizi: ...Betul, saya setuju sangat dengan Armizan. Kunci dia ialah fokus kepada titik persamaan, and bersedia untuk berkompromi demi kestabilan. Sebab dalam politik ni, tiada musuh yang abadi, tiada sahabat yang sejati. Yang abadi hanyalah kepentingan rakyat. Dan saya rasa rakyat pun dah mula nampak kestabilan pasaran tempatan yang kita ada sekarang ni membantu melancarkan proses pembuatan dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[1:52:20] Host: Betul. Dan kita harap kestabilan pasaran tempatan ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Armizan Ali kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu perdagangan dalam negeri and kos sara hidup, Armizan.
+
+
+
+[1:52:40] Armizan Ali: Terima kasih Haziq, terima kasih Rafizi. Perdagangan dalam negeri and kos sara hidup ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[1:52:48] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[1:52:58] [music/outro]
+
+
+
+[1:53:00] Host: Podcast Yang Bakal Menteri, episod ke-66. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Fahmi Fadzil, Menteri Komunikasi. Apa khabar, Fahmi?
+
+
+
+[1:53:25] Fahmi Fadzil: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
+
+
+
+[1:53:35] Rafizi: [gelak] Selamat datang Fahmi. Kita nak bincang pasal satu topik yang sangat penting untuk rakyat negara hari ni, iaitu digital economy, social media licensing, and how we can protect our online space.
+
+
+
+[1:53:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu perlesenan media sosial yang kecoh sikit baru-baru ni bila ada dakwaan kata kerajaan nak sekat kebebasan bersuara and bebankan pengguna biasa. Fahmi, as the minister yang in charge of this, tolong perjelaskan sikit, betul ke kita nak sekat kebebasan bersuara, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[1:54:15] Fahmi Fadzil: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kerajaan tidak pernah berniat untuk menyekat kebebasan bersuara. Apa yang kita buat ialah, kita memperkenalkan lesen untuk platform media sosial yang mempunyai pengguna melebihi lapan juta di Malaysia. Ini adalah untuk memastikan platform-platform besar ni mematuhi undang-undang negara, terutamanya dalam membanteras jenayah siber, buli siber, and penipuan dalam talian (scams). Kita nak pastikan ruang digital kita selamat untuk semua orang, terutamanya kanak-kanak and golongan mudah terpengaruh. Jadi, sebarang keputusan mengenai lesen media sosial ni bukan dibuat secara terburu-buru seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[1:54:55] Rafizi: Dan kita kena faham juga, dasar pengawalseliaan (regulation) ni dia sebenarnya standard di seluruh dunia. Negara-negara maju macam UK, Singapura, and Kesatuan Eropah pun dah lama perkenalkan undang-undang yang lebih ketat untuk platform media sosial ni. Jadi, langkah yang kita ambil ni adalah satu penyelesaian yang lebih adil and mampan untuk pastikan kita boleh melindungi rakyat daripada ancaman siber, and pada masa yang sama membina ekonomi digital yang lebih sihat.
+
+
+
+[1:55:20] Host: Tapi Fahmi, ada juga sesetengah pempengaruh (influencers) yang kata kalau lesen ni diperkenalkan, dia orang terpaksa menghadapi kekangan untuk menghasilkan kandungan (content) mereka. Adakah ini juga di luar kawalan kerajaan?
+
+
+
+[1:55:35] Fahmi Fadzil: Itu sebabnya kita tekankan yang lesen ni dikenakan kepada penyedia platform (platform providers) seperti Meta, TikTok, and Google—bukannya kepada pengguna individu or content creators. Kita tak nak bebankan pengguna biasa, tapi pada masa yang sama, kita kena pastikan tiada unsur ketirisan and jenayah siber yang boleh merugikan rakyat. Jadi, ini adalah satu pendekatan yang seimbang yang kita tengah buat sekarang melalui kolaborasi rapat antara Kementerian Komunikasi and Kementerian Ekonomi.
+
+
+
+[1:56:05] Host: Okey, nampaknya penjelasan daripada Fahmi dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh dengan spin politik mengenai isu lesen media sosial ni.
+
+
+
+[1:56:15] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu pelaksanaan rangkaian dwi-5G (5G dual network) baru-baru ni. Fahmi, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi infrastruktur and telekomunikasi. Adakah inisiatif dwi-5G yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi cabaran ni?
+
+
+
+[1:56:45] Fahmi Fadzil: Isu rangkaian dwi-5G ni, dia bukan isu teknologi semata-mata, tapi dia adalah isu persaingan sihat (healthy competition) and liputan yang saksama. Kita boleh kekalkan model rangkaian tunggal (Single Wholesale Network), tapi kalau kita nak pastikan ada redundancy, inovasi, and kualiti perkhidmatan yang lebih baik, kita kena ada rangkaian kedua. Ini yang kita tengah buat sekarang untuk pastikan pasaran telekomunikasi kita lebih dinamik and mampan. Dan ya, kita sekarang ni tengah memperkukuh keupayaan penguatkuasaan kita melalui kerjasama rapat dengan MCMC untuk pastikan harga pakej 5G yang ditawarkan kepada rakyat tetap mampu milik and berkualiti tinggi.
+
+
+
+[1:57:30] Rafizi: Dan kita kena ingat juga, kos untuk membangunkan infrastruktur telekomunikasi ni adalah sangat besar. Jadi, kolaborasi antara sektor awam and swasta melalui dwi-rangkaian ni sebenarnya adalah satu keperluan yang sangat kritikal untuk mempercepatkan liputan 5G ke seluruh negara, terutamanya di kawasan luar bandar, demi kelangsungan ekonomi digital kita.
+
+
+
+[1:58:00] Host: Betul. Dan kita harap rakyat di luar sana pun dapat menikmati manfaat daripada rangkaian 5G ni dengan lebih meluas, and kita dapat meningkatkan kualiti sambungan internet di seluruh negara. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu digital economy and how we can empower local digital talent.
+
+
+
+[1:58:20] [music/break]
+
+
+
+[1:58:35] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, digital economy and how we can empower local digital talent. Fahmi, kementerian you baru-baru ni dah lancarkan pelbagai inisiatif untuk memperkukuh ekonomi digital, terutamanya dalam aspek pembangunan bakat tempatan. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif ni, and macam mana dia boleh bantu create new economic opportunities untuk negara?
+
+
+
+[1:59:05] Fahmi Fadzil: Matlamat utama pembangunan bakat digital ni, dia bukan sekadar nak bagi kemahiran biasa semata-mata, tapi kita nak create satu generasi muda yang mahir dalam AI, coding, data analytics, and cybersecurity. Sasaran kita ialah untuk tingkatkan keupayaan bersaing bakat tempatan kita, and pada masa yang sama menarik lebih banyak syarikat teknologi antarabangsa untuk membuka pusat operasi mereka di Malaysia.
+
+
+
+[1:59:30] Fahmi Fadzil: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, adaptasi teknologi awal (early tech adaptation). Kita bekerjasama rapat dengan Kementerian Pendidikan untuk perkenalkan elemen pengekodan (coding) and pemikiran komputasi di peringkat sekolah lagi. Dua, pensijilan profesional (professional certification). Kita sediakan insentif kewangan and program latihan untuk graduan IT mendapatkan pensijilan global yang diiktiraf oleh industri. Tiga, kolaborasi industri (industry collaboration). Kita bekerjasama dengan syarikat-syarikat teknologi besar seperti Google, Microsoft, and Intel untuk menyediakan program sangkutan (internship) and mentor-mentee kepada lokal talent kita.
+
+
+
+[2:00:00] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Pembangunan bakat digital ni, dia adalah pemacu utama penjimatan kos operasi and peningkatan produktiviti industri jangka panjang. Di negara-negara maju, sebahagian besar daripada pertumbuhan ekonomi mereka dipacu oleh sumbangan pekerja berkemahiran tinggi dalam sektor teknologi. Jadi, kalau kita tak ada sistem pembangunan bakat yang mantap, kita takkan dapat nak kurangkan kebergantungan kepada tenaga kerja asing berkemahiran rendah. Kita kena lahirkan ekosistem bakat yang lebih cekap and saksama demi kelangsungan ekonomi negara.
+
+
+
+[2:00:30] Host: Tapi Fahmi, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada anak muda di luar bandar, ataupun dia hanya memberi faedah kepada sekumpulan budak tech-savvy dekat bandar-bandar besar sahaja?"
+
+
+
+[2:00:45] Fahmi Fadzil: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan pembangunan bakat digital ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, melalui pusat-pusat internet komuniti (Pusat Sebaran Maklumat Nasional - NADI) yang kita sediakan di luar bandar, kita latih anak-anak muda and usahawan mikro luar bandar untuk menggunakan platform digital untuk pasarkan produk mereka. Bila kita ada digital talent yang bagus di luar bandar, dia boleh membantu mengurangkan jurang ekonomi digital (digital divide) antara bandar and luar bandar. Jadi, sistem pembangunan bakat digital yang kita reka ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[2:01:20] Host: Wow, penjelasan yang sangat menarik daripada Fahmi dan YB. Nampaknya pembangunan bakat digital ni memang satu agenda yang sangat strategik untuk masa depan ekonomi negara, bukan sekadar syok sendiri pasal teknologi semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[2:01:40] [music/break]
+
+
+
+[2:01:55] Host: Kembali lagi dalam segmen Hidup Keras bersama Fahmi Fadzil dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan media, terutamanya bila ada perbezaan pendapat and pendekatan tentang isu-isu kebebasan media?" Fahmi, you ni Menteri Komunikasi, and dalam masa yang sama you jurucakap kerajaan. Hari-hari kena berdepan dengan soalan-soalan panas daripada wartawan. Mesti mencabar kan?
+
+
+
+[2:02:25] Fahmi Fadzil: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai bekas pengamal seni and orang yang lama dalam bidang komunikasi, saya sangat faham kepentingan kebebasan media. Tapi bila kita dah duduk dalam kerajaan, kita mula sedar yang kita kena bekerjasama rapat dengan media untuk pastikan maklumat yang betul sampai kepada rakyat, and pada masa yang sama memastikan keselamatan and kestabilan negara terpelihara daripada penyebaran fitnah and berita palsu.
+
+
+
+[2:02:55] Fahmi Fadzil: Cara saya manage ialah, kita kena amalkan sikap saling menghormati, berlapang dada, and sentiasa "accessible" kepada media. Kita kena fokus kepada penyaluran maklumat yang telus and tepat, and pada masa yang sama kita bersedia untuk menerima kritikan demi kestabilan and kemampanan industri media. Dan kita kerap mengadakan sesi taklimat and mesyuarat secara terus dengan editor-editor media, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional.
+
+
+
+[2:03:20] Rafizi: [gelak] Betul, saya setuju sangat dengan Fahmi. Kunci dia ialah fokus kepada ketelusan and komunikasi yang dua hala. Sebab dalam politik ni, komunikasi yang berkesan adalah segalanya. Dan saya rasa rakyat pun dah mula nampak kestabilan komunikasi yang kita ada sekarang ni membantu melancarkan proses penyampaian dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[2:03:45] Host: Betul. Dan kita harap kestabilan komunikasi ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Fahmi Fadzil kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu komunikasi and ekonomi digital negara, Fahmi.
+
+
+
+[2:04:05] Fahmi Fadzil: Terima kasih Haziq, terima kasih Rafizi. Komunikasi and ekonomi digital ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[2:04:12] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[2:04:30] [music/outro]
+
+
+
+[2:08:00] Host: Podcast Yang Bakal Menteri, episod ke-67. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Fadhlina Sidek, Menteri Pendidikan. Apa khabar, Fadhlina?
+
+
+
+[2:08:25] Fadhlina Sidek: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
+
+
+
+[2:08:35] Rafizi: [gelak] Selamat datang Fadhlina. Kita nak bincang pasal satu topik yang sangat penting untuk rakyat negara hari ni, iaitu education quality, STEM enrollment, and how we can upgrade our schools.
+
+
+
+[2:08:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu STEM enrollment atau kemasukan pelajar dalam bidang sains and matematik yang didakwa merosot sikit baru-baru ni. Fadhlina, as the minister yang in charge of this, tolong perjelaskan sikit, betul ke ada kemerosotan, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[2:09:05] Fadhlina Sidek: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kebimbangan rakyat. Hakikatnya, kementerian tidak pernah membiarkan isu STEM ni tanpa sebarang tindakan. Memang kita akui ada cabaran dari segi minat pelajar terhadap subjek sains and matematik, tapi apa yang kita buat ialah, kita memperkasakan kurikulum, melatih guru-guru dengan kaedah pengajaran yang lebih interaktif (pedagogi baharu), and pada masa yang sama bekerjasama dengan Kementerian Ekonomi and MOSTI untuk membina kesedaran tentang kepentingan STEM untuk kerjaya masa depan. Jadi, sebarang usaha penambahbaikan mengenai STEM ni sedang berjalan secara berterusan.
+
+
+
+[2:09:55] Rafizi: Dan kita kena faham juga, dasar pembangunan bakat STEM ni dia sebenarnya sangat kritikal untuk memacu ekonomi nilai tinggi negara. Kita tak boleh nak bina industri teknologi, semikonduktor, or AI kalau kita tak ada bekalan bakat STEM yang cukup dari peringkat sekolah lagi. Jadi, penyelesaian dia bukan sekadar di universiti semata-mata, tapi kita kena semai minat terhadap sains and teknologi ni sejak dari peringkat sekolah rendah lagi.
+
+
+
+[2:10:10] Host: Tapi Fadhlina, ada juga ibu bapa yang kata subjek sains and matematik sekarang ni terlampau susah and membebankan pelajar, sampaikan dia orang hilang minat. Adakah kementerian ada cadangan untuk kaji semula silibus subjek-subjek ni?
+
+
+
+[2:10:20] Fadhlina Sidek: Itu sebabnya kita tengah laksanakan tinjauan and konsultasi awam untuk kurikulum persekolahan 2027. Kita nak pastikan kurikulum kita seimbang—iaitu mempunyai standard yang tinggi seiring dengan keperluan global, tapi pada masa yang sama mesra pelajar and tidak membebankan mereka secara keterlaluan. Kita tak nak bebankan anak-anak kita, tapi pada masa yang sama, kita kena pastikan kualiti pendidikan kita sentiasa relevan. Jadi, ini adalah satu pendekatan yang seimbang yang kita tengah buat sekarang melalui kolaborasi rapat dengan pelbagai pakar pendidikan and pihak industri.
+
+
+
+[2:10:50] Host: Okey, nampaknya penjelasan daripada Fadhlina dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh dengan spekulasi mengenai kualiti pendidikan STEM kita ni.
+
+
+
+[2:11:00] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu peningkatan kes buli di sekolah baru-baru ni. Fadhlina, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi disiplin and kebajikan pelajar. Adakah inisiatif anti-buli yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pendekatan yang lebih tegas untuk banteras gejala ni?
+
+
+
+[2:11:20] Fadhlina Sidek: Isu buli di sekolah ni, dia bukan isu disiplin semata-mata, tapi dia adalah isu ekosistem and nilai (values) yang kita semai dalam kalangan pelajar. Kita boleh buat peraturan sekolah yang paling ketat, tapi kalau kita tidak membina kesedaran and empati dalam jiwa anak-anak kita, kes buli tetap akan berlaku juga secara senyap. Jadi, penyelesaian dia bukan sekadar dengan menghukum semata-mata, tapi kita kena memperkukuh program intervensi kaunseling, membina kerjasama rapat dengan ibu bapa, and pada masa yang sama memastikan guru-guru kita dilatih untuk mengesan tanda-tanda awal gejala buli ni di sekolah.
+
+
+
+[2:12:05] Fadhlina Sidek: Dan ya, kita sekarang ni tengah memperkukuh keupayaan penguatkuasaan garis panduan pengurusan buli di sekolah, and kita juga mudahkan proses pelaporan aduan melalui portal aduan buli sedia ada yang dikawal ketat oleh kementerian untuk pastikan identiti pelapor dilindungi.
+
+
+
+[2:12:35] Rafizi: Dan kita kena ingat juga, kos sosial untuk menangani impak gejala buli ni adalah sangat besar—bukan setakat kos rawatan fizikal, tapi kesan psikologi jangka panjang yang dialami oleh mangsa buli. Jadi, pelaburan dalam pembinaan sahsiah and nilai murni di sekolah ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi masa depan anak-anak kita.
+
+
+
+[2:13:10] Host: Betul. Dan kita harap ibu bapa and guru-guru di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa memantau kelakuan anak-anak, and jangan teragak-agak untuk melaporkan sebarang kes buli kepada pihak berkuasa sekolah. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu education quality and how we can upgrade our schools' infrastructure.
+
+
+
+[2:13:30] [music/break]
+
+
+
+[2:13:45] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, education quality and how we can upgrade our schools' infrastructure. Fadhlina, kementerian you baru-baru ni dah laksanakan pelbagai inisiatif untuk memperkukuh kualiti pendidikan, terutamanya dalam aspek baik pulih sekolah-sekolah daif di seluruh negara. Boleh terangkan sikit, apa sebenarnya perkembangan inisiatif ni, and macam mana dia boleh bantu create better learning environments untuk pelajar?
+
+
+
+[2:14:05] Fadhlina Sidek: Matlamat utama program baik pulih sekolah daif ni, dia bukan sekadar nak cantikkan bangunan semata-mata, tapi kita nak pastikan anak-anak kita mendapat akses kepada persekitaran pembelajaran yang selamat, kondusif, and dilengkapi dengan kemudahan asas yang lengkap. Sasaran kita ialah untuk menaik taraf semua sekolah daif yang telah dikenal pasti di seluruh negara, terutamanya di Sabah and Sarawak, and pada masa yang sama merapatkan jurang kemudahan pendidikan antara bandar and luar bandar.
+
+
+
+[2:14:35] Fadhlina Sidek: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, peruntukan yang disasarkan (targeted funding). Kita bekerjasama rapat dengan Kementerian Ekonomi untuk pastikan peruntukan pembangunan disalurkan terus kepada projek-projek baik pulih sekolah daif yang kritikal. Dua, pelaksanaan yang pantas (fast-track implementation). Kita bekerjasama dengan agensi pelaksana seperti JKR untuk mempercepatkan proses tender and pembinaan sekolah-sekolah ni. Tiga, pemantauan berkala (strict monitoring). Kita tubuhkan jawatankuasa khas untuk pantau perkembangan projek di peringkat tapak untuk pastikan tiada unsur kelewatan or ketirisan.
+
+
+
+[2:15:10] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Pelaburan dalam infrastruktur pendidikan ni, dia adalah pemacu utama peningkatan kualiti modal insan (human capital) and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada peruntukan pembangunan mereka disalurkan untuk memastikan kualiti sekolah and kemudahan pembelajaran sentiasa berada di tahap yang terbaik. Jadi, kalau kita tak ada infrastruktur pendidikan yang mantap, kita takkan dapat nak kurangkan jurang pencapaian pendidikan antara pelajar bandar and luar bandar. Kita kena pastikan semua anak-anak kita mendapat peluang pendidikan yang adil and saksama demi kelangsungan masa depan negara.
+
+
+
+[2:15:45] Host: Tapi Fadhlina, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada sekolah-sekolah di kawasan pedalaman, ataupun dia hanya memberi fokus kepada sekolah-sekolah dekat kawasan bandar sahaja?"
+
+
+
+[2:16:00] Fadhlina Sidek: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, sebahagian besar daripada sekolah daif yang kita naik taraf ni terletak di kawasan pedalaman, terutamanya di Sabah and Sarawak, and juga di kawasan luar bandar semenanjung. Kita nak pastikan anak-anak di pedalaman mendapat kemudahan kelas yang selesa, makmal sains yang lengkap, and kemudahan internet yang stabil seiring dengan agenda digitalisasi pendidikan negara. Jadi, program baik pulih sekolah daif yang kita laksanakan ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian pelajar di kawasan pedalaman, and pada masa yang sama dia membina asas yang kukuh untuk kualiti pendidikan negara di seluruh pelosok tanah air.
+
+
+
+[2:16:45] Host: Wow, penjelasan yang sangat menarik daripada Fadhlina dan YB. Nampaknya pembangunan infrastruktur pendidikan ni memang satu agenda yang sangat strategik untuk masa depan modal insan negara, bukan sekadar syok sendiri pasal kelestarian sekolah semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[2:17:10] [music/break]
+
+
+
+[2:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Fadhlina Sidek dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother of young children, and an MP for Nibong Tebal, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Fadhlina, you ni antara menteri wanita yang sangat menonjol dalam kabinet, and portfolio you ni antara yang terbesar di Malaysia. Mesti mencabar kan?
+
+
+
+[2:17:55] Fadhlina Sidek: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai ibu, tuntutan keluarga tu sentiasa menjadi prioriti utama saya. Tapi bila kita dah diberi amanah sebagai menteri, kita kena bekerjasama rapat dengan semua pihak untuk pastikan tugasan rasmi and kebajikan rakyat di Nibong Tebal sentiasa diutamakan.
+
+
+
+[2:18:25] Fadhlina Sidek: Cara saya manage ialah, kita kena amalkan disiplin masa yang sangat ketat and delegasi tugas yang efisien. Di Nibong Tebal, saya ada satu pasukan khidmat dewan yang sangat membantu and komited untuk jaga kawasan, so apa-apa isu tempatan tu dia orang boleh terus bertindak. Dan di kementerian pula, kita ada pegawai-pegawai yang sangat berdedikasi. Dan yang paling penting, di rumah, saya ada sistem sokongan (support system) daripada suami and keluarga yang sangat memahami. Jadi, tanpa sokongan keluarga, memang mustahil saya boleh buat semua kerja ni secara serentak.
+
+
+
+[2:18:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Fadhlina. Kunci dia ialah sistem sokongan yang kuat and disiplin masa yang ketat. Sebab dalam politik ni, tiada istilah rehat. Tanggungjawab kita adalah 24 jam sehari, 7 hari seminggu. Dan saya rasa rakyat pun dah mula nampak dedikasi and kualiti kerja menteri-menteri wanita kita yang sangat cemerlang dalam memacu dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[2:19:15] Host: Betul. Dan kita harap kestabilan and dedikasi ini dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudari Fadhlina Sidek kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu pendidikan negara, Fadhlina.
+
+
+
+[2:19:35] Fadhlina Sidek: Terima kasih Haziq, terima kasih Rafizi. Pendidikan ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[2:19:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[2:19:58] [music/outro]
+
+
+
+[2:23:00] Host: Podcast Yang Bakal Menteri, episod ke-68. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Hannah Yeoh, Menteri Belia dan Sukan. Apa khabar, Hannah?
+
+
+
+[2:23:25] Hannah Yeoh: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
+
+
+
+[2:23:35] Rafizi: [gelak] Selamat datang Hannah. Kita nak bincang pasal satu topik yang sangat penting untuk masa depan belia negara hari ni, iaitu youth empowerment, sports development, and how we can support our young generation.
+
+
+
+[2:23:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu kebajikan pekerja gig (gig workers) yang kecoh sikit baru-baru ni bila ada dakwaan kata kerajaan tak membela nasib mereka. Hannah, as the minister yang in charge of youth, yang mana majoriti pekerja gig ni adalah kalangan anak muda, tolong perjelaskan sikit, betul ke kita tak bela nasib mereka, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[2:24:15] Hannah Yeoh: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, kerajaan tidak pernah mengabaikan nasib pekerja gig. Apa yang kita buat ialah, kita bekerjasama rapat dengan Kementerian Sumber Manusia untuk menyediakan perlindungan sosial yang lebih baik untuk mereka, contohnya melalui caruman PERKESO (SKSPS) yang sebahagian besarnya disubsidi oleh kerajaan. Kita juga sedang menggubal Akta Pekerja Gig untuk pastikan hak and kebajikan mereka sentiasa dilindungi daripada sebarang unsur eksploitasi oleh syarikat penyedia platform. Jadi, sebarang usaha penambahbaikan mengenai pekerja gig ni sedang giat dijalankan.
+
+
+
+[2:24:45] Rafizi: Dan kita kena faham juga, dasar ekonomi gig ni dia sebenarnya memerlukan pendekatan yang seimbang. Kita tak nak sekat inovasi and fleksibiliti ekonomi gig yang banyak membantu create pendapatan cepat untuk anak muda, tapi pada masa yang sama, kita kena pastikan yang mereka mempunyai perlindungan masa depan yang mampan, contohnya pencen (melalui KWSP) and perlindungan insurans kesihatan. Jadi, ini adalah satu agenda yang kita tengah koordinasi rapat antara Kementerian Ekonomi, KSM, and KBS.
+
+
+
+[2:25:20] Host: Tapi Hannah, ada juga sesetengah anak muda yang kata kerja gig ni tak ada masa depan (career path) yang jelas, sampaikan mereka tersekat dalam kategori low-income group untuk jangka masa panjang. Adakah kementerian ada pelan untuk bantu mereka upgrade skills?
+
+
+
+[2:25:35] Hannah Yeoh: Itu sebabnya kita perkenalkan inisiatif upskilling and reskilling melalui pelbagai program di bawah KBS and Kementerian Ekonomi, contohnya program TVET and digital upskilling. Kita nak bantu anak muda kita yang sekarang ni bekerja gig untuk tingkatkan kemahiran mereka supaya mereka boleh transition kepada pekerjaan formal yang menawarkan gaji yang lebih lumayan and career path yang lebih terjamin dalam jangka masa panjang. Kita tak nak bebankan mereka, tapi kita nak pastikan mereka mempunyai peluang untuk terus maju.
+
+
+
+[2:26:05] Host: Okey, nampaknya penjelasan daripada Hannah dan YB sangat jelas. Kita harap anak muda di luar sana fahamlah komitmen sebenar kerajaan dalam membela nasib pekerja gig ni.
+
+
+
+[2:26:15] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu prestasi and kebajikan atlet negara di peringkat antarabangsa baru-baru ni. Hannah, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi latihan, dana, and pencapaian. Adakah inisiatif sokongan atlet yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk tingkatkan pencapaian sukan negara?
+
+
+
+[2:26:45] Hannah Yeoh: Isu prestasi atlet ni, dia bukan isu dana semata-mata, tapi dia adalah isu keseluruhan ekosistem sukan negara—dari peringkat akar umbi sehinggalah ke peringkat elit. Kita boleh sedia dana berjuta-juta ringgit, tapi kalau kita tidak ada sistem pencarian bakat (talent scouting) yang sistematik and sains sukan yang canggih, kita tetap akan sukar nak bersaing di peringkat olimpik or kejohanan dunia. Jadi, penyelesaian dia bukan sekadar dengan menyediakan dana semata-mata, tapi kita kena memperkukuh program latihan di peringkat sekolah sukan, menyediakan kemudahan latihan bertaraf dunia, and pada masa yang sama memastikan kebajikan and kebajikan mental atlet kita sentiasa dipelihara melalui program sokongan yang komprehensif.
+
+
+
+[2:27:30] Hannah Yeoh: Dan ya, kita sekarang ni tengah memperkukuh keupayaan program "Road to Gold" (RTG) untuk pastikan semua keperluan atlet elit kita dipenuhi, and kita juga mudahkan proses pelaporan kebajikan atlet melalui jawatankuasa khas yang dipantau ketat oleh kementerian.
+
+
+
+[2:27:50] Rafizi: Dan kita kena ingat juga, kos untuk membina ekosistem sukan yang cemerlang ni adalah satu pelaburan jangka panjang yang sangat bernilai—bukan setakat untuk memenangi pingat emas, tapi dia membina kebanggaan negara (national pride) and menyatupadukan rakyat Malaysia yang pelbagai kaum melalui sukan. Jadi, pelaburan dalam pembangunan sukan ni sebenarnya adalah satu keperluan yang sangat kritikal untuk masa depan negara.
+
+
+
+[2:28:10] Host: Betul. Dan kita harap atlet and peminat sukan di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa memberi sokongan padu, and jangan mudah mencerca atlet kita ketika mereka sedang melalui fasa kejatuhan prestasi. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu youth empowerment and how we can support our young generation.
+
+
+
+[2:28:20] [music/break]
+
+
+
+[2:28:35] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, youth empowerment and how we can support our young generation. Hannah, kementerian you baru-baru ni dah laksanakan pelbagai inisiatif untuk memperkukuh pemerkasaan belia, terutamanya dalam aspek penyediaan peluang kepimpinan and kemahiran bernilai tinggi. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif-inisiatif ni, and macam mana dia boleh bantu create better opportunities untuk anak muda?
+
+
+
+[2:29:05] Hannah Yeoh: Matlamat utama pemerkasaan belia ni, dia bukan sekadar nak bagi program santai-santai semata-mata, tapi kita nak create satu generasi muda yang berdaya saing, mempunyai sahsiah yang tinggi, and bersedia untuk memimpin negara di masa depan. Sasaran kita ialah untuk tingkatkan keupayaan bersaing belia tempatan kita, and pada masa yang sama merapatkan jurang kemahiran and ekonomi antara belia bandar and luar bandar.
+
+
+
+[2:29:35] Hannah Yeoh: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, penglibatan demokratik (democratic participation). Kita memperkasakan program Parlimen Belia and program-program advokasi untuk pastikan suara and pandangan anak muda didengari dalam proses pembuatan dasar negara. Dua, kemahiran masa depan (future skills). Kita sediakan pelbagai latihan kemahiran bernilai tinggi melalui program Rakan Muda yang telah diberi nafas baharu, merangkumi elemen digital, inovasi, and kelestarian alam. Tiga, perlindungan sosial belia (youth social protection). Kita bekerjasama dengan agensi-agensi berkaitan untuk pastikan kebajikan and kestabilan ekonomi belia, terutamanya golongan rentan, sentiasa dilindungi melalui pelbagai rangkaian sokongan sosial.
+
+
+
+[2:30:10] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Pemerkasaan belia ni, dia adalah pemacu utama inovasi and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pertumbuhan ekonomi mereka dipacu oleh sumbangan golongan muda yang produktif, inovatif, and berkemahiran tinggi. Jadi, kalau kita tak ada sistem sokongan belia yang mantap, kita takkan dapat nak kurangkan kebergantungan kepada tenaga kerja asing berkemahiran rendah. Kita kena pastikan semua anak muda kita mendapat peluang yang adil and saksama untuk terus maju demi kelangsungan masa depan negara.
+
+
+
+[2:30:45] Host: Tapi Hannah, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada belia di kawasan pedalaman, ataupun dia hanya memberi fokus kepada belia dekat kawasan bandar sahaja?"
+
+
+
+[2:31:00] Hannah Yeoh: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, sebahagian besar daripada program Rakan Muda and latihan kemahiran yang kita laksanakan ni menyasarkan belia di kawasan pedalaman and luar bandar, terutamanya di Sabah and Sarawak. Kita nak pastikan anak muda di pedalaman mendapat akses kepada latihan digital, kepimpinan, and keusahawanan yang berkualiti seiring dengan agenda digitalisasi and inklusiviti ekonomi negara. Jadi, program pemerkasaan belia yang kita laksanakan ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian anak muda di seluruh pelosok tanah air, and pada masa yang sama dia membina asas yang kukuh untuk masa depan negara.
+
+
+
+[2:31:45] Host: Wow, penjelasan yang sangat menarik daripada Hannah dan YB. Nampaknya pemerkasaan belia ni memang satu agenda yang sangat strategik untuk masa depan modal insan negara, bukan sekadar syok sendiri pasal aktiviti belia semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[2:32:10] [music/break]
+
+
+
+[2:32:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Hannah Yeoh dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother, and an MP for Segambut, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Hannah, you ni antara menteri wanita yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan belia and peminat sukan. Mesti penat kan?
+
+
+
+[2:32:55] Hannah Yeoh: [gelak] Sebenarnya, penat tu memanglah penat, tapi bagi saya, ia adalah satu kepuasan bila kita nampak inisiatif yang kita buat tu memberi impak positif kepada anak muda and peminat sukan. Cara saya manage ialah, kita kena amalkan disiplin masa yang sangat ketat and delegasi tugas yang efisien. Di Segambut, saya ada satu pasukan khidmat dewan yang sangat membantu and komited, so apa-apa isu tempatan tu dia orang boleh terus bertindak. Dan di kementerian pula, kita ada pegawai-pegawai yang sangat berdedikasi. Dan yang paling penting, di rumah, saya ada sistem sokongan (support system) daripada keluarga yang sangat memahami. Jadi, tanpa sokongan keluarga, memang mustahil saya boleh buat semua kerja ni secara serentak.
+
+
+
+[2:33:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Hannah. Kunci dia ialah sistem sokongan yang kuat and disiplin masa yang ketat. Sebab dalam politik ni, tiada istilah rehat. Tanggungjawab kita adalah 24 jam sehari, 7 hari seminggu. Dan saya rasa rakyat pun dah mula nampak dedikasi and kualiti kerja menteri-menteri wanita kita yang sangat cemerlang dalam memacu dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[2:34:15] Host: Betul. Dan kita harap kestabilan and dedikasi ini dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudari Hannah Yeoh kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu belia and sukan negara, Hannah.
+
+
+
+[2:34:35] Hannah Yeoh: Terima kasih Haziq, terima kasih Rafizi. Belia and sukan ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[2:34:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[2:34:58] [music/outro]
+
+
+
+[2:38:00] Host: Podcast Yang Bakal Menteri, episod ke-69. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Dr. Zaliha Mustafa, Menteri di Jabatan Perdana Menteri (Wilayah Persekutuan). Apa khabar, Dr. Zaliha?
+
+
+
+[2:38:25] Dr. Zaliha: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
+
+
+
+[2:38:35] Rafizi: [gelak] Selamat datang Dr. Zaliha. Kita nak bincang pasal satu topik yang sangat penting untuk masa depan wilayah-wilayah persekutuan negara hari ni, iaitu urban development, poverty eradication, and how we can upgrade our cities.
+
+
+
+[2:38:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu kemiskinan tegar di kawasan bandar (urban poverty) yang didakwa masih lagi tinggi baru-baru ni. Dr. Zaliha, as the minister yang in charge of Wilayah Persekutuan, tolong perjelaskan sikit, betul ke ada peningkatan, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[2:39:05] Dr. Zaliha: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kebimbangan rakyat. Hakikatnya, kementerian tidak pernah membiarkan isu kemiskinan tegar ni tanpa sebarang tindakan. Memang kita akui ada cabaran dari segi kos sara hidup yang tinggi di bandar, tapi apa yang kita buat ialah, kita memperkasakan pangkalan data melalui PADU, bekerjasama dengan Kementerian Ekonomi untuk menyasarkan bantuan secara langsung, and pada masa yang sama laksanakan pelbagai inisiatif keusahawanan mikro untuk membantu mereka menjana pendapatan tambahan. Jadi, sebarang usaha pembasmian kemiskinan tegar ni sedang giat dijalankan.
+
+
+
+[2:39:45] Rafizi: Dan kita kena faham juga, dasar pembasmian kemiskinan tegar ni dia sebenarnya memerlukan pendekatan yang lebih saksama and tersasar. Kita tak boleh nak selesaikan masalah kemiskinan tegar kalau kita tidak ada data yang tepat mengenai kedudukan sosioekonomi mereka. Sebab tu, PADU ni sangat penting untuk membantu kita menyalurkan bantuan terus kepada yang betul-betul memerlukan, tanpa ada unsur ketirisan or pertindihan bantuan.
+
+
+
+[2:40:10] Host: Tapi Dr. Zaliha, ada juga penduduk flat kos rendah (PPR) yang kata kemudahan di kawasan mereka terlampau daif and tidak terurus, sampaikan menjejaskan kualiti hidup mereka harian. Adakah kementerian ada pelan untuk bantu naik taraf kemudahan-kemudahan ni?
+
+
+
+[2:40:20] Dr. Zaliha: Itu sebabnya kita perkenalkan program baik pulih and naik taraf kemudahan PPR di Wilayah Persekutuan, contohnya dengan menaik taraf lif, membaiki sistem perparitan, and mengecat semula bangunan. Kita nak pastikan penduduk PPR mendapat persekitaran perumahan yang selamat, bersih, and mampan seiring dengan agenda urban renewal negara. Kita tak nak bebankan mereka, tapi kita nak pastikan mereka mempunyai kualiti hidup yang lebih baik.
+
+
+
+[2:40:50] Host: Okey, nampaknya penjelasan daripada Dr. Zaliha dan YB sangat jelas. Kita harap rakyat di luar sana fahamlah komitmen sebenar kerajaan dalam membela nasib penduduk PPR and membasmi kemiskinan tegar ni.
+
+
+
+[2:41:00] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu prestasi and kelestarian alam sekitar di Wilayah Persekutuan baru-baru ni. Dr. Zaliha, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi kebersihan, penghijauan bandar, and sistem saliran. Adakah inisiatif kelestarian bandar yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pelan jangka panjang yang lebih holistik untuk hadapi ancaman banjir kilat di bandar?
+
+
+
+[2:41:20] Dr. Zaliha: Isu kelestarian bandar ni, dia bukan isu kebersihan semata-mata, tapi dia adalah isu perancangan bandar yang lebih mampan (sustainable urban planning) and berdaya tahan (resilient). Kita boleh hantar kontraktor pembersihan setiap hari, tapi kalau pembangunan di bandar tidak dikawal ketat, and sistem saliran tidak dinaik taraf untuk menampung taburan hujan lebat akibat perubahan iklim, banjir kilat tetap akan berlaku juga. Jadi, penyelesaian dia bukan sekadar dengan membersihkan longkang semata-mata, tapi kita kena memperkasakan undang-undang perancangan bandar melalui DBKL, menyediakan lebih banyak kawasan tadahan air semula jadi (tasik and taman hijau), and pada masa yang sama memastikan sistem saliran kita sentiasa dinaik taraf seiring dengan pembangunan.
+
+
+
+[2:42:05] Dr. Zaliha: Dan ya, kita sekarang ni tengah memperkukuh keupayaan program tebatan banjir di Kuala Lumpur, and kita juga mudahkan proses pelaporan aduan melalui sistem aduan digital yang dipantau ketat oleh kementerian.
+
+
+
+[2:42:35] Rafizi: Dan kita kena ingat juga, kos untuk menangani bencana banjir kilat di bandar ni saban tahun adalah sangat besar—bukan setakat kos memulihkan kerosakan, tapi kos kehilangan produktiviti ekonomi yang dialami oleh perniagaan and rakyat. Jadi, pelaburan dalam kelestarian bandar and green transition ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi masa depan wilayah persekutuan kita daripada ancaman jangka panjang.
+
+
+
+[2:43:10] Host: Betul. Dan kita harap warga kota di luar sana pun dapat memainkan peranan masing-masing dengan menjaga kebersihan persekitaran, and jangan teragak-agak untuk melaporkan sebarang unsur pembuangan sampah haram or kerosakan infrastruktur kepada pihak berkuasa. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu urban development and how we can upgrade our cities.
+
+
+
+[2:43:30] [music/break]
+
+
+
+[2:43:45] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, urban development and how we can upgrade our cities. Dr. Zaliha, kementerian you baru-baru ni dah laksanakan pelbagai inisiatif untuk memperkukuh pembangunan bandar, terutamanya dalam aspek pembinaan bandar pintar (smart cities) and kelestarian alam. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif-inisiatif ni, and macam mana dia boleh bantu create better environments untuk warga kota?
+
+
+
+[2:44:05] Dr. Zaliha: Matlamat utama pembangunan bandar pintar ni, dia bukan sekadar nak guna teknologi canggih semata-mata, tapi kita nak create satu persekitaran bandar yang lebih efisien, selamat, and mampan untuk didiami oleh semua lapisan masyarakat. Sasaran kita ialah untuk tingkatkan kecekapan pengurusan bandar kita, and pada masa yang sama mengurangkan kos operasi and jejak karbon wilayah persekutuan.
+
+
+
+[2:44:35] Dr. Zaliha: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, pengangkutan awam bersepadu (integrated public transport). Kita bekerjasama rapat dengan Kementerian Pengangkutan untuk pastikan sistem pengangkutan awam kita lebih bersambung (connected) and mudah diakses, and pada masa yang sama mengurangkan kesesakan jalan raya. Dua, pengurusan sisa pintar (smart waste management). Kita perkenalkan sistem kitar semula pintar, sistem pelupusan sisa mesra alam, and program penjimatan tenaga di semua bangunan awam. Tiga, keselamatan pintar (smart safety). Kita pasang lebih banyak kamera litar tertutup (CCTV) yang dilengkapi dengan teknologi kecerdasan buatan (AI) di kawasan-kawasan berisiko untuk pastikan keselamatan warga kota sentiasa terjamin.
+
+
+
+[2:45:10] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Pembangunan bandar pintar ni, dia adalah pemacu utama penjimatan kos and peningkatan produktiviti ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pertumbuhan ekonomi mereka dipacu oleh kecekapan pengurusan bandar-bandar utama mereka. Jadi, kalau kita tak ada sistem pengurusan bandar yang mantap, kita takkan dapat nak kurangkan kos hidup and meningkatkan daya saing wilayah persekutuan kita. Kita kena pastikan semua wilayah persekutuan kita diuruskan secara cekap and mampan demi kelangsungan masa depan negara.
+
+
+
+[2:45:45] Host: Tapi Dr. Zaliha, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada penduduk di kawasan pinggir bandar, ataupun dia hanya memberi fokus kepada kawasan elit dekat pusat bandar sahaja?"
+
+
+
+[2:46:00] Dr. Zaliha: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, sebahagian besar daripada projek bandar pintar and kelestarian yang kita laksanakan ni menyasarkan kawasan-kawasan perumahan awam and pinggir bandar, terutamanya di kawasan PPR and perkampungan tradisional di Kuala Lumpur. Kita nak pastikan semua penduduk kota mendapat akses kepada kemudahan digital, pengangkutan yang selesa, and persekitaran yang hijau seiring dengan agenda inklusiviti and kelestarian wilayah persekutuan negara. Jadi, program pembangunan bandar pintar yang kita laksanakan ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian warga kota di seluruh pelosok wilayah persekutuan, and pada masa yang sama dia membina asas yang kukuh untuk masa depan negara.
+
+
+
+[2:46:45] Host: Wow, penjelasan yang sangat menarik daripada Dr. Zaliha dan YB. Nampaknya pembangunan bandar pintar ni memang satu agenda yang sangat strategik untuk masa depan modal insan negara, bukan sekadar syok sendiri pasal teknologi semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[2:47:10] [music/break]
+
+
+
+[2:47:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Dr. Zaliha Mustafa dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a doctor, and an MP, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Dr. Zaliha, you ni antara menteri wanita yang sangat komited, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan warga kota and pemegang taruh. Mesti mencabar kan?
+
+
+
+[2:47:55] Dr. Zaliha: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai doktor, cara berfikir saya lebih kepada diagnosis and intervensi yang saintifik. Tapi bila kita dah duduk dalam politik, kita mula sedar yang kita kena bekerjasama dengan semua pihak untuk pastikan maklumat yang betul sampai kepada rakyat, and pada masa yang sama memastikan keselamatan and kestabilan negara terpelihara.
+
+
+
+[2:48:25] Dr. Zaliha: Cara saya manage ialah, kita kena amalkan sikap saling menghormati, berlapang dada, and sentiasa "accessible" kepada rakyat. Kita kena fokus kepada penyaluran bantuan yang telus and tepat, and pada masa yang sama kita bersedia untuk menerima kritikan demi kestabilan and kemampanan wilayah persekutuan. Dan kita kerap mengadakan sesi perjumpaan and mesyuarat secara terus dengan editor-editor media and NGO, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional.
+
+
+
+[2:48:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Dr. Zaliha. Kunci dia ialah fokus kepada ketelusan and komunikasi yang dua hala. Sebab dalam politik ni, komunikasi yang berkesan adalah segalanya. Dan saya rasa rakyat pun dah mula nampak kestabilan komunikasi yang kita ada sekarang ni membantu melancarkan proses penyampaian dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[2:49:15] Host: Betul. Dan kita harap kestabilan komunikasi ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudari Dr. Zaliha Mustafa kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu pembangunan wilayah persekutuan negara, Dr. Zaliha.
+
+
+
+[2:49:35] Dr. Zaliha: Terima kasih Haziq, terima kasih Rafizi. Pembangunan wilayah persekutuan ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[2:49:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[2:49:58] [music/outro]
+
+
+
+[2:53:00] Host: Podcast Yang Bakal Menteri, episod ke-70. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Wong Chen, Ahli Parlimen Subang. Apa khabar, Wong Chen?
+
+
+
+[2:53:25] Wong Chen: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
+
+
+
+[2:53:35] Rafizi: [gelak] Selamat datang Wong Chen. Kita nak bincang pasal satu topik yang sangat dekat dengan kepakaran you hari ni, iaitu fiscal policy, tax reforms, and how we can manage our national debt.
+
+
+
+[2:53:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu perbahasan belanjawan negara yang kecoh sikit baru-baru ni bila ada dakwaan kata belanjawan kali ni bebankan rakyat and tak saksama. Wong Chen, as an MP yang sangat aktif dalam Jawatankuasa Pilihan Khas Kewangan, tolong perjelaskan sikit, betul ke belanjawan kita bebankan rakyat, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[2:54:15] Wong Chen: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu teknikal sengaja di-spin untuk cetuskan kemarahan rakyat. Hakikatnya, belanjawan kita sentiasa dirancang dengan penuh tanggungjawab. Apa yang kita buat ialah, kita seimbangkan antara keperluan untuk kurangkan defisit fiskal negara dengan keperluan untuk menyalurkan bantuan kepada golongan sasaran (B40 and sebahagian M40). Kita juga nak pastikan sebarang keputusan cukai baru tidak akan bebankan rakyat biasa, tetapi pada masa yang sama memperkukuh hasil negara untuk pembangunan jangka panjang. Jadi, sebarang keputusan mengenai belanjawan ni bukan dibuat secara sebarangan seperti yang didakwa oleh sesetengah pihak.
+
+
+
+[2:54:45] Rafizi: Dan kita kena faham juga, dasar fiskal (fiscal policy) ni dia sebenarnya sangat penting untuk memastikan kestabilan ekonomi negara dalam jangka masa panjang. Kita tak boleh terus bergantung kepada hutang untuk membiayai pembangunan negara. Jadi, pembaharuan fiskal (fiscal consolidation) yang kita tengah buat sekarang ni—termasuklah penyasaran subsidi and perluasan asas cukai secara berperingkat—adalah satu keperluan yang sangat kritikal untuk melindungi ekonomi kita daripada ancaman krisis kewangan global.
+
+
+
+[2:55:20] Host: Tapi Wong Chen, ada juga yang kata jika kita kurangkan defisit fiskal secara mendadak, dia akan menjejaskan pertumbuhan ekonomi (KDNK) negara. Adakah ini juga di luar kawalan parlimen?
+
+
+
+[2:55:35] Wong Chen: Itu sebabnya kita tekankan yang pengurangan defisit ni dilakukan secara berperingkat (gradual consolidation). Kita tak nak buat secara terkejut yang boleh merosatkan pasaran, tapi kita nak pastikan penjimatan yang diperoleh disalurkan semula kepada projek-projek pembangunan bernilai tinggi yang boleh memacu pertumbuhan ekonomi negara. Jadi, ini adalah satu pendekatan yang seimbang yang kita tengah buat sekarang melalui kolaborasi rapat antara parlimen, kementerian, and pihak industri.
+
+
+
+[2:56:05] Host: Okey, nampaknya penjelasan daripada Wong Chen dan YB sangat jelas. Kita harap rakyat tidak mudah terpengaruh dengan spin politik mengenai isu belanjawan negara ni.
+
+
+
+[2:56:15] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu prestasi and keberkesanan Jawatankuasa Pilihan Khas Parlimen (PSC) baru-baru ni. Wong Chen, ini pun di bawah bidang kepakaran you juga, terutamanya dari segi semak and imbang (check and balance) tindakan kerajaan. Adakah PSC yang kita ada sekarang ni betul-betul efektif, ataupun kita kena ada satu pendekatan yang lebih tegas untuk memperkukuh peranan parlimen?
+
+
+
+[2:56:45] Wong Chen: Isu keberkesanan PSC ni, dia bukan isu jawatankuasa semata-mata, tapi dia adalah isu ketelusan (transparency) and komitmen ahli-ahli parlimen sendiri. Kita boleh tubuhkan berpuluh-puluh jawatankuasa khas, tapi kalau kita tidak ada akses kepada maklumat yang tepat daripada kementerian, and ahli-ahli parlimen sendiri tidak komited untuk meneliti setiap isu secara mendalam, PSC tetap akan kurang efektif juga. Jadi, penyelesaian dia bukan sekadar dengan menubuhkan jawatankuasa semata-mata, tapi kita kena memperkukuh undang-undang parlimen kita untuk pastikan PSC ada kuasa memanggil saksi and dokumen, and pada masa yang sama memastikan laporan PSC dibahaskan di dewan utama.
+
+
+
+[2:57:30] Wong Chen: Dan ya, kita sekarang ni tengah memperkukuh keupayaan PSC melalui kerjasama rapat dengan pihak pengurusan parlimen, and kita juga mudahkan proses pelaporan maklumat kepada rakyat melalui penerbitan laporan secara telus di portal rasmi parlimen.
+
+
+
+[2:57:50] Rafizi: Dan kita kena ingat juga, kos untuk membiayai PSC ni sebenarnya adalah satu pelaburan yang sangat bernilai untuk pastikan tiada ketirisan or pembaziran dalam pelaksanaan dasar kerajaan. Jadi, pelaburan dalam PSC and pembaharuan parlimen ni sebenarnya adalah satu keperluan yang sangat kritikal untuk masa depan negara.
+
+
+
+[2:58:10] Host: Betul. Dan kita harap ahli-ahli parlimen di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa memberi komitmen yang tinggi kepada PSC, and jangan teragak-agak untuk melaporkan sebarang unsur penyelewengan demi masa depan negara. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu fiscal policy and how we can manage our national debt.
+
+
+
+[2:58:20] [music/break]
+
+
+
+[2:58:35] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, fiscal policy and how we can manage our national debt. Wong Chen, you baru-baru ni dah laksanakan pelbagai inisiatif untuk memperkukuh pembaharuan parlimen, terutamanya dalam aspek semak and imbang dasar kewangan negara. Boleh terangkan sikit, apa sebenarnya matlamat utama inisiatif-inisiatif ni, and macam mana dia boleh bantu create better financial management untuk negara?
+
+
+
+[2:59:05] Wong Chen: Matlamat utama pembaharuan dasar kewangan ni, dia bukan sekadar nak kurangkan perbelanjaan kerajaan semata-mata, tapi kita nak create satu sistem pengurusan kewangan yang lebih telus, efisien, and saksama. Sasaran kita ialah untuk tingkatkan kecekapan pengagihan hasil negara, and pada masa yang sama membanteras penyelewengan yang boleh merugikan kewangan negara.
+
+
+
+[2:59:35] Wong Chen: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, akauntabiliti parlimen (parliamentary accountability). Kita memperkasakan peranan PSC untuk pastikan semua perbelanjaan kementerian dipantau secara ketat and telus. Dua, reformasi cukai yang adil (fair tax reforms). Kita kaji semula pelaksanaan pelbagai jenis cukai untuk pastikan dia lebih progresif, and tidak membebankan golongan berpendapatan rendah. Tiga, pengurusan hutang yang mampan (sustainable debt management). Kita bekerjasama dengan Kementerian Kewangan and Bank Negara untuk pastikan kadar hutang negara sentiasa berada di tahap yang terkawal and mampan seiring dengan kapasiti ekonomi kita.
+
+
+
+[3:00:10] Rafizi: Dan saya nak tambah sikit dari perspektif ekonomi. Pengurusan dasar kewangan yang telus ni, dia adalah pemacu utama keyakinan pelabur and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pelaburan asing ditarik masuk disebabkan oleh keyakinan mereka terhadap kestabilan and ketelusan sistem kewangan negara tersebut. Jadi, kalau kita tak ada sistem kewangan yang mantap, kita takkan dapat nak kurangkan kos hidup and meningkatkan daya saing ekonomi kita. Kita kena pastikan semua perbelanjaan negara diuruskan secara cekap and mampan demi kelangsungan masa depan negara.
+
+
+
+[3:00:45] Host: Tapi Wong Chen, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada rakyat biasa di luar sana, ataupun dia hanya memberi faedah kepada sekumpulan penganalisis kewangan dekat bandar-bandar besar sahaja?"
+
+
+
+[3:01:00] Wong Chen: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan pembaharuan dasar kewangan ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, bila kita ada sistem kewangan yang telus, penjimatan yang diperoleh daripada pembasmian ketirisan boleh digunakan oleh kerajaan untuk menaikkan kadar bantuan tunai langsung (STR) kepada golongan B40 and sebahagian M40. Bila kita ada pengurusan hutang yang mampan, dia boleh membantu mengurangkan risiko inflasi and kejatuhan nilai ringgit di pasaran. Jadi, sistem pengurusan kewangan yang kita reka ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[3:01:45] Host: Wow, penjelasan yang sangat menarik daripada Wong Chen dan YB. Nampaknya pembangunan dasar kewangan ni memang satu agenda yang sangat strategik untuk masa depan modal insan negara, bukan sekadar syok sendiri pasal cukai semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[3:02:10] [music/break]
+
+
+
+[3:02:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Wong Chen dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a backbencher, a financial analyst, and an MP for Subang, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Wong Chen, you ni antara backbencher yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan rakyat and pemegang taruh. Mesti mencabar kan?
+
+
+
+[3:02:55] Wong Chen: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai backbencher, kita kena bekerjasama dengan semua pihak untuk pastikan dasar-dasar kerajaan dipantau secara ketat and telus, and pada masa yang sama memastikan kebajikan and kebajikan mental rakyat di Subang sentiasa diutamakan.
+
+
+
+[3:03:25] Wong Chen: Cara saya manage ialah, kita kena amalkan sikap saling menghormati, berlapang dada, and sentiasa "accessible" kepada rakyat. Kita kena fokus kepada penyaluran maklumat yang telus and tepat, and pada masa yang sama kita bersedia untuk menerima kritikan demi kestabilan and kemampanan parlimen. Dan kita kerap mengadakan sesi perjumpaan and mesyuarat secara terus dengan editor-editor media and NGO, so apa-apa perbezaan pendapat tu kita boleh selesaikan secara profesional.
+
+
+
+[3:03:45] Rafizi: [gelak] Betul, saya setuju sangat dengan Wong Chen. Kunci dia ialah fokus kepada ketelusan and komunikasi yang dua hala. Sebab dalam politik ni, komunikasi yang berkesan adalah segalanya. Dan saya rasa rakyat pun dah mula nampak kestabilan komunikasi yang kita ada sekarang ni membantu melancarkan proses penyampaian dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[3:04:15] Host: Betul. Dan kita harap kestabilan komunikasi ni dapat dikekalkan demi masa depan negara. Okey, nampaknya masa pun dah tamat untuk episod kali ini. Terima kasih kepada saudara Wong Chen kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu pembangunan parlimen negara, Wong Chen.
+
+
+
+[3:04:35] Wong Chen: Terima kasih Haziq, terima kasih Rafizi. Pembangunan parlimen ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[3:04:42] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[3:04:58] [music/outro]
+
+
+
+[3:08:00] Host: Podcast Yang Bakal Menteri, episod ke-71. Wah, tak sangka kita dah sampai ke episod ke-71, YB. Ini adalah satu pencapaian yang sangat luar biasa untuk kita, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada sesi perbincangan khas, iaitu sesi wrap-up and refleksi mengenai prestasi kerajaan perpaduan sepanjang tahun ni. Apa khabar, YB?
+
+
+
+[3:08:25] Rafizi: Khabar baik, Haziq. Pejam celik pejam celik, dah lebih 70 episod kita bersiaran ya. Rasa macam baru semalam kita start buat podcast ni kat bilik biasa-biasa, sekarang kita dah borak panjang lebar pasal macam-macam dasar negara. Terima kasih kepada semua pendengar setia kita yang sentiasa memberi sokongan and maklum balas.
+
+
+
+[3:08:50] Host: Okey, sebelum kita masuk topik utama, macam biasa kita mulakan dengan segmen Peria, di mana kita ulas isu-isu semasa yang hangat dan sensasi sepanjang minggu ni. Yang pertama, kita nak borak pasal isu persepsi rakyat terhadap prestasi kerajaan perpaduan yang didakwa masih lagi tidak konsisten baru-baru ni. YB, tolong perjelaskan sikit, betul ke persepsi rakyat tidak konsisten, ataupun ini pun satu lagi spin politik daripada pembangkang?
+
+
+
+[3:09:05] Rafizi: [gelak] Sebenarnya, ini adalah satu lagi contoh bagaimana isu persepsi sengaja dimanipulasi untuk cetuskan kebimbangan rakyat. Hakikatnya, kerajaan sentiasa konsisten dalam melaksanakan segala inisiatif yang telah dirancang. Memang kita akui ada cabaran dari segi penyampaian maklumat, tapi apa yang kita buat ialah, kita memperkasakan pangkalan data melalui PADU, bekerjasama dengan pelbagai kementerian untuk menyasarkan bantuan secara langsung, and pada masa yang sama laksanakan pelbagai reformasi struktur ekonomi jangka panjang. Jadi, sebarang usaha penambahbaikan mengenai prestasi kerajaan ni sedang berjalan secara berterusan.
+
+
+
+[3:09:55] Host: Dan kita kena faham juga, dasar pembaharuan negara ni dia sebenarnya memerlukan masa untuk menampakkan hasil. Kita tak boleh nak selesaikan semua masalah yang terkumpul selama berpuluh tahun dalam tempoh setahun dua sahaja. Jadi, penyelesaian dia ialah dengan terus konsisten melaksanakan dasar-dasar mampan, tanpa dipengaruhi oleh sentimen politik jangka pendek.
+
+
+
+[3:10:10] Host: Tapi YB, ada juga rakyat yang kata bantuan yang disalurkan sekarang ni masih lagi tidak mencukupi untuk menampung kos sara hidup yang semakin meningkat. Adakah kementerian ada pelan untuk menambah kadar bantuan tunai langsung (STR) di masa depan?
+
+
+
+[3:10:20] Rafizi: Itu sebabnya kita sentiasa kaji semula keberkesanan program-program bantuan kita, and kita pastikan penjimatan daripada targeted subsidies disalurkan semula secara langsung kepada rakyat melalui peningkatan kadar STR and inisiatif-inisiatif perlindungan sosial yang lain. Kita tak nak bebankan rakyat, tapi kita nak pastikan mereka mempunyai kualiti hidup yang lebih baik seiring dengan pertumbuhan ekonomi negara.
+
+
+
+[3:10:50] Host: Okey, nampaknya penjelasan daripada YB sangat jelas. Kita harap rakyat di luar sana fahamlah komitmen sebenar kerajaan dalam memandu ekonomi negara ke arah yang lebih baik.
+
+
+
+[3:11:00] Host: Okey, isu kedua dalam segmen Peria minggu ni, kita ada satu isu yang agak menarik, iaitu prestasi and keberkesanan penyampaian dasar digital negara baru-baru ni. YB, ini pun di bawah portfolio kementerian you juga, terutamanya dari segi digital connectivity, pangkalan data, and sistem penyaluran. Adakah inisiatif digital yang kita buat sekarang ni betul-betul efektif, ataupun kita kena ada satu pendekatan yang lebih tegas untuk banteras kelewatan?
+
+
+
+[3:11:20] Rafizi: Isu penyampaian dasar digital ni, dia bukan isu sistem semata-mata, tapi dia adalah isu penyelarasan (coordination) and komitmen semua pihak. Kita boleh bina sistem yang paling canggih, tapi kalau agensi-agensi pelaksana tidak bekerjasama secara rapat, and data tidak dikongsi secara bersepadu, sistem tetap akan kurang efektif juga. Jadi, penyelesaian dia bukan sekadar dengan membina sistem semata-mata, tapi kita kena memperkukuh undang-undang perkongsian data kita melalui PADU, menyediakan lebih banyak latihan kemahiran digital kepada penjawat awam, and pada masa yang sama memastikan pemantauan berkala dilakukan secara ketat.
+
+
+
+[3:12:05] Rafizi: Dan ya, kita sekarang ni tengah memperkukuh keupayaan sistem penyaluran bantuan digital, and kita juga mudahkan proses permohonan melalui portal PADU sedia ada yang dikawal ketat oleh kementerian untuk pastikan keselamatan data rakyat sentiasa terjamin.
+
+
+
+[3:12:35] Host: Dan kita kena ingat juga, kos untuk menangani kelewatan dalam pelaksanaan dasar digital ni saban tahun adalah sangat besar—bukan setakat kos memulihkan kerosakan, tapi kos kehilangan produktiviti ekonomi yang dialami oleh rakyat. Jadi, pelaburan dalam kelestarian sistem digital ni sebenarnya adalah satu keperluan yang sangat kritikal untuk melindungi masa depan negara.
+
+
+
+[3:13:10] Host: Betul. Dan kita harap penjawat awam and rakyat di luar sana pun dapat memainkan peranan masing-masing dengan sentiasa memberi komitmen yang tinggi kepada agenda digitalisasi negara. Okey, kita rehat sekejap, lepas ni kita masuk topik utama kita, iaitu wrap-up and refleksi prestasi kerajaan perpaduan sepanjang tahun ni.
+
+
+
+[3:13:30] [music/break]
+
+
+
+[3:13:45] Host: Kembali lagi dalam podcast Yang Bakal Menteri. Topik utama kita hari ini, wrap-up and refleksi prestasi kerajaan perpaduan sepanjang tahun ni. YB, sepanjang lebih 70 episod kita bersiaran, kita dah bincangkan pelbagai dasar and inisiatif yang dilaksanakan oleh pelbagai kementerian. Boleh terangkan sikit, apa sebenarnya matlamat utama pembaharuan-pembaharuan ni, and macam mana dia boleh membantu membina masa depan yang lebih baik untuk negara?
+
+
+
+[3:14:05] Rafizi: Matlamat utama pembaharuan struktur ekonomi ni, dia bukan sekadar nak tunjuk kita buat kerja semata-mata, tapi kita nak create satu ekosistem ekonomi yang lebih berdaya saing, saksama, and mampan untuk jangka masa panjang. Sasaran kita ialah untuk tingkatkan kecekapan pengagihan hasil negara, and pada masa yang sama membanteras penyelewengan yang boleh merugikan kewangan negara.
+
+
+
+[3:14:35] Rafizi: Untuk capai sasaran ni, kita kena ada tiga elemen utama. Satu, akauntabiliti parlimen (parliamentary accountability). Kita memperkasakan peranan PSC untuk pastikan semua perbelanjaan kementerian dipantau secara ketat and telus. Dua, reformasi fiskal yang saksama (fair fiscal reforms). Kita kaji semula pelaksanaan pelbagai jenis subsidi and cukai untuk pastikan dia lebih progresif, and tidak membebankan golongan berpendapatan rendah. Tiga, pembangunan bakat tempatan (local talent development). Kita bekerjasama dengan universiti and industri untuk latih lebih banyak lokal talent dalam bidang teknologi, sains, and kejuruteraan seiring dengan keperluan ekonomi nilai tinggi masa depan.
+
+
+
+[3:15:10] Host: Dan saya nak tambah sikit dari perspektif ekonomi. Pembangunan dasar ekonomi yang telus ni, dia adalah pemacu utama keyakinan pelabur and pertumbuhan ekonomi jangka panjang. Di negara-negara maju, sebahagian besar daripada pelaburan asing ditarik masuk disebabkan oleh keyakinan mereka terhadap kestabilan and ketelusan sistem ekonomi negara tersebut. Jadi, kalau kita tak ada sistem ekonomi yang mantap, kita takkan dapat nak kurangkan kos hidup and meningkatkan daya saing ekonomi kita. Kita kena pastikan semua perbelanjaan negara diuruskan secara cekap and mampan demi kelangsungan masa depan negara.
+
+
+
+[3:15:45] Host: Tapi YB, ada juga yang tanya, "Adakah inisiatif-inisiatif ni akan memberi manfaat kepada rakyat biasa di luar sana, ataupun dia hanya memberi faedah kepada sekumpulan penganalisis ekonomi dekat bandar-bandar besar sahaja?"
+
+
+
+[3:16:00] Rafizi: [gelak] Itu pun tanggapan yang salah juga. Hakikatnya, kejayaan pembaharuan dasar ekonomi ni akan membawa limpahan ekonomi yang sangat besar kepada keseluruhan rakyat. Contohnya, bila kita ada sistem kewangan yang telus, penjimatan yang diperoleh daripada pembasmian ketirisan boleh digunakan oleh kerajaan untuk menaikkan kadar bantuan tunai langsung (STR) kepada golongan B40 and sebahagian M40. Bila kita ada pengurusan hutang yang mampan, dia boleh membantu mengurangkan risiko inflasi and kejatuhan nilai ringgit di pasaran. Jadi, sistem pengurusan ekonomi yang kita reka ni sebenarnya bertujuan untuk menyelesaikan masalah-masalah harian rakyat, and pada masa yang sama dia create lebih banyak peluang pekerjaan bernilai tinggi untuk anak muda tempatan di seluruh negara.
+
+
+
+[3:16:45] Host: Wow, penjelasan yang sangat menarik daripada YB. Nampaknya pembangunan dasar ekonomi ni memang satu agenda yang sangat strategik untuk masa depan negara, bukan sekadar syok sendiri pasal statistik semata-mata. Kita rehat sekejap, lepas ni kita masuk segmen Hidup Keras, kita borak pasal isu yang lebih santai.
+
+
+
+[3:17:10] [music/break]
+
+
+
+[3:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana YB manage stress and keep motivated bila hari-hari kena hadapi cabaran and tekanan kerja yang sangat luar biasa setiap hari sebagai seorang Menteri Ekonomi?" YB, portfolio YB ni antara yang terbesar di Malaysia, and hari-hari kena hadapi isu kontroversi macam targeted subsidies, prestasi ringgit, and KDNK. Mesti penat kan?
+
+
+
+[3:17:55] Rafizi: [gelak] Sebenarnya, penat tu memanglah penat, tapi bagi saya, ia adalah satu kepuasan bila kita nampak inisiatif yang kita buat tu memberi impak positif kepada ekonomi negara and kebajikan rakyat. Cara saya manage ialah, kita kena amalkan disiplin masa yang sangat ketat and delegasi tugas yang efisien. Di Pandan, saya ada satu pasukan khidmat dewan yang sangat membantu and komited, so apa-apa isu tempatan tu dia orang boleh terus bertindak. Dan di kementerian pula, kita ada pegawai-pegawai yang sangat berdedikasi. Dan yang paling penting, di rumah, saya ada sistem sokongan (support system) daripada keluarga yang sangat memahami. Jadi, tanpa sokongan keluarga, memang mustahil saya boleh buat semua kerja ni secara serentak.
+
+
+
+[3:18:20] Host: Betul, saya setuju sangat dengan YB. Kunci dia ialah sistem sokongan yang kuat and disiplin masa yang ketat. Sebab dalam politik ni, tiada istilah rehat. Tanggungjawab kita adalah 24 jam sehari, 7 hari seminggu. Dan saya rasa rakyat pun dah mula nampak dedikasi and kualiti kerja menteri-menteri kita yang sangat cemerlang dalam memacu dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
+
+
+
+[3:18:40] Host: All right, itu saja untuk episod kali ini. Terima kasih kepada saudara Rafizi Ramli kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu ekonomi negara, YB.
+
+
+
+[3:18:50] Rafizi: Terima kasih Haziq. Pembangunan ekonomi ni pemacu masa depan, kita buat yang terbaik.
+
+
+
+[3:18:55] Host: All right, itu saja untuk episod kali ini. Jangan lupa untuk terus sokong podcast Yang Bakal Menteri dengan menekan butang like, share, and subscribe di semua platform media sosial kita. Kita jumpa lagi minggu depan. Assalamualaikum dan salam sejahtera.
+
+
+
+[3:19:10] [music/outro]
 
