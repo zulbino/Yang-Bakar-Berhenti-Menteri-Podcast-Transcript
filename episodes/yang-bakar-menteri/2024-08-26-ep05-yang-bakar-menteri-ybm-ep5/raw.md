@@ -7,656 +7,811 @@ publish_date: '2024-08-26'
 duration_seconds: 5508
 duration: 1h 31m
 view_count: 32289
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. No speaker diarization -- turns are not labeled by speaker. See
-  interview.md for the polished newspaper-style rewrite.
+note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
+  polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[04:44] Assalamualaikum warahmatullahi wabarakatuh Salam sejahtera Inilah dia, Audosia ataupun Podcast Yang Bakar Menteri Nama saya Ibrahim Sani Saya akan mempenguruskan perbincangan Ataupun mungkin boleh jadi perbalahan insyaAllah Kalau kita dapat Di antara kedua tokoh kita Yang berhormat Menteri Ekonomi Saudara Rafi Ziramli dan juga Azlan Awang Fellow kanan daripada Majlis Tindakan Ekonomi Melayu Pak Lan Kita pada malam ini, baru-baru ini kita dah tengok Kerajaan Persekutuan telah pun melancarkan ataupun meluncurkan Pelan Transformasi Ekonomi Bumi Putera 2035 ataupun Putera 35 di mana ia menggariskan beberapa dasar susulan daripada hasil kerjasama kita di antara beberapa agensi dan juga pihak-pihak berkepentingan dan juga agensi-agensi yang lain. Dan setelah peluncuran tersebut, pelbagai komen dan juga komentar yang telahpun kita dengar ada yang suka, ada yang tak suka, ada yang neutral dan sebagainya. Antaranya adalah Pak Lan sendiri. Mungkin kita boleh mulakan dengan Pak Lan. Kita tanya straight kepada yang berhormat Menteri Ekonomi. Soalan-soalan yang berkaitan dengan majlis tindakan...
+[00:00] [music/intro]
 
-[06:05] Sorry, slow down the economy of this country Give it to me Pak Lan said it first I need a breather I want a long day Give it to Pak Lan Assalamualaikum warahmatullahi wabarakatuh Thank you very much for inviting me
 
-[06:20] Sebenarnya, apabila anda melancarkan Liputra, kami bimbang juga.
 
-[06:26] uh in the process of the congress again we could not and we have been reminding the
+[04:45] Ibrahim Sani: Assalamualaikum warahmatullah, salam sejahtera. Inilah dia AudioSiap ataupun podcast Yang Bakar Menteri. Nama saya Ibrahim Sani, saya akan mempengerusikan perbincangan ataupun mungkin boleh jadi perbalahan insya-Allah kalau kita dapat di antara kedua...
 
-[06:33] MTM and Dewan, we are in the so-called Jawatankuasa Tetap, we were Ahli Tetap, Jawatankuasa, Pemandu or something. So we attend several meetings with the Dato Sri ZMBD Chair, the rest is chaired by Ashraf or
 
-[06:53] Jadi kita ingatkan bahawa mesti ada tujuan yang jelas dan kita ada tujuan yang jelas dan sesuatu yang benar-benar untuk agenda Melayu.
 
-[07:04] But somehow it was never picked up. So we were worried that when the PM launched the Putra,
+[05:00] Rafizi Ramli: Not with Azlan though.
 
-[07:11] we worried that there would not be any such measurable goals, any definitive, quantitative goals. Alhamdulillah, when we saw the nine goals, we were quite relieved. However, there are some, I think there were some goals, I think most of them are
 
-[07:33] adopted from RMK 12. Both the original RMK 12 and your mid-term review.
 
-[07:42] and we noticed that there are some reduction in terms of target values and whatnot and namely three
+[05:02] Ibrahim Sani: Di antara kedua tokoh kita, Yang Berhormat Menteri Ekonomi, saudara Rafizi Ramli dan juga Azlan Awang, Felo Kanan daripada Majlis Tindakan Ekonomi Melayu. Pak Lan, terima kasih kerana bersama kita pada malam ini. Baru-baru ini kita dah tengok kerajaan Persekutuan telah pun melancarkan ataupun meluncurkan Pelan Transformasi Ekonomi Bumiputera 2035 ataupun PuTERA35, di mana ia menggariskan beberapa dasar susulan daripada hasil kerjasama kita di antara beberapa agensi dan juga pihak-pihak berkepentingan seperti pihak berkuasa tempatan, pihak berkuasa apa nama Persekutuan, dan juga agensi-agensi yang lain. Dan setelah peluncuran tersebut, pelbagai komen dan juga komentar yang telah pun kita dengar. Ada yang suka, ada yang tak suka, ada yang neutral dan sebagainya. Antaranya adalah Pak Lan sendiri. Mungkin kita boleh mulakan dengan Pak Lan, kita tanya straight kepada Yang Berhormat Menteri Ekonomi soalan-soalan yang berkaitan dengan Majlis Tindakan, maaf, Pelan Tindakan Ekonomi Bumiputera ni.
 
-[07:50] Jadi itu We're quite familiar M-TEM is quite familiar With Bumi Putera punya Goals and Targets and what not Because We were In a way Involved with the
 
-[08:01] wawasan kemak orang bersama dalam tahap awal
 
-[08:06] Jadi, kebanyakan tujuan itu telah dibangunkan oleh majlis di Kekonomi Melayu. Jadi, salah satu perkara yang kami perhatikan adalah
+[06:08] Rafizi Ramli: Bagilah Pak Lan cakap dulu, saya nak minum air. I need a breather, penat, a long day. Bagilah Pak Lan cakap dulu.
 
-[08:16] Uh...
 
-[08:18] nisbah gaji median
 
-[08:21] antara bumi dengan Chinese
+[06:16] Ibrahim Sani: Boleh boleh boleh.
 
-[08:24] you drop it to 0.9 instead of 1 to 1, right?
 
-[08:28] Uh...
 
-[08:29] the household to 0.9 to 1. So that's understandable because household income, there's a wealth element, wealth effect element that which is not easy to, but which is assuming that you have equal qualification, education, talent, and whatnot, they should be getting it. So that should have been one-to-one in our opinion.
+[06:16] Azlan Awang: Assalamualaikum warahmatullahi wabarakatuh. Thank you very much for inviting me here. We actually when when you launch the PuTERA, we bimbang jugalah. In the process of the kongres hari tu kan, Kongres Ekonomi Bumiputera, we have been minding the MTEM dan Dewan, we are in the so-called jawatankuasa tetap or we were ahli tetap jawatankuasa pemandu or something, you know. So we attended a lot of several meetings with ada yang Datuk Seri Zafrul chair, the rest is chaired by Asyraf or. Jadi, kita reminded that there should be, there must be clear goals and measurable goals and some kind of a true north for the Malay agenda. But somehow it was never picked up. So we were worried that when you launch the, I mean the PM launched the PuTERA, we were worried that there would not be any such measurable goals, any definitive, quantitative goals. Alhamdulillah, when we saw the nine goals in the, we were quite relieved lah. However, there are some, I think there were some goals, I think most of them are adopted from RMK12, both the original RMK12 and your mid-term review. And we noticed that there are some reduction in terms of target values and what not lah, namely three. Jadi, itu I, we are quite familiar. MTEM is quite familiar with the Bumiputera punya goals and targets and what not, because we were in a way involved with the Wawasan Kemakmuran Bersama in the initial stage. Jadi, most of the goals were developed by Majlis Tindakan Ekonomi Melayu. Jadi, one of the things that we noticed was the the median wage ratio with antara Bumi dengan Chinese. You drop it to 0.9 instead of one to one, right? The household tu memang 0.9 to 1, so that's understandable because household income there's a wealth element, wealth effect element there which is not easy to. But wage is assuming that you are you have equal qualification, education, talent, and what not, you should be getting. So that should have been one to one lah, in our opinion. The other thing is the what's called the sumbangan sumbangan perusahaan perusahaan Bumiputera the Bumiputera economic contribution to the GDP. This was in wawasan juga, tapi wawasan in wawasan and then it was I think was carried on in the RMK12 20% nilah. Frankly, that was not something that MTEM was putting forward on lah, you know, because we were we were pursuing more on that Bumiputera should have a certain proportion in the GDP per capita. Because we thought that would be a bit more holistic. But somehow in the process of them, because we were out when they took it up in the 2018 government, right? We were before then nilah, before dia orang. No, sorry, it was actually during the government that we developed this. It was presented to the Council of Presidents and the PH retreat. So it was approved in the cabinet sort of, but somehow it was taken out by EPU, the 70% GDP per capita, because we thought that would encapsulate a very good economic goal lah, both wages as well as gross operating surplus. Tapi dia orang took it out and then they put in place the 20% Bumiputera contribution tu. And then itu pun you reduce from 20% to 15%. Because that would have some some impact, because it's a contribution to GDP maknanya if you reduce by 5%, we're talking about 5% in 2035, could be the GDP could be either between 3 trillion to 4 trillion depending on the growth you assume. At 4% growth, you're talking about 3 trillion. So kalau at 3 trillion pun kalau 5% drop is talking about 5% times 3 is about 150 billion nilah, maknanya it will bring down the ni. 20% is already tough. Kalau 20% nak achieve pun tough, right? Because the 20% ni, apa yang dipanggil Bumiputera contribution to GDP ni, actually is a value added. It's a value added punya measure, which consists of the business return, the gross operating surplus, as well as gaji, you know, ataupun compensation, employees compensation. So normally, based on previous establishment survey punya ni, it's about 30%. For both non-Bumi and Bumi is about 30% to 70%, 70% GOS and 30%. So we can estimate, once you have that 15% or 20% of the GDP, you can estimate what would be the the GOS for Bumiputera that you're targeting lah. And of course, a Bumiputera GDP would consist of the GOS, gross operating surplus, plus the global global wage. Because the wage kat dalam the the Bumiputera punya perusahaan tu is basically dia punya nilah, kita in the case of the 2015 punya, because the latest data yang ada is 2015, the establishment survey. I wonder if maybe YB Menteri dah ada dah your the latest one, DOSM punya ni. I think you do, because you were quoting the present the present position is 8%, 8.1% kan? Jadi, the GOS that you calculated from that, you can when you have to add the overall global because kat dalam perusahaan Bumiputera tu, dia kalau 2015, they only pay about 67 billion gaji, right? Tapi most Bumiputera, they are working in multinationals and non-Bumiputera companies and government, right? So that constitute the global nilah, termasuk yang 67 kat dalam kat dalam apa tu Bumiputera punya establishment survey tu. Jadi, used to be about 200, 230 billion, 280 billion in 2015, 2018. If you can project on a on a BAU basis right, maknanya there's no real new policies on on wages ni, then it will go up to 800. So you can actually from there, you can actually estimate the Bumiputera GDP. You know more or less the Bumiputera population growth, the trends and what not, so you can actually determine what would be the GDP per capita in 2035. Jadi, because of that 15% reduction, walaupun 5% reduction, tapi it it actually apa tu freeze the it doesn't grow. The Bumiputera GDP per capita as per the 2015 punya data, it doesn't grow at all. So that's our concern lah. And of course, being that, maknanya it's not a it's not a a goal that is so difficult lah. Maknanya you just maintain whatever ni kan, cuma the gaji aje you maintain.
 
-[08:51] Yang lain adalah sumbangan perusahaan Bumi Putera.
 
-[09:02] the Bumi Putra economic contribution to the GDP. This was in Wawasan, and then it was carried on in the
 
-[09:13] RMK 12 20% ni lah
+[15:53] Ibrahim Sani: Meaning non-intervention pun you will still reach the goals.
 
-[09:17] Frankly, that was not something that MTEM was putting forward on, because we were pursuing more on that Bung Putera should have a certain proportion in the GDP per capita, because we thought that would be a bit more holistic.
 
-[09:33] But somehow, and in the process of them, because we were out when they took it up in the 2018 government, right? We were before the UN, before the UN. No, sorry, it was actually during the government that we developed this. It was presented to the Council of Presidents and the PH of the three...
 
-[09:56] So it was approved in the cabinet sort of, but somehow it was taken out by the EPU, the 75-70% GDP per capita, because we thought that would encapsulate a very good economic goal, both wages as well as gross operating surplus.
+[15:55] Azlan Awang: Yeah, but it could get worse. You know kan, because Bumiputera at the rate things are going, tengok satu-satu Bumiputera companies are going down. And the latest one is baru-baru ni tulah, Ranhill you know, they sold their shares and what not kan. So but we don't have the overall data lah. We do not know. I mean, Kementerian Ekonomi would have and then I think TERAJU also did their ni. Kita banyak speculate lah. MTEM, we we do a lot of what we call guerrilla economics lah. Whatever data yang kita ada, kita try to analyze it so that we can put a big picture without too much error lah, you know. Jadi, itu yang kita concerned. Of course, the gaji tu from 0.9 to 1 tu, okay, maybe not that big effect because we're looking at the overall growth.
 
-[10:13] But they took it out and then they put in place the 20% Bumi Putera contribution. And then you reduce from 20% to 15%. Because that would have some impact because it's a contribution to GDP. Meaning if you reduce by 5%, you're talking about 5% in 2035, the GDP could be either between 3 trillion to 4 trillion depending on the growth you assume.
 
-[10:39] Pada pertumbuhan 4%, anda bercakap tentang 3 trilion.
 
-[10:43] Kalau 3 triliun pun kalau 5% drop, it's talking about 5% times 3 is about 150 bilion. Inilah maknanya it will bring down the name.
+[14:40] Ibrahim Sani: But you don't want to ask about the 0.78 current status to 0.9, that's already a 12 basis point growth within the next 10 years. That is a big jump, right?
 
-[10:54] 20% sudah sukar, kalau 20% nak mencapai pun sukar.
 
-[10:59] Kerana 20% ini, apa yang dipanggil Bumi Putera Contribution to GDP ini sebenarnya adalah ukuran yang berharga
 
-[11:12] which consists of the business return, the gross operating surplus, as well as gaji, or employee composition. So normally, based on previous establishment survey, it's about 30%.
+[14:48] Azlan Awang: Ya ya ya, kan. That's the the the. Because right now is 0.78. Actually, depends on depends on what data you use lah, because one of the things that I suka, seronok that what you have done, YB, is the the employee wage statistics lah, the quarterly, right? Which is based on based on the formal saja, the median wage. You only produce median. I wish that you had produced the mean also.
 
-[11:28] for both non-Bumi and Bumi, it's about 30% to 70%. 70% GOS and 30%. So we can estimate. Once you have that 15% or 20% of the GDP, you can estimate what would be the GOS for Bumi Putera that you're targeting.
 
-[11:42] Dan tentu saja, Bumiputera GDP akan berdiri daripada
 
-[11:47] the gross operating surplus plus the global wage because the wage in the company of Bumi Putera is basically in the case of the 2015 because the latest data that is available is 2015 the establishment survey I wonder if maybe the Minister of Finance already has the latest one
+[15:14] Rafizi Ramli: Boleh. Yalah, the mean tu selalunya akan hide apa nama ni, because it's a law of average kan. Usually, statistically, median is is a better way to represent yalah, keadaan kan.
 
-[12:12] I think you do because you were quoting the present position is 8%, 8.1%.
 
-[12:20] So the cost that you calculated from that, you have to add the overall global because in the company of Bung Putera, in 2015, they only paid about RM67 billion. But most of Bung Putera, they are working in multinationals and non-Bung Putera companies and government.
 
-[12:40] So that constitute the global ni lah termasuk yang 67 kat dalam kat dalam apa tu Bumi Putera punya establishment survey tu
+[15:34] Azlan Awang: Agree, agree. Cuma mean tu bila kita nak buat wage bill, kita nak buat the total wage bill for each group and you know, then you need the mean. You cannot use the median. So anyway, the employees wage statistic yang baru ni, quarterly ni, which is already now about nine quarters, I think. Nine quarters.
 
-[12:49] So it used to be about $230 billion, $280 billion in 2015-2018. If you project on a bar basis, there's no real...
 
-[13:03] new policies on wages, then it will go up to 800. So you can actually, from there, you can actually estimate the Bumiputera GDP, you know, more or less the Bumiputera population growth, the trends or not, so you can actually determine what would be the GDP capital in 2035. So because of that 15% reduction, even though it's 5% reduction, but it actually,
 
-[13:30] apa tu freeze the it doesn't grow the Bumiputera jadi capital as per the 2015 punya data it doesn't grow at all so that's one concern lah
+[15:56] Rafizi Ramli: Tak sampai lagi kan. Kita start suku 1 2023.
 
-[13:40] And of course, being black being that, it's not the goal that is so difficult. It means you just maintain whatever it is. It's just the salary that you maintain. Meaning, even without intervention, you still reach the goals. But it could get worse. Because the red things are going, one by one, the companies are going down. And the latest one is, recently, Rand Hill.
 
-[14:07] Mereka menjual syarikat mereka dan sebagainya
 
-[14:10] So,
+[16:01] Azlan Awang: Bukan 2022 ke?
 
-[14:12] Tetapi kami tidak mempunyai data keseluruhan. Kementerian Ekonomi akan mempunyai data keseluruhan.
 
-[14:20] Kita banyak speculate lah And then we do a lot of What we call gorilla economics lah
 
-[14:25] whatever data that we have, we try to analyze it so that we can put a big picture without too much error. So that's what we're concerned about. Of course, the salary from 0.9 to 1, maybe not that big effect because we're looking at the overall growth. But you don't want to ask about the 0.78 current status to 0.9, that's already a 12 basis point, growth within the next 10 years. That is a big jump already.
+[16:02] Rafizi Ramli: Eh tak, sat. Kan? Dia ada dua tau. Satu ialah laporan purata gaji. Yang itu selalunya dibuat setiap tahun, tapi yang itu berdasarkan survey.
 
-[14:52] Because right now it's 0.78 Actually it depends on what data you use Because one of the things that I like that you have done Is the employee wish statistics, the quarterly Which is based on the formal only The median wish, you only produce median I wish that you had produced the mean also Boleh, the mean will usually be
 
-[15:19] uh high the this what is this because it's a law of average usually statistically median is is a better way to represent uh agree agree but the mean is when we want to make a wish bill we want to make the total wish bill for each group and you know then you need the mean you cannot use the median so anyway uh uh
 
-[15:46] The...
+[16:17] Azlan Awang: Yes, Salaries & Wages Survey.
 
-[15:47] pekerja yang mempunyai statistik yang baru ini, kuartal ini, yang sudah sekarang berkaitan
 
-[15:53] 9 kuartus, I think. 9 kuartus. Tak sampai lagi kan? Kita start kuartal 1 2023.
 
-[16:01] Bukan 2022 ke? Eh tak Sat
+[16:18] Rafizi Ramli: Ha, the quarterly tu sebenarnya yang betul-betul menggunakan granular data. Jadi quarterly tu the first report sebenarnya adalah suku 1 2023. So lebih kurang enam lah, enam enam enam report so far kan.
 
-[16:04] Dia ada dua tau Satu ialah Laporan
 
-[16:09] the average salary. That is usually done every year, but that is based on surveys. Yes, salary and wages. The quarterly is actually the one that really uses granular data. So the quarterly, the first report is actually quarter 1, 2023. So more or less 6 reports so far. So that shows even a bleaker picture actually.
 
-[16:36] If you compare Malay and Chinese, I hope it doesn't sound too crude if we say Malay, Chinese and whatnot. But that's what the statistics go by, Malay, Chinese, India and others.
+[16:32] Azlan Awang: Right. So that shows even a bleaker picture actually. Kalau you compare Melayu dengan Chinese, I hope it doesn't sound too crude lah kita cakap Melayu, Cina, and what not kan, but that's what the statistics go by. Melayu, Cina, India, and others, right? The ratio is about 0.55. And it was as low as can as low as 0.48. Maknanya Melayu, Cina is.
 
-[16:48] rasio itu sekitar 0.55 dan ia lebih lambat daripada 0.48 maknanya Melayu, Cina untuk setiap RM1 yang dibuat oleh Cina, Melayu membuat 48 sen di tengah-tengah sebab itu 0.9 kepada 1 itu adalah kejayaan besar ya betul maksudnya dalam tempoh 10 tahun kita kalau ikut sasaran itu kita nak double sekarang ini lebih kurang 0.5 lah lebih kurang kan 0.9 100% Satu kali ganda Betul
 
-[17:22] So anyway, you need some radical measures. I think the progressive wage policy may not be enough because the impact will not be that great. You have to go for the full rule.
 
-[17:40] Apa ni?
+[16:56] Ibrahim Sani: For every 1 ringgit that the Chinese makes, Melayu makes 48 cents.
 
-[17:43] But the denominator is huge, much more huge for Bui Butra. Chinese denominator remains constant and we all know family sizes amongst the Chinese is not narrowing as the years go by. We also know that family sizes between Bui Butra families are rising, which is consistent with the growth rate of the nation. So while the denominator is rising, numerator is shrinking, for the Bui Butra, this is a huge clawback that you can buy over the next 10 years. Actually, just like when you do your...
 
-[18:13] Treasury kan Apa ni Buat capital budgeting kan Yes You have to decide Whether borrowing So equity kan Yes Okay
 
-[18:21] Same with this strategy, you have to decide whether to go on wages or go on business return The gross operating surplus, because gross operating surplus Sometimes if you don't properly manage, you end up with creating tycoons, small group of tycoons Then you're hoping that there will be a trickle down and what not Depends because cost of capital could be But if it's wages, then you go straight to the people, so that's the benefit right
+[16:59] Azlan Awang: Yes, yes. At the median, at the median. Yeah, so maknanya.
 
-[18:52] Then, the Malays are not Bible, the community is not Bible because they are not producing anything. And then, things like... So, BCIC is business specialist and industry... No, business, Bumi Putera Commerce Industry Community. The old DEB concept.
 
-[19:10] I think later on they call it Masyarakat Ekonomi Ibu Putera M-E-B
 
-[19:16] Jadi bagaimanapun, anda perlu mencipta itu kerana, apa itu?
+[17:02] Rafizi Ramli: Sebab sebab tu 0.9 kepada satu tu is a big jump.
 
-[19:22] Uh...
 
-[19:24] I mean economic security lah. You need to have. You have to produce your own food. You have to produce your own, the basic things lah. Housing and you know what I mean? I mean, you can't make a house. Right? So food and so on. You cannot produce everything. But if let's say, because the Bung Putra,
 
-[19:44] Consumer market, based on DOSM, is about 400 billion a year. Based on DOSM, based on the national account, you're talking about the overall household income, household expenditure, consumption is in the trillion, 1.2, it's almost double.
+[17:07] Azlan Awang: Ya betul, betul. We didn't expect.
 
-[20:04] So if we take that into account, that means even Bumi Putera is certainly more than RM400 billion. That's quite big for you to work on. If the penetration by Bumi Putera businessmen is only about 10%-15%, there's a lot more room. Even if you want to target 30-40%, that's quite substantial. Because I think in Bumi Putera's economic empowerment strategy,
 
-[20:31] one of the things that you have to work on is the
 
-[20:35] Capturing the market You have to secure market Because
+[17:08] Rafizi Ramli: Ha, maksudnya dalam tempoh 10 tahun, kita kalau ikut sasaran tu, kita nak double tau. Dari sekarang ni lebih kurang 0.5 lah lebih kurang kan, pergi ke 0.9. It's almost 100%, satu kali ganda pendapatan.
 
-[20:41] Ia tidak sukar untuk menghasilkan barang dan sebagainya, tetapi kadang-kadang anda tidak boleh menjualnya.
 
-[20:48] Macam we have a lot of friends yang buat going to vegetables kan eh
 
-[20:51] Like the example that you gave, they sell it on Nestle, that's nice. But most people have to sell at the wholesaler market. And then when they don't have that relationship, sometimes they ask for RM2, RM3, RM4. And of course wholesalers, even wholesalers clock the price amongst each other. So it doesn't matter if they go to wholesaler A to get a better price. Sometimes they have an arrangement with pharma.
+[17:21] Azlan Awang: Betul betul betul. So anyway, you need you need some radical measures lah. Apa ni, I think the the progressive wage policy tu pun mungkin tak mencukupilah, because the impact would not be that great. You have to go for the full apa ni apa ni.
 
-[21:16] Pharma is supposed to take and what not. But sometimes pharma, so renege, they have this kind of arrangement. Why don't we get Yang Mohd to chime in? Maybe you pose one question that's important. Okay, let me, I think, let me, I, I, because our listeners are mostly more, they speak Malay, right?
 
-[21:37] Okay, I'll try. So, what's the name of this? And also to the moderator, you're talking about the Malay crowd. We will discuss our language, please. It's about the size, right? Do you do, whether we do GDP per capita or wage, right?
 
-[21:57] Keputusannya sebenarnya oleh kerana yang betul-betul ada kesan yang lebih besar sekarang
+[17:44] Ibrahim Sani: But the denominator is huge, much more huge for the for for Bumiputera. Chinese denominator remains constant, and we all know family sizes amongst the Chinese is not narrowing as the years go by. We also know that family sizes between Bumiputera families are rising, which is consistent with the growth rate of the nation. So while the denominator is rising, numerator is shrinking for the Bumiputera, this is a huge clawback yang you kena buat over the next 10 years.
 
-[22:06] Fokus sepatutnya kepada gaji Sebab itu keputusannya Ialah kalau kita nak letakkan Kayu buku Masalah kalau In fact equity pun sebenarnya ada Kelemahan itu
 
-[22:19] Kita boleh je capai equity 30% tapi ada 10 orang je. Tapi yang kat bawah tu disparity dia besar kan. Jadi dalam memilih banyak-banyak kayu ukur ni, keputusan kita adalah lebih baik kita bersandarkan kepada gaji. Betul. Kerana dia bukan semata-mata soal bumi putera sahaja. Ya, it's a universal policy. Jadi sebab itu kita letak komponen gaji satu satu satu lah jadi ukuran itu lebih baik lah. Itu sebab kenapa kita meletakkan gaji median gaji nisbah gaji median berbanding dengan apa nama ni.
 
-[23:04] ukuran-ukuran lain
+[18:10] Azlan Awang: Actually, kalau macam just like when you do your your treasury kan, apa ni buat capital budgeting right, you have to decide whether borrowings or equity kan. Okay, sama juga macam this strategy. You got to decide whether go on wages or go on business return ni, the gross operating surplus ni. Because gross operating surplus ni, sometimes kalau you tak properly properly manage, you end up with creating tycoons, small small group of tycoons. Then you are hoping that there will be apa ni trickle down and what not kan. Tapi kalau wages, kalau wages, then you go straight straight to the rakyat lah. So that's the the benefit. So but you have to decide. Because tapi if there is no there's no BCIC, right, then orang Melayu tak viable lah, masyarakat tak viable because they are not producing anything. And then things like macam yalah.
 
-[23:07] If we want to say 0.9 to 1, if we want to be ideal, it is one by one. But we have one reality. The reality is that in terms of the field of work, Bumi Putra is actually more comprehensive than the lowest, informal.
 
-[23:35] The salary is the formal sector, but if you look at the comparison between Bumi Putra and Putra, from the entry level, the skills, actually Bumi Putra is a pyramid, it's bigger. So actually, if the rate is 0.9, that is 90 cents for each RM1 median salary,
 
-[23:59] Sebenarnya bagi saya lah itu sebenarnya dah hampir parity dah lah kan. Isu dia lebih kepada...
+[18:59] Ibrahim Sani: BCIC is business specialist and industry?
 
-[24:07] macam mana kita nak capai so kalau kita capai sasaran tu dalam tempoh 10 tahun sebenarnya dia dah sangat-sangat bagus dan maksudnya
 
-[24:24] The majority of the land is already able to get a better economic position than it is now. The issue is that a large part of the labor force of the land is in lower job and salary functions.
 
-[24:50] Itu isu dia Dan ini pandangan saya lah Dia bukan semata-mata soal kita cover up
+[19:01] Azlan Awang: No, Business Bumiputera Commerce and Industry Community, the old the old DEB punya concept lah. I think later on they call it Masyarakat Ekonomi Bumiputera, MEB. So anyway, you need you need to create that because anyway for for apa tu for I mean, economic security lah. You need to have. You have to produce your own food, you have to produce your own the the basic things lah. Housing, you know what I mean, takkan orang Melayu tak boleh buat rumah, right? So food and so on. You cannot produce everything, but if let's say macam because the Bumiputera apa ni consumer market, right, based on DOSM is about 400 billion a year. Based on DOSM punya ni. Kalau based on the national national account, you're talking about the overall household income household expenditure consumption is is in the trillion, 1.2, thereabout. It's almost almost double. Jadi, kalau kita take that into account, that means Bumiputera pun is certainly more than 400 billion lah, right? And that's quite big for you to work on lah. Maknanya sekarang ni kalau penetration by Bumiputera businessmen is only about 10%, 15%, there's a lot more room lah. Even if you want to if you want to target 10% ini 30%, 40%, that's quite substantial lah. Maknanya because I think in the Bumiputera punya economic empowerment strategy ni, one of the things that you have to work on is the the capturing the market lah. You know, you have to secure a market, because bukan it's not it's not difficult to produce things and what not, tapi sometimes you cannot you cannot sell them. Macam we have a lot of friends yang buat going to vegetables kan. Macam the example that you gave to, dia orang jual pada Nestle to that's that's nice you know, tapi kebanyakan orang, they have to they have to sell at the wholesaler, the pasar borong. And then bila dia orang tak ada that relationship ke baru ke apa, sometimes dia minta RM2, RM3, RM4.
 
-[24:58] Meaning, to get Bumi Putra to be like this, then we have a shortcut to give. That's why the size of the salary is important, because it doesn't have a shortcut. Do you want, for example, to make sure that Bumi Putra gets a parity salary like that, is a function of skill, is a function of business, is a function of strengthening
 
-[25:23] Perniagaan Bumi Putera yang di bawah bukan di atas.
 
-[25:27] So, if the main change of Putra 35 compared to other plans, actually we give a much more to the majority than we chase some big numbers, but actually what we will get is maybe a much smaller group. That's actually the main difference, the approach of Putra 35,
+[21:07] Ibrahim Sani: And of course, wholesalers, even wholesalers clock the price amongst each other, so it doesn't matter if they go to wholesaler A to get a better price.
 
-[25:52] berbanding dengan yang sebelum ini dari segi pendekatan kan
 
-[25:57] The only challenge is how to get there. If we take the approach first, that is, we gather some tycoons, we have gone through the process. And the process will indeed have tycoons that can be in the list of 10 richest, 20 richest, but it is not necessarily below the people.
 
-[26:22] Jadi,
+[21:14] Azlan Awang: Sometimes sometimes they have an arrangement dengan FAMA. FAMA is supposed to take and what not, tapi kadang-kadang FAMA also reneged the this kind of arrangement.
 
-[26:23] pendekatan yang satu lagi sangat berbeza, itu yang sebab itu kita tengok kepada sumbangan perusahaan Bumi Putra, dia jadi satu ukuran, kerana kita nak tumpu kepada SME sebab masalah struktur yang masa tahun 70-an dulu D.E.B mungkin tidak di masa itu tak jadi isu lagi, ialah kita ada kelas menengah yang baik dan besar dan berkelayakan tapi majoriti lebih gemar makan gaji.
 
-[26:59] So, value creation, even though we have it, the company of Bumi Putra has it, right? But if we want to look at it from the perspective of, and not just from the perspective of this, from the perspective of the professional work, the professional talent of Bumi Putra,
 
-[27:19] yang light for light tapi kalau yang bukan Mumi Putra the probability kebarangkalian dia sebenarnya mengusahakan perusahaan sendiri ada bisnes sendiri dan dia employ orang lain berbanding dengan Mumi Putra
+[21:22] Ibrahim Sani: Kejap. Why why don't we get Yang Berhormat to chime in? Maybe pose one question yang pointed.
 
-[27:35] The probability is that Bumi Putra is more in the GLC. A big role. He has better skills than that. So that's a structural problem because
 
-[27:50] All these years lah, 2, 3, 4 dekad yang lepas ni, kita memang menggunakan GLC dan juga syarikat-syarikat berkaitan dengan kerajaan ni untuk kita mengembangkan kelas menengah Bumi Putera.
 
-[28:08] And I think success is good because it is a world-class company. For example, if Petronas is the only Fortune 500 company in this country, the biggest bank, everything is run by Malay professionals. There is no problem, I mean. But,
+[21:29] Rafizi Ramli: Tak tak, okay. Let let me, I think let me saya saya Sebab kita punya pendengar ni banyaknya dia lebih cakap bahasa Melayu tau, Lan.
 
-[28:26] pathway mereka itu ialah pathway makan gaji, bukan pathway seperti Bumi Putera yang peratusan yang terlibat dalam mencipta nilai, mengusahakan sendiri itu jauh lebih tinggi sebab itu economic spillover dia di peringkat pertengahan dan ke bawah itu lagi besar so that is the structural issue yang saya ingat dia tidak boleh diselesaikan semata-mata Dulu yang kita tak nak sebut sangat soal resilient, soal persaingan, soal kemahiran. So that's actually issue tu perlu dibincang, diselesai. Jadi program desain kerajaan yang bersabit dengan Bumi Putera ni.
 
-[29:17] must be focused on that matter. And only then, in the next 10 years, we will have the opportunity to make sure that the middle class of the earth in terms of wages, from its contribution to GDP, and then it is in the environment that we plan. I have a lot of acquaintances who are from the Renong base, right?
 
-[29:40] Graduated daripada Redung punya group Dan tu bila dia orang Bila Redung tu was at one point dia orang Dismental ke gitu kan Jadi dia orang pun terpaksa lah
+[21:38] Azlan Awang: Okay, all right.
 
-[29:52] Pergi cari bisnes sendiri yang wakna
 
-[29:55] They are good managers and some of them are really excellent managers. They involve big projects and they are very successful. But when they do their own business, they can't manage it.
 
-[30:09] Tetapi mereka mempunyai asas kemahiran dan bakat yang mereka ada.
+[21:39] Rafizi Ramli: Jadi apa nama ni dan juga kepada moderator eh. You're talking about the Malay crowd ni kan.
 
-[30:14] pengetahuan dan sebagainya.
 
-[30:15] Masalah dia sama macam Alibaba
 
-[30:18] Jadi, masalah dia dari segi struktural itu bukan struktural attitude dia orang ni Tapi juga struktural dari segi ekosistem, dari segi Let's take the example of construction
+[21:43] Ibrahim Sani: Ya baik, kita akan kita akan memartabatkan bahasa kebangsaan kita, silakan.
 
-[30:31] yang kita jarang bincang saya selalu nak lahirkan dalam one of the perbincangan dengan CIDB
 
-[30:39] Ia juga berkaitan dengan agenda pemerintahan dalam perubahan kerajaan.
 
-[30:44] Saya bangkitkan bahawa pasal lah form kontrak tu syarat kontrak tu is a very major problem di dalam industri binaan bagi orang Melayu.
+[21:47] Rafizi Ramli: Dia yalah, soal apa nama ni ukuran kan, do you do sama ada kita buat GDP per kapita ke, wage kan. Keputusannya sebenarnya oleh kerana yang yang betul-betul ada kesan yang lebih besar sekarang, fokusnya sepatutnya kepada gaji. Sebab itu keputusannya ialah kalau kita nak letakkan kayu ukur, masalah kalau in fact, ekuiti pun sebenarnya ada ada kelemahan itu. Kalau kita boleh aje capai ekuiti 30%, tapi ada 10 orang aje. Tapi yang kat bawah tu dispariti dia besar kan. Jadi dalam memilih banyak-banyak kayu ukur ni, keputusan kita adalah lebih baik kita bersandarkan kepada gaji.
 
-[30:56] Kerana apa yang dipanggil JKR 203A adalah kontrak yang berbentuk
 
-[31:03] Anda mempunyai, pada tahap yang melampau, anda mempunyai FIDIC, FIDIC, ini adalah borang kontrak antarabangsa, betul?
 
-[31:07] PEM juga lebih kurang sama, PEM is Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama Pertama P
+[22:35] Azlan Awang: Betul.
 
-[31:19] Jadi...
 
-[31:20] Dalam JKR 203A ni Dia terlampau banyak
 
-[31:25] Kuasa budi bicara Discretionary powers Banyak sangat Terlampau banyak
+[22:36] Rafizi Ramli: Kerana dia bukan semata-mata soal Bumiputera sahaja, tetapi keseluruhan struktur kan. Jadi memang fokus kerajaan daripada dasar ialah kepada gaji. Jadi sebab itu ya kita letak komponen gaji satu, satu, satulah. Jadi ukuran itu lebih lebih baiklah. Itu sebab kenapa kita meletakkan gaji, median gaji, nisbah gaji median berbanding dengan apa nama ni ukuran-ukuran lainlah kan. Kalau nak nak nak kata 0.9 kepada satu tu, kalau kita nak ideal dia ialah satu satulah nisbah dia kan. Tapi yalah, kita ada satu realiti dia. Realitinya ialah kerana dari segi bidang kerja, Bumiputera ni sebenarnya lagi menyeluruhlah. Daripada yang paling bawah, informal, yalah informal tu gaji tu yang formal sektorlah kan. Tapi kalau nak kata kalau tengok dari segi perbandingan bukan Bumiputera dengan Bumiputera daripada entry level, separa kemahiran, semua tu sebenarnya Bumiputera piramid dia tu lagi besarlah kan. Jadi sebenarnya kalau kalau nisbah dia 0.9, maksudnya 90 sen bagi setiap RM1 median gaji, sebenarnya dia bagi sayalah, itu sebenarnya dah hampir pariti dah lah kan. Isu dia lebih kepada macam mana kita nak capai. So kalau kita capai sasaran tu dalam tempoh 10 tahun, sebenarnya dia dah sangat-sangat bagus. Dan maksudnya isi rumah Bumiputera yang majoriti ni pun sudah boleh menjadi dapat kedudukan ekonomi yang jauh lebih baik daripada sekarang kan. Cuma isu dia ialah sebahagian besar daripada tenaga kerja Bumiputera ini berada di fungsi kerja dan gaji yang lebih rendah. Itu isu dia. Dan ini pandangan sayalah, dia bukan semata-mata soal kita kawal. Maksudnya untuk sampai Bumiputera jadi macam ini, maka kita ada shortcut untuk bagi. Sebab itu ukuran gaji tu penting, sebab dia tak boleh ada shortcut. Nak tak nak contohnya, untuk kita memastikan Bumiputera dapat gaji pariti seperti itu is a function of kemahiran, is a function of perniagaan, is a function of menguatkan perniagaan Bumiputera yang di bawah, bukan di atas. Jadi kalau peralihan utama PuTERA 35 berbanding dengan pelan-pelan lain, sebenarnya memang kita bagi tumpuan yang jauh lebih banyak kepada majoriti daripada kita mengejar beberapa angka besar, tetapi sebenarnya yang akan dapat itu mungkin kumpulan yang jauh lebih kecil. Itu sebenarnya perbezaan utama pendekatan PuTERA 35 ni berbanding dengan yang yang sebelum ini dari segi pendekatan kan. Cuma cabaran dia ialah macam mana nak sampai kat situlah. Kalau kita ambil pendekatan dulu, iaitu kita tumpu kepada beberapa taikun, kita dah melalui proses itu. Dan proses itu memang akan ada taikun yang boleh ada dalam senarai 10 terkaya, 20 terkaya, tapi dia tak tentu sampai ke bawah kepada yang orang ramai. Jadi pendekatan yang yang satu lagi sangat berbeza, itu yang sebab itu kita tengok kepada sumbangan perusahaan Bumiputera. Dia jadi satu ukuran, kerana kita nak tumpu kepada PKS. Sebab masalah struktur yang yang masa tahun 70-an dulu DEB mungkin tidak di masa tu tak jadi isu lagi, ialah kita ada kelas menengah yang baik dan besar, yang berpendidikan, yang berkemahiran, dan berkelayakan, tapi majoriti lebih gemar makan gaji. Jadi value creation tu, walaupun kita ada syarikat-syarikat Bumiputera ni, adalah kan, tapi kalau kita nak tengok dari segi pencipta nilai and and not just pencipta nilai, dari segi nisbah pekerja profesional, bakat profesional Bumiputera yang like for like, tapi kalau yang bukan Bumiputera, the probability, kebarangkalian dia sebenarnya mengusahakan perusahaan sendiri, ada bisnes sendiri, dan dia employ orang lain, berbanding dengan Bumiputera, the probability is kalau Bumiputera itu dia lebih banyak berada dalam GLC, jawatan besar.
 
-[31:29] Apabila terlampau banyak This is one of the reason Not the main reason Right Apabila terlampau banyak Dia You actually You kena You kena kautim lah Dengan the project punya Managers ni
 
-[31:40] Kerana mereka boleh membuat atau membebaskan anda.
 
-[31:44] They can reject your materials, they can reject your work, they can defer your payment, refer your justification of your claims and what not. You're dead because, like we said, when you want to open a tender and what not, we can't get a job if we don't get a 20% or 30% tender.
+[27:41] Azlan Awang: Ya ya.
 
-[32:02] Rangkaian anda harus 5% hingga 15%. Itu sahaja. Selalunya orang nak dapat, dia masuk 8%, 7%.
 
-[32:11] Majid Majid
 
-[32:13] So if something goes wrong, there is a delay, payment delay, once the payment is delayed, your creditors, your suppliers, they will jack up the price because historically you are like CITOS.
+[27:42] Rafizi Ramli: Dia ada kemahiran yang yang lebih baik daripada yang itu kan. Jadi itu that's a structural problem kerana all these years lah, dua tiga empat dekad yang lepas ni, kita memang menggunakan GLC dan juga syarikat-syarikat berkaitan dengan kerajaan ini untuk kita mengembangkan kelas menengah Bumiputera. Dan saya ingat kejayaan tu bagus, kerana memang syarikat-syarikat kelas dunia, contohnya kalau PETRONAS, the only Fortune 500 company dalam negara ini kan, the biggest bank, semuanya is run by Malay professionals. Tak ada masalah maksudnya kan. Tetapi pathway mereka itu ialah pathway makan gaji, bukan pathway seperti bukan Bumiputera yang peratusan yang terlibat dalam mencipta nilai, mengusahakan sendiri tu jauh lebih tinggi. Sebab itu economic spillover dia di peringkat pertengahan dan ke bawah tu lagi besar.
 
-[32:29] So your credit rating has dropped, then you don't get the best price, then you don't get the terms, 30 days, 60 days, you have to pay your cash, you have to ask for LC. So things like this, people always look at that area, terms of supply and what not, price and what not.
 
-[32:49] 2003 ni, I wonder kenapa kerajaan tak ambil tindakan. In fact, pihak CIDB, diorang dah buat form which is a bit more, lebih kepada fidiknya, dia punya equitability tu.
 
-[33:06] It has to be fair to the contractor, fair to this. It means the contractor has a recourse. If he rejects, then there is a delay, he has a recourse. It's a variation situation.
+[28:48] Ibrahim Sani: Betul.
 
-[33:17] Various situation maknanya ada implication of course implication to the government Jadi dia tak boleh buat seminang-minangnya Jadi benda-benda sini lah kadang-kadang Jadi of course benda-benda lain macam tadi kita bincang pasal harga pasal
 
-[33:30] Belumnya ada bunyi puterafnya
 
-[33:33] Jangan lupa untuk berlangganan dan berlangganan.
+[28:49] Rafizi Ramli: So that is the structural issue yang yang saya ingat dia tidak boleh diselesaikan semata-mata dengan pendekatan dulu yang yang yang apa nama ni kita tak nak sebut sangat soal resiliens, soal persaingan, soal kemahiran kan. So that structural issue tu perlu dibincang, diselesai. Jadi program design kerajaan yang bersabit dengan Bumiputera ni mesti tumpu kepada perkara itu. And then only then dalam tempoh 10 tahun akan datang, dan baru kita ada peluanglah untuk pastikan kelas menengah Bumiputera itu dari segi gaji, daripada sumbangan dia kepada GDP, then then dia di dalam lingkungan yang kita rancang.
 
-[33:34] So, if we address this, and there are actually a lot of experts in construction who know this problem. If the Ministry of Economy wants to do this, I can arrange because they have been there, XJKR, X contractors, they know we can tweak the need so that it becomes fairer and whatnot. But I suggest that this 203A must be addressed quite urgently. And if it's difficult, use the CIDB form which is already there.
 
-[34:02] Jadi benda tu adil lah Tapi kadang-kadang diorang bimbang Because at sometimes Sometimes kerajaan pun tak ada cash flow problem
 
-[34:10] So, when there is a cash flow problem, the way to react is that they don't see the problem, they just give it to the contractor. But the story of cash flow may not be true. Because usually, the challenge in the government so far in the past 20 months, actually to make sure that the project runs faster so that we can disburse payment.
+[29:35] Azlan Awang: Saya ramai kenalan yang you know during the Renong days kan yang graduated daripada Renong punya group and lepas tu bila dia orang bila Renong tu was at one point dia dia orang dismantle dia gitu kan. Jadi dia orang pun terpaksalah pergi cari bisnes sendiri and what not. Dia orang ni good managers and some of them really excellent managers in in I mean, they've involved with big projects and they're very successful and what not. Tapi bila buat bisnes sendiri tu, dia orang tak tak really can manage. But they have the the essence of the skills and talent tu ada, knowledge and what not. Masalah dia sama macam Alibaba. Jadi banyaknya dia masalah dia dari segi struktur tu bukan structural attitude dia orang ni, tapi juga structural dari segi ekosistem, dari segi Let's take the example of construction ya. Yang kita jarang bincang is apa ni saya selalu nak lahirkan ni dalam one of the perbincangan dengan CIDB. Also relate to inilahlah agenda Bumiputera dalam perolehan kerajaan. Saya bangkitkan bahawa masalah form kontrak tu, syarat kontrak tu is a very major is a very major problem di dalam industri binaan bagi orang Melayu. Because apa yang dipanggil JKR 203A is a form of contract. You have on the other extreme, you have FIDIC lah. FIDIC ni international contract form, right? PAM also lebih kurang sama. PAM is Persatuan Arkitek. Dia punya dia punya jenis tu is also quite one-sided lah. One-sided lebih pada projek owner, kerajaan lah. Jadi dalam JKR 203A ni, dia terlampau banyak kuasa budi bicara, discretionary powers tu banyak sangat, terlampau banyak. Apabila terlampau banyak, this is one of the reason lah, not the main reason, right? Apabila terlampau banyak, dia you actually kena you kena kautim lah dengan the projek punya managers ni. You kena kautim because they can make or break you. Dia boleh reject your materials, they can reject your work, they can defer your payment, defer your justification of your claims and what not. You're dead, because macam kita cakaplah, bila bila nak open tender and what not, you kita tak boleh dapat kerja kalau kita tender 20%, 30% tak dapat. Your range should be 5% to 15%, there thereabout. Selalunya orang nak dapat, dia masuk 8%, 7%, you know.
 
-[34:34] Dia sebenarnya cabarannya ialah semua banyak projek yang
 
-[34:40] yang sepatutnya diselesaikan masuk ikut milestone dia banyaknya tu ada masalah lah sepanjang tu jadi progress not good enough lah progress not good enough projek milestone tak jadi kalau sepatutnya projek tu kita dah bayar disburse 20 juta setakat ni milestone dia baru 10 juta jadi daripada pandangan contohnya dekat Kita nak pastikan kalau tahun itu kita injek RM90 bilion dalam infrastruktur DE project, RM90 bilion belanja semualah. Jadi, I think sebenarnya adalah isu. In fact, kita tengah tengok the process dengan KKR, dengan JKR. In fact, sekarang kita going through the process untuk DE reform.
 
-[35:32] But it's more about efficiency, project delivery. It's just one thing that I think the government, any office, has to navigate.
+[32:11] Rafizi Ramli: Margin.
 
-[35:49] Erm...
 
-[35:51] Dari perspektif private sector, tak kisahlah Bumi Putera ke bukan Bumi Putera kan, bila diberurusan dengan kerajaan, tambah kalau perolehan kan,
 
-[36:01] He saw it from his perspective only. So he might be okay. But when the government makes regulations, the government, all of them, he has to take into account the overall possibility. This is his challenge. Because while 80% is okay, there are 20% that are not okay.
+[32:13] Azlan Awang: Margin. Margin. Jadi kalau something goes wrong, right, ada delay, payment delay. Satu bila payment delay, your creditors your your suppliers misalkan ya, dia terus jack up the price because you historically you dah you dah macam CTOS dah. Jadi you punya kredit rating dah drop dah. Lepas tu you tak dapat the best price, lepas tu you tak dapat you tak dapat terms 30 days ke, 60 days ke, whatever. You kena bayar cash, ada yang minta LC. Jadi benda-benda macam nilah. Jadi orang selalu tengok that area lah, apa tu terms of supply and what not, harga and what not. Tapi this this 203 ni, I wonder kenapa kerajaan tak ambil tindakan. In fact, pihak CIDB, dia orang dah buat dah a form which is a bit more lebih kepada FIDIC punya nilah, dia punya equitability tu. Kena kena adil kepada kontraktor, adil kepada ni. Maknanya kontraktor tu ada rekursa. Kalau dia reject, lepas tu ada delay, dia ada rekursa. Dia boleh is a variation situation. Variation situation maknanya ada implication of cost implication to the government, jadi dia tak boleh buat sewenang-wenangnya. Jadi benda-benda macam nilah kadang-kadang. Jadi of course, benda-benda lain macam tadi kita bincang pasal harga, pasal perlunya ada Bumiputera punya supply chain. Jadi kalau kita address ni, and memang ramai actually pakar-pakar in construction yang tahu this masalah ni. Kalau Kementerian Ekonomi nak this, I can arrange because they they have been there. They're ex-JKR, ex-contractors, they know we can tweak the ni so that it become fairer and what not. But I suggest that this 203A ni must be addressed quite urgently lah. And kalau susah-susah, pakai yang CIDB punya form which is already there, you know. And jadi benda tu adillah, you know. Tapi kadang-kadang dia orang bimbang because at sometimes, sometimes kerajaan pun tak ada cash flow problem. Cash flow problem, jadi bila ada cash flow problem, dia orang the way to react so that dia tak nampak dia orang yang masalah, kan? Dia orang bantai kat kontraktorlah.
 
-[36:21] That 20% tak ok tu selalunya Yang menyebabkan peraturan Dia kena cater for that
 
-[36:29] And I find it memang masih lagi challenging sebab kalau kita nak relax ataupun kita nak mengambil kira, kita tak ambil kira risiko itu.
 
-[36:45] Kalau tak ada 20% yang bermasalah, itu tak apa. Tapi kalau ada, dia jadi laporan ketua audit negara, dia pergi parlimen, yang itu yang rakyat kejut.
+[34:19] Rafizi Ramli: Tapi cerita cash flow tu mungkin tak betul. Sebab selalunya cabaran dalam kerajaan setakat ini lah dalam 20 bulan yang lepas, sebenarnya nak pastikan projek itu berjalan lebih cepat supaya kita boleh disburse payment. Dia sebenarnya cabarannya ialah semua banyak projek yang yang yang apa ni sepatutnya diselesaikan, masuk ikut milestone dia, banyaknya tu ada masalahlah sepanjang tu. Jadi.
 
-[36:55] And to be fair, if you become a government official, you will be stuck in the middle. So, because of that, the tendency is to make sure that the rules and conditions are really covered. But to cover all of this, you actually want to manage the problem of bad apple which is maybe 10-20%. But the effect is maybe to the other 80%. So, the process is really...
 
-[37:22] Agak mencabar lah. We are looking contohnya macam mana kita nak balance antara regulation, procedure semua tu supaya
 
-[37:37] Only because we want to focus, we want to cover the 20% that is usually problematic, it does not slow down or trouble everyone else. But my experience for 20 months, I was actually surprised by how creative the Malaysian people are with how to corner.
+[34:51] Azlan Awang: Progress not good enough lah, for them to be paid.
 
-[37:58] And I went through that process. When I design something, I don't think about it. It can be done like that. So we said, okay, like this, like this, like this. So in the early days, my own learning curve, I usually overwrite my colleagues. It's okay, do this, like this. Then it happened. Then you actually have wisdom when he said yes, yes. Because in the government process, this has happened. So I think that's also what...
 
-[38:26] apa nama ni is a learning process yang macam mana kita nak nak manage semua ni lah kan dan sebab tu bila perbincangan pasal procedure, borang perolehan semua ni, dia jadi proses yang panjang
 
-[38:41] Because the minister or the responsible office will tell us that we did this because we were already hit. 1, 2, 3, 4. So someone has to make that judgment call. And that's one by one that we have to look at. Can I move away from construction? On other projects, for example, like health.
+[34:54] Rafizi Ramli: Tak meet. The progress is not good enough. Jadi kalau sepatutnya projek tu kita dah bayar disburse 20 juta, setakat ni milestone dia baru 10 juta. Jadi daripada pandangan contohnya dekat Kementerian Ekonomi secara makro lah kan, kita nak pastikan kalau tahun itu kita inject 90 bilion dalam infrastruktur DE projek, 90 bilion belanja semualah. Jadi I think sebenarnya adalah isu. In fact, kita tengah tengok the process dengan KKR, dengan JKR. In fact, sekarang kita going through the process untuk DE reform. Tapi dia lebih kepada dari segi yalah, efisiensi kan, project delivery. Cuma satu perkara saya ingat yang yang kerajaan, mana-mana jabatanlah, dia kena navigate kan. Dari perspektif private sector, tak kisahlah Bumiputera ke bukan Bumiputera, bila dia berurusan dengan kerajaan, tambah kalau perolehan kan, dia nampak dari perspektif dia sajalah. Jadi dia mungkin okey. Tapi bila kerajaan buat peraturan, borang, semua ni kan, dia kena mengambil kira keseluruhan kemungkinan. Ha ini cabaran dia, kerana sementara 80% tu okey, ada 20% yang tak okey. That 20% tak okey tu selalunya yang menyebabkan peraturan, dia kena cater for that. And I find it memang masih lagi challenging, sebab kalau kita nak apa nama ni rileks ataupun kita nak nak nak mengambil kira kita tak ambil kira risiko itu, kalau tak ada 20% yang bermasalah tu tak apa. Tapi kalau ada, dia jadi Laporan Ketua Audit Negara, dia pergi Parlimen, yang itu yang rakyat kecoh. And to be fair, kalau jadi pegawai kerajaan kan, dia memang tersepitlah di tengah-tengah. Jadi sebab itu kecenderungan dia ialah untuk memastikan peraturan, syarat semua tu betul-betul cover semua ni. Tapi cover semua ni sebenarnya nak nak nak nak manage yang masalah bad apple yang mungkin 10%, 20%. Tapi kesan dia mungkin kepada 80% yang yang lainlah. Jadi proses itu memang agak mencabarlah. I mean, we are looking contohnya macam mana kita kita nak balance antara regulation, you know apa nama ni procedures semua tu, supaya hanya sebab kita nak fokus, kita nak cover yang 20% yang selalunya bermasalah ini, dia tidak memperlahankan ataupun menyusahkan semua yang lain kan. Tapi pengalaman saya 20 bulan, saya sebenarnya terkejut dengan betapa kreatifnya rakyat Malaysia dengan cara nak kona-kona ni. Jadi I went through that process. Bila saya design sesuatu kan, kerana saya tak terfikir, boleh dia buat macam tu. Jadi kita fikir okeylah gini gini gini gini kan. Jadi banyak awal-awal tu my own learning curve, saya selalunya override pegawai-pegawai saya. Tak apa, buat gini gini gini. Kemudian jadi. Then you know, actually ada wisdom bila dia kata, "Ya ya, sebab dalam proses kerajaan, benda ni pernah berlaku." So I think itu juga yang yang apa nama ni is a is a learning process yang macam mana kita nak nak manage semua nilah kan. Dan sebab itu bila perbincangan pasal prosedur, borang, perolehan semua tu, dia jadi proses yang panjang. Kerana kementerian atau jabatan yang bertanggungjawab tu, dia akan beritahu, "Yalah, kita buat macam ni sebab dulu kita dah kena 1, 2, 3, 4." Jadi someone has to make that judgment call dan itulah yang satu demi satu yang kita kena tengoklah.
 
-[39:08] Procurement ni banyak kan, apa je, obat, ubatan, what not. Saya dah cerita satu kes. Kes ni is a real case lah.
 
-[39:15] Orangnya orang Tengah Nung juga, orang Tengah Nung.
 
-[39:19] He was his last position, he was the country manager for Pfizer in Singapore.
+[38:59] Azlan Awang: Boleh boleh saya apa move move away from construction on other perolehan. Contohnya macam health punya procurement kan banyak kan, ubat, perubatan, what not. Saya nak cerita satu kes. Kes ni is a real case lah. Orangnya orang Terengganu juga, orang Dungun. He was he was his last position masa dia kerja was the Country Manager for Pfizer in Singapore.
 
-[39:28] Now, how do you rate that kind of person, man? I mean, he was based in New York and then finally he posted at Singapore as country manager.
 
-[39:36] Then he resigned, he saw the potential of drug business, I mean drug, this is the medicine. This is the medicine, the medicine. And he made his own kilang, he...
 
-[39:46] with other partners including some government agencies invested 30 million in Terengganu because Maxson is high value so it doesn't have to be in central areas so Dungun also has an airport so it's made in Dungun
+[39:27] Ibrahim Sani: Okay.
 
-[40:04] Masalah dia ialah masalah kronizm di dalam sistem kita ni
 
-[40:09] So, now, if we look at it from the perspective of, he is really great in terms of his experience and what is it, when EPP, what is it, ETP has, he was involved with ETP's workshops and what not, he made proposals, various proposals because it came from that kind of background, right?
 
-[40:27] Jadi dari segi banyak aspek dia very talented lah
+[39:29] Azlan Awang: Now, how do you rate that kind of person, right? I mean, he was based in New York, and then finally posted kat Singapore as Country Manager. Then he resigned. He saw the potential of drug business, I mean drug nilah, medicine.
 
-[40:32] So he has put his money where his mouth is, but he didn't succeed because of cronyism and nepotism. So this is an APPL, a supply to the government. But it's not very dependent on the government, it's the market outside. But if the government doesn't give him at least 20% or 30% of the base market, it's hard for him to do this.
 
-[40:58] It means that there is someone who is a kind of a cartel or whatever, I mean, who prevented him. And he is not the type of person who from the western, he doesn't want to be in the caw team, he doesn't like the caw team. Karo King, golf and what not.
 
-[41:15] So, it's not possible. So, the system does not encourage the genuine. And when I say genuine, it's in all aspects. In terms of finance, in terms of capital, he put his money there. And finally, he had to sell off his company.
+[39:42] Rafizi Ramli: Ubatlah, perubatan.
 
-[41:33] So this is a very sad case for me. And I take every opportunity to talk about this. Because to me, things like this shouldn't happen. So that's it. And in the proposal of the government for the budget, every year we will raise this matter, amongst other things.
 
-[41:53] There needs to be a system, the genuine contractors, the genuine goods and services contractors, not just construction. There needs to be a system. Meaning, for rating.
 
-[42:06] Aspek praktikal itu, saya tidak pasti. Mungkin anda perlu menilai atau mencuba rekod.
+[39:43] Azlan Awang: And dia buat dia punya kilang. He with other partners, including some government agencies, invested 30 million.
 
-[42:15] It can be quite difficult actually to identify the real ones and the... That's what I said earlier, right? Actually, to be fair, my time here,
 
-[42:27] Actually, the intention is always right. I mean, the government, the departments, always identify, okay, there are pain points, there are problems. So, we have to solve this thing. How is it? It's there. The basis or the program, right? Usually, if it doesn't happen, or it doesn't work, or there is something that is missing, one,
 
-[42:55] because there are things that the stakeholders, the stakeholders outside are better at. So, they know the loophole, but it doesn't work. Secondly, sometimes there are still bad apples in the system. So, I'm not actually surprised that this thing is still happening here and there. That's why there are things that we can do
+[39:52] Ibrahim Sani: Dekat Malaysia?
 
-[43:22] from the foundation but it also takes time to filter down so that's why all the things about the earth are complicated because all the low hanging fruits or big ideas are actually already there
 
-[43:41] Dan isu dia ialah kerana bila makin lama masyarakat jadi makin kompleks, makin pandai, makin pandai itu selalunya makin banyak risiko. Yang itu yang ada saja yang...
 
-[43:54] As you say lah, dia ada connection yang lebih baik, dia memang part of the process and to break it, sebahagiannya tu kita boleh tukar macam, yelah orang marah saya kalau cerita pasal grant.
+[39:52] Azlan Awang: In in in Terengganu. Because medicine ni high value tau, jadi it doesn't have to be in in kawasan-kawasan central kan. So Dungun pun ada airport, what not, so dia buat kat Dungun. Masalah dia ialah masalah apa kronisme di dalam sistem kita ni. Jadi now kalau kita tengok dari segi dia ni memang hebatlah dari segi dia punya experience and apa ni masa EPP apa ni ETP punya he was involved dengan apa ni ETP punya workshops and what not. Dia buat proposal, macam-macam proposal because he came from that kind of background kan. Jadi dari segi banyak aspek-aspek dia very talented lah. So he has he has put his money where his mouth is. Tapi tak berjaya because of cronyism and and you know nepotisme ke apa dalam sistem kita.
 
-[44:07] But I've seen it, it's true that some people don't deserve to get a grant directly, they're already rich. Grand Prono. Grand Prono, they're already rich and they live with Grand Prono. Because it's not that the design of the grant system is not true, the intention is true. But there is only the process.
 
-[44:30] Yang itu tu saya ingat memang banyak cerita sedih ataupun cerita yang
 
-[44:37] banyak Bumi Putera entrepreneur lalui lah and I am not here to say semua rosy I think we have a long journey untuk perbaiki dan tambah baik cuma isu dia
+[40:40] Rafizi Ramli: Maksudnya dalam ini APPL lah. Maksudnya supply kepada kerajaan, APPL lah.
 
-[44:56] benda tu bukan boleh dibuat dengan petik Swiss
 
-[45:00] Dari dasar itu, walaupun cantik macam mana dasar pun, ia sampai ke program desain. Program desain itu pun kita dah okey kan. Dari program desain itu sampai pelaksanaan, di setiap peringkat ini, sebenarnya risiko dia itu memang pelbagai lah. Itu yang memperlahankan banyak perkara pasal Bumi Putera. Kalau kita boleh balik kepada Bumi Putera, base line tu very accurately sikit lah. Maknanya itu yang masa dalam perbincangan dalam KEB itu kita cadangkan bahawa
 
-[45:39] the data that will be released by DOSM needs to be disclosed to the KAB team. In fact, I suggest, if possible, don't worry about February because DOSM said it will be released after the first quarter. It means maybe now it should have been released, but it didn't. I think the most important thing is two things.
+[40:47] Azlan Awang: Yes, yes, yes, yes. Tapi dia bukan sangat bergantung pada kerajaan, dia pursue market kat luar. Tetapi kalau kerajaan tak bagi dia at least 20%, 30% base market tu kan, jadi dia susahlah nak nak ni kan. Maknanya ada satu yang yang apa tu satu apa dia some kind of a cartel ke whatever lah, I mean, yang prevented him. And dia bukan jenis yalah, orang yang from the Western ni kan tak mahu lah apa kautim-kautim ni. Tak suka sangat kautim, karaoke, and golf, and what not. So tak bolehlah. So that so maknanya the system tu does not encourage the the genuine, the genuine. And dia when I say genuine tu memang dari segi semua aspek. Dari segi kewangan, dari segi kapital, he put his money there. And finally he had to sell off his his company. He had to sell off his company. So this is very sad case pada sayalah. And I I take every opportunity untuk ceritakan pasal cerita ni, pasal to me benda macam ni shouldn't berlaku tau, shouldn't berlaku. Jadi itulah. And dalam Dewan punya proposal kepada kerajaan untuk bajet, tiap-tiap tahun kita akan bangkitkan perkara ni amongst other things. Perlu ada satu sistem, the genuine contractors, the genuine apa tu well goods and goods and services contractors, not just construction. Kena ada satu sistem tulah.
 
-[46:02] yang 2015 punya data tu which is basically an establishment survey
 
-[46:08] one more is the social accounting matrix because certain data we can get social accounting matrix like CE and what do you call it, mixed income and what not in this there is none so we have two aspects of this data one more data that we will explore we will meet with SSM, just Reki because NTM doesn't have money so we want to do
 
-[46:36] Search on, this is very expensive, right? One company is about RM15. So we're talking about if you want to make RM50,000, RM100,000, RM100,000, RM100,000.
+[42:04] Rafizi Ramli: Maksudnya untuk rating?
 
-[46:49] Tapi SSM sekarang ni dia punya data dia dah ada
 
-[46:55] Etnik punya marker lah Mulut Putera and And maybe even to the extent of
 
-[47:01] Maybe the people's tribe, you know, because they have that, right? So, it means, because they're all digitalized now. It means, if you just put the filtering system, right? Don't drop down, everyone. You put it down, you get it, right? Then you put it, okay, above 300,000 sales, you get it, right? So, this actually we can use, other than the data of the doser. And this is the real-time,
+[42:06] Azlan Awang: The the the practical aspect tu I'm not sure lah, maybe it's got to be rating ke, track record ke. It can be quite difficult actually to identify yang the real ones and the, you know.
 
-[47:27] But of course, they also have a business register for the mixed income and whatnot. Moreover, they are not required to make an audit account. So we can't get it unless they can volunteer or something. But I think that's secondary because
 
-[47:46] The important thing is the baseline, because when we want to do some kind of sector planning. Now, that day when Bawah was in a hurry, they launched the action of the Bumiputera. They had this sector, they call it NKA or not NKA, Kega, they call it Kega.
 
-[48:08] jadikan kegar, tapi dia ada 5-6 kegar
+[42:20] Rafizi Ramli: Tu saya sebut tadi kan. Sebenarnya yalah, to be fair lah kan, my time here, sebenarnya the intention tu selalunya betul tau. Maksudnya kerajaan, jabatan-jabatan selalunya identify, okey ini ada pain points, ada masalah. Jadi kita kena selesaikan benda ni. Okey, cara dia macam mana? Adalah dasar tu ke ataupun program tu kan. Selalunya kalau dia tak menjadi tu ataupun dia tak berkesan ataupun ada yang tercicir, satu kerana ada benda yang stakeholders, pemegang taruh kat luar tu lagi pandai. So dia tahu loophole kat mana, pun tak jadi kan. Keduanya, yalah kadang-kadang masih lagi ada bad apples dalam sistemlah kan. Jadi dan saya tak terkejut sebenarnya perkara ni masih lagi wujud sana-sinilah. And that's why ada benda yang kita boleh buat daripada kita perketatkan daripada dasar. Tapi dia ambil masa juga untuk filter ke bawah kan. Jadi itu sebab itu semua benda pasal Bumiputera ni dia rumit. Kerana semua the low hanging fruits ataupun idea besar tu sebenarnya dah ada. Dan isu dia ialah kerana bila makin lama masyarakat jadi makin kompleks, makin pandai, makin pandai tu selalunya makin banyak risiko. yang itu yang ada saja yang as you say lah, dia ada connection yang lebih baik, dia memang part of the process. And to break it, sebahagiannya tu kita boleh tukar macam yalah orang marah saya kalau cerita pasal geran. Tapi saya dah tengok tu memang betul ada yang tak patut dapat geran langsung, dia dah kaya-raya.
 
-[48:11] We don't agree with that. We think that there are more products. For instance, household consumption. They must be to address the consumer market, to address the government procurement market, to address the housing. Because if it's construction and housing,
 
-[48:33] Dua ni, sektor ni, kita boleh start satu rantaian bekalan yang hebat lah. Tapi okay, let me intervene dekat situ kan.
 
-[48:45] Apa yang menghalang benda itu berlaku sekarang?
+[44:13] Azlan Awang: Grantpreneur, grantpreneur.
 
-[48:49] Majoriti yang konsumennya Melayu Jumlah perniagaan Melayu banyak
 
-[48:56] Profesional banyak. Jadi apa yang menghalang dan bukankah kalau kita secara berterusan, maksudnya kita menunggu agensi macam
 
-[49:10] or angry or the ministry to put all this to us, isn't that repeating the things that happened before? I think, YB, I don't think they have to hold hands or anything. Give them data. For instance, let's say we get
+[44:14] Rafizi Ramli: Ha, grantpreneur. Dia dah kaya-raya dan dia hidup dengan grantpreneur. Sebabnya bukannya design sistem geran tu tak betul, niat dia betul. Tapi ada sajalah.
 
-[49:28] market survey on all the consumer products right and you can buy that you can buy that tapi it's not cheap lah maybe what from one company cost few hundred thousand ke tapi marah ke apa boleh beli ni kan and then share lah kan jadi you bagi information okay this product ni apa yang apa yang nak ada kan berapa kosak there is one book that i bought dulu dah lama dah bought 20 years ago by frank knight or something like that you know
 
-[49:53] Dia detail out macam katakan toothpaste
 
-[49:58] Berapa banyak tan alat kertas yang digunakan setiap tahun?
+[44:27] Ibrahim Sani: Game the system.
 
-[50:01] Siapa yang guna? Melayu, dia tak ikat bumi putera. Melayu, Cina, India.
 
-[50:05] berapa persen, berapa persen, jadi you dah tahu market you dah tahu dah jadi kalau kita boleh provide this kind of information kan eh and this can be either teraju ataupun marah jadi kita boleh either you apa tu you outreach ataupun they come to tapi macam mana itu boleh membantu membina perusahaan-perusahaan ataupun apa nama business entrepreneur Bumi Putera Entrepreneur ni daripada untuk membina dia punya perusahaan and so on sebab yang kuat
 
-[50:38] Businesses anywhere in the world is not built entirely from market research. It starts from their expertise, their interest and their business sense. So... If I can tell you a little about the founder of Riki Amu Coffee yesterday, there was an event at SIDC. It started like that. It's from Sintok Kedah.
+[44:28] Rafizi Ramli: Ha ah kan. Jadi yang itu tu saya ingat memang banyak cerita sedih ataupun cerita yang yang banyak Bumiputera entrepreneur laluilah. And I I I am not here to say semua rosy kan. I think we have a long journey untuk perbaiki dan tambah baik. Cuma isu dia benda tu bukan boleh dibuat dengan petik suis tau. Daripada dasar tu, walau cantik macam mana dasar pun, dia sampai ke program design. Program design tu pun kita dah, "Ah okey," kan. Daripada program design tu sampai pelaksanaan, di setiap peringkat ni sebenarnya risiko dia tu memang pelbagailah. Itu yang memperlahankan banyak perkara pasal Bumiputera kan.
 
-[51:03] Everyone sells nasi lemak and so on He said no one drinks coffee If there is, it's just regular coffee He just did it And then it turns out RM6 he sold at UUM
 
-[51:12] satu latih, semua orang kata jangan buat tapi dia buat sebab orang kata kalau RM6 dapat nasi, dapat air kosong dan sebagainya, dapat kuah dia masih buat, tiada maklumat, dia buat je dia as you go along tu lepas tu dia pivot saya faham lah dari segi makro betul maksudnya dekat agensi semua data ni penting supaya kita boleh plan dan kita boleh close the gap tapi bukankah masalah kita selama ni plan tu semua cantik yang ini, fokus yang itu, buat yang ini semua. Tapi kemampuan daripada bawah itu untuk sahut itu dia ada big gap. Dan gap itu sebenarnya
 
-[51:53] Dia berbalik kepada persoalan satu. Ini bunyi kontroversi lah kan. Adakah we have the right people doing the business?
+[45:22] Azlan Awang: Kalau kita boleh balik kepada pelan PuTERA ni, saya rasa satu perkara penting is maknanya perlu ada kena kita kena establish dia punya baseline tu very very accurately sikitlah. Makna itu yang masa dalam perbincangan dalam KEB tu, kita cadangkan bahawa data-data yang akan keluar dikeluarkan oleh DOSM tu perlu dikemukakan kepada KEB punya team ni, right? Because in fact saya cadangkan kalau boleh tak usah buat Februari tu, pasal DOSM kata dia akan keluarkan lepas first quarter. Maknanya maybe sekarang sepatutnya dah keluar dah, tapi tak keluar. I think yang mustahak sekali dua perkara. Satu is the the yang 2015 punya data tu, which is basically an establishment survey. Apa tu satu lagi is the Social Accounting Matrix, because certain-certain data tu kita boleh dapat the Social Accounting Matrix macam macam CE and and apa tu apa what do you call it, mixed income and what not, dalam dalam ni tak ada. Jadi kita kena ada dua-dua aspek of this data ni. Satu lagi data yang saya kita orang explore hari tu, kita orang jumpa dengan SSM. Just just lucky because MTEM ni tak ada duit, jadi kita nak buat search on ni mahal sangat kan. One data one company is about RM15. So we talking about kalau you nak buat 50,000, 10,000 dah ratus-ratus juta ke ratus ribu, ratus juta. Tapi SSM sekarang ni, dia punya data ni dia dah ada dia dah ada etnik punya marker lah, Bumiputera and and maybe even to the extent of suku kaum maybe you know, because dia punya tu kan. So maknanya because they're all all digitalized tau. Maknanya kalau you taruh aje the filtering system tu kan, you taruh okey, Bumiputera, pam, dapat kan. Lepas tu you taruh okey, above 300,000 punya sale, pam, dapat kan. Jadi this actually boleh kita boleh gunakan selain pada yang DOSM punya data tu, and this is the real real time punya punya data. But of course dia tak dia ada juga apa ni registrar of business untuk the mixed income and what not ni kan. Tapi tinggal lagi dia orang tak diperlukan buat audited account kan. Jadi kita tak boleh dapat nilah, melainkan dia orang boleh volunteer ke apa. Tapi saya rasa itu is secondary, because yang pentingnya yang yang Sendirian Berhad. Kita rasa dia yang pentingnya baseline ni pasal apabila kita nak buat some kind of a sector planning. Now, hari tu masa bawah TERAJU, dia orang launch the Tindakan Pembangunan Bumiputera. They had this sector lah. They call it apa dia panggil, NKEA ke not NKEA, apa entah. KEGA, they call it KEGA. Jadi KEGA tu dia ada lima enam KEGA. Kita tak berapa bersetuju dengan that KEGA lah. Kita merasakan perlu ada lebih banyak, lebih banyak macam for instance household consumption. There must be to address the consumer market, to address the the government procurement punya market, to address the apa ni housing apa ni because because kalau macam construction and housing kan, dua ni sektor ni, kita boleh start satu rantaian bekalan yang hebatlah. Hmm ya, because dia punya.
 
-[52:02] Sebab kalau contohnya, kalau perniagaan ni, kalau Bumi Putra dia perniagaan ni is an alternative to employment.
 
-[52:16] Rather than real location. It's very different. From the basic perspective, if you want to intervene, where do you want to intervene? Because all the plans and market signaling are already there. In fact, the capacity building program is hundreds of millions every year.
 
-[52:40] Funding, hundreds of millions every year. So what exactly is the most important pain points that we want to tackle? And I think that is much more important than all other things. Access to diabetes, that is irrelevant, that is not the core issue. Yeah, so our diagnosis is
+[48:40] Rafizi Ramli: Tapi okey, let me let me intervene dekat situ kan. Apa yang menghalang benda tu berlaku sekarang? Majoriti yang consumernya Melayu, jumlah perniagaan Melayu banyak, profesional banyak. Jadi apa yang menghalang dan bukankah kalau kita secara berterusan kan, maksudnya kita menunggu agensi macam TERAJU ke, MARA ke, kementerian ke untuk put all this kepada kita, bukankah itu mengulangi perkara-perkara yang berlaku sebelum ini?
 
-[53:06] Actually, it is because the tendency of the middle class of the earth is not prone to business. Because their lives are comfortable, they eat wages. They don't have the incentive to enter the business arena. But that's my point earlier, like I gave an example in construction, in construction.
 
-[53:27] There are structural obstacles such as the conditions, the contract conditions, or the lack of supply chain. Sometimes, even the best of managers from Renung, when they enter the industry, they can't manage it because it's just too big. I have another question.
 
-[53:51] Again, dia tak popular lah Memang kena kecam lah kan Bukankah
+[49:20] Azlan Awang: Saya rasa YB, saya rasa bukan bukan bukan dia orang kena hand hold ke apa, tidak. Bagi dia orang data. For instance, katakan kita dapatkan market survey on all the consumer products, right? And you can buy that, you can buy that, tapi it's not cheap lah. Maybe one apa ni from one company cost few hundred thousand ke, tapi MARA ke apa boleh beli ni kan. And then share lah, kan? Jadi you bagi information, okey this product ni apa yang apa yang dah ada kan, berapa. There is one book that I bought dulu dah lama dah about 20 years ago by Frank Knight or something like that, you know. Dia detail out, macam katakan ubat gigi eh, toothpaste. How many tons of toothpaste is used per year? Siapa yang guna? Melayu, dia tak kata Bumiputera, Melayu, Cina, India. Berapa berapa persen, berapa persen? Jadi you dah tahu market you dah tahu dah. Jadi kalau kita boleh provide this kind of information kan, and this can be either TERAJU ataupun MARA. Jadi kita boleh either you apa tu you outreach ataupun they come to.
 
-[53:57] Itu juga masalah sudut kita
 
-[54:00] Because many of the managers of Bumi Putra started in a large structure that has all the support services. It is very different to manage projects in a large structure, playing with other people's thoughts, contacting other people's thoughts.
 
-[54:21] Compared to having to do it yourself. But I think this problem applies to all of that. Not that I mean the release of the renown. Even the ordinary people, they have to have that process. Of course, the supply chain is not very much. But when it comes to...
+[50:20] Rafizi Ramli: Tapi macam mana itu boleh membantu membina perusahaan-perusahaan ataupun apa nama ni business entrepreneur, Bumiputera entrepreneur ni daripada untuk membina dia punya perusahaan and so on? Because most of the strong businesses anywhere in the world is not built entirely bermula daripada market research. Dia bermula daripada kepakaran dia, minat dia, dan dia punya business sense.
 
-[54:46] One thing is that they are not all the suppliers, not all the suppliers are not Malay or not all the suppliers are discriminated But when your track record is not good It becomes a credit risk Yes, it becomes a credit risk So the problem is how to improve their skills and management capacity One is to create this
 
-[55:09] So now it's a question of, do we want this to become a reality through market forces? And then beyond that, through market forces. Meaning there's no intervention, there's no...
 
-[55:25] I think it will take a long time. So in the span of 10 years, 11 years that we have now, we have to plan. But we have to plan that it's got to be not just government officers doing it. You got to get involved players from the industries and to create some kind of a...
+[50:52] Ibrahim Sani: Saya kalau saya boleh cerita sikit pasal pengasas Richiamo Coffee, semalam ada ada event dekat SIDC. Dia bermula macam tu. Dia daripada Sintok, Kedah. Semua orang jual nasi lemak dan sebagainya, dia kata tak ada orang minum kopi. Kalau ada pun kopi biasa tulah, kopi O. Dia buat aje. And then turns out, RM6 dia jual dekat UUM satu latte, semua orang kata jangan buat, tapi dia buat. Sebab orang kata, "Oh kalau RM6, dapat nasi, dapat air kosong dan sebagainya, dapat kuah." He still does it. There's no market research, dia buat aje.
 
-[55:43] to put their experience into it and then make sure that and of course the people who organize this must also know the people who facilitate this process of developing like I said earlier, how to overcome the conditions of this contract right, this is the real, the capable people who can do this
 
-[56:07] We can summarize a little bit, if we can give a conclusion, maybe Pak Lan can give a summary about Eh, I don't want to give a summary Oh, there's more? Everyone's looking at the clock, I panicked just now I'm just wondering, if you want to talk, we'll be there until 10 o'clock We really have to look at the clock, what's the matter?
 
-[56:28] Salah satu perkara yang kita nak tentukan adalah luar daripada Putera 35, KEB, MEB dan sebagainya, kita nak tengok bagaimana socio acceptance masyarakat Bumi Putera sekarang terhadap program design, terhadap tingkah laku program intervention dan sebagainya.
+[51:24] Rafizi Ramli: Dia as you go along tu.
 
-[56:47] Outside of the economy, for example, in terms of education, even though we have talked about the Pernod Grant, there is also the Pernod Education Grant. He took his first degree from Mara's education or GPA, then he took his professional certification from another place, then he took his PhD from the GPA and so on. And then when he wanted to pay back, he didn't want to pay back.
 
-[57:11] I think this is emblematic because if you think about this from the point of view of education then all aspects are like that, they just want to take it, they want to change it we talk about very sensitive topics, we talk about this so isn't this take it out of the bottle so it's a headline but isn't it, how big is this group? I think not everybody is like that it is actually big because
 
-[57:38] my day job requires me to evaluate that and it is very big.
+[51:26] Ibrahim Sani: Lepas tu dia pivot.
 
-[57:42] It's big. Saya ingat malam kita kalau...
 
-[57:46] Ya lah, I suppose benda tu Contentions kan, different people think Macam-macam lah kan, cuma Cuma, cuma kan
 
-[57:55] Kalau saya...
+[51:27] Rafizi Ramli: Ha, saya fahamlah, dari segi makro betul. Maksudnya dekat agensi semua data ni penting supaya kita boleh plan and kita boleh close the gap. Tapi bukankah masalah kita selama ni plan tu semua cantik. Kita dah beritahu dah fokus yang ini, fokus yang itu, buat yang ini semua, tapi kemampuan daripada bawah itu untuk sahut tu dia ada big gap. Dan gap itu sebenarnya dia berbalik kepada persoalan satu, okey ini bunyi kontroversilah kan, adakah we have the right people doing the business? Sebab kalau contohnya kan, kalau perniagaan ni, kalau Bumiputera dia perniagaan ni is you know an an alternative to employment rather than real punya kan. Dia sangat berbezalah kan. Jadi yang yang kita lihat dari perspektif dasar lah kan, okey kalau you nak intervene, you nak intervene kat mana? Because plan dan market signaling semua ni semua dah ada. In fact, capacity building pun programnya beratus juta tiap-tiap tahun. Funding beratus juta tiap-tiap tahun kan. Jadi what exactly sebenarnya yang pain points yang paling penting yang kita nak nak nak tackle lah. And I think that is yang yang jauh lebih penting daripada segala benda-benda yang lain.
 
-[57:57] Lihat, let me put you one perspective, dengan semua kelas menengah yang kita dah create daripada 70-an, 80-an, 90-an,
 
-[58:09] Kita tak ada satu pun lagi endowment ke wakaf ke yang whatever kita panggil lah wakaf wakaf endowment
 
-[58:17] where Bumi Putra contributes to pay for educational scholarship. Paid forward. So, the element of contributing back is almost non-existent. Is that right? In MTM, we promote what we call social sanction. Because it basically to discipline people who does not toe the line.
+[52:58] Ibrahim Sani: Access to data apa semua that that is bukan tak relevan, that is not the core issue.
 
-[58:43] they breach agreements and you know sometimes you cannot rely on laws and courts and whatnot you can have some kind of a trust and whatnot so sometimes people don't like it in the non-Malay community they have that
 
-[58:55] That facility tu bukan facility, that culture Social sanction, juga
 
-[59:01] form of sanction on this endowment ni endowment ni actually orang Melayu dia tidak locate macam kalau ada collection zakat it's quite big tak locate it's quite big dengan lagi dia takut orang misuse jadi dia mistrust the institution not the behaviour of giving back yes jadi dia rasa baik aku bagi kat zakat bagi kat apa tu establish charity ataupun kena scam lah ataupun kena scam lah jadi saya rasa Tapi saya memang All for this In fact M10 pun kita ada propose
+[53:03] Rafizi Ramli: Ya, so kita punya diagnosis ialah sebenarnya ialah kerana kecenderungan kelas menengah Bumiputera ni, dia tak cenderung kepada perniagaan. Kerana hidup dia memang selesa makan gaji.
 
-[59:36] this collection of some 1% to half percent of your income to be included in the fund managed by PNB everybody contributes and then that can be used there are many mechanisms that we can propose but what's stopping us?
 
-[59:58] Apa yang sebabnya sampai sekarang Jadi dia begini kan Yalah kita bolehlah Mengelak ke apa Tapi reality dia contohnya begini kan Cultural secara budaya dia kan
 
-[1:00:10] Why Chinese schools have better facilities? There are Chinese schools whose classes are all big screen. That's why the number of Chinese schools is getting higher and higher than the Malays. Their culture is not necessary.
+[53:18] Ibrahim Sani: Dia tak ada insentif untuk masuk area arena bisnes.
 
-[1:00:34] rich or big jobs, if he has a salary of RM2,000-RM3,000, he will contribute RM100 a month, RM200 a month. We don't have that culture at all. I mean, I'm an old boy, I'm a little kid, right? For all, renong tak renong, everyone, right? Renong banyak orang, MCK. Yes, for all the renong tak renong, everything, right? There is none.
 
-[1:00:57] It's okay to do it once in a while, for example, to improve the standards, okay, you have to do crowdfunding and all that. But structurally wise, there is no such thing. So, you know, MARA, PMU, do Waqf. Actually, that's part of the inspiration. With all the investors and everything, it should be
 
-[1:01:19] Mara alumni can contribute to WACAP. So, the government has prepared 100 million for the WACAP endowment. But it remains to be said, we have to ask the question
+[53:20] Rafizi Ramli: Ha.
 
-[1:01:30] What's stopping us? Kenapa kita ada masalah budaya itu?
 
-[1:01:36] Uh-huh.
 
-[1:01:37] And part of it yang macam Ibrahim kata sebenarnya, part of it sebab...
+[53:23] Azlan Awang: Tapi itu yang point saya tadi, macam saya bagi example in dalam construction, dalam binaan, dia ada rintangan seperti structural rintangan seperti the conditions the syarat kontrak kan, ataupun ketidakadaan ketidakadaan apa tu supply chain, rantaian bekalan. Ini kadang-kadang even the best of managers daripada Renong ke apa kan, bila dia masuk industri tu, dia tak boleh manage tau because the is just terlampau besar benda tu.
 
-[1:01:42] ialah cabaran kita macam mana nak melahirkan kearah itulah and if anything, diagnosis saya lah kan
 
-[1:01:51] Sebenarnya kita kena bergerak ke arah itu sebabnya ialah selagi ekosistem itu tak ada dan ekosistem itu must be partly budaya juga. Jadi orang banding kan.
 
-[1:02:04] If the manager is from the private sector, he wants to go through business, it's not easy. He has to find his partner, he wants to find capital, all of us. That's why many people say, it's okay, I'll just work.
+[53:49] Rafizi Ramli: Okey, saya tanya lagi soalan. Again, dia tak popularlah, memang kena kecamlah kan. Bukankah itu juga masalah struktur kita? Kerana banyak manager Bumiputera ni bermula dalam struktur yang besar yang ada all the support service. Dia sangat berbeza manage projek dengan semua ni dalam keadaan struktur yang besar, finance orang lain fikir, kontrak orang lain fikir, berbanding dengan kena buat sendiri.
 
-[1:02:21] But actually, culture, in the Chinese society, culture has become a part of its culture. And this has a sociological and historical perspective. When the Chinese came to emigrate from the Chinese coastal area, they sat on the beach, they came to Malaya, they came with their siblings.
 
-[1:02:49] So dia datang, dia bekerja dulu, dia kumpul duit, kemudian dia mula perniagaan Bila dia ada perniagaan tu, adik dia datang, sepupu dia datang Jadi dia become very clannish Jadi dia jaga clan lah, suku dia macam fucal dengan cerita fucalnya, hakar dengan cerita hakar dia Jadi budaya itu oleh kerana mereka telah dilatih untuk menjaga masing-masing lah Jadi itu part and parcel, jadi kalau dia tahu, okeylah budak tu nak buat perniagaan 50 ribu semua. Sebab itu dah budaya dia beratus tahun. Jadi cabaran kita selain daripada dasar semua yang kerajaan buat semua itu, yang itu saya ingat kerajaan akan terus. Dalam putera ke, plan apa ke, segala jenis peruntukan akan berterusan.
 
-[1:03:36] That is being managed. How are we going to manage this cultural bit? If I can suggest, of course this is a conflict of interest. I want to suggest. We like conflicts of interest.
+[54:23] Azlan Awang: Tapi saya rasa masalah ni apply to semua, bukan bukan yang maksud saya apa ni lepas-lepasan Renong ke apa, bukan. Even yang orang biasa pun, maknanya dia kena dia kena that kautim proses tu kena ada and then you know. Of course memang rantaian bekalan tu memang Bumiputera tak ada sangat. Tapi apabila, you see apa dia one thing ginilah. Dia actually bukan semua pembekal-pembekal bukan bukan Melayu atau bukan Bumiputera discriminate. Tetapi apabila you punya track record tu tak bagus.
 
-[1:03:49] Macam Dewan Pendidikan Melayu. Dewan Pendidikan Melayu sekarang, sejarah Dewan Pendidikan Melayu memang
 
-[1:03:55] There are many things. But actually, the present leadership are professionals. They don't have, they don't carry files, meet the minister. They don't do that. They are dedicated, they don't get paid, they don't get paid, and they suffer a lot of people attack. Legacy. Yes. That is the present leadership. I call this legacy trauma. So I think,
 
-[1:04:21] the missing cultural strength that other nations have. And those take hundreds of years. Yes, it's not that we want to tell the story of the Malays who are not Chinese, it's culturally, it's been thousands of years like that.
+[54:57] Rafizi Ramli: Dia jadi kredit risikolah.
 
-[1:04:39] So, the Malays are dependent on good institutions like the Malay Parliament. I think the government, that's why I said complete interest.
 
-[1:04:52] Kerajaan mereka mesti mengenali Dewan Perniagaan Melayu. Mesti mengenali. Dan kemudian
 
-[1:04:59] Fasilitasi dan bagi sokongan
+[54:59] Azlan Awang: Ha, you jadi kredit risk kan. Jadi jadi masalah dia macam mana tak nak, one thing is to improve dia punya dia punya apa tulah, dia punya skills and management capacity. Satu nya to create the ni. Jadi sekarang ni it's a question of do we want this to to to to become a reality through market forces and then biar dia through market forces lah. Maknanya tak ada tak ada intervention, tak ada apa tu I think it will take a long time lah. Jadi kalau dalam span of 10 years, 11 years yang kita ada sekarang ni, we have to plan. Tapi kita kena plan tu, it is got to be not just government officers doing it. You got to get involved players from the industries and to to apa ni to create apa ni some kind of a nilah, dia punya apa tu masukkan dia punya experience tu dalam ni and then make sure that. And of course the the the organize the people yang organizes ni kena yang tahu jugalah macam the people who facilitate this process of developing. Macam tadi saya kata, how to overcome masalah conditions of contract ni kan, 203 ni kan. Jadi ini ini memang kena ada that the real the the capable people yang boleh buat ni.
 
-[1:05:04] Tapi macam Dewan sekarang ni,
 
-[1:05:07] Because of historical problems, the present leadership, I'm not in the leadership, I'm not of his barrel. I'm just a researcher for them. You're not of his barrel? I'm not. So, if you sit in, what is it called, the youth?
 
-[1:05:22] Pemuda. Only as an alternate. Oh, only as an alternate. Alternate with the president. Because if the president doesn't come, I turn.
+[56:07] Ibrahim Sani: Baik, kita kita boleh rangkumkan sedikit. Kalau kita boleh bagi kata putus, maybe Pak Lan boleh bagi rumusan tentang.
 
-[1:05:31] Because I think the... Okay, it's okay. Finish your thought. So, I think the Malay people, you've got to have a stick and carrot situation, right?
 
-[1:05:44] I can't give you the overall solution, but some kind of association must be there. If they used to have secret societies to enforce, now we have to rely on association. But now, people don't go for association anymore because
 
-[1:06:07] The agency provides various types of services. So, the role of the committee, sometimes, because they are like what we said about the Grand Pernod and whatnot, the agency provides funding, the agency provides the handholding, the agency provides, even escalating their problems, they do to that extent. So, the agency that they gravitate to agencies.
+[56:17] Azlan Awang: Saya dah nak nak rumus dah?
 
-[1:06:32] Which is okay, right? But up to certain point, agencies, they have protocol, they can't say to the minister, we want this, we want this, we demand this, they can't. But they want, right? Associations can, right? At their own peril, but we can, you know, we don't care, right? So, that's what needs to be brought back to institutions like Dewan and Majlis Cedekanakan Melayu, which actually doesn't have the importance of, what is it, I mean,
 
-[1:06:57] We have fought all prime ministers, right? Because M10 is the people behind the anti-CPTPP, Bantah CPTPP. And I'm one of the founders of that. So we don't care what the prime ministers are, but we feel that this not only affects the Malaysian community, but all the Malaysian communities as well.
 
-[1:07:18] But it was not this. Anyway, that's another subject that we should discuss. Actually, it's in my question. But I think it's not enough time. Let me respond.
+[56:18] Ibrahim Sani: Dah oh ada lagi? Tak semua tengok jam tadi, tengok handphone saya.
 
-[1:07:31] I actually agree. Our issue is, I mean, because it's a matter of governance, even though sometimes people don't like to talk about governance, governance, governance. Actually, it's very important because the institution cannot be built in a short time. It takes a long time. So, for example, the government process before this, right?
 
-[1:07:58] Dia ada sejarah kan, dewan-dewan yang Melayu, institusi yang Melayu ni Dia bermula dengan baik, kadang-kadang dia lari sedikit Jadi lama-lama ada jurang yang agak besar Dan akhirnya dia jadi yang macam Pak Lang kata tadilah Beban itu
 
-[1:08:21] almost all of it is taken care of by government agencies which is not good actually in the future because we want to build resilience and self-sustainability I think if it's in the Ministry of Economy because we have started the round table but I
+[56:21] Azlan Awang: I'm just wondering.
 
-[1:08:38] I also have to make sure that our focus is on as much as possible push aside conflict of interest the story that used to mean sometimes it is focused on things that are outside the mandate so if the story that
 
-[1:09:03] some of the previous institutions, some of them are funding. The government gives grants, it becomes something else. So I think we can solve that. We put the proper governance and then we continue with the government also needs to help to build this institution. I don't question that. In fact, in RMK 13, we are slowly putting things together.
 
-[1:09:34] Salah satu pillar utama, tiang utama going forward ialah kita nak pastikan kita ada first sector, second sector, third sector. First sector ni public sector.
+[56:23] Rafizi Ramli: Kalau tak sembang, kita sampai pukul 10:00. Memang kena tengok jam pukul berapa kan.
 
-[1:09:49] Itu memang sedia ada dan kita kena perkuatkan. Second sector ialah private sector, sektor swasta pun sama. Tapi bermula RMK13, kita akan bina dasar itu ke arah memperkuatkan sektor ketiga iaitu
 
-[1:10:07] social enterprise, including social enterprise and civil society. Because we need to create an ecosystem, especially in terms of the development of the land. And it's not just business, education, welfare, and so on. And hopefully, we hope that
 
-[1:10:34] Plus, we have many middle classes in Putra. They are not tycoons, they are not big bosses. They are comfortable, they have skills, middle classes. Because middle classes can play an important role in the third sector. And if we can do it well and take time, the government supports the third sector, it has its role and it works well.
+[56:28] Ibrahim Sani: Salah satu perkara yang kita nak tentukan adalah luar daripada PuTERA35, KEB, MEB dan sebagainya, kita nak tengok bagaimana socio-acceptance masyarakat Bumiputera sekarang terhadap program design, terhadap tingkah laku apa nama program-program intervention dan sebagainya, luar daripada ekonomi. Seperti contoh dari segi pendidikan, walaupun kita dah sembang pasal grantpreneur, ada juga grand educationpreneur. Dia first degree dia ambil MARA punya education ataupun JPA, kemudian professional certification dia ambil daripada tempat lain, kemudian PhD dia pergi ambil pula dekat JPA dan sebagainya, and then bila nak bayar balik, tak mahu bayar balik. I think this is emblematic, because if you think about this daripada segi pendidikan, then segala aspek pun macam tu. Dia nak ambil aje, nak tongkat. Ha ni kita cerita pasal topik-topik yang sangat sensitif, kita cerita pasal ni. So isn't this the same?
 
-[1:11:00] Dan saya berharap dalam masa 10-15 tahun ni Dan kita mula ada asamblance of foundation Yang provide that cultural support yang selama ini kita tidak ada Jadi kalau orang tanya, itu juga masalah saya lah kalau orang tanya So what's new? Apa ni? Tak habis-habis plan Bumi Putra gini-gini kan Memang kita tak ada benda-benda yang menarik seperti yang lepas benda-benda macam yang lepas yang ini ping form ke apa tak ada tapi fokus kita ialah betul-betul nak fokus kepada building that foundation supaya
 
-[1:11:43] the support system comes from both the first sector, the public sector, the private sector, and also the third sector, namely social enterprise, NGOs, civil society, and so on. And I think once we do that, I mean, the support to Bumi Putra, including after this, hopefully we will see more
 
-[1:12:11] the future with endowment, even though it doesn't need to be big, but it will start to exist. And then we take time, and for me, that's the same important thing in the future, with the special foundations of Bumi Putra that we have for a long time. Only if we have got all this working, then I think by 2035, there will be a little bit of this,
+[57:27] Rafizi Ramli: Habislah keluar portal semua, jadi headline lah.
 
-[1:12:38] protection against future challenges for Bumi Putra. So that's all in the works. It will be the basis. Alhamdulillah.
 
-[1:12:50] Where to burn the minister? We want to burn the minister. It's late at night. The one who is burning the minister. Yes, invite him, he won't burn. I mean, I'm concerned that the, like you said, right? We had so many plans and this and that. It's the same old, same old.
 
-[1:13:11] we have to really make sure that it's not the same old same old it's me and i think yeah important is the discourse and the engagement is important i'm not saying that you on your own are not capable of doing it but i think it's better that you have more people
+[57:32] Azlan Awang: Tapi how big how big is this group? I think tak not everybody is like that.
 
-[1:13:30] contributing ideas and experience and insights and what not. That's important. I think you sit in some meetings with me. I also hope that the stakeholders in
 
-[1:13:46] Bumi Putera ni pun tengok kesu... I mean, kita orang pun di peringkat kajian dan juga, you know, menteri like me, kita pun kena manage juga various competing interests.
 
-[1:13:59] Because there are groups like you who want to focus on the plan. But there are groups that are actually a pressure group that doesn't care if it's sustainable or not. As long as we get it, we have it. So that's also what sometimes we can't please everyone. But if it's a group like that, it's usually angry.
+[57:36] Ibrahim Sani: It is actually big, because my day job requires me to evaluate that and it is very big. It's big.
 
-[1:14:23] Kerana dia kata tak ada apa untuk kami ni Sebab budayanya lepas-lepas Kadang-kadang
 
-[1:14:29] We also deal with things like that, which actually from the government's report card, it's done, it's done, there are recipients, but it doesn't actually help the entire ecosystem of Bumi Putra. But it helps him. Yes, there is Bumi Putra that gets it, but it doesn't help the resilience of the whole.
 
-[1:14:52] That one I make no apology sebenarnya I mean saya dengan tugas saya Seberapa yang boleh
+[57:44] Rafizi Ramli: Saya ingat yalah kita kalau kalau yalah I suppose benda tu contentious kan. Different people think macam-macamlah kan. Cuma cuma kan, kalau saya lihat you know, let me put you one perspective kan. Dengan semua kelas menengah yang kita dah create daripada 70-an, 80-an, 90-an kan, kita tak ada satu pun lagi endowment ke, wakaf ke yang whatever kita panggillah, wakaf, endowment, yang mana Bumiputera contribute to pay for educational scholarship.
 
-[1:15:00] Saya nak fokus kepada the ecosystem Working with the right party To build resilience Dia akan ambil masa panjang sikit Dia tak ada quick wins Mungkin orang kata
 
-[1:15:10] The agenda of Bumi Putra is not tight, but it is more resilient than going to the quick win. This is happy, that is happy, but a large part is still challenging in 10 years time. But I still would hope that it would be substantive.
 
-[1:15:29] Not just Al-Qadar or whatever we do. The issue should be like that, but it's not like that. And at this time, with the donation of the Bum Putera company, with the wage parity, I think it's not clear yet. Where are we going? So I hope, and I hope that Putera 35 also has an element of work in progress. We can add more stocks and what not.
+[58:23] Ibrahim Sani: Pay it forward lah kiranya.
 
-[1:15:59] Perkuatkan Apa tu Outcome Dan Endgame dia macam mana
 
-[1:16:04] Saya rasa penting pasal dan apa ni buat masa ni kalau saya bincang ramai orang Dia orang ada yang kata kat mana yang eye catching ni tak nampak lagi, nampak tak? Mungkin dia tak faham lah But when we saw that okay you had this, you had that kan eh Kita kata okay these are components that can be built up Cuma dia perlu di, perlu di You can convert that into something that's measurable over quarter ke semi-annual ke yearly ke 120 ke apa, you got to, you got somehow kena convert menjadi macam kalau boleh even entry point projects. Kalau boleh.
 
-[1:16:43] Then it's got to be something that is already Boleh dilaksanakan jugak lah So that process tu I think I hope we will get involved lah Dan apa tu
+[58:24] Rafizi Ramli: Ha, jadi maksudnya elemen contributing balik itu tak ada, almost non-existent. Betul ke tidak?
 
-[1:16:54] Dan pastikan, I think kita 11 tahun. Jadi kalau setahun ni kita perkuatkan dari segi baseline, dari segi detail, the granular and what not. I think then of course we have to look at the other non-economic macam tadi kita cakap pasal sikap, mindset, social, the social aspect of it. What's called social capital and so on. Kita kena address that juga. NGO. Itu tanggungjawab kita, bukan kerajaan.
 
-[1:17:26] I think your role would be to validate our efforts. Meaning, when we do it, you have to support us. But I think that is our responsibility. How to make sure that there is solidarity, there is a pretty cohesion among Buputera.
 
-[1:17:47] earnestness nak pursue to develop our industries and so on kan jadi itu saya rasa perlu ada that hubungan, hubungan baik rapat
+[58:32] Azlan Awang: I I memang dalam MTEM, kita promote what we call social sanction lah, you know. Because itu basically to discipline orang yang does not toe the line lah. Dia breach agreements and you know, sometimes you cannot rely on laws and courts and what not. You kena ada some kind of a trust and what not. Jadi kadang-kadang orang tak macam in the in the non-Malay community, dia orang ada that that that facility tu, bukan facility, that culture tu.
 
-[1:17:57] We have made this commitment to the Prime Minister actually. That day one, we are here to make sure that whatever agenda that you have, and we feel comfortable because when I take what I fall in love with your EWS, your quarterly, because I said this is good.
 
-[1:18:16] And I think there are more aggregate data that we can What is it? Compile, collect, etc. Like let's say tax, banks, right? Periodical so that it can be trialled. But it's not easy to do that. Because the rules did not allow it before. So, I think that's why this year
 
-[1:18:36] bila kerajaan bentangkan akta perkongsian data sesama Jabatan Kerajaan jadi lebih banyak granular data seperti itu contoh sekarang kan, kalau
+[58:59] Rafizi Ramli: Ha, culture.
 
-[1:18:47] I was confused as a secretariat to the Majlis Ekonomi Ibu Putra to get data from SSM to drill down the Ustaz Ibu Ibu Putra, but I didn't get it. Because the rules of the act are not allowed. But I think going forward, and that's also what I know, how we want to make sure that
 
-[1:19:08] assessment kita, diagnosis kita itu betul-betul bersandarkan kepada data yang betul dan peranan itu boleh sebenarnya dimainkan oleh agensi-agensi kerajaan yang kemudian dikongsi I mean, take economy for example lah, kita ada
 
-[1:19:24] hala tuju dan juga kayu hukum yang lebih terurus untuk ekonomi negara sebab kita ada banyak pelaporan-pelaporan sama ada daripada kerajaan ataupun daripada macam World Bank semua ni yang memang betul-betul provide the direction kan untuk sebenarnya untuk Bumi Putera masih belum ada perkara itu kan so those are the capacity building yang sebenarnya boleh dibuat oleh beberapa agensi Bumi Putera ekosistem. So those things yang kita mula dengan laporan gaji setiap suku tahun tu and that is memang very insightful. Dia bukan saja untuk bukitkan tapi keseluruhan gambaran contohnya kita tahu. It tells the true story. You tak boleh lari dah. Kita tahu contohnya you buatlah minimum wage macam mana pun dia tidak menyelesaikan keseluruhan masalah kerana dia ada wage yang kat tengah ni yang gaji RM1,800 ke RM4,000 ni makin tertekan-tertekan kan jadi pendekatan yang sama tu sebenarnya boleh dibawa juga kepada isu-isu yang bersambit dengan Bumi Putra lah and I think we undertake that cuma dia bukan perkara yang mudah lah itu pun kesian kat DOSM dan kena panggil EPF, kena panggil SOCSO, kena panggil LHTM lah kan Itulah yang diperlukan juga dalam kita nak cat soal Bumi Putra ni We really need to be objective on our diagnosis and hypothesis going forward lah Tapi adakah yang masuk yang memat yang macam SSM contohnya Kalau dia nak kongsi pun tak boleh sebab dia tak ada peraturan yang membenarkan Tak boleh akta tak bagi Eh saya rasa boleh Kalau beli lah Belilah Tapi nak beli Dia ada dua cara satu Satunya kita beli report lah tapi kalau you minta aggregate I mean kita pun tak mahu per piecemeal per company kita tak mahu tu tapi kalau kita nak per company pun boleh kan because kalau kita nak identify for researcher saya not for research actually for actual actually kita kena bayar banyak lah itulah tapi kalau let's say let's say lah eh
+[59:00] Azlan Awang: Social sanction. Juga a form of sanction on on on this endowment ni, endowment ni. Actually orang Melayu dia dia tidak lokek, macam collection zakat is quite big.
 
-[1:21:44] Teraju who did it, Teraju is a government agency. Why should they charge? Eh, not they charge, they pay. Charge Teraju? So those are the things lah kan. They are inter-ministry, they have to pay.
 
-[1:22:01] Baik, okey.
 
-[1:22:03] Kalau macam tu Boleh rumus?
+[59:10] Ibrahim Sani: Tak, tak lokek.
 
-[1:22:06] Yes, you can. Okay, let's make a summary about not only the 35th anniversary, but also the steps that have been taken by the government for the past 20 months. Is Pak Lan satisfied or is there still a gap? And if there are two or three things that can be shared with the people, what is the most important thing for Pak Lan now? I think in terms of what...
 
-[1:22:30] M-TEM is not a gene, its character is to praise the government. That's not M-TEM. We say what we feel is right and we have no malice, we have no political reason for doing that. Which means, what we think needs to be said, we say it. I think, I hope the government, I think you are, what is it, you are,
 
-[1:22:56] administration yang more mature than that kan jadi kita rasa kalau kita perlu komen Mbak Abang kata tak nak puji tapi dia puji juga
+[59:11] Azlan Awang: Ha? It's quite big. Tinggal lagi dia takut orang misuse.
 
-[1:23:04] Memang saya rasa bila saya nampak, one of the things, kena puji satu lagi I think the 30 odd initiatives and policies that you did, I think I've never seen that so fast Everything is going to be launched Julai, Ogos, September, Julai, Ogos I was amazed lah, I mean that's why I ask you tadi whether ini semua dibuat internally ke? Ini semua dibuat internally ke? How you manage that kan? Kita orang balik pukul 10 malam kan tetap malam Soalan tu ditanyakan, untuk yang menonton soalan tu ditanyakan sebelum kita start the reality is I think is the engagement and apa tu discourse is important otherwise macam even on Bungi Putera macam PMX kata okay KAB ni kena ada involvement on non-Bungi Putera in certain aspect kita pun tak setuju
 
-[1:23:53] Tapi on another aspect, katakan we need to have a discourse or katakan we nak set target on the
 
-[1:23:59] on the GDP capital or on the contribution of people trying to make enterprise there must be a discourse and there must be consensus some kind of a social contract like a revisit on the social contract, okay this is what we're going to do it's important and they must be confused because we're talking about we do not want another Bangladesh you know what I mean? and at the rate things are going, I mean
+[59:15] Ibrahim Sani: Jadi they mistrust the institution, not the behavior of giving back.
 
-[1:24:27] Like Minsky said, if you hit, when 30% of youths are unemployed, and we are coming to that because we don't know the real underemployment and what not, whether it is hitting that 30%. When underemployment or unemployment hit 30% amongst the youth, that is a very dangerous situation.
 
-[1:24:47] So I think it's not everything is beautiful, rosy. It's not. If we look at it, just like the EPF savings, the recent UNICEF report about people going to bed hungry, eating twice a day. These are real stories. But these real stories,
 
-[1:25:14] The present governor, Dato' Rashid, in 2017, he was talking about, but he was talking in the context of financial literacy. But he said, 75% of Malaysians, he didn't say what, 75 Malaysians, he can't even say RM1,000. RM1,000?
+[59:19] Azlan Awang: Yes. Jadi dia rasa baik aku bagi kat zakat, bagi kat apa tu you know, establish charities.
 
-[1:25:38] Maknanya dia punya liquidity tu, savings ke apa ke Tak ada not even RM1,000, 75%
 
-[1:25:45] And then 50% if it is lost in the search, today in a week it is out. That's the Deputy Governor of Bank Negara. Dated 2017. Yes. So with all the telltale data, UNICEF and what not. And then recently USM's Vice Chancellor, not recently, about a year ago. He was talking about Ben Spine when he made a selection on row 2.
 
-[1:26:10] for military training at USM, they said 50% was rejected because of Ben's mind. Now what is this? This is the, what UNICEF did about About the back of the head? Yes. Physical stunting and under nourishment, not enough proper food and what not.
+[59:26] Rafizi Ramli: Ataupun kena scam lah. Ataupun kena scam lah, beli emas ke apa kan.
 
-[1:26:28] Kalau fizikal je tak apa je kan, buat mental stunting.
 
-[1:26:32] Bagaimana dengan kecerdasan intelektual?
 
-[1:26:34] Tetapi saya ingin membuat kesimpulan dengan cara yang sama
+[59:31] Azlan Awang: Jadi saya rasa I mean, but I I memang all for this. In fact dalam MTEM pun kita ada propose this collection of some 1% ke half percent half percent of your income bagi masukkan dalam fund apa ni managed by PNB ke apa kan. Everybody contribute kan, and then that can that can be used. You know, yalah macam-macamlah mechanism that we can propose. But this.
 
-[1:26:38] And then, we don't like to discuss mechanisms and I think that is your strong suit and you are the government. We rather want to pursue what should be goals.
 
-[1:26:54] what should be the outcome, what do you want to see. And that got to be substantial. It should not be some alaqadah and lepas batuk ketangga. It's got to be substantial and it's got to be meaningful. It means we are going to really avoid serious insecurity and dissatisfaction among the people. And basically it's that. This has nothing to do with race or anything.
 
-[1:27:22] Actually, we have to address dia ni. Jadi, apa...
+[59:56] Rafizi Ramli: Tapi what's stopping us? What's stopping us? Apa yang sebabnya sampai sekarang? Jadi dia begini kan, yalah kita bolehlah mengelak ke apa. Tapi realiti dia contohnya begini kan. Cultural, secara budaya dia kan, kenapa sekolah-sekolah Cina dia punya kemudahan tu jauh lebih baik? Ada sekolah Cina yang yang kelas dia memang semua dah big screen dah. Sebab tu sekarang jumlah yang menghantar ke sekolah Cina ni makin lama makin tinggilah daripada orang Melayu kan. Budaya dia memang dia tak payah kaya-raya atau jawatan besar, dia kalau setakat RM2,000-RM3,000 gaji, dia akan contribute tau RM100 sebulan, RM200 sebulan kan. Kita langsung tak ada budaya tu. I mean, I come I'm old boy MCKK kan. For all Renong tak Renong semua kan.
 
-[1:27:26] In order to do that, that kind of serious effort must be done. If not, we don't want something untoward like that to happen.
 
-[1:27:36] So, that's it. I think we do not know everything. So, we always say that you must, and this is a quotation by someone, Marxist actually, he was saying that you must have the optimism of the will and lesser optimism or more pessimism on the intellect.
 
-[1:27:55] I think it's this, because if we want to depend on reasons and this and that, it's hard. But what is our will? Our will is that
+[60:52] Azlan Awang: Renong banyak orang MCKK.
 
-[1:28:05] Like we always say, no one to be left behind. So, who must define what is that? What is no one to be left behind?
 
-[1:28:12] One of the things that I would want to suggest on the basis of progressive wages is to achieve, and it goes back to household income, 90% of our household income must be above the living wage. The living wage has been established by the EPF, the Bank of the Nation since 2017. It's been a long time since we've done all this.
 
-[1:28:35] So, it has to be revisited. EPF renews it every year. So, if 90% of households are above, at the moment it's 50%, 50% of households, regardless of race,
+[60:54] Rafizi Ramli: Ha kan, for all the Renong tak Renong, everything kan. Tak ada. Bolehlah sekali-sekala contohnya nak baiki tandas, okey, kena buat crowd fund semua kan. Tapi structurally wise memang tak adalah. Tak ada. Jadi you know, MARA, PM umumkan buat wakaf. Actually, that is part of the inspiration. Dengan segala yang yang invest dan sebagainya, sepatutnya MARA alumni memang dah boleh contribute untuk wakaf. Jadi kerajaan dah sediakan dulu 100 juta ni wakaf endowment. But remains to be seen lah, we have to ask the question, what's stopping us? Kenapa kita ada masalah budaya itu? And part of it yang macam Ibrahim kata sebenarnya, part of it sebab yalah cabaran kita macam mana nak melahirkan ke arah itulah. And if anything, diagnosis sayalah kan, sebenarnya kita kena bergerak ke arah itu sebabnya ialah selagi ekosistem tu tak ada, dan ekosistem tu must be partly budaya juga. Jadi orang orang bandingkan kan, kalau manager Melayulah daripada private sector kan, dia nak go through business kan, tak mudah. Dia kena cari siapa dia ni, dia nak cari modal lah, semua panjang ceritalah. Sebab tu ramai orang kata, "Tak apalah, aku kerjalah kan." Tapi sebenarnya budaya itu kalau dalam masyarakat Cina kan, budaya itu memang dah jadi sebahagian daripada budaya dia. And this has a sociological dan historical perspective. Bila masyarakat Cina datang berhijrah daripada coastal area Cina dululah, pantai dia datang ke Malaya masa tu kan, dia datang dengan kenalan adik-beradik. So dia datang, dia bekerja dulu, dia kumpul duit, kemudian dia mula perniagaan. Bila dia ada perniagaan tu, adik dia datang, sepupu dia datang. Jadi they become very clannish. Jadi dia jaga klanlah, suku dia, macam Foochow dengan cerita Foochow dia, Hakka dengan cerita Hakka dia. Jadi budaya itu oleh kerana mereka telah dilatih untuk menjaga masing-masinglah. Jadi itu part and parcel. Jadi kalau dia tahu okeylah, budak tu nak buat perniagaan, okeylah aku bagilah RM50,000 dulu, kau bagi dulu RM50,000 semua, sebab itu dah budaya dia beratus tahun. Jadi cabaran kita, selain daripada dasar semua yang kerajaan buat semua tu, yang itu saya ingat kerajaan akan terus. Dalam PuTERA ke, pelan apa ke, segala jenis peruntukan akan berterusan. That is being managed. But how are we going to manage this cultural bit ni?
 
-[1:28:49] 50% of our school is below living wage. And in some states, it's 60, 70%.
 
-[1:28:55] This is a very bad situation actually. Finally it comes to that. Household, it's not so much how much you export and we are gila punya export. We are exporting 1.6 trillion. Now this has got something to do with low wages and what not because kita niya focus is too much on the export market. And lesser on the domestic demand. And this is something that like United Nations Conference on Trade and Development, they are reminded that
 
-[1:29:22] Look, the export debt strategy doesn't work anymore. Since the 2008 crisis, it doesn't work anymore. You have to give more focus on your domestic demand. You have to give more focus on your neighboring deep market, like ASEAN. You have to focus on how do you improve your domestic demand? You have to focus on wages. There must be some intervention, the role of government, things like that.
+[63:41] Azlan Awang: Kalau saya boleh cadangkan, of course this is a there is a conflict of interest ya, I nak cadangkan. Macam.
 
-[1:29:49] I think this is not political, especially we are non-partisan. We hope that with what's said, we must do something serious with this Putera.
 
-[1:30:09] I hope so. I think this is the first time we have discussed the topic of capitalist discussion that uses Marxist quotes. That's encapsulating this, I suppose, the social democratic enterprise. Marxist is not communist. He is part of the enlightenment movement. Okay.
 
-[1:30:32] Okay kalau tak ada apa lagi kita boleh akhiri perbincangan ini Awal-awal saya ingatkan ada perbalahan tak dapat perbalahan tu Tapi perbincangan tu sangat menarik sebab orang nak balik dah, selamat dan penat tapi Pak Lan terima kasih I'm clocking my what, my 15 hours ke apa ni kan bateri tu pun 3% 3% tapi tadi kita dah dengar daripada Pak Lan ataupun Azlan Awang, fellow kanan daripada Majlis Tindakan Ekonomi Melayu dan juga yang berhormat Rafizi Ramli, Menteri Ekonomi dan kalau kita boleh geserkan penonton untuk teruskan bersama dengan kita punya social media yang berhormat Fizi, all the social media dekat situ. Sekian saja. Terima kasih. Terima kasih banyak. Terima kasih.
+[63:46] Ibrahim Sani: We like conflicts of interest.
 
-[1:31:21] I can see.
+
+
+[63:48] Azlan Awang: You like conflict of interest, okay. Macam Dewan Perniagaan Melayu, right? Dewan Perniagaan Melayu now history dia orang ni memang macam-macamlah. Macam-macam cerita kan. Tapi actually the present leadership are professionals, right? They don't have they don't carry files jumpa menteri, they don't do that. Dia memang dedicated. They don't get paid, they don't get paid, and they suffer a lot of you know, people attack dia orang macam-macam.
+
+
+
+[64:14] Rafizi Ramli: Legasilah.
+
+
+
+[64:14] Azlan Awang: Yes. That is the present leadership, right? And.
+
+
+
+[64:18] Ibrahim Sani: I call this legacy trauma.
+
+
+
+[64:19] Azlan Awang: Yeah. Jadi saya rasa that the the the missing cultural cultural strength that bangsa lain ada tu kan and that those take hundreds of years.
+
+
+
+[64:31] Rafizi Ramli: Ya, dia bukan sebenarnya nak cerita orang Melayu tak cerdik, orang Cina lagi cerdik. Itu culturally dah beribu tahun macam itu kan. Kita ni nak kena bina sekaranglah.
+
+
+
+[64:41] Azlan Awang: Jadi orang orang Melayu, kita bergantung kepada good institution macam Dewan Perniagaan Melayu. Now, Dewan Perniagaan I think the government, that's why I said conflict of interest, right? Dewan Perniagaan, must must recognize Dewan Perniagaan Melayu. Must recognize. And then facilitate and apa tu bagi bagi support lah. You know what I mean? Tapi macam Dewan sekarang ni, ini because of historical problem, the present leadership I I'm not in the leadership, I'm not office-bearer. I'm just a researcher for them, right? So.
+
+
+
+[65:17] Rafizi Ramli: Eh, you're not office-bearer?
+
+
+
+[65:18] Azlan Awang: I'm not.
+
+
+
+[65:18] Ibrahim Sani: Fellow.
+
+
+
+[65:19] Rafizi Ramli: Bukan hari tu duduk dalam apa nama ni, PEMUDAH?
+
+
+
+[65:23] Azlan Awang: PEMUDAH? Only as an alternate.
+
+
+
+[65:25] Rafizi Ramli: Oh, only sebagai alternate.
+
+
+
+[65:27] Azlan Awang: Alternate to the president, because when president tak boleh datang, I attend.
+
+
+
+[65:29] Rafizi Ramli: I see, I see.
+
+
+
+[65:32] Azlan Awang: Because I think the the the Okay, tak apalah.
+
+
+
+[65:36] Ibrahim Sani: Tak apa, finish your thought, finish your thought.
+
+
+
+[65:37] Azlan Awang: Okay. Jadi apa the recognition. I think the orang Melayu ni got got to you got to have a stick and carrot punya situation, right? I tak boleh cadangkan the the overall solution, the whole the whole solution lah, tapi some kind of that kind of apa tu associations, it must must be there lah. Kalau dulu dia orang ada the secret societies and what not to enforce and what not kan, now you have to rely on association. Tapi sekarang ni, orang tak tak go for association anymore, because the apa tu agensi pun dia dia provide macam-macam now. Jadi dia also jadi the role of Dewan tu sometimes because because dia orang ni pula macam tadi kita pasal grantpreneur and what not kan, agensi provide funding, agensi provide the hand-holding, agensi provide even even macam escalating masalah dia orang pun they do to that extent. Jadi agensi yang yang dia gravitate to agencies. Which is okay, right, tapi up up to certain point, agensi ni pula dia ada protokol. Dia tak boleh cakap pada menteri, "Eh we want this, we want we demand this." Tak boleh. Tapi Dewan can, associations can, kan? At their own peril lah, but we can, you know. We don't care, kan? So itu yang kena bawa bawa balik institusi macam Dewan and Majlis Tindakan Ekonomi Melayu yang sebenarnya tak ada kepentingan apa ni. I mean, we have fought all Prime Ministers lah, right? Masa macam MTEM is the people behind the anti-CPTPP, bantah CPTPP. And one I'm one of the founder of that lah. Jadi kita tak kira apa Prime Ministers ke apa, kalau kita rasakan ini not only affects masyarakat Melayu, tapi masyarakat masyarakat semua, masyarakat Malaysia as a whole. Tapi it was not nilah. Anyway, that's another subject that we should discuss. Actually it is in my questions apa ni, tapi I think tak tak cukup masa.
+
+
+
+[67:28] Rafizi Ramli: Okey, let let me respond pandangan saya untuk itu kan. Saya sebenarnya bersetuju. Isu kita ialah yalah, maksudnya sebab itu soal governance, walaupun kadang-kadang orang tak suka duk cerita pasal tata kelola, tata kelola, governance ni, sebenarnya sangat penting. Kerana institusi tu tidak boleh dibina dalam tempoh yang pendek, dia ambil masa yang panjang. Jadi kalau contohnya proses kerajaan sebelum nilah kan, dia ada sejarah kan. Dewan-dewan yang Melayu, institusi yang Melayu ni, dia bermula dengan baik, kadang-kadang dia lari sedikit, jadi lama-lama ada jurang yang agak besar. Dan akhirnya dia jadi yang macam Pak Lan kata tadilah, beban itu hampir semuanya ditanggung oleh agensi kerajaan, which is not good sebenarnya di masa akan datang. Sebab kita nak bina resilience and self-sustainability lah kan. Saya kalau kalau di peringkat Kementerian Ekonomi kan, sebab itu kita dah mula meja bulat. Cuma yalah saya saya pun kena pastikan juga bahawa fokus kita itu ialah kepada you know, as much as possible, push aside conflict of interest, cerita yang dulu-dulu. Maksudnya dia kadang-kadang tu tertumpu kepada benda yang di luar mandat. So kalau cerita yang sebahagian daripada dewan atau institusi yang lepas-lepas tu, sebahagiannya kerana cerita funding lah kan. Kerajaan bagi geran, dia jadi benda lain kan. So I think benda tu kita boleh selesaikan. We put the proper governance and then kita continue dengan kerajaan pun kena bantu untuk bina this institution. Itu saya tak tak tak persoalkan. In fact sebenarnya dalam RMK13 kan yang yang yang kita now slowly putting things together kan, salah satu pilar utama, tiang utama going forward ialah kita nak pastikan kita ada apa ni first sector, second sector, third sector. First sector ni public sector. Itu memang sedia ada dan kita kena perkuatkan. Second sector ialah private sector, sektor swasta, pun sama. Tapi bermula RMK13, kita akan bina dasar tu ke arah memperkuatkan sektor ketiga iaitu social enterprise, termasuklah.
+
+
+
+[70:10] Azlan Awang: Social enterprise and and civil societies lah.
+
+
+
+[70:12] Rafizi Ramli: And civil society sebenarnya, kerana kita perlukan untuk wujudkan ekosistem itu, terutamanya juga dalam soal pengupayaan Bumiputeralah. Dan dia bukan bisnes saja tau, pendidikan, kebajikan, dan lain-lain kan. Dan dan hopefully lah kita berharap supaya tambah sekarang kita ada banyak kelas menengah Bumiputera ni. Dia bukan taikun, dia bukan bos besar. Dia dia comfortable, dia ada kemahiran semua, kelas menengah. Sebab kelas menengah ni yang sebenarnya boleh main peranan yang penting dalam sektor ketiga ni. Dan kalau kita boleh buat dengan baik dan ambil masa, kerajaan sokong, sektor ketiga pun ada peranan dia, and it works well, dan saya berharaplah dalam masa 10-15 tahun ni, dan kita mula ada a semblance of foundation yang provide that cultural support yang selama ini kita tidak ada. Jadi kalau orang tanya, itu juga masalah sayalah kalau orang tanya, "So what's new? Apa ni tak habis-habis pelan, tak habis-habis pelan Bumiputera gini gini kan." Memang kita tak ada benda-benda yang menarik seperti yang lepaslah. Kalau kalau maksudnya daya tarikan tu benda-benda macam yang lepas, yang ini pink form ke apa, tak ada. Tapi fokus kita ialah betul-betul nak fokus kepada building that foundation supaya apa nama ni the support system itu datang both daripada first sector, sektor awam, sektor swasta, dan juga sektor ketiga iaitu social enterprise, NGO, civil society, dan lain-lain. And I think once we do that lah kan, maksudnya sokongan kepada Bumiputera, termasuklah lepas ni hopefully kita tengok lebih banyak yang ke depan dengan endowment, walaupun tak perlu besar, tapi dia mula wujud. And and then we take time, dan bagi saya itu benda yang sama penting in the future dengan dasar-dasar khusus Bumiputera yang yang kita memang dah ada lama. Only if we have got all this working, then then I think by by 2035 tu adalah sedikit apa nama ni protection against future challenges for Bumiputeralah. So that's there are all in the works tau, dia akan dijadikan dasar sebenarnya.
+
+
+
+[72:48] Azlan Awang: Alhamdulillah.
+
+
+
+[72:50] Ibrahim Sani: Tang tang mana bakar menteri ni? Kita tak ada bakar menteri.
+
+
+
+[72:54] Rafizi Ramli: Malam letih ah.
+
+
+
+[72:56] Ibrahim Sani: Bakar-bakar, panggang, panggang menteri, yang panggang menteri.
+
+
+
+[72:58] Rafizi Ramli: Yalah, jemput dia, dia tak bakarlah.
+
+
+
+[73:00] Azlan Awang: I mean I mean, I'm I'm concerned that the yalah macam like you said right, that we had so many plans and this and that kan and it's the same old same old. So we have to really make sure that this is not the same old same old. It's it's it's ni and I think yang important is the discourse and the engagement tu is important. I'm not saying that you on your own are not capable of doing it, tapi I think it's better that you have more people apa ni contributing ideas dan apa ni experience and insights and what not. Penting tu.
+
+
+
+[73:36] Rafizi Ramli: Cuma Lan, yalah, I think you sit in some meetings with me kan. Saya harap juga yalah apa ni stakeholders yang dalam Bumiputera ni pun tengok. I mean, kita orang pun di peringkat kerajaan dan juga you know menteri like me, kita pun kena manage juga various competing interests. Sebab ada kumpulan like you yang nak fokus kepada pelan, gini gini. Tapi ada kumpulan yang sebenarnya pressure group yang dia tak kisah ni sustainable ke tidak, gini gini gini, asalkan kami dapat kami punya. So itu juga yang yang kadang-kadang yalah kita tak boleh nak please everyone. Tapi kalau kumpulan yang macam tu, selalunya dia marahlah, kerana dia kata tak ada apa untuk kami ni. Sebab budayanya lepas-lepas kadang-kadang kita pun layan juga yang macam itu yang sebenarnya daripada kat laporan kerajaan, dah buat dah buat, dah ada penerima gini gini, tapi dia tak membantu sebenarnya keseluruhan ekosistem Bumiputera kan.
+
+
+
+[74:45] Ibrahim Sani: Tapi dia bantu dia.
+
+
+
+[74:47] Rafizi Ramli: Yalah, yang adalah Bumiputera yang dapat, tapi dia tak membantu resiliens keseluruhanlah. Jadi that one I make no apology sebenarnya. I mean, I'm saya dengan tugas saya seberapa yang boleh, saya nak fokus kepada the ecosystem, working with the right party to build resilient. Dia akan ambil masa panjang sikit, dia tak ada quick wins, mungkin orang kata tak pekat agenda Bumiputera dia, tapi itu lebih resilient daripada kita pergi kepada quick wins yang ini happy, yang itu happy, tapi sebahagian besar masih lagi ada cabaran in 10 years' time lah kan.
+
+
+
+[75:25] Azlan Awang: But I I still would hope that it would be substantive lah, maknanya bukan just ala kadar ataupun asalkan kita buat, it should not sepatutnya begitulah, paling tak begitu. Dan buat masa ni dengan dengan apa tu sumbangan perusahaan Bumiputera dengan apa tu wage parity tu, saya rasa tak jelas lagi tau ke mana kita nak pergi tu. Jadi saya saya harapkan in the I dan saya harapkan juga bahawa PuTERA 35 ni juga ada juga elemen work in progress lah. Boleh kita tambah tokok tambah dan apa ni perkuatkan apa tu outcome dan apa tu end game dia macam mana. Saya rasa penting, pasal dan apa ni buat masa ni kalau saya bincang ramai orang, dia orang ada yang kata, "Kat mana yang eye-catching ni? Aku tak nampak lagi," you know what I mean? Mungkin dia tak fahamlah. But we when we saw that okey you had this, you had that kan, kita kata okey these are components that can be built up. Cuma dia perlu di perlu di you kena convert that into something that's measurable over quarter ke, semi-annual ke, yearly ke. And then yang the ikhtiar-ikhtiar tu yang berapa, 120 ke apa. You you got to you got somehow kena convert menjadi macam kalau boleh even entry point projects kalau boleh. You know what I mean, it's got to be something that is already boleh boleh dilaksanakan jugalah. So that process tu, I think I hope we will get involved lah. Dan apa tu dan pastikan, I think kita 11 tahun, jadi kalau setahun ni kita perkuatkan dari segi baseline, dari segi the detail, the granular, and what not kan, I think I think then of course then we have to look at the other non apa tu non-economic macam tadi kita cakap pasal sikap, mindset, social the social aspect of it kan, what's called social capital, and so on, kita kena address that juga, right? And I think that itu memang itu sebenarnya tanggungjawab people like Dewan lah, people like other NGOs. That is our responsibility, not kerajaan. Kerajaan, I think your your role would be to to to to validate kita punya effort tu. Maknanya kalau bila kita buat, you kena you kena you kena support us lah. Tapi memang I rasa kita you that is our responsibility, how to make sure that there is solidarity, there is apa ni cohesion among Bumiputera and earnestness nak nak pursue to develop our industries and so on kan. Jadi itu saya rasa perlu ada that hubungan hubungan baik apa ni rapat. We have made this commitment to apa ni Perdana Menteri actually, that Dewan, we are we are here to to make sure that apa ni whatever agenda that you have. And kita merasa comfortable because when I think what I fall in love with your your EWS lah, your quarterly tu. Because I said this is this is good. And I saya rasa lebih banyak lagi aggregate data yang kita boleh apa ni.
+
+
+
+[78:23] Ibrahim Sani: Nak rangkumkan, kumpulkan sebagainya.
+
+
+
+[78:24] Azlan Awang: Ha, macam let's say tax, pada bank kan.
+
+
+
+[78:27] Ibrahim Sani: Periodical supaya boleh tengok bertahap.
+
+
+
+[78:28] Rafizi Ramli: Tapi tak mudah nak buat tu tau. Sebab peraturan tak membenarkan sebelum ni. Jadi but saya ingat tulah, sebab tu tahun ini bila kerajaan bentangkan Akta Perkongsian Data sesama jabatan kerajaan, jadi lebih banyak granular data seperti itu. Contoh sekarang kan, kalau TERAJU sebagai sekretariat kepada Majlis Ekonomi Bumiputera kan, nak dapatkan data daripada SSM untuk kita drill down lagi pasal Bumiputera, tak dapatlah. Sebab peraturan dan akta tidak membenarkan. But I think going forward lah. Dan itu juga yang saya ambil maklum macam mana kita nak pastikan bahawa assessment kita, diagnosis kita tu betul-betul bersandarkan kepada data yang betul dan peranan itu boleh sebenarnya dimainkan oleh agensi-agensi kerajaan yang kemudian dikongsi. I mean take economy for example lah. Kita ada hala tuju dan juga kayu ukur yang lebih terurus untuk ekonomi negara, sebab kita ada banyak pelaporan-pelaporan, sama ada daripada kerajaan ataupun daripada macam World Bank semua ni yang memang betul-betul provide the direction kan. Untuk sebenarnya untuk Bumiputera masih belum ada perkara itu kan. So those are the capacity building yang sebenarnya boleh dibuat oleh beberapa agensi Bumiputera yang akan membantu the whole ecosystem. So those things yang kita mula dengan laporan gaji setiap suku tahun tu, and that is memang very insightful. Dia bukan saja untuk Bumiputera, tapi keseluruhan gambaran. Contohnya kita tahu.
+
+
+
+[80:10] Azlan Awang: It tells the true story lah.
+
+
+
+[80:11] Rafizi Ramli: It tells the true story, you tak boleh lari dah. Kita tahu contohnya, you buatlah minimum wage macam mana pun, dia tidak menyelesaikan keseluruhan masalah, kerana dia ada wage compression. Dan yang kalau tak berhati-hati, yang yang kat tengah ni, yang gaji RM1,800 ke RM4,000 ni makin tertekan tertekan kan. Jadi pendekatan yang sama tu sebenarnya boleh dibawa juga kepada isu-isu yang bersabit dengan Bumiputeralah. And I think we we undertake that. Cuma dia bukan perkara yang mudahlah. Itu pun kesian kat DOSM dan kena panggil EPF, kena panggil PERKESO, kena panggil LHDN lah kan. But I think it's a good start dan perkara itulah yang diperlukan juga dalam kita nak catat soal Bumiputera ni. We really need to be objective on our diagnosis and hypothesis going forward lah.
+
+
+
+[81:04] Azlan Awang: Ya ya.
+
+
+
+[81:05] Ibrahim Sani: Tapi adakah itu maksud Yang Berhormat yang macam SSM contohnya, kalau dia orang nak kongsi pun tak boleh sebab dia tak ada peraturan yang membenarkan dia orang berkongsi?
+
+
+
+[81:11] Rafizi Ramli: Tak boleh, akta tak bagi.
+
+
+
+[81:13] Azlan Awang: Eh, saya rasa boleh. Kalau beli.
+
+
+
+[81:16] Rafizi Ramli: Belilah, beli. Yalah, tapi nak beli itu.
+
+
+
+[81:19] Azlan Awang: Dia ada dua cara. Satu, satunya kita beli, RM15, RM15 you can get a 5-year accounts. Tapi kalau you minta aggregate, I mean.
+
+
+
+[81:29] Ibrahim Sani: Kita pun tak mahu per piece meal per company, kita tak mahu tu.
+
+
+
+[81:33] Azlan Awang: Tapi kalau kita nak per company pun boleh juga because kalau kata you nak identify.
+
+
+
+[81:35] Ibrahim Sani: Ada juga untuk researcher sebagainya.
+
+
+
+[81:37] Azlan Awang: No, not for research, actually for actual actual sector planning.
+
+
+
+[81:39] Rafizi Ramli: Boleh, tapi kena bayar banyaklah, ha itulah kan.
+
+
+
+[81:42] Azlan Awang: Tapi kalau let's say let's say let's say lah eh, TERAJU yang buat, TERAJU is a government agency. Why should they charge?
+
+
+
+[81:49] Rafizi Ramli: Eh, dah dia charge. Dia bayar.
+
+
+
+[81:51] Azlan Awang: Charge juga? Astaghfirullahalazim.
+
+
+
+[81:53] Rafizi Ramli: Ha, so those are the things lah kan. Dia inter-ministries, inter-department, kena bayar.
+
+
+
+[81:57] Azlan Awang: Yalah, tapi from one pocket to another lah.
+
+
+
+[81:59] Rafizi Ramli: Ha habislah kan.
+
+
+
+[82:01] Ibrahim Sani: Baik. Okey, kalau macam tu, boleh rumus?
+
+
+
+[82:06] Rafizi Ramli: Ha, bolehlah.
+
+
+
+[82:07] Ibrahim Sani: Okey, kita buat rumusan sikit tentang bukan sahaja PuTERA35, tetapi langkah yang telah pun diambil oleh kerajaan sepanjang 20 bulan lebih kurang ni. Adakah Pak Lan berpuas hati ataupun ada masih lagi kelompongan? Dan kalau ada dua perkara, tiga perkara yang boleh dikongsikan kepada Yang Berhormat, apa yang perkara yang paling penting untuk Pak Lan sekarang ni?
+
+
+
+[82:28] Azlan Awang: Saya rasa dari segi apa MTEM ni bukan dia punya gen dia, apa ni karakter dia is to puji apa ni bodek kerajaanlah. No, it's not MTEM lah, all right. Kita say what is what we feel is right and we have no malice and we have no political political apa reason for doing that lah. Maknanya mana yang kita rasa perlu dicakap, kita cakaplah. I think, I hope kerajaan, I think you are apa nilah, you are a an an administration yang more mature than that kan. Jadi kita rasa kalau kita perlu komen, kita akan komen.
+
+
+
+[83:03] Ibrahim Sani: Baru cakap tak nak puji, tapi dia puji juga.
+
+
+
+[83:05] Azlan Awang: Ha? Tak, memang memang saya rasa bila bila saya nampak and one one of the things kena puji satu lagi, I think the 30 odd initiatives and policies that you did, I think I've never seen that so fast. Everything is going to be launched July, August, September, July, August. I was amazed lah. I mean, that's why I asked you tadi whether ini semua dia buat internally ke.
+
+
+
+[83:24] Rafizi Ramli: Ni semua dia buat internally.
+
+
+
+[83:25] Azlan Awang: How do you manage that kan?
+
+
+
+[83:27] Rafizi Ramli: Kita orang balik pukul 10:00 malam, hangpa tak tahu.
+
+
+
+[83:29] Ibrahim Sani: Soalan tu ditanyakan untuk untuk untuk yang menonton, soalan tu ditanyakan sebelum kita start kamera roll tadi.
+
+
+
+[83:34] Azlan Awang: But that's the puji part. The the the reality is, I think.
+
+
+
+[83:36] Ibrahim Sani: Ada dia macam tu, dia puji dulu.
+
+
+
+[83:37] Azlan Awang: Tak, the reality is, I think is the engagement and apa tu discourse is important, otherwise macam even on Bumiputera macam PMX kata, "Okey, KEB ni kena ada involvement on non-Bumiputera." In certain aspect, kita pun tak setuju. Tapi on another aspect, right, katakan we need to have a discourse on katakan we nak set target on the on the apa tu GDP per capita ke, on the contribution of Bumiputera enterprise ke apa kan eh, there must be a discourse and there must be consensus lah, some kind of.
+
+
+
+[84:11] Ibrahim Sani: Tak boleh nak silo sangat.
+
+
+
+[84:12] Azlan Awang: Some kind of a social contract lah. Macam a revisit on the social contract, okay this is what we're going to do. It's important. And they must be convinced, because we talking about we do not want another Bangladesh, you know what I mean? And at the rate things are going, I mean macam apa tu kata Minsky kata kan eh, if you hit bila 30% of youth tak ada kerja, and we are we are coming to that tau, because kita tak tahu the real underemployment and what not is whether it is hitting that. Bila underemployment ataupun unemployment hit 30% amongst the youth, that is a very dangerous situation. So I think it's not it's not apa ni, it's not everything is is apa beautiful and rosy, is not. Kalau kita tengok apa ni macam just like the EPF savings.
+
+
+
+[85:02] Ibrahim Sani: EPF savings per capita, kita pun tahu Bumiputera macam mana.
+
+
+
+[85:05] Azlan Awang: UNICEF punya report about apa ni people apa going to bed hungry, makan dua kali sehari, these are real stories. And tapi this real stories, the present Governor, apa ni Datuk Rashid kan eh?
+
+
+
+[85:18] Ibrahim Sani: Ghaffour, Encik Ghaffour.
+
+
+
+[85:21] Azlan Awang: In 2017, dia he was talking about, tapi he was talking in the context of financial literacy. Tapi dia kata, 75% of Malaysians, dia tak kata Bumiputera ke apa, 75% Malaysians, dia dia nak cekau RM1,000 pun dia tak dia tak boleh. RM1,000. Maknanya dia punya liquidity tu, savings ke apa ke.
+
+
+
+[85:41] Ibrahim Sani: Hm.
+
+
+
+[85:42] Azlan Awang: Tak ada, not even RM1,000. 75%. And then 50%, kalau dia hilang mata pencarian hari ini, dalam seminggu dia memang out. That's Bank Negara punya Deputy Governor then, he said this.
+
+
+
+[85:54] Ibrahim Sani: Dated 2017.
+
+
+
+[85:55] Azlan Awang: Yes. Jadi dengan all the this tell-tales data ni kan eh UNICEF and what not. And then apa baru-baru ni USM punya Vice Chancellor, not baru-baru ni, about a year ago, was talking about bent spine tau. Bila dia buat selection on ROTU kan untuk apa ni military training dekat USM, dia kata 50% was rejected because of bent spine. Now what what is this? This is this is the, what UNICEF hari tu buat pasal pasal.
+
+
+
+[86:20] Ibrahim Sani: Tulang belakang bengkok?
+
+
+
+[86:21] Azlan Awang: Yes. Physical physical stunting and undernourishment, tak tak cukup apa ni proper food and what not. Kalau physical aje tak apa juga, what about mental stunting? What about intellectual stunting? But I would like to conclude in one in in in one way lah. Okey, MTEM, kita tak suka discuss mechanisms and I think that is your apa tulah strong suit lah, okey, how to ni and and you are the government. Kita rather want to want to pursue what should be goals, what should be the apa ni outcome, you know, what do we want to see. And that's got to be substantial, it should not be some some apa ni apa ala kadar, lepas batuk ke tangga, and what not. It's got to be substantial and it's got to be meaningful. Maknanya, we are going to really avoid, right, apa ni a serious apa ni insecurity and dissatisfaction and dissatisfaction among the rakyat. And basically it's that, this is nothing nothing to do with race ke apa, tak ada. Actually we have to address this. Jadi in order to do that, apa that that kind of serious punya effort tu must must be done, kan? Kalau tidak, apa we don't want something untoward like that to happen. Jadi itulah, saya rasa we do not know everything, so kita always say that you must, this is a is a quotation by someone, apa ni a Marxist actually. He was saying that you must have the optimism of the will and lesser optimism of more pessimism of the intellect. I think it's a is a is ni because kalau kita nak nak bergantung sangat kepada reasons and this data, susah. Tapi what is what is our will? Our will is that macam kita selalu cakap kan, no one to be left behind and what not kan. So must define, what is that? What is no one to be left behind? One of the things that I would want to suggest on the Dasar Gaji Progresif ialah untuk mencapai, and it goes back to apa tu household income, 90% of our household income must be above the living wage. The living wage tu dah ada, dah ditakrifkan oleh EPF, ditakrifkan oleh Bank Negara kan sejak 2017 lagi. Dah lama dah cerita semua ni. Jadi apa ni, again kena kena di-revisit. EPF renew it every every every year. Jadi kalau 90% of household is above, at the moment is 50%, YB. 50% of household, regardless of race, 50% of household is below living wage. And in some states is 60%, 70%. Jadi this is this is a very bad situation actually, apa ni. Finally it comes to that, kan? Household. It's not so much how much you export, and we are gila punya eksport. We are exporting 1.6 trillion, right? Now this has got something to do with low wages and what not, because kita punya fokus is too much on the export market.
+
+
+
+[89:14] Rafizi Ramli: Yalah.
+
+
+
+[89:14] Ibrahim Sani: Tidak pada domestik.
+
+
+
+[89:15] Azlan Awang: And lesser on the domestic demand. And and this is something that macam United Nations Conference on Trade and Development, dia dah reminded that, "Look, you the export-led strategy doesn't work anymore." Sejak 2008 krisis, right, it doesn't work anymore. You have to give more focus on your domestic demand, you have to give more focus on apa ni your neighboring deep market macam yalah ASEAN and what not.
+
+
+
+[89:38] Rafizi Ramli: Regional market.
+
+
+
+[89:39] Azlan Awang: You have to focus on how do you improve your domestic demand? You have to focus on wages, right? There must be some intervention, the role of government, you know, things like that lah. Jadi macam apa saya rasa benda-benda macam ni is it's not not political. We kita especially we are non-partisan, right? We hope that apa nilah apa with what's what's said, kita boleh and we must do something serious lah with this PuTERA ni juga. I hope so, anyway.
+
+
+
+[90:12] Ibrahim Sani: Saya rasa ni pertama kali kita bincang masa saya dengar topik perbincangan kapitalis yang menggunakan Marxis punya kod sebenarnya. That that's that's that's encapsulating this, I suppose. It's social enter social democratic enterprise, I think this is what we're talking about.
+
+
+
+[90:26] Azlan Awang: Marxist Marxist is not communist, he's a he's an part of the Enlightenment movement.
+
+
+
+[90:30] Ibrahim Sani: Aha, okey. Baik. Okey, kalau tak ada apa lagi, kita boleh akhiri perbincangan ini. Awal-awal saya ingatkan ada perbalahan, tak dapat tak dapatlah perbalahan tu. Tapi perbincangan tu sangat menarik.
+
+
+
+[90:42] Rafizi Ramli: Hangpa suruh orang baliklah, lambatlah.
+
+
+
+[90:45] Ibrahim Sani: Dan tapi Pak Lan, terima kasih.
+
+
+
+[90:48] Rafizi Ramli: I'm I'm clocking my what, my 15 hours ke apa ni kan.
+
+
+
+[90:51] Ibrahim Sani: Bateri tu pun 30%. Bateri pun tinggal 30%. Tapi tadi kita dah dengar daripada Pak Lan ataupun Azlan Awang, Felo Kanan daripada Majlis Tindakan Ekonomi Melayu, dan juga Yang Berhormat Rafizi Ramli, Menteri Ekonomi. Dan kalau kita boleh gesakan penonton untuk teruskan bersama dengan kita punya media sosial Yang Berhormat Rafizi tu, follow dekat YB Rafizi all the social media dekat situ. Sekian saja, terima kasih.
+
+
+
+[91:15] Rafizi Ramli: Terima kasih banyak. Terima kasih, YB.
+
+
+
+[91:17] [music/outro]
 
