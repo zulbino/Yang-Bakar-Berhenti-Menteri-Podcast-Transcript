@@ -13,7 +13,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-
 [25:32] Host: Tapi YB rasa benda ni betul-betul berlaku ke, ataupun ada orang saja nak buat content bagi viral? Sebab sekarang ni trend buat screenshot fake ni dah makin melampau.
 
 [25:45] YB: Dia boleh jadi dua-dua, Alif. Pertama, memang ada segelintir ibu bapa yang mungkin kurang peka tentang sensitiviti anak-anak, ataupun mereka rasa lawak nak post benda macam tu. Tapi yang kedua, yang kita kena lebih risau, ialah industri content creation sekarang ni. Demi nak dapatkan reach, nak dapatkan views, orang sanggup fabricate screenshots, buat cerita rekaan. Dan netizen kita pula, pantang nampak benda pelik sikit, terus share tanpa usul periksa. Itu yang jadi isu.

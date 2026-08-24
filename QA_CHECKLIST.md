@@ -30,7 +30,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - raw.md has 1 duplicate block(s) repeated verbatim at different timestamps (466 chars, 0% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - models: raw.md=gemini-3.5-flash
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
-  - raw.md has 206 duplicate block(s) repeated verbatim at different timestamps (143828 chars, 61% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 206 duplicate block(s) repeated verbatim at different timestamps (143828 chars, 62% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
@@ -61,35 +61,35 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
 - [ ] **2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa**
-  - interview.md looks truncated (ratio 0.32 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.31 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.33 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.32 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.33 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3-flash-preview
 - [ ] **2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha**
-  - raw.md has 10 duplicate block(s) repeated verbatim at different timestamps (43101 chars, 33% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 10 duplicate block(s) repeated verbatim at different timestamps (43101 chars, 34% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3.6-flash
 - [ ] **2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb**
-  - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
   - raw.md has a 88095-char block with no paragraph breaks (wall-of-text)
   - raw.md has 128 duplicate block(s) repeated verbatim at different timestamps (194003 chars, 47% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.29 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.29 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.32 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
   - raw.md has 44 duplicate block(s) repeated verbatim at different timestamps (16145 chars, 9% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan**
-  - raw.md has 137 duplicate block(s) repeated verbatim at different timestamps (57484 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 137 duplicate block(s) repeated verbatim at different timestamps (57484 chars, 27% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
 - [ ] **2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-**
   - raw.md has 764 duplicate block(s) repeated verbatim at different timestamps (395860 chars, 43% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
@@ -127,7 +127,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=gemini-3.5-flash
 - [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3.5-flash-lite
 - [ ] **2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50**
@@ -163,7 +163,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=gemini-3.5-flash
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
-  - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.31 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57**
   - interview.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)

@@ -326,6 +326,11 @@ def _normalize_turn_breaks(text):
     -- exactly the failure mode CHUNK_CHARS exists to prevent. Force a blank
     line before every timestamp marker so each turn is its own paragraph."""
     text = re.sub(r"[ \t\n]*(?=\[(?:\d+:)?\d+:\d+\])", "\n\n", text)
+    # The substitution above matches twice at every boundary -- once consuming
+    # the real preceding whitespace, then again as a redundant zero-width match
+    # at the same resulting position -- doubling every blank line. Collapse the
+    # artifact rather than chase the regex engine's match-order quirk.
+    text = re.sub(r"\n{3,}", "\n\n", text)
     return text.lstrip("\n")
 
 

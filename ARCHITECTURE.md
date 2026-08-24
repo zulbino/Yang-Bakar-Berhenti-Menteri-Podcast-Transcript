@@ -221,6 +221,18 @@ than guessing -- the continuation loop itself still doesn't reject repeated
 content during generation, so a small residue of unresolved duplicates may need a
 full raw-stage redo instead of a surgical repair.
 
+### Raw transcription: doubled blank lines between every turn
+
+Every raw.md had two blank lines between turns instead of one, across every
+episode regardless of engine or model -- confirmed as a formatting artifact, not
+a content bug. Root cause: `_normalize_turn_breaks`'s regex substitution matches
+twice at every timestamp boundary -- once consuming the real preceding
+whitespace, then again as a redundant zero-width match at the resulting
+position -- so every separator got inserted twice. Fixed by collapsing any run
+of 3+ newlines to exactly one blank line after the original substitution, rather
+than chasing the regex engine's match-order behavior. Applied retroactively
+across all existing raw.md files (whitespace-only change, verified via diff).
+
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
 The rewrite stage originally only used Gemini. When Gemini's account-level billing
