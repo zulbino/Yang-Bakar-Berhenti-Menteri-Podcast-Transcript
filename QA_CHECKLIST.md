@@ -132,12 +132,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview-ms.md
   - models: raw.md=gemini-3.5-flash
 - [ ] **2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-**
-  - raw.md produced by weaker fallback model gemini-3.1-flash-lite -- verify content quality closely
-  - raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-  - models: raw.md=gemini-3.1-flash-lite
+  - models: raw.md=gemini-3.5-flash
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
