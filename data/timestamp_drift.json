@@ -2173,21 +2173,56 @@
   },
   "2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 3,
-    "flagged": true,
+    "max_drift_seconds": 287,
+    "flagged": false,
     "details": [
       {
-        "claimed": 44,
+        "claimed": 45,
         "actual": 45,
-        "drift": 1
+        "drift": 0
       },
       {
-        "claimed": 1155,
-        "actual": 1158,
-        "drift": 3
+        "claimed": 319,
+        "actual": 342,
+        "drift": 23
+      },
+      {
+        "claimed": 1160,
+        "actual": 1203,
+        "drift": 43
+      },
+      {
+        "claimed": 1513,
+        "actual": 1558,
+        "drift": 45
+      },
+      {
+        "claimed": 4558,
+        "actual": 4604,
+        "drift": 46
+      },
+      {
+        "claimed": 5657,
+        "actual": 5944,
+        "drift": 287
+      },
+      {
+        "claimed": 6856,
+        "actual": 6867,
+        "drift": 11
+      },
+      {
+        "claimed": 8085,
+        "actual": 8082,
+        "drift": -3
+      },
+      {
+        "claimed": 10010,
+        "actual": 10062,
+        "drift": 52
       }
     ]
   }
