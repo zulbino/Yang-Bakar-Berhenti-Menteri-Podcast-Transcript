@@ -92,11 +92,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 683s, 2/12 caption samples matched)
 - [ ] **2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-**
-  - raw.md has 151 duplicate block(s) repeated verbatim at different timestamps (157282 chars, 23% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - interview.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 845s, 2/12 caption samples matched)
+  - raw.md has a repetition-loop degeneration (880 chars repeating 'rrrrrrrr'...) -- model got stuck re-emitting the same short phrase
+  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
   - interview.md looks truncated (ratio 0.18 vs raw.md, expected >= 0.35)
   - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.00/1000 chars, expected >= 1.0)

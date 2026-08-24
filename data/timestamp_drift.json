@@ -1451,21 +1451,66 @@
   },
   "2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 845,
-    "flagged": true,
+    "max_drift_seconds": 132,
+    "flagged": false,
     "details": [
       {
-        "claimed": 2,
+        "claimed": 6,
         "actual": 5,
-        "drift": 3
+        "drift": -1
       },
       {
-        "claimed": 7413,
-        "actual": 6568,
-        "drift": -845
+        "claimed": 260,
+        "actual": 266,
+        "drift": 6
+      },
+      {
+        "claimed": 1176,
+        "actual": 1187,
+        "drift": 11
+      },
+      {
+        "claimed": 2011,
+        "actual": 2022,
+        "drift": 11
+      },
+      {
+        "claimed": 2864,
+        "actual": 2879,
+        "drift": 15
+      },
+      {
+        "claimed": 3244,
+        "actual": 3244,
+        "drift": 0
+      },
+      {
+        "claimed": 3995,
+        "actual": 4089,
+        "drift": 94
+      },
+      {
+        "claimed": 6812,
+        "actual": 6944,
+        "drift": 132
+      },
+      {
+        "claimed": 7821,
+        "actual": 7849,
+        "drift": 28
+      },
+      {
+        "claimed": 8733,
+        "actual": 8808,
+        "drift": 75
+      },
+      {
+        "claimed": 9934,
+        "actual": 9923,
+        "drift": -11
       }
     ]
   },
