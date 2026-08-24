@@ -15,321 +15,321 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Muzik/Intro]
 
-[02:28] Haziq: Selamat datang dan assalamualaikum kepada semua yang menonton Podcast Yang Berhenti Menteri dah episod ke-19. Sebelum kita mula dengan segmen yang biasa, ada orang tanya dalam komenlah saya tengok YB.
+[02:28] Haziq Azfar: Selamat datang dan assalamualaikum kepada semua yang menonton Podcast Yang Berhenti Menteri dah episod ke-19. Sebelum kita mula dengan segmen yang biasa, ada orang tanya dalam komenlah saya tengok YB.
 
 [02:44] Rafizi: Dia suruh tukar engkau? Itu satulah. Tapi yang satu lagi YB, ada tanya kenapa YB Raf suka pakai baju batik setiap hari Jumaat ni?
 
 [02:56] Rafizi: Dia sebab masa saya dalam kerajaan, banyak baju batik. So kalau tak pakai baju batik tu rugilah. Kan? Jadi kalau tidak saya pakai t-shirt sepanjang masa.
 
-[03:15] Haziq: Okey YB, itu jawapan dia. Kita teruskan ke segmen biasalah YB. Kita ke segmen pertama.
+[03:15] Haziq Azfar: Okey YB, itu jawapan dia. Kita teruskan ke segmen biasalah YB. Kita ke segmen pertama.
 
 [03:21] Rafizi: So yang tukar tadi?
 
-[03:22] Haziq: Yang tukar?
+[03:22] Haziq Azfar: Yang tukar?
 
 [03:23] Rafizi: Tukar moderator.
 
-[03:26] Haziq: YB tentukanlah, saya takut. Okey. Okey, segmen yang pertama YB, Beria Mat. Macam biasalah, orang yang poyo. Tapi bukanlah poyo pun, mungkin kita nak ketengahkan juga apa isu-isu semasa selain politik juga sikit. Kita tengok yang pertama.
+[03:26] Haziq Azfar: YB tentukanlah, saya takut. Okey. Okey, segmen yang pertama YB, Beria Mat. Macam biasalah, orang yang poyo. Tapi bukanlah poyo pun, mungkin kita nak ketengahkan juga apa isu-isu semasa selain politik juga sikit. Kita tengok yang pertama.
 
 [03:44] Rafizi: Beria.
 
-[03:44] Haziq: Okey, ni politiklah. "Ketua Srikandi ceritakan pengorbanan Menteri Pelajaran." YB perasan tak YB?
+[03:44] Haziq Azfar: Okey, ni politiklah. "Ketua Srikandi ceritakan pengorbanan Menteri Pelajaran." YB perasan tak YB?
 
 [03:51] Rafizi: Menteri Pendidikankah Menteri Pelajaran?
 
-[03:53] Haziq: Menteri Pendidikan. Typoni. Dia yalah dia wish birthday YB. Tapi dia ceritalah penat dan nampak penat tertidur di tandas.
+[03:53] Haziq Azfar: Menteri Pendidikan. Typoni. Dia yalah dia wish birthday YB. Tapi dia ceritalah penat dan nampak penat tertidur di tandas.
 
 [04:05] Rafizi: Saya tak baca posting nilah tapi yalah dia dah...
 
-[04:10] Haziq: Dah kena delete YB?
+[04:10] Haziq Azfar: Dah kena delete YB?
 
 [04:11] Rafizi: Dah jadi meme dekat netizenlah kan. "Selain program kementerian..." "Selamat meranum usia" ni maksudnya apa?
 
-[04:24] Haziq: Happy birthday.
+[04:24] Haziq Azfar: Happy birthday.
 
 [04:25] Rafizi: Meranum?
 
-[04:26] Haziq: Meranum. First time saya dengar.
+[04:26] Haziq Azfar: Meranum. First time saya dengar.
 
 [04:32] Rafizi: Dekat mana yang dia kata tidur dalam tandas tu?
 
-[04:38] Haziq: "Pernah tertidur dalam tandas akibat terlalu letih tapi tetap tak pernah mengeluh."
+[04:38] Haziq Azfar: "Pernah tertidur dalam tandas akibat terlalu letih tapi tetap tak pernah mengeluh."
 
 [04:43] Rafizi: Oh. "Pernah tertidur di dalam tandas akibat terlalu letih." Susah kan. Ini dah boleh lapor kepada Jabatan Tenaga Kerja. Sebab ini sudah menjadi satu penganiayaan kan. Kalau seseorang pekerja itu dia kerja terlalu penat sampai tertidur di dalam tandas. Ini dah memang tak sangka itu responnya perlu dilaporkan kepada Jabatan Tenaga Kerjalah. Cuma saya dulu pernah tidur dalam tandas.
 
-[05:23] Haziq: Okey.
+[05:23] Haziq Azfar: Okey.
 
 [05:24] Rafizi: Masa mula-mula kerja dulu dekat UK. Tapi pengalaman sayalah, tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng. Sebab bosan dekat pejabat.
 
-[05:43] Haziq: YB pernah buat macam tu eh? Cool gila.
+[05:43] Haziq Azfar: YB pernah buat macam tu eh? Cool gila.
 
 [05:45] Rafizi: Yalah. Malulah kan. Tapi awal-awal kerja tu dalam satu dua bulan pertama, sebab saya saya ijazah kejuruteraan. Dan dekat accounting firm, audit firm dekat UK dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak. Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stuck. Jadi dia bukan macam dekat Malaysia yang boleh keluar sebab dia sejuk kan, winter. Jadi satu-satunya tempat yang boleh lari daripada orang dan dia masih lagi ada heaterlah, pemanas kan, tandaslah. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu bukan sebab letihlah, tapi sebab ponteng dan mengularlah. Yang ini tak tahulah macam mana. Mungkin dia betul-betul penatlah. Tapi kalau penat tu, bahaya posting ni sebab netizen akan kata kalau terlalu penat, stres sampai tertidur dalam tandas, mungkin masanya sudah tiba untuk mengundur diri.
 
-[07:11] Haziq: Okey baik baik. Pedas. Kita tengok yang seterusnya kita ada apa. "Pulang apa Bossku?" Ini dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
+[07:11] Haziq Azfar: Okey baik baik. Pedas. Kita tengok yang seterusnya kita ada apa. "Pulang apa Bossku?" Ini dia sendiri kata beliau merupakan satu-satunya pengubah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
 
 [07:32] Rafizi: Yalah, itu kira sinikal dan juga sindiran dalam penghujahan pembelaan dialah kan. Cuma bahaya ni kita tak boleh membiasakan kalau ambil duit, pulang lepas. Sebab berlaku beberapa kali ni kan. Ambil duit, pulang, bayar kompaun, lepas kan. Saya jadi tak tahu nak cakap apa bila dia kata dia pulangkan semula selepas dapat kelulusan Bank Negara. Yalah, saya pun kadang-kadang ingat kalau dalam keadaan Datuk Seri Najib dan kes 1MDBlah, sebenarnya rakyat telah terbahagi kepada kumpulan-kumpulan tertentu. Yang dah buat keputusan bahawa ia satu penyelewengan besar, itu telah diterjemahkan dalam dua pilihan raya sebenarnya. Pilihan raya 2018 dan juga pilihan raya 2022. Jadi berdasarkan yang itu, pandangan saya majoriti rakyat memang telah membuat keputusan dan menghakimi sendiri berdasarkan hujah-hujah yang telah diberikan oleh Datuk Seri Najib sendiri, termasuklah yang ini. Sebab dalam tahun-tahun sebelum itu pun, sebelum Barisan Nasional kalah tahun 2018, memang hujah yang diberikan ialah wang itu telah dikembalikan. Jadi di mahkamah rakyat, memang perkara ini tidak diterima. Di mahkamah undang-undang tu nanti kita kena tengok macam manalah kan. Tapi mungkin Datuk Seri Najib terlalu beria-ia menggunakan hujah yang sama kut. Kalau hujah ini telah ditolak sekarang ni dah hampir 7 tahun, 7, hampir 10 tahun sebenarnya hujah ni ditolak. Daripada 2016 lagi kan hujah seperti ini ditolak oleh rakyat dan negara. Berialah dia menggunakan hujah yang sama bila masuk dalam mahkamah.
 
-[09:51] Haziq: Baik baik YB. Beria untuk Bossku. Kita tengok yang lain. "Influencer 40,000 nak makan mamak free." Jangan main-main, dia followers 40,000 kat TikTok. YB berapa?
+[09:51] Haziq Azfar: Baik baik YB. Beria untuk Bossku. Kita tengok yang lain. "Influencer 40,000 nak makan mamak free." Jangan main-main, dia followers 40,000 kat TikTok. YB berapa?
 
 [10:07] Rafizi: Saya dah dekat 300,000 kut.
 
-[10:10] Haziq: Boleh berapa kali free ni?
+[10:10] Haziq Azfar: Boleh berapa kali free ni?
 
 [10:12] Rafizi: Saya patut dapat makan freelah kut. Saya selalu dapat makan free sebenarnya, tapi bukan sebab influencerlah. Saya kalau selalunya kalau di kedai mamak, saya makan saya selalu makan seorang. Makan seorang, duduk seorang. Bila nak pergi bayar tu, dah ada orang bayar. Tapi tak tahulah siapa yang bayar. Ada juga yang pernah berlaku dia bayar kemudian dia tinggalkan nota dekat kaunter tu, not kecil sikit di belakang resit yang bil yang dia bayar tu kan. Jadi kalau nak makan free kan kalau nak makan free rasanya tak perlu jadi influencerlah kut. Tapi influencer 40,000 sekarang ni banyak kut. Sebenarnya apa definisi untuk jadi influencer ni?
 
-[11:08] Haziq: I don't think ada badan mana-mana penarafan yang menetapkanlah. As long as orang rasa boleh relate.
+[11:08] Haziq Azfar: I don't think ada badan mana-mana penarafan yang menetapkanlah. As long as orang rasa boleh relate.
 
 [11:16] Rafizi: Ke atau dia sebenarnya food reviewer?
 
-[11:21] Haziq: Ha ya ya ya.
+[11:21] Haziq Azfar: Ha ya ya ya.
 
 [11:23] Rafizi: Dia mungkinlah, mungkin food reviewer yang pergi ke kedai untuk buat review. Dia food reviewer?
 
 [11:35] Rafizi: Banyak je orang buat food reviewer kat mamak, yang food reviewer buat review Maggi segera tepi jalan tu pun banyak kan. Tapi yalah, ni tersalah kedai mamaklah. Kedai mamak ni selalunya kalau dia maju, dia dah ada pengunjung sendiri. Jadi dia tak bergantung sangatlah kepada influencer kan. Dan yalah saya pun berbelah bagi jugalah kalau promosi ni daripada influencer. Kerana risiko dia ialah masa dia review tu mungkin naik, tapi kalau tidak berhati-hati, orang yang mengunjungi tu hanyalah untuk mencuba tapi dia bukan repeat customer, dia tak datang kan. Jadi saya kalau buat business, saya agak berhati-hati untuk bergantung kepada...
 
-[12:35] Haziq: Food reviewer.
+[12:35] Haziq Azfar: Food reviewer.
 
 [12:36] Rafizi: ...food review ataupun so-called influencerlah kan. Tapi dia tak dapat makan freelah. Tak dapatlah. Tak apalah, suruhlah dia datang review kita punya podcast, saya belanja dia.
 
-[12:52] Haziq: Okey YB, ada lagi ni. Deepavali call.
+[12:52] Haziq Azfar: Okey YB, ada lagi ni. Deepavali call.
 
 [12:58] Rafizi: Ni dekat mana ni?
 
-[13:00] Haziq: Ini orang kata dekat dekat Penang eh? "Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali."
+[13:00] Haziq Azfar: Ini orang kata dekat dekat Penang eh? "Tular di media sosial beberapa kanak-kanak merosakkan kolam sempena Deepavali."
 
 [13:12] Rafizi: Tak ada orang pergi tegur ke?
 
-[13:17] Haziq: Lepas tu video ada orang ambil gambar ibu bapa sekalilah. Dia buat videolah, dia tak tegur.
+[13:17] Haziq Azfar: Lepas tu video ada orang ambil gambar ibu bapa sekalilah. Dia buat videolah, dia tak tegur.
 
 [13:25] Rafizi: Tapi yalah, ini dia bukan salah anaklah. Ini sepatutnya mak ayah kalau kita ada anak, kita kena pastikan anak-anak kita tu satu, berbahaya kalau anak-anak kita duduk berasingan dan buat hal berasingan daripada kita. Zaman sekarang ni kalau tengok ni, masa ini berlaku mak ayah dia tak tahu kat mana ni. Satu, dia berbahaya. Keduanya, ialah budak-budak dia tak tahu apa. Kalau mak ayah tak menegur, tak melihat, dia jadi macam inilah. Cuma dia mungkin budak-budak ni tak faham sebenarnya apa maksud hiasan Deepavali, kolam Deepavali semua ni kan. Jadi salahnya, salah mak ayah 100%. 100%.
 
-[14:30] Haziq: Baik baik baik.
+[14:30] Haziq Azfar: Baik baik baik.
 
 [14:32] Rafizi: Tapi yalah, so kau nak kata beria budak-budak ni merosakkan apa ni?
 
-[14:37] Haziq: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
+[14:37] Haziq Azfar: Saya tak rasa secara literal macam tulah. Ibu bapa pun ada peranan dia.
 
 [14:43] Rafizi: Tapi video ni maksudnya beria ni beria siapa? Beria yang ambil video ke beria mak ayah dia?
 
-[14:48] Haziq: Boleh jadi beria yang ambil video, beria ibu bapa yang buat der je.
+[14:48] Haziq Azfar: Boleh jadi beria yang ambil video, beria ibu bapa yang buat der je.
 
 [14:53] Rafizi: Oleh kerana kita tak tahu pun kenapa dia kita pilih dia dalam segmen Beria, memang tak dapat bintanglah. Salah mak ayah dia 100%.
 
-[15:03] Haziq: Salah mak ayah. Maaf. Dan okey, kita ada last saya rasa. Ha tu dia. "Selangor nak introduce pickleball."
+[15:03] Haziq Azfar: Salah mak ayah. Maaf. Dan okey, kita ada last saya rasa. Ha tu dia. "Selangor nak introduce pickleball."
 
 [15:13] Rafizi: Kau pernah main pickleball ke?
 
-[15:15] Haziq: Pernah, tapi pernah main sekali aje dengan YB Akmal. Lepas tu dia saya rasa dia frust dengan saya, lepas tu saya dah tak pernah main dah.
+[15:15] Haziq Azfar: Pernah, tapi pernah main sekali aje dengan YB Akmal. Lepas tu dia saya rasa dia frust dengan saya, lepas tu saya dah tak pernah main dah.
 
 [15:22] Rafizi: Frust sebab kau kurang mahir main pickleball? Dulu Akmal tak adalah selalu, pernahlah beberapa kali main skuasy dengan saya.
 
-[15:31] Haziq: Okey. Tu lah sejarahnya.
+[15:31] Haziq Azfar: Okey. Tu lah sejarahnya.
 
 [15:34] Rafizi: Yalah, pickleball is combination of what? Tenis, pingpong, maybe not skuasy-lah, tapi skill lebih kurang samalah, more like tenis dengan pingponglah.
 
-[15:47] Haziq: YB pernah main?
+[15:47] Haziq Azfar: YB pernah main?
 
 [15:48] Rafizi: Belum lagi sebab aku perasan, aku tahu aku tua. Kan yang...
 
-[15:54] Haziq: Ke YB haters sebenarnya? Dia ada apa, pickleball ni ada haters eh?
+[15:54] Haziq Azfar: Ke YB haters sebenarnya? Dia ada apa, pickleball ni ada haters eh?
 
 [15:57] Rafizi: Tak ada. I think I enjoy playing court games. Tak adalah bagus, tapi saya pernahlah main, pernah main cuba semua. Tenis pernah main. Kalau pergi kat rumah tu, semua ada. Racket-racket tenis ada, racket skuasy ada, racket badminton ada. Dulu masa sekolah dekat Scotland, Mat Saleh dia main permainan di sekolah dia ikut musim. Jadi kalau musim sejuk sampai ke spring, musim bunga, dia sorry autumn to winter, musim luruh ke musim sejuk, sama ada kena pilih main hoki ataupun main ragbi. So Melayu kita orang semua main hokilah, mampus main ragbi kena pukul kan dengan Mat Saleh kan. Kemudian musim bunga ke musim panas, sama ada kriket ataupun tenis. So Melayu main tenislah sebab kriket ni Mat Saleh memang hebatlah kan. So I would like to try satu harilah, tapi mungkinlah tak perlu kut untuk memperkenalkan ke seluruh sekolah di Selangor sebab pickleball ni sekarang biarlah dia jadi popular dengan organik, secara organik. Satu racket pickleball tu berapa?
 
-[17:25] Haziq: Mahal juga. 60 ada? 100. 100, 130, 220.
+[17:25] Haziq Azfar: Mahal juga. 60 ada? 100. 100, 130, 220.
 
 [17:32] Rafizi: Jadi yang yang saya kalau komen sayalah, bila Kerajaan Selangor beria nak memperkenalkan pickleball ni, satu ialah kita semua tahulah, kerajaan mana-mana sumber...
 
-[17:50] Haziq: Negeri.
+[17:50] Haziq Azfar: Negeri.
 
 [17:51] Rafizi: ...sumber kewangan itu adalah terhad. Jadi adakah lebih baik kalau sumber itu disalurkan kepada sukan-sukan yang memang telah pun bertapak kuat di Malaysia, yang yang memang sudah ada program berpuluh tahun dari peringkat sekolah? Itu termasuklah sukan-sukan perdana macam bola sepak ke, hoki ke, ragbi ke, bola keranjang ke, bola tampar. Ini yang memang sudah ada pertandingan di peringkat Majlis Sukan Sekolah-Sekolah Daerah. Kemudian yang yang yang mungkin perlu diambil kira, ialah kalau diperkenalkan dan jadi program, yalah peruntukan itu akan digunakan. Tapi kalau anak-anak yang nak main tu kalau keluarga dia kena belanjakan pula beratus-ratus, dia mungkin menjadi beban kepada keluargalah kan. Jadi tapi ini sebenarnya ialah perangai orang kita jugalah. Kita selalu ada ikutan baru. Kalau ikut Mat Saleh, kalau ada saya ingat Einstein pernah cakap, Einstein pernah cakap, "It's not that I am smarter, I stay on the problem longer." Jadi kita kadang-kadang sebagai masyarakat, kita tidak ada daya tahan untuk kita kekal kepada sesuatu perkara, memperbaikinya, menyelesaikan masalahnya, sebelum kita berpindah kepada hype baru. Sukan pun kalau tak berhati-hati, pickleball macam nilah, yang yang dikendong tu tak dapat, yang dikejar tak dapat, yang dikendong berciciran kan. Jadi saya rasa saya tak faham kenapalah. Jadi beria. Tak apalah, mungkin saya kena pergi main pickleball. Budak-budak ofis saya mainlah pickleball. Tiap-tiap dua minggu adalah dia orang pergi, nampak funlah kan. Cuma saya tahulah saya tua. Sebab budak-budak ofis tu semua awal 20-an. Kalau saya nak pergi mencelah kat situ terasalah kan, dah umur dekat 50 ni kan. Mungkin saya main sekali dan mungkin lepas tu saya beria-ia menyokong Kerajaan Selangor. Selangor ni maksudnya Kerajaan Selangorlah? "Ah the state also plans..." Okey.
 
-[20:27] Haziq: Okey baik. Itu Beria. YB nak buat rating?
+[20:27] Haziq Azfar: Okey baik. Itu Beria. YB nak buat rating?
 
 [20:32] Rafizi: Rating? Cuba tengok balik apa dia. Oh, rating yang ini clearlah. Rating laporan kepada Jabatan Tenaga Kerja kerana tertidur di dalam tandaslah. Yang ini rating 5 lah. Tak, bukan Fadhlina sebenarnya. Ni Nurhidayah Che Rose ni yang yang dia beria-ia. Tahulah pegawai kepada Fadhlina, tapi tak perlulah begini. Saya kalau ada pegawai saya buat posting macam ni, memang kena pukullah dengan saya kan. Kena pukul kan. Saya akan denda pegawai itu, sila tidur dalam tandas. Kan? Sebab dia tak membantulah. Inilah Nurhidayah Che Rose ni pegawai Fadhlina daripada dululah kan dalam PKR. Tapi...
 
-[21:19] Haziq: YB memang tak suka pegawai YB menabi-nabikan YB lah maksudnya?
+[21:19] Haziq Azfar: YB memang tak suka pegawai YB menabi-nabikan YB lah maksudnya?
 
 [21:23] Rafizi: Tak, kita we sign up for the job kan. Jadi tugas pegawai ialah memastikan bahawa bila saya kata menteri tu maksudnya pejabat menterilah, bukan batang tubuh menteri, berjaya melaksanakan tugas dia dengan baik. Dan pegawai-pegawai ni takkan dia nak kata menteri dia tak elok? Mestilah dia kata menteri dia elok. Jadi tak perlulah pegawai nak cakap apa-apa. Mutu seorang pegawai itu sama ada dia berjaya memudahkan dan membantu menteri dia buat kerja dengan baik, bukannya tolong lambung menteri. Tapi aku nak sambung lagi ni. Ini yang saya selalu perli dalam PKR. Bila kita membiarkan budaya membodek ini membiak, ha ini jadi dia. Kan? Semua orang tahu Nurhidayah Che Rose ni ialah pegawai kepada Fadhlina dan dia juga adalah budak Fadhlina. Jadi oleh kerana kita membiarkan budaya itu yang banyak membodek, banyak melambung, siapa yang dekat dengan kita dan pandai melambung, yang itulah yang kita nampak. Akhirnya perkara itu bukan sahaja menular di dalam parti, dia menular di dalam kerajaanlah. Dan akhirnya dia jadi meme rakyat yang ditertawakan oleh rakyat seperti inilah. Tapi saya bagi dia lima setengah bintang.
 
-[23:02] Haziq: Lima setengah? Very generous.
+[23:02] Haziq Azfar: Lima setengah? Very generous.
 
 [23:04] Rafizi: Generous kali ni kan.
 
-[23:07] Haziq: Okey baik baik baik. Dia outshine yang lain-lainlah kut saya rasa. Okey baik, clear. Kita terus ke segmen seterusnya, Standing Order. Cuma mungkin kali ni Parlimen dua hari aje YB ya?
+[23:07] Haziq Azfar: Okey baik baik baik. Dia outshine yang lain-lainlah kut saya rasa. Okey baik, clear. Kita terus ke segmen seterusnya, Standing Order. Cuma mungkin kali ni Parlimen dua hari aje YB ya?
 
 [23:21] Rafizi: Parlimen dua hari saja, hari Rabu dengan hari Khamis. Dan dia kecoh pasal tuduhan Memali. Tapi kita ada tadi segmen Keras sebab keras sangat. Okey, baik jadi untuk Standing Order ni mungkin kita review soalan sikitlah daripada YB ya. Soalan pertama dari Datuk Seri Dr. Wan Azizah Wan Ismail, minta Menteri Pendidikan menyatakan langkah-langkah yang diambil dan bilakah permulaan prasekolah kepada 5 tahun dan sekolah rendah kepada 6 tahun akan dilaksanakan mengikut reformasi pendidikan RMK ke-13?
 
 [23:57] Rafizi: Bagus Kak Wan tanya soalan ini kerana kebimbangan saya sebelum ini selepas RMK-13 dibentangkan, ada kenyataan-kenyataan daripada kerajaan seolah-olah perkara itu akan dipertimbangkan. Keputusan itu telah dibuat di dalam RMK. Jadi sebab itu soalan ini saya ingat soalan yang patut kita kongsi dengan rakyat dan penonton bahawa isu dia bukanlah sama ada akan akan dibuat atau dipertimbangkan, isu dia seperti yang ditanya oleh Kak Wan ialah bila nak mula ni kan? Jadi saya pun dah baca jawapan. Saya memang setiap hari saya masuk Parlimen, saya akan belek semua soalan-soalan daripada semua. Setiap hari soalan tu ada dalam 50 lebihlah yang yang akan ditanya oleh semua. Yang berjaya masuk untuk dijawab oleh menteri secara lisan paling banyak dalam 11-12 setiap hari. Yang lain tu soalan itu akan dijawab secara bertulis. Cara nak nak baca jawapan kepada soalan-soalan untuk setiap hari itu pergi kepada laman web Parlimen. Di bawah Dewan Rakyat tu dia akan ada selain daripada Hansard, dia juga ada jawapan kan. So boleh jawab. Jadi jawapan daripada Kementerian Pendidikan dia dah ada dua task force lah. Dan kita akan pantau dan saya akan pantau juga kerana orang selalu tanyalah kan terutamanya kalau pembangkanglah. Dia kata, "Alah kau bising. Masa jadi Menteri Ekonomi dulu pun sendu kan, tak buat kerja kan." Sebahagian daripada tugas saya sebagai Menteri Ekonomi dahulu ialah merancang dasar-dasar besar. Dan dasar-dasar besar ini satu salah satunya ialah reformasi pendidikan. Jadi kebimbangan ialah kalau perkara yang telah dirancang, difikirkan dan diputuskan itu, bila sampai kepada kementerian yang melaksana, dalam kes ini Kementerian Pendidikan, dia tidak dilaksanakan dengan secepat yang mungkin. Jadi saya harap bukan saja saya, bukan saja Kak Wan atau ahli-ahli Parlimen yang lain, rakyat dan terutamanya warga pendidik terus tumpu kepada isu ini kerana ini adalah anjakan yang paling besar saya ingat daripada berpuluh tahun yang lepas kerana memang daripada awal kita mula pendidikan umur 7 tahun. Ini kali pertama dalam sejarah kita kita nak anjak kepada 6 tahun dan kita nak pastikan bahawa pendidikan prasekolah ini diberikan secara percuma, secara universal. Selain daripada untuk pertumbuhan anak-anak, kemajuan pendidikan anak-anak, dia juga mengimbangi supaya beban sara hidup keluarga muda itu akan dapat dibantu oleh kerajaan kerana sekarang ini bayaran prasekolah adalah mahal. Ni tak berkeluarga lagi, jadi tak tahu bayaran prasekolah selalunya RM500 seorang.
 
-[27:33] Haziq: Maksud YB tadikakah?
+[27:33] Haziq Azfar: Maksud YB tadikakah?
 
 [27:34] Rafizi: Tadika. Kalau tadika. Sebab orang kata kenapa tak pergi ke tadika kerajaan, KEMAS. Yang itu hanya untuk B40. B40 itu pun kalau ada dapat B40, masuk dalam kategori B40, tempatnya adalah terhad, bukan semua boleh dapat kan. Jadi sebab itu kenapa PAS popular dengan PASTI. Kerana PASTI mengenakan caj yang antara yang paling murah. Kita tahulah kenapa sebab dia tak bayar pekerja-pekerja dia tu kan, guru-guru di situ. Jadi dan perkara ini juga kita kita saya sendiri, saya harap rakan-rakan ahli Parlimen yang lain terus tumpu untuk beberapa tahun akan datang kerana dia bukan tanggungjawab Kementerian Pendidikan semata-mata juga. Dia juga contohnya tanggungjawab bersama Kementerian Ekonomi dan Kementerian Kewangan kerana kalau dia juga tanggungjawab Kementerian Kerja Raya contohnya kerana untuk kita memastikan peralihan kepada permulaan sekolah berumur 6 tahun ini boleh berlaku dan pendidikan prasekolah diberikan secara universal, secara percuma, maka dalam tempoh 5 tahun yang akan datang, banyak blok-blok baru sekolah perlu dibina. Sekolah-sekolah yang ada kapasiti yang tidak dipenuhi, yang itu perlu ditukar menjadi prasekolah contohnya kan. Jadi saya berbesar hatilah bila Kak Wan tanya soalan ini kan. Dan malangnyalah, malangnya Parlimen kita ini hanya yang yang masuk TikTok, yang masuk berita dan yang masuk kepada telinga rakyat selalunya ialah aksi-aksi menjerit yang ada dalam Parlimen. Bila soalan-soalan yang bersabit dengan perancangan negara, dasar, selalunya dia tersembunyi di belakang dan orang tak pernah baca, ia tidak pernah dilaporkan. Jadi sebab itu sebahagian saya ingat daripada tanggungjawab yang saya ada ialah untuk memastikan setiap minggu ni saya tengok mana-mana soalan yang saya rasa perlu sampai kepada rakyat supaya kita boleh tumpu kepada perubahan-perubahan ini yang penting untuk rakyat dan ini salah satu daripadanyalah.
 
-[30:12] Haziq: Okey baik YB. Satu soalan daripada Bandar Tun Razak, satu lagi daripada pembangkang. Daripada Hulu Terengganu, minta Menteri Ekonomi menyatakan perkembangan terkini sistem PADU dan apakah fungsi PADU dalam agihan subsidi bersasar seperti petrol RON95 kepada rakyat?
+[30:12] Haziq Azfar: Okey baik YB. Satu soalan daripada Bandar Tun Razak, satu lagi daripada pembangkang. Daripada Hulu Terengganu, minta Menteri Ekonomi menyatakan perkembangan terkini sistem PADU dan apakah fungsi PADU dalam agihan subsidi bersasar seperti petrol RON95 kepada rakyat?
 
 [30:31] Rafizi: Yang ini macam biasalah. Yang ini ialah cubaan daripada pembangkang untuk menembak, dia tembak semualah. Salah satunya ialah yang ditembak pasal PADU lah kerana dia kata ini satu yang merugikan. Jadi saya pun nak berminat juga nak tengok apa jawapan kerajaanlah. Sebahagiannya tu saya ingat daripada tempoh saya berada di Kementerian Ekonomi. Jadi dalam sekarang dah 5 bulan berlalu. Jadi jawapan itu ialah seperti yang yang kita rancangkan dululah sebab PADU bukanlah untuk RON95 semata-mata. Use case-nya itu ada banyak kerana bila kita ada satu pangkalan data yang bersepadu, maka itu akan pertama, membolehkan jabatan-jabatan kerajaan yang lain, kementerian-kementerian lain boleh membuat keputusan mengikut data. Kemudian boleh menyasarkan program mereka mengikut data kepada mereka yang layak. Jadi jawapan daripada Kementerian Ekonomi ialah setakat ini, saya baca tadi, setakat ini sudah ada 17 kementerian dan jabatan-jabatan kerajaan yang telah menggunakannya untuk program masing-masing. Yang yang saya terkejut tu JKR. JKR buat apa pakai PADU untuk apa? Saya tak tahu. Mungkin JKR menggunakan PADU untuk melihat taburan penduduk mungkin kan. Ataupun untuk melihat kepada taburan trafik di sesuatu kawasan. Kementerian Belia dan Sukan, PTPTN, kemudian Pendidikan Tinggi.
 
-[32:17] Haziq: Agensi-agensi lain tu YB?
+[32:17] Haziq Azfar: Agensi-agensi lain tu YB?
 
 [32:19] Rafizi: Ya, itulah semua banyak. 17, saya tak ingat semualah. Dan jawapan dia mengenai RON95 ini, PADU adalah salah satu daripada pangkalan data yang digunakan oleh Kementerian Kewangan sebagai rujukan kan. Jadi saya ingat yang mempolitikkan PADU ni banyaknya ialah mereka yang mungkin kurang arif tentang perkongsian data dalam kerajaan. Walaupun kita di mata rakyat, kita tengok kerajaan ini satu, sama, dia sebenarnya lain. Ada entiti beribu di dalam itu. Jadi kalau kementerian A dia nak minta data kementerian B, dia tak dapatlah kerana itu bergantung kepada kelulusan. Jadi sebelum ini birokrasi tu banyak. Sebab itu setiap kali sesuatu perkara nak dibuat, kecenderungannya ialah membina sistem itu daripada bawah sampai ke atas. Kalau dalam bahasa perisian, daripada back end sampai ke front end. Dahlah habis duit banyak-banyak untuk buat back end tu, kemudian untuk mendapatkan data tu pula dia kena peruntukan untuk orang mendaftar semua. Tapi kalau yang mendaftar hanya 10,000, dia masih lagi tak dapat. Sedangkan kita ada semua data yang berpuluh juta dalam kerajaan. Ini ia hanya perlu disatukan kan. Jadi saya harap perkara itu terus berlaku. Satu masa nanti bila dah banyak use case seperti yang dirancang, itu akan membolehkan khidmat-khidmat kerajaan, program-program kerajaan itu lebih berintegrasi dan lebih bersasar daripada yang ada sekarang.
 
-[34:08] Haziq: Okey baik YB.
+[34:08] Haziq Azfar: Okey baik YB.
 
 [34:09] Rafizi: Cubaan yang baik YB Hulu Terengganu.
 
-[34:13] Haziq: Dan kita habislah untuk review soalan Parlimen YB. Kita terus ke segmen Hidup Keras YB. Ha bersedia YB.
+[34:13] Haziq Azfar: Dan kita habislah untuk review soalan Parlimen YB. Kita terus ke segmen Hidup Keras YB. Ha bersedia YB.
 
 [34:22] Rafizi: Dah 19 minggu podcast ni, aku pun rasa hidup keras sangat ni kan. Apa yang keras minggu ini?
 
-[34:30] Haziq: Yang pertama sudah pasti daripada YB Kota Bharu.
+[34:30] Haziq Azfar: Yang pertama sudah pasti daripada YB Kota Bharu.
 
 [34:34] Rafizi: Ha yang ini. Saya ada di Parlimen semasa dia berucap ni. Sepatutnya yang ini pun masuk dalam segmen Beria kerana masa dia berucap tu sangat beria-ia.
 
-[34:50] Haziq: YB, saya rasa semua orang dah fahamlah. Dah ada ada kenyataan daripada apa Ketua Pengarah APMM, lepas tu daripada masjid, jadi orang pun pening. Tapi saya nak tanya nak jump to conclusion terus. YB setuju tak kalau YB Kota Bharu ni digantung 6 bulan macam YB Machang dulu?
+[34:50] Haziq Azfar: YB, saya rasa semua orang dah fahamlah. Dah ada ada kenyataan daripada apa Ketua Pengarah APMM, lepas tu daripada masjid, jadi orang pun pening. Tapi saya nak tanya nak jump to conclusion terus. YB setuju tak kalau YB Kota Bharu ni digantung 6 bulan macam YB Machang dulu?
 
 [35:08] Rafizi: Tak, yang itu Parlimen ada prosesnya sendirilah kan. Dan bagi saya soal gantung tak gantung dalam Parlimen itu, itu proses Parlimen yang mungkin tidak ada kesan mana kepada rakyat. Cuma kecenderungan untuk mempolitikkan semua ni, saya pun tak tahu apa yang dah jadi dengan PAS. Sebab PAS yang saya kenal membesar di Terengganu, kemudian PAS bersama-sama mula dalam Barisan Alternatif, kemudian PAS bersama di dalam Pakatan Rakyat, PAS yang saya kenal dahulu bukanlah jenis yang suka melompat dan memusingkan semua perkara menjadi isu perkauman semata-mata untuk membina kebencian kepada kerajaan. Itu bukan PAS yang saya kenal. Saya membesar dengan PAS yang kempennya ialah Islam Untuk Semua. Maka asobiyyah ataupun perkauman atau berpuak-puak itu adalah haram dalam Islam. Itu PAS yang saya kenal. Tapi kebelakangan ini setiap satu perkara bila dapat dekat PAS, mereka seolah-olah ketagih dengan memainkan isu perkauman untuk membina kemarahan ini. Jadi isu yang ini ni ialah...
 
-[36:47] Haziq: Tapi bukan isu perkauman YB, macam mana?
+[36:47] Haziq Azfar: Tapi bukan isu perkauman YB, macam mana?
 
 [36:49] Rafizi: Dia tak tak jauh manalah. Ini maksudnya kalau dalam bahasa Inggeris, appealing to the right wing kan. Maksudnya mesej-mesej ataupun kempen yang anti-establishment, yang anti-kerajaan. Jadi yang ini sehingga nak dikatakan bahawa ada cubaan untuk melakukan satu lagi Memali kepada PAS. Saya pun pelik jugalah. Sepatutnya saya fahamlah kalau yang lama-lama PAS ni yang yalah marah pasal Memali. Saya darjah 2 tahun 1985. Saya sempat tengok secara langsung sebenarnya liputan mengenai Memali di TV. Saya mungkin tak faham sangatlah. Kemudian saya ingat cerita Guru Yahya yang pasal yang yang dibuat mengenai ajaran sesat. Bila saya besar sedikit baru saya faham sebenarnya itu propaganda mengenai Memali kan. Kau tak lahir lagilah masa tu kan. Jauh lagi. Jadi saya fahamlah kalau PAS sangat sensitif kalau perkara-perkara yang bersabit dengan Memali. Cuma peliklah kerana Memali itu berlaku Menteri Dalam Negeri masa Memali itu adalah Tun Mahathir, penasihat mereka sekarang. Jadi Tun dulu yang yang yang pernah dikatakan mengenai Memali terhadap ke batang hidung mereka ialah yang mati di Memali tu mati katak. Jadi menghidupkan kembali cerita mengenai Memali ni dan dikaitkan dengan Masjid Rusila, seolah-olah ada satu konspirasi besar yang cuba untuk me-Memalikan Masjid Rusila, saya rasa itu telah melampaui bataslah. Dan macam saya sebut awal tadilah, malanglah apabila Parlimen dan negara kita ni ada banyak masalah dan isu yang perlu kita fokus. Dan seorang pimpinan kanan daripada PAS yang pernah menjadi Menteri Undang-Undang dan pernah menjadi Menteri Tenaga, sepatutnya dia ada pengalaman yang dan pandangan yang besar tentang isu-isu yang banyak ni, terutamanya yang bersabit dengan keterjaminan tenaga. Akhirnya dia menggunakan ucapan dia itu untuk menimbulkan emosi di dalam Parlimen kerana mungkin itu akan dapat TikTok yang lebih dan akan dapat lebih banyak sokongan dalaman daripada PAS. Saya tak rasalah akan ada mana-mana kerajaan, tak kisahlah parti mana, yang akan ambil tindakan yang melibatkan pihak penguatkuasa di masjid, apatah lagi Masjid Rusila. Lagipun Masjid Rusila ni, Datuk Seri Hadi Awang ni dia dah berceramah dan juga bagi kuliah Jumaat dia daripada saya umur 7-8 tahun pun lagi dah. Saya dah umur dekat 50 sekarang ni. Maksudnya dah 40 tahun tau, tidak pernah ada tindakan, tidak pernah daripada zaman Tun Mahathir sampailah kepada Datuk Seri Najib, sampailah kepada PH dan kononnya DAP berkuasa, tak pernah. Jadi ini walaupun dia cheap sikitlah, cubaan kempen yang yang saya rasa low blow kan, apa nama ni below the belt yang yang tak patut dibawa, tapi yang lebih membimbangkan ialah kecenderungan untuk membuat kesimpulan dan turning the table bagi setiap perkara itu ada motif ataupun mesej yang bersifat terlalu sayap kanan.
 
-[41:10] Haziq: Okey baik YB. Okey, cukup untuk yang...
+[41:10] Haziq Azfar: Okey baik YB. Okey, cukup untuk yang...
 
 [41:13] Rafizi: Serbu, komando serbu. Serbu.
 
-[41:17] Haziq: YB dah tengok video CCTV?
+[41:17] Haziq Azfar: YB dah tengok video CCTV?
 
 [41:18] Rafizi: Tengoklah. Saya tengoklah yang video-video CCTV pendek tulah kan. Serbu ni sayalah yang selalu kena serbu sebab dulu kena tangkap. Serbu ni dalam bahasanya kena tangkap dengan polis datang, tiba-tiba kepung rumah dan sebagainya kan. Saya dan kalau itu berlakulah, saya rasa dah dah lebih kecoh daripada yang ini. Kita tunggu, kita tunggu jawapan daripada Kementerian Dalam Negeri, daripada APMM. Tapi sebagai seorang ahli Parlimen yang kananlah, saya ingat ahli Parlimen Kota Bharu Datuk Seri Takiyuddin ni tidak patutlah melompat dan terus menghamburkan tuduhan dalam bentuk soalan. Dia bukan dia bukan menyatakan fakta. Dia sebab saya dengar ucapan itu, tuduhan itu dibuat tanpa fakta dan bertujuan untuk bermain emosi iaitu, "Adakah ini satu usaha untuk ni kepada presiden kami? Adakah adakah ini ialah satu cubaan untuk mengulangi perkara yang berlaku di Memali?" Jadi...
 
-[42:43] Haziq: Okey baik YB, kita tunggu respon seterusnya. Sehingga kita tengok satu lagi isu lain yang elephant in the room juga berkaitan dengan keputusan Mahkamah Tinggi Kota Kinabalu memutuskan 40% hasil Sabah perlu dipulangkan. Saya rasa ini agak dilema dalam dilemalah sebab dalam belanjawan baru-baru ni punya banyak macam-macam diumumkan. Kalaulah kerajaan apa ni proceed nak appeal, saya rasa memang kredit tu semua hilanglah. Tapi kalau kerajaan nak bayar juga atau setuju nak bayar from akaun to akaun, akaun persekutuan ke akaun negeri, saya tak sure kerajaan Persekutuan ada kemampuan. Saya mungkin nak minta tolong sikit YB, macam mana YB nak cadangkan kepada PMX nak bantu ke bantudialah dalam dilema ni?
+[42:43] Haziq Azfar: Okey baik YB, kita tunggu respon seterusnya. Sehingga kita tengok satu lagi isu lain yang elephant in the room juga berkaitan dengan keputusan Mahkamah Tinggi Kota Kinabalu memutuskan 40% hasil Sabah perlu dipulangkan. Saya rasa ini agak dilema dalam dilemalah sebab dalam belanjawan baru-baru ni punya banyak macam-macam diumumkan. Kalaulah kerajaan apa ni proceed nak appeal, saya rasa memang kredit tu semua hilanglah. Tapi kalau kerajaan nak bayar juga atau setuju nak bayar from akaun to akaun, akaun persekutuan ke akaun negeri, saya tak sure kerajaan Persekutuan ada kemampuan. Saya mungkin nak minta tolong sikit YB, macam mana YB nak cadangkan kepada PMX nak bantu ke bantudialah dalam dilema ni?
 
 [43:35] Rafizi: Apahal pula kau nak minta bantuan aku untuk cadang kepada PMX?
 
-[43:38] Haziq: Hypotheticalllah.
+[43:38] Haziq Azfar: Hypotheticalllah.
 
 [43:39] Rafizi: Hypothetical tak boleh pakai.
 
-[43:40] Haziq: How to imbalanced lah. Kita tak kaitkan dengan PMX eh.
+[43:40] Haziq Azfar: How to imbalanced lah. Kita tak kaitkan dengan PMX eh.
 
 [43:44] Rafizi: You're a lawyer. Berapa tempoh masa yang dibenarkan sebelum habis tempoh tamat untuk buat rayuan?
 
-[43:58] Haziq: Yang saya baca ni not very yang untuk specifically kes nilah, not very soon. We're not talking about years, memang beberapa bulan tak silap saya.
+[43:58] Haziq Azfar: Yang saya baca ni not very yang untuk specifically kes nilah, not very soon. We're not talking about years, memang beberapa bulan tak silap saya.
 
 [44:10] Rafizi: Yalah, undang-undang dia mesti ada kan? Dia...
 
-[44:16] Haziq: Ada kalau...
+[44:16] Haziq Azfar: Ada kalau...
 
 [44:17] Rafizi: Dia tak dia takkan rayuan ni tak boleh open ended. Dia mesti ada tempoh had bila sebab yang itu sebenarnya yang paling signifikan sekaranglah. Pandangan saya, kerajaan akan merayu kerana rayuan itu bukan soal bergaduh dengan Sabah ataupun tidak, dia mesti mengikut undang-undang. Jadi undang-undang tafsiran undang-undang itu, Kamar Peguam Negara bagi pihak kerajaan mungkin ada tafsirannya sendiri. Dan contohnya bila pada tahun 19 awal 1970-an, apabila kerajaan Barisan Nasional masa itu tidak membayar 40% dan itu berterusan sampai sekarang, keputusan dalam tahun 1970-an itu mestilah bersandarkan kepada beberapa perkara. Contrary to popular belief, saya tidak rasalah di dalam kerajaan ini pakai langgar saja. Tafsiran itu mungkin berbeza-beza. Contohnya kalau ambil soal Sarawak kan, tafsirannya berkisar kepada guna pakai Akta Pelantar Benua yang menentukan sempadan negeri adalah sampai 3 batu nautika. Kerajaan Negeri Sarawak ada pandangan dia mengenai guna pakai dan juga tafsiran itu, Kerajaan Persekutuan ada pandangan dia kan. Sama juga dengan perkara perlembagaan ini. Sudah tentu semasa keputusan itu dibuat, ada hujah-hujah dan disandarkan kepada beberapa tafsiran undang-undang pada ketika itu. Jadi sudah tentu Kerajaan Persekutuan akan melihat kepada perkara-perkara itu dan kalau dirasakan bahawa ada tafsiran berbeza yang boleh menjadi bahan hujah untuk dirayu dan Kerajaan Persekutuan akan rayu. Saya rasa Kerajaan Persekutuan akan rayu. Isu dia ialah Pilihan Raya Negeri Sabah. Pilihan Raya Negeri Sabah ialah akhir November. Jadi sebab itu saya tanya tempoh masa untuk merayu tu bila tamat?
 
-[46:45] Haziq: Dia berbeza ikut kes.
+[46:45] Haziq Azfar: Dia berbeza ikut kes.
 
 [46:48] Rafizi: Dia siapa? Takkan arbitrary macam tu. Sekarang ni nak tanya Haziq adalah lulusan ijazah undang-undang daripada Universiti Malaya. Jadi pensyarah-pensyarah Universiti Malaya sekarang boleh tengok. Surely there is appeal. Itu di bawah akta mana?
 
-[47:06] Haziq: Kalau kes sivil, Civil Procedure Codelah. Dia yalah kalau again kita tengok berdasarkan isu kan. Kalau isu berkaitan contohnya hutang, so dia ada 6 tahun time tu kan. So kalau isu lain...
+[47:06] Haziq Azfar: Kalau kes sivil, Civil Procedure Codelah. Dia yalah kalau again kita tengok berdasarkan isu kan. Kalau isu berkaitan contohnya hutang, so dia ada 6 tahun time tu kan. So kalau isu lain...
 
 [47:24] Rafizi: Tak, itu basically apa nama ni statute of limitation, 6 tahun. Ini bukan statute of limitation ni. Ini maksudnya judgment telah keluar. Dan judgment telah keluar, dia mesti ada tempoh masa yang kalau you tak appeal dalam tempoh masa itu, then dia dia kira lapselah, you tak boleh nak appeal dah. Tapi tak apalah, okey eh. So my guess is this. My guess is this. Hypothetically eh, hypothetically tempoh untuk merayu itu adalah selepas Pilihan Raya Negeri Sabah. Maka rayuan itu akan dibuat selepas Pilihan Raya Negeri Sabahlah dan dia akan pergi ke Mahkamah Rayuan. Dan ini adalah perkara-perkara yang bersabit dengan tafsiran perlembagaan dan yang itu akan it will take its course lah. So itu satu perkara eh. Soal politik dan juga soal undang-undang, kesukaran Kerajaan Persekutuan sekarang ialah kerana secara politiknya kalau merayu sekarang, confirm bungkus. Dia akan jadi isu besarlah di Sabahlah kan. Perkara yang yang satu sisi lagi ialah soal 40% ni. 40% adalah hasil Kerajaan Persekutuan yang dikutip daripada Sabah kan. Setakat ini kenyataan Perdana Menteri bahawa bermula tahun 2022 sehingga sekarang, jumlah peruntukan kepada Sabah telah pun melebihi daripada jumlah kutipan Kerajaan Persekutuan di Sabah kan. Sebab itu saya pernahlah semasa saya jadi menteri, kalau ikut saya, lebih baik untuk kita telus dalam semua perkara. Maksudnya data ini kita kongsi dan umumkan kepada rakyat, semua data. Data berapa kutipan hasil, berapa projek yang diluluskan, berapa perbelanjaan mengikut kawasan Parlimen, kita umumkan semua. Jadi supaya dia tidak menjadi bahan pertikaian. Tapi ada satu pandangan dalam kerajaan yang merasakan kalau itu dibuat, maka keadaan akan lebih kecoh. Kerana sebenarnya kutipan daripada negeri-negeri seluruh Malaysia ni dia tidak sekata. Dia akan menimbulkan keadaan yang mana sebahagian besar pembayar cukai ni berada di beberapa buah negeri aje. Dia di Wilayah Persekutuan, di Selangor, di Pulau Pinang, di Johor, yalah negeri-negeri yang ekonominya lebih majulah. Jadi dalam keadaan ini, perlembagaan kita menetapkan kita ada Senarai Persekutuan, Senarai Bersama dan juga Senarai Negeri. Yang saya kurang arif ialah semasa Malaysia dibentuk dan juga perjanjian-perjanjian termasuklah yang berada di dalam peruntukan Perlembagaan Persekutuan itu, bila dikatakan 40% hasil daripada Sabah itu, adakah itu bermakna itu pindahan tunai yang mesti dibayar oleh Kerajaan Persekutuan over and above peruntukan yang sedia ada? Over and above peruntukan yang dibayar oleh Kerajaan Persekutuan untuk menanggung khidmat dan juga infrastruktur dan juga gaji yang berada di bawah Senarai Persekutuan dan juga Senarai Bersama? Yang itu saya tak pasti. Yang itu pun saya saya rasa ada pandangan yang berbeza-beza juga. Sebab kalau pandangan contohnya Timbalan Presiden UPKO selepas Datuk Seri Anwar bentangkan di Parlimen bahawa hasil daripada Sabah itu sebenarnya kurang daripada yang diperuntukkan oleh Kerajaan Persekutuan dan Kerajaan Persekutuan telah memberikan peruntukan paling besar kepada Sabah setiap tahun berbanding negeri-negeri lain, jawapan daripada Timbalan Presiden UPKO ialah itu peruntukan, yang kita minta ini ialah over and above. Jadi yang itu saya kena semak dan tengok pandanganlah sama ada peruntukan yang 40% ini maksudnya over and above ke tidak. Kerana dia ada dia ada perbezaan yang besar. Contohnya eh, dalam keadaan sekarang yang mana kutipan daripada hasil daripada Sabah itu adalah kurang daripada yang dibelanjakan oleh Kerajaan Persekutuan untuk Sabah, maka kalau Kerajaan Persekutuan mengambil pendirian kita akan bayar mengikut 40% itu, tetapi itu juga bermakna bahawa peruntukan-peruntukan yang sebelum ini disalurkan mengikut pelbagai jabatan dan projek berdasarkan senarai, terutamanya senarai bersamalah kan, senarai termasuk juga mungkin senarai persekutuan, maka itu akan ditanggung oleh Sabah, then Sabah akan ada masalah. Saya bagi contoh yang baiklah. Yang ini saya tahu rakyat Sabah kalau dijadikan bahan politik, dia kurang popularlah bila saya sebut. Dia soalnya ialah tentang bekalan elektrik di Sabah contohnya kan. Secara prinsipnyalah, barang siapa sama ada negeri ataupun badan ataupun lembaga eh, barang siapa yang mempunyai kawal selia sepenuhnya terhadap sesuatu perkara, maka tanggungan itu mestilah dibuat oleh badan itu. Jadi ambil contohnya kan, kawal selia mengenai elektrik di Semenanjung dibuat oleh Suruhanjaya Tenaga. Maka Suruhanjaya Tenagalah yang menetapkan tarif. Suruhanjaya Tenaga dan juga Kerajaan Persekutuanlah yang bertanggungjawab membina infrastruktur seperti pencawang, grid dan sebagainya kerana itu dibayar melalui tarif yang ditetapkan oleh Suruhanjaya Tenaga. Jadi you control end to end. Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di bawah Sabah. Tapi dalam keadaan Sabah contohnya, kawal selia elektrik adalah sepenuhnya di bawah bidang kuasa Sabah, kerajaan negerikan? Tetapi pelaburan perlu dibayar oleh kerajaan pusat.
 
-[55:05] Haziq: Only in Sabah?
+[55:05] Haziq Azfar: Only in Sabah?
 
 [55:07] Rafizi: Itu yang diminta sekaranglah. Terutamanya pasal Southern Link eh, diperlukan satu grid yang menghubungkan di antara Pantai Barat Sabah dengan Pantai Timur Sabah kan. Jadi kerajaan negeri memohon supaya peruntukan diberikan untuk membina grid itu kan. Sama juga contohnya Kerajaan Sabah menetapkan tarif elektrik mereka. Dia tak sama dengan yang di Semenanjung kan. Dan dia menetapkan juga contohnya tarif gas, harga gas, semua ni kan. Jadi dari perspektif rakyat contohnya kan, orang Semenanjung akan kata kenapa kami perlu membayar lebih cukai untuk kita menanggung sesuatu yang berada di bawah bidang kuasa dan kawalan Kerajaan Negeri Sabah sepenuhnya, terutamanya kalau tarif yang ditetapkan itu adalah terlalu rendah dan perlu diberikan subsidi yang banyak? Sedangkan tarif elektrik di Semenanjung, subsidi telah disasarkan kerana gas, harga gas telah naik, tarif telah naik dan sebagainya. Jadi dia sebenarnya agak rumit. Jadi kalau pendiriannya ialah dengan 40% daripada hasil yang perlu dibayar kepada Kerajaan Sabah itu, maka Kerajaan Sabah akan menggunakan itu untuk melaksanakan perkara-perkara yang di bawah bidang kawalan dia, then ada kemungkinan bahawa peruntukan itu tidak mencukupi pun. Kerana hasil daripada Sabah mungkin seperti yang dimaklumkan, hasil daripada Sabah memang kurang daripada yang dikutip oleh Kerajaan Persekutuan kan. Jadi kalau Kerajaan Persekutuan kutip 10 bilion, peruntukan setiap tahun peruntukan yang disebut tu kan 13 bilion itu, itu hanyalah peruntukan itu peruntukan bersamalah, maksudnya peruntukan belanja pembangunan dan juga belanja mengurus kan. Ada shortfall 3 bilion tu. So kalau bagi 40% daripada 10 bilion, 4 bilion dibayar terus, itu bermakna Kerajaan Sabah satu, kena cari jalanlah dengan 4 bilion itu untuk menampung apa-apa yang tidak lagi diperuntukkan secara terus oleh Kerajaan Persekutuan. Satu lagi sisi saya ingat ramai juga di Sabah yang beranggapan bahawa semua tunggakan yang lepas-lepas itu perlu dibayar. Jadi itu yang perlu dihujahkan di mahkamah nanti kalau ada rayuanlah. Tapi pandangan saya, saya ingat Kerajaan Persekutuan akan mencari jalanlah untuk membuat rayuan. Cuma nak kena navigate Pilihan Raya Negeri Sabah yang akan berlakulah.
 
-[58:21] Haziq: Cuma untuk appeal tu seingat saya 30, 30 days.
+[58:21] Haziq Azfar: Cuma untuk appeal tu seingat saya 30, 30 days.
 
 [58:26] Rafizi: 30 days? Ha habislah.
 
-[58:28] Haziq: It will be very tricky sebab...
+[58:28] Haziq Azfar: It will be very tricky sebab...
 
 [58:30] Rafizi: Sebab Pilihan Raya Negeri Sabah itu 30 November eh?
 
-[58:36] Haziq: Bila? 20 November, 27 something macam tu tak silap saya.
+[58:36] Haziq Azfar: Bila? 20 November, 27 something macam tu tak silap saya.
 
 [58:41] Rafizi: 27. Jadi maksudnya tempoh untuk merayu yang 30 hari itu akan berakhir sebelum Pilihan Raya Negeri Sabah.
 
-[58:50] Haziq: To file the appeal.
+[58:50] Haziq Azfar: To file the appeal.
 
 [58:52] Rafizi: To file the appeal lah. Jadi kita tunggulah makan popcorn. Cuma seperti yang saya sebut awal tadilah, perkara ini rumit kan dan memang mudah untuk kalau yang rakyat Sabah ataupun ahli politik Sabah dia bagi satu pendirian yang mungkin tidak mengambil kira keseluruhan perkaralah. Memang mudah populis untuk kita kata dia clear-cut, hitam putih. Dia dia sebenarnya pandangan saya lebih rumit kan kerana kalau hubungan di antara Kerajaan Persekutuan dengan kerajaan negeri tidak ada give and take dalam semangat persekutuan, kalau kita nak ikut 100% kepada tafsiran masing-masing, dia akan jadi ekstrem begitulah. Dia akan jadi yang baik, kita boleh bagi tapi yang lain itu kami tak mampu, maka tidak ada lagi peruntukan-peruntukan terus. Sebagai contoh infrastruktur kecil kan, saya pernah sebut saya ingat dalam podcast-podcast yang sebelum ini kan, hampir semua pihak berkuasa tempatan, majlis daerah semua ni di seluruh negara bukan saja di Sabah, sebenarnya tidak ada wang untuk nak buat longkang pun. Semua itu dibiayai oleh Kerajaan Persekutuan yang disalurkan melalui Kementerian Ekonomi. Itu yang kita buat IKR, Inisiatif Kemudahan Rakyat, kita bagi geran terus projek-projek kecil kepada majlis-majlis daerah kan. Dan dalam banyak-banyak negeri, yang paling banyak mendapat peruntukan terus untuk projek-projek kecil adalah Sabah. Setahun lebih kurang 250 juta ke 290 juta saya ingat semasa saya menjadi menteri dahulu. Ini adalah peruntukan terus tau daripada Kerajaan Persekutuan. Jadi itu adalah contoh-contoh yang jalan-jalan yang mungkin pihak Kerajaan Persekutuan perlu pertimbangkan untuk mengimbangi keperluan membayar 40% ini. Jadi akhirnya yang tetap akan menjadi mangsa adalah rakyat Negeri Sabah. Kerana you may gain from this, but you lose from that kan.
 
-[1:01:19] Haziq: Baik YB. Okey, kita dah sejam kat sini. Kalau kita boleh tengok isu yang seterusnya. Kita ada serangan balas YB hari tu menegur Tan Sri Abdul Hadi Awang berkaitan penggunaan dinar menggantikan USD. Jadi hujah yang disampaikan sedangkan zaman Tun Mahathir dulu pun ada pakatan D-8 yang nak menggunakan dinar sebagai instrumen perdagangan antara negara Islam dan tahun 2023 Perdana Menteri pun dalam Parlimen ada menyatakan pertimbangan untuk menggunakan dinar sebagai rizab negara. So macam mana YB nak jawab balik?
+[1:01:19] Haziq Azfar: Baik YB. Okey, kita dah sejam kat sini. Kalau kita boleh tengok isu yang seterusnya. Kita ada serangan balas YB hari tu menegur Tan Sri Abdul Hadi Awang berkaitan penggunaan dinar menggantikan USD. Jadi hujah yang disampaikan sedangkan zaman Tun Mahathir dulu pun ada pakatan D-8 yang nak menggunakan dinar sebagai instrumen perdagangan antara negara Islam dan tahun 2023 Perdana Menteri pun dalam Parlimen ada menyatakan pertimbangan untuk menggunakan dinar sebagai rizab negara. So macam mana YB nak jawab balik?
 
 [1:02:06] Rafizi: Yang sebut ni Nurul Islam ni dia ada hutang dengan saya. Dulu dia saya ingat aktivis Pemuda PAS lah, ni tahun 2012 saya ingat kan. Masa tu saya sangat popular dengan PAS lah kerana saya diperlukan untuk memberi ceramah sebab kalau ceramah PAS isu yang samalah. Tapi bila orang PKR datang ni kita ada banyak isulah, isu NFC, isu skandal semua. Jadi orang PAS sukalah. Jadi ada masa tu dia muda lagi saya ingat, dia pun susah payah menjemput saya, mengacau aku untuk hadir ke satu forum yang dia dengan kawan dia buat. Saya ingat dekat mana ni, dekat KL lah kan. Jadi saya pergilah. Saya tertinggal satu fail folder mahal saya yang ada orang pernah bagi, folder Montblanc. Ada dengan dia. Bagi balik folder Montblanc aku. Bagi balik. Bagi balik. Selepas 13 tahun, ingat lagi eh. Baik, so maksudnya komennya?
 
-[1:03:14] Haziq: YB yalah pertikaikan Tan Sri Tuan Guru Haji Abdul Hadi untuk menukar penggunaan dinar ganti USD. Tapi hujah datang balik, "Oh ini pernah dibangkitkan dulu, Mahathir pernah bincangkan, Anwar pun kata..."
+[1:03:14] Haziq Azfar: YB yalah pertikaikan Tan Sri Tuan Guru Haji Abdul Hadi untuk menukar penggunaan dinar ganti USD. Tapi hujah datang balik, "Oh ini pernah dibangkitkan dulu, Mahathir pernah bincangkan, Anwar pun kata..."
 
 [1:03:28] Rafizi: Tapi yang ini lain, dia kata ini cari pelampung.
 
-[1:03:31] Haziq: Ya, that's the itulah dia punya apa ni hujah daripada our learned friend ni YB.
+[1:03:31] Haziq Azfar: Ya, that's the itulah dia punya apa ni hujah daripada our learned friend ni YB.
 
 [1:03:37] Rafizi: Yalah, bila dia tak boleh menjawab, maka dia serang peribadilah. Jadi dan saya selalu dan hujah ni selalunya banyak datang sama ada daripada Walaun ataupun Walajib daripada tahun 2018 lagi kan. Yang akan kata, "Ha kau dah tak relevan. Padan muka engkau." semua kan. Saya ingat tahun 2018 dulu kan bila saya mengambil keputusan untuk tarik diri daripada politik dan sebagainya, banyaklah yang Walaun dan Walajib ni maki hamun semua kan. Hujah yang sama. "Oh cari pelampunglah, sekarang ni dah tak relevan, kena tendang dalam parti, padan muka" dan sebagainya kan. Mereka yang memaki hamun ini tidak pula bila PKR, Pakatan Harapan berjaya membentuk kerajaan tahun 2022 kan, tidak pula dia datang kata, "Alamak, dia ada lagi." Selepas dia orang dah buat dosa maki hamun berkaung-kaung 3-4 tahun, tiba-tiba saya ada lagi kan. Dan apa nama ni alhamdulillah berada di kedudukan yang lebih baik pun kan. Jadi hujah-hujah seperti ini sama ada mereka tak ada modal, maka mereka akan serang secara peribadi ataupun saya pun bersangka baiklah, maksudnya kerangka dan perspektif politik mereka itu adalah 100% daripada pemahaman parti mereka. Di dalam UMNO contohnya kan, di dalam PAS contohnya, sebab itu dia kena cium tangan orang atas 100% dan dia sukar untuk bersuara bebas, apatah lagi mengkritik pimpinan sendiri kerana bila mereka tidak lagi berada di dalam struktur ataupun kepimpinan parti, contoh dia ni, dia tak ada tempat. Dan berada di dalam struktur kepimpinan parti dengan harapan bila ada jawatan dalam parti, maka kalau parti mereka itu berkuasa, mereka akan dapat habuan. Jawatan dia ni saya ingat diangkat sebagai pemikir utama PAS. Rendah sikit daripada Bachok yang pakar ekonomi tulah kan. Kadang sebab itu serangan mereka macam tulah. Pelampung, tak relevan, lepas tu gagal semua kan. Sebenarnya rakyat boleh melihat dan menghakimi sendiri kan. Banyak ahli politik yang yang generasi baru ke belakang sikit seperti saya, sebenarnya kita tidak melihat kepada kedudukan parti semata-mata, itu satu. Kedua, niat kami di dalam politik bukanlah untuk mendapat jawatan ataupun kedudukan, berbeza dengan sebahagian daripada mereka contoh macam Nurul Islam ini yang bergantung kehidupan mereka kepada makan gaji daripada jawatan-jawatan tertentu ataupun hidup itu bergantung kepada kedudukan dalam parti. Sebahagian besar daripada kamilah, orang macam saya, kami memang profesional yang kalau tidak ada politik pun, tidak perlu jadi relevan dalam politik untuk hidup, dia tak dia tak mengganggu kami pun. Jadi sebab itu niatnya ialah kita mahu melihat perubahan dalam masyarakat. Jadi sebab itu kalau dia kata serangan-serangan seperti yang diberikan ini untuk mencari perhatian politik kan selepas popularitinya merudum, saya sebenarnya buat survey kan tiap-tiap bulan. Populariti saya naik tau selepas saya meletakkan jawatan kan. Jadi saya tak tahu ahli politik lainlah, saya selalunya sukat sesuatu isu termasuklah soal populariti dan. Jadi kalau PAS secara berterusan cuba mengalihkan perhatian dengan menyerang peribadi dan mengulangi perkara yang sama kononnya pelampung, tak relevan, akhirnya perkara itu dia boomerang kepada PAS balik. Kerana perkara asal yang saya timbulkan itu tidak dijawab. Maksudnya dua perkara kan yang saya timbulkan dekat Parlimen. Setiap kalilah kita bercakap mengenai ekonomi dengan masalah yang rumit, masalah hutang, masalah fiskal, masalah pertumbuhan, masalah middle income trap, masalah gaji, masalah kos sara hidup, ini semua masalah yang benar-benar mengesani kehidupan rakyat tiap-tiap hari, daripada dulu maka kita akan dapat jawapan daripada pimpinan kanan PAS bahawa, "Oh sistem ini sistem tak baik, sebab itu pilihlah kami kerana kami akan menukar sistem. Sistem yang lebih Islam, mata wang kita gunakan mata wang lain." Sebelum tahun 2020, saya tak pernah timbulkan soal ni semua sebab dia tak pernah jadi kerajaan. Jadi bila dah jadi kerajaan dan perkara itu tak berlaku, sama macam RUU355, jadi sudah tentulah rakyat pun akan menghakimi. Jadi kalau mereka tidak menjawab soalan itu, saya tak rugi apa-apa. Pelampung, aku agak tembam, kau campak aku dalam air insya-Allah aku tak tenggelam kan. Jadi ya, jadi perkara ini mengesahkan bahawa apabila kita bawa isu-isu yang rumit terutamanya yang berkait dengan ekonomi, PAS sebenarnya tak ada jawapan. Sebab itu mereka tidak ada pilihan lain kecuali menyerang peribadi. Kalau sebelum ini contohnya saya ingat Nurul Islam ini dia ni think tank kepada Kerajaan Negeri Terengganu. Dia tak jawab pun kenapa Kerajaan Negeri Terengganu dengan majoriti 32-0 masih lagi antara negeri yang paling corot dari segi kutipan, pertumbuhan ekonomi dan bergantung hampir sepenuhnya kepada pindahan tunai dan bantuan yang dihulurkan oleh Kerajaan Persekutuan contohnya kan. Dia tak jawab yang itu. Dia juga tidak jawab. Cuma bila saya sentuh yang disentuh itu ialah Datuk Seri Hadi Awang, maka mereka berlumba-rumbalah nak tunjukkan siapa jadi hero. Sama juga bila kita bandingkan dari segi prestasi pentadbiran, dia akan bagi segala macam alasan. Contohnya Kedah, dia tak bercakap tentang prestasi pentadbiran, dia akan cakap bahawa MB kami sempoi. Jadi akhirnya saya perlu memainkan peranan saya untuk membolehkan rakyat membuat penilaian secara objektif. Keadaan yang ideal ialah Datuk Seri Hadi Awang itu dengan segala ilmu agama dia, dia juga adalah seorang ilmuwan dalam bidang ekonomi dan pengurusan seperti ilmu Ibnu Khaldun. Kalau dia macam tu, saya undi dia. Sebab dia tahu semua. Tapi hakikatnya sebahagian besar pimpinan PAS mereka tidak ada kemahiran mentadbir. Dan itu kerana pembawaan di dalam PAS ini mirip juga kepada sistem yang ada di Iran iaitu pentadbiran kerajaan perlu dikawal oleh ulama, tetapi pentadbir itu kita boleh lantik siapa-siapa asalkan dia cium tangan kita. Jadi pembawa sebab itu maka soal pengurusan ekonomi, soal idea, yang ini tidak diberi penekanan di dalam PAS. Dan apabila pimpinan-pimpinan PAS yang dulu disebut progresif ditendang keluar dan mereka berada di dalam Amanah, maka apa-apa kemampuan yang ada dalam PAS dalam soal pentadbiran ekonomi yang itu dah tak ada langsung sekarang ni kan. Jadi akhirnya mereka akan secara berterusan memainkan isu seperti ini yang bagusnya saya ingat hanya Walaun yang betul-betul percaya pada perkara inilah. Rakyat akan tetap boleh membandingkan kerana kita bolehlah kita dah cuba sekali, dah pernah merasa 33 bulan. Dan masa itu saya ingat antara yang paling banyak duduk dalam gua ialah penyokong utama PAS lah termasuklah dia ni kut. Sebab dia tak boleh menjawab bagi pihak menteri-menteri PAS yang yang saya ingat beberapa perkara Tuan Ibrahim Tuan Man, menteri yang bertanggungjawab kepada alam sekitar bila ditanya dalam Parlimen, jawapannya perubahan iklim itu tidak terpakai kepada kita kan, jadi kita tidak perlu bimbang. Jadi kita pernah ada pengalaman itu dan nasihat saya kepada PAS, demi rakyat Malaysia kalau ditakdirkan PAS menjadi kerajaan satu hari nanti, kalau selepas PRU-16 ke jadi kerajaan, PAS ada 2 tahun ini untuk mempersiapkan pimpinan mereka supaya arif dan berkemampuan untuk menangani perkara-perkara yang rumit yang saya sebut tadi. Doktrin dan juga budaya di dalam PAS yang menyatakan bahawa pimpinan kanan yang berpendidikan agama ini tidak perlu tahu mengenai pentadbiran kerana kita boleh arah orang yang akan cium tangan kita, itulah yang akhirnya jadi macam Sanusi di Kedah. "Saya baca aje." Tak boleh, menteri mesti buat keputusan. Kalau menteri baca saja, rosak negara ini.
 
-[1:14:47] Haziq: Tapi penggunaan dinar ganti USD, itulah idea dia?
+[1:14:47] Haziq Azfar: Tapi penggunaan dinar ganti USD, itulah idea dia?
 
 [1:14:51] Rafizi: Yalah, dinar ganti USD contohnya kan, cantik untuk didengari tetapi kurang praktikal buat masa sekarang. Kalau tidak, negara-negara seperti Rusia dan BRICS yang lebih berkemampuan secara ekonomi, mereka dah boleh menggunakan mata wang sendirilah. Sebab itu langkah yang kita perlu ambil itu mesti lebih pragmatik dan realistik. Contohnya kan, tulang belakang sistem mata wang dunia ini adalah bersandarkan dolar. Bila saya sebut tulang belakang itu bukan semata-mata soal dolar tu saja, keseluruhan pindahan wang adalah berasaskan dolar, clearing system berasaskan dolar. Sebab kalau nak ikutnya, satu-satunya negara yang sebenarnya ada kemampuan ekonomi dan kewangan yang boleh mencabar mata wang dolar ialah China. Tapi China pun masih lagi berhati-hati dalam keadaan itu kerana mereka tahu ialah bukan mudah untuk membina satu sistem perbankan antarabangsa yang saling berkait termasuklah semua ni, clearing system, transfer system ini yang yang berlainan daripada sistem dolar yang ada. Sebab itu langkah pragmatiknya ialah dia kena melalui cara suka sama suka. Contohnya kalau Malaysia berdagang dengan China, jadi kita tak perlulah menggunakan dolar. Kita transaksi kita sama ada dalam sama ada dalam ringgit ataupun yuan. Kalau kita Malaysia dengan Arab Saudi, kalau boleh diyakinkan, kita gunakanlah sama ada ringgit ataupun riyal contohnya kan. Jadi langkah itu adalah lebih pragmatik dan realistik berbanding dengan retorik politik, "Marilah kita gunakan dinar, marilah kita gunakan itu dan ini." Sebab Malaysia ni negara kecil. Kita bukanlah kita bukan Arab Saudi pun kan. Jadi yang selalu akan berlaku seperti ini iaitu retorik di Marang, dekat kampung-kampung kat Marang, kedai kopi, itu yang saya kata ni sedap didengar di kedai kopi ni. Best ah, bunyi hebat semua, bagulah dia. Tapi ada sebab kenapa perkara itu hatta Arab Saudi pun sampai sekarang, China ke Jepun ke masih lagi belum boleh buat.
 
-[1:17:42] Haziq: Okey YB, clear. Terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM di Residensi Aman Madani. Mungkin saya explainlah saya takut orang tak perasan kan.
+[1:17:42] Haziq Azfar: Okey YB, clear. Terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM di Residensi Aman Madani. Mungkin saya explainlah saya takut orang tak perasan kan.
 
 [1:18:02] Rafizi: Lagipun kalau yang dengar kat dekat Spotify tu dia tak tengok, dia tengah jogging. Jadi memang kena explain apa dia.
 
-[1:18:09] Haziq: PMX dia menegur supaya projek perumahan mega 3,500 units ke atas mesti sediakan sekolah dan tadika. Jadi dia tegur direct lah dalam ucapannya. Dia katakan in fact kalau tak buat lagi yang projek ni, satu lagi blok lain tu kena tangguh sampai syarat ini dipenuhi. In fact dia single out apa pengarah perancang tak silap saya. Jadi cuma YB, soalan saya tapi saya kena bagi tahu awal-awallah di video TikTok specific bagi video ini respon daripada public tu agak agak baik terhadap approach PMX. Tapi apa pendapat YB pula dengan cara PM interject macam ni? Ada adverse effect ke ataupun benda bagus kita sambut sekali ke?
+[1:18:09] Haziq Azfar: PMX dia menegur supaya projek perumahan mega 3,500 units ke atas mesti sediakan sekolah dan tadika. Jadi dia tegur direct lah dalam ucapannya. Dia katakan in fact kalau tak buat lagi yang projek ni, satu lagi blok lain tu kena tangguh sampai syarat ini dipenuhi. In fact dia single out apa pengarah perancang tak silap saya. Jadi cuma YB, soalan saya tapi saya kena bagi tahu awal-awallah di video TikTok specific bagi video ini respon daripada public tu agak agak baik terhadap approach PMX. Tapi apa pendapat YB pula dengan cara PM interject macam ni? Ada adverse effect ke ataupun benda bagus kita sambut sekali ke?
 
 [1:18:54] Rafizi: Kebimbangan saya ialah kalau saya tak pasti eh, saya tengok video ni. PM tegur seolah-olah yang tak nak buat ini adalah pemaju. Dan seolah-olah tanggungjawab menyediakan sekolah, tadika ini semua tanggungjawab pemajukan? Yang saya tak pasti adalah sama ada itu adalah gimik politik PM kerana seperti yang Haziq sebut tadi, dia memang popular dengan rakyatlah. Ataupun dia kurang mahir tentang proses pentadbiran eh. Sebab sebelum sesuatu projek itu diluluskan, sama ada yang projek yang perumahan bertingkat seperti ini ataupun rumah teres, apa proses dia?
 
-[1:19:45] Haziq: Kita kena dapatkan apa ni kebenaran merancang?
+[1:19:45] Haziq Azfar: Kita kena dapatkan apa ni kebenaran merancang?
 
 [1:19:49] Rafizi: Kita kena dapatkan kebenaran merancang. Kalau tidak, kita tak boleh bina. Kebenaran merancang itu merujuk kepada apa? Dia tak boleh setiap majlis perbandaran itu pandai-pandai aje suruh buat. Dia merujuk kepada apa?
 
-[1:20:04] Haziq: Kepada apa yang nak bina dekat situ, kesesuaian.
+[1:20:04] Haziq Azfar: Kepada apa yang nak bina dekat situ, kesesuaian.
 
 [1:20:08] Rafizi: Yalah, maksudnya keputusan dialah, longkang dia macam mana, apa yang ada, dia merujuk kepada apa? Dia merujuk kepada beberapa perkaralah. Satu, dia merujuk kepada rancangan tempatan. Dia tak boleh contohnya kalau dekat situ sebelum dia nak luluskan, tanah tu contohnya untuk rekreasi. Dan dia kena melalui proses, kalau dia nak tukar syarat tanah itu, dia kena tengok pula akan ada bantahan kerana tanah ini telah dizonkan untuk perkara A, perkara B, tak boleh pandai-pandai tukar. Lepas itu untuk menetapkan syarat dari segi infrastruktur semua, yang itu perlu juga merujuk kepada prosedur dan juga standard-standard yang telah ditetapkan oleh PLANMalaysia. PLANMalaysia adalah sebuah agensi di bawah KPKT, di bawah Kerajaan Persekutuan yang menetapkan standard perbandaran. Jadi pemaju ikut aje. Malah yang jadi masalahnya ialah selalunya pemaju memang dah sediakan rizab, rizab untuk sekolahlah contohnya eh. Rizab tadika tu jarang adalah, tapi rizab sekolah hatta rizab masjid. Kalau dia telah melepasi garis-garis keperluan yang ditetapkan dalam PLANMalaysia, dalam standard-standard yang lain, pemaju memang kena buat. Jalan semua memang kena buat. Hatta contohnya kalau tanah tu rizab untuk sekolah, akhirnya sekolah tu tak ada, sebab apa?
 
-[1:21:49] Haziq: Peruntukan tak ada?
+[1:21:49] Haziq Azfar: Peruntukan tak ada?
 
 [1:21:50] Rafizi: Sebab Kerajaan Persekutuan lambat bina. Jadi kita ada banyak kawasan-kawasan yang pemaju memang dah sediakan tanah, tapi sama ada peruntukan tak ada untuk membina sekolah ataupun tak masuk dalam perancangan Kerajaan Persekutuan lagi ataupun kalau ada peruntukan untuk membina sekolah, Kementerian Pendidikan kata tidak cukup guru. Tidak cukup guru sama ada kerana tidak ada peruntukan belanja mengurus ataupun memang tidak cukup guru. Jadi kalau saya jadi pemaju, sebenarnya kerajaan tidak boleh arahkan suka-suka saya bina itu dan ini. Kerana itu mengikut undang-undang dan saya telah melalui proses itu. Kalau yang salahnya kalau contohnya ada pelanggaran semasa memohon kebenaran merancang, dia telah pun memenuhi garis-garis keperluan tertentu tetapi kebenaran merancang yang diluluskan itu tidak menetapkan syarat itu. Yang itu kena tanya, panggil SPRM semualah kenapa yang patut ada sekolah tetapi kebenaran merancang tak boleh tak suruh buat sekolah. Tapi kalau dia macam saya sebut tadi, saya akan berhati-hati kalau kita terutamanya Perdana Menteri memberi gambaran bahawa salah itu adalah salah pihak swasta semata-mata. Kerana tanggungjawab menyediakan sekolah, tanggungjawab menyediakan kemudahan-kemudahan awam yang lain, klinik adalah mengikut proses dia yang sebenarnya ditetapkan oleh Kerajaan Persekutuan dan akhirnya tanggungjawab membina dan menyediakan itu adalah tanggungjawab kerajaan. Kalau pihak swasta nak mudah bila disuruh begini, dia boleh buatlah. Tapi akhirnya dia buat apa? Dia akan masukkan dalam koslah, harga rumah tu akan jadi lagi tinggilah kan. Dan kalaupun dia buat sekolah, dia tak boleh adakan guru. Sekolah itu perlu diserahkan kepada Kerajaan Persekutuan juga. Jadi sebab itu saya tak faham sama ada ini memang PM nak tunjukkan dia begitu hands-on dan terus bagi arahan ataupun dia tak pasti proses dia begitu. Yang itu saya tak pasti.
 
-[1:24:19] Haziq: Ataupun saya tak tahu, tapi mungkin in reality memang kebiasaannya kalau sesuatu developer tu nak minta KM daripada nilah PBT apa semua, memang kadang-kadang PBT ni minta nego, tolong tambah ni sikit, tambah ni sikit, kalau tak saya tak luluskan. YB macam mana?
+[1:24:19] Haziq Azfar: Ataupun saya tak tahu, tapi mungkin in reality memang kebiasaannya kalau sesuatu developer tu nak minta KM daripada nilah PBT apa semua, memang kadang-kadang PBT ni minta nego, tolong tambah ni sikit, tambah ni sikit, kalau tak saya tak luluskan. YB macam mana?
 
 [1:24:38] Rafizi: Tak, dia melalui proses. Dia ada One Stop Centre kan. Jadi kebenaran merancang tu dia ada banyak, berpuluh jabatan yang terlibat. Bomba pun ada, air pun ada, elektrik. Dia akan meletakkan syarat-syarat dialah. Dan kalau ditolak, dia boleh rayu lagi. Tapi ada syarat-syarat contohnya sekolah kalau dia sebut sekolah. Tadika tu lain sikit. Tadika tu contohnya kalau kalau pemaju bina tadika, siapa yang nak run tadika tu? Adakah KEMAS akan ada bajet dan KEMAS akan masuk? Dan KEMAS macam mana nak tahu pula setiap projek perumahan itu memang ada sebuah tadika? Sebab pembangunan perumahan itu di bawah local council, di bawah PBT. Jadi syarat-syarat semua itu boleh ditetapkan, tapi akhirnya untuk menyediakan kemudahan itu, itu kakitangan awam yang yang nak mengisi bangunan itu masih lagi adalah kerajaan. Jadi dan proses itu contohnya memang berlaku di peringkat One Stop Centre tulah, OSC tu yang dia akan tetapkan. Jadi saya tak pasti latar belakang dan ikut mana ni kalau cara PM suruh datang sebab pihak swasta, kita sebagai rakyat pun ada hak kita di sisi undang-undang kan.
 
-[1:26:10] Haziq: Okey baik baik. YB YB choose violence. Tak adalah.
+[1:26:10] Haziq Azfar: Okey baik baik. YB YB choose violence. Tak adalah.
 
 [1:26:14] Rafizi: Tak adalah violence, saya tak faham. Mungkin ada benda perkara yang PM faham atau tahu yang saya tak tahulah. Tapi kalau ikut prosesnya begitulah. Contohnya kalau saya seorang pemilik syarikat pemaju, saya akan garu kepalalah. Macam mana pula ni? Macam mana? Susahlah ni. Saya ikut proses, saya dah hantar ikut kebenaran merancang. Kebenaran merancang kalau ikut kemudahannya untuk begini begini begini, dia suruh saya buat rizab. Saya dah bagi dah rizab tu. Takkan janganlah marah saya.
 
-[1:26:46] Haziq: Baik baik baik baik. Ni minta buat benda di luar kontrak tulah kut. Okey baik, kita ada lagi. Allah, PAS lagi YB. YB tak letih ke membetulkan naratif dia orang ni?
+[1:26:46] Haziq Azfar: Baik baik baik baik. Ni minta buat benda di luar kontrak tulah kut. Okey baik, kita ada lagi. Allah, PAS lagi YB. YB tak letih ke membetulkan naratif dia orang ni?
 
 [1:26:59] Rafizi: Itulah berdakwah namanya.
 
-[1:27:01] Haziq: Berdakwah ya. Okey.
+[1:27:01] Haziq Azfar: Berdakwah ya. Okey.
 
 [1:27:03] Rafizi: Ini pun sama, Yang Berhormat Marzuk ni kan. Saya ada cerita juga, tahun sekitar 2012 juga. Sama macam Nurul Islam tadilah. Nurul Islam tadi masih lagi berhutang folder Montblanc.
 
-[1:27:16] Haziq: Ni hutang apa pula YB?
+[1:27:16] Haziq Azfar: Ni hutang apa pula YB?
 
 [1:27:17] Rafizi: Dia tak adalah hutang, tapi adalah cerita dia. Bachok ni seingat saya adalah satu kerusi yang selalu bertukar-tukar di tangan PAS lah dan pernah ketikanya Bachok ini ialah UMNO. Jadi dalam banyak-banyak kerusi di Kelantan, kira kerusi yang boleh goyang sedikit ialah Bachoklah. Jadi sebab itu Bachok ni menampilkan banyak muka baru. Jadi tahun 2012 masa tu Ustaz Marzuk ni ustaz pemudalah kan, belumlah jadi hebat begini kan. Jadi orang-orang dia selalu duk sibuk mengacau dan memujuk saya untuk pergi bagi ceramah besar dekat situ. Masa tu kan zaman NFC, zaman skandal kan. Jadi saya ingatlah saya pernah turun ke sana dan saya masa tu duit pun tak berapa sangat kan. Jadi dan saya bila pergi ceramah PAS, saya tak pernah ambil duit. Orang lain ambil duit sebab PAS akan bayar kalau pergi kan. Sebab tu siapa yang ligat atas ceramah PAS zaman-zaman dulu, memang ligat dengan tin Milolah. Kan? Kutipan tin Milo tu kan.
 
-[1:28:32] Haziq: Oh, ikut situlah?
+[1:28:32] Haziq Azfar: Oh, ikut situlah?
 
 [1:28:32] Rafizi: Memanglah. Tin Milo itu kutipannya dibayar ialah untuk membayar penceramah selain daripada makan semua tu. Jadi penceramah ni dibayar hotel dia, minyak dia dan duit poketlah. Saya tak tahu budaya tu dah ada ke dah ada lagi ke tidaklah. Tapi saya sebab itu juga saya selalu dikejar oleh PAS kawasan seluruh Malaysia masa itulah sebab saya ceramah yang orang datang dengar sebab ada cerita baru dan pada masa yang sama saya tak ambil duit. Cuma letihlah aku nak bawa kereta kan masa tu.
 
-[1:29:08] Haziq: YB drive sendiri eh?
+[1:29:08] Haziq Azfar: YB drive sendiri eh?
 
 [1:29:09] Rafizi: Drive dengan Akmalllah. Nak sampai ke Bachok kena lalu ikut Gua Musang kan. Jadi saya pernahlah pergi tolong dia di Bachok sebab pada ketika itu orang-orang keliling dia beritahu Ustaz Marzuk ini mesti membuktikan yang dia ada dia berjaya buat ceramah yang besar dan juga bawa penceramah nasional datang dan itu boleh membantu dia untuk dicalonkanlah. Wallahuaklamlah apa dia. Cuma saya kenal dia masa itulah, saya tak pernah sangkalah dia boleh menjadi serasis ini. Kan? Dia tak ada tanda-tanda rasis masa tu. Jadi selepas 25 selepas 13 tahun daripada 2012 ke 2025, saya memang terkejutlah bila membaca tengok ini dan ini saya tak tahu sama ada dia tak faham sejarah Palestin ataupun saya rasa dia cerdik. Jadi dia faham, tapi macam saya sebut tadilah, ada kecenderungan pimpinan PAS sekarang apa-apa perkara pun akan diterbalikkan untuk menjadi isu perkauman, mengugut dan menakut-nakutkan rakyat, orang Melayu terutamanya, untuk membenci kaum lain supaya bagi kuasa kat mereka. Itu dulu permainan UMNO, playbook UMNO. UMNO pun dah tak buat begitu dah sekarang. Kan? Dan Bersatu pun yang nama Parti Melayu, Parti Bunga Raya, Bersatu pun tak sebegitu. Jadi saya sangat terkejut kalau ambil yang ini ni kan. "Bidang ekonomi kini semakin dikuasai oleh bukan Islam dan bukan Bumiputera." Dia bila dia sebut semua tu, dia tak letak pun fakta. Daripada mana dia kata semakin dikuasai? Daripada mana dia kata? Sebenarnya penguasaan ekonomi orang Melayu plateau, dia mendatar. Dia tak berkurang, tapi dia juga tidak berkembang kan. Jadi itu saja dah dah salah. Kemudian kalau dia nak katakan pendatang Yahudi dahulu datang sebagai tamu, diterima atas dasar kemanusiaan oleh penduduk Palestin yang berhati mulia, namun mereka datang membawa helah dan kebijaksanaan duniawi, mereka kuasai ekonomi, selepas apa persamaan Palestin dengan Malaysia ni? Daripada yang berlaku?
 
-[1:31:55] Haziq: Dia katakan naratif dialah mungkin, daripada orang luar datang kemudian take over.
+[1:31:55] Haziq Azfar: Dia katakan naratif dialah mungkin, daripada orang luar datang kemudian take over.
 
 [1:32:01] Rafizi: Macam mana kerajaan negara Israel itu ditubuhkan?
 
-[1:32:07] Haziq: By British punya...
+[1:32:07] Haziq Azfar: By British punya...
 
 [1:32:09] Rafizi: Itu dengan British mandate. Ha. Jadi dekat Malaysia ni ada British mandate ke untuk menubuhkan negara Cina?
 
-[1:32:18] Haziq: Tak ada, lain.
+[1:32:18] Haziq Azfar: Tak ada, lain.
 
 [1:32:19] Rafizi: Tidak ada perbandingan langsung. Negara negara Israel itu tertubuh bukannya sebab pendatang yang disebut ni tiba-tiba menipu orang Palestin. Itu ialah kerana kuasa dunia pada ketika itu memberikan negara ataupun memberikan mandat kepada sebuah negara Israel dan perkara itu diluluskan di peringkat antarabangsa. Sama ada betul ke salah, kita semua tak bersetujulah, memang kita tak bersetuju kerana siapa kamu British nak bagi tanah orang buat negara lain? Tapi dia tidak ada parallel dan perbandingan langsung dengan yang berlaku di Malaysia ini kan. Tapi dia ambil itu dan dia tukar dan yang ini yang saya kata, sedap dengar di kedai kopi. Berapa ramai orang di kedai kopi ataupun yang duk tengok TikTok ni pergi membaca asal-usul penubuhan negara Israel? Kecualilah di Malaysia ini kita ni di bawah mandat negara lain yang akhirnya memberikan Kelantan kepada orang Cina. Benda yang mustahil berlaku kan. Cuma yang saya paling tak puas hatilah dengan soal perkauman ini kan. Yalah, saya anak Melayu, anak orang susah, anak orang Pantai Timur kan. Masa mak ayah saya, sekolah sampai darjah 6. Tapi saya tak pernah dibesarkan dan dididik oleh mak ayah saya dengan menyalahkan orang lain atas nasib kita. Saya daripada kecil lagi yang mak ayah saya ajar ialah kalau nak hidup senang, kerja betul-betul, belajar cerdik-cerdik, kerja rajin-rajin. Dia sama konsep dia dengan sebenarnya keadaan persaingan yang berlaku di Malaysia. Kalau orang Melayu dan ditambah pula bila ada ahli Parlimen, pimpinan politik yang membakar seperti ini, selagi orang Melayu ambil pendekatan bahawa kelemahan yang kita ada ini ialah salah semua orang, matilah kita. Yang kenapa saya tidak pernah bersetuju dengan UMNO soal-soal ini, kenapa saya tak bersetuju dengan PAS atau parti-parti yang bersifat perkauman kerana bagi saya ini semua orang politik penting diri. Dia lunak dan halwa di telinga orang yang cenderung untuk menyalahkan orang lain atas masalah kita, tapi itu tidak akan menyelesaikan masalah. Soalnya ialah macam mana kita nak pastikan anak Melayu dapat pendidikan yang lebih baik? Orang Cina tak pergi pun sekolah kebangsaan contohnya. Dia pandai-pandai sendiri aje sekolah Cina dia kan. Macam mana kita nak pastikan bila masuk universiti, bukan semata-mata dapat ijazah yang baik tapi ada pengalaman yang besar, ada confidence? Kemudian bila keluar universiti, macam mana kita nak pastikan anak-anak Melayu jangan makan gaji semata-mata? Buat perniagaan, ambil risiko, belajar, barulah ekonomi boleh berkembang. Jadi kalau selama-lamanya kita menyalahkan kepada semua orang ataupun kita rasa untuk kita hidup senang ini, ini semua tanggungjawab kerajaan, matilah orang Melayu. Akhirnya Melayu akan jadi makin teruk dan makin teruk kerana kita bukan sahaja bersaing dengan orang Cina atau orang India di Malaysia, kita bersaing dengan orang Vietnam oh. Kita bersaing dengan orang tanah besar China. Kita bersaing dengan orang India di di di India, di Mumbai dan mereka ini telah dilatih, diajar untuk bersaing kerana keadaan di negara mereka lebih kompetitif daripada yang ada di sini. Jadi sepatutnya ahli-ahli politik kalau betul-betul nak tolong orang Melayu ialah mencari jalan ke arah itu. Sebab itu kita kata kita kena tengok dan bincangkan dan cari penyelesaian terbaik kepada masalah-masalah yang orang PAS, pimpinan PAS dengan mudah kata ini semua masalah duniawi. "Ikutlah kami dapat kunci syurga." Itu masalah dia. Jadi saya tak tahu sejauh manalah lagi Ustaz Marzuk ni nak buat macam ini. Dia mungkinlah boleh menang di Pengkalan Chepa selama-lamanya. Tapi saya ingatlah, selagi dia memainkan isu yang makin perkauman seperti ini, itu pun tidak membantu PAS. Kerana bukan sahaja orang bukan Melayu kecil hati dengan cara dia ni, orang Melayu pun akan rasa ini adalah satu permainan yang berbahaya kerana di Kelantan bolehlah begini. Di bahagian dan kawasan-kawasan lain di seluruh Malaysia, kita ada masyarakat yang majmuk dan kita saling bergantung. Yang kita nak bina sekarang ialah ekonomi yang yang vibrant, yang bagus, yang membuka peluang dan orang Cina pun tahu majoriti di negara ini ialah Melayu. Kalau ekonomi itu makin bertambah baik, limpahan itu akan sampai kepada Melayu juga. Tapi kalau ekonomi itu perlahan seperti yang berlaku di Kelantan selama mereka memerintah berpuluh tahun, akhirnya yang jadi mangsa Melayu juga yang terpaksa berhijrah ke negeri-negeri yang kononnya ni hampir sama seperti Zionis dan dan dan dan Israellah kan.
 
-[1:38:51] Haziq: Okey baik YB. Kita tinggalkan Marzuk Shaary, kita pergi ke satu lagi. Ada lagi satu daripada PAS juga. Cuma ini isu ekonomilah saya rasa. Berebut peruntukan. Tapi saya rasa dia ada persamaan sikitlah dengan YB, dia highlight kan tentang apa ni peruntukan pengangkutan. Itu jelah.
+[1:38:51] Haziq Azfar: Okey baik YB. Kita tinggalkan Marzuk Shaary, kita pergi ke satu lagi. Ada lagi satu daripada PAS juga. Cuma ini isu ekonomilah saya rasa. Berebut peruntukan. Tapi saya rasa dia ada persamaan sikitlah dengan YB, dia highlight kan tentang apa ni peruntukan pengangkutan. Itu jelah.
 
 [1:39:18] Rafizi: Tapi yang itu sebab dia nak tikam Pulau Pinanglah kononnya. Yang ini saya nak ulas dua perkara sajalah sebab saya dah banyak ulas pasal PAS malam ni ni. Ini satu lagi sebab kenapa saya tidak pernah yakin dengan kemampuan PAS mentadbir. Kerana saya tidak melihat growth mindset yang ada daripada PAS. Setiap kali mereka ada diberikan peluang dan amanah mentadbir negeri, satu-satunya yang jalan yang mereka ambil ialah victimology. "Kamilah mangsa. Kenapa kami jadi mangsa? Kami dianaktirikan. Kenapa kami tidak diberi peruntukan?" Dia tak bercakap pun macam mana dia nak menambah hasil, macam mana dia nak membaiki keadaan, tambah kalau macam Kelantan. Kelantan ni macam saya pernah sebut ialah sebuah negeri yang kaya. Hasil sumber bumi, tempat-tempat untuk pelancongan, budaya. Macam mana negeri seperti Melaka dan juga Negeri Sembilan yang kalau dibandingkan dengan Kelantan sebenarnya tidak ada hasil apa-apa kecuali pantai-pantai aje yang dia ada kan. Macam mana mereka boleh berada lebih maju, berdikari, hasilnya lebih baik, tak kisahlah di bawah kerajaan UMNO ke, di bawah Pakatan Harapan ke, di bawah PKR Datuk Seri Amin, dia punya peningkatan hasil berbanding 10 tahun dulu tu jauh lagi baik. Macam mana dia boleh buat kan? Jadi sebabnya, bezanya saya ingat satu yang nampak sangat ialah bila mereka menjadi kerajaan, mentaliti mereka ialah belanja, belanja, belanja. Belanja memang tak cukuplah. Tapi mentaliti untuk mengembangkan ekonomi, growth mindset tu tak ada. Ha itu yang pertama. Jadi itu yang saya bimbang kalau mereka jadi Kerajaan Persekutuan. Sekarang ini mereka boleh menyalahkan Kerajaan Persekutuanlah kerana tak bagi peruntukanlah, banyak bagi kat Cina Penanglah, macam-macamlah kan. Kalau dia jadi Menteri Kewangan macam mana? Dia nak salahkan siapa? Kerana untuk mengurangkan hutang, untuk menambah hasil, maka ekonomi kena berkembang. Ekonomi kena berkembang, perlukan idea, perlukan vision yang jauh dan kita tak boleh nak salahkan siapa-siapa. Dan kalau tidak berhati-hati, masa itu kalau mereka jadi Kerajaan Persekutuan, dia akan terbaliklah. Dia akan dia tak ambil kira pasal agenda untuk mengembangkan ekonomi, kerja dia ialah macam mana nak menyalurkan lebih banyak wang kepada negeri-negeri dia. Sedangkan yang menambah hasil ni negeri-negeri orang lain kan. Tu satu perkara yang yang berbahaya kan. Perkara kedua dan saya terkejut sebenarnya kenapa tak ada seorang pun lagi pimpinan kerajaan yang menjawab? Saya nak jawab malam ni. Ini kan. Ini bila dia kata keutamaan kerajaan sepatutnya menyiapkan ECRL ke Pantai Timur bukan LRT di Pulau Pinang, ini kasihan orang Pantai Timur ni dianaktirikan sebab mereka menyokong PAS semua. Sebenarnya apa projek yang menyebabkan hutang paling besar kepada kerajaan sekarang?
 
-[1:42:50] Haziq: Jalan raya?
+[1:42:50] Haziq Azfar: Jalan raya?
 
 [1:42:52] Rafizi: Di seluruh Malaysia, di seluruh Malaysia. Apa satu-satunya projek yang menyebabkan hutang ditanggung oleh seluruh Malaysia untuk anak cucu cicit kita?
 
@@ -337,189 +337,189 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:43:05] Rafizi: No. Satu projek, projek satu.
 
-[1:43:07] Haziq: Kalau yang besar-besar macam tebatan banjir 6 bilion lebih.
+[1:43:07] Haziq Azfar: Kalau yang besar-besar macam tebatan banjir 6 bilion lebih.
 
 [1:43:09] Rafizi: No no no. ECRL.
 
-[1:43:12] Haziq: ECRL.
+[1:43:12] Haziq Azfar: ECRL.
 
 [1:43:13] Rafizi: ECRL, East Coast Rail Link. Berapa? 84 bilion. Pergi negeri mana? Pergi negeri dia. Kelantan, Terengganu, lalu ke Pahang. So kalau saya orang Penang, saya pun terkejutlah tak ada seorang pun ahli Parlimen bangun ke menteri bangun, "Eh sebenarnya kemudahan infrastruktur yang paling canggih, yang paling hebat itu untuk menghubungkan Kelantan, Terengganu, Pantai Timur sampai ke sini yang paling mahal dan ditanggung oleh hutang oleh rakyat Malaysia untuk cucu-cicit kita pergi kepada negeri kamu." 84 bilion. Dan tiap-tiap hari kamu buat mata buta, cuba nak main isu perkauman, duk sibuk cerita yang pasal Pulau Pinang. Sebab nanti Pulau Pinang akan kata, "Yalah eksport daripada negara paling besar ni daripada negeri kami. Eksport elektronik daripada negeri kami. Kamu eksport apa?"
 
-[1:44:12] Haziq: Setepak YB.
+[1:44:12] Haziq Azfar: Setepak YB.
 
 [1:44:14] Rafizi: 84 bilion sampai ke hujung Tumpat pergi. Itu tak campur lagi dengan projek-projek baru menghubungkan Sungai Golok, kemudian jambatan semua, Pelabuhan Tok Bali. Kalau kita nak sebut banyak, tapi tak payah sebut yang lainlah. Sebut 84 bilion yang ECRL tu. Katakanlah kita bagi sama rata tiga negeri, 84 bahagi 3 berapa?
 
-[1:44:44] Haziq: 28.
+[1:44:44] Haziq Azfar: 28.
 
 [1:44:46] Rafizi: 28 bilion. Yang tu dia tak pernah sebut pun. Jadi sebab itulah kalau inilah gaya yang ada daripada pimpinan PAS, I fear for the future. Saya tak apalah, saya dah umur dekat 50 tahun, cukuplah makan. Anak seorang, kucing aje yang lebih sikit kan, 20 ekor. Tapi kalau beginilah, maksudnya sama ada dia tak faham angka ataupun dia tidak mahu berlaku adil ataupun modal politik dia untuk dia mengapi-apikan Melayu tak suka dengan Cina sebab Pulau Pinang tu Cina, Kelantan ni Melayu, banyak mana lagi nak? Yang itu kami kita kita tanggung ni tahu ke ke Kelantan, ke Terengganu semua ni kan. Dan masa itu tak ada pula dia buat bising. Malah saya yang mempersoalkan dulu, adakah keperluan untuk membelanjakan sampai 70 juta 70 bilion, bukan 80 juta, 84 bilion kan. Saya yang mempersoalkan adakah keperluan untuk kita membuat ECRL ini sebab masa itu anggarannya 70 bilion ni tahun 2014-2015, sedangkan wang itu boleh digunakan untuk banyak lagi benda lain kan. Jadi saya rasa yang itu kita tunggu PAS nak jawab macam mana. ECRL tu.
 
-[1:46:16] Haziq: Okey baik YB. Habis kekerasan kita pada minggu ini. Kita pergi sikit kepada Berita Dunia. Berita Dunia bersama saudara...
+[1:46:16] Haziq Azfar: Okey baik YB. Habis kekerasan kita pada minggu ini. Kita pergi sikit kepada Berita Dunia. Berita Dunia bersama saudara...
 
 [1:46:24] Rafizi: Berita Dunia dah slowlah kan. Sebab banyak sangat PAS hari ni, aku dah hilang tenaga.
 
-[1:46:29] Haziq: YB yakin tak ada PAS lagi?
+[1:46:29] Haziq Azfar: YB yakin tak ada PAS lagi?
 
 [1:46:31] Rafizi: Ada lagi ke?
 
-[1:46:33] Haziq: Tahniah kepada PAS yang melebarkan sayap ke segmen Berita Dunia Podcast YBM.
+[1:46:33] Haziq Azfar: Tahniah kepada PAS yang melebarkan sayap ke segmen Berita Dunia Podcast YBM.
 
 [1:46:39] Rafizi: Ada PAS? Okey. So minggu ni minggu PAS.
 
-[1:46:43] Haziq: Tapi yalah, ini berkaitan dengan kempen pilihan raya di Singapura. Dah lama YB, tapi dia bangkit balik dalam Parlimen mereka. Ada dua pemimpin PAS yang menyokong calon-calon Melayu dari Workers' Party lah contohnya yang saya perasan Faisal Manap sebagainya. Dan nampaknya Kerajaan Singapura agak upset dengan PAS sehingga sekarang. Let's talk about the notion of campur tangan ni YB. Saya nak tanya pandangan YB tentang ini sebab kat Malaysia pun kita ada pendirian tentang parti politik di luar, contohnya Hamas dan Fatah. So macam mana pendirian apa ni Minister of Home Affairs Singapura ni YB?
+[1:46:43] Haziq Azfar: Tapi yalah, ini berkaitan dengan kempen pilihan raya di Singapura. Dah lama YB, tapi dia bangkit balik dalam Parlimen mereka. Ada dua pemimpin PAS yang menyokong calon-calon Melayu dari Workers' Party lah contohnya yang saya perasan Faisal Manap sebagainya. Dan nampaknya Kerajaan Singapura agak upset dengan PAS sehingga sekarang. Let's talk about the notion of campur tangan ni YB. Saya nak tanya pandangan YB tentang ini sebab kat Malaysia pun kita ada pendirian tentang parti politik di luar, contohnya Hamas dan Fatah. So macam mana pendirian apa ni Minister of Home Affairs Singapura ni YB?
 
 [1:47:19] Rafizi: Tu nasib dialah, hak masing-masinglah. PAS nak sokong, hak dia. Singapura tak puas hati, hak dia. Cuma kalau PAS bercita-cita untuk menjadi Kerajaan Persekutuan, maka mereka kena fahamlah dia ada protokolnya kerana nanti jadi macam yang yang ini yang pasal PAS dengan dengan Singapuralah kan. Tapi yang yang viral dua tiga hari ni yang Presiden Trump tegur Kevin Rudd, bekas Perdana Menteri Australia dan juga Duta Australia ke Amerika Syarikatlah. Kerana Kevin Rudd bagi bagi komen yang yang ganas terhadap Trump dan tiba-tiba Trump menang dan dia menyusahkan keadaanlah. Jadi memang pimpinan PAS ni mungkin yalah saya ingat mereka selalu they play to their audience. Tapi bila sesebuah parti tu ada cita-cita untuk menjadi Kerajaan Persekutuan, maka mereka perlu lebih lunak dan fahamlah, ada protokol-protokolnya. Memang hak mereka untuk buat komen, tapi komen itu ada consequences-nyalah kerana hak Kerajaan Singapura juga untuk merasakan bahawa itu campur tangan dalam politik kami. Dan benda tu agak biasalah. Contohnya Trump kalau ikutnya dia campur tangan dalam semua negara lain. Dia tagur semua. Sadiq Khan pun kena, Keir Starmer pun kena, habis kenalah kan. Justin Trudeau pun kena. Tapi sebaik-baiknya ada protokol antarabangsa diplomatik yang perlu kita. Sebab tu kalau tengok kan, saya sebelum menjadi menteri tahun 2022, saya ada pandangan yang yang yang bebaslah kan. Yalah, latar belakang saya sudah tentulah contohnya saya lebih rapat dengan Democrat, contohnya kan. Sudah tentu saya lebih rapat dengan Labour Party dan yalah rakan-rakan seperti itu di seluruh dunialah kan. Kita ada kawan-kawan kita semua. Tapi apabila saya menjadi menteri saja, kalau perasan saya tak tak komen dah pasal parti politik atau kerajaan negara lain. Kerana saya bukan lagi semata-mata batang tubuh saya. Saya boleh dikaitkan sebagai mewakili kerajaan ataupun parti saya dan apabila sudah menjadi sebahagian Kerajaan Persekutuan, maka dia ada nuances dan juga protokol yang kita terpaksa ikutlah. Jadi kita pendam sajalah. Jadi PAS kena belajarlah bahawa untuk jadi Kerajaan Persekutuan ni lebih rumit daripada untuk memenangkan hati Walaun.
 
-[1:50:30] Haziq: Baik baik. Okey YB, tahniah PAS berada di berita dunia. Yang kedua, okey kita terbang jauh sikitlah ke Louvre di Paris.
+[1:50:30] Haziq Azfar: Baik baik. Okey YB, tahniah PAS berada di berita dunia. Yang kedua, okey kita terbang jauh sikitlah ke Louvre di Paris.
 
 [1:50:41] Rafizi: Saya tunggu filem Hollywood ataupun Netflix yang terbarulah yang pasal cerita ni.
 
-[1:50:47] Haziq: Okey, oh dah ada?
+[1:50:47] Haziq Azfar: Okey, oh dah ada?
 
 [1:50:48] Rafizi: Belumlah. Tapi mesti ada banyak ceritalah akhirnya macam mana ni boleh berlaku. Tangga, dia ada tangga kan?
 
-[1:50:56] Haziq: Ya ya ya, dia apa ni menyamar jadi...
+[1:50:56] Haziq Azfar: Ya ya ya, dia apa ni menyamar jadi...
 
 [1:51:00] Rafizi: Saya tak tahu apa cerita sebenarnya pasal Louvre ni.
 
-[1:51:02] Haziq: Dia menyamar jadi pembinaan punya staff lah. Dia masuk dan dia curi 8 items of stolen jewelry. Banyaknya kepunyaan Queens kepada apa ni Bonaparte lah.
+[1:51:02] Haziq Azfar: Dia menyamar jadi pembinaan punya staff lah. Dia masuk dan dia curi 8 items of stolen jewelry. Banyaknya kepunyaan Queens kepada apa ni Bonaparte lah.
 
 [1:51:16] Rafizi: Oh, Josephine. Saya tak baca secara secara tengok sikitlah. Tapi yalah, cerita Ocean's Eleven ni okeylah. Kita tunggu nanti dokumentari, cerita dia nak tengok macam manalah kan, macam mana dia buat kan. Last sekali ada barang hilang daripada Louvre ni 1912.
 
-[1:51:35] Haziq: 1912?
+[1:51:35] Haziq Azfar: 1912?
 
 [1:51:36] Rafizi: Last sekali ada orang beli kan. Seingat sayalah 1912 kan. Cuma kalau kita nak ambil yang lebih besar ataupun pandangan yang lebih atas pasal Louvre ni kan, dia sebenarnya sangat demoralizing kepada negara Perancis yang sudah pun dalam keadaan sekarang. Perancis sekarang sudah ada lima Perdana Menteri yang meletak jawatan kan kerana it's almost ungovernable. Kerana dia ada pecahan perbezaan politik yang sangat kuat. Di satu pihak, ada parti sayap pelampau sayap kananlah yang parti perkauman. Dulu masa saya muda dulu Jean Le Pen, John Le Pen kan, Marine Le Pen. Ayah dia, sekarang anak dia Marine Le Pen jugalah kan. Jadi ini sudah tentu satu tamparan yang hebat kepada Perancislah, orang Perancis. Kerana dia rasa maruah kerana dahlah negara dia dari segi ekonominya sekarang ni parah. Dari segi kerajaannya, masyarakatnya kan, krisis politik dan tiba-tiba sudah tentu akan apa yang berlaku di Louvre ni, di seolah-olah perlambangan kepada sebuah masyarakat dan sebuah negara yang kucar-kacirlah kan.
 
-[1:53:10] Haziq: Baik baik YB. Cuma ada orang tanya juga, yalah at least dekat Louvre ni kita pernah dengarlah kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di Muzium Negara. YB tak rasa kita itu satu masalah juga ke?
+[1:53:10] Haziq Azfar: Baik baik YB. Cuma ada orang tanya juga, yalah at least dekat Louvre ni kita pernah dengarlah kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di Muzium Negara. YB tak rasa kita itu satu masalah juga ke?
 
 [1:53:26] Rafizi: Kenapa pula orang nak mencuri kat Muzium Negara tu?
 
-[1:53:28] Haziq: Tak ada, kita cakap tentang attraction lah sebenarnya.
+[1:53:28] Haziq Azfar: Tak ada, kita cakap tentang attraction lah sebenarnya.
 
 [1:53:31] Rafizi: Apa yang ada kat situ? Apa yang mahal ada kat Muzium Negara?
 
-[1:53:34] Haziq: Tak ada lah kut saya rasa.
+[1:53:34] Haziq Azfar: Tak ada lah kut saya rasa.
 
 [1:53:35] Rafizi: Ha yalah, tulah. Ni soalan apa ni?
 
-[1:53:39] Haziq: Tak, soalannya apa attractiveness tu. Kalau dikomparasikan dengan Louvrelah.
+[1:53:39] Haziq Azfar: Tak, soalannya apa attractiveness tu. Kalau dikomparasikan dengan Louvrelah.
 
 [1:53:45] Rafizi: Mana boleh compare. Muzium eh Mona Lisa ada dekat sini?
 
-[1:53:49] Haziq: Ya, situ.
+[1:53:49] Haziq Azfar: Ya, situ.
 
 [1:53:50] Rafizi: Bukan sini ada Mona Lisa kan. Sini saya ingat yang disimpan ni semua beratus-ratus juta. Kalau contohnya harta ahli-ahli politik yang hebat-hebat yang berpuluh-puluh juta tu pergi letak kat Muzium Negara, banyaklah Ocean's Eleven pergi kat Muzium Negara tu. Saya tak tahu Muzium Negara saya ingat tak tak banyak sangatlah harta-harta ataupun permata intan berlian yang mahal-mahal yang ada kat situ kut.
 
-[1:54:19] Haziq: Okey baik YB, clear. Kalau kita boleh pergi ke isu terakhir, isu dunia, PM baru Jepun. Kalau yalah, dia staunch traditionalist dan meminati Margaret Thatcher. Kalau saya boleh tanya satu dua benda yang agak ironi sikit YB. Jepun ni negara yang terpaling aging nation lah. Apa-apa contoh kita pergi ke Jepun. Tapi sekarang ni bila polisi mereka ni pun anti-immigration, rasanya macam mana mereka survive dengan dua keperluan dan apa yang mereka nak impose tu yang agak kontradik?
+[1:54:19] Haziq Azfar: Okey baik YB, clear. Kalau kita boleh pergi ke isu terakhir, isu dunia, PM baru Jepun. Kalau yalah, dia staunch traditionalist dan meminati Margaret Thatcher. Kalau saya boleh tanya satu dua benda yang agak ironi sikit YB. Jepun ni negara yang terpaling aging nation lah. Apa-apa contoh kita pergi ke Jepun. Tapi sekarang ni bila polisi mereka ni pun anti-immigration, rasanya macam mana mereka survive dengan dua keperluan dan apa yang mereka nak impose tu yang agak kontradik?
 
 [1:54:51] Rafizi: Tak, I mean saya rasa cerita aging nation semua ni dia kekal jadi masalah pembuat dasar. Ahli politik dia tak fikir. Jadi dia yang lebih membimbangkan tentang PM wanita pertama Jepun ini bukan sangat soal diri dialah. Kebimbangannya ialah the swing, kecenderungan ke arah anti-imigran, dasar-dasar yang dilihat sebagai sayap kanan, sebagai ekstrem. Kerana ada dua masyarakat dalam dunia ini yang yang yang trauma akibat Perang Dunia Kedua dan mereka trauma dengan parti-parti pelampau sayap kananlah. Satu ialah Germany, satu lagi Jepunlah kan. Jadi ini kali pertama selain daripada beliau adalah Perdana Menteri wanita pertama, yang yang yang lebih signifikan itu ini kali pertama seorang yang dilihat bersayap kanan yang secara terbuka anti-imigran menjadi Perdana Menteri Jepun. Dan saya ingat semua perkara lain itu adalah perkara yang yang secondary dalam politik ataupun yang yang yang diperhatikan oleh dunialah.
 
-[1:56:31] Haziq: Okey baik baik baik YB.
+[1:56:31] Haziq Azfar: Okey baik baik baik YB.
 
 [1:56:32] Rafizi: Baru aku cakap tak boleh komen banyak sangat pasal kerajaan lain.
 
-[1:56:35] Haziq: Tapi agak short and sweetlah tu. Okey baik. Selesai YB, kita ke segmen yang seterusnya. Kita ada Fuyo. Ha kita tengok.
+[1:56:35] Haziq Azfar: Tapi agak short and sweetlah tu. Okey baik. Selesai YB, kita ke segmen yang seterusnya. Kita ada Fuyo. Ha kita tengok.
 
 [1:56:45] Rafizi: Eh kita lama mana lagi ni?
 
-[1:56:46] Haziq: Kita 1 jam 50 minit.
+[1:56:46] Haziq Azfar: Kita 1 jam 50 minit.
 
 [1:56:48] Rafizi: Okey, kita ada 10 minit lebih lagilah.
 
-[1:56:50] Haziq: Okey, kita gerak pantas.
+[1:56:50] Haziq Azfar: Okey, kita gerak pantas.
 
 [1:56:52] Rafizi: Itulah banyak sangat pasal PAS tadi.
 
-[1:56:54] Haziq: Ya, tapi dakwah YB. Kita ada yang pertama, kita ada rainbow chip. Kalau saya cuba search tadilah, dengan ada rainbow chip ni kita boleh ada faster internet, kita ada better sensor untuk auto-pilot punya kereta. Jadi kalau mungkin YB boleh illustrate macam mana benda ni how it works sebenarnya untuk orang awam?
+[1:56:54] Haziq Azfar: Ya, tapi dakwah YB. Kita ada yang pertama, kita ada rainbow chip. Kalau saya cuba search tadilah, dengan ada rainbow chip ni kita boleh ada faster internet, kita ada better sensor untuk auto-pilot punya kereta. Jadi kalau mungkin YB boleh illustrate macam mana benda ni how it works sebenarnya untuk orang awam?
 
 [1:57:17] Rafizi: Dia tanya aku pulak dah. Manalah aku tahu.
 
-[1:57:20] Haziq: Sebagai moderator saya bertanya.
+[1:57:20] Haziq Azfar: Sebagai moderator saya bertanya.
 
 [1:57:23] Rafizi: Well, konsep dialah, konsep dia ialah anything that is smaller and faster will make it better kan. Masa saya dulu saya buat ijazah dalam bidang kejuruteraan elektronik, elektrik kan. Jadi memanglah masa tu it's always about trying to get into shorter and shorter wavelength kan dan sebab shorter wavelength means more power dan juga apa nama ni you can pack more data into it kan. Jadi as the world, dunia dah menjadi lebih digital kan. Jadi saya tak berapa pasti tentang penemuan ini, tetapi logiknya ialah apabila kita beralih kepada AI, robot semua ni kan, jumlah bits ataupun yalah digital ni zeroes and ones kan, zeroes and ones. So lagi so and is a function of two things lah. Satu, berapa banyak data zeroes and ones yang you boleh pack kan. Kemudian how fast it can move kan. Jadi sudah tentulah kalau apa nama ni dan dia pack zeroes and ones tu dalam wavelength. So kalau you ada high power wavelength maksudnya is much shorter shorter frequencylah kira kan. Itu akan membolehkan generasi baru chips yang boleh memproses jauh lebih tinggi kapasiti datanya dan juga jauh lebih tinggi speed dialah, frekuensi dia kan, wavelength. Ha itulah.
 
-[1:59:26] Haziq: Baik YB.
+[1:59:26] Haziq Azfar: Baik YB.
 
 [1:59:27] Rafizi: Kan dah tulis kat situ tu, "Rainbow chip menjana jalur cahaya berselerapik..."
 
-[1:59:33] Haziq: "...berselerapi untuk pengesanan pemsaan tepat dan komunikasi laju."
+[1:59:33] Haziq Azfar: "...berselerapi untuk pengesanan pemsaan tepat dan komunikasi laju."
 
 [1:59:39] Rafizi: Ha memanglah.
 
-[1:59:40] Haziq: Ha itulah dia kepada pendengar yang tak menonton muka kami, okey.
+[1:59:40] Haziq Azfar: Ha itulah dia kepada pendengar yang tak menonton muka kami, okey.
 
 [1:59:44] Rafizi: Jadi dengan ada yang ini, maksudnya besar kemungkinan kita akan lebih dekat dengan dengan apa ni robot pada satu hari nantilah. Dia sama macam the first time orang jumpa semiconductorlah kan. Cuma the the the race is always to make it smaller and faster kan and is a function of frequency because you transmit dengan frekuensi.
 
-[2:00:14] Haziq: Frekuensi. Okey, baik YB, clear. Yang kedua, kita ada satu lagi. Sel kulit jadi telur untuk fertility wanitalah. Bila YB tengok teknologi ni yalah untuk orang yang mungkin ada masalah fertility semua, kemudian kita boleh guna human skin cell, how far teknologi ni boleh bagi impak positif especially untuk mitigate masalah aging nation? I know lah dia lebih besar tapi maybe one of it?
+[2:00:14] Haziq Azfar: Frekuensi. Okey, baik YB, clear. Yang kedua, kita ada satu lagi. Sel kulit jadi telur untuk fertility wanitalah. Bila YB tengok teknologi ni yalah untuk orang yang mungkin ada masalah fertility semua, kemudian kita boleh guna human skin cell, how far teknologi ni boleh bagi impak positif especially untuk mitigate masalah aging nation? I know lah dia lebih besar tapi maybe one of it?
 
 [2:00:52] Rafizi: Dia agak tergelincirlah soalan itu. Soalan itu agak tergelincirlah. Moderator is trying really hard. No, they are two different things lah kan. Dia breakthrough ini ialah apa nama ni dia boleh membantu fertility kepada orang yang yang apa ni yang yang nak yalah ada masalah kemandulan kan dan is a good is a great stride because fertility treatment ni walaupun masalah fertility ni masalah yang yang yang besar dalam masyarakat kan, tapi fertility treatment ni yang betul-betul IVF lah kan, IVF ni dia mendapat tentangan daripada masyarakat dan saintis sendiri bila mula-mula ada yang yang yang mengusahakan. I think the three scientists were from Cambridge and I can't remember satu lagi Universiti Manchester rasanya kan. So mereka yang mula-mula sekali buat IVF dalam tahun 60-an and it took them sampai 1970-an bila mula berjaya kerana ada banyak tentanganlah. Sebahagiannya kerana ada saintis yang merasakan is un-Christian. Itu dia kan. Jadi the fact that dalam tempoh 50 tahun daripada IVF dia dah boleh jadi sel kulit untuk jadi telur kan. Jadi I think it certainly akan membantu banyak keluarga di seluruh dunialah because fertility is a big issue. Soal aging nation tu is not necessarily 100% soal fertility. Soalnya soal gaya hidup and soal ekonomi. Kerana generasi muda merasakan tidak berbaloi untuk ada anak. Dan kalau ada anak pun, oleh kerana kos itu tinggi, maka saiz keluarga yang ada sekarang di seluruh dunia ni jauh lagi kecil. Kalau ada anak pun seorang, dua orang berbanding dulu 10 orang. Kan? Jadi is not necessarily just fertilitylah. Aging nation tu is a lot bigger. Sebab yang tak kahwin tu bukannya sebab dia tak fertil. Dia dia bukan tak dapat anak, dia tak nak kahwin. Memang tak kahwin kan. So but fertility is getting more common pun. Sebahagiannya pun sebab lifestyle juga kerana orang lagi stres sekarang kan, lelaki perempuan lebih stres. Jadi to conceive is getting more difficult. Jadi bila kalau treatment seperti ini terutamanya kalau ada yang kongenital maksudnya memang dia dilahirkan dengan bermasalah untuk dari segi kemandulan kan sama ada kualiti telur dia. Jadi kalau sel kulit sekarang ini dah boleh jadi telur dan itu akan dapat membantu ramai oranglah. So whether or not ini akan membolehkan kita membantu mengatasi masalah aging yang ada, yang itu tak tahulah kut. Maybe dia kena tunggu 20 tahun lagi kut.
 
-[2:04:29] Haziq: Baik baik baik. Okey YB, clear. Kita pergi ke segmen terakhir.
+[2:04:29] Haziq Azfar: Baik baik baik. Okey YB, clear. Kita pergi ke segmen terakhir.
 
 [2:04:36] Rafizi: Kena cepat-cepat ni, segmen terakhir.
 
-[2:04:38] Haziq: Yes, kita ada beberapa soalan sikitlah. Terus soalan pertama dari Muhammad Aslan, "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini? Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
+[2:04:38] Haziq Azfar: Yes, kita ada beberapa soalan sikitlah. Terus soalan pertama dari Muhammad Aslan, "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini? Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
 
 [2:04:50] Rafizi: Saya tak tahu, saya tak follow sangat.
 
-[2:04:52] Haziq: Ha YB pakai baju alah dan sokong waktu mereka kalah.
+[2:04:52] Haziq Azfar: Ha YB pakai baju alah dan sokong waktu mereka kalah.
 
 [2:04:56] Rafizi: Saya hanya muncul bila dia orang kalah untuk membakar semangat. Saya tak follow sangat. I saya sebenarnya tak follow I saya ada 24 jam sehari, my head space is zaman saya dekat uni dulu banyak masa, semua saya followlah. Snuker pun saya follow. Saya tak pergi kelas dua tiga hari tengok orang main snuker, 24 jam sehari.
 
-[2:05:18] Haziq: Agak bad boy YB eh?
+[2:05:18] Haziq Azfar: Agak bad boy YB eh?
 
 [2:05:19] Rafizi: Tak adalah. It's like bebas kan, kebebasan duduk sendiri kan. Jadi masa tu okeylah. Sekarang ni saya tak follow sangat. Saya pun tak tahu kenapa Liverpool makin kalah sekarang ni.
 
-[2:05:30] Haziq: Saya lagi tak follow jugalah.
+[2:05:30] Haziq Azfar: Saya lagi tak follow jugalah.
 
 [2:05:32] Rafizi: Tak, jadi contrary to popular belief, sebenarnya ahli politik masanya sangat terhad. Jadi we don't I don't follow as much. Sebenarnya hari tu saya pakai jersi kebetulan. Jersi tu, jersi Liverpool tu my wife, isteri dengan anak saya beli untuk birthday saya. Jadi kebetulan hari tu saya pakai, masa tu jugalah malam itu Liverpool kalah kan. Tu yang saya tweet. Tapi saya tak follow dan tak sempat nak tanya ChatGPT.
 
-[2:06:10] Haziq: Okey okey baik baik.
+[2:06:10] Haziq Azfar: Okey okey baik baik.
 
 [2:06:11] Rafizi: Paling kurang aku mengaku. Tapi kalau setiap kali Liverpool kalah, bolehlah tag saya. Saya ada lagi skaf Liverpoollah, topi Liverpoollah.
 
-[2:06:20] Haziq: Baik baik baik. Pastikan Liverpool kalahlah untuk kita tengok merchandise apa lagi YB Raf ada. Okey, soalan seterusnya dari Ahjib, "Bisnes online terkesan dengan fake produk atau buang harga dari peniaga luar seperti China di TikTok, Shopee, Lazada kerana tak ada kawalan atau akta khusus menyebabkan mereka boleh akses market lokal sangat mudah. Peniaga tempatan makin lama makin mati. Apa yang patut kerajaan buat?" Tanda soal.
+[2:06:20] Haziq Azfar: Baik baik baik. Pastikan Liverpool kalahlah untuk kita tengok merchandise apa lagi YB Raf ada. Okey, soalan seterusnya dari Ahjib, "Bisnes online terkesan dengan fake produk atau buang harga dari peniaga luar seperti China di TikTok, Shopee, Lazada kerana tak ada kawalan atau akta khusus menyebabkan mereka boleh akses market lokal sangat mudah. Peniaga tempatan makin lama makin mati. Apa yang patut kerajaan buat?" Tanda soal.
 
 [2:06:47] Rafizi: Saya sebenarnya setuju dah dah saya tak tahu proses dalam kerajaanlah kan dan yang ini saya kurang pasti sama ada bidang kuasa ni di bawah MITI ataupun KPDN ataupun kedua-duanya kan. Dia dia masalah yang yang semakin membengkak di negara-negara lain pun. Sebab itu Indonesia contohnya ambil tindakan. Ada satu masa tu dia tutup terus TikTok Shop. Ada satu masa kan. Dan kalau macam di US kan tarif yang dikenakan oleh Trump itu sebahagiannya ialah targetnya ialah kepada barang-barang seperti ini. Jadi sebab itu I think barang-barang kecil daripada China semua pun dah dah mula kena tariflah. Of course kita ada kekangan pertimbangan kerana dari segi China itu adalah rakan dagang kita yang besar. Kan? Jadi sama ada kita ada pengaruh dan kekuatan ekonomi untuk ambil jalan seperti tarif, saya rasa tidak mudah kerana dia akan ada reciprocal tariflah kan. Jadi pada masa yang sama juga, kita ada keadaan yang mana pengguna kita pun suka kerana dia murah. Tapi itulah kesannya juga kepada peniaga-peniaga tempatan. Tetapi soalnya ialah satu ialah fake. Fake produk itu memang ada peruntukan khusus. Saya ingat di bawah KPDN lah kan. Satu lagi dumping. Cuma dumping tu kalau dumping barang-barang macam besi keluli sebelum ini, yang itu yang mempengaruhi peniaga tempatan yang itu ada anti-dumping measures. Tapi saya ingat tak pernah sampai kepada fenomena yang terbaru ini iaitu barang-barang kecil kan. Jadi pilihan-pilihan yang ada pada kerajaan tu sama ada langkah drastik untuk buat undang-undang dan kalau buat undang-undang tu dia lebih kepada memperketatkan peraturan mengenai dumping dan juga fake produk lah. Cabaran utama dia ialah sebenarnya penguatkuasaan. Sebab semuanya masuk dalam parcel kecil. Dan bila dia masuk dalam parcel kecil, seingat saya dia takkan declare untuk custom. Kecuali dia datang kalau yang datang dengan kontena tu lain. Tapi kalau contohnya dihantar sebagai parcel kecil, dia sebagai almost like macam hantar surat kan daripada China. Jadi macam mana nak menguatkuasakan undang-undang dan certainly cuma saya bersetuju dia tidak kita tak boleh pandang ringan ataupun in denial yang perkara ini tidak ada kesan kepada peniaga tempatanlah. Yang tu saya tendang bola kepada MITI dan juga KPDN. Tengok macam mana mereka nak memperketatkan terutamanya daripada perspektif fake produk, imitation ataupun dari segi anti-dumpinglah.
 
-[2:10:25] Haziq: Okey YB, next question. Kita ada Syafii, "Saya ada emel YB pasal perkara ni. Bagaimana laporan salah laku atau manipulasi dalam kalangan penjawat awam boleh dibuat dengan berkesan? Bukti apa yang diperlukan dan kenapa kepada siapa aduan patut disalurkan jika kepercayaan terhadap organisasi sendiri diragui?"
+[2:10:25] Haziq Azfar: Okey YB, next question. Kita ada Syafii, "Saya ada emel YB pasal perkara ni. Bagaimana laporan salah laku atau manipulasi dalam kalangan penjawat awam boleh dibuat dengan berkesan? Bukti apa yang diperlukan dan kenapa kepada siapa aduan patut disalurkan jika kepercayaan terhadap organisasi sendiri diragui?"
 
 [2:10:48] Rafizi: Setiap kementerian atau jabatan tu ada Unit Integriti. Dan tujuan ada Unit Integriti tu ialah supaya kalau ada whistleblower, laporan salah laku itu boleh dibuatlah. Saya ingat bukti itu mestilah bersabit sebaik-baiknya ada smoking gun kan. Itu lebih mudahlah kalau ada smoking gun dan smoking gun tu kena ada dokumen semualah kan. Dan Unit Integriti tu sebahagiannya PTD, kadang-kadang ada juga pegawai SPRM di situlah. Itu design kerajaan yang yang bagaimana perlu dibuat kan. Cuma ada beberapa beberapa senariolah. Satunya budaya orang kita ni suka hantar surat layang. Jadi saya pun selalu dapat surat layang. Bukan pasal sayalah. Pasal aduan-aduan dalam sama ada dalam kerajaan ke apa. Surat layang ni kadang-kadang panjang, 7-8 muka surat. Tapi dia tidak bernama, kemudian dia tak ada bukti, dia hanya cakap saja. Dan jadi akhirnya oleh kerana susah untuk nak disiasat kan, jadi sebab itu besar kemungkinan dia akan terhenti di situ saja. Kerana Unit Integriti pun tak ramai. Setiap satu satu jabatan saya ingat Unit Integriti ada tiga empat orang saja kan. Jadi inilah yang akhirnya menyebabkan bila pegawai ataupun penjawat awam merasakan aduan yang dibuat itu tidak diambil tindakan, maka dia hilang kepercayaanlah. Jadi memang memang satu cabaranlah. Jadi yang sebaik-baiknyalah dia tak ada hard and fast rule. Kalau contohnya salah laku itu bersabit kewangan yang memang betul-betul ada bukti, Akta Whistleblower's Act lah kan, Akta Pelindung Pemberi Maklumat tu dia lebih mudah untuk melaporkan kepada pihak berkuasa yang bertanggungjawablah. Kalau rasuah SPRM ataupun pihak polis ataupun Commercial Crime dan boleh dapatkan perlindungan daripada whistleblowers. Tapi that's the thing. Dia mestilah ada asas yang kukuh kan. Keduanya, kalau tidak kalau dia tidak ada smoking gun ataupun dokumen yang betul-betul membuktikan salah laku terutamanya yang melibatkan kewangan, then boleh pergi kepada Unit Integritilah. Tapi untuk memudahkan, pastikan dia bukan surat layanglah dan dia kena ada bukti yang yang yang tepatlah kan untuk mula melakukan siasatan. Sebab saya walaupun saya bukan Unit Integriti ataupun bukan pihak berkuasa, saya selalu berada dalam keadaan yang sama kerana orang hantar segala jenis aduan, salah laku, rasuah, macam-macamlah. Kadang-kadang bergaduh petak parking pun dia hantar kat saya. "Ini satu salah laku besar, gini gini." kan. Saya ada saya seorang aje, saya tak ada masa untuk semak semua. Jadi kalau dia tak ada dokumen dan saya nak kena start daripada A ke Z dengan saya tak ada kuasa, saya tak ada sumber, susah untuk saya mulakanlah. Jadi sebab itu memang saya terpaksa mengutamakan kalau ada aduan ataupun laporan yang memang satu, berkepentingan awam yang yang kesannya itu besar. Keduanya yang memang ada dokumen yang boleh membantu saya untuk memulakan siasatan secara sebagai orang awam. Jadi saya ingat kalau saya berada dalam Unit Unit Integriti pun, hatta SPRM ataupun polis pun, saya pun macam itulah. Kalau benda tu tuduhan semata-mata tapi dia tak ada hujung pangkal, payah saya nak mula kerana sebelum saya nak buka fail tu saya kena dapatkan kelulusan daripada bos saya. Jadi bos saya akan tanya yang ini ha ini wal gulches ni banyak benda lain lagi kau nak buatlah. So dia akan tak dilayan kan. Jadi itu juga yang yang perlukan juga saya ingat kefahaman dan juga timbang rasa daripada kalau tidak kita akan dibebankan dan tertimbus dengan segala jenis surat layang. Dan saya perhatikan juga selalunya yang selalu dapat surat layang ni kalau bos yang garang sikit. Kalau bos tu garang, saya dapat surat layang, saya check juga dia garang tu sebab apa. Kalau dia garang tu sebab memang dia suruh buat kerja dan orang penat kerja dengan dia, susahlah nak kata salah laku kan. Kecuali kalau dia menyalahgunakan kuasa dia. Jadi banyak surat layang yang saya dapat dalam tempoh 2 tahun lebih saya jadi menteri yang mengadu itu ini, banyaknya yang begitu. Dia kadang-kadang ada ofis politik juga kan. Jadi ini yang saya ingat saudara Syafii kalau kalau yalah kita boleh cuba memahami juga berada dalam keadaan mereka, dia nak kena sieve through semua ni. Itu adalah proses yang saya sendiri pun kalau saya berada dalam keadaan itu, saya go through that top process. Pertama, saya tengok daripada kesan dia. Kedua, daripada bukti yang ada. Ketiga, saya nak kena tengok ini sebenarnya ofis politik masing-masing tak puas hati ke apa kan. So kalau ada banyak-banyak tu, you akan ambil yang mana betul-betul ada kesan besar kepada awam, kepada jabatan itu, kemudian bukti dia jelas dan benda ni objektif, bukan subjektif.
 
-[2:17:16] Haziq: Baik baik, very practical. Okey YB, soalan terakhir. Alif Salami, "Bagaimana Parlimen atau siapa-siapalah nak pastikan reformasi pendidikan remain berterusan regardless of pertukaran government? Adakah kerana kualiti reform itu yang sentiasa tak berkualiti sehinggakan selalu sahaja menteri nak tukar approach to education?"
+[2:17:16] Haziq Azfar: Baik baik, very practical. Okey YB, soalan terakhir. Alif Salami, "Bagaimana Parlimen atau siapa-siapalah nak pastikan reformasi pendidikan remain berterusan regardless of pertukaran government? Adakah kerana kualiti reform itu yang sentiasa tak berkualiti sehinggakan selalu sahaja menteri nak tukar approach to education?"
 
 [2:17:38] Rafizi: Pertama, saya rasa Malaysia tidak terkecuali daripada gejala yang berlaku di seluruh dunialah iaitu yang dipanggil gejala populism kan. Gejala populism ini maksudnya satu, kerajaan selalu bertukar. Dan bila kerajaan yang baru masuk, dia nak tunjukkan bahawa dia ada short gain ataupun low hanging fruit. Jadi akhirnya banyak perkara-perkara yang nak diubah itu ialah perkara yang kosmetik. Itu bukan perkara yang yang hanya berlaku di Malaysialah. Saya baru aje baca satu yalah penulisan panjang mengenai the cost of populism in the world sekarang kan. Bila kerajaan itu bertukar kepada left-wing populism, and left-wing populism ni selalunya dia salahkan orang kaya, jadi dia nak cukai semua, nak kutip cukai. Kalau kat Malaysia ni PSM lah kan. Semua ni boleh diselesaikan...
 
-[2:18:53] Haziq: Left-wing populism.
+[2:18:53] Haziq Azfar: Left-wing populism.
 
 [2:18:55] Rafizi: Extreme left-wing populism lah. Maksudnya tax and spend kan. Seluruh masalah ni boleh diselesaikan dengan kita mengejar semua orang kaya yang berada di kalangan kita, kita cukai dia, ambil dia dan kita agihkan dan kita belanja kan. Yang itu kesannya dalam tempoh yalah 10 tahun, I think no, I think is over a few decades yang yang dia buat study tu kan. Di di it was written in The Economist tapi study tu I think it was done either by Harvard or MIT, I can't remember. Kesan dia ialah 15% loss of economic output tau. Kalau right-wing populism, maksudnya right-wing populism ni yang berlakulah macam Trump ke ataupun kalau kat UK sekarang ni Nigel Farage, banyak yang di dan kalau kat Malaysia ni kita ada jugalah PAS semua ni kan. Dia akan menyalahkan semua orang lain kecuali dialah. Dan mangsa yang paling utama ialah minoriti, pendatang semua ni kan. Right-wing popu dan ada kecenderungan untuk mengalihkan harta ataupun ekonomi aktiviti kepada yang dikuasai oleh kroni-kroni mereka. Right-wing populism selalunya akan menyebabkan 10% drop in economic output over long term. Jadi sebelum saya nak jawab yang ini lagikan, jadi kebimba jadi fenomena yang ada ialah rakyat selalunya senang terperangkap dengan populism. Dan populism itu akan ada kesan yang besar kerana kerajaan akan bertukar-tukar dan kerajaan yang bertukar-tukar itu akan mengambil jalan singkat. Di Malaysia kita ada sedikit protection lah, kita ada sedikit buffer daripada masalah itu kerana kita ada dokumen-dokumen yang diluluskan di Parlimen yang sepatutnya mengikat. Sebab itu contohnya Dokumen Rancangan Malaysia 5 Tahun tu penting kerana dia mengikat mana-mana kerajaan yang masuk pun, kecuali kalau dia nak masuk, dia nak ubah ataupun dia nak batalkan, tapi dia kena pergi kat Parlimen balik kan. Dan sekarang sepatutnyalah daripada tahun 2025 ni keadaan itu ada tambah satu lagi protection kerana kita dah ada Majlis Pendidikan Negara yang mana dia melibatkan pimpinan sektor yang pelbagai dan keputusan-keputusan itu diangkat ke kabinet dan dia mengikat. Bagi sayalah eh, masalah utamanya ialah kualiti menteri. Kita terpaksa akuilah, dalam tempoh 10 tahun yang lepas, menteri-menteri yang yang menjadi Menteri Pendidikan ni bukan pimpinan kanan kerajaan. Bukan pimpinan kanan parti itu pun. Kebanyakan mereka orang baru, baik daripada Maszlee Malik, kemudian Radzi Jidin, kemudian Fadhlina sekarang yang sebenarnya tidak pernah ada pengalaman politik dan mentadbir pun sebelum itu kan. Jadi kita dah nak hampir 10 tahun dalam keadaan itu daripada Maszlee Malik 2018. Jadi maka kemampuan mereka untuk melaksanakan sebenarnya dasar yang memang dah ada. Sebab itu kalau tengok zaman Tan Sri Muhyiddin, Education Blueprint yang dibuat tahun 2010 saya ingat kan, 2010 eh? 2010. Education Blueprint 2010. It was good. Memanglah bagus, dia dibuat oleh BCG oleh oleh konsultan-konsultan terhebat di dunia ni kan. Tapi bila sampai nak dilaksanakan, tak jadi. Jadi kalau ditanya macam mana nak pastikan reformasi pendidikan itu berterusan, dalam tempoh 5 tahun satu penggal tu kalau ada Menteri Pendidikan yang berkualiti yang boleh membawa semua pihak meyakinkan, yang ada hands-on, yang berani buat perubahan, yang command the respect, saya rasa 5 tahun mencukupi untuk memastikan momentum awal itu kekal dan once you reach a certain momentum, perkara itu akan berjalan sendiri. Tapi kita masih lagi tercari-carilah terutamanya dalam tempoh 7-8 tahun kebelakangan ini pertukaran menteri-menteri yang walaupun mereka diletakkan di situ, dari segi pengaruh politik mereka dengan masyarakat, dengan stakeholders, adalah agak junior. Itu yang bagi saya ada ada masalah.
 
-[2:23:51] Haziq: Jadi pengaruh politik tu sendiri pun ada peranan besar selain daripada...
+[2:23:51] Haziq Azfar: Jadi pengaruh politik tu sendiri pun ada peranan besar selain daripada...
 
 [2:23:54] Rafizi: You need to command. You need to command kan. Jadi sebab itu one credit kepada UMNO lah semasa UMNO menjadi kerajaan 50 tahun lebih, Menteri Pendidikan ni sebenarnya menteri paling kanan. Sebab itu kalau tengok semua Perdana Menteri kita semua pernah jadi Menteri Pendidikan. Daripada Tun Mahathir sebelum dia jadi Timbalan Perdana Menteri, dia Menteri Pendidikan. Kemudian Pak Lah saya ingat pernah jadi Menteri Pendidikan. Kemudian Najib Menteri Pendidikan, Muhyiddin Menteri Pendidikan. Ismail Sabri aje tak pernah. Datuk Seri Anwar Menteri Pendidikan. Jadi semua adalah Menteri Pendidikan ni kena menteri kanan. Dan saya ingat dia di akhir-akhir pentadbiran Datuk Seri Najib aje yang Menteri Pendidikan ini bukan Naib Presiden. Datuk Seri Mahdzir Khalid, masa tu dia bukan Mahdzir Khalid. Mahdzir Khalid ke Mahdzir Khalid?
 
 [2:24:55] Speaker 3: Mahdzir Khalid.
 
-[2:24:59] Haziq: Mahdzir Khalid. Padang Terap.
+[2:24:59] Haziq Azfar: Mahdzir Khalid. Padang Terap.
 
 [2:25:03] Rafizi: Tak ya, Mahdzir Khalid. Itu pengajian tinggi? Tak, itu Menteri Pendidikan Keduakah?
 
-[2:25:08] Haziq: Ya ya, kedua kedua.
+[2:25:08] Haziq Azfar: Ya ya, kedua kedua.
 
 [2:25:09] Rafizi: Itu masa zaman Tan Sri Muhyiddin. I think so, ha ha kan. Mahdzir Khalid, Mahdzir Khalid. Bukan Mahdzir Khalid, Mahdzir Khalid ahli Sungai Petani dulu, ahli Parlimen Sungai Petani dulu. Mahdzir Khalid yang the first yang bukan Naib Presiden saya ingat, kemudian disambung dengan Maszlee, kemudian disambung dengan Radzi Jidin, sekarang Fadhlinallah. So I think paling kuranglah we need to get that you know, Perdana-Perdana Menteri lepas ni kena fikirkan you need to put someone very senior yang boleh command.
 
-[2:25:40] Haziq: Ada soalan dari YouTube tanya kalau Fadhlina boleh jadi PM since dia Menteri Education? Okey, kita tarik balik soalan tu.
+[2:25:40] Haziq Azfar: Ada soalan dari YouTube tanya kalau Fadhlina boleh jadi PM since dia Menteri Education? Okey, kita tarik balik soalan tu.
 
 [2:25:49] Rafizi: Siapa yang nakal? You think it's funny eh? You think it's funny? I don't think we want that to happenlah. Nanti kita ada PM yang selalu tertidur dalam toilet. Jadi I don't think we want to be there lah.
 
-[2:26:03] Haziq: Sebelum YB panjangkan lagi, kita tutupla di situ. Itu sahaja pada minggu ini. Terima kasih banyak kepada semua yang menonton. Follow channel dan subscribe saudara Rafizi Ramli di YouTube dan juga sosial media lain. Kita jumpa lagi di episod ke-20 pada minggu depan.
+[2:26:03] Haziq Azfar: Sebelum YB panjangkan lagi, kita tutupla di situ. Itu sahaja pada minggu ini. Terima kasih banyak kepada semua yang menonton. Follow channel dan subscribe saudara Rafizi Ramli di YouTube dan juga sosial media lain. Kita jumpa lagi di episod ke-20 pada minggu depan.
 
 [2:26:20] Rafizi: Ada perayaankah untuk episod 20 ni? Dah bosanlah.
 
-[2:26:22] Haziq: Kita belum fikir lagi. YB nak cadang apa-apa?
+[2:26:22] Haziq Azfar: Kita belum fikir lagi. YB nak cadang apa-apa?
 
 [2:26:25] Rafizi: Bagilah apa-apa.
 
-[2:26:27] Haziq: Nanti kita adakan. Baik, itu saja daripada kami. Kita jumpa lagi, selamat malam. Jumpa minggu depan.
+[2:26:27] Haziq Azfar: Nanti kita adakan. Baik, itu saja daripada kami. Kita jumpa lagi, selamat malam. Jumpa minggu depan.
 
 [2:26:33] [Muzik/Outro]
 
