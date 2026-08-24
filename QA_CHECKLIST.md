@@ -61,7 +61,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 471s, 10/12 caption samples matched)
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 575s, 7/12 caption samples matched)
   - models: raw.md=gemini-3.6-flash
@@ -82,8 +82,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
-  - raw.md has a 88095-char block with no paragraph breaks (wall-of-text)
-  - raw.md has a repetition-loop degeneration (85581 chars repeating 'i di-di-d'...) -- model got stuck re-emitting the same short phrase
+  - raw.md has a repetition-loop degeneration (888 chars repeating 'mmmmmmmm'...) -- model got stuck re-emitting the same short phrase
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
