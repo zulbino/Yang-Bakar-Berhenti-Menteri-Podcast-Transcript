@@ -886,56 +886,61 @@
   },
   "2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 1092,
-    "flagged": true,
+    "max_drift_seconds": 218,
+    "flagged": false,
     "details": [
       {
-        "claimed": 183,
-        "actual": 189,
+        "claimed": 143,
+        "actual": 145,
+        "drift": 2
+      },
+      {
+        "claimed": 388,
+        "actual": 381,
+        "drift": -7
+      },
+      {
+        "claimed": 797,
+        "actual": 803,
         "drift": 6
       },
       {
-        "claimed": 586,
-        "actual": 578,
+        "claimed": 1282,
+        "actual": 1280,
+        "drift": -2
+      },
+      {
+        "claimed": 2368,
+        "actual": 2364,
+        "drift": -4
+      },
+      {
+        "claimed": 2739,
+        "actual": 2731,
         "drift": -8
       },
       {
-        "claimed": 812,
-        "actual": 804,
-        "drift": -8
+        "claimed": 5079,
+        "actual": 5084,
+        "drift": 5
       },
       {
-        "claimed": 1223,
-        "actual": 1237,
+        "claimed": 6439,
+        "actual": 6473,
+        "drift": 34
+      },
+      {
+        "claimed": 7517,
+        "actual": 7735,
+        "drift": 218
+      },
+      {
+        "claimed": 9200,
+        "actual": 9214,
         "drift": 14
-      },
-      {
-        "claimed": 1644,
-        "actual": 1811,
-        "drift": 167
-      },
-      {
-        "claimed": 2147,
-        "actual": 1848,
-        "drift": -299
-      },
-      {
-        "claimed": 10578,
-        "actual": 9918,
-        "drift": -660
-      },
-      {
-        "claimed": 10818,
-        "actual": 10098,
-        "drift": -720
-      },
-      {
-        "claimed": 11010,
-        "actual": 9918,
-        "drift": -1092
       }
     ]
   },
