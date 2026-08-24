@@ -472,6 +472,12 @@ model line in `QA_CHECKLIST.md` until reprocessed.
   Gemini's own generic labels do, just without the added risk of the label
   itself drifting between attempts.
 
+  **ep13 naming pass done, 2026-08-24**: sample clips extracted per speaker
+  and confirmed by the repo owner by ear (`Speaker 1` = Rafizi Ramli, 300
+  turns; `Speaker 2` = Haziq Azfar, 39 turns) before applying the labels to
+  `raw.md` and the three `interview*.md` rewrites -- confirm-before-applying
+  this way avoids guessing from turn count or content alone.
+
   Requires a Hugging Face token with access to 3 gated repos (accept terms
   for all three, or the pipeline 403s partway through loading):
   `pyannote/segmentation-3.0`, `pyannote/speaker-diarization-3.1`, and
