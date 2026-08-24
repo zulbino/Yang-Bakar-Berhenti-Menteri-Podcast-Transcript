@@ -15,37 +15,37 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Music / Intro]
 
-[05:07] Haziq: Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera dan kembali lagi ke podcast Yang Bakar Menteri episod keempat. Saya Haziq dan kali ini kita ada seorang tetamu yang kontroversi. Tak lain tak bukan kita ada saudara Salim. Khabar saudara?
+[05:07] Haziq Azfar: Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera dan kembali lagi ke podcast Yang Bakar Menteri episod keempat. Saya Haziq dan kali ini kita ada seorang tetamu yang kontroversi. Tak lain tak bukan kita ada saudara Salim. Khabar saudara?
 
 [05:28] Salim Iskandar: Khabar baik.
 
-[05:30] Haziq: Okey, cuma kita kena jaga juga kita punya kualiti podcast ni YB Menteri. Jadi saya minta...
+[05:30] Haziq Azfar: Okey, cuma kita kena jaga juga kita punya kualiti podcast ni YB Menteri. Jadi saya minta...
 
 [05:40] Salim Iskandar: Saya takut nanti Menteri marah saya. Janganlah marah saya, saya budak baik.
 
 [05:46] Rafizi Ramli: Bantai menteri dah macam ni macam mana?
 
-[05:50] Haziq: Okey, kita kena jaga kita punya kualiti podcast ni YB. Jadi kita buat declaration sikit. Kita tak ada apa-apa sebarang soalan sebelum sesi ni ya YB? Soalan you terima sebelum ni tak ada?
+[05:50] Haziq Azfar: Okey, kita kena jaga kita punya kualiti podcast ni YB. Jadi kita buat declaration sikit. Kita tak ada apa-apa sebarang soalan sebelum sesi ni ya YB? Soalan you terima sebelum ni tak ada?
 
 [06:02] Rafizi Ramli: Tak ada.
 
-[06:03] Haziq: Tak ada eh. Saudara Salim pun tak ada eh?
+[06:03] Haziq Azfar: Tak ada eh. Saudara Salim pun tak ada eh?
 
 [06:04] Salim Iskandar: Saya saksi, saya bagi tahu datang YB tak tahu apa saya nak tanya, saya pun tak tahu apa YB nak tanya kalau dia nak kan. Kalau dia nak bakar cili kalau YB nak bakar cili, saya yang bakar menteri. Kita tengoklah apa jadi.
 
-[06:16] Haziq: Okey, kita tengok. Jadi ini peluang dia. Selama ni cakap macam-macam dekat sosial media, nak balas depan-depan tak tahu. Kadang-kadang tak balas, kadang-kadang lupa. Jadi tak ada apa-apa censorship apa-apa, tanya terus. Menteri akan jawab dan tanya jawab lagi sekali, tanya lagi bertalu-talu pun tak apa. Okey boleh kita start eh?
+[06:16] Haziq Azfar: Okey, kita tengok. Jadi ini peluang dia. Selama ni cakap macam-macam dekat sosial media, nak balas depan-depan tak tahu. Kadang-kadang tak balas, kadang-kadang lupa. Jadi tak ada apa-apa censorship apa-apa, tanya terus. Menteri akan jawab dan tanya jawab lagi sekali, tanya lagi bertalu-talu pun tak apa. Okey boleh kita start eh?
 
 [06:38] Rafizi Ramli: Boleh.
 
-[06:39] Haziq: Okey baik, boleh start saya jemput.
+[06:39] Haziq Azfar: Okey baik, boleh start saya jemput.
 
 [06:40] Salim Iskandar: Eh tapi nanti jap ah. Kalau saya nak tanya soalan, Menteri boleh tanya saya?
 
-[06:43] Haziq: Boleh.
+[06:43] Haziq Azfar: Boleh.
 
 [06:44] Rafizi Ramli: Boleh juga.
 
-[06:45] Haziq: Boleh.
+[06:45] Haziq Azfar: Boleh.
 
 [06:47] Rafizi Ramli: Ini Salim datang podcast ni nanti macam-macam orang kata ni.
 
@@ -149,7 +149,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [13:11] Rafizi Ramli: Kau tak ada fungsi dah lepas ni. Memang Salim tanya terus aje.
 
-[13:14] Haziq: Sorry. Boleh boleh teruskan.
+[13:14] Haziq Azfar: Sorry. Boleh boleh teruskan.
 
 [13:15] Rafizi Ramli: Tak, it's okay. Boleh tanya aje, boleh tanya.
 
@@ -403,7 +403,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:28] Rafizi Ramli: Empat!
 
-[38:29] Haziq: Empat.
+[38:29] Haziq Azfar: Empat.
 
 [38:29] Salim Iskandar: Empat kali dia pecah.
 
@@ -431,7 +431,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:47] Salim Iskandar: Tak apalah. Itulah masalah dia. Kalau Google pun tak jumpa, tak apalah. It's okay.
 
-[40:53] Haziq: Betul, zaman sekarang empat kali. Zaman Najib dulu the less than, tapi kita tengah cari lagi.
+[40:53] Haziq Azfar: Betul, zaman sekarang empat kali. Zaman Najib dulu the less than, tapi kita tengah cari lagi.
 
 [40:58] Salim Iskandar: Ya, tak apa. Okey, fine. It's okay because sekarang ni kita berbalik-balik pada apa nama dia...
 
@@ -825,7 +825,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [69:13] Rafizi Ramli: Eh moderator, lama mana ni?
 
-[69:15] Haziq: Ni dah sejam 10 minit.
+[69:15] Haziq Azfar: Ni dah sejam 10 minit.
 
 [69:16] Rafizi Ramli: Sikit lagi nak habis dah.
 
@@ -925,7 +925,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [75:04] Salim Iskandar: Wow!
 
-[75:06] Haziq: Follow back.
+[75:06] Haziq Azfar: Follow back.
 
 [75:07] Salim Iskandar: Steady! Tengok, Rafizi Ramli follow yo!
 
@@ -957,7 +957,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [76:11] Salim Iskandar: Tulah, tak apalah sikit syok kan? Best kan? Okey, so apa yang berlaku dekat X tu dia orang bagi tahu ada kawan saya satulah, dia dedahkan kata saya duduk rumah mahal lepas tu bayar tak apa tak mampu bayar sekarang dah jadi miskin jadi saya minta sedekah. Dia kata macam tulah, jadi minta sedekah ni. Okey, bermakna I'm a beggar. Miskin minta sedekah. Tetapi bila datang dekat X pula, ada yang kata Salim dibayar oleh PM, Salim dibayar oleh Mahathir, Salim dibayar oleh itu. Lepas tu aku duduk kat corner, aku kata kau orang kena decide ni, aku miskin beggar ke aku dibayar ni sekarang? Mana satu aku ni? So kadang-kadang aku fikir fikir fikir, menangis kat bucu katil terjumpa tin Planta. Jangan potong eh. Jadi kita tak tahu sebenarnya. Kau orang kena decide. So kau orang aku adakah aku kartel Rafizi atau aku ni seorang rakyat biasa dari tepi jalan? Cili Kasi Taruk bersama Yang Bakar Menteri.
 
-[77:07] Haziq: Okey tapi jadi formula semua okey eh?
+[77:07] Haziq Azfar: Okey tapi jadi formula semua okey eh?
 
 [77:10] Rafizi Ramli: Formula tak okeylah. Salim dah kasi cili segala cili.
 
@@ -965,7 +965,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [77:24] Rafizi Ramli: Insya-Allah.
 
-[77:27] Haziq: Jangan tukar kerajaan eh?
+[77:27] Haziq Azfar: Jangan tukar kerajaan eh?
 
 [77:27] Salim Iskandar: Itu tukar kerajaan kena tanya Muhyiddin. Tapi selagi ada Muhyiddin, dia takkan tukar punya, jangan risau. Because Muhyiddin Anwar dah pegang. Ops, so damn son. Okey, silakan.
 
@@ -991,7 +991,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [78:50] Rafizi Ramli: Okey okey okey. Dah dah dah, balik balik balik.
 
-[78:54] Haziq: 1 hour and 30 minutes. Okey itu saja. Terima kasih saudara Salim.
+[78:54] Haziq Azfar: 1 hour and 30 minutes. Okey itu saja. Terima kasih saudara Salim.
 
 [78:57] Rafizi Ramli: Bagi salamlah.
 
@@ -1003,11 +1003,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [79:02] Rafizi Ramli: Okey, thank you.
 
-[79:04] Haziq: So Salim is the first, kita harap yang lain akan join sekali. Kita buat invitation juga kepada semua yang bersama-sama...
+[79:04] Haziq Azfar: So Salim is the first, kita harap yang lain akan join sekali. Kita buat invitation juga kepada semua yang bersama-sama...
 
 [79:12] Salim Iskandar: Mari kita Bakar Menteri.
 
-[79:13] Haziq: Yeah! Okey, itu saja. Terima kasih, kita jumpa lagi.
+[79:13] Haziq Azfar: Yeah! Okey, itu saja. Terima kasih, kita jumpa lagi.
 
 [79:16] Rafizi Ramli: Eh kalau Papagomo datang, kau tak marah?
 
@@ -1051,7 +1051,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [81:39] Salim Iskandar: Oh, masa tersirat tak nak tak sesuai eh? Okeylah guys, thank you very much.
 
-[81:44] Haziq: Okey, terima kasih. Assalamualaikum.
+[81:44] Haziq Azfar: Okey, terima kasih. Assalamualaikum.
 
 [81:46] Rafizi Ramli: Waalaikumussalam.
 

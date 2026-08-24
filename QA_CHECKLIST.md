@@ -34,12 +34,12 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
 - [ ] **2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
-  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20468 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20510 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
 - [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
-  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (3600 chars, 7% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (3624 chars, 7% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
 - [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)

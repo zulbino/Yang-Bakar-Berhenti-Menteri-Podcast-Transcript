@@ -57,7 +57,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:58] Farhan Iqbal: Tapi kalau garang mungkin orang rasa macam tak kenalah, kalau garang mungkin dia kata, "Okey, keluar, keluarlah." Macam...
 
-[06:07] Haziq: Atau mungkin ini dia orang bawa satu imej kematangan politik yang baru, mungkin boleh ada setengah orang pandang macam tu.
+[06:07] Haziq Azfar: Atau mungkin ini dia orang bawa satu imej kematangan politik yang baru, mungkin boleh ada setengah orang pandang macam tu.
 
 [06:15] Rafizi Ramli: Matang tak semestinya lembut, tau. Er, matang ni bukan dinilai sama ada er, yelah mendayu-dayu ke tidak. Matang ni maksudnya, er, mengambil kira semua perspektif dan membuat er satu keputusan dan penilaian yang paling adil berbelakangkan perspektif-perspektif tu. Jadi kalau macam ini, er sepatutnyalah Ketua AMK menyatakan bahawa er BN dengan PH telah pun er membuat satu komitmen untuk memastikan kestabilan politik demi rakyat. Ha, jadi er apa pun keadaannya, er parti-parti komponen dalam Kerajaan Madani ni mestilah patuh kepada perjanjian yang telah ditandatangani itu. Ha, dia matang tak semestinya lembut mendayu kan, matang ni maksudnya calling a spade a spade lah. Jadi, Beriya dia pegang perut Dr Akmal. Dan setelah dipegang perut Dr Akmal pun, Dr Akmal buat bolaian juga kat dia.
 
@@ -81,11 +81,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:46] Farhan Iqbal: Itu typo rasanya kan?
 
-[08:47] Haziq: Bukan typo, sebab Pulau Pinang kan dikatakan negeri DAP.
+[08:47] Haziq Azfar: Bukan typo, sebab Pulau Pinang kan dikatakan negeri DAP.
 
 [08:51] Rafizi Ramli: I see.
 
-[08:52] Haziq: So itu juga salah satu, kita boleh katakan sama jelah, sebab I mean, dia dianggap yelah, Bersatu ni ada banyak problem, PAS dengan Perikatan Nasional ada banyak problem, tapi tiba-tiba dia pergi attack kata Pulau Pinang tu dia punya pula. And dia sebut wilayah Kesultanan Kedah secara haram.
+[08:52] Haziq Azfar: So itu juga salah satu, kita boleh katakan sama jelah, sebab I mean, dia dianggap yelah, Bersatu ni ada banyak problem, PAS dengan Perikatan Nasional ada banyak problem, tapi tiba-tiba dia pergi attack kata Pulau Pinang tu dia punya pula. And dia sebut wilayah Kesultanan Kedah secara haram.
 
 [09:12] Rafizi Ramli: Tapi tak apalah, biarlah dia orang bergaduh. Biar mereka bergaduh. Bagus. Beriya mereka bergaduh. Dan lagi Beriya, sebenarnya lagi bagus untuk rakyat Malaysia.
 
@@ -121,27 +121,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [16:07] Farhan Iqbal: Okey okey okey.
 
-[16:08] Haziq: Saya make note.
+[16:08] Haziq Azfar: Saya make note.
 
 [16:11] Farhan Iqbal: Dan kita tengok yang Beriya terakhir.
 
 [16:15] Rafizi Ramli: Lelaki bertudung minum arak. Yang itu macam mana orang tahu itu lelaki? Itu lelakikah itu?
 
-[16:21] Haziq: Ah, pusingan.
+[16:21] Haziq Azfar: Ah, pusingan.
 
 [16:22] Farhan Iqbal: Ya, betul. Dia actually viral time Christmas baru-baru ni.
 
 [16:28] Rafizi Ramli: Bahaya betullah kalau lelaki pakai tudung ni aku dah tak boleh cakap dah itu lelaki ke perempuan. Kan nampak ni. So itu memang lelakikah?
 
-[16:38] Haziq: Itu memang lelaki, staff lelaki kepada satu salon di Subang Jaya dan dia jadi kontroversi bila time Christmas dinner dia I think berlawak, memakai tudung dan meminum beer.
+[16:38] Haziq Azfar: Itu memang lelaki, staff lelaki kepada satu salon di Subang Jaya dan dia jadi kontroversi bila time Christmas dinner dia I think berlawak, memakai tudung dan meminum beer.
 
 [16:50] Farhan Iqbal: Turut order ke apa?
 
-[16:51] Haziq: Saya tak tahu turut order ke apa sebab tak pernah ada dalam situasi seperti itu.
+[16:51] Haziq Azfar: Saya tak tahu turut order ke apa sebab tak pernah ada dalam situasi seperti itu.
 
 [16:55] Rafizi Ramli: Kau jangan pakai tudung eh. Aku pecat kau kalau kau pakai tudung. Tak pernah lagi lah kat situ. So ada kemungkinan dia cuba melawak, tapi itulah ada orang rekod, boss dia rekod sebenarnya.
 
-[17:09] Haziq: Oh, and then dia jadi viral tuh? Dia jadi viral.
+[17:09] Haziq Azfar: Oh, and then dia jadi viral tuh? Dia jadi viral.
 
 [17:15] Rafizi Ramli: Okey, Beriya. Beriya. Nasihat saya ialah janganlah sesiapa Beriya-beriya pakai tudung kalau bukan perempuan. Kepala ni lelaki dia tak wajib tutup kepala, bukan aurat. Dan hargailah rambut yang ada itu kan. Jadi, bila dah sampai peringkat macam aku tak ada rambut kan, er, kedua ialah er janganlah minum arak. Kan, kalau orang Islam janganlah minum arak. Tapi Beriyalah. Ah ini memang Beriya.
 
@@ -149,15 +149,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [17:51] Rafizi Ramli: Sebab dia pakai tudung, ah I can't help it. So yang ini memang Beriyalah. Kita bagi pemenang segment Beriya untuk minggu ini ialah... Lelaki pakai tudung. Lelaki pakai tudung. Tapi aku nak juga kata, yang boss dia tu pun Beriya kenapa?
 
-[18:08] Haziq: Saya rasa benda ni patut di private Instagram Story, tapi dia terpost dekat Instagram Story public.
+[18:08] Haziq Azfar: Saya rasa benda ni patut di private Instagram Story, tapi dia terpost dekat Instagram Story public.
 
 [18:14] Rafizi Ramli: Sebab boss dia?
 
-[18:15] Haziq: Boss dia.
+[18:15] Haziq Azfar: Boss dia.
 
 [18:16] Rafizi Ramli: Oh. Boss dia tak kena tangkap ke?
 
-[18:18] Haziq: Er, yang saya rasa dua-dua kena tangkap. Er dipanggil polis lah. Seorang wanita 24 tahun di Subang Jaya kena bawah Seksyen 298.
+[18:18] Haziq Azfar: Er, yang saya rasa dua-dua kena tangkap. Er dipanggil polis lah. Seorang wanita 24 tahun di Subang Jaya kena bawah Seksyen 298.
 
 [18:27] Rafizi Ramli: Oh boss dia wanita? So tudung boss nyakah itu? Tak tahu. Pakai tudung hijau pula kau dik, kan. Ini kalau orang PAS tengok ni marah betul lah.
 
@@ -185,7 +185,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:46] Rafizi Ramli: Satu kaedah yang lebih mudah dan real-time ialah kita kena tengok sambutan dekat media sosial. So sambutan kat media sosial macam mana?
 
-[28:20] Haziq: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
+[28:20] Haziq Azfar: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
 
 [29:58] Farhan Iqbal: Tak ada. Tapi at least mungkin kalau dari perspektif pengundi atas pagar di bandar, ada feel good factor sikit.
 
@@ -209,7 +209,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:25] Rafizi Ramli: So, I think what the PM announced is okay. Tapi dia tak announce apa yang dalam kepala otak rakyat sekarang, which is issue pasal SPRM, pemisahan kuasa PM dan Menteri Kewangan, Akta Pendanaan Politik.
 
-[40:48] Haziq: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
+[40:48] Haziq Azfar: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
 
 [41:40] Farhan Iqbal: Baik YB, 2 jam 15 minit.
 
@@ -229,7 +229,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [41:55] Farhan Iqbal: Boleh. Boleh, silakan.
 
-[41:56] Haziq: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
+[41:56] Haziq Azfar: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
 
 [42:00] [laughter]
 
@@ -259,7 +259,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [42:25] Farhan Iqbal: Sana pecah, sini belum sahkan. Yelah saya rasa satulah, pemecatan tu biasalah YB. Cuma satu lagi, dikatakan peletakan jawatan Muhyiddin selaku Pengerusi PN ni belum sah. Adakah ini pun satu strategi diorang ataupun ini memang dah utus sebab dah cuak dengan analisis daripada YB?
 
-[42:48] Haziq: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
+[42:48] Haziq Azfar: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
 
 [42:58] Farhan Iqbal: Dan ramai daripada mereka yang berkongsi...
 
@@ -293,7 +293,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:05] Rafizi Ramli: Satu kaedah yang lebih mudah dan real-time ialah kita kena tengok sambutan dekat media sosial. So sambutan kat media sosial macam mana?
 
-[55:15] Haziq: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
+[55:15] Haziq Azfar: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
 
 [56:01] Rafizi Ramli: Tiga yang disebut sebagai reformasi besar ni satu ialah term limit, had tempoh jawatan PM. Satu lagi ialah Akta Kebebasan Maklumatlah kan, Freedom of Information, FOI. Satu... empatlah kira kan. Satu lagi ialah pemisahan kuasa Pendakwa Raya, Peguam Negara kan. Kemudian satu lagi ialah Ombudsman kan. Baik eh. Ni saya nak tanya. Okey. Kalau you rakyat biasa, yang maksudnya attention span politik ni kepada perkara politik ni mungkin 1 jam seminggu. Kan? Itu yalah rakyat biasalah, attention span dia daripada politik 1 jam seminggu ya kan. Setakat mana perkara ini akan mengubah hidup?
 
@@ -333,7 +333,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:07:15] Rafizi Ramli: So, I think what the PM announced is okay. Tapi dia tak announce apa yang dalam kepala otak rakyat sekarang, which is issue pasal SPRM, pemisahan kuasa PM dan Menteri Kewangan, Akta Pendanaan Politik.
 
-[1:07:38] Haziq: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
+[1:07:38] Haziq Azfar: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
 
 [1:07:45] Rafizi Ramli: Yes, exactly. So pada pandangan rakyat, "Ah ini kosmetiklah." Dia ah okey, kosmetik. Baru-baru ni, lepas perhimpunan, dia orang perasan ada announcement, and then a week later, DNAA pulak Zahid Hamidi digugurkan terus, bukannya DNAA. So it doesn't move the needle. And the number in subsequent months, even before perincian akta semua ni keluar, kita boleh tengoklah. Saya jangkakan dia takkan memperbaikki persepsi rakyat secara mendadak mengenai prestasi reformasi dan melawan rasuah kerajaanlah.
 
@@ -355,7 +355,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:08:45] Farhan Iqbal: Boleh. Boleh, silakan.
 
-[1:08:46] Haziq: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
+[1:08:46] Haziq Azfar: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
 
 [1:08:50] [laughter]
 
@@ -385,7 +385,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:09:25] Farhan Iqbal: Sana pecah, sini belum sahkan. Yelah saya rasa satulah, pemecatan tu biasalah YB. Cuma satu lagi, dikatakan peletakan jawatan Muhyiddin selaku Pengerusi PN ni belum sah. Adakah ini pun satu strategi diorang ataupun ini memang dah utus sebab dah cuak dengan analisis daripada YB?
 
-[1:09:48] Haziq: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
+[1:09:48] Haziq Azfar: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
 
 [1:09:58] Farhan Iqbal: Dan ramai daripada mereka yang berkongsi...
 
@@ -413,7 +413,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:22:05] Rafizi Ramli: Satu kaedah yang lebih mudah dan real-time ialah kita kena tengok sambutan dekat media sosial. So sambutan kat media sosial macam mana?
 
-[1:22:15] Haziq: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
+[1:22:15] Haziq Azfar: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
 
 [1:23:51] Farhan Iqbal: Tak ada. Tapi at least mungkin kalau dari perspektif pengundi atas pagar di bandar, ada feel good factor sikit.
 
@@ -435,7 +435,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:34:15] Rafizi Ramli: So, I think what the PM announced is okay. Tapi dia tak announce apa yang dalam kepala otak rakyat sekarang, which is issue pasal SPRM, pemisahan kuasa PM dan Menteri Kewangan, Akta Pendanaan Politik.
 
-[1:34:38] Haziq: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
+[1:34:38] Haziq Azfar: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
 
 [1:35:30] Farhan Iqbal: Baik YB, 2 jam 15 minit.
 
@@ -455,7 +455,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:35:45] Farhan Iqbal: Boleh. Boleh, silakan.
 
-[1:35:46] Haziq: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
+[1:35:46] Haziq Azfar: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
 
 [1:35:50] [laughter]
 
@@ -485,7 +485,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:36:25] Farhan Iqbal: Sana pecah, sini belum sahkan. Yelah saya rasa satulah, pemecatan tu biasalah YB. Cuma satu lagi, dikatakan peletakan jawatan Muhyiddin selaku Pengerusi PN ni belum sah. Adakah ini pun satu strategi diorang ataupun ini memang dah utus sebab dah cuak dengan analisis daripada YB?
 
-[1:36:48] Haziq: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
+[1:36:48] Haziq Azfar: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
 
 [1:36:58] Farhan Iqbal: Dan ramai daripada mereka yang berkongsi...
 
@@ -513,7 +513,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:49:05] Rafizi Ramli: Satu kaedah yang lebih mudah dan real-time ialah kita kena tengok sambutan dekat media sosial. So sambutan kat media sosial macam mana?
 
-[1:49:15] Haziq: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
+[1:49:15] Haziq Azfar: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
 
 [1:50:51] Farhan Iqbal: Tak ada. Tapi at least mungkin kalau dari perspektif pengundi atas pagar di bandar, ada feel good factor sikit.
 
@@ -535,7 +535,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:15] Rafizi Ramli: So, I think what the PM announced is okay. Tapi dia tak announce apa yang dalam kepala otak rakyat sekarang, which is issue pasal SPRM, pemisahan kuasa PM dan Menteri Kewangan, Akta Pendanaan Politik.
 
-[2:01:38] Haziq: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
+[2:01:38] Haziq Azfar: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
 
 [2:02:30] Farhan Iqbal: Baik YB, 2 jam 15 minit.
 
@@ -555,7 +555,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:02:45] Farhan Iqbal: Boleh. Boleh, silakan.
 
-[2:02:46] Haziq: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
+[2:02:46] Haziq Azfar: Tak. Bincangkan macam mana nak hantar dia kursus nanti kita buat off-air.
 
 [2:02:50] [laughter]
 
@@ -585,7 +585,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:03:25] Farhan Iqbal: Sana pecah, sini belum sahkan. Yelah saya rasa satulah, pemecatan tu biasalah YB. Cuma satu lagi, dikatakan peletakan jawatan Muhyiddin selaku Pengerusi PN ni belum sah. Adakah ini pun satu strategi diorang ataupun ini memang dah utus sebab dah cuak dengan analisis daripada YB?
 
-[2:03:48] Haziq: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
+[2:03:48] Haziq Azfar: Mungkin mereka dengar podcast kita minggu lepas, di mana YB sendiri mengatakan mungkin ini strategi Muhyiddin bagi tahu PAS yang "Without me, you're dead."
 
 [2:03:58] Farhan Iqbal: Dan ramai daripada mereka yang berkongsi...
 
@@ -615,7 +615,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:16:45] Rafizi Ramli: Satu kaedah yang lebih mudah dan real-time ialah kita kena tengok sambutan dekat media sosial. So sambutan kat media sosial macam mana?
 
-[2:16:55] Haziq: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
+[2:16:55] Haziq Azfar: Yang saya perasanlah, tapi ini mungkin anekdotik sebab apa yang saya perasan sendiri, selepas ucapan Datuk Seri Anwar Ibrahim masa perhimpunan tu, banyak reaksi positif dia kata "Okey, finally inilah jiwa reformasi yang dibawa semula" dengan, especially had tempo jawatan PM. Itu yang orang paling excited about lah. Tetapi ada juga masih dissenting voice yang mengatakan "Kenapa sekarang? Why only now? You've been in power for good 3 years already. How come suddenly? Is it because of DAP punya threat, or is it because you're leading up to election, tiba-tiba bersemangat reformasi tu naik balik?" So majoriti masih menepuk tangan, tapi ada yang skeptik.
 
 [2:18:31] Farhan Iqbal: Tak ada. Tapi at least mungkin kalau dari perspektif pengundi atas pagar di bandar, ada feel good factor sikit.
 
@@ -637,7 +637,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:28:55] Rafizi Ramli: So, I think what the PM announced is okay. Tapi dia tak announce apa yang dalam kepala otak rakyat sekarang, which is issue pasal SPRM, pemisahan kuasa PM dan Menteri Kewangan, Akta Pendanaan Politik.
 
-[2:29:18] Haziq: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
+[2:29:18] Haziq Azfar: So, in layman's terms, what he announced is okay, tapi dia tak announce apa yang dalam kepala otak rakyat sekarang.
 
 [2:29:40] Farhan Iqbal: Baik YB, terima kasih. Assalamualaikum warahmatullah. Selamat malam. Bye-bye.
 
