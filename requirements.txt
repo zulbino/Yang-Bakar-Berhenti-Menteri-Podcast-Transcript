@@ -10,5 +10,10 @@ transformers
 soundfile
 silero-vad
 
+# speaker diarization for local-ASR episodes, see scripts/lib_diarization.py
+# -- needs a Hugging Face token with access to the gated pyannote/speaker-diarization-3.1
+# and pyannote/segmentation-3.0 models (accept terms at huggingface.co for both)
+pyannote.audio
+
 # Claude rewrite fallback (--rewrite-engine claude), see scripts/lib_claude_rewrite.py
 # -- needs the `claude` CLI on PATH (Claude Code), not a Python package

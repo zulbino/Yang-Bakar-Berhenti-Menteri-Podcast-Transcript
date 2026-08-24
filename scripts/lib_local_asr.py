@@ -7,10 +7,11 @@ and plain openai/whisper-large-v3 on this podcast's content -- medium-v2 was the
 reliable of the four, with no repetition-loop hallucinations on a 13-minute clip and
 ~55 minutes of a real episode.
 
-Known limitation: no speaker diarization. Output is `[MM:SS] text` per VAD-derived
-chunk with no speaker label, unlike Gemini's raw transcript which labels each turn.
-Downstream rewrite (lib_gemini.rewrite_clean) will have to infer speakers from
-context alone when working from a locally-transcribed raw.md.
+Speaker diarization is a separate pass via lib_diarization.py (pyannote.audio,
+purely acoustic, no LLM) -- each VAD chunk gets labeled with whichever diarized
+speaker has the most time overlap with it. Output is `[MM:SS] Speaker N: text`,
+matching Gemini raw.md's turn format closely enough for the same downstream
+qa_check.py/rewrite-stage parsing to work unmodified.
 
 Debugging history worth knowing before changing this file's call pattern:
   - On a machine with a second, CUDA-incompatible GPU present (here: an old GTX 970
@@ -46,6 +47,7 @@ import soundfile as sf
 import torch
 from transformers import pipeline
 
+import lib_diarization
 from yt_download import _FFMPEG_FALLBACK
 
 MODEL = "mesolitica/malaysian-whisper-medium-v2"
@@ -118,6 +120,10 @@ def transcribe_raw_local(audio_path, duration_seconds):
     wav_path = _decode_to_wav(Path(audio_path))
     try:
         audio_array, sr = sf.read(str(wav_path), dtype="float32")
+
+        print("  diarizing speakers ...", flush=True)
+        diarization = lib_diarization.diarize(audio_array, sr)
+
         chunks = _vad_chunks(audio_array, sr)
         pipe = _get_pipe()
         print(f"  local ASR: {len(chunks)} chunks to transcribe", flush=True)
@@ -130,7 +136,8 @@ def transcribe_raw_local(audio_path, duration_seconds):
             out = pipe({"array": segment, "sampling_rate": sr}, return_timestamps=True)
             text = out["text"].strip()
             if text:
-                lines.append(f"[{_format_timestamp(start)}] {text}")
+                speaker = lib_diarization.label_for_range(diarization, start, end) or "Speaker ?"
+                lines.append(f"[{_format_timestamp(start)}] {speaker}: {text}")
             if (i + 1) % 20 == 0 or i + 1 == len(chunks):
                 elapsed = time.time() - t0
                 rate = (i + 1) / elapsed

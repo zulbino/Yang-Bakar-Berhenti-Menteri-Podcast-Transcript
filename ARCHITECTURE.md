@@ -82,9 +82,9 @@ The crosstalk entity errors showed up even on the flagship, non-fine-tuned
 generic Whisper-family weakness at overlapping speech, not something specific to one
 model or to Malay/English code-switching.
 
-Local ASR's known limitation: no speaker diarization. Episodes transcribed this way
-have `[MM:SS] text` turns with no speaker label, documented in each file's
-frontmatter `note` field.
+Speaker diarization for local-ASR episodes is a separate acoustic pass (see
+"speaker diarization for local-ASR episodes" under Known Limitations below) --
+`[MM:SS] Speaker N: text` turns, documented in each file's frontmatter `note` field.
 
 ### Raw transcription: hardware
 
@@ -445,29 +445,42 @@ model line in `QA_CHECKLIST.md` until reprocessed.
 
 ## Known limitations
 
-- Episodes transcribed via `--engine local` have no speaker diarization --
-  `raw.md` for these is one undifferentiated stream of text with no "Speaker:"
-  labels at all. The rewrite stage's prompt says to use "the actual speaker
-  names from the transcript," which holds for Gemini-transcribed raw.md (that
-  stage diarizes), but for local-ASR raw.md there's nothing to extract --
-  the rewrite model is inferring who's speaking purely from context (self-
-  reference, question/answer flow, tone), not reading a label. Treat
-  `interview.md`/`interview-en.md`/`interview-ms.md` speaker attribution on
-  these episodes as the model's best guess, not a verified fact, especially
-  in fast multi-speaker exchanges. **Confirmed as a real, not just
-  theoretical, problem**: a Gemini audio spot-check on one episode's opening
-  exchange found the model-inferred rewrite had folded a real Rafizi Ramli
-  line into a generic "Podcast Host" turn -- an actual misattributed quote,
-  not a hypothetical risk. Re-running the raw stage via Gemini on that same
-  episode produced correct diarization (confirmed against the same
-  independent spot-check) and identified 13 distinct named speakers across a
-  3h18m episode, something local-ASR-plus-inference cannot do. A cheaper
-  alternative -- asking Gemini for just a chronological speaker-change list
-  (not a full transcript) to merge onto existing local-ASR text -- was tried
-  and abandoned: this show's speakers change every few seconds, so a
-  speaker-only pass needs roughly as many continuation rounds as a full
-  transcript would, with no real quota saving. The only fix that actually
-  works is redoing the raw stage via Gemini outright.
+- **Fixed, 2026-08-24**: episodes transcribed via `--engine local` previously had
+  no speaker diarization at all -- `raw.md` was one undifferentiated stream of
+  text, and the rewrite stage had to infer who's speaking purely from context.
+  **Confirmed as a real, not just theoretical, problem** before the fix: a
+  Gemini audio spot-check on one episode's opening exchange found the
+  model-inferred rewrite had folded a real Rafizi Ramli line into a generic
+  "Podcast Host" turn -- an actual misattributed quote. A cheaper alternative
+  -- asking Gemini for just a chronological speaker-change list (not a full
+  transcript) to merge onto existing local-ASR text -- was tried and
+  abandoned: this show's speakers change every few seconds, so a speaker-only
+  pass needs roughly as many continuation rounds as a full transcript would,
+  with no real quota saving.
+
+  **The actual fix**: `scripts/lib_diarization.py`, a pyannote.audio pipeline
+  run as a separate acoustic pass on the same audio local ASR already
+  transcribes -- pure voice-embedding clustering, no LLM involved at all, so
+  it's immune to every content-based failure mode found elsewhere in this doc
+  (PROHIBITED_CONTENT blocks, fallback-model degradation, and the per-run
+  label inconsistency confirmed directly on ep13/ep39, where the same real
+  speaker got a different invented name in different Gemini attempts). Each
+  VAD chunk from `lib_local_asr.py` gets labeled with whichever diarized
+  speaker has the most time overlap. Output is anonymous "Speaker N" labels
+  (numbered by first appearance, consistent within an episode since they're
+  real voice clusters) -- still needs a manual naming pass afterward, same as
+  Gemini's own generic labels do, just without the added risk of the label
+  itself drifting between attempts.
+
+  Requires a Hugging Face token with access to 3 gated repos (accept terms
+  for all three, or the pipeline 403s partway through loading):
+  `pyannote/segmentation-3.0`, `pyannote/speaker-diarization-3.1`, and
+  `pyannote/speaker-diarization-community-1` (a transitive dependency not
+  listed on the model card). **Gated-access propagation lag confirmed
+  directly**: the HuggingFace web UI and the `model_info()` API both reported
+  access as granted well before the actual file-download (resolve) endpoint
+  stopped 403ing -- don't trust either of those as proof the pipeline will
+  actually load; the only real test is trying the download.
 - Local ASR proper-noun accuracy (names, unusual spellings) isn't verified against
   any reference dictionary yet -- a manual correction pass is planned, guided by the
   repo owner rather than guessed at automatically. Candidate tooling for that pass:

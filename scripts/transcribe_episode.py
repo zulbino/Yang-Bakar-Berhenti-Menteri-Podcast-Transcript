@@ -10,8 +10,9 @@ Usage: python scripts/transcribe_episode.py <video_id> [--force] [--stage raw|re
 
 --engine local runs the raw stage on-device (mesolitica/malaysian-whisper-medium-v2 +
 VAD chunking, see lib_local_asr.py) instead of the Gemini API -- a fallback for when
-Gemini access is unavailable (e.g. billing blocked). No speaker diarization. Only
-affects the raw stage.
+Gemini access is unavailable (e.g. billing blocked). Speaker diarization is a separate
+acoustic pass (pyannote.audio, see lib_diarization.py), labeled "Speaker N" (anonymous,
+needs manual naming same as Gemini's generic labels). Only affects the raw stage.
 
 --rewrite-engine claude runs the rewrite stage (clean/EN/MS rewrite + metadata) via
 the Claude API (see lib_claude_rewrite.py) instead of Gemini, same fallback reason.
@@ -77,9 +78,10 @@ def process_raw(video_id, force=False, engine="gemini"):
         audio_path.unlink()
         model_used = lib_local_asr.MODEL
         note = ("Raw transcript from the local ASR fallback (no Gemini access), "
-                "mesolitica/malaysian-whisper-medium-v2 with VAD chunking. No speaker "
-                "diarization -- turns are not labeled by speaker. See interview.md for "
-                "the polished newspaper-style rewrite.")
+                "mesolitica/malaysian-whisper-medium-v2 with VAD chunking. Speaker turns "
+                "are labeled via pyannote.audio acoustic diarization (anonymous \"Speaker "
+                "N\" labels, not yet mapped to real names). See interview.md for the "
+                "polished newspaper-style rewrite.")
     else:
         client = lib_gemini.get_client()
         print("uploading audio to Gemini ...")
