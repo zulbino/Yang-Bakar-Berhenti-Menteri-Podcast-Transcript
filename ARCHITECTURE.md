@@ -291,10 +291,17 @@ transcript..."*), abandoning tens of thousands of characters of real content.
 audio, so this failure class isn't possible with the local fallback --
 confirmed on ep60's redo, which produced a normal, verifiably real sign-off
 in place of the fabricated tail. The local engine surfaced a different, much
-smaller-stakes failure of its own on the redo: a ~19s stretch where Whisper
-got stuck repeating "di atas" ~140 times on one noisy stretch of audio (see
-the model-selection table above) -- garbled nonsense, not a fabricated claim,
-hand-collapsed rather than guessed at.
+smaller-stakes failure of its own on the redo: short stretches (typically
+under 20s) where Whisper gets stuck repeating one filler sound or word
+("di atas" ~140x, "mmmm..." runs, "Maksudnya" ~80x) on a noisy or unclear
+patch of audio -- garbled nonsense, not a fabricated claim, hand-collapsed
+to a short reasonable filler rather than guessed at. One instance across the
+redo batch (ep42) was more severe: a full ~4-minute speaker turn came out as
+"T-T-T-T-..." repeated hundreds of times with no recoverable real words --
+genuine content loss, not just an exaggerated filler sound. Left as an
+explicit removal note in raw.md (real gap disclosed, not invented content)
+rather than collapsed to a guessed phrase, since there's nothing in the
+surrounding text to reconstruct it from.
 
 **Detection gap, not yet closed**: no automated check catches invented-content
 fabrication directly (as opposed to its downstream symptoms). ep60 was found by
