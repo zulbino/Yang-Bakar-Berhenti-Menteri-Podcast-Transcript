@@ -172,6 +172,34 @@ same mechanism already used for quota exhaustion and sustained `503`s
 older/different-generation model within the same attempt, instead of exhausting ten
 identical retries against a model that will never produce output for that content.
 
+### Raw transcription: duplicate-block hallucination in long-episode continuations
+
+`transcribe_raw`'s continuation loop asks the model to "continue from where you left
+off" across multiple rounds for long episodes, judging progress purely by the last
+`[MM:SS]` timestamp emitted. That heuristic has a blind spot: if the model backtracks
+and re-emits an already-covered passage under new, fabricated timestamps instead of
+truly continuing, timestamps still climb, so the coverage check reports success while
+the content silently repeats. The existing runaway-timestamp check (previous section)
+only catches this when the fabricated timestamps overshoot the real episode duration
+-- it missed cases where the repeated block's fake timestamps stay in a locally
+plausible range.
+
+Found by manually cross-checking a raw.md against YouTube's own auto-generated
+captions (`yt-dlp --write-auto-subs`) after a speaker name only appeared in the
+captions, not the transcript -- the surrounding ~1,600-word passage turned out to be
+duplicated verbatim at three different timestamps in the raw.md. A repo-wide scan
+then found the same pattern in 22 of 67 episodes, one with 764 duplicate blocks
+(~396,000 characters, 43% of that file). Several already-flagged "interview.md looks
+truncated" entries turned out to be a side effect of this: the ratio check looked
+catastrophic partly because `raw.md` was artificially bloated with duplicates, not
+because the rewrite was actually that incomplete.
+
+**Fix**: `qa_check.py` now flags any long block (300+ chars, past the length a
+naturally short recurring reaction like "Ya" or "Baik" would hit) that repeats
+verbatim at a different timestamp. This is a detection fix, not a generation fix --
+the continuation loop itself doesn't yet dedupe or reject repeated content during
+transcription; affected episodes need their raw stage redone.
+
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
 The rewrite stage originally only used Gemini. When Gemini's account-level billing
@@ -203,21 +231,23 @@ rather than any one key or project), a fallback provider was needed here too.
 
 ## Why a clean exit code isn't enough
 
-This pipeline has produced five distinct bugs that returned exit code 0 with no
+This pipeline has produced six distinct bugs that returned exit code 0 with no
 visible error, while quietly corrupting or skipping output: a free-tier quota check
 that never matched its target string, a transcript-wiping edge case in fragment
 trimming, hallucinated runaway timestamps that satisfied a naive coverage check,
-missing paragraph breaks that silently bypassed text chunking, and an argument-parsing
-bug that made a 17-episode batch process zero episodes. None of them raised an
-exception.
+missing paragraph breaks that silently bypassed text chunking, an argument-parsing
+bug that made a 17-episode batch process zero episodes, and a continuation-loop
+hallucination that duplicated whole passages under fabricated timestamps that stayed
+within a plausible range (previous section). None of them raised an exception.
 
 That's why `scripts/qa_check.py` exists, and why it's worth running (and reading
 `QA_CHECKLIST.md`, not just the exit code) after every batch. It checks for all of
 the failure signatures found so far: timestamp coverage against episode duration,
-wall-of-text blocks with no paragraph breaks, rewrite files disproportionately short
-against their raw transcript, leaked model reasoning in place of transcript content,
-and inconsistent turn formatting. It also cross-references `data/manifest.json`
-against the `episodes/` folder to flag episodes that were never processed at all.
+wall-of-text blocks with no paragraph breaks, duplicate blocks repeated at different
+timestamps, rewrite files disproportionately short against their raw transcript,
+leaked model reasoning in place of transcript content, and inconsistent turn
+formatting. It also cross-references `data/manifest.json` against the `episodes/`
+folder to flag episodes that were never processed at all.
 
 Every output file's frontmatter also records which model actually produced it
 (`model:`), and `qa_check.py` flags any file made by one of the fallback chain's

@@ -5,6 +5,9 @@ Checks per episode:
     (catches incomplete transcription and hallucinated runaway timestamps)
   - raw.md has real paragraph breaks between turns, not one wall-of-text block
     (catches the missing-"\n\n" bug that silently bypasses chunking)
+  - raw.md doesn't repeat the same long block verbatim at different timestamps
+    (catches a continuation-loop hallucination that still passes the timestamp
+    coverage check since the fabricated timestamps stay in a plausible range)
   - interview.md / interview-en.md / interview-ms.md exist and are not
     disproportionately short vs raw.md (catches the resulting truncated rewrite)
   - raw.md doesn't contain leaked model reasoning ("the prompt") or backtick-
@@ -69,6 +72,20 @@ SPLIT_TIMESTAMP_RE = re.compile(r"^\[((?:\d+:)?\d+:\d+)\]\s*\n(?=[A-Z][\w .'-]{0
 MALAY_MARKERS = (" yang ", " dan ", " saya ", " kita ", " itu ", " ini ", " tak ", " dengan ", " kepada ", " juga ")
 MIN_MALAY_DENSITY = 1.0  # marker hits per 1000 chars, for files claiming language: mixed/ms
 
+# The continuation loop in lib_gemini.py's transcribe_raw asks the model to
+# "continue from where you left off" across multiple rounds for long episodes,
+# judging progress by the last timestamp emitted. When the model backtracks and
+# re-emits an already-covered passage under new (fabricated) timestamps instead of
+# truly continuing, that heuristic still looks satisfied -- timestamps keep
+# climbing -- so it passes silently. Confirmed directly: one episode had the same
+# ~1,600-word passage repeated verbatim at three different timestamps. The runaway-
+# timestamp check above only catches this when the fabricated timestamps overshoot
+# the real duration; a duplicate block whose timestamps stay in a locally-plausible
+# range needs its own check. 300 chars is long enough that identical repeats are
+# hallucination, not a naturally short recurring reaction ("Ya", "Baik").
+DUPLICATE_BLOCK_MIN_CHARS = 300
+SPEAKER_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*[^:]*:\s*")
+
 MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
 # Bottom of the fallback chain, only reached once every better model is exhausted or
 # down -- confirmed prone to silently dropping code-switched content (see
@@ -95,6 +112,23 @@ def malay_density(text):
     lowered = text.lower()
     hits = sum(lowered.count(marker) for marker in MALAY_MARKERS)
     return hits / len(lowered) * 1000 if lowered else 0
+
+
+def duplicate_blocks(body):
+    seen = set()
+    dup_count = 0
+    dup_chars = 0
+    for block in body.split("\n\n"):
+        block = block.strip()
+        if len(block) < DUPLICATE_BLOCK_MIN_CHARS:
+            continue
+        key = SPEAKER_PREFIX_RE.sub("", block, count=1)
+        if key in seen:
+            dup_count += 1
+            dup_chars += len(block)
+        else:
+            seen.add(key)
+    return dup_count, dup_chars
 
 
 def check_episode(ep_dir):
@@ -130,6 +164,15 @@ def check_episode(ep_dir):
     max_block = max((len(b) for b in blocks), default=0)
     if max_block > MAX_BLOCK_CHARS:
         issues.append(f"raw.md has a {max_block}-char block with no paragraph breaks (wall-of-text)")
+
+    dup_count, dup_chars = duplicate_blocks(body)
+    if dup_count:
+        pct = dup_chars / len(raw_text) * 100 if raw_text else 0
+        issues.append(
+            f"raw.md has {dup_count} duplicate block(s) repeated verbatim at different "
+            f"timestamps ({dup_chars} chars, {pct:.0f}% of raw.md) -- likely a "
+            "continuation-loop hallucination, not a transcription error"
+        )
 
     if LEAKED_REASONING_RE.search(body) or BACKTICK_TIMESTAMP_RE.search(body):
         issues.append("raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content")
