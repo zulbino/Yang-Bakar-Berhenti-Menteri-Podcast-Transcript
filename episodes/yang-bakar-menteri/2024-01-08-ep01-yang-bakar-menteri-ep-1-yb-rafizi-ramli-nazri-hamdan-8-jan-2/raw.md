@@ -15,445 +15,223 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [music/intro]
 
-
-
 [02:26] Najib: Assalamualaikum, salam sejahtera. Saya Najib Bakar, kita ke episod pertama Yang Bakar Menteri. Yes, kelakar tak? Kelakar.
-
-
 
 [02:37] Rafizi: Tak kelakar.
 
-
-
 [02:39] Najib: Jadi macam macam YB letak di poster sosial media kan? Nama Rafizi Ramli dan Nazri Hamdan. Tiba-tiba siapa mamat seorang ni kan? Tak, saya bertugas malam ni sebagai moderator lah. Lebih kurang macam tulah. Apa khabar YB?
-
-
 
 [02:54] Rafizi: Penatlah, pukul 8:00 penat malam dah.
 
-
-
 [02:56] Najib: Boleh boleh. Kita bersiaran live eh. Ni live eh bukan recording eh. Okey apa khabar saudara Nazri?
-
-
 
 [03:00] Nazri: Baik baik, terima kasih.
 
-
-
 [03:02] Najib: Dari mana?
-
-
 
 [03:02] Nazri: Daripada Johor Bahru.
 
-
-
 [03:03] Najib: Daripada Johor Bahru?
-
-
 
 [03:04] Nazri: Ya, saya ke sini pada malam ni.
 
-
-
 [03:06] Najib: Semata-mata nak bakar menteri?
-
-
 
 [03:08] Nazri: Tak ada program lain. Tadi siang dan malam ni saya ke sinilah.
 
-
-
 [03:14] Najib: Okey okey okey. Alright. Jadi kita malam ni kita panggil Nazri ni sebab yalah dah nama pun program Yang Bakar Menteri. Kita sebenarnya minta Nazri ni nak bakar YB Rafizi Ramli lah. Ada juga yang komen di sosial media YB. Dia kata, "Alah panggil geng-geng dia juga kan? Bakar mende? Ni borak aje." Tak tak sebenarnya. Bila saya perhati content saudara Nazri eh YB eh, ada juga dia bersifat kritikal terhadap kerajaan. Jadi kita nak dia suarakan kritikal tu malam nilah, macam mana. Jadi okey, kita start malam ini saya nak bawa tanya YB dulu dengan saudara Nazri berkaitan hutang negara. Okey. Hutang negara bila kita tahu politician lah YB eh, sebelum pilihan raya ni dia selalu sebut yalah selalu jadi kempen politik lah. Hutang negara macam ni macam tu, banyak ni macam tu. Jadi YB ada perasan perbezaan tak bila di luar kerajaan dan bila masuk adakah situasi tu gambaran yang sama ke ataupun macam mana?
-
-
 
 [04:20] Rafizi: Salam tak bagi, tanya tak bagi, terus tanya soalan.
 
-
-
 [04:23] Najib: Terus dia tanya soalan.
-
-
 
 [04:25] Rafizi: Taklah apa soal hutang ni kita di luar dia tak banyak sangat beza dengan kita di dalam semasa mentadbir lah. Maksudnya satu ialah jumlah hutang dari semasa ke semasa, bulan-bulan, tahun ke tahun kan. Satu lagi ialah dari segi trajektori. Maksudnya unjuran hutang dan pola hutang itu bagaimana. Dan tidak ada siapa-siapa yang boleh menafikan kalau tidak dilakukan sesuatu, memang hutang itu akan terus berganda dan berganda dan berganda. Yang itu duduk kat dalam pun kita tahu, duduk kat luar pun kita tahu. Kerana setiap tahun kerajaan akan membentangkan penyata kira-kira di Parlimen sebelum belanjawan kan. Bezanya duduk di dalam hanya satu, kita tahu perincian hutang-hutang yang perlu dibayar dan juga projek-projek kerana setiap hutang atau projek ataupun perkara-perkara yang telah diputuskan lebih awal itu, dari segi cash flow bayarannya bayaran hutang itu berbeza-beza. Dia bukan macam perbelanjaan itu atau bayaran itu konsisten setiap tahun. Ada hutang yang diambil 7 tahun dulu mula sebab saya tak pasti, mungkin ramai yang yang ini saudara Nazri nanti dia buat podcast dialah. Hutang ni selalunya dia tak sama macam kita mortgage kita. Kita ambil mortgage, pinjaman rumah, katakanlah kita beli 500,000, kita dah tahu terus dah tiap-tiap bulan kena bayar bayar berapa kan. Hutang kerajaan ini sebahagian besarnya adalah melalui bon. Dan bon ni ada beberapa bentuk bon. Dan yang selalunya bon ini ialah untuk beberapa tahun tu kita bayar kupon aje, kita bayar interest aje. Dan tiba-tiba dia ada satu bayaran yang besar. Yang itu yang bergantung kepada jadual pembayaran. Dan bila berada di dalam yang itulah yang kita ada maklumat yang lebih. Kenapa tahun ini naik sikit, tahun depan kurang sikit.
 
-
-
 [06:46] Najib: Itu maksudnya masa tu bon tu mature ke YB?
-
-
 
 [06:48] Rafizi: Bon tu mature. Dan sebab itu kalau saya tahulah angle soalan hutang ni selalunya orang tanya secara mudahnya dia akan nampak kenapa bila kerajaan ni naik, pentadbiran ni naik, hutang naik naik naik naik kan? Sebahagiannya itu betullah atas keputusan pentadbiran masa itu. Tapi banyaknya juga ialah untuk membayar hutang-hutang yang telah diambil 7 tahun, 10 tahun yang lepas kerana maturity dia sampai kepada pada tahun itu kan. Itu juga ada sebab kenapa tahun ini kadang-kadang kedudukan fiskal lebih baik, tahun depan kurang sikit kerana dia bergantung kepada bullet payment itu. Tapi yang penting bagi sayalah kalau kita nak uruskan keseluruhan soal hutang ini, selain daripada kita menguruskan aliran tunai tiap-tiap tahun itu, ialah trajektori kita. Kita dah tahu kalau sesuatu ini tidak dibuat maka hutang itu akan terus bertambah sampai bila-bila. Dan saya lebih fokus kepada perkara itu kerana kita tahu sasaran kita. Defisit kena turun masa ini untuk masa 2025 contohnya mesti mencecah antara 3 ke 3.5% kerana pada ketika itulah pada unjuran kita, ia akan mula mengurangkan terbitan hutang dan juga bayaran interest hutang tiap-tiap tahun.
 
-
-
 [08:14] Nazri: Okey. YB, ada satu isu lah yang dimainkan dekat sosial media. Saya dah bagi pandangan saya YB eh. Dia macam ni YB eh. Kita tahulah hutang kita ni memang sentiasa bertambah semenjak daripada tahun 1998 eh, sampai ke sekarang dah 25 tahun kita defisit. Jadi hutang tu akan bertambah setiap tahunlah. Jadi yang saya nak tanya YB pada malam ni, ada satu isu lah dekat sosial media ni yang dimainkan bahawa pada tahun 2023, mereka mendakwa bahawa hutang telah naik sebanyak 104.1 bilion. Untuk pengetahuan penonton semualah eh, macam mana dia dapat angka ni, dia ambil data daripada Bank Negara, dia ambil bond issuance sepanjang tahun 2020 22 and then dia ambil bond redemption, dia minus dia dapat perbezaan tu, dia dapatlah 104.1 bilion. Di dalam TikTok saya, saya dah saya dah buat satu calculation, saya dah test this method YB eh. Saya test calculation yang sama, saya dah buktikan bahawa pada tahun 2021 dan 2022 tu tak sama. Maksudnya calculation ni tak betullah. Cuma yang saya tak boleh jawab YB, berapa exactly hutang kita bertambah pada tahun 2023. Jika benarlah dia meningkat lebih daripada 100 bilion which is is extremely high YB. Sebab during pandemik pun kita masa tu kita buat stimulus package pun tak sampai tak lebih daripada 100 bilion. Jika benarlah hutang kita naik lebih daripada 100 bilion untuk tahun lepas, dekat mana perbelanjaan tu banyak? Dan kalaulah ia tidak sampai 100 bilion, boleh tak YB bagi estimate figure berapa sebenarnya yang naik tu?
-
-
 
 [10:01] Rafizi: Yang itu kena check mana I have to admit this tau, apa ni soal macam saya sebut tadi kan soal hutang 100 bilion ke apa semua ni. Rujukan kita mestilah kepada penyata kewangan negara yang dibentangkan semasa belanjawan. Belanjawan. Jadi saya tak ingat dalam belanjawan dari segi pertumbuhan di 100 the exact number and so on. Cuma di peringkat kerajaan eh, soal pengurusan hutang ni again dia tak sama contohnya dengan cara kita faham hutang apa nama ni yang yang kita hadapi isi rumah kitalah kan. Maksudnya tiap-tiap tahun kita tiap-tiap bulan tu dah kita ada fix berapa kena bayar. Satu, soal terbitan hutang. Sometimes we refinance. Kalau contohnya rating lebih baik, kita refinance. Sometimes kita kena redeem hutang yang lama-lama. But yang yang lagi penting ialah kalau di peringkat kerajaan, because even this hutang defisit semua kan, saya tak rasa contohnya eh, there is a definitive rule that kalau surplus itu bagus sepanjang masa, pun tak betul. Of course kalau continuously high defisit to the point that kita dah mula mengambil sebahagian besar operating expenditure itu untuk bayar interest, that is not good. Jadi contohnya eh, kita ada siling, amalan yang terbaik ialah debt service charge kita tidak boleh melepasi 15% daripada OE kita kan. Jadi dari segi
 
-
-
 [11:51] Nazri: Debt service charge ni interest lah YB?
-
-
 
 [11:53] Rafizi: Interest lah interest. Debt service charge tu maksudnya interest lah kan. Jadi dia tak boleh lebih daripada 15% OE kita kan contohnya. Jadi kalau kita terlalu terikat contohnya dia mesti surplus sepanjang masa, dia mesti dan tak boleh langsung ada defisit, pun tak betul juga. Kerana kita perlu berbelanja untuk pembangunan kan. Jadi I have to admit sebenarnya kalau saya tanya saya bulan ni berapa, bon berapa, saya pun saya kena tanya MOF sebenarnya. Let me get the the details kan. Jadi I can't recall on top of my head sebenarnya what is exactly the exact on the dot hutang untuk 2023. And there is no the the definitive number itu hanya akan di apa nama ni dikeluarkan mungkin beberapa bulan lagi kerana kita baru close 2023. So whatever number yang kita ada dan dibentangkan di Parlimen itu, itu adalah unjuran at that particular time for 2023. Most probably penyata yang menyatakan hutang definitif kita untuk tahun 2023 itu hanya akan keluar untuk quarter 1 2024. Baru kita nampak kan. Jadi kalau saya hanya
 
-
-
 [13:26] Nazri: Lepas tu kan dia audit juga?
-
-
 
 [13:28] Rafizi: Lepas tu dia akan diaudit. Sebab yang itu memang diaudit, dia keluar kan. Jadi sebab itu apa nama ni kalau ditanya sekarang berapa hutang semua, kita nak tengok bon semua tu, I think it does help, it does give an indication, betul. Tetapi pada masa yang sama dia perlu juga diambil dari segi masa yang lebih panjang itu. Sebab itu the trajektori tu penting yang kita sebut sebagai deficit glide itu mesti berlaku. Dan year after another barulah kita boleh tengok sama ada bajet contohnya eh yang akan dibentangkan untuk 2025 ini, bajet itu akan ada more definitive number 2023, unjuran 2024. Then if it stays within the band of the budget, then at least we can take comfort that sebenarnya it is happening as we planned.
 
-
-
 [14:23] Nazri: Jadi boleh tak kita mengharapkan at least dengan apa yang government buat pada hari ini nak reduce defisit, kita faham. Adakah akan sampai satu poin ataupun tahun dalam masa terdekat nanti kita akan berjaya at least mencapai surplus tu semula?
-
-
 
 [14:40] Rafizi: It is actually doable within Okey soalan itu pun Nazri eh, sebab itu saya saya tak tak commit okey nak surplus, you know it has to be surplus. Because we can reach surplus defisit contohnya by 2026 tapi kita cut lah development expenditure. Kan? Jadi the moment kita dah sampai ke defisit antara 3 ke 3.5% in 2025, that that's what we think we are comfortable. Because that number is the inflection point yang mana hutang kerajaan akan mula menurun towards 2028. For the first time kita akan mula merasakan bahawa hutang kerajaan because it's going up, dia akan plateau dan dia akan mula menurun kan. Tapi kalau semata-mata sasaran kita ialah untuk mengurangkan defisit sampai dia jadi surplus, boleh je dibuat by 2026 tu. Tapi maksudnya kita kena kurangkan belanja development expenditure lah. Kerana development expenditure ini yang dibiayai melalui hutang kan. So on that basis sebenarnya untuk dapat surplus bajet by beyond 2028 tu, sebenarnya possible lah. Barring kalau tidak ada sebarang economic crisis besar yang menyebabkan eh, tak ada COVID sekali lagi ke, that's the glide tu will allow for it. Tetapi sama ada decision itu kita nak capai surplus defisit ke tidak, itu perlu dipertimbangkan dengan rancangan-rancangan pembangunan yang kerajaan adalah. Kita akan bangunkan RMK-13, perbelanjaan untuk tahun 2026 sampai 2030.
 
-
-
 [16:31] Nazri: YB, dalam RMK-13 boleh saya tanya, sekarang ni kan kita dah pergi kepada I think 90 bilion development expenditure. Adakah akan ditambah lagi dalam RMK ke-13?
-
-
 
 [16:43] Rafizi: You know, you are putting the cart kerana saya nak commit to dia dia tak sama macam politician di luar yang tidak di dalam diikat dengan keputusan kerajaan. My view is kita kena terus tambah perbelanjaan pembangunan. Tapi itu sudah tentu perlulah di dikaji juga oleh keseluruhan jabatan-jabatan dan kementerian yang lain. But my view is kalau sekarang ini 90 bilion itu pun agak misleading. Sebab 90 bilion itu termasuklah hutang-hutang yang kita kena tanggung.
 
-
-
 [17:25] Nazri: Dia termasuk hutang? 90
-
-
 
 [17:26] Rafizi: Ada hutang dalam 90 bilion tu.
 
-
-
 [17:27] Nazri: Hutang apa YB? Boleh sebut?
-
-
 
 [17:31] Rafizi: Contoh-contoh yang lepas-lepas, hutang 1MDB semua tu.
 
-
-
 [17:33] Nazri: 1MDB? Yes, saya ada terbaca. Dia dia cakap dia masukkan hutang 1MDB dalam development expenditure. Saya terfikir betul ke tidak. Jadi malam ni YB dah jawab.
-
-
 
 [17:42] Rafizi: Dia sama juga contohnya untuk projek-projek besar macam ECRL semua tu, dia masuk dalam tu. Termasuk juga sebahagiannya macam sebahagian daripada Pan Borneo masuk dalam tu kan. Jadi the actual development expenditure yang berada di dalam 90 bilion itu ialah sekitar 50% lebihlah. Jadi on that on that perspective, kalau tanya sayalah, sudah tentu kecenderungan kita ialah untuk meneruskan pertambahan development expenditure. Dan kalau tengok dalam Financial Responsibility Act yang kita dah bentangkan di Parlimen, komitmen kerajaan ialah sekurang-kurangnya 3% GDP development expenditure setiap tahun. At least at least 3%. Jadi kita kena tengok GDP kita masa itu dan juga dari segi pilihan sama ada kita nak kalau pun kita nak kurangkan defisit ataupun nak tunjukkan bajet surplus, dia tidak boleh memotong belanja pembangunan sampai turun daripada komitmen itu. So dia ada banyak parameter-parameter ni yang kita kena navigate.
 
-
-
 [18:58] Nazri: Itulah dilema kita sekarang ni YB. Kalau saya nampak kan, kita punya development expenditure dah hampir sama dengan subsidi punya allocation. So it's not good for the country. So macam tulah, kena balance kan.
-
-
 
 [19:11] Najib: Tapi saudara Nazri berpuas hati ke dengan jawapan YB tadi ni?
 
-
-
 [19:14] Nazri: Saya puas hati, cuma saya terkejut bila YB kata not necessarily kesemua development expenditure bajet yang 90 bilion tu digunakan untuk development.
-
-
 
 [19:24] Rafizi: Dia banyak tanggungan-tanggungan yang because you see definisi belanja pembangunan ini ialah apa nama dia untuk pembangunan. One can argue that contohnya projek-projek besar MRT, ECRL semua ni juga adalah pembangunan. Jadi dia tanggungan itu memang masuk sebahagiannya sebagai development expenditure. Itu yang kita terangkan berkali-kali di Parlimen. Saya sebenarnya dah jawab dan saya terangkan di Parlimen bahawa kita ada DE asas dan DE bukan asas. Yang bukan asas tu termasuklah juga tanggungan-tanggungan yang mengekangkan kalau contohnya kita umumkan 90 bilion, bukan semua 90 bilion itu dapat diterjemahkan terus kan. Which is a waste. Sebab itu menyelesaikan masalah hutang tanggungan yang lepas-lepas ni, dia akan membantu generasi akan datang kerana peruntukan itu lebih banyak yang akan sampai kepada projek-projek rakyat.
 
-
-
 [20:26] Najib: Benda-benda macam tu yang kita kat luar ni tak berapa faham kan?
-
-
 
 [20:29] Nazri: Ya, kita tak berapa faham. So at least kita nampaklah gambaran dia macam mana. 50% tu banyaklah bagi bagi bagi kami.
 
-
-
 [20:36] Nazri: Pada saya, saya shocking. Nampak terlalu tak sangka dia naikkan 90 bilion sebab 50% aje disalurkan ke
-
-
 
 [20:44] Rafizi: Well, I think we reach untuk untuk 2024 kita telah berjaya ya we keep pushing lah supaya kita tangani masalah tanggungan itu dengan lebih baik supaya dari setahun ke setahun jumlah DE asas yang dipanggil tu betul-betul pergi projek tu naik lebih daripada yang bukan asaslah. Jadi untuk 2024 tu kita dah naik sedikitlah, 52-48. Jadi ada lebih lebih 52% itu, itu betul-betul DE asas. Yang lain itu kita kena manage yang kita warisi daripada yang lepas-lepaslah.
 
-
-
 [21:24] Nazri: Okey.
-
-
 
 [21:25] Najib: Tak terbakar lagi ni. Betul tu ah. Tapi yalah, bila sebut pasal development apa ni hutang-hutang yang dibuat oleh kerajaan kerajaan terdahulu ni kan, kadang-kadang dia berkaitan dengan isu politik jugalah, tak boleh nak nafikan kan. Tapi macam mana YB handle benda-benda macam tu dengan kerajaan perpaduan sekarang? Dengan keadaan kita kerajaan perpaduan ni dengan pelbagai parti ni? Macam mana nak handle?
 
-
-
 [21:50] Rafizi: Well, hutang is hutang.
-
-
 
 [21:52] Najib: Ada tak macam dia orang cuba kata, "Eh tak tak perlu nak cerita sangatlah benda-benda"?
 
-
-
 [21:57] Rafizi: Tak adalah, tanggungan kita tanggungan kitalah. Dan saya pun ambil pendirian yang kita you know we signed up for the job and there is a problem. So there's no point to harp on it too much. Then we just have to focus and make sure the plan to turn around is implemented properly. Itu sajalah. Tapi pada masa yang sama, kalau ditanya dan the fact is the fact. Faktanya adalah faktalah. Cuma di peringkat kerajaan, saya ingat semua orang faham kan. Dan asalkan kita tidak mencuci tangan dan maksudnya kita ambil alih, kemudian atas kerana kita mewarisi masalah jadi kita tak nak buat apa-apa ataupun kita tak menjawab langsung kerana itu bukan masalah aku, and then tak bolehlah. I think we we inherit the problem. Normal lah kita inherit the problem. Tapi sasaran itu dan perkara-perkara yang kita kena buat itu, sebab itulah kita kena buat penyasaran semula subsidi, benda-benda yang penat semua ni.
-
-
 
 [23:10] Najib: Hah tu penyasaran semula subsidi tu sat lagi kita sampai. Tapi ada saya rasa ada beberapa soalan yang saudara Nazri cuba nak tanya.
 
-
-
 [23:16] Nazri: Saya cuba nak tanya, kita keluar sikit daripada topik hutang ni. Saya nak tanya pasal GST, YB. Dulu YB semasa YB jadi pembangkang, saya ingat ada satu kempen tolak GST. Minta maaflah kalau saya silap. YB adalah antara yang dan saya baca artikel YB. Saya masa tu follow YB, saya baca betul-betul kenapa kita kena tolak GST. Okey, fine lah kan. Jadi kita dah revert balik daripada pada tahun 2018 eh, kita kembali balik kepada SST. Betulkan juga kalau saya salah, kita adalah satu-satunya negara dekat dunia ni yang buat macam tu. Now, pada hari ini pula kita dengar eh kerajaan perpaduan kata we are open to implement GST. So maksudnya GST tu tak salahlah. Maksudnya GST tu betullah kita implement. Jadi apa beza implement GST pada pentadbiran dahulu dan sekarang ni pula kerajaan perpaduan kata eh, boleh pula? Apa beza kita implement sekarang dengan implement
-
-
 
 [24:19] Najib: Adakah cuma menjadi senjata politik? Kan satu soalan tu kan?
 
-
-
 [24:24] Rafizi: Yang ini akan dia dia dia saya akan jawab dengan panjang eh. So tarik nafas panjang. First, I think kita kena tengok secara akademik kenapa secara umumnya teorinya banyak ahli ekonomi merasakan bahawa GST itu berkesan. GST berkesan mengikut kedudukan dan juga apa ni tahap pembangunan dalam sesebuah negara. I mean let's let's get the the philosophy of GST dahulu sebelum kita sampai ke yang itu kan. Apakah bentuk-bentuk negara yang sesuai untuk GST? Ini yang orang menjawab 100 lebih negara di dunia ni mengguna GST, VAT kan. Satu ialah negara-negara yang ekonominya itu belum matang dan sebahagian besar rakyatnya tidak boleh membayar cukai kerana dia hidup kais pagi makan pagi. Jadi there is no concept of assess income. Kerana employment dia pun tak ramai yang dalam formal sektor, business dia pun tak mature. But government kena kutip cukai. Jadi cara yang terbaik apa dia? Kita buat GST lah. Supaya setiap orang itu sebab dari segi tahap sosioekonomi dia tu lebih kurang sama. So when you implement GST, maka orang lebih kurang semua akan menanggung beban cukai yang sama kan sebab dia tak ada beza sangat. So you have the poorest countries banyak yang pakai GST lah. On the other extreme of GST implementation ialah negara yang memang sudah maju. Jadi dari segi taxation sistem dia, majoriti memang sama ada dah formal sektor, dia ada payroll, dia memang dah bayar income tax ataupun business dia tu memang sudah ada dalam tax system. Jadi bagaimana cara yang kerajaan boleh memastikan kutipan cukai itu lebih teratur dan lebih cekap tanpa membebankan birokrasi yang besar sangat. Masalah income tax ni kerana dia based on assessment. Jadi dia banyak risiko tax evasion, tax avoidance kan. Jadi bagi negara-negara berikut dan sebab itu banyak negara maju yang ada GST eh, mereka menggunakan GST kerana assessment and the birokrasi to collect the tax to is much simpler and much more efektif kerana dia akan menurunkan income tax or corporation tax dan dia naikkan GST. Tapi the actual tax burden to is equitable. Now, masalah Malaysia ialah kita berada di tengah-tengah. Maksudnya kita ada 40% yang masih lagi di dalam sektor informal. Mereka memang tak bayar cukai pun sebelum ini kan. Jadi the first philosophical question yang kita perlu jawab, adakah dengan melaksanakan GST ini kita berlaku adil dengan atau adakah kita mampu memastikan beban cukai itu kekal sama selepas dan sebelum dan selepas GST kepada setiap keluarga. Now in 2013-14 semasa soal GST ni timbul kan, subsidi kita lebih kurang subsidi minyak kitalah is it in between 5 to 8 billion. Dia tak sampai 80 billion macam sekarang kan. Kemudian latar belakangnya juga ialah kita berdepan dengan banyak masalah tatakelola sebelum itu kan. Dan kita juga tahu bahawa amalannya ialah bila sesebuah kerajaan melaksanakan GST dan dia bermula pada kadar tertentu, tak adalah yang menurunkan kadar, semua dia naiklah. Dia bermula 6%, kemudian mudah untuk kerajaan kalau nak cover bajet sikit dia naikkan lagi 8%, dia naik lagi 10%. That's how it works all over the world. In reality. That's why GST
-
-
 
 [28:47] Nazri: But people always say that in their perception, okey kalau economic recession, kerajaan turunkan boleh turunkan GST. It's adjustable, but in practical
 
-
-
 [28:56] Rafizi: It's practical Naiklah. tak adalah negara di dunia ini yang menurunkan GST. Sebab itu dia bermula dengan below 10% bagi negara-negara yang bermula tahun 60-an, by now dia dah jadi 30%, 25% kan? Okey. Itu juga satu perkara yang dicey when it comes to Malaysia. Kerana oleh kerana paras gaji kita ini sebenarnya rendah and we know that by now lah. Yang itu tak payahlah tak payah kita argue lah. Kita tahu paras gaji pekerja-pekerja kita ni rendah kan. Kita tidak ada mekanisma untuk mengenakan cukai GST dan menurunkan income tax rate macam negara lain yang akan memberi manfaat kepada sebahagian besar keluarga. Kerana memang dia tak bayar, dia memang income dia memang dah low pun. Jadi bila kita ambil dalam 2014, 2015 contohnya kan, dalam suasana yang kedudukan fiskal negara itu tidaklah dibebankan dengan subsidi yang ada macam sekarang. You are talking about 8 5 to 8%. Sorry, 5 to 8 billion subsidi kan. Dalam keadaan kita berdepan dengan tatakelola masalah 1MDB yang paling besar yang lubang banyak kita nak tutup ini, dan juga dalam keadaan yang I think conclusively we can say
-
-
 
 [30:22] Nazri: YB sekejap eh. Tahun ni kita ada bayar hutang 1MDB ke?
 
-
-
 [30:24] Rafizi: Ada, ada, ada. Tahu dik. Saya pun dah hutang banyak sangatlah. Kita masih bayar hutang 1MDB tahun ni kan. Jadi in 2015 tu kan dan juga dengan berlatarbelakangkan we can conclusively say that oleh kerana tahap gaji negara, pendapatan isi rumah tu, when we implement GST in terms of equitable taxation, kita memindahkan beban cukai itu kepada keluarga yang lebih yang sepatutnya tak bayar cukai. That was the basis for it. Sebab ada perkara-perkara lain lagi yang boleh dibuat untuk kita memperkukuhkan our revenue. Okey ya. Dan perkara itu sebenarnya saya ingat daripada 2015 hingga ke 2022 sekarang, ada fakta-fakta yang menjadi asas yang kita perlu ambil kira sama ada kita nak buat GST ke tidak kan. Okey now, apa masalah kita sekarang ini yang menimbulkan balik cerita GST cerita GST ni kan? Satu ialah dari segi kutipan cukai. Hasil bercukai sebagai percentage kepada GDP, kita ni antara negara ketiga atau keempat paling rendah di Asia Tenggara. Our our tax revenue as a percentage of GDP is between 11.3 to 11.7%. Kita atas sikit kita ataslah berbanding dengan Laos, berbanding dengan I think Indonesia sedikit. Tapi negara-negara lain tu lagi tinggilah. Jadi secara makronya eh, sudah tentu economists will say, "Look you know, your your your tax revenue as a percentage of your GDP is actually very low. You should push it up to 12%, 13% kan." And obviously cara yang paling mudah ialah mengenakan cukai kepada semualah which is consumption tax. Sebab itu perkara ini diulang berkali-kali dan menjadi tumpuan especially to the analyst, the market, dan juga kepada apa nama ni economists lah. Now, kita perlu teliti sama ada adakah itu satu-satunya jalan untuk kita memperkukuhkan kedudukan fiskal kita? Bila saya kata kita terbuka, maksudnya I think we rather be agnostic whether whatever ways untuk kita perkuatkan our tax revenue. Tapi it doesn't happen in isolation. GST bukan GST is not a silver bullet. You have to fix all the other things kan. Dan kita akan dipandu kepada beberapa prinsip yang utama. Pertama, we really have to be careful mengenai equitable. Equity-nya. Adakah kita akan memindahkan beban itu kepada orang yang lebih miskin? That is I think panduan kita yang pertama eh. Yang kedua, kita juga kena tengok dollars and cents. Contohnya eh, GST menjelang 2018 kutipannya 41 bilion. Tetapi itu tak campur tax refund yang lebih kurang 19 bilion. So if you take the net GST punya collection selepas refund, dia sekitar 30 bilion lah on average every year.
-
-
 
 [34:01] Nazri: Lebih kurang sama dengan SST sekarang.
 
-
-
 [34:03] Rafizi: Which is lebih kurang sama. Oh SST dah pun Lebih sikit. Lebih sikit sekarang kan. Jadi sedangkan SST itu hanya dikutip daripada percentage yang jauh lebih sedikit berbanding dengan GST yang dikutip daripada semua rakyat. Sebab itu setakat ini kalau dilihat pendirian kerajaan ialah kita akan cuba sedaya upaya untuk mengelakkan beban cukai ini dikenakan kepada setiap rakyat. Kalau kita boleh kenakan kepada orang yang kaya dulu, baik cukai barangan mewah ke, baik capital gains tax ke, baik penjimatan, baik penyasaran semula subsidi, we'll do that first. Kerana itu juga akan menyumbang kepada kekuatan fiskal kita. But at the same time, ya, kita pun tak nak politicize to the point that we are closed. This one ni tak boleh langsung. Jadi sebab itu bila saya ditanya, saya kata we are agnostic. Tapi kita akan dipandu oleh semua perkara-perkara ini dan setakat ini kalau dilihat, kenapa sampai sekarang GST tidak dilaksanakan? Kerana kita rasa ada banyak lagi kaedah-kaedah yang boleh kita terokai dan laksanakan untuk memperkukuhkan kedudukan fiskal negara tanpa kita membebankan rakyat. Okey baik eh. Tapi pada satu ketika contohnya eh, kalau gaji rakyat semua dah makin naik dan lebih ramai berada dalam sektor formal dan lebih ramai yang dah bayar cukai. Kalau pada ketika itu kita dah cross the threshold yang mana melaksanakan GST itu tidak melanggar prinsip ekuiti, maksudnya the net effect is the same sama ada keluarga bayar melalui income tax ke, keluarga bayar melalui GST, the net sama. Dan kita terbukalah masa itu. Sebab itu I don't rule out kerana kita bukan entiti GST. Kita nak melaksanakan GST itu mengikut panduan-panduan ini supaya ia bersesuaian dengan kedudukan ekonomi negara tanpa ia berlaku tidak adil kepada rakyat. In 2015, if we had done it tanpa kita sasarkan balik subsidi, tanpa kita selesaikan hutang-hutang kita, tanpa kita perketatkan tatakelola kita, tanpa kita kutip cukai daripada capital gains tax syarikat-syarikat yang yang yang Sendirian Berhad yang selalunya flip banyak ni tapi and buat untung 20, 30 juta sekali flip tapi tak payah bayar hutang, tak payah bayar cukai. Then it would have been unfair because the whole burden on GST tu diserahkan kepada keluarga-keluarga biasa. So I think that's that's the background yang yang yang yang memberi gambaran sebenarnya apa pandangan kita mengenai GST.
-
-
 
 [36:58] Nazri: So basically YB you are saying that sekarang ni the direction adalah you going to tax the rich more and transfer the burden to and take the the the money ke apa hasil tu pergi kepada golongan bawahan. Bila dah ada structural adjustment ni, barulah pada masa tu kerajaan willing untuk buat GST. Is it?
 
-
-
 [37:18] Rafizi: Maksudnya ialah kalau prinsip yang paling utama itu ialah it has to maintain the equity. Maksudnya dia tak boleh regresif, dia mesti progresif kan. Sebarang cukai tu tak boleh regresif, mencukai orang miskin lebih banyak daripada orang kaya. Then kita kena fokus terlebih dahulu memastikan apa-apa yang kita perlu teroka untuk memastikan suasana dan juga kedudukan percukaian negara itu progresif. Kalau kita dah rasa perkara itu sesuai, then kita boleh pertimbangkan sebarang bentuk cukai-cukai termasuklah GST yang melibatkan semua orang ni. But the principle that the taxation has to be as progressive as possible, that has to be maintained. Dan itulah yang yang kalau nak bandingkan GST kali pertama dibentangkan 2013, 14, 15 is certainly was regressive dan dia memindahkan beban itu kepada orang miskinlah. Setakat ini yang kita buat ialah kita cuba sedaya upaya close the loopholes yang ada untuk memastikan bahawa mana-mana lagi yang belum dicukai, terutamanya golongan berpendapatan tinggi atau syarikat yang ini kita cukai dululah. And and that will certainly increase and improve our tax revenue. Soal GST ini hanyalah saya ingat dia boleh dipertimbangkan apabila kita yakin sebenarnya lebih ramai keluarga kita yang telah bergaji tinggi, berpendapatan tinggi, that when we implement GST, if we implement GST, they will get the benefit from the tax reduction. So the difference is only the manner the tax is collected. It's not an additional burden of tax to them.
-
-
 
 [39:20] Najib: Tu bab GST. Tapi kita tahulah bila YB orang orang akan korek baliklah berita-berita lama YB cakap GST ni macam mana, GST ni macam ni. Jadi orang kata kan orang selalu kaitkan dengan YB pernah cakap kita ni penghasut. Kan macam tu kan? Tapi ada satu lagi benda yang selalu bermain dekat media sosiallah. Saya Nazri eh, saudara Nazri eh. Selepas ni
 
-
-
 [39:42] Rafizi: Ni siapa yang nak bakar aku?
-
-
 
 [39:43] Najib: Tak, saya saya cuba tanya jugalah. Sebab ada satu soalan ni dia dia berkaitan dengan turun harga kereta. So apa YB punya ni?
 
-
-
 [39:56] Rafizi: Dia sama jugalah, kita kena tengok kepada kedudukan dan suasana pada ketika itu kan. Kita ada peluang berdasarkan kepada kedudukan kewangan dari semasa ke semasa untuk kita laksanakan sesuatu eh. Pada tahun 2010, 2011, perbelanjaan dan defisit dan hutang kita tidak banyak macam sekarang. Jadi soal fiscal consolidation was not a big issue then. Subsidi minyak tidak sebesar yang kita ada sekarang kan. Dan pada ketika itulah okey, I can't recall on top of my head eh, tapi bajet kita pada ketika itu tak sampai 200 bilion. Total bajet kita tahu tak sampai 200 bilion 2010, 2011 kan. Dan kita tahu bahawa soal pinjaman kereta ini adalah satu bayaran bulanan isi rumah yang besar. First, it takes out the mortgage or rent, kemudian kereta kan. Dan kita juga tahu bahawa cukai kita, eksais tu tinggi. 85%, 100% dan sebagainya. And I think in in 2010, 2011 if I can recall, we've already collected lah setiap tahun dalam 11 bilion untuk cukai kereta kan. Pada ketika itu, kalau kita mula nak mengurangkan cukai eksais dan kita tumpukan kepada hasil-hasil yang lain dalam keadaan sumber pendapatan kita dan juga kedudukan kewangan kita tidak meruncing seperti sekarang, dia boleh dilaksanakan. Because you plan and then kita dah tahu daripada satu tahun ke satu tahun kalau kita kurangkan cukai eksais in stages, maksudnya kita kena satu kawal manage our expenses, kita juga kena cari sumber-sumber yang baru, kita pun tak adalah pergi berbelanja untuk 1MDB dan macam-macam buat hutang. And then now is 2022. Dengan segala hutang yang bertambah, dengan keadaan dari segi saya sebut tadi kan pecah dari segi tax revenue as a percentage of GDP, dalam keadaan belanja subsidi kita dah meningkat 10 kali ganda. Kalau kita nak reform our yalah eksais duti atas kereta kita yang 85%, 100% ni kan, dia akan take away easily 10 bilion daripada national income kita. Dalam keadaan perbelanjaan-perbelanjaan ni semua dah lock dah. Kalau kita ambil 10 bilion, boleh kita kurangkan apa nama ni harga kereta semua kan? Tapi maksudnya kita kena potong benda lainlah. Belanja subsidi kan memang dulu 5, 6 bilion, sekarang 80 bilion kan. Jadi kita kena potong. Jadi sebab itu saya rasa soal harga kereta dan sebagainya ni sekarang dia dah jadi water under the bridge. Kerana perkara yang boleh kita restructure dahulu oleh kerana kita tak buat dan dia sudah jadi apa nama ni sudah ada beban-beban yang lain, jadi keputusan itu dia sukar untuk kita buat dalam keadaan kekangan kewangan sekaranglah. Itu satu eh. Yang kedua, pasal kereta ni pula eh, going forward kan kita akan berhadapan dalam suasana ekonomi yang mana kepatuhan kepada pelepasan karbon itu jadi lebih penting. Kita juga akan berdepan dengan keadaan ekonomi yang yang lebih sesuai untuk kita galakkan peralihan daripada international inter internal combustion engine contohnya kepada elektrik. Now orang tanya, apalah sibuk-sibuk sangat dengan EV semua ni, ini untuk orang kayalah dan sebagainya kan. Dia bukan semata-mata soal pelepasan karbon ataupun green compliance or green green ekonomi. Dia soal bahawa kita akan sampai satu masa yang mana kita mula mengimport petrol. Jadi kalau kita buat pada masa sekarang, kita menggalakkan pembelian seberapa banyak kereta murah yang melonjakkan consumption petrol kita, pun kita akan ada masalah. So I think disebabkan itu perkara itu yang sebab itu bila dibandingkan sesuatu yang 10 tahun lepas, 12 tahun lepas yang assessmentnya itu adalah berdasarkan unjuran pada ketika itu, dia serupa cerita macam Nazri masa muda handsome sekarang kurang handsomelah. Susahlah nak sebut macam tu kan. Jadi sebab itu I think hence the reason why apabila sesuatu perkara untuk kebaikan rakyat itu boleh dibuat serta-merta, jangan tangguhkan. Kerana konteksnya, parameternya, dan suasananya akan berubah dari satu zaman ke satu zaman. Kalau kita tak berhati-hati, obviously kita akan terlepas peluanglah. And that's precisely isu dia dengan kereta ni. Jadi kalau sekarang orang tanya saya eh, katakanlah kita dah banyak wang, apa nama ni kita dah ada bajet surplus pun, kita dah boleh kurangkan kutipan eksais duti kan. Kalau pun kita dah ada kemampuan kewangan itu, kita masih lagi kena tengok adakah dasar yang akan menyebabkan lambakan pembelian kereta ICE yang menggunakan petrol besar-besaran ini, adakah itu sustainable untuk ekonomi kita? Kerana sedangkan sedang rakyat boleh dapat kereta yang murah, kita akan cepat import petrol, dia akan mendatangkan masalah baru pula dari segi petrol consumption dan sebagainya. So the current situation ni then we have to assess based on on the current needs and the future trajectory daripada sekarang yang sudah tentu sangat berbeza dengan tahun 2010, 2011.
-
-
 
 [46:30] Najib: Okey ke? Kecewa ke? Harga harga kereta?
 
-
-
 [46:33] Rafizi: Muka kecewa sepanjang masa ni.
-
-
 
 [46:34] Nazri: Tak saya saya sebenarnya kecewa bukan sebab apa. Saya tak dapat satu jawapan jelas sebab orang ramai menjangkakan bahawa okey saya balik pada GST tadilah. Okey pada tahun 2025 ramai orang menjangkakan GST akan kembali. Tapi bila YB cakap macam ni, saya terus tak tahu bila sebenarnya GST akan kembali ni sebenarnya kan? So sebab okey kita at the end of the day of course saya bersetuju dengan YB kata YB kata it's regressive tax. GST is a regressive tax. But at the end of the day memang kita menghala ke situ dan juga kita pun bukankah kalau kita committed maksudnya macam YB kata PADU kan. YB committed okey PADU nak dibuat pada 1 Januari. Saya respek YB sebab saya nampak 1 Januari dia mula. Kenapa benda yang sama kita tak cakap pada GST, "Okey kita macam YB kata kita nak membetulkan structure ni semua and then pada tahun bila kita committed kita nak buat GST." Kenapa tak macam tu? Bukankah itu memberikan satu signal yang baik kepada investor dekat luar dan kita nampak betul-betul kita nak memperbaiki kedudukan fiskal kita? Bukankah macam tu bagus? Kenapa kerajaan perpaduan pada hari ni tak tak boleh nak committed, "Okey saya nak buat GST pada tahun ni." Kenapa?
 
-
-
 [47:53] Rafizi: Dia sebab it goes back to yang kita bincang tadi. The selain daripada principle issue of regressive, the you know it must be equitable semua, the dollars and cents must compute juga. Jadi kalau kita unjuran kita contohnya sekarang, bukan sahaja unjuranlah, kutipan SST itu telah pun melepasi the net income daripada GST semasa di dilaksanakan sehingga 2018. So and apabila kita melaksanakan GST, dia akan ada kesan kepada inflasi dan banyak perkara yang lainlah kan. Jadi berbanding dengan PADU contohnya kan, Nanti kita masuk PADU. berbanding dengan PADU contohnya kan, the case for PADU, digitalization and consolidated data untuk kerajaan itu is overwhelming. Maksudnya baik dan buruknya tu beza dia sangat jauhlah. Jadi kita tahu bahawa apa pun cabaran kita, we can bite the bullet. Tapi kalau macam GST dengan SST, the dollars and cents itu belum lagi kita ambil kira adakah jalan-jalan yang lain yang boleh kita kemas kinikan sistem yang ada sekarang ini, baik cukai langsung atau cukai tidak langsung, untuk memberi kutipan yang sama. Sebab GST is not a silver bullet. Kecualilah kita berpandangan bahawa whatever is the cost to the economy dari segi its regressive, inflasi naik semua, GST is overwhelmingly the silver bullet kerana dia akan melonjakkan kutipan tanpa ada kesan yang besar. You and I know that's not the case. Kan? Jadi saya contohnya eh, kalau kita tengok kutipan SST kita tu jauh berbeza di belakang GST, then I would have been more affirmative about GST. Tapi sekarang ni the dollars and cent itu kita kena weigh hanya kerana secara apa nama ni logiknya oleh kerana semua orang kena bayar cukai melalui GST, dia akan kutipan dia akan naik. But we've had three years of GST. Dan GST juga melibatkan refunds. So kita tak boleh tengok kutipan sahaja, kita kena tengok net income in refund. Dan setakat ini the net the net income selepas refundnya, itu tak banyak beza dengan SST kan. Ha jadi that is the bit yang sebenarnya on the basis that we are trying our best to make sure that any taxation regime yang ada kat Malaysia ini tidak regressive. And we know pada ketika ini GST akan masih lagi regressive sehinggalah gaji rakyat itu mula berada pada paras tertentu. I think we should be open.
-
-
 
 [50:54] Nazri: Tapi bukankah YB dalam kerajaan sekarang ni, kerajaan sekarang ni kata nak buat transfer, cash transfer, rationalize kan subsidi, bukankah itu satu langkah yang mana kerajaan pindahkan duit tu kepada golongan bawahan? Of course it is regressive, but at the same time you also transferring and assisted the B40 macam ni. Kenapa kena mesti tunggu benda ni semua? Kenapa tak okey once you dapat nampak ni, you transfer saja. Walaupun dia regressive, you just transfer buat cash transfer. Kenapa macam tu YB?
 
-
-
 [51:28] Rafizi: Satunya ialah kita kena balance dengan inflation effect. Okey, inflation. Inflation effect kan. And and that is a dicey point eh. Kalau kita buat and in fact I think salah satu kritikan utama kepada GST dulu, zaman 2013, 14 macam tu, kerana is on the basis that oh ini kena buat kerana it looks good to the economist and and investors. Oh kita buat GST, kita float harga minyak, semua kan. Sebab itu dia ada kesan kepada keluarga terbanyak di bawah. Jadi kalau tengok bezanya bila kita buat fiscal consolidation sekarang, kita ambil masa sebenarnya. Because we want to balance dengan the slide in inflation kan. Jadi the sequencing itu juga penting dan saya rasa kita kena stabilkan dulu cash transfer yang berlaku dan kita tengok kesan dia supaya inflasi itu kekal terkawal dan tidak terlalu membebankan. Then we go case by case basis the next one and the next one and the next one lah. Memang mudahlah dan untuk kerajaan untuk kita nampak cantik kepada analyst eh, memang mudahlah kita buat sekaligus. Tapi kesan dia kepada inflasi itu tinggi. Dan kalau dibuat sekaligus tanpa kita mengambil kira soal regressive, equity semua ni, ha itulah yang menyebabkan penolakan rakyat kepada sesuatu langkah kerajaan itu memuncak seperti yang berlaku tahun 2018 lah. Kenapa kita nak nak fikirkan nak kena buat GST ke tidak, ada rejim percukaian yang lain? Niat kita ialah untuk mengukuhkan kedudukan dan kemampanan kewangan negara. Jadi bila sesuatu itu nak dibuat, kita nak pastikan dia ia kekal dan tidak berulang seperti yang berlaku tahun 2018.
-
-
 
 [53:30] Nazri: Sustainable lah.
 
-
-
 [53:31] Rafizi: It has to be sustainable. Jadi is not just a question of whether theoretically this is better than that. The implementation, the sequencing, the buy-in, the understanding itu cukup penting kerana akhirnya penerimaan rakyat itu yang akan menentukan sama ada sesuatu kaedah itu akan kekal. And for that to happen, kita kena ambil kira soal kehendak rakyat dan juga soal keyakinan rakyat bahawa kerajaan ni dah mencuba sedaya upaya explore everything and implement everything, then barulah. Ha so so so I think that itu yang saya ingat sedang berlaku sekaranglah.
-
-
 
 [54:15] Nazri: Okey okey. So tidak ada Masih tak puas hati lagi ke apa ni? Okey okey okey. So kita nampak bayangan ni sekarang ni, so government sedang baiki benda-benda ni dulu and then bila dah ada masa yang sesuai, tapi kita tak tahu, tak boleh cakap bila YB.
 
-
-
 [54:30] Rafizi: It has to be means-tested kan. As a person lah, dalam apa-apa disiplin yang saya pernah praktis sebelum nilah, dalam finance ke, dalam data ke, dalam tech ke, I'm I'm agnostic sebenarnya. Saya tak adalah kata saya ni school of thought saya begini aje.
-
-
 
 [54:50] Nazri: Fleksibel.
 
-
-
 [54:51] Rafizi: It has to be means-tested. Sebab tidak ada sesuatu perkara itu yang semua baik atau semua buruk. Kalau pun conceptually is good, dia banyak lapisan-lapisan lagi. So we have to be means-tested. Sebab itu ada orang marah kata, "Oh kenapa tak tolak GST?" Sebab itu saya, walaupun kena kecam, saya kata, "I remain agnostic." Tapi setiap kali kita nak buat keputusan itu, kita banyak berpandukan kepada perkara-perkara yang perlu kita patuhi atas prinsip ia tidak boleh membebankan rakyat kecualilah segala-gala yang perlu dibaiki itu telah cuba dibaiki sebaik-baiknya, termasuklah soal tatakelola perbelanjaan kerajaan. Kalau kita tak baiki yang itu, seronoklah kita kutip cukai, belanja. Kutip cukai, belanja. And that's already happening juga supaya bila sampai ke peringkat yang perkara itu timbul balik, okey we have closed the gap, loophole dah tatakelola perbelanjaan dah makin baik, we have reined in excessive expenditure, then kalau dilaksanakan contohnya GST, rakyat tahu bahawa akhirnya dia takkan bocor kerana sebahagian kembali kepada cash transfer, sebahagian akan dilaburkan kepada DE, perbelanjaan pembangunan yang lain-lain ini. I don't think we have reached that stage yet.
-
-
 
 [56:11] Nazri: YB sebut pasal tatakelola YB. Saya nak tanya YB satu soalan. Okey. Kerajaan pada hari ini eh, dia kata tatakelola, tatakelola, tatakelola, fine lah eh. Pada saya kan, ada satu di kalangan rakyat biasalah eh yang saya jumpa semua, ada satu indicator lah yang mana okey dia nampak benda ni, okey dia rasa tatakelola masih lagi tak baik. Di mana tu? Laporan Ketua Audit Negara. So untuk tahun yang tahun nilah 2023 ni 2024 ni, akan keluar Laporan Ketua Audit Negara. Boleh tak kita expect YB, bocoran yang ada pada tahun ni yang reflect pada tahun lepas, drastically berkurang? So kalaulah YB nampak benda tu, saya nampak benda tu, oh baru saya cakap, "Yes, betullah!" Bukti, dah terbukti tatakelola ni memang memang betullah kerajaan ni buat. So boleh tak YB committed mengatakan bahawa pada tahun ni kepada semua rakyat Malaysia pada malam ni, yes di dalam laporan audit yang akan datang, bocoran-bocoran yang berlaku sepanjang tahun dulu takkan kita nampak lagi?
 
-
-
 [57:19] Rafizi: Itu soalan maut. Saya tak boleh nak commit. Kerana bukan semua itu dalam kawalan kita dalam tempoh yang pendek. Okey ya. Operasi kerajaan contohnya kan, kita menetapkan dasar dan hala tuju besarlah. Dia beri fokus dan signal apa nak dibuat kan. Kemudian kita memperketatkan dari segi prosedur, standard operating procedures lah. Baik soal perolehan, baik soal pengurusan, baik soal pelaksanaan dan sebagainya kan. Dan perkara itu sedang berlaku, telah pun berlaku satu persatu. Tetapi soal Ketua Audit Negara, laporan, kebocoran, ketirisan ni banyaknya juga bergantung kepada aspek manusia kan. Jadi I'm hoping, saya memanglah berharap supaya mesej daripada atas itu is cascaded dengan cepat sampai ke bawah dan dapat diperketatkan supaya kita berdoa Laporan Ketua Audit Negara tahun depan tu lebih baik. Lebih baik. Tapi penemuan Laporan Ketua Audit Negara tu juga ada dua yalah saya ingat ada dua bahagian, ada dua perspektif eh. Satunya ialah yang memang fraud. Yang memang ini memang fraud lah, kita tahu ini memang orang nakal.
-
-
 
 [58:53] Nazri: Orang nakal punya kerjalah.
 
-
-
 [58:54] Rafizi: Orang nakal punya kerja. Dia dia dia manipulate loophole dan sebagainyalah. Satu lagi ialah Sebab dia pandailah, pandai. dia satu lagi ialah soal pelaksanaan dan cabaran pelaksanaan. Semasa sesuatu program atau projek itu dilaksanakan, keputusannya ialah untuk tujuan-tujuan tertentu, sudah tentu sudah diambil kira cabaran pelaksanaan tapi bila dilaksanakan, dia jauh lebih mencabar. Jadi apabila diaudit itu, sasaran itu tidak tidak dicapai contohnya kan. Jadi yang itu pun kita kena ambil kira juga sebab saya melalui sendiri sebagai contoh eh. Di luar orang tengok untuk pasang vending machine tu mudah. Okey. Jadi orang akan kata, "Apalah payah sangat nak pasang vending machine?" Masa kita rancang dan bangunkan berdasarkan maklumat itu, memang kita ingat boleh dilaksanakan tahun ini berapa mesin, tahun depan berapa mesin dan sebagainya. Bila dilaksanakan kerana ia tidak pernah dicuba contohnya, baru kita dapat kenal pasti masalah-masalah yang tak pernah timbul macam tu. Contohnya, kalau nak pasang dekat tempat tertentu, tuan punya tempat tu dia suruh kita submit drawing engineering electrical drawing. Dua tiga bulan kita duk kena nak buat semua. Jadi punya bila kita plan tu nak roll out berapa-berapa, dia tak timbul soal nak kena submit balik drawing dan sebagainya kan contohnya. Kemudian soal perolehan. Soal perolehan you know dia melalui proses demi proses, soal jangka masa memuktamadkan perolehan itu jauh lebih panjang daripada yang kita jangkakan. Sebab kita ingat nak buat perolehan ini bendanya simple saja, kita membuka kepada pembida-pembida yang memang pengusaha kilang vending machine ini, sekian-sekian selesailah. Tapi sebenarnya perkara itu lebih rumit. Jadi yang part itu yang saya ingat dia akan mengambil sedikit masa juga dan kita kena berlaku adil kerana kalau kita terlalu keras contohnya, mesti tak boleh ada semua ni, then kita tak encourage perkhidmatan awam dan juga pimpinan awam untuk take more risks in the kind of programs yang kita cuba laksanakan kepada rakyat. Kalau tidak, people will stay into the safest way lah. The safest way tu memanglah takkan timbul isu. Tapi dia mungkin tidak melonjakkan kepada tahap yang baru, dia juga mungkin tidak menyelesaikan masalah-masalah yang lepas macam keciciran dan sebagainya. So I I want to be careful supaya bila kita nak melonjakkan khidmat kerajaan, kita nak menyelesaikan masalah struktur ni eh, memang akan ada program-program yang kita kena ambil risiko and we have to be bold and then we have to be objektif. Kalau fraud, yes, okey itu sesuatu yang yang you know we have to take ownership. Tapi kalau kalau kalau dapatan Ketua Audit Negara itu contohnya, "Program ini tidak mencapai sasaran, sepatutnya banyak ni tapi ini." Dan bila kita drill down further, maksudnya semua proses, semua usaha itu telah pun dibuat mengikut tatakelola tetapi oleh kerana ada cabaran-cabaran pelaksanaan yang lain, that one pun kita kena sebenarnya take it more objectively daripada semua yang masuk dalam apa nama ni Laporan Ketua Audit Negara itu dirangkumkan sebagai ketirisan ataupun penyelewengan. So on that basis lah saya rasa, of course the ideal situation is that you want everything to work well, cascaded well. Tapi dia mengambil masalah untuk kita bring everyone on the same page.
-
-
 
 [63:07] Nazri: Because I looking it this way YB eh. If you if kita nampaklah Laporan Ketua Audit Negara bertambah baik kan, it will encourage people to pay tax. People will encourage will see okey kalau macam ni baik aku bayar tax lebih. Ah so I think it that that way lah. Tapi sebelum kita pergi kepada PADU ni, saya nak last tanya YB satu soalan. YB, tahun ni adakah kemiskinan tegar sudah diatasi?
 
-
-
 [63:32] Najib: Tahun lepas, tahun lepas.
-
-
 
 [63:33] Nazri: Tahun tahun lepas, tahun lepas.
 
-
-
 [63:36] Rafizi: Baik eh. Bila Yang Amat Berhormat Perdana Menteri umumkan kita nak mensasarkan sifar miskin tegar, menoktahkan kemiskinan tegar tu maksudnya sifar miskin tegarlah kan. Sebagai pembuat dasar, jadi kita tengok okey, apa maksud miskin sifar miskin tegar ni? Okey. Contohnya dalam konsep ekonomi kan, bila dia kata zero unemployment, apa maksud sebenarnya pengangguran sifar ni kan? Jadi perkara itu tak pernah wujud dalam kamus negara kita. Soal menoktahkan kemiskinan tegar ni tak pernah wujudlah dalam kamus kita. Jadi kita rujuk kepada amalan antarabangsa dan kita menetapkan dasar eh. Dasarnya begini. Kita ambil kadar kemiskinan tegar rasmi negara. Tahun 2023 ialah 2%. Eh? Apa nama ni, 0.2%. iaitu bersamaan dengan sekitar 18,400 isi rumah miskin tegarlah. Sebelum ada PADU, tak ada PADU, data masih lagi semua ni, kita adalah data begitu begini tapi mungkin tidak sebaik yang kita nak kan. Jadi dasar kerajaan berkaitan dengan menoktahkan kemiskinan tegar ataupun sifar miskin tegar ini ialah menakrifkan bahawa sifar miskin tegar itu bersamaan dengan setiap tahun sejumlah keluarga yang bersamaan dengan jumlah isi rumah miskin tegar mengikut statistik negara itu telah pun diberi bantuan dan dikeluarkan daripada garis miskin tegar. Jadi tujuan dasar itu ialah untuk memastikan bahawa kerajaan terus memberi tumpuan kepada sejumlah keluarga supaya setiap tahun kita keluarkan sebanyak keluarga itu daripada miskin tegar. Kerana kita tahu miskin ini akan terus berlaku, miskin tegar ni akan terus berlaku kan. Kalau tak ada dasar miskin sifar miskin tegar ni, yalah kita tidak ada tumpuan yang betul-betul bersepadu kepada sesuatu sasaran. Jadi on that basis, jumlah keluarga yang dibantu untuk keluar daripada miskin tegar sudah tentu melepaslah 18,400 isi rumah. Ini bila kita tengok data yang meliputi semua bantuan sistem kerajaanlah. Daripada Amanah Ikhtiar, daripada STR, daripada zakat dan sebagainya. Jadi bagi dasar itu, sudah tentulah kita boleh umum bahawa dasar sifar miskin tegar untuk 2023 itu telah dicapai. Kalau orang kita kata, "Adakah bermakna miskin tegar sifar miskin tegar ni dah tak ada langsung orang miskin dalam Malaysia?" Itu bukan tujuan dasar sifar miskin tegar sifar itu. Tujuannya ialah sebagai dasar kerajaan untuk kita sentiasa mengeluarkan sejumlah keluarga itu daripada garis kemiskinan tegar.
-
-
 
 [67:00] Najib: Tapi itulah yang difahami di luarlah.
 
-
-
 [67:02] Nazri: Ya, di di kalangan rakyat biasa, dia ingat bila miskin tegar ni zero, sifarlah. Maksudnya saya saya saya setuju cakap YB tadi, kita tak boleh melihat miskin tegar ni one-off punya kerja. Maksud saya bila berlaku economic recession, miskin tegar akan naik balik. Naik balik. So this is something yang kerajaan kena buat continuously, secara berterusan. Okey tapi benda tu kita kena bagi tahulah orang luar kan. So yang orang dekat bawah ni, dia ingat okey miskin tegar means that habis. Sampai habis. Jiran dia miskin tegar tu tiba-tiba dah tak dah miskin tegar.
-
-
 
 [67:36] Rafizi: Macam tak payah ada kerajaanlah, lepas tu dah selesailah semua masalah masyarakat. Sifar miskin tegar itu adalah konteks dasar sosioekonomi begitu. Dia mengikat kerajaan untuk memberi tumpuan setiap tahun sejumlah keluarga itu perlu dikeluarkan. Kerana kita tahu bahawa akan terus ada dan satu tahun ke satu tahun you know. Cuma kalau kita tak buat begitu Nazri, nanti daripada 18,000 dia jadi 30,000, dia jadi 50,000 kan ha.
 
-
-
 [68:07] Nazri: Strateginya IPR, YB?
-
-
 
 [68:09] Rafizi: IPR itu sebahagianlah. Miskin tegar pun kita kena tengok keunikan setiap keluarga miskin tegar itu. Ada kategori-kategori miskin tegar yang berbeza-beza. Contohnya kalau isi rumah, ketua isi rumahnya tu sakit, dia bedridden dan dia tidak ada keupayaan untuk menjana pendapatan, kerajaan kena bantu terus. Bagi cash transfer dan bantuan untuk keluar Maksudnya untuk memastikan pendapatan dia tu keluar daripada garis miskin tegar. Janganlah suruh dia pergi kerja kan. So jadi itu juga ha aku duk jual PADU ni kan. Itulah juga sebahagiannya
 
-
-
 [68:52] Najib: Baru nak tanya.
-
-
 
 [68:54] Rafizi: Ha itulah juga sebahagiannya untuk masa depan. Kerana kenapa kita perlukan satu pangkalan data yang yang lebih granular begitu supaya kita kenal pasti setiap isi rumah itu yang ini kita tahu yang ini memang bedridden dan dia orang tua, tak boleh buat apa. Cash transfer, kena bagilah! Baru dia keluar. Jangan duk sibuk nak suruh dia kerja. Tapi keluarga ni bukan bukanlah kaya, segar-bugar. Umur 30 lebih, boleh kerja. Boleh kerja. Ha yang ini kita kena tengok profil dia, tempat dia di mana, dan program-program pembasmian kemiskinan yang kerajaan sedia ada, yang itu boleh dipadankan dia. Malah saya ingat di masa-masa akan datang, kita boleh juga buat means-tested. Contohnya contohnyalah kan, kalau kita duk bagi cash transfer cash transfer saja tanpa means-tested, then kalau ada anak lima orang semua ni, saya boleh kutip 1,000 lebih, saya tak payah buat apa. Kutip cash transfer saja. Jadi kita di masa akan datang boleh juga pertimbangkan supaya dia bersyarat. Maksudnya kelayakan itu disyaratkan anak dia pergi sekolah, kehadiran gini-gini sekian-sekian, baru dia boleh dapat cash transfer tertentu. Ataupun kita padankan dia dengan kerja tertentu, dia kehadiran kerja dia tu mesti menepati sesuatu sasaran, barulah dia layak mendapat cash transfer ini. Semua ini kita boleh bangunkan tapi dia mesti bermula dengan adanya satu granular data. Kalau tak ada granular data
 
-
-
 [70:22] Najib: Tu dah sampai, boleh cerita PADU tu. Ha tu dia, pusing-pusing pusing, last-last sampai ke PADU. Okey, PADU ni kita tahu YB
-
-
 
 [70:29] Rafizi: Tak tahu Nazri ada soalan lain yang nak bakar lagi.
 
-
-
 [70:31] Nazri: Tak apa, kita masuk PADU dah pukul 9:00 lebih. Nanti terlewat. Kena masuk PADU, PADU kena masuk.
-
-
 
 [70:38] Rafizi: Dah 9:00 lebih dah? Sejam lebih dah kita bercakap?
 
-
-
 [70:40] Najib: 9:00 lebih dah. Jadi PADU, apa cerita saudara Nazri?
-
-
 
 [70:44] Nazri: Okey. Secara prinsipal, saya sokong PADU. Saya percaya dengan data integration. Sebelum ni data tu berpecah, dia jadi dormant. Okey dia telling something tapi kita bila kita integrated, is for the decision-making purpose. Saya sokong. Okey. Tapi ada banyak kritikan dekat luar sanalah YB. Macam YB pun tahu, ada isu-isu berbangkit ni semua kan dan YB pun dah jawab. Dan Kementerian Ekonomi ada ke allocate satu team memang dia monitor dekat sosial media ni apa isu berbangkit dan cepat pantas? Sebab apa bila kita kata pasal data ni kan, yang menarik orang masuk ke dalam data tu juga adalah keyakinan. Once kalau saya nampak oi kerajaan cepatlah dia tackle this issue, okey saya yakinlah saya pun masuk. Jadi macam mana YB? Adakah YB memang ada satu team ke macam mana?
 
-
-
 [71:36] Rafizi: Maksudnya team PADU tu memang ada yang yang dia dia bukan sangat soal nak kontrol naratif dan sebagainyalah. Kita memang betul-betul nak pastikan semua masalah yang bersabit dengan pelaksanaan sistem tu kita tackle. Dan kita memang betul-betul nak yakinkan rakyat dan give assurance bahawa perkara ini adalah satu keperluan dan untuk kebaikan mereka. Jadi dalam team PADU, team PADU ni is cross-ministerial. Cross-ministerial. Ada yang daripada Kementerian Ekonomi, ada daripada DOSM, ada daripada MAMPU. Daripada tiga-tiga ni. They work as a team tau walaupun dia dan yalah there is a strong ownership PADU. Jadi mereka memang memang monitor. Saya kalau saya tengok dalam group WhatsApp dia orang tu kadang-kadang kesian macam Datuk Seri Uzir kadang-kadang 2:00 pagi masih lagi semak lagi semua feedback dan sebagainya kan. So kadang-kadang saya kata, "Tidurlah kau orang. You can see this tomorrow." Tapi I think begitulah. Dalam apa-apa sistem yang dibuat, kita akan ada komen, user feedback, sometime teething problem, sometime development issues. Dan team itu memang memantau dan kalau ada kebenaran especially kalau ada sistem loophole, mereka akan ambil tindakan secepat mungkin.
-
-
 
 [73:00] Nazri: YB, lagi satu saya nak tanya pasal jangka masa. YB kata tiga bulan. Konfiden ke YB tiga bulan ni? Okey fine dekat urban area saya faham, kita boleh tackle it. Sabah, Sarawak macam mana YB? Sebab dan warga tua, warga senior citizens ni semua. YB kena buka satu kaunter, pergi ke kawasan pedalaman sana and then boleh ke benda ni disiapkan dalam masa tiga bulan? Ramai orang doubt it.
 
-
-
 [73:28] Najib: Dia macam too ambitious.
-
-
 
 [73:29] Nazri: Too ambitious! Too ambitious dan orang ada orang kata, "Eh macam kelam-kabut sangatlah. Boleh ke sejauh mana YB yakin dalam masa tiga bulan ni kita boleh cover?"
 
-
-
 [73:38] Rafizi: Baik. Kita kena bermula dari segi timeline. Kalau orang tanya ni macam kelam-kabut kenapa tiga bulan dan sebagainya.
-
-
 
 [73:47] Nazri: Kenapa tiga bulan?
 
-
-
 [73:48] Rafizi: We don't have a choice.
-
-
 
 [73:49] Nazri: We don't have a choice?
 
-
-
 [73:50] Rafizi: Kita perlu melaksanakan penyasaran subsidi tahun ini. Dan data itu perlu dipersiapkan terlebih dahulu. Dan tarikh tiga bulan itu ialah tarikh yang maksimum yang kita boleh drag tahun ini kalau kita nak pastikan penyasaran subsidi itu berlaku dengan lancar seperti yang dirancang dalam tahun ini. Dia jadi bottleneck kat situ. Kalau yang itu lambat, lambatlah penyasaran subsidi sedangkan kita ada sasaran defisit glide yang kita kena capai kan. So itu yang menerangkan tentang tiga bulanlah. Ini bukan pandai-pandai kita orang buat semua. Saya sebenarnya kesian. Arahan itu di keputusan bersama kita ialah dalam bulan Jun tahun lepas kan. Kita tengok kepada timeline kan, saya memang biasa mengendalikan kerja-kerja data. Saya tahu nak integrate beratus database kerajaan untuk 30 juta rakyat dalam tempoh 6 bulan ini sangat-sangatlah mencabar untuk dia orang. Kemudian saya juga tahu ni you know 9 juta isi rumah, 30 juta rakyat Malaysia nak verify dalam tempoh 3 bulan juga mencabar. Tapi itulah masanya kalau kita nak capai sasaran perancangan subsidi rationalization kita. Tetapi, akan tetapi, akan tetapi, akan tetapi, we don't start with a vacuum. Sebenarnya kerajaan boleh aje buat keputusan tak payah buka untuk verifikasi.
-
-
 
 [75:40] Nazri: Just jalan aje?
 
-
-
 [75:41] Rafizi: Kita just jalan menggunakan semua data yang kita dah ada, kita merge semua ni dan kita jalan saja. Tapi kita buka supaya kita berlaku adil seadil-adilnya. Kerana kita juga tahu bahawa kita akan ada risiko exclusion. Dan sementara data daripada kerajaan ni banyak, tapi 60% aje tenaga kerja kita ni dalam sektor formal.
-
-
 
 [76:11] Nazri: Balance informal.
 
-
-
 [76:12] Rafizi: Balance informal. Dia tak ada data dia dekat LHDN, dekat EPF, dia tak ada, dia tak wujud pun! Sebab itu kadang-kadang kita tanya kan, macam manalah boleh ada orang miskin ini dekat hujung kampung ni, takkan tak ada orang tahu pun?
 
-
-
 [76:25] Nazri: Tak dicapture.
-
-
 

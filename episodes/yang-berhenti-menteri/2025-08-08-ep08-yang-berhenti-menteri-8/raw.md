@@ -16,589 +16,297 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Music / Intro]
 
-
-
 [03:32] Haziq: Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri sudah episod kelapan sekarang. Jadi kita ucapkan terima kasih kepada panelis jemputan kita pada hari ini, di samping saudara Rafizi seperti biasa, Dr. Irwan daripada Universiti Islam Antarabangsa Malaysia. Apa khabar, Dr.?
-
-
 
 [03:50] Dr. Irwan: Baik, alhamdulillah. Alhamdulillah.
 
-
-
 [03:52] Haziq: Dr., mungkin kita nak kenal sikit Dr. Sebab bila saya check Dr. apa siapa Dr., yang saya cuma jumpa dekat komen adalah "Ini lecturer saya", "Terbaik", "Sempoi". Ramai sangat student UIA tiba-tiba dekat komen.
-
-
 
 [04:05] Dr. Irwan: Oh ya ke? Masya-Allah.
 
-
-
 [04:07] Haziq: Kalau boleh...
-
-
 
 [04:08] YB Rafizi: Hari ni trick dia ialah untuk mendapatkan seberapa ramai student UIA menonton.
 
-
-
 [04:12] Haziq: Oh, itulah dia punya strategi dia eh. Okey. Sila, Dr.
-
-
 
 [04:18] Dr. Irwan: Okey, maybe a little bit of introduction about myself. Nama saya Muhammad Irwan Ariffin. I have been with UIA since 2004. I graduated from UIA in 2004. My first degree economics, second degree Islamic studies. I did my masters, PhD in economics. I came back to serve UIA in 2015, and until now I am alhamdulillah still with UIA lah.
 
-
-
 [04:47] Haziq: Adik saya kat UIA dulu. Most probably around maybe around the same time juga kan. Cuma dia buat I think dia buat computing ah.
-
-
 
 [04:56] Dr. Irwan: Oh okey, maybe lah, ICT lah.
 
-
-
 [04:58] Haziq: Ha, dia buat ICT, betul. Dr. economics mungkin pengkhususan tu macam mana?
-
-
 
 [05:03] Dr. Irwan: Okey baik. Pengkhususan pengkhususan ni kadang susah sikit nak cakap. So far I I think to be honest I still couldn't find to to say I am an expert in certain area, so I am still exploring different fields of economics, including Islamic economics lah. Ha itulah. Jadi apa-apa saja biasanya I I tend to look at myself as a versatile teacher. So saya apa-apa saja yang ketua jabatan bagi tu saya sauk sajalah. Saya cubalah sebab because I I I really love to learn lah.
 
-
-
 [05:35] YB Rafizi: Sounds like Malaysialah. Saya ada my ex-staff dulu, dia doktor pakar tau, doktor pakar. Dia balik Aussie semua kan. So first time saya jumpa dia after so many years kat satu hospital kat Malaysia ni kan. So saya tengok dia, "Eh kau ni bukan pakar ke?" "Yalah, yang kau duduk semua ni kenapa?" "Yalah, pakar pun akulah, GP pun akulah, apa nama ni kempen denggi pun akulah." So that that sounds very Malaysian.
-
-
 
 [06:09] Haziq: Okey baik baik. Saya rasa cukup perkenalan tu. Nanti kita berkenal from time to time. Terima kasih, Dr. Mungkin kita terus kepada nak bercakap pasal RMK lah Dr. Cuma sebelum tu saya nak selit sikit aje. YB Rafizi, dalam posting YB selepas saja dibacakan Rancangan Malaysia Ke-13, YB terus cakap 95% dikekalkan, 5% tu Sebenarnya 5% tu apa, YB?
 
-
-
 [06:37] YB Rafizi: Slogan kut dia tukar. Slogan dia tukar. Ya, but I think banyaknya ialah kalau tengok because you roughly remember lah kan apa yang the final draft semua tu. I think banyakannya kalau tukar pun editorial lah.
-
-
 
 [06:55] Haziq: Kosmetiklah, can say?
 
-
-
 [06:58] YB Rafizi: Yalah, I mean depends what you mean by kosmetik lah. Kosmetik tu design ke apa semua tu. Selalunya saya tak pay that much attention to design lah, it's the substance. Tapi I think a lot of it is kalau ada perubahan pun substance lah, which is a good thing sebab dia ambil masa yang panjang to prepare and a lot of input kan. Jadi awal-awal tu saya concern kalau ada radical change sebab masa proses kita nak nak nak sampai ke peringkat ini dia memang dah banyak orang kata, dibasuh satu lah. Dia dah banyak exchanges sebab bila you nak push the needle tu, selalunya orang tak sukalah kerana orang nak kekalkan status quo kan.
-
-
 
 [07:46] Haziq: Baik baik baik baik. Dr., kalau nak mencelah atau nak tanya terus pun boleh, Dr.
 
-
-
 [07:50] YB Rafizi: Janganlah bagi doktor jadi moderator. Ini namanya Malaysia Melayu juga ni. Dia sub-con kat orang. Moderator tu kerja dia.
-
-
 
 [07:59] Haziq: Baik, saya buat kerja saya balik. Okey. Sebab dia conversational kan, Dr. Tapi mungkin saya boleh start lah. Okey, ini baru start betul-betul. Tadi tu selit aje. Dr., soal RMK ni, daripada RMK pertama sampai RMK-13, yalah biasanya kalau kita tanya ChatGPT, satu line macam mana RMK ni evolve, dia daripada apa ni pertanian nak basmi kemiskinan kepada perindustrian. Jadi sekarang ni untuk RMK-13, to summarize, apa beza dia dengan RMK sebelum ni? Apa mesej utama RMK kali ni sebenarnya?
 
-
-
 [08:36] Dr. Irwan: Okey. Jawapan ni sepatutnya YB lah sebab dia yang arkitek yang design kan. Tapi mungkinlah boleh kata sebagai orang luarlah yang melihat kepada RMK-13 ini, firstly, this is I think the first Rancangan Malaysia which is planned by our new government lah, 5 years punya rancangan. And perhaps I think kalau kita tengok the evolvement, it seems macam dia betul-betul ikut the global punya economic growth trend lah. Kalau dulu kita start dengan agriculture, kita betul-betul baru nak keluar daripada kancah kemiskinan, nak jadi negara membangun, developing, dan dalam masa yang sama kita dapat lihat juga ada beberapa apa ni kaedah that was I think brave, bravelah. Macam yang melibatkan social engineering, menggunakan apa ni even macam apa dulu, New Economic Policy contohnya, which has some risk attached to it lah, but somehow alhamdulillah so far we could see that the previous leadership managed to somehow navigate and do it properly, and we could see the some of the fruits, although it's not perfect lah. So the difference that I think with this RMK-13 which YB helped to design, I think it really because we really need something to push us further up to the to to reach the developed nation status. And so far we have been trapped in the middle income status. So kita nak masih macam nampak tercari-cari, what is the factor that that could actually bagi lonjakan? I could see a few apa ni macam brave, you know, steps that you have put in the in the Rancangan Malaysia Ke-13 ni, which I think this really show that we are serious, kita betul-betul nak lompat keluarlah.
-
-
 
 [10:40] YB Rafizi: Kalau prof nak hentam pun boleh.
 
-
-
 [10:42] Dr. Irwan: Tak apa, ada ada. It's not perfect, but I think like you said lah, this is kind of a medicine. Kita nak kesenangan jangka masa panjang. But we know usually even in behavioral economics, we know that human, economic agents, we are short-sighted lah. Kita always think of kesenangan immediate punyalah, masa kini. Kita lupa bahawa kadang-kadang in order to enjoy long-term benefit and stuff, we have to make sacrifice today. Kita kenalah menahan sakit tulah. Itu yang saya salutelah. Ada beberapa poin dalam Rancangan Malaysia Ke-13 which I think those are show that the government is serious and they are brave to actually undertake this risk lah.
-
-
 
 [11:26] Haziq: YB Raf, macam mana? Setuju?
 
-
-
 [11:30] YB Rafizi: Dia sebenarnya saya ingat kalau kita baca pun beberapa RMK sebelum ini kan, sebenarnya nada dan nada diagnosis tu sama. Diagnosis yang macam prof beritahu tadi, kita ni dah lama mana, dekat 20 tahun lebih terperangkap dengan upper-middle income. Setiap daripada Perdana Menteri daripada zaman Dato' Seri Najib lepas tu sampai sekarang, semua nak cross the line tu jadi high income kan. Jadi diagnosis tu sebenarnya memang telah diketahui daripada dululah. Cuma yang yang kalau saya rasa pendekatan yang agak berlainan yang kita ambil sedikit dalam RMK-13 ni sebab pemahaman terutamanya ahli politik dan daripada pemahaman ahli politik itu begitulah yang akhirnya akan difahami oleh rakyat kerana pemuka yang paling banyak bercerita pasal benda-benda macam ini ialah ahli politik kan. Pemahaman ahli politik sebelum ini yang kami nak cuba perbetulkan dalam RMK-13 ialah RMK rancangan 5 tahun ni bukan senarai projek tau. Sebab tu kalau tengok dalam Parlimen, perdebatan ke apa, banyaknya akan menimbulkan "Kenapa projek tu tak masuk?", "Kenapa ni tak masuk?", semua kan. Sedangkan macam prof kata tadi, kita ada fundamental structural problem in the economy. Dan kalau kita peel layer by layer kan, at the first glance, memang kita tahulah dari segi ekonomi kita ada masalah complexity. Kita tak boleh nak mencipta nilai yang boleh ada better productivity, better value creation kalau kita terus buat benda yang sama kan. And then you peel the next one, the reason kenapa kita tak boleh melonjak ke atas tu ialah kerana talent pool kita. Talent pool kita tak sampai ke situ kan. And then you peel lagi. Peel lagi actually is about education and investments in in in apa nama ni basically in the future, for the future kan. Jadi kalau anything, RMK kali ini ialah we want to go to the deepest root cause. And because of that, saya sendirilah berharap bahawa it's actually not about the projects or the economy. It's actually, more than anything else, is about education. Then from there, I think kita boleh tengok kepada the next asteroid coming which is the sustainability of society when kita nak manage this aging nation and competition dan semualah. Jadi dari segi tu sebab itu ada ada akan ada orang macam ahli parlimen Machang, dia punya komen, "Tak wow." Sebab dulu-dulu eh, saya ingat masa umur saya 20-an semua kan, RMK ni dikenali sebagai rancangan projek 5 tahun tau. Dulu-dulu orang tak berminat nak baca pasal diagnosis semua ni. Dia nak tahu buku projek. Jadi kali ini kalau perasan eh, dia tak ada buku projek tau. Tak ada senarai projek, tak ada apa. Kita dari segi prosesnya, saya kata, get the policy right dulu. Then you go through the project evaluation on on rolling basis lah. Yang projek kecil tu you buat rolling plan setiap tahun. Projek yang besar, then kita bagi dulu bajet untuk buat feasibility dalam bahasa kerajaan kerja awalan. Make sure you do the costing, program design properly. Lepas tu you submit balik, and that may take two years. Ha kan. Jadi sebab itu juga satu masalah yang yang menggelincirkan dasar-dasar kerajaan ni sebab dasar nampak cantik semua. Program design tu tak cantik. Kalau dalam swasta kan, untuk buat sesuatu capex satu projek yang RM500 juta, RM1 billion kan, planning tu lebih kurang sampai saya ingat sampai 40-50% planning tau. 50% implementation. So they go through costing round sampai dia dapat final investment decision. Bila dia buat tu, sebab tu dalam 2 tahun jadi macam itu kan. Kerajaan ni, you know, dekat dekat universiti pun macam itu. Asalkan kita ada apa kita nak buat, bubuh bubuh bubuh bubuh, dapat kelulusan dulu. Dah dapat kelulusan, okey kita ada RM1 billion eh. Ha then jadi akhirnya dia tergelincir kan. Jadi benda-benda itu tidak nampak dalam RMK word by word. Tapi dari segi itu dia we have tried our best to fundamentally alter not just the policy, but the behavior of of everything kan.
-
-
 
 [16:48] Haziq: Baik baik baik baik. Dr., ada nak tambah apa-apa?
 
-
-
 [16:50] Dr. Irwan: Tak. I think betullah. This is a kind of a new approach lah. Memang dia very challenging sebenarnya bila kita nak apa ni to change the mindset lah, cara berfikir. In fact kalau saya lihat juga dalam RMK-13 ni dia ada juga emphasize untuk what we we say as intergenerational equity lah untuk melihat kesenangan the next generation. Jadi untuk untuk menjaga the to sustain the benefit of all this economic wealth, kita memang kena sangguplah untuk buat sacrifice. And among the sacrifice that I could see in the RMK-13 ni macam dah ada subsidy rationalisation. That's actually a very risky, but very brave and important.
-
-
 
 [17:40] YB Rafizi: Macam mana kerajaan nak buat tu saya tak pastilah.
 
-
-
 [17:45] Dr. Irwan: Pilihan raya 2 tahun lagi ni. Cuma I think kita kena kita kena orang kata perkasakan lagi awareness to the sebab kadang-kadang kita kena fikir balik, whatever kesenangan that we enjoy today, among others contributed by the sacrifice made by our our ancestors, by the previous generations. So takkanlah kita nak semata-mata memikirkan tembolok kita pada hari ini, kita korbankan kesenangan anak cucu kita pada masa depan. Sebab kalau dalam contohnya dalam Islamic economics lah kan?
-
-
 
 [18:14] Haziq: Ya, betul.
 
-
-
 [18:16] Dr. Irwan: Dalam Quran pun biasa dalam surah al-Hasyr contohnya Allah sebut, "Walladhina ja'u min ba'dihim yaquluna rabbanaghfir lana wa li-ikhwaninalladhina sabaquna bil-iman". Maknanya Allah sebut bahawa generasi-generasi akan datang ni kalau orang-orang beriman ni, dia akan mendoakan, maknanya dia kenang dengan baik generasi terdahulu. Maknanya they have contributed, they have sacrificed. So among the and sebab tulah dia doakan supaya Allah ampunkan mereka kan, mak ayah kita, datuk nenek kita kerana apa? Sebab among others, the things that we enjoy today adalah hasil daripada pengorbanan mereka. Jadi kita juga kena fikir, sebab tu saya rasa kita kena mungkin kita boleh gunakan juga nilai-nilai yang dah ada dalam agama. Saya percaya this thing is universal sebab kita tengok culturally generation kita apa kita dapat lihat previous our parents' generation, they are willing to sacrifice untuk kesenangan anak-anak. So why not, maknanya masyarakat kita ni telah pun dididik dengan nilai-nilai untuk sanggup berkorban dengan masa depan. Jadi cuma kita nak kena link. Contohnya macam subsidy rationalisation ataupun petrol subsidy punya rationalisation. Bila adanya subsidi daripada kerajaan, kita tahu dalam teori ekonomi it will distort the price. Maknanya harga yang dibayar tu tidak mencerminkan kos sebenar. Dan bila harga tu murah, it will actually lead to overconsumption. Bila kita overconsume, the availability of petrol for future generation akan berkurang. Jadi sekiranya itu berlaku, the future may not be able to actually enjoy kesenangan sepertimana yang kita enjoy pada hari nilah. Jadi dia patutnya kembali kepada cara cara kita berfikir. Saya rasalah, that's that's important actually to change the mindset. Kalau kita kaji al-Quran, contoh sebagai Muslim, Allah sentiasa ingatkan kita untuk fikir your long-term benefit. Sometimes it's okay to sacrifice short-term because more importantly, you kena fikir you punya well-being in the future in the long run. Jadi sepatutnya benda tu kita kena fikir the well-being should not stop when we die, but it should you know continue our legacy to the future generations lah. Saya saya rasa itu antara pendekatan berani yang saya nampak. Jarang adalah kerajaan ataupun ahli politik yang sanggup, sepertimana yang YB sebutlah, 2 tahun lagi nak pilihan raya pun tapi sanggup mengambil risiko. Jadi ini antara yang saya personally I really give credit to this. I know it's not popular, memang tak popular, tapi kita kena tahu bahawa kadang-kadang kita kena endure the the pain for for the sake of future benefit lah.
-
-
 
 [20:51] YB Rafizi: Ini saya nak tanya prof.
 
-
-
 [20:53] Haziq: Jarang orang tanya.
-
-
 
 [20:56] YB Rafizi: Ni saya nak tanya sebab sebab dia sebenarnya sekarang saya tengoklah satu saya rasa prof memang tak boleh jadi politician lah, memang kalah lah.
 
-
-
 [21:05] Dr. Irwan: Memang tak bolehlah. Saya jadi cikgu sajalah, betul.
-
-
 
 [21:09] YB Rafizi: Kalau kalau cerita and then dia ada kaitan dengan yang saya nak tanya ni kan. Okey, that's the spirit sebenarnya yang kita kita cuba sampaikan dalam policy making. Maksudnya satu, kepada generasi sekarang, pimpinan sekarang, we cannot kick the can down the road forever. Sebab kita ni pun macam yalah umur yang kita yang Gen X, yang awal-awal millennials kan, kita pun dah merasa sebenarnya beban itu kan. Masa masa kita muda tak timbul soal hutang PTPTN, semua ni tak timbul kan sekarang. Jadi okey, now satu benda yang kita tak boleh lari yang saya tengok dalam seminggu yang lepas ni saya kena kecam berterusan terutamanya dari kalangan muda. Ini soal yang saya rasa akhirnya RMK ni yang lain pasal ekonomi tu dia tak bising sangat. Yang bising nanti ialah dua perkara eh. Satu ialah retirement age. Kerana RMK memang dah menjelaskan kita kena naikkan umur persaraan kita ke arah 65. Macam mana nak buat tu, sama ada daripada 60 jadi 62, 62 jadi 65, yang itu kerajaan kena tengoklah in the future. Tapi mandatnya tu dalam 5 tahun ini kita kena naikkan ke 65 kan. Satu lagi ialah kita kena mula bersekolah wajib pre-school, pra-sekolah 5 tahun dan darjah satu 6 tahun, habis sekolah 16 tahun. Maksudnya lepasan sekolah boleh menyertai sektor pekerjaan seawal 16 tahun dan kalau dia buat degree ke apa pun, 21 tahun dia dah kerja. Yang ini budak-budak Gen Z, Gen Alpha semua ni, saya tengok banyak maki saya secara berjemaah sebab dia kata, "Oh ini kalau yang naik retirement age ni kata ni memang tak guna orang tua, ambil kerja kita semua ni nanti kan. Kita nanti tak boleh naik pangkat." Kemudian kalau yang nak suruh start sekolah awal, mula kerja awal ni, ha memang jahat ni, nak mengkulibartakkan kita semua. Okey. I think prof tahu why it has to happen, but how you going to tell Terutamanya budak-budak kat uni ni, how Because kalau tak buat ini, dia orang akan tanggung teruk 20-30 tahun daripada sekarang.
 
-
-
 [23:38] Dr. Irwan: Nanti kalau saya bagi jawapan, mungkin saya pun akan join group jugalah kan. Akan kena ni jugalah. Tak apalah, at least I am not a politician. Cuma mungkin cara my my personal opinion lah, maybe the way when you put it your suggestion, you mention about the number, age, start early school, and then retire at 65, perhaps rather than simply telling the number, perhaps you can highlight what are actually the content ataupun the input. Why? Kenapa kena start awal, habis 16 tahun?
-
-
 
 [24:14] YB Rafizi: Kita dah cakap dah.
 
-
-
 [24:15] Dr. Irwan: Yalah, maybe the way...
-
-
 
 [24:16] YB Rafizi: Tapi tapi sebab macam prof kata tadi kan, especially because of the digital age, the younger generation actually has short shorter attention span dan juga is is given that in today's world orang melihat kepada instant gratification. Jadi dia tengok yang depan tu aje. Ha.
 
-
-
 [24:40] Dr. Irwan: Betul. Cuma mungkin saya nampak the way when you put your suggestion, it seemed that among the main reasons kenapa you nak sekolah start awal dan habis start awal juga sebab you nak cepat tu, instant tu.
-
-
 
 [24:52] YB Rafizi: Dia dia sebenarnya kalau macam dalam RMK dan juga dalam apa nama ni perbahasan kan, I think we try our best to make it clear. Kenapa contohnya soal reformasi pendidikan yang bermula dengan pra-sekolah semua ni, bagi saya antara yang paling penting kerana it ticked all the boxes. Bagi tujuan pendidikan kan, pelaburan yang paling penting ialah pelaburan semasa awal, early childcare. Kerana kalau murid itu sudah pun lambat, sedangkan dia punya response and dia punya apa nama ni perkembangan mental dia, fizikal dia yang paling fleksibel untuk dibentuk itu bentuk awal, 4 tahun ke 9 9 tahun kan.
 
-
-
 [25:46] Dr. Irwan: Pepatah Melayu tulah, melentur buluh. Biar dari rebungnya. Yes.
-
-
 
 [25:49] YB Rafizi: Kan Melayu pun kata macam tu kan? Sedangkan kita pre-school right pun tak ada. Kita tak ada hak untuk pra-sekolahkan. Jadi perkara itu telah disebut jugalah. Dan apa nama ni then kalau kita mula 6 tahun, kalau pra-sekolah tu dah mula 5 tahun, 6 tahun dia mulalah kan. And you maintain the same schooling years. Jadi sebab itu instead of 17, 16. Saya rasa benda itu memang telah diterangkan. Tetapi you we have to anticipate dan terpaksa menerima bahawa I mean benda-benda berat pasal you know pembangunan semua ni kepada yang muda, that's not their problem. That's your problem, politician. You duk cerita kicking can down the road ni kan. Sedangkan all this has to happen untuk mengelakkan beban berganda kepada yang umur 20-an atau awal 30-an ini untuk menanggung beban cukai dan kos negara yang terlalu tinggi by the time they are 40 and 50.
 
-
-
 [26:54] Haziq: Cuma sikit YB, mungkin dia nampak secara direct. Sekarang ni nak cari kerja pun susah dia rasa. Itu yang benda paling boleh dia relate, kan? And mungkin underemployment pun agak tinggi. Jadi bila buat macam ni, itulah kesan yang terus.
-
-
 
 [27:11] YB Rafizi: Ya, dia nampak yang paling jelas yang itulah kan. Yalah, sebab itu saya rasa itu yang bagusnya bukan akulah, aku bukan menteri. Kan ini saya bagi tips kepada yang dalam kerajaan. You will have this difficulty.
 
-
-
 [27:26] Dr. Irwan: Bercakap tu memang senanglah. Nak buat tu...
-
-
 
 [27:28] YB Rafizi: Yang nak buat tu kan.
 
-
-
 [27:29] Dr. Irwan: Okey.
-
-
 
 [27:30] YB Rafizi: Cuma to be fair juga, kalau tengok ini untuk universiti. Saya tak pasti lecturer ke ataupun VC semua perasan tak, ada satu benda yang sebenarnya radical change dari segi sasaran negara yang melibatkan employment dan universiti. Selama ini sebelum RMK-13 kan, sasaran universiti adalah marketability.
 
-
-
 [27:59] Dr. Irwan: Yes, ha.
-
-
 
 [28:00] YB Rafizi: Sebab itu kalau tengok setiap tahun marketability kita 96%, 97% kan. Jadi dia ada disconnect tau. Parents dengan majikan semua kata, "Macam mana sampai 97% semua?" Sebab and most people, prof, dia tak tahu sebenarnya parameter dan method untuk mengira marketability, tracing study tu sebenarnya asalkan sama ada dia masih belajar ke apa semua, dia 97% lah. Kalau tengok RMK-13 dah buang marketability tau. Marketability tidak lagi menjadi sasaran untuk IP untuk pendidikan tinggi. Dia sebenarnya matching employment.
 
-
-
 [28:45] Dr. Irwan: Matching employment.
-
-
 
 [28:46] YB Rafizi: Sebab macam yang Haziq kata, in my opinion, yang ini ambil masalah untuk buang marketability ni kan. I mean there's no point telling people kita ada universiti yang hebat yang marketability-nya 98%. Budak-budak, sebab kalau pakai marketability, underemployment is still a tick. Asalkan you ada kerja. Sama ada you buat kerja tu you kerja jaga kaunter ke apa, masih lagi ada kerja kan. Yang kita nak going forward is that kalau you keluar sebagai engineer, you must get that right job within the right salary band. Sebab itu kalau tengok dalam RMK, sasaran negara sekarang is by 2030, kita ada 72% I think of graduates yang mesti ada matched employment. Jadi untuk mereka yang tanya yang itulah, "Kita orang belajar susah payah tak dapat kerja semua", it's not as if perkara itu tercicir. Memang bila kita dah tahu bahawa kalau kita tak tak fix the problem dari segi underemployment semua ni pun, yalah dia tidak akan mencapai sasaralah.
 
-
-
 [29:58] Dr. Irwan: Hm okey.
-
-
 
 [30:00] YB Rafizi: So lepas ni lecturer semua akan dapat KPI barulah. Sebab dia akan filter daripada KPI...
 
-
-
 [30:06] Dr. Irwan: Tapi betul YB. Actually I mean I I realized that sebenarnya bila menggunakan marketability ataupun employment punya target tu macam like you said lah, as long as they do something, kita tick saja dan kita punya as long as oh kalau dah tick tu makna kita dah capailah. So when when when when this is changed to matching, so now actually still it will be a bit tough lah. It's a big challenge to apa ni providers of higher education, but I think this is the right challenge lah. So kita kena willing to take it up and try to make sure that whatever that our graduates that we have taught them, so dia memang selayaknya dia dapat supaya tak ada. Sebab saya nampak mungkinlah like you said, kenapa generasi muda sekarang banyak dia apa ni maki ke apa ke, dia tak dia susah untuk tengok kebaikan. Apa what's the long-term benefit? Perhaps because there are so many events that have taken in the when they are they are young ni yang menyebabkan dia seems to to lose hope. Kan? Tengok buat macam ni pun sama saja. So buat bila try pun sama saja. When they when they try to do something different pun, that seem that the outcome is the same. Macam tak ada nampak apa perubahan pun. But perhaps kita kena still, sebab tu kalau dalam dalam Islam ni kita haram bunuh diri. You should never give up. Tak boleh give up. Kut mana pun as long as you you you are alive, that means there's still hope. Kan? Kalau cara ni gagal, cuba lagi, cuba lagi. So do do not ever lose hope in in in in God lah. Kalau kita Islam kan, dengan dengan Allah ni. Selagi mana tak tu, try. Tapi nak nak keep the the fire to continue to burn among the youth ni supaya dia tengok okey, mungkin kita dah try, saya dah try 2-3 kali tukar parti ke, tukar kerajaan ke, but they should continue to to still put the effort.
-
-
 
 [32:07] YB Rafizi: Seterusnya, terus tukar. Tapi tapi itu juga antara diagnosis yang yang paling utama dalam RMK-13. Sebab tu kepada yang mendengarlah kan, saya tahu saya tengok perbahasan, saya tak tahu ahli parlimen pembangkang yang mana yang komen dia, "RMK kali ni nipis, tak cukup bagus." Siapa nama dia ah?
 
-
-
 [32:29] Haziq: Kelantan.
-
-
 
 [32:30] YB Rafizi: Tak, yalah kan. Tak, memang sebenarnya itu arahan saya. Saya baca semua RMK yang lepas-lepas, saya tahu yang kau orang tulis sampai 500 muka surat ni, kesian kau orang tulis panjang. Orang tak baca. Jadi kita memang nak concise-kan dia and just focus on benda-benda penting kan. Jadi sebab itu ada beberapa muka surat yang yang bagi saya sebenarnya tak perlu baca semua bagi orang yang tak larat nak baca RMK tu. Saya ingat dalam berapa? Saya dulu dalam dekat 200 muka suratlah. I think my instruction dulu jangan jangan lebih 200 muka surat kan. Yang penting dia ada satu rumah tu, ada satu kalau ringkasan, dokumen ringkasan yang dalam 10 muka surat tu, muka surat terakhir dia ada ringkaskan dalam satu diagram. Yang itu penting. Kalaupun tak baca keseluruhan, saya mintalah yang lain tu pergi download, baca dulu sebab berbalik kepada yang prof cakap tadi kan, satu diagnosis utama dalam RMK-13 ini ialah disillusionment kerana kegagalan kerajaan dan negara untuk memberi peluang social mobility. Itu sebenarnya sangat berbahaya kepada negara, terutamanya kepada generasi muda dan tak boleh nak marah dia sebab masa kita prof muda sikitlah. Masa zaman saya dulu kan, tu yang saya selalu cakap, kenapa ada istilah berkolok-gadai dalam Melayu ni kan? Sebab zaman dululah, termasuklah zaman saya growing up, you know, in in early 80s semua kan. Keluarga akan sanggup jual tanah, jual lembu, gadailah semua. Zaman tu tak ada, PTPTN pun tak ada, pinjaman pun tak ada. Nak masuk universiti dia kena bayar yuran, beli semua kan. And it was a big burden, terutamanya kepada keluarga biasalah. Tapi mak ayah akan sanggup buat apa saja dan anak-anak akan belajar separuh mati sebabnya they know if you excel in school, kemudian if you go to university, bukan sahaja hidup anda akan jadi baik, you akan berjaya jaga keluarga dan tingkatkan kehidupan mak ayah. Now that's no longer the case tau. And and because of that, dia menghasilkan generasi yang kita ada yang muda sekarang ni yang macam prof sebut, bahawa nak salahkan dia pun tak boleh because to be fair to them lah, dia dah buat semua yang patut dia buat. Suruh dia buat SPM, dia skor. Kemudian dia pergi universiti, dia dapat degree. Dia buatlah dia keluar, keluar-keluar kena bawa Grab. Kan? Fenomena itu adalah hasil rangkuman cabaran dan sebahagiannya kegagalan kerajaan, sistem kita dan juga masyarakat kita untuk memastikan ada mobiliti sosial. And and that's, you know, that's the diagnosis. Sebab itu pilar kedua tu, tunjang keduanya ialah macam mana dalam tempoh 5 tahun akan datang ni kita nak mengembalikan prospek mobiliti sosial itu dalam masyarakat.
 
-
-
 [35:58] Dr. Irwan: Okey now YB, just saya nak nilah sikit. Bila apa ni YB sebut social mobility, yalah memang kita nampak memang so far education would be the the the good key lah to actually break whatever poverty cycle semua nilah. You have been emphasizing on education. Cuma mungkin satu benda yang mungkinlah kalau you can answer, it seems that kita dapat lihat bahawa there seem to be macam ada asimetrik lah, tak sama, tak seimbang antara economic growth dengan kita punya salary kan? Cuma bila saya tengok dalam RMK-13 ni dia ada, adalah few things that you address on the apa ni salary, wage apa semua ni. But perhaps it's not sufficient yet lah to actually make sure that the movement. Sebab sebab yang tu pun saya rasa antara yang generasi muda dia akan perhatikan. In the reports whatsoever, our GDP, KDNK semua ni macam very good, inflation seems to be under control, kita negara kita kaya, maju, hasil banyak. Tapi pergerakan gaji tu dia dia degil, dia tak nak. So mungkin kut YB boleh...
-
-
 
 [37:16] YB Rafizi: Yang ini pun selalunya yang geng muda, terutamanya Parti Sosialis dan penyokong merekalah akan kecam betul-betullah.
 
-
-
 [37:24] Dr. Irwan: Tapi saya bukanlah, tapi ini yang kita nampaklah kan. Cuma ada I could see a few things you mention about the minimum salary, living wage apa semua tu, living salary apa wage apa tu. Tapi macam macam setakat tu ajelah, dia pun tak ada another orang kata macam radikal ataupun something that brave enough to actually rock the boat and somehow make the the movement tu untuk ni sikit.
-
-
 
 [37:47] YB Rafizi: Dia this is the part yang sebenarnya kalau kita cuba sedaya upaya untuk menyelesaikan satu-satu masalah, tambah masalah macam itu kan, huge macro economic conundrum kan. Then you have to be objective. And bila you jadi objektif, dia sebenarnya tidak ada one silver bullet. Then you have to go through that root cause analysis kan. Jadi kita kena tanya nak nak balik kepada apa sebenarnya yang ada dalam RMK-13 ni yang boleh menggalakkan gaji yang lebih adil to provide that mobility social kan. So you peel the first one, prof kan. Then let's look at the structure of our economy. What is our largest employer kita apa? Largest employer kita adalah PMKS, Perusahaan Mikro, Sederhana dan Kecil kan. Mikro, kecil, sederhana, PMKS kan. Dan PMKS ni kedai-kedai apa? Macam nilah yang macam jual kuih, gini-gini kan. Jadi kan jadi and then the question is sebenarnya the structure of our economy tu tidak mengizinkan. Okey ya. Of course yang hendak didengar ialah kerajaan contohnya memandatkan gaji minima RM3,000, gaji graduate apa nama ni katakanlah RM5,000. You and I know it will destroy the economy. Sebab sebarang kenaikan gaji tu mestilah setara dengan the value creation, real value creation kan. Jadi bukanlah salah budak-budak ni. Bukanlah salah pekerja, you know. Setiap kali kita bercakap diagnosis macam ni, akan ada yang kata, "Oh ini memang kapitalis ni. Ini memang menyalahkan pekerja." It's not. The structure of our economy kan. Jadi we just do not have enough large companies or sophisticated SME yang menghasilkan perkara-perkara yang membolehkan pekerja-pekerja ini di di-employ dengan gaji yang setimpal. Sebab kegiatan ekonomi dia begitu kan. Sebab tu we have to fix the structure of the economy. Yang itu tu nak tak nak, then dia mula akan mencapahlah. Satu contohnya you have to kerajaan kena melabur dalam sektor-sektor yang memang boleh menawarkan gaji dan menambahkan bilangan pekerja yang dibayar gaji macam tu. Hence, the HGHV lah. Maksudnya yang yang industri yang berasaskan peralihan tenaga, kemudian industri yang berasaskan advance elektronik, chip, semua ni kan. Dan dia bukan untuk kerja kilang tu, dia kena buat chip tu. Kena innovate kan. Kemudian digital ekonomi, kemudian actually modern farming. Dan yang terakhir ialah kritikal mineral kan, rare earths semua ni. Jadi dari segi apakah industri-industri yang mesti menjadi tunjang supaya dia boleh create the ecosystem, you know, government nak kena yang itu dah ada. Kemudian we talk about the education, memang betullah yang itu maksudnya kan.
 
-
-
 [41:21] Dr. Irwan: Mungkin saya nampak jugalah tadi YB sebut structure kan. Cuma mungkin kita juga boleh fikirkan, we can also ride along our culture sebab dari kecil kita telah pun kita tahu dalam agama kita, Islam, kita ada third sector contohnya. I think this is something that is unique to to yalah. Cuma memang ada. This is something that is unique to us. Maknanya kalau kita sebab kebanyakan of course RMK-13, many of the indicators these are what basically we take it from the from the West lah. Okey. Cuma mungkin in terms of the Western punya framework, third sector ni yang based on voluntary, philanthropic punya activities, might be under undervalued lah over there. But over kita punya budaya kita ni dari kecil memang kita sering dididik kita kena selalu tolong orang, sedekahkan, philanthropic semua ni, voluntary. So perhaps if this thing, macam I know it's there in RMK-13, it's good that it is being put there, but perhaps this is something a a a very good alternative that can actually complement macam mana yang YB sebut tadilah kan untuk perkasakan balik gaji setimpal apa semua, employment opportunities ni, why not rather than biar terbeban kepada Saya tengok pun cantik dia punya apa ni division, distribution of the sources: 70 public lebih kuranglah, 20 daripada private, and another 10 would be the collaboration lah between the two. So maybe yalah daripada dibebankan ke 70 tu, since kita pun ni memang Cuma saya rasa benda ni a bit not not really reported properly dan kadang-kadang alhamdulillah sekarang dah makin mendapat perhatian. But perhaps we can actually ride along this is actually saya rasa ini adalah strong point apa philanthropic ni kan, wakaf ke, zakat. Saya rasa dalam budaya-budaya lain pun memang kita ni dididik untuk sentiasa bertimbang rasa, bantu orang lain yang lebih susah dan sebagainyalah.
-
-
 
 [43:19] YB Rafizi: Ada. Sebab tu saya minta yang belum baca, baca. Sebabnya begini eh. Yang yang yang saya duk sebut sebelum ini pasal third sector lah kan. Dan kalau macam saya sendiri, kami dah lancarkan Ayuh Malaysia. Kita we are building and codifying tau. Konsep dalam contohnya perusahaan sosial, third sector yang kita bawa ialah sebenarnya based on musyarakah. Basically profit-loss sharing, perkongsian. You ada pre-profit, post-profit, it's all musyarakah sebenarnya. Cuma kalau kita setakat cakap pasal musyarakah, tapi benda itu tidak codify and then brought into business reality, then dia jadi sembang sajalah. So I think that's my focus yang saya ingat pegawai-pegawai bekas pegawai saya di kementerian saya pun tahu. Okey, I do my bit outside, you do your bit inside kerana di sebelah kerajaan pula, semua undang-undang ini mesti dibuat. Sebab tidak adil kalau kita nakkan you know kalau pakai konsep musyarakah kan, tidak adil untuk kita nak ekuiti partner tu datang bawa duit and then dapat perkongsian yang kecil because the money goes back kepada masyarakat semua, aset partner semua tu. Dah dahlah payah ni, tak ada untung, dapat sikit untuk kita apa nama orang kata menderma, sedekah semua ni kan. Tiba-tiba yang dapat sikit tu pun kena bayar cukai. Tak bolehlah macam tu kan. Jadi dalam RMK-13 semua tu dah ada. Tapi ada satu benda yang saya rasa setakat ini saya perhatikan, tak ada seorang pun lagi dalam Malaysia ni perasan ada dalam tu. Yang berbalik kepada yang prof cakap tadi mengenai sebenarnya budaya kita. Kita akan berhadapan dengan beban masyarakat menua. Dan you know 2050 lah, dan masalahnya saya rasa saya hidup lagi insya-Allah 2050 kan. Kerajaan tidak akan mampu menanggung beban menjaga dan juga kesihatan, kebajikan orang tua di negara ni tau. Memang tak mampu dah kalau 2050, 2060 kan. Tapi sebenarnya kita ada satu kelebihan yang budaya lain dalam dunia ni tak ada. Kita, anak-anak memang bagi duit kepada mak ayah. Sebab tu you know yalah yang orang tua macam saya ni kan dekat 50 ni kan, kadang-kadang mak ayah kita orang ni kaya tau. Kalau ada anak lima orang, seorang anak bagi RM1,500 sebulan, walaupun dia kerja kampung semua dulu kan, dia tak ada hutang. Dia bukannya buat mortgage. Dulu dia beli tanah, dia beli cash. Cash. Sebab dia simpan-simpan orang susah dulu beli tanah cash, tanah pula murah dulu kan. Buat rumah, cash. Semua cash orang dulu tau simpan duit. Jadi dia tak ada hutang. Kemudian katakanlah anak lima orang, seorang bagi RM1,500, RM2,000 sebulan kan, eh pencen dia kalau RM10,000 sebulan katakan ni, itu sama macam JUSA A punya pencen tau. JUSA C, sorry lah, melebih pula, JUSA B punya pencenlah, padahal orang kampung aje. Benda tu agak biasa tau zaman-zaman semua at least my generation lah. Yang kita orang yang dah 50 lebih ni memang yalah macam itu kan. Tapi dalam sebelum ini yang saya selalu duk complain lah, sebenarnya kerajaan dan negara tak pernah iktiraf benda tu tau. You don't get tax break. You akan tetap kena bayar cukai kepada pendapatan yang you gunakan untuk bantu mak ayah, you jaga semua kan. Kalau ada tax break pun hanyalah dalam bentuk untuk bayar apa nama ni pembiayaan medikal yang kena certified semua. I mean bukan semua mak ayah sakit. And in the future, kita perlukan kalau tidak kerajaan kena bayar kepada orang tua ni tau duit daripada tax payer. So dalam RMK-13, kalau tengok one fine print dia ialah untuk kita formalize bayaran yang dibuat oleh anak-anak kepada ayah ni untuk sebagai sebahagian daripada tax structure kita. Jadi contohnya kalau in the future kan, cuma untuk claim dia banyak scammer lah. Kita perlukan sistem. Kalau tidak, semua orang mengaku dia bagi RM5,000 kat mak ayah dia, dia tak bagi pun kan. Jadi itu adalah antara perkara yang saya harap dapat di diberi perhatian oleh kementerian-kementerian terbabit. We need to build a system yang membolehkan kita mengiktiraf, menggalakkan dan memberi insentif yang ride on this positive culture dalam Islam dan orang kita yang menjaga mak ayah. So supaya I'm I'm hoping 2030, 40 ke nanti kan, memang semua yang bekerja tu dia tahu, "Tak apa, aku memang kena bagi RM500 sebulan kat mak ayah aku." Sebab pencen dia tak cukup, EPF dia tak cukup. Sebab yang itu tu akan dapat tax break, akan dapat yang lain semua daripada kerajaanlah. Jadi kalau kita boleh buat yang itu, walaupun dia tak dipanggil third sector lah, tapi itu sebenarnya sebahagian daripada roh yang kita cuba bawa ke dalam RMK-13. Sebab ada amalan-amalan dan juga budaya kita yang Islam, yang Asia ni sebenarnya jauh melebihi budaya yang ada daripada barat. Mat Saleh tak bagi duit kat mak ayah tau. Kita aje yang bagi duit kat mak ayah.
 
-
-
 [49:23] Dr. Irwan: Betullah. And this thing if it can be really quantified and measured actually, it can really contribute lah macam mana cara kita measure kita punya kemajuan apa semua nilah.
-
-
 
 [49:33] YB Rafizi: Sebab kalau contohnya kita nak mengharapkan the state, kerajaan untuk bagi contohnya pencen kepada warga tua RM300 sebulan kan, payah tau. It costs billions. Tapi actually it's quite normal untuk satu keluarga yang anak dua tiga orang kalau setakat bagi RM500 sebulan kepada parents tu, it's actually quite normal tau. So sebenarnya yang macam prof kata, kita tak track, kita tak iktiraf, kita tak quantify, oleh itu kita tak nampak sebelum ini kekuatan amalan itu yang actually billions are being spent by keluarga-keluarga kita without pengiktirafan, and because of that it doesn't become a part of our welfare system. It should be codified, it should be acknowledged, and it should be incentivized. And if we can do that, dia akan take a lot of the burden daripada tax payer dan juga daripada the state in the future.
 
-
-
 [50:38] Haziq: Baik baik baik baik. YB, sikit berkaitan dengan diagnosis yang YB buat juga kan. Kalau just nak faham YB punya thinking process waktu berkaitan dengan diagnosis ni. YB kata kita sedang negara menua, kemudian kos meningkat, dan kerajaan dalam dilema untuk kenakan cukai atau tak kenakan cukai. Actually kalau YB mungkin boleh visualize more derhaka, negara mana sebenarnya yang dah hadapi benda macam ni dan dia dah dah lepas, dan berapa lama sebenarnya dia nak takes take time lah supaya kita...
-
-
 
 [51:13] YB Rafizi: Tak, dia yang yang yang memang dah officially negara menua. Bukan bukan bukan, bukan negara menua, officially negara tua is Jepun dengan Korea, and China very soon kan. Dan they struggle sebenarnya. Satu kerana kalau tengok pertumbuhan ekonomi Jepun kan, satu of courselah dia terpaksa pay the price for the bubble in the 90s, the bubble burst, Plaza Accord, semua tu, tindakan US. Dia ada 3 dekad yang dia hilang, yang growth is almost stagnant, semua kan. Dan keadaan dia sekarang ialah golongan tua, warga tua dia ramai, hidup lebih panjang, jadi it becomes a big strain tau to China. Sama juga dengan Korea. To the point that dia bagi segala jenis insentif kepada warga mudalah, Gen Z semua ni, millennials semua ni untuk berkahwin. Semua dia nak bayar. Pun tak jadi juga. Sebab bagi keluarga yalah generasi muda, especially di Korea dengan di Jepun kan, the cost untuk seorang anak tu tak berbaloi pun dengan insentif yang kerajaan bagi. Itu yang kita dah belajar daripada Jepun dengan Korea. China is coming soon. Surprisingly in this region kan, Indonesia, especially Java Island, Indonesia and India are going through that process fast because fertility rate dia tu is going down very fast kan. In fact, faster than us kan. Okey now eh. Okey. Apa yang kita belajar? Kita tengok especially Jepunlah and Korea, they struggle tau sekarang dengan tak cukup pekerja, orang muda, semua ni kan, fertility rate is low, semua kan. Tapi bila dia melalui proses menua, which was about a decade ago, dia jauh lagi kaya daripada kita. They were already developed country, they already have very good system semua. And yet, they struggle. Sebab itu, in comparison to sebab tu saya bimbang. That's why I keep saying that, you know, yang kita duk sembang sekarang ni, especially yang saya paling kesian is Gen Z dan millennials lah. Because bila kita cross 2044, 43, 44, that is the official projection yang kita officially jadi negara tua kan, the burden of tax and everything is sebenarnya on Gen Z and millennials kan. And bila Malaysia cross that line, Malaysia adalah negara yang jauh lagi miskin daripada negara-negara yang telah melaluinya. And our system is not prepared for it. Kita tak ada social welfare system untuk warga tua, kita tak ada elderly care pun dalam sistem kita, and we only have 17 tahun daripada sekarang. And that's scary if anything. If you ask me, kan? Ha. So I mean itu kelebihan kami di Kementerian Ekonomilah, because we are macro planner. And when we look at the numbers dengan dosom semua, sebenarnya kita dah terlambat. Sepatutnya kita cerita pasal menua ni 10 tahun lepas. Waktu muda. Waktu muda. And in fact, sepatutnya kita dah mula bagi insentif untuk orang berkahwin dan ada anak ni 10 tahun lepas. Sebab itu antara ha ini saya nak nak bagi aku nak mengomel sikitlah. Antara cadangan awal saya yang ditolak mentah-mentah oleh kerajaanlah, I have always wanted to give child benefit kepada semua. Tak kisahlah kau kaya ke miskin ke apa, actually anak tu is a resource for the country. You need to give RM100 sebulan ke, RM100 Tak kisahlah dia itu T10 ke, T5 ke because if we lose that fertility and kita menjadi macam negara lain yang kita memang orang dah tak kahwin dah, tak nak ada anak, nak reverse benda tu so far no country has managed to reverse it. Ya, tapi yang itu tidak dipersetujui. Tak apalah. So but what we manage to do dengan RMK-13 ialah paling kurang ialah kerajaan mesti provide universal pre-school. Sebab kalau provide universal pre-school, at least it will save bagi sayalah RM700 sebulan daripada keluarga muda. Paling kurang dia tak bebankan sangat dia masa muda-muda kerana belajar daripada especially Korea and Japan, the main reason why orang muda tak nak kahwin dan tak nak ada anak ialah bagi dia orang it will cost them 1 million each anak. You know, "Aku nak jaga diri aku pun tak boleh, buat apalah aku nak tanggung lagi, baik aku tak ada anak." Kalau society kita sampai ke peringkat itu, semua yang kita bincang pasal growth ini, semua ni dia akan jadi lebih parah daripada sekarang tau.
 
-
-
 [56:23] Dr. Irwan: Yang yang yang YB sebut tadi tu bagi child benefit tu, perhaps kalau kita tengok rather than giving cash lah, perhaps some of the many of the apa ni government punya services tu actually perhaps dia punya nilai tu dah equivalent tak dengan 100 tu? Sebab macam contohnya kalau dia pergi sekolah kalau sekolah kan, contohnya kalau dia pergi sekolah kerajaan, kemudian kalau dia dapatkan apa ni medical services from apa ni public klinik kan, klinik kerajaan dan sebagainya, perhaps I mean the the value of the assistance provided by the government not non-cash punyalah, perhaps the value actually...
-
-
 
 [57:05] YB Rafizi: Ya ya, of course. Of course the value tu memang...
 
-
-
 [57:07] Dr. Irwan: But you still insist on cash handout lah.
-
-
 
 [57:09] YB Rafizi: Because because apa nama ni psychologically keluarga muda bila dia nak kahwin dan nak ada anak, dia tak kira what is given in kind ni. Dia kira gaji aku RM3,000, RM4,000 sebulan, anak ni tolak tolak tolak ni aku tak boleh makan. So actually cash incentive, in my opinion, prof, actually is important for childcare. Sebab some of of the burden kita boleh remove daripada provision of universal services, especially childcare lah now lah kan, pre-school yang itu I hope they will do it lah kan. Benda tu dah ada dalam ni, jangan cuba-cuba corner lepas ni kan. But even then, to be fair to family lah, sebenarnya memang napkin contohnya, pampers, susu, mahal. And this actually kalaulah ada childcare child benefit lah kan, RM100, RM300 sebulan semua, walaupun dia tidak akan membantu 100%, at least kita mengelakkan...
 
-
-
 [58:23] Dr. Irwan: Cushion cushion sikitlah.
-
-
 
 [58:24] YB Rafizi: Ha dia dia mengelakkan that psychological barrier yang dah berlaku di negara lain which is it doesn't make orang kata cost-benefit analysis, ada anak ni memang tak lepas business viability. Then you are done.
 
-
-
 [58:39] Dr. Irwan: Tapi YB, if you are wearing the government head, actually that one will pay off because the child later on will become a taxpayer.
-
-
 
 [58:46] YB Rafizi: Precisely.
 
-
-
 [58:46] Dr. Irwan: So apa-apa mungkin dia kira life cycle lah. Makna waktu muda mungkin dia defisit, dia dia kena menerima bantuan, tapi when they grow up, they will help to contribute back. Dia bayar baliklah kan?
-
-
 
 [58:58] YB Rafizi: Sebab saya berbalik pada soalan Haziq tadi kan, pengalaman negara lain kan, saya tak jumpa lagi tau negara yang dah jadi negara tua atau telah melalui negara menua because of fertility punya problem ni around the world. That's a global problem lah fertility kan. Saya tak jumpa lagi negara yang berjaya improve fertility punya isu ni dengan orang berkahwin. Memang buatlah macam mana, bantulah duit macam mana, the moment generasi muda tu rasa it's not worth it, tak berkesan tau. Ada benda eh prof, contohnya economic growth, wages, yang ini ni you can play around with macro policy.
 
-
-
 [59:40] Dr. Irwan: Yes.
-
-
 
 [59:40] YB Rafizi: You know, the fiscal policies semua.
 
-
-
 [59:41] Dr. Irwan: Yes, monetary policies.
-
-
 
 [59:43] YB Rafizi: Monetary policy kan. Cerita orang kahwin dan ada anak ni, you cannot do it. It's all in here, it's all emotional tau. You cannot manage emotional, generational emotion ni, behavioral economics ni dengan all this fiscal policy semua. Jadi sebelum dia sampai kat situ, I think it is in our best interest as society to incentivize lebih awal. Supaya kita jangan sampai ke peringkat Gen Beta lah katakan, kan Gen Alpha, Gen Beta. Zaman Gen Beta nanti, marriage, perkahwinan, kadar perkahwinan jatuh mendadak, kemudian fertility jatuh mendadak.
 
-
-
 [1:00:27] Dr. Irwan: Replacement rate semua habis.
-
-
 
 [1:00:29] YB Rafizi: Replacement rate semua habis. Once you reach that, marilah kerajaan mana pun kan.
 
-
-
 [1:00:35] Dr. Irwan: Okeylah, YB sebut tadi yang pasal apa ni about the future punya concern lah negara menua ni kan. Mungkin saya juga I'd like to give credit yang bilamana dalam RMK-13 ni there seem to be a firm promise from the government on the apa ni the deficit amount kan. I think that's actually a very good move. Maknanya kita meletak mengikat diri kita bahawa kalau kita nak berhutang, kita kena berhutang berpada-padalah. It should be more for the developing punya expenditure and stuff. So I think that's also perhaps one of the ways lah to somehow minimize atau cushion lah yang bila negara menua ni. Memang YB punya idea ke?
-
-
 
 [1:01:20] YB Rafizi: Tak, yes. No, I think daripada awal, you see, when we came in end of 2022 kan, I'm not an economist tau.
 
-
-
 [1:01:29] Dr. Irwan: Ya.
-
-
 
 [1:01:31] YB Rafizi: I I'm but of courselah, I mean I went through I'm an chartered accountant. So kalau you buat ICAEW, economics is part of the module lah. Cuma you didn't go into the details, but you roughly understand kan. But people like me understand income statement, understand balance sheet more than anything else. I mean, that's our life lah kan. Cuba lihat kepada income statement kerajaan. Kutipan cukai dalam hasillah dalam 330 billion. Itu pun dah perah betul-betul kan 330 billion. Bila 330 billion itu dikutip kan, 46 ke 48 billion hanya untuk bayar interest. So even contohnya, if you ask me as a person kan, even kalau defisit kita apa nama ni tak adalah teruk sangat, defisit kita katakanlah 3%, 4% kan, which is okeylah, it's quite okey kan. My argument will be, I'd rather save 5-6 billion daripada bayar interest and then actually pergi belanja kat orang. Maksudnya out of instead of paying 46 billion, let's just pay 40B so that 6 billion tu bolehlah you bagi child allowance ke apa semua kan. Jadi even before we go into the nitty-gritty of defisit semua, kalau kitalah menguruskan pendapatan kita dekat keluarga kan, eh bayar kad kredit sampai 4,500 sebulan interest ni, kerja gila. Walaupun gaji you 20,000, 30,000, membazir kan. Jadi from the very beginning, to me lah, sebelumlah kita nak cerita pasal rationalisation subsidi tu semua kan, everything must be done with the view of really pushing down debt service charge yang 46 billion setahun tu kan, it's about 16% of income kan. But sebenarnya the deficit glide tu, is not in RMK, is not is not bukan maksudnya ini bukan RMK-13. Dia daripada seawal Kerangka Ekonomi Madani Julai 2023, kemudian Kajian Separuh Penggal RMK-12 which was in early 2024, memang semua dah kena letak fiscal glide kan. So sepatutnya daripada 5%, 4%, by 2025 3.5% sepatutnya. Because if we continue with that fiscal glide, only in 2028 kita punya debt-to-GDP ratio akan berada around 60%. So and when that happens, you know by that time GDP dah besar semua, at least kita punya debt service charge yang 46 billion tu yang now 16%, we can bring it down kurang sikitlah kan. And it has been codified sebagai akta. And that's why the credit should go even earlier than RMK-13, the credit. And we have to do that kerana you know as as Menteri Ekonomi contohnya kan, every month akan ada fund managers from around the world. Ini yang fund manager from New York lah, Tokyo yang jaga trillions of dollars kan. The message to any government, any minister is simple. I'm sure before me and after me kan. And and there's this one fund manager yang I think they they he look after trillions of dollars. He said, "You see, we like what we hear and what we are seeing from afar because we are simple people." Dia cakap, "We are although we are analysts, we go through all these numbers, but we are very simple people. We like governments that think long-term." And deficit is just short-term. Is is kicking the can down the road so that the younger generation actually carry this burden kan. Jadi saya if anything, saya lagi bimbang, itu yang saya cakap dalam Parlimen lah. Maksudnya benda ni bukan politik. Bolehlah pembangkang ke kerajaan ke nak berbalah semua. But my hope is sesiapa pun yang ambil kerajaan, janganlah berhutang, berbelanja. Mana yang tak popular perlu buat tu, buatlah. Kena kecam tu is part and parcel of our job kan. Masalahnya kita bimbang kalau bertukar kerajaan, dia flip yang tu pula. Then then, you know, we go through that cycle again lah. But kalau we stick begini, by 2028 we saya ingat kita akan capai the fiscal glide yang kita naklah. Aku rasa yang menonton malam ni bosanlah. Ini cerita payah bila ada orang dua orang tua ni cerita pasal ekonomi membosankan, tak ada bakar orang, tak ada kutuk orang.
 
-
-
 [1:06:41] Haziq: Tapi Dr. ada soalan yang disimpan khusus untuk YB Raf? Yang mungkin general?
-
-
 
 [1:06:45] Dr. Irwan: Oh.
 
-
-
 [1:06:47] Haziq: Ada kan?
-
-
 
 [1:06:47] Dr. Irwan: Adalah, ada.
 
-
-
 [1:06:48] Haziq: Kita simpan di hujung-hujunglah kan, Dr.? Dia kena macam tu YB. Ha kan.
-
-
 
 [1:06:52] YB Rafizi: Aku okey, dia masalah penontonnya. I'm sure mesti banyak kutuk macam, "Bosanlah macam ni. Cerita ni macam pergi kelas ekonomi. Dahlah duduk kelas dia kena dengar dia lecture, dengar podcast pun dengar lagi dia."
 
-
-
 [1:07:06] Dr. Irwan: Nak buat macam mana, dah memang bekerja ekonomi.
-
-
 
 [1:07:09] YB Rafizi: Bicara RMK, ekonomi kan.
 
-
-
 [1:07:13] Haziq: YB, sikitlah. Mungkin saya ni ni tapi ni out of nowhere lah kan. Berkaitan dengan ucapan YB yang YB buat dalam perbahasan hari tu. Mungkin agak rush kan. Berkaitan dengan peruntukan untuk pendidikan, YB sebut kita banyak spend kepada infra, buat bangunan, apa semua. Kalau kita singkap balik kempen Ayuh Malaysia 2022, YB bawa lima teras tu kan?
-
-
 
 [1:07:41] YB Rafizi: Aku dah lupalah, lama sangat dah. Apa dia?
 
-
-
 [1:07:44] Haziq: Antaranya pendemokrasian pendidikan. Actually diagnosis YB tu quite sama. Memang YB cakap benda yang sama juga. Kita banyak spend kepada infra semua. Cuma YB cakap antara solution dia adalah untuk kita start beralih kepada apa ni pembelajaran secara digital. Tapi kenapa mungkin dalam RMK kali ni tak berapa bright atau tak nampak sangat? Adakah diagnosis sudah lain ke atau macam mana?
-
-
 
 [1:08:12] YB Rafizi: Tak. I mean dia sebenarnya satu-satu perkara tu dia ada banyak root causes dialah kan. Tapi you bila kita ada limited resources, I mean economics is the art and science of resource allocation kan. Jadi kita nak kena pastikan tumpuan dalam 5 tahun itu diberikan kepada perkara yang paling besar impak dialah. Jadi pasal digital semua ni memang itu adalah dasar yang berterusan. Kementerian Pendidikan pun ada, dia siapa yang ada anak kat sekolah memang tahu ada DELIMa semua. Kan ada tak? Tu ada. Banyak kekurangan, tapi benda tu ada kan. Cuma diagnosis dalam RMK-13 ialah kalau kita tengok dari segi nisbah peruntukan untuk pendidikan berbanding dengan saiz ekonomilah kan, actually Malaysia setaraf dengan banyak upper-middle income or even high-income nation. Actually kita memang berbelanja untuk pendidikan tau. Kalau ada orang kata tak berbelanja, actually kalau banding dengan negara lain, kita berbelanja. Cuma yalah kita berbelanja banyaknya kita buat sekolah. Saya tak kata salah untuk buat sekolah kerana imbangan sekolah tu pun satu sebahagiannya kerana under investment daripada tahun-tahun dulu kan. I mean kita di di di di luar Lembah Klang mungkin tak terasa sebab di luar Lembah Klang saiz kelas dia tak teruk sangat. Saiz kelas dia saya ingat 20 lebih, tu biasa. Eh di Lembah Klang 50 orang tau satu sekolah.
 
-
-
 [1:09:55] Dr. Irwan: Ha 60 pun ada.
-
-
 
 [1:09:56] YB Rafizi: 60 pun ada kan? Memang sekolah tak cukup kan. Jadi sebab itu saya faham bila PM kata vertical school semua tu semua kena buat kan. So so bila saya kata kita kena imbangkan pelaburan fizikal tu, bukannya aku anti sekolahlah. Sebab tu kalau tengok apa nama ni dalam tahun 23, 24, 25 kan, Kementerian Ekonomi sebenarnya meluluskan berpuluh-puluh sekolah baru tiap-tiap tahun. Banyak tau. Okey. Cuma there's a cuma. Actuallylah kalau sekolah cantik pun, silibus pun sehebat dunia ke apa kan, you need the teachers. More than anything else, jiwa, roh, the real resource of education ni is actually the teachers, and for university are the lecturers. Jadi kita tak boleh nak katalah, memang betullah, resource tak cukup, peruntukan tak cukup. Kita tak boleh nak kata kat cikgu-cikgu, "Minta maaf eh, kita nak apa nama ni buat sekolah dulu, kau pandai-pandailah." Because sebenarnya itu inefficient. Kita habiskan buat sekolah, lepas tu kita duk sibuk nak tukar silibus. Kalau rakyat eh, kalau komen pasal pendidikan ni, pasal silibus kan? Actually kita berapa kali dah tukar silibus? Dulu suruh belajar bahasa Inggeris, lepas tu macam-macam kan.
 
-
-
 [1:11:23] Dr. Irwan: Yalah.
-
-
 
 [1:11:24] YB Rafizi: The real yang saya ingat kita belum cuba buat betul-betul ialah betul-betul memberi peruntukan untuk melatih guru supaya latihan guru ini menjadikan guru setaraf dengan profesional lain macam engineers. So I I give my example kan. Walaupun saya dah tak praktis sebagai chartered accountant kan, eh aku tiap-tiap tahun masih lagi kena submit aku punya training form semua ni kan. I mean apa nama ni CPD, continuous professional development, semua kena buat kan. Kalau engineer, lagilah sama kan. Actually untuk teacher di Malaysia, kita boleh sahaja visualize yang cikgu pun sebenarnya dilatih secara berkala begitu dengan modul dan sebagainya kan. Cuma kita tak payahlah nak buat kat hotel ke, mahal semua ni ataupun nak buat bina kolej baru ke apa, kita banyak IPG. Kita banyak institut perguruan guru. So dalam RMK-13, finally kita berjaya dapatkan persetujuan sebahagian daripada IPG itu mesti ditukar sepenuh masa menjadi institut profesional melatih guru secara modular dan berkala. Kalau sebelum ini mungkin dibuat lebih kepada ad-hoc lah. Kalau nak tukar silibus ke ataupun benda baru, "Okey okey okey okey, sila pergi gini gini gini." Ha pergilah cikgu. Kakak sulung saya cikgu tau, so so I know from the horse's mouth kan. Dan masa Kementerian Ekonomi buat ni, sebenarnya fokus group tu adalah cikgu-cikgu biasa. So we understand kadang-kadang dia tiba-tiba nak kena pergi kursus ni, kena bawa dua kereta, dua dua tiga jam, lepas tu pergi kursus dua tiga jam balik nak kena buat semua. Tak boleh. If you have a module contohnya untuk dia mengajar silibus baru yang bermula 2027 ni, maksudnya if they have to spend 6 months, they have to spend 6 months. Dia kena dilatih betul-betul. And bila kita dah dedicate sebahagian daripada IPG tu, maksudnya dedicate tu maksudnya kena ada bajet, kena ada resource semualah. Then barulah over time cikgu-cikgu kita ni dilatih supaya tidak terkejar-kejar sepanjang masa. Kalau tidak, every time masuk menteri baru, kerajaan baru, dia tukar. Cikgu baru nak, "Ah kena yang ni pula," semua kan. That is yang berbeza dengan dengan apa nama ni RMK-13. And I think kalau kita berjaya put that process in place that bermula daripada sekarang, sistem pendidikan yang baik sebahagian besarnya bergantung kepada the resource and development put into the software, and that software is actually tenaga pengajar, is the teachers. Then dia akan jadi ikutan daripada dulu-dululah. Sebab sekarang ini IPG hanya digunakan untuk melatih lepasan sekolah untuk jadi cikgu. Actually you have to imbangkan yang sebahagian tu yang nak latih lepasan sekolah you continue lah. Tapi yang untuk melatih guru-guru secara continuous development ni perlu berlakulah kan. And I think if we manage to improve the quality of our teachers, benda lain tu kan digital, silibus, semua tu, quality of education will improve immediately as a direct result of it. I don't know, sepatutnya kena tanya prof, dia yang cikgu, bukan aku. Saya dulu cikgu professional accounting and tax trainer saja kan. But actually saya dulu kan in Petronas kan, part of my job is to train young accountants. And memang sebelum dia naik pangkat kan, dia ada modular dia tahu, modul. Modul ni, modul ni, modul, dia kena habiskan semua. And I was one of the tax trainers, apa nama ni cikgu cukai dulu kan. Jadi saya tengok kalau profesional biasa eksekutif pun kena go through ni, actually cikgu kita must be given this resources, prof. I don't know, universiti pun maybe will have to start doing the same kut?
 
-
-
 [1:15:42] Dr. Irwan: Perhaps lah. Cuma memang I honestly I'm I'm not really apa ni know about the nilah cikgu punya sistem whatsoever kan. Sebab dia memang rasanya berbezalah from what you have mentioned lah berbanding pensyarah universitilah.
-
-
 
 [1:16:00] Haziq: Betul ha. Yalah, nanti orang kata macam YB kata enam benda tu kan, "Oh kita dah ada, kita dah ada kursus ni, kita dah ada kursus tu."
 
-
-
 [1:16:07] YB Rafizi: Itulah jawapan awalnya. "Kita dah kita dah ada. Kita memang melatih." Soalnya yalah, tapi melatih kalau tidak melalui sistem and juga bajet. So selalunya saya kena appeal that, "Kita orang nak tolong ni, nak tolong, nak bagi bajet ni!" kan. Ha so but you have to apa ni untuk justify the bajet, dia mestilah kena pendekatan yang baru semualah. I mean to be fair kepada mereka yang merangka RMK lah kan. Dia sebenarnya menteri ni input dia tak banyak mana. Saya punya input ha saya boleh beritahu macam mana buat RMK. Saya set the direction. Pertama, saya kata it's all about education. I I wanted those four tunjang. Focus on fixing the structure. Structure maksudnya dari segi complexity of the economy semua. Focus on social mobility kan. Social mobility tu termasuklah education reform, labour reform.
-
-
 
 [1:17:09] Haziq: So that four tunjang is your brainchild?
 
-
-
 [1:17:11] YB Rafizi: Well, kita bincang-bincang bincang, kemudian kita bersetujulah dia jadi empat tunjang kan. Kemudian saya lontarkan benda-benda dari segi program design. So contohnya yang kalau bayar kepada mak ayah itu it must be codified, you know, third sector. Yang itu memang sebahagiannya datang daripada saya kan. Tapi yang lain semua tu, dia melalui proses yang panjang dengan fokus group, dengan orang biasa semua. Jadi sebab itu sebenarnya politician kan, tugas kita sebenarnya eh tapi prof bukan politician. Saya saya nak check-check aje. Takut berminat. Tugas tugas politician sebenarnya ialah untuk defend this expert. I mean saya mana-mana menterilah, tak adalah menteri yang tahu serba-serbi. Tak adalah menteri yang pakar. Cuma sebagai menteri, kita ada beberapa kelebihan kan. Kita ada all these resources yang pegawai, yang pakar, dan tanggungjawab dan mandat untuk buat keputusan itu memang tanggungjawab menteri kan. So you dengar semua kan. Bila you sudah setuju dan you rasa dia betul, yang ini betul, okey you dah dapat keputusan, tanggungjawab menteri ialah to defend orang-orang yang dah buat kerja ni. Defend a good policy. And kalau kalau contohnya siapa-siapa jadi menteri, saya harap that is the mentality, dan insya-Allahlah. Dia bermasalah kalau tugas menteri, menteri dia takut kena cuit. Benda yang bagus semua dah ada semua ni, "Takutlah tapi nanti saya kena kecam." Ha mampuslah kalau macam tu kan. Memanglah kerja menteri kena kecam! Because you have to defend semua pegawai-pegawai, stakeholders kat belakang ni yang doing the real work. Your real work is getting the buy-in, is is menguruskan perbezaan pendapat ni supaya mereka di belakang boleh buat kerja. Dan saya tak campur yang itu dalam yang saya kata enam perkara yang boleh menggelincirkanlah. Nanti marah menteri kat akulah kan. Actually kalaulah kita boleh bertukar kerajaan, orang datang dan pergi, ahli politik ni, but if you know your core job is to defend the good people who are doing the good job, bagi sayalah, siapa pun jadi menteri then should be okay. That is one thing yang yang saya harap society kita berubahlah in the future.
-
-
 
 [1:19:54] Haziq: Baik baik baik baik. YB, kalau saya boleh tanya Dr. Irwan. Ha ni soalan yang ada permintaan daripada penonton kita juga berkaitan dengan RMK ni, yalah ada juga external factor lah yang menentukan kejayaan apa semua. Antaranya adalah yalah berkaitan dengan pengumuman baru-baru ini. Yalah sebelum ni 19% tarif, sekarang tiba-tiba semikonduktor dan cip 100% persen. Walaupun kita tak tahulah detail dia daripada kerajaan US, macam mana kita nak navigate sebenarnya? Dr.
 
-
-
 [1:20:25] Dr. Irwan: Dia sepatutnya...
-
-
 
 [1:20:26] YB Rafizi: Yang itu tanya menteri luar negerilah.
 
-
-
 [1:20:30] Dr. Irwan: Yang yang lead the the negotiation tu. Sorry lah Dr.
-
-
 
 [1:20:33] Haziq: Ha.
 
-
-
 [1:20:34] Dr. Irwan: Soalan ni kalau kita bagi input pun, I don't think it will have implications lah on the negotiations because we are dealing with someone who is very difficult. The only thing that we can predict is he is unpredictable lah and he he is willing to gamble everything lah. So I think it has led to what we can see as an economic bullying lah kut. Cuma I think perhaps kita kena aware dia bila buli ni, once you start to give in, perhaps the the buli tu dia akan continuelah sebab dia tahu dia ni kalau kena buli dia akan mengalahlah. Cuma kalau kita pun firm sangat and we don't really have the resources per yang untuk defend what will happen to us, dia akan risiko juga. Cuma mungkin since we are selling, kita nak jual barang kita, and now it seemed that it is a buyer's market lah nampaknya dengan cara negotiation tu berlaku, dengan cara threat yang diberikan dan sebagainya, nampak macam dia ada ketidakseimbangan, asimetrik of the bargaining power. Tapi so far nampak macam adalah dia punya cushion sikit tulah, adalah ruang sikit dia bagi daripada dulu 25, jatuh 19, lepas tu dia ada bagi macam okey certain certain sektor ni dia bagi exemption dan sebagainya, kemudian dia track balik yang yang baru kan. So yang tu tu kalau tanya saya, saya pun I think honestly I don't have the the answer to it. So kita continue untuk doa ajelah, hopefully. Because kita tak ada upper hand, I think. Kita nak jual barang kita, kita nak orang tu beli. So nampak macam orang pembeli tu dia ada kuasa bargain yang lebih. So kalau dia kata, "Hmm susah sangat, tak nak belilah daripada kita." Kita juga I think we should think lah kan. Kita barang kita kita dah buat, kita nak jual kan. So it's important, but then they kita hopefully yang yang lead negotiation tu, they really know how to balance between how much we can should compromise sebab kita penjual, but there are certain things for sure kita tak bolehlah.
-
-
 
 [1:22:51] YB Rafizi: Biasalah. Kalau aku timbangkan, memang dah lunyailah. Ini cerita yang pasal RMK-13 pun sama, saya duk perhatikan tak ada seorang pun pembangkang yang bawa this substantive issue. Okey ya. Sebenarnya apa fault line RMK-13? Semua ini adalah berdasarkan simulasi dan unjuran pertumbuhan ekonomi antara 3.5% kepada 4.5%. Daripada unjuran pertumbuhan ekonomi tu dia akan bagi apa nama ni unjuran hasillah. Hasillah, hasil nantilah. Everything else, defisit, hutang semua tu datang daripada situ kan. Sebelum pun eh cerita apa nama ni tarif 100% on chips ni kan, ni masa first round yang apa nama ni tarif 25% semua tu kan, masa itu pun ekonomi ASEAN dijangka hanya tumbuh sekitar 3%. So saya tunggu, aku tunggu biasa aku duk tunggu siapa nak tanya, tak ada orang tanya kan. Actually if anything lah, kalau orang tanya you know apa fault line RMK-13 ni? Kalau the tariff war substantially remake the global trade, there is a big question mark, adakah kita akan berjaya mencapai tiga paling kurang 3.5%? And actually I'm not surprised kalau katakanlah especially the first year impact 2026, you know, 2027 dia akan drag kan sebab dia dia dia ada knock-on effects money to the world economy dan sebagainya kan. Kalau katakanlah 2026 our growth is 3%, ini semua plan cantik ni Tak jadi. out of the window lah.
 
-
-
 [1:24:52] Dr. Irwan: Tak masuk oil price lagi.
-
-
 
 [1:24:53] YB Rafizi: Tak masuk oil price lagi kan. Memang kita predict dia akan decline ni.
 
-
-
 [1:24:58] Dr. Irwan: decline ni.
-
-
 
 [1:24:58] YB Rafizi: Kemudian ambil lagi contoh eh, especially on on apa nama ni chip lah, 100% tarif ni kan. Trump memang straightforward and he dia consider himself sebagai deal maker kan. So tengok hari ini, minggu nilah kan, dia umumkan 100% tarif kepada chips kan. Tapi Apple tak kena. Sebab Apple dah announce $100 billion investments untuk onshoring, untuk bawa balik kilang dia. So kita ambil contoh kita punya FDI ataupun all the manufacturer chip yang kita ada, Intel ke, AMD ke kan. So satu ialah adakah mereka akan teruskan dengan expansion yang FDI kita dah umum tu? Susahlah nak jawab kan. Tapi katakanlah yang itu pun dia tak buat, tapi dia kata, "Tak apalah, kita relocate balik ke US", as what So kita punya eksport ni yang paling besar ialah chips dan semikonduktor. Yes. So then then dia ada another new dimension lah. Dia kita impak kepada kita punya eksport, and then bila eksport rendah, then kita ada masalah trade balance. And then sekelip mata kita double deficit tau. Twin deficit. Trade deficit pun kena, kan. Jadi sebenarnya semua perancangan yang cantik ini boleh boleh dimangsakan oleh one thing yang di luar kawalan kita. Ini yang kita panggil externality lah. Sebenarnya whatever Trump buat tu boleh lumpuh tak adalah lumpuhkan, tapi memang boleh lunturkan semua perancangan yang baik yang yang ada. Macam prof katalah, we can only hope for the best. Okey, cuma pandangan saya agak lain sedikitlah maksudnya. Of courselah untuk short-term sekarang ni kita kena do our best, tapi janganlah sampai kena buli ke apa semua kan untuk kita kurangkan, minimize the impact. Tapi saya rasa kita juga kena belajar daripada negara China. Okey. You know. China ni tiap-tiap hari kena buli. Globally memang dia kena buli tiap-tiap hari. Company dia naik sikit aje Huawei, tak boleh pakai. Ini naik, kena kerat, semua kan. Tapi dia sebenarnya every time dia kena, dia double down tau. Dia dia akan pecut lagi laju, pecut lagi laju. Tengok tempoh 2 tahun lepas kan, bila US daripada apa nama ni masa zaman Biden lagi dah buat apa ni they call it anti-inflation act ya kan, basically chip lah kan, tak nak bagi chip, tak nak bagi Nvidia. Maksudnya AI, dia nak curtail China kan. Then then China comes comes out with DeepSeek. Dia boleh boleh terus maju dengan AI ni setanding dengan the West tanpa memerlukan sebanyak mana chips yang ChatGPT pakai contohnya kan. Kenapa China boleh buat begitu? Sebab itu walaupun dia kena tekan macam mana pun, dia masih lagi boleh terus, kenapa? Because the foundation is strong. Dia punya asas negara dia tu, asas dia kuat, dan asas kuat tu dia ada beberapa kelebihanlah. Of course satu ialah rakyat dia ramailah, market dia besar. But you cannot deny contohnya sistem pendidikan dia cukup baik. The top researchers in the world sekarang ni daripada China. Bila Meta dia nak ke depan dalam perlumbaan AI kan, dia assemble dream team tau AI engineer, semua China. Mana ada Mat Saleh? Contohnya kan. Jadi they are able to do it because they know dalam dunia akan terus bersaing. There's no point untuk menangis. Self-pity doesn't help you. "Oh kesianlah kita, oh kita kena..." Tak tak jadinya. So they know dia punya bite the bullet, build, and then strong foundation kan. Sebab itu every time ada kitaran semua ni, dia navigate dan dia always get better and better. Kita kena belajar macam itu. Sebab itu walau apa pun kesan tarif semua ni, jangan sampai tergelincir bab-bab reformasi pendidikan. Pelaburan untuk masa depan sangat penting sebab dia juga ada unintended consequences. Ini adalah penggal Trump yang kedua. Penggal Trump yang pertama dia dah mulakan tariff war dengan China pun. Dia dah mula. Sebenarnya pemenang terbesar daripada tariff war yang pertama tu ialah Malaysia, Thailand, kerana bila dia tekan China, syarikat China datang melabur kat sini. Sebab itu untuk tempoh 15 tahun lepas kita tengok pelaburan besar China ke kan. Jadi kita tak tahu lagilah what is the unintended positive consequences daripada trade war kali ini kepada Malaysia. Cuma kita hanya akan dapat manfaatkan peluang itu kalau kita ada the right talents, kalau kita ada good foundation. Jadi either way, it's not as if you can run away daripada beberapa perkara yang perlu dibuat. Itu kembali kepada yang prof cakap tadi, kepada adik-adik, belajarlah hidup susah. Hidup ni memang keras, kan? Jadi kan jadi it's like there's no two ways about it. Kita memang apa nama ni terpaksa lalui beberapa perubahan yang mungkin tidak selesa, tapi ini penting untuk masa-masa akan datang.
 
-
-
 [1:30:42] Haziq: Baik baik baik baik. Dr., setuju dengan YB?
-
-
 
 [1:30:52] YB Rafizi: Janganlah tanya setuju ke tidak. Ahli ekonomi tak pernah setuju tau. Saya ada kawan yang yang economists kan from the US kan. Kalau suruh dia tanya bagi opinion ke apa kan, dia bukan soal setuju tak setuju. "I haven't run the number, and I don't have the number." Belum buat lagi data tu.
 
-
-
 [1:31:15] Dr. Irwan: Mungkin kalau saya nak tanya YB satu satu bendalah. Dalam RMK-13 ni, we could see with regard to the tax collection lah, seems to be very ambitious, the largest net tax punya tulah, dia punya nak besarkan dia punya asas dan sebagainya. Dan dalam masa sama saya nampak governance lah, integrity, transparency, these are all being emphasized lah in RMK-13. Cuma macam nampak ada sedikit puzzle bilamana the tax system yang currently lah kan, nampaknya the previous even previously under your leadership dekat ministry tu, nampak dia still favour the SST punya regime lah. So I'm I'm going to this GST versus SST lah. Sebab if we look from the theoretical punya aspect lah, this GST is transparent. Kita sebab it's very clear. Maknanya consumer, we could clearly see if there is a change in the tax rate, so the tax burden maknanya I would know what is the price I'm paying to the seller and how much is the tax burden being transferred to me. But under the yang SST ni, dia punya it can be the the claim, I mean we cannot really predict. Kadang-kadang harga tu naik, but I as a consumer, I wouldn't know whether dia ini betul ke dia transfer the right amount of tax ataupun dia ada ambil kesempatan, and end up I will blame the government lah kan? Ah betul, "Ini harga naik sebab kerajaan naikkan cukailah", kan? So that seems to be a little bit of disconnection lah between these two punya tulah kan. I believe the way macam mana yang RMK-13 tax yang the ambition tu memang dah you have done the estimation apa semua tu based on yang tadi tulah, 3.5 to 4.5, so this is the amount of expenditure, and this is the amount of taxes that would be needed. So based on that amount, dalam ekonomi kita tahu we can either do it through the sales SST ataupun GST just simply to to get the exact amount lah, the the amount needed. Tapi bila buat yang tu tu macam puzzle sikit. Yang tulah soalan yang saya sebenarnya macam tertanya-tanya dia the disconnect tu ataupun adakah sebab political punya reason ke apa ke yang tulah sikit.
-
-
 
 [1:33:40] YB Rafizi: Saya tak tahu apa pandangan di kabinet sekarang. Tapi sepanjang saya dalam kabinet kan, sebahagian besar yalah perbincangan pasal GST ni selalunya di antara MOF, Kementerian Ekonomi dengan PM lah. Jadi dia tiga tiga group ni aje kan. Pandangan sayalah, dia sebenarnya soal fairness dan equity. Okey ya. Satu ialah at the end of the day, GST ni sebenarnya regresif, masih lagi regresif kan. Kerana akhirnya yang bayar finally itu ialah rakyat. Okey ya. So bidang cukai pertama yang saya kira master is actually GST tau. Kalau di UK, value-added VAT kan, VAT kan. Kalau di UK, cukai pertama yang kita diajar ialah VAT dulu tau sebelum buat income tax ke, inheritance tax semua kan. So to me, the simple thing is this eh. Untuk equity, you kena tengok total beban cukai satu keluarga sebelum dan selepas. Kalau GST ini, sebahagian besar daripada keluarga kita, household di Malaysia ni memang tak bayar cukai sebab income dia tak tinggi. Dia tak lepas threshold yang RM4,000 tu semua kan. Kalau household income dia RM3,000, dia tak bayar income tax kan. Dan buat masa sekarang, so katakanlah dia dia dia dia zerolah, hypothetically katakanlah beban cukai dia zero kan. Tapi the moment you letak GST, maka benda-benda yang tiap-tiap hari semua tu, so dia akan tanggung mungkin RM1,000 setahun ke, RM2,000 kan. So in that sense, bila you bandingkan bahawa sebelum dan selepas, keluarga yang sebelum ini tak pernah kena bayar cukai, termasuk contohnya in the future eh, termasuk pensioners. And as you get more pensioners yang tak ada income, tapi dia kena bayar cukai. So before and after, so there is that hypothetical and also moral moral debate tau kan. Dan setakat in itu satu eh. Kedua, satu lagi the issue with GST dan ini pengalaman yang sama di seluruh dunialah, dan kita pun dah melaluinya masa 2015 masa GST dilaksanakan kan. Anytime mana-mana negara melaksanakan GST, you akan see a jump of inflation. So kalau GST tu 6%, then you see 6-7% lah. And kita juga tahu, especially di negara ini, di negara lain mungkin tak teruk sangat, adalah yang turun. Malaysia ni sekali dia naik, dia sangat jaranglah dia turun kan. Jadi kalau you trace inflation price spiking up, actually banyaknya itu yang kita inherit. Kalau orang katalah, "Ah sekarang teh ais RM3." Actually if you go through balik, actually banyak itu adalah daripada siri 2015-2016. Masa itulah the spiking sampai 5-6% inflation kan? Sebabnya masa tulah GST, masa tulah subsidi I mean RON diapungkan dan sebagainyalah. Jadi dalam keadaan kita nak maintain if the priority is price stability, dalam keadaan kita nak maintain inflation ni below 2% or just about 2% supaya as we push for all the other reform, terutamanya labour market reform yang gaji semua ni kan, yang ini you kena press. If you press this kan, you kena control, you buat GST, dia koyak, dia naik atas. Then yang ini you bubuh macam mana pun, dia masih lagi tak membantu rakyat. So it's actually more of that lah. Dia bukanlah sangat pasal politik dan sebagainya kan. So saya berharaplah, saya berharap contohnya, and on that on those two merits sebenarnya, walaupun kita macam alamak SST ni semua tu, I think the priority of price stability and wage growth ni, and to give them enough runway supaya wage growth outpace price inflation ni, saya berharap katakanlah, you know, 4-5 tahun down the line, when you have already reached that gap, then I think you know this issue about regressive nature of GST dan juga price inflation complex ni, then I think kerajaan selepas ini should have more policy option daripada yang kita ada sekarang.
 
-
-
 [1:35:50] Dr. Irwan: Yalah YB, cuma tulah maybe the way bila you buat comparison tu, kalau saya biasanya regresif tu, at least kalau GST tu kita tahu. Like you said lah, kita tahu before and after. Tapi kalau macam SST ni sebenarnya macam we I myself wouldn't know. Actually aku ni kena tipu ke, kena bayar lebih ke tidak kan? Maybe it's just a different different way of looking.
-
-
 
 [1:36:06] YB Rafizi: But that that's also dia ada part yang tidak diperkatakan banyaklah sebab RMK ni tinggi tebal kan. Ada satu part, cuma saya perasan Datuk Amir Hamzah ada sebut. Ada one my pet thing di dalam RMK ialah sebenarnya price transparency. The reason why and it's not fiscal tau, it's not tax. Dia dia sebenarnya kerana dalam supply chain dan value chain negara kita ni, there's no price transparency. Orang kita faham soal price transparency ni kerana, "Oh jihad melawan peraih, jihad melawan orang tengah." Itu cakap orang biasalah. But it's grounded on real economic basis tau. Oleh kerana kita tidak ada price transparency, there is no policy, there is no legislation, there is no framework to force price transparency, actually peniaga kat tengah tu, dia black box to us. Bila sampai kat kita, kita tak tahu. Tanya dia, dia kata, "Ah wholesaler naikkan." Tanya wholesaler, wholesaler kata, "Ah manufacturer naikkan." Manufacturer kata, "Ah aku kena bayar GST." Kita tak tahu pun dia kena bayar SST ke tidak kan?
 
-
-
 [1:36:26] Haziq: YB, mungkin last lah sebab YB nak balik.
-
-
 
 [1:36:27] YB Rafizi: Aku memang nak baliklah, penat dah ni.
 
-
-
 [1:36:47] Haziq: YB cakap dalam perbahasan tu, yalah plan ni kena realistik tapi mencabar. Cuma dari segi timeline YB, ni ada yang orang yang tegur ataupun raiselah dari segi sama ada realistik untuk dilaksanakan atau tidaklah sebab nampak semua radikal. Actually quite radikal. Perumahan nak bawa IBS apa semua, tak pernah sentuh sebelum ni kan. Jadi contoh eh, macam nuklear, dalam bab 2, page 9, dia kata memperkenalkan tenaga nuklear dan beroperasi seawal 2031. It is very ambitious sebab SMR aje kita dah perlu 3 ke 5 tahun, konvensyen berapa? 6 ke 8 tahun, dan kita sangat suntuklah. Jadi macam ambitious sangat ke tak?
-
-
 
 [1:37:00] YB Rafizi: Yalah, dia dia ambitious lah. Kalau bab nuklear tu is ambitious sebab tapi bila orang cakap 10 tahun untuk apa nama ni putting nuklearnlah SMR, small modular reaktor ni kan, sebenarnya 10 tahun tu termasuk contohnya rectification of international treaty kan. Selalunya proses kita kalau nak kata nak ratify semua akta international treaty ni dia campur 2-3 tahunlah. Tapi I think that can be fast tracked, maksudnya within setahun sepatutnya kita dah ratify and I think they have been doing they've been trying lah kan to do it kan. So maksudnya kalau you boleh cut daripada some of the processes tu 2-3 tahun here and there, and then the technology for SMR gets better. So tapi it is on paper, it is very very ambitious lah to pull off introducing apa nama ni nuklear as into our energy mix dalam tempoh 6 tahun daripada sekarang. Having said that lah kan, dia sebenarnya bila kita kata introducing nuklear tu kan, sebenarnya is about capability building kita. Maksudnya kalau kita nak, kita boleh buat dalam 6 tahun sebab akhirnya dia masih lagi kena melalui proses yang melibatkan business viability. Kalau kita introduce, adakah nuklear adalah economical untuk our energy mix dan sebagainya kan? We hope that it meets the economic kriteria lah. Tapi yang kita tak nak berlaku ialah kita perlukan, it meets economic kriteria, tapi kita tak bersedia sebab semua infrastruktur tak ada, undang-undang tak ada, semua kan. So I think the next few years tu lebih kepada compliance, semua tu, so that you know We are ready. We are ready. As and when we think that we need to have it, kita boleh plug and play. Sekarang ni kita tak ada apa tau. Kalaupun esok ada SMR kat situ, kita tak boleh kan. Kita tak ratify international treaty lah, undang-undang tak adalah, compliance tak adalah, semua kan. So I think itu yang dimaksudkan di dalam RMK-13. So dalam tempoh 5 tahun ni, preparing all those framework tu saya rasa reasonable. In fact, saya punya nasihatlah kan, walaupun kita kata kena ada nuklear semua ni, itu still kena tengok dollars and cents. Kalau contohnya memperkenalkan nuklear SMR dalam energy mix kita menyebabkan tarif kita naik 20-30%, well government masa itu kena make the decision. Do you want to pass this hanya kerana nak ada nuclear mix kan? Do you want to pass the cost to consumer kan? But but itu tujuan RMK-13 lah, untuk allow all the framework and infrastructure in place lah for nuclear power mix lah.
 
-
-
 [1:38:38] Haziq: Baik baik, terima kasih YB. Dan terima kasih juga Dr. Irwan yang bersama-sama kita pada malam ini.
-
-
 
 [1:39:02] YB Rafizi: Jangan serik Dr. Irwan eh.
 
-
-
 [1:39:13] Dr. Irwan: Jangan serik, jangan serik.
-
-
 
 [1:39:19] YB Rafizi: Dan yang yang UIA tu, kalau saya pergi, jangan tutup pagar ya. Saya punya pengalaman last sekali mahasiswa UIA jemput saya tahun bila, 2015 ke 2016.
 
-
-
 [1:39:48] Dr. Irwan: Yang motor ke?
-
-
 
 [1:39:50] YB Rafizi: Ha. Saya tidak dibenarkan masuk sampai aku kena smuggle naik motor. Lepas tu tengah-tengah bercakap, ada terpaksalah siapalah yang jadi mangsa kena jadi hero masa tu, dia datang rampas mic kan. So lepas tu sampai sekarang aku tak pergi UIA dah. Kita sembang ikut podcast sajalah lepas ni. So kalau saya pergi UIA lain kali, janganlah tutup pagar.
 
-
-
 [1:40:13] Dr. Irwan: Insya-Allah.
-
-
 
 [1:40:17] Haziq: Sebagai menteri, YB tak pernah datang dah? UIA, sebagai menteri?
 
-
-
 [1:40:19] YB Rafizi: Tak tak tak tak pernah.
-
-
 
 [1:40:20] Haziq: Ha tak pernah eh.
 
-
-
 [1:40:21] YB Rafizi: Saya sebagai menteri tak pernah pergi mana-mana universiti kut. Not just UIA lah, mana-mana universiti saya tak pergilah.
 
-
-
 [1:40:28] Dr. Irwan: Yalah, sibuk sangat.
-
-
 
 [1:40:30] Haziq: Baik baik baik baik. Okey baik, itu saja pada malam ini. Jangan lupa kita minggu depan ada lagi, jangan risau. YB Raf dia nak balik. Tak adalah. Okey, itu saja daripada kami podcast Yang Berhenti Menteri. Kita jumpa lagi minggu hadapan. Jangan lupa tengok. Assalamualaikum.
 
 [1:40:51] [Outro music / Credits]
-
-
 
 [1:45:22] [End of episode]
 

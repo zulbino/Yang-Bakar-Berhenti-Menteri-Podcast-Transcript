@@ -15,947 +15,475 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Music / Intro]
 
-
-
 [02:30] Haziq: Assalamualaikum, salam Fleximart dan salam Kesum kepada semua. Podcast Yang Berhenti Menteri episod ke-20. Dah episod 20. Jadi YB, saya nampak sihatlah. Jadi saya tak perlu tanya. Cuma-
-
-
 
 [02:46] Rafizi Ramli: Nampak sihat. Cuma terkejut, apa punya salam ni? Kau ingat ni salam Madani ke?
 
-
-
 [02:50] Haziq: Saya tarik balik. Tapi sebenarnya nak promotelah, bad promotion.
-
-
 
 [02:54] Rafizi Ramli: Ada cara lain yang mungkin lebih gentleman untuk promote kut.
 
-
-
 [02:59] Haziq: Baik, baik. Jadi sebelum kita bermula dengan episod dan segmen yang lainlah, saya mungkin kena highlight awal-awal bahawa esok pagi jam 10:00 pagi kita ada pelancaran Fleximart di Shah Alam berdekatan-
-
-
 
 [03:17] Rafizi Ramli: Tak adalah pelancaran. Kita buka pintu orang datang berniagalah.
 
-
-
 [03:21] Haziq: Buka pintu. Ya. Dan kita akan ada segmen khaslah untuk ini itu. Jadi sebelum itu, kita sebelum ke Beriya, mungkin saya nak tanya producer kita ada apa-apa ke?
-
-
 
 [03:33] Producer: Tak ada. Kita boleh bermula sekarang.
 
-
-
 [03:35] Haziq: Baik, Tuan. Jadi kita mulakan dengan-
-
-
 
 [03:38] Rafizi Ramli: Dia setiap minggu masa nak start tu semua orang berdebar-debar apa pulalah moderator nak menyimpang minggu ni kan.
 
-
-
 [03:48] Haziq: Okey, saya dah tak nak menyimpang lagi. Kita ke Beriya Mat terus, okey. Yang pertama, kita ada "Hobi jadi durian runtuh, koleksi kad Pokemon nilai berjuta." YB pernah dengar?
-
-
 
 [04:03] Rafizi Ramli: Ya, ya, ada baca. Ada orang beli kan? Dia jual berapa? 1.7? 1.87 juta. Dia tak beritahu berapa modal dia.
 
-
-
 [04:14] Haziq: Dia ada bagi- saya ada check. YB rasa berapa? Teka sajalah.
-
-
 
 [04:18] Rafizi Ramli: Tak tahu. 100,000 mungkin?
 
-
-
 [04:19] Haziq: No. Margin dia senipis saya punya-
-
-
 
 [04:24] Rafizi Ramli: So what? 1.5 juta?
 
-
-
 [04:25] Haziq: Ya, 1.5 juta. Senipis sepunja rambut. Dan yalah dia very fortunate.
-
-
 
 [04:32] Rafizi Ramli: Lama mana dia kumpul tu?
 
-
-
 [04:34] Haziq: Dalam rasa dekat setahun jugalah. Tapi dia kena cross all over the country untuk dapat-
-
-
 
 [04:41] Rafizi Ramli: So 1.5 juta tu campur dengan dia punya travelling expenses kut. Okeylah, adalah juga margin. Nasib baik ada orang beli.
 
-
-
 [04:50] Haziq: Tapi sekali beli saja dapat 1.8. Dia bukannya banyak-banyak.
-
-
 
 [04:54] Rafizi Ramli: Yalah, betullah. Nasib baik- I mean, the- itu pun yang selalu dibuat oleh collectorlah kan. Dia kumpul, dia usaha dia untuk kumpul semua. Jadi orang lain tu bila dia beli, dia beli lengkap semua. Saya- cuma masalah bila buat collector ni sebab anak saya masa muda-muda dululah, sekarang ni dia dah kurang minat sikitlah.
 
-
-
 [05:18] Haziq: Okey.
-
-
 
 [05:19] Rafizi Ramli: Dia gila kumpul Lego. Jadi kita orang beli Lego segala jenis Lego, model semua adalah. Yang masa tu dia memang minat pasanglah. Cuma ada masalah kalau buat koleksi, sebab tak boleh buka. Sebab bila kita nak jual balik tu, dia mesti dalam pristine condition kan. Jadi kecuali memang orang dah memang betul-betul minat awal untuk jual koleksilah. Macam anak saya ada satu lagi dia dia kumpul kereta metal cast yang kecil-kecil tu kan. Saya ingat kita orang dah ada dekat beribu dah kut benda tu kan. Tapi again, some tu payah nak cari. Contohnya metal cast kereta Russia, yang model Russia dekat Russia saja kan. Jadi nak dapat tu punyalah payah. Masalahnya macam anak saya dia beli lepas tu dia buka, dia main, dia letak and then tak boleh juallah.
 
-
-
 [06:18] Haziq: Okey, baik baik baik.
-
-
 
 [06:20] Rafizi Ramli: Tapi okeylah, berbalik modal.
 
-
-
 [06:21] Haziq: Baik, YB. Okey, itu yang pertama. Kita tengok yang kedua. "Dulu ucap tahniah, wahyu politik pun boleh U-turn ikut musim." Ini ketua penerangan PAS, Fadhli Shaari. "Jemput Trump akan jadi penyebab kejatuhan Anwar." YB tahu tak kenapa dia cakap macam ni?
-
-
 
 [06:40] Rafizi Ramli: Tak, dia senang saja. Dalil politiklah. Sebab awal tu- ini ini juga masalah dalam politik sebab dia doktrin an enemy of my enemy is my friend, and vice versa. Jadi awal tu saya ingat PAS memainkan retorik bahawa Anwar diketepikan oleh Trump. Sebab tak dapat tak jumpa, tak dapat panggilan telefon semua kan. Jadi oleh sebab Trump dilihat mengenepikan Perdana Menteri Malaysia yang mereka tidak suka, jadi Trump jadi kawan dia, jadi idola dialah. Itu yang sampai ucap tahniah. Sekarang ni bila tiba-tiba Trump pula jadi baik dengan Datuk Seri Anwar, jadi keluar dalil politik yang barulah.
 
-
-
 [07:33] Haziq: Tapi yalah, dia tahulah, YB. Dia pernah hantar ucapan kepada Trump dan kemudian dia terus tak dapat jadi kerajaan. Jadi sebab itulah dia kata macam ni. Okey.
-
-
 
 [07:42] Rafizi Ramli: Aku tak faham sangat apa yang kau cakap, aku gelak sajalah.
 
-
-
 [07:45] Haziq: Saya harap yang lain faham. Okey.
-
-
 
 [07:47] Rafizi Ramli: Saya harap yang kat luar tu fahamlah.
 
-
-
 [07:50] Haziq: Okey YB, yang seterusnya. Pasal Trump juga. Kita ada Papagomo. "Trump tak jadi datang Malaysia."
-
-
 
 [17:58] Rafizi Ramli: Ni bila pula Papagomo cakap ni?
 
-
-
 [18:00] Haziq: Ini memang a few days sebelum datang. Cuma yang mengejutkan YB, saya tak fahamlah psikologi sesetengah yang menonton ni, sampai 7, 8 ribu di live TikTok lah. Jadi, yap. Tapi last-last datanglah.
-
-
 
 [18:17] Rafizi Ramli: Saya pun tak faham yang kau orang letakkan Papagomo kat sini jua.
 
-
-
 [18:21] Producer: Dia actually confident. Dia kata dekat viewers dia, "Saya dapat maklumat dari dalam yang Trump tolak datang ke Malaysia."
-
-
 
 [18:32] Rafizi Ramli: Siapa percaya Papagomo, silap-silap hari masuk lokap macam dia dululah. Kan? Jadi yalah, itu masalah. Kita macam budaya kita juga, macam dulu-dulu kan. Kita ada orang kata sidang gosip tingkap. Pagi-pagi mak cik-mak cik semua buka tingkap rumah berjiran, lepas tu dia bercakaplah, serah keluar semua cerita. Jadi memang dalam masyarakat kita ada marketlah untuk orang macam Papagomo ni. Dia cakap apa pun, dia mereka disatukan oleh satu perkaralah, iaitu kebencian kepada Anwar Ibrahim. Jadi lagi banyak hentam, lagi banyak bawa cerita, benar tak benar tu tak penting, yang menunjukkan Anwar tu tak baik, Papagomo akan terus ada pengikutlah. Yang malang tu pengikut-pengikut dialah yang akhirnya jadi bahan content kepada Papagomo sajalah.
 
-
-
 [19:40] Haziq: Baik, baik YB. Kita tengok ada lagi ke tak. Okey. "Baby juara dunia, seekor kucing betina."
-
-
 
 [19:48] Rafizi Ramli: Baik lagi kucing ni daripada Papagomo. Paling kurang menaikkan nama Malaysia.
 
-
-
 [19:54] Haziq: Tahniah kepada Baby. Dia menang di Romania. Pertunjukan Kucing Antarabangsa. YB tak nak hantar kucing YB?
-
-
 
 [20:03] Rafizi Ramli: Tak boleh sebab ada belas-belas ekor tu, jadi dia tak boleh pilih kasih ya.
 
-
-
 [20:10] Haziq: Okey, baik baik YB. Dan mungkin kita tengok kalau ada lagi. "Make Malaysia Great Again by Sim Tze Tzin."
-
-
 
 [20:20] Rafizi Ramli: Ahli Parlimen PKR daripada Bayan Baru. Make Malaysia Great Again. Ha, yang ini bermasalah. Terlalu beriya ni kut. Sebab tahulah Trump datang sebagai Presiden US mewakili kerajaan US. Tapi mantra Make America Great Again itu mewakili hampir kebanyakan perkara yang kita sebagai masyarakat Malaysia tak bersetuju. Apatah lagi sebagai PKR kan. Termasuklah dari segi dasarnya yang perkauman, yang bersayap kanan, yang menuding jari kepada semua yang kita pun jadi mangsa sekaranglah dengan banyak perkara kan. Jadi apabila datang daripada seorang Ahli Parlimen yang dah nak masuk ke empat penggal ni ni, Sim ni tiga penggal kan nak masuk 2013 masuk tiga, kalau dia bertanding sekali lagi dia empat penggal, dia tak sepatutnyalah, sepatutnya adalah political sensitivity supaya tidak join the bandwagon make something great again ni. Kerana Make America Great Again, Make Britain Great Again, MAGA ni ialah perlambangan kepada ekstrimis sayap kanan di dunia ini kan. Jadi kalau ya pun nak membodek kan, janganlah sampai macam ini ni. Yang saya selalu perli dalam PKR ni, bila kita mengangkat budaya bodek, dia dah tak tahu dekat mana garis tu sampai dia dah jadi macam terlupa yang dia mewakili parti yang progresif, PKR. Jadi tak perlulah pergi dekat dengan perkara-perkara yang ada konotasi yang sangat negatif ini macam Make Malaysia Great Again kan. Jadi ini ini apa nama ni contender untuk dapat bintang yang banyak kerana terlalu beriya ni.
 
-
-
 [22:31] Haziq: Tapi mungkin ada yang akan kata inilah usaha dia sebagai Ahli Parlimen backbenchers untuk apa ni mengharumkan nama PM dan kerajaan untuk-
-
-
 
 [22:41] Rafizi Ramli: Ini bukan mengharumkan nama, dia mengundang kritikan. Dan untuk jangka masa yang panjang contohnya PKR di peringkat antarabangsa, dulu saya jawatan saya yang pertama eh dalam PKR lah dalam Pemuda Keadilan masa itu, ialah Pengerusi Biro Antarabangsa tau. Dan jaringan antarabangsa yang kita jalin ialah dengan parti-parti progresif. Kalau di UK contohnya, kita tak rapat sangat dengan Conservative Party. Dengan Labour pun, Parti Buruh yang yang dilihat lebih progresif, kita lebih rapat dengan tokoh contohnya macam Jeremy Corbyn, dengan Ann Clwyd. Ini ialah aktivis hak asasi manusia sedunia yang mempertahankan, dulu mereka melawan apartheid, kemudian dipertahankan Palestin kan. Jadi jaringan antarabangsa PKR itu ialah di kalangan parti-parti progresif. Jadi bila ada Ahli Parlimen, kalau dia kata ini untuk melonjakkan Perdana Menteri, dia tak berlaku begitulah. Dia dia sebenarnya dia mencacatkan sedikitlah imej dan juga inti pati PKR yang dibina selama ini ya.
 
-
-
 [24:07] Haziq: Baik YB. Okey.
-
-
 
 [24:08] Rafizi Ramli: Patut tanya ChatGPT dululah kan. ChatGPT akan bagi jawapan macam itulah.
 
-
-
 [24:14] Haziq: ChatGPT biasa dia, "Ya, ya, betul. Saya setuju, saya sokong."
-
-
 
 [24:17] Rafizi Ramli: Itu Grok.
 
-
-
 [24:18] Haziq: Okey.
-
-
 
 [24:19] Rafizi Ramli: ChatGPT tak. ChatGPT akan bagi tahu tahu.
 
-
-
 [24:23] Haziq: Okey, baik YB. Next. Okey, last. "Cuti-cuti Malaysia seminggu baru cukup daripada tak lain tak bukan Mohd Sayuti Omar. Kerana seronok datang ke KL boleh menari, Donald Trump hajat nak duk seminggu, tetapi kerana dia takut kepada pencelar-jalanan, dia pulang awal. Selamat jalan Trump."
-
-
 
 [24:42] Rafizi Ramli: Dia dia dalam politik kita ni dia banyaklah pencacai-pencacai politik di mana-mana pihaklah. Tadi kita ada Papagomo yang kawan baik Trump. Dia tahu Trump nak datang ke tidak kan. Di sebelah Pakatan pula, Sayuti ni dia ni orang Amanah kan. Jadi kita ada juga pencacainya. Ni pun sama juga. Ni boleh letak satu bakul dengan Papagomo. Dia pula tahu sebenarnya Trump hajat nak duduk seminggu, tapi sebab demo semua ni kena pulang awal. Lepas tu boleh mengucapkan selamat jalan Trump. Kalau lepas ini kerajaan US pergi bom Palestin, apa yang Sayuti nak cakap ni? Kan? Jadi sebab itu masalah kita masyarakat, kita ada banyak pencacai politik daripada mana-mana pihaklah, mana-mana parti yang lebih sudu daripada kuah. Jadi macam saya katalah, selayaknya kita hantar Sayuti dengan Papagomo pergi bercuti dengan Trump sebab dua-dua-
 
-
-
 [25:58] Haziq: Fantastik. Fantastik.
-
-
 
 [26:01] Haziq: Okey, baik YB. Jadi itu YB nak bagi bintang?
 
-
-
 [26:06] Rafizi Ramli: Bintang terus kepada- dia sebenarnya sebab level dia Papagomo dengan Sayuti ni dah kira satu bakul, dia tie tak boleh nak bagi kat dia oranglah. Jadi saya bagi kepada Make Malaysia Great Again sebab terlebih-lebih beriya dia nak membodek sampai jadi macam ni. Kutlah PKR sekarang ni ada dua kekosongan kan menteri, mungkinlah dengan Make Malaysia Great Again ni Ahli Parlimen Bayan Baru boleh jadi menteri lepas ni tak tahulah.
-
-
 
 [26:37] Haziq: Baik, YB.
 
-
-
 [26:38] Rafizi Ramli: So yang ini pemenang untuk minggu inilah, tahniah. 4.5 bintang.
-
-
 
 [26:41] Haziq: 4.5 bintang. Tinggi tu.
 
-
-
 [26:42] Rafizi Ramli: Sebenarnya aku nak bagi 3/4 bintang.
-
-
 
 [26:44] Haziq: Okey. Okey baik, YB. Kita terus ke segmen seterusnya. Sebelum itu, producer okey ke?
 
-
-
 [26:52] Producer: Okey.
-
-
 
 [26:53] Rafizi Ramli: Berapa kali duk tanya producer ni?
 
-
-
 [26:55] Haziq: Saja aje nak tunjuk dia ada. Okey, untuk standing order YB, mungkin kita cepat sikitlah sebab saya pun tak sabar nak tanya pasal tarif YB.
-
-
 
 [27:02] Rafizi Ramli: Orang tunggu pasal tarif malam ini aje.
 
-
-
 [27:04] Haziq: Cuma yalah, kita minta review sikit soalan Parlimen dari Tebrau. "Minta Menteri Ekonomi menyatakan JS-SEZ secara rasmi dilancarkan pada 8 Januari 2025, setakat Oktober 2025, berapa jumlah pelaburan yang telah diluluskan oleh kerajaan dan apa langkah yang telah diambil untuk memastikan zon ekonomi ini menjadi hab pelaburan terunggul?"
-
-
 
 [27:29] Rafizi Ramli: Yalah, ini suruh Menteri Ekonomi jawablah. Tak, tapi yalah dalam dua tahun setengah yang diusahakan semasa saya di Kementerian Ekonomi, salah satu perkara yang insya-Allah akan bawa laba besar kepada negara ialah sebenarnya JS-SEZ. Dan yalah, kita mungkin tidak bercakap berkali-kali ataupun memberi tumpuan kepada JS-SEZ kerana pelaburan-pelaburan yang masuk tu makin lama kalau berjaya, salah satu tarikan utamanya ialah JS-SEZ lah. Jadi saya ingat setakat Oktober 2025 dah sekitar 37 bilion dalam tempoh yang singkat. Maksudnya dia ditandatangani secara rasmi 1 Januari 8 Januari 2025 kan. Yang telah diluluskan seingat saya ialah 37 bilion. Kalau yang itu berjaya ditumpukan dan saya tahulah sekarang ni ada menteri-menteri ada yang jenis yang dia kalau boleh nak padamkanlah yang JS-SEZ ni datangnya daripada saya dulu kan. Tak kisahlah siapa dia jadi menteri, potensi yang ada dekat JS-SEZ tu besar dan ia mestilah dipandu mengikut perancangan yang telah dibuatlah kerana potensi ekonomi kepada negara dan dia bukan saja kepada Johor. Walaupun pelaburan itu datang kepada Johor, di Johor, tetapi pekerja-pekerja akan datang daripada seluruh Malaysia. Cukai yang dikutip itu akan masuk kepada Kerajaan Persekutuan yang akhirnya akan diminta oleh Kelantan, Terengganu, Kedah semua. Jadi bagi sayalah, dia antara salah satu rasa puas hati yang baiklah sepanjang saya jadi Menteri Ekonomi kerana tinggalan itu akan menjadi lama. JS-SEZ kalau berkembang dan setakat ini sambutannya baik, kalau ada orang tanya apa formula, formula tulah kalau- ini salah satu formulalah. Dalam tempoh satu tahun, kita berjaya mengusahakan satu zon ekonomi khas dua buah negara yang tak pernah ada di rantau ini, malah ada beberapa kerat aje di dunia ini kan. Jadi saya berharaplah kan daripada satu tahun ke satu tahun. Jadi kalau siapa-siapa walaun yang duk tanya formula tu, JS-SEZ ni dari segi pelaburan yang telah berjaya dibawa masuk dalam tempoh tak sampai satu tahun, sudah tentu lagi banyak daripada yang diusahakan oleh SG4 mereka lah.
 
-
-
 [30:43] Haziq: Baik YB. Cuma JS-SEZ ni memang daripada your brainchild. Dari mana YB dapat inspirasi?
-
-
 
 [30:50] Rafizi Ramli: Tak, sebabnya begini. Saya mengambil alih Kementerian Ekonomi dan Kementerian Ekonomi bertanggungjawab untuk menjaga zon-zon ekonomi wilayah. Salah satunya ialah Wilayah Iskandar. Jadi selepas mesyuarat pertama itu saya ingat dalam bulan Februari 2023, bila saya tengok senarai yang dibincangkan kerjasama Singapura dengan Malaysia, dia dah jadi kepada perbincangan birokrasi. Contohnya untuk membina taman bersama. Jadi bagi saya, banyak masa, tenaga, wang dihabiskan oleh kedua-dua buah kerajaan, takkan nak berbincang pasal nak buat taman kut. Sedangkan kita tahu Singapura ada kekangan, dia tak cukup tempat dan dia tak ada tenaga. Kita pula perlukan dan kita ada sumber yang baik. Isu dia ialah kerana dua negara ini macam langit dengan bumi dari segi di kaca mata pelabur. Sebab Singapura dilihat cekap, cepat, tenaga kerja yang baik. Kemudian Johor dilihat sebagai Malaysia yang yang yang banyak yang tak cukuplah kan. Jadi sebab itu, kalaulah pentas perbincangan di antara kementerian saya dengan kerajaan Singapura itu kita naik tarafkan, bincang benda yang lagi besar. Dan bincang benda yang lagi besar ialah macam mana kita nak harmonikan proses, prosedur, supaya jangan Malaysia atau Johor bersaing dengan Singapura. Kita bekerjasama dan dengan sistem dan proses yang diharmonikan itu, maka orang kalau pelabur, they can have the best of both worlds. Dia boleh letak korporat ofis dia dekat Singapura tapi operasi dia dekat Johor dan dia keluar masuk tu lebih kurang macam- sebab Tambak Johor tu 1 km lebih aje. Jadi kalau daripada Singapura nak menyeberang ke Johor tu hanya ambil masa 30 minit, dia sama macam duduk dekat Ampang, kerja dekat Petaling Jayalah. Dan kalau itu boleh dibuat, jadi itu yang malah awal-awal tu saya ditegur kerana saya kongsi idea saya itu secara terbuka semasa satu sesi libat urus secara terbuka. Jadi ada orang tegur sayalah yang ini ni nanti kena tanya dulu, kena bincang, kena itu dan ini kan. Tapi alhamdulillah, idea itu bila dibawa kepada Kerajaan Singapura, mereka mengalu-alukan. Dibawa kepada Kerajaan Johor, mereka mengalu-alukan. Dan bila saya bawa kepada Kerajaan Persekutuan, ada beberapa suara yang yang menentang awalnya. Tapi akhirnya yalah, bila nampak dah okey tu, semua orang akan join the bandwagonlah. Politik memang begitulah.
 
-
-
 [34:00] Haziq: Okey baik, YB. Kita tengok ke soalan yang kedua. Ha, dari Kota Bharu. "Minta Perdana Menteri menyatakan justifikasi dan alasan-alasan perundangan legal grounds pihak SPRM menutup kes yang dikatakan skandal perlombongan Sabah mengaitkan Datuk Seri Farhash Wafa Salvador Rizal Mubarak seperti mana yang diumumkan oleh Ketua Pesuruhjaya SPRM baru-baru ini."
-
-
 
 [34:23] Rafizi Ramli: Ni orang ramai boleh baca jawapan di laman Parlimen. Jawapannya dia ditutup kerana satu, tidak ada lesen yang diluluskan. Kedua, kerana oleh kerana tidak ada lesen dan tidak ada pertukaran title, maka dia tidak dikira sebagai satu kesalahanlah. Yang itu saya ingat Farhash pun dah saman saya. Yang itu kita akan bawa ke mahkamah nantilah kerana dia sebenarnya lebih kompleks daripada itu. Lebih kompleks daripada itu. Tapi tak apalah, orang ramai tunggulah bila perbicaraan. Masalahnya bila dah disaman ini, maka sebagai orang yang kena saman, banyak perkara itu kalau saya komen lebih-lebih sebelum dibawa ke mahkamah, peguam Farhash nanti akan gunakan itu untuk menunjukkan kononnya saya berniat jahat. Jadi dia sebab salah satu daripada elemen yang perlu dibuktikan di dalam kes mereka bila mereka saman saya ialah elemen malice kan, ada niat jahat. Jadi sebab itu pandangan-pandangan saya, ada beberapa perspektif yang yang rakyat sebenarnya ada hak untuk bertanya dan juga untuk mendapatkan maklumat kepada kes ini. Yang itu nanti saya ingat boleh dibawa ke mahkamah nantilah.
 
-
-
 [36:08] Haziq: Baik, kita tunggu sama-sama. Maaf, saya tak boleh korek juga. Okey, kita ke soalan yang Bachok. "Minta Menteri Ekonomi menyatakan adakah kerajaan bercadang mengkaji semula kategori kumpulan pendapatan rakyat dengan mengambil kira saiz isi rumah, lokaliti dan pendapatan boleh guna bersih agar dasar dan bantuan kerajaan lebih inklusif serta benar-benar mencerminkan realiti kos sara hidup rakyat?"
-
-
 
 [36:34] Rafizi Ramli: Saya saya kadang-kadang confuse sebenarnya dengan Ahli Parlimen PAS ni, contohnya Bachok ni kan. Masa kita buat, masa buat PADU, kemudian kita buat net disposable income, NDI atau pendapatan boleh guna bersih, kemudian di bawah saya dulu Kementerian Ekonomi buat PA- PAWK, pendapatan perbelanjaan asas kehidupan wajar kan, mengikut setiap daerah, mengikut berdasarkan saiz isi rumah, lokaliti semua tu, mereka juga yang hentam. Ni yang yang yang duk hentam PADU semua ni yang duk tanya, PADU tu benda nilah. So sekarang ni dia pula tanya, adakah kerajaan bercadang nak tukar gini gini dan daripada soalan ini memang dia bersetujulah cara yang lebih tepat ialah dengan mengambil kira saiz isi rumah, lokaliti dan menggunakan kaedah pendapatan boleh guna bersih yang telah dibuat di bawah Kementerian Ekonomi pun. Malah semua ini telah dibawa ke Kabinet dan net disposable income, pendapatan asas kehidupan wajar, telah pun diluluskan Kabinet. Memang siapa-siapa kalau pergi ke laman DOSM tu, boleh tengok kalkulator pun. Boleh letakkan maklumat dan tahu ini pendapatan asas kehidupan wajar dan boleh tahu kategorilah. Saya tak pasti sama ada soalan ini ialah soalan untuk mengendap sebab isu dia mengenai pertukaran kaedah kategori kumpulan pendapatan rakyat ini ialah diberkait dengan Budi 95. Jadi keputusan awal dahulu ialah untuk kita menggunakan pendapatan boleh guna bersih, sebab itu PADU dibuat dan maklumat setiap isi rumah keluarga itu telah ada. Tetapi di peringkat Kabinet terutamanya Kementerian Kewangan, mereka tidak bersetuju dengan kaedah itu kerana Kementerian Kewangan daripada awal dia nak gunakan IC dan dia nak gunakan cara sekarang. Dia tak nak gunakan kaedah yang kalau dilihat lebih diterima pakai di seluruh dunia dan juga ahli ekonomi iaitu pindahan tunai. Dia tak nak. Dan sebahagian sebabnya kerana memang daripada PH 1.0 masa zaman Lim Guan Eng lagi pun saya dimaklumkan memang pandangan dan ada pasukan dekat Kementerian Kewangan yang memang telah melihat kaedah nak guna IC ni. Tony Pua pun berpandangan begitu. Jadi memang memang pandangan Kementerian Kewangan daripada awal dia tolak yang lain, dia nak pakai yang itu sajalah. Akhirnya Datuk Seri Anwar sebab dia pun Menteri Kewangan, jadi dia pun gunakan kaedah itulah. Alasan yang diberikan ialah oleh Menteri Kewangan II kan, alasan yang diberikan ialah dia terlalu rumit ni nak mengambil kira saiz isi rumah, lokaliti, pendapatan. Dia takut rakyat tak faham, nanti rakyat marah dan sebagainyalah kan. Jadi itu latar belakangnya. Jadi kita berada dalam keadaan yang mana pada satu sudut keputusan-keputusan itu telah dibuat. Maklumat semua itu dah ada kan. Tapi oleh kerana use case yang utama iaitu penyasaran semula subsidi RON95 itu tidak menggunakan kaedah inilah. Jadi sebab itu saya tengok jawapan daripada Kementerian Ekonomi. Jadi jawapan Kementerian Ekonomi tu jawapan yang tak landing lah. Jadi dia ya pun tidak, tidak pun tidak. Jadi saya ingat membaca jawapan daripada Kementerian Ekonomi tu maksudnya kerajaan sekarang ataupun Datuk Seri Amir Hamzah yang sekarang ni memangku Menteri Ekonomi, dia masih lagi tidak bersetuju dengan kaedah inilah. Walaupun kalau nak laksana, memang dah bolehlah kalau nak gunakan dan laksanakan itu dan mula melihat semuanya daripada perspektif seperti yang Ahli Parlimen Bachok kata ni, memang semua data, semua sistem semua tu dah ada.
 
-
-
 [41:10] Haziq: Baik YB, clear. Tapi jangan risau, Bachok biasa dia akan jawablah bila YB cakap. Okey, baik. Next, Pasir Gudang.
-
-
 
 [41:22] Rafizi Ramli: Ha, ini soalan Pasir Gudang yang lain, bukan pasal tarif eh.
 
-
-
 [41:27] Haziq: Jeremy Corbyn Malaysia. Tak adalah.
-
-
 
 [41:29] Rafizi Ramli: Eh tak, jangan.
 
-
-
 [41:31] Haziq: Siapa bagi idea tu? Producer. Tak ada, tak ada.
-
-
 
 [41:34] Rafizi Ramli: Tak ada. Kau orang tak kenal Jeremy Corbyn. Jeremy Corbyn ini adalah Ahli Parlimen Britain yang pertama yang membawa kes Datuk Seri Anwar Ibrahim ke Parlimen selepas dipecat 1998. Saya masa tu budak lagi, baru mula kerja. Masa itu saya sebahagian daripada kempen Bebaskan Anwar antarabangsa, Free Anwar Campaign kan. Jadi semua kawan-kawan Anwar Ibrahim yang hebat-hebat ni semua tak ada dah masa tu. Tinggallah manusia-manusia yang entah apa-apa. Kebetulan saya ada di UK. Jadi masa itu saya dengan beberapa kawan ialah pandangan kami ialah kalau dalam negara ini semuanya dikawal, media dikawal, pihak berkuasa dikawal, jadi dengan meletakkan Anwar di dalam penjara, maka cerita dia tu dalam tiga empat tahun hilanglah. Jadi untuk memastikan bahawa dunia tidak melupakan Anwar Ibrahim, maka sebab itu perlu ada Free Anwar Campaign. Jadi wakilnya di Eropah tu nihlah. Masa tu umur saya 22 tahun. Jadi saya ketuklah pintu Ahli Parlimen di UK kan dan saya bolehlah sebab saya kerja kat sana, saya bayar cukai. Jadi kira yalah, I have a right to my MP kan. Pusing punya pusing punya pusing, satu-satunya Ahli Parlimen yang bersetuju untuk take up the case was Jeremy Corbyn. Jadi saya ingat lagi tahun 1999 tu kecoh kat Malaysia ni. Masa tu orang reformasi termasuklah orang-orang PAS ni yang yang beriya-iya dia kan, kecohlah pasal Parlimen Britain membincangkan usul mengenai Anwar Ibrahim. Usul tu dia di bawah satu kategori usul, EDM, Early Day Motion. Early Day Motion ni sebenarnya dia macam submit soalan Parlimenlah. You submit kepada Parlimen Britain usul itu, sampai kiamat dia tak baca. Tapi paling kurang adalah kat situ dan dia jadi bahan yang besar di di apa nama ni di Malaysialah. Jadi menyamakan Hassan Karim dengan Jeremy Corbyn tu tak kenalah.
 
-
-
 [43:59] Haziq: Saya saja buka supaya YB buka cerita. Okey, baik saya bacalah.
-
-
 
 [44:04] Rafizi Ramli: Ini tak ada kena-mengena dengan Jeremy Corbyn ni. Ni pasal pertanian.
 
-
-
 [44:08] Haziq: YB nak ulas terus, saya baca?
-
-
 
 [44:11] Rafizi Ramli: Bacalah dulu. Kesian yang orang duk dengar kat Spotify tengah jogging ni kan.
 
-
-
 [44:16] Haziq: Pasir Gudang minta Menteri Pertanian dan Keterjaminan Makanan menyatakan "Apakah usaha yang dilakukan oleh kementerian dalam memberi galakan dan sokongan kepada anak muda untuk terlibat dalam sektor pertanian moden memandangkan laporan Banci Pertanian 2024 oleh Jabatan Perangkaan Malaysia mendedahkan hampir separuh daripada petani di negara ini terdiri daripada golongan yang berusia 60 tahun ke atas?"
-
-
 
 [44:41] Rafizi Ramli: Bagus Pasir Gudang, YB Hassan Karim. Sebab dia baca laporan Banci Pertanian tu kan. Jadi kali terakhir Banci Pertanian ni dibuat tahun 2005. Lama dah. Jadi Kementerian Ekonomi dan DOSM di bawah Kementerian Ekonomi mengambil masa dekat setahun setengah tahu untuk siapkan laporan Banci Pertanian 2024. Dan saya pun tak baca, oleh kerana saya dah tak jadi menteri, maka tak dibentangkan kat sayalah. Jadi saya insya-Allah lepas ni akan ambil masa yang panjanglah untuk baca satu per satu. Laporan Banci Pertanian ni penting kerana dia repositori maklumat yang terkini tentang segala perkara mengenai pertanian. Contohnya kan yang ini satu yang ditunjukkan iaitu sebenarnya berapa orang yang betul-betul petani kat Malaysia ni? Dia bukan saja soal yang dibangkitkan oleh YB Hassan Karim ni yang petani semua ni dah tua semua. Kerana ramai orang dekat luar tak tahu bahawa sektor pertanian di Malaysia ni banyak dapat subsidi. Subsidi baja pun dapat, elaun pun dapat kan. Jadi dalam senarai kita tiap-tiap tahun, kita ada kalau kalau belanjawan untuk Kementerian Pertanian tu, satu elemen ataupun perbelanjaan yang besar ialah subsidi. Kita bagi elaun tahu. Tapi kata, saya tak ingatlah berapa, katakanlah ada 200,000 orang yang menerima bantuan dan juga elaun pertanian ni kan, berapa kerat yang betul-betul sebenarnya bertani ni? Ha, itu guna Banci Pertanian. Dan saya boleh kongsi dengan orang ramai sebelum saya tengok in detail satu-satu yang masa perbincangan dulu pun, itu pun yang kita nak kena sahkan. Kerana petani yang betul-betul bertani ni jumlahnya adalah lebih kecil daripada yang menuntut elaun. Contohnya dia seorang guru, dia ada kebun, dia tuntut tahu elaun pertanian, baja semua, so dia dapat. Jadi ini antara penemuan-penemuan daripada laporan Banci Pertanianlah. Ada juga benda-benda yang yang yang yang sangat penting untuk perancangan negara, contohnya guna tanah untuk pertanian. Sebenarnya berapa tanah kita yang boleh guna untuk pertanian ni? Di satu kawasan yang mana- jadi mereka semak satu-satu tahu. Jadi insya-Allah malangnya saya ingat bila saya letak jawatan itu, perkara-perkara yang pasal pertanian ini dari perspektif ekonomi ni tak seksi. Mungkin saya saja yang yang yang minat ekonomi dan pertanian. Jadi sebab itu usaha DOSM dengan Kementerian Ekonomi susah payah dua tahun buat ni, kalau tengok, dia tidak disambut di peringkat kerajaan. Dia tak jadi perkara yang penting dan dia tenggelam begitu sajalah. Nasib baik Hassan Karim tanya soalan ni kan. Jadi untuk support dan juga untuk pastikan maklumat itu sampai kepada orang ramai, kalau tidak, buat susah payah satu dua tahun, dia hanya duduk dalam buku-buku yang atas meja yang yang kita pun tak tahu apa tindakan yang diambil semua. Insya-Allahlah mungkin dalam masa akan datang ni saya nak kena cari masa dan go through in detail. Masalahnya laporan tu tebal macam ni kan nak baca kan. Tapi ini salah satu penemuan yang yang saya rasa kita pun tahulah bahawa lebih separuh daripada petani ni terdiri daripada golongan usia 60 tahun ke atas. Itu juga sebahagiannya kenapa Kementerian Ekonomi dulu memulakan projek rintis Intan tu, Usahawan Tani. Kerana budak-budak muda, dia tak suka bercangkul semua ni. Tapi kalau kerja itu bergaji dan kemudian ada elemen yang mereka boleh dapat untung yang lebih kalau hasil pertanian tu lebih baik, tuaian itu lebih tinggi, maka ramailah. Kerana kalau gaji dia dapat bersih bertani atas satu plot dan plot itu macam rumah hijau, semua pakai IoT, mesin semua kan, kalau dia dapat 3,000, 4,000 sebulan, memanglah dia kata lebih baik aku jadi petani daripada aku kerja dekat KL ke mana. Satu lagi ialah pertanian moden apa beza pertanian moden membina tapak-tapak pertanian moden ini beza dengan contohnya buka kilang. Sebab kalau buka kilang, gaji minima 2,000. Kalau tapak pertanian moden yang dari segi operasinya samalah macam kilang kan dan bayar 3,000 lebih, kalau itu boleh dibuat dengan cepat, maka sudah tentulah kita boleh mengalihkan pandangan dan minat orang muda ni untuk bekerja di tapak-tapak ni. Masalahnya kerja tu- masalahnya usaha untuk membangunkan tapak-tapak ini dia tak seksilah. Jadi yang ini yang saya ingat kita kena terus beri tumpuanlah. Kalau tidak, betullah macam yang YB Hassan Karim kata, naya kita lepas ni orang yang nak bercucuk tanam pun tak ada dah.
 
-
-
 [50:20] Haziq: Baik YB. Tahniah YB Hassan. Dan itu soalan terakhirlah. Mungkin kita boleh terus ke segmen yang seterusnya. Kita ada segmen macam biasa, Hidup Keras. Jadi mungkin sebelum pergi kepada tarif dan lawatan Trump ke Malaysia yang sangat panjang, kita boleh tengok dulu Fleximart dan Kesum. Cuma pagi tadi YB ada cakap dengan kami, YB very enjoy the process, lebih enjoy daripada YB menjadi menteri.
-
-
 
 [50:51] Rafizi Ramli: Memanglah. Sebab saya tak tahu orang lainlah kan. Saya memang minat berniaga. Dan dia bukan sangat soal buat duit, tak kaya pun berniaga ni kan. Ini ini sensitif sikitlah kan.
 
-
-
 [51:07] Haziq: Okey.
-
-
 
 [51:09] Rafizi Ramli: Apa beza sebahagian orang Melayu yang berniaga dengan orang Cina berniaga?
 
-
-
 [51:19] Haziq: Ada yang nak buat duit?
-
-
 
 [51:21] Rafizi Ramli: Bukan, I mean, semua nak buat duitlah. Tapi dari segi perspektif dan pandangan kepada perniagaan. Kita dibesarkan dalam suasana Melayu, Bumiputera yang sebenarnya memandang makan gaji dan menjadi manager itu sebagai pinnacle kerjaya. Belajar pergi universiti, makan gaji, jadi pengurus bank, jadi pegawai, itu ini semua, ha itulah tahap kejayaan. Jadi memang kita membesar dalam dalam kelompok Melayu yang melihat tangga kerjaya itu makan gaji kan. Kalau yang buat business itu, selalunya dilihat orang nak kaya. Cuba tanya orang Cina yang berniaga biasa-biasa semua ni. Janganlah tanya tauke-tauke besar taikun. Bila dia dah jadi taikun ni, Melayu ke Cina sama aje semua. Okey, cuba tanya orang biasa yang berniaga kedai runcit ke, kedai hardware ke yang daripada bapa dia, datuk dia. Sebenarnya dia berniaga tu untuk kerjaya ke apa?
 
-
-
 [52:33] Haziq: Dia memang tak ada-
-
-
 
 [52:34] Rafizi Ramli: Itulah hidup dia. Kerana itulah cara dia bukan sahaja untuk hidup, tetapi daripada perniagaan itu dia menghasilkan peluang pekerjaan. Anak-anak dia, anak kawan dia dapat kerja. Bukan semua contohnya anak orang Cina ke India ke bukan semuanya belajar tinggi-tinggi. Jadi kalau contohnya dia belajar tak tinggi, dia nak masuk kerja kerajaan susah. Akhirnya dia kenalah kerja dengan- jadi perspektif itu agak berbeza. Mereka mengusahakan perniagaan kerana itulah punca rezeki mereka dan itulah untuk membantu dalam masyarakat mereka bagi kerja semua. Jadi saya saya punya perspektif bila buat perniagaan kan, tak pernah sebab nak jadi kaya. Kalau nak jadi kaya, saya pergi kautim projeklah, jadi Ali Babalah, senang aje. Ataupun saya cium tangan kemudian jadi board member itu, board member ini, yang ini 30,000, yang tu 40,000 semua dan tak payah buat apa kaya kan. Tapi bagi saya, mengusahakan perniagaan daripada bawah, dia ada berkat dia sendiri kerana kita mungkin tak kaya, tapi daripada perniagaan itu dia menggaji budak-budak. Dan budak-budak ini hidup dia bergantung kepada perniagaan ini. Walaupun dia tak kaya tapi dia dapat 3, 4 ribu sebulan, 5,000 sebulan. Yang itulah yang walaupun tuan punyanya kadang-kadang garu kepala kerana untung tak dapat ke apa, tapi untung kita itu dalam bentuk berkat yang lain. Jadi itu yang yang bila kami mula mengusahakan ini dalam tiga bulan yang lepas kan, jadi daripada perbincangan, daripada saya berleter dan untuk kedua-dua Kesum dengan Fleximart ini memang kita ambil orang yang tak pernah berniaga. Dia tak tahu apa-apa. Jadi saya nak kena lalui proses itu, ambil risiko, ajar mereka, latih mereka. Dan bila dah sampai ke peringkat yang insya-Allah esok dibuka, yang saya gembira tu bukan soal duit. Saya pucat sebenarnya. Kalau dia orang tak buat duit, mampus aku! Siapa bayar letak duit, gaji nak kena bayar lagi ni kan? Tapi akhirnya dalam tempoh tiga bulan, kita ada dalam 7, 8 orang yang betul-betul mengusahakan kedua kedai ini sebelum kita ambil orang baru untuk dilatih kan. Mereka daripada tidak pernah ada pengetahuan langsung mengenai perniagaan, daripada tak pernah terfikir nak mengusahakan perniagaan, daripada 100% makan gaji seumur hidup mereka, bagi saya bila mereka sekarang ni dah seronok walaupun kerja penat sebenarnya nak usahakan ni kan, dia dah sampai ke peringkat lepas ini kita boleh test sama ada usaha mereka itu akan disambut oleh rakyat ke tidak. Jadi bagi saya pahala itu membuka perniagaan semua ni, saya ingat kadang-kadang lagi banyak daripada pahala jadi menteri tau. Sebab macam saya ada syarikat yang lain yang saya ada kan, kakitangan dia 100 orang lebih. Yalah saya tak kayalah, saya tak adalah nak sibuk cari kontrak ke apa kan. Kadang-kadang saya yang kena hulu duit saya untuk dia orang kan. Tapi untuk tempoh 10 tahun sejak saya mula-mula mengusahakan perniagaan saya sendiri sebagai tuan punya kan, dah ada 300 orang lebih yang bekerja, keluar masuk kan dan dan mereka ada keluarga, budak-budak muda yang kita ambil ni daripada keluar universiti naik motor, kemudian mereka bekerja dengan kita, dia boleh beli kereta, dia boleh beli rumah, dia berkahwin, ada anak. Sebenarnya ada bahagian kita dalam mereka mendapat rezeki macam itu kerana kalau perniagaan itu diusahakan dengan baik, tuan punya dia tak zalim dan tak ambil untung untuk dia, mana yang yang boleh bagi kat pekerja bagi kat pekerja, bagi saya perkara itu bahawa perniagaan itu menjadi punca rezeki kepada banyak anak-anak muda ni kita bagi dia kerja, yang itu pahala dia saya ingat besar.
 
-
-
 [57:15] Haziq: Very inspirational YB. Cuma-
-
-
 
 [57:19] Rafizi Ramli: Yalah inspirational sebelum tengok bank. Tengok baki bank memang terkedu sekejaplah kan.
 
-
-
 [57:26] Haziq: YB mungkin kalau saya sentuh karakteristik sikitlah macam Fleximart ni, apa dia punya kalau nak samakan dengan kedai lain, nak illustrate tu, ada ke atau tak ada ni satu the first konsep yang macam ni?
-
-
 
 [57:37] Rafizi Ramli: Yalah kita biasalah, you don't reinvent the wheel kan. Jadi kita tengok kepada satu, consumer behavior yang ada sekarang. Kemudian kita tengok juga kepada sebenarnya apa sosial objektif yang kita kita nak capai ni kan. So satu sosial objektifnya ada dua tigalah. Satu ialah untuk kita memberi peluang kepada lebih ramai orang biasa untuk ada perniagaan. Sebab hurdle untuk buka perniagaan sekarang ni terlalu tinggi. Kalau nak buka satu retail outlet kalau melalui sistem francais yang ada semua ni, paling kurang kena ada 500,000. Dan risiko itu ditanggung oleh yang meletakkan duit. Jadi sebab itu dia dahlah letak duit, kena bayar francaisor lagi. Kemudian dia nak kena buat renovation lagi. Kemudian dia nak dia nak running business lagi. Kadang-kadang tak jadi. Jadi hurdle rate yang sangat tinggi macam tu, kalau budak keluar universiti umur 25, 26, mana dia ada 500,000? Dia nak pergi pinjam pun dia tak ada kecuali daddy kasilah. Jadi sebab itu, sosial objektif dia ialah untuk memastikan lebih ramai anak-anak muda kita ambil risiko untuk memulakan perniagaan dan melalui social enterprise, saya nak cuba turunkan hurdle rate itu. Maksudnya kalau dalam RM150,000 tu dah boleh buka satu retail outlet kan. Itu satu. Matlamat sosial yang seterusnya ialah untuk bagi kerja. Sekarang ini bukan saja budak muda, suri rumah, warga tua tau, warga emas pencen. Jadi oleh kerana kita design dari segi aturan kerja, dari segi SOP tu, warga emas pun boleh kerja. Sebab dia tak perlu kerja daripada macam kedai mamak tu, matilah dia. Dia kalau dia kerja syif, syif dia mungkin 4 jam. 4 jam itu masa peak hours aje kan. Jadi kita cuba semua ni, harapan kita kalau satu satu outlet ni dia mungkin memerlukan antara 4 ke 6 orang pekerja tetap dan mungkin dalam 6 orang pekerja sambilan. Pekerja sambilan itu sama ada pelajar, sama ada warga emas, suri rumah. Sebab masa saya belajar di universiti dulu, biasa tau kita buat part time. Biasa. 3 jam sehari ke benda biasa sajalah kan. Kemudian matlamat sosial yang seterusnya ialah kita nak hentikan normalisasi harga barang makanan siap ni naik dan rakyat terpaksa bayar. Sebab naratif dalam masyarakat sekarang ini, harga naik kalau saya ingat sekarang kalau harga dekat warung, dekat dekat gerai tepi jalan pun, kalau nasi dengan ayam contohnya kan, paling kurang RM8 tu biasa. Tapi alasan yang diberikan, oh sewa naik, itu naik dan semua. Jadi kalau kat gerai RM8, restoran RM10, RM12 dan harga tu akan terus naik. Tapi kalau ada apa-apa pun perbincangan mengenai inflasi, harga barang, kos sara hidup, ini salah semua orang ni kan. Jadi saya nak hentikan normalisasi itu. Bukan semua orang mungkin cita rasa dia ialah untuk makanan-makanan yang bawah RM5 nilah. Kan? Ada orang yang memang dah kaya, kamu nak pergi makan tempat yang RM30, pergilah. Tapi kepada mereka yang contohnya pendapatan hanya 2,000, 3,000 sebulan, sebab itu kita kata asal kenyang, sedap dan murah. Lunch dia daripada dia tak makan macam budak-budak universiti, daripada dia kena ikat perut, kalau dia boleh makan RM4, RM5 dan benda tu kenyang, sedap dan murah kan. Dan bila ada kuasa pasaran, bila ada yang yang boleh menawarkan harga dan servis, perkhidmatan pada mutu yang boleh diterima pada harga yang rendah itu, dan saya harap kalau kita boleh scale up dan bukan saja melalui Kesum atau Fleximart, kalau ada kedai-kedai lain pun dia ambil cabaran ini, bila lebih banyak harga dijual pada harga yang lebih murah, maka mereka yang menjual pada harga yang lebih mahal itu ataupun yang selalu menaikkan harga, dia kena fikirlah. Tawaran yang lebih murah itu ada. Jadi I think we have to focus juga on market forces. Kalau sebelum ini dalam Malaysia ni kita tak pernah cakap pasal market forces. Saya dulu walaunlah kutuk habis-habisan bila saya kata, "Sebenarnya kalau kedai tu jual harga tidak berpatutan, maka janganlah pergi beli."
 
-
-
 [63:03] Haziq: Ya, ya betul ada.
-
-
 
 [63:04] Rafizi Ramli: Itu benda yang sangat logik sebenarnya. Saya contohnya kan, minta maaflah, ZUS Coffee ke, Starbucks ke apa kan, saya tak pernah beli. Sebab bagi saya untuk kopi saya, saya beli kopi segera RM3 tu cukup untuk saya. Orang nak marah ke, nak kata cheapskate ke, but saya takkan beli kopi harga RM15. Bagi saya untuk kopi aku, itu cukuplah RM3 kan. Jadi kalau pada peringkat saya, umur saya, dan bukannya saya tak mampu, cuma bagi saya nilai kopi satu cawan RM15 itu adalah mahal kan. Jadi masalahnya dalam masyarakat kita, dia kira, "Eh, itu harga saya belilah." Kemudian dia akan marah semua benda lain yang, "Oh, tak cukup duit, itu," kan. Jadi kita kurang tumpukan kepada kuasa pembeli. Dan yalah kalau nak membebel kepada pembeli pun, kalau tak ada tawaran di pasaran. Maksudnya kalau kopi yang daripada barista type of coffee yang brew, kalau boleh jual RM4, RM5, selagi tak ada orang yang jual RM4, RM5, maka yang dinormalisasikan ialah harga RM12, RM13 lah. Dan kami dah tengok contohnya, sebenarnya kopi yang barista type tu, yang betul-betul coffee bean yang yang kita beli bagus punya, kita brew, adalah margin kalau dijual pada harga RM4 ke RM5 berbanding dengan jual pada harga RM10, RM15. Adalah margin dia. Masih margin dia kecillah sangat, tapi ada margin. Jadi we are hoping dengan cara ini, dia memenuhi dua tiga matlamat sosial. Pada masa yang sama, dia juga boleh buat sedikit margin untuk terus beroperasi.
 
-
-
 [65:05] Haziq: Baik YB. Cuma kalau ada kritik-kritiklah YB cakap ini sama macam Kedai 1Malaysia atau ini money laundering.
-
-
 
 [65:12] Rafizi Ramli: Itu walajib aje.
 
-
-
 [65:14] Haziq: Dan apa komen satu lagi, producer?
-
-
 
 [65:17] Producer: Oh, Sayuti Omar.
 
-
-
 [65:18] Haziq: Dia kata apa?
-
-
 
 [65:19] Producer: Dia kata, "Mula buka kedai jual RM5, lepas ni RM2 lebih, lepas tu bankraplah." Something like that.
 
-
-
 [65:25] Rafizi Ramli: Dia ni dia ni tak tahu ke Eco-Shop tu dah pergi listing? Eco-Shop jual harga RM2.60, RM2.80 macam tulah kan. Eco-Shop kan? Dia tak baca laporan ekonomilah. Satu perkara pasal ekonomi Malaysia ni yang orang kata bila orang kata resilient, kukuh, sebenarnya satu perkara yang ribut ke marilah apa, mata wang jatuh ke apa, rakyat Malaysia tak berhenti berbelanja tau. Sebab itu kalau tengok di di pasaran saham kan, kebelakangan ini harga saham bank-bank kukuh. Harga saham kedai-kedai runcit retail macam 99 Speedmart, kemudian Eco-Shop semua naik kukuh. Sebabnya orang kita tak berhenti berbelanja kan. Jadi dari segi trend ekonominya kalau baca laporan ekonomi semua, satu perkara ialah sentimen consumer di Malaysia ini kekal kukuh kan. Jadi sebab itu kalau berjaya diusahakan dengan baik, produk itu bagus, servis itu bagus, harganya memang lebih murah daripada tempat yang lainlah. Kami cuba nak buat pengalaman seperti berada di FamilyMart tapi harga Speedmart. Macam tu kan. Kan? Kami cuba nak buat begitu kan. Sebab itu kalau dari segi the feel of kedai semua tu dia tak cokia lah. Dia memang dia memang rasa macam masuk macam ini pelaburan besarlah sebenarnya. Dia well not premiumlah, tapi dia bukan kedai runcit dan dia bukan KR1M. Dia bukan KR1M kan. Beza KR1M dengan Fleximart ni, kadang-kadang tu saya kata ini walajib jenis yang tak faham bahasa. KR1M itu menggunakan wang rakyat kerana ada peruntukan kerajaan yang digunakan dengan harapan bila ada peruntukan daripada kerajaan awalnya itu, dia boleh menurunkan harga barang. Dan konsep KR1M itu ialah kedai no-frills. Tapi dia tak berjayalah kan. Fleximart ni satu satu sen pun duit kerajaan tak ada. Awal-awal ni duit saya. Sebab tu aku pucat muka ni kan. Yang keduanya ialah dia beroperasi seperti kedai biasa. Cuma konsep dari segi pemilikannya dan agihan keuntungannya tu tak sama macam perniagaan biasa kerana dia diagihkan juga kepada pekerja dan sebahagian daripada keuntungan kalau ada, digunakan untuk rolling untuk mengekalkan harga supaya tak perlu naikkan harga. Supaya boleh terus jual makanan siap pada RM5 dan ada lagi konsep-konsep lain contohnya kita jual makanan siap melalui Flexi Vending kan. Melalui Flexi Vending dia sama macam IPR. Sebenarnya yang kita bagi ruang untuk berniaga kepada keluarga B40. Cuma syarat dia, mutu makanan tu kena bagus dan harga dia kena RM5 ke bawah. Dia tak boleh nak nak nak letakkan harga yang lebih tinggi. Jadi sebenarnya tidak ada persamaan langsung di antara KR1M dengan Fleximart. Cuma walajib ni selalunya dia kononnyalah semua yang orang buat tu, semuanya itu ialah meniru Najib kan. Dia dia sepatutnya dia fikirlah, malulah kalau dia nak sebut pasal KR1M sebab KR1M tu tutup, tak berjaya kan. Bungkus.
-
-
 
 [69:17] Haziq: Okey baik, YB.
 
-
-
 [69:19] Rafizi Ramli: So datanglah.
-
-
 
 [69:20] Haziq: Datanglah, datang.
 
-
-
 [69:21] Rafizi Ramli: Esok di Shah Alam, Seksyen 7 pukul 10:00. 10:00 pagi. Kemudian Kesum di Pandan Indah hari Sabtu akan datang. 8 hari bulan.
-
-
 
 [69:36] Haziq: Okey baik YB, terima kasih. Kita bergerak ke yang seterusnya. Ya, elephant in the room sikitlah. Sambutan Trump, YB. Cuma mungkin saya boleh bahagikan kepada dualah. Satu dari segi secara kosmetik, satu lagi substantif. Dari segi kosmetik ni mungkin sikit sajalah sebab ada perdebatan berkaitan dengan bagaimana kita menyambut Presiden Amerika Syarikat seolah-olah tak mencerminkan pendirian kita tentang Palestin. Dan sebab yalah when we talk about prinsip, prinsip ni bukannya kita boleh ban atau apa. Jadi dalam international relation ni memang double standard dalam prinsip ni okey atau biasa atau boleh diterima?
 
-
-
 [70:14] Rafizi Ramli: Tak, saya saya rasa dia dia boleh dilihat daripada beberapa lapisan perspektif yang berbezalah. Kalau pandangan pembangkang yang batalkan lawatan Trump kan, nak jumpa Trump pas- yang itu dia tak kenalah kerana jemputan ini ialah sebahagian daripada agenda ASEAN. Dan dia bukan lawatan ke Malaysia, dia lawatan ke Persidangan ASEAN yang happen to be in Malaysia kan. Jadi saya rasa yang itu memang jelaslah. Kita kena letakkan garislah apa pendirian kita dan juga tanggungjawab kita sebagai Pengerusi ASEAN. Jadi tepatlah bila kita menerima jemputan menerima kedatangan Trump itu. Tapi dari segi lapisan perspektif yang berlainan, bagi sayalah, yang soal Malaysia itu dia tidaklah terlalu terkesan. Dia yang mungkin lebih terkesan ialah reputasi dan juga imej Perdana Menteri. Kerana di satu pihak, Perdana Menteri, Datuk Seri Anwar sebelum ini mempamerkan dan membina imej yang cukup Palestin yang yang yang berani menegur. Dan imej itu dibina bahawa itu seluruh jiwa raga dia tau. Kan? Jadi sementara kita menerima bahawa tugas beliau sebagai Perdana Menteri untuk mengalu-alukan Trump sebagai tuan rumah, tapi gerak badan, body language kita, itu sangat membezakan contohnya dengan pimpinan-pimpinan lain yang berpandangan sama mengenai Palestin ataupun dasar Amerika Syarikat. Kalau kita tengok pimpinan Eropah yang semakin banyak yang memang tidak bersetuju dengan sokongan blank check Amerika Syarikat kepada Israel dan Netanyahu kan, mereka pun berjumpa Trump. Tapi kita boleh tengok bahawa body language, dari segi percakapan itu, itu semua dibuat dalam suasana yang rasmi, yang tidak menunjukkan hubungan peribadi yang akrab. They actually kept a distance. Jadi bila timbul soal berjoget semua ni, saya fahamlah mungkinlah Datuk Seri Anwar was caught in the moment. Kan? Tetapi had it been other people, I don't know, dan ini sangat tidak popular dengan walanonlah. Okey? Saya rasa kalau Tun Mahathir yang berada kat tepi tu, dia takkan berjoget. Mungkin Najib dengan Datuk Seri Anwar berjoget. Kerana dia ada ada ada rasa yang perlu menunjukkan keakraban dan penerimaan orang lain di peringkat antarabangsa terhadap mereka. Tapi besar kemungkinan kalau Tun Mahathir contohnya, saya tak rasa dia berjoget tau. Sebab yalah, "Okey, I do my job as a Prime Minister. I respect you as a President of the US, but we are not friends, personal friends, because I disagree with a lot of things. I disagree with you personally as a person. I disagree with your decision as a President of the US." Kan? Jadi yang itu bagi sayalah, kesan politik itu saya takkan underestimate lah. Kerana satu dunia tahu pandangan Trump, satu dunia tahu pendirian Parti Republikan terhadap Palestin kan. Jadi bila dia menunjukkan keakrapan keakraban yang melebihi daripada garis rasmi di antara dua orang yang mewakili negara masing-masing, dan dia akan jadi bahan telaahan ramai oranglah kan. Jadi sebab itu saya tengok kadang-kadang hasil daripada menari dan berjoget itu, dia kadang-kadang membuka pekung kita juga sebagai sebuah negara, terutamanya bila kita tengok di sosial media. Ada satu tweet yang yang virallah kan, ada seorang Palestin yang melahirkan rasa kecewalah bila Trump disambut dan berjoget di Malaysia sedemikian rupa dalam keadaan Palestin diperlakukan demikian kan. Dan bila saya baca dua tiga komen daripada rakyat Malaysia kan, saya malu sebenarnya. Sebab kalau kita berada di di di di tempat orang Palestin, what do you expect? Memanglah dia rasa dia tiap-tiap hari bertempur dan dan dan terpaksa melalui penderitaan itu dan dua tokoh utama yang menyebabkan perkara itu, satu Netanyahulahkan, satu lagi ialah Presiden US yang memberi backing. Sudah tentu dia kata, "What are you doing?" Most probably dia akan fikir, "I can understandlah you have to welcome him as a President of the US, but to show that kind of warm and also that kind of personal bonding," kan. Kemudian dijawab pula oleh rakyat kita, ada yang kata, "Haa nilah, kalau kita tolong, tak berterima kasih." Actually kita bercakap pasal Palestin kalau kita bagi sokongan, itu bukan sebab nak suruh dia berterima kasih, bukan sebab nak rasa nak tunjuk kita besar ke apa. Itu sebab atas dasar keadilan dan juga kemanusiaan. Kalau perkara itu yang dibuat oleh Israel berlaku contohnya, saya tak tahu, negara mana, Burkina Faso pun, kita takkan setuju. Kalau contohnya Myanmar buat di Myanmar, kalau yang jadi mangsa itu ialah orang Hindu di mana-mana tempat atau orang Buddha di mana-mana tempat, apabila garis-garis kemanusiaan itu telah dilanggar, memang itu tanggungjawab kita sebagai manusia. Bukan sebab kita nak kata, "Negara aku ni lagi hebat daripada negara engkau. Tengok, aku tolong kau. Jadi kau kenalah berterima kasih kepada aku." Jadi unfortunately the dance walaupun I think is a spur-of-the-moment thing kan, tapi kalau personaliti Datuk Seri Anwar tidak begitu, maka dia tak berjogetlah kan. But although it's a spur of the moment, it opens up a can of worms yang unnecessary bagi saya dalam keadaan solidariti kita dengan orang Palestin tu lebih dalam walaupun kita nak kena navigate dari segi hubungan antarabangsa dengan US. Walanon semua akan marahlah, but I saya sangat bila saya tengok semua ni kan, saya kata inilah hikmah Allah aku dah tak jadi menteri. Sebab kalau aku ada kat tepi tu, saya akan jadi sangat serba salah. Sebab here I am, I may not disagree- saya bagi contoh, saya mewakili Malaysia. Ada perjumpaan dengan Presiden Putin semua. Saya shake hand and that's about it lah. Saya tak adalah, you know, fall oh gini because there are things about Russian government or President Putin that I disagree. Saya memikul tugas sebagai mewakili negara saya, saya akan lakukan tugas saya, tapi ada perkara yang saya tak bersetuju dan itu saya simpan dalam hati, maka ia tidaklah diterjemahkan sampai jadi kami nak jadi best friend forever. Jadi bila yang berlaku ni, dia memberi gambaran kepada dunia macam mana seorang atau sebuah negara ataupun seorang Perdana Menteri yang sebelum ini berada di ekstrim di sini, tapi oleh kerana Trump bagi muka sedikit, dia swing ekstrim ke sini. That is not good tau. Gambaran yang tiba-tiba jadi best friend forever ni kan.
-
-
 
 [79:35] Haziq: Cuma pakar atau pengulas IR juga ada beritahu bahawa yalah, Perdana Menteri terpaksa buat macam tu demi survivabiliti negara kita juga.
 
-
-
 [79:43] Rafizi Ramli: Bukanlah berjoget. Bukanlah berjoget. Sebab tu saya kata yang yang ini yang walanon mungkin akan marahlah. Saya rasa kalau yang ada tu Tun Mahathir ke atau orang lain, saya tak rasa dia berjoget tau. Dia akan duduk, dia akan senyumlah. Dia tengoklah Trump joget, itu hal Trumplah. Bukan? Sebab saya perhatikan juga contohnya bila ada pemimpin lain yang datang, contohnya Xi Jinping, dia datang Malaysia kan. Walau macam mana pun dalam dinner tu kan, walau macam mana ada joget ke apa, walaupun orang suruh dia pergi kan, dia very stoic tau. Dia senyum, dia angguk, tapi dia duduk kat situ, dia tengoklah. Jadi dia sebenarnya karakter itu yang saya rasa mungkin Datuk Seri Anwar terlebih teruja pada hari itu yang sebenarnya ada kesan politik kepada terutamanya pengundi atas pagar.
-
-
 
 [80:42] Haziq: Okey baik YB. Itu baru kosmetik eh. Mungkin saya teruskan ke isu yang lebih substantif. Tak lain tak bukan berkaitan dengan agreement on reciprocal trade.
 
-
-
 [80:54] Rafizi Ramli: Yang ini yang orang tunggu komen akulah kan. Saya kena baca tau sebelum tu kan. Saya nak kena semak sebenarnya sebab tu kena minum air.
-
-
 
 [81:02] Haziq: YB semak YB minum air dulu. Cuma saya terus tanyalah. Actually yalah sebab YB bila apa selalu-
 
-
-
 [81:11] Rafizi Ramli: Sebab saya jarang sangat semak apa-apa kan. Selalunya mana yang saya ingat tu, saya ingat sendirilah. Tapi perkara ini agak agak apa nama ni agak rumitlah kan. Kita tak boleh bagi pandangan kosong saja. Janganlah jadi macam Wan Fayhsal. Terus apa ni, "Ruqyah perjanjian syaitan." Bacalah dulu. Jadi saya ambil masa beberapa hari juga bukan sahaja baca perjanjian, tapi saya juga semaklah dengan perjanjian dengan negara-negara yang lain dari segi kedudukan sebenarnya net benefit secara kewangannya macam mana kepada kitalah. Jadi kau nak tanya?
-
-
 
 [81:55] Haziq: Just what is your first impression?
 
-
-
 [82:00] Rafizi Ramli: Tak naklah komen pasal first impression. I didn't have first impression.
-
-
 
 [82:03] Haziq: Oh.
 
-
-
 [82:04] Rafizi Ramli: Macam mana nak ada first impression? Dokumen dia panjang. Sebab tu saya baca dululah. Lepas saya bacalah. My impression or my opinion itu ialah selepas saya baca, selepas saya dengar sendiri kenyataan, ucapan yang dibuat oleh Tengku Zafrul di MITI kan. Jadi dan malam ini saya boleh kongsikan. Jadi yang yang yang mendengar kena bersabar sedikitlah kerana dia mungkin rasa macam ini satu syarahan dekat kelas ekonomi ke apa.
-
-
 
 [82:43] Haziq: So you will go one by one?
 
-
-
 [82:45] Rafizi Ramli: Tak adalah one by one, tapi saya ingat untuk manfaat rakyatlah, kita ni janganlah hanya mendengar bulat-bulat daripada apa yang orang lain cakap, you know. Kalau pembangkang cakap macam ni, kita cakap macam tu. Orang ni cakap macam ni, tapi kita perjanjian pun kita tak baca lagi kan. Jadi saya tengok ini di kedua-dua belah ni. Yang membangkang pun macam itu kalau tengok komen-komen, yang menyokong pun cuba membela pun macam itu kan. Jadi saya saya mungkin ambil sedikit masa ni dalam lima enam minit untuk saya dengan secara cepat bagi yalah, kerangka perjanjian dan sebagainya kan. Satunya ialah perjanjian ini tak sama macam perjanjian-perjanjian yang kita faham.
-
-
 
 [83:45] Haziq: Okey.
 
-
-
 [83:46] Rafizi Ramli: Perjanjian yang kita faham ni ialah kita berunding untuk kerjasama bersama. I bring this to the table, you bring that to the table. Ini contractually kita begini kan. Perjanjian ni asal usulnya ialah Trump mengenakan reciprocal tariff. Itu pun nama reciprocal tariff tu pun daripada awalnya di satu dunia secara akademiknya tidak tepat dan dipersoalkan. Kerana dia bukan soal Kerajaan Malaysia mengenakan tarif kepada barang import daripada US, oleh kerana itu US bertindak balas mengenakan tarif balas. Reciprocal tariff yang dibuat oleh US ini ialah kerana dia melihat kepada imbangan dagangan. Dia mengatakan bahawa US mengimport lebih banyak barang Malaysia berbanding dengan Malaysia membeli barang US. Maka lebihan dagangan yang memberi manfaat kepada Malaysia ini, dia nak perbetulkan. Caranya ialah dengan mengenakan unilateral tarif kerana dengan cara itu harga barang Malaysia lebih mahal, maka itu kalau tidak dirunding, akan menyebabkan harga barang Malaysia kurang berdaya saing dan tidak dibelilah. Itu latar belakang dia kan. Jadi perjanjian ini lebih kepada basically take it or leave it ataupun yalah, saya cuba cari perkataan yang mungkin lebih lunak daripada ugutanlah.
-
-
 
 [85:40] Haziq: Yang memaksa kita memilih benda yang kurang mudarat.
 
-
-
 [85:42] Rafizi Ramli: Dia lebih kepada paksaan sebenarnya. Jadi kalau kamu tidak berunding dan kamu tidak ada memasuki perjanjian ini, maka saya akan kenakan tarif asal dia 25% kan. So that that has to be understood kan. Kemudian prosesnya, sebelum kita buat keputusanlah ini baik ke tidak, ini Tengku Zafrul bagus buat kerja semua ni kan, kita juga kena bandingkan perjanjian yang Malaysia itu dengan perjanjian yang US tandatangan dengan negara-negara lain. Kerana kita kena ingat kan, dia bermula daripada perjanjian yang banyak negara tidak ada pilihan. Kena berunding dan melalui perjanjian itu, US bagi syarat-syarat. Jadi kalau tengok kepada perjanjian-perjanjian setakat ini kalau di rantau ASEAN yang telah tandatangan, hanya dua negara. Malaysia dengan Kemboja. Jadi saya habiskan masa banding fasal demi fasallah antara Malaysia dengan Kemboja kan. Negara lain yang yang sudah ada kerangka perbincangan, seingat saya ialah Thailand dan Vietnam. Tapi belum tandatangan lagi. So maksudnya perbincangan dan rundingan itu masih berlaku. Negara macam Indonesia dan Singapura, sampai sekarang pun belum ada kerangka, tak nampak lagi kerangkalah. Maksudnya perbincangan itu mungkin berlaku dan belum lagi mencapai persetujuan untuk kerangka pun lagi. Okey, sebab dia kena ada framework of agreement, kerangka. Itu perkara-perkara very detail kan. Jadi yang terbaik kita boleh buat sekarang ialah bandingkan satu dari segi pendekatan keseluruhan dengan kerangka negara-negara. Seterusnya kita juga kena tengok kepada kesan rundingan dan juga timbal balik yang kita bagi ni kepada berapa banyak tarif dikurangkan. Jadi saya nak mula dengan begini kan. Sebelum saya nak banding semua ni kan, kita kurangkan tarif 25% ke 19%. Kemboja pun 19% tau. Kemboja pun 19%. Negara lain pun 19%. Vietnam saya ingat daripada 40 ke 20. Tapi Vietnam tu sebab dia punya lebihan dagangan yang memanfaatkan Vietnam tu jauh lagi besar berbanding dengan Malaysialah. Jadi dia turunkan jadi 20% kan. Singapura 10%, Indonesia pun 19%. So it's very important to remember in spite of everything, sebenarnya tarif kita ni tak tak berbeza pun dengan Kemboja eh. Baik. Jadi kalau kita tengok kepada klausa-klausa, fasal-fasal penting dalam perjanjian, dia tak ada beza sangat di antara Malaysia dengan Kemboja. Lebih kurang samalah. Dia akan ada tentang apa nama ni quantitative restrictions, kemudian dia ada non-tariff barrier kan. Kemudian bahagian besar contohnya digital trade and technology. Ni sama semua, ada. Yang ada di Perjanjian Malaysia juga ada di Perjanjian Kemboja. Kemudian yang yang yang apa nama ni sangat sensitif yang yang menjadi luahan kritikan ialah dari segi economic and national security lah, terutamanya complementary actions kan. Yang ini yang banyak mengutarakan bahawa kita telah menggadaikan kedaulatan kita kan. Sebab kalau saya boleh baca, kalau kalau yang lain nak baca secara terperinci tu, boleh baca sendirilah kan. Contohnyalah complementary actions ni, "If United States imposes a custom duty, quota, prohibition bla bla bla bla bla bla or other import restrictions on a good or service of a third country and considers that such measure is relevant to protecting the economic or national security of the United States, United States intends to notify Malaysia." Kemudian yang jadi tanggungjawab Malaysia ialah, "Malaysia shall adopt or maintain a measure with equivalent restrictive effect as a measure adopted by the United States, or agree to outline a timeline to address a shared economic and national security concern, guided by the principles of goodwill and a shared commitment to enhancing bilateral bla bla bla." Okey. Tengku Zafrul dah bagi jawapan dia. Dia kata, "Ah, ini yang kata pasal kedaulatan negara semua ni, ini hanyalah tak betul sebab itu kalau ada isu-isu yang shared." Yang yang kononnya ada safety clause. I disagree and I will tell kemudianlah. Tapi sebelum itu, cuba kita bandingkan klausa yang sama untuk Kemboja. Cuba tengok. Mungkin tunjukkan. Ni klausa Kemboja kan. Yang bahagian pertama tu samalah. "Kalau ada import on a good or service of a third country pursuant to bla bla bla, measure semua." Tapi cuba baca the last sentence daripada 5.1 tu kan, paragraph one. "Cambodia shall regulate the importation of that good or service into its territory through similar measures as those of the United States in a manner that does not infringe on Cambodia's sovereign interest." Langit dengan bumi beza dia tau! Kalau saya terjemahkan untuk mereka yang yang mungkin kurang faham bahasa Inggeris kan, klausa yang sama tentang complementary actions ataupun dalam bahasa Melayu ialah tindakan timbal balik. Kalau US buat, kita kena buat juga kan. Tapi untuk Kemboja, kalau kat Malaysia ni, kita kena ada kita akan buat yang sama tau. Kita kena buat ataupun melaksanakan dasar-dasar yang beri kesan yang sama untuk menangani kepentingan ekonomi bersama dan juga national security concern. Cuba tengok eh, beza kan? Ada banyak perbezaan. Satu ialah soal sovereign kan. Satu lagi kalau tengok untuk untuk Kemboja ni, dia hanya cakap for the purpose of economic security alignment tau. Untuk Malaysia, dia ada economic or national security concern. Beza tu tau. Kemboja tak ada national security concern. Kalau national security concern contohnya yang melibatkan Iran, contohnya melibatkan negara Arab yang lain, contohnya melibatkan negara Asia yang lain, dia tak ada ekonomi pun. Tak ada perspektif ekonomi pun, tapi it is a national security concern untuk US dan kita kena bertindak kan. Tapi yang paling besar ialah kita hanyalah shared a commitment to enhancing bilateral relations between United States and Malaysia. Kemboja dengan jelas mengatakan bahawa apa-apa yang Kemboja buat itu tidak boleh melanggar kedaulatan Kemboja.
-
-
 
 [94:18] Haziq: Missing dekat kita punya.
 
-
-
 [94:20] Rafizi Ramli: Tak ada. Jadi kalau kita nak marah orang kata perjanjian ini dia luntur dari segi mempertahankan kedaulatan, memang kita kalah dengan Kembojalah. Kenapa kita tidak merundingkan supaya pendekatan yang sama yang dibuat oleh Kemboja ni boleh, kita boleh bincang pasal aturan dagangan gini gini timbal balik semua, tapi apa-apa tidak boleh melanggar kedaulatan Kemboja. Tak ada. Itu belum sebut lagilah pasal dia orang hanya economic security alignment. Kita ada economic alignment dan juga national security concern kan. Yang lain tu banyaklah apa nama ni kita punya klausa jauh lagi panjang daripada mereka tahu. Jadi saya nak nak okey saya nak balik kepada jawapan Tengku Zafrul. Kata, "Ah ini apa kau orang bising-bising ni? Ini hanyalah share kecualilah isu itu ialah isu yang juga ada kesan kepada US." Baik eh. Kita ambil keadaan sekarang. Sebelum sebelum ini, sebelum kita tandatangan perjanjian ini dengan US kan, kita ambil contoh Iran. Kan? Atau kita ambil contoh Russia kan. Adakah kita ada sekatan dagangan terhadap Iran ataupun Russia sebagai sebuah negara?
-
-
 
 [95:59] Haziq: Tak ada pun.
 
-
-
 [96:00] Rafizi Ramli: Tak ada. Malaysia tak pernah buat. Adakah dunia ada sekatan dagangan oleh PBB kepada Iran ataupun Russia?
-
-
 
 [96:09] Haziq: Ada.
 
-
-
 [96:10] Rafizi Ramli: Tak ada.
-
-
 
 [96:11] Haziq: Eh, tak ada. Tak ada. Okey, tak ada.
 
-
-
 [96:13] Rafizi Ramli: Jadi siapa yang mengenakan sekatan dagangan kepada sekatan ni kepada Iran dan Russia ni?
-
-
 
 [96:19] Haziq: US.
 
-
-
 [96:20] Rafizi Ramli: US. Hanya US.
-
-
 
 [96:22] Haziq: Ah ya ya, bukan PBB. US aje.
 
-
-
 [96:23] Rafizi Ramli: Bukan PBB, hanya US. It's called unilateral sanction by US kan. Tapi adakah kita kita nak transfer duit ke Iran ada, Iran nak landing dekat apa namanya lapangan terbang KLIA, boleh ke tidak?
-
-
 
 [96:38] Haziq: Cari pasal, mana berani.
 
-
-
 [96:39] Rafizi Ramli: Tak boleh. Sebab bila ada transaksi, transaksi itu akan melibatkan sistem kewangan dunia dari segi transfer semua ni, clearing semua ni, yang berlatarbelakangkan US. Bila US kata tak boleh, kita tak berani pun buat. Itu sebelum ada perjanjian. Ini ada perjanjian. Jadi kalau saya bagi contoh, kalau US kata mereka ada masalah dengan Brunei- adalah ni kan. Kita tak ada masalah pun dengan Brunei. Dan mereka ambil tindakan terhadap Brunei. Kita nak kata, "Oh kita sebenarnya tak ada masalah pun dengan Brunei, jadi kita tak nak buat." US akan tekan and kata, "Yes, tapi perjanjian kata you will align your economic and security with mine. Bila saya ada masalah, you juga ada masalah. Kalau you tak nak buat, tak apalah, tapi ada tapilah. 1, 2, 3, 4." Jadi perkara ini sebenarnya saya ingat Tengku Zafrul tinggal sebulan aje lagi jadi Menteri MITI, bukan masalah dia dah. Dia jadi masalah negara dan masalah menteri-menteri selepas ini. Kerana sudah ada perjanjian, US can raise and cakap, "You tak buat, you langgar." Because what exactly is shared economic and national security concern? Ini up to pentadbiran dan juga pendirian yang dibuat oleh US. Kalau US kata, "This is a shared economy." China, dan nanti saya pergi kepada beberapa klausa yang lain kan. Pelabur China masuk ke Malaysia is a shared economic concern or the shared security concern, so you must do it. Malah ada beberapa perkara yang di dalam klausa ni secara jelas memang ditujukan ke arah itulah. Sekarang saya akan tunjuk kan. Jadi sebelum saya pergi dengan lebih dalamlah pasal angka nak banding dan dan saya nak terangkan sebab sekarang ni ada banyak versi yang yang berlainan ni kan. Kalau versi pembangkang, ini ruqyah perjanjian syaitan. Dia tak cakap sangat in detail lah kan. Kalau ada versi daripada walanon, oh ini untuk demi ekonomi kita, kalau tidak syarikat tutup semua. Saya akan tunjukkan angkanya tu tak tally tahu.
-
-
 
 [99:13] Haziq: Okey.
 
-
-
 [99:14] Rafizi Ramli: Angka tu tak tally. Jadi tapi sebelum sampai kat situ dan sebelum saya bagi klausa-klausa yang lain, atas artikel 5.1 ini saja bila bandingkan dengan Kemboja, dengan Cambodia, yalah, saya fahamlah kenapa orang melenting. Kerana kita dikalahkan oleh Kemboja. Kemboja pun boleh memastikan apa-apa pun tak boleh melanggar kedaulatan negara kami. Kami hanya buat setakat ini aje. Apa-apa tu kedaulatan. Malaysia tak ada langsung tau. Sampai bergegar benda ni kan. Baik eh. Okey. Ada beberapa perkara lain lagi yang yang yang saya boleh tunjukkan secara apa nama ni banyaklah jelas kan. Tapi ada beberapa yang contohnya dia akan bermasalah akan datang kan. Satu yang saya nak kongsikan ialah pasal mekanisme untuk apa nama ni menilai pelaburan ke dalam Malaysia. Yang ini tak disebut di luar tau. Artikel 5.2, Export Control, Sanctions, Investment Security and Related Matters kan. Perenggan tiga eh. "Malaysia shall explore the establishment of a mechanism to review inbound investment for national security risks, including in connection with critical minerals and critical infrastructure, consistent with widely accepted best practices, and shall cooperate with the United States on matters related to investment security." Ni maksudnya apa ni? Kalau dibaca secara keseluruhan dan dan perenggan tiga artikel 5.2 ini dibaca dengan berlatarbelakangkan bahawa perjanjian ini is an alignment of Malaysian economic and security policies to be aligned with the US, maksudnya adakah ini bermakna US ada pengaruh untuk menentukan pelaburan mana yang masuk kat Malaysia? Sebab kalau macam Huawei nak masuk kat Malaysia, kalau yang syarikat China contohnya yang besar-besar nak masuk yang teknologi dia compete dengan US, dia kata, "Tak boleh, ini national security concern." Well, at least at face value, itulah maksudnya. Dan yang ini yang juga artikel 5.3, Other Measures, yang saya rasa banyak ada kementerian lain dia dah mula garu kepalalah kan. Perenggan empat artikel 5.3, Other Measures eh. "Malaysia shall not purchase any nuclear reactors, fuel rods or enriched uranium from certain countries, except where there are no alternative suppliers on comparable terms and conditions." Kita kan sebelum ini dah dah umumkan yang kita akan mula meneroka tenaga nuklear. Perdana Menteri pun saya ingat, Datuk Seri Anwar pun dah memang ada sebut dalam pertemuan pertemuan dia dengan Presiden Putin bahawa Malaysia sekarang ini sedang meneroka kerjasama nuklear dengan Russia. Ini maksudnya tak bolehlah. Sebab dia kena certain countries tu kita tahulah maksudnya Russia tak boleh, China tak boleh. So maksudnya hanya boleh beli daripada US sajalah ataupun mungkin Perancis ataupun Britainlah yang yang kira rakan-rakan US lah di Blok Barat. Jadi yang kita dah umum sebelum ini, yang kita dah mula perbincangan sebelum ini, apa kesan dia? Jadi I can go on and on and on eh. Saya dan dan saya kena ulaslah tentang angka-angka lepas ni tentang pelaburan, tentang tarif sebab yang itu yang yang jawapan balas daripada walanonlah yang benda ni bagus semua kan. Tapi saya nak berhenti supaya saya boleh minum air and tarik nafas jap kan. Kalau tengok ni, contohnya ambil yang klausa empat tadi tulah. Perenggan empat yang yang pasal tidak boleh beli nuclear reactor dari negara-negara tertentu ni. Yang ini ni MITI tak semak dulu dengan kementerian-kementerian lain ke? Sebab benda ini memang sedang berlaku. MOSTI memang tengah explore dari segi kerjasama nuklear dengan negara-negara lain. Jadi macam mana Malaysia nak letak muka ataupun nak wiggle our way out benda yang kita dah usahakan lebih setahun dan melalui BRICS contohnya, kerjasama melalui BRICS, ini sebahagian juga kerjasama melalui BRICS. Jadi dengan ada klausa ini, sebenarnya tangan kita diikat. Semua tak boleh. Dan saya tak pasti apa menteri-menteri lain cakaplah. Jadi kebimbangan saya begini yang sepatutnya dijawablah soalan ni kan. Yang ini ni dibentangkan word by word dekat Parlimen dekat Kabinet ke? Kabinet dan kementerian-kementerian lain, dia dah semak word by word ke? Sebab macam masa saya pengalaman jadi menteri dulu, dia setiap perjanjian tu dia kena hantar word by word. Kami semak satu-satu dan kami bangkangkanlah mana yang tak setuju. Ini guys, saya tak rasalah PETRA ataupun MOSTI yang yang klausa empat ini yang berkaitan dengan nuklear ini, saya tak rasa mereka akan bersetuju bulat-bulat. Dia mesti raise red flag. Malah Kementerian Luar pun sebab ini juga sebahagian daripada BRICS dan sebagainya, dia tak raise red flag ke? Jadi kebimbangan saya yang saya nak tahu, kita mungkin takkan dapat jawapan sampai bila-bilalah. Tapi saya nak nasihatkan bila Jawatankuasa Terpilih Parlimen nanti panggil Tengku Zafrul dengan MITI untuk tanya pasal benda ni, dapatkan minit mesyuarat Kabinet untuk pastikan betul atau tidak yang perjanjian ini word by word telah diedarkan untuk komen dan telah dibentangkan oleh Kabinet. Ini collective responsibility. Sebab ini pasal kedaulatan semua. Kalau Kabinet hari itu pakai luluskan tapi tidak membaca keseluruhan atau tidak banding dengan yang negara lain, kita sama ASEAN, patut kita boleh tanyalah kut mungkin kan. Itu sebenarnya perkara yang lebih besar daripada ruqyah perjanjian syaitan kan. Kebimbangan saya, oleh kerana kita nak cepat sign untuk dapat highlight di ASEAN, Trump datang sign semua tu, photoshoot cantik, kita rush it through. Sedangkan di rantau ini, hanya Malaysia dengan Kemboja aje yang dah sign. Orang lain tak sign pun lagi. Ada setengah tu tidak ada kerangka perjanjian pun lagi kan. Jadi ini perkara-perkara yang kalau saya dalam Kabinet dan perjanjian ini dibentangkan, saya kena out-voted lah. Orang lain semua tak tak- majoriti tidak bersetuju dengan sayalah. Tapi besar kemungkinan saya akan minta untuk rekodkan bahawa saya tidak bersetuju dengan klausa ini, klausa ini, klausa ini, klausa ini. Kecuali di dalam Kabinet pada hari itu, dia tak dibentangkan secara word by word pun. Dia hanya satu Kabinet paper, kertas memorandum Jemaah Menteri yang hanya bagi contohnya perkara-perkara besar. But the detail, the devil is in the detail. Terutamanya hilangnya perkataan-perkataan macam sovereign interest tu kan. Dan perkara kedua yang yang ini saya bagi tiplah kepada pembangkang Perikatan Nasional semua kan. Kalaulah ditakdirkan mereka menang satu hari ini kan, kut-kut Papagomo boleh bagi tip macam mana menang, bacaan Papagomo tu betul, mereka jadi Perdana Menteri, dia kena semak balik minit mesyuarat Kabinet hari itu dan semak sama ada ia betul-betul dibentangkan word by word kerana perjanjian ini memang pada pandangan sayalah, dia menimbulkan banyak persoalan kenapa kita dilihat terlalu berlembut, terutamanya apabila kita bandingkan, dan selepas ini saya akan terangkan, dengan angka-angka yang bila kita tengok kepada Kemboja, dia tak adalah perlu hulu tengkuk macam itu, tapi sebenarnya perjanjian dia jauh lebih kukuh berbanding dengan kita. Aku nak minum.
-
-
 
 [109:03] Haziq: Tercengang, YB.
 
-
-
 [109:04] Rafizi Ramli: Ha.
-
-
 
 [109:09] Rafizi Ramli: So tercengang aje?
 
-
-
 [109:11] Haziq: Cuma yalah, saya rasa menteri pun dalam penerangan apa dekat Parlimen pun yalah banyak bagi angka bahawa apa jumlah perdagangan kita ni sangat signifikan dengan US dan kalaulah kita hilang apa ni daripada 19% jadi 25% balik tu, angka itu kehilangan tu sangat-sangat besar, merugikan kita, banyak pekerjaan akan hilang. Kilang tutup.
-
-
 
 [109:41] Rafizi Ramli: Okey baik, kita tengok angka eh. Kan? Sebenarnya let me see kat mana ni kan. Sebenarnya berapa jumlah eksport Malaysia ke US tahun 2024?
 
-
-
 [109:55] Haziq: Kalau ikut yang diterangkan, 325 bilion.
-
-
 
 [110:00] Rafizi Ramli: Itu Ringgit Malaysia lah.
 
-
-
 [110:01] Haziq: Ya, Ringgit Malaysia. Sorry.
-
-
 
 [110:03] Rafizi Ramli: Is about 52.5 bilion dollar. USD. Kalau empat, dalam 200 lebih kan? 200 lebih kan? Lebihan dagangan- dan dia sebenarnya angka ni pun dia ada dua set angka tau. Angka yang US lain tau, angka yang kita lain. Yang saya ambil ni daripada angka US eh, daripada US Trade Representative kan. Untuk tahun 2024, eksport US ke Malaysia import import kitalah, 27.6 bilion dollar. Import US daripada Malaysia 52.5 bilion dollar. Maka trade balance itu ada jadi trade deficit kepada US 24.9 bilion dollar lah. Jadi kemudian eh okey. Of course kita ada servis import and eksport jugalah kan. Okey eh. Daripada eksport Malaysia tu, cara dia beritahu ialah ini sangat diperlukan untuk menyelamatkan eksport utama kita ke US, terutamanya semikonduktor dan chips kan. Berapa eksport tahunan semikonduktor kita ke US ni? Ha, Google. Kau tengah Google ke apa?
 
-
-
 [111:47] Haziq: Tak jumpa jawapan.
-
-
 
 [111:48] Rafizi Ramli: Dia kalau ikut laporan-laporanlah eh, eksport cip semikonduktor Malaysia ke US lebih kurang 16.2 bilion US untuk tahun 2024. Kemudian eksport E&E ke US lebih kurang 26 ke 30 bilion dollar kan. Dan keseluruhan eksport semikonduktor Malaysia lebih kurang 130 bilion dollar. Jadi 130 bilion dollar keseluruhan, eksport semikonduktor ke US ialah 16.2. Maksudnya lebih kurang 12, 13% lah daripada eksport kita kan. Okey. So itu pun dah menimbulkan banyak persoalanlah kan. Sebab kalau kita ambil 16. Okeylah kita ambil apa nama ni dalam ringgit, maksudnya semikonduktor eksport lebih kurang 60 65 bilion dollar. Kemudian E&E lebih kurang 120 bilion dollar kan setiap tahun. Okey eh. Setakat ini yang dinyatakan oleh Tengku Zafrul ialah oleh kerana perjanjian ini, maka sebanyak 1,000 berapa ni yang yang yang kira okey, sebelum saya sampai kat situ kan. Kemudian satu lagi yang disebut ialah eksport kelapa sawit kita. Berapa sebenarnya eksport kelapa sawit kita ke US ni? Ha, Google. 205 juta USD. Lebih kurang 1 bilion. Jadi kalau kita ambil yang ambil semualah E&E semikonduktor semua, yang itu dalam 120 bilion. Kemudian kelapa sawit 1 bilion, so around 120 bilion ringgitlah setiap tahun. Ini yang yang kita nak pertahankan sangat ni kan. Jadi hasilnya kalau mengikut Tengku Zafrul ialah akibat daripada perjanjian ini, maka sebanyak 1,722 item telah pun dikecualikan dan anggaran nilai pengecualian ini ialah yang akan mendapat zero tarif, tak ada tarif eh, sebanyak lebih kurang 5.2 bilion dollar which is lebih kurang 20 bilion ringgit. Jadi semua yang kita buat ini ialah untuk mendapat supaya tak kena 19% itu, ada 1,722 line item daripada kod daripada tarif kod itu, dan dan jumlah 1,700 jumlah keseluruhan itu dianggarkan sebanyak 5.2 dollar bilion dollar kan. Baik. Kita dah ada ke senarai 1,722 item ni supaya kita dapat tahu berapa banyak? Sebab saya nak buat cost benefit analysis ni tau, nak banding kan. Dah ada ke belum?
 
-
-
 [115:19] Haziq: Kalau ikut, kita tak jumpa kat mana-mana sourcelah.
-
-
 
 [115:21] Rafizi Ramli: Kalau kau tanya tu, tak adalah maksudnya.
 
-
-
 [115:23] Haziq: Pembangkang yang minta didedahkanlah.
-
-
 
 [115:26] Rafizi Ramli: Pembangkang minta didedahkan. Kenapa kerajaan tak boleh dedahkan lagi?
 
-
-
 [115:30] Haziq: Sebab tak ada?
-
-
 
 [115:31] Rafizi Ramli: Sebabnya dia tidak dirundingkan masa perjanjian tu! Akibat perjanjian ini, maka US kata sebanyak 1,722 item ini akan dikecualikan dan US akan memilih 1,722 item itu yang akan dimaklumkan kemudian. Kita tak tahulah. Jadi anggaran kita 1,722 ni pun Tapi kalau kita ambil angka-angka tadi baliklah kan, sebab di satu pihak nanti kita go through semua pelaburan-pelaburan yang kena buatlah semua tu kan, di satu pihak kan. Tapi kalau kita ambillah contohnya yang Tengku Zafrul sebut tu 1,722 item ini ialah lebih kurang 20 bilion ringgit aje. Tapi yang kita nak kena komit ni dengan dengan nak kena beli, kemudian kita bagi dia jaminan yang kita kena ikut, realign kita punya semua tu jauh lebih besarlah. Anggaran sampai 1 trilion kan. Sedangkan yang yang disebut sendiri setakat inilah, saya ingat yang 5.2 bilion ini diumumkan oleh kerajaan sendiri. Saya tengah cari daripada mana datang 5.2 bilion ini.
 
-
-
 [116:57] Haziq: Ya, betul. Betul, betul. Di Hansard, yes. Di KRS.
-
-
 
 [116:59] Rafizi Ramli: Tapi dia dia disebut oleh Tengku Zafrul sendiri kan? Kan dia saman aku lepas ni kan?
 
-
-
 [117:02] Haziq: Hansard, YB.
-
-
 
 [117:03] Rafizi Ramli: Hansard cakap apa?
 
-
-
 [117:04] Haziq: "Berjaya mendapatkan pengecualian tarif timbal 19% bagi 1,711 tarif lines-"
-
-
 
 [117:10] Rafizi Ramli: 1,711 eh, bukan 1,722. 1,711 tarif lines.
 
-
-
 [117:14] Haziq: "Ke atas produk-produk Malaysia yang dieksport ke AS meliputi eksport utama Malaysia seperti minyak sawit, barangan berasaskan getah, produk koko, komponen dan alat ganti pesawat dan farmaseutikal yang secara kolektifnya menyumbang sehingga 22 bilion ataupun 5.2 bilion USD atau lebih kurang 12% daripada jumlah keseluruhan eksport negara ke negara US."
-
-
 
 [117:33] Rafizi Ramli: Semikonduktor tak sebut.
 
-
-
 [117:34] Haziq: Tak ada.
-
-
 
 [117:35] Rafizi Ramli: Tak ada. Semikonduktor tak sebut.
 
-
-
 [117:38] Haziq: Dia tak sebut dalam nilah sebab dia kata itu dia apa siasat tu kan, under akta lain tu.
-
-
 
 [117:43] Rafizi Ramli: So but even katakanlah kita ambil yang itu yang kosong peratus 5.2 bilion, 22 bilion, tapi kalau kita ambil semikonduktor pun kan, semikonduktor eksport ke US ialah 60 61 bilionlah. So baru 88 bilion berbanding dengan 1 trilion. Ha. Banyak beza tu tau kan. Jadi kalau kita bandingkan pula dengan apa nama ni komitmen yang yang pelaburan yang Malaysia nak kena bagi eh. Satu ialah kalau kita tengok kat mana ni artikel artikel yang menyatakan investment eh, mana?
 
-
-
 [118:29] Haziq: Lampiran satu.
-
-
 
 [118:31] Rafizi Ramli: Tak, appendix ada satu tapi dia memang ha. Artikel 6.1 Investment eh, perenggan tiga. "Malaysia shall facilitate to the extent practicable approximately 70 billion dollar in job-creating investments, including greenfield investment in United States over the next 10 years" tau. 70 billion dollar bukan orang melabur kat kita, kita kena melabur dekat US. 70 billion dollar ni lebih kurang 300 bilion ringgit. Ha. Tu yang orang campur-campur semua jadi 1 trilion tu. Jadi on that score alone, kita dahlah tak cukup duit kan. Kita nak pergi melabur kat US untuk menghasilkan peluang pekerjaan di US. Dekat Kemboja punya tak ada. Kita ada!
 
-
-
 [119:27] Haziq: Tapi dah check Kemboja tak ada?
-
-
 
 [119:28] Rafizi Ramli: Dah! Aku dah baca word by word Kemboja punya. Kemboja tak ada. Kemboja punya komitmen hanya satu aje, beli kapal terbang. Ada lebih kurang berapa biji kapal terbang dia kena belilah. Tak ada ni yang nak kena invest di US semua tak ada. So if you take that, that alone 70 billion dollar kali empat lebih kurang kalau 4.2 dia nak sampai lebih kurang 300 bilion lah. Sedangkan jumlah yang yang eksport kita yang yang diselamatkan daripada tarif 19% ini hanyalah 22 bilion yang Tengku Zafrul sebut dan kalau kita assume semua apa nama ni semikonduktor dikecualikan, campur 61, 62, lebih kurang 80. So there's a big gap now kan. Jadi sebab itu saya boleh sebut panjanglah, pum pam pum pam pum pam, boleh go through one by one lah. Tapi atas beberapa perkara ini sajalah kan, saya fahamlah kalau orang mempersoalkan perkara-perkara ini. Saya sebenarnya tak bimbang sangat kat walaun dengan walanon ni. Sebab walaun dengan walanon ni cakap apa pun, dia akan ruqyah perjanjian syaitanlah. Yang walanon akan kata, "Ha yang inilah kehebatan Perdana Menteri kita. Top class diplomacy menyelamatkan kita." Dia tak tengok pun. Kemboja tak ada berjoget, tak ada diplomasi apa pun dapat a better deal daripada kita, contohnya kan. Saya sebenarnya bimbang kepada bagi pihak Pakatan Harapanlah kan dan PKR. Saya sebenarnya bimbang kepada the thinking crowd. Orang yang membaca, yang membandingkan, orang yang boleh fikir, "Ni macam mana kita setuju semua ni sedangkan the cost benefit analysis tu terlalu jauh beza dia?" Tak kisahlah kalau Tengku Zafrul kata yang beli Boeing itu, itu keputusan komersial. Petronas, keputusan komersial. Data center, keputusan komersial. Tapi klausa-klausa dia ni ada menyebut mengenai GLC tau. Dan kalau saya contohnya terutamanya yang melibatkan teknologi kan, yang nak beli data center ke, nak beli peralatan telekomunikasi semua ni kan, dengan perjanjian ini maksudnya saya dah kena lock in dah dengan US. Kalau harga daripada US tu lebih tinggi dan teknologinya terbelakang berbanding dengan China, saya tak ada pilihan. Itu pula menimbulkan tanda tanya, bagaimana pula kesannya kepada keputusan kerajaan sebelum ini untuk buat dual network? Sebelum ini ada yang yang DMB buat yang Baratlah, pakai Ericsson kan. Lepas tu yang kedua ni 5G, dia nak besar kemungkinan Huawei. Dah ada perjanjian ni, macam mana Huawei tu? Dia banyak dia punya spillover effect dia tau kepada keputusan-keputusan yang telah dibuat selain daripada nuklear, sekarang Huawei kan. Jadi kalau macam walaupun Boeing nak beli Boeing, tapi maksudnya kecualilah MAS sampai bila-bila nak pakai Boeing lah, mungkin itu keputusan dialah. Tapi katakanlah kalau lima tahun lagi untuk expansion fleet MAS, kalau China punya fleet yang sekarang dia dah ada buat syarikat baru dia kan, saya tak tak ingat nama dia kan, kalau yang itu sekarang orang lain dah mula pakai, kita tak boleh pakai. Kita tetap kena Boeing. Sama juga dengan Petronas. Memang betullah Petronas berdagang LNG di seluruh dunia.
 
-
-
 [123:22] Haziq: Ha, itulah dia punya alasan pun. Memang dia beli daripada US dah lama dah.
-
-
 
 [123:26] Rafizi Ramli: Saya tak pasti dia beli daripada US banyak. Sebabnya berapa banyak dia beli? Sebabnya ialah kerana Petronas ni eksport LNG dia yang paling besar ialah kepada Far East. Jepun, China, Korea, Taiwan kan. Dan supply utama LNG Petronas ialah daripada selain daripada Malaysialah, Sarawak ataupun Sabah, ialah daripada Australia kerana Petronas ada ada pegangan di dalam satu usahasama, saya ingat namanya Dragon LNG lah yang supply kepada sana kan. Jadi kalau nak beli tu maksudnya on the basis lah yang Petronas tidak tidak tidak berupaya untuk memenuhi kontrak, jadi dia kena beli daripada US. Itu pun nak cross Pacific tu tau. Bayangkanlah daripada daripada Bintulu dia nak pergi ke Taiwan, dia tak jauh kan. Ni nak cross Pacific daripada US. Tapi ada complication juga kerana antara pelaburan terbesar Petronas ialah di Canada. Progress Energy yang yang LNG Canada lah yang yang bermasalah lama semua ni kan. Jadi kalau nak ship LNG daripada American continent, kalau you dah ada Progress LNG punya daripada apa nama ni Petronas punya sendiri daripada Progress, buat apa you nak pergi beli orang lain punya? Kalaupun you nak cover kalau ada shortfall contohnya untuk cover kontrak shortfall sama ada daripada Australia, Dragon LNG ataupun daripada Bintulu tak cukup, maka kalau ada Progress, might as well you just pakai you punya dekat Canada hantar ke Jepun, hantar ke- itu pun nak kena cross Pacific lah. Buat apa nak bayar orang lain punya? Jadi sama ada Petronas nak beli daripada US ke, nak pakai Canada ke, itu biarlah jadi pertimbangan komersial Petronas. Tapi bila mengikat macam ini, maka dia mengikatlah. Dia bukan lagi jadi pertimbangan komersiallah. Dan sama jugalah dalam perkara-perkara lainlah kan. Jadi ini perkara-perkara yang saya ingat bolehlah kita ulas panjang lebar semua lagi kan. Tapi satu malam tak cukup. Nanti lepas ini cybertrooper akan dihantar lagilah kan. Tapi saya saya cadangkan beginilah, saya cadangkan begini kan. Pandangan saya jelaslah. Maksudnya kalau saya di di Kabinet, saya akan ada masalah untuk untuk bersetuju kalau saya tengok perjanjian ini. Kebimbangan saya, perjanjian ini mungkin tidak ditunjukkan word by word sebab kesuntukan masa. So yang itu terpulanglah. Nanti semak baliklah semua kan. Tapi pandangan masing-masing, pandangan saya bila saya dah habiskan empat lima hari baca, semak semua, saya rasa dia berat sebelahlah. Dan saya saya faham kalau ada kritikan yang mengatakan ini sudah pun melintasi garis yang berkaitan dengan kedaulatan. Malah perkataan kedaulatan Malaysia tak ada pun dalam perjanjian. Sedangkan dalam dalam kalau nak ambil yang spesifik especially complementary action, kita banding Cambodia dengan Malaysia kan. Cambodia very clear cakap pasal sovereign interest. Malaysia tak ada kan. Jadi berdasarkan yang ini, pandangan saya memang saya tak boleh pertahankanlah kalau orang komen ke apa semua, saya memang tak boleh pertahankan perkara-perkara ini. Dan jawapan yang diberikan oleh Tengku Zafrul hari itu tu tidak menjawab banyak perkara-perkara yang lebih luas. Perkara yang lebih luas terutamanya kalau cost benefit analysis, kalau hanya 1,711 line items, kalau hanya melibatkan eksport 22 bilion, kenapa kita komit sampai banyak ni? Kenapa kita tak buat macam Kemboja? Tak ada komitmen apa sangat, maksudnya okeylah, arm's length. Kemudian apa nama ni apa-apa pun tak boleh melanggar kedaulatan Kemboja. Dan selagi yang sebaiknya ialah orang ramai, saya seru baca satu per satu, semak satu per satu angkanya berapa, gini gini gini berapa, dan masing-masing akan buat keputusanlah. Tapi kalau kerajaan tidak berhati-hati, perkara ini dalam tau. Terutamanya pengundi Melayu. Pengundi Melayu sangat sensitif kalau berkaitan dengan kedaulatan ni tau. Kan? Jadi yang ini ni saya sendiri memang angkat brek dan saya susah nak pertahankanlah. Yang selain daripada yang yang saya boleh berkongsi pandangan saya pada malam ini, yang lain tu tengok apa jawapan kerajaan, terutamanya beberapa perkara yang tak disentuh langsung tentang nuklear yang saya sebut tadi kan, tentang apa nama ni mekanisme untuk menyemak pelaburan ke dalam Malaysia supaya tidak bertentangan dengan kepentingan US, contohnya kan.
 
-
-
 [129:12] Haziq: Baik YB. Tapi yalah, dia dah dah sign. So apa yang kita boleh buat lagi?
-
-
 
 [129:17] Rafizi Ramli: Yalah, signature semua tu kalau sign pun dia ada aje. Kalau contohnya artikel 7.3 ada Modification and Amendments. Maksudnya kalau ada mana-mana pihak yang nak minta perubahan yang munasabah kepada mana-mana bahagian perjanjian ini mestilah dipertimbangkan dengan dengan baik dan untuk meminda perjanjian ini dalam tempoh 60 hari. "An amendment to this agreement shall enter into force 60 days after the date on which the parties exchange written notification of their of the completion of their respective applicable legal procedures." Jadi yalah, maksudnya ada lagi ruang itu dalam tempoh 60 hari lebih kurang macam itu kan. Dan kalau tak puas hati juga, artikel 7.5 boleh sahaja tamatkan perjanjian ini dan perjanjian ditamatkan dan berkuat kuasa penamatan itu 180 hari selepas menerima notis. Tapi takkanlah kerajaan kita ni akan tamatkan?
 
-
-
 [130:39] Haziq: Baik, YB. Panjang.
-
-
 
 [130:44] Rafizi Ramli: Hari ini panjang. Kita pun kita nak skip yang lain tak? Seterusnya. Apa lagi yang ada?
 
-
-
 [130:50] Haziq: Producer, pandangan?
-
-
 
 [130:51] Rafizi Ramli: Kita tengok lepas tu YB- tak, saya ingat-
 
-
-
 [130:54] Producer: Saya ada satu soalan.
-
-
 
 [130:55] Rafizi Ramli: Producer pun ada soalan.
 
-
-
 [130:58] Producer: Tapi lepas ni is no longer Zafrul's problem lah.
-
-
 
 [131:02] Rafizi Ramli: It's not- itu yang bagi saya, yalah Zafrul hari tu, saya ada di Parlimen, dengan bersemangat dia dia flex kata, "Janganlah hina apa nama ni penjawat awam kerana penjawat awam yang merundingkan." Kemudian Speaker beria-ia, "Saya akan ambil tindakan kalau ada orang hina penjawat awam." Eh, Parlimen boleh tanya apa-apa ajelah! Macam tu susahlah jadi kerajaan. Kalau semua, "Oh ini penjawat awam, jangan sentuh. Ini penjawat awam, jangan sentuh." Itulah guna menteri dan penjawat menteri dekat Parlimen. Kerana menteri itu bertanggungjawab atas segala tindakan yang berlaku dalam kerajaan, termasuklah oleh penjawat awam. Kerana penjawat awam, dia tak boleh buat keputusan tanpa Kabinet ataupun menteri. Jadi contohnya kalau perjanjian ini kan, apa yang dirundingkan satu peringkat ke satu peringkat, klausa-klausa tu dia mesti bawa kepada Tengku Zafrul. Dan Tengku Zafrul kena bawa kepada Kabinet. Kalau Tengku Zafrul tak bersetuju sebelum bawa ke Kabinet lagi, dia dah suruh penjawat awam yang merundingkan tu, "Runding balik. Ini red line, itu tak boleh, ini." Jadi cara dia cakap hari tu seolah-olah, "Tak apalah, saya bersetuju sahaja." Sebab besar kemungkinan memang betullah, lepas ini bukan masalah dia. Ini masalah menteri dan Kabinet yang seterusnya kan. Dan bila dia kata jangan salahkan penjawat awam, janganlah berselindung di sebalik penjawat awam because the buck stops at you as the minister. You yang kena bagi arahan, you yang bagi kelulusan, you yang bagi direction kepada perunding. Dan lepas you, lepas Menteri MITI, kena bawa ke Kabinet pula. Kecuali macam saya sebut, kecuali word by word itu tidak dibentang di Kabinet. Sebab saya tak boleh nak nak masuk akal ni, macam mana klausa pasal nuklear tu boleh lepas?
 
-
-
 [133:05] Haziq: Ironi and kontradik ya.
-
-
 
 [133:07] Producer: Semasa YB berunding pasal JS-SEZ, what was your process like?
 
-
-
 [133:14] Rafizi Ramli: Proses dia macam itulah. Sebelum satu saya kena bawa keputusan pertama, dapat kelulusan untuk mula berunding. Lepas. Lepas itu proses di bawah kita dah bagi semua arahan semua, sebelum mula berunding dengan Singapura, maka kerangka rundingan dan perkara-perkara besar, red line semua itu dibawa ke Kabinet sekali lagi. Kabinet luluskan. Berdasarkan yang itu, barulah kita rundingkan in detail supaya final agreement itu dapat dimuktamadkan dan final agreement itu KAMA, Peguam Negara kena luluskan. Kemudian bawa ke Kabinet word by word. So sebab itu saya kata dan sebelum sampai kat Kabinet word by word tu, dia dah circulate kepada semua kementerian lain. Kementerian lain dah ada pandangan gini gini gini kan. Jadi sebab itu saya duk fikir, ni versi yang mana ni? Satu versinya ialah dia dah circulate kepada semua kementerian, tetapi PETRA ataupun MOSTI ataupun kementerian-kementerian lain, dia bersetuju yang pasal nuklear semua ni semua kena ikut klausa itu. Saya rasa benda tu takkan berlaku. Sebab MOSTI dengan PETRA mesti dah angkat red flag aje, cakap, "Eh, kami nak direction ni. Kalau klausa yang ini macam ini, maka apa jadi dengan semua arahan terdahulu Perdana Menteri dengan Kabinet yang minta kita runding dengan Russia?" Dengan China semua ni. So yang itu macam mana? Keluarkan balik arahan Kabinet, batalkan yang itu. Kalau saya jadi menteri, saya tulis macam itulah. We need direction kerana itu bertentangan dengan arahan awal kerajaan kan. Itu versi pertamalah. Dan saya tak rasalah PETRA semua tak langsung bersetuju bulat-bulat kerana ada kesan besar pada kerja dia kan. Versi kedua ialah ada kemungkinan perjanjian itu yang word by word itu, clause by clause itu tidak diedarkan untuk maklum balas kementerian lain. Jadi kementerian lain tak tahu. Sedar-sedar dah keluar perjanjian. Ha, sudah. Besar kemungkinan untuk nak kejar kepada signing ceremony ni, dia kertas Kabinet itu dia tidak disertakan dengan perjanjian word by word. Jadi yang itu saya tak tahu. Yang ini biar biar biar orang lain tanya nantilah. Your question tadi pasal proses.
-
-
 
 [135:55] Haziq: Okey baik, YB.
 
-
-
 [135:58] Rafizi Ramli: Baik. I think we can go habiskan kerat dek lagilah kut. Hidup ni keras kan. Yang lain tu mungkin kita skip minggu depanlah. Penat. Kalau tak, jadi 10 jam.
-
-
 
 [136:10] Haziq: Yalah, esok YB nak ni kan, buat barista kan?
 
-
-
 [136:13] Rafizi Ramli: Esok saya dahlah nak jadi pekerja kedai ni letih aku. Okey.
-
-
 
 [136:19] Haziq: Next kita ada, "REE Kelantan melatah lagi, YB." Cuma yalah, concern yang dibangkitkan juga yalah, basically mereka tak puas hati perjanjian yang menetapkan tentang REE ni tak dilibatkan mereka sekali selaku tuan punya REE tulah. Komen YB terus?
 
-
-
 [136:39] Rafizi Ramli: Taklah, yang ini melat想像lah. Dan bila dia saya mempengerusikan beberapa mesyuarat sebelum ini untuk kita, you know, mempercepatkan adanya industri REE di Malaysia ni. Kita ada upstream iaitu cari galilah kan. Kemudian yang kita nak buat paling kurang kita nak ada midstream supaya dia boleh diproses di Malaysia. Yang berlaku sebelum ini, kerajaan-kerajaan ada sesetengah kerajaan negeri, dia bagi saja tanah-tanah ini kepada yalah pelabur daripada China ke mana dan dia korek dan dieksport terus mentah-mentah macam itu kan. Baik eh. Saya ada dua tiga perkaralah yang bagi saya ini melatah dan kurang faham isulah. Satu, sebenarnya naratif yang mereka mainkan ini yang kononnya, "Kita tidak mahu mengulangi peristiwa petroleum berulang lagi."
-
-
 
 [137:41] Haziq: Ha ya ya, dia sebut.
 
-
-
 [137:43] Rafizi Ramli: Itu beri gambaran bahawa keputusan menubuhkan Petronas dan Petronas yang ada itu adalah satu kesilapan. Kenapa zaman arwah Tun Razak dulu dengan Tengku Razaleigh Hamzah, kenapa mereka menubuhkan Petronas? Sebabnya ialah sebelum adanya Petronas, model di negara-negara lain pun, malah masa tu model di Sarawak pun, dia menggunakan model konsesi. Konsesi ni maksudnya macam konsesi balaklah. Saya bagi kamu tanah katakanlah, saya bagi keluasan tanah ini kepada kamu 1,000 ekar. Kamu bayar royalti kepada kami 10%. 10% tu atas nilai akhir. Jadi syarikat-syarikat minyak ni, dia cerdiklah, dia dah lama. Dia korek minyak ni kan, pum pam pum pam pum pam, akhirnya tak pernah untung. Royalti banyak tu aje dapat. Royalti 10%, 5% kan. Dan itulah yang berlaku di negara-negara lain yang tidak ada sebuah syarikat minyak negara macam Petronas. Jadi sebab itu bila kuasa itu ada di negeri-negeri, maka ada kecenderungan negeri-negeri untuk bagi tanpa teratur dan dia bagi kepada mana-mana syarikat yang datang ni. Dia tak ada kuasa di peringkat Persekutuan untuk memastikan pemindahan teknologi, untuk semua tak ada. Asalkan kami dapat sikitlah. Dan memang kena main dengan syarikat-syarikat minyak nilah kerana kalau tengok keuntungan, dia banyak tu aje. Padahal untung dia jauh lagi banyak. Tapi pandailah yang ini dia charge, yang itu dia charge semua, royalti dapat sikit kan. Itulah yang berlaku kepada industri balak. Dulu kan, daripada zaman 60-an lagi, contoh Kelantanlah, kaya-raya dengan balak. Bagi konsesi sana, konsesi sini, habis tebang. Hasil apa dia? Kutip-kutip kutip tak ke mana. Jadi sebab itu Tun Razak dengan Ku Li buat keputusan, we must have the economies of scale. Bila kita ada economies of scale, inilah barulah kita boleh berunding dengan dengan syarikat-syarikat minyak. Dan royalti tu 5% kepada negeri tu kan, ramai orang tak tak tak faham. Royalti ni ada dua peringkat. Satu, royalti atas gross. Maksudnya keluar saja minyak tu berapa ratus juta tong, dia ambil 5% atas harga 500 juta tong. Yang itu yang 5% di bawah Petronas sekaranglah yang dibayar kepada kerajaan negeri. Royalti yang disebut 15%, 10% yang kadang-kadang disebut, itu boleh jadi royalti kepada net. Lepas dia keluar ratus-ratus puluh ribu tong ni, dia tolak semua kos dia bla bla bla bla bla bla, untung banyak ni, royalti kau banyak tu. Dia berbeza sebenarnya kan. Jadi bila Kelantan duk kata jangan kita ulangi semua ni, yang lagi berbahaya ialah kalau diserahkan bulat-bulat kepada kerajaan negeri masing-masing, maka ada orang saja datang ketuk pintu, cakap, "Saya akan bawa duit banyak ni, saya gini gini." Ha dia bagilah, dia sign. Ambil, ambil, ambil. Jadi macam balak dulu kan. Itu pertama. Yang itu kena berhati-hati kan. Keduanya ialah dan ini juga ada kaitan dengan US lah. Ini ni melatah dan salah tembak. "REE hak mutlak Kelantan, bukan bahan tawaran dengan US." Sebenarnya apa kesan perjanjian ini kepada REE di Malaysia?
-
-
 
 [141:43] Haziq: Tak ada sekatan untuk eksport?
 
-
-
 [141:45] Rafizi Ramli: So? Sekarang pun tak ada sekatan untuk eksport. Kita tak eksport pun sekarang, raw.
-
-
 
 [141:53] Haziq: Betul, betul.
 
-
-
 [141:54] Rafizi Ramli: So you have to go back kepada industri REE. Okey. Pasaran dunia 85% dikawal oleh China. Hanya 15% yang sebahagian besarnya Lynas lah kan yang bukan China. Kenapa jadi macam itu? And US tak banyak sangat tau. Mengasil- dari segi refine critical mineral ni, rare earth ni.
-
-
 
 [142:22] Haziq: Cuma angka dia dulu lain. Kalau dulu agak seimbang. Tahun 60-an saya rasa. US 30%, China pun 30%. Tapi sekarang China tu macam melonjak naik. Tapi sebab apa, saya tak sure.
 
-
-
 [142:33] Rafizi Ramli: Itu tak menjawab soalan akulah. Aku tanya lain, kau tanya lain. Kau tanya balik aku kan. Okey. Keadaannya begini eh. Okey, sebenarnya yang yang kalau ada di Kelantan, di Terengganu yang dia kata deposit ni kan, ini di upstream. Upstream ni di huluan kan. Bila kita dah dah dah gali dan korek, dapatlah ketulan tanah tu kan. Dan REE ni dia bukannya jumpa seketul emas macam ni, dia kecil-kecil tahu, halus, biji-biji kan. Okey. Daripada mineral asal itu, dia kena melalui banyak proses supaya kita boleh ambil dan pisahkan kepada elemen-elemen yang penting. Elemen-elemen ni yang dipanggil critical mineral, rare earth elements ni yang digunakan untuk elektroniklah, semikonduktor semualah. Jadi teknologi dia di di ditentukan oleh teknologi. Teknologi yang boleh yang yang yang yang baik di dunia sekarang ni ialah teknologi China. China boleh mengasingkan daripada satu ketul tanah yang diambil, dikorek tu, dia boleh asingkan sampai 16 unsur rare earth, critical mineral yang berbeza. Lynas berapa? Enam. Jadi kesan dia kepada kepada Malaysialah bila kita tandatangan perjanjian ini, pada pandangan saya setakat inilah, bukan sahaja pasaran dunia ini masih lagi dikawal oleh China secara hampir monopolilah, 85%, teknologi tu hanya mereka yang ada sekarang. Sebelum ini, masa kita jumpa dengan Presiden Xi Jinping pun, itu perkara paling atas tau perbincangan kita dengan Chinalah semua kan. Dan memang kita maklumkan, kita perlukan kerjasama dengan negara China untuk kita membina kilang-kilang pemprosesan REE. Dan China pula ada undang-undang. Dia tak boleh buka di negara lain. Hanya teknologi tu hanya di negara dia, kecuali dengan pelepasan daripada kerajaan dialah kan. Jadi itulah yang kita cuba yakinkan supaya kita boleh ada satu kilang yang boleh memproses. Tapi bila ada perjanjian ini, saya tak tahu kesannya apa masuk Chinalah. China akan kata, "Kalau semua ni dah ada perjanjian macam ni semua kepada US, kami hilang kawalan. Apa-apa teknologi yang kami bagi, kami pindahkan kepada kamu, kami kami latih orang kamu untuk buat, kau proses, kau pergi hantar kat US and I don't have a say. So buat apa?" So itu sebenarnya kesan yang lebih besar, bukannya kesan yang macam PAS kata jadi bahan tawaran dengan AS semua ni. Jadi sekarang ni kerajaan negeri Terengganu contohnya cerita pasal saya boleh kongsikanlah. Sebelum ini kan, ada negeri-negeri yang tak masuk akal. Bila bercakap pasal REE, bila kita nak bincang macam mana nak membina business model kan, ada yang letakkan royalti 40%. Kau gila minta royalti 40%? Bayangkan saya susah-payah keluarkan modal, teknologi saya ada semua kan, saya korek semua, belum apa-apa kau nak ambil 40%. Royalti ni 10, 15% tu dah cukup tinggi. Royalti 10% aje, 5% aje kan. Jadi yang itu pun dah jadi masalah kerana setiap negeri ni duk kira Wakanda yang dia orang ada ni. Sanusi kan, trilion-trilion. Jadi duk kira, "Aku nak 40% ni." Sampai sudah benda tu tak jadi kan. Dan kalau dia engage setiap satu separately ikut kepala masing-masing tanpa satu kawal selia yang membangunkannya sebagai industri nasional, benda ni lagi lama tak jadi. Dahlah teknologi tu tak ada, bergantung kepada China. Lynas ada, tapi dia tak boleh sampai ke-16. Kalau dia buka yang baru pun saya ingat paling tinggi dia boleh sampai lapan. Beza sangat lagi tulah kan. Kemudian yang ini juga orang dia tak cerita, saya ingat mungkin dia pun tak tahu macam mana korek REE nilah. Okey. Kenapa China ada teknologi yang cukup baik? Kerana daripada tahun 60-an, dia memang tumpu cari gali untuk REE. Cuma di negeri dia, tanah besar, sama juga macam di Australia, dia senang dia cari gali dan juga dia dia buat lombong REE ni. Dia pakai open pit. Dia gali tanah tu, dia asingkan, lepas tu hantar ke kilang. Kita macam mana? REE ni sebenarnya duduk kat mana? Duduk bawah hutan. Banyaknya hutan simpanan kekal. Jadi kita tak boleh nak tebang pokok gali sebab negara China ke Australia tak apalah tanah sebesar-besarnya dia boleh open pit kan. Kita ni ialah di bawah hutan simpanan kekal. Yang dia orang duk kata Wakanda-Wakanda semua, tak boleh ambil pun lagi. Okey, kalau boleh ambil yang yang duk ambil sikit-sikit ni sekarang macam mana dia buat? Dia tebuk lubang daripada tu, kemudian dia inject asid ke dalam tu untuk cairkan jadikan cecair. Kemudian dia sedut balik dan asid tu jadi clay, yang itu dia jadi mineral raw mineral. Kemudian untuk dihantar ke kilang pemprosesan. Tapi tak ada lagi standard lombong yang macam itu di dunia ini yang dibuat secara besar-besaran. Jadi kita nak kena membangunkan SOP, kita nak kena tengok apa kesan dia kepada alam sekitar. Benda ni benda rumit. Dia bukan macam gali emas di Rusila. Kan? Jadi jadi sebab itu saya kata dia orang ni melatah betul. Dia macam yang saya sebut dalam dalam podcast yang lepaslah. Dia duduk berpeluk tubuh, "Money, money, money. Sila bagi kat saya." Dia tak tahu benda tu sangat rumit, standard pun tak ada lagi. Dan peraturan dia, keputusan belum dibuat. Kalau kita nak benarkan di bawah hutan simpanan kekal, di bawah-bawah hutan kita semua ni kan, apa sebenarnya dari segi environmental control, kesan? We have to go through all this process. Itu baru dekat upstream. Itu belum lagi masalah midstream. Ni masalah midstream ni, siapa nak bagi teknologi ni? Kecuali US very quickly lah dalam tempoh tiga empat tahun ni, dia boleh refine sama macam US macam macam China refine, then alhamdulillah. Then we can talk. Kalau tidak, sekarang ni semua retorik politik ni, pertahankan hak kedaulatan negeri, Terengganu mahu hak negeri dihormati semua kan. Kau pergi buatlah. I don't think kalau dia boleh buat semudah itu, dia dah buat lama dah. But you know, the reason why it does not happen kerana REE ni is a lot more complicated dan yang dia kata tu sebenarnya sangat terbabas daripada isu utama dalam perjanjian. Kerana isu utama daripada perjanjian ialah apakah kesannya kepada usaha kita untuk mendapatkan teknologi daripada China untuk memproses REE? Kalau China tutup pintu lepas ni, macam mana kita?
-
-
 
 [140:26] Haziq: Baik YB, clear. Kita tengok next YB. Tapi yalah YB, Sarawak pun dia tolak juga eksport REE. Cuma dia bagi alasan macam Chinalah. China ni tak eksport nadi bumi keluar, jadi mereka berpandangan samalah.
 
-
-
 [140:43] Rafizi Ramli: Bila pula China tak eksport nadi bumi keluar?
-
-
 
 [140:47] Haziq: Itu apa yang dia katalah.
 
-
-
 [140:48] Rafizi Ramli: Mana ada. Sebab tulah dia kontrol 85% pasaran.
-
-
 
 [140:53] Haziq: Dia tak mahu- maksudnya yang mentah.
 
-
-
 [140:56] Rafizi Ramli: Eh, yang itu Malaysia pun tak eksport. Kita pun dah ban dah. Kan?
-
-
 
 [141:01] Haziq: Okey, baik YB. Next. Politik sikit, YB. Saya-
 
-
-
 [141:08] Rafizi Ramli: Alhamdulillah, akhirnya keluar muka Azmin. Sejuk hati aku tengok. Kalau tidak, cerita Trump dengan tarif semua ni, REE ni panjang cerita, susah nak terang.
-
-
 
 [141:19] Haziq: YB, saya yalah dah dua jam lebih YB, saya tanya teruslah. Dakwaan Trojan Horse Kerajaan Madani ni berat, YB. YB ada info apa-apa?
 
-
-
 [141:28] Rafizi Ramli: Tak ada. Saya tak adalah. Saya sebenarnya tak suka sangat cerita-cerita gosip ke, black ops, model-model orang politik. Yang penonton sukalah. Saya saya suka benda-benda- saya kan nerd kan, aku sukalah benda-benda yang yang rumit macam ni kan, akademik ni kan. Yalah, tapi perkara ini akan terus jadi perbalahan dalaman dalam Bersatulah kan. Dan dia akan serangannya itu akan berkisar kepada Azmin dan kalau kita letak logik kita sebagai orang Bersatulah kan dan bagi dia sama ada cerita Trojan ke tak Trojan tu satu hallah. Masalahnya contohnyalah kan, Azmin sebelum ini dikaitkan dengan siasatan pasal safe house yang wang-wang dijumpai di rumah safe house, kecoh pum pam pum pam. Apa jadi dengan kes tu? Senyap begitu saja, krik-krik kan. Jadi you tak boleh salahkan orang Bersatulah. Dia akan kata, sebab itu dia kata ada satu gerakan dalam Bersatu kata pemimpin-pemimpin yang terpalit terpalit ini, dia akan compromise kedudukan dan juga kebebasan Bersatulah kerana mereka terikat. Itu juga serangan yang sampai kepada Tan Sri Muhyiddin.
-
-
 
 [143:06] Haziq: Okey.
 
-
-
 [143:07] Rafizi Ramli: Bila contohnya Wan Saiful Wan Jan, Saifuddin Abdullah tumpu kepada soal menantu Tan Sri Muhyiddin. Sebenarnya ayat mereka itu kalau baca yang tersirat ialah, "Oleh kerana Tan Sri Muhyiddin, menantu kamu ada kes. Azmin, kamu ada kes. Maka kamu akan dicucuk hidung oleh kerajaanlah, oleh Madanilah." Jadi itu yang saya ingat perlambangan kepada Trojan horselah. Dan sama juga sebab itu saya ingat tiba-tiba dibawa balik cerita pasal pasal video kelabu, video blur ni kan. Sebabnya Datuk Seri Hamzah dulu ialah Menteri Dalam Negeri. Jadi maksudnya dia mesti telah melihat laporan yang mengatakan sekian sekian sekianlah. Jadi yang tersiratnya ialah mereka nak kata kalau ikut laporan, video itu autentik, maka sepatutnya ada tindakanlah. Tapi sebab tak ada tindakan, maknanya- jadi perkara ini akan terus berlegar-legarlah saya ingatlah. Saya tak nak campur sangatlah kan. Jadi itu ikut suka dialah. Kita ada kedai yang kita lagi pucat muka takut tak cukup duit nak bayar pekerja lepas ni kan. Jadi saya tumpukan kepada kedai-kedai saya.
-
-
 
 [144:34] Haziq: Baik, baik. Okey YB. Terima kasih Azmin, boleh balik ke seterusnya. Mungkin last sekalilah kut YB kalau keras. Berkaitan dengan keputusan Kabinet mengekalkan minuman beralkohol di sekolah Cina. Saya tak nak tanya apa, cuma saya teringat YB, kat sekolah Cina ni dulu Ayuh Malaysia punya latihan semua pun kita buat.
 
-
-
 [144:54] Rafizi Ramli: Tapi kita tak ada alkohollah.
-
-
 
 [144:56] Haziq: Tak ada alkohol. Tapi maksudnya benda yang pertikaian sebab dia orang ni memang ada fasiliti yang private kan? Jadi apa pandangan YB?
 
-
-
 [145:04] Rafizi Ramli: Cuma yalah ini ini masalah Malaysia ni dia sangat divisive kan. Jadi saya tengok yang yang Melayu kan, oh semua duk, "Oh arak haram, you know. Cina ni apalah nak bagi arak kepada budak-budak semua." Sebenarnya konteks, pandangan sayalah macam Haziq katalah, kita ada pengalaman itulah. Bukan sebab kita ada arak ke apa, tapi masa kita pembangkang kan, masa INVOKE, masa Ayuh Malaysia, mana ada siapa-siapa nak bagi apa-apa sewa kat kita. Dewan ke apa, nak buat majlis ke, nak buat fundraising dinner ke, tak boleh. Hotel pun tak nak, semua tak berani sebab Rafizi pembangkang semua kan. Sebab tu aku pergi hotel-hotel semua, bos-bos yang tersengih ni aku ingat tau. Sekarang ni kan. Dulu kan, kita nak book nak bayar pun langsung tak nak layanlah sebab tu. Jadi kita pergi ke sekolah Cina. Kenapa sekolah Cina? Sebab sekolah Cina ni dia memang dibina dengan wang yang dikumpul daripada komuniti Cina dan mereka nak pastikan bahawa sekolah-sekolah ini dia juga ada sumber kewangan. Jadi dewan itu disewakan baik kepada orang macam saya, baik kepada persatuan-persatuan, kahwin, semua adalah kan. Jadi itu yang menjadi saya ingat masyarakat Cina kecil hatilah dan yang Melayu ni pun, dia tak boleh apple to apple. Keadaan dia tu berbeza. Satu, arak tu ialah sesuatu yang memang jadi budaya dan amalan sebahagian mereka. Keduanya ialah dewan-dewan sekolah Cina itu perlu dilihat dari perspektif yang lebih luas, bukan semata-mata, "Ha ini macam dewan sekolah kebangsaan." Tak. Dia tak dibayar oleh kerajaan pun. Itu ialah dewan masyarakat mereka dan memang macam-macam majlis dibuat kat situ pun kan. Jadi bila kerajaan, Datuk Seri Anwar buat kenyataan itu, memang masyarakat Cina melentinglah kepada kerajaan. "Kita bina sendiri, yang ini memang budaya kita. Kalau kami tak boleh buat majlis dan memang majlis kami memang ada yang ada arak dan bukan pelajar datang pun, dia buat malam semua kan. Dan memang dewan-dewan mereka itu terbuka kepada orang ramai semua. Dia sebenarnya venue hall kan. Dan dia akan ada kesan kepada sekolah juga. Kalau tak boleh nak disewakan, sekolah tu dia tak dapat bantuan daripada kerajaan ataupun kalau dapat pun dapat per kapita sedikit, dia perlukan sumber pendapatan yang lain. Kalau yang itu dikeram, macam mana dia nak bayar semua kan?" Jadi dia jadi nampak kerajaan U-turn lah. Kemudian akan dijadikan politik baliklah kerana yang Cina akan merasakan bahawa kenapa Madani buat macam ini kan, cuba nak impose kepada kami. Kemudian yang Melayu pula akan kata, "Alah," terutamanya walaunlah akan kata, "Tengok ni, Anwar Ibrahim tunduk kepada DAP." Kan? Jadi dan kesannya kepada DAP tu agak besar tahu. Kerana saya ada kawan-kawan Cina, bekas guru semua, dia kata dia orang sangat kecewa. Dan bagi mereka, keputusan Kabinet mengekalkan garis panduan sedia ada itu tak ada kena-mengena dengan DAP, dia kata. Saya ada seorang cikgu yang tulis panjang lebar, dah tua dah dia, dah 70 tahun kan. Dia memanglah dia terlibat dengan jaga sekolah persendirian Cina kan. Dia kata sebenarnya sebab akhirnya kerajaan faham bahawa perkara itu adalah sebahagian daripada masyarakat Cina dan sedar kesilapan, tapi kredit tu dia tak bagi kepada DAP pun. Jadi lain kali saya ingatlah sebelum apa-apa di yalah, perkara-perkara yang sensitif kan, kita kena fikir latar belakang, konteks dia dulu kerana lain masyarakat, lainlah kan. Dia sama macam bila ada ada orang bukan Melayu yang dia tak faham kenapa sangat sensitif dan mengguris hati bila mereka persoalkan tentang Palestin. Ha itu tak faham kontekslah. Memang orang Islam, orang Melayu, walau macam mana berbeza parti ke macam mana ke, itu naluri kita. Naluri kemanusiaan kita, persaudaraan sesama Islam kita, menentang kezaliman kan. Jadi masih lagi ada ramai yang mempersoalkan, mempersendakan pasal Palestin semua tu, dia tak faham konteks. Yang bahawa ini bukan soal Islam semata-mata semua dan orang Melayu ni bukan soal parti mana. Pasal Palestin ni is deep in our hearts lah. Sama juga yang kita yang Melayu, yang dalam kerajaan, kena ingat dari konteks budaya dan masyarakat mereka, ada perkara-perkara tu yang yang sangat sensitiflah kan. Dan ya well, I think kalau kerajaan nak pastikan sokongan bukan Melayu itu kekal dan tidak terhakis dengan lebih cepat, jadi perkara-perkara ini perlu berhati-hati di masa akan datang.
-
-
 
 [150:46] Haziq: Okey baik YB, baik, clear. Wow, 2 jam 28 minit.
 
-
-
 [150:51] Rafizi Ramli: Okeylah tu.
-
-
 
 [150:52] Haziq: Kita tengok apa lagi ada.
 
-
-
 [150:53] Rafizi Ramli: Tak ada dah kut.
-
-
 
 [150:54] Haziq: Betul, YB.
 
-
-
 [150:55] Rafizi Ramli: Alhamdulillah.
-
-
 
 [150:57] Haziq: Jadi itu saja.
 
-
-
 [150:58] Rafizi Ramli: Yang lain-lain kita skiplah.
-
-
 
 [151:00] Haziq: Sebab esok YB kena jadi barista. YB memang pandai buatlah?
 
-
-
 [151:05] Rafizi Ramli: Esok kau test lah macam mana.
-
-
 
 [151:07] Haziq: Semua tak sabar eh. Semua kena datang ramai-ramai pukul 10:00.
 
-
-
 [151:10] Rafizi Ramli: Saya pengalaman retail, saya pernah jaga kedai koperasi masa Tingkatan Dua dan Tingkatan Tiga, menjual kacang, macam-macamlah kepada senior. Dekat sekolah dulu hari Sabtu malam ada wayang. Jadi masa wayang tu orang beratur panjanglah. Kedai koperasi kat sekolah saya tu satu tingkat kecil aje. Jadi pengalaman saya menjual jual beli ni daripada koperasi sekolah masa Tingkatan Dua ke atas. Jadi saya akan mulakan baliklah pengalaman itu balik esok.
-
-
 
 [151:46] Haziq: Okey baik, YB. Jadi kita tamatkan dan kita tidur awal supaya esok kita boleh pergi ke kedai ramai-ramai. Itu saja daripada kami. Kita jumpa lagi podcast yang akan datang dan kita- ha itulah. Bye, assalamualaikum.
 
