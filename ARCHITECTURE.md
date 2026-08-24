@@ -587,6 +587,43 @@ model line in `QA_CHECKLIST.md` until reprocessed.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer
   than roughly an hour in a single call -- use `--engine local` for those.
 
+## Retrying Gemini on a previously-failed episode
+
+Landing on a weak fallback model (e.g. `gemini-3.5-flash`) doesn't always mean the
+episode's content triggers `PROHIBITED_CONTENT` on every stronger model -- that's
+confirmed deterministic for ep13 (see above), but the fallback chain also advances on
+plain free-tier quota exhaustion (20 requests/day per model) or a model being
+temporarily unavailable, which a standalone single-episode retry (full quota, not
+mid-batch) can sidestep entirely. Confirmed on ep53, 2026-08-25: a fresh single-episode
+`--engine gemini` retry succeeded (via `gemini-3.6-flash` -> `gemini-3.1-pro-preview` ->
+`gemini-3.5-flash` on quota/availability fallbacks, not a content block) and produced a
+completely different, much smaller class of error than the original attempt's
+~140,000-char repetition-loop degeneration -- 14 duplicate blocks from a
+continuation-loop hallucination (see `dedupe_raw.py`), not a repetition loop. Worth a
+standalone retry before assuming `--engine local` is required, unless the episode has
+already shown a *deterministic* content block on retry (ep13's case).
+
+**New duplicate pattern found while fixing ep53's residual duplicates**: after
+`dedupe_raw.py` resolved every duplicate group its caption cross-check could confirm,
+6 groups remained unresolved (captions didn't cover those phrases). All 6 shared an
+exact, systematic pattern: the same content appeared twice with identical MM:SS but a
+different hour digit (e.g. `[1:38:29]` and `[2:38:29]`) -- a continuation-loop
+hallucination that re-emitted an already-covered block but mislabeled its hour. Since
+one of the 6 pairs was the episode's closing sign-off ("terima kasih... jumpa lagi
+minggu depan"), and a sign-off can only be near the true end of a long episode (this
+one is 3h0m), narrative logic alone (independent of captions) confirmed the later
+timestamp (`2:xx:xx`) was correct in every pair and the earlier one (`1:xx:xx`) was the
+fabricated duplicate -- the opposite of a naive "keep the first occurrence" heuristic,
+which would have been wrong here. Worth checking for this exact hour-shifted pattern
+before falling back to manual case-by-case judgment on caption-unresolved duplicates.
+
+**A hand-rolled fix caused its own bug here, worth remembering**: repairing those 6
+duplicates via a one-off script that split the body on `"\n\n"` and rejoined the kept
+blocks with a single `"\n"` silently collapsed every paragraph break in the whole file
+into one undifferentiated block -- caught immediately by `qa_check.py`'s wall-of-text
+check, not silently shipped, but a reminder that block-splitting logic needs the exact
+same separator on the way back out as the way in.
+
 ## Speaker naming convention
 
 The 4 recurring cast members use short (first) names throughout, everywhere except

@@ -171,13 +171,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 337s, 9/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
-  - raw.md has a 140692-char block with no paragraph breaks (wall-of-text)
-  - raw.md has a repetition-loop degeneration (139628 chars repeating ' Jadi, bila kita kata, "Kita ni sangat baik, kita ni dah oke'...) -- model got stuck re-emitting the same short phrase
-  - missing interview.md
-  - missing interview-en.md
-  - missing interview-ms.md
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 296s, 4/12 caption samples matched)
-  - models: raw.md=gemini-3.5-flash
+  - models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 458s, 11/12 caption samples matched)
   - models: raw.md=gemini-3-flash-preview
