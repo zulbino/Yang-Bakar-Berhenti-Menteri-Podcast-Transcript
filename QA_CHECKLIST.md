@@ -207,7 +207,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2025-10-24-ep19-yang-berhenti-menteri-episod-19
 - [x] 2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo
 - [x] 2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
-- [x] 2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29 (models: raw.md=mesolitica/malaysian-whisper-medium-v2)
+- [x] 2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-
 - [x] 2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi (models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap- (models: raw.md=gemini-3.7-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
