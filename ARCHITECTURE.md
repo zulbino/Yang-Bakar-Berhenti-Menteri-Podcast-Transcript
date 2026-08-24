@@ -464,17 +464,105 @@ model line in `QA_CHECKLIST.md` until reprocessed.
   it's immune to every content-based failure mode found elsewhere in this doc
   (PROHIBITED_CONTENT blocks, fallback-model degradation, and the per-run
   label inconsistency confirmed directly on ep13/ep39, where the same real
-  speaker got a different invented name in different Gemini attempts). Each
-  VAD chunk from `lib_local_asr.py` gets labeled with whichever diarized
-  speaker has the most time overlap. Output is anonymous "Speaker N" labels
-  (numbered by first appearance, consistent within an episode since they're
-  real voice clusters) -- still needs a manual naming pass afterward, same as
-  Gemini's own generic labels do, just without the added risk of the label
-  itself drifting between attempts.
+  speaker got a different invented name in different Gemini attempts). Output
+  is anonymous "Speaker N" labels (numbered by first appearance, consistent
+  within an episode since they're real voice clusters) -- still needs a
+  manual naming pass afterward, same as Gemini's own generic labels do, just
+  without the added risk of the label itself drifting between attempts.
 
-  **ep13 naming pass done, 2026-08-24**: sample clips extracted per speaker
-  and confirmed by the repo owner by ear (`Speaker 1` = Rafizi Ramli, 300
-  turns; `Speaker 2` = Haziq Azfar, 39 turns) before applying the labels to
+  **Chunk-level labeling was itself a real bug, fixed 2026-08-24**: originally
+  each up-to-28-second VAD chunk from `lib_local_asr.py` was labeled with
+  whichever diarized speaker had the most time overlap with the *whole*
+  chunk -- so a short interjection from a second speaker inside a longer
+  chunk was silently swallowed into the dominant speaker's line, with zero
+  trace in the output. Confirmed as a real, not just theoretical, problem via
+  direct audio listening on ep30: a 25-second span containing two short
+  interjections from a third voice ("Farhan") produced only one Rafizi-Ramli
+  line, the interjections nowhere in the transcript. Root cause was NOT
+  pyannote's clustering -- it correctly detects the second voice at the right
+  moments -- it was throwing away that resolution by labeling per chunk
+  instead of per word.
+
+  Considered and rejected: (1) NVIDIA NeMo / the `whisper-diarization`
+  GitHub project's full pipeline -- its diarization module still doesn't
+  handle overlapping speech either (same gap as pyannote), and re-running ASR
+  through `faster-whisper` would mean converting the existing
+  `mesolitica/malaysian-whisper-medium-v2` checkpoint to CTranslate2 format,
+  a bigger lift for no proven gain over what's already working. (2)
+  `ctc-forced-aligner` (the PyPI package `whisper-diarization` itself uses for
+  precise word timing) -- needs a native C++ extension that fails to build on
+  this Windows/Python 3.14 setup (`error LNK2001: unresolved external symbol
+  PyInit_align_ops`), no prebuilt wheel exists for this platform.
+
+  **What shipped instead**: `scripts/lib_forced_align.py`, using torchaudio's
+  official MMS forced-aligner (`torchaudio.pipelines.MMS_FA`) -- pure Python,
+  no native extension, already an implicit dependency via pyannote.audio.
+  Each VAD chunk is still transcribed once as a whole (preserves ASR
+  quality/context), then the transcript is force-aligned word-by-word against
+  that chunk's audio, and each word gets its own speaker label via
+  `lib_diarization.label_for_range`. Consecutive same-speaker words are
+  grouped back into lines. Numbers and punctuation-only tokens (e.g.
+  "RM11,000") have no letters in the aligner's label set (a-z plus apostrophe)
+  and get their timestamps interpolated from neighboring aligned words.
+  **Needs torchaudio's CUDA build installed explicitly**: the default PyPI
+  torchaudio wheel is CPU-only, version-mismatched against torch's own CUDA
+  build, and only registers a CPU kernel for the `forced_align` op -- moving
+  the model to CUDA against that wheel fails outright, not just slower.
+  Fixed via `pip install torchaudio==<ver>+cu130 --index-url
+  https://download.pytorch.org/whl/cu130` (matching torch's own cu130 build).
+  Confirmed on the ep13 redo: ~21s/chunk on the wrong (CPU) wheel vs.
+  ~4.5s/chunk after installing the matching CUDA build -- a real difference at
+  full-episode scale (339 chunks), even though it's still slower than the
+  pre-forced-alignment baseline (~2s/chunk) since alignment is genuine added
+  work, just a cheap single feed-forward pass rather than autoregressive
+  generation.
+
+  **CTC's own length constraint can crash this outright**: forced alignment
+  requires the target token sequence to be no longer than the audio's frame
+  count. Violated directly on the ep13 redo when one ASR chunk degenerated
+  into a repetition-loop hallucination (~140k chars repeated, producing an
+  889-token target against a 114-frame emission) -- `RuntimeError: targets
+  length is too long for CTC`, crashing the whole run partway through instead
+  of just that one chunk. Fixed in `lib_forced_align.align_words`: on that
+  RuntimeError, fall back to one span covering the whole chunk (same as the
+  old chunk-level behavior) so the pathological chunk's garbage text still
+  comes through and `qa_check.py`'s existing repetition-loop detector can
+  flag it exactly as before, instead of the whole redo dying.
+
+  **Residual limitation, not fully solved**: word-level attribution fixed the
+  *invisibility* problem (a second speaker's words now reliably show up
+  labeled differently), but pyannote's own turn-boundary placement is still
+  off by a few hundred milliseconds on split-second interjections, so a word
+  or two right at a speaker-change boundary can still land on the wrong
+  label. This is close to the practical limit for any turn-based acoustic
+  diarizer on genuinely fast back-and-forth speech, not something a
+  different tool would cleanly fix -- confirmed by testing both the old
+  chunk-level and new word-level approaches side by side on the same ep30
+  clip. Worth re-checking by ear on episodes with heavy rapid-fire banter,
+  same as any diarization output. **Validated as a real net improvement, not
+  just a synthetic-test win**: on ep13's full redo, a passage the old
+  chunk-level approach had flattened entirely into one continuous "Rafizi
+  Ramli" block turned out, on the repo owner's direct audio confirmation, to
+  be genuine fast back-and-forth between Rafizi and Haziq -- exactly the class
+  of previously-invisible content this fix targets.
+
+  Also fixed in the same pass, discovered while testing this:
+  - The local ASR call didn't pin `language`/`task` in `generate_kwargs`, so
+    this multilingual Whisper checkpoint's auto-detection occasionally
+    misfired on short/atypical chunks and silently produced an English
+    translation instead of a Malay transcription (confirmed directly on the
+    same ep30 test clip). Now pinned to `language="ms", task="transcribe"`.
+  - VAD chunking splits audio every ~28s regardless of speaker continuity, so
+    one uninterrupted speaker turn spanning multiple chunks used to produce
+    several separate output lines with no new information in the extra
+    timestamps (confirmed on ep13: 442 lines collapsed to 131 after fixing
+    this). `transcribe_raw_local` now merges consecutive same-speaker lines
+    across chunk boundaries before writing `raw.md`.
+
+  **ep13 naming pass done, 2026-08-24, redone after the above fixes**: sample
+  clips extracted per speaker and confirmed by the repo owner by ear
+  (`Speaker 1` = Rafizi Ramli; `Speaker 2` = Haziq Azfar) before applying the
+  labels to
   `raw.md` and the three `interview*.md` rewrites -- confirm-before-applying
   this way avoids guessing from turn count or content alone.
 

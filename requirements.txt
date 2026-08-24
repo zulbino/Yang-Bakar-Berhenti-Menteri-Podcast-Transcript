@@ -15,5 +15,10 @@ silero-vad
 # and pyannote/segmentation-3.0 models (accept terms at huggingface.co for both)
 pyannote.audio
 
+# word-level speaker attribution for local-ASR episodes, see scripts/lib_forced_align.py
+# -- was already an implicit pyannote.audio dependency, now used directly for its MMS
+# forced-aligner pipeline (torchaudio.pipelines.MMS_FA)
+torchaudio
+
 # Claude rewrite fallback (--rewrite-engine claude), see scripts/lib_claude_rewrite.py
 # -- needs the `claude` CLI on PATH (Claude Code), not a Python package
