@@ -27,11 +27,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 322s, 12/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
-  - raw.md has a 22792-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - models: raw.md=gemini-3.6-flash
+  - raw.md has a repetition-loop degeneration (888 chars repeating 'mmmmmmmm'...) -- model got stuck re-emitting the same short phrase
+  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
@@ -195,7 +195,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 - [x] 2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2
 - [x] 2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard
-- [x] 2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial- (models: raw.md=mesolitica/malaysian-whisper-medium-v2)
+- [x] 2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial- (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar
 - [x] 2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see
 - [x] 2025-05-10-ep00-podcast-yang-berhenti-menteri
