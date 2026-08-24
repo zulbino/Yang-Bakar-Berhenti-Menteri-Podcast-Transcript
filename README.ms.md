@@ -16,6 +16,23 @@ Rafizi Ramli bercakap berjam-jam dalam podcast ini tentang apa yang sebenarnya b
 
 ## Struktur
 
+```
+episodes/
+├── yang-bakar-menteri/                  # siri 2024, 6 episod
+│   └── 2024-01-08-ep01-.../
+│       ├── raw.md                       # transkrip hampir-verbatim
+│       ├── interview.md                 # tulisan semula gaya Tanya-Jawab, bahasa campuran
+│       ├── interview-en.md              # terjemahan Bahasa Inggeris
+│       └── interview-ms.md              # terjemahan Bahasa Melayu
+└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 61 episod
+    └── 2025-09-12-ep13-.../             # empat fail yang sama setiap episod
+data/
+└── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)
+scripts/                                 # kod pipeline, lihat ARCHITECTURE.md
+ARCHITECTURE.md                          # gambar rajah pipeline, sejarah penilaian model
+QA_CHECKLIST.md                          # dijana oleh scripts/qa_check.py
+```
+
 Setiap episod berada dalam `episodes/<nama-rancangan>/<tarikh-siaran>-<slug-tajuk>/` dengan empat fail. `<nama-rancangan>` ialah `yang-bakar-menteri` untuk siri asal 2024, atau `yang-berhenti-menteri` untuk semua episod selepas penukaran nama pada 2025:
 
 - `raw.md` -- transkrip hampir-verbatim terus daripada audio, lengkap dengan cap masa dan label penutur. Perkataan pengisi (filler) dibersihkan sedikit tetapi tiada apa-apa diparafrasa atau diringkaskan. Episod yang ditranskrip melalui alternatif ASR tempatan mendapat label penutur daripada satu pusingan pengesanan penutur (diarization) berasingan berdasarkan bunyi suara, bukan daripada model transkripsi itu sendiri (lihat [ARCHITECTURE.md](ARCHITECTURE.md)).
