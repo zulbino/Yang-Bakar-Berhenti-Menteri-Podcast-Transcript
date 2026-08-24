@@ -33,6 +33,7 @@ from lib_gemini import MODEL_FALLBACK_CHAIN
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
+DRIFT_PATH = ROOT / "data" / "timestamp_drift.json"
 OUT_PATH = ROOT / "QA_CHECKLIST.md"
 
 TIMESTAMP_RE = re.compile(r"\[(?:(\d+):)?(\d+):(\d+)\]")
@@ -221,6 +222,19 @@ def main():
         if not ep_dir.is_dir():
             continue
         results[ep_dir.name] = check_episode(ep_dir)
+
+    if DRIFT_PATH.exists():
+        drift_data = json.loads(DRIFT_PATH.read_text(encoding="utf-8"))
+        for slug, drift in drift_data.items():
+            if not drift.get("flagged") or slug not in results:
+                continue
+            issues, models = results[slug]
+            issues.append(
+                f"check_timestamp_drift.py flagged timestamp mistiming "
+                f"(max drift {drift.get('max_drift_seconds', '?')}s, "
+                f"{drift.get('samples_matched', '?')}/{drift.get('samples_total', '?')} caption samples matched)"
+            )
+            results[slug] = (issues, models)
 
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
     unprocessed = sorted(
