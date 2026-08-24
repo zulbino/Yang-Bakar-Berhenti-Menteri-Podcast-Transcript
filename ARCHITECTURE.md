@@ -221,6 +221,30 @@ than guessing -- the continuation loop itself still doesn't reject repeated
 content during generation, so a small residue of unresolved duplicates may need a
 full raw-stage redo instead of a surgical repair.
 
+### Raw transcription: token-repetition degeneration after repeated retries
+
+Redoing ep13's raw stage (originally flagged for 7 duplicate blocks) hit a new
+failure mode instead: a single call succeeded on its 6th attempt after 5
+consecutive failures on the same model (`gemini-3.5-flash`) -- a read timeout,
+an empty response at `finish_reason=MAX_TOKENS`, an empty response at
+`finish_reason=STOP`, and two empty responses at the SDK-unrecognized
+`finish_reason=MALFORMED_RESPONSE`. The 6th attempt returned usable text, so
+`retry()` accepted it as success -- but a ~90,000-character stretch of that
+output degenerated into the same short phrase repeated verbatim roughly 40
+times ("SMS ke apa, SMS ke apa, ...") before trailing off into an unrelated
+English fragment, all inside what should have been one normal speaker turn.
+No new `[MM:SS]` timestamp was ever emitted during the repetition, so the
+whole degenerate stretch merged into a single paragraph-break-less block --
+`qa_check.py`'s existing wall-of-text check (a single block over 20,000
+chars) caught it, but only as a side effect; the actual defect is
+token-level repetition, not a missing separator. Root cause not confirmed,
+but the failure sequence (timeout -> MAX_TOKENS -> malformed x2 -> finally
+"succeeds") is consistent with retry-induced model degradation rather than
+a fresh, healthy generation. **Not fixed as of this writing** -- a repetition-
+loop detector (e.g. flag any short n-gram repeated an abnormal number of
+times within one block) would catch this class directly instead of relying
+on the wall-of-text check's coincidental overlap.
+
 ### Raw transcription: doubled blank lines between every turn
 
 Every raw.md had two blank lines between turns instead of one, across every
@@ -261,8 +285,16 @@ accuracy signal Gemini's own self-reported timestamps can't provide.
 - **`check_timestamp_drift.py`**: a general sweep, independent of any known
   duplicate. Samples ~12 blocks spread across an episode, fuzzy-matches each
   against the caption, and flags episodes where drift exceeds a threshold.
-  Writes results to `data/timestamp_drift.json` (not yet folded into
-  `qa_check.py`'s own output as of this writing).
+  Writes results to `data/timestamp_drift.json`, folded into `qa_check.py`'s
+  own output (`QA_CHECKLIST.md`) as a flagged issue line per episode. A full
+  67-episode sweep found 27 flagged -- some are high-confidence real drift
+  (high match rate *and* high drift), but a low caption-match count (few of
+  the 12 samples locatable near their claimed timestamp) is ambiguous on its
+  own: it can mean genuine large-scale displacement, or just that the fuzzy
+  caption match fails broadly for that episode (wrong caption language,
+  heavy code-switching) with no real timing bug at all. Distinguishing the
+  two needs a manual look at the actual caption text around a few
+  "not found nearby" samples before trusting the flag as a real bug.
 
 Both tools share the same fuzzy-matching approach and inherited the same tuning
 lesson, learned the hard way:
@@ -291,6 +323,53 @@ lesson, learned the hard way:
   error (~660s) sits well above the threshold. A threshold picked without this
   empirical check would have either buried the real signal in noise or missed
   it entirely.
+
+### Raw transcription: verifying speaker labels against real audio
+
+Manual speaker-name review (comparing `raw.md` labels against the repo
+owner's own knowledge of who's actually speaking) is Gemini diarization's
+biggest weak point, and doesn't scale to eyeballing every line of dozens of
+multi-hour episodes. `scripts/verify_speakers.py` automates a blind spot-check
+instead: it cuts a short audio clip around a sampled turn (optionally all
+occurrences of one suspect speaker label) and sends it to Gemini with no
+transcript given, asking independently how many voices it hears and whether
+anyone is named -- the same method that first confirmed a real misattribution
+on a local-ASR episode's opening exchange (see Known Limitations below). It
+deliberately doesn't auto-correct `raw.md`; a blind audio read is a strong
+disagreement signal, not proof, since it has no reference voice to match
+against.
+
+**First real case solved with it**: the label "Farhan Iqbal" appears 615
+times across 11 episodes and was suspected of being one blanket bug (either
+a hallucinated name or a mixup with "Haziq Azfar"). A text-only pattern check
+first split this into two groups: 10 episodes where the label appears as a
+genuine minor third voice (never more than 1-2 turns in a row, alongside a
+separate Haziq Azfar label) -- consistent with a real, occasional contributor
+(the show's producer) -- versus ep39, an outlier with no Haziq label at all,
+where "Farhan Iqbal" (217x) and a bare "Iqbal" (84x) run a sustained 3-way
+exchange with Rafizi covering 43% of the episode's turns. Audio verification
+confirmed both halves of that split: the blind spot-check found two
+vocally-consistent, clearly distinct speakers throughout ep39's "Farhan
+Iqbal" turns (not silence or noise), and a direct clip-to-clip comparison
+between a "Farhan Iqbal"-labeled clip and an "Iqbal"-labeled clip from
+elsewhere in the same episode came back same-speaker with high confidence --
+proving ep39's split is ONE real person labeled inconsistently by Gemini's
+diarization, not two people and not the Haziq mixup that applies to the other
+10 episodes. **Lesson**: a label that looks like an obvious bug from text
+alone can be two unrelated things at once (a real recurring minor speaker in
+most episodes, a diarization-consistency bug in one outlier) -- a blanket
+find-and-replace across every occurrence would have been wrong for 10 of the
+11 episodes.
+
+A related dead end: 3 separate audio calls (a blind read, a longer clip, and
+an explicit "transcribe verbatim, do not summarize" instruction) all cut off
+at the identical phrase in ep39's spoken intro, right before the co-host's
+name would be stated. Since even an explicit verbatim instruction reproduced
+the same cutoff with no additional content, this looks like a genuine gap in
+the audio (an edit or jingle) or a name introduced via on-screen text rather
+than spoken aloud (this is a video podcast; only audio is extracted here) --
+not the model withholding it. Don't keep re-querying the same clip expecting
+a different result; check the source video directly instead.
 
 ### Rewrite, translate, and metadata: choosing a fallback provider
 

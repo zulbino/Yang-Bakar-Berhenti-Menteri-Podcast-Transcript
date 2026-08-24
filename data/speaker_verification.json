@@ -1,0 +1,101 @@
+{
+  "2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak": [
+    {
+      "claimed_ts": 54,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Assalamualaikum dan salam sejahtera. Selamat malam, walaupun kita record pada pagi.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Assalamualaikum dan salam sejahtera. Selamat malam, walaupun kita rekod pada pagi. (Tak payahlah cakap kat orang kita rekod pagi... coverlah sikit, coverlah sikit... kenalah pandai berlakon sedikit.) Pura-pura sedikitlah... macam tak ada... Episod ke-39, macam biasa bersama saudara Rafizi Ramli dan kita ada saudara...",
+        "named_mentions": [
+          "saudara Rafizi Ramli"
+        ],
+        "voice_descriptions": [
+          "Medium-pitched male voice, energetic, clear articulation, informal podcast host delivery in standard Malaysian Malay.",
+          "Lower-pitched, slightly gravelly/husky male voice with a relaxed, dryly humorous and teasing conversational tone."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 2283,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Last week siapa yang menang? Last week Dr. Sam. Oh, wow. Adil lah kau orang eh. PM menang, PH menang. Okay.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Okay fine, kita move on. So PN menang, tahniah. Last week siapa yang menang eh? Last week Dr. Sam. Oh wow. Adalah korang eh. PN menang, PH menang. Okay. Fuyoh. Kita bawa Fuyoh ke depan sedikit lah. Okay, kita ada satu eh. Anthropik versus Trump. Ini isu yang tak adalah baru sangat, bermula dari...",
+        "named_mentions": [
+          "Dr. Sam",
+          "Trump"
+        ],
+        "voice_descriptions": [
+          "Malaysian male speaker with a warm, animated tone, moderate pitch, and conversational delivery style.",
+          "Malaysian male speaker with a slightly higher pitch, clear articulation, and a calm, deliberate tone."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 5848,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Dalam beberapa dua minggu lepas rasanya.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "G ini ialah secara tidak langsung melalui pemegang saham bersama di dalam sebuah syarikat bernama MMEG, ya. Mengikut eksekutif kewangan yang mengikuti perkembangan NextG, hubungan di antara Victor Chin dan Farhash mula bermasalah pada pertengahan tahun 2025.",
+        "named_mentions": [
+          "MMEG",
+          "NextG",
+          "Victor Chin",
+          "Farhash"
+        ],
+        "voice_descriptions": [
+          "Male speaker with a deep, authoritative tone speaking Bahasa Melayu in a measured, news reporting style.",
+          "Male listener who provides a brief, low-pitched affirmative grunt (Mm-hmm)."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 6677,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Itu kalau BUDI95.",
+      "verdict": {
+        "speaker_count": 1,
+        "transcript_guess": "Yang dia dakwa campur tangan secara langsung di dalam NextGen, tapi dia tak berani sebut nama siapalah kan? Ini kata dia kan. Dalam saya ada dalam rekod saya, rekod-rekod suara, rekod suara Mr. X dan rekod suara Mr. A untuk membuktikan yang saya tidak bersalah dan juga kebenaran di dalam...",
+        "named_mentions": [
+          "Mr. X",
+          "Mr. A"
+        ],
+        "voice_descriptions": [
+          "Male speaker with a deep, steady Malay voice, speaking in a conversational yet serious and emphatic tone."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 10666,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.",
+      "verdict": {
+        "speaker_count": 1,
+        "transcript_guess": "Dan dalam beberapa bulan yang lalu, satu perkara yang agak konsisten apabila saya bertanyakan soalan ini kepada pemimpin-pemimpin politik yang lain ataupun...",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Male speaker with a medium-low pitch, calm, articulate, and professional tone, speaking standard Malay at a steady and deliberate pace."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 8342,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Dan akan ada orang yang akan mengundi dengan itu rasional dia.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Jadi dia perlu membuat mengikut kehendak undang-undang. Kehendak undang-undang, siasatan penuh perlu dibuat, kan. Dan akhir sekali yang bagi saya yang paling besar ialah pertimbangan moral. Yep. You know, I mean, there's nothing... Saya tak ada love lost lah dengan Anwar Ibrahim. You know, I mean, saya sebagai seorang bekas...",
+        "named_mentions": [
+          "Anwar Ibrahim"
+        ],
+        "voice_descriptions": [
+          "Mature male voice with a low-to-medium pitch, speaking in a measured, reflective tone in Malay mixed with conversational English phrases.",
+          "Male voice giving a very brief, low-key one-word agreement interjection ('Yep')."
+        ]
+      }
+    }
+  ]
+}

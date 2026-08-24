@@ -251,10 +251,10 @@ def get_client():
     return genai.Client(http_options=types.HttpOptions(timeout=600_000))  # 10 min, in ms
 
 
-def upload_audio(client, audio_path):
+def upload_audio(client, audio_path, mime_type="audio/mp4"):
     # The SDK auto-detects .m4a as mime type "video/m4a", which Gemini fails to
     # process server-side (no video track). Force the correct audio mime type.
-    file = client.files.upload(file=str(audio_path), config=types.UploadFileConfig(mime_type="audio/mp4"))
+    file = client.files.upload(file=str(audio_path), config=types.UploadFileConfig(mime_type=mime_type))
     while file.state.name == "PROCESSING":
         time.sleep(5)
         file = client.files.get(name=file.name)
