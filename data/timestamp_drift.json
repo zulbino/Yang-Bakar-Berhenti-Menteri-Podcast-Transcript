@@ -1581,26 +1581,61 @@
   },
   "2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r": {
     "status": "ok",
-    "samples_matched": 3,
-    "samples_not_found_nearby": 9,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 964,
-    "flagged": true,
+    "max_drift_seconds": 185,
+    "flagged": false,
     "details": [
       {
-        "claimed": 48,
-        "actual": 44,
+        "claimed": 345,
+        "actual": 369,
+        "drift": 24
+      },
+      {
+        "claimed": 1052,
+        "actual": 1098,
+        "drift": 46
+      },
+      {
+        "claimed": 2030,
+        "actual": 2022,
+        "drift": -8
+      },
+      {
+        "claimed": 2427,
+        "actual": 2508,
+        "drift": 81
+      },
+      {
+        "claimed": 4778,
+        "actual": 4774,
         "drift": -4
       },
       {
-        "claimed": 1219,
-        "actual": 255,
-        "drift": -964
+        "claimed": 5650,
+        "actual": 5744,
+        "drift": 94
       },
       {
-        "claimed": 1062,
-        "actual": 349,
-        "drift": -713
+        "claimed": 7059,
+        "actual": 7050,
+        "drift": -9
+      },
+      {
+        "claimed": 7711,
+        "actual": 7777,
+        "drift": 66
+      },
+      {
+        "claimed": 9356,
+        "actual": 9437,
+        "drift": 81
+      },
+      {
+        "claimed": 10180,
+        "actual": 10365,
+        "drift": 185
       }
     ]
   },

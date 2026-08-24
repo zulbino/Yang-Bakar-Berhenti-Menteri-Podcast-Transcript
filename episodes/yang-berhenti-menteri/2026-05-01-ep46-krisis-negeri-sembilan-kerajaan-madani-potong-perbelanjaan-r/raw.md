@@ -8,2250 +8,546 @@ publish_date: '2026-05-01'
 duration_seconds: 11428
 duration: 3h 10m
 view_count: 199839
-model: gemini-3.5-flash-lite
-note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
-  polished newspaper-style rewrite.
+model: mesolitica/malaysian-whisper-medium-v2
+note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
+  with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization
+  (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for
+  the polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[00:43] [music/intro]
+[00:44] Speaker 1: Assalamualaikum dan salam sejahtera. Kembali lagi kita dalam...
 
-[00:44] Speaker 1: Okey, Assalamualaikum dan salam sejahtera. Kembali lagi kita dalam Podcast.
+[00:46] Speaker 2: Gila bersemangat. Belum. Belum? Dah, dah, dah. Aku nak cakap belum apa-apa. Tapi gila bersemangat mengalahkan DJ Radio. Sabar, sabar, sabar. Ada dua jam lebih lagi.
 
-[00:47] Speaker 2: Gila, dia lebih semangat. Belum.
+[00:58] Speaker 1: So, saya start balik ke? Continue. Tak, continue. Okay, sorry. Maaf. First time untuk saya dalam YBM. So, dah ada ni episod 4 pun 6. Bersama saya, Afiq. Saya Amin Sahmat. Sebab apa korang ada kat sini? Saya rasa kita nak... Tak adalah membakar YBM. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
 
-[00:48] Speaker 1: Belum. Okey. Da, da, da, da, da. Aku nak cakap belum apa-apa tapi gila bersemangat mengalahkan DJ radio. Sabar, sabar, sabar, sabar. Ada dua jam lebih lagi. So, saya start balik ke? Continue.
+[01:14] Speaker 2: Mana ada tipu lah sebab Haziq entah hilang kata ke mana. Haziq tak ada so kita
 
-[00:58] Speaker 2: Tak, tak, continue.
+[01:18] Speaker 1: cover lain
 
-[01:00] Speaker 1: Continue. Okey, sorry maaf. First time untuk saya dalam YBM. So, dan ni episod 46. Bersama saya Hafiq.
+[01:19] Speaker 2: lah. So korang kena cover lah. So Haziq kena belajar kita makan nak belajar. So Haziq pergi mana tak tahu? Saya tak tahu actually. So semua tak tahu?
 
-[01:07] Speaker 3: Dan Amir Shahmad.
+[01:28] Speaker 3: Dia kata dia ada urusan lain nak disatakan
 
-[01:08] Speaker 1: Hm. Sebab apa kau orang ada kat sini?
+[01:30] Speaker 2: so. Dia nak kahwin ke apa? Alhamdulillah Dia pun Dia orang ni pun satu Hilang tak beritahu Kedah kena tangkap Kedah kena beli
 
-[01:10] Speaker 2: Ah saya rasa kita nak tak adalah membakar YB. Mungkin Mana ada tipu ah sebab Azid entah hilang kertas ke mana. Azid tak ada so kita orang akan berlari la. So, kau orang kena coverlah. So, Azid kena belanja kita orang makan nak belanja.
+[01:43] Speaker 3: Lagi tak
 
-[01:23] Speaker 3: Ha.
+[01:44] Speaker 2: Lagi
 
-[01:23] Speaker 1: So, Azid.
+[01:44] Speaker 3: tak
 
-[01:24] Speaker 2: So, Azid pergi mana tak tahu? Saya tak tahu, actually.
+[01:46] Speaker 2: So Ni Afiq Orang Teranu Ni Amir orang Orang Selayang Selayang Dia orang pernah Bukan pernah Memang ada podcast lah kan Selayang Jawab Selawat Selayang jawab Haa Itu je lah aku bayar diorang Tolong promokan diorang punya Podcast Like the best kind
 
-[01:26] Speaker 1: Fahan tahu? Semua pun tak tahu.
+[02:07] Speaker 1: So So Abie kita Proceed Okay So So Okay, segmen pertama kita. Macam biasa? Pak Han gelak kat kau tapi tak apa.
 
-[01:27] Speaker 2: Dia kata dia ada urusan lain dah kena sedekahkan. So, Mm, dia nak kahwin ke apa?
+[02:18] Speaker 2: I try
 
-[01:31] Speaker 3: Alhamdullilah. Alhamdullilah. Betul, betul. Ha, okey, alright. Depun, ni, dia orang ni pun satu hilang tak bagi tahu. Ke dah kena tangkap? Tak kut. Tak, betul. So, so Ke dah kena beli? Ah, lagi tak kut. Lagi tak, yeah.
+[02:18] Speaker 1: my
 
-[01:46] Speaker 2: So, ni A fiq orang Terengganu.
+[02:18] Speaker 2: best. Kita kena kurangkan gula sikit lah. Sebab kau tengah bersemangat sangat ni. Beria Mat. Beria! Beria! Beria jadi oh. Awal-awal lagi kita dah ada jalan beria Mat. Kita dah ada jalan beria Mat. Okay. Terus kepada beria Mat. Okay, kita teruskan kepada... Eh, nanti jam. Kita tak mengucapkan selamat hari pekerja. Satu Mei, selamat hari pekerja. Baik. Selamat hari pekerja kepada
 
-[01:49] Speaker 3: Ni Amir orang? Orang Selayang.
+[02:46] Speaker 1: semua-semua.
 
-[01:51] Speaker 2: Orang Selayang. Hm, Selayang. Dia orang pernah ah bukan pernah, memang ada podcastlah kan. Selayang Jawab. Selawat Selayang Jawab.
+[02:47] Speaker 2: Selamat hari pekerja kepada semua. Cuali yang masih bekerja. Cuma dekat Malaysia, hari pekerja ni konteks dia... Kurang sikit lah kot sebab dia lebih disambut sebagai cuti di negara-negara lain yang lebih bersayap kiri lah kan. Hari pekerja ni ada konotasi sosialism, komunism. Dia sama macam hari wanita dengan hari pekerja. Ramai yang tak tahu contohnya. Dua-dua ni asal-usulnya ialah daripada gerakan sayap kiri lah. Maksudnya gerakan komunizm, gerakan sosializm kan. Hari Wanita sebenarnya meraihkan wanita-wanita saya ingat di St. Petersburg yang berarak ramai-ramai menuntut supaya... Zahar Nicholas turun jawatan hari bekerja memanglah untuk merayakan Soviet maksudnya untuk merayakan kumpulan-kumpulan kesatuan sekerja ni kan, tapi dekat Malaysia, dua-dua konotasi itu telah hilang dia hanya menjadi sambutan kepada cuti jadi Selamat bekerja. Selamat bekerja sama.
 
-[01:59] Speaker 3: Ha.
+[04:13] Speaker 1: Terima
 
-[02:00] Speaker 2: Itu sajalah aku bayar dia orang tolong promokan dia orang punya podcast. But, they must be in kind. So, so kita proceed sesi.
+[04:13] Speaker 2: kasih SPRM tak bekerja ini. Tak pasal-pasal aku kena tak ada podcast malam ni kan. Awal dah touch. So sekarang ni kita jumpa tokoh paling besar kita. Panjang cerita. Adakah ini penampilan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulan lah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni. Mungkin tak. Mungkin dia lantik senator. Mungkin. Terima kasih.
 
-[02:08] Speaker 1: Okey. So, sesi boleh? Mhm.
+[04:42] Speaker 1: Harapnya tidak lah kan Ni yang mana ni Ni waktu demo hari tu Dia Wartawan tanya dia Tak pergi demo ke Dia kata dia tak dijemput
 
-[02:10] Speaker 2: So, Okey, segmen pertama kita. Macam biasa. Paan gelak kat engkau tapi tak apa.
+[04:52] Speaker 2: Kenapa muka dia macam Jamal Abdillah Haa
 
-[02:14] Speaker 1: Okey.
+[04:55] Speaker 1: itu faham
 
-[02:18] Speaker 3: I try my best. I try my best. Aku kita kena kurangkan gula sikitlah sebab kau tengah bersemangat sangat dengan Okey, alright. Beria Mat, beria, beria, beria jadi. So, awal-awal lagi kita dah ada.
+[04:55] Speaker 2: nak
 
-[02:29] Speaker 2: Beria Mat.
+[04:55] Speaker 1: tanya.
 
-[02:30] Speaker 1: Dah ada. Cuba beria Mat. Okey. Alright, okey. Terus kepada beria Mat.
+[04:57] Speaker 3: Saya minta dia share skincare
 
-[02:35] Speaker 2: Okey, kita teruskan kepada E nanti jam. Kita tak mengucapkan selamat hari pekerja. 1 Mei, selamat hari pekerja. Bye. Selamat hari pekerja kepada semua-semua.
+[05:00] Speaker 2: rutin
 
-[02:47] Speaker 3: Baik hari bekerja kepada semua. Kecuali yang masih bekerja.
+[05:00] Speaker 3: dia.
 
-[02:50] Speaker 2: Cuma dekat dekat Malaysia, hari pekerja ni konteks dia kurang sikitlah kut sebab dia lebih disambut sebagai cuti. Hm. Di negara-negara lain yang lebih bersayap kirilah kan. Hari pekerja ni ada konotasi sosialisme, komunisme. Dia sama macam hari wanita dengan hari pekerja. Ramai yang tak tahu contohnya, dua-dua ni asal-usulnya ialah daripada gerakan sayap kirilah maksudnya gerakan komunisme, gerakan sosialisme kan. Hari wanita sebenarnya meraikan wanita-wanita saya ingat di St. Petersburg yang berarak ramai-ramai menuntut supaya Zar Nicholas turun jawatan. Hari pekerja memanglah untuk meraikan Soviet maksudnya untuk meraikan kumpulan-kumpulan kesatuan sekerja ni kan tapi dekat Malaysia dua-dua konotasi itu telah hilang.
+[05:02] Speaker 2: Nampak berbeza lah, nampak muda sikit. Korang dah selalu kutuk mata dia merah terus dia pakai shade. Sorry tak nampak mata dah. Tapi dia bergaya tu. Tak ada, ni apa dia, saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan. Ni sebab apa orang tanya dia, dia join demo
 
-[04:08] Dia hanya menjadi sambutan cutilah. Hm. Paan.
+[05:22] Speaker 4: ke tidak? dia kan dah nak bersara lepas tu wartawan tanyalah apa ni Azam Baki lepas ni lepas dah bersara apa dia nak buat kan dia kata dia pejabat awam dia tugas berkhidmat untuk negara tapi saya takkan berjumpa di hadapan Sogo lah macam dia peli lah orang tak jemput dia tiba-tiba nak datang
 
-[04:10] Speaker 1: Faham. So, AB selamat bekerja. Selamat bekerja semua. Mhm. So, AB Terima kasih SPROM tak bekerja ni gua tak atas pasal-pasal aku kena tak ada podcast malam ni kan.
+[05:45] Speaker 2: luka dalam ni luka dalam kan selalunya penjawat awam yang jawatan kanan-kanan ni Selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board member lah. RM20,000 kat sana, RM30,000 kat sini. Kalau ada 10 board, dapatlah RM300,000 sebulan kan. Jadi memanglah dia tak payah nak fikir-fikir pasal demo ni memang selepas ini selain daripada mungkin jadi board member, main saham dah. Jadi dia komen orang tak tanya pun dia dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan Podcast Dan juga demo tu Memang luka dalam kat dia lah Hmm Beria-beria. Tapi lebih kepada beria dari segi skincare kot. Malu je korang. Tengok muka kau, tengok muka kau banding dengan Azam Bakir.
 
-[04:19] Speaker 2: Awal dia atas. Mhm. So, hari ini kita jumpa tokoh paling besar tahu. Banyak cerita. Adakah ini penampalan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulanlah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni.
+[06:55] Speaker 1: Saya memang teruk.
 
-[04:37] Mungkin tak tahu, mungkin dilantik senator? Mungkin. Oh. Haramnya tidaklah kan. Ni yang mana ni? Ini waktu demo itu, wartawan tanya dia tak pergi demo ke?
+[06:56] Speaker 2: Dia makan biotin kot tak?
 
-[04:49] Dia kata dia tak dijemput. Kenapa muka dia macam Jamal Abdilah? Ha itu Fahan nak tanya.
+[06:57] Speaker 4: Kalau Husnuzan mungkin wuduk kot.
 
-[04:55] Saya minta dia share skin care routine dia. Skin care routine dia. Mhm. Nampak putih. Nampak berbezalah. Nampak putih. Kau orang dah selalu kutut mata dia merah, terus dia pakai shade.
+[07:00] Speaker 2: Kan ada dekat TikTok sekarang. TikTok sekarang. Oh, pil-pil tu. Kan dia ada banyak reel yang kata kalau nak nampak muda makan biotin. So korang kena Husnuzan. For all you know, dia makan biotin. Tapi nampak sangat tak pernah tahu Wasabayoti
 
-[05:10] So, hari ni tak nampak mata dah. Tapi dia bergayut tahu. Hm. Tak ada, ni apa dia? Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan sebab Ni sebab apa orang tanya dia, dia join demo ke tidak? Itu satu. Lepas tu, dia kan dah nak bersara. Lepas tu, wartawan tanyalah.
+[07:19] Speaker 1: So Beria So maybe kita pergi pada next beria Boleh? Boleh Boleh Seterusnya
 
-[05:29] Apa ni Azan Baki lepas ni, lepas dah bersara apa dia nak buat kan? Dia kata dia jawab, awam, dia tugas berkhidmat untuk negara, tanyalah. Tapi saya takkan berhimpun di hadapan Sogo lah.
+[07:27] Speaker 2: Jahat korang Korang letak Zafrul Tengah pakai baju BN Mana baju PKR dia Tak jumpa Sepatutnya korang letak baju dia Masa dia dengan Tan Sri Muhyiddin Kemudian baju BN Kemudian baju PKR Dan kalau PKR tak menang Pilihan raya akan datang InsyaAllah dia pakai kopiah Dengan baju PAS Selepas ini So sekarang ni job hunting job hunting itu bukan itu bukan panggil job hunting job hunting ni masih belum buat kerja dia dah buat internship so dia dah buat kerja kat dekat pandan ini yang adalah keterbaca yang dia apa ni Korang pun jahat kan Netizen ni pun jahat Yang dia komen pasal dia pergi ke Masjid Al-Azim Di pandan Masjid Al-Azim ni masjid paling besar lah Dekat Pandan Indah tu kan Dan dia kata Panas Pasal ada orang jawab Pergi semayang sikit pun dah rasa panas Yang ini ni sebenarnya Zafrul tiap-tiap hari memang dah ada kat pandan lah. Jadi dah memang jelas lah dia memang telah dijanjikan untuk bertanding di pandan. Dan memang dalaman PKR pun memang telah sebut lah, memang dia telah diarahkan jugalah untuk bertanding di pandan. Jadi... Kita akan dapat banyak lagi laporan-laporan internship macam inilah.
 
-[05:40] Terus macam dia pilihlah.
+[09:11] Speaker 3: Baru-baru ni dia buat kerja TNB juga kan?
 
-[05:42] Okey. Orang tak jemput dia tiba-tiba nak datang. Ini luka dalam ni, luka dalam kan. Selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[09:14] Speaker 2: Aku gelak juga. Netizen ni memang nakal aku lah. Sebab dia buat content DB, distribution box tu meletup kan. So dia pergi tengok semua. So jawapan netizen tu... Kalau terletup panggillah apa nama ni TNB kan. Jadi... Dan tempat tu pun apa nama ni Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi... Good luck untuk dia lah Saya ingat Pengundi kat pandan lah Minta duit banyak-banyak Minta banyak-banyak Minta semua
 
-[06:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[09:49] Speaker 1: Tapi tak bahagia ni Dah berumur dah InsyaAllah akan bantu habis
 
-[06:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[09:52] Speaker 2: Apa dia Masjid Al-Azim tu Kalau nak bandingkan 10 tahun yang lepas lah Betul lah Dia tidak lah Panas Dia bukan Kalau Bagi saya lah Baik kalau-kalau Nak bantu tu Banyak lagi masjid-masjid Atau surau-surau kecil Yang orang solat Jumaat ni Yang Mungkin lebih panas lah Ada satu tu Dekat Sebelah Pandan Jaya Belakang Pandan Prima Saya ingat Surau Al-Hilal Itu lagi panas lah Nak banding kan Cuma Bila masjid besar Kalau nak kira Kalau tanya jemaah I don't think Jemaah kata panas lah kan Cuma Dia dah ada kipas besar Dah quite ok Berangin Tapi next stage dia nak Yalah aircon pula lah kan Jadi Kalau macam saya sebagai ahli parlimen, selalunya macam itulah bila kita tetapkan nak bantu yang mana, kita tengok secara keseluruhan, mana yang kita rasa mungkin lebih mendesak dan kita bantu yang itu dulu secara kecil-kecilan. Dan kalau tengok saya tak pernah lah buat content bagi bantuan. Tak betul. Saya tak pernah buat content sebab bagi saya itu memang tugas ahli parlimen. Mana yang kita bantu, kita agih kan. Dan saya rasa sangat feudal kalau... Masjid ke sekolah ke ataupun kumpulan orang ramai, dia nak dapat bantuan daripada ahli parlimen dia ni. Dia kena susah payah habiskan setengah hari pergi duduk kat depan tu ambil cek semua. Jadi kalau macam masjid dan surau, memang kalau bantuan kita bagi sama ada kita hantar terus cek, kita hantar terus cek. kita adalah, kita kumpul sekaligus dan yang itu pun, kalau perasan saya tak pernah buat konten lah kan jadi itu pandangan yang lain-lain dan saya sangat anti-feudal sebenarnya, sebab saya letakkan diri saya kalau saya, dah lah tiap-tiap hari aku yang bersusah payah dengan masyarakat ni, wakil rakyat nampak sekali-sekala je kan kemudian hanya untuk aku dapat 2,000-3,000 aku kena angkat dia dan sembah dia So when I become wakil rakyat dulu saya cuba sedaya upaya untuk memastikan orang yang kita berurusan itu tak rasa macam itulah. Tapi yalah that's me. Orang lain lepas ni mungkin kipas tak jalan kat rumah pun, pop ada Zafrul. Mungkin kena buat video nanti dia dapat bantuan. Saya risau Sabtu ni Esok lah Dia akan ada Kaunter bergerak
 
-[06:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[12:51] Speaker 3: sebelah Kaunter bergerak Takut Takut
 
-[06:54] Saya memang turut. Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[12:58] Speaker 2: That's another thing lah Sebenarnya Dia perlukan konsistensi Kalau you betul-betul nak Yalah Saya bukan soal Dapat sokongan rakyat ke tidak And I always believe that Akhirnya benda tu Allah dah tetapkan Because you tak boleh tau nak pujuk orang ke ni semua soal hati. Hati ni semua Allah dah tetapkan. Cuma kalau dah jadi wakil rakyat itu memang tanggungjawab. It's your job. Dan saya buat counter bergerak daripada 2013 lagi. Bukan sangat soal nak tunjuk buat kerja sebelum ada TikTok semua ni. Sebelum ada live pun. Sebab macam tadilah saya awal-awal dulu saya tak. Masa awal satu dua bulan saya jadi wakil rakyat. Benda tak ada.
 
-[07:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[13:48] Speaker ?: Hmm
 
-[07:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[13:49] Speaker 2: So kalau kat KL dia nak datang jumpa you untuk mengadu kan dia kena bayar gram masa tu taksi dulu kena bayar taksi sampai RM80 RM40 pergi, RM40 balik dia bukan ada kereta, dia nak jalan, nak lintas MR2 tu besar, jadi dia tak masuk akal wakil rakyat duduk dekat pusat khidmat ni semata-matalah, dia memang kena duduk jugalah sekali-sekala, tapi maksudnya dia kalau urusannya ialah nak jumpa wakil rakyat kena pergi ke pejabat, it doesn't work like that, you actually have to go to setiap kawasan seberapa yang sekalilah beralih daripada satu kawasan ke satu kawasan supaya orang yang betul-betul susah dekat situ dia pergi jalan kaki sahaja. So it's not really untuk buat content ke untuk dapat sokongan. Itu memang tugas wakil rakyat dan cara yang lebih mengurangkan beban rakyat ialah supaya you pergi sendiri dekat tempat dia kan. Jadi sama ada Zafrul ke. Saya pun tak faham Mari kita lihat. Sebahagiannya sebab dia takut kena maki on the spot lah Memang kena maki on the spot Sebab dia nak kira satu pusingan tu kan Katakanlah kalau dipandang Kita bagikan kepada mungkin 40 taman 40 kawasan You nak habiskan satu pusingan seluruh kawasan tu satu tahun. Jadi bila turn seterusnya sampai kat kawasan tu, dia kata, YB dah satu tahun tak jumpa you. So, selalunya orang-orang tak nak mengelakkan daripada... Kemudian dia akan cerita benda-benda yang kadang-kadang tak boleh diselesaikan, dia marah, semua kan. Jadi, saya ingat sebahagian besar wakil rakyat tu, dia tak nak macam itulah. But I think that's... Part and parcel of jadi wakil rakyat lah Sama ada Zafrul nak tiru lepas ni Kalau Zafrul tiru bagus ya Alhamdulillah Sebab dia patut jadi budaya
 
-[07:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[15:51] Speaker 1: Kalau dia tiru, dia tiru je betul-betul bulat-bulat lah Tak ada malu je
 
-[07:23] Boleh.
+[15:55] Speaker 2: Dia memang tak ada malu. Sebab tuan tak terkejut. Kalau dia jenis malu, dia tak adalah boleh melompat daripada Tan Sri Muhyiddin kepada UMNO. UMNO angkat dia sampai jadi bendahari kan.
 
-[07:24] Seterusnya.
+[16:10] Speaker 4: Bendahari UMNO Selangor.
 
-[07:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[16:12] Speaker 2: Angkat dia, semua letakkan dia jadi calon terus kan. Lepas tu, Anwar dah maki dia berkarung-karung sebelum pilihan raya. dan Desember 2022 jadi best friend forever, BFF sampai sekarang. So kalau dia jenis malu, dia tak adalah jadi tengku Zafrul yang ada sekarang kan. Jadi I don't put it past him to do any of that lah. But which I think kita kena celebrate. Barulah kalau dia buat counter bergerak, then it's actually the more, sebab kadang-kadang kami pun tak cukup. tenaga dan tak cukup resource untuk selesaikan semua masalah-masalah ini kan
 
-[07:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[16:57] Speaker 4: WB Saya nak tanya sikit WB Tadi WB ada sebut pasal Penyampaian Bantuan daripada parlimen Sebagai ahli parlimen kan Kalau dari segi, saya sentuh dari segi reachable lah, reachable kepada pengundi. Kalau kita tengok YB punya approach, YB tak nak expose. Kalau saya compare lah, kalau YB tahu, Adun Duyong, Dr. Ilmi. Dia more maklumkan kepada social media. Dari segi maksud untuk reachable itu, pada pandangan YB, Sama ada kita senyap ataupun kita expose Mana lebih reachable kepada rakyat Bagi saya at
 
-[07:51] Pas.
+[17:32] Speaker 2: the end of the day lah At the end of the day dia bergantung kepada niat kita Kan ok ya Saya memandang semua ni mungkin dari perspektif yang lain Saya tak pernah memandangnya dari segi untuk menang pilihan raya Satu ialah Kita orang Islam lah kan Tangan kanan yang memberi Sebaiknya tangan kiri jangan tahu lah Sebaiknya Yang kedua ialah Membantu itu memang tanggungjawab Memang kerja kita sebenarnya Dan saya lebih takut kalau Dia nampak macam orang dulu katalah kerja tak cukup jam ambil gaji tapi tak cukup jam so saya lebih takut yang itu yang kita buat semua itu supaya kita betul-betul dah laksana tanggungjawab and we have earned the rezeki soal orang tahu ke tidak reachable ke tidak semua itu itu saya ingat hmm sama ada you yakin ketidak bahawa akhirnya soal orang undi ketidak itu itu semua ketentuan Allah So that's why saya tak Tengok kau pergi Memang daripada 2013 Saya hardly post content Yang berkaitan dengan bantuan orang miskin ke apa memang saya tak tahu yang penting benda tu sampai secepat yang mungkin kalau tak daripada saya pun daripada pusat khidmat saya dan tak payah nak tunggu saya yang penting orang tu betul-betul dah ada orang kita kecuali lepas 2-3 minggu tak jadi-jadi juga dia nak jumpa wakil rakyat dan okey lah sebab finally saya ingat kalau kita buat kerja dengan betul niat betul jujur Allah akan bantu lah Whether or not Ada kat TikTok ke Whether or not Ada kat Facebook Faham
 
-[07:52] So, sekarang ni dia tengah buat job hunting.
+[19:24] Speaker 1: Okay clear So YB Beria Beria je ini Panas dan beria So next Kita pergi beria seterusnya Haa... Kembali kita ke Bumi Pas.
 
-[07:55] job hunting job.
+[19:37] Speaker 2: Sampai hati kau panggil Kelantan Bumi Pas?
 
-[07:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[19:40] Speaker 1: Dah
 
-[08:04] Sebab itu dia dah buat kerja dekat bandar.
+[19:40] Speaker 2: lama-lama sangat. Dia orang Besut, orang ada darah Kelantan. Ni masalah orang Kelantan dengan orang Besut ni kan. Ni yang mana? Yang YB Melo. Yes betul YB. So... YB Melo ni nama apa?
 
-[08:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[19:54] Speaker 4: Wanrohimi.
 
-[08:14] kau orang pun jahat kan?
+[19:55] Speaker 2: Wanrohimi.
 
-[08:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[19:59] Speaker 1: So kisahnya simple, dia buat convoy. So... simple sangat saya syok kan dan speech dia dia ada mempersoalkan dia panggil bodoh tapi dari Kelantan tu dia definisikan bodoh tu macam language biasa apa benda kau ni bagi orang Kelantan dia macam tu tapi point kat sini kita nak tengok adalah dia claim bahawa dia dapat bawa motor 3,000 biji ramai tapi dalam video hanya dalam kurang 200 ya
 
-[08:24] dan dia kata panas.
+[20:29] Speaker 2: Oh yang itu aku pelik juga awal-awal kenapa kau letak gambar demo apa nama ni tangkap Azam Baki kat atas tu kan. Oh so nak membandingkan yang PAS mengaku banyak tu 9000 orang. Tapi yang kat atas tu yang memang agak jelas lagi ramailah 300 orang. Tapi YB Melo tu juga 3000.
 
-[08:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[20:54] Speaker 1: Banyak communication ni.
 
-[08:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[20:56] Speaker 2: Over claim tau tak banyak. sekarang sebenarnya ada cek GPT Sebenarnya, ia cukup benar. Anda mengambil gambar dari sudut yang berbeza, kemudian anda mengupload kepada beberapa AI ini, dan meminta mereka untuk mengira. Dan dia tak lari jauh lah So macam yang kita buat Kita punya Calculation very quickly dalam seribu setengah kan. Cek GPT, AI letak antara seribu setengah ke dua ribu setengah kan. Media estimate lebih kurang seribu. So dia tak adalah langit dengan bumi kan. But kembali kepada YB1 Rahimi ni kan. Soal dia soal... Perkataan bodoh. Perkataan bodoh. Dia kata bodoh polis.
 
-[09:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[21:39] Speaker 4: Dia kata macam kita ni kena bodoh dengan polis. ke polis kena bodoh dengan dia
 
-[09:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[21:46] Speaker 2: terbalik tu kan aku tiga suku darah Kelantan Besut dan juga satu suku darah Teranu kan dia kata polis kena bodoh macam tu je So nak kata dia beria Beria lah Tak adalah dia konsep Dia ada dua Dua Maksud Bukan soal maksud saja tau. Dia ada dua... Dua perspektif lah kan Satu ialah sebagai wakil rakyat Dan kalau Wan Rohimi ni lagi sensitif lah Sebab dia peguam Dia peguam utama PAS kan Sepatutnya kita tak boleh memberi teladan yang menggalakkan orang melanggar undang-undang. Dan peraturan jalan raya tu peraturan jalan raya bila dia kata polis kena bodoh je macam tu sebab saya ingat dia kata polis buat roadblock roadblock roadblock tapi dia lari ikut jalan seberang sana kan itu yang dia kata kan. Dan pun dia masuk jalan kampung tu tak apalah Tapi maksudnya untuk lari daripada roadblock tu Dia lari di seberang sana Bawa motor bertentang arus ni pun Itu dah melanggar undang-undang Dan membahayakan orang Kemudian PAS ada banyak pengaruh dengan anak-anak muda yang main motor ni saya balik raya di Kemaman raya yang lepaskan sampai dalam 2 pagi kan Terkejut badak aku. Sepanjang-panjang jalan raya tu beratus-ratus motor, apa nama ni, berlumba macam itu je. Semua. Haa ini betul, ni cerita betul kan Di Cukai tu kan, daripada keluar saja highway Masuk je dalam 5km sebelum bandar tu Dia ada jalan panjang nak ke arah bandar Cukai kan Malam 2 pagi dia berlomba tu tak kisah orang Kita yang kat tepi ni takut Kena tunggu dia dah berhenti baru bawa balik Polis pun tak ada, aku ingat polis pun dah give up kan Jadi sebagai... Wakil rakyat, pengamal undang-undang kan. Kita tak bolehlah walaupun kita perlukan sokongan daripada adik-adik motor semua ni. Tapi kita tak boleh nak menggalakkan mereka. Dan itu yang saya rasa pas tidak berhati-hati soal motor ni. Dia terlalu nakkan sangat... Sokongan... Anak muda yang motor ni... Sampai dia... menunjukkan wajah-wajah yang orang lain kurang selesa. Satu macam inilah maksudnya menggalakkan langgar peraturan, menggalakkan tak hormat undang-undang dan polis. Kemudian boleh bangga pula kata polis ni kita boleh bodoh macam tu je. Satu lagi, perspektif yang satu lagi ialah soal tata susila. You know, you kata membodohkan, bodoh polis ni. Bahasa Kelantan mungkin sama-sama kata tak ambil serius. Tapi dalam konotuasi bahasa slang manalah wakil rakyat tambah lagi seorang peguam macam dia. sepatutnya tak adalah guna perkataan bodoh, perkataan yang... Sebab itu polis terus pergi dakwa tu. Dia mencabar pihak berkuasa lah kan. Boleh kritik polis, boleh kan. Tapi boleh kritik, kita kritik SPRM sepanjang masa kan. Tapi jangan sampai menjadi teladan kepada yang muda-muda ini, maksudnya kita boleh... ...buli ataupun... tak ambil peduli pasal undang-undang tambah ini ini bukan soal undang-undang yang complicated ini soal keselamatan jalan raya polis buat roblox jadi lepas ni poli roblox mana-mana budak-budak muda semua tak apa hari ni kita bodoh polis susah lah So
 
-[09:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[26:03] Speaker 1: dia tak mendidik lah So Okay So Dah ada berapa? Ada lagi beria ke tak ada? Ada lagi Ini tetamu setia YBM
 
-[09:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi, selamat bekerja.
+[26:13] Speaker 2: Siapa
 
-[09:11] Selamat bekerja semua.
+[26:14] Speaker 1: dia? Another version of
 
-[09:12] So, AB Terima kasih SPRM tak bekerja ini gua tak atas pasar-pasar aku kena tak ada podcast malam ni kan.
+[26:15] Speaker 2: RR.
 
-[09:19] Awal di atas. So, hari ini kita jumpa tokoh paling besar tahu. Banyak cerita. Adakah ini penampalan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulanlah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni.
+[26:16] Speaker 1: Oh. By Fire Merah.
 
-[09:37] Mungkin tak tahu, mungkin dilantik senator? Mungkin.
+[26:19] Speaker 2: Tapi yang ini yang menariknya, yang ini wartawan Malaysia kini, Bin Antakuma, dia memang dah lama menumpukan kepada kes-kes dan pendedahan mengenai warga asing. Pekerja asing. So dia yang... Yang banyak buat kajian dan laporan mengenai Turaplah yang terkini kan. Tapi yang menarik tu, masa aku tengok berita, aku tengok diorang pergi raid rumah dia. Rumah dia kat Serdang kan Kesian tu wartawan Takut betul orang pandai dengan dia Bukan Kalau tengok rumah dia Rumah dia lebih daripada B40 So orang kita Kita ingat Semua terutamanya yang M40 Duduk KL lah Paling kurang duduk kat flat ke apartment kan I think nantaku rumah ni kesian Duduk dekat rumah kayu je Dekat Serdang Jadi kalau When you put that into perspective Maksudnya mereka ni memang bergalang nyawa lah. Ada di kalangan media kita yang bergalang nyawa untuk membawa isu kepada rakyat kan. Dan dia tak dapat apa pun. Sebenarnya kalau dia menjadi penjilat, I'm sure dia dah kaya raya lah kan. Jadi konteks tengok rumah dia tu reminds me sebenarnya... Walaupun kesian Kesian memang kesian lah kan Tapi maksudnya Kita masih ada harapan Dalam masyarakat ni Kerana ada watak-watak yang Yang tidak mementingkan wang Dan kedudukan Untuk bawa kebenaran kan Cuma Yang Yang lawaknya Kalau pasal Serbuan Kepada Nantakuma ni Rahmanan ni tak boleh sentuh langsung Untouchable Haa Jangan tanya aku Tanyalah Perdana Menteri Jadi sebelum ini Banyak je yang kes-kes Yang wartawan Dedah pasal kerajaan Pasal menteri Pasal zaman PH Tapi polis tak tak ambil tindakan secepat kalau ramanan. Ini laporan daripada Kementerian Sumber Manusia lah kan, daripada Kesuma kan. Laporannya saya ingat bersabit bahawa Nantakuma ada dokumen rasmi kerajaan. Jadi dia pergi rik lah. Tapi tak jumpa lah kan. Cuma... beria lah kalau nak kiranya Ramanan ialah Menteri Sumber Manusia sepatutnya dialah yang paling ke depan melindungi kebajikan hak pekerja-pekerja. Apa nama ni? orang media pun pekerja jugalah tapi Nantai Kumar ni pernah kena tangkap pasal cuba menyelidik, menyiasat mengenai pekerja asing, kemudian kena serbu rumah dia kan, jadi dan saya pun terkejut lah bila Kesuma buat laporan polis, kita nak salahkan Pegawai kerajaan pun tak boleh Kerana kalau dia dah dapat arahan Dia terpaksalah buat laporan polis Dan polis pula beria Dengan segera pergi Serbu rumah Nantakuma
 
-[09:39] Oh.
+[29:54] Speaker 1: So Kusuma tak fikir Kalau dia buat benda ni Akan backfire pada kerajaan You tak pernah duduk dalam kerajaan That's
 
-[09:40] Haramnya tidaklah kan. Ni yang mana ni?
+[30:01] Speaker 2: why lah saya takkan masuk kerajaan Dia sebenarnya Dalam kerajaan tu bubble sebenarnya Dalam kerajaan Terutamanya kalau menteri Dia cepat panas Jadi Aku pernah buat laporan polis Oleh kementerian Sekali je Ingat Yaman ni Haa kita pernah, bukan akulah maksudnya kementerian pernah buat laporan polis lah sekali je.
 
-[09:45] Ini waktu demo itu, wartawan tanya dia tak pergi demo ke?
+[30:32] Speaker 3: Pasal apa?
 
-[09:49] Dia kata dia tak dijemput.
+[30:33] Speaker 2: Pasal ganja. Oh ya ya ya. Ada orang hantar ganja kat aku. So kenalah buat laporan polis, nanti polis ingat aku order ganja. Itu satu-satunya laporan polis yang kita pernah buat lah. Jadi kalau macam saya dulu orang kritik ke apa, saya jawab lah. berhenti menteri ni, dia bermula daripada itulah sebab tu awalnya ni nama dia yang bakar menteri. Bila orang kritik semua kan, takkan kita nak saman sepanjang masa. Memanglah sebagai menteri, sebagai kerajaan senang hantar polis, saman, gini semua kan. Memang you pilih untuk jadi menteri kat atas. You pilih untuk menjadi anggota pentadbir tertinggi kan. Jadi orang ada pandangan macam-macam. Dia ada yang dia nak tanya. Kalau yang dia kata tu tak betul, you terangkan. Kalau yang dia tuduh itu menipu, you tunjukkan lah dokumen yang betul. Itu sahaja Kan Jadi Tapi tak semua menteri macam itulah Tak semua Kementerian Pegawai kanan Kerajaan macam tu Dia kira Ini masalah juga Sebab sama kawan-kawan Polis di bawah kementerian itu SPRM di bawah Perdana Menteri Jadi bila kerajaan itu berkuasa Siapa-siapa sentuh Dia kata alamak ini kawan bos aku Alamak ini menteri itu Jadi payahlah kan Dan kita masih belum ada budaya itu Yang mana kita menghormati bahawa Yang kau nak jadi menteri itu kenapa Memanglah orang akan hentam tiap-tiap hari Kau tak jangan jadi menteri Kalau orang hentam, you jawab. Kalau orang... Kutuk dekat TikTok You jawab kat TikTok Kalau TikTok you tak seberapa Then memang you kena usahakan Supaya TikTok you naik lah That's actually what we went through lah Saya sebagai menteri dulu Awal-awal sebab saya buka lambat TikTok Jadi TikTok saya ke belakang. Jadi nak tak nak ada satu masa tu, memang kita buat keputusan lah. Memang kita kena buat konten TikTok lah. So aku penat macam mana pun, aku pun buat lah. Aku buat rekod. Almost everyday. Sampai sekarang lah. Everyday ada rekod. Sebabnya ialah, kerana, itu reality penyampaian maklumat sekarang. Jadi, di Putrajaya, saya ingat, bubble tu belum pecah. Dan, Kerajaan mana pun masuk, kalau bubble itu tidak dipecahkan, dia akan terus berulang macam inilah. Kalau PAS, dia akan, kalau dia jadi menteri, dia akan hantar polis untuk tangkap orang yang dia tak suka. Kalau UMNO, macam itulah kan. So, I think at some point lah, some point kita nak kena menyedarkan rakyat, beri pencerahan. Dan... Menteri yang suka hantar polis dan sebagainya untuk serbu ni, kita... Kena... Troll sebanyak yang mungkin lah. Only then dia faham lah Hopefully Ataupun make sure dia tak jadi menteri Next election lah
 
-[09:52] Kenapa muka dia macam Jamal Abdilah?
+[33:50] Speaker 4: Faham Faham YB Saya nak tanya sikit lah YB Pasal Tadi YB sebut pasal penyampaian kan Satu Alaman YB lah Sebagai bekas menteri Kita, satu kita ada agensi penyampaian kerajaan. Kita ada ATM, kita ada bernama... Yang itu mungkin kita
 
-[09:54] Ha itu Fahan nak tanya.
+[34:09] Speaker 2: dalam
 
-[09:57] Saya minta dia share skin care routine dia. Skin care routine dia. Mhm. Nampak putih. Nampak beza lama. Nampak beza. Kau orang dah selalu kutut mata dia merah, terus dia pakai shade.
+[34:09] Speaker 4: yang
 
-[09:10] So, hari ni tak nampak mata dah. Tapi dia bergayut tahu. Hm. Tak ada, ni apa dia? Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan sebab Ni sebab apa orang tanya dia, dia join demo ke tidak? Itu satu.
+[34:09] Speaker 2: seterusnya Kita memang ada satu slot untuk kita bincang tentang perang media sosial sekarang Dan that goes right into that question Kenapa contohnya setiap kali ada kerajaan baru soal penyampaian maklumat ni bergaduh dan nampak very defensive sedangkan kita ada agensi, kita ada JCOM, kita ada semua
 
-[09:24] Lepas tu, dia kan dah nak bersara. Lepas tu, wartawan tanyalah.
+[34:35] Speaker 1: ok clear so WB kita tutup Amin nak tanya lagi, tak puas
 
-[09:29] Apa ni Azan Baki lepas ni, lepas dah bersara apa dia nak buat kan? Dia kata dia jawab, awam, dia tugas berkhidmat untuk negara, tanyalah. Tapi saya takkan berhimpun di hadapan Sogo lah.
+[34:38] Speaker 4: hati satu lagi WB tadi WB SPL ada dua benda yang saya tertarik satu lagi pasal kalau kita tengok sekarang ni Menteri dah boleh arah Menteri Madani Boleh arah polis untuk serbu Well
 
-[09:40] Terus macam dia pilihlah.
+[34:52] Speaker 2: be careful I don't think you boleh kata Polis, menteri Arah polis lah Menteri mungkin arah supaya Satu laporan polis dibuat Dan itu keputusan polis lah. Cuma bila laporan polis itu datang daripada sama ada pejabat menteri ataupun kementerian utama. Jadi dia ada prioriti untuk polis ambil tindakan lah.
 
-[09:42] Okey. Orang tak jemput dia tiba-tiba nak datang. Ini luka dalam ni, luka dalam kan. Selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[35:17] Speaker 4: But in terms of kebebasan media... Kalau kita tengok tahun ni, indeks kebebasan kita dah jatuh sikit. From 80 plus to 95, tak silap saya. And then kita ada isu ni. Hmm. And kalau kita boleh flashback Tahun 2016 Masa 1MDB Belum letupkan Ipatal kena pecat DH kena gantung Semua Sarawak report kena gantung Adakah kita ni sekarang ni dah on the way balik kepada zaman ke mana kebebasan media tu dah hampir disekat? Sebab the response from the ground, daripada rakyat, dia tengok kita punya kebebasan media makin lama. Ya, kita dulu cakap kita nak do something untuk bagi kebebasan media. But now, it become
 
-[06:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[35:57] Speaker 2: worse. I don't think I'm... in a position untuk bagi jawapan itu kerana jawapan saya hanya pandangan saya dan pandangan saya tak semestinya mewakili semua rakyat Malaysia kan itu masalah pasal soal kebebasan media ruang demokrasi dalam masyarakat ni Kerajaan atau parti-parti politik Hanya sedar bila dia dah kena Jadi yang kita tahu hanyalah daripada laporan-laporan rasmi. So sekarang laporan yang paling orang kata credible dalam dunia RSF lah. Reporters Without Borders. RSF is Reporters Sans Frontier. RSF kan. Memang kebebasan media di Malaysia jatuh. dalam semua aspek kecuali keselamatan media saja memanglah selamat lah kita tak ada perang kan Tapi kalau nak kata kerajaan tahu, kerajaan bimbang ataupun rakyat tahu, I think it's very difficult to put a pulse unless you buat a survey menyeluruh dengan rakyat mengenai kebebasan media dan ruang demokrasi kan. Dan itu yang jadi beban kepada PH. Kerana dalam banyak-banyak tiga gabungan parti utama ni, Yang dilihat paling banyak berkempen mengenai ruang demokratik adalah PH. Yang dilihat progresif adalah PH. Progresif itu maksudnya lebih percaya kepada suara dan keputusan rakyat. It's not practical yang ahli politik tahu semua kan. Jadi kalau secara benda-benda macam ini dan dilihat... tolerance level pimpinan PH tambah menteri pula macam Ramanan dia tak ada tolerance level langsung kepada soalan isu yang dibawa then eventually memang orang akan rasa macam makin sempit tanya sikit pun tak boleh kritik sikit pun komen sikit orang kata nyet-nyet-nyet jadi jadi itulah lama-lama dia lekat dalam kepala rakyat you know you kata you democratic Tapi, you know, we feel that kita kena self-censor. Nak tanya tu tak boleh, nak tanya ni tak boleh, report yang ini nanti polis datang. Eventually, dia akan mula dizahirkan yang dalam ranking kebebasan media RSF tu is one thing. Tapi dia mula dizahirkan dalam kepala rakyat yang akhirnya berakhir dengan peti undi lah.
 
-[06:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[38:47] Speaker 1: Clear
 
-[06:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[38:48] Speaker 2: Okay baby So korang pilih lah mana Sebab korang tetamu khas kan
 
-[06:54] Saya memang turut.
+[38:52] Speaker 1: Amir pilih Mana yang paling beria
 
-[06:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[38:55] Speaker 4: Ada empat tadi Kalau bagi saya, paling beria sebenarnya kita masih pada pandangan saya lah baby. Tak apa, that's your right. Saya tak zafrul lah sebab pertama dia jadi pegawai intern baby yang tak berbayar. Saya
 
-[07:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[39:07] Speaker 2: setuju, Pak Han pun setuju. Haa, okey okey okey. So, maksudnya dah dua kali, dua minggu berturut-turut, pilihan itu mendapat konsensus semua.
 
-[07:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[39:19] Speaker 3: Haa, haa, haa. Minggu lepas lah menang.
 
-[07:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[39:22] Speaker 2: Yelah Tapi kita setuju je
 
-[07:23] Boleh.
+[39:24] Speaker 3: kan
 
-[07:24] Seterusnya.
+[39:25] Speaker 2: Kita semua setuju Sebab dia punya Bilboard besar tu kan So kalau penonton Dia luar setuju Comment satu Bagi BN tu rare Sebab Dia sanggup jadi intern Di pandan Okay Clear away So kita pergi Hidup
 
-[07:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[39:41] Speaker 1: Keras Hidup
 
-[07:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[39:42] Speaker 2: keras Kita ada 4 kan Jadi kita nak kena kawal Sikit lah mungkin Kita ada masa banyak mana lagi Kita dah 39 minit pula 39 minit So kita ada lebih kurang 2 jam lah Lebih kurang Sengaja Sengaja Okey lah Topik minggu ni tak berat-berat Okey
 
-[07:51] Pas.
+[39:58] Speaker 1: So kita pergi yang pertama Habis Ini kemelut Negeri Sembilan. So, isu ni susah nak difaham. Dia sangat komplit.
 
-[07:52] So, sekarang ni dia tengah buat job hunting.
+[40:05] Speaker 2: Dia ke susah nak faham?
 
-[07:55] job hunting job.
+[40:06] Speaker 1: Susah actually. Dia kait dengan... Dia tebak atap lah.
 
-[07:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[40:11] Speaker 2: Dia punca dia. Haa, punca dia. Yelah, dia ada banyak cerita. Kemudian Negeri Sembilan ni adat perpatih pula kan.
 
-[08:04] Sebab itu dia dah buat kerja dekat bandar.
+[40:17] Speaker 1: Itu susah kan dia. So, bagi saya, macam mana nak mudahkan, nak explain kan? Kronologi dia.
 
-[08:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[40:26] Speaker 2: Saya
 
-[08:14] kau orang pun jahat kan?
+[40:26] Speaker 1: rasa dia kena
 
-[08:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[40:27] Speaker 2: faham asal-usul yang memulakan inilah kan. Dia pada awalnya, dia hanya nampak seperti pergolakan di antara undang-undang. Bukan undang-undang law, dia ada empat orang undang. Jadi undang-undang di Negeri Sembilan ada empat orang. Tambah bersama dengan... Tukul Besar Tampin kan? Ya Tukul Besar Tampin. Bukan 4 tapi dia plus 1. Ya Tukul Besar Tampin. Dia bermula dari soal... perselisihan di antara undang yang empat actually betul dia tak panggil undang-undang dia panggil undang yang empat undang yang empat dan juga Tunku Besar Tampin dengan apa nama ni Yang Mak Mulia Yang di-Pertuan Besar Negeri Sembilan Tuan Kumukris lah dan dan Kita hanya tahu sekarang bila isu ini meletup. Perkara itu sebelum ini, proseding perselisihan faham itu berlaku di dalam Dewan Keadilan dan Undang Negeri Sembilan DKU. Iaitu Dewan Tertinggi yang menyelaraskan dan mengawal adat perpatih kepada yang... yang bukan orang Nogori lah. Saya tak tahu berapa ramai orang yang faham tentang adat pepatih, asal-usul, negeri semilang ni. Saya pun tak, saya bukan orang Nogori kan. Tapi saya minat sejarah sedikit sebanyak lah kan. Kerana asal-usulnya... Negeri Sembilan ni Orang berdagang kan Minang dulu Orang berdagang Daripada Sumatera Jadi bila diorang settle Di Negeri Sembilan tu Dia ada daerah-daerah hadir Itu yang jadi Sembilan itu kan Hmm Dan sesama mereka itu dia macam penghulu lah. Jadi untuk ada seorang yang macam raja yang boleh mentadbir dan diterima oleh kesemua itu. Asal-usulnya mereka bersetuju untuk menjemput Raja Melewa daripada Sumatera lah. Padang. Pagar Ruyung. Hmm. daripada Pagar Ruyong kan jadi awalnya ialah setiap kali nak pilih yang dipertuan besar mereka perlu bersetuju siapa untuk dicemput daripada Pagar Ruyong kan dan sehinggalah kepada saya ingat Yang Tuan Radin selepas Yang Tuan Radin itu persetujuannya ialah yang dipertuan besar itu mestilah salah silah dan keturunan yang Tuan Radin. That was 1870 plus Macam tu lah kan Jadi sebab itu Adat perpatih ni Dia very demokratik Dan dia ikut Maternal lineage kan Dia daripada yang bawah Dan luak-luak kan Aku pun dah lupa lah Supunya Anak-anak
 
-[08:24] dan dia kata panas.
+[43:38] Speaker 4: buah
 
-[08:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[43:39] Speaker 2: Buah pak Lembaga Undang Kemudian Lembaga Undang Kemudian undang yang Empat itulah Yang pilih yang dipertuan Hmm Jadi sebenarnya bila dia dah meletup, baru kita tahu sebenarnya isu mengenai seorang undang, undang sungai ujung. Isu ni dah memang bermula daripada 2025 pun lagi. Jadi ada perbincangan dan ada... aduan dan perkara itu diuruskan di peringkat DKU lah Sehingga April, DKU mengumumkan bahawa Undang Sungai Ujung telah dilucutkan jawatan. Jadi daripada situlah bermula. Masa itu pun, masa pelucutan jawatan Undang Sungai Ujung itu pun... Saya ingat dia tak jadi berita sangatlah senyap je semua kan. Kemudian yang besarnya ialah bila undang yang empat itu buat kenyataan media lah. Menurunkan tahta Yang Makmulia Tuanku Mukris lah. By live. Dia buat live maksud tu? Dia buat live kan. Dan rentitan daripada itulah. Apa nama ni Dia mengheret Tok Min Dato' Sri Aminuddin Harun sebagai Menteri Besar Kerana bermula apabila undang yang empat mengatakan bahawa Tok Min pun dah kena letak jawatan dan yang terakhir ialah apabila itu bukan 19 adun oh 19 adun tu campur dengan PN 14 BN 5 BN sehinggalah kepada adun um BN lah Buat You nak panggil langkah apa ni Langkah pertang Ke langkah Jalaluddin Langkah jalan lah Langkah jalan lah Orang panggil banyak Kalau kat social media tu Orang panggil langkah jalan lah kan Membuat Keputusan Menarik balik sokongan Kepada Tok Min lah So itu sebenarnya latar belakang Yang paling mudah untuk kita terangkan Apa yang bermula Sebagai satu Perselisihan pandangan dan pertikaian di peringkat orang kata bangsawan sebenarnya di peringkat bangsawan tiba-tiba dia mengheret keseluruhan politik di Negeri Sembilan cuma itu pun sebenarnya Dalam keadaan sekarang, dia memang akan berkait kerana adat perpatih ini memang dah dimasukkan di dalam Undang-Undang Tubuh Negeri Sembilan. Contohnya, untuk melantik Menteri Besar. yang baru ke atau mana-mana menteri besar lah dia bukan dengan persetujuan Yam Tuan sahaja dia mesti dengan empat undang sama juga nak ubahkan Dewan dia bukan yang dia tak sama macam negeri-negeri lain yang mana boleh dibubahkan oleh Sultan sahaja dia perlukan empat undang jadi dalam keadaan empat undang itu satu tidak setentang mata dengan Yam Tuan Keduanya undang sungai ujung kalau ikut pendirian kerajaan negeri sembilan kan telah dipecat. Kemudian ada seorang lagi undang mana yang belum lagi ditabalkan undang rembau yang paling muda sekali. Undang ada empat ni Sungai Ujung Sungai Ujung, Rembau, Johor, Jelebu I think salah seorang daripada undang tu I think Rembau rasanya Belum lagi ditabarkan Dia paling muda dan dia hanya dilantik setahun yang lepas pun Jadi, dan even katakanlah you nak bubar Dewan ke you nak lantik Menteri Besar yang baru, dalam keadaan kedudukan undang yang empat itu pun dipersoalkan dari segi undang-undang pun bermasalah. Kemudian, Contoh untuk yang berkait dengan kedudukan yang Tuan Kumukris kan? Itu pun bermasalah kerana walaupun undang yang empat itu kata kami nak menurunkan takhta Tuan Kumukris, tapi pengisytiharan itu mesti melalui proses perlembagaan. Dan proses perlembagaan itu memang ada dalam undang-undang tubuh yang saya faham dan mesti ditandatangani oleh Menteri Besar. istiharan itu tidak sah. Kerana satu undang telah dibuang Dilucutkan jawatan Satu lagi undang Belum pasti sah atau tidak dalam jawatan So dia sebenarnya stalemate Dia menjadi stalemate sekarang ini Jadi sebab itu Saya peliklah sebagai orang politik lah. UMNO Negeri Sembilan. Masa dia buat keputusan untuk menarik sokongan ni. What were they thinking? Takkan dia tak ada penasihat undang-undang? Dia fikir tebuk atap ya kot? Tak tahulah. Yelah nak tebuk atap pun mesti mengikut undang-undang. Dia tebuk atap tu tak boleh tak mengikut undang-undang lah. Jadi itu yang menyebabkan sekarang ni stalemate lah sebenarnya yang keadaan yang berlaku kan. Cuma ada dua tiga perspektif yang lebih dalam yang kita boleh kupas lah kan. Satu contohnya ialah... Erm... Dari segi kesan politik Sebab sekarang ini Tindakan pada bacaan saya lah. Kita ni sebenarnya political analyst sekarang kan. Jadi kita melihat dan kita menganalisa. Tak tentu yang kita kata tu betul tetapi memang bidang kita menganalisa politik lah kan. Selepas kemelut ini berlaku, dia meletakkan politik di Negeri Sembilan itu kepada dua pihak lah. Satu ialah di sebelah Yang Tuan SA, Yang Tuan Negeri Sembilan, Tuan Kumukris dan keluarga dan juga bersama-sama dengan Dato' Sri Aminuddin di satu pihak. Satu lagi pihak ialah UMNO yang menarik sokongan dengan undang yang empat. Jadi, this is where akhirnya bila sudah ada political impasse macam ini, dia dah orang kata jam. Neither party can move nor retreat kan. Akhirnya dia akan kembali kepada rakyat lah. Dan that's where saya rasa kelebihan itu ada di sebelah Tuan Kuk Mukhris dan juga Tok Min lah.
 
-[08:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[51:13] Speaker 3: Kenapa?
 
-[09:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[51:14] Speaker 2: Sebab satunya Tuan Kuk Mukhris dan keluarga ni sangat popular. Sangat-sangat popular. Kan Then you can check The outpouring of support Dekat social media Dan saya faham lah kalau kenapa mereka sangat-sangat popular. Satu sebab... Okay, I have to declare lah. Saya kena isytihar kan. Nanti orang kata conflict of interest lah. Saya memanglah kenal dengan... keluarga Tuan Ku Mukhris kan baik dengan Tuan Ku Mukhris sendiri after all pingat kebesaran saya Datuk Seri daripada Negeri Sembilan dan memang kalau dari segi sembah mengadap memang antara rulers yang saya paling banyak sembah mengadap ialah Tuan Ku Mukhris lah Kemudian ditakdirkan juga lah sebenarnya saya kenal anak Tuan Kumpul Mukris sebelum Tuan Kumpul Mukris sendiri Sebab saya mengadap Tuan Kumpul Mukris tu selepas saya jadi menteri kan Tapi saya kenal yang pertamanya anak bongsu dia lah kan Tunku Zain That was in late 90s early 2000s Masa tu saya dah kerja di London. Dan Tunku Zain masa itu belajar di LSI. Oh. Dan... Biarlah, you know, kami yang orang kata progressive minded sebab dekat London ni berapa kerat sangat orang tambah yang dah bekerja semua yang ambil minat pasal apa yang berlaku di negara kan. Jadi memang ada beberapa ruang yang yelah kami kenal, ada beberapa program yang kami bersama kan, Tunku Zain kan. Terima kasih kerana menonton. yang Tuan Tuan Kumukris Tunku Ali Tunku Ali sekarang Tunku Besar Asrim Nanti kan Ya betul Tunku Ali is my age kan dan tapi dia dia cepat lah sebab dia pergi international school the UK semua dan dia pergi ke Cambridge tu he's a Cambridge graduate kan dia pergi Cambridge jadi we have a lot of common friends kami sezaman yang sama masa di UK Dan masa di UK, masa dia di Cambridge, memang banyak kawan-kawan yang senior saya dari MCKK, kawan-kawan yang berada sezaman dengan dia. Dan kemudian bila dia balik Malaysia, akhirnya dia kerja dengan Kazanah. Saya rasa dia mula dengan... Boston Consulting Group rasanya kan. Kemudian dia kerja dengan Khazanah kan. Masa dia kerja dengan Khazanah pun also circle of people itu adalah common friends. Some people yang memang rapat dengan saya kan. Jadi in that sense saya kena istiharlah memang I kira kenal baik dari segi budi pekerti, keluarga, yam tuan. Tuan Kumukris ni lah You wanna ask something Kau dah pegang ni Amir nak ask
 
-[09:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[54:39] Speaker 4: Okay Maybe
 
-[09:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[54:41] Speaker 2: Nanti je Okay Let me finish on that bit About popularity Dulu kan Sebab Yang ini yang saya rasa UMNO tidak jangka lah The outpouring of support Kepada Tuan Kumukris Okay Kemudian tuanku Mukri sejarah hadir ni agak panjang. Selepas Almarhum Ayanda kepada Tuan Ku Mukris mangkat tahun 1968 saya rasa kan. Tuan Ku menangui. Tuan Ku menangui. Tuan Ku mengangkat. Tuan Ku Mukris tidak dipilih sebagai Yam Tuan. Yam Tuan itu pergi kepada Almarhum bapa saudara Tuan Ku Jaafar dulu kan. Jadi Tuan Komo Chris hidup sebagai orang biasa dan dia ada anak autism kan. And I think ramai orang dan orang Negeri Sembilan mengikuti hidup biasa dia itu membesarkan seorang anak autism. And that relates a lot tau kepada Orang Negeri Sembilan dan bukan sahaja Orang Negeri Sembilan, rakyat biasa lah. Then, apa ni, dia... Sepanjang masa itu, saya ingat Tuan Ku Mukris sebelum dia jadi Yam Tuan, dia tunggu besar seri menanti dan dia menjalankan tanggungjawab tugas dia kepada Negeri Sembilan seperti biasa. Walaupun dengan cabaran sebagai orang biasa membesarkan anak autism semua kan. Dan anak-anak dia pun Tunku Zain, Tunku Ali, highly educated kan. Dan bila Yam Tuan dah jadi Yam Tuan, I think 2008 kan dia jadi, I can't remember 2008 eh, dia jadi Yam Tuan. I know, I remember Tunku Ali has to quit his job lah. Dekat Kazan lah. Because dia kena menjalankan tugas dia kan And... If you know them... Bagi mereka yang pernah lah... Saya ingat ada kesempatan dengan Tunku Ali dan Tunku Zain Memang mereka senyum sepanjang masa So it's by their nature that they smile They are like that kan Jadi So you bayangkan Bila sesuatu yang bermula di peringkat bangsawan Di antara undang yang empat dengan Tuan Kumukris Dan bila dia jadi impas, stalemate macam ini Dia akan kembali kepada rakyat Dan I think it's very clear Sokongan rakyat itu kepada siapa kan Dan ditambah pula dengan Kalau tengok titah-titah dan pendirian Tuan Kumukri Sebagai yang tuan Memang dia paling vocal anti-corruption I think kita faham lah kenapa kerana dia hidup selama 30 tahun sebagai orang biasa, orang kebiasaan kan. Jadi dia relate, rakyat relate kepada dan ini antara orang kata aspirasi yang rakyat nak tengok daripada rulers, daripada kerabat, sultan semuanya. So that's one aspect. Jomin! Tok Min pun orang memang tahu dia memang jenis sengih sahaja. Dia bukan jenis panik. Saya ingat hari pertama diumumkan hari Senin lah kan. Bila mula saya pun tak tahu dapat tengok berita kan. Kami pun tak berhubung dah lama. Dah berbulan-bulan lah. Last kali jumpa dia tu sengih. Sama-sama sengih gelak dekat Dewan Rakyat bulan 2 rasa. So saya telefon dia Dia kata Betul lah Dia orang dah tarik So saya tanya dia, macam mana? Dia kata tak apalah kita minum kopi dulu. Ini tengah sepatutnya pergi kat sekolah. Ada lima, enam buah sekolah lagi nak pergi lawak. Tapi jadi macam ni, dia dengan isteri dia Kak Wan, Wan Hasni. Isteri Tok Min nama Wan Hasni kan. Berhenti minum kopi. Kemudian dia kata tak apalah. Kalau apa nama ni tak jadi, kalau dah hilang sokongan, tak jadi MB pun okey lah. tak ada apa, dia sengih macam biasa kan, dia gelak. Tengokkan sidang media yang dia buat, dia gelak. Actually because that is Amin as a person. Dia memang tak kebesaran. Jadi orang di Negeri Sembilan tahu perkara itu. Which is siapa yang pernah berjumpa. Dan Amin ni tak macam aku, dia rajin. Dia semua surau, dia turun. Semua sekolah, dia turun. Semua tempat, dia turun. Satu hari dia berpuluh-puluh program. Jadi, then you put in one corner of the ring gabungan seorang menteri besar yang popular dengan rakyat Negeri Sembilan dan seorang yang tuan yang keluarganya dan kerabatnya popular dengan rakyat Negeri Sembilan. Sebab itu, I think bila UMNO... Buat keputusan begini, dia bukan setakat stalemate dari segi undang-undang tubuh Negeri Sembilan. Dia akan berlarutan kepada soal penerimaan rakyat, pandangan rakyat kepada UMNO. Itu keadaan yang saya rasa sekarang ini sedang berlaku secara perlahan di belakang tabir.
 
-[09:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:00:28] Speaker 4: Ya Amir nak tanya soalan Okay baby Tadi YB dah jelaskan Tentang situasi apa semua So maybe Saya dengan Afiq akan mula Kita akan tanya soalan-soalan More on political So One of you lah Okay Pertama sekali, kalau kita tengok kan Tadi dia terangkan ada dua side. Side yang betul dengan side undang. Kalau kita tengok pun, masa PRN hari itu, BN menang pun, saya boleh kata menang nasib sebab dia menang tipis. Some of the seats pun menang ratus-ratus je. So dengan keadaan macam ni, adakah... PH Terutamanya PKR lah Ada chance untuk Kembali kepada seat Better than result 2018. Saya rasa 2018 pun agak... 2018 the best. The best. Kita akan balik pada 2018 punya seat ke? Misal UMNO memang hampir collapse juga lah dekat Negeri Sembilan. Tak juga. 2018 tu
 
-[09:44] Adakah ini a penampilan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulanlah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni.
+[1:01:25] Speaker 2: bukan UMNO hampir collapse. Negeri Sembilan ni... Kusi-kusi dia... Dia ada dalam 38 kan? 38 38 kan? 36 Sorry 36 ya 36 So you perlukan 19 untuk majority kan? Daripada 2013 lagi I think DAP memang dah menang 12 kursi kan? DAP Sekarang DAP dia apa? 11 So 11 kursi itu memang majority bukan Melayu Come walk me Memang macam tu lah Sebelas kusi kan Kemudian kursi-kursi PKR yang kursi campuran tapi bukan Melayu Significant ada dua. Ada Chua dengan ada Sri Tanjung, Kapodiksen. Dua-dua dekat Kapodiksen. Chua, Significant Chinese Voters. Sri Tanjung, Significant Indian Voters. So itu dah tinggal 13. Enam kusi Sebab 13 tu memang beyond reach of any party yang lain sebelum-sebelum inilah. Memang PH lah kan. Tinggal 6 kursi kan. Pada masa yang sama, 17 lagi kursi. 17, maksudnya bukan 17, 14 campur 12. Berapa? Berapa? 26 Bukan sorry Kira balik Dia 19 19 So kalau 36 Tinggal 17 kursi lah 17 kursi lagi tu Ialah Super majority Melayu Super majority Melayu Macam kerusi Okay lah Maksudnya 70% kat atas Contohnya macam kerusi YB Jalaluddin Datuk Seri Jalaluddin Kerusi dia dekat petang Dekat simpan petang Dekat Jelebu I think kerusi dia Is almost like 78-22 78% Melayu 22% bukan Melayu lah kan So Maksudnya 16 kerusi tu memang adalah untuk dimenangi. So, akhirnya the swing seat are seats yang sekitar seremban ataupun rasa Kerana ini adalah Mids Malaysia At the height of it dulu Yang 2018, PKR menang satu kusi yang swing seat. Yang PKR memang menang daripada 2008 bermula dengan kusi Amin, Sikamat. Kemudian 2013 menang Ampangan. Ini Sikamat dengan ampangan ini adalah dua kursi mid-seat yang 70% Melayu, 30% non-Malays yang diseremban and a bit a burn lah. So untuk 2018 tu PKR tambah dua kursi yang traditionally abnormal. So these two are very important swing seat lah Pilah dengan Labu So dua PKR menang yang cua dengan Sri Tanjung tambah Sikamat dengan Ampangan kemudian 2018 menang Pilah dengan Labu itulah yang 11 DAP campur 6 PKR 17 dan Amanah memang tradisional menang tak dua dulu. Amanah tradisional menang Lenggeng dengan Paroi. I think Kelawang Kelawang Kelawang dengan Paroi Kelawang dekat Jelebu Kelawang is mid seat lah So um Dalam PRN yang lepas, kursi-kursi yang sepatutnya untuk mengekalkan PH menang majoriti muda itu kan, Kelawang Amanah kalah. Paroi. Terbalik. Paroi kalah dengan PAS. PAS, Paroi kalah. Kelawang menang. Kelawang menang. YB Bakri menang lagi. So, only Kelawang yang menang, Paroi kalah kan. Kemudian kursi Lenggeng diberikan kepada... Saya tidak tahu. Sebab... Traditionally... Kalau combine memang... Lengking tu dalam seremban... Memang boleh menang lah kan... So because of those two kalah lah... Paroi kalah dan Labu kalah. Sebab itu PH tinggal daripada 19 ke 17. So sebenarnya kalau nak kekal, PH nak kekal, dia kena make sure menang balik Paroi, menang balik Labu ataupun menang Lenggeng daripada UMNO kan. Okay now, itu di sebelah PH. Di sebelah UMNO, kalau tengok PRN yang lepas, UMNO banyak menang tipis tau. 100, 500 semua kan. Maksudnya swing kepada PN dalam PRN yang lepas adalah sangat besar. Dan itu berlaku kerana pengundi-pengundi tradisi UMNO swing semua kepada PN. Now. Kalau... Masuk 3 corner... Haa... Maksudnya PH lawan BN Dan juga PN Ya 14 kerusi yang BN bertanding itu Kalau dia tak dapat undi PH Walaupun dia nak perlekeh lah undi Melayu PH ni kan Tapi ada Sebab undi Melayu PH di negeri 9 Paling kurang is about 15% 15% of pengundi Melayu. Paling kurang. So, kalau dulu, apa nama ni, UMNO dapat, yang dia menang tu 55%, 53%. Dia tak ada dah menang-menang zaman 80%, 70%. Semua 50% plus kan. You take away 15% pengundi PH, 14 kursi UMNO tu banyak yang akan tumbang lah. Siap-siap lagi, simpang petang pun tumbang. Kerana simpang petang Is about 78 22% 78% Melayu 22% non-Malays So kalau 78% itu split 3 ways Dan yang 22% tu solid pergi pada PH Simpan petang akan jatuh lah Jadi itu saya ingat perkiraan-perkiraan yang UMNO tak kira. Sebab itu saya kata sebelum apa-apa, check dulu the number, every and eventuality bila keluar keputusan pilihan raya tu, you must know saluran demi saluran ikut kawasan so that you know your strength. Tapi agak jelas lah UMNO tidak, ataupun UMNO Negeri Sembilan tidak kira. kepada kesan yang lebih menyeluruh kepada UMNO di seluruh Malaysia lah. Kerana sebab itu kalau kita tengok kepimpinan UMNO pusat, dia dah mula backpedal sedikit lah. Betul. Lepas sehari, sehari, sehari. Dan yang terkini, saya ingat semalam kan, keputusannya ialah UMNO, kepimpinan UMNO menghormati keputusan dan pandangan 14 adun itu. Tetapi akan tetap kekal menyokong kerajaan. Jadi dia dah jadi ini yang kita kata. Tembakan peramatang ni. Primature. You nak susun sesuatu, you tak fikir betul-betul kan? But... The bigger issue is apa kesannya bukan sahaja di Negeri Sembilan tetapi kepada UMNO secara keseluruhan lah. Sebab......label tebuk atap ni... Memang negatif lah terutamanya kepada pengundi-pengundi yang progresif. Yang dalam PRN dan beberapa PRK yang lepas, pengundi progresif yang menyokong PH itu sebenarnya telah mengundi UMNO. Pengundi UMNO yang tak undi UMNO pergi undi PN. Dan kemenangan-kemenangan UMNO daripada PRN sampai ke PRK itu banyaknya bergantung kepada pengundi-pengundi progresif Melayu, pengundi bukan Melayu. Dan sebenarnya kita tak terkejut pun kerana dalaman UMNO tu pun dia ada orang kata dynamic ni sendiri kerana Dato' Sri Jalaluddin ni adalah antara salah seorang 10 orang yang tanda tangan SD yang menyokong Tan Sri Muhyiddin jadi menteri besar jadi Perdana Menteri awal-awal dulu jadi dia daripada awal dikenali sebagai tidak sangat setia dan bersetuju dengan Dato' Sri Zahid jadi it It was not a surprise at all. Yang sekarang ini UMNO perlu navigate kan dan yang akan menjadi persoalan orang ramai ialah... Sementara orang Nogori tak terkejut lah kalau Dato' Sri Jalaluddin mulakan langkah jalal ni sebab dia memang nak jadi MB daripada dulu. Memang dia rasa giliran dah untuk dia jadi MB kan. Jadi orang tak terkejut. Masalahnya ialah kerana Tok Mat ada juga dalam 14 tu. Dato' Sri Muhammad Hassan adalah salah seorang daripada 14 orang itu. Yang kita tak pasti ialah sama ada... satu sebenarnya apa pandangan dia dia bersetuju ataupun tidak dia senyap dan kalau dia bersetuju contohnya adakah perkara ini dibincangkan di peringkat UMNO pusat dengan Presiden UMNO kerana timbalan Presidennya tahu dan bersetuju dan sampai sekarang masih lagi belum mengubah pendirian dia bersama-sama dengan 14 orang itu so logiknya it's just illogical that a timbalan Presiden UMNO negeri tapi tidak bawa berbincang di peringkat pusat. Tapi kalau dia bawa bincang kat peringkat pusat Then pun bermasalah Kerana then orang kata Tapi Dato' Sri Zahid kata You tak tahu menahu Benda ini ialah tindakan hanya Yang dibuat oleh adun-adun di negeri 9 Jadi all this sebenarnya akan mengembalikan trauma rakyat kepada wajah-wajah UMNO zaman dulu. ...tebuk atap......sheraton move lah. Haa......dan......langkah politik......kiri kanan......senyap-senyap......dan sampai sekarang......saya tak nampak lah......hmm......hujah daripada... Dato' Sri Jalal, kenyataan-kenyataan dia yang mengatakan bahawa tindakan 14 adun hilang kepercayaan kepada Tok Min ni ialah kerana demi mempertahankan institusi diraja, adat dan diraja. Lagilah berbahaya awak cakap macam tu sebab macam saya sebut awal-awal. Rakyat bukan tak faham. Eh yang kau lawan tu ialah yang tuan, Tuan Kumukris. You took side. So bila you kata Because Amin is seen to be Trying to Defend the status quo Maksudnya untuk tidak bersetuju dengan tindakan undang yang empat tadi yang nak menurunkan takhta Tuan Ku Mukhris contohnya kan. Jadi bila you kata ini ialah bila UMNO kata ini untuk mempertahankan institusi diraja dia memberi gambaran bahawa dia bersama-sama dengan undang seolah-olah undang-undang itu institusi raja tapi Tuan Ku Mukhris bukan institusi raja. So that just doesn't work tau. Jadi akhirnya mesej yang berbeza-beza, kluk-klank ini semua akan menyebabkan UMNO kena troll dekat social media lah. Bila kena troll dekat social media, kita kena ingat tau, last general election 2022.
 
-[10:37] Mungkin tak tahu, mungkin dilantik senator? Mungkin.
+[1:13:51] Speaker ?: Hmm
 
-[10:39] Oh.
+[1:13:53] Speaker 2: Kempen dalam PRU 2022 lah Seingat saya lah kan Banyak pilihan raya saya berkempen kan Itu kempen yang paling singkat Kami hanya sempat kempen dalam tempoh 2 bulan sahaja. Sebab PKR bertempur untuk pemilihan parti baru selesai Julai. Julai 2022. Kemudian Ogos. Ada yang masih lagi nak suruh batalkan pemilihan. Semua kita tak boleh move tau. Lantikan tak boleh nak buat. untuk persediaan pilihan raya kita hanya betul-betul bersedia untuk pilihan bukan bersedia pun mula bergerak hit the ground hanyalah September 2022 pilihan raya ialah November 2022 late November 2022 kan in fact meet kempen tu high dia meet November 2022 kan dalam tempoh 2 bulan Kita manage to swing the tide daripada UMNO menang besar di PRN, Melaka, Johor dan UMNO sangat confident dan rakyat rasa UMNO akan kembali. We can swing sampai UMNO dapat nombor corot. Di Semenanjung, kursi UMNO hanya 21 kursi saya rasa. Parlimen Johor
 
-[10:40] Haramnya tidaklah kan. Ni yang mana ni?
+[1:15:09] Speaker 4: dan Melaka
 
-[10:45] Ini waktu demo itu, wartawan tanya dia tak pergi demo ke?
+[1:15:12] Speaker 2: pun swing balik. Parlimen Johor, Melaka swing balik. It only takes 2 months. Kenapa? Because social media ni maksudnya Sentiment itu memuncak dengan cepat Jadi kalau rancangan UMNO, yang ini saya tak boleh nak baca ni. Adakah, I have my feeling lah tapi you know, malas lah. Kita simpan dulu lah. Kita simpan lah kan. Saya rasa ia sebahagian daripada strategi besar UMNO untuk membina gelombang ke arah PRU akan datang. Ya, faham. UMNO nak pilihan raya awal. Kalau boleh, UMNO nak pilihan raya negeri Johor bulan 8, Melaka bulan 10. Jadi mereka masih lagi sentimental kepada 4-5 tahun yang lepas membina gelombang cara mereka. Iaitu menang besar di Johor, menang besar di Melaka. Dan sekarang ini ada peluanglah menang besar di negeri 9. Dato' Sri Anwar nak tak nak panggil juga pilihan raya dan dia sapu satu Malaysia. Itu strateginya saya rasa. Tapi dia dah backfire sekarang lah.
 
-[10:49] Dia kata dia tak dijemput.
+[1:16:29] Speaker 4: Maksudnya WB nak cakap sekarang ni PRN Melaka dengan Johor tu memang confirm lah.
 
-[10:52] Kenapa muka dia macam Jamal Abdilah?
+[1:16:37] Speaker 2: Saya rasa PRN Melaka dengan Johor tu pandangan UMNO ialah dia nak secepat mungkin. Jadi jangan terkejut sebenarnya PRN Johor dulu bulan 8. Dan Melaka. Ataupun Johor dan Melaka sekali bulan 10. Sebab itu kita tak boleh tolak. Dan sekarang bila ada dimensi Negeri Sembilan, bila stalemate begini, stalemate ini hanya boleh diselesaikan dengan sidang don yang akan datang. Maksudnya undi tidak percaya di sidang don. Dan itu hanya boleh berlaku maksudnya maksimum Tok Min boleh drag untuk tidak panggil si Dangdun ialah Oktober. Kerana Oktober ialah bajet. Nak tak nak kena panggillah kalau tidak tak boleh operasi kan. Jadi ada kemungkinan sekarang ialah PRN Negeri Sembilan, PRN Melaka, PRN Johor bulan 10 dan mungkin PRU terus bulan 10 lah sekaligus. Cuma dari segi rancangan strategi UMNO untuk membina gelombong lepas satu jatuh, satu jatuh, satu jatuh ni Sekarang ni yang bermula dengan Negeri Sembilan ni nampaknya tak cantik sangat lah Dia ada unintended consequences lah Satu dia mengingatkan balik rakyat kepada watak dan wajah UMNO lah Tebuk atap kan, berebut jawatan kan menunjukkan masalah dalaman UMNO sendiri lah kerana ada banyak soalan-soalan yang tak boleh dijawab ni. Macam mana timbalan presiden di negeri kamu sign, di pusat pandangannya lain dan kemudian persoalan kepada Datuk Seri Zahid pula, eh macam mana pula, takkan kamu tak tahu kan. Jadi all this against dan apabila dia melibatkan pula undang yang empat dan juga yang Tuan, Tuan Kumukris Kemudian, anda tahu, Any support for UMNO dalam isu ini untuk menukar MB akan dilihat sebagai support kepada, dilihat sebagai menolak Tuan Kumukris. It's very complicated kan Jadi Saya sangat bersyukur Saya bukan Dalam apa nama ni PKR Kepimpinan PKR Kalau tidak aku nak Kau berpala macam mana Aku nak rongkai benda ni Sebab dia memang Still made Sebaik-baiknya lah Saya rasa So Dato' Sianok Allow bro ni Mungkin dia pun Dia nak stop macam mana Nak allow macam mana Maksudnya
 
-[10:54] Ha itu Fahan nak tanya.
+[1:19:22] Speaker 1: Maksudnya Yang Negeri Sembilan ni Nak tak nak PKR adalah menteri besar Ya
 
-[10:57] Saya minta dia share skin care routine dia. Skin care routine dia. Mhm. Nampak putih. Nampak beza lama. Nampak beza. Kau orang dah selalu kutut mata dia merah, terus dia pakai shade.
+[1:19:27] Speaker 2: Sehingga 6 bulan Akan datang Dia have to defend
 
-[11:10] So, hari ni tak nampak mata dah. Tapi dia bergayut tahu. Hm. Tak ada, ni apa dia? Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan sebab Ni sebab apa orang tanya dia, dia join demo ke tidak? Itu satu.
+[1:19:29] Speaker 1: Dia
 
-[11:24] Lepas tu, dia kan dah nak bersara. Lepas tu, wartawan tanyalah.
+[1:19:30] Speaker 4: menteri besar sepatutnya Sepatutnya dia defend Dia dah defend lah
 
-[11:29] Apa ni Azan Baki lepas ni, lepas dah bersara apa dia nak buat kan? Dia kata dia jawab, awam, dia tugas berkhidmat untuk negara, tanyalah. Tapi saya takkan berhimpun di hadapan Sogo lah.
+[1:19:33] Speaker 2: kot
 
-[11:40] Terus macam dia pilihlah.
+[1:19:34] Speaker 4: Ok, dia jumpa Zahid tu. Ada gambar Fahmi Ada gambar Fahmi Farzi
 
-[11:42] Okey. Orang tak jemput dia tiba-tiba nak datang. Ini luka dalam ni, luka dalam kan. Selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:19:38] Speaker 2: Tak ada no no no I think dari segi pendirian PKR Saya rasa Haa ...peserakan ini... Kenapa? You nak suruh PKL buat macam mana lagi? Takkan nak kata Jom kita bergaduh Dalam kabinet baling kusi Tapi Tapi pendirian rasmi PKR Ialah Tok Min kekal Sebagai Kerajaan minoriti
 
-[12:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:20:04] Speaker 4: Then I think betul lah Is it possible Kerajaan minoriti Di Negeri Sembilan tu Kalau katalah Tok Min Kerajaan minoriti Menanglah undi percaya tu kan Adakah mungkin kerajaan minoriti Kalau betul ini first lah kot Malaysia ada minority government.
 
-[12:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:20:20] Speaker 2: Tak sekarang ini, ok sekarang ini pun dia dah berkecamuk sekarang lah nak kata minority government pun tak dah. Sebab kenyataan UMNO yang terkini semalam ialah 14 adun itu menyokong kerajaan tapi nak MBD tukar. So kerajaan is no longer a minority government. saya ingatkan kenyataan media malam itu dalam sidang media bersama-sama juga dengan LOK kan keputusan PKR dan PH ialah kerajaan minoriti maksudnya dengan 17 kerusi oleh kerana tidak ada parti-parti lain pun yang boleh membentuk kerajaan dan sebarang bukti mendapat majoriti itu perlu dibuktikan mengikut undang-undang tubuh Negeri Sembilan Cara lah sama ada dapat mengadap yang tuan-tuan kumukris ataupun undi tidak percaya di dalam. Dewan Sehinggalah perkara-perkara itu dapat dilaksanakan Maka Tok Min kekal sebagai menteri besar Itu yang dipanggil sebagai kerajaan minoriti Kemudian hari Kamis Bila UMNO kata 14 Adun itu Kekal menyokong kerajaan Tapi nak tukar MB Dan dia dah tak terdekajar minority tau Jadi saya ingat Harapan UMNO sekarang Untuk Apa nama ni Menyelamatkan air muka Ialah dia akan cuba negotiate Supaya dapat lagi banyak escort Dapat lagi banyak benda lah Dengan PH
 
-[12:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:22:04] Speaker 4: Kalau kita tengok statement UMNO Last tu kan dia nak bincang dengan PH dia nak aktifkan klaus berapa saya tak ingat dalam perpaduan dia kan untuk bincang kalau ada apa-apa isu so maybe dia dia demand lah
 
-[12:54] Saya memang turut.
+[1:22:17] Speaker 2: aku pun tak ingat aku yang tulis perjanjian tu dia memang ada satu klaus kalau ada pertelingkahan ke apa dia ada mediation lah mediation itu untuk kita mengelakkan daripada bergaduh di luar lah lebih tak berlaku lah dia orang dah bergaduh baling kusi bila dah jam baru nak invoke klaus mediation
 
-[12:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:22:40] Speaker 1: Okay Okay baby
 
-[13:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:22:41] Speaker 2: Okay
 
-[13:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:22:41] Speaker 1: So kita move kepada Topik seterusnya Ini pun menarik So kita ada baki dalam Sejam lebih lagi baby Boleh Boleh
 
-[13:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:22:48] Speaker 2: Boleh Yang last tu sekejap je aku nak kena tangkap. Nak ulang panjang pun tak ada juga.
 
-[13:23] Boleh.
+[1:22:56] Speaker 1: Okay. Last. Beri perkataan saksidi.
 
-[13:24] Seterusnya.
+[1:23:01] Speaker 2: So maybe. Potong lemak atau tersalah potong urat. Macam ibadat korban lah. Ni macam. Tidak dekat ibadat korban lah. Ini kena tanya orang tuksiak-tuksiak dekat masjid. So maybe.
 
-[13:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:23:14] Speaker 1: Ni tidakkan yang. Terlalu lambat
 
-[13:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:23:17] Speaker 2: Tak kau kena Orang Yang dengar podcast ni Ada orang dengar Dekat Audio sahaja Dekat Apa nama ni Spotify Semua So you have to explain Sebenarnya apa dia Okay
 
-[13:51] Pas.
+[1:23:31] Speaker 1: baik Sorry maaf Saya first time
 
-[13:52] So, sekarang ni dia tengah buat job hunting.
+[1:23:32] Speaker 2: So saya explain dah ni Haziq sure gelak Tengok Kena belajar daripada aku dulu
 
-[13:55] job hunting job.
+[1:23:38] Speaker 1: So okay Saya ada simple Saya ambil semenit je Simple sangat Kementerian UMF Keluarkan satu arahan Untuk semua kementerian Terjaya sikat Bajet dia disebabkan krisis ni so base subsidi ada 58 jangkaan subsidi Malaysia meningkat sebanyak 58B so potongan bajet jangkaan dalam perlu dipotong 10B so itu rangkaan yang simple saya boleh explain so rangka rangka saya kepada YB adakah ni tindakan yang terlalu lambat sepatutnya dia dah umum lebih awal benda ni Atau dia bawa Ha? No okay Atau duit
 
-[13:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:24:13] Speaker 2: Sebelum Sebelum itulah I think Lata belakang dia Ini hari apa Hari Jumat Eh tak Hari Hari ni hari Jumat lah Maksudnya surat ni keluar I think hari Rabu Ya betul Hari Rabu Hari Rabu Surat sekarang ni dia hantar melalui email. Sekejap jadi viral satu Malaysia. Ngaku-ngaku dapat surat kan. Surat dalam bahasa... Perbendaraan lah Dia panggil sekatan perbelanjaan Maksudnya Yelah They put a cap lah And therefore you have to Kalaupun telah diluluskan Belanjawan Ataupun bajet lah kan Peruntukan Bahasanya ialah peruntukan Katakanlah satu jabatan tu Dia telah luluskan peruntukan 100 juta Untuk satu tahun Belanja perbekalan Tapi kalau keluar arahan perbenaraan untuk menyekat Dan berapa yang disekat tu kan Maksudnya tak boleh belanja lah Potong bajet lah kan Dan itu sebelum kita komen pasal yang lain semua Kita kena faham yang itu Kerana Saya tengok ada juga menteri-menteri kata Ini rancangan sahaja Eh tak tau Surat sekatan tu dah keluar Kan jadi surat sekatan tu dah keluar Maksudnya Potongan peruntukan Ataupun pembekuan peruntukan Itu memang arahan lah Cuma proses dia Dia memang budgeting ni Dia ada top down and bottom up Kan Masa kita mula-mula nak buat bajet Dia bukan sahaja untuk kerajaan dalam mana-mana organisasi besar lah kan Dia ada dua peringkat Satu ialah peringkat bawah itu Dia tengok perbelanjaan dia, apa nak buat, aktiviti dia Jadi dia bangunkan bajet dia and then dia submit ke atas Itu bottom up sangat. Dekat top tu, dia pun dah tahu kalau negara contohnya nak berkembang 5%, 6% pertumbuhan ekonomi, kemudian hutang nak kena bayar berapa, sekian-sekian-sekian, kita hanya ada RM400 bilion sahaja, kutipan banyak ni, gini-gini, gini-gini, maka untuk kementerian kamu, top downnya, kamu hanya ada RM1 bilion. So then you have two sets of budget kan Dan berdasarkan itulah dia akan diharmonikan That actually yang ni potong-potong kan Dia sama juga dalam proses untuk mengawal perbelanjaan yang macam berlaku sekarang. Dia mengeluarkan sekatan dan seperti yang telah dilaporkan maksudnya sasaran penjimatan kerajaan daripada peruntukan yang telah diluluskan untuk 2026 itu ialah RM10 bilion. Dan arahan itu telah dikeluarkan lah maksudnya kerajaan perlu memotong perbelanjaan sebanyak RM10 bilion. Itu top down. Yang bottom up berlaku ini sekarang ialah daripada MOF potong pandai-pandai, dia memberi ruang kepada bottom up process Maksudnya setiap agensi kementerian kamu diberi arahan dengan panduan-panduan berikut. Contohnya saya ingat CLBG lah agensi-agensi semua ni. Agensi-agensi yang bukan di bawah, sorry let me rephrase. Agensi-agensi bawah kementerian yang bukan penjawat awam. Dia banyak lah, MDEC lah, itu semua dia panggil CLBG, Companies Limited by Guarantee, agensi-agensi lah. Yang ini ni dia I think minta potong 20%. Kemudian kalau kementerian-kementerian, jabatan-jabatan, dia ada panduan-panduan dia lah. Jadi kementerian-kementerian dan kena tengok, ok yang ini yang kita dah ada peruntukan, yang kita dah nak plan semua ni. kementerian kewangan kemudian dia akan submit balik and that's how you get 10 billion kan jadi Soalan tadi lah Soalan tadi terlambat Ke apa semua kan Well I think you have to see the The total picture lah kan Kalau nak kata terlambat ke Tak terlambat ke Bagi saya itu soalan akademik lah Sebab dia berpunca lebih kepada soalan dasar. Dasarnya ialah kita tak bagi subsidi bersasar, kita bagi pukal. Dan keputusannya telah dibuat untuk buat keputusan populis. Malah Dato' Sri Anwar menurunkan lagi harga minyak. daripada RM2.05 kepada RM1.99 kan supaya orang dah tak boleh kutuk dia pasal kempen dia dulu menang hari ini, saya ulang, tuan harga minyak itu tujuan dia kan tapi tujuan-tujuan itu tidak berlandaskan kepada perancangan ekonomi yang kukuh lah jadi kalau kita nak kata adakah ini terlambat ke apa Dia buat macam mana pun Dia tak akan boleh Lari daripada Kesan yang berlaku sekarang Contohnya macam ini kan Kerajaan menganggarkan subsidi tahun ini RM58 bilion. RM58 bilion itu saya ingat yang diumumkan itu hanyalah untuk subsidi diesel dengan petrol sahaja tau. Itu tak masuk subsidi elektrik lagi. Itu tak masuk subsidi LPG lagi Ini empat kategori paling besar Petrol, diesel, elektrik dengan LPG Niak masak kan Itu tak masuk lagi tu yang sebut Saya rasa 58 tu hanya petrol dan diesel kan Itu adalah yang paling tinggi dalam sejarah negara kita RM58 bilion Hasil kutipan cukai berapa? Cuba google sebab PM baru umum hasil paling tinggi tercapai. RM220 mungkin Google? RM203 bilion. Tak sampai pun lagi RM220 bilion. RM204 bilion kan? So LHDN kutipan RM204 bilion kan? Bayangkan hasil kutipan cukai dalam negara kita daripada cukai langsung lah yang di bawah LHDN lah. Ada satu lagi cukai tidak langsung tu dikutip oleh custom kan. Tapi kutipan cukai langsung yang kita bayar PCB, potongan cukai berkala, kita bayar income tax, company bayar income tax semua kan, RM203 bilion. Apa nama ni Hampir satu per tiga Actually Kalau campur dengan subsidi elektrik Subsidi gas Dengan LPG Memang satu per tiga Satu per tiga Kita bakar untuk minyak kita supaya kita boleh beritahu bahawa minyak kita baiknya lah kerajaan. Minyak kita ni terendah dalam dunia.
 
-[14:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:31:54] Speaker 4: Kerajaan
 
-[14:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:31:56] Speaker 2: memahami rakyat. Padahal kerajaan ambil duit cukai kita bakar. So okay let me ask you this question. Katakanlah kau bayar cukai. RM2,000 setahun lah Katakanlah Potong-potong-potong semua RM2,000 setahun kan Yang itu dibakar lah Sebagai subsidi minyak Subsidi petrol Semua ni kan Tapi Sebahagian besar benda tu tu About 60% plus Pergi kepada orang-orang kaya Orang-orang Yang upper M40 ke atas ni How do you feel? Kalau engkau kau rasa Adakah itu yang Sebelum kita cerita pasal potong duit So again Dia berbalik kepada soalan Dasar lah kan Now RM58 bilion yang kerajaan kena bayar tanggung ni kan untuk tahun ini. Peruntukan... Yang diluluskan untuk subsidi bagi tahun 2026 ini saya ingat saya RM15 bilion. Maksudnya ada 43 bilion lagi yang kerajaan kena tampung. Now, potongan ini yang sekarang ini dah jadi kecoh besar sebab perbendaraan yang paling banyak kena potong tu ialah daripada Kementerian Kesihatan dengan Pendidikan Tinggi tau. Kementerian-kementerian Pendidikan kan yang besar-besar, Kementerian Digital, Kementerian Dalam Negeri, Kementerian Ekonomi memang bajet tak banyak, memang tak berbelanja. So tak adalah kan. Jadi... Orang marah lah 5.4 bilion dari kesihatan dengan pendidikan kan. Tapi kalau dia berjaya potong semua ni. Kesihatan, pendidikan, tinggi, pendidikan, apa nama ni, KDN semua ni kan. Baru dapat 10 bilion Kita perlukan 43 bilion. So ada 33 bilion lagi nak cari ke mana? Where do you think they will get that? RM33 bilion. Cukai lah. Cukai mana lagi ni? Cukai lah ni. Dah kutip. Cukai yang tertinggi dalam sejarah. Dah tapi masa lagi tak cukup. Semua macam mana? Kamu akan menang Jibabu
 
-[14:14] kau orang pun jahat kan?
+[1:34:08] Speaker 3: Saya akan berjumpa dengan awak
 
-[14:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:34:10] Speaker 2: Mana boleh pinjam ini. Mereka yang mengurus tak boleh pinjam. Haa, itu lah. Nanti saya nak kena... Apa nak? Then it's a good junction untuk tanya. Kalau tanya, pinjam je lah duit. Tak payah. Akan ada orang kata. Haa, sebab ada juga ahli-ahli politik ni galaklah buat kenyataan. Haa. Oh, jangan potong, potong, potong, potong. Jangan. Dia juga kata jangan potong. Dia juga kata jangan naikkan. Dia juga suruh bagi subsidi kat semua. So, kau nak cekau duit kat mana lagi? So gayanya tidak berterus terang kepada rakyat seolah-olah boleh pinjam duit. Ini belanja mengurus kalau ikut perlembagaan kita Kerajaan tidak boleh berbelanja untuk operasi harian lebih daripada kutipan cukai. So kalau kutipan cukai... I think all in all lah kutipan cukai paling banyak dalam berapa? RM280 bilion lah setahun. So hasil kerajaan ada beberapa kategori yang besar lah. Satu kutipan cukai. Kutipan cukai ada dua tiga jenis lah. Kutipan cukai langsung yang kita bayar income tax semua tu. Itu yang LHD yang kutip lah dalam RM203 bilion kan. Kemudian kutipan cukai tidak langsung. Yang itu yang SST. SST. mungkin dalam 40, 50 bilion daripada custom lah campur XI semua dapat lah saya ingat 70B, sudah dalam 280 kemudian adalah hasil-hasil bukan cukai yang lain Hasil-hasil bukan cukai ni termasuklah contohnya dividend Petronas, dividend jual aset ke semua tu lah. So campur tolak semua, hasil kerajaan ialah dalam 300 bilion lebih, 320, 330 bilion lah setahun sekarang kan. Ikut perlembagaan, belanja mengurus. Maksud belanja mengurus ini ialah belanja operasi. Contoh-contoh belanja operasi, bayar gaji, bayar sewa, buat-buat program, beli barang yang bukan aset besar. Bayar hutang. Bayar hutang. Okey, bukan bayar hutang. Bayar interest. Bayar interest. Bayar interest. Semua itu, itu semua belanja mengurus. Dan peruntukan perlembagaan kita ialah boleh meminjam untuk belanja mengurus. Itu memang constitutional safeguard yang kita ada. Mana-mana kerajaan yang ada di Malaysia ini tidak boleh berbelanja lebih daripada hasil yang dikutip. Kau tidak mampu lah Malaysia. Politician naik, naik, naik. Dia bayar gaji, dia tinggi nak mampu. Duit tak ada. Dia buat apa? Dia berhutang. Lepas tu dia kalah, dia tinggal hutang kat orang lain. Jadi berhutang ini hanya boleh dibuat untuk belanja pembangunan. Belanja pembangunan adalah capex. Nak buat sekolah, okey. Sebab benda tu kekal kat situ. Nak buat jalan. Nak buat universiti, nak buat hospital, belanja contohnya jenis-jenis belanja pembangunan lain yang besar, infrastruktur yang itu boleh pinjam. Kerana dia adalah penjana ekonomi. You buat, lepas itu dia akan menjana hasil ekonomi dan pertumbuhan ekonomi yang akan datang. Jadi berbalik kepada sini. Dengan kutipan cukai yang tertinggi yang LHDM buat RM203, masih memerlukan RM58 bilion untuk bayar subsidi. Tolak RM15 bilion yang telah diperuntukkan tinggal RM43. Tolak RM10 bilion yang cuba dipotongkan tinggal RM33 dalam keadaan kerajaan tidak boleh meminjam. Jadi kerajaan nak buat apa?
 
-[14:24] dan dia kata panas.
+[1:38:16] Speaker 4: Tambah cukai baru, tarik dividen Petronas.
 
-[14:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:38:19] Speaker 2: Cukai baru tak sempat sebab dia ambil masa panjang. Dan memang kalah pilihan raya lah buat cukai baru. Akhirnya dia akan ambil dividen Petronas. Dividen Petronas. So besar kemungkinan Petronas mungkin kena bayar sampai RM50 bilion. Ah... Maksudnya yang dia dah komit RM20 bilion lebih Tambah lagi RM30 bilion RM50 bilion
 
-[14:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:38:41] Speaker 4: Jadi Keputusan Petronas makin lama makin jatuh
 
-[15:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:38:46] Speaker 2: Dan itu akan menyebabkan Petronas tidak ada sumber kewangan yang mencukupi untuk melabur dalam projek-projek minyak yang baru lah. Jadi dia jadi spiral tau. On the one hand kita terpaksa bayar ni kerana kita dah menjadi pengimport minyak. Entah kan Tapi duit yang Petronas ada itu Daripada Kenaikan harga minyak Walaupun dia tidaklah setinggi Orang kena ingat tau Walaupun dia naik contohnya Daripada 60 ke 100 dolar kan Dia bukan 40 dolar tu Every single cent will translate to profit sebab dia datang dengan pelbagai kenaikan kos yang lain freight cost, insurance, kemudian capex cost dan macam-macam lah so I don't know maybe only 50% translate to actually pure profit lah kan, kan jadi Bila keuntungan yang akibat daripada kenaikan harga minyak itu disalurkan balik untuk menjadi subsidi kepada semua ini Then sebenarnya you curtail Petronas punya... keupayaan untuk menjadi syarikat minyak yang lebih besar dan berdaya saing yang boleh beli blok minyak yang baru dan mengeluarkan lebih banyak minyak untuk masa akan datang kan. So okay, long and short dia macam ni kan. Buat masa sekarang memang tidak ada pilihan lah kerajaan kena potong. Sebab pilihan yang lebih masuk akal, saya tak nampak kerajaan ini akan buat. Sebab itulah jadi yang berhenti menteri. Sebab saya daripada awal mengatakan bahawa kalau kita nak lari daripada membuat keputusan yang sukar ni, you tak boleh lari. Macam mana pun you kena juga. Hakikatnya bahawa ialah subsidi pukal minyak di Malaysia memang sudah tidak lagi boleh ditampung. Kita dah bincang dalam podcast-podcast yang lepas lah kenapa dia tak boleh ditampung. Satu, penggunaan petrol dan diesel yang jauh lebih tinggi sekarang berbanding 10-15 tahun yang lepas. Kedua, pengeluaran minyak kita yang memang dah separuh menurun. Ketiga, perbelanjaan-perbelanjaan kita yang memang meningkat untuk perkara-perkara lain. OPEX, CAPEX kita dah naik semua kan. Kemudian, ketirisan. Dan akibat daripada sistem ekonomi yang mana kerajaan sangat takut untuk menyasarkan subsidi ini atas alasan penyasaran semula subsidi bermaksud harga minyak akan naik untuk sesetengah golongan. Jadi you takut yang itu. Either way you kena bayar. Contohnya eh, awalnya bila buat budi 95 semua orang tepuk ya bagus lah PM, cerdik lah MOM, Dato' Sri Amir Hamzah ni sangat hebat lah semua. Saya dah kata daripada tahun 2023 lagi itu hanya boleh berlaku baik kalau tidak ada lonjakan harga minyak. Dan minyak mentah ni tak boleh nak dibaca. Sekejap dia 30, sekejap dia 60. Dia pernah jadi 120. 20. Dan bila dia jadi $120 satu tong, semua yang dibuat dengan budi 95 tu jam, runtuh semua. So, kalau saya nak ungkit, kan aku dah kata, tak nak dengar, semua takut, semua kata Rafi Zini teruk. Dia seorang, mentang-mentanglah dia kat pandan, dia menang besar RM48,000, dia tak takut hilang kursi. Well, you know, we are paid to fix a problem. Jadi kalau kita jadi kerajaan dan kita meneruskan benda yang sama, akhirnya kita kembali macam inilah. Kita keluar daripada mulut buaya masuk mulut rimau. Ke masuk keluar mulut rimau masuk mulut buaya? Sama je. Rimau ke buaya sama je kat Malaysia. So sekarang ini kita jadi macam itulah kerana Akibat daripada nak kekalkan harga RM1.99 dan dia tak nak buat, sebab itu dia tak nak buat padu tu, macam mana? Padu ni maksudnya menyasarkan mengikut kelayakan sosioekonomi, isi rumah, mengikut tempat. Ada orang dapat, ada orang tak dapat. dalam bentuk contohnya allowance-allowance yang berbeza. Allowance anak, allowance kola, kos hara hidup, allowance minyak. Cuma ada orang dapat, ada orang tak dapat. Yang T10 macam aku ni tak payahlah. Aku anak seorang kan. Pendapatan okey lah. Jadi takkan aku nak dapat subsidi minyak. Tak payahlah orang macam aku ni. Dan Pak Han... Kau pun sebenarnya kalau combine tak dapat kan? Tak. Orang macam Pak Han walaupun dia complain pumpang-pumpang-pumpang. Dia tak ada anak. Dia dua orang. Dia juga kucing. Kemudian kucing belum masuk lagi dalam perkiraan di sini rumah. Kalau macam tu aku dapat lah. Aku ada 20. So ambil contoh Pak Han. Dia tak ada anak. Dia dua orang. Aku rasa combine-combine income dia, dia tak akan dapat masuk dalam. So nak tak nak, dia terpaksa kurangkan motor. besar dia lah. Dan juga dia punya pickup truck dia yang besar-besar tu Hilux dia, dia dah jual lah. Tinggal satu je lah. Tak payahlah banyak-banyak kan. Jadi cuma Kebimbangannya ialah masa perkara ini duduk berbincang bertahun-tahun ialah Kalau ikut kepala Rafizi, kita akan kalah pilihan raya. Sebab orang akan marah. Sebab 20% yang harga minyak naik tetapi tak dapat bantuan langsung. Yang itu akan marah. Kemudian kalau dapat bantuan pun, dia dapat allowance anak, dia dapat allowance sehari hidup, allowance minyak. Dia tetap tak berpuas hati kerana harga minyak naik daripada RM2.50 jadi RM2.70. Masa kita bincang itu, kalau kenaikan, it was from RM2.50 kepada RM2.50 masa itu. Oh tapi tak boleh ni 40 sen orang marah sangat ni Dia tak kisahlah dapat 600 bulan ke 700 bulan Orang tetap akan marah Jadi I was the only one dalam kabinet Yang kata kalau contohnya kita tak buat ini Kalau jadi apa-apa we are in trouble Orang marah juga Now jadilah You duk sekarang contohnya kan kita habis RM58 bilion kan. kurangkan kuota daripada 300 ke 200 orang maki hamun sebab orang mati yang 58 bilion itu yang kerajaan kena bayar itu tak dapat political capital pun kepada Dato' Sri Anwar tiap-tiap hari kena maki Tambah pula ini nak pergi potong, potong pula kesehatan pendidikan tinggi. Lepas ni nurse mungkin tak dapat allowance lebih. Kemudian claim tak dapat. Polis-polis semua nak claim minyak semua payah. Paper tak boleh beli, kena kurangkan semua. Semua pegawai kerajaan pergi bilik tau. So you bayangkan akhirnya dan kemudian kena ambil duit Petronas 30 bilion. Projek pembangunan susah nak buat. So akhirnya saya rasa kerajaan Madani bukan saja back to square one. Lagi teruk dari segi political capital. Sebab itu kalau dalam tahun 2023-2024 dulu kita pergi seperti yang saya sebut padu dah siap nak buat semua. Bila berlaku macam ini, kita boleh adjust sebahagian daripada peruntukan kerajaan yang ada. Kita subsidize harga supaya tidak terlalu tinggi. Diesel jangan sampai RM6 lebih. Katakanlah kita subsidize RM5 bagi setiap satu. Tapi dia masih lagi harga pasaran. Cuma tolak RM5 saja. Kemudian keluarga-keluarga yang dapat bantuan. Dia dah dapat char allowance, dia dah dapat fuel allowance. dapatlah RM4,500 sebulan. Jadi dia kena pandai-pandailah pada harga RON RM3.50. Macam mana dia nak kurangkan daripada pakai dua kereta, dia pakai satu kereta. Because finally, sistem ekonomi kita kena berubah kepada kos reflektif. Kita sebenarnya kena, itu tanggungjawab kerajaan untuk menyediakan negara dan juga generasi muda bahawa kos yang kita bayar untuk minyak ini dah tak masuk akal. Kalau kau berniaga, ya.
 
-[15:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:48:05] Speaker 3: Jadi anda mengatakan yang sebenarnya Kita punya cara penggunaan minyak semua ni Is actually a subsidized lifestyle over the last 20-30 years lah
 
-[15:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:48:18] Speaker 2: Dia bukan soal subsidize lifestyle sangat Sebenarnya subsidi itu diperlukan Memang betul Cuma pulang kalau dari segi Kita ambil apa nama ni... Cara kita menguruskan Perbelanjaan kita Isi rumah kan Kita sendirilah Keluarga kita kan We would like to decide How best To spend Our money Betul Dan kalau benda tu diberi percuma kat kita Kita memang tak ambil pot lah Katakanlah Rumah kita orang bagi air percuma kat kita Memang kita membazir, kita mandi, ikut suka kita lah kan. Kalau kita kena beli, kita berhati-hatilah kan. Sama juga dari soal subsidi ni. Sama ada RM60 bilion, RM40 bilion, wang itu akhirnya wang rakyat mesti dipulangkan dan dibelanjakan kepada rakyat. Soalnya ialah macam mana cara terbaik untuk dipulangkan kepada rakyat yang boleh imbangi semua. Maksudnya kedudukan ekonomi negara makin bertambah baik. Kemudian kedudukan kewangan awam, kerajaan makin baik. Kemudian orang ramai dia tak rasa terbeban dan tertekan. Jadi kalau kita jadi orang awam. Now this is the question yang orang awam kena jawab. Kualiti tak berani tau. Dia tak apalah. Yang kesiannya budak-budak lah. Zaman korang lah. 30-40 tahun lagi. Bikin minyak dah tak ada. Hutang dah bertrillion-trillion. Korang akan tetap kena bayar harga minyak mahal pun nanti. 10 tahun lagi korang akan tetap kena bayar ni. Harga RM3.50 semua ni. Memang confirm korang kena bayar tu. Isunya ialah by that time berapa hutang yang kena tanggung. Hospital cukup ke tidak. So that's why my advocate, saya advocate kepada kerajaan daripada dulu, daripada bagi minyak murah ni, kemudian kita makin lama penggunaan makin mencanak, kereta paling banyak per kapital lepas Jepun di Asia semua, per keluarga, mereka akan menyesuaikan dan memutuskan apa yang harus dilakukan dengan RM600-RM700.
 
-[15:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:50:46] Speaker 4: Mhmm Aaaa Weby eh Tanya Weby As for now, kita punya budget subsidi Lebih kurang RM58 bilion Kalau kita Katakanlah, kita hidup dalam satu Universe yang lain lah, kata kerajaan Mengikut cadangan YB dulu, kita buat Padu, we do with your strategy and everything Kalau I think budget 2025 Kita punya subsidi pun Close to RM50 something lah, saya tak ingat Sangat, tapi Kita punya subsidi On 2035 Katalah contoh Itu total subsidi Total subsidi Katalah contoh Bukan
 
-[15:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:51:19] Speaker 2: subsidi minyak
 
-[16:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:51:20] Speaker 4: Katalah total subsidi kita We put it last masa YB ada dalam kabinet lah.
 
-[16:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:51:25] Speaker 2: Sebab masa tu subsidi minyak is around RM20 bilion.
 
-[16:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:51:30] Speaker 4: Okay,
 
-[16:54] Saya memang turut.
+[1:51:30] Speaker 2: kata
 
-[16:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:51:31] Speaker 4: we put RM20 bilion. Kalau kita ikut plan YB, kita boleh jimat subsidi tu agak-agak dalam berapa bilion?
 
-[17:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:51:38] Speaker 2: Again, again, okay. I keep correcting. Dia bukan soal jimat subsidi. Sebab wang itu seberapa banyak, sepatutnya memang kena pergi balik kepada rakyat. Okay, so ambil contohnya. RM20 bilion Yang itu untuk petrol RM95 Pada harga RM2.05 Dan tak ada kuota Tak ada apa Campur dengan diesel semua Masa itu diesel harga telah diapungkan Tapi bagi RM300 Budi madani Semua itulah kan Yang itu total subsidi RM20 Bilion Ya Now, the discussion masa itu ialah RM20 bilion itu boleh dipulangkan balik kepada rakyat dalam bentuk pindahan tunai bulanan. So ada keluarga boleh dapat RM500 Ada mungkin RM700 Ada mungkin dapat RM200 semua Tapi harga itu diapungkan lah Jadi kalau diapungkan Masa itu daripada RM2.05 Dia jadi RM2.50 Cuma yang extra RM0.35 yang dia bayar itu Dia akan banyak bagi untung kepada keluarga M40 dan B40 Kerana M40 dan B40, dia tak pakai banyak petrol. Sekarang pun kita tengok, memang betul. Apa nama ni, sebahagian besar rakyat kita memang tak habis lebih 100 liter sebulan. Kecuali yang dalam sekitar Lembah Kelang. Sebab itu kita kata kena pakai padu. Supaya kita tahu kau duduk kat mana, kerja kat mana. Supaya orang yang commute lebih ni, dia dapat kuota lebih lah. lebih kan. So untuk orang keluarga yang berpendapatan rendah lah kan, dia mungkin bayar ekstra katakanlah dia pakai 100 liter kan. Dan dia bayar ekstra 35 sen ekstra sebulan, 1 liter kan. Dia pakai 100 liter sebulan. Itu baru berapa? Baru RM35 Tapi dia dapat pindahan tu Naik RM200 Mungkin RM400 So, wang itu lebih bersasar dan lebih membantu yang kat bawah. Orang macam aku, duit daripada minyak akulah pergi bagi extra kat dia orang tu. So, macam mana dia nak gunakan itu terpulang kat dia lah. Kita tak boleh nak kata, oh tak boleh percaya lah orang susah ni. Nanti dia pergi beli dadah lah, rokok lah. Tak adalah.
 
-[17:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:54:14] Speaker 4: Saya boleh pergi komen, kritikan nakal sikit lah pada idea UB tadi. Ya. Dulu masa 2016 Najib dah buat subsidi bersasar bagi balik duit pada BRIM. Ini apa hujan dengan Najib lah kan. Apa beza dia dengan YB punya idea?
 
-[17:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:54:28] Speaker 2: Sebab itu BRIM dan juga sekarang ni dia panggil STR kan. Benda itu dibuat sebagai wang hadiah kerajaan. Dream dulu diberi setahun sekali
 
-[17:23] Boleh.
+[1:54:41] Speaker 4: Oh ok
 
-[17:24] Seterusnya.
+[1:54:42] Speaker 2: Haa Setahun sekali Bila you diberi setahun sekali Dia jadi wang durian runtuh Dia ambil dia pergi beli KFC beraya Sedangkan kita nak kena pastikan bahawa itu menjadi sebahagian daripada pendapatan bulanan dia. Sebab itu dia kena tiap-tiap bulan dan itu yang saya kata penyasaran semula subsidi ini sebenarnya bagi peluang kepada kita untuk membina satu sistem keselamatan sosial yang kita tak ada lagi. Kita tak ada social security system yang kalau orang miskin ni tiap-tiap bulan dia dapat. Sebab kita ada JKM, kita ada zakat. Tapi nak kena memohon, ikut kelayakan, ikut peruntukan semua kan. Perlokasi dia mengabut sikit lah. Macam-macam lah kan. Kita nak pastikan bahawa dengan padu, bila kita dah ada sebaik data dan kita akan terus perbaiki data itu, orang tak payah nak memohon. Kalau you memang orang susah dan ini kedudukan you gini-gini, tuan-tuan tu naik 100, 200, 400. Anak dua, memang kalau seorang tu dapat 100, dapat 200. Tak kisah you siapa. So kita nak mewujudkan sistem keselamatan sosial in preparation for aging society in the future. Jadi kalau you nak buat sesuatu yang sukar, yang orang akan maki, keputusan politik besar, pastikan matlamat itu ada 3-4 matlamat yang bila kita dapat berbaloi untuk buat. So, beza tau dengan bagi 4-5 bulan sekali, 3 bulan sekali sebab orang akan gunakan untuk bayar hutang lah. Itulah kan. It has to be sama macam gaji kita every month, every month, every month kan. Itu peluang yang kita ada daripada RM20 bilion setahun itu untuk dikembalikan sebagai pindahan to nice menjadi sistem national social security system kepada semua. Gangguan seperti ini kan? Memanglah rakyat akan tertekan Kerana kalau sebelum ini dia kena bayar 30 sen untuk 1 liter extra Sekarang dia kena bayar 1 ringgit Dan pada ketika itu kerajaan boleh ada pilihan Sama ada 1 ringgit itu dia nak kembalikan sebagai extra cash Ataupun dia nak subsidize di pump Dia boleh buat ataupun dia nak guna dua-dua cara dia mungkin gunakan 5% untuk instead of RM3.20 harga naik daripada RM2.50 jadi RM2.80 jadi tak rasa sangat sebab you you want to maintain the cascading effect of inflation ni kan 5% lagi tu dia tambah kepada tambahan pindahan tunai rakyat lah daripada RM200 dia mungkin dapat RM300 so you can play around bila ada begini kan But the good thing kalau kita buat begitu Ialah kita dah boleh mula mempengaruhi consumption rakyat
 
-[17:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:57:39] Speaker 1: So, Abie, soalan Tapi nak propose idea dalam kabinet, so kabinet tolak. So tak logik kalau saya guna otak, logik saya untuk tolak idea ni tak make sense. Kecuali dia insecure dengan you. Tak
 
-[17:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:57:51] Speaker 2: ada, tak ada. Tak ada kena-mengena insecure tu apa semua. Dia ada dua pertimbangan lah. Dia ada dua pertimbangan sebenarnya. Pertimbangan yang lebih besar daripada parti-parti lah. Dan parti ni cut across tu. daripada UMNO, daripada GPS, semua takut kalah. Kalau naikkan 50 sen, 20 sen, walaupun sebenarnya rakyat akan dapat pindahan tunai, bantuan tiap-tiap bulan, dia takut kalah. Itu satu kan. Faktor kedua sebenarnya ialah MOF. Sebab MOF telah merancang untuk buat sistem ni daripada tahun zaman teguh Zafrul lagi Jadi dia punya dry run semua test dalam parlimen Itu aku berpuluh dalam parlimen Bila pembangkang tanya Ni dah test ke belum semua kan Sepatutnya yang jawab MOF MOF tak nak jawab Dia suruh kementerian ekonomi jawab So aku jawab lah tak apalah Penanda senator ni tak nak jawab Dia taiji kepada kementerian ekonomi kan Ok lah aku jawab lah Tapi sebenarnya MOF dah rancang benda ni Sebelum ada Madani pun lagi Jadi dia macam mana pun berkeras benda ni pakai sistem ini semua ni. Nanti adalah cerita aku keluarkan satu-satu. Cerita sistem MOF semua ni, sistem SARA ni. Banyak cerita lagi. Belum keluar lagi sebenarnya kan. Berapa percentage sebenarnya yang dibayar kepada penyedia sistem. Itu belum ditanya lagi. You ingat free kan semua ni? Haa Baru faham Padu tak ada sistem Padu belanja sekaligus Habis 30 juta Tu kajian guna sampai bila-bila lah Ini setiap kali ada Ni pindah-pindah-pindah Ni kau ingat tak ada bayaran ke? Ada bayaran Ada komision
 
-[17:51] Pas.
+[1:59:45] Speaker 3: Ada karnimah
 
-[17:52] So, sekarang ni dia tengah buat job hunting.
+[1:59:46] Speaker 2: Ada haa
 
-[17:55] job hunting job.
+[1:59:48] Speaker 3: Ada elemen tergesa-gesa jugakah?
 
-[17:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:59:51] Speaker 2: Itu melalui tiga Perdana Menteri Mungkin tak terkeser-keser So MOF memang plan dia daripada awal Nak buat begitu Jadi bila Kementerian Ekonomi kata Secara ekonominya kita kena buat gini-gini-gini Jadi MOF dan Dato' Sri Anwar Ialah Menteri Kewangan Dia dengar perkawai-perkawai dia Yang dia pun tak tanya Actually lama mana kamu dah plan datang ni ni Dia tak tanya Dry run ni kamu kat mana? Bila? Dia tak tanya benda tu semua Jadi Akhirnya Bila PM ialah Menteri Kewangan Dan pegawai-pegawai MOM Semua ni Semua macam itu pandangan dia Campur pula dengan semua ahli politik yang lain Yang memang terkenal Tak berani ni kalau naik harga 20 sen kita kalah pilihan raya. Kita kalah pilihan raya kan. Jadilah begini dan Allah nak uji berlaku perang di Iran. Dan berlaku benda ini dan keseluruhan naratif yang cuba disampaikan oleh PM untuk nak masuk pilihan raya, saya berjaya menurunkan harga minyak, saya baik bagi banyak, hancur lebur sekarang. Sebab yang dikendong tak dapat, yang dikejar berceceran. Yang dikendong pasal harga minyak murah tu pun dah hancur lebur. Sekarang ini yang dikejar tak dapat sebab kena potong lagi soal kesihatan, soal pendidikan tinggi dan sebagainya lah. Aku amatlah bersyukur aku buat keputusan untuk walk out. Sebab akhirnya kalau contohnya kan, katakanlah aku masih lagi Menteri Ekonomi.
 
-[18:04] Sebab itu dia dah buat kerja dekat bandar.
+[2:01:30] Speaker 4: Menjawab.
 
-[18:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[2:01:31] Speaker 2: Semua ni aku kena jawab lah. Padahal yang decide-nya Amir Hamzah, Anwar Ibrahim, Johan Marikan yang decide semua. Tapi yang menjawabnya bila sampai sebab Kementerian Kewangan ialah Menteri Kewangan, OPM tak nak jawab ni, ini Menteri Ekonomi kena jawab. So sekarang aku jawab di podcast.
 
-[18:14] kau orang pun jahat kan?
+[2:01:48] Speaker 4: Okay, last question lah pasal, I think political decision lah pasal subsidi ni kan. Saya agak terkejut juga bila we cakap. Masing-masing dalam kabinet takut Unpopular decision ni akan menyebabkan mereka kalah peneraya Sebab kalau kita cakap pasal subsidi bersasar One of the party dalam PH Selain daripada PKR Adalah DAP Which is quite vocal Daripada dulu Tentang soal subsidi bersasar And they even ada dalam I would say Baker pun pernah berkempen Tentang soal kita punya manifesto Belum apa semua But now when They are in the cabinet Hmm Dia being silent and afraid about takut kalah pelan raya.
 
-[18:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[2:02:33] Speaker 2: Tak, DAP yang paling anti, selain daripada UMNO, yang paling vocal against subsidi bersasar ni ialah DAP lah. Yes, sir. Ada dua sebab lah. Satu ialah populism lah. Ngakoming contohnya jadi jurucakap berpanjangan lah dalam kabinet. Tak boleh orang marah semua kan. But dia ada juga sedikit latar belakang MOF. Oh ya Sebenarnya Sebelum Tebuk Atap Sheraton Move Sekarang ni Ketua Setiausaha Perbendaraan Johan Marikan Dia dulu Ialah Pengarah Pejabat Belanjawan Negara Semasa Lim Guan Eng Jadi Menteri Kewangan Jadi Yang Idea Sebenarnya Untuk menggunakan Kart Semua ni Banyaknya idea DAP Daripada zaman Guan Eng lagi Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Haa daripada zaman itu. Jadi dia benda tu kerajaan bertukar ganti sebab itu pegawai kerajaan ni pun you kena manage them properly kerana government comes and go. Tapi bila dia dah buat keputusan itu dia akan bila mari dia akan cuba mempengaruhi lah. Dan bila Perdana Menteri itu ialah Menteri Kewangan. Then dia ada battle yang besar kerana ini kehendak Perdana Menteri. Ini kehendak Perdana Menteri. DAP tak bercakap pasal subsidi bersasar dah. DAP takut kalah pilihan raya.
 
-[18:24] dan dia kata panas.
+[2:04:03] Speaker 4: Ya, sebab sekarang DAP very silent pasal subsidi and everything. Macam Samadna, Watakna dah.
 
-[18:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[2:04:09] Speaker 2: Tak, saya sebenarnya bukan anti-subsidi. I think that every single cent of duit kerajaan itu mesti pergi balik kepada rakyat. Tetapi tak bolehlah jadi populis. Kerana dia menghukum... Banyak pihak, satu sebenarnya dia menghukum keluarga miskin. Kerana duit yang sepatutnya dia dapat lebih, dia dapat kurang. Kerana orang yang tak patut dapat, dapat. So that one is to me, macam aku cakap lah, aku, Pa'an ni tak payahlah. Pa'an kau pergi jadi model balik lah, kau tak ada duit. Apa nama ni kan? So kita orang tak perlukan, we have to manage lah. Daripada ada tiga kereta, mungkin kita perlu ada dua kereta je. Contohnya kan, aircon kalau kita buka tiap-tiap hari 24 jam. Lepas tu, masa pergi orang kerja, you tutup lah aircon tu. bazir kan. So orang miskin tak dapat kan yang sepatutnya mereka dapat. But the bigger problem yang I have, dia ni yang mungkin orang Orang menyampah kat aku lah. Orang akan kata, ini ayat-ayat Maria W. Chaplos ni, dia ingat dia seorang je betul. Dia ingat dia seorang je baik. No, because kita ada responsibility to the younger generation. Betul. I have a responsibility to you guys. Yang menghadap kita orang nanti. Yang menghadap korang nanti. But of course lah, aku sebenarnya, kalau aku tak buat ni, aku hidup senang lah. But you know, to think that, 10 tahun lagi, bila production kita tinggal 100 ribu barrel setahun, kita import mungkin 80% Kita tak ada candah untuk kawal subsidi minyak semua ni. And kita dah tak ada duit untuk melabur dalam public transport, dalam semua macam tu kan. Then we become Sri Lanka semualah yang bergantung kepada import minyak 100 peratus. Naik melonjak sikit, tak ada minyak. Jam. Naik melonjak sikit, tak ada jam. So we have a responsibility bukan sahaja untuk menang kali ini, but in the future. And I always believe that Menangkanlah pilihan raya itu kuasa Allah It's actually not ours Our job Is buat amanah itu sebaik yang mungkin Sebab tu orang menyampah kat aku Faham. Haa. Orang kata. Haa. Tengok dia cakap. Dia. Orang kata holier than thou. Macam dia je betul. Haa. It's not. Don't blame me. Kalau aku ada pandangan. Yang agak. Pelik. Daripada orang lain. Kan. So maybe orang cik makan. Maybe is lah. Haa. Orang-orang nak cik makan. Orang-orang nak potong. Haa. Kan. Jadi. Sekarang ni. Kita hanya boleh tengok lah. Dan kita berdoa lah. Supaya. apa-apa yang dipotong daripada perkhidmatan kesihatan pendidikan tinggi berapa banyak duit yang diambil daripada Petronas dia tidaklah sampai ada kesan mendadak lah. Tapi kepada Petronas, kesan untuk jangka masa panjang yang korang akan tanggung is there. Ya, betul.
 
-[18:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[2:07:15] Speaker 1: So, Fahmi, kita move kepada next. Dah 2 jam 6 minit. Okay. Kita ada berapa lagi? Kita ada 2 saja lagi. So, berkaitan dengan siapa menang di sosial media? PHBN atau PN? So, ini ringkas simple untuk kita jelaskan macam mana peranan di sosial media sebagai platform utama untuk semua parti politik sekarang. Untuk pendengar yang guna Spotify Yang tak dengar audio Saya jelaskan secara khas Saya belajar daripada kesilapan So jom soalan saya kepada YB tu YB Atau PN BH Dengan BN Tak tahulah parti sabar-sabar kita tak setuju lah. Ni call lah kan. Abang rasa adakah BM mendahului dalam sosial media?
 
-[19:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[2:08:02] Speaker 2: Actually kalau siapa-siapa ada jawapan tu dia menang lah pilihan raya. Actually kita tidak ada sebarang report yang konklusif pun Yang boleh meletakkan siapa berada di depan lah Dan soal perang Madsauce ni, budak-budak, socials lah. Aku nak panggil social media, media social dia panjang lah. Aku panggil socials. Okay.
 
-[19:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[2:08:30] Speaker 1: Boleh, boleh.
 
-[19:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[2:08:31] Speaker 2: You know, the problem with, bukan the problem, keunikan socials platform ni ialah... Anda hanya akan tahu apabila terlambat. Jadi dalam konteks politik maksudnya kita hanya tahu siapa PH yang menang ke BN ke PN tu selepas keputusan pilihan raya. By that time it's too late already kan. Jadi sebab itu yang kita perlu perhatikan you know. ialah adakah strategi yang digunakan itu betul? Adakah maksudnya mereka yang bertanggungjawab untuk menyampaikan maklumat agensi-agensi ini, kumpulan-kumpulan ini, juru kempen adakah mereka betul-betul faham macam mana sosial seni berfungsi? Kemudian yang ketiga ialah kita boleh tengok trend dan juga indicator yang ada sekarang ini untuk kita predict yang mana akan masuk gaung nanti dalam sosial kearah pilihan raya akan datang. Jadi sebab itu first and foremost. Tak tahulah Fahmi ni kan kalau dalam kabinet ni dia memang menteri social media lah. Orang cerita pasal dasar semua ni dia cerita pasal posting social media. Aku kata-kata macam, ya Allah malunya lah parti aku. Tapi tak boleh buat apalah dia kesayangan Dato' Sri Anwar kan tak boleh buat apa. Most of the time, saya rasa bukan sahaja ahli politik tau, yang menteri yang ahli politik ni faham lah, dia mungkin tak faham secara mendalam. Tapi orang-orang yang diberi tanggungjawab ni, baik daripada chaplers, baik daripada pakar-pakar strategi, parti-parti, strategic communication advisor, Bagaimana sosial berfungsi? Konsepnya bagaimana kan? And to make matters worse, pimpinan pula selalunya baik dalam PH, baik dalam BN, terutamanya di dalam PN dah. Yang dalam PN ni, dia selalunya dalam bubble penyokong mereka sendiri. Sure see. Dalam bubble. Sebab social media ni memang bubble and for that we have to understand the concept kan. Social media ni, dia bergerak... Dia dibina atas satu konsep yang paling mudah Nama dia network effect Dalam bahasa Melayu, network effect ialah kesan rangkaian. What does it mean as network effect ni?
 
-[19:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[2:11:18] Speaker 1: Ini kali pertama saya dengar.
 
-[19:44] beriaMat, beria, beria, beria jadi. So awal-awal lagi kita dah ada cerita beria Mat. Okey. Alright, okey. Terus kepada beria Mat. Okey, okey, kita teruskan kepada E nanti jam. Kita tak mengucapkan selamat hari pekerja. 1 Mei, selamat hari pekerja. Baik, bekerja kepada semua semua. Baik, bekerja kepada semua. Kecuali yang masih bekerja.
+[2:11:21] Speaker 2: Jujur saya jujur Ini first time saya Susah bayar buat Buat podcast layar Semua I mean Anyone who wants to To understand Penyampaian maklumat Di zaman ini Di zaman digital Mesti faham Konsep yang paling mudah Which is Network effect Okey What is the anyway effect? Kesan nangkayan
 
-[20:47] So, AB Terima kasih SPROM tak bekerja ni gua tak atas pasal-pasal aku kena tak ada podcast malam ni kan.
+[2:11:45] Speaker 4: means like kita punya content tu satu reachable ke tak build the algorithm ke tak
 
-[20:19] Awal di atas. So, hari ini kita jumpa tokoh paling besar tahu. Banyak cerita. Adakah ini penampalan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulanlah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni.
+[2:11:51] Speaker 2: kata no itu dah itu dah keterangan peringkat keempat kelima ke enam dah Wow Hmm Niche I tell her dia niche Tak it's not niche Network effect Maksudnya Bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi. Itu yang akhirnya jadi kononnya viral tak viral sebenarnya I mean the academic term for virality is network effect Dan network effect ni bukan untuk social media sahaja tau Dia termasuklah apa nama ni perniagaan, apps Everything is all about network effect Jadi for that you really need to understand about orang itu So network effect kan Maksudnya begini, kalau ada sesuatu kandungan, kalau dalam konteks sosial, kalau ada sesuatu kandungan orang suka, orang akan kongsi. Then you can ask the next few questions. Satu ialah kandungan yang macam mana yang orang suka. Kemudian, bila dia soal network, network effect, you as a person, you have to ask the next question. Actually, what kind of network do I have? Because kalau rangkaian network saya itu ialah jenis kepala macam aku semua, then dia jadi bubble.
 
-[20:37] Mungkin tak tahu, mungkin dilantik senator? Mungkin.
+[2:13:17] Speaker 1: Okay.
 
-[20:39] Oh.
+[2:13:17] Speaker 2: Especially for politics. Then, barulah soalan ketiga ialah sebenarnya knowing about content and network, then... That's how sebenarnya platform-platform ini membina algoritm And different platform has different algorithm Okay, now Sebenarnya di Malaysia... Sebelum kita nak sampai ni lah Ni masalah dengan aku Aku kena cerita satu-satu Semua dulu seorang yang faham Then you truly Because okay This goes back to school Aku pemalas kat sekolah lah Aku memang bukan jenis yang study malam, revision semua. My rule quite simple. Masa cikgu ajar, belajar, faham betul-betul supaya lepas tu tak payah baca dah. Once you understand, you understand it forever. Masa lebih tu kau pergi main. That's how I went through school lah. So sama juga macam benda-benda nak faham ni. Dia jangan ambil shortcut faham betul-betul dalam-dalam because after that you tak payah baca dah kan. Okay now. Sebenarnya di Malaysia Platform apa yang paling Paling berpengaruh ni Whatsapp
 
-[20:40] Haramnya tidaklah kan. Ni yang mana ni?
+[2:14:26] Speaker 3: Facebook
 
-[20:45] Ini waktu demo itu, wartawan tanya dia tak pergi demo ke?
+[2:14:29] Speaker 2: Okay Whatsapp Tolak tepi dululah Sebab banyak kandungan Daripada Whatsapp tu Sebenarnya datang Daripada platform-platform ni First Facebook By far Facebook Pengguna Facebook ada lebih kurang berapa? 26-27 juta Di Malaysia So by far is Facebook Nombor 2 Saya fikir itu adalah perkara yang paling penting Facebook dari segi age profile Dia lebih menyeluruh Dia merentasi kaum Merentasi semua Apa nama ni Umur TikTok lebih Cenderung kepada orang muda Gen Z Tapi TikTok pun dah Lebih 20 million plus dah So TikTok Ketiga Instagram? Hmm, tidak. Tidak, tidak,
 
-[20:49] Dia kata dia tak dijemput.
+[2:15:14] Speaker 1: tidak. Tweet itu? Tidak.
 
-[20:52] Kenapa muka dia macam Jamal Abdilah?
+[2:15:17] Speaker 2: Ya. Ketiga is actually YouTube Cuma orang tak pandang sangat YouTube ni sebagai social media kan. Kemudian jauh di bawah daripada top 3 ni, jauh di bawah sebenarnya Twitter dengan Instagram. Threat sangat rendah di bawah. In fact, threat dia tak sampai ke peringkat yang dia perlu dilesenkan pun lagi. Untuk dilesenkan, you perlu ada 8 juta pengguna. Threat tak masuk, threat lebih kurang 3 juta, 3 ke 4 juta. Kan? Okay now. So there you have to. Ini kita bagi kelas percuma kepada J-Kong. Okay, hutunglah J-Kong. Ada sebab kenapa aku sebut ni kan? Kepada penonton nanti. Kepada penonton nanti. So these are the three. Facebook, TikTok dengan YouTube. Kemudian quite di bawah itu, Instagram dengan Twitter kan? Dan daripada lima ini, setiap satu itu ada fungsi yang berlainan sebenarnya. Saya boleh lihat. penonton coming back to network effect network effect dia tu lebih wide Dia sebenarnya lebih kepada semua orang, lebih kepada semua umur. TikTok lebih kepada Gen Z Dan Sebab itu kandungan dia berlainan Style berlainan semualah YouTube sebenarnya Arguably Is as important or more important Than TikTok Sebab
 
-[20:54] Ha itu Fahan nak tanya.
+[2:16:52] Speaker 4: Sebab YouTube boleh reachable to various of age
 
-[20:57] Saya minta dia share skin care routine dia. Skin care routine dia. Mhm. Nampak putih. Nampak beza lama. Nampak beza. Kau orang dah selalu kutut mata dia merah, terus dia pakai shade.
+[2:16:57] Speaker 2: Satu Tapi Sebab Youtube Ada Conversion Yang lebih tinggi Conversion ni maksudnya Macam mana nak Meyakinkan Okay. Okay, TikTok sebab dia pendek tau. Ya. Haa, kan. So, TikTok kepada Atas Pagar, not as influential as YouTube kepada Atas Pagar. Kerana orang yang dah buat keputusan, dia dah buat keputusan. Kau cakap macam mana pun kan. Tapi orang yang nak buat keputusan, dia suka mencari maklumat, dia nak faham semua. Those usually lebih cenderung kepada YouTube. Kerana dia dapat penerangan, dia nak belajar semua kan. That's why kita punya YouTube is very long podcast. Sampai 3-4 jam. Because it's targeted for people like that kan. Erm... Twitter Twitter tak ramai mana tau X lah X tak seramai yang top 3 itulah Tapi kenapa X tetap begitu penting
 
-[21:10] So, hari ni tak nampak mata dah. Tapi dia bergayut tahu. Hm. Tak ada, ni apa dia? Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan sebab Ni sebab apa orang tanya dia, dia join demo ke tidak? Itu satu.
+[2:17:58] Speaker 3: Hmm voter base Pakatan Harapan dekat sana
 
-[21:24] Lepas tu, dia kan dah nak bersara. Lepas tu, wartawan tanyalah.
+[2:18:03] Speaker 2: no even tolak voter base Pakatan Harapan lah nampak gaya bukan dah jadi voter base Pakatan Harapan lah tempat slam Pakatan Harapan lah PH dunia yang kena kat X sekarang ni kan why is X more important sorry why is
 
-[21:29] Apa ni Azan Baki lepas ni, lepas dah bersara apa dia nak buat kan? Dia kata dia jawab, awam, dia tugas berkhidmat untuk negara, tanyalah. Tapi saya takkan berhimpun di hadapan Sogo lah.
+[2:18:19] Speaker 3: X is as important dia intellectual discourse sometimes happens tempat luar
 
-[21:40] Terus macam dia pilihlah.
+[2:18:24] Speaker 1: kuasa kan
 
-[21:42] Okey. Orang tak jemput dia tiba-tiba nak datang. Ini luka dalam ni, luka dalam kan. Selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[2:18:27] Speaker 2: I wouldn't necessarily say that it's intellectual. Tak ada benda dekat Twitter tu, dekat X tu kadang-kadang tak, tak, tak. Apa nama ni? Tak. Tak intellectual. Haa, tak. It's basically, it's the strongest in advocacy. So selalunya X ni menjadi agenda setting X is agenda setting politically So selalunya isu itu Meletup juga dekat X Ingat dulu kerajaan gagal Kerajaan gagal kan Sebenarnya X ni Banyaknya Ialah pengundi PH pun Pengundi bandar Semua kan Tapi Dia boleh meletup Dan dia mula merebak Ke tempat lain Sebabnya Ialah pengguna X ni Precisely lebih urban Lebih educated And therefore Lebih opinionated And therefore a lot of advocacy berlaku di X berbanding contohnya Facebook. So Facebook ni lebih banyak orang berkongsi cerita, memasak semua kan. Katakanlah ada 28 juta tu kan yang betul-betul opinionated ataupun yang use Facebook 100% for political news mungkin 20% je. 50% yang lain tu ialah untuk urusan keluarga, gambar, semuanya kan. Tapi dekat X is higher percentage that political and social advocacy actually happens dekat X kan. Jadi X is also important. Cuma Instagram lah, Instagram sebenarnya dia almost like a double to kepada Facebook dan dia lebih specific kepada millennial sebenarnya, urban millennial.
 
-[22:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[2:20:11] Speaker 4: Tapi dia tak reachable.
 
-[22:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[2:20:13] Speaker 2: Dia punya rich tak setinggi mana lah. Tapi you know that's particular segment of wanita, female, urban, millennials. Memang banyak dominant dekat Instagram. Then you know All that semua Then baru kita boleh Kita ada lebih kurang Okay lah Boleh bercakap 10 minit lagi On this kan Then we ask the strategy kan Based on that kan Kita kembali kepada dua perkara yang soalan layer kedua yang saya tanya kan. Soalan pertama ialah network effect. Then the next layer is that network effect is a function of content and it's a function of network kan. Then we can go back to that knowing and... So berdasarkan yang itu, apa strategi yang digunakan oleh kerajaan sekarang untuk tackle kandungan dan juga network? Dan berbanding juga dengan bagaimana PH buat, BN buat dan PN buat.
 
-[22:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[2:21:17] Speaker 1: Oh Dia potong lah Dia hapuskan content Yang dia rasa tak Mosa dia That's one lah Sensor shape Lagi Kejap lagi easy lah Satu lagi Mereka guna Oh,
 
-[22:54] Saya memang turut.
+[2:21:29] Speaker 2: ya. Itu masalah besar komunikasi kerajaan sekarang. Chaplose. Actually kalau you tengok dekat Terutamanya X kan Hmm Boleh tengok macam mana attitude kepada Dato' Sri Anwar dan Madani ni sebenarnya bertukar dalam tempoh 7-8 bulan yang lepas. Banyaknya dipengaruhi oleh Chaplos. Ya, betul. Dia kalau ingat selepas pemilihan PKR 2025 Mei kan sebenarnya pandangan kepada Dato' Sri Anwar tu masih lagi okey lah. Masih lagi orang masih lagi okey kan. Dia mula menjadi semakin ketara tu atas dua sebab. satu overkill attack terhadap saya oleh Chaplose-Chaplose ini keduanya ialah overkill defense of PKR, PH dan Dato' Sri Anwar yang dilihat sebagai ini dah menjilat tak gila ni kan jadi macam payah besar macam tu macam payah besar lah macam payah besar semualah jadi sebenarnya Bila Sebab tu It's a question of Content Dan juga network kan Bila content itu Dah terlampau begitu Dia mula akan Backfire Kepada Kerajaan Kerana Orang hantar pagar Ataupun even penyokong PH Pernah rasa I'm so put off By this lah Rasa annoying Rasa macam toxic sangat lah Toxic sangat Kemudian Yang kedua Pasal network Sama jugalah Okay JCOM ke You know Fahmi ke Ataupun Geng-geng Chappelaw Cybertrooper Yang-yang yang digunakan kan, Malaysia kini pun dah tulis lah pasal cyber trooper ni kan saya ingat the core cyber trooper mungkin ada 100 orang kemudian cyber trooper-cyber trooper lain yang AMK lah itulah yang ni ni mungkin ada 200 orang kan so all in all is 300 orang lah cuma caranya mungkin 300 orang ni setiap seorang mungkin ada 20 account, 30 account dan tu follower ada 2, 3, 2, 3, 2, 3 je kan. Jadi dia add sesama sendiri. Now how does that effect, network effect?
 
-[22:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[2:24:07] Speaker 4: Kau habis lupa satu tadi Kau habis lupa satu Follow of Vietnam
 
-[23:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[2:24:13] Speaker 2: Follow of Vietnam Itu tambah lagi kalau follow of Vietnam How does that Hmm Bagaimana keadaan itu sebenarnya cukup bertentangan dengan tonggak Platform sosial Yang mana Anda mesti mempunyai efek jaringan Dia jadi fit lah Maksudnya, walaupun you nampak kasar, hebat, share 100, 200 kan, actually dia pergi kepada 200 orang itu sahaja. It doesn't go to other people.
 
-[23:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[2:24:47] Speaker 4: Maksudnya, dia
 
-[23:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[2:24:47] Speaker 2: orang ni
 
-[23:23] Boleh.
+[2:24:48] Speaker 4: short
 
-[23:24] Seterusnya.
+[2:24:48] Speaker 2: sendiri
 
-[23:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[2:24:48] Speaker 4: and
 
-[23:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[2:24:48] Speaker 2: pushing dalam circle. Network effect tu sebab itu, network effect. Network is very important. You may have, contohnya kan, follower 40,000 orang. Tapi kalau follower tu semua jenis macam kau, you don't influence politik dia. Kerana dia dalam bubble itu. So katakanlah ambil Vietnam contohnya kan. Vietnam ini mungkin ada 100,000 akaun. 100,000 akaun itu bersamaan dengan 100 mobile phone yang disambung-sambung-sambung dikawal oleh 3 orang. Actually the network effect is kepada 3 orang itu sahaja. It doesn't go to other people. So by sia-sia lah kerja. Yalah kerja sia-sia lah.
 
-[23:51] Pas.
+[2:25:27] Speaker 4: Sebab tu kalau saya tambah YB, macam JCOM, dia orang ada buat podcast apa, Tok Abah Podcast kan. And even Selangor ada buat Pins Podcast tau. Dan dia punya komen Satu, dua Lepas tu bila dah kena tegur sikit Comment up sikit lah Tiga orang, empat orang Like pun sikit Sebab dia pusing dalam seke bubble
 
-[23:52] So, sekarang ni dia tengah buat job hunting.
+[2:25:48] Speaker 2: dia
 
-[23:55] job hunting job.
+[2:25:48] Speaker 4: Dia akan
 
-[23:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[2:25:48] Speaker 2: pusing dalam bubble yang sama kan Okay Based from that perspective, so maksudnya apa yang dibuat oleh JCOM, oleh Fahmi Fazil sekarang ni dengan menggunakan beberapa orang, kepala-kepala, chaplor semua ni, memang menghabiskan duit. Dia orang kaya raya, kereta besar, gaji besar semua. Dan sebab tu you boleh nampak kesan dia di social media sekarang Kenapa it's very negative towards Zatul Sri Anwar Dan juga kepada towards PH Now, bila benda tu dah jadi Apa tindak balas mereka? Recovery action dia lah Recovery, maksudnya apa dia? Apa? You can see that clearly dekat MyFacebook. Dekat Twitter, dekat X dia tak boleh buat sebab lunyai dia kena. Sebab X is overwhelmingly anti-chap loss and anti-PH. So dia ada sedikit peluang dekat Facebook. So I've studied the last 3 weeks of my Facebook tau. Comment semua. Okay apa yang dia buat kat
 
-[24:04] Sebab itu dia dah buat kerja dekat bandar.
+[2:26:49] Speaker 1: Facebook aku? Dia
 
-[24:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[2:26:50] Speaker 2: comment. Dia gunakan fake account ini untuk comment cepat-cepat and then sama-sama like semua supaya dia naik di atas. Dengan harapan untuk menunjukkan bahawa sebenarnya Rafizi ni tak ada orang sokong lah ataupun dia ni dah tak popular ke tak ada sokongan. Now adakah benda itu betul-betul akan ada kesan ataupun tidak? Tak, orang akan rasa menyampah. Itu satu, orang ada menyampah, okay. But, aku selalunya tak fikir pasal pandangan orang tu. Because that is very subjective. I don't know what is in people's head. So, mungkin sebab aku dilatih sebagai engineer lah kan. So, everything I check on metrics kan. So, dia hanya ada kesan, maksudnya benda itu berkesan kalau reach dan engagement setiap posting itu turun mendadak. It's not. Dia tak turun mendadak. So the reach maksudnya kalau setiap... My monthly reach lah untuk my Facebook is between 8 to 15 million per month. Dia tak turun. Lebih kurang macam itulah. Kalau tak ada isu tu dia mungkin 8. Kalau ada isu sikit dia 15 million per month. So dia tak ada kan. So... Sebab itu you kena tengok Likes Even orang kata Tengok dia kena bantai Dekat dia punya Facebook sendiri kan Itu yang selalunya Orang PN Duduk kat bubble dia sendiri Dia ingat Dengan hanya pergi maki Dia tak suka Dia pergi maki semua Itu maksudnya memang social media dah betul lah. Actually yang penting ialah the silent majority. Oh okay. The silent majority, let me ask you this. Silent majority ni jenis komen ke? Tak. Dia tak komen.
 
-[24:14] kau orang pun jahat kan?
+[2:28:44] Speaker 4: Dia observe.
 
-[24:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[2:28:45] Speaker 2: The most dia akan buat apa dia?
 
-[24:24] dan dia kata panas.
+[2:28:46] Speaker 4: Dia akan observe, tengok. Okay observe tu satu but
 
-[24:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[2:28:49] Speaker 2: the
 
-[24:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[2:28:49] Speaker 4: most dia like. Dia like.
 
-[25:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[2:28:51] Speaker 2: Yang penyokong kuat akan share. So therefore... It's not necessary. In fact, komen tu sebenarnya bila chat loss ni, then aku dah test 2-3 tau. That's why kau pernah notice, aku pernah post out of nowhere dalam pukul 4, pukul 5 ke apa. Because chat loss ni ikut timing. Dia kerja. Oh, okay. Kalau kau post certain time, dia masuk kan. Lepas tu aku rasa dia pergi tidur ke, dia pergi makan. So, aku pernah post pukul 3 ke apa. Just nak tengok kan. Memang komen tu tak ada chat loss langsung. Maksudnya dia tengah berehat kan Okay now Um Yang satu benda yang dia orang tak tahu ialah bila dia komen banyak, actually algorithm will see it sebagai engagement dia tinggi. Then they will show to more people. Dan orang akan lebih banyak. PAP kan? PAP akan tengok lebih lah kan. Walaupun network dia, efek dia sama dia tu tak ada kesan sangat. Tapi that posting sebenarnya ada engagement yang lebih tinggi. Yang paling penting untuk Facebook sebenarnya ialah to me lah, dan berkongsi. Sebab itu, you may see komen Chaplos ni maki hamun berkarung-karung. And you know there are Chaplos dan komen Cyber Trooper. Sebab yang disebut itu confirm kepada naratif yang dah nak sampaikan. So in my case, naratif dia tu dua tiga sahaja. Ini merajuk, menteri gagal. Cetong. Cetong, cetong. Cetong, semua kan. Nyet-nyet-nyet-nyet kan. Ha. You know semua komen daripada 4, 5, 6 bulan lepas Benda yang sama kononnya benda tu akan dekat Then dia tak faham juga By doing that automatically singling out all this Sebenarnya sebagai Coordinated inauthentic behavior Then you tahulah dia buat macam mana kan But yang penting it's not necessarily the comment Yang penting is actually likes dengan share Sebab itu you notice Kebanyakannya likes tu jauh lebih tinggi daripada komen. Sebab the silent majority actually akan just like And share You can tell kalau bila pergi tengok kepada Posting-posting pimpinan PA Share dia sangat rendah Betul Haa They might like nampak tinggi, komen banyak kan, tapi share sangat rendah. So then you get the feeling that a lot of this is coordinated. A lot of this are basically cyber truth. Kalau pergi tengok Datuk Sri Zahid Hamidi punya Facebook, selalunya dia punya consistent tau, dia punya like semua kan, tapi share dia agak rendah. So all this maksudnya malangnya, I would have expected Orang-orang yang strategic communication Semua ni Understand all this Then design it Itu yang nak menjawab Yang kau nak tanya tadilah Kenapa contohnya JCOM semua ni ada RTM semua bernama tak semua yang kita ada UKK ni nampaknya kurang berkesan. It's because of the lack of understanding sebenarnya of how socials work lah. And that is also applicable kepada PN dan BN. Ambil contoh, I went through this zaman 2022. So we come back, aku balik bersara, semua orang takut kepada Facebook Najib macam tu. Memang viral gila, takut gila, tak ada orang berani nak sentuh kan, top kan. So tengoknya memang membimbangkan lah 30,000 like semua ni kan. So, I work with my data scientist team lah. So, tu lah kata, okay, okay, let's see sebenarnya what exactly this 30,000 likes, semua ni means lah kepada sokongan rakyat kan. Now, that comes back kepada soal network effect. Apa beza contohnya ya? 30,000 light yang mana 30,000 itu datang daripada seluruh negara yang setiap kumpulan ada, tua ada, Melayu ada, Cina ada, Kedah ada, Kelantan ada. Semua itu light-light-light 30,000 berbeza dengan 30,000 light juga tapi daripada kota baru sahaja. Beza kepada kesan undi
 
-[25:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[2:33:29] Speaker 4: Beza pada kesan mudi Haa Kalau dekat Kota Baru tu sahaja, dia hanya mempengaruhi kawasan tu je lah. Kan?
 
-[25:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[2:33:36] Speaker 2: Okay.
 
-[25:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[2:33:37] Speaker 4: But then, the
 
-[25:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[2:33:39] Speaker 2: narrative tak stay. Dia ada dua component tu kan. Satu is the network effect. So ambil contohnya posting-posting Najib kan. Posting Najib dululah, walaupun engagement like dia tinggi, tapi dia datang daripada profil demografi dan serata yang lebih kurang sama. Maksudnya Melayu Banyaknya pantai timur Itu adalah kawasan-kawasan Yang memang UMNO dah menang Marilah 30 ribu pun Dia takkan sampai Dan ada kesan And it's a network effect Kerana Yang duk like semua tu Ialah memang penyokong UMNO pun Dan Kumpulan dia Memang kumpulan UMNO pun Jadi akhirnya Kehebatan kemarahan tu Walaupun dia setia kat Najib UMNO semua Dia tak boleh Ada kesan untuk swing Kepandangan politik So Tapi di mata orang kata Oh ni hebat ni kan Sama juga yang berlaku dengan banyak pimpinan PAS. Pimpinan PAS memang dari segi sosial dia, ada yang traction tinggi semua kan. Tapi dia berlegar di kawasan ataupun di kalangan pengundi-pengundi yang memang macam itu. And therefore, sebab itu dia sampai ke sudah tak dapat ubah pengundi bukan Melayu. Because hardly any pengundi bukan Melayu yang ada kesan sebab dia tak ada that network effect. So you want to ask? Yes. Simplification. How nak lari daripada... Okay. That's why it goes back to... Itu yang aku tanya tadi kan. Berbeza RM30,000 daripada kota baru saja light dengan RM30,000 tapi daripada seluruh negara ada. Kerana yang bila seluruh negara ada, China ada, Melayu ada, yang muda ada, yang tua ada, each one of them has their network effect. So dia punya spread itu jauh lebih tinggi kepada kepada yang RM30,000 itu tetapi kepada golongan serata yang sama. How to do that? Precisely kembali kepada soal kandungan.
 
-[26:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[2:35:50] Speaker 1: Bukan both. Bukan you buy your apps ke. Dia
 
-[26:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[2:35:52] Speaker 2: tak.
 
-[26:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[2:35:54] Speaker 1: You set demografi everything.
 
-[26:54] Saya memang turut.
+[2:35:56] Speaker 2: No. In fact. Kalau you boost dengan Facebook. You buy your meta. Untuk serve kepada lebih banyak orang. Kalau memang kandungan itu. Tidak appealing Tak menarik You end up Bayar mahal gila And dia tak reach pun You may end up Habis 200 ribu Tapi akhirnya Yang duk click pun Jenis macam itu juga And then he keep serving To the same person To the same group of people So rich maybe lah kata Oh I pay this Saya dapat 10,000 rich But that 10,000 rich Actually is the same Type of people Yang Yang within your network bubble Kan So Akhirnya dia kembali Kepada Kandungan Sebab itu, kalau contohnya pimpinan-pimpinan PH, kalau strategi kandungannya ialah mengagung-agungkan Datuk Seri Anwar dalam keadaan yang kita tahu he is not exactly popular now. maka anda akan mempunyai cabaran yang cukup besar di media sosial. Kalau contohnya kandungan-kandungan itu ialah berbentuk cara lama kerajaan menyampaikan maklumat. Kenyataan media panjang. Hari ini saya berpeluang untuk merasmikan satu mesyuarat. Then you cari pasal. Sebab kandungan itu orang cakap, eh ini style Pakcik-Pakcik, ini cerita mesyuarat. Orang skip. Semua gambar-gambar sama Duduk mempenguruskan mesyuarat Beratus-ratus gambar mempenguruskan mesyuarat Kan People want to know And kita pernah dalam podcast yang lepas Bincang tentang Gen Z punya content macam mana They want to know Livable experience They want to relate So it's all about kandungan Dan kandungan itulah akhirnya yang Ahli-ahli politik kena pilih Sebab itu it has to be substance over form Because you tak boleh menang semua. Kita tak boleh jadi sadik-sadik. Contohnya. Kita tak ada bela. So, aku ada bela kucing. So, we cannot be. Kita tak boleh nak jadi ustaz agama. Kan So You must therefore Dari segi Social media ni Akhirnya Sesuatu isu yang kita pilih ataupun kita nak bawa itu mestilah isu yang ada common denominator dengan seberapa ramai orang. as possible. That's number one kan. Dan yang kedua, sebenarnya over time orang akan perhatikan kau. Dia akan decide sama ada kau ni fake ke kau ni kaki tujuh muka ke, cringy ke or you are authentic ke. I think once you reach that situation then hopefully lah more and more people will follow you. Dan yang paling penting ialah orang yang follow itu, orang reach itu ialah the type of people yang memang mewakili sebahagian besar serata rakyat Malaysia, Melayu, Cina, India, Muda, Tua, Bandar semua. Dan baru network effect itu jadi besar. One content dia pergi kepada bukan saja lebih ramai orang tetapi kepada kelompok-kelompok yang berbeza dalam masyarakat.
 
-[26:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[2:39:22] Speaker 4: Okay, WB Saya tanya soalan sikit lah Satu Debug more on Political point jugalah Err Kalau dulu semasa kita jadi pembangkang... pada pandangan saya lah social media PH or even PKR as a party Dari segi kekuatan sosial, saya akan katakan ia cukup kuat. Kita boleh mempercayai orang untuk mengikuti kita. Terutamanya pengguna atas pagar. Dengan cara kita yang tidak sama dengan apa yang kita buat sekarang. Kita tidak ada cap plus apa-apa. Tetapi sekarang, apabila kita menjadi kerajaan, di saat kita berjaya dengan satu strategi, apabila kita menjadi kerajaan, kita mengikuti strategi yang BN buat di 2018 itu dan tombang. Tak faham cakap rasa apa kebanggang sangat korang ni.
 
-[27:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[2:40:10] Speaker 3: Untuk pendengar Spotify YB Rafizi Menunjukkan
 
-[27:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[2:40:15] Speaker 4: Itu tanggungjawab dia Dan no one Tegur benda ni dalam Even syarat PKR ke Kabinet ke I suppose
 
-[27:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[2:40:24] Speaker 2: Dia beginilah kan Bercorak kabinet ni Di peringkat kerajaan Haa Kira supremo komunikasi Ini Fahmi lah So Itu tanggungjawab dia kan Dan kita ada portfolio masing-masing dan walaupun menteri itu dari segi kekananan politiknya berbeza-beza saya lebih kanan, senior ke apa kita tak boleh nak tegur masing-masing menteri aku kan menteri juga, kau siapa? dia tak pernah jumpa YB untuk belajar? tak ada, that's coming to the second thing
 
-[27:23] Boleh.
+[2:41:02] Speaker 4: dalam
 
-[27:24] Seterusnya.
+[2:41:02] Speaker 2: parti dalam parti pula kan, dalam parti masalahnya ialah Banyak yang muda-muda ni dia memang melihat segala-galanya daripada lensa politik. Dia bukan aku tak sokong dia maka aku tak belajar dengan dia. Nasib pula kan. Jadi masalahnya ialah bila dah jadi kerajaan tu dia ambil jalan pintas. Sebab untuk kita... And if you look at... Sebelum 2018... Sampai sekarang kan... Sebenarnya PKR dan PH ini ialah parti yang dibina berdasarkan isu. Dia bukan parti personality Dia parti isu Kenapa kandungan kita Orang baca semua Kerana dia memberi pencerahan Baik soal Anti rasuah ke Baik soal dasar ke Dia sebenarnya ada substance dia bukan soal slogan atau retori dia sebenarnya ada sesuatu dan kita bentangkan hujah kemudian ada bukti ada fakta kan benda tu penat nak buat Benda tu kena baca, kena cek Kandungan saya sampai hari ni saya buat sendiri So tak ada cheplos-cheplos yang nak buat kandungan aku ni Semua aku buat sendiri And the reason being is to me That's part and parcel of what it takes to menyampaikan maklumat Dan I learn something new I share with other people It's out of my curiosity juga I needed to know something new semua kan But berapa ramai orang yang join politik tu Bila dia dah jadi menteri semua tu nak buat Dia don't Sebab aku menteri Dia dah belagak lah Dah ada tim bayar Orang duk ikut semua kan Jadi Dia merendahkan Betapa pentingnya Setiap kandungan itu Dia melihat Setiap satu kandungan Itu hanyalah Sebagai social media post I don't I look every Of my content semua Kau boleh tanya Pak An Salah sikit Kena marking aku berabuk I actually check Every single thing Sebabnya ialah benda yang paling penting dengan rakyat ialah komunikasi kita and it's actually social media. It's what I am to the eyes of the public. What I say, gambar aku, gambar aku tak bising lah kan. Tapi kalau selalunya salah fakta ke memang aku check every single, I wrote still every single thing kan. Dia orang bila dah jadi menteri semua Dan dia tak pernah buat benda tu Masa dulu, masa 2017-18 yang duk kempen, yang duk bawa isu, yang duk study ni berapa kerat je. Tapi dia mendapat laba daripada gelombang itu. And they never build that discipline. Jadi bila jadi kerajaan, dia ambil jalan mudah lah menggunakan kaedah dan struktur yang sama yang macam BN guna dulu lah. Itu yang jadi cheplos-cheplos semua yang sekarang ni berterabur dekat social media lah.
 
-[27:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[2:44:10] Speaker 4: Satu lagi baby, saya tengok. Saya tak nak sebut nama lah Tapi A few person dalam JCOM Is still the same person Zaman Najib Zaman Muhyiddin And Zaman Madani Aku
 
-[27:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[2:44:20] Speaker 2: tak tahu Aku tak kenal
 
-[27:51] Pas.
+[2:44:22] Speaker 4: dia I don't want to spill their name lah Even ada seorang tu Memang jawab Dia memang ceplos Even dalam PKR pun But Previously Masa Zaman Muhyiddin Dia adalah pegawai JCOM Yang quite Senior Officer jugak lah So means like For me Kau dah tahu masa zaman dulu orang yang ada dalam JCOM ni is not functioning well you maintain the same person bayar gaji with our tax payment ni for what Untuk Fahmi lah For me that's why The biggest Saya kata macam Sayang lah Because kita boleh Turn all this Government punya Machinery ni Sekurang-kurangnya
 
-[27:52] So, sekarang ni dia tengah buat job hunting.
+[2:45:02] Speaker 2: Sebenarnya saya tak setuju dengan itu Untuk menggunakan pemerintah sendiri. In fact, ini cerita yang pasal nak potong 10 bilion. 10 bilion, 10 bilion, suruh potong kesihatan semua. Aku benda pertama perlu potong, bubarkan JCOM.
 
-[27:55] job hunting job.
+[2:45:19] Speaker 4: Ya.
 
-[27:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[2:45:19] Speaker 2: Correct. Bubarkan semua media buy, media buy semua ni. Sebabnya yang promo banyak, sebab benda ni habis puluh-puluh juta, ratus juta mungkin tiap-tiap tahun. Sebabnya komunikasi politik can no longer be subcontracted sauce. You kena buat sendiri. Dia tak ada dah style-style zaman yang kita ada ni kan. Sama ada JCOM lah. Even suar tak suar yang duduk sibuk manage media semua ni kan. Buat baik dengan media, nanti media lambung sikit. And then bagi sponsor sikit, media tulis lebih sikit. Dia tak buat lah memang kena penggang aku kalau buat kan. All that no longer works in this digital world. You have to be the face yourself. Zaman 80-an, 90-an Menteri semua boleh duduk Baik semua dalam Suar, setiausaha akhbar yang manage And then plan story, gini-gini Sekarang mana boleh dah You have to tell it yourself You have to master the issue You kena nampak semua Jadi kalau sebelum ini Masa yang di habiskan oleh menteri untuk benda-benda komunikasi ni mungkin 5% sekarang tak boleh it has to be 20-30% You have to constantly communicate. Jadi memanglah masuklah kajian mana pun, PH ke BN ke PN lepas ni, kalau pendekatan itu tetap membazirkan wang rakyat untuk ada JCOM, tak JCOM semua ni, lama-lama jadi puak Zarkashi. Ketua pengarah bekas, ketua pengarah berjasa JCOM zaman dulu. Kan tengok je dia macam mana. So if you do that, Dia akan kembali kepada masalah yang sama kepada siapa-siapa yang jadi kerajaan kerana mereka gagal memahami bagaimana media sosial dibina. Ia dibina dengan efek jaringan dan efek jaringan adalah fungsi kandungan dan fungsi jaringan. JCOM ni, bila JCOM, dasar kajian, is all on the function of fake profile. Is all a function of coordinated inauthentic behavior. That is the very antithesis of network effect tau.
 
-[28:04] Sebab itu dia dah buat kerja dekat bandar.
+[2:47:43] Speaker 1: Baik, kita ada apa bang? Baik, kita ada 10 minit lagi. Tapi terima kasih.
 
-[28:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[2:47:49] Speaker 3: Kelas
 
-[28:14] kau orang pun jahat kan?
+[2:47:49] Speaker 1: komunikasi. YB RAF sendiri. MCPC betul-betul bayar. Okay next, sorry kita pergi last.
 
-[28:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[2:47:56] Speaker 2: Sebenarnya ada sebab. Nasib baik aku teringat ada sebab. Kerana kita dah dekat pilihan raya. Kita dah dekat pilihan raya Ramai yang menonton Tiap-tiap minggu Ramai yang baca konten tiap-tiap minggu Saya habiskan masa setengah jam Bercerita pasal social media Network effect semua ni Sebab lepas ini maksudnya Kita perlukan lebih ramai orang Bukan hanya menonton tau Kita nak kena perkuatkan network effect itu Orang yang menonton Kalau bersetuju content. Kalau tak create content pun you have to share. Kalau tak share pun you kena forward. Because the only way untuk menang dalam kempen digital zaman sekarang ialah network effect. Dan sebab itulah yang menonton ni tiap-tiap minggu kita memang ramai orang menonton, yang live pun ramai, yang menonton pun ramai. Kalau rasa setuju dengan apa yang kami sebut, pandangan-pandangan kami, paling kurang ialah share. Kalau rajin lagi ialah buat splice. Ambil mana yang suka itu buat video pendek ataupun letak post dekat Facebook ke dekat mana-mana, share. Kalau itu berjaya dibuat dengan baik, maksudnya so many things can be done in the next 4-5 months.
 
-[28:24] dan dia kata panas.
+[2:49:26] Speaker 1: Clear? So, ayolah bersama kita. Okay, next. Maybe last kali. Last kali ini berapa hari sebelum didakwa? Dulu pernah didakwa polis kan? SPIM. Ini
 
-[28:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[2:49:40] Speaker 2: kali pertama lah. Saya dah dapat notice kan tadi 3.5. Saya dah agak dah sebab. Bila tengok kepada James Apa nama ni siasatan semua tu Then you roughly know lah James adalah yang terakhir Dan selepas James tu memang saya tegus Dan saya ingat Tan Sri Azam Baki ada lebih kurang 2 minggu lagi Dan maksudnya siasatan itu mesti di Selesaikan supaya boleh cepat-cepat didakwa lah. Kalau kita tengok kepada kes-kes yang SPRM buat selepas ni lah kan, sebelum-sebelum ni kan, lepas dia panggil satu dua hari tu kemudian dia dakwa terus lah. So besar kemungkinan bahawa saya dalam seminggu, dua minggu, kalau tak minggu depan pun minggu-minggu selepas itu akan didakwa lah. Sama ada dia nak suruh pakai baju oranye tu pun terpulang lah kot Baju purple ada Tapi bagus juga kan Aku hanya ada gambar baju purple Belum ada gambar baju oranye Boleh lah Jadi apa nama ni Kita faham lah kan, jadi it's a combination of, jadi maksudnya saya akan mula bagi keterangan 10 pagi hari Isnin ini dekat HQ MACC di Putrajaya kan. Beberapa hari tu terpulang kat dia lah kan, tapi saya tak rasa lah dia dah habiskan 2-3 bulan ni kan daripada bulan Februari semua ni. kemudian dah bergaduh pasal gym semua ni kan tiba-tiba lepas ambil keterangan aku lepas tu tutup file tak ada lah itu memang kita dah tahulah maksudnya bila dia dah sampai ke perengkat ini saya rasa mereka dah tak kisah dah nanti kes di mahkamah tu macam mana menang kalah itu hanya diketahui 3-4 tahun kemudian Kerana satu kes ni perbicaraan 3-4 tahun. Lepas habis 3-4 tahun tu rayuan pula. Kemudian rayuan pula kan. Jadi paling cepat pun mungkin 5-6 tahun. By that time saya ingat pegawai-pegawai. Semua ni dikira saya mengikut arahan. Masa tu saya dah naik pangkat semua. So dia tak kisahlah. Jadi yang diperlukan ialah arahannya ialah benda ni kena selesai siasatan. Kemudian dakwa di mahkamah. Saya boleh lihat. Perkara itu diperlukan dalam suasana politik sekarang kan Satu saya ingat kerana teguran-teguran kita kepada SPRM itu memang telah menjadi isu negara. Dan sebenarnya bukanlah sebab Sebab kita isu tu jadi besar kan. Dia adalah kerana kegagalan kerajaan dan SPRM memberikan jawapan yang tuntas. Lepas satu-satu perkara tu tak dijawab. Kemudian bila pendedahan Bloomberg itu memang ada bukti yang masuk akal, yang jelas. Sambung pula dengan cerita Next G-nya memang jelas satu-satu. Dan... tambah pula bila tindak balas SPRM yang ramanannya dia tak kejar yang memang dah dituduh secara terbuka dia tak kejar tapi aku ni tiba-tiba bertimpa-timpa jadi memang ada keperluan Untuk saya ingat perkiraan politik yang mudah lah orang-orang yang berkuasa ni kan ialah. Kalau kita dakwa Rafizi Yang dia ada kes rasuah kes rasuah tu pula melibatkan 1.1 bilion projek 1.1 bilion maka dia akan hilang kredibiliti dia jadi lepas ni kalau dia nak serang kita ataupun dia nak timbulkan pasal rasuah tak ada orang percaya lah Saya harap dia dengar lah yang segmen tadi pasal social media dan juga network effect. Because it doesn't work. No, network effect works differently than that. You cannot feed apa yang orang percaya dia akan cari semua kan. Jadi sebab itu, Dia nak tak nak dia kena proceed Kes ni saya ingat setakat inilah kan Selepas 2-3 bulan ni kita tahulah kes ni mudah Tuduhannya ialah saya telah... mempengaruhi daripada Perdana Menteri, Kabinet semua pegawai-pegawai kanan kerajaan semua ni untuk secara tergesa-gesa menandatangani perjanjian dengan arm dan saya ingat teknikalitinya nanti mereka akan bawa di mahkamah bahawa oleh kerana dalam keadaan tergesa-gesa itu ada beberapa perkara yang dikatakan tidak menurut arahan. kabinet, maka itu dikira sebagai salah guna kuasa dan juga rasuah. Dan saya akan didakwa atas perkara itulah. Dan yang itu tak apalah. Kita akan hmmm masuk ke mahkamah saya ingat Pembelaan tu tak ada masalah Cuma yang seronoknya Memang semua kena panggil lah Daripada Dato' Sri Anwar Ibrahim Video-video Dato' Sri Anwar Ibrahim Yang ambil kredit Yang cerita Zafrul Zafrulnya Dato' Sri Anwar pun yang duk kata Masa Masa ucapan hari tu You know I I'm only 2 30 minutes to convince me 30 minit je saya dah yakin dah Jadi pula aku yang mempengaruhinya kalau nak dakwa, dakwa CEO Am, kan, yang mempengaruhi Anwar Ibrahim, kemudian dia juga jaga dekat Am, apa nama ni 8 bulan ni lambat kalau ikut saya 3 bulan patut dah jadi dah, kan, kalau nak ikut yang tergesa-gesa tekan, sepatutnya Perdana Menteri lah yang kena kan, jadi samalah juga macam perjanjian kesebarangnya, itu semua diluluskan, kabinet, kemudian perjanjian akhir itu melalui jawatan kuasa bersama Kementerian Kewangan, MITI, Kementerian Ekonomi kemudian apa nama ni dia telah dipersetujui oleh penasihat undang-undang masing-masing jadi sebab itu bila masuk mahkamah saya rasa saya tak bimbang pun banyak lagi kes-kes lain yang saya dah lalui yang sebenarnya dari segi teknikal undang-undangnya sebenarnya yang lebih berisiko daripada yang ini. Yang ini memang 100% lah bagi saya memang menghabiskan masa tu nak naik ke mahkamah sajalah kan. Jadi
 
-[28:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[2:56:59] Speaker 4: cuma... Orang biar anggap macam tu lawatan ke mahkamah lah. Aku
 
-[29:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[2:57:02] Speaker 2: dah banyak sangat lawatan. Dah wasabar lawatan ni. Nak sambung lawatan 6 tahun lagi ke mahkamah ni tapi tak apalah. It's part and parcel. Cuma dia sama macam Negeri Sembilan tadi kan awal-awal kita bincang macam Negeri Sembilan. Kadang-kadang saya ingat dia orang ni lupa konsep unintended consequences. Dan mungkinlah mungkin ia sesuatu yang baik pun untuk berlaku. Sebab kalau contohnya tiba-tiba isu arm ini tidak direka cipta. Orang suruh reka cipta, cip. Dia reka cipta, kes. Kalau dia tidak direka cipta. Mungkin susah tau untuk pengundi atas pagar dan juga orang yang menyokong PH sebelum ini untuk faham. Dan mereka mungkin rasa memang Rafizi ni merajuk Dia kalah dia merajuk Sebenarnya sekarang ni You know narrative yang merajuk semua ni Hanya Chaplos dan juga Cybertroopers saja yang duk post You dah tak dengar sangat Sebab I think over the last 10 months lah Orang dah nampak sebenarnya ada isu yang dalaman yang besar Dan bezanya ialah saya memilih untuk tidak berdiam diri. Soal Farha, soal Rahmanan, soal Tan Sri Azam Baki, soal kes-kes, campur tangan semua kan. Jadi orang faham sebenarnya pertelingkahan itu ialah bukan mengenai pemilihan PKR. Dia sebenarnya ada benda yang lebih besar yang bersabit dengan data kelola, tentang amanah, tentang reformasi kan. Bila ada perkara-perkara ini Ia mengesahkannya Dan yang lebih berbahaya Ialah orang Ada dua kumpulan Satu kumpulan yang pernah melalui Reformasi 1998 Dan Sama ada yang umur macam saya Apa nama ni 50-an Ataupun yang lebih tua 60-70-an kan Mereka akan rasa Actually benda yang berlaku ni Dulu macam ni lah Dia soal dynamic kuasa Siapa yang ada kuasa di atas Kalau ada orang yang berani Persoalkan dia Aku akan ajar kau Dan aku ajar kau dengan aku dakwa kau, aku lanyak kau cukup-cukup supaya kau dah belajar, lepas tu kau duduk diam-diam. Itu satu grup kan. Dan dia akan bawa balik imbawan 90-an, 98 dan mengingatkan kenapalah sebenarnya orang duduk minta supaya sistem dan budaya kuasa ni mesti ditukar. Tapi yang lebih berbahaya ialah budak-budak Gen Z. Sebab budak-budak Gen Z sebenarnya dia tak pernah ada memory ataupun dia bukan ambil pot pun pasal reformasi 90-an, 80-an dulu. You introduce macam mana dia nampak how SPRM ini sebagai satu instrument yang telah disenyatakan, weaponized. Yang patut dia siasat, dia tak siasat. Yang patut dia keluarkan laporan Soal Tan Sri Azam Baki Dia sembunyi mati-matian macam mana pun Sampai sekarang tak keluar Tak ambil tindakan. Tapi benda tambah pula am ni pasal semi-conductor. Yang orang faham ni ni untuk masa depan. Budak-budak lebih seronok. Dapat gaji lebih tinggi semua negara Malaysia kan. Banyak generasi baru
 
-[29:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[3:00:44] Speaker 4: sekarang. Banyak bekerja dalam satu TVET. Haa. So dia lebih faham. Lepas tu dia tengok. Buat pertama kali dia melalui sendiri episode demi episode. Yang
 
-[29:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[3:00:47] Speaker 2: memahamkan dia. untuk membunuh dissenting view, suara yang tidak bersetuju ataupun suara yang berpandangan lain kan. Jadi, then you end up with network effect jugalah. Maksudnya, daripada hanya satu generasi yang faham, sekarang ni orang lebih faham tentang kenapa perlunya reformasi institusi, kenapa dalam budaya politik dan kuasa negara kita ini, benda-benda ini boleh berlaku kan. Eeeemm Aku sebenarnya lebih... terbuka sekarang lah. This is part and parcel of what needs to happen lah. Cuma kepada pendengar lah takut-kut-kut minggu depan, kot buat pertama kalinya kita tergelincir tak boleh nak buat podcast. Takut aku dah kena tahan ataupun dah kena dakwa masa tu kan. Kau berjangka
 
-[29:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[3:01:57] Speaker 1: dia akan
 
-[29:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[3:01:57] Speaker 2: tahan
 
-[30:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[3:01:57] Speaker 1: sampai
 
-[30:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[3:01:58] Speaker 2: seminggu? I don't know, you cannot tell. You can never tell lah kan.
 
-[30:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[3:02:02] Speaker 1: Kalau dia buat macam tu, move politik.
 
-[30:54] Saya memang turut.
+[3:02:04] Speaker 2: Tapi saya tak rasa Azam Baki peduli pun. Saya rasa dia sangat personal sekarang. Sampai kita sogo tu pun dia komen. Benda yang patut dia tak komen, dia komen kan. Boleh reman. Dia. So. By next week tu you cannot tell lah kan. Dulu masa 1MDB. Dulu last sekali saya kena tahan. Tapi masa tu bukan SPRM lah. Masa tu PDRM. Masa tu dia reman 5 hari.
 
-[30:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[3:02:31] Speaker 1: Eh. Kalau ada anak muda nak pergi juga. Nak bagi sokongan ke YB.
 
-[31:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[3:02:36] Speaker 2: Pergi dekat luar pagar lah. masuk. Ini satu lagi orang tak faham sebenarnya kan. Orang penonton selalu kata lah masa James oh sila bawa peguam oh sila tu. Actually akta SPRM tak sama dengan penal code kanun kesesaan akta-akta lain tau. Satu you tak boleh bawa peguam. You masuk memang kena seorang tak boleh bawa peguam. Kedua you tidak ada pilihan untuk tidak menjawab. Kalau akta-akta lain macam kanun kesesaan dia ada section 1.2. Maksudnya kalau orang tanya, polis tanya, you boleh kata saya menggunakan hak saya untuk tidak menjawab sekarang dan akan jawab di mahkamah. Polis tak boleh buat apa. Direkod itu je. Akta SPRM tak boleh. Kalau dia tanya, you kena jawab. Kalau tak jawab, dia boleh charge you tidak menjawab. Dan itu satu kesalahan. Dan terus didakwa di mahkamah. Jadi peguam pun tak boleh So dia tak ada Miranda Rice Ini benda-benda nanti yang kita kena tengok balik lah Satu hari nanti Bila kuasa yang begitu besar Diberikan kepada SPRM daripada tak ada Miranda Rights kan yang kemudian dia boleh bekukan akaun siapa-siapa yang dia nak dia tak perlu pergi jumpa hakim ke dia boleh buat keputusan sendiri kompaun itu yang pernah berlaku apa nama ni dalam bersatu tu menantu bukan menantu macam anak sedara, anak sepupu macam tu lah kan ambil 6 juta lebih bayar kompaun lepas 4 juta so kompaun pun ketua Pengarah SPRM, Ketua Pesuruh Jaya, semua dia tentukan. Dia tentukan. Kuasa sangat besar. Jadi ini antara benda-benda yang kita kena tengok balik. Jadi sebab itu ada hikmah dia lah aku kena. Biar aku pergi, aku tengok perangai, pegawai penyiasat, cara dia, semua. Let me go to the process, undang-undang. Kemudian bila dia dakwa, semua tu kan. Then dia memberi kita lebih maklumat untuk masa depan. kita nak mengawal kuasa-kuasa yang sekarang ini Bila tidak dikawal itu yang mewujudkan masalah mafia, korporat, semua yang ada ni lah. Sebab SPRM orang takut sangat. Panggil saja sebab dia boleh bekukan akaun macam tu je. Then bila dah bekukan akaun tu orang dah takut semua. Jam lah. Boleh nego lah. Nego kan. Jadi itulah. Kita harap minggu depan kita akan jumpa balik lah di podcast. Tapi kalau tak. Kalau aku tak ada pun minggu depan Then korang buat podcast biasa lah Teruskan. Teruskan sajalah. Kita buat pokok depan SPRM. Oh. Buat sajalah pokok depan SPRM. Lintas langsung.
 
-[31:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[3:05:37] Speaker 1: Boleh. Jadi, YB. Kita dah berapa sejam? Kita tiga jam empat minit.
 
-[31:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[3:05:42] Speaker 3: Maaf. Soalan terakhir. YB nak tanya secara peribadi. YB, mentally prepared? Okey ke? What do you feel having to go through this?
 
-[31:23] Boleh.
+[3:05:51] Speaker 2: Tak, if you... I think people always tanya soalan-soalan macam ni kan. Lupa orang lupa Termasuklah yang pihak berkuasa Ali Politi, Anwar Ibrahim sendirilah. Sepatutnya lah dia dah tengok aku ni selama 15 tahun ni aku memang tak ada perasaan. I am mentally, apa nama ni, emotionally dead. Aku berkali dah cakap aku emotionally dead. Sebab itu semua keputusan-keputusan aku selalunya memang orang tak jangka. Because I think my emotion works very differently daripada manusia biasa. Jadi aku dah kena tahan berapa belah kali lah. I actually masuk lock up 10 kali lah aku rasa Dulu zaman setiap satu demo aku memang ada Aku memang ada aku rasa Kemudian apa nama ni Kes-kes mahkamah berapa Sebelum sampai 2018 14 Sekarang dah tambah 5 Yang dah selesai 2 Dah 21 Campur lagi yang ini Kan Dah 22 kes kan Jadi nak kata Keputusan-keputusan besar kan Aku letak jawatan menteri macam tu ya Selamba ya Tak ada apa kan Jadi I think when you Dia mudah lah buatan Kalau you tak buat salah... Sebenarnya, tiada apa-apa yang perlu dikhawatirkan sebenarnya. Kalau awak tak buat salah, kemudian kalau niat itu betul, kalau niat itu betul, insyaAllah, maka awak tahu awak tak buat salah dan niat itu betul, kalau tak hari ini, minggu depan. Dan pada suatu saat di masa depan, kebenaran akan keluar. Jadi sebenarnya, strategi terbaik dan persiapan terbaik adalah untuk memberitahu kebenaran. Kalau you rasa benda tu betul, then memang you tak tipu ke apa semua, then you stick to that. Yelah, you know, you mungkin dikelilingi oleh orang yang paling berkuasa, dia boleh buat everything semua kan. But time will be on your side satu hari nanti lah. So I think that's my attitude lah. Aku tak rasa apa. And apa nama ni, we will go through it. And I just hope lah, apa nama ni nak dakwa, dakwa lah. Kan? You got nothing to lose lah I got nothing
 
-[31:24] Seterusnya.
+[3:08:16] Speaker 1: to lose sebenarnya So
 
-[31:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[3:08:17] Speaker 2: boleh
 
-[31:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[3:08:17] Speaker 1: lah Next episode We'll be update Apa SPRM tanya
 
-[31:51] Pas.
+[3:08:21] Speaker 2: Itu nak kena check Dalam akta Tak boleh Oh sorry Akta tak boleh Perkuam Akta tak boleh Sebab Perkuam tak boleh Tak tak Perkuam tahulah Sebab tu you notice Aku tak pernah buat Laporan SPRM Sebab itulah tujuannya Kalau aku bawa semua bukti Aku pergi report ke SPRM Memang aku dah tak boleh bercakap Dia tutup file Mampus saja kes tu Haa Sebab itu sebabnya kan Akta SPRM Lepas you di soal siasat You tak boleh bercakap Sebab tu aku nak kena bagi warning awal-awal Cakap awal-awal Lepas tu dah tak boleh komen Sebab tu James Wartawan duk tanya media Dia tak boleh sebut apa Dia sama macam Lack of Miranda right Kalau tanya tak jawab kena Kalau bagi kenyataan Lepas tu kena Semua Sebab itu tak apa InsyaAllah Kalau umur dan nyawa kita panjang Kita akan tengok balik Akta SPRM ini Supaya tak berlaku lagi lah Satu lagi watak Seperti Tan Sri Azam Baki Dan SPRM ni tak jadi Macam yang ada sekarang inilah InsyaAllah
 
-[31:52] So, sekarang ni dia tengah buat job hunting.
+[3:09:30] Speaker 1: Okay Wabi So Wabi Kita dah penutup So jadi Terima kasih. Itu je laku. Selamat malam semua. So, saya minta maaf kalau saya banyak buat salaf. Saya masih belajar. Kena pasang subtitle.
 
-[31:55] job hunting job.
+[3:09:46] Speaker 2: Faham kata nanti dia letak subtitle. Tapi tak apalah network effect. Mungkin sebab malam ni orang besut Kelantan jadi moderator. Penonton kita daripada Kelantan dan Tengganu ramai sikit kot malam ni. Lebih difahami.
 
-[31:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[3:09:59] Speaker 1: Okay,
 
-[32:04] Sebab itu dia dah buat kerja dekat bandar.
+[3:09:59] Speaker 2: baik.
 
-[32:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[32:14] kau orang pun jahat kan?
-
-[32:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[32:24] dan dia kata panas.
-
-[32:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[32:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[33:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[33:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[33:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[33:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[33:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[36:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[36:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[36:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[36:54] Saya memang turut.
-
-[36:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[37:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[37:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[37:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[37:23] Boleh.
-
-[37:24] Seterusnya.
-
-[37:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[37:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[37:51] Pas.
-
-[37:52] So, sekarang ni dia tengah buat job hunting.
-
-[37:55] job hunting job.
-
-[37:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[38:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[38:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[38:14] kau orang pun jahat kan?
-
-[38:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[38:24] dan dia kata panas.
-
-[38:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[38:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[39:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[39:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[39:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[39:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[39:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[40:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[40:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[40:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[40:54] Saya memang turut.
-
-[40:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[41:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[41:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[41:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[41:23] Boleh.
-
-[41:24] Seterusnya.
-
-[41:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[41:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[41:51] Pas.
-
-[41:52] So, sekarang ni dia tengah buat job hunting.
-
-[41:55] job hunting job.
-
-[41:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[42:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[42:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[42:14] kau orang pun jahat kan?
-
-[42:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[42:24] dan dia kata panas.
-
-[42:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[42:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[43:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[43:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[43:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[43:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[43:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[44:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[44:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[44:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[44:54] Saya memang turut.
-
-[44:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[45:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[45:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[45:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[45:23] Boleh.
-
-[45:24] Seterusnya.
-
-[45:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[45:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[45:51] Pas.
-
-[45:52] So, sekarang ni dia tengah buat job hunting.
-
-[45:55] job hunting job.
-
-[45:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[46:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[46:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[46:14] kau orang pun jahat kan?
-
-[46:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[46:24] dan dia kata panas.
-
-[46:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[46:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[47:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[47:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[47:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[47:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[47:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[48:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[48:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[48:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[48:54] Saya memang turut.
-
-[48:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[49:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[49:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[49:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[49:23] Boleh.
-
-[49:24] Seterusnya.
-
-[49:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[49:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[49:51] Pas.
-
-[49:52] So, sekarang ni dia tengah buat job hunting.
-
-[49:55] job hunting job.
-
-[49:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[50:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[50:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[50:14] kau orang pun jahat kan?
-
-[50:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[50:24] dan dia kata panas.
-
-[50:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[50:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[51:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[51:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[51:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[51:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[51:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[52:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[52:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[52:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[52:54] Saya memang turut.
-
-[52:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[53:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[53:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[53:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[53:23] Boleh.
-
-[53:24] Seterusnya.
-
-[53:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[53:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[53:51] Pas.
-
-[53:52] So, sekarang ni dia tengah buat job hunting.
-
-[53:55] job hunting job.
-
-[53:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[54:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[54:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[54:14] kau orang pun jahat kan?
-
-[54:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[54:24] dan dia kata panas.
-
-[54:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[54:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[55:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[55:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[55:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[55:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[55:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[56:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[56:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[56:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[56:54] Saya memang turut.
-
-[56:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[57:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[57:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[57:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[57:23] Boleh.
-
-[57:24] Seterusnya.
-
-[57:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[57:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[57:51] Pas.
-
-[57:52] So, sekarang ni dia tengah buat job hunting.
-
-[57:55] job hunting job.
-
-[57:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[58:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[58:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[58:14] kau orang pun jahat kan?
-
-[58:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[58:24] dan dia kata panas.
-
-[58:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[58:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[59:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[59:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[59:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[59:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[59:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:00:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:00:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:00:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:00:54] Saya memang turut.
-
-[1:00:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:01:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:01:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:01:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:01:23] Boleh.
-
-[1:01:24] Seterusnya.
-
-[1:01:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:01:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:01:51] Pas.
-
-[1:01:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:01:55] job hunting job.
-
-[1:01:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:02:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:02:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:02:14] kau orang pun jahat kan?
-
-[1:02:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:02:24] dan dia kata panas.
-
-[1:02:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:02:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:03:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:03:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:03:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:03:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:03:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:04:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:04:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:04:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:04:54] Saya memang turut.
-
-[1:04:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:05:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:05:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:05:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:05:23] Boleh.
-
-[1:05:24] Seterusnya.
-
-[1:05:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:05:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:05:51] Pas.
-
-[1:05:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:05:55] job hunting job.
-
-[1:05:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:06:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:06:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:06:14] kau orang pun jahat kan?
-
-[1:06:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:06:24] dan dia kata panas.
-
-[1:06:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:06:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:07:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:07:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:07:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:07:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:07:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:08:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:08:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:08:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:08:54] Saya memang turut.
-
-[1:08:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:09:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:09:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:09:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:09:23] Boleh.
-
-[1:09:24] Seterusnya.
-
-[1:09:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:09:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:09:51] Pas.
-
-[1:09:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:09:55] job hunting job.
-
-[1:09:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:10:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:10:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:10:14] kau orang pun jahat kan?
-
-[1:10:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:10:24] dan dia kata panas.
-
-[1:10:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:10:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:11:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:11:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:11:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:11:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:11:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:12:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:12:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:12:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:12:54] Saya memang turut.
-
-[1:12:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:13:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:13:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:13:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:13:23] Boleh.
-
-[1:13:24] Seterusnya.
-
-[1:13:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:13:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:13:51] Pas.
-
-[1:13:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:13:55] job hunting job.
-
-[1:13:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:14:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:14:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:14:14] kau orang pun jahat kan?
-
-[1:14:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:14:24] dan dia kata panas.
-
-[1:14:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:14:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:15:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:15:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:15:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:15:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:15:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:16:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:16:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:16:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:16:54] Saya memang turut.
-
-[1:16:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:17:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:17:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:17:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:17:23] Boleh.
-
-[1:17:24] Seterusnya.
-
-[1:17:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:17:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:17:51] Pas.
-
-[1:17:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:17:55] job hunting job.
-
-[1:17:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:18:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:18:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:18:14] kau orang pun jahat kan?
-
-[1:18:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:18:24] dan dia kata panas.
-
-[1:18:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:18:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:19:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:19:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:19:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:19:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:19:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:20:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:20:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:20:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:20:54] Saya memang turut.
-
-[1:20:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:21:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:21:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:21:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:21:23] Boleh.
-
-[1:21:24] Seterusnya.
-
-[1:21:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:21:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:21:51] Pas.
-
-[1:21:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:21:55] job hunting job.
-
-[1:21:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:22:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:22:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:22:14] kau orang pun jahat kan?
-
-[1:22:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:22:24] dan dia kata panas.
-
-[1:22:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:22:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:23:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:23:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:23:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:23:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:23:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:24:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:24:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:24:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:24:54] Saya memang turut.
-
-[1:24:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:25:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:25:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:25:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:25:23] Boleh.
-
-[1:25:24] Seterusnya.
-
-[1:25:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:25:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:25:51] Pas.
-
-[1:25:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:25:55] job hunting job.
-
-[1:25:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:26:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:26:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:26:14] kau orang pun jahat kan?
-
-[1:26:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:26:24] dan dia kata panas.
-
-[1:26:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:26:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:27:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:27:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:27:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:27:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:27:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:28:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:28:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:28:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:28:54] Saya memang turut.
-
-[1:28:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:29:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:29:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:29:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:29:23] Boleh.
-
-[1:29:24] Seterusnya.
-
-[1:29:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:29:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:29:51] Pas.
-
-[1:29:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:29:55] job hunting job.
-
-[1:29:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:30:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:30:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:30:14] kau orang pun jahat kan?
-
-[1:30:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:30:24] dan dia kata panas.
-
-[1:30:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:30:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:31:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:31:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:31:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:31:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:31:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:32:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:32:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:32:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:32:54] Saya memang turut.
-
-[1:32:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:33:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:33:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:33:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:33:23] Boleh.
-
-[1:33:24] Seterusnya.
-
-[1:33:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:33:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:33:51] Pas.
-
-[1:33:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:33:55] job hunting job.
-
-[1:33:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:34:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:34:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:34:14] kau orang pun jahat kan?
-
-[1:34:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:34:24] dan dia kata panas.
-
-[1:34:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:34:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:35:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:35:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:35:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:35:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:35:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:36:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:36:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:36:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:36:54] Saya memang turut.
-
-[1:36:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:37:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:37:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:37:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:37:23] Boleh.
-
-[1:37:24] Seterusnya.
-
-[1:37:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:37:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:37:51] Pas.
-
-[1:37:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:37:55] job hunting job.
-
-[1:37:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:38:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:38:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:38:14] kau orang pun jahat kan?
-
-[1:38:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:38:24] dan dia kata panas.
-
-[1:38:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:38:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:39:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:39:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:39:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:39:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:39:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:40:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:40:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:40:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:40:54] Saya memang turut.
-
-[1:40:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:41:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:41:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:41:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:41:23] Boleh.
-
-[1:41:24] Seterusnya.
-
-[1:41:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:41:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:41:51] Pas.
-
-[1:41:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:41:55] job hunting job.
-
-[1:41:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:42:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:42:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:42:14] kau orang pun jahat kan?
-
-[1:42:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:42:24] dan dia kata panas.
-
-[1:42:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:42:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:43:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:43:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:43:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:43:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:43:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:44:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:44:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:44:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:44:54] Saya memang turut.
-
-[1:44:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:45:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:45:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:45:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:45:23] Boleh.
-
-[1:45:24] Seterusnya.
-
-[1:45:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:45:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:45:51] Pas.
-
-[1:45:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:45:55] job hunting job.
-
-[1:45:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:46:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:46:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:46:14] kau orang pun jahat kan?
-
-[1:46:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:46:24] dan dia kata panas.
-
-[1:46:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:46:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:47:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:47:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:47:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:47:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:47:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:48:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:48:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:48:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:48:54] Saya memang turut.
-
-[1:48:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:51:00] [music/end]
-
-[1:51:00] Speaker 3: Okey. Apa is, what is network effect? Kesan rangkaian.
-
-[1:51:15] Means like, kita punya content tu satu reachable ke tak, build the algorithm ke tak?
-
-[1:51:21] Speaker 2: Betul.
-
-[1:51:21] Speaker 3: Kata, no, itu dah so- itu dah keterangan peringkat keempat, kelima, keenam dah.
-
-[1:51:32] Wow. Eh, ni adakah jenis? Tak, it's not niche. Network effect maksudnya, bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi.
-
-[12:15] Itu yang akhirnya jadi kononnya viral, tak viral sebenarnya. I mean, the the the academic term for virality is network effect. Dan network effect ni bukan untuk social media saja tahu. Dia termasuklah apa nama ni perniagaan, apps, everything is all about network effect.
-
-[12:35] Jadi, for that, you really need to understand about orang itu. Ya, so network effect kan. Maksudnya begini, kalau ada sesuatu kandungan, kalau dalam konteks social, kan, kalau ada sesuatu kandungan, orang suka, orang akan kongsi.
-
-[12:52] Then, you can ask the next few question. Satu ialah kandungan yang macam mana yang orang suka.
-
-[13:00] Ah, kemudian, bila dia soal network, network effect, you as a person, you have to ask the next question.
-
-[13:10] Actually, what kind of network do I have?
-
-[13:15] Because kalau rangkaian network saya itu ialah jenis yang suka kepada politik, dia cepatlah viral.
-
-[13:25] Kalau rangkaian network saya tu jenis yang suka kepada resepi masakan, dia lambatlah viral politik.
-
-[13:35] So, you must understand, when you are talking about network effect, you are not just talking about the content, you are talking about the content and the network.
-
-[13:48] Two things. Content and network.
-
-[13:51] Kalau content bagus, network tak ada, tak jadi juga.
-
-[13:56] Kalau network bagus, content tak ada, tak jadi juga.
-
-[14:01] Dua-dua tu kena ada.
-
-[14:03] Itu baru kita panggil network effect.
-
-[14:06] Okey, tak apa. Kita, saya tahu saya dah masuk ke dalam sikit detail tentang algoritma. Tak apa, nanti kita sambung lagi. Okey.
-
-[14:18] Ada soalan lain?
-
-[14:22] Speaker 2: Ha, ada soalan dari penonton.
-
-[14:25] Speaker 3: Okey, silakan.
-
-[14:26] Speaker 2: Okey, ni soalan daripada a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, sem
-
-[14:26] Speaker 2: Fahan.
-
-[14:27] Speaker 3: Semua pun tak tahu. Dia kata dia ada urusan lain dah kena sedekahkan. So, Mm, dia nak kahwin ke apa?
-
-[14:33] Speaker 2: Alhamdullilah. Alhamdullilah. Betul, betul. Ha, okey, alright. Depun, ni, dia orang ni pun satu hilang tak bagi tahu. Ke dah kena tangkap? Tak kut. Tak, betul.
-
-[14:40] Speaker 1: So, so Ke dah kena beli? Ah, lagi tak kut. Lagi tak, yeah.
-
-[14:46] Speaker 2: So, ni A fiq orang Terengganu.
-
-[14:49] Speaker 3: Ni Amir orang? Orang Selayang.
-
-[14:51] Speaker 2: Orang Selayang. Hm, Selayang. Dia orang pernah ah bukan pernah, memang ada podcastlah kan. Selayang Jawab. Selawat Selayang Jawab.
-
-[14:59] Speaker 3: Ha.
-
-[15:00] Speaker 2: Itu sajalah aku bayar dia orang tolong promokan dia orang punya podcast. But, they must be in kind. So, so kita proceed sesi.
-
-[15:08] Speaker 1: Okey. So, sesi boleh? Mhm.
-
-[15:10] Speaker 2: So, Okey, segmen pertama kita. Macam biasa. Paan gelak kat engkau tapi tak apa.
-
-[15:14] Speaker 1: Okey.
-
-[15:18] Speaker 3: I try my best. I try my best. Aku kita kena kurangkan gula sikitlah sebab kau tengah bersemangat sangat dengan Okey, alright. Beria Mat, beria, beria, beria jadi. So, awal-awal lagi kita dah ada.
-
-[15:29] Speaker 2: Beria Mat.
-
-[15:30] Speaker 1: Dah ada. Cuba beria Mat. Okey. Alright, okey. Terus kepada beria Mat.
-
-[15:35] Speaker 2: Okey, kita teruskan kepada E nanti jam. Kita tak mengucapkan selamat hari pekerja. 1 Mei, selamat hari pekerja. Baik, bekerja kepada semua semua. Baik, bekerja kepada semua. Kecuali yang masih bekerja.
-
-[16:47] Speaker 3: So, AB Terima kasih SPROM tak bekerja ni gua tak atas pasal-pasal aku kena tak ada podcast malam ni kan.
-
-[16:19] Awal di atas. So, hari ini kita jumpa tokoh paling besar tahu. Banyak cerita. Adakah ini penampalan terakhir Tan Sri Azam Baki dalam jadi tetamu kat podcast ni sebab dah tiga bulanlah dia tiap-tiap hampir tiap-tiap minggu dia ada dalam podcast ni.
-
-[16:37] Mungkin tak tahu, mungkin dilantik senator? Mungkin.
-
-[16:39] Oh.
-
-[16:40] Haramnya tidaklah kan. Ni yang mana ni?
-
-[16:45] Ini waktu demo itu, wartawan tanya dia tak pergi demo ke?
-
-[16:49] Dia kata dia tak dijemput.
-
-[16:52] Kenapa muka dia macam Jamal Abdilah?
-
-[16:54] Ha itu Fahan nak tanya.
-
-[16:57] Saya minta dia share skin care routine dia. Skin care routine dia. Mhm. Nampak putih. Nampak beza lama. Nampak beza. Kau orang dah selalu kutut mata dia merah, terus dia pakai shade.
-
-[17:10] So, hari ni tak nampak mata dah. Tapi dia bergayut tahu. Hm. Tak ada, ni apa dia? Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan sebab Ni sebab apa orang tanya dia, dia join demo ke tidak? Itu satu.
-
-[17:24] Lepas tu, dia kan dah nak bersara. Lepas tu, wartawan tanyalah.
-
-[17:29] Apa ni Azan Baki lepas ni, lepas dah bersara apa dia nak buat kan? Dia kata dia jawab, awam, dia tugas berkhidmat untuk negara, tanyalah. Tapi saya takkan berhimpun di hadapan Sogo lah.
-
-[17:40] Terus macam dia pilihlah.
-
-[17:42] Okey. Orang tak jemput dia tiba-tiba nak datang. Ini luka dalam ni, luka dalam kan. Selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[18:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[18:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[18:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[18:54] Saya memang turut.
-
-[18:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[19:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[19:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[19:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[19:23] Boleh.
-
-[19:24] Seterusnya.
-
-[19:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[19:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[19:51] Pas.
-
-[19:52] So, sekarang ni dia tengah buat job hunting.
-
-[19:55] job hunting job.
-
-[19:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[20:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[20:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[20:14] kau orang pun jahat kan?
-
-[20:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[20:24] dan dia kata panas.
-
-[20:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[20:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[21:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[21:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[21:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[21:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[21:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[22:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[22:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[22:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[22:54] Saya memang turut.
-
-[22:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[23:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[23:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[23:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[23:23] Boleh.
-
-[23:24] Seterusnya.
-
-[23:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[23:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[23:51] Pas.
-
-[23:52] So, sekarang ni dia tengah buat job hunting.
-
-[23:55] job hunting job.
-
-[23:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[24:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[24:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[24:14] kau orang pun jahat kan?
-
-[24:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[24:24] dan dia kata panas.
-
-[24:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[24:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[25:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[25:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[25:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[25:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[25:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[26:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[26:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[26:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[26:54] Saya memang turut.
-
-[26:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[27:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[27:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[27:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[27:23] Boleh.
-
-[27:24] Seterusnya.
-
-[27:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[27:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[27:51] Pas.
-
-[27:52] So, sekarang ni dia tengah buat job hunting.
-
-[27:55] job hunting job.
-
-[27:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[28:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[28:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[28:14] kau orang pun jahat kan?
-
-[28:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[28:24] dan dia kata panas.
-
-[28:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[28:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[29:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[29:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[29:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[29:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[29:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[30:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[30:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[30:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[30:54] Saya memang turut.
-
-[30:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[31:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[31:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[31:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[31:23] Boleh.
-
-[31:24] Seterusnya.
-
-[31:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[31:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[31:51] Pas.
-
-[31:52] So, sekarang ni dia tengah buat job hunting.
-
-[31:55] job hunting job.
-
-[31:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[32:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[33:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[33:14] kau orang pun jahat kan?
-
-[33:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[33:24] dan dia kata panas.
-
-[33:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[33:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[34:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[34:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[34:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[34:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[35:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[36:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[36:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[37:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[37:54] Saya memang turut.
-
-[37:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[38:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[39:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[39:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[39:23] Boleh.
-
-[39:24] Seterusnya.
-
-[39:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[40:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[41:51] Pas.
-
-[41:52] So, sekarang ni dia tengah buat job hunting.
-
-[41:55] job hunting job.
-
-[41:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[42:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[43:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[43:14] kau orang pun jahat kan?
-
-[43:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[44:24] dan dia kata panas.
-
-[44:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[45:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[46:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[47:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[48:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[49:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[50:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[52:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[53:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[54:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[55:54] Saya memang turut.
-
-[56:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[57:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[58:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[59:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:00:23] Boleh.
-
-[1:00:24] Seterusnya.
-
-[1:01:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:02:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:03:51] Pas.
-
-[1:03:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:04:55] job hunting job.
-
-[1:05:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:06:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:07:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:08:14] kau orang pun jahat kan?
-
-[1:09:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:10:24] dan dia kata panas.
-
-[1:11:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:12:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:13:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:14:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:15:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:16:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:17:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:19:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:20:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:21:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:22:54] Saya memang turut.
-
-[1:23:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:25:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:26:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:27:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:28:23] Boleh.
-
-[1:28:24] Seterusnya.
-
-[1:29:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:30:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:31:51] Pas.
-
-[1:31:52] So, sekarang ni dia tengah buat job hunting.
-
-[1:32:55] job hunting job.
-
-[1:33:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[1:34:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[1:35:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[1:36:14] kau orang pun jahat kan?
-
-[1:37:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[1:38:24] dan dia kata panas.
-
-[1:39:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[1:40:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[1:41:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[1:42:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[1:43:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[1:44:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[1:45:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[1:47:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[1:48:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[1:49:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[1:50:54] Saya memang turut.
-
-[1:51:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[1:53:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[1:54:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[1:55:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[1:56:23] Boleh.
-
-[1:56:24] Seterusnya.
-
-[1:57:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[1:58:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[1:59:51] Pas.
-
-[1:59:52] So, sekarang ni dia tengah buat job hunting.
-
-[2:00:55] job hunting job.
-
-[2:01:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[2:02:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[2:03:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[2:04:14] kau orang pun jahat kan?
-
-[2:05:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[2:06:24] dan dia kata panas.
-
-[2:07:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[2:08:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[2:09:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[2:10:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[2:11:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[2:12:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[2:13:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[2:15:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[2:16:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[2:17:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[2:18:54] Saya memang turut.
-
-[2:19:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[2:21:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[2:22:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[2:23:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[2:24:23] Boleh.
-
-[2:24:24] Seterusnya.
-
-[2:25:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[2:26:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[2:27:51] Pas.
-
-[2:27:52] So, sekarang ni dia tengah buat job hunting.
-
-[2:28:55] job hunting job.
-
-[2:29:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[2:30:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[2:31:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[2:32:14] kau orang pun jahat kan?
-
-[2:33:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[2:34:24] dan dia kata panas.
-
-[2:35:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[2:36:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[2:37:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[2:38:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[2:39:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[2:40:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
-
-[2:41:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
-
-[2:43:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
-
-[2:44:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
-
-[2:45:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
-
-[2:46:54] Saya memang turut.
-
-[2:47:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
-
-[2:49:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
-
-[2:50:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
-
-[2:51:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
-
-[2:52:23] Boleh.
-
-[2:53:24] Seterusnya.
-
-[2:54:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
-
-[2:55:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
-
-[2:56:51] Pas.
-
-[2:57:52] So, sekarang ni dia tengah buat job hunting.
-
-[2:58:55] job hunting job.
-
-[2:59:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
-
-[3:00:04] Sebab itu dia dah buat kerja dekat bandar.
-
-[3:01:09] Ini yang ada, adalah kita baca yang dia apa ni?
-
-[3:02:14] kau orang pun jahat kan?
-
-[3:03:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
-
-[3:04:24] dan dia kata panas.
-
-[3:05:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
-
-[3:06:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
-
-[3:07:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
-
-[3:08:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
-
-[3:09:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
-
-[3:10:00] [music/end]
+[3:10:00] Speaker 1: So, itu sajalah. Selamat malam semua. Okay, terima kasih.
 
