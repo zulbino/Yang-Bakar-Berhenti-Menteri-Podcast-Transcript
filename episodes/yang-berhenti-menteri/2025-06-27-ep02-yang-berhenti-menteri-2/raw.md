@@ -13,19 +13,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:00] Kamil: Untuk penonton semua, kita berada di podcast atau audiosiar Yang Berhenti Menteri bagi episod yang kedua. Jadi atas permintaan ramai, bersama-sama dengan YB Raf selaku guest speaker tetap pada hari ini, kita ada juga saudara Iswardy Morni sebagai guest speaker kita pada hari ini. Bang Is, apa khabar? Dari Sarawak ke?
+[00:00] Haziq Azfar: Untuk penonton semua, kita berada di podcast atau audiosiar Yang Berhenti Menteri bagi episod yang kedua. Jadi atas permintaan ramai, bersama-sama dengan YB Raf selaku guest speaker tetap pada hari ini, kita ada juga saudara Iswardy Morni sebagai guest speaker kita pada hari ini. Bang Is, apa khabar? Dari Sarawak ke?
 
 [00:20] Iswardy Morni: Alhamdulillah, tak. Dari kat sini aje.
 
-[00:21] Kamil: Okey, kat sini aje. Bang Is, Bang Is dah lama buat live, berapa tahun agaknya?
+[00:21] Haziq Azfar: Okey, kat sini aje. Bang Is, Bang Is dah lama buat live, berapa tahun agaknya?
 
 [00:27] Iswardy Morni: Kalau ikut buat live, 2019-lah, 2018/19. Start-start 2019-lah.
 
-[00:33] Kamil: Lebih kurang 6 tahunlah. Saya rasa ramai yang terkesima dan ada tarikan berkaitan dengan apa Bang Is buat live tiap-tiap malam semua. Jadi mungkin ramai yang tertanya-tanya, siapakah saudara Iswardy Morni sebelum buat live sebenarnya? Abang ada orang orang panggil apa, storytelling yang yang cantik tau, a good storyteller-lah.
+[00:33] Haziq Azfar: Lebih kurang 6 tahunlah. Saya rasa ramai yang terkesima dan ada tarikan berkaitan dengan apa Bang Is buat live tiap-tiap malam semua. Jadi mungkin ramai yang tertanya-tanya, siapakah saudara Iswardy Morni sebelum buat live sebenarnya? Abang ada orang orang panggil apa, storytelling yang yang cantik tau, a good storyteller-lah.
 
 [00:53] Iswardy Morni: Oh okey. Asal kalau ikut pendidikan, saya belajar undang-undang daripada Southampton University, UK.
 
-[00:58] Kamil: Okey.
+[00:58] Haziq Azfar: Okey.
 
 [00:58] Iswardy Morni: Tahun sama ya dengan YB.
 
@@ -37,15 +37,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:13] Iswardy Morni: Okey ha lepas tu, tapi as time goes by ni saya suka explore banyak benda. Di samping saya kalau kalau secara part-time-nya, saya ada apa orang kata minatnya saya juga compose muzik.
 
-[01:25] Kamil: Okey.
+[01:25] Haziq Azfar: Okey.
 
 [01:25] Iswardy Morni: Dalam masa yang sama saya juga scriptwriter.
 
-[01:27] Kamil: I see, scriptwriter?
+[01:27] Haziq Azfar: I see, scriptwriter?
 
 [01:28] Iswardy Morni: Yes, I'm a scriptwriter. Not professionally lah, tapi yalah suka-sukalah kan, but I've been doing that for the past 20 years lah.
 
-[01:34] Kamil: Okey, dan untuk siapa tu?
+[01:34] Haziq Azfar: Okey, dan untuk siapa tu?
 
 [01:36] Iswardy Morni: RTM, TVS, dokumentari, macam-macam.
 
@@ -53,7 +53,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:43] Iswardy Morni: Dah 20 tahun dah buat, orang hire aje.
 
-[01:45] Kamil: Termasuk ada artis-artis yang abang tolong bawa kan?
+[01:45] Haziq Azfar: Termasuk ada artis-artis yang abang tolong bawa kan?
 
 [01:47] Iswardy Morni: Banyak. Antaranya kalau telemovie pertama dahulu, awal-awal belakon Shaheizy Sam. Shaheizy Sam, direktor pertama saya ni siapa nama, Ahmad Idham, macam-macam, Ramai.
 
@@ -61,11 +61,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [02:00] Iswardy Morni: Ramai orang tak tahu. Itu antaranya. That's why I can do storytelling.
 
-[02:03] Kamil: Alhamdulillah, saya korek benda yang betullah dari Abang Is. Cuma satu lagilah sebelum kita masuk topik kita, nak kaitkan dengan guest speaker tetap kita, YB Raf. Mungkin orang nak tahu juga...
+[02:03] Haziq Azfar: Alhamdulillah, saya korek benda yang betullah dari Abang Is. Cuma satu lagilah sebelum kita masuk topik kita, nak kaitkan dengan guest speaker tetap kita, YB Raf. Mungkin orang nak tahu juga...
 
 [02:13] Rafizi Ramli: Sejak bila pula aku guest speaker?
 
-[02:14] Kamil: Eh sorry, tertukar. Memang terpacak kat sini ya. YB bukan guest speaker eh, yang tetap, okey. Jadi orang nak tahu hubungan YB dengan Abang Is ni sejak pertama kali bila YB tahu atau terserempak dengan Abang Is nilah?
+[02:14] Haziq Azfar: Eh sorry, tertukar. Memang terpacak kat sini ya. YB bukan guest speaker eh, yang tetap, okey. Jadi orang nak tahu hubungan YB dengan Abang Is ni sejak pertama kali bila YB tahu atau terserempak dengan Abang Is nilah?
 
 [02:28] Rafizi Ramli: Tahun bila noh? I think 2017/2016?
 
@@ -73,47 +73,47 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [02:35] Rafizi Ramli: Eh kau ada lagi kat sini?
 
-[02:36] Kamil: Tak ada. Saya...
+[02:36] Haziq Azfar: Tak ada. Saya...
 
 [02:37] Rafizi Ramli: Yalah aku ingat orang semua dah minta, aku ingat orang dah semua tukar moderator, aku ingat ada Is aje minggu ni.
 
-[02:43] Kamil: Oh ya ke? Saya minta maaflah YB. Ni minggu yang kali terakhir, saya janji.
+[02:43] Haziq Azfar: Oh ya ke? Saya minta maaflah YB. Ni minggu yang kali terakhir, saya janji.
 
 [02:48] Iswardy Morni: Okey aje, dia orang beritahu okey aje.
 
-[02:50] Kamil: Takut saya, okey. Baik, jadi kita mungkin boleh teruskan dengan perbincangan pada hari ini, YB. Cuma production ada maklumkan kepada kita jugalah, bahawa perbincangan ataupun podcast Yang Berhenti Menteri selepas ini...
+[02:50] Haziq Azfar: Takut saya, okey. Baik, jadi kita mungkin boleh teruskan dengan perbincangan pada hari ini, YB. Cuma production ada maklumkan kepada kita jugalah, bahawa perbincangan ataupun podcast Yang Berhenti Menteri selepas ini...
 
 [03:04] Rafizi Ramli: Dia podcast ke podcast?
 
 [03:06] Iswardy Morni: Podcast.
 
-[03:07] Kamil: Podcast.
+[03:07] Haziq Azfar: Podcast.
 
 [03:07] Rafizi Ramli: Podcast.
 
-[03:08] Kamil: Saya mohon maaf. Podcast Yang Berhenti Menteri akan bersegmen. Maksudnya kita akan ada satu segmen yang kita fokus yang diberi fokuslah, dan mungkin sedikit teknikal, dan selebihnya tu kita akan menyentuh juga...
+[03:08] Haziq Azfar: Saya mohon maaf. Podcast Yang Berhenti Menteri akan bersegmen. Maksudnya kita akan ada satu segmen yang kita fokus yang diberi fokuslah, dan mungkin sedikit teknikal, dan selebihnya tu kita akan menyentuh juga...
 
 [03:24] Rafizi Ramli: Semenggah berahi dia.
 
-[03:27] Kamil: Beberapa isu-isu lainlah, isu-isu semasa jugalah.
+[03:27] Haziq Azfar: Beberapa isu-isu lainlah, isu-isu semasa jugalah.
 
 [03:29] Rafizi Ramli: Yang ini Iswardy, itu Rafizi, saya Kamil.
 
-[03:32] Kamil: Saya takut, bang.
+[03:32] Haziq Azfar: Saya takut, bang.
 
 [03:32] Iswardy Morni: Chill, chill.
 
-[03:33] Kamil: Ha baik bang.
+[03:33] Haziq Azfar: Ha baik bang.
 
 [03:34] Iswardy Morni: Okey sebab kami ni biasa apa, hostile kan.
 
 [03:36] Rafizi Ramli: Ya.
 
-[03:38] Kamil: Baik. Kalau kita teruskan terus, YB. Soalan pertama, tarif elektrik jadi perbualan sekian lama. Tiba-tiba naik, adakah akhirnya TNB dan hati rakyat sekali akan terbakar?
+[03:38] Haziq Azfar: Baik. Kalau kita teruskan terus, YB. Soalan pertama, tarif elektrik jadi perbualan sekian lama. Tiba-tiba naik, adakah akhirnya TNB dan hati rakyat sekali akan terbakar?
 
 [03:50] Rafizi Ramli: Tarif elektrik naik ke?
 
-[03:54] Kamil: Dia sebenarnya itulah, tak naik sebenarnya. Sebab dia guna jadual tarif yang lain.
+[03:54] Haziq Azfar: Dia sebenarnya itulah, tak naik sebenarnya. Sebab dia guna jadual tarif yang lain.
 
 [04:01] Rafizi Ramli: Yalah dia, dia sebab nilah kadang-kadang orang kita dia terlajak perahu kan. Orang tak keluar habis lagi, kita pun tak faham macam mana tarif tu, struktur dia macam mana. Jadi masa akhir tahun lepas kan, masa telah diumumkan dipanggil apa nama ni IBR eh. Orang kita yang bangkang ke apa ni dia dia tak faham pun IBR apa kan. Apa nama ni, Incentive Based Regulation kan. Jadi masa itu TNB mengumumkan kerajaan telah bersetuju untuk menaikkan tarif asas ataupun base tariff daripada 39.6 sen something kepada 45.5 sen something lah. Jadi dikira-kira, tarif asas naik 14%. Ini akhir tahun lepaslah. Jadi kecoh satu Malaysia ni 1 Julai nanti harga elektrik akan naik 14%. Masa tu saya dah nak buat TikTok ke, aku dah nak komen ke. Tapi orang kata tak apalah kita tunggu, sebab lebih baik bila tarif akhir kepada pengguna itu diumumkan, which is baru diumumkan saya ingat minggu lepas kan. Kerana itu akan bagi peluang yang baik untuk kita terangkan struktur tarif tu kan. Sebenarnya kadang-kadang kita yalah kita tengok benda sampai elektrik kat kita, bil kat kita kan. Saya ingat baik untuk rakyat Malaysia, kita kena mula faham industri tu macam mana kan. Jadi elektrik ini perlu dijana kan, dan yang menjananya bukan TNB sahaja. Kita ada syarikat swasta dipanggil IPP, Independent Power Producer-lah yang menjana elektrik, kemudian TNB beli semua ni, kemudian TNB akan agihkan dan juallah kepada rumahlah, kepada kedai, kepada kilang. Jadi sebenarnya dia sama macam kita beli baranglah. Bila kita beli barang daripada kedai tu, bukan kedai tu buat. Dia beli daripada kilang lain, dia ada harga dia. Harga itu kemudian dia ambil barang tu dia jual balik. Jadi harga akhir itu ialah harga yang kita bayarlah. Elektrik pun macam itu juga. Yang diumumkan pada akhir tahun lepas ialah apa yang dipanggil sebagai tarif asas ataupun base tariff, iaitu satu harga yang TNB beli daripada semua penjana elektrik di Malaysia ini, sebenarnya memang harganya telah naik sebanyak 14% daripada 39 sen lebih kepada 45 sen lebih. Jadi aku nak tanya balik, aku nak tanya saja goreng dia kan.
 
@@ -121,13 +121,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:19] Rafizi Ramli: So macam mana pula daripada bila TNB beli daripada penjana itu dia dah naik 14 sen, tapi tiba-tiba sekarang ini bila jadual tarif yang baru pergi, tiba-tiba TNB kata semua orang jimat? Macam mana tu?
 
-[07:38] Kamil: Macam mana? Macam mana Bang Is?
+[07:38] Haziq Azfar: Macam mana? Macam mana Bang Is?
 
 [07:40] Iswardy Morni: Macam mana? Tanya saya, bukan saya Menteri Ekonomi.
 
 [07:43] Rafizi Ramli: Cuba tanya yang duk komen kat luar tu, yang cuba tanya yang duk pukul gendang tarif naik 14% semua ni, macam mana boleh jadi macam tu?
 
-[07:51] Kamil: Macam mana boleh jimat? Okey.
+[07:51] Haziq Azfar: Macam mana boleh jimat? Okey.
 
 [07:52] Rafizi Ramli: Aku tunggu 6 bulan supaya benda ni jadi bising semua, baru aku jawab.
 
@@ -139,7 +139,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:16] Rafizi Ramli: Dia itulah, sebab sebab tu yalah podcast ni, podcast eh not podcast.
 
-[09:22] Kamil: Baik, baik. Podcast.
+[09:22] Haziq Azfar: Baik, baik. Podcast.
 
 [09:25] Rafizi Ramli: Podcast. Salah satu yang yang saya harap kita yalah kita boleh buat sedikit ialah benda-benda yang kompleks ni yang di mata rakyat benda tu mudah, contohnya tarif elektrik dan sebagainya, sebenarnya dia cukup kompleks dibuat betul, calculation. Contohnya TNB, bagi pihak kerajaanlah eh, TNB kena beli pada harga yang dah naik 14%. Kenapa harga naik 14%? Adakah TNB akan kaya-raya? Sebab orang marah TNB ni. Kenapa dia untung berbilion-bilion TNB? Sila bagi rebate percuma kat aku lepas ni sebab aku nak puji TNB kan. Orang marah TNB setiap kali naik kan. Tak guna punya TNB, untung berbilion-bilion tapi kenapa tarif naik juga? Sebenarnya yang ini melibatkan Kementerian Ekonomi, dia juga melibatkan PETRA eh, Suruhanjaya Tenaga semualah. The the two main kementerian yang terlibat, PETRA dengan Kementerian Ekonomi eh. Untuk dia sama macam kita nak beli pada kilang tu kan. Kilang ni nak tetapkan harga, dia adalah kalau dia jual kasut kan. Dia ada harga kos pekerja dia, harga sewa dia, kemudian raw materials dia kan. Elektrik pun sama. Daripada 100% kos yang dikira untuk menetapkan tarif asas yang TNB kena beli elektrik itu setiap unit itu, dia ada lebih kurang empat kategori. Yang paling besar sebenarnya 69% daripada kos daripada 45 sen yang yang sekarang ini ialah sebenarnya kos tenaga. Sama ada arang batu ataupun apa nama ni gas, dan yang paling sikit masih lagi kecil sekarang ni ialah renewable lah, solar kan. Jadi itu kos tenaga sebenarnya yang di luar kawalan negara dan TNB dan sebagainya kerana dia ikut harga pasaran dunia. Itu 69%, 69% daripada kos tarif 1 unit elektrik. Seterusnya ialah 21% ialah kos untuk sambung elektrik dan letak infrastruktur daripada pencawang besar nak sampai kat rumah kita. Dia kena bina base station satu-satu, dia kena bina PMU, pencawang masuk utama semua tu kan. Yang itu tu dia tak percuma sebenarnya, kita sebagai pengguna kena bayarlah kan. Yang itu 21%. 9% lagi ialah untuk buat grid. Daripada penjana yang power station tu dia nak hantar kepada pencawang masuk utama tu, itu grid, pencawang pylon semua tu 9% eh. 1% ialah kos single buyer and administrative semua kan. Yang orang tak tahu begini tau. Sebenarnya setiap 3 tahun kerajaan kena tetapkan berapa harga tarif asas yang kerajaan kena bayar, TNB beli dan kerajaan kena bayar kepada TNB tau. Itu yang jadi 45 sen tu kan. Kerajaan tetapkan setiap 3 tahun, tapi sebenarnya keuntungan TNB sebenarnya dikawal. Sebab keuntungan dia dia pakai WACC. WACC itu berdasarkan semua tu 7% kan. Jadi sebab itu yang berlaku ialah nak tak nak kalaulah ada orang di luar tanya sayalah, kenapa harga elektrik naik? Boleh tak turunkan? Dia payah sikitlah kerana harga untuk menjana elektrik ni 69%-nya bergantung kepada bahan bahan api. Arang batu kita import. Gas sekarang ini kita makin import. Kalau di Semenanjung 30% daripada keperluan diimport, dan untuk dua tiga tahun akan datang dia akan terus naik dan terus naik sebab gas kita makin tak ada kan. Jadi gas ni ikut pasaran dunia. Kalau harga minyak naik, harga gas naiklah. Jadi sebab itu kalau nak katalah ada mana-mana kerajaan yang boleh menurunkan harga elektrik, susah sikitlah. Sebab itu kita dulu antara benda pertama yang yang yang kita utarakan ialah negara perlu melalui peralihan tenaga. Kita kena kurangkan daripada pergantungan kepada bahan api fosil ni, arang batu ataupun gas, bertukar lebih kepada solar. Solar ada masalah dialah kan dan ada kos dia, tapi untuk jangka masa panjang kita perlu beralih kepada solar kerana solar ialah bukan bahan api. So this is not hanya...
 
@@ -175,15 +175,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [26:43] Rafizi Ramli: PETRA, kepada Kementerian Ekonomi, sesiapa kan. So itu satu komponen dalam NETR yang yang sebenarnya melibatkan rakyat dan dia bukan soal tarif semata-mata, dia juga soal kelangsungan apa nama ni elektrik negara. Tapi masih lagi belum menjawab kenapa base tariff 45 sen naik 14%, tetapi tiba-tiba jadual tarif jimat RM4? Belum jawab lagi.
 
-[27:16] Kamil: Ya betul. Jadi saya...
+[27:16] Haziq Azfar: Ya betul. Jadi saya...
 
 [27:17] Rafizi Ramli: Boleh sempat lagi Google, Google.
 
-[27:21] Kamil: Saya tanya sebab dia kerja kat situ. Itu average, jadi yang saya tahu dia itu average-lah YB, yang bukannya di apa dicerminkan kepada apa end user. Jadi end user ni dia ada guna dia guna dia apa?
+[27:21] Haziq Azfar: Saya tanya sebab dia kerja kat situ. Itu average, jadi yang saya tahu dia itu average-lah YB, yang bukannya di apa dicerminkan kepada apa end user. Jadi end user ni dia ada guna dia guna dia apa?
 
 [27:39] Iswardy Morni: Ikut pada penggunaan dialah, dia kepada usage-lah.
 
-[27:40] Kamil: Yes, yes, yes.
+[27:40] Haziq Azfar: Yes, yes, yes.
 
 [27:41] Iswardy Morni: Itu penjimatan tadi kita sebut.
 
@@ -221,11 +221,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:37] Rafizi Ramli: Ha yang itu Petronas tanggung. Kalau Petronas tak tanggung yang itu, maka dividen Petronas lebih. Dividen Petronas lebih, boleh bagi kerajaan lebih, kutip cukai kuranglah. Jadi all this sebenarnya berkait kan. Cuma marilah menteri macam mana pun, kerajaan macam mana pun, you tak boleh lari daripada benda ini. Sebab itu saya kata yang penting kurangkan guna elektrik. Kan yang itu memang betullah orang kata panaslah, ini semua. Orang akan kecamlah kata apalah jadi menteri suruh kurangkan guna elektrik. Kau bolehlah, kau menteri. Tapi sebenarnya benda itu tidak akan berubah. Dia akan menjadi lebih mahal dan lebih mahal dan lebih mahallah kan.
 
-[33:25] Kamil: Okey. Baik, jadi saya rasa dah jawab soalan yang pertama tu berkaitan dengan...
+[33:25] Haziq Azfar: Okey. Baik, jadi saya rasa dah jawab soalan yang pertama tu berkaitan dengan...
 
 [33:30] Rafizi Ramli: Dia belum jawab, sebab soalannya akan ada orang kena bakar ke tidak lepas ni?
 
-[33:35] Kamil: Kita lihat.
+[33:35] Haziq Azfar: Kita lihat.
 
 [33:37] Iswardy Morni: But I don't think so-lah, sebab 85% tak affected. So macam sebelum ni juga, kenaikan sebelum ni pun 85% tak affected. Orang duk bising yang the so-called T20 tu cuma.
 
@@ -237,15 +237,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [34:53] Iswardy Morni: Ya, sekarang dah boleh tanya ChatGPT dah.
 
-[34:56] Kamil: Baik YB. Jadi yang YB dah cakap semualah tadi, dan...
+[34:56] Haziq Azfar: Baik YB. Jadi yang YB dah cakap semualah tadi, dan...
 
 [35:00] Rafizi Ramli: Yang ini Is, kau tanya Is dah banyak, penat aku nak pergi had.
 
-[35:03] Kamil: Tapi yang kedua ni ada kaitan dengan YB sikitlah. Kita transition kepada isu-isu semasalah, YB. Ada beberapa yang di-list out oleh...
+[35:03] Haziq Azfar: Tapi yang kedua ni ada kaitan dengan YB sikitlah. Kita transition kepada isu-isu semasalah, YB. Ada beberapa yang di-list out oleh...
 
 [35:12] Rafizi Ramli: Sekarang aku malas dah nak petik nama-nama menteri ke apa nanti.
 
-[35:15] Kamil: Tak ada YB.
+[35:15] Haziq Azfar: Tak ada YB.
 
 [35:16] Iswardy Morni: Dia dah jawab dah. Which one macam mana tu?
 
@@ -253,7 +253,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:20] Iswardy Morni: Tapi semalam saya dah jawab juga. Okey, tapi tak apa teruskan.
 
-[35:23] Kamil: Okey baik. Isu yang pertama adalah berkaitan dengan pengurniaan DNAA DNAA kepada Datuk Seri Najib Razak. Saya rasa dia tak basi sikit sebab YB dah keluar kenyataan, AGC dah jawab, tapi YB belum jawab lagi. Jadi cuma AGC ni dia bagi jawapanlah bahawa dokumen tu digunakan oleh kes-kes lain. Jadi YB dah naik turun mahkamah ni banyak kali, adakah benda ni acceptable?
+[35:23] Haziq Azfar: Okey baik. Isu yang pertama adalah berkaitan dengan pengurniaan DNAA DNAA kepada Datuk Seri Najib Razak. Saya rasa dia tak basi sikit sebab YB dah keluar kenyataan, AGC dah jawab, tapi YB belum jawab lagi. Jadi cuma AGC ni dia bagi jawapanlah bahawa dokumen tu digunakan oleh kes-kes lain. Jadi YB dah naik turun mahkamah ni banyak kali, adakah benda ni acceptable?
 
 [35:53] Rafizi Ramli: Tanya dialah, dia pun turun naik mahkamah juga. Apa tanya aku?
 
@@ -267,7 +267,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:15] Iswardy Morni: Yang VLN ah, visa luar visa luar negara tu kan. Yang dia dia orang kata dia dakwa dalam keadaan tergesa-gesa. Saya nampak saya baca judgment, saya kata kenapa benda ni tak produce, benda ni tak ada, benda ni... Judge sampai marah tau. Dia kata, "Entah-entah duit tu bukan bukan Zahid dapat, entah-entah kamu bertiga yang saksi tu kamu bertiga pergi enjoy duit tu." Judge kata dalam judgment, jarang judge cakap macam tu kan. So you know so kadang-kadang yalah mungkin at that time kita ni over excited nak mendakwa orang. Dia macam nilah tuan-tuan eh, saya selalu kata kita kena berpegang kepada prinsipnya, prinsip undang-undang itu sendiri. Kalau kita nak dakwa biar kita betul-betul nak dakwa atas bukti dan dan siasatan yang yang teliti dan bila kita bawa tu, insya-Allah more than 70% memang akan sabitlah. Dan kalau tak ada janganlah kita dakwa. Proses, masa, you know bukan duit bukan free kan, duit rakyat juga akan digunakan dalam proses tersebut. That's my comment lah.
 
-[40:08] Kamil: Baik baik baik baik. AGC tak jawab tapi Abang Is jawab, macam mana YB?
+[40:08] Haziq Azfar: Baik baik baik baik. AGC tak jawab tapi Abang Is jawab, macam mana YB?
 
 [40:12] Rafizi Ramli: Yalah dia, yalah satu dari segi secara undang-undang kan, tapi satu lagi tu dari segi persepsi dan pandangan rakyat. Kalau secara undang-undang itu yang yang perlu dijawab itulah. Sebenarnya sebelum perbicaraan tu bermula, pendakwa dengan peguam bela dia kena tukar exchange selalunya dia kena bagi bundle lah. Kalau sivil dia exchange, tapi kalau pendakwa raya yang kes kriminal ni dia kena bagi bundle kan. Bundle dokumen tu selalunya memanglah photostat, dan asalkan apa nama ni kalaupun kita submit kepada mahkamah, walaupun aku bukan peguam tapi sebab aku selalu turun naik mahkamah kan, asalkan contohnya you can call the maker of the document dan dia mengesahkan dokumen photostat itu memang asal, dia boleh diterima sebagai bahan bukti. Jadi soalan itu memang saya ingat yalah orang garu kepala sikitlah kalau kita kata oh kita nak tunggu habis semua kes 1MDB yang lain, SRC yang lain baru nak mula yang itu baru nak bagi dokumen kan. Itu yang menimbulkan satu lagi kebimbangan iaitu persepsi. Kerana ada beberapa siri kes yang melibatkan 1MDB ini dilihat terlepas kan, apa nama ni contohnya yang melibatkan anak tiri apa nama ni Datuk Seri Najib. Jadi kes ini bila dapat DNAA, walau apa pun alasan yang diberikan oleh AGC, sebahagian daripada rakyat akan kata adakah ini harga yang dibayar oleh kerana UMNO berada di dalam Kerajaan Perpaduan? Jadi itu akan mendatangkan masalah kan. Jadi sebab itu saya sebagai backbencher, saya kena ingatkan kepada kerajaan you know benda ini dicey. Saya tak tahu apa yang berlaku, betul ke tidak ini sebab semata-mata soal dokumen ataupun ada permintaan ke apa, kita tak tahu. Dan sebagai rakyat biasa, kita berfikir macam rakyat biasalah. Rakyat biasa akan kata ni kalau kita tengok ni track record ni lepas satu satu ni, adakah ini bermakna kes ini pun nanti akan gugur dan hilang begitu saja? DNAA lepas tu hilang sebab ini sebahagian daripada pakej kan. Bila dia jadi sebahagian daripada pakej, kalau macam pengundi tegar kepada Pakatan Harapan dia marahlah, dia kata, "You know, I didn't vote for you untuk ini. You know, you have to be apa yang berlaku ni kan?" So itu kebimbangan saya, sebab itu saya minta supaya okey, tak apa you kata sekarang you're not ready, dokumen tengah tunggu daripada kes yang lain, tak apa. But mesti ada komitmen kena caj balik. Jangan DNAA lepas tu hilang, DNAA lepas tu tak caj balik kan. DNAA okey...
 
@@ -285,7 +285,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [47:55] Iswardy Morni: Discharge-lah, kan.
 
-[47:57] Kamil: YB, sorry sikit lagi. Practically berkaitan dengan pendakwaan cacat ni kan, dia tak ada some sort of quality control yang kita kena buat sebenarnya sebab...
+[47:57] Haziq Azfar: YB, sorry sikit lagi. Practically berkaitan dengan pendakwaan cacat ni kan, dia tak ada some sort of quality control yang kita kena buat sebenarnya sebab...
 
 [48:05] Rafizi Ramli: Jangan tanya aku, aku bukan peguam! Aku tak pernah kerja kat mahkamah, aku yang selalu kena dakwa.
 
@@ -293,7 +293,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:12] Rafizi Ramli: Siapa yang pernah jadi pendakwa raya kat sini?
 
-[48:14] Kamil: Tak ada YB, tak ada siapa.
+[48:14] Haziq Azfar: Tak ada YB, tak ada siapa.
 
 [48:16] Rafizi Ramli: Ha itu maksudnya, kalau jangan tanya orang lepas tu dia speculate. Ooo kan. Kau tak tahu lah, aku pernah jadi peguam, aku tak tahu.
 
@@ -303,27 +303,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:36] Iswardy Morni: Dan dan pendakwaan tu juga bila dia dapat satu surat pendakwaan, dia bukan dianya decide juga DPP ni. Dia akan pergi kepada paling tertinggilah, dia punya boss lah. Dia orang yang akan approve. So I mean approval tu sendiri menunjukkan dia dah bersedia, tapi itulah.
 
-[50:53] Kamil: Okey baik.
+[50:53] Haziq Azfar: Okey baik.
 
 [50:56] Rafizi Ramli: Nanti kita orang kena dakwa.
 
-[50:58] Kamil: Jadi kita pergi yang seterusnya ya. Jadi isu yang seterusnya...
+[50:58] Haziq Azfar: Jadi kita pergi yang seterusnya ya. Jadi isu yang seterusnya...
 
 [51:02] Rafizi Ramli: Ada lagi?
 
-[51:03] Kamil: Ya ada lagi YB. Jadi seterusnya YB adalah berkaitan dengan Telegram court order di mana MCMC baru-baru ini telah memohon dan High Court telah grant injunction supaya Edisi Siasat ini di hilanglah. Jadi yalah YB pun pernah jadi menteri sebagainya...
+[51:03] Haziq Azfar: Ya ada lagi YB. Jadi seterusnya YB adalah berkaitan dengan Telegram court order di mana MCMC baru-baru ini telah memohon dan High Court telah grant injunction supaya Edisi Siasat ini di hilanglah. Jadi yalah YB pun pernah jadi menteri sebagainya...
 
 [51:26] Rafizi Ramli: Janganlah duk ulang-ulang gitu.
 
-[51:27] Kamil: Sorry sorry. YB sekarang sebagai rakyat biasa, melihat...
+[51:27] Haziq Azfar: Sorry sorry. YB sekarang sebagai rakyat biasa, melihat...
 
 [51:32] Rafizi Ramli: Jadi menteri bukan rakyat biasa?
 
-[51:34] Kamil: Ada yang tak rasa rakyat biasa. Sebenarnya rakyat biasa, tapi...
+[51:34] Haziq Azfar: Ada yang tak rasa rakyat biasa. Sebenarnya rakyat biasa, tapi...
 
 [51:38] Rafizi Ramli: Connotation tu salah tau, jadi menteri dia dah tak jadi rakyat biasa. Anyway.
 
-[51:43] Kamil: Jadi yalah, orang ni dia nak buat nak seimbangkanlah antara yalah kerajaan mungkin fikir dia kena ada some apa digital sovereignty, kena ada kawalan untuk keselamatan apa semua apa yang dicakap dalam tu, dan satu lagi bahagian adalah untuk seimbangkan dengan kebebasan media termasuklah untuk whistleblowing dan sebagainya. Jadi macam mana kita nak put nak nak strike the balance sebenarnya antara dua-dua ini? Tapi untuk isu yang ini dia lebih ekstrimlah sebab alasan yang diberi tu just simply ini akan menggugat institusi kerajaan yang saya rasa tak tahulah Abang Is boleh terima atau tidak. Tapi alasan yang diberi tulah.
+[51:43] Haziq Azfar: Jadi yalah, orang ni dia nak buat nak seimbangkanlah antara yalah kerajaan mungkin fikir dia kena ada some apa digital sovereignty, kena ada kawalan untuk keselamatan apa semua apa yang dicakap dalam tu, dan satu lagi bahagian adalah untuk seimbangkan dengan kebebasan media termasuklah untuk whistleblowing dan sebagainya. Jadi macam mana kita nak put nak nak strike the balance sebenarnya antara dua-dua ini? Tapi untuk isu yang ini dia lebih ekstrimlah sebab alasan yang diberi tu just simply ini akan menggugat institusi kerajaan yang saya rasa tak tahulah Abang Is boleh terima atau tidak. Tapi alasan yang diberi tulah.
 
 [52:27] Iswardy Morni: Perkara ni? Okey, saya dulu ke YB, YB dulu?
 
@@ -343,7 +343,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:57] Iswardy Morni: Accountability-lah, he has to be accountable. So isunya sekarang ni bila dia bawa bukti, kita nak tanya siapa yang bawa ni? Bukan kita nak marah dia, kita nak further evidence. Kan ada beberapa keslah saya jumpa personally orang yang dituduh itu dan dia ada dalam grup WhatsApp saya. Dia kata, "Saya salah seorang yang keluar dalam ES bang. Saya kena panggil SPRM, naya saya," dia kata. Sebab yang bagi maklumat itu adalah orang dalam jabatan saya tak puas hati dengan saya. Dia kata saya terima rasuah. Saya kena panggil SPRM turun naik turun naik turun naik a few months, last-last tak ada bukti. Rupanya tak ada rasuah sogok rasuah itu. So you know kita itu saya kata be accountable. Kalau betul katakanlah orang-orang yang menuduh yang bagi pada ES ni betul, bagi saya dalam kerajaan ini salurkan kepada tempat yang sepatutnya. Kan kita ada agensi-agensi. Dia orang kata saya tak percaya pada agensi-agensi ni. Tuan-tuan, kalau kita tak percaya pada agensi-agensi ni dia macam nilah, bukan semua polis itu korap tapi bukan semua polis itu baik. Saya kita akui juga. Tetapi bukan semua polis itu korap, bukan semua SPRM itu korap. Kan, so kita kena bawa kepada tempat sepatutnya. Contoh yang Sabah baru-baru ni kan, that guy yang dia dedahkan pasal lima nama ADUN apa pasal cari gali mineral tu, dia dedahkan. Dia sendiri kena dakwa, dia orang pelik kenapa dia kena dakwa. Okey itu satu cerita lainlah. Tapi poinnya adalah dia bawa dan pendakwaan itu berlaku. Dia takut dia kata, tapi pendakwaan itu berlaku. So for me yalah mungkin ketakutan mereka pada masa dahulu, zaman dahulu kerajaan dahulu sebab apa? Bila buat aduan, tak sampai mungkin. Bagi saya sekarang ini kita dah sampai to this stage, sampai to this government, kita kena yalah be accountable lah dan kalau tanya saya adakah agree untuk menutup, saya kata saya agree. Saya tak nak dan dua tiga orang dalam keluar dalam ES tu kawan-kawan saya juga dan saya tahu benda tu fitnah. Saya tahu for a fact benda tu fitnah, tapi dah keluar orang percaya duk sebarkan. Jadi tak baguslah.
 
-[57:57] Kamil: Ada betulnya juga, cuma yalah YB harga nak jadi whistleblower ni kuat mahallah. Ada orang akan hilang segala-galanya, jadi not easylah untuk mendedahkan diri sendiri semua.
+[57:57] Haziq Azfar: Ada betulnya juga, cuma yalah YB harga nak jadi whistleblower ni kuat mahallah. Ada orang akan hilang segala-galanya, jadi not easylah untuk mendedahkan diri sendiri semua.
 
 [58:11] Iswardy Morni: YB ada pengalaman tu, kita tahu banyak kes eh sivil.
 
@@ -367,7 +367,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [65:32] Iswardy Morni: Cuma satu tambahan sayalah, saya ini maklumat saya dapat dalaman juga. Kalau macam page Telegram umpamanya kan, kalau more than 30,000 subscriber dia, dia orang tak boleh request untuk tutup. Maksudnya kita boleh request sebenarnya, less than that kita boleh request untuk kita tak puas hati. Contoh macam scammer kan, dia boleh request. Ada sesetengah kita kita kena bagi tahu jugalah, ada yang memang dah ditutup. Tapi bila dia dah reach more than 30,000 tu, itu yang dia terpaksa guna sivil. But I agree, sebenarnya avenues tu kena lebih luas daripada tulah sebab sekarang ni kerajaan menggunakan sivil. Sivil eh, dia menggunakan sivil menggunakan apa orang kata yalah avenues menggunakan sivil untuk minta tutup tu. Tapi yalah you know itulah macam YB kata tadi balancing tu kena ada, which I agree juga cuma yalah kita kena tengok mudarat dan manfaat jadi kat situ.
 
-[66:23] Kamil: Jadi abang setuju ke tak?
+[66:23] Haziq Azfar: Jadi abang setuju ke tak?
 
 [66:24] Iswardy Morni: Tak, saya saya sebenarnya to be honest, saya setuju.
 
@@ -377,23 +377,23 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [66:29] Rafizi Ramli: Sebab aku di belakang tu. Tak apa, berbeza pendapat tu biasa.
 
-[66:34] Kamil: Okey.
+[66:34] Haziq Azfar: Okey.
 
 [66:34] Rafizi Ramli: Ah tak tak tak tak, tipu aje tipu aje. Nanti ada orang betul-betul ambil klip tu cakap, aku kena tangkap pula tak pasal-pasal. Tak tak tak, gurau saja gurau saja.
 
-[66:44] Kamil: Okey. Baik, selesai yang tu. Setuju dan tak setuju, baik. Isu yang terakhir sekali yang diberi oleh team production adalah isu berkaitan dengan pembakaran karikatur PMX YB yang dibuat oleh beberapa mahasiswa di UMS. Jadi mungkin angle yang saya nak cuba ambil nilah, saya tengok sebab YB selalu cakap bila kita nak bagi pandangan atau apa-apa, kita kena ada kredibiliti untuk bercakap benda tu. Jadi yang saya tengok sebenarnya adalah respon daripada macam-macam sayap-sayap pemuda selepas daripada apa pembakaran tu berlaku, dan yalah mengejutkan bila ada satu apa sayap A cakap orang kritik, bila sayap B cakap orang seronok. Dan kita sebenarnya kita tengok kepada track record lah apa yang dia pernah buat dulu dan...
+[66:44] Haziq Azfar: Okey. Baik, selesai yang tu. Setuju dan tak setuju, baik. Isu yang terakhir sekali yang diberi oleh team production adalah isu berkaitan dengan pembakaran karikatur PMX YB yang dibuat oleh beberapa mahasiswa di UMS. Jadi mungkin angle yang saya nak cuba ambil nilah, saya tengok sebab YB selalu cakap bila kita nak bagi pandangan atau apa-apa, kita kena ada kredibiliti untuk bercakap benda tu. Jadi yang saya tengok sebenarnya adalah respon daripada macam-macam sayap-sayap pemuda selepas daripada apa pembakaran tu berlaku, dan yalah mengejutkan bila ada satu apa sayap A cakap orang kritik, bila sayap B cakap orang seronok. Dan kita sebenarnya kita tengok kepada track record lah apa yang dia pernah buat dulu dan...
 
 [67:34] Iswardy Morni: Sayap A siapa? Sebut sajalah.
 
-[67:37] Kamil: Contohnya AMK lah kan. Sebenarnya yalah to be fair, dia sebagai sayap kerajaan dia ambil pendekatan untuk menyokonglah, menyokong sebenarnya logiknya kan. Cuma nampak macam orang tak dapat buy in benda itu YB. Mungkin sebab apa yalah Keadilan dan Pakatan Harapan dulu pernah dilibatkan dengan stunt-stunt yang yang begitu, jadi sukar untuk bila apa kita dah jadi kerajaan, kita pula cakap beradablah, janganlah itu dan sebagainya kan.
+[67:37] Haziq Azfar: Contohnya AMK lah kan. Sebenarnya yalah to be fair, dia sebagai sayap kerajaan dia ambil pendekatan untuk menyokonglah, menyokong sebenarnya logiknya kan. Cuma nampak macam orang tak dapat buy in benda itu YB. Mungkin sebab apa yalah Keadilan dan Pakatan Harapan dulu pernah dilibatkan dengan stunt-stunt yang yang begitu, jadi sukar untuk bila apa kita dah jadi kerajaan, kita pula cakap beradablah, janganlah itu dan sebagainya kan.
 
 [68:09] Iswardy Morni: Janganlah bakar.
 
-[68:10] Kamil: Jadi sukar juga sebagai sayap pemuda ni. Sebenarnya macam mana kita nak respond to that lah?
+[68:10] Haziq Azfar: Jadi sukar juga sebagai sayap pemuda ni. Sebenarnya macam mana kita nak respond to that lah?
 
 [68:19] Iswardy Morni: Kita pernah bakar ke gambar Perdana Menteri?
 
-[68:21] Kamil: Walaupun kita kita tak pernahlah. Walaupun kita terpalit kan?
+[68:21] Haziq Azfar: Walaupun kita kita tak pernahlah. Walaupun kita terpalit kan?
 
 [68:27] Rafizi Ramli: Yalah I mean, I think yang paling penting ialah don't shoot the messenger, itu satulah kan. I think contohnya Fahmi Reza, siapa dia tak kutuk? Siapa dia tak lukis kan? But I think macam saya kata tadi, public figure kita ada ruang untuk apa nama ni menjawab. Dan walau apa pun dalam bentuk kritikan yang disampaikan, kerana pandangan peribadi orang tu berubah-ubah dan berbeza-beza ikut cita rasa. Ada orang lukis kartun pun dia dah marah, ada orang bakar pun tak apa, tak ada kisah kan. Jadi I think the rule number one ialah as a public figure, don't shoot the messenger because the judge is not you. Judgenya ialah rakyat. Kan, jadi sebenarnya is a dynamic thing. Katakanlah ada pimpinan A, kemudian ada protes dan cara protes itu katakanlah bakar kan. Sebenarnya apa apa rasa pimpinan A tu tak penting. Yang penting ialah apa pandangan rakyat keseluruhan tentang episod itu.
 
@@ -401,7 +401,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [69:43] Rafizi Ramli: Dan ia berdasarkan pada reaksi dia kan. Jadi sebenarnya masing-masing ada grace dan sebagainya. Sebab itu kalau sayalah, kalau saya, biarlah. Saya tak ambil pot, tak ambil pot lah orang orang buat kan. Apa dia nak bakar, bakarlah. Itu itu satu. Yang kedua, budak-budak. Kita semua pernah jadi budak-budak walaupun aku tak pernah bakar apalah kan. Satunya sebab aku takut main api terbakar orang kan. Itu semua itu hak masing-masing kan. Ada orang yang karakter dia kasar dan budak-budak as they grow older, they will see different perspective in life. Dan banyak pun yang pernah jadi pimpinan kanan politik ataupun masih lagi jadi pimpinan politik ataupun menteri atau timbalan menteri, macam-macam jenis pun yang pernah dia buat kan. Jadi saya ingat dari segi itu sebenarnya saya tak nampaklah kita perlu jadi judgmental kepada cara, yang penting ialah mesej itu kan. Kerana akhirnya akhirnya rakyat akan menghakimi sendiri. Yang keduanya akhirnya budak-budak ini akan tua pun, and they will go through that process. Cuma the alternative is a lot worse. The alternative contohnya kalau kita tak ada toleransi langsung dalam masyarakat jernih macam itu ke apa semua kan, maksudnya bentuk generasi muda yang macam mana yang kita nak ada ni?
 
-[71:24] Kamil: Yang lembik ke?
+[71:24] Haziq Azfar: Yang lembik ke?
 
 [71:25] Rafizi Ramli: Ha kan nanti kalau tu kita kata dia lembik. Kan, katakanlah kita jadi pembangkang contohnya kan, kemudian kita akan komplain, "Ha generasi muda ni lembik, sebab dia tidak membawa isu kita." Jadi I think politics ini adalah satu lapangan dan pasaran yang terbuka. Masing-masing ada cara dia, produk dia, branding dia, marketing dia. Ini cara marketing dialah, ada yang mencarut tu semua kan, terpulanglah. Nanti bila besar nanti dia tengok balik dia, "Allahuakbar," kan. Nanti jumpa pak mentua, pak mentua kata, "Engkau nak kahwin dengan anak aku, tapi ha ni ha," kan. Jadi semua-semua tu. So I think yang lebih penting begini kan, what exactly do we want from our younger generation? I actually want them to care. Saya lebih bimbang kalau ada yang muda-muda ni lemah dia tak peduli, apa dia? Jadilah apa dia pun dia tak ambil pot pun. Ha yang itu lagi bahaya. Jadi bila orang ada pandangan terutamanya pandangan politik, pandangan tu biasalah. Ada yang over sedikitlah, ada yang apa nama ni mungkin ekstrim sedikit, asalkan dia tidak menjejaskan keselamatan awam dan yang lain-lain, saya rasa is best untuk kita hantar mesej yang budak-budak biarlah dia macam itu because he will grow older. Dan saya tengok PM pun tak tak tak kisah pun, kan? PM pun tak kisah pun.
 
@@ -437,23 +437,23 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [77:46] Rafizi Ramli: Engkau sajalah pergi debat dengan dia.
 
-[77:48] Kamil: Saya dah pernah bagi tahu.
+[77:48] Haziq Azfar: Saya dah pernah bagi tahu.
 
 [77:49] Rafizi Ramli: Kau pergi belajar dengan dia orang supaya boleh menjadi moderator yang lebih keras.
 
-[77:54] Kamil: Baik. YB okey, saya rasa kita dah tamat untuk isu...
+[77:54] Haziq Azfar: Baik. YB okey, saya rasa kita dah tamat untuk isu...
 
 [78:01] Iswardy Morni: Saya tak boleh tanya soalan ke?
 
-[78:02] Kamil: Bukan bukan, dah tamat untuk isu yang team production bagilah. Cuma kita ada masa lagi lebih YB.
+[78:02] Haziq Azfar: Bukan bukan, dah tamat untuk isu yang team production bagilah. Cuma kita ada masa lagi lebih YB.
 
 [78:07] Rafizi Ramli: Apalah team production lambat-lambat mana ni? Ni team production lepas ni akulah jadi team production.
 
-[78:14] Kamil: Mungkin kalau kita dapat benarkan Abang Is tanya YB sikit.
+[78:14] Haziq Azfar: Mungkin kalau kita dapat benarkan Abang Is tanya YB sikit.
 
 [78:17] Rafizi Ramli: Boleh boleh. Kalau aku jadi dia datang tak boleh tanya soalan, memang aku bakar.
 
-[78:22] Kamil: Sila bang, dengan segala hormatnya.
+[78:22] Haziq Azfar: Sila bang, dengan segala hormatnya.
 
 [78:24] Iswardy Morni: Okey YB, yang ni kita dah tahu pemilihan, ni dah dah habis cerita negara ni kita cerita politiklah pula. Dah ada juga cerita pemilihan? Ada, pemilihan tu dah habis. Saya tak bawa cerita pemilihan tu, kan cerita sistem apa semua tu apa yang disebut jelas sebagainya dah habislah. Yang tu saya malas nak ulang. Dan rakan-rakan kita kat luar ni saya kena sebut jugalah Faizal Rahman, Daniel Jani, Solihin dan sewaktu dengannyalah, Arman Kebenaran, siapa? Arman ke Amran ke? Kebenaran dan sewaktu dengannya kan, dah sebut dah benda-benda tu. So sekarang ni moving forward kita kata, YB pernah hilang daripada radar politik 2019. So lepas ni dengan keadaan yang berlaku dan sebagainya, dengan YB kata rasa macam hati tu agak terluka juga, adakah lepas ni YB akan hilang lagi?
 
@@ -525,23 +525,23 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [96:12] Rafizi Ramli: Depends lah, depends kan. Sebab selalunya the surveys yang yang kita buat sebenarnya commissioned dan commissioned by clients. Cuma you know dia bergantung kepada arrangement dengan client lah. Ada client dia tak nak apa nama ni data tu keluar because dia bayar. Kan, so depends lah.
 
-[96:31] Kamil: Baik. Abang ada lagi?
+[96:31] Haziq Azfar: Baik. Abang ada lagi?
 
 [96:33] Iswardy Morni: Banyak, tapi tu podcast lain.
 
-[96:36] Kamil: Bukan podcast lain eh bang?
+[96:36] Haziq Azfar: Bukan podcast lain eh bang?
 
 [96:37] Iswardy Morni: Saya akan ada podcast dengan YB Rafizi insya-Allah, kita akan atur.
 
-[96:40] Kamil: Okey baik.
+[96:40] Haziq Azfar: Okey baik.
 
 [96:41] Iswardy Morni: Ini dah berapa? Sejam lebih ni.
 
-[96:43] Kamil: Ya, 1 jam 30 minit eh YB. Okey saya rasa itu saja sesi episod kedua podcast Yang Berhenti Menteri...
+[96:43] Haziq Azfar: Ya, 1 jam 30 minit eh YB. Okey saya rasa itu saja sesi episod kedua podcast Yang Berhenti Menteri...
 
 [96:51] Rafizi Ramli: Podcast eh.
 
-[96:52] Kamil: Podcast Yang Berhenti Menteri kali ini. Sehingga kita berjumpa lagi pada akan datang, tak semestinya saya moderator. Ya, itu saja.
+[96:52] Haziq Azfar: Podcast Yang Berhenti Menteri kali ini. Sehingga kita berjumpa lagi pada akan datang, tak semestinya saya moderator. Ya, itu saja.
 
 [97:01] Rafizi Ramli: Kontrak akan disemak setiap minggu berdasarkan rating di luar. So kau orang kalau nak dia kekal...
 
@@ -549,5 +549,5 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [97:10] Rafizi Ramli: Ataupun likelah banyak-banyak, likelah banyak-banyak. Kesianlah kat dia.
 
-[97:15] Kamil: Tak apa saya tak kisah. Itu saja, kita jumpa lagi akan datang. Terima kasih, assalamualaikum dan selamat malam.
+[97:15] Haziq Azfar: Tak apa saya tak kisah. Itu saja, kita jumpa lagi akan datang. Terima kasih, assalamualaikum dan selamat malam.
 

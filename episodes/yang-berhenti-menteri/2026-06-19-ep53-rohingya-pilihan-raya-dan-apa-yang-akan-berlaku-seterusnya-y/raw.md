@@ -58,7 +58,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [12:08] Haziq: Saya rasa sebab jawatan KP J-KOM ni memang sangat panas. Dengan sebelum-sebelum ni mungkin expectation orang tu sangat tinggi. Dan yalah nak nak tunjuk dia betul-betul function tu sampai kena buat semua benda.
 
-[12:21] Pa'an: But the bar was very low. Because sebelum ni... Assalkan buat podcast, ada 10 orang menonton, okelah. Sebab itulah bar dia sebelum ni kan.
+[12:21] Farhan Iqbal: But the bar was very low. Because sebelum ni... Assalkan buat podcast, ada 10 orang menonton, okelah. Sebab itulah bar dia sebelum ni kan.
 
 [12:28] Rafizi Ramli: Tak, tapi sebenarnya, katalah kan, kau orang jadi Ketua Pengarah J-KOM, Pak An lah kot.
 
@@ -70,7 +70,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [12:37] Rafizi Ramli: Kau ke, Pak An ke, actually what is your assessment of the work deliverable? Takkan assessment dia, KPI paling tinggi ialah seberapa banyak, seberapa Beria kau jadi badut?
 
-[12:49] Pa'an: Because J-KOM ni tugas dia adalah untuk bridge the gap in communication between government dengan rakyat. So as KP J-KOM, shouldn't you be going on the ground getting feedback from the rakyat regarding performance kerajaan? Dan juga... Well that's given, right? From social media, that's given. But for a KP to be doing what he did tu, saya rasa macam sangat tak faham job scope ah.
+[12:49] Farhan Iqbal: Because J-KOM ni tugas dia adalah untuk bridge the gap in communication between government dengan rakyat. So as KP J-KOM, shouldn't you be going on the ground getting feedback from the rakyat regarding performance kerajaan? Dan juga... Well that's given, right? From social media, that's given. But for a KP to be doing what he did tu, saya rasa macam sangat tak faham job scope ah.
 
 [13:21] Rafizi Ramli: Kita pernah ulas- kita tolong bantulah, tolong bantu Syam Ghaz ni kan. Consultation procurement. Patutlah aku tak kaya sampai sekarang kan. Kan kita pernah ada slot kan, kita bincang mengenai masalah komunikasi kerajaan. So dia mesti bermula dengan orang kata situational assessment. Sebenarnya kenapa kerajaan ada masalah untuk menyampaikan dasar dan juga pencapaian kerajaan. So kenapa?
 
@@ -78,11 +78,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [14:03] Rafizi Ramli: Yeke? Is it because of bahasa? Kecillah kot.
 
-[14:08] Pa'an: Why rakyat tak tak dapat that messaging from... Yalah, I mean because the the hypothesis- bukan the hypothesis-lah, maksudnya logicnya mudahlah. Kerajaan merasakan bahawa mereka sekarang ini adalah satu kerajaan yang baik. Madani ini banyak membantu rakyat, sepatutnya mendapat sokongan besar. Tetapi diagnosis mereka ialah ada masalah komunikasi. Sebab itulah maka J-KOM ini menjadi cukup penting kerana maklumat itu tidak sampai kepada rakyat. Is that a correct hypothesis? Because it must begin with situation- situational assessment.
+[14:08] Farhan Iqbal: Why rakyat tak tak dapat that messaging from... Yalah, I mean because the the hypothesis- bukan the hypothesis-lah, maksudnya logicnya mudahlah. Kerajaan merasakan bahawa mereka sekarang ini adalah satu kerajaan yang baik. Madani ini banyak membantu rakyat, sepatutnya mendapat sokongan besar. Tetapi diagnosis mereka ialah ada masalah komunikasi. Sebab itulah maka J-KOM ini menjadi cukup penting kerana maklumat itu tidak sampai kepada rakyat. Is that a correct hypothesis? Because it must begin with situation- situational assessment.
 
 [15:00] Haziq: It can be true, cuma nak rely on satu jabatan untuk puaskan hati semua orang, susah juga.
 
-[15:08] Pa'an: So the loudest voice sekarang ni is geng-geng Che'GuBard. So that's the most front-facing messenger.
+[15:08] Farhan Iqbal: So the loudest voice sekarang ni is geng-geng Che'GuBard. So that's the most front-facing messenger.
 
 [15:15] Haziq: Dan Che'GuBard sebagai pemuka-pemuka depan. Maksudnya, dia tukar KP J-KOM banyak kali pun, orang yang sama tu, kita ada Datuk Taufiq, orang yang sama dalam tu.
 
@@ -124,7 +124,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [26:38] Rafizi Ramli: Jason Yew. Wong Chen tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli Parlimen Subang. Eh, Jason Yew ni content dia masih lagi viral macam dulu ke, ke traction dah kurang dah?
 
-[26:50] Pa'an: Nampak kalau kalau dekat X tu kuranglah, kurang banyaklah kan.
+[26:50] Farhan Iqbal: Nampak kalau kalau dekat X tu kuranglah, kurang banyaklah kan.
 
 [26:56] Haziq: X kurang. Saya tengah check TikTok, nanti I get back to you.
 
@@ -140,13 +140,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:43] Rafizi Ramli: Ya, ya, ya. Cuma aku rasa lepas itu bila orang tengok traction dia tinggi, semua kan, aku rasa semua orang lain pun pergi approach dia dan yalah, selesalah kan.
 
-[27:53] Pa'an: Tak terlalu tinggi, tapi volume is his game.
+[27:53] Farhan Iqbal: Tak terlalu tinggi, tapi volume is his game.
 
 [27:57] Rafizi Ramli: Tak, tak. Tapi berbanding dengan satu dua tahun lepas, dulu tinggilah kan volume. Maksudnya, if you look at the graph over 2-3 years, memang ada a drop-lah kot. That's the impression that I get-lah kan. Jadi dia kembali kepada soal J-KOM tadilah. Is actually it has it must begin with the substance of the content. Dia bukannya 100% pasal editing ke apa. Kalau tambah content politik, kalau content politik itu tidak popular, buat macam mana pun dia tak popularlah. Tapi yang ini, tukang tilik isi hati orang. So ini Jason yang letaklah, Wong Chen tidak berani meletak jawatan. Kalau letak jawatan dia katakan pengkhianat.
 
 [28:38] Haziq: Saya kecewalah, sebab Jason ni saya ingat dia budak yang jenislah. Mmm, kan. Tapi itu masalahnya bila yalah, bila terikat dengan parti. Sebab saya ingat sekarang dia terikat dengan PKR kan. Jadi kalau dia tak hentam macam ini, saya pun tak tahu sama ada ada orang bagi arahan kepada dia untuk buat content-content macam ini kan. Sebab kalau tengok content dia yang dulu-dulu, dia tak macam ini. Content dia yang dulu-dulu, dia tidak pernah melambangkan pandangan peribadi dia.
 
-[29:03] Pa'an: News.
+[29:03] Farhan Iqbal: News.
 
 [29:04] Rafizi Ramli: Ah, it's like news. Itu pun sebenarnya masa awal-awal dulu, our understanding. Sebab kita tak nak dia jadi pempengaruh yang kemudian boleh dilobi atau dibeli di dalam kalangan ahli politik ni. Who pays more, dan bila dia dah sampai certain traction, then orang itu dia jadi mouthpiece kepada orang itulah. Jason Yew ni sepatutnya masa awal-awal dulu, ialah dia just jadi berita. So dia cut and push, cut and push kan. Tapi sekarang kalau macam contoh ni, nampak macam gayanya ada arahanlah untuk dia menyerang, dan mulalah jadi macam ini. Mula membaca isi hati orang.
 
@@ -180,11 +180,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:11] Rafizi Ramli: Yeah. Dan banyak lagilah komen-komen lain.
 
-[32:14] Pa'an: Tipo ada search bot punya comments-lah dekat akaun BERSAMA dengan your account. So kami rasa ada.
+[32:14] Farhan Iqbal: Tipo ada search bot punya comments-lah dekat akaun BERSAMA dengan your account. So kami rasa ada.
 
 [32:21] Rafizi Ramli: Yang ini Instagram kan?
 
-[32:23] Pa'an: Ha ni Instagram.
+[32:23] Farhan Iqbal: Ha ni Instagram.
 
 [32:24] Rafizi Ramli: Mm-hmm. itulah. Kita kenal pastilah, ni dalam 2-3 hari ke belakangan inilah kan. Tiba-tiba ada orang dapat kontrak baru kot. Ah, kontrak mengendalikan bot. Ah, jadi padahal content yang ada dekat Instagram aku atau BERSAMA tu pun bukannya viral ke apa. Content biasa pun berapa kerat je pun orang tengok. Tapi bersungguh-sungguh menghantar tentera bot. Yang lawaknya bila dia orang tanya, bila dia orang share aku tengok, memang lawaklah. Ini agaknya dia dapat kontrak last minute. Kontrak cybertrooper last minute ni. Jadi mungkin apa nama ni dia dapat confirmation pun pukul 2:00 pagi. Dan-dan-dan nak suruh post masa tu. Jadi dia tertukar gambar. Dia buat akaun Tilaga Gunaratnam. Post 0, follower 0. Lepas tu dia follow sesama sendiri lah. Tapi dia tertukar gambar. Ini kakak mana jadi Tilaga Gunaratnam ni? Dan nama Tilaga Gunaratnam ni kan, jadi kepada sesiapa yang bernama Tilaga, berhati-hati eh. Nanti tiba-tiba ada ada kalau gambar kakak ni tak apa lagi, aku takut nama Tilaga Gunaratnam gambar lelaki. Kan?
 
@@ -216,7 +216,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:19] Haziq: Alamak, macam mana Pa'an?
 
-[38:20] Pa'an: Kena poke the hornet's nest.
+[38:20] Farhan Iqbal: Kena poke the hornet's nest.
 
 [38:22] Rafizi Ramli: Oh, maksudnya kita nak kena kembali kepada isu 9.5 juta. Haa.
 
@@ -238,7 +238,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:34] Haziq: Biasa.
 
-[39:35] Pa'an: Saya bias sikit, sebab saya memang nak pilih J-KOM.
+[39:35] Farhan Iqbal: Saya bias sikit, sebab saya memang nak pilih J-KOM.
 
 [39:44] Rafizi Ramli: Oh, den okelah. Okelah. Walaupun kita sebenarnya nampak macam Ramanan tu comel sangatlah, tapi tak apalah. Sebab kita dah bagi kuasa itu kepada Pa'an, maka pemenang minggu ini adalah...
 
@@ -482,7 +482,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:13:10] Rafizi Ramli: I mean kalau kita tengok balik, it's always a case of kalau kita accept, assimilation needs to be the main priority. Sebenarnya assimilation is a dirty word di Malaysia kan?
 
-[1:13:20] Pa'an: Maksudnya terimalah hakikat.
+[1:13:20] Farhan Iqbal: Maksudnya terimalah hakikat.
 
 [1:13:22] Rafizi Ramli: Ah, terimalah hakikat bahawa they are here to stay. Tapi di Malaysia, tak ada sesiapa berani cakap assimilation. Sebab isu berasimilasi ni kan sensitif di Malaysia kan. Jadi bila sebut pasal pelarian Rohingya ni, assimilation or non-assimilation, both ways are problematic.
 
@@ -490,7 +490,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:13:58] Rafizi Ramli: Betul. Dan bila berlaku 'enclave' ni, dia ada undang-undang dia sendiri, ada sistem dia sendiri. Lepas tu timbul masalah perniagaan, lesen perniagaan Ali Baba. Orang tempatan sewa lesen kat dia orang, dia orang berniaga. Lepas tu orang tempatan marah balik kat dia orang, padahal orang tempatan yang bagi lesen, sewa lesen kat dia orang.
 
-[1:14:20] Pa'an: Benda ni jadi kat Pasar Borong Selayang, kat Chow Kit, kat Klang.
+[1:14:20] Farhan Iqbal: Benda ni jadi kat Pasar Borong Selayang, kat Chow Kit, kat Klang.
 
 [1:14:26] Rafizi Ramli: Ya, benda ni berlaku sebab perundangan kita tak jelas. Kita tak bagi dia orang kerja secara sah, tapi dia orang kena hidup. So dia orang buat perniagaan secara haram atau guna lesen orang tempatan. PBT pulak kadang-kadang terlepas pandang atau ada rasuah. Lepas tu bila rakyat marah, PBT pergi serbu. Lepas serbu, dua minggu kemudian benda tu jadi balik. It's a vishous cycle.
 
@@ -498,7 +498,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:14:58] Rafizi Ramli: Pandangan sayalah, way forward dia kena ada beberapa langkah yang berani dan pragmatik. Pertama, dari segi keselamatan sempadan dan pemerdangan manusia. Enforcement kena betul-betul tegas. Perangi sindiket pemerdangan manusia ni tanpa kompromi. Jangan ada rasuah kat sempadan.
 
-[1:15:20] Pa'an: Yang kedua YB?
+[1:15:20] Farhan Iqbal: Yang kedua YB?
 
 [1:15:22] Rafizi Ramli: Yang kedua, untuk yang 130,000 atau 200,000 yang dah memang ada kat dalam negara ni, kita kena ada pendaftaran semula yang ketat dan menyeluruh oleh KDN sendiri, bukan sekadar bergantung pada kad UNHCR. Kita kena ada pangkalan data kita sendiri, biometric data.
 
@@ -506,7 +506,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:15:47] Rafizi Ramli: Lepas dah ada data yang tepat, kita kena tentukan status mereka. Kalau mereka diberi kebenaran bekerja sementara dalam sektor-sektor tertentu yang kekurangan tenaga kerja, yang tempatan tak nak kerja—contohnya sektor 3D (dirty, dangerous, difficult)—kita bagi permit kerja sementara (temporary work permit) yang ada kawalan.
 
-[1:16:10] Pa'an: Tapi tak bagi kerakyatan?
+[1:16:10] Farhan Iqbal: Tapi tak bagi kerakyatan?
 
 [1:16:12] Rafizi Ramli: No kerakyatan, no PR. Ini temporary humanitarian work permit. Dan mereka kena bayar levi, kena bayar caruman insurans kesihatan. Supaya mereka tak membebankan sistem kesihatan awam kita. Dan mereka ada pendapatan yang sah, bayar cukai atau levi, dan tidak terlibat dengan jenayah.
 
@@ -514,7 +514,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:16:38] Rafizi Ramli: Anak-anak mereka kena bagi pendidikan asas, sekurang-kurangnya kemahiran dan literasi. Sebab kalau tak dibagikan pendidikan, anak-anak ni bila besar nanti akan jadi generasi yang tiada kemahiran dan lebih mudah terjebak dengan masalah sosial dan jenayah. Tapi sekolah tu dibiayai oleh NGO atau UNHCR, dengan kurikulum yang dipantau oleh Kementerian Pendidikan.
 
-[1:17:05] Pa'an: Diplomatik pulak YB? Kat peringkat ASEAN?
+[1:17:05] Farhan Iqbal: Diplomatik pulak YB? Kat peringkat ASEAN?
 
 [1:17:08] Rafizi Ramli: Hah, ini penting. Malaysia kena gunakan kedudukan dalam ASEAN untuk terus tekan Myanmar. Peperangan dan penindasan kat Myanmar tu root cause dia. ASEAN kena ada pendirian lebih keras terhadap junta Myanmar. Dan kita kena minta negara-negara ketiga, negara maju yang selalu bercakap pasal human rights ni, supaya ambil sebahagian daripada pelarian ni untuk resettlement kat negara mereka. Jangan sekadar bagi nasihat kat Malaysia tapi tak nak ambil pelarian tu.
 
@@ -526,7 +526,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:18:12] Rafizi Ramli: Mesti ada. Orang akan cakap, "Rafizi ni nak bagi muka kat Rohingya." Tapi soalan saya balik, kalau tak buat macam ni, apa alternatif kau? Kau nak pi kumpul 200,000 orang ni campak dalam laut? Tak boleh. Kau nak biar macam sekarang? Lagi teruk masalah sosial dan jenayah. So being pragmatic is not being pro-Rohingya, it's about protecting national interest while observing basic humanity.
 
-[1:18:40] Pa'an: Benda ni perlukan political will yang tinggi dari Perdana Menteri dan Kabinet.
+[1:18:40] Farhan Iqbal: Benda ni perlukan political will yang tinggi dari Perdana Menteri dan Kabinet.
 
 [1:18:46] Rafizi Ramli: Tepat sekali. Perlu political will. Dan menteri-menteri berkenaan—KDN, KSM, Wisma Putra—kena duduk sekali buat blueprint komprehensif, bukan sekadar kenyataan media bila ada isu meletup.
 
@@ -540,7 +540,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:19:42] Haziq: YB, bila sebut pasal pilihan raya ni, baru-baru ni kecoh pasal perbelanjaan pilihan raya. Ada pimpinan politik kata satu kerusi parlimen boleh cecah sampai jutaan ringgit. Sanusi baru ni sebut sampai berapa juta?
 
-[1:19:58] Pa'an: Sanusi kata satu kerusi parlimen boleh cecah sampai RM5 juta, atau sekurang-kurangnya RM1 juta ke RM3 juta.
+[1:19:58] Farhan Iqbal: Sanusi kata satu kerusi parlimen boleh cecah sampai RM5 juta, atau sekurang-kurangnya RM1 juta ke RM3 juta.
 
 [1:20:06] Rafizi Ramli: Dengar RM5 juta satu kerusi parlimen. Kalau 222 kerusi, dah berapa bilion? Korang bayangkan. Sebab tu bila orang cakap pasal politik di Malaysia ni, money politics atau politik wang ni dah jadi punca segala kejahatan dan korupsi dalam pentadbiran.
 
@@ -548,7 +548,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:20:32] Rafizi Ramli: Bawah Akta Kesalahan Pilihan Raya 1954, had perbelanjaan untuk kerusi Parlimen ialah RM200,000. Untuk kerusi DUN ialah RM100,000. Itu undang-undang kata.
 
-[1:20:48] Pa'an: Tapi realitinya jauh bertiang-tiang beza!
+[1:20:48] Farhan Iqbal: Tapi realitinya jauh bertiang-tiang beza!
 
 [1:20:51] Rafizi Ramli: Jauh sangat! Sebab tu bila kita kira tadi dalam segmen Beria, kalau ikut pengiraan bahan kempen secara munasabah, banner, bendera, sewa dewan, cenderahati, elaun bilik gerakan, elaun pengundi luar, paling-paling tinggi munasabah untuk satu kerusi parlimen yang besar mungkin RM150,000 ke RM200,000. Macam mana boleh sampai cecah RM1 juta, RM3 juta, RM5 juta?
 
@@ -556,7 +556,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:21:24] Rafizi Ramli: Hah! Pergi kat mana lagi? Pergi kat "duit poket pengundi", duit minyak, beli undi, bayar rasuah politik, dan selebihnya masuk poket calon atau broker politik tu sendiri!
 
-[1:21:38] Pa'an: Sebab tu ramai orang berlumba-lumba nak jadi calon pilihan raya. Bukan sebab nak berkhidmat sangat, sebab duit peruntukan kempen yang datang dari taikun atau parti tu lekat kat tangan dia orang!
+[1:21:38] Farhan Iqbal: Sebab tu ramai orang berlumba-lumba nak jadi calon pilihan raya. Bukan sebab nak berkhidmat sangat, sebab duit peruntukan kempen yang datang dari taikun atau parti tu lekat kat tangan dia orang!
 
 [1:21:50] Rafizi Ramli: Tepat. Ini pengalaman saya sendiri menguruskan pilihan raya dan parti. Dulu masa kita kat PKR, masa saya jadi Setiausaha Agung dan Naib Presiden, kita tahu ada calon-calon yang bila PRU, dia minta peruntukan RM500,000. Bila kita bagi RM100,000, dia marah. Tapi bila tengok kempen dia kat lapangan, bendera ada 50 helai je, poster ciput. Rupa-rupanya RM80,000 lagi masuk akaun peribadi dia!
 
@@ -564,7 +564,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:22:24] Rafizi Ramli: Dalam politik bila dah biasa makan duit haram ni, depa dah tak fikir dosa pahala dah. Benda ni dah jadi sistemik. Sebab tu bila BERSAMA kita tubuhkan, kita katakan kita nak buat pendekatan berbeza.
 
-[1:22:38] Pa'an: BERSAMA punya pendekatan pengumpulan dana kempen macam mana YB?
+[1:22:38] Farhan Iqbal: BERSAMA punya pendekatan pengumpulan dana kempen macam mana YB?
 
 [1:22:42] Rafizi Ramli: BERSAMA kita amalkan crowdfund, iaitu sumbangan orang ramai secara terbuka dan telus. Kita audittan akaun parti, kita umumkan setiap sen yang masuk dan setiap sen yang keluar.
 
@@ -572,7 +572,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:23:04] Rafizi Ramli: Dulu orang kata tak boleh. Tapi kita dah buktikan masa kempen PRU14 dulu, masa Invoke, kita kumpul jutaan ringgit daripada rakyat jelata yang bagi RM10, RM50, RM100. Bila rakyat percaya bahawa duit tu guna untuk lawan korupsi dan bukannya masuk poket pemimpin, rakyat sanggup menyumbang.
 
-[1:23:25] Pa'an: Dan bila kita guna duit crowdfund rakyat, parti tak terikat dengan taikun-taikun perniagaan atau korporat mafia.
+[1:23:25] Farhan Iqbal: Dan bila kita guna duit crowdfund rakyat, parti tak terikat dengan taikun-taikun perniagaan atau korporat mafia.
 
 [1:23:33] Rafizi Ramli: Betul! Ini poin paling besar. Bila parti politik ambil duit juta-juta daripada taikun perniagaan, konsesi syarikat, kontraktor besar, ingatkan taikun tu bagi duit saja-saja sebab cinta kat parti tu? Tak ada maknanya! Bila parti tu menang dan jadi kerajaan, taikun tu datang tuntut balik kontrak, tuntut lesen, tuntut konsesi. Kat situlah bermulanya penyelewengan, projek pembinaan jalan mahal, projek jana kuasa mahal, ubat kementerian kesihatan mahal. Yang merana siapa? Rakyat jugak!
 
@@ -592,7 +592,7 @@ Keempat, Buka ruang untuk State Funding of Political Parties.
 
 [1:25:25] Rafizi Ramli: Maksudnya kerajaan bagi peruntukan kewangan asas kepada parti-parti politik yang layak berdasarkan peratusan undi yang mereka dapat dalam pilihan raya. Benda ni diamalkan kat banyak negara Eropah. Supaya parti tak perlu terhegeh-hegeh cari duit kat taikun korporat.
 
-[1:25:46] Pa'an: Tapi rakyat mesti marah kalau duit cukai rakyat guna untuk bagi kat parti politik?
+[1:25:46] Farhan Iqbal: Tapi rakyat mesti marah kalau duit cukai rakyat guna untuk bagi kat parti politik?
 
 [1:25:51] Rafizi Ramli: Rakyat rasa marah sebab tak faham. Tapi kalau bayar kat parti politik contohnya RM50 juta setahun secara sah dan telus, ia dapat elakkan kerajaan rugi berbilion ringgit akibat skandal rasuah dan penyalahgunaan kuasa oleh menteri yang nak ganti balik duit taikun tu! Which one is cheaper? Mana yang lebih jimat untuk negara?
 
@@ -604,7 +604,7 @@ Keempat, Buka ruang untuk State Funding of Political Parties.
 
 [1:26:52] Rafizi Ramli: Ya. Sebab tu bagi kita di BERSAMA, kita akan terus konsisten desak dan amalkan ketelusan dana politik ni. Kita takkan kompromi. Dalam PRN 6 negeri akan datang ni pun, BERSAMA akan bentangkan akaun kempen kita secara terbuka kepada umum.
 
-[1:27:12] Pa'an: BERSAMA tanding kat PRN 6 negeri ke YB?
+[1:27:12] Farhan Iqbal: BERSAMA tanding kat PRN 6 negeri ke YB?
 
 [1:27:15] Rafizi Ramli: BERSAMA kita fokus pembinaan struktur di peringkat akar umbi dahulu. Tapi kempen kesedaran dan pendidikan politik kita teruskan kat semua negeri. Kita nak rakyat faham, kalau nak ubah negara, kena ubah cara politik itu difahami dan dibiayai.
 
@@ -616,7 +616,7 @@ Keempat, Buka ruang untuk State Funding of Political Parties.
 
 [1:28:10] Rafizi Ramli: Ha, ini satu lagi topik berani mati! Bila kerajaan umum nak mansuhkan skim pencen bagi penjawat awam baru dan ganti dengan KWSP, terus kecoh satu negara.
 
-[1:28:22] Pa'an: Dan netizen terus bangkitkan, "Kenapa nak mansuhkan pencen penjawat awam tapi pencen YB, menteri dan ahli politik dikekalkan?"
+[1:28:22] Farhan Iqbal: Dan netizen terus bangkitkan, "Kenapa nak mansuhkan pencen penjawat awam tapi pencen YB, menteri dan ahli politik dikekalkan?"
 
 [1:28:32] Rafizi Ramli: Dan soalan netizen tu 100% betul dan adil! Kau tak boleh suruh rakyat atau penjawat awam ikat perut dan berkorban, tapi golongan elit politik yang berkhidmat 5 tahun je dah dapat pencen seumur hidup, siap boleh bertimbun-timbun pencen pulak tu!
 
@@ -628,7 +628,7 @@ Kalau dia pernah jadi Ahli Parlimen (MP), dia dapat pencen MP.
 Kalau dia pernah jadi Menteri atau Timbalan Menteri, dia dapat pencen jawatan pentadbiran tu.
 Kalau dia jadi Exco Negeri, dapat pencen Exco.
 
-[1:29:35] Pa'an: Maksudnya kalau orang tu pernah jadi DUN, Exco, MP dan Menteri, dia boleh kumpul 4 pencen berbeza setiap bulan?
+[1:29:35] Farhan Iqbal: Maksudnya kalau orang tu pernah jadi DUN, Exco, MP dan Menteri, dia boleh kumpul 4 pencen berbeza setiap bulan?
 
 [1:29:43] Rafizi Ramli: YA! Empat pencen berbeza! Contohnya pencen DUN RM4,000, pencen Exco RM5,000, pencen MP RM8,000, pencen Menteri RM10,000. Jumlah pencen dia sebulan boleh cecah RM25,000 ke RM30,000 seumur hidup! Hanya kerana dia berkhidmat beberapa tahun sahaja dalam pentadbiran!
 
@@ -636,7 +636,7 @@ Kalau dia jadi Exco Negeri, dapat pencen Exco.
 
 [1:30:15] Rafizi Ramli: Hah! Sebab itulah rakyat marah gila! Inequality atau ketidaksaksamaan ini terlalu melampau dan tidak ada moral langsung. Penjawat awam kerja 30-35 tahun, menghadap kerenah birokrasi, gaji permulaan kecil, baru dapat pencen beberapa ratus atau beberapa ribu ringgit. Ahli politik kerja 3-5 tahun, pencen berpuluh ribu sebulan.
 
-[1:30:40] Pa'an: YB sendiri amik pencen tak YB?
+[1:30:40] Farhan Iqbal: YB sendiri amik pencen tak YB?
 
 [1:30:43] Rafizi Ramli: Hahaha! Soalan maut dari Pa'an. Saya dah isytiharkan sebelum ini, saya bekas MP Pandan. Secara undang-undang saya layak dapat pencen MP. Tapi saya tidak mengambil pencen tersebut dan saya telah mendermakan pencen saya atau menyalurkannya kembali. Dan saya konsisten dari dulu bahawa sistem pencen ahli politik ini MESTI DIMANSUHKAN!
 
@@ -644,7 +644,7 @@ Kalau dia jadi Exco Negeri, dapat pencen Exco.
 
 [1:31:17] Rafizi Ramli: Wajib! Bukan setakat setuju, malah ahli politik sepatutnya menjadi kumpulan PERTAMA yang dimansuhkan pencen dan dipindahkan ke skim caruman KWSP!
 
-[1:31:30] Pa'an: Tapi ada orang hujah, "Ahli politik ni kena ada pencen sebab depa tak ada jaminan kerja, bila kalah pilihan raya depa hilang punca pendapatan." Apa jawapan YB pada hujah ni?
+[1:31:30] Farhan Iqbal: Tapi ada orang hujah, "Ahli politik ni kena ada pencen sebab depa tak ada jaminan kerja, bila kalah pilihan raya depa hilang punca pendapatan." Apa jawapan YB pada hujah ni?
 
 [1:31:42] Rafizi Ramli: Kepala hotak dia jaminan kerja! Hahaha! Siapa suruh kau jadi ahli politik? Politik ni adalah khidmat bakti kepada negara, bukannya kerjaya untuk cari jaminan persaraan kaya-raya! Kalau kau nak jaminan kerja dan pencen, pergi mohon jadi kerani atau Pegawai Tadbir Diplomatik (PTD) dari umur 25 tahun!
 
@@ -652,7 +652,7 @@ Kalau dia jadi Exco Negeri, dapat pencen Exco.
 
 [1:32:08] Rafizi Ramli: No, seriously! Bila kau pilih nak bertanding pilihan raya, kau tahu risiko politik. Lagipun masa kau jadi MP atau Menteri, elaun dan gaji kau dah berpuluh ribu sebulan. Gaji MP RM16,000 sebulan tak termasuk elaun mesyuarat, elaun kehadiran, elaun perjalanan. Gaji Menteri RM50,000 sebulan siap pemandu, kereta rasmi, rumah kediaman.
 
-[1:32:32] Pa'an: Takkanlah gaji dan elaun berpuluh ribu sebulan tu tak boleh mencarum KWSP sendiri dan buat simpanan persaraan?
+[1:32:32] Farhan Iqbal: Takkanlah gaji dan elaun berpuluh ribu sebulan tu tak boleh mencarum KWSP sendiri dan buat simpanan persaraan?
 
 [1:32:39] Rafizi Ramli: Tepat sekali! Karumkanlah 11% atau 15% daripada gaji RM50,000 tu masuk KWSP tiap-tiap bulan. Dalam masa 5 tahun dah ada ratusan ribu ringgit dalam akaun KWSP. Kenapa nak kena beban dana awam berasaskan cukai rakyat sampai umur 80-90 tahun untuk bayar pencen kau?
 
@@ -662,7 +662,7 @@ Kalau dia jadi Exco Negeri, dapat pencen Exco.
 Tahun 2023, bayaran pencen penjawat awam cecah RM31 bilion setahun!
 Dijangka menjelang tahun 2030, kalau skim ni tak diubah, bayaran pencen akan cecah RM46 bilion ke RM50 bilion setahun!
 
-[1:33:40] Pa'an: RM50 bilion setahun hanya untuk bayar pencen sahaja?
+[1:33:40] Farhan Iqbal: RM50 bilion setahun hanya untuk bayar pencen sahaja?
 
 [1:33:44] Rafizi Ramli: Ya! RM50 bilion daripada Bajet Negara yang sekitar RM300+ bilion. Maksudnya dekat 15% hingga 20% daripada pendapatan kerajaan habis bayar pencen dan emolumen sahaja. Baki untuk pembangunan sekolah, hospital, jalan raya, infrastruktur makin menguncup. So dari sudut pengurusan kewangan negara, reformasi skim pencen ni memang PERLU dibuat.
 
@@ -673,7 +673,7 @@ Kalau kau nak suruh doktor baru, guru baru, jururawat baru, polis baru masuk ski
 Maka PM, Menteri, Exco, MP dan DUN mesti potong pencen depa DULU!
 Tunjukkan teladan bahawa pimpinan elit politik sanggup berkorban dulu sebelum suruh rakyat berkorban!
 
-[1:34:52] Pa'an: Kalau kerajaan buat macam tu, rasanya rakyat dan penjawat awam boleh terima tak YB?
+[1:34:52] Farhan Iqbal: Kalau kerajaan buat macam tu, rasanya rakyat dan penjawat awam boleh terima tak YB?
 
 [1:34:57] Rafizi Ramli: Tentu sekali! Kerintangan (resistance) dan kemarahan rakyat sekarang bukannya sebab depa tak faham angka RM50 bilion tu. Depa marah sebab nampak ketidakadilan (double standard) yang ketara! Orang atas sedap mementingkan perut sendiri, orang bawah disuruh berkorban.
 
@@ -685,7 +685,7 @@ Tunjukkan teladan bahawa pimpinan elit politik sanggup berkorban dulu sebelum su
 3. Bagi penjawat awam sedia ada, kekalkan skim pencen mereka kerana itu adalah janji perkhidmatan masa mereka masuk kerja.
 4. Bagi penjawat awam baru (Skim KWSP), kerajaan mesti tingkatkan kadar caruman majikan (kerajaan) kepada KWSP mereka—contohnya 15% hingga 18%—supaya nilai persaraan mereka dalam KWSP apabila bersara kelak adalah kukuh dan setimpal dengan khidmat mereka.
 
-[1:36:20] Pa'an: Maksudnya kadar caruman majikan untuk penjawat awam baru ditingkatkan lebih tinggi daripada sektor swasta?
+[1:36:20] Farhan Iqbal: Maksudnya kadar caruman majikan untuk penjawat awam baru ditingkatkan lebih tinggi daripada sektor swasta?
 
 [1:36:27] Rafizi Ramli: Ya! Kerajaan carum 18% ke akaun KWSP penjawat awam. Dengan compounding interest KWSP sekitar 5%-6% setahun, selepas 30 tahun berkhidmat, simpanan KWSP penjawat awam tu boleh cecah RM1 juta ke RM1.5 juta. Itu memberi persaraan yang selesa tanpa membebankan bajet tahunan kerajaan secara berterusan di masa depan.
 
@@ -697,13 +697,13 @@ Tunjukkan teladan bahawa pimpinan elit politik sanggup berkorban dulu sebelum su
 
 [1:37:18] Rafizi Ramli: Jangan cakap berdegar-degar kat media je. Bawa usul pinda Akta Ahli Parlimen (Saraan) ke Parlimen, tengok siapa yang undi sokong dan siapa yang undi menolak! Muka-muka yang undi menolak tu, rakyat tandakan kat PRU akan datang!
 
-[1:37:34] Pa'an: Fuh, panas topik pencen ni. Tapi sangat puas hati dapat kupas secara terperinci.
+[1:37:34] Farhan Iqbal: Fuh, panas topik pencen ni. Tapi sangat puas hati dapat kupas secara terperinci.
 
 [1:37:42] Haziq: Okey YB, masa pun dah menghampiri penghujung podcast kita malam ni. Kita dah bersiaran hampir 3 jam dah ni YB!
 
 [1:37:50] Rafizi Ramli: Gila betul, 3 jam! Ini podcast paling panjang setakat ni ke apa?
 
-[1:37:55] Pa'an: Antara yang paling panjang YB. Tapi isi memang padat dari isu saringan kerja, J-KOM, isu Rohingya, political financing sampai ke isu pencen.
+[1:37:55] Farhan Iqbal: Antara yang paling panjang YB. Tapi isi memang padat dari isu saringan kerja, J-KOM, isu Rohingya, political financing sampai ke isu pencen.
 
 [1:38:08] Rafizi Ramli: Baguslah. Harap penonton tak bosan dan dapat ilmu serta kefahaman baru. Bukan sekadar dengar kita gebang beria je.
 
@@ -714,7 +714,7 @@ Sabtu ini (20hb), kita ada Jelajah Kancil / Jelajah BERSAMA di Kelantan!
 Lokasinya di Pantai Cahaya Bulan (PCB), Kota Bharu, bermula jam 8.30 malam.
 Ahad ini (21hb), kita akan bergerak ke Pahang, berlokasi di Indera Mahkota, Kuantan.
 
-[1:38:50] Pa'an: Siapa yang patut hadir YB?
+[1:38:50] Farhan Iqbal: Siapa yang patut hadir YB?
 
 [1:38:52] Rafizi Ramli: Semua warga Kelantan dan Pahang, terutamanya anak-anak muda, pengundi-pengundi, ahli-ahli BERSAMA dan sesiapa sahaja yang nak dengar penerangan lanjut serta nak beli tiket majlis makan malam WIFUND BERSAMA. Datang ramai-ramai! Kita sembang santai dan kita jawab soalan secara terus.
 
@@ -736,7 +736,7 @@ Ahad ini (21hb), kita akan bergerak ke Pahang, berlokasi di Indera Mahkota, Kuan
 
 [1:40:48] Rafizi Ramli: Betul. Problem dengan parti-parti politik tradisional ni, depa dah terbiasa dapat suntikan dana ratusan juta daripada tauke-tauke korporat, taikun, kontraktor. Mana ada tauke bagiRM50 juta saja-saja sebab minat kat muka pimpinan parti tu? Tak ada. Mestilah lepas pilihan raya depa datang tuntut projek, tuntut konsesi, tuntut kelulusan lesen.
 
-[1:41:15] Pa'an: Benda tu yang menyebabkan kos projek kerajaan jadi mahal, sebab nak kena cover balik 'investment' pilihan raya tauke-tauke tu.
+[1:41:15] Farhan Iqbal: Benda tu yang menyebabkan kos projek kerajaan jadi mahal, sebab nak kena cover balik 'investment' pilihan raya tauke-tauke tu.
 
 [1:41:25] Rafizi Ramli: Tepat sekali. Duit rasuah dan mark-up projek tulah yang akhirnya dibayar oleh rakyat melalui cukai, harga barang naik, infrastruktur kualiti rendah. Sebab tu politik wang ni isu nombor satu yang memusnahkan negara.
 
@@ -744,7 +744,7 @@ Ahad ini (21hb), kita akan bergerak ke Pahang, berlokasi di Indera Mahkota, Kuan
 
 [1:41:55] Rafizi Ramli: Sebab ahli-ahli politik yang ada kat Parlimen tu dari parti-parti lama, depa tak nak terikat! Depa tak nak akaun parti depa diaudit, depa tak nak punca dana depa diisytiharkan secara terbuka. Bila ada akta ni, depa dah tak boleh terima sumbangan ghaib tunai berbilion ringgit simpan dalam rumah ke, akaun amanah ke.
 
-[1:42:20] Pa'an: Kalau BERSAMA atau kerajaan nak bentang Akta Pendanaan Politik ni, apa benda paling utama kena ada dalam akta tu YB?
+[1:42:20] Farhan Iqbal: Kalau BERSAMA atau kerajaan nak bentang Akta Pendanaan Politik ni, apa benda paling utama kena ada dalam akta tu YB?
 
 [1:42:30] Rafizi Ramli: Ada tiga atau empat tiang utama.
 Pertama, haramkan terus sumbangan daripada syarikat berkaitan kerajaan (GLC) dan entiti asing.
@@ -756,7 +756,7 @@ Keempat, kena ada State Funding atau peruntukan dana kerajaan berdasarkan peratu
 
 [1:43:16] Rafizi Ramli: Ya, di Jerman, di Sweden, banyak negara Eropah buat macam tu. Kerajaan peruntukkan contohnya RM30 juta atau RM50 juta setahun diagih ikut peratus undi PRU lepas. Duit tu khusus untuk pengurusan parti dan kempen. Bila ada State Funding, parti tak ada alasan lagi nak pi minta duit kat tauke mafia atau kontraktor rasuah.
 
-[1:43:42] Pa'an: Tapi orang akan pertikai, "Kenapa guna duit cukai rakyat bagi kat parti politik?"
+[1:43:42] Farhan Iqbal: Tapi orang akan pertikai, "Kenapa guna duit cukai rakyat bagi kat parti politik?"
 
 [1:43:48] Rafizi Ramli: Bayar RM50 juta duit cukai untuk State Funding jauuuuuh lebih jimat daripada membiarkan menteri korup rompak berbilion ringgit duit projek kerajaan nak ganti balik duit tauke! Haa, itu perbandingan yang rakyat kena faham.
 
@@ -768,7 +768,7 @@ Keempat, kena ada State Funding atau peruntukan dana kerajaan berdasarkan peratu
 
 [1:44:42] Rafizi Ramli: Ha, ini baru betul-betul membakar jiwa rakyat! Cadangan kerajaan nak hapuskan skim pencen berganjar untuk penjawat awam baru dan ganti dengan KWSP.
 
-[1:44:55] Pa'an: Reaksi rakyat kat media sosial, "Kenapa penjawat awam yang kerja 30 tahun nak dimansuhkan pencen, tapi ahli politik yang kerja 5 tahun kekal dapat pencen berangkai-rangkai?"
+[1:44:55] Farhan Iqbal: Reaksi rakyat kat media sosial, "Kenapa penjawat awam yang kerja 30 tahun nak dimansuhkan pencen, tapi ahli politik yang kerja 5 tahun kekal dapat pencen berangkai-rangkai?"
 
 [1:45:08] Rafizi Ramli: Dan kemarahan rakyat tu 100% justified! 100% adil! Mana boleh kau suruh cikgu, jururawat, polis, askar berkorban kononnya sebab bajet kerajaan berat bayar pencen, tapi korang ahli politik, menteri, DUN, MP siap dapat pencen bertingkat-tingkat!
 
@@ -781,7 +781,7 @@ Kalau dia dilantik jadi Exco Negeri, ada pencen Exco.
 Kalau dia jadi Menteri atau Timbalan Menteri, ada pencen pentadbiran.
 So kalau orang tu pernah pegang semua jawatan ni, setiap bulan dia terima empat keping cek pencen berbeza! Total pencen sebulan boleh cecah RM30,000 ke RM40,000 seumur hidup!
 
-[1:46:25] Pa'an: Berkhidmat 5 tahun sahaja, tapi dapat pencen RM30,000 sebulan sampai meninggal dunia!
+[1:46:25] Farhan Iqbal: Berkhidmat 5 tahun sahaja, tapi dapat pencen RM30,000 sebulan sampai meninggal dunia!
 
 [1:46:32] Rafizi Ramli: Ya! Sedangkan kerani sekolah atau anggota polis gred rendah yang berkhidmat 35 tahun, pencen depa RM1,500 sebulan. Mana ada keadilan мораль kat situ? Mana ada moral authority bila kerajaan bercakap pasal penjimatan kewangan awam?
 
@@ -789,7 +789,7 @@ So kalau orang tu pernah pegang semua jawatan ni, setiap bulan dia terima empat 
 
 [1:46:58] Rafizi Ramli: Saya dah tegaskan bertahun-tahun dulu, saya tak ambil pencen MP saya. Saya nyatakan secara terbuka, dana pencen tu disalurkan semula atau disumbangkan. Dan stance saya konsisten dari dulu: pencen ahli politik mesti dimansuhkan dan digantikan dengan caruman KWSP!
 
-[1:47:20] Pa'an: Tapi ada pimpinan politik kata, "Wakil rakyat ni kena ada pencen sebab depa tak ada jaminan kerja, lepas bertanding kalah depa tak ada pencen."
+[1:47:20] Farhan Iqbal: Tapi ada pimpinan politik kata, "Wakil rakyat ni kena ada pencen sebab depa tak ada jaminan kerja, lepas bertanding kalah depa tak ada pencen."
 
 [1:47:30] Rafizi Ramli: Hahaha! Jawapan tu paling tak ada otak sekali! Masa kau jadi MP, gaji base kau RM16,000 sebulan. Elaun mesyuarat, elaun parlimen, elaun perjalanan, elaun keraian masuk lagi RM10,000-RM15,000. Kalau kau Menteri, gaji elaun cecah RM50,000-RM60,000 sebulan. Takkanlah dari gaji puluhan ribu sebulan tu kau tak reti nak carum KWSP atau simpan sendiri untuk hari tua kau? Siapa suruh kau boros?
 
@@ -797,7 +797,7 @@ So kalau orang tu pernah pegang semua jawatan ni, setiap bulan dia terima empat 
 
 [1:48:08] Rafizi Ramli: Betullah! Nak jadi ahli politik ni bukannya paksaan. It is a public service, bukannya skim persaraan mewah! Kalau kau nak jaminan persaraan terjamin, pi mohon kerja PTD atau gred N19 dari umur 20-an.
 
-[1:48:25] Pa'an: Dari segi statistik kewangan negara pulak YB, berapa sebenarnya beban pencen yang kerajaan kena tanggung sekarang ni?
+[1:48:25] Farhan Iqbal: Dari segi statistik kewangan negara pulak YB, berapa sebenarnya beban pencen yang kerajaan kena tanggung sekarang ni?
 
 [1:48:35] Rafizi Ramli: Tahun 2023, bayaran pencen penjawat awam sahaja cecah RM31 bilion hingga RM32 bilion setahun.
 Anggaran kementerian kewangan, kalau skim pencen lama ni diteruskan tanpa perubahan, menjelang tahun 2040 bayaran pencen sahaja akan cecah RM120 bilion setahun!
@@ -807,7 +807,7 @@ Bayangkan, RM120 bilion satu tahun hanya bayar pencen! Mana kerajaan nak cari du
 
 [1:49:15] Rafizi Ramli: Memang tak dapat elak. Mana-mana kerajaan yang mentadbir pun akan berdepan dengan bom jangka kewangan pencen ni. Cuma pendekatan dan pimpinan melalui teladan (leadership by example) tu yang menentukan sama ada rakyat terima atau bangkit marah.
 
-[1:49:35] Pa'an: Jadi apa cadangan BERSAMA untuk selesaikan isu pencen ni secara adil untuk semua?
+[1:49:35] Farhan Iqbal: Jadi apa cadangan BERSAMA untuk selesaikan isu pencen ni secara adil untuk semua?
 
 [1:49:42] Rafizi Ramli: Tiga perkara asas BERSAMA tegaskan:
 1. Pinda Akta Saraan Ahli Parlimen serta-merta. Mansuhkan sistem pencen bagi semua Ahli Parlimen, DUN, Menteri, Exco berkuat kuasa serta-merta dan tukar ke sistem caruman KWSP.
@@ -818,7 +818,7 @@ Bayangkan, RM120 bilion satu tahun hanya bayar pencen! Mana kerajaan nak cari du
 
 [1:50:45] Rafizi Ramli: Ya, compounding interest KWSP purata 5.5% setahun. Bila caruman tinggi, selepas 30-35 tahun berkhidmat, depa ada simpanan RM1.2 bilion hingga RM1.5 juta. Depa boleh hidup selesa tanpa kerajaan kena tanggung bajet berterusan sampai depa umur 90 tahun.
 
-[1:51:08] Pa'an: Cadangan ni adil untuk kewangan negara dan adil untuk moral penjawat awam.
+[1:51:08] Farhan Iqbal: Cadangan ni adil untuk kewangan negara dan adil untuk moral penjawat awam.
 
 [1:51:15] Rafizi Ramli: Tapi itulah, berani ke tidak ahli-ahli parlimen sekarang nak luluskan undang-undang mansuh pencen depa sendiri? Kita tengok dalam sidang Parlimen akan datang.
 
@@ -830,7 +830,7 @@ Bayangkan, RM120 bilion satu tahun hanya bayar pencen! Mana kerajaan nak cari du
 
 [1:52:05] Rafizi Ramli: Ya, alhamdulillah Jelajah Kancil BERSAMA berjalan dengan begitu lancar di beberapa lokasi sebelum ini. Rakyat hadir beramai-ramai walaupun kita tak ada peruntukan buat dewan mewah atau jemput artis.
 
-[1:52:22] Pa'an: Minggu ni Jelajah Kancil BERSAMA akan ke mana YB?
+[1:52:22] Farhan Iqbal: Minggu ni Jelajah Kancil BERSAMA akan ke mana YB?
 
 [1:52:26] Rafizi Ramli: Minggu ni kita akan berada di Pantai Timur!
 Sabtu, 20hb — kita akan berada di Kota Bharu, Kelantan!
@@ -842,7 +842,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:53:06] Rafizi Ramli: Datang ramai-ramai. Bawa keluarga, bawa kawan-kawan. Kita buat secara terbuka, santai, ada sesi soal jawab langsung. Siapa-siapa nak tanya soalan paling pedas pun boleh tanya malam tu.
 
-[1:53:20] Pa'an: Dan pendaftaran ahli BERSAMA pun dibuka secara fizikal kat tapak jelajah kan YB?
+[1:53:20] Farhan Iqbal: Dan pendaftaran ahli BERSAMA pun dibuka secara fizikal kat tapak jelajah kan YB?
 
 [1:53:26] Rafizi Ramli: Ya, pendaftaran ahli BERSAMA boleh dibuat secara fizikal di kaunter jelajah atau secara dalam talian di laman web bersama.org.my.
 
@@ -850,7 +850,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:53:46] Rafizi Ramli: Ya, majlis makan malam dana WIFUND BERSAMA akan diadakan pada 27hb di SJKC Chung Hwa, Jalan Pudu, Kuala Lumpur. Tiket-tiket berharga RM150, RM300, RM500 dan meja VIP masih boleh dibeli di laman web.
 
-[1:54:05] Pa'an: Siapa yang beli tiket WIFUND ni dikira menyumbang terus kepada dana perjuangan politik BERSAMA secara telus.
+[1:54:05] Farhan Iqbal: Siapa yang beli tiket WIFUND ni dikira menyumbang terus kepada dana perjuangan politik BERSAMA secara telus.
 
 [1:54:12] Rafizi Ramli: Ya, setiap sen sumbangan WIFUND akan diaudit dan dilaporkan. Duit itulah yang kita guna untuk cetak bahan kempen, sewa dewan, operasi bilik gerakan tanpa bergantung pada taikun rasuah.
 
@@ -858,7 +858,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:54:42] Rafizi Ramli: Fuh, patutlah aku dah rasa nak terkencing sekali lagi! Hahaha! Hampir 2 jam bersiaran.
 
-[1:54:50] Pa'an: Tapi perbincangan malam ni memang antara yang paling padat dan puas hati.
+[1:54:50] Farhan Iqbal: Tapi perbincangan malam ni memang antara yang paling padat dan puas hati.
 
 [1:54:56] Rafizi Ramli: Terima kasih kepada Haziq, Pa'an, Amir, Zaim dan seluruh krew teknikal BERSAMA. Dan terima kasih khas kepada penonton dan pendengar setia podcast Yang Bakal Menteri di YouTube, Spotify dan TikTok!
 
@@ -882,7 +882,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:14:41] Rafizi Ramli: Assimilation pulak di Malaysia is a dirty word. Sebab kat Malaysia ni, even sesama warganegara pun, bila sebut perkataan asimilasi, orang ingat kita nak Melayukan orang lain, or we want to change their culture, you know. So, in Malaysia, assimilation has that negative connotation, kan? So non-assimilation is bad, assimilation is a dirty word. So that's why we have this deadlock. Sebab tak ada siapa berani sentuh, tak ada siapa berani cakap secara terus-terang, okay, what is our policy regarding refugees?
 
-[1:15:20] Pa'an: Sebab kita tak sign 1951 Convention tu kan?
+[1:15:20] Farhan Iqbal: Sebab kita tak sign 1951 Convention tu kan?
 
 [1:15:24] Rafizi Ramli: Ya, 1951 Refugee Convention tu kita tak sign. Sebab bila sign convention tu, dia ada obligation. Kena bagi kebebasan bergerak, kena bagi hak bekerja, kena bagi akses kepada pendidikan awam, kesihatan awam sama taraf. Kerajaan-kerajaan dulu takut bila kita sign, dia jadi pull factor. Nanti berjuta-juta lagi pelarian dari serata rantau akan serbu datang Malaysia.
 
@@ -890,7 +890,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:15:57] Rafizi Ramli: Depa tetap datang sebab geografi negara kita, sebab ekonomi kita kukuh berbanding jiran-jiran, sebab keselesaan, dan sebab dah ada rangkaian komuniti depa kat sini. So bila tak sign convention, kita ambik pendekatan berpura-pura benda ni tak wujud atau tutup sebelah mata. UNHCR buka pejabat kat KL, UNHCR keluarkan kad, tapi dari segi undang-undang tempatan, kad UNHCR tu tidak memberi apa-apa taraf sah di bawah Akta Imigresen.
 
-[1:16:32] Pa'an: Maksudnya dari segi undang-undang Imigresen, depa tetap pendatang tanpa izin (PATI)?
+[1:16:32] Farhan Iqbal: Maksudnya dari segi undang-undang Imigresen, depa tetap pendatang tanpa izin (PATI)?
 
 [1:16:37] Rafizi Ramli: Ya, di bawah Akta Imigresen 1959/63, depa tetap dikira PATI. Boleh ditangkap, boleh ditahan kat depot tahanan imigresen. Tapi pada masa yang sama, UNHCR bagi kad. So dia jadi satu keadaan yang limbo, sangat pelik.
 
@@ -898,7 +898,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:17:06] Rafizi Ramli: Hah, itulah kesannya! Bila depa tak ada dokumen sah untuk bekerja secara rasmi, depa kena cari makan jugak. So depa masuk sektor informal—kerja binaan, kerja pembersihan, kerja kat pasar borong. Lepas tu ada peniaga tempatan yang sewakan lesen PBT kat depa, amalkan Ali Baba. Peniaga tempatan duduk rumah goyang kaki dapat RM2,000-RM3,000 sebulan, Rohingya tu yang jalankan kedai. Bila penduduk tempatan marah sebab kedai penuh dengan warga asing, PBT pergi serbu. Lepas serbu dua minggu, kedai tu buka balik guna nama orang tempatan lain pulak. It's a vicious cycle of hypocrisy.
 
-[1:18:00] Pa'an: Dan bila berlaku jenayah atau isu kebersihan, kemarahan rakyat tempatan makin memuncak.
+[1:18:00] Farhan Iqbal: Dan bila berlaku jenayah atau isu kebersihan, kemarahan rakyat tempatan makin memuncak.
 
 [1:18:07] Rafizi Ramli: Betul. Kemarahan rakyat tempatan tu ada asasnya. Sebab bila komuniti tu makin besar, tak terurus, ada isu kebersihan, ada isu keselamatan, ada kes pergaduhan. Orang tempatan rasa kawasan depa dah ditakluk. Tu yang timbul sentimen right-wing dan xenophobia yang sangat tebal kat media sosial sekarang ni.
 
@@ -909,7 +909,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 Pilihan pertama: Repatriation atau hantar balik ke negara asal.
 Macam kita bincang tadi, Myanmar tak iktiraf depa sebagai warga negara, dan keadaan kat Rakhine State tu masih ada konflik dan pembunuhan. Bawah undang-undang antarabangsa dan prinsip customary international law (non-refoulement), kita tak boleh hantar orang balik ke tempat yang nyawa depa terancam. Tambah pulak junta Myanmar tak nak terima depa. So option hantar balik secara pukal ni dalam jangka masa pendek memang tak realistik.
 
-[1:19:30] Pa'an: Pilihan kedua YB? Resettlement ke negara ketiga?
+[1:19:30] Farhan Iqbal: Pilihan kedua YB? Resettlement ke negara ketiga?
 
 [1:19:35] Rafizi Ramli: Pilihan kedua: Third-country resettlement melalui UNHCR. Dulu negara-negara Barat macam Amerika, Kanada, Australia, negara-negara Eropah ada peruntukan kuota untuk ambik pelarian dari Malaysia dan Bangladesh untuk penempatan semula. Tapi sejak 2015/2016, bila berlakunya krisis pelarian Syria dan gelombang kanan kat Barat, negara-negara ni dah potong kuota pelarian depa hampir 90%! Jadi kadar penempatan ke negara ketiga sekarang ni dah jadi terlalu kecil, ibarat menitiskan air dalam baldi. So tak boleh harapkan negara ketiga ambik depa semua.
 
@@ -921,7 +921,7 @@ Langkah pertama: Kerajaan melalui KDN kena buat pendaftaran penuh biometric bagi
 
 Langkah kedua: Bagi mereka yang berdaftar, kita keluarkan pas kerja sementara yang terhad (temporary work pass) dalam sektor-sektor khas yang mengalami masalah kekurangan tenaga kerja kritikal yang orang tempatan tak nak buat. Contohnya sektor pertanian, perladangan, pembinaan.
 
-[1:21:40] Pa'an: Tapi ada syarat-syarat ketat tak YB?
+[1:21:40] Farhan Iqbal: Tapi ada syarat-syarat ketat tak YB?
 
 [1:21:43] Rafizi Ramli: Mestilah ada syarat ketat!
 - Tidak ada laluan kepada pemastautin tetap (PR) atau kerakyatan. Mesti kekal status pas kerja sementara.
@@ -932,7 +932,7 @@ Langkah kedua: Bagi mereka yang berdaftar, kita keluarkan pas kerja sementara ya
 
 [1:22:24] Rafizi Ramli: Pendidikan asas dan kemahiran wajib dibenarkan melalui sekolah-sekolah komuniti atau pembiayaan UNHCR/NGO. Sebab kalau budak-budak ni dibiarkan buta huruf dan merayau kat jalanan tanpa sekolah, 10-15 tahun lagi depa akan jadi ancaman jenayah yang lebih besar kepada masyarakat kita!
 
-[1:22:50] Pa'an: Tapi YB, mana-mana ahli politik yang cadang nak bagi pas kerja atau benarkan sekolah untuk Rohingya ni akan terus dicap sebagai "pengkhianat" atau "pro-Rohingya".
+[1:22:50] Farhan Iqbal: Tapi YB, mana-mana ahli politik yang cadang nak bagi pas kerja atau benarkan sekolah untuk Rohingya ni akan terus dicap sebagai "pengkhianat" atau "pro-Rohingya".
 
 [1:22:58] Rafizi Ramli: Hah! Itulah puncanya kenapa benda ni tergantung berpuluh tahun! Sebab ahli politik takut hilang undi! Ahli politik lebih rela berdiam diri, biarkan masalah ni makin parah di bawah karpet, janji depa selamat dalam pilihan raya. Tapi bagi saya, statesmanship atau kepimpinan sejati ialah berani berinteraksi dengan rakyat, terangkan fakta yang pahit, dan buat keputusan yang terbaik untuk keselamatan dan kedaulatan negara jangka panjang.
 
@@ -948,7 +948,7 @@ Langkah kedua: Bagi mereka yang berdaftar, kita keluarkan pas kerja sementara ya
 
 [1:24:45] Rafizi Ramli: RM5 juta satu kerusi parlimen? Biar betul Sanusi ni! Kalau satu kerusi RM5 juta, 222 kerusi parlimen dah cecah RM1.1 bilion! Tu baru satu parti atau satu gabungan. Mana mai duit banyak tu?
 
-[1:25:05] Pa'an: Bawah undang-undang SPR sekarang, had perbelanjaan kempen sebenarnya berapa YB?
+[1:25:05] Farhan Iqbal: Bawah undang-undang SPR sekarang, had perbelanjaan kempen sebenarnya berapa YB?
 
 [1:25:10] Rafizi Ramli: Bawah Akta Kesalahan Pilihan Raya 1954:
 - Had maksima perbelanjaan untuk kerusi Parlimen ialah RM200,000.
@@ -969,7 +969,7 @@ Berapa kos bahan kempen?
 - Elaun elaun petugas PACABA (Polling/Counting Agents) = RM20,000.
 Jumlah kos asas kempen yang sangat aktif: Sekitar RM125,000 ke RM150,000 sahaja!
 
-[1:27:00] Pa'an: Jadi kalau kos asas kempen baru RM150,000, macam mana perbelanjaan boleh sampai RM2 juta atau RM5 juta satu kerusi?
+[1:27:00] Farhan Iqbal: Jadi kalau kos asas kempen baru RM150,000, macam mana perbelanjaan boleh sampai RM2 juta atau RM5 juta satu kerusi?
 
 [1:27:08] Rafizi Ramli: Baki RM1.8 juta atau RM4.8 juta tu pergi kat mana?
 Pergi kat beli pengundi! Bayar "duit minyak" RM100 seorang kat ribu-ribu pengundi, bayar tok-tok guru atau ketua-ketua tempatan, bagi hamper, bagi beras, panggil konsert, dan baki beratus ribu lagi masuk poket calon atau broker politik tu sendiri!
@@ -978,7 +978,7 @@ Pergi kat beli pengundi! Bayar "duit minyak" RM100 seorang kat ribu-ribu pengund
 
 [1:27:42] Rafizi Ramli: Ya! It is outright vote-buying and money politics! Tapi bila depa cakap kat media, depa guna istilah halus, "kos kempen tinggi". Kos kempen tak tinggi kalau kau tak beli pengundi!
 
-[1:27:58] Pa'an: Sebab tu bila BERSAMA tubuhkan model kewangan parti, BERSAMA guna pendekatan yang berbeza kan YB?
+[1:27:58] Farhan Iqbal: Sebab tu bila BERSAMA tubuhkan model kewangan parti, BERSAMA guna pendekatan yang berbeza kan YB?
 
 [1:28:05] Rafizi Ramli: Ya, BERSAMA amalkan model pendermaan awam (crowdfunding) melalui platform WIFUND dan sumbangan telus. Kita kempen cara jimat, guna media digital, guna jentera sukarelawan, tak ada bagi-bagi duit minyak atau kad beras.
 
@@ -986,7 +986,7 @@ Pergi kat beli pengundi! Bayar "duit minyak" RM100 seorang kat ribu-ribu pengund
 
 [1:28:32] Rafizi Ramli: Depa ejek sebab depa dah biasa dapat suntikan dana beratus juta daripada taikun korporat, tauke judi, tauke kontraktor. Tapi ingat, tak ada tauke yang bagi RM20 juta atau RM50 juta kat parti politik secara percuma! Selepas pilihan raya, bila parti tu menang dan jadi kerajaan, tauke-tauke ni akan datang minta balasan—minta projek rundingan terus, minta kelulusan tanah, minta lesen konsesi.
 
-[1:29:05] Pa'an: Dan pusing-pusing, kos rasuah tu dibayar balik oleh rakyat melalui harga projek yang dikembungkan (mark-up)!
+[1:29:05] Farhan Iqbal: Dan pusing-pusing, kos rasuah tu dibayar balik oleh rakyat melalui harga projek yang dikembungkan (mark-up)!
 
 [1:29:12] Rafizi Ramli: Ya! Projek bina hospital sepatutnya RM200 juta jadi RM400 juta. Lebihan RM200 juta tu disonglap untuk cover balik hutang dana kempen parti politik! Inilah kebinasaan sistemik yang melanda negara kita berpuluh-puluh tahun.
 
@@ -994,7 +994,7 @@ Pergi kat beli pengundi! Bayar "duit minyak" RM100 seorang kat ribu-ribu pengund
 
 [1:29:40] Rafizi Ramli: Akta Pendanaan Politik ni sepatutnya dah lama digubal dan diluluskan. Masa zaman Kerajaan Pakatan Harapan 1.0 dulu, draf tu dah ada. Tapi bila tukar-tukar kerajaan, benda ni dimasukkan dalam laci semula.
 
-[1:30:00] Pa'an: Apa tiang utama yang wajib ada dalam Akta Pendanaan Politik ni?
+[1:30:00] Farhan Iqbal: Apa tiang utama yang wajib ada dalam Akta Pendanaan Politik ni?
 
 [1:30:05] Rafizi Ramli: Ada empat perkara utama:
 1. Pengharaman sumbangan daripada GLC, syarikat berkaitan kerajaan, dan entiti asing.
@@ -1011,7 +1011,7 @@ Contohnya: Kerajaan peruntukkan RM50 juta setahun untuk dana parti politik.
 - Parti B dapat 30% undi = dapat RM15 juta.
 - Parti C dapat 10% undi = dapat RM5 juta.
 
-[1:31:35] Pa'an: Bila parti dapat peruntukan rasmi daripada kerajaan, parti tak boleh lagi minta atau terima derma rahsia daripada tauke-tauke swasta?
+[1:31:35] Farhan Iqbal: Bila parti dapat peruntukan rasmi daripada kerajaan, parti tak boleh lagi minta atau terima derma rahsia daripada tauke-tauke swasta?
 
 [1:31:42] Rafizi Ramli: Ya! Mana-mana parti atau pimpinan yang didapati terima dana luar secara haram boleh dibatalkan pendaftaran parti dan pimpinan didakwa di mahkamah. Negara-negara berkembang maju seperti Jerman, Sweden, UK dah lama buat benda ni.
 
@@ -1019,7 +1019,7 @@ Contohnya: Kerajaan peruntukkan RM50 juta setahun untuk dana parti politik.
 
 [1:32:08] Rafizi Ramli: Bayar RM50 juta setahun daripada bajet negara untuk State Funding jauh lebih jimat daripada biarkan menteri dan parti politik rompak berbilion ringgit duit projek awam untuk isi tabung kempen depa! It is the lesser evil that saves billions of ringgit of public money!
 
-[1:32:32] Pa'an: Fuh, itu perbandingan yang sangat jelas. Berbilion tiris berbanding RM50 juta dana rasmi yang diaudit.
+[1:32:32] Farhan Iqbal: Fuh, itu perbandingan yang sangat jelas. Berbilion tiris berbanding RM50 juta dana rasmi yang diaudit.
 
 [1:32:40] Rafizi Ramli: Ya, tapi untuk luluskan akta ni, kena ada sokongan dua pertiga ahli Parlimen. Masalahnya, ahli-ahli parlimen dari parti-parti tradisi ni nak ke luluskan akta yang akan sekat aliran "duit gelap" depa? Tu pasalnya benda ni asyik tertangguh.
 
@@ -1031,7 +1031,7 @@ Contohnya: Kerajaan peruntukkan RM50 juta setahun untuk dana parti politik.
 
 [1:33:30] Rafizi Ramli: Hahaha, ini memang isu yang buat darah rakyat mendidih! Bila kerajaan umum nak mansuhkan skim pencen berganjar untuk penjawat awam baru dan digantikan dengan caruman KWSP.
 
-[1:33:45] Pa'an: Dan reaksi spontan netizen kat luar sana: "Kenapa penjawat awam yang berkhidmat 30-35 tahun dimansuhkan pencen, tapi MP, DUN, Menteri dan Exco yang kerja 5 tahun tetap dapat pencen seumur hidup?"
+[1:33:45] Farhan Iqbal: Dan reaksi spontan netizen kat luar sana: "Kenapa penjawat awam yang berkhidmat 30-35 tahun dimansuhkan pencen, tapi MP, DUN, Menteri dan Exco yang kerja 5 tahun tetap dapat pencen seumur hidup?"
 
 [1:33:58] Rafizi Ramli: Dan soalan netizen tu sangat adil! Tak ada moral langsung untuk pimpinan politik suruh penjawat awam berkorban demi kewangan negara, tapi depa sendiri kekal nikmati pencen bertimbun-timbun!
 
@@ -1050,7 +1050,7 @@ Jadi kalau seorang YB tu dalam kerjaya politik dia pernah pegang keempat-empat j
 - Pencen Menteri: RM12,000
 Jumlah pencen sebulan: RM30,000 sebulan seumur hidup!
 
-[1:35:10] Pa'an: RM30,000 sebulan seumur hidup untuk kerja beberapa tahun sahaja!
+[1:35:10] Farhan Iqbal: RM30,000 sebulan seumur hidup untuk kerja beberapa tahun sahaja!
 
 [1:35:15] Rafizi Ramli: Ya! Sedangkan kerani sekolah, polis, bomba, jururawat gred rendah yang berkhidmat 30 tahun lebih, pencen depa RM1,200 hingga RM2,000 sebulan. Mana ada keadilan sosial kat situ?
 
@@ -1058,7 +1058,7 @@ Jumlah pencen sebulan: RM30,000 sebulan seumur hidup!
 
 [1:35:37] Rafizi Ramli: Saya dah tegaskan banyak kali sebelum ni, saya tidak mengambil pencen MP saya. Pencen itu disalurkan semula kepada kerja-kerja kemasyarakatan. Dan pendirian saya tetap sama dari dulu: pencen ahli politik MESTI DIMANSUHKAN!
 
-[1:35:55] Pa'an: Tapi ada pimpinan politik pertahankan pencen depa, depa kata "Ahli politik ni tak ada jaminan kerja. Kalau kalah pilihan raya, hilang pencarian." Apa jawapan YB?
+[1:35:55] Farhan Iqbal: Tapi ada pimpinan politik pertahankan pencen depa, depa kata "Ahli politik ni tak ada jaminan kerja. Kalau kalah pilihan raya, hilang pencarian." Apa jawapan YB?
 
 [1:36:08] Rafizi Ramli: Hahaha! Jawapan tu jawapan paling mementingkan diri sendiri!
 Masa kau jadi MP, gaji elaun kau dah RM25,000 ke RM30,000 sebulan. Masa kau jadi Menteri, gaji elaun cecah RM50,000-RM60,000 sebulan siap kereta, pemandu, rumah kediaman percuma. Takkanlah daripada pendapatan puluhan ribu sebulan tu kau tak reti nak carum KWSP atau buat simpanan persaraan sendiri? Mengada-ngada betul!
@@ -1067,7 +1067,7 @@ Masa kau jadi MP, gaji elaun kau dah RM25,000 ke RM30,000 sebulan. Masa kau jadi
 
 [1:36:38] Rafizi Ramli: Memang betul! Nak jadi ahli politik ni bukannya paksaan. It's a public service. Kalau nak jaminan kerja dan pencen terjamin sampai umur 60 tahun, pergi mohon kerja PTD atau cikgu dari umur 25 tahun!
 
-[1:36:55] Pa'an: Dari segi akaun kewangan negara pulak YB, berapa sebenarnya beban pencen yang ditanggung kerajaan sekarang?
+[1:36:55] Farhan Iqbal: Dari segi akaun kewangan negara pulak YB, berapa sebenarnya beban pencen yang ditanggung kerajaan sekarang?
 
 [1:37:05] Rafizi Ramli: Tahun 2023 sahaja, bayaran pencen penjawat awam cecah RM31 bilion setahun.
 Dijangka kalau skim pencen lama ni tak diubah, menjelang tahun 2040 bayaran pencen akan membengkak ke RM120 bilion setahun!
@@ -1079,7 +1079,7 @@ RM120 bilion satu tahun hanya untuk bayar pencen, bukannya ganjaran gaji semasa.
 Kalau kau nak suruh penjawat awam baru masuk skim KWSP, syarat nombor satu ialah: Pemansuhan pencen ahli politik MESTI DIBUAT DULU!
 Potong pencen menteri, MP, DUN dulu sebagai teladan! Baru ada moral authority nak minta penjawat awam berkorban!
 
-[1:38:12] Pa'an: Apa cadangan rasmi BERSAMA mengenai isu pencen ni YB?
+[1:38:12] Farhan Iqbal: Apa cadangan rasmi BERSAMA mengenai isu pencen ni YB?
 
 [1:38:17] Rafizi Ramli: Cadangan konkrit BERSAMA:
 1. Pinda Akta Saraan Ahli Parlimen serta-merta. Mansuhkan pencen bagi semua Ahli Parlimen, DUN, Menteri, Exco berkuat kuasa serta-merta dan tukar ke sistem caruman KWSP.
@@ -1091,7 +1091,7 @@ Potong pencen menteri, MP, DUN dulu sebagai teladan! Baru ada moral authority na
 
 [1:39:20] Rafizi Ramli: Ya, dengan compounding interest KWSP sekitar 5.5% setahun, selepas 30-35 tahun berkhidmat, depa ada simpanan RM1.2 juta hingga RM1.5 juta dalam KWSP. Depa boleh bersara selesa tanpa membebankan bajet tahunan negara secara berterusan.
 
-[1:39:40] Pa'an: Cadangan BERSAMA ni memang adil, berhemah dan menyelesaikan masalah kewangan jangka panjang.
+[1:39:40] Farhan Iqbal: Cadangan BERSAMA ni memang adil, berhemah dan menyelesaikan masalah kewangan jangka panjang.
 
 [1:39:48] Rafizi Ramli: Tapi kita tengoklah berani atau tidak pimpinan politik kat luar sana nak luluskan usul ni kat Parlimen nanti.
 
@@ -1103,7 +1103,7 @@ Potong pencen menteri, MP, DUN dulu sebagai teladan! Baru ada moral authority na
 
 [1:40:22] Rafizi Ramli: Ya, alhamdulillah siri Jelajah Kancil BERSAMA mendapat sambutan yang sangat hangat di setiap lokasi yang kita pergi.
 
-[1:40:32] Pa'an: Minggu ni Jelajah Kancil BERSAMA akan berada di mana YB?
+[1:40:32] Farhan Iqbal: Minggu ni Jelajah Kancil BERSAMA akan berada di mana YB?
 
 [1:40:36] Rafizi Ramli: Minggu ni kita akan gegarkan Pantai Timur!
 Sabtu, 20hb — di Kota Bharu, Kelantan!
@@ -1115,7 +1115,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:41:10] Rafizi Ramli: Bawa jiran, bawa keluarga, bawa anak-anak muda. Kita berdialog secara terbuka, santai, dan sesi soalan panas dibenarkan.
 
-[1:41:22] Pa'an: Dan pendaftaran ahli BERSAMA serta jualan tiket dana WIFUND BERSAMA pun dibuka kat sana kan YB?
+[1:41:22] Farhan Iqbal: Dan pendaftaran ahli BERSAMA serta jualan tiket dana WIFUND BERSAMA pun dibuka kat sana kan YB?
 
 [1:41:28] Rafizi Ramli: Ya, pendaftaran ahli BERSAMA percuma secara fizikal atau di bersama.org.my. Tiket majlis makan malam dana WIFUND BERSAMA pada 27hb di SJKC Chung Hwa, Jalan Pudu, KL juga boleh dibeli di kaunter jelajah atau secara dalam talian.
 
@@ -1127,7 +1127,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:42:20] Rafizi Ramli: Fuh, patutlah aku rasa lega bila dah pergi kencing tadi! Hahaha! Bersiaran hampir 2 jam.
 
-[1:42:28] Pa'an: Perbincangan malam ni memang amat padat, berani dan membuka mata ramai orang.
+[1:42:28] Farhan Iqbal: Perbincangan malam ni memang amat padat, berani dan membuka mata ramai orang.
 
 [1:42:35] Rafizi Ramli: Terima kasih kepada Haziq, Pa'an, Amir, Zaim dan seluruh pasukan teknikal BERSAMA. Dan terima kasih paling utama kepada penonton dan pendengar setia podcast Yang Bakal Menteri!
 
@@ -1167,7 +1167,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [12:08] Haziq: Saya rasa sebab jawatan KP J-KOM ni memang sangat panas. Dengan sebelum-sebelum ni mungkin expectation orang tu sangat tinggi. Dan yalah nak nak tunjuk dia betul-betul function tu sampai kena buat semua benda.
 
-[12:21] Pa'an: But the bar was very low. Because sebelum ni... Assalkan buat podcast, ada 10 orang menonton, okelah. Sebab itulah bar dia sebelum ni kan.
+[12:21] Farhan Iqbal: But the bar was very low. Because sebelum ni... Assalkan buat podcast, ada 10 orang menonton, okelah. Sebab itulah bar dia sebelum ni kan.
 
 [12:28] Rafizi Ramli: Tak, tapi sebenarnya, katalah kan, kau orang jadi Ketua Pengarah J-KOM, Pak An lah kot.
 
@@ -1185,7 +1185,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [15:00] Haziq: It can be true, cuma nak rely on satu jabatan untuk puaskan hati semua orang, susah juga.
 
-[15:08] Pa'an: So the loudest voice sekarang ni is geng-geng Che'GuBard. So that's the most front-facing messenger.
+[15:08] Farhan Iqbal: So the loudest voice sekarang ni is geng-geng Che'GuBard. So that's the most front-facing messenger.
 
 [15:15] Haziq: Dan Che'GuBard sebagai pemuka-pemuka depan. Maksudnya, dia tukar KP J-KOM banyak kali pun, orang yang sama tu, kita ada Datuk Taufiq, orang yang sama dalam tu.
 
@@ -1199,27 +1199,27 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:43:34] Haziq: YB cakap tentang result PRK...
 
-[1:43:37] Pa'an: Sebelum tu.
+[1:43:37] Farhan Iqbal: Sebelum tu.
 
 [1:43:38] Haziq: Selamba kau potong Haziq, tapi tak apa, sila.
 
-[1:43:40] Pa'an: Tak, sebab saya masih tengah fikir. Sanusi kata sejuta, and then kita dah kira-kira tadi tu boleh run an election below 200,000. How do you actually fund an election?
+[1:43:40] Farhan Iqbal: Tak, sebab saya masih tengah fikir. Sanusi kata sejuta, and then kita dah kira-kira tadi tu boleh run an election below 200,000. How do you actually fund an election?
 
 [1:43:52] Rafizi Ramli: Fund dulu.
 
-[1:43:53] Pa'an: Fund dulu.
+[1:43:53] Farhan Iqbal: Fund dulu.
 
 [1:43:54] Rafizi Ramli: Kutip duitlah. Ini yang tauke-tauke semua masuk.
 
-[1:43:57] Pa'an: Tauke?
+[1:43:57] Farhan Iqbal: Tauke?
 
 [1:43:58] Rafizi Ramli: Tauke, tauke-tauke semua. Yalah. Dia ada nama yang berasinganlah. Kalau UMNO dia kira penyokong, kalau PKR pun sekarang aku tak tahu lah dia panggil apa, dia panggil penyokong reformasi. Kalau Pas dia panggil infak. I think is the question of siapa yang ada peluang untuk membentuk kerajaan. So lagi parti tu lagi dekat dengan Putrajaya, maka lagi mudahlah untuk kutip duit. Kerana businessmen, tauke-tauke yang bagi duit semua ni, dia melihat itu sebagai satu pelaburan. Kalau dia bagi 10 juta sekarang, bila seseorang itu jadi Perdana Menteri, dialah orang yang pertama yang boleh ketuk pintu. Sebab you tak menang kalau I tak bagi 10, 100 juta. So how do you stop all this, because dia obscene amount of money kan. And itu salah satu sebab kenapa orang tak suka akulah. Aku tak sukalah masa kempen tu, terutamanya orang-orang parti politik semua ni, gayanya mengalahkan CEO Google. Dia punya hebat turun kereta besar, belakang ada 20 orang, semua mewah. Budak-budak tak apa-apa bawa kereta besar keliling. I know sebab aku kerja dulu walaupun jawatan besar, sumpah aku takkan belanja macam itu. But you know it's free money. When it's kalau orang berbelanja dengan bebas semua, kampennya satu jam je, makan dekat restoran belanja 20 orang ni lima jam. So dia langsung tak efficient. So how do you stop all this? Of course kita kena ada Political Financing Act lah. So dia ada dua pilihan. And I think it's a hybrid of both lah. Satu, setiap kali kita cakap pasal Political Financing Act ni, kita kena bersedia berbincang mengenai state financing. Maksudnya mana-mana parti politik yang mendapat undi popular melebihi sesuatu threshold nationally, 10% ke, 20% ke, 5% ke, mereka akan mendapat pembiayaan secara berkadar dengan saiz dan undi parti tu untuk setiap tahun. Sebagai timbal baliknya, maka undang-undang terhadap ahli politik yang didapati bersalah ataupun parti politik itu yang didapati bersalah terlibat dengan politik uang atau rasuah, undang-undang itu mesti betul-betul ketat supaya timbal balik itu berbaloi. Contohnya, kalau parti atau mana parti itu didapati terlibat dengan politik uang atau rasuah, parti itu diharamkan terus. Contohnya. Dan pimpinan dia diharamkan terus untuk terlibat dalam politik sampai bila-bila. So ah, so a hybrid of, maksudnya it comes in pairs. If there is a state financing, maka mestilah... Dan satu lagi dari segi transparencylah. Bila ada state financing itu, maksudnya semua perkara kena diisytihar. Berapa yang dikutip, siapa yang bagi. You kena ada limit dialah. But at the end of the day kan, saya rasa buatlah Political Financing Act macam mana pun, mesti ada loophole. Akan ada loophole. Anti-hopping law pun ada loophole. Yang enam orang BERSATU tu, dia lompat, dia kata "Kita tak keluar parti, tapi kita hanya menyokong kepimpinan Perdana Menteri." So dia tak dikira sebagai melompat. So loophole tu akan ada. Sebab itu to me, ini yang kita cuba nak buat kat BERSAMA lah. Orang marahlah, orang gelak. And I think I will have a lot of difficulty awal-awal ni untuk meyakinkan orang yang masuk BERSAMA dan nak jadi calon semua ni. Dia apply jadi calon seronoklah, ada ratus-ratus dah apply calon ni kan. Mungkinselalunya dia ingat bila jadi calon ni kita sediakan permaidani karpet merah kat dia macam parti-parti lain. Ha ni duit, satu beg, pergi bersiap. Nanti terduduk dia orang bila kata "Eh, no." Haha. Aku tengah fikir perjanjian contohnya deposit. Deposit, kita tengoklah kelayakan masing-masing. Kalau budak tu budak sangat, dia tak ada duit, tapi kita rasa dia patut jadi calon, jadi yang itu mungkin kita kena bayarlah. Tapi kalau orang tu dah memang ada duit semua kan, deposit pun dia tak nak bayar, melampaulah kan. Tapi yang kami bayar tu pun ada perjanjian. Contohnya kalau hilang deposit, separuh dia kena bayar, separuh parti tanggung. Haha. You know, we will have to put all this in place. Sama jugalah pasal kempen. Dia tak boleh nak kira dia memang tak ada satu sen pun yang kita akan cari duit untuk kita bayar pengundi. Minta maaf banyak-banyaklah. Sama juga aktiviti-aktiviti, aku macam go through dengan kau oranglah. Aku akan tanya, "Ni kau orang nak ni untuk buat apa? Kertas satu berapa? Kau orang ingat murah." Aku punya akauntan. Kalau aku kira-kira tak dapat, tak adalah aku buat kan? Is because I think sebenarnya rakyat Malaysia nak tengok. Dan rakyat akan bagi reaksi kepada macam mana parti politik macam BERSAMA menguruskanlah. Kalau kita berjaya buktikan dalam PRN Johor ini, kita boleh buat kempen itu dan kita transparent berapa jumlah dia. Nanti kita check lah. Bendera berapa, semua aku kira. Itulah juga yang akan meyakinkan orang ramai bahawa dia orang ni memang orang miskin, dia tak ada duit semua. Jadi kalau dia jual tiket, boleh beli. Sebab berapa masuk akan diumumkan, berapa dibelanjakan akan diumumkan. Selain daripada membantu kami tidak terikat dengan tauke, it's not that I cannot. I can. Saya boleh pergi jumpa tauke-tauke, kawan-kawan business semua. I can raise 20, 30, 40 million just like that. Boleh. But then what's the point? What's the point buat BERSAMA, semua ni kan? Might as well lah aku duduk dalam PKR jadi menteri dulu semua kan. So ini yang kita cuba nak lalui dalam tempoh satu bulan akan datang. Dan selepas mungkinlah eh, selepas minggu depan ke apa, kita akan mula setiap bulan bila kita tutup buku tu, kita umum yang ini sebenarnya berapa kita dapat daripada kita jual meja, daripada sumbangan, daripada crowdfunding. Yang ini belanja dia berapa, yang ini baki berapa, yang mana utang tak bayar lagi. So I want to see kalau BERSAMA boleh buat begitu tiap-tiap bulan, sama ada parti lain yang masuk pilihan raya yang diumum satu kerusi 1 juta, 5 juta semua ni, sebenarnya mana mari duit dia orang ni? Dan kalau kami boleh buat, orang lain tak buat, then you faham-fahamlah.
 
-[1:55:00] Pa'an: Tapi YB, yalah, point taken untuk YB cerita semua. Tapi tadi YB sebut pasal keselamatan jentera kerajaan tu?
+[1:55:00] Farhan Iqbal: Tapi YB, yalah, point taken untuk YB cerita semua. Tapi tadi YB sebut pasal keselamatan jentera kerajaan tu?
 
 [1:55:08] Rafizi Ramli: Oh, jentera kerajaan.
 
-[1:55:09] Pa'an: Sebab pilihan raya Terengganu tu kan.
+[1:55:09] Farhan Iqbal: Sebab pilihan raya Terengganu tu kan.
 
 [1:55:10] Rafizi Ramli: Oh, jentera kerajaan. Jentera kerajaan ini sebenarnya dalam pilihan raya kecohlah. Asal pilihan raya je kecoh. Pihak pembangkang akan kata pihak kerajaan guna jentera kerajaan. Dan sebenarnya bendanya mudah saja. Garis pemisahnya ialah kalau sesuatu tugasan dan pengangkutan itu atau dewan itu adalah dibuat di atas kapasiti rasmi menteri atau timbalan menteri atau Perdana Menteri, maka dia bolehlah guna aset kerajaan. Kalau contohnya Perdana Menteri nak pergi ke Terengganu, dia Perdana Menteri, takkan dia nak naik bas ekspres? Tak bolehlah. So dia kenalah naik jet kerajaan, kapal terbang kerajaan, helikopter kerajaan. Memang peraturannya begitu. Sama juga kalau menteri nak pergi ke Sarawak ke, ke Sabah ke, ataupun nak pusing tempat-tempat yang jauh. Kerana atas kapasiti rasmi menteri, memang peraturannya dia boleh guna pengangkutan dan kemudahan rasmi menteri. Tapi bila sampai dekat situ, dia tak bolehlah guna kereta rasmi kementerian untuk pergi program parti. Dia kena tukar keretalah. Dia kena tukar naik kereta parti ataupun kereta sendiri. Dewan pulak, kalau program itu program rasmi kementerian, memanglah program kementerian. Tapi kementerian tak bolehlah panggil penceramah parti datang berceramah kat situ. Benda tu simple. Tapi pasal apa orang dok pi keliru sangat, lepas tu dok pi gaduh? Kerana pembangkang sewaktu dia jadi pembangkang, dia hentam kerajaan. Bila dia jadi kerajaan, dia buat benda yang sama. Lepas tu bila dia jadi pembangkang balik, dia hentam balik kerajaan. Tu yang jadi kelakar. Sebab tu bila orang tanya, "Kenapa YB dulu masa pembangkang hentam kata menteri guna helikopter, menteri guna kapal terbang?" Dulu orang hentam sebab menteri tu naik helikopter pergi berkempen, pergi pacak bendera, pergi ceramah kelompok guna helikopter. Ah yang itu salahlah. Tapi kalau dia ada program rasmi kementerian dekat situ, lepas tu belah malam dia ada ceramah parti, dia tukar naik kereta lain, yang itu dari segi peraturannya tak salah. Cuma moralnya dari segi perception, orang akan nampak "Ehh, kau gunakan kelebihan kau sebagai menteri untuk pergi berkempen." That's why kalau tanya aku, aku malas nak guna. Sebab aku tahu kalau aku guna, orang akan cakap. So daripada orang cakap, baik aku naik kereta aku sendiri. Hahaha. Tapi takkanlah kita nak paksa semua menteri buat macam tu. Masing-masing ada cara masing-masing.
 
@@ -1227,7 +1227,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [1:58:30] Rafizi Ramli: Pandangan saya konsisten dari dulu. Pencen ahli politik sepatutnya dimansuhkan dan digantikan dengan sistem caruman KWSP seperti pekerja lain. Tak ada sebab kenapa seorang ahli politik yang berkhidmat mungkin satu penggal, lima tahun sahaja, perlu mendapat pencen seumur hidup, siap ada bertingkat-tingkat pencen lagi kalau dia pernah jadi DUN, lepas tu jadi MP, lepas tu jadi Menteri. Dia punya pencen bertimbun-timbun. Sementara penjawat awam yang berkhidmat 30, 35 tahun, pencennya beberapa ribu ringgit sahaja. Dari segi moralnya memang tak adil. Dan dari segi kewangan negaranya, beban pencen ini memang sangat besar. Tahun lepas sahaja, bayaran pencen penjawat awam cecah RM31 bilion setahun. Dan dijangka akan terus membengkak. Sebab itu dari sudut pengurusan kewangan awam, pencen ini memang kena diuruskan. Cuma bila kerajaan nak ubah skim pencen penjawat awam baru kepada KWSP, persoalan moral yang rakyat tanya ialah "Habis tu pencen menteri, pencen MP, pencen DUN macam mana?" Dan soalan itu sangat berasas. Sepatutnya kalau kerajaan nak tunjukkan kepimpinan melalui teladan, mansuhkan dulu pencen ahli politik. Barulah rakyat dan penjawat awam rasa adil.
 
-[2:00:05] Pa'an: Tapi YB, YB sendiri ambil tak pencen YB sebagai bekas MP?
+[2:00:05] Farhan Iqbal: Tapi YB, YB sendiri ambil tak pencen YB sebagai bekas MP?
 
 [2:00:09] Rafizi Ramli: Tak, saya dah sebut banyak kali. Saya tak ambil pencen MP saya. Duit tu disalurkan balik untuk kerja-kerja kemasyarakatan. Dan saya takkan ambil. Sebab bagi saya, kita masuk politik ni untuk berkhidmat, bukannya untuk cari skim persaraan kaya-raya. Bila kita dah dapat elaun dan gaji yang cukup besar masa jadi MP atau Menteri, kita sepatutnya menyimpang dan urus kewangan sendiri untuk hari tua kita melalui KWSP atau pelaburan sendiri, bukannya terus membebankan dana awam sampai ke akhir hayat.
 
@@ -1239,7 +1239,7 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [2:01:20] Rafizi Ramli: Hahaha. Patutlah aku rasa penat dan haus sangat malam ni. Tapi tak apa, perbincangan malam ni sangat padat dan saya rasa banyak isu-isu pokok yang kita dapat rungkaikan dengan jelas.
 
-[2:01:34] Pa'an: Sebelum kita tutup, YB ada apa-apa pesanan untuk Jelajah Kancil BERSAMA minggu ini?
+[2:01:34] Farhan Iqbal: Sebelum kita tutup, YB ada apa-apa pesanan untuk Jelajah Kancil BERSAMA minggu ini?
 
 [2:01:40] Rafizi Ramli: Ya, minggu ini kita akan ke Pantai Timur. Sabtu 20hb di Kota Bharu, Kelantan, di Pantai Cahaya Bulan (PCB) bermula jam 8.30 malam. Dan Ahad 21hb di Kuantan, Pahang, di Indera Mahkota jam 8.30 malam. Kepada semua warga Kelantan dan Pahang, jemput datang ramai-ramai. Kita sembang santai, kita teruskan usaha penerangan kita. Dan kepada yang nak mendaftar jadi ahli BERSAMA atau nak menyumbang melalui jualan tiket majlis makan malam WIFUND pada 27hb nanti di KL, boleh berbuat demikian di kaunter kami ataupun terus di laman web bersama.org.my.
 

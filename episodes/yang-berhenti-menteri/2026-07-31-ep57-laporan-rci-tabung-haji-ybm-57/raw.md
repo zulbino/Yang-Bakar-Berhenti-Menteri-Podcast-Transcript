@@ -101,13 +101,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:26] Haziq: Tak perasan. Pa'an ada perasan?
 
-[09:27] Pa'an: Tak ada.
+[09:27] Farhan Iqbal: Tak ada.
 
 [09:28] Haziq: Tak ada. Tapi banyaklah posting dia pasal RCI ni hari ni pun. Macam-macam isu, sampai ke petang.
 
 [09:34] Rafizi: Tak apa, bagus bagus.
 
-[09:35] Pa'an: Tapi banyak penyokong-penyokong Barisan Nasional yang lambung kata, "Ah itulah, Rafizi salahlah apa semua."
+[09:35] Farhan Iqbal: Tapi banyak penyokong-penyokong Barisan Nasional yang lambung kata, "Ah itulah, Rafizi salahlah apa semua."
 
 [09:43] Rafizi: Tak apalah, kali terakhir dia duk sibuk kata Rafizi salah Rafizi salah, Najib masuk ke dalam. Jadi teruskan benda itu, kerana satu demi satu demi satu, tambah sekarang ni kita bebas. Aku kan bebas sekarang kan. Aku tak perlu nak jaga hati siapa-siapa kan. Siapa yang salah, aku korek kan. Jadi kalau UMNO sangat yakin, tak apalah.
 
@@ -147,7 +147,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [11:10] Rafizi: Tak adalah. Maksudnya by the time I was mid-30s plus kut. Kat kepala aku tak ada uban gitu. Aku mana ada uban? Tapi dia bermula dari sini, habis uban semua ni. So aku akan ada misai putih dengan janggut putih. So sebab itu tidak ada janggut. So ini maksud ini masa aku umur berapa ni? 32, 33 kut. Pandai kau orang edit letak pop corn eh.
 
-[11:35] Pa'an: Bukan kami, tapi netizen.
+[11:35] Farhan Iqbal: Bukan kami, tapi netizen.
 
 [11:36] Rafizi: Oh aduan netizen.
 
@@ -197,35 +197,35 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:37] Rafizi: Kenapa agaknya secara tergesa-gesa Tabung Haji perlu diselamatkan? Sebabnya ialah kalau kenapa saya kata tergesa-gesa eh? Keputusan ini semua dibuat di akhir tahun. Saya you know apa nama ni dekat mana pasal pasal keputusan Jemaah Menteri ni kan? Page berapa eh? So this is what I want to avoid lah. Kalau if we keep referring to this nanti dia akan jadi lama. So I'll try to remember as much as possible daripada kepala otak aku kan. But just to give that perspective sebab semua ini tidak di tidak diulas kan.
 
-[39:28] Pa'an: 7 Disember 2018.
+[39:28] Farhan Iqbal: 7 Disember 2018.
 
 [39:29] Rafizi: Ha okey. So you need to help me daripada untuk menyelamatkan masa kan. Jadi maksudnya mesyuarat Jemaah Menteri yang pertama 7 Disember 2018 kan?
 
-[39:39] Pa'an: Recovery dengan restructuring.
+[39:39] Farhan Iqbal: Recovery dengan restructuring.
 
 [39:41] Rafizi: Dan semua perjanjian semua ni ditandatangani 23 Disember ke apa?
 
-[39:48] Pa'an: 19...
+[39:48] Farhan Iqbal: 19...
 
 [39:49] Rafizi: Apa tarikh dia?
 
-[39:51] Pa'an: Transfer of underperforming asset 19 Disember.
+[39:51] Farhan Iqbal: Transfer of underperforming asset 19 Disember.
 
 [39:54] Rafizi: 19 Disember.
 
-[39:56] Pa'an: Incorporation 14 Disember.
+[39:56] Farhan Iqbal: Incorporation 14 Disember.
 
 [39:58] Rafizi: 14 Disember.
 
-[39:59] Pa'an: Then Asset Transfer Agreement 27.
+[39:59] Farhan Iqbal: Then Asset Transfer Agreement 27.
 
 [40:01] Rafizi: 27. Bayangkan ini masa Krismas ni. Kan? So daripada mesyuarat pertama Jemaah Menteri, 9 Disember. 9 Disember pam pam pam pam 27 maksudnya dia orang ni...
 
-[40:12] Pa'an: 7 Disember.
+[40:12] Farhan Iqbal: 7 Disember.
 
 [40:12] Rafizi: Ha?
 
-[40:13] Pa'an: 7 Disember.
+[40:13] Farhan Iqbal: 7 Disember.
 
 [40:14] Rafizi: 7 Disember mesyuarat pertama. Mesyuarat pertama 7 Disember, sign agreement UJSB pindahkan aset toksik ni 27 Disember kan? Okey. You and I know benda ni tak pernah dibuat orang, a transaksi yang melibatkan 29 bilion diselesaikan dalam tempoh 3 minggu. So we need to understand apa yang tidak ditulis di sini, apa latar belakang di situ yang yang yang berlaku tulah kan. So I would like to postulate like this lah kan. Dia kembali kepada soal rizab. Rizab tu memang negatif 2014, cuma yalah zaman Najib kan, dia sembunyi-sembunyi, dia tangkap akulah kalau boleh nak tutup mulut semua ni, gali gali gali gali kan. 2018 Mei, kerajaan bertukar. Okey ya. Now bila rizab tu negatif dan ini kerajaan baru, maksudnya hibah tak boleh nak di di di apa nama ni diumumkan. Dia tak boleh agihkan keuntungan. Bayangkan masa itu akan ada PAS dengan UMNO ratus-ratus ribu oranglah dekat dekat jalan raya ni, berdemonstrasi bahawa di bawah kerajaan Cina ni maka Tabung Haji telah rosak sampai buat kali pertama tidak boleh umum hibah, tak boleh umum dividen. Tapi macam mana nak umum dividennya, dia negatif? Ha jadi sebab itu keputusan saya ingat, ada banyak cadangan yang nak dibuat. Jadi akhirnya model untuk menyelamatkan Tabung Haji tu dipersetujui caranya ialah dengan memindahkan aset yang toksik kan. Kita masih lagi kepada orang yang by now dah kata, "Peninglah aku apa dia aset toksiklah, itu semua." Kita masih lagi membincangkan kumpulan penemuan pertama iaitu rizab negatif kan. Kenapa perlu dipindahkan aset yang toksik? Okey ya, rizab ni ialah dia tengok kepada semua wang, asetlah. Aset ni ialah kan Tabung Haji ambil duit orang kan.
 
@@ -237,7 +237,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [44:51] Rafizi: Okey, maksudnya dia dia apa nama ni mengagihkan keuntungan bukan daripada hasil keuntungan. Yang itu tak apa, itu second hibah sebab. Tapi katakanlah hibah tu tak berlaku, dia dia tak ada masalah pasal hibah ni. Macam mana satu syarikat dia ada duit yang dia dapat sama ada daripada yalah dalam kes ni pendepositlah, dia buat perniagaan tiba-tiba aset dia lagi sedikit daripada liabiliti dia?
 
-[45:25] Pa'an: Bad performing assets lah.
+[45:25] Farhan Iqbal: Bad performing assets lah.
 
 [45:26] Rafizi: Bad performing assets lah. Bad performing assets ni ada beberapa sebab utamalah kan. Satu ialah dia beli benda tu mark up tak masuk akal. Yang harga patut 20 juta, dia beli 100 juta. Jadi of courselah, kita akan sampai kepada bab kewangan FRS sikit. Sebab kalau nak baca ni memang orang yang bukan akauntan ke ataupun finance-trained memang pening kepalalah. Jadi saya cuba nak terangkan kepada orang ramai dengan cara yang mudah kan. Keadaan yang mana aset itu kurang daripada liabiliti maksudnya wang itu dah hangus ialah satunya ialah kalau kita beli aset itu pada nilai yang lebih besar. Keduanya ialah apabila kita beli saham, kita beli saham pada harga yang mahal lepas tu saham dia jatuh merudum.
 
@@ -245,11 +245,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [46:24] Rafizi: Salah satunya FGV lah kan. Satu lagi ialah apabila contohnya anak syarikat yang kita melabur tu, dia secara berterusan kerugian demi kerugian. Jadi dia kita beli dulu saham 300 juta lepas tu dia rugi. Dahlah saham tu harga jatuh, lepas tu kita kena bagi duit lagi. Inject lagi, oh rugi lagi. Lepas tu dia kena bagi pinjaman pula kat dia, oh rugi lagi kan. Okey now. Peraturan kewangan kalau di peringkat antarabangsa dipanggil financial reporting standard. Aku dah lupalah all this lah. Aku last sekali kerja sebagai auditor ni tahun 2002. Maksudnya 24 tahun yang lepas kan. So dan walaupun aku ICAEW tapi aku jaranglah pergi training kan. Baca macam-macam itu saja kan. Jadi financial reporting standard yang yang paling penting untuk kompeni yang besar macam ini, I think FRS 9 ke apa? Maksudnya boleh tengok Google apa ni cari dalam tu FRS ataupun MFRS.
 
-[47:45] Pa'an: 9 financial instruments.
+[47:45] Farhan Iqbal: 9 financial instruments.
 
 [47:48] Rafizi: 19 ke? Betullah 9 eh? 19 impairment. Ini zaman aku belajar dululah, dia panggil impairment. Sekarang I think dia dah panggil financial instrument kut, okey ya. So dia ada satu konsep yang nama dia dalam bahasa Inggeris impairment. Dalam bahasa Melayu yang yang...
 
-[48:08] Pa'an: 136.
+[48:08] Farhan Iqbal: 136.
 
 [48:08] Rafizi: 136? Okeylah, aku dah lupa semualah. Yang yang dalam laporan yang 252 muka surat ni, ini antara perkataan yang paling banyak sekali keluar. Perkataan rosot nilai. Rosot nilai maksudnya impairment kan. Okey. Dalam FRS lah especially bagi orang yang akauntanlah, ini perkara yang berlaku lewat millennium yang lepas, awal 2000 sebab Enron. Aset-aset yang ada kita tunjukkan dalam balance sheet kita ni, tiap-tiap tahun kita kena buat impairment review ataupun kalau financial instrument apa yang dipanggil mark to market lah. Maksudnya begini eh. Engkau kata kau beli saham ni nilai dia 100 juta. Atas kertaslah 100 juta. So auditor sepatutnya check, betul ke nilai dia 100 juta? So dia ada cara yang begitu spesifik untuk menentukan nilai sebenar, nilai adil, fair value lah kepada aset tu kan. So kalau macam pelaburan di dalam saham-saham tersenarai, contohnya FGV kan. Bila dia masuk bila Tabung Haji mula-mula beli, dia beli kat RM4 lebih. So adalah kat situ, bilion berapa kan. Tapi kan tiap-tiap hari turun naik turun naik turun naik kan. So tiap-tiap tahun tu di akhir tahun kewangan, you kena tengok sebenarnya nilai dia berapa dah? RM4 kan? Sekarang dah RM3. Okey, perbezaan rosot nilai RM4 kepada RM3 tu ada RM1 rosot nilai. Yang itu tu you kena ubah dalam kena tunjukkan dalam penyata kewangan, maka aset itu nilai dia bukan 1 bilion dah sekarang. Dia jadi 800 juta. 200 juta lagi tu dia jadi apa?
 
@@ -257,7 +257,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:18] Rafizi: Dia jadi kerugianlah, losslah. So so so impact losslah, impairment losslah kan. Jadi yang 200 juta tu you kena tunjukkan dalam penyata untung rugilah, dia rugi kan. So 2018 tu, dia sama juga dengan macam aset tanah. You kata you beli sekian sekian sekian. Ini yang kalau penipuan beli mark up price kan, you kata you beli 100 juta. Kemudian tengok penilaian terkini sebenarnya aset tu harga 50 juta aje. So sebab itu 2018, malah keadaan ini memang dah berlaku daripada 2014 lagi kan. Cuma bezanya 2018 itu ialah apa nama ni kerajaan bertukar kan dan saya ingat memang adalah sebahagiannya ialah kerana tata kelola, sebahagiannya ialah kerajaan PH itu lebih jujur daripada zaman Najib dulu. Sebahagiannya juga ialah kerana pertimbangan politik, mungkin nak hentam UMNO, mungkin juga takut orang akan menuduh PH rosakkan Tabung Haji semua lah. Maka bila dibuat keputusan untuk menyelamatkan Tabung Haji supaya Tabung Haji boleh terus umum dividen ataupun hibah, apa yang dibuat ialah satu transaksi di antara Tabung Haji dengan satu special purpose vehicle, SPV yang dipanggil UJSB ataupun Urusharta Jama'ah Sdn Bhd. UJSB ini ialah syarikat milik penuh kerajaan kan. Ini semua paper transaction aje tau, okey ya. Jadi oleh kerana Tabung Haji tu aset dia tu bila you dah mark to market dan buat impairment review semua, banyak yang toksik rugi ni. Maksudnya yang kos dia masa beli dulu mungkin 1 bilion, nilai sekarang 100 juta aje, 900 juta dah habis, semua ni kan. Campur campur campur semua, ada 10.9 bilion kut yang saya rasa, I think 10.6 or 10.9 bilion lah. Kepada orang ramai, saya memang macam ni, saya tak adalah ingat sebiji-sebiji to the dot. I roughly remember what's the figure. Jadi kalau nak angka yang betul tepat tu ha sila baca kan. But I think keseluruhan net book value ataupun nilai bersih aset-aset yang yang dikira toksik ini, maksudnya dia tidak lagi memberikan pulangan, dia mengalami kerugian, dia dah tak ada nilai semua ni bila campur semua ada 10.9 bilion. Malah sebenarnya ada lagi aset toksik yang lain yang tak termasuk dalam 10.9 bilion tu. Tapi kalau mengikut laporan RCI, mereka terikat. Dia terikat dengan aset-aset itu terikat sama ada dengan tindakan undang-undanglah semua tu, jadi dia tak boleh dipindahkan daripada Tabung Haji. Yang boleh dipindahkan ialah 10.9 bilion. Jadi dengan mengeluarkan dan memindahkan daripada Tabung Haji kepada UJSB, okey ya. Bila kita pindahkan aset, Tabung Haji pindah kepada UJSB kan, maksudnya Tabung Haji bagi kepada UJSB kan, maka UJSB kena bayar. So macam mana dia bayar?
 
-[53:57] Pa'an: Either cash or through bonds or sukuk.
+[53:57] Farhan Iqbal: Either cash or through bonds or sukuk.
 
 [54:01] Rafizi: Ha itu yang disebut sukuk-sukuk tu, bukan cash lah. Bukan cash ah dan yang ini juga key kepada perbincangan kita dan juga penemuan RCI ni kan. Eh you have to tengok masa, kalau tidak dia jadi 5 jam. Aku bagi lecture apa nama...
 
@@ -269,7 +269,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [56:30] Rafizi: Ha itulah, dekat 30 bilion tulah kan ha. Itu bailout dialah. So maksudnya kerajaan kena tambah lagi walaupun nilai dia kalau dia dapat aset dia selamatkan Tabung Haji bawa keluar aset ni, kalaupun ada orang nak beli boleh dapat 10.9 bilion aje. Tapi untuk selamatkan Tabung Haji dan untuk menukar rizab dia tu daripada negatif jadi positif, kerajaan kena suntik buat pada tahun itu 2019 atas kertas 19.9 bilion. Ada sebab kenapa daripada 19.9 bilion itu jumlah keseluruhannya 27.5, nanti kita akan sentuhlah kan. Tapi hasil daripada bailout tahun 2019 2018 dan 2019 itu, tiba-tiba Tabung Haji gedebuk dapat satu aset baru menggantikan aset dia yang toksik ni, satu iaitu sukuk UJSB. So kalau tengok kepada penyata kewangan Tabung Haji daripada 2019 sampailah kepada hari ini, salah satu aset dia yang paling besar ialah sukuk UJSB iaitu jumlah yang akan diterima balik daripada UJSB sebanyak tahun 2019 itu 19.9. Dan daripada jumlah itu saya ingat kerajaan hanya bayar 200 juta tunai aje. Yang lain tu semua janji nak bayar tu, janji nak bayar kan. Dan jumlah itu akan naik daripada satu tahun ke satu tahun. Sebabnya ialah dia ada deferred payment for yield punya element.
 
-[58:20] Pa'an: Yield to maturity.
+[58:20] Farhan Iqbal: Yield to maturity.
 
 [58:21] Rafizi: Why saya saya cuba lontarkan semua ni kepada orang ramai, jangan serabut lagi tau. Ini dia dia cerita macam tengok cerita Alfred Hitchcock ataupun Agatha Christie. Walau benda-benda yang awal-awal tu nampak kecil, kenapalah dia nak tunjuk semua ni, dia adalah clue kepada akhirnya yang lagi besar. So you need to know all this kerana dia ada twist dia di belakang dialah kan. Jadi tidak cukup dengan kerajaan bailout dengan menyuntik 20 bilion itu atas kertas supaya rizab jadi positif dan bila rizab tu jadi positif dah boleh mula bayar hibah bermula 2019 ke ataslah. 2019 pun ada hibah kan tapi sikit sangat kan?
 
@@ -305,7 +305,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [66:37] Rafizi: Okey kan. Sepatutnya 2014 tu tak boleh bayar dah. Sebab rizab mula menjadi negatif daripada 2014. Sebab itu Tan Sri Zeti tulis suratnya. Rizab negatif kau pergi bayar dividen semua ni, kalau orang tahu, orang ramai-ramai bawa keluar duit daripada Tabung Haji, dan Tabung Haji itu kerajaan jamin, guaranteed. Kalau orang keluar banyak-banyak, maka kerajaan kena bayar. Bila kerajaan kena bayar, duit kerajaan diambil daripada Kumpulan Wang Disatukan, habislah gaji pun tak boleh bayar kan. Tapi Najib bin Najyiblah kepada Akmal Saleh! Kan? Najib bin Najyib kan, kita tak tahu apa yang yang yang berlaku masa itu, tapi pengalaman saya dekat Jemaah Menterilah, perkara-perkara dividen ni semua dibincangkan dengan Perdana Menteri. Dan dia pula Menteri Kewangan. Kerana perkara itu dilihat sebagai akan ada kesan besar kepada sokongan politik. Jadi dia nak tunjukkan baguslah. Jadi dividen tu tinggi 8%, 8% kan? Memanglah kalau 8%, return daripada terutamanya Bursa masa tu berapa aje, 4 5% aje pun. Kalau return kalau daripada bond pun masa itu berapa aje, mungkin 4% aje. Jadi memanglah nampak bagus kan.
 
-[68:10] Pa'an: Sorry, so you're you're saying part of the political game untuk nampak bagus at that time, they tap into reserves yang they were not supposed to touch to in the first place?
+[68:10] Farhan Iqbal: Sorry, so you're you're saying part of the political game untuk nampak bagus at that time, they tap into reserves yang they were not supposed to touch to in the first place?
 
 [68:20] Rafizi: Ha ni aku nak datang ni, ni nak cerita pasal Skim Pak Man Telolah. Okey ya. So itu yang secara halus disebut di dalam RCI ini. Walaupun saya minta maaflah Tun Raus eh, saya tahu semua Tan Sri-Tan Sri Tun semua tak boleh sebut macam saya sebut, jadi saya tolong sebutlah kan. Oleh kerana orang politiknya, dan ini bukan bukan terhad kepada Najib sahaja. Kepada Anwar pun! Sebab itu saya ada masalah kalau ahli politik dia tak nak bercakap terus terang. Dia fikir duit tu macam dia punya. Dia decide bagi, bagi, bagi sebab lagi banyak bagi lagi popular aku, lagi banyak bagi. Duit tu bukan duit dia, duit tu duit rakyat! Kalau yang dalam kerajaan, duit pembayar cukai duit rakyat. Kalau untuk Tabung Haji, duit kita semua pendeposit. Now bila you umum hibah tu tinggi, jadi setiap tahun nak kena agih berapa? 2 bilion? 3 bilion? Cuba tengok, ada tak? 2 bilion, 3 bilion, berapa?
 
@@ -315,7 +315,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [69:37] Haziq: 1.7. Okey, tak apalah. Pa'an tolong.
 
-[69:40] Pa'an: Kejap kejap, tengah cari balik.
+[69:40] Farhan Iqbal: Kejap kejap, tengah cari balik.
 
 [69:42] Rafizi: Well, rule of thumb dia katakanlah masa itu pendeposit dia 60 bilion. 60 bilion kalau 8%, kalau 10% 6 bilion, 8% dalam 3 4 bilion macam tulah. Of course dia ada perkiraan dialah, so so I would imagine lebih kurang 3 4 bilion lah setahun kan. Okey, dia tak ada untung, aset dia semua ni dah toksik, nilai dia lebih rendah daripada daripada liabiliti, tapi dia pergi umum 3 4 bilion dia nak tabur ni. So bila dia nak bayar, dia ambil duit siapa?
 
@@ -323,7 +323,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [70:23] Rafizi: Duit pendepositlah! Itu yang jadi Pak Man Telo! Kita orang menabung di dalam Tabung Haji supaya Tabung Haji ambil duit itu untuk buat pelaburan sikit sikit sikit, ada untung, yang ada untung itulah kita membantu orang lain bagi subsidi untuk dia pergi haji sedikit, yang lain tu dia pulangkanlah kan. Tapi bila dia tak ada keuntungan, dia ambil duit kita yang kita dia gunakan duit tu dia buat pusing ni untuk bayar bayar keuntungan.
 
-[71:02] Pa'an: Tapi for institution macam wealth fund macam ni kan, takkan dia orang tak ada safeguards yang mengatakan you cannot touch?
+[71:02] Farhan Iqbal: Tapi for institution macam wealth fund macam ni kan, takkan dia orang tak ada safeguards yang mengatakan you cannot touch?
 
 [71:11] Rafizi: Nanti aku jawab. Nanti aku jawab kan okey ya. Ini menjawab yang Akmal Saleh juga. Akmal Saleh dan juga kita nak panggil apa eh yang geng-geng UMNO ni? Kalau PKR kita panggil ceplos. Aku pun ya Allahuakbar, ada oranglah tag aku dekat ada ada orang hantar mesej, dia forward satu posting. Dia kata, "YB ni banyak sabar ya. Sebabnya kalau saya jadi YB eh, saya dah putus asa dengan rakyat Malaysia ni." Sebab dengan segala dah keluar RCI ni, dia boleh jawab, "Eh kenapa pula Tabung Haji bermasalah? Kan masa itu dia bayar banyak bayar dividen. Dividen banyak maksudnya untunglah." Sama juga macam perbahasan saya dekat Parlimen Mac 2016 ah yang aku bergaduh pasal benda ni. Geng-geng ahli Parlimen UMNO duk bangun macam tu ah, "Ini apa ni tengok saiz dana makin besar dah jadi 60 bilion, 70 bilion, untung naik 3 4 bilion." Yalah, Skim Pak Man Telo! Kan? Sebab dia rolling. Dan itu juga yang disentuh di dalam RCI maksudnya begitu bahayanya apabila kita tidak bercakap benar mengenai kedudukan kewangan Tabung Haji kerana itu menarik penabung-penabung yang mencari keuntungan besar. Sebab dia tengok, "Eh 8%." 8% kalau macam itu, apa nama ni baik aku letak dalam Tabung Haji. Tak payahlah letak dalam fixed deposit ke apa. Rental yield eh kalau kalau tak menipulah kan, maksudnya kalau kita ada properti, kita bagi sewa kan, normally rental yield 5 to 6%. Tolak-tolak semua. 8% tak payah buat apa dan dijamin oleh kerajaan. 8%. Jadi dia menarik yang besar. So kerajaan masa itu duk beritahu, UMNO duk beritahu, tengok hebatnya Tabung Haji, dana makin besar. Jadi bila bila duit makin banyak masuk ni, dia ambil duit tu dia pergi umum lagi dividen hibah tinggi 8%, 8%, lagi banyak duit. Sedangkan dia duk makan duit orang ni kan. Jadi soalan Pa'an tu sampai kita kepada satu bahagian yang penting pasal hibah ni, satu Pa'an tanya kan, takkan tak ada safeguard? Memanglah ada safeguard, itulah ayat aktanya. Kan Akta Tabung Haji secara jelas beritahu tak boleh bayar hibah kalau rizab negatif. Dia langgar. Ha itu membawa kepada penemuan utama di dalam laporan RCI ini yang secara halusnya commissioner-commissioner ni menyebut menggunakan satu frasa iaitu creative accounting. Sebenarnya menipulah. Kan creative accounting kan. It's precisely because rizab tak boleh kalau rizab negatif tak boleh bayar hibah. Tapi kerajaan UMNO semua ni memang nak dibayar kan. Jadi akhirnya apa yang Tabung Haji buat? Pengurusan Tabung Haji buat? Dan jangan nak katalah board tak tahu kerana semua ini pergi kepada board.
 
@@ -367,19 +367,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [93:08] Rafizi: Saya senyum sebab apa? Sebab aku memang dah keluarkan duit tahun 2016. Jadi besar kemungkinan masa dia tukar tu memang duit aku dah tak ada dalam Tabung Haji. Sebab aku keluarkan duit dalam Tabung Haji tahun awal 2016 untuk membiayai INVOKE, so tak ada duit dalam Tabung Haji kan. Okey baik eh. So so kita dah sentuh tentang rizab. Daripada soal rizab negatif itulah kenapa perlunya ada UJSB dan sehingga keluarnya RCI. Dan sebab rizab negatif itu ialah bahagian kedua soal bayaran hibah iaitu Pak Man Telo, skim cepat kaya kan. Itu salah satu sebablah kenapa rizab negatif dan Tabung Haji menggunakan duit pendeposit untuk membayar keuntungan. Sebab satu lagi sebabnya ialah kerana pelaburan-pelaburan yang yang rugilah. Yang itu banyak dalam inilah kalau dia baca disenaraikan semua. Ada yang disebut yang saya pernah sebut, ada yang yang yang saya tak pernah sentuh kerana saya tak ada dokumen itu kan. Dia banyak yang besar-besar. Kalau ingat daripada muka surat berapa tu Pa'an?
 
-[94:26] Pa'an: Oh, kejap. Yang 68 tadi ke?
+[94:26] Farhan Iqbal: Oh, kejap. Yang 68 tadi ke?
 
 [94:34] Rafizi: Eh tak, ini dia ada satu seksyen pasal apa nama ni pelaburan-pelaburan yang rugi.
 
-[94:41] Pa'an: Oh.
+[94:41] Farhan Iqbal: Oh.
 
 [94:47] Rafizi: Supaya kita boleh sebut dengan cepatlah kan. Saya boleh sebut contohnya yang besar ialah Tabung apa nama ni Plantations, tapi yalah saya ingat orang ramai pun nak tahu. Jadi nak kena sebut jugalah. Boleh jumpa ke tidak?
 
-[95:25] Pa'an: Kejap. Investments recommended for forensic audit tu kan?
+[95:25] Farhan Iqbal: Kejap. Investments recommended for forensic audit tu kan?
 
 [95:32] Rafizi: Ha okey. Daripada muka surat 138 eh, perenggan 3.14 ke atas, Pelaburan Yang Bermasalah. Satu, PT TH Indo Plantations eh. Keadaan dia eh, basically anak syarikat Tabung Haji nama dia PT TH Indo Plantations, dia membeli tanah di Riau, Sumatera seluas lapan seluas 83,000 ekar.
 
-[96:13] Pa'an: Hektar.
+[96:13] Farhan Iqbal: Hektar.
 
 [96:14] Rafizi: Sorry, dia menjual tanah. Ha dia menjual tanah eh. Sebab tu melibatkan perolehan tanah seluas 83,000 hektar kepada PT Borneo Pacific eh. Okey ah orang ramai, brace for yourself ni berlaku eh, ini yang yang RCI temui eh. Berlaku pemindahan share daripada anak syarikat Tabung Haji itu kepada pembeli sebelum menerima bayaran penuh. Pengurangan 100 juta dolar daripada harga asal 910 juta. Seronok aje dia orang kau team. Harga asal 910 juta dolar, lepas tu entah macam mana dia kurangkan jadi that's 400 juta ringgit. Saya sebut semua ni kerana nanti kita nak kena jawab Akmal Saleh yang tanya, "Mana sakaunya? Mana sakaunya?" Kan ha ini salah satu bentuk sakaulah. Tiba-tiba daripada harga yang dipersetujui 910 juta dolar, dia kurang hilang 100 juta dolar. Itu 400 juta hilang macam tu saja. Lembaga Tabung Haji tidak menerima pembayaran daripada pembeli menurut jadual asal dan terpaksa memberi pendahuluan RM178.6 juta yang sepatutnya perlu dilunaskan oleh pembeli. Aku tak boleh brain tau bab ini. Dahlah dia tak boleh orang tak bayar kat dia, lepas tu dia ambil duit dia dia pergi bagi advance pula! Kan? Okey ha eh. Okey. Kemudian yang kedua. Emas Kiara Industries Berhad eh. Apa nama ni Tabung Haji beli 15.3% kepentingan ekuiti dalam satu syarikat nama Emas Kiara Industries Berhad pada 7 Jun 2016, dia bayar 20.1 juta kepada Lingkaran Hartaniaga Sdn Bhd. Jadi April 2017 Tabung Haji menggunakan haknya untuk melaksanakan put option. Put option ni maksudnya, "Okey I buy from you one company tapi kita I kita juga ada perjanjian kalau I exercise my put option you kena beli balik." Kan ha. Put option dengan yang menjual tulah, Lingkaran Hartaniaga Sdn Bhd setelah cadangan penyenaraian awam Emas Kiara di Bursa dibatalkan dan Emas Kiara gagal mencapai sasaran keuntungan sebanyak 36 juta. Sehingga kini put option itu hanya 2 juta dibayar kepada Tabung Haji. Maksudnya yang selebihnya itu masih lagi belum dibayar. 2 juta saja daripada put option yang bernilai 20.3. Dan benda-benda ini yang dia jadi impairment loss ni. So kalau contohnya dia beli 20 juta kan, tapi benda tu memang dah tak ada nilai semua, dia letak put option suruh beli balik pun tak boleh, maka dia kena impair lah, rugilah 20 juta kan. Okey. Wellspring Worldwide, 10% kepentingan ekuiti, 18.4 juta, pun sama put option, gone. Deru Semangat, yang ini melibatkan pengambilalihan 55% ekuiti kepentingan almarhum Sultan Pahang dulu dalam Deru Semangat Sdn Bhd dengan harga 231 juta, lepas itu Tabung Haji juga bersetuju membiayai 295 juta untuk membangunkan ladang. Sehingga Januari 2021 hanya sebanyak 250 juta telah dikeluarkan oleh Tabung Haji untuk pengambilalihan ekuiti dan kemudian dia bermasalah kerana Tabung Haji tak ada duit untuk melunaskan komitmen dia untuk membangunkan ladang tu. So dia dah beli tapi sepatutnya dia kena tanam balik ke apa 250 juta lebih, yang ini pun telah dirosot nilai dan sekarang ni nilai dia hanya 32 juta. Jadi sekarang ini memang Tengku Mahkota Pahang dalam proses masa RCI ni dibuatlah, Tabung Haji telah merungkaikan pegangan ekuiti dalam DSSB kepada Tengku Mahkota Pahang dalam bentuk pemulangan saham dan pembiayaan sedia ada dengan pembayaran keseluruhan berjumlah 259 juta dan Tengku Mahkota Pahang bersetuju untuk mengenepikan tanggungjawab Tabung Haji mengeluarkan 250 juta ringgit. Okey. Trurich Resources.
 
@@ -395,7 +395,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [107:56] Rafizi: Ha so ada satu syarikat memang pemaju sebelum itu, namanya Putrajaya Perdana Berhad, PPB. Jho Low ambil alih melalui PetroSaudi pakai duit 1MDB ah tahun 2011 kan. PPB ni ada satu anak syarikat nama Putra Perdana Development. Yang ini yang dapat duit SRC.
 
-[108:24] Pa'an: Oh, ini yang dalam list...
+[108:24] Farhan Iqbal: Oh, ini yang dalam list...
 
 [108:26] Rafizi: Yap, yang ini yang dapat duit SRC eh, okey. Tahun 2014, 3 tahun lepas Jho Low uak-uak semua ni, kemudian ada corporate restructuring, ada satu syarikat baru nama Cendana Destini Sdn Bhd kan. Jadi Cendana Destini Sdn Bhd ambil alih daripada Jho Low, syarikat PPB ni kan. Kalau saya baca laporan semua, laporannya ialah syari apabila ia diambil alih daripada Jho Low, ia dibiayai sepenuhnya oleh pinjaman bank sebanyak 210 juta. Ha kan? Jadi nilai masa ambil daripada Jho Low 210 juta kan untuk 100% pegangan. Eh pup pap lepas tu datang Tabung Haji beli 30% nilai dia 196 juta. 193 juta. Yang sekarang ini tinggal 48 juta. So jawapan kepada Akmal Saleh, ikut mana sakau? Ha itu salah satunyalah! Kan? Ha baik. Aku sekarang ni kalau nak ingat balik zalimlah dia orang ni. Kalau aku nak ingat balik zaman aku kena tangkap, keluar lokap semua bergari sebab bercakap pasal benda-benda ni kan. So ini memang match yang ada dalam RCI dengan yang saya pernah bongkarkan dululah. Okey, kemudian adalah Al Rawda, panjang yang pasal Saudi, Al Farida Residential Fund pun ada. Okey, kemudian TH Plantations muka surat 150 pun panjanglah. TH, sebab kalau baca ni memang tak habislah kita. Saya sebut muka surat aje, TH Properties, Alam Maritim Resources, TH Marine, kemudian TH Hotel and Residences, FGV Berhad, kita semua tahu yang masa ucapan aku dekat Parlimen tu yang duk banyak ganggu tu, masa itu mantan ahli Parlimen Kota Tinggi. Oh dia duk kacau-kacau lepas tu jerit-jerit kat aku kan, lepas tu aku sindir dia sikitlah, dia marah sebab dia board FGV. Tabung Haji dah hilang 1 bilion. Lepas tu dia kena dakwa kan untuk ha untuk FGV kan, dia kena dakwa kan. Tambah lagi FGV, okey. Sampai yang itu kan. Itu yang disebut di dalam di dalam RCI. Yang aku bongkar yang tak disebut?
 
@@ -423,7 +423,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [126:24] Rafizi: Sikit lagi, sikit lagi, sikit lagi.
 
-[126:26] Pa'an: Saya rasa malam ni episod memang purely on RCI.
+[126:26] Farhan Iqbal: Saya rasa malam ni episod memang purely on RCI.
 
 [126:29] Rafizi: Eh sempat sempat sempat. Adalah yang orang sebut dalam RCI ni sebut pasal 22 juta Yayasan Tabung Hajilah, kemudian pegawai-pegawai yang yang dilibatkan itu mulanya keputusan untuk pecat tapi tak pecat. Bila tukar kerajaan, guess what, menteri PASlah rasanya. Ha. Or is it menteri PAS? Dia bukan bukan, ini semua berlaku masa menteri PAS, masa Idris Ahmadlah, 2021 kan. Dia diarahkan pecat Mei 2021, entah macam mana September 2021 dia orang ditukar daripada dipecat jadi diturunkan pangkat. Tak tahulah gaji ke macam mana, tapi semua SGM lagilah, Senior GM. Dan Datuk Rozaida tu dia sampai retired di Tabung Haji. Seronok aje dia. Dia retired 2023 rasanya kan. So yang lain saya rasa yalah Oh ada satu benda! Ingat tak tadi pasal UJSB kan? Kan aset yang toksik 10.9 bilion tu kan? Jadi nak kena pindah daripada Tabung Haji kepada UJSB. Bila pindah tu, dia orang sebahagian tu tak boleh dipindah. Dan tak termasuk dia orang kena bayar I think dia kena bayar cash ke macam mana sebab itu ialah aset-aset tak patuh syariah.
 
@@ -431,7 +431,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [128:12] Rafizi: Ha. Ada dalam ni, boleh tengok. RCI sebenarnya senaraikan aset-aset yang tak patuh syariah kan. So the kind of thing you jumpa, ada juga aset yang yang tak patuh syariah kan, okey. So saya ingat yang lain...
 
-[128:34] Pa'an: Page 123.
+[128:34] Farhan Iqbal: Page 123.
 
 [128:35] Rafizi: Okey. Now kita hanya tinggal dua tiga perkara lainlah sebelum kita bukanlah bomb, tapi way forward kan. So kita dah dapat tahu pasal way forward untuk kita cari siapa yang sakau ni kan. Jadi kita tengoklah tindakan-tindakan seterusnya kan. Dan kita sama-sama jalankan tanggungjawab sebagai rakyat Malaysia, kita cuba koreklah seberapa banyak yang yang kita dapat dan kita tengok siapa lagi lajulah. Kita ke ataupun SPRM ke ataupun polis ke apa kan.
 
@@ -439,15 +439,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [129:20] Rafizi: Tak, saya ingat ada satu dua perkara lagi kan yang way forward ni. Ada beberapa perkara tu yang berbalik kepada soal pengaruh dan tekanan politik. Satu, pasal hibah yang tak mampu dibayar tapi demi populariti politik, maka sehingga menyebabkan Tabung Haji jadi Skim Pak Man Telo kan, itu satu. Satu lagi ialah soal subsidi haji ni. Sebab subsidi haji di di apa nama ni dianggarkan menjelang tahun 2030 mencecah berapa? 600 juta setahun kan? Dan 400 ke 600 juta rasanya. Dan menjelang tahun 2030, kalau bayaran di bayaran haji muassasah dikekalkan pada harga sekarang RM12,000 lebih, maka 60% tu subsidi, 40% kan. Jadi RCI mempersoalkan bahawa model itu is no longer sustainable kan. Jadi RCI membandingkan sebelum dan selepas. Sebelum adanya elemen subsidi ini dengan sekaranglah. Ini pun nak menjawab orang-orang UMNO dan Akmal Saleh and the gang juga ni kan. Sebab jawapan mereka ialah, "Oh RCI menunjukkan macam mana zaman UMNO dan zaman Najib dulu kerajaan bagi subsidi besar sehingga rakyat boleh tunai haji pada harga yang murah." Jawapan tu dah ada dalam RCI. RCI tak bersetuju kerana itu adalah ancaman besar kepada Tabung Haji. Dan keadaan ini akan berterusanlah kalau perkara itu tidak diselesaikan kan. Jadi do you get the number?
 
-[131:32] Pa'an: Dia tulis sini menjelang tahun 2030, RM742 juta.
+[131:32] Farhan Iqbal: Dia tulis sini menjelang tahun 2030, RM742 juta.
 
 [131:36] Rafizi: Ha RM740, not 600, RM740 juta. And subsidi will form about 60% kan. Jadi ini adalah perkara-perkara yang akan menguji contohnya Datuk Seri Anwar dan juga kerajaan-kerajaan selepas inilah. We will go into UJSB semua selepas inilah kan. Tapi kita berdepan dengan tanggungan 30 bilion lebih disebabkan oleh mainan orang politik macam ini kan. 30 bilion tu macam-macam boleh buat kan, macam-macam boleh bantu rakyat kan. Saiz skandal apa nama ni Tabung Haji ni, dia tak adalah banyak beza dengan 1MDB sebenarnya. 1MDB 40 bilion lebih, Tabung Haji 30 bilion lebih. Itu yang baru jumpa sekarang kan. Jadi kita dah nampak dan RCI secara jelas dah nyatakan macam mana undue influence, tekanan politik, campur tangan politik telah merosakkan Tabung Haji sehingga rakyat kena menanggung 30 bilion lebihlah kan. Jadi dia bandingkan sebelum itu semasa Tabung Haji ini tidak bertukar hala tuju. Dia ada dua tiga perkara yang yang yang pertukaran itu berlaku rasanya zaman Najib. Satu ialah Tabung Haji telah berubah daripada mandat dan tujuan asal ia ditubuhkan daripada tahun 60-an dulu iaitu untuk menguruskan haji dan untuk menjaga kebajikan jemaah haji dan untuk memastikan simpanan itu dibantulah kan. Itu satu. Daripada itu dia telah bertukar menjadi tonggak kekuatan ekonomi ummah. Daripada tonggak kekuatan ekonomi ummah nilah mulalah ada geng-geng ni yang mula kita perlu ada pelaburan-pelaburan strategik. Pelaburan strategik nilah oh melabur dalam syarikat itu, melabur dalam syarikat ini, apa nama ni yang di belakang tu kita tak tahulah siapa di belakang yang duk dapat pelaburan. Itu yang 20 juta sana, 40 juta sini, 1 bilion sana kan. Jadi RCI kata tak boleh dah buat macam itu. Dia kena kembali kepada mandat asalnya. Jadi kita nak kena tengoklah lepas ini sama ada benda itu berlaku ke tidak kan. Itu yang pertama. Yang kedua yang yang akan lebih menguji bukan sahaja Anwar Ibrahim ke, kerajaan ke, dia sebenarnya menguji rakyat ialah soal subsidi haji ni. Bila subsidi haji dah sekarang ni 40% lebih dan dijangka akan mencecah 60% sehingga jadi 740 juta dalam tahun 2030, dia akan menimbulkan beberapa persoalan. Satu ialah persoalan sebenarnya apa perasaan orang yang menabung tu? Kalau aku, aku memang tak adalah dalam Tabung Haji selepas aku dah pergi haji tahun 2013, kemudian bila jadi macam ni memang aku bawa keluar duit kan. Dan orang UMNO pun jahat dia duk sebarkan fitnah sampai sekarang dia orang duk ulang fitnah, "Oh dia hasut orang keluarkan duit, dia tak keluarkan duit pun." Aku keluarkan duit sebenarnya, memang betullah. You know, dan itu pun laporan RCI ni pun membantu juga kerana dia duk ulang yang pendedahan yang aku buat tahun 2015 2016 itu telah menyebabkan Tabung Haji patah kaki kerana orang mengeluarkan duit. Tak ada pun! Dalam RCI tak sebut pun benda itu. RCI sebut kebimbangan utama orang akan keluarkan duit ialah pada tahun 2000 akhir 2018 awal 2019 tu. Bila kerajaan perlu buat UJSB dan aset toksik ini ditukarkan, maka dividen hibah itu turun daripada 6% lebih turun 1.25 kan. Jadi kebimbangan utama ialah orang akan keluarkan duit lebih kurang 3 bilion lah. Jadi yang keluar duit itu tahun 2019, tak ada kena-mengena dengan aku pun! Dan nanti saya sambung lagi juga pasal bahagian itu lah kan. Jadi but kembali kepada soal subsidi ni kan, jadi dia terpulang juga kepada orang kitalah. Maksudnya kembali kepada mandat asal Tabung Haji, dia bukan lagilah untuk buat wang sampai apa nama ni return 8%, 7%. Kalau orang UMNO ke orang PAS, orang Perpaduan Ummah orang BN PN duk ulang, "Oh bagusnya zaman Najib dulu," itu Skim Pak Man Telo! Dan itu skim cepat kaya. Dan memang kalau Tabung Haji maksudnya dia dah pulih pun dan dia tak boleh lagi kembali kepada zaman itu yang memperjudikan duit rakyat hanya untuk kaya-raya ataupun untuk laba politik kan. Memanglah returnnya you expect 4 to 5%. In fact maybe lower. Sebab kalau kalau Amanah Saham pun 6% nya, takkan Tabung Haji lebih tinggi daripada 6%, mestilah lower kan. So so bila itu berlaku, kalau ikut RCI, pandangan RCI ialah itu lebih baik juga kepada Tabung Haji di masa akan datang. Kerana itu akan mengimbangi tekanan untuk memberi pulangan yang besar. Kerana zaman-zaman 2011, 12, zaman Najib dulu ni kan, bila Tabung Haji duk duk main pusing duit macam ini, dia menarik pendeposit-pendeposit yang besar. Saya tahu ada menteri yang ada ratus-ratus juta dalam Tabung Haji tu. Kau orang carilah nanti. Ada menteri yang ratus-ratus juta duit dia dalam Tabung Haji, ha kan. So bukan akulah. Aku dah keluarkan semua kan. Jadi itu satu risiko yang RCI sebut. Kerana dia ada risiko apa nama ni concentrated depositor ni. Cuba cari dekat muka surat berapa kerana dia bagi pecahan if I'm not mistaken 5% pendeposit mengawal 70% daripada duit tu. Dan dia letak dalam Tabung Haji kerana dia pulangan baguslah, 7%, 6% semua kan. Bila ada orang yang meletak di dalam Tabung Haji bukan atas urusan haji tetapi atas urusan pelaburan, maka dia ada tekanan untuk bagi pulangan yang besar. Ha itu yang yang menyebabkan berlaku soal creative accounting, soal RAV tak RAV, soal double book semua tadi kan. Tapi kalau contohnya apa nama ni pendeposit-pendeposit besar ni, orang yang menabung dalam Tabung Haji ni kita dah dah dah boleh imbangkan balik supaya sebahagian besar yang menabung dalam Tabung Haji ni adalah untuk urusan haji, tapi maksudnya mungkinlah dana Tabung Haji itu dia takkan jadi macam dulu-dulu lah yang perniagaan banyak semua ni kan. Dan itu yang kembali kepada soal subsidi muassasah. Kalau setiap-tiap tahun sampai perlu 740 juta, if I'm not mistaken dalam RCI kata untuk mengekalkan jumlah macam itu, dana dalam Tabung Haji kena ada 80 bilion pada satu-satu masa. Then then another pressure kan. Perkara ini dimulakan oleh Najib. Sebab sebelum 2009 kalau tengok RCI, tak ada tahu subsidi muassasah semua ni. So kita bayar apa yang koslah.
 
-[140:34] Pa'an: Page 178.
+[140:34] Farhan Iqbal: Page 178.
 
 [140:36] Rafizi: Page 178, ha.
 
-[140:37] Pa'an: Dianggarkan 75% deposit di LTH dimiliki oleh hanya 5% daripada...
+[140:37] Farhan Iqbal: Dianggarkan 75% deposit di LTH dimiliki oleh hanya 5% daripada...
 
 [140:43] Rafizi: Ha betullah, 5 75 kan? I thought 5 70 tadi. Kan so jadi ini keputusan-keputusan yang yang yang masyarakat juga kena terimalah. Saya nasihat saya, kita jangan penting dirilah. Kan, kita jangan penting diri, kita fikir pasal, "Ah aku nak apa nama ni haji murah." Harga kalau harga 10 tahun lepas, nasi lemak pun naik. Kan, aku tengah tengah semak kos keSKOM kan. Nak tengok kos kan, harga ayam tengah naik dalam 4 5 bulan ni kan. Jadi harga nasi lemak pun naik, ni harga pergi haji contohnya harga sekarang 20,000 lebih kos untuk muassasah, tapi kerajaan sebab semua takut populis semua ni, 12,000 kekalkan. Jadi setiap satu tu 8,000. Lepas tu dia tidak akan berlaku adil kepada Tabung Hajilah kan. Jadi ini perkara-perkara yang kita hanya boleh perhatikanlah. Orang tak suka aku sebab orang kata kalau ikut dia, mati rakyat Malaysia.
 
@@ -477,27 +477,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [154:48] Rafizi: Okey okey okey. So how you know how much has changed? Okey. Sebab itu kena kembali kepada RCI. So apa yang di dalam laporan RCI ini yang dia macam I'm from the future. Ada beberapa perkara yang dalam RCI ni, so dia ada hikmah dia juga tau bila bila kerajaan benam laporan ini. Sebab selepas 4 tahun, dia boleh ada efek I'm from the future. Kan? So apa dia elemen-elemen yang syor dan saranan dalam RCI ini yang sepatutnya kalau perkara itu berlaku dengan baik barulah kita boleh kata bahawa Tabung Haji is out of the woods eh, okey. Sebelum kita sampai kat situ, cara paling baik juga ialah untuk kita tengok dengan mudahlah. Masalah pertama, alah kenapa ada nyamuk pula kat sini ni? Chopper bawa? Chopper tidur. Diamlah. Kita sebenarnya benda yang kita perlu buat ialah untuk kita bandingkan apa nama ni aliran tunai dia. Sebab soal Tabung Haji ni ialah berapa orang mendeposit dan berapa orang bawa keluar duit kan. Yang itu yang yang memang paling ditakuti ialah apabila orang nak keluar duit tak ada duit kan. So aku pi tengoklah. Ya. So cara untuk tengok dia ni, kita boleh pergi ke laman Tabung Haji kemudian kita boleh tengok laporan kewangan dia. So bila tengok laporan kewangan dia, tahun yang ini untuk saya tengok yang awal sekali 31 Disember 2022 lah. Maksudnya yang ini sebelum kerajaan Madani ambil alih kan. So untuk kita tengok ni, kita tengok kepada satu nota. Kan kan financial statement kan dia ada balance sheet, kemudian dia ada income statement, kemudian dia ada cash flow statement kan. Lepas tu dia ada nota berpuluh-puluh nota ni untuk menerangkan setiap satu angka kan. Dalam satu nota tu, dia mesti ada satu nota yang menunjukkan pecahan Allahuakbar, pecahan dana pendeposit. Dia dalam nota nombor 30-an ke, sebab dia dalam liabiliti kan. Okey, hang on. Okey. Dia liabiliti pendeposit sebenarnya. Ah! So untuk tahun penyata kewangan 2022, muka surat 290, nota 27. Nota 27 ialah untuk Kumpulan Wang Simpanan Pendeposit. Ini untuk tahun 2022 ni tau, sebelum Anwar Ibrahim ambil alih eh. Pada 1 Januari 2022, baki simpanan pendeposit ialah 83 bilion. Kemudian tambahan simpanan pendeposit sepanjang 2022 ialah 23 bilion. Kemudian tolak pengeluaran pada tahun sepanjang tahun 2022 ialah 21 bilion. Kan, okey. So sebab itu jumlah tabungan pendeposit ialah 85 bilion, kemudian agihan keuntungan daripada apa nama ni profit semua tambah 2.4 bilion, jadi Kumpulan Wang Simpanan Pendeposit pada 31 Disember 2022 ialah 87.6 bilion. Yang penting ialah, ingat tak tadi, berapa orang simpan duit dan berapa orang bawa keluar? Itu is a kind of measure of confidencelah dalam Tabung Haji kan. So untuk tahun 2022, orang simpan 23, bawa keluar 21. Jadi ada lebih kurang 2 bilion tambahan. Okey ya, now. Tengok 2025. 2025 kita tengok eh. Tadi ah. Nota apa nama ni nota nombor 27 muka surat 335, ini bagi tahun 2025 eh. Pada 1 Januari 91.7 bilion carry forward, brought forward lah kan. Simpanan pada tahun semasa 20.2 bilion, pengeluaran pada tahun semasa 21.4 bilion, maka baki dia ialah 90.5 campur dengan agihan keuntungan pada tahun semasa 2.9 jadi baki dia 93. Now. Ada dua perspektif eh. Satu ialah berapa simpanan pada tahun itu. Actually 2025 lagi sikit daripada 2022. 2022 23 bilion tau.
 
-[160:14] Pa'an: So in simple terms people are depositing less?
+[160:14] Farhan Iqbal: So in simple terms people are depositing less?
 
 [160:18] Rafizi: Depositing less both kita tak boleh nak katalah good or bad ke apa semua kan. Sebab salah satu saranan RCI ialah kita nak kurangkan the risk of this concentration of depositor daripada orang-orang yang nak nak hibah tinggi ni. So maybe that's the reason. Maksudnya it could be that the lower apa nama ni amount of new depositor a new money coming in tu ialah kerana then kita weed out orang yang macam itulah. Tapi the more telling ialah the net tu. Maksudnya tahun 2022 simpanan baru 23, yang dikeluarkan 21. So dia positif net flow kan?
 
-[161:09] Pa'an: Ya.
+[161:09] Farhan Iqbal: Ya.
 
 [161:10] Rafizi: Tapi untuk 2025 dia negatif net flow tau!
 
-[161:12] Pa'an: Betul.
+[161:12] Farhan Iqbal: Betul.
 
 [161:13] Rafizi: Simpan hanya 20, tapi yang keluar 21.4. So ada a shortfall of berapa tu? 1.3. 1.3 bilion tau! Dalam keadaan tanggungan apa nama ni tanggungan subsidi makin berterusan, makin tinggi makin tinggi kan. Dan ingat tak untuk maintain subsidi pada pada harga yang sekarang ini, I think the the the fund mesti what 80 or 88 billion, I can't remember. Kau orang bolehlah cari lah. There are so many numbers, it's impossible for me to remember everything lah, but I think it's either 80 or 88 kan. Sekarang ni 93 tau. So kalau contohnya trend ini, trend orang yang bawa keluar ni lagi banyak daripada yang bubuh kan, 1.2, 1.5 tiap-tiap tahun bawa keluar bawa keluar keluar, then you know dia dengan threshold 80 billion plus tu is agak agak apa nama ni rapatlah kan. So yang yang ini tidak disebut di dalam RCI tau. Tapi yang ini kita semua yalah bolehlah tengok yang inilah. Ini untuk menjawab Datuk Seri Anwar, jangan mudah-mudah pakai petik alasan macam itu kerana bila orang mula tengok akaun, orang kata lagilah orang kata, "Ya Allah, engkau spin ni boleh tahan jugalah." Kan? Pandai-pandai aje kau claim kata sedangkan Tan Sri Rashid Hussain, Pengerusi Tabung Haji secara terbuka dah sebut kebimbangan dia kalau trend mengeluarkan wang dari Tabung Haji ini lebih tinggi daripada yang yang tambahan menabung. Kan? Dan perkara itu disahkan di dalam RCI bukan soal aliran tu, soal tanggungan subsidi. Kerana dia ada threshold dia, kalau dia continue tanggungan subsidi berterusan, kos naik tiap-tiap tahun. Tapi you know kos kapal terbang, kos minyak, kos penginapan, semualah kos kesihatan, insurans semua naik Tabung Haji untuk jemaah haji kan. Tapi harga is kept by kerajaan. Jadi the portion of muassasah yang secara berterusan makin naik makin naik tu, yang itu akan makan hibah. Bila dia makan hibah, then so-called growth potential of of return kepada pendeposit tu nampak macam sama ada makin menurun ataupun stagnant. Because of that, dia akan menyebabkan benda macam inilah, orang mula bawa keluar duit bawa keluar duit semua kan. Jadi RCI memang secara tidak langsung mengesahkan kebimbangan ini daripada 2022 lagi dan you dah mula nampak trend 4 tahun kemudianlah. Okey now. Kemudian RCI juga ada menyebut dua perkara yang kita dah makin nak ke depan ke bomb ni, kita nak sampai ke bomb kan. RCI menyatakan dia tak sebut dalam bahasa yang aku akan gunalah, tapi dengan lembutnya dia menyatakan bahawa bailout plan UJSB tahun 2018 itu sebenarnya hanyalah temporary plan. Maksudnya itu hanyalah kita panggil apa? Elastic band, bukan apa dia panggil apa ni?
 
-[164:54] Pa'an: Bandage.
+[164:54] Farhan Iqbal: Bandage.
 
 [164:55] Rafizi: Bandage. Band-Aid. Ha dia hanyalah Band-Aid aje. Dia tidak akan menyelesaikan masalah itu. Dan dia sebut the sama ada orang yang baca tu faham ke tidaklah. Dia sebenarnya bagi hujah kenapa UJSB dan penstrukturan tahun 2018 itu hanyalah Band-Aid. Okey now, dia dia agak teknikal sikitlah. Tuan-tuan dan puan-puan semua ya, bear with me eh, okey. Tahun 2018 untuk menyelamatkan Tabung Haji, maka aset toksik 10.9 bilion itu dipindahkan kepada UJSB kan. Dan sebagai gantinya ataupun consideration atau bayaran, satu kertas hutang, sukuk diberikan kepada Tabung Haji. Nilainya itu 20.9 bilion. Yang itu adalah prinsipal dia, tapi dia juga ada elemen deferred yield dialah. Jadi tiap-tiap tahun jumlah yang perlu dibayar oleh UJSB kepada Tabung Haji tu makin naik, makin naik, makin naik, makin naik kan. Okey now. So kita boleh pergi kepada financial statement eh. Okey. Kesian orang ramai, dia tak ada financial statement. Allahuakbar. Kalau kita pergi kepada balance sheet, awal sekali eh balance sheet, ini untuk tahun 2025 eh. Kalau pergi kepada muka surat 223, laporan tahunan Tabung Haji, dia menunjukkan jumlah aset. Balance sheet dia dia akan bermula dengan... Okey. Dia akan bermula dengan apa nama ni sorry, muka surat 201. Group lah, ni kumpulan kan ya? Ni group. Ha kumpulan. Kalau tengok group eh, jumlah aset dia 101 bilion untuk 2025 eh. Do you have access there? Or you're looking at...
 
-[167:25] Pa'an: Yeah, I download I download.
+[167:25] Farhan Iqbal: Yeah, I download I download.
 
 [167:26] Rafizi: You downloaded, okey. So muka surat pertama tu dia balance sheet, itu Penyata Kedudukan Kewangan Disatukan tu untuk kumpulan itu, dia akan bermula dengan aset kan. Tengok aset dia 101 bilion, tapi cuba tengok Sukuk UJSB dan Terimaan pada Kos Terlunas.
 
-[167:45] Pa'an: 24.
+[167:45] Farhan Iqbal: 24.
 
 [167:46] Rafizi: 24.78. It's 25 bilion. Okey, you take 25 bilion bahagi 101 bilion. Maksudnya aset kumpulan Tabung Haji tu 25% adalah kertas. Dia tak nilai. Bukanlah tak ada nilai, maksudnya nilai dia tu bergantung kepada sama ada kerajaan akan bayar ke tidak. Dia kertas saja tau. Okey ya, now. And then you tengok pula kepada muka surat seterusnya, bukan muka surat seterusnya lah, income statement, penyata seterusnya. Penyata Untung Rugi Kumpulan eh. Pendapatan untuk tahun 2025 ialah 5.3 bilion. Alamak, yang ini kena tengok notes, dia tak tunjuk kat sini. So kita kena tengok nota 33 eh. Nota 33... Nota 33 page 349 eh? Pendapatan 5.3 bilion, kumpulan eh. Cuba tengok pendapatan dari Sukuk UJSB, RM971 juta. So you kira 971 juta eh ha 971 juta bahagi 5.34 bilion eh, 5347. 18%. Yang itu tu, 971 juta tu, itu memang duit 971 juta masuk ke Tabung Haji ke?
 
@@ -505,7 +505,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [169:28] Rafizi: Kertas. Paper. Nothing. That money 971 tak ada dalam akaun Tabung Haji. Sama juga aset tadi berapa? 23 bilion lebih tu tak ada Tabung Haji. It's a bond, and dia accrue. Okey. Yang itulah yang disebut di dalam RCI. Jadi kalau kita tak berhati-hati, tiap-tiap tahun mungkin penasihat ekonomi Datuk Seri Anwar Ibrahim tak sempat nak ingatkan dialah, be careful tau. Sebab kalau kita jangan ulangi apa yang yang telah berlaku zaman Najib. Yang PH ni duk ulang makin bagus, telah menyelamatkan Tabung Haji pumpang pumpang pumpang, you tengok akaun dululah. Sebab yang inilah yang geng-geng UMNO semua duk ulang masa zaman 2016 masa aku dalam Parlimen semua, duk kata, "Tengok ni pendapatan banyak ini, dana aset banyak ini." Dia tak tahu ceritanya. Daripada 101 bilion yang kalau nak banding, "Bagusnya di bawah pentadbiran Madani, nilai aset Tabung Haji telah naik 101 bilion." 25% is paper. Sama juga, "Pendapatan Tabung kumpulan Tabung Haji telah naik 5.3 bilion." 18%, 971 million is paper.
 
-[170:56] Pa'an: But people people can argue and say yang I mean it's according to accounting rules, we're not breaking anything.
+[170:56] Farhan Iqbal: But people people can argue and say yang I mean it's according to accounting rules, we're not breaking anything.
 
 [171:02] Rafizi: Okey okey okey. But it's a question of cash flow! Ingat tak eFishery? So your asset tadi kan, dia untuk menentukan hibah dia kena banding aset dengan liabiliti. Then aset tu 25% is paper tau. So tiap-tiap tahun ni kan, paper paper paper, aset banding dengan liabiliti. So ada rizab lebih, boleh bagi. Kemudian dia tengok pula keuntungan, "Oh keuntungan sekian sekian, 2 bilion and so on." Padahal dalam tu ada 971 is paper. So hibah is calculated based on this value ada dua-dua ni. Tapi bila you umum hibah 3%, 4%, you tak boleh issue paper tahu kepada orang. You kena ambil duit! That money tak ada lagi. Itu yang disebut di dalam RCI. So RCI dengan secara jelas memberi kesah an saranan, merayu supaya jangan jangan lupa eh kerajaan, jangan lupa, sebenarnya bailout yang UJSB ni hanyalah temporary ni, sementara ni, dan dia sangat bergantung sama ada kerajaan akan bayar balik ke tidak benda tu. Sebab daripada tahun 2019 ni Tabung Haji duk recognize paper paper profit ni. Dan dia meningkat tau. Kalau tahun 2025 ni dah jadi 971, I think tahun tahun 2022 masa RCI ni dibuat, nilai dia adalah 800 juta lebihlah. So it keeps increasing year after year. Most probably by 2027 dia dah jadi 1 bilion dah. 1 bilion pendapatan paper kan. Sebab itu RCI kata daripada kertas sukuk UJSB 2019 itu, kerajaan kena bayar balik kepada Tabung Haji dalam dua redemption maturity date lah. Satu tahun 2026, satu tahun 2029. 2026 ni kena redeem 10 bilion eh?
 
@@ -521,7 +521,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [176:08] Rafizi: No, you go into the nitty-gritty ah. Okey okey okey. Dia begini. Bondlah sukuk ni kan, dia ada apa nama ni dua komponen. Bond tu redemption dia tak bertukar. So kalau contohnya UJSB issue bond dan bond itu dipegang oleh Tabung Haji, kalau prinsipal dia ialah 10 bilion kan, kena redeem 10 bilion, maka 10 bilion tu masa redemption date tu maksudnya tahun 2026, Mei 2026 kena bayarlah 10 bilion. Cuma bond tu ada kupon. Kupon tu tiap-tiap tahun kalau kupon dia 5%, you kena bayarlah 500 juta, 500 juta, 500 juta. Dan bond biasa dia tradeable. Kan dia tradeable. Jadi tak apalah orang ramai kan, dia jadi dia jadi kelas baguslah juga, orang boleh faham sikitlah bond bond semua ni kan. Bond ni tradeable yang biasanya ni bukan Tabung Haji ni kan, bond biasa kan tradeable. Jadi ambil contoh kerajaan Malaysia. Dia issue bond. Bond dia tu 10 bilion redeemable 2030. So 2030 tu dia kena bayarlah apa nama ni 10 bilion tu. Cuma apa nama ni bond ada kupon. Kupon tu kalau kalau yalah kalau kalau government punya apa nama ni MGS tu, dia bergantung pada masa dia diterbitkan kan. Dan kerajaan issue bond ni kadang-kadang tiap-tiap bulan tahu, kan ha. So katakanlah masa dia terbitkan itu bergantung kepada interest rate masa itu, kemudian rating, bond rating semua, kena bayar 3.5%. So maksudnya tiap-tiap tahun memang kerajaan Malaysia kena bayar 350 juta, 350 juta dan 2030 kena bayar 10 bilion. Tapi bond ni kan tradeable. Jadi katakanlah aku adalah Tabung Haji, aku nak beli bond kerajaan kan, is a 10 billion bond kemudian 3.5% kupon kan. So contohnya kalau interest rate turun kan, dan bond aku tu is 3.5% punya kupon kan. So that bond is sought after. Kerana aku akan dapat 3.5% kalau aku beli bond tu berbanding kalau aku letak dalam fixed deposit. Fixed deposit mungkin 2.5% aje, ada 1% spread semua kan. So then orang sanggup bayar premium untuk beli that bond. So you may instead of buying 10 billion untuk dapatkan bond tu, you may pay 10.1B. Extra 1B. Tapi apa nama ni 2030 nanti I will still just get 10B lah. So yang itu itu maksudnya bond is being traded at a premium. The opposite is true. Kalau contohnya interest rate naik tapi interest rate dah jadi 4% tapi your bond is 3.5%, your coupon is 3.5%. Jadi orang tak naklah, orang juallah. So then people will be willing then then people have to buy people can buy at a discount lah. Untuk 10 billion, I just pay 9 billion, nanti 2030 kan. Okey now, itu bond secara keseluruhan. Now sukuk ni is unique dan ini jugalah yang disebut di dalam RCI. Sukuk ni is non-tradeable. It's not government-guaranteed. Kemudian dia zero coupon.
 
-[180:14] Pa'an: Ya, so tak payah bayar apa-apa.
+[180:14] Farhan Iqbal: Ya, so tak payah bayar apa-apa.
 
 [180:16] Rafizi: Ha sebab itu dia jadi paper. Yang ada hanya about yield to maturity of about 4% something, itu yang dia jadi ada deferred payment element of the yield. So kerajaan tak bayar tiap-tiap tahun, tapi Tabung Haji dia akan recogniselah 800 juta, itu yang jadi 900 juta lebih tu. Sebab itu bila redeem, this goes back to soalan Haziqlah, redeem 10 billion principal. Aku tak baca the whole agreement, kita tak ada access to this whole agreement, tapi berdasarkan kepada laporan RCI, my understanding is bila redeem May 2026, apa nama ni sukuk yang 10 billion Series 1 tu kena bayar 13.2. Tak jadilah. So yang ini yang kau nak kena umum ni, kau kenalah umum.
 
@@ -537,15 +537,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [181:51] Rafizi: Okey, yang berlaku macam ni eh, okey ya. Ini yang yang RCI ni agak bimbang. Dia takut kerajaan ni, kerajaan tak bayar bila sampai masa tak bayar kepada Tabung Haji kan. So sepatutnya Mei baru nilah, kita duk sibuk lancar parti baru kan. Sepatutnya kalau it's full redemption seperti yang diusah yang yang yang dikehendaki or as designed kan seperti yang dirancang dalam proses bailout 2019 tu, sepatutnya UJSB membayar 13.2 bilion. Of course ada dua tiga cara bayaranlah mengikut perjanjian sukuk tu. Satu yang paling baik ialah bayar tunai. 13.2. Jadi yang kebimbangan yang kita kata paper asset, paper tu dia dah tak jadi paper asset lah. Daripada 23 bilion yang ada atas balance sheet Tabung Haji tu, tinggal 10 bilion ajelah paper, 13 bilion tu dah jadi tunailah. Kerana dia akan jadi debit cash, kredit apa nama ni Sukuk UJSB lah. So dia reduce, so you ada extra 13B kan. Itu satu cara. Satu cara lagi ialah dengan memulangkan aset-aset yang yang apa nama ni setara nilailah. Sebab the whole idea of UJSB ialah remove toxic asset, rehabilitate the toxic asset supaya nilai dia naik. Kemudian sama ada UJSB jual dan dapat cash, ataupun dah rehabilitate ni kalau sebelum itu nilai dia 1 bilion sekarang dia dah jadi 2 bilion, then bila sampai you redeem you you transfer baliklah 2 bilion kan. Tapi perkara itu tak berlaku jugalah kan. Jadi akhirnya apa yang kerajaan buat ialah the gist of it lah I mean kerajaan memindahkan dua aset yang bernilai 975 juta. Pa'an maybe can can confirm, you tengok tu kan. Kerajaan memindahkan dua keping tanah. Satu sebanyak 0.6 hektar dekat TRX, satu lagi lebih kurang berapa? 200,000 hektar di Sarawak.
 
-[184:38] Pa'an: 0.63 hektar plot at TRX, 8.8 thousand hectares of estate land in Sarawak.
+[184:38] Farhan Iqbal: 0.63 hektar plot at TRX, 8.8 thousand hectares of estate land in Sarawak.
 
 [184:46] Rafizi: Oh sorry, not 200,000, apa? 8.8...
 
-[184:48] Pa'an: 1,000 hectares.
+[184:48] Farhan Iqbal: 1,000 hectares.
 
 [184:50] Rafizi: 8,000 8,800? 8,800 hectares of plantation land in Sarawak. Nilainya semua tu 975 juta kan?
 
-[185:00] Pa'an: 970 million.
+[185:00] Farhan Iqbal: 970 million.
 
 [185:01] Rafizi: 970 million kan? 970 million. So yang itu sebagai aset. Okey itu 970 70 million. 10 bilion lagi tu ialah roll over. Maksudnya, "Okey paper ni kita redeem, batalkan. Aku ganti dengan satu lagi paper 10 tahun lagi pula aku bayar!" Ha.
 
@@ -553,15 +553,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [185:33] Rafizi: Roll over kan. Jadi roll over tu kalau 10 tahun, I think...
 
-[185:40] Pa'an: Ada effect tak? Because the new sukuk ni pula dia bukan zero coupon, dia 3.825%. Ada effect? I mean, is it better ke or...
+[185:40] Farhan Iqbal: Ada effect tak? Because the new sukuk ni pula dia bukan zero coupon, dia 3.825%. Ada effect? I mean, is it better ke or...
 
 [185:50] Rafizi: Slightly better lah. Okey, I hope kita tak tahu in details sebab benda ni kita baca daripada berita semua, kita tak tahu perjanjian dia. I hope lah I hope bila dia kata the the what? 3.85? 3.825% punya kupon tu, I hope itu bermakna UJSB akan bayarlah. Bukan paper lah, bukan macam the first sukuk.
 
-[186:14] Pa'an: So is that indicative that cash flow-wise they can bear that yearly payments now or UJSB?
+[186:14] Farhan Iqbal: So is that indicative that cash flow-wise they can bear that yearly payments now or UJSB?
 
 [186:23] Rafizi: Tak tak, it's not a question of UJSB, it is a question of Federal Government. Kan? So saya berharapkanlah yang yang sukuk roll over ni maksudnya kerajaan tak boleh bayar baru ni! 10 bilion tu tak bayar. Kan? Jadi roll over lagi.
 
-[186:43] Pa'an: Ya ya ya ya.
+[186:43] Farhan Iqbal: Ya ya ya ya.
 
 [186:44] Rafizi: Roll over lagi kan? Jadi paper lagi. So yang sepatutnya dapat dalam 13 bilion tu, dapat 975 juta aje. Ganti dengan paper yang baru. Cuma of course you can argue lah. Kerajaan akan argue, "Ya is better sebab satu yang ini ada guarantee. Yang sebelum ini letter of support sahaja, bukan guarantee kan. Yang ini ada guarantee. Kemudian dia coupon 3.85, 3.8 something kan." Cuma saya tak pasti sama ada kupon tu dia betul-betul akan bayar ataupun dia masih lagi accrue. That one I don't know until kita tengok atau kita tunggu another RCI lah. Ha kan, ha. Cuma persetujuan kerajaan yang ini yang Anwar Ibrahim sepatutnya nanti bentang, dan ini tips kepada ahli-ahli Parlimen. Baik kepada PH, baik kepada PN, baik kepada BN eh, nanti tolong tanya sebab kita orang tak ada dalam Parlimen nanti sebab...
 
@@ -569,23 +569,23 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [187:41] Rafizi: Dia dia dibentangkan di Parlimen nanti kan? So aku bagi soalan bocor awal-awallah. RCI telah merakamkan persetujuan kerajaan untuk memperuntukkan sejumlah tiap-tiap tahun sejumlah wang dikumpulkan supaya boleh redeem tahun 2026. 1.7 bilion setahun, 1.5 bilion setahun. Okey, cuba cari Pa'an, page mana tu?
 
-[188:10] Pa'an: 1.73 ni ke?
+[188:10] Farhan Iqbal: 1.73 ni ke?
 
 [188:12] Rafizi: Ha yalah, itu page mana tu?
 
-[188:13] Pa'an: 3.13.49, kejap.
+[188:13] Farhan Iqbal: 3.13.49, kejap.
 
 [188:16] Rafizi: Ha? 3.1?
 
-[188:17] Pa'an: Dia punya ni dalam RCI tu.
+[188:17] Farhan Iqbal: Dia punya ni dalam RCI tu.
 
 [188:20] Rafizi: 3.14?
 
-[188:22] Pa'an: 3.13...
+[188:22] Farhan Iqbal: 3.13...
 
 [188:23] Rafizi: 3.13.9?
 
-[188:26] Pa'an: .49.
+[188:26] Farhan Iqbal: .49.
 
 [188:28] Rafizi: 3.13.49. Ha ini orang ramai ingat betul-betul eh, kita ha.
 
@@ -629,7 +629,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [198:42] Rafizi: So kesimpulan dialah, kesimpulan dia kebenaran tu akan keluarlah. Lama mana pun dia akan keluar kan ha. Jadi sekarang ni masa UMNO keluar pasal cerita Tabung Haji semua ni kan. Yalah, UMNO PAS pusing ikut macam mana pun, rekod tu dah ada sampai bila-bila orang boleh bacalah apa dia kan. Dan tugas kitalah macam saya di BERSAMA, kawan-kawan di BERSAMA, benda ni tak UMNO takkan korek, PN takkan korek, PH takkan korek. Aku yang paling menyampah macam ni tau. Bila ada sitro UMNO, tapi sitro UMNO selalunya tak seteruk sitro PAS. Sitro PAS yang aku notice teruk. You boleh tahu itu sitro PAS sebab kalau sentuh aje apa nama ni Sanusi or PAS, dia datang serang kan. Sebab sitro PAS ni ya Allahuakbar. Dia akan jawab, "Kenapa kau tak pergi korek pasal Farhash? Ha bila nak apa nama ni dedah pasal ni?" Ya Allah, itu kerja engkau! Ya Allah, pemalas punya manusia! Dia orang nak duduk kat tepi main motor kapcai, lepas tu nak suruh kita buat kerja, lepas tu nak suruh Sanusi ke depan kan. Itu kerja Samsurilah! Kan? So sekarang ni kita boleh siasat semua kan. Jadi tanggungjawab kitalah korek lagi yang di belakang ni sebab RCI ini hanyalah permulaan kan, dan kita akan tengoklah. Saya akan cuba dengan masa yang terhad semua, aku pun dah tua. I can feel that I'm aging, so aku cepat penat berbanding dengan dulu-dulu aku boleh stay sampai 36 jam siasat semua ni kan. Now I don't think I can do it lah kan. So but maksudnya mana yang kita boleh cari kita cari dan kita kena pursue lah dengan agensi-agensi penguat kuasa semua. Sebab sama-sama dia orang, dia macam RCI nilah. Masa dia peram, dia peram. Masa patut dia rasa boleh jadi senjata, dia bawa keluar. Kalau lepas ni dia kau team, dia kau team ah kan ha. Jadi itu tugas itulah baiknya ada parti macam BERSAMA ni kan. Tu satu. Kesimpulan yang kedua begini tau, macam saya sebut tadilah. Kebenaran ni dia akan keluar lama macam mana kan. Aku aku cerita lain aku tak tak terasa sangat, cerita Tabung Haji ni aku terasa tau. Sebab zalim tau orang duk maki and fitnah aku tiap-tiap hari! After all, actually I was just you know I I think I contributed a lot. Kalau aku tak buat bising sampai jadi macam ni ni, dia tak adalah sampai sampai eventually jadi RCI semua kan. Dia masa pada masa itu tak ada seorang pun berani bercakap. Tak ada seorang pun berani nak membelek benda-benda kecil ni kan. Dan I think yalah kalau orang serang politik lain tak apa, tapi serang kata, "Oh engkau ni berdosa sebab kaulah Tabung Haji jatuh semua." I think that's a bit too much lah kan. But eventually although it took 10 years, 10 tahun, yalah aku ada satu yang aku tick dalam my bucket list lah. Maksudnya sebelum aku mati, Tabung Haji ni aku nak suruh keluar cerita biar orang tengoklah kan. And then now we have another 10 years to make sure cerita Tabung Haji yang dalam RCI ni betul-betul dilaksana kan. Kalau kebenaran tu one way or another akan keluar, yang berlaku bawah kerajaan Madani ni satu hari akan keluar. Mafia korporat akan keluar. Cerita pasal saham Tan Sri Azam Baki akan keluar, one day. It's just sama ada 2 tahun, 3 tahun, 4 tahun kan. Jadi kepada orang ramailah, kita boleh sokong. Saya minat orang tulah, saya minat parti nilah, you know alah berkompromilah kan. You can justify anything pasal politik semua ni kan. Tapi pada satu hari, benda-benda yang kalau benda-benda tu dia berkepentingan awam dan dia melibatkan penyelewengan semua, akhirnya dia akan keluar. And pada ketika itu yalah I hopelah kan, kita reflect lah. Where was I? Kenapa kan? Jangan jadi macam penyokong-penyokong Akmal Saleh semua ni. Penyokong-penyokong UMNO ke PN, dah orang tulis panjang lebar, dah bukti ada, tak nak terima! Masih lagi corner, penyokong Najib ni corner kiri kanan. Azeez Rahim masih lagi, "Oh saya telah diclearkan oleh semua," kan.
 
-[203:51] Pa'an: But like you saylah, maybe sebab dia orang confident coming back into power?
+[203:51] Farhan Iqbal: But like you saylah, maybe sebab dia orang confident coming back into power?
 
 [203:55] Rafizi: Siapa dia? Sekarang UMNO? UMNO ya. Yalah, I'm talking about PH. Ha UMNO come back to power, you think semua yang pasal mafia korporat segala ni tak keluar? Nicky Liow tak Nicky Liow ni? Ha. So masa itu nasihat saya, kita I'm from the future kan. Kita sekarang apa nama ni sikit-sikit kita pakai I'm from the future kan. Kalau sampai ke peringkat itu, ada RCI ke siasat itu, ada siasatan ini, tengok baca semua dulu, tengok fakta. Janganlah jadi macam orang dan penyokong-penyokong UMNO, PN, Najib sekarang yang bekas Ketua Hakim Negara, bekas KSN dah tulis bukti semua ni, penyata kewangan dah ada, masih lagi, "Oh tak tak tak tak, tak betul," sebab bila kena kat dia. So samalah juga kitaran itu akan berpusing, bila kena kat orang lain pula then you know then you have to ask lah. You know saya harap ramai orang terbuka hatilah tengok RCI tu, baca betul-betul dan faham. Kalaulah aku tahu lebih awal kan.
 
@@ -645,7 +645,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [206:23] Rafizi: Ada banyak lagilah, tapi saya ingat macam saya sebut tadilah, dia untuk meringkaskan pemahaman orang ramai supaya kita fokus kepada isu-isu yang besarlah. Sebab saya tengok setakat ini laporan semua masih belum ada lagi kan yang menumpukan kepada beberapa perkara yang kita sebut tadi kan. Dia duk sibuk banyak laporan itu mengulas pasal oh bayar bonus tinggi, oh pelaburan tak betul, orang kan dia ataupun tekanan politik, pengaruh politik, hibah dibayar rugi 2017 kan. Itu sebenarnya ialah orang kata surfacelah kan. The the real existential crisis kepada Tabung Haji ni maksudnya kalau kita dulu cerita apa yang yang Bruce Willis Armageddon kan? Kau orang ingat Armageddon?
 
-[207:20] Pa'an: Kalau Afiq dia kata Armagedom.
+[207:20] Farhan Iqbal: Kalau Afiq dia kata Armagedom.
 
 [207:23] Rafizi: Armagedon kan. Kan kan asteroid kan? Maksudnya asteroid tu tak lari lagilah, asteroid tu masih lagi ke arah kitalah kan. So yang ini yang kita tengoklah macam mana reaksi orang ramai dalam dan juga ahli politik ke apa. Sebab dia orang tak tahu juga aku ingat orang sekarang ni kan kalau apa yang aku sebut ni tak ada orang nak sambut, yang PH pun tak nak sambut, yang BN PN pun tak nak sambut kan. But on second thought, aku rasa dia bukan pemalu pun. Dia pakai tunggang aje apa-apa kan. Tengok-tengok lepas ni Akmal Saleh yang paling ke depan kata, "Kenapa tak bayar sukuk?" Kan? For all you know, Asyraf Wajdi, "Kenapa tak bayar sukuk?" Tapi aku rasa yang paling aku tak terkejut, Pasir Mas lah, Fadhli Shaari, "Kenapa tak bayar sukuk?"
 
