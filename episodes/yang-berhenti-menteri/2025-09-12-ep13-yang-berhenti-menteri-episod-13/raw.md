@@ -6,1547 +6,1077 @@ channel: Rafizi Ramli
 publish_date: '2025-09-12'
 duration_seconds: 7650
 duration: 2h 7m
-view_count: 35313
+view_count: 35332
+model: gemini-3.5-flash-lite
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
-[02:28] Speaker 1: Assalamualaikum dan selamat datang podcast yang berhenti menteri episod ke-13 lah YB. YB perasan apa dengan episod 13 ni?
+[00:00] Host: Assalamualaikum dan selamat datang, podcast Yang Berhormat Menteri, episod ke-13 dah YB. YB perasan tak apa dengan episod 13 ni?
 
-[02:36] Speaker 2: Ya, hari ini Jumaat 13 Friday the 13 banyak hantu keluar.
+[00:15] Rafizi: Ya, hari ini Jumaat, 13, Friday the 13th, banyak hantu keluar. Jadi yang baru masuk, tap-tap skrin, yang baru masuk, reply komen dan share.
 
-[02:41] Speaker 1: Ah jadi yang baru masuk, tap-tap screen, yang baru masuk, reply, komen dan share.
+[00:30] Host: Tap-tap skrin ni apa dia? Tap-tap skrin ni dekat TikTok YB. Jadi dia ada love kan, tap banyak-banyak, jadi engagement tu naiklah. Dia bukan orang bagi, bagi gift ke? Kenapa aku tak pernah dapat gift? Maflah YB, ahli politik dia tak boleh. Dia memang, TikTok pun tak boleh? TikTok, dia TikToklah. TikTok tak boleh. Jadi YB kena macam mana? Dia tak boleh jadi politician. Oke, tak apa. Patut aku berhenti menteri. Nanti kita check. Oke, sebelum kita ke segmen beria YB, kita ada segmen tambahan untuk minggu ni lah. Sebab minggu lepas YB ada janji something lah untuk tunjuk kepada kawan-kawan kita di luar sana, iaitu slip gaji. Ni kira hutang minggu lepas lah. Ada tengok dekat Twitter, semua orang, orang apa nama, duk ingatkan, "Jangan lupa slip gaji." Aku dah nak terlupa tadi. Tapi ada concern juga dekat komen kata janganlah tunjuk privasi. Apa yang nak privasinya? Jadi ia bukan privasi, oke. Jadi kita ada segmen hutang YB. Cuma YB agak, kecuali tunjuk hutang aku. Itu privasi lah. Itu pun aku tunjuk hutang aku semua dulu masa declare asset. Ya, ya, ya, boleh tengok kan. Yang dia orang jajah banyak-banyak 20 juta amat tu. Oke, jadi YB bukan setakat share ahli parlimen punya slip gaji, tapi sebagai slip gaji menteri atau anggota pentadbiran. Jadi kita tengok, tiga, dua, satu. Oke, zoom. Apa ni? Kau orang tengok, tengok elok-elok. Ini kali pertama kau orang boleh tengok slip gaji menterilah. Gaji anggota pentadbiran, 11,000. Kemudian kita ada elaun jemaah menteri, 4,000. Elaun rumah 4,000 tu sebenarnya tolak. Dah tolak, kena tolak sebab ada sebelah kanan tu, pulang balik elaun kuarters sebab duduk kuarters kan, jadi tak dapatlah. Tak dapat. Keraian, kemudian memandu, dan ni apa ni? Saya pun tak nampak. Isteri rumah, pembantu rumah, 2,500, dan pentadbiran persekutuan 1,500. So semuanya 40,000. Dan bila setelah ditolak, kita ada 11, cuma tinggal 29,000. 11,000 dah ditolaklah. Cukai pendapatan, ada kuarters, dan KWSP. YB ada KWSP? Tak tahulah apa tu kan. Ada ke? Dia tulis potongan KWSP. Iyalah kut kalau dia dah potong, adalah tu. Ada pencen lagi. Ish, ish, tak adalah. Tak tahulah ni apa kan. Sebenarnya potongan KWSP tu untuk apa? Sebab aku tak pernah tengok slip gaji ni. Kepada siapa yang tahu, mana-mana HR yang tahu, boleh komen sebab kami tak tahu. Jadi kita ada 29,000 lah YB ya. 29,000. Actually, lepas ni kena check lah, EPF aku dapat caruman ke tidak. Itu menteri lah. Maksudnya dia potong, potong, potong, dia tinggal 29,000. Dan menteri dia juga ahli parlimen, jadi dia dapat gaji ahli parlimen dengan slip gaji yang lain. Dengan slip gaji yang lain. Can we move next? Ya. Oke, baik. All right. Ha, itu slip gaji ahli parlimen. Gaji pokok ahli parlimen sebenarnya 16,000. Oleh kerana sebagai anggota pentadbiran menteri, elaun tu dapat elaun menteri jelahlah. Dia tak dapat elaun ahli parlimen semua. Jadi 16,000 tolak yang angkasa tu sebenarnya Angkasa tu macam mana? Potongan kepada parti. But why tulis Angkasa YB? Sebab memang Angkasa ada, iyalah Angkasa memang ada arrangement kan dengan kerajaan. Kalau potongan pinjaman ke, koperasi ke, semua dibuat melalui Angkasa. Jadi saya ingat PKR memang ada konsep yang serupa dengan Angkasa. Angkasa tolak, so dia tolak 8,000, aku dapat 7,600. Jadi dia potong lagi banyak. Sumbangan kepada parti tu, ha, 8,000 semua, dapat 7,600. Oke, jadi campur dua, tadi 29 campur 7, dapatlah dalam 35, 36,000 lah sebulan. Baik, baik, baik. Jadi di luar tu digempar-gemborkan gaji menteri Mana ada digempar-gemborkan? Digembar-gemburkan, sori, typo lagi. Menteri-menteri ni kena dapat 60,000, ada 101,000, tapi YB cabuk je ni. Itulah, aku rasa aku menteri paling cabuk kut kan. Tak, yalah, saya ingat dia bergantung kepada menteri masing-masinglah. Sebab ada menteri dia duduk dalam lembaga pengarah kan. Jadi kalau lembaga pengarah GLC contohnya, semua tu, dan dia adalah yuran sebagai lembaga pengarahlah, elaun mesyuarat dan sebagainyalah. Sebab tu kalau campur, campur, campur, mungkinlah. Kemudian kalau contohnya menteri besar kan, menteri besar, kerajaan negeri ada perbadanan kemajuan ekonomi negerilah, kemudian ada anak syarikatlah, ada semua. Jadi kalau dia duduk sebagai pengerusi lembaga pengarah setiap satu tu, campur, campur, campur, yang itu 10, yang ini 5, semua itu yang boleh sampai 100,000 lebihlah. Kemudian kalau ahli parlimen, sebab dia boleh claim, cuma saya tak pernah claim lah. Seumur hidup kan, sekarang ni aku miskin, jadi aku nak kena claim laginya kan, tapi adakalanya ahli parlimen yang perjalanan dia tu claim, hotel, semua, dia ada syarat-syarat dialah kan. Jadi kalau yang di luar KL tu, dia boleh sampai 20,000, 15,000 sebulan claim. Jadi campur-campur tu bolehlah dapat 40,000 lebih kalau dia pula ada lembaga pengarah pula dilantik kan, dalam GLC ke, statutory body, dan dia ada elaun-elaun lainlah. Tapi saya memang ini jelah. Baik, baik, baik, dan kalau YB masih stay dekat private, macam mana YB tengok? Tak, itu yalah, ini yang orang kata, mat salih kata dichotomy lah kan. Aku je yang suka pakai perkataan dichotomy ni kan. Maksudnya dia ada dia lebih rumit dilemanya lah. Kerana kalau nak dibandingkan gaji seorang menteri gaji bersih 29,000, kalau di sektor swasta, 29,000 ni saya ingat yalah kalau GLC semua tu, itu senior manager lah. Dia tak sampai general manager, apatah lagi CEO kan. Sebab gaji CEO selalunya 70,000 ke atas kan. Jadi memang ini jadi polemik kerana bukan saja menterilah, tetapi juga contohnya Ketua Setiausaha Kementerian. Bidang skop tanggungjawab dia tu meliputi satu negara dan juga sektor yang besar kan. Tapi gaji dia macam tulah, 29,000. KSU, KSU kan, 29,000 macam mual. Kecuali KSU dia duduk dalam board yang berlainan tu dia pun adalah tambah-tambah, tapi kalau nak dibanding dengan gaji pokok, maksudnya seorang yang bertanggungjawab menjaga satu sektor yang begitu besar meliputi satu negara, gajinya itu hanyalah gaji pengurus kanan, senior manager kan. Jadi sebab itu orang di sektor swasta dia tidak tertariklah untuk menyertai politik ke semua ni kerana tidak ada imbuhan. Jadi ini dilema dalam masyarakat kerana ada satu pandangan kata kita perlu bayar gaji yang lebih tinggi, supaya menarik lebih ramai kononnya orang yang berkualitilah masuk politik kan. Tapi walaupun kalau kita banding dengan sektor swasta, contoh gaji menteri ni 29,000, gaji bersih ni ialah rendah sebenarnya berbanding dengan sektor swasta, tapi kita tak boleh tengok semata-mata dengan parity sektor swasta begitu jelah. Kita juga kena tengok dengan parity contohnya gaji purata dan median gaji rakyat. Sebab median gaji rakyat ni dalam 3,000. Jadi bagi kebanyakan rakyat, gaji menteri 30,000 tu dia rasa banyaklah kan. Jadi perkara ini akan terus jadi polemik dan juga dilema masyarakat kerana bila gaji yang begitu, satu ialah jenis orang yang sanggup ke depan untuk menyertai politik, mengambil jawatan dengan risikonya tu mungkin tak ramailah professional-professional tu. Sebab tu kalau kita tengok professional ni selalunya hanya lantikan senator. Tak banyaklah yang ada jawatan korporat, atau yang berpendapatan tinggi, kemudian meletak jawatan dan berkecimpung dalam politik, kerana rugi banyak kan. Dan ada juga yang kata, sebab itulah apa nama ni ahli politik terdedah kepada rasuah kan. Tapi saya tak tahu orang lainlah, itu terpulang kepada niat masing-masinglah. Tapi saya ingat politik ni ialah calling. Maksudnya, kalau kita nak ke depan, maksudnya imbuhan itu bukan semata-mata daripada wanglah kan. Jadi sebab tu kalau dalam pemilihan parti kan, orang macam saya tak adalah peluang untuk bermewah-mewah macam orang lain dulu. Selain daripada saya tak bersetuju bermewah-mewah dengan hotel, you know, bagi tudung ke apa semua ni, satu sebabnya memang aku tak ada duit lah kan. Sebab itu jelah yang kita dapatkan, jadi selagi kita tidak membersihkan budaya politik kita yang mana, dan ini sebenarnya bukan dia dia dia bukan bergantung kepada pimpinan atas sajalah, dia bergantung juga kepada orang bawah jugalah. Jangan bergantung kepada pimpinan atas hulur duit, semua. Kalau tidak, tekanan untuk ada poket yang yang tebal tu akan berterusanlah, dan kitaran itu akan terus berterusan. Baik YB. So dah tengok dah semua, puas, puas hati kau orang dapat tengok slip gaji menteri dan ahli parlimen. Ini mungkin kali pertamalah kut untuk menteri. Dapat slip gaji menteri. Oke, habis hutang. Habis hutang, oke. Kita teruskan kepada segmen yang sebenarlah, iaitu beria YB. Jadi beria ni YB, selain beria, YB panggil poyollah sebenarnya. Yelah zaman-zaman 10, 15 tahun dulu, saya kan selalu coach budak-budak sekolah kan, coach debate lah, coach itu. Masa tu mula-mula aku pun tak faham poyo-poyo ni kan. Jadi aku masa lagi stuck, sangkut dengan zaman itu. Pemahaman saya beria mat ni kira poyo lah kut. Poyo lah. Oke, YB dah bersedia? Macam biasalah, kita bagi gambar dan YB explain. Oke, baik. Yang pertama.
 
-[02:49] Speaker 2: Tap-tap screen ni apa dia?
+[14:18] Rafizi: Calon PM ke-11. Bersatu tak ambil jalan hodoh kotor untuk kekal berkuasa. Oh, yang ini yang yang mana Perhimpunan Agung Tahunan Bersatu baru ni lah. Ada jerit-menjerit, ada SD. Dan akhirnya, akhirnya resolusi supaya Tan Sri Muhyiddin kekal menjadi calon PM. Cuma bab tu aku tak puas hatilah kalau kata Bersatu tak ambil jalan hodoh kotor untuk kekal berkuasa. Sebab dia bermula dengan SD tebuk atap. Lepas tu dia gantung parlimen darurat. Lepas tu kita semua tak boleh keluar rumah kan. Jadi tak betullah, cuma yelah beria pakai merah. Cantik baju Melayu dia kan. Yalah dia dilema ini samalah macam saya ingat, cuma masa Pakatan Harapan dari pembangkang dulu, dia agak agak selesa sikit kerana tidak ada begitu banyak percanggahan mengenai calon Perdana Menteri kan. Jadi dalam Bersatu sekarang ni pergolakan itu nampaknya yelah nampaknya pergolakan yang besar kerana kalau laporan berita sudah ada 120 SD. Aku pun tak, cuma tu nanti akan ada lagi. Oh, ada lagi. Ya beria. Berialah. Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan apa ni Datuk Seri Hamzah Zainuddin beria gelak. Azmin dia macam dalam hati, cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni. Satu Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan, tapi beria dia gelak depan orang. Oke, baik. Seterusnya.
 
-[02:50] Speaker 1: Tap-tap screen ni dekat TikTok YB. jadi dia ada love kan? tap banyak. jadi engagement tu naiklah.
+[16:11] Rafizi: Hm, beria. Pas sedia kerjasama dengan semua parti kecuali, maksudnya kecuali DAP lah. Kecuali DAP. Berjalan kerjasama dengan PKR dan UMNO. Betullah dia nak balik berkuasa. Asalkan dapat jadi menteri balik. Kalau Ustaz Idris jadi menteri balik, happylah dia. Hm, berialah memanglah kalau jadi, dia beria-ria nak bekerjasama dengan semua kan. Beria dan terhegeh-hegeh. Oke. Seterusnya. Alamak, lambat sikit.
 
-[02:57] Speaker 2: Hmm. Dia bukan orang bagi boleh bagi gift ke? Kenapa aku tak pernah dapat gift?
+[16:49] Rafizi: Hmm, ini Sec YB. YB kenal Sec? Tak, ada aku tak kenal. Aku ingat dia satu je sebab dulu dia sembang kencang. Lepas tu aku pun jemput dia ke podcast YBM lah. Oh, pernah dijemput. Lepas tu segala jenis alasan dia bagi. Siapa dia ni? Dia ni dulu AJK Bersatu Putrajaya. Sampai sekarang lah tak silap saya. Dan juga dulu pernah jadi PTTK Menteri Luar Negeri. Oh, I see. Itu mereka berkuasa dulu lah. I see, kan. Jadi dia cakap apa ni? Iyalah apa saja yang PM jumpa, semua akan jadi macam begini. Berialah kut. Seleber dia ni. Seleber, seleber. Badi, so kononnya ada badi. Kononnya ada badi. Aku lagi bimbang kalau badi dengan dia. Kan, jadi apa nama ni dia jadi, boleh je pusing. Apa nama ni siapa yang menteri ambil dia jadi jadi pegawai ke apa, badi kalah tak jadi menteri lepas tu. Sebab Saifuddin Abdullah dah tak jadi menteri. Kena kat dia, kena kat dia. So you can say the same. Aduh. Ready untuk kita jemput balik YB? Siapa? Sec. Tak payah buang masalah mamat ni. Buang masalah, like aku tak rasa dia ada nilai lah kan, yang kau orang layan dia ni kenapa? Baik, kita takkan layan lagi. Oke, next YB eh. Oke, last sekali.
 
-[03:02] Speaker 1: Hmm maaf lah YB. Ah ahli politik dia tak boleh. Dia memang.
+[18:13] Rafizi: Tu dia. Oh, ini pengetua dan Fadhlina tu sepupu. Oh, ni geng-geng sepupu-sepapat ni. Tak heranlah mereka bersubahat dalam kes ini. Pengetua tak ditahan baru tahu rupa-rupanya sepupu je, dia orang dua. Dua orang dua tu. Pengetua orang Pulau Pinang, mak pengetua dan mak si Fadhlina tu adik-beradik, bererti dia orang sepupu. Tak heranlah mereka bersubahat. Lepas tu kat bawah tu boleh tanya, "Ya ke sis?" Yalah, beria dia fitnah orang kan. Saya saya tak tahu detail dialah, tapi saya tak rasalah pengetua tu sepupu Fadhlina kan. Aku bukanlah tahu selok-belok keluarga Fadhlina, tapi saya tak rasalah. Ini perangai yang pakai tembak je. Fadhlina dah buat laporan polis, betul tak? Yes, betul. Dan dia pun dah tarik balik kenyataan tu. Dia, oh dalam, oh seronoklah tarik balik je. Minta maaflah. Habis yang dia confident sangat kata sepupu-sepapat ni? Ini macam yang ahli parlimen kepala batas tu juga, sepupu-sepupu. Dia kata dapat dari TikTok, dari live orang, orang lainlah. Kemudian bila dia check balik, dah delete. Jadi dia tak ada defense lah. Padan muka kau lah. Pandai je kan, seronok kan. Lain kali paling kuranglah walaupun orang kata apa nama ni chat GPT ni kadang-kadang orang buat lawak kan, sebelum beria nak tulis komen, pergilah beria-ria check dekat chat GPT dulu, tanya kan. Sebab paling kurang chat GPT tu dia bolehlah bagi gambaran kasar, lepas tu kena selidiki lagi kan. Beria, beria, beria. Berialah. YB nak buat ranking ke minggu ni? Ha boleh, oke ranking apa dia? Cuma tu lah, tu tak ada lagi, dari satu, dua, tiga, empat ni. Tapi alah minggu ni macam hambar je beria dia, kau orang pilih yang hambar-hambar semuanya. Oke, ini lah yang berlaku minggu ni YB. Yang ini aku bagi tigalah sebab aku suka empat-empat orang kat depan dengan Radzi Jidin kat tepi tu. Beria dia orang gelak, sengih, jeling. Baik, baik, baik, ini aku bagi tiga. Tiga. Ini bagi satulah, as like kalau setakat beria-ria macam ni ni tak tahulah. Ini beria, beria dia saja. Satu. Oke, baik. Lambat sikit, oke. Yang ini pun aku bagi satulah sebab tidak ada nilai untuk masuk podcast ini. Maaf. Oh, ini aku bagilah dua, sebab lain kali beria-ria macam ni, kan dah kena ada laporan polis semua kan. Dia tapi identiti dia tu dah orang kenal lah? Kenal, adakah dia ada nama dia? Ada nama dia. Cuma kita nilah, sensor. Oke baik, beria kita di situ. Tapi beria minggu ini adalah hambar. Hambar, jadi kita kena Kotak kerana dia orang sengih kat depan tadi tu gelak-gelak, aku macam Jadi saya minta tolong rakan-rakan untuk cadangkan beria pada minggu hadapan nanti. Carilah yang betul-betul beria. Baik YB. Kita teruskan. Jadi, segmen seterusnya adalah sama juga, hidup keras dik. Jadi, mungkin banyak sikitlah sebab banyak benda keras yang berlaku pada minggu ni YB. Oke. Dan yang pertama sudah pastilah macam saya cakap tadi tu, Bersatu, Bersatu yang bersatu. Bila tiba-tiba kita dikejutkan 120 ketua bahagian Bersatu gesa Muhyiddin berundur, adakah ini persediaan pilihan raya mereka seperti yang Azmin cakap tu YB?
 
-[03:06] Speaker 2: TikTok pun tak boleh?
+[22:04] Rafizi: Ha ini parti orang kan, sebenarnya kalau aku tu masih lagi Timbalan Presiden PKR, aku tak komenlah sebab parti, tapi sekarang kita free agent. Ha, boleh komen apa-apa kan. Oke. Yalah dia dia sebenarnya kalau tengok 120 ketua bahagian Bersatu sebenarnya ada 202. Kan. 120 ni lebih daripada separuh. jadi saya fahamlah yang buat sebut Bersatu terus bersin aku. Ah. Ni apa ada orang Bersatu tengah sebut, tolonglah jangan komen, tolong terus bersin aku kan. Dia maksudnya kalau lebih daripada separuh yang telah tanda tangan dan geser berundur, saya fahamlah niat mereka ialah akuan bersumpah tu maksudnya tidak lagi mendapat kepercayaanlah daripada 120 dan lebih separuh bahagian. jadi maksudnya pergolakan itu besar. Dan bila dah sampai melimpah kepada perhimpunan begini kan, jadi sama ada Tan Sri Muhyiddin turun ataupun tidak kan, itu sebenarnya kita tak boleh ramal, itu hal dia orang lah. Tapi dia akan menambahkan lagi apa nama ni mual rakyat kepada parti-parti politiklah. Sebelum ni PKR bergolak kan. PKR bergolak tu ada kesan kepada PH contohnya. Jadi bila Bersatu pula jadi macam ni, dia ada kesan kepada PN kan. Jadi saya ingat yang walak kepada parti masing-masing tu jadilah apa pun dia akan komen yang baik. Tetapi pilihan raya ini tidak pernah ditentukan oleh geng-geng walak kan. Dia ditentukan oleh pengundi atas pagar, dan pengundi atas pagar saya ingat hanya mahukan pimpinan dan juga parti politik menumpukan kepada kerja kan. Jadi tambah pula di dalam PN kan, kerana saya percaya sebahagian rakyat Malaysia ni tahu bahawa kemampuan mentadbir PAS tu adalah terhad. Jadi kalaupun mereka mengundi PN, mereka berharap supaya kemahiran mentadbir dari segi dasar kan, dari segi anjakan itu, mereka hanya boleh letakkan harapan kepada Bersatulah. Tapi macam ada saya baca laporan oleh seorang exco Armada Bersatulah. Dia kata dia sedihlah kerana tiga perhimpunan agung tahunan berturut-turut semuanya berliga berlegar mengenai sentimen mengangkat dan menjulang Tan Sri Muhyiddin. Jadi dulu orang kata PKR parti yang hanya berlegar kepada Anwar Ibrahim. Sekarang kalau macam ni, akan timbul macam itulah Bersatu pula parti yang berlegar sekitar Tan Sri Muhyiddin saja kan. Jadi yahlah, hal dalaman Bersatu tu baguslah nampak mereka semua tengah exercise tu ha. Kan. Tapi yang malangnya saya ingat rakyat Malaysialah. Maksudnya dia tolak kanan, dia tolak kiri kan. Rakyat berhak mendapat yang lebih baiklah. I think the public deserves better. Baik, baik, baik, cuma sekarang nampak macam tak ada alternatif atau kuranglah alternatif untuk orang yang mencari alternatif. Saya rasa ramai juga yang bertanya-tanya ni. Bila tengok PKR macam ni, Bersatu pun macam ni. Tak tahu, saya tak dapat data lagi. kan, jadi saya selalu nya kalau saya komen sesuatu mengenai sentimen politik itu, itu selepas saya dah dapat data bulanan, data setiap tiga bulan sekali, kerana kita semak. Saya belum lagi dapat data yang kualitatif kuantitatif lah. Yang kita dengar-dengar orang sana cakap, orang sini cakap itu, itu mungkin sentimen yang orang keliling kitalah. Sama ada dia mewakili sentimen rakyat keseluruhan tu, I think we have to wait for the data lah. Tapi maknanya dalam keadaan negara yang cabaran mentadbir, cara cabaran geopolitik itu makin makin mendesak kan, saya sebagai kalau saya rakyat biasa kan, saya sebenarnya nakkan pembangkang ni betul-betul mainkan peranan dia. Dan peranan itu ialah untuk memastikan setiap keputusan besar yang kerajaan buat itu pembangkang ada nilai tambah. Kalau benda itu kalau macam saya dulu, dia soal korupsi kan, soal penyelewengan. Jadi yang itu you betul-betul kena mainkan peranan sebagai pembangkang. Kalau sekarang contohnya ada isu korupsi ke, pergilah dedah, pergilah semak kan, ataupun kalau ada isu berkaitan dengan pertelingkahan dasar yang besar, contohnya pasal kedudukan hutang dan fiskal negara. Sebenarnya macam mana nak baiki ini? Kan, jadi bila contohnya parti utama dan secara tidak rasmi calon Perdana Menteri PN ni datang daripada Bersatu, tapi kalau semuanya datang, you know, dalam parlimen soal ketimbang, kemudian soal "Kami we love you, Abah," you know, itu tidak tidak apa nama ni ada nilai tambahlah, dan dan parti-parti politik di Malaysia lah, baik di sebelah kerajaan, baik di pembangkang kan, kita dah kena keluar daripada kepompong lama iaitu, "Undilah aku kerana aku lebih baik." Oke. "Apa aku buat lepas tu, kau orang tak payah tahulah." Sebab aku lebih baik, maka aku berhak ada berada dalam kerajaan, undilah aku dulu. Ha, itu sebenarnya saya ingat untuk masa-masa akan datanglah, dan ini kepada rakyat sebenarnya. Parti politik akan jadi macam itulah kalau tidak ada gasakan daripada rakyat, tak kena gasak. Dia memang parti politik tidak akan berubahlah. Rakyat kena menggasak supaya pertembungan politik ini beralih daripada sentimen, individu kan, yang ini ada walanon, yang itu ada walaun, yang ini ada waladin kan, semua satu satu satu. Jadi dia perlu tumpu kepada actually, how exactly are you going to resolve? Have you done your calculation? How are you going to do things differently? Dan daripada situlah saya ingat barulah rakyat boleh buat keputusan yang lebih adil, and informed choice at the ballot boys at the ballot box. Oke, baik YB. Janganlah komen lama-lama Bersatu ni ha. Betul, kita teruskan. Ya berkaitan dengan keselamatan fasiliti LNG ni YB, saya rasa ramai pun dah tahu cuma mungkin ada ditanya, apa mesejnya kepada kita sebenarnya atas ugutan?
 
-[03:07] Speaker 1: TikTok, dia TikTok lah, TikTok tak boleh. Jadi YB macam mana? Dia tak boleh jadi politician.
+[29:56] Rafizi: Apa yang dia ugut? Sebab kita tak dapat banyak, saya nak komen panjang pun susah juga sebab kita tak dapat maklumat yang menyeluruhlah, dan pasukan keselamatan memang dia takkan kongsi keseluruhan maklumatlah. Yang saya baca ialah pasukan keselamatan mendapat mesej, tak tahu SMS ke apa, SMS, ha ataupun mesej, dia kata mesej saja, yang mengugut, yang mengancam keselamatan kompleks LNG lah. Ini macam bini aku dapat mesejlah, mengugut kan. Oke, oke. Jadi beyond that, cuma yalah kita nak komen panjang pun susah. Tapi kompleks LNG ni sebenarnya sangat penting kepada ekonomi negara, kerana antara eksport kita yang paling besar ialah eksport LNG dan kita ada long term contract dengan negara-negara seperti Jepun, China, Korea kan. Kalau itu terjejas, kerana dia terpaksa ditutup ke, ataupun nauzubillah kalau ada serangan ke apalah, tapi katakanlah demi langkah proaktif keselamatan, maka ia perlu ditutup sementara, kesan dia itu adalah paling kurang puluh-puluh juta sehari. Oh. Jadi yang lain tu saya susah nak komenlah, tetapi maksudnya juga ialah Malaysia ni menjadi makin Hollywood. Selalunya benda-benda mengugut fasiliti semua ni, kita tengok dalam Bruce Willis Die Hard je, kan, dalam Netflix je. Sekarang dia dah sampai kat Malaysia, dan maksudnya cabaran kepada pasukan keselamatan itu juga besar, dan kita juga kena kalau syarikat-syarikat besar yang ada infrastruktur strategik negara, contohnya TNB, Petronas, kan, termasuklah contohnya Telco yang menjaga data center negara, mereka perlu menyemak semula tau. Sebab sebelum ini soal keselamatan, soal integriti, threats, ancaman kepada fasiliti ni mungkin sesuatu yang berada di keutamaan bawahlah, dia tak fikir sangat kan. Sekarang dengan perkara-perkara macam ni, maksudnya kita kena kena apa nama ni ambil berat kan, dan kepada rakyatlah maksudnya, kita pun kena sedarlah bahawa negara kita menjadi lebih kompleks, maka ada perkara yang yang langkah-langkah baru, ataupun perkara yang kita rasa mungkin tak pernah berlaku, yang itu memerlukan SOP baru, contohnya serangan siber, yang sebelum ini tak pernah berlaku kan, dan masyarakat pun ada peranan yang besarlah dalam semua ni kan. Kau nak suruh aku komen benda yang aku tak ada maklumat, aku hanya ada satu maklumat saja, iaitu ada ancaman kepada kompleks LNG. Jadi kita, tuka ke topik lain juga YB ya. Oke baik. Seterusnya kita ada, ha ini isu hangat juga semalam eh YB berlaku, dan saya rasa semua tahu lah apa yang berlaku. Cuma bila saya baca balik kenyataan ada YB Lim Cheng Chuan ada keluarkan.
 
-[03:14] Speaker 2: Hmm.
+[33:53] Rafizi: Apa Cheng Chuan cakap? Dan isu ni saya rasa dalam komen pun banyak, soalnya sekarang ni adalah kenapa Kau budak UM dulu ha, so kau lah yang jawab. Saya tanyalah YB. Kita ada STPM, dan kita juga ada matrikulasi yang lain-lain. STPM ni dikatakan susah, jadi dikatakan standard tu tinggilah. Tapi bila nak entry masuk universiti tu, matrikulasi, asasi dan lain-lain ni dia lebih lebih mudah untuk untuk masuk. Orang kata macam itulah. Jadi ada gesaan untuk buat one single examination kalau STPM, STPM lah supaya adil kepada semua. Sebab standard tu jadi lain dengan keadaan didakwa STPM ni lebih susah. Tapi ya. Hm ya, sebelum saya komen yang itulah kan, yalah saya tak pernah buat STPM, tak pernah matrik, tak pernah tak pernah asasasilah kan. Saya dulu betullah masuk universiti dengan A Level kan. Cuma parallelnya di negara luar pun dia ada kalau saya ambil contohlah pengalaman saya di UK dulu untuk masuk universiti kan, dia tidak ada single stream of entry. Maksudnya sama ada orang buat A Level, ada orang buat apa nama ni IB, International Baccalaureate, ada orang buat Scottish Higher, yang peperiksaan yang khusus di Scotland saja, ada orang juga masuk dengan HND, High National Diploma semua. Malah kalau A Level kan, dia ada badan exam yang berbeza-beza. Oke. Jadi adalah orang kata kalau ambil Cambridge board payah, kalau ambil yang itu senang sikit, macam-macamlah kan. Jadi first and foremost, first and foremost, maksudnya soal pengambilan daripada saluran peperiksaan pra universiti yang berbeza-beza ini bukan hanya unik di Malaysia, dia sebenarnya banyak berlaku di seluruh dunia pun, kan. Cuma di Malaysia ini isu dia ialah kerana dirasakan ada elemen perkauman. Oke. Kan. Jadi matriks itu dilihat sebagai lebih mementingkan bumiputera. Jadi yang Cina, yang India merasakan matriks itu jalan yang lebih mudah, dan apa nama ni bila mereka tidak mendapat tempat yang sebanyak yang mungkin, maka peluang untuk masuk universiti tempatan itu pun juga disempitkan kan. Pandangan saya beginilah, dan dia tidak popular kan. Oke, dia tak popularlah pandangan. Sebab bila isu yang begini, yang emosinya tinggi, orang selalunya hanya akan mahu memilih sokong tak sokong. Yang Melayu kalau di apa nama ni media sosial tu, semua hantar budak ni lah, kau bukanlah top, ramai lagi orang cerdik, dan sebagainylah. Yang Cina, yang India akan kata ini satu diskriminasi, kenapa budak Melayu yang teruk lagi boleh dapat masuk, dan sebagainya kan. I think sebelum kita sampai kat situlah, sebenarnya ada isu yang lebih besar. dan ini perkara yang yang juga menjadi brief saya semasa saya menteri ekonomi. Oke. Iaitu sustainability of universiti awam. Universiti awam ini bergantung lebih 90% daripada peruntukan kerajaan semata-mata. Dan universiti awam setiap satu kursus yang disediakan untuk setiap seorang mahasiswa itu, lebih 90% itu adalah subsidi kerajaan, kan. Jadi yang ambil PTPTN pun, kalau contohnya dia apa nama ni bayar yuran, yuran yang dibayar tu sebenarnya 10% je daripada kos yang ditanggung oleh kerajaan, kan. Jadi, isu itulah yang banyak juga mempengaruhi beberapa keputusan-keputusan universiti. Contohnya eh, universiti terpaksa mengimbangi beberapa cabaran kan, satu ialah cabaran funding. Apabila funding itu bergantung kepada ruang fiskal kerajaan, maka mereka terhadlah. Oke, kan. Universiti juga bergantung ataupun tertakluk kepada kebolehan mereka menarik pelajar antarabangsa. Kerana kualiti universiti itu dipengaruhi oleh how international university is, not just the students, but also the faculty, dan sebagainya kan. Itu yang kedua kan. Jadi untuk mengimbangi ini lah maka universiti mengambil jalan contohnya untuk ada saluran-saluran tertentu. Ada saluran yang kalau ambil contoh yang kursus ijazah perakaunan di UM ni kan, 85 tempat untuk melalui UPU kan, kemudian ada satu lagi untuk apa nama ni pelajar yang membayar. Dia panggil apa, saluran satu, saluran satu. Kemudian ada lagi sebenarnya saya pasti adalah untuk pelajar antarabangsa. Aha. So, dia nak kena pastikan ada untuk antarabangsa, dan dia ada untuk yang satu tu kan. Yang satu tu sebenarnya sebahagian besarnya adalah dipengaruhi oleh masalah ruang fiskal. Karena mereka nak kena mengimbangi. Jadi, apa nama ni mereka yang memasuki universiti itu melalui saluran satu dan membayar yang dia kata berapa, 10 kali ganda lagi mahal kan. Dia sebenarnya dia cross subsidise yang yang yang lain yang dapat tu kan. Jadi, ini berbalik dan ini memberi gambaran cabaran bukan saja di UM, ini cabaran yang akan terus kekal di semua universiti kita, kan. Jadi, sebelum kita nak cakap ada satu saluran ke apa ke, sebab kalau buat satu saluran pun, masalah itu tidak akan selesai. Kerana masalahnya ialah masalah funding, bukan masalah nak pilih kut mana ni. Kalau duit banyak, boleh ambil semua contohnya kan. Jadi akhirnya, maka sebab itulah oleh kerana dia dah kena ada satu kumpulan yang masuk saluran satu, kemudian pelajar antarabangsa yang nak kena cross subsidise ni, maka sebab itu dia menjadi cukup competitive terutamanya kepada kursus-kursus yang sangat popularlah di universiti-universiti yang kira top macam UM ni kan. Betul. Dan itu sebenarnya menyukarkan macam mana kita nak ranking mereka, kan. Dan sebab itu ranking semua, 4 flat lepas tu 100, 100, 100, 100 ni macam mana kita nak rank kan. Jadi saya bagi sayalah, first and foremost, kita tak boleh nak nak nak menyelesaikan masalah itu hanya melihat kepada simtom, dan hanya universiti. Dia ada masalah yang lebih besar. Contohnya eh. mungkin dulu dia tak jadi masalah sebegini rupalah kerana mungkin tak ramai yang dapat 10A 4 flat ni. Ha, jadi sebab itu kalau di pihak apa nama ni bumiputera kan, kalau kita tengok di media sosial, akan ramai juga kata saya dulu dapat 10A pun straight A, saya minta untuk masuk itu dan ini, saya tak dapat pun tapi saya tak buat bising pun. Zaman dulu masalah itu mungkin tidak mendesak seperti sekarang, kerana jumlah yang dapat straight A's dan juga jumlah yang dapat 4 flat STPM tu tak ramai. Jadi kita kena tengok bab itu juga, macam mana sistem kita yang melahirkan terlalu ramai orang cerdik. Kan, melaui peperiksaan kan. Adakah itu bermakna benar-benar pelajar kita memang telah menjadi begitu cerdik, ataupun maksudnya kita boleh perbaiki dari segi bell curve kita dalam grading kita supaya dia ada bell curve lah. Dan kalau bell curve itu benar-benar melambangkan prestasi akademik pelajar, sebab bell curve ni kalau bell curve, dia tak boleh tahu kalau ada sampai terlalu ramai yang straight A's dan sebagainya. Itu yang dia jadi tension tu, dia dapat 4 flat, itu dah terbaik dah tapi bila nak masuk universiti, eh aku ranking 1,000 lebih kan, dan something is worth looking lah kan. Jadi itu perkara yang perlu dilihat juga kan. Kemudian dari segi apa nama ni bila kita dah ada bell curve tu, jadi dari segi perancangan universiti untuk tempat-tempat mengikut kursus ni sepatutnya perlu dirancang mungkin dengan lebih baiklah, kerana kalau permintaan itu tinggi, dan keperluan negara itu tinggi, kalau ambil contohnya perakaunan kan, kalau permohonannya saya ingat berapa, 1,000, 2,000 lebih, 2,000 lebih permohonannya kan, mungkin ada keperluan daripada 160 setahun, dia jadi 300 ke 400 ke. Tapi masalahnya pula, universiti kadang-kadang dia ada fakulti banyak ni, dia ada ketidakseimbangan daripada kursus-kursus yang ramai orang minta dan jadi timbul isu begini kerana tempat adalah terhad, dengan kursus-kursus yang ramai orang tak nak buat pun. Hmm, hmm, betul. Tapi dia buat, dia offer juga benda tu, jadi yang ini ada 20 orang, ini 30 orang. Saya pernah interview student lah, dia dapat first class, minta kerja. So, aku ingat dia punya ijazah tu first class dia dalam pengajian sains dan teknologi macam tu nah. Heem, heem. So, aku tanya dia, first class, you actually belajar apa ni kan? Bila dia tunjuk ni semua, aku ucap, dalam hatilah berkata, gini sebenarnya sangat general ni sebenarnya kan, pembelajaran mengenai sains dan teknologi semua kan. So, aku tanya dia, sebenarnya ada berapa orang yang buat satu kelas ni? Oh, dalam 30 orang, intake. So, aku direct dengan dialah cakap, kenapalah you buat kursus ni? Memang susahlah nak minta kerja, kerana kemahiran dan ilmu itu terlalu general, terlalu umum. And then, budak tu dengan selambanya kata, "Yalah saya tak tahu, masa saya nak minta tu, lecturer tu minta saya ambil." Ah, jadi kita juga kena tengok antara supply dan demand. Kalau demand untuk kursus-kursus tertentu ni tinggi, ada keperluan untuk kita menstruktur kembali mana-mana kursus yang sebenarnya tidak ada begitu banyak permintaan tetapi mengambil resource, sumber untuk menyediakan 30 orang dan dari segi demand di luar pun selepas habis universiti mungkin tidak tinggi mana. Dan kalaulah restructuring mengenai kursus-kursus di universiti itu dapat dibuat dan kita boleh tambah dan sesuaikan tawaran dan jumlah pengambilan setiap tahun itu supaya lebih melambangkan supply and demand lah. Sekarang ni dia ada sedikit disconnect begitulah. Tapi kalau tanya saya, oh perlukan ada satu saja STPM dan sebagainya, saya tak rasa itu akan menyelesaikan masalah. Kerana contohnya, kalau buat semua STPM, kemudian semua 4 flat, ha sudah, kan. Dan itu bukan yang diamalkan di negara-negara atau sistem pendidikan tinggi yang sering dipuji. Di UK pun tak macam itu, di US pun tak macam itu, dia memang ada pelbagai saluran untuk masuk kan. Dan akhir sekali lah, saya ingat perkara ini timbul kerana ada rasa ketidakpercayaan terhadap sistem. Oke. Kerana yang bukan Melayu akan terus merasakan bahawa mereka diketepikan, kan. Jadi sebab itu ketelusan, transparency tu penting, dan transparency tu juga mestilah berasaskan kepada sistem yang boleh diterima oleh rakyat kan. Jadi kita contohnya, bagi sayalah, kalaulah merit ni sampai 1,000 orang dapat 100% merit, bell curve macam mana nya? Macam mana kita menyediakan kriteria itu sehinggakan kalau nak ambil 85 saja ada 1,000 orang yang perfect score? Dan maksudnya sistem itu perlu dilihat balik pun, macam mana kan. Jadi, saya bagi contoh kalau di beberapa buah negara, top universiti mereka kan, mereka ada dua, tapi kalau kat Malaysia pun kalau buat begitu pun dia tetap akan jadi isu, sebab dia ada dua tapisan kan. Satu ialah dari segi permohonan, dia tengok kepada result masa trial ke apa semua sebelum dibuat offer kan. Kemudian bagi mereka yang disenarai pendek, dia kena pergi interview. Hmm, biasa nak masuk universiti kena interview. Kat Malaysia kena interview tak? Certain course kena. Certain course lah, kos apa? Law kena. Law. Maksudnya setiap seorang tu kena pergi interview lah kan. Jadi, perkara ni biasa di UK, di US, semua ni memang kena pergi interview sebab mereka pun sedar bahawa kalau berdasarkan kepada keputusan peperiksaan semata-mata, susah dia nak bezakan, itu yang jadi merit 100%, 100% semua tu, how do you tell kan? Jadi sebab itu diletakkan interview lah. Dan tapi kalau di Malaysia buat interview pun akan jadi isu juga sebab timbul lagilah kalau yang interviewer tu bumiputera, yang bukan interviewer tu bukan bumiputera, dia kata, "Oh saya perfect score tapi pergi interview sebab perkauman saya tak masuk." Kalau yang interview tu bukan bumiputera, yang kena tu pula bumiputera pun sama juga. Dia kata, "Sebab interview saya tu, terus saya tak masuk," kan. Jadi, ia mengambil masa yang panjang dan sebab itu saya ingat buat masa sekarang lah, perkara-perkara yang perlu ditumpukan, satu ialah untuk kita stream line kan di antara supply dan demand. Kalau ada permintaan kursus-kursus yang tinggi, yang juga ada permintaan tinggi selepas graduate, yang itu kita perlu de-bottleneck. Kemudian macam mana kita nak pastikan bahawa merit ini betul-betul dapat mengenalpasti dan membezakan kualiti masing-masing lah. Yang lain tu perlu ditambah baik dengan berimbang. Kerana kalau kita nak kata tak boleh ada saluran satu, then ada masalah kerana untuk menampung perbelanjaan itu perlu dapatkan lebih banyak peruntukan daripada kerajaan. Orang akan kata, "Ya, dan silalah beri keutamaan, bagilah semua." Boleh bagi semua tapi kita kena potong yang lain, ataupun kena berhutang lagi. Kemudian jalan ada masalah, hospital ada masalah. Jadi, semua ini perlu dibuat secara sedikit-sedikit dan perlu ada keseimbangan. Oke baik YB, mind blowing. Dan complicated lah. Dia complicated. Dia complicated lah, kan. Oke YB, mungkin kita teruskan yang next. Ada lagi yang keras? Ada lagi keras. Ah, ini mungkin sikitlah YB ya. Ni apa, sensitif kayu, bukan? Kayu bukan bendera, berkaitan dengan perhimpunan pro Palestin di. Adakah appropriate halangan yang dibuat tu YB?
 
-[03:15] Speaker 1: Okey tak apa. Patut aku berhenti menteri.
+[51:24] Rafizi: Dia ini sebenarnya loose-loose ni, dia tengok kepada perspektif lah kan. Kalau kita jadi apa nama ni pegawai ataupun kakitangan keselamatan di Suria KLCC, dia ada arahan itu dan saya tak rasalah dia ada arahan yang kata Palestin tak boleh ke apa. Tapi arahan SOP tu contohnya besar kemungkinan ialah perkara-perkara yang dilih yang dikira boleh dijadikan senjata, ataupun tidak sesuai kan. Kalau dia tak buat, nanti kalau jadi apa-apa dia nak kena jawab. Samalah dengan kakitangan kerajaan dan sebagainyalah. Kalau dia buat, dan dia tafsiran dia, tafsiran dia bila ada saja kayu, itu sudah dikira melanggar daripada SOP yang dibenarkan. Jadi akhirnya jadi macam inilah, dan kesnya pula ialah kes yang sensitif Palestin kan. Jadi saya ingat perkara ini perlukan untuk membantulah apa nama ni kakitangan dekat bawah semua tu, dan maksudnya SOP itu mesti lebih apa nama ni mesti lebih jelaslah, dan saya boleh cadangkan contohnya lah, kalau contohnya kan pengurusan KLCC kan, kalau yang dibimbangkan ialah kayu, ataupun kategori barang-barang yang boleh dijadikan senjata atau merosakkan, maka mereka boleh meninggalkan barang mereka di di di concierge ataupun di pintu masuklah. Tapi kalau benda-benda macam parafilia, apa nama ni yalah tapi masalah juga kadang-kadang Tian Chua ni memang suka mencuri perhatianlah kan, itu pun ada juga isu dia kan. Saya kawan lama dengan dia, dia selalunya memang kalau boleh menarik perhatian, dia tarik perhatianlah kan. Contohnya kalau kalau saya mungkin keadaannya agak berbeza. Mungkin saya boleh rundingkan, tak apa, yang kami pakai kafiyeh, semua ni, semua ni, ataupun bendera, kami boleh bawa masuk, kami lipat, ataupun kami pakai, sedia. Tapi apa ni, kayu tu kami kena tinggal kat luar, contohnya kan. Tapi untuk membantu security dan juga kakitangan kat luar, apa nama ni, SOP tu perlu dijelaskan lah, ha. Oke, oke, baik, baik, baik, baik, baik. Saya tak rasalah, saya rasa kalau nak kata pengurusan Suria KLCC itu anti Palestin, itu tak betullah. Cuma, maksudnya SOP dan arahan kepada kakitangan ke bawah itu mungkin belum dikemaskini, dan dia mungkin kena buat satu SOP SOP khusus untuk Tian Chua lah kut. Baik, baik. Loose-loose lah YB ya, oke. Next. Kita ada apa lagi? Oh ya, ini isu hangat juga semalam eh YB berlaku, dan saya rasa semua tahulah apa yang berlaku. Cuma Saya sentimental sikit dengan Dang Wangi dan OCPD Dang Wangi ni, sebab dalam banyak-banyak kali saya kena tahan, paling banyak ditahan di Dang Wangi lah. Jadi saya pernah duduk di apa ni lokap Dang Wangi lah, di bilik mesyuarat dia, dan selalulah dulu-dulu memang yang kena menguruskan tangkap aku tu ialah OCPD Dang Wangi lah. Orang yang sama? Kenal? Eh tak, dia bertukar-tukarlah. Bertukar-tukar, oke saja. Oke baik. Cuma yelah saya rasa semua faham dan dah tahu aware. Cuma kenyataan daripada PAS YB melalui ketua penerangan dia ya yang menyatakan bahawa sepatutnya ditunggu dululah, sebab kita tengok beberapa penduduk ni dah membuat rayuan di mahkamah, dan akan didengar pada bulan Oktober. Jadi kenapa masih lagi nak ambush ataupun masih nak berkeras nak buat juga YB? Dan saya rasa, mungkin kena jawahlah dan sebab benda ni dah start dimainkan.
 
-[03:18] Speaker 1: Ha nanti kita check. Okey sebelum kita ke segmen beria YB, kita ada segmen tambahan untuk minggu ni ajelah. Sebab minggu lepas YB ada janji something lah untuk tunjuk kepada kawan-kawan kita di luar sana iaitu slip gaji.
+[55:48] Rafizi: Saya tak tahu status apa nama ni di mahkamah lah kan, tapi ini juga kena faham pemahaman sayalah, kenapa pihak polis perlu melaksanakannya dan pihak berkuasa perlu melaksanakannya. Ialah memang kerana ada arahan mahkamah, kan. Dan arahan mahkamah ini berbeza-beza, contohnya kan dalam kes-kes tertentu, contohnya kalau saman, eh, dan walaupun contohnya kalau plaintif dan defendan dalam satu saman, dan plaintif itu menang, dan mahkamah memberi mengarahkan bayaran dibuat oleh defendan kepada plaintif kan, walaupun defendan ada hak untuk merayu di mahkamah yang lebih atas, tapi selalunya pembayaran itu mesti dibuat dahulu. Ah, jadi kemudian kalau defendan menang di mahkamah yang lebih tinggi, plaintif kena bayar baliklah dengan interest dan sebagainya kan. Jadi saya sebenarnya tak tahu status kes mahkamah ini, tapi ada kemungkinan walaupun proses itu dalam peringkat rayuan di kalangan penduduk, ada kemungkinan yang sebenarnya arahan itu telah diberikan oleh mahkamah untuk dikosongkan. Jadi, dia tidak adil kepada polis, sebab itu saya walaupun masuk lokap banyak kali dulu kan, saya tak pernah ada masalah dengan polis, dia hanya menjalankan tugas dia kan. Dan sebab tu polis pun aku rasa tak ada masalah masa saya kena tangkap semua kan, dia tak perlu, janganlah kita lihat pihak polis, dia bukan suka-suka nak pergi kacau rumah orang, dia perlu menguatkuasakan dan melaksanakan sesuatu perintah. Sebab soal Kampung Sungai Baru ni sejarahnya panjang. Dia dah bermula 10 tahun yang lepas, kemudian mengikut akta pengambilan tanah kan, compulsory land acquisition, sebenarnya arahan itu di diberi dalam tahun 2021 yang membenarkan dan yang mengambil tindakan untuk mengambil tanah ini mengikut proses undang-undang secara mandatory adalah kerajaan PN, yang semasa berada di yang PAS ada sebahagiannya kan. Jadi saya tak campur sangat kerana saya saya kira itu pandangan masing-masinglah. Dia soal ada penduduk yang bersetuju dengan pampasan, ada yang tak setuju dengan pampasan. Cuma saya ingat ialah malanglah apabila kalau anggota politik ni, orang-orang politik ni, dia ni kerja ambil kesempatan saja kan. Kalau saya jadi PAS dan Bersatulah, jadi PAS contohnya, saya malulah. Oke. Sebab yang ni berlaku semasa saya. Tiba-tiba dua tahun, tiga tahun kemudian bila kau dah tak jadi kerajaan, "Eh engkau pula jadi champion, Captain America," kan, jadi dekat situ. Jadi perkara ini dia dah sampai ke peringkat mahkamah, dan proses undang-undang itu telah berjalan kan. Jadi pihak polis, pihak berkuasa, hatta kerajaan pun sebenarnya tidak boleh melanggar apa nama ni arahan yang telah dibuat oleh mahkamah. Jadi saya pernah ada satu kes, dia bukanlah serupa, tapi dia ada parallel dialah di Pandan masa saya mula-mula jadi ahli parlimen dulu ni, 2014 macam itulah. Tanah itu tanah swasta milik syarikat. Heem, heem. Kemudian dia dijual kepada satu lagi pemaju yang lain. Pemaju yang lain itu nak buatlah, dia nak buat kondo besar kat situlah. Jadi penduduk di sekitar tu tak puas hatilah, dan apa nama ni sudah tentulah mereka nak suruh ahli parlimen hentikan, kerajaan hentikan, dan sebagainyalah. Jadi saya berterus-terang kepada penduduk-penduduk walaupun saya mungkin hilang undi, bahawa mengikut undang-undang, tanah itu adalah milik pemaju. Dan kalau contohnya kerajaan negeri ataupun pihak berkuasa tempatan tidak membenarkan walaupun dia telah mematuhi syarat-syarat, maka kerajaan negeri boleh disaman. Dan bila kerajaan negeri disaman dan kalah, kerana melanggar undang-undang, kerana itu tanah peribadi, tanah swasta tapi you tak nak bagi kerana bantahan penduduk kan, kemudiannya kerajaan negeri kena bayar kepada pemaju tu. Jadi yang bayar ni siapa? Penduduk juga. Jadi bila, bila apa nama ni, kerajaan negeri atau pihak berkuasa tempatan kena bayar, duit tak ada, kemudian dia buat apa? Dia naikkan cukailah. Akhirnya balik kepada penduduk juga. Jadi yang saya buat dahulu lah ialah saya letakkan ini adalah syarat-syarat untuk jalan tengah. Pemaju nak buat tanah you betul, tapi bila you buat ini akan ada kesan kepada penduduk tempatan. Jadi untuk mengurangkan kesan kepada penduduk tempatan, ini perkara-perkara yang perlu dibuat, satu, dua, tiga, empat. Pemaju bersetuju, ada yang dibuat, ada yang dia tak buatlah, tapi dia bersetuju sebahagiannya, dan penduduk jadi peranan ahli politik ni pada pandangan sayalah, wakil rakyat dan sebagainya kan, kita jangan jadi populist semata-mata. Kerana ada undang-undang. Dan dalam kes ini, apabila keputusan arahan itu telah dibuat oleh mahkamah kan, kalau kerajaan tak laksanakan, kerajaan kena saman. Bila kena saman, rakyat juga, dan sebab itu sebaik-baiknyalah untuk mengelakkan masalah sebelum dia sampai ke mahkamah, sebelum arahan untuk ambil alih tanah itu telah dikeluarkan oleh mahkamah, itu peranan dan fungsi utama ahli parlimen masa itu. Ahli parlimen kat sini masa tu siapa? Bersatu. Hm, hm. Rina. Rina. Kerajaan masa itu siapa? PAS dan Bersatu. Jadi sepatutnya yang berlaku di Kampung Sungai Baru ni kita tolak tepi sentimen rakyat rasa sebab susah, yang kita tak duduk kat situ, perasaan kita tu tolak tepi. Tapi maksudnya, yang gagal adalah Perikatan Nasional kerana this happens right under their nose, they could not or did not do enough to negotiate a better term, dan akhirnya bila sudah sampai ke peringkat kan. Jadi kalau kita nak trace, trace, trace balik contohnya, "Ah siapa yang mula-mula?" Nanti lagi parahlah ni, kerajaan UMNO dulu, kan UMNO yang buat, bersambung dengan PN, semua gitu kan. Jadi, benda itu telah berlaku dan mengikut undang-undang kalau satu transaksi itu telah berlaku secara sah, then, you know, kecuali ada fraud, ada penipuan dan sebagainylah kan. Jadi akhirnya yang jadi mangsa adalah abang polis, kan. Baik YB, satu lagi soalan susulan daripada kenyataan daripada PAS juga. Ini sebenarnya adalah teaser untuk ura yang akan diluluskan oleh kerajaan Madani nanti. Itu tak bertanggungjawablah. Sebabnya begini saya rasa, katakanlah pilihan raya dua tahun daripada sekarang. Tiba-tiba PAS menang. Kau ingat PAS akan cakap benda yang sama je? Seperti mana dia flip, kan, Kampung Sungai Baru ni daripada dulu kerajaan dia yang luluskan, semua ni berlaku right under their nose, saya ingat URA pun macam tulah. Oh sekarang ni teaser gini, gini, gini, puf dia jadi kerajaan, ana berpuas hati. Kan, jadi dia dia akan jalan, jadi nasihat sayalah, sebenarnya semua ini ada undang-undang dan proses dia kan. Dan URA saya dah komen minggu lepas kan, ada keperluan untuk kita membangunkan semula bandar. Dan untuk kita tidak membangunkan semula bandar, dia tidak berlaku adil kepada penduduk-penduduk yang boleh mendapat manfaat. Tetapi ada banyak ruang-ruang yang perlu diperbaiki, dan ambillah masa untuk perbaiki. Tapi kalau PAS nak kata, "Inilah teaser apa nama ni untuk URA dan sebagainya," kan, saya ingat PAS janganlah bercakap lebih sangat dalam bab-bab gini, sebab dulu 10, 15 tahun lepas, PAS bolehlah pakai cakap lepas, sebab masa itu orang tak fikir dia boleh jadi kerajaan persekutuan. Dia cakap apa-apa orang tak peduli. Sekarang ini kerajaan bertukar tiap-tiap tiga empat tahun, dan kalau tiba-tiba kerajaan itu adalah kerajaan PAS, dan bila dia masuk dalam kerajaan, dia akan teruskan akta PSB ini kan. Jadi masa tu dia nak cakap apa? Kan, jadi lebih baik supaya parti-parti politik jangan menunggang, menunggang orang susah, menunggang penduduk Kampung Sungai Baru, kemudian sekarang nak menunggang siapa lagi kan semata-mata untuk menimbulkan sentimen dan api kemarahan itu kan. Jadi, rekodlah saya ingat kalau tengok rekod berkaitan dengan Kampung Sungai Baru ini, apa-apa yang PAS cakap pun, PAS kena jelaskan sebenarnya semasa kamu jadi kerajaan, apa yang kamu buat? Saya ingatlah saya ada orang tag saya dekat Twitter. Sebab PAS kan ada Lajnah Bandar, dia ada Lajnah kan. Saya belum sempat pergi check lah, tapi orang duk tag saya kata, "YB pergi semak balik kenyataan-kenyataan Lajnah Bandar apa nama ni PAS ni sebab sebelum ni dia orang yang duk sibuk sokong PSB ni." Sekarang tiba-tiba dia dah u-turn. Ha, kan. Jadi saya tak rasa itu soal teaser PSB dan sebagainya lah, dia macam saya kata sebab itu ambillah masa yang sebaiknya untuk kita tambah baik PSB akta PSB itu kerana yang paling penting ialah rundingan dan juga terma-terma yang pada peringkat awal. Yang itu yang paling penting, kan. Pastikan akta itu melindungi seberapa banyak hak apa nama ni penduduk supaya bila ia dilaksanakan dia tidaklah menimbulkan rasa tidak puas hati kerana penduduk mayoritasnya merasakan bahawa, "It's a fair deal, ia satu urus niaga yang adil dan bermanfaat kepada mereka," kan. Dan kalau PAS kata Kampung Sungai Baru ini adalah teaser kepada URA contohnya kan, orang boleh juga turn the table around, cakap sebab itulah perlukan URA. Sebab bila pembangunan semula dibuat tanpa akta yang khusus yang melindungi hak penduduk di situ, penyewa dan sebagainya, dia jadi macam ini lah. Jadi either way, kita tak boleh lari daripada satu fakta bahawa pembangunan semula bandar ini akan berlaku di beberapa tempat. Baik, baik, baik, maaf PAS, anda dibakar malam ini. Kita pergi ke segmen seterusnya YB, kita dah habis segmen keras, segmen keras. Oh dah habis dah keras? Tak keraslah. Ini tak keraslah minggu ni. Tak keras eh? Ah tak beria, tak keras. Jadi saudara-saudari, minta tolong cadangkan yang keras juga. Dan kita ada satu, isu dunialah eh, dunia punya hal. YB,
 
-[03:36] Speaker 2: Ha ni kira hutang minggu lepas lah. Ada ada tengok dekat Twitter semua orang, orang apa nama duk ingatkan jangan lupa slip gaji. Aku dah nak terlupa tadi.
+[1:08:40] Rafizi: Rakyat Malaysia sekarang ni hebat, segala jenis benda kat dunia pun dia ambil tahu kan, tapi dulu masa aku kecil-kecil, antara berita yang aku paling sukalah kan, ni berita RTM, RTM ada dua berita. Satu berita perdana pukul 8, satu berita dunia kan, pukul 10 malam, yang selalu baca dulu Rahajid Singh Halon. Kau orang tak tahu, dahlah kan. Actually aku lagi suka tengok berita dunia dulu. Menarik, menarik. So YB, Arif. Tak adalah arif, tapi maksudnya memang orang Malaysia ni suka ambil tahu benda tepi kain negara lain. Okey baik YB, yang pertama sekali. Baru saja minggu lepas kita tengok Indonesia, yang baru-baru ini minggu ini kita ada daripada Nepal pula, tapi yang menggerakkan tu gen Z lah. Somehow komen-komen rakyat Malaysia ni tengok apa komen rakyat Malaysia? Yalah ada trend, jadi apa jadi kat hegemoni dunia ni sebenarnya YB? Daripada perubahan dia jadi macam ni sekali.
 
-[03:45] Speaker 1: Tapi ada concern juga dekat komen kata janganlah tunjuk privacy.
+[1:10:04] Rafizi: Yalah, saya dah sebut sebelum ini kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang ada awalnya demonstrasi anak-anak muda ni yang memprotes mengenai rasuah dan sebagainya kan. tapi dia meletus menjadi ganas itu bila kerajaan mengharamkan media sosial, Facebook dan yang lain. Kemudian dia jadi macam ini lah kan. Jadi soal hegemoni dunia dan sebagainya tu, dia sebenarnya saya ingat adalah simtom-simtom yang mana sistem kapitalis 100% yang ada ni, dia dah mula menampakkan keretakan. so di 100 tahun yang dululah kan, bermula dengan Bolshevik 1917 kan, dan 50 tahun sebelum Bolshevik itu memang ada pertembungan ideologi kan, oleh kerana revolusi industri maka pekerja-pekerja ditekan, masa zaman abad ke-19, akhir abad ke-19 kan, kanak-kanak pun kerja kat kilang, tak ada rumah, perempuan semua kerja teruk kan. Dari situlah timbulnya dua pertembungan ideologi, satu yang berbentuk sosialis dan komunis lah, dan more extreme is komunis lah. Bagi mereka yang tak tahu komunis tu apa, komunis tu bukan simpan, kalau ikut PAS komunis ni sepupu-sepupu sepupu-sepapat China semua kan. Komunis ni asalnya idenya begini, harta perlu dimiliki negarakan. Kerana kekayaan peribadi itu tidak dibenarkan, jadi harta semua dimiliki negarakan sebab itu nama komun, komun tu maksudnya komuniti. Jadi komunist, komunism ni maksudnya ialah mengkomunitikan negara supaya ada apa nama ni harta semua dimiliki negarakan dan kemudian orang bekerja jadi harta itu dikongsi bersamalah. Itu pada satu sisi kan, dan satu lagi sisi ialah pure capitalist lah. Maksudnya golongan pemodal ini dia mempunyai modal, dia buat business dan sebagainya kan. Of course sosialis lies in the middle kan, jadi masa zaman Bolshevik dunia ni ada harapanlah melihat kepada sistem komunis. Mungkin sistem komunis ni adalah sistem yang lebih adil kepada rakyatlah berbanding dengan sistem kapitalis. Tapi menjelang tahun pertengahan 50-an, 60-an nampak bahawa ada kelompongan dan masalah, terutamanya yang berlaku di Soviet dan di Eropah Timur, dan juga yang berlaku di China di bawah Mao Tse Tung, maksudnya sistem komunis itu tidak berjaya untuk menandingi kesejahteraan yang dibawa kepada rakyat melalui sistem kapital kan. Dan sebab itu daripada 60-an, 70-an sampai sekaranglah sebenarnya dunia ini by and large hanya ada satu sistem, iaitu sistem kapitalis. Dia tak ada dah sistem yang bukan kapitalis di dunia ni kan, terutama bila China lewat 70-an di bawah Deng Xiaoping nama saja komunis tapi sistemnya itu adalah sosialis kapitalis lah, atau kapitalis sebenarnya kan. Jadi, kita dah ada 100 tahun sistem yang berasaskan kepada kapitalis, kapitalisme yang tidak dicabar langsung. Jadi, sepertimana pusingan kitaran pertama yang membawa kepada industrial revolution dan itu di bawah sistem kapitalis, selepas 100 tahun kita mula ada keretakan-keretakan itulah. Keretakan-keretakan itu satunya ialah kerana dilihat dan yang ini yang salah orang elit dalam masyarakat yang sebahagian besarnya adalah orang politik kan, jadi kalau di negara seperti Eropah, benda itu pun sedang berlaku tapi dia tidaklah sampai ke peringkat macam di Nepal. Dan kalau di Eropah itu, dia juga dibayangi oleh isu perkauman. Kerana anak muda yang yang berhaluan kanan ini yang sebenarnya tidak puas hati, dia lebih mudah untuk ahli politik membakar sentimen anti-imigran atas dasar orang asing ini datang ke negara kita dan mengambil kerja kita. Padahal kebanyakan orang asing yang yang datang tu sebab kerja tu orang lain tak nak buat, dia buatlah kan. Jadi itulah yang berlaku sampai jadi Brexit, sampai di Eropah Timur kan. Tapi kalau di Indonesia, kemudian sekarang ni di Nepal, dia adalah sebab kesenjangan perbezaan di antara yang kaya dengan yang miskin itu adalah terlalu besar. Kemudian bila orang tengok, ahli politik tiba-tiba jadi kaya-raya, anak jadi kaya-raya dan dalam kes Nepal ini lagi unik. Kerana seingat sayalah, kerajaan ini adalah kerajaan komunis, kerajaan parti komunis. Jadi Nepal sebelum ini adalah sistem monarki, kemudian saya ingat tahun bila, 2004, 2008 macam itulah mereka menukar dan tidak lagi ada sistem monarki. Dan semasa sistem monarki dulu, yang jadi tukang bakar untuk demonstrasi ni geng-geng yang perdana menteri nilah, parti komunis nilah kan. Jadi mereka berjuang selama lama untuk menukar daripada sistem monarki kepada sistem demokrasi yang akhirnya mereka menjadi kumpulan paling besar dan sejak 2008 begitu, saya rasa kerajaan yang bertukar pun semua antara komunis atau maois, lebih kurang komunis, maois macam itulah berkeliling di kalangan mereka kan. Jadi bayangkan kalau kita jadi rakyat Nepal eh, dan Nepal hanya menjadi demokrasi ni tak sampai 20 tahun pun. Lebih kurang begitulah 20 tahun kan, tak lama tahu 20 tahun ni kan. Jadi rakyat sebelum ini merasakan bahawa dengan adanya perubahan ini dan parti komunis ini masuk, maka keadaan akan lebih baik, iyalah because is communist, maksudnya kekayaan negara ini akan diberikan sama rata, jadi-jadi macam ini. Jadi dimensi yang Nepal ni lebih menarik sebenarnya kerana bukan saja ia soal perbezaan ataupun kesenjangan di antara elit dengan rakyat biasa, dan keretakan sistem kapitalis itu yang yang sekarang ini oleh yang menghasilkan perbezaan itu, yang itu berlaku di seluruh dunia, bukan saja di Nepal, di Indonesia, di Malaysia, di Nepal, di Eropah semua sedang berlakulah kan. Tapi yang uniknya ialah kerana di Nepal ini ialah parti ini parti komunis yang menuntut demokrasi dan menjanjikan perubahan sebelum ini, tetapi selepas 20 tahun yang kaya mereka. Itu bagi saya adalah perbezaan utama yang menyebabkan kemarahan sedemikian rupalah kan. Jadi, itu ingatan juga kepada ahli-ahli politik di Malaysia, kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, ha PAS sebelum ni kan, selepas ni kan, kalau rakyat ini kalau ditekan dan dia sampai ke satu peringkat yang perubahan itu tidak datang dan lebih teruk lagi, eh kamu pula menggantikannya, dia jadi macam animal farm. George Orwell. Kau baca tak George Orwell, Animal Farm? Mesti tak. Baik, saya baca. George Orwell, Animal Farm kan. Animal Farm ni dia cerita pasal pasal binatang dengan manusia. So, masa manusia menjadi tuan, kan binatang ni duk dalam kandang, jadi binatang ni rasa tak puas hatilah kerana mereka dilayan sedemikian rupa, kena sembelihlah semua untuk jadi makanan semua kan. Jadi adalah satu kumpulan, kumpulan ni babilah, jadi mereka pun berjanji dan berkempen, kita mesti buang manusia, supaya kita mentadbir sesama kita, jadi tak ada tuan kita dalam rumah tu, maka lepas ni hidup kita lebih baik. Jadi, binatang-binatang semua ni memberontaklah. Maka akhirnya, tuan rumah tu pun larilah, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi dia yang duduk dalam rumah tu. Dia jadi tuan, dia pula jadi bos kan. Jadi kalau dalam, yalah dalam falsafah politik dan mereka yang yang yalah yang tahu tentang satira politik ni Animal Farm yang ditulis oleh George Orwell, dia samalah keadaannya kalau macam di Nepal, parti-parti ni, pimpinan ni dulu dia yang menjanjikan kita kena buang sistem monarki, gini, gini, gini, keadaan hidup lebih baik, tengok-tengok, parti komunis buat macam ini. Sebab itu aku kata power corrupts, absolute power corrupts absolutely. Baik YB, ada orang Nepal kat Malaysia yang faham bahasa Melayu yang tengok podcast tak? Harap-harap ada. Harap-harap adalah kan. Oke YB, kita ada satu lagi isu isu dunia. Ya. Isunya adalah Charlie Hebdo, ya. jadi saya rasa semua faham dan dah tahu, aware, cuma kenyataan daripada PAS YB melalui ketua penerangan dia ya yang menyatakan bahawa sepatutnya ditunggu dululah, sebab kita tengok beberapa penduduk ni dah membuat rayuan di mahkamah, dan akan didengar pada bulan Oktober. Jadi kenapa masih lagi nak ambush ataupun masih nak berkeras nak buat juga YB? Dan saya rasa, mungkin kena jawahlah dan sebab benda ni dah start dimainkan. Saya tak tahu status apa nama ni di mahkamah lah kan, tapi ini juga kena faham pemahaman sayalah, kenapa pihak polis perlu melaksanakannya dan pihak berkuasa perlu melaksanakannya. Ialah memang kerana ada arahan mahkamah, kan. Dan arahan mahkamah ini berbeza-beza, contohnya kan dalam kes-kes tertentu, contohnya kalau saman, eh, dan walaupun contohnya kalau plaintif dan defendan dalam satu saman, dan plaintif itu menang, dan mahkamah memberi mengarahkan bayaran dibuat oleh defendan kepada plaintif kan, walaupun defendan ada hak untuk merayu di mahkamah yang lebih atas, tapi selalunya pembayaran itu mesti dibuat dahulu. Ah, jadi kemudian kalau defendan menang di mahkamah yang lebih tinggi, plaintif kena bayar baliklah dengan interest dan sebagainya kan. Jadi saya sebenarnya tak tahu status kes mahkamah ini, tapi ada kemungkinan walaupun proses itu dalam peringkat rayuan di kalangan penduduk, ada kemungkinan yang sebenarnya arahan itu telah diberikan oleh mahkamah untuk dikosongkan. Jadi, dia tidak adil kepada polis, sebab itu saya walaupun masuk lokap banyak kali dulu kan, saya tak pernah ada masalah dengan polis, dia hanya menjalankan tugas dia kan. Dan sebab tu polis pun aku rasa tak ada masalah masa saya kena tangkap semua kan, dia tak perlu, janganlah kita lihat pihak polis, dia bukan suka-suka nak pergi kacau rumah orang, dia perlu menguatkuasakan dan melaksanakan sesuatu perintah. Sebab soal Kampung Sungai Baru ni sejarahnya panjang. Dia dah bermula 10 tahun yang lepas, kemudian mengikut akta pengambilan tanah kan, compulsory land acquisition, sebenarnya arahan itu di diberi dalam tahun 2021 yang membenarkan dan yang mengambil tindakan untuk mengambil tanah ini mengikut proses undang-undang secara mandatory adalah kerajaan PN, yang semasa berada di yang PAS ada sebahagiannya kan. Jadi saya tak campur sangat kerana saya saya kira itu pandangan masing-masinglah. Dia soal ada penduduk yang bersetuju dengan pampasan, ada yang tak setuju dengan pampasan. Cuma saya ingat ialah malanglah apabila kalau anggota politik ni, orang-orang politik ni, dia ni kerja ambil kesempatan saja kan. Kalau saya jadi PAS dan Bersatulah, jadi PAS contohnya, saya malulah. Oke. Sebab yang ni berlaku semasa saya. Tiba-tiba dua tahun, tiga tahun kemudian bila kau dah tak jadi kerajaan, "Eh engkau pula jadi champion, Captain America," kan, jadi dekat situ. Jadi perkara ini dia dah sampai ke peringkat mahkamah, dan proses undang-undang itu telah berjalan kan. Jadi pihak polis, pihak berkuasa, hatta kerajaan pun sebenarnya tidak boleh melanggar apa nama ni arahan yang telah dibuat oleh mahkamah. Jadi saya pernah ada satu kes, dia bukanlah serupa, tapi dia ada parallel dialah di Pandan masa saya mula-mula jadi ahli parlimen dulu ni, 2014 macam itulah. Tanah itu tanah swasta milik syarikat. Heem, heem. Kemudian dia dijual kepada satu lagi pemaju yang lain. Pemaju yang lain itu nak buatlah, dia nak buat kondo besar kat situlah. Jadi penduduk di sekitar tu tak puas hatilah, dan apa nama ni sudah tentulah mereka nak suruh ahli parlimen hentikan, kerajaan hentikan, dan sebagainyalah. Jadi saya berterus-terang kepada penduduk-penduduk walaupun saya mungkin hilang undi, bahawa mengikut undang-undang, tanah itu adalah milik pemaju. Dan kalau contohnya kerajaan negeri ataupun pihak berkuasa tempatan tidak membenarkan walaupun dia telah mematuhi syarat-syarat, maka kerajaan negeri boleh disaman. Dan bila kerajaan negeri disaman dan kalah, kerana melanggar undang-undang, kerana itu tanah peribadi, tanah swasta tapi you tak nak bagi kerana bantahan penduduk kan, kemudiannya kerajaan negeri kena bayar kepada pemaju tu. Jadi yang bayar ni siapa? Penduduk juga. Jadi bila, bila apa nama ni, kerajaan negeri atau pihak berkuasa tempatan kena bayar, duit tak ada, kemudian dia buat apa? Dia naikkan cukailah. Akhirnya balik kepada penduduk juga. Jadi yang saya buat dahulu lah ialah saya letakkan ini adalah syarat-syarat untuk jalan tengah. Pemaju nak buat tanah you betul, tapi bila you buat ini akan ada kesan kepada penduduk tempatan. Jadi untuk mengurangkan kesan kepada penduduk tempatan, ini perkara-perkara yang perlu dibuat, satu, dua, tiga, empat. Pemaju bersetuju, ada yang dibuat, ada yang dia tak buatlah, tapi dia bersetuju sebahagiannya, dan penduduk jadi peranan ahli politik ni pada pandangan sayalah, wakil rakyat dan sebagainya kan, kita jangan jadi populist semata-mata. Kerana ada undang-undang. Dan dalam kes ini, apabila keputusan arahan itu telah dibuat oleh mahkamah kan, kalau kerajaan tak laksanakan, kerajaan kena saman. Bila kena saman, rakyat juga, dan sebab itu sebaik-baiknyalah untuk mengelakkan masalah sebelum dia sampai ke mahkamah, sebelum arahan untuk ambil alih tanah itu telah dikeluarkan oleh mahkamah, itu peranan dan fungsi utama ahli parlimen masa itu. Ahli parlimen kat sini masa tu siapa? Bersatu. Hm, hm. Rina. Rina. Kerajaan masa itu siapa? PAS dan Bersatu. Jadi sepatutnya yang berlaku di Kampung Sungai Baru ni kita tolak tepi sentimen rakyat rasa sebab susah, yang kita tak duduk kat situ, perasaan kita tu tolak tepi. Tapi maksudnya, yang gagal adalah Perikatan Nasional kerana this happens right under their nose, they could not or did not do enough to negotiate a better term, dan akhirnya bila sudah sampai ke peringkat kan. Jadi kalau kita nak trace, trace, trace balik contohnya, "Ah siapa yang mula-mula?" Nanti lagi parahlah ni, kerajaan UMNO dulu, kan UMNO yang buat, bersambung dengan PN, semua gitu kan. Jadi, benda itu telah berlaku dan mengikut undang-undang kalau satu transaksi itu telah berlaku secara sah, then, you know, kecuali ada fraud, ada penipuan dan sebagainylah kan. Jadi akhirnya yang jadi mangsa adalah abang polis, kan. Baik YB, satu lagi soalan susulan daripada kenyataan daripada PAS juga. Ini sebenarnya adalah teaser untuk ura yang akan diluluskan oleh kerajaan Madani nanti. Itu tak bertanggungjawablah. Sebabnya begini saya rasa, katakanlah pilihan raya dua tahun daripada sekarang. Tiba-tiba PAS menang. Ko ingat PAS akan cakap benda yang sama je? Seperti mana dia flip, kan, Kampung Sungai Baru ni daripada dulu kerajaan dia yang luluskan, semua ni berlaku right under their nose, saya ingat URA pun macam tulah. Oh sekarang ni teaser gini, gini, gini, puf dia jadi kerajaan, ana berpuas hati. Kan, jadi dia dia akan jalan, jadi nasihat sayalah, sebenarnya semua ini ada undang-undang dan proses dia kan. Dan URA saya dah komen minggu lepas kan, ada keperluan untuk kita membangunkan semula bandar. Dan untuk kita tidak membangunkan semula bandar, dia tidak berlaku adil kepada penduduk-penduduk yang boleh mendapat manfaat. Tetapi ada banyak ruang-rowang yang perlu diperbaiki, dan ambillah masa untuk perbaiki. Tapi kalau PAS nak kata, "Inilah teaser apa nama ni untuk URA dan sebagainya," kan, saya ingat PAS janganlah bercakap lebih sangat dalam bab-bab gini, sebab dulu 10, 15 tahun lepas, PAS bolehlah pakai cakap lepas, sebab masa itu orang tak fikir dia boleh jadi kerajaan persekutuan. Dia cakap apa-apa orang tak peduli. Sekarang ini kerajaan bertukar tiap-tiap tiga empat tahun, dan kalau tiba-tiba kerajaan itu adalah kerajaan PAS, dan bila dia masuk dalam kerajaan, dia akan teruskan akta PSB ini kan. Jadi masa tu dia nak cakap apa? Kan, jadi lebih baik supaya parti-parti politik jangan menunggang, menunggang orang susah, menunggang penduduk Kampung Sungai Baru, kemudian sekarang nak menunggang siapa lagi kan semata-mata untuk menimbulkan sentimen dan api kemarahan itu kan. Jadi, rekodlah saya ingat kalau tengok rekod berkaitan dengan Kampung Sungai Baru ini, apa-apa yang PAS cakap pun, PAS kena jelaskan sebenarnya semasa kamu jadi kerajaan, apa yang kamu buat? Saya ingatlah saya ada orang tag saya dekat Twitter. Sebab PAS kan ada Lajnah Bandar, dia ada Lajnah kan. Saya belum sempat pergi check lah, tapi orang jodoh tag saya kata, "YB pergi semak balik kenyataan-kenyataan Lajnah Bandar apa nama ni PAS ni sebab sebelum ni dia orang yang jodoh sibuk sokong PSB ni." Sekarang tiba-tiba dia dah u-turn. Ha, kan. Jadi saya tak rasa itu soal teaser PSB dan sebagainya lah, dia macam saya kata sebab itu ambillah masa yang sebaiknya untuk kita tambah baik PSB akta PSB itu kerana yang paling penting ialah rundingan dan juga terma-terma yang pada peringkat awal. Yang itu yang paling penting, kan. Pastikan akta itu melindungi seberapa banyak hak apa nama ni penduduk supaya bila ia dilaksanakan dia tidaklah menimbulkan rasa tidak puas hati kerana penduduk mayoritasnya merasakan bahawa, "It's a fair deal, ia satu urus niaga yang adil dan bermanfaat kepada mereka," kan. Dan kalau PAS kata Kampung Sungai Baru ini adalah teaser kepada URA contohnya kan, orang boleh juga turn the table around, cakap sebab itulah perlukan URA. Sebab bila pembangunan semula dibuat tanpa akta yang khusus yang melindungi hak penduduk di situ, penyewa dan sebagainya, dia jadi macam ini lah. Jadi either way, kita tak boleh lari daripada satu fakta bahawa pembangunan semula bandar ini akan berlaku di beberapa tempat. Baik, baik, baik, maaf PAS, anda dibakar malam ini. Kita pergi ke segmen seterusnya YB, kita dah habis segmen keras, segmen keras. Oh dah habis dah keras? Tak keraslah. Ini tak keraslah minggu ni. Tak keras eh? Ah tak beria, tak keras. Jadi saudara-saudari, minta tolong cadangkan yang keras juga. Dan kita ada satu, isu dunialah eh, dunia punya hal. YB, Rakyat Malaysia sekarang ni hebat, segala jenis benda kat dunia pun dia ambil tahu kan, tapi dulu masa aku kecil-kecil, antara berita yang aku paling sukalah kan, ni berita RTM, RTM ada dua berita. Satu berita perdana pukul 8, satu berita dunia kan, pukul 10 malam, yang selalu baca dulu Rahajid Singh Halon. Kau orang tak tahu, dahlah kan. Actually aku lagi suka tengok berita dunia dulu. Menarik, menarik. So YB, Arif. Tak adalah arif, tapi maksudnya memang orang Malaysia ni suka ambil tahu benda tepi kain negara lain. Okey baik YB, yang pertama sekali. Baru saja minggu lepas kita tengok Indonesia, yang baru-baru ini minggu ini kita ada daripada Nepal pula, tapi yang menggerakkan tu gen Z lah. Somehow komen-komen rakyat Malaysia ni tengok apa komen rakyat Malaysia? Yalah ada trend, jadi apa jadi kat hegemoni dunia ni sebenarnya YB? Daripada perubahan dia jadi macam ni sekali. Yalah, saya dah sebut sebelum ini kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang ada awalnya demonstrasi anak-anak muda ni yang memprotes mengenai rasuah dan sebagainya kan. tapi dia meletus menjadi ganas itu bila kerajaan mengharamkan media sosial, Facebook dan yang lain. Kemudian dia jadi macam ini lah kan. Jadi soal hegemoni dunia dan sebagainya tu, dia sebenarnya saya ingat adalah simtom-simtom yang mana sistem kapitalis 100% yang ada ni, dia dah mula menampakkan keretakan. so di 100 tahun yang dululah kan, bermula dengan Bolshevik 1917 kan, dan 50 tahun sebelum Bolshevik itu memang ada pertembungan ideologi kan, oleh kerana revolusi industri maka pekerja-pekerja ditekan, masa zaman abad ke-19, akhir abad ke-19 kan, kanak-kanak pun kerja kat kilang, tak ada rumah, perempuan semua kerja teruk kan. Dari situlah timbulnya dua pertembungan ideologi, satu yang berbentuk sosialis dan komunis lah, dan more extreme is komunis lah. Bagi mereka yang tak tahu komunis tu apa, komunis tu bukan simpan, kalau ikut PAS komunis ni sepupu-sepupu sepupu-sepapat China semua kan. Komunis ni asalnya idenya begini, harta perlu dimiliki negarakan. Kerana kekayaan peribadi itu tidak dibenarkan, jadi harta semua dimiliki negarakan sebab itu nama komun, komun tu maksudnya komuniti. Jadi komunist, komunism ni maksudnya ialah mengkomunitikan negara supaya ada apa nama ni harta semua dimiliki negarakan dan kemudian orang bekerja jadi harta itu dikongsi bersamalah. Itu pada satu sisi kan, dan satu lagi sisi ialah pure capitalist lah. Maksudnya golongan pemodal ini dia mempunyai modal, dia buat business dan sebagainya kan. Of course sosialis lies in the middle kan, jadi masa zaman Bolshevik dunia ni ada harapanlah melihat kepada sistem komunis. Mungkin sistem komunis ni adalah sistem yang lebih adil kepada rakyatlah berbanding dengan sistem kapitalis. Tapi menjelang tahun pertengahan 50-an, 60-an nampak bahawa ada kelompongan dan masalah, terutamanya yang berlaku di Soviet dan di Eropah Timur, dan juga yang berlaku di China di bawah Mao Tse Tung, maksudnya sistem komunis itu tidak berjaya untuk menandingi kesejahteraan yang dibawa kepada rakyat melalui sistem kapital kan. Dan sebab itu daripada 60-an, 70-an sampai sekaranglah sebenarnya dunia ini by and large hanya ada satu sistem, iaitu sistem kapitalis. Dia tak ada dah sistem yang bukan kapitalis di dunia ni kan, terutama bila China lewat 70-an di bawah Deng Xiaoping nama saja komunis tapi sistemnya itu adalah sosialist kapitalis lah, atau kapitalis sebenarnya kan. Jadi, kita dah ada 100 tahun sistem yang berasaskan kepada kapitalis, kapitalisme yang tidak dicabar langsung. Jadi, sepertimana pusingan kitaran pertama yang membawa kepada industrial revolution dan itu di bawah sistem kapitalis, selepas 100 tahun kita mula ada keretakan-keretakan itulah. Keretakan-keretakan itu satunya ialah kerana dilihat dan yang ini yang salah orang elit dalam masyarakat yang sebahagian besarnya adalah orang politik kan, jadi kalau di negara seperti Eropah, benda itu pun sedang berlaku tapi dia tidaklah sampai ke peringkat macam di Nepal. Dan kalau di Eropah itu, dia juga dibayangi oleh isu perkauman. Kerana anak muda yang yang berhaluan kanan ini yang sebenarnya tidak puas hati, dia lebih mudah untuk ahli politik membakar sentimen anti-imigran atas dasar orang asing ini datang ke negara kita dan mengambil kerja kita. Padahal kebanyakan orang asing yang yang datang tu sebab kerja tu orang lain tak nak buat, dia buatlah kan. Jadi itulah yang berlaku sampai jadi Brexit, sampai di Eropah Timur kan. Tapi kalau di Indonesia, kemudian sekarang ni di Nepal, dia adalah sebab kesenjangan perbezaan di antara yang kaya dengan yang miskin itu adalah terlalu besar. Kemudian bila orang tengok, ahli politik tiba-tiba jadi kaya-raya, anak jadi kaya-raya dan dalam kes Nepal ini lagi unik. Kerana seingat sayalah, kerajaan ini adalah kerajaan komunis, kerajaan parti komunis. Jadi Nepal sebelum ini adalah sistem monarki, kemudian saya ingat tahun bila, 2004, 2008 macam itulah mereka menukar dan tidak lagi ada sistem monarki. Dan semasa sistem monarki dulu, yang jadi tukang bakar untuk demonstrasi ni geng-geng yang perdana menteri nilah, parti komunis nilah kan. Jadi mereka berjuang selama lama untuk menukar daripada sistem monarki kepada sistem demokrasi yang akhirnya mereka menjadi kumpulan paling besar dan sejak 2008 begitu, saya rasa kerajaan yang bertukar pun semua antara komunis atau maois, lebih kurang komunis, maois macam itulah berkeliling di kalangan mereka kan. Jadi bayangkan kalau kita jadi rakyat Nepal eh, dan Nepal hanya menjadi demokrasi ni tak sampai 20 tahun pun. Lebih kurang begitulah 20 tahun kan, tak lama tahu 20 tahun ni kan. Jadi rakyat sebelum ini merasakan bahawa dengan adanya perubahan ini dan parti komunis ini masuk, maka keadaan akan lebih baik, iyalah because is communist, maksudnya kekayaan negara ini akan diberikan sama rata, jadi-jadi macam ini. Jadi dimensi yang Nepal ni lebih menarik sebenarnya kerana bukan saja ia soal perbezaan ataupun kesenjangan di antara elit dengan rakyat biasa, dan keretakan sistem kapitalis itu yang yang sekarang ini oleh yang menghasilkan perbezaan itu, yang itu berlaku di seluruh dunia, bukan saja di Nepal, di Indonesia, di Malaysia, di Nepal, di Eropah semua sedang berlakulah kan. Tapi yang uniknya ialah kerana di Nepal ini ialah parti ini parti komunis yang menuntut demokrasi dan menjanjikan perubahan sebelum ini, tetapi selepas 20 tahun yang kaya mereka. Itu bagi saya adalah perbezaan utama yang menyebabkan kemarahan sedemikian rupalah kan. Jadi, itu ingatan juga kepada ahli-ahli politik di Malaysia, kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, ha PAS sebelum ni kan, selepas ni kan, kalau rakyat ini kalau ditekan dan dia sampai ke satu peringkat yang perubahan itu tidak datang dan lebih teruk lagi, eh kamu pula menggantikannya, dia jadi macam animal farm. George Orwell. Kau baca tak George Orwell, Animal Farm? Mesti tak. Baik, saya baca. George Orwell, Animal Farm kan. Animal Farm ni dia cerita pasal pasal binatang dengan manusia. So, masa manusia menjadi tuan, kan binatang ni duk dalam kandang, jadi binatang ni rasa tak puas hatilah kerana mereka dilayan sedemikian rupa, kena sembelihlah semua untuk jadi makanan semua kan. Jadi adalah satu kumpulan, kumpulan ni babilah, jadi mereka pun berjanji dan berkempen, kita mesti buang manusia, supaya kita mentadbir sesama kita, jadi tak ada tuan kita dalam rumah tu, maka lepas ni hidup kita lebih baik. Jadi, binatang-binatang semua ni memberontaklah. Maka akhirnya, tuan rumah tu pun larilah, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi dia yang duduk dalam rumah tu. Dia jadi tuan, dia pula jadi bos kan. Jadi kalau dalam, yalah dalam falsafah politik dan mereka yang yang yalah yang tahu tentang satira politik ni Animal Farm yang ditulis oleh George Orwell, dia samalah keadaannya kalau macam di Nepal, parti-parti ni, pimpinan ni dulu dia yang menjanjikan kita kena buang sistem monarki, gini, gini, gini, keadaan hidup lebih baik, tengok-tengok, parti komunis buat macam ini. Sebab itu aku kata power corrupts, absolute power corrupts absolutely. Baik YB, ada orang Nepal kat Malaysia yang faham bahasa Melayu yang tengok podcast tak? Harap-harap ada. Harap-harap adalah kan. Oke YB, kita ada satu lagi isu isu dunia. Ya. Isunya adalah Charlie Hebdo, ya. Rasanya baik kau tak tunjuk video, because video dia tu quite horror kan. Ya ya ya. Cuma sebagai rakyat Malaysia yang waras dan bertanggungjawab, sebenarnya ramai tertanya-tanya, apa pendirian yang sepatutnya kita ambil? Berkaitan dengan apa yang berlaku kepada mendiang sebenarnya? Kita perlu ambil pendirian ke? I mean how how yelah mungkin kalau dia ni pro, apa tak pro Palestin. Dia bukan saja tak pro Palestin, dia ni rabid racist. Yes, tapi dia dibunuh dengan macam tulah, macam quite dilemalah YB. Macam mana kita nak apa, moral kompas kita? Well, saya rasa kita ada banyak masalah di Malaysia. Untuk kita, saya rasa yalah, soal Charlie Hebdo semua ni, I mean as a person, saya tak rasa Charlie Hebdo ni ada pengaruh ataupun kesan kepada Malaysialah kan, tapi sebagai seorang Islam kan, dan kalau kita progresif yang duduk di Malaysia, dari segi ucapan pendirian dan kasarnya dia tu, saya fahamlah kalau ada sentimen yang sangat membenci Charlie Hebdo ni, bukan saja di Malaysia tapi di Amerika dan di tempat-tempat lain jugalah. Tapi pada masa yang samalah, saya tak rasa sesiapa pun hatta orang itu orang yang paling teruk pun, kita boleh menyokong keganasan. Jadi dunia ini tidak pernah ditukar atau bertukar dengan keganasan. Dunia bertukar dengan idea kan, dan kalaupun ada negara yang pergi perang kan, yang menggerakkan perang itu ialah kerana idea, dan saya ingat perkara itu perlu dipertahankan. Cuma, saya selalunya lebih sukalah bila berlaku peristiwa macam ini, kita tak campur hal orang. Tapi kita perlu muhasabah dan kita kena ambil ironiknya keadaan yang berlaku kan, jadi ambil contoh Charlie Hebdo lah kan, saya rasa pendirian dia semua itu dia ada audiens dialah kan, tapi bila pendirian itu extreme, dan maka sementara akan ada sokongan yang extreme kepada dia, pada masa yang sama akan juga ada tentangan yang extremelah. Jadi sebab itu cabaran untuk ahli politik ialah walaupun susah untuk kita menjadi populer ataupun untuk mendapat sokongan yang yang walak betul-betul kalau kita ambil jalan tengah, tapi cabarannya di masyarakat utamanya macam masyarakat Malaysia yang berbilang kaum, kita memang kena cuba sedaya upaya untuk membawa masyarakat itu ke medan yang tengah. Kerana medan yang extreme ini, sama ada extreme kanan, extreme kiri kan, dia sebenarnya tidak ada penyelesaian yang baik kepada negara. Dan itu saya ingat yang yang rakyat Malaysia perlu muhasabahlah. Tak payahlah sangat duk sibuk pasal Charlie Hebdo ni, kau bukan pernah tengok Charlie Hebdo pun. Kalaulah perkara ini tidak berlaku, aku tak rasalah rakyat Malaysia ambil tahu pasal Charlie Hebdo ni kan. Baik YB, satu lagi soalan susulan daripada kenyataan daripada PAS juga. Ini sebenarnya adalah teaser untuk ura yang akan diluluskan oleh kerajaan Madani nanti. Itu tak bertanggungjawablah. Sebabnya begini saya rasa, katakanlah pilihan raya dua tahun daripada sekarang. Tiba-tiba PAS menang. Ko ingat PAS akan cakap benda yang sama je? Seperti mana dia flip, kan, Kampung Sungai Baru ni daripada dulu kerajaan dia yang luluskan, semua ni berlaku right under their nose, saya ingat URA pun macam tulah. Oh sekarang ni teaser gini, gini, gini, puf dia jadi kerajaan, ana berpuas hati. Kan, jadi dia dia akan jalan, jadi nasihat sayalah, sebenarnya semua ini ada undang-undang dan proses dia kan. Dan URA saya dah komen minggu lepas kan, ada keperluan untuk kita membangunkan semula bandar. Dan untuk kita tidak membangunkan semula bandar, dia tidak berlaku adil kepada penduduk-penduduk yang boleh mendapat manfaat. Tetapi ada banyak ruang-rowang yang perlu diperbaiki, dan ambillah masa untuk perbaiki. Tapi kalau PAS nak kata, "Inilah teaser apa nama ni untuk URA dan sebagainya," kan, saya ingat PAS janganlah bercakap lebih sangat dalam bab-bab gini, sebab dulu 10, 15 tahun lepas, PAS bolehlah pakai cakap lepas, sebab masa itu orang tak fikir dia boleh jadi kerajaan persekutuan. Dia cakap apa-apa orang tak peduli. Sekarang ini kerajaan bertukar tiap-tiap tiga empat tahun, dan kalau tiba-tiba kerajaan itu adalah kerajaan PAS, dan bila dia masuk dalam kerajaan, dia akan teruskan akta PSB ini kan. Jadi masa tu dia nak cakap apa? Kan, jadi lebih baik supaya parti-parti politik jangan menunggang, menunggang orang susah, menunggang penduduk Kampung Sungai Baru, kemudian sekarang nak menunggang siapa lagi kan semata-mata untuk menimbulkan sentimen dan api kemarahan itu kan. Jadi, rekodlah saya ingat kalau tengok rekod berkaitan dengan Kampung Sungai Baru ini, apa-apa yang PAS cakap pun, PAS kena jelaskan sebenarnya semasa kamu jadi kerajaan, apa yang kamu buat? Saya ingatlah saya ada orang tag saya dekat Twitter. Sebab PAS kan ada Lajnah Bandar, dia ada Lajnah kan. Saya belum sempat pergi check lah, tapi orang jodoh tag saya kata, "YB pergi semak balik kenyataan-kenyataan Lajnah Bandar apa nama ni PAS ni sebab sebelum ni dia orang yang jodoh sibuk sokong PSB ni." Sekarang tiba-tiba dia dah u-turn. Ha, kan. Jadi saya tak rasa itu soal teaser PSB dan sebagainya lah, dia macam saya kata sebab itu ambillah masa yang sebaiknya untuk kita tambah baik PSB akta PSB itu kerana yang paling penting ialah rundingan dan juga terma-terma yang pada peringkat awal. Yang itu yang paling penting, kan. Pastikan akta itu melindungi seberapa banyak hak apa nama ni penduduk supaya bila ia dilaksanakan dia tidaklah menimbulkan rasa tidak puas hati kerana penduduk mayoritasnya merasakan bahawa, "It's a fair deal, ia satu urus niaga yang adil dan bermanfaat kepada mereka," kan. Dan kalau PAS kata Kampung Sungai Baru ini adalah teaser kepada URA contohnya kan, orang boleh juga turn the table around, cakap sebab itulah perlukan URA. Sebab bila pembangunan semula dibuat tanpa akta yang khusus yang melindungi hak penduduk di situ, penyewa dan sebagainya, dia jadi macam ini lah. Jadi either way, kita tak boleh lari daripada satu fakta bahawa pembangunan semula bandar ini akan berlaku di beberapa tempat. Baik, baik, baik, maaf PAS, anda dibakar malam ini. Kita pergi ke segmen seterusnya YB, kita dah habis segmen keras, segmen keras. Oh dah habis dah keras? Tak keraslah. Ini tak keraslah minggu ni. Tak keras eh? Ah tak beria, tak keras. Jadi saudara-saudari, minta tolong cadangkan yang keras juga. Dan kita ada satu, isu dunialah eh, dunia punya hal. YB, Rakyat Malaysia sekarang ni hebat, segala jenis benda kat dunia pun dia ambil tahu kan, tapi dulu masa aku kecil-kecil, antara berita yang aku paling sukalah kan, ni berita RTM, RTM ada dua berita. Satu berita perdana pukul 8, satu berita dunia kan, pukul 10 malam, yang selalu baca dulu Rahajid Singh Halon. Kau orang tak tahu, dahlah kan. Actually aku lagi suka tengok berita dunia dulu. Menarik, menarik. So YB, Arif. Tak adalah arif, tapi maksudnya memang orang Malaysia ni suka ambil tahu benda tepi kain negara lain. Okey baik YB, yang pertama sekali. Baru saja minggu lepas kita tengok Indonesia, yang baru-baru ini minggu ini kita ada daripada Nepal pula, tapi yang menggerakkan tu gen Z lah. Somehow komen-komen rakyat Malaysia ni tengok apa komen rakyat Malaysia? Yalah ada trend, jadi apa jadi kat hegemoni dunia ni sebenarnya YB? Daripada perubahan dia jadi macam ni sekali. Yalah, saya dah sebut sebelum ini kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang adacopy exactly to text with timestamp. Do not translate. Ensure correct grammar.
 
-[03:50] Speaker 2: Apa yang nak private nya.
+[70:04] Rafizi: Jadi apa jadi kat hegemoni dunia ni sebenarnya YB? Daripada perubahan dia jadi macam ni sekali.
 
-[03:51] Speaker 1: Ah jadi ia bukan privacy.
+[70:12] Rafizi: Yalah, saya dah sebut sebelum ini kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang ada awalnya demonstrasi anak-anak muda ni yang memprotes mengenai rasuah dan sebagainya kan, tapi dia meletus menjadi ganas itu bila kerajaan mengharamkan media sosial, Facebook dan yang lain. Kemudian dia jadi macam ini lah kan. Jadi soal hegemoni dunia dan sebagainya tu, dia sebenarnya saya ingat adalah simtom-simtom yang mana sistem kapitalis 100% yang ada ni, dia dah mula menampakkan keretakan. So di 100 tahun yang dululah kan, bermula dengan Bolshevik 1917 kan, dan 50 tahun sebelum Bolshevik itu memang ada pertembungan ideologi kan, oleh kerana revolusi industri maka pekerja-pekerja ditekan, masa zaman abad ke-19, akhir abad ke-19 kan, kanak-kanak pun kerja kat kilang, tak ada rumah, perempuan semua kerja teruk kan. Dari situlah timbulnya dua pertembungan ideologi, satu yang berbentuk sosialis dan komunis lah, dan more extreme is komunis lah. Bagi mereka yang tak tahu komunis tu apa, komunis tu bukan simpan, kalau ikut PAS komunis ni sepupu-sepupu sepupu-sepapat China semua kan. Komunis ni asalnya idenya begini, harta perlu dimiliki negarakan. Kerana kekayaan peribadi itu tidak dibenarkan, jadi harta semua dimiliki negarakan sebab itu nama komun, komun tu maksudnya komuniti. Jadi komunist, komunism ni maksudnya ialah mengkomunitikan negara supaya ada apa nama ni harta semua dimiliki negarakan dan kemudian orang bekerja jadi harta itu dikongsi bersamalah. Itu pada satu sisi kan, dan satu lagi sisi ialah pure capitalist lah. Maksudnya golongan pemodal ini dia mempunyai modal, dia buat business dan sebagainya kan. Of course sosialis lies in the middle kan, jadi masa zaman Bolshevik dunia ni ada harapanlah melihat kepada sistem komunis. Mungkin sistem komunis ni adalah sistem yang lebih adil kepada rakyatlah berbanding dengan sistem kapitalis. Tapi menjelang tahun pertengahan 50-an, 60-an nampak bahawa ada kelompongan dan masalah, terutamanya yang berlaku di Soviet dan di Eropah Timur, dan juga yang berlaku di China di bawah Mao Tse Tung, maksudnya sistem komunis itu tidak berjaya untuk menandingi kesejahteraan yang dibawa kepada rakyat melalui sistem kapital kan. Dan sebab itu daripada 60-an, 70-an sampai sekaranglah sebenarnya dunia ini by and large hanya ada satu sistem, iaitu sistem kapitalis. Dia tak ada dah sistem yang bukan kapitalis di dunia ni kan, terutama bila China lewat 70-an di bawah Deng Xiaoping nama saja komunis tapi sistemnya itu adalah sosialis kapitalis lah, atau kapitalis sebenarnya kan. Jadi, kita dah ada 100 tahun sistem yang berasaskan kepada kapitalis, kapitalisme yang tidak dicabar langsung. Jadi, sepertimana pusingan kitaran pertama yang membawa kepada industrial revolution dan itu di bawah sistem kapitalis, selepas 100 tahun kita mula ada keretakan-keretakan itulah. Keretakan-keretakan itu satunya ialah kerana dilihat dan yang ini yang salah orang elit dalam masyarakat yang sebahagian besarnya adalah orang politik kan, jadi kalau di negara seperti Eropah, benda itu pun sedang berlaku tapi dia tidaklah sampai ke peringkat macam di Nepal. Dan kalau di Eropah itu, dia juga dibayangi oleh isu perkauman. Kerana anak muda yang yang berhaluan kanan ini yang sebenarnya tidak puas hati, dia lebih mudah untuk ahli politik membakar sentimen anti-imigran atas dasar orang asing ini datang ke negara kita dan mengambil kerja kita. Padahal kebanyakan orang asing yang yang datang tu sebab kerja tu orang lain tak nak buat, dia buatlah kan. Jadi itulah yang berlaku sampai jadi Brexit, sampai di Eropah Timur kan. Tapi kalau di Indonesia, kemudian sekarang ni di Nepal, dia adalah sebab kesenjangan perbezaan di antara yang kaya dengan yang miskin itu adalah terlalu besar. Kemudian bila orang tengok, ahli politik tiba-tiba jadi kaya-raya, anak jadi kaya-raya dan dalam kes Nepal ini lagi unik. Kerana seingat sayalah, kerajaan ini adalah kerajaan komunis, kerajaan parti komunis. Jadi Nepal sebelum ini adalah sistem monarki, kemudian saya ingat tahun bila, 2004, 2008 macam itulah mereka menukar dan tidak lagi ada sistem monarki. Dan semasa sistem monarki dulu, yang jadi tukang bakar untuk demonstrasi ni geng-geng yang perdana menteri nilah, parti komunis nilah kan. Jadi mereka berjuang selama lama untuk menukar daripada sistem monarki kepada sistem demokrasi yang akhirnya mereka menjadi kumpulan paling besar dan sejak 2008 begitu, saya rasa kerajaan yang bertukar pun semua antara komunis atau maois, lebih kurang komunis, maois macam itulah berkeliling di kalangan mereka kan. Jadi bayangkan kalau kita jadi rakyat Nepal eh, dan Nepal hanya menjadi demokrasi ni tak sampai 20 tahun pun. Lebih kurang begitulah 20 tahun kan, tak lama tahu 20 tahun ni kan. Jadi rakyat sebelum ini merasakan bahawa dengan adanya perubahan ini dan parti komunis ini masuk, maka keadaan akan lebih baik, iyalah because is communist, maksudnya kekayaan negara ini akan diberikan sama rata, jadi-jadi macam ini. Jadi dimensi yang Nepal ni lebih menarik sebenarnya kerana bukan saja ia soal perbezaan ataupun kesenjangan di antara elit dengan rakyat biasa, dan keretakan sistem kapitalis itu yang yang sekarang ini oleh yang menghasilkan perbezaan itu, yang itu berlaku di seluruh dunia, bukan saja di Nepal, di Indonesia, di Malaysia, di Nepal, di Eropah semua sedang berlakulah kan. Tapi yang uniknya ialah kerana di Nepal ini ialah parti ini parti komunis yang menuntut demokrasi dan menjanjikan perubahan sebelum ini, tetapi selepas 20 tahun yang kaya mereka. Itu bagi saya adalah perbezaan utama yang menyebabkan kemarahan sedemikian rupalah kan. Jadi, itu ingatan juga kepada ahli-ahli politik di Malaysia, kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, ha PAS sebelum ni kan, selepas ni kan, kalau rakyat ini kalau ditekan dan dia sampai ke satu peringkat yang perubahan itu tidak datang dan lebih teruk lagi, eh kamu pula menggantikannya, dia jadi macam animal farm. George Orwell. Kau baca tak George Orwell, Animal Farm? Mesti tak. Baik, saya baca. George Orwell, Animal Farm kan. Animal Farm ni dia cerita pasal pasal binatang dengan manusia. So, masa manusia menjadi tuan, kan binatang ni duk dalam kandang, jadi binatang ni rasa tak puas hatilah kerana mereka dilayan sedemikian rupa, kena sembelihlah semua untuk jadi makanan semua kan. Jadi adalah satu kumpulan, kumpulan ni babilah, jadi mereka pun berjanji dan berkempen, kita mesti buang manusia, supaya kita mentadbir sesama kita, jadi tak ada tuan kita dalam rumah tu, maka lepas ni hidup kita lebih baik. Jadi, binatang-binatang semua ni memberontaklah. Maka akhirnya, tuan rumah tu pun larilah, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi dia yang duduk dalam rumah tu. Dia jadi tuan, dia pula jadi bos kan. Jadi kalau dalam, yalah dalam falsafah politik dan mereka yang yang yalah yang tahu tentang satira politik ni Animal Farm yang ditulis oleh George Orwell, dia samalah keadaannya kalau macam di Nepal, parti-parti ni, pimpinan ni dulu dia yang menjanjikan kita kena buang sistem monarki, gini, gini, gini, keadaan hidup lebih baik, tengok-tengok, parti komunis buat macam ini. Sebab itu aku kata power corrupts, absolute power corrupts absolutely. Baik YB, ada orang Nepal kat Malaysia yang faham bahasa Melayu yang tengok podcast tak? Harap-harap ada. Harap-harap adalah kan. Oke YB, kita ada satu lagi isu isu dunia. Ya. Isunya adalah Charlie Hebdo, ya. Rasanya baik kau tak tunjuk video, because video dia tu quite horror kan. Ya ya ya. Cuma sebagai rakyat Malaysia yang waras dan bertanggungjawab, sebenarnya ramai tertanya-tanya, apa pendirian yang sepatutnya kita ambil? Berkaitan dengan apa yang berlaku kepada mendiang sebenarnya? Kita perlu ambil pendirian ke? I mean how how yelah mungkin kalau dia ni pro, apa tak pro Palestin. Dia bukan saja tak pro Palestin, dia ni rabid racist. Yes, tapi dia dibunuh dengan macam tulah, macam quite dilemalah YB. Macam mana kita nak apa, moral kompas kita? Well, saya rasa kita ada banyak masalah di Malaysia. Untuk kita, saya rasa yalah, soal Charlie Hebdo semua ni, I mean as a person, saya tak rasa Charlie Hebdo ni ada pengaruh ataupun kesan kepada Malaysialah kan, tapi sebagai seorang Islam kan, dan kalau kita progresif yang duduk di Malaysia, dari segi ucapan pendirian dan kasarnya dia tu, saya fahamlah kalau ada sentimen yang sangat membenci Charlie Hebdo ni, bukan saja di Malaysia tapi di Amerika dan di tempat-tempat lain jugalah. Tapi pada masa yang samalah, saya tak rasa sesiapa pun hatta orang itu orang yang paling teruk pun, kita boleh menyokong keganasan. Jadi dunia ini tidak pernah ditukar atau bertukar dengan keganasan. Dunia bertukar dengan idea kan, dan kalaupun ada negara yang pergi perang kan, yang menggerakkan perang itu ialah kerana idea, dan saya ingat perkara itu perlu dipertahankan. Cuma, saya selalunya lebih sukalah bila berlaku peristiwa macam ini, kita tak campur hal orang. Tapi kita perlu muhasabah dan kita kena ambil ironiknya keadaan yang berlaku kan, jadi ambil contoh Charlie Hebdo lah kan, saya rasa pendirian dia semua itu dia ada audiens dialah kan, tapi bila pendirian itu extreme, dan maka sementara akan ada sokongan yang extreme kepada dia, pada masa yang sama akan juga ada tentangan yang extremelah. Jadi sebab itu cabaran untuk ahli politik ialah walaupun susah untuk kita menjadi populer ataupun untuk mendapat sokongan yang yang walak betul-betul kalau kita ambil jalan tengah, tapi cabarannya di masyarakat utamanya macam masyarakat Malaysia yang berbilang kaum, kita memang kena cuba sedaya upaya untuk membawa masyarakat itu ke medan yang tengah. Kerana medan yang extreme ini, sama ada extreme kanan, extreme kiri kan, dia sebenarnya tidak ada penyelesaian yang baik kepada negara. Dan itu saya ingat yang yang rakyat Malaysia perlu muhasabahlah. Tak payahlah sangat duk sibuk pasal Charlie Hebdo ni, kau bukan pernah tengok Charlie Hebdo pun. Kalaulah perkara ini tidak berlaku, aku tak rasalah rakyat Malaysia ambil tahu pasal Charlie Hebdo ni kan.
 
-[03:54] Speaker 1: Jadi kita ada segmen hutang YB. Cuma YB agak.
+[76:52] Host: Okay, baby.
 
-[03:57] Speaker 2: Kecuali tunjuk hutang aku. Itu private lah. Itu pun aku tunjuk hutang aku semua dulu masa declare aset.
+[77:14] Host: Okey.
 
-[04:04] Speaker 1: Ya ya ya boleh tengok kan. Yang dia orang jaja banyak 20 juta. Okey jadi YB bukan setakat komen share ahli parlimen punya slip slip gaji tapi sebagai slip gaji menteri atau anggota pentadbiran. Jadi kita tengok tiga dua satu.
+[77:15] Host: Soalan seterusnya, baby.
 
-[04:20] Speaker 1: Okey zoom.
+[77:18] Host: Hmm.
 
-[04:21] Speaker 2: Apa ni?
+[77:22] Host: Daripada Carey.
 
-[04:22] Speaker 1: Tengoklah lama-lama ini kali pertama kau orang boleh tengok slip gaji menteri.
+[77:26] Host: Adakah YB setuju dengan idea sekolah aliran tunggal dari darjah satu hingga tingkatan lima, tanpa SRJK, sekolah antarabangsa, agama atau tahfiz?
 
-[04:27] Speaker 1: Gaji anggota pentadbiran 11,000.
+[77:43] Host: Di mana semua wajib melalui sekolah kebangsaan dan menduduki SPM atau STPM untuk ke universiti?
 
-[04:31] Speaker 2: Hmm.
+[77:53] Rafizi: Saya dah sebut dan secara konsisten tahu daripada saya muda sampai sekarang, saya tak setuju. Hmm. Ah sebab isu dia ialah bukan soal isu aliran tunggal ke tidak-tiga.
 
-[04:32] Speaker 1: Kemudian kita ada elaun jemah menteri.
+[78:20] Rafizi: Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggal ke tidak. Isu dia ialah bukan soal isu aliran tunggap ke tidak.
 
-[04:35] Speaker 1: 4,000. Elaun rumah 4,000 tu sebenarnya tolak sebab ada sebelah kanan tu pulang balik elaun kuarters sebab duduk kuarters kan. So tak dapatlah.
+[78:20] Rafizi: Jadi apa yang saya rasa lah kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang ada awalnya demonstrasi anak-anak muda ni yang memprotes mengenai rasuah dan sebagainya kan, tapi dia meletus menjadi ganas itu bila kerajaan mengharamkan media sosial, Facebook dan yang lain. Kemudian dia jadi macam ini lah kan. Jadi soal hegemoni dunia dan sebagainya tu, dia sebenarnya saya ingat adalah simtom-simtom yang mana sistem kapitalis 100% yang ada ni, dia dah mula menampakkan keretakan. So di 100 tahun yang dululah kan, bermula dengan Bolshevik 1917 kan, dan 50 tahun sebelum Bolshevik itu memang ada pertembungan ideologi kan, oleh kerana revolusi industri maka pekerja-pekerja ditekan, masa zaman abad ke-19, akhir abad ke-19 kan, kanak-kanak pun kerja kat kilang, tak ada rumah, perempuan semua kerja teruk kan. Dari situlah timbulnya dua pertembungan ideologi, satu yang berbentuk sosialis dan komunis lah, dan more extreme is komunis lah. Bagi mereka yang tak tahu komunis tu apa, komunis tu bukan simpan, kalau ikut PAS komunis ni sepupu-sepupu sepupu-sepapat China semua kan. Komunis ni asalnya idenya begini, harta perlu dimiliki negarakan. Kerana kekayaan peribadi itu tidak dibenarkan, jadi harta semua dimiliki negarakan sebab itu nama komun, komun tu maksudnya komuniti. Jadi komunist, komunism ni maksudnya ialah mengkomunitikan negara supaya ada apa nama ni harta semua dimiliki negarakan dan kemudian orang bekerja jadi harta itu dikongsi bersamalah. Itu pada satu sisi kan, dan satu lagi sisi ialah pure capitalist lah. Maksudnya golongan pemodal ini dia mempunyai modal, dia buat business dan sebagainya kan. Of course sosialis lies in the middle kan, jadi masa zaman Bolshevik dunia ni ada harapanlah melihat kepada sistem komunis. Mungkin sistem komunis ni adalah sistem yang lebih adil kepada rakyatlah berbanding dengan sistem kapitalis. Tapi menjelang tahun pertengahan 50-an, 60-an nampak bahawa ada kelompongan dan masalah, terutamanya yang berlaku di Soviet dan di Eropah Timur, dan juga yang berlaku di China di bawah Mao Tse Tung, maksudnya sistem komunis itu tidak berjaya untuk menandingi kesejahteraan yang dibawa kepada rakyat melalui sistem kapital kan. Dan sebab itu daripada 60-an, 70-an sampai sekaranglah sebenarnya dunia ini by and large hanya ada satu sistem, iaitu sistem kapitalis. Dia tak ada dah sistem yang bukan kapitalis di dunia ni kan, terutama bila China lewat 70-an di bawah Deng Xiaoping nama saja komunis tapi sistemnya itu adalah sosialis kapitalis lah, atau kapitalis sebenarnya kan. Jadi, kita dah ada 100 tahun sistem yang berasaskan kepada kapitalis, kapitalisme yang tidak dicabar langsung. Jadi, sepertimana pusingan kitaran pertama yang membawa kepada industrial revolution dan itu di bawah sistem kapitalis, selepas 100 tahun kita mula ada keretakan-keretakan itulah. Keretakan-keretakan itu satunya ialah kerana dilihat dan yang ini yang salah orang elit dalam masyarakat yang sebahagian besarnya adalah orang politik kan, jadi kalau di negara seperti Eropah, benda itu pun sedang berlaku tapi dia tidaklah sampai ke peringkat macam di Nepal. Dan kalau di Eropah itu, dia juga dibayangi oleh isu perkauman. Kerana anak muda yang yang berhaluan kanan ini yang sebenarnya tidak puas hati, dia lebih mudah untuk ahli politik membakar sentimen anti-imigran atas dasar orang asing ini datang ke negara kita dan mengambil kerja kita. Padahal kebanyakan orang asing yang yang datang tu sebab kerja tu orang lain tak nak buat, dia buatlah kan. Jadi itulah yang berlaku sampai jadi Brexit, sampai di Eropah Timur kan. Tapi kalau di Indonesia, kemudian sekarang ni di Nepal, dia adalah sebab kesenjangan perbezaan di antara yang kaya dengan yang miskin itu adalah terlalu besar. Kemudian bila orang tengok, ahli politik tiba-tiba jadi kaya-raya, anak jadi kaya-raya dan dalam kes Nepal ini lagi unik. Kerana seingat sayalah, kerajaan ini adalah kerajaan komunis, kerajaan parti komunis. Jadi Nepal sebelum ini adalah sistem monarki, kemudian saya ingat tahun bila, 2004, 2008 macam itulah mereka menukar dan tidak lagi ada sistem monarki. Dan semasa sistem monarki dulu, yang jadi tukang bakar untuk demonstrasi ni geng-geng yang perdana menteri nilah, parti komunis nilah kan. Jadi mereka berjuang selama lama untuk menukar daripada sistem monarki kepada sistem demokrasi yang akhirnya mereka menjadi kumpulan paling besar dan sejak 2008 begitu, saya rasa kerajaan yang bertukar pun semua antara komunis atau maois, lebih kurang komunis, maois macam itulah berkeliling di kalangan mereka kan. Jadi bayangkan kalau kita jadi rakyat Nepal eh, dan Nepal hanya menjadi demokrasi ni tak sampai 20 tahun pun. Lebih kurang begitulah 20 tahun kan, tak lama tahu 20 tahun ni kan. Jadi rakyat sebelum ini merasakan bahawa dengan adanya perubahan ini dan parti komunis ini masuk, maka keadaan akan lebih baik, iyalah because is communist, maksudnya kekayaan negara ini akan diberikan sama rata, jadi-jadi macam ini. Jadi dimensi yang Nepal ni lebih menarik sebenarnya kerana bukan saja ia soal perbezaan ataupun kesenjangan di antara elit dengan rakyat biasa, dan keretakan sistem kapitalis itu yang yang sekarang ini oleh yang menghasilkan perbezaan itu, yang itu berlaku di seluruh dunia, bukan saja di Nepal, di Indonesia, di Malaysia, di Nepal, di Eropah semua sedang berlakulah kan. Tapi yang uniknya ialah kerana di Nepal ini ialah parti ini parti komunis yang menuntut demokrasi dan menjanjikan perubahan sebelum ini, tetapi selepas 20 tahun yang kaya mereka. Itu bagi saya adalah perbezaan utama yang menyebabkan kemarahan sedemikian rupalah kan. Jadi, itu ingatan juga kepada ahli-ahli politik di Malaysia, kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, ha PAS sebelum ni kan, selepas ni kan, kalau rakyat ini kalau ditekan dan dia sampai ke satu peringkat yang perubahan itu tidak datang dan lebih teruk lagi, eh kamu pula menggantikannya, dia jadi macam animal farm. George Orwell. Kau baca tak George Orwell, Animal Farm? Mesti tak. Baik, saya baca. George Orwell, Animal Farm kan. Animal Farm ni dia cerita pasal pasal binatang dengan manusia. So, masa manusia menjadi tuan, kan binatang ni duk dalam kandang, jadi binatang ni rasa tak puas hatilah kerana mereka dilayan sedemikian rupa, kena sembelihlah semua untuk jadi makanan semua kan. Jadi adalah satu kumpulan, kumpulan ni babilah, jadi mereka pun berjanji dan berkempen, kita mesti buang manusia, supaya kita mentadbir sesama kita, jadi tak ada tuan kita dalam rumah tu, maka lepas ni hidup kita lebih baik. Jadi, binatang-binatang semua ni memberontaklah. Maka akhirnya, tuan rumah tu pun larilah, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi dia yang duduk dalam rumah tu. Dia jadi tuan, dia pula jadi bos kan. Jadi kalau dalam, yalah dalam falsafah politik dan mereka yang yang yalah yang tahu tentang satira politik ni Animal Farm yang ditulis oleh George Orwell, dia samalah keadaannya kalau macam di Nepal, parti-parti ni, pimpinan ni dulu dia yang menjanjikan kita kena buang sistem monarki, gini, gini, gini, keadaan hidup lebih baik, tengok-tengok, parti komunis buat macam ini. Sebab itu aku kata power corrupts, absolute power corrupts absolutely. Baik YB, ada orang Nepal kat Malaysia yang faham bahasa Melayu yang tengok podcast tak? Harap-harap ada. Harap-harap adalah kan. Oke YB, kita ada satu lagi isu isu dunia. Ya. Isunya adalah Charlie Hebdo, ya. Rasanya baik kau tak tunjuk video, because video dia tu quite horror kan. Ya ya ya. Cuma sebagai rakyat Malaysia yang waras dan bertanggungjawab, sebenarnya ramai tertanya-tanya, apa pendirian yang sepatutnya kita ambil? Berkaitan dengan apa yang berlaku kepada mendiang sebenarnya? Kita perlu ambil pendirian ke? I mean how how yelah mungkin kalau dia ni pro, apa tak pro Palestin. Dia bukan saja tak pro Palestin, dia ni rabid racist. Yes, tapi dia dibunuh dengan macam tulah, macam quite dilemalah YB. Macam mana kita nak apa, moral kompas kita? Well, saya rasa kita ada banyak masalah di Malaysia. Untuk kita, saya rasa yalah, soal Charlie Hebdo semua ni, I mean as a person, saya tak rasa Charlie Hebdo ni ada pengaruh ataupun kesan kepada Malaysialah kan, tapi sebagai seorang Islam kan, dan kalau kita progresif yang duduk di Malaysia, dari segi ucapan pendirian dan kasarnya dia tu, saya fahamlah kalau ada sentimen yang sangat membenci Charlie Hebdo ni, bukan saja di Malaysia tapi di Amerika dan di tempat-tempat lain jugalah. Tapi pada masa yang samalah, saya tak rasa sesiapa pun hatta orang itu orang yang paling teruk pun, kita boleh menyokong keganasan. Jadi dunia ini tidak pernah ditukar atau bertukar dengan keganasan. Dunia bertukar dengan idea kan, dan kalaupun ada negara yang pergi perang kan, yang menggerakkan perang itu ialah kerana idea, dan saya ingat perkara itu perlu dipertahankan. Cuma, saya selalunya lebih sukalah bila berlaku peristiwa macam ini, kita tak campur hal orang. Tapi kita perlu muhasabah dan kita kena ambil ironiknya keadaan yang berlaku kan, jadi ambil contoh Charlie Hebdo lah kan, saya rasa pendirian dia semua itu dia ada audiens dialah kan, tapi bila pendirian itu extreme, dan maka sementara akan ada sokongan yang extreme kepada dia, pada masa yang sama akan juga ada tentangan yang extremelah. Jadi sebab itu cabaran untuk ahli politik ialah walaupun susah untuk kita menjadi populer ataupun untuk mendapat sokongan yang yang walak betul-betul kalau kita ambil jalan tengah, tapi cabarannya di masyarakat utamanya macam masyarakat Malaysia yang berbilang kaum, kita memang kena cuba sedaya upaya untuk membawa masyarakat itu ke medan yang tengah. Kerana medan yang extreme ini, sama ada extreme kanan, extreme kiri kan, dia sebenarnya tidak ada penyelesaian yang baik kepada negara. Dan itu saya ingat yang yang rakyat Malaysia perlu muhasabahlah. Tak payahlah sangat duk sibuk pasal Charlie Hebdo ni, kau bukan pernah tengok Charlie Hebdo pun. Kalaulah perkara ini tidak berlaku, aku tak rasalah rakyat Malaysia ambil tahu pasal Charlie Hebdo ni kan.
 
-[04:46] Speaker 1: Tak dapat. Keran.
+[82:09] Host: Hmm. Baik, baik.
 
-[04:48] Speaker 1: kemudian memandu dan ni apa ni? saya tak nampak.
+[82:11] Host: Dan komplikatedlah.
 
-[04:55] Speaker 1: is rumah pembantu rumah.
+[82:13] Host: Complicated. Dia complicated.
 
-[04:57] Speaker 1: 2,500 dan pentadbiran Persekutuan 1,500. So semuanya 40,000 dan bila setelah ditolak, kita ada 11, cuma tinggal 29,000, 11,000 dan ditolaklah. Cukai pendapatan, ada quarters.
+[82:15] Host: Ha, dia complicated ah kan.
 
-[05:15] Speaker 1: dan KBP. YB ada KBP? Tak tahulah apa tu.
+[82:17] Host: Okey, baby. Mungkin kita teruskan yang next.
 
-[05:17] Speaker 2: Ada ke?
+[82:20] Host: Hmm.
 
-[05:19] Speaker 1: Dia tulis potongan KBP.
+[82:23] Host: Ada lagi yang keras?
 
-[05:20] Speaker 2: Yalah kut, kalau dia ada potong, ada lah tu.
+[82:24] Host: Ada lagi keras.
 
-[05:22] Speaker 1: Eh ada pencen lagi. Ish ish tak ada lah. Tak tahulah ni apa kan.
+[82:27] Host: Ah, ini mungkin sikitlah YB.
 
-[05:25] Speaker 2: Actually potongan KBP tu untuk apa? Sebab aku tak pernah tengok slip gaji ni kepada siapa yang tahu, mana-mana HR yang tahu, boleh komen sebab kami tak tahu.
+[82:31] Host: Ni apa sensitif kayu, bukan?
 
-[05:35] Speaker 1: Jadi kita ada 29,000 lah YB ya.
+[82:36] Host: Kayu bukan bendera, berkaitan dengan perhimpunan pro Palestin di.
 
-[05:37] Speaker 2: 29,000, actually lepas ni kena check lah, EPF aku. dapat caruman ke tidak kan.
+[82:48] Host: Adakah appropriate halangan yang dibuat tu YB?
 
-[05:44] Speaker 1: Ah itu menterilah maksudnya dia potong-potong-potong dia tinggal 29,000 dan menteri dia juga ahli parlimen. Jadi dia dapat gaji ahli parlimen.
+[82:53] Host: Dia.
 
-[05:56] Speaker 1: Gaji ahli parlimen dengan slip gaji yang lain.
+[83:05] Host: Ini sebenarnya loose-loose ni, dia tengok kepada perspektif lah kan.
 
-[05:57] Speaker 2: Dengan slip gaji yang lain lah.
+[83:13] Host: Kalau kita jadi apa nama ni pegawai ataupun kakitangan keselamatan di Suria KLCC, dia ada arahan itu dan saya tidak rasalah dia ada arahan yang kata Palestin tak boleh ke apa.
 
-[05:58] Speaker 1: Can we move next?
+[83:27] Host: Tapi arahan SOP tu contohnya besar kemungkinan ialah perkara-perkara yang dilih yang dikira boleh dijadikan senjata, ataupun tidak sesuai kan.
 
-[05:59] Speaker 2: Ya.
+[83:40] Host: Kalau dia tak buat, nanti kalau jadi apa-apa dia nak kena jawab.
 
-[06:00] Speaker 1: Okey baik.
+[83:45] Host: Samalah dengan kakitangan kerajaan dan sebagainyalah.
 
-[06:01] Speaker 1: Alright.
+[83:49] Host: Kalau dia buat, dan dia tafsiran dia, tafsiran dia bila ada saja kayu, itu sudah dikira melanggar daripada SOP yang dibenarkan.
 
-[06:02] Speaker 1: Ah itu slip gaji ahli parlimen, gaji pokok ahli parlimen sebenarnya 16,000.
+[84:02] Host: Jadi akhirnya jadi macam inilah, dan kesnya pula ialah kes yang sensitif Palestin kan.
 
-[06:08] Speaker 1: Oleh kerana sebagai anggota pentadbiran menteri, elaun tu dapat elaun menteri ajelah. Dia tak dapat elaun ahli parlimen semua.
+[84:11] Host: Jadi saya ingat perkara ini perlukan untuk membantulah apa nama ni kakitangan dekat bawah semua tu, dan maksudnya SOP itu mesti lebih apa nama ni mesti lebih jelaslah, dan saya boleh cadangkan contohnya lah, kalau contohnya kan pengurusan KLCC kan, kalau yang dibimbangkan ialah kayu, ataupun kategori barang-barang yang boleh dijadikan senjata atau merosakkan, maka mereka boleh meninggalkan barang mereka di di di concierge ataupun di pintu masuklah.
 
-[06:17] Speaker 1: Jadi 16,000 tolak yang angkasa tu sebenarnya Ya.
+[84:57] Host: Tapi kalau benda-benda macam parafilia, apa nama ni yalah tapi masalah juga kadang-kadang Tian Chua ni memang suka mencuri perhatianlah kan, itu pun ada juga isu dia kan.
 
-[06:21] Speaker 2: Angkasa tu macam mana?
+[85:12] Host: Saya kawan lama dengan dia, dia selalunya memang kalau boleh menarik perhatian, dia tarik perhatianlah kan.
 
-[06:22] Speaker 1: Potongan kepada parti.
+[85:23] Host: Contohnya kalau kalau saya mungkin keadaannya agak berbeza.
 
-[06:23] Speaker 2: But why ruang angkasa YB?
+[85:29] Host: Mungkin saya boleh rundingkan, tak apa, yang kami pakai kafiyeh, semua ni, semua ni, ataupun bendera, kami boleh bawa masuk, kami lipat, ataupun kami pakai, sedia.
 
-[06:25] Speaker 2: Sebab memang angkasa ada, yalah angkasa memang ada arrangement kan dengan kerajaan. Ah kalau potongan pinjaman ke, koperasi ke semua dibuat melalui angkasa.
+[85:46] Host: Tapi apa ni, kayu tu kami kena tinggal kat luar, contohnya kan.
 
-[06:38] Speaker 1: Aha.
+[85:53] Host: Tapi untuk membantu security dan juga kakitangan kat luar, apa nama ni, SOP itu perlu dijelaskan lah, ha.
 
-[06:39] Speaker 2: Jadi saya ingat PKR memang ada konsep yang serupa dengan angkasa, angkasa tolak.
+[86:03] Host: Okey, okey, baik, baik, baik, baik, baik.
 
-[06:44] Speaker 2: So dia tolak 8,000, aku dapat 7,600.
+[86:06] Host: Saya tak rasalah, saya rasa kalau kata pengurusan Suria KLCC itu anti Palestin, itu tak betullah.
 
-[06:48] Speaker 1: Jadi dia potong lagi banyak.
+[86:16] Host: Cuma, maksudnya SOP dan arahan kepada kakitangan ke bawah itu mungkin belum dikemaskini, dan dia mungkin kena buat satu SOP SOP khusus untuk Tian Chua lah kut.
 
-[06:49] Speaker 1: Sumbangan kepada parti itu 8,000 semua dapat 7,600. Jadi campur dua tadi 29 campur 7, dapatlah dalam 35, 36,000 lah sebulan.
+[86:34] Host: Baik, baik.
 
-[07:02] Speaker 1: Hmm hmm. Baik baik baik.
+[86:35] Host: Loose-loose lah YB ya, okey.
 
-[07:03] Speaker 1: Jadi dekat luar tu digemuk-gemukkan gaji menteri.
+[86:37] Host: Next.
 
-[07:07] Speaker 2: Mana ada digemuk-gemukkan, digemba-gemukkan.
+[86:39] Host: Kita ada apa lagi?
 
-[07:10] Speaker 1: Sorry, typo lagi.
+[86:44] Host: Oh ya, ini isu hangat juga semalam eh YB berlaku, dan saya rasa semua tahulah apa yang berlaku.
 
-[07:12] Speaker 1: Menteri-menteri ni kena dapat 60,000, ada sampai 100,000, tapi YB cabut aje ni.
+[86:52] Host: Cuma.
 
-[07:16] Speaker 2: Itulah aku rasa aku menteri paling cabut kut, kan.
+[86:54] Host: Saya sentimental sikit dengan Dang Wangi dan OCPD Dang Wangi ni, sebab dalam banyak-banyak kali saya kena tahan, paling banyak ditahan di Dang Wangi lah.
 
-[07:20] Speaker 1: Tak, yalah saya ingat dia bergantung kepada menteri masing-masing lah sebab ada menteri dia duduk dalam lembaga pengarah kan.
+[87:07] Host: Jadi saya pernah duduk di apa ni lokap Dang Wangi lah, di bilik mesyuarat dia, dan selalulah dulu-dulu memang yang kena menguruskan tangkap aku tu ialah OCPD Dang Wangi lah.
 
-[07:31] Speaker 1: Jadi kalau lembaga pengarah GLC contohnya, semua tu, dan dia ada lah, ah yuran sebagai lembaga pengarahlah, elaun mesyuarat dan sebagainya lah.
+[87:23] Host: Orang yang sama?
 
-[07:41] Speaker 1: Sebab tu kalau campur campur campur mungkin lah, kemudian kalau contohnya menteri besar kan, menteri besar kerajaan negeri ada perbadanan kemajuan ekonomi negerilah, kemudian ada anak syarikatlah, ada semua jadi kalau dia duduk sebagai pengerusi lembaga pengarah setiap satu tu, campur campur campur yang itu 10 yang ini lima semua tu yang boleh sampai 100,000 lebih lah.
+[87:24] Host: Kenal?
 
-[08:06] Speaker 1: Kemudian kalau ahli parlimen sebab dia boleh claim cuma saya tak pernah claim lah.
+[87:25] Host: Eh tak, dia bertukar-tukar lah.
 
-[08:12] Speaker 1: Semua hidup kan? Sekarang ni aku miskin jadi aku nak kena claim lah agaknya kan. Tapi ah ah, ada ahli parlimen yang perjalanan dia itu claim, hotel semua, dia ada syarat-syarat dia lah kan.
+[87:28] Host: Bertukar-tukar, okey saja.
 
-[08:27] Speaker 1: Jadi kalau yang di luar KL tu, um, dia boleh sampai 20,000, 15,000 sebulan claim lah. Jadi campur campur tu boleh lah dapat 40,000 lebih.
+[87:31] Host: Okey baik.
 
-[08:40] Speaker 1: Kalau dia pula ah ada lembaga pengarah pula dilantik kan dalam GLC ke statutorial body, dan dia ada elaun-elaun lain lah. Tapi saya memang ini jelah.
+[87:32] Host: Cuma yelah saya rasa semua faham dan dah tahu aware.
 
-[08:53] Speaker 1: Baik baik baik baik baik dan kalau YB masih stay dekat private, macam mana YB tengok?
+[87:38] Host: Cuma kenyataan daripada PAS YB melalui ketua penerangan dia ya yang menyatakan bahawa sepatutnya ditunggu dululah, sebab kita tengok beberapa penduduk ni dah membuat rayuan di mahkamah, dan akan didengar pada bulan Oktober.
 
-[08:58] Speaker 2: Dah itu yalah ini yang orang kata, Mat Salleh kata dichotomy lah kan, aku je yang suka pakai perkataan dichotomy kan.
+[87:56] Host: Jadi kenapa masih lagi nak ambush ataupun masih nak berkeras nak buat juga YB?
 
-[09:07] Speaker 2: Maksudnya dia ada dia lebih rumit dilemanya lah kerana kalau nak dibandingkan gaji seorang menteri gaji bersih 29,000, kalau di sektor swasta 29,000 ni saya ingat, yalah kalau GLC semua tu, itu senior manager lah kan, dia tak sampai general manager apatah lagi CEO kan sebab gaji CEO selalunya 70,000 ke atas kan.
+[88:03] Host: Dan saya rasa, mungkin kena jawahlah dan sebab benda ni dah start dimainkan.
 
-[09:36] Speaker 1: Jadi memang ini jadi polemik kerana bukan sahaja menterilah, tetapi juga contohnya ketua setiausaha kementerian.
+[88:10] Rafizi: Saya tak tahu status apa nama ni di mahkamah lah kan, tapi ini juga kena faham pemahaman sayalah, kenapa pihak polis perlu melaksanakannya dan pihak berkuasa perlu melaksanakannya. Ialah memang kerana ada arahan mahkamah, kan. Dan arahan mahkamah ini berbeza-beza, contohnya kan dalam kes-kes tertentu, contohnya kalau saman, eh, dan walaupun contohnya kalau plaintif dan defendan dalam satu saman, dan plaintif itu menang, dan mahkamah memberi mengarahkan bayaran dibuat oleh defendan kepada plaintif kan, walaupun defendan ada hak untuk merayu di mahkamah yang lebih atas, tapi selalunya pembayaran itu mesti dibuat dahulu. Ah, jadi kemudian kalau defendan menang di mahkamah yang lebih tinggi, plaintif kena bayar baliklah dengan interest dan sebagainya kan. Jadi saya sebenarnya tak tahu status kes mahkamah ini, tapi ada kemungkinan walaupun proses itu dalam peringkat rayuan di kalangan penduduk, ada kemungkinan yang sebenarnya arahan itu telah diberikan oleh mahkamah untuk dikosongkan. Jadi, dia tidak adil kepada polis, sebab itu saya walaupun masuk lokap banyak kali dulu kan, saya tak pernah ada masalah dengan polis, dia hanya menjalankan tugas dia kan. Dan sebab tu polis pun aku rasa tak ada masalah masa saya kena tangkap semua kan, dia tak perlu, janganlah kita lihat pihak polis, dia bukan suka-suka nak pergi kacau rumah orang, dia perlu menguatkuasakan dan melaksanakan sesuatu perintah. Sebab soal Kampung Sungai Baru ni sejarahnya panjang. Dia dah bermula 10 tahun yang lepas, kemudian mengikut akta pengambilan tanah kan, compulsory land acquisition, sebenarnya arahan itu di diberi dalam tahun 2021 yang membenarkan dan yang mengambil tindakan untuk mengambil tanah ini mengikut proses undang-undang secara mandatory adalah kerajaan PN, yang semasa berada di yang PAS ada sebahagiannya kan. Jadi saya tak campur sangat kerana saya saya kira itu pandangan masing-masinglah. Dia soal ada penduduk yang bersetuju dengan pampasan, ada yang tak setuju dengan pampasan. Cuma saya ingat ialah malanglah apabila kalau anggota politik ni, orang-orang politik ni, dia ni kerja ambil kesempatan saja kan. Kalau saya jadi PAS dan Bersatulah, jadi PAS contohnya, saya malulah. Oke. Sebab yang ni berlaku semasa saya. Tiba-tiba dua tahun, tiga tahun kemudian bila kau dah tak jadi kerajaan, "Eh engkau pula jadi champion, Captain America," kan, jadi dekat situ. Jadi perkara ini dia dah sampai ke peringkat mahkamah, dan proses undang-undang itu telah berjalan kan. Jadi pihak polis, pihak berkuasa, hatta kerajaan pun sebenarnya tidak boleh melanggar apa nama ni arahan yang telah dibuat oleh mahkamah. Jadi saya pernah ada satu kes, dia bukanlah serupa, tapi dia ada parallel dialah di Pandan masa saya mula-mula jadi ahli parlimen dulu ni, 2014 macam itulah. Tanah itu tanah swasta milik syarikat. Heem, heem. Kemudian dia dijual kepada satu lagi pemaju yang lain. Pemaju yang lain itu nak buatlah, dia nak buat kondo besar kat situlah. Jadi penduduk di sekitar tu tak puas hatilah, dan apa nama ni sudah tentulah mereka nak suruh ahli parlimen hentikan, kerajaan hentikan, dan sebagainyalah. Jadi saya berterus-terang kepada penduduk-penduduk walaupun saya mungkin hilang undi, bahawa mengikut undang-undang, tanah itu adalah milik pemaju. Dan kalau contohnya kerajaan negeri ataupun pihak berkuasa tempatan tidak membenarkan walaupun dia telah mematuhi syarat-syarat, maka kerajaan negeri boleh disaman. Dan bila kerajaan negeri disaman dan kalah, kerana melanggar undang-undang, kerana itu tanah peribadi, tanah swasta tapi you tak nak bagi kerana bantahan penduduk kan, kemudiannya kerajaan negeri kena bayar kepada pemaju tu. Jadi yang bayar ni siapa? Penduduk juga. Jadi bila, bila apa nama ni, kerajaan negeri atau pihak berkuasa tempatan kena bayar, duit tak ada, kemudian dia buat apa? Dia naikkan cukailah. Akhirnya balik kepada penduduk juga. Jadi yang saya buat dahulu lah ialah saya letakkan ini adalah syarat-syarat untuk jalan tengah. Pemaju nak buat tanah you betul, tapi bila you buat ini akan ada kesan kepada penduduk tempatan. Jadi untuk mengurangkan kesan kepada penduduk tempatan, ini perkara-perkara yang perlu dibuat, satu, dua, tiga, empat. Pemaju bersetuju, ada yang dibuat, ada yang dia tak buatlah, tapi dia bersetuju sebahagiannya, dan penduduk jadi peranan ahli politik ni pada pandangan sayalah, wakil rakyat dan sebagainya kan, kita jangan jadi populist semata-mata. Kerana ada undang-undang. Dan dalam kes ini, apabila keputusan arahan itu telah dibuat oleh mahkamah kan, kalau kerajaan tak laksanakan, kerajaan kena saman. Bila kena saman, rakyat juga, dan sebab itu sebaik-baiknyalah untuk mengelakkan masalah sebelum dia sampai ke mahkamah, sebelum arahan untuk ambil alih tanah itu telah dikeluarkan oleh mahkamah, itu peranan dan fungsi utama ahli parlimen masa itu. Ahli parlimen kat sini masa tu siapa? Bersatu. Hm, hm. Rina. Rina. Kerajaan masa itu siapa? PAS dan Bersatu. Jadi sepatutnya yang berlaku di Kampung Sungai Baru ni kita tolak tepi sentimen rakyat rasa sebab susah, yang kita tak duduk kat situ, perasaan kita tu tolak tepi. Tapi maksudnya, yang gagal adalah Perikatan Nasional kerana this happens right under their nose, they could not or did not do enough to negotiate a better term, dan akhirnya bila sudah sampai ke peringkat kan. Jadi kalau kita nak trace, trace, trace balik contohnya, "Ah siapa yang mula-mula?" Nanti lagi parahlah ni, kerajaan UMNO dulu, kan UMNO yang buat, bersambung dengan PN, semua gitu kan. Jadi, benda itu telah berlaku dan mengikut undang-undang kalau satu transaksi itu telah berlaku secara sah, then, you know, kecuali ada fraud, ada penipuan dan sebagainylah kan. Jadi akhirnya yang jadi mangsa adalah abang polis, kan.
 
-[09:43] Speaker 1: Bidang skop tanggungjawab dia tu meliputi satu negara dan juga sektor yang besar kan.
+[93:29] Host: Baik YB, satu lagi soalan susulan daripada kenyataan daripada PAS juga.
 
-[09:51] Speaker 1: Tapi gaji dia macam itulah 29,000.
+[93:38] Host: Ini sebenarnya adalah teaser untuk ura yang akan diluluskan oleh kerajaan Madani nanti.
 
-[09:56] Speaker 2: KSU kan 29,000 macam itu kan, kecuali KSU dia duduk dalam dalam sit yang board yang berlainan tu dia pun dah adalah tambah-tambah.
+[93:49] Rafizi: Itu tak bertanggungjawablah. Sebabnya begini saya rasa, katakanlah pilihan raya dua tahun daripada sekarang. Tiba-tiba PAS menang. Ko ingat PAS akan cakap benda yang sama je? Seperti mana dia flip, kan, Kampung Sungai Baru ni daripada dulu kerajaan dia yang luluskan, semua ni berlaku right under their nose, saya ingat URA pun macam tulah. Oh sekarang ni teaser gini, gini, gini, puf dia jadi kerajaan, ana berpuas hati. Kan, jadi dia dia akan jalan, jadi nasihat sayalah, sebenarnya semua ini ada undang-undang dan proses dia kan. Dan URA saya dah komen minggu lepas kan, ada keperluan untuk kita membangunkan semula bandar. Dan untuk kita tidak membangunkan semula bandar, dia tidak berlaku adil kepada penduduk-penduduk yang boleh mendapat manfaat. Tetapi ada banyak ruang-rowang yang perlu diperbaiki, dan ambillah masa untuk perbaiki. Tapi kalau PAS nak kata, "Inilah teaser apa nama ni untuk URA dan sebagainya," kan, saya ingat PAS janganlah bercakap lebih sangat dalam bab-bab gini, sebab dulu 10, 15 tahun lepas, PAS bolehlah pakai cakap lepas, sebab masa itu orang tak fikir dia boleh jadi kerajaan persekutuan. Dia cakap apa-apa orang tak peduli. Sekarang ini kerajaan bertukar tiap-tiap tiga empat tahun, dan kalau tiba-tiba kerajaan itu adalah kerajaan PAS, dan bila dia masuk dalam kerajaan, dia akan teruskan akta PSB ini kan. Jadi masa tu dia nak cakap apa? Kan, jadi lebih baik supaya parti-parti politik jangan menunggang, menunggang orang susah, menunggang penduduk Kampung Sungai Baru, kemudian sekarang nak menunggang siapa lagi kan semata-mata untuk menimbulkan sentimen dan api kemarahan itu kan. Jadi, rekodlah saya ingat kalau tengok rekod berkaitan dengan Kampung Sungai Baru ini, apa-apa yang PAS cakap pun, PAS kena jelaskan sebenarnya semasa kamu jadi kerajaan, apa yang kamu buat? Saya ingatlah saya ada orang tag saya dekat Twitter. Sebab PAS kan ada Lajnah Bandar, dia ada Lajnah kan. Saya belum sempat pergi check lah, tapi orang jodoh tag saya kata, "YB pergi semak balik kenyataan-kenyataan Lajnah Bandar apa nama ni PAS ni sebab sebelum ni dia orang yang jodoh sibuk sokong PSB ni." Sekarang tiba-tiba dia dah u-turn. Ha, kan. Jadi saya tak rasa itu soal teaser PSB dan sebagainya lah, dia macam saya kata sebab itu ambillah masa yang sebaiknya untuk kita tambah baik PSB akta PSB itu kerana yang paling penting ialah rundingan dan juga terma-terma yang pada peringkat awal. Yang itu yang paling penting, kan. Pastikan akta itu melindungi seberapa banyak hak apa nama ni penduduk supaya bila ia dilaksanakan dia tidaklah menimbulkan rasa tidak puas hati kerana penduduk mayoritasnya merasakan bahawa, "It's a fair deal, ia satu urus niaga yang adil dan bermanfaat kepada mereka," kan. Dan kalau PAS kata Kampung Sungai Baru ini adalah teaser kepada URA contohnya kan, orang boleh juga turn the table around, cakap sebab itulah perlukan URA. Sebab bila pembangunan semula dibuat tanpa akta yang khusus yang melindungi hak penduduk di situ, penyewa dan sebagainya, dia jadi macam ini lah. Jadi either way, kita tak boleh lari daripada satu fakta bahawa pembangunan semula bandar ini akan berlaku di beberapa tempat.
 
-[10:04] Speaker 2: Tapi kalau nak dibanding dengan gaji pokok.
+[97:18] Host: Baik, baik, baik, maaf PAS, anda dibakar malam ini.
 
-[10:07] Speaker 1: Hmm.
+[97:23] Host: Kita pergi ke segmen seterusnya YB, kita dah habis segmen keras, segmen keras.
 
-[10:08] Speaker 1: Maksudnya, ah seorang yang bertanggungjawab menjaga satu sektor yang begitu besar meliputi satu negara, gajinya itu hanyalah gaji ah pengurus kanan, senior manager kan. Jadi sebab itu orang di sektor swasta, dia tidak tertarik lah untuk menyertai politik ke semua ini kerana tidak ada imbuhan.
+[97:30] Host: Oh dah habis dah keras?
 
-[10:32] Speaker 1: Jadi ini dilema dalam masyarakat kerana ada satu pandangan kata kita perlu bayar gaji yang lebih tinggi kan, supaya menarik lebih ramai kononnya orang yang berkualiti lah masuk politik kan.
+[97:32] Host: Tak keraslah.
 
-[10:48] Speaker 1: Tapi walaupun kalau kita banding dengan sektor swasta, contoh gaji menteri ni 29,000 gaji bersih ni yalah rendah sebenarnya berbanding dengan sektor swasta, tapi kita tak boleh tengok semata-mata dengan parity sektor swasta begitulah kita juga kena tengok dengan parity contohnya gaji purata dan median gaji rakyat. Sebab median gaji rakyat ni dalam 3,000.
+[97:35] Host: Ini tak keraslah minggu ni.
 
-[11:15] Speaker 1: Jadi bagi kebanyakan rakyat, gaji menteri 30,000 tu dia rasa banyak lah kan. Jadi perkara ini akan terus jadi polemik dan juga dilema masyarakat kerana bila gaji yang begitu, um, satu ialah jenis orang yang sanggup ke depan untuk menyertai politik, mengambil jawatan, dengan risikonya tu mungkin tak ramailah professional professional tu.
+[97:38] Host: Tak keras eh?
 
-[11:46] Speaker 1: So sebab tu kalau kita tengok professional ni selalunya hanya lantikan senator.
+[97:40] Host: Ah tak beria, tak keras.
 
-[11:51] Speaker 1: Tak banyak lah yang ada jawatan korporat atau tak berpendapatan tinggi, kemudian meletak jawatan dan dan dan berkecimpung dalam politik kerana rugi banyak kan.
+[97:43] Host: Jadi saudara-saudari, minta tolong cadangkan yang keras juga.
 
-[12:04] Speaker 1: Ah dan ada juga yang kata sebab itulah apa nama ni ahli politik terdedah kepada rasuah kan tapi saya tak tahu yang lain lah itu terpulang kepada niat masing-masing lah.
+[97:48] Host: Dan kita ada satu, isu dunialah eh, dunia punya hal.
 
-[12:15] Speaker 1: Saya ingat politik ni ialah calling.
+[97:54] Host: YB,
 
-[12:19] Speaker 1: Hmm.
+[97:58] Host: Rakyat Malaysia sekarang ni hebat, segala jenis benda kat dunia pun dia ambil tahu kan, tapi dulu masa aku kecil-kecil, antara berita yang aku paling sukalah kan, ni berita RTM, RTM ada dua berita.
 
-[12:19] Speaker 1: Ah, maksudnya, ah, kalau kita nak ke depan, maksudnya imbuhan itu bukan semata-mata daripada wang lah.
+[98:18] Host: Satu berita perdana pukul 8, satu berita dunia kan, pukul 10 malam, yang selalu baca dulu Rahajid Singh Halon.
 
-[12:29] Speaker 1: Kan? Ah jadi sebab tu, kalau dalam pemilihan parti kan, orang macam saya, tak ada lah peluang untuk bermewah-mewah macam orang lain dulu, ah selain daripada saya tak bersetuju bermewah-mewah dengan hotel, you know, bagi tudung ke apa semua ni kan.
+[98:31] Host: Kau orang tak tahu, dahlah kan.
 
-[12:47] Speaker 1: Satu sebabnya, memang aku tak ada duit lah kan sebab itu jelah yang kita dapat kan, jadi ah selagi kita tidak membersihkan budaya politik kita, yang mana dan ini sebenarnya bukan dia dia dia bukan ah bergantung kepada pimpinan atas sahaja lah, dia bergantung juga kepada orang bawah juga lah. Jangan bergantung kepada pimpinan atas hulur duit semua. Kalau tidak tekanan untuk ada poket yang yang tebal tu akan berterusan lah dan kitaran itu akan terus berterusan.
+[98:36] Host: Actually aku lagi suka tengok berita dunia dulu.
 
-[13:22] Speaker 1: Hmm hmm. Hmm baik baik YB. So dah tengok dah semua?
+[98:40] Host: Menarik, menarik.
 
-[13:25] Speaker 1: Ah, puas.
+[98:42] Host: So YB, Arif.
 
-[13:27] Speaker 1: Puas hati kau orang dapat tengok slip gaji menteri dan ahli parlimen.
+[98:45] Host: Tak adalah arif, tapi maksudnya memang orang Malaysia ni suka ambil tahu benda tepi kain negara lain.
 
-[13:31] Speaker 1: Ini bukan kali pertama lah kau orang.
+[98:53] Host: Okey baik YB, yang pertama sekali.
 
-[13:32] Speaker 1: Kali pertama lah kut untuk menteri dapat slip gaji menteri.
+[98:58] Host: Baru saja minggu lepas kita tengok Indonesia, yang baru-baru ini minggu ini kita ada daripada Nepal pula, tapi yang menggerakkan tu gen Z lah.
 
-[13:36] Speaker 1: Okey.
+[99:12] Host: Somehow komen-komen rakyat Malaysia ni tengok apa komen rakyat Malaysia?
 
-[13:37] Speaker 1: Ha, habis hutang?
+[99:18] Host: Yalah ada trend, jadi apa jadi kat hegemoni dunia ni sebenarnya YB?
 
-[13:38] Speaker 1: Habis hutang? Okey.
+[99:26] Host: Daripada perubahan dia jadi macam ni sekali.
 
-[13:39] Speaker 1: Ah, kita teruskan kepada segmen yang sebenar lah iaitu.
+[99:32] Rafizi: Yalah, saya dah sebut sebelum ini kan, bahawa ada perbezaan di antara pertumbuhan ekonomi negara dengan keseimbangan bagaimana laba daripada pertumbuhan ekonomi tu diagihkan. Saya ingat Nepal lagi teruk daripada Indonesia kan, dan dari segi makro ekonominya memang Nepal lagi teruklah kan. Dan dia dicetuskan bila kerajaan, dia memang ada awalnya demonstrasi anak-anak muda ni yang memprotes mengenai rasuah dan sebagainya kan, tapi dia meletus menjadi ganas itu bila kerajaan mengharamkan media sosial, Facebook dan yang lain. Kemudian dia jadi macam ini lah kan. Jadi soal hegemoni dunia dan sebagainya tu, dia sebenarnya saya ingat adalah simtom-simtom yang mana sistem kapitalis 100% yang ada ni, dia dah mula menampakkan keretakan. So di 100 tahun yang dululah kan, bermula dengan Bolshevik 1917 kan, dan 50 tahun sebelum Bolshevik itu memang ada pertembungan ideologi kan, oleh kerana revolusi industri maka pekerja-pekerja ditekan, masa zaman abad ke-19, akhir abad ke-19 kan, kanak-kanak pun kerja kat kilang, tak ada rumah, perempuan semua kerja teruk kan. Dari situlah timbulnya dua pertembungan ideologi, satu yang berbentuk sosialis dan komunis lah, dan more extreme is komunis lah. Bagi mereka yang tak tahu komunis tu apa, komunis tu bukan simpan, kalau ikut PAS komunis ni sepupu-sepupu sepupu-sepapat China semua kan. Komunis ni asalnya idenya begini, harta perlu dimiliki negarakan. Kerana kekayaan peribadi itu tidak dibenarkan, jadi harta semua dimiliki negarakan sebab itu nama komun, komun tu maksudnya komuniti. Jadi komunist, komunism ni maksudnya ialah mengkomunitikan negara supaya ada apa nama ni harta semua dimiliki negarakan dan kemudian orang bekerja jadi harta itu dikongsi bersamalah. Itu pada satu sisi kan, dan satu lagi sisi ialah pure capitalist lah. Maksudnya golongan pemodal ini dia mempunyai modal, dia buat business dan sebagainya kan. Of course sosialis lies in the middle kan, jadi masa zaman Bolshevik dunia ni ada harapanlah melihat kepada sistem komunis. Mungkin sistem komunis ni adalah sistem yang lebih adil kepada rakyatlah berbanding dengan sistem kapitalis. Tapi menjelang tahun pertengahan 50-an, 60-an nampak bahawa ada kelompongan dan masalah, terutamanya yang berlaku di Soviet dan di Eropah Timur, dan juga yang berlaku di China di bawah Mao Tse Tung, maksudnya sistem komunis itu tidak berjaya untuk menandingi kesejahteraan yang dibawa kepada rakyat melalui sistem kapital kan. Dan sebab itu daripada 60-an, 70-an sampai sekaranglah sebenarnya dunia ini by and large hanya ada satu sistem, iaitu sistem kapitalis. Dia tak ada dah sistem yang bukan kapitalis di dunia ni kan, terutama bila China lewat 70-an di bawah Deng Xiaoping nama saja komunis tapi sistemnya itu adalah sosialis kapitalis lah, atau kapitalis sebenarnya kan. Jadi, kita dah ada 100 tahun sistem yang berasaskan kepada kapitalis, kapitalisme yang tidak dicabar langsung. Jadi, sepertimana pusingan kitaran pertama yang membawa kepada industrial revolution dan itu di bawah sistem kapitalis, selepas 100 tahun kita mula ada keretakan-keretakan itulah. Keretakan-keretakan itu satunya ialah kerana dilihat dan yang ini yang salah orang elit dalam masyarakat yang sebahagian besarnya adalah orang politik kan, jadi kalau di negara seperti Eropah, benda itu pun sedang berlaku tapi dia tidaklah sampai ke peringkat macam di Nepal. Dan kalau di Eropah itu, dia juga dibayangi oleh isu perkauman. Kerana anak muda yang yang berhaluan kanan ini yang sebenarnya tidak puas hati, dia lebih mudah untuk ahli politik membakar sentimen anti-imigran atas dasar orang asing ini datang ke negara kita dan mengambil kerja kita. Padahal kebanyakan orang asing yang yang datang tu sebab kerja tu orang lain tak nak buat, dia buatlah kan. Jadi itulah yang berlaku sampai jadi Brexit, sampai di Eropah Timur kan. Tapi kalau di Indonesia, kemudian sekarang ni di Nepal, dia adalah sebab kesenjangan perbezaan di antara yang kaya dengan yang miskin itu adalah terlalu besar. Kemudian bila orang tengok, ahli politik tiba-tiba jadi kaya-raya, anak jadi kaya-raya dan dalam kes Nepal ini lagi unik. Kerana seingat sayalah, kerajaan ini adalah kerajaan komunis, kerajaan parti komunis. Jadi Nepal sebelum ini adalah sistem monarki, kemudian saya ingat tahun bila, 2004, 2008 macam itulah mereka menukar dan tidak lagi ada sistem monarki. Dan semasa sistem monarki dulu, yang jadi tukang bakar untuk demonstrasi ni geng-geng yang perdana menteri nilah, parti komunis nilah kan. Jadi mereka berjuang selama lama untuk menukar daripada sistem monarki kepada sistem demokrasi yang akhirnya mereka menjadi kumpulan paling besar dan sejak 2008 begitu, saya rasa kerajaan yang bertukar pun semua antara komunis atau maois, lebih kurang komunis, maois macam itulah berkeliling di kalangan mereka kan. Jadi bayangkan kalau kita jadi rakyat Nepal eh, dan Nepal hanya menjadi demokrasi ni tak sampai 20 tahun pun. Lebih kurang begitulah 20 tahun kan, tak lama tahu 20 tahun ni kan. Jadi rakyat sebelum ini merasakan bahawa dengan adanya perubahan ini dan parti komunis ini masuk, maka keadaan akan lebih baik, iyalah because is communist, maksudnya kekayaan negara ini akan diberikan sama rata, jadi-jadi macam ini. Jadi dimensi yang Nepal ni lebih menarik sebenarnya kerana bukan saja ia soal perbezaan ataupun kesenjangan di antara elit dengan rakyat biasa, dan keretakan sistem kapitalis itu yang yang sekarang ini oleh yang menghasilkan perbezaan itu, yang itu berlaku di seluruh dunia, bukan saja di Nepal, di Indonesia, di Malaysia, di Nepal, di Eropah semua sedang berlakulah kan. Tapi yang uniknya ialah kerana di Nepal ini ialah parti ini parti komunis yang menuntut demokrasi dan menjanjikan perubahan sebelum ini, tetapi selepas 20 tahun yang kaya mereka. Itu bagi saya adalah perbezaan utama yang menyebabkan kemarahan sedemikian rupalah kan. Jadi, itu ingatan juga kepada ahli-ahli politik di Malaysia, kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, ha PAS sebelum ni kan, selepas ni kan, kalau rakyat ini kalau ditekan dan dia sampai ke satu peringkat yang perubahan itu tidak datang dan lebih teruk lagi, eh kamu pula menggantikannya, dia jadi macam animal farm. George Orwell. Kau baca tak George Orwell, Animal Farm? Mesti tak. Baik, saya baca. George Orwell, Animal Farm kan. Animal Farm ni dia cerita pasal pasal binatang dengan manusia. So, masa manusia menjadi tuan, kan binatang ni duk dalam kandang, jadi binatang ni rasa tak puas hatilah kerana mereka dilayan sedemikian rupa, kena sembelihlah semua untuk jadi makanan semua kan. Jadi adalah satu kumpulan, kumpulan ni babilah, jadi mereka pun berjanji dan berkempen, kita mesti buang manusia, supaya kita mentadbir sesama kita, jadi tak ada tuan kita dalam rumah tu, maka lepas ni hidup kita lebih baik. Jadi, binatang-binatang semua ni memberontaklah. Maka akhirnya, tuan rumah tu pun larilah, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi dia yang duduk dalam rumah tu. Dia jadi tuan, dia pula jadi bos kan. Jadi kalau dalam, yalah dalam falsafah politik dan mereka yang yang yalah yang tahu tentang satira politik ni Animal Farm yang ditulis oleh George Orwell, dia samalah keadaannya kalau macam di Nepal, parti-parti ni, pimpinan ni dulu dia yang menjanjikan kita kena buang sistem monarki, gini, gini, gini, keadaan hidup lebih baik, tengok-tengok, parti komunis buat macam ini. Sebab itu aku kata power corrupts, absolute power corrupts absolutely.
 
-[13:43] Speaker 1: Beria.
+[107:44] Host: Baik YB, ada orang Nepal kat Malaysia yang faham bahasa Melayu yang tengok podcast tak?
 
-[13:44] Speaker 1: Ha jadi Beria ni YB selain beria YB panggil poyo lah sebenarnya.
+[107:54] Host: Harap-harap ada.
 
-[13:48] Speaker 1: Ha.
+[107:57] Host: Harap-harap adalah kan.
 
-[13:48] Speaker 2: Yalah zaman-zaman 10, 15 tahun dulu, ah saya kan selalu coach budak-budak sekolah, kan coach debat lah, coach itu.
+[108:00] Host: Okey YB, kita ada satu lagi isu isu dunia.
 
-[13:57] Speaker 2: Masa tu mula-mula aku pun tak faham poyo-poyo ni kan.
+[108:08] Host: Isu dunia.
 
-[14:00] Speaker 1: Jadi aku masa lagi stuck.
+[108:10] Host: Yeah.
 
-[14:03] Speaker 1: Sangkut dengan zaman itu, pemahaman saya beria mat ni, kira poyo lah kut.
+[108:14] Host: Yalah isunya adalah ya Calker ya.
 
-[14:09] Speaker 1: Ha poyo lah.
+[108:35] Host: Um, jadi saya rasa Rasanya baik kau tak tunjuk video, because video dia tu quite horror kan.
 
-[14:11] Speaker 2: Hmm. Okey.
+[108:55] Host: Ya ya ya.
 
-[14:12] Speaker 1: Okey YB dah bersedia? Macam biasa lah, kita bagi gambar dan YB explain.
+[108:57] Host: Cuma sebagai rakyat Malaysia yang waras dan bertanggungjawab, sebenarnya ramai tertanya-tanya, apa pendirian yang sepatutnya kita ambil?
 
-[14:15] Speaker 1: Okey, baik.
+[109:07] Host: Berkaitan dengan apa yang berlaku kepada mendiang sebenarnya?
 
-[14:16] Speaker 1: Yang pertama,
+[109:12] Host: Kita perlu ambil pendirian ke?
 
-[14:20] Speaker 1: Calon PM ke-11 Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa. Ah yang ini yang yang mana perhimpunan Agung tahunan Bersatu baru nilah ada jerit-menjerit, ada SD.
+[109:15] Host: I mean how how yelah mungkin kalau dia ni pro, apa tak pro Palestin.
 
-[14:35] Speaker 1: Dan akhirnya.
+[109:21] Host: Dia bukan saja tak pro Palestin, dia ni rabid racist.
 
-[14:36] Speaker 1: Akhirnya resolusi supaya Tan Sri Muhyiddin kekal menjadi calon PM. Cuma bab tu aku tak puas hati lah kalau kata Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa.
+[109:28] Host: Yes, tapi dia dibunuh dengan macam tulah, macam quite dilemalah YB.
 
-[14:48] Speaker 1: Sebab dia bermula dengan SD Tebuk Atap.
+[109:36] Host: Macam mana kita nak apa, moral kompas kita?
 
-[14:50] Speaker 1: Lepas tu dia gantung parlimen darurat. Lepas tu kita semua tak boleh keluar rumah, kan. Ah jadi tak betul lah. Cuma.
+[109:41] Rafizi: Well, saya rasa kita ada banyak masalah di Malaysia. Untuk kita, saya rasa yalah, soal Charlie Hebdo semua ni, I mean as a person, saya tak rasa Charlie Hebdo ni ada pengaruh ataupun kesan kepada Malaysialah kan, tapi sebagai seorang Islam kan, dan kalau kita progresif yang duduk di Malaysia, dari segi ucapan pendirian dan kasarnya dia tu, saya fahamlah kalau ada sentimen yang sangat membenci Charlie Hebdo ni, bukan saja di Malaysia tapi di Amerika dan di tempat-tempat lain jugalah. Tapi pada masa yang samalah, saya tak rasa sesiapa pun hatta orang itu orang yang paling teruk pun, kita boleh menyokong keganasan. Jadi dunia ini tidak pernah ditukar atau bertukar dengan keganasan. Dunia bertukar dengan idea kan, dan kalaupun ada negara yang pergi perang kan, yang menggerakkan perang itu ialah kerana idea, dan saya ingat perkara itu perlu dipertahankan. Cuma, saya selalunya lebih sukalah bila berlaku peristiwa macam ini, kita tak campur hal orang. Tapi kita perlu muhasabah dan kita kena ambil ironiknya keadaan yang berlaku kan, jadi ambil contoh Charlie Hebdo lah kan, saya rasa pendirian dia semua itu dia ada audiens dialah kan, tapi bila pendirian itu extreme, dan maka sementara akan ada sokongan yang extreme kepada dia, pada masa yang sama akan juga ada tentangan yang extremelah. Jadi sebab itu cabaran untuk ahli politik ialah walaupun susah untuk kita menjadi populer ataupun untuk mendapat sokongan yang yang walak betul-betul kalau kita ambil jalan tengah, tapi cabarannya di masyarakat utamanya macam masyarakat Malaysia yang berbilang kaum, kita memang kena cuba sedaya upaya untuk membawa masyarakat itu ke medan yang tengah. Kerana medan yang extreme ini, sama ada extreme kanan, extreme kiri kan, dia sebenarnya tidak ada penyelesaian yang baik kepada negara. Dan itu saya ingat yang yang rakyat Malaysia perlu muhasabahlah. Tak payahlah sangat duk sibuk pasal Charlie Hebdo ni, kau bukan pernah tengok Charlie Hebdo pun. Kalaulah perkara ini tidak berlaku, aku tak rasalah rakyat Malaysia ambil tahu pasal Charlie Hebdo ni kan.
 
-[14:59] Speaker 1: Yalah, beria pakai merah.
+[112:35] Host: Okey, baby.
 
-[15:03] Speaker 1: Cantik baju Melayu dia kan.
+[112:36] Host: Panjang soalan tahu.
 
-[15:06] Speaker 1: Ah.
+[112:43] Host: Ah.
 
-[15:08] Speaker 1: Ah yalah dia, dilema ini sama lah macam saya ingat cuma masa Pakatan Harapan dari pembangkang dulu dia agak agak selesa sikit kerana tidak ada begitu banyak percanggahan mengenai calon Perdana Menteri kan.
+[112:48] Host: Daripada.
 
-[15:26] Speaker 1: Jadi dalam persatu sekarang ni pergolakan itu nampaknya.
+[112:54] Host: Carey.
 
-[15:31] Speaker 1: Yalah nampaknya pergolakan yang besar kerana,
+[112:59] Host: Adakah YB setuju dengan idea sekolah aliran tunggal dari darjah satu hingga tingkatan lima, tanpa SRJK, sekolah antarabangsa, agama atau tahfiz?
 
-[15:36] Speaker 1: ah kalau laporan berita sudah ada 120 SD. Aku cuma tu nanti akan ada lagi.
+[113:30] Host: Di mana semua wajib melalui sekolah kebangsaan dan menduduki SPM atau STPM untuk ke universiti?
 
-[15:43] Speaker 1: Oh ada lagi.
+[113:51] Host: Tanpa SRJK.
 
-[15:45] Speaker 1: Ah ya Beria.
+[113:53] Host: Sekolah antarabangsa, agama atau tahfiz, di mana semua wajib melalui sekolah kebangsaan dan menduduki SPM atau STPM untuk ke universiti.
 
-[15:46] Speaker 1: Beria.
+[114:09] Host: Saya dah sebut dan secara konsisten tahu daripada saya muda sampai sekarang, saya tak setuju.
 
-[15:47] Speaker 1: Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan ah apa ni Datuk Seri Hamzah Zainudin beria gelak. Azmin dia macam dalam hati, cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni sebab satu Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan, tapi beria dia gelak depan orang.
+[114:21] Host: Hmm.
 
-[15:59] Speaker 1: Okey.
+[114:24] Host: Hmm.
 
-[16:00] Speaker 1: Okey, okey baik. Seterusnya.
+[114:26] Host: Sebab soalan ni tak pernah ditanya kan, pasal rumah semua ni kan.
 
-[16:13] Speaker 1: Okey.
+[114:31] Host: Baik.
 
-[16:16] Speaker 1: Hmm beria.
+[114:32] Host: Hmm.
 
-[16:17] Speaker 1: Hmm PAS sedia kerjasama dengan semua parti kecuali maksudnya kecuali DAP lah.
+[114:33] Host: Ke, soalan yang seterusnya.
 
-[16:22] Speaker 1: Kecuali DAP.
+[114:36] Host: Ada lagi ya?
 
-[16:23] Speaker 1: Menjalin kerjasama dengan PKR dan UMNO.
+[114:38] Host: Azam.
 
-[16:26] Speaker 1: Ah betul lah dia nak balik berkuasa.
+[114:41] Host: Mengapa begitu ramai tenaga kerja berbakat Malaysia memilih untuk berhijrah ke luar negara dan apakah langkah konkrit kerajaan untuk menarik mereka kembali menyumbang di tanah air?
 
-[16:29] Speaker 1: Asalkan dapat jadi menteri balik. Kalau Ustaz Idris jadi menteri balik, happy lah dia.
+[115:30] Host: Perinduan.
 
-[16:36] Speaker 1: Hmm beria lah, memanglah kalau jadi dia beria-ria nak bekerjasama dengan semua lah kan.
+[115:32] Host: Aku tak tahulah sebab ini pilihan masing-masing.
 
-[16:41] Speaker 1: Hmm beria dan tergege.
+[115:39] Host: Mhm.
 
-[16:42] Speaker 1: Okey.
+[115:42] Host: Kan.
 
-[16:43] Speaker 1: Ah seterusnya.
+[115:45] Host: Saya dulu adalah pilihan ini.
 
-[16:49] Speaker 1: Alamat sikit. Hmm.
+[115:49] Host: Maksudnya saya habis belajar, kemudian saya kerja duk kat London.
 
-[16:50] Speaker 1: Ini Sid, YB. YB kenal Sid?
+[115:58] Host: Glamor duk kat London kan.
 
-[16:52] Speaker 1: Ah.
+[116:03] Host: Keluar kerja pagi-pagi pasal pakai overcoat, naik tube semua kan.
 
-[16:53] Speaker 1: Tak ada, aku tak kenal. Aku ingat dia satu je sebab dulu dia sembang kencang. Lepas tu aku pun jemput dia ke podcast YBM lah.
+[116:11] Host: I can only speak for myself lah.
 
-[17:01] Speaker 1: Oh pernah dijemput.
+[116:16] Host: Contohnya.
 
-[17:02] Speaker 1: Lepas tu segala jenis alasan dia beri. Siapa dia ni?
+[116:19] Host: Ah, saya balik kerana.
 
-[17:06] Speaker 1: Dia ni dulu ah AJK Bersatu Putrajaya. Sampai sekarang lah tak silap saya.
+[116:26] Host: Mak dan ayah.
 
-[17:11] Speaker 1: Ah dan juga dulu pernah jadi PTTK Menteri Luar Negeri.
+[116:30] Host: Mhm.
 
-[17:15] Speaker 1: Oh I see.
+[116:31] Host: Ah, dia tak lama, tahu.
 
-[17:16] Speaker 1: Itu mereka berkuasa dulu lah.
+[116:38] Host: Tapi mungkin sekarang lain sikitlah, ada FaceTime lah, ada tu semua, tapi dia tak samalah.
 
-[17:17] Speaker 1: I see.
+[116:47] Host: Selepas tiga, empat tahun tu.
 
-[17:18] Speaker 1: Ha kan.
+[116:51] Host: Yalah kita adalah kawan-kawan kita duk kat London tu, rasa hebatlah kan, weekend keluar semua kan.
 
-[17:19] Speaker 1: Jadi dia cakap apa ni? Yalah apa saja yang PM jumpa semua akan jadi macam ini.
+[117:09] Host: Ah.
 
-[17:24] Speaker 1: Hmm.
+[117:15] Host: Tapi dia tak sama dengan sebab mak ayah, adik-beradik kita ada di sini kan.
 
-[17:25] Speaker 1: Beria lah kut.
+[117:23] Host: Mhm.
 
-[17:28] Speaker 1: Selebek lah dia ni.
+[117:24] Host: In the same way that I made that personal decision to come back kan, sebab you know, keluarga, mak ayah.
 
-[17:29] Speaker 1: Selebek.
+[117:42] Host: Saya rasa setiap keputusan yang dibuat oleh rakyat Malaysia itu yang berhijrah ke luar negara itu adalah keputusan peribadi.
 
-[17:30] Speaker 1: Tapi beria lah selebek.
+[117:59] Host: Kan, jadi.
 
-[17:31] Speaker 1: Badi. So kononnya ada Badi lah.
+[118:04] Host: Ah, dan.
 
-[17:33] Speaker 1: Kononnya ada Badi lah.
+[118:09] Host: Ini mungkin tak populare lah.
 
-[17:34] Speaker 1: Ah.
+[118:14] Host: Okey.
 
-[17:35] Speaker 1: Aku lagi bimbang kalau Badi dengan dia.
+[118:15] Host: Ah, pandangan aku kan.
 
-[17:37] Speaker 1: Ah kan.
+[118:19] Host: Aku banyak pandangan tak populare ni.
 
-[17:39] Speaker 1: Ah jadi apa nama dia jadi boleh je pusing. Apa nama ni, ah, ah siapa yang menteri ambil dia jadi jadi pegawai ke apa. Badi kalah tak jadi menteri. Lepas tu lah. Sebab Syaifuddin Abdullah dah tak jadi. Oh kena kat dia. Kena kat dia.
+[118:23] Host: Ini mungkin tak populare lah.
 
-[17:53] Speaker 1: So you can say the same lah.
+[118:28] Host: Aku rasa tak salah pun.
 
-[17:56] Speaker 1: Aduh.
+[118:32] Host: Oh.
 
-[17:57] Speaker 1: Hmm.
+[118:34] Host: Kan, orang kata, "Oh brain drain, matilah kita semua," ni kan.
 
-[17:57] Speaker 1: YB ready untuk kita jemput balik YB?
+[118:41] Host: I think contohnya.
 
-[17:59] Speaker 1: Siapa?
+[118:45] Host: Mhm.
 
-[18:00] Speaker 1: Tak payah. Buang masa lah Mama ni. Buang masa.
+[118:46] Host: Kalau kita berjaya melahirkan tenaga-tenaga kerja yang hebat yang keliling dunia semua ni kan, dan pertalian mereka dengan Malaysia itu adalah baik.
 
-[18:03] Speaker 1: Is that like.
+[119:07] Host: Itu mungkin.
 
-[18:03] Speaker 1: Aku tak rasa dia ada nilai lah. Ah, kan. Yang kau orang layan dia ni kenapa?
+[119:10] Host: Sesuatu perkara yang baik pun.
 
-[18:08] Speaker 1: Kan.
+[119:15] Host: Kalau kita tengok di India, contohnya kan.
 
-[18:09] Speaker 1: Baik kita takkan layan lagi.
+[119:20] Host: Kenapa dekat India tak ada masalah orang panggil brain drain?
 
-[18:11] Speaker 1: Okey next lah YB. Okey last sekali. Hmm.
+[119:24] Host: Mhm.
 
-[18:14] Speaker 1: Hmm.
+[119:25] Host: Tapi sebab ramai sangat kut.
 
-[18:16] Speaker 1: Tu dia.
+[119:27] Host: Aha, okey ya okey.
 
-[18:17] Speaker 1: Ah ini pengetua dan Fatlina tu sepupu. Ni geng-geng sepupu sepapat ni ni. Tak hairan lah mereka bersekongkol dalam kes ini. Pengetua tak ditahan baru tahu rupa-rupanya sepupu je.
+[119:30] Host: Tengok di India contohnya kan.
 
-[18:29] Speaker 1: Dia dua orang dua tu.
+[119:34] Host: Kalau tengok, banyak top eksekutif semua ni, banyak juga India diaspora yang berhijrah semua.
 
-[18:32] Speaker 1: Dua orang dua tu.
+[119:47] Host: CEO Microsoft pun ah apa nama ni India kan, contohnyalah kan.
 
-[18:32] Speaker 1: Pengetua orang Pulau Pinang, Mak Pengetua dan Mak Syifa tu adik beradik. Bererti.
+[119:59] Host: Google pun India.
 
-[18:37] Speaker 1: Dia orang dua sepupu je.
+[120:02] Host: Mhm.
 
-[18:38] Speaker 1: Sepupu je.
+[120:04] Host: Ah, tapi as you say, kenapa dia tidak disebut sebagai brain drain?
 
-[18:40] Speaker 1: Hmm. Tak hairanlah mereka bersekongkol.
+[120:12] Host: Kerana kemampuan sistem pendidikan mereka dan juga rakyat mereka yang ramai dan juga saiz ekonomi mereka yang di-disable tu, dia jadi dia tidak sampai menjadi kekangan kepada ekonomi mereka.
 
-[18:43] Speaker 1: Lepas tu kat bawah tu boleh tanya, ya ke sis? Hmm.
+[120:34] Host: Malah orang-orang ini menjadi penyumbang kepada by the way, pertalian itu dan sebagainya kan.
 
-[18:49] Speaker 1: Ah.
+[120:45] Host: Masalah kita, bagi saya ialah bukanlah semata-mata soal you know teruklah, dia orang ni nak berhijrah ke luar negara itu pilihan masing-masing.
 
-[18:52] Speaker 1: Yalah, beria dia fitnah orang lah kan. Saya, saya tak tahu detail dia lah tapi saya tak rasa lah, apa nama ni pengetua tu sepupu Fadlina kan.
+[121:07] Host: Tapi sebagai.
 
-[19:03] Speaker 1: Aku bukanlah tahu selok-belok keluarga Fadlina tapi saya tak rasa lah. Ini perangai yang pakai tembak aje. Fadlina dah buat laporan polis kut kan.
+[121:12] Host: Mhm.
 
-[19:13] Speaker 1: Ah jadi.
+[121:13] Host: Mhm.
 
-[19:14] Speaker 1: Dan ah dia pun dah tarik balik kenyataan tu.
+[121:15] Host: Mhm.
 
-[19:17] Speaker 1: Dia Oh dalam. Oh seronoklah tarik balik aje. Dia minta maaf lah.
+[121:16] Host: Mhm.
 
-[19:21] Speaker 1: Ah.
+[121:17] Host: Mhm.
 
-[19:22] Speaker 1: Tapi yang dia confident sangat kata sepupu sepapat ni, ini macam yang ahli parlimen kepala batas tu juga, sepupu-sepupu.
+[121:18] Host: Mhm.
 
-[19:28] Speaker 1: Dia kata dapat dari TikTok, dari live orang orang lain lah.
+[121:19] Host: Mhm.
 
-[19:32] Speaker 1: Hmm.
+[121:20] Host: Mhm.
 
-[19:33] Speaker 1: Kemudian bila dia check balik, dah delete. Jadi dia tak ada defense lah.
+[121:21] Host: Mhm.
 
-[19:36] Speaker 1: Ya.
+[121:22] Host: Mhm.
 
-[19:37] Speaker 1: Padahal bukan engkau ah. Pandai aje kan. Seronok kan. Ah lain kali, paling kurang lah walaupun orang kata apa nama ni um, um chat GPT ni kadang-kadang orang buat lawak kan.
+[121:23] Host: Mhm.
 
-[19:51] Speaker 1: Sebelum beria nak tulis komen, pergilah beria-ria chat dekat chat GPT dulu, tanya kan.
+[121:24] Host: Mhm.
 
-[19:58] Speaker 1: Ah, sebab paling kurang chat GPT tu dia boleh lah bagi gambaran kasar, lepas tu kena selidik lagi kan.
+[121:25] Host: Mhm.
 
-[20:05] Speaker 1: Betul.
+[121:26] Host: Mhm.
 
-[20:06] Speaker 1: Beria beria beria beria lah.
+[121:27] Host: Mhm.
 
-[20:07] Speaker 1: YB nak buat ranking ke? Ah boleh. Okey ranking apa dia?
+[121:28] Host: Mhm.
 
-[20:10] Speaker 1: Okey.
+[121:29] Host: Mhm.
 
-[20:11] Speaker 1: Okey.
+[121:30] Host: Mhm.
 
-[20:11] Speaker 1: Cuma tulah.
+[121:31] Host: Mhm.
 
-[20:13] Speaker 1: Eh tu tak ada lagi.
+[121:32] Host: Mhm.
 
-[20:14] Speaker 1: Ah, dari 1, 2, 3, 4 ni.
+[121:33] Host: Mhm.
 
-[20:16] Speaker 1: Ah, yalah, minggu ni macam hambar je Beria dia. Kau orang pilih yang hamba-hamba semua ni. Okey.
+[121:34] Host: Mhm.
 
-[20:23] Speaker 1: Inilah yang berlaku minggu ni, YB.
+[121:35] Host: Mhm.
 
-[20:25] Speaker 1: Hmm.
+[121:36] Host: Mhm.
 
-[20:26] Speaker 1: Yang ini aku bagi tiga lah sebab aku suka empat-empat orang kat depan dengan Razi Cidin kat tepi. Ah, beria dia orang gelak, sengih, jeling kan, ah.
+[121:37] Host: Mhm.
 
-[20:35] Speaker 1: Baik, baik.
+[121:38] Host: Mhm.
 
-[20:36] Speaker 1: Ini aku bagi tiga.
+[121:39] Host: Mhm.
 
-[20:37] Speaker 1: Tiga.
+[121:40] Host: Mhm.
 
-[20:38] Speaker 1: Hmm.
+[121:41] Host: Mhm.
 
-[20:39] Speaker 1: Hmm, bagi satu lah. It's like, kalau setakat beria-ria macam ni ni, tak tahulah.
+[121:42] Host: Mhm.
 
-[20:45] Speaker 1: Dia beria.
+[121:43] Host: Mhm.
 
-[20:46] Speaker 1: Beria, beria dia saja.
+[121:44] Host: Mhm.
 
-[20:47] Speaker 1: Hmm, satu. Okey baik.
+[121:45] Host: Mhm.
 
-[20:49] Speaker 1: Hmm.
+[121:46] Host: Mhm.
 
-[20:51] Speaker 1: Hamat sikit. Okey.
+[121:47] Host: Mhm.
 
-[20:53] Speaker 1: Yang ini pun aku bagi satu lah sebab tidak ada nilai untuk masuk podcast ini.
+[121:48] Host: Mhm.
 
-[20:59] Speaker 1: Hmm. Sebab maaf.
+[121:49] Host: Mhm.
 
-[21:01] Speaker 1: Macam mana ni?
+[121:50] Host: Mhm.
 
-[21:03] Speaker 1: Yang ini aku bagilah dua, sebab lain kali beria-ria macam ni kan dah kena ada laporan polis semua kan.
+[121:51] Host: Mhm.
 
-[21:10] Speaker 1: Dia, tapi identity dia tu dah orang kenal.
+[121:52] Host: Mhm.
 
-[21:13] Speaker 1: Kenal? Actually ada nama dia. Ada nama dia. Cuma kita ni lah sensor.
+[121:53] Host: Mhm.
 
-[21:16] Speaker 1: Hmm. Hmm.
+[121:54] Host: Mhm.
 
-[21:17] Speaker 1: Okey baik. Beria kita di situ.
+[121:55] Host: Mhm.
 
-[21:20] Speaker 1: Tapi Beria minggu ini adalah hambar.
+[121:56] Host: Mhm.
 
-[21:22] Speaker 1: Hambar. Jadi kita kena.
+[121:57] Host: Mhm.
 
-[21:24] Speaker 1: Kotak kerana dia orang sengih kat depan tadi tu gelak-gelak. Aku macam.
+[121:58] Host: Mhm.
 
-[21:27] Speaker 1: Jadi saya minta tolong rakan-rakan untuk cadangkan beria pada minggu depan nanti.
+[121:59] Host: Mhm.
 
-[21:31] Speaker 1: Hmm. Carilah yang betul-betul beria.
+[122:00] Host: Mhm.
 
-[21:33] Speaker 1: Baik YB.
+[122:01] Host: Mhm.
 
-[21:34] Speaker 1: Hmm. Kita teruskan.
+[122:02] Host: Mhm.
 
-[21:36] Speaker 1: Hmm.
+[122:03] Host: Mhm.
 
-[21:36] Speaker 1: Jadi segmen seterusnya adalah sama juga. Hidup keras dik.
+[122:04] Host: Mhm.
 
-[21:42] Speaker 1: Ah jadi mungkin banyak sikit lah sebab banyak benda keras yang berlaku pada minggu ni YB. Okey.
+[122:05] Host: Mhm.
 
-[21:46] Speaker 1: Ah, um jadi, yang pertama sudah pastilah macam saya cakap tadi tu. Ah, yang pertama bersatu. Bersatu bersatu yang bersatu bila tiba-tiba kita dikejutkan 120 ketua bahagian bersatu Geser Muhyiddin berundur. Adakah ini persediaan pilihan raya mereka seperti yang Azmin cakap tu YB?
+[122:06] Host: Mhm.
 
-[22:04] Speaker 1: Hmm, ini parti orang kan.
+[122:07] Host: Mhm.
 
-[22:06] Speaker 1: Hmm.
+[122:08] Host: Mhm.
 
-[22:09] Speaker 1: Sebenarnya kalau aku tu masih lagi Timbalan Presiden PKR, aku tak komen lah. Sebab parti. Tapi sekarang kita free agent.
+[122:09] Host: Mhm.
 
-[22:16] Speaker 1: Ah, boleh komen apa-apa kan.
+[122:10] Host: Mhm.
 
-[22:19] Speaker 1: Okey.
+[122:11] Host: Mhm.
 
-[22:20] Speaker 1: Um, yalah, dia dia sebenarnya um, kalau tengok 120 ketua bahagian tu, Bersatu sebenarnya ada 202 kan?
+[122:12] Host: Mhm.
 
-[22:35] Speaker 1: Um, 120 ni lebih daripada separuh. Ah jadi, saya faham lah yang buat um, sebut.
+[122:13] Host: Mhm.
 
-[22:45] Speaker 1: Sebut Bersatu terus bersin aku.
+[122:14] Host: Mhm.
 
-[22:50] Speaker 1: Ah. Ini apa ada orang Bersatu tengah sebut. Tolonglah jangan komen. Tolong terus bersin aku.
+[122:15] Host: Mhm.
 
-[22:56] Speaker 1: Dia maksudnya kalau lebih daripada separuh yang telah tanda tangan dan Geser berundur tu, Hmm.
+[122:16] Host: Mhm.
 
-[23:02] Speaker 1: um, saya faham lah niat mereka ialah akuan bersumpah tu maksudnya tidak lagi mendapat kepercayaan lah daripada 120 dari lebih daripada separuh bahagian tu lah. Mhm. Mhm.
+[122:17] Host: Mhm.
 
-[23:11] Speaker 1: Cukai pendapatan, ada quarters,
+[122:18] Host: Mhm.
 
-[23:14] Speaker 1: um, dan KPSB. YB ada KPSB? Tak tahulah apa tu.
+[122:19] Host: Mhm.
 
-[23:17] Speaker 1: Adakah KPSB? Dia tulis potongan KPSB. Yalah kut kalau dia ada potong kan dia lah tu.
+[122:20] Host: Mhm.
 
-[23:20] Speaker 1: Yalah, kau kalau dia ada potong kan, dia lah tu.
+[122:21] Host: Mhm.
 
-[23:22] Speaker 1: Eh ada pencen lagi. Ish ish tak ada lah. Tak tahulah ni apa kan.
+[122:22] Host: Mhm.
 
-[23:26] Speaker 1: Actually potongan KSP tu untuk apa? Sebab aku tak pernah tengok slip gaji ni.
+[122:23] Host: Mhm.
 
-[23:28] Speaker 1: Haa.
+[122:24] Host: Mhm.
 
-[23:29] Speaker 1: Kepada siapa yang tahu, mana-mana HR yang tahu, ah boleh komen sebab kami tak tahu.
+[122:25] Host: Mhm.
 
-[23:34] Speaker 1: Jadi kita ada 29,000 lah YB.
+[122:26] Host: Mhm.
 
-[23:36] Speaker 1: 29,000. Actually lepas ni kena check lah EPF aku.
+[122:27] Host: Mhm.
 
-[23:41] Speaker 1: Dapat dapat caruman ke tidak kan.
+[122:28] Host: Mhm.
 
-[23:44] Speaker 1: Ah itu menterilah maksudnya dia potong potong potong dia tinggal 29,000 dan menteri dia juga ahli parlimen jadi dia dapat gaji ahli parlimen.
+[122:29] Host: Mhm.
 
-[23:55] Speaker 1: Gaji ahli parlimen dengan slip gaji yang lain.
+[122:30] Host: Mhm.
 
-[23:57] Speaker 1: Dengan slip gaji yang lain lah.
+[122:31] Host: Mhm.
 
-[23:58] Speaker 1: Can we move next?
+[122:32] Host: Mhm.
 
-[23:59] Speaker 2: Yeah.
+[122:33] Host: Mhm.
 
-[23:59] Speaker 1: Okey baik.
+[122:34] Host: Mhm.
 
-[24:00] Speaker 1: Alright.
+[122:35] Host: Mhm.
 
-[24:02] Speaker 1: Ah itu slip gaji ahli parlimen, gaji pokok ahli parlimen sebenarnya 16,000.
+[122:36] Host: Mhm.
 
-[24:07] Speaker 1: Oleh kerana sebagai anggota pentadbiran menteri, elaun tu dapat elaun menteri ajelah.
+[122:37] Host: Mhm.
 
-[24:14] Speaker 1: Dia tak dapat elaun ahli parlimen semua.
+[122:38] Host: Mhm.
 
-[24:17] Speaker 1: Okey, jadi 16,000 tolak angkasa tu sebenarnya.
+[122:39] Host: Mhm.
 
-[24:20] Speaker 1: Ya.
+[122:40] Host: Mhm.
 
-[24:21] Speaker 1: Angkasa tu macam mana?
+[122:41] Host: Mhm.
 
-[24:22] Speaker 1: Potongan kepada parti.
+[122:42] Host: Mhm.
 
-[24:23] Speaker 1: But why teruang angkasa YB?
+[122:43] Host: Mhm.
 
-[24:25] Speaker 1: Sebab memang Angkasa ada yalah angkasa memang ada arrangement kan dengan kerajaan.
+[122:44] Host: Mhm.
 
-[24:32] Speaker 1: Ah kalau potongan pinjaman ke, koperasi ke semua dibuat melalui angkasa.
+[122:45] Host: Mhm.
 
-[24:38] Speaker 1: Aha.
+[122:46] Host: Mhm.
 
-[24:39] Speaker 1: Jadi saya ingat PKR memang ada konsep yang serupa dengan angkasa, angkasa tolak.
+[122:47] Host: Mhm.
 
-[24:44] Speaker 1: So dia tolak 8,000, aku dapat 7,600.
+[122:48] Host: Mhm.
 
-[24:48] Speaker 1: Jadi dia potong lagi banyak.
+[122:49] Host: Mhm.
 
-[24:49] Speaker 1: Dia. Sumbangan kepada parti itu 8,000 semua dapat 7,600. Jadi campur dua, tadi 29 campur tujuh, dapatlah dalam 35, 36,000 lah sebulan.
+[122:50] Host: Mhm.
 
-[25:02] Speaker 1: Hmm hmm. Baik baik baik.
+[122:51] Host: Mhm.
 
-[25:03] Speaker 1: Jadi dekat luar tu digemuk-gemukkan gaji menteri.
+[122:52] Host: Mhm.
 
-[25:07] Speaker 1: Mana ada digemuk-gemukkan, digemba-gemukkan.
+[122:53] Host: Mhm.
 
-[25:10] Speaker 1: Sorry, typo lagi.
+[122:54] Host: Mhm.
 
-[25:12] Speaker 1: Menteri-menteri ni kena dapat 60,000, ada sampai 100,000, tapi YB cabut aje ni.
+[122:55] Host: Mhm.
 
-[25:16] Speaker 1: Itulah aku rasa aku menteri paling cabut kut, kan.
+[122:56] Host: Mhm.
 
-[25:20] Speaker 1: Tak, yalah saya ingat dia bergantung kepada menteri masing-masing lah sebab ada menteri dia duduk dalam lembaga pengarah kan.
+[122:57] Host: Mhm.
 
-[25:28] Speaker 1: Jadi kalau lembaga pengarah GLC contohnya, semua tu, dan dia ada lah, ah yuran sebagai lembaga pengarahlah, elaun mesyuarat dan sebagainya lah.
+[122:58] Host: Mhm.
 
-[25:39] Speaker 1: Sebab tu kalau campur campur campur mungkin lah, kemudian kalau contohnya menteri besar kan, menteri besar kerajaan negeri ada perbadanan kemajuan ekonomi negerilah, kemudian ada anak syarikatlah, ada semua jadi kalau dia duduk sebagai pengerusi lembaga pengarah setiap satu tu, campur campur campur yang itu 10 yang ini lima semua tu yang boleh sampai 100,000 lebih lah.
+[122:59] Host: Mhm.
 
-[26:06] Speaker 1: Kemudian kalau ahli parlimen sebab dia boleh claim cuma saya tak pernah claim lah.
+[123:00] Host: Mhm.
 
-[26:12] Speaker 1: Semua hidup kan? Sekarang ni aku miskin jadi aku nak kena claim lah agaknya kan. Tapi ah ah, ada ahli parlimen yang perjalanan dia itu claim, hotel semua, dia ada syarat-syarat dia lah kan.
+[123:01] Host: Mhm.
 
-[26:27] Speaker 1: Jadi kalau yang di luar KL tu, um, dia boleh sampai 20,000, 15,000 sebulan claim lah. Jadi campur campur tu boleh lah dapat 40,000 lebih.
+[123:02] Host: Mhm.
 
-[26:40] Speaker 1: Kalau dia pula ah ada lembaga pengarah pula dilantik kan dalam GLC ke statutorial body, dan dia ada elaun-elaun lain lah. Tapi saya memang ini jelah.
+[123:03] Host: Mhm.
 
-[26:53] Speaker 1: Baik baik baik baik baik dan kalau YB masih stay dekat private, macam mana YB tengok?
+[123:04] Host: Mhm.
 
-[26:58] Speaker 1: Dah itu yalah ini yang orang kata, Mat Salleh kata dichotomy lah kan, aku je yang suka pakai perkataan dichotomy kan.
+[123:05] Host: Mhm.
 
-[27:07] Speaker 1: Maksudnya dia ada dia lebih rumit dilemanya lah kerana kalau nak dibandingkan gaji seorang menteri gaji bersih 29,000, kalau di sektor swasta 29,000 ni saya ingat, yalah kalau GLC semua tu, itu senior manager lah kan, dia tak sampai general manager apatah lagi CEO kan sebab gaji CEO selalunya 70,000 ke atas kan.
+[123:06] Host: Mhm.
 
-[27:36] Speaker 1: Jadi memang ini jadi polemik kerana bukan sahaja menterilah, tetapi juga contohnya ketua setiausaha kementerian.
+[123:07] Host: Mhm.
 
-[27:44] Speaker 1: Bidang skop tanggungjawab dia tu meliputi satu negara dan juga sektor yang besar kan.
+[123:08] Host: Mhm.
 
-[27:51] Speaker 1: Tapi gaji dia macam itulah 29,000.
+[123:09] Host: Mhm.
 
-[27:57] Speaker 1: KSU kan 29,000 macam itu kan, kecuali KSU dia duduk dalam dalam sit yang board yang berlainan tu dia pun dah adalah tambah-tambah.
+[123:10] Host: Mhm.
 
-[28:04] Speaker 1: Tapi kalau nak dibanding dengan gaji pokok.
+[123:11] Host: Mhm.
 
-[28:07] Speaker 1: Hmm.
+[123:12] Host: Mhm.
 
-[28:08] Speaker 1: Maksudnya, ah seorang yang bertanggungjawab menjaga satu sektor yang begitu besar meliputi satu negara, gajinya itu hanyalah gaji ah pengurus kanan, senior manager kan. Jadi sebab itu orang di sektor swasta, dia tidak tertarik lah untuk menyertai politik ke semua ini kerana tidak ada imbuhan.
+[123:13] Host: Mhm.
 
-[28:32] Speaker 1: Jadi ini dilema dalam masyarakat kerana ada satu pandangan kata kita perlu bayar gaji yang lebih tinggi kan, supaya menarik lebih ramai kononnya orang yang berkualiti lah masuk politik kan.
+[123:14] Host: Mhm.
 
-[28:48] Speaker 1: Tapi walaupun kalau kita banding dengan sektor swasta, contoh gaji menteri ni 29,000 gaji bersih ni yalah rendah sebenarnya berbanding dengan sektor swasta, tapi kita tak boleh tengok semata-mata dengan parity sektor swasta begitulah kita juga kena tengok dengan parity contohnya gaji purata dan median gaji rakyat. Sebab median gaji rakyat ni dalam 3,000.
+[123:15] Host: Mhm.
 
-[29:15] Speaker 1: Jadi bagi kebanyakan rakyat, gaji menteri 30,000 tu dia rasa banyak lah kan. Jadi perkara ini akan terus jadi polemik dan juga dilema masyarakat kerana bila gaji yang begitu, um, satu ialah jenis orang yang sanggup ke depan untuk menyertai politik, mengambil jawatan, dengan risikonya tu mungkin tak ramailah professional professional tu.
+[123:16] Host: Mhm.
 
-[29:46] Speaker 1: So sebab tu kalau kita tengok professional ni selalunya hanya lantikan senator.
+[123:17] Host: Mhm.
 
-[29:51] Speaker 1: Tak banyak lah yang ada jawatan korporat atau tak berpendapatan tinggi, kemudian meletak jawatan dan dan dan berkecimpung dalam politik kerana rugi banyak kan.
+[123:18] Host: Mhm.
 
-[30:03] Speaker 1: Ah dan ada juga yang kata sebab itulah apa nama ni ahli politik terdedah kepada rasuah kan tapi saya tak tahu yang lain lah itu terpulang kepada niat masing-masing lah.
+[123:19] Host: Mhm.
 
-[30:16] Speaker 1: Saya ingat politik ni ialah calling.
+[123:20] Host: Mhm.
 
-[30:20] Speaker 1: Hmm.
+[123:21] Host: Mhm.
 
-[30:20] Speaker 1: Ah, maksudnya, ah, kalau kita nak ke depan, maksudnya imbuhan itu bukan semata-mata daripada wang lah.
+[123:22] Host: Mhm.
 
-[30:29] Speaker 1: Kan? Ah jadi sebab tu, kalau dalam pemilihan parti kan, orang macam saya, tak ada lah peluang untuk bermewah-mewah macam orang lain dulu, ah selain daripada saya tak bersetuju bermewah-mewah dengan hotel, you know, bagi tudung ke apa semua ni kan.
+[123:23] Host: Mhm.
 
-[30:47] Speaker 1: Satu sebabnya, memang aku tak ada duit lah kan sebab itu jelah yang kita dapat kan, jadi ah selagi kita tidak membersihkan budaya politik kita, yang mana dan ini sebenarnya bukan dia dia dia bukan ah bergantung kepada pimpinan atas sahaja lah, dia bergantung juga kepada orang bawah juga lah. Jangan bergantung kepada pimpinan atas hulur duit semua. Kalau tidak tekanan untuk ada poket yang yang tebal tu akan berterusan lah dan kitaran itu akan terus berterusan.
+[123:24] Host: Mhm.
 
-[31:22] Speaker 1: Hmm hmm. Hmm baik baik YB. So dah tengok dah semua?
+[123:25] Host: Mhm.
 
-[31:25] Speaker 1: Ah, puas.
+[123:26] Host: Mhm.
 
-[31:27] Speaker 1: Puas hati kau orang dapat tengok slip gaji menteri dan ahli parlimen.
+[123:27] Host: Mhm.
 
-[31:31] Speaker 1: Ini bukan kali pertama lah kau orang.
+[123:28] Host: Mhm.
 
-[31:33] Speaker 1: Kali pertama lah kut untuk menteri dapat slip gaji menteri.
+[123:29] Host: Mhm.
 
-[31:36] Speaker 1: Okey.
+[123:30] Host: Mhm.
 
-[31:37] Speaker 1: Ha, habis hutang?
+[123:31] Host: Mhm.
 
-[31:38] Speaker 1: Habis hutang? Okey.
+[123:32] Host: Mhm.
 
-[31:39] Speaker 1: Ah, kita teruskan kepada segmen yang sebenar lah iaitu.
+[123:33] Host: Mhm.
 
-[31:43] Speaker 1: Beria.
+[123:34] Host: Mhm.
 
-[31:44] Speaker 1: Ha jadi Beria ni YB selain beria YB panggil poyo lah sebenarnya.
+[123:35] Host: Mhm.
 
-[31:48] Speaker 1: Ha.
+[123:36] Host: Mhm.
 
-[31:48] Speaker 1: Yalah zaman-zaman 10, 15 tahun dulu, ah saya kan selalu coach budak-budak sekolah, kan coach debat lah, coach itu.
+[123:37] Host: Mhm.
 
-[31:57] Speaker 1: Masa tu mula-mula aku pun tak faham poyo-poyo ni kan.
+[123:38] Host: Mhm.
 
-[32:00] Speaker 1: Jadi aku masa lagi stuck.
+[123:39] Host: Mhm.
 
-[32:03] Speaker 1: Sangkut dengan zaman itu, pemahaman saya beria mat ni, kira poyo lah kut.
+[123:40] Host: Mhm.
 
-[32:09] Speaker 1: Ha poyo lah.
+[123:41] Host: Mhm.
 
-[32:11] Speaker 1: Okey.
+[123:42] Host: Mhm.
 
-[32:12] Speaker 1: Okey YB dah bersedia? Macam biasa lah, kita bagi gambar dan YB explain.
+[123:43] Host: Mhm.
 
-[32:15] Speaker 1: Okey, baik.
+[123:44] Host: Mhm.
 
-[32:16] Speaker 1: Yang pertama,
+[123:45] Host: Mhm.
 
-[32:20] Speaker 1: Calon PM ke-11 Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa. Ah yang ini yang yang mana perhimpunan Agung tahunan Bersatu baru nilah ada jerit-menjerit, ada SD.
+[123:46] Host: Mhm.
 
-[32:35] Speaker 1: Dan akhirnya.
+[123:47] Host: Mhm.
 
-[32:36] Speaker 1: Akhirnya resolusi supaya Tan Sri Muhyiddin kekal menjadi calon PM. Cuma bab tu aku tak puas hati lah kalau kata Bersatu tak ambil jalan huduh kotor untuk kekal berkuasa.
+[123:48] Host: Mhm.
 
-[32:48] Speaker 1: Sebab dia bermula dengan SD Tebuk Atap.
+[123:49] Host: Mhm.
 
-[32:50] Speaker 1: Lepas tu dia gantung parlimen darurat. Lepas tu kita semua tak boleh keluar rumah, kan. Ah jadi tak betul lah. Cuma.
+[123:50] Host: Mhm.
 
-[32:59] Speaker 1: Yalah, beria pakai merah.
+[123:51] Host: Mhm.
 
-[33:03] Speaker 1: Cantik baju Melayu dia kan.
+[123:52] Host: Mhm.
 
-[33:06] Speaker 1: Ah.
+[123:53] Host: Mhm.
 
-[33:08] Speaker 1: Ah yalah dia, dilema ini sama lah macam saya ingat cuma masa Pakatan Harapan dari pembangkang dulu dia agak agak selesa sikit kerana tidak ada begitu banyak percanggahan mengenai calon Perdana Menteri kan.
+[123:54] Host: Mhm.
 
-[33:26] Speaker 1: Jadi dalam persatu sekarang ni pergolakan itu nampaknya.
+[123:55] Host: Mhm.
 
-[33:31] Speaker 1: Yalah nampaknya pergolakan yang besar kerana,
+[123:56] Host: Mhm.
 
-[33:36] Speaker 1: ah kalau laporan berita sudah ada 120 SD. Aku cuma tu nanti akan ada lagi.
+[123:57] Host: Mhm.
 
-[33:43] Speaker 1: Oh ada lagi.
+[123:58] Host: Mhm.
 
-[33:45] Speaker 1: Ah ya Beria.
+[123:59] Host: Mhm.
 
-[33:46] Speaker 1: Beria.
+[124:00] Host: Mhm.
 
-[33:47] Speaker 1: Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan ah apa ni Datuk Seri Hamzah Zainudin beria gelak. Azmin dia macam dalam hati, cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni sebab satu Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan, tapi beria dia gelak depan orang.
+[124:01] Host: Mhm.
 
-[33:59] Speaker 1: Okey.
+[124:02] Host: Mhm.
 
-[34:00] Speaker 1: Okey, okey baik. Seterusnya.
+[124:03] Host: Mhm.
 
-[34:13] Speaker 1: Okey.
+[124:04] Host: Mhm.
 
-[34:16] Speaker 1: Hmm beria.
+[124:05] Host: Mhm.
 
-[34:17] Speaker 1: Hmm PAS sedia kerjasama dengan semua parti kecuali maksudnya kecuali DAP lah.
+[124:06] Host: Mhm.
 
-[34:22] Speaker 1: Kecuali DAP.
+[124:07] Host: Mhm.
 
-[34:23] Speaker 1: Menjalin kerjasama dengan PKR dan UMNO.
+[124:08] Host: Mhm.
 
-[34:26] Speaker 1: Ah betul lah dia nak balik berkuasa.
+[124:09] Host: Mhm.
 
-[34:29] Speaker 1: Asalkan dapat jadi menteri balik. Kalau Ustaz Idris jadi menteri balik, happy lah dia.
+[124:10] Host: Mhm.
 
-[34:36] Speaker 1: Hmm beria lah, memanglah kalau jadi dia beria-ria nak bekerjasama dengan semua lah kan.
+[124:11] Host: Mhm.
 
-[34:41] Speaker 1: Hmm beria dan tergege.
+[124:12] Host: Mhm.
 
-[34:42] Speaker 1: Okey.
+[124:13] Host: Mhm.
 
-[34:43] Speaker 1: Ah seterusnya.
+[124:14] Host: Mhm.
 
-[34:49] Speaker 1: Alamat sikit. Hmm.
+[124:15] Host: Mhm.
 
-[34:50] Speaker 1: Ini Sid, YB. YB kenal Sid?
+[124:16] Host: Mhm.
 
-[34:52] Speaker 1: Ah.
+[124:17] Host: Mhm.
 
-[34:53] Speaker 1: Tak ada, aku tak kenal. Aku ingat dia satu je sebab dulu dia sembang kencang. Lepas tu aku pun jemput dia ke podcast YBM lah.
+[124:18] Host: Mhm.
 
-[35:01] Speaker 1: Oh pernah dijemput.
+[124:19] Host: Mhm.
 
-[35:02] Speaker 1: Lepas tu segala jenis alasan dia beri. Siapa dia ni?
+[124:20] Host: Mhm.
 
-[35:06] Speaker 1: Dia ni dulu ah AJK Bersatu Putrajaya. Sampai sekarang lah tak silap saya.
+[124:21] Host: Mhm.
 
-[35:11] Speaker 1: Ah dan juga dulu pernah jadi PTTK Menteri Luar Negeri.
+[124:22] Host: Mhm.
 
-[35:15] Speaker 1: Oh I see.
+[124:23] Host: Mhm.
 
-[35:16] Speaker 1: Itu mereka berkuasa dulu lah.
+[124:24] Host: Mhm.
 
-[35:17] Speaker 1: I see.
+[124:25] Host: Mhm.
 
-[35:18] Speaker 1: Ha kan.
+[124:26] Host: Mhm.
 
-[35:19] Speaker 1: Jadi dia cakap apa ni? Yalah apa saja yang PM jumpa semua akan jadi macam ini.
+[124:27] Host: Mhm.
 
-[35:24] Speaker 1: Hmm.
+[124:28] Host: Mhm.
 
-[35:25] Speaker 1: Beria lah kut.
+[124:29] Host: Mhm.
 
-[35:28] Speaker 1: Selebek lah dia ni.
+[124:30] Host: Mhm.
 
-[35:29] Speaker 1: Selebek.
+[124:31] Host: Mhm.
 
-[35:30] Speaker 1: Tapi beria lah selebek.
+[124:32] Host: Mhm.
 
-[35:31] Speaker 1: Badi. So kononnya ada Badi lah.
+[124:33] Host: Mhm.
 
-[35:33] Speaker 1: Kononnya ada Badi lah.
+[124:34] Host: Mhm.
 
-[35:34] Speaker 1: Ah.
+[124:35] Host: Mhm.
 
-[35:35] Speaker 1: Aku lagi bimbang kalau Badi dengan dia.
+[124:36] Host: Mhm.
 
-[35:37] Speaker 1: Ah kan.
+[124:37] Host: Mhm.
 
-[35:39] Speaker 1: Ah jadi apa nama dia jadi boleh je pusing. Apa nama ni, ah, ah siapa yang menteri ambil dia jadi jadi pegawai ke apa. Badi kalah tak jadi menteri. Lepas tu lah. Sebab Syaifuddin Abdullah dah tak jadi. Oh kena kat dia. Kena kat dia.
+[124:38] Host: Mhm.
 
-[35:53] Speaker 1: So you can say the same lah.
+[124:39] Host: Mhm.
 
-[35:56] Speaker 1: Aduh.
+[124:40] Host: Mhm.
 
-[35:57] Speaker 1: Hmm.
+[124:41] Host: Mhm.
 
-[35:57] Speaker 1: YB ready untuk kita jemput balik YB?
+[124:42] Host: Mhm.
 
-[35:59] Speaker 1: Siapa?
+[124:43] Host: Mhm.
 
-[36:00] Speaker 1: Tak payah. Buang masa lah Mama ni. Buang masa.
+[124:44] Host: Mhm.
 
-[36:03] Speaker 1: Is that like.
+[124:45] Host: Mhm.
 
-[36:03] Speaker 1: Aku tak rasa dia ada nilai lah. Ah, kan. Yang kau orang layan dia ni kenapa?
+[124:46] Host: Mhm.
 
-[36:08] Speaker 1: Kan.
+[124:47] Host: Mhm.
 
-[36:09] Speaker 1: Baik kita takkan layan lagi.
+[124:48] Host: Mhm.
 
-[36:11] Speaker 1: Okey next lah YB. Okey last sekali. Hmm.
+[124:49] Host: Mhm.
 
-[36:14] Speaker 1: Hmm.
+[124:50] Host: Mhm.
 
-[36:16] Speaker 1: Tu dia.
+[124:51] Host: Mhm.
 
-[36:17] Speaker 1: Ah ini pengetua dan Fatlina tu sepupu. Ni geng-geng sepupu sepapat ni ni. Tak hairan lah mereka bersekongkol dalam kes ini. Pengetua tak ditahan baru tahu rupa-rupanya sepupu je.
+[124:52] Host: Mhm.
 
-[36:29] Speaker 1: Dia dua orang dua tu.
+[124:53] Host: Mhm.
 
-[36:32] Speaker 1: Dua orang dua tu.
+[124:54] Host: Mhm.
 
-[36:32] Speaker 1: Pengetua orang Pulau Pinang, Mak Pengetua dan Mak Syifa tu adik beradik. Bererti.
+[124:55] Host: Mhm.
 
-[36:37] Speaker 1: Dia orang dua sepupu je.
+[124:56] Host: Mhm.
 
-[36:38] Speaker 1: Sepupu je.
+[124:57] Host: Mhm.
 
-[36:40] Speaker 1: Hmm. Tak hairanlah mereka bersekongkol.
+[124:58] Host: Mhm.
 
-[36:43] Speaker 1: Lepas tu kat bawah tu boleh tanya, ya ke sis? Hmm.
+[124:59] Host: Mhm.
 
-[36:49] Speaker 1: Ah.
+[125:00] Host: Mhm.
 
-[36:52] Speaker 1: Yalah, beria dia fitnah orang lah kan. Saya, saya tak tahu detail dia lah tapi saya tak rasa lah, apa nama ni pengetua tu sepupu Fadlina kan.
+[125:01] Host: Mhm.
 
-[37:03] Speaker 1: Aku bukanlah tahu selok-belok keluarga Fadlina tapi saya tak rasa lah. Ini perangai yang pakai tembak aje. Fadlina dah buat laporan polis kut kan.
+[125:02] Host: Mhm.
 
-[37:13] Speaker 1: Ah jadi.
+[125:03] Host: Mhm.
 
-[37:14] Speaker 1: Dan ah dia pun dah tarik balik kenyataan tu.
+[125:04] Host: Mhm.
 
-[37:17] Speaker 1: Dia Oh dalam. Oh seronoklah tarik balik aje. Dia minta maaf lah.
+[125:05] Host: Mhm.
 
-[37:21] Speaker 1: Ah.
+[125:06] Host: Mhm.
 
-[37:22] Speaker 1: Tapi yang dia confident sangat kata sepupu sepapat ni, ini macam yang ahli parlimen kepala batas tu juga, sepupu-sepupu.
+[125:07] Host: Mhm.
 
-[37:28] Speaker 1: Dia kata dapat dari TikTok, dari live orang orang lain lah.
+[125:08] Host: Mhm.
 
-[37:32] Speaker 1: Hmm.
+[125:09] Host: Mhm.
 
-[37:33] Speaker 1: Kemudian bila dia check balik, dah delete. Jadi dia tak ada defense lah.
+[125:10] Host: Mhm.
 
-[37:36] Speaker 1: Ya.
+[125:11] Host: Mhm.
 
-[37:37] Speaker 1: Padahal bukan engkau ah. Pandai aje kan. Seronok kan. Ah lain kali, paling kurang lah walaupun orang kata apa nama ni um, um chat GPT ni kadang-kadang orang buat lawak kan.
+[125:12] Host: Mhm.
 
-[37:51] Speaker 1: Sebelum beria nak tulis komen, pergilah beria-ria chat dekat chat GPT dulu, tanya kan.
+[125:13] Host: Mhm.
 
-[37:58] Speaker 1: Ah, sebab paling kurang chat GPT tu dia boleh lah bagi gambaran kasar, lepas tu kena selidik lagi kan.
+[125:14] Host: Mhm.
 
-[38:05] Speaker 1: Betul.
+[125:15] Host: Mhm.
 
-[38:06] Speaker 1: Beria beria beria beria lah.
+[125:16] Host: Mhm.
 
-[38:07] Speaker 1: YB nak buat ranking ke? Ah boleh. Okey ranking apa dia?
+[125:17] Host: Mhm.
 
-[38:10] Speaker 1: Okey.
+[125:18] Host: Mhm.
 
-[38:11] Speaker 1: Okey.
+[125:19] Host: Mhm.
 
-[38:12] Speaker 1: Cuma tulah.
+[125:20] Host: Mhm.
 
-[38:13] Speaker 1: Eh tu tak ada lagi.
+[125:21] Host: Mhm.
 
-[38:14] Speaker 1: Ah, dari 1, 2, 3, 4 ni.
+[125:22] Host: Mhm.
 
-[38:16] Speaker 1: Ah, yalah, minggu ni macam hambar je Beria dia. Kau orang pilih yang hamba-hamba semua ni. Okey.
+[125:23] Host: Mhm.
 
-[38:23] Speaker 1: Inilah yang berlaku minggu ni, YB.
+[125:24] Host: Mhm.
 
-[38:25] Speaker 1: Hmm.
+[125:25] Host: Mhm.
 
-[38:26] Speaker 1: Yang ini aku bagi tiga lah sebab aku suka empat-empat orang kat depan dengan Razi Cidin kat tepi. Ah, beria dia orang gelak, sengih, jeling kan, ah.
+[125:26] Host: Mhm.
 
-[38:35] Speaker 1: Baik, baik.
+[125:27] Host: Mhm.
 
-[38:36] Speaker 1: Ini aku bagi tiga.
+[125:28] Host: Mhm.
 
-[38:37] Speaker 1: Tiga.
+[125:29] Host: Mhm.
 
-[38:38] Speaker 1: Hmm.
+[125:30] Host: Mhm.
 
-[38:39] Speaker 1: Hmm, bagi satu lah. It's like, kalau setakat beria-ria macam ni ni, tak tahulah.
+[125:31] Host: Mhm.
 
-[38:45] Speaker 1: Dia beria.
+[125:32] Host: Mhm.
 
-[38:46] Speaker 1: Beria, beria dia saja.
+[125:33] Host: Mhm.
 
-[38:47] Speaker 1: Hmm, satu. Okey baik.
+[125:34] Host: Mhm.
 
-[38:49] Speaker 1: Hmm.
+[125:35] Host: Mhm.
 
-[38:51] Speaker 1: Hamat sikit. Okey.
+[125:36] Host: Mhm.
 
-[38:53] Speaker 1: Yang ini pun aku bagi satu lah sebab tidak ada nilai untuk masuk podcast ini.
+[125:37] Host: Mhm.
 
-[38:59] Speaker 1: Hmm. Sebab maaf.
+[125:38] Host: Mhm.
 
-[39:01] Speaker 1: Macam mana ni?
+[125:39] Host: Mhm.
 
-[39:03] Speaker 1: Yang ini aku bagilah dua, sebab lain kali beria-ria macam ni kan dah kena ada laporan polis semua kan.
+[125:40] Host: Mhm.
 
-[39:10] Speaker 1: Dia, tapi identity dia tu dah orang kenal.
+[125:41] Host: Mhm.
 
-[39:13] Speaker 1: Kenal? Actually ada nama dia. Ada nama dia. Cuma kita ni lah sensor.
+[125:42] Host: Mhm.
 
-[39:16] Speaker 1: Hmm. Hmm.
+[125:43] Host: Mhm.
 
-[39:17] Speaker 1: Okey baik. Beria kita di situ.
+[125:44] Host: Mhm.
 
-[39:20] Speaker 1: Tapi Beria minggu ini adalah hambar.
+[125:45] Host: Mhm.
 
-[39:22] Speaker 1: Hambar. Jadi kita kena.
+[125:46] Host: Mhm.
 
-[39:24] Speaker 1: Kotak kerana dia orang sengih kat depan tadi tu gelak-gelak. Aku macam.
+[125:47] Host: Mhm.
 
-[39:27] Speaker 1: Jadi saya minta tolong rakan-rakan untuk cadangkan beria pada minggu depan nanti.
+[125:48] Host: Mhm.
 
-[39:31] Speaker 1: Hmm. Carilah yang betul-betul beria.
+[125:49] Host: Mhm.
 
-[39:33] Speaker 1: Baik YB.
+[125:50] Host: Mhm.
 
-[39:34] Speaker 1: Hmm. Kita teruskan.
+[125:51] Host: Mhm.
 
-[39:36] Speaker 1: Hmm.
+[125:52] Host: Mhm.
 
-[39:36] Speaker 1: Jadi segmen seterusnya adalah sama juga. Hidup keras dik.
+[125:53] Host: Mhm.
 
-[39:42] Speaker 1: Ah jadi mungkin banyak sikit lah sebab banyak benda keras yang berlaku pada minggu ni YB. Okey.
+[125:54] Host: Mhm.
 
-[39:46] Speaker 1: Ah, um jadi, yang pertama sudah pastilah macam saya cakap tadi tu. Ah, yang pertama bersatu. Bersatu bersatu yang bersatu bila tiba-tiba kita dikejutkan 120 ketua bahagian bersatu Geser Muhyiddin berundur. Adakah ini persediaan pilihan raya mereka seperti yang Azmin cakap tu YB?
+[125:55] Host: Mhm.
 
-[40:04] Speaker 1: Hmm, ini parti orang kan.
+[125:56] Host: Mhm.
 
-[40:06] Speaker 1: Hmm.
+[125:57] Host: Mhm.
 
-[40:09] Speaker 1: Sebenarnya kalau aku tu masih lagi Timbalan Presiden PKR, aku tak komen lah. Sebab parti. Tapi sekarang kita free agent.
+[125:58] Host: Mhm.
 
-[40:16] Speaker 1: Ah, boleh komen apa-apa kan.
+[125:59] Host: Mhm.
 
-[40:19] Speaker 1: Okey.
+[126:00] Host: Mhm.
 
-[40:20] Speaker 1: Um, yalah, dia dia sebenarnya um, kalau tengok 120 ketua bahagian tu, Bersatu sebenarnya ada 202 kan?
+[126:01] Host: Mhm.
 
-[40:35] Speaker 1: Um, 120 ni lebih daripada separuh. Ah jadi, saya faham lah yang buat um, sebut.
+[126:02] Host: Mhm.
 
-[40:45] Speaker 1: Sebut Bersatu terus bersin aku.
+[126:03] Host: Mhm.
 
-[40:50] Speaker 1: Ah. Ini apa ada orang Bersatu tengah sebut. Tolonglah jangan komen. Tolong terus bersin aku.
+[126:04] Host: Mhm.
 
-[40:56] Speaker 1: Dia maksudnya kalau lebih daripada separuh yang telah tanda tangan dan Geser berundur tu, Hmm.
+[126:05] Host: Mhm.
 
-[41:02] Speaker 1: um, saya faham lah niat mereka ialah akuan bersumpah tu maksudnya tidak lagi mendapat kepercayaan lah daripada 120 dari lebih daripada separuh bahagian tu lah. Mhm. Mhm.
+[126:06] Host: Mhm.
 
-[41:03] Speaker 2: Kan.
+[126:07] Host: Mhm.
 
-[41:04] Speaker 2: Um, 120 ni lebih daripada separuh. Ah jadi, saya fahamlah yang buat um, sebut.
+[126:08] Host: Mhm.
 
-[41:13] Speaker 1: Sebut Bersatu terus bersin aku.
+[126:09] Host: Mhm.
 
-[41:19] Speaker 2: Ah. Ini apa ada orang Bersatu tengah sebut. Tolonglah jangan komen. Tolong terus bersin aku.
+[126:10] Host: Mhm.
 
-[41:26] Speaker 2: Dia maksudnya kalau lebih daripada separuh yang telah tanda tangan dan Geser berundur tu, Hmm.
+[126:11] Host: Mhm.
 
-[41:33] Speaker 2: um, saya faham lah niat mereka ialah akuan bersumpah tu maksudnya tidak lagi mendapat kepercayaan lah daripada 120 dari lebih daripada separuh bahagian tu lah. Mhm. Mhm.
+[126:12] Host: Mhm.
 
-[41:45] Speaker 2: Itu sebenarnya, kalau ikut peraturan, apabila 120 orang tu dia menandatangani akuan bersumpah, itu adalah satu proses perlembagaan parti.
+[126:13] Host: Mhm.
 
-[41:59] Speaker 2: Jadi, kalau parti itu dia ada perlembagaan, dan perlembagaan itu memberikan kuasa kepada ketua bahagian, maka ketua bahagian itu mempunyai legitimasi untuk menentukan hala tuju parti.
+[126:14] Host: Mhm.
 
-[42:15] Speaker 2: Itu sajalah, tak ada pun masalah.
+[126:15] Host: Mhm.
 
-[42:18] Speaker 1: YB rasa adakah parti Bersatu ini akan berpecah kepada dua, iaitu kem Hamzah dan kem Muhyiddin?
+[126:16] Host: Mhm.
 
-[42:25] Speaker 2: Saya ingat kalau kita tengok kepada sejarah parti di Malaysia ni, apabila berlaku pertembungan kepimpinan seperti ini, biasanya dia akan berakhir dengan perpecahan.
+[126:17] Host: Mhm.
 
-[42:37] Speaker 2: Kita tengok UMNO, kita tengok PAS, kita tengok PKR, kita tengok DAP.
+[126:18] Host: Mhm.
 
-[42:43] Speaker 2: Semua parti-parti ini pernah melalui fasa pertembungan kepimpinan dan perpecahan.
+[126:19] Host: Mhm.
 
-[42:50] Speaker 2: Jadi kalau Bersatu ini dia nak kekal, dia kena cari jalan untuk menyelesaikan masalah kepimpinan ini secara dalaman, secara diplomatik.
+[126:20] Host: Mhm.
 
-[43:01] Speaker 2: Tapi kalau dia nak teruskan dengan cara bergaduh, cara berpecah, maka itulah yang akan berlaku.
+[126:21] Host: Mhm.
 
-[43:08] Speaker 2: Akhirnya parti itu akan jadi lemah, parti itu akan jadi berpecah.
+[126:22] Host: Mhm.
 
-[43:14] Speaker 2: Jadi itu terpulang kepada pimpinan Bersatu lah nak pilih jalan mana.
+[126:23] Host: Mhm.
 
-[43:20] Speaker 1: Okey, terima kasih YB atas pencerahan ini.
+[126:24] Host: Mhm.
 
-[43:24] Speaker 1: Kita masuk ke soalan kedua daripada sahabat kita, Zari.
+[126:25] Host: Mhm.
 
-[43:28] Speaker 1: Zari tanya, adakah cukai rumah kosong benar-benar mampu menurunkan harga rumah yang makin tidak masuk akal?
+[126:26] Host: Mhm.
 
-[43:35] Speaker 1: Lebih berpaksikan kemampuan orang asing daripada rakyat sendiri.
+[126:27] Host: Mhm.
 
-[43:40] Speaker 1: Sedangkan anak muda semakin hilang harapan untuk membeli rumah.
+[126:28] Host: Mhm.
 
-[43:45] Speaker 2: Ini satu soalan yang sangat menarik dan ia adalah satu isu yang sangat hangat di dunia sekarang ni.
+[126:29] Host: Mhm.
 
-[43:52] Speaker 2: Isu cukai rumah kosong atau vacancy tax.
+[126:30] Host: Mhm.
 
-[43:57] Speaker 2: Kalau kita tengok di negara-negara maju seperti di Kanada, di Australia, di UK, mereka sudah pun melaksanakan vacancy tax ini.
+[126:31] Host: Mhm.
 
-[44:06] Speaker 2: Matlamatnya adalah untuk menggalakkan pemilik rumah yang membiarkan rumah mereka kosong tanpa penghuni untuk menyewakan rumah mereka.
+[126:32] Host: Mhm.
 
-[44:16] Speaker 2: Kerana apabila rumah itu dibiarkan kosong, ia mengurangkan bekalan rumah di pasaran.
+[126:33] Host: Mhm.
 
-[44:22] Speaker 2: Dan apabila bekalan rumah itu kurang, harga sewa akan naik dan harga rumah juga akan naik.
+[126:34] Host: Mhm.
 
-[44:28] Speaker 2: Jadi, adakah ia mampu menurunkan harga rumah di Malaysia?
+[126:35] Host: Mhm.
 
-[44:33] Speaker 2: Saya rasa ia adalah salah satu daripada instrumen yang boleh digunakan untuk menangani masalah harga rumah.
+[126:36] Host: Mhm.
 
-[44:40] Speaker 2: Tapi ia bukanlah penyelesaian mutlak.
+[126:37] Host: Mhm.
 
-[44:43] Speaker 2: Kita perlu melihat juga kepada faktor-faktor lain seperti kos bahan binaan, kos tanah, dan juga dasar perumahan negara secara keseluruhannya.
+[126:38] Host: Mhm.
 
-[44:53] Speaker 2: Tapi kalau nak menjawab soalan Zari tu, adakah ia mampu menurunkan harga rumah yang makin tidak masuk akal?
+[126:39] Host: Mhm.
 
-[45:00] Speaker 2: Saya rasa dalam jangka masa panjang, ya.
+[126:40] Host: Mhm.
 
-[45:03] Speaker 2: Sebab kalau ramai orang menyewakan rumah mereka, maka bekalan rumah sewa akan bertambah, maka harga sewa akan stabil.
+[126:41] Host: Mhm.
 
-[45:11] Speaker 2: Dan apabila harga sewa stabil, permintaan untuk membeli rumah untuk tujuan spekulasi akan berkurangan.
+[126:42] Host: Mhm.
 
-[45:18] Speaker 2: Jadi itu satu langkah yang boleh dipertimbangkan.
+[126:43] Host: Mhm.
 
-[45:22] Speaker 1: Hmm menarik.
+[126:44] Host: Mhm.
 
-[45:24] Speaker 1: Terima kasih YB atas pencerahan mengenai cukai rumah kosong ini.
+[126:45] Host: Mhm.
 
-[45:28] Speaker 1: Kita masuk ke soalan terakhir daripada seorang sahabat kita, Azam.
+[126:46] Host: Mhm.
 
-[45:33] Speaker 1: Azam tanya, mengapa begitu ramai tenaga kerja berbakat Malaysia memilih untuk berhijrah ke luar negara?
+[126:47] Host: Mhm.
 
-[45:41] Speaker 1: Dan apakah langkah konkrit kerajaan untuk menarik mereka kembali menyumbang di tanah air?
+[126:48] Host: Mhm.
 
-[45:48] Speaker 2: Ah, ini soalan yang sangat berat dan sangat mendalam.
+[126:49] Host: Mhm.
 
-[45:52] Speaker 2: Isu brain drain ini adalah satu isu yang telah lama menghantui negara kita.
+[126:50] Host: Mhm.
 
-[45:58] Speaker 2: Dan jawapan kepada soalan Azam ni, ia memerlukan satu pendekatan yang menyeluruh.
+[126:51] Host: Mhm.
 
-[46:04] Speaker 2: Pertama, kita kena faham kenapa mereka pergi.
+[126:52] Host: Mhm.
 
-[46:08] Speaker 2: Biasanya mereka pergi kerana mencari peluang kerjaya yang lebih baik, gaji yang lebih tinggi, dan juga kualiti kehidupan yang lebih baik.
+[126:53] Host: Mhm.
 
-[46:17] Speaker 2: Jadi untuk membawa mereka balik, kita kena sediakan ekosistem yang menarik untuk mereka.
+[126:54] Host: Mhm.
 
-[46:24] Speaker 2: Kita kena sediakan peluang kerjaya yang setaraf dengan apa yang mereka dapat di luar negara.
+[126:55] Host: Mhm.
 
-[46:30] Speaker 2: Kita kena pastikan gaji yang ditawarkan adalah kompetitif.
+[126:56] Host: Mhm.
 
-[46:34] Speaker 2: Dan yang paling penting, kita kena pastikan persekitaran kerja dan kualiti kehidupan di Malaysia adalah menarik.
-
-[46:42] Speaker 2: Selain daripada itu, kerajaan juga boleh menyediakan insentif-insentif kepada mereka yang ingin pulang.
-
-[46:49] Speaker 2: Contohnya, kemudahan cukai, bantuan untuk penempatan semula, dan sebagainya.
-
-[46:56] Speaker 2: Tapi sekali lagi, ini bukanlah satu perkara yang boleh diselesaikan dalam masa yang singkat.
-
-[47:02] Speaker 2: Ia adalah satu usaha jangka masa panjang yang memerlukan kerjasama daripada kerajaan, sektor swasta, dan juga masyarakat.
-
-[47:11] Speaker 1: Hmm, menarik.
-
-[47:13] Speaker 1: Terima kasih YB atas pencerahan ini.
-
-[47:16] Speaker 1: Rasanya itu sajalah untuk segmen soalan-soalan tadi.
-
-[47:20] Speaker 1: Kita teruskan ke segmen terakhir kita iaitu segmen harapan.
-
-[47:26] Speaker 2: Oh, segmen harapan?
-
-[47:28] Speaker 1: Ya YB, segmen harapan.
-
-[47:31] Speaker 1: YB boleh berikan satu kata-kata semangat atau harapan untuk rakyat Malaysia?
-
-[47:37] Speaker 2: Wah, segmen harapan.
-
-[47:39] Speaker 2: Okey, harapan saya untuk rakyat Malaysia adalah semoga kita terus bersatu padu, terus bekerja keras, dan terus optimis untuk masa depan negara kita.
-
-[47:49] Speaker 2: Saya percaya dengan kekuatan rakyat Malaysia, kita mampu menghadapi apa jua cabaran dan kita mampu mencapai masa depan yang lebih cemerlang untuk semua.
-
-[48:00] Speaker 2: Bersama-sama, kita boleh.
-
-[48:03] Speaker 1: Terima kasih YB atas kata-kata semangat itu.
-
-[48:07] Speaker 1: Dan dengan itu, berakhirlah podcast kita hari ini.
-
-[48:11] Speaker 1: Terima kasih kepada YB kerana sudi bersama kami dan terima kasih kepada semua penonton yang mengikuti podcast ini.
-
-[48:19] Speaker 1: Jangan lupa untuk ikuti kami di media sosial untuk episod-episod seterusnya.
-
-[48:24] Speaker 1: Assalamualaikum dan jumpa lagi.
-
-[48:28] Speaker 2: Waalaikumussalam, jumpa lagi.
-
-[48:32] [Music/Outro]
-
-[48:33] Speaker 2: Okeylah, sebelum saya terlupa, saya nak umumkan juga ada program yang kita akan buat hujung minggu ni, so kalau siapa yang ada kelapangan, boleh datang.
-
-[48:43] Speaker 1: YB program apa tu?
-
-[48:45] Speaker 2: Program perjumpaan dengan rakyat di kawasan, ah saya akan buat perjumpaan di beberapa tempat, ah saya rasa yang paling dekat adalah di Seremban.
-
-[48:54] Speaker 1: Okey, Seremban eh?
-
-[48:56] Speaker 2: Ya, di Seremban hari Sabtu ni.
-
-[48:59] Speaker 1: Okey, semua warga Seremban boleh datang eh?
-
-[49:02] Speaker 2: Ya, jemput semua datang.
-
-[49:05] Speaker 1: Okey, terima kasih YB.
-
-[49:07] [Music/Outro fades out]
-
-[49:10] Speaker 1: Baik, so kita dah bincang panjang lebar tadi eh tentang isu perumahan, isu ekonomi dan juga isu pendidikan.
-
-[49:18] Speaker 1: Tapi ada satu perkara lagi yang saya nak tanya YB ni, iaitu tentang integriti dalam pentadbiran kerajaan.
-
-[49:25] Speaker 1: Sejauh mana YB rasa kerajaan hari ini telah berjaya memupuk budaya integriti dalam kalangan penjawat awam dan juga pemimpin politik?
-
-[49:34] Speaker 2: Hmm, integriti ni dia satu perkara yang sangat fundamental.
-
-[49:39] Speaker 2: Kalau kita nak negara kita maju, kalau kita nak ekonomi kita berkembang, integriti adalah kunci.
-
-[49:46] Speaker 2: Kerajaan Madani memang meletakkan integriti sebagai keutamaan.
-
-[49:51] Speaker 2: Kita ada pelbagai mekanisme untuk memantau, untuk memastikan bahawa amalan rasuah, amalan salah guna kuasa ni dapat dikurangkan.
-
-[50:00] Speaker 2: Tapi, ini bukan kerja kerajaan saja.
-
-[50:04] Speaker 2: Ini kerja semua orang.
-
-[50:06] Speaker 2: Perlu ada kesedaran daripada masyarakat, daripada penjawat awam, daripada pemimpin politik sendiri.
-
-[50:13] Speaker 2: Saya rasa perubahan tu sedang berlaku.
-
-[50:17] Speaker 2: Kita lihat sekarang ni makin banyak kes rasuah yang dibawa ke mahkamah.
-
-[50:23] Speaker 2: Ini menunjukkan bahawa sistem keadilan kita sedang berfungsi dengan baik.
-
-[50:28] Speaker 2: Dan saya berharap bahawa ini akan menjadi satu amaran kepada sesiapa yang cuba untuk melakukan amalan rasuah.
-
-[50:35] Speaker 2: Tapi, kita tak boleh selesa.
-
-[50:38] Speaker 2: Kita kena teruskan usaha ni.
-
-[50:41] Speaker 2: Kita kena pastikan bahawa budaya integriti tu menjadi budaya seharian kita.
-
-[50:47] Speaker 1: Betul YB, saya setuju.
-
-[50:50] Speaker 1: Integriti ni bukan sekadar slogan, tapi dia kena jadi satu amalan.
-
-[50:55] Speaker 1: Hmm, YB, bercakap tentang integriti, apa pandangan YB tentang laporan ketua audit negara yang sering menunjukkan adanya ketirisan dalam pengurusan kewangan kerajaan?
-
-[51:06] Speaker 2: Ya, laporan ketua audit negara adalah satu dokumen yang sangat penting.
-
-[51:12] Speaker 2: Ia memberikan kita gambaran yang jelas tentang bagaimana wang rakyat dibelanjakan.
-
-[51:17] Speaker 2: Dan bila kita lihat ada ketirisan, kita kena ambil tindakan.
-
-[51:22] Speaker 2: Kita tidak boleh biarkan ketirisan ni berterusan.
-
-[51:26] Speaker 2: Jadi apa yang kerajaan buat adalah kita meneliti setiap teguran yang dibuat oleh ketua audit negara.
-
-[51:33] Speaker 2: Dan kementerian-kementerian yang terlibat, mereka diwajibkan untuk memberikan penjelasan dan juga pelan tindakan bagaimana mereka nak mengatasi masalah tersebut.
-
-[51:44] Speaker 2: Ini adalah satu proses yang sangat ketat.
-
-[51:47] Speaker 2: Kita mahu memastikan bahawa setiap ringgit yang dibelanjakan adalah untuk kepentingan rakyat.
-
-[51:53] Speaker 1: Hmm, baguslah macam tu YB.
-
-[51:56] Speaker 1: Saya harap proses ni akan terus diperkasakan.
-
-[52:00] Speaker 1: Okey, YB, kita nak ubah topik sikit.
-
-[52:03] Speaker 1: Saya nak tanya tentang pandangan YB mengenai peranan media dalam membentuk persepsi masyarakat terhadap kerajaan.
-
-[52:11] Speaker 2: Media memainkan peranan yang sangat besar dalam membentuk persepsi masyarakat.
-
-[52:16] Speaker 2: Media adalah jambatan antara kerajaan dan rakyat.
-
-[52:21] Speaker 2: Kalau media melaporkan berita dengan tepat, dengan adil, maka rakyat akan mendapat maklumat yang betul.
-
-[52:28] Speaker 2: Tapi kalau media melaporkan maklumat yang tidak tepat, atau bersifat berat sebelah, maka ia akan membentuk persepsi yang salah.
-
-[52:37] Speaker 2: Oleh itu, saya berharap bahawa media di Malaysia akan terus menjalankan tanggungjawab mereka dengan berintegriti.
-
-[52:45] Speaker 2: Dan saya juga berharap bahawa rakyat akan lebih bijak dalam menilai berita-berita yang diterima.
-
-[52:51] Speaker 2: Kerana di zaman media sosial ni, berita palsu sangat cepat tersebar.
-
-[52:57] Speaker 2: Jadi, literasi media adalah sangat penting sekarang ni.
-
-[53:02] Speaker 1: Betul YB, literasi media tu memang sangat penting dalam era digital ni.
-
-[53:07] Speaker 1: Okey YB, rasanya masa pun dah hampir ke penghujungnya.
-
-[53:12] Speaker 1: Sebelum kita tamatkan, adakah apa-apa lagi yang YB nak sampaikan kepada rakyat?
-
-[53:18] Speaker 2: Ah, saya cuma nak pesan pada semua, marilah kita bersama-sama membangunkan negara kita.
-
-[53:24] Speaker 2: Jangan kita biarkan perbezaan pandangan politik menghalang kita daripada bekerjasama untuk kepentingan negara.
-
-[53:32] Speaker 2: Kita ada banyak potensi, kita ada sumber manusia yang hebat, kita ada sumber kekayaan yang banyak.
-
-[53:39] Speaker 2: Kalau kita bersatu, saya yakin kita boleh mencapai kecemerlangan yang lebih besar lagi.
-
-[53:46] Speaker 2: Terima kasih kepada semua yang mendengar podcast ni.
-
-[53:50] Speaker 2: Semoga kita semua dirahmati Allah.
-
-[53:54] Speaker 1: Amin, terima kasih banyak YB Rafizi atas kesudian meluangkan masa dan berkongsi pandangan yang cukup bermanfaat hari ini.
-
-[54:02] Speaker 1: Semoga YB terus bersemangat dalam menjalankan tugas demi rakyat dan negara.
-
-[54:07] Speaker 2: Amin, sama-sama.
-
-[54:10] Speaker 1: Baiklah, dengan ini tamatlah sudah podcast kita pada hari ini.
-
-[54:15] Speaker 1: Jumpa lagi di episod akan datang.
-
-[54:19] [Music/Outro fades in]
-
-[54:23] [Music/Outro plays]
-
-[54:30] [Music/Outro fades out]
-
-[54:35] [Silence]
-
-[55:00] [Music/Intro fades in]
-
-[55:05] [Music/Intro plays]
-
-[55:15] [Music/Intro fades out]
-
-[55:20] [Silence]
-
-[56:00] [Music/Background plays]
-
-[56:10] [Silence]
-
-[57:00] [Music/Background plays]
-
-[57:10] [Silence]
-
-[58:00] [Music/Background plays]
-
-[58:10] [Silence]
-
-[59:00] [Music/Background plays]
-
-[59:10] [Silence]
-
-[1:00:00] [Music/Background plays]
-
-[1:00:10] [Silence]
-
-[1:01:00] [Music/Background plays]
-
-[1:01:10] [Silence]
-
-[1:02:00] [Music/Background plays]
-
-[1:02:10] [Silence]
-
-[1:03:00] [Music/Background plays]
-
-[1:03:10] [Silence]
-
-[1:04:00] [Music/Background plays]
-
-[1:04:10] [Silence]
-
-[1:05:00] [Music/Background plays]
-
-[1:05:10] [Silence]
-
-[1:06:00] [Music/Background plays]
-
-[1:06:10] [Silence]
-
-[1:07:00] [Music/Background plays]
-
-[1:07:10] [Silence]
-
-[1:08:00] [Music/Background plays]
-
-[1:08:10] [Silence]
-
-[1:09:00] [Music/Background plays]
-
-[1:09:10] [Silence]
-
-[1:10:00] [Music/Background plays]
-
-[1:10:10] [Silence]
-
-[1:11:00] [Music/Background plays]
-
-[1:11:10] [Silence]
-
-[1:12:00] [Music/Background plays]
-
-[1:12:10] [Silence]
-
-[1:13:00] [Music/Background plays]
-
-[1:13:10] [Silence]
-
-[1:14:00] [Music/Background plays]
-
-[1:14:10] [Silence]
-
-[1:15:00] [Music/Background plays]
-
-[1:15:10] [Silence]
-
-[1:16:00] [Music/Background plays]
-
-[1:16:10] [Silence]
-
-[1:17:00] [Music/Background plays]
-
-[1:17:10] [Silence]
-
-[1:18:00] [Music/Background plays]
-
-[1:18:10] [Silence]
-
-[1:19:00] [Music/Background plays]
-
-[1:19:10] [Silence]
-
-[1:20:00] [Music/Background plays]
-
-[1:20:10] [Silence]
-
-[1:21:00] [Music/Background plays]
-
-[1:21:10] [Silence]
-
-[1:22:00] [Music/Background plays]
-
-[1:22:10] [Silence]
-
-[1:23:00] [Music/Background plays]
-
-[1:23:10] [Silence]
-
-[1:24:00] [Music/Background plays]
-
-[1:24:10] [Silence]
-
-[1:25:00] [Music/Background plays]
-
-[1:25:10] [Silence]
-
-[1:26:00] [Music/Background plays]
-
-[1:26:10] [Silence]
-
-[1:27:00] [Music/Background plays]
-
-[1:27:10] [Silence]
-
-[1:28:00] [Music/Background plays]
-
-[1:28:10] [Silence]
-
-[1:29:00] [Music/Background plays]
-
-[1:29:10] [Silence]
-
-[1:30:00] [Music/Background plays]
-
-[1:30:10] [Silence]
-
-[1:31:00] [Music/Background plays]
-
-[1:31:10] [Silence]
-
-[1:32:00] [Music/Background plays]
-
-[1:32:10] [Silence]
-
-[1:33:00] [Music/Background plays]
-
-[1:33:10] [Silence]
-
-[1:34:00] [Music/Background plays]
-
-[1:34:10] [Silence]
-
-[1:35:00] [Music/Background plays]
-
-[1:35:10] [Silence]
-
-[1:36:00] [Music/Background plays]
-
-[1:36:10] [Silence]
-
-[1:37:00] [Music/Background plays]
-
-[1:37:10] [Silence]
-
-[1:38:00] [Music/Background plays]
-
-[1:38:10] [Silence]
-
-[1:39:00] [Music/Background plays]
-
-[1:39:10] [Silence]
-
-[1:40:00] [Music/Background plays]
-
-[1:40:10] [Silence]
-
-[1:41:00] [Music/Background plays]
-
-[1:41:10] [Silence]
-
-[1:42:00] [Music/Background plays]
-
-[1:42:10] [Silence]
-
-[1:43:00] [Music/Background plays]
-
-[1:43:10] [Silence]
-
-[1:44:00] [Music/Background plays]
-
-[1:44:10] [Silence]
-
-[1:45:00] [Music/Background plays]
-
-[1:45:10] [Silence]
-
-[1:46:00] [Music/Background plays]
-
-[1:46:10] [Silence]
-
-[1:47:00] [Music/Background plays]
-
-[1:47:10] [Silence]
-
-[1:48:00] [Music/Background plays]
-
-[1:48:10] [Silence]
-
-[1:49:00] [Music/Background plays]
-
-[1:49:10] [Silence]
-
-[1:50:00] [Music/Background plays]
-
-[1:50:10] [Silence]
-
-[1:51:00] [Music/Background plays]
-
-[1:51:10] [Silence]
-
-[1:52:00] [Music/Background plays]
-
-[1:52:10] [Silence]
-
-[1:53:00] [Music/Background plays]
-
-[1:53:10] [Silence]
-
-[1:54:00] [Music/Background plays]
-
-[1:54:10] [Silence]
-
-[1:55:00] [Music/Background plays]
-
-[1:55:10] [Silence]
-
-[1:56:00] [Music/Background plays]
-
-[1:56:10] [Silence]
-
-[1:57:00] [Music/Background plays]
-
-[1:57:10] [Silence]
-
-[1:58:00] [Music/Background plays]
-
-[1:58:10] [Silence]
-
-[1:59:00] [Music/Background plays]
-
-[1:59:10] [Silence]
-
-[2:00:00] [Music/Background plays]
-
-[2:00:10] [Silence]
-
-[2:01:00] [Music/Background plays]
-
-[2:01:10] [Silence]
-
-[2:02:00] [Music/Background plays]
-
-[2:02:10] [Silence]
-
-[2:03:00] [Music/Background plays]
-
-[2:03:10] [Silence]
-
-[2:04:00] [Music/Background plays]
-
-[2:04:10] [Silence]
-
-[2:05:00] [Music/Background plays]
-
-[2:05:10] [Silence]
-
-[2:06:00] [Music/Background plays]
-
-[2:06:10] [Silence]
-
-[2:07:00] [Music/Background fades out]
+[126:57] Host: Mhm.
 
