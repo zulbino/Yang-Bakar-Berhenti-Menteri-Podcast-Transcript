@@ -60,9 +60,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk**
-  - raw.md has a repetition-loop degeneration (360 chars repeating ' Maksudnya'...) -- model got stuck re-emitting the same short phrase
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 602s, 11/12 caption samples matched)
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
