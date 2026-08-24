@@ -240,10 +240,26 @@ chars) caught it, but only as a side effect; the actual defect is
 token-level repetition, not a missing separator. Root cause not confirmed,
 but the failure sequence (timeout -> MAX_TOKENS -> malformed x2 -> finally
 "succeeds") is consistent with retry-induced model degradation rather than
-a fresh, healthy generation. **Not fixed as of this writing** -- a repetition-
-loop detector (e.g. flag any short n-gram repeated an abnormal number of
-times within one block) would catch this class directly instead of relying
-on the wall-of-text check's coincidental overlap.
+a fresh, healthy generation.
+
+**A repo-wide check confirmed this isn't a one-off.** Every other episode
+whose raw.md frontmatter records `model: gemini-3.5-flash` (5 at the time)
+was scanned for the same pattern: `ep53` had an even larger case (a
+140,000-char stretch of one sentence repeated dozens of times), already on
+the flagged list but, like ep13, only because the repeat happened to strip
+paragraph breaks too -- not because anything detected the repetition itself.
+The other 3 were clean. One near-miss worth recording: `ep48` has a real,
+non-buggy short repetition ("nyet nyet nyet nyet...", a euphemism the hosts
+were joking about on-air) that a naive detector would false-positive on --
+distinguishing it from genuine degeneration needed a minimum total repeated
+span (150+ chars), not just "the same phrase repeats", since real filler-word
+repetition is short and genuine degeneration runs for thousands of characters.
+
+**Fixed**: `qa_check.py` now has a dedicated `repetition_loops` check
+(`REPETITION_RE` + a minimum span filter) independent of the wall-of-text
+check, so a repetition loop that keeps normal timestamp breaks between
+repeats -- which would currently pass every other check silently -- gets
+caught directly instead of by coincidence.
 
 ### Raw transcription: doubled blank lines between every turn
 

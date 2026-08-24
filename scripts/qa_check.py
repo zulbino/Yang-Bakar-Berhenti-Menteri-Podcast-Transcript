@@ -87,6 +87,22 @@ MIN_MALAY_DENSITY = 1.0  # marker hits per 1000 chars, for files claiming langua
 DUPLICATE_BLOCK_MIN_CHARS = 300
 SPEAKER_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*[^:]*:\s*")
 
+# Separate failure mode from the duplicate-block hallucination above: instead of
+# re-emitting a whole earlier passage under a new timestamp, the model gets stuck
+# repeating the same short phrase over and over within what should be one turn.
+# Confirmed on two real episodes (ep13, ep53), both landing on the weakest reachable
+# fallback model (gemini-3.5-flash) after every stronger model hit a PROHIBITED_CONTENT
+# block. Both happened to also strip paragraph breaks (so the wall-of-text check caught
+# them by coincidence), but nothing stops the same repetition from occurring with normal
+# timestamp breaks still in place, which would pass every other check silently.
+# Tuned against a real false positive: two speakers riffing on a "nyet nyet nyet nyet"
+# joke repeated the word ~8 times (real content) but only spans ~40 chars -- requiring
+# the total repeated span to reach REPETITION_MIN_SPAN_CHARS excludes that while still
+# catching both confirmed bugs (ep13's ~40x "SMS ke apa, " and ep53's ~140,000-char
+# repeat of a full sentence).
+REPETITION_RE = re.compile(r"(.{8,150}?)\1{3,}", re.S)
+REPETITION_MIN_SPAN_CHARS = 150
+
 MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
 # Bottom of the fallback chain, only reached once every better model is exhausted or
 # down -- confirmed prone to silently dropping code-switched content (see
@@ -113,6 +129,15 @@ def malay_density(text):
     lowered = text.lower()
     hits = sum(lowered.count(marker) for marker in MALAY_MARKERS)
     return hits / len(lowered) * 1000 if lowered else 0
+
+
+def repetition_loops(body):
+    spans = []
+    for m in REPETITION_RE.finditer(body):
+        span = m.end() - m.start()
+        if span >= REPETITION_MIN_SPAN_CHARS:
+            spans.append((span, m.group(1)))
+    return spans
 
 
 def duplicate_blocks(body):
@@ -165,6 +190,14 @@ def check_episode(ep_dir):
     max_block = max((len(b) for b in blocks), default=0)
     if max_block > MAX_BLOCK_CHARS:
         issues.append(f"raw.md has a {max_block}-char block with no paragraph breaks (wall-of-text)")
+
+    rep_spans = repetition_loops(body)
+    if rep_spans:
+        total_span, sample = max(rep_spans, key=lambda x: x[0])
+        issues.append(
+            f"raw.md has a repetition-loop degeneration ({total_span} chars repeating "
+            f"{sample[:60]!r}...) -- model got stuck re-emitting the same short phrase"
+        )
 
     dup_count, dup_chars = duplicate_blocks(body)
     if dup_count:

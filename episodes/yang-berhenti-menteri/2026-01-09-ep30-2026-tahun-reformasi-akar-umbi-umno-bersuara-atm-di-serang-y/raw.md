@@ -584,9 +584,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:28:53] Farhan: Tag tag Rafizi Ramli, Haziq... apa apa kau punya handle?
 
-[2:28:57] Haziq: Haziq lah, Haziq Asyraf.
+[2:28:57] Haziq: Haziq lah, Haziq Azfar.
 
-[2:28:58] Farhan: Haziq Asyraf ataupun saya.
+[2:28:58] Farhan: Haziq Azfar ataupun saya.
 
 [2:29:00] Haziq: Ya. Okey. Baik YB, itu saja. Kita sambung minggu depan, tengok lagi. Sebelum tu, selamat malam.
 

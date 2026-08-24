@@ -14,10 +14,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2024-08-26-ep05-yang-bakar-menteri-ybm-ep5**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 0s, 0/12 caption samples matched)
 - [ ] **2025-09-12-ep13-yang-berhenti-menteri-episod-13**
-  - raw.md has a 92437-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.22 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
+  - raw.md has a 74592-char block with no paragraph breaks (wall-of-text)
+  - raw.md has 1 duplicate block(s) repeated verbatim at different timestamps (325 chars, 0% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3.5-flash
 - [ ] **2025-09-26-ep15-yang-berhenti-menteri-episod-15**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 1136s, 9/12 caption samples matched)
@@ -100,6 +101,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
   - raw.md has a 88095-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a repetition-loop degeneration (85581 chars repeating 'i di-di-d'...) -- model got stuck re-emitting the same short phrase
 - [ ] **2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
@@ -134,6 +136,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 841s, 3/12 caption samples matched)
 - [ ] **2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r**
+  - raw.md has a repetition-loop degeneration (7812 chars repeating ' a, a, a,'...) -- model got stuck re-emitting the same short phrase
   - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
@@ -176,6 +179,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
   - raw.md has a 140698-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a repetition-loop degeneration (139628 chars repeating ' Jadi, bila kita kata, "Kita ni sangat baik, kita ni dah oke'...) -- model got stuck re-emitting the same short phrase
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md

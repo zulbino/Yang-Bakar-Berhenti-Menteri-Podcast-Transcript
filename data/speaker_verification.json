@@ -97,5 +97,151 @@
         ]
       }
     }
+  ],
+  "2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22": [
+    {
+      "claimed_ts": 439,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Ada beberapa orang actually draw parallels dengan Azmin Ali.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Bukan oleh isteri sayalah. Kan jadi... Ada ada beberapa orang actually draw parallels dengan Azmin Ali. Azmin. Saya tak tahulah kan, tapi Azmin mana boleh, tak sama maqam, Azmin lagi tinggi, dia di Masjidil Haram. Kan. Tak, so yang ini masa tengah kelam-kabut, jadi saya pun tak perasan agaknya Kak Ogy datang...",
+        "named_mentions": [
+          "Azmin Ali",
+          "Azmin",
+          "Kak Ogy"
+        ],
+        "voice_descriptions": [
+          "Male speaker with a warm, slightly raspy baritone voice, relaxed conversational cadence, and a humorous, quick delivery using informal Malay particles.",
+          "Male speaker with a smooth, clear mid-register voice, articulate podcast-host cadence, and natural English-Malay bilingual code-switching."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 1707,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Tak boleh pun kena tanya juga. Boleh. Sebab ada, ada a few comments yang mengatakan actually masa Zafrul masuk ke arena politik or arena government ni, dia dikatakan seorang teknokrat. Ramai yang meny",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Kalau aku cakap tak boleh? Tak boleh... Boleh. Sebab ada a few comments yang mengatakan actually masa Zafrul masuk ke arena politik or arena government ni, dia dikatakan seorang technocrat. Ramai yang menyuarakan actually Malaysia perlukan lebih technocratic politicians. What's your view on that? Dia...",
+        "named_mentions": [
+          "Zafrul"
+        ],
+        "voice_descriptions": [
+          "Male voice with a lower pitch, relaxed and articulate, speaking in Malaysian English/Malay with a clear, inquisitive tone.",
+          "Male voice with a slightly higher pitch and lighter, friendly tone, responding humorously at the beginning."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 3723,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Cakap bahasa Melayu, rojak-rojak.",
+      "verdict": {
+        "speaker_count": 3,
+        "transcript_guess": "yang I would like to touch on lah, which is masa... Cakaplah bahasa Melayu. Ya ya ya, pusing, rojak rojak. I like you. I like you. I like you. Resit, ada seorang pembeli lah, viral dekat sosial media. And then ramai orang persoalkan, 'Wah, actually boleh dapat makanan macam ni yang bawah harga, bawah RM15 lah...'",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Male speaker with a moderate pitch and energetic, rapid conversational pace, speaking in a mix of Malay and English (Rojak style).",
+          "Male speaker with a deep, resonant, and calm tone, speaking in a relaxed and humorous manner.",
+          "Male speaker with a higher-pitched, jovial voice who laughs while repeating phrases."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 8728,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Cost of living.",
+      "verdict": {
+        "speaker_count": 3,
+        "transcript_guess": "Yalah, freezer dan free bus semua tu kan? Cost of living. Cost of living. Yalah, apa apa isu dia pasal cost of living? Ini PAS pun duduk cerita cost of living, cost of living. Ah betul, betul. Rent dah tinggi... No, no, itu semua ialah perincian-perincian dia. Apa message substance yang emotionally appealing yang dibawa kepada pengundi? Ah dia cakap tentang selain daripada 1%...",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Mature, deep male voice with an authoritative and questioning tone, speaking Malay mixed with English terms.",
+          "Mid-pitched, slightly raspy male voice who interjects brief conversational points in the background.",
+          "Younger, clear male voice with a higher pitch who provides a direct answer at the end of the clip."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 10156,
+      "claimed_speaker": "Farhan Iqbal",
+      "claimed_text": "Ada ada yang murah tapi yang murah tu sangat kecillah reach dia.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "puluh-puluh ribu. KOL dipanggilnya. Ha, KOL. Ada yang murah, tapi yang murah tu sangat keciklah reach dia. Hmm. Ha, saya tengok juga kan, I think kita stop kot, kan. Mana yang kita stop, kita stop. Sebab itu kalau tengok Kementerian Ekonomi, ada orang tanyalah, 'oh buatlah macam menteri tu, buatlah macam menteri ini.' Orang tak tahu. Kalau ikut cara tertentu, memanglah dia nampak hebat, tapi dia bayar ratus ribu. Hmm.",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Male speaker with a deep, low-pitched, resonant voice, speaking at a measured conversational pace in a Malaysian accent.",
+          "Male speaker with a higher-pitched, lighter voice who provides short interjections and prompts."
+        ]
+      }
+    }
+  ],
+  "2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y": [
+    {
+      "claimed_ts": 257,
+      "claimed_speaker": "Farhan",
+      "claimed_text": "Akmal, Akmal agak tinggi juga.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "...lagi pendek daripada Akmal ni. Akmal tinggi lagi. Pernah jumpalah. Lagi tinggi dari saya. Oh ya? Haah. Malulah ketua MK. Tapi tak apa lah. Dia kata dua-dua beria wei. Tak, yang ini Kamil lagi berialah, kan. Sebab...",
+        "named_mentions": [
+          "Akmal",
+          "MK",
+          "Kamil"
+        ],
+        "voice_descriptions": [
+          "Male with a slightly lower pitch, relaxed and amused tone with occasional laughter, speaking in a conversational Malay style.",
+          "Male with a slightly higher, clearer pitch, conversational and receptive, speaking in informal Malay."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 1070,
+      "claimed_speaker": "Farhan",
+      "claimed_text": "Sebab dia pakai tudung ah, I can't help it.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Yang ni memang beriya. Kita ada 4 beriya Weby, yang mana satu paling ni? Sebab dia pakai tudung ah, I can't help it ah. So, yang ni memang beriyalah. Kita bagi pemenang segmen beriya untuk minggu ini ialah... Lelaki pakai tudung. Lelaki pakai tudung. Tapi aku nak juga kata, yang boss dia tu pun beriya kenapa?",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Male speaker with a deep, resonant pitch, enthusiastic and humorous tone, speaking Malay interspersed with English terms.",
+          "Male speaker with a slightly higher pitch, casual and amused tone, speaking Malay with a Malaysian-English accent."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 3948,
+      "claimed_speaker": "Farhan",
+      "claimed_text": "Since since YB dah mention pasal had tempoh kuasa PM kan, antara penentang terbesar kepada announcement itu adalah PAS. Sanusi dia kata, \"Prestasi PM baik macam mana pun 10 penggal pun tak apa.\" Lepas",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "I hope I'm wrong. I hope I will be wrong. Yeah, since since since we've mentioned pasal ah had tempoh kuasa PM kan... er antara penentang terbesar kepada announcement itu adalah PAS. Er Sanusi, dia kata prestasi PM baik macam mana pun, 10 penggal pun tak apa. Er lepas tu, ah I think Fadzli Shaari yang kata tak ada lah macam ajaib sangat...",
+        "named_mentions": [
+          "PAS",
+          "Sanusi",
+          "Fadzli Shaari"
+        ],
+        "voice_descriptions": [
+          "Low-pitched, deep male voice speaking English in a calm and deliberate tone.",
+          "Mid-pitched male voice speaking a blend of Malay and English, using a relaxed conversational pace with occasional filler pauses."
+        ]
+      }
+    },
+    {
+      "claimed_ts": 4596,
+      "claimed_speaker": "Farhan",
+      "claimed_text": "Ke ke mess hall and dia orang akan ada satu malam di mana bersosial.",
+      "verdict": {
+        "speaker_count": 2,
+        "transcript_guess": "Paling jauh... Mess Hostess lah. Ke Mess Host, dia orang akan ada satu malam di mana bersosial. Bersosial, berhiburan. Dan akan pau ah askar bawahan, pegawai. Itu tuduhan yang belum dikatakan, yang belum dibuktikan. Tapi itu yang viral lah. Yang viral tu pun also include isu-isu pasal...",
+        "named_mentions": [],
+        "voice_descriptions": [
+          "Low-pitched, husky male voice speaking Malay with a relaxed tone, frequently interjecting to finish or elaborate on points.",
+          "Mid-pitched, smooth male voice speaking Malay with occasional English words, characterized by a measured, calm, and slightly hesitant delivery."
+        ]
+      }
+    }
   ]
 }
