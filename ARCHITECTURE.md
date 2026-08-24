@@ -194,11 +194,32 @@ truncated" entries turned out to be a side effect of this: the ratio check looke
 catastrophic partly because `raw.md` was artificially bloated with duplicates, not
 because the rewrite was actually that incomplete.
 
-**Fix**: `qa_check.py` now flags any long block (300+ chars, past the length a
-naturally short recurring reaction like "Ya" or "Baik" would hit) that repeats
-verbatim at a different timestamp. This is a detection fix, not a generation fix --
-the continuation loop itself doesn't yet dedupe or reject repeated content during
-transcription; affected episodes need their raw stage redone.
+**Detection fix**: `qa_check.py` now flags any long block (300+ chars, past the
+length a naturally short recurring reaction like "Ya" or "Baik" would hit) that
+repeats verbatim at a different timestamp.
+
+**Repair, without re-burning a Gemini call**: `scripts/dedupe_raw.py` cross-checks
+each duplicate group against YouTube's own auto-generated captions
+(`yt-dlp --write-auto-subs`) to find which occurrence's timestamp is real, then
+removes the fabricated copies. The captions are unusable for diarization or
+punctuation (YouTube's auto-captions carry no speaker labels at all, confirmed
+directly -- ASR word stream only) but their word-level timing is generated
+straight from the audio, so it reliably locates where a passage actually
+happened. Exact consecutive-word matching against the captions doesn't work --
+Gemini's "lightly cleaned" transcript smooths out disfluencies the raw ASR
+caption still has, so phrasing rarely lines up word-for-word. Instead, the script
+scores each ~40-word window of the caption by how many of the duplicated block's
+distinctive (5+ character) words it contains, and keeps whichever occurrence's
+own timestamp lands closest to the best-scoring window. Confirmed on a real case:
+a ~1,600-word passage duplicated at three fabricated timestamps had its true
+occurrence pinned by the caption within seconds of the earliest of the three --
+consistent with the failure mode being the model backtracking to repeat something
+it already said, not fabricating new timestamps out of nowhere. Where a group's
+captions don't confidently resolve (phrase not found, or too generic to be
+distinctive), the script leaves that group untouched and prints a warning rather
+than guessing -- the continuation loop itself still doesn't reject repeated
+content during generation, so a small residue of unresolved duplicates may need a
+full raw-stage redo instead of a surgical repair.
 
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
