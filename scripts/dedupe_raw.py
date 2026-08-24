@@ -55,12 +55,18 @@ def ts_to_seconds(ts):
 def fetch_captions(video_id, lang):
     CAPTION_DIR.mkdir(exist_ok=True)
     out_tmpl = str(CAPTION_DIR / f"{video_id}.%(ext)s")
-    subprocess.run(
-        ["python", "-m", "yt_dlp", "--write-auto-subs", "--sub-langs", lang,
-         "--skip-download", "--sleep-requests", "2", "-o", out_tmpl,
-         f"https://www.youtube.com/watch?v={video_id}"],
-        check=True, capture_output=True, text=True,
-    )
+    try:
+        subprocess.run(
+            ["python", "-m", "yt_dlp", "--write-auto-subs", "--sub-langs", lang,
+             "--skip-download", "--sleep-requests", "2", "-o", out_tmpl,
+             f"https://www.youtube.com/watch?v={video_id}"],
+            check=True, capture_output=True, text=True,
+        )
+    except subprocess.CalledProcessError:
+        # yt-dlp exits non-zero if this language has no auto-captions for this
+        # video (not necessarily an error worth surfacing) -- let the caller's
+        # ms-then-en fallback try the other language instead of crashing outright.
+        return None
     path = CAPTION_DIR / f"{video_id}.{lang}.vtt"
     return path if path.exists() else None
 

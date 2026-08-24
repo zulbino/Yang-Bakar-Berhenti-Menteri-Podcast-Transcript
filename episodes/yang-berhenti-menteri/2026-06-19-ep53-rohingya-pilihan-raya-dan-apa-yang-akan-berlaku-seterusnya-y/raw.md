@@ -1139,19 +1139,13 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [00:44] Haziq: Baik, assalamualaikum dan salam sejahtera. Podcast Yang Bakal Menteri episod ke-53. Macam biasa bersama saya, Haziq dan bersama saudara Rafizi Ramli. Apa khabar YB?
 
-[00:56] Rafizi Ramli: Gila kita dah 53 minggu, tak nak berhenti ke? Itulah ada orang beritahu, "Dia orang ni buat podcast, aa macam tak boleh miss tiap-tiap minggu, macam usrah. Kalau miss je dah jadi dosa besar. Macam apa ni, kuliah Jumaat dekat Masjid Rusila." Tak. Tak? Gila engkau, jahat betul. Ha, tak pasal-pasal buat dosa. Eh, betul.
-
 [01:23] Haziq: YB, sebelum kita start YB, saya just beritahulah. Ramai penonton-penonton kita ni kadang-kadang dia hantar jemputan kahwin kat YB semua. Jadi saya rasa saya just beritahu kat YB...
 
 [01:36] Rafizi Ramli: Dia hantar kat mana jemputan kahwin?
 
 [01:38] Haziq: Kat Twitter ada. Tapi kalau YB nak pergi, tak terpergilah kot YB. Jadi YB mungkin ucapkanlah sesuatu kat mereka.
 
-[01:46] Rafizi Ramli: Aaa jadi... Hahaha. Ini tak masuk skrip ni. Hahaha. Aa saya mengambil kesempatan ini untuk mengucapkan selat- oh! Aku pergi kan hari tu apa nama ni Amir kahwin? Ha'ah, Amir. Haa. Insan terpilih. Ha, Amir ni kira insan terpilih lah, sebab dia buat podcast. Kalau tak pergi dia kahwin, dia mogok tak buat podcast, mati aku tak ada podcast. Hahaha. Jadi kepada yang lain yang saya tak berkesempatan, saya ucapkan aa selamat berbahagia, aa kahwin... Pun susahlah aku nak ucap pasal kahwin ni sebab aku kahwin dulu simple sangat. Tak ada tanya, "Amir, actually kau tak pergi honeymoon ke?" Pastu aku terfikir, actually masa aku kahwin dulu, lepas aku kahwin tu aku buat apa eh? Aku pergi kerja. Haha, aku pergi kerja, esoknya aku pergi kerja. Tak ada honeymoon. So aku pun tak ada honeymoon kan. Tapi ha, kepada yang lain yang dah merancang honeymoon, aa selamat bergembiralah. Jangan fikir pasal podcast lah, pasal politik, pasal pilihan raya, pergi honeymoon. Kecuali Amir, kau kena buat podcast.
-
 [02:56] Haziq: Baik. Dengar Amir? Amir kat belakang tu. Okey baik, YB.
-
-[02:59] Rafizi Ramli: Kebiasaan, teruskanlah macam biasa. Cuma kepada semua yang dah rancang nak skip selepas berapa minit ni, kita akan sentuh isu Rohingya. Ha, jadi kena tunggu. Ha, sebab minggu lepas tontonan merudum. Menunjukkan bahawa penonton-penonton podcast YBM ini tua-tua. Bila kita jemput dua Gen Z datang, walaupun bersemangat, dan Zaim sampai tertidur-tidur sebab dah lambat sangat kan, kesian kat dia, akhirnya tontonan itu, aku ingat ada dua sebab lah. Satu sebab kita ada jelajah kan? Ah back to back. Back to back. Bila kita ada jelajah back to back, jadi algorithm tu dia nak kena balance sikit lah kot. I pun tak tahu exactly how it affects it, tapi most probably yang lebih mendapat tontonan dan likes and clicks, content yang kemudian itu akan suppress and cannibalise content yang lebih awallah. Ha, jadi buat pertama kali podcast YBM minggu lepas lah, itu episod ke-52, ulang tahun pertama, dia tak men- dia belum belum cross 100,000 lagi kan selepas seminggu. Selalunya dalam dua hari dia dah cross 100,000 lebih dah. Ha, jadi kepada Gen Z sekalian, jangan marahlah kalau kami tak cakap pasal Gen Z eh. Lain kali kalau nak podcast YBM bercakap pasal Gen Z, silalah tonton ramai-ramai.
 
 [04:39] Haziq: Okey, okey baik. Kita tengok Beria terus YB? Kita ada enam eh? Okelah. Banyak sikit.
 
@@ -1163,17 +1157,9 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [05:14] Haziq: Ada saya tengoklah komen-komen, berdasarkan komen kan, ada yang kata, "Eh, kita sebenarnya boleh buat benda lagi senang. Apa kata, kita saring dulu. Ah buat macam ni, buat macam tu." Bangsa baik.
 
-[05:32] Rafizi Ramli: Oh. Jadi kalau- kalau nak kata, sebab nak kata yang beratur panjang ni beria, kesianlah kat dia orang, dia orang nak dapatkan kerja kan. Dia- saya cadangkan Infineon, lepas ni kalau boleh, kami sedia- kami di BERSAMA, sedia membantu untuk menyaring lebih awal. Kerana sebenarnya yalah, antara perkara pertama, produk pertama yang yang saya usahakanlah kan, daripada dulu lagi, saya memang se- sebagai employer-lah kan, kita ada masalah kerana bila kita buka iklan kerja, memang orang hantar segala jenis permohonanlah. Dan CV tu nampak hebat gila. Tapi bila interview, Allahuakbar! Kan, susah kan. Ah, jadi cara yang lebih baik untuk kita shortlist, ialah kalau ah yang memohon itu memang perlu melalui proses temuduga dengan algorithm, dengan dengan screen-lah. And we can work out algorithm di belakang itu untuk menanya soalan-soalan yang berdasarkan maklumat yang kita dah ada daripada CV dia. Sistem tu memang ada, memang terpakai sampai sekaranglah. Cuma yalah, saya fahamlah perasaan ah terutamanya syarikat-syarikat tech, IT di Malaysia ni, sebab selalunya syarikat kat Malaysia ni kalau tak nama Mat Salleh ke, ataupun tak ada tak ada connection ke, terutamanya kalau yang syarikat besar-besarlah, dia tak layan semua ni kan. Jadi perkara yang samalah yang kita gunakan ah untuk membangunkan sistem saringan calon BERSAMA. And I'm happy, setakat ini algorithm itu berjalan dengan baik, dia betul-betul membantu kita. Orang yang apply tu dia kena isi, kemudian dia kena melalui interview ah dengan screen tu, dan kita memang ada algorithm di belakang yang score dari segi keyakinan dia, ah bahasa yang digunakan, kemudian dari segi facial ah expression kan. Actually, you can even train ah algorithm kepada kerdip mata. Mmm hmm. Kan, actually macam mana your tangan, everything, whatever you can do lah. Dan dan daripada itu semua, dia ada composite score-lah mengikut semua tu. Dan dia bagi ranking kepada calon-calon. Setakat ini saya agak-agak puas hatilah dengan ranking itulah, dia tak ke laut sangatlah. Sebab algorithm ni kadang-kadang bila kita bangunkan, when you train on a much smaller sample, ah dia ke laut. Yang paling teruk tulah nombor satu, yang ok. Ah tapi so far, jadi kepada majikan-majikan, eh kami BERSAMA yang baru sebulan ni pun dah saring awal pakai pakai apa nama ni ah screen interview. Saya ingat majikan-majikan Malaysia sepatutnya ah lebih ke depanlah. Sebab ah screen interview ni dengan algorithm ni is actually quite quite common-lah di negara Barat contohnya kan.
-
 [09:18] Haziq: Mahal kot.
 
-[09:20] Rafizi Ramli: Tak adalah, murah je. Kita orang yang cabuk ni pun boleh buat kan. Cuma and platform tu ada, banyak platform semua tu ada, solution tu ada. Tapi saya pun tak tahu lah kenapa kan. Mungkin HR director dia ke, ataupun saya tahu lah awal-awal masa kita orang buat tu, antara komen daripada HR director yang kami jumpa ialah, "Eh, kalau kau orang buat macam ni, recruiter semua tak ada kerjalah. Siapa nak buat kerja dia orang? Sebab yang ini dah buat macam ni kan." Jadi ah untuk membantu yang muda-muda ni dulu, janganlah kesian dia beratur panjang macam ini kan. Tambah kalau dia beratur, lepas tu memang dia tak layak ataupun tidak sesuai dengan jawatan kosong tu, yalah dia dia lagilah fras lah. Mmm.
-
 [10:13] Haziq: Jadi Beria ni maksudnya kita katakan Beria syarikat-syarikat yang masih lagi tidak mahu menggunakan teknologi. Ya. Setuju.
-
-[10:24] Rafizi Ramli: Okay. Kita tengok yang lain. Biasalah lepas-lepas ni dah ada politiklah kan? Yang pertama je yang tak politik kan. Kau ingat kau boleh scam penonton ke? Dia orang dah tahu dah. Yang pertama je. At least, at least minggu ni aku boleh komen panjang sikitlah kan, sebab ada pengalaman peribadi. Yang sebelum ini yang kau orang cuba nak scam yang awal-awal tu. Off betul. Disqualified. Okay.
-
-[10:39] Haziq: Kita tengok next. Ketua Pengarah Jabatan Komen Orang Macam-macam. Oh, J-KOM, Jabatan Komen Orang Macam-macam. Bergaduh dengan Lim Sian See, Eric See-To. Ha ya. Dia, yalah kita tengok performance sejak hari pertama, sangat bersemangat. Berapa kali dia bang- dia edit tu? Pukul 5.37 mula dia panggil belaci. Eh bukan belacil lah, dia balaci. Ini... Haha. Macam mana Ketua Pengarah J-KOM ni, apa nama ni vocab salah, spelling salah ni. Balaci. Balaci lah. Ke sekarang dah tukar jadi belaci? Balaci lah. Balaci lah kan? Balaci.
 
 [11:39] Haziq: Ini memanggil Cina sesatlah. Mmm. Dan kemudian ditegur oleh bos-bos dia. Mmm. Timbalan Menteri dan juga Menteri. Mmm.
 
@@ -1193,15 +1179,9 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 
 [12:37] Rafizi Ramli: Kau ke, Pak An ke, actually what is your assessment of the work deliverable? Takkan assessment dia, KPI paling tinggi ialah seberapa banyak, seberapa Beria kau jadi badut?
 
-[12:49] Pa'an: Because J-KOM ni tugas dia adalah untuk bridge the gap in communication between government dengan rakyat. So as KP J-KOM, shouldn't you be going on the ground getting feedback from the rakyat regarding performance kerajaan? Dan juga... Well that's given, right? From social media, that's given. But for a KP to be doing what he did tu, saya rasa macam sangat tak faham job scope ah.
-
-[13:21] Rafizi Ramli: Kita pernah ulas- kita tolong bantulah, tolong bantu Syam Ghaz ni kan. Consultation procurement. Patutlah aku tak kaya sampai sekarang kan. Kan kita pernah ada slot kan, kita bincang mengenai masalah komunikasi kerajaan. So dia mesti bermula dengan orang kata situational assessment. Sebenarnya kenapa kerajaan ada masalah untuk menyampaikan dasar dan juga pencapaian kerajaan. So kenapa?
-
 [13:58] Haziq: Bahasa dia tak tajam mengarah ya?
 
 [14:03] Rafizi Ramli: Yeke? Is it because of bahasa? Kecillah kot.
-
-[14:08] Pa'an: Why rakyat tak tak dapat that messaging from... Yalah, I mean because the the hypothesis- bukan the hypothesis-lah, maksudnya logicnya mudahlah. Kerajaan merasakan bahawa mereka sekarang ini adalah satu kerajaan yang baik. Madani ini banyak membantu rakyat, sepatutnya mendapat sokongan besar. Tetapi diagnosis mereka ialah ada masalah komunikasi. Sebab itulah maka J-KOM ini menjadi cukup penting kerana maklumat itu tidak sampai kepada rakyat. Is that a correct hypothesis? Because it must begin with situation- situational assessment.
 
 [15:00] Haziq: It can be true, cuma nak rely on satu jabatan untuk puaskan hati semua orang, susah juga.
 
@@ -1298,4 +1278,3 @@ Lokasi di Indera Mahkota, Kuantan, bermula jam 8.30 malam.
 [2:55:00] [silence]
 
 [2:59:59] [silence]
-

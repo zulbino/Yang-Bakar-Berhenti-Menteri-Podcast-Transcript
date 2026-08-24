@@ -11,6 +11,7 @@ view_count: 264521
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
 [02:21] Rafizi: Assalamualaikum dan welcome ke Yang Berhenti Menteri podcast episod khas episod ke-28. Sebelum saya membuat pengakuan, mungkin lebih baik untuk saya cakap, "Merry Christmas", ho ho ho.
@@ -253,8 +254,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [15:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[15:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [16:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [16:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -296,8 +295,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [17:53] Rafizi: Um, hmm.
 
 [17:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[18:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [18:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -349,8 +346,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[21:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [22:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [22:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -392,8 +387,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [23:44] Rafizi: Um, hmm.
 
 [23:45] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[23:53] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [24:26] Speaker 2: tiga orang tu dah dah di-
 
@@ -445,8 +438,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:27] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[27:39] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [28:08] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [28:21] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -488,8 +479,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [29:34] Rafizi: Um, hmm.
 
 [29:35] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[29:43] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [30:16] Speaker 2: tiga orang tu dah dah di-
 
@@ -541,8 +530,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[33:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [33:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [34:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -584,8 +571,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [35:23] Rafizi: Um, hmm.
 
 [35:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[35:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [36:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -637,8 +622,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[39:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [39:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [40:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -680,8 +663,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [41:13] Rafizi: Um, hmm.
 
 [41:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[41:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [41:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -733,8 +714,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [44:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[45:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [45:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [45:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -776,8 +755,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [47:03] Rafizi: Um, hmm.
 
 [47:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[47:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [47:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -829,8 +806,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[50:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [51:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [51:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -872,8 +847,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [52:53] Rafizi: Um, hmm.
 
 [52:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[53:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [53:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -925,8 +898,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [56:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[56:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [57:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [57:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -968,8 +939,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [58:43] Rafizi: Um, hmm.
 
 [58:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[58:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [59:25] Speaker 2: tiga orang tu dah dah di-
 
@@ -1021,8 +990,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [62:26] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[62:38] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [63:07] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [63:20] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1064,8 +1031,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [64:33] Rafizi: Um, hmm.
 
 [64:34] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[64:42] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [65:15] Speaker 2: tiga orang tu dah dah di-
 
@@ -1117,8 +1082,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [68:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[68:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [68:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [69:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1160,8 +1123,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [70:23] Rafizi: Um, hmm.
 
 [70:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[70:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [71:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -1213,8 +1174,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [74:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[74:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [74:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [75:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1256,8 +1215,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [76:13] Rafizi: Um, hmm.
 
 [76:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[76:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [76:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -1309,8 +1266,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [79:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[80:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [80:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [80:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1352,8 +1307,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [82:03] Rafizi: Um, hmm.
 
 [82:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[82:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [82:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -1405,8 +1358,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [85:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[85:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [86:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [86:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1448,8 +1399,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [87:53] Rafizi: Um, hmm.
 
 [87:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[88:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [88:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -1501,8 +1450,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [91:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[91:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [92:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [92:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1544,8 +1491,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [93:43] Rafizi: Um, hmm.
 
 [93:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[93:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [94:25] Speaker 2: tiga orang tu dah dah di-
 
@@ -1597,8 +1542,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [97:26] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[97:38] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [98:07] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [98:20] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1640,8 +1583,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [99:33] Rafizi: Um, hmm.
 
 [99:34] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[99:42] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [100:15] Speaker 2: tiga orang tu dah dah di-
 
@@ -1693,8 +1634,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [103:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[103:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [103:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [104:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1736,8 +1675,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [105:23] Rafizi: Um, hmm.
 
 [105:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[105:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [106:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -1789,8 +1726,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [109:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[109:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [109:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [110:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1832,8 +1767,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [111:13] Rafizi: Um, hmm.
 
 [111:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[111:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [111:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -1885,8 +1818,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [114:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[115:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [115:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [115:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -1928,8 +1859,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [117:03] Rafizi: Um, hmm.
 
 [117:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[117:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [117:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -1981,8 +1910,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [120:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[120:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [121:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [121:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2024,8 +1951,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [122:53] Rafizi: Um, hmm.
 
 [122:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[123:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [123:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -2077,8 +2002,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [126:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[126:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [127:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [127:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2120,8 +2043,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [128:43] Rafizi: Um, hmm.
 
 [128:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[128:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [129:25] Speaker 2: tiga orang tu dah dah di-
 
@@ -2173,8 +2094,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [132:26] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[132:38] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [133:07] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [133:20] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2216,8 +2135,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [134:33] Rafizi: Um, hmm.
 
 [134:34] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[134:42] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [135:15] Speaker 2: tiga orang tu dah dah di-
 
@@ -2269,8 +2186,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [138:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[138:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [138:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [139:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2312,8 +2227,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [140:23] Rafizi: Um, hmm.
 
 [140:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[140:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [141:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -2365,8 +2278,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [144:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[144:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [144:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [145:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2408,8 +2319,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [146:13] Rafizi: Um, hmm.
 
 [146:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[146:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [146:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -2461,8 +2370,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [149:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[150:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [150:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [150:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2504,8 +2411,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [152:03] Rafizi: Um, hmm.
 
 [152:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[152:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [152:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -2557,8 +2462,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [155:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[155:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [156:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [156:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2600,8 +2503,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [157:53] Rafizi: Um, hmm.
 
 [157:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[158:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [158:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -2653,8 +2554,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [161:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[161:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [162:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [162:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2696,8 +2595,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [163:43] Rafizi: Um, hmm.
 
 [163:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[163:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [164:25] Speaker 2: tiga orang tu dah dah di-
 
@@ -2749,8 +2646,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [167:26] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[167:38] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [168:07] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [168:20] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2792,8 +2687,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [169:33] Rafizi: Um, hmm.
 
 [169:34] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[169:42] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [170:15] Speaker 2: tiga orang tu dah dah di-
 
@@ -2845,8 +2738,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [173:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[173:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [173:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [174:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2888,8 +2779,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [175:23] Rafizi: Um, hmm.
 
 [175:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[175:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [176:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -2941,8 +2830,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [179:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[179:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [179:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [180:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -2984,8 +2871,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [181:13] Rafizi: Um, hmm.
 
 [181:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[181:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [181:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -3037,8 +2922,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [184:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[185:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [185:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [185:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3080,8 +2963,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [187:03] Rafizi: Um, hmm.
 
 [187:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[187:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [187:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -3133,8 +3014,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [190:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[190:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [191:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [191:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3176,8 +3055,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [192:53] Rafizi: Um, hmm.
 
 [192:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[193:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [193:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -3229,8 +3106,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [196:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[196:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [197:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [197:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3272,8 +3147,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [198:43] Rafizi: Um, hmm.
 
 [198:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[198:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [199:25] Speaker 2: tiga orang tu dah dah di-
 
@@ -3325,8 +3198,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [211:26] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[211:38] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [212:07] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [212:20] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3368,8 +3239,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [213:33] Rafizi: Um, hmm.
 
 [213:34] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[213:42] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [214:15] Speaker 2: tiga orang tu dah dah di-
 
@@ -3421,8 +3290,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [217:16] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[217:28] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [217:57] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [218:10] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3464,8 +3331,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [219:23] Rafizi: Um, hmm.
 
 [219:24] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[219:32] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [220:05] Speaker 2: tiga orang tu dah dah di-
 
@@ -3517,8 +3382,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [223:06] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[223:18] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [223:47] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [224:00] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3560,8 +3423,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [225:13] Rafizi: Um, hmm.
 
 [225:14] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[225:22] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [225:55] Speaker 2: tiga orang tu dah dah di-
 
@@ -3613,8 +3474,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [228:56] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[229:08] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [229:37] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [229:50] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3656,8 +3515,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [231:03] Rafizi: Um, hmm.
 
 [231:04] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[231:12] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [231:45] Speaker 2: tiga orang tu dah dah di-
 
@@ -3709,8 +3566,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [234:46] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[234:58] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [235:27] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [235:40] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3752,8 +3607,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [236:53] Rafizi: Um, hmm.
 
 [236:54] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
-
-[237:02] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um, lima orang Adun Bersatu berkonplot dengan tiga orang Adun PAS untuk buat SD, um,
 
 [237:35] Speaker 2: tiga orang tu dah dah di-
 
@@ -3805,8 +3658,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [240:36] Rafizi: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[240:48] Rafizi: uh, obviously power corrupts anywhere and in any party, even negeri yang paling kecil di Malaysia pun, power can corrupt kan. uh kan, uh, perebutan sesama mereka, dan dia ada dimensi yang yang lebih besarlah kerana, um, apa yang berlaku di Perlis ni. Walaupun dia Perlis, which is kecil dan orang mungkin rasa dia tak ada kesan kepada negara.
-
 [241:17] Rafizi: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
 [241:30] Speaker 2: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
@@ -3850,4 +3701,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [242:44] Speaker 2: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
 [242:52] Rafizi: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um
-

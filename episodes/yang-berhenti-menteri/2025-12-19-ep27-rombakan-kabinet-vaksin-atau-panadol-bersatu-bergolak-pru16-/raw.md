@@ -11,6 +11,7 @@ view_count: 102912
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
 [02:20] Rafizi Ramli: Assalamualaikum dan selamat datang sekali lagi podcast yang Menteri-Menteri dah episod ke-27. Macam biasa bersama saudara-saudara Rafizi Ramli. Obviously.
@@ -223,13 +224,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[20:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [21:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [21:25] Speaker 2: Mhm.
-
-[21:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [22:29] Speaker 2: Okey.
 
@@ -253,11 +250,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [23:22] Speaker 2: Saya test.
 
-[23:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [24:05] Speaker 2: Mhm.
-
-[24:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [25:00] Speaker 2: Baik YB. Good luck.
 
@@ -291,21 +284,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [25:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[25:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [26:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [26:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[26:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [26:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [26:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[27:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[27:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [28:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -321,8 +306,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[28:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [30:34] Speaker 2: With assistance daripada government.
 
 [30:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -335,13 +318,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [30:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[30:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [31:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [31:25] Speaker 2: Mhm.
-
-[31:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [32:29] Speaker 2: Okey.
 
@@ -365,11 +344,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:22] Speaker 2: Saya test.
 
-[33:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [34:05] Speaker 2: Mhm.
-
-[34:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [35:00] Speaker 2: Baik YB. Good luck.
 
@@ -403,21 +378,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[35:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [36:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [36:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[36:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [36:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [36:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[37:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[37:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [38:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -433,8 +400,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[38:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [40:34] Speaker 2: With assistance daripada government.
 
 [40:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -447,13 +412,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[40:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [41:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [41:25] Speaker 2: Mhm.
-
-[41:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [42:29] Speaker 2: Okey.
 
@@ -477,11 +438,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [43:22] Speaker 2: Saya test.
 
-[43:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [44:05] Speaker 2: Mhm.
-
-[44:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [45:00] Speaker 2: Baik YB. Good luck.
 
@@ -515,21 +472,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [45:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[45:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [46:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [46:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[46:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [46:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [46:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[47:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[47:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [48:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -545,8 +494,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[48:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [50:34] Speaker 2: With assistance daripada government.
 
 [50:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -559,13 +506,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[50:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [51:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [51:25] Speaker 2: Mhm.
-
-[51:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [52:29] Speaker 2: Okey.
 
@@ -589,11 +532,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:22] Speaker 2: Saya test.
 
-[53:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [54:05] Speaker 2: Mhm.
-
-[54:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [55:00] Speaker 2: Baik YB. Good luck.
 
@@ -627,21 +566,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[55:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [56:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [56:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[56:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [56:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [56:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[57:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[57:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [58:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -657,8 +588,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[58:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [60:34] Speaker 2: With assistance daripada government.
 
 [60:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -671,13 +600,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [60:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[60:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [61:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [61:25] Speaker 2: Mhm.
-
-[61:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [62:29] Speaker 2: Okey.
 
@@ -701,11 +626,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [63:22] Speaker 2: Saya test.
 
-[63:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [64:05] Speaker 2: Mhm.
-
-[64:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [65:00] Speaker 2: Baik YB. Good luck.
 
@@ -739,21 +660,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [65:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[65:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [66:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [66:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[66:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [66:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [66:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[67:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[67:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [68:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -769,8 +682,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [68:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[68:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [70:34] Speaker 2: With assistance daripada government.
 
 [70:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -783,13 +694,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [70:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[70:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [71:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [71:25] Speaker 2: Mhm.
-
-[71:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [72:29] Speaker 2: Okey.
 
@@ -813,11 +720,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [73:22] Speaker 2: Saya test.
 
-[73:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [74:05] Speaker 2: Mhm.
-
-[74:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [75:00] Speaker 2: Baik YB. Good luck.
 
@@ -851,21 +754,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [75:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[75:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [76:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [76:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[76:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [76:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [76:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[77:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[77:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [78:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -881,8 +776,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [78:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[78:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [80:34] Speaker 2: With assistance daripada government.
 
 [80:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -895,13 +788,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [80:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[80:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [81:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [81:25] Speaker 2: Mhm.
-
-[81:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [82:29] Speaker 2: Okey.
 
@@ -925,11 +814,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [83:22] Speaker 2: Saya test.
 
-[83:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [84:05] Speaker 2: Mhm.
-
-[84:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [85:00] Speaker 2: Baik YB. Good luck.
 
@@ -963,21 +848,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [85:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[85:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [86:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [86:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[86:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [86:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [86:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[87:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[87:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [88:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -993,8 +870,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [88:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[88:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [90:34] Speaker 2: With assistance daripada government.
 
 [90:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1007,13 +882,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [90:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[90:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [91:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [91:25] Speaker 2: Mhm.
-
-[91:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [92:29] Speaker 2: Okey.
 
@@ -1037,11 +908,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [93:22] Speaker 2: Saya test.
 
-[93:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [94:05] Speaker 2: Mhm.
-
-[94:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [95:00] Speaker 2: Baik YB. Good luck.
 
@@ -1075,21 +942,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [95:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[95:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [96:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [96:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[96:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [96:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [96:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[97:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[97:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [98:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1105,8 +964,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [98:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[98:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [100:34] Speaker 2: With assistance daripada government.
 
 [100:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1119,13 +976,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [100:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[100:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [101:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [101:25] Speaker 2: Mhm.
-
-[101:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [102:29] Speaker 2: Okey.
 
@@ -1149,11 +1002,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [13:22] Speaker 2: Saya test.
 
-[13:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [14:05] Speaker 2: Mhm.
-
-[14:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [15:00] Speaker 2: Baik YB. Good luck.
 
@@ -1187,21 +1036,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [15:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[15:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [16:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [16:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[16:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [16:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [16:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[17:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[17:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [18:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1217,8 +1058,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [18:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[18:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [20:34] Speaker 2: With assistance daripada government.
 
 [20:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1231,13 +1070,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[20:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [21:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [21:25] Speaker 2: Mhm.
-
-[21:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [22:29] Speaker 2: Okey.
 
@@ -1261,11 +1096,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [23:22] Speaker 2: Saya test.
 
-[23:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [24:05] Speaker 2: Mhm.
-
-[24:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [25:00] Speaker 2: Baik YB. Good luck.
 
@@ -1299,21 +1130,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [25:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[25:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [26:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [26:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[26:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [26:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [26:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[27:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[27:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [28:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1329,8 +1152,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[28:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [30:34] Speaker 2: With assistance daripada government.
 
 [30:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1343,13 +1164,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [30:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[30:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [31:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [31:25] Speaker 2: Mhm.
-
-[31:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [32:29] Speaker 2: Okey.
 
@@ -1373,11 +1190,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:22] Speaker 2: Saya test.
 
-[33:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [34:05] Speaker 2: Mhm.
-
-[34:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [35:00] Speaker 2: Baik YB. Good luck.
 
@@ -1411,21 +1224,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[35:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [36:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [36:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[36:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [36:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [36:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[37:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[37:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [38:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1441,8 +1246,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[38:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [40:34] Speaker 2: With assistance daripada government.
 
 [40:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1455,13 +1258,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[40:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [41:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [41:25] Speaker 2: Mhm.
-
-[41:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [42:29] Speaker 2: Okey.
 
@@ -1485,11 +1284,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [43:22] Speaker 2: Saya test.
 
-[43:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [44:05] Speaker 2: Mhm.
-
-[44:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [45:00] Speaker 2: Baik YB. Good luck.
 
@@ -1523,21 +1318,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [45:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[45:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [46:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [46:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[46:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [46:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [46:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[47:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[47:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [48:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1553,8 +1340,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[48:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [50:34] Speaker 2: With assistance daripada government.
 
 [50:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1567,13 +1352,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[50:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [51:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [51:25] Speaker 2: Mhm.
-
-[51:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [52:29] Speaker 2: Okey.
 
@@ -1597,11 +1378,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:22] Speaker 2: Saya test.
 
-[53:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [54:05] Speaker 2: Mhm.
-
-[54:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [55:00] Speaker 2: Baik YB. Good luck.
 
@@ -1635,21 +1412,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[55:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [56:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [56:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[56:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [56:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [56:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[57:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[57:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [58:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1665,8 +1434,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[58:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [60:34] Speaker 2: With assistance daripada government.
 
 [60:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1679,13 +1446,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [60:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[60:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [61:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [61:25] Speaker 2: Mhm.
-
-[61:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [62:29] Speaker 2: Okey.
 
@@ -1709,11 +1472,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [63:22] Speaker 2: Saya test.
 
-[63:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [64:05] Speaker 2: Mhm.
-
-[64:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [65:00] Speaker 2: Baik YB. Good luck.
 
@@ -1747,21 +1506,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [65:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[65:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [66:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [66:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[66:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [66:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [66:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[67:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[67:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [68:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1777,8 +1528,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [68:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[68:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [70:34] Speaker 2: With assistance daripada government.
 
 [70:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1791,13 +1540,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [70:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[70:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [71:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [71:25] Speaker 2: Mhm.
-
-[71:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [72:29] Speaker 2: Okey.
 
@@ -1821,11 +1566,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [73:22] Speaker 2: Saya test.
 
-[73:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [74:05] Speaker 2: Mhm.
-
-[74:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [75:00] Speaker 2: Baik YB. Good luck.
 
@@ -1859,21 +1600,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [75:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[75:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [76:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [76:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[76:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [76:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [76:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[77:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[77:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [78:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -1889,8 +1622,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [78:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[78:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [80:34] Speaker 2: With assistance daripada government.
 
 [80:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -1903,13 +1634,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [80:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[80:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [81:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [81:25] Speaker 2: Mhm.
-
-[81:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [82:29] Speaker 2: Okey.
 
@@ -1933,11 +1660,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [83:22] Speaker 2: Saya test.
 
-[83:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [84:05] Speaker 2: Mhm.
-
-[84:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [85:00] Speaker 2: Baik YB. Good luck.
 
@@ -1971,21 +1694,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [85:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[85:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [86:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [86:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[86:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [86:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [86:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[87:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[87:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [88:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2001,8 +1716,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [88:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[88:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [90:34] Speaker 2: With assistance daripada government.
 
 [90:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2015,13 +1728,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [90:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[90:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [91:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [91:25] Speaker 2: Mhm.
-
-[91:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [92:29] Speaker 2: Okey.
 
@@ -2045,11 +1754,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [93:22] Speaker 2: Saya test.
 
-[93:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [94:05] Speaker 2: Mhm.
-
-[94:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [95:00] Speaker 2: Baik YB. Good luck.
 
@@ -2083,21 +1788,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [95:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[95:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [96:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [96:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[96:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [96:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [96:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[97:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[97:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [98:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2113,8 +1810,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [98:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[98:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [100:34] Speaker 2: With assistance daripada government.
 
 [100:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2127,13 +1822,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [100:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[100:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [101:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [101:25] Speaker 2: Mhm.
-
-[101:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [102:29] Speaker 2: Okey.
 
@@ -2157,11 +1848,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [103:22] Speaker 2: Saya test.
 
-[103:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [104:05] Speaker 2: Mhm.
-
-[104:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [105:00] Speaker 2: Baik YB. Good luck.
 
@@ -2195,21 +1882,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [105:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[105:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [106:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [106:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[106:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [106:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [106:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[107:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[107:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [108:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2225,8 +1904,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [108:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[108:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [110:34] Speaker 2: With assistance daripada government.
 
 [110:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2239,13 +1916,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [110:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[110:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [111:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [111:25] Speaker 2: Mhm.
-
-[111:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [112:29] Speaker 2: Okey.
 
@@ -2269,11 +1942,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [113:22] Speaker 2: Saya test.
 
-[113:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [114:05] Speaker 2: Mhm.
-
-[114:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [115:00] Speaker 2: Baik YB. Good luck.
 
@@ -2307,21 +1976,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [115:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[115:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [116:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [116:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[116:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [116:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [116:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[117:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[117:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [118:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2337,8 +1998,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [118:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[118:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [120:34] Speaker 2: With assistance daripada government.
 
 [120:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2351,13 +2010,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [120:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[120:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [121:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [121:25] Speaker 2: Mhm.
-
-[121:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [122:29] Speaker 2: Okey.
 
@@ -2381,11 +2036,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [123:22] Speaker 2: Saya test.
 
-[123:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [124:05] Speaker 2: Mhm.
-
-[124:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [125:00] Speaker 2: Baik YB. Good luck.
 
@@ -2419,21 +2070,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [125:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[125:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [126:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [126:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[126:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [126:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [126:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[127:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[127:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [128:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2449,8 +2092,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [128:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[128:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [130:34] Speaker 2: With assistance daripada government.
 
 [130:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2463,13 +2104,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [130:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[130:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [131:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [131:25] Speaker 2: Mhm.
-
-[131:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [132:29] Speaker 2: Okey.
 
@@ -2493,11 +2130,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [133:22] Speaker 2: Saya test.
 
-[133:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [134:05] Speaker 2: Mhm.
-
-[134:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [135:00] Speaker 2: Baik YB. Good luck.
 
@@ -2531,21 +2164,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [135:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[135:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [136:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [136:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[136:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [136:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [136:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[137:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[137:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [138:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2561,8 +2186,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [138:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[138:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [140:34] Speaker 2: With assistance daripada government.
 
 [140:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2575,13 +2198,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [140:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[140:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [141:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [141:25] Speaker 2: Mhm.
-
-[141:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [142:29] Speaker 2: Okey.
 
@@ -2605,11 +2224,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [143:22] Speaker 2: Saya test.
 
-[143:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [144:05] Speaker 2: Mhm.
-
-[144:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [145:00] Speaker 2: Baik YB. Good luck.
 
@@ -2643,21 +2258,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [145:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[145:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [146:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [146:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[146:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [146:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [146:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[147:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[147:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [148:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2673,8 +2280,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [148:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[148:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, teraju, salah satu fokusnya ialah untuk kita menukar success model sebab terutamanya kepada bumiputera. Success model tu dia masih lagi sangkut kepada success model zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi the capital is not mobilized dan selalunya is very inward into you. Maksudnya kelas menengah Melayu boleh makan di rembayanglah. Bayar berapa pun tapi dari segi how to grow and mobilize the capital tu dia masih lagi berlega di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Mainbank lah, dekat Southcom Digilah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ni dia memilih untuk strike out on their own kan. So, in that sense lah, kan
-
 [150:34] Speaker 2: With assistance daripada government.
 
 [150:36] Rafizi Ramli: Mana ada government assistance kat tempat lain.
@@ -2687,13 +2292,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [150:45] Rafizi Ramli: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[150:49] Speaker 2: Saya excited sebab Khairul Aming ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
-
 [151:09] Rafizi Ramli: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
 [151:25] Speaker 2: Mhm.
-
-[151:26] Rafizi Ramli: Kalau katakanlah di US lah ambil contoh US dan sekarang ni China kan. Kalau budak tu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan startup saya dulu untuk race capital kan, panjang tebal macam ni agreement dan sebab kelas menengah kita ni yang kaya-kaya kita ni, dia dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
 
 [152:29] Speaker 2: Okey.
 
@@ -2717,11 +2318,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [153:22] Speaker 2: Saya test.
 
-[153:24] Rafizi Ramli: So, kalau dah dia dua lembaran muka surat surat khabar tu, besar kemungkinan bukan utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun beritahu dia ikut proses kan walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
-
 [154:05] Speaker 2: Mhm.
-
-[154:06] Rafizi Ramli: Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express line. Mhm. Express line orang tak suka. Kalau dekat apa nama ni dekat supermarket pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
 
 [155:00] Speaker 2: Baik YB. Good luck.
 
@@ -2755,21 +2352,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [155:35] Rafizi Ramli: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[155:43] Speaker 2: Actually susah YB. Depends kepada persepsi tapi YB pernah terangkan pasal benda nilah dalam ceramah hiruk dekat Kedah. Why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi. Because of the exposure kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah influencer dapat duit semua. So, it really depends. Adakah benda tu bagus ataupun kita nak meraikan kepelbagaian.
-
 [156:11] Rafizi Ramli: Itu tak menjawab soalan aku.
 
 [156:14] Speaker 2: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[156:21] Rafizi Ramli: Boleh jadi beria dia terang. Sebab yalah, walaupun orang kata dia tak ada qualification tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah. Kalau sebenarnya okey saya sebenarnya yang beria ialah yang tukang ajak dia tu lah. Ha ha ha ha. Jadi dia tukang ajak. Oh tukang ajak. Sebab dia kata orang jemput.
-
 [156:41] Speaker 2: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
 [156:44] Rafizi Ramli: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
-
-[157:10] Speaker 2: Yalah. Masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya adalah baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ni pandai-pandai saja buat komen kan, pass judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang beria itu yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan free, boleh komen. So dia komen lah.
-
-[157:59] Speaker 2: Cuma ini sesuatu yang masyarakat kena fikirkan lah kan satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. itu kan itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang yang yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi a, a fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Ha dan itu yang datang berbalik kepada yang Haziz sebut tadi lah. Maksudnya a sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, a bagaimana kita memberi a success model. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, dan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar. Mhm. Adakah
 
 [158:11] Speaker 2: Lamanya kata nak sekejap saja.
 
@@ -2786,4 +2375,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [158:36] Rafizi Ramli: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
 [158:52] Speaker 2: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what
-

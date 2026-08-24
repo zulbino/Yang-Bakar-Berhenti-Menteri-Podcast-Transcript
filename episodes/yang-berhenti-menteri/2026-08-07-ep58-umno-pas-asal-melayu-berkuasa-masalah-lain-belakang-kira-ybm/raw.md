@@ -64,8 +64,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:33] Speaker 1: kecewalah kerana ini low hanging fruits yang sepatutnya boleh dikekang kan tapi biasalah orang saya aku tak faham sebenarnya aku kalau contohnya lunch ni nak orang sediakan dan orang lain bayar Allah malunya lah. Lunch kita gaji menteri hebat semua yang itu pun. Tapi percayalah eh
 
-[09:20] Speaker 1: Kerajaan dah bertukar ganti ni, semua parti dah merasa. Amalan itu tetap berlaku. Jadi macam saya dulu, saya memang bagi orang kata petty cash lah. Kitty, lunch kitty aku panggil. So aku bagi lunch kitty kepada setiap usaha sulit saya. Dan dia uruskanlah dan dia tahu aku makan mudahnya kalau aku tak makan kat gerai kat bawah tu
-
 [10:00] Speaker 1: kalau pun aku tak sempat turun kat gerai kat ada kat luar pejabat tu ada gerai kan. Kalau tidak apa aku makan benda biasalah jadi dia orang order benda-benda simple saja. Lagi pun tak sempat nak makan sangat pun kan. Tapi saya tahu
 
 [10:20] Speaker 1: Memang amalan itu berterusan sampai sekaranglah kan. Jadi kalau rakyat tahu, dia mesti sakit hati. Kalau UMNO tak faham tu mungkinlah sebab budaya dia macam itu. Tapi kalau PH, PKR, Amanah tak faham tu, itu masalahlah.
@@ -269,4 +267,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [179:43] Speaker 3: [music]
 
 [181:33] Speaker 3: [music]
-

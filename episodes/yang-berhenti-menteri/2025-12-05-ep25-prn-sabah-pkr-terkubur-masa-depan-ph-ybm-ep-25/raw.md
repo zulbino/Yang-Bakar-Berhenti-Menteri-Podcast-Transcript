@@ -10,6 +10,7 @@ view_count: 108490
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
 [02:49] Speaker 1: Assalamualaikum dan salam sejahtera. Podcast yang berti menteri episod 25, episod yang agak istimewa YB kali ini sebab biasanya kita dua saja.
@@ -484,8 +485,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:01] Speaker 1: Mahu pergi terminal dulu. Saya tumpangkanlah dia. Kita orang sembang apa itu ini.
 
-[20:06] Speaker 1: So dia sebenarnya kesianlah juga kat dia sebab video viral tu dia sekejap dia sokong star, sekejap dia sokong GRS, sekejap dia sokong BN. Orang ingat dia ni macam ah yalah ah dibayar ataupun asal dapat duit, dia sokong. Rupanya dia memang viral dan dia diminta untuk buat video. Jadi dia sebenarnya selebriti Sabahlah.
-
 [20:34] Speaker 1: Ah kira selebritilah. Kalau Sabah memang kenallah. Didi Tiang Telekom.
 
 [20:37] Speaker 1: Ah.
@@ -707,8 +706,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [27:36] Speaker 1: Hmm.
 
 [27:36] Speaker 1: Mahu pergi terminal dulu. Saya tumpangkanlah dia. Kita orang sembang apa itu ini.
-
-[27:41] Speaker 1: So dia sebenarnya kesianlah juga kat dia sebab video viral tu dia sekejap dia sokong star, sekejap dia sokong GRS, sekejap dia sokong BN. Orang ingat dia ni macam ah yalah ah dibayar ataupun asal dapat duit, dia sokong. Rupanya dia memang viral dan dia diminta untuk buat video. Jadi dia sebenarnya selebriti Sabahlah.
 
 [28:10] Speaker 1: Ah kira selebritilah. Kalau Sabah memang kenallah. Didi Tiang Telekom.
 
@@ -4663,4 +4660,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [3:02:50] Speaker 1: Awal tu antara paling awal buat pengumuman.
 
 [3:02:52] Speaker 1: Dan sebenarnya apa-apa pengumuman
-
