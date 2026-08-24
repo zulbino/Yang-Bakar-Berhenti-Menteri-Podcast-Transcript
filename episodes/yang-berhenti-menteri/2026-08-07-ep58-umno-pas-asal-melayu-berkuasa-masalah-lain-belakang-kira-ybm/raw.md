@@ -134,136 +134,136 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:43] Speaker 3: [music]
 
-[60:33] Speaker 3: [music]
+[1:00:33] Speaker 3: [music]
 
-[62:23] Speaker 3: [music]
+[1:02:23] Speaker 3: [music]
 
-[64:13] Speaker 3: [music]
+[1:04:13] Speaker 3: [music]
 
-[66:03] Speaker 3: [music]
+[1:06:03] Speaker 3: [music]
 
-[67:53] Speaker 3: [music]
+[1:07:53] Speaker 3: [music]
 
-[69:43] Speaker 3: [music]
+[1:09:43] Speaker 3: [music]
 
-[71:33] Speaker 3: [music]
+[1:11:33] Speaker 3: [music]
 
-[73:23] Speaker 3: [music]
+[1:13:23] Speaker 3: [music]
 
-[75:13] Speaker 3: [music]
+[1:15:13] Speaker 3: [music]
 
-[77:03] Speaker 3: [music]
+[1:17:03] Speaker 3: [music]
 
-[78:53] Speaker 3: [music]
+[1:18:53] Speaker 3: [music]
 
-[80:43] Speaker 3: [music]
+[1:20:43] Speaker 3: [music]
 
-[82:33] Speaker 3: [music]
+[1:22:33] Speaker 3: [music]
 
-[84:23] Speaker 3: [music]
+[1:24:23] Speaker 3: [music]
 
-[86:13] Speaker 3: [music]
+[1:26:13] Speaker 3: [music]
 
-[88:03] Speaker 3: [music]
+[1:28:03] Speaker 3: [music]
 
-[89:53] Speaker 3: [music]
+[1:29:53] Speaker 3: [music]
 
-[91:43] Speaker 3: [music]
+[1:31:43] Speaker 3: [music]
 
-[93:33] Speaker 3: [music]
+[1:33:33] Speaker 3: [music]
 
-[95:23] Speaker 3: [music]
+[1:35:23] Speaker 3: [music]
 
-[97:13] Speaker 3: [music]
+[1:37:13] Speaker 3: [music]
 
-[99:03] Speaker 3: [music]
+[1:39:03] Speaker 3: [music]
 
-[100:53] Speaker 3: [music]
+[1:40:53] Speaker 3: [music]
 
-[102:43] Speaker 3: [music]
+[1:42:43] Speaker 3: [music]
 
-[104:33] Speaker 3: [music]
+[1:44:33] Speaker 3: [music]
 
-[106:23] Speaker 3: [music]
+[1:46:23] Speaker 3: [music]
 
-[108:13] Speaker 3: [music]
+[1:48:13] Speaker 3: [music]
 
-[110:03] Speaker 3: [music]
+[1:50:03] Speaker 3: [music]
 
-[111:53] Speaker 3: [music]
+[1:51:53] Speaker 3: [music]
 
-[113:43] Speaker 3: [music]
+[1:53:43] Speaker 3: [music]
 
-[115:33] Speaker 3: [music]
+[1:55:33] Speaker 3: [music]
 
-[117:23] Speaker 3: [music]
+[1:57:23] Speaker 3: [music]
 
-[119:13] Speaker 3: [music]
+[1:59:13] Speaker 3: [music]
 
-[121:03] Speaker 3: [music]
+[2:01:03] Speaker 3: [music]
 
-[122:53] Speaker 3: [music]
+[2:02:53] Speaker 3: [music]
 
-[124:43] Speaker 3: [music]
+[2:04:43] Speaker 3: [music]
 
-[126:33] Speaker 3: [music]
+[2:06:33] Speaker 3: [music]
 
-[128:23] Speaker 3: [music]
+[2:08:23] Speaker 3: [music]
 
-[130:13] Speaker 3: [music]
+[2:10:13] Speaker 3: [music]
 
-[132:03] Speaker 3: [music]
+[2:12:03] Speaker 3: [music]
 
-[133:53] Speaker 3: [music]
+[2:13:53] Speaker 3: [music]
 
-[135:43] Speaker 3: [music]
+[2:15:43] Speaker 3: [music]
 
-[137:33] Speaker 3: [music]
+[2:17:33] Speaker 3: [music]
 
-[139:23] Speaker 3: [music]
+[2:19:23] Speaker 3: [music]
 
-[141:13] Speaker 3: [music]
+[2:21:13] Speaker 3: [music]
 
-[143:03] Speaker 3: [music]
+[2:23:03] Speaker 3: [music]
 
-[144:53] Speaker 3: [music]
+[2:24:53] Speaker 3: [music]
 
-[146:43] Speaker 3: [music]
+[2:26:43] Speaker 3: [music]
 
-[148:33] Speaker 3: [music]
+[2:28:33] Speaker 3: [music]
 
-[150:23] Speaker 3: [music]
+[2:30:23] Speaker 3: [music]
 
-[152:13] Speaker 3: [music]
+[2:32:13] Speaker 3: [music]
 
-[154:03] Speaker 3: [music]
+[2:34:03] Speaker 3: [music]
 
-[155:53] Speaker 3: [music]
+[2:35:53] Speaker 3: [music]
 
-[157:43] Speaker 3: [music]
+[2:37:43] Speaker 3: [music]
 
-[159:33] Speaker 3: [music]
+[2:39:33] Speaker 3: [music]
 
-[161:23] Speaker 3: [music]
+[2:41:23] Speaker 3: [music]
 
-[163:13] Speaker 3: [music]
+[2:43:13] Speaker 3: [music]
 
-[165:03] Speaker 3: [music]
+[2:45:03] Speaker 3: [music]
 
-[166:53] Speaker 3: [music]
+[2:46:53] Speaker 3: [music]
 
-[168:43] Speaker 3: [music]
+[2:48:43] Speaker 3: [music]
 
-[170:33] Speaker 3: [music]
+[2:50:33] Speaker 3: [music]
 
-[172:23] Speaker 3: [music]
+[2:52:23] Speaker 3: [music]
 
-[174:13] Speaker 3: [music]
+[2:54:13] Speaker 3: [music]
 
-[176:03] Speaker 3: [music]
+[2:56:03] Speaker 3: [music]
 
-[177:53] Speaker 3: [music]
+[2:57:53] Speaker 3: [music]
 
-[179:43] Speaker 3: [music]
+[2:59:43] Speaker 3: [music]
 
-[181:33] Speaker 3: [music]
+[3:01:33] Speaker 3: [music]

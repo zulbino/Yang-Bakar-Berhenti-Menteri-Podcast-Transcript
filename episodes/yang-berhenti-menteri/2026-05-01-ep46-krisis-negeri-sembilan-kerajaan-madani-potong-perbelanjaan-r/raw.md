@@ -905,699 +905,699 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[60:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:00:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[60:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:00:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[60:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:00:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[60:54] Saya memang turut.
+[1:00:54] Saya memang turut.
 
-[60:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:00:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[61:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:01:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[61:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:01:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[61:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:01:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[61:23] Boleh.
+[1:01:23] Boleh.
 
-[61:24] Seterusnya.
+[1:01:24] Seterusnya.
 
-[61:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:01:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[61:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:01:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[61:51] Pas.
+[1:01:51] Pas.
 
-[61:52] So, sekarang ni dia tengah buat job hunting.
+[1:01:52] So, sekarang ni dia tengah buat job hunting.
 
-[61:55] job hunting job.
+[1:01:55] job hunting job.
 
-[61:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:01:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[62:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:02:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[62:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:02:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[62:14] kau orang pun jahat kan?
+[1:02:14] kau orang pun jahat kan?
 
-[62:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:02:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[62:24] dan dia kata panas.
+[1:02:24] dan dia kata panas.
 
-[62:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:02:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[62:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:02:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[63:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:03:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[63:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:03:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[63:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:03:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[63:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:03:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[63:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:03:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[64:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:04:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[64:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:04:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[64:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:04:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[64:54] Saya memang turut.
+[1:04:54] Saya memang turut.
 
-[64:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:04:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[65:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:05:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[65:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:05:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[65:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:05:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[65:23] Boleh.
+[1:05:23] Boleh.
 
-[65:24] Seterusnya.
+[1:05:24] Seterusnya.
 
-[65:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:05:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[65:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:05:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[65:51] Pas.
+[1:05:51] Pas.
 
-[65:52] So, sekarang ni dia tengah buat job hunting.
+[1:05:52] So, sekarang ni dia tengah buat job hunting.
 
-[65:55] job hunting job.
+[1:05:55] job hunting job.
 
-[65:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:05:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[66:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:06:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[66:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:06:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[66:14] kau orang pun jahat kan?
+[1:06:14] kau orang pun jahat kan?
 
-[66:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:06:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[66:24] dan dia kata panas.
+[1:06:24] dan dia kata panas.
 
-[66:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:06:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[66:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:06:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[67:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:07:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[67:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:07:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[67:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:07:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[67:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:07:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[67:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:07:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[68:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:08:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[68:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:08:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[68:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:08:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[68:54] Saya memang turut.
+[1:08:54] Saya memang turut.
 
-[68:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:08:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[69:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:09:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[69:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:09:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[69:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:09:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[69:23] Boleh.
+[1:09:23] Boleh.
 
-[69:24] Seterusnya.
+[1:09:24] Seterusnya.
 
-[69:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:09:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[69:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:09:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[69:51] Pas.
+[1:09:51] Pas.
 
-[69:52] So, sekarang ni dia tengah buat job hunting.
+[1:09:52] So, sekarang ni dia tengah buat job hunting.
 
-[69:55] job hunting job.
+[1:09:55] job hunting job.
 
-[69:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:09:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[70:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:10:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[70:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:10:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[70:14] kau orang pun jahat kan?
+[1:10:14] kau orang pun jahat kan?
 
-[70:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:10:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[70:24] dan dia kata panas.
+[1:10:24] dan dia kata panas.
 
-[70:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:10:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[70:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:10:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[71:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:11:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[71:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:11:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[71:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:11:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[71:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:11:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[71:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:11:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[72:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:12:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[72:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:12:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[72:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:12:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[72:54] Saya memang turut.
+[1:12:54] Saya memang turut.
 
-[72:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:12:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[73:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:13:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[73:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:13:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[73:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:13:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[73:23] Boleh.
+[1:13:23] Boleh.
 
-[73:24] Seterusnya.
+[1:13:24] Seterusnya.
 
-[73:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:13:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[73:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:13:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[73:51] Pas.
+[1:13:51] Pas.
 
-[73:52] So, sekarang ni dia tengah buat job hunting.
+[1:13:52] So, sekarang ni dia tengah buat job hunting.
 
-[73:55] job hunting job.
+[1:13:55] job hunting job.
 
-[73:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:13:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[74:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:14:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[74:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:14:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[74:14] kau orang pun jahat kan?
+[1:14:14] kau orang pun jahat kan?
 
-[74:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:14:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[74:24] dan dia kata panas.
+[1:14:24] dan dia kata panas.
 
-[74:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:14:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[74:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:14:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[75:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:15:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[75:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:15:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[75:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:15:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[75:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:15:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[75:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:15:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[76:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:16:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[76:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:16:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[76:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:16:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[76:54] Saya memang turut.
+[1:16:54] Saya memang turut.
 
-[76:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:16:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[77:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:17:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[77:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:17:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[77:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:17:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[77:23] Boleh.
+[1:17:23] Boleh.
 
-[77:24] Seterusnya.
+[1:17:24] Seterusnya.
 
-[77:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:17:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[77:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:17:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[77:51] Pas.
+[1:17:51] Pas.
 
-[77:52] So, sekarang ni dia tengah buat job hunting.
+[1:17:52] So, sekarang ni dia tengah buat job hunting.
 
-[77:55] job hunting job.
+[1:17:55] job hunting job.
 
-[77:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:17:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[78:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:18:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[78:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:18:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[78:14] kau orang pun jahat kan?
+[1:18:14] kau orang pun jahat kan?
 
-[78:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:18:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[78:24] dan dia kata panas.
+[1:18:24] dan dia kata panas.
 
-[78:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:18:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[78:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:18:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[79:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:19:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[79:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:19:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[79:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:19:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[79:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:19:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[79:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:19:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[80:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:20:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[80:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:20:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[80:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:20:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[80:54] Saya memang turut.
+[1:20:54] Saya memang turut.
 
-[80:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:20:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[81:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:21:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[81:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:21:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[81:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:21:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[81:23] Boleh.
+[1:21:23] Boleh.
 
-[81:24] Seterusnya.
+[1:21:24] Seterusnya.
 
-[81:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:21:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[81:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:21:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[81:51] Pas.
+[1:21:51] Pas.
 
-[81:52] So, sekarang ni dia tengah buat job hunting.
+[1:21:52] So, sekarang ni dia tengah buat job hunting.
 
-[81:55] job hunting job.
+[1:21:55] job hunting job.
 
-[81:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:21:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[82:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:22:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[82:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:22:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[82:14] kau orang pun jahat kan?
+[1:22:14] kau orang pun jahat kan?
 
-[82:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:22:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[82:24] dan dia kata panas.
+[1:22:24] dan dia kata panas.
 
-[82:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:22:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[82:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:22:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[83:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:23:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[83:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:23:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[83:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:23:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[83:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:23:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[83:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:23:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[84:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:24:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[84:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:24:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[84:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:24:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[84:54] Saya memang turut.
+[1:24:54] Saya memang turut.
 
-[84:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:24:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[85:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:25:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[85:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:25:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[85:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:25:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[85:23] Boleh.
+[1:25:23] Boleh.
 
-[85:24] Seterusnya.
+[1:25:24] Seterusnya.
 
-[85:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:25:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[85:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:25:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[85:51] Pas.
+[1:25:51] Pas.
 
-[85:52] So, sekarang ni dia tengah buat job hunting.
+[1:25:52] So, sekarang ni dia tengah buat job hunting.
 
-[85:55] job hunting job.
+[1:25:55] job hunting job.
 
-[85:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:25:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[86:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:26:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[86:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:26:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[86:14] kau orang pun jahat kan?
+[1:26:14] kau orang pun jahat kan?
 
-[86:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:26:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[86:24] dan dia kata panas.
+[1:26:24] dan dia kata panas.
 
-[86:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:26:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[86:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:26:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[87:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:27:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[87:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:27:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[87:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:27:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[87:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:27:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[87:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:27:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[88:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:28:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[88:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:28:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[88:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:28:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[88:54] Saya memang turut.
+[1:28:54] Saya memang turut.
 
-[88:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:28:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[89:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:29:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[89:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:29:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[89:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:29:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[89:23] Boleh.
+[1:29:23] Boleh.
 
-[89:24] Seterusnya.
+[1:29:24] Seterusnya.
 
-[89:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:29:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[89:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:29:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[89:51] Pas.
+[1:29:51] Pas.
 
-[89:52] So, sekarang ni dia tengah buat job hunting.
+[1:29:52] So, sekarang ni dia tengah buat job hunting.
 
-[89:55] job hunting job.
+[1:29:55] job hunting job.
 
-[89:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:29:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[90:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:30:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[90:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:30:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[90:14] kau orang pun jahat kan?
+[1:30:14] kau orang pun jahat kan?
 
-[90:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:30:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[90:24] dan dia kata panas.
+[1:30:24] dan dia kata panas.
 
-[90:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:30:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[90:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:30:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[91:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:31:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[91:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:31:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[91:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:31:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[91:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:31:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[91:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:31:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[92:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:32:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[92:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:32:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[92:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:32:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[92:54] Saya memang turut.
+[1:32:54] Saya memang turut.
 
-[92:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:32:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[93:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:33:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[93:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:33:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[93:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:33:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[93:23] Boleh.
+[1:33:23] Boleh.
 
-[93:24] Seterusnya.
+[1:33:24] Seterusnya.
 
-[93:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:33:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[93:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:33:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[93:51] Pas.
+[1:33:51] Pas.
 
-[93:52] So, sekarang ni dia tengah buat job hunting.
+[1:33:52] So, sekarang ni dia tengah buat job hunting.
 
-[93:55] job hunting job.
+[1:33:55] job hunting job.
 
-[93:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:33:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[94:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:34:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[94:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:34:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[94:14] kau orang pun jahat kan?
+[1:34:14] kau orang pun jahat kan?
 
-[94:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:34:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[94:24] dan dia kata panas.
+[1:34:24] dan dia kata panas.
 
-[94:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:34:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[94:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:34:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[95:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:35:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[95:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:35:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[95:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:35:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[95:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:35:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[95:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:35:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[96:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:36:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[96:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:36:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[96:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:36:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[96:54] Saya memang turut.
+[1:36:54] Saya memang turut.
 
-[96:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:36:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[97:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:37:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[97:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:37:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[97:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:37:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[97:23] Boleh.
+[1:37:23] Boleh.
 
-[97:24] Seterusnya.
+[1:37:24] Seterusnya.
 
-[97:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:37:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[97:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:37:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[97:51] Pas.
+[1:37:51] Pas.
 
-[97:52] So, sekarang ni dia tengah buat job hunting.
+[1:37:52] So, sekarang ni dia tengah buat job hunting.
 
-[97:55] job hunting job.
+[1:37:55] job hunting job.
 
-[97:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:37:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[98:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:38:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[98:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:38:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[98:14] kau orang pun jahat kan?
+[1:38:14] kau orang pun jahat kan?
 
-[98:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:38:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[98:24] dan dia kata panas.
+[1:38:24] dan dia kata panas.
 
-[98:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:38:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[98:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:38:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[99:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:39:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[99:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:39:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[99:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:39:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[99:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:39:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[99:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:39:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[100:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:40:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[100:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:40:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[100:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:40:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[100:54] Saya memang turut.
+[1:40:54] Saya memang turut.
 
-[100:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:40:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[101:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:41:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[101:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:41:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[101:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:41:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[101:23] Boleh.
+[1:41:23] Boleh.
 
-[101:24] Seterusnya.
+[1:41:24] Seterusnya.
 
-[101:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:41:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[101:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:41:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[101:51] Pas.
+[1:41:51] Pas.
 
-[101:52] So, sekarang ni dia tengah buat job hunting.
+[1:41:52] So, sekarang ni dia tengah buat job hunting.
 
-[101:55] job hunting job.
+[1:41:55] job hunting job.
 
-[101:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:41:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[102:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:42:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[102:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:42:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[102:14] kau orang pun jahat kan?
+[1:42:14] kau orang pun jahat kan?
 
-[102:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:42:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[102:24] dan dia kata panas.
+[1:42:24] dan dia kata panas.
 
-[102:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:42:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[102:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:42:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[103:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:43:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[103:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:43:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[103:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:43:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[103:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:43:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[103:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:43:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[104:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:44:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[104:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:44:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[104:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:44:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[104:54] Saya memang turut.
+[1:44:54] Saya memang turut.
 
-[104:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:44:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[105:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
+[1:45:00] Kan ada dekat TikTok sekarang. TikTok sekarang. Pill-pill tu kan dia ada banyak real yang yang kata kalau nak nampak muda, makan biotin. So, kau orang kena husnuzon for, you know, dia makan biotin.
 
-[105:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
+[1:45:13] Tapi cepat. Ini nampak sangat, tak pernah tahu pasal biotin.
 
-[105:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
+[1:45:18] Tak pernah. So, beria. So, kita pergi pada next beria. Boleh?
 
-[105:23] Boleh.
+[1:45:23] Boleh.
 
-[105:24] Seterusnya.
+[1:45:24] Seterusnya.
 
-[105:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
+[1:45:27] Jahat kau orang. Kau orang letak Zafrul tengah pakai baju BN. Mana baju PKR dia? Tak jumpa.
 
-[105:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
+[1:45:35] Sepatutnya kau orang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju apa ni PKR, then kalau PKR tak menang pilihan raya akan datang, insya-Allah dia pakai kopiah dengan baju PAS.
 
-[105:51] Pas.
+[1:45:51] Pas.
 
-[105:52] So, sekarang ni dia tengah buat job hunting.
+[1:45:52] So, sekarang ni dia tengah buat job hunting.
 
-[105:55] job hunting job.
+[1:45:55] job hunting job.
 
-[105:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
+[1:45:58] Itu bukan itu bukan panggil job hunting. Job hunting ni mestilah belum buat kerja. Dia dah buat internship.
 
-[106:04] Sebab itu dia dah buat kerja dekat bandar.
+[1:46:04] Sebab itu dia dah buat kerja dekat bandar.
 
-[106:09] Ini yang ada, adalah kita baca yang dia apa ni?
+[1:46:09] Ini yang ada, adalah kita baca yang dia apa ni?
 
-[106:14] kau orang pun jahat kan?
+[1:46:14] kau orang pun jahat kan?
 
-[106:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
+[1:46:16] Netizen ni pun jahat yang dia komen pasal dia pergi ke masjid Al-Azim, dipandang masjid Al-Azim ni masjid paling besarlah kat bandar Indah kan.
 
-[106:24] dan dia kata panas.
+[1:46:24] dan dia kata panas.
 
-[106:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
+[1:46:29] Pasal ada orang jawab, pergi sembahyang sikit pun dah rasa panas.
 
-[106:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
+[1:46:37] Yang ini ni sebenarnya a Zafrul tiap-tiap hari memang dah ada kat bandar lah kan. dan jadi dah memang jelaslah dia memang telah dijanjikan untuk bertanding di bandar. dan a, jadi kita akan dapat banyak lagi a, laporan-laporan internship macam inilh.
 
-[107:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
+[1:47:11] Baru-baru ni dia, dia buat kerja TNB juga kan.
 
-[107:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
+[1:47:14] Aku gelak juga. Netizen ni memang nakal aku orang sebab dia buat content, DB, distribution box tu meletup kan.
 
-[107:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
+[1:47:22] So, dia pergi tengok semua, lepas tu, jawapan netizen tu kalau terletup, panggillah apa nama ni, TNB kan.
 
-[107:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
+[1:47:33] Jadi, and tempat tu pun, apa namanya, Nuri Court tu pun memang kita berkali-kali pergi turun semualah kan. Tapi,
 
-[107:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
+[1:47:44] selalunya penjawat awam yang jawatan kanan-kanan ni selepas mereka bersara, selalunya dia dapat tempat-tempat dalam syarikat-syarikat sebagai board memberlah. 20,000 kat sana, 30,000 kat sini.
 
-[108:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
+[1:48:07] Kalau ada 10 board, dapatlah 300,000 sebulan kan. Jadi, memandahlah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi board member, dia tak payah nak sembunyi-sembunyi untuk main saham dah.
 
-[108:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
+[1:48:23] Jadi, dia, dia komen, orang tak tanya pun dia, dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan, podcast dan juga demo tu memang luka dalam kat dialah.
 
-[108:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
+[1:48:42] Beria, beria, tapi lebih kepada beria dari segi skin care kut. Okey. Malu je kau orang. Tengok muka engkau, tengok muka engkau, banding dengan Azam Baki.
 
-[108:54] Saya memang turut.
+[1:48:54] Saya memang turut.
 
-[108:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
+[1:48:56] Dia makan biotin kut tak? Kalau husnuzon mungkin wuduk kut.
 
-[111:00] [music/end]
+[1:51:00] [music/end]
 
-[111:00] Speaker 3: Okey. Apa is, what is network effect? Kesan rangkaian.
+[1:51:00] Speaker 3: Okey. Apa is, what is network effect? Kesan rangkaian.
 
-[111:15] Means like, kita punya content tu satu reachable ke tak, build the algorithm ke tak?
+[1:51:15] Means like, kita punya content tu satu reachable ke tak, build the algorithm ke tak?
 
-[111:21] Speaker 2: Betul.
+[1:51:21] Speaker 2: Betul.
 
-[111:21] Speaker 3: Kata, no, itu dah so- itu dah keterangan peringkat keempat, kelima, keenam dah.
+[1:51:21] Speaker 3: Kata, no, itu dah so- itu dah keterangan peringkat keempat, kelima, keenam dah.
 
-[111:32] Wow. Eh, ni adakah jenis? Tak, it's not niche. Network effect maksudnya, bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi.
+[1:51:32] Wow. Eh, ni adakah jenis? Tak, it's not niche. Network effect maksudnya, bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi.
 
 [12:15] Itu yang akhirnya jadi kononnya viral, tak viral sebenarnya. I mean, the the the academic term for virality is network effect. Dan network effect ni bukan untuk social media saja tahu. Dia termasuklah apa nama ni perniagaan, apps, everything is all about network effect.
 

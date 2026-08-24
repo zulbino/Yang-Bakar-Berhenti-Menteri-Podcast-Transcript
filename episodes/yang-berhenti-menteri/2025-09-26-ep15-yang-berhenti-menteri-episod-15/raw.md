@@ -76,5 +76,5 @@ Itu rule of thumb dialah, perkiraan dia tuh lebih rumit, dia berdasarkan kepada 
 Jadi, sekian sajalah untuk kali ini.
 Terima kasih, dan jumpa lagi minggu depan. Salam sejahtera.
 
-[164:00] [music/outro]
+[2:44:00] [music/outro]
 

@@ -1866,3340 +1866,3340 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[60:01] Speaker 1: Ah.
+[1:00:01] Speaker 1: Ah.
 
-[60:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:00:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[60:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:00:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[60:10] Speaker 1: Um.
+[1:00:10] Speaker 1: Um.
 
-[60:11] Speaker 2: Siapa Shahrul Slat?
+[1:00:11] Speaker 2: Siapa Shahrul Slat?
 
-[60:12] Speaker 1: Yalah dialah.
+[1:00:12] Speaker 1: Yalah dialah.
 
-[60:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:00:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[60:16] Speaker 2: Dia famous ke?
+[1:00:16] Speaker 2: Dia famous ke?
 
-[60:17] Speaker 1: Tak tahu.
+[1:00:17] Speaker 1: Tak tahu.
 
-[60:19] Speaker 1: Kenapa?
+[1:00:19] Speaker 1: Kenapa?
 
-[60:20] Speaker 1: Nampak views tinggi.
+[1:00:20] Speaker 1: Nampak views tinggi.
 
-[60:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:00:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[60:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:00:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[60:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:00:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[60:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:00:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[60:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:00:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[60:37] Speaker 1: Um.
+[1:00:37] Speaker 1: Um.
 
-[61:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:01:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[61:57] Speaker 1: Uhm.
+[1:01:57] Speaker 1: Uhm.
 
-[61:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:01:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[62:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:02:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[62:18] Speaker 2: Ah?
+[1:02:18] Speaker 2: Ah?
 
-[62:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:02:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[62:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:02:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[62:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:02:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[62:41] Speaker 1: Ah, exclusive podcast.
+[1:02:41] Speaker 1: Ah, exclusive podcast.
 
-[62:43] Speaker 2: Tu yang mahal tu.
+[1:02:43] Speaker 2: Tu yang mahal tu.
 
-[62:44] Speaker 1: Tu yang mahal tu.
+[1:02:44] Speaker 1: Tu yang mahal tu.
 
-[62:45] Speaker 2: Jangan bagi idea.
+[1:02:45] Speaker 2: Jangan bagi idea.
 
-[62:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:02:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[62:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:02:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[62:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:02:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[62:58] Speaker 1: Alhamdulillah.
+[1:02:58] Speaker 1: Alhamdulillah.
 
-[62:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:02:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[63:04] Speaker 1: Oh ah.
+[1:03:04] Speaker 1: Oh ah.
 
-[63:04] Speaker 1: So maybe maybe satu idea.
+[1:03:04] Speaker 1: So maybe maybe satu idea.
 
-[63:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:03:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[63:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:03:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[63:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:03:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[63:13] Speaker 1: Maybe not yet.
+[1:03:13] Speaker 1: Maybe not yet.
 
-[63:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:03:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[63:18] Speaker 1: Okey, setakat belum lagi.
+[1:03:18] Speaker 1: Okey, setakat belum lagi.
 
-[63:20] Speaker 1: Okey.
+[1:03:20] Speaker 1: Okey.
 
-[63:20] Speaker 1: Ah.
+[1:03:20] Speaker 1: Ah.
 
-[63:21] Speaker 1: Kita tengok yang Beria YB?
+[1:03:21] Speaker 1: Kita tengok yang Beria YB?
 
-[63:22] Speaker 1: Hmm.
+[1:03:22] Speaker 1: Hmm.
 
-[63:22] Speaker 1: Okey, next.
+[1:03:22] Speaker 1: Okey, next.
 
-[63:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:03:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[63:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:03:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[63:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:03:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[63:37] Speaker 2: Aha.
+[1:03:37] Speaker 2: Aha.
 
-[63:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:03:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[63:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:03:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[63:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:03:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[63:51] Speaker 1: Apa yang payah sangat?
+[1:03:51] Speaker 1: Apa yang payah sangat?
 
-[63:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:03:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[63:58] Speaker 1: Dia tak siakan lagi kan?
+[1:03:58] Speaker 1: Dia tak siakan lagi kan?
 
-[63:59] Speaker 1: Tak, tak ada, tak ada.
+[1:03:59] Speaker 1: Tak, tak ada, tak ada.
 
-[64:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:04:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[64:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:04:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[64:10] Speaker 1: Hmm.
+[1:04:10] Speaker 1: Hmm.
 
-[64:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:04:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[64:21] Speaker 1: Wah, bersaing dengan.
+[1:04:21] Speaker 1: Wah, bersaing dengan.
 
-[64:22] Speaker 1: Ah, bersaing kan.
+[1:04:22] Speaker 1: Ah, bersaing kan.
 
-[64:24] Speaker 1: Betul juga kan?
+[1:04:24] Speaker 1: Betul juga kan?
 
-[64:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:04:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[64:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:04:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[64:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:04:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[64:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:04:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[64:48] Speaker 1: Hmm.
+[1:04:48] Speaker 1: Hmm.
 
-[64:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:04:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[64:55] Speaker 1: Ah, hmm, beria-ia.
+[1:04:55] Speaker 1: Ah, hmm, beria-ia.
 
-[64:57] Speaker 1: Ah.
+[1:04:57] Speaker 1: Ah.
 
-[64:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:04:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[64:59] Speaker 1: Hmm.
+[1:04:59] Speaker 1: Hmm.
 
-[65:00] Speaker 1: Ah.
+[1:05:00] Speaker 1: Ah.
 
-[65:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:05:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[65:03] Speaker 1: Ah okey.
+[1:05:03] Speaker 1: Ah okey.
 
-[65:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:05:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[65:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:05:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[65:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:05:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[65:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:05:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[65:24] Speaker 1: Hmm.
+[1:05:24] Speaker 1: Hmm.
 
-[65:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:05:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[65:34] Speaker 1: Uh then, faham-faham lah.
+[1:05:34] Speaker 1: Uh then, faham-faham lah.
 
-[65:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:05:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[65:47] Speaker 2: Okey tahniah.
+[1:05:47] Speaker 2: Okey tahniah.
 
-[65:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:05:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[65:52] Speaker 1: Hmm.
+[1:05:52] Speaker 1: Hmm.
 
-[65:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:05:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[65:55] Speaker 1: Hmm.
+[1:05:55] Speaker 1: Hmm.
 
-[65:56] Speaker 1: Ini kesnya apabila kena.
+[1:05:56] Speaker 1: Ini kesnya apabila kena.
 
-[65:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:05:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[66:01] Speaker 1: Ah.
+[1:06:01] Speaker 1: Ah.
 
-[66:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:06:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[66:05] Speaker 1: Ah.
+[1:06:05] Speaker 1: Ah.
 
-[66:06] Speaker 1: Hmm, hmm.
+[1:06:06] Speaker 1: Hmm, hmm.
 
-[66:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:06:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[66:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:06:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[66:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:06:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[66:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:06:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[66:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:06:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[66:32] Speaker 1: Hmm, hmm.
+[1:06:32] Speaker 1: Hmm, hmm.
 
-[66:32] Speaker 1: Dan dia tak end kanlah.
+[1:06:32] Speaker 1: Dan dia tak end kanlah.
 
-[66:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:06:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[66:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:06:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[66:40] Speaker 1: Oh I see, ah, ah.
+[1:06:40] Speaker 1: Oh I see, ah, ah.
 
-[66:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:06:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[66:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:06:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[66:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:06:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[67:01] Speaker 1: Ah.
+[1:07:01] Speaker 1: Ah.
 
-[67:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:07:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[67:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:07:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[67:10] Speaker 1: Um.
+[1:07:10] Speaker 1: Um.
 
-[67:11] Speaker 2: Siapa Shahrul Slat?
+[1:07:11] Speaker 2: Siapa Shahrul Slat?
 
-[67:12] Speaker 1: Yalah dialah.
+[1:07:12] Speaker 1: Yalah dialah.
 
-[67:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:07:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[67:16] Speaker 2: Dia famous ke?
+[1:07:16] Speaker 2: Dia famous ke?
 
-[67:17] Speaker 1: Tak tahu.
+[1:07:17] Speaker 1: Tak tahu.
 
-[67:19] Speaker 1: Kenapa?
+[1:07:19] Speaker 1: Kenapa?
 
-[67:20] Speaker 1: Nampak views tinggi.
+[1:07:20] Speaker 1: Nampak views tinggi.
 
-[67:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:07:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[67:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:07:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[67:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:07:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[67:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:07:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[67:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:07:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[67:37] Speaker 1: Um.
+[1:07:37] Speaker 1: Um.
 
-[68:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:08:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[68:57] Speaker 1: Uhm.
+[1:08:57] Speaker 1: Uhm.
 
-[68:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:08:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[69:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:09:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[69:18] Speaker 2: Ah?
+[1:09:18] Speaker 2: Ah?
 
-[69:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:09:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[69:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:09:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[69:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:09:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[69:41] Speaker 1: Ah, exclusive podcast.
+[1:09:41] Speaker 1: Ah, exclusive podcast.
 
-[69:43] Speaker 2: Tu yang mahal tu.
+[1:09:43] Speaker 2: Tu yang mahal tu.
 
-[69:44] Speaker 1: Tu yang mahal tu.
+[1:09:44] Speaker 1: Tu yang mahal tu.
 
-[69:45] Speaker 2: Jangan bagi idea.
+[1:09:45] Speaker 2: Jangan bagi idea.
 
-[69:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:09:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[69:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:09:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[69:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:09:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[69:58] Speaker 1: Alhamdulillah.
+[1:09:58] Speaker 1: Alhamdulillah.
 
-[69:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:09:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[70:04] Speaker 1: Oh ah.
+[1:10:04] Speaker 1: Oh ah.
 
-[70:04] Speaker 1: So maybe maybe satu idea.
+[1:10:04] Speaker 1: So maybe maybe satu idea.
 
-[70:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:10:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[70:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:10:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[70:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:10:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[70:13] Speaker 1: Maybe not yet.
+[1:10:13] Speaker 1: Maybe not yet.
 
-[70:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:10:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[70:18] Speaker 1: Okey, setakat belum lagi.
+[1:10:18] Speaker 1: Okey, setakat belum lagi.
 
-[70:20] Speaker 1: Okey.
+[1:10:20] Speaker 1: Okey.
 
-[70:20] Speaker 1: Ah.
+[1:10:20] Speaker 1: Ah.
 
-[70:21] Speaker 1: Kita tengok yang Beria YB?
+[1:10:21] Speaker 1: Kita tengok yang Beria YB?
 
-[70:22] Speaker 1: Hmm.
+[1:10:22] Speaker 1: Hmm.
 
-[70:22] Speaker 1: Okey, next.
+[1:10:22] Speaker 1: Okey, next.
 
-[70:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:10:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[70:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:10:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[70:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:10:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[70:37] Speaker 2: Aha.
+[1:10:37] Speaker 2: Aha.
 
-[70:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:10:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[70:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:10:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[70:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:10:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[70:51] Speaker 1: Apa yang payah sangat?
+[1:10:51] Speaker 1: Apa yang payah sangat?
 
-[70:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:10:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[70:58] Speaker 1: Dia tak siakan lagi kan?
+[1:10:58] Speaker 1: Dia tak siakan lagi kan?
 
-[70:59] Speaker 1: Tak, tak ada, tak ada.
+[1:10:59] Speaker 1: Tak, tak ada, tak ada.
 
-[71:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:11:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[71:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:11:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[71:10] Speaker 1: Hmm.
+[1:11:10] Speaker 1: Hmm.
 
-[71:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:11:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[71:21] Speaker 1: Wah, bersaing dengan.
+[1:11:21] Speaker 1: Wah, bersaing dengan.
 
-[71:22] Speaker 1: Ah, bersaing kan.
+[1:11:22] Speaker 1: Ah, bersaing kan.
 
-[71:24] Speaker 1: Betul juga kan?
+[1:11:24] Speaker 1: Betul juga kan?
 
-[71:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:11:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[71:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:11:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[71:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:11:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[71:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:11:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[71:48] Speaker 1: Hmm.
+[1:11:48] Speaker 1: Hmm.
 
-[71:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:11:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[71:55] Speaker 1: Ah, hmm, beria-ia.
+[1:11:55] Speaker 1: Ah, hmm, beria-ia.
 
-[71:57] Speaker 1: Ah.
+[1:11:57] Speaker 1: Ah.
 
-[71:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:11:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[71:59] Speaker 1: Hmm.
+[1:11:59] Speaker 1: Hmm.
 
-[72:00] Speaker 1: Ah.
+[1:12:00] Speaker 1: Ah.
 
-[72:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:12:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[72:03] Speaker 1: Ah okey.
+[1:12:03] Speaker 1: Ah okey.
 
-[72:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:12:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[72:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:12:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[72:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:12:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[72:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:12:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[72:24] Speaker 1: Hmm.
+[1:12:24] Speaker 1: Hmm.
 
-[72:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:12:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[72:34] Speaker 1: Uh then, faham-faham lah.
+[1:12:34] Speaker 1: Uh then, faham-faham lah.
 
-[72:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:12:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[72:47] Speaker 2: Okey tahniah.
+[1:12:47] Speaker 2: Okey tahniah.
 
-[72:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:12:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[72:52] Speaker 1: Hmm.
+[1:12:52] Speaker 1: Hmm.
 
-[72:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:12:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[72:55] Speaker 1: Hmm.
+[1:12:55] Speaker 1: Hmm.
 
-[72:56] Speaker 1: Ini kesnya apabila kena.
+[1:12:56] Speaker 1: Ini kesnya apabila kena.
 
-[72:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:12:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[73:01] Speaker 1: Ah.
+[1:13:01] Speaker 1: Ah.
 
-[73:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:13:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[73:05] Speaker 1: Ah.
+[1:13:05] Speaker 1: Ah.
 
-[73:06] Speaker 1: Hmm, hmm.
+[1:13:06] Speaker 1: Hmm, hmm.
 
-[73:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:13:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[73:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:13:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[73:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:13:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[73:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:13:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[73:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:13:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[73:32] Speaker 1: Hmm, hmm.
+[1:13:32] Speaker 1: Hmm, hmm.
 
-[73:32] Speaker 1: Dan dia tak end kanlah.
+[1:13:32] Speaker 1: Dan dia tak end kanlah.
 
-[73:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:13:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[73:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:13:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[73:40] Speaker 1: Oh I see, ah, ah.
+[1:13:40] Speaker 1: Oh I see, ah, ah.
 
-[73:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:13:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[73:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:13:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[73:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:13:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[74:01] Speaker 1: Ah.
+[1:14:01] Speaker 1: Ah.
 
-[74:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:14:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[74:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:14:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[74:10] Speaker 1: Um.
+[1:14:10] Speaker 1: Um.
 
-[74:11] Speaker 2: Siapa Shahrul Slat?
+[1:14:11] Speaker 2: Siapa Shahrul Slat?
 
-[74:12] Speaker 1: Yalah dialah.
+[1:14:12] Speaker 1: Yalah dialah.
 
-[74:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:14:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[74:16] Speaker 2: Dia famous ke?
+[1:14:16] Speaker 2: Dia famous ke?
 
-[74:17] Speaker 1: Tak tahu.
+[1:14:17] Speaker 1: Tak tahu.
 
-[74:19] Speaker 1: Kenapa?
+[1:14:19] Speaker 1: Kenapa?
 
-[74:20] Speaker 1: Nampak views tinggi.
+[1:14:20] Speaker 1: Nampak views tinggi.
 
-[74:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:14:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[74:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:14:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[74:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:14:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[74:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:14:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[74:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:14:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[74:37] Speaker 1: Um.
+[1:14:37] Speaker 1: Um.
 
-[75:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:15:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[75:57] Speaker 1: Uhm.
+[1:15:57] Speaker 1: Uhm.
 
-[75:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:15:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[76:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:16:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[76:18] Speaker 2: Ah?
+[1:16:18] Speaker 2: Ah?
 
-[76:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:16:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[76:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:16:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[76:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:16:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[76:41] Speaker 1: Ah, exclusive podcast.
+[1:16:41] Speaker 1: Ah, exclusive podcast.
 
-[76:43] Speaker 2: Tu yang mahal tu.
+[1:16:43] Speaker 2: Tu yang mahal tu.
 
-[76:44] Speaker 1: Tu yang mahal tu.
+[1:16:44] Speaker 1: Tu yang mahal tu.
 
-[76:45] Speaker 2: Jangan bagi idea.
+[1:16:45] Speaker 2: Jangan bagi idea.
 
-[76:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:16:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[76:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:16:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[76:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:16:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[76:58] Speaker 1: Alhamdulillah.
+[1:16:58] Speaker 1: Alhamdulillah.
 
-[76:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:16:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[77:04] Speaker 1: Oh ah.
+[1:17:04] Speaker 1: Oh ah.
 
-[77:04] Speaker 1: So maybe maybe satu idea.
+[1:17:04] Speaker 1: So maybe maybe satu idea.
 
-[77:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:17:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[77:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:17:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[77:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:17:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[77:13] Speaker 1: Maybe not yet.
+[1:17:13] Speaker 1: Maybe not yet.
 
-[77:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:17:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[77:18] Speaker 1: Okey, setakat belum lagi.
+[1:17:18] Speaker 1: Okey, setakat belum lagi.
 
-[77:20] Speaker 1: Okey.
+[1:17:20] Speaker 1: Okey.
 
-[77:20] Speaker 1: Ah.
+[1:17:20] Speaker 1: Ah.
 
-[77:21] Speaker 1: Kita tengok yang Beria YB?
+[1:17:21] Speaker 1: Kita tengok yang Beria YB?
 
-[77:22] Speaker 1: Hmm.
+[1:17:22] Speaker 1: Hmm.
 
-[77:22] Speaker 1: Okey, next.
+[1:17:22] Speaker 1: Okey, next.
 
-[77:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:17:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[77:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:17:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[77:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:17:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[77:37] Speaker 2: Aha.
+[1:17:37] Speaker 2: Aha.
 
-[77:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:17:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[77:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:17:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[77:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:17:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[77:51] Speaker 1: Apa yang payah sangat?
+[1:17:51] Speaker 1: Apa yang payah sangat?
 
-[77:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:17:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[77:58] Speaker 1: Dia tak siakan lagi kan?
+[1:17:58] Speaker 1: Dia tak siakan lagi kan?
 
-[77:59] Speaker 1: Tak, tak ada, tak ada.
+[1:17:59] Speaker 1: Tak, tak ada, tak ada.
 
-[78:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:18:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[78:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:18:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[78:10] Speaker 1: Hmm.
+[1:18:10] Speaker 1: Hmm.
 
-[78:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:18:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[78:21] Speaker 1: Wah, bersaing dengan.
+[1:18:21] Speaker 1: Wah, bersaing dengan.
 
-[78:22] Speaker 1: Ah, bersaing kan.
+[1:18:22] Speaker 1: Ah, bersaing kan.
 
-[78:24] Speaker 1: Betul juga kan?
+[1:18:24] Speaker 1: Betul juga kan?
 
-[78:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:18:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[78:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:18:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[78:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:18:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[78:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:18:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[78:48] Speaker 1: Hmm.
+[1:18:48] Speaker 1: Hmm.
 
-[78:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:18:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[78:55] Speaker 1: Ah, hmm, beria-ia.
+[1:18:55] Speaker 1: Ah, hmm, beria-ia.
 
-[78:57] Speaker 1: Ah.
+[1:18:57] Speaker 1: Ah.
 
-[78:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:18:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[78:59] Speaker 1: Hmm.
+[1:18:59] Speaker 1: Hmm.
 
-[79:00] Speaker 1: Ah.
+[1:19:00] Speaker 1: Ah.
 
-[79:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:19:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[79:03] Speaker 1: Ah okey.
+[1:19:03] Speaker 1: Ah okey.
 
-[79:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:19:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[79:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:19:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[79:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:19:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[79:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:19:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[79:24] Speaker 1: Hmm.
+[1:19:24] Speaker 1: Hmm.
 
-[79:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:19:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[79:34] Speaker 1: Uh then, faham-faham lah.
+[1:19:34] Speaker 1: Uh then, faham-faham lah.
 
-[79:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:19:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[79:47] Speaker 2: Okey tahniah.
+[1:19:47] Speaker 2: Okey tahniah.
 
-[79:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:19:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[79:52] Speaker 1: Hmm.
+[1:19:52] Speaker 1: Hmm.
 
-[79:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:19:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[79:55] Speaker 1: Hmm.
+[1:19:55] Speaker 1: Hmm.
 
-[79:56] Speaker 1: Ini kesnya apabila kena.
+[1:19:56] Speaker 1: Ini kesnya apabila kena.
 
-[79:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:19:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[80:01] Speaker 1: Ah.
+[1:20:01] Speaker 1: Ah.
 
-[80:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:20:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[80:05] Speaker 1: Ah.
+[1:20:05] Speaker 1: Ah.
 
-[80:06] Speaker 1: Hmm, hmm.
+[1:20:06] Speaker 1: Hmm, hmm.
 
-[80:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:20:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[80:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:20:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[80:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:20:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[80:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:20:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[80:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:20:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[80:32] Speaker 1: Hmm, hmm.
+[1:20:32] Speaker 1: Hmm, hmm.
 
-[80:32] Speaker 1: Dan dia tak end kanlah.
+[1:20:32] Speaker 1: Dan dia tak end kanlah.
 
-[80:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:20:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[80:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:20:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[80:40] Speaker 1: Oh I see, ah, ah.
+[1:20:40] Speaker 1: Oh I see, ah, ah.
 
-[80:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:20:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[80:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:20:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[80:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:20:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[81:01] Speaker 1: Ah.
+[1:21:01] Speaker 1: Ah.
 
-[81:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:21:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[81:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:21:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[81:10] Speaker 1: Um.
+[1:21:10] Speaker 1: Um.
 
-[81:11] Speaker 2: Siapa Shahrul Slat?
+[1:21:11] Speaker 2: Siapa Shahrul Slat?
 
-[81:12] Speaker 1: Yalah dialah.
+[1:21:12] Speaker 1: Yalah dialah.
 
-[81:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:21:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[81:16] Speaker 2: Dia famous ke?
+[1:21:16] Speaker 2: Dia famous ke?
 
-[81:17] Speaker 1: Tak tahu.
+[1:21:17] Speaker 1: Tak tahu.
 
-[81:19] Speaker 1: Kenapa?
+[1:21:19] Speaker 1: Kenapa?
 
-[81:20] Speaker 1: Nampak views tinggi.
+[1:21:20] Speaker 1: Nampak views tinggi.
 
-[81:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:21:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[81:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:21:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[81:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:21:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[81:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:21:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[81:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:21:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[81:37] Speaker 1: Um.
+[1:21:37] Speaker 1: Um.
 
-[82:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:22:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[82:57] Speaker 1: Uhm.
+[1:22:57] Speaker 1: Uhm.
 
-[82:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:22:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[83:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:23:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[83:18] Speaker 2: Ah?
+[1:23:18] Speaker 2: Ah?
 
-[83:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:23:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[83:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:23:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[83:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:23:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[83:41] Speaker 1: Ah, exclusive podcast.
+[1:23:41] Speaker 1: Ah, exclusive podcast.
 
-[83:43] Speaker 2: Tu yang mahal tu.
+[1:23:43] Speaker 2: Tu yang mahal tu.
 
-[83:44] Speaker 1: Tu yang mahal tu.
+[1:23:44] Speaker 1: Tu yang mahal tu.
 
-[83:45] Speaker 2: Jangan bagi idea.
+[1:23:45] Speaker 2: Jangan bagi idea.
 
-[83:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:23:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[83:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:23:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[83:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:23:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[83:58] Speaker 1: Alhamdulillah.
+[1:23:58] Speaker 1: Alhamdulillah.
 
-[83:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:23:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[84:04] Speaker 1: Oh ah.
+[1:24:04] Speaker 1: Oh ah.
 
-[84:04] Speaker 1: So maybe maybe satu idea.
+[1:24:04] Speaker 1: So maybe maybe satu idea.
 
-[84:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:24:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[84:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:24:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[84:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:24:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[84:13] Speaker 1: Maybe not yet.
+[1:24:13] Speaker 1: Maybe not yet.
 
-[84:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:24:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[84:18] Speaker 1: Okey, setakat belum lagi.
+[1:24:18] Speaker 1: Okey, setakat belum lagi.
 
-[84:20] Speaker 1: Okey.
+[1:24:20] Speaker 1: Okey.
 
-[84:20] Speaker 1: Ah.
+[1:24:20] Speaker 1: Ah.
 
-[84:21] Speaker 1: Kita tengok yang Beria YB?
+[1:24:21] Speaker 1: Kita tengok yang Beria YB?
 
-[84:22] Speaker 1: Hmm.
+[1:24:22] Speaker 1: Hmm.
 
-[84:22] Speaker 1: Okey, next.
+[1:24:22] Speaker 1: Okey, next.
 
-[84:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:24:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[84:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:24:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[84:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:24:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[84:37] Speaker 2: Aha.
+[1:24:37] Speaker 2: Aha.
 
-[84:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:24:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[84:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:24:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[84:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:24:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[84:51] Speaker 1: Apa yang payah sangat?
+[1:24:51] Speaker 1: Apa yang payah sangat?
 
-[84:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:24:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[84:58] Speaker 1: Dia tak siakan lagi kan?
+[1:24:58] Speaker 1: Dia tak siakan lagi kan?
 
-[84:59] Speaker 1: Tak, tak ada, tak ada.
+[1:24:59] Speaker 1: Tak, tak ada, tak ada.
 
-[85:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:25:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[85:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:25:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[85:10] Speaker 1: Hmm.
+[1:25:10] Speaker 1: Hmm.
 
-[85:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:25:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[85:21] Speaker 1: Wah, bersaing dengan.
+[1:25:21] Speaker 1: Wah, bersaing dengan.
 
-[85:22] Speaker 1: Ah, bersaing kan.
+[1:25:22] Speaker 1: Ah, bersaing kan.
 
-[85:24] Speaker 1: Betul juga kan?
+[1:25:24] Speaker 1: Betul juga kan?
 
-[85:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:25:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[85:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:25:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[85:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:25:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[85:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:25:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[85:48] Speaker 1: Hmm.
+[1:25:48] Speaker 1: Hmm.
 
-[85:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:25:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[85:55] Speaker 1: Ah, hmm, beria-ia.
+[1:25:55] Speaker 1: Ah, hmm, beria-ia.
 
-[85:57] Speaker 1: Ah.
+[1:25:57] Speaker 1: Ah.
 
-[85:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:25:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[85:59] Speaker 1: Hmm.
+[1:25:59] Speaker 1: Hmm.
 
-[86:00] Speaker 1: Ah.
+[1:26:00] Speaker 1: Ah.
 
-[86:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:26:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[86:03] Speaker 1: Ah okey.
+[1:26:03] Speaker 1: Ah okey.
 
-[86:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:26:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[86:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:26:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[86:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:26:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[86:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:26:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[86:24] Speaker 1: Hmm.
+[1:26:24] Speaker 1: Hmm.
 
-[86:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:26:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[86:34] Speaker 1: Uh then, faham-faham lah.
+[1:26:34] Speaker 1: Uh then, faham-faham lah.
 
-[86:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:26:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[86:47] Speaker 2: Okey tahniah.
+[1:26:47] Speaker 2: Okey tahniah.
 
-[86:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:26:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[86:52] Speaker 1: Hmm.
+[1:26:52] Speaker 1: Hmm.
 
-[86:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:26:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[86:55] Speaker 1: Hmm.
+[1:26:55] Speaker 1: Hmm.
 
-[86:56] Speaker 1: Ini kesnya apabila kena.
+[1:26:56] Speaker 1: Ini kesnya apabila kena.
 
-[86:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:26:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[87:01] Speaker 1: Ah.
+[1:27:01] Speaker 1: Ah.
 
-[87:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:27:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[87:05] Speaker 1: Ah.
+[1:27:05] Speaker 1: Ah.
 
-[87:06] Speaker 1: Hmm, hmm.
+[1:27:06] Speaker 1: Hmm, hmm.
 
-[87:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:27:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[87:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:27:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[87:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:27:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[87:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:27:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[87:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:27:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[87:32] Speaker 1: Hmm, hmm.
+[1:27:32] Speaker 1: Hmm, hmm.
 
-[87:32] Speaker 1: Dan dia tak end kanlah.
+[1:27:32] Speaker 1: Dan dia tak end kanlah.
 
-[87:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:27:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[87:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:27:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[87:40] Speaker 1: Oh I see, ah, ah.
+[1:27:40] Speaker 1: Oh I see, ah, ah.
 
-[87:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:27:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[87:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:27:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[87:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:27:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[88:01] Speaker 1: Ah.
+[1:28:01] Speaker 1: Ah.
 
-[88:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:28:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[88:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:28:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[88:10] Speaker 1: Um.
+[1:28:10] Speaker 1: Um.
 
-[88:11] Speaker 2: Siapa Shahrul Slat?
+[1:28:11] Speaker 2: Siapa Shahrul Slat?
 
-[88:12] Speaker 1: Yalah dialah.
+[1:28:12] Speaker 1: Yalah dialah.
 
-[88:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:28:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[88:16] Speaker 2: Dia famous ke?
+[1:28:16] Speaker 2: Dia famous ke?
 
-[88:17] Speaker 1: Tak tahu.
+[1:28:17] Speaker 1: Tak tahu.
 
-[88:19] Speaker 1: Kenapa?
+[1:28:19] Speaker 1: Kenapa?
 
-[88:20] Speaker 1: Nampak views tinggi.
+[1:28:20] Speaker 1: Nampak views tinggi.
 
-[88:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:28:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[88:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:28:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[88:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:28:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[88:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:28:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[88:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:28:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[88:37] Speaker 1: Um.
+[1:28:37] Speaker 1: Um.
 
-[89:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:29:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[89:57] Speaker 1: Uhm.
+[1:29:57] Speaker 1: Uhm.
 
-[89:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:29:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[90:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:30:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[90:18] Speaker 2: Ah?
+[1:30:18] Speaker 2: Ah?
 
-[90:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:30:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[90:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:30:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[90:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:30:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[90:41] Speaker 1: Ah, exclusive podcast.
+[1:30:41] Speaker 1: Ah, exclusive podcast.
 
-[90:43] Speaker 2: Tu yang mahal tu.
+[1:30:43] Speaker 2: Tu yang mahal tu.
 
-[90:44] Speaker 1: Tu yang mahal tu.
+[1:30:44] Speaker 1: Tu yang mahal tu.
 
-[90:45] Speaker 2: Jangan bagi idea.
+[1:30:45] Speaker 2: Jangan bagi idea.
 
-[90:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:30:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[90:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:30:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[90:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:30:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[90:58] Speaker 1: Alhamdulillah.
+[1:30:58] Speaker 1: Alhamdulillah.
 
-[90:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:30:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[91:04] Speaker 1: Oh ah.
+[1:31:04] Speaker 1: Oh ah.
 
-[91:04] Speaker 1: So maybe maybe satu idea.
+[1:31:04] Speaker 1: So maybe maybe satu idea.
 
-[91:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:31:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[91:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:31:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[91:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:31:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[91:13] Speaker 1: Maybe not yet.
+[1:31:13] Speaker 1: Maybe not yet.
 
-[91:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:31:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[91:18] Speaker 1: Okey, setakat belum lagi.
+[1:31:18] Speaker 1: Okey, setakat belum lagi.
 
-[91:20] Speaker 1: Okey.
+[1:31:20] Speaker 1: Okey.
 
-[91:20] Speaker 1: Ah.
+[1:31:20] Speaker 1: Ah.
 
-[91:21] Speaker 1: Kita tengok yang Beria YB?
+[1:31:21] Speaker 1: Kita tengok yang Beria YB?
 
-[91:22] Speaker 1: Hmm.
+[1:31:22] Speaker 1: Hmm.
 
-[91:22] Speaker 1: Okey, next.
+[1:31:22] Speaker 1: Okey, next.
 
-[91:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:31:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[91:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:31:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[91:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:31:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[91:37] Speaker 2: Aha.
+[1:31:37] Speaker 2: Aha.
 
-[91:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:31:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[91:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:31:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[91:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:31:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[91:51] Speaker 1: Apa yang payah sangat?
+[1:31:51] Speaker 1: Apa yang payah sangat?
 
-[91:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:31:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[91:58] Speaker 1: Dia tak siakan lagi kan?
+[1:31:58] Speaker 1: Dia tak siakan lagi kan?
 
-[91:59] Speaker 1: Tak, tak ada, tak ada.
+[1:31:59] Speaker 1: Tak, tak ada, tak ada.
 
-[92:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:32:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[92:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:32:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[92:10] Speaker 1: Hmm.
+[1:32:10] Speaker 1: Hmm.
 
-[92:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:32:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[92:21] Speaker 1: Wah, bersaing dengan.
+[1:32:21] Speaker 1: Wah, bersaing dengan.
 
-[92:22] Speaker 1: Ah, bersaing kan.
+[1:32:22] Speaker 1: Ah, bersaing kan.
 
-[92:24] Speaker 1: Betul juga kan?
+[1:32:24] Speaker 1: Betul juga kan?
 
-[92:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:32:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[92:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:32:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[92:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:32:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[92:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:32:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[92:48] Speaker 1: Hmm.
+[1:32:48] Speaker 1: Hmm.
 
-[92:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:32:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[92:55] Speaker 1: Ah, hmm, beria-ia.
+[1:32:55] Speaker 1: Ah, hmm, beria-ia.
 
-[92:57] Speaker 1: Ah.
+[1:32:57] Speaker 1: Ah.
 
-[92:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:32:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[92:59] Speaker 1: Hmm.
+[1:32:59] Speaker 1: Hmm.
 
-[93:00] Speaker 1: Ah.
+[1:33:00] Speaker 1: Ah.
 
-[93:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:33:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[93:03] Speaker 1: Ah okey.
+[1:33:03] Speaker 1: Ah okey.
 
-[93:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:33:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[93:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:33:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[93:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:33:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[93:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:33:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[93:24] Speaker 1: Hmm.
+[1:33:24] Speaker 1: Hmm.
 
-[93:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:33:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[93:34] Speaker 1: Uh then, faham-faham lah.
+[1:33:34] Speaker 1: Uh then, faham-faham lah.
 
-[93:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:33:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[93:47] Speaker 2: Okey tahniah.
+[1:33:47] Speaker 2: Okey tahniah.
 
-[93:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:33:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[93:52] Speaker 1: Hmm.
+[1:33:52] Speaker 1: Hmm.
 
-[93:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:33:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[93:55] Speaker 1: Hmm.
+[1:33:55] Speaker 1: Hmm.
 
-[93:56] Speaker 1: Ini kesnya apabila kena.
+[1:33:56] Speaker 1: Ini kesnya apabila kena.
 
-[93:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:33:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[94:01] Speaker 1: Ah.
+[1:34:01] Speaker 1: Ah.
 
-[94:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:34:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[94:05] Speaker 1: Ah.
+[1:34:05] Speaker 1: Ah.
 
-[94:06] Speaker 1: Hmm, hmm.
+[1:34:06] Speaker 1: Hmm, hmm.
 
-[94:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:34:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[94:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:34:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[94:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:34:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[94:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:34:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[94:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:34:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[94:32] Speaker 1: Hmm, hmm.
+[1:34:32] Speaker 1: Hmm, hmm.
 
-[94:32] Speaker 1: Dan dia tak end kanlah.
+[1:34:32] Speaker 1: Dan dia tak end kanlah.
 
-[94:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:34:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[94:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:34:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[94:40] Speaker 1: Oh I see, ah, ah.
+[1:34:40] Speaker 1: Oh I see, ah, ah.
 
-[94:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:34:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[94:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:34:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[94:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:34:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[95:01] Speaker 1: Ah.
+[1:35:01] Speaker 1: Ah.
 
-[95:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:35:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[95:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:35:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[95:10] Speaker 1: Um.
+[1:35:10] Speaker 1: Um.
 
-[95:11] Speaker 2: Siapa Shahrul Slat?
+[1:35:11] Speaker 2: Siapa Shahrul Slat?
 
-[95:12] Speaker 1: Yalah dialah.
+[1:35:12] Speaker 1: Yalah dialah.
 
-[95:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:35:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[95:16] Speaker 2: Dia famous ke?
+[1:35:16] Speaker 2: Dia famous ke?
 
-[95:17] Speaker 1: Tak tahu.
+[1:35:17] Speaker 1: Tak tahu.
 
-[95:19] Speaker 1: Kenapa?
+[1:35:19] Speaker 1: Kenapa?
 
-[95:20] Speaker 1: Nampak views tinggi.
+[1:35:20] Speaker 1: Nampak views tinggi.
 
-[95:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:35:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[95:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:35:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[95:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:35:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[95:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:35:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[95:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:35:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[95:37] Speaker 1: Um.
+[1:35:37] Speaker 1: Um.
 
-[96:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:36:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[96:57] Speaker 1: Uhm.
+[1:36:57] Speaker 1: Uhm.
 
-[96:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:36:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[97:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:37:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[97:18] Speaker 2: Ah?
+[1:37:18] Speaker 2: Ah?
 
-[97:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:37:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[97:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:37:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[97:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:37:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[97:41] Speaker 1: Ah, exclusive podcast.
+[1:37:41] Speaker 1: Ah, exclusive podcast.
 
-[97:43] Speaker 2: Tu yang mahal tu.
+[1:37:43] Speaker 2: Tu yang mahal tu.
 
-[97:44] Speaker 1: Tu yang mahal tu.
+[1:37:44] Speaker 1: Tu yang mahal tu.
 
-[97:45] Speaker 2: Jangan bagi idea.
+[1:37:45] Speaker 2: Jangan bagi idea.
 
-[97:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:37:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[97:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:37:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[97:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:37:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[97:58] Speaker 1: Alhamdulillah.
+[1:37:58] Speaker 1: Alhamdulillah.
 
-[97:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:37:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[98:04] Speaker 1: Oh ah.
+[1:38:04] Speaker 1: Oh ah.
 
-[98:04] Speaker 1: So maybe maybe satu idea.
+[1:38:04] Speaker 1: So maybe maybe satu idea.
 
-[98:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:38:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[98:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:38:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[98:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:38:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[98:13] Speaker 1: Maybe not yet.
+[1:38:13] Speaker 1: Maybe not yet.
 
-[98:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:38:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[98:18] Speaker 1: Okey, setakat belum lagi.
+[1:38:18] Speaker 1: Okey, setakat belum lagi.
 
-[98:20] Speaker 1: Okey.
+[1:38:20] Speaker 1: Okey.
 
-[98:20] Speaker 1: Ah.
+[1:38:20] Speaker 1: Ah.
 
-[98:21] Speaker 1: Kita tengok yang Beria YB?
+[1:38:21] Speaker 1: Kita tengok yang Beria YB?
 
-[98:22] Speaker 1: Hmm.
+[1:38:22] Speaker 1: Hmm.
 
-[98:22] Speaker 1: Okey, next.
+[1:38:22] Speaker 1: Okey, next.
 
-[98:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:38:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[98:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:38:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[98:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:38:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[98:37] Speaker 2: Aha.
+[1:38:37] Speaker 2: Aha.
 
-[98:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:38:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[98:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:38:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[98:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:38:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[98:51] Speaker 1: Apa yang payah sangat?
+[1:38:51] Speaker 1: Apa yang payah sangat?
 
-[98:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:38:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[98:58] Speaker 1: Dia tak siakan lagi kan?
+[1:38:58] Speaker 1: Dia tak siakan lagi kan?
 
-[98:59] Speaker 1: Tak, tak ada, tak ada.
+[1:38:59] Speaker 1: Tak, tak ada, tak ada.
 
-[99:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:39:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[99:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:39:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[99:10] Speaker 1: Hmm.
+[1:39:10] Speaker 1: Hmm.
 
-[99:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:39:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[99:21] Speaker 1: Wah, bersaing dengan.
+[1:39:21] Speaker 1: Wah, bersaing dengan.
 
-[99:22] Speaker 1: Ah, bersaing kan.
+[1:39:22] Speaker 1: Ah, bersaing kan.
 
-[99:24] Speaker 1: Betul juga kan?
+[1:39:24] Speaker 1: Betul juga kan?
 
-[99:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:39:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[99:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:39:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[99:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:39:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[99:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:39:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[99:48] Speaker 1: Hmm.
+[1:39:48] Speaker 1: Hmm.
 
-[99:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:39:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[99:55] Speaker 1: Ah, hmm, beria-ia.
+[1:39:55] Speaker 1: Ah, hmm, beria-ia.
 
-[99:57] Speaker 1: Ah.
+[1:39:57] Speaker 1: Ah.
 
-[99:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:39:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[99:59] Speaker 1: Hmm.
+[1:39:59] Speaker 1: Hmm.
 
-[100:00] Speaker 1: Ah.
+[1:40:00] Speaker 1: Ah.
 
-[100:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:40:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[100:03] Speaker 1: Ah okey.
+[1:40:03] Speaker 1: Ah okey.
 
-[100:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:40:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[100:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:40:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[100:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:40:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[100:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:40:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[100:24] Speaker 1: Hmm.
+[1:40:24] Speaker 1: Hmm.
 
-[100:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:40:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[100:34] Speaker 1: Uh then, faham-faham lah.
+[1:40:34] Speaker 1: Uh then, faham-faham lah.
 
-[100:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:40:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[100:47] Speaker 2: Okey tahniah.
+[1:40:47] Speaker 2: Okey tahniah.
 
-[100:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:40:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[100:52] Speaker 1: Hmm.
+[1:40:52] Speaker 1: Hmm.
 
-[100:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:40:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[100:55] Speaker 1: Hmm.
+[1:40:55] Speaker 1: Hmm.
 
-[100:56] Speaker 1: Ini kesnya apabila kena.
+[1:40:56] Speaker 1: Ini kesnya apabila kena.
 
-[100:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:40:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[101:01] Speaker 1: Ah.
+[1:41:01] Speaker 1: Ah.
 
-[101:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:41:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[101:05] Speaker 1: Ah.
+[1:41:05] Speaker 1: Ah.
 
-[101:06] Speaker 1: Hmm, hmm.
+[1:41:06] Speaker 1: Hmm, hmm.
 
-[101:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:41:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[101:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:41:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[101:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:41:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[101:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:41:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[101:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:41:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[101:32] Speaker 1: Hmm, hmm.
+[1:41:32] Speaker 1: Hmm, hmm.
 
-[101:32] Speaker 1: Dan dia tak end kanlah.
+[1:41:32] Speaker 1: Dan dia tak end kanlah.
 
-[101:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:41:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[101:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:41:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[101:40] Speaker 1: Oh I see, ah, ah.
+[1:41:40] Speaker 1: Oh I see, ah, ah.
 
-[101:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:41:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[101:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:41:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[101:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:41:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[102:01] Speaker 1: Ah.
+[1:42:01] Speaker 1: Ah.
 
-[102:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:42:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[102:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:42:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[102:10] Speaker 1: Um.
+[1:42:10] Speaker 1: Um.
 
-[102:11] Speaker 2: Siapa Shahrul Slat?
+[1:42:11] Speaker 2: Siapa Shahrul Slat?
 
-[102:12] Speaker 1: Yalah dialah.
+[1:42:12] Speaker 1: Yalah dialah.
 
-[102:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:42:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[102:16] Speaker 2: Dia famous ke?
+[1:42:16] Speaker 2: Dia famous ke?
 
-[102:17] Speaker 1: Tak tahu.
+[1:42:17] Speaker 1: Tak tahu.
 
-[102:19] Speaker 1: Kenapa?
+[1:42:19] Speaker 1: Kenapa?
 
-[102:20] Speaker 1: Nampak views tinggi.
+[1:42:20] Speaker 1: Nampak views tinggi.
 
-[102:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:42:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[102:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:42:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[102:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:42:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[102:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:42:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[102:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:42:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[102:37] Speaker 1: Um.
+[1:42:37] Speaker 1: Um.
 
-[103:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:43:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[103:57] Speaker 1: Uhm.
+[1:43:57] Speaker 1: Uhm.
 
-[103:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:43:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[104:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:44:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[104:18] Speaker 2: Ah?
+[1:44:18] Speaker 2: Ah?
 
-[104:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:44:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[104:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:44:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[104:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:44:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[104:41] Speaker 1: Ah, exclusive podcast.
+[1:44:41] Speaker 1: Ah, exclusive podcast.
 
-[104:43] Speaker 2: Tu yang mahal tu.
+[1:44:43] Speaker 2: Tu yang mahal tu.
 
-[104:44] Speaker 1: Tu yang mahal tu.
+[1:44:44] Speaker 1: Tu yang mahal tu.
 
-[104:45] Speaker 2: Jangan bagi idea.
+[1:44:45] Speaker 2: Jangan bagi idea.
 
-[104:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:44:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[104:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:44:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[104:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:44:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[104:58] Speaker 1: Alhamdulillah.
+[1:44:58] Speaker 1: Alhamdulillah.
 
-[104:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:44:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[105:04] Speaker 1: Oh ah.
+[1:45:04] Speaker 1: Oh ah.
 
-[105:04] Speaker 1: So maybe maybe satu idea.
+[1:45:04] Speaker 1: So maybe maybe satu idea.
 
-[105:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:45:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[105:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:45:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[105:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:45:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[105:13] Speaker 1: Maybe not yet.
+[1:45:13] Speaker 1: Maybe not yet.
 
-[105:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:45:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[105:18] Speaker 1: Okey, setakat belum lagi.
+[1:45:18] Speaker 1: Okey, setakat belum lagi.
 
-[105:20] Speaker 1: Okey.
+[1:45:20] Speaker 1: Okey.
 
-[105:20] Speaker 1: Ah.
+[1:45:20] Speaker 1: Ah.
 
-[105:21] Speaker 1: Kita tengok yang Beria YB?
+[1:45:21] Speaker 1: Kita tengok yang Beria YB?
 
-[105:22] Speaker 1: Hmm.
+[1:45:22] Speaker 1: Hmm.
 
-[105:22] Speaker 1: Okey, next.
+[1:45:22] Speaker 1: Okey, next.
 
-[105:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:45:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[105:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:45:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[105:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:45:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[105:37] Speaker 2: Aha.
+[1:45:37] Speaker 2: Aha.
 
-[105:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:45:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[105:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:45:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[105:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:45:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[105:51] Speaker 1: Apa yang payah sangat?
+[1:45:51] Speaker 1: Apa yang payah sangat?
 
-[105:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:45:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[105:58] Speaker 1: Dia tak siakan lagi kan?
+[1:45:58] Speaker 1: Dia tak siakan lagi kan?
 
-[105:59] Speaker 1: Tak, tak ada, tak ada.
+[1:45:59] Speaker 1: Tak, tak ada, tak ada.
 
-[106:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:46:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[106:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:46:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[106:10] Speaker 1: Hmm.
+[1:46:10] Speaker 1: Hmm.
 
-[106:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:46:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[106:21] Speaker 1: Wah, bersaing dengan.
+[1:46:21] Speaker 1: Wah, bersaing dengan.
 
-[106:22] Speaker 1: Ah, bersaing kan.
+[1:46:22] Speaker 1: Ah, bersaing kan.
 
-[106:24] Speaker 1: Betul juga kan?
+[1:46:24] Speaker 1: Betul juga kan?
 
-[106:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:46:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[106:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:46:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[106:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:46:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[106:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:46:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[106:48] Speaker 1: Hmm.
+[1:46:48] Speaker 1: Hmm.
 
-[106:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:46:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[106:55] Speaker 1: Ah, hmm, beria-ia.
+[1:46:55] Speaker 1: Ah, hmm, beria-ia.
 
-[106:57] Speaker 1: Ah.
+[1:46:57] Speaker 1: Ah.
 
-[106:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:46:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[106:59] Speaker 1: Hmm.
+[1:46:59] Speaker 1: Hmm.
 
-[107:00] Speaker 1: Ah.
+[1:47:00] Speaker 1: Ah.
 
-[107:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:47:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[107:03] Speaker 1: Ah okey.
+[1:47:03] Speaker 1: Ah okey.
 
-[107:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:47:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[107:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:47:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[107:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:47:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[107:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:47:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[107:24] Speaker 1: Hmm.
+[1:47:24] Speaker 1: Hmm.
 
-[107:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:47:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[107:34] Speaker 1: Uh then, faham-faham lah.
+[1:47:34] Speaker 1: Uh then, faham-faham lah.
 
-[107:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:47:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[107:47] Speaker 2: Okey tahniah.
+[1:47:47] Speaker 2: Okey tahniah.
 
-[107:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:47:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[107:52] Speaker 1: Hmm.
+[1:47:52] Speaker 1: Hmm.
 
-[107:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:47:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[107:55] Speaker 1: Hmm.
+[1:47:55] Speaker 1: Hmm.
 
-[107:56] Speaker 1: Ini kesnya apabila kena.
+[1:47:56] Speaker 1: Ini kesnya apabila kena.
 
-[107:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:47:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[108:01] Speaker 1: Ah.
+[1:48:01] Speaker 1: Ah.
 
-[108:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:48:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[108:05] Speaker 1: Ah.
+[1:48:05] Speaker 1: Ah.
 
-[108:06] Speaker 1: Hmm, hmm.
+[1:48:06] Speaker 1: Hmm, hmm.
 
-[108:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:48:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[108:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:48:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[108:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:48:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[108:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:48:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[108:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:48:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[108:32] Speaker 1: Hmm, hmm.
+[1:48:32] Speaker 1: Hmm, hmm.
 
-[108:32] Speaker 1: Dan dia tak end kanlah.
+[1:48:32] Speaker 1: Dan dia tak end kanlah.
 
-[108:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:48:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[108:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:48:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[108:40] Speaker 1: Oh I see, ah, ah.
+[1:48:40] Speaker 1: Oh I see, ah, ah.
 
-[108:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:48:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[108:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:48:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[108:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:48:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[109:01] Speaker 1: Ah.
+[1:49:01] Speaker 1: Ah.
 
-[109:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:49:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[109:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:49:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[109:10] Speaker 1: Um.
+[1:49:10] Speaker 1: Um.
 
-[109:11] Speaker 2: Siapa Shahrul Slat?
+[1:49:11] Speaker 2: Siapa Shahrul Slat?
 
-[109:12] Speaker 1: Yalah dialah.
+[1:49:12] Speaker 1: Yalah dialah.
 
-[109:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:49:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[109:16] Speaker 2: Dia famous ke?
+[1:49:16] Speaker 2: Dia famous ke?
 
-[109:17] Speaker 1: Tak tahu.
+[1:49:17] Speaker 1: Tak tahu.
 
-[109:19] Speaker 1: Kenapa?
+[1:49:19] Speaker 1: Kenapa?
 
-[109:20] Speaker 1: Nampak views tinggi.
+[1:49:20] Speaker 1: Nampak views tinggi.
 
-[109:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:49:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[109:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:49:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[109:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:49:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[109:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:49:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[109:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:49:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[109:37] Speaker 1: Um.
+[1:49:37] Speaker 1: Um.
 
-[110:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[1:50:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[110:57] Speaker 1: Uhm.
+[1:50:57] Speaker 1: Uhm.
 
-[110:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[1:50:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[111:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[1:51:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[111:18] Speaker 2: Ah?
+[1:51:18] Speaker 2: Ah?
 
-[111:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[1:51:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[111:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[1:51:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[111:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[1:51:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[111:41] Speaker 1: Ah, exclusive podcast.
+[1:51:41] Speaker 1: Ah, exclusive podcast.
 
-[111:43] Speaker 2: Tu yang mahal tu.
+[1:51:43] Speaker 2: Tu yang mahal tu.
 
-[111:44] Speaker 1: Tu yang mahal tu.
+[1:51:44] Speaker 1: Tu yang mahal tu.
 
-[111:45] Speaker 2: Jangan bagi idea.
+[1:51:45] Speaker 2: Jangan bagi idea.
 
-[111:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[1:51:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[111:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[1:51:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[111:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[1:51:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[111:58] Speaker 1: Alhamdulillah.
+[1:51:58] Speaker 1: Alhamdulillah.
 
-[111:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[1:51:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[112:04] Speaker 1: Oh ah.
+[1:52:04] Speaker 1: Oh ah.
 
-[112:04] Speaker 1: So maybe maybe satu idea.
+[1:52:04] Speaker 1: So maybe maybe satu idea.
 
-[112:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[1:52:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[112:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[1:52:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[112:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[1:52:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[112:13] Speaker 1: Maybe not yet.
+[1:52:13] Speaker 1: Maybe not yet.
 
-[112:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[1:52:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[112:18] Speaker 1: Okey, setakat belum lagi.
+[1:52:18] Speaker 1: Okey, setakat belum lagi.
 
-[112:20] Speaker 1: Okey.
+[1:52:20] Speaker 1: Okey.
 
-[112:20] Speaker 1: Ah.
+[1:52:20] Speaker 1: Ah.
 
-[112:21] Speaker 1: Kita tengok yang Beria YB?
+[1:52:21] Speaker 1: Kita tengok yang Beria YB?
 
-[112:22] Speaker 1: Hmm.
+[1:52:22] Speaker 1: Hmm.
 
-[112:22] Speaker 1: Okey, next.
+[1:52:22] Speaker 1: Okey, next.
 
-[112:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[1:52:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[112:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[1:52:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[112:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[1:52:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[112:37] Speaker 2: Aha.
+[1:52:37] Speaker 2: Aha.
 
-[112:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[1:52:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[112:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[1:52:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[112:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[1:52:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[112:51] Speaker 1: Apa yang payah sangat?
+[1:52:51] Speaker 1: Apa yang payah sangat?
 
-[112:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[1:52:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[112:58] Speaker 1: Dia tak siakan lagi kan?
+[1:52:58] Speaker 1: Dia tak siakan lagi kan?
 
-[112:59] Speaker 1: Tak, tak ada, tak ada.
+[1:52:59] Speaker 1: Tak, tak ada, tak ada.
 
-[113:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[1:53:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[113:08] Speaker 1: Tanya macam mana nak memohon kan?
+[1:53:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[113:10] Speaker 1: Hmm.
+[1:53:10] Speaker 1: Hmm.
 
-[113:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[1:53:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[113:21] Speaker 1: Wah, bersaing dengan.
+[1:53:21] Speaker 1: Wah, bersaing dengan.
 
-[113:22] Speaker 1: Ah, bersaing kan.
+[1:53:22] Speaker 1: Ah, bersaing kan.
 
-[113:24] Speaker 1: Betul juga kan?
+[1:53:24] Speaker 1: Betul juga kan?
 
-[113:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[1:53:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[113:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[1:53:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[113:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[1:53:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[113:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[1:53:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[113:48] Speaker 1: Hmm.
+[1:53:48] Speaker 1: Hmm.
 
-[113:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[1:53:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[113:55] Speaker 1: Ah, hmm, beria-ia.
+[1:53:55] Speaker 1: Ah, hmm, beria-ia.
 
-[113:57] Speaker 1: Ah.
+[1:53:57] Speaker 1: Ah.
 
-[113:58] Speaker 1: Okey, tahniah Takiyuddin.
+[1:53:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[113:59] Speaker 1: Hmm.
+[1:53:59] Speaker 1: Hmm.
 
-[114:00] Speaker 1: Ah.
+[1:54:00] Speaker 1: Ah.
 
-[114:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[1:54:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[114:03] Speaker 1: Ah okey.
+[1:54:03] Speaker 1: Ah okey.
 
-[114:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[1:54:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[114:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[1:54:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[114:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[1:54:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[114:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[1:54:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[114:24] Speaker 1: Hmm.
+[1:54:24] Speaker 1: Hmm.
 
-[114:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[1:54:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[114:34] Speaker 1: Uh then, faham-faham lah.
+[1:54:34] Speaker 1: Uh then, faham-faham lah.
 
-[114:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[1:54:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[114:47] Speaker 2: Okey tahniah.
+[1:54:47] Speaker 2: Okey tahniah.
 
-[114:48] Speaker 1: Okey, kita tengok lagi yang next.
+[1:54:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[114:52] Speaker 1: Hmm.
+[1:54:52] Speaker 1: Hmm.
 
-[114:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[1:54:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[114:55] Speaker 1: Hmm.
+[1:54:55] Speaker 1: Hmm.
 
-[114:56] Speaker 1: Ini kesnya apabila kena.
+[1:54:56] Speaker 1: Ini kesnya apabila kena.
 
-[114:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[1:54:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[115:01] Speaker 1: Ah.
+[1:55:01] Speaker 1: Ah.
 
-[115:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[1:55:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[115:05] Speaker 1: Ah.
+[1:55:05] Speaker 1: Ah.
 
-[115:06] Speaker 1: Hmm, hmm.
+[1:55:06] Speaker 1: Hmm, hmm.
 
-[115:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[1:55:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[115:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[1:55:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[115:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[1:55:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[115:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[1:55:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[115:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[1:55:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[115:32] Speaker 1: Hmm, hmm.
+[1:55:32] Speaker 1: Hmm, hmm.
 
-[115:32] Speaker 1: Dan dia tak end kanlah.
+[1:55:32] Speaker 1: Dan dia tak end kanlah.
 
-[115:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[1:55:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[115:38] Speaker 1: Ini saya tak silap ke luar negara.
+[1:55:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[115:40] Speaker 1: Oh I see, ah, ah.
+[1:55:40] Speaker 1: Oh I see, ah, ah.
 
-[115:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[1:55:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[115:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[1:55:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[115:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[1:55:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[116:01] Speaker 1: Ah.
+[1:56:01] Speaker 1: Ah.
 
-[116:02] Speaker 1: Uh, tambah lagi kerja saya.
+[1:56:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[116:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[1:56:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[116:10] Speaker 1: Um.
+[1:56:10] Speaker 1: Um.
 
-[116:11] Speaker 2: Siapa Shahrul Slat?
+[1:56:11] Speaker 2: Siapa Shahrul Slat?
 
-[116:12] Speaker 1: Yalah dialah.
+[1:56:12] Speaker 1: Yalah dialah.
 
-[116:14] Speaker 1: Orang yang meroyanlah, ah.
+[1:56:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[116:16] Speaker 2: Dia famous ke?
+[1:56:16] Speaker 2: Dia famous ke?
 
-[116:17] Speaker 1: Tak tahu.
+[1:56:17] Speaker 1: Tak tahu.
 
-[116:19] Speaker 1: Kenapa?
+[1:56:19] Speaker 1: Kenapa?
 
-[116:20] Speaker 1: Nampak views tinggi.
+[1:56:20] Speaker 1: Nampak views tinggi.
 
-[116:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[1:56:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[116:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[1:56:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[116:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[1:56:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[116:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[1:56:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[116:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[1:56:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[116:37] Speaker 1: Um.
+[1:56:37] Speaker 1: Um.
 
-[121:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:01:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[121:57] Speaker 1: Uhm.
+[2:01:57] Speaker 1: Uhm.
 
-[121:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:01:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[122:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:02:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[122:18] Speaker 2: Ah?
+[2:02:18] Speaker 2: Ah?
 
-[122:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:02:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[122:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:02:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[122:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:02:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[122:41] Speaker 1: Ah, exclusive podcast.
+[2:02:41] Speaker 1: Ah, exclusive podcast.
 
-[122:43] Speaker 2: Tu yang mahal tu.
+[2:02:43] Speaker 2: Tu yang mahal tu.
 
-[122:44] Speaker 1: Tu yang mahal tu.
+[2:02:44] Speaker 1: Tu yang mahal tu.
 
-[122:45] Speaker 2: Jangan bagi idea.
+[2:02:45] Speaker 2: Jangan bagi idea.
 
-[122:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:02:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[122:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:02:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[122:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:02:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[122:58] Speaker 1: Alhamdulillah.
+[2:02:58] Speaker 1: Alhamdulillah.
 
-[122:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:02:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[123:04] Speaker 1: Oh ah.
+[2:03:04] Speaker 1: Oh ah.
 
-[123:04] Speaker 1: So maybe maybe satu idea.
+[2:03:04] Speaker 1: So maybe maybe satu idea.
 
-[123:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:03:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[123:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:03:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[123:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:03:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[123:13] Speaker 1: Maybe not yet.
+[2:03:13] Speaker 1: Maybe not yet.
 
-[123:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:03:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[123:18] Speaker 1: Okey, setakat belum lagi.
+[2:03:18] Speaker 1: Okey, setakat belum lagi.
 
-[123:20] Speaker 1: Okey.
+[2:03:20] Speaker 1: Okey.
 
-[123:20] Speaker 1: Ah.
+[2:03:20] Speaker 1: Ah.
 
-[123:21] Speaker 1: Kita tengok yang Beria YB?
+[2:03:21] Speaker 1: Kita tengok yang Beria YB?
 
-[123:22] Speaker 1: Hmm.
+[2:03:22] Speaker 1: Hmm.
 
-[123:22] Speaker 1: Okey, next.
+[2:03:22] Speaker 1: Okey, next.
 
-[123:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:03:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[123:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:03:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[123:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:03:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[123:37] Speaker 2: Aha.
+[2:03:37] Speaker 2: Aha.
 
-[123:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:03:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[123:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:03:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[123:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:03:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[123:51] Speaker 1: Apa yang payah sangat?
+[2:03:51] Speaker 1: Apa yang payah sangat?
 
-[123:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:03:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[123:58] Speaker 1: Dia tak siakan lagi kan?
+[2:03:58] Speaker 1: Dia tak siakan lagi kan?
 
-[123:59] Speaker 1: Tak, tak ada, tak ada.
+[2:03:59] Speaker 1: Tak, tak ada, tak ada.
 
-[124:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:04:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[124:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:04:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[124:10] Speaker 1: Hmm.
+[2:04:10] Speaker 1: Hmm.
 
-[124:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:04:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[124:21] Speaker 1: Wah, bersaing dengan.
+[2:04:21] Speaker 1: Wah, bersaing dengan.
 
-[124:22] Speaker 1: Ah, bersaing kan.
+[2:04:22] Speaker 1: Ah, bersaing kan.
 
-[124:24] Speaker 1: Betul juga kan?
+[2:04:24] Speaker 1: Betul juga kan?
 
-[124:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:04:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[124:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:04:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[124:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:04:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[124:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:04:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[124:48] Speaker 1: Hmm.
+[2:04:48] Speaker 1: Hmm.
 
-[124:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:04:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[124:55] Speaker 1: Ah, hmm, beria-ia.
+[2:04:55] Speaker 1: Ah, hmm, beria-ia.
 
-[124:57] Speaker 1: Ah.
+[2:04:57] Speaker 1: Ah.
 
-[124:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:04:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[124:59] Speaker 1: Hmm.
+[2:04:59] Speaker 1: Hmm.
 
-[125:00] Speaker 1: Ah.
+[2:05:00] Speaker 1: Ah.
 
-[125:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:05:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[125:03] Speaker 1: Ah okey.
+[2:05:03] Speaker 1: Ah okey.
 
-[125:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:05:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[125:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:05:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[125:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:05:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[125:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:05:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[125:24] Speaker 1: Hmm.
+[2:05:24] Speaker 1: Hmm.
 
-[125:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:05:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[125:34] Speaker 1: Uh then, faham-faham lah.
+[2:05:34] Speaker 1: Uh then, faham-faham lah.
 
-[125:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:05:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[125:47] Speaker 2: Okey tahniah.
+[2:05:47] Speaker 2: Okey tahniah.
 
-[125:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:05:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[125:52] Speaker 1: Hmm.
+[2:05:52] Speaker 1: Hmm.
 
-[125:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:05:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[125:55] Speaker 1: Hmm.
+[2:05:55] Speaker 1: Hmm.
 
-[125:56] Speaker 1: Ini kesnya apabila kena.
+[2:05:56] Speaker 1: Ini kesnya apabila kena.
 
-[125:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:05:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[126:01] Speaker 1: Ah.
+[2:06:01] Speaker 1: Ah.
 
-[126:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:06:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[126:05] Speaker 1: Ah.
+[2:06:05] Speaker 1: Ah.
 
-[126:06] Speaker 1: Hmm, hmm.
+[2:06:06] Speaker 1: Hmm, hmm.
 
-[126:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:06:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[126:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:06:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[126:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:06:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[126:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:06:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[126:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:06:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[126:32] Speaker 1: Hmm, hmm.
+[2:06:32] Speaker 1: Hmm, hmm.
 
-[126:32] Speaker 1: Dan dia tak end kanlah.
+[2:06:32] Speaker 1: Dan dia tak end kanlah.
 
-[126:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:06:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[126:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:06:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[126:40] Speaker 1: Oh I see, ah, ah.
+[2:06:40] Speaker 1: Oh I see, ah, ah.
 
-[126:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:06:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[126:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:06:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[126:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:06:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[127:01] Speaker 1: Ah.
+[2:07:01] Speaker 1: Ah.
 
-[127:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:07:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[127:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:07:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[127:10] Speaker 1: Um.
+[2:07:10] Speaker 1: Um.
 
-[127:11] Speaker 2: Siapa Shahrul Slat?
+[2:07:11] Speaker 2: Siapa Shahrul Slat?
 
-[127:12] Speaker 1: Yalah dialah.
+[2:07:12] Speaker 1: Yalah dialah.
 
-[127:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:07:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[127:16] Speaker 2: Dia famous ke?
+[2:07:16] Speaker 2: Dia famous ke?
 
-[127:17] Speaker 1: Tak tahu.
+[2:07:17] Speaker 1: Tak tahu.
 
-[127:19] Speaker 1: Kenapa?
+[2:07:19] Speaker 1: Kenapa?
 
-[127:20] Speaker 1: Nampak views tinggi.
+[2:07:20] Speaker 1: Nampak views tinggi.
 
-[127:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:07:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[127:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:07:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[127:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:07:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[127:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:07:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[127:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:07:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[127:37] Speaker 1: Um.
+[2:07:37] Speaker 1: Um.
 
-[128:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:08:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[128:57] Speaker 1: Uhm.
+[2:08:57] Speaker 1: Uhm.
 
-[128:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:08:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[129:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:09:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[129:18] Speaker 2: Ah?
+[2:09:18] Speaker 2: Ah?
 
-[129:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:09:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[129:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:09:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[129:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:09:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[129:41] Speaker 1: Ah, exclusive podcast.
+[2:09:41] Speaker 1: Ah, exclusive podcast.
 
-[129:43] Speaker 2: Tu yang mahal tu.
+[2:09:43] Speaker 2: Tu yang mahal tu.
 
-[129:44] Speaker 1: Tu yang mahal tu.
+[2:09:44] Speaker 1: Tu yang mahal tu.
 
-[129:45] Speaker 2: Jangan bagi idea.
+[2:09:45] Speaker 2: Jangan bagi idea.
 
-[129:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:09:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[129:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:09:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[129:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:09:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[129:58] Speaker 1: Alhamdulillah.
+[2:09:58] Speaker 1: Alhamdulillah.
 
-[129:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:09:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[130:04] Speaker 1: Oh ah.
+[2:10:04] Speaker 1: Oh ah.
 
-[130:04] Speaker 1: So maybe maybe satu idea.
+[2:10:04] Speaker 1: So maybe maybe satu idea.
 
-[130:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:10:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[130:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:10:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[130:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:10:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[130:13] Speaker 1: Maybe not yet.
+[2:10:13] Speaker 1: Maybe not yet.
 
-[130:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:10:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[130:18] Speaker 1: Okey, setakat belum lagi.
+[2:10:18] Speaker 1: Okey, setakat belum lagi.
 
-[130:20] Speaker 1: Okey.
+[2:10:20] Speaker 1: Okey.
 
-[130:20] Speaker 1: Ah.
+[2:10:20] Speaker 1: Ah.
 
-[130:21] Speaker 1: Kita tengok yang Beria YB?
+[2:10:21] Speaker 1: Kita tengok yang Beria YB?
 
-[130:22] Speaker 1: Hmm.
+[2:10:22] Speaker 1: Hmm.
 
-[130:22] Speaker 1: Okey, next.
+[2:10:22] Speaker 1: Okey, next.
 
-[130:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:10:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[130:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:10:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[130:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:10:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[130:37] Speaker 2: Aha.
+[2:10:37] Speaker 2: Aha.
 
-[130:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:10:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[130:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:10:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[130:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:10:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[130:51] Speaker 1: Apa yang payah sangat?
+[2:10:51] Speaker 1: Apa yang payah sangat?
 
-[130:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:10:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[130:58] Speaker 1: Dia tak siakan lagi kan?
+[2:10:58] Speaker 1: Dia tak siakan lagi kan?
 
-[130:59] Speaker 1: Tak, tak ada, tak ada.
+[2:10:59] Speaker 1: Tak, tak ada, tak ada.
 
-[131:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:11:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[131:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:11:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[131:10] Speaker 1: Hmm.
+[2:11:10] Speaker 1: Hmm.
 
-[131:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:11:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[131:21] Speaker 1: Wah, bersaing dengan.
+[2:11:21] Speaker 1: Wah, bersaing dengan.
 
-[131:22] Speaker 1: Ah, bersaing kan.
+[2:11:22] Speaker 1: Ah, bersaing kan.
 
-[131:24] Speaker 1: Betul juga kan?
+[2:11:24] Speaker 1: Betul juga kan?
 
-[131:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:11:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[131:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:11:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[131:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:11:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[131:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:11:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[131:48] Speaker 1: Hmm.
+[2:11:48] Speaker 1: Hmm.
 
-[131:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:11:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[131:55] Speaker 1: Ah, hmm, beria-ia.
+[2:11:55] Speaker 1: Ah, hmm, beria-ia.
 
-[131:57] Speaker 1: Ah.
+[2:11:57] Speaker 1: Ah.
 
-[131:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:11:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[131:59] Speaker 1: Hmm.
+[2:11:59] Speaker 1: Hmm.
 
-[132:00] Speaker 1: Ah.
+[2:12:00] Speaker 1: Ah.
 
-[132:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:12:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[132:03] Speaker 1: Ah okey.
+[2:12:03] Speaker 1: Ah okey.
 
-[132:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:12:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[132:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:12:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[132:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:12:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[132:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:12:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[132:24] Speaker 1: Hmm.
+[2:12:24] Speaker 1: Hmm.
 
-[132:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:12:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[132:34] Speaker 1: Uh then, faham-faham lah.
+[2:12:34] Speaker 1: Uh then, faham-faham lah.
 
-[132:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:12:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[132:47] Speaker 2: Okey tahniah.
+[2:12:47] Speaker 2: Okey tahniah.
 
-[132:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:12:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[132:52] Speaker 1: Hmm.
+[2:12:52] Speaker 1: Hmm.
 
-[132:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:12:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[132:55] Speaker 1: Hmm.
+[2:12:55] Speaker 1: Hmm.
 
-[132:56] Speaker 1: Ini kesnya apabila kena.
+[2:12:56] Speaker 1: Ini kesnya apabila kena.
 
-[132:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:12:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[133:01] Speaker 1: Ah.
+[2:13:01] Speaker 1: Ah.
 
-[133:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:13:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[133:05] Speaker 1: Ah.
+[2:13:05] Speaker 1: Ah.
 
-[133:06] Speaker 1: Hmm, hmm.
+[2:13:06] Speaker 1: Hmm, hmm.
 
-[133:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:13:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[133:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:13:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[133:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:13:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[133:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:13:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[133:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:13:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[133:32] Speaker 1: Hmm, hmm.
+[2:13:32] Speaker 1: Hmm, hmm.
 
-[133:32] Speaker 1: Dan dia tak end kanlah.
+[2:13:32] Speaker 1: Dan dia tak end kanlah.
 
-[133:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:13:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[133:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:13:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[134:40] Speaker 1: Oh I see, ah, ah.
+[2:14:40] Speaker 1: Oh I see, ah, ah.
 
-[134:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:14:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[134:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:14:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[134:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:14:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[135:01] Speaker 1: Ah.
+[2:15:01] Speaker 1: Ah.
 
-[135:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:15:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[135:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:15:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[135:10] Speaker 1: Um.
+[2:15:10] Speaker 1: Um.
 
-[135:11] Speaker 2: Siapa Shahrul Slat?
+[2:15:11] Speaker 2: Siapa Shahrul Slat?
 
-[135:12] Speaker 1: Yalah dialah.
+[2:15:12] Speaker 1: Yalah dialah.
 
-[135:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:15:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[135:16] Speaker 2: Dia famous ke?
+[2:15:16] Speaker 2: Dia famous ke?
 
-[135:17] Speaker 1: Tak tahu.
+[2:15:17] Speaker 1: Tak tahu.
 
-[135:19] Speaker 1: Kenapa?
+[2:15:19] Speaker 1: Kenapa?
 
-[135:20] Speaker 1: Nampak views tinggi.
+[2:15:20] Speaker 1: Nampak views tinggi.
 
-[135:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:15:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[135:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:15:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[135:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:15:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[135:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:15:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[135:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:15:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[135:37] Speaker 1: Um.
+[2:15:37] Speaker 1: Um.
 
-[136:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:16:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[136:57] Speaker 1: Uhm.
+[2:16:57] Speaker 1: Uhm.
 
-[136:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:16:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[137:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:17:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[137:18] Speaker 2: Ah?
+[2:17:18] Speaker 2: Ah?
 
-[137:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:17:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[137:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:17:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[137:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:17:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[137:41] Speaker 1: Ah, exclusive podcast.
+[2:17:41] Speaker 1: Ah, exclusive podcast.
 
-[137:43] Speaker 2: Tu yang mahal tu.
+[2:17:43] Speaker 2: Tu yang mahal tu.
 
-[137:44] Speaker 1: Tu yang mahal tu.
+[2:17:44] Speaker 1: Tu yang mahal tu.
 
-[137:45] Speaker 2: Jangan bagi idea.
+[2:17:45] Speaker 2: Jangan bagi idea.
 
-[137:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:17:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[137:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:17:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[137:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:17:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[137:58] Speaker 1: Alhamdulillah.
+[2:17:58] Speaker 1: Alhamdulillah.
 
-[137:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:17:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[138:04] Speaker 1: Oh ah.
+[2:18:04] Speaker 1: Oh ah.
 
-[138:04] Speaker 1: So maybe maybe satu idea.
+[2:18:04] Speaker 1: So maybe maybe satu idea.
 
-[138:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:18:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[138:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:18:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[138:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:18:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[138:13] Speaker 1: Maybe not yet.
+[2:18:13] Speaker 1: Maybe not yet.
 
-[138:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:18:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[138:18] Speaker 1: Okey, setakat belum lagi.
+[2:18:18] Speaker 1: Okey, setakat belum lagi.
 
-[138:20] Speaker 1: Okey.
+[2:18:20] Speaker 1: Okey.
 
-[138:20] Speaker 1: Ah.
+[2:18:20] Speaker 1: Ah.
 
-[138:21] Speaker 1: Kita tengok yang Beria YB?
+[2:18:21] Speaker 1: Kita tengok yang Beria YB?
 
-[138:22] Speaker 1: Hmm.
+[2:18:22] Speaker 1: Hmm.
 
-[138:22] Speaker 1: Okey, next.
+[2:18:22] Speaker 1: Okey, next.
 
-[138:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:18:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[138:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:18:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[138:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:18:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[138:37] Speaker 2: Aha.
+[2:18:37] Speaker 2: Aha.
 
-[138:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:18:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[138:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:18:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[138:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:18:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[138:51] Speaker 1: Apa yang payah sangat?
+[2:18:51] Speaker 1: Apa yang payah sangat?
 
-[138:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:18:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[138:58] Speaker 1: Dia tak siakan lagi kan?
+[2:18:58] Speaker 1: Dia tak siakan lagi kan?
 
-[138:59] Speaker 1: Tak, tak ada, tak ada.
+[2:18:59] Speaker 1: Tak, tak ada, tak ada.
 
-[139:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:19:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[139:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:19:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[139:10] Speaker 1: Hmm.
+[2:19:10] Speaker 1: Hmm.
 
-[139:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:19:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[139:21] Speaker 1: Wah, bersaing dengan.
+[2:19:21] Speaker 1: Wah, bersaing dengan.
 
-[139:22] Speaker 1: Ah, bersaing kan.
+[2:19:22] Speaker 1: Ah, bersaing kan.
 
-[139:24] Speaker 1: Betul juga kan?
+[2:19:24] Speaker 1: Betul juga kan?
 
-[139:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:19:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[139:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:19:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[139:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:19:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[139:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:19:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[139:48] Speaker 1: Hmm.
+[2:19:48] Speaker 1: Hmm.
 
-[139:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:19:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[139:55] Speaker 1: Ah, hmm, beria-ia.
+[2:19:55] Speaker 1: Ah, hmm, beria-ia.
 
-[139:57] Speaker 1: Ah.
+[2:19:57] Speaker 1: Ah.
 
-[139:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:19:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[139:59] Speaker 1: Hmm.
+[2:19:59] Speaker 1: Hmm.
 
-[140:00] Speaker 1: Ah.
+[2:20:00] Speaker 1: Ah.
 
-[140:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:20:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[140:03] Speaker 1: Ah okey.
+[2:20:03] Speaker 1: Ah okey.
 
-[140:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:20:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[140:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:20:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[140:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:20:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[140:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:20:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[140:24] Speaker 1: Hmm.
+[2:20:24] Speaker 1: Hmm.
 
-[140:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:20:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[140:34] Speaker 1: Uh then, faham-faham lah.
+[2:20:34] Speaker 1: Uh then, faham-faham lah.
 
-[140:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:20:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[140:47] Speaker 2: Okey tahniah.
+[2:20:47] Speaker 2: Okey tahniah.
 
-[140:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:20:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[140:52] Speaker 1: Hmm.
+[2:20:52] Speaker 1: Hmm.
 
-[140:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:20:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[140:55] Speaker 1: Hmm.
+[2:20:55] Speaker 1: Hmm.
 
-[140:56] Speaker 1: Ini kesnya apabila kena.
+[2:20:56] Speaker 1: Ini kesnya apabila kena.
 
-[140:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:20:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[141:01] Speaker 1: Ah.
+[2:21:01] Speaker 1: Ah.
 
-[141:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:21:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[141:05] Speaker 1: Ah.
+[2:21:05] Speaker 1: Ah.
 
-[141:06] Speaker 1: Hmm, hmm.
+[2:21:06] Speaker 1: Hmm, hmm.
 
-[141:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:21:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[141:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:21:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[141:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:21:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[141:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:21:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[141:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:21:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[141:32] Speaker 1: Hmm, hmm.
+[2:21:32] Speaker 1: Hmm, hmm.
 
-[141:32] Speaker 1: Dan dia tak end kanlah.
+[2:21:32] Speaker 1: Dan dia tak end kanlah.
 
-[141:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:21:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[141:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:21:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[141:40] Speaker 1: Oh I see, ah, ah.
+[2:21:40] Speaker 1: Oh I see, ah, ah.
 
-[141:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:21:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[141:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:21:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[141:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:21:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[142:01] Speaker 1: Ah.
+[2:22:01] Speaker 1: Ah.
 
-[142:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:22:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[142:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:22:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[142:10] Speaker 1: Um.
+[2:22:10] Speaker 1: Um.
 
-[142:11] Speaker 2: Siapa Shahrul Slat?
+[2:22:11] Speaker 2: Siapa Shahrul Slat?
 
-[142:12] Speaker 1: Yalah dialah.
+[2:22:12] Speaker 1: Yalah dialah.
 
-[142:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:22:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[142:16] Speaker 2: Dia famous ke?
+[2:22:16] Speaker 2: Dia famous ke?
 
-[142:17] Speaker 1: Tak tahu.
+[2:22:17] Speaker 1: Tak tahu.
 
-[142:19] Speaker 1: Kenapa?
+[2:22:19] Speaker 1: Kenapa?
 
-[142:20] Speaker 1: Nampak views tinggi.
+[2:22:20] Speaker 1: Nampak views tinggi.
 
-[142:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:22:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[142:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:22:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[142:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:22:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[142:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:22:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[142:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:22:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[142:37] Speaker 1: Um.
+[2:22:37] Speaker 1: Um.
 
-[143:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:23:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[143:57] Speaker 1: Uhm.
+[2:23:57] Speaker 1: Uhm.
 
-[143:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:23:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[144:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:24:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[144:18] Speaker 2: Ah?
+[2:24:18] Speaker 2: Ah?
 
-[144:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:24:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[144:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:24:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[144:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:24:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[144:41] Speaker 1: Ah, exclusive podcast.
+[2:24:41] Speaker 1: Ah, exclusive podcast.
 
-[144:43] Speaker 2: Tu yang mahal tu.
+[2:24:43] Speaker 2: Tu yang mahal tu.
 
-[144:44] Speaker 1: Tu yang mahal tu.
+[2:24:44] Speaker 1: Tu yang mahal tu.
 
-[144:45] Speaker 2: Jangan bagi idea.
+[2:24:45] Speaker 2: Jangan bagi idea.
 
-[144:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:24:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[144:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:24:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[144:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:24:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[144:58] Speaker 1: Alhamdulillah.
+[2:24:58] Speaker 1: Alhamdulillah.
 
-[144:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:24:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[150:04] Speaker 1: Oh ah.
+[2:30:04] Speaker 1: Oh ah.
 
-[150:04] Speaker 1: So maybe maybe satu idea.
+[2:30:04] Speaker 1: So maybe maybe satu idea.
 
-[150:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:30:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[150:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:30:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[150:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:30:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[150:13] Speaker 1: Maybe not yet.
+[2:30:13] Speaker 1: Maybe not yet.
 
-[150:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:30:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[150:18] Speaker 1: Okey, setakat belum lagi.
+[2:30:18] Speaker 1: Okey, setakat belum lagi.
 
-[150:20] Speaker 1: Okey.
+[2:30:20] Speaker 1: Okey.
 
-[150:20] Speaker 1: Ah.
+[2:30:20] Speaker 1: Ah.
 
-[150:21] Speaker 1: Kita tengok yang Beria YB?
+[2:30:21] Speaker 1: Kita tengok yang Beria YB?
 
-[150:22] Speaker 1: Hmm.
+[2:30:22] Speaker 1: Hmm.
 
-[150:22] Speaker 1: Okey, next.
+[2:30:22] Speaker 1: Okey, next.
 
-[150:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:30:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[150:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:30:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[150:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:30:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[150:37] Speaker 2: Aha.
+[2:30:37] Speaker 2: Aha.
 
-[150:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:30:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[150:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:30:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[150:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:30:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[150:51] Speaker 1: Apa yang payah sangat?
+[2:30:51] Speaker 1: Apa yang payah sangat?
 
-[150:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:30:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[150:58] Speaker 1: Dia tak siakan lagi kan?
+[2:30:58] Speaker 1: Dia tak siakan lagi kan?
 
-[150:59] Speaker 1: Tak, tak ada, tak ada.
+[2:30:59] Speaker 1: Tak, tak ada, tak ada.
 
-[151:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:31:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[151:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:31:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[151:10] Speaker 1: Hmm.
+[2:31:10] Speaker 1: Hmm.
 
-[151:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:31:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[151:21] Speaker 1: Wah, bersaing dengan.
+[2:31:21] Speaker 1: Wah, bersaing dengan.
 
-[151:22] Speaker 1: Ah, bersaing kan.
+[2:31:22] Speaker 1: Ah, bersaing kan.
 
-[151:24] Speaker 1: Betul juga kan?
+[2:31:24] Speaker 1: Betul juga kan?
 
-[151:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:31:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[151:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:31:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[151:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:31:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[151:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:31:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[151:48] Speaker 1: Hmm.
+[2:31:48] Speaker 1: Hmm.
 
-[151:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:31:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[151:55] Speaker 1: Ah, hmm, beria-ia.
+[2:31:55] Speaker 1: Ah, hmm, beria-ia.
 
-[151:57] Speaker 1: Ah.
+[2:31:57] Speaker 1: Ah.
 
-[151:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:31:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[151:59] Speaker 1: Hmm.
+[2:31:59] Speaker 1: Hmm.
 
-[152:00] Speaker 1: Ah.
+[2:32:00] Speaker 1: Ah.
 
-[152:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:32:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[152:03] Speaker 1: Ah okey.
+[2:32:03] Speaker 1: Ah okey.
 
-[152:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:32:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[152:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:32:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[152:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:32:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[152:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:32:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[152:24] Speaker 1: Hmm.
+[2:32:24] Speaker 1: Hmm.
 
-[152:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:32:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[152:34] Speaker 1: Uh then, faham-faham lah.
+[2:32:34] Speaker 1: Uh then, faham-faham lah.
 
-[152:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:32:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[152:47] Speaker 2: Okey tahniah.
+[2:32:47] Speaker 2: Okey tahniah.
 
-[152:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:32:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[152:52] Speaker 1: Hmm.
+[2:32:52] Speaker 1: Hmm.
 
-[152:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:32:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[152:55] Speaker 1: Hmm.
+[2:32:55] Speaker 1: Hmm.
 
-[152:56] Speaker 1: Ini kesnya apabila kena.
+[2:32:56] Speaker 1: Ini kesnya apabila kena.
 
-[152:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:32:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[153:01] Speaker 1: Ah.
+[2:33:01] Speaker 1: Ah.
 
-[153:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:33:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[153:05] Speaker 1: Ah.
+[2:33:05] Speaker 1: Ah.
 
-[153:06] Speaker 1: Hmm, hmm.
+[2:33:06] Speaker 1: Hmm, hmm.
 
-[153:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:33:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[153:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:33:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[153:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:33:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[153:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:33:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[153:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:33:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[153:32] Speaker 1: Hmm, hmm.
+[2:33:32] Speaker 1: Hmm, hmm.
 
-[153:32] Speaker 1: Dan dia tak end kanlah.
+[2:33:32] Speaker 1: Dan dia tak end kanlah.
 
-[153:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:33:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[153:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:33:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[153:40] Speaker 1: Oh I see, ah, ah.
+[2:33:40] Speaker 1: Oh I see, ah, ah.
 
-[153:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:33:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[153:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:33:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[153:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:33:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[154:01] Speaker 1: Ah.
+[2:34:01] Speaker 1: Ah.
 
-[154:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:34:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[154:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:34:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[154:10] Speaker 1: Um.
+[2:34:10] Speaker 1: Um.
 
-[154:11] Speaker 2: Siapa Shahrul Slat?
+[2:34:11] Speaker 2: Siapa Shahrul Slat?
 
-[154:12] Speaker 1: Yalah dialah.
+[2:34:12] Speaker 1: Yalah dialah.
 
-[154:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:34:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[154:16] Speaker 2: Dia famous ke?
+[2:34:16] Speaker 2: Dia famous ke?
 
-[154:17] Speaker 1: Tak tahu.
+[2:34:17] Speaker 1: Tak tahu.
 
-[154:19] Speaker 1: Kenapa?
+[2:34:19] Speaker 1: Kenapa?
 
-[154:20] Speaker 1: Nampak views tinggi.
+[2:34:20] Speaker 1: Nampak views tinggi.
 
-[154:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:34:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[154:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:34:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[154:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:34:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[154:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:34:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[154:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:34:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[154:37] Speaker 1: Um.
+[2:34:37] Speaker 1: Um.
 
-[155:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:35:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[155:57] Speaker 1: Uhm.
+[2:35:57] Speaker 1: Uhm.
 
-[155:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:35:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[156:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:36:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[156:18] Speaker 2: Ah?
+[2:36:18] Speaker 2: Ah?
 
-[156:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:36:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[156:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:36:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[156:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:36:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[156:41] Speaker 1: Ah, exclusive podcast.
+[2:36:41] Speaker 1: Ah, exclusive podcast.
 
-[156:43] Speaker 2: Tu yang mahal tu.
+[2:36:43] Speaker 2: Tu yang mahal tu.
 
-[156:44] Speaker 1: Tu yang mahal tu.
+[2:36:44] Speaker 1: Tu yang mahal tu.
 
-[156:45] Speaker 2: Jangan bagi idea.
+[2:36:45] Speaker 2: Jangan bagi idea.
 
-[156:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:36:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[156:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:36:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[156:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:36:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[156:58] Speaker 1: Alhamdulillah.
+[2:36:58] Speaker 1: Alhamdulillah.
 
-[156:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:36:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[157:04] Speaker 1: Oh ah.
+[2:37:04] Speaker 1: Oh ah.
 
-[157:04] Speaker 1: So maybe maybe satu idea.
+[2:37:04] Speaker 1: So maybe maybe satu idea.
 
-[157:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:37:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[157:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:37:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[157:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:37:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[157:13] Speaker 1: Maybe not yet.
+[2:37:13] Speaker 1: Maybe not yet.
 
-[157:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:37:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[157:18] Speaker 1: Okey, setakat belum lagi.
+[2:37:18] Speaker 1: Okey, setakat belum lagi.
 
-[157:20] Speaker 1: Okey.
+[2:37:20] Speaker 1: Okey.
 
-[157:20] Speaker 1: Ah.
+[2:37:20] Speaker 1: Ah.
 
-[157:21] Speaker 1: Kita tengok yang Beria YB?
+[2:37:21] Speaker 1: Kita tengok yang Beria YB?
 
-[157:22] Speaker 1: Hmm.
+[2:37:22] Speaker 1: Hmm.
 
-[157:22] Speaker 1: Okey, next.
+[2:37:22] Speaker 1: Okey, next.
 
-[157:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:37:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[157:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:37:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[157:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:37:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[157:37] Speaker 2: Aha.
+[2:37:37] Speaker 2: Aha.
 
-[157:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:37:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[157:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:37:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[157:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:37:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[157:51] Speaker 1: Apa yang payah sangat?
+[2:37:51] Speaker 1: Apa yang payah sangat?
 
-[157:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:37:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[157:58] Speaker 1: Dia tak siakan lagi kan?
+[2:37:58] Speaker 1: Dia tak siakan lagi kan?
 
-[157:59] Speaker 1: Tak, tak ada, tak ada.
+[2:37:59] Speaker 1: Tak, tak ada, tak ada.
 
-[158:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:38:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[158:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:38:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[158:10] Speaker 1: Hmm.
+[2:38:10] Speaker 1: Hmm.
 
-[158:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:38:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[158:21] Speaker 1: Wah, bersaing dengan.
+[2:38:21] Speaker 1: Wah, bersaing dengan.
 
-[158:22] Speaker 1: Ah, bersaing kan.
+[2:38:22] Speaker 1: Ah, bersaing kan.
 
-[158:24] Speaker 1: Betul juga kan?
+[2:38:24] Speaker 1: Betul juga kan?
 
-[158:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:38:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[158:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:38:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[158:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:38:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[158:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:38:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[158:48] Speaker 1: Hmm.
+[2:38:48] Speaker 1: Hmm.
 
-[158:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:38:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[158:55] Speaker 1: Ah, hmm, beria-ia.
+[2:38:55] Speaker 1: Ah, hmm, beria-ia.
 
-[158:57] Speaker 1: Ah.
+[2:38:57] Speaker 1: Ah.
 
-[158:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:38:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[158:59] Speaker 1: Hmm.
+[2:38:59] Speaker 1: Hmm.
 
-[159:00] Speaker 1: Ah.
+[2:39:00] Speaker 1: Ah.
 
-[159:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:39:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[159:03] Speaker 1: Ah okey.
+[2:39:03] Speaker 1: Ah okey.
 
-[159:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:39:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[159:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:39:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[159:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:39:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[159:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:39:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[159:24] Speaker 1: Hmm.
+[2:39:24] Speaker 1: Hmm.
 
-[159:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:39:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[159:34] Speaker 1: Uh then, faham-faham lah.
+[2:39:34] Speaker 1: Uh then, faham-faham lah.
 
-[159:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:39:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[159:47] Speaker 2: Okey tahniah.
+[2:39:47] Speaker 2: Okey tahniah.
 
-[159:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:39:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[159:52] Speaker 1: Hmm.
+[2:39:52] Speaker 1: Hmm.
 
-[159:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:39:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[159:55] Speaker 1: Hmm.
+[2:39:55] Speaker 1: Hmm.
 
-[159:56] Speaker 1: Ini kesnya apabila kena.
+[2:39:56] Speaker 1: Ini kesnya apabila kena.
 
-[159:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:39:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[160:01] Speaker 1: Ah.
+[2:40:01] Speaker 1: Ah.
 
-[160:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:40:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[160:05] Speaker 1: Ah.
+[2:40:05] Speaker 1: Ah.
 
-[160:06] Speaker 1: Hmm, hmm.
+[2:40:06] Speaker 1: Hmm, hmm.
 
-[160:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:40:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[160:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:40:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[160:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:40:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[160:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:40:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[160:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:40:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[160:32] Speaker 1: Hmm, hmm.
+[2:40:32] Speaker 1: Hmm, hmm.
 
-[160:32] Speaker 1: Dan dia tak end kanlah.
+[2:40:32] Speaker 1: Dan dia tak end kanlah.
 
-[160:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:40:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[160:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:40:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[160:40] Speaker 1: Oh I see, ah, ah.
+[2:40:40] Speaker 1: Oh I see, ah, ah.
 
-[160:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:40:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[160:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:40:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[160:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:40:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[161:01] Speaker 1: Ah.
+[2:41:01] Speaker 1: Ah.
 
-[161:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:41:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[161:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:41:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[161:10] Speaker 1: Um.
+[2:41:10] Speaker 1: Um.
 
-[161:11] Speaker 2: Siapa Shahrul Slat?
+[2:41:11] Speaker 2: Siapa Shahrul Slat?
 
-[161:12] Speaker 1: Yalah dialah.
+[2:41:12] Speaker 1: Yalah dialah.
 
-[161:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:41:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[161:16] Speaker 2: Dia famous ke?
+[2:41:16] Speaker 2: Dia famous ke?
 
-[161:17] Speaker 1: Tak tahu.
+[2:41:17] Speaker 1: Tak tahu.
 
-[161:19] Speaker 1: Kenapa?
+[2:41:19] Speaker 1: Kenapa?
 
-[161:20] Speaker 1: Nampak views tinggi.
+[2:41:20] Speaker 1: Nampak views tinggi.
 
-[161:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:41:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[161:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:41:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[161:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:41:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[161:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:41:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[161:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:41:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[161:37] Speaker 1: Um.
+[2:41:37] Speaker 1: Um.
 
-[162:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:42:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[162:57] Speaker 1: Uhm.
+[2:42:57] Speaker 1: Uhm.
 
-[162:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:42:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[163:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:43:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[163:18] Speaker 2: Ah?
+[2:43:18] Speaker 2: Ah?
 
-[163:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:43:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[163:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:43:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[163:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:43:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[163:41] Speaker 1: Ah, exclusive podcast.
+[2:43:41] Speaker 1: Ah, exclusive podcast.
 
-[163:43] Speaker 2: Tu yang mahal tu.
+[2:43:43] Speaker 2: Tu yang mahal tu.
 
-[163:44] Speaker 1: Tu yang mahal tu.
+[2:43:44] Speaker 1: Tu yang mahal tu.
 
-[163:45] Speaker 2: Jangan bagi idea.
+[2:43:45] Speaker 2: Jangan bagi idea.
 
-[163:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:43:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[163:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:43:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[163:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:43:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[163:58] Speaker 1: Alhamdulillah.
+[2:43:58] Speaker 1: Alhamdulillah.
 
-[163:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:43:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[164:04] Speaker 1: Oh ah.
+[2:44:04] Speaker 1: Oh ah.
 
-[164:04] Speaker 1: So maybe maybe satu idea.
+[2:44:04] Speaker 1: So maybe maybe satu idea.
 
-[164:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:44:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[164:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:44:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[164:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:44:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[164:13] Speaker 1: Maybe not yet.
+[2:44:13] Speaker 1: Maybe not yet.
 
-[164:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:44:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[164:18] Speaker 1: Okey, setakat belum lagi.
+[2:44:18] Speaker 1: Okey, setakat belum lagi.
 
-[164:20] Speaker 1: Okey.
+[2:44:20] Speaker 1: Okey.
 
-[164:20] Speaker 1: Ah.
+[2:44:20] Speaker 1: Ah.
 
-[164:21] Speaker 1: Kita tengok yang Beria YB?
+[2:44:21] Speaker 1: Kita tengok yang Beria YB?
 
-[164:22] Speaker 1: Hmm.
+[2:44:22] Speaker 1: Hmm.
 
-[164:22] Speaker 1: Okey, next.
+[2:44:22] Speaker 1: Okey, next.
 
-[164:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:44:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[164:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:44:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[164:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:44:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[164:37] Speaker 2: Aha.
+[2:44:37] Speaker 2: Aha.
 
-[164:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:44:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[164:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:44:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[164:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:44:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[164:51] Speaker 1: Apa yang payah sangat?
+[2:44:51] Speaker 1: Apa yang payah sangat?
 
-[164:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:44:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[164:58] Speaker 1: Dia tak siakan lagi kan?
+[2:44:58] Speaker 1: Dia tak siakan lagi kan?
 
-[164:59] Speaker 1: Tak, tak ada, tak ada.
+[2:44:59] Speaker 1: Tak, tak ada, tak ada.
 
-[165:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:45:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[165:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:45:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[165:10] Speaker 1: Hmm.
+[2:45:10] Speaker 1: Hmm.
 
-[165:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:45:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[165:21] Speaker 1: Wah, bersaing dengan.
+[2:45:21] Speaker 1: Wah, bersaing dengan.
 
-[165:22] Speaker 1: Ah, bersaing kan.
+[2:45:22] Speaker 1: Ah, bersaing kan.
 
-[165:24] Speaker 1: Betul juga kan?
+[2:45:24] Speaker 1: Betul juga kan?
 
-[165:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:45:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[165:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:45:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[165:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:45:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[165:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:45:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[165:48] Speaker 1: Hmm.
+[2:45:48] Speaker 1: Hmm.
 
-[165:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:45:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[165:55] Speaker 1: Ah, hmm, beria-ia.
+[2:45:55] Speaker 1: Ah, hmm, beria-ia.
 
-[165:57] Speaker 1: Ah.
+[2:45:57] Speaker 1: Ah.
 
-[165:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:45:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[165:59] Speaker 1: Hmm.
+[2:45:59] Speaker 1: Hmm.
 
-[166:00] Speaker 1: Ah.
+[2:46:00] Speaker 1: Ah.
 
-[166:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:46:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[166:03] Speaker 1: Ah okey.
+[2:46:03] Speaker 1: Ah okey.
 
-[166:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:46:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[166:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:46:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[166:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:46:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[166:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:46:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[166:24] Speaker 1: Hmm.
+[2:46:24] Speaker 1: Hmm.
 
-[166:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:46:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[166:34] Speaker 1: Uh then, faham-faham lah.
+[2:46:34] Speaker 1: Uh then, faham-faham lah.
 
-[166:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:46:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[166:47] Speaker 2: Okey tahniah.
+[2:46:47] Speaker 2: Okey tahniah.
 
-[166:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:46:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[166:52] Speaker 1: Hmm.
+[2:46:52] Speaker 1: Hmm.
 
-[166:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:46:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[166:55] Speaker 1: Hmm.
+[2:46:55] Speaker 1: Hmm.
 
-[166:56] Speaker 1: Ini kesnya apabila kena.
+[2:46:56] Speaker 1: Ini kesnya apabila kena.
 
-[166:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:46:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[167:01] Speaker 1: Ah.
+[2:47:01] Speaker 1: Ah.
 
-[167:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:47:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[167:05] Speaker 1: Ah.
+[2:47:05] Speaker 1: Ah.
 
-[167:06] Speaker 1: Hmm, hmm.
+[2:47:06] Speaker 1: Hmm, hmm.
 
-[167:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:47:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[167:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:47:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[167:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:47:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[167:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:47:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[167:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:47:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[167:32] Speaker 1: Hmm, hmm.
+[2:47:32] Speaker 1: Hmm, hmm.
 
-[167:32] Speaker 1: Dan dia tak end kanlah.
+[2:47:32] Speaker 1: Dan dia tak end kanlah.
 
-[167:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:47:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[167:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:47:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[167:40] Speaker 1: Oh I see, ah, ah.
+[2:47:40] Speaker 1: Oh I see, ah, ah.
 
-[167:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:47:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[167:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:47:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[167:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:47:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[168:01] Speaker 1: Ah.
+[2:48:01] Speaker 1: Ah.
 
-[168:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:48:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[168:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:48:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[168:10] Speaker 1: Um.
+[2:48:10] Speaker 1: Um.
 
-[168:11] Speaker 2: Siapa Shahrul Slat?
+[2:48:11] Speaker 2: Siapa Shahrul Slat?
 
-[168:12] Speaker 1: Yalah dialah.
+[2:48:12] Speaker 1: Yalah dialah.
 
-[168:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:48:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[168:16] Speaker 2: Dia famous ke?
+[2:48:16] Speaker 2: Dia famous ke?
 
-[168:17] Speaker 1: Tak tahu.
+[2:48:17] Speaker 1: Tak tahu.
 
-[168:19] Speaker 1: Kenapa?
+[2:48:19] Speaker 1: Kenapa?
 
-[168:20] Speaker 1: Nampak views tinggi.
+[2:48:20] Speaker 1: Nampak views tinggi.
 
-[168:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:48:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[168:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:48:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[168:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:48:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[168:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:48:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[168:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:48:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[168:37] Speaker 1: Um.
+[2:48:37] Speaker 1: Um.
 
-[169:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:49:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[169:57] Speaker 1: Uhm.
+[2:49:57] Speaker 1: Uhm.
 
-[169:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
+[2:49:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
 
-[170:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
+[2:50:13] Speaker 1: Ah, jadi kalau di US, iklan seperti ini telah disaman.
 
-[170:18] Speaker 2: Ah?
+[2:50:18] Speaker 2: Ah?
 
-[170:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
+[2:50:18] Speaker 1: Yalah, kerana tidak memberikan maklumat yang penuh, dan boleh misleading kan. Ah.
 
-[170:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
+[2:50:25] Speaker 1: Uhm, tapi bolehlah kut mungkin untuk kita bayar gaji-gaji kru, ah kan.
 
-[170:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
+[2:50:30] Speaker 1: Mungkin aku boleh buat bisnes ni kut, dekat-dekat raya ke apa, aku yang offer, tapi aku hantar mahallah 5000 lah sebab kena dengar aku celoteh dalam kereta tu kan.
 
-[170:41] Speaker 1: Ah, exclusive podcast.
+[2:50:41] Speaker 1: Ah, exclusive podcast.
 
-[170:43] Speaker 2: Tu yang mahal tu.
+[2:50:43] Speaker 2: Tu yang mahal tu.
 
-[170:44] Speaker 1: Tu yang mahal tu.
+[2:50:44] Speaker 1: Tu yang mahal tu.
 
-[170:45] Speaker 2: Jangan bagi idea.
+[2:50:45] Speaker 2: Jangan bagi idea.
 
-[170:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
+[2:50:46] Speaker 1: Jangan bagi idea, nanti dia orang kena buat.
 
-[170:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
+[2:50:48] Speaker 1: Exclusive podcast di dalam kereta RM5000, ah dengarlah aku membebel.
 
-[170:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
+[2:50:53] Speaker 1: Boleh tanya, boleh menggantikan Hazik sebagai moderator di dalam kereta.
 
-[170:58] Speaker 1: Alhamdulillah.
+[2:50:58] Speaker 1: Alhamdulillah.
 
-[170:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
+[2:50:59] Speaker 2: Ah, Seinfeld ke siapa ada buat Getting Coffee With Comedians?
 
-[171:04] Speaker 1: Oh ah.
+[2:51:04] Speaker 1: Oh ah.
 
-[171:04] Speaker 1: So maybe maybe satu idea.
+[2:51:04] Speaker 1: So maybe maybe satu idea.
 
-[171:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
+[2:51:06] Speaker 1: Ni macam yang apa nama ni yang Kepulau karaoke tu?
 
-[171:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
+[2:51:09] Speaker 1: Ah ah, Carpool Karaoke tu kan.
 
-[171:11] Speaker 1: Ah tapi tak, tak apalah kut.
+[2:51:11] Speaker 1: Ah tapi tak, tak apalah kut.
 
-[171:13] Speaker 1: Maybe not yet.
+[2:51:13] Speaker 1: Maybe not yet.
 
-[171:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
+[2:51:14] Speaker 1: Kecuali maksudnya kalau aku dah buat tu aku agak terdesaklah.
 
-[171:18] Speaker 1: Okey, setakat belum lagi.
+[2:51:18] Speaker 1: Okey, setakat belum lagi.
 
-[171:20] Speaker 1: Okey.
+[2:51:20] Speaker 1: Okey.
 
-[171:20] Speaker 1: Ah.
+[2:51:20] Speaker 1: Ah.
 
-[171:21] Speaker 1: Kita tengok yang Beria YB?
+[2:51:21] Speaker 1: Kita tengok yang Beria YB?
 
-[171:22] Speaker 1: Hmm.
+[2:51:22] Speaker 1: Hmm.
 
-[171:22] Speaker 1: Okey, next.
+[2:51:22] Speaker 1: Okey, next.
 
-[171:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
+[2:51:26] Speaker 1: MIC, tak apply pun boleh masuk PN.
 
-[171:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
+[2:51:29] Speaker 1: Ah itu lah ya Allahhu Akbar. Uhm.
 
-[171:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
+[2:51:33] Speaker 1: Ni tak tahu sama ada Takiyuddin yang Jam the gun beria-ia ke,
 
-[171:37] Speaker 2: Aha.
+[2:51:37] Speaker 2: Aha.
 
-[171:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
+[2:51:38] Speaker 1: ataupun MIC yang beria-ia sebelum itu dia nak minta ah uh menyertai PN, sekarang dia dah tak nak.
 
-[171:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
+[2:51:47] Speaker 1: Tapi isu ni dari tahun lepas lagi kan YB?
 
-[171:49] Speaker 1: Yalah dari tahun lepas lah tapi.
+[2:51:49] Speaker 1: Yalah dari tahun lepas lah tapi.
 
-[171:51] Speaker 1: Apa yang payah sangat?
+[2:51:51] Speaker 1: Apa yang payah sangat?
 
-[171:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
+[2:51:53] Speaker 1: Kenapa tak, tak siakan sahaja surat tu?
 
-[171:58] Speaker 1: Dia tak siakan lagi kan?
+[2:51:58] Speaker 1: Dia tak siakan lagi kan?
 
-[171:59] Speaker 1: Tak, tak ada, tak ada.
+[2:51:59] Speaker 1: Tak, tak ada, tak ada.
 
-[172:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
+[2:52:00] Speaker 1: Sebab uhm MIC kata surat itu bukan surat permohonan menyertai PN, surat macam resit-resit lah kut.
 
-[172:08] Speaker 1: Tanya macam mana nak memohon kan?
+[2:52:08] Speaker 1: Tanya macam mana nak memohon kan?
 
-[172:10] Speaker 1: Hmm.
+[2:52:10] Speaker 1: Hmm.
 
-[172:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
+[2:52:10] Speaker 1: Tapi Takiyuddin pula, cara dia, dan dia kan Setiausaha Agung yang baru kan. Jadi, dia menjadi beria-ia membuat pengumuman lah.
 
-[172:21] Speaker 1: Wah, bersaing dengan.
+[2:52:21] Speaker 1: Wah, bersaing dengan.
 
-[172:22] Speaker 1: Ah, bersaing kan.
+[2:52:22] Speaker 1: Ah, bersaing kan.
 
-[172:24] Speaker 1: Betul juga kan?
+[2:52:24] Speaker 1: Betul juga kan?
 
-[172:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
+[2:52:25] Speaker 1: Ah, ni pun dah masuk level-level tu sikit kut.
 
-[172:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
+[2:52:27] Speaker 1: Ah, dua-dua Setiausaha Agung PN dengan Setiausaha Agung PKR ni jenis jam the gun, premature kan?
 
-[172:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
+[2:52:34] Speaker 1: Orang belum apa-apa lagi, dia dah umumkan kan?
 
-[172:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
+[2:52:37] Speaker 1: Jadi, kalau betullah untuk kita ah nak selesai isu ni, kita nasihatkan Takiyuddin dengan MIC ini, siarkanlah surat tu.
 
-[172:48] Speaker 1: Hmm.
+[2:52:48] Speaker 1: Hmm.
 
-[172:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
+[2:52:49] Speaker 1: Dan baru kita tahu, letih dah nak dengar ni, sekejap kata masuk, sekejap uh kata tak masuk kan?
 
-[172:55] Speaker 1: Ah, hmm, beria-ia.
+[2:52:55] Speaker 1: Ah, hmm, beria-ia.
 
-[172:57] Speaker 1: Ah.
+[2:52:57] Speaker 1: Ah.
 
-[172:58] Speaker 1: Okey, tahniah Takiyuddin.
+[2:52:58] Speaker 1: Okey, tahniah Takiyuddin.
 
-[172:59] Speaker 1: Hmm.
+[2:52:59] Speaker 1: Hmm.
 
-[173:00] Speaker 1: Ah.
+[2:53:00] Speaker 1: Ah.
 
-[173:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
+[2:53:01] Speaker 1: Tapi aku kata beria-ia Takiyuddinlah kut.
 
-[173:03] Speaker 1: Ah okey.
+[2:53:03] Speaker 1: Ah okey.
 
-[173:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
+[2:53:04] Speaker 1: Sebab to be fair to Saravanan dan MIC,
 
-[173:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
+[2:53:09] Speaker 1: dia memang duk main kluk-klek macam ni dah dua bulan kan?
 
-[173:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
+[2:53:12] Speaker 1: Ah bila berita sebab tulah macam Hazik katalah berita ni dah, dah lama daripada tahun lepas.
 
-[173:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
+[2:53:18] Speaker 1: Dan setiap kali dia keluar tu, MIC duk main uh berdolak-daliklah kan?
 
-[173:24] Speaker 1: Hmm.
+[2:53:24] Speaker 1: Hmm.
 
-[173:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
+[2:53:25] Speaker 1: Kalau kitalah jadi PN, nampak jelaslah, MIC tu nampak macam dah kendur ataupun tak berminat nak menyertai PN kan?
 
-[173:34] Speaker 1: Uh then, faham-faham lah.
+[2:53:34] Speaker 1: Uh then, faham-faham lah.
 
-[173:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
+[2:53:37] Speaker 1: Mari Takiyuddin terus pergi umum dah terima, jadi antara Saravanan dan Takiyuddin sebenarnya uh konteks beria-ia ni adalah Takiyuddinlah.
 
-[173:47] Speaker 2: Okey tahniah.
+[2:53:47] Speaker 2: Okey tahniah.
 
-[173:48] Speaker 1: Okey, kita tengok lagi yang next.
+[2:53:48] Speaker 1: Okey, kita tengok lagi yang next.
 
-[173:52] Speaker 1: Hmm.
+[2:53:52] Speaker 1: Hmm.
 
-[173:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
+[2:53:52] Speaker 1: Meroyan kena tegur suruh end live TikTok.
 
-[173:55] Speaker 1: Hmm.
+[2:53:55] Speaker 1: Hmm.
 
-[173:56] Speaker 1: Ini kesnya apabila kena.
+[2:53:56] Speaker 1: Ini kesnya apabila kena.
 
-[173:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
+[2:53:58] Speaker 1: Oh tapi ramai orang tengok eh, 21,000 orang.
 
-[174:01] Speaker 1: Ah.
+[2:54:01] Speaker 1: Ah.
 
-[174:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
+[2:54:02] Speaker 1: Patut kita meroyan jugalah buat live TikTok kan?
 
-[174:05] Speaker 1: Ah.
+[2:54:05] Speaker 1: Ah.
 
-[174:06] Speaker 1: Hmm, hmm.
+[2:54:06] Speaker 1: Hmm, hmm.
 
-[174:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
+[2:54:07] Speaker 1: Dia kena sidai YB, dengan AES, saya rasa ni pengalaman yang semua orang pernah, ah hadapilah kut.
 
-[174:12] Speaker 1: Pukul berapa ni dia kena sidai?
+[2:54:12] Speaker 1: Pukul berapa ni dia kena sidai?
 
-[174:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
+[2:54:13] Speaker 1: Sidai, kena sidai ni maksudnya delay lah.
 
-[174:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
+[2:54:16] Speaker 1: Ah kena delay, dan dia bengang, dan dia buat live secara uh nilah dekat airport, kemudian polis bantuan tu bagi tahu tak boleh buat live di airport, dan kemudian ah dia marahlah, ah mana surat?
 
-[174:30] Speaker 1: Yang kata tak boleh, panggil bos you.
+[2:54:30] Speaker 1: Yang kata tak boleh, panggil bos you.
 
-[174:32] Speaker 1: Hmm, hmm.
+[2:54:32] Speaker 1: Hmm, hmm.
 
-[174:32] Speaker 1: Dan dia tak end kanlah.
+[2:54:32] Speaker 1: Dan dia tak end kanlah.
 
-[174:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
+[2:54:35] Speaker 1: Dia nak pergi mana ni? Nak balik Kelantan ke, nak balik Terengganu ke mana?
 
-[174:38] Speaker 1: Ini saya tak silap ke luar negara.
+[2:54:38] Speaker 1: Ini saya tak silap ke luar negara.
 
-[174:40] Speaker 1: Oh I see, ah, ah.
+[2:54:40] Speaker 1: Oh I see, ah, ah.
 
-[174:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
+[2:54:43] Speaker 1: Uh, ni live selalunya, kalau TikTok punya live, dia tak ada, ah rekod or archive, jadi maksudnya ni yang ada ni orang ambil skrin, skrin recording.
 
-[174:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
+[2:54:55] Speaker 1: Memang orang buat macam tu untuk buat konten juga sekarang kan?
 
-[174:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
+[2:54:57] Speaker 1: Oh ya ke orang ambil skrin recording untuk, ah, itu semua yang kita kena buat kut.
 
-[175:01] Speaker 1: Ah.
+[2:55:01] Speaker 1: Ah.
 
-[175:02] Speaker 1: Uh, tambah lagi kerja saya.
+[2:55:02] Speaker 1: Uh, tambah lagi kerja saya.
 
-[175:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
+[2:55:03] Speaker 1: Uh so aku nak kena study, ah live yang meroyan yang macam mana yang boleh dapat sampai 21,000 orang ni kan?
 
-[175:10] Speaker 1: Um.
+[2:55:10] Speaker 1: Um.
 
-[175:11] Speaker 2: Siapa Shahrul Slat?
+[2:55:11] Speaker 2: Siapa Shahrul Slat?
 
-[175:12] Speaker 1: Yalah dialah.
+[2:55:12] Speaker 1: Yalah dialah.
 
-[175:14] Speaker 1: Orang yang meroyanlah, ah.
+[2:55:14] Speaker 1: Orang yang meroyanlah, ah.
 
-[175:16] Speaker 2: Dia famous ke?
+[2:55:16] Speaker 2: Dia famous ke?
 
-[175:17] Speaker 1: Tak tahu.
+[2:55:17] Speaker 1: Tak tahu.
 
-[175:19] Speaker 1: Kenapa?
+[2:55:19] Speaker 1: Kenapa?
 
-[175:20] Speaker 1: Nampak views tinggi.
+[2:55:20] Speaker 1: Nampak views tinggi.
 
-[175:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
+[2:55:21] Speaker 1: Ah itulah 22,000. Dah ada 22,000.
 
-[175:25] Speaker 1: Kita juga yang bodoh buat podcast.
+[2:55:25] Speaker 1: Kita juga yang bodoh buat podcast.
 
-[175:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
+[2:55:28] Speaker 1: Sepatutnya kita meroyan dekat ah ah airport.
 
-[175:33] Speaker 1: Kita, Dalam berita balik Terengganu.
+[2:55:33] Speaker 1: Kita, Dalam berita balik Terengganu.
 
-[175:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
+[2:55:34] Speaker 1: Ah, kita meroyan macam tu kan, baru dapat.
 
-[175:37] Speaker 1: Um.
+[2:55:37] Speaker 1: Um.
 
-[176:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
+[2:56:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[176:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so
+[2:56:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so

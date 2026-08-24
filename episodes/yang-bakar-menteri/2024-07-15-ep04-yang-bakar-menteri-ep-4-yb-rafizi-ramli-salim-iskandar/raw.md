@@ -687,375 +687,375 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:52] Salim Iskandar: No, sir.
 
-[60:07] Salim Iskandar: Are we are we like one now? Are we one now?
+[1:00:07] Salim Iskandar: Are we are we like one now? Are we one now?
 
-[60:09] Rafizi Ramli: Well, at least we are focused dan kita...
+[1:00:09] Rafizi Ramli: Well, at least we are focused dan kita...
 
-[60:11] Salim Iskandar: We are not, sir.
+[1:00:11] Salim Iskandar: We are not, sir.
 
-[60:12] Rafizi Ramli: Ya, tapi kita telah berjaya...
+[1:00:12] Rafizi Ramli: Ya, tapi kita telah berjaya...
 
-[60:14] Salim Iskandar: Just now you just bagi tahu I, Melayu masih lagi tidak...
+[1:00:14] Salim Iskandar: Just now you just bagi tahu I, Melayu masih lagi tidak...
 
-[60:18] Rafizi Ramli: But hang on hang on hang on. Politically kan Salim kan, kita akhirnya berjaya bawa kestabilan politik di dalam negara ini and...
+[1:00:18] Rafizi Ramli: But hang on hang on hang on. Politically kan Salim kan, kita akhirnya berjaya bawa kestabilan politik di dalam negara ini and...
 
-[60:27] Salim Iskandar: Are we?
+[1:00:27] Salim Iskandar: Are we?
 
-[60:28] Rafizi Ramli: Ya, of course, it's 2/3 government. Whatever we say, yalah orang-orang pembangkang tiap-tiap hari dia berharaplah kerajaan jatuh, tak bersatu. But that's not the case dan sebab itulah pelabur semua, ekonomi semua mula yakin because finally after 5 years...
+[1:00:28] Rafizi Ramli: Ya, of course, it's 2/3 government. Whatever we say, yalah orang-orang pembangkang tiap-tiap hari dia berharaplah kerajaan jatuh, tak bersatu. But that's not the case dan sebab itulah pelabur semua, ekonomi semua mula yakin because finally after 5 years...
 
-[60:38] Salim Iskandar: Tak ada kalah.
+[1:00:38] Salim Iskandar: Tak ada kalah.
 
-[60:44] Salim Iskandar: Betul ke dia orang yakin? Saya nak tengok actually, I wanted to see YB eh, sorry eh. Because YB cakap YB Menteri Ekonomi, you should know about this ekonomi apa semualah. I don't have the data, you have the data, you see more. So but until this thing is been realized, sampai saya nampak banyak yang masuk betul-betul, we see of course kita tahu Google dah commit berapa bilion nak masuk apa semua. But until we see the factory is been built, datang sini apa semua kan. But setakat hari ni yang kita nampak adalah esok Fahmi kata esok kita ada satu berita gembira. Ini besok nak raya ni, dia kata kita ada berita gembira besok. Kita tunggu apa benda ni? Weh berita gembira ni! Oh mesti dia bagi kita tol free ke apa ke kan? Mungkin dia kata kita hapuskan tol terus sebab subsidi dah tarik. Contoh contoh contoh contoh kan. Lepas tu tiba-tiba besok datang Datuk Seri Anwar Ibrahim dengan bergaya, bergaya dengan style kan. Mat Sabu duk belah kanan dia. Telur turun 3 sen, dia kata.
+[1:00:44] Salim Iskandar: Betul ke dia orang yakin? Saya nak tengok actually, I wanted to see YB eh, sorry eh. Because YB cakap YB Menteri Ekonomi, you should know about this ekonomi apa semualah. I don't have the data, you have the data, you see more. So but until this thing is been realized, sampai saya nampak banyak yang masuk betul-betul, we see of course kita tahu Google dah commit berapa bilion nak masuk apa semua. But until we see the factory is been built, datang sini apa semua kan. But setakat hari ni yang kita nampak adalah esok Fahmi kata esok kita ada satu berita gembira. Ini besok nak raya ni, dia kata kita ada berita gembira besok. Kita tunggu apa benda ni? Weh berita gembira ni! Oh mesti dia bagi kita tol free ke apa ke kan? Mungkin dia kata kita hapuskan tol terus sebab subsidi dah tarik. Contoh contoh contoh contoh kan. Lepas tu tiba-tiba besok datang Datuk Seri Anwar Ibrahim dengan bergaya, bergaya dengan style kan. Mat Sabu duk belah kanan dia. Telur turun 3 sen, dia kata.
 
-[61:25] Rafizi Ramli: Aku dah tahu kau nak cakap apa. Tengok muka pun aku tahu dah.
+[1:01:25] Rafizi Ramli: Aku dah tahu kau nak cakap apa. Tengok muka pun aku tahu dah.
 
-[61:40] Salim Iskandar: Saya kata ya Allah ya Tuhanku, that is not your job Mr. Prime Minister, I'm so sorry sir. I'm I'm I mean you are so big, I'm so small even though my body is bigger, but then again you know sir, bukan cara macam tu. Okey, because you want to show you kalau nak buat something okey, you janganlah declare macam tu bagi Mat Sabu cakap. Mat Sabu besok kata, "Telur turun 3 sen weh, seri eh ha." Okey.
+[1:01:40] Salim Iskandar: Saya kata ya Allah ya Tuhanku, that is not your job Mr. Prime Minister, I'm so sorry sir. I'm I'm I mean you are so big, I'm so small even though my body is bigger, but then again you know sir, bukan cara macam tu. Okey, because you want to show you kalau nak buat something okey, you janganlah declare macam tu bagi Mat Sabu cakap. Mat Sabu besok kata, "Telur turun 3 sen weh, seri eh ha." Okey.
 
-[62:03] Rafizi Ramli: Ya, bab bab Salim kan orang duk buat bising telur 3 sen telur 3 sen...
+[1:02:03] Rafizi Ramli: Ya, bab bab Salim kan orang duk buat bising telur 3 sen telur 3 sen...
 
-[62:07] Salim Iskandar: Tapi telur kan?
+[1:02:07] Salim Iskandar: Tapi telur kan?
 
-[62:09] Rafizi Ramli: No no, hang on eh. Tapi sebenarnya perbelanjaan yang kerajaan kena agihkan itu untuk turun 3 sen itu is more than 100 million. Dalam keadaan yang sebenarnya segala masalah yang kita warisi...
+[1:02:09] Rafizi Ramli: No no, hang on eh. Tapi sebenarnya perbelanjaan yang kerajaan kena agihkan itu untuk turun 3 sen itu is more than 100 million. Dalam keadaan yang sebenarnya segala masalah yang kita warisi...
 
-[62:17] Salim Iskandar: Dapatlah itu.
+[1:02:17] Salim Iskandar: Dapatlah itu.
 
-[62:24] Salim Iskandar: RM3 seorang dapat kan 100 million?
+[1:02:24] Salim Iskandar: RM3 seorang dapat kan 100 million?
 
-[62:26] Rafizi Ramli: No no, but dalam keadaan yang kita dengan hutang, dengan interest yang kita kena tanggung, sebenarnya boleh saja kerajaan kata, "You know what, kita tak mampu bagi satu pun." So so penyasaran tu dalam keadaan kita kena buat, that means that kalau kita tahu bahawa telur ini adalah the common denominator yang banyak keluarga pakai, then giving 100 million allocation is actually quite a monumental thing dalam keadaan...
+[1:02:26] Rafizi Ramli: No no, but dalam keadaan yang kita dengan hutang, dengan interest yang kita kena tanggung, sebenarnya boleh saja kerajaan kata, "You know what, kita tak mampu bagi satu pun." So so penyasaran tu dalam keadaan kita kena buat, that means that kalau kita tahu bahawa telur ini adalah the common denominator yang banyak keluarga pakai, then giving 100 million allocation is actually quite a monumental thing dalam keadaan...
 
-[62:58] Salim Iskandar: How much per per per person dia orang dapat? RM3 seorang?
+[1:02:58] Salim Iskandar: How much per per per person dia orang dapat? RM3 seorang?
 
-[63:01] Rafizi Ramli: No, jangan tengok RM3 satu orang begitu. You tengok if you know, you ada hutang yang tinggi yang you nak kena bayar, wariskan semua ni kan. You ada interest yang tinggi, ha?
+[1:03:01] Rafizi Ramli: No, jangan tengok RM3 satu orang begitu. You tengok if you know, you ada hutang yang tinggi yang you nak kena bayar, wariskan semua ni kan. You ada interest yang tinggi, ha?
 
-[63:10] Salim Iskandar: Tak payah bagilah. Tak payah bagi.
+[1:03:10] Salim Iskandar: Tak payah bagilah. Tak payah bagi.
 
-[63:12] Rafizi Ramli: Dah kalau Dah kalau tak bagi, kau kata potong subsidi pula. Itu maksudnya kita continuously alih...
+[1:03:12] Rafizi Ramli: Dah kalau Dah kalau tak bagi, kau kata potong subsidi pula. Itu maksudnya kita continuously alih...
 
-[63:15] Salim Iskandar: Tak, bukan. I mean I mean...
+[1:03:15] Salim Iskandar: Tak, bukan. I mean I mean...
 
-[63:19] Salim Iskandar: Boleh tak boleh tak saya nak minta satu aje YB? Okey, telur 3 sen tak bagi pun tak apa lah, it's okay lah sebab telur nak cari tempat high density saya cakap ni eh. Kalau kita pergi ke macam PJ ke apa ke kan, I mean saya duduk Kota Damansara eh. Situ kalau pergi cari telur dia ada hari-hari tertentu yang kita boleh dapat. Kalau tidak, kalau you pergi hari yang you dah miss ke apa ke, there is still some shortage. Tapi tak berlaku di kampung, kampung semua dah okey dah, dah stable. Tetapi kita sangat merindui beras putih tempatan yang sangat-sangat menjauhkan diri daripada kita. Jadi benda-benda macam ni semua, so kalau YB nak tanya saya, saya boleh cerita macam-macam pasal apa yang berlaku kat bawah apa semua. So then again, tapi benda tu kita akan argue apa semua. YB, you Menteri Ekonomi, sir, you just bring prosperous good apa bawalah investment yang bagus apa semua, we hope that lah you know. Sebab...
+[1:03:19] Salim Iskandar: Boleh tak boleh tak saya nak minta satu aje YB? Okey, telur 3 sen tak bagi pun tak apa lah, it's okay lah sebab telur nak cari tempat high density saya cakap ni eh. Kalau kita pergi ke macam PJ ke apa ke kan, I mean saya duduk Kota Damansara eh. Situ kalau pergi cari telur dia ada hari-hari tertentu yang kita boleh dapat. Kalau tidak, kalau you pergi hari yang you dah miss ke apa ke, there is still some shortage. Tapi tak berlaku di kampung, kampung semua dah okey dah, dah stable. Tetapi kita sangat merindui beras putih tempatan yang sangat-sangat menjauhkan diri daripada kita. Jadi benda-benda macam ni semua, so kalau YB nak tanya saya, saya boleh cerita macam-macam pasal apa yang berlaku kat bawah apa semua. So then again, tapi benda tu kita akan argue apa semua. YB, you Menteri Ekonomi, sir, you just bring prosperous good apa bawalah investment yang bagus apa semua, we hope that lah you know. Sebab...
 
-[64:06] Rafizi Ramli: Macam nilah Salim, ha.
+[1:04:06] Rafizi Ramli: Macam nilah Salim, ha.
 
-[64:08] Salim Iskandar: Ha we hope that lah, kita bukanlah kita kata nak bagi jatuh aje apa semua. Tetapi kalau bagi saya...
+[1:04:08] Salim Iskandar: Ha we hope that lah, kita bukanlah kita kata nak bagi jatuh aje apa semua. Tetapi kalau bagi saya...
 
-[64:12] Rafizi Ramli: Kata-kata tu doa tiap-tiap hari. Kalau kata teruk teruk teruk, memanglah kau pun psychologically rasa teruk kan?
+[1:04:12] Rafizi Ramli: Kata-kata tu doa tiap-tiap hari. Kalau kata teruk teruk teruk, memanglah kau pun psychologically rasa teruk kan?
 
-[64:15] Salim Iskandar: Ya, tapi kalau kalau Anwar...
+[1:04:15] Salim Iskandar: Ya, tapi kalau kalau Anwar...
 
-[64:19] Salim Iskandar: Ya, tapi kalau Anwar dah tak boleh handle...
+[1:04:19] Salim Iskandar: Ya, tapi kalau Anwar dah tak boleh handle...
 
-[64:22] Rafizi Ramli: Betul.
+[1:04:22] Rafizi Ramli: Betul.
 
-[64:23] Salim Iskandar: Saudara Datuk Seri Anwar Ibrahim, younger person you know. I mean, my man. Sorilah, this is my my opinion eh. Tak ada kena-mengena, kawan kata kartel ke apa ke you know. Itu aje.
+[1:04:23] Salim Iskandar: Saudara Datuk Seri Anwar Ibrahim, younger person you know. I mean, my man. Sorilah, this is my my opinion eh. Tak ada kena-mengena, kawan kata kartel ke apa ke you know. Itu aje.
 
-[64:36] Rafizi Ramli: Unfortunately Salim, I think your opinion tu is not shared by majority of Malaysians. I mean it's your opinion. Saya kalau tanya saya, I think it's a this is the good junction yang mana kombinasi semua pimpinan yang ada daripada semua parti, daripada yang pernah ada dalam politik 40 tahun lepas kepada yang muda semua, because it's a it's a junction where we need everyone to focus on their strength. Yang tua-tua ni is to bring back society supaya kita janganlah extreme and polarized sangat. Yang muda yang ada technocratic skill, yang boleh tu, you focus on that one. There are things I can do, there are things I cannot do. There are things KJ boleh buat, KJ tak boleh buat. So we need everyone. Dan bukan saja umur, parti pun we need everyone around the table. Let's fix the country tiga empat tahun ni. Lepas ni, siapa-siapa nak ambil ikut sukalah.
+[1:04:36] Rafizi Ramli: Unfortunately Salim, I think your opinion tu is not shared by majority of Malaysians. I mean it's your opinion. Saya kalau tanya saya, I think it's a this is the good junction yang mana kombinasi semua pimpinan yang ada daripada semua parti, daripada yang pernah ada dalam politik 40 tahun lepas kepada yang muda semua, because it's a it's a junction where we need everyone to focus on their strength. Yang tua-tua ni is to bring back society supaya kita janganlah extreme and polarized sangat. Yang muda yang ada technocratic skill, yang boleh tu, you focus on that one. There are things I can do, there are things I cannot do. There are things KJ boleh buat, KJ tak boleh buat. So we need everyone. Dan bukan saja umur, parti pun we need everyone around the table. Let's fix the country tiga empat tahun ni. Lepas ni, siapa-siapa nak ambil ikut sukalah.
 
-[65:17] Salim Iskandar: Tapi...
+[1:05:17] Salim Iskandar: Tapi...
 
-[65:19] Salim Iskandar: Ya, betul.
+[1:05:19] Salim Iskandar: Ya, betul.
 
-[65:21] Salim Iskandar: Tapi...
+[1:05:21] Salim Iskandar: Tapi...
 
-[65:31] Salim Iskandar: Ya, tapi saya nak bagi tahu satulah eh. YB, you have to be fair to the Malay. Malay was the one yang tahun 1998 berguling depan jalan tahu. Atas jalan depa berguling. I think YB was one of them.
+[1:05:31] Salim Iskandar: Ya, tapi saya nak bagi tahu satulah eh. YB, you have to be fair to the Malay. Malay was the one yang tahun 1998 berguling depan jalan tahu. Atas jalan depa berguling. I think YB was one of them.
 
-[65:41] Rafizi Ramli: Kotak akulah, engkau tak kan? Aku yang berguling kan?
+[1:05:41] Rafizi Ramli: Kotak akulah, engkau tak kan? Aku yang berguling kan?
 
-[65:44] Salim Iskandar: I was I was Mahathir all the way.
+[1:05:44] Salim Iskandar: I was I was Mahathir all the way.
 
-[65:45] Rafizi Ramli: Ha ada ada ada.
+[1:05:45] Rafizi Ramli: Ha ada ada ada.
 
-[65:46] Salim Iskandar: Mahathir, I mengaku eh I was Mahathir. Mahathir all the way.
+[1:05:46] Salim Iskandar: Mahathir, I mengaku eh I was Mahathir. Mahathir all the way.
 
-[65:47] Rafizi Ramli: Mengaku mengaku juga.
+[1:05:47] Rafizi Ramli: Mengaku mengaku juga.
 
-[65:49] Rafizi Ramli: Tak, tapi tak adalah berguling. Kita orang lari daripada polis.
+[1:05:49] Rafizi Ramli: Tak, tapi tak adalah berguling. Kita orang lari daripada polis.
 
-[65:51] Salim Iskandar: Tak ada bergulinglah. Yang baring depan lori tu mana?
+[1:05:51] Salim Iskandar: Tak ada bergulinglah. Yang baring depan lori tu mana?
 
-[65:53] Rafizi Ramli: Itu orang PAS lah!
+[1:05:53] Rafizi Ramli: Itu orang PAS lah!
 
-[65:54] Salim Iskandar: Bukan. Budak Cina satu yang muda dulu baring depan lori.
+[1:05:54] Salim Iskandar: Bukan. Budak Cina satu yang muda dulu baring depan lori.
 
-[65:55] Rafizi Ramli: Mana ada?
+[1:05:55] Rafizi Ramli: Mana ada?
 
-[65:58] Salim Iskandar: Ni tahun bila? Nama dia Tian Chua. Sejarah. Okey, tak apa. Okey, sekarang sekarang ni kita kena terima hakikat...
+[1:05:58] Salim Iskandar: Ni tahun bila? Nama dia Tian Chua. Sejarah. Okey, tak apa. Okey, sekarang sekarang ni kita kena terima hakikat...
 
-[66:01] Rafizi Ramli: Itu duduk, itu baru betul.
+[1:06:01] Rafizi Ramli: Itu duduk, itu baru betul.
 
-[66:06] Rafizi Ramli: Dia tak ada baring kan? Dia duduk kan?
+[1:06:06] Rafizi Ramli: Dia tak ada baring kan? Dia duduk kan?
 
-[66:07] Salim Iskandar: Dia baring, dia duduklah duduklah. Agak-agak dia dah letih sangat penat dia baring kut masa tu kau tangkap pap satu snap gambar tu. Okey, it's okay that's a history lah. Tetapi kita kena terima juga hakikat bahawasanya orang Melayu eh hari ni...
+[1:06:07] Salim Iskandar: Dia baring, dia duduklah duduklah. Agak-agak dia dah letih sangat penat dia baring kut masa tu kau tangkap pap satu snap gambar tu. Okey, it's okay that's a history lah. Tetapi kita kena terima juga hakikat bahawasanya orang Melayu eh hari ni...
 
-[66:20] Rafizi Ramli: Tapi hang on hang on hang on. Sebelum tu kan, bila cakap yang tua Anwar ni kena resign semua, kenapa kau tak cakap benda yang sama macam Mahathir? Pada Mahathir?
+[1:06:20] Rafizi Ramli: Tapi hang on hang on hang on. Sebelum tu kan, bila cakap yang tua Anwar ni kena resign semua, kenapa kau tak cakap benda yang sama macam Mahathir? Pada Mahathir?
 
-[66:29] Salim Iskandar: Mahathir Mahathir jadi PM lagi ke?
+[1:06:29] Salim Iskandar: Mahathir Mahathir jadi PM lagi ke?
 
-[66:31] Rafizi Ramli: Yalah dia dah umur dekat nak masuk 100 tahun. You know, dia masih lagi bergerak aktif, ada pandangan politik semua gini gini gini. Eh yang itu boleh, tak boleh kau tak suruh dia retire pula?
+[1:06:31] Rafizi Ramli: Yalah dia dah umur dekat nak masuk 100 tahun. You know, dia masih lagi bergerak aktif, ada pandangan politik semua gini gini gini. Eh yang itu boleh, tak boleh kau tak suruh dia retire pula?
 
-[66:40] Salim Iskandar: Tak apa.
+[1:06:40] Salim Iskandar: Tak apa.
 
-[66:45] Salim Iskandar: Dia adalah seorang negarawan.
+[1:06:45] Salim Iskandar: Dia adalah seorang negarawan.
 
-[66:47] Rafizi Ramli: Ha pulak dah!
+[1:06:47] Rafizi Ramli: Ha pulak dah!
 
-[66:49] Salim Iskandar: Bekas Perdana Menteri. Kejap kejap, bekas Perdana Menteri dua kali.
+[1:06:49] Salim Iskandar: Bekas Perdana Menteri. Kejap kejap, bekas Perdana Menteri dua kali.
 
-[66:50] Rafizi Ramli: Sabar sat. Ha itu cili yang tak bagus tahu dak? Itu cili masam.
+[1:06:50] Rafizi Ramli: Sabar sat. Ha itu cili yang tak bagus tahu dak? Itu cili masam.
 
-[66:56] Salim Iskandar: Bekas bekas Perdana Menteri dua kali, dia bagi opinion. Sama ada kau nak terima ke tak nak terima, tak apa. Dan dia tengok tu kan...
+[1:06:56] Salim Iskandar: Bekas bekas Perdana Menteri dua kali, dia bagi opinion. Sama ada kau nak terima ke tak nak terima, tak apa. Dan dia tengok tu kan...
 
-[67:00] Rafizi Ramli: Ya, ya ya ya.
+[1:07:00] Rafizi Ramli: Ya, ya ya ya.
 
-[67:04] Rafizi Ramli: Tak tak tak, tapi hypothetically kan Salim kan, dia bagi opinion sekarang sebab dia bertanding dulu, dia kalah deposit. Kalau dia menang, dia masih lagi nak jadi Perdana Menteri. Ha tapi cuma dalam pilihan raya yang lepas, dia kalah deposit, parti dia kalah. Kalau tidak, kalau you kata yang yang tua-tua ni kena retire, Anwar ke Muhyiddin semua, eh kau kan penyokong kuat Mahathir? You have to apply the same one kepada Tun Mahathir lah.
+[1:07:04] Rafizi Ramli: Tak tak tak, tapi hypothetically kan Salim kan, dia bagi opinion sekarang sebab dia bertanding dulu, dia kalah deposit. Kalau dia menang, dia masih lagi nak jadi Perdana Menteri. Ha tapi cuma dalam pilihan raya yang lepas, dia kalah deposit, parti dia kalah. Kalau tidak, kalau you kata yang yang tua-tua ni kena retire, Anwar ke Muhyiddin semua, eh kau kan penyokong kuat Mahathir? You have to apply the same one kepada Tun Mahathir lah.
 
-[67:17] Salim Iskandar: Hmm.
+[1:07:17] Salim Iskandar: Hmm.
 
-[67:30] Salim Iskandar: Betul, tak macam ni. Dengar eh, kita boleh suruh Tun Mahathir Tun Mahathir dah retire pun, I'm he's not going for any PM anymore.
+[1:07:30] Salim Iskandar: Betul, tak macam ni. Dengar eh, kita boleh suruh Tun Mahathir Tun Mahathir dah retire pun, I'm he's not going for any PM anymore.
 
-[67:37] Rafizi Ramli: Ya tapi dia bertanding tau dalam PRU yang lepas sampai hilang deposit.
+[1:07:37] Rafizi Ramli: Ya tapi dia bertanding tau dalam PRU yang lepas sampai hilang deposit.
 
-[67:40] Salim Iskandar: Ya, tapi katalah katalah Tun M nak bertanding kan, katalah contoh kan adalah satu seat ke apa ke atau dia boleh buat macam dia baru keluar penjara dapat pengampunan, lepas tu batuk berhenti, depa berhenti orang tu pergi bertanding dah jadi ahli parlimen. Ini sejarah berlaku eh. Okey, so kalau kita tengoklah kalau kita nak compare, Mahathir tak gila macam tu. Mahathir yang kita kata Maha Firaun, dua kali letak jawatan. Dua kali, 2003 dan 2020. Ya, 2020 dia letak jawatan. Dua kali seorang diktator yang dikatakan Maha Firaun apa semua, dia letak jawatan dua kali. So kalau kita kata dia gila kuasa, tengok eh macam mana seorang yang nak mempertahan Ini must be fair, nak mempertahankan jawatan Perdana Menteri dia, dia terpaksa tutup parlimen. Betul? Dia tutup parlimen, dia perpanjangkan, buat darurat apa semua untuk mempertahankan kerusi Perdana Menteri dia. I mean, it must be fair to everyone, you see? Because we have seen this. Okey, jadi dia buat macam tu. So but when comes to Mahathir, this is the beauty about him. No matter what we hate him, we love him, but when comes to his dia punya position, dia kata bila dia tak ada sokongan dah, aku letak jawatan.
+[1:07:40] Salim Iskandar: Ya, tapi katalah katalah Tun M nak bertanding kan, katalah contoh kan adalah satu seat ke apa ke atau dia boleh buat macam dia baru keluar penjara dapat pengampunan, lepas tu batuk berhenti, depa berhenti orang tu pergi bertanding dah jadi ahli parlimen. Ini sejarah berlaku eh. Okey, so kalau kita tengoklah kalau kita nak compare, Mahathir tak gila macam tu. Mahathir yang kita kata Maha Firaun, dua kali letak jawatan. Dua kali, 2003 dan 2020. Ya, 2020 dia letak jawatan. Dua kali seorang diktator yang dikatakan Maha Firaun apa semua, dia letak jawatan dua kali. So kalau kita kata dia gila kuasa, tengok eh macam mana seorang yang nak mempertahan Ini must be fair, nak mempertahankan jawatan Perdana Menteri dia, dia terpaksa tutup parlimen. Betul? Dia tutup parlimen, dia perpanjangkan, buat darurat apa semua untuk mempertahankan kerusi Perdana Menteri dia. I mean, it must be fair to everyone, you see? Because we have seen this. Okey, jadi dia buat macam tu. So but when comes to Mahathir, this is the beauty about him. No matter what we hate him, we love him, but when comes to his dia punya position, dia kata bila dia tak ada sokongan dah, aku letak jawatan.
 
-[68:51] Rafizi Ramli: Saya adalah sebenarnya pandangan lain because I think yang berlaku tu lebih rumit daripada yang Salim cakap, tapi sebab dia idola Salim, aku malaslah nak bertekak, ha.
+[1:08:51] Rafizi Ramli: Saya adalah sebenarnya pandangan lain because I think yang berlaku tu lebih rumit daripada yang Salim cakap, tapi sebab dia idola Salim, aku malaslah nak bertekak, ha.
 
-[69:00] Salim Iskandar: Okey, fair.
+[1:09:00] Salim Iskandar: Okey, fair.
 
-[69:05] Salim Iskandar: Okey. Tak, sekarang ni kita cerita pasal Anwar, pasal apa masyarakat Melayu eh. Stigma dia, Anwar Ibrahim terbukti dalam mahkamah apa yang kesalahan...
+[1:09:05] Salim Iskandar: Okey. Tak, sekarang ni kita cerita pasal Anwar, pasal apa masyarakat Melayu eh. Stigma dia, Anwar Ibrahim terbukti dalam mahkamah apa yang kesalahan...
 
-[69:13] Rafizi Ramli: Eh moderator, lama mana ni?
+[1:09:13] Rafizi Ramli: Eh moderator, lama mana ni?
 
-[69:15] Haziq Azfar: Ni dah sejam 10 minit.
+[1:09:15] Haziq Azfar: Ni dah sejam 10 minit.
 
-[69:16] Rafizi Ramli: Sikit lagi nak habis dah.
+[1:09:16] Rafizi Ramli: Sikit lagi nak habis dah.
 
-[69:18] Salim Iskandar: Ini ini siapa ni? Siapa dia ni?
+[1:09:18] Salim Iskandar: Ini ini siapa ni? Siapa dia ni?
 
-[69:19] Rafizi Ramli: Aku tak tahu dia orang pilih.
+[1:09:19] Rafizi Ramli: Aku tak tahu dia orang pilih.
 
-[69:21] Salim Iskandar: Tak, macam mana dia mai kat sini? Kita dua orang sembang.
+[1:09:21] Salim Iskandar: Tak, macam mana dia mai kat sini? Kita dua orang sembang.
 
-[69:23] Rafizi Ramli: Yalah kesian kat dialah, takkanlah kacau. Tak cukup vokal.
+[1:09:23] Rafizi Ramli: Yalah kesian kat dialah, takkanlah kacau. Tak cukup vokal.
 
-[69:29] Salim Iskandar: Okey, YB macam ni.
+[1:09:29] Salim Iskandar: Okey, YB macam ni.
 
-[69:30] Rafizi Ramli: Last lah kut Salim.
+[1:09:30] Rafizi Ramli: Last lah kut Salim.
 
-[69:31] Salim Iskandar: Ha saya kalau nak cakap apa, saya cuma kata stigma orang Melayu ni kita kena tengok balik. Kita kena tengok balik apa yang berlaku pada Perdana Menteri yang ada hari ni because benda-benda yang pertuduhan yang dilalui, masyarakat nampak sekarang apa yang berlaku dan setahun setengah dah kita dan kita tak boleh blame orang Melayu semata-mata. Kita kena muhasabah diri kita juga apabila kita tahu bila dah kita cuba orang dah tak nak terima dah satu ni, you have to find a way be berjiwa besar, bagilah Rafizi jadi Perdana Menteri. Terima kasih. Thank you.
+[1:09:31] Salim Iskandar: Ha saya kalau nak cakap apa, saya cuma kata stigma orang Melayu ni kita kena tengok balik. Kita kena tengok balik apa yang berlaku pada Perdana Menteri yang ada hari ni because benda-benda yang pertuduhan yang dilalui, masyarakat nampak sekarang apa yang berlaku dan setahun setengah dah kita dan kita tak boleh blame orang Melayu semata-mata. Kita kena muhasabah diri kita juga apabila kita tahu bila dah kita cuba orang dah tak nak terima dah satu ni, you have to find a way be berjiwa besar, bagilah Rafizi jadi Perdana Menteri. Terima kasih. Thank you.
 
-[70:04] Rafizi Ramli: Itu bukan pesanan penaja eh.
+[1:10:04] Rafizi Ramli: Itu bukan pesanan penaja eh.
 
-[70:07] Salim Iskandar: Kartel Rafizi.
+[1:10:07] Salim Iskandar: Kartel Rafizi.
 
-[70:10] Rafizi Ramli: Tak, apa nama ni, I think kita tak pernah tolaklah cerita sebenarnya kebimbangan orang Melayu tu perlu diuruskan kan. Cuma dalam menguruskan apa nama ni yalah kebimbangan, insecurity orang Melayu, kehendak orang Melayu tu kan, kita tak bolehlah sampai apa nama ni kita ambil jalan singkat contohnya. Jalan singkat memang mudah. Maksudnya kalau...
+[1:10:10] Rafizi Ramli: Tak, apa nama ni, I think kita tak pernah tolaklah cerita sebenarnya kebimbangan orang Melayu tu perlu diuruskan kan. Cuma dalam menguruskan apa nama ni yalah kebimbangan, insecurity orang Melayu, kehendak orang Melayu tu kan, kita tak bolehlah sampai apa nama ni kita ambil jalan singkat contohnya. Jalan singkat memang mudah. Maksudnya kalau...
 
-[70:40] Salim Iskandar: Bertandinglah Presiden PKR, bertandinglah Presiden PKR. Tolong tolong, Salim Iskandar minta. Dia tak nak ajak aku lagi dah.
+[1:10:40] Salim Iskandar: Bertandinglah Presiden PKR, bertandinglah Presiden PKR. Tolong tolong, Salim Iskandar minta. Dia tak nak ajak aku lagi dah.
 
-[70:44] Rafizi Ramli: Dah ada, tak nak ajaklah hangpa ni. Tak sabarlah, aku nak habiskan dulu bercakap dengan dia ni.
+[1:10:44] Rafizi Ramli: Dah ada, tak nak ajaklah hangpa ni. Tak sabarlah, aku nak habiskan dulu bercakap dengan dia ni.
 
-[70:50] Salim Iskandar: Okey, sorry.
+[1:10:50] Salim Iskandar: Okey, sorry.
 
-[70:52] Rafizi Ramli: So dia tak dia dia I think kita kena ambil jalan yang yang yang susah lah. Kalau jalan pendek, mudah tahu. Maksudnya bagi semua kan, tapi sebenarnya yang akan mewarisi hutang-hutang ni anak-anak Melayu juga nanti. Sebab 20 tahun akan datang, 30 tahun akan datang, jumlah penduduk Melayu ni lebih tinggi daripada Cina dan India yang semakin menurun. Tulah kan. Jadi akhirnya kita boleh selesaikan contohnya, orang kata orang bagi plasebolah, bagi Panadol aje. Tapi nanti lama-lama dapat kanser kemudian kan, tu satu. Yang kedua, kita kena ambil maklum lah bahawa satu-satunya jalan ke depan ni ialah kita perlukan setiap kumpulan dalam negara kita ni. Dan orang Melayu kena bekerjasama dengan Cina, dengan India and vice versa. Sebab yang kita nak bersaing ni bukan sesama kita ni. Ini yang Vietnam, yang India daripada benua India semua tu. Kalau negara terus tak boleh naik balik dari segi ekonomi, akhirnya Melayu juga yang kena tanggung. If anything, itu perbezaan kerajaan yang ada dengan jalan yang diambil oleh pembangkang. Pembangkang bagi Panadol ni, gula-gula kepada apa nama ni yang Melayu ni atas alasan, "Bagilah kepada kami kerajaan yang semua Melayu, kita Melayu semua ni kita kontrol semua, selesai semua masalah." You and I know that's not the case. Kan? Jadi and I think sebab itu memang saya ambil tanggungjawab kalau orang duk marah, maki pasal ekonomi...
+[1:10:52] Rafizi Ramli: So dia tak dia dia I think kita kena ambil jalan yang yang yang susah lah. Kalau jalan pendek, mudah tahu. Maksudnya bagi semua kan, tapi sebenarnya yang akan mewarisi hutang-hutang ni anak-anak Melayu juga nanti. Sebab 20 tahun akan datang, 30 tahun akan datang, jumlah penduduk Melayu ni lebih tinggi daripada Cina dan India yang semakin menurun. Tulah kan. Jadi akhirnya kita boleh selesaikan contohnya, orang kata orang bagi plasebolah, bagi Panadol aje. Tapi nanti lama-lama dapat kanser kemudian kan, tu satu. Yang kedua, kita kena ambil maklum lah bahawa satu-satunya jalan ke depan ni ialah kita perlukan setiap kumpulan dalam negara kita ni. Dan orang Melayu kena bekerjasama dengan Cina, dengan India and vice versa. Sebab yang kita nak bersaing ni bukan sesama kita ni. Ini yang Vietnam, yang India daripada benua India semua tu. Kalau negara terus tak boleh naik balik dari segi ekonomi, akhirnya Melayu juga yang kena tanggung. If anything, itu perbezaan kerajaan yang ada dengan jalan yang diambil oleh pembangkang. Pembangkang bagi Panadol ni, gula-gula kepada apa nama ni yang Melayu ni atas alasan, "Bagilah kepada kami kerajaan yang semua Melayu, kita Melayu semua ni kita kontrol semua, selesai semua masalah." You and I know that's not the case. Kan? Jadi and I think sebab itu memang saya ambil tanggungjawab kalau orang duk marah, maki pasal ekonomi...
 
-[71:14] Salim Iskandar: Of course. Kita very productive.
+[1:11:14] Salim Iskandar: Of course. Kita very productive.
 
-[72:20] Salim Iskandar: Yap.
+[1:12:20] Salim Iskandar: Yap.
 
-[72:29] Salim Iskandar: Can I say something? Saya tambah sikit aje YB punya ni.
+[1:12:29] Salim Iskandar: Can I say something? Saya tambah sikit aje YB punya ni.
 
-[72:32] Rafizi Ramli: Tadi kau dah kata thank you.
+[1:12:32] Rafizi Ramli: Tadi kau dah kata thank you.
 
-[72:33] Salim Iskandar: Dah habis dah. Saya terpaksa saya bila YB cakap ni, macam ni YB. YB dah cakap macam-macam, Raja Formula, apa semua YB dah kata apa semua. Dia sekarang ni macam nilah bila orang rakyat tengah marah, terima ajelah. Terima ajelah, reda ajelah. Dia tengah marah dia kata, "Tak apalah." Kata KJ eh, dia kata, "Dulu kau orang juga kata minyak nak naik apa semua kan, subsidi minyak nak kurang apa semua. Sekarang bila kena ludah kat muka, kau lap ajelah." Carry on lah.
+[1:12:33] Salim Iskandar: Dah habis dah. Saya terpaksa saya bila YB cakap ni, macam ni YB. YB dah cakap macam-macam, Raja Formula, apa semua YB dah kata apa semua. Dia sekarang ni macam nilah bila orang rakyat tengah marah, terima ajelah. Terima ajelah, reda ajelah. Dia tengah marah dia kata, "Tak apalah." Kata KJ eh, dia kata, "Dulu kau orang juga kata minyak nak naik apa semua kan, subsidi minyak nak kurang apa semua. Sekarang bila kena ludah kat muka, kau lap ajelah." Carry on lah.
 
-[72:45] Rafizi Ramli: Okey.
+[1:12:45] Rafizi Ramli: Okey.
 
-[72:47] Rafizi Ramli: Ha.
+[1:12:47] Rafizi Ramli: Ha.
 
-[72:51] Rafizi Ramli: Ha.
+[1:12:51] Rafizi Ramli: Ha.
 
-[72:58] Rafizi Ramli: Tak, dia begini. Dia kalau benda itu yang tidak apa nama ni maksudnya itu pandangan yang tidak memesongkan keadaan atau fakta, aku tak kisah tau. Yang itu biasalah. Contohnya orang tak suka kepala aku botak, nasib engkaulah.
+[1:12:58] Rafizi Ramli: Tak, dia begini. Dia kalau benda itu yang tidak apa nama ni maksudnya itu pandangan yang tidak memesongkan keadaan atau fakta, aku tak kisah tau. Yang itu biasalah. Contohnya orang tak suka kepala aku botak, nasib engkaulah.
 
-[73:12] Salim Iskandar: Terima ajelah.
+[1:13:12] Salim Iskandar: Terima ajelah.
 
-[73:17] Salim Iskandar: Nasib kau oranglah kan? Boleh tanam rambut kan? Tak payah?
+[1:13:17] Salim Iskandar: Nasib kau oranglah kan? Boleh tanam rambut kan? Tak payah?
 
-[73:20] Rafizi Ramli: Tak, buat apa nak tanam rambut? Sakitlah. Kan? Ha. So contohnya kan, tapi kalau benda itu dia tidak melambangkan fakta yang sebenar, contohnya kalau kata BR1M sekarang lagi sikit daripada dulu...
+[1:13:20] Rafizi Ramli: Tak, buat apa nak tanam rambut? Sakitlah. Kan? Ha. So contohnya kan, tapi kalau benda itu dia tidak melambangkan fakta yang sebenar, contohnya kalau kata BR1M sekarang lagi sikit daripada dulu...
 
-[73:22] Salim Iskandar: Ya, betul.
+[1:13:22] Salim Iskandar: Ya, betul.
 
-[73:33] Salim Iskandar: Dulu BR1M sekali, sekarang empat kali.
+[1:13:33] Salim Iskandar: Dulu BR1M sekali, sekarang empat kali.
 
-[73:34] Rafizi Ramli: Dulu BR1M sekali sekarang empat kali jumlah. Jadi benda ni tak betul. Jadi yang tak betul tu aku jawablah. Kalau aku dah bagi fakta 4, 5, 6 kali, buat tak tahu juga, then kalau aku kata bahalol janganlah marah. Benda tu dah ada kan? Jadi I think bergantung juga kepada komen. That's why I don't have any problem siapa-siapa nak datang, tapi kita kena berpegang kepada yang fakta tu faktalah. Yang lain tu contohnya pandangan, perlukah muda, tua tu, itu pandangan. Itu hal kamulah kan? So I think so long as we stick to that, then tak ada masalah.
+[1:13:34] Rafizi Ramli: Dulu BR1M sekali sekarang empat kali jumlah. Jadi benda ni tak betul. Jadi yang tak betul tu aku jawablah. Kalau aku dah bagi fakta 4, 5, 6 kali, buat tak tahu juga, then kalau aku kata bahalol janganlah marah. Benda tu dah ada kan? Jadi I think bergantung juga kepada komen. That's why I don't have any problem siapa-siapa nak datang, tapi kita kena berpegang kepada yang fakta tu faktalah. Yang lain tu contohnya pandangan, perlukah muda, tua tu, itu pandangan. Itu hal kamulah kan? So I think so long as we stick to that, then tak ada masalah.
 
-[74:04] Salim Iskandar: Pandangan, itu pandangan okey. Itu pandanganlah, pandangan saya.
+[1:14:04] Salim Iskandar: Pandangan, itu pandangan okey. Itu pandanganlah, pandangan saya.
 
-[74:10] Salim Iskandar: Last my question. Kenapa PADU tukar BUDI?
+[1:14:10] Salim Iskandar: Last my question. Kenapa PADU tukar BUDI?
 
-[74:14] Rafizi Ramli: Aku dah jawab kat parlimen.
+[1:14:14] Rafizi Ramli: Aku dah jawab kat parlimen.
 
-[74:15] Salim Iskandar: PADU bertukar jadi BUDI? Just what? Simple aje, PADU tukar jadi BUDI.
+[1:14:15] Salim Iskandar: PADU bertukar jadi BUDI? Just what? Simple aje, PADU tukar jadi BUDI.
 
-[74:16] Rafizi Ramli: Tak.
+[1:14:16] Rafizi Ramli: Tak.
 
-[74:21] Salim Iskandar: Sampai buat lagu, "Budiku tabur, paduku..."
+[1:14:21] Salim Iskandar: Sampai buat lagu, "Budiku tabur, paduku..."
 
-[74:26] Rafizi Ramli: Yang yang itu Salim sila follow aku punya TikTok. Ada satu klip.
+[1:14:26] Rafizi Ramli: Yang yang itu Salim sila follow aku punya TikTok. Ada satu klip.
 
-[74:28] Salim Iskandar: Okey. Tolong saya, tolong unblock saya dekat Twitter boleh tak, X? Tolong unblock saya dekat Twitter dan tolong follow saya. Tolong follow saya.
+[1:14:28] Salim Iskandar: Okey. Tolong saya, tolong unblock saya dekat Twitter boleh tak, X? Tolong unblock saya dekat Twitter dan tolong follow saya. Tolong follow saya.
 
-[74:37] Rafizi Ramli: Okeylah. Aku Nanti orang kata kartel.
+[1:14:37] Rafizi Ramli: Okeylah. Aku Nanti orang kata kartel.
 
-[74:39] Salim Iskandar: Tak apa, kartel alang-alang kan? Orang nak cakap macam-macam, biar ajelah.
+[1:14:39] Salim Iskandar: Tak apa, kartel alang-alang kan? Orang nak cakap macam-macam, biar ajelah.
 
-[74:44] Rafizi Ramli: Actually, alamak. Apa nama ni, dia apa dia? Salim Iskandar. Salim Iskandar. Satu Oh, ni ha.
+[1:14:44] Rafizi Ramli: Actually, alamak. Apa nama ni, dia apa dia? Salim Iskandar. Salim Iskandar. Satu Oh, ni ha.
 
-[74:48] Salim Iskandar: Salim Iskandar.
+[1:14:48] Salim Iskandar: Salim Iskandar.
 
-[74:53] Salim Iskandar: Baju merah, sama baju ni ah.
+[1:14:53] Salim Iskandar: Baju merah, sama baju ni ah.
 
-[74:55] Rafizi Ramli: Patutlah kena block.
+[1:14:55] Rafizi Ramli: Patutlah kena block.
 
-[74:57] Salim Iskandar: Why?
+[1:14:57] Salim Iskandar: Why?
 
-[74:58] Rafizi Ramli: Okeylah, sengajalah. Tak kenal maka tak cinta. Aku dah unblock. And then aku follow lah juga.
+[1:14:58] Rafizi Ramli: Okeylah, sengajalah. Tak kenal maka tak cinta. Aku dah unblock. And then aku follow lah juga.
 
-[75:00] Salim Iskandar: Oh, tengok.
+[1:15:00] Salim Iskandar: Oh, tengok.
 
-[75:01] Salim Iskandar: Tak cinta ya, betul.
+[1:15:01] Salim Iskandar: Tak cinta ya, betul.
 
-[75:04] Salim Iskandar: Wow!
+[1:15:04] Salim Iskandar: Wow!
 
-[75:06] Haziq Azfar: Follow back.
+[1:15:06] Haziq Azfar: Follow back.
 
-[75:07] Salim Iskandar: Steady! Tengok, Rafizi Ramli follow yo!
+[1:15:07] Salim Iskandar: Steady! Tengok, Rafizi Ramli follow yo!
 
-[75:13] Rafizi Ramli: Memang kartellah macam ni. Memang kartellah macam ni.
+[1:15:13] Rafizi Ramli: Memang kartellah macam ni. Memang kartellah macam ni.
 
-[75:15] Salim Iskandar: Oh kartel, sekarang kartel eh tengok eh. Ha tu dia ha, cantik tu. All right, so okey.
+[1:15:15] Salim Iskandar: Oh kartel, sekarang kartel eh tengok eh. Ha tu dia ha, cantik tu. All right, so okey.
 
-[75:20] Rafizi Ramli: At least kita buat depan-depan, bukan belakang-belakang.
+[1:15:20] Rafizi Ramli: At least kita buat depan-depan, bukan belakang-belakang.
 
-[75:21] Salim Iskandar: Depan-depan, ya betul betul betul ha. So bagi saya macam nilah rakyat Malaysia.
+[1:15:21] Salim Iskandar: Depan-depan, ya betul betul betul ha. So bagi saya macam nilah rakyat Malaysia.
 
-[75:25] Rafizi Ramli: Ha tengok, Happy Birthday Che Det Official.
+[1:15:25] Rafizi Ramli: Ha tengok, Happy Birthday Che Det Official.
 
-[75:27] Salim Iskandar: Ya, you know? Setuju setuju. Saya cakap, I mean saya cakap terus terang saya tak Saya jenis satu YB, kalau you kenal saya, saya ni jenis apa you you nampak saya, inilah saya. Okey, saya tak suka bermuka-muka munafik ke apa ke. Saya cakap macam ni. Kalau ada benda yang tak tu, kita cakap. Saya harap tak seriklah sebab ada banyak isu lagi kita nak bincang. Kalau boleh ajak...
+[1:15:27] Salim Iskandar: Ya, you know? Setuju setuju. Saya cakap, I mean saya cakap terus terang saya tak Saya jenis satu YB, kalau you kenal saya, saya ni jenis apa you you nampak saya, inilah saya. Okey, saya tak suka bermuka-muka munafik ke apa ke. Saya cakap macam ni. Kalau ada benda yang tak tu, kita cakap. Saya harap tak seriklah sebab ada banyak isu lagi kita nak bincang. Kalau boleh ajak...
 
-[75:43] Rafizi Ramli: Tak ada, tak serik. Selepas ni kalau kalau dia orang semua hentam kata kau kartel aku bayar semua ni, kau nak jawab apa?
+[1:15:43] Rafizi Ramli: Tak ada, tak serik. Selepas ni kalau kalau dia orang semua hentam kata kau kartel aku bayar semua ni, kau nak jawab apa?
 
-[75:49] Salim Iskandar: Ha saya hantar invois lah. Boleh?
+[1:15:49] Salim Iskandar: Ha saya hantar invois lah. Boleh?
 
-[75:52] Rafizi Ramli: Bila aku dapat invois, nanti aku tunjukkanlah.
+[1:15:52] Rafizi Ramli: Bila aku dapat invois, nanti aku tunjukkanlah.
 
-[75:54] Salim Iskandar: Ya boleh boleh. So macam tu cerita. Sebab apa YB, saya cakap satulah YB eh. Dalam dekat X tu kadang-kadang, dekat X tu dia orang kata apa tahu? Salim dibayar. Okey, YB kena tahu cerita saya background saya sikit cerita sikitlah.
+[1:15:54] Salim Iskandar: Ya boleh boleh. So macam tu cerita. Sebab apa YB, saya cakap satulah YB eh. Dalam dekat X tu kadang-kadang, dekat X tu dia orang kata apa tahu? Salim dibayar. Okey, YB kena tahu cerita saya background saya sikit cerita sikitlah.
 
-[76:08] Rafizi Ramli: Macam mana keluar cerita tu?
+[1:16:08] Rafizi Ramli: Macam mana keluar cerita tu?
 
-[76:09] Salim Iskandar: Okey, sebab...
+[1:16:09] Salim Iskandar: Okey, sebab...
 
-[76:10] Rafizi Ramli: Ni bila nak habis ni?
+[1:16:10] Rafizi Ramli: Ni bila nak habis ni?
 
-[76:11] Salim Iskandar: Tulah, tak apalah sikit syok kan? Best kan? Okey, so apa yang berlaku dekat X tu dia orang bagi tahu ada kawan saya satulah, dia dedahkan kata saya duduk rumah mahal lepas tu bayar tak apa tak mampu bayar sekarang dah jadi miskin jadi saya minta sedekah. Dia kata macam tulah, jadi minta sedekah ni. Okey, bermakna I'm a beggar. Miskin minta sedekah. Tetapi bila datang dekat X pula, ada yang kata Salim dibayar oleh PM, Salim dibayar oleh Mahathir, Salim dibayar oleh itu. Lepas tu aku duduk kat corner, aku kata kau orang kena decide ni, aku miskin beggar ke aku dibayar ni sekarang? Mana satu aku ni? So kadang-kadang aku fikir fikir fikir, menangis kat bucu katil terjumpa tin Planta. Jangan potong eh. Jadi kita tak tahu sebenarnya. Kau orang kena decide. So kau orang aku adakah aku kartel Rafizi atau aku ni seorang rakyat biasa dari tepi jalan? Cili Kasi Taruk bersama Yang Bakar Menteri.
+[1:16:11] Salim Iskandar: Tulah, tak apalah sikit syok kan? Best kan? Okey, so apa yang berlaku dekat X tu dia orang bagi tahu ada kawan saya satulah, dia dedahkan kata saya duduk rumah mahal lepas tu bayar tak apa tak mampu bayar sekarang dah jadi miskin jadi saya minta sedekah. Dia kata macam tulah, jadi minta sedekah ni. Okey, bermakna I'm a beggar. Miskin minta sedekah. Tetapi bila datang dekat X pula, ada yang kata Salim dibayar oleh PM, Salim dibayar oleh Mahathir, Salim dibayar oleh itu. Lepas tu aku duduk kat corner, aku kata kau orang kena decide ni, aku miskin beggar ke aku dibayar ni sekarang? Mana satu aku ni? So kadang-kadang aku fikir fikir fikir, menangis kat bucu katil terjumpa tin Planta. Jangan potong eh. Jadi kita tak tahu sebenarnya. Kau orang kena decide. So kau orang aku adakah aku kartel Rafizi atau aku ni seorang rakyat biasa dari tepi jalan? Cili Kasi Taruk bersama Yang Bakar Menteri.
 
-[77:07] Haziq Azfar: Okey tapi jadi formula semua okey eh?
+[1:17:07] Haziq Azfar: Okey tapi jadi formula semua okey eh?
 
-[77:10] Rafizi Ramli: Formula tak okeylah. Salim dah kasi cili segala cili.
+[1:17:10] Rafizi Ramli: Formula tak okeylah. Salim dah kasi cili segala cili.
 
-[77:14] Salim Iskandar: Tapi saya haraplah YB, regardless of whatever I said, regardless of orang suka you ke tak suka you ke, saya harap for the sake of rakyat Malaysia, please do something about it. Jagalah negara kita, ha?
+[1:17:14] Salim Iskandar: Tapi saya haraplah YB, regardless of whatever I said, regardless of orang suka you ke tak suka you ke, saya harap for the sake of rakyat Malaysia, please do something about it. Jagalah negara kita, ha?
 
-[77:24] Rafizi Ramli: Insya-Allah.
+[1:17:24] Rafizi Ramli: Insya-Allah.
 
-[77:27] Haziq Azfar: Jangan tukar kerajaan eh?
+[1:17:27] Haziq Azfar: Jangan tukar kerajaan eh?
 
-[77:27] Salim Iskandar: Itu tukar kerajaan kena tanya Muhyiddin. Tapi selagi ada Muhyiddin, dia takkan tukar punya, jangan risau. Because Muhyiddin Anwar dah pegang. Ops, so damn son. Okey, silakan.
+[1:17:27] Salim Iskandar: Itu tukar kerajaan kena tanya Muhyiddin. Tapi selagi ada Muhyiddin, dia takkan tukar punya, jangan risau. Because Muhyiddin Anwar dah pegang. Ops, so damn son. Okey, silakan.
 
-[77:36] Rafizi Ramli: Aku tak pernah tengok podcast Salim. Tengok real life. Tak tak, I think yalah I think...
+[1:17:36] Rafizi Ramli: Aku tak pernah tengok podcast Salim. Tengok real life. Tak tak, I think yalah I think...
 
-[77:43] Salim Iskandar: Politician will do anything ya YB, biasalah tu.
+[1:17:43] Salim Iskandar: Politician will do anything ya YB, biasalah tu.
 
-[77:45] Rafizi Ramli: Yalah, I mean anyone in our position would want to do something kan. Cuma cara tu berbeza-bezalah. I mean in my case, like it, orang suka ke tak suka, kalau kau dah diberi kerja, might as well you selesaikan kerja.
+[1:17:45] Rafizi Ramli: Yalah, I mean anyone in our position would want to do something kan. Cuma cara tu berbeza-bezalah. I mean in my case, like it, orang suka ke tak suka, kalau kau dah diberi kerja, might as well you selesaikan kerja.
 
-[78:01] Salim Iskandar: Tapi orang benci kat you, I tengok jumpa dengan you, sembang dengan you satu jam, I think you're quite very jovial, very good person. I mean, you are very polite. Apa yang nak marah? Tak kenal maka tak cinta. Kan? Ha jadi itulah, tak apalah. I think bukanlah aku nak hasut orang suruh jadi bos! Nak bagi jadi wow, bos bos kartel Rafizi.
+[1:18:01] Salim Iskandar: Tapi orang benci kat you, I tengok jumpa dengan you, sembang dengan you satu jam, I think you're quite very jovial, very good person. I mean, you are very polite. Apa yang nak marah? Tak kenal maka tak cinta. Kan? Ha jadi itulah, tak apalah. I think bukanlah aku nak hasut orang suruh jadi bos! Nak bagi jadi wow, bos bos kartel Rafizi.
 
-[78:18] Rafizi Ramli: Aku dah panggillah segala jenis manusia yang tak suka kat aku ni, dia orang tak nak datang. Ha. I'm sure kalau dia datang pun, dia jadi kartel jugalah.
+[1:18:18] Rafizi Ramli: Aku dah panggillah segala jenis manusia yang tak suka kat aku ni, dia orang tak nak datang. Ha. I'm sure kalau dia datang pun, dia jadi kartel jugalah.
 
-[78:26] Salim Iskandar: Ya. Oh, YB YB viral eh? Tak apa nanti kita sembang pasal YB viral. YB viral, come on let's come on!
+[1:18:26] Salim Iskandar: Ya. Oh, YB YB viral eh? Tak apa nanti kita sembang pasal YB viral. YB viral, come on let's come on!
 
-[78:33] Rafizi Ramli: YB viral? Kita jemputlah, dia tak nak.
+[1:18:33] Rafizi Ramli: YB viral? Kita jemputlah, dia tak nak.
 
-[78:36] Salim Iskandar: Ya ya, ini pun Tak apa, nanti saya sembang dengan YB viral. Why not duduk sembang? I mean cakap ajelah, I mean okey.
+[1:18:36] Salim Iskandar: Ya ya, ini pun Tak apa, nanti saya sembang dengan YB viral. Why not duduk sembang? I mean cakap ajelah, I mean okey.
 
-[78:42] Rafizi Ramli: Daripada demo belakang rumah aku, yang dia demo itu belakang rumah aku tau. Kesian kucing-kucing aku.
+[1:18:42] Rafizi Ramli: Daripada demo belakang rumah aku, yang dia demo itu belakang rumah aku tau. Kesian kucing-kucing aku.
 
-[78:48] Salim Iskandar: Ya eh?
+[1:18:48] Salim Iskandar: Ya eh?
 
-[78:50] Rafizi Ramli: Okey okey okey. Dah dah dah, balik balik balik.
+[1:18:50] Rafizi Ramli: Okey okey okey. Dah dah dah, balik balik balik.
 
-[78:54] Haziq Azfar: 1 hour and 30 minutes. Okey itu saja. Terima kasih saudara Salim.
+[1:18:54] Haziq Azfar: 1 hour and 30 minutes. Okey itu saja. Terima kasih saudara Salim.
 
-[78:57] Rafizi Ramli: Bagi salamlah.
+[1:18:57] Rafizi Ramli: Bagi salamlah.
 
-[78:58] Salim Iskandar: Salam. Thank you YB.
+[1:18:58] Salim Iskandar: Salam. Thank you YB.
 
-[78:59] Rafizi Ramli: Okey, thank you. Thank you.
+[1:18:59] Rafizi Ramli: Okey, thank you. Thank you.
 
-[79:01] Salim Iskandar: My pleasure to meet you.
+[1:19:01] Salim Iskandar: My pleasure to meet you.
 
-[79:02] Rafizi Ramli: Okey, thank you.
+[1:19:02] Rafizi Ramli: Okey, thank you.
 
-[79:04] Haziq Azfar: So Salim is the first, kita harap yang lain akan join sekali. Kita buat invitation juga kepada semua yang bersama-sama...
+[1:19:04] Haziq Azfar: So Salim is the first, kita harap yang lain akan join sekali. Kita buat invitation juga kepada semua yang bersama-sama...
 
-[79:12] Salim Iskandar: Mari kita Bakar Menteri.
+[1:19:12] Salim Iskandar: Mari kita Bakar Menteri.
 
-[79:13] Haziq Azfar: Yeah! Okey, itu saja. Terima kasih, kita jumpa lagi.
+[1:19:13] Haziq Azfar: Yeah! Okey, itu saja. Terima kasih, kita jumpa lagi.
 
-[79:16] Rafizi Ramli: Eh kalau Papagomo datang, kau tak marah?
+[1:19:16] Rafizi Ramli: Eh kalau Papagomo datang, kau tak marah?
 
-[79:17] Salim Iskandar: Eh boleh!
+[1:19:17] Salim Iskandar: Eh boleh!
 
-[79:18] Rafizi Ramli: Ha okeylah.
+[1:19:18] Rafizi Ramli: Ha okeylah.
 
-[79:19] Salim Iskandar: Gomo, datanglah. Gomo. Tapi kesianlah Papagomo masuk lokap malam ni. Kesianlah dia.
+[1:19:19] Salim Iskandar: Gomo, datanglah. Gomo. Tapi kesianlah Papagomo masuk lokap malam ni. Kesianlah dia.
 
-[79:26] Rafizi Ramli: Aku tak boleh komen.
+[1:19:26] Rafizi Ramli: Aku tak boleh komen.
 
-[79:27] Salim Iskandar: Yalah yalah kesianlah. I mean I mean saya nak minta satu ajelah kan, regardless of kita ada apa-apa perbezaan pandangan, tak payahlah sampai nak tangkap-tangkap. Okey, because what you can show to the rakyat is kalau kita ni mulut banyak celupar apa semua, you show by doing the work. Kau tunjuk tengok kita buat kerja bagus, tengok macam YB ni. Ha steady aje dia cakap dia explain apa semua. So I kata orang apa kita kena bagi peluang juga because dia baru ni dia ada plan-plan apa semua, so kita tengok. 6 months down the road kalau tak ada apa-apa berlaku, kita datang lagi.
+[1:19:27] Salim Iskandar: Yalah yalah kesianlah. I mean I mean saya nak minta satu ajelah kan, regardless of kita ada apa-apa perbezaan pandangan, tak payahlah sampai nak tangkap-tangkap. Okey, because what you can show to the rakyat is kalau kita ni mulut banyak celupar apa semua, you show by doing the work. Kau tunjuk tengok kita buat kerja bagus, tengok macam YB ni. Ha steady aje dia cakap dia explain apa semua. So I kata orang apa kita kena bagi peluang juga because dia baru ni dia ada plan-plan apa semua, so kita tengok. 6 months down the road kalau tak ada apa-apa berlaku, kita datang lagi.
 
-[79:54] Rafizi Ramli: Cili lagilah.
+[1:19:54] Rafizi Ramli: Cili lagilah.
 
-[79:55] Salim Iskandar: Ha kita buatlah lagi, kita bubuhlah lagi kan? Ha so macam tulah. So we have to give, tapi tak perlu nak guna nak nak takut-takutkan. I mean YB, you know kalau boleh sampaikan mesej, tak perlu nak pergi tangkap apa semua. So I think ya kadang-kadang kita dalam marah tu kita cakap because kita tengah marah. So zaman you all pembangkang pun, you all were very fiery, power, apa semua.
+[1:19:55] Salim Iskandar: Ha kita buatlah lagi, kita bubuhlah lagi kan? Ha so macam tulah. So we have to give, tapi tak perlu nak guna nak nak takut-takutkan. I mean YB, you know kalau boleh sampaikan mesej, tak perlu nak pergi tangkap apa semua. So I think ya kadang-kadang kita dalam marah tu kita cakap because kita tengah marah. So zaman you all pembangkang pun, you all were very fiery, power, apa semua.
 
-[80:18] Rafizi Ramli: Dan aku kena tangkap 14 kali.
+[1:20:18] Rafizi Ramli: Dan aku kena tangkap 14 kali.
 
-[80:19] Salim Iskandar: Kena tangkap banyak kali ya, exactly. I know, I know. Ha so biasalah tu, tapi cuma why you want to do the same masa orang lain buat? You sepatutnya macam ni eh, saya minta PH ni kau orang patut tunjuk yang kau orang tak berjiwa kecil macam kerajaan terdahulu. Kau orang patut tunjuk yang kau orang jiwa besar kena kritik, biar okey. Jangan over sangat, jangan buat fitnah apa semua.
+[1:20:19] Salim Iskandar: Kena tangkap banyak kali ya, exactly. I know, I know. Ha so biasalah tu, tapi cuma why you want to do the same masa orang lain buat? You sepatutnya macam ni eh, saya minta PH ni kau orang patut tunjuk yang kau orang tak berjiwa kecil macam kerajaan terdahulu. Kau orang patut tunjuk yang kau orang jiwa besar kena kritik, biar okey. Jangan over sangat, jangan buat fitnah apa semua.
 
-[80:41] Rafizi Ramli: Ha then that's the thing. Kadang-kadang kalau over dan fitnah...
+[1:20:41] Rafizi Ramli: Ha then that's the thing. Kadang-kadang kalau over dan fitnah...
 
-[80:45] Salim Iskandar: Kalau buat fitnah, are you going to saman?
+[1:20:45] Salim Iskandar: Kalau buat fitnah, are you going to saman?
 
-[80:46] Rafizi Ramli: Taklah, tapi kalau over dan fitnah kepada contohnya kan and and this is also my advice to not just you, semua oranglah. Kalau contohnya kritikan itu dia over dan fitnah, walaupun konon ke atas Anwar Ibrahim, tapi he is the Prime Minister yang mewakili institusi. So dia ada undang-undang tu.
+[1:20:46] Rafizi Ramli: Taklah, tapi kalau over dan fitnah kepada contohnya kan and and this is also my advice to not just you, semua oranglah. Kalau contohnya kritikan itu dia over dan fitnah, walaupun konon ke atas Anwar Ibrahim, tapi he is the Prime Minister yang mewakili institusi. So dia ada undang-undang tu.
 
-[81:10] Salim Iskandar: Dia panggil criminal defamation, I understand. Tapi why nak guna Akta Hasutan 1948?
+[1:21:10] Salim Iskandar: Dia panggil criminal defamation, I understand. Tapi why nak guna Akta Hasutan 1948?
 
-[81:11] Rafizi Ramli: Ha jadi jadi kita tak saya sebenarnya...
+[1:21:11] Rafizi Ramli: Ha jadi jadi kita tak saya sebenarnya...
 
-[81:15] Rafizi Ramli: But I I itu semua keputusan yang dibuat oleh oleh polis dengan AG sebenarnya. You can go and check none of us campur tangan.
+[1:21:15] Rafizi Ramli: But I I itu semua keputusan yang dibuat oleh oleh polis dengan AG sebenarnya. You can go and check none of us campur tangan.
 
-[81:24] Salim Iskandar: Akta Hasutan 1948 adalah manifesto PH dalam PRU15 untuk dihapuskan. Sepatutnya koyak benda tu, bakul sampahkan. Show us! Tolong!
+[1:21:24] Salim Iskandar: Akta Hasutan 1948 adalah manifesto PH dalam PRU15 untuk dihapuskan. Sepatutnya koyak benda tu, bakul sampahkan. Show us! Tolong!
 
-[81:34] Rafizi Ramli: Insya- Insya-Allah.
+[1:21:34] Rafizi Ramli: Insya- Insya-Allah.
 
-[81:36] Salim Iskandar: Tunjukkan kepada kami, buanglah akta tu.
+[1:21:36] Salim Iskandar: Tunjukkan kepada kami, buanglah akta tu.
 
-[81:37] Rafizi Ramli: Insya-Allah pada masa yang sesuai.
+[1:21:37] Rafizi Ramli: Insya-Allah pada masa yang sesuai.
 
-[81:39] Salim Iskandar: Oh, masa tersirat tak nak tak sesuai eh? Okeylah guys, thank you very much.
+[1:21:39] Salim Iskandar: Oh, masa tersirat tak nak tak sesuai eh? Okeylah guys, thank you very much.
 
-[81:44] Haziq Azfar: Okey, terima kasih. Assalamualaikum.
+[1:21:44] Haziq Azfar: Okey, terima kasih. Assalamualaikum.
 
-[81:46] Rafizi Ramli: Waalaikumussalam.
+[1:21:46] Rafizi Ramli: Waalaikumussalam.
 
-[81:47] Salim Iskandar: Waalaikumussalam.
+[1:21:47] Salim Iskandar: Waalaikumussalam.
 
-[81:48] [Music / Outro]
+[1:21:48] [Music / Outro]
 
