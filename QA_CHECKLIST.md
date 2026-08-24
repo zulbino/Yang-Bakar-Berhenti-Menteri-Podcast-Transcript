@@ -192,7 +192,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2025-10-17-ep18-yang-berhenti-menteri-episod-18
 - [x] 2025-10-24-ep19-yang-berhenti-menteri-episod-19
 - [x] 2025-10-31-ep20-yang-berhenti-menteri-episod-20
-- [x] 2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21 (models: raw.md=gemini-3.5-flash)
+- [x] 2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21 (models: raw.md=gemini-3.7-flash)
 - [x] 2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22 (models: raw.md=gemini-3.7-flash)
 - [x] 2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo
 - [x] 2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26 (models: raw.md=gemini-3.5-flash)
