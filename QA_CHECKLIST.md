@@ -11,7 +11,9 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-**
   - raw.md has 4 duplicate block(s) repeated verbatim at different timestamps (4123 chars, 7% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
 - [ ] **2025-09-05-ep12-yang-berhenti-menteri-episod-12**
-  - raw.md has 9 duplicate block(s) repeated verbatim at different timestamps (10913 chars, 12% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has a 24675-char block with no paragraph breaks (wall-of-text)
+  - raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content
+  - models: raw.md=gemini-3.5-flash
 - [ ] **2025-09-12-ep13-yang-berhenti-menteri-episod-13**
   - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (2600 chars, 4% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
 - [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
@@ -27,7 +29,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
   - interview.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
 - [ ] **2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.38/1000 chars, expected >= 1.0)
@@ -36,10 +38,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
   - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20510 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
 - [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
-  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (3624 chars, 7% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 6 duplicate block(s) repeated verbatim at different timestamps (3320 chars, 6% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
 - [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
