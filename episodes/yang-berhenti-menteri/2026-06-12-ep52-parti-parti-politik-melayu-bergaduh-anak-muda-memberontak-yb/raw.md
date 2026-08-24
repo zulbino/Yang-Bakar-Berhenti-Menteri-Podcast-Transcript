@@ -174,7 +174,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:55] Rafizi: Kalau views, ha bersabarlah kau orang eh. Kalau pun kau orang rasa bosannyalah budak dua orang tiga orang ni kan, ha silalah...
 
-[06:04] Farhan: Tap tap tap.
+[06:04] Farhan Iqbal: Tap tap tap.
 
 [06:05] Rafizi: [laughs] Tap tap tap.
 
@@ -184,7 +184,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [06:10] Haziq: Bolehlah. Tap tap skrin. Tap tap skrin.
 
-[06:13] Farhan: Tu yang...
+[06:13] Farhan Iqbal: Tu yang...
 
 [06:13] Rafizi: Itu lingo budak-budak ke? Lingo budak-budak, tap tap tap.
 
@@ -222,7 +222,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [06:51] Rafizi: Ha ah.
 
-[06:53] Farhan: Dan time tu tak ada tak ada format.
+[06:53] Farhan Iqbal: Dan time tu tak ada tak ada format.
 
 [06:56] Haziq: Ha tak ada format. Memang YB berentap dengan dia dulu. [laughs]
 
@@ -250,11 +250,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:35] Haziq: Farhan kenal tak selaku Bangsa Bangsar? Tapi tak ada kaitan.
 
-[07:37] Farhan: What? [laughter] Bangsa Bangsar.
+[07:37] Farhan Iqbal: What? [laughter] Bangsa Bangsar.
 
 [07:41] Rafizi: Tapi dia tak dia kau tak pernah ada kena-mengena dengan Bangsar kan?
 
-[07:44] Farhan: You were the one who gave me that title.
+[07:44] Farhan Iqbal: You were the one who gave me that title.
 
 [07:45] Rafizi: Oh ya ke? [laughter] Dia mana ada pernah kena-mengena dengan Bangsar.
 
@@ -264,7 +264,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:50] Haziq: Ya.
 
-[07:51] Farhan: I'm a Rawang boy.
+[07:51] Farhan Iqbal: I'm a Rawang boy.
 
 [07:52] Rafizi: Ha dia mana Rawang lagi. Siapa ni?
 
@@ -296,7 +296,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:05] Syuk: Nasi lemak, nasi lemak. Belas-belas. Nasi Lemak Village Park, Nasi Lemak kalau kat Bangsar orang Bangsar tahu Nasi Lemak Aris Manja semua kan.
 
-[09:12] Farhan: Aris Manja.
+[09:12] Farhan Iqbal: Aris Manja.
 
 [09:13] Haziq: Ha? Nasi Lemak Kasom. [laughs]
 
@@ -476,17 +476,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [17:57] Syuk: ...yang membaca pasal politik macam kenallah. Ha ah.
 
-[18:00] Farhan: Dan lawyers kan?
+[18:00] Farhan Iqbal: Dan lawyers kan?
 
 [18:01] Syuk: Ha?
 
-[18:02] Farhan: Dan lawyers kan?
+[18:02] Farhan Iqbal: Dan lawyers kan?
 
 [18:03] Syuk: Might be, might be.
 
 [18:04] Haziq: Lawyers?
 
-[18:04] Farhan: Lawyers yang duduk Bukit Bintang.
+[18:04] Farhan Iqbal: Lawyers yang duduk Bukit Bintang.
 
 [18:06] Syuk: Bukan akulah. [laughter]
 
@@ -504,7 +504,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [18:21] Rafizi: Lawyer bukan semua duduk-duduk dekat-dekat dengan mahkamah ke? Yang kau pergi duduk jauh-jauh tengah Bukit Bintang?
 
-[18:26] Farhan: Not necessarily.
+[18:26] Farhan Iqbal: Not necessarily.
 
 [18:27] Rafizi: Ya?
 
@@ -552,13 +552,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [19:50] Rafizi: Oh maksudnya team PR, public relation yang yang menguruskan ni memang Berialah. Kalau duit banyak, Berialah kan.
 
-[20:01] Farhan: Tetapi saya saya nampak gaya macam naratif yang dia trying to push ni ada gaya Farhash ni nak bertanding ke or something like that.
+[20:01] Farhan Iqbal: Tetapi saya saya nampak gaya macam naratif yang dia trying to push ni ada gaya Farhash ni nak bertanding ke or something like that.
 
 [20:11] Haziq: Diperkenalkan to public.
 
 [20:12] Syuk: Betul juga eh.
 
-[20:13] Farhan: Whitewashing sikit.
+[20:13] Farhan Iqbal: Whitewashing sikit.
 
 [20:15] Rafizi: Pejuang reformasi.
 
@@ -582,7 +582,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:50] Rafizi: Baik kita ambil alih jelah PR team tu, berapa nak bayar? [laughter] I think we can do a better job kut kan?
 
-[20:59] Farhan: Tapi principally tak nak kut.
+[20:59] Farhan Iqbal: Tapi principally tak nak kut.
 
 [21:00] Rafizi: Ha? Well, everything there is a price for everything. [laughter]
 
@@ -590,7 +590,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:08] Rafizi: Gurau saja.
 
-[21:09] Farhan: Nanti tiba-tiba kita dapat minta quotation.
+[21:09] Farhan Iqbal: Nanti tiba-tiba kita dapat minta quotation.
 
 [21:12] Rafizi: Tiba-tiba minggu depan tetamu misteri. [laughter] Disponsor oleh... [laughter]
 
@@ -602,7 +602,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:30] Syuk: I think kalau my circle...
 
-[21:31] Farhan: I think I think you have to ask orang muda because all this is pushed on news. Orang muda baca ke news?
+[21:31] Farhan Iqbal: I think I think you have to ask orang muda because all this is pushed on news. Orang muda baca ke news?
 
 [21:39] Zaim: Ha that's the point. Tu yang sebenarnya lagi Berialah. Farhash memanglah kenal, tapi yang lagi Beria adalah bila NGO tu keluarkan benda macam ni, orang takkan tengok, orang takkan baca.
 
@@ -784,7 +784,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [31:06] Rafizi: Sorry tak, Gen Z suka job-hopping, oh payah pilih calon ni. [laughter] Nanti lompat parti nanti kan?
 
-[31:12] Farhan: Tapi betul job-hopping tu. Keluar headline YBM Podcast kata Gen Z suka job-hopping.
+[31:12] Farhan Iqbal: Tapi betul job-hopping tu. Keluar headline YBM Podcast kata Gen Z suka job-hopping.
 
 [31:19] Rafizi: Tapi memang betul. That's that's the reality now. In fact I think Gen Z kalau dua tahun tu dah lama sangat dah.
 
@@ -804,7 +804,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:19] Haziq: Ha, alamak.
 
-[33:21] Farhan: Apa dia cakap?
+[33:21] Farhan Iqbal: Apa dia cakap?
 
 [33:21] Rafizi: "Baguslah!" [laughter] "Baguslah supaya dinosaur macam Puad Zarkashi dah tak jadi calon, pencenlah." Now, that's my answer. And itu tujuan kenapa kita buka pencalonan online. Sebabnya ialah bila kita gunakan cara biasa yang ada dalam parti-parti kat Malaysia ni kan, sebenarnya you you restrict the talent pool tu kepada sangat kecil tau. And maka orang yang you pilih tu sebenarnya more often than not hanya ada satu skill iaitu skill berpolitik. Sebab parti tu dia nak naik daripada bawah, nak jadi ketua cabang, ketua bahagian, nak jadi pimpinan negeri kan, sampai 10, 15 tahun makan masa dan dia kena kipas yang ke ataslah. And because of that, your pool tu sangat kecil kan. Jadi sebab itu orang tak suka kepada ahli politik. Sebab bila dia jadi ahli parlimen ke, jadi menteri, orang kata dia ni tak ada, you don't bring anything new or additional to the table. You tak boleh nak mentadbir ke, you tak faham ke apa kan. Sebab pool itu dah sangat kecil. Dan dia ada adverse impact kepada talent pool. Sebab kalau ada orang yang sebenarnya dia rasa dia boleh jadi wakil rakyat yang baik and sebenarnya dia ada kemahiran itu, dia boleh bercakap dengan baik, dia memang minat buat kerja-kerja membantu orang, mungkin dalam NGO ke atau aktivis, kemudian dia juga ada kelayakan yang baik dan dia nampak ikhlas. Tapi dia rasa, "Tak payah ha sebab why should I go through that yang separuh mati 10, 15 tahun and then I have to succumb to that political culture kan?" So we have to cast the net wider, tujuan dia kan. Jadi bagi sayalah, terutamanya kepada yang Gen Z dan millennials lah. Kalau you tak buat macam ini, macam mana you nak dapatkan calon-calon yang yang muda, yang berkebolehan, yang fresh? Bukan Farhash eh, fresh. [laughter] Yang fresh kan. So cara yang terbaik macam inilah.
 
@@ -812,9 +812,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [36:01] Rafizi: Tak actually not because of that. Not because of that. Sebab kalau dia tak post pasal aku, dia tak ada engagement. [laughter] Dia selalunya yang dia content dia tu yang jadi orang baca, orang komen ataupun jadi bahan laporan media bila dia komen pasal aku. Jadi kasihanlah kat Puad Zarkashi.
 
-[36:21] Farhan: Consistent YB.
+[36:21] Farhan Iqbal: Consistent YB.
 
-[36:22] Farhan: Sekarang ni memang musim sebut Rafizi kan? Sebab ramai orang komen pasal YB.
+[36:22] Farhan Iqbal: Sekarang ni memang musim sebut Rafizi kan? Sebab ramai orang komen pasal YB.
 
 [36:27] Haziq: Ha ah, tapi dia dari dulu kan YB waktu jadi Timbalan Menteri.
 
@@ -902,7 +902,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:42] Rafizi: Bukan. Ada ke kau tengok body language dia. Apa dia?
 
-[39:46] Farhan: The 90 juta tu is not direct cash.
+[39:46] Farhan Iqbal: The 90 juta tu is not direct cash.
 
 [39:48] Rafizi: No, no no no no. Okey ah, ini...
 
@@ -994,11 +994,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:59] Rafizi: AI, kau prompt supaya ada Hanayo ke apa ni?
 
-[51:02] Farhan: Tak, it's a Gemini generated image. Dan kebetulan ada gambar orang yang nampak macam Hanayo, tapi bukan Hanayo.
+[51:02] Farhan Iqbal: Tak, it's a Gemini generated image. Dan kebetulan ada gambar orang yang nampak macam Hanayo, tapi bukan Hanayo.
 
 [51:13] Rafizi: Okey alright. Yang kat tengah tu bukan Kamil Munim?
 
-[51:17] Farhan: Tak kut, sebab pakai spek kan.
+[51:17] Farhan Iqbal: Tak kut, sebab pakai spek kan.
 
 [51:19] Zaim: Saya rasa belah tepi tu nampak macam Farhash. [laughter]
 
@@ -1066,7 +1066,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:42] Rafizi: Gen X gaduh dengan Gen Z.
 
-[53:45] Farhan: Your generation has sosial media?
+[53:45] Farhan Iqbal: Your generation has sosial media?
 
 [53:46] Syuk: Yalah, when I was like 30 lah.
 
@@ -1208,7 +1208,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [62:26] Rafizi: Tapi tak apa, Dewan Dewan Rakyat telah disiap-sediakan untuk perkara itu. Sebab itu kerusi tu terlalu berat untuk dia orang... [laughter] Dia tak boleh campak langsung, buat macam mana pun kan. Kalau tidak, bahaya Gen Z dalam Dewan Rakyat terbang kerusi semua kan.
 
-[62:43] Farhan: Betul juga.
+[62:43] Farhan Iqbal: Betul juga.
 
 [62:44] Zaim: Tapi I don't think manjalah, dia susah nak katalah manja. Dia boleh boleh jadi manja actually, tapi I think dia jadi manja sebab apa macam ada generational gap ah. I mean like apa yang Gen Z rasa, maybe the parents tak tahu. So when that happen, so semudah kata macam, "Oh budak ni tak boleh nak buat sekian sekian sekian, budak ni manja." Sama juga contoh macam contoh kalau YB kan ada intern Gen Z tengah borak serius, dia reply pakai stiker. Apa reaksi YB?
 
@@ -1370,7 +1370,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [99:34] Rafizi: Tak eh?
 
-[99:35] Farhan: Dia Gen Y, millennial.
+[99:35] Farhan Iqbal: Dia Gen Y, millennial.
 
 [99:37] Rafizi: Oh millennial tau.
 
@@ -1402,17 +1402,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [100:48] Rafizi: Okey, Paan yang tua nak bercakap.
 
-[100:51] Farhan: Millennial. Saya nak tanya, actually Gen Z minat ke kepada politik dan basically are you guys following the politics of the nation?
+[100:51] Farhan Iqbal: Millennial. Saya nak tanya, actually Gen Z minat ke kepada politik dan basically are you guys following the politics of the nation?
 
 [101:02] Rafizi: Tapi dia kenal Farhash, mestilah dia follow.
 
-[101:05] Farhan: Okey, maybe actually ya you're right. Because this guys are somewhat politically inclined.
+[101:05] Farhan Iqbal: Okey, maybe actually ya you're right. Because this guys are somewhat politically inclined.
 
 [101:09] Haziq: Tapi to be fair dia orang memang politically literate lah.
 
 [101:13] Rafizi: Yalah, tapi mestilah dia ada kawan-kawan, ya tak?
 
-[101:15] Farhan: Among your friends, are you seeing that they are more like, "Ah I don't care," or macam they are interested and they want to know more?
+[101:15] Farhan Iqbal: Among your friends, are you seeing that they are more like, "Ah I don't care," or macam they are interested and they want to know more?
 
 [101:27] Zaim: I think that's a very good question ah. Tapi again, my bubble is bubble yang kita orang like study Political Science.
 
@@ -1432,11 +1432,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [105:05] Rafizi: Okey, Zaim tadi dia kata ha best kerja moderator malam ni. Bayar gaji aku nanti eh. Tadi kau cakap because you know even kalau people want to go through that process of political career kan, tapi lambat semua nak naik kan. So how do you explain kenapa anak muda tidak berbondong-bondong masuk ke dalam MUDA? Because then there is a MUDA, there is a parti MUDA. And actually kalau semua anak muda yang below 40 ni because 50% of our voters are below 41 macam tu kan, memang menanglah dia.
 
-[105:53] Farhan: But I think we saw something like that masa mobilization for banjir.
+[105:53] Farhan Iqbal: But I think we saw something like that masa mobilization for banjir.
 
 [106:01] Haziq: Tapi tak cukup banyak.
 
-[106:02] Farhan: No, but I mean that interest to go out, mobilize, "I want to be part of something." Cuma it died out lepas tu.
+[106:02] Farhan Iqbal: No, but I mean that interest to go out, mobilize, "I want to be part of something." Cuma it died out lepas tu.
 
 [106:10] Haziq: Yalah, waktu sekali tu aje kan ha.
 
@@ -1470,7 +1470,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [110:07] Syuk: Mini?
 
-[110:08] Farhan: Pernah tengok kat TV kan?
+[110:08] Farhan Iqbal: Pernah tengok kat TV kan?
 
 [110:09] Rafizi: Mini parlimen mini parlimen. Dia ada seorang pak cik nama dia Pak Cik Jamal kut, dia macam...
 
@@ -1556,11 +1556,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [114:06] Rafizi: Pukul dia lepas ni. [laughter]
 
-[114:09] Farhan: Kamera tutup. [laughter]
+[114:09] Farhan Iqbal: Kamera tutup. [laughter]
 
 [114:11] Rafizi: Tutup lampu lepas ni. Apa ni tak I mean so so when you say that orang tak bersetuju dengan political opinion dia, itu yang orang akan tanya, "Sebenarnya orang muda ni nak apa? You dah ada pemimpin yang muda, yang very popular, yang take all the boxes, lepas tu kau tak bersetuju pula dengan pandangan dia. Bukan ke pada umur itu yang dia sebut itulah yang orang muda nak?"
 
-[114:38] Farhan: Or maybe the issue is yes he's popular, tapi he doesn't bandwidth dengan wavelength tu lain daripada apa yang kau orang nak.
+[114:38] Farhan Iqbal: Or maybe the issue is yes he's popular, tapi he doesn't bandwidth dengan wavelength tu lain daripada apa yang kau orang nak.
 
 [114:47] Zaim: Ya ya ah. I think I think betul betul.
 
@@ -1572,11 +1572,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [115:08] Zaim: Practical in a sense like macam mana eh? Dia macam nak cakap pasal Bersama, tapi kita tak nak menjilat sangat. [laughter] Tapi contohlah macam apa yang Bersama bawa, a lot of it adalah something yang bila Gen Z dengar macam, "Oh ini benda yang aku nak tahu and aku nak dengar and aku tahu benda ni akan benefit aku."
 
-[115:23] Farhan: But what is it actually? I'm curious because I'm also trying to understand.
+[115:23] Farhan Iqbal: But what is it actually? I'm curious because I'm also trying to understand.
 
 [115:28] Rafizi: Kita tengah buat market research ni, kau orang aje tak sedar. [laughter]
 
-[115:31] Farhan: What is it actually yang betul-betul resonate?
+[115:31] Farhan Iqbal: What is it actually yang betul-betul resonate?
 
 [115:34] Haziq: Ni nama dia focus group, tapi dengan dua orang aje. FGD FGD.
 
@@ -1636,13 +1636,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [117:52] Syuk: Gen Z ni akan lebih menyampah kalau kita keep on macam MUDA guna nama MUDA, tapi apa sebenarnya agenda kau orang nak bawa untuk anak muda? So kalau keep on lepas ni ada MUDA 2.0, MUDA 3.0, anak muda akan macam, "Semua orang boleh mengaku muda, tapi tak ada seorang pun bawa isu anak muda." So benda tu akan jadi lebih membosankan untuk anak muda, so dia terus tak layan politik. So itu lagi bahayalah.
 
-[118:13] Farhan: What what about sayap-sayap pemuda parti yang dah establish?
+[118:13] Farhan Iqbal: What what about sayap-sayap pemuda parti yang dah establish?
 
 [118:17] Syuk: I think to be fair...
 
 [118:18] Zaim: Sambung balik tadi yang pasal isu Puad Zarkashi tulah. In the end dia akan jadi very dia archaic, rigid, kena follow bertahun-tahun baru you boleh naik jadi leader. Itu pun at that point you akan dah hilang that spark of Gen Z lah.
 
-[118:29] Farhan: Semua macam senior.
+[118:29] Farhan Iqbal: Semua macam senior.
 
 [118:31] Syuk: Mereka semakin berumur.
 
@@ -1666,7 +1666,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [119:40] Rafizi: Yang paling muda so far ialah 34 tahun.
 
-[119:43] Farhan: Okey, then I I want to pose a question lah sebab then again get your feedback on this so that maybe those yang tengah tengok ni will be sparked to apply. Would you say that orang bawah umur 30 tahun are too inexperienced?
+[119:43] Farhan Iqbal: Okey, then I I want to pose a question lah sebab then again get your feedback on this so that maybe those yang tengah tengok ni will be sparked to apply. Would you say that orang bawah umur 30 tahun are too inexperienced?
 
 [119:57] Rafizi: Tak tak tak, I think janganlah janganlah umur 22. But to me lah kan, kalau orang tu dah ada pengalaman bekerja lima enam tahun, maksudnya kalau dia bekerja 22 kan, 28, 29 tu, dia sebenarnya dah faham. Okey, dia memang belum ada cukup pengetahuan teknikal, that's quite true lah, pengetahuan teknikal mungkin tak cukup lagilah. But kemahiran menguruskan, kemahiran memimpin tu, dia chicken and egg. Dia dah ada basic, tapi kalau you tak bagi dia peluang, macam mana dia nak refine further apa nama ni kemahiran tu? I mean I'm to me lah kan, I consider myself lucky sebab aku jadi manager umur 25. Kan? Jadi memanglah I've and masa aku jadi manager, memang blur lah kan. Tapi I was given the opportunity. Memang betul it took me time untuk accumulate technical knowledge so that I have understanding industri macam ni macam ni and of course you go through that learning curve. Tapi sebenarnya the leadership skill itu bermula more or less menguruskan whatever that benefits me baik sebagai ahli politik ke, menteri ke apa, is because I had more time than other people to practice kan. Jadi I was given the chance. Jadi kalau contohnya kalau dia dah umur 28, 29, contohnya dia dah ada pengalaman kerja 27 semua kan, dia ada basic knowledge and skill yang kalau diberi peluang, dia punya learning curve leadership tu lebih tinggilah. Okey. Now, budaya yang salah yang ini yang criticism, my criticism terutamanya macam AMK because itu aku habiskan masa lamakan 28 tahun dalam parti itu kan. The problem is bila peluang menjadi pemimpin dalam sayap muda ni dalam mana-mana parti, dia datang dengan kedudukan besar. Daripada nothing kau sebenarnya budak aje yang mungkin baru kerja, tiba-tiba ada driver, tiba-tiba duit senang semua kan, you stop learning. So contohnya kan tiba-tiba you terus jadi menteri ke, timbalan menteri ke kan. And then you dikelilingi oleh pegawai-pegawai ni kan. Okey, on the leadership part maybe you know how to govern, you know how to give instruction semua kan. But if you stop learning on the technical bit, memang memang kau akan jadi timbalan menteri, menteri yang agak kurang kureng lah. [laughter] Agak kureng banyaklah because you don't even know benda tu kan. So yang kita nak ialah memberi ruang dan yang muda tu pun yang Gen Z ke apa, kalau contohnya you ada ahli parlimen umur 28 tahun kan, there are two streams of skill yang you kena develop ni. Satu ialah the leadership, maksudnya menguruskan orang dengan orang ramai semua kan. But you must know that the other stream which is the technical knowledge, so you kena belajar and just because you ahli parlimen doesn't mean that you know, you know. Kau kena baca, kau kena pergi belajar, kau kena betul-betul faham, gunakan peluang itu to learn as much as possible. If you can do that, then okeylah. Sebab itu negara-negara lain especially Scandinavian semua kan, memanglah prime minister dia umur 30-plus, early 40s semua because dia bagi ruang dan I think lah a lot of the politicians dalam negara-negara yang society dia begitu, they are very accountable to society. Jadi walaupun dia Perdana Menteri, walaupun dia menteri tapi umur dia 30 lebih, dia memang belajarlah. And and that's why it requires the smarter ones to be like that sebab dia punya learning curve tu adalah sangat tinggi kan. So but kita ada challenge because even contohnya kalau Bersama we try our best to fill because my view begini tau, bukan nak menang undi muda. Actually you know kita yang itu serah kat Allahlah menang kalah kan. It's just that a society that is led by people yang minority dan no longer connected to the largest group akan ada masalah. Kalau the largest group dalam negara ialah the younger ones below 41 years old, ini dah 50% of the population kan, tapi yang buat keputusan ni semua orang tua-tua, 70, 80. Bukannya aku anti orang tua. It's just that you know it's like kita kata dia dia tak faham. Dia memang no longer representative of what is needed by the population and then we have a problem. So but I can understand lah sebab yang muda mungkin dia rasa macam, "Saya masih lagi tak kuat, rumah pun tak beli lagi, tiba-tiba nak bertanding."
 
@@ -1788,7 +1788,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [135:45] Haziq: Kalau Akmal ke?
 
-[135:46] Farhan: Ni daripada gambar Hishammuddin...
+[135:46] Farhan Iqbal: Ni daripada gambar Hishammuddin...
 
 [135:50] Haziq: Oh Hishammuddin kucup keris. Hishammuddin 2 sen. Kita ada Zahid Hamidi.
 
@@ -1796,7 +1796,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [136:01] Haziq: Ha dan tak ada ha.
 
-[136:02] Farhan: Visual original lebih ramai orang, cuma kita orang nak buat sebab ada Gen Z ni kan, dia orang suka visual...
+[136:02] Farhan Iqbal: Visual original lebih ramai orang, cuma kita orang nak buat sebab ada Gen Z ni kan, dia orang suka visual...
 
 [136:08] Rafizi: Okey okey okey okey.
 
@@ -1848,11 +1848,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [145:49] Haziq: Ooh satu kenyataan yang berani.
 
-[145:51] Farhan: Gen millennial ke Dr. Akmal?
+[145:51] Farhan Iqbal: Gen millennial ke Dr. Akmal?
 
 [145:52] Rafizi: Dia millennial kan? Dia sama umur you kut, Paan?
 
-[145:55] Farhan: Kejap.
+[145:55] Farhan Iqbal: Kejap.
 
 [145:56] Syuk: Kalau KJ? Millennial lah.
 
@@ -1866,15 +1866,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [146:11] Zaim: Ya, sabar.
 
-[146:12] Farhan: Oh dia 37, tahun 88.
+[146:12] Farhan Iqbal: Oh dia 37, tahun 88.
 
 [146:14] Rafizi: 37, 88. Oh dia lagi tua ah?
 
-[146:17] Farhan: Hmm.
+[146:17] Farhan Iqbal: Hmm.
 
 [146:18] Rafizi: So dia millennials lah.
 
-[146:19] Farhan: Millennial.
+[146:19] Farhan Iqbal: Millennial.
 
 [146:21] Rafizi: So semua senyap, peraduan dinosaur jelah basically.
 
@@ -2048,11 +2048,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [169:36] Haziq: Okey.
 
-[169:36] Farhan: Pasal fundraising ticket tu?
+[169:36] Farhan Iqbal: Pasal fundraising ticket tu?
 
 [169:39] Rafizi: Tak apalah ha. Kita dah mula jual tiket, tapi mungkin kita minggu depanlah kut ha? Maksudnya one week before apa ni before the actual fundraising tu then kita kita run sekali lagilah.
 
-[169:58] Farhan: Okey.
+[169:58] Farhan Iqbal: Okey.
 
 [170:00] Haziq: Okey baik YB. Selamat malam, good night Zaim dan rakan-rakan. Good night semua.
 

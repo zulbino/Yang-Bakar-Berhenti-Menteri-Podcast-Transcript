@@ -13,11 +13,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[0:00] [Host] Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. Seperti biasa bersama saudara Rafizi Ramli. YB Rafizi, apa khabar? Okey?
+[0:00] [Haziq Azfar] Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. Seperti biasa bersama saudara Rafizi Ramli. YB Rafizi, apa khabar? Okey?
 
 [0:11] [Rafizi Ramli] Takkan tak okey kot.
 
-[0:13] [Host] Dan seperti biasa kena ada seorang lagi guest speaker iaitu saudara Faiz Ahmad. Apa khabar saudara?
+[0:13] [Haziq Azfar] Dan seperti biasa kena ada seorang lagi guest speaker iaitu saudara Faiz Ahmad. Apa khabar saudara?
 
 [0:19] [Faiz Ahmad] Baik. Dan terima kasih kepada YB sebab reply mesej saya.
 
@@ -25,17 +25,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [0:36] [Faiz Ahmad] Adoi. Sebab saya mesej YB Nik Nazmi dia tak reply, dia tengok aje. Kantoi ni.
 
-[0:43] [Host] Okey, baik. Saudara Faiz merupakan seorang pempengaruh dan pengulas ekonomi di TikTok, jadi siapa yang belum follow boleh follow. Cuma saudara Faiz, sebelum kita mula dengan macam-macam perbincangan, siapa Faiz Ahmad sebenarnya sebelum mula mengulas ekonomi ni?
+[0:43] [Haziq Azfar] Okey, baik. Saudara Faiz merupakan seorang pempengaruh dan pengulas ekonomi di TikTok, jadi siapa yang belum follow boleh follow. Cuma saudara Faiz, sebelum kita mula dengan macam-macam perbincangan, siapa Faiz Ahmad sebenarnya sebelum mula mengulas ekonomi ni?
 
 [0:58] [Faiz Ahmad] Saya bekerja sebagai market analyst untuk sebuah company global yang based dekat Taiwan selama 5 tahun. Saya bermula sebagai junior analyst, senior, dan akhirnya jadi chief analyst-lah. Kerja saya memang melihat ekonomi secara global. Sebelum ni saya memang tak sentuh langsung ekonomi Malaysia sebab saya tahu saya sentuh ekonomi Malaysia dia akan masuk bab politik. So saya menjarakkan dirilah. Tapi selepas saya resign, buat kerja sendiri, dan tiba-tiba ada orang tanya ekonomi Malaysia ni okey ke tak sebab naratif dekat luar semua kata ekonomi Malaysia teruk. Masa tu YB pun Menteri Ekonomi. So saya jawablah nak baca ekonomi ni dia punya basic memahami ekonomi. Dan dari situ orang mula kecam saya sebab saya mengatakan ekonomi Malaysia okey. Kecam tu bukan sikit, masuk mesej kau ni adalah melawan Islam, macam-macam.
 
 [1:51] [Rafizi Ramli] Dia sebab kau Kelantan. Kalau kau orang Selangor tak adalah kena kecam.
 
-[1:55] [Host] Degree memang ekonomi ke macam mana?
+[1:55] [Haziq Azfar] Degree memang ekonomi ke macam mana?
 
 [1:57] [Faiz Ahmad] Degree saya medical, medical lab. Lepas tu saya sambung master in medical forensic.
 
-[2:03] [Host] Medical forensic yang membedah mayat?
+[2:03] [Haziq Azfar] Medical forensic yang membedah mayat?
 
 [2:04] [Faiz Ahmad] Ha, saya 2 tahun dekat Institut Perubatan Forensik Negara buat kerja-kerja post-mortem-lah. Tapi saya bosan dengan mayat so saya berpindah field dan saya belajar sendiri, YB.
 
@@ -43,11 +43,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:24] [Faiz Ahmad] Mayat kecam dalam masa tidur.
 
-[2:28] [Host] Okey, baik. YB, last icebreaking. Bila...
+[2:28] [Haziq Azfar] Okey, baik. YB, last icebreaking. Bila...
 
 [2:33] [Rafizi Ramli] Ada icebreaking lagi? Aku dah berapa kali dah ni?
 
-[2:35] [Host] Bukan untuk YB-lah. Untuk kaitkan dengan kita punya guest speaker. YB bila pertama kali jumpa?
+[2:35] [Haziq Azfar] Bukan untuk YB-lah. Untuk kaitkan dengan kita punya guest speaker. YB bila pertama kali jumpa?
 
 [2:40] [Rafizi Ramli] No, dia dekat FYP-lah. Mana pernah jumpa, ni kali pertama. So aku cakap siapa...
 
@@ -55,27 +55,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:49] [Rafizi Ramli] Ceramah.
 
-[2:50] [Host] Kantoi lagi, ya.
+[2:50] [Haziq Azfar] Kantoi lagi, ya.
 
 [2:52] [Rafizi Ramli] I mean, I take notice tu masa dekat FYP-lah kan. So I said, I follow. Budak ni nak kena kecam ni kan. So from there, and it just so happened Faiz sent a message-lah. And kita memang, saya memang mengalu-alukan lebih banyak orang yang mengajak supaya sesuatu itu dikupas dengan objektiflah. Ada yang betul, ada yang salah kan. So I think it's a good addition.
 
-[3:25] [Host] Baik, baik, baik. Dan YB, since kita ada saudara Faiz pada malam ini, YB pun dalam dua tiga hari sebelum ni keluarkan kenyataan tentang Ayuh Malaysia untuk apa, membuat...
+[3:25] [Haziq Azfar] Baik, baik, baik. Dan YB, since kita ada saudara Faiz pada malam ini, YB pun dalam dua tiga hari sebelum ni keluarkan kenyataan tentang Ayuh Malaysia untuk apa, membuat...
 
 [3:36] [Rafizi Ramli] Oh, tu pasal kau pakai baju tu ek?
 
-[3:37] [Host] Tulah, baju tahun lepas.
+[3:37] [Haziq Azfar] Tulah, baju tahun lepas.
 
 [3:39] [Rafizi Ramli] Baju buruknya ya Allahuakbar.
 
-[3:41] [Host] Jadi baju tidur ya. So sekarang kena pakai balik. Talking about Ayuh Malaysia, YB nak buat balik social enterprise and I think discussion tentang third sector ekonomi atau social enterprise ni agak kuranglah dekat Malaysia, dan kita ada saudara Faiz. YB, walaupun dia agak kurang dan...
+[3:41] [Haziq Azfar] Jadi baju tidur ya. So sekarang kena pakai balik. Talking about Ayuh Malaysia, YB nak buat balik social enterprise and I think discussion tentang third sector ekonomi atau social enterprise ni agak kuranglah dekat Malaysia, dan kita ada saudara Faiz. YB, walaupun dia agak kurang dan...
 
 [3:59] [Rafizi Ramli] Nanti kau kena kecam tau sebab kau nak tanya soalan ni panjang pusingnya.
 
-[4:02] [Host] Okey, jadi saya pendekkan teruslah YB.
+[4:02] [Haziq Azfar] Okey, jadi saya pendekkan teruslah YB.
 
 [4:03] [Rafizi Ramli] Pendekkan, tanya soalan terus.
 
-[4:06] [Host] Kita dah ada social enterprise, YB, kat Malaysia. So how will Ayuh Malaysia make a difference?
+[4:06] [Haziq Azfar] Kita dah ada social enterprise, YB, kat Malaysia. So how will Ayuh Malaysia make a difference?
 
 [4:13] [Rafizi Ramli] Tak, social enterprise di Malaysia ni sangat kecil. Dari segi, satu dari segi skalanyalah kan, kedua dari segi impak dia, ketiga sebenarnya secara undang-undang ataupun secara model, social enterprise ni tak wujud lagi di Malaysia. Tidak ada undang-undang mengenai social enterprise. Dia kalau yang ada, sama ada syarikat yang bermotifkan keuntungan yang akan dicukai, dilayan sama macam syarikat berkeuntungan, ataupun dia kira pertubuhan bukan kerajaan yang tidak bermotif keuntungan. Tapi yang ini semua ada banyak kekangan, dia tak boleh buat aktiviti apa nama ni, yang yang melibatkan pendapatan. Kita ada koperasi, tapi undang-undang koperasi itu sangat rumit yang menyebabkan koperasi itu ada had dia untuk dia apa nama ni, ada kesan yang besar kepada masyarakatlah, kecuali beberapa koperasi-koperasi besar. Itu kerana organisasi tu besar. Koperasi Petronas ke, Koperasi TNB dan sebagainya kan. Jadi dari perspektif bahawa sebenarnya negara tak mampu lagi terus membesarkan saiz kerajaan dan perkhidmatan awam kita. Terutamanya dalam sektor-sektor yang melibatkan banyak khidmat masyarakat, contohnya penjagaan orang tua, ataupun yang melibatkan contohnya bantuan makanan, semua ni kan. Jadi di masa akan datang, kita memang akan terus ada kekangan yang saiz kerajaan itu tidak boleh dibesarkan. Jadi kita perlukan satu bentuk kegiatan ekonomi yang bermotifkan masyarakat, yang tidak mengambil keuntungan, tetapi dijalankan dengan dan diuruskan dengan cekap. Jadi dia akan mewujudkan peluang pekerjaan, dia sebenarnya akan melahirkan lebih ramai usahawan, dan pada masa yang sama dia akan melatih masyarakat kita untuk menjaga diri sendiri tanpa terlalu bergantung kepada khidmat kerajaan. Kerana kalau saiz kerajaan dan khidmat awam itu makin membesar tahun-tahun akan datang, maksudnya cukai juga akan dikutip makin banyak.
 
@@ -133,7 +133,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [16:51] [Faiz Ahmad] Sektor ketiga. Okey, faham.
 
-[16:53] [Host] Okey, baik. Jelas?
+[16:53] [Haziq Azfar] Okey, baik. Jelas?
 
 [16:54] [Faiz Ahmad] Jelas. Tak ada apa-apa lagi. Saya rasa idea nampak. Implementation tu mungkin YB adalah pioneer yang akan menggerakkan, baru kita boleh observe dan menilai.
 
@@ -149,7 +149,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [18:00] [Faiz Ahmad] Okey, clear.
 
-[18:01] [Host] Cuma YB, sikit. Dalam kenyataan, YB pun ada inform akan buat social enterprise sebanyak mungkin, dan ramai yang berminat untuk tanya how to join, how to contribute.
+[18:01] [Haziq Azfar] Cuma YB, sikit. Dalam kenyataan, YB pun ada inform akan buat social enterprise sebanyak mungkin, dan ramai yang berminat untuk tanya how to join, how to contribute.
 
 [18:11] [Rafizi Ramli] Yalah, sebab tu dia kena mula dulu. Dia selalunya dalam keadaan sekarang ni mungkin oleh kerana orang kurang faham lagi, jadi ramai yang berminatlah. Nanti seperti biasalah kan, minat tu nanti dia akan filter-lah kan. And then as as we know better, ada orang yang minat dia mungkin sebagai mentor kan. Ada orang terutamanya yang muda contohnya, minat dia mungkin sebagai operation partner tu. Maksudnya yalah bagi sayalah, daripada dia cari kerja kemudian dia dapat kerja gaji RM2,000, baik dia buat bisnes. Katakanlah dia punya pre-profit salary dia RM2,000, tapi paling kurang dia bos dia sendiri, kemudian dia ada upside dalam apa nama ni keuntungan. That is the same concept yang kita orang buat di dalam IPR tau, INTAN tu. Dia memang sudah ada pun, tapi saya tak panggil social enterprise-lah. The whole idea is, you know...
 
@@ -209,11 +209,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [24:13] [Rafizi Ramli] Kali terakhir kali terakhir saya bentangkan ialah saya ingat saya ingat Januari tahun nilah, dan masih lagi tidak dapat kata setuju kata putuslah kerana pandangan yang berbeza-beza. Dan by that time, MOF telah pun buat keputusanlah. Sebenarnya mereka tidak mahu menggunakan pindahan tunai, dia nak gunakan kad. Kad. Jadi bila gunakan kad, dia banyak operasi di bawah. Yang itu then keputusannya ialah dia akan dikendalikan sepenuhnya oleh Kementerian Kewanganlah. That one you kena tanya Kementerian Kewangan.
 
-[24:54] [Host] Baik, baik. YB, bercakap tentang isu Kementerian Kewangan, ada satu lagi yang...
+[24:54] [Haziq Azfar] Baik, baik. YB, bercakap tentang isu Kementerian Kewangan, ada satu lagi yang...
 
 [24:59] [Rafizi Ramli] Kenapa tanya apa pasal Kementerian Kewangan? Aku Menteri Ekonomi dulu.
 
-[25:03] [Host] Apa ni, dia dekat mainstream-lah sekarang YB, tentang SST dan harga baranglah kan. So saya cakap terus teranglah, saya nak minta tolong YB dan saudara Faiz bantu kerajaan terangkan isu ini.
+[25:03] [Haziq Azfar] Apa ni, dia dekat mainstream-lah sekarang YB, tentang SST dan harga baranglah kan. So saya cakap terus teranglah, saya nak minta tolong YB dan saudara Faiz bantu kerajaan terangkan isu ini.
 
 [25:16] [Rafizi Ramli] Faiz dah buat banyak kali dah.
 
@@ -397,7 +397,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:15:43] [Rafizi Ramli] Ha eh, ha.
 
-[1:15:44] [Host] Jadi inflasi ni dia ada apa ni, gap lah antara yang apa...
+[1:15:44] [Haziq Azfar] Jadi inflasi ni dia ada apa ni, gap lah antara yang apa...
 
 [1:15:48] [Rafizi Ramli] Dia unik kepada setiap negaralah. I mean saya I don't think you can tell sebenarnya ini hard and fast rule inflasi kena banyak ini. There's no such thing. Dia unik kepada pertumbuhan, profil dan sebagainya. Tetapi generally sepertilah semua benda dalam hidup kita, the extreme is bad. Kalau inflasi tu tinggi sangat is dangerous, kalau inflasi tu dah negatif, deflation, walaupun harga barang turun, kesannya ialah then it will destroy jobs, it will destroy the economy semualah. Jadi saya faham kalau orang kata kalau ekonomi tu inflasi itu secara berterusan rendahlah. I think the inflation tu mungkin mungkin kalau kita kekal dalam 1 to 2% tu I think tidak membimbangkanlah, itu yang kita nak kan. Yang yang kita kena tengok sebenarnya ialah Purchasing Managers' Index lah, PMI. Yang itu ialah apa nama ni dari segi indeks harga bisnes-bisnes kan, dia dia beli dan sebagainya tu kan. Kalau yang itu berterusan rendah, then I think itu ada lebih banyak correlation kepada pertumbuhan ekonomi.
 
@@ -429,19 +429,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:25:52] [Rafizi Ramli] Aku pun tak ingat nama dia orang ni. Dia orang duk panggil Chegubard, aku pun tak faham Chegubard ni apa dia kan. Jangan rendahkan akal rakyat. Kalaupun kita sokong parti kita, kita tak boleh ambil holier-than-thou. Yang parti aku adalah yang paling baik, kalau kau tak sokong kau bodoh dan jahat. It doesn't work like that. Kan, kita kena tunjukkan dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaan dia sekarang ialah is dalam tempoh berbaki 2 tahun ini dia dia bergantung juga macam mana kita menangani sentimen rakyat. Sebab kalaupun headline ekonomi bagus dan sebagainya, tapi kalau sentimen itu tidak ditangani dengan baik kerana rakyat rasa kerajaan itu terpisah, ataupun dia holier-than-thou, ataupun dia talking down kepada rakyat kan, jadi akhirnya dia jadi undi proteslah. Dan undi protes itu pernah berlaku tahun 2018. Sebab itu walaJib semua dia kata dia rindu zaman Najib, sebab angka contoh bagus 2017 was... 2017 was a good year economically contohnya. Jadi sebab itu Najib sangat yakin akan menang. Merdeka Center ke, analyst ke semua kata with this number, confirm menang. Tak, dia tak menang. Kerana dia ada gap di antara headline numbers dengan perasaan rakyat di bawah.
 
-[1:27:25] [Host] Cuma YB, with that, apa berkaitan dengan kita dah bincang...
+[1:27:25] [Haziq Azfar] Cuma YB, with that, apa berkaitan dengan kita dah bincang...
 
 [1:27:29] [Rafizi Ramli] Kau orang dua-dua orang bakar aku seorang malam ni. Bukan dia sepatutnya jadi panelis ke? Dia kena menjawablah kan?
 
 [1:27:33] [Faiz Ahmad] Betul. Saya nak bakar YB.
 
-[1:27:36] [Host] Dia nilai jawapan YB cukup okey atau terbakar atau tak, ha. YB sikit, tadi berkaitan dengan...
+[1:27:36] [Haziq Azfar] Dia nilai jawapan YB cukup okey atau terbakar atau tak, ha. YB sikit, tadi berkaitan dengan...
 
 [1:27:42] [Rafizi Ramli] Ada ada cubaan membakar.
 
 [1:27:44] [Faiz Ahmad] Ada satu lagi soalan bakar. Ha, ada lagi? Okey. Satu lagi.
 
-[1:27:49] [Host] Okey. Sentimen masyarakat. Kalau saya kita boleh tahulah, dalam komunikasi ekonomi kerajaan, apakah kesalahan paling besar dalam mana-mana kerajaan mengendalikan komunikasi untuk isu ekonomi?
+[1:27:49] [Haziq Azfar] Okey. Sentimen masyarakat. Kalau saya kita boleh tahulah, dalam komunikasi ekonomi kerajaan, apakah kesalahan paling besar dalam mana-mana kerajaan mengendalikan komunikasi untuk isu ekonomi?
 
 [1:28:06] [Rafizi Ramli] Tak tahulah. It's like because saya tak rasalah ada right and wrong kan. Dan isu komunikasi ni dia tak boleh diambil secara keseluruhan. Maksudnya you tak boleh kata... yang sentimen tadi kan, sentimen kan. You tak boleh kata everything tu has to be managed in silo. Yang ni komunikasi ekonomi, yang ni komunikasi Fahmi Fadzil, yang ni komunikasi ini. It just doesn't work like that sebenarnya. Jadi rakyat dia bukan fikir pasal pasal politik ni tiap-tiap hari. Dia melalui kehidupan dia dan dia tak ambil tahu pasal politik sangat pun, kecuali kecuali ada benda-benda salah yang kerajaan buat. Kalau kerajaan komunikasi baik semua, dia tak ambil pot pun. Kecuali sebab itu sangat penting supaya jangan condescending. Jangan dilihat sebagai holier-than-thou. Jangan apa nama ni kita, sebab saya faham di peringkat kerajaan kita preoccupied dengan makro ni. Preoccupied dengan apa nama ni phasing down hutang kerajaan ni kan, jadi maka fiscal glide, panggil fiscal glide ni kena berlaku tahun ini banyak mana, tahun ni banyak mana kan. Yang itu memang cabaran jadi kerajaanlah. Tetapi itu bukan kepentingan rakyat. Dia tak peduli benda tu kan, hutang semua kan. Dan rakyat yang lain kumpulan, dia berbeza-beza kan. Jadi apa nama ni sebab itu kalaulah saya ingat komunikasi pasal ekonomi yang perlu perlu diperbaiki oleh mana-mana kerajaanlah, satu yang kita buat nilah. Ekonomi ni sebenarnya tak adalah susah, tapi oleh kerana orang rasa susah, jadi dia rasa komplekslah.
 
@@ -507,11 +507,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:46:16] [Faiz Ahmad] Fair enough.
 
-[1:46:17] [Host] Meaning to say apa yang...
+[1:46:17] [Haziq Azfar] Meaning to say apa yang...
 
 [1:46:18] [Rafizi Ramli] Kau nak tambah lagi?
 
-[1:46:20] [Host] Kita break Faizal Rahman punya rekod, tapi tak adalah, kita akan end kejap lagilah. Meaning to say apa yang YB bangkitkan dalam seminggu dua ini telah pun YB gunakan saluran dalam sebelum ini.
+[1:46:20] [Haziq Azfar] Kita break Faizal Rahman punya rekod, tapi tak adalah, kita akan end kejap lagilah. Meaning to say apa yang YB bangkitkan dalam seminggu dua ini telah pun YB gunakan saluran dalam sebelum ini.
 
 [1:46:33] [Rafizi Ramli] Dia saluran dalam ni kan okey, kalau dalam parti kerajaanlah, hanya ada dua saluran dalam yang rasmi. Satu kalau ada mesyuarat di peringkat partilah. Kalau macam PKR, sama ada di Biro Politik ataupun di MPP. Kalau dekat peringkat PH, di peringkat Majlis Presidenlah. Itu di peringkat parti, saluran dalam saluran rasmi kan. Satu lagi saluran ialah di kabinetlah kan. Jadi tapi kebanyakan daripada perbincangan ini, dia one-to-one. Kan. Jadi saya rasa semua yang perlu disebut telah disebut kan. Jadi kan ha jadi finally the ball was on in my court sebenarnya. What do I do kerana saya dah tahu, dia sama contohnya kan pasal perbezaan pendapat pasal subsidi bersasar kan. Pandangan saya ialah cara yang terbaik ialah melalui pindahan tunai bulanan menggunakan kaedah pendapatan boleh belanja bersih yang membeza-bezakan mengikut daerah, saiz keluarga semua. Pandangan itu tidak dipersetujui oleh contohnya Kementerian Kewangan kan. So I've exhausted everything, I know keputusan kerajaan adalah berlainan daripada yang saya sebut kan. Then kalau saya stay, then I have to really support that. If I feel that okey, I don't want to be in the way, you go ahead, then the best thing is for me to withdraw.
 
@@ -541,7 +541,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:50:43] [Faiz Ahmad] Okey, fair enough.
 
-[1:50:44] [Host] Baik, puas hati? Okey, 1 jam 50 minit yang produktif.
+[1:50:44] [Haziq Azfar] Baik, puas hati? Okey, 1 jam 50 minit yang produktif.
 
 [1:50:48] [Faiz Ahmad] Saya anggap ini adalah pembelajaran politik saya pada YB lah, sebab saya pun baru...
 
@@ -551,13 +551,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:50:58] [Rafizi Ramli] Janganlah dengar daripada aku, pergilah belajar daripada Mujahid ke, Hatta ke kan, dia orang lagi lama kan. Belajar kalau pergi tanya Dr. Hatta, dia kata dia memang kaki lawan, janganlah ikut dia.
 
-[1:51:12] [Host] Baik, baik. Menarik. Saya rasa itu saja pada malam ini. Mungkin kita berjumpa lagi pada minggu hadapan.
+[1:51:12] [Haziq Azfar] Baik, baik. Menarik. Saya rasa itu saja pada malam ini. Mungkin kita berjumpa lagi pada minggu hadapan.
 
 [1:51:20] [Rafizi Ramli] Tak sabar nak balik rumahlah ni ha.
 
-[1:51:22] [Host] Terima kasih banyak Faiz sebab datang. Kita tunggu siapa lagi guest speaker kita akan datang. Itu saja daripada kita. Assalamualaikum, selamat malam.
+[1:51:22] [Haziq Azfar] Terima kasih banyak Faiz sebab datang. Kita tunggu siapa lagi guest speaker kita akan datang. Itu saja daripada kita. Assalamualaikum, selamat malam.
 
 [1:51:29] [Rafizi Ramli] Macam slow aje cakap nak tutup tu.
 
-[1:51:32] [Host] Selamat malam! Lawan tetap... Tukar baju...
+[1:51:32] [Haziq Azfar] Selamat malam! Lawan tetap... Tukar baju...
 

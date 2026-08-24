@@ -16,11 +16,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Music / Intro]
 
-[00:54] Farhan: Assalamualaikum dan salam sejahtera. Selamat malam, walaupun kita record pada pagi.
+[00:54] Farhan Iqbal: Assalamualaikum dan salam sejahtera. Selamat malam, walaupun kita record pada pagi.
 
 [00:59] YB Rafizi: Tak payahlah cakap kat orang kita record pagi.
 
-[01:02] Farhan: Pura-pura sikit. Pura-pura sikit. Kena pandai berlakon sedikit. Macam tak ada. Episode ke-39, macam biasa bersama saudara Rafizi Ramli dan kita ada saudara Iqbal.
+[01:02] Farhan Iqbal: Pura-pura sikit. Pura-pura sikit. Kena pandai berlakon sedikit. Macam tak ada. Episode ke-39, macam biasa bersama saudara Rafizi Ramli dan kita ada saudara Iqbal.
 
 [01:17] YB Rafizi: Kenapa kita jemput Iqbal saja selalu balik? Orang lain kecil hati tau. Yang kita pernah jemput sebelum ni, tapi dia orang perasan Iqbal ni dah tiga, empat kali dijemput. Kenapa nama mereka tak dijemput balik? Ke sebab orang lain duduk di luar KL?
 
@@ -28,13 +28,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:37] YB Rafizi: Okay, itu boleh lah. Alasan yang pelik.
 
-[01:43] Farhan: Tidak meyakinkan. Ini macam jawapan kerajaan mengenai korporat mafia saja ni.
+[01:43] Farhan Iqbal: Tidak meyakinkan. Ini macam jawapan kerajaan mengenai korporat mafia saja ni.
 
 [01:48] Iqbal: Tapi banyak isu-isu boleh diterangkan dengan alasan daddy issues. So daddy issues.
 
 [01:53] YB Rafizi: Daddy issues, faham. So daddy issues juga lah. Okay, all right.
 
-[02:00] Farhan: Dan YB Raf mungkin tak berapa sihat?
+[02:00] Farhan Iqbal: Dan YB Raf mungkin tak berapa sihat?
 
 [02:02] YB Rafizi: Saya demam dan suara serak. Lately memang panas kan. Malaysia dry spell ni sampai ke June kan. Dan tapi YB akan spill cerita yang agak panas lah. Yalah, saya demam hari ini. Jadi production team kata tak apalah, kita skip lah seminggu. Aku tahu dia orang kerja nak skip je. Next week, next week. Oh, next week. All right, skip kan. Tapi masalahnya sebab isu yang sedang berlaku dalam minggu lepas, dalam tempoh seminggu yang lepas tu adalah isu yang sangat panas dan penting. Dan saya tak rasa ada podcast atau kumpulan lain yang mungkin akan menyebut perkara-perkara ini lah, kerana dia akan mengundang tindakan saman dan sebagainya. Jadi kalau kita tak teruskan, maksudnya lepas raya semua dia akan habis begitu sahaja lah.
 
@@ -42,7 +42,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [03:12] YB Rafizi: Jumlah saman. Jumlah saman. Tak berapa dah, 4.5 dah. Ini semua salah podcast ni.
 
-[03:21] Farhan: Okay baik YB. Kita ke segmen yang pertama. Beria. Beria sangat. Tapi dia orang semua macam biasalah puasa. YB, tak berapa larat. Kita tengok lah beria ke tak. Yang pertama. Dengar tazkirah dari Timbalan Pengerusi Biro Agama PKR. Tapi bukan isu tazkirah ni, isu penglibatan YB Nga Kor Ming.
+[03:21] Farhan Iqbal: Okay baik YB. Kita ke segmen yang pertama. Beria. Beria sangat. Tapi dia orang semua macam biasalah puasa. YB, tak berapa larat. Kita tengok lah beria ke tak. Yang pertama. Dengar tazkirah dari Timbalan Pengerusi Biro Agama PKR. Tapi bukan isu tazkirah ni, isu penglibatan YB Nga Kor Ming.
 
 [03:46] YB Rafizi: YB Nga Kor Ming duduk bersimpul mendengar tazkirah. Iqbal punya komen? Kau yang DAP.
 
@@ -50,11 +50,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [04:08] YB Rafizi: Komen-komen apa nama ni, netizen di Twitter. "Lakonan semata-mata yang kurang cerdik je yang akan mudah terpedaya. Ini kita doakan agar hati Nga Kor Ming dilembutkan agar dapat memeluk Islam dan memahami Islam." "Alhamdulillah, tarbiyah mantap." Oh, yang ini yang menyokong lah. "Sepatutnya Melayu Islam menyokong dan memuji, tetapi ini dok sakit hati pula. Bagus." So, kau punya pandangan? Sebelum nak komen lagi ni, tanya, tanya Farhan dulu lah. Komen?
 
-[04:44] Farhan: Komen saya? Kami masukkan sebab selalunya yang kuat, I hate the word 'mengampu', tapi kuat mengampu ni Nga Kor Ming. So, macam ada segmen rakyat yang nampak dia buat macam ni, dia kata "Oh dia ni bukan main lagi. Semua benda dia nak mengampu."
+[04:44] Farhan Iqbal: Komen saya? Kami masukkan sebab selalunya yang kuat, I hate the word 'mengampu', tapi kuat mengampu ni Nga Kor Ming. So, macam ada segmen rakyat yang nampak dia buat macam ni, dia kata "Oh dia ni bukan main lagi. Semua benda dia nak mengampu."
 
 [05:04] YB Rafizi: So dia with that context lah, bukannya maksudnya orang yang bukan Islam dengar ceramah. Okay kan, it's okay.
 
-[05:13] Farhan: Tapi ada juga konteks tu.
+[05:13] Farhan Iqbal: Tapi ada juga konteks tu.
 
 [05:15] YB Rafizi: Ha sebab di kalangan sebahagian Melayu terutamanya yang yang lebih konservatif lah, mereka ada isu apabila ahli politik terutamanya yang bukan Islam dilihat seperti menunggang Islam untuk mendapatkan undi. Jadi menunggang Islam ini bukan sahaja kita kata terhadap PAS tau, yang Melayu pun. Sebenarnya dia memerhati kalau ada ahli politik bukan Melayu yang lebih-lebih sangat. Contohnya rujukan kepada Khalifah Umar Abdul Aziz, dia bukan faham apa pun Khalifah Umar Abdul Aziz. Rujukan kalau kadang-kadang nak pakai petikan ayat sana-sini. Kau tengok aku pun, jarang menggunakan petikan ayat Al-Quran ataupun hadis. Bukannya sebab sebab aku bukan Islam ke, ataupun aku tak minat agama ke apa. Tetapi bagi sesetengah kitalah yang Islam, kita faham bahawa ilmu yang diperlukan untuk mengulas dan memetik sesuatu ayat itu mestilah begitu dalam. Karena dia mestilah dalam konteks yang betul, dia mesti dalam pemahaman yang betul kan. Jadi kita bukan boleh main Google dan ambil letak sahaja. Before you say something about satu ayat, you kena faham tau apa latar belakang dia, ayat ni turun dekat Mekah ke Madinah, apa dia dan sama ada kita nak rujuk itu betul-betul sesuai ke tidak. Jadi dalam konteks itu, antara banyak-banyak pimpinan DAP yang paling trigger happy pasal perkara-perkara itu adalah Nga Kor Ming. Jadi dia ada konotasi yang lain. Mungkin sebahagian melihat tindakan dia ni beria-ia mengampu Datuk Seri Anwar lah. Tapi sebahagian yang lain tu memang rasa bahawa Nga Kor Ming ni tersangat trigger happy dalam perkara-perkara yang bersabit dengan agama Islam yang sebenarnya dia pun tak faham dan sepatutnya tidak menunggang untuk menunjukkan dia ni kira boleh dapatkan undi Melayulah.
 
@@ -62,15 +62,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:21] YB Rafizi: Tapi pandangan sayalah kan, sebenarnya yang kurang selesa apabila bukan Islam nampak trigger happy untuk memetik sesuatu mengenai agama Islam tanpa kefahaman yang besar, itu adalah agak meluas di kalangan orang Melayu dan orang Islam. Dia bukan pandangan walaun semata-mata. Sebab kita pun sangat berhati-hati. Dan pandangan sayalah, kalau saya memetik sesuatu mengenai agama lain, Kristian ke, saya nak komen pasal Trinity, ikut suka aku pandai-pandai, aku tak faham hujung pangkal, orang lain pun marah kan. Jadi sebenarnya budaya harmoni, saling menghormati agama yang lain itu bukanlah bermakna kita ikut suka kita apa ni embrace dan petik dan tunjuk kononnya aku hargai semua agama yang lain. Menghormatinya maksudnya juga tidak campur tangan tau kalau tak tahu. Dan itu saya ingat pandangan yang agak menyeluruh dengan orang Melayu dan Islam. Mungkin belum ada yang tegur Nga Kor Ming mengenai perkara itulah. Satu perkara yang sepatutnya Nga Kor Ming balik dan hadam betul-betul, kalau dia dan DAP nak perbaiki imej terutamanya dengan pengundi biasa, pengundi Melayu biasa, bukan pengundi PAS ke, pengundi Melayu biasa, dia kena hentikan beria-ia buat benda ni. Kerana dia kena jauhkan daripada trigger happy sangat untuk dilihat menunggang perkara-perkara yang Islam, yang Melayu kan. Jadi dia mungkin rasalah, kalau tanya Nga Kor Ming, dia duduk kat sebelah saya kat Parlimen kan, dia rasa itu akan mempromosikan dia sebagai rapat dengan Melayu dan sebagainya kan. Sebab itu sesuatu yang kita buat, dia kena bersederhana, dia tak boleh beria-ia. Jadi dalam hal ini masalah Nga Kor Ming, dia nampak terlalu beria-ia sehingga menimbulkan negatif persepsi lah. Dan di kalangan pimpinan DAP, yang paling negatif reputasi dan juga imej dengan pengundi Melayu adalah Nga Kor Ming. Dan sebahagiannya ialah berkaitan juga dengan perkara-perkara seperti ini lah.
 
-[11:01] Farhan: Beria.
+[11:01] Farhan Iqbal: Beria.
 
 [11:02] Iqbal: Beria. Dan topik ni boleh mendalam lagi dari segi democratization of perbincangan-perbincangan Islam semua tapi mungkin tak cukup masa.
 
-[11:10] Farhan: Tetamu tetap kita dah menunggu.
+[11:10] Farhan Iqbal: Tetamu tetap kita dah menunggu.
 
 [11:13] YB Rafizi: Oh ya, yang mahal tu sebab duduk bersimpul.
 
-[11:21] Farhan: Beria umum berita baik. Dah tulis siap-siap beria. Belum confirm lagi. Tapi berialah kot ya. Ini ada dua pengumuman YB. Pengumuman daripada Kementerian Pendidikan tentang cuti tambahan sempena Hari Raya yang memang sudah ada dalam takwim. Dan kemudian pengumuman daripada Perdana Menteri lah, yang ditunggu-tunggu rakyat.
+[11:21] Farhan Iqbal: Beria umum berita baik. Dah tulis siap-siap beria. Belum confirm lagi. Tapi berialah kot ya. Ini ada dua pengumuman YB. Pengumuman daripada Kementerian Pendidikan tentang cuti tambahan sempena Hari Raya yang memang sudah ada dalam takwim. Dan kemudian pengumuman daripada Perdana Menteri lah, yang ditunggu-tunggu rakyat.
 
 [11:42] YB Rafizi: Itu marah Fathiah Noor. "Tak payahlah nak bodek sangat. Benda dah keluar awal kat takwim persekolahan cuti perayaan dah beritahu siap-siap. Next!" Yang ini Iqbal tahu konteks dia?
 
@@ -78,7 +78,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [11:57] YB Rafizi: Yang ini pengumuman yang dibuat dikeluarkan kenyataan medialah berkaitan cuti tambahan Hari Raya. Tapi yalah, jump, dia jump. Lepas ni aku jadi moderator lah. Sebelum itu, cuti tambah, dia konteks dia begini Iqbal kan, dia bermula dengan Kementerian Pendidikan lah.
 
-[12:20] Farhan: Ah ya ya ya.
+[12:20] Farhan Iqbal: Ah ya ya ya.
 
 [12:21] YB Rafizi: Kementerian Pendidikan mengumumkan, kan dalam tempoh seminggu yang lepas ada berita yang akan ada berita-berita baik untuk rakyat Malaysia menjelang raya. Jadi dia bermula dengan pengumuman cuti sekolah oleh Kementerian Pendidikan. Cuti sekolah tu seolah-olah macam berita baik, macam cuti rayalah. Sebenarnya cuti tu memang dah ada daripada awal. Jadi orang komen lah, netizen betul-betul hentam lah, "Ini bukan berita baik, memang dah masuk dalam takwim sekolah pun daripada dulu kita tahu kan."
 
@@ -102,19 +102,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [16:36] YB Rafizi: Satu-satunya pengumuman yang kita tunggu setiap tahun ialah pengumuman raya. Jadi tak ada, you know kerajaan ni dia tak ada. Jadi dan Kedekut eh, tak ada pembaharuan? Tak, bukan sahaja soal kedekut tau, maksudnya sistem kerajaan itu tidak dipolitikkan. Mungking lah ada orang akan kata mungkin dia agak elit lah. Maksudnya kerajaan berjalan macam mana kita ikut proses, kalau nak masuk sekolah asrama penuh, you mohon. Jadi dia tak ada isu, masa tu pun tak ada sosial media, jadi tak bising kan. Dia hanya mula menjadi perlumbaan gula-gula ni apabila political contestation menjadi semakin sengit. Yaitu daripada 2008 lah. Bila dah ada Pakatan Rakyat / Pakatan Harapan bermula 2008 kan, ambil contoh bonus. Kerajaan Negeri Selangor, Pulau Pinang masa itu umumkan kita bagi 3 bulan bonus. Jadi orang pun tengok kepada kerajaan BN, kau nak bagi apa? Oh dia pun kena bagi. So, so then dia mula, which is I think in the beginning dia agak baiklah kerana dia menjadikan parti-parti politik berlumba-lumba untuk memberi tawaran yang terbaik kepada rakyat. Tapi selepas hampir 20 tahun, kita nak kena letak guard rails lah. Dia dah jadi macam ini kan. Apa nama cuti sekolah yang memang dah cuti sekolah pun, kamu nak umum sebagai berita baik sebagai gula-gula kan. Jadi dia nak kena kembali di mana political contestation itu mestilah berasaskan dasar yang lebih besar. Bukannya pengumuman-pengumuman yang sikit-sikit, in piece meal, yang berkaitan dengan urusan-urusan pentadbiran. Soal cuti ni urusan pentadbiran. Kan, kan? Saya bimbang kalau Malaysia kita memilih kerajaan berdasarkan siapa yang umum cuti lebih. Mampus kita. Dan akan ada orang yang akan mengundi dengan itu rasional dia. Saya harap tak lah. I hope not lah kan.
 
-[18:55] Farhan: So beria, beria. Beria-berialah. Okay. Next.
+[18:55] Farhan Iqbal: So beria, beria. Beria-berialah. Okay. Next.
 
 [19:00] YB Rafizi: Power juga minggu ni. So far beria.
 
-[19:04] Farhan: 1MDB bukan malapetaka tapi persepsi. Ini saya tak... Saya terlepas pandang ni masa bila ni?
+[19:04] Farhan Iqbal: 1MDB bukan malapetaka tapi persepsi. Ini saya tak... Saya terlepas pandang ni masa bila ni?
 
 [19:12] YB Rafizi: Ini dalam beberapa dua minggu lepas rasanya.
 
-[19:15] Farhan: Masa masa di Parlimen, di sidang Parlimen?
+[19:15] Farhan Iqbal: Masa masa di Parlimen, di sidang Parlimen?
 
 [19:17] YB Rafizi: So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[19:24] Farhan: Bukan malapetaka, ini persepsi sahaja. Dan banyaklah kebaikan yang 1MDB dah buat, kita ada Klinik 1Malaysia, kita ada... Ah itu lah yang dia cakap.
+[19:24] Farhan Iqbal: Bukan malapetaka, ini persepsi sahaja. Dan banyaklah kebaikan yang 1MDB dah buat, kita ada Klinik 1Malaysia, kita ada... Ah itu lah yang dia cakap.
 
 [19:33] YB Rafizi: Ha? Klinik 1Malaysia? Apa kena-mengena Klinik 1Malaysia dengan 1MDB nya? Kedai Rakyat 1Malaysia dengan 1MDB? Kena tanya Tuan Ampunya Badan. Saya bimbang dengan kemahiran berfikir ahli-ahli Parlimen kita. Sebab dia tak ada. Yang yang Klinik Malaysia, Klinik 1Malaysia, Kedai 1Malaysia semua tu, itu semua di bawah gagasan Kempen 1Malaysia Datuk Seri Najib yang menggunakan uang rakyat pun daripada Belanjawan Kerajaan. Dia tak ada kena-mengena. Bukannya 1MDB yang membiayai semua tu kan. Kalau orang kampung dekat Ulu Tenggara tak faham, faham lah. Tapi kalau ahli Parlimennya membawa cerita, beria-ia sangatlah kot. Tak tahu, Iqbal?
 
@@ -122,15 +122,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:36] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak akukah apa kau ambil tu?
 
-[20:53] Farhan: Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia.
+[20:53] Farhan Iqbal: Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia.
 
 [20:57] YB Rafizi: Itu semua tak ada kena-mengena dengan 1MDB. So, dan dia keluar dalam BNTV?
 
-[21:04] Farhan: Ya.
+[21:04] Farhan Iqbal: Ya.
 
 [21:05] YB Rafizi: Oh, Allahuakhbar. Ini mungkin pulang kembali kepada topik sebelum ni iaitu pasal gula-gula yang kalau orang nampak je ada gula-gula terus dia distracted dengan apa, apa masalah besar yang telah berlaku. Tak, tak. Saya I actually kan, yalah kita akan ada pengundi tegarlah sesuatu parti yang mari macam mana pun dia sokong kan. Tapi pemahaman dan juga observation sayalah, pemerhatian saya kepada pengundi-pengundi sebenarnya they look at much deeper issues. Tak kisahlah Melayu ke, Cina ke, India kan. Ambil contoh yang Melayu kan. Masalah mereka dengan contohnya PH atau Datuk Seri Anwar ataupun DAP kan. Memang betul ada yang tegarlah, sama ada dia perkauman ataupun kalau PAS saja dia akan sokong 100% kan. Tapi yang atas pagar Melayu yang tidak menyokong PH itu, dia ada satu isu yang perlu diselesaikan. Kita mungkin bersetuju ataupun tidak bersetuju dengan pandangan dia, tapi pandangan dia tu adalah valid tau. Pandangan dia ialah soal trust deficit Datuk Seri Anwar. Adakah Datuk Seri Anwar oleh kerana dia sangat nak jadi Perdana Menteri, adakah dia akan buat keputusan yang untuk jangka masa panjang? Kerana kebimbangan trust deficit itu, kalau dia terdesak nak jadi Perdana Menteri, maka dia akan setuju dengan semua dan apa-apa yang pada pandangan mereka boleh menjejaskan juga kepentingan Melayu kan. Tapi isu dia ialah trust deficit. And to be fair to them, kita nak marah dia macam mana pun, sekarang ini isu trust deficit itu memang betul-betul berlakulah kan. Jadi saya letihlah nak mendengar dia orang cakap, "I told you so." kan. Jadi maksudnya, walaupun komen dia tu nampak macam perkauman, nampak macam ini, tapi if you distill it much further, sebenarnya ada isu trust deficit. Actually it's the same thing pasal non-Melayu. Kenapa non-Melayu ada masalah dengan soal PAS, soal UMNO, ataupun sekarang ni soal PH and DAP sendiri kan? Dia bukan semata-mata tengok, "Oh saya suka Nga Kor Ming, oh saya suka Cina, oh saya suka Anwar." Tak ada tau. Actually there's the kalau tengok komen-komen, saya sekarang banyak habiskan masa juga membaca komen-komen netizen di media Cina.
 
-[23:56] Farhan: Hm.
+[23:56] Farhan Iqbal: Hm.
 
 [23:57] YB Rafizi: Sebab sekarang ada Google Translate. Dulu tak boleh kan. Dia komen banyak dalam Mandarin, and then you just click lah, you baca go through kan. I was very surprised kerana di antara komen mengenai politik oleh pengundi Cina banding pengundi Melayu, pengundi Cina jauh lebih deep tau.
 
@@ -142,7 +142,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:05] YB Rafizi: Well, I I I tak rasalah nama ni pandangan itu representative kepada pandangan rakyat. Dan saya tak rasa revision of pencapaian Datuk Seri Najib tu akan ada banyak kesan kepada prospek BN. Cuma dari semasa ke semasa, oleh kerana politik ni dynamic kan, kalau contohnya pengundi-pengundi mula membuat perbandingan dengan Datuk Seri Najib dulu ke, mungkin Najib lebih baik ke, ataupun mungkin Pak Lah lebih baik ke, sebenarnya it is an indictment against the present government. Dia sebenarnya timbal balik kan. Orang mula merasakan bahawa mungkinlah dulu lebih baik. So it doesn't necessarily mean itu akan translate kepada keputusan undi nanti. Tetapi dia sebagai satu luahan akibat daripada rasa kurang senang dengan prestasi kerajaan yang ada sekaranglah. And that is, I think, will happen from time to time. Mana-mana kerajaan pun kalau tidak berhati-hati dan akan ada sentimen perbandingan itulah. But setakat inilah, I don't think is easy to make a comeback. For for I think moving forward, dan itu yang kita perlukan sebagai sebuah negara dan masyarakat, we need to be able to learn to move on. Kalau kita tak boleh kembali kepada perkara-perkara lama, pimpinan lama, we need to move on lah kan.
 
-[28:51] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[28:51] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [28:56] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
@@ -157,21 +157,21 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [29:15] Iqbal: Double park, ada yang dia kata dihalang jalan, contohlah. Mungkin dia stress dengan orang macam tu.
 
-[29:24] Farhan: Jadi sebenarnya dia baiklah, sebab yang buat hal tu kereta tu. Memang nampak betul-betul dia pakai letak tengah jalan ikut suka dialah.
+[29:24] Farhan Iqbal: Jadi sebenarnya dia baiklah, sebab yang buat hal tu kereta tu. Memang nampak betul-betul dia pakai letak tengah jalan ikut suka dialah.
 
 [29:34] YB Rafizi: Tapi bukan dengan cara tulah kot.
 
-[29:37] Farhan: Ketuk, "Maaf, anda melakukan kesilapan. Jangan ulang lagi."
+[29:37] Farhan Iqbal: Ketuk, "Maaf, anda melakukan kesilapan. Jangan ulang lagi."
 
 [29:42] Iqbal: Dekat Rusia, dia orang ada satu group ni. Bila salah parking ataupun double park ataupun block, dia orang tampal stiker yang memang tak boleh koyak kat windscreen. Maybe kita boleh start tu.
 
 [30:03] YB Rafizi: Saya faham sedikit sebanyak perasaan, bukannya aku faham kena pergi jadi samseng rosakkan semua ni kan. Sebab dekat my office tu memang kita ada tiga, ada empat parking untuk kamilah, dan memang ada label besar-besar, dah cat semua kan. Tapi orang kita dengan selamba je, dia block macam tu.
 
-[30:29] Farhan: Dia bukan parking lah, dia block.
+[30:29] Farhan Iqbal: Dia bukan parking lah, dia block.
 
 [30:31] YB Rafizi: Dia block, dia block ha. Macam tu je kan. Jadi kau sampailah, ya Allah. Jadi pak pengawal tu dia akan jadi serba salah lah, kerana dia dah cuba sedaya upaya, tapi orang kita ni memang muka selamba. Jadi if anything yang beria ni, bukanlah sangat soal yang samseng dia tu satu hal lah kan, tapi yang beria ni perangai orang kita. Kau tengok yang ini kan, dia beria je muka selamba letak tengah jalan kereta tu. And so many people are like this tau, inconsiderate. Kemudian bila ada orang tak puas hati, dia pergi jadi samseng macam tu pun jadi beria jugalah kan. Jadi I I don't know, one of the things pet hate sayalah eh, ialah how do you inculcate, menanam semangat sivik yang lebih baiklah. Sebab civic consciousness kat Malaysia ni, sama macam kita nak melintas jalanlah. Dah memang zebra crossing. Zebra crossing tu sepatutnya tak payah tunggu orang berhenti kan, memang jalan kita jalan. Cuba kau jalan kat sini, silap-silap kena langgar. Tak berani aku. Tunggu kiri kanan semua. Jadi zebra crossing yang kita kena tunggu kiri kanan tengok semua ni memang defeats the purpose lah. Tapi sebab itu memang budaya kitalah kerana what it tells is that civic consciousness is very low.
 
-[32:05] Farhan: Beria.
+[32:05] Farhan Iqbal: Beria.
 
 [32:06] YB Rafizi: Semua beria lah. Janganlah salahkan pakcik tu saja, sebab kita tak tahu latar belakang. Tapi bila dah sepak dan rosakkan kereta orang macam tu, then ya lah, I don't know, maybe kot, tapi kalau kena kat kereta, tapi aku tak apa sebab insya-Allah tak kena kat kereta akulah kan. Tapi kalau ada gerakan macam itu tampal stiker...
 
@@ -179,27 +179,27 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [32:31] YB Rafizi: Tapi dia boleh buat laporan polis kot, merosakkan harta dia.
 
-[32:34] Farhan: Susah tu.
+[32:34] Farhan Iqbal: Susah tu.
 
 [32:35] Iqbal: Dekat Rusia tu dia memang ada sampai bergaduh tu ada. Sebab stiker tak boleh cabut.
 
-[32:39] Farhan: Tapi kita boleh inculcate civic mindedness, kalau buat macam tu tapi yalah, on the right price lah kan. Jadi kurang beria lah yang ini. Kita pun macam, eh malas nak komen lah.
+[32:39] Farhan Iqbal: Tapi kita boleh inculcate civic mindedness, kalau buat macam tu tapi yalah, on the right price lah kan. Jadi kurang beria lah yang ini. Kita pun macam, eh malas nak komen lah.
 
 [32:53] YB Rafizi: Okay.
 
-[32:54] Farhan: Okay, last.
+[32:54] Farhan Iqbal: Okay, last.
 
 [32:56] YB Rafizi: Ada lagi?
 
-[32:57] Farhan: Ada lah.
+[32:57] Farhan Iqbal: Ada lah.
 
 [32:58] YB Rafizi: Ha.
 
-[33:00] Farhan: Zionis sudah, orang kawan media sudah, kini ancaman anak muda.
+[33:00] Farhan Iqbal: Zionis sudah, orang kawan media sudah, kini ancaman anak muda.
 
 [33:06] YB Rafizi: Oh ini rentetan dalam tempoh seminggu lebih yang lepas. Perdana Menteri Datuk Seri Anwar mengeluarkan bermacam-macam amaran kan. Mula amaran Zionis kan. Kemudian ada satu lagi amaran, berhati-hati kerana orang-orang kaya dan elit mengawal media. Aku dalam hati kata, memanglah, tapi dia patut beritahu kepada Datuk Seri Johari Ghani kawan baik dialah. Sebab media yang di orang kaya yang mengawal media ialah tu kawan baik dia yang dia lantik tu, Johari Ghani. Dia kawal Media Prima, dia kawal kita dimaklumkan dia kawal FMT dan yang lain-lain semua kan. Jadi Datuk Seri Anwar sepatutnya sebelum bagi peringatan amaran kepada negara ini, dia kena bagi peringatan kepada rakan kabinet dia dulu lah. Dan yang terkini ialah kini ancaman anak muda pula. PM warns of teen extremist threat. Ni extremist threat teen yang macam mana ni? Budak-budak pakai kopiah ke apa?
 
-[34:16] Farhan: Saya pun...
+[34:16] Farhan Iqbal: Saya pun...
 
 [34:17] YB Rafizi: Kita dah terlalu stress lah. Dia banyak sangat extremism.
 
@@ -211,51 +211,51 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [34:35] YB Rafizi: Dan tak tahu lah itu dikira ancaman anak muda juga.
 
-[34:38] Farhan: Tak, itu yang rentetan daripada Zionis dengan media tu. Ancaman Zionis dan juga ancaman media orang-orang kaya dan elit menggunakan medialah, dia ambil NGO, academics, academician dipanggil kan.
+[34:38] Farhan Iqbal: Tak, itu yang rentetan daripada Zionis dengan media tu. Ancaman Zionis dan juga ancaman media orang-orang kaya dan elit menggunakan medialah, dia ambil NGO, academics, academician dipanggil kan.
 
 [34:52] YB Rafizi: Jadi ada orang tanya akulah, kenapa Datuk Seri Anwar, aku tak tahu lah, aku the last time cakap dengan dia satu tahun lepas kan.
 
-[35:01] Farhan: Oh, dalam Murni.
+[35:01] Farhan Iqbal: Oh, dalam Murni.
 
 [35:02] YB Rafizi: Yalah, orang semua dah tahu. Dah setahun tak bercakap. Last time bercakap dengan dia must be bulan lima. Yalah bulan lima, awal bulan limalah kan, 11 May I think, 11 May 2025.
 
-[35:19] Farhan: Hm.
+[35:19] Farhan Iqbal: Hm.
 
 [35:20] YB Rafizi: Yelah, masa the last meeting dekat rumah dialah. And by that time aku dah already tutup bukulah. Dia je tak perasan. Dia je ingat, "Yes, I've convinced him." kan. Aku dalam hati after that meeting I said, I think it's already water under the bridge lah. You know, we'll go our separate ways. Anyway, so orang tanyalah, kenapa Datuk Seri Anwar ni kebelakangan ni cepat sangat marah? Semua marah. Wartawan tanya pun kena marah, orang tu pun kena marah. Kemudian semua ucapan dia, ucapan amaran sana, amaran sini kan. Jarang sangat keluar benda yang manis, yang lembut kan. Sebabnya, sebab dia tertekanlah. Dan kalau wartawan tanya tu, kalau dia marah balik terutamanya macam soalan macam Tan Sri Azam Baki kan, pengalaman saya ialah selalunya kalau dia marah balik tu sebab you betul. Sebab dia tak ada hujah dah dia nak jawab. Jadi sebolehnya dia berharap kau jangan tanyalah. Sebab kalau tanya nanti aku tak ada jawapan, jadi cara aku menjawab aku marah balik engkaulah kan. Jadi selalunya bila dia marah-marah semua tu maksudnya itu soalan yang baiklah kerana bull's eye lah. So yang ini ni pun beria-ia kan Datuk Seri Anwar nak deflect soal ancaman itu, ancaman ini. Dan saya buka The Sun punya tu, dia memang a very 5 paragraph short. Dia cuma kata sebabnya ini adalah pendedahan daripada IGP. Itu saja. Dia macam selitlah dalam ucapan dia. Konteks semua tu kita tak tahu apa. Tak tahu apa-apa. Tapi Datuk Seri Anwar tak boleh nak marahkan kalau rakyat akan melihat ini sebagai beria-ia bercerita pasal ancaman demi ancamanlah dalam keadaan yang rakyat macam, eh kita macam tak faham ancaman anak muda yang mana macam mana pula ni kan. Satu-satunya ancaman anak muda yang ada dekat kawasan aku ni rempit. Kan, dia naik motor selalu nak berlanggar saja kan. Yang lain tu tak faham lah kan.
 
-[37:40] Farhan: Okay. Kita habiskan segment ini YB, 36 minit.
+[37:40] Farhan Iqbal: Okay. Kita habiskan segment ini YB, 36 minit.
 
 [37:44] YB Rafizi: Tak apalah, kita move on lah.
 
-[37:46] Farhan: YB nak rate ke?
+[37:46] Farhan Iqbal: YB nak rate ke?
 
 [37:47] YB Rafizi: Tak tahu, so Iqbal lah. Kena rate ke minggu ni?
 
-[37:50] Farhan: Bagi Iqbal lah YB.
+[37:50] Farhan Iqbal: Bagi Iqbal lah YB.
 
 [37:51] Iqbal: Ni nampak macam beria.
 
-[37:52] Farhan: Oh yang ini.
+[37:52] Farhan Iqbal: Oh yang ini.
 
 [37:53] YB Rafizi: Oh yang ini. Terus menang. Terus menang, okay? So PM menang. Tahniah.
 
-[38:03] Farhan: Last week siapa yang menang? Last week Dr. Sam. Oh, wow. Adil lah kau orang eh. PM menang, PH menang. Okay.
+[38:03] Farhan Iqbal: Last week siapa yang menang? Last week Dr. Sam. Oh, wow. Adil lah kau orang eh. PM menang, PH menang. Okay.
 
 [38:14] YB Rafizi: Fuu Yooo!
 
-[38:15] Farhan: Kita bawa Fuu Yooo ke depan sedikit lah. Okay, kita ada satu. Anthropic versus Trump. Ini isu yang tak adalah baru sangat, bermula dari Januari pun. Apabila Pentagon, Pentagon ni macam defense US lah, kalau bukan Wisma Putra, kita Kementerian Luar. Pentagon tu defense, Secretary of Defense punya tempat.
+[38:15] Farhan Iqbal: Kita bawa Fuu Yooo ke depan sedikit lah. Okay, kita ada satu. Anthropic versus Trump. Ini isu yang tak adalah baru sangat, bermula dari Januari pun. Apabila Pentagon, Pentagon ni macam defense US lah, kalau bukan Wisma Putra, kita Kementerian Luar. Pentagon tu defense, Secretary of Defense punya tempat.
 
 [38:43] YB Rafizi: MinDef lah.
 
-[38:44] Farhan: Ah yalah, MinDef, ah MinDef, ya ya.
+[38:44] Farhan Iqbal: Ah yalah, MinDef, ah MinDef, ya ya.
 
 [38:46] Iqbal: Wisma Putra is Foreign.
 
-[38:48] Farhan: Pentagon mahu dia nak gunakan model Anthropic tu, Cloud.
+[38:48] Farhan Iqbal: Pentagon mahu dia nak gunakan model Anthropic tu, Cloud.
 
 [38:52] YB Rafizi: Dia bukan nak menggunakan. Memang Anthropic Cloud punya model tu memang dah digunakan. Memang original contract dia memang dengan Anthropic.
 
-[39:08] Farhan: Dan cuma yalah, dia ada isu AI ethics sikit kat sini kan. Untuk analisis perisikan, simulasi perang, keselamatan siber, tapi bila nak pergi sejauh itu, nak cross filter tu, Anthropic pun bagi tahu ada policy responsible use. Tak boleh, ada certain benda yang mereka tak boleh nak gunakan teknologi untuk kekerasan, untuk senjata, dan akses AI tu untuk melatih untuk benda-benda yang seperti ini. Jadi dia ada isu juga lah, sejauh mana kita boleh kawal guard rails tu. Adakah Haziq dengan helikopter Pentagon ni tak tahu nak landing kat mana ni?
+[39:08] Farhan Iqbal: Dan cuma yalah, dia ada isu AI ethics sikit kat sini kan. Untuk analisis perisikan, simulasi perang, keselamatan siber, tapi bila nak pergi sejauh itu, nak cross filter tu, Anthropic pun bagi tahu ada policy responsible use. Tak boleh, ada certain benda yang mereka tak boleh nak gunakan teknologi untuk kekerasan, untuk senjata, dan akses AI tu untuk melatih untuk benda-benda yang seperti ini. Jadi dia ada isu juga lah, sejauh mana kita boleh kawal guard rails tu. Adakah Haziq dengan helikopter Pentagon ni tak tahu nak landing kat mana ni?
 
 [39:52] YB Rafizi: Nak landing susah YB. Iqbal, how much do you know about this?
 
@@ -271,33 +271,33 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [40:25] Iqbal: Terus lepas nampak berita tu, saya tak try Claude lagi lah. Tapi the bigger issue is this. Okay, sebenarnya yang aku tunggu Haziq nak landing semua tu. Ini sudah tentu dia timbul kerana for the first time ada perang yang betul-betul berlaku, serangan kepada Iran...
 
-[40:47] Farhan: Ya.
+[40:47] Farhan Iqbal: Ya.
 
 [40:48] YB Rafizi: ...yang mana AI jadi very dominant.
 
-[40:50] Farhan: Mm-hmm.
+[40:50] Farhan Iqbal: Mm-hmm.
 
 [40:51] YB Rafizi: Jadi, dalam perang sekarang ini, sebelum ini memang Pentagon menggunakan Claude, Anthropic. Dia punya modeling tu dia pakai melalui Claude. Dan apa guna Claude sebelum ini? Dalam bentuk-bentuk perang yang macam mana yang menggunakan Claude?
 
-[41:10] Farhan: Buat decision untuk...
+[41:10] Farhan Iqbal: Buat decision untuk...
 
 [41:12] YB Rafizi: Is it buat decision? I mean assist untuk...
 
-[41:14] Farhan: Assist untuk buat decision untuk...
+[41:14] Farhan Iqbal: Assist untuk buat decision untuk...
 
 [41:16] YB Rafizi: ...apa ni...
 
-[41:17] Farhan: ...on defense punya...
+[41:17] Farhan Iqbal: ...on defense punya...
 
 [41:19] YB Rafizi: Dia yang paling penting ialah target identification. Target identification kan. Contohnya, you know kawasan mana yang nak diserang, yang itu betul-betul military target ke tidak, itu civilian target ke tidak, semua kan. Dia menggunakan banyak maklumat semualah. So kalau you ada satu AI model that can pull all daripada GPS, daripada even satellite punya photo semua, and then if it's real time semua, then dia membantu kenal pasti target. Okay. So dekat mana yang Anthropic... And then yang lain tu banyaklah. Contohnya, once you dah kenal pasti target, you dah tahu dia punya apa nama ni, latitude, longitude kan, then everything will fit in into the drone and then everything untuk pergi serang kan. So dekat mana sebenarnya yang isu dengan Anthropic ni yang dia orang berkeras sehingga dia jadi satu isu besar yang akan mewarnai AI di masa sekarang dan akan datang? Masalahnya kita, kita kat Malaysia ni oblivious lah. Perang Iran ni bukan sahaja soal Iran, Israel semualah. Ada juga perkara yang besar iaitu for the first time, AI is deployed at war, dan dia menimbulkan satu isu etikal yang sangat besar. So what exactly is that kehendak Pentagon yang Anthropic berkeras sampai dia jadi musuh utama kerajaan US ni?
 
-[43:11] Farhan: Yang saya faham dekat on part guard rails tu, sebab kalau kita guna sebagai pengguna yang ChatGPT biasa ni, ada certain benda bila kita suruh dia prompt semua, dia takkan keluar kan semua benda. Sebab dia yalah, ada ethics dia apa semua. Tapi untuk mereka ni mereka nak go overboard benda itu. Itu yang tak dipersetujui.
+[43:11] Farhan Iqbal: Yang saya faham dekat on part guard rails tu, sebab kalau kita guna sebagai pengguna yang ChatGPT biasa ni, ada certain benda bila kita suruh dia prompt semua, dia takkan keluar kan semua benda. Sebab dia yalah, ada ethics dia apa semua. Tapi untuk mereka ni mereka nak go overboard benda itu. Itu yang tak dipersetujui.
 
 [43:32] YB Rafizi: My understanding is on the mass domestic surveillance part lah, which is...
 
 [43:39] YB Rafizi: Itu satu lah. Okay, itu satu bahagian lah. Tapi guard rails ni maksudnya ada beberapa ethical lines yang tidak boleh dilanggar. Okay, so satu guard rails yang macam Farhan sebut tadi, Anthropic berkeras bahawa model AI mereka, Claude, tidak boleh digunakan untuk domestic surveillance. Yang itu Pentagon berkeraslah, dia nak juga kan. Tapi yang paling besar mengenai perang Vietnam, eh perang Vietnam pulak, perang Iran ni yang akan ada kesan kepada kita semua ialah soal do you leave it all the way to AI? Atau pun the final decision to strike and to kill must be with human being?
 
-[44:33] Farhan: Mm-hmm.
+[44:33] Farhan Iqbal: Mm-hmm.
 
 [44:34] YB Rafizi: Jadi Anthropic punya, it's a big ethical issue. Because you tengok apa nama ni, Star Wars kan, Droid Wars kan, contohnya kan. In the future, Terminator ke apa semua kan. Anthropic punya berkeras, and that is actually I think is a global ethical guard rails dalam AI jugalah. Dalam perkara-perkara yang melibatkan nyawa. It's not just sebenarnya perang tau. It's also medical. Contohnya, anything yang melibatkan nyawa. Medical, even autonomous driving in the future. Apa-apa yang melibatkan nyawa, keputusan akhir itu mestilah berada di tangan manusia. You cannot leave robot ataupun AI membuat keputusan sendiri mengenai nyawa manusia. Jadi kalau dalam soal perang sekarang kan, yang Pentagon nak ialah kalau Claude dah kenal pasti model semua tu dekat mana nak strike semua kan, actually they can decide on their own to strike and kill. So...
 
@@ -325,15 +325,15 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [48:02] YB Rafizi: No, there's no, there's no international law kan. Sebab tu soal AI ethics ni, I think only Europe is legislating it. Sebab tu kita kat Malaysia ni kadang-kadang, kita selalu ketinggalan lah. Kita dok pusing benda-benda kecil, benda-benda yang remeh-temeh kan. Sedangkan hidup kita ni akan dikawal oleh semua tech giants kan. Samalah macam masa Padu dulu kan. Hidup bising pasal, "Oh, nanti keselamatan datalah, itulah semua kebocoran semua." Bukannya benda tu tak penting, tapi benda itu remeh-temeh tak masuk akal kan. Data tu semua memang dah ada dalam database kerajaan pun. Bukannya kau bagi yang baru, kita minta kau semak sahaja. Kemudian yang lebih besar, "Oh, kau dok bising pasal yang kau daftar dengan kerajaan kan. Yang tiap-tiap hari Google dok track engkau tu." Contohnya aku sekarang selalu dapat content pasal rambut botak. Bukannya aku Google pasal rambut botak. That's because we've been talking about it. Meaning that our devices listen to us. Semua percakapan kita, they listen tau. So, that's how they understand us. Kalau now we use pasal ChatGPT kan, everything about us, kalau the more confidential information you discuss, you know, pasal your, apa nama, kekasih gelap ke, dok bincang dengan ChatGPT, they know everything. So, all these ethical issues are severe ethical issues kan. They are spying on every one of us kan. Jadi, negara kita tak sampai pun lagi berbincang mengenai ethical guard rails untuk AI model, apatah lagi nak bincang pasal undang-undang. And I know I think only EU is pushing it seriously about the ethical legislation to govern ethics in AI lah. Dan bila perang, benda-benda macam ni keluarlah. Sama juga dengan doktor nanti, perubatan. Of course you tak boleh lawan AI dengan doktorlah, AI lagi lajulah, dia boleh fikir semua ni kan. So kalau nanti dah ada robot yang boleh, boleh, boleh buat operation, do you leave it to them completely? Kan, sebab jadi ini antara perkara-perkara yang, yang sebenarnya di Malaysia ni, selain daripada kita dok bergaduh pasal korporat mafia and so on and so forth kan, sekali-sekala lah, pandangan rakyat tu tak boleh lari juga daripada benda-benda macam ini. Jadi sebab itu bila kita pilih ahli-ahli Parlimen, pilih menteri-menteri kan, kehendak di masa hadapan itu adalah sangat tinggi berbanding daripada sekarang. Dia tak boleh setakat semata-mata jenis tunjuk muka bersalam sini, kerana complexity of issues dalam zaman kita ini tak sama macam dulu. You know, dan antara complexity paling besar ialah soal ethics in AI lah, yang sekarang ini satu dunia bising pasal Anthropic, kami kat Malaysia ni tak ada apa-apa pun. Orang tak ambil tahu pun kan. That's why we discuss, I think we should at least selitkan jugalah pasal Anthropic ni supaya rakyat Malaysia mereka yang menonton, actually faham ada much bigger issue kan.
 
-[51:33] Farhan: Okay.
+[51:33] Farhan Iqbal: Okay.
 
 [51:34] Iqbal: Okay.
 
-[51:35] Farhan: Baik. Kita ke segmen Hidup Keras. Kita ada few, banyak juga YB. Kita start dengan yang pertama.
+[51:35] Farhan Iqbal: Baik. Kita ke segmen Hidup Keras. Kita ada few, banyak juga YB. Kita start dengan yang pertama.
 
 [51:44] YB Rafizi: Ini panas-panas kan minggu ni kan, orang pun tunggu kan.
 
-[51:47] Farhan: Perang Teluk versi ketiga. Stress test bagi Malaysia.
+[51:47] Farhan Iqbal: Perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [51:53] YB Rafizi: Dia yang paling nakal komen-komen bila ada sidang media tu kan, aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -341,11 +341,11 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [52:23] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[52:26] Farhan: Dan ya lah, kita nak lihat impak kepada Malaysia YB, dan banyaklah respon daripada kerajaan-kerajaan dari luar negara. Ada yang kata respon-respon tu knee-jerk reaction, macam ya lah, ada yang berkenaan work from home dan sebagainya. Kita dan dikatakan pada pagi ini mesyuarat Kabinet akan bincang benda itulah. Jadi kita tak tahu lah keputusan dia apa. Cuma kita nak melihat dengan secara lebih mendalamlah tentang kesan kepada ekonomi kita dan akhirnya adalah tentang apa ni dasar-dasar yang kerajaan dah perkenalkan sebelum ini seperti BUDI95, adakah sustainable ataupun kerajaan perlu berbuat sesuatu selepas ini.
+[52:26] Farhan Iqbal: Dan ya lah, kita nak lihat impak kepada Malaysia YB, dan banyaklah respon daripada kerajaan-kerajaan dari luar negara. Ada yang kata respon-respon tu knee-jerk reaction, macam ya lah, ada yang berkenaan work from home dan sebagainya. Kita dan dikatakan pada pagi ini mesyuarat Kabinet akan bincang benda itulah. Jadi kita tak tahu lah keputusan dia apa. Cuma kita nak melihat dengan secara lebih mendalamlah tentang kesan kepada ekonomi kita dan akhirnya adalah tentang apa ni dasar-dasar yang kerajaan dah perkenalkan sebelum ini seperti BUDI95, adakah sustainable ataupun kerajaan perlu berbuat sesuatu selepas ini.
 
 [53:17] YB Rafizi: Ya lah, dia kesan itu sangat dirasai di seluruh dunia dan Malaysia ni kita insulated sedikit lah. Kita hidup dalam bubble kita. Sebab tu hidup rakyat kita sekarang ini macam tak ada beza lah, macam tak ada perang kan. Di negara lain harga minyak dah naik meningkat kan. Dan oleh kerana kebanyakan negara lain mereka bukan negara pengeluar minyak, jadi yang mereka paling bimbang ialah stok simpanan minyak mereka kekal berapa hari. Jadi I think Pakistan tinggal berapa minggu je kot. Kan, ada negara tinggal dalam 70 hari, ada 100 hari kan. Jadi kalau perang ni berlarutan dua, tiga bulan lagi kan, jadi dan minyak ini bukan semata-mata soal gasoline lah, dia tenaga, elektrikiti kan. Tapi walaupun dari segi kehidupan harian rakyat kita tu masih lagi belum terganggu macam di negara-negara lain, kesan dia kepada ekonomi tu dah mula nampaklah. Kesan yang pertama ialah sudah tentu kepada mata wang. Kita tengok mata wang yang sebelum ini mengukuh, mengukuh, mengukuh, dia sekarang ni dia dah terhenti di situlah. Dia kekal antara 3.95, 3.93 kan. Sebelum perang dia dah mencecah 3.89. Ya lah. Jadi sebabnya ialah apabila perang berlakulah, maka setiap kali ada perang ataupun apa-apa krisis ya, itu dilihat sebagai ketidaktentuan, uncertainty. Dan selalunya reaksi di dunia oleh pelabur-pelabur, oleh pasaranlah. Bila kita sebut pasaran ini, maknanya mereka yang menentukan dekat mana uang-uang itu akan disimpan atau dipegang kan. Reaksi pasaran selalunya ialah mencari tempat yang paling selamat. Dan tempat yang paling selamat ialah Dolar. Jadi sebab itu bila berlaku perang ini, Dolar mengukuh baliknya daripada dua, tiga minggu sebelum itu yang Dolar lemah kan. Jadi kita tak tahu sejauh mana perkara ini akan berlanjutan. Kalau 2 bulan, 3 bulan, 4 bulan, maka Dolar akan mungkin akan terus mengukuh dan segala naratif mengenai pengukuhan ekonomi negara dalam tempoh 4, 5 bulan akan datang ni dia jadi kurang menentulah. Apa-apa yang yang telah berlaku sebelum ini kalau kita kata pengukuhan sebab A, sebab B, sebab C kan. Jadi kalau ringgit kembali turun kepada katakanlah RM4.10, RM4.20. Dan itu akan menyukarkan kerajaan untuk mempertahankan dan menerangkan kembalilah, asas-asas yang dikatakan penyumbang kepada pengukuhan ringgitlah kan. Dan kita dah boleh nampak kepada Bursa lah. Bila ada perang seperti ini, sudah tentu dia ada ketidaktentuan. Gangguan kepada pasaran ini menyebabkan pasaran akan mula mengagihkan kembali dana mereka. Basically prestasi pasaran saham di mana-mana ni, dia sebenarnya is a function of asset allocation. Dia mungkinkah apa nama ni tak ramai di kalangan kita yang biasa menjadi pengurus dana kan. Kalau pengurus dana di New York ataupun di London kan, dia bukannya tengok, "Aaa, aku nak beli syarikat Iqbal." Ini tak ada. Dia selalunya dia tengok kepada dia mengikut kepada pasaran. Satu dia kira developed market, emerging market. So mungkin dia kata, "Okay, kali ini kita push sikit 10% extra kepada emerging market." Daripada emerging market tu, ah yang Malaysia ada kat situ kan. Jadi dia mungkin fikir, "Okaylah, weightage dia Indonesia banyak ini, Malaysia banyak ini, gini, gini, gini." So, that's how it filters tau. Jadi bila ada ketidaktentuan begini, naturally selalunya, they want to avoid yang dia rasa riskier. Dan Malaysia sebagai emerging market is always considered riskier. Jadi sebab itu kita tengok Bursa pun jatuh teruk minggu lepas, tapi sekarang ini dah, dah tak adalah nak kata meningkat seperti sebelum perang. Sebelum perang dia mencecah sampai 1740 lebih matalah. Saya ingat semalam dia setakat 1700. Sebelum itu, the last few days dia dah drop balik below 1700. So, maksudnya kalau sebelum perang, resistance level tu maybe 1750. Kita nak cuba push mengatasi 1750 lah kan. Tapi sekarang nampaknya resistance level tu dah, dah berada kat 1700 baliklah. Is it a question dia boleh bertahan ataupun dia jatuh kan. Jadi kepada ringgit memang dah nampak. Kepada Bursa dah nampak. Tapi yang paling berbahaya ialah kepada cash flow kerajaanlah. Kerana kerajaan bila mengekalkan harga RON95 pada harga sekarang RM1.99...
 
-[59:15] Farhan: Itu kalau BUDI95.
+[59:15] Farhan Iqbal: Itu kalau BUDI95.
 
 [59:17] YB Rafizi: Kalau BUDI95 kan. Harga pasaran RON95 sekarang berapa? Dah jadi RM2.57. So, maksudnya bagi setiap 1 liter, kerajaan perlu menanggung 58 sen, 58 sen, 57 campur 1 sen kan, 58 sen kan. Roughly lah, satu tahun kita menggunakan, Malaysialah keseluruhannya menggunakan sekitar 14 bilion. Saya tak tahu lah the, the last number yang I remember lah, lebih kurang 14 bilion liter setahun. So kalau 14 bilion liter setahun, bahagi dengan 365 hari, satu hari berapa? 38 juta? Ya kah? Aku kira lain sikit. Kita kira balik eh. Takut desimal saya salah. Ha, takut desimal kau salah. Ah this is 14 billion bahagi 365. Actually betul lah, 38 juta liter. 38 juta liter sehari kan. So yang ditanggung ialah kali 58 sen. So maksudnya kerajaan menanggung RM1.58? 58. Oh, you are right. Patutlah aku salah kira kan. Dia, dia actually not 59, is basically RM1.58 sen kan. So, basically yang ditanggung... Patut tadi bila kau cakap tu aku rasa macam pelik sikit the number, because dalam kepala otak I compute differently. So 38 juta liter sehari kali RM1.58 sen ya. Ha betul lah, RM61 juta. Okay. That's, that's why I have in mind lah. Maksudnya sekarang ini setiap hari kerajaan menanggung lebih kurang RM61 juta subsidi setiap hari. So katakanlah perang berlarutan, jadi sebulan dalam 1.9 bilion. Kalau 2 bulan, 3.8 bilion, lebih kurang 4 bilion lah kalau jumlah kos kepada kerajaan dalam masa 2 bulan. So, jumlah ini kerajaan kena bayar kepada syarikat-syarikat minyak semua kan. Jadi dia ada isu kepada cash flow kerajaan semuanyalah. Dan cash flow kerajaan ini bergantung kepada kutipan cukai semua. Jadi kalau duit tak ada nak bayar sampai lebih kurang 2 bilion sebulan lah kan untuk mengekalkan harga pada RM1.99 sen ni kan, jadi akhirnya kita kembali kepada soal adakah segala yang dibuat penyasaran semula subsidi itu akhirnya sia-sia? Ha itu yang yang menjadi yang besar kan. Sudah tentu kalau kita jadi Datuk Seri Anwar pun kita berharaplah supaya perang ni habis cepat-cepat kan. Tapi itu belum lagi kepada masalah-masalah yang sampai ke negara lain. Contohnya supply disruption. Dan setakat ini pengumuman ialah bekalan gasoline kitalah, petrol kita, diesel kita kekal untuk tempoh 2 bulan. So kalau dia berterusan lepas 2 bulan, bukan sahaja 4 bilion tu habis kan, kemudian minyak lepas tu kalau tak ada disruption dia macam mana kan. Dan kesan itu bukan semata-mata yang ditanggung untuk RON95 2 bilion sebulan. Elektrik lagi mahal. Sebab kita, elektrik kita sekarang, dari segi pecahan tenaganya, lebih kurang saya ingat dah lebih kurang 50% bergantung kepada gas. Oh, kan. Dari segi energy mix kitalah, 50% bergantung kepada gas. Gas kita, 30% diimport. Jadi bila harga naik melonjak macam ini, maka kos bahan api yang ditanggung oleh penjana-penjana elektrik dan juga ditanggung oleh TNB juga naik melonjaklah. Dan dari segi tarifnya, kita ada apa yang dipanggil sebagai ICPT. Input Cost Pass Through. Maksudnya kenaikan harga bahan api itu tidak ditanggung oleh syarikat-syarikat ini, dia ditanggung oleh kerajaan. Jadi kalau kerajaan nak mengekalkan tarif elektrik pada harga yang munasabah dan tidak menaikkan inflasi secara mendadak, maka kerajaan kena tanggung kenaikan kos bahan api akibat daripada kenaikan harga gas yang mendadak itulah. Yang itu akan ada beberapa bilion lagi lah. Tapi saya baca recently akan ada penukaran dari ICPT ke new mekanisma. Saya tak tahu, I don't know that. Okay. So, tapi perkara itu akan ambil masa. Dan apa nama ni, dia bukan boleh dibuat serta-merta kerana tarif ini diikat kepada tempoh kawalan. Tempoh kawalan sepatutnya 3 tahun. Sebab itu RP, Regulatory Period kan. Sekarang ini kita berada dalam RP3, Regulatory Period 3, di bawah mekanisma IBR, Incentive-based Regulation kan. Jadi, whatever it is kan, dia, dia tak boleh nak tetapkan dan tukar serta-merta kerana contohnya TNB, syarikat-syarikat tenaga ini membangunkan loji mereka, mereka mengambil pinjaman. Dan pinjaman itu perlukan certainty, financial certainty. You tak boleh ubah ikut sukalah kan. Jadi maksudnya ICPT is going to be here for a while. Tapi kalau bukan ICPT, dia nak buat macam mana?
 
@@ -353,35 +353,35 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:05:25] YB Rafizi: But it's the same thing. It is the same thing. So maksudnya konsep input cost pass-through tu tetap sama. Maksudnya rakyat dilindungi daripada kenaikan mendadak harga bahan api. Itu ditanggung oleh subsidi yang diberikan oleh kerajaan. The issue is sama ada you adjust setiap 6 bulan ataupun setiap bulan. Itu sahaja lah kan. Sebab AFA ini memang diumumkan sekali dengan tarif selepas IBR, selepas RP3 hari tu. Memang ada AFA. So, meaning that ICPT, this concept yang mana kerajaan perlu membayar subsidi, itu akan tetap adalikan. Jadi, so that kita tak tak panjang lebar pasal benda ni kan, maksudnya dia ada kesan yang banyak lah. Selain daripada kesan ekonomi, dia mungkin juga kesan politik. Kan, satu seperti yang saya sebut tadi, kalau ketidaktentuan di peringkat antarabangsa itu berterusan, dia akan ada kesan kepada nilai ringgit, kepada nilai Bursa, inflasi kita pun kena tengok kerana contohnya bekalan urea di dunia sekarang ini semakin berkurangan. Kerana urea ini dihasilkan daripada gas, gas mentah. Aku pernah lah dulu jaga petrochemical, urea semua ni kan. So, I think 20% of global market for urea is supplied or pass through Straits of Hormuz.
 
-[1:07:02] Farhan: Yang tengah terkesan.
+[1:07:02] Farhan Iqbal: Yang tengah terkesan.
 
 [1:07:03] YB Rafizi: Ah, jadi bila ada perang ni, maka dia akan ada shortage gangguan bekalan urealah. Urea ni baja. Jadi bila baja harga naik melambung, maka makanan pun, harga bahan mentah makanan pun akan naik melambung jugalah. Jadi kita kena tengok sama ada itu akan mula ada kesan kepada harga komoditilah. But the long and short of it lah, maksudnya kalau perang ini berlarutan, dia akan mengurangkan the shine, kilawan prestasi ekonomi yang yang sebelum ini dicanang-chanang oleh kerajaan Madanilah. Dan itu hanyalah satu-satunya plus point yang kerajaan Madani ada. Jadi bila shine itu berkurangan, kilawan itu berkurangan akibat semua ini sama ada harga minyak nak kena naik ke, defisit dia akan melonjak ke, atau inflasi naik ke, walaupun bukan di dalam kawalan kerajaan, tapi orang akan kata, "Well, masa good time, you kata itu semua kerja you. Masa bad time pun you kena hadap jugalah." Sama macam COVID dululah. Masa itu semua teruk kan, tapi Tan Sri Muhyiddin bagi alasan, "Oh ini sebab zaman COVID." So, jadi kerajaan, when it comes to prestasi ekonomi, up and down itu you tak boleh pick and choose kan. Jadi, dan katanya kalau ada kenaikan harga minyak, sama ada lama mana itu berlaku, dia juga akan ada kesan kepada sama ada pilihan raya umum akan dipanggil ke tidaklah. Sebab kalau, kalau naikkan minyak bulan 6, nak panggil pilihan raya bulan 6, bulan 7 tu agak payahlah kan.
 
-[1:08:58] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[1:08:58] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [1:09:02] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[1:09:07] Farhan: Beria, beria.
+[1:09:07] Farhan Iqbal: Beria, beria.
 
 [1:09:08] YB Rafizi: Beria-beria lah.
 
-[1:09:09] Farhan: Iqbal?
+[1:09:09] Farhan Iqbal: Iqbal?
 
 [1:09:10] Iqbal: Okay.
 
-[1:09:11] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[1:09:11] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [1:09:23] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[1:09:26] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[1:09:26] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [1:09:29] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[1:09:32] Farhan: Ya, ya, ya, ya.
+[1:09:32] Farhan Iqbal: Ya, ya, ya, ya.
 
 [1:09:33] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[1:09:44] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[1:09:44] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [1:09:54] YB Rafizi: Ha? Klinik 1Malaysia? Apa kena-mengena Klinik 1Malaysia dengan 1MDB nya? Kedai Rakyat 1Malaysia dengan 1MDB? Kena tanya tuan empunya badan. Saya bimbang dengan kemahiran berfikir ahli-ahli Parlimen kita. Sebab dia yang Klinik Malaysia, Klinik 1Malaysia, Kedai 1Malaysia semua tu, itu semua di bawah gagasan kempen 1Malaysia Datuk Seri Najib yang menggunakan uang rakyat pun daripada Belanjawan Kerajaan. Dia tak ada kena... Bukannya 1MDB yang membiayai semua tu kan. Kalau orang kampung dekat Ulu Tenggara tak faham, faham lah. Tapi kalau ahli Parlimennya membawa cerita, beria-ia sangatlah kot. Tak tahu, Iqbal, ha?
 
@@ -389,15 +389,15 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:11:06] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[1:11:23] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[1:11:23] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [1:11:27] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[1:11:29] Farhan: Ya.
+[1:11:29] Farhan Iqbal: Ya.
 
 [1:11:30] YB Rafizi: Oh, Allahuakhbar. Ni mungkin pulang kembali kepada topik sebelum ni iaitu pasal gula-gula yang kalau orang nampak je ada gula-gula terus dia distracted dengan apa, apa masalah besar yang telah berlaku. Tak, tak. Saya, I actually kan, ya lah kita akan ada pengundi tegarlah sesuatu parti yang mari macam mana pun dia sokong kan. Tapi pemahaman dan juga observation sayalah, pemerhatian saya kepada pengundi-pengundi sebenarnya, they look at much deeper issues. Tak kisahlah Melayu ke, Cina ke, India kan. Ambil contoh yang Melayu kan. Masalah mereka dengan contohnya PH atau Datuk Seri Anwar ataupun DAP kan, memang betul ada yang tegarlah, sama ada dia perkauman ataupun kalau PAS saja dia akan sokong 100% kan. Tapi yang atas pagar Melayu yang tidak menyokong PH itu, dia ada satu isu yang perlu diselesaikan. Kita mungkin bersetuju ataupun tidak bersetuju dengan pandangan dia, tapi pandangan dia tu adalah valid tau. Pandangan dia ialah soal trust deficit Datuk Seri Anwar. Adakah Datuk Seri Anwar oleh kerana dia sangat nak jadi Perdana Menteri, adakah dia akan buat keputusan yang untuk jangka masa panjang? Kerana kebimbangan trust deficit itu, kalau dia terdesak nak jadi Perdana Menteri, maka dia akan setuju dengan semua dan apa-apa yang pada pandangan mereka boleh menjejaskan juga kepentingan Melayu kan. Tapi isu dia ialah trust deficit. And to be fair to them, kita nak marah dia macam mana pun, sekarang ini isu trust deficit itu memang betul-betul berlakulah kan. Jadi saya letihlah nak mendengar dia orang cakap, "I told you so." kan. Jadi maksudnya, walaupun komen dia tu nampak macam perkauman, nampak macam ini, tapi if you distill it much further, sebenarnya ada isu trust deficit. Actually it's the same thing pasal non-Melayu. Kenapa non-Melayu ada masalah dengan soal PAS, soal UMNO, ataupun sekarang ni soal PH and DAP sendiri kan? Dia bukan semata-mata tengok, "Oh saya suka Nga Kor Ming, oh saya suka Cina, oh saya suka Anwar." Tak ada tau. Actually, there's the, kalau tengok komen-komen, saya sekarang banyak habiskan masa juga membaca komen-komen netizen di media Cina.
 
-[1:14:14] Farhan: Hm.
+[1:14:14] Farhan Iqbal: Hm.
 
 [1:14:38] Iqbal: Boleh bagi contoh?
 
@@ -407,11 +407,11 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:17:40] YB Rafizi: Well, I, I, I tak rasalah nama ni pandangan itu representative kepada pandangan rakyat. Dan saya tak rasa revision of pencapaian Datuk Seri Najib tu akan ada banyak kesan kepada prospek BN. Cuma dari semasa ke semasa, oleh kerana politik ni dynamic kan, kalau contohnya pengundi-pengundi mula membuat perbandingan dengan Datuk Seri Najib dulu ke, mungkin Najib lebih baik ke, ataupun mungkin Pak Lah lebih baik ke, sebenarnya it is an indictment against the present government. Dia sebenarnya timbal balik kan. Orang mula merasakan bahawa, mmm, mungkinkah dulu lebih baik. So it doesn't necessarily mean itu akan translate kepada keputusan undi nanti. Tetapi dia sebagai satu luahan akibat daripada rasa kurang senang dengan prestasi kerajaan yang ada sekaranglah. And that is, I think, will happen from time to time. Mana-mana kerajaan pun kalau tidak berhati-hati dan akan ada sentimen perbandingan itulah. But setakat ini lah, I don't think it's easy to make a comeback. For, for I think moving forward, dan itu yang kita perlukan sebagai sebuah negara dan masyarakat, we need to be able to learn to move on. Kalau kita tak boleh kembali kepada perkara-perkara lama, pimpinan lama, we need to move on lah kan.
 
-[1:19:22] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[1:19:22] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [1:19:27] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[1:19:46] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[1:19:46] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [1:19:55] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -419,55 +419,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:20:25] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[1:27:17] Farhan: Itu kalau BUDI95.
+[1:27:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[1:35:05] Farhan: Yang tengah terkesan.
+[1:35:05] Farhan Iqbal: Yang tengah terkesan.
 
-[1:37:00] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[1:37:00] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [1:37:04] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[1:37:09] Farhan: Beria, beria.
+[1:37:09] Farhan Iqbal: Beria, beria.
 
 [1:37:10] YB Rafizi: Beria-beria lah.
 
-[1:37:11] Farhan: Iqbal?
+[1:37:11] Farhan Iqbal: Iqbal?
 
 [1:37:12] Iqbal: Okay.
 
-[1:37:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[1:37:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [1:37:25] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[1:37:28] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[1:37:28] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [1:37:31] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[1:37:34] Farhan: Ya, ya, ya, ya.
+[1:37:34] Farhan Iqbal: Ya, ya, ya, ya.
 
 [1:37:35] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[1:37:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[1:37:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [1:38:57] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [1:39:08] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[1:39:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[1:39:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [1:39:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[1:39:31] Farhan: Ya.
+[1:39:31] Farhan Iqbal: Ya.
 
-[1:42:16] Farhan: Hm.
+[1:42:16] Farhan Iqbal: Hm.
 
 [1:42:40] Iqbal: Boleh bagi contoh?
 
-[1:47:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[1:47:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [1:47:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[1:47:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[1:47:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [1:47:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -475,55 +475,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:48:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[1:55:19] Farhan: Itu kalau BUDI95.
+[1:55:19] Farhan Iqbal: Itu kalau BUDI95.
 
-[2:03:07] Farhan: Yang tengah terkesan.
+[2:03:07] Farhan Iqbal: Yang tengah terkesan.
 
-[2:05:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:05:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:05:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:05:09] Farhan: Beria, beria.
+[2:05:09] Farhan Iqbal: Beria, beria.
 
 [2:05:10] YB Rafizi: Beria-beria lah.
 
-[2:05:11] Farhan: Iqbal?
+[2:05:11] Farhan Iqbal: Iqbal?
 
 [2:05:12] Iqbal: Okay.
 
-[2:05:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:05:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:05:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:05:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:05:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:05:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:05:36] Farhan: Ya, ya, ya, ya.
+[2:05:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:05:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:05:48] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:05:48] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:06:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:07:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:07:27] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:07:27] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:07:31] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:07:33] Farhan: Ya.
+[2:07:33] Farhan Iqbal: Ya.
 
-[2:10:18] Farhan: Hm.
+[2:10:18] Farhan Iqbal: Hm.
 
 [2:10:42] Iqbal: Boleh bagi contoh?
 
-[2:15:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:15:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:15:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:15:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:15:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:15:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -531,55 +531,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:16:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[2:23:17] Farhan: Itu kalau BUDI95.
+[2:23:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[1:31:05] Farhan: Yang tengah terkesan.
+[1:31:05] Farhan Iqbal: Yang tengah terkesan.
 
-[1:33:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[1:33:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [1:33:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[1:33:09] Farhan: Beria, beria.
+[1:33:09] Farhan Iqbal: Beria, beria.
 
 [1:33:10] YB Rafizi: Beria-beria lah.
 
-[1:33:11] Farhan: Iqbal?
+[1:33:11] Farhan Iqbal: Iqbal?
 
 [1:33:12] Iqbal: Okay.
 
-[1:33:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[1:33:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [1:33:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[1:33:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[1:33:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [1:33:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[1:33:36] Farhan: Ya, ya, ya, ya.
+[1:33:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [1:33:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[1:33:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[1:33:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [1:34:57] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [1:35:08] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[1:35:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[1:35:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [1:35:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[1:35:31] Farhan: Ya.
+[1:35:31] Farhan Iqbal: Ya.
 
-[1:38:16] Farhan: Hm.
+[1:38:16] Farhan Iqbal: Hm.
 
 [1:38:40] Iqbal: Boleh bagi contoh?
 
-[1:43:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[1:43:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [1:43:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[1:43:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[1:43:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [1:43:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -587,55 +587,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:44:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[1:51:17] Farhan: Itu kalau BUDI95.
+[1:51:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[1:59:05] Farhan: Yang tengah terkesan.
+[1:59:05] Farhan Iqbal: Yang tengah terkesan.
 
-[2:01:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:01:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:01:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:01:09] Farhan: Beria, beria.
+[2:01:09] Farhan Iqbal: Beria, beria.
 
 [2:01:10] YB Rafizi: Beria-beria lah.
 
-[2:01:11] Farhan: Iqbal?
+[2:01:11] Farhan Iqbal: Iqbal?
 
 [2:01:12] Iqbal: Okay.
 
-[2:01:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:01:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:01:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:01:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:01:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:01:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:01:36] Farhan: Ya, ya, ya, ya.
+[2:01:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:01:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:01:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:01:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:02:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:03:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:03:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:03:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:03:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:03:31] Farhan: Ya.
+[2:03:31] Farhan Iqbal: Ya.
 
-[2:06:16] Farhan: Hm.
+[2:06:16] Farhan Iqbal: Hm.
 
 [2:06:40] Iqbal: Boleh bagi contoh?
 
-[2:11:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:11:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:11:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:11:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:11:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:11:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -643,55 +643,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:12:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[2:19:17] Farhan: Itu kalau BUDI95.
+[2:19:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[2:27:05] Farhan: Yang tengah terkesan.
+[2:27:05] Farhan Iqbal: Yang tengah terkesan.
 
-[2:29:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:29:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:29:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:29:09] Farhan: Beria, beria.
+[2:29:09] Farhan Iqbal: Beria, beria.
 
 [2:29:10] YB Rafizi: Beria-beria lah.
 
-[2:29:11] Farhan: Iqbal?
+[2:29:11] Farhan Iqbal: Iqbal?
 
 [2:29:12] Iqbal: Okay.
 
-[2:29:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:29:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:29:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:29:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:29:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:29:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:29:36] Farhan: Ya, ya, ya, ya.
+[2:29:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:29:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:29:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:29:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:30:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:31:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:31:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:31:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:31:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:31:31] Farhan: Ya.
+[2:31:31] Farhan Iqbal: Ya.
 
-[2:34:16] Farhan: Hm.
+[2:34:16] Farhan Iqbal: Hm.
 
 [2:34:40] Iqbal: Boleh bagi contoh?
 
-[2:39:22] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:39:22] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:39:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:39:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:39:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:39:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -699,55 +699,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:40:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[2:47:17] Farhan: Itu kalau BUDI95.
+[2:47:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[2:55:05] Farhan: Yang tengah terkesan.
+[2:55:05] Farhan Iqbal: Yang tengah terkesan.
 
-[2:57:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:57:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:57:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:57:09] Farhan: Beria, beria.
+[2:57:09] Farhan Iqbal: Beria, beria.
 
 [2:57:10] YB Rafizi: Beria-beria lah.
 
-[2:57:11] Farhan: Iqbal?
+[2:57:11] Farhan Iqbal: Iqbal?
 
 [2:57:12] Iqbal: Okay.
 
-[2:57:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:57:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:57:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:57:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:57:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:57:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:57:36] Farhan: Ya, ya, ya, ya.
+[2:57:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:57:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:57:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:57:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:58:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:59:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:59:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:59:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:59:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:59:31] Farhan: Ya.
+[2:59:31] Farhan Iqbal: Ya.
 
-[3:02:16] Farhan: Hm.
+[3:02:16] Farhan Iqbal: Hm.
 
 [3:02:40] Iqbal: Boleh bagi contoh?
 
-[3:07:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[3:07:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [3:07:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[3:07:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[3:07:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [3:07:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -755,55 +755,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [3:08:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[3:15:19] Farhan: Itu kalau BUDI95.
+[3:15:19] Farhan Iqbal: Itu kalau BUDI95.
 
-[1:23:07] Farhan: Yang tengah terkesan.
+[1:23:07] Farhan Iqbal: Yang tengah terkesan.
 
-[1:25:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[1:25:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [1:25:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[1:25:09] Farhan: Beria, beria.
+[1:25:09] Farhan Iqbal: Beria, beria.
 
 [1:25:10] YB Rafizi: Beria-beria lah.
 
-[1:25:11] Farhan: Iqbal?
+[1:25:11] Farhan Iqbal: Iqbal?
 
 [1:25:12] Iqbal: Okay.
 
-[1:25:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[1:25:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [1:25:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[1:25:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[1:25:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [1:25:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[1:25:36] Farhan: Ya, ya, ya, ya.
+[1:25:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [1:25:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[1:25:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[1:25:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [1:26:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [1:27:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[1:27:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[1:27:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [1:27:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[1:27:31] Farhan: Ya.
+[1:27:31] Farhan Iqbal: Ya.
 
-[1:29:16] Farhan: Hm.
+[1:29:16] Farhan Iqbal: Hm.
 
 [1:29:40] Iqbal: Boleh bagi contoh?
 
-[1:34:22] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[1:34:22] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [1:34:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[1:34:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[1:34:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [1:34:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -811,55 +811,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [1:35:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[1:42:17] Farhan: Itu kalau BUDI95.
+[1:42:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[1:50:05] Farhan: Yang tengah terkesan.
+[1:50:05] Farhan Iqbal: Yang tengah terkesan.
 
-[1:52:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[1:52:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [1:52:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[1:52:09] Farhan: Beria, beria.
+[1:52:09] Farhan Iqbal: Beria, beria.
 
 [1:52:10] YB Rafizi: Beria-beria lah.
 
-[1:52:11] Farhan: Iqbal?
+[1:52:11] Farhan Iqbal: Iqbal?
 
 [1:52:12] Iqbal: Okay.
 
-[1:52:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[1:52:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [1:52:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[1:52:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[1:52:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [1:52:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[1:52:36] Farhan: Ya, ya, ya, ya.
+[1:52:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [1:52:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[1:52:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[1:52:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [1:53:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [1:54:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[1:54:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[1:54:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [1:54:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[1:54:31] Farhan: Ya.
+[1:54:31] Farhan Iqbal: Ya.
 
-[1:56:16] Farhan: Hm.
+[1:56:16] Farhan Iqbal: Hm.
 
 [1:56:40] Iqbal: Boleh bagi contoh?
 
-[2:01:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:01:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:01:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:01:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:01:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:01:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -867,55 +867,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:02:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[2:09:17] Farhan: Itu kalau BUDI95.
+[2:09:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[2:17:05] Farhan: Yang tengah terkesan.
+[2:17:05] Farhan Iqbal: Yang tengah terkesan.
 
-[2:19:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:19:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:19:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:19:09] Farhan: Beria, beria.
+[2:19:09] Farhan Iqbal: Beria, beria.
 
 [2:19:10] YB Rafizi: Beria-beria lah.
 
-[2:19:11] Farhan: Iqbal?
+[2:19:11] Farhan Iqbal: Iqbal?
 
 [2:19:12] Iqbal: Okay.
 
-[2:19:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:19:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:19:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:19:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:19:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:19:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:19:36] Farhan: Ya, ya, ya, ya.
+[2:19:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:19:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:19:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:19:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:20:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:21:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:21:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:21:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:21:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:21:31] Farhan: Ya.
+[2:21:31] Farhan Iqbal: Ya.
 
-[2:24:16] Farhan: Hm.
+[2:24:16] Farhan Iqbal: Hm.
 
 [2:24:40] Iqbal: Boleh bagi contoh?
 
-[2:29:22] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:29:22] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:29:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:29:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:29:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:29:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -923,55 +923,55 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:30:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[2:37:17] Farhan: Itu kalau BUDI95.
+[2:37:17] Farhan Iqbal: Itu kalau BUDI95.
 
-[2:45:05] Farhan: Yang tengah terkesan.
+[2:45:05] Farhan Iqbal: Yang tengah terkesan.
 
-[2:47:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[2:47:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [2:47:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[2:47:09] Farhan: Beria, beria.
+[2:47:09] Farhan Iqbal: Beria, beria.
 
 [2:47:10] YB Rafizi: Beria-beria lah.
 
-[2:47:11] Farhan: Iqbal?
+[2:47:11] Farhan Iqbal: Iqbal?
 
 [2:47:12] Iqbal: Okay.
 
-[2:47:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[2:47:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [2:47:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[2:47:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[2:47:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [2:47:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[2:47:36] Farhan: Ya, ya, ya, ya.
+[2:47:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [2:47:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[2:47:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[2:47:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [2:48:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [2:49:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[2:49:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[2:49:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [2:49:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[2:49:31] Farhan: Ya.
+[2:49:31] Farhan Iqbal: Ya.
 
-[2:52:16] Farhan: Hm.
+[2:52:16] Farhan Iqbal: Hm.
 
 [2:52:40] Iqbal: Boleh bagi contoh?
 
-[2:57:24] Farhan: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
+[2:57:24] Farhan Iqbal: Okay, habis. Panjang lebar pada akhirnya, kita nak ulas dia kata beria pasal 1MDB je.
 
 [2:57:29] YB Rafizi: Beria YB? Beria. Beria lah kan. Second last. Anugerah samseng bulanan. Dah kepak terus. Apa yang dia tak puas hati dengan kereta? Dia ada banyak teorilah bila baca komen. Antaranya double park, kemudian apa lagi Pan?
 
-[2:57:48] Farhan: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
+[2:57:48] Farhan Iqbal: Ini pampan-pampan kan minggu ni kan, orang pun tunggu kan. We start dengan perang Teluk versi ketiga. Stress test bagi Malaysia.
 
 [2:57:57] YB Rafizi: Dia paling nakal komen-komen bila ada sidang media tu kan. Aku bacalah beberapa komen kata, "Kenapa jurubasa kat sebelah tu tangan dia tak gerak-gerak?" Jahat gila kan. So netizen sekarang dah reduce Fahmi Fadzil kepada sign language.
 
@@ -979,42 +979,42 @@ YB Rafizi: Tak, kita tak tak tak tak patut pun membandingkan dan menilai apa yan
 
 [2:58:27] YB Rafizi: Baik, kembali kepada isu yang lebih serius.
 
-[3:05:19] Farhan: Itu kalau BUDI95.
+[3:05:19] Farhan Iqbal: Itu kalau BUDI95.
 
-[3:13:05] Farhan: Yang tengah terkesan.
+[3:13:05] Farhan Iqbal: Yang tengah terkesan.
 
-[3:15:02] Farhan: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
+[3:15:02] Farhan Iqbal: Dan akan ada orang yang akan mengundi dengan itu rasional dia.
 
 [3:15:06] YB Rafizi: Saya harap tak lah. I hope not lah kan. So beria?
 
-[3:15:09] Farhan: Beria, beria.
+[3:15:09] Farhan Iqbal: Beria, beria.
 
 [3:15:10] YB Rafizi: Beria-beria lah.
 
-[3:15:11] Farhan: Iqbal?
+[3:15:11] Farhan Iqbal: Iqbal?
 
 [3:15:12] Iqbal: Okay.
 
-[3:15:13] Farhan: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
+[3:15:13] Farhan Iqbal: Next. Power juga minggu ni. So far beria. 1MDB bukan malapetaka tapi persepsi. Ini...
 
 [3:15:27] YB Rafizi: Ini saya tak, saya terlepas pandang ni, masa bila ni?
 
-[3:15:30] Farhan: Dalam beberapa dua minggu lepas rasanya.
+[3:15:30] Farhan Iqbal: Dalam beberapa dua minggu lepas rasanya.
 
 [3:15:33] YB Rafizi: Masa, masa di Parlimen? Di sidang Parlimen?
 
-[3:15:36] Farhan: Ya, ya, ya, ya.
+[3:15:36] Farhan Iqbal: Ya, ya, ya, ya.
 
 [3:15:37] YB Rafizi: Ini sepatutnya masuk minggu lepas. So aku tak adalah masa ni di Parlimen. Kantoi tak ada kat Parlimen masa ni. So apa jawapan dia? Bukan malapetaka?
 
-[3:15:46] Farhan: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
+[3:15:46] Farhan Iqbal: Bukan malapetaka, ini persepsi saja. Dan banyaklah kebaikan yang 1MDB dah buat. Kita ada Klinik 1Malaysia, kita ada... Ah itulah yang dia cakap.
 
 [3:16:59] Iqbal: Yang saya mungkin tertanya-tanya dengan slide ini lah kenapa YB ini nampak macam hobbit? Tangan dia kerdil semacam ni.
 
 [3:17:10] YB Rafizi: Itu bukan salah dia. Ini salah Farhan & Team. Yang mana tu, yang gambar pakai baju Melayu merah? Itulah masalah AI. Itu tangan siapa? Tangan anak aku ke apa kau ambil tu? Tapi Klinik Rakyat 1Malaysia sama Bantuan Rakyat 1Malaysia...
 
-[3:17:25] Farhan: ...itu semua tak ada kena-mengena dengan 1MDB.
+[3:17:25] Farhan Iqbal: ...itu semua tak ada kena-mengena dengan 1MDB.
 
 [3:17:29] YB Rafizi: So, dan dia keluar dalam BNTV?
 
-[3:17:31] Farhan: Ya.
+[3:17:31] Farhan Iqbal: Ya.

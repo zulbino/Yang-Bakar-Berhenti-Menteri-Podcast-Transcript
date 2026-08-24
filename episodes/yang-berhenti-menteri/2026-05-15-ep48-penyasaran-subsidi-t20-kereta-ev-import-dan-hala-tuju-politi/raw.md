@@ -42,7 +42,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:51] Haziq: Saja-saja.
 
-[1:53] Farhan: YB, sebelum kita start kan, saya nak tanya, pegawai SPRM terkejut tak YB datang balik SPRM tadi?
+[1:53] Farhan Iqbal: YB, sebelum kita start kan, saya nak tanya, pegawai SPRM terkejut tak YB datang balik SPRM tadi?
 
 [1:58] Rafizi: Dia orang nampak happy saja. Nak kata terkejut tu tak adalah, sebab peguam saya dah hantar surat hari Ahad. Jadi mereka sedia maklumlah. In fact, awal-awal tu kita bersetuju hari hari Rabu, sebab yalah, pihak media dan ada pihak yang mengatakan ini saja susun ni untuk ambush Ketua Pesuruhjaya SPRM yang baru. Sebenarnya tak ada kena-mengena kan. Saya hanya nak memastikan bahawa siasatan SPRM itu menyeluruh dan ada semua fakta yang tepat. Oleh kerana siasatannya setakat ini tidak ada kaitan dengan wang, tidak ada suapan, tidak ada transaksi, jadi ia berkaitan dengan keputusan kerajaan. Keputusan kerajaan itu melibatkan keputusan di kabinet, dan juga jawatankuasa-jawatankuasa pemandu yang ada bukan sahaja saya, ada Perdana Menteri, ada Menteri MITI, Zafrul, ada Menteri Kewangan II, Amir Hamzah, kan. Jadi tak bolehlah semuanya nak tahu pasal proses tapi hanya soal siasat saya. Soal siasatlah ketiga-tiga orang lagi inilah. Jadi itu sebahagian daripada proses undang-undang untuk memastikan bila masuk mahkamah nanti, contohnya kalau SPRM tidak panggil Perdana Menteri, itu isu besarlah. Maksudnya tidak siasatan itu tidak lengkap, kan. Tidak panggil Amir Hamzah, tidak panggil Zafrul. Jadi saya nak tengoklah nanti kan. Jadi itu terpulang kepada SPRM dan juga apa nama ni, Jabatan Peguam Negaralah, pihak pendakwa raya. Kalau mereka teruskan juga tanpa memanggil Datuk Seri Anwar, tanpa memanggil Amir Hamzah, tanpa memanggil Zafrul ni, dan dalam mahkamah nanti fireworks-lah nanti kan.
 
@@ -92,11 +92,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [11:54] Rafizi: Sebelum ni memanglah daripada 2016 sejak 10 tahun yang lepas memanglah aku yang buat. Jadi dia nak terima tak nak terima tu dia diam sajalah kan. Jadi dia nak bergaduh dengan aku pun payah, sebab kalau dia bergaduh aku tanya dialah, what's your apa nama ni, evidence? Daripada mana? You know, kan. Atas asas yang apa. Tapi bukan saja PKRlahlah, saya rasa secara keseluruhan parti-parti politik dan ahli-ahli politik di Malaysia ini tidak sukakan perkara-perkara teknikal dan berat seperti sains. Data sains, survey ni data sains sebenarnya kan. Dia dia tak faham. Dia bagi dia ini kerja picisan yang sepatutnya dibuat oleh budak-budak, bagi laporan kat saya, macam itu saja.
 
-[12:43] Farhan: Ada satu aspek yang kita tak sentuh lagi.
+[12:43] Farhan Iqbal: Ada satu aspek yang kita tak sentuh lagi.
 
 [12:45] Haziq: Apa tu?
 
-[12:46] Farhan: Apabila laporan ni didedahkan, yang dipersalahkan adalah geng...
+[12:46] Farhan Iqbal: Apabila laporan ni didedahkan, yang dipersalahkan adalah geng...
 
 [12:54] Haziq: Ah ya! Disalahkan kepada YB. Depa YB tak ambil pot.
 
@@ -168,13 +168,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [25:41] Haziq: Ya, gambar betul.
 
-[25:42] Farhan: Bukan AI.
+[25:42] Farhan Iqbal: Bukan AI.
 
 [25:43] Rafizi: Ya Allahuakbar. Dia pegang gergaji, dia pegang apa tu? Pisau?
 
 [25:47] Rafizi: Gergaji dan pisau. Chopping knife. Oh ni berebut Batu, kerusi Batu. Berebut-berebut last-last semua gigit jari sebab Anwar Ibrahim pergi ke Batu. Beria berebut kerusi kan. Tapi saya tak tahulah, saya rasa dia orang betul-betul duduk di dalam gelembung merekalah, bubble kan. Kerana macam saya sebut dalam dalam podcast yang lepas-lepaslah, bukan sahaja PKR, hatta Datuk Seri Anwar sendiri pun sekarang ini diasak daripada dua sisi. Daripada pengundi Melayu dan juga pengundi bukan Melayu kan. Jadi kalau kita ambil keadaan itu, maksudnya kerusi-kerusi yang sebelum ini nampak nampak kuat untuk PKR termasuklah Batu kan, sebab dia Batu ni sebenarnya majoriti bukan Melayu, 60-40 rasanya kan. Itu betul-betul beranggapan kepada premis lama iaitu pengundi bukan Melayu adalah blok undi yang yang akan kekal dengan PKR atau PH. Dia tidak ada kesahihan yang itulah kan. Jadi yang lebih lawak bagi sayalah, bila pimpinan PKR ni berebut kerusi secara terbuka begini dan dia sudah menimbulkan keresahan di peringkat akar umbi, semua ini ditonton oleh rakyat. Jadi rakyat boleh nampak sepatutnya tugas pimpinan kanan parti yang ini Naib Presiden dan juga Setiausaha Agung, tugasnya ialah meningkatkan sokongan rakyat kepada PKR. Dia bukannya meningkatkan kebarangkalian mereka boleh menjadi wakil rakyat. Itu yang saya sebut sebenarnya PKR ni nampak makin lama makin berbezalah daripada PKR yang saya kenal dulu-dulu kan. Sebab kebanyakan daripada kami dulu-dulu semua kami kamikaze. Dan kalau tengok Niklah kan, tahun 2018 kan, Nik Nazmi eh, dia daripada kerusi selamat, DUN Seri Setia yang memang selamatlah, dia dah dua penggal kat situ kan. Dan saya rasa dia memang terkejut dan juga mungkin kecil hati bila saya kata, "You Ketua AMK, you kena pergi ke kerusi yang tak pernah dimenangi." Sebab Setiawangsa tu pembangkang tak pernah menang, memang UMNO daripada awal sebab orang kata vote bank daripada kem-kem tentera yang ada dekat situ. Situ kan ada Wardieburn, semua kan ada lebih kurang 15,000 undi tentera kat situ kan. Tapi yalah, kita sebagai pemimpin kanan, maka kita kena pergilah kan. Dan satu sebab kenapa saya tak keluar daripada Pandan yang yang Che'guBard duk bising semua tu kan, ialah kerana saya perlu berkempen di seluruh negara. Saya kalau setiap kali musim pilihan raya kan, berapa berapa kali sangat saya ada berkempen kat Pandan tu? Saya ada kat Johorlah, ada kat Melakalah, ada kat semua. Saya pergi berkempen di tempat-tempat lain untuk memenangkan orang lain, sebab kita kena ambil risiko. Walaupun saya tak berkempen di situ, memang tak ada sangat pun dekat situ masa zaman kempen itu, saya kena ambil risiko, saya ambil risiko itu. Jadi pimpinan kanan yang lain macam ni dia kena ambil risikolah tahun 2018 pergi ke kerusi yang tak pernah menang, Setiawangsa. Itu PKR dulu-dulu tahu. PKR yang macam itulah yang menyebabkan UMNO Barisan Nasional kalah tahun 2018, kemudian menjadi blok paling besar sehingga Datuk Seri Anwar boleh jadi Perdana Menteri. Itu bagi sayalah the essence of PKR. Kita semua ni kamikaze, kita tak fikir kerusi mana tempat kita menang kalah, tu sebab politik ini kita tidak lihat sebagai tempat untuk mendapat pangkat atau jawatan. Politik ini ialah satu jalan untuk kita melihat perubahan kan. Jadi sekarang ini dia dah terbaliklah, dia dah jadi macam ala-ala MIC lah kut. Berebut kerusi kan. Beria berebut kerusi sementara ditertawakan oleh rakyat. Dia sama macam kalau dalam budaya Baratlah orang cakap Nero fiddling on the roof lah, main dia punya biola while Rome was on fire. Dia punya tone deaf tu, Rome was on fire semua tu, emperor dia, Nero, tengah main biola on the roof.
 
-[31:14] Farhan: Maybe itu yang apa yang Fuziah pegang kut.
+[31:14] Farhan Iqbal: Maybe itu yang apa yang Fuziah pegang kut.
 
 [31:17] Rafizi: Apa dia? Oh terbalik! Biola punya Itu bukan biola, itu gergaji. Luka engkau kalau main benda tu, gesek benda tu, putus tangan kau.
 
@@ -190,7 +190,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [31:59] Rafizi: Eh tak, dia kata dia tak nak masuk politik.
 
-[32:01] Farhan: Eh, bukan ada...
+[32:01] Farhan Iqbal: Eh, bukan ada...
 
 [32:03] Rafizi: Tak, tersalah tu. Dia kata dia tak nak masuk politik. Mungkin dia nak jadi artis kut, dia pandai menyanyi.
 
@@ -198,17 +198,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:13] Rafizi: Kulit dah okey, pakai spek mata.
 
-[32:15] Farhan: Tali mata merah sikitlah.
+[32:15] Farhan Iqbal: Tali mata merah sikitlah.
 
 [32:17] Rafizi: So yang ini memang, oh mak, minggu ni mencabarlah. Sebab yang ini pun beria juga KSN.
 
 [32:23] Haziq: Dari KSN, "Banyak kejayaan dan reformasi yang telah dilaksana dalam menerajui SPRM."
 
-[32:29] Farhan: Conflict of interest betul.
+[32:29] Farhan Iqbal: Conflict of interest betul.
 
 [32:31] Rafizi: Ya Allahuakbar. Jasa bakti Yang Berbahagia Tan Sri. Dia bila buat macam ini, nanti orang tuntut hutang daripada Jawatankuasa Kawan-Kawanlah. KSN ni ialah pengerusi Jawatankuasa Kawan-Kawan. Janganlah posting yang ini, postinglah laporan itu dulu kan. Malu sahaja Perdana Menteri, Anwar Ibrahim, sebab masa mula-mula buat Jawatankuasa Kawan-Kawan ni kan apa nama ni PM janji dua tiga hari kan? Dua tiga hari aje. Berapa bulan dah? Dah tiga bulan dah kut? Dah tiga bulan. Gayanya memang takkan kita nampaklah laporan itu kan. Saya tak faham tone deaf nya yang ada dekat Putrajaya ni. Takkan dia tak faham? Takkan dia tak rasa? Kan, ha.
 
-[33:20] Farhan: Kalau ya pun WhatsApp sajalah, tak payah...
+[33:20] Farhan Iqbal: Kalau ya pun WhatsApp sajalah, tak payah...
 
 [33:23] Rafizi: Kalau ya pun pergilah karaoke bersama-sama sekejap kan, enjoy-enjoy sikit kan. Boleh dengar menghargai suara Tan Sri Azam Baki, cukuplah tu. Ini pergi apa nama ni, sentiasa akan dikenang. Terkejut aku, memang beria betullah.
 
@@ -264,19 +264,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:46] Rafizi: Yang layaklah, yang patut, yang wajar menerima subsidi begitu oleh kerana kedudukan isi rumah dia, kalau dia tanggungan perbelanjaan minyak dia tu naik, dia akan ada kesan kepada benda-benda lain kan. Jadi kita nak capai keseimbangan itu, dan pada masa yang sama kita nak pastikan bahawa pelaburan dan perbelanjaan kerajaan kepada semua orang itu tidak terkesan sehingga dia mengganggu perjalanan dan juga pelaburan kepada setiap rakyat Malaysia nilah kan. Tapi yalah, prinsip itu selama saya berada di kabinet dan sekarang di luar kabinet, prinsip itu tak diterimalah, sebab dia kira Rafizi ni kepala dia, dia ingat dia aje yang betul kan. Saya dah cakap daripada awal, yang nak buat macam ni ni memanglah popular awalnya. Tapi kalau harga minyak naik, kita bermasalah. Memang masinlah mulut aku kan. Saya pun tak sangka masa akan ada jadi perang semua ni kan. Tapi kita sedia maklum harga minyak mentah ni memang turun naik macam tu, dia fluctuate. Dia pernah sampai $120. Kalau tengok di antara dua tahun masa COVID tu kan, daripada awal berlaku COVID 2020 sehinggalah ke akhir 2022 lah, nak dekat pilihan raya tu kan, dia boleh jadi sampai harga minyak jatuh mendadak $30 sebab orang tak pakai, orang tak boleh keluar rumah, jadi tak ada tak ada demand permintaan untuk minyak. Kemudian bila ekonomi dibuka balik ditambah pula dengan perang dekat Ukraine semua, dia naik mendadak 120. Kita dah tengok dalam tempoh dua tahun, julat harga dia tu turun melonjak, siapa kita nak kata benda tu takkan berlaku lagi? Dalam keadaan geopolitik di dunia ni macam-macam kan. Tapi tak dengar. Bila tak dengar, maka yang kita dengar selepas itu ialah keluhan Datuk Seri Anwarlah. "Kerajaan ni tanggung 7 bilion sebulan, you know, rakyat tak baca, tak reti baca, buta huruf" semua kan. Kalau dah tanggung 7 bilion sebulan, kita memang tahulah benda itu tidak boleh berkekalan lama. Jadi apa pun yang orang politik kata, akhirnya mereka tidak boleh lari daripada hakikat berapa banyak duit ada dalam bank kerajaan. Mudah aje. Kita pun, sembang kencang pumpang pumpang pumpang, tiap-tiap bulan nak kena bayar bil. Walaupun kita berhutang dengan kad kredit, nampak mewah semua, bawa belanja anak makan tiap-tiap malam ke apa, akan ada satu masa yang mana benda tu semua tak boleh buat dah. Kad kredit dah max ke, gaji tak naik ke, bonus tak dapat kan. Jadi sebab itu kerajaan secara dalamanlah saya ingat, tidak boleh lari daripada soal sebenarnya kita dah tak boleh tanggung ni, kita kena potong lagi. Yang mana kita nak potong? Jadi dia bermula dengan potong kuota, daripada 300 ke 200 kan. Saya ingat soal pilihan mana yang nak potong ni adalah beberapa pilihan yang dibincangkan dalamanlah. Sebab itu bila dah bincang dalaman, dia tak boleh nak lari daripada ditanya wartawanlah. Wartawan mesti tanya. Sebab itu Timbalan Menteri Kewangan, Lim Hui Ying, rasanya berasaplah dia kena maki. Sebab dia pergi satu forum, dia pergi satu forum dia cerita pasal sebenarnya 65% daripada rakyat Malaysia pakai 150 liter sebulan. Maksudnya ada ruang untuk kita potong lagilah, daripada 200 ke 150. Oh terus dia kena keluarkan kenyataan, "Oh saya tak kata macam tu" kan. Maksudnya kalau itu berlaku, dah lunyailah dia kena maki bila balik ke pejabat kan. Dan orang kata pilihan-pilihan pahit yang perlu dibuat ini sudah tentu termasuklah soal menarik balik subsidi kepada T20 lah. Jadi Datuk Seri Anwar saya ingat perkara itu memang berlegar di luar, bila dia ditanya, maka dia tak boleh lari daripada mengesahkanlah secara prinsipnya telah dipersetujui. Cuma then itu membuka pula kepada satu round lagi soalan netizenlah, "Habis siapa T20 ni? Aku kena masuk ke tidak?" semualah. Saya duduk di sini tepuk tangan dan senyum.
 
-[45:49] Farhan: Sebab kalau ikutkan, sejak Oktober 2024 lagi kan, YB pernah cakap pasal income classification.
+[45:49] Farhan Iqbal: Sebab kalau ikutkan, sejak Oktober 2024 lagi kan, YB pernah cakap pasal income classification.
 
 [46:00] Rafizi: Mana ada, daripada hari pertamalah, Paan.
 
-[46:02] Farhan: Hari pertama?
+[46:02] Farhan Iqbal: Hari pertama?
 
 [46:03] Rafizi: Ha.
 
-[46:04] Farhan: No, but the first time you mention pasal T15 classification tu patut kena redefine balik.
+[46:04] Farhan Iqbal: No, but the first time you mention pasal T15 classification tu patut kena redefine balik.
 
 [46:11] Rafizi: Itu sebenarnya lebih awal, kan. Bila kita awal-awal daripada masuk kerajaan dulu, kita dah nampak semua ni. Sebab itu sebelum pun ada Ekonomi MADANI semua ni, memang Kementerian Ekonomi telah menetapkan bahawa salah satu daripada sasaran utama, matlamat reformasi ekonomi negara ialah menyasarkan semula subsidi. Dan bila kita sebut menyasarkan semula subsidi itu, perbincangan awal semua itu ialah untuk menggunakan pindahan tunai. Jadi bila untuk menggunakan pindahan tunai, maka kita nak kena tentukan kelayakan. Jadi bila kelayakan tu, memang kita tidak boleh lari daripada dua perkara. Pertama, kaedah dan definisi untuk kita golong dan kategorikan isi rumah, rakyat ni. Sebab ni nak boleh beritahu kepada rakyat kepada semualah, sebab T20, T15, M40 ke, B60, semua ini tidak ada makna apa-apa kepada rakyat. Itu hanyalah garis statistik. Tapi yalah, ahli politik tak suka statistik kan. Dia bergantung kepada definisi populasi tu. Contohnya kan, T20, M40, B40 yang diguna pakai sejak tahun 2010 yang diperkenalkan oleh Najib ini, dia menggunakan kaedah mudah. Dia mengambil dan maksudnya data populasi untuk rakyat Malaysia itu ialah pendapatan kasar isi rumah. So kita ada isi rumah kita, kira balik isi rumah kita ada berapa eh rakyat? 34 tu, maksudnya isi rumah kita dalam 17 juta. Lebih kuranglah. Oh is it less kan? 17 jutalah. Sorry, less less less less less. Isi rumah kita dalam 12, 13 juta macam tu. Sebab saiz isi rumah kita ialah lebih kurang two ataupun 2.1 macam tu, katakanlah 13 juta kan. Jadi diambil setiap isi rumah itu, isi rumah ni pendapatan kasar dia ialah 2,000 sebulan, ini 3,000 sebulan. So you letak dalam satu table tu semua isi rumah tu, and then you sort it out. Daripada yang paling rendah, contohnya mungkin RM50 sebulan, kepada yang paling atas, contohnya mungkin RM20 juta setahun. So you ada 13 juta data point ni kan isi rumah. And then you just cut across lah. Maksudnya T20 ialah isi rumah kalau sample size itu ialah 13, let me see, 13 juta. Kalau ikutnya lebih rendahlah, jumlah isi rumah ni maksudnya jumlah isi rumah ni lebih kurang 8 juta. 8 juta, 8 juta. Masa kita...
 
-[49:38] Farhan: 8.4 from PADU.
+[49:38] Farhan Iqbal: 8.4 from PADU.
 
 [49:39] Haziq: Actually 8 juta, 8.2 kut.
 
@@ -286,11 +286,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [50:06] Rafizi: Yang yang data rasmi daripada DOSM itu, dia lebih ketatlah definisi dia. Jadi definisi bila kita buat PADU ialah sesiapa yang membayar sendiri perbelanjaan bulanan dia, maksudnya sewa dia bayar sendiri, elektrik dia bayar sendiri, itu dikira sebagai satu isi rumah. Ambil contohnya orang bujang berkongsi empat orang dalam satu isi rumah. Kalau ikut statistik rasmi, itu dikira satu isi rumahlah tu sebab satu rumah kan. Tapi kalau ikut definisi PADU dulu, setiap seorang tu ialah satu isi rumah. Sebab itu kalau ikut PADU punya jumlah isi rumah, lagi besarlah, dalam 12 juta lebihlah. Yang rasmi dalam 8 jutalah kan. So T20 ni, you just ambil the top 20 lah. Sebab itu kalau ikut statistik dialah kan berdasarkan itu, top 20 ni secara nasional ialah isi rumah yang berpendapatan RM12,680 ke atas, satu rumah. Sebab itu berbahaya. Contohnya, ambil satu keluarga dia sebenarnya ada tiga orang yang berpendapatan dalam tu. Dia ada mak, ayah kerja masing-masing, dan anak juga kerja. Katakanlah mak dia kerja, ayah dia kerja gaji 4,000 lebih sebulan, mak dia 3,000 lebih, anak dia baru kerja 3,000 lebih. Dia dah jadi T20 dah. Sebab campur tiga pendapatan tu dah jadi 12,680, lebih kurang macam tu kan. Tapi kalau kita tanya orang, seorang yang umur 50 tahun lebih, gaji 4,800 contohnya, memang confirm dia tak kayalah. Mana ada kaya. Maksudnya orang biasalah. Jadi untuk dia masuk kategori T20 dan tidak layak untuk dapat apa-apa, hatta untuk subsidi minyak pun, memang dia rasa dimangsakan betul-betullah. Sebab itu daripada zaman Datuk Seri Najib masa dia mula-mula perkenalkan ni kan, lepas 7-8 tahun, dasar kerajaan ialah hanya B40 yang mendapat bantuan. Jadi bayangkan orang M40. Kalau B40 sekarang ini ialah pendapatan sehingga RM5,859, ambil satu keluarga muda yang gaji 4,000, 4,000, baru kerja ada anak dua orang semua kan yang masa kos dia tengah tinggi semua tu kan, dia tak dapat apa-apa bantuanlah sebab dia dalam M40. Itu dasar sedia ada yang kita warisi daripada Datuk Seri Najib, tahu kan. Sebab itu nak menjawab yang Paan kan, daripada awal memang dari segi dasar untuk menyasarkan subsidi ini, satu komponen utama ialah untuk kita merungkai dan merombak kembali pengkelasan isi rumah ini supaya lebih adil, lebih tepat. Sebab itu kita buat PADU! Dan konsep dalam PADU itu memang berbezalah. Dan perkara ini telah dibentangkan di kabinet. Saya dah sebut berkali-kali dekat Parlimen semua bila ditanya kan, pembangkang pun tak boleh nak tembak sangat, sebab yang kita sebut tu saya rasa pembangkang pun sedia maklum kalau boleh buat macam tu baguslah. Yaitu pengkelasan isi rumah bagi menentukan bantuan kerajaan dan dasar-dasar kerajaan beralih daripada pendapatan kasar yang macam saya sebut tadi, kepada pendapatan boleh belanja bersih, net disposable income. Sebab itu kita perlukan PADU untuk kita rombak balik yang dataset yang 12 juta setiap isi rumah tu berdasarkan pendapatan kasar ni, lepas tu kita pakai kerat aje, 40% below B40, antara yang ini ke the next 80% yang ini M40, M40 ke atas T20 tak layak, contohnya kan. Kita kata kita kena ambil kira hakikat sebenar kos sara hidup di Malaysia. Ada beberapa perkara yang yang yang tak payah buat PhD ataupun ijazah dalam matematik pun kita sedia maklum. Contohnya kan, kos sara hidup adalah berbeza-beza mengikut geografi. Betul? Sewa rumah lain mengikut tempat. Kemudian harga makanan lain mengikut tempat. Kemudian kos perjalanan lain mengikut tempat kan. Jadi sebab itu, contohnya bagi seorang pekerja yang pendapatan isi rumah dia 8,000 sebulan, kalau dia duduk di Kuala Lumpur dengan 8,000 sebulan, ibu ayah dua orang anak 8,000 sebulan kan, kalau dia hidup di Kuala Lumpur secara yalah, economically-lah maksudnya kan, kehidupan dia tu lebih susah di Kuala Lumpur berbanding kalau 8,000 sebulan ibu bapa dua orang anak duduk di Perlis ataupun duduk di Kelantan, contohnya kan. Jadi lokasi menentukan banyak benda. Kemudian tanggungan. Seorang yang bujang, dia duduk seorang, katakanlah dia kerja di Temerloh, dia kerja kerajaan, gaji dia RM3,500 kan. Dia kalau ikut klasifikasi ada sekarang, dia masuk B40. Jadi semua dia boleh dapat, STR dia boleh dapat, kemudian subsidi itu dia boleh dapat, bantuan semua kan. Berbanding dengan satu keluarga yang duduk di katakanlah Lembah Klanglah, duduk kat Subang Jaya, apa nama ni gaji dia 3,500 kemudian isteri dia 3,500, 7,000. Kemudian anak kecil-kecil lagi dua orang, seorang umur 5 tahun, seorang umur 3 tahun. Dia takkan dapat apa-apa bantuan sebab dia RM7,000 sebulan, atas garis yang dilukis yang senang aje cut across dekat RM5,859 tu. Tapi sebenarnya tanggungan dia jauh lagi besar. Sebab dia ada dua orang anak ni. Anak pula anak yang memerlukan belanja yang besarlah, anak pada umur 5 tahun dan juga 2 tahun kan. Jadi tanggungan ada kesan yang besar. Kemudian dia juga ada faktor dari segi lokasi kerja. Orang yang duduk di luar Lembah Klang ataupun di luar JB, pusat-pusat bandar kan, dia duduk dekat pergi tempat kerja ni dekat. Kemudian kalau dia naik motor, lagilah murahlah kan. Tapi kalau duduk di Kuala Lumpur, di bandar-bandar besar, mereka tidak ada pilihan kecuali menggunakan kereta. Kemudian duduk jauh pula, daripada Seremban duduk kerja kat KL. Nak duduk kat KL, bayar rumah mahal kan. Jadi semua faktor-faktor ini menunjukkan bahawa kalau kita gunakan kaedah pendapatan kasar seperti sedia ada sekarang ini, memang takkan adil. Sebab itu kita kata kita mesti berubah kepada pendapatan boleh belanja bersih. Apa masalah bila kita nak buat pendapatan boleh belanja bersih? Yang ini yang hujah yang digunakan oleh Kementerian Kewangan untuk menolak PADU. Dia ada hujah besar dia. Ini Amir Hamzah ke, Kementerian Kewangan ke, Anwar Ibrahim ke, tolak kononnya PADU ni sebab atas satu hujah. Apa dia?
 
-[58:36] Farhan: Saya rasa saya ingat. Susah nak faham.
+[58:36] Farhan Iqbal: Saya rasa saya ingat. Susah nak faham.
 
 [58:39] Rafizi: Susah nak buat dan susah nak faham. Susah. Jawapan dia susah. Aku macam, ya Allah, mana ada benda dalam dunia yang baik ini mudah, Mat? Memang semua susahlah! Engkau nak jadi PM pun susah kita orang dulu! Aku nak jawab macam itu kan. Jawapan dia, susah. Itu alasan rasmi tahu. Susah. Bayangkan! Aku punyalah telinga aku dahlah besar, aku rasa merah, aku boleh rasa telinga aku panas tau masa dia bagi alasan susah nak buat. Kenapa susah nak buat? Nasib baik kau ingat yang jawapan susah nak buat tu kan.
 
-[59:17] Farhan: Antara sebab dia kalau saya ingat betul-betul is number one, setiap lokaliti berbeza. And then kita, I think we have to first go with PAKW. So, lagi satu yang kenapa susah is because banyak faktor-faktor yang needed to be considered before actually coming to a classification tu.
+[59:17] Farhan Iqbal: Antara sebab dia kalau saya ingat betul-betul is number one, setiap lokaliti berbeza. And then kita, I think we have to first go with PAKW. So, lagi satu yang kenapa susah is because banyak faktor-faktor yang needed to be considered before actually coming to a classification tu.
 
 [59:46] Rafizi: Dia sebenarnya, ini jugalah yang saya ingat orang ramai yang anti-PADU yang lawaknyalah. Yang ini, ini masa untuk aku troll baliklah.
 
@@ -302,11 +302,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:01:49] Rafizi: Mana ada! Mana ada!
 
-[1:01:52] Farhan: Sensus gaji.
+[1:01:52] Farhan Iqbal: Sensus gaji.
 
 [1:01:54] Rafizi: Kita It's not sensus gaji. Okey, setiap tahun kita ada apa yang dipanggil Household Income and Expenditure Survey. Kaji selidik pendapatan dan perbelanjaan negaralah. Dia bukannya pergi banci satu-satu setiap keluarga. Sama yang macam Ramanan tak faham tadilah, dia pakai sampling basis. Dan sampling tu rasanya melibatkan 80,000 keluarga di seluruh Malaysia. Jumlah population size by now mungkin berubah lah, but I think a few years back dia 80,000 isi rumah di seluruh Malaysia. Dan mereka yang terpilih ataupun yang kena paksalah masuk dalam survey tu kan. Sebab undang-undang negara, kita ada Akta Statistik tau. Kalau kau kena jadi sebahagian daripada sample population tu, kau tak boleh kata tak tahu, kau kena. Itu menyalahi undang-undang kata "Saya tak naklah." Kena! Jadi yang 80,000 isi rumah tu, mereka diberikan buku, satu buku yang dia kena isi tiap-tiap bulan berapa dia belanja dan berapa pendapatan dia. Itu yang lawaknya bila Kementerian Kewangan kata susah nak buat, sedangkan semua perkiraan dia mengenai berapa minyak subsidi itu subsidi ini, berapa orang pakai minyak, daripada binatang tulah! So on the one hand we have been using it yang Household Income and Expenditure Survey forever. Sumber itulah yang yang digunakan oleh semua jabatan semua ni. Eh tiba bila nak buat PADU dan juga semua ni nak beralih kepada pendapatan boleh belanja bersih, dia kata susah nak buat. Data susah sebab orang terkini. Sebab kaedahnya sama. Kaedahnya ialah mereka yang terpilih yang mewakili strata keluarga masing-masing, maka perbelanjaan mereka akan dilaporkan dan angka itu akan dikira secara statistik untuk mengira sebenarnya satu isi rumah yang yang biasa. Because bila you katakanlah satu strata, strata itu ialah keluarga muda, isteri, suami, anak dua orang duduk di bandar. Kan ada yang berbelanja tinggi, ada yang berbelanja rendahlah. Selalunya dia akan ambil median lah. Jadi perbelanjaan semua tu memang datanya ada melalui raw data daripada Household Income and Expenditure Survey nilah. Berdasarkan yang itulah untuk kita mengira net disposable income of a household. Pendapatan boleh belanja bersih setiap keluarga, yang itulah kita buat PAKW. Perbelanjaan Asas Kehidupan Wajar. Kan. Maksudnya, apa beza bila kita perkenalkan konsep kehidupan wajar ni berbanding dengan yang ada sekarang ni? Yang lawaknya, benda tu telah diluluskan oleh kabinet.
 
-[1:05:17] Farhan: Dah ada pelancaran saya rasa.
+[1:05:17] Farhan Iqbal: Dah ada pelancaran saya rasa.
 
 [1:05:18] Rafizi: Dah ada pelancaran semua dah. Bukan PM ke lancarkan? Dialah pelancarkan. Ya Allah! Dia lancarkan. Dia yang lancarkan dekat Penang kan. Perbelanjaan asas kehidupan wajar dah lulus kabinet, PM dah lancarkan, lepas tu dia tak nak buat, tak nak pakai kan. Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan DOSM perkenalkan tahun 2024 eh? 24. 2024, berbeza dengan konsep T20, M40, B40 yang mungkin sekarang ini Kementerian Kewangan tengah tengok? Apa beza dia?
 
@@ -322,13 +322,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:06:28] Rafizi: Tak tak tak tak tak tak.
 
-[1:06:29] Farhan: Dia ada keperluan...
+[1:06:29] Farhan Iqbal: Dia ada keperluan...
 
 [1:06:31] Haziq: Ah, ada tiga tu.
 
 [1:06:32] Rafizi: Sains dia.
 
-[1:06:33] Farhan: Keperluan, penyertaan sosial, dan satu lagi...
+[1:06:33] Farhan Iqbal: Keperluan, penyertaan sosial, dan satu lagi...
 
 [1:06:39] Rafizi: Okey.
 
@@ -348,11 +348,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:14:13] Rafizi: Dia miskin! Dia miskin. Dia layak dapat bantuan. Sebab in fact dia tak boleh pun memenuhi perbelanjaan asas kehidupan wajar dia. Kan? Jadi bila kita ada dua angka ini, kita ada pendapatan kasar, kita ada perbelanjaan asas keluarga yang unik kepada setiap keluarga mengikut lokasi, mengikut semua ni kan, then you have a new set of population data. Instead of tabulating dan menentukan kelayakan orang berdasarkan pendapatan kasar, kita sebenarnya tengok net disposable income. Ada akan ada keluarga yang pendapatan kasar dia 9,000 tapi setelah ditolak dengan PAKW dia mengikut saiz keluarga tempat dia, dia mungkin negatif 2,000. Yang itu layak dapat bantuan. Berbanding dengan seorang yang pendapatan kasar dia katakanlah RM5,000 tapi PAKW dia 2,000 atau 2,500 atau 3,000. Yang itu bila you letak dalam populasi, dia sebenarnya mungkin masuk upper M40 lah. Kan, jadi semua ini dah ada dalam PADU. Cuma saya ingat kalau Haziq tanya apa sebenarnya halangan semua ni kan? Politiklah. Kerana tak nak dia bermula dengan PM dan juga MOF takut PM hilang popular kalau kita menggunakan PADU dan kaedah pindahan tunai, kerana itu bermakna harga minyak perlu diapungkan. Ha dia takut. Datuk Seri Anwar ni dia berhantu sebab dulu dia janji "Menang hari ini, esok turun harga minyak." Itu aje sebenarnya! Sedangkan mungkinlah kalau saya berada di tempat dia, saya terangkan semua, saya minta maaflah. Tak apalah nak marah saya, marahlah, tapi negara untuk masa depan semua ni kita perlu beralih kan. So daripada situ, hanya kerana tidak mahu menaikkan harga minyak dan menggunakan kaedah pindahan tunai yang berasaskan PADU yang berasaskan perbelanjaan pendapatan bersih isi rumah, semua tu ditolak. Sekarang ni jadi lawaklah, aku senyum daripada jauh ajelah. Maksudnya sekarang nak kena menjawab T20, B40, M40 ni nak buat macam mana? Sebab kalau tak buat cara macam perbelanjaan pendapatan bersih belanja isi rumah yang kita dah bangunkan melalui PADU tu, memang ramai orang marah. Kerana yang yang T20 dia kata, "Aku T20 apa, tiap-tiap bulan aku tolak tolak tolak aku berhutang." Sebab sebenarnya kalau ikut kaedah PADU dan PAKW, memang dia akan dapat bantuan kerana dia sebenarnya keluarga besar, atau dia ada faktor-faktor lain kan.
 
-[1:17:16] Farhan: So nampak macam a moment of kita boleh katakan in a way, I told you so lah. Secondly also dengan GE16 coming very soon...
+[1:17:16] Farhan Iqbal: So nampak macam a moment of kita boleh katakan in a way, I told you so lah. Secondly also dengan GE16 coming very soon...
 
 [1:17:32] Rafizi: Aku tak adalah nak kata I told you so. Lagi cakap macam tu lagilah dia tak buat.
 
-[1:17:41] Farhan: Tapi unlikely dia orang boleh buat apa-apalah for now, because runway dah terlampau pendek.
+[1:17:41] Farhan Iqbal: Tapi unlikely dia orang boleh buat apa-apalah for now, because runway dah terlampau pendek.
 
 [1:17:49] Rafizi: I don't know lah, I don't know. I mean itu itu yalah, terpulang kepada dia orang nak buat apalah kan. But most probably saya ingat yang Datuk Seri Anwar akan buat dengan Amir Hamzah, MOF ni semua, sebab dia dia sekarang ni dia dah jadi pertembungan egolah. Dia kalau dia nak menggunakan PADU tu maksudnya dia mengaku salah kan. Jadi apa yang akan dibuat, besar kemungkinan macam ni: dia adalah elemen disposable income ni. Dia akan tolak tu tolak nilah, dia bukan perbelanjaan kasar semata-matalah, dia akan kata, "Oh sebenarnya kami pun ada data itu." Jadi but instead of menggunakan PADU yang dah sedia ada tu, dia buat database baru dialah. Sama macam dia buat database baru BUDI 95, jadi dia akan come up with definition baru, style baru semua yang akhirnya, "Oh ini bukan PADU, ini yang kami buat semua ikut keputusan semualah." Tapi membazir masa, membazir wang, dan PADU dah ada dan rakyat Malaysia 21 juta dah isi semua, data lengkap.
 
@@ -360,7 +360,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:19:02] Rafizi: Saya tak rasa dia pergi dekatlah dengan apa-apa yang ada kat Kementerian Ekonomi tu.
 
-[1:19:06] Farhan: Tapi Menteri Ekonomi sekarang, YB Akmal, ada cakap kan yang PADU sebenarnya digunakan, akan digunakan or digunakan?
+[1:19:06] Farhan Iqbal: Tapi Menteri Ekonomi sekarang, YB Akmal, ada cakap kan yang PADU sebenarnya digunakan, akan digunakan or digunakan?
 
 [1:19:15] Rafizi: Memanglah, itu itu yang untuk jabatan-jabatan lain. Jabatan-jabatan lain memang sangat menghargailah, sebab kalau kalau dia nak kumpul sendiri data semua ni, dia tak ada kemampuan dan dia memang perlukan semak. Sebab kalau setiap rakyat Malaysia berurusan dengan satu jabatan kena isi balik semua, benda tu tak masuk akal. Memang dah ada pun satu pangkalan data utama yang memang ada data daripada semua jabatan kerajaan termasuklah EPF, termasuklah PERKESO, termasuk LHDN, dah masuk semua kat situ kan. Jadi jabatan-jabatan lain lebih daripada gembiralah, tapi MOF-lah, MOF takkan pakai kan. Jadi saya tak rasalah mereka akan ke situ. Besar kemungkinanlah, ada kemungkinannya dia akan minta sama ada orang daftar balik ke, ataupun macam biasalah, macam STR tak STR, apa nama ni yang diesel tak diesel kan. Semua kena memohonlah. Memohon baliklah, go through the same process all over again. Masalahnya bila memohon tu, dia nak kena semak juga. Dia nak kena cross check juga, sebab kalau memohon baru ada aje orang tipu kan. Data tu kan dah ada kan. Jadi kita tunggulah.
 
@@ -368,7 +368,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:20:49] Rafizi: Kenapa kau panggil dia Johan Mahmood Merican? Kau ingat dia American ke? Johan Marican.
 
-[1:20:55] Farhan: Merican ke Marican?
+[1:20:55] Farhan Iqbal: Merican ke Marican?
 
 [1:20:56] Rafizi: Marican.
 
@@ -376,7 +376,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:21:00] Rafizi: Yalah, tapi I think pronunciation kita Marican. Mungkin pegawai polis yang tulis nama tu pergi tersalah dengar American, dia pun tulis Merican. Mana dia Marican is a is a common name kan. Memang Marican. Takkan nak panggil Tan Sri Hassan, Tan Sri Hassan Merican? Tan Sri Hassan Marican lah.
 
-[1:21:23] Farhan: Dia American ke Amarican?
+[1:21:23] Farhan Iqbal: Dia American ke Amarican?
 
 [1:21:28] Haziq: Okey, itu satu group dekat Kementerian Kewangan. Kemudian kita ada DAP. YB sebelum ni bagi tahu DAP adalah antara yang menentang kuat PADU dalam kabinet.
 
@@ -404,7 +404,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:27:26] Haziq: Ha betul.
 
-[1:27:27] Farhan: Sekolah tu.
+[1:27:27] Farhan Iqbal: Sekolah tu.
 
 [1:27:28] Haziq: Ha sekolah. 2012 tu Form Form 2 ke Form 1 macam tu.
 
@@ -414,7 +414,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:27:35] Rafizi: Kau tahu poster tu apa dia? Poster Farhash?
 
-[1:27:38] Farhan: Saya baru nak mention.
+[1:27:38] Farhan Iqbal: Saya baru nak mention.
 
 [1:27:40] Haziq: Itu betul Farhash ke, YB? Memang betul Farhash dengan YB?
 
@@ -426,7 +426,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:28:11] Haziq: Yalah, dia combine.
 
-[1:28:12] Farhan: It's a composite photo of two photos.
+[1:28:12] Farhan Iqbal: It's a composite photo of two photos.
 
 [1:28:15] Rafizi: Ya ya ya, bukannya duduk sebelah-sebelah. So macam biasalah photo shoot kan, people take your photo, kemudian people take sebab I I remember giving instruction kepada Sim masa tu kan, I need family photo satu, I need young ones yang multiracial satulah. So design semua tu, designer buat gambar gabung-gabunglah. Itulah, memang ada gambar aku dengan Farhash kan dalam tu kan? Ha itulah.
 
@@ -446,7 +446,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:30:19] Rafizi: Eksais tu apa? Sebelum sampai ke eksaislah. Dia masalah dengan Haziq, bila kita dah go through cepat-cepat tadi kan, dia dia cepat melompat untuk bagi soalan bocor. Dia tidak membantu orang ramai memahami. Okey, komponen. Bila you beli kereta satu, ini harga kereta. Harga kereta ni maksudnya kos untuk kereta tu dan juga margin untung semualah. Okey yang ini yang ini pergi kepada basically car manufacturer semualah. Selain daripada itu apa lagi kita bayar? Komponen apa lagi kita ada? Kita bayar cukai. Cukai itu pergi kepada kerajaan. Jadi contohnya kalau harga kereta 100,000, berapa agak-agaklah komponen cukai yang kita bayar? Okeylah, sebelum itu, sebelum sampai kat situ, sebenarnya apa nama ni berapa jenis cukai yang kita kena bayar untuk kereta?
 
-[1:31:24] Farhan: Import duty.
+[1:31:24] Farhan Iqbal: Import duty.
 
 [1:31:25] Rafizi: Import duty kalau kalau apa nama ni?
 
@@ -474,7 +474,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:32:13] Rafizi: CKD tu stand for what?
 
-[1:32:14] Farhan: Completely knocked down.
+[1:32:14] Farhan Iqbal: Completely knocked down.
 
 [1:32:15] Rafizi: Completely knocked down, CKD kan. CKD maksudnya locally assembled. Maksudnya?
 
@@ -482,21 +482,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:32:28] Rafizi: Komponen tu diimport. Jadi contohnya kereta-kereta luar negara yang CKD kat Malaysia contoh dia apa dia?
 
-[1:32:36] Farhan: Toyota.
+[1:32:36] Farhan Iqbal: Toyota.
 
 [1:32:36] Rafizi: Toyota, lagi?
 
-[1:32:37] Farhan: Honda.
+[1:32:37] Farhan Iqbal: Honda.
 
 [1:32:38] Rafizi: Honda, lagi?
 
 [1:32:41] Haziq: Naza dulu eh?
 
-[1:32:43] Farhan: Bukan Naza.
+[1:32:43] Farhan Iqbal: Bukan Naza.
 
 [1:32:44] Rafizi: Naza, sorry to say, Naza rebadge kan? Banyaknya. Apa nama ni, I think Volvo bukan?
 
-[1:32:51] Farhan: Volvo ada plant I think.
+[1:32:51] Farhan Iqbal: Volvo ada plant I think.
 
 [1:32:52] Rafizi: Ada plant. Kemudian Mercedes ada plant, dekat Pekan tu.
 
@@ -508,7 +508,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:33:19] Rafizi: Berdasarkan jenis kereta, of courselah kan. So back to the reason kita tanya CKD, CBU tu sebab soal import duty. Import duty tu ialah kalau yang sebiji tu kepada CBU lah. Tapi CKD pun ada import komponen dia jugalah, tapi tak teruk macam CBU lah. Selain daripada import duty, ada apa lagi?
 
-[1:33:41] Farhan: Excise duty. Excise duty is only for CBU and CKD cars kan?
+[1:33:41] Farhan Iqbal: Excise duty. Excise duty is only for CBU and CKD cars kan?
 
 [1:33:47] Rafizi: Ha tengok tu salah. Sebenarnya apa maksud excise duty ni yang you guys duk kata excise duty? Excise duty ni sebagai cukai apa dia? Apa bentuk cukai excise duty ni? Sejuk ah.
 
@@ -526,11 +526,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:37:00] Haziq: Google Google Google Google.
 
-[1:37:01] Farhan: SST.
+[1:37:01] Farhan Iqbal: SST.
 
 [1:37:02] Rafizi: Ya, sales tax. Dulu ada GST lah, masa only ada GST. Sekarang ni SST, maka dia ada sales tax kan. Okey. Macam mana tax ni dikira? So ambil contohlah, ambil contoh satu kereta eh. Kereta itu kalau kita ambil contoh dia diimportlah, katakan. Okey, tak payah, okey import. Kita mula dengan kereta import dulu eh. Katalah kereta itu diimport, harga dia masuk ke Malaysia harga untuk manufacturera, campur semualah CIF. CIF ni maksudnya cost plus insurance plus freight. Okey, CIF. So campur lagi margin semua semua semua kepada manufacturer, katakanlah RM100,000 eh. Kereta itu saiz enjin dia katakanlah 1,500 cc lah, di bawah 1,800 cc. I'll come to soal cc kemudian ni kan. Okey. So dia datang daripada China. So dia akan import duty, so import duty dia berapa? Kalau ikut I think MFN ni Most Favoured Nation, China is MFN I think kan. So kos dia bawa masuk semua CIF tu 100,000 kan. Kemudian kita kena bayar import duty kepada kerajaan 30%, jadi RM130,000. Okey eh. Kemudian kena excise duty eh. Excise duty dikenakan mengikut saiz enjin. Contohnya, dengar rakyat Malaysia kan, ni nak ni nak menjawab kenapa nak tak boleh turunkan harga kan. Sebenarnya boleh, tapi let me explain kan. Excise duty paling rendah untuk kereta ialah 75%. So dia ikut saiz enjin. Bawah 1,800 cc 75%, 1,800 ke 1,999 cc 80%, 2,000 ke 2,499 cc 90%, above 2,500 cc 105% eh. So you kira, excise duty ini dikenakan ke atas the last combined cost. So the last combined cost adalah CIF campur semua value basically the cost of the car 100, campur dengan import duty 30, 130. 75% 130 berapa? Senang kira 1.75 * 130 berapa?
 
-[1:39:53] Farhan: 97,000.
+[1:39:53] Farhan Iqbal: 97,000.
 
 [1:39:56] Rafizi: 97,000. So campur 97,000 campur 130 berapa?
 
@@ -550,7 +550,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:45:00] Rafizi: That's no tetapi. I still think that is doable. Tapi benda yang benda yang orang kata yalah, ada kesan besar ni, dia tak mudah untuk dibuatlah. Okey, dia ada beberapa perkara, sebahagiannya soal tax collection. Satu lagi soal how exactly do you implement this eh. But let's take the easy one. The easier one is tax collection kan. Yang bermati-matian yalah, saya fahamlah yang dalam kerajaan MOF ke, Custom ke semua kan, LHDN ke, memanglah dia akan pertahankan cukai ni gila-gila punya. Sebab ini dia punya kutipan hasil kan. Nanti akan kata, "Oh kalau tak ada duit ni kerajaan kalau tak kutip ni kerajaan tak ada duit." Okey kan. But then ask the question, actually eh excise duty ni tiap-tiap tahun berapa kutipan kerajaan? Cari cari cari. It's actually about 7 to 8 billion setahun. Ha.
 
-[1:46:26] Farhan: Total excise duty about 7.4 estimated for 2024.
+[1:46:26] Farhan Iqbal: Total excise duty about 7.4 estimated for 2024.
 
 [1:46:31] Rafizi: Estimated. Dia dia tak tunjuk in detail sebenarnya. Benda ni boleh dibaca daripada yang dibentangkan dekat Parlimen tiap-tiap tahun tu, kerajaan kena bentangkan anggaran pendapatan kerajaan. Daripada situ dia tunjukkan direct tax, indirect tax. Di bawah indirect tax tu sebenarnya adalah excise duty. Tapi kita tahu excise duty tu yang paling besar sebenarnya kereta, rokok semua tak banyak mana kan. So it's actually about 7 to 8 billion setahunlah, bergantung kepada penjualan kereta kan. 7 to 8 billion kan. Kemudian of course okey yang lain tu kita tak payah kacaulah. Soal sales tax, bayarlah 10% kan. Kalau import duty, kalau import kereta tu you bayarlah 30% ke apa sebab you import kereta kan. So then the question, actually mampu ke tidak kerajaan untuk kita forgo 8 billion ini dan kita kutip melalui cara-cara lain atau cukai-cukai lain? 8 billion, to put things in perspective, how big is 8 billion ringgit per year?
 
@@ -558,17 +558,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:47:43] Rafizi: Sebulan! That that put things in perspective. Jadi kalau kalau saya ditanya, boleh ke tidak menurunkan harga minyak harga kereta, financially boleh. Sebab kita kutip dalam 8 bilion setahunlah, kita bayar subsidi minyak 7 bilion sebulan. Ha that make that kan, a lot of. Penganjuran ASEAN, I think kita bayar lebih kurang kita belanja untuk penganjuran ASEAN tu lebih kurang 2 bilion. Kan? So sebenarnya 8 billion sekarang ini kutipan cukai kita dalam berapa eh? I think dalam 100 apa nama ni, hang on eh. Let me see, I think dalam sorry, dalam 230 lah Sorry, dah 300 lebih. No no no. Actually itu federal revenue 300 lebih. Kutipan cukai dalam 280 lah, because federal revenue kalau 330 tolak yang dikutip Petronas semua 50 lebih, dalam 280, 280 lah. So 8% of 280, berapa? Eh sorry, 8 billion out of 280, kira? 2.8? Bukan! 8 billion! 8 over 280.
 
-[1:49:15] Farhan: 2.8%.
+[1:49:15] Farhan Iqbal: 2.8%.
 
 [1:49:16] Rafizi: 2.8%. 2.8% sebenarnya kan. So can we apa nama ni replace that 2.8% daripada sumber-sumber yang lainlah? Sebenarnya if you ask me, boleh. In fact financially saya rasa tak ada masalah untuk buat, cuma jawapannya susah. Susah nak buat kan. Okey now, but the bigger issue sebenarnya kalau kita nak turunkan harga minyak harga minyak lagi, harga kereta ialah to me not so much soal menukar apa nama ni excise duty ni. Dia sebenarnya soal resale value, second-hand market. Cut-off point dia, how do you how do you sequence this? Because contohnya kan, katakanlah kerajaan buat keputusan bermula 1 Januari 2027 excise duty dihapuskan terus. Jadi ambil contoh Myvi lah kut eh? Myvi sekarang dalam okeylah, Myvi yang paling basic lah katakan RM50,000 kan, RM50,000 itu termasuk dengan excise duty tau. So kalau RM50,000, tiba-tiba tahun depan excise duty tak ada, Myvi yang baru harga RM30,000. You baru beli your Myvi tahun ini 2026 RM50,000. So why would anyone wants to buy your car second-hand? Sebab kereta baru RM30,000 kan. Jadi you know, how do you sequence it supaya second-hand market tu tak tak apa nama ni collapse completely. Kemudian soal orang proteslah. Sebab akan ada orang yang dah beli kereta cakap, "Oh tak adillah, saya baru aje beli harga mahal, bayar balik saya punya cukai." Akan ada yang macam tulah, orang kita pun satu. Dia nak suruh turun turun turun, dia kalau tiba-tiba tidak menguntungkan dia walaupun ia menguntungkan orang lain, dia marah. Yang ketiga ialah bila second-hand car ni harga dia jatuh mendadak macam itu, orang semua akan jual kereta tau sebab harga kereta dia murah kan. Buat apa you nak simpan kereta 4 tahun dah buruk, might as well you beli kereta baru aje kan, sebab kereta baru tu mungkin half price kan. So we will end up most probably with lambakan kereta second-hand. Okey, so if we want to do this, we need to figure out sequencing tu. Contohnya we might need to have an arrangement where macam Jepun semua kan, kereta dia dia recon dia dia jual overseas. Kita mungkin boleh jual kat tempat-tempat lainlah, Africa ke, Central Asia ke. Tapi kena ada arrangement and kena ada the system itulah. So ini adalah benda-benda perkara-perkara yang dia dia mungkin kita dah boleh implement contohnya apa ni vehicle's age limit. Tak boleh bawa kereta melebihi 10 tahun, so semua kereta 10 tahun tu...
 
-[1:52:37] Farhan: Macam Singapore.
+[1:52:37] Farhan Iqbal: Macam Singapore.
 
 [1:52:38] Rafizi: Ha either you pergi apa nama ni jual kat yard ke, jadi besi buruk ke apa semualah. So nanti orang marahlah. Ha that's the thing. So susah, susah orang marah, cerewet semuanya kan. Jadi soal dia sekarang ini ialah adakah akan ada kerajaan yang kata, "You know what? I want to have the long-term apa nama ni benefit, long-term benefit dia more money, lebih banyak wang dalam poket keluarga, especially keluarga keluarga muda tau. Sebab keluarga muda yang sangat tertekan dengan harga kereta ni, sebab it forms quite a big chunk daripada perbelanjaan bulanan dia kan. I want to have a long-term benefit of less pollution kerana kereta-kereta semua ni semua kereta baru kan." So ini antara benda-benda yang perlu diputuskan pilihanlah. Dan kalau nak buat, maksudnya dia kena ada anjakan dari keseluruhan sistem percukaian kita supaya we can make up kepada that 3% of revenue loss daripada car excise.
 
 [1:53:52] Haziq: Cuma kalau kita buat ni, bukankah akan menggalakkan lebih ramai orang beli kereta dan akan defeat the purpose of kita nak suruh naik public transport lah, kurangkan emission lah?
 
-[1:54:06] Farhan: It doesn't solve the high dependency on personal vehicles yang we talked about.
+[1:54:06] Farhan Iqbal: It doesn't solve the high dependency on personal vehicles yang we talked about.
 
 [1:54:09] Haziq: Sebab kita pun per kapita kedua tertinggi selepas Jepun, ownership of car.
 
@@ -598,7 +598,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:33] Rafizi: By 2050.
 
-[2:01:35] Farhan: Maybe nak add-on to what Haziq cakaplah. I think the conversation yang paling kuat adalah consumers merasakan atau rakyat Malaysia merasakan is it fair to the consumers, because finally dia orang rasa macam market start to be flooded with kononnya more affordable. Sebelum ni kita tengok BMW and all BMW, Porsche, Mercedes punya electric vehicles, and now slowly more and more Chinese-made EVs coming in, tapi with this new policy, mereka rasa atau mereka takut yang, "Okey, that's it for cheap EVs lah."
+[2:01:35] Farhan Iqbal: Maybe nak add-on to what Haziq cakaplah. I think the conversation yang paling kuat adalah consumers merasakan atau rakyat Malaysia merasakan is it fair to the consumers, because finally dia orang rasa macam market start to be flooded with kononnya more affordable. Sebelum ni kita tengok BMW and all BMW, Porsche, Mercedes punya electric vehicles, and now slowly more and more Chinese-made EVs coming in, tapi with this new policy, mereka rasa atau mereka takut yang, "Okey, that's it for cheap EVs lah."
 
 [2:02:18] Rafizi: Untuk pengetahuan yang menontonlah kan, bukan semua saya ingat yalah kita perlu terangkan juga apa sebenarnya dasar ini kan, kenapa kereta tak boleh masuk eh. Malaysia tak ada lagi selain daripada yang Proton dan juga Perodua dua tu, saya tak rasa kita ada local assembly of EV kan? Ada syarikat-syarikat lain yang antarabangsa ada yang local assembly kat sini? Tak ada kan?
 
@@ -614,17 +614,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:06:01] Rafizi: Fuel cost, kos larian. Dia tak ada maintenance kan, kemudian especially fuel cost lah. I think fuel cost EV untuk charging yalah kalau kita kira pada rate electricity kan, berbanding dengan harga RON 95, I think it's what, 60% cheaper? 60% cheaper. Jadi kalau sekarang satu bulan dengan subsidi pun minyak yang ada sekarang ni kalau satu bulan katakanlah dia habiskan RM100 untuk RON 95, sebenarnya kalau dia ada EV, sebenarnya dia belanja RM40 aje. RM60 tu dia simpan kan, 60% cheaper. Kan?
 
-[2:06:45] Farhan: I've heard it being cheaper lah.
+[2:06:45] Farhan Iqbal: I've heard it being cheaper lah.
 
 [2:06:48] Rafizi: Ha ya ya. I think it's 60 Depending on car lah dan juga usage, but it's about what, 40 to 60% cheaper lah kan.
 
-[2:06:55] Farhan: Ada some kawan yang I think pergi kerja lebih kurang 10 km, dia orang spend about RM30 a month to run the EV car.
+[2:06:55] Farhan Iqbal: Ada some kawan yang I think pergi kerja lebih kurang 10 km, dia orang spend about RM30 a month to run the EV car.
 
 [2:07:04] Rafizi: Ya ya ya.
 
 [2:07:05] Haziq: Dia kata yalah, kalau macam equivalent kepada isi penuh satu apa penuh satu tong?
 
-[2:07:11] Farhan: Tank.
+[2:07:11] Farhan Iqbal: Tank.
 
 [2:07:12] Haziq: Penuh satu tank RM25 macam tu.
 
@@ -634,21 +634,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:07:20] Rafizi: So betullah lebih kurang. Kalau kalau in fact that's higher, sebab satu tank lebih kurang RM100 dengan harga subsidi sekarang kan. So untuk the same mileage semua tu kalau RM25, that's 75% cheaper. So that's why the range is between 40 to 60% cheaper lah kan. So sebenarnya benda tu baik untuk rakyat, kerana more money in their pocket kan. Juga baik untuk negaralah, kerana maksudnya kalau orang kurang pakai RON 95, pakai petrol ni, jumlah subsidi yang dibayar tak adalah sampai 7 billion a month kan. So itu pun diperlukan untuk apa nama ni rakyatlah kan. Okey that's one side of the argument why kita nak kena sebenarnya sebab itu ada dasar-dasar negara untuk mempercepatkan EV adoption. Kemudian EV adoption ni dia bergantung kepada infrastruktur kan, charging station. Dia chicken and egg. Sebab syarikat yang nak memasang charging station ni kalau orang tak ramai pakai EV ataupun EV ni hanyalah di sekitar KL, maka charging station ada kat KL sajalah. Itu yang bila balik kampung tu bergaduh orang beratur panjang, siapa yang PHEV pun kena marah, janganlah charge kat sini ini untuk kita orang saja kan. Sebab bila jumlah EV belum sampai critical mass, maka syarikat-syarikat pun dia tengok dekat mana yang banyak EV sajalah. Kalau the further away daripada Kuala Lumpur, lagi kuranglah kan. Okey eh, itu di pihak rakyat semua kan. Di pihak industri macam mana? Dan di pihak industri itu pun sebab itu dia quite dicey juga soalan yang yang apa nama ni Paan tanya. Di pihak industri macam mana? Apa keutamaan negara di pihak industri? Satu ialah kita nak protect jobs kan, sebab seperti yang MITI katalah, although it's a with a caveat sebenarnya. Dia dia kita tak boleh pakai blanket macam itu saja. Caveat daripada MITI begini: kita kena melindungi industri kereta tempatan sebab dia ini bukan hanya untuk Proton atau Perodua semata-mata, dia berpuluh ribu syarikat dan pekerja terutamanya sepanjang rantaian nilai komponen kereta itu memerlukan industri ini, sebab kalau mereka tidak boleh bersaing dengan kereta-kereta import luar negara ini, maka mereka hilang kerja, tutup kedai, tu satu hallah. Tapi maksudnya pupuslah industri automotif di Malaysia. Itu argumen di peringkat MITI. Kan? Untuk menjawab yang yang apa nama ni Paan tanya tadi lah. Isu dia bagi sayalah, bukannya soal either or. Bukannya soal kalau kita nak bantu rakyat dan kita nak pastikan rakyat mampu ada EV yang mencapai semua matlamat negara mengenai tenaga, kos sara hidup semua tu, maka kita tidak boleh lari maka industri tempatan Proton, Perodua ni dan juga semua pembekal dan juga industri sokongan automotif akan hancur di Malaysia kerana kalah dengan kereta China semua ni kan. It's actually not an either or. It could have been handled better pada pandangan saya eh. Sebab kita ada enam tahun. Kan bila mula-mula kerajaan bagi tumpuan EV ni 2019, 2020. Tax holiday, sebab yang jadi isu sekarang ni, sebelum ini ada tax holiday. Ha yang itu pun sebenarnya aku pun tak puas hati sangat sebenarnya. Sebab dia tak tak berlaku adil kepada semua rakyat Malaysia yang yang lain daripada luar KL ataupun yang yang tak mampu. Sebab kalau kereta biasa kena bayar sampai 100% cukai tu. Budak miskin yang duduk dekat Gua Musang pun beli Proton Saga kena bayar cukai 100% kan. Tapi seorang middle class dia beli BYD RM150,000 kat KL, 1 sen cukai dia tak bayar. Siapa yang buat keputusan tu? Tengku Zafrul, masa dia masa dia masa dia Menteri Kewangan dululah. Alasannya ialah untuk menggalakkan penggunaan EV kan. Macam simplistik kan. Ha macam simplistik lah, simplistik kan. Dan benda itu berterusan sampai sekarang bila Datuk Seri Johari Ghani jadi MITI baru dia buat keputusan itulah. MOF dulu buat keputusan tax holiday tak ada, kemudian Datuk Seri Johari Ghani sebenarnya buat keputusan tak boleh bawa masuk pun lagi kan. Sekarang sebenarnya kita ada enam tahun. So saya setuju kita kena bangunkan apa nama ni industri automotif yang tempatan ni satu, yang Perodua dengan Proton. Kita juga nak kena bangunkan CKD lah kat Malaysia, supaya kalau nak jual, sebaiknya jual yang kat Malaysia, yang pasang di Malaysia. Macam Honda ke, Mercedes ke apa, kerana dia mewujudkan peluang pekerjaan dan dia mewujudkan industri hiliran yang membekalkan komponen semua ni kan, vendor semua eh. Isu dia ialah the haphazard manner benda ni dibuat. Sebab dia mengejut tau. Tiba-tiba saja dalam tempoh tiga bulan, tak boleh langsung dah. Okey. Sebelum pelaksanaan. Then isu yang kedua, dan saya ingat saya tanya benda ni di kabinet tau. Sebenarnya EV ni bagus, dan sebagai menteri yang merangka pelan peralihan tenaga tu, saya nak tahu sebenarnya apa plan MITI untuk mempercepatkan EV adoption. Terutamanya juga untuk berlaku adil kepada orang biasa, kenapa kita tak membenarkan lebih cepat EV-EV yang lebih kecil ni? Sebab EV yang masuk kat Malaysia yang dapat AP sebelum ni harga dia antara 100 ke 150,000. Tapi the moment dia 100, 150,000, dia sebenarnya out of reach untuk keluarga biasa. Ada negara lain, yalah Chinalah kan, ada aje yang EV 50,000, 60,000. Kenapa tak bagi bawa masuk yang itu? Yang itu yang lagi penting daripada yang 100, 150,000 ke atas ni. Yalah jawapan masa itu daripada MITI saya ingat ialah sebab nak bagi ruang dan masa kepada Perodua dan Proton siapkan apa nama ni EV mereka dalam kategori itu. Supaya rakyat boleh pakai yang itu kan. Aku dalam hati cakap, okey fair enough, tapi janganlah lambat sangat, kesian kat orang. Kan? So finally Proton launch dia punya tahun bila? 2024?
 
-[2:15:21] Farhan: e.MAS? e.MAS 7.
+[2:15:21] Farhan Iqbal: e.MAS? e.MAS 7.
 
-[2:15:25] Farhan: Ya, end of 2024. And then Perodua punya?
+[2:15:25] Farhan Iqbal: Ya, end of 2024. And then Perodua punya?
 
 [2:15:28] Haziq: Tahun lepas.
 
-[2:15:29] Farhan: Tahun lepas, 2025 kan?
+[2:15:29] Farhan Iqbal: Tahun lepas, 2025 kan?
 
 [2:15:31] Rafizi: Okey. Dan the question is protection yang Paan tanya tadi kan, adakah kita berlaku adil kepada rakyat bila kita tak benarkan EV yang lebih murah itu daripada luar negara masuk kan?
 
-[2:15:54] Farhan: Sorry, silap. e.MAS last year baru launch.
+[2:15:54] Farhan Iqbal: Sorry, silap. e.MAS last year baru launch.
 
 [2:15:58] Rafizi: e.MAS last year, 2025. Perodua pun last year?
 
-[2:16:02] Farhan: Perodua early this year I think.
+[2:16:02] Farhan Iqbal: Perodua early this year I think.
 
 [2:16:05] Rafizi: Baik eh. Now, the issue is kalau kita dah buat planning awal, kita nak tengok Proton dengan Perodua launch 2025 semua ni kan, dan untuk kita memastikan ada persaingan EV pada harga yang lebih murah kepada rakyat, sepatutnya 2026 ni CKD kilang CKD ni dah adalah, dah produce dah. Jadi sepatutnya keputusan untuk tidak membenarkan ataupun mula mengawal kemasukan CBU ni sepatutnya dibuat dengan mengambil kira bila sebenarnya local assembly of CKD akan berlaku. I don't think that's the case now lah. Dia sangat abrupt. Bila dia abrupt dalam tempoh tiga bulan tak boleh bawa masuk dan hanya membenarkan inventori yang sedia ada, yalah bagus untuk Protonlah kerana nak tak nak orang kena apa nama beli Proton ataupun Perodualah kan. Tapi kepada rakyat, rakyat akan rasa macam kami ter dipaksa untuk menyokong Proton ataupun Perodua tanpa kami ada pilihan sendirilah. Jadi so my my view is in the long term memanglah kita nakkan supaya kita ada persaingan yang sihat dan manufacturing happens locally melalui CKD. Tetapi kalaulah MITI dah ada forward planning lebih awal 2022, 2023 kan, maksudnya pelaburan-pelaburan untuk pasang kereta ni dah dibuat because they already know within two, three years begitu semua kan. So keputusan untuk menghentikan AP kepada CBU daripada China ni sepatutnya mengambil kira the those facilities coming online. Yang itu saya tak pasti. Sebenarnya CKD-CKD BYD semua ni bila akan Tapi ada berita besar ada berita yang mengatakan BYD mungkin takkan buka dah kat sini.
 
@@ -662,21 +662,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:21:25] Haziq: Okey.
 
-[2:21:26] Farhan: Saya hiduplah.
+[2:21:26] Farhan Iqbal: Saya hiduplah.
 
 [2:21:27] Rafizi: Ha ha tapi ha maksudnya maksud maksud hidup tu maksudnya tak bawa keretalah lagilah zaman 90s kan, zaman 80s kan. Especially 90s lah yang memuncak sangat tu, nak beli Proton kena tunggu 6 bulan.
 
 [2:21:41] Haziq: Lamanya!
 
-[2:21:42] Farhan: Macam masa first Tesla launch ah.
+[2:21:42] Farhan Iqbal: Macam masa first Tesla launch ah.
 
 [2:21:44] Rafizi: Tak tak tak, memang masa masa tu dasar dia memang susah, kereta lain mahal semua kan. Masa tu Toyota semua, jadi I think what, most probably four out of five cars were Proton back then I think. Jadi maksudnya monopoli ni bila bila tidak ada pilihan, memanglah kualiti tak begitu baik kerana why bother? Kan? Sebab itu dulu-dulu orang buat lawak pasal Proton apa nama ni dia punya side mirror tu tolak sikit aje jatuh kan semua, sebab why bother kan? Nak tak nak orang nak beli kereta they have no choice, they have to buy Proton. Jadi is you know, without question kalau rakyat tidak ada pilihan, maka dia sebenarnya in the long run dia tidak mempertahankan Proton pun. Dan kalau tengok kepada industri US lah eh, industri US, US punya car, automotive industry kan, buat pusing ikut mana pun US, akhirnya dia punya car industry to fail. Sebab mula dia tak boleh compete dengan Japan. Sebab Japan was a lot more efficient, competitive, high quality and cheaper kan. So dia tak boleh compete dengan US. The most yang dia boleh buat ialah dia paksa Japan buka kilang dekat US. Sebab tu you tengok banyak Proton banyak ni eh Proton pula, banyak Honda, banyak Toyota di Jepunlah because of the Accord Plaza 1991 dulu that created that lah kan. Sekarang tak boleh compete even European, even US, especially US tak boleh compete dengan China pula. Even Japanese pun find it quite difficult to to compete dengan China kan. Jadi saya tak katalah kita patut lepas tangan Proton semua ni macam itu, but we have to accept reality bahawa the best way is to compete. How do you phase in the competition tu? Kalau orang nampak dia sebagai blank check kepada Proton ataupun Perodua, is also not good for Proton and Perodua because dia tak ada push untuk dia step up the game.
 
-[2:24:11] Farhan: And then and then also the issue of because so apa, that protectionism policy tu sangat kuat, kira kita pun tak ada innovation lah.
+[2:24:11] Farhan Iqbal: And then and then also the issue of because so apa, that protectionism policy tu sangat kuat, kira kita pun tak ada innovation lah.
 
 [2:24:21] Rafizi: Yalah, precisely tak ada innovation lah. Tak tak.
 
-[2:24:24] Farhan: That's what happened to China and that's why dia orang maju.
+[2:24:24] Farhan Iqbal: That's what happened to China and that's why dia orang maju.
 
 [2:24:28] Rafizi: So ini menariklah, because aku tengok Ahli Parlimen PKR Bayan Baru ni tengoklah macam mana dia nak bersilat. I'm I'm not saying that is easy. Mungkin orang kata mudahlah kau komen, kau bukan menteri. Yalah, but then again if you are menteri, especially in the case of Zafrul, daripada you Menteri Kewangan sampai you jadi Menteri MITI managing this whole cerita EV ni, you ada 5 tahun, 6 tahun. And akhirnya jadi macam ini kan.
 
@@ -714,7 +714,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:29:26] Haziq: Okey, penonton maki. Maaf geng. Jadi mungkin yang terakhir sekalilah, Paan nak tanya ke saya nak tanya?
 
-[2:29:52] Farhan: Dipersilakan.
+[2:29:52] Farhan Iqbal: Dipersilakan.
 
 [2:29:53] Haziq: Okey. Yalah YB dah jelaskan reflection dan pandangan YB tentang politik semua, tapi daripada segi satu lagi kerangka yang lebih besarlah selain daripada how we bring ourselves, what politics should be dalam mungkin kerangka yang yang lebih besar, governance ke apakah?
 
@@ -728,11 +728,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:34:47] Rafizi: Boleh boleh boleh boleh kan. Tapi jangkaan kita gayanya macam dewan tu akan penuh. Tapi bagi mereka yang yang tak dapat hadir sendiri, jangan lupa untuk ikuti live lah dekat YouTube saya. Sebab kita tahulah ramai orang sekarang tengok live. Live kita akan bermula mungkin seawal 1.30 kut eh?
 
-[2:35:14] Farhan: 1.45.
+[2:35:14] Farhan Iqbal: 1.45.
 
 [2:35:15] Rafizi: 1.45 kan, 1.45. Pukul 2.00 kita bermula secara rasmi. Pukul 1.00 tu orang dah datang, 1.45 our live bermula. Dan saya juga jemput seberapa ramai live streamers untuk datang kan, supaya bukan saja di channel saya tetapi di channel-channel YouTube seberapa ramai datanglah.
 
-[2:35:39] Farhan: Nak restream balik stream?
+[2:35:39] Farhan Iqbal: Nak restream balik stream?
 
 [2:35:40] Rafizi: Dan bagi mereka yang nak restream balik daripada YouTube saya, boleh restream balik kan. Dan kalau boleh monetize, monetizelah kau orang. Ambillah duit daripada YouTube tu kan.
 
@@ -748,7 +748,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:36:09] Rafizi: Ceritanya macam ini: kita dah tetapkan benda ini bulan dua, pertengahan bulan dua I think, pertengahan bulan dua kan. Pertengahan bulan dua kita dah start. Kita orang miskin, kita nak book apa nama ni dewan ni bukanlah ada duit banyak yang boleh pergi book dewan last minute ke dewan besar apa. Kita kena cari dewan yang yang taklah mahal mana and then kena book awal. Kemudian murah dan bermaruah kan. Kemudian kita juga ada berapa kerat aje sesama kita nak prepare semua tu kan. Jadi sebenarnya kami dah decide lebih awal daripada pertengahan bulan dua, persiapan semua tu dah ada semua daripada pertengahan bulan dua kan. Yalah, masalahnya saya pun saya dengan Datuk Seri Anwar ke PH ke, kita bukan BFF sekarang. Jadi dia pun tak tanya saya tarikh, dia pun pergi umum. Nasib dialah, dah buat macam mana kan.
 
-[2:37:16] Farhan: Kebetulan sama tarikh dengan tahun lepas.
+[2:37:16] Farhan Iqbal: Kebetulan sama tarikh dengan tahun lepas.
 
 [2:37:19] Haziq: Tahun lepas pun ada pertembungan dua juga.
 
@@ -758,15 +758,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:38:18] Rafizi: Masa itu pun sebenarnya mereka tukar. Asalnya malam. Kita memang dah set macam ini tarikh, tempat dan masa ni daripada pertengahan bulan dua pun, kita tak umum kat orang aje kan. Yang itu notis awal Konvensyen Pakatan Harapan malam, pukul 8.00. Entah macam mana tukar last minute, itulah kuasa Allah lagi. Sampai ke petang sehinggakan most probably aku dengan Presiden PKR akan berucap lebih kurang pada masa yang sama kan. Okey, baik, itu ajelah kut. Jadi apa-apa pun yang penting datang pada hari Ahad ni.
 
-[2:39:00] Farhan: Kejap, tapi kita mungkin kena highlight. Minggu ni kita dengar pandangan dan luahan YB Raf.
+[2:39:00] Farhan Iqbal: Kejap, tapi kita mungkin kena highlight. Minggu ni kita dengar pandangan dan luahan YB Raf.
 
 [2:39:09] Haziq: Okey.
 
-[2:39:10] Farhan: Minggu depan insya-Allah kalau diizinkan kita ada YB Nik sekali lah untuk maybe...
+[2:39:10] Farhan Iqbal: Minggu depan insya-Allah kalau diizinkan kita ada YB Nik sekali lah untuk maybe...
 
 [2:39:18] Rafizi: Boleh, boleh.
 
-[2:39:19] Farhan: Boleh serang dia pula.
+[2:39:19] Farhan Iqbal: Boleh serang dia pula.
 
 [2:39:21] Haziq: Okey YB Nik, bersedia.
 

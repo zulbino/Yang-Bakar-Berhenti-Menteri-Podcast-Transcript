@@ -70,11 +70,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:17] Haziq: Oh patutlah.
 
-[07:19] Farhan: Ada beberapa orang actually draw parallels dengan Azmin Ali.
+[07:19] Farhan Iqbal: Ada beberapa orang actually draw parallels dengan Azmin Ali.
 
 [07:25] Rafizi Ramli: Azmin? Saya tak tahulah kan tapi Azmin mana boleh, tak sama. Makam Azmin lagi tinggi, dia di Masjidil Haram. Tak, so yang ini masa tengah kelam-kabut, jadi saya pun tak perasan agaknya Kak Ogy datang singgah dia ambil gambar kan sebab kalau tidak kita tak sempat nak siapkan dan siapkan kedai itulah dalam tempoh kurang daripada 24 jam kan. Tapi ni biasalah tentera troll kebangsaan Malaysia ni rekod dia macam tulah. Dulu dia, dia WalaJib kan. Dia memang daripada dulu suka hina saya sebab saya kempen banyak dengan yalah, menentang Najib. Jadi saya ingat ni saki-baki WalaJib sama ada masih lagi berbayar ke tidak tu tak tahulah kan. Tapi dia pun ambil kesempatanlah. "Tauke kedai mop lantai" kan. Konotasi ni pun sebenarnya menunjukkan ada benda yang tak betul dengan kepala otak orang Melayu ni. Saya ingat tentera troll kebangsaan Malaysia ni Melayulah kut kan. Gaya dia ni bila dia cakap zaman ekonomi tak menentu ni sampai tauke kedai pun kena mop sendiri. Eh actually businessman memang dia buat sendiri. Dia masalahnya kita ni tersangat terpengaruh dengan budaya rasuah dan jalan singkat yang orang Melayu ingat kalau business ni semua kena megah holding. Ha bos duduk kat dalam. Eh bos yang sebenar memang dia buat sendiri tahu. Memang sebab itu anak buah ke pekerja dia tahu tak boleh nak kelentong bos dia, dia buat semua kan. Jadi mana-mana kalau bacalah, semua business syarikat yang paling besar, orang bos yang awal tu memang dia buat sendirilah. Dan sebab itu kalau nak kata zaman ekonomi tak menentu ni sampai tauke kedai pun kena mop sendiri, dia rasa lawak, sebenarnya bodohlah.
 
-[09:41] Farhan: Tapi gambar tu sebenarnya sebelum kedai buka?
+[09:41] Farhan Iqbal: Tapi gambar tu sebenarnya sebelum kedai buka?
 
 [09:44] Rafizi Ramli: Ya, sebelum tu. Tu yang saya kata ni saya ingat ni dalam pukul 5:00, 6:00 petang kan. Masa tu tengah panik sebab masa nilah juga nak kena prepare untuk esok, masa ni jugalah barang mentah baru sampai, masa nilah juga nak pasang semua kan. Dan awalnya staf kata kami nak siapkan semua kat dapur semua, lepas tu baru kami nak mop. Jadi saya kata kau orang nak siap pukul berapa ni? Pukul 3:00, 4:00 pagi. Kalau 3:00, 4:00 pagi siap semua ni kau orang tak mop dah. Orang datang esok kotor. Lagipun dia baru habis construction dua tiga hari sebelum tu kan. Lepas ni saya tak mop dah sekarang. Semalam aje saya cuci ayam. Itu pun bukan sebab sebab ekonomi tak menentulah. Sebabnya ramai sangat orang, jadi kita cepat habis ayam yang telah disediakan. Jadi our estimate tu dia, dia lebih cepatlah. Jadi terpaksalah aku cuci ayam semalam.
 
@@ -120,7 +120,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [14:59] Rafizi Ramli: Tak adalah sebab aku dulu pun tak tahu. Even as I grow older then I realise and I do a lot more yalah data science, statistik semua, then I realise sebenarnya among antara yang paling beautiful maths is actually the bell curve maths lah sebab it explains so many things dalam society kan. So minta maaflah kaki-kaki yang suka terutamanya pakai stereotaip kaum ni, minta maaflah kalau saya sebut kau orang ni sampah masyarakat sebenarnya. Dahlah tak reti matematik.
 
-[15:34] Farhan: Buka new segmentlah lepas ni.
+[15:34] Farhan Iqbal: Buka new segmentlah lepas ni.
 
 [15:37] Rafizi Ramli: Sampah masyarakat. Kita buat yang baru ha sampah masyarakat ha.
 
@@ -144,11 +144,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [17:12] Rafizi Ramli: Tak tentu juga. Dulu lain, contohnya penjawat awam ada Lembaga Perumahan Penjawat Awam kan, LPPSA kan. Dulu masa interest rate tinggi, 9%, 10%, jadi skim yang ditawarkan melalui skim penjawat awam contohnya dia lebih menariklah kerana 4%. Tapi sekarang kalau tengok kadar faedah atau kadar keuntungan yang dikenakan kepada mortgage ataupun pinjaman perumahan daripada bank, sebenarnya sekitar 4.3%, 4.4% aje. Sebab proses birokrasi dia kalau nak refinance, mortgage nya lebih panjang kan. Jadi itu untuk kerajaan persekutuan. Jadi contohnya kalau untuk ADUN, kalau dia nak beli kereta, pergilah kat bank. Sekarang interest rate bank pun dalam 2% lebih, hire purchase is around 2% plus. Jadi maksudnya effective interest rate lebih kurang 3% aje. Kecuali dia orang tak payah bayar interest rate lah kut bawah skim ni kan? Mesti ada interest rate kan.
 
-[18:27] Farhan: Dia punya alasan yang dibagi is kalau dikira pun dengan 32 ADUN, jumlah maksimum RM200,000 setiap orang, nilainya hanya 6.4 juta bukan 16 juta.
+[18:27] Farhan Iqbal: Dia punya alasan yang dibagi is kalau dikira pun dengan 32 ADUN, jumlah maksimum RM200,000 setiap orang, nilainya hanya 6.4 juta bukan 16 juta.
 
 [18:39] Haziq: Dewan dia jawab allegation sebab ada yang kata 16 juta. Oh mana ada, bukan 16 juta.
 
-[18:43] Farhan: But even the logic of menggunakan angka kecil untuk Terengganu pun I think...
+[18:43] Farhan Iqbal: But even the logic of menggunakan angka kecil untuk Terengganu pun I think...
 
 [18:49] Rafizi Ramli: Tak, dia selalu yalah sesuatu keputusan kerajaan tu dia perlu mengambil kira lebih banyak perkara dan pertimbangan berbanding dengan contohnya pertimbangan swasta ataupun pertimbangan biasa yang yang tidak berkepentingan awamlah. Satu sudah tentu soal kemampuan. Kerajaan Terengganu tak ada kemampuan kerana hasil yang dikutip daripada negeri itu sendiri, maksudnya daripada cukai tanah dan hasil-hasil lain, antara yang paling rendah di Malaysia. Nombor dua paling corot, dia tinggi dia lebih tinggi daripada Perlis aje. Saya ingat dalam sekitar 185 juta setahun. Belanjawan yang diumumkan tiap-tiap tahun itu 1 billion lebih tu, itu ialah hasil daripada sumbangan Persekutuan, geran Persekutuan kan. Kerajaan PAS bolehlah sebut oh tapi itu memang duit kita, gini gitu gini semua kan. Tapi maksudnya Kerajaan Negeri Terengganu dengan pentadbiran yang ada sekarang ni, kalau sebuah syarikat swasta, dia panggil going concern. Maksudnya dia ni tak boleh beroperasi dah kerana setiap tahun dan dengan corak yang ada tu sampai bila-bila jumlah kutipan itu tidak mampu membayar tanggungan. Jadi dalam sebuah kerajaan yang keadaan kewangan dia begitu, satu sen pun dia jadi defisit, satu sen pun dikira berkiralah. Tak kisahlah 6 juta ke, 16 juta ke kan. Itu satu pertimbanganlah dari segi kewangan semata-mata. Tapi yang lebih besar soal moral. Maksudnya pertimbangan moral dalam keadaan ramai lagi yang memerlukan bantuan rakyat Terengganu, baik orang miskin, baik contohnya pelajar-pelajar. Jadi tambah pula macam saya sebut tadi, kalau ADUN yang memang gaji dia jauh lebih tinggi daripada orang biasa, kalau dia ada kemampuan nak beli kereta RM200,000, pergi kat bank alah. Pinjamlah, bayar alah kat bank tu supaya 6 juta lebih, 6.4 juta kan, tolong kira kalau 6.4 juta bagi biasiswa kepada anak-anak Terengganu, katakanlah bagi RM200 sebulan dia jadi RM1,200. 6.4 juta bahagi RM1,200 dapat berapa?
 
@@ -170,11 +170,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:23] Rafizi Ramli: Dia bukannya daripada CEO dia turun ke jalan macam kami yang berpuluh yang kita letak jawatan pada usia yang muda, kemudian kita forfeit kerjaya kita, turun keliling Malaysia, kemudian bersama-sama keluar masuk apa namanya lokap segala-galanyalah kan. Tengku Zafrul dia letak jawatan, dia jadi menteri. Selain daripada gaji yang dia ada tu, elaun yang lain semua dan semuanya dibayar semua. Jadi saya tak kiralah kalau orang korporat ni daripada korporat terus jadi menteri semua tanpa ada rekod yang panjang membawa isu dan membela rakyat terutamanya suara-suara yang terpinggir, perkara-perkara yang terpinggir dalam masyarakat, saya tak kira sangatlah itu sebagai berkorban.
 
-[28:22] Farhan: Can I pose one question? Because...
+[28:22] Farhan Iqbal: Can I pose one question? Because...
 
 [28:25] Rafizi Ramli: Kalau aku cakap tak boleh?
 
-[28:27] Farhan: Tak boleh pun kena tanya juga. Boleh. Sebab ada, ada a few comments yang mengatakan actually masa Zafrul masuk ke arena politik or arena government ni, dia dikatakan seorang teknokrat. Ramai yang menyuarakan actually Malaysia perlukan lebih teknokratik politicians. What's your view on that?
+[28:27] Farhan Iqbal: Tak boleh pun kena tanya juga. Boleh. Sebab ada, ada a few comments yang mengatakan actually masa Zafrul masuk ke arena politik or arena government ni, dia dikatakan seorang teknokrat. Ramai yang menyuarakan actually Malaysia perlukan lebih teknokratik politicians. What's your view on that?
 
 [28:48] Rafizi Ramli: Dia sebenarnya kita perlukan ahli politik yang akhirnya menjawat jawatan yang ada latar belakang berpengetahuan. Kita pukul rata mudahlah, maksudnya semua teknokrat yang sebelum ini ada jawapan jawatan yang tinggi sebelum ini, mereka ini akan menjadi menteri yang lebih baik. Partially true, betul eh. Masalah tetapi ada satu unintended consequence yang kadang-kadang kita tak tengok. Saya fahamlah masyarakat ni sebab kadang-kadang kita menyampah tengok ahli politik sebab kita kata ya Allah dia duk sibuk komen pasal hidung tugu gangsa tak mancung. Jadi sebab itu orang kata tak ada orang lain ke? Dan bila kita tengok tokoh korporat sana gini semua, kita rasa kan lebih baik dia jadi. Tapi sebenarnya politik ni bukan semata-mata soal kemahiran teknokrat, yang itu memang wajib. Kita tak boleh jadi masyarakat yang kata kita perlu memilih di antara ahli politik yang tak tahu apa-apa pasal ilmu pentadbiran, pasal tak ada pengalaman ataupun kita ambil teknokrat yang tak ada langsung pengalaman dengan rakyat. Actually requirement dalam untuk menjadi seorang bagi saya pemimpin yang baik ialah dua-dua. Why do we settle for less? Kita sekarang ni oleh kerana kita rasa Allah tak ada ke orang lain kan. Jadi sebab itu tanggungjawab masyarakat juga dan yang ini yang selalunya yang muda-muda dalam PKR ni tak suka kat saya bila saya tak layan sangat sebab saya tak, saya kurang selesa kalau muda-muda lagi dah jadi full-time politician. Sebab saya rasa bagus orang nak jadi politician tapi it's a requirement that you do both. Belajarlah, kerjalah, adalah kerjaya yang baik. Malam, di luar bidang pekerjaan, weekend pergi berkhidmat dengan rakyat because you need to balance both. Kerana kalau kita sampai ke peringkat kita kononnya teknokrat semata-mata, kalau tak pernah ada pertanggungjawaban politik pun ada masalah. Kerana mereka tak pergi, bukan mereka yang kena menjawab dengan rakyat, bukan mereka yang masuk pilihan raya, bukan mereka yang perlu mendapatkan mandat rakyat. Jadi kita kena berhati-hati juga. Sebab tu kalau kita tengok dalam sistem yang ada yang presidensial eh, maksudnya presiden tu menang, kemudian dia boleh lantik kabinet dia kan, itu pun ada sedikit masalah kerana presiden boleh lantik semua orang yang membodek dia. Jadi accountability is part and parcel kepada menjadi seorang ahli politik. Kita mesti rapat dengan denyut nadi rakyat dan kita mesti bertanggungjawab kepada rakyat first and foremost. Jadi harapan sayalah di masa akan datang terutamanya yang muda-muda untuk membantu negara dan masyarakat, maksudnya memang syaratnya dua-dua, bukan kena pilih salah satu. Negara ni takkan ke depan kalau kita pilih salah satu kerana kalau ahli politik itu tidak ada pengetahuan, latar belakang pekerjaan yang baik, yang ada pengkhususan dalam bidang-bidang tertentu, maka dia semua saya baca aje, pegawai bagi saya baca aje, jadi macam tulah kan. Tapi kalau kita pula terlalu dominan dengan dengan teknokrat yang diambil daripada luar, dia sebenarnya tidak bertanggungjawab kepada rakyat. Jadi dia buat keputusan tu di peringkat atas awang-awangan kerana dia tahu bukan dia yang kena pergi jumpa rakyat. Dia tak perlu masuk pilihan raya, dia tak perlu menjawab dengan rakyat. Kalau dalam parlimen pun kalau orang tanya, "Saya bukan ahli politik, jadi saya..." tak boleh macam tu. Once you're a minister you are accountable kan. Jadi imbangan itu saya ingat masih jauh lagilah kita kan.
 
@@ -214,7 +214,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:28] Rafizi Ramli: Ada orang Sabah ceritalah masa tu?
 
-[35:30] Farhan: Dalam ceramah kan.
+[35:30] Farhan Iqbal: Dalam ceramah kan.
 
 [35:31] Haziq: Ceramahlah dia katakan macam tu.
 
@@ -248,7 +248,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:24] Rafizi Ramli: Itu memang masalah Melayulah. Sebenarnya Melayu banyak cerdik. Kalau nak tengok kelulusan kan, dari segi statistiknya dari segi pendidikan tinggi semua tu, jurang tu tak besar mana. Jurang yang lebih besar ialah jurang pendapatan isi rumah. Dan salah satu sebab utama ialah bentuk pekerjaan kerana sebahagian besar daripada kelas menengah Melayu adalah makan gaji. Sedangkan terutamanya Chinalah, sebahagian besar daripada mereka walaupun berpendidikan tinggi, dia buat business. Kalau dia kerja tu pun, dia kerja mungkin 10, 15 tahun, lepas tu dia dia dia akan buat business dan daripada business itu ekonomi tu berkembang dan makin berkembanglah kan. Jadi memang daripada kecil lagi niat hati saya kalau saya boleh bagi sumbangan ialah supaya untuk melihat lebih ramai orang terutamanya Bumiputera dan yang muda-muda dan yang cerdik pandai, terutamanya yang cerdik pandai supaya berniaga. Jadi kita ada banyak masalah. Ya, producer hari ini lama-lama dia datang kat sinilah, aku kena kacau.
 
-[41:46] Farhan: Ha tak ada, saya faham apa YB kata nak more entrepreneur Melayulah. But of course biggest challenge kepada ramai anak muda yang nak start business sendiri semua is isu kapital. I think you touched on this masa Forum Ekonomi Bumiputera if I'm not mistaken. But it's still a problem, masih lagi isu and I think amongst ourselves pun I think kita ada ramai kawan yang nak start business tapi modal, modal, modal. That's the biggest issue lah. So is there...
+[41:46] Farhan Iqbal: Ha tak ada, saya faham apa YB kata nak more entrepreneur Melayulah. But of course biggest challenge kepada ramai anak muda yang nak start business sendiri semua is isu kapital. I think you touched on this masa Forum Ekonomi Bumiputera if I'm not mistaken. But it's still a problem, masih lagi isu and I think amongst ourselves pun I think kita ada ramai kawan yang nak start business tapi modal, modal, modal. That's the biggest issue lah. So is there...
 
 [42:17] Rafizi Ramli: Ya, sebab itu, itulah producer mencelah sebelum saya jawab. Orang nak landing lah ni pasal perusahaan sosiallah ni. Sebab itu kita juga mesti lebih kreatif dalam bentuk-bentuk perniagaan dan model perniagaan yang kita nak wujudkan untuk kita menyelesaikan pain point itu. Pain point itu ialah dari segi kalau dalam bahasa ekonominya ialah capital mobilisation. Maksudnya memang susah untuk dapat kapital dan saya melalui sendiri proses itu kan. Sama bila saya tubuhkan syarikat saya yang sebelum ini kan, bukan nak buat duit sebenarnya. Satu ialah satu cabaran, saya ingat saya pernah kerja korporat semua, payah sangat ke nak buat syarikat ni? Memang buat, punyalah payah, memang betullah payah kan. Tapi niatnya juga ialah untuk gaji budak-budak yang cerdik, latih mereka semua. Tapi saya melalui proses itu yang mana kalau nak dapat pinjaman bank ke apa, memang susah. Cuma saya bernasib baik kerana dengan pengalaman saya, dengan dengan kedudukan saya, saya boleh raise capital dengan angel investors. Ada pelabur yang kata, "Okey, I buy your idea. I put 3 million," gini gini gini kan. Tapi bukan semua orang boleh buat begitu. Jadi apatah lagi yang muda-muda. Jadi model konvensional yang mana kalau nak mulakan perniagaan ini sama ada kena keluarkan duit banyak, kemudian kalau ada investor pun macam saya ada investor lepas tu garu kepala sebab return nak bagi kat investor profit kena gini-gini kan ataupun apatah lagi nak ambil pinjaman bank, itu yang kita duk bercakap berdekad-dekad dah dan susah. Kalau kerajaan pula, kerajaan akan bagi geran, geran, geran, lama-lama kita lahirkan grant-preneur. Dapat geran, pergi beli Mercedes. Dua tiga tahun kemudian, pergi cari geran lagi kan. Sedangkan dalam Islam, dalam Islam ada konsep yang cukup cantik, konsep dia musyarakah iaitu perkongsian. Dan yang lebih memalukan kita orang Islamlah kan, konsep itu telah pun dipraktikkan dalam sistem ekonomi yang lebih besar yang kalau selalu orang sebut sebagai social market economy lah. Maksudnya dia kena ada keseimbangan di antara mencari untung semata-mata dengan matlamat masyarakat kan. Jadi melalui KESOM, KESOM dengan Fleximart ni yang pertama, sebenarnya yang rakyat nampak itu semata-mata soal makanan murahlah. Sebenarnya perancangan saya satu lagi ialah satu cabaran kepada saya untuk membuktikan kepada orang ramai bahawa model social enterprise boleh berjaya. Sebab social enterprise yang banyak ada masih lagi bergantung kepada derma orang. Bagilah saya duit, kemudian daripada duit ini saya akan tolong buat perkara yang baik, moga awak dapat pahala.
 
@@ -272,27 +272,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [56:25] Rafizi Ramli: Itu cabaran. Memang kita design ini ialah untuk kita jual RM5 satu pinggan itu, kalau lebih daripada tiga orang, kita koyak. Sebab then setiap satu pinggan tu rugi. Kan? Jadi dia hanya dengan tiga orang sahaja. Jadi kita nak merancang semua tu sebagai production line supaya kecekapan itu berada pada tahap yang dirancang, maksudnya plating keluar supaya orang lebih ramai dan juga volume lebih tinggi, dia smooth lah. Jadi yang itu yang yang saya satu hari perhati semua, ada beberapa penambahbaikan yang kita kena buat kan. Contohnya sebahagian daripada dapur itu perlu kita design tambah baik kerana efficiency is a function of design juga kan, physical design semua ada perkara. Saya dah kira sebenarnya satu pusingan batch, utilization fryer macam mana, satu minit berapa, gitu gitu gini kan. So there's a lot of science to it. Kemudian yang itu kepada kamilah yang yang yang merancang, kemudian kita nak pastikan bahawa pekerja kita betul-betul ikut SOP dan juga mereka dipermudahkanlah. Jadi mungkin pada satu ketikalah, dua minggu lagi ke, kita kena tengok untuk kita tutup satu dua hari untuk kita tambah baik dapur supaya flow itu lebih baik kerana kenapa KESOM yang orang duk tanyalah, "Ini mesti cuci duit ni," orang eh kau tak nak buat janganlah bising kan sebab KESOM hanya boleh beroperasi berpanjangan dan jual pada harga yang murah begini kalau kecekapan kita itu berada seperti yang dirancang. Jadi sekarang ni ada beberapa perkara yang perlu ditambah baik. Saya ingat dalam dua minggu lagi bila kita selesaikan banyak orang kata pain points, bottleneck semua tu kan. Dulu siapa yang pernah kerja kilang, loji besar-besar, yang selalu pening kepala ialah how to debottleneck the process. So once we debottleneck some of the processes and debottlenecking sometimes require physical improvements, the way the design dan sebagainya. Even the supply chain, maksudnya ayam perlu sampai pukul berapa and how semua tu. Every little detail tu kita kita nak kena selesaikan. Dan lepas tu saya boleh tidur nyenyak sedikitlah. So saya ada dua minggu. Fleximart lebih aman. Fleximart lebih aman dan memang betullah Fleximart dia lebih mudah kerana dia jual kopi, mi kari dan barang runcit kan. KESOM ni jual nasi lemak, nasi minyak semua. Jadi dia satu pengalaman yang cukup baik dan saya nak ucap terima kasih kepada beberapa kumpulanlah. Satu kepada orang ramai kan sebab kami pun tak sangka dia jadi begitu kan. Yang kedua saya nak ucapkan terima kasih kepada kitchen crew yang 4, 5 orang tu. Mereka bertahan sampai hari ini. Lama dah, tiap-tiap hari dia nak kerja semua penat semua kan dan banyak kelemahan itu ialah kelemahan kami yang merancang kerana ada banyak perkara yang kami tak nampak. Yalah kita orang mana pernah uruskan restoran, ini kali pertama seumur hidup kan. Jadi tapi alhamdulillah pekerja-pekerja yang ada ni masih lagi bermotivasi dan kalau teruskan sokongan dan jangan jadikan dia viral seminggu dua minggu kerana perjuangan itu lebih besar daripada makanan RM5 ini. Perjuangannya untuk membuktikan bahawa perusahaan sosial, model perniagaan dan struktur kapital itu boleh berjaya dan boleh memberi pulangan seperti yang kita kira. Kerana kalau itu berlaku, kita boleh dapatkan and we can mobilize the capital to fund lebih banyak anak muda, orang biasa supaya barrier, entry barrier untuk memulakan perniagaan tu lebih rendah. Kalau dia berjaya dengan hasil usaha orang ramai, sebab ini langsung tahu tak ada kerajaan, tak ada bank, tak ada siapa-siapa tolong ni. Kita kita nak buktikan dengan orang ramai saja. Kalau orang ramai boleh membuktikan perkara itu boleh berlaku, then baru kita boleh tekan bank. Boleh tekan bank, boleh tekan kerajaan. Kalau orang ramai boleh buat, kenapa kerajaan tidak menumpukan kepada kaedah ini untuk membantu lebih ramai orang? Ya.
 
-[61:37] Farhan: Okey, sorry. One more.
+[61:37] Farhan Iqbal: Okey, sorry. One more.
 
 [61:39] Rafizi Ramli: Boleh aje tanya.
 
-[61:40] Farhan: Takut kena marah.
+[61:40] Farhan Iqbal: Takut kena marah.
 
 [61:43] Rafizi Ramli: Saya sebenarnya tak adalah selalu marah. Kau orang ni bila dalam podcast semua cakap macam ni, dia bagi gambaran aku ni makan orang, tak adalah.
 
 [61:53] Haziq: Masih tak percaya. Gurau-gurau. Ha tanya.
 
-[61:57] Farhan: Okey, so ada satu elemen that maybe I would like to touch on lah, which is masa...
+[61:57] Farhan Iqbal: Okey, so ada satu elemen that maybe I would like to touch on lah, which is masa...
 
 [62:02] Rafizi Ramli: Cakaplah bahasa Melayu.
 
-[62:03] Farhan: Cakap bahasa Melayu, rojak-rojak.
+[62:03] Farhan Iqbal: Cakap bahasa Melayu, rojak-rojak.
 
 [62:06] Haziq: I like you.
 
 [62:07] Rafizi Ramli: I like you.
 
-[62:11] Farhan: Resit ada seorang pembelilah, viral dekat sosial media. And then ramai orang persoalkan, "Wah actually boleh dapat makanan macam ni yang bawah harga, bawah harga RM10 tapi RM5 lah kan." Adakah itu satu, for lack of a better word, is it an anomaly? Adakah makanan siap yang dah siap masak semua tu jual pada harga murah tu something yang kita boleh achieve ataupun sebab kalau kita tengok dekat luar sekarang harga sangat mahal.
+[62:11] Farhan Iqbal: Resit ada seorang pembelilah, viral dekat sosial media. And then ramai orang persoalkan, "Wah actually boleh dapat makanan macam ni yang bawah harga, bawah harga RM10 tapi RM5 lah kan." Adakah itu satu, for lack of a better word, is it an anomaly? Adakah makanan siap yang dah siap masak semua tu jual pada harga murah tu something yang kita boleh achieve ataupun sebab kalau kita tengok dekat luar sekarang harga sangat mahal.
 
 [62:43] Haziq: Habislah ni nak bungkuskan perniagaan orang Melayulah yang di sekeliling tu.
 
@@ -418,7 +418,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [118:07] Rafizi Ramli: Masalah lawyer. Nasib baik aku bukan guru Maths engkau, kalau tidak memang kena rotan dengan akulah.
 
-[118:13] Farhan: Producer kata dah betul dah tadi.
+[118:13] Farhan Iqbal: Producer kata dah betul dah tadi.
 
 [118:14] Rafizi Ramli: 21,000 orang pekerja yang dapat manfaat, saiz purata pekerja dalam majikan ialah dalam 20 ke 30, maksudnya dalam 700 syarikatlah, 700 majikan. 700 majikan ini ialah majikan yang benar-benar percaya untuk menaikkan gaji dan mereka komited lepas itu dia akan kekalkan gaji itu. Jadi kalau tanya sayalah, kalau setakat untuk capai yang umum pencapaian 100%, 1 juta, 8 juta penerima, baguslah, senanglah saya bagi duit percumalah. Tapi sebab memang kita ketatkan syarat, memang syaratnya itu ketat. Majikan memang tahu saya ini hanya dapat 2 tahun saja, saya kalau saya tu maksudnya saya kena naikkan gaji, lepas 2 tahun sumbangan kerajaan tu dah tak ada, saya tak boleh turunkan gaji, gaji dia kekal. Mereka yang menerima tahu ada syarat dia sebab kita nak ubah dan selesaikan masalah, kita bukan nak popular. Jadi itu yang selalunya orang selalu berbeza pandangan dengan saya. Sebab jalan pintas ni mudahlah, bagilah duit percuma. Tapi dia tak guna, dia tak sustainable dan saya tak pernah percaya sebagai seorang manusia dan juga sebagai seorang menteri, saya tak pernah percaya bagi duit percuma. Tak ada duit percuma! Duit yang kerajaan duk bagi tu duit orang, duit cukai. Kita kutip, kita bagi kat orang lain, kita kutip daripada orang lain tau. Jadi memang jadi amanah kita supaya kita berhemat dan cara untuk kita berbelanja dengan berhemat ialah dengan kita bila kita menggunakan wang rakyat itu, kita selesaikan masalah itu. Jadi cabaran dia sekarang ialah macam mana nak yakinkan supaya lebih ramai majikan terima hakikat bahawa mereka kena bayar gaji lebih sikit, kerajaan tambah sikit supaya dengan gaji yang lebih baik kepada graduan, kepada pekerja ini, produktiviti naik. Dan yalah biarlah orang nak komen apa semua kan.
 
@@ -454,17 +454,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [130:42] Rafizi Ramli: Ha macam-macamlah kan ha. Semua itu tidak melalui proses yang sepatutnya kan. Jadi beliau melalui proses untuk menjadi profesor, saya ingat dia ada PhD lah kut dalam bahasa Arab. Saya tak tahulah dia ada PhD kan. Saya ingat beliau sendiri melalui proses itu untuk mendapat PhD dia. Jadi malanglah kalau beliau bercakap sesuatu yang di luar bidang dia sebagai ahli akademik yang tidak mengikut resam dan juga keperluan dan disiplin ilmu hanya kerana yang dia cakap itu sebenarnya popular dan mendapat traction. Jadi itu yang saya sebut beliau mungkin naif kerana memang popularlah tetapi kesannya kepada budaya ilmu. Contohnya kan katakanlah betul ada seorang pakar sejarah di negara kita yang buat kajian yang betul dan benar-benar membuktikan memang orang Rom bukan belajar buat kapallah tapi mungkin belajar buat apa dia eh, batik daripada ataupun contohnya eh, ada sejarawan kita yang berjaya membuktikan daripada kajian dia bahawa orang Rom ada yang pakai batik contohnya kan. Tapi oleh kerana kalau tidak berhati-hati, oleh kerana polemik dan juga persepsi yang ditimbulkan secara tidak sengaja oleh beliau, orang mungkin tak terima PhD tu atau orang memperlekehkan. Jadi dia ada kesan yang besar tapi saya yalah saya ingat kalaulah harapan saya bukan saja kepada Profesor Solehah tetapi juga kepada banyak ahli akademik yang lain. Yang ini akan kena kecam kan. Kita banyak ahli akademik yang orang selalu huluq mic untuk bagi pandangan. Mereka akan jadi penganalisa politik, penganalisa itu semua kan. Dalam budaya negara lainlah kan yang saya tengoklah kan, selalunya ahli akademik ni sangat berhati-hati. Mereka bercakap mengikut kepakaran dan kajian yang mereka buat. Sebelum dia bagi pandangan tu, dia bersandarkan kepada kajian. Sebab tu kadang-kadang kita tengok pandangan ahli akademik baguslah, popularlah, selalu masuk TV, naik forum lah, cerita pasal politik semua ni kan. Saya tak rasa dia ada kajian pun. Saya tak rasa dia ada data dan saya sebut itu kerana selepas 2018 kan kerana INVOKE buat kaji selidik, survey yang terbesar dalam sejarah negara. Kita ada banyak data kan. Saya ada beberapa ahli-ahli akademik yang profesor semua ni yang datang minta data ataupun dia kata you buatlah, you bayarlah bagi data tu bagi kat kami. Jadi saya masa itu terpinga-pinga, eh bukan ke sebenarnya soal data semua ni ialah tulang belakang bidang akademik? Sebelum kita buka mulut, kita kena bersandarkan kepada data dahulu kan. Jadi itu juga yang itu yang harapan saya bukan sahaja kepada Profesor Solehah tetapi terutamanya you know saya nak melihat ahli akademik kita kalau dia buka mulut dan dia tumpu, pastikan perkara itu benar-benar bidang kepakaran dia dan pastikan dia boleh pertahankan dengan data. Kerana kalau pandangan itu semata-mata kerana dia adalah doktor, ada PhD tapi tidak bersandarkan kepada apa-apa data kajian ke apa, tak ada beza tahu pandangan dia dengan pandangan kau. Ha, itu pandangan saya. Memang kena kecamlah, semua universiti lepas ni marahlah kat akulah. Tapi saya dah lama nak cakap. Kecuali contohnya yang cakap itu ialah PhD pakar bedah yang memang buat research pasal sel. Dia cerita pasal sel, tak ada oranglah berani berani tentang dia. Tapi kalau kalau budaya itu daripada yang macam Profesor Solehah, sesuatu yang anecdotal tetapi tidak melalui academic rigour tetapi dipersembahkan dan diberi kredibiliti dan diterima oleh orang kerana dia ada PhD, sama juga dengan perkara-perkara yang lain tahu. Jadi jangan kecam dia saja. Ha itu sebenarnya adalah perlambangan dalam masyarakat kita yang tak suka benda-benda remeh-temeh. Macam nilah kalau saya sebut kan yang pasal pandangan yang tidak bersandarkan kepada ramai yang akan kecam ni. Ramai yang akan kecam, "Kau ingat kau seorang aje cerdik?" Yalah, tapi itulah budaya ilmu. Dan kalau kita nak masyarakat, bangsa kita maju, dan mereka-mereka yang cerdik pandai ini mestilah membudayakan perkara itu lebih daripada orang lain. Dan jadi kalau yang bijak pandai pun pakai caca-marba tembak merata asalkan keluar TV, asalkan keluar podcast, asalkan keluar TikTok, yang you nak marah yang bawah-bawah yang rakyat biasa ni? Cukuplah saya.
 
-[136:09] Farhan: Just nak mintak yang pandanganlah tapi benda ni bukan dia dia fit into satu benda yang lebih polemik kepada masyarakat di mana false information, false accusation...
+[136:09] Farhan Iqbal: Just nak mintak yang pandanganlah tapi benda ni bukan dia dia fit into satu benda yang lebih polemik kepada masyarakat di mana false information, false accusation...
 
 [136:26] Rafizi Ramli: Tak yang itu memanglah kesan daripada dunia digital kan. Oleh kerana maklumat boleh sampai dengan lebih mudah dan oleh kerana kita tak perlukan studio atau kamera besar untuk buat content, semua orang boleh buat content, dalam kereta, dalam tandas semua boleh buat content. Benda itu memang kesan daripada dunia digitallah. Tapi kalau yang buat tu orang-orang dekat Pandan dengan Sungai Besi, aku fahamlah. Janganlah profesor. Kerana mereka ada tanggungjawab yang lebih besar kepada masyarakat. Sama macam kita kadang-kadang perli ahli parlimen kita komen pasal hidung tugu tak mancung. Sebenarnya ahli akademik, profesor semua pun ada tanggungjawab itu kerana mereka mewakili satu kumpulan yang ada peranan besar dalam masyarakat. Mereka perlu mempertahankan budaya ilmu, the rigour supaya kerana kesan tidak langsungnya ialah orang memandang rendah kepada ilmulah. You can't run away daripada fake news semua ni akan ada tapi kalau yang sebut itu mak cik-mak cik dia dengar cerita, ikut suka dialah kan. But not yang itu yang yang bagi saya isu yang lebih besar pasal Rom belajar bina kapal ni, ni bukan soal troll dia semata-mata. There's an underlying issue yang mungkin tak ada orang berani sebut sebab susah tahu kalau nak kritik ahli-ahli akademik yang PhD semua ni. Bukan semua, jangan pukul rata eh. Aku cakap normal distribution eh. Yang ini yang saya sebut ni adalah fringe. Ada tapi ada segelintir yang macam itu. Mereka lebih popular, mereka lebih ke depan contohnya terutamanya dalam perkara-perkara yang lebih mudah ada traction dengan rakyat. Perkara politik, perkara bangsa, perkara Rom, Melayu semua ni kan. Kita tak dengar pun pakar fizik pergi buat TikTok pasal penemuan fizik dia sebab orang kita tak nak dengar. Orang nak dengar benda-benda macam ni. Dan maka tanggungjawab mereka, mereka kena sedar tahu sepatutnya yang dia sebut itu mestilah dalam kerangka dan budaya disiplin ilmu yang mereka wakili.
 
 [138:49] Haziq: Mungkin nak bangkitkan semangat Melayulah kut.
 
-[138:52] Farhan: Kalau kalau YB sendiri cakap pasal benda ni mungkin lebih ramai dengar podcast kita kut.
+[138:52] Farhan Iqbal: Kalau kalau YB sendiri cakap pasal benda ni mungkin lebih ramai dengar podcast kita kut.
 
 [138:58] Rafizi Ramli: Ha?
 
-[138:58] Farhan: Kalau YB sendiri bincang pasal topik ni, mungkin lebih ramai boleh dengar podcast.
+[138:58] Farhan Iqbal: Kalau YB sendiri bincang pasal topik ni, mungkin lebih ramai boleh dengar podcast.
 
 [139:03] Rafizi Ramli: Pasal apa? Pasal orang Rom belajar pembinaan kapal?
 
@@ -524,13 +524,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [145:20] Rafizi Ramli: Itu semua benda-benda benda-benda lapisan kedua, lapisan paling atas. Yalah, freeze the rent, free bus semua tu kan.
 
-[145:28] Farhan: Cost of living.
+[145:28] Farhan Iqbal: Cost of living.
 
 [145:30] Haziq: Cost of living.
 
 [145:30] Rafizi Ramli: Yalah apa apa isu dia pasal cost of living? Ini PAS pun duk cerita cost of living, cost of living.
 
-[145:36] Farhan: Rent dah tinggi.
+[145:36] Farhan Iqbal: Rent dah tinggi.
 
 [145:38] Rafizi Ramli: No, no. Itu semua ialah perincian-perincian dia. Apa mesej substance yang emotionally appealing yang dibawa kepada pengundi?
 
@@ -560,13 +560,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [153:01] Haziq: Eh? Tak ada.
 
-[153:02] Farhan: Sekolah tak belajar.
+[153:02] Farhan Iqbal: Sekolah tak belajar.
 
 [153:03] Rafizi Ramli: Tak belajar? Belajarlah. Tipulah engkau, aku belajar pasal fission semua ni masa tingkatan 5.
 
 [153:09] Haziq: Fission ada ya ya, tingkatan 5. E equals to mc squared. Nuclear fission ada, nuclear fission ada.
 
-[153:16] Farhan: Tapi the inner workings of the nuclear reactor tak belajar.
+[153:16] Farhan Iqbal: Tapi the inner workings of the nuclear reactor tak belajar.
 
 [153:18] Rafizi Ramli: Dah lupalah. Bukanlah belajar pasal molten salt reactor tapi maksudnya belajar pasal fission lah kan.
 
@@ -592,11 +592,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [160:59] Haziq: Hmm susah tu.
 
-[161:04] Farhan: If not mistaken, Malaysia has one of the biggest...
+[161:04] Farhan Iqbal: If not mistaken, Malaysia has one of the biggest...
 
 [161:08] Rafizi Ramli: Thorium. Yep yep, betul juga. Malaysia ada rizab thorium yang tinggi. Sebab itu dia menarik, kita sepatutnya excited dan sebab itu kalau kita yalah macam saya katalah benda janganlah marah kita orang kalau kita orang buat bising pasal ART tu sebab ini salah satu benda dialah. Ini tenaga nuklear yang paling hebat di dunia sekarang ni daripada China, molten salt reactor yang mana thorium tu ada banyak kat Malaysia.
 
-[161:39] Farhan: So kalau konsep ni confirm working industrially or in a commercial scale, that means Malaysia boleh ada nuclear reactor yang self-sufficient in the sense yang kita tak perlu import...
+[161:39] Farhan Iqbal: So kalau konsep ni confirm working industrially or in a commercial scale, that means Malaysia boleh ada nuclear reactor yang self-sufficient in the sense yang kita tak perlu import...
 
 [161:52] Rafizi Ramli: Ya ya ya, Malaysia memang ada deposit thorium yang tinggi. Jangan sebut kepada Sanusilah, nanti ada Wakanda the second pulak. Dia pergi cari thorium pulak kan. So I'm excited pasal molten salt reactor.
 
@@ -626,19 +626,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [169:14] Haziq: KOL dia panggil.
 
-[169:16] Farhan: Ada ada yang murah tapi yang murah tu sangat kecillah reach dia.
+[169:16] Farhan Iqbal: Ada ada yang murah tapi yang murah tu sangat kecillah reach dia.
 
 [169:21] Rafizi Ramli: Ha saya tengok tu kan, I think kita stop kut kan. Mana yang kita stop, kita stop sebab itu kalau tengok Kementerian Ekonomi, ada orang tanyalah, "Oh buatlah macam menteri tu, buatlah macam menteri ni." Orang tak tahu kalau ikut cara tertentu, memanglah dia nampak hebat tapi dia bayar ratus ribu. Kenapa tak keluar sana, kenapa tak keluar sini? Orang selalu tanya kan, kenapa tak keluar dalam TV? Eh kau ingat free ke? Kena bayarlah kan. Jadi kita yang fikir pasal eh ni duit rakyat ni, daripada aku bayar RM200,000 tak apalah aku buatlah TikTok aku kan, contohnya kan. Dia masalah influencer, satu kos kepada kerajaan sebab dia mahal tau, RM80,000 satu video oh dia orang ni. Yang keduanya, hari ini kau berkuasa kan, kau bayar dia. Esok kau tak berkuasa, orang lain bayar, dia maki engkau.
 
-[170:10] Farhan: Macam baru berlaku.
+[170:10] Farhan Iqbal: Macam baru berlaku.
 
 [170:12] Rafizi Ramli: Apa dia?
 
-[170:13] Farhan: Caprice, Salim Iskandar.
+[170:13] Farhan Iqbal: Caprice, Salim Iskandar.
 
 [170:14] Rafizi Ramli: Oh ya ke? Kita tak bayarlah dia!
 
-[170:17] Farhan: Tak bayar, kita tak bayar dia tapi tiba-tiba attack.
+[170:17] Farhan Iqbal: Tak bayar, kita tak bayar dia tapi tiba-tiba attack.
 
 [170:20] Rafizi Ramli: Oh ya ya, biarlah kat dia, dia nak hidup. Kan, so so itu yang bahaya kalau influencer semua. Yang terbaik ialah macam saya katalah, biarlah kalau menterilah kan kita nak menyampaikan, biarlah kekuatan itu daripada kita sendiri. Kitalah, memang tanggungjawab kita nak menyampaikan, tak payahlah bayar-bayar influencer. Kalau orang memang dah menyampah tengok engkau, nasiblah engkau kan. So yang perlu ditumpukan ialah macam mana nak membaiki keadaan supaya dasar itu lebih baik, penyampaian kita lebih baiklah.
 
@@ -654,11 +654,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [171:58] Rafizi Ramli: Alhamdulillah.
 
-[171:59] Farhan: Break record malam ni kan. Berapa jam?
+[171:59] Farhan Iqbal: Break record malam ni kan. Berapa jam?
 
 [172:01] Rafizi Ramli: 2 jam 50 minit.
 
-[172:03] Farhan: Ya Allah Rabbi. Lama.
+[172:03] Farhan Iqbal: Ya Allah Rabbi. Lama.
 
 [172:05] Rafizi Ramli: Habis esok macam mana aku nak sediakan nasi lemak?
 
