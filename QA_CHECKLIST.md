@@ -60,8 +60,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 468s, 10/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-**
-  - raw.md has 19 duplicate block(s) repeated verbatim at different timestamps (36157 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 555s, 5/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 471s, 10/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 575s, 7/12 caption samples matched)
   - models: raw.md=gemini-3.6-flash

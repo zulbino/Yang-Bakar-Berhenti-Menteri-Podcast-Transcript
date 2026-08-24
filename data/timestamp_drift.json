@@ -1111,21 +1111,21 @@
   },
   "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": {
     "status": "ok",
-    "samples_matched": 5,
-    "samples_not_found_nearby": 7,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 555,
+    "max_drift_seconds": 471,
     "flagged": true,
     "details": [
       {
-        "claimed": 189,
-        "actual": 185,
-        "drift": -4
+        "claimed": 151,
+        "actual": 244,
+        "drift": 93
       },
       {
-        "claimed": 614,
-        "actual": 610,
-        "drift": -4
+        "claimed": 687,
+        "actual": 678,
+        "drift": -9
       },
       {
         "claimed": 1095,
@@ -1133,14 +1133,39 @@
         "drift": -14
       },
       {
-        "claimed": 4048,
-        "actual": 3493,
-        "drift": -555
+        "claimed": 1941,
+        "actual": 2412,
+        "drift": 471
       },
       {
-        "claimed": 6043,
-        "actual": 5805,
-        "drift": -238
+        "claimed": 3320,
+        "actual": 3461,
+        "drift": 141
+      },
+      {
+        "claimed": 4809,
+        "actual": 4806,
+        "drift": -3
+      },
+      {
+        "claimed": 5140,
+        "actual": 5162,
+        "drift": 22
+      },
+      {
+        "claimed": 6034,
+        "actual": 6134,
+        "drift": 100
+      },
+      {
+        "claimed": 6850,
+        "actual": 7127,
+        "drift": 277
+      },
+      {
+        "claimed": 7925,
+        "actual": 7932,
+        "drift": 7
       }
     ]
   },

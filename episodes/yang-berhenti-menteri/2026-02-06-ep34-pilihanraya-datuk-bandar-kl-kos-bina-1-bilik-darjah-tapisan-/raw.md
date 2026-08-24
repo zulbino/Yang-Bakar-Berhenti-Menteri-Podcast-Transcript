@@ -8,1615 +8,238 @@ publish_date: '2026-02-06'
 duration_seconds: 10542
 duration: 2h 55m
 view_count: 162374
-note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
-  polished newspaper-style rewrite.
+model: mesolitica/malaysian-whisper-medium-v2
+note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
+  with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization
+  (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for
+  the polished newspaper-style rewrite.
 ---
 
 # Raw Transcript
 
-[02:30] Akmal: Assalamualaikum dan selamat kembali semua. Podcast Yang Bakal Menteri episod ke-34.
+[02:30] Speaker 1: Assalamualaikum dan
 
-[02:36] Rafizi: Kenapa kau gelak?
+[02:31] Speaker 2: selamat kembali semua Podcast Yang Menteri-Menteri Episod ke-34 Kenapa kau gelak? Sebab YB macam Dia lagi Macam biasa Here we go again Dengan YB Rafizi Ramli Dan hari ni tak ada guest Jadi Kita selang selikan lah Kita dengar Friday Sermon dari YB Rafizi Dan Mahagahan dia wampas Dia buat Friday Sermon tu lah Eh Allah Allah Konteks tu tak betul lah Saya tarik balik Jumaat. Kuliah malam Jumaat bersama saudara Rafi Z. Ramli dan mungkin pada malam ini mungkin ada banyak lah dan kita cuba cepatkan semua. Kita ada perkara-perkara yang berat dengan yang berat dengan nombor dia berat dengan Angka fakta Tapi Kita harap orang tunggu sampai ke sudah Yes Kerana ada satu perkara yang Tidak pernah dikongsi Saya ingat oleh sesiapa pun iaitu mengenai Gen Z. Survei baru dari YB lah basically. Maksudnya saya baru dapat data yang terkini dan saya tak rasa ada mana-mana pihak di Malaysia setakat ini yang memberi tumpuan sebenarnya macam mana nak menang undi Gen Z ini dan macam mana Gen Z dan sebahagian daripada millennials akan menghuruharakan pilihan raya umum akan datang. Okay, baik-baik. Jadi kena tunggu sampai habis lah. Baby, macam biasa beriamat. Tapi saya risau tak fulfill expectation lah kali ni. Takut sendu kan. Sebab minggu ni pun orang takut dah nak buat benda-benda tak senang. Pandailah kau. Ya lah kot kan. Cepulau masih lagi macam biasa. Cepulau lagi macam biasa. Dia dalam bubble dia. Okay tak apa kita try lah. Yang pertama. Ini negeri kelahiran. Di Terengganu, ultracel lepak sel. Memang mereka lepak dalam sel. Jadi, makan ikan kering satu malam. Oh, itu pengalaman YB. Aku tak makan. Allah akbar. Dia kalau dalam lokap itu... Dia sebenarnya nasi Kalau ikan kering tu ok lah kan Lepas tu air tu Hmm Nampak macam teo ais Hmm Tapi kalau kau rasa sikit je, memang tak ada rasa. Cuma dia bergantung jugalah. Dia sebenarnya yang paling susah dalam lock up ni sebenarnya makan. Kalau saya cakap 2-3 hari, boleh je tahan. Dia yang paling susah ialah mandi. Mandi. Dan kalau lock up kat Jinjang dulu, Dia ada CCTV kat atas Nak mandi macam mananya Dah lah mandi kena mandi bokeh Mandi dalam sel ke? Memang lah mandi dalam Kau ingat asrama ke apa? Tak Sebab kita tengok Movie-movie Itu kat luar negara Kat Malaysia ni Itu pun rasanya Lock up Jinjang tu dah kira Better Kira dia lock up baru Dalam 10-15 tahun kan Kalau kena lock up dekat Kalau kat Kuala Teranu ni Lockup dia memang Teruk lah kan Jadi tak tahulah takut Dia orang semua tak mandi Tapi request dari production kita untuk dengar apa yang Hafiz ni cakap.
 
-[02:37] Akmal: Sebab YB macam, emm, dia lagi. Macam biasa, YB Rafizi dan hari ini tak ada guest. Jadi kita selang-selikanlah.
+[06:16] Speaker 1: Mahu bakar suar Bila hudan Nak suruh
 
-[02:46] Rafizi: Ya, kita selang-selikan.
+[06:24] Speaker 3: beruk tengok ke? Di atas kesalahan itu, kita tangkap dia.
 
-[02:47] Akmal: Kita dengar Friday sermon dari YB Rafizi.
+[06:26] Speaker 2: Itu reply diorang? Itu reply mereka apabila polis tangkap. Kenapa bakar suara kat sini? Jadi, ialah takkan nak bakar dalam hutan? Oh, itu jawapan dia. Bila nak suruh beruk tengok. Di interrogate kan? Ini memang betul-betul sah orang Selangor ke? Ke orang Kelantan yang duduk Selangor? Dia. Rupanya. Manalah tahu takut ada orang daripada Syahaleh ke So, dia memang orang Selangor lah Tapi dia orang Selangor lah Altras Selangor Altrasel Atasel Altrasel So siapa yang beria ni sebenarnya? Paling kuat Ultrasel tu lah YB Sebab bakar suar Dia bakar suar dekat tempat tu Dan bila polis tertanya Dia jawab sebegitu Penuh confidence lah Hmm Dia menang ke kalah? Seri? Itu yang masalah tu kan. So, kalaupun angle sudut yang beria, lain kali kalau main bola, yang kat luar-luar ni tak penting sangat lah, suar tak suar. Aku dulu pernah coach hoki tau. Okay. Sekolah lah kan. Memanglah kalau you manage the team Kemudian pasukan kau kan Selalunya yang kat luar-luar tu lebih lah Lebih-lebih macam-macam lah Macam Macam saya dulu... Kalau boleh semua... You nak bagi... Budak-budak ni main perfect lah kan... Jersey pun kena jersey paling mahal... Semua kan... Haa... Habis duit je... Haa... Tapi akhirnya... Haa... Hebat ke tak hebat... Menang kalah je kan... Jadi... Dia orang seri... Bukan... Ikut Farhan
 
-[02:51] Rafizi: Marah nanti orang PAS kata Friday sermon pulak dah.
+[08:18] Speaker 3: seri Sebab saya tak tengok lah Seri ke kalah Saya pun tak tengok bola lokal Tapi maksud saya Seri Dah jarang tengok bola Dah tua
 
-[02:54] Akmal: Eh Allah, bukan bukan bukan. Tak, konteks itu tak betul, saya tarik balik.
+[08:30] Speaker 2: So malam ni Habislah undi aku Dengan Ultra Cell Hahaha Okey lah YB boleh Tapi mungkin ada cara lain yang boleh beria yang lebih baik Tanpa melibatkan polis lah kot Baik, kita tengok next Kita ada Kelantan pula. Ini Kelantan Tangkap Kelantan ni yang duk keluar dekat TikTok, dekat social semua ni, ni pasal apa? Haa, itu pasal lain. Oh, ini bukan Kelantan Tangkap Kelantan yang ini? Ini konteks tu digunakan kat sini lah. Tapi konteks yang itu, dia start dengan benda totally different things lah. Oh, dia tak ada kena-mengena dengan konsert ni lah. Tak ada. Yang tu yang student UATM buat hebahan tu kan? Incentive Tangkap Orang Kelantan. Sebab? Sebab dia Kelantan lah Kalau pure Kelantan Berapa? RM100 RM100 Ha? Kalau half Kelantan RM50. Macam tu lah. Pergilah kat Syak Alam kat Kelang tu lah. Habis. Habis semua. Tak sampai 2 jam habislah hadiah tu. Sebab tu yang dia uji dialect tu. Awak cuba cakap klinik. Klinik. Klinik. Oh video tu? Ya. Okay. Producer tak tahu. Aku pun tahu Kelantan. Takut Kelantan. Ingat dia duduk bangsa. Ingatkan Kelantan. Kelantan dia lagi teruk hidup. Lagi hebat daripada bangsa. Tak boleh sebut lah kan. Tak, Kelantan, tangkap Kelantan ni ingatkah ini promosi mula daripada dia untuk promosikan konsert dia? Tak adalah. So siapa yang beria ni? Yang ini cuma dia buat konsert dekat Kelantan tu kan. Cuma dia buat konsert di Kelantan. Dia buat konsert di Kelantan. Apa ni tak ada pengagihan antara mahram, laki perempuan bercampur. Jadi pihak berautoriti tangkaplah. So itulah datangnya Kelantan tangkap Kelantan. Tapi yang mana yang beria konsert memang macam itulah kot. Beria dia buat kat Kelantan lah So Sebab dia beria Buat di Kelantan Dia bukan orang Kelantan Makafes Makafes I think
 
-[02:58] Rafizi: Dia, dia kuliah malam Jumaat.
+[10:42] Speaker 3: Dia banyak buat kat
 
-[03:00] Akmal: Ha, kuliah malam Jumaat bersama saudara Rafizi. Dan mungkin pada malam ini, mungkin ada banyaklah dan kita cuba cepatkan semua.
+[10:43] Speaker 2: tempat Kita confused
 
-[03:09] Rafizi: Kita ada perkara-perkara yang berat kan, yang berat dengan number, dia berat dengan angka, fakta. Tapi kita harap orang tunggu sampai ke sudah. Karena ada satu perkara yang tidak pernah dikongsi saya ingat oleh sesiapa pun, iaitu mengenai Gen Z.
+[10:46] Speaker 3: Cuma Saya rasa yang berianya Adalah Mereka yang
 
-[03:33] Akmal: Ha, survey baru dari YB lah, basically.
+[10:50] Speaker 2: Yang pergi pula?
 
-[03:35] Rafizi: Ha, maksudnya saya baru dapat data yang terkini dan saya tak rasa ada mana-mana pihak di Malaysia setakat ini yang memberi tumpuan, sebenarnya macam mana nak menang undi Gen Z ini dan macam mana Gen Z dan sebahagian daripada Millennials akan menghuru-harakan Pilihan Raya Umum akan datang.
+[10:51] Speaker 3: Bukan, yang menangkap.
 
-[03:55] Akmal: Ha, okay. Baik, baik. Jadi kena tunggu sampai habislah. Apa pun kita start dengan segmen yang pertama, biasa, Beria Mat. Tapi saya itulah, saya risau tak full, fullfill expectation kali ini.
+[10:52] Speaker 2: Oh, yang menangkap. Sebab you dah kenalkan. Ialah pandangan budak. Pandangan budak bangsa. Hilanglah undi YB. Hilang lagi undi aku. Nama bantai. Tak, dia... Tapi memanglah kalau kat Kelantan, nak kata, apa nama ni, pihak berkuasa beria pergi tangkap, Memanglah pihak berkuasa pun satu Kalau dah nama konsert telah diluluskan Dia tak semak dulu Siapa yang luluskan tu Ha So siapa
 
-[04:08] Rafizi: Takut sendu kan?
+[11:27] Speaker 3: yang beria ni? Tapi lagi satu... Turunkan komen anda. Apa? Pihak berkuasa mengatakan yang ada guidelines untuk ada festival ke apa-apa di Kelantan dan segregation tu adalah satu syarat. Oh dia tak
 
-[04:09] Akmal: Ha, sebab minggu ini pun yelah, orang...
+[11:41] Speaker 2: buat segregation tu lah. So maksudnya masa dia mendapat lesin, Makar Fest Excel ni untuk apa? Untuk orang gemuk macam aku ke apa? Besarlah saiz tu. Ini concern untuk orang gemuk. Macam-macam dia orang ni. Tak, maksudnya pihak berkuasa di Kelantan kata mereka telah diberikan syarat-syarat penganjuran lah. Tapi mereka tidak menepati. So siapa yang kena tangkap? Penganjur ke? Penganjur. Penganjur. Penganjur yang pergi.
 
-[04:10] Rafizi: Macam sendu sikit.
+[12:15] Speaker 3: Dan didenda RM30,000.
 
-[04:11] Akmal: Orang takut dah nak buat benda-benda tak senonoh bila ada segmen ini.
+[12:17] Speaker 2: Hmm. So Kat Kelantan macam itulah Kalau konsert Dia akan jadi isu negara lah Baik Aku tak pernah pergi konsert Semua hidup Sebab tak Sebab bising Haa Lepas tu Ramai orang Kan Haa So Tam Haa Tak tahulah, kalau budak-budak kan ada yang suka pergi konsert semasa umur hidup, aku tak pernah pergi konsert. Aku pernah pergi satu saja acara, itu pun sebab kena paksa dengan cikgu masa kat Scotland. Sebab... Aku dalam orkestra kan. So, cikgu tu sangatlah bersemangat. Dia macam terkejut badak ada budak Melayu main dalam orkestra kan. Jadi ada satu konsert orkestra lah. Itu satu-satunya. Itu pun sebab percuma. Kalau tidak memang aku tak pergi lah. Yang dekat Philharmonic Orkestra. Philharmonic. Aku pun tak pernah pergi kan. Apatah lagi konsert macam ni lah. Bising dan sebab itulah kita tak dapat undi Gen Z kot. Kena pergi konsert lagi. Alhamdulillah lepas ni. So aku kena buat apa? Makar Fest XXL. Mungkin lah kita buat Makar Fest SSL. Okay. Boleh. Okay baby. Tapi. Kalaulah setiap satu yang beria ni, kita kena bincang empat mana yang beria. Maksudnya sendua. Kita cuba lagi. Dia kena yang macam fuzia. Cukup jumlah, tak payah bincang. A joke. Kalau kena explain joke tu, dia tak akan. Dia tak akan. Okay. Tak habis jual, cuci balik. Di kedai nasi kandar di Seremban Ini pun pelik juga ni. Employees were not found to have typhoid vaccinations. Yelah. Maksudnya dia, bagus lah dia menguatkuasakan sebab syarat untuk buka sesuatu kedai makanan, dia mesti dapat lesin dan ada suntikan typhoid daripada KKM kan. Dia budak-budak yang kat kesom semua tu, dia kena pergi kursus tau untuk mengendalikan makanan. Mungkin berhajat untuk menjadi usahawan F&B lepas ini macam mana kita susun dapur tu pun ada syarat-syarat dia tinggi macam mana, dekat mana kan. So yang ini maksudnya macam mana dia boleh dapat lesin awal-awal? Dia... Comply lah kot. Tapi from time to time tu dia ubah. Maksudnya pekerja tu. Pekerja baru. Pekerja baru. Dia hanya dapatkan lesen. Kemudian bila dia dapat lesen tu. Dia dah tak peduli lah. Pekerja-pekerja baru tu. Dia bukan hantar pergi ambil taifot ke apa. Dan saya rasa F&B ni pun. Dia pekerja tu datang dah pergi kan. Usually. Pertukaran tu. Dia tanya bos F&B lah. Bos F&B je. Datang-datang. Jangan sebut bos tak kaya. Kalau kaya. Buat duit tak apalah kan. Jadi, Yainini... melemil yang pergi ke ataupun ada orang viralkan lah ada orang viralkan ada viral tu hmm Dia daripada Facebook asalnya Hmm Jadi? Bagaimana yang beria? Dia jenayah sebenarnya. Haa.. Betul kan? Ini bukan poyo dah ni. Ini boleh keracunan orang, mati orang kan. Tapi memang ada kan. Memang ada yang tempat-tempat, peniaga yang kan. Selalunya yang selalu kita dengar lah kalau macam bazar Ramadhan. Haa.. Yang itu kena berhati-hati juga. Sebab bila ada banyak, ni nak masuk Ramadhan ni kan. Haa.. Biarlah bila ada persaingan yang banyak. Kalau makanan tak habis. Tuan Yalah untuk jaga untung ke apa dan dia boleh terutamanya kalau macam ayam lah kot. Ayam ya. Ya ini mungkin orang marah kat akulah. My habit lah kan Bila makan Saya jarang sangat makan ayam yang dimasak Yalah maksudnya Masak merah Oh laut Ya laut tu kan Masak merah ke Ataupun Masak madu ke Masak kicap ke Selalunya kalau saya makan Hampir 100% Setiap masa Mesti makan ayam goreng Panas-panas So Satu sebabnya Yalah Yalah aku kan jenis Yang apa nama ni fikir macam-macam kan jadi untuk mengelakkan risiko risiko ayam itu dimasak semula jadi petuanya bagi orang macam saya ialah jangan makan yang masak lain jadi tak payahlah bagi aku ayam masak kicap ke kurma ke selalunya kalau the best is yang memang dia dah masak goreng yang panas-panas kat situ lah baru tak ada risiko yang inilah sebab Adalah segelintir kan cuma dia tak mengejutkan. I don't know. Are you surprised? He didn't surprise me at all. Saya mungkin baru hidup dekat dunia ni. So banyaklah song yang kau baru hidup. Lama mana kau dah hidup kan? Dia takkan ini kali pertama. Benda ni agak biasa
 
-[04:15] Rafizi: Pandai Langkawi! Ceplos masih lagi macam biasa?
+[17:40] Speaker 3: kan? Dekat bangsa. RBL yang dia cuci sudu garpu pakai Saya lupa Ya Sumpah, bangsa kan Oh, iya ke? Sorry, sorry. Dekat mana? Masa-masa kena bangsa.
 
-[04:19] Akmal: Ha, ceplos macam biasa. Dia dalam bubble dia.
+[17:55] Speaker 2: Mentang-mentang dia tak duduk bangsa, dia duduk tempat lagi mahal. Tempat lagi mahal. Dia hina je bangsa.
 
-[04:21] Rafizi: Okay, tak apa. Kita try lah. Yang pertama...
+[18:04] Speaker 3: Actually, masa topik ni jadi viral, ada ramailah bangkitkan isu cleanliness dalam kedai mamak. So, itu antara satu topik perbualan bila benda ni viral lah. Tapi,
 
-[04:25] Akmal: Ha, ini negeri kelahiran...
+[18:15] Speaker 2: iyalah orang nak pukul rata pun tak berlaku adil juga. Iyalah kan. Saya ingat yang bersih kotor tu Dia nak kata kedai memang mak sahaja ke apa semua ni memang... Ada je kedai yang bersih Ada je kedai yang kotor kan Cuma Yelah kadang-kadang orang kita pun selagi tak kena dia tak semak, dia tak perhati pun bila dah kena dan dia jadi buat bising lah.
 
-[04:28] Rafizi: Negeri kelahiran.
+[18:41] Speaker 3: Tapi orang selalu kata kalau nasi kandar lagi kotor lagi sedap kan?
 
-[04:30] Akmal: Negeri kelahiran, di Terengganu, Ultrasel...
+[18:46] Speaker 2: Aku nosy lah sekarang ni. So siapa yang beria ni? Kedai makan. Kedai makan beria. Okay. Okay. Tapi sendu lah. Sendu. Kita harap yang terakhir ni okey sikit lah. Tak ada yang dah tak bukan. Saudara Akmal. Okey, menang terus. Macam inilah berberia. Saja. Save the best for last. Save the best for last. Nak resign kena meeting dulu. Jadi Dr. Akmal stay as for now. So dia tak resign lah? Dia kata dia baru keluar pendana. Dia yang bising-bising resign ni berapa? Dua, tiga minggu lepas kan? Yes, waktu ni lah Pipun Agung. UMNO. Panjang karang tu. Bunyi dia macam inilah perjuangan terbesar sejak Hang Tuah. So tak risau lagi? Surat tu tender Ada surat dia tunjuk Tapi masalahnya TYT bercuti CM pun ada working trip dekat luar negara Jadi TYT perletakkan jawatan sebagai ESCO Dia tidak melibatkan TYT kan? Dalam surat tu address kepada TYT Mungkin mereka telah menemui lubang. Mungkin ini alasan. Sebab perletakan jawatan daripada Kabinet Negeri, sama juga dengan Jemaah Menteri, yang melantik itu adalah Ketua Menteri ataupun Perdana Menteri. Sudah tentu kita dapat... watikah pelantikan itu daripada sama ada TYT ataupun yang dipertuan agung lah. Tapi perletakan jawatan itu dia sama lah kalau ikutnya ialah di alamatkan kepada Perdana Menteri lah. So dia letak jawatan ataupun tidak? Dia letak. Tapi tunggulah kena jumpa TYT dan CM bincang dulu. Tapi dah kemas ofis semua. Tapi dah kemas ofis. Dah kemas ofis. So mungkin lah kot budaya UMNO ni lain sikit lah sebab Di lokasi dia banyak sikit Dia banyak-banyaknya Aku boleh bercakap lah Soal letak jawatan Yang paling berpengalaman Yang paling berpengalaman Letak jawatan Kan So Mudah je tulis letak jawatan. Saya ingat surat tu kalau kena baca pun boleh ada baca kat sini kan. Sebenarnya tulis je lah bahawa saya meletakkan jawatan berkuat kuasa dari tarikh ni. Terima kasih. XO-XO. XO-XO. Tak ada. Jadi lepas itu dia tak timbul dah soal bincang. Kalau nak bincang ke dapat pandangan ke itu sebelum mengeluarkan surat. tu dah keluar, keluar lah kerana, yelah kalau macam ini Ketua Menteri Melaka pun, Dato' Sri Raof kan, dia kena fikir jugalah, Dr. Akmal ni ada maruah dia, kalau dia dah buat keputusan dan itu sesuatu yang penting untuk dia Dan dia ahli politik Kalau contohnya Dia dah hantar surat Letak jawatan Lepas tu Kita nak pujuk lagi ke Ataupun kita Kita nak Suruh dia tukar keputusan tu Yang menanggungnya nanti dia Jadi lebih baik Kalau dah Berpisah tu berpisah lah elok-elok Kan Dia jangan pisah rujuk Pisah rujuk Tapi yelah UMNO macam tu lah kot Dengan PAS pun Pisah rujuk Pisah rujuk kan Lama-lama nanti jadi bahan Troll macam inilah Tak pasal-pasal masuk beria Dan terus menang Tapi tak boleh beat Fuzia kot Belum lagi lah Belum lagi lah Boleh cuba lagi Ha Dia, macam mana pula kata, belum berunding lagi, kekal sebagai ex-co, perletakan jawatan belum saya bincang dengan TYT. Tapi sebab kalau dalam surat, ini pun kalau dari segi pentadbiran pun kena berhati-hati jugalah. Kalau surat itu dah kata letak jawatan, contohnya berkuatkuasa 15 Januari 2026. terlibat lah because kalaupun Ketua Menteri kata masih lagi ex-co. Kalau dia ambil bahagian ataupun ada keputusan yang bersabit dengan beliau Walaupun di peringkat kerajaan negeri kata dia masih ex-co Tapi surat dia dah letak jawatan Jadi benda tu tak bahayalah Kalau ada sebarang keputusan Dia boleh dicabar Jadi takutlah Dr. Akmal teruskan
 
-[04:34] Rafizi: Lepak sel. Memang dia orang lepak dalam sel lah, lepas tu.
+[23:26] Speaker 3: Tapi just nak tanya Bila you letak jawatan adakah gaji masih berjalan?
 
-[04:39] Akmal: Emm, jadilah, dia orang...
+[23:35] Speaker 2: Tidak, ia bergantung kepada tarikh berkuatkuasa. Haa kan So Macam saya letak jawatan dahulu Kalau ikut saya Masa tu lah kan Ya Chaplos lah Haa Walaajib lah Walaun lah Walanun lah Semua duk hentam lah Kata nak letak jawatan Tak letak jawatan Tak letak jawatan lagi kan Awal-awal tu Sebab Yalah kita kena fikir Pasal negara Kerana masa itu sidang ASEAN dan Kementerian Ekonomi dan saya sendiri ada mempenguruskan satu mesyuarat peringkat Menteri ASEAN. Kerjasama ekonomi ASEAN itu satu bahagian itu memang diketuai oleh Kementerian Ekonomi. Jadi jatuhlah air muka Perdana Menteri negara kan apa nama ni dia tengah seronok menjadi pengurusi ASEAN. Tiba-tiba semua orang tahu Menteri letak jawatan kan tak cantik lah. tarikh letak jawatan tu kita kena ambil kira perkara itulah. Jadi dia kena dilewatkan sampai saya ingat lebih kurang sebulan, tak sampai sebulan lah, tiga minggu kan, tiga minggu. Kemudian kena campur cuti. Cuti yang ada lagi tu, dia akan campur. Jadi then you know lah tarikh perlu berkuat kuasa. Jadi dalam surat tu, dia seterolah. You dah kira semua tarikh perlu berkuat kuasa. Then lepas itu gaji berhenti lah. Habis tu gaji minggu dua minggu tu you kena serah semua ofis dah memang kena kosong on that day Kemudian kenderaan rasmi kena serah Rumah Masa itulah aku pun tak fikir panjang. Tak terfikir, eh actually aku perlukan rumah. Aku perlukan kereta kan. Alamak tak ada kereta. Sebab kereta yang dulu dah jual. So bila dah serah tu, dalam seminggu nak kena serah tu, masa itulah kelangkabut. Alamak kereta baru tak beli lagi. Kemudian rumah tak cari lagi. Sebab rumah yang, rumah saya yang dekat-dekat antarabangsa, dua-dua dah bagi sewa kat orang. Takkan nak halau orang kan. Dr. Akmal Maksudnya dia dah tak ada kereta lah Sekarang Tapi dia masih menjalankan tugas kan Sebab tengok Report-report tu Waktu hari bertemu pelanggan Something macam tu lah Mungkin sebagai adun Sebagai ex-co tak silap Saya tak sure Tak apalah Kita doakan supaya Urusan meletakkan jawatan ini Berjalan lancar Sebab kalau tidak dia masuk beria lagi Kalau seminggu dua minggu lagi ada cerita baru Alah kena masuk beria sekali lagi Masuk senior Masuk senior terus lah Okey Okey baik Okey lah Itu saja Dah menang Tahniah Ambil piala kemenangan Jom Terke standing order weh weh. Hmm. Di parlimen lah. Ya. Ada apa ni maklum balas lah daripada apa yang weh weh bangkitkan. Yelah jawapan diberikan di parlimen lah kan. Jadi Haziq nak kena cerita apa sebenarnya latar belakang ni lah. Yelah kita maklum minggu lepas weh weh Rafizi ada bangkitkan. Bukan minggu lepas kan. Dua minggu. Dua minggu yang sudah. Haa. Soal Fiscal deficit figure Negara kita ini Ada S tak berapa tepat lah bahawa kita ada 33 bilion tax refund yang tidak dipulangkan dan jawapan pun itu setakat 2024 setakat 2024 dan jawapan pun telah diberi oleh Menteri Keuangan Kedua dalam penggulungan Tita Diraja Isnin lepas kita dah semak handset semualah tapi video tak ada lah video tak ada video
 
-[04:40] Rafizi: Makan ikan keringlah, satu malam dia orang.
+[27:28] Speaker 3: terlampau panjang terlampau panjang video terlampau panjang selama 45 minit dan dia punya portion tu
 
-[04:43] Akmal: Oh, itu pengalaman YB lah?
+[27:35] Speaker 2: So Tapi ini sebahagian Daripada handset dia lah Ya Jadi apa jawapan dia? Kalau saya boleh buat ikut poin lah agak panjang. Antaranya tak wajar disoalkan kerana ikut PYI antarabangsa. Diterima pakai agensi penerapan serta badan dunia. Pelaporan ini juga berdasarkan manual statistik kewangan kerajaan yang digunapakai negara lain. Ketua Audit Negara pun berpendapat penyata kewangan kerajaan beri gambaran yang benar dan sama-sama. Sistem pakaunan kerajaan berdasarkan asas tunai bukan asing. Singapura, Jerman dan banyak lagi. Dan dia update juga sedikit tentang figure. Bayaran lebihan cukai yang diselesaikan 2025 adalah tertinggi dalam tempoh 5 tahun iaitu RM22.45 bilion. Selepas. Perkara ditimbulkan lah. Dan dalam 3 tahun, kerajaan Manani dah lunaskan RM56 bilion iaitu 2 kali ganda. Lebih tinggi dari tahun 2020 sehingga 2022. 2 kali ganda lah kerajaan ini. Dan bayaran balik sebanyak RM75 bilion dibuat pada Desember 2025. Iaitu lebih tinggi daripada komitmen awal PM iaitu hanya RM4 bilion. 2025. Tiga tahun lah. Tahun taksiran 22. Tiga tahun baru. Baru selesai lah. Yes. Baiklah. Jadi jawapan itu memang saya sangka lah. Itu jawapan pentadbiran. Maksudnya... Perkara ini tidak salah... Perkara ini menepati piawayan walaupun sebenarnya itu tidak menceritakan dengan terperinci. Nanti saya akan huraikan sebentar lagi kerana walaupun negara-negara... ada yang mengamalkan cash accounting. Memang betul. Contoh yang diberikan contohnya Singapura cash accounting Netherlands, Germany, Norway lah negara-negara maju kan. Tapi sebenarnya dia tak apple to apple. Nanti saya akan sebut kan. Kemudian jawapan biasa lah bahawa ini telah diperakukan oleh ketua audit negara gini-gini kan. Dia kalau kita ambil begini kan. Erm... Dan Dia tak ulas sangat pasal Deficit Dan dia tak ulas sangat pasal Err hakikatnya bahawa kerajaan sekarang ini mengulangi kesilapan kerajaan semasa zaman Datuk Seri Najib dahulu dengan tidak memulangkan balik bayaran cukai kan. Cuma yang disebut ialah kami sekarang ini sedang berusaha dan kami dah bayar lah sikit kan. Okey baik. Let's take one by one terutamanya akhirnya kepada soal deficit itu kan. Dan soal deficit ini Masalah utama negara kita dari segi kewangan dan ekonomi ialah keberhutangan. Dan ini memang masalah orang politik kerana Buat apa nak fikir benda yang bukan masalah aku? Kita sekarang ni hutang dah sampai berapa? 1.3 triliun kan? Sampai bayaran untuk membayar faedah tahunan sampai dah jadi 52 bilion ringgit setiap tahun kan? Lebih kurang sama yang kita belanjakan untuk pendidikan. Pendidikan adalah 60 bilion lebih. Bayar interest 52. Kita berada dalam keadaan ini kerana pimpinan-pimpinan sebelum ini mengambil sikap yang sama. Ini bukan masalah aku. Zaman aku jadi pemerintah, maka aku buatlah apa asalkan aku kekal berkuasa, asalkan aku nampak cantik, yang mana kita boleh sembunyi semua itu kita buat kan. Kalau kerajaan ini adalah sambungan daripada UMNO ke Bersatu ke Perikatan Nasional, tak apalah. Dulu pun kita lawan mereka atas sebab urus takbir kewangan yang kita rasa tidak bertanggungjawab untuk generasi masa depan itulah. Kalau tengok ucapan saya daripada saya rambut tebal sampai sekarang. Rambut aku dah tumbuh balik sikit kan?
 
-[04:44] Rafizi: Aku tak makanlah. Memang Allahuakhbar. Dia kalau dalam lokap tu, dia punya nasi kalau ikan kering tu okay lah kan, lepas tu air tu, nampak macam teh o ais. Tapi kalau kau rasa sikit je, memang memang tak ada apa ni, tak ada rasalah. Cuma dia bergantung jugalah. Dia sebenarnya yang paling paling susah dalam lokap ni, sebenarnya makan tu kalau setakat dua tiga hari boleh je tahan. Dia yang paling susah ialah mandi, mandi.
+[32:01] Speaker 3: Ya.
 
-[05:24] Akmal: Haah.
+[32:02] Speaker 2: Apa?
 
-[05:24] Rafizi: Dan kalau lokap dekat Jinjang dulu, dia ada CCTV kat atas tu. Kau nak mandi macam mananya? Dah lah mandi kena mandi bogel kan. Dah lah mandi...
+[32:02] Speaker 3: Apa yang hair care produk yang you pakai? Hello. Tony. Ya ke tak? Tak. Nampak macam tebal sikit.
 
-[05:36] Haziq: Kena mandi dalam sel ke, mandi...
+[32:12] Speaker 2: Tidak meyakinkan. Nampak macam. Nampak. Itu macam soalan-soalan jawapan administratif kerajaan. Saya
 
-[05:37] Rafizi: Memanglah mandi dalam sel. Kau ingat asrama ke apa?
+[32:19] Speaker 3: ikut apa yang dia put.
 
-[05:40] Haziq: Tak, sebab kita tengok movie-movie barat...
+[32:21] Speaker 2: Okey, berbalik kepada ini. Daripada zaman aku rambut tebal lagi, memanglah soal utama ialah kita kena bertanggungjawab dan tidak mewariskan hutang kepada generasi akan datang. Sebab cabaran mereka lebih besar daripada kita. Soal ancaman negara menua, sandwich generation semua ni kan. Baik eh. Erm... Pertama kita nak kena banding berapa yang jawapan yang diberikan itu ialah memberikan prestasi, membayar yang lebih baik kan. Kita nak kena banding daripada data-data yang ada sebelum ini sebenarnya berapa cukai yang kita tak kembalikan kepada rakyat. Berapa? Tak adalah. Kau tak sempat cek. Saya dah semak sebenarnya laporan kewangan, kedudukan kewangan Kerajaan Persekutuan. Laporan kewangan Kerajaan Persekutuan, LKKB, daripada tahun 2010. Saya ingat kali pertama laporan yang menyatakan dengan jelas bayaran cukai yang tidak dibayar balik kepada rakyat ini, saya ingat dalam tahun 2015, 2016 lah. Sebelum itu tak ada. So the best that we have ialah antara 2015 sampai sekarang lah, 2024 angka terakhir. But at least we have 10 tahun kan. Amalan tidak membayar cukai kepada rakyat ini nampaknya memang telah bermula daripada zaman Datuk Seri Najib. So let me try to get the figure. I cannot recall it on top of my head lah. So that kita tak tersasar kan nanti orang kata apa nama ni pandai-pandai bagi figure kan. Tahun 2017, dipanggil refund areas, maksudnya cukai yang tidak dibayar balik. Cukai rakyat terlebih bayar yang tidak dibayar balik. Tahun 2017, RM34.3 bilion. Kalau diambil dari segi peratusan cukai yang dimasukkan sebagai hasil negara, diisytiharkan sebagai hasil negara tetapi sebenarnya itu cukai terlebih bayar itu ialah 19.3% daripada. Maksudnya masa zaman Najib dulu memang betul lagi teruklah. 19.3% maksudnya kalau dia umum hasil cukai tahun 2017 RM177.7 bilion sebenarnya 19.3% itu memang kena kembalikan kepada rakyat pun Tahun 2018 memuncak lah sebab masa ni dia ada cukai pendapatan yang terlebih bayar dan juga GST yang dia tak kembalikan. Tahun 2018 44.4%. Masa tu memuncak 25.5% Dan ialah Kalau kita kata Kita lebih baik daripada Najib Sebab tu lah Najib kalah Sebab tu lah orang marah Masa tu kan Dan Kerajaan PH 1.0 Semasa Saudara Lim Guan Eng jadi Menteri Kewangan berhempas pulas untuk menyelesaikan masalah itu. Jadi kalau ingat tahun 2019 dahulu ada laporan di PAC, ada semakan dan Petronas kerajaan terpaksa mengambil special dividend. Dividend khas daripada Petronas untuk melangsaikan hutang kerajaan kepada rakyat dalam bentuk cukai yang tak boleh dibayar. Jadi tahun 2020, benda itu dah turun. Daripada yang memuncak tahun 44.4 bilion 2018, dia dah turun kepada 14.6 tahun 2020. Kemudian dia naik balik Haa Dia naik balik 20 Apa nama ni Hmm 21.8, 25.7, 25.5 dan 20.4 38.3, 33.3 bilion dan setakat 20.24 peratusan itu dah naik balik sedikit demi sedikit dia dah jadi 14% daripada cukai kan baik. Tidak. Eeeemm Datuk Seri Lami Hamzah kata benda ni benda biasa. Sebab yang ini kadang-kadang kepada pegawai-pegawai yang menyediakan soalan. Saya tahulah kita nak yang menyediakan jawapan kan. Kita memanglah nak cover menteri kita supaya menteri kita tu nampak tak tercungap-cungap menjawab ataupun boleh selesaikan soalan-soalan kan. Tapi berhati-hati, jangan bagi jawapan yang sebenarnya tidak tepat ataupun mengelirukan Dewan ataupun nampak tujuannya ialah untuk menutup hakikat sebenar. macam Netherlands, macam Norway pun seolah-olah pun macam ini kan Yang itu sebenarnya salah fakta, tidak tepat dan saya rasa kalaulah saya pembangkang daripada bersatu atau pas, dia dah bangun. Berniat jahat, sangkaan jahat kerana tidak memberi gambaran yang betul. Pertama... Keadaannya, walaupun secara umumlah setiap negara itu memilih sama ada dia buat accrual accounting ataupun cash accounting kan. Tapi macam mana ia dilaksanakan itu berbeza-beza. Kita tak boleh kata cash accounting kita ni sama dengan Germany. Kerana Germany pakai hybrid lain. Kedua... Amalan percukaian itu juga berbeza. Jadi sebab itu yang tidak disebut oleh Datuk Seri Amir Hamzah yang saya rasa tidak berterus terang lah, dia sebenarnya tak bandingkan kalau Singapura pakai cash accounting macam kita, kalau Norway macam kita, sebenarnya berapa tunggakan cukai tidak dipulangkan kepada rakyat ni? 1% Itu sebab aku dah cakap kau tadi Ini Selama nakal Dia sebab itu Kalau jawapan parlimen itu Yang saya Yalah sebaiknya Kalau dia nak bagi contoh negara lain Dan kita kena benchmark dalam konteks Dan perspektif yang betul Memang betul Singapura Norway, Germany Dan Netherlands yang dia bagi contoh itu Memang betul mengamalkan cash accounting walaupun cara pelaksanaan cash accounting dia itu berbeza-beza. Kalau di Germany dia hybrid. Ada kerajaan, ada institusi, ada bahagian-bahagian tertentu yang sebenarnya buat accrual accounting. It's not a full-fledged ataupun 100% macam cash accounting macam kita kan. Tapi yang lebih penting soalan yang perlu dijawab ialah Kenapa kerajaan tidak membayar balik sehingga RM33 bilion memegang duit rakyat dan ini mengulangi perkara yang dibuat masa zaman Datuk Seri Najib dahulu. Sebab itu kita kena bandingkan kalau dia nak kata Singapura, Norway. Kita bandingkan sebenarnya berapa tunggakan cukai yang tidak dipulangkan ini. Kau ingat eh, kalau dekat Singapura ke dekat Netherlands ke, Kalau kerajaan tak pulangkan sampai 20%, 15% daripada national revenue itu ditak pulangkan kepada rakyat dia, peniagaan dia sehingga bertahun-tahun, kau ingat jadi macam mana? Ruyuk kerajaan tu. Jadi sebab itu, masalah tunggakan cukai di negara-negara itu tidak berbangkit. Macam yang Haziq potong line tadi. Bila kita bandingkan benchmark, kita masa zaman tertinggi 25.5%. Maksudnya daripada cukai yang dikutip setiap tahun tu, 25.5%. Tahun 2018 tidak dipulangkan kepada rakyat walaupun itu sebenarnya duit rakyat yang terlebih bayar cukai. sampai ke 13.8, 14.0 kan. Kalau kita tak buat bising, senyap-senyap benda tu akan naik-naik balik. Kan contohnya kan. Di negara-negara lain yang diberi contoh tu kan, Singapura, Norway, semua tu. Erm... Amalannya ialah cukai yang tidak dibayar balik ini tak melebihi 1% pun tunggakan. Jadi kalau dia kutip katakanlah 500 bilion dolar, yang dia tak pulangkan 5 bilion saja. Dan itu kita fahamlah bila dalam lingkungan 1% cukai terlebih bayar itu tidak dipulangkan. Kerana itu perlu melalui proses, dia kena proses. dan juga timing difference. Dia bukan soal dia tak berkait sehingga masuk soal defisit ni. Jadi... Dan kenapa jadi macam itu? Kenapa negara-negara itu risiko kerajaan memegang cukai yang terlebih kutip tidak dipulangkan ini, kenapa risiko itu ada di Malaysia, tidak ada contohnya di Singapura ke di Netherlands ke di Germany? Sebab memang kita... berhutang banyak? Dia sebenarnya sistem. Sebab itu bila saya sebut sistem, perubahan itu mestilah struktur, jangan manis di mulut, tetapi amalan itu tidak berubah. Sebab amalannya berlainan. Peraturan di negara-negara lain ialah kalau kita syarikat ataupun kita individu yang telah terlebih bayar kepada kerajaan, maka yang terlebih bayar itu otomatik tolak daripada Jadi tak timbulah soal kerajaan hutang duit kita ni. Kalau contohnya untuk tahun taksiran 2025, cukai syarikat A ialah 2 juta. Tapi dia dah terlebih bayar 3 juta. Ada 1 juta terlebih kan. Jadi bila masuk sahaja 2026, dia mula kena bayar ansuran cukai mengikut anggaran. Tapi ansuran cukai yang dia kena bayar itu, dia dah tolaklah yang dah terlebih bayar 1 juta. Jadi tak timbul lah. Sebab itu dia tak sampai ke 13, 14, 15% sampai 33 bilion yang tak dipulangkan ni. berbeza Sedangkan kita kuasa itu dipusatkan kepada kerajaan. Kerana yang kamu kena bayar, kamu bayar. Kalau tak bayar, nanti aku akan kenakan penalti, aku akan kenakan interest. Jadi orang takutlah, jadi orang bayar lah kan. Tapi bila dah bayar, sepulang kepada akulah bila nak bagi balik. Dia tak bolehlah, dia kena set off lah perkara itu kan. Dan sudah tentulah, apa nama ni, mereka ada peraturan-peraturan lain yang menyebabkan masalah cukai tertunggak ini, ini, dia tak timbul di negara-negara lain walaupun Menteri Kewangan kedua bila dia jawab di Parlimen dia cuba memberi gambaran seolah-olah perkara ini benda biasa tak biasa tau, kan, jadi hmm Dan akhirnya... Tadi saya ada di satu majlis lah. Majlis tertutup dengan pelabur-pelabur. Kan. Biasalah Apa nama ni Hmm pelabur-pelabur ni dia ambil maklumat daripada semua daripada kerajaan dia ambil daripada pembangkang dia ambil daripada orang gila macam aku pun dia ambil jadi memanglah mereka mula menanyakan bahawa eh Kalau jawapan Menteri Kewangan Kedua sekarang kata, okeylah, now kami dah kantoi sebab tak bayar cukai, kami akan bayar cukai dan kami akan cuba selesaikan. Bila you cuba selesaikan, maksudnya kalau ada tunggakan sebelum ini, RM33 bilion setakat 2024 kan? Betul. Kita tak tahu berapa yang untuk tahun taksiran 2025 pula. Mungkin another RM45 bilion. Jadi pukul rata lah katakanlah tunggakan 2024. Campur lagi yang terlebih bayar 2025 yang belum melalui taksiran katakanlah RM38 bilion. Datuk Seri Amir Hamzah kata prestasi bagus gini semua yang tertinggi dalam 5 tahun. Bayar berapa? Untuk RM7.5 bilion. Untuk 2025 kan? Desember 2025. Terima kasih. Eh, RM38, ada RM31 bilion lagi dah. Dan jumlah yang terlebih bayar ini akan terus ditambah daripada satu tahun ke satu tahun. Maksudnya kerajaan sekarang perlu melunaskan RM30 bilion daripada cukai-cukai yang tertunggak ini mungkin dalam tempoh satu dua tahun sebelum pilihan raya, 27 ke 28 kan. Kutipan hasil cukai kita lebih kurang berapa? Lebih kurang RM280 bilion. Hasil kerajaan dalam RM320 macam itulah. Cukai kutipan cukai RM240, RM250 if I can recall. So kalau RM30 perlu dilangsaikan dalam tempoh setahun setengah ini, maksudnya itu lebih kurang 10% daripada hasil kutipan cukai kerajaan tiap-tiap tahun. Jadi sebenarnya bukankah lebih baik berterus terang sahaja? Kami akan melangsaikan tunggakan sekian-sekian-sekian dalam tempoh dua tahun sekian-sekian-sekian. Maka... Angka defisit kita tu memang betul lah yang macam aku cakap. Sebenarnya lebih tinggi lah. Jadi bila kita dah tahu angka defisit kita itu lebih tinggi, bukan 4%, 5% lebih, 6% lebih kan, kita takkan mengulangi apa yang dibuat oleh Dato' Sri Najib dahululah. Gali lubang, tutup lubang. Gali lubang, tutup lubang. Tambah pula, sekarang ni kita satu tahun setengah nak masuk pilihan
 
-[05:43] Rafizi: Itu kat luar negara. Kat Malaysia ni, itu pun rasanya lokap Jinjang tu dah kira better. Kira ha, dia lokap baru dalam 10, 15 tahun kan. Kalau kena lokap dekat balai-balai polis biasa, kalau kat Kuala Terengganu ni, lokap dia memang teruklah kan. Jadi tak tahulah takut dia orang semua tak mandi.
+[47:41] Speaker 1: raya.
 
-[06:05] Akmal: Tapi request dari production kita untuk dengar apa yang polis cakap.
+[47:43] Speaker 2: Jadi bila satu tahun setengah nak masuk pilihan raya, dia akan jadi politik Santa Claus. Umum sana, bagi sana, tabur sini kan. Sedangkan duit ni tak ada. Pada masa yang sama, kita pula dah cakap kepada orang bahawa semua berjalan baik, defisit kita makin turun. Itu saja yang saya minta. perlu berterus terang kerana bila kita dah berterus terang dan ikat di parlimen ini rancangannya maka kita tidak ada pilihan kecuali mendisiplinkan urusan kerajaan walaupun itu bermakna tak boleh jadi Santa Claus nak masuk pilihan raya dan yang bagusnya jawapan Datuk Seri Amir Hamzah tadi sebenarnya bagi saya lah minggu ini mengesahkan semua yang saya cakap lah Jawapan-jawapan macam ini. Dia berliku-liku tapi orang baca between the lines. Dia tidak menafikan bahawa memang betul cukai tertunggak RM33.3 bilion. Dia tidak menafikan bahawa memang betul cash accounting. Dan bila cash accounting, dia terpaksa terima. Memang betul. Maknanya yang defisit itu dikira defisit yang diumumkan itu termasuklah RM33.3 bilion itu. tak adalah teruk sangat. Kita okey. Kami sedang berusaha dan semua okey. Budaya semua okey inilah yang kita telah lalui sebelum ini. Yang Datuk Seri Najib dah lalui, yang Malaysia menanggung sampai sekarang. Saya tak apalah. Saya rasa beban saya itu dah selamat lah kalau 10 tahun lagi jadi macam ini ada masalah. Orang tak boleh nak bercakap lah zaman kerajaan madani sekian-sekian. Aku dah sebut dulu. Sama macam sekarang saya bebas sebut pasal Datuk Seri Najib lah dia tak bayar sana sebab daripada dulu aku dah sebut kan. Sama ada pimpinan negara yang menteri-menteri pegawai-pegawai tinggi kerajaan tu nak dengar ke tidak. Then you know time will tell lah. Buat masa sekarang saya harap... Tugas kitalah sebagai rakyat ialah to hold the government accountable What they need, you know, the real issue sekarang ini yang kalau kita tidak berhati-hati, tidak ada pertanggungjawaban itu ialah kalau semua diberitahu bahawa semuanya cantik. Dalam keadaan kita tahu sebenarnya ada cash flow isu yang perlu ditangani, jadi sepatutnya pegawai kerajaan, menteri-menteri yang lain, bila kementerian kewangan nak buat ini, nak buat itu, tanya dulu, ni duit ni you ada ke tidak ni? itu nak umum ini dan saya ingat kebimbangan utama saya lah ialah dalam satu tahun setengah ini ialah untuk berpolitik nak masuk pilihan raya Santa Claus dulu kita kata kat Najib kan umum sana, umum sini, tabur sini tabur sana, sekarang ada kecenderungan buat itu juga Dalam keadaan sebenarnya kita menggunakan duit rakyat yang someone has to pay for it. Then pelabur, macam saya sebut dalam parlimen dalam ucapan saya kan, pelabur ni ataupun pasaran, bila kepada mereka yang menonton, bila kita kata pelabur itu maksudnya fund manager. Dia akan tengok kerana ada beberapa bentuk pelabur lah. Ada pelabur yang dia memang syarikat MNC. Dia buat pelaburan jangka panjang. Dia nak masuk Malaysia, dia nak buka kilang atau operasi dia, dia ambil kira perspektif 15 tahun. Yang itu dia tengok kepada banyak perkara. Dia tengok kepada pasaran, dia tengok kepada skill, terutamanya kepada kemahiran pekerja-pekerja kita, dia tengoklah kepada cukai sikit kan. ringgit contohnya yang akan mempengaruhi kadar kita membayar faedah hutang bila kita terbitkan bond kan kupon dia berapa yield dia berapa semua ni. Yang ini banyak ditentukan apa yang disebut oleh portfolio investment. Maksudnya ditentukan oleh pengurus-pengurus dana. Pengurus dana yang menguruskan bond Malaysia. Okeylah kita letaklah 10 juta dolar dalam equity sebenarnya. Setakat ini mereka suka apa yang kita narrative ekonomi yang kita sebut. kita nak tumpukan kepada fiscal discipline. Dan saya memanglah sensitif pasal fiscal discipline kerana itu perkara yang aku ketuk meja 6-7 bulan pertama. Among the first thing that I said kita kena buat, we have to resolve and strengthen our fiscal discipline daripada awal pun. So, orang suka... Tapi kalau lama-lama dia tengok, actually ni macam ada silap mata ni. Bila jadi silap mata, kalau mereka tak percaya dah kepada naratif ekonomi itu, memang masalah lah. Memanglah bukan masalah Amir Hamzah lepas itu. Dia bukan ahli politik. Tapi dia akan jadi masalah negara lah. Kerana as we go along, kerajaan baru masuk. Dan kitaran itu tidak akan berhenti. Katakanlah kerajaan baru masuk, dia akan blame madani lah. Macam sama macam Datuk Seri Hamid Hamzah sebut dalam jawapan dia, kita mewarisi masalah ini. Kita mewarisi tunggakan yang tidak dibayar. Satu tahun kita boleh sebut, satu tahun setengah kita boleh sebut. Sekarang ini tak mudah tau untuk kita nak sebut mewarisi, mewarisi. Tapi kalau ada pertukaran kerajaan dan tunggakan cukai yang tak diselesaikan mungkin 40-50 bilion api lima peratus. Menteri Kewangan masa itu akan sebut perkara yang sama. Kita mewarisi masalah ini daripada kerajaan madani dan kitaran itu akan berterusan yang akan rugi adalah negara dan juga rakyat.
 
-[06:10] Rafizi: Ha, okay.
+[53:57] Speaker 3: Tapi sebenarnya, maaf, saya hanya ingin menambahkan kerana ia kelihatan bagi saya yang... Fiskal reform, fiskal disiplin ini satu benda hot potato yang no government akan touch. Sebab time Najib They say everything is okay
 
-[06:11] Video Audio: Nak suruh beruk tengok ke? Di atas kesalahan itu, kita tangkap dia. Takkan mahu bakar seluar di dalam hutan. Nak suruh beruk tengok ke? Di atas kesalahan itu, kita tangkap dia.
+[54:12] Speaker 2: Najib
 
-[06:25] Rafizi: Ha, itu reply dia orang?
+[54:12] Speaker 3: dia buat
 
-[06:27] Akmal: Itu reply mereka apabila polis tangkap, "Kenapa bakar seluar kat sini? Jadi yelah, takkan nak bakar dalam hutan."
+[54:12] Speaker 2: GST lah Itu sebahagian daripada Strategi fiskal It's not really fiscal discipline lah tapi improving the fiscal position of the government dengan melebarkan jumlah kutipan cukai kerana cukai pendapatan semata-mata dikira tidak mencukupi sebab itu kena ada consumption tax supaya semua orang bayar cukai. Jadi
 
-[06:33] Rafizi: Oh, itu jawapan dia. Bila nak suruh beruk tengok...
+[54:51] Speaker 3: Habis Nampak macam benda ni tak akan solve from one government to another to another because number one obviously governments yang kita dah experience so far, diorang ada budaya of tabur-tabur-tabur, kita panggil the dark. Now kita panggil banyak-banyak benda lah. And then like you said, coming to one and a half years of elections, lebih banyak akan ditabur. It's a hot potato yang takkan...
 
-[06:40] Akmal: Haah.
+[55:20] Speaker 2: Well to be fair lah, to be fair saya ingat berbanding dengan kerajaan-kerajaan sebelum ini, I mean sebelum 2018 lah zaman Dato' Suri Najib ke apa. To be fair saya ingat preoccupation dan juga naratif kerajaan mandani sejak 3 tahun sebelum ini ialah fiscal discipline. Paling kurang bercakap lah pasal fiscal discipline. kerajaan-kerajaan sebelum inilah. Maksudnya penyasaran semula subsidi. Memang itu memang jadi tumpuan kan. Cuma sekarang ini dia dah masuk ke peringkat pelaksanaan. Bila masuk peringkat pelaksanaan itu, bila kita lari skrip, Lepas satu-satu kita lari skrip Yang itu yang saya perlu bersuara Sebab plannya bagus Naratif yang kita bina awal-awal dulu 2023, 2024 Yang itulah yang disambut oleh Pasaran, oleh pelabur semua Siling lantai Siling lantai apa pula? Naratif ekonomi badani yang Tak tak, pasaran dia tak peduli sangat pun siling lantai kau tu kan. Dia nak tengok sama ada kerajaan berdisiplin atau tidak membelanjakan wang rakyat tu je. Dia tengok defisit, dia tengok kadar keperhutangan kita, dia tengok sama ada financially, public finance ni sustainable ke tidak kan. Jadi... To say that... Mana-mana kerajaan pun tidak akan... pergi dekat dengan soal fiscal discipline pun saya rasa tak adil lah Pak Han. Because to be fair, this government is perhaps yang paling focus kepada fiscal discipline trying to do it. Tetapi bila dia watered down lah ataupun bila dia terkelincir lah dan itu tugas orang macam saya lah untuk angkat bendera merah kata you know you are off track. Sebab Kalau betul-betul berterusan seperti ini dan kalau bertukar kerajaan, maka itu akan dijadikan alasan baru oleh kerajaan yang baru untuk tidak pergi dekat pun pasal fiskal disiplin. Kerana fiskal disiplin nanti akan jadi dirty word. Kepada rakyat pun kalau sebut fiskal disiplin, rakyat kata, alah hari ini dulu ini kerajaan mandani, Anwar Ibrahim, fiskal disiplin. Tengok jadi macam itu. Pasaran pun kata, alah pumpang-pumpang-pumpang. Sebenarnya macam ini. So sebab itu, it is not about this government, bukan pasal soal Anwar Ibrahim atau Amir Hamzah. Actually it's for the nation. And we must hold them accountable and stay on course walaupun benda itu pahit untuk ditelan. Itu je sebenarnya perbezaan utama yang saya selalu jadi head figure dalam kerajaan sebelum ini pun. Dia soal, eh kalau ikut engkau ni kalahlah kita election. Kalau ikut kepala kau, matilah kita. Well, we are a reformed government. And janji kita ialah bila kita masuk, kita akan cuba memperbaiki seberapa banyak yang boleh, terutamanya masalah-masalah rumit yang macam Pak An kata, orang lain tak nak pergi dekat. After all, this is supposed to be a turnaround government. You masuk, you fix, you turnaround. Tak kisahlah orang bertima kasih ke tidak. One day, one day people will look back and check out whatever you say about them lah, they fix this problem. You may like them or you may not like them. Tapi kalau mereka tak buat benda ni masa itu walaupun kena maki, kita tak berada dalam keadaan sekarang. And actually, banyak kerajaan-kerajaan di negara-negara lain Lalu izaman suka itu saya bagi contoh. Kalau di UK kan Di UK kan NHS yang ada sekarang ni kan NHS ni sebelum zaman sekarang lah Zaman 80-an, 90-an NHS, National Health Service Adalah gold standard tau Perkhidmatan kesihatan di dunia Kerana perkhidmatan orang tak payah bayar semua percuma kan. Actually kerajaan mana yang buat NHS ni? Labour. Labour kerajaan mana? Mana? Kepati buruh zaman siapa? Selepas Vincent Cici kalah tu Tak silap Pandai lah kau Hahaha Betul lah. Tapi siapa? Orang tak betul lah. Tak ingat lah. Dia sebenarnya selepas Perang Dunia Kedua. Kita ingat kalau Perdana Menteri UK, British Prime Minister yang selalu kita ingat. Kita ingat Vincent Churchill lagi. Siapa lagi? Margaret Thatcher lagi. Siapa lagi? Lestras. Sebab paling singkat. Lestras lagi.
 
-[06:40] Rafizi: Ini memang betul-betul sah orang Selangor ke? Ke orang Kelantan yang duduk Selangor?
+[1:00:15] Speaker 3: Cameron? Ya.
 
-[06:46] Haziq: Dia dua-dua pon...
+[1:00:16] Speaker 2: Mungkin korang terlalu muda lah Yang zaman-zaman 60-an Zaman 70-an Itu siapa dia Korang memang tak ingat lah kan Ujud lagi Sebenarnya, itu di bawah kerajaan Clement Attlee. Korang ada orang ingat kalau pergi tanya budak-budak British sekarang pun, tanya dia pasal Clement Attlee dan dia di bawah seorang yang bernama Anurin Bevan. Siapa ingat Anurin Bevan sekarang? Tak ada orang ingat. Pergilah tanya. Aku kat UK dulu pun sebut Anurin Bevan. Dia tak ingat pasal belah. Who is Bevan? Clement Attlee pun dia tak ingat sebab Clement Attlee ni dal. Dal. Dia nak banding zaman dia Labour ialah Clement Attlee Dan Nak melawan Churchill So Churchill kalah 1945 And then Churchill menang balik So dia satu term je tau Satu term government And after Clement Attlee Untuk 5 tahun Lepas Perang Dunia Kedua tu kan It took Labour another 15 years sebelum masuk ke kerajaan. Harold Wilson only came in 1965, 1966, I think lebih kurang 15, 16 tahun tau. Lepas Clement Atlee, Churchill. Lepas Churchill, I think Anthony Eden or Harold MacMichael or Macmillan, aku lupa. Ada 3, 4 lagi tau. Tory Prime Minister ni sebelum Labour balik. But... Satu-satunya institusi yang paling ada kesan besar kepada Britain, kepada rakyat, ialah NHS yang ditubuhkan oleh seorang yang orang tak ingat pun. Hanya kalau orang semak, ada lelaki ini bernama Annurin Bevan. Dan dia di bawah Clement Attlee. Saya mungkin romantiklah. Mungkin orang kata, ikut kepala kau, memang tak bertahanlah kerajaan itu. Kalahlah kerajaan itu. That was my romanticism. Sama ada lama ke tidak berkuasa, menang kalah. Itu serahkan kepada Allah lah. We need to go in and fix the generational structural problem. Because one day people will remember that lah. Yang saya kritik sekarang ialah ada tanda-tanda... Kita tak nak buat macam tu lah. Dia sekarang ni pasal survival mode. Survival mode ni, kita akan kata, ish, kalau kita tak buat ni, oh nanti kalah kita. Dan banyaklah cap loss-nya orang dikelilingnya yang duduk lambung, duduk lambung. Sebab itu saya timbulkan. Supaya, because it's a lot more than just soal... defisit fiskal. Ini soal awal Intention to govern Soal niat kita Menjadi kerajaan ini Tapi berbalik kepada pelaksanaan Pemulangan cukai ini Apa pilihan yang kerajaan ada pun Satu, rock the boat dan secara radikal Bayar balik semua Atau kedua, secara bertingkat-tingkat Secara bertingkat-tingkat Bayar, tingkatkan Bayaran itu dari tahun ke tahun Macam dia buat sekarang Hmm Sebab itu sebenarnya kalau kita nak menjadi lebih baik kan. Okeylah ini mungkin sangat kontroversi lah kan. Pemenang Nobel Anugerah Nobel Tahun ini ke tahun lepas I think tahun lepas kot kan Dia punya study, the field of study dia, cuba tengok pemenang creative distraction. Siapa yang dia menang tahun bila? Ada tiga orang ekonomis yang menang Nobel Prize atas kerja mereka creative destruction kan? Tahun bila? Tahun bila? 2025 Betul lah Peter Hawick Dengan Joel
 
-[06:48] Akmal: Ha, itu benda yang...
+[1:03:57] Speaker 3: Mokir
 
-[06:49] Rafizi: Ya, dia manalah tahu takut ada orang daripada Chukai ke... So, dia orang memang orang Selangor lah. Ultrasel, Ultrasel. So, siapa yang beria ni sebenarnya?
+[1:03:58] Speaker 2: Okay Sebab itu Memang proses kita Sebagai manusia Yang kita Kena Melalui Kepayahan Dalam melalui kepayahan itulah baru kita belajar untuk baiki benda yang sebelum ini kita tak nak terima hakikat ataupun kita rasa susah. So kalau ambil contoh, kan, kitalah sebagai manusia, keluarga kan, kalau kita tak cukup wang, kan, apa kita buat? Kerja. Okeylah, kita kerja tambah pendapatan lagi. Tak cukup juga? Cut spending. Cut spending. Cut spending tu macam mana? Mana yang tak perlu Yang membazir Kita buang lah Mana yang kita boleh hidup Dan mencukupi It's not our wants It's our need Kan Itu normal Tak perlu pergi ke Harvard Cambridge Untuk buat ekonomi pun kita tahu kan So Pesan, Dai. Saya ingat daripada 10 tahun yang lepas lah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang cerita lah. Cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, nama semua tu kan. Tapi... Masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik. Kita nak pastikan tidak ada rasuah. Kan? Sebab itu, kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, wang tinggi, kadang-kadang sampai ke peringkat, kita sembunyikan soal wang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai rasa kita kaya lah. Kalau kita terdesak sebab kita dah tahu wang ni kena pulangkan, defisit saya kena turunkan. Duit ada banyak ni je Tapi saya nak menang pilihan raya Dan saya nak Ada kesan Saya kena buat seribu satu benda ni How would you drive that ni? Kemudian anda memotong fan. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest. Now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir. Bayar cap loss. Bayar cap loss contohnya kan. Jadi pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ini mahal pusing balik semua pun ada kontrak sana kontrak sini ada untung bayar ahli politik sebab dia dah markup semua itu terpaksa dihadapi lah but so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase then kita jadi business as usual macam inilah
 
-[07:07] Akmal: Paling kuat Ultrasel lah YB.
+[1:07:00] Speaker 3: Saya hanya ingin bermain Deva's Advocate satu kali terakhir sebelum kita bergerak ke topik seterusnya. Tetapi One can argue Kita tengok agensi rating telah menilai kami dengan baik. Nombor ekonomi, gambar utama adalah cukup
 
-[07:09] Rafizi: Sebab bakar seluar. Dia bakar seluar kat tempat tu, tapi dan bila polis bertanya, dijawab sebegitu. Penuh konfidenlah.
+[1:07:15] Speaker 1: baik.
 
-[07:20] Akmal: Emm.
+[1:07:16] Speaker 3: Pembelian sedang masuk. How I mean I can say this lah I'm a politician And I think that We're doing okay So why do we need To cut the fat
 
-[07:21] Rafizi: Dia menang ke kalah?
+[1:07:28] Speaker 2: Sebab itu Dia kembali Kepada soal niat Kita nak jadi kerajaan Tadi Kan Hmm Err... Yalah, saya rasa... Kita ada standard yang berbeza-beza. Saya faham lah orang tak setuju dengan my standard. But don't blame me for wanting something much better. Kalau standard expectation kita, tugas kerajaan itu hanya menguruskan. Dan cukup-cukup lah kita okey lah. Nak kata rating kita kena upgrade pun tidak. Rating kita bertahan menokok sedikit sahaja. Is it good is better than previous one. Tapi kalau nak banding dengan previous one, mampu lah kita semua better lah. Tapi adakah dengan rating itu akan membolehkan kita memotong balik our peers, Vietnam, Singapore, kita jadi negara maju, kita letak di landasan yang baik untuk 20 tahun akan datang. Itu belum sampai lagi kan. Jadi sebab itu niat kita... Kita perlu tanya soalan ini, adakah yang kita ada ini kita berpuas hati? Ini yang masalah dengan bila politik ini very polarized. Sebab kepada penyokong PH kan, dia tak boleh sentuh langsung tau. Sebab dia takut kalah. Kenapa saya jadi sasaran utama kena maki oleh penyokong-penyokong PKR dan PH ni, keluar habis profesor tak profesor yang maki aku. Yang akan datang. Yang akan datang lepas ni. Ialah kerana dia takut dengan kritikan-kritikan Rafizi ni kalah PH nanti. Sebab dia dah macam de facto opposition. Dia macam dah de facto pembangkang. tercapai akal untuk timbulkan, dia duduk tunjukkan. Dan saya ingat mereka pun tahu, ini pun ceplos-ceplos ni pun nakal. Dia pun tahu, dulu-dulu masa kita duduk tumpu kritik kerajaan, zaman Najib dulu, jatuh tau Najib. Kan? Jadi, Bila dia dah jadi polarize dan dia jadi partisan sangat kan, dia tak fikir dah tentang kesannya kepada jangka panjang. Niat kita, kita nak kerajaan ini bukan saja baik tetapi jauh lebih baik daripada yang ada supaya hasil... 20-30 tahun jerit reformasi ni Hasilnya itu ada kesan yang cukup panjang Kepada generasi masa depan That's what I want Jadi kalau contohnya kerajaan Datuk Seri Anwar, Kementerian Keuangan, Kerajaan Kementerian Kerajaan yang ada ni kan dengan kritikan saya, dia mendengar dan dia menambah baik, then okey lah. Dia akan menang dan keadaan negara menjadi lebih baik kan. Tapi kebimbangan saya dia tak nampak ke arah itulah kan. Jadi sebab itu kita sementara bagus ada prestasi-prestasi yang disebut. Tapi dalam kajian dulu pun kita sebut juga bahawa dia ada perkara yang nampak kosmetik, dia ada perkara yang sebenarnya signal awal daripada pasaran, dia juga ada perkara yang mesti melibatkan perubahan struktur. Yang kita tak nampak lagi ni ialah perubahan struktur. Jadi bila tak ada perubahan struktur yang mendadak, yang ada kesan jangka panjang, rusak, benda itu tak tentu akan kekal lama. Dan kalau bertukar kerajaan, maka kita memberi modal dan juga alasan kepada kerajaan yang baru itu untuk mengatakan tak payah buat benda yang payah-payah macam ini semua. Tengok kerajaan madani dulu, buat-buat-buat, kalah pilihan raya. Dan keadaan makin buruk. Maka kita akan jadi populis 100% asalkan kita berada dalam kerajaan. That's what we want to avoid sekarang satu dua tahun ke arah pilihan raya akan datang. You know, whoever is the government, kan? sama ada PH ke BN ke PN ke selagi saya ada amanah untuk bersuara then I will I will say exactly the same thing mari Menteri Kewangan selepas ini katakanlah Razie Jidin Menteri Kewangan selepas ini kan dia buat macam ni samalah juga aku cakap benda yang samalah dalam parlimen di luar parlimen sebab tanggungjawab kita ialah bukan semata-mata kepada parti kita kumpulan kita once you sign up for this job if you are in my shoes my responsibility is to the public and I will be judged what I do in order to protect and safeguard public's interest in the long run. Bukan masa sekarang. Okey, baik WB. Sejam 10 minit. Oh, lama ni. Lama kita bincang. Dan bercakap tentang polarisasi pengundi tadi. Kita ke isu yang begitu jugalah. Di hidup keras, Dik. Yang pertama, isu accountability di BKL atau politik ketakutan ini. Kajian Peliharaan Raya Datuk Bandar. Dan saya rasa macam isu UEC, isu Peliharaan Raya Datuk Bandar ni pun agak 50-50 lah. Cuma mungkin dia ada... 50-50 maksudnya? Melayu PH ni nak score macam mana eh. Nanti susah juga. Macam itulah. Tapi tak ada pun sebarang data yang menunjukkan tak ada lagi kan. Dia pandai-pandai je kata 50-50. Okay dia bukan 50-50. Tapi dia ada dua kita boleh kata pendapat lah. Satu yang majority eh. Yang kata ini bagus, ini reform. Saya rasa Nik Nazmi pun cakap macam itu. Ada juga yang kedua. Ini mungkin daripada yang pro Melayu semua. Ini akan membuatkan ada kaum lain boleh menguasai pilihan raya bandar PBT ataupun pilihan raya Datuk Bandar KL. Mungkin kalau boleh tanya pandangan YB, macam mana YB tengok benda ini dengan kerangka yang lebih besar? Dia pertama sekali kita kena tanya soalan inilah kan sebagai... seorang rakyat Tolak tepi soal kamu Melayu ke Cina ke apa kan. Sebagai seorang rakyat, apa hak kita... dengan kerajaan tempatan. Kalau di Kuala Lumpur ni, kerajaan tempatan ialah DBKL lah kan. Apa hak kita? Kita bayar cukai kan. Kemudian, apa yang kita nak daripada kerajaan tempatan kita? Kita nak fasiliti bawah DBKL yang lebih baik. Okay. Maksudnya, kita nak apa yang kita nak, dia bertugas untuk kita lah. We are the boss. Kalau kita tak bayar gaji, dia tak ada pun diorang tu. Betul. Jadi secara normalnya lah kalau kita bond sebagai pembayar cukai, sebagai rakyat dan kita nak pastikan bahawa pengurusan, khidmat, perancangan itu adalah seperti kehendak kita sebagai rakyat, macam mana kita nak buat dah? Kita kena make dia... ...accountable dengan kita. Haa, iyalah. Berjawab dengan kita. Haa, jadi itulah konsep demokrasi. Haa. Konsepnya kalau kita tengok......dia ialah... Dia yang ada perubahan besar dalam dunia pasal demokrasi ni Ialah dari segi revolusi Amerika Syarikat lah War of Independence dengan US dulu kan Konsep dia sama je There's no taxation without representation Jadi ambil ini contoh di Amerika dalam 300 tahun yang lepas kan England banyak perang Jadi England pun kutip cukai daripada koloni, the 13th colonist dekat US kan. Tapi dia tak ada kuasa, dia tak ada suara pun. Itulah datanya konsep, there is no representation, there is no taxation without representation. Konsep itu adalah konsep universal. Tidak kisahlah kita Melayu ke China ke India, di Kuala Lumpur ke. Kalau contohnya... Kita kena bayar wang. Tapi kita tak ada suara, kita tak boleh ada pandangan, kita tak boleh mempengaruhi. Itu bukan namanya kerajaan atau demokrasi. Itu namanya kongsi gelap. Itu namanya, you know, wang ugutan, wang perahan kan. Jadi, I think we need to focus on that first kan. Jadi, kepada contohnya lah, dia akan ada banyak pandangan lah, terutamanya pandangan orang yang tak duduk di KL. Ya, orang yang tak duduk di KL. Dia akan kata macam-macam Habislah China ambillah Mereka Makin berani sekarang Tengok Hanayu Pakai kebaya Sangat berani Mereka semakin berani Mereka semakin berani Sekarang kan Yalah kamu duduk Kat Sik Kan You tak rasa Macam mana DKL ni Kadang-kadang Kita rasa Sebab tu contohnya lah Sebab tu saya buat counter bergerak Tiap-tiap dua minggu saya duduk kat situ Orang datang, dia cerita semua Sebab kalau jadi seorang penduduk Di kawasan bandar besar Macam KL Ataupun kawasan pandan Sebenarnya pandan tu KL lah Sebelah KL Pandan tu tak sampai 5km Daripada KLCC Memang KL lah akhirnya kan Hmm Dia rasa saya kena bayar cukai semua ni kan Tapi semua yang berlaku ni saya tak ada suara langsung Semuanya ditentukan oleh pegawai-pegawai kerajaan Siapa yang melantik pegawai kerajaan ni? Bukankah lebih baik kalau saya ada kuasa untuk melantik mereka terus supaya kalau saya tidak berpuas hati, maka saya boleh tukar. Kerana letihlah kita bayar tapi tiap-tiap hari, tiap-tiap bulan kita masih menghadapi masalah yang sama. Dan bila pengurusan kerajaan tempatan itu tidak bertanggungjawab kepada, tidak ada mandat daripada rakyat, maka dia bukan peduli pun dia nak takut apa, kau bukan boleh buat apa kat dia pun. Kalau kau turun naik, turun naik pun dia, kau siapa? isu manusia. Jadi saya tak rasa ada hujah yang waras yang boleh menolak kalau nak buat kajian. Biarlah buat kajian dahulu sebab memang betul ada perkara-perkara yang perlu ditangani sebelum keputusan itu dibuat. Tapi kalau bincang pun tak boleh. Kalau kajian pun dah jadi isu perkauman, isu negara, tak majulah negara kita. dengan rakyat Ada pilihan raya tapi pilihan raya itu banyak model, banyak cara dia kan. Jadi biarlah perkara itu dibuat terlebih dahulu. Kita tunggu kajian pilihan raya Datuk Bandar kalau dibuat. Dan nanti kita dah tengok nanti, kita tengoklah sama ada isu-isu atau kebimbangan-kebimbangan yang ada itu boleh ditangani dengan memperbaiki cadangan itu. So apa kebimbangannya? Farhan?
 
-[07:22] Akmal: Ha, seri.
+[1:19:12] Speaker 3: I think the loudest voice adalah daripada Perikatan Nasional dan UMNO lah. Tentang
 
-[07:23] Rafizi: Seri. So, kalau pun angle sudut yang beria, ialah lain kali kalau main bola, yang kat luar-luar ni tak penting sangatlah, seluar tak seluar. Aku dulu pernah coach hoki tau. Sekolah lah kan. Memanglah kalau you manage the team, kemudian pasukan kau kan, selalunya yang kat luar-luar tu lebihlah, lebih-lebihlah macam-macamlah. Macam saya dulu, kalau boleh semua you nak bagi budak-budak ni main perfect lah kan. Jersi pun kena jersi paling mahal, semua kan. Habis duit je. Tapi akhirnya, hebat ke tak hebat, menang kalah je kan. Ha, jadi dia orang seri, bukan kalah.
+[1:19:16] Speaker 2: perkawaman?
 
-[08:18] Haziq: Ikut Farhan serilah, sebab saya tak tengoklah.
+[1:19:17] Speaker 3: Tapi bagi saya lah, dia... Yelah, loudest voice tu dia sangat tu sebab apa? Dia kata, macam Takiuddin kata, terlalu simplistic idea of having mayoral election semua ni.
 
-[08:20] Rafizi: Seri ke kalah?
+[1:19:32] Speaker 2: So dia nak suruh buat apa supaya ada Murshidul Am dan juga Dato' Bandar di KL? Macam Pak. Sekarang pun ahli parlimen banyak daripada kaum Cina. Jadi itu secara simplistiknya kalau kita translate kepada PPPT atau Dato' Bandar, itulah keputusan yang sama. Apalah pula kawasan parlimen ditentukan mengikut kawasan parlimen, ahli parlimen kan? Dato' Bandar ni satu Kuala Lumpur.
 
-[08:21] Akmal: Seri.
+[1:19:56] Speaker 3: So that alludes to my... I wanted to post this question lah Sebab nampak lebih Yang mereka sengaja-sengaja Attack ni sebab Ia datang daripada menteri DAP
 
-[08:21] Rafizi: Seri, ha seri.
+[1:20:09] Speaker 2: Tentulah Tapi yang bercakap jauh lebih awal ialah Nick. Tapi memang betul lah masa Nik bercakap secara konsisten, Nik pun I think ada juga sediakan rang undang-undang persendirian semua tu. Tak jadi isu pun. Tapi bila Hanayu, Dato' Bandar, Menteri Wilayah yang daripada DAP, dia jadi isu perkawaman lah.
 
-[08:26] Haziq: Tak pernah tengok bola pulak.
+[1:20:35] Speaker 3: Dan study yang dikomision kepada UIAF ni adalah sebenarnya daripada masa Menteri Wilayah yang sebelum ni which is Dr. Zaliha
 
-[08:27] Rafizi: Tak tahu.
+[1:20:44] Speaker 2: lah. Saya faham. Tapi ini nasihat kepada PAS lah eh. Kalau saya jadi PAS, saya sebenarnya sokong gila-gila. Kenapa? Kelantan boleh buat semua. Itu satulah. Lepas ni, apa nama ni, pandan dia tak jadi pandan, dia jadi pandai. Syah Alam dah jadi pandai. Mana ada pandam? Pandailah.
 
-[08:29] Akmal: Okay.
+[1:21:09] Speaker 3: Kalau Tengah Nu, pandang.
 
-[08:31] Rafizi: So malam ni, habislah undi aku dengan Ultrasel. Tapi mungkin ada cara lain yang boleh beria yang lebih baik, tanpa melibatkan polislah kot. Okay.
+[1:21:11] Speaker 2: Pandang, pandang, pandang. Sebenarnya, kalau saya jadi PAS dalam Perikatan Nasional, terutama kalau saya jadi PAS, saya sokong betul-betul. yang di depan mata kita ni tengok 20-30 tahun akan datang fikir panjang lah kerana pola populasi di wilayah ni dah berubah kan mungkin ramai kalau yang orang Kuala Lumpur orang yang duduk Selangor ni dia tahulah hakikat ini Tapi mungkinlah yang tak duduk di sini, mungkin dia ingat ni zaman Yap Ahloy kot. Mana ada dah kan. Majoriti penduduk di wilayah ni Melayu sebenarnya. Dan kalau nak tengok kawasan-kawasan penduduk di wilayah... sebenarnya yang paling padat adalah kawasan Melayu. Kawasan China, dia tak padat macam kawasan Melayu kan. Dia rumah sepijik-sepijik dan kemudian pula, keluarga China makin mengecil. Dia anak seorang dua orang je, Melayu anak ramai kan. Jadi tambah lagi pula dengan migrasi orang Melayu, terutamanya daripada pantai timur, Kedah semua. Dia duduk kat sini lama-lama, dia jadi orang KL lah. Jadi sekarang ni, kalau kita tengok kan, jumlah penduduk Bumi Putra dan Melayu dan Cina ni dia dah berubah dengan mendadak daripada 20 tahun yang lepas. What's the numbers you have? Kalau dari segi peratusan lah. Kalau 1990 tu, Melayu 41%, Cina 46.1%. So maksudnya 1990, bukan Melayu masih lagi majority di Melayu. Dan 2000 dia sengit, Melayu 40.4%, Cina 40.7%. 2000 dalam tempoh setahun Dia dah jadi sama banyak 10 tahun beza 10 tahun setiap 10 tahun kan Tambah pula 2010 Melayu 42.1% Cina 39.2% So bermula 2010 Sebenarnya orang Melayu dah makin ramai Dan the latest figure yang kita ada Yang terakhir
 
-[08:45] Akmal: Baik. Okay, kita tengok next. Kita ada Kelantan pulak.
+[1:23:28] Speaker 3: Melayu 47.8% Sebab 48% Cina 40.5% India 98%
 
-[08:52] Rafizi: Ini Kelantan tangkap Kelantan ni yang duduk keluar dekat TikTok, dekat sosial semua ni, dia pasal apa?
+[1:23:36] Speaker 2: 9 9 So
 
-[08:59] Akmal: Ah, itu pasal lain. Itu...
+[1:23:36] Speaker 3: India
 
-[09:00] Rafizi: Oh, ini bukan Kelantan tangkap Kelantan yang ini?
+[1:23:38] Speaker 2: about 10% About 10% So dia akan kata Oh tapi Melayu masih lagi kekurangan 1-2% lah Berbanding Combine China dan India
 
-[09:02] Akmal: Ini konteks tu digunakan kat sinilah. Tapi konteks yang itu, the start dengan benda yang totally different things lah.
+[1:23:48] Speaker 3: Dalam 8%
 
-[09:08] Rafizi: Oh, dia tak ada kena-mengena dengan konsert ni lah?
+[1:23:49] Speaker 2: bisnes. Ya tapi at that rate lah. At that rate kan. Setiap 10 tahun. Maksudnya dalam tempoh 10 tahun. Dan kita tahu bahawa population growth tu. China paling perlahan. Kemudian India. Melayu paling tinggi lah kan. Sebenarnya dalam tempoh 10 tahun. Soal yang dibangkitkan. Takut Hanayuh jadi Datuk Bandar KL ke. Takut Uncle Kentang ke. China. Tak ada. Dah tak berbangkit. Sebab Melayu adalah majority. Kuala Lumpur. Jadi memang tidak ada pilihan besar kemungkinannya ialah Hanya calon Datuk Bandar yang Melayu lah yang menangnya. Jadi sebab itu saya rasa kita kena tumpu kepada persoalan yang lebih besar. Sampai bila kita tidak ada suara yang terus kepada DBKL. Dia jadi bola pimpong ahli politik di Putrajaya. Dan oleh kerana DBKL ini lubuk duit tau DBKL ni bajet dia 3-4 kali ganda negeri lain Bajet DBKL lebih kurang 6-7 bilion setahun Bajet apa nama ni terenu 1.6 bilion tu Bajet Selangor 2 bilion lebih 3 bilion tu Tak sampai 3 bilion
 
-[09:10] Akmal: Tak ada. Yang itu yang student UiTM buat hebahan tu kan. Insentif tangkap orang Kelantan.
+[1:25:10] Speaker 3: Bajet tu mainly for OPEX ataupun for...
 
-[09:18] Rafizi: Sebab?
+[1:25:14] Speaker 2: Semualah OPEX and DE lah. Maksudnya hasil dia pun tinggi. Sebab hasil tanah dia, hasil cukai dia. Yelah bisnes semua ada kat sini kan. Jadi bajet dia tinggi tau. RM5-6 bilion. Saya rasa bajet DBKL ni ialah yang kedua selepas Sarawak. Sarawak
 
-[09:18] Akmal: Sebab kat Kelantan lah. Kalau pure Kelantan berapa? RM100.
+[1:25:39] Speaker 3: besar
 
-[09:22] Rafizi: Ha?
+[1:25:40] Speaker 2: Sarawak ialah dia tinggi Kemudian I think DBKL lebih tinggi daripada Sabah Sabah kan 3-4 bilion Macam tu lah 4 bilion lebih lah DBKL I think 5-6 bilion Jadi sebab tu dia jadi sensitif Dia jadi lubuk lah Kerana disinilah tanah yang paling mahal Disinilah projek yang paling mahal Disinilah hasil yang paling tinggi tidak ada suara langsung, dia bergantung kepada kerajaan persekutuan. Bayangkan keadaannya, kerajaan persekutuan itu ialah kerajaan PAS. Katakanlah, hypothetically kerajaan PAS kan. Dia pun lantik contohnya, ahli parlimen Pasir Masih, si Fadli. Fadli Syahri. Fadli Syahri, jadi menteri wilayah. Mampui kita. Dia pun tak pernah duduk kat sini, apa semua, dia bukan tahu apa. tiba-tiba dia nak tentukan dekat sini. Tak bolehlah. Sepertimana contohnya kalau kita kata kepada orang Kelantan, orang Teranu, kita kata tak apa ya. Kamu jangan pilih menteri besar kamu. Kami akan tentukan daripada Putrajaya kita pergi letak Hanayuh jadi menteri besar Teranu.
 
-[09:22] Akmal: Kalau half Kelantan RM50. Macam tu lah.
+[1:26:58] Speaker 3: Tak
 
-[09:25] Rafizi: Pergilah kat Shah Alam, kat Klang tu. Habis semua. Tak sampai dua jam, habislah hadiah tu.
+[1:26:58] Speaker 2: keteruk
 
-[09:36] Akmal: Sebab itu yang dia uji dialek tu. "Cuba cakap klinik." Clenek, ha kantoi.
+[1:26:59] Speaker 3: kan. Atas MPN, Anwar Musa dengan Syed dan Kasim.
 
-[09:42] Rafizi: Clenek, clenek. Oh, video tu? Ya ya ya. Producer tak tahu, aku pun tak tahu Kelantan tangkap Kelantan. Ingatkan...
+[1:27:02] Speaker 2: Haa ya lah. Atas MPN, Anwar Musa, Syed dan Kasim, orang Kelantan, orang Perlis. sampai masanya, biarlah penduduk di sini memilih sendiri supaya Datuk Bandar itu Dia bertanggungjawab terus kepada orang-orang Kuala Lumpur dan orang wilayah lah. Dan barulah fokusnya itu ialah untuk memenuhi keperluan rakyat. Bukannya memenuhi angin politik parti yang ada kat Putrajaya semua ni kan. Tambah lagi apa nak bimbang dalam keadaan pertumbuhan populasi yang memang memihak kepada Melayu pun. Sebab itu nasihat saya kepada PN. PAS lah PN ni kan. nak on ni pergi menonton, pergilah cakap kat dia orang kan. Lagipun zaman dululah saya ingat zaman-zaman 2004, 2008 kan. Pas lah yang gigih meminta supaya apa nama ni lepas 2008 lah. Lepas 2008 kan bila Pakatan Rakyat lepas itu menang kan. Pas juga yang gigih minta supaya pengundi-pengundi dia daripada Kelantan sebenarnya tukar mengundi kat sini. lah mengundi kat wilayah semua. Dapatlah Fadli Syahari jadi menteri, apa jadi Dato' Bandar KL. Apa yang payahnya pun. Jadi you know, jangan pisah, jangan campur adukkan soal campur tolak. politik, kepentingan politik dengan apa yang diperlukan oleh rakyat. Jadi yang rakyat perlukan ialah satu kerajaan tempatan yang betul-betul bertanggungjawab kepada mereka. Tak bagus, tukar. Tak bagus, tukar. Lagipun kita dah melalui proses sejak 10 tahun yang lepas, mana yang kita rasa tak bagus, kita tendanglah. Lama-lama orang politik memenuhi kehendak rakyat lah. Malu kita dengan New York. Haa orang kita pun satu Orang PAS ke orang Melayu ni Dia juga yang duduk sibuk Wah bagusnya orang Islam Zohar Rahman Dhani Macam di Datuk Bandar New York kan Orang New York pun Zohar Rahman Dhani takkan menang Kalau orang-orang Yahudi tak sokong dia Dekat New York kan Semua sokong dia Ahmad Zalih pun sokong dia Yahudi pun sokong dia Orang Asia pun sokong dia kan Sebab di mana-mana kan Kemudian ambil contoh London Sadiq Khan Lama mana dah sadikan kan? Sebabnya ialah akhirnya kalau ambil contoh London dan New York kan itu lagi lawak. Logik yang Taki Yudin yang PAS pakai ni langsung tak boleh pakai. Sebab logik dia ialah kerana China dan India majoriti di wilayah maka mereka akan pilih orang dia. How do you explain Zoram Hamdani di New York dan juga apa namanya sadikan di London? Dua-dua tu daripada minority tau. Dua-dua bukannya kumpulan majoriti pun. Jadi sebab mereka tahu bahawa Kalau mereka pilih seorang Datuk Bandar ini, dia mesti berkhidmat kepada kita. Dia tak boleh nak pakai topi dia, aku orang Iran, aku tolong orang Iran saja. Tak bolehnya. Sadiq Khan nak kata saya orang Pakistan, British born, Pakistani origin, tak boleh. Dia kena jaga semua. Jadi sebab itu dia tak bimbanglah Sadiq Khan ke Zohra Mamdani ke. Tambah lagi keadaan kita yang memang majoritinya pun orang Melayu nanti. Wabi, realistically berapa lama sebenarnya boleh kita dilaksanakan benda ni kat Malaysia? Bergantung kepada Datuk Seri Anwar Ibrahim Sementara tapi Tapi
 
-[09:50] Akmal: Ingatkan Bangsar YB.
+[1:30:51] Speaker 3: benda ni dah dicakap Daripada 2018 tak silap
 
-[09:51] Rafizi: Oh, ingatkan Kelantan, dia lagi teruk hidup, lagi hebat daripada Bangsar. Tak boleh sebutlah kan. Tak, Kelantan tangkap Kelantan ni ingatkan ini promosi mula daripada dia untuk promosikan konsert dia. Tak adalsh, tak ada kena-mengena. So siapa yang beria ni?
+[1:30:54] Speaker 2: Saya tak rasa dia akan ke mana I think dengan kerajaan Mandani yang ada ni saya tak rasa Dia akan ke mana Dia akan jadi macam URA Urban Redevelopment Act Sebab UMNO ni Dia sangat sensitif Kepada bising-bising yang PAS buat. Dia macam kalau PAS nampak garang kat situ, dia takut. Jadi mana-mana isu. Jadi dia bagi senjata kepada PAS lah walaupun benda itu baik kan. PAS hanya perlu buat bising ke apa. Jadi UMNO akan takut akan kehilangan undi Melayu. Jadi saya tak rasa Dato' Sri Anwar akan buat apa-apa keputusan lah. Jadi yang ini pun agak berbahaya juga kepada DAP. Kepada Hanayu Kepada DAP Kerana saya rasa Ini adalah perjudian politik yang mereka buat mereka nak masuk pilihan raya akan datang nak menunjukkan bahawa mereka telah cuba melaksanakan manifesto ataupun janji ataupun reform yang memberi kuasa kepada rakyat yang ini yang mereka janji daripada dulu kan Erm... Mereka mungkin rasa Bahawa Kami dah cuba Kami dah buat Tapi You know Kerajaan ini bukan kerajaan Pakatan Maka ada orang tak setuju Semua kan Pengundi mungkin juga akan kata That's why we think you are useless Hmm Sebab kita tahu, you bukan push sangat pun. You hanya cakap saja. Kalau tak jadi, nanti orang kata, then super tak payah cakap bising-bising, bising-bising, betul tak jadi kan. So, I think risiko-risiko itu adalah. Tapi saya tak nampaklah dalam tempoh berbaki satu tahun setengah ini, kerajaan yang ada ini akan ambil risiko yang dikira besar, risiko politik yang besar. Okay, baik-baik. Kita ada tetamu yang dah menunggu lama. Oh, ya? Haa. Buat comeback. Lepas kali kau jemput dia. Jemput lagi. Berani tangkap tapi gagal cegah. YB pun dah buat video lah. Cuma kalau saya boleh tengok lah dari segi macam mana YB olah semua. Saya tengok industri pejegah rasuah ni pun dia ada front end dan back end. Industri? Oh. Front end, back end lah. Bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri pencegahan rasuah? Industri? Okey lah. Saya ambil macam semi-conductor lah. Dia ada front end, back end. Sama langsung. Sebab. Nasib baik aku bukan lecturer kau dulu. Aku dah fail kan kau. Industri. Fokus Tan Sri Azam Baki dalam podcast dia berdegar-degar adalah dari segi back end. Tapi mungkin kita tak. Back end maksudnya? Back end maksudnya kita tangkap orang. dah siap dah perasua tu dah dah siap itu pun back end front end tu pun tak kena tak kena
 
-[10:11] Akmal: Yang ini cuma dia buat konsert dekat Kelantan tu kan.
+[1:34:03] Speaker 3: mungkin Aziz baca paper semi-con banyak
 
-[10:14] Rafizi: Cuma dia buat konsert? Cuma dia buat konsert dekat Kelantan dan apa ni, tak ada pengasingan antara mahram, lelaki perempuan bercampur, jadi pihak berkuasa tangkaplah. So itulah datangnya Kelantan tangkap Kelantan.
+[1:34:06] Speaker 2: selalu mentang-mentang lah sekarang ni baca pasal semi-conductor kan so you mean sebenarnya dia bukanlah nak kata back end or front end dia sebenarnya maksudnya yang ditumpukan sekarang ini ialah Aftermath. Haa, aftermath dengan before. Ataupun kalau sakit lah kan, between the root cause. Ataupun, iyalah prevention dan cure lah. Then you spend more time on cure, menangkap ini adalah cure lah. Yes, yes, yes. Adakah itu pergabaran dia? Haa, betul lah. Bukan back end, front end. Okay, prevention cure lah. Prevention cure. Betul lah, cegah lah. Pandai-pandai kau pergi tukar. So, you were saying... Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kita banyak lagi benda-benda yang kita kena fokuskan. Tata kelola, procurement dan sebagainya. Ini bagaimana pula? Yelah kita kena terus bersuara lah Kan Hmm Sebab itu kebimbangan saya Dan saya dapat Angka terbaru setiap bulan Okey Angka Januari menunjukkan bahawa kebimbangan ataupun ketidakpuasan hati mengenai rasuah telah menjadi isu nombor satu di negara ini di kalangan pengundi mengatasi masalah ekonomi pun. So back to square one. Back to square one. Kita kan back to square one. Jadi dan tindak balas daripada kerajaan. Saya tak tahulah apa yang mereka bincangkan. Tindak balas daripada kerajaan ialah kita tangkap lagi ramai orang. Kita tangkap lagi ramai orang. Kita tunjukkan Tan Sri Azam Baki ini layak untuk disambung satu tahun lagi boleh berani ditangkap semua orang kan? Tapi angka itu tak berganjak malah menjadi lebih teruk tau dari satu bulan ke satu bulan. Dan hipotesis saya lah ialah kerana rakyat ni tak bodoh. Sebab itu saya timbulkan soalan yang saya tanya tentang saringan tapisan dan juga kelulusan SPRM itu kerana kita ada berjuta penjawat awam yang dalam polis ke tentera ke pegawai kerajaan ke malah untuk jawatan-jawatan board kan JLC semua ini semua ditapis oleh SPRM. Apa yang tidak disebut selama ini sebab itu berlaku sinisizem. Sebab itu rakyat kita ni dia cynical tau. Bila jadi-jadi tangkap sana sini semua. Sebab dia tahu engkau juga yang lantik. Engkau juga yang tapis, dia tahu prosesnya ialah sebelum seseorang itu dilantik, harta untuk naik pangkat biasa pun jawatan biasa kat bawah, petah lagi untuk jawatan seperti Panglima, Kantar Tentera ke Ketua Pengarah sana sini kan. Dia tahu sebenarnya ada berlaku proses tapisan dan perlu mendapat tapisan dan kelulusan daripada SPRM. Jadi apa yang kamu tapisnya? buat konten, sebahagian daripadanya ialah untuk menyampaikan maklumat itu. Sebahagiannya ialah saya nak tengok reaksi dan reaksi yang datang itu sebenarnya kita boleh tengok sebenarnya jenis orang macam mana sama ada dia ni Cepelos ke, Walaun ke, Walanon ke, Walajib ke. Banyak yang komen itu ialah daripada orang biasa sebab dia pun ceku, dia pun pegawai biasa. Sebab Semua ni ala cukup syarat sajalah. Dia luluskan itu sebenarnya. Kalau geng-geng dia, dia lulus. Ataupun dia buat tak tahu saja kan. Jadi itu hanya untuk mencukupkan syarat saja. Dia satu kerugian kepada negara lah kerana ya. Kenapa? Yang ini pun kena berhati-hati tau kan. Yang ini mungkin banyaklah yang serang saya, Chaplos lah kan. Yang kata, apalah Rafizi ni, orang tangkap perasuah pun dia tak puas hati. That's not the case. Saya sebut bahawa... Kalau kita betul-betul serius untuk memerangi rasuah, maka kita kena menangani punca-punca dan faktor-faktor yang membolehkan rasuah itu berleluasa kerana lebih baik kita tak ada rasuah langsung. daripada kita sibuk tunjuk orang kita banyak rasuah tapi kita ada ketua pesuruh jaya SPRM yang cukup berani we don't need superman we don't want rasuah yang berlaku sekarang ialah we have a superman we have a Perdana Menteri yang menjerit apa nama ni sakau lawan kita ada ketua pesuruh jaya yang pergi tangkap semua orang kan Untuk tempoh yang pendek bolehlah tapi adakah itu akan menyelesaikan masalah rasuah di negara kita? Kalau tengok kepada dapatan-dapatan nampaknya rakyat sinikal lah. Sebab rakyat tahu punca-punca yang menyebabkan rasuah itu nampaknya masih belum ditangani dengan baik. Jadi soalan yang kita perlu tanya ialah... Apa punci-punci dia? Dia tak tapis betul-betul. Kita sebab kita tak pernah ambil rasuah kot. Jadi kita tak tahu. Kau tengok aku, aku tengok kau. Jadi sebenarnya. Tapi dia ada banyak sahaja kajian dan pandangan yang mengenai. Dan bila kita buat benchmarking di Malaysia berbanding dengan negara-negara lain kan. Kita tahulah. Apa contoh-contoh punca-punca yang menyebabkan senang berlaku rasuah di negara ini. Duh...
 
-[10:29] Rafizi: Tapi yang mana yang beria? Konsert, memang macam tu lah kot?
+[1:40:27] Speaker 3: Saya tak tahu. Direct what? Cannot think. Direct what?
 
-[10:33] Akmal: Yelah, dia buat kat Kelantan lah.
+[1:40:30] Speaker 2: Cannot think. Ha. Ha.
 
-[10:35] Rafizi: So sebab dia beria buat di Kelantan? Dia bukan orang Kelantan?
+[1:40:32] Speaker 3: I mean like in the Malaysian context
 
-[10:40] Akmal: Makar Fest.
+[1:40:34] Speaker 2: Hmm Well first kita kena tengok Proses dan sistem lah kan Dia ok Kita ambil contoh lah hardware, software kan. Katakanlah kita menguruskan satu syarikat. Kita kena ada hardware, kita kena ada software. And kita kena ada the culture that operationalize and bring together software dan hardware. Tadi kan hardware ni ialah... Ketua Pusul Jaya SPRM lah Dia hardware dia Dia pergi tangkap Begini-gini kan Software dia apa dia dalam kerajaan kita? Sistem duit sef. Sistem tu maksudnya the rules kan lah. Apa rules dia? Satu contohnya ialah perolehan. Sistem perolehan itu kita semua tahulah. Sistem tu kena game. SPRM ataupun Datuk Sri Anwar kata, kita akan cegah katel. Dan cara mencegah katel ialah bila kita berjaya menangkap 20 syarikat yang di dalam satu katel. Orang yang sama mengawal 20 syarikat Dia dah ada semua kaki dia kat mana ni Pegawai sana, pegawai sini Daripada meletakkan spek Perolehan lagi pun Dia dah tahu dah berapa costing Berapa yang dia nak bid Jadi dia susun 20 syarikat Syarikat A ni yang dia nak menang kan Katakanlah 10 juta Yang lain tu dia ubah Yang ni dia letak 7 juta Itu dia letak 20 juta Semua Jadi lalalah pusing Kau mana pun dapat kat dia juga Kita semua tahu benda tu berlaku kan Hmm Jadi, kali pertama tangkap katel. Kali kedua, kali ketigalah. Orang kata, super tak payah. Sebab orang tahu, what you need to do is to fix the loophole. Hmm. How is it that sistem yang boleh kena game ini masih lagi berterusan? Sebab itu yang perlu ditanya. Masalahnya ini semua soalan-soalan yang sensitif. Kerana perolehan ini semua di bawah Menteri Kewangan, Dato' Sri Anwar Ibrahim. Sebab itu kalau tanya pegawai awam, jangan terkejut. Pegawai awam rasa macam, ya Dato' Sri Anwar, kita tahulah you nak lawan rasuah, tata kelola, tata kelola. Tapi Menteri Kewangannya you... Yang jaga perolehannya you. Mana yang perubahan perolehannya? Kalau kita tahu sistemnya itu menyebabkan boleh ada sindiket, melembabkan boleh ada rasuah, kita tahu dia dah boleh game daripada set, the word go, get go dia dah boleh game. Dan apa yang kita perlu buat untuk kita menukar sistem itu, proses SOP satu per satu supaya... risiko rasuah itu makin berkurangan Dan di mana-mana pun, caranya ialah, benda ni bukan roket sains, caranya ialah dia panggil devolution of power. Jangan tumpukan kuasa yang bersabit dengan perolehan ini di tangan-tangan tertentu. Itu satu, devolution of power. Kedua, ialah to make it as transparent as possible. Bila benda itu telus, jadi tak boleh nak corner lah. Kan? Jadi sebab itu, yang kita belum dengar banyak lagi, belum lagi nampak, ialah apakah langkah-langkah yang bersifat structural yang diambil dan SOP kita dalam semua perkara untuk memastikan dia lebih telus, untuk memastikan kita tak perlu kaki di dalam. Contohnya kan Sebab tu saya Saya sampai kesudah tak berjaya lah Contohnya kalau ikut aku Aku umum dan senarikan je semua projek yang diluluskan Semua Supaya dia macam main saham kan? Insider trading, konsep insider trading. Kenapa insider trading itu ialah salah di sisi undang-undang?
 
-[10:41] Rafizi: Makar Fest?
+[1:44:34] Speaker 3: Privileged information.
 
-[10:42] Akmal: I think dia dia banyak buat kat tempat-tempat lain.
+[1:44:35] Speaker 2: Yalah, insider trading nama privileged information lah. But why? Sebab dia Unfair competition Unfair competition Bila unfair competition, ada orang yang dapat maklumat lebih awal daripada maklumat dalaman, maka dia boleh buat keputusan yang lebih baik, yang lebih favorable kat dia berbanding orang lain. Jadi untuk mendapatkan maklumat tu dia buat apa? Rasuah. Jadi cara dia ialah kalau hardware itu kita tak sentuh lah. Itu SPRM sebenarnya. Sekarang kita bercakap tentang software kan. Tadi ada banyak benda yang perlu ditukar mengenai software itu dan ia mestilah bergerak ke arah memastikan level playing field and the way to do it is to remove as much power from 3-4 orang kepada melalui yang tak boleh nak kona semua tu dan juga to make sure at least it's as transparent as possible supaya semua orang ada access kepada level playing field. Kan, jadi benda ni itu konsep dia lah. How it is being translated into one dari segi tata kelola perolehan, dari segi contohnya kan, dari segi projek-projek yang berbentuk konsesi ni. Mana ada ketelusan langsung. Kalau saya ada lubang ataupun bayi, saya boleh buat, saya nak bina jambatan terbang ke Kuala Kangsor. Saya pun bawa, saya pergi jumpa, approach, benda tu tiba-tiba akan dipertimbangkan oleh unit kerjasama awam swasta di bawah Perdana Menteri. Pumpang-pumpang diunding, kita semua tak tahu apa. Tiba-tiba, kerajaan telah membuat keputusan gini-gini. Saya dalam kerajaan pun dulu mana ada, sedar-sedar dah datang kepada kabinet. Masa itu, gini-gini. So, Benda-benda macam ini The more you remove The veil The more you remove Tirai-tirai Tabir-tabir ni Lebih telus it is Maka Tak perlulah Untuk simpan kaki Dekat kementerian-kementerian Dekat bahagian perolehan Tak perlu simpan Siapa-siapalah Sebab semua orang Boleh ada level playing field Yang itu Dari segi hardwarenya Kita belum Belum nampak lagi lah Saya belum yakin Dan tak nampak sangat lah Perubahan besar kan Tapi kalau hardware-nya bagus, kalau software-nya bagus... Ada satu lagi komponen yang cukup penting yang kalau tak ada yang itu pun risiko rasuah akan tinggi. Which is culture. Kulture itu ialah mengikut teladan. Dan yang ini yang saya rasa cabaran utama yang Dato' Sri Anwar ada untuk meyakinkan rakyat bahawa dialah pemimpin yang terbaik yang kita boleh beri amanah itu untuk membersihkan Malaysia daripada rasuah is because... Sehingga sekarang lah saya rasa at this point kan, rakyat tak yakin bahawa budaya kepimpinan kerajaan dan politik itu bertukar. Sebab itu pandangan rakyat ialah sama je dia orang ni. Macam itulah. Masuklah siapa pun macam itulah. Macam saya selalu sebutlah. Kalau Pans, orang yang bawa beg tu dia akan pakai kopiah. Orang yang sama. Kalau PKR, dia pakai suit tapi tak ada tie. Tapi orang yang sama lah. Kepit-kepit. Eh, kepit-kepit. Kalau contohnya UMNO, dia buat dengan cigar dia, dengan kafe yang mahal ke apa, dengan tie dia semua kan. Jadi rakyat memang rasa masuk macam mana pun macam itulah dia orang. Sebabnya ialah mereka tak nampak ada perubahan dari segi budaya kepimpinan peringkat kerajaan. So macam mana nak ubah budaya kepimpinan? Start dengan kita. Start dengan kita betul. Precisely. Dia mesti start daripada atas. Sebab itu kalau orang chaplor yang duk marah aku sangat ni. Kenapalah you hentam sangat Anwar Ibrahim? Kenapalah you marah sangat ke Anwar Ibrahim? Tak ada. I'm giving him advice. Kau ingat masa aku dalam parti dulu, aku tak bagi nasihat yang macam ni? Macam ni lah aku bagi nasihatnya. Sebab tu dia tak suka lama-lama. Sebab tu saya ingat dulu masa pemilihan 2022. Datuk Seri Anwar berkempen untuk Saifuddin kan. Dia pergi tunjuk kat orang, tengok ni. Dia ni kasar dengan saya ni. Nasir, kalau dia tegur saya ni kasar, tak hormat saya. Itu yang dia cakap tadi. Ya. Itulah yang dia cakap kat orang. Dia pergi tunjuk kat seorang-seorang ni. Ya.
 
-[10:44] Rafizi: Kejap, kejap, kita confuse.
+[1:49:20] Speaker ?: Kan?
 
-[10:46] Akmal: Cuma saya rasa yang berianya adalah mereka yang...
+[1:49:21] Speaker 2: Orang tunjukkan aku balik lah kan? Memang betul lah saya. Saya tegur memang minta maaf lah. How else you want me to say it? Kan budaya kita ni, mesej tak sampai kan? Jadi, saya menegur ni kerana kita nak dia berubah dan menjadi lebih baik kerana dalam aspek melawan rasuah dan memerangi rasuah, dia mesti bermula daripada orang nombor satu di negara kita. Itu Perdana Menteri Dan macam mana yang ada sekarang ini Bagi pandangan saya Melunturkan keyakinan Ataupun perkara-perkara yang menyebabkan Rakyat rasa Walaupun di bawah Dato' Sri Anwar Ibrahim Budaya kepimpinan itu tidak berubah Contohnya Bila ada orang macam Farash? Kan dia kata, hmm sama je lah. Cakaplah Datuk Seri Anwar, cakaplah macam mana. Tak ada kena-mengasai sebenarnya. Orang tahulah, orang tengok sana macam mana budak ni dalam tempoh 2-3 tahun jadi macam ini, kontrak sana, kontrak sini. You cakaplah, ini semua dimenangi secara tanda terbuka. Orang kata, ya lah Menteri Kewangan tu ialah Anwar Ibrahim. Jadi akhirnya, so Iman start berkata, dia sama juga dengan Tan Sri Azam Baki. Orang akan kata macam mana kau Anwar dulu tahun 2022 kau juga pergi demo depan parlimen. Suruh tukar kan. Sebab Tan Sri Azam Baki masa itu ada kes yang didakwa sepatutnya telah melanggar peraturan kerana dia didakwa terlibat ada pegangan saham semua. Aku masa itu tak ada dalam politik pun. Aku tak ambil pot pun. Aku tengah berlari naik basikal kan masa itu. Yang susah payah demo ni ialah Anwar Ibrahim. Tiga tahun kemudian, you kata, ah, dialah orang yang paling sesuai. Dialah orang yang berani. Jadi, what do you expect the public rasa? Public akan kata, hmm, sama budayanya tidak berubah asalkan dia ikut aku, dia okey. Kalau dia lawan aku, dia tak okey. Itu yang maksudnya. Budaya, once you don't... Kalau kita dah hilang keyakinan orang, kerana mesej kita ialah budaya itu sama macam dulu, you letaklah ketua pusur rujaya hebat macam mana pun. You letaklah tata kelola SOP hebat macam mana pun. rakyat akan tetap senikal dan itu adalah cabaran yang paling besar kepada kerajaan yang ada sekarang saya tak kisahlah dia orang punya cerita tu dia orang punya cerita lah tapi malang lah kerana kita ni berjuang dan berkempen berpuluh tahun untuk lawan rasuah. We have this one chance to get it right, maksudnya to get the hardware right, to get the software right and most importantly to fix the culture dalam kerajaan, dalam politik, dalam masyarakat kita. I don't think kita akan berjaya laksanakanlah menjelang dalam pilihan raya yang akan datang.
 
-[10:49] Rafizi: Yang pergi pulak?
+[1:52:23] Speaker 3: Kalau tiba-tiba Dato' Sri Anwar pecat Zambaki dan Fahash dibawa ke Matamak, rasa boleh menang? Rasa
 
-[10:50] Akmal: Bukan, yang menangkap.
+[1:52:33] Speaker 2: boleh menang. I think kalau contohnya dia ambil tindakan yang drastik macam itu Dia betul-betul serang Saya mendengar I hear you Rakyat semua Dan kita betul-betul serious Dan tindakan-tindakan seperti itu dibuat Then saya rasa Rakyat yang sebelum ini sinikal Kata dia mungkin I will give him another chance Jadi of course we have to see macam mana penama ni angka sokongan. Tapi saya dah ulang berkali-kali daripada tahun 2023 kepada sekarang ni dah masuk 2026 sinisizm rakyat mengenai slogan banteras rasuah ni memang naik mendadak lah. Jadi pandangan rakyat mengenai usaha dan juga keikhlasan dan keberkesanan kerajaan mandani Dia sebenarnya Going south Bukannya going north kan. Jadi itu terpulang kepada Dato' Sri Anwar lah. Tapi pandangan saya in absence of everything else. Dan kalau puncanya itu kita tahu you can fix the hardware. You need to fix the software. But most importantly you need to demonstrate the right cultural leadership.
 
-[10:52] Rafizi: Oh, yang menangkap?
+[1:53:50] Speaker 1: Then
 
-[10:53] Haziq: Yelah, pandangan budak...
+[1:53:52] Speaker 2: if you do each one. Dan saya ingat rakyat akan bagi pandangan yang berbeza lah. Okey, baik Wabi. Satu jam lima puluh minit. Ya, ya, ya. Terima kasih Tan Sri boleh ke podcast yang lain.
 
-[10:55] Rafizi: Pandangan budak...
+[1:54:08] Speaker 3: Dia dah buat podcast sendiri.
 
-[10:58] Haziq: Budak Bangsar.
+[1:54:10] Speaker 2: Dia nak buat you ke? Dia dah buat podcast sendiri. Ada orang tanya, ada pegawai-pegawai kerajaan. Pegawai kerajaan kita ni pun nakal juga. Janganlah sibuk kacau bekas menteri. Pergilah kacau menteri-menteri lain. Dia ada-adalah, dia yang duk tanya. Dia kata... Eh, ini sebenarnya bukan kemelanggar peraturan. Kerana penjawat awam tak boleh buat, keluarkan kenyataan media secara terbuka. Itu kerja menteri. Menteri yang boleh bercakap secara terbuka semua ni lah. Pegawai awam, penjawat awam ni KSU ke ketua pengarah ke, dia tak boleh, dia terikat. Dia hanya boleh keluar kenyataan semualah. Tapi tak apa, dia Superman. Unit Integrity SPRM akan tengok. Soalan YB di parlimen. Kalau saya boleh tunjuk soalan dulu lah kot kan. Sekolah lagi mahal dari rumah teres Dan ini menyebabkan... Itu cuba tengok. Pergi balik. Cuba tengok soalan saya. Soalan saya itu, terperinci itu kan, menyatakan perincian matrik kos sebuah bilik darjah mengikut komponen kos jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025. dari tahun diluluskan hingga diduduki dan jumlah sekolah yang tempoh siap melebihi 5 tahun. Itu soalan lah. Tengok jawapan Menteri Pendidikan, memang tak lepas kebat. Kaji putih wajah upan dia, ha? Nak baca apa, Abie? Tak payahlah. Tapi aku minta data secara terperinci. Dia koronan. Ini semua yang kita minta tu dari segi pecahan kos, jenis sekolah, bandar luar bandar, mengikut negeri, mengikut tahun. Satu apa dia tak bagi? Dia tak bagi. Sebab itulah budak-budak kita bila pergi ambil ujian pisah tercicir. Mana tak? Hanya menteri pun orang tanya soalan, lain yang ditanya data, lain yang dijawab. Comprehension memang tak betul. Okey. Dan kita tengok ialah bila keluar ke media punya headline tu, kos bina bilik darjah, naik ketara sejak 2021, cecah RM520,000 sebuah. Dan saya rasa ini pun orang ramai mempertikaikan sebab kita tak perlukan knowledge tentang DE ke apa, benda ni memang tak make sense. Yelah, harga rumah lebih murah kan. Jadi pertama adakah YB setuju dengan jawapan tu, tak setujulah. Tak, jawapan tu you tak boleh setuju ke tak bersetuju. memang itu kos dia lah. Tapi sebenarnya yang kita nak bincang ni, kos itu pun dia tak cerita penuh. Sebab kalau rakyat tahu, lagi pengsan rakyat. Dan YB pun sebab pernah sangat menguruskan projek pembangunan, DE, Mandat Kementerian Ekonomi. Ini pun cabaran-cabaran DE lah. Kos mahal, pengambilan tanah. Jadi ada macam mana, apa sebenarnya root cost mesti beritahu kat mana dia punya talah taklah sebelum kita sampai ke Rukos lah kan Yalah saya tanya tu sebenarnya saya nak kumpul data Bukannya saya nak serang Fadlina ke apa Saya macam tu soalan parlimen saya selalunya Hanyalah untuk mendapatkan data Kerana kerajaan kita ni dia tak nak kongsi data Dia tak macam negara lain yang you boleh pergi dapat data penuh Kalau kita ada pun data-data macam data dosam je Itu je yang ada Tapi kalau data-data macam perolehan Kerajaan kosm ini dia tak nak bagi...pengen data. Saya memang dah tahu sebenarnya anggaran kos untuk satu bilik dajah secara purata. Dan saya tahu jawapan yang dia bagi itu tak kenalah. Cuma rakyat kali pertama tahu. Jadi dia jadi meletup lah. Habis semua orang petik kan. Tak sempat aku nak komen dia dah jadi isu kan. Jadi... Ini kepada sebelum kita pergi secara detail lah kan. Pertama kita nak kena sahkan data kos yang dia bagi itu betul ke tidak. Berdasarkan maklumat yang kita ada. Kemudian kita nak kena tahu kenapa... Pada pandangan pihak kerajaan, pegawai awam, semua kenapa kos itu tinggi macam itu. Dia akan berbalik kepada beberapa perkara yang kita sebut tadilah dari segi budaya semua itu kan. Kemudian kita nak kena bincang sebenarnya macam mana kita nak menambah kapasiti kalau perkara ini tidak diselesaikan kan. So sebenarnya kos RM520,000. satu kelas ni dan itu meliputi kos bilik darjah nak buat empat dinding tu dengan tiang dia dengan tangga, dengan koridor dan tandas. Apa kos yang tak masuk kat sini? Kursi Tanah? Kusi. Eh sorry. Tanah mungkin tapi itu bergantung juga ada jenis-jenis tanah. Yang itu nanti kita bincang. Sebenarnya kerajaan nak buat sekolah ni tanah siapa? Contohnya kan. Lagi apa lagi yang tak masuk kat situ? Kos kantin tak masuk, kos infrastruktur macam jalan semua tak masuk, kos pagar tak masuk, kos pendawayan di luar bilik darjah semua itu, kos lampu, kos dewan, kos kelengkapan sukan, kos bilik gugu, kos perpustakaan, segala jenis. Agaknya kenapa dia tak masukkan semua itu? Sebab nanti kos lagi tinggi. Sebab dia tahu untuh Malaysia ni bila dia tahu kan. Jadi sebenarnya berapa kos sebenar untuk apa nama ni, let me get the figure. Sebenarnya berapa kos terkini lah sebenar untuk membina sekolah ni pun rata? Jawapan Fadlina ialah antara 250... Tak ada balik tadi lah. RM280,000 kan yang tadi. Tadi. Itu ada yang bawah tu. Kalau ikutnya... No no no Yang tadi lah kan 280 ribu tu Yang maaf sebut tu kan 280 ribu ke RM520,000. Itu jawapan dia kan. Dan jawapan parlimen dia juga. Ini berdasarkan jawapan parlimen tu lah. Tapi sekarang ni kita nak beritahu kepada pendengar bahawa jawapan itu ialah jawapan yang kita tanya sebenarnya baju raya sepasang berapa. Baju Melayu seluar dengan samping berapa, songkok. Dia beritahu baju kos boxer suara dalam je. Kita cerita yang lain So sebenarnya Kau sepasang baju raya berapa Haa Sebenarnya lebih kurang 1.5 juta. 1.5 juta. Tiga kali ganda daripada yang dia boleh tahu. Yalah, kos itu sampai kiamat kita takkan dapat tahulah kecuali satu masa nanti. Macam mana sampai ke situ? Kecuali satu masa nanti ialah kita betul-betul telus, kita siarkan semualah kan. Saya tak boleh nak sebut satu persatu sebab itu rahsia kerajaan kan. Itu masa saya jadi Menteri Ekonomi dulu saya terpaksa melalui ini dan memang pening kepala duduk bergaduh. Macam mana kos banyak ini kan. ialah ada kos rujukan daripada beberapa laporan yang memang boleh disemak oleh rakyat. Contoh-contoh laporan? Hmm Penarafan di kereta is eh? Mana ada orang check kos sekolah untuk penarafan eh. Hmm Laporan Ketua Audit Negara lah Oh Laporan Ketua Audit Negara Ingat International Standard Dah ada Laporan Ketua Audit Negara lah Okay Laporan Ketua Audit Negara Hmm Ambil contoh laporan ketua audit negara Supaya yang ni orang tak boleh tangkap aku Berkongsi maklumat kajian lah Yang ni semua orang boleh pergi semak kan So kalau ikut laporan ketua audit negara Tahun 2020-2021 Ini 2021 lah Ini belum lagi yang Fadlina kata sekarang ini dah 520 ribu naik mendadak kan. So laporan ketua audit negara 2021 sebenarnya semak sekolah-sekolah yang dibina dan kos dan juga prestasi lah kan. Contoh-contoh sekolah yang diberikan ialah... Sekolah Menengah Kebangsaan Jalan Sungai Besi 24 Bilik Darjah 27.64 juta Ini sebelum 2021 lagi Maksudnya kan Ini kalau 2021 Maksudnya dibina Sebelum itulah kan So 27.64 juta Bagi 24 Berapa? 1 juta lebih Satu kan Ini tahun 2021 ni 2021 Sama juga di luar lah sekolah kebangsaan Taman Palangi, 24 bilik dajah, 20.7 juta, lebih kurang dekat sejuta juga. Sekolah kebangsaan Teluk Kapas. 30 bilik dajah, 32 juta. Semua satu. Ini tahun 2021 tau. And then kalau tengok RMK11. RMK11 maksudnya tahun 2016 sampai tahun 2020. Jumlah kos yang diluluskan untuk pembinaan sekolah ialah RM11.43 bilion. untuk 657 sekolah. Haa, super, baggy.
 
-[10:59] Rafizi: Pandangan budak Bangsar... Hilanglah undi aku. Tak, dia, tapi memanglah kalau kat Kelantan, nak kata pihak berkuasa beria pergi tangkap, memanglah pihak berkuasa pun satu. Kalau dah nama konsert telah diluluskan, dia tak semak dulu ke?
+[2:04:29] Speaker ?: 0.017
 
-[11:23] Akmal: Ha, siapa yang luluskan tu? So siapa yang beria ni?
+[2:04:32] Speaker 2: Maksudnya lebih kurang 18 juta satu. 18 juta. Betul. 17.9. Hmm. Kan. Kemudian ada maklumat yang lebih terkini ialah itu yang tahun 2021 itu untuk yang dibina 10 tahun yang lepas. 10 tahun yang lepas pun dah 1 juta satu bilik darjah tau. So ini dapat satu maklumat ni aku boleh cari-cari-cari jumpa. Yang terbaru ini ialah sekolah menengah kebangsaan Bukit Mahkota Bangi 42 bilik darjah 53.2 juta. So lebih kurang satu juta lebih kan? Hmm. Hmm. Okay. Benda ni ada masalah bila kita kena terima lah sebenarnya. Bilik darjah ni kos untuk buat sekolah ni busuk-busuk pun satu juta satu bilik darjah. Hmm. Lebih kurang kan? Malah ada yang lebih tinggi kan. If I can recall kan, julat kos keseluruhan sekolah yang dalam 1-2 tahun terkini kan, selalunya dalam RM40 juta. Kalau di Sabah Sarawak, dia boleh jadi sampai RM70 juta. Sampai RM80 juta satu sekolah kan. Jadi pertama memang sekarang kita tahulah bahawa kos untuk satu bilik darjah secara purata itu lebih dari RM1 juta. Dia boleh jadi sampai RM1.5 juta. Ini campur semualah bukan tunjuk seluar dalam sajalah macam ni kan. Dia ada masalah dari segi dua perspektif. Satu, logik rakyat lah. Logik rakyat kata, eh macam mana pula bilik darjah, satu bilik darjah, empat dinding. Tak ada bilik apa lain. Tak ada apa, tak ada tandas apa kat dalam tu semua kan. Tak ada dapur, tak ada aircon semua. Eh dia sama mahal dengan rumah teras sepijik. RM500,000. Ni rumah teras kat KL dah. Jauh sikit lah luar-luar kat Kajang ke apa kan sebenarnya. Tapi rumah kan. Kalau lah ada orang kata. Sebab pegawai-pegawai kerajaan akan kata, sistem kerajaan kita akan kata, kos itu bukan saja untuk bilik darjah itu. Kita kena buat jalan, kita kena buat pagar, kita kena buat dewan, kita kena buat kantin. Jadi campur-campur semua. Sebab itu dia jadi satu juta lebih satu bilik darjah. Tak adil lah untuk kita banding kos bilik darjah itu apple to apple dengan satu rumah teras. Betul ke tidak? Logik ke tidak? Sekali dengar macam... Betullah juga Okay Sekali dengar lah Dua kali dengar Dah dengar YB cakap macam ni Kau tengah fikir Maksudnya tak betul Tak logik Tapi kau tengah fikir Sebab apa tak logik Maksudnya sebab apa tak logik
 
-[11:26] Haziq: Turunkan kompaun.
+[2:07:28] Speaker 3: Maksud saya... Kelengkapan And also Sekolah kita bina satu Selalu housing estate Kita bina banyak terus Bina banyak apa? Bina banyak rumah-rumah Okay So cost tu a bit more
 
-[11:28] Rafizi: Lagi satu, pihak berkuasa mengatakan yang ada guidelines untuk ada festival ke apa di Kelantan dan segregation tu adalah satu syarat.
+[2:07:44] Speaker 2: Tak Bila Bila Bila Sistem kerajaan kita lah, pegawai-pegawai kerajaan kita, ke engineer kita, menteri dia ulang benda yang sama tu lah kan. Or tak boleh banding apple to apple kerana kita kena buat benda-benda kemudahan sampingan daripada bilik dajah ni. Kantin, perpustakaan, semua sebab tu kos dia besar kan. Seolah-olah nak kata rumah tu, dia ada rumah tu sebiji je. Tak ada benda lain. Dia kena buat semua juga malah tanah tu dia kena beli. Sekolah tak perlu beli tanah. Tanah kerajaan. Sebab sekolah ni kalau di kawasan perbandaran lah. Kalau di kawasan perbandaran, tanah tu datang bila pemaju nak buat satu taman, bila dia dah melepasi sesuatu saiz taman itu, dia memang kena rezabkan tanah itu untuk buat sekolah. Tanah tu tanah pemaju. Bukan bayar pun. yang kawasan yang bukan di bawah tanah itu rezab daripada pemaju kerajaan kenal pasti tanah itu. Dan tanah itu selalunya ialah milik kerajaan negeri. Kerajaan bayar pada nilaian kerajaan negeri dan nilaian kerajaan yang bukannya harga tanah macam kita beli untuk buat taman perumahan. Jadi tanah, dah lah. Tak bayar-bayar. Tambah kalau di kawasan bandar lah yang dah memang ada rezab kan. Pemaju dia nak buat Segala jenis benda dia kena buat. Jalan, longkang nak sampai kat situ. Kemudian apa nama ni kemudahan-kemudahan lain. Taman, permainan. Semua syarat-syarat yang diletakkan di dalam kebenaran merancang tu dia kena buat. Jadi nak kata tak boleh banding harga rumah teras dengan bilik dajah pun tak betul juga. Jadi kalau kita fikir memanglah logik rakyat tu kita tak boleh nak bergaduh dengan dia. Dia kira eh macam mana pula. sebuah rumah teras sudah ada profit margin. Maksudnya kalau pemaju jual RM520,000, kos dia daripada kos tanah semua-semua tu, dah masuk financing kos semua tu, sel-sel lagi RM300,000 lebih lah. Sebijik rumah. Jadi rakyat fikir macam mana dia RM300,000 rumah, dapat sebuah rumah, dua tingkat, dapur, toilet, semua ni kan. Bilik dajah kita jadi RM1.3-RM1.4 juta. Itu satu. Betul. Yang kedua ialah bila dibandingkan dengan sekolah-sekolah Cina. Itu yang masalahnya. Saya pun pergi carilah. Aku macam kadang-kadang orang duduk marah kat aku semua. Aku bukan pandai-pandai buat. Dia pun dah memang pergi cek. Faktanya begini. Ambil contoh. Ya. Ini ialah sekolah-sekolah yang dibiayai secara swasta oleh masyarakat China lah sekolah dia kan. So saya berjaya kumpul dua tiga contoh ni kan. Sekolah jenis kebangsaan China Hanjiang di Penang. Satu bangunan baru sebanyak 22 bilik darjah. Kos RM6.5 juta. Bagi apa? RM300,000 satu. Dua ratus menampil lima ribu. Sekolah Jenis Kebangsaan Tonfah dalam 18 bilik darjah 8.5 juta Rp172,000 Hmm Mahal sekali. Sekolah jenis kebasaan Cina Po Chai Bukit Indah 12 bilik darjah 4 juta 333. So memang betul selalunya bilik darjah apa nama ni yang sekolah Cina ni kan. Bilik darjah dia kan 300 ribu, 400 ribu dan sekolah Cina ni bukan kat ujung-ujung kampung semua kat bandar. Tanah pun dia kena beli kan. Semua jadi dalam RM300,000-RM400,000 yang membuatnya lebih berkaitan dengan harga rumah teras dan sebagainya.
 
-[11:39] Akmal: Oh, dia tak buat segregation tu lah.
+[2:12:05] Speaker 3: Saya ada soalan. Sebab pembinaan sekolah jatuh di bawah pelaksanaan JKR. Adakah ini masalah JKR ataupun ini masalah Kementerian Pendidikan? Ini masalah kerajaan dan
 
-[11:41] Rafizi: So maksudnya masa dia mendapat lesen, Makar Fest XL ni untuk apa? Untuk orang gemuk macam aku ke apa?
+[2:12:20] Speaker 2: Perdana Menteri. Okay Sebab you tak boleh Itu masalahnya Kalau dekat Kementerian Ekonomi, bila saya grill, grill, grill, kos itu, unit kosnya, datang sebahagiannya daripada Kementerian Ekonomi, speknya datang daripada JKR. Then Kementerian Pendidikan akan kata, kita ikut je. Ini memang spek dia. Jadi bukan salah kita. Kita tak cukup duit dan kita perlu bina sekolah seberapa banyak yang boleh. secepat yang boleh Jadi kalau kita nak bagi alasan kepada rakyat, kita tak cukup duit, memang orang marah lah. Memang kerja kita lah cuba selesaikan masalah ini kan. Jadi ini masalah negara yang memerlukan semua kementerian agensi yang terbabit crack our head lah. Dalam banyak-banyak perkara yang saya mulakan di Kementerian Ekonomi, ini satu-satunya bidang yang saya tak sempat habiskan. Ekonomi dulu kami mula satu perkara yang kita panggil reformasi DE. DE reform lah kan. DE reform. yang bahagian IT tu kita dah berjaya lah laksanakan sedikit sebanyak untuk mengurangkan banyaknya projek IT yang untung besar-besar kontraktor vendor driven projek IT semua ni sebab itulah kita buat jabatan digital negara kita cuba nak push supaya dia kena ada enterprise architecture untuk keseluruhan sistem kerajaan buat semua from scratch setiap projek tu nak ada website, nak buat back end, front end, dia itu yang jadi mahal je kan, jadi yang IT tu kita, kita saya ingat ada progress sedikit lah yang tidak berkesudahan ialah dari segi cost benchmarking. Okay. Yang memang, tapi memang saya selalu dapat hit a wall lah kerana jawapan yang saya dapat ialah YB memang inilah. Inilah cost kita. Inilah cost kita. Yang itu yang saya, inilah cost kita ni. Masalahnya logiknya ialah dia tak masuk akal lah kan. Jadi, Mungkinlah kita perlu membina lebih sedikit dan kemudahan kerajaan itu perlu mengambil kira kepentingan dan juga keperluan yang swasta tak perlu bagi betul lah. Mungkin. Tapi kos dia tak boleh dah sampai 3 kali ganda. Kalau kos sekolah China, RM300,000, RM400,000. Kos sekolah kebangsaan sampai RM1.5 juta, RM1.4 juta. Jadi... Itu sendiri adalah masalah. Ini yang saya rasa... Saya harap... Saya dengar benda-benda macam inilah yang dibincangkan. Jadi saya secara umumnya pandangan saya dahulu ialah sebab itu kita kena bangunkan industri IBS dan kita kena ubah semua kita punya skop dan juga spek kita. Kalau perlu sekolah pasang siap seberapa banyak yang mungkin supaya kita boleh siapkan sekolah dalam tempoh dua tahun. membina ke fasiliti untuk menyediakan komponen-komponen pasang siap itu dan itulah yang kita kena buat. Tapi ialah aku senang bercakap dengan dinding. Jadi perkara ini walaupun rakyat dah terkejut harga sekolah ini, dia rasa RM520,000 itu mahal. Harganya sebenarnya hampir tiga kali ganda harga sebenar dia lah. Dan pada... harga tersebut, kos tersebut kecuali kita cari out of the box punya solution ataupun kita nak kena pivot, tukar betul-betul dari segi konsep pendekatan semua ni dan kita akan ada masalah lah untuk memenuhi kapasiti dan keperluan sekolah. Tambah yang kesiannya dekat Lembah Kelang sekolah-sekolah kat Lembah Kelang ni sampai 50 apa nama ni murid kan dia banyak perkara-perkara yang perlu diubah saya dah mulakan dahulu tapi dia tak berjalan mana kerana dia dia apa nama ni birokrasi dia itu panjang contohnya contohnya Dia ada keadaan yang mana pemaju terutama pemaju yang besar lah kan. Dia dah sediakan tanah pun. Tanah result untuk bina sekolah tu daripada awal dia dah kena ada kat situ. Tapi nak tunggu peruntukan daripada kerajaan tak sampai-sampai tujuh tahun sekolah tu. Tak bina-bina. Sampai kawasan tu naik lalang semua kan. Jadi saya dah mula perbincangan untuk pilot projek dahulu. Maksudnya... Di kawasan-kawasan, terutamanya bandar yang memang dah ada rezab dan yang memang pemaju, dia nak packagekan kawasan perumahan dia itu dengan sekolah yang bagus, biar pemaju buat sendiri dan tanggung sendiri. Tapi mesti ubah spek lah. Dia tak boleh lah kalau sekolah biasa, spek kita one size fits all. Haa ini standard kita. Ini spek kita. Habis satu Malaysia nak kena pakai. Dan kalau dekat DKL, Lembah Kelang, tanah tak cukup. Kamu nak buat 12 hekar macam mananya, tanah tak ada. Dan yang ada 12 hekar ataupun kamu tak buat-buat lagi. Contohnya kan. So saya kata untuk tanah-tanah yang macam itu beri kebebasan kepada pemaju-pemaju yang berkemampuan untuk dibangunkan sekolah bertingkat lebih daripada tingkat pun tak apa supaya kalau tanah rezab dia itu contohnya 12 hekar dia boleh bangunkan di separuh 6-7 hekar saja 6 hekar lagi itu dia boleh commercialize kan sama ada dia nak buat bangunan, dia nak jual untuk tampung sekolah. Jimat kerajaan Bagus untuk ibu bapa, sekolah dah ada. Dan bagus untuk pemaju. Kerana sekolah dia tu cantik, sekolah dia tu modern semua. Tiga tahun aku bincang. Apa respon mereka bila YB... No, pemaju sukalah. Tapi birokrasi dia panjanglah. Yang itu, yang ini kan. Jadi saya rasa dia tak ke mana sangatlah. Tapi itu contoh-contohnya yang mana... Kita kena menukar pemikiran dan pendekatan kita lah. We must start with an end in mind. Kalau kita kata kita perlukan seribu sekolah baru dalam tempoh lima tahun, then kita kena tengoklah berapa sekolah kena buat satu tahun. Then kalau duit kita ada banyak macam itu je, then kita kena fikirlah macam mana kita nak optimize dan bina sekolah yang lebih kreatif. untuk memenuhi keperluan-keperluan inilah. Itu tujuan saya tanya soalan-soalan semua ini sebab saya rasa kementerian-kementerian yang selalu jadi sasaran saya inilah dia akan, dia kena fikir dua kalilah. Kau tidak pandan buat hal lagi. Kau tidak pandan buat hal lagi. Jadi sebelum dia buat hal, dia buat bising, you fikir dulu. Itu tujuan dia. Itulah tugas ahli parlimen. Supaya kalau kita rasa yang sepatutnya kerja kitalah baling batu suruh dia berlari. Bukannya bergaduh pasal DAP Cina itu ini semua kan. Yang itu tak apalah saya pikul beban jadi pembangkang secara tak rasmi tu. Tapi ini adalah masalah negara. Sama juga soal cukai yang tak dipulangkan tadi pun masalah negara jugalah. Kita dah berapa jam ni? Kita dah 2 jam 20 minit lah. Okey, okey, okey. Kena cepat. Kita mungkin ada 2 lagi kot. Okey, ada 2 je lagi. So yang ini kita tangguhkan. Menunggu respon daripada orang ramai dan juga menunggu respon daripada menteri-menteri yang terbabit. Taka... Kedua terakhir, Rafiq Zibiadab kata Anwar obses jadi PM. Tanda soal. Inilah kenyataan daripada YB lah baru-baru ini. Mungkin orang nak tahu konteks sebab... Ya ke orang nak tahu? Chaplos, dia dah ada... Kau paling pandai je kata orang nak tahu. Saya lah yang nak tahu. Kau yang nak tahu. Sebab Chaplos dah ada skrip YB. Skripnya adalah dia tunjuk apa? Print screen. YB sendiri. Kata nak bertanding melawan Azmin dulu Sebab nak tengok Anwar menjadi PM Yelah kita dah tengok dia jadi PM lah Jadi mungkin kalau YB boleh bagi Konteks lah Hmm Yang perkataan obses tu... Yang itu... Apa nama ni... Media yang letak kan... Aku tak letak apa perkataan obses kan... I think I use the word preoccupation... Okay... Tapi sebenarnya dia ada satu sudut yang... Yang... Yelah mungkin untuk Dato' Sri Anwar... ataupun untuk pimpinan PKR yang ada ni, ataupun simplistic mind yang merasakan bahawa bila kerajaan telah bertukar dan Dato' Sri Anwar dah jadi Perdana Menteri, maka kita akan live happily ever after. Ada yang simplistic mind yang seperti itu, tapi ada satu sudut yang mungkin mereka kurang selesa nak dengar lah. Okey baik ya. Saya tahulah ada banyak penyokong tegah yang makin hamun yang sangat terkesanlah biadab ke orang hajur. Yalah mereka yang duduk tuduh aku biadab ke orang hajur semua ni kan. Masa kita sepabuh mati, turun naik, pusing satu Malaysia sampai Anwar Ibrahim bebas jadi penjaga. Dia tak ada pun. Mana Profesor Tajuddin masa tu? Mana dia? Dia senanglah bercakap. Dia tak perlu melalui susah payah yang kita melalui. Dia bukan soal mengungkit. Tetapi... Mereka saya haraplah orang lain cek peluang. So kita tak ambil pot lah. Tapi orang-orang yang pandai ni sepatutnya dia letakkan konteks yang betul lah. Salahkah kalau ada sebahagian daripada pimpinan PKR, daripada aktivis PKR, orang macam saya yang meletakkan aras standard yang lebih tinggi? Kerana masalah masyarakat ialah kalau kita continuously compromise our expectation and standard. Hanya kerana yang jadi kerajaan itu ialah parti kita. Itulah yang menyebabkan UMNO jadi UMNO. Itulah yang menyebabkan we are where we are today. Kan? Just because you don't want to do that job Because that job is not popular Tak apalah We will do that job Tapi tak payahlah kamu pandai-pandai Sampai nak kata orang tu biadab Orang ni biadab I mean Who are you? Berbanding dengan orang yang lama dalam PKR yang memikul Anwar Ibrahim daripada penjara kali pertama, penjara kali kedua. Janganlah sampai orang point that, oh tak cantiklah. Tapi there is an even bigger perspective yang sebenarnya bersabit dengan kemampuan Datuk Seri Anwar Ibrahim untuk kembali menjadi Perdana Menteri. Terima kasih. Biar saya tanya awak ini, Sam. Actually, yang bising-bising ni nampak lah. Tapi yang bising ni banyaknya orang PKR, CEPLOS semua lah kan. Actually reaksi daripada orang rakyat Melayu, orang biasa ni macam mana? Tak ada reaksi pun. Tak ada reaksi kan. Why is that? Saya tidak peduli. Mereka tidak peduli, itu satu lagi. Tidak menyokong ini? Mereka bukan penyokong. Okey lagi. Memang ramai yang benci daripada awal Yelah, dia punya kasar lah, cakap macam tu kan. Kasar tapi, yelah. Tapi sebenarnya, this view yang Anwar obses jadi PM ni, ini memang pandangan majoriti pengundi Melayu. Okay. Sebenarnya daripada tahun 2013, 2018, sebenarnya berapa peratus pengundi Melayu, orang Melayu ini yang menyokong Dato' Sri Anwar sebagai PM? Melayu Hmm Give and take lah. Itu kalau kita ambil anggaran mudah yang mengundi PH, dia semua sokong Anwar Ibrahim untuk jadi PM. We just like state lah. Sebenarnya undi PH Melayu ni berapa? 20%. 25 Tak cross 30 pun Oh Ha Dalam dua pilihan, dalam last election lagi rendah lah. Dalam PRU 2018, so I think about 30 lah. To the highest lah? Well, not really lah. Highest tu masa ada past lah. Kalau you take as a coalition lah kan. Masa past tu 46%. Masa Pakatan Rakyat kan. Tapi 2022 is only about 22-23%. Maksudnya... Di kalangan pengundi Melayu ini, 75% as you point out memang tidak Suka atau tidak minat kepada Dato' Sri Anwar Ibrahim Full stop Ken Kemudian... Kemudian anda perlu mendidih lebih dalam Eeeemm Sebenarnya kenapa mereka tak minat kepada Dato' Sri Anwar Ibrahim? Because surveys in the past menunjukkan bahawa isu liwat semua tu, tuduhan serangan peribadi tu, sebenarnya tak ada kesan sangat. 80% of pengundi Melayu sebenarnya tak ambil pot or tak ambil tahu, tak percaya pun pasal tuduhan liwat. Tapi kenapa despite that... Until now lah, either survey ke ataupun apa nama ni, keputusan pilihan raya menunjukkan at most 30% pengundi Melayu sahaja yang minat dengan Dato' Sri Anwar Ibrahim. Why do you think? Orang akan boleh kata, yelah bila cakap pasal pengundi Melayu ni, isu-isu Melayu lah. Anwar dia terkait dengan Bugiman anti-Melayu semua. Why dating is Bugiman anti-Melayu? You are right on that point. Maksudnya, pengundi Melayu ni, whether we like it or not, it's very uncomfortable lah orang nak cakap. Tapi dulu-dulu pun, dalam Biro Politik PKR, memang kita bincang. Tahun 2013, ada seorang pimpinan dalam Biro Politik yang cakap direct kepada Datuk Seri Anwar Ibrahim. Kita ada masalah, Datuk Seri. We cannot sell you dengan Melayu. So, it's not something yang hanya kerana aku bercakap terbuka, ni caplos-caplos ni melenting. I'm sure you ask Anwar Ibrahim, he is fully aware of this. Dia soal trust, soal orang Melayu tidak begitu percaya kepada Datuk Seri Anwar Ibrahim. Full stop Why? Dia macam Eureka moment Tapi sebenarnya Kenapa Anwar dikata bugiman At the end dia akan pergi kepada Anwar preoccupied menjadi PM Tapi Dia punya macam keterdesakan tu Dia berani buat apa sahaja yang diperlukan. Haa, kenaik dia. Bagus. Malam ini nampaknya Haziq tahap kebat dia tu kebat dia tinggi tau. Haa.
 
-[11:49] Akmal: Besarlah saiz tu.
+[2:28:47] Speaker 3: Makin jauh dari kawasan,
 
-[11:51] Rafizi: Konsert tu besar. Konsert untuk orang gemuk. Macam-macam dia orang ni, ha. Tak, maksudnya pihak berkuasa di Kelantan kata, mereka telah diberikan syarat-syarat penganjuranlah, tapi mereka tidak menepati. So siapa yang kena tangkap? Penganjur ke, yang yang pergi?
+[2:28:50] Speaker 2: makin bagus. Haa. Tahap kebat ni daripada kemahiran berfikir arah setinggi. Kebat tinggi. Sebenarnya, you nail it. Itu je sebenarnya. There's elephant in the room. Kan, aku tahulah aku belas tahun, puluh tahun kempen untuk dia. Masalahnya ialah orang kata kami tak percaya, orang Melayu lah kami tak percaya kepada Anwar Ibrahim kerana terdesakkan, nampak dia terdesak sangat nak jadi Perdana Menteri. Dan memang adalah dari segi sama ada kita bersetuju dengan mereka ke tidak itu, itu pilihan kita lah. Kan kita semua ada niat masing-masing. Saya, niat saya ialah we must go through that process. Kalau tidak, sampai bila-bila kita kena lanyak. Bila rakyat dah mula biasa menukar kerajaan, dia tahu kerajaan tak guna kita pecat. Kerajaan tak guna kita pecat. Only then we can have progress. Itu, that's my view. Kan? Dan cara yang paling dekat untuk menukar kerajaan was melalui satu gabungan yang diketuai oleh Hanwar Ibrahim. I have no problem with that. I make no apology for that. Kan? Tapi, Itu pandangan saya. Kita sama ada kita setuju ataupun tidak dengan pandangan yang 70% lebih Melayu lain yang rasa saya kurang minatlah dengan dia. Sebab apa? Sebab dia ni nampak nak sangat jadi PM. Kita tanya lagi, ya lah apa bukti you kata macam mana? That's where we have a problem. Because dia akan kata, you tengoklah dulu Saman 98. Engkau budak, engkau bendul. Dia 16 tahun sampai jadi timbalan Perdana Menteri, semua okey je. Tak ada pun timbul soal rasuah semua ni. Oh, tiba-tiba dia terpelanteng terus reformasi, habis rakyat turun jalan raya. And yet you supported him. Oh, ya lah. Haa, kan. So, kau diam kan. Lepas tu dia kata lagi kan. Tengok, orang UMNO akan kata, you know, kita naikkan dia daripada luar. Tak ada orang lagi cepat macam dia daripada naik. Baru masuk setahun dah jadi ketua pemuda semua. Kita naikkan dia semua kan. Tiba-tiba bila dia tak jadi saja timbalan Perdana Menteri, dia terus pergi peluk pas dengan DAP. Ini musuh UMNO ni. Sebab dia terdesak Kalau betul dia tak terdesak Kalau dia tak nak jadi PM sangat Dia tak adalah pergi peluk musuh dia Hmm Then you diam lagi. Kemudian dia akan kata, tahun 2008, and on record I disagree eh, bila Dato' Sri Anwar masa tu 16 September, nak apa nama, tebuk atap. So macam mana kita nak jawab? Kan orang kata, alah kau bising-bising, kata PN tebuk atap semua, syaratemu, yang mula-mula sekali tebuk atap, cubaan tebuk atap, ialah Anwar Ibrahim, cuma tak berjaya saja. 16 September 2008. Kemudian, lepas Sheraton move... Apa nama ni? 2021. I have the numbers. Convincing number. Orang semua tahu convincing number tu datang daripada Najib dengan Zahid. Orang akan kata... Ya Allah kalau ya pun nak jadi PM... Takkanlah sampai kamu bersekongkol bincang... Dengan Najib, dengan Zahid, dengan Rosmah semua ni. Tapi they didn't deliver. Jadi tak jadi. So if you are in their shoes... You nak jawab apa? Kan? Jadi, sebab itu... Walaupun selepas 3 tahun jadi PM, pandangan saya undi dan data is quite straightforward lah. PH memang sokongan Melayu kepada Datuk Seri Anwar dan kepada kerajaan. Tak berubah lebih macam tu lah. Tak naik pun. Kan? Jadi... Of course lah yang pas dengan bersatu UMNO semua tu, dia akan guna alasan Anwar ni untuk jadi PM terpaksa bergantung kepada sokongan China. Sebab itu kita tak boleh percaya kat dia kerana dia terdesak nak jadi PM, China minta apa pun dia bagi. Whether we agree or not, itu adalah pandangan dan itu dah jadi satu... Persepsi yang kukuh lah Di kalangan pengundi-pengundi Melayu kan Jadi Bila saya sebut Anwar obses Ataupun preoccupation dia Untuk jadi PM Kok mana yang tak betulnya Hmm And after all, the reason why yang bising tu hanyalah cap loss dan beberapa orang sahaja, because by and large, majority of pengundi Melayu memang bersetuju pun. Sepatutnya lah, itulah yang saya maksudkan juga kepada Datuk Seri Anwar Ibrahim. What is past is past. Yang penting ialah ke depan. Dia dah jadi Perdana Menteri sekarang. Jadi inilah peluang dia untuk menunjukkan bahawa dia preoccupied untuk menjadi Perdana Menteri itu untuk membaiki negara dan berbaloi lah semua orang ini menghulur kepala selama berpuluh tahun untuk menjadikan dia jadi Perdana Menteri kerana he delivers and he must deliver dengan first and foremost to reset political culture di dalam negara kita. dari segi bodeknya, dari segi tak ada prinsipnya, mengejar jawatannya semua tu kan. Sebab itulah we become where we are now, kita lawan reformasi ni. But kalau tengok kepada reaksi dan juga tindak balas PKR sekarang......dan dia akan menguatkan dan mengiyakan apa yang aku cakap lah. Kerana orang kata... Sebenarnya sama Dia orang ni Siapa yang tak sehaluan Dia habis dia panggil Sotong lah Pondan lah You know Macam-macam Kan dia serang peribadi semua Anwar sepatah pun tak kata apa Dia tak ada pun dia nak membetulkan budaya itu di dalam PKR. Tak ada. Jadi akhirnya... Dia mengesahkan lah yang menguatkan pandangan yang orang kata the preoccupation untuk jadi PM itu Destinasinya ialah untuk jadi PM Apa jadi lepas itu belakang kira kan Bila kita tak nampak perubahan budaya yang nak dibawa Dan tambah pula dalam keadaan PKR sekarang yang saya rasa dia dah sampai ke peringkat yang berbahaya lah Sebab Ayat-ayat yang digunakan oleh penyokong PKR ni kan, Ceplos tu satu hal lah. Orang biasa pun, orang biasa yang orang berilmu, pakcik-pakcik tua, ataupun penyokong-penyokong PH kat luar tu. Ayat-ayat tu, kadang-kadang saya tengok, dia tak sedar ayat tu lah yang UMNO duk guna sokong Najib dulu. Contohnya kan, yang aku selalu dapat. YB saya sokong, YB saya sayang, YB. Tapi YB kena bersabar. ni memang macam tu lah. Bersabarlah. Itu ayat amnum. Ini yang sanggup buat apa saja, telan apa saja, jilat apa saja asalkan untuk dapat jawatan. Konon nak sangat jawatan. Bukankah itu yang kita lawan dulu? Ada juga yang mesej yang duk tag aku selalu. Dia orang ni selalu tag aku kan bagi mesej ke apa kan. Oh mesejnya macam ni. YB, saya sokong YB. Saya suka YB. Tapi YB tak boleh nampak pandai sangat. Dia kena nampak bodoh sikit. Sikit. Sebab nanti orang rasa terancam. Ini zaman Dato' Sri Anwar. Jangan bagi dia rasa terancam. Gila ke apa? Maksudnya budaya itu dah jadi budaya yang jawatan dan kedudukan itu menghalalkan segala-galanya. Dan kalau ini arah PKR sekarang, yang itu yang aku kata, kita ni dah jadi zaman Stalin dengan Trotsky lah. Tapi mungkin lah, diorang tak baca zaman Stalin dengan Trotsky kan. Benda budaya yang berubah selepas Lenin mati. Lenin mati lebih kurang 1923. Jangan bagi gambaran sikit lah kan. Actually yang menubuhkan parti komunis ni di Bolshevik ni kan, dia sebenarnya bukanlah Stalin. Stalin ni budak-budak bawah je. Stalin ni dia pun tidak berpendidikan semua kan. Dia pemuka dan juga ideolog yang membangunkan Bolshevik tu, yang utama ialah of course Lenin. Seorang lagi ialah Trotsky. Hmm. Dan Trotsky lah masa revolusi dia lah jadi the founder of Red Army. Dia yang menubuhkan Red Army semua tu kan. Jadi Trotsky bin Trotsky sebab dia intellect kan. Dia bukan ambil pot sangat pasal kuasa ke apa. Dia duduk fokus kan kan. Seorang lagi ialah Lenin. Lenin ni dia memang... Kau pernah tengok Lenin berucap tak? Siapa yang pernah tengok Lenin berucap? Eh bukan Lenin, sorry Stalin. Siapa pernah tengok Stalin berucap? Jagon. Kalau dia jagon, okey. Dia ni sangat tak boleh berucap di depan orang. Tahu. Dia jenis yang... Yalah dia tak cedek mana. Jadi dia akan berucap. Dia kena ada... Apa ni? Mark. Dia akan cakap. Kalau dalam bahasa Rusia aku tak boleh sebut lah. Tapi katakanlah. Dia berucap rasa Melayu. Dia akan cakap. Saya... Terima Dia tak boleh menghabiskan satu ayat pun bila dia beri ucapan. Dia kena tau That's Stalin tau Tapi dia cakap date Dari segi bak politik lah Dia Jadi chief propaganda lah Dia control surat kabar Bolshevik Jadi slow-slow budayanya ialah yang paling Trotsky kena lah. Lenin mati. Jadi, Isri Lenin Buat keputusan, dia tak nak ada apa nama ni, perarakan besar-besaran, pengkebumian besar-besaran ni sebab dia nak supaya benda tu... Because Lenin is a revolutionary, dia tak suka feudal, you know, the reason why they are Bolshevik because they are anti-aristocracy lah, anti-feudal kan. Tapi by that time, Lenin dah mati. Jadi orang keliling yang berbuk kuasa ni kata, you shut up, otherwise we shoot you. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Trotsky masa tu ada dekat Crimea ke way down south lah dia ada hal lain kan jadi Stalin cepat-cepat beritahu takkan ada state funeral semua ni habis tak payah balik lah Jadi, Terus kita balik. Lenin gunakan itu untuk letak dia, angkat semua macamlah dia orang nombor dua selepas Lenin. Dan Stalin walaupun wasiat arahan Lenin ialah kepada Trotsky, lepas mati ditukar. Then tiba-tiba dia lah jadi. Bila dia jadi, dia wujudkanlah segala cap loss-cap loss yang ada ni. One by one, the smarter and the more senior, yang intellectual, dia bunuh satu, satu, satu. And finally, as we know it, Trotsky has to leave Russia. Soviet, first to Turkey, eventually to Cuba and he was assassinated in the end. Stalin send assassin to kill him. Apa kena-mengena cerita Stalin dengan PKR? Budaya yang dibawa oleh Stalin itu, budaya itulah yang meranapkan Soviet Union. Stalin meninggal pada tahun 1950 kan. Selepas Stalin meninggal, walaupun masa dia hidup dia macam Tuhan lah kan. Selepas dia meninggal, suksesif satu demi satu, tak ada pemimpin Rusia yang boleh command sebab dia dah bunuh semua. Dia dah wujudkan budaya membodek, budaya yang kalau kau cerdik kau mati. Jadi lebih baik kau bodoh. saya bila saya komplain kan saya tak ugi apa-apa tau Yang ruginya PKR lah, go luck to you lah kan. Yang ruginya ialah contohnya Dato' Sri Anwar. Kalau dia tidak berjaya mengubah persepsi majoriti pengundi Melayu yang merasakan bahawa dia terlalu preoccupied dalam sejarah politik dia untuk menjadi Perdana Menteri, now that you are Prime Minister, how are you going to change things? Then kita tak dapatlah undi Melayunya. Ya. So kalau kita secara berterusan PKRPH masih lagi tergedek-gedek dapat 20% undi Melayu, then sampai bila-bila kena bergantung kepada UMNO, kepada PAS, sampai bila-bila we are under siege. When you are under siege, then you cannot do reform. Because your preoccupation ialah macam mana nak menang undi Melayu sana, Melayu kampung sini kan. So it goes to the heart of the problem. Tapi ialah Lebih mudah untuk mengatakan saya Biadab dan dia tersinggung Daripada berhadapan dengan Inconvenient truth like this lah. But this is inconvenient truth. And to say that ini benda yang aku sebut masa apa nama ni aku dah tak jadi menteri, that's not true. I've been saying this within party wars daripada dulu. If anything, kenapa ada this love difficult relationship dengan Anwar ni, ialah begitulah. Saya dianggap berkesan dalam melakukan kerja saya untuk mendapatkan sokongan untuk menggerakkan perkara. Aku tak cukup taksuk. Aku tak cium tangan. Jadi, you know, you have a person yang he is an asset but he's uncontrollable. He's a wild card. Jadi, dalam budaya politik yang lama ni, wild card ni tak boleh. So, you know, I don't lose anything. After all, I'm out anyway. Tetapi, unless something is done, dan pandangan Anwar is obsessed jadi PM ini berkekalan, yang akan bayar the price is PH and PKR. Bila dah jadi nanti... Don't come back to me yang kata betul lah yang YB sebut dulu. Because, kalaulah terutamanya penyokong-penyokong PH lah yang mendengar, in case you lupa, ni termasuk lah ni Dr. Tajuddin ni kan? Ya. Dalam satu dua hari pertama 2018 bila Tun Mahathir jadi PM, orang lain seorang pun tak berani tegur dia bila dia pakai buldus lantik sahaja siapa-siapa. Dia lantik katel jadi menteri dia tanpa mengikut keputusan PKR. Orang lain semua tak berani sebut kan. Aku seorang yang berbakul-bakul aku kena maki tau. Orang ludah sahaja. And bear in mind, itu selepas beberapa hari, aku kampen sampai nak mampus to win 47 seats for PKR tau. And without that 47 seats, tak ada kerajaan PH in 2018 tu kan. But 2-3 years down the road, then betul lah. Aku malas nak cakap, I told you so. Because just because masa itu, you tak nak fikir panjang, you tak nak orang kata remeh ni cerita. You want to believe the fairy tale that, oh, saya suka Tuan Mahathir, dia penyelamat. Saya suka Anwar, dia penyelamat. Tak adalah malaikat maksum sesama kita ni. We are all politicians, kan? So... Benda 2018 tu macam ni, saya dah melalui masa yang sama. Kuang Hajar dengan Tuan Mahathir, itu ini semua kan. Now I'm going through Dengan Datuk Sri Anwar But at least I was proven right 2-3 tahun di bawah lantai. Saya telah membuktikan betul. Kerana bila Tun Mahathir buat keputusan yang dibuat 2018 itu, pada pandangan dia mungkin itu adalah hak dia. Dan juga itu adalah memudahkan dia kerana dia nak orang yang dia lagi selesa daripada PKR yang tak setia kepada Anwar Ibrahim jadi menteri. Tetapi kesan itu, dia akan menghancurkan PKR. Because you strengthen the hands of Azmin dengan Katel yang memang nak membuang Anwar Ibrahim. Because that narrative memang clear daripada awal. Masa Anwar ni dah berlalu. Sepatutnya the next prime minister is Azmin, not Anwar Ibrahim kan. So whether Tun Mahathir purposely or inadvertently, I don't know. Tapi the effect on PKR memang clear lah. And then kita tengok lah apa jadi. Sama macam saya cakap sekarang. Pertama, Pertama, Pert tahun lepas dengan semua the follow up yang tak habis sampai sekarang ni niat Dato' Sri Anwar Ibrahim buat keputusan tu I don't know I can guess lah tapi itu niat dia dalam hati dia Wallahualam lah but the effect on PKR and PH memang kita tahulah sedang berlaku sekarang lah jadi jadi The ball is in his court. Sama ada dia nak memperbetulkan balik parti dan kalau dia nak memperbetulkan balik parti tu. Actually, don't talk about me lah. You fix the problem around you. You fix the culture semua lah. Tapi yang orang nampak sekarang ini ialah yang segar-bugar dalam PKR dan dia dah melimpah kepada sebahagian daripada penyokong PH lah macam ni lah. Tak boleh sentuh, tak boleh kritik. Kalau tak boleh jawab, dia maki hamun. And then good luck lah because Anda pernah melihatnya sebelum
 
-[12:13] Akmal: Penganjur, penganjur.
+[2:47:03] Speaker 1: ini.
 
-[12:15] Haziq: Dan didenda RM30,000.
+[2:47:05] Speaker 3: Saya ada soalan follow up lah sebab boleh dikatakan 2018 was, oh sorry, not 2018, Langkah Syarikat itu was the first crossroad untuk parti. Ya ke? Sebab pengkhianatan, big faction keluar dan keluar pun sebab kuasa. Sekarang anda melihat 2022 peningkatan semula parti dan berjaya ke Putrajaya well the
 
-[12:18] Rafizi: Emm. So kat Kelantan macam itulah. Kalau konsert, dia akan jadi isu negaralah. Aku tak pernah pergi konsert seumur hidup.
+[2:47:34] Speaker 2: party wasn't that strong pun 2022 it's just that I think the euphoria and juga the kekecewaan periode dua tahun itu. Maksudnya ada saki-baki lagi harapan pengundi-pengundi PH untuk melihat perubahan. Tapi untuk mengatakan PKR telah dikembangkan, walaupun saya tidak setuju.
 
-[12:29] Akmal: Emm, sebab tak...
+[2:47:58] Speaker 3: So, ok, PKR dah... Masuk Putrajaya Has the power now dan anda berada di kepimpinan utama parti, adakah
 
-[12:30] Rafizi: Sebab bising. Lepas tu, ramai orang. Kan? So, tak tahulah. Dia kalau budak-budak kan ada yang suka pergi konsert, semua. Seumur hidup aku, aku tak pernah pergi konsert. Aku pernah pergi satu sahaja acara, itu pun sebab kena paksa dengan cikgu masa kat Scotland, sebab aku dalam orkestra kan. So cikgu tu sangatlah bersemangat, dia macam terkejut badak ada budak Melayu main dalam orkestra kan. Jadi ada satu konsert orkestralah. Ha, itu satu-satunya, itu pun sebab percuma. Kalau tidak, memang aku tak pergilah. Yang dekat Filharmonik? Filharmonik pun tak pernah pergi kan. Apatah lagi konsert macam ni lah, bising, dan sebab tulah kita tak dapat undi Gen Z kot.
+[2:48:09] Speaker 2: tidak
 
-[13:24] Akmal: kena pergi konsert lagi?
+[2:48:10] Speaker 3: ada rancangan untuk masa depan, bukan hanya kesinambungan, tetapi dalam hal membangun pemimpin baru? Kerana, saya maksudkan... Dan rancangan penghantaran. Ya, rancangan penghantaran. Oleh kerana, saya maksudkan, dan apa sahaja akan mempunyai tarikh penghujung itulah yang anda lakukan untuk memastikan tarikh penghujung itu berpanjangan jadi sebagai parti politik If I understand correctly, any political party akan fokus kepada... Kuasa dia makin lama makin lama makin lama Ini kuasa PKR tak ada ke planning macam tu?
 
-[13:25] Rafizi: Allah. Lepas ni Sir kena buat apa? Makar Fest XXL. Mungkinlah kita buat Makar Fest XXL. Okay. Boleh, boleh.
+[2:48:48] Speaker 2: I think outcome yang memuncak kepada pemilihan PKR tahun lepas itu Ialah a by-product Some intended, some unintended consequences daripada soal succession planning lah. So dia ada faktor-faktor yang berlainan But they all converge to one decision ...yang mana budak ini mesti dikepung. Jadi, anda mempunyai satu situasi di mana......Dato' Sri Anwar merasakan bahawa......sehingga mereka menghapuskan budak-budak ini......yang menang besar dalam tahun 2022......kemudian... dia tak boleh menunjukkan yang dia in total control of the party. Sebab dia ada UMNO ni, dia ada DAP ni. Dan keputusan pemilihan 2022 menunjukkan bahawa actually walaupun Dato' Sri Anwar kempen habis-habisan untuk Saifuddin, untuk yang lawan kami ni, Dia kalah besar. Jadi dia I think melihatnya itu sebagai a chip on his shoulder yang dia kena tunjukkan but he's in total control of PKR now. It means that there's such as planning lah. Maksudnya such as planning tu buat masa sekarang ialah untuk dia lah. Maksudnya kalau perkara itu tidak diselesaikan dia nampak lemah. Okay itu dia satu kan. Itu satu faktor yang berlaku di sana. Faktor lain ialah......awak ada orang-orang yang tidak bersetuju dengan saya. Maksudnya, Ramanan. Maksudnya, tinggalan-tinggalan katel yang berada di Selangor. Maksudnya, Farhaj. Dengan kumpulan-kumpulan dia. Maksudnya, Ramanan. Yang merasakan bahawa... Kalau succession planningnya Ialah selepas Dato' Sri Anwar Ibrahim Rafizi takes over as president We are all that Dia akan kerat kita semua ni Tak ada tempat lah kita dalam parti ni. Sebab dia memang tak boleh dirunding. Daripada dulu dia tak boleh dirunding. Dia ikut kepala dia je. Kalau dia kata dia rasa dia seorang je baik. Dia rasa dia seorang je betul. Itu yang ayat yang selalu diulang-ulang lah. I mean I actually have no preference over something. To me it's like if you are competent and then aku rasa kau tak makan duit lah I'm okay. Apa-apa yang lebih daripada itu, maaf. Jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, jadi, Jadi tiba-tiba ada kegelapan yang kalau dalam penggal terakhir ini tiba-tiba apa-apa terjadi kepada Dato' Syed Anwar ataupun memang Rafizi jadi presiden daripada tahun 2027, mampai kita. Kita semua ini memang kena kerat, takkan dapat tempat semua. Oleh itu, yang lain adalah sejarah. Jadi sebenarnya ini tentang perancangan pembinaan. So kalau orang duk tanya, kenapa PKR ni tak masuk akal lah? Kenapa? Because... I think they fear kalau things go smoothly. So mereka merasakan bahawa keputusan 2022 itu sesuatu yang mesti di-reverse secepat mungkin. Masalahnya keputusan 2022 itu ialah keputusan paling majority dalam sejarah pemilihan PKR daripada kaum B. Tak ada orang yang menang landslide seperti saya menang tahun 2022 lah. Because of the keadaan masa itulah. Jadi masa Azmin menang pun menang rapat dengan only 1% difference. Jadi tahun 2018. So bila benda ni berlaku, sebab itu dia jadi disruption kepada moral of the party di bawah haka umbi. Kepada chaplos-chaplos yang duk kata move on, move on. Macam mana orang nak move on? Kerana anda sedang mencuba untuk memperkuat dan menolak perut. Sesuatu yang... Apa nama ni Something abnormal You are trying to push it down the throat, something that is abnormal to ordinary party members. Jadi akhirnya orang tak terima lah. You bolehlah cakap kepada orang luar parti yang tak mengetahui hal dalaman parti. Oh you kalah apa you nak bising-bising semua kan. Majority of party members yang melalui proses ini tahu blockchain tak blockchainnya, keputusan macam mana, how everything was kan. succession planning pada peringkat mereka ialah sekarang telah mencapai sasaran lah so succession planningnya ialah Nurul Izzah lah
 
-[13:38] Akmal: Tapi...
+[2:54:01] Speaker 3: And next will be Kamil
 
-[13:39] Rafizi: Tapi kalulah setiap satu yang beria ni kita kena bincang part mana yang beria, maksudnya sendulah.
+[2:54:02] Speaker 2: Ramanan Next will be Kamil Ramanan That's the succession planning lah Tapi sama ada succession planning mereka itu Dipersetujui oleh rakyat Ataupun anggota PKR yang lain Only time can tell lah Okay, kita dah
 
-[13:46] Akmal: Kita cuba lagi.
+[2:54:17] Speaker 3: ada... Harap Daniel dapat tarik pengundi Gen Z dan Millennial. So, kita ke...
 
-[13:48] Rafizi: Ha, dia kena yang macam fuyyo! Cukup jumlah, tak payah bincang, a joke, kalau kena explain joke tu, dia tak kelakar.
+[2:54:23] Speaker 2: No, I think why don't we do this? Kita lah, Mama Nada. 2 jam 51 minit. Kita tangguhkan cerita Gen Z ni ke minggu depan. Jadi, minggu depan pun kena tengok juga? Haa... Banyak. Sikit, sikit, sikit. Jangan pergi kantoi. Eh, kejap, kejap. Dah? Dah, ye. Haa, kejap, kejap.
 
-[13:58] Akmal: Okay.
+[2:54:42] Speaker 3: Oh, sebab benda ni dalam jugalah.
 
-[14:00] Rafizi: Tak habis jual, cuci balik. Di kedai nasi kandar di Seremban. Ini pun pelik juga ni. Employees were not found to have typhoid vaccinations, yelah.
+[2:54:45] Speaker 2: Haa, benda tu dalam. Dalam. Dia agak detail kan? Dia agak detail. We will go through in detail. Jadi kalau paling kurang, perlukan 15-20 minit kan untuk go through. Takkan nak tambah lagi. Aku tak larang nak balik dah. Takkan ikut 20 minit. Lebih pun. Lebih, lebih. Lebih pun, 30 minit. Gen Z akan memporak perandakan keputusan PRU yang akan datang. Ya, ok. Sebelum itu, kena tengok minggu depan. Tapi sekarang kita tidur.
 
-[14:14] Akmal: Mmm.
+[2:55:15] Speaker 1: Bye.
 
-[14:15] Rafizi: Maksudnya dia, baguslah, dia menguatkuasakan. Sebab syarat untuk buka sesuatu kedai makanan, dia mesti dapat lesen dan ada suntikan tifoid daripada KKM kan. Dia budak-budak yang kat KESUM semua tu, dia kena pergi kursus tau untuk mengendalikan makanan, kemudian bagi mereka yang mungkin berhajat untuk menjadi usahawan F&B lepas ini, macam mana kita susun dapur tu pun ada syarat-syarat dia, tinggi macam mana, dekat mana kan. So, yang ini maksudnya macam mana dia boleh dapat lesen awal-awal?
-
-[14:53] Akmal: Dia comply lah kot, tapi from time to time tu dia ubah.
-
-[14:57] Rafizi: Maksudnya pekerja pekerja baru...
-
-[14:59] Akmal: Pekerja baru juga.
-
-[15:00] Rafizi: Pekerja baru dia. Dia hanya dapatkan lesen, kemudian bila dah dapat lesen tu, dia dah tak pedulilah pekerja-pekerja baru tu dia bukan hantar pergi ambil tifoid ke apa.
-
-[15:10] Akmal: Dan saya rasa F&B ni pun dia pekerja tu datang dan pergi kan? Usually pertukaran tu.
-
-[15:14] Rafizi: Ha, betullah.
-
-[15:15] Akmal: Tapi kena tanya bos F&B lah. Bos F&B kan?
-
-[15:17] Rafizi: Ha, datang datang lah. Jangan sebut bos, tak kaya.
-
-[15:20] Akmal: Haha.
-
-[15:21] Rafizi: Kalau kaya, buat duit, tak apalah kan. So, yang ini ni melimel yang pergi ke ataupun ada orang viralkanlah?
-
-[15:32] Akmal: Ada orang viral tu.
-
-[15:33] Rafizi: Dari Facebook asalnya.
-
-[15:38] Rafizi: So, bahagian mana yang beria?
-
-[15:41] Akmal: Dia jenayahlah sebenarnya. Ini bukan poyo dah ni. Ini boleh keracunan, orang mati orang kan.
-
-[15:50] Rafizi: Tapi memang ada kan, memang ada yang tempat-tempat peniaga yang end. Selalunya yang selalu kita dengarlah kalau macam bazar Ramadan, yang itu kena berhati-hati juga sebab bila ada banyak, ni nak masuk Ramadan ni kan, yelah bila ada persaingan yang banyak, kalau makanan tak habis, sebab yelah untuk jaga untung ke apa dan dia boleh, terutamanya kalau macam ayamlah kot. Ayam, ayam. Yang ini mungkin orang marah kat akulah kan. My habit kan, bila makan, saya jarang sangat makan ayam yang dimasak dan yelah maksudnya, masak merah ke, yelah lauk tu kan, masak merah ke, ataupun masak madu ke, masak kicap ke, selalunya kalau saya makan hampir 100% setiap masa mesti makan ayam goreng panas-panas. Satu sebabnya ialah, yelah aku kan jenis yang apa namanya, fikir macam-macam kan. Jadi untuk mengelakkan risiko, risiko ayam itu dimasak semula.
-
-[17:04] Akmal: Ha.
-
-[17:05] Rafizi: Ha, jadi petuanya, bagi orang macam saya ialah, jangan makan yang masak lain. Jadi tak payahlah bagi aku ayam masak kicap ke, kurma ke. Selalunya kalau the best is yang memang dia dah masak goreng yang panas-panas kat situlah, baru tak ada risiko yang ini lah. Sebab adalah segelintir kan, cuma dia tak mengejutkan. I don't know, are you surprised? It didn't surprise me at all.
-
-[17:27] Akmal: Saya mungkin baru hidup kat dunia ni, so baru...
-
-[17:29] Rafizi: Ha, banyaklah songhel yang baru hidup. Bapa lama kau dah hidup kan? Dia takkan ini kali pertama. Benda ni agak biasa kan?
-
-[17:38] Haziq: Ada pernah sekali dekat... Dekat Bangsar. Roti... Yang dia cuci sudu garpu pakai air longkang.
-
-[17:49] Rafizi: Ya? Oh, itu Bangsar kan?
-
-[17:51] Haziq: Oh yeke? Haha, sorry, sorry, saya tak perasan kena Bangsar.
-
-[17:55] Rafizi: Mentang-mentang dia tak duduk Bangsar, dia duduk tempat lagi mahal, dia hina je Bangsar kan. Tak tapi, actually masa topik ni jadi viral, ada ramai lah bangkitkan isu cleanliness dalam kedai mamak. So, itu antara satu topik perbualan bila benda ni virallah.
-
-[18:15] Rafizi: Tapi yelah orang nak nak pukul rata pun tak berlaku adil jugalah kan. Saya ingat yang bersih kotor tu, dia nak kata kedai mamak sahaja ke apa semua ni memang ada je kedai yang bersih, ada je kedai yang kotor kan. Cuma yelah kadang-kadang orang kita pun selagi tak kena, dia tak dia tak semak, dia tak perhati pun. Bila dah kena, dan dia jadi buat bisinglah.
-
-[18:41] Haziq: Tapi orang selalu kata kalau nasi kandar lagi kotor lagi sedap kan?
-
-[18:45] Rafizi: Aku loya sekarang ni. So, siapa yang beria ni?
-
-[18:51] Akmal: Kedai makan.
-
-[18:52] Rafizi: Kedai makan beria.
-
-[18:53] Akmal: Mm, okay.
-
-[18:54] Rafizi: Tapi sendulah.
-
-[18:56] Akmal: Sendu.
-
-[18:57] Rafizi: Kita harap yang terakhir ni okay sikitlah. Tak ada yang tak terbukat. Saudara Akmal.
-
-[19:04] Rafizi: Okay, menang terus. Macam nilah beria!
-
-[19:08] Akmal: Saja.
-
-[19:09] Rafizi: See, the best for last. Resign kena meeting dulu. Jadi Dr Akmal stay as for now. So dia tak resign lah?
-
-[19:16] Akmal: Dia kata dia tunjuk, dia baru keluar kenyataan rasanya malam tadi.
-
-[19:19] Rafizi: Dia yang bising-bising resign ni berapa, dua tiga minggu lepas kan? Masa Pemuda Umno. Panjang karang tu.
-
-[19:25] Akmal: Ya, betul.
-
-[19:26] Rafizi: Ha, bukan, bunyi dia macam inilah perjuangan terbesar sejak Hang Tuah. So, so tak resign lagi?
-
-[19:35] Akmal: Surat tu tender. Ada surat dia tunjuk, tapi masalahnya TYT bercuti, CM pun ada working trip dekat luar negara, jadi...
-
-[19:45] Rafizi: TYT perletakkan peletakan jawatan sebagai Exco dia tidak melibatkan TYT kan?
-
-[19:50] Akmal: Dalam surat tu address kepada TYT.
-
-[19:53] Haziq: Maybe they found the loophole, tak tahu.
-
-[19:55] Akmal: Mungkin ini alasan...
-
-[19:57] Rafizi: Sebab peletakan jawatan daripada kabinet negerilah, sama juga dengan jemaah menteri lah. Yang melantik itu adalah Ketua Menteri ataupun Perdana Menteri. Sudah tentu kita dapat watikah pelantikan itu daripada sama ada TYT ataupun Yang di-Pertuan Agong lah. Tapi peletakan jawatan tu dia samalah kalau ikutnya ialah kepada dialamatkan kepada Perdana Menterilah. So dia letak jawatan ataupun tidak?
-
-[20:27] Akmal: Dia letak, tapi tunggululah kena jumpa TYT dan CM, bincang dulu.
-
-[20:34] Haziq: Tapi dia dah kemas office semua.
-
-[20:35] Akmal: Tapi dah kemas office. Dah kemas office.
-
-[20:37] Rafizi: So mungkinlah kot, budaya Umno ni lain sikitlah, sebab...
-
-[20:41] Akmal: Birokrasi dia banyak sikit.
-
-[20:42] Rafizi: Dia banyak-banyaknya, aku boleh bercakaplah soal letak jawatan. Aku pun letak jawatan. Yang paling berpengalaman. Yang paling berpengalaman letak jawatankan. So, mudah je, tulis letak jawatan, saya ingat, surat tu kalau nak baca pun boleh ada baca kat sini kan. Sebenarnya tulislah, bahawa saya meletakkan jawatan berkuatkuasa dari tarikh ini. Terima kasih. XOXO.
-
-[21:13] Akmal: XOXO. Tak ada XOXO.
-
-[21:16] Rafizi: Jadi lepas itu, dia tak timbul dah soal bincang. Kalau nak bincang, nak dapat pandangan ke, itu sebelum mengeluarkan surat. Kalau surat tu dah keluar, keluarlah. Karena yelah kalau macam ini, Ketua Menteri Melaka pun, Datuk Seri Rauf kan, dia kena fikir jugalah, Dr Akmal ni ada maruah dia. Kalau dia dah buat keputusan, dan itu sesuatu yang penting untuk dia, dan dia ahli politik. Kalau contohnya dia dah hantar surat letak jawatan, lepas tu kita nak pujuk lagi ke, ataupun kita nak suruh dia tukar keputusan tu, yang menanggungnya nanti dia. Jadi lebih baik kalau dah berpisah tu, berpisahlah elok-elok. Kan? Dia jangan pisah rujuk, pisah rujuk nanti. Tapi yelah Umno macam itulah kot, dengan PAS pun pisah rujuk, pisah rujuk kan? Lama-lama nanti jadi bahan troll macam inilah, tak pasal-pasal masuk Beria dan terus menang.
-
-[22:18] Akmal: Tapi tak boleh beat Fuziah lagi.
-
-[22:20] Rafizi: Haha, belum lagilah, belum lagilah. Boleh cuba lagi.
-
-[22:24] Akmal: Dia, macam mana pula kata belum berunding lagi, kekal sebagai Exco, peletakan jawatan belum saya bincang dengan TYT, kan? Tapi sebab kalau dalam surat, okay ini pun kalau dari segi pentadbiran pun kena berhati-hati jugalah. Kalau surat itu dah kata letak jawatan contohnya berkuatkuasa 15 Januari 2026, so maksudnya tapi yelah, Dr Akmal dah memang kosongkan office tak terlibatlah, because kalau pun Ketua Menteri kata masih lagi Exco, kalau dia ambil bahagian ataupun ada keputusan yang bersabit dengan beliau walaupun di peringkat kerajaan negeri kata dia masih Exco tapi surat dia dah letak jawatan, jadi benda tu tak bahayalah kalau ada sebarang keputusan, dia boleh dicabar. So tak apalah Dr Akmal, teruskan.
-
-[23:25] Haziq: Tapi just nak tanya, bila you letak jawatan or send in letter of resignation tu, adakah gaji masih berjalan?
-
-[23:33] Rafizi: No, no, dia bergantung kepada tarikh berkuatkuasalah. Kan, so macam saya letak jawatan dahulu, kalau ikut saya, masa tulah kan, ceploslah, walajiblah, walaunlah, walanonlah, semua dok hentamlah, kata nak letak jawatan, tak letak jawatan, tak letak jawatan lagi kan. Awal-awal tu sebab yelah kita kena fikir pasal negara, kerana masa tu sidang ASEAN dan Kementerian Ekonomi dan saya sendiri ada mempengerusikan satu mesyuarat peringkat Menteri ASEAN. Kerjasama ekonomi ASEAN tu satu, satu bahagian tu memang diketuai oleh Kementerian Ekonomi. Jadi jatuhlah air muka Perdana Menteri, negara kan, apa namanya, dia tengah seronok menjadi Pengerusi ASEAN, tiba-tiba semua orang tahu, "Ooh, Menteri letak jawatan", kan tak cantiklah. Jadi sebab itu, masa saya nak pilih tarikh letak jawatan tu, kita kena ambil kira perkara itulah. Jadi dia kena dilewatkan sampai saya ingat lebih kurang sebulan, tak sampai sebulanlah, 3 minggu kan, 3 minggu. Kemudian kena campur cuti. Cuti yang ada lagi tu dia akan campur. Jadi then you knowlah tarikh perlu berkuatkuasa. Jadi dalam surat itu tulis teruslah you dah kira semua tarikh perlu berkuatkuasa, then lepas itu gaji berhentilah, habis tu gaji berhenti. I think dalam masa seminggu dua minggu tu you kena serah semua. Office dah memang kena kosong on that day. Kemudian kenderaan rasmi kena serah, lepas tu...
-
-[25:15] Akmal: Rumah.
-
-[25:16] Rafizi: Ha, masa tulah aku pun tak fikir panjang, tak terfikir, eh actually aku perlukan rumah. Tak, aku perlukan kereta kan? Kenapa tak ada kereta? Sebab kereta yang dulu dah jual. So bila dah serah tu, dalam seminggu kena serah tu, masa tulah kelang-kabut Alamak, kereta baru tak beli lagi, kemudian rumah tak cari lagi, sebab rumah yang rumah saya yang dekat KL Sentral Bangsar dua-dua dah bagi sewa kat orang, takkan nak halau orang kan. So, Dr Akmal, maksudnya dia dah tak ada keretalah kat sekarang.
-
-[25:50] Akmal: Tapi dia masih menjalankan tugas kan? Sebab tengok report-report tu waktu hari bertemu pelanggan, something macam tu lah.
-
-[26:00] Rafizi: Mungkin sebagai Adun. Sebagai Exco tak silap.
-
-[26:01] Haziq: Saya tak sure.
-
-[26:03] Rafizi: Tak apalah, tak apalah. Kita doakan supaya urusan meletakkan jawatan ini berjalan lancar. Sebab kalau tidak dia masuk Beria lagi. Kalau seminggu dua minggu lagi ada cerita baru, alah kena masuk Beria sekali lagi. Masuk sini terus. Masuk sini terus. Okay.
-
-[26:24] Akmal: Okay, baik. Itu saja. Ah, dah menang. Ah, okaylah. Dah menang. Tahniah, ambil piala kemenangan. Okay, jom. Kita ke standing order YB.
-
-[26:32] Rafizi: Emm, daripada Parlimen kan?
-
-[26:34] Akmal: Ya, ada apa ni maklum balaslah daripada apa yang YB bangkitkan.
-
-[26:38] Rafizi: Yelah, jawapan diberikan di Parlimenlah kan. Jadi, Haziq nak kena cerita apa sebenarnya latar belakangnyalah.
-
-[26:48] Akmal: Emm. Yelah, kita maklum minggu lepas, YB Rafizi ada bangkitkan...
-
-[26:54] Rafizi: Bukan minggu lepas kan, dua minggu...
-
-[26:56] Akmal: Dua minggu yang sudah, minta maaf. Soal fiscal deficit figure negara kita ini ada tak berapa tepatlah. Bahawa kita ada 33 bilion tax refund yang tidak dipulangkan.
-
-[27:10] Rafizi: Itu setakat 2024.
-
-[27:11] Akmal: Setakat 2024. Dan jawapan pun telah diberi oleh Menteri Kewangan Kedua dalam penggulungan Titah Diraja Isnin lepas.
-
-[27:23] Rafizi: Kita dah semak handset semualah. Tapi video tak adalsh, video tak ada.
-
-[27:28] Haziq: Video terlampau panjang. Pembentangan tu selama 45 minit, dan dia punya portion tu I think about 12 minit.
-
-[27:35] Akmal: So, tapi ini sebahagian daripada handset dialah.
-
-[27:38] Rafizi: Ya. Jadi apa jawapan dia?
-
-[27:40] Akmal: Ya, kalau saya boleh buat qout point lah, agak panjang. Antaranya tak wajar disoalkan kerana ikut piawaian antarabangsa, diterima pakai agensi penarafan serta Badan Dunia. Pelaporan ini juga berdasarkan manual statistik kewangan kerajaan yang diguna pakai negara lain. Ketua Audit Negara pun berpendapat penyata kewangan kerajaan beri gambaran yang benar dan saksama. Sistem perakaunan kerajaan berdasarkan asas tunai bukan asing, iaitu amalan standard di negara-negara maju seperti Singapura, Jerman dan banyak lagi. Dan dia update juga sedikitlah tentang figure. Bayaran lebihan cukai yang diselesaikan 2025 adalah tertinggi dalam tempoh 5 tahun, iaitu 22.45 bilion ringgit. Selepas perkara ditimbulkanlah. Dan dalam 3 tahun, kerajaan Madani dah laskan laskan 56 bilion, iaitu dua kali ganda lebih tinggi dari tahun 2020 sehingga 2022, dua kali gandalah kerajaan ini. Dan bayaran balik sebanyak 7.5 bilion dibuat pada Disember 2025, iaitu lebih tinggi daripada komitmen awal PM, iaitu hanya 4 bilion. Dan kes tahun taksiran 2022 telah selesai pada 2025.
-
-[28:56] Rafizi: 3 tahunlah, tahun taksiran 22, 3 tahun baru baru selesai lah.
-
-[29:02] Akmal: Yes. Baik.
-
-[29:03] Rafizi: Jadi, jawapan itu memang saya sangkalah. Itu jawapan pentadbiran. Maksudnya, perkara ini tidak salah, perkara ini menepati piawaian, walaupun sebenarnya itu tidak menceritakan dengan terperinci, nanti saya akan akan huraikan sebentar lagilah. Kerana walaupun negara-negara ada yang mengamalkan cash accounting, memang betul contoh yang diberikan, contohnya Singapura, cash accounting, Netherlands, Germany, Norway lah, negara-negara maju kan. Tapi sebenarnya dia tak apple to apple. Nanti saya akan sebutkan. Kemudian jawapan biasalah, bahawa ini telah diperakukan oleh Ketua Audit Negara, gini-gini kan. Dia kalau kita ambil begini kan, dan dia tak ulas sangat pasal deficit. Kan, dan dia tak ulas sangat pasal hakikatnya bahawa kerajaan sekarang ini mengulangi kesilapan kerajaan semasa zaman Datuk Seri Najib dahulu dengan tidak memulangkan balik bayaran cukai kan. Cuma yang disebut ialah kami sekarang ini sedang berusahalah dan kami dah bayarlah sikit-sikit kan. Okay, baik. Okay, let's take one by one. Utamanya akhirnya kepada soal deficit itu kan. Dan soal deficit ni penting tau, kerana masalah utama negara kita dari segi kewangan dan ekonomi ialah keberhutangan. Dan ini memang masalah orang politik, kerana buat apa nak fikir benda yang bukan masalah aku? Kita sekarang ni hutang dah sampai berapa, 1.3 trilion kan, sampai bayaran untuk membayar faedah tahunan sampai dah jadi 52 bilion dollar ringgit setiap tahun kan. Lebih kurang sama yang kita belanjakan untuk pendidikan, pendidikan dalam 60 bilion lebih, bayar interest 52. Kita berada dalam keadaan ini kerana pimpinan-pimpinan sebelum ini mengambil sikap yang sama. Ini bukan masalah aku. Zaman aku jadi pemerintah, maka aku buatlah apa, asalkan aku kekal berkuasa, asalkan aku nampak cantik, yang mana kita boleh sembunyi semua tu kita buat kan. Kalau kerajaan ini adalah sambungan daripada Umno ke, Bersatu ke, Perikatan Nasional, tak apalah. Dulu pun kita lawan mereka atas sebab urus tadbir kewangan yang kita rasa tidak bertanggungjawab untuk generasi masa depan itulah. Kalau tengok ucapan saya daripada saya rambut tebal sampai sekarang...
-
-[32:00] Haziq: Rambut kau dah tumbuh balik sikit kan?
-
-[32:02] Rafizi: Ya.
-
-[32:03] Haziq: Apa YB buat?
-
-[32:04] Rafizi: Ada, apa hair care product yang you pakai?
-
-[32:07] Haziq: Ya ke kejap?
-
-[32:08] Rafizi: Nampak macam tebal sikit. Tidak meyakinkan. Nampak macam. Nampak, itu macam soalan-soalan administrative jawapan administrative kerajaan. Saya ikut apa yang...
-
-[32:19] Akmal: Haha.
-
-[32:21] Rafizi: Okay, berbalik kepada ini. Daripada zaman aku rambut tebal lagi, memanglah soalan utama ialah kita kena bertanggungjawab dan tidak mewariskan hutang kepada generasi akan datang, sebab cabaran mereka lebih besar daripada kita. Kita dah sebut soal ancaman negara menua, sandwich generation, semua ni kan. Baik eh. Pertama kita nak kena banding berapa yang yang jawapan yang diberikan itu ialah memberikan peratusan, membayar yang lebih baik kan. Kita nak kena banding daripada yelah, data-data yang ada sebelum ini sebenarnya berapa cukai yang kita tak kembalikan kepada rakyat ni. Berapa?
-
-[33:16] Akmal: Tak adalsh, kalau tak sempat check lah kan.
-
-[33:18] Rafizi: Saya dah semak sebenarnya laporan kewangan kedudukan kewangan Kerajaan Persekutuan. Laporan Kewangan Kerajaan Persekutuan, LKKP kan, daripada tahun 2010 eh. Saya ingat kali pertama laporan yang menyatakan dengan jelas bayaran cukai yang tidak dibayar balik kepada kepada rakyat ini, saya ingat dalam tahun 2015, 2016 lah. Sebelum tu tak ada. So, the best that we have ialah antara 2015 sampai sekaranglah, 2024, angka terakhir. At least we have 10 tahunlah kan. Amalan tidak membayar cukai kepada rakyat ini nampaknya memang telah bermula daripada zaman Datuk Seri Najib. So, let me let me try to get the figure. I cannot recall it on top of my head lah. So that kita tak tersasarkan nanti orang kata apa namanya pandai-pandai bagi figure kan. Ha, eh. Tahun 2017 dipanggil refund arrears, maksudnya cukai yang tidak dibayar balik. Cukai rakyat terlebih bayar yang tidak dibayar balik lah kan. Tahun 2017, 34.3 bilion. Kalau diambil dari segi peratusan cukai yang dimasukkan sebagai hasil negara, diisytiharkan sebagai hasil negara, tetapi sebenarnya itu cukai terlebih bayar, itu ialah 19.3% daripada. Maksudnya, masa zaman Najib dulu memang betul lah lagi teruklah. Kan, 19.3% maksudnya kalau dia umum hasil cukai tahun 2017, 177.7 bilion, sebenarnya 19.3% tu memang kena kembalikan kepada rakyat pun, tapi dia tak kembalikan kan. Kemudian tahun 2018 memuncaklah, sebab masa ni dia ada cukai pendapatan yang terlebih bayar dan juga GST yang dia tak kembalikan. Tahun 2018, 44.4 bilion. Masa tu memuncak 25.5%. Dan yelah, kalau kita kata, "Ah, kita lebih baik daripada Najib", kan. Ha, sebab tulah Najib kalah. Kan? Sebab tulah orang marah waktu tu kan. Dan kerajaan PH 1.0 masa saudara Lim Guan Eng jadi Menteri Kewangan berhempas-pulas untuk menyelesaikan masalah itu. Jadi kalau ingat tahun 2019 dahulu, ada ada laporan di PAC, ada semakan dan Petronas, kerajaan terpaksa mengambil special dividend, dividen khas daripada Petronas untuk melangsaikan hutang kerajaan kepada rakyat dalam bentuk cukai yang tak boleh dibayar kan. Jadi tahun 2020 benda tu dah dah dah turun dah, daripada yang memuncak tahun 44.4 bilion 2018, dia dah turun kepada 14.6 tahun 2020. Kemudian dia naik balik. Ha, dia naik balik 21.8, 25.7, 25.5, dan 2024, 38.3. 33.3 bilion dan setakat 2024 peratusan itu dah naik balik sedikit demi sedikit dia dah jadi 14%. Now. Datuk Seri Amir Hamzah kata benda ni benda biasa, sebab ha yang ini kadang-kadang kepada pegawai-pegawai yang menyediakan soalan, saya tahulah, kita nak yang yang yang menyediakan jawapan kan. Kita memanglah nak cover menteri kita, supaya menteri kita tu nampak tak tercongat-congat menjawab ataupun boleh selesaikan soalan-soalan kan. Tapi berhati-hati, jangan bagi jawapan yang sebenarnya tidak tepat ataupun mengelirukan dewan, ataupun nampak tujuannya ialah untuk menutup hakikat sebenar. Sebab itu bila Datuk Seri Amir Hamzah bagi contoh, ini benda biasa dan negara-negara lain yang maju macam Singapura, macam Germany, macam Netherlands, macam Norway pun, seolah-olah pun macam ini kan. Yang itu sebenarnya salah fakta, tidak tepat, dan saya rasa kalalah saya pembangkang daripada Bersatu atau PAS, tidak bangun, berniat jahat, sangkaan jahat, kerana tidak memberikan gambaran yang betul. Pertama, keadaannya walaupun secara umumlah setiap negara itu memilih sama ada dia buat accrual accounting ataupun cash accounting. Memang betul contoh yang diberikan, contohnya Singapura, cash accounting, Netherlands, Germany, Norway lah negara-negara maju kan. Tapi sebenarnya dia tak apple to apple. Nanti saya akan sebut kan. Kemudian jawapan biasalah bahawa ini telah diperakukan oleh Ketua Audit Negara, gini-gini. Dia kalau kita ambil begini kan, dan dia tak ulas sangat pasal deficit. Kan, dan dia tak ulas sangat pasal hakikatnya bahawa kerajaan sekarang ini mengulangi kesilapan kerajaan semasa zaman Datuk Seri Najib dahulu dengan tidak memulangkan balik bayaran cukai kan. Cuma yang disebut ialah kami sekarang ini sedang berusahalah dan kami dah bayarlah sikit-sikit kan. Okay, baik. Okay, let's take one by one. Utamanya akhirnya kepada soal deficit itu kan. Dan soal deficit ni penting tau, kerana masalah utama negara kita dari segi kewangan dan ekonomi ialah keberhutangan. Dan ini memang masalah orang politik, kerana buat apa nak fikir benda yang bukan masalah aku? Kita sekarang ni hutang dah sampai berapa, 1.3 trilion kan, sampai bayaran untuk membayar faedah tahunan sampai dah jadi 52 bilion dollar ringgit setiap tahun kan. Lebih kurang sama yang kita belanjakan untuk pendidikan, pendidikan dalam 60 bilion lebih, bayar interest 52. Kita berada dalam keadaan ini kerana pimpinan-pimpinan sebelum ini mengambil sikap yang sama. Ini bukan masalah aku. Zaman aku jadi pemerintah, maka aku buatlah apa, asalkan aku kekal berkuasa, asalkan aku nampak cantik, yang mana kita boleh sembunyi semua tu kita buat kan. Kalau kerajaan ini adalah sambungan daripada Umno ke, Bersatu ke, Perikatan Nasional, tak apalah. Dulu pun kita lawan mereka atas sebab urus tadbir kewangan yang kita rasa tidak bertanggungjawab untuk generasi masa depan itulah. Kalau tengok ucapan saya daripada saya rambut tebal sampai sekarang...
-
-[48:00] Haziq: Tapi YB, if I can play devil's advocate one last time lah before kita move on to the next topic.
-
-[48:05] Rafizi: Boleh.
-
-[48:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[56:00] Akmal: Tapi YB, berbalik kepada pelaksanaan pemulangan cukai ni, apa pilihan yang kerajaan ada pun? Satu, rock the boat dan secara radikal bayar balik semua. Atau kedua, secara bertingkat-tingkat, secara bertingkat-tingkat bayar tingkatkan bayaran tu dari tahun ke tahun macam mana dibuat sekarang?
-
-[56:18] Rafizi: Sebab itu sebenarnya kalau kita nak menjadi lebih baik kan, okelah ini mungkin sangat kontroversilah kan. Pemenang Nobel Anugerah Nobel tahun ini ke tahun lepas? I think tahun lepas kot kan. Dia punya study to field of study dia, cuba tengok, pemenang creative destruction. Siapa yang dia menang tahun bila? Ada tiga orang economists yang menang Nobel Prize atas kerja mereka creative destruction kan, tahun bila?
-
-[56:55] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[56:58] Rafizi: Okay ya. Sebab itu memang proses kita sebagai manusia yang kita kena melalui kepayahan
-
-[57:08] Rafizi: dalam melalui kepayahan itulah baru kita belajar untuk baiki benda yang sebelum ini kita tak nak terima hakikat ataupun kita rasa susah. So kalau ambil contoh, kitalah sebagai manusia, keluarga kan, kalau kita tak cukup uang kan, apa kita buat?
-
-[57:33] Akmal: Kerja, tambah pendapatan.
-
-[57:34] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[57:36] Haziq: Cut spending.
-
-[57:37] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah. Cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[01:00:30] Haziq: But, but actually, sorry I just want to add lah, because it seems to me yang fiscal reform, fiscal discipline ni satu benda hot potato yang no government akan tak touch. Sebab time Najib, they say everything is okay. Now, like you said, coming to 1 and a half years of elections, lebih banyak akan ditabor. It's a hot potato yang takkan resolve.
-
-[01:00:54] Rafizi: Well, to be fair lah, to be fair. Saya ingat berbanding dengan kerajaan-kerajaan sebelum ini, I mean sebelum 2018 lah, zaman Datuk Seri Najib apa. To be fair saya ingat preoccupation dan juga naratif kerajaan Madani sejak tiga tahun sebelum ini ialah fiscal discipline. Paling kurang bercakaplah pasal fiscal discipline. Strateginya pun kita memang dah bincang dan dari segi resolve itu lebih baik berbanding dengan kerajaan-kerajaan sebelum inilah. Maksudnya penyasaran semula subsidi, memang itu memang jadi tumpuan kan. Cuma sekarang ini dia dah masuk ke peringkat pelaksanaan. Bila masuk peringkat pelaksanaan tu, bila kita lari skrip, lepas satu-satu kita lari skrip, yang itu yang saya perlu bersuara. Sebab plan-nya bagus. Naratif yang kita bina awal-awal dulu 2023, 2024, yang itulah yang disambut oleh pasaran, oleh pelabur semua.
-
-[01:01:46] Haziq: Siling lantai.
-
-[01:01:47] Rafizi: Ha, siling lantai. Berapa pulak dah? I mean naratif ekonomi Madani yang...
-
-[01:01:52] Akmal: Pasaran dia tak peduli sangat pun siling lantai engkau tu.
-
-[1:01:55] Rafizi: Haha. Dia nak tengok sama ada kerajaan berdisiplin atau tidak membelanjakan wang rakyat tu je. Dia tengok deficit, dia tengok kadar keberhutangan kita, dia tengok sama ada financially, public finance ni sustainable ke tidak kan. Jadi to say that mana-mana kerajaan pun tidak akan pergi dekat dengan soal fiscal discipline pun, saya rasa tak adillah kan. Because to be fair, this government is perhaps yang paling focus kepada fiscal discipline, trying to do it. Tetapi bila dia water down-lah ataupun bila dia tergelincirlah. Dan itu tugas orang macam sayalah untuk angkat bendera merah kata, you know, you are off track. Sebab kalau betul-betul berterusan seperti ini, dan kalau bertukar kerajaan, maka kita memberi modal dan juga alasan kepada kerajaan yang baru itu untuk tidak pergi dekat pun pasal fiscal discipline. Kerana fiscal discipline nanti akan jadi the T-word. Kepada rakyat pun kalau sebut fiscal discipline, rakyat kata, "Alah, hari ini dulu ni kerajaan Madani Anwar Ibrahim fiscal discipline. Ah tengok jadi macam tu. Pasaran pun kata, "Alah, pumpang pumpang pumpang ah, sebenarnya macam ini." So sebab itu, it is not about this government, bukan pasal soal Anwar Ibrahim atau Amir Hamzah, actually is for the nation. And we must hold them accountable and stay on course, walaupun benda itu pahit untuk ditelan. Itu je sebenarnya perbezaan utama yang saya selalu jadi hate figure dalam kerajaan sebelum ini pun. Dia soal, "Eh, kalau ikut engkau ni, kalahlah kita election. Kalau ikut kepala kau, matilah kita." Well, we are a reform government. And janji kita ialah bila kita masuk, kita akan cuba memperbaiki seberapa banyak yang boleh, terutamanya masalah-masalah rumit yang macam paan kata orang lain tak nak pergi dekat. After all, this is supposed to be a turnaround government. You masuk, you fix the turnaround. Tak kisahlah orang berterima kasih ke tidak. One day, one day people will look back and cakap, "Whatever you say about them lah, they fix this problem. You may like them or you may not like them, tapi kalau mereka tak buat benda ni masa itu, walau pun kena maki, kita tak tak berada dalam keadaan sekarang. And actually, banyak kerajaan-kerajaan di negara-negara lain yang melalui zaman sukar. Itu saya bagi contoh, kalau di UK kan, di UK, NHS yang ada sekarang ni kan, NHS ni sebelum zaman sekaranglah, zaman 80-an, 90-an, NHS, National Health Service, adalah gold standard perkhidmatan kesihatan di dunia. Kerana perkhidmatan orang tak payah bayar, semua percuma kan? Actually kerajaan mana yang buat NHS ni? Labour? Labour kerajaan mana? Parti Buruh zaman siapa? Selepas Winston Churchill kalah tu rasanya. Pandanlah kau. Betullah, betul. Tapi sebut sekarang tahu betul tak? Tak ingatlah. Dia sebenarnya selepas Perang Dunia Kedua. Okay. Kita ingat kalau Perdana Menteri UK, British Prime Minister yang selalu kita ingat, kita ingat Winston Churchill, lagi siapa lagi? Margaret Thatcher, lagi siapa lagi? Liz Truss, sebab paling singkat. Liz Truss, lagi? Cameron. Cameron, go on untuk terlalu mudalah. Yang zaman-zaman 60-an, zaman 70-an dulu siapa dia? Kau memang tak ingatlah kan? Tak wujud lagi. Actually itu di bawah kerajaan Clement Attlee. Ada orang ingat kalau pergi tanya budak-budak British sekarang pun, tanya dia pasal Clement Attlee dan dia di bawah seorang yang bernama Aneurin Bevan. Siapa ingat Aneurin Bevan sekarang? Tak ada orang ingat, pergilah tanya Aneurin Bevan, "Who is Bevan?" Clement Attlee pun dia tak ingat, sebab Clement Attlee ni dull. Kan, dia nak banding zaman dia Labour ialah Clement Attlee, dull, nak melawan Churchill. So Churchill kalah 1945, and then Churchill menang balik. So dia satu term je tahu. Satu term government. And after Clement Attlee untuk 5 tahun lepas Perang Dunia Kedua tu kan, it took Labour another 15 years sebelum masuk ke kerajaan. Harold Wilson hanya came in 1965, 66 I think, lebih kurang 15, 16 tahun tahu lepas Clement Attlee, Churchill, lepas Churchill I think Anthony Eden, or Harold MacMillan, aku lupa. Ada 3, 4 lagi Tory Prime Minister sebelum Labour balik. But, satu-satunya institusi yang paling ada kesan besar kepada Britain, kepada rakyat ialah NHS yang ditubuhkan oleh seorang yang orang tak ingat pun, hanya kalau orang semak baru tahu, there is this guy bernama Aneurin Bevan. Dan dia di bawah Clement Attlee. Saya mungkin romantiklah. Maybe people say, "Ah ikut kepala kau, memang tak bertahanlah kerajaan tu, kalahlah kerajaan tu." Because I remember kita duduk lawan daripada dulu reformasi semua, that was my romanticism. Sama ada lama ke tidak berkuasa, menang kalah, itu serahkan kepada Allahlah. We need to go in and fix the generational structural problem. Because one day, people will remember that lah. Yang saya kritik sekarang ialah ada tanda-tanda kita tak nak buat macam tulah. Dia sekarang ni pasal survival mode. Survival mode ni kita akan kata, "Ish, kalau kita tak buat ni, nanti kalah kita." Dan banyaklah ceplosnya orang di sekelilingnya yang dok lambong, dok lambong. Sebab itu saya timbulkan, supaya because it's a lot more than just soal fiscal deficit. Ini soal our intention to govern. Ini soal niat kita menjadi kerajaan ini.
-
-[01:07:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[01:07:05] Rafizi: Boleh.
-
-[01:07:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[01:07:28] Rafizi: Emm. Sebab tu dia kembali kepada soal niat kita nak jadi kerajaan tadi. kan? Yelah, saya rasa kita ada standard yang berbeza-beza kan, I mean saya fahamlah orang tak setuju dengan my standard. But don't blame me for wanting something much better. Kalau standard expectation kita, tugas kerajaan itu hanya menguruskan, dan cukup-cukuplah kita okaylah, nak kata rating kita kena upgrade pun tidak, kan? Rating kita bertahan, menokok sedikit sahaja. Is it good? Is better than previous ones. Tapi kalau nak banding dengan previous ones mampuslah, kita suruh better lah. Tapi adakah dengan rating itu akan membolehkan kita memotong balik our peers, Vietnam, Singapore, kita jadi negara maju, kita letak di landasan yang baik untuk 20 tahun akan datang? Itu belum sampai lagi, kan? Jadi sebab itu niat kita, we have to ask the question, adakah yang kita ada ini kita berpuas hati? Ini yang masalah dengan bila politik ni very polarized. Sebab kepada penyokong PH kan, dia tak boleh sentuh langsung tahu, sebab dia takut kalah. Kenapa saya jadi sasaran utama kena maki oleh penyokong-penyokong PKR dan PH ni, keluar habis profesor tak profesor nyer maki aku? Yang akan datang pulak? Ha, yang akan datang lepas ni, ialah kerana dia takut dengan kritikan-kritikan Rafizi ni kalah PH nanti. Sebab dia dah macam de facto opposition, dia macam dah de facto pembangkang. Benda-benda yang pembangkang tak tersecap akal untuk timbulkan, dia dok tunjuk kan. Dan saya ingat mereka pun tahu, dulu-dulu masa kita dok tumpu kritik kerajaan zaman Najib dulu, jatuh Najib. Kan? Jadi, bila dia dah jadi polarized, dan dia jadi partisan sangat kan, dia tak fikir dah tentang kesannya kepada jangka panjang. Niat kita, kita nak kerajaan ini bukan sahaja baik, tetapi jauh lebih baik daripada yang ada supaya hasil 20, 30 tahun jerit reformasi ni, hasilnya itu ada kesan yang cukup panjang kepada generasi masa depan. That's what I want. Kan? Jadi, kalau contohnya kerajaan, Datuk Seri Anwar, Kementerian Kewangan, kerajaan-kerajaan yang ada ni kan, dengan kritikan saya, dia mendengar dan dia menambah baik, then okelah. Dia akan menang dan keadaan negara menjadi lebih baik, kan? Tapi kebimbangan saya dia tak nampak ke arah itulah kan. Jadi sebab itu kita sementara bagus ada prestasi-prestasi yang disebut, tapi dalam kerajaan dulu pun kita sebut juga bahwa dia ada perkara yang nampak kosmetik, dia ada perkara yang signal awal daripada pasaran, dia juga ada perkara yang mesti melibatkan perubahan struktur, yang kita tak nampak lagi ni ialah perubahan struktur. Jadi bila tak ada perubahan struktur yang mendadak, yang ada kesan jangka panjang, maka angka yang cantik ataupun rating ataupun pengukuhan bursa, benda itu tak tentu akan kekal lama. Dan kalau bertukar kerajaan, maka kita memberi modal dan juga alasan kepada kerajaan yang baru itu untuk tidak pergi dekat pun pasal fiscal discipline. Kerana fiscal discipline nanti akan jadi the T-word. Kepada rakyat pun kalau sebut fiscal discipline, rakyat kata, "Alah, hari ini dulu ni kerajaan Madani Anwar Ibrahim fiscal discipline. Ah tengok jadi macam tu. Pasaran pun kata, "Alah, pumpang pumpang pumpang ah, sebenarnya macam ini." So sebab itu, it is not about this government, bukan pasal soal Anwar Ibrahim atau Amir Hamzah, actually is for the nation. And we must hold them accountable and stay on course, walaupun benda itu pahit untuk ditelan. Itu je sebenarnya perbezaan utama yang saya selalu jadi hate figure dalam kerajaan sebelum ini pun. Dia soal, "Eh, kalau ikut engkau ni, kalahlah kita election. Kalau ikut kepala kau, matilah kita." Well, we are a reform government. And janji kita ialah bila kita masuk, kita akan cuba memperbaiki seberapa banyak yang boleh, terutamanya masalah-masalah rumit yang macam paan kata orang lain tak nak pergi dekat. After all, this is supposed to be a turnaround government. You masuk, you fix the turnaround. Tak kisahlah orang berterima kasih ke tidak. One day, one day people will look back and cakap, "Whatever you say about them lah, they fix this problem. You may like them or you may not like them, tapi kalau mereka tak buat benda ni masa itu, walau pun kena maki, kita tak tak berada dalam keadaan sekarang. And actually, banyak kerajaan-kerajaan di negara-negara lain yang melalui zaman sukar. Itu saya bagi contoh, kalau di UK kan, di UK, NHS yang ada sekarang ni kan, NHS ni sebelum zaman sekaranglah, zaman 80-an, 90-an, NHS, National Health Service, adalah gold standard perkhidmatan kesihatan di dunia. Kerana perkhidmatan orang tak payah bayar, semua percuma kan? Actually kerajaan mana yang buat NHS ni? Labour? Labour kerajaan mana? Parti Buruh zaman siapa? Selepas Winston Churchill kalah tu rasanya. Pandanlah kau. Betullah, betul. Tapi sebut sekarang tahu betul tak? Tak ingatlah. Dia sebenarnya selepas Perang Dunia Kedua. Okay. Kita ingat kalau Perdana Menteri UK, British Prime Minister yang selalu kita ingat, kita ingat Winston Churchill, lagi siapa lagi? Margaret Thatcher, lagi siapa lagi? Liz Truss, sebab paling singkat. Liz Truss, lagi? Cameron. Cameron, go on untuk terlalu mudalah. Yang zaman-zaman 60-an, zaman 70-an dulu siapa dia? Kau memang tak ingatlah kan? Tak wujud lagi. Actually itu di bawah kerajaan Clement Attlee. Ada orang ingat kalau pergi tanya budak-budak British sekarang pun, tanya dia pasal Clement Attlee dan dia di bawah seorang yang bernama Aneurin Bevan. Siapa ingat Aneurin Bevan sekarang? Tak ada orang ingat, pergilah tanya Aneurin Bevan, "Who is Bevan?" Clement Attlee pun dia tak ingat, sebab Clement Attlee ni dull. Kan, dia nak banding zaman dia Labour ialah Clement Attlee, dull, nak melawan Churchill. So Churchill kalah 1945, and then Churchill menang balik. So dia satu term je tahu. Satu term government. And after Clement Attlee untuk 5 tahun lepas Perang Dunia Kedua tu kan, it took Labour another 15 years sebelum masuk ke kerajaan. Harold Wilson hanya came in 1965, 66 I think, lebih kurang 15, 16 tahun tahu lepas Clement Attlee, Churchill, lepas Churchill I think Anthony Eden, or Harold MacMillan, aku lupa. Ada 3, 4 lagi Tory Prime Minister sebelum Labour balik. But, satu-satunya institusi yang paling ada kesan besar kepada Britain, kepada rakyat ialah NHS yang ditubuhkan oleh seorang yang orang tak ingat pun, hanya kalau orang semak baru tahu, there is this guy bernama Aneurin Bevan. Dan dia di bawah Clement Attlee. Saya mungkin romantiklah. Maybe people say, "Ah ikut kepala kau, memang tak bertahanlah kerajaan tu, kalahlah kerajaan tu." Because I remember kita duduk lawan daripada dulu reformasi semua, that was my romanticism. Sama ada lama ke tidak berkuasa, menang kalah, itu serahkan kepada Allahlah. We need to go in and fix the generational structural problem. Because one day, people will remember that lah. Yang saya kritik sekarang ialah ada tanda-tanda kita tak nak buat macam tulah. Dia sekarang ni pasal survival mode. Survival mode ni kita akan kata, "Ish, kalau kita tak buat ni, nanti kalah kita." Dan banyaklah ceplosnya orang di sekelilingnya yang dok lambong, dok lambong. Sebab itu saya timbulkan, supaya because it's a lot more than just soal fiscal deficit. Ini soal our intention to govern. Ini soal niat kita menjadi kerajaan ini.
-
-[01:18:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[01:18:02] Rafizi: Hah, ya ke?
-
-[01:18:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[01:18:07] Rafizi: Dia dah buat podcast sendiri.
-
-[01:18:08] Akmal: Oh, dia dah buat, ya ke?
-
-[01:18:10] Rafizi: Ya, ya, ya.
-
-[01:18:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[01:18:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[01:18:38] Akmal: Industri pencegahan rasuah.
-
-[01:18:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[01:18:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[01:18:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[01:18:57] Akmal: Back-end?
-
-[01:18:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[01:19:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[01:19:35] Akmal: Yes, yes, yes.
-
-[01:19:36] Rafizi: Adakah itu...
-
-[01:19:38] Akmal: Ya, ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[01:19:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath.
-
-[01:19:53] Rafizi: Ah, aftermath.
-
-[01:19:54] Haziq: Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[01:20:41] Haziq: So back to square one lah?
-
-[01:23:05] Akmal: Okay. Yang ini pun kena berhati-hati tahu. Yang ini mungkin sangat kontroversilah kan. Pemenang Nobel, Anugerah Nobel tahun ini ke tahun lepas? I think tahun lepas kot kan. Dia punya study, the field of study dia, cuba tengok. Pemenang creative destruction. Siapa yang dia menang tahun bila? Ada tiga orang economists yang menang Nobel Prize atas kerja mereka creative destruction kan, tahun bila?
-
-[01:23:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[01:23:53] Rafizi: Okay ya, sebab itu memang proses kita sebagai manusia yang kita kena melalui kepayahan dalam melalui kepayahan itulah baru kita belajar untuk baiki benda yang sebelum ini kita tak nak terima hakikat ataupun kita rasa susah. So kalau ambil contoh, kitalah sebagai manusia, keluarga kan, kalau kita tak cukup uang kan, apa kita buat?
-
-[01:24:26] Akmal: Kerja, tambah pendapatan.
-
-[01:24:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[01:24:31] Haziq: Cut spending.
-
-[01:24:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[01:27:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[01:27:05] Rafizi: Boleh.
-
-[01:27:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[01:38:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[01:38:02] Rafizi: Hah, ya ke?
-
-[01:38:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[01:38:07] Rafizi: Dia dah buat podcast sendiri.
-
-[01:38:08] Akmal: Oh, dia dah buat, ya ke?
-
-[01:38:10] Rafizi: Ya, ya, ya.
-
-[01:38:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[01:38:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[01:38:38] Akmal: Industri pencegahan rasuah.
-
-[01:38:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[01:38:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[01:38:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[01:38:57] Akmal: Back-end?
-
-[01:38:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[01:39:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[01:39:09] Rafizi: Mentang-mentanglah sekarang ni baca pasal semiconductor kan. Tak, oh so you mean sebenarnya dia bukanlah nak kata back-end, front-end. Dia sebenarnya maksudnya yang ditumpukan sekarang ini ialah aftermath. ataupun kalau sakitlah kan between the root cause ataupun prevention and cure lah. And you spend more time on on cure, menangkap ini adalah cure lah.
-
-[01:39:35] Akmal: Yes, yes, yes.
-
-[01:39:36] Rafizi: Adakah itu...
-
-[01:39:38] Akmal: Ya, ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[01:39:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath.
-
-[01:39:53] Rafizi: Ah, aftermath.
-
-[01:39:54] Haziq: Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[01:40:06] Rafizi: Yelah, kita kena terus bersuaralah, kan. Sebab itu kebimbangan sayalah. Dan saya dapat angka terbaru setiap bulan kan. Angka Januari menunjukkan bahawa kebimbangan ataupun ketidakpuasan hati mengenai rasuah telah menjadi isu nombor satu di negara ini di kalangan pengundi mengatasi masalah ekonomi pun.
-
-[01:40:41] Haziq: So back to square one lah?
-
-[01:40:43] Rafizi: Back to square one lah, kita kan back to square one. Jadi, tindak balas daripada kerajaan, saya tak tahulah apa yang mereka bincangkan. Tindak balas daripada kerajaan ialah kita tangkap lagi ramai orang, kita tangkap lagi ramai orang, kita tunjukkan Tan Sri Azam Baki ini layak untuk disambung satu tahun lagi kerana dialah yang paling berani, dia tangkap semua orang kan. Tapi angka itu tak beranjak, malah menjadi lebih teruk tahu dari satu bulan ke satu bulan. Dan hipotesis sayalah ialah kerana rakyat tak bodoh. Sebab itu saya timbulkan soalan yang saya tanya tentang saringan tapisan dan juga kelulusan SPRM itu kerana kita ada berjuta penjawat awam yang dalam polis ke, tentera ke, pegawai kerajaan ke, malah untuk jawatan-jawatan board kan, GLC semua ni semua ditapis oleh SPRM. Apa yang tidak disebut selama ini sebab itu berlaku cynicism, sebab itu rakyat kita ni dia cynical tau bila jadi-jadi tangkap sana sini semua. Sebab dia tahu engkau juga yang melantik. Engkau juga yang tapis. Dia tahu prosesnya ialah sebelum seseorang itu dilantik, hatta untuk naik pangkat biasa pun jawatan biasa kat bawah, apatah lagi untuk jawatan seperti Panglima Angkatan Tentera ke, Ketua Pengarah sana sini kan. Dia tahu sebenarnya ada berlaku proses tapisan dan perlu mendapat tapisan dan kelulusan daripada SPRM. Jadi apa yang kamu tapisnya? Jadi sebab itu, kalau tengok komen-komen, saya selalunya bila buat content, sebahagian daripadanya ialah untuk menyampaikan maklumat itu. Sebahagiannya ialah saya nak tengok reaksi. Dan reaksi yang datang itu sebenarnya kita boleh tengok sebenarnya jenis orang macam mana, sama ada dia ni ceplos ke, walaun ke, walanon ke, walajib ke kan. Banyak yang komen itu ialah daripada orang biasa, sebab dia pun cikgu, dia pun pegawai biasa. Sebab tu pandangannya ialah alah, cukup syarat sahajalah. Dia luluskan itu sebenarnya kalau geng-geng dia lulus ataupun dia buat tak tahu sahaja kan. Jadi, dia satu kerugian kepada negaralah kan.
-
-[01:43:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[01:44:26] Akmal: Kerja, tambah pendapatan.
-
-[01:44:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[01:44:31] Haziq: Cut spending.
-
-[01:44:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[01:47:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[01:47:05] Rafizi: Boleh.
-
-[01:47:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[01:58:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[01:58:02] Rafizi: Hah, ya ke?
-
-[01:58:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[01:58:07] Rafizi: Dia dah buat podcast sendiri.
-
-[01:58:08] Akmal: Oh, dia dah buat, ya ke?
-
-[01:58:10] Rafizi: Ya, ya, ya.
-
-[01:58:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[01:58:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[01:58:38] Akmal: Industri pencegahan rasuah.
-
-[01:58:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[01:58:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[01:58:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[01:58:57] Akmal: Back-end?
-
-[01:58:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[01:59:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[01:59:35] Akmal: Yes, yes, yes.
-
-[01:59:36] Rafizi: Adakah itu...
-
-[01:59:38] Akmal: Ya, ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[01:59:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath.
-
-[01:59:53] Rafizi: Ah, aftermath.
-
-[01:59:54] Haziq: Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:00:41] Haziq: So back to square one lah?
-
-[02:03:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:04:26] Akmal: Kerja, tambah pendapatan.
-
-[02:04:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:04:31] Haziq: Cut spending.
-
-[02:04:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:07:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:07:05] Rafizi: Boleh.
-
-[02:07:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:18:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:18:02] Rafizi: Hah, ya ke?
-
-[02:18:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:18:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:18:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:18:10] Rafizi: Ya, ya, ya.
-
-[02:18:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:18:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:18:38] Akmal: Industri pencegahan rasuah.
-
-[02:18:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:18:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:18:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:18:57] Akmal: Back-end?
-
-[02:18:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:19:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-[0
-
-[02:19:15] Rafizi: ...dia sebenarnya maksudnya yang ditumpukan sekarang ini ialah aftermath. Atau pun kalau sakitlah kan, between the root cause ataupun prevention and cure lah. And you spend more time on cure. Menangkap ini adalah cure lah.
-
-[02:19:35] Akmal: Yes, yes, yes.
-
-[02:19:36] Rafizi: Adakah itu...
-
-[02:19:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:19:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:20:41] Haziq: So back to square one lah?
-
-[02:23:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:24:26] Akmal: Kerja, tambah pendapatan.
-
-[02:24:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:24:31] Haziq: Cut spending.
-
-[02:24:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:27:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:27:05] Rafizi: Boleh.
-
-[02:27:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[01:38:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[01:38:02] Rafizi: Hah, ya ke?
-
-[01:38:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[01:38:07] Rafizi: Dia dah buat podcast sendiri.
-
-[01:38:08] Akmal: Oh, dia dah buat, ya ke?
-
-[01:38:10] Rafizi: Ya, ya, ya.
-
-[01:38:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[01:38:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[01:38:38] Akmal: Industri pencegahan rasuah.
-
-[01:38:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[01:38:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[01:38:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[01:38:57] Akmal: Back-end?
-
-[01:38:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[01:39:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[01:39:09] Rafizi: Mentang-mentanglah sekarang ni baca pasal semiconductor kan. Tak, oh so you mean sebenarnya dia bukanlah nak kata back-end, front-end, dia sebenarnya maksudnya yang ditumpukan sekarang ini ialah aftermath. Atau pun kalau sakitlah kan, between the root cause ataupun prevention and cure lah. And you spend more time on cure. Menangkap ini adalah cure lah.
-
-[01:39:35] Akmal: Yes, yes, yes.
-
-[01:39:36] Rafizi: Adakah itu...
-
-[01:39:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[01:39:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[01:40:06] Rafizi: Yelah, kita kena terus bersuaralah, kan. Sebab itu kebimbangan sayalah. Dan saya dapat angka terbaru setiap bulan kan. Angka Januari menunjukkan bahawa kebimbangan ataupun ketidakpuasan hati mengenai rasuah telah menjadi isu nombor satu di negara ini di kalangan pengundi, mengatasi masalah ekonomi pun.
-
-[01:40:41] Haziq: So back to square one lah?
-
-[01:40:43] Rafizi: Back to square one lah. Kita kan back to square one. Jadi, tindak balas daripada kerajaan, saya tak tahulah apa yang mereka bincangkan. Tindak balas daripada kerajaan ialah kita tangkap lagi ramai orang, kita tangkap lagi ramai orang, kita tunjukkan Tan Sri Azam Baki ini layak untuk disambung satu tahun lagi kerana dialah yang paling berani, dia tangkap semua orang kan. Tapi angka itu tak beranjak, malah menjadi lebih teruk tahu dari satu bulan ke satu bulan. Dan hipotesis sayalah ialah kerana rakyat tak bodoh. Sebab itu saya timbulkan soalan yang saya tanya tentang saringan tapisan dan juga kelulusan SPRM itu kerana kita ada berjuta penjawat awam yang dalam polis ke, tentera ke, pegawai kerajaan ke, malah untuk jawatan-jawatan board kan, GLC semua ni semua ditapis oleh SPRM. Apa yang tidak disebut selama ini, sebab itu berlaku cynicism, sebab itu rakyat kita ni dia cynical tau bila jadi-jadi tangkap sana sini semua. Sebab dia tahu engkau juga yang melantik. Engkau juga yang tapis. Dia tahu prosesnya ialah sebelum seseorang itu dilantik, hatta untuk naik pangkat biasa pun, jawatan biasa kat bawah, apatah lagi untuk jawatan seperti Panglima Angkatan Tentera ke, Ketua Pengarah sana sini kan. Dia tahu sebenarnya ada berlaku proses tapisan dan perlu mendapat tapisan dan kelulusan daripada SPRM. Jadi apa yang kamu tapisnya? Jadi sebab itu, kalau tengok komen-komen, saya selalunya bila buat content, sebahagian daripadanya ialah untuk menyampaikan maklumat itu. Sebahagiannya ialah saya nak tengok reaksi. Dan reaksi yang datang itu sebenarnya kita boleh tengok sebenarnya jenis orang macam mana, sama ada dia ni ceplos ke, walaun ke, walanon ke, walajib ke kan. Banyak yang komen itu ialah daripada orang biasa, sebab dia pun cikgu, dia pun pegawai biasa. Sebab tu pandangannya ialah alah, cukup syarat sahajalah. Dia luluskan itu sebenarnya kalau geng-geng dia lulus ataupun dia buat tak tahu sahaja kan. Jadi, dia satu kerugian kepada negaralah kan.
-
-[01:43:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[01:44:26] Akmal: Kerja, tambah pendapatan.
-
-[01:44:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[01:44:31] Haziq: Cut spending.
-
-[01:44:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[01:47:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[01:47:05] Rafizi: Boleh.
-
-[01:47:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[01:58:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[01:58:02] Rafizi: Hah, ya ke?
-
-[01:58:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[01:58:07] Rafizi: Dia dah buat podcast sendiri.
-
-[01:58:08] Akmal: Oh, dia dah buat, ya ke?
-
-[01:58:10] Rafizi: Ya, ya, ya.
-
-[01:58:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[01:58:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[01:58:38] Akmal: Industri pencegahan rasuah.
-
-[01:58:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[01:58:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[01:58:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[01:58:57] Akmal: Back-end?
-
-[01:58:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[01:59:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[01:59:35] Akmal: Yes, yes, yes.
-
-[01:59:36] Rafizi: Adakah itu...
-
-[01:59:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[01:59:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:00:41] Haziq: So back to square one lah?
-
-[02:03:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:04:26] Akmal: Kerja, tambah pendapatan.
-
-[02:04:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:04:31] Haziq: Cut spending.
-
-[02:04:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:07:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:07:05] Rafizi: Boleh.
-
-[02:07:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:18:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:18:02] Rafizi: Hah, ya ke?
-
-[02:18:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:18:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:18:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:18:10] Rafizi: Ya, ya, ya.
-
-[02:18:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:18:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:18:38] Akmal: Industri pencegahan rasuah.
-
-[02:18:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:18:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:18:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:18:57] Akmal: Back-end?
-
-[02:18:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:19:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:19:35] Akmal: Yes, yes, yes.
-
-[02:19:36] Rafizi: Adakah itu...
-
-[02:19:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:19:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:20:41] Haziq: So back to square one lah?
-
-[02:23:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:24:26] Akmal: Kerja, tambah pendapatan.
-
-[02:24:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:24:31] Haziq: Cut spending.
-
-[02:24:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:27:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:27:05] Rafizi: Boleh.
-
-[02:27:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:37:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:37:02] Rafizi: Hah, ya ke?
-
-[02:37:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:37:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:37:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:37:10] Rafizi: Ya, ya, ya.
-
-[02:37:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:37:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:37:38] Akmal: Industri pencegahan rasuah.
-
-[02:37:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:37:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:37:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:37:57] Akmal: Back-end?
-
-[02:37:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:38:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:38:35] Akmal: Yes, yes, yes.
-
-[02:38:36] Rafizi: Adakah itu...
-
-[02:38:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:38:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:39:41] Haziq: So back to square one lah?
-
-[02:42:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:43:26] Akmal: Kerja, tambah pendapatan.
-
-[02:43:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:43:31] Haziq: Cut spending.
-
-[02:43:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:46:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:46:05] Rafizi: Boleh.
-
-[02:46:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:57:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:57:02] Rafizi: Hah, ya ke?
-
-[02:57:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:57:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:57:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:57:10] Rafizi: Ya, ya, ya.
-
-[02:57:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:57:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:57:38] Akmal: Industri pencegahan rasuah.
-
-[02:57:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:57:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:57:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:57:57] Akmal: Back-end?
-
-[02:57:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:58:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:58:35] Akmal: Yes, yes, yes.
-
-[02:58:36] Rafizi: Adakah itu...
-
-[02:58:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:58:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:59:41] Haziq: So back to square one lah?
-
-[03:02:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[03:03:26] Akmal: Kerja, tambah pendapatan.
-
-[03:03:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[03:03:31] Haziq: Cut spending.
-
-[03:03:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[03:07:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[03:07:05] Rafizi: Boleh.
-
-[03:07:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:18:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:18:02] Rafizi: Hah, ya ke?
-
-[02:18:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:18:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:18:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:18:10] Rafizi: Ya, ya, ya.
-
-[02:18:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:18:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:18:38] Akmal: Industri pencegahan rasuah.
-
-[02:18:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:18:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:18:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:18:57] Akmal: Back-end?
-
-[02:18:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:19:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:19:35] Akmal: Yes, yes, yes.
-
-[02:19:36] Rafizi: Adakah itu...
-
-[02:19:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:19:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:20:41] Haziq: So back to square one lah?
-
-[02:23:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:24:26] Akmal: Kerja, tambah pendapatan.
-
-[02:24:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:24:31] Haziq: Cut spending.
-
-[02:24:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:27:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:27:05] Rafizi: Boleh.
-
-[02:27:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:37:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:37:02] Rafizi: Hah, ya ke?
-
-[02:37:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:37:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:37:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:37:10] Rafizi: Ya, ya, ya.
-
-[02:37:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:37:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:37:38] Akmal: Industri pencegahan rasuah.
-
-[02:37:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:37:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:37:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:37:57] Akmal: Back-end?
-
-[02:37:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:38:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:38:35] Akmal: Yes, yes, yes.
-
-[02:38:36] Rafizi: Adakah itu...
-
-[02:38:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:38:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:39:41] Haziq: So back to square one lah?
-
-[02:42:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:43:26] Akmal: Kerja, tambah pendapatan.
-
-[02:43:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:43:31] Haziq: Cut spending.
-
-[02:43:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:46:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:46:05] Rafizi: Boleh.
-
-[02:46:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:47:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:47:02] Rafizi: Hah, ya ke?
-
-[02:47:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:47:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:47:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:47:10] Rafizi: Ya, ya, ya.
-
-[02:47:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:47:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:47:38] Akmal: Industri pencegahan rasuah.
-
-[02:47:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:47:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:47:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:47:57] Akmal: Back-end?
-
-[02:47:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:48:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:48:35] Akmal: Yes, yes, yes.
-
-[02:48:36] Rafizi: Adakah itu...
-
-[02:48:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:48:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:49:41] Haziq: So back to square one lah?
-
-[02:52:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:53:26] Akmal: Kerja, tambah pendapatan.
-
-[02:53:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:53:31] Haziq: Cut spending.
-
-[02:53:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:57:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:57:05] Rafizi: Boleh.
-
-[02:57:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[03:07:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[03:07:02] Rafizi: Hah, ya ke?
-
-[03:07:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[03:07:07] Rafizi: Dia dah buat podcast sendiri.
-
-[03:07:08] Akmal: Oh, dia dah buat, ya ke?
-
-[03:07:10] Rafizi: Ya, ya, ya.
-
-[03:07:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[03:07:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[03:07:38] Akmal: Industri pencegahan rasuah.
-
-[03:07:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[03:07:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[03:07:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[03:07:57] Akmal: Back-end?
-
-[03:07:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[03:08:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[03:08:35] Akmal: Yes, yes, yes.
-
-[03:08:36] Rafizi: Adakah itu...
-
-[03:08:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[03:08:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[03:09:41] Haziq: So back to square one lah?
-
-[03:12:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[03:13:26] Akmal: Kerja, tambah pendapatan.
-
-[03:13:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[03:13:31] Haziq: Cut spending.
-
-[03:13:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[03:17:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[03:17:05] Rafizi: Boleh.
-
-[03:17:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:27:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:27:02] Rafizi: Hah, ya ke?
-
-[02:27:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:27:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:27:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:27:10] Rafizi: Ya, ya, ya.
-
-[02:27:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:27:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:27:38] Akmal: Industri pencegahan rasuah.
-
-[02:27:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:27:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:27:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:27:57] Akmal: Back-end?
-
-[02:27:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:28:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:28:35] Akmal: Yes, yes, yes.
-
-[02:28:36] Rafizi: Adakah itu...
-
-[02:28:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:28:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:29:41] Haziq: So back to square one lah?
-
-[02:32:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:33:26] Akmal: Kerja, tambah pendapatan.
-
-[02:33:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:33:31] Haziq: Cut spending.
-
-[02:33:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:37:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:37:05] Rafizi: Boleh.
-
-[02:37:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:47:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:47:02] Rafizi: Hah, ya ke?
-
-[02:47:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:47:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:47:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:47:10] Rafizi: Ya, ya, ya.
-
-[02:47:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:47:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:47:38] Akmal: Industri pencegahan rasuah.
-
-[02:47:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:47:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:47:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:47:57] Akmal: Back-end?
-
-[02:47:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:48:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:48:35] Akmal: Yes, yes, yes.
-
-[02:48:36] Rafizi: Adakah itu...
-
-[02:48:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:48:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:49:41] Haziq: So back to square one lah?
-
-[02:52:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:53:26] Akmal: Kerja, tambah pendapatan.
-
-[02:53:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:53:31] Haziq: Cut spending.
-
-[02:53:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:57:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:57:05] Rafizi: Boleh.
-
-[02:57:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[03:07:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[03:07:02] Rafizi: Hah, ya ke?
-
-[03:07:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[03:07:07] Rafizi: Dia dah buat podcast sendiri.
-
-[03:07:08] Akmal: Oh, dia dah buat, ya ke?
-
-[03:07:10] Rafizi: Ya, ya, ya.
-
-[03:07:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[03:07:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[03:07:38] Akmal: Industri pencegahan rasuah.
-
-[03:07:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[03:07:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[03:07:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[03:07:57] Akmal: Back-end?
-
-[03:07:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[03:08:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[03:08:35] Akmal: Yes, yes, yes.
-
-[03:08:36] Rafizi: Adakah itu...
-
-[03:08:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[03:08:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[03:09:41] Haziq: So back to square one lah?
-
-[03:12:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[03:13:26] Akmal: Kerja, tambah pendapatan.
-
-[03:13:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[03:13:31] Haziq: Cut spending.
-
-[03:13:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[03:17:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[03:17:05] Rafizi: Boleh.
-
-[03:17:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:47:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:47:02] Rafizi: Hah, ya ke?
-
-[02:47:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:47:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:47:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:47:10] Rafizi: Ya, ya, ya.
-
-[02:47:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:47:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:47:38] Akmal: Industri pencegahan rasuah.
-
-[02:47:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:47:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:47:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:47:57] Akmal: Back-end?
-
-[02:47:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:48:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:48:35] Akmal: Yes, yes, yes.
-
-[02:48:36] Rafizi: Adakah itu...
-
-[02:48:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:48:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:49:41] Haziq: So back to square one lah?
-
-[02:52:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:53:26] Akmal: Kerja, tambah pendapatan.
-
-[02:53:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:53:31] Haziq: Cut spending.
-
-[02:53:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:57:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:57:05] Rafizi: Boleh.
-
-[02:57:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[03:07:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[03:07:02] Rafizi: Hah, ya ke?
-
-[03:07:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[03:07:07] Rafizi: Dia dah buat podcast sendiri.
-
-[03:07:08] Akmal: Oh, dia dah buat, ya ke?
-
-[03:07:10] Rafizi: Ya, ya, ya.
-
-[03:07:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[03:07:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[03:07:38] Akmal: Industri pencegahan rasuah.
-
-[03:07:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[03:07:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[03:07:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[03:07:57] Akmal: Back-end?
-
-[03:07:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[03:08:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[03:08:35] Akmal: Yes, yes, yes.
-
-[03:08:36] Rafizi: Adakah itu...
-
-[03:08:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[03:08:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[03:09:41] Haziq: So back to square one lah?
-
-[03:12:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[03:13:26] Akmal: Kerja, tambah pendapatan.
-
-[03:13:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[03:13:31] Haziq: Cut spending.
-
-[03:13:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[03:17:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[03:17:05] Rafizi: Boleh.
-
-[03:17:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:47:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[02:47:02] Rafizi: Hah, ya ke?
-
-[02:47:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[02:47:07] Rafizi: Dia dah buat podcast sendiri.
-
-[02:47:08] Akmal: Oh, dia dah buat, ya ke?
-
-[02:47:10] Rafizi: Ya, ya, ya.
-
-[02:47:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[02:47:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[02:47:38] Akmal: Industri pencegahan rasuah.
-
-[02:47:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[02:47:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[02:47:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[02:47:57] Akmal: Back-end?
-
-[02:47:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[02:48:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[02:48:35] Akmal: Yes, yes, yes.
-
-[02:48:36] Rafizi: Adakah itu...
-
-[02:48:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[02:48:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[02:49:41] Haziq: So back to square one lah?
-
-[02:52:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[02:53:26] Akmal: Kerja, tambah pendapatan.
-
-[02:53:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[02:53:31] Haziq: Cut spending.
-
-[02:53:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[02:57:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[02:57:05] Rafizi: Boleh.
-
-[02:57:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[03:07:00] Akmal: Okay, baik YB. Satu jam 50 minit.
-
-[03:07:02] Rafizi: Hah, ya ke?
-
-[03:07:03] Akmal: Hah, lama dah. Kita terima kasih Tan Sri, boleh ke podcast yang lain.
-
-[03:07:07] Rafizi: Dia dah buat podcast sendiri.
-
-[03:07:08] Akmal: Oh, dia dah buat, ya ke?
-
-[03:07:10] Rafizi: Ya, ya, ya.
-
-[03:07:11] Akmal: Berani tangkap, tapi gagal cegah. Ha, ini YB pun dah buat kita panggil apa, videolah. Cuma kalau saya boleh tengoklah dari segi macam mana YB olah semua, saya tengok industri pencegahan rasuah ni pun dia ada front-end dengan back-end.
-
-[03:07:28] Rafizi: Industri? Ha, bahaya tu connotation. Connotation industri ni maksudnya orang buat duit. Industri...
-
-[03:07:38] Akmal: Industri pencegahan rasuah.
-
-[03:07:40] Rafizi: Industri? Okaylah, saya ambil macam semiconductor lah. Ada front-end, back-end.
-
-[03:07:45] Akmal: Samalah.Nasib baik aku bukan lecturer engkau dulu, kalau tak aku dah failkan kau. Industri.
-
-[03:07:50] Rafizi: Fokus Tan Sri Azam Baki dalam podcast dia bergegar-gegar adalah dari segi back-end.
-
-[03:07:57] Akmal: Back-end?
-
-[03:07:58] Rafizi: Back-end maksudnya kita tangkap orang. Dah siap dah, perasuah tu dah siap.
-
-[03:08:05] Akmal: Mungking, mungkin Haziq baca paper semiconductor banyak sangat.
-
-[03:08:35] Akmal: Yes, yes, yes.
-
-[03:08:36] Rafizi: Adakah itu...
-
-[03:08:38] Akmal: Ya, betullah, pencegahanlah. Pandai-pandai kau pergi tukar. So, you were saying?
-
-[03:08:48] Haziq: Tan Sri Azam Baki banyak tumpu kepada aftermath. Tapi kitalah, kita banyak lagi benda-benda yang kita kena fokuskan, tata kelola, procurement dan sebagainya. Ini bagaimana pula?
-
-[03:09:41] Haziq: So back to square one lah?
-
-[03:12:48] Haziq: 2025? Peter Howitt dengan Philippe Aghion.
-
-[03:13:26] Akmal: Kerja, tambah pendapatan.
-
-[03:13:28] Rafizi: Kerjalah, tambah pendapatan. Lagi, tak cukup juga?
-
-[03:13:31] Haziq: Cut spending.
-
-[03:13:32] Rafizi: Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi, it's not our wants, it's our needs kan. Maksudnya, itu normal, tak perlu pergi ke Harvard, Cambridge untuk belajar ekonomi pun kita tahu kan. Perasan tak? Saya ingat daripada 10 tahun yang lepaslah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah, cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai, lah apa semua kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik, kita nak pastikan tidak ada rasuah kan. Sebab itu kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, uang tinggi, kan? Kadang-kadang sampai ke peringkat kita sembunyikan soal uang rakyat yang tak dikembalikan pun kita sembunyikan. Maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu uang ni kena pulangkan, deficit saya kena turunkan, uang ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat 1001 benda ni. How would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah ataupun kita rasa kita dalam comfort zone, ada vested interest, now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir, bayar ceplos, bayar ceplos contohnya kan, pendanaan politik contohnya kan untuk memastikan bahawa budaya yang politik ni mahal dan ia ditanggung sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, ha bayar ahli politik. Semua itu terpaksa dihadapi lah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam inilah.
-
-[03:17:00] Haziq: But I just want to play devil's advocate one last time lah before kita move on to the next topic.
-
-[03:17:05] Rafizi: Boleh.
-
-[03:17:06] Haziq: One can argue, kita tengok rating agency has rated us quite favourably. Economic numbers, headline figures are quite good. Investments are coming in. So, I mean I can say this lah, I'm a politician and I think that we're doing okay. So why do we need to cut the fat?
-
-[02:47:00] Akmal: Okay, baik YB. Satu jam 50 minit.
