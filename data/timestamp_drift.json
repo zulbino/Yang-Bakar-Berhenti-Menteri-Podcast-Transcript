@@ -1336,41 +1336,71 @@
   },
   "2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak": {
     "status": "ok",
-    "samples_matched": 6,
-    "samples_not_found_nearby": 6,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 164,
+    "max_drift_seconds": 222,
     "flagged": false,
     "details": [
       {
-        "claimed": 62,
-        "actual": 56,
-        "drift": -6
+        "claimed": 54,
+        "actual": 69,
+        "drift": 15
       },
       {
-        "claimed": 681,
-        "actual": 676,
-        "drift": -5
+        "claimed": 312,
+        "actual": 382,
+        "drift": 70
       },
       {
-        "claimed": 1265,
-        "actual": 1343,
-        "drift": 78
+        "claimed": 968,
+        "actual": 961,
+        "drift": -7
       },
       {
-        "claimed": 1926,
-        "actual": 1921,
-        "drift": -5
+        "claimed": 1277,
+        "actual": 1276,
+        "drift": -1
       },
       {
-        "claimed": 2479,
-        "actual": 2520,
-        "drift": 41
+        "claimed": 1801,
+        "actual": 1864,
+        "drift": 63
       },
       {
-        "claimed": 3197,
-        "actual": 3361,
-        "drift": 164
+        "claimed": 2426,
+        "actual": 2477,
+        "drift": 51
+      },
+      {
+        "claimed": 3657,
+        "actual": 3750,
+        "drift": 93
+      },
+      {
+        "claimed": 4299,
+        "actual": 4471,
+        "drift": 172
+      },
+      {
+        "claimed": 6450,
+        "actual": 6572,
+        "drift": 122
+      },
+      {
+        "claimed": 7205,
+        "actual": 7196,
+        "drift": -9
+      },
+      {
+        "claimed": 8202,
+        "actual": 8209,
+        "drift": 7
+      },
+      {
+        "claimed": 9022,
+        "actual": 9244,
+        "drift": 222
       }
     ]
   },
