@@ -36,10 +36,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
 - [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
-  - raw.md timestamp coverage 454% -- likely hallucinated runaway timestamps
-  - interview.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.7-flash
 - [ ] **2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-**
   - interview.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
@@ -50,11 +50,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.33 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-3-flash-preview
 - [ ] **2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha**
-  - raw.md timestamp coverage 12703% -- likely hallucinated runaway timestamps
-  - raw.md has a 178381-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.6-flash
 - [ ] **2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb**
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
@@ -77,12 +76,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.01 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.01 vs raw.md, expected >= 0.35)
 - [ ] **2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
-  - raw.md timestamp coverage 178% -- likely hallucinated runaway timestamps
-  - raw.md has a 223696-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.18 vs raw.md, expected >= 0.35)
   - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.00/1000 chars, expected >= 1.0)
-  - interview-en.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.17 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.19 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.5-flash
 - [ ] **2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
   - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
@@ -92,74 +90,74 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
 - [ ] **2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r**
-  - raw.md timestamp coverage 4728% -- likely hallucinated runaway timestamps
-  - raw.md has a 156731-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.5-flash-lite
 - [ ] **2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47**
-  - raw.md timestamp coverage 293% -- likely hallucinated runaway timestamps
-  - raw.md has a 408414-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.03 vs raw.md, expected >= 0.35)
-- [ ] **2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi**
-  - no timestamps found in raw.md
-  - missing interview.md
-  - missing interview-en.md
-  - missing interview-ms.md
-- [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
-  - raw.md timestamp coverage 5466% -- likely hallucinated runaway timestamps
-  - raw.md has a 200936-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.04 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.5-flash-lite
+- [ ] **2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi**
+  - missing interview.md
+  - missing interview-en.md
+  - missing interview-ms.md
+  - models: raw.md=gemini-3.5-flash
+- [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
+  - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.5-flash-lite
 - [ ] **2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50**
-  - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-3-flash-preview
 - [ ] **2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51**
-  - no timestamps found in raw.md
+  - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb**
-  - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-3.7-flash
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
-  - no timestamps found in raw.md
+  - raw.md has a 140698-char block with no paragraph breaks (wall-of-text)
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-3.5-flash
 - [ ] **2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-**
-  - no timestamps found in raw.md
+  - raw.md produced by weaker fallback model gemini-3.1-flash-lite -- verify content quality closely
+  - raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-3.1-flash-lite
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
-  - raw.md timestamp coverage 465% -- likely hallucinated runaway timestamps
-  - raw.md has a 226393-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.05 vs raw.md, expected >= 0.35)
+  - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
+  - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57**
   - interview.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
   - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.03/1000 chars, expected >= 1.0)
   - interview-en.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
-  - no timestamps found in raw.md
+  - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-**
-  - no timestamps found in raw.md
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - models: raw.md=gemini-3.7-flash
 - [ ] **2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb**
   - raw.md has a 21925-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
