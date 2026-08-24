@@ -334,6 +334,22 @@ def _normalize_turn_breaks(text):
     return text.lstrip("\n")
 
 
+def _canonicalize_timestamps(text):
+    """The model sometimes writes a long episode's timestamp as two-part
+    [MM:SS] even once MM exceeds 59 (e.g. [96:37] instead of [1:36:37]) --
+    numerically equivalent (every consumer here parses MM as unbounded
+    minutes, so the total-seconds value is identical either way) but
+    inconsistent with how the same episode formats timestamps past the first
+    hour everywhere else. Roll over to canonical H:MM:SS."""
+    def roll_over(m):
+        minutes, seconds = int(m.group(1)), m.group(2)
+        if minutes < 60:
+            return m.group(0)
+        hours, minutes = divmod(minutes, 60)
+        return f"[{hours}:{minutes:02d}:{seconds}]"
+    return re.sub(r"\[(\d+):(\d\d)\]", roll_over, text)
+
+
 def transcribe_raw(client, audio_file, duration_human, duration_seconds):
     prompt = RAW_PROMPT_TEMPLATE.format(duration=duration_human)
     audio_part = types.Part(file_data=types.FileData(file_uri=audio_file.uri, mime_type=audio_file.mime_type))
@@ -365,7 +381,7 @@ def transcribe_raw(client, audio_file, duration_human, duration_seconds):
                     "hallucination loop, not real coverage)"
                 )
             if covered >= duration_seconds * 0.95:
-                return _trim_dangling_fragment(_normalize_turn_breaks(full_text))
+                return _trim_dangling_fragment(_canonicalize_timestamps(_normalize_turn_breaks(full_text)))
             remaining_human = human_duration(max(duration_seconds - covered, 0))
             contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
             contents.append(types.Content(role="user", parts=[types.Part(text=(

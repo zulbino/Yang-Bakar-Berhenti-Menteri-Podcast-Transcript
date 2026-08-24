@@ -233,6 +233,65 @@ of 3+ newlines to exactly one blank line after the original substitution, rather
 than chasing the regex engine's match-order behavior. Applied retroactively
 across all existing raw.md files (whitespace-only change, verified via diff).
 
+### Raw transcription: non-canonical timestamps past the first hour
+
+34 of 67 episodes had timestamps like `[96:37]` instead of `[1:36:37]` once the
+minutes component passed 59 -- numerically harmless (every consumer here parses
+the last two bracket groups as minutes:seconds unbounded, so `96:37` and
+`1:36:37` both resolve to the same total-seconds value) but inconsistent with
+how the same episode formats timestamps everywhere else. Fixed with a
+`_canonicalize_timestamps` pass in `lib_gemini.py` that rolls any `[MM:SS]` with
+MM >= 60 over to `[H:MM:SS]`, applied at generation time going forward and
+retroactively across all 34 files.
+
+### Raw transcription: verifying timestamps against YouTube's own captions
+
+Two independent tools exist for cross-checking `raw.md` timestamps against
+YouTube's auto-generated captions -- unusable for diarization (confirmed: zero
+speaker labels of any kind, pure ASR word stream) but their word-level timing is
+generated straight from the real audio, making them a genuine independent
+accuracy signal Gemini's own self-reported timestamps can't provide.
+
+- **`dedupe_raw.py`** (see the duplicate-block section above): repairs a known
+  duplicate group by picking whichever occurrence's timestamp is closest to the
+  caption-verified real time. Limitation confirmed directly: if none of the
+  duplicate's original occurrences happen to be close to the truth, the "least
+  wrong" pick still leaves residual drift -- caught on ep30, where a passage
+  survived dedup but stayed off by roughly 11 minutes.
+- **`check_timestamp_drift.py`**: a general sweep, independent of any known
+  duplicate. Samples ~12 blocks spread across an episode, fuzzy-matches each
+  against the caption, and flags episodes where drift exceeds a threshold.
+  Writes results to `data/timestamp_drift.json` (not yet folded into
+  `qa_check.py`'s own output as of this writing).
+
+Both tools share the same fuzzy-matching approach and inherited the same tuning
+lesson, learned the hard way:
+
+- **Exact phrase matching doesn't work.** Gemini's "lightly cleaned" transcript
+  smooths out the disfluencies the raw ASR caption still has, so consecutive-word
+  matches rarely line up. Both tools score a window of caption words by how many
+  of a block's distinctive (5+ character) words it contains, rather than
+  requiring an exact run.
+- **An unconstrained search is unsafe for general drift-checking.** A political
+  talk show revisits the same topics (e.g. "nepotisme") at many points across a
+  2-3 hour episode. `dedupe_raw.py` gets away with searching the whole caption
+  because it only ever chooses among a handful of *known* candidate positions --
+  even a slightly-off best-match reference still picks a real occurrence.
+  `check_timestamp_drift.py` has no such candidate list; an early version that
+  searched the entire caption for every sample produced a "58-minutes-off"
+  false positive by locking onto a distant but topically-similar segment.
+  Fixed by constraining the search to a ±20-minute window around each block's
+  own claimed timestamp -- genuine large-scale displacement (whole sections
+  off by an hour or more) shows up as "not found nearby" instead of a
+  confidently-wrong distant answer, which is a clearer signal, not a weaker one.
+- **The matching noise floor is real and must be calibrated against actual
+  data, not guessed.** Even correctly-timed blocks showed up to ~250s of
+  apparent drift from matching imprecision alone on a known-clean episode.
+  The flagging threshold (300s) sits above that floor; ep30's confirmed real
+  error (~660s) sits well above the threshold. A threshold picked without this
+  empirical check would have either buried the real signal in noise or missed
+  it entirely.
+
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
 The rewrite stage originally only used Gemini. When Gemini's account-level billing

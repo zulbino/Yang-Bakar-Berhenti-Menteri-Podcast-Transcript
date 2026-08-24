@@ -957,685 +957,685 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:57] Dan zaman-zaman tak ada jawatan kan.
 
-[60:01] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
+[1:00:01] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
 
-[60:16] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
+[1:00:16] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
 
-[60:32] Salah satu daya tarikannya ialah kerana dia egalitarian.
+[1:00:32] Salah satu daya tarikannya ialah kerana dia egalitarian.
 
-[60:38] Mhm mhm.
+[1:00:38] Mhm mhm.
 
-[60:39] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
+[1:00:39] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
 
-[60:54] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
+[1:00:54] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
 
-[61:08] Saya Menteri, YB eh.
+[1:01:08] Saya Menteri, YB eh.
 
-[61:10] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
+[1:01:10] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
 
-[61:15] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
+[1:01:15] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
 
-[61:32] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
+[1:01:32] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
 
-[61:44] Mhm.
+[1:01:44] Mhm.
 
-[61:45] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
+[1:01:45] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
 
-[61:54] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
+[1:01:54] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
 
-[62:01] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
+[1:02:01] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
 
-[62:18] Hmm mhm.
+[1:02:18] Hmm mhm.
 
-[62:19] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
+[1:02:19] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
 
-[62:32] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
+[1:02:32] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
 
-[62:37] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
+[1:02:37] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
 
-[62:45] Ya betul, memang viral. Minggu lepas.
+[1:02:45] Ya betul, memang viral. Minggu lepas.
 
-[62:49] Okey. Hmm. Beria.
+[1:02:49] Okey. Hmm. Beria.
 
-[62:54] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
+[1:02:54] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
 
-[63:03] Saya rasa dah banyak sangat kot dia.
+[1:03:03] Saya rasa dah banyak sangat kot dia.
 
-[63:06] Ya. Overwhelm.
+[1:03:06] Ya. Overwhelm.
 
-[63:07] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
+[1:03:07] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
 
-[63:12] Ah ah ah.
+[1:03:12] Ah ah ah.
 
-[63:13] Oh tak ada apa tak ada apa. Ni ni sikit aje.
+[1:03:13] Oh tak ada apa tak ada apa. Ni ni sikit aje.
 
-[63:15] Ha tak ada, ini Rafizi seorang aje ni.
+[1:03:15] Ha tak ada, ini Rafizi seorang aje ni.
 
-[63:18] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
+[1:03:18] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
 
-[63:25] Ah hebat lah netizen kan.
+[1:03:25] Ah hebat lah netizen kan.
 
-[63:27] Okey. Okey. Tak cukup lagi YB.
+[1:03:27] Okey. Okey. Tak cukup lagi YB.
 
-[63:30] Next.
+[1:03:30] Next.
 
-[63:31] Ah kita ada ketua biro Rafizi.
+[1:03:31] Ah kita ada ketua biro Rafizi.
 
-[63:33] Ha.
+[1:03:33] Ha.
 
-[63:36] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
+[1:03:36] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
 
-[63:51] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa kalau cari bukti saya ambil duit, tak jumpalah. Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:03:51] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa kalau cari bukti saya ambil duit, tak jumpalah. Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[64:26] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:04:26] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[64:30] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:04:30] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[64:35] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:04:35] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[64:43] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:04:43] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[64:48] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:04:48] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[64:57] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:04:57] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[65:00] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:05:00] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[65:11] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:05:11] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[65:21] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:05:21] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[65:28] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:05:28] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[65:48] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:05:48] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[65:52] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
+[1:05:52] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
 
-[65:57] Cerita Foreign Workers Centralized Management System.
+[1:05:57] Cerita Foreign Workers Centralized Management System.
 
-[66:01] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
+[1:06:01] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
 
-[66:08] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
+[1:06:08] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
 
-[66:17] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
+[1:06:17] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
 
-[66:25] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
+[1:06:25] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
 
-[66:34] Hmm.
+[1:06:34] Hmm.
 
-[66:34] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
+[1:06:34] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
 
-[66:40] Kemudian 2018 hanya surat ah, setuju terima SST kan.
+[1:06:40] Kemudian 2018 hanya surat ah, setuju terima SST kan.
 
-[66:46] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
+[1:06:46] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
 
-[66:58] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
+[1:06:58] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
 
-[67:07] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
+[1:07:07] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
 
-[67:17] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
+[1:07:17] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
 
-[67:28] Hmm.
+[1:07:28] Hmm.
 
-[67:28] Itu belum campur cerita LCS lagi.
+[1:07:28] Itu belum campur cerita LCS lagi.
 
-[67:31] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
+[1:07:31] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
 
-[67:49] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
+[1:07:49] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
 
-[67:56] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
+[1:07:56] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
 
-[68:06] ah masuk lokap, semua kan.
+[1:08:06] ah masuk lokap, semua kan.
 
-[68:10] Dan zaman-zaman tak ada jawatan kan.
+[1:08:10] Dan zaman-zaman tak ada jawatan kan.
 
-[68:14] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
+[1:08:14] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
 
-[68:29] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
+[1:08:29] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
 
-[68:45] Salah satu daya tarikannya ialah kerana dia egalitarian.
+[1:08:45] Salah satu daya tarikannya ialah kerana dia egalitarian.
 
-[68:51] Mhm mhm.
+[1:08:51] Mhm mhm.
 
-[68:52] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
+[1:08:52] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
 
-[69:07] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
+[1:09:07] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
 
-[69:21] Saya Menteri, YB eh.
+[1:09:21] Saya Menteri, YB eh.
 
-[69:23] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
+[1:09:23] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
 
-[69:28] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
+[1:09:28] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
 
-[69:45] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
+[1:09:45] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
 
-[69:57] Mhm.
+[1:09:57] Mhm.
 
-[69:58] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
+[1:09:58] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
 
-[70:07] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
+[1:10:07] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
 
-[70:14] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
+[1:10:14] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
 
-[70:31] Hmm mhm.
+[1:10:31] Hmm mhm.
 
-[70:32] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
+[1:10:32] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
 
-[70:45] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
+[1:10:45] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
 
-[70:50] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
+[1:10:50] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
 
-[70:58] Ya betul, memang viral. Minggu lepas.
+[1:10:58] Ya betul, memang viral. Minggu lepas.
 
-[71:02] Okey. Hmm. Beria.
+[1:11:02] Okey. Hmm. Beria.
 
-[71:07] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
+[1:11:07] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
 
-[71:16] Saya rasa dah banyak sangat kot dia.
+[1:11:16] Saya rasa dah banyak sangat kot dia.
 
-[71:19] Ya. Overwhelm.
+[1:11:19] Ya. Overwhelm.
 
-[71:20] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
+[1:11:20] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
 
-[71:25] Ah ah ah.
+[1:11:25] Ah ah ah.
 
-[71:26] Oh tak ada apa tak ada apa. Ni ni sikit aje.
+[1:11:26] Oh tak ada apa tak ada apa. Ni ni sikit aje.
 
-[71:28] Ha tak ada, ini Rafizi seorang aje ni.
+[1:11:28] Ha tak ada, ini Rafizi seorang aje ni.
 
-[71:31] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
+[1:11:31] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
 
-[71:38] Ah hebat lah netizen kan.
+[1:11:38] Ah hebat lah netizen kan.
 
-[71:40] Okey. Okey. Tak cukup lagi YB.
+[1:11:40] Okey. Okey. Tak cukup lagi YB.
 
-[71:43] Next.
+[1:11:43] Next.
 
-[71:44] Ah kita ada ketua biro Rafizi.
+[1:11:44] Ah kita ada ketua biro Rafizi.
 
-[71:46] Ha.
+[1:11:46] Ha.
 
-[71:49] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
+[1:11:49] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
 
-[72:04] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa kalau cari bukti saya ambil duit, tak jumpalah. Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:12:04] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa kalau cari bukti saya ambil duit, tak jumpalah. Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[72:42] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:12:42] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[72:46] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:12:46] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[72:51] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:12:51] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[72:59] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:12:59] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[73:04] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:13:04] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[73:13] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:13:13] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[73:16] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:13:16] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[73:27] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:13:27] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[73:37] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:13:37] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[73:44] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:13:44] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[74:04] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:14:04] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[80:55] You know, sebab ruang yang ada tu sangat macam dikepung.
+[1:20:55] You know, sebab ruang yang ada tu sangat macam dikepung.
 
-[81:05] Mhm mhm mhm.
+[1:21:05] Mhm mhm mhm.
 
-[81:06] Dia macam satu pertempuran. You have been cornered, you kena terkepung. So you, you kena you, you are stuck in your fort. You tak boleh nak march, you tak boleh nak charge, kan?
+[1:21:06] Dia macam satu pertempuran. You have been cornered, you kena terkepung. So you, you kena you, you are stuck in your fort. You tak boleh nak march, you tak boleh nak charge, kan?
 
-[81:24] So, the best you can do is that jangan, jangan antagonize supaya orang lupa you ada kat situ, kan, and orang tak serang, kan?
+[1:21:24] So, the best you can do is that jangan, jangan antagonize supaya orang lupa you ada kat situ, kan, and orang tak serang, kan?
 
-[81:41] So, cuma yalah, after one year, saya tengoklah, uh, sekarang ini berbahaya juga sebab soal dalaman PKR ini, bila semua perkara ini berlaku, pertama, esok, demo ni akan sendu lah.
+[1:21:41] So, cuma yalah, after one year, saya tengoklah, uh, sekarang ini berbahaya juga sebab soal dalaman PKR ini, bila semua perkara ini berlaku, pertama, esok, demo ni akan sendu lah.
 
-[82:04] Hmm.
+[1:22:04] Hmm.
 
-[82:05] Yang kedua, habis lah YB. Dah tak ada bahan nak jaje tentang kerajaan dengan Anwar Ibrahim.
+[1:22:05] Yang kedua, habis lah YB. Dah tak ada bahan nak jaje tentang kerajaan dengan Anwar Ibrahim.
 
-[82:17] Macam mana YB?
+[1:22:17] Macam mana YB?
 
-[82:19] Well, sama ada sendu ke tak sendu tu, sebenarnya um yalah.
+[1:22:19] Well, sama ada sendu ke tak sendu tu, sebenarnya um yalah.
 
-[82:39] Itu um, kalau ikut laporan media, itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan?
+[1:22:39] Itu um, kalau ikut laporan media, itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan?
 
-[82:57] Ah, um, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa, "Kalau cari bukti saya ambil duit, tak jumpalah".
+[1:22:57] Ah, um, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa, "Kalau cari bukti saya ambil duit, tak jumpalah".
 
-[83:27] Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit.
+[1:23:27] Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit.
 
-[83:49] Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:23:49] Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[84:18] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:24:18] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[84:22] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:24:22] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[84:28] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:24:28] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[84:37] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:24:37] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[84:42] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:24:42] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[84:51] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:24:51] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[84:54] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:24:54] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[85:05] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:25:05] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[85:15] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:25:15] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[85:22] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:25:22] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[85:42] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:25:42] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[85:46] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
+[1:25:46] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
 
-[85:51] Cerita Foreign Workers Centralized Management System.
+[1:25:51] Cerita Foreign Workers Centralized Management System.
 
-[85:55] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
+[1:25:55] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
 
-[86:02] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
+[1:26:02] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
 
-[86:11] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
+[1:26:11] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
 
-[86:19] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
+[1:26:19] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
 
-[86:28] Hmm.
+[1:26:28] Hmm.
 
-[86:28] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
+[1:26:28] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
 
-[86:34] Kemudian 2018 hanya surat ah, setuju terima SST kan.
+[1:26:34] Kemudian 2018 hanya surat ah, setuju terima SST kan.
 
-[86:40] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
+[1:26:40] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
 
-[86:52] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
+[1:26:52] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
 
-[87:01] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
+[1:27:01] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
 
-[87:11] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
+[1:27:11] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
 
-[87:22] Hmm.
+[1:27:22] Hmm.
 
-[87:22] Itu belum campur cerita LCS lagi.
+[1:27:22] Itu belum campur cerita LCS lagi.
 
-[87:25] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
+[1:27:25] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
 
-[87:43] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
+[1:27:43] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
 
-[87:50] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
+[1:27:50] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
 
-[88:00] ah masuk lokap, semua kan.
+[1:28:00] ah masuk lokap, semua kan.
 
-[88:04] Dan zaman-zaman tak ada jawatan kan.
+[1:28:04] Dan zaman-zaman tak ada jawatan kan.
 
-[88:08] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
+[1:28:08] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
 
-[88:23] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
+[1:28:23] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
 
-[88:38] Salah satu daya tarikannya ialah kerana dia egalitarian.
+[1:28:38] Salah satu daya tarikannya ialah kerana dia egalitarian.
 
-[88:44] Mhm mhm.
+[1:28:44] Mhm mhm.
 
-[88:45] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
+[1:28:45] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
 
-[89:00] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
+[1:29:00] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
 
-[89:14] Saya Menteri, YB eh.
+[1:29:14] Saya Menteri, YB eh.
 
-[89:16] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
+[1:29:16] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
 
-[89:21] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
+[1:29:21] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
 
-[89:38] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
+[1:29:38] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
 
-[89:50] Mhm.
+[1:29:50] Mhm.
 
-[89:51] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
+[1:29:51] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
 
-[90:00] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
+[1:30:00] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
 
-[90:07] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
+[1:30:07] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
 
-[90:24] Hmm mhm.
+[1:30:24] Hmm mhm.
 
-[90:25] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
+[1:30:25] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
 
-[90:38] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
+[1:30:38] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
 
-[90:43] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
+[1:30:43] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
 
-[90:51] Ya betul, memang viral. Minggu lepas.
+[1:30:51] Ya betul, memang viral. Minggu lepas.
 
-[90:55] Okey. Hmm. Beria.
+[1:30:55] Okey. Hmm. Beria.
 
-[91:00] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
+[1:31:00] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
 
-[91:09] Saya rasa dah banyak sangat kot dia.
+[1:31:09] Saya rasa dah banyak sangat kot dia.
 
-[91:12] Ya. Overwhelm.
+[1:31:12] Ya. Overwhelm.
 
-[91:13] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
+[1:31:13] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
 
-[91:18] Ah ah ah.
+[1:31:18] Ah ah ah.
 
-[91:19] Oh tak ada apa tak ada apa. Ni ni sikit aje.
+[1:31:19] Oh tak ada apa tak ada apa. Ni ni sikit aje.
 
-[91:21] Ha tak ada, ini Rafizi seorang aje ni.
+[1:31:21] Ha tak ada, ini Rafizi seorang aje ni.
 
-[91:24] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
+[1:31:24] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
 
-[91:31] Ah hebat lah netizen kan.
+[1:31:31] Ah hebat lah netizen kan.
 
-[91:33] Okey. Okey. Tak cukup lagi YB.
+[1:31:33] Okey. Okey. Tak cukup lagi YB.
 
-[91:36] Next.
+[1:31:36] Next.
 
-[91:37] Ah kita ada ketua biro Rafizi.
+[1:31:37] Ah kita ada ketua biro Rafizi.
 
-[91:39] Ha.
+[1:31:39] Ha.
 
-[91:42] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
+[1:31:42] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
 
-[91:57] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:31:57] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[92:35] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:32:35] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[92:39] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:32:39] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[92:44] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:32:44] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[92:52] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:32:52] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[92:57] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:32:57] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[93:06] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:33:06] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[93:09] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:33:09] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[93:20] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:33:20] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[93:30] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:33:30] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[93:37] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:33:37] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[93:57] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:33:57] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[94:01] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
+[1:34:01] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
 
-[94:06] Cerita Foreign Workers Centralized Management System.
+[1:34:06] Cerita Foreign Workers Centralized Management System.
 
-[94:10] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
+[1:34:10] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
 
-[94:17] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
+[1:34:17] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
 
-[94:26] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
+[1:34:26] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
 
-[94:34] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
+[1:34:34] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
 
-[94:43] Hmm.
+[1:34:43] Hmm.
 
-[94:43] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
+[1:34:43] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
 
-[94:49] Kemudian 2018 hanya surat ah, setuju terima SST kan.
+[1:34:49] Kemudian 2018 hanya surat ah, setuju terima SST kan.
 
-[94:55] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
+[1:34:55] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
 
-[95:07] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
+[1:35:07] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
 
-[95:16] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
+[1:35:16] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
 
-[95:26] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
+[1:35:26] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
 
-[95:37] Hmm.
+[1:35:37] Hmm.
 
-[95:37] Itu belum campur cerita LCS lagi.
+[1:35:37] Itu belum campur cerita LCS lagi.
 
-[95:40] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
+[1:35:40] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
 
-[95:58] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
+[1:35:58] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
 
-[96:05] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
+[1:36:05] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
 
-[96:15] ah masuk lokap, semua kan.
+[1:36:15] ah masuk lokap, semua kan.
 
-[96:19] Dan zaman-zaman tak ada jawatan kan.
+[1:36:19] Dan zaman-zaman tak ada jawatan kan.
 
-[96:23] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
+[1:36:23] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
 
-[96:38] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
+[1:36:38] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
 
-[96:54] Salah satu daya tarikannya ialah kerana dia egalitarian.
+[1:36:54] Salah satu daya tarikannya ialah kerana dia egalitarian.
 
-[97:00] Mhm mhm.
+[1:37:00] Mhm mhm.
 
-[97:01] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
+[1:37:01] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
 
-[97:16] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
+[1:37:16] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
 
-[97:30] Saya Menteri, YB eh.
+[1:37:30] Saya Menteri, YB eh.
 
-[97:32] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
+[1:37:32] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
 
-[97:37] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
+[1:37:37] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
 
-[97:54] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
+[1:37:54] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
 
-[98:06] Mhm.
+[1:38:06] Mhm.
 
-[98:07] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
+[1:38:07] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
 
-[98:16] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
+[1:38:16] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
 
-[98:23] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
+[1:38:23] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
 
-[98:40] Hmm mhm.
+[1:38:40] Hmm mhm.
 
-[98:41] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
+[1:38:41] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
 
-[98:54] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
+[1:38:54] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
 
-[98:59] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
+[1:38:59] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
 
-[99:07] Ya betul, memang viral. Minggu lepas.
+[1:39:07] Ya betul, memang viral. Minggu lepas.
 
-[99:11] Okey. Hmm. Beria.
+[1:39:11] Okey. Hmm. Beria.
 
-[99:16] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
+[1:39:16] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
 
-[99:25] Saya rasa dah banyak sangat kot dia.
+[1:39:25] Saya rasa dah banyak sangat kot dia.
 
-[99:28] Ya. Overwhelm.
+[1:39:28] Ya. Overwhelm.
 
-[99:29] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
+[1:39:29] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
 
-[99:34] Ah ah ah.
+[1:39:34] Ah ah ah.
 
-[99:35] Oh tak ada apa tak ada apa. Ni ni sikit aje.
+[1:39:35] Oh tak ada apa tak ada apa. Ni ni sikit aje.
 
-[99:37] Ha tak ada, ini Rafizi seorang aje ni.
+[1:39:37] Ha tak ada, ini Rafizi seorang aje ni.
 
-[99:40] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
+[1:39:40] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
 
-[99:47] Ah hebat lah netizen kan.
+[1:39:47] Ah hebat lah netizen kan.
 
-[99:49] Okey. Okey. Tak cukup lagi YB.
+[1:39:49] Okey. Okey. Tak cukup lagi YB.
 
-[99:52] Next.
+[1:39:52] Next.
 
-[99:53] Ah kita ada ketua biro Rafizi.
+[1:39:53] Ah kita ada ketua biro Rafizi.
 
-[99:55] Ha.
+[1:39:55] Ha.
 
-[99:58] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
+[1:39:58] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
 
-[100:13] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:40:13] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[100:49] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:40:49] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[100:53] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:40:53] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[100:59] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:40:59] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[101:07] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:41:07] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[101:12] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:41:12] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[101:21] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:41:21] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[101:24] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:41:24] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[101:35] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:41:35] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[101:45] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:41:45] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[101:52] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:41:52] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[102:12] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:42:12] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[102:16] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
+[1:42:16] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
 
-[102:21] Cerita Foreign Workers Centralized Management System.
+[1:42:21] Cerita Foreign Workers Centralized Management System.
 
-[102:25] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
+[1:42:25] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
 
-[102:32] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
+[1:42:32] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
 
-[102:41] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
+[1:42:41] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
 
-[102:49] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
+[1:42:49] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
 
-[102:58] Hmm.
+[1:42:58] Hmm.
 
-[102:58] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
+[1:42:58] Kemudian ah kerajaan memang dah ada sistem sendiri yang dibangunkan EPEX.
 
-[103:04] Kemudian 2018 hanya surat ah, setuju terima SST kan.
+[1:43:04] Kemudian 2018 hanya surat ah, setuju terima SST kan.
 
-[103:10] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
+[1:43:10] Tapi dengan hanya SST, perjanjian tak ada, ah Bestinet, ah dapat ah menyediakan perkhidmatan itulah kepada kerajaan.
 
-[103:22] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
+[1:43:22] Ah, FWCSM S digunakan pakai semasa Presiden UMNO itu ah adalah Menteri Dalam Negeri dan Timbalan Perdana Menteri.
 
-[103:31] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
+[1:43:31] Kemudian ah laporan Ketua Audit Negara 2022, PAC 23, 24, semua menunjukkan macam mana benda ini boleh berlaku.
 
-[103:41] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
+[1:43:41] Kerajaan menggunakan sesuatu yang melibatkan tuntutan wang sampai 1.57 bilion ringgit daripada Bestinet tanpa ada kontrak.
 
-[103:52] Hmm.
+[1:43:52] Hmm.
 
-[103:52] Itu belum campur cerita LCS lagi.
+[1:43:52] Itu belum campur cerita LCS lagi.
 
-[103:55] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
+[1:43:55] Ah, kontrak kata lain, design kata lain, Panglima Tentera Laut, MINDEF minta lain, ah masa itu pula, menteri-menteri yang jadi menteri pertahanan ialah Datuk Seri Hishammuddin Tun Hussein dan juga Presiden UMNO, Datuk Seri Zahid Hamidi.
 
-[104:13] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
+[1:44:13] Jadi okey lah, kalau dia dia punya standard korupsi ni tahap sufi lah.
 
-[104:20] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
+[1:44:20] Maksudnya, ah kalau tak ada duit pun, tapi kalau ada sikit, tak ikut proses, itu sudah rasuah. Kena pukul,
 
-[104:30] ah masuk lokap, semua kan.
+[1:44:30] ah masuk lokap, semua kan.
 
-[104:34] Dan zaman-zaman tak ada jawatan kan.
+[1:44:34] Dan zaman-zaman tak ada jawatan kan.
 
-[104:38] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
+[1:44:38] Jadi, ada beberapa perkara asas lah sebenarnya yang saya ingat Ramanan tak faham, uhm, ada benda tu memang so un-PKR. Hmm, Hmm.
 
-[104:53] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
+[1:44:53] Ah, contohnya, billboard besar yang meletakkan muka besar kan, sebabnya ialah PKR ini ialah sekarang saya tak tahu lah, PKR yang saya sertai dulu masa muda-muda dulu. Mhm.
 
-[105:08] Salah satu daya tarikannya ialah kerana dia egalitarian.
+[1:45:08] Salah satu daya tarikannya ialah kerana dia egalitarian.
 
-[105:14] Mhm mhm.
+[1:45:14] Mhm mhm.
 
-[105:15] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
+[1:45:15] Ah, dia memang classless, malah ah, PKR yang saya ingat dahulu masa zaman-zaman orang-orang awal dahulu, ah, yalah is, is very anti-class.
 
-[105:30] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
+[1:45:30] Jadi dia tak suka orang yang atas, besar, kaya kan. Jadi bila pergi letak billboard begini, ini cara yang menunjukkan, nak tunjuk "Saya banyak duit, saya hebat".
 
-[105:44] Saya Menteri, YB eh.
+[1:45:44] Saya Menteri, YB eh.
 
-[105:46] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
+[1:45:46] Ha saya Menteri, kemudian PM ni sebelah saya kan, hmm.
 
-[105:51] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
+[1:45:51] Hmm masa 2018 dahulu kan, awal-awal tu pun cuma saya masa tu dah keluar daripada politik, jadi, hmm cuma saya hadap sajalah kan. Ah kalau di Ampang kan, di mana-mana billboard sebesar-besarnya macam inilah. Adalah gambar Zuraida.
 
-[106:08] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
+[1:46:08] Ya. Ah kan? Saya dah bagi tahu dah, ini gayanya orang marah. Kan jadi, mungkin lah tak ada orang nasihatkan kepada Ramanan.
 
-[106:20] Mhm.
+[1:46:20] Mhm.
 
-[106:21] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
+[1:46:21] Cuma effect dia, kesan dia tu kepada Datuk Seri Anwar, kerana kalau orang check GPT, Hmm, mhm.
 
-[106:30] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
+[1:46:30] cuba check GPT mengenai ah, tak payahlah. Jangan kau check GPT kan sekarang.
 
-[106:37] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
+[1:46:37] Ini figure of speech lah kan. Ah okay. Kalau orang check GPT atau cari uh, kenyataan-kenyataan Datuk Seri Anwar mengenai billboard besar tahun 2023 dahulu Datuk Seri Anwar beritahu, "Hentikan semua billboard-billboard besar".
 
-[106:54] Hmm mhm.
+[1:46:54] Hmm mhm.
 
-[106:55] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
+[1:46:55] Ini merugikan wang negara. Ha, pun ada kat situ kan. Cuma yang orang akan tanya lagi lah ni, ni siapa yang bayar, macam mana kan? Jadi, tapi tak apalah, untuk markah beria.
 
-[107:08] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
+[1:47:08] Ah ini pesaing yang hebat lah dengan Setiausaha Agung PKR kan.
 
-[107:13] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
+[1:47:13] Tak ada persaingan sekarang. Tak ada persaingan. Tapi dia viral lah gitu kan.
 
-[107:21] Ya betul, memang viral. Minggu lepas.
+[1:47:21] Ya betul, memang viral. Minggu lepas.
 
-[107:25] Okey. Hmm. Beria.
+[1:47:25] Okey. Hmm. Beria.
 
-[107:30] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
+[1:47:30] Agak-agak Datuk Seri Anwar ada telefon ke Ramanan? Oih Ramanan, kau janganlah buat benda-benda yang buat aku kena troll.
 
-[107:39] Saya rasa dah banyak sangat kot dia.
+[1:47:39] Saya rasa dah banyak sangat kot dia.
 
-[107:42] Ya. Overwhelm.
+[1:47:42] Ya. Overwhelm.
 
-[107:43] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
+[1:47:43] Hmm overwhelm, ataupun dia kata tak, yang troll tu Rafizi seorang aje.
 
-[107:48] Ah ah ah.
+[1:47:48] Ah ah ah.
 
-[107:49] Oh tak ada apa tak ada apa. Ni ni sikit aje.
+[1:47:49] Oh tak ada apa tak ada apa. Ni ni sikit aje.
 
-[107:51] Ha tak ada, ini Rafizi seorang aje ni.
+[1:47:51] Ha tak ada, ini Rafizi seorang aje ni.
 
-[107:54] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
+[1:47:54] Itu hanya dia seorang yang berani melawan arus. Baju pun boleh disulam. Ini kan pula billboard Pishaan. Ramanan hebat.
 
-[108:01] Ah hebat lah netizen kan.
+[1:48:01] Ah hebat lah netizen kan.
 
-[108:03] Okey. Okey. Tak cukup lagi YB.
+[1:48:03] Okey. Okey. Tak cukup lagi YB.
 
-[108:06] Next.
+[1:48:06] Next.
 
-[108:07] Ah kita ada ketua biro Rafizi.
+[1:48:07] Ah kita ada ketua biro Rafizi.
 
-[108:09] Ha.
+[1:48:09] Ha.
 
-[108:12] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
+[1:48:12] Ketiadaan duit bilion ringgit masuk ke akaun peribadi Rafizi bukan bermakna rasuah tak wujud. Ini kira Hmm. Apa nama ni? Uhm, sufi tahap tinggi ni.
 
-[108:27] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
+[1:48:27] Sufi tahap tinggi kan, ha. Dia nak kata lah, uhm uh, kalau ikut laporan media itulah. Dia nak kata bahawa rasuah ini ada banyak-banyak jenis, kan. Ah, uh, uh, walaupun dia tak ambil duit, konon. Jadi yang bagusnya, Puan Zakashini memang daripada awal nampaknya memang dah beritahu bahawa "Kalau cari bukti saya ambil duit, tak jumpalah". Hmm, mhm. Ah tapi itu tidak bermakna Rafizi tak rasuah. Rasuah. Ah cuma rasuah dia cara millennial sikit. Ah, rasuah dia, dia tak ambil duit. Tapi ah, apa nama ni, mungkin, ah satu kabinet tu kena scam dengan dia. Ah itu itu sebenarnya saya baca dia punya, dia punya berita tu kan. Ah jadi. Ah ya.
 
-[109:03] Kalau sama macam Datuk Seri Anwar lah kan.
+[1:49:03] Kalau sama macam Datuk Seri Anwar lah kan.
 
-[109:07] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
+[1:49:07] Saya kadang-kadang pelik juga lah. Dia tak mungkin dia tak telefon Ramanan lah kan?
 
-[109:12] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
+[1:49:12] Ah. Ini style lama. Mana ada orang pegang telefon macam ni kan? Ini gagang style telefon zaman aku kecil, orang sekarang pegang macam ni, ha.
 
-[109:20] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
+[1:49:20] Um, UMNO pun, I wonder, Datuk Seri Zahid ni tak telefon Puan Zakashini ke?
 
-[109:25] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
+[1:49:25] Engkau ni, janganlah, ah apa nama ni, hanya kerana untuk mendapat liputan di dalam media, kau petik nama Rafizi.
 
-[109:34] Kemudian kau sebut benda bukan-bukan. Sebab.
+[1:49:34] Kemudian kau sebut benda bukan-bukan. Sebab.
 
-[109:37] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
+[1:49:37] Bila dia cakap macam ini, ah secara tidak langsung dia betul, Rafizi tak ambil duit, ah tapi dia tetap rasuah dengan cara-cara sufi dialah kan.
 
-[109:48] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
+[1:49:48] Sebab nanti orang akan ingat, ah, kau nak bising Puan, habis yang apa nama ni Najib ambil berbilion ringgit tu?
 
-[109:58] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
+[1:49:58] Ah, jadi ah masuk akaun peribadi Najib tu, memang kau pun mengaku lah itu memang rasuah lah kan.
 
-[110:05] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
+[1:50:05] Yang lagi bahayanya ialah kalau dia nak kata rasuah itu yang saya buat, saya sepatutnya bersalah, diheret ke mahkamah, kerana saya rasuah tetapi tak ambil duit ini ialah kerana saya, kalau ikut berita laporan lah, kononnya saya mislead kabinet kan?
 
-[110:25] Ah kan? Ataupun tak mengikut peraturan proses kan?
+[1:50:25] Ah kan? Ataupun tak mengikut peraturan proses kan?
 
-[110:29] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
+[1:50:29] Ah, sekarang ini sibuk cerita pasal Bestinet, Hmm, Hmm.
 
-[110:34] Cerita Foreign Workers Centralized Management System.
+[1:50:34] Cerita Foreign Workers Centralized Management System.
 
-[110:38] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
+[1:50:38] Benda itu bermula tahun 2015 masa Presiden UMNO Menteri Dalam Negeri,
 
-[110:45] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
+[1:50:45] dan dalam laporan Ketua Audit Negara, kemudian dalam laporan Jawatankuasa Kira-kira Wang Negara PAC kan.
 
-[110:54] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
+[1:50:54] Semua dah senaraikan pelbagai perkara yang kalau ikut, Puan Zakashini tu, itu rasuah.
 
-[111:02] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
+[1:51:02] Sebab contohnya 2015 memang tidak ada keputusan kabinet untuk menggunakan Bestinet pun.
 
 [11:11] Hmm.
 

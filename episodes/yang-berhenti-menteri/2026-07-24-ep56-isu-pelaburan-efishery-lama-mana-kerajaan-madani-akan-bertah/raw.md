@@ -1774,1517 +1774,1517 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:59] Dia buka Dia tak dapat apa?
 
-[60:01] Ha.
+[1:00:01] Ha.
 
-[60:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:00:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[60:06] Ada macam-macam eh YB punya analisis.
+[1:00:06] Ada macam-macam eh YB punya analisis.
 
-[60:10] Betul tak?
+[1:00:10] Betul tak?
 
-[60:11] So, Dia bagi reason tu.
+[1:00:11] So, Dia bagi reason tu.
 
-[60:12] Dia bagi reason.
+[1:00:12] Dia bagi reason.
 
-[60:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:00:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[60:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:00:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[60:34] Kalau Argentina menang, dia tak tepakailah.
+[1:00:34] Kalau Argentina menang, dia tak tepakailah.
 
-[60:38] So, betting apa bodohnya macam tu kan.
+[1:00:38] So, betting apa bodohnya macam tu kan.
 
-[60:41] Dia buka Dia tak dapat apa?
+[1:00:41] Dia buka Dia tak dapat apa?
 
-[60:43] Ha.
+[1:00:43] Ha.
 
-[60:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:00:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[60:48] Ada macam-macam eh YB punya analisis.
+[1:00:48] Ada macam-macam eh YB punya analisis.
 
-[60:52] Betul tak?
+[1:00:52] Betul tak?
 
-[60:53] So, Dia bagi reason tu.
+[1:00:53] So, Dia bagi reason tu.
 
-[60:54] Dia bagi reason.
+[1:00:54] Dia bagi reason.
 
-[60:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:00:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[61:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:01:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[61:16] Kalau Argentina menang, dia tak tepakailah.
+[1:01:16] Kalau Argentina menang, dia tak tepakailah.
 
-[61:20] So, betting apa bodohnya macam tu kan.
+[1:01:20] So, betting apa bodohnya macam tu kan.
 
-[61:23] Dia buka Dia tak dapat apa?
+[1:01:23] Dia buka Dia tak dapat apa?
 
-[61:25] Ha.
+[1:01:25] Ha.
 
-[61:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:01:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[61:30] Ada macam-macam eh YB punya analisis.
+[1:01:30] Ada macam-macam eh YB punya analisis.
 
-[61:34] Betul tak?
+[1:01:34] Betul tak?
 
-[61:35] So, Dia bagi reason tu.
+[1:01:35] So, Dia bagi reason tu.
 
-[61:36] Dia bagi reason.
+[1:01:36] Dia bagi reason.
 
-[61:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:01:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[61:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:01:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[61:58] Kalau Argentina menang, dia tak tepakailah.
+[1:01:58] Kalau Argentina menang, dia tak tepakailah.
 
-[62:02] So, betting apa bodohnya macam tu kan.
+[1:02:02] So, betting apa bodohnya macam tu kan.
 
-[62:05] Dia buka Dia tak dapat apa?
+[1:02:05] Dia buka Dia tak dapat apa?
 
-[62:07] Ha.
+[1:02:07] Ha.
 
-[62:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:02:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[62:12] Ada macam-macam eh YB punya analisis.
+[1:02:12] Ada macam-macam eh YB punya analisis.
 
-[62:16] Betul tak?
+[1:02:16] Betul tak?
 
-[62:17] So, Dia bagi reason tu.
+[1:02:17] So, Dia bagi reason tu.
 
-[62:18] Dia bagi reason.
+[1:02:18] Dia bagi reason.
 
-[62:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:02:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[62:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:02:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[62:40] Kalau Argentina menang, dia tak tepakailah.
+[1:02:40] Kalau Argentina menang, dia tak tepakailah.
 
-[62:44] So, betting apa bodohnya macam tu kan.
+[1:02:44] So, betting apa bodohnya macam tu kan.
 
-[62:47] Dia buka Dia tak dapat apa?
+[1:02:47] Dia buka Dia tak dapat apa?
 
-[62:49] Ha.
+[1:02:49] Ha.
 
-[62:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:02:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[62:54] Ada macam-macam eh YB punya analisis.
+[1:02:54] Ada macam-macam eh YB punya analisis.
 
-[62:58] Betul tak?
+[1:02:58] Betul tak?
 
-[62:59] So, Dia bagi reason tu.
+[1:02:59] So, Dia bagi reason tu.
 
-[63:00] Dia bagi reason.
+[1:03:00] Dia bagi reason.
 
-[63:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:03:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[63:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:03:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[63:22] Kalau Argentina menang, dia tak tepakailah.
+[1:03:22] Kalau Argentina menang, dia tak tepakailah.
 
-[63:26] So, betting apa bodohnya macam tu kan.
+[1:03:26] So, betting apa bodohnya macam tu kan.
 
-[63:29] Dia buka Dia tak dapat apa?
+[1:03:29] Dia buka Dia tak dapat apa?
 
-[63:31] Ha.
+[1:03:31] Ha.
 
-[63:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:03:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[63:36] Ada macam-macam eh YB punya analisis.
+[1:03:36] Ada macam-macam eh YB punya analisis.
 
-[63:40] Betul tak?
+[1:03:40] Betul tak?
 
-[63:41] So, Dia bagi reason tu.
+[1:03:41] So, Dia bagi reason tu.
 
-[63:42] Dia bagi reason.
+[1:03:42] Dia bagi reason.
 
-[63:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:03:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[63:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:03:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[64:04] Kalau Argentina menang, dia tak tepakailah.
+[1:04:04] Kalau Argentina menang, dia tak tepakailah.
 
-[64:08] So, betting apa bodohnya macam tu kan.
+[1:04:08] So, betting apa bodohnya macam tu kan.
 
-[64:11] Dia buka Dia tak dapat apa?
+[1:04:11] Dia buka Dia tak dapat apa?
 
-[64:13] Ha.
+[1:04:13] Ha.
 
-[64:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:04:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[64:18] Ada macam-macam eh YB punya analisis.
+[1:04:18] Ada macam-macam eh YB punya analisis.
 
-[64:22] Betul tak?
+[1:04:22] Betul tak?
 
-[64:23] So, Dia bagi reason tu.
+[1:04:23] So, Dia bagi reason tu.
 
-[64:24] Dia bagi reason.
+[1:04:24] Dia bagi reason.
 
-[64:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:04:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[64:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:04:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[64:46] Kalau Argentina menang, dia tak tepakailah.
+[1:04:46] Kalau Argentina menang, dia tak tepakailah.
 
-[64:50] So, betting apa bodohnya macam tu kan.
+[1:04:50] So, betting apa bodohnya macam tu kan.
 
-[64:53] Dia buka Dia tak dapat apa?
+[1:04:53] Dia buka Dia tak dapat apa?
 
-[64:55] Ha.
+[1:04:55] Ha.
 
-[64:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:04:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[65:00] Ada macam-macam eh YB punya analisis.
+[1:05:00] Ada macam-macam eh YB punya analisis.
 
-[65:04] Betul tak?
+[1:05:04] Betul tak?
 
-[65:05] So, Dia bagi reason tu.
+[1:05:05] So, Dia bagi reason tu.
 
-[65:06] Dia bagi reason.
+[1:05:06] Dia bagi reason.
 
-[65:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:05:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[65:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:05:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[65:28] Kalau Argentina menang, dia tak tepakailah.
+[1:05:28] Kalau Argentina menang, dia tak tepakailah.
 
-[65:32] So, betting apa bodohnya macam tu kan.
+[1:05:32] So, betting apa bodohnya macam tu kan.
 
-[65:35] Dia buka Dia tak dapat apa?
+[1:05:35] Dia buka Dia tak dapat apa?
 
-[65:37] Ha.
+[1:05:37] Ha.
 
-[65:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:05:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[65:42] Ada macam-macam eh YB punya analisis.
+[1:05:42] Ada macam-macam eh YB punya analisis.
 
-[65:46] Betul tak?
+[1:05:46] Betul tak?
 
-[65:47] So, Dia bagi reason tu.
+[1:05:47] So, Dia bagi reason tu.
 
-[65:48] Dia bagi reason.
+[1:05:48] Dia bagi reason.
 
-[65:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:05:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[65:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:05:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[66:10] Kalau Argentina menang, dia tak tepakailah.
+[1:06:10] Kalau Argentina menang, dia tak tepakailah.
 
-[66:14] So, betting apa bodohnya macam tu kan.
+[1:06:14] So, betting apa bodohnya macam tu kan.
 
-[66:17] Dia buka Dia tak dapat apa?
+[1:06:17] Dia buka Dia tak dapat apa?
 
-[66:19] Ha.
+[1:06:19] Ha.
 
-[66:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:06:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[66:24] Ada macam-macam eh YB punya analisis.
+[1:06:24] Ada macam-macam eh YB punya analisis.
 
-[66:28] Betul tak?
+[1:06:28] Betul tak?
 
-[66:29] So, Dia bagi reason tu.
+[1:06:29] So, Dia bagi reason tu.
 
-[66:30] Dia bagi reason.
+[1:06:30] Dia bagi reason.
 
-[66:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:06:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[66:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:06:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[66:52] Kalau Argentina menang, dia tak tepakailah.
+[1:06:52] Kalau Argentina menang, dia tak tepakailah.
 
-[66:56] So, betting apa bodohnya macam tu kan.
+[1:06:56] So, betting apa bodohnya macam tu kan.
 
-[66:59] Dia buka Dia tak dapat apa?
+[1:06:59] Dia buka Dia tak dapat apa?
 
-[67:01] Ha.
+[1:07:01] Ha.
 
-[67:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:07:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[67:06] Ada macam-macam eh YB punya analisis.
+[1:07:06] Ada macam-macam eh YB punya analisis.
 
-[67:10] Betul tak?
+[1:07:10] Betul tak?
 
-[67:11] So, Dia bagi reason tu.
+[1:07:11] So, Dia bagi reason tu.
 
-[67:12] Dia bagi reason.
+[1:07:12] Dia bagi reason.
 
-[67:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:07:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[67:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:07:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[67:34] Kalau Argentina menang, dia tak tepakailah.
+[1:07:34] Kalau Argentina menang, dia tak tepakailah.
 
-[67:38] So, betting apa bodohnya macam tu kan.
+[1:07:38] So, betting apa bodohnya macam tu kan.
 
-[67:41] Dia buka Dia tak dapat apa?
+[1:07:41] Dia buka Dia tak dapat apa?
 
-[67:43] Ha.
+[1:07:43] Ha.
 
-[67:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:07:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[67:48] Ada macam-macam eh YB punya analisis.
+[1:07:48] Ada macam-macam eh YB punya analisis.
 
-[67:52] Betul tak?
+[1:07:52] Betul tak?
 
-[67:53] So, Dia bagi reason tu.
+[1:07:53] So, Dia bagi reason tu.
 
-[67:54] Dia bagi reason.
+[1:07:54] Dia bagi reason.
 
-[67:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:07:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[68:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:08:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[68:16] Kalau Argentina menang, dia tak tepakailah.
+[1:08:16] Kalau Argentina menang, dia tak tepakailah.
 
-[68:20] So, betting apa bodohnya macam tu kan.
+[1:08:20] So, betting apa bodohnya macam tu kan.
 
-[68:23] Dia buka Dia tak dapat apa?
+[1:08:23] Dia buka Dia tak dapat apa?
 
-[68:25] Ha.
+[1:08:25] Ha.
 
-[68:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:08:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[68:30] Ada macam-macam eh YB punya analisis.
+[1:08:30] Ada macam-macam eh YB punya analisis.
 
-[68:34] Betul tak?
+[1:08:34] Betul tak?
 
-[68:35] So, Dia bagi reason tu.
+[1:08:35] So, Dia bagi reason tu.
 
-[68:36] Dia bagi reason.
+[1:08:36] Dia bagi reason.
 
-[68:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:08:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[68:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:08:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[68:58] Kalau Argentina menang, dia tak tepakailah.
+[1:08:58] Kalau Argentina menang, dia tak tepakailah.
 
-[69:02] So, betting apa bodohnya macam tu kan.
+[1:09:02] So, betting apa bodohnya macam tu kan.
 
-[69:05] Dia buka Dia tak dapat apa?
+[1:09:05] Dia buka Dia tak dapat apa?
 
-[69:07] Ha.
+[1:09:07] Ha.
 
-[69:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:09:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[69:12] Ada macam-macam eh YB punya analisis.
+[1:09:12] Ada macam-macam eh YB punya analisis.
 
-[69:16] Betul tak?
+[1:09:16] Betul tak?
 
-[69:17] So, Dia bagi reason tu.
+[1:09:17] So, Dia bagi reason tu.
 
-[69:18] Dia bagi reason.
+[1:09:18] Dia bagi reason.
 
-[69:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:09:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[69:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:09:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[69:40] Kalau Argentina menang, dia tak tepakailah.
+[1:09:40] Kalau Argentina menang, dia tak tepakailah.
 
-[69:44] So, betting apa bodohnya macam tu kan.
+[1:09:44] So, betting apa bodohnya macam tu kan.
 
-[69:47] Dia buka Dia tak dapat apa?
+[1:09:47] Dia buka Dia tak dapat apa?
 
-[69:49] Ha.
+[1:09:49] Ha.
 
-[69:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:09:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[69:54] Ada macam-macam eh YB punya analisis.
+[1:09:54] Ada macam-macam eh YB punya analisis.
 
-[69:58] Betul tak?
+[1:09:58] Betul tak?
 
-[69:59] So, Dia bagi reason tu.
+[1:09:59] So, Dia bagi reason tu.
 
-[70:00] Dia bagi reason.
+[1:10:00] Dia bagi reason.
 
-[70:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:10:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[70:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:10:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[70:22] Kalau Argentina menang, dia tak tepakailah.
+[1:10:22] Kalau Argentina menang, dia tak tepakailah.
 
-[70:26] So, betting apa bodohnya macam tu kan.
+[1:10:26] So, betting apa bodohnya macam tu kan.
 
-[70:29] Dia buka Dia tak dapat apa?
+[1:10:29] Dia buka Dia tak dapat apa?
 
-[70:31] Ha.
+[1:10:31] Ha.
 
-[70:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:10:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[70:36] Ada macam-macam eh YB punya analisis.
+[1:10:36] Ada macam-macam eh YB punya analisis.
 
-[70:40] Betul tak?
+[1:10:40] Betul tak?
 
-[70:41] So, Dia bagi reason tu.
+[1:10:41] So, Dia bagi reason tu.
 
-[70:42] Dia bagi reason.
+[1:10:42] Dia bagi reason.
 
-[70:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:10:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[70:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:10:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[71:04] Kalau Argentina menang, dia tak tepakailah.
+[1:11:04] Kalau Argentina menang, dia tak tepakailah.
 
-[71:08] So, betting apa bodohnya macam tu kan.
+[1:11:08] So, betting apa bodohnya macam tu kan.
 
-[71:11] Dia buka Dia tak dapat apa?
+[1:11:11] Dia buka Dia tak dapat apa?
 
-[71:13] Ha.
+[1:11:13] Ha.
 
-[71:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:11:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[71:18] Ada macam-macam eh YB punya analisis.
+[1:11:18] Ada macam-macam eh YB punya analisis.
 
-[71:22] Betul tak?
+[1:11:22] Betul tak?
 
-[71:23] So, Dia bagi reason tu.
+[1:11:23] So, Dia bagi reason tu.
 
-[71:24] Dia bagi reason.
+[1:11:24] Dia bagi reason.
 
-[71:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:11:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[71:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:11:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[71:46] Kalau Argentina menang, dia tak tepakailah.
+[1:11:46] Kalau Argentina menang, dia tak tepakailah.
 
-[71:50] So, betting apa bodohnya macam tu kan.
+[1:11:50] So, betting apa bodohnya macam tu kan.
 
-[71:53] Dia buka Dia tak dapat apa?
+[1:11:53] Dia buka Dia tak dapat apa?
 
-[71:55] Ha.
+[1:11:55] Ha.
 
-[71:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:11:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[72:00] Ada macam-macam eh YB punya analisis.
+[1:12:00] Ada macam-macam eh YB punya analisis.
 
-[72:04] Betul tak?
+[1:12:04] Betul tak?
 
-[72:05] So, Dia bagi reason tu.
+[1:12:05] So, Dia bagi reason tu.
 
-[72:06] Dia bagi reason.
+[1:12:06] Dia bagi reason.
 
-[72:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:12:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[72:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:12:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[72:28] Kalau Argentina menang, dia tak tepakailah.
+[1:12:28] Kalau Argentina menang, dia tak tepakailah.
 
-[72:32] So, betting apa bodohnya macam tu kan.
+[1:12:32] So, betting apa bodohnya macam tu kan.
 
-[72:35] Dia buka Dia tak dapat apa?
+[1:12:35] Dia buka Dia tak dapat apa?
 
-[72:37] Ha.
+[1:12:37] Ha.
 
-[72:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:12:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[72:42] Ada macam-macam eh YB punya analisis.
+[1:12:42] Ada macam-macam eh YB punya analisis.
 
-[72:46] Betul tak?
+[1:12:46] Betul tak?
 
-[72:47] So, Dia bagi reason tu.
+[1:12:47] So, Dia bagi reason tu.
 
-[72:48] Dia bagi reason.
+[1:12:48] Dia bagi reason.
 
-[72:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:12:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[72:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:12:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[73:10] Kalau Argentina menang, dia tak tepakailah.
+[1:13:10] Kalau Argentina menang, dia tak tepakailah.
 
-[73:14] So, betting apa bodohnya macam tu kan.
+[1:13:14] So, betting apa bodohnya macam tu kan.
 
-[73:17] Dia buka Dia tak dapat apa?
+[1:13:17] Dia buka Dia tak dapat apa?
 
-[73:19] Ha.
+[1:13:19] Ha.
 
-[73:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:13:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[73:24] Ada macam-macam eh YB punya analisis.
+[1:13:24] Ada macam-macam eh YB punya analisis.
 
-[73:28] Betul tak?
+[1:13:28] Betul tak?
 
-[73:29] So, Dia bagi reason tu.
+[1:13:29] So, Dia bagi reason tu.
 
-[73:30] Dia bagi reason.
+[1:13:30] Dia bagi reason.
 
-[73:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:13:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[73:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:13:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[73:52] Kalau Argentina menang, dia tak tepakailah.
+[1:13:52] Kalau Argentina menang, dia tak tepakailah.
 
-[73:56] So, betting apa bodohnya macam tu kan.
+[1:13:56] So, betting apa bodohnya macam tu kan.
 
-[73:59] Dia buka Dia tak dapat apa?
+[1:13:59] Dia buka Dia tak dapat apa?
 
-[74:01] Ha.
+[1:14:01] Ha.
 
-[74:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:14:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[74:06] Ada macam-macam eh YB punya analisis.
+[1:14:06] Ada macam-macam eh YB punya analisis.
 
-[74:10] Betul tak?
+[1:14:10] Betul tak?
 
-[74:11] So, Dia bagi reason tu.
+[1:14:11] So, Dia bagi reason tu.
 
-[74:12] Dia bagi reason.
+[1:14:12] Dia bagi reason.
 
-[74:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:14:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[74:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:14:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[74:34] Kalau Argentina menang, dia tak tepakailah.
+[1:14:34] Kalau Argentina menang, dia tak tepakailah.
 
-[74:38] So, betting apa bodohnya macam tu kan.
+[1:14:38] So, betting apa bodohnya macam tu kan.
 
-[74:41] Dia buka Dia tak dapat apa?
+[1:14:41] Dia buka Dia tak dapat apa?
 
-[74:43] Ha.
+[1:14:43] Ha.
 
-[74:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:14:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[74:48] Ada macam-macam eh YB punya analisis.
+[1:14:48] Ada macam-macam eh YB punya analisis.
 
-[74:52] Betul tak?
+[1:14:52] Betul tak?
 
-[74:53] So, Dia bagi reason tu.
+[1:14:53] So, Dia bagi reason tu.
 
-[74:54] Dia bagi reason.
+[1:14:54] Dia bagi reason.
 
-[74:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:14:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[75:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:15:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[75:16] Kalau Argentina menang, dia tak tepakailah.
+[1:15:16] Kalau Argentina menang, dia tak tepakailah.
 
-[75:20] So, betting apa bodohnya macam tu kan.
+[1:15:20] So, betting apa bodohnya macam tu kan.
 
-[75:23] Dia buka Dia tak dapat apa?
+[1:15:23] Dia buka Dia tak dapat apa?
 
-[75:25] Ha.
+[1:15:25] Ha.
 
-[75:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:15:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[75:30] Ada macam-macam eh YB punya analisis.
+[1:15:30] Ada macam-macam eh YB punya analisis.
 
-[75:34] Betul tak?
+[1:15:34] Betul tak?
 
-[75:35] So, Dia bagi reason tu.
+[1:15:35] So, Dia bagi reason tu.
 
-[75:36] Dia bagi reason.
+[1:15:36] Dia bagi reason.
 
-[75:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:15:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[75:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:15:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[75:58] Kalau Argentina menang, dia tak tepakailah.
+[1:15:58] Kalau Argentina menang, dia tak tepakailah.
 
-[76:02] So, betting apa bodohnya macam tu kan.
+[1:16:02] So, betting apa bodohnya macam tu kan.
 
-[76:05] Dia buka Dia tak dapat apa?
+[1:16:05] Dia buka Dia tak dapat apa?
 
-[76:07] Ha.
+[1:16:07] Ha.
 
-[76:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:16:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[76:12] Ada macam-macam eh YB punya analisis.
+[1:16:12] Ada macam-macam eh YB punya analisis.
 
-[76:16] Betul tak?
+[1:16:16] Betul tak?
 
-[76:17] So, Dia bagi reason tu.
+[1:16:17] So, Dia bagi reason tu.
 
-[76:18] Dia bagi reason.
+[1:16:18] Dia bagi reason.
 
-[76:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:16:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[76:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:16:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[76:40] Kalau Argentina menang, dia tak tepakailah.
+[1:16:40] Kalau Argentina menang, dia tak tepakailah.
 
-[76:44] So, betting apa bodohnya macam tu kan.
+[1:16:44] So, betting apa bodohnya macam tu kan.
 
-[76:47] Dia buka Dia tak dapat apa?
+[1:16:47] Dia buka Dia tak dapat apa?
 
-[76:49] Ha.
+[1:16:49] Ha.
 
-[76:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:16:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[76:54] Ada macam-macam eh YB punya analisis.
+[1:16:54] Ada macam-macam eh YB punya analisis.
 
-[76:58] Betul tak?
+[1:16:58] Betul tak?
 
-[76:59] So, Dia bagi reason tu.
+[1:16:59] So, Dia bagi reason tu.
 
-[77:00] Dia bagi reason.
+[1:17:00] Dia bagi reason.
 
-[77:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:17:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[77:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:17:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[77:22] Kalau Argentina menang, dia tak tepakailah.
+[1:17:22] Kalau Argentina menang, dia tak tepakailah.
 
-[77:26] So, betting apa bodohnya macam tu kan.
+[1:17:26] So, betting apa bodohnya macam tu kan.
 
-[77:29] Dia buka Dia tak dapat apa?
+[1:17:29] Dia buka Dia tak dapat apa?
 
-[77:31] Ha.
+[1:17:31] Ha.
 
-[77:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:17:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[77:36] Ada macam-macam eh YB punya analisis.
+[1:17:36] Ada macam-macam eh YB punya analisis.
 
-[77:40] Betul tak?
+[1:17:40] Betul tak?
 
-[77:41] So, Dia bagi reason tu.
+[1:17:41] So, Dia bagi reason tu.
 
-[77:42] Dia bagi reason.
+[1:17:42] Dia bagi reason.
 
-[77:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:17:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[77:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:17:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[78:04] Kalau Argentina menang, dia tak tepakailah.
+[1:18:04] Kalau Argentina menang, dia tak tepakailah.
 
-[78:08] So, betting apa bodohnya macam tu kan.
+[1:18:08] So, betting apa bodohnya macam tu kan.
 
-[78:11] Dia buka Dia tak dapat apa?
+[1:18:11] Dia buka Dia tak dapat apa?
 
-[78:13] Ha.
+[1:18:13] Ha.
 
-[78:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:18:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[78:18] Ada macam-macam eh YB punya analisis.
+[1:18:18] Ada macam-macam eh YB punya analisis.
 
-[78:22] Betul tak?
+[1:18:22] Betul tak?
 
-[78:23] So, Dia bagi reason tu.
+[1:18:23] So, Dia bagi reason tu.
 
-[78:24] Dia bagi reason.
+[1:18:24] Dia bagi reason.
 
-[78:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:18:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[78:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:18:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[78:46] Kalau Argentina menang, dia tak tepakailah.
+[1:18:46] Kalau Argentina menang, dia tak tepakailah.
 
-[78:50] So, betting apa bodohnya macam tu kan.
+[1:18:50] So, betting apa bodohnya macam tu kan.
 
-[78:53] Dia buka Dia tak dapat apa?
+[1:18:53] Dia buka Dia tak dapat apa?
 
-[78:55] Ha.
+[1:18:55] Ha.
 
-[78:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:18:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[79:00] Ada macam-macam eh YB punya analisis.
+[1:19:00] Ada macam-macam eh YB punya analisis.
 
-[79:04] Betul tak?
+[1:19:04] Betul tak?
 
-[79:05] So, Dia bagi reason tu.
+[1:19:05] So, Dia bagi reason tu.
 
-[79:06] Dia bagi reason.
+[1:19:06] Dia bagi reason.
 
-[79:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:19:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[79:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:19:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[79:28] Kalau Argentina menang, dia tak tepakailah.
+[1:19:28] Kalau Argentina menang, dia tak tepakailah.
 
-[79:32] So, betting apa bodohnya macam tu kan.
+[1:19:32] So, betting apa bodohnya macam tu kan.
 
-[79:35] Dia buka Dia tak dapat apa?
+[1:19:35] Dia buka Dia tak dapat apa?
 
-[79:37] Ha.
+[1:19:37] Ha.
 
-[79:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:19:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[79:42] Ada macam-macam eh YB punya analisis.
+[1:19:42] Ada macam-macam eh YB punya analisis.
 
-[79:46] Betul tak?
+[1:19:46] Betul tak?
 
-[79:47] So, Dia bagi reason tu.
+[1:19:47] So, Dia bagi reason tu.
 
-[79:48] Dia bagi reason.
+[1:19:48] Dia bagi reason.
 
-[79:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:19:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[79:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:19:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[80:10] Kalau Argentina menang, dia tak tepakailah.
+[1:20:10] Kalau Argentina menang, dia tak tepakailah.
 
-[80:14] So, betting apa bodohnya macam tu kan.
+[1:20:14] So, betting apa bodohnya macam tu kan.
 
-[80:17] Dia buka Dia tak dapat apa?
+[1:20:17] Dia buka Dia tak dapat apa?
 
-[80:19] Ha.
+[1:20:19] Ha.
 
-[80:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:20:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[80:24] Ada macam-macam eh YB punya analisis.
+[1:20:24] Ada macam-macam eh YB punya analisis.
 
-[80:28] Betul tak?
+[1:20:28] Betul tak?
 
-[80:29] So, Dia bagi reason tu.
+[1:20:29] So, Dia bagi reason tu.
 
-[80:30] Dia bagi reason.
+[1:20:30] Dia bagi reason.
 
-[80:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:20:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[80:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:20:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[80:52] Kalau Argentina menang, dia tak tepakailah.
+[1:20:52] Kalau Argentina menang, dia tak tepakailah.
 
-[80:56] So, betting apa bodohnya macam tu kan.
+[1:20:56] So, betting apa bodohnya macam tu kan.
 
-[80:59] Dia buka Dia tak dapat apa?
+[1:20:59] Dia buka Dia tak dapat apa?
 
-[81:01] Ha.
+[1:21:01] Ha.
 
-[81:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:21:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[81:06] Ada macam-macam eh YB punya analisis.
+[1:21:06] Ada macam-macam eh YB punya analisis.
 
-[81:10] Betul tak?
+[1:21:10] Betul tak?
 
-[81:11] So, Dia bagi reason tu.
+[1:21:11] So, Dia bagi reason tu.
 
-[81:12] Dia bagi reason.
+[1:21:12] Dia bagi reason.
 
-[81:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:21:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[81:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:21:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[81:34] Kalau Argentina menang, dia tak tepakailah.
+[1:21:34] Kalau Argentina menang, dia tak tepakailah.
 
-[81:38] So, betting apa bodohnya macam tu kan.
+[1:21:38] So, betting apa bodohnya macam tu kan.
 
-[81:41] Dia buka Dia tak dapat apa?
+[1:21:41] Dia buka Dia tak dapat apa?
 
-[81:43] Ha.
+[1:21:43] Ha.
 
-[81:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:21:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[81:48] Ada macam-macam eh YB punya analisis.
+[1:21:48] Ada macam-macam eh YB punya analisis.
 
-[81:52] Betul tak?
+[1:21:52] Betul tak?
 
-[81:53] So, Dia bagi reason tu.
+[1:21:53] So, Dia bagi reason tu.
 
-[81:54] Dia bagi reason.
+[1:21:54] Dia bagi reason.
 
-[81:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:21:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[82:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:22:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[82:16] Kalau Argentina menang, dia tak tepakailah.
+[1:22:16] Kalau Argentina menang, dia tak tepakailah.
 
-[82:20] So, betting apa bodohnya macam tu kan.
+[1:22:20] So, betting apa bodohnya macam tu kan.
 
-[82:23] Dia buka Dia tak dapat apa?
+[1:22:23] Dia buka Dia tak dapat apa?
 
-[82:25] Ha.
+[1:22:25] Ha.
 
-[82:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:22:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[82:30] Ada macam-macam eh YB punya analisis.
+[1:22:30] Ada macam-macam eh YB punya analisis.
 
-[82:34] Betul tak?
+[1:22:34] Betul tak?
 
-[82:35] So, Dia bagi reason tu.
+[1:22:35] So, Dia bagi reason tu.
 
-[82:36] Dia bagi reason.
+[1:22:36] Dia bagi reason.
 
-[82:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:22:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[82:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:22:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[82:58] Kalau Argentina menang, dia tak tepakailah.
+[1:22:58] Kalau Argentina menang, dia tak tepakailah.
 
-[83:02] So, betting apa bodohnya macam tu kan.
+[1:23:02] So, betting apa bodohnya macam tu kan.
 
-[83:05] Dia buka Dia tak dapat apa?
+[1:23:05] Dia buka Dia tak dapat apa?
 
-[83:07] Ha.
+[1:23:07] Ha.
 
-[83:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:23:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[83:12] Ada macam-macam eh YB punya analisis.
+[1:23:12] Ada macam-macam eh YB punya analisis.
 
-[83:16] Betul tak?
+[1:23:16] Betul tak?
 
-[83:17] So, Dia bagi reason tu.
+[1:23:17] So, Dia bagi reason tu.
 
-[83:18] Dia bagi reason.
+[1:23:18] Dia bagi reason.
 
-[83:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:23:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[83:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:23:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[83:40] Kalau Argentina menang, dia tak tepakailah.
+[1:23:40] Kalau Argentina menang, dia tak tepakailah.
 
-[83:44] So, betting apa bodohnya macam tu kan.
+[1:23:44] So, betting apa bodohnya macam tu kan.
 
-[83:47] Dia buka Dia tak dapat apa?
+[1:23:47] Dia buka Dia tak dapat apa?
 
-[83:49] Ha.
+[1:23:49] Ha.
 
-[83:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:23:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[83:54] Ada macam-macam eh YB punya analisis.
+[1:23:54] Ada macam-macam eh YB punya analisis.
 
-[83:58] Betul tak?
+[1:23:58] Betul tak?
 
-[83:59] So, Dia bagi reason tu.
+[1:23:59] So, Dia bagi reason tu.
 
-[84:00] Dia bagi reason.
+[1:24:00] Dia bagi reason.
 
-[84:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:24:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[84:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:24:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[84:22] Kalau Argentina menang, dia tak tepakailah.
+[1:24:22] Kalau Argentina menang, dia tak tepakailah.
 
-[84:26] So, betting apa bodohnya macam tu kan.
+[1:24:26] So, betting apa bodohnya macam tu kan.
 
-[84:29] Dia buka Dia tak dapat apa?
+[1:24:29] Dia buka Dia tak dapat apa?
 
-[84:31] Ha.
+[1:24:31] Ha.
 
-[84:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:24:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[84:36] Ada macam-macam eh YB punya analisis.
+[1:24:36] Ada macam-macam eh YB punya analisis.
 
-[84:40] Betul tak?
+[1:24:40] Betul tak?
 
-[84:41] So, Dia bagi reason tu.
+[1:24:41] So, Dia bagi reason tu.
 
-[84:42] Dia bagi reason.
+[1:24:42] Dia bagi reason.
 
-[84:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:24:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[84:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:24:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[85:04] Kalau Argentina menang, dia tak tepakailah.
+[1:25:04] Kalau Argentina menang, dia tak tepakailah.
 
-[85:08] So, betting apa bodohnya macam tu kan.
+[1:25:08] So, betting apa bodohnya macam tu kan.
 
-[85:11] Dia buka Dia tak dapat apa?
+[1:25:11] Dia buka Dia tak dapat apa?
 
-[85:13] Ha.
+[1:25:13] Ha.
 
-[85:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:25:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[85:18] Ada macam-macam eh YB punya analisis.
+[1:25:18] Ada macam-macam eh YB punya analisis.
 
-[85:22] Betul tak?
+[1:25:22] Betul tak?
 
-[85:23] So, Dia bagi reason tu.
+[1:25:23] So, Dia bagi reason tu.
 
-[85:24] Dia bagi reason.
+[1:25:24] Dia bagi reason.
 
-[85:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:25:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[85:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:25:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[85:46] Kalau Argentina menang, dia tak tepakailah.
+[1:25:46] Kalau Argentina menang, dia tak tepakailah.
 
-[85:50] So, betting apa bodohnya macam tu kan.
+[1:25:50] So, betting apa bodohnya macam tu kan.
 
-[85:53] Dia buka Dia tak dapat apa?
+[1:25:53] Dia buka Dia tak dapat apa?
 
-[85:55] Ha.
+[1:25:55] Ha.
 
-[85:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:25:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[86:00] Ada macam-macam eh YB punya analisis.
+[1:26:00] Ada macam-macam eh YB punya analisis.
 
-[86:04] Betul tak?
+[1:26:04] Betul tak?
 
-[86:05] So, Dia bagi reason tu.
+[1:26:05] So, Dia bagi reason tu.
 
-[86:06] Dia bagi reason.
+[1:26:06] Dia bagi reason.
 
-[86:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:26:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[86:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:26:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[86:28] Kalau Argentina menang, dia tak tepakailah.
+[1:26:28] Kalau Argentina menang, dia tak tepakailah.
 
-[86:32] So, betting apa bodohnya macam tu kan.
+[1:26:32] So, betting apa bodohnya macam tu kan.
 
-[86:35] Dia buka Dia tak dapat apa?
+[1:26:35] Dia buka Dia tak dapat apa?
 
-[86:37] Ha.
+[1:26:37] Ha.
 
-[86:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:26:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[86:42] Ada macam-macam eh YB punya analisis.
+[1:26:42] Ada macam-macam eh YB punya analisis.
 
-[86:46] Betul tak?
+[1:26:46] Betul tak?
 
-[86:47] So, Dia bagi reason tu.
+[1:26:47] So, Dia bagi reason tu.
 
-[86:48] Dia bagi reason.
+[1:26:48] Dia bagi reason.
 
-[86:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:26:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[86:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:26:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[87:10] Kalau Argentina menang, dia tak tepakailah.
+[1:27:10] Kalau Argentina menang, dia tak tepakailah.
 
-[87:14] So, betting apa bodohnya macam tu kan.
+[1:27:14] So, betting apa bodohnya macam tu kan.
 
-[87:17] Dia buka Dia tak dapat apa?
+[1:27:17] Dia buka Dia tak dapat apa?
 
-[87:19] Ha.
+[1:27:19] Ha.
 
-[87:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:27:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[87:24] Ada macam-macam eh YB punya analisis.
+[1:27:24] Ada macam-macam eh YB punya analisis.
 
-[87:28] Betul tak?
+[1:27:28] Betul tak?
 
-[87:29] So, Dia bagi reason tu.
+[1:27:29] So, Dia bagi reason tu.
 
-[87:30] Dia bagi reason.
+[1:27:30] Dia bagi reason.
 
-[87:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:27:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[87:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:27:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[87:52] Kalau Argentina menang, dia tak tepakailah.
+[1:27:52] Kalau Argentina menang, dia tak tepakailah.
 
-[87:56] So, betting apa bodohnya macam tu kan.
+[1:27:56] So, betting apa bodohnya macam tu kan.
 
-[87:59] Dia buka Dia tak dapat apa?
+[1:27:59] Dia buka Dia tak dapat apa?
 
-[88:01] Ha.
+[1:28:01] Ha.
 
-[88:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:28:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[88:06] Ada macam-macam eh YB punya analisis.
+[1:28:06] Ada macam-macam eh YB punya analisis.
 
-[88:10] Betul tak?
+[1:28:10] Betul tak?
 
-[88:11] So, Dia bagi reason tu.
+[1:28:11] So, Dia bagi reason tu.
 
-[88:12] Dia bagi reason.
+[1:28:12] Dia bagi reason.
 
-[88:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:28:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[88:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:28:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[88:34] Kalau Argentina menang, dia tak tepakailah.
+[1:28:34] Kalau Argentina menang, dia tak tepakailah.
 
-[88:38] So, betting apa bodohnya macam tu kan.
+[1:28:38] So, betting apa bodohnya macam tu kan.
 
-[88:41] Dia buka Dia tak dapat apa?
+[1:28:41] Dia buka Dia tak dapat apa?
 
-[88:43] Ha.
+[1:28:43] Ha.
 
-[88:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:28:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[88:48] Ada macam-macam eh YB punya analisis.
+[1:28:48] Ada macam-macam eh YB punya analisis.
 
-[88:52] Betul tak?
+[1:28:52] Betul tak?
 
-[88:53] So, Dia bagi reason tu.
+[1:28:53] So, Dia bagi reason tu.
 
-[88:54] Dia bagi reason.
+[1:28:54] Dia bagi reason.
 
-[88:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:28:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[89:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:29:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[89:16] Kalau Argentina menang, dia tak tepakailah.
+[1:29:16] Kalau Argentina menang, dia tak tepakailah.
 
-[89:20] So, betting apa bodohnya macam tu kan.
+[1:29:20] So, betting apa bodohnya macam tu kan.
 
-[89:23] Dia buka Dia tak dapat apa?
+[1:29:23] Dia buka Dia tak dapat apa?
 
-[89:25] Ha.
+[1:29:25] Ha.
 
-[89:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:29:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[89:30] Ada macam-macam eh YB punya analisis.
+[1:29:30] Ada macam-macam eh YB punya analisis.
 
-[89:34] Betul tak?
+[1:29:34] Betul tak?
 
-[89:35] So, Dia bagi reason tu.
+[1:29:35] So, Dia bagi reason tu.
 
-[89:36] Dia bagi reason.
+[1:29:36] Dia bagi reason.
 
-[89:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:29:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[89:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:29:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[89:58] Kalau Argentina menang, dia tak tepakailah.
+[1:29:58] Kalau Argentina menang, dia tak tepakailah.
 
-[90:02] So, betting apa bodohnya macam tu kan.
+[1:30:02] So, betting apa bodohnya macam tu kan.
 
-[90:05] Dia buka Dia tak dapat apa?
+[1:30:05] Dia buka Dia tak dapat apa?
 
-[90:07] Ha.
+[1:30:07] Ha.
 
-[90:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:30:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[90:12] Ada macam-macam eh YB punya analisis.
+[1:30:12] Ada macam-macam eh YB punya analisis.
 
-[90:16] Betul tak?
+[1:30:16] Betul tak?
 
-[90:17] So, Dia bagi reason tu.
+[1:30:17] So, Dia bagi reason tu.
 
-[90:18] Dia bagi reason.
+[1:30:18] Dia bagi reason.
 
-[90:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:30:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[90:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:30:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[90:40] Kalau Argentina menang, dia tak tepakailah.
+[1:30:40] Kalau Argentina menang, dia tak tepakailah.
 
-[90:44] So, betting apa bodohnya macam tu kan.
+[1:30:44] So, betting apa bodohnya macam tu kan.
 
-[90:47] Dia buka Dia tak dapat apa?
+[1:30:47] Dia buka Dia tak dapat apa?
 
-[90:49] Ha.
+[1:30:49] Ha.
 
-[90:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:30:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[90:54] Ada macam-macam eh YB punya analisis.
+[1:30:54] Ada macam-macam eh YB punya analisis.
 
-[90:58] Betul tak?
+[1:30:58] Betul tak?
 
-[90:59] So, Dia bagi reason tu.
+[1:30:59] So, Dia bagi reason tu.
 
-[91:00] Dia bagi reason.
+[1:31:00] Dia bagi reason.
 
-[91:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:31:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[91:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:31:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[91:22] Kalau Argentina menang, dia tak tepakailah.
+[1:31:22] Kalau Argentina menang, dia tak tepakailah.
 
-[91:26] So, betting apa bodohnya macam tu kan.
+[1:31:26] So, betting apa bodohnya macam tu kan.
 
-[91:29] Dia buka Dia tak dapat apa?
+[1:31:29] Dia buka Dia tak dapat apa?
 
-[91:31] Ha.
+[1:31:31] Ha.
 
-[91:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:31:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[91:36] Ada macam-macam eh YB punya analisis.
+[1:31:36] Ada macam-macam eh YB punya analisis.
 
-[91:40] Betul tak?
+[1:31:40] Betul tak?
 
-[91:41] So, Dia bagi reason tu.
+[1:31:41] So, Dia bagi reason tu.
 
-[91:42] Dia bagi reason.
+[1:31:42] Dia bagi reason.
 
-[91:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:31:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[91:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:31:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[92:04] Kalau Argentina menang, dia tak tepakailah.
+[1:32:04] Kalau Argentina menang, dia tak tepakailah.
 
-[92:08] So, betting apa bodohnya macam tu kan.
+[1:32:08] So, betting apa bodohnya macam tu kan.
 
-[92:11] Dia buka Dia tak dapat apa?
+[1:32:11] Dia buka Dia tak dapat apa?
 
-[92:13] Ha.
+[1:32:13] Ha.
 
-[92:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:32:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[92:18] Ada macam-macam eh YB punya analisis.
+[1:32:18] Ada macam-macam eh YB punya analisis.
 
-[92:22] Betul tak?
+[1:32:22] Betul tak?
 
-[92:23] So, Dia bagi reason tu.
+[1:32:23] So, Dia bagi reason tu.
 
-[92:24] Dia bagi reason.
+[1:32:24] Dia bagi reason.
 
-[92:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:32:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[92:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:32:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[92:46] Kalau Argentina menang, dia tak tepakailah.
+[1:32:46] Kalau Argentina menang, dia tak tepakailah.
 
-[92:50] So, betting apa bodohnya macam tu kan.
+[1:32:50] So, betting apa bodohnya macam tu kan.
 
-[92:53] Dia buka Dia tak dapat apa?
+[1:32:53] Dia buka Dia tak dapat apa?
 
-[92:55] Ha.
+[1:32:55] Ha.
 
-[92:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:32:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[93:00] Ada macam-macam eh YB punya analisis.
+[1:33:00] Ada macam-macam eh YB punya analisis.
 
-[93:04] Betul tak?
+[1:33:04] Betul tak?
 
-[93:05] So, Dia bagi reason tu.
+[1:33:05] So, Dia bagi reason tu.
 
-[93:06] Dia bagi reason.
+[1:33:06] Dia bagi reason.
 
-[93:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:33:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[93:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:33:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[93:28] Kalau Argentina menang, dia tak tepakailah.
+[1:33:28] Kalau Argentina menang, dia tak tepakailah.
 
-[93:32] So, betting apa bodohnya macam tu kan.
+[1:33:32] So, betting apa bodohnya macam tu kan.
 
-[93:35] Dia buka Dia tak dapat apa?
+[1:33:35] Dia buka Dia tak dapat apa?
 
-[93:37] Ha.
+[1:33:37] Ha.
 
-[93:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:33:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[93:42] Ada macam-macam eh YB punya analisis.
+[1:33:42] Ada macam-macam eh YB punya analisis.
 
-[93:46] Betul tak?
+[1:33:46] Betul tak?
 
-[93:47] So, Dia bagi reason tu.
+[1:33:47] So, Dia bagi reason tu.
 
-[93:48] Dia bagi reason.
+[1:33:48] Dia bagi reason.
 
-[93:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:33:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[93:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:33:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[94:10] Kalau Argentina menang, dia tak tepakailah.
+[1:34:10] Kalau Argentina menang, dia tak tepakailah.
 
-[94:14] So, betting apa bodohnya macam tu kan.
+[1:34:14] So, betting apa bodohnya macam tu kan.
 
-[94:17] Dia buka Dia tak dapat apa?
+[1:34:17] Dia buka Dia tak dapat apa?
 
-[94:19] Ha.
+[1:34:19] Ha.
 
-[94:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:34:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[94:24] Ada macam-macam eh YB punya analisis.
+[1:34:24] Ada macam-macam eh YB punya analisis.
 
-[94:28] Betul tak?
+[1:34:28] Betul tak?
 
-[94:29] So, Dia bagi reason tu.
+[1:34:29] So, Dia bagi reason tu.
 
-[94:30] Dia bagi reason.
+[1:34:30] Dia bagi reason.
 
-[94:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:34:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[94:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:34:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[94:52] Kalau Argentina menang, dia tak tepakailah.
+[1:34:52] Kalau Argentina menang, dia tak tepakailah.
 
-[94:56] So, betting apa bodohnya macam tu kan.
+[1:34:56] So, betting apa bodohnya macam tu kan.
 
-[94:59] Dia buka Dia tak dapat apa?
+[1:34:59] Dia buka Dia tak dapat apa?
 
-[95:01] Ha.
+[1:35:01] Ha.
 
-[95:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:35:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[95:06] Ada macam-macam eh YB punya analisis.
+[1:35:06] Ada macam-macam eh YB punya analisis.
 
-[95:10] Betul tak?
+[1:35:10] Betul tak?
 
-[95:11] So, Dia bagi reason tu.
+[1:35:11] So, Dia bagi reason tu.
 
-[95:12] Dia bagi reason.
+[1:35:12] Dia bagi reason.
 
-[95:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:35:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[95:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:35:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[95:34] Kalau Argentina menang, dia tak tepakailah.
+[1:35:34] Kalau Argentina menang, dia tak tepakailah.
 
-[95:38] So, betting apa bodohnya macam tu kan.
+[1:35:38] So, betting apa bodohnya macam tu kan.
 
-[95:41] Dia buka Dia tak dapat apa?
+[1:35:41] Dia buka Dia tak dapat apa?
 
-[95:43] Ha.
+[1:35:43] Ha.
 
-[95:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:35:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[95:48] Ada macam-macam eh YB punya analisis.
+[1:35:48] Ada macam-macam eh YB punya analisis.
 
-[95:52] Betul tak?
+[1:35:52] Betul tak?
 
-[95:53] So, Dia bagi reason tu.
+[1:35:53] So, Dia bagi reason tu.
 
-[95:54] Dia bagi reason.
+[1:35:54] Dia bagi reason.
 
-[95:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:35:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[96:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:36:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[96:16] Kalau Argentina menang, dia tak tepakailah.
+[1:36:16] Kalau Argentina menang, dia tak tepakailah.
 
-[96:20] So, betting apa bodohnya macam tu kan.
+[1:36:20] So, betting apa bodohnya macam tu kan.
 
-[96:23] Dia buka Dia tak dapat apa?
+[1:36:23] Dia buka Dia tak dapat apa?
 
-[96:25] Ha.
+[1:36:25] Ha.
 
-[96:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:36:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[96:30] Ada macam-macam eh YB punya analisis.
+[1:36:30] Ada macam-macam eh YB punya analisis.
 
-[96:34] Betul tak?
+[1:36:34] Betul tak?
 
-[96:35] So, Dia bagi reason tu.
+[1:36:35] So, Dia bagi reason tu.
 
-[96:36] Dia bagi reason.
+[1:36:36] Dia bagi reason.
 
-[96:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:36:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[96:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:36:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[96:58] Kalau Argentina menang, dia tak tepakailah.
+[1:36:58] Kalau Argentina menang, dia tak tepakailah.
 
-[97:02] So, betting apa bodohnya macam tu kan.
+[1:37:02] So, betting apa bodohnya macam tu kan.
 
-[97:05] Dia buka Dia tak dapat apa?
+[1:37:05] Dia buka Dia tak dapat apa?
 
-[97:07] Ha.
+[1:37:07] Ha.
 
-[97:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:37:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[97:12] Ada macam-macam eh YB punya analisis.
+[1:37:12] Ada macam-macam eh YB punya analisis.
 
-[97:16] Betul tak?
+[1:37:16] Betul tak?
 
-[97:17] So, Dia bagi reason tu.
+[1:37:17] So, Dia bagi reason tu.
 
-[97:18] Dia bagi reason.
+[1:37:18] Dia bagi reason.
 
-[97:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:37:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[97:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:37:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[97:40] Kalau Argentina menang, dia tak tepakailah.
+[1:37:40] Kalau Argentina menang, dia tak tepakailah.
 
-[97:44] So, betting apa bodohnya macam tu kan.
+[1:37:44] So, betting apa bodohnya macam tu kan.
 
-[97:47] Dia buka Dia tak dapat apa?
+[1:37:47] Dia buka Dia tak dapat apa?
 
-[97:49] Ha.
+[1:37:49] Ha.
 
-[97:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:37:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[97:54] Ada macam-macam eh YB punya analisis.
+[1:37:54] Ada macam-macam eh YB punya analisis.
 
-[97:58] Betul tak?
+[1:37:58] Betul tak?
 
-[97:59] So, Dia bagi reason tu.
+[1:37:59] So, Dia bagi reason tu.
 
-[98:00] Dia bagi reason.
+[1:38:00] Dia bagi reason.
 
-[98:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:38:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[98:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:38:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[98:22] Kalau Argentina menang, dia tak tepakailah.
+[1:38:22] Kalau Argentina menang, dia tak tepakailah.
 
-[98:26] So, betting apa bodohnya macam tu kan.
+[1:38:26] So, betting apa bodohnya macam tu kan.
 
-[98:29] Dia buka Dia tak dapat apa?
+[1:38:29] Dia buka Dia tak dapat apa?
 
-[98:31] Ha.
+[1:38:31] Ha.
 
-[98:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:38:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[98:36] Ada macam-macam eh YB punya analisis.
+[1:38:36] Ada macam-macam eh YB punya analisis.
 
-[98:40] Betul tak?
+[1:38:40] Betul tak?
 
-[98:41] So, Dia bagi reason tu.
+[1:38:41] So, Dia bagi reason tu.
 
-[98:42] Dia bagi reason.
+[1:38:42] Dia bagi reason.
 
-[98:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:38:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[98:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:38:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[99:04] Kalau Argentina menang, dia tak tepakailah.
+[1:39:04] Kalau Argentina menang, dia tak tepakailah.
 
-[99:08] So, betting apa bodohnya macam tu kan.
+[1:39:08] So, betting apa bodohnya macam tu kan.
 
-[99:11] Dia buka Dia tak dapat apa?
+[1:39:11] Dia buka Dia tak dapat apa?
 
-[99:13] Ha.
+[1:39:13] Ha.
 
-[99:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:39:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[99:18] Ada macam-macam eh YB punya analisis.
+[1:39:18] Ada macam-macam eh YB punya analisis.
 
-[99:22] Betul tak?
+[1:39:22] Betul tak?
 
-[99:23] So, Dia bagi reason tu.
+[1:39:23] So, Dia bagi reason tu.
 
-[99:24] Dia bagi reason.
+[1:39:24] Dia bagi reason.
 
-[99:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:39:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[99:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:39:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[99:46] Kalau Argentina menang, dia tak tepakailah.
+[1:39:46] Kalau Argentina menang, dia tak tepakailah.
 
-[99:50] So, betting apa bodohnya macam tu kan.
+[1:39:50] So, betting apa bodohnya macam tu kan.
 
-[99:53] Dia buka Dia tak dapat apa?
+[1:39:53] Dia buka Dia tak dapat apa?
 
-[99:55] Ha.
+[1:39:55] Ha.
 
-[99:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:39:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[100:00] Ada macam-macam eh YB punya analisis.
+[1:40:00] Ada macam-macam eh YB punya analisis.
 
-[100:04] Betul tak?
+[1:40:04] Betul tak?
 
-[100:05] So, Dia bagi reason tu.
+[1:40:05] So, Dia bagi reason tu.
 
-[100:06] Dia bagi reason.
+[1:40:06] Dia bagi reason.
 
-[100:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:40:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[100:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:40:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[100:28] Kalau Argentina menang, dia tak tepakailah.
+[1:40:28] Kalau Argentina menang, dia tak tepakailah.
 
-[100:32] So, betting apa bodohnya macam tu kan.
+[1:40:32] So, betting apa bodohnya macam tu kan.
 
-[100:35] Dia buka Dia tak dapat apa?
+[1:40:35] Dia buka Dia tak dapat apa?
 
-[100:37] Ha.
+[1:40:37] Ha.
 
-[100:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:40:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[100:42] Ada macam-macam eh YB punya analisis.
+[1:40:42] Ada macam-macam eh YB punya analisis.
 
-[100:46] Betul tak?
+[1:40:46] Betul tak?
 
-[100:47] So, Dia bagi reason tu.
+[1:40:47] So, Dia bagi reason tu.
 
-[100:48] Dia bagi reason.
+[1:40:48] Dia bagi reason.
 
-[100:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:40:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[100:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:40:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[101:10] Kalau Argentina menang, dia tak tepakailah.
+[1:41:10] Kalau Argentina menang, dia tak tepakailah.
 
-[101:14] So, betting apa bodohnya macam tu kan.
+[1:41:14] So, betting apa bodohnya macam tu kan.
 
-[101:17] Dia buka Dia tak dapat apa?
+[1:41:17] Dia buka Dia tak dapat apa?
 
-[101:19] Ha.
+[1:41:19] Ha.
 
-[101:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:41:20] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[101:24] Ada macam-macam eh YB punya analisis.
+[1:41:24] Ada macam-macam eh YB punya analisis.
 
-[101:28] Betul tak?
+[1:41:28] Betul tak?
 
-[101:29] So, Dia bagi reason tu.
+[1:41:29] So, Dia bagi reason tu.
 
-[101:30] Dia bagi reason.
+[1:41:30] Dia bagi reason.
 
-[101:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:41:32] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[101:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:41:36] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[101:52] Kalau Argentina menang, dia tak tepakailah.
+[1:41:52] Kalau Argentina menang, dia tak tepakailah.
 
-[101:56] So, betting apa bodohnya macam tu kan.
+[1:41:56] So, betting apa bodohnya macam tu kan.
 
-[101:59] Dia buka Dia tak dapat apa?
+[1:41:59] Dia buka Dia tak dapat apa?
 
-[102:01] Ha.
+[1:42:01] Ha.
 
-[102:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:42:02] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[102:06] Ada macam-macam eh YB punya analisis.
+[1:42:06] Ada macam-macam eh YB punya analisis.
 
-[102:10] Betul tak?
+[1:42:10] Betul tak?
 
-[102:11] So, Dia bagi reason tu.
+[1:42:11] So, Dia bagi reason tu.
 
-[102:12] Dia bagi reason.
+[1:42:12] Dia bagi reason.
 
-[102:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:42:14] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[102:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:42:18] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[102:34] Kalau Argentina menang, dia tak tepakailah.
+[1:42:34] Kalau Argentina menang, dia tak tepakailah.
 
-[102:38] So, betting apa bodohnya macam tu kan.
+[1:42:38] So, betting apa bodohnya macam tu kan.
 
-[102:41] Dia buka Dia tak dapat apa?
+[1:42:41] Dia buka Dia tak dapat apa?
 
-[102:43] Ha.
+[1:42:43] Ha.
 
-[102:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:42:44] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[102:48] Ada macam-macam eh YB punya analisis.
+[1:42:48] Ada macam-macam eh YB punya analisis.
 
-[102:52] Betul tak?
+[1:42:52] Betul tak?
 
-[102:53] So, Dia bagi reason tu.
+[1:42:53] So, Dia bagi reason tu.
 
-[102:54] Dia bagi reason.
+[1:42:54] Dia bagi reason.
 
-[102:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:42:56] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[103:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:43:00] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[103:16] Kalau Argentina menang, dia tak tepakailah.
+[1:43:16] Kalau Argentina menang, dia tak tepakailah.
 
-[103:20] So, betting apa bodohnya macam tu kan.
+[1:43:20] So, betting apa bodohnya macam tu kan.
 
-[103:23] Dia buka Dia tak dapat apa?
+[1:43:23] Dia buka Dia tak dapat apa?
 
-[103:25] Ha.
+[1:43:25] Ha.
 
-[103:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:43:26] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[103:30] Ada macam-macam eh YB punya analisis.
+[1:43:30] Ada macam-macam eh YB punya analisis.
 
-[103:34] Betul tak?
+[1:43:34] Betul tak?
 
-[103:35] So, Dia bagi reason tu.
+[1:43:35] So, Dia bagi reason tu.
 
-[103:36] Dia bagi reason.
+[1:43:36] Dia bagi reason.
 
-[103:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:43:38] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[103:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:43:42] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[103:58] Kalau Argentina menang, dia tak tepakailah.
+[1:43:58] Kalau Argentina menang, dia tak tepakailah.
 
-[104:02] So, betting apa bodohnya macam tu kan.
+[1:44:02] So, betting apa bodohnya macam tu kan.
 
-[104:05] Dia buka Dia tak dapat apa?
+[1:44:05] Dia buka Dia tak dapat apa?
 
-[104:07] Ha.
+[1:44:07] Ha.
 
-[104:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:44:08] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[104:12] Ada macam-macam eh YB punya analisis.
+[1:44:12] Ada macam-macam eh YB punya analisis.
 
-[104:16] Betul tak?
+[1:44:16] Betul tak?
 
-[104:17] So, Dia bagi reason tu.
+[1:44:17] So, Dia bagi reason tu.
 
-[104:18] Dia bagi reason.
+[1:44:18] Dia bagi reason.
 
-[104:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:44:20] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[104:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:44:24] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[104:40] Kalau Argentina menang, dia tak tepakailah.
+[1:44:40] Kalau Argentina menang, dia tak tepakailah.
 
-[104:44] So, betting apa bodohnya macam tu kan.
+[1:44:44] So, betting apa bodohnya macam tu kan.
 
-[104:47] Dia buka Dia tak dapat apa?
+[1:44:47] Dia buka Dia tak dapat apa?
 
-[104:49] Ha.
+[1:44:49] Ha.
 
-[104:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:44:50] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[104:54] Ada macam-macam eh YB punya analisis.
+[1:44:54] Ada macam-macam eh YB punya analisis.
 
-[104:58] Betul tak?
+[1:44:58] Betul tak?
 
-[104:59] So, Dia bagi reason tu.
+[1:44:59] So, Dia bagi reason tu.
 
-[105:00] Dia bagi reason.
+[1:45:00] Dia bagi reason.
 
-[105:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:45:02] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[105:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:45:06] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[105:22] Kalau Argentina menang, dia tak tepakailah.
+[1:45:22] Kalau Argentina menang, dia tak tepakailah.
 
-[105:26] So, betting apa bodohnya macam tu kan.
+[1:45:26] So, betting apa bodohnya macam tu kan.
 
-[105:29] Dia buka Dia tak dapat apa?
+[1:45:29] Dia buka Dia tak dapat apa?
 
-[105:31] Ha.
+[1:45:31] Ha.
 
-[105:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:45:32] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[105:36] Ada macam-macam eh YB punya analisis.
+[1:45:36] Ada macam-macam eh YB punya analisis.
 
-[105:40] Betul tak?
+[1:45:40] Betul tak?
 
-[105:41] So, Dia bagi reason tu.
+[1:45:41] So, Dia bagi reason tu.
 
-[105:42] Dia bagi reason.
+[1:45:42] Dia bagi reason.
 
-[105:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:45:44] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[105:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:45:48] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[106:04] Kalau Argentina menang, dia tak tepakailah.
+[1:46:04] Kalau Argentina menang, dia tak tepakailah.
 
-[106:08] So, betting apa bodohnya macam tu kan.
+[1:46:08] So, betting apa bodohnya macam tu kan.
 
-[106:11] Dia buka Dia tak dapat apa?
+[1:46:11] Dia buka Dia tak dapat apa?
 
-[106:13] Ha.
+[1:46:13] Ha.
 
-[106:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:46:14] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[106:18] Ada macam-macam eh YB punya analisis.
+[1:46:18] Ada macam-macam eh YB punya analisis.
 
-[106:22] Betul tak?
+[1:46:22] Betul tak?
 
-[106:23] So, Dia bagi reason tu.
+[1:46:23] So, Dia bagi reason tu.
 
-[106:24] Dia bagi reason.
+[1:46:24] Dia bagi reason.
 
-[106:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:46:26] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[106:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:46:30] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[106:46] Kalau Argentina menang, dia tak tepakailah.
+[1:46:46] Kalau Argentina menang, dia tak tepakailah.
 
-[106:50] So, betting apa bodohnya macam tu kan.
+[1:46:50] So, betting apa bodohnya macam tu kan.
 
-[106:53] Dia buka Dia tak dapat apa?
+[1:46:53] Dia buka Dia tak dapat apa?
 
-[106:55] Ha.
+[1:46:55] Ha.
 
-[106:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:46:56] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[107:00] Ada macam-macam eh YB punya analisis.
+[1:47:00] Ada macam-macam eh YB punya analisis.
 
-[107:04] Betul tak?
+[1:47:04] Betul tak?
 
-[107:05] So, Dia bagi reason tu.
+[1:47:05] So, Dia bagi reason tu.
 
-[107:06] Dia bagi reason.
+[1:47:06] Dia bagi reason.
 
-[107:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:47:08] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[107:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:47:12] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[107:28] Kalau Argentina menang, dia tak tepakailah.
+[1:47:28] Kalau Argentina menang, dia tak tepakailah.
 
-[107:32] So, betting apa bodohnya macam tu kan.
+[1:47:32] So, betting apa bodohnya macam tu kan.
 
-[107:35] Dia buka Dia tak dapat apa?
+[1:47:35] Dia buka Dia tak dapat apa?
 
-[107:37] Ha.
+[1:47:37] Ha.
 
-[107:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
+[1:47:38] Kecuali memang dia nak ceraikan isteri dia talak tiga.
 
-[107:42] Ada macam-macam eh YB punya analisis.
+[1:47:42] Ada macam-macam eh YB punya analisis.
 
-[107:46] Betul tak?
+[1:47:46] Betul tak?
 
-[107:47] So, Dia bagi reason tu.
+[1:47:47] So, Dia bagi reason tu.
 
-[107:48] Dia bagi reason.
+[1:47:48] Dia bagi reason.
 
-[107:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
+[1:47:50] Entah-entah dia bagi reason, dia memang nak cerai talak tiga.
 
-[107:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
+[1:47:54] Sebab kalau betting mestilah, so maksudnya kalau kecualilah kawan dia tu kalau Argentina kalah terus jatuh talak tiga.
 
-[180:10] Kalau Argentina menang, dia tak tepakailah.
+[3:00:10] Kalau Argentina menang, dia tak tepakailah.
 

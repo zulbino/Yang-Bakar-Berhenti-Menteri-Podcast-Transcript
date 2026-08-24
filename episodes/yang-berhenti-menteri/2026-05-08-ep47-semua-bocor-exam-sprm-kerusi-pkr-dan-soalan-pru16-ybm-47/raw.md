@@ -3448,35 +3448,35 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:49:49] Speaker 1: Saya ingat a soal siasat yang panjang tu sebab bila kita bercakap sebenarnya kita membakar lemak kan. So aku punya target lepas habis soal siasatan tu hilang sekilo.
 
-[150:03] Speaker 1: Tak hilang juga.
+[2:30:03] Speaker 1: Tak hilang juga.
 
-[150:03] Speaker 1: Tak hilang.
+[2:30:03] Speaker 1: Tak hilang.
 
-[150:04] Speaker 1: Tak cukup bercakap ke?
+[2:30:04] Speaker 1: Tak cukup bercakap ke?
 
-[150:05] Speaker 1: Tak tahu kenapa tak cukup.
+[2:30:05] Speaker 1: Tak tahu kenapa tak cukup.
 
-[150:07] Speaker 1: a yang lain, all is good lah.
+[2:30:07] Speaker 1: a yang lain, all is good lah.
 
-[150:11] Speaker 1: Okey baik baby, nanti kita akan sambung lagi. a tapi kita tengok beria YB. Disebabkan minggu.
+[2:30:11] Speaker 1: Okey baik baby, nanti kita akan sambung lagi. a tapi kita tengok beria YB. Disebabkan minggu.
 
-[150:16] Speaker 1: Kita terus beria.
+[2:30:16] Speaker 1: Kita terus beria.
 
-[150:17] Speaker 1: Ya.
+[2:30:17] Speaker 1: Ya.
 
-[150:17] Speaker 1: Terus beria walaupun a saya rasa kurang sikit minggu ni sebab I think the world revolve around kes YB kut.
+[2:30:17] Speaker 1: Terus beria walaupun a saya rasa kurang sikit minggu ni sebab I think the world revolve around kes YB kut.
 
-[150:23] Speaker 1: Oh ya ke?
+[2:30:23] Speaker 1: Oh ya ke?
 
-[150:24] Speaker 1: Saya rasalah. a.
+[2:30:24] Speaker 1: Saya rasalah. a.
 
-[150:25] Speaker 1: So dia sepatutnya ada satu beria iaitu beria menyiasat akulah, iaitu beria menyiasat akulah. Termasuklah tapi. Tapi yang itu sebab kita nak kena nak kena sembang panjang lebar.
+[2:30:25] Speaker 1: So dia sepatutnya ada satu beria iaitu beria menyiasat akulah, iaitu beria menyiasat akulah. Termasuklah tapi. Tapi yang itu sebab kita nak kena nak kena sembang panjang lebar.
 
-[150:38] Speaker 1: Dia tak masuk dalam kategori beria.
+[2:30:38] Speaker 1: Dia tak masuk dalam kategori beria.
 
-[150:41] Speaker 1: Ya.
+[2:30:41] Speaker 1: Ya.
 
-[150:41] Speaker 1: Okey, kita tengok YB apa ada
+[2:30:41] Speaker 1: Okey, kita tengok YB apa ada
 
 [1:50:41] Speaker 2: Okey kita tengok YB apa ada. Tapi sudah pasti yang pertama. Oh ni pasal Zaki aku jumpa. Pasal kes juga. Dia kena sebut sebab orang yang mendengar di Spotify dia punyalah marah kan sebab ada orang rupanya dia tak tengok pun.
 

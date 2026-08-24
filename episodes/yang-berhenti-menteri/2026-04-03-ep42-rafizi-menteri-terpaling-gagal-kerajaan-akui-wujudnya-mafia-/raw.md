@@ -486,1133 +486,1133 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:57] Speaker 1: Okey.
 
-[60:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:00:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[60:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:00:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[60:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:00:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[60:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:00:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[61:01] Speaker 1: Betul.
+[1:01:01] Speaker 1: Betul.
 
-[61:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:01:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[62:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:02:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[62:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:02:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[62:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:02:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[63:13] Speaker 1: Okey lah. To give perspective lah.
+[1:03:13] Speaker 1: Okey lah. To give perspective lah.
 
-[63:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:03:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[63:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:03:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[63:46] Speaker 1: Kan.
+[1:03:46] Speaker 1: Kan.
 
-[63:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:03:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[64:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:04:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[64:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:04:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[64:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:04:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[64:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:04:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[64:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:04:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[64:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:04:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[65:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:05:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[65:27] Speaker 1: Okey, beria.
+[1:05:27] Speaker 1: Okey, beria.
 
-[65:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:05:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[65:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:05:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[65:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:05:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[66:51] Speaker 1: Okey.
+[1:06:51] Speaker 1: Okey.
 
-[67:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:07:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[67:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:07:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[67:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:07:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[67:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:07:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[67:55] Speaker 1: Betul.
+[1:07:55] Speaker 1: Betul.
 
-[68:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:08:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[69:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:09:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[69:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:09:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[69:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:09:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[70:07] Speaker 1: Okey lah. To give perspective lah.
+[1:10:07] Speaker 1: Okey lah. To give perspective lah.
 
-[70:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:10:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[70:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:10:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[70:40] Speaker 1: Kan.
+[1:10:40] Speaker 1: Kan.
 
-[70:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:10:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[71:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:11:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[71:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:11:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[71:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:11:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[71:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:11:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[71:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:11:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[71:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:11:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[72:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:12:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[72:21] Speaker 1: Okey, beria.
+[1:12:21] Speaker 1: Okey, beria.
 
-[72:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:12:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[72:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:12:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[72:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:12:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[73:24] Speaker 1: Okey.
+[1:13:24] Speaker 1: Okey.
 
-[73:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:13:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[74:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:14:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[74:05] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:14:05] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[74:15] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:14:15] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[74:28] Speaker 1: Betul.
+[1:14:28] Speaker 1: Betul.
 
-[75:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:15:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[75:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:15:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[75:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:15:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[75:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:15:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[76:40] Speaker 1: Okey lah. To give perspective lah.
+[1:16:40] Speaker 1: Okey lah. To give perspective lah.
 
-[76:43] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:16:43] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[77:03] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:17:03] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[77:13] Speaker 1: Kan.
+[1:17:13] Speaker 1: Kan.
 
-[77:14] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:17:14] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[77:34] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:17:34] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[77:40] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:17:40] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[77:50] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:17:50] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[78:01] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:18:01] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[78:05] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:18:05] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[78:24] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:18:24] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[78:42] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:18:42] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[78:54] Speaker 1: Okey, beria.
+[1:18:54] Speaker 1: Okey, beria.
 
-[78:56] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:18:56] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[79:05] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:19:05] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[79:13] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:19:13] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[79:57] Speaker 1: Okey.
+[1:19:57] Speaker 1: Okey.
 
-[80:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:20:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[80:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:20:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[80:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:20:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[80:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:20:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[81:01] Speaker 1: Betul.
+[1:21:01] Speaker 1: Betul.
 
-[81:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:21:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[82:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:22:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[82:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:22:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[82:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:22:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[83:13] Speaker 1: Okey lah. To give perspective lah.
+[1:23:13] Speaker 1: Okey lah. To give perspective lah.
 
-[83:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:23:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[83:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:23:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[83:46] Speaker 1: Kan.
+[1:23:46] Speaker 1: Kan.
 
-[83:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:23:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[84:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:24:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[84:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:24:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[84:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:24:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[84:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:24:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[84:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:24:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[84:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:24:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[85:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:25:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[85:27] Speaker 1: Okey, beria.
+[1:25:27] Speaker 1: Okey, beria.
 
-[85:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:25:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[85:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:25:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[85:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:25:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[86:51] Speaker 1: Okey.
+[1:26:51] Speaker 1: Okey.
 
-[87:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:27:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[87:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:27:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[87:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:27:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[87:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:27:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[87:55] Speaker 1: Betul.
+[1:27:55] Speaker 1: Betul.
 
-[88:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:28:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[88:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:28:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[89:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:29:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[89:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:29:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[90:06] Speaker 1: Okey lah. To give perspective lah.
+[1:30:06] Speaker 1: Okey lah. To give perspective lah.
 
-[90:09] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:30:09] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[90:29] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:30:29] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[90:39] Speaker 1: Kan.
+[1:30:39] Speaker 1: Kan.
 
-[90:40] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:30:40] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[91:00] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:31:00] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[91:06] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:31:06] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[91:16] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:31:16] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[91:27] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:31:27] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[91:31] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:31:31] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[91:50] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:31:50] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[92:08] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:32:08] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[92:20] Speaker 1: Okey, beria.
+[1:32:20] Speaker 1: Okey, beria.
 
-[92:22] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:32:22] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[92:31] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:32:31] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[92:39] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:32:39] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[93:28] Speaker 1: Okey.
+[1:33:28] Speaker 1: Okey.
 
-[93:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:33:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[94:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:34:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[94:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:34:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[94:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:34:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[94:32] Speaker 1: Betul.
+[1:34:32] Speaker 1: Betul.
 
-[95:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:35:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[95:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:35:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[95:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:35:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[96:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:36:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[96:44] Speaker 1: Okey lah. To give perspective lah.
+[1:36:44] Speaker 1: Okey lah. To give perspective lah.
 
-[96:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:36:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[97:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:37:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[97:17] Speaker 1: Kan.
+[1:37:17] Speaker 1: Kan.
 
-[97:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:37:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[97:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:37:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[97:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:37:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[97:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:37:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[98:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:38:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[98:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:38:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[98:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:38:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[98:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:38:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[98:58] Speaker 1: Okey, beria.
+[1:38:58] Speaker 1: Okey, beria.
 
-[99:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:39:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[99:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:39:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[99:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:39:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[100:02] Speaker 1: Okey.
+[1:40:02] Speaker 1: Okey.
 
-[100:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:40:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[100:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:40:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[100:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:40:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[100:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:40:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[101:06] Speaker 1: Betul.
+[1:41:06] Speaker 1: Betul.
 
-[101:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:41:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[102:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:42:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[102:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:42:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[102:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:42:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[103:18] Speaker 1: Okey lah. To give perspective lah.
+[1:43:18] Speaker 1: Okey lah. To give perspective lah.
 
-[103:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:43:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[103:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:43:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[103:51] Speaker 1: Kan.
+[1:43:51] Speaker 1: Kan.
 
-[103:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:43:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[104:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:44:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[104:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:44:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[104:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:44:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[104:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:44:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[104:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:44:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[105:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:45:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[105:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:45:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[105:32] Speaker 1: Okey, beria.
+[1:45:32] Speaker 1: Okey, beria.
 
-[105:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:45:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[105:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:45:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[105:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:45:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[106:36] Speaker 1: Okey.
+[1:46:36] Speaker 1: Okey.
 
-[107:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:47:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[107:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:47:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[107:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:47:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[107:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:47:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[107:40] Speaker 1: Betul.
+[1:47:40] Speaker 1: Betul.
 
-[108:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:48:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[108:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:48:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[109:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:49:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[109:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:49:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[109:51] Speaker 1: Okey lah. To give perspective lah.
+[1:49:51] Speaker 1: Okey lah. To give perspective lah.
 
-[109:54] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:49:54] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[110:14] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:50:14] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[110:24] Speaker 1: Kan.
+[1:50:24] Speaker 1: Kan.
 
-[110:25] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:50:25] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[110:45] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:50:45] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[110:51] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:50:51] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[111:01] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:51:01] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[111:12] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:51:12] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[111:16] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:51:16] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[111:34] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:51:34] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[111:52] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:51:52] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[112:04] Speaker 1: Okey, beria.
+[1:52:04] Speaker 1: Okey, beria.
 
-[112:06] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:52:06] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[112:15] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:52:15] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[112:23] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:52:23] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[113:08] Speaker 1: Okey.
+[1:53:08] Speaker 1: Okey.
 
-[113:39] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:53:39] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[113:45] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:53:45] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[113:49] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:53:49] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[113:59] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:53:59] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[114:12] Speaker 1: Betul.
+[1:54:12] Speaker 1: Betul.
 
-[115:04] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:55:04] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[115:17] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:55:17] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[115:39] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:55:39] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[115:42] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:55:42] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[116:24] Speaker 1: Okey lah. To give perspective lah.
+[1:56:24] Speaker 1: Okey lah. To give perspective lah.
 
-[116:27] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:56:27] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[116:47] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:56:47] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[116:57] Speaker 1: Kan.
+[1:56:57] Speaker 1: Kan.
 
-[116:58] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:56:58] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[117:18] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:57:18] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[117:24] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:57:24] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[117:34] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:57:34] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[117:45] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:57:45] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[117:49] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:57:49] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[118:08] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:58:08] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[118:26] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:58:26] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[118:38] Speaker 1: Okey, beria.
+[1:58:38] Speaker 1: Okey, beria.
 
-[118:40] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:58:40] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[118:49] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:58:49] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[118:57] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:58:57] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[119:42] Speaker 1: Okey.
+[1:59:42] Speaker 1: Okey.
 
-[120:13] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:00:13] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[120:19] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:00:19] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[120:23] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:00:23] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[120:33] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:00:33] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[120:46] Speaker 1: Betul.
+[2:00:46] Speaker 1: Betul.
 
-[121:38] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:01:38] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[121:51] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:01:51] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[122:13] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:02:13] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[122:16] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:02:16] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[122:58] Speaker 1: Okey lah. To give perspective lah.
+[2:02:58] Speaker 1: Okey lah. To give perspective lah.
 
-[123:01] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:03:01] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[123:21] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:03:21] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[123:31] Speaker 1: Kan.
+[2:03:31] Speaker 1: Kan.
 
-[123:32] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:03:32] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[123:52] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:03:52] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[123:58] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:03:58] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[124:08] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:04:08] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[124:19] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:04:19] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[124:23] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:04:23] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[124:42] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:04:42] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[125:00] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:05:00] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[125:12] Speaker 1: Okey, beria.
+[2:05:12] Speaker 1: Okey, beria.
 
-[125:14] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:05:14] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[125:23] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:05:23] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[125:31] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:05:31] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[126:16] Speaker 1: Okey.
+[2:06:16] Speaker 1: Okey.
 
-[126:47] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:06:47] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[126:53] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:06:53] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[126:57] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:06:57] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[127:07] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:07:07] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[127:20] Speaker 1: Betul.
+[2:07:20] Speaker 1: Betul.
 
-[128:12] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:08:12] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[128:25] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:08:25] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[128:47] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:08:47] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[128:50] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:08:50] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[129:32] Speaker 1: Okey lah. To give perspective lah.
+[2:09:32] Speaker 1: Okey lah. To give perspective lah.
 
-[129:35] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:09:35] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[129:55] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:09:55] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[130:05] Speaker 1: Kan.
+[2:10:05] Speaker 1: Kan.
 
-[130:06] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:10:06] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[130:26] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:10:26] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[130:32] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:10:32] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[130:42] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:10:42] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[130:53] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:10:53] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[130:57] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:10:57] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[131:16] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:11:16] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[131:34] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:11:34] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[131:46] Speaker 1: Okey, beria.
+[2:11:46] Speaker 1: Okey, beria.
 
-[131:48] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:11:48] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[131:57] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:11:57] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[132:05] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:12:05] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[132:50] Speaker 1: Okey.
+[2:12:50] Speaker 1: Okey.
 
-[133:21] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:13:21] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[133:27] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:13:27] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[133:31] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:13:31] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[133:41] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:13:41] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[133:54] Speaker 1: Betul.
+[2:13:54] Speaker 1: Betul.
 
-[134:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:14:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[134:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:14:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[135:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:15:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[135:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:15:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[136:06] Speaker 1: Okey lah. To give perspective lah.
+[2:16:06] Speaker 1: Okey lah. To give perspective lah.
 
-[136:09] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:16:09] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[136:29] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:16:29] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[136:39] Speaker 1: Kan.
+[2:16:39] Speaker 1: Kan.
 
-[136:40] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:16:40] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[137:00] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:17:00] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[137:06] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:17:06] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[137:16] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:17:16] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[137:27] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:17:27] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[137:31] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:17:31] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[137:50] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:17:50] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[138:08] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:18:08] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[138:20] Speaker 1: Okey, beria.
+[2:18:20] Speaker 1: Okey, beria.
 
-[138:22] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:18:22] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[138:31] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:18:31] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[138:39] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:18:39] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[139:24] Speaker 1: Okey.
+[2:19:24] Speaker 1: Okey.
 
-[139:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:19:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[140:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:20:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[140:05] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:20:05] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[140:15] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:20:15] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[140:28] Speaker 1: Betul.
+[2:20:28] Speaker 1: Betul.
 
-[141:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:21:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[141:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:21:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[141:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:21:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[141:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:21:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[142:40] Speaker 1: Okey lah. To give perspective lah.
+[2:22:40] Speaker 1: Okey lah. To give perspective lah.
 
-[142:43] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:22:43] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[143:03] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:23:03] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[143:13] Speaker 1: Kan.
+[2:23:13] Speaker 1: Kan.
 
-[143:14] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:23:14] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[143:34] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:23:34] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[143:40] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:23:40] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[143:50] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:23:50] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[144:01] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:24:01] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[144:05] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:24:05] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[144:24] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:24:24] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[144:42] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:24:42] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[144:54] Speaker 1: Okey, beria.
+[2:24:54] Speaker 1: Okey, beria.
 
-[144:56] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:24:56] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[145:05] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:25:05] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[145:13] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:25:13] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[146:18] Speaker 1: Okey.
+[2:26:18] Speaker 1: Okey.
 
-[146:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:26:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[146:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:26:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[146:59] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:26:59] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[147:09] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:27:09] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[147:22] Speaker 1: Betul.
+[2:27:22] Speaker 1: Betul.
 
-[148:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:28:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[148:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:28:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[148:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:28:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[148:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:28:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[149:34] Speaker 1: Okey lah. To give perspective lah.
+[2:29:34] Speaker 1: Okey lah. To give perspective lah.
 
-[149:37] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:29:37] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[149:57] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:29:57] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[150:07] Speaker 1: Kan.
+[2:30:07] Speaker 1: Kan.
 
-[150:08] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:30:08] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[150:28] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:30:28] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[150:34] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:30:34] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[150:44] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:30:44] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[150:55] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:30:55] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[150:59] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:30:59] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[151:18] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:31:18] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[151:36] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:31:36] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[151:48] Speaker 1: Okey, beria.
+[2:31:48] Speaker 1: Okey, beria.
 
-[151:50] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:31:50] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[151:59] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:31:59] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[152:07] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:32:07] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[153:12] Speaker 1: Okey.
+[2:33:12] Speaker 1: Okey.
 
-[153:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:33:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[153:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:33:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[153:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:33:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[154:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:34:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[154:16] Speaker 1: Betul.
+[2:34:16] Speaker 1: Betul.
 
-[155:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:35:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[155:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:35:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[155:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:35:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[155:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:35:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[156:28] Speaker 1: Okey lah. To give perspective lah.
+[2:36:28] Speaker 1: Okey lah. To give perspective lah.
 
-[156:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:36:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[156:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:36:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[157:01] Speaker 1: Kan.
+[2:37:01] Speaker 1: Kan.
 
-[157:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:37:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[157:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:37:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[157:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:37:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[157:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:37:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[157:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:37:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[157:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:37:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[158:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:38:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[158:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:38:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[158:42] Speaker 1: Okey, beria.
+[2:38:42] Speaker 1: Okey, beria.
 
-[158:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:38:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[158:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:38:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[159:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:39:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[159:46] Speaker 1: Okey.
+[2:39:46] Speaker 1: Okey.
 
-[160:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:40:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[160:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:40:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[160:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:40:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[160:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:40:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[160:50] Speaker 1: Betul.
+[2:40:50] Speaker 1: Betul.
 
-[161:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:41:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[161:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:41:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[162:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:42:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[162:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:42:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[163:02] Speaker 1: Okey lah. To give perspective lah.
+[2:43:02] Speaker 1: Okey lah. To give perspective lah.
 
-[163:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:43:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[163:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:43:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[163:35] Speaker 1: Kan.
+[2:43:35] Speaker 1: Kan.
 
-[163:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:43:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[163:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:43:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[164:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:44:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[164:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:44:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[164:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:44:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[164:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:44:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[164:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:44:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[165:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:45:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[165:16] Speaker 1: Okey, beria.
+[2:45:16] Speaker 1: Okey, beria.
 
-[165:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:45:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[165:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:45:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[165:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:45:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[166:20] Speaker 1: Okey.
+[2:46:20] Speaker 1: Okey.
 
-[166:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:46:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[166:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:46:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[167:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:47:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[167:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:47:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[167:24] Speaker 1: Betul.
+[2:47:24] Speaker 1: Betul.
 
-[168:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:48:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[168:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:48:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[168:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:48:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[168:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:48:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[169:36] Speaker 1: Okey lah. To give perspective lah.
+[2:49:36] Speaker 1: Okey lah. To give perspective lah.
 
-[169:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:49:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[169:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:49:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[170:09] Speaker 1: Kan.
+[2:50:09] Speaker 1: Kan.
 
-[170:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:50:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[170:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:50:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[170:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:50:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[170:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:50:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[170:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:50:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[171:01] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:51:01] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[171:20] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:51:20] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[171:38] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:51:38] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[171:50] Speaker 1: Okey, beria.
+[2:51:50] Speaker 1: Okey, beria.
 
-[171:52] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:51:52] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[172:01] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:52:01] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[172:09] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:52:09] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[172:54] Speaker 1: Okey.
+[2:52:54] Speaker 1: Okey.
 
-[173:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:53:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[173:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:53:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[173:35] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:53:35] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[173:45] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:53:45] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[173:58] Speaker 1: Betul.
+[2:53:58] Speaker 1: Betul.
 
-[175:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:55:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[175:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:55:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[175:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:55:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[175:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:55:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[176:20] Speaker 1: Okey lah. To give perspective lah.
+[2:56:20] Speaker 1: Okey lah. To give perspective lah.
 
-[176:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:56:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[176:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:56:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[176:53] Speaker 1: Kan.
+[2:56:53] Speaker 1: Kan.
 
-[176:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:56:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[177:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:57:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[177:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:57:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[177:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:57:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[177:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:57:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[177:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:57:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[178:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:58:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[178:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:58:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[178:34] Speaker 1: Okey, beria.
+[2:58:34] Speaker 1: Okey, beria.
 
-[178:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:58:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[178:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:58:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[178:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:58:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[179:38] Speaker 1: Okey.
+[2:59:38] Speaker 1: Okey.
 
-[180:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:00:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[180:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:00:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[180:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:00:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[180:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:00:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[180:42] Speaker 1: Betul.
+[3:00:42] Speaker 1: Betul.
 
-[181:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:01:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[181:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:01:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[182:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:02:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[182:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:02:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[182:54] Speaker 1: Okey lah. To give perspective lah.
+[3:02:54] Speaker 1: Okey lah. To give perspective lah.
 
-[182:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:02:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[183:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:03:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[183:27] Speaker 1: Kan.
+[3:03:27] Speaker 1: Kan.
 
-[183:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:03:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[183:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:03:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[183:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:03:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[184:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:04:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[184:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:04:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[184:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:04:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[184:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:04:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[184:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:04:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[185:08] Speaker 1: Okey, beria.
+[3:05:08] Speaker 1: Okey, beria.
 
-[185:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:05:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[185:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:05:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[185:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:05:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[186:12] Speaker 1: Okey.
+[3:06:12] Speaker 1: Okey.
 
-[186:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:06:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[186:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:06:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[186:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:06:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[187:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:07:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[187:16] Speaker 1: Betul.
+[3:07:16] Speaker 1: Betul.
 
-[188:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:08:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[188:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:08:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[188:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:08:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[188:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:08:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[189:28] Speaker 1: Okey lah. To give perspective lah.
+[3:09:28] Speaker 1: Okey lah. To give perspective lah.
 
-[189:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:09:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[189:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:09:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[190:01] Speaker 1: Kan.
+[3:10:01] Speaker 1: Kan.
 
-[190:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:10:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[190:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:10:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[190:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:10:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[190:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:10:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[190:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:10:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[190:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:10:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[191:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:11:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[191:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:11:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[191:42] Speaker 1: Okey, beria.
+[3:11:42] Speaker 1: Okey, beria.
 
-[191:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:11:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[191:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:11:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[192:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:12:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[192:46] Speaker 1: Okey.
+[3:12:46] Speaker 1: Okey.
 
-[193:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:13:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[193:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:13:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[193:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:13:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[193:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:13:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[193:50] Speaker 1: Betul.
+[3:13:50] Speaker 1: Betul.
 
-[194:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:14:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[194:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:14:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[195:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:15:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[195:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:15:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[196:02] Speaker 1: Okey lah. To give perspective lah.
+[3:16:02] Speaker 1: Okey lah. To give perspective lah.
 
-[196:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:16:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[196:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:16:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[196:35] Speaker 1: Kan.
+[3:16:35] Speaker 1: Kan.
 
-[196:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:16:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[196:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:16:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[197:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:17:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[197:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:17:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[197:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:17:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[197:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:17:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[197:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:17:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[198:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:18:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[198:16] Speaker 1: Okey, beria.
+[3:18:16] Speaker 1: Okey, beria.
 
-[198:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:18:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[198:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:18:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[198:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:18:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[199:20] Speaker 1: Okey.
+[3:19:20] Speaker 1: Okey.
 
-[199:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:19:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[199:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:19:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[200:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:20:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[200:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:20:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[200:24] Speaker 1: Betul.
+[3:20:24] Speaker 1: Betul.
 
-[201:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:21:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[201:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:21:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[201:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:21:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[201:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:21:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[202:36] Speaker 1: Okey lah. To give perspective lah.
+[3:22:36] Speaker 1: Okey lah. To give perspective lah.
 
-[202:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:22:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[202:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:22:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[203:09] Speaker 1: Kan.
+[3:23:09] Speaker 1: Kan.
 
-[203:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:23:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[203:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:23:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[203:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:23:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[203:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:23:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[203:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:23:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
 [24:01] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
@@ -2058,1823 +2058,1823 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:19:53] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas,
 
-[79:53] Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
+[1:19:53] Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
 
-[80:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:20:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[80:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:20:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[80:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:20:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[80:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:20:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[81:38] Speaker 1: Okey lah. To give perspective lah.
+[1:21:38] Speaker 1: Okey lah. To give perspective lah.
 
-[81:41] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:21:41] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[82:01] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:22:01] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[82:11] Speaker 1: Kan.
+[1:22:11] Speaker 1: Kan.
 
-[82:12] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:22:12] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[82:32] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:22:32] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[82:38] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:22:38] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[82:48] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:22:48] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[82:59] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:22:59] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[83:03] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:23:03] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[83:22] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:23:22] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[83:40] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:23:40] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[83:52] Speaker 1: Okey, beria.
+[1:23:52] Speaker 1: Okey, beria.
 
-[83:54] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:23:54] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[84:03] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:24:03] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[84:11] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:24:11] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[84:56] Speaker 1: Okey.
+[1:24:56] Speaker 1: Okey.
 
-[85:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:25:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[85:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:25:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[85:37] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:25:37] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[85:47] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:25:47] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[86:00] Speaker 1: Betul.
+[1:26:00] Speaker 1: Betul.
 
-[86:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:26:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[87:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:27:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[87:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:27:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[87:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:27:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[88:12] Speaker 1: Okey lah. To give perspective lah.
+[1:28:12] Speaker 1: Okey lah. To give perspective lah.
 
-[88:15] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:28:15] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[88:35] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:28:35] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[88:45] Speaker 1: Kan.
+[1:28:45] Speaker 1: Kan.
 
-[88:46] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:28:46] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[89:06] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:29:06] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[89:12] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:29:12] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[89:22] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:29:22] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[89:33] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:29:33] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[89:37] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:29:37] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[89:56] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:29:56] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[90:14] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:30:14] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[90:26] Speaker 1: Okey, beria.
+[1:30:26] Speaker 1: Okey, beria.
 
-[90:28] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:30:28] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[90:37] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:30:37] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[90:45] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:30:45] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[91:30] Speaker 1: Okey.
+[1:31:30] Speaker 1: Okey.
 
-[92:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:32:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[92:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:32:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[92:11] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:32:11] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[92:21] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:32:21] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[92:34] Speaker 1: Betul.
+[1:32:34] Speaker 1: Betul.
 
-[93:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:33:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[93:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:33:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[94:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:34:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[94:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:34:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[94:46] Speaker 1: Okey lah. To give perspective lah.
+[1:34:46] Speaker 1: Okey lah. To give perspective lah.
 
-[94:49] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:34:49] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[95:09] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:35:09] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[95:19] Speaker 1: Kan.
+[1:35:19] Speaker 1: Kan.
 
-[95:20] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:35:20] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[95:40] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:35:40] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[95:46] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:35:46] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[95:56] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:35:56] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[96:07] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:36:07] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[96:11] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:36:11] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[96:30] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:36:30] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[96:48] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:36:48] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[97:00] Speaker 1: Okey, beria.
+[1:37:00] Speaker 1: Okey, beria.
 
-[97:02] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:37:02] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[97:11] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:37:11] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[97:19] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:37:19] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[98:04] Speaker 1: Okey.
+[1:38:04] Speaker 1: Okey.
 
-[98:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:38:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[98:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:38:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[98:45] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:38:45] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[98:55] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:38:55] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[99:08] Speaker 1: Betul.
+[1:39:08] Speaker 1: Betul.
 
-[100:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:40:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[100:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:40:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[100:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:40:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[100:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:40:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[101:20] Speaker 1: Okey lah. To give perspective lah.
+[1:41:20] Speaker 1: Okey lah. To give perspective lah.
 
-[101:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:41:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[101:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:41:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[101:53] Speaker 1: Kan.
+[1:41:53] Speaker 1: Kan.
 
-[101:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:41:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[102:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:42:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[102:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:42:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[102:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:42:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[102:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:42:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[102:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:42:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[103:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:43:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[103:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:43:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[103:34] Speaker 1: Okey, beria.
+[1:43:34] Speaker 1: Okey, beria.
 
-[103:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:43:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[103:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:43:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[103:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:43:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[104:38] Speaker 1: Okey.
+[1:44:38] Speaker 1: Okey.
 
-[105:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:45:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[105:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:45:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[105:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:45:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[105:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:45:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[105:42] Speaker 1: Betul.
+[1:45:42] Speaker 1: Betul.
 
-[106:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:46:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[106:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:46:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[107:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:47:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[107:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:47:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[107:54] Speaker 1: Okey lah. To give perspective lah.
+[1:47:54] Speaker 1: Okey lah. To give perspective lah.
 
-[107:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:47:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[108:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:48:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[108:27] Speaker 1: Kan.
+[1:48:27] Speaker 1: Kan.
 
-[108:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:48:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[108:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:48:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[108:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:48:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[109:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:49:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[109:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:49:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[109:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:49:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[109:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:49:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[109:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:49:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[110:08] Speaker 1: Okey, beria.
+[1:50:08] Speaker 1: Okey, beria.
 
-[110:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:50:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[110:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:50:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[110:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:50:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[111:12] Speaker 1: Okey.
+[1:51:12] Speaker 1: Okey.
 
-[111:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:51:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[111:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:51:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[111:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:51:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[112:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:52:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[112:16] Speaker 1: Betul.
+[1:52:16] Speaker 1: Betul.
 
-[113:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:53:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[113:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:53:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[113:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:53:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[113:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:53:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[114:28] Speaker 1: Okey lah. To give perspective lah.
+[1:54:28] Speaker 1: Okey lah. To give perspective lah.
 
-[114:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:54:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[114:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:54:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[115:01] Speaker 1: Kan.
+[1:55:01] Speaker 1: Kan.
 
-[115:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:55:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[115:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:55:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[115:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:55:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[115:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:55:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[115:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:55:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[115:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:55:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[116:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:56:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[116:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:56:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[116:42] Speaker 1: Okey, beria.
+[1:56:42] Speaker 1: Okey, beria.
 
-[116:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:56:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[116:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:56:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[117:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:57:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[117:46] Speaker 1: Okey.
+[1:57:46] Speaker 1: Okey.
 
-[118:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:58:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[118:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:58:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[118:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:58:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[118:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:58:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[118:50] Speaker 1: Betul.
+[1:58:50] Speaker 1: Betul.
 
-[119:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:59:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[119:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:59:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[120:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:00:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[120:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:00:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[121:02] Speaker 1: Okey lah. To give perspective lah.
+[2:01:02] Speaker 1: Okey lah. To give perspective lah.
 
-[121:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:01:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[121:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:01:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[121:35] Speaker 1: Kan.
+[2:01:35] Speaker 1: Kan.
 
-[121:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:01:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[121:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:01:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[122:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:02:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[122:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:02:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[122:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:02:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[122:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:02:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[122:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:02:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[123:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:03:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[123:16] Speaker 1: Okey, beria.
+[2:03:16] Speaker 1: Okey, beria.
 
-[123:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:03:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[123:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:03:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[123:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:03:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[124:20] Speaker 1: Okey.
+[2:04:20] Speaker 1: Okey.
 
-[124:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:04:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[124:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:04:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[125:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:05:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[125:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:05:11] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[125:24] Speaker 1: Betul.
+[2:05:24] Speaker 1: Betul.
 
-[126:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:06:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[126:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:06:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[126:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:06:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[126:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:06:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[127:36] Speaker 1: Okey lah. To give perspective lah.
+[2:07:36] Speaker 1: Okey lah. To give perspective lah.
 
-[127:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:07:39] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[127:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:07:59] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[128:09] Speaker 1: Kan.
+[2:08:09] Speaker 1: Kan.
 
-[128:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:08:10] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[128:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:08:30] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[128:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:08:36] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[128:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:08:46] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[128:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:08:57] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[129:01] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:09:01] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[129:20] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:09:20] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[129:38] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:09:38] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[129:50] Speaker 1: Okey, beria.
+[2:09:50] Speaker 1: Okey, beria.
 
-[129:52] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:09:52] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[130:01] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:10:01] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[130:09] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:10:09] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[130:54] Speaker 1: Okey.
+[2:10:54] Speaker 1: Okey.
 
-[131:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:11:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[131:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:11:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[131:35] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:11:35] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[131:45] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:11:45] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[131:58] Speaker 1: Betul.
+[2:11:58] Speaker 1: Betul.
 
-[132:50] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:12:50] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[133:03] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:13:03] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[133:25] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:13:25] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[133:28] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:13:28] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[134:10] Speaker 1: Okey lah. To give perspective lah.
+[2:14:10] Speaker 1: Okey lah. To give perspective lah.
 
-[134:13] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:14:13] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[134:33] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:14:33] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[134:43] Speaker 1: Kan.
+[2:14:43] Speaker 1: Kan.
 
-[134:44] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:14:44] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[135:04] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:15:04] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[135:10] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:15:10] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[135:20] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:15:20] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[135:31] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:15:31] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[135:35] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:15:35] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[135:54] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:15:54] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[136:12] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:16:12] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[136:24] Speaker 1: Okey, beria.
+[2:16:24] Speaker 1: Okey, beria.
 
-[136:26] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:16:26] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[136:35] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:16:35] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[136:43] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:16:43] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[137:28] Speaker 1: Okey.
+[2:17:28] Speaker 1: Okey.
 
-[137:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:17:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[138:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:18:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[138:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:18:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[138:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:18:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[138:32] Speaker 1: Betul.
+[2:18:32] Speaker 1: Betul.
 
-[139:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:19:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[139:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:19:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[139:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:19:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[140:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:20:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[140:44] Speaker 1: Okey lah. To give perspective lah.
+[2:20:44] Speaker 1: Okey lah. To give perspective lah.
 
-[140:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:20:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[141:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:21:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[141:17] Speaker 1: Kan.
+[2:21:17] Speaker 1: Kan.
 
-[141:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:21:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[141:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:21:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[141:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:21:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[141:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:21:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[142:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:22:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[142:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:22:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[142:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:22:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[142:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:22:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[142:58] Speaker 1: Okey, beria.
+[2:22:58] Speaker 1: Okey, beria.
 
-[143:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:23:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[143:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:23:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[143:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:23:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[144:02] Speaker 1: Okey.
+[2:24:02] Speaker 1: Okey.
 
-[144:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:24:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[144:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:24:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[144:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:24:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[144:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:24:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[145:06] Speaker 1: Betul.
+[2:25:06] Speaker 1: Betul.
 
-[145:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:25:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[146:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:26:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[146:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:26:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[146:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:26:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[147:18] Speaker 1: Okey lah. To give perspective lah.
+[2:27:18] Speaker 1: Okey lah. To give perspective lah.
 
-[147:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:27:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[147:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:27:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[147:51] Speaker 1: Kan.
+[2:27:51] Speaker 1: Kan.
 
-[147:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:27:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[148:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:28:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[148:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:28:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[148:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:28:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[148:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:28:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[148:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:28:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[149:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:29:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[149:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:29:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[149:32] Speaker 1: Okey, beria.
+[2:29:32] Speaker 1: Okey, beria.
 
-[149:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:29:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[149:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:29:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[149:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:29:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[150:36] Speaker 1: Okey.
+[2:30:36] Speaker 1: Okey.
 
-[151:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:31:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[151:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:31:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[151:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:31:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[151:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:31:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[151:40] Speaker 1: Betul.
+[2:31:40] Speaker 1: Betul.
 
-[152:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:32:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[152:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:32:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[153:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:33:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[153:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:33:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[153:52] Speaker 1: Okey lah. To give perspective lah.
+[2:33:52] Speaker 1: Okey lah. To give perspective lah.
 
-[153:55] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:33:55] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[154:15] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:34:15] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[154:25] Speaker 1: Kan.
+[2:34:25] Speaker 1: Kan.
 
-[154:26] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:34:26] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[154:46] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:34:46] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[154:52] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:34:52] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[155:02] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:35:02] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[155:13] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:35:13] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[155:17] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:35:17] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[155:36] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:35:36] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[155:54] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:35:54] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[156:06] Speaker 1: Okey, beria.
+[2:36:06] Speaker 1: Okey, beria.
 
-[156:08] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:36:08] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[156:17] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:36:17] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[156:25] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:36:25] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[157:10] Speaker 1: Okey.
+[2:37:10] Speaker 1: Okey.
 
-[157:41] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:37:41] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[157:47] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:37:47] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[157:51] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:37:51] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[158:01] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:38:01] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[158:14] Speaker 1: Betul.
+[2:38:14] Speaker 1: Betul.
 
-[159:06] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:39:06] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[159:19] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:39:19] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[159:41] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:39:41] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[159:44] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:39:44] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[160:26] Speaker 1: Okey lah. To give perspective lah.
+[2:40:26] Speaker 1: Okey lah. To give perspective lah.
 
-[160:29] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:40:29] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[160:49] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:40:49] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[160:59] Speaker 1: Kan.
+[2:40:59] Speaker 1: Kan.
 
-[161:00] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:41:00] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[161:20] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:41:20] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[161:26] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:41:26] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[161:36] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:41:36] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[161:47] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:41:47] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[161:51] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:41:51] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[162:10] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:42:10] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[162:28] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:42:28] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[162:40] Speaker 1: Okey, beria.
+[2:42:40] Speaker 1: Okey, beria.
 
-[162:42] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:42:42] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[162:51] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:42:51] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[162:59] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:42:59] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[163:44] Speaker 1: Okey.
+[2:43:44] Speaker 1: Okey.
 
-[164:15] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:44:15] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[164:21] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:44:21] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[164:25] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:44:25] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[164:35] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:44:35] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[164:48] Speaker 1: Betul.
+[2:44:48] Speaker 1: Betul.
 
-[165:40] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:45:40] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[165:53] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:45:53] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[166:15] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:46:15] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[166:18] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:46:18] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[167:00] Speaker 1: Okey lah. To give perspective lah.
+[2:47:00] Speaker 1: Okey lah. To give perspective lah.
 
-[167:03] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:47:03] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[167:23] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:47:23] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[167:33] Speaker 1: Kan.
+[2:47:33] Speaker 1: Kan.
 
-[167:34] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:47:34] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[167:54] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:47:54] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[168:00] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:48:00] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[168:10] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:48:10] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[168:21] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:48:21] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[168:25] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:48:25] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[168:44] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:48:44] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[169:02] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:49:02] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[169:14] Speaker 1: Okey, beria.
+[2:49:14] Speaker 1: Okey, beria.
 
-[169:16] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:49:16] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[169:25] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:49:25] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[169:33] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:49:33] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[170:18] Speaker 1: Okey.
+[2:50:18] Speaker 1: Okey.
 
-[170:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:50:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[170:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:50:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[170:59] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:50:59] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[171:09] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:51:09] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[171:22] Speaker 1: Betul.
+[2:51:22] Speaker 1: Betul.
 
-[172:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:52:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[172:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:52:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[172:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:52:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[172:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:52:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[173:34] Speaker 1: Okey lah. To give perspective lah.
+[2:53:34] Speaker 1: Okey lah. To give perspective lah.
 
-[173:37] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:53:37] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[173:57] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:53:57] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[174:07] Speaker 1: Kan.
+[2:54:07] Speaker 1: Kan.
 
-[174:08] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:54:08] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[174:28] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:54:28] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[174:34] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:54:34] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[174:44] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:54:44] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[174:55] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:54:55] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[174:59] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:54:59] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[175:18] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:55:18] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[175:36] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:55:36] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[175:48] Speaker 1: Okey, beria.
+[2:55:48] Speaker 1: Okey, beria.
 
-[175:50] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:55:50] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[175:59] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:55:59] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[176:07] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:56:07] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[176:52] Speaker 1: Okey.
+[2:56:52] Speaker 1: Okey.
 
-[177:23] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:57:23] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[177:29] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:57:29] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[177:33] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:57:33] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[177:43] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:57:43] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[177:56] Speaker 1: Betul.
+[2:57:56] Speaker 1: Betul.
 
-[178:48] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:58:48] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[179:01] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:59:01] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[179:23] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:59:23] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[179:26] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:59:26] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[180:08] Speaker 1: Okey lah. To give perspective lah.
+[3:00:08] Speaker 1: Okey lah. To give perspective lah.
 
-[180:11] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:00:11] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[180:31] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:00:31] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[180:41] Speaker 1: Kan.
+[3:00:41] Speaker 1: Kan.
 
-[180:42] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:00:42] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[181:02] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:01:02] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[181:08] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:01:08] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[181:18] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:01:18] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[181:29] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:01:29] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[181:33] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:01:33] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[181:52] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:01:52] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[182:10] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:02:10] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[182:22] Speaker 1: Okey, beria.
+[3:02:22] Speaker 1: Okey, beria.
 
-[182:24] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:02:24] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[182:33] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:02:33] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[182:41] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:02:41] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[183:26] Speaker 1: Okey.
+[3:03:26] Speaker 1: Okey.
 
-[183:57] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:03:57] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[184:03] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:04:03] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[184:07] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:04:07] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[184:17] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:04:17] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[184:30] Speaker 1: Betul.
+[3:04:30] Speaker 1: Betul.
 
-[185:22] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:05:22] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[185:35] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:05:35] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[185:57] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:05:57] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[186:00] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:06:00] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[186:42] Speaker 1: Okey lah. To give perspective lah.
+[3:06:42] Speaker 1: Okey lah. To give perspective lah.
 
-[186:45] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:06:45] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[187:05] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:07:05] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[187:15] Speaker 1: Kan.
+[3:07:15] Speaker 1: Kan.
 
-[187:16] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:07:16] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[187:36] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:07:36] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[187:42] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:07:42] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[187:52] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:07:52] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[188:03] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:08:03] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[188:07] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:08:07] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[188:26] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:08:26] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[188:44] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:08:44] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[188:56] Speaker 1: Okey, beria.
+[3:08:56] Speaker 1: Okey, beria.
 
-[188:58] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:08:58] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[189:07] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:09:07] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[189:15] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:09:15] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[189:59] Speaker 1: Okey.
+[3:09:59] Speaker 1: Okey.
 
-[190:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:10:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[190:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:10:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[190:40] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:10:40] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[190:50] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:10:50] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[191:03] Speaker 1: Betul.
+[3:11:03] Speaker 1: Betul.
 
-[191:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:11:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[192:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:12:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[192:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:12:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[192:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:12:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[193:15] Speaker 1: Okey lah. To give perspective lah.
+[3:13:15] Speaker 1: Okey lah. To give perspective lah.
 
-[193:18] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:13:18] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[193:38] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:13:38] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[193:48] Speaker 1: Kan.
+[3:13:48] Speaker 1: Kan.
 
-[193:49] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:13:49] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[194:09] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:14:09] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[194:15] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:14:15] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[194:25] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:14:25] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[194:36] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:14:36] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[194:40] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:14:40] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[194:59] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:14:59] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[195:17] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:15:17] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[195:29] Speaker 1: Okey, beria.
+[3:15:29] Speaker 1: Okey, beria.
 
-[195:31] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:15:31] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[195:40] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:15:40] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[195:48] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:15:48] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[196:33] Speaker 1: Okey.
+[3:16:33] Speaker 1: Okey.
 
-[197:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:17:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[197:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:17:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[197:14] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:17:14] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[197:24] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:17:24] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[197:37] Speaker 1: Betul.
+[3:17:37] Speaker 1: Betul.
 
-[198:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:18:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[198:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:18:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[199:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:19:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[199:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:19:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[199:49] Speaker 1: Okey lah. To give perspective lah.
+[3:19:49] Speaker 1: Okey lah. To give perspective lah.
 
-[199:52] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:19:52] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[200:12] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:20:12] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[200:22] Speaker 1: Kan.
+[3:20:22] Speaker 1: Kan.
 
-[200:23] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:20:23] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[200:43] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:20:43] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[200:49] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:20:49] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[200:59] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:20:59] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[201:10] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:21:10] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[201:14] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:21:14] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[201:33] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:21:33] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[201:51] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:21:51] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[202:03] Speaker 1: Okey, beria.
+[3:22:03] Speaker 1: Okey, beria.
 
-[202:05] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:22:05] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[202:14] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:22:14] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[202:22] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:22:22] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[203:07] Speaker 1: Okey.
+[3:23:07] Speaker 1: Okey.
 
-[203:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:23:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[203:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:23:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[203:48] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:23:48] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[203:58] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:23:58] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[204:11] Speaker 1: Betul.
+[3:24:11] Speaker 1: Betul.
 
-[205:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:25:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[205:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:25:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[205:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:25:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[205:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:25:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[206:23] Speaker 1: Okey lah. To give perspective lah.
+[3:26:23] Speaker 1: Okey lah. To give perspective lah.
 
-[206:26] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:26:26] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[206:46] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:26:46] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[206:56] Speaker 1: Kan.
+[3:26:56] Speaker 1: Kan.
 
-[206:57] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:26:57] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[207:17] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:27:17] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[207:23] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:27:23] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[207:33] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:27:33] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[207:44] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:27:44] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[207:48] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:27:48] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[208:07] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:28:07] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[208:25] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:28:25] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[208:37] Speaker 1: Okey, beria.
+[3:28:37] Speaker 1: Okey, beria.
 
-[208:39] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:28:39] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[208:48] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:28:48] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[208:56] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:28:56] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[209:41] Speaker 1: Okey.
+[3:29:41] Speaker 1: Okey.
 
-[210:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:30:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[210:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:30:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[210:22] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:30:22] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[210:32] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:30:32] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[210:45] Speaker 1: Betul.
+[3:30:45] Speaker 1: Betul.
 
-[211:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:31:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[211:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:31:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[212:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:32:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[212:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:32:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[212:57] Speaker 1: Okey lah. To give perspective lah.
+[3:32:57] Speaker 1: Okey lah. To give perspective lah.
 
-[213:00] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:33:00] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[213:20] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:33:20] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[213:30] Speaker 1: Kan.
+[3:33:30] Speaker 1: Kan.
 
-[213:31] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:33:31] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[213:51] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:33:51] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[213:57] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:33:57] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[214:07] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:34:07] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[214:18] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:34:18] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[214:22] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:34:22] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[214:41] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:34:41] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[214:59] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:34:59] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[215:11] Speaker 1: Okey, beria.
+[3:35:11] Speaker 1: Okey, beria.
 
-[215:13] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:35:13] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[215:22] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:35:22] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[215:30] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:35:30] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[216:15] Speaker 1: Okey.
+[3:36:15] Speaker 1: Okey.
 
-[216:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:36:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[216:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:36:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[216:56] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:36:56] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[217:06] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:37:06] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[217:19] Speaker 1: Betul.
+[3:37:19] Speaker 1: Betul.
 
-[218:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:38:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[218:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:38:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[218:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:38:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[218:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:38:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[219:31] Speaker 1: Okey lah. To give perspective lah.
+[3:39:31] Speaker 1: Okey lah. To give perspective lah.
 
-[219:34] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:39:34] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[219:54] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:39:54] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[220:04] Speaker 1: Kan.
+[3:40:04] Speaker 1: Kan.
 
-[220:05] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:40:05] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[220:25] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:40:25] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[220:31] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:40:31] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[220:41] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:40:41] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[220:52] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:40:52] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[220:56] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:40:56] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[221:15] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:41:15] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[221:33] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:41:33] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[221:45] Speaker 1: Okey, beria.
+[3:41:45] Speaker 1: Okey, beria.
 
-[221:47] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:41:47] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[221:56] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:41:56] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[222:04] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:42:04] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[222:49] Speaker 1: Okey.
+[3:42:49] Speaker 1: Okey.
 
-[223:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:43:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[223:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:43:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[223:30] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:43:30] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[223:40] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:43:40] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[223:53] Speaker 1: Betul.
+[3:43:53] Speaker 1: Betul.
 
-[224:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:44:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[224:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:44:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[225:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:45:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[225:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:45:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[226:05] Speaker 1: Okey lah. To give perspective lah.
+[3:46:05] Speaker 1: Okey lah. To give perspective lah.
 
-[226:08] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:46:08] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[226:28] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:46:28] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[226:38] Speaker 1: Kan.
+[3:46:38] Speaker 1: Kan.
 
-[226:39] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:46:39] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[226:59] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:46:59] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[227:05] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:47:05] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[227:15] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:47:15] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[227:26] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:47:26] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[227:30] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:47:30] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[227:49] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:47:49] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[228:07] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:48:07] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[228:19] Speaker 1: Okey, beria.
+[3:48:19] Speaker 1: Okey, beria.
 
-[228:21] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:48:21] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[228:30] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:48:30] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[228:38] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:48:38] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[229:23] Speaker 1: Okey.
+[3:49:23] Speaker 1: Okey.
 
-[229:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:49:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[230:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:50:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[230:04] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:50:04] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[230:14] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:50:14] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[230:27] Speaker 1: Betul.
+[3:50:27] Speaker 1: Betul.
 
-[231:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:51:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[231:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:51:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[231:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:51:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[231:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:51:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[232:39] Speaker 1: Okey lah. To give perspective lah.
+[3:52:39] Speaker 1: Okey lah. To give perspective lah.
 
-[232:42] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:52:42] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[233:02] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:53:02] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[233:12] Speaker 1: Kan.
+[3:53:12] Speaker 1: Kan.
 
-[233:13] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:53:13] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[233:33] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:53:33] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[233:39] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:53:39] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[233:49] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:53:49] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[234:00] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:54:00] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[234:04] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:54:04] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[234:23] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:54:23] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[234:41] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:54:41] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[234:53] Speaker 1: Okey, beria.
+[3:54:53] Speaker 1: Okey, beria.
 
-[234:55] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:54:55] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[235:04] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:55:04] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[235:12] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:55:12] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[235:57] Speaker 1: Okey.
+[3:55:57] Speaker 1: Okey.
 
-[236:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:56:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[236:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:56:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[236:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:56:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[236:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:56:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[237:01] Speaker 1: Betul.
+[3:57:01] Speaker 1: Betul.
 
-[237:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:57:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[238:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:58:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[238:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:58:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[238:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:58:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[239:13] Speaker 1: Okey lah. To give perspective lah.
+[3:59:13] Speaker 1: Okey lah. To give perspective lah.
 
-[239:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:59:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[239:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:59:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[239:46] Speaker 1: Kan.
+[3:59:46] Speaker 1: Kan.
 
-[239:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:59:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[240:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:00:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[240:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:00:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[240:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:00:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[240:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:00:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[240:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:00:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[240:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:00:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[241:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:01:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[241:27] Speaker 1: Okey, beria.
+[4:01:27] Speaker 1: Okey, beria.
 
-[241:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:01:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[241:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:01:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[241:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:01:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[242:31] Speaker 1: Okey.
+[4:02:31] Speaker 1: Okey.
 
-[243:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:03:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[243:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:03:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[243:12] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:03:12] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[243:22] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:03:22] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[243:35] Speaker 1: Betul.
+[4:03:35] Speaker 1: Betul.
 
-[244:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:04:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[244:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:04:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[245:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:05:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[245:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:05:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[245:47] Speaker 1: Okey lah. To give perspective lah.
+[4:05:47] Speaker 1: Okey lah. To give perspective lah.
 
-[245:50] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:05:50] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[246:10] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:06:10] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[246:20] Speaker 1: Kan.
+[4:06:20] Speaker 1: Kan.
 
-[246:21] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:06:21] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[246:41] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:06:41] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[246:47] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:06:47] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[246:57] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:06:57] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[247:08] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:07:08] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[247:12] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:07:12] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[247:31] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:07:31] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[247:49] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:07:49] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[248:01] Speaker 1: Okey, beria.
+[4:08:01] Speaker 1: Okey, beria.
 
-[248:03] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:08:03] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[248:12] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:08:12] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[248:20] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:08:20] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[249:05] Speaker 1: Okey.
+[4:09:05] Speaker 1: Okey.
 
-[249:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:09:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[249:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:09:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[249:46] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:09:46] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[249:56] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:09:56] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[250:09] Speaker 1: Betul.
+[4:10:09] Speaker 1: Betul.
 
-[251:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:11:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[251:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:11:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[251:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:11:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[251:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:11:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[252:21] Speaker 1: Okey lah. To give perspective lah.
+[4:12:21] Speaker 1: Okey lah. To give perspective lah.
 
-[252:24] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:12:24] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[252:44] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:12:44] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[252:54] Speaker 1: Kan.
+[4:12:54] Speaker 1: Kan.
 
-[252:55] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:12:55] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[253:15] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:13:15] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[253:21] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:13:21] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[253:31] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:13:31] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[253:42] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:13:42] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[253:46] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:13:46] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[254:05] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:14:05] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[254:23] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:14:23] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[254:35] Speaker 1: Okey, beria.
+[4:14:35] Speaker 1: Okey, beria.
 
-[254:37] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:14:37] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[254:46] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:14:46] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[254:54] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:14:54] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[255:39] Speaker 1: Okey.
+[4:15:39] Speaker 1: Okey.
 
-[256:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:16:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[256:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:16:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[256:20] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:16:20] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[256:30] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:16:30] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[256:43] Speaker 1: Betul.
+[4:16:43] Speaker 1: Betul.
 
-[257:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:17:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[257:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:17:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[258:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:18:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[258:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:18:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[258:55] Speaker 1: Okey lah. To give perspective lah.
+[4:18:55] Speaker 1: Okey lah. To give perspective lah.
 
-[258:58] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:18:58] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[259:18] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:19:18] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[259:28] Speaker 1: Kan.
+[4:19:28] Speaker 1: Kan.
 
-[259:29] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:19:29] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[259:49] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:19:49] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[259:55] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:19:55] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[260:05] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:20:05] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[260:16] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:20:16] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[260:20] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:20:20] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[260:39] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:20:39] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[260:57] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:20:57] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[261:09] Speaker 1: Okey, beria.
+[4:21:09] Speaker 1: Okey, beria.
 
-[261:11] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:21:11] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[261:20] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:21:20] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[261:28] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:21:28] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[262:13] Speaker 1: Okey.
+[4:22:13] Speaker 1: Okey.
 
-[262:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:22:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[262:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:22:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[262:54] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:22:54] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[263:04] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:23:04] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[263:17] Speaker 1: Betul.
+[4:23:17] Speaker 1: Betul.
 
-[264:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:24:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[264:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:24:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[264:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:24:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[264:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:24:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[265:29] Speaker 1: Okey lah. To give perspective lah.
+[4:25:29] Speaker 1: Okey lah. To give perspective lah.
 
-[265:32] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:25:32] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[265:52] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:25:52] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[266:02] Speaker 1: Kan.
+[4:26:02] Speaker 1: Kan.
 
-[266:03] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:26:03] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[266:23] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:26:23] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[266:29] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:26:29] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[266:39] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:26:39] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[266:50] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:26:50] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[266:54] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:26:54] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[267:13] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:27:13] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[267:31] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:27:31] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[267:43] Speaker 1: Okey, beria.
+[4:27:43] Speaker 1: Okey, beria.
 
-[267:45] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:27:45] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[267:54] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:27:54] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[268:02] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:28:02] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[268:47] Speaker 1: Okey.
+[4:28:47] Speaker 1: Okey.
 
-[269:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:29:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[269:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:29:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[269:28] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:29:28] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[269:38] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:29:38] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[269:51] Speaker 1: Betul.
+[4:29:51] Speaker 1: Betul.
 
-[270:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:30:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[270:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:30:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[271:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:31:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[271:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:31:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[272:03] Speaker 1: Okey lah. To give perspective lah.
+[4:32:03] Speaker 1: Okey lah. To give perspective lah.
 
-[272:06] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:32:06] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[272:26] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:32:26] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[272:36] Speaker 1: Kan.
+[4:32:36] Speaker 1: Kan.
 
-[272:37] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:32:37] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[272:57] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:32:57] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[273:03] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:33:03] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[273:13] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:33:13] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[273:24] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:33:24] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[273:28] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:33:28] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[273:47] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:33:47] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[274:05] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:34:05] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[274:17] Speaker 1: Okey, beria.
+[4:34:17] Speaker 1: Okey, beria.
 
-[274:19] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:34:19] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[274:28] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:34:28] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[274:36] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:34:36] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[275:21] Speaker 1: Okey.
+[4:35:21] Speaker 1: Okey.
 
-[275:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:35:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[275:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:35:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[276:02] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:36:02] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[276:12] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:36:12] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[276:25] Speaker 1: Betul.
+[4:36:25] Speaker 1: Betul.
 
-[277:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:37:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[277:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:37:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[277:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:37:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[277:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:37:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[278:37] Speaker 1: Okey lah. To give perspective lah.
+[4:38:37] Speaker 1: Okey lah. To give perspective lah.
 
-[278:40] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:38:40] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[279:00] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:39:00] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[279:10] Speaker 1: Kan.
+[4:39:10] Speaker 1: Kan.
 
-[279:11] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:39:11] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[279:31] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:39:31] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[279:37] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:39:37] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[279:47] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:39:47] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[279:58] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:39:58] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[280:02] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:40:02] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[280:21] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:40:21] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[280:39] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:40:39] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[280:51] Speaker 1: Okey, beria.
+[4:40:51] Speaker 1: Okey, beria.
 
-[280:53] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:40:53] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[281:02] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:41:02] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[281:10] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:41:10] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[281:55] Speaker 1: Okey.
+[4:41:55] Speaker 1: Okey.
 
-[282:26] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:42:26] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[282:32] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:42:32] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[282:36] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:42:36] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[282:46] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:42:46] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[282:59] Speaker 1: Betul.
+[4:42:59] Speaker 1: Betul.
 
-[283:51] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:43:51] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[284:04] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:44:04] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[284:26] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:44:26] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[284:29] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:44:29] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[285:11] Speaker 1: Okey lah. To give perspective lah.
+[4:45:11] Speaker 1: Okey lah. To give perspective lah.
 
-[285:14] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:45:14] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[285:34] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:45:34] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[285:44] Speaker 1: Kan.
+[4:45:44] Speaker 1: Kan.
 
-[285:45] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:45:45] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[286:05] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:46:05] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[286:11] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:46:11] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[286:21] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:46:21] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[286:32] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:46:32] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[286:36] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:46:36] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[286:55] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:46:55] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[287:13] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:47:13] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[287:25] Speaker 1: Okey, beria.
+[4:47:25] Speaker 1: Okey, beria.
 
-[287:27] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:47:27] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[287:36] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:47:36] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[287:44] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:47:44] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[288:29] Speaker 1: Okey.
+[4:48:29] Speaker 1: Okey.
 
-[289:00] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:49:00] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[289:06] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:49:06] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[289:10] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:49:10] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[289:20] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:49:20] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[289:33] Speaker 1: Betul.
+[4:49:33] Speaker 1: Betul.
 
-[290:25] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:50:25] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[290:38] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:50:38] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[291:00] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:51:00] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[291:03] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:51:03] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[291:45] Speaker 1: Okey lah. To give perspective lah.
+[4:51:45] Speaker 1: Okey lah. To give perspective lah.
 
-[291:48] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:51:48] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[292:08] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:52:08] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[292:18] Speaker 1: Kan.
+[4:52:18] Speaker 1: Kan.
 
-[292:19] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:52:19] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[292:39] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:52:39] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[292:45] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:52:45] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[292:55] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:52:55] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[293:06] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:53:06] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[293:10] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:53:10] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[293:29] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:53:29] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[293:47] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:53:47] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[293:59] Speaker 1: Okey, beria.
+[4:53:59] Speaker 1: Okey, beria.
 
-[294:01] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:54:01] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[294:10] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:54:10] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[294:18] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:54:18] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[295:03] Speaker 1: Okey.
+[4:55:03] Speaker 1: Okey.
 
-[295:34] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:55:34] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[295:40] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:55:40] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[295:44] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:55:44] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[295:54] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:55:54] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[296:07] Speaker 1: Betul.
+[4:56:07] Speaker 1: Betul.
 
-[296:59] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:56:59] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[297:12] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:57:12] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[297:34] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:57:34] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[297:37] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:57:37] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[298:19] Speaker 1: Okey lah. To give perspective lah.
+[4:58:19] Speaker 1: Okey lah. To give perspective lah.
 
-[298:22] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:58:22] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[298:42] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:58:42] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[298:52] Speaker 1: Kan.
+[4:58:52] Speaker 1: Kan.
 
-[298:53] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:58:53] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[299:13] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:59:13] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[299:19] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:59:19] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[299:29] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:59:29] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[299:40] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:59:40] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[299:44] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:59:44] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[300:03] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[5:00:03] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[300:21] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[5:00:21] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[300:33] Speaker 1: Okey, beria.
+[5:00:33] Speaker 1: Okey, beria.
 
-[300:35] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[5:00:35] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[300:44] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[5:00:44] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[300:52] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[5:00:52] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[301:37] Speaker 1: Okey.
+[5:01:37] Speaker 1: Okey.
 
-[302:08] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[5:02:08] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[302:14] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[5:02:14] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[302:18] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[5:02:18] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[302:28] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[5:02:28] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[302:41] Speaker 1: Betul.
+[5:02:41] Speaker 1: Betul.
 
-[303:33] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[5:03:33] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[303:46] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[5:03:46] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[304:08] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[5:04:08] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[304:11] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[5:04:11] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[304:53] Speaker 1: Okey lah. To give perspective lah.
+[5:04:53] Speaker 1: Okey lah. To give perspective lah.
 
-[304:56] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[5:04:56] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[305:16] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[5:05:16] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[305:26] Speaker 1: Kan.
+[5:05:26] Speaker 1: Kan.
 
-[305:27] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[5:05:27] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[305:47] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[5:05:47] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[305:53] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[5:05:53] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[306:03] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[5:06:03] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[306:14] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[5:06:14] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[306:18] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[5:06:18] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[306:37] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[5:06:37] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[306:55] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[5:06:55] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[307:07] Speaker 1: Okey, beria.
+[5:07:07] Speaker 1: Okey, beria.
 
-[307:09] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[5:07:09] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[307:18] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[5:07:18] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[307:26] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[5:07:26] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[308:11] Speaker 1: Okey.
+[5:08:11] Speaker 1: Okey.
 
-[308:42] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[5:08:42] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[308:48] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[5:08:48] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[308:52] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[5:08:52] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
 [39:02] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
@@ -4090,1115 +4090,1115 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:05:32] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
 
-[65:58] Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
+[1:05:58] Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
 
-[66:23] Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:06:23] Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[66:36] Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:06:36] Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[66:58] Berapa banyak 44 juta tu, sebenarnya?
+[1:06:58] Berapa banyak 44 juta tu, sebenarnya?
 
-[67:01] Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:07:01] Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[67:17] And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
+[1:07:17] And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
-[67:43] Okey lah. To give perspective lah.
+[1:07:43] Okey lah. To give perspective lah.
 
-[67:46] Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:07:46] Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[68:06] So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:08:06] So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[68:16] Kan.
+[1:08:16] Kan.
 
-[68:17] Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:08:17] Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[68:37] And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:08:37] And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[68:43] Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:08:43] Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[68:53] Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:08:53] Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[69:04] Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:09:04] Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[69:08] Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:09:08] Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[69:27] Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:09:27] Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[69:45] Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:09:45] Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[69:57] Okey, beria.
+[1:09:57] Okey, beria.
 
-[69:59] Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:09:59] Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[70:08] Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:10:08] Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[70:16] Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:10:16] Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[71:01] Okey.
+[1:11:01] Okey.
 
-[71:02] So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
+[1:11:02] So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
 
-[71:32] Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:11:32] Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[71:38] Itu tak cukup YB. Kita tengok lagi.
+[1:11:38] Itu tak cukup YB. Kita tengok lagi.
 
-[71:42] Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:11:42] Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[71:52] Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:11:52] Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[72:05] Speaker 1: Betul.
+[1:12:05] Speaker 1: Betul.
 
-[72:57] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:12:57] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[73:10] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:13:10] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[73:32] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:13:32] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[73:35] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:13:35] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[74:17] Speaker 1: Okey lah. To give perspective lah.
+[1:14:17] Speaker 1: Okey lah. To give perspective lah.
 
-[74:20] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:14:20] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[74:40] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:14:40] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[74:50] Speaker 1: Kan.
+[1:14:50] Speaker 1: Kan.
 
-[74:51] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:14:51] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[75:11] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:15:11] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[75:17] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:15:17] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[75:27] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:15:27] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[75:38] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:15:38] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[75:42] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:15:42] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[76:01] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:16:01] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[76:19] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:16:19] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[76:31] Speaker 1: Okey, beria.
+[1:16:31] Speaker 1: Okey, beria.
 
-[76:33] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:16:33] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[76:42] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:16:42] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[76:50] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:16:50] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[77:35] Speaker 1: Okey.
+[1:17:35] Speaker 1: Okey.
 
-[78:06] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:18:06] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[78:12] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:18:12] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[78:16] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:18:16] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[78:26] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:18:26] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[78:39] Speaker 1: Betul.
+[1:18:39] Speaker 1: Betul.
 
-[79:31] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:19:31] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[79:44] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:19:44] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[80:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:20:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[80:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:20:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[80:51] Speaker 1: Okey lah. To give perspective lah.
+[1:20:51] Speaker 1: Okey lah. To give perspective lah.
 
-[80:54] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:20:54] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[81:14] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:21:14] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[81:24] Speaker 1: Kan.
+[1:21:24] Speaker 1: Kan.
 
-[81:25] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:21:25] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[81:45] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:21:45] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[81:51] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:21:51] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[82:01] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:22:01] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[82:12] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:22:12] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[82:16] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:22:16] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[82:35] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:22:35] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[82:53] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:22:53] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[83:05] Speaker 1: Okey, beria.
+[1:23:05] Speaker 1: Okey, beria.
 
-[83:07] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:23:07] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[83:16] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:23:16] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[83:24] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:23:24] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[84:09] Speaker 1: Okey.
+[1:24:09] Speaker 1: Okey.
 
-[84:40] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:24:40] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[84:46] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:24:46] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[84:50] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:24:50] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[85:00] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:25:00] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[85:13] Speaker 1: Betul.
+[1:25:13] Speaker 1: Betul.
 
-[86:05] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:26:05] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[86:18] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:26:18] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[86:40] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:26:40] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[86:43] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:26:43] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[87:25] Speaker 1: Okey lah. To give perspective lah.
+[1:27:25] Speaker 1: Okey lah. To give perspective lah.
 
-[87:28] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:27:28] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[87:48] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:27:48] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[87:58] Speaker 1: Kan.
+[1:27:58] Speaker 1: Kan.
 
-[87:59] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:27:59] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[88:19] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:28:19] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[88:25] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:28:25] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[88:35] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:28:35] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[88:46] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:28:46] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[88:50] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:28:50] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[89:09] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:29:09] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[89:27] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:29:27] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[89:39] Speaker 1: Okey, beria.
+[1:29:39] Speaker 1: Okey, beria.
 
-[89:41] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:29:41] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[89:50] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:29:50] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[89:58] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:29:58] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[90:43] Speaker 1: Okey.
+[1:30:43] Speaker 1: Okey.
 
-[91:14] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:31:14] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[91:20] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:31:20] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[91:24] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:31:24] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[91:34] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:31:34] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[91:47] Speaker 1: Betul.
+[1:31:47] Speaker 1: Betul.
 
-[92:39] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:32:39] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[92:52] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:32:52] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[93:14] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:33:14] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[93:17] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:33:17] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[93:59] Speaker 1: Okey lah. To give perspective lah.
+[1:33:59] Speaker 1: Okey lah. To give perspective lah.
 
-[94:02] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:34:02] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[94:22] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:34:22] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[94:32] Speaker 1: Kan.
+[1:34:32] Speaker 1: Kan.
 
-[94:33] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:34:33] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[94:53] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:34:53] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[94:59] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:34:59] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[95:09] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:35:09] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[95:20] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:35:20] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[95:24] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:35:24] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[95:43] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:35:43] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[96:01] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:36:01] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[96:13] Speaker 1: Okey, beria.
+[1:36:13] Speaker 1: Okey, beria.
 
-[96:15] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:36:15] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[96:24] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:36:24] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[96:32] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:36:32] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[97:17] Speaker 1: Okey.
+[1:37:17] Speaker 1: Okey.
 
-[97:48] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:37:48] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[97:54] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:37:54] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[97:58] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:37:58] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[98:08] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:38:08] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[98:21] Speaker 1: Betul.
+[1:38:21] Speaker 1: Betul.
 
-[99:13] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:39:13] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[99:26] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:39:26] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[99:48] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:39:48] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[99:51] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:39:51] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[100:33] Speaker 1: Okey lah. To give perspective lah.
+[1:40:33] Speaker 1: Okey lah. To give perspective lah.
 
-[100:36] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:40:36] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[100:56] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:40:56] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[101:06] Speaker 1: Kan.
+[1:41:06] Speaker 1: Kan.
 
-[101:07] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:41:07] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[101:27] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:41:27] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[101:33] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:41:33] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[101:43] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:41:43] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[101:54] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:41:54] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[101:58] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:41:58] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[102:17] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:42:17] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[102:35] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:42:35] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[102:47] Speaker 1: Okey, beria.
+[1:42:47] Speaker 1: Okey, beria.
 
-[102:49] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:42:49] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[102:58] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:42:58] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[103:06] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:43:06] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[103:51] Speaker 1: Okey.
+[1:43:51] Speaker 1: Okey.
 
-[104:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:44:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[104:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:44:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[104:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:44:32] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[104:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:44:42] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[104:55] Speaker 1: Betul.
+[1:44:55] Speaker 1: Betul.
 
-[105:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:45:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[106:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:46:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[106:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:46:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[106:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:46:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[107:07] Speaker 1: Okey lah. To give perspective lah.
+[1:47:07] Speaker 1: Okey lah. To give perspective lah.
 
-[107:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:47:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[107:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:47:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[107:40] Speaker 1: Kan.
+[1:47:40] Speaker 1: Kan.
 
-[107:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:47:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[108:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:48:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[108:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:48:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[108:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:48:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[108:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:48:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[108:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:48:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[108:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:48:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[109:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:49:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[109:21] Speaker 1: Okey, beria.
+[1:49:21] Speaker 1: Okey, beria.
 
-[109:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:49:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[109:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:49:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[109:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:49:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[110:25] Speaker 1: Okey.
+[1:50:25] Speaker 1: Okey.
 
-[110:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:50:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[111:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:51:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[111:06] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:51:06] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[111:16] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:51:16] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[111:29] Speaker 1: Betul.
+[1:51:29] Speaker 1: Betul.
 
-[112:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:52:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[112:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:52:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[112:56] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:52:56] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[112:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:52:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[113:41] Speaker 1: Okey lah. To give perspective lah.
+[1:53:41] Speaker 1: Okey lah. To give perspective lah.
 
-[113:44] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[1:53:44] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[114:04] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[1:54:04] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[114:14] Speaker 1: Kan.
+[1:54:14] Speaker 1: Kan.
 
-[114:15] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[1:54:15] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[114:35] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[1:54:35] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[114:41] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[1:54:41] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[114:51] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[1:54:51] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[115:02] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[1:55:02] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[115:06] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[1:55:06] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[115:25] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[1:55:25] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[115:43] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[1:55:43] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[115:55] Speaker 1: Okey, beria.
+[1:55:55] Speaker 1: Okey, beria.
 
-[115:57] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[1:55:57] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[116:06] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[1:56:06] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[116:14] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[1:56:14] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[116:59] Speaker 1: Okey.
+[1:56:59] Speaker 1: Okey.
 
-[117:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[1:57:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[117:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[1:57:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[117:40] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[1:57:40] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[117:50] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[1:57:50] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[118:03] Speaker 1: Betul.
+[1:58:03] Speaker 1: Betul.
 
-[118:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[1:58:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[119:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[1:59:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[119:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[1:59:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[119:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[1:59:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[120:15] Speaker 1: Okey lah. To give perspective lah.
+[2:00:15] Speaker 1: Okey lah. To give perspective lah.
 
-[120:18] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:00:18] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[120:38] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:00:38] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[120:48] Speaker 1: Kan.
+[2:00:48] Speaker 1: Kan.
 
-[120:49] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:00:49] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[121:09] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:01:09] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[121:15] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:01:15] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[121:25] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:01:25] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[121:36] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:01:36] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[121:40] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:01:40] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[121:59] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:01:59] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[122:17] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:02:17] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[122:29] Speaker 1: Okey, beria.
+[2:02:29] Speaker 1: Okey, beria.
 
-[122:31] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:02:31] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[122:40] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:02:40] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[122:48] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:02:48] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[123:33] Speaker 1: Okey.
+[2:03:33] Speaker 1: Okey.
 
-[124:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:04:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[124:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:04:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[124:14] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:04:14] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[124:24] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:04:24] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[124:37] Speaker 1: Betul.
+[2:04:37] Speaker 1: Betul.
 
-[125:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:05:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[125:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:05:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[126:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:06:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[126:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:06:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[126:49] Speaker 1: Okey lah. To give perspective lah.
+[2:06:49] Speaker 1: Okey lah. To give perspective lah.
 
-[126:52] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:06:52] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[127:12] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:07:12] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[127:22] Speaker 1: Kan.
+[2:07:22] Speaker 1: Kan.
 
-[127:23] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:07:23] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[127:43] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:07:43] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[127:49] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:07:49] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[127:59] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:07:59] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[128:10] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:08:10] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[128:14] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:08:14] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[128:33] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:08:33] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[128:51] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:08:51] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[129:03] Speaker 1: Okey, beria.
+[2:09:03] Speaker 1: Okey, beria.
 
-[129:05] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:09:05] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[129:14] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:09:14] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[129:22] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:09:22] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[130:07] Speaker 1: Okey.
+[2:10:07] Speaker 1: Okey.
 
-[130:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:10:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[130:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:10:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[130:48] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:10:48] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[130:58] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:10:58] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[131:11] Speaker 1: Betul.
+[2:11:11] Speaker 1: Betul.
 
-[132:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:12:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[132:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:12:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[132:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:12:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[132:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:12:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[133:23] Speaker 1: Okey lah. To give perspective lah.
+[2:13:23] Speaker 1: Okey lah. To give perspective lah.
 
-[133:26] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:13:26] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[133:46] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:13:46] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[133:56] Speaker 1: Kan.
+[2:13:56] Speaker 1: Kan.
 
-[133:57] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:13:57] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[134:17] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:14:17] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[134:23] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:14:23] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[134:33] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:14:33] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[134:44] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:14:44] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[134:48] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:14:48] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[135:07] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:15:07] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[135:25] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:15:25] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[135:37] Speaker 1: Okey, beria.
+[2:15:37] Speaker 1: Okey, beria.
 
-[135:39] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:15:39] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[135:48] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:15:48] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[135:56] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:15:56] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[136:41] Speaker 1: Okey.
+[2:16:41] Speaker 1: Okey.
 
-[137:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:17:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[137:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:17:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[137:22] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:17:22] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[137:32] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:17:32] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[137:45] Speaker 1: Betul.
+[2:17:45] Speaker 1: Betul.
 
-[138:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:18:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[138:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:18:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[139:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:19:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[139:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:19:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[139:57] Speaker 1: Okey lah. To give perspective lah.
+[2:19:57] Speaker 1: Okey lah. To give perspective lah.
 
-[140:00] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:20:00] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[140:20] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:20:20] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[140:30] Speaker 1: Kan.
+[2:20:30] Speaker 1: Kan.
 
-[140:31] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:20:31] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[140:51] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:20:51] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[140:57] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:20:57] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[141:07] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:21:07] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[141:18] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:21:18] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[141:22] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:21:22] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[141:41] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:21:41] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[141:59] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:21:59] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[142:11] Speaker 1: Okey, beria.
+[2:22:11] Speaker 1: Okey, beria.
 
-[142:13] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:22:13] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[142:22] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:22:22] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[142:30] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:22:30] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[143:15] Speaker 1: Okey.
+[2:23:15] Speaker 1: Okey.
 
-[143:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:23:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[143:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:23:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[143:56] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:23:56] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[144:06] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:24:06] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[144:19] Speaker 1: Betul.
+[2:24:19] Speaker 1: Betul.
 
-[145:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:25:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[145:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:25:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[145:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:25:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[145:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:25:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[146:31] Speaker 1: Okey lah. To give perspective lah.
+[2:26:31] Speaker 1: Okey lah. To give perspective lah.
 
-[146:34] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:26:34] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[146:54] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:26:54] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[147:04] Speaker 1: Kan.
+[2:27:04] Speaker 1: Kan.
 
-[147:05] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:27:05] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[147:25] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:27:25] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[147:31] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:27:31] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[147:41] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:27:41] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[147:52] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:27:52] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[147:56] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:27:56] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[148:15] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:28:15] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[148:33] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:28:33] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[148:45] Speaker 1: Okey, beria.
+[2:28:45] Speaker 1: Okey, beria.
 
-[148:47] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:28:47] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[148:56] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:28:56] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[149:04] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:29:04] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[149:49] Speaker 1: Okey.
+[2:29:49] Speaker 1: Okey.
 
-[150:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:30:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[150:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:30:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[150:30] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:30:30] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[150:40] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:30:40] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[150:53] Speaker 1: Betul.
+[2:30:53] Speaker 1: Betul.
 
-[151:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:31:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[151:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:31:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[152:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:32:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[152:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:32:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[153:05] Speaker 1: Okey lah. To give perspective lah.
+[2:33:05] Speaker 1: Okey lah. To give perspective lah.
 
-[153:08] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:33:08] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[153:28] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:33:28] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[153:38] Speaker 1: Kan.
+[2:33:38] Speaker 1: Kan.
 
-[153:39] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:33:39] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[153:59] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:33:59] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[154:05] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:34:05] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[154:15] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:34:15] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[154:26] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:34:26] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[154:30] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:34:30] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[154:49] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:34:49] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[155:07] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:35:07] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[155:19] Speaker 1: Okey, beria.
+[2:35:19] Speaker 1: Okey, beria.
 
-[155:21] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:35:21] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[155:30] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:35:30] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[155:38] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:35:38] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[156:23] Speaker 1: Okey.
+[2:36:23] Speaker 1: Okey.
 
-[156:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:36:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[157:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:37:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[157:04] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:37:04] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[157:14] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:37:14] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[157:27] Speaker 1: Betul.
+[2:37:27] Speaker 1: Betul.
 
-[158:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:38:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[158:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:38:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[158:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:38:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[158:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:38:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[159:39] Speaker 1: Okey lah. To give perspective lah.
+[2:39:39] Speaker 1: Okey lah. To give perspective lah.
 
-[159:42] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:39:42] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[160:02] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:40:02] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[160:12] Speaker 1: Kan.
+[2:40:12] Speaker 1: Kan.
 
-[160:13] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:40:13] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[160:33] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:40:33] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[160:39] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:40:39] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[160:49] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:40:49] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[161:00] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:41:00] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[161:04] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:41:04] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[161:23] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:41:23] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[161:41] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:41:41] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[161:53] Speaker 1: Okey, beria.
+[2:41:53] Speaker 1: Okey, beria.
 
-[161:55] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:41:55] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[162:04] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:42:04] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[162:12] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:42:12] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[162:57] Speaker 1: Okey.
+[2:42:57] Speaker 1: Okey.
 
-[163:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:43:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[163:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:43:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[163:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:43:38] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[163:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:43:48] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[164:01] Speaker 1: Betul.
+[2:44:01] Speaker 1: Betul.
 
-[164:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:44:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[165:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:45:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[165:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:45:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[165:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:45:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[166:13] Speaker 1: Okey lah. To give perspective lah.
+[2:46:13] Speaker 1: Okey lah. To give perspective lah.
 
-[166:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:46:16] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[166:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:46:36] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[166:46] Speaker 1: Kan.
+[2:46:46] Speaker 1: Kan.
 
-[166:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:46:47] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[167:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:47:07] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[167:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:47:13] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[167:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:47:23] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[167:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:47:34] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[167:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:47:38] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[167:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:47:57] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[168:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:48:15] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[168:27] Speaker 1: Okey, beria.
+[2:48:27] Speaker 1: Okey, beria.
 
-[168:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:48:29] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[168:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:48:38] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[168:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:48:46] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[169:31] Speaker 1: Okey.
+[2:49:31] Speaker 1: Okey.
 
-[170:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:50:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[170:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:50:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[170:12] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:50:12] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[170:22] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:50:22] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[170:35] Speaker 1: Betul.
+[2:50:35] Speaker 1: Betul.
 
-[171:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:51:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[171:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:51:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[172:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:52:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[172:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:52:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[172:47] Speaker 1: Okey lah. To give perspective lah.
+[2:52:47] Speaker 1: Okey lah. To give perspective lah.
 
-[172:50] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:52:50] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[173:10] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:53:10] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[173:20] Speaker 1: Kan.
+[2:53:20] Speaker 1: Kan.
 
-[173:21] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:53:21] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[173:41] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[2:53:41] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[173:47] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[2:53:47] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[173:57] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[2:53:57] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[174:08] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[2:54:08] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[174:12] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[2:54:12] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[174:31] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[2:54:31] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[174:49] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[2:54:49] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[175:01] Speaker 1: Okey, beria.
+[2:55:01] Speaker 1: Okey, beria.
 
-[175:03] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[2:55:03] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[175:12] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[2:55:12] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[175:20] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[2:55:20] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[176:05] Speaker 1: Okey.
+[2:56:05] Speaker 1: Okey.
 
-[176:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[2:56:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[176:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[2:56:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[176:46] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[2:56:46] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[176:56] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[2:56:56] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[177:09] Speaker 1: Betul.
+[2:57:09] Speaker 1: Betul.
 
-[178:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[2:58:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[178:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[2:58:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[178:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[2:58:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[178:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[2:58:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[179:21] Speaker 1: Okey lah. To give perspective lah.
+[2:59:21] Speaker 1: Okey lah. To give perspective lah.
 
-[179:24] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[2:59:24] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[179:44] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[2:59:44] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[179:54] Speaker 1: Kan.
+[2:59:54] Speaker 1: Kan.
 
-[179:55] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[2:59:55] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[180:15] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:00:15] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[180:21] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:00:21] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[180:31] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:00:31] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[180:42] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:00:42] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[180:46] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:00:46] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[181:05] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:01:05] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[181:23] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:01:23] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[181:35] Speaker 1: Okey, beria.
+[3:01:35] Speaker 1: Okey, beria.
 
-[181:37] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:01:37] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[181:46] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:01:46] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[181:54] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:01:54] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[182:39] Speaker 1: Okey.
+[3:02:39] Speaker 1: Okey.
 
-[183:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:03:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[183:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:03:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[183:20] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:03:20] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[183:30] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:03:30] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[183:43] Speaker 1: Betul.
+[3:03:43] Speaker 1: Betul.
 
-[184:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:04:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[184:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:04:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[185:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:05:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[185:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:05:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[185:55] Speaker 1: Okey lah. To give perspective lah.
+[3:05:55] Speaker 1: Okey lah. To give perspective lah.
 
-[185:58] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:05:58] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[186:18] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:06:18] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[186:28] Speaker 1: Kan.
+[3:06:28] Speaker 1: Kan.
 
-[186:29] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:06:29] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[186:49] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:06:49] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[186:55] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:06:55] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[187:05] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:07:05] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[187:16] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:07:16] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[187:20] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:07:20] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[187:39] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:07:39] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[187:57] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:07:57] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[188:09] Speaker 1: Okey, beria.
+[3:08:09] Speaker 1: Okey, beria.
 
-[188:11] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:08:11] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[188:20] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:08:20] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[188:28] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:08:28] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[189:13] Speaker 1: Okey.
+[3:09:13] Speaker 1: Okey.
 
-[189:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:09:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[189:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:09:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[189:54] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:09:54] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[190:04] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:10:04] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[190:17] Speaker 1: Betul.
+[3:10:17] Speaker 1: Betul.
 
-[191:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:11:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[191:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:11:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[191:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:11:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[191:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:11:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[192:29] Speaker 1: Okey lah. To give perspective lah.
+[3:12:29] Speaker 1: Okey lah. To give perspective lah.
 
-[192:32] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:12:32] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[192:52] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:12:52] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[193:02] Speaker 1: Kan.
+[3:13:02] Speaker 1: Kan.
 
-[193:03] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:13:03] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[193:23] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:13:23] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[193:29] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:13:29] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[193:39] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:13:39] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[193:50] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:13:50] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[193:54] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:13:54] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[194:13] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:14:13] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[194:31] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:14:31] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[194:43] Speaker 1: Okey, beria.
+[3:14:43] Speaker 1: Okey, beria.
 
-[194:45] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:14:45] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[194:54] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:14:54] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[195:02] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:15:02] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[195:47] Speaker 1: Okey.
+[3:15:47] Speaker 1: Okey.
 
-[196:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:16:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[196:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:16:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[196:28] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:16:28] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[196:38] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:16:38] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[196:51] Speaker 1: Betul.
+[3:16:51] Speaker 1: Betul.
 
-[197:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:17:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[197:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:17:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[198:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:18:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[198:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:18:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[199:03] Speaker 1: Okey lah. To give perspective lah.
+[3:19:03] Speaker 1: Okey lah. To give perspective lah.
 
-[199:06] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:19:06] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[199:26] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:19:26] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[199:36] Speaker 1: Kan.
+[3:19:36] Speaker 1: Kan.
 
-[199:37] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:19:37] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[199:57] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:19:57] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[200:03] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:20:03] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[200:13] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:20:13] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[200:24] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:20:24] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[200:28] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:20:28] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[200:47] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:20:47] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[201:05] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:21:05] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[201:17] Speaker 1: Okey, beria.
+[3:21:17] Speaker 1: Okey, beria.
 
-[201:19] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:21:19] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[201:28] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:21:28] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[201:36] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:21:36] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[202:21] Speaker 1: Okey.
+[3:22:21] Speaker 1: Okey.
 
-[202:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:22:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[202:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:22:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[203:02] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:23:02] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[203:12] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:23:12] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[203:25] Speaker 1: Betul.
+[3:23:25] Speaker 1: Betul.
 
-[204:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:24:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[204:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:24:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[204:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:24:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[204:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:24:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[205:37] Speaker 1: Okey lah. To give perspective lah.
+[3:25:37] Speaker 1: Okey lah. To give perspective lah.
 
-[205:40] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:25:40] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
 [26:00] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
@@ -5978,49 +5978,49 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:04:07] Speaker 1: Okey lah. To give perspective lah.
 
-[204:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:24:10] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[204:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:24:30] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[204:40] Speaker 1: Kan.
+[3:24:40] Speaker 1: Kan.
 
-[204:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:24:41] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[205:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:25:01] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[205:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:25:07] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[205:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:25:17] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[205:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:25:28] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[205:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:25:32] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[205:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:25:51] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[206:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:26:09] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[206:21] Speaker 1: Okey, beria.
+[3:26:21] Speaker 1: Okey, beria.
 
-[206:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:26:23] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[206:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:26:32] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[206:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:26:40] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[207:25] Speaker 1: Okey.
+[3:27:25] Speaker 1: Okey.
 
-[207:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:27:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[208:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:28:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[208:06] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:28:06] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[208:16] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:28:16] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[208:29] Speaker 1: Betul.
+[3:28:29] Speaker 1: Betul.
 
-[209:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:29:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [29:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
@@ -7538,405 +7538,405 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:10:04] Speaker 1: Okey lah. To give perspective lah.
 
-[210:07] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:30:07] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[210:27] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:30:27] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[210:37] Speaker 1: Kan.
+[3:30:37] Speaker 1: Kan.
 
-[210:38] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:30:38] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[210:58] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:30:58] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[211:04] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:31:04] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[211:14] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:31:14] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[211:25] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:31:25] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[211:29] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:31:29] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[211:48] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:31:48] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[212:06] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:32:06] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[212:18] Speaker 1: Okey, beria.
+[3:32:18] Speaker 1: Okey, beria.
 
-[212:20] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:32:20] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[212:29] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:32:29] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[212:37] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:32:37] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[213:22] Speaker 1: Okey.
+[3:33:22] Speaker 1: Okey.
 
-[213:53] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:33:53] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[213:59] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:33:59] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[214:03] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:34:03] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[214:13] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:34:13] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[214:26] Speaker 1: Betul.
+[3:34:26] Speaker 1: Betul.
 
-[215:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:35:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[215:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:35:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[215:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:35:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[215:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:35:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[216:38] Speaker 1: Okey lah. To give perspective lah.
+[3:36:38] Speaker 1: Okey lah. To give perspective lah.
 
-[216:41] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:36:41] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[217:01] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:37:01] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[217:11] Speaker 1: Kan.
+[3:37:11] Speaker 1: Kan.
 
-[217:12] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:37:12] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[217:32] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:37:32] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[217:38] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:37:38] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[217:48] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:37:48] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[217:59] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:37:59] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[218:03] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:38:03] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[218:22] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:38:22] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[218:40] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:38:40] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[218:52] Speaker 1: Okey, beria.
+[3:38:52] Speaker 1: Okey, beria.
 
-[218:54] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:38:54] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[219:03] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:39:03] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[219:11] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:39:11] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[219:56] Speaker 1: Okey.
+[3:39:56] Speaker 1: Okey.
 
-[220:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:40:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[220:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:40:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[220:37] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:40:37] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[220:47] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:40:47] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[221:00] Speaker 1: Betul.
+[3:41:00] Speaker 1: Betul.
 
-[221:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:41:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[222:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:42:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[222:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:42:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[222:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:42:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[223:12] Speaker 1: Okey lah. To give perspective lah.
+[3:43:12] Speaker 1: Okey lah. To give perspective lah.
 
-[223:15] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:43:15] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[223:35] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:43:35] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[223:45] Speaker 1: Kan.
+[3:43:45] Speaker 1: Kan.
 
-[223:46] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:43:46] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[224:06] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:44:06] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[224:12] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:44:12] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[224:22] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:44:22] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[224:33] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:44:33] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[224:37] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:44:37] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[224:56] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:44:56] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[225:14] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:45:14] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[225:26] Speaker 1: Okey, beria.
+[3:45:26] Speaker 1: Okey, beria.
 
-[225:28] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:45:28] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[225:37] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:45:37] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[225:45] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:45:45] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[226:30] Speaker 1: Okey.
+[3:46:30] Speaker 1: Okey.
 
-[227:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:47:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[227:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:47:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[227:11] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:47:11] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[227:21] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:47:21] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[227:34] Speaker 1: Betul.
+[3:47:34] Speaker 1: Betul.
 
-[228:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:48:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[228:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:48:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[229:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:49:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[229:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:49:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[229:46] Speaker 1: Okey lah. To give perspective lah.
+[3:49:46] Speaker 1: Okey lah. To give perspective lah.
 
-[229:49] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:49:49] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[230:09] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:50:09] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[230:19] Speaker 1: Kan.
+[3:50:19] Speaker 1: Kan.
 
-[230:20] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:50:20] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[230:40] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:50:40] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[230:46] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:50:46] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[230:56] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:50:56] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[231:07] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:51:07] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[231:11] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:51:11] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[231:30] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:51:30] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[231:48] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:51:48] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[232:00] Speaker 1: Okey, beria.
+[3:52:00] Speaker 1: Okey, beria.
 
-[232:02] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:52:02] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[232:11] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:52:11] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[232:19] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:52:19] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[233:04] Speaker 1: Okey.
+[3:53:04] Speaker 1: Okey.
 
-[233:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:53:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[233:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:53:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[233:45] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:53:45] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[233:55] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:53:55] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[234:08] Speaker 1: Betul.
+[3:54:08] Speaker 1: Betul.
 
-[235:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:55:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[235:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:55:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[235:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:55:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[235:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:55:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[236:20] Speaker 1: Okey lah. To give perspective lah.
+[3:56:20] Speaker 1: Okey lah. To give perspective lah.
 
-[236:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:56:23] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[236:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:56:43] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[236:53] Speaker 1: Kan.
+[3:56:53] Speaker 1: Kan.
 
-[236:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:56:54] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[237:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:57:14] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[237:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:57:20] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[237:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:57:30] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[237:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:57:41] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[237:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:57:45] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[238:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:58:04] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[238:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:58:22] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[238:34] Speaker 1: Okey, beria.
+[3:58:34] Speaker 1: Okey, beria.
 
-[238:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:58:36] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[238:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:58:45] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[238:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:58:53] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[239:38] Speaker 1: Okey.
+[3:59:38] Speaker 1: Okey.
 
-[240:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:00:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[240:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:00:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[240:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:00:19] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[240:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:00:29] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[240:42] Speaker 1: Betul.
+[4:00:42] Speaker 1: Betul.
 
-[241:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:01:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[241:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:01:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[242:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:02:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[242:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:02:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[242:54] Speaker 1: Okey lah. To give perspective lah.
+[4:02:54] Speaker 1: Okey lah. To give perspective lah.
 
-[242:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:02:57] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[243:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:03:17] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[243:27] Speaker 1: Kan.
+[4:03:27] Speaker 1: Kan.
 
-[243:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:03:28] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[243:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:03:48] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[243:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:03:54] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[244:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:04:04] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[244:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:04:15] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[244:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:04:19] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[244:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:04:38] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[244:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:04:56] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[245:08] Speaker 1: Okey, beria.
+[4:05:08] Speaker 1: Okey, beria.
 
-[245:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:05:10] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[245:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:05:19] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[245:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:05:27] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[246:12] Speaker 1: Okey.
+[4:06:12] Speaker 1: Okey.
 
-[246:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:06:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[246:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:06:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[246:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:06:53] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[247:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:07:03] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[247:16] Speaker 1: Betul.
+[4:07:16] Speaker 1: Betul.
 
-[248:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:08:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[248:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:08:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[248:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:08:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[248:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:08:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[249:28] Speaker 1: Okey lah. To give perspective lah.
+[4:09:28] Speaker 1: Okey lah. To give perspective lah.
 
-[249:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:09:31] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[249:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:09:51] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[250:01] Speaker 1: Kan.
+[4:10:01] Speaker 1: Kan.
 
-[250:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:10:02] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[250:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:10:22] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[250:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:10:28] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[250:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:10:38] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[250:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:10:49] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[250:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:10:53] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[251:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:11:12] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[251:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:11:30] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[251:42] Speaker 1: Okey, beria.
+[4:11:42] Speaker 1: Okey, beria.
 
-[251:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:11:44] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[251:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:11:53] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[252:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:12:01] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[252:46] Speaker 1: Okey.
+[4:12:46] Speaker 1: Okey.
 
-[253:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:13:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[253:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:13:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[253:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[4:13:27] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[253:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[4:13:37] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[253:50] Speaker 1: Betul.
+[4:13:50] Speaker 1: Betul.
 
-[254:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[4:14:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[254:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[4:14:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[255:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[4:15:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[255:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[4:15:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[256:02] Speaker 1: Okey lah. To give perspective lah.
+[4:16:02] Speaker 1: Okey lah. To give perspective lah.
 
-[256:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[4:16:05] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[256:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[4:16:25] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[256:35] Speaker 1: Kan.
+[4:16:35] Speaker 1: Kan.
 
-[256:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[4:16:36] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[256:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[4:16:56] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[257:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[4:17:02] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[257:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[4:17:12] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[257:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[4:17:23] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[257:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[4:17:27] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[257:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[4:17:46] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[258:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[4:18:04] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[258:16] Speaker 1: Okey, beria.
+[4:18:16] Speaker 1: Okey, beria.
 
-[258:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[4:18:18] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[258:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[4:18:27] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[258:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[4:18:35] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[259:20] Speaker 1: Okey.
+[4:19:20] Speaker 1: Okey.
 
-[259:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[4:19:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[259:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[4:19:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
 [2:00:01] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
@@ -8014,158 +8014,158 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:09:44] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[210:04] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:30:04] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[210:10] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:30:10] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[210:20] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:30:20] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[210:31] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:30:31] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[210:35] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:30:35] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[210:54] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:30:54] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[211:12] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:31:12] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[211:24] Speaker 1: Okey, beria.
+[3:31:24] Speaker 1: Okey, beria.
 
-[211:26] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:31:26] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[211:35] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:31:35] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[211:43] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:31:43] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[212:28] Speaker 1: Okey.
+[3:32:28] Speaker 1: Okey.
 
-[212:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:32:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[213:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:33:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[213:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:33:09] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[213:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:33:19] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[213:32] Speaker 1: Betul.
+[3:33:32] Speaker 1: Betul.
 
-[214:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:34:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[214:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:34:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[214:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:34:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[215:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:35:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[215:44] Speaker 1: Okey lah. To give perspective lah.
+[3:35:44] Speaker 1: Okey lah. To give perspective lah.
 
-[215:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:35:47] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[216:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:36:07] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[216:17] Speaker 1: Kan.
+[3:36:17] Speaker 1: Kan.
 
-[216:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:36:18] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[216:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:36:38] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[216:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:36:44] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[216:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:36:54] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[217:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:37:05] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[217:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:37:09] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[217:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:37:28] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[217:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:37:46] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[217:58] Speaker 1: Okey, beria.
+[3:37:58] Speaker 1: Okey, beria.
 
-[218:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:38:00] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[218:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:38:09] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[218:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:38:17] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[219:02] Speaker 1: Okey.
+[3:39:02] Speaker 1: Okey.
 
-[219:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:39:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[219:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:39:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[219:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:39:43] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[219:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:39:53] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[220:06] Speaker 1: Betul.
+[3:40:06] Speaker 1: Betul.
 
-[220:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:40:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[221:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:41:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[221:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:41:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[221:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:41:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[222:18] Speaker 1: Okey lah. To give perspective lah.
+[3:42:18] Speaker 1: Okey lah. To give perspective lah.
 
-[222:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:42:21] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[222:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:42:41] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[222:51] Speaker 1: Kan.
+[3:42:51] Speaker 1: Kan.
 
-[222:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
+[3:42:52] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya tahap beria scam ni dah memang tahap spring.
 
-[223:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
+[3:43:12] Speaker 1: And, yalah. Nobody advise dia good, tak tahu. Siapa dia? Nobody advise a Filipina.
 
-[223:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
+[3:43:18] Speaker 1: Aku tak nak sentuh negara orang lah kan. Aku nak sentuh bagusnya pencapaian scammer Malaysia. Ah yes, scammer tu.
 
-[223:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
+[3:43:28] Speaker 1: Tapi er bila cakap pasal sentuh-sentuh negara ni, emm, energy crisis ni ada hidupkan balik sentiment er dari certain er ahli politik daripada Filipina untuk take balik Sabah.
 
-[223:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
+[3:43:39] Speaker 1: Ambil balik Sabah. Ah ah ah. Tapi er terpencellah.
 
-[223:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
+[3:43:43] Speaker 1: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab er pengeluaran minyak di pesisir pantai Timur. Ya. Ada besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya.
 
-[224:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
+[3:44:02] Speaker 1: Jadi sekarang ini er Sarawak tak banyak sangat emm minyak mentah. Ah so Sabah pun tak banyak emm sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurangan, so Sabah is catching up lah.
 
-[224:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
+[3:44:20] Speaker 1: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu satu tahun punya Malaysia punya, lebih kurang satu tahun pengeluaran.
 
-[224:32] Speaker 1: Okey, beria.
+[3:44:32] Speaker 1: Okey, beria.
 
-[224:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
+[3:44:34] Speaker 1: Beria, okey. Kesian adun Johor, dia mesti melepas. Depan ni orang Johor semua korek minyak. Korek minyak.
 
-[224:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
+[3:44:43] Speaker 1: Okey, kita ada lagi Yayasan Madani. Nak buka Madani Mart.
 
-[224:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
+[3:44:51] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
-[225:36] Speaker 1: Okey.
+[3:45:36] Speaker 1: Okey.
 
-[226:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
+[3:46:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
-[226:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
+[3:46:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
 
-[226:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
+[3:46:17] Speaker 1: Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak, tak terlepas berita menang ni. kita beria ni.
 
-[226:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
+[3:46:27] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
-[226:40] Speaker 1: Betul.
+[3:46:40] Speaker 1: Betul.
 
-[227:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
+[3:47:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
-[227:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
+[3:47:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
 
-[228:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
+[3:48:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
-[228:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
+[3:48:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
 
-[228:52] Speaker 1: Okey lah. To give perspective lah.
+[3:48:52] Speaker 1: Okey lah. To give perspective lah.
 
-[228:55] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
+[3:48:55] Speaker 1: Yang Filipina ni pun, check lah dengan Check GPT dulu, kan. Er production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah.
 
-[229:15] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
+[3:49:15] Speaker 1: So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[229:25] Speaker 1: Kan.
+[3:49:25] Speaker 1: Kan.
 
-[229:26] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya
+[3:49:26] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya

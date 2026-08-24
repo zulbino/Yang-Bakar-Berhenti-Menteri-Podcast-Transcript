@@ -588,409 +588,409 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[60:34] Rafizi Ramli: With assistance daripada government.
+[1:00:34] Rafizi Ramli: With assistance daripada government.
 
-[60:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:00:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[60:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:00:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[60:41] Haziq Azfar: Yalah.
+[1:00:41] Haziq Azfar: Yalah.
 
-[60:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:00:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[60:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:00:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[61:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:01:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[61:25] Rafizi Ramli: Mhm.
+[1:01:25] Rafizi Ramli: Mhm.
 
-[62:29] Rafizi Ramli: Okey.
+[1:02:29] Rafizi Ramli: Okey.
 
-[62:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:02:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[62:31] Rafizi Ramli: Airtime eh.
+[1:02:31] Rafizi Ramli: Airtime eh.
 
-[62:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:02:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[62:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:02:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[62:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:02:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[63:14] Rafizi Ramli: Lembaran.
+[1:03:14] Rafizi Ramli: Lembaran.
 
-[63:15] Haziq Azfar: Lembaran.
+[1:03:15] Haziq Azfar: Lembaran.
 
-[63:15] Rafizi Ramli: Lembaran raya.
+[1:03:15] Rafizi Ramli: Lembaran raya.
 
-[63:18] Haziq Azfar: Raya raya.
+[1:03:18] Haziq Azfar: Raya raya.
 
-[63:22] Rafizi Ramli: Saya test.
+[1:03:22] Rafizi Ramli: Saya test.
 
-[64:05] Rafizi Ramli: Mhm.
+[1:04:05] Rafizi Ramli: Mhm.
 
-[65:00] Rafizi Ramli: Baik YB. Good luck.
+[1:05:00] Rafizi Ramli: Baik YB. Good luck.
 
-[65:03] Haziq Azfar: Kita tengok.
+[1:05:03] Haziq Azfar: Kita tengok.
 
-[65:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:05:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[65:07] Haziq Azfar: Boleh.
+[1:05:07] Haziq Azfar: Boleh.
 
-[65:08] Rafizi Ramli: Bolehlah.
+[1:05:08] Rafizi Ramli: Bolehlah.
 
-[65:09] Haziq Azfar: Tapi kita charge lah.
+[1:05:09] Haziq Azfar: Tapi kita charge lah.
 
-[65:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:05:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[65:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:05:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[65:17] Rafizi Ramli: Ah ah kan.
+[1:05:17] Rafizi Ramli: Ah ah kan.
 
-[65:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:05:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[65:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:05:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[65:23] Haziq Azfar: Mhm. Okey, baik.
+[1:05:23] Haziq Azfar: Mhm. Okey, baik.
 
-[65:25] Rafizi Ramli: Okey.
+[1:05:25] Rafizi Ramli: Okey.
 
-[65:26] Haziq Azfar: Yang ketiga.
+[1:05:26] Haziq Azfar: Yang ketiga.
 
-[65:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:05:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[65:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:05:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[66:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:06:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[66:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:06:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[66:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:06:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[66:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:06:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[68:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:08:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[68:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:08:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[68:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:08:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[68:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:08:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[68:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:08:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[68:35] Rafizi Ramli: Mhm.
+[1:08:35] Rafizi Ramli: Mhm.
 
-[68:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:08:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[70:34] Rafizi Ramli: With assistance daripada government.
+[1:10:34] Rafizi Ramli: With assistance daripada government.
 
-[70:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:10:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[70:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:10:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[70:41] Haziq Azfar: Yalah.
+[1:10:41] Haziq Azfar: Yalah.
 
-[70:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:10:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[70:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:10:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[71:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:11:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[71:25] Rafizi Ramli: Mhm.
+[1:11:25] Rafizi Ramli: Mhm.
 
-[72:29] Rafizi Ramli: Okey.
+[1:12:29] Rafizi Ramli: Okey.
 
-[72:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:12:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[72:31] Rafizi Ramli: Airtime eh.
+[1:12:31] Rafizi Ramli: Airtime eh.
 
-[72:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:12:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[72:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:12:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[72:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:12:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[73:14] Rafizi Ramli: Lembaran.
+[1:13:14] Rafizi Ramli: Lembaran.
 
-[73:15] Haziq Azfar: Lembaran.
+[1:13:15] Haziq Azfar: Lembaran.
 
-[73:15] Rafizi Ramli: Lembaran raya.
+[1:13:15] Rafizi Ramli: Lembaran raya.
 
-[73:18] Haziq Azfar: Raya raya.
+[1:13:18] Haziq Azfar: Raya raya.
 
-[73:22] Rafizi Ramli: Saya test.
+[1:13:22] Rafizi Ramli: Saya test.
 
-[74:05] Rafizi Ramli: Mhm.
+[1:14:05] Rafizi Ramli: Mhm.
 
-[75:00] Rafizi Ramli: Baik YB. Good luck.
+[1:15:00] Rafizi Ramli: Baik YB. Good luck.
 
-[75:03] Haziq Azfar: Kita tengok.
+[1:15:03] Haziq Azfar: Kita tengok.
 
-[75:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:15:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[75:07] Haziq Azfar: Boleh.
+[1:15:07] Haziq Azfar: Boleh.
 
-[75:08] Rafizi Ramli: Bolehlah.
+[1:15:08] Rafizi Ramli: Bolehlah.
 
-[75:09] Haziq Azfar: Tapi kita charge lah.
+[1:15:09] Haziq Azfar: Tapi kita charge lah.
 
-[75:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:15:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[75:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:15:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[75:17] Rafizi Ramli: Ah ah kan.
+[1:15:17] Rafizi Ramli: Ah ah kan.
 
-[75:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:15:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[75:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:15:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[75:23] Haziq Azfar: Mhm. Okey, baik.
+[1:15:23] Haziq Azfar: Mhm. Okey, baik.
 
-[75:25] Rafizi Ramli: Okey.
+[1:15:25] Rafizi Ramli: Okey.
 
-[75:26] Haziq Azfar: Yang ketiga.
+[1:15:26] Haziq Azfar: Yang ketiga.
 
-[75:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:15:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[75:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:15:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[76:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:16:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[76:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:16:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[76:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:16:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[76:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:16:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[78:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:18:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[78:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:18:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[78:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:18:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[78:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:18:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[78:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:18:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[78:35] Rafizi Ramli: Mhm.
+[1:18:35] Rafizi Ramli: Mhm.
 
-[78:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:18:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[80:34] Rafizi Ramli: With assistance daripada government.
+[1:20:34] Rafizi Ramli: With assistance daripada government.
 
-[80:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:20:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[80:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:20:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[80:41] Haziq Azfar: Yalah.
+[1:20:41] Haziq Azfar: Yalah.
 
-[80:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:20:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[80:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:20:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[81:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:21:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[81:25] Rafizi Ramli: Mhm.
+[1:21:25] Rafizi Ramli: Mhm.
 
-[82:29] Rafizi Ramli: Okey.
+[1:22:29] Rafizi Ramli: Okey.
 
-[82:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:22:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[82:31] Rafizi Ramli: Airtime eh.
+[1:22:31] Rafizi Ramli: Airtime eh.
 
-[82:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:22:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[82:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:22:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[82:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:22:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[83:14] Rafizi Ramli: Lembaran.
+[1:23:14] Rafizi Ramli: Lembaran.
 
-[83:15] Haziq Azfar: Lembaran.
+[1:23:15] Haziq Azfar: Lembaran.
 
-[83:15] Rafizi Ramli: Lembaran raya.
+[1:23:15] Rafizi Ramli: Lembaran raya.
 
-[83:18] Haziq Azfar: Raya raya.
+[1:23:18] Haziq Azfar: Raya raya.
 
-[83:22] Rafizi Ramli: Saya test.
+[1:23:22] Rafizi Ramli: Saya test.
 
-[84:05] Rafizi Ramli: Mhm.
+[1:24:05] Rafizi Ramli: Mhm.
 
-[85:00] Rafizi Ramli: Baik YB. Good luck.
+[1:25:00] Rafizi Ramli: Baik YB. Good luck.
 
-[85:03] Haziq Azfar: Kita tengok.
+[1:25:03] Haziq Azfar: Kita tengok.
 
-[85:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:25:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[85:07] Haziq Azfar: Boleh.
+[1:25:07] Haziq Azfar: Boleh.
 
-[85:08] Rafizi Ramli: Bolehlah.
+[1:25:08] Rafizi Ramli: Bolehlah.
 
-[85:09] Haziq Azfar: Tapi kita charge lah.
+[1:25:09] Haziq Azfar: Tapi kita charge lah.
 
-[85:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:25:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[85:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:25:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[85:17] Rafizi Ramli: Ah ah kan.
+[1:25:17] Rafizi Ramli: Ah ah kan.
 
-[85:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:25:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[85:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:25:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[85:23] Haziq Azfar: Mhm. Okey, baik.
+[1:25:23] Haziq Azfar: Mhm. Okey, baik.
 
-[85:25] Rafizi Ramli: Okey.
+[1:25:25] Rafizi Ramli: Okey.
 
-[85:26] Haziq Azfar: Yang ketiga.
+[1:25:26] Haziq Azfar: Yang ketiga.
 
-[85:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:25:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[85:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:25:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[86:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:26:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[86:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:26:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[86:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:26:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[86:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:26:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[88:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:28:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[88:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:28:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[88:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:28:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[88:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:28:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[88:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:28:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[88:35] Rafizi Ramli: Mhm.
+[1:28:35] Rafizi Ramli: Mhm.
 
-[88:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:28:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[90:34] Rafizi Ramli: With assistance daripada government.
+[1:30:34] Rafizi Ramli: With assistance daripada government.
 
-[90:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:30:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[90:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:30:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[90:41] Haziq Azfar: Yalah.
+[1:30:41] Haziq Azfar: Yalah.
 
-[90:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:30:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[90:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:30:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[91:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:31:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[91:25] Rafizi Ramli: Mhm.
+[1:31:25] Rafizi Ramli: Mhm.
 
-[92:29] Rafizi Ramli: Okey.
+[1:32:29] Rafizi Ramli: Okey.
 
-[92:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:32:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[92:31] Rafizi Ramli: Airtime eh.
+[1:32:31] Rafizi Ramli: Airtime eh.
 
-[92:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:32:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[92:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:32:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[92:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:32:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[93:14] Rafizi Ramli: Lembaran.
+[1:33:14] Rafizi Ramli: Lembaran.
 
-[93:15] Haziq Azfar: Lembaran.
+[1:33:15] Haziq Azfar: Lembaran.
 
-[93:15] Rafizi Ramli: Lembaran raya.
+[1:33:15] Rafizi Ramli: Lembaran raya.
 
-[93:18] Haziq Azfar: Raya raya.
+[1:33:18] Haziq Azfar: Raya raya.
 
-[93:22] Rafizi Ramli: Saya test.
+[1:33:22] Rafizi Ramli: Saya test.
 
-[94:05] Rafizi Ramli: Mhm.
+[1:34:05] Rafizi Ramli: Mhm.
 
-[95:00] Rafizi Ramli: Baik YB. Good luck.
+[1:35:00] Rafizi Ramli: Baik YB. Good luck.
 
-[95:03] Haziq Azfar: Kita tengok.
+[1:35:03] Haziq Azfar: Kita tengok.
 
-[95:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:35:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[95:07] Haziq Azfar: Boleh.
+[1:35:07] Haziq Azfar: Boleh.
 
-[95:08] Rafizi Ramli: Bolehlah.
+[1:35:08] Rafizi Ramli: Bolehlah.
 
-[95:09] Haziq Azfar: Tapi kita charge lah.
+[1:35:09] Haziq Azfar: Tapi kita charge lah.
 
-[95:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:35:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[95:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:35:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[95:17] Rafizi Ramli: Ah ah kan.
+[1:35:17] Rafizi Ramli: Ah ah kan.
 
-[95:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:35:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[95:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:35:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[95:23] Haziq Azfar: Mhm. Okey, baik.
+[1:35:23] Haziq Azfar: Mhm. Okey, baik.
 
-[95:25] Rafizi Ramli: Okey.
+[1:35:25] Rafizi Ramli: Okey.
 
-[95:26] Haziq Azfar: Yang ketiga.
+[1:35:26] Haziq Azfar: Yang ketiga.
 
-[95:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:35:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[95:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:35:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[96:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:36:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[96:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:36:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[96:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:36:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[96:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:36:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[98:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:38:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[98:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:38:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[98:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:38:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[98:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:38:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[98:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:38:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[98:35] Rafizi Ramli: Mhm.
+[1:38:35] Rafizi Ramli: Mhm.
 
-[98:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:38:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[100:34] Rafizi Ramli: With assistance daripada government.
+[1:40:34] Rafizi Ramli: With assistance daripada government.
 
-[100:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:40:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[100:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:40:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[100:41] Haziq Azfar: Yalah.
+[1:40:41] Haziq Azfar: Yalah.
 
-[100:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:40:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[100:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:40:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[101:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:41:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[101:25] Rafizi Ramli: Mhm.
+[1:41:25] Rafizi Ramli: Mhm.
 
-[102:29] Rafizi Ramli: Okey.
+[1:42:29] Rafizi Ramli: Okey.
 
-[102:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:42:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[102:31] Rafizi Ramli: Airtime eh.
+[1:42:31] Rafizi Ramli: Airtime eh.
 
-[102:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:42:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[102:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:42:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[102:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:42:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
 [13:14] Rafizi Ramli: Lembaran.
 
@@ -1434,944 +1434,944 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[60:34] Rafizi Ramli: With assistance daripada government.
+[1:00:34] Rafizi Ramli: With assistance daripada government.
 
-[60:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:00:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[60:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:00:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[60:41] Haziq Azfar: Yalah.
+[1:00:41] Haziq Azfar: Yalah.
 
-[60:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:00:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[60:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:00:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[61:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:01:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[61:25] Rafizi Ramli: Mhm.
+[1:01:25] Rafizi Ramli: Mhm.
 
-[62:29] Rafizi Ramli: Okey.
+[1:02:29] Rafizi Ramli: Okey.
 
-[62:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:02:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[62:31] Rafizi Ramli: Airtime eh.
+[1:02:31] Rafizi Ramli: Airtime eh.
 
-[62:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:02:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[62:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:02:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[62:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:02:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[63:14] Rafizi Ramli: Lembaran.
+[1:03:14] Rafizi Ramli: Lembaran.
 
-[63:15] Haziq Azfar: Lembaran.
+[1:03:15] Haziq Azfar: Lembaran.
 
-[63:15] Rafizi Ramli: Lembaran raya.
+[1:03:15] Rafizi Ramli: Lembaran raya.
 
-[63:18] Haziq Azfar: Raya raya.
+[1:03:18] Haziq Azfar: Raya raya.
 
-[63:22] Rafizi Ramli: Saya test.
+[1:03:22] Rafizi Ramli: Saya test.
 
-[64:05] Rafizi Ramli: Mhm.
+[1:04:05] Rafizi Ramli: Mhm.
 
-[65:00] Rafizi Ramli: Baik YB. Good luck.
+[1:05:00] Rafizi Ramli: Baik YB. Good luck.
 
-[65:03] Haziq Azfar: Kita tengok.
+[1:05:03] Haziq Azfar: Kita tengok.
 
-[65:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:05:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[65:07] Haziq Azfar: Boleh.
+[1:05:07] Haziq Azfar: Boleh.
 
-[65:08] Rafizi Ramli: Bolehlah.
+[1:05:08] Rafizi Ramli: Bolehlah.
 
-[65:09] Haziq Azfar: Tapi kita charge lah.
+[1:05:09] Haziq Azfar: Tapi kita charge lah.
 
-[65:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:05:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[65:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:05:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[65:17] Rafizi Ramli: Ah ah kan.
+[1:05:17] Rafizi Ramli: Ah ah kan.
 
-[65:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:05:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[65:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:05:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[65:23] Haziq Azfar: Mhm. Okey, baik.
+[1:05:23] Haziq Azfar: Mhm. Okey, baik.
 
-[65:25] Rafizi Ramli: Okey.
+[1:05:25] Rafizi Ramli: Okey.
 
-[65:26] Haziq Azfar: Yang ketiga.
+[1:05:26] Haziq Azfar: Yang ketiga.
 
-[65:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:05:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[65:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:05:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[66:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:06:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[66:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:06:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[66:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:06:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[66:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:06:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[68:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:08:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[68:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:08:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[68:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:08:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[68:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:08:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[68:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:08:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[68:35] Rafizi Ramli: Mhm.
+[1:08:35] Rafizi Ramli: Mhm.
 
-[68:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:08:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[70:34] Rafizi Ramli: With assistance daripada government.
+[1:10:34] Rafizi Ramli: With assistance daripada government.
 
-[70:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:10:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[70:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:10:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[70:41] Haziq Azfar: Yalah.
+[1:10:41] Haziq Azfar: Yalah.
 
-[70:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:10:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[70:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:10:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[71:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:11:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[71:25] Rafizi Ramli: Mhm.
+[1:11:25] Rafizi Ramli: Mhm.
 
-[72:29] Rafizi Ramli: Okey.
+[1:12:29] Rafizi Ramli: Okey.
 
-[72:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:12:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[72:31] Rafizi Ramli: Airtime eh.
+[1:12:31] Rafizi Ramli: Airtime eh.
 
-[72:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:12:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[72:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:12:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[72:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:12:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[73:14] Rafizi Ramli: Lembaran.
+[1:13:14] Rafizi Ramli: Lembaran.
 
-[73:15] Haziq Azfar: Lembaran.
+[1:13:15] Haziq Azfar: Lembaran.
 
-[73:15] Rafizi Ramli: Lembaran raya.
+[1:13:15] Rafizi Ramli: Lembaran raya.
 
-[73:18] Haziq Azfar: Raya raya.
+[1:13:18] Haziq Azfar: Raya raya.
 
-[73:22] Rafizi Ramli: Saya test.
+[1:13:22] Rafizi Ramli: Saya test.
 
-[74:05] Rafizi Ramli: Mhm.
+[1:14:05] Rafizi Ramli: Mhm.
 
-[75:00] Rafizi Ramli: Baik YB. Good luck.
+[1:15:00] Rafizi Ramli: Baik YB. Good luck.
 
-[75:03] Haziq Azfar: Kita tengok.
+[1:15:03] Haziq Azfar: Kita tengok.
 
-[75:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:15:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[75:07] Haziq Azfar: Boleh.
+[1:15:07] Haziq Azfar: Boleh.
 
-[75:08] Rafizi Ramli: Bolehlah.
+[1:15:08] Rafizi Ramli: Bolehlah.
 
-[75:09] Haziq Azfar: Tapi kita charge lah.
+[1:15:09] Haziq Azfar: Tapi kita charge lah.
 
-[75:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:15:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[75:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:15:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[75:17] Rafizi Ramli: Ah ah kan.
+[1:15:17] Rafizi Ramli: Ah ah kan.
 
-[75:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:15:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[75:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:15:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[75:23] Haziq Azfar: Mhm. Okey, baik.
+[1:15:23] Haziq Azfar: Mhm. Okey, baik.
 
-[75:25] Rafizi Ramli: Okey.
+[1:15:25] Rafizi Ramli: Okey.
 
-[75:26] Haziq Azfar: Yang ketiga.
+[1:15:26] Haziq Azfar: Yang ketiga.
 
-[75:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:15:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[75:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:15:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[76:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:16:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[76:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:16:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[76:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:16:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[76:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:16:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[78:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:18:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[78:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:18:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[78:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:18:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[78:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:18:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[78:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:18:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[78:35] Rafizi Ramli: Mhm.
+[1:18:35] Rafizi Ramli: Mhm.
 
-[78:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:18:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[80:34] Rafizi Ramli: With assistance daripada government.
+[1:20:34] Rafizi Ramli: With assistance daripada government.
 
-[80:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:20:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[80:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:20:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[80:41] Haziq Azfar: Yalah.
+[1:20:41] Haziq Azfar: Yalah.
 
-[80:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:20:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[80:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:20:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[81:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:21:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[81:25] Rafizi Ramli: Mhm.
+[1:21:25] Rafizi Ramli: Mhm.
 
-[82:29] Rafizi Ramli: Okey.
+[1:22:29] Rafizi Ramli: Okey.
 
-[82:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:22:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[82:31] Rafizi Ramli: Airtime eh.
+[1:22:31] Rafizi Ramli: Airtime eh.
 
-[82:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:22:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[82:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:22:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[82:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:22:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[83:14] Rafizi Ramli: Lembaran.
+[1:23:14] Rafizi Ramli: Lembaran.
 
-[83:15] Haziq Azfar: Lembaran.
+[1:23:15] Haziq Azfar: Lembaran.
 
-[83:15] Rafizi Ramli: Lembaran raya.
+[1:23:15] Rafizi Ramli: Lembaran raya.
 
-[83:18] Haziq Azfar: Raya raya.
+[1:23:18] Haziq Azfar: Raya raya.
 
-[83:22] Rafizi Ramli: Saya test.
+[1:23:22] Rafizi Ramli: Saya test.
 
-[84:05] Rafizi Ramli: Mhm.
+[1:24:05] Rafizi Ramli: Mhm.
 
-[85:00] Rafizi Ramli: Baik YB. Good luck.
+[1:25:00] Rafizi Ramli: Baik YB. Good luck.
 
-[85:03] Haziq Azfar: Kita tengok.
+[1:25:03] Haziq Azfar: Kita tengok.
 
-[85:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:25:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[85:07] Haziq Azfar: Boleh.
+[1:25:07] Haziq Azfar: Boleh.
 
-[85:08] Rafizi Ramli: Bolehlah.
+[1:25:08] Rafizi Ramli: Bolehlah.
 
-[85:09] Haziq Azfar: Tapi kita charge lah.
+[1:25:09] Haziq Azfar: Tapi kita charge lah.
 
-[85:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:25:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[85:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:25:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[85:17] Rafizi Ramli: Ah ah kan.
+[1:25:17] Rafizi Ramli: Ah ah kan.
 
-[85:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:25:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[85:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:25:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[85:23] Haziq Azfar: Mhm. Okey, baik.
+[1:25:23] Haziq Azfar: Mhm. Okey, baik.
 
-[85:25] Rafizi Ramli: Okey.
+[1:25:25] Rafizi Ramli: Okey.
 
-[85:26] Haziq Azfar: Yang ketiga.
+[1:25:26] Haziq Azfar: Yang ketiga.
 
-[85:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:25:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[85:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:25:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[86:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:26:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[86:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:26:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[86:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:26:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[86:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:26:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[88:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:28:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[88:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:28:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[88:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:28:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[88:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:28:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[88:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:28:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[88:35] Rafizi Ramli: Mhm.
+[1:28:35] Rafizi Ramli: Mhm.
 
-[88:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:28:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[90:34] Rafizi Ramli: With assistance daripada government.
+[1:30:34] Rafizi Ramli: With assistance daripada government.
 
-[90:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:30:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[90:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:30:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[90:41] Haziq Azfar: Yalah.
+[1:30:41] Haziq Azfar: Yalah.
 
-[90:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:30:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[90:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:30:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[91:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:31:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[91:25] Rafizi Ramli: Mhm.
+[1:31:25] Rafizi Ramli: Mhm.
 
-[92:29] Rafizi Ramli: Okey.
+[1:32:29] Rafizi Ramli: Okey.
 
-[92:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:32:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[92:31] Rafizi Ramli: Airtime eh.
+[1:32:31] Rafizi Ramli: Airtime eh.
 
-[92:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:32:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[92:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:32:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[92:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:32:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[93:14] Rafizi Ramli: Lembaran.
+[1:33:14] Rafizi Ramli: Lembaran.
 
-[93:15] Haziq Azfar: Lembaran.
+[1:33:15] Haziq Azfar: Lembaran.
 
-[93:15] Rafizi Ramli: Lembaran raya.
+[1:33:15] Rafizi Ramli: Lembaran raya.
 
-[93:18] Haziq Azfar: Raya raya.
+[1:33:18] Haziq Azfar: Raya raya.
 
-[93:22] Rafizi Ramli: Saya test.
+[1:33:22] Rafizi Ramli: Saya test.
 
-[94:05] Rafizi Ramli: Mhm.
+[1:34:05] Rafizi Ramli: Mhm.
 
-[95:00] Rafizi Ramli: Baik YB. Good luck.
+[1:35:00] Rafizi Ramli: Baik YB. Good luck.
 
-[95:03] Haziq Azfar: Kita tengok.
+[1:35:03] Haziq Azfar: Kita tengok.
 
-[95:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:35:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[95:07] Haziq Azfar: Boleh.
+[1:35:07] Haziq Azfar: Boleh.
 
-[95:08] Rafizi Ramli: Bolehlah.
+[1:35:08] Rafizi Ramli: Bolehlah.
 
-[95:09] Haziq Azfar: Tapi kita charge lah.
+[1:35:09] Haziq Azfar: Tapi kita charge lah.
 
-[95:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:35:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[95:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:35:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[95:17] Rafizi Ramli: Ah ah kan.
+[1:35:17] Rafizi Ramli: Ah ah kan.
 
-[95:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:35:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[95:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:35:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[95:23] Haziq Azfar: Mhm. Okey, baik.
+[1:35:23] Haziq Azfar: Mhm. Okey, baik.
 
-[95:25] Rafizi Ramli: Okey.
+[1:35:25] Rafizi Ramli: Okey.
 
-[95:26] Haziq Azfar: Yang ketiga.
+[1:35:26] Haziq Azfar: Yang ketiga.
 
-[95:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:35:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[95:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:35:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[96:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:36:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[96:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:36:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[96:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:36:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[96:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:36:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[98:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:38:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[98:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:38:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[98:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:38:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[98:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:38:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[98:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:38:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[98:35] Rafizi Ramli: Mhm.
+[1:38:35] Rafizi Ramli: Mhm.
 
-[98:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:38:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[100:34] Rafizi Ramli: With assistance daripada government.
+[1:40:34] Rafizi Ramli: With assistance daripada government.
 
-[100:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:40:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[100:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:40:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[100:41] Haziq Azfar: Yalah.
+[1:40:41] Haziq Azfar: Yalah.
 
-[100:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:40:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[100:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:40:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[101:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:41:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[101:25] Rafizi Ramli: Mhm.
+[1:41:25] Rafizi Ramli: Mhm.
 
-[102:29] Rafizi Ramli: Okey.
+[1:42:29] Rafizi Ramli: Okey.
 
-[102:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:42:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[102:31] Rafizi Ramli: Airtime eh.
+[1:42:31] Rafizi Ramli: Airtime eh.
 
-[102:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:42:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[102:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:42:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[102:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:42:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[103:14] Rafizi Ramli: Lembaran.
+[1:43:14] Rafizi Ramli: Lembaran.
 
-[103:15] Haziq Azfar: Lembaran.
+[1:43:15] Haziq Azfar: Lembaran.
 
-[103:15] Rafizi Ramli: Lembaran raya.
+[1:43:15] Rafizi Ramli: Lembaran raya.
 
-[103:18] Haziq Azfar: Raya raya.
+[1:43:18] Haziq Azfar: Raya raya.
 
-[103:22] Rafizi Ramli: Saya test.
+[1:43:22] Rafizi Ramli: Saya test.
 
-[104:05] Rafizi Ramli: Mhm.
+[1:44:05] Rafizi Ramli: Mhm.
 
-[105:00] Rafizi Ramli: Baik YB. Good luck.
+[1:45:00] Rafizi Ramli: Baik YB. Good luck.
 
-[105:03] Haziq Azfar: Kita tengok.
+[1:45:03] Haziq Azfar: Kita tengok.
 
-[105:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:45:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[105:07] Haziq Azfar: Boleh.
+[1:45:07] Haziq Azfar: Boleh.
 
-[105:08] Rafizi Ramli: Bolehlah.
+[1:45:08] Rafizi Ramli: Bolehlah.
 
-[105:09] Haziq Azfar: Tapi kita charge lah.
+[1:45:09] Haziq Azfar: Tapi kita charge lah.
 
-[105:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:45:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[105:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:45:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[105:17] Rafizi Ramli: Ah ah kan.
+[1:45:17] Rafizi Ramli: Ah ah kan.
 
-[105:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:45:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[105:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:45:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[105:23] Haziq Azfar: Mhm. Okey, baik.
+[1:45:23] Haziq Azfar: Mhm. Okey, baik.
 
-[105:25] Rafizi Ramli: Okey.
+[1:45:25] Rafizi Ramli: Okey.
 
-[105:26] Haziq Azfar: Yang ketiga.
+[1:45:26] Haziq Azfar: Yang ketiga.
 
-[105:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:45:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[105:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:45:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[106:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:46:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[106:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:46:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[106:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:46:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[106:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:46:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[108:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:48:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[108:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:48:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[108:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:48:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[108:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:48:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[108:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:48:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[108:35] Rafizi Ramli: Mhm.
+[1:48:35] Rafizi Ramli: Mhm.
 
-[108:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:48:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[110:34] Rafizi Ramli: With assistance daripada government.
+[1:50:34] Rafizi Ramli: With assistance daripada government.
 
-[110:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[1:50:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[110:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[1:50:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[110:41] Haziq Azfar: Yalah.
+[1:50:41] Haziq Azfar: Yalah.
 
-[110:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[1:50:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[110:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[1:50:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[111:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[1:51:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[111:25] Rafizi Ramli: Mhm.
+[1:51:25] Rafizi Ramli: Mhm.
 
-[112:29] Rafizi Ramli: Okey.
+[1:52:29] Rafizi Ramli: Okey.
 
-[112:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[1:52:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[112:31] Rafizi Ramli: Airtime eh.
+[1:52:31] Rafizi Ramli: Airtime eh.
 
-[112:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[1:52:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[112:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[1:52:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[112:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[1:52:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[113:14] Rafizi Ramli: Lembaran.
+[1:53:14] Rafizi Ramli: Lembaran.
 
-[113:15] Haziq Azfar: Lembaran.
+[1:53:15] Haziq Azfar: Lembaran.
 
-[113:15] Rafizi Ramli: Lembaran raya.
+[1:53:15] Rafizi Ramli: Lembaran raya.
 
-[113:18] Haziq Azfar: Raya raya.
+[1:53:18] Haziq Azfar: Raya raya.
 
-[113:22] Rafizi Ramli: Saya test.
+[1:53:22] Rafizi Ramli: Saya test.
 
-[114:05] Rafizi Ramli: Mhm.
+[1:54:05] Rafizi Ramli: Mhm.
 
-[115:00] Rafizi Ramli: Baik YB. Good luck.
+[1:55:00] Rafizi Ramli: Baik YB. Good luck.
 
-[115:03] Haziq Azfar: Kita tengok.
+[1:55:03] Haziq Azfar: Kita tengok.
 
-[115:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[1:55:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[115:07] Haziq Azfar: Boleh.
+[1:55:07] Haziq Azfar: Boleh.
 
-[115:08] Rafizi Ramli: Bolehlah.
+[1:55:08] Rafizi Ramli: Bolehlah.
 
-[115:09] Haziq Azfar: Tapi kita charge lah.
+[1:55:09] Haziq Azfar: Tapi kita charge lah.
 
-[115:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[1:55:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[115:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[1:55:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[115:17] Rafizi Ramli: Ah ah kan.
+[1:55:17] Rafizi Ramli: Ah ah kan.
 
-[115:18] Haziq Azfar: Eh mahallah dua muka surat.
+[1:55:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[115:21] Rafizi Ramli: 10,000. 10,000 lah.
+[1:55:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[115:23] Haziq Azfar: Mhm. Okey, baik.
+[1:55:23] Haziq Azfar: Mhm. Okey, baik.
 
-[115:25] Rafizi Ramli: Okey.
+[1:55:25] Rafizi Ramli: Okey.
 
-[115:26] Haziq Azfar: Yang ketiga.
+[1:55:26] Haziq Azfar: Yang ketiga.
 
-[115:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[1:55:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[115:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[1:55:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[116:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[1:56:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[116:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[1:56:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[116:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[1:56:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[116:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[1:56:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[118:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[1:58:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[118:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[1:58:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[118:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[1:58:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[118:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[1:58:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[118:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[1:58:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[118:35] Rafizi Ramli: Mhm.
+[1:58:35] Rafizi Ramli: Mhm.
 
-[118:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[1:58:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[120:34] Rafizi Ramli: With assistance daripada government.
+[2:00:34] Rafizi Ramli: With assistance daripada government.
 
-[120:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[2:00:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[120:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[2:00:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[120:41] Haziq Azfar: Yalah.
+[2:00:41] Haziq Azfar: Yalah.
 
-[120:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[2:00:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[120:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[2:00:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[121:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[2:01:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[121:25] Rafizi Ramli: Mhm.
+[2:01:25] Rafizi Ramli: Mhm.
 
-[122:29] Rafizi Ramli: Okey.
+[2:02:29] Rafizi Ramli: Okey.
 
-[122:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[2:02:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[122:31] Rafizi Ramli: Airtime eh.
+[2:02:31] Rafizi Ramli: Airtime eh.
 
-[122:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[2:02:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[122:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[2:02:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[122:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[2:02:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[123:14] Rafizi Ramli: Lembaran.
+[2:03:14] Rafizi Ramli: Lembaran.
 
-[123:15] Haziq Azfar: Lembaran.
+[2:03:15] Haziq Azfar: Lembaran.
 
-[123:15] Rafizi Ramli: Lembaran raya.
+[2:03:15] Rafizi Ramli: Lembaran raya.
 
-[123:18] Haziq Azfar: Raya raya.
+[2:03:18] Haziq Azfar: Raya raya.
 
-[123:22] Rafizi Ramli: Saya test.
+[2:03:22] Rafizi Ramli: Saya test.
 
-[124:05] Rafizi Ramli: Mhm.
+[2:04:05] Rafizi Ramli: Mhm.
 
-[125:00] Rafizi Ramli: Baik YB. Good luck.
+[2:05:00] Rafizi Ramli: Baik YB. Good luck.
 
-[125:03] Haziq Azfar: Kita tengok.
+[2:05:03] Haziq Azfar: Kita tengok.
 
-[125:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[2:05:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[125:07] Haziq Azfar: Boleh.
+[2:05:07] Haziq Azfar: Boleh.
 
-[125:08] Rafizi Ramli: Bolehlah.
+[2:05:08] Rafizi Ramli: Bolehlah.
 
-[125:09] Haziq Azfar: Tapi kita charge lah.
+[2:05:09] Haziq Azfar: Tapi kita charge lah.
 
-[125:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[2:05:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[125:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[2:05:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[125:17] Rafizi Ramli: Ah ah kan.
+[2:05:17] Rafizi Ramli: Ah ah kan.
 
-[125:18] Haziq Azfar: Eh mahallah dua muka surat.
+[2:05:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[125:21] Rafizi Ramli: 10,000. 10,000 lah.
+[2:05:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[125:23] Haziq Azfar: Mhm. Okey, baik.
+[2:05:23] Haziq Azfar: Mhm. Okey, baik.
 
-[125:25] Rafizi Ramli: Okey.
+[2:05:25] Rafizi Ramli: Okey.
 
-[125:26] Haziq Azfar: Yang ketiga.
+[2:05:26] Haziq Azfar: Yang ketiga.
 
-[125:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[2:05:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[125:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[2:05:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[126:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[2:06:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[126:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[2:06:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[126:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[2:06:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[126:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[2:06:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[128:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[2:08:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[128:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[2:08:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[128:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[2:08:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[128:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[2:08:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[128:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[2:08:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[128:35] Rafizi Ramli: Mhm.
+[2:08:35] Rafizi Ramli: Mhm.
 
-[128:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[2:08:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[130:34] Rafizi Ramli: With assistance daripada government.
+[2:10:34] Rafizi Ramli: With assistance daripada government.
 
-[130:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[2:10:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[130:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[2:10:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[130:41] Haziq Azfar: Yalah.
+[2:10:41] Haziq Azfar: Yalah.
 
-[130:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[2:10:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[130:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[2:10:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[131:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[2:11:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[131:25] Rafizi Ramli: Mhm.
+[2:11:25] Rafizi Ramli: Mhm.
 
-[132:29] Rafizi Ramli: Okey.
+[2:12:29] Rafizi Ramli: Okey.
 
-[132:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[2:12:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[132:31] Rafizi Ramli: Airtime eh.
+[2:12:31] Rafizi Ramli: Airtime eh.
 
-[132:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[2:12:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[132:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[2:12:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[132:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[2:12:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[133:14] Rafizi Ramli: Lembaran.
+[2:13:14] Rafizi Ramli: Lembaran.
 
-[133:15] Haziq Azfar: Lembaran.
+[2:13:15] Haziq Azfar: Lembaran.
 
-[133:15] Rafizi Ramli: Lembaran raya.
+[2:13:15] Rafizi Ramli: Lembaran raya.
 
-[133:18] Haziq Azfar: Raya raya.
+[2:13:18] Haziq Azfar: Raya raya.
 
-[133:22] Rafizi Ramli: Saya test.
+[2:13:22] Rafizi Ramli: Saya test.
 
-[134:05] Rafizi Ramli: Mhm.
+[2:14:05] Rafizi Ramli: Mhm.
 
-[135:00] Rafizi Ramli: Baik YB. Good luck.
+[2:15:00] Rafizi Ramli: Baik YB. Good luck.
 
-[135:03] Haziq Azfar: Kita tengok.
+[2:15:03] Haziq Azfar: Kita tengok.
 
-[135:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[2:15:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[135:07] Haziq Azfar: Boleh.
+[2:15:07] Haziq Azfar: Boleh.
 
-[135:08] Rafizi Ramli: Bolehlah.
+[2:15:08] Rafizi Ramli: Bolehlah.
 
-[135:09] Haziq Azfar: Tapi kita charge lah.
+[2:15:09] Haziq Azfar: Tapi kita charge lah.
 
-[135:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[2:15:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[135:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[2:15:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[135:17] Rafizi Ramli: Ah ah kan.
+[2:15:17] Rafizi Ramli: Ah ah kan.
 
-[135:18] Haziq Azfar: Eh mahallah dua muka surat.
+[2:15:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[135:21] Rafizi Ramli: 10,000. 10,000 lah.
+[2:15:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[135:23] Haziq Azfar: Mhm. Okey, baik.
+[2:15:23] Haziq Azfar: Mhm. Okey, baik.
 
-[135:25] Rafizi Ramli: Okey.
+[2:15:25] Rafizi Ramli: Okey.
 
-[135:26] Haziq Azfar: Yang ketiga.
+[2:15:26] Haziq Azfar: Yang ketiga.
 
-[135:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[2:15:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[135:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[2:15:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[136:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[2:16:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[136:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[2:16:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[136:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[2:16:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[136:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[2:16:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[138:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[2:18:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[138:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[2:18:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[138:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[2:18:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[138:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[2:18:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[138:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[2:18:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[138:35] Rafizi Ramli: Mhm.
+[2:18:35] Rafizi Ramli: Mhm.
 
-[138:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[2:18:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[140:34] Rafizi Ramli: With assistance daripada government.
+[2:20:34] Rafizi Ramli: With assistance daripada government.
 
-[140:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[2:20:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[140:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[2:20:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[140:41] Haziq Azfar: Yalah.
+[2:20:41] Haziq Azfar: Yalah.
 
-[140:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[2:20:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[140:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[2:20:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[141:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[2:21:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[141:25] Rafizi Ramli: Mhm.
+[2:21:25] Rafizi Ramli: Mhm.
 
-[142:29] Rafizi Ramli: Okey.
+[2:22:29] Rafizi Ramli: Okey.
 
-[142:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[2:22:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[142:31] Rafizi Ramli: Airtime eh.
+[2:22:31] Rafizi Ramli: Airtime eh.
 
-[142:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[2:22:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[142:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[2:22:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[142:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[2:22:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[143:14] Rafizi Ramli: Lembaran.
+[2:23:14] Rafizi Ramli: Lembaran.
 
-[143:15] Haziq Azfar: Lembaran.
+[2:23:15] Haziq Azfar: Lembaran.
 
-[143:15] Rafizi Ramli: Lembaran raya.
+[2:23:15] Rafizi Ramli: Lembaran raya.
 
-[143:18] Haziq Azfar: Raya raya.
+[2:23:18] Haziq Azfar: Raya raya.
 
-[143:22] Rafizi Ramli: Saya test.
+[2:23:22] Rafizi Ramli: Saya test.
 
-[144:05] Rafizi Ramli: Mhm.
+[2:24:05] Rafizi Ramli: Mhm.
 
-[145:00] Rafizi Ramli: Baik YB. Good luck.
+[2:25:00] Rafizi Ramli: Baik YB. Good luck.
 
-[145:03] Haziq Azfar: Kita tengok.
+[2:25:03] Haziq Azfar: Kita tengok.
 
-[145:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[2:25:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[145:07] Haziq Azfar: Boleh.
+[2:25:07] Haziq Azfar: Boleh.
 
-[145:08] Rafizi Ramli: Bolehlah.
+[2:25:08] Rafizi Ramli: Bolehlah.
 
-[145:09] Haziq Azfar: Tapi kita charge lah.
+[2:25:09] Haziq Azfar: Tapi kita charge lah.
 
-[145:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[2:25:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[145:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[2:25:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[145:17] Rafizi Ramli: Ah ah kan.
+[2:25:17] Rafizi Ramli: Ah ah kan.
 
-[145:18] Haziq Azfar: Eh mahallah dua muka surat.
+[2:25:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[145:21] Rafizi Ramli: 10,000. 10,000 lah.
+[2:25:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[145:23] Haziq Azfar: Mhm. Okey, baik.
+[2:25:23] Haziq Azfar: Mhm. Okey, baik.
 
-[145:25] Rafizi Ramli: Okey.
+[2:25:25] Rafizi Ramli: Okey.
 
-[145:26] Haziq Azfar: Yang ketiga.
+[2:25:26] Haziq Azfar: Yang ketiga.
 
-[145:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[2:25:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[145:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[2:25:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[146:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[2:26:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[146:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[2:26:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[146:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[2:26:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[146:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[2:26:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[148:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[2:28:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[148:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[2:28:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[148:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[2:28:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[148:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[2:28:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[148:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[2:28:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[148:35] Rafizi Ramli: Mhm.
+[2:28:35] Rafizi Ramli: Mhm.
 
-[148:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[2:28:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[150:34] Rafizi Ramli: With assistance daripada government.
+[2:30:34] Rafizi Ramli: With assistance daripada government.
 
-[150:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
+[2:30:36] Haziq Azfar: Mana ada government assistance kat tempat lain.
 
-[150:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
+[2:30:39] Rafizi Ramli: Macam Khairul Aming lah orang cakap eh.
 
-[150:41] Haziq Azfar: Yalah.
+[2:30:41] Haziq Azfar: Yalah.
 
-[150:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
+[2:30:42] Rafizi Ramli: Tapi tapi itu pun jadi isu juga sebab ada eh, sorry.
 
-[150:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
+[2:30:45] Haziq Azfar: Yang beria-ia sangat ni kenapa? Beria kena pendek.
 
-[151:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+[2:31:09] Haziq Azfar: Dia ada partner kan? Dia ada partner. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ni. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
 
-[151:25] Rafizi Ramli: Mhm.
+[2:31:25] Rafizi Ramli: Mhm.
 
-[152:29] Rafizi Ramli: Okey.
+[2:32:29] Rafizi Ramli: Okey.
 
-[152:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
+[2:32:30] Haziq Azfar: Okey Baby. 8 minit. 8 minit.
 
-[152:31] Rafizi Ramli: Airtime eh.
+[2:32:31] Rafizi Ramli: Airtime eh.
 
-[152:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
+[2:32:33] Haziq Azfar: Okey. Patut Khairul Aming bayar kitalah. Sebab mempromosikan.
 
-[152:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
+[2:32:40] Rafizi Ramli: Okay next YB, kita ada Beria. Aduh peningnya. Banyak sangat surat minta sokongan.
 
-[152:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
+[2:32:50] Haziq Azfar: Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila utusan Malaysia buat interview dua muka surat kan, dua lembar. Dia apa lembaran, lembaran ke lembaran?
 
-[153:14] Rafizi Ramli: Lembaran.
+[2:33:14] Rafizi Ramli: Lembaran.
 
-[153:15] Haziq Azfar: Lembaran.
+[2:33:15] Haziq Azfar: Lembaran.
 
-[153:15] Rafizi Ramli: Lembaran raya.
+[2:33:15] Rafizi Ramli: Lembaran raya.
 
-[153:18] Haziq Azfar: Raya raya.
+[2:33:18] Haziq Azfar: Raya raya.
 
-[153:22] Rafizi Ramli: Saya test.
+[2:33:22] Rafizi Ramli: Saya test.
 
-[154:05] Rafizi Ramli: Mhm.
+[2:34:05] Rafizi Ramli: Mhm.
 
-[155:00] Rafizi Ramli: Baik YB. Good luck.
+[2:35:00] Rafizi Ramli: Baik YB. Good luck.
 
-[155:03] Haziq Azfar: Kita tengok.
+[2:35:03] Haziq Azfar: Kita tengok.
 
-[155:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
+[2:35:04] Rafizi Ramli: Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-[155:07] Haziq Azfar: Boleh.
+[2:35:07] Haziq Azfar: Boleh.
 
-[155:08] Rafizi Ramli: Bolehlah.
+[2:35:08] Rafizi Ramli: Bolehlah.
 
-[155:09] Haziq Azfar: Tapi kita charge lah.
+[2:35:09] Haziq Azfar: Tapi kita charge lah.
 
-[155:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
+[2:35:10] Rafizi Ramli: Dua muka surat Utusan Malaysia, charge dia berapa nah?
 
-[155:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
+[2:35:15] Haziq Azfar: Takkan charge harga tu, mahal sikit.
 
-[155:17] Rafizi Ramli: Ah ah kan.
+[2:35:17] Rafizi Ramli: Ah ah kan.
 
-[155:18] Haziq Azfar: Eh mahallah dua muka surat.
+[2:35:18] Haziq Azfar: Eh mahallah dua muka surat.
 
-[155:21] Rafizi Ramli: 10,000. 10,000 lah.
+[2:35:21] Rafizi Ramli: 10,000. 10,000 lah.
 
-[155:23] Haziq Azfar: Mhm. Okey, baik.
+[2:35:23] Haziq Azfar: Mhm. Okey, baik.
 
-[155:25] Rafizi Ramli: Okey.
+[2:35:25] Rafizi Ramli: Okey.
 
-[155:26] Haziq Azfar: Yang ketiga.
+[2:35:26] Haziq Azfar: Yang ketiga.
 
-[155:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
+[2:35:28] Rafizi Ramli: Influencer dihalang rasmi majlis pendidikan versus popularity.
 
-[155:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
+[2:35:35] Haziq Azfar: So yang yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmi kan ke?
 
-[156:11] Haziq Azfar: Itu tak menjawab soalan aku.
+[2:36:11] Haziq Azfar: Itu tak menjawab soalan aku.
 
-[156:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
+[2:36:14] Rafizi Ramli: Aku tanya yang mana yang yang yang kau kata beria-ia ni, beria dia terang ke, beria dia masuk sekolah?
 
-[156:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+[2:36:41] Rafizi Ramli: Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
 
-[156:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
+[2:36:44] Haziq Azfar: Mungkin lah kot. Mungkin sebenarnya yang beria itu cikgu-cikgu yang jemput dia kan? Ha.
 
-[158:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
+[2:38:11] Rafizi Ramli: Lamanya kata nak sekejap saja.
 
-[158:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
+[2:38:15] Haziq Azfar: Sorry sorry sorry satu lagi. Because I, I, I teringat balik apa bualan
 
-[158:19] Haziq Azfar: Kau ada share dalam Beria ke?
+[2:38:19] Haziq Azfar: Kau ada share dalam Beria ke?
 
-[158:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
+[2:38:20] Rafizi Ramli: Tak tak tak ada. I teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun
 
-[158:33] Haziq Azfar: Saya rasa dia nak jadi idola.
+[2:38:33] Haziq Azfar: Saya rasa dia nak jadi idola.
 
-[158:35] Rafizi Ramli: Mhm.
+[2:38:35] Rafizi Ramli: Mhm.
 
-[158:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
+[2:38:36] Haziq Azfar: In fact, kadang-kadang what we need more in society is less of you know, idols, more of people who actually do it. Ha kan, jadi.
 
-[158:52] Rafizi Ramli: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what
+[2:38:52] Rafizi Ramli: Jadi apa nama ni, bagus dari segi orang boleh dapatkan inspirasilah kan tapi inspirasi tu kalau setakat, oh saya jadi fan awak, what

@@ -38,10 +38,10 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
   - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20510 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
 - [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
-  - raw.md has 6 duplicate block(s) repeated verbatim at different timestamps (3320 chars, 6% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
+  - models: raw.md=gemini-3.7-flash
 - [ ] **2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi**
   - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
@@ -74,7 +74,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
 - [ ] **2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-**
-  - raw.md has 151 duplicate block(s) repeated verbatim at different timestamps (157181 chars, 23% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 151 duplicate block(s) repeated verbatim at different timestamps (157282 chars, 23% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - interview.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.02 vs raw.md, expected >= 0.35)

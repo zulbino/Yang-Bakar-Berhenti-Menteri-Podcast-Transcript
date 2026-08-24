@@ -653,275 +653,275 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:16] Rafizi Ramli: Kecualilah dia berlaku di belakang saya maksudnya dia bukan bantahan itu berlaku bukan di kabinet kan. Pengalaman sayalah kan, sebenarnya UMNO ni dia bukan bantah semua tau. Okey, ini kawan-kawan UMNO jangan marah eh. I will say you know, my assessment of UMNO kan. UMNO is in the game for power daripada dulu sampai sekaranglah kan. And for that matter, any political party. Tapi UMNO lebih lama, jadi dia tahu dynamics of power tu lebih lebih apa nama ni baik kan. UMNO juga tahu contohnya constituents dia, untuk constituents tradisi dia iaitu Melayu kampung semua ni is a tough battle. Sebab ada PAS, ada PN kan. Dan dan apa dia dia nak contest dari segi Melayu tu not that easy sebab ada DAP dalam bersama kan. Jadi they are looking for constituent baru. Constituent baru ini adalah constituent yang UMNO dulu pernah ada tapi hilang. Contohnya Melayu bandar, contohnya non-Malay, contohnya the the educated yang over the years pergi kepada PKR, PH ni kan. Jadi sebenarnya apa-apa yang bagi popular, kerajaan ini popular kepada constituents yang dia nak fokus ni, UMNO okey. Saya tak nampak UMNO ada masalah. Dan saya tak ingat sangat pun UMNO bantah tau benda-benda yang yang some of it tu radikal yang saya bawa. Cuma Datuk Seri Anwar mungkin kalau dia ada kat sini dia kata, "Yalah dia tak bantah depan you, dia bantah belakang you," kan? Kadang-kadang saya dengar yang itulah when I question kan kenapa dia kata, "Yalah dia orang tak setuju, dia datang jumpa saya." But on record, officially, saya I think we have to correct kalau orang kata the pace of reform ini perlahan disebabkan oleh UMNO. Scapegoating UMNO will not save PKR and PH tau of this question of reform.
 
-[61:23] Iqbal Fatkhi: Okey, so let me be specific about what I mean by the pace of reforms ni slow. Kita boleh lihat dari janji-janji manifesto GE15. Contohnya pemisahan AG dan Pendakwa Raya, contohnya nomination untuk ketua MACC, SPRM. Janji-janji ni adakah bila orang cakap adakah UMNO yang jadi stumbling block daripada semua janji-janji ni dilaksanakan? Ini bukan Ini that's not the case?
+[1:01:23] Iqbal Fatkhi: Okey, so let me be specific about what I mean by the pace of reforms ni slow. Kita boleh lihat dari janji-janji manifesto GE15. Contohnya pemisahan AG dan Pendakwa Raya, contohnya nomination untuk ketua MACC, SPRM. Janji-janji ni adakah bila orang cakap adakah UMNO yang jadi stumbling block daripada semua janji-janji ni dilaksanakan? Ini bukan Ini that's not the case?
 
-[62:00] Rafizi Ramli: Dia tak okey. Kalau pemisahan di antara kuasa pendakwaan daripada kerajaan itu, itu telah dibawa dan semua bersetuju.
+[1:02:00] Rafizi Ramli: Dia tak okey. Kalau pemisahan di antara kuasa pendakwaan daripada kerajaan itu, itu telah dibawa dan semua bersetuju.
 
-[62:10] Iqbal Fatkhi: Okey, so what's the hold up?
+[1:02:10] Iqbal Fatkhi: Okey, so what's the hold up?
 
-[62:12] Rafizi Ramli: Cuma cuma kalau orang tak berpuas hati adalah the pace lah kerana proses untuk menggubal undang-undang semua tu dijangka ambil masa dua tiga tahun. Which, okey ah, okey, which by government standard sebelum ini dan sekarang is acceptable. Kerana pengalaman saya ialah untuk buat satu akta tu, selalunya 3-4 tahun. So in my case untuk saya you know, Akta CCUS tu kami bangunkan dalam tempoh 11 bulan. Tapi memang berdarah hidunglah nak buat 11 bulan tu. Kan, it's not easy kan. Jadi kan jadi untuk untuk sesuatu yang sebesar itu, pemisahan kuasa pendakwaan ini melibatkan semakan daripada perlembagaan dan semua undang-undang yang ada.
+[1:02:12] Rafizi Ramli: Cuma cuma kalau orang tak berpuas hati adalah the pace lah kerana proses untuk menggubal undang-undang semua tu dijangka ambil masa dua tiga tahun. Which, okey ah, okey, which by government standard sebelum ini dan sekarang is acceptable. Kerana pengalaman saya ialah untuk buat satu akta tu, selalunya 3-4 tahun. So in my case untuk saya you know, Akta CCUS tu kami bangunkan dalam tempoh 11 bulan. Tapi memang berdarah hidunglah nak buat 11 bulan tu. Kan, it's not easy kan. Jadi kan jadi untuk untuk sesuatu yang sebesar itu, pemisahan kuasa pendakwaan ini melibatkan semakan daripada perlembagaan dan semua undang-undang yang ada.
 
-[63:06] Chak Onn Lau: Okey. So ada ada cerita tak YB like mungkin one of the campaign promises dekat sini yang YB cuba menjadikan akta, tapi dalam Kerajaan Perpaduan ni tak jadi?
+[1:03:06] Chak Onn Lau: Okey. So ada ada cerita tak YB like mungkin one of the campaign promises dekat sini yang YB cuba menjadikan akta, tapi dalam Kerajaan Perpaduan ni tak jadi?
 
-[63:20] Rafizi Ramli: Tak ada satu pun janji tu di bawah bidang tugas Kementerian Ekonomi. Dan you tak boleh kacau kementerian lain! I mean, I mean you are such a lousy minister kalau dalam kabinet, you ada portfolio you, portfolio kau kau tak buat apa-apa, kau sibuk kacau portfolio orang lain. Okey kan. So itu itu satu pendakwaan kan. I think isu dia kalau ditanya adakah bantangan, tak ada. Memang dah ada keputusan kabinet pun untuk itu berlaku. But whether or not you can do it in one year or two years instead of three or four years, yang itu yang bagi saya perhaps we could have speeded it up a bit lah.
+[1:03:20] Rafizi Ramli: Tak ada satu pun janji tu di bawah bidang tugas Kementerian Ekonomi. Dan you tak boleh kacau kementerian lain! I mean, I mean you are such a lousy minister kalau dalam kabinet, you ada portfolio you, portfolio kau kau tak buat apa-apa, kau sibuk kacau portfolio orang lain. Okey kan. So itu itu satu pendakwaan kan. I think isu dia kalau ditanya adakah bantangan, tak ada. Memang dah ada keputusan kabinet pun untuk itu berlaku. But whether or not you can do it in one year or two years instead of three or four years, yang itu yang bagi saya perhaps we could have speeded it up a bit lah.
 
-[64:01] Iqbal Fatkhi: Okey, so contohnya kalau lantikan politik dan semua patutnya melalui satu jawatankuasa khas parlimen, adakah itu juga alasannya?
+[1:04:01] Iqbal Fatkhi: Okey, so contohnya kalau lantikan politik dan semua patutnya melalui satu jawatankuasa khas parlimen, adakah itu juga alasannya?
 
-[64:08] Rafizi Ramli: Itu tak itu tak pernah dibawa.
+[1:04:08] Rafizi Ramli: Itu tak itu tak pernah dibawa.
 
-[64:10] Iqbal Fatkhi: Okey, so apa masalah benda macam tu?
+[1:04:10] Iqbal Fatkhi: Okey, so apa masalah benda macam tu?
 
-[64:12] Rafizi Ramli: Sebabnya begini kan, sesuatu perubahan itu mesti dibawa oleh kementerian masing-masing.
+[1:04:12] Rafizi Ramli: Sebabnya begini kan, sesuatu perubahan itu mesti dibawa oleh kementerian masing-masing.
 
-[64:19] Iqbal Fatkhi: Okey.
+[1:04:19] Iqbal Fatkhi: Okey.
 
-[64:20] Rafizi Ramli: Kecuali disuruh oleh Perdana Menteri. Dan pelantikan contohnya Ketua Pesuruhjaya MACC ke semua ni kan, itu semua kuasa Perdana Menteri. Jadi kalau Perdana Menteri tak bawa, selain daripada kita boleh sebut sana sini di dalam mesyuarat parti ke apa, yalah dia dia mati di situlah. Sebab itu saya rasa sebahagian itu Datuk Seri Anwar kena jawab. To to put the blame on UMNO ke apa sebenarnya tidak tidak adillah. Of course kalau tanya Datuk Seri Anwar, dia ada alasan dialah kan. Setiap satu ini contohnya kalau perlembagaannya kata begini, kalau MACC tu sebenarnya I don't think it's perlembagaan, dia akta pun. So dia tidak memerlukan pindaan perlembagaan kan, tapi kalau akta kan. Tapi yalah, dia kena ambil pandangan pemegang taruh yang lain: Majlis Raja-Raja, Agong, yang lain semua tu kan. But I still think lah, at the very least perkara itu boleh dibincangkan. Tapi memang tak dibawalah. Jadi kecuali you nak bergaduh dengan PM tanya, "Kenapa tak bawa yang tu? Kenapa tak bawa yang ini?" dan sebagainyalah.
+[1:04:20] Rafizi Ramli: Kecuali disuruh oleh Perdana Menteri. Dan pelantikan contohnya Ketua Pesuruhjaya MACC ke semua ni kan, itu semua kuasa Perdana Menteri. Jadi kalau Perdana Menteri tak bawa, selain daripada kita boleh sebut sana sini di dalam mesyuarat parti ke apa, yalah dia dia mati di situlah. Sebab itu saya rasa sebahagian itu Datuk Seri Anwar kena jawab. To to put the blame on UMNO ke apa sebenarnya tidak tidak adillah. Of course kalau tanya Datuk Seri Anwar, dia ada alasan dialah kan. Setiap satu ini contohnya kalau perlembagaannya kata begini, kalau MACC tu sebenarnya I don't think it's perlembagaan, dia akta pun. So dia tidak memerlukan pindaan perlembagaan kan, tapi kalau akta kan. Tapi yalah, dia kena ambil pandangan pemegang taruh yang lain: Majlis Raja-Raja, Agong, yang lain semua tu kan. But I still think lah, at the very least perkara itu boleh dibincangkan. Tapi memang tak dibawalah. Jadi kecuali you nak bergaduh dengan PM tanya, "Kenapa tak bawa yang tu? Kenapa tak bawa yang ini?" dan sebagainyalah.
 
-[65:34] Chak Onn Lau: So YB Nik kata it's collective what ah? Collective...
+[1:05:34] Chak Onn Lau: So YB Nik kata it's collective what ah? Collective...
 
-[65:37] Iqbal Fatkhi: Collective responsibility.
+[1:05:37] Iqbal Fatkhi: Collective responsibility.
 
-[65:38] Chak Onn Lau: Ha collective responsibility.
+[1:05:38] Chak Onn Lau: Ha collective responsibility.
 
-[65:39] Iqbal Fatkhi: Jadi jadi okey, then bertanya sebagai seorang pengundi yang masa saya pergi ke masa saya letak saya punya vote kat kotak mengundi tu, ini benda-benda yang saya telah mengharapkan masa tu. Adakah saya boleh berpegang kepada memegang pada harapan-harapan tu ataupun adakah saya patut lepaskan aje benda-benda macam tu?
+[1:05:39] Iqbal Fatkhi: Jadi jadi okey, then bertanya sebagai seorang pengundi yang masa saya pergi ke masa saya letak saya punya vote kat kotak mengundi tu, ini benda-benda yang saya telah mengharapkan masa tu. Adakah saya boleh berpegang kepada memegang pada harapan-harapan tu ataupun adakah saya patut lepaskan aje benda-benda macam tu?
 
-[66:01] Rafizi Ramli: No no, I think I think it's good what is happening sekarang. Maksudnya kerajaan ni dia nak kena imbangkan tuntutan semua pihak. Dalam masyarakat ada macam-macam kumpulan kan. Kamu ni Bangsar contohnya kan. Bangsar satu grup, Klang satu grup semua kan. Of course kerajaan boleh kata, "Oh kita nak kena imbangkan dan kita nak beri keutamaan kepada perkara-perkara lain. Jadi kita buat yang ini dulu sebelum yang itu," semua kan. Tapi...
+[1:06:01] Rafizi Ramli: No no, I think I think it's good what is happening sekarang. Maksudnya kerajaan ni dia nak kena imbangkan tuntutan semua pihak. Dalam masyarakat ada macam-macam kumpulan kan. Kamu ni Bangsar contohnya kan. Bangsar satu grup, Klang satu grup semua kan. Of course kerajaan boleh kata, "Oh kita nak kena imbangkan dan kita nak beri keutamaan kepada perkara-perkara lain. Jadi kita buat yang ini dulu sebelum yang itu," semua kan. Tapi...
 
-[66:35] Iqbal Fatkhi: Jadi apa apa fokus kerajaan sekarang?
+[1:06:35] Iqbal Fatkhi: Jadi apa apa fokus kerajaan sekarang?
 
-[66:37] Rafizi Ramli: Di pihak rakyat, di pihak rakyat, setiap kumpulan itu berhak untuk menuntut apa yang penting untuk dia. Dan yang mana yang hendak diutamakan, dicepatkan itu, kalau tinggalkan kepada orang politik semata-mata, maka akan ada yang tercecirlah. Jadi keadaan yang sekarang ini saya rasa memanglah akan ada bising sana, bising sini, orang tu tak puas hati semua kan. Dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas tiket reform. You kena imbangkan. Dan kalau kalau saya jadi rakyat atau kumpulan pun, saya akan rasa macam macam ini, suruh bayar. Because bila dah menang, saya punya isu ni paling bawah sekali. I want isu I ini dinaikkan ke atas kan. So I think the pressure dan juga the discourse must continue.
+[1:06:37] Rafizi Ramli: Di pihak rakyat, di pihak rakyat, setiap kumpulan itu berhak untuk menuntut apa yang penting untuk dia. Dan yang mana yang hendak diutamakan, dicepatkan itu, kalau tinggalkan kepada orang politik semata-mata, maka akan ada yang tercecirlah. Jadi keadaan yang sekarang ini saya rasa memanglah akan ada bising sana, bising sini, orang tu tak puas hati semua kan. Dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas tiket reform. You kena imbangkan. Dan kalau kalau saya jadi rakyat atau kumpulan pun, saya akan rasa macam macam ini, suruh bayar. Because bila dah menang, saya punya isu ni paling bawah sekali. I want isu I ini dinaikkan ke atas kan. So I think the pressure dan juga the discourse must continue.
 
-[67:37] Iqbal Fatkhi: Okey. Tadi kita ada minta YB mungkin bagi gred gred gred sebagai jiwa pensyarah tu untuk gred setiap prestasi ahli-ahli menteri. Mungkin dan kita boleh masuk kepada soalan-soalan polisi. Berdasarkan...
+[1:07:37] Iqbal Fatkhi: Okey. Tadi kita ada minta YB mungkin bagi gred gred gred sebagai jiwa pensyarah tu untuk gred setiap prestasi ahli-ahli menteri. Mungkin dan kita boleh masuk kepada soalan-soalan polisi. Berdasarkan...
 
-[67:53] Chak Onn Lau: Yang mana?
+[1:07:53] Chak Onn Lau: Yang mana?
 
-[67:54] Iqbal Fatkhi: Next question.
+[1:07:54] Iqbal Fatkhi: Next question.
 
-[67:54] Chak Onn Lau: Oh next ah, sorry.
+[1:07:54] Chak Onn Lau: Oh next ah, sorry.
 
-[67:55] Iqbal Fatkhi: If we go into the policy questions, setakat ni bila kita bincang pasal polisi-polisi yang akan ataupun sedang ataupun telah dilaksanakan, adakah pace kerja kerajaan selama ni okey?
+[1:07:55] Iqbal Fatkhi: If we go into the policy questions, setakat ni bila kita bincang pasal polisi-polisi yang akan ataupun sedang ataupun telah dilaksanakan, adakah pace kerja kerajaan selama ni okey?
 
-[68:10] Rafizi Ramli: No, saya rasa perlahan.
+[1:08:10] Rafizi Ramli: No, saya rasa perlahan.
 
-[68:12] Iqbal Fatkhi: Okey.
+[1:08:12] Iqbal Fatkhi: Okey.
 
-[68:13] Rafizi Ramli: Saya rasa perlahan.
+[1:08:13] Rafizi Ramli: Saya rasa perlahan.
 
-[68:14] Iqbal Fatkhi: Jadi di mana kenapa perlahan?
+[1:08:14] Iqbal Fatkhi: Jadi di mana kenapa perlahan?
 
-[68:16] Rafizi Ramli: It's a combination of issues lah. Ini yang yang kira momentum yang saya set untuk diri saya sendiri masa saya mula-mula ambil alih tugas kan. Kita ada 5 tahun untuk satu penggal kerajaan kan. Apa-apa perubahan dasar dan visi yang nak dibuat itu mestilah diusahakan dalam dua tahun pertama supaya sebab lepas dulu-dulu, you kena laksana. Tak, you kena laksana lepas tu kan. So you nak ubah undang-undang ke, you nak lancar benda baru semua, you ubah buat dua tahun pertama supaya lepas itu dia mula ada bekas, ada kesan dia kepada rakyatlah kan yang ekonominya, yang undang-undangnya supaya baki tiga tahun itu you fokus kepada pelaksanaan kan. Tapi sebab masing-masing saya ingat bergantung kepada kementerian masing-masing, menteri masing-masing, juga kepada Perdana Menteri kan. Saya rasa dalam dua tahun pertama tu, ada menteri yang masih lagi mencari rhythm. Kemudian dia pun on a learning curve kan, dia pun nak belajar semua ni. Jadi perkara-perkara yang sepatutnya bagi sayalah menetapkan rentak tu daripada awal, dia terpulang kepada kementerian masing-masing. Tu yang pertama kan. Kedua, perkara-perkara reform yang besar contohnya dari segi lantikan dan sebagainya ini pun sama. Yang itu tak boleh tunggu lama sebab orang akan tuntut. Lepas satu tahun bla bla bla, kemudian kita ada pula kes macam Tan Sri Azam Baki sambung, sambung, sambung kan. Jadi dia memang orang akan marahlah. Dan benda-benda itu sepatutnya perkara yang berada di dalam kawalan Perdana Menteri yang perlu dibuat dalam tempoh yang dua tahun pertama yang by now we know lah itu tak tak semuanya berlakulah.
+[1:08:16] Rafizi Ramli: It's a combination of issues lah. Ini yang yang kira momentum yang saya set untuk diri saya sendiri masa saya mula-mula ambil alih tugas kan. Kita ada 5 tahun untuk satu penggal kerajaan kan. Apa-apa perubahan dasar dan visi yang nak dibuat itu mestilah diusahakan dalam dua tahun pertama supaya sebab lepas dulu-dulu, you kena laksana. Tak, you kena laksana lepas tu kan. So you nak ubah undang-undang ke, you nak lancar benda baru semua, you ubah buat dua tahun pertama supaya lepas itu dia mula ada bekas, ada kesan dia kepada rakyatlah kan yang ekonominya, yang undang-undangnya supaya baki tiga tahun itu you fokus kepada pelaksanaan kan. Tapi sebab masing-masing saya ingat bergantung kepada kementerian masing-masing, menteri masing-masing, juga kepada Perdana Menteri kan. Saya rasa dalam dua tahun pertama tu, ada menteri yang masih lagi mencari rhythm. Kemudian dia pun on a learning curve kan, dia pun nak belajar semua ni. Jadi perkara-perkara yang sepatutnya bagi sayalah menetapkan rentak tu daripada awal, dia terpulang kepada kementerian masing-masing. Tu yang pertama kan. Kedua, perkara-perkara reform yang besar contohnya dari segi lantikan dan sebagainya ini pun sama. Yang itu tak boleh tunggu lama sebab orang akan tuntut. Lepas satu tahun bla bla bla, kemudian kita ada pula kes macam Tan Sri Azam Baki sambung, sambung, sambung kan. Jadi dia memang orang akan marahlah. Dan benda-benda itu sepatutnya perkara yang berada di dalam kawalan Perdana Menteri yang perlu dibuat dalam tempoh yang dua tahun pertama yang by now we know lah itu tak tak semuanya berlakulah.
 
-[70:17] Chak Onn Lau: So untuk meningkatkan pemahaman dynamic ni kan, so contohnya macam PADU, okey, that initiative memang datang dari department from your ministry kan? So lepas tu ada like hantar email kepada PM dulu ke atau hantar email kepada kabinet and then dapat konsensus or bantahan, is that the dynamic atau you are free to do whatever you want to do?
+[1:10:17] Chak Onn Lau: So untuk meningkatkan pemahaman dynamic ni kan, so contohnya macam PADU, okey, that initiative memang datang dari department from your ministry kan? So lepas tu ada like hantar email kepada PM dulu ke atau hantar email kepada kabinet and then dapat konsensus or bantahan, is that the dynamic atau you are free to do whatever you want to do?
 
-[70:45] Rafizi Ramli: No no, tak. Apabila sesuatu keputusan itu melibatkan dasar atau akta yang perlu ditukar ataupun melibatkan kementerian-kementerian lain, bidang kuasa orang lain, you kena bawa kat kabinet. Jadi dalam kes PADU contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Bila dipersetujui di Majlis Tindakan Ekonomi Negara, bawa ke kabinet, kabinet setuju. Jadi semua setuju, tak ada yang tak setuju tau. Tapi budaya kita negara Malaysia ni macam saya katalah, dia setuju depan, sabotaj belakang.
+[1:10:45] Rafizi Ramli: No no, tak. Apabila sesuatu keputusan itu melibatkan dasar atau akta yang perlu ditukar ataupun melibatkan kementerian-kementerian lain, bidang kuasa orang lain, you kena bawa kat kabinet. Jadi dalam kes PADU contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Bila dipersetujui di Majlis Tindakan Ekonomi Negara, bawa ke kabinet, kabinet setuju. Jadi semua setuju, tak ada yang tak setuju tau. Tapi budaya kita negara Malaysia ni macam saya katalah, dia setuju depan, sabotaj belakang.
 
-[71:26] Iqbal Fatkhi: Okey, so then cuba terangkan sikit ada...
+[1:11:26] Iqbal Fatkhi: Okey, so then cuba terangkan sikit ada...
 
-[71:27] Chak Onn Lau: Semua orang sabotajlah.
+[1:11:27] Chak Onn Lau: Semua orang sabotajlah.
 
-[71:29] Iqbal Fatkhi: Ada ada orang tanya apa status PADU sekarang then?
+[1:11:29] Iqbal Fatkhi: Ada ada orang tanya apa status PADU sekarang then?
 
-[71:32] Rafizi Ramli: Status PADU beroperasi 100% lah.
+[1:11:32] Rafizi Ramli: Status PADU beroperasi 100% lah.
 
-[71:37] Rafizi Ramli: PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, actually dari segi kos more than anything else yang mungkin rakyat di luar tak faham.
+[1:11:37] Rafizi Ramli: PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, actually dari segi kos more than anything else yang mungkin rakyat di luar tak faham.
 
-[71:57] Iqbal Fatkhi: What does that mean? Apa maksud tu?
+[1:11:57] Iqbal Fatkhi: What does that mean? Apa maksud tu?
 
-[71:58] Rafizi Ramli: Contohnya kan, kerajaan belanja setiap tahun lebih kurang 13 bilion tau untuk IT system. Lebih kurang 7 bilion sebagai capex, lebih kurang 6 bilion sebagai opex kan. Kenapa dia terus naik dari satu tahun ke satu tahun ini ialah kerana sistem-sistem ini tidak integrated. Setiap satu kementerian ke jabatan, dia nak buat sistem, dia buat from scratch. If you know how to develop system lah, doing it from scratch tu maksudnya back end you kena buat balik, front end semua. And back end to forms quite a big chunk of that expenditure. And then you go through the same process. You nak suruh orang mendaftarlah, kemudian you belanja untuk promosi dan sebagainya. Semua maklumat ni ada dalam kerajaan. Cuma undang-undang tidak membenarkan perkongsian.
+[1:11:58] Rafizi Ramli: Contohnya kan, kerajaan belanja setiap tahun lebih kurang 13 bilion tau untuk IT system. Lebih kurang 7 bilion sebagai capex, lebih kurang 6 bilion sebagai opex kan. Kenapa dia terus naik dari satu tahun ke satu tahun ini ialah kerana sistem-sistem ini tidak integrated. Setiap satu kementerian ke jabatan, dia nak buat sistem, dia buat from scratch. If you know how to develop system lah, doing it from scratch tu maksudnya back end you kena buat balik, front end semua. And back end to forms quite a big chunk of that expenditure. And then you go through the same process. You nak suruh orang mendaftarlah, kemudian you belanja untuk promosi dan sebagainya. Semua maklumat ni ada dalam kerajaan. Cuma undang-undang tidak membenarkan perkongsian.
 
-[72:51] Chak Onn Lau: Oh!
+[1:12:51] Chak Onn Lau: Oh!
 
-[72:51] Rafizi Ramli: Tak boleh! Undang-undang tak membenarkan perkongsian.
+[1:12:51] Rafizi Ramli: Tak boleh! Undang-undang tak membenarkan perkongsian.
 
-[72:53] Chak Onn Lau: I didn't know that.
+[1:12:53] Chak Onn Lau: I didn't know that.
 
-[72:55] Iqbal Fatkhi: So bukankah itu cuma then a matter of fixing the akta?
+[1:12:55] Iqbal Fatkhi: So bukankah itu cuma then a matter of fixing the akta?
 
-[72:58] Rafizi Ramli: Oh no no, it's a lot more complicated than that. So pertama, undang-undang Kenapa menggabungkan data dalam sistem kerajaan ni hanya berlaku sekarang, tak pernah berlaku sebelum ini? Takkanlah kerajaan sebelum ni tak terfikir nak buat ni? Memang dia orang terfikir, tapi dia give up. Sebab dia perlu tukar undang-undang, kemudian dia kena apa nama ni combine semua data ni kan.
+[1:12:58] Rafizi Ramli: Oh no no, it's a lot more complicated than that. So pertama, undang-undang Kenapa menggabungkan data dalam sistem kerajaan ni hanya berlaku sekarang, tak pernah berlaku sebelum ini? Takkanlah kerajaan sebelum ni tak terfikir nak buat ni? Memang dia orang terfikir, tapi dia give up. Sebab dia perlu tukar undang-undang, kemudian dia kena apa nama ni combine semua data ni kan.
 
-[73:24] Chak Onn Lau: Wait, so dalam akta ada sebut tak boleh kongsi data dengan...
+[1:13:24] Chak Onn Lau: Wait, so dalam akta ada sebut tak boleh kongsi data dengan...
 
-[73:28] Rafizi Ramli: Yap, yap, yap, betul.
+[1:13:28] Rafizi Ramli: Yap, yap, yap, betul.
 
-[73:30] Iqbal Fatkhi: Apa contoh sebabnya sebelum ni?
+[1:13:30] Iqbal Fatkhi: Apa contoh sebabnya sebelum ni?
 
-[73:32] Rafizi Ramli: Ya, sebab privacy.
+[1:13:32] Rafizi Ramli: Ya, sebab privacy.
 
-[73:33] Iqbal Fatkhi: Oh.
+[1:13:33] Iqbal Fatkhi: Oh.
 
-[73:34] Chak Onn Lau: PDPA?
+[1:13:34] Chak Onn Lau: PDPA?
 
-[73:35] Rafizi Ramli: No no, PDPA came much later. Contohnya bila Akta Pendaftaran yang bidang kuasanya ialah Jabatan Pendaftaran Negara kan, bila kita daftar IC...
+[1:13:35] Rafizi Ramli: No no, PDPA came much later. Contohnya bila Akta Pendaftaran yang bidang kuasanya ialah Jabatan Pendaftaran Negara kan, bila kita daftar IC...
 
-[73:47] Chak Onn Lau: Census lah eh?
+[1:13:47] Chak Onn Lau: Census lah eh?
 
-[73:47] Rafizi Ramli: No no no, IC IC. IC semua kan, surat lahir semua ni kan, surat beranak semua kan. Akta itu memberi kuasa untuk mengumpul data dan maklumat itu hanya kepada Jabatan Pendidikan pendaftaran negara. Dan akta secara spesifik, tak boleh kongsi! Begitulah bagi setiap satu kan. Jadi then you have to pass the hurdle. Sebab itu dia perlukan satu keputusan dasar: kerajaan nak kongsi data and we want to pool all the data. Hence PADU lah kan. Of course lepas itu kita ada apa nama ni Akta Omnibus, Akta Perkongsian Data tu dah ada. Kemudian once itu dah ada, then you actually have to do it pula. Sebabnya kalaulah kita database semua lain you nak combine semua. Kalaulah kita ada satu pangkalan data integrated back end satu kan, setiap lepas ini setiap satu app atau sistem yang baru, dia hanya fokus kepada front end. Dia hanya fokus kepada the skin sahaja because then you draw the same data daripada situ. Kemudian kepada pengguna, takkan kat JPJ daftar sekali, Jabatan Pendaftaran sekali semua kan. I mean, we complain about it. Tapi bila buat PADU, urbanites macam kau orang juga yang duk bisingnya!
+[1:13:47] Rafizi Ramli: No no no, IC IC. IC semua kan, surat lahir semua ni kan, surat beranak semua kan. Akta itu memberi kuasa untuk mengumpul data dan maklumat itu hanya kepada Jabatan Pendidikan pendaftaran negara. Dan akta secara spesifik, tak boleh kongsi! Begitulah bagi setiap satu kan. Jadi then you have to pass the hurdle. Sebab itu dia perlukan satu keputusan dasar: kerajaan nak kongsi data and we want to pool all the data. Hence PADU lah kan. Of course lepas itu kita ada apa nama ni Akta Omnibus, Akta Perkongsian Data tu dah ada. Kemudian once itu dah ada, then you actually have to do it pula. Sebabnya kalaulah kita database semua lain you nak combine semua. Kalaulah kita ada satu pangkalan data integrated back end satu kan, setiap lepas ini setiap satu app atau sistem yang baru, dia hanya fokus kepada front end. Dia hanya fokus kepada the skin sahaja because then you draw the same data daripada situ. Kemudian kepada pengguna, takkan kat JPJ daftar sekali, Jabatan Pendaftaran sekali semua kan. I mean, we complain about it. Tapi bila buat PADU, urbanites macam kau orang juga yang duk bisingnya!
 
-[75:07] Chak Onn Lau: Kerana dia ada isu timing waktu tu. Kerana dia timing sama dengan apa ni the announcement for the petrol subsidy removal juga.
+[1:15:07] Chak Onn Lau: Kerana dia ada isu timing waktu tu. Kerana dia timing sama dengan apa ni the announcement for the petrol subsidy removal juga.
 
 [57:17] Rafizi Ramli: Is it? That that's the thing, okey. Okey, so orang tanya apa jadi macam PADU kan dengan PADU. Actually once you have all this detail daripada semua jabatan kerajaan dan kita buka untuk bagi peluang kepada rakyat kemas kini because government already has your data tau. Daripada LHDN lah, daripada EPF, we know. Government tahu berapa gaji you semua ni kan. Tapi untuk you tambah atau perbetulkan, kalau tidak orang kata data salah kan. Jadi bila kita buka, so the first use case once you have all that, sebenarnya that is the most accurate data of socio-economic standing of any family. So kalau you nak buat penyasaran semula subsidi yang betul-betul tepat, itulah yang ada, data itulah yang ada kan. Jadi bab itu, so it's not a question of PADU, it's a question of use cases. Jadi use case yang paling besar yang sepatutnya digunakan ialah untuk penyasaran semula subsidilah. MOF tak bersetuju. MOF nak pakai dia punya.
 
-[76:21] Iqbal Fatkhi: Kenapa?
+[1:16:21] Iqbal Fatkhi: Kenapa?
 
-[76:22] Rafizi Ramli: Well, I think it's partly politics, partly you know. Okey, you kena ingat eh, kalau kenapa PADU ni dalam kerajaan ni dia ada banyak tentangan? Sebabnya bajet untuk bantuan-bantuan semua ni yang yang diagihkan oleh pelbagai jabatan yang ada ni, kerajaan ada sekitar 217 bentuk bantuan tunai tau. 217 kan. Bajet dia I think is about 26 billion. The moment and then the idea of PADU ialah bila dah ada centralized, tak payahlah 5, 6, 7 jabatan bagi asing-asing ni because bila you bagi asing-asing ni, you ada exclusion error, you ada inclusion error. Ada orang dapat empat, ada orang tak dapat langsung sebab data asing-asing ni kan. You have one full snapshot, then instead of bagi sikit sikit sikit, you bagi banyak sekali go, tapi orang yang tak dapat tak dapatlah, orang yang dapat kan. Jadi I think that frightens a lot of people lah.
+[1:16:22] Rafizi Ramli: Well, I think it's partly politics, partly you know. Okey, you kena ingat eh, kalau kenapa PADU ni dalam kerajaan ni dia ada banyak tentangan? Sebabnya bajet untuk bantuan-bantuan semua ni yang yang diagihkan oleh pelbagai jabatan yang ada ni, kerajaan ada sekitar 217 bentuk bantuan tunai tau. 217 kan. Bajet dia I think is about 26 billion. The moment and then the idea of PADU ialah bila dah ada centralized, tak payahlah 5, 6, 7 jabatan bagi asing-asing ni because bila you bagi asing-asing ni, you ada exclusion error, you ada inclusion error. Ada orang dapat empat, ada orang tak dapat langsung sebab data asing-asing ni kan. You have one full snapshot, then instead of bagi sikit sikit sikit, you bagi banyak sekali go, tapi orang yang tak dapat tak dapatlah, orang yang dapat kan. Jadi I think that frightens a lot of people lah.
 
-[77:22] Chak Onn Lau: Kenapa?
+[1:17:22] Chak Onn Lau: Kenapa?
 
-[77:23] Rafizi Ramli: Yalah bajet dia lepas tu! Kalau sebelum ini saya ada satu unit, saya ada ini, saya ada bajet saya dalam 200 juta untuk bagi sekian sekian sekian, lepas ini semua ni dah didasentralize-kan melalui satu database sahaja. Itu bermakna hilang pengaruh, hilang kuasa, hilang bajet dan sebagainyalah.
+[1:17:23] Rafizi Ramli: Yalah bajet dia lepas tu! Kalau sebelum ini saya ada satu unit, saya ada ini, saya ada bajet saya dalam 200 juta untuk bagi sekian sekian sekian, lepas ini semua ni dah didasentralize-kan melalui satu database sahaja. Itu bermakna hilang pengaruh, hilang kuasa, hilang bajet dan sebagainyalah.
 
-[77:44] Iqbal Fatkhi: Periuk nasi ditutup.
+[1:17:44] Iqbal Fatkhi: Periuk nasi ditutup.
 
-[77:46] Rafizi Ramli: Ha, jadi jadi sebab itu bila nak laksana saja apa nama ni PADU tu, dia banyak tentangan. Ada juga tentangan yang rasa kalau buat penyasaran semula subsidi ni, kita akan kalah pilihan raya. Jadi DAP contohnya mati-matian tak bersetuju.
+[1:17:46] Rafizi Ramli: Ha, jadi jadi sebab itu bila nak laksana saja apa nama ni PADU tu, dia banyak tentangan. Ada juga tentangan yang rasa kalau buat penyasaran semula subsidi ni, kita akan kalah pilihan raya. Jadi DAP contohnya mati-matian tak bersetuju.
 
-[78:04] Iqbal Fatkhi: Okey jap, so ni mungkin soalan noob sikit. So contohnya this is a very concrete example of the top of my head. Kalau katakan saya nak bantuan dan saya boleh letak saya punya pendapatan, saya boleh kemas kini maklumat tu sendiri. Saya mungkin ada bisnes sendiri and setiap bulan gaji saya 10,000 tapi then saya just cakap gaji sebulan saya pendapatan sebulan saya 1,000 dan tak ada cara nak nak check benda tu sebab mungkin saya freelance. Ada bagaimanakah...
+[1:18:04] Iqbal Fatkhi: Okey jap, so ni mungkin soalan noob sikit. So contohnya this is a very concrete example of the top of my head. Kalau katakan saya nak bantuan dan saya boleh letak saya punya pendapatan, saya boleh kemas kini maklumat tu sendiri. Saya mungkin ada bisnes sendiri and setiap bulan gaji saya 10,000 tapi then saya just cakap gaji sebulan saya pendapatan sebulan saya 1,000 dan tak ada cara nak nak check benda tu sebab mungkin saya freelance. Ada bagaimanakah...
 
-[78:37] Chak Onn Lau: Ha soalan tambahan juga. Banyak orang kata tanya kan, T15, T10 ni macam mana nak semak?
+[1:18:37] Chak Onn Lau: Ha soalan tambahan juga. Banyak orang kata tanya kan, T15, T10 ni macam mana nak semak?
 
-[78:45] Rafizi Ramli: Dia dia actually kalau you're freelance, you still have to pay tax, you still file your LHDN. Jadi kalaupun tak ada dalam EPF, dia akan ada dalam LHDN. Dia yang betul-betul berisiko tidak ada maklumat daripada LHDN ataupun EPF hanyalah informal workers yang gaji bawah-bawah ni, 1,500, tapi orang ni besar kemungkinan memang layak untuk dapat bantuanlah. Tapi kalau orang yang memang ada pendapatan, it will appear somewhere. Sebab itu kita kena gabungkan semuanya. Jadi kalau dia misdeclare pun kan, memang ada algorithm yang tengok dia ni sekian sekian sekian, income dia dia kata 1,000, tapi kereta dia dia ada BMW, rumah dia dia banyak ni, dekat LHDN ada macam ini, dia dia punya last three years punya tax return. So the algorithm will automatically flag up sebenarnya.
+[1:18:45] Rafizi Ramli: Dia dia actually kalau you're freelance, you still have to pay tax, you still file your LHDN. Jadi kalaupun tak ada dalam EPF, dia akan ada dalam LHDN. Dia yang betul-betul berisiko tidak ada maklumat daripada LHDN ataupun EPF hanyalah informal workers yang gaji bawah-bawah ni, 1,500, tapi orang ni besar kemungkinan memang layak untuk dapat bantuanlah. Tapi kalau orang yang memang ada pendapatan, it will appear somewhere. Sebab itu kita kena gabungkan semuanya. Jadi kalau dia misdeclare pun kan, memang ada algorithm yang tengok dia ni sekian sekian sekian, income dia dia kata 1,000, tapi kereta dia dia ada BMW, rumah dia dia banyak ni, dekat LHDN ada macam ini, dia dia punya last three years punya tax return. So the algorithm will automatically flag up sebenarnya.
 
-[79:47] Chak Onn Lau: So PADU ada algorithm macam tu?
+[1:19:47] Chak Onn Lau: So PADU ada algorithm macam tu?
 
-[79:47] Rafizi Ramli: Ya, memang ada, ada. That's also part yang saya ingat ada setengah orang tak suka PADU lah. Maksudnya dia dia dia they fear the transparency. They fear that, "Alamak, lepas ni kerajaan tahu aku misdeclare ke, underdeclare ke apa semua ni," kan. Jadi ada juga orang terutamanya orang bandarlah yang melihat PADU ni sebagai satu cara untuk kerajaan kejar orang bayar tax. Kan? So ada yang macam tu kan. Jadi opposition kepada PADU ni dia banyak pelbagai-bagai. Dalam kerajaan ada jenis bentuk lain, orang ramai ada yang bentuk lain. Tapi as a country, kita tak boleh bergerak ke depan tanpa ada satu centralized database. And that job is done. Mana-mana kerajaan masuk lepas ni, cuci kaki aje. Dah ada dah. Cuma they just have to think the use cases nak buat macam mana. So sekarang ini PADU contohnya, memang dah ada beberapa use cases. Contohnya PTPTN, they are working on use case untuk dia nak pertimbangkan yang mana apa nama ni bayaran bulanan macam mana because you need to categorize into socio-economic groups kan. Then they fall back to PADU lah. Dan juga yang lain, and I think as we go along, setiap kali dia nak nak nak assess kedudukan kewangan ataupun sosioekonomi seseorang itu more fairly, they will fall back to PADU.
+[1:19:47] Rafizi Ramli: Ya, memang ada, ada. That's also part yang saya ingat ada setengah orang tak suka PADU lah. Maksudnya dia dia dia they fear the transparency. They fear that, "Alamak, lepas ni kerajaan tahu aku misdeclare ke, underdeclare ke apa semua ni," kan. Jadi ada juga orang terutamanya orang bandarlah yang melihat PADU ni sebagai satu cara untuk kerajaan kejar orang bayar tax. Kan? So ada yang macam tu kan. Jadi opposition kepada PADU ni dia banyak pelbagai-bagai. Dalam kerajaan ada jenis bentuk lain, orang ramai ada yang bentuk lain. Tapi as a country, kita tak boleh bergerak ke depan tanpa ada satu centralized database. And that job is done. Mana-mana kerajaan masuk lepas ni, cuci kaki aje. Dah ada dah. Cuma they just have to think the use cases nak buat macam mana. So sekarang ini PADU contohnya, memang dah ada beberapa use cases. Contohnya PTPTN, they are working on use case untuk dia nak pertimbangkan yang mana apa nama ni bayaran bulanan macam mana because you need to categorize into socio-economic groups kan. Then they fall back to PADU lah. Dan juga yang lain, and I think as we go along, setiap kali dia nak nak nak assess kedudukan kewangan ataupun sosioekonomi seseorang itu more fairly, they will fall back to PADU.
 
-[81:08] Chak Onn Lau: So okey, that was the question also from one of the people because cuba saya faham eh. So sekarang status PADU maknanya basis database semua dah ada yang boleh digunakan by each ministry lah. Tapi kegunaan tu belum siap lagi kan?
+[1:21:08] Chak Onn Lau: So okey, that was the question also from one of the people because cuba saya faham eh. So sekarang status PADU maknanya basis database semua dah ada yang boleh digunakan by each ministry lah. Tapi kegunaan tu belum siap lagi kan?
 
-[81:31] Rafizi Ramli: You mean use case?
+[1:21:31] Rafizi Ramli: You mean use case?
 
-[81:31] Chak Onn Lau: Maknanya use case lah. Untuk let's say for the petroleum subsidy...
+[1:21:31] Chak Onn Lau: Maknanya use case lah. Untuk let's say for the petroleum subsidy...
 
-[81:35] Rafizi Ramli: No no, use case yang tidak dipersetujui hanyalah untuk apa nama ni RON95. Especially bila PM dah pergi umum lepas ini tak ada penyasaran subsidi pun sebab harga memang turun kepada RM1.99 kepada semua. So there's no need database for it, semua orang akan dapat. Tapi untuk use cases yang lain yang orang ramai tak tahu, contohnya Kementerian Digital sedang membangunkan satu centralized aplikasi, app kan, apa ni I think MyGov.
+[1:21:35] Rafizi Ramli: No no, use case yang tidak dipersetujui hanyalah untuk apa nama ni RON95. Especially bila PM dah pergi umum lepas ini tak ada penyasaran subsidi pun sebab harga memang turun kepada RM1.99 kepada semua. So there's no need database for it, semua orang akan dapat. Tapi untuk use cases yang lain yang orang ramai tak tahu, contohnya Kementerian Digital sedang membangunkan satu centralized aplikasi, app kan, apa ni I think MyGov.
 
-[82:09] Chak Onn Lau: For what?
+[1:22:09] Chak Onn Lau: For what?
 
-[82:10] Rafizi Ramli: Because sekarang ni ada macam-macam and each one costs money. Kemudian tak update and then vendornya banyak and so on. And actually kepada rakyat, dia menyusahkan. You should just have one app yang semua ada kat situlah. And that's part and parcel of digitizing our government service kan. So apa nama ni Kementerian Digital when they have been developing it, I don't know bila dia nak launch, memanglah back end dia adalah PADU. Cuma we don't I mean, rakyat tak pergi dia nampak PADU ni seolah-olah RON95 saja. It's actually much much wider than that. Imagine you tak ada back end untuk your system. So PADU is the back end untuk government system, and it is done.
+[1:22:10] Rafizi Ramli: Because sekarang ni ada macam-macam and each one costs money. Kemudian tak update and then vendornya banyak and so on. And actually kepada rakyat, dia menyusahkan. You should just have one app yang semua ada kat situlah. And that's part and parcel of digitizing our government service kan. So apa nama ni Kementerian Digital when they have been developing it, I don't know bila dia nak launch, memanglah back end dia adalah PADU. Cuma we don't I mean, rakyat tak pergi dia nampak PADU ni seolah-olah RON95 saja. It's actually much much wider than that. Imagine you tak ada back end untuk your system. So PADU is the back end untuk government system, and it is done.
 
-[82:57] Chak Onn Lau: Okey, soalan terakhir tentang PADU kan. Maknanya sekarang YB telah basically your ministry has destroyed all the silos or after PADU exists, can MOF still maintain their silo? Can MOE still maintain their silo? Maknanya they ada data sendiri, tak payah plug into PADU.
+[1:22:57] Chak Onn Lau: Okey, soalan terakhir tentang PADU kan. Maknanya sekarang YB telah basically your ministry has destroyed all the silos or after PADU exists, can MOF still maintain their silo? Can MOE still maintain their silo? Maknanya they ada data sendiri, tak payah plug into PADU.
 
-[83:20] Rafizi Ramli: No, di di apa nama ni kementerian masing-masing masih ada apa nama ni database masing-masing.
+[1:23:20] Rafizi Ramli: No, di di apa nama ni kementerian masing-masing masih ada apa nama ni database masing-masing.
 
-[83:26] Chak Onn Lau: Okey.
+[1:23:26] Chak Onn Lau: Okey.
 
-[83:27] Rafizi Ramli: Sebabnya ialah bila kita buat PADU, bukannya kita hapuskan semua database yang lain, but it extracts, it integrates. So contohnya...
+[1:23:27] Rafizi Ramli: Sebabnya ialah bila kita buat PADU, bukannya kita hapuskan semua database yang lain, but it extracts, it integrates. So contohnya...
 
-[83:36] Chak Onn Lau: Only if they give it to you lah kan?
+[1:23:36] Chak Onn Lau: Only if they give it to you lah kan?
 
-[83:38] Rafizi Ramli: No, now because it's dasar, dia memang bagilah! Kan dah jadi dasar kerajaan untuk kita kongsi data dan gabungkan, dia kena bagilah. EPF bagi, LHDN bagi. Okey, now so database tu ada, dia orang punya pun ada. Kecuali untuk beberapa kementerian yang besarlah. Kementerian yang besar ni hanyalah yang banyak data ni contohnya hanyalah MOF, hanyalah contohnya KDN kan, Jabatan Pendaftaran Negara. Kementerian-kementerian lain, data dia kecil. Jadi memang it doesn't make sense for them to spend money ataupun nak bangunkan database dia because dia takkan dapat rival database PADU yang besar. So dia akan gunakan PADU lah. But but nothing stops them. Cuma sekarang yang mungkin pendengar tak faham...
+[1:23:38] Rafizi Ramli: No, now because it's dasar, dia memang bagilah! Kan dah jadi dasar kerajaan untuk kita kongsi data dan gabungkan, dia kena bagilah. EPF bagi, LHDN bagi. Okey, now so database tu ada, dia orang punya pun ada. Kecuali untuk beberapa kementerian yang besarlah. Kementerian yang besar ni hanyalah yang banyak data ni contohnya hanyalah MOF, hanyalah contohnya KDN kan, Jabatan Pendaftaran Negara. Kementerian-kementerian lain, data dia kecil. Jadi memang it doesn't make sense for them to spend money ataupun nak bangunkan database dia because dia takkan dapat rival database PADU yang besar. So dia akan gunakan PADU lah. But but nothing stops them. Cuma sekarang yang mungkin pendengar tak faham...
 
-[84:29] Chak Onn Lau: Bikin masalah.
+[1:24:29] Chak Onn Lau: Bikin masalah.
 
-[84:30] Rafizi Ramli: Tak, kita juga I mean before and in fact dalam RMK-13 tu memang kita dah letakkan, sistem IT kerajaan mesti berdasarkan kepada enterprise architecture. And enterprise architecture ni mesti di atas sekali yang yang menggabungkan semua kementerian-kementerian. Jadi contohnya, kalaulah ada kementerian or jabatan A dia pandai-pandai nak buat dia punya sendiri tapi dia tak fall into the right spot ataupun dia tak fit into enterprise architecture and therefore dia kena buat daripada scratch, bila dia pergi minta bajet dekat Kementerian Ekonomi, Kementerian Ekonomi kata tak nak bagi, tak bolehlah sebab dia tak fit. Because you don't have to do A, B, C, D, E. You should only do C and D sebab A, B, C ni PADU dah ada, yang ni dah ada, yang ni dah ada. That's how you control it jugalah.
+[1:24:30] Rafizi Ramli: Tak, kita juga I mean before and in fact dalam RMK-13 tu memang kita dah letakkan, sistem IT kerajaan mesti berdasarkan kepada enterprise architecture. And enterprise architecture ni mesti di atas sekali yang yang menggabungkan semua kementerian-kementerian. Jadi contohnya, kalaulah ada kementerian or jabatan A dia pandai-pandai nak buat dia punya sendiri tapi dia tak fall into the right spot ataupun dia tak fit into enterprise architecture and therefore dia kena buat daripada scratch, bila dia pergi minta bajet dekat Kementerian Ekonomi, Kementerian Ekonomi kata tak nak bagi, tak bolehlah sebab dia tak fit. Because you don't have to do A, B, C, D, E. You should only do C and D sebab A, B, C ni PADU dah ada, yang ni dah ada, yang ni dah ada. That's how you control it jugalah.
 
-[85:19] Iqbal Fatkhi: Paham.
+[1:25:19] Iqbal Fatkhi: Paham.
 
-[85:20] Chak Onn Lau: I think we have to move on to the next...
+[1:25:20] Chak Onn Lau: I think we have to move on to the next...
 
-[85:23] Iqbal Fatkhi: How was the time?
+[1:25:23] Iqbal Fatkhi: How was the time?
 
-[85:25] Rafizi Ramli: Oh itulah yang kau orang kata apa nama ni pedasnya? Kau orang nak tanya pasal PADU lah rupanya. PADU senang aje!
+[1:25:25] Rafizi Ramli: Oh itulah yang kau orang kata apa nama ni pedasnya? Kau orang nak tanya pasal PADU lah rupanya. PADU senang aje!
 
-[85:33] Chak Onn Lau: Yang ni nak tanya ke tak?
+[1:25:33] Chak Onn Lau: Yang ni nak tanya ke tak?
 
-[85:35] Iqbal Fatkhi: Maybe then we wrap up to the last question, cybertroopers.
+[1:25:35] Iqbal Fatkhi: Maybe then we wrap up to the last question, cybertroopers.
 
-[85:37] Chak Onn Lau: Last question, cybertroopers.
+[1:25:37] Chak Onn Lau: Last question, cybertroopers.
 
-[85:39] Rafizi Ramli: Oh.
+[1:25:39] Rafizi Ramli: Oh.
 
-[85:41] Iqbal Fatkhi: Satu soalan pasal cybertroopers. So maybe the last last wrapping up.
+[1:25:41] Iqbal Fatkhi: Satu soalan pasal cybertroopers. So maybe the last last wrapping up.
 
-[85:47] Chak Onn Lau: Next one, next one, next one. Quite far, quite far.
+[1:25:47] Chak Onn Lau: Next one, next one, next one. Quite far, quite far.
 
-[85:50] Iqbal Fatkhi: Yes.
+[1:25:50] Iqbal Fatkhi: Yes.
 
-[85:50] Rafizi Ramli: Lama mana kau orang buat kompaun soalan ni?
+[1:25:50] Rafizi Ramli: Lama mana kau orang buat kompaun soalan ni?
 
-[85:52] Chak Onn Lau: Oi, banyak soalanlah.
+[1:25:52] Chak Onn Lau: Oi, banyak soalanlah.
 
-[85:54] Iqbal Fatkhi: So, mungkin penultimate question. Dari segi penyampaian maklumat, mungkin kita boleh nampak usaha-usaha menyampaikan inisiatif-inisiatif kerajaan kebanyakannya dibuat oleh cybertrooper. To a certain to a certain extent to a certain extent the most visible usaha untuk menyampaikan kerja-kerja kerajaan adalah cybertrooper. Dan kita dapat dua soalan berkaitan dengan cybertrooper. Salam YB Rafizi Ramli, sebagai seorang ahli politik, kenapa ramai dalam kalangan penyokong-penyokong Anwar yang rasis, seksis, ableist, dan classist? Dan seorang lagi tanya, are you aware yang banyak cybertrooper Twitter mostly men are misogynist dan bullies? Dan adakah ada apa-apa yang at least pimpinan PKR akan buat pasal benda ni?
+[1:25:54] Iqbal Fatkhi: So, mungkin penultimate question. Dari segi penyampaian maklumat, mungkin kita boleh nampak usaha-usaha menyampaikan inisiatif-inisiatif kerajaan kebanyakannya dibuat oleh cybertrooper. To a certain to a certain extent to a certain extent the most visible usaha untuk menyampaikan kerja-kerja kerajaan adalah cybertrooper. Dan kita dapat dua soalan berkaitan dengan cybertrooper. Salam YB Rafizi Ramli, sebagai seorang ahli politik, kenapa ramai dalam kalangan penyokong-penyokong Anwar yang rasis, seksis, ableist, dan classist? Dan seorang lagi tanya, are you aware yang banyak cybertrooper Twitter mostly men are misogynist dan bullies? Dan adakah ada apa-apa yang at least pimpinan PKR akan buat pasal benda ni?
 
-[86:46] Rafizi Ramli: No, I think saya tak boleh campur tau. That that I maintain kan. Kadang-kadang bila ada yang kasar ke apa because...
+[1:26:46] Rafizi Ramli: No, I think saya tak boleh campur tau. That that I maintain kan. Kadang-kadang bila ada yang kasar ke apa because...
 
-[86:57] Iqbal Fatkhi: Sebab Rafizi YB block aje.
+[1:26:57] Iqbal Fatkhi: Sebab Rafizi YB block aje.
 
-[86:59] Rafizi Ramli: Aku bising-bising aku block aje kan. Sebabnya begini kan: kita ni negara yang majmuk. Pandangannya sangat berbeza-beza. Orang itu kata mamat ni you know apa nama ni sexist dan sebagainya, orang ini pula kata orang ni I mean, it's a free world, it's Twitter, it's X. You gaduhlah kat situ. Kalau contohnya ada dua tiga orang yang PSM, saya tahu penyokong PSM yang duk mengadu tak habis-habis tag aku, "Oh your supporter ni teruklah," itu. Takkan aku nak pergi marah dekat PSM, "Aku tak sukalah Minah ni bising kat sini." I can't. And you cannot apply one rule to yourself and different rules to other people. So let it be lah kan. Kalau to me, you tak suka sangat, then jangan layanlah. Kan? I mean, unless you nak pergi report as those things are annoying and apa nama... Annoying and offensive, ha kan! Because what is offensive to you might not be offensive to other people. So there's always two sides of the coin. Kita kata orang macam ini, orang tengok kita lain tau. So to me, let it be. Payah-payah kau block or kau mute. Ha, habis cerita.
+[1:26:59] Rafizi Ramli: Aku bising-bising aku block aje kan. Sebabnya begini kan: kita ni negara yang majmuk. Pandangannya sangat berbeza-beza. Orang itu kata mamat ni you know apa nama ni sexist dan sebagainya, orang ini pula kata orang ni I mean, it's a free world, it's Twitter, it's X. You gaduhlah kat situ. Kalau contohnya ada dua tiga orang yang PSM, saya tahu penyokong PSM yang duk mengadu tak habis-habis tag aku, "Oh your supporter ni teruklah," itu. Takkan aku nak pergi marah dekat PSM, "Aku tak sukalah Minah ni bising kat sini." I can't. And you cannot apply one rule to yourself and different rules to other people. So let it be lah kan. Kalau to me, you tak suka sangat, then jangan layanlah. Kan? I mean, unless you nak pergi report as those things are annoying and apa nama... Annoying and offensive, ha kan! Because what is offensive to you might not be offensive to other people. So there's always two sides of the coin. Kita kata orang macam ini, orang tengok kita lain tau. So to me, let it be. Payah-payah kau block or kau mute. Ha, habis cerita.
 
-[88:07] Iqbal Fatkhi: Okey. Then the final question.
+[1:28:07] Iqbal Fatkhi: Okey. Then the final question.
 
-[88:09] Chak Onn Lau: The final question eh? Okey. One more.
+[1:28:09] Chak Onn Lau: The final question eh? Okey. One more.
 
-[88:15] Chak Onn Lau: Okey, so it was the first question we asked and it's the last question we ask. You wrote in the MCKK profile last time, the debate profile like...
+[1:28:15] Chak Onn Lau: Okey, so it was the first question we asked and it's the last question we ask. You wrote in the MCKK profile last time, the debate profile like...
 
-[88:26] Rafizi Ramli: Eh mamat yang letakkan benda tu dah mati tau, pergi tanya dia.
+[1:28:26] Rafizi Ramli: Eh mamat yang letakkan benda tu dah mati tau, pergi tanya dia.
 
-[88:30] Chak Onn Lau: Nak jadi PM. If you could, if you would...
+[1:28:30] Chak Onn Lau: Nak jadi PM. If you could, if you would...
 
-[88:35] Chak Onn Lau: Okey, sebelum tu, I had a one one follow-up question before that lah. If you were to choose, you had the choice of whichever kementerian that you wanted to take over you know in the future, which one would it be? So I had a bet with one of your guys about which kementerian that you would pick lah.
+[1:28:35] Chak Onn Lau: Okey, sebelum tu, I had a one one follow-up question before that lah. If you were to choose, you had the choice of whichever kementerian that you wanted to take over you know in the future, which one would it be? So I had a bet with one of your guys about which kementerian that you would pick lah.
 
-[88:51] Rafizi Ramli: You see you see...
+[1:28:51] Rafizi Ramli: You see you see...
 
-[88:52] Chak Onn Lau: Like which would be the most impactful for you and you want to make your change?
+[1:28:52] Chak Onn Lau: Like which would be the most impactful for you and you want to make your change?
 
-[88:55] Rafizi Ramli: I think tak tahulah orang lain jadi menteri macam mana dia nak jadi kementerian ke apa kan. I think lah. Kalau you masuk politik and then you want to serve government, maksudnya because you want to make a difference. And therefore you can only make a difference kalau you are passionate about it. I'm only passionate in two or three things aje. Satu, the economy, anything related to economy lah. Secondly, apa nama ni education. Third is apa nama ni industry-related lah, tech-related, industry-related. It's because those things are something that I know, I have been involved and it's not just apa nama ni...
+[1:28:55] Rafizi Ramli: I think tak tahulah orang lain jadi menteri macam mana dia nak jadi kementerian ke apa kan. I think lah. Kalau you masuk politik and then you want to serve government, maksudnya because you want to make a difference. And therefore you can only make a difference kalau you are passionate about it. I'm only passionate in two or three things aje. Satu, the economy, anything related to economy lah. Secondly, apa nama ni education. Third is apa nama ni industry-related lah, tech-related, industry-related. It's because those things are something that I know, I have been involved and it's not just apa nama ni...
 
-[89:42] Iqbal Fatkhi: So maksudnya macam MITI? Something like MITI, do you mean?
+[1:29:42] Iqbal Fatkhi: So maksudnya macam MITI? Something like MITI, do you mean?
 
-[89:45] Rafizi Ramli: No, I mean janganlah letak aku Kementerian Belia dan Sukan contohnya. I cannot make a difference kan. Jadi kalau it's like katakanlah...
+[1:29:45] Rafizi Ramli: No, I mean janganlah letak aku Kementerian Belia dan Sukan contohnya. I cannot make a difference kan. Jadi kalau it's like katakanlah...
 
-[89:54] Chak Onn Lau: Because you won't get sports at MCKK, right?
+[1:29:54] Chak Onn Lau: Because you won't get sports at MCKK, right?
 
-[90:02] Rafizi Ramli: So it's like apa nama ni kalau you jadi PM, bila you nak assign seseorang kepada kementerian atau portfolio tu, dia mestilah sesuatu yang bersesuaian dengan kepakaran dia, minat dia, barulah dia boleh buat kerja dengan baik kan. Jadi I think I'm known, I'm only good in those few things. Kau suruh aku jadi Menteri Luar, perang tau! I'm not a diplomat! I mean, I say what I wanted to say kan. Jadi tak bolehlah. Menteri Luar ni kena orang yang diplomasi dan sebagainya kan. Jangan letak aku jadi Menteri Agama kan contohnya. So I think only on those few and I think it's known, only in those few portfolios I can make a difference.
+[1:30:02] Rafizi Ramli: So it's like apa nama ni kalau you jadi PM, bila you nak assign seseorang kepada kementerian atau portfolio tu, dia mestilah sesuatu yang bersesuaian dengan kepakaran dia, minat dia, barulah dia boleh buat kerja dengan baik kan. Jadi I think I'm known, I'm only good in those few things. Kau suruh aku jadi Menteri Luar, perang tau! I'm not a diplomat! I mean, I say what I wanted to say kan. Jadi tak bolehlah. Menteri Luar ni kena orang yang diplomasi dan sebagainya kan. Jangan letak aku jadi Menteri Agama kan contohnya. So I think only on those few and I think it's known, only in those few portfolios I can make a difference.
 
-[90:42] Chak Onn Lau: Okey, and then so lepas tu cita-cita nak jadi PM dan how this timeline has been changed by the recent developments in the last three months?
+[1:30:42] Chak Onn Lau: Okey, and then so lepas tu cita-cita nak jadi PM dan how this timeline has been changed by the recent developments in the last three months?
 
-[90:52] Rafizi Ramli: I know that kau orang takkan percayalah, I have no ambition even in politics.
+[1:30:52] Rafizi Ramli: I know that kau orang takkan percayalah, I have no ambition even in politics.
 
-[90:57] Iqbal Fatkhi: You've been quite consistent about that, to be honest.
+[1:30:57] Iqbal Fatkhi: You've been quite consistent about that, to be honest.
 
-[91:00] Rafizi Ramli: And didn't didn't didn't it prove to anyone, mana ada politician who just walk out and say bye-bye in the last few years? Name me one. I walk out at the height of PH menang 2018, I just walk out and say bye-bye, good luck to you guys. I went jogging and I'm very happy with my life. Now menteri, I just walk out. Actually, I don't know how many times I have to repeat. Actually, I have no interest in power actually. So and unlike other people, I think I don't see politics or power as the only means to make a difference or change kan. But there's a but kan. So I mean if it comes, it comes. My responsibility is to me is much bigger to make sure that society is not disillusioned with this concept of reform, with with you know changing society semua ni kan. And I think Bernie Sanders doesn't have to become a president of the US to make a difference. So it's like and I think that makes me happy because aku tak ada sasaran kena jadi menterilah apa semua. And I think whether I'm an MP ke, I'm not an MP ke, my voice and my view by now still matters.
+[1:31:00] Rafizi Ramli: And didn't didn't didn't it prove to anyone, mana ada politician who just walk out and say bye-bye in the last few years? Name me one. I walk out at the height of PH menang 2018, I just walk out and say bye-bye, good luck to you guys. I went jogging and I'm very happy with my life. Now menteri, I just walk out. Actually, I don't know how many times I have to repeat. Actually, I have no interest in power actually. So and unlike other people, I think I don't see politics or power as the only means to make a difference or change kan. But there's a but kan. So I mean if it comes, it comes. My responsibility is to me is much bigger to make sure that society is not disillusioned with this concept of reform, with with you know changing society semua ni kan. And I think Bernie Sanders doesn't have to become a president of the US to make a difference. So it's like and I think that makes me happy because aku tak ada sasaran kena jadi menterilah apa semua. And I think whether I'm an MP ke, I'm not an MP ke, my voice and my view by now still matters.
 
-[92:28] Iqbal Fatkhi: Okey.
+[1:32:28] Iqbal Fatkhi: Okey.
 
-[92:29] Rafizi Ramli: And and once you reach my stage in life, actually it doesn't make that much difference anymore either way.
+[1:32:29] Rafizi Ramli: And and once you reach my stage in life, actually it doesn't make that much difference anymore either way.
 
-[92:36] Iqbal Fatkhi: Okey, tapi just untuk mungkin tanya soalan tu dalam bentuk yang lain. Sesuatu that responsibility adalah satu amanah, satu burden. If duty called, would you answer?
+[1:32:36] Iqbal Fatkhi: Okey, tapi just untuk mungkin tanya soalan tu dalam bentuk yang lain. Sesuatu that responsibility adalah satu amanah, satu burden. If duty called, would you answer?
 
-[92:49] Rafizi Ramli: Yes.
+[1:32:49] Rafizi Ramli: Yes.
 
-[92:49] Iqbal Fatkhi: Okey.
+[1:32:49] Iqbal Fatkhi: Okey.
 
-[92:50] Rafizi Ramli: If duty calls. But I'm the the end does not justify the means. Kalaulah ada orang kata, "Oh kita kena selamatkan negara dengan jadi Perdana Menteri," lepas tu kau tunggang-langgang nak jadi Perdana Menteri, it's what for? I mean kan. So and and I always feel that maintaining yourself and you know try to be as much as possible as what you were when you were in 20s, when you were stupid young boy actually is important as you grow older. Because you tend to lose sight kan.
+[1:32:50] Rafizi Ramli: If duty calls. But I'm the the end does not justify the means. Kalaulah ada orang kata, "Oh kita kena selamatkan negara dengan jadi Perdana Menteri," lepas tu kau tunggang-langgang nak jadi Perdana Menteri, it's what for? I mean kan. So and and I always feel that maintaining yourself and you know try to be as much as possible as what you were when you were in 20s, when you were stupid young boy actually is important as you grow older. Because you tend to lose sight kan.
 
-[93:25] Chak Onn Lau: And how do you think you're doing on that?
+[1:33:25] Chak Onn Lau: And how do you think you're doing on that?
 
-[93:27] Rafizi Ramli: Not good, I got...
+[1:33:27] Rafizi Ramli: Not good, I got...
 
-[93:30] Iqbal Fatkhi: Have you become anything...
+[1:33:30] Iqbal Fatkhi: Have you become anything...
 
-[93:32] Rafizi Ramli: I'm a lot wiser now lah. I'm a lot wiser now. I think I was extremely naive. I was extremely naive. I really see the world in black and white kan. And...
+[1:33:32] Rafizi Ramli: I'm a lot wiser now lah. I'm a lot wiser now. I think I was extremely naive. I was extremely naive. I really see the world in black and white kan. And...
 
-[93:43] Iqbal Fatkhi: Was, so sekarang dah tak lagilah?
+[1:33:43] Iqbal Fatkhi: Was, so sekarang dah tak lagilah?
 
-[93:45] Rafizi Ramli: I think everything is grey by now. It's very grey.
+[1:33:45] Rafizi Ramli: I think everything is grey by now. It's very grey.
 
-[93:49] Iqbal Fatkhi: Tapi you wouldn't consider yourself jaded?
+[1:33:49] Iqbal Fatkhi: Tapi you wouldn't consider yourself jaded?
 
-[93:51] Rafizi Ramli: No, I'm not. Actually actually okey ah. I think we have achieved a lot. Kan. Orang lain that goes back to that question about being prime minister, power, minister kan. It depends on how you quantify your achievement. Kalau you quantify dengan yalah jadi menteri, perdana menteri, power semua, okeylah. You know, it's okeylah. There's a lot of of debate about that kan. I I didn't. To me, I remember exactly what I wanted to do when I entered politics kan. Satu aku tak nak semua I don't like to listen to benda-benda bodoh sangat tau. I feel like surely we can do better than this. Jadi so long as those voice, those progressive voice is well and alive, I think that is an achievement that we have made over the years. Sama juga contoh benda-benda that we take for granted now, this we take for granted. It didn't exist when I was young. Demo, we take it for granted sekarang. It didn't exist. Competitive democracy where pembangkang boleh pumpang-pumpang, backbencher boleh cakap lain, it didn't exist back then. These are all the achievements that I think I you know, I make a difference. I contributed to that and I think it's something that worth doing in the next 10 years, 15 years. Cuma I don't expect change to happen instantly lah, it's incremental.
+[1:33:51] Rafizi Ramli: No, I'm not. Actually actually okey ah. I think we have achieved a lot. Kan. Orang lain that goes back to that question about being prime minister, power, minister kan. It depends on how you quantify your achievement. Kalau you quantify dengan yalah jadi menteri, perdana menteri, power semua, okeylah. You know, it's okeylah. There's a lot of of debate about that kan. I I didn't. To me, I remember exactly what I wanted to do when I entered politics kan. Satu aku tak nak semua I don't like to listen to benda-benda bodoh sangat tau. I feel like surely we can do better than this. Jadi so long as those voice, those progressive voice is well and alive, I think that is an achievement that we have made over the years. Sama juga contoh benda-benda that we take for granted now, this we take for granted. It didn't exist when I was young. Demo, we take it for granted sekarang. It didn't exist. Competitive democracy where pembangkang boleh pumpang-pumpang, backbencher boleh cakap lain, it didn't exist back then. These are all the achievements that I think I you know, I make a difference. I contributed to that and I think it's something that worth doing in the next 10 years, 15 years. Cuma I don't expect change to happen instantly lah, it's incremental.
 
-[95:19] Iqbal Fatkhi: Baik, saya rasa itu tempat yang elok untuk akhirkan perbincangan.
+[1:35:19] Iqbal Fatkhi: Baik, saya rasa itu tempat yang elok untuk akhirkan perbincangan.
 
-[95:24] Rafizi Ramli: Kau orang macam kucing-kucing aku yang takut aje tengok!
+[1:35:24] Rafizi Ramli: Kau orang macam kucing-kucing aku yang takut aje tengok!
 
-[95:27] Iqbal Fatkhi: Tak, sebab dah lewat dah pukul 10:30. Masa saya punya bedtime to be honest.
+[1:35:27] Iqbal Fatkhi: Tak, sebab dah lewat dah pukul 10:30. Masa saya punya bedtime to be honest.
 
-[95:32] Chak Onn Lau: Terima kasih YB for joining our bekas minister podcast. Kalau ada bekas menteri yang lain yang nak join podcast kita, please...
+[1:35:32] Chak Onn Lau: Terima kasih YB for joining our bekas minister podcast. Kalau ada bekas menteri yang lain yang nak join podcast kita, please...
 
-[95:41] Rafizi Ramli: Siapa lagi? Kena tunggu reshuffle lah kut. Kena tunggu reshuffle atau bertukar kerajaan lagi tiga bulan.
+[1:35:41] Rafizi Ramli: Siapa lagi? Kena tunggu reshuffle lah kut. Kena tunggu reshuffle atau bertukar kerajaan lagi tiga bulan.
 
-[95:47] Chak Onn Lau: Banyak YB sorry Najib Razak if you want you can call.
+[1:35:47] Chak Onn Lau: Banyak YB sorry Najib Razak if you want you can call.
 
-[95:53] Iqbal Fatkhi: Kita buat remote. Baik, terima kasih kepada semua penonton-penonton Yang Berhenti Menteri x Siapa Makan Cili. As always, leave your thoughts in the comments about the perbincangan below, did we cover everything you wanted to know and as always, keep it on Cilisos for more current issues tambah pedas.
+[1:35:53] Iqbal Fatkhi: Kita buat remote. Baik, terima kasih kepada semua penonton-penonton Yang Berhenti Menteri x Siapa Makan Cili. As always, leave your thoughts in the comments about the perbincangan below, did we cover everything you wanted to know and as always, keep it on Cilisos for more current issues tambah pedas.
 
-[96:08] Chak Onn Lau: Bye!
+[1:36:08] Chak Onn Lau: Bye!
 
-[96:12] [Music / Outro]
+[1:36:12] [Music / Outro]
 

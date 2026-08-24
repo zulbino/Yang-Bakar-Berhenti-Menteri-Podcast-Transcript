@@ -1,0 +1,172 @@
+{
+  "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
+    "status": "ok",
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
+    "samples_total": 12,
+    "max_drift_seconds": 221,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 19,
+        "actual": 13,
+        "drift": -6
+      },
+      {
+        "claimed": 118,
+        "actual": 73,
+        "drift": -45
+      },
+      {
+        "claimed": 322,
+        "actual": 297,
+        "drift": -25
+      },
+      {
+        "claimed": 410,
+        "actual": 518,
+        "drift": 108
+      },
+      {
+        "claimed": 1062,
+        "actual": 1064,
+        "drift": 2
+      },
+      {
+        "claimed": 1152,
+        "actual": 1255,
+        "drift": 103
+      },
+      {
+        "claimed": 2143,
+        "actual": 2137,
+        "drift": -6
+      },
+      {
+        "claimed": 2620,
+        "actual": 2630,
+        "drift": 10
+      },
+      {
+        "claimed": 3193,
+        "actual": 3414,
+        "drift": 221
+      },
+      {
+        "claimed": 3677,
+        "actual": 3869,
+        "drift": 192
+      }
+    ]
+  },
+  "2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26": {
+    "status": "ok",
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
+    "samples_total": 12,
+    "max_drift_seconds": 696,
+    "flagged": true,
+    "details": [
+      {
+        "claimed": 149,
+        "actual": 149,
+        "drift": 0
+      },
+      {
+        "claimed": 230,
+        "actual": 226,
+        "drift": -4
+      },
+      {
+        "claimed": 321,
+        "actual": 368,
+        "drift": 47
+      },
+      {
+        "claimed": 539,
+        "actual": 546,
+        "drift": 7
+      },
+      {
+        "claimed": 783,
+        "actual": 782,
+        "drift": -1
+      },
+      {
+        "claimed": 916,
+        "actual": 953,
+        "drift": 37
+      },
+      {
+        "claimed": 1354,
+        "actual": 1358,
+        "drift": 4
+      },
+      {
+        "claimed": 8731,
+        "actual": 8035,
+        "drift": -696
+      }
+    ]
+  },
+  "2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y": {
+    "status": "ok",
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
+    "samples_total": 12,
+    "max_drift_seconds": 276,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 569,
+        "actual": 634,
+        "drift": 65
+      },
+      {
+        "claimed": 1163,
+        "actual": 1162,
+        "drift": -1
+      },
+      {
+        "claimed": 1845,
+        "actual": 1876,
+        "drift": 31
+      },
+      {
+        "claimed": 2544,
+        "actual": 2536,
+        "drift": -8
+      },
+      {
+        "claimed": 3211,
+        "actual": 3404,
+        "drift": 193
+      },
+      {
+        "claimed": 4247,
+        "actual": 4261,
+        "drift": 14
+      },
+      {
+        "claimed": 4522,
+        "actual": 4514,
+        "drift": -8
+      },
+      {
+        "claimed": 4699,
+        "actual": 4694,
+        "drift": -5
+      },
+      {
+        "claimed": 5797,
+        "actual": 6073,
+        "drift": 276
+      },
+      {
+        "claimed": 6964,
+        "actual": 7018,
+        "drift": 54
+      }
+    ]
+  }
+}

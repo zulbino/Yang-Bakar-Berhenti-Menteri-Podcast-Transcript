@@ -952,2752 +952,2752 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[60:19] Haziq Azfar: um, sokongan kan.
+[1:00:19] Haziq Azfar: um, sokongan kan.
 
-[60:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:00:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[60:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:00:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[60:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:00:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[60:56] Rafizi Ramli: Do you think they would lose that one seat?
+[1:00:56] Rafizi Ramli: Do you think they would lose that one seat?
 
-[60:58] Haziq Azfar: They might.
+[1:00:58] Haziq Azfar: They might.
 
-[61:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:01:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[61:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:01:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[61:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:01:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[61:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:01:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[61:53] Rafizi Ramli: Okey.
+[1:01:53] Rafizi Ramli: Okey.
 
-[61:55] Haziq Azfar: Menarik.
+[1:01:55] Haziq Azfar: Menarik.
 
-[61:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:01:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[62:00] Haziq Azfar: No, yang yang
+[1:02:00] Haziq Azfar: No, yang yang
 
-[62:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:02:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[62:15] Rafizi Ramli: Okey.
+[1:02:15] Rafizi Ramli: Okey.
 
-[62:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:02:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[62:25] Haziq Azfar: um,
+[1:02:25] Haziq Azfar: um,
 
-[62:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:02:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[63:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:03:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[63:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:03:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[63:29] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:03:29] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[63:32] Rafizi Ramli: Konspirasi kan.
+[1:03:32] Rafizi Ramli: Konspirasi kan.
 
-[63:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:03:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[63:43] Rafizi Ramli: Lobikan?
+[1:03:43] Rafizi Ramli: Lobikan?
 
-[63:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:03:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[63:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:03:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[64:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:04:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[64:09] Haziq Azfar: Okey baik YB.
+[1:04:09] Haziq Azfar: Okey baik YB.
 
-[64:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:04:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[64:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:04:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[64:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:04:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[64:21] Haziq Azfar: Um, hmm.
+[1:04:21] Haziq Azfar: Um, hmm.
 
-[64:22] Rafizi Ramli: What would that do?
+[1:04:22] Rafizi Ramli: What would that do?
 
-[64:23] Haziq Azfar: Itu pun beria.
+[1:04:23] Haziq Azfar: Itu pun beria.
 
-[64:24] Rafizi Ramli: Itu so ada the dynamics
+[1:04:24] Rafizi Ramli: Itu so ada the dynamics
 
-[64:25] Haziq Azfar: of a coalition, di mana
+[1:04:25] Haziq Azfar: of a coalition, di mana
 
-[64:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:04:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[64:33] Haziq Azfar: Um, hmm.
+[1:04:33] Haziq Azfar: Um, hmm.
 
-[64:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:04:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[65:15] Rafizi Ramli: tiga orang tu dah dah di-
+[1:05:15] Rafizi Ramli: tiga orang tu dah dah di-
 
-[65:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:05:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[65:21] Rafizi Ramli: Yalah, dipecat lah.
+[1:05:21] Rafizi Ramli: Yalah, dipecat lah.
 
-[65:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:05:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[65:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:05:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[65:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:05:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[66:09] Haziq Azfar: um, sokongan kan.
+[1:06:09] Haziq Azfar: um, sokongan kan.
 
-[66:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:06:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[66:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:06:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[66:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:06:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[66:46] Rafizi Ramli: Do you think they would lose that one seat?
+[1:06:46] Rafizi Ramli: Do you think they would lose that one seat?
 
-[66:48] Haziq Azfar: They might.
+[1:06:48] Haziq Azfar: They might.
 
-[66:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:06:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[67:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:07:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[67:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:07:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[67:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:07:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[67:43] Rafizi Ramli: Okey.
+[1:07:43] Rafizi Ramli: Okey.
 
-[67:45] Haziq Azfar: Menarik.
+[1:07:45] Haziq Azfar: Menarik.
 
-[67:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:07:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[67:50] Haziq Azfar: No, yang yang
+[1:07:50] Haziq Azfar: No, yang yang
 
-[67:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:07:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[68:05] Rafizi Ramli: Okey.
+[1:08:05] Rafizi Ramli: Okey.
 
-[68:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:08:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[68:15] Haziq Azfar: um,
+[1:08:15] Haziq Azfar: um,
 
-[68:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:08:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[68:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:08:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[69:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:09:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[69:19] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:09:19] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[69:22] Rafizi Ramli: Konspirasi kan.
+[1:09:22] Rafizi Ramli: Konspirasi kan.
 
-[69:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:09:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[69:33] Rafizi Ramli: Lobikan?
+[1:09:33] Rafizi Ramli: Lobikan?
 
-[69:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:09:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[69:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:09:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[69:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:09:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[69:59] Haziq Azfar: Okey baik YB.
+[1:09:59] Haziq Azfar: Okey baik YB.
 
-[70:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:10:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[70:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:10:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[70:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:10:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[70:11] Haziq Azfar: Um, hmm.
+[1:10:11] Haziq Azfar: Um, hmm.
 
-[70:12] Rafizi Ramli: What would that do?
+[1:10:12] Rafizi Ramli: What would that do?
 
-[70:13] Haziq Azfar: Itu pun beria.
+[1:10:13] Haziq Azfar: Itu pun beria.
 
-[70:14] Rafizi Ramli: Itu so ada the dynamics
+[1:10:14] Rafizi Ramli: Itu so ada the dynamics
 
-[70:15] Haziq Azfar: of a coalition, di mana
+[1:10:15] Haziq Azfar: of a coalition, di mana
 
-[70:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:10:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[70:23] Haziq Azfar: Um, hmm.
+[1:10:23] Haziq Azfar: Um, hmm.
 
-[70:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:10:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[71:05] Rafizi Ramli: tiga orang tu dah dah di-
+[1:11:05] Rafizi Ramli: tiga orang tu dah dah di-
 
-[71:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:11:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[71:11] Rafizi Ramli: Yalah, dipecat lah.
+[1:11:11] Rafizi Ramli: Yalah, dipecat lah.
 
-[71:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:11:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[71:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:11:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[71:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:11:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[71:59] Haziq Azfar: um, sokongan kan.
+[1:11:59] Haziq Azfar: um, sokongan kan.
 
-[72:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:12:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[72:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:12:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[72:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:12:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[72:36] Rafizi Ramli: Do you think they would lose that one seat?
+[1:12:36] Rafizi Ramli: Do you think they would lose that one seat?
 
-[72:38] Haziq Azfar: They might.
+[1:12:38] Haziq Azfar: They might.
 
-[72:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:12:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[72:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:12:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[73:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:13:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[73:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:13:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[73:33] Rafizi Ramli: Okey.
+[1:13:33] Rafizi Ramli: Okey.
 
-[73:35] Haziq Azfar: Menarik.
+[1:13:35] Haziq Azfar: Menarik.
 
-[73:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:13:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[73:40] Haziq Azfar: No, yang yang
+[1:13:40] Haziq Azfar: No, yang yang
 
-[73:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:13:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[73:55] Rafizi Ramli: Okey.
+[1:13:55] Rafizi Ramli: Okey.
 
-[73:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:13:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[74:05] Haziq Azfar: um,
+[1:14:05] Haziq Azfar: um,
 
-[74:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:14:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[74:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:14:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[75:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:15:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[75:09] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:15:09] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[75:12] Rafizi Ramli: Konspirasi kan.
+[1:15:12] Rafizi Ramli: Konspirasi kan.
 
-[75:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:15:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[75:23] Rafizi Ramli: Lobikan?
+[1:15:23] Rafizi Ramli: Lobikan?
 
-[75:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:15:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[75:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:15:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[75:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:15:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[75:49] Haziq Azfar: Okey baik YB.
+[1:15:49] Haziq Azfar: Okey baik YB.
 
-[75:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:15:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[75:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:15:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[75:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:15:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[76:01] Haziq Azfar: Um, hmm.
+[1:16:01] Haziq Azfar: Um, hmm.
 
-[76:02] Rafizi Ramli: What would that do?
+[1:16:02] Rafizi Ramli: What would that do?
 
-[76:03] Haziq Azfar: Itu pun beria.
+[1:16:03] Haziq Azfar: Itu pun beria.
 
-[76:04] Rafizi Ramli: Itu so ada the dynamics
+[1:16:04] Rafizi Ramli: Itu so ada the dynamics
 
-[76:05] Haziq Azfar: of a coalition, di mana
+[1:16:05] Haziq Azfar: of a coalition, di mana
 
-[76:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:16:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[76:13] Haziq Azfar: Um, hmm.
+[1:16:13] Haziq Azfar: Um, hmm.
 
-[76:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:16:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[76:55] Rafizi Ramli: tiga orang tu dah dah di-
+[1:16:55] Rafizi Ramli: tiga orang tu dah dah di-
 
-[76:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:16:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[77:01] Rafizi Ramli: Yalah, dipecat lah.
+[1:17:01] Rafizi Ramli: Yalah, dipecat lah.
 
-[77:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:17:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[77:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:17:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[77:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:17:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[77:49] Haziq Azfar: um, sokongan kan.
+[1:17:49] Haziq Azfar: um, sokongan kan.
 
-[77:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:17:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[78:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:18:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[78:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:18:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[78:26] Rafizi Ramli: Do you think they would lose that one seat?
+[1:18:26] Rafizi Ramli: Do you think they would lose that one seat?
 
-[78:28] Haziq Azfar: They might.
+[1:18:28] Haziq Azfar: They might.
 
-[78:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:18:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[78:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:18:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[79:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:19:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[79:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:19:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[79:23] Rafizi Ramli: Okey.
+[1:19:23] Rafizi Ramli: Okey.
 
-[79:25] Haziq Azfar: Menarik.
+[1:19:25] Haziq Azfar: Menarik.
 
-[79:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:19:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[79:30] Haziq Azfar: No, yang yang
+[1:19:30] Haziq Azfar: No, yang yang
 
-[79:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:19:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[79:45] Rafizi Ramli: Okey.
+[1:19:45] Rafizi Ramli: Okey.
 
-[79:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:19:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[79:55] Haziq Azfar: um,
+[1:19:55] Haziq Azfar: um,
 
-[79:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:19:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[80:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:20:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[80:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:20:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[80:59] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:20:59] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[81:02] Rafizi Ramli: Konspirasi kan.
+[1:21:02] Rafizi Ramli: Konspirasi kan.
 
-[81:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:21:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[81:13] Rafizi Ramli: Lobikan?
+[1:21:13] Rafizi Ramli: Lobikan?
 
-[81:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:21:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[81:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:21:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[81:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:21:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[81:39] Haziq Azfar: Okey baik YB.
+[1:21:39] Haziq Azfar: Okey baik YB.
 
-[81:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:21:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[81:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:21:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[81:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:21:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[81:51] Haziq Azfar: Um, hmm.
+[1:21:51] Haziq Azfar: Um, hmm.
 
-[81:52] Rafizi Ramli: What would that do?
+[1:21:52] Rafizi Ramli: What would that do?
 
-[81:53] Haziq Azfar: Itu pun beria.
+[1:21:53] Haziq Azfar: Itu pun beria.
 
-[81:54] Rafizi Ramli: Itu so ada the dynamics
+[1:21:54] Rafizi Ramli: Itu so ada the dynamics
 
-[81:55] Haziq Azfar: of a coalition, di mana
+[1:21:55] Haziq Azfar: of a coalition, di mana
 
-[81:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:21:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[82:03] Haziq Azfar: Um, hmm.
+[1:22:03] Haziq Azfar: Um, hmm.
 
-[82:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:22:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[82:45] Rafizi Ramli: tiga orang tu dah dah di-
+[1:22:45] Rafizi Ramli: tiga orang tu dah dah di-
 
-[82:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:22:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[82:51] Rafizi Ramli: Yalah, dipecat lah.
+[1:22:51] Rafizi Ramli: Yalah, dipecat lah.
 
-[82:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:22:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[83:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:23:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[83:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:23:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[83:39] Haziq Azfar: um, sokongan kan.
+[1:23:39] Haziq Azfar: um, sokongan kan.
 
-[83:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:23:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[83:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:23:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[84:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:24:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[84:16] Rafizi Ramli: Do you think they would lose that one seat?
+[1:24:16] Rafizi Ramli: Do you think they would lose that one seat?
 
-[84:18] Haziq Azfar: They might.
+[1:24:18] Haziq Azfar: They might.
 
-[84:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:24:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[84:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:24:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[84:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:24:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[85:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:25:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[85:13] Rafizi Ramli: Okey.
+[1:25:13] Rafizi Ramli: Okey.
 
-[85:15] Haziq Azfar: Menarik.
+[1:25:15] Haziq Azfar: Menarik.
 
-[85:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:25:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[85:20] Haziq Azfar: No, yang yang
+[1:25:20] Haziq Azfar: No, yang yang
 
-[85:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:25:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[85:35] Rafizi Ramli: Okey.
+[1:25:35] Rafizi Ramli: Okey.
 
-[85:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:25:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[85:45] Haziq Azfar: um,
+[1:25:45] Haziq Azfar: um,
 
-[85:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:25:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[86:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:26:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[86:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:26:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[86:49] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:26:49] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[86:52] Rafizi Ramli: Konspirasi kan.
+[1:26:52] Rafizi Ramli: Konspirasi kan.
 
-[86:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:26:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[87:03] Rafizi Ramli: Lobikan?
+[1:27:03] Rafizi Ramli: Lobikan?
 
-[87:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:27:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[87:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:27:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[87:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:27:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[87:29] Haziq Azfar: Okey baik YB.
+[1:27:29] Haziq Azfar: Okey baik YB.
 
-[87:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:27:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[87:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:27:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[87:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:27:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[87:41] Haziq Azfar: Um, hmm.
+[1:27:41] Haziq Azfar: Um, hmm.
 
-[87:42] Rafizi Ramli: What would that do?
+[1:27:42] Rafizi Ramli: What would that do?
 
-[87:43] Haziq Azfar: Itu pun beria.
+[1:27:43] Haziq Azfar: Itu pun beria.
 
-[87:44] Rafizi Ramli: Itu so ada the dynamics
+[1:27:44] Rafizi Ramli: Itu so ada the dynamics
 
-[87:45] Haziq Azfar: of a coalition, di mana
+[1:27:45] Haziq Azfar: of a coalition, di mana
 
-[87:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:27:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[87:53] Haziq Azfar: Um, hmm.
+[1:27:53] Haziq Azfar: Um, hmm.
 
-[87:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:27:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[88:35] Rafizi Ramli: tiga orang tu dah dah di-
+[1:28:35] Rafizi Ramli: tiga orang tu dah dah di-
 
-[88:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:28:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[88:41] Rafizi Ramli: Yalah, dipecat lah.
+[1:28:41] Rafizi Ramli: Yalah, dipecat lah.
 
-[88:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:28:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[88:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:28:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[89:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:29:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[89:29] Haziq Azfar: um, sokongan kan.
+[1:29:29] Haziq Azfar: um, sokongan kan.
 
-[89:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:29:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[89:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:29:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[89:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:29:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[90:06] Rafizi Ramli: Do you think they would lose that one seat?
+[1:30:06] Rafizi Ramli: Do you think they would lose that one seat?
 
-[90:08] Haziq Azfar: They might.
+[1:30:08] Haziq Azfar: They might.
 
-[90:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:30:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[90:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:30:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[90:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:30:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[90:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:30:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[91:03] Rafizi Ramli: Okey.
+[1:31:03] Rafizi Ramli: Okey.
 
-[91:05] Haziq Azfar: Menarik.
+[1:31:05] Haziq Azfar: Menarik.
 
-[91:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:31:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[91:10] Haziq Azfar: No, yang yang
+[1:31:10] Haziq Azfar: No, yang yang
 
-[91:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:31:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[91:25] Rafizi Ramli: Okey.
+[1:31:25] Rafizi Ramli: Okey.
 
-[91:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:31:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[91:35] Haziq Azfar: um,
+[1:31:35] Haziq Azfar: um,
 
-[91:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:31:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[92:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:32:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[92:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:32:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[92:39] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:32:39] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[92:42] Rafizi Ramli: Konspirasi kan.
+[1:32:42] Rafizi Ramli: Konspirasi kan.
 
-[92:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:32:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[92:53] Rafizi Ramli: Lobikan?
+[1:32:53] Rafizi Ramli: Lobikan?
 
-[92:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:32:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[93:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:33:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[93:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:33:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[93:19] Haziq Azfar: Okey baik YB.
+[1:33:19] Haziq Azfar: Okey baik YB.
 
-[93:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:33:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[93:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:33:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[93:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:33:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[93:31] Haziq Azfar: Um, hmm.
+[1:33:31] Haziq Azfar: Um, hmm.
 
-[93:32] Rafizi Ramli: What would that do?
+[1:33:32] Rafizi Ramli: What would that do?
 
-[93:33] Haziq Azfar: Itu pun beria.
+[1:33:33] Haziq Azfar: Itu pun beria.
 
-[93:34] Rafizi Ramli: Itu so ada the dynamics
+[1:33:34] Rafizi Ramli: Itu so ada the dynamics
 
-[93:35] Haziq Azfar: of a coalition, di mana
+[1:33:35] Haziq Azfar: of a coalition, di mana
 
-[93:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:33:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[93:43] Haziq Azfar: Um, hmm.
+[1:33:43] Haziq Azfar: Um, hmm.
 
-[93:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:33:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[94:25] Rafizi Ramli: tiga orang tu dah dah di-
+[1:34:25] Rafizi Ramli: tiga orang tu dah dah di-
 
-[94:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:34:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[94:31] Rafizi Ramli: Yalah, dipecat lah.
+[1:34:31] Rafizi Ramli: Yalah, dipecat lah.
 
-[94:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:34:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[94:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:34:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[94:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:34:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[95:19] Haziq Azfar: um, sokongan kan.
+[1:35:19] Haziq Azfar: um, sokongan kan.
 
-[95:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:35:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[95:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:35:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[95:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:35:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[95:56] Rafizi Ramli: Do you think they would lose that one seat?
+[1:35:56] Rafizi Ramli: Do you think they would lose that one seat?
 
-[95:58] Haziq Azfar: They might.
+[1:35:58] Haziq Azfar: They might.
 
-[96:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:36:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[96:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:36:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[96:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:36:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[96:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:36:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[96:53] Rafizi Ramli: Okey.
+[1:36:53] Rafizi Ramli: Okey.
 
-[96:55] Haziq Azfar: Menarik.
+[1:36:55] Haziq Azfar: Menarik.
 
-[96:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:36:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[97:00] Haziq Azfar: No, yang yang
+[1:37:00] Haziq Azfar: No, yang yang
 
-[97:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:37:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[97:15] Rafizi Ramli: Okey.
+[1:37:15] Rafizi Ramli: Okey.
 
-[97:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:37:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[97:25] Haziq Azfar: um,
+[1:37:25] Haziq Azfar: um,
 
-[97:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:37:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[98:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:38:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[98:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:38:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[98:29] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:38:29] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[98:32] Rafizi Ramli: Konspirasi kan.
+[1:38:32] Rafizi Ramli: Konspirasi kan.
 
-[98:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:38:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[98:43] Rafizi Ramli: Lobikan?
+[1:38:43] Rafizi Ramli: Lobikan?
 
-[98:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:38:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[98:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:38:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[99:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:39:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[99:09] Haziq Azfar: Okey baik YB.
+[1:39:09] Haziq Azfar: Okey baik YB.
 
-[99:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:39:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[99:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:39:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[99:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:39:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[99:21] Haziq Azfar: Um, hmm.
+[1:39:21] Haziq Azfar: Um, hmm.
 
-[99:22] Rafizi Ramli: What would that do?
+[1:39:22] Rafizi Ramli: What would that do?
 
-[99:23] Haziq Azfar: Itu pun beria.
+[1:39:23] Haziq Azfar: Itu pun beria.
 
-[99:24] Rafizi Ramli: Itu so ada the dynamics
+[1:39:24] Rafizi Ramli: Itu so ada the dynamics
 
-[99:25] Haziq Azfar: of a coalition, di mana
+[1:39:25] Haziq Azfar: of a coalition, di mana
 
-[99:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:39:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[99:33] Haziq Azfar: Um, hmm.
+[1:39:33] Haziq Azfar: Um, hmm.
 
-[99:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:39:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[100:15] Rafizi Ramli: tiga orang tu dah dah di-
+[1:40:15] Rafizi Ramli: tiga orang tu dah dah di-
 
-[100:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:40:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[100:21] Rafizi Ramli: Yalah, dipecat lah.
+[1:40:21] Rafizi Ramli: Yalah, dipecat lah.
 
-[100:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:40:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[100:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:40:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[100:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:40:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[101:09] Haziq Azfar: um, sokongan kan.
+[1:41:09] Haziq Azfar: um, sokongan kan.
 
-[101:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:41:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[101:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:41:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[101:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:41:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[101:46] Rafizi Ramli: Do you think they would lose that one seat?
+[1:41:46] Rafizi Ramli: Do you think they would lose that one seat?
 
-[101:48] Haziq Azfar: They might.
+[1:41:48] Haziq Azfar: They might.
 
-[101:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:41:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[102:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:42:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[102:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:42:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[102:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:42:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[102:43] Rafizi Ramli: Okey.
+[1:42:43] Rafizi Ramli: Okey.
 
-[102:45] Haziq Azfar: Menarik.
+[1:42:45] Haziq Azfar: Menarik.
 
-[102:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:42:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[102:50] Haziq Azfar: No, yang yang
+[1:42:50] Haziq Azfar: No, yang yang
 
-[102:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:42:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[103:05] Rafizi Ramli: Okey.
+[1:43:05] Rafizi Ramli: Okey.
 
-[103:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:43:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[103:15] Haziq Azfar: um,
+[1:43:15] Haziq Azfar: um,
 
-[103:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:43:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[103:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:43:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[104:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:44:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[104:19] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:44:19] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[104:22] Rafizi Ramli: Konspirasi kan.
+[1:44:22] Rafizi Ramli: Konspirasi kan.
 
-[104:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:44:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[104:33] Rafizi Ramli: Lobikan?
+[1:44:33] Rafizi Ramli: Lobikan?
 
-[104:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:44:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[104:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:44:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[104:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:44:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[104:59] Haziq Azfar: Okey baik YB.
+[1:44:59] Haziq Azfar: Okey baik YB.
 
-[105:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:45:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[105:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:45:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[105:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:45:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[105:11] Haziq Azfar: Um, hmm.
+[1:45:11] Haziq Azfar: Um, hmm.
 
-[105:12] Rafizi Ramli: What would that do?
+[1:45:12] Rafizi Ramli: What would that do?
 
-[105:13] Haziq Azfar: Itu pun beria.
+[1:45:13] Haziq Azfar: Itu pun beria.
 
-[105:14] Rafizi Ramli: Itu so ada the dynamics
+[1:45:14] Rafizi Ramli: Itu so ada the dynamics
 
-[105:15] Haziq Azfar: of a coalition, di mana
+[1:45:15] Haziq Azfar: of a coalition, di mana
 
-[105:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:45:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[105:23] Haziq Azfar: Um, hmm.
+[1:45:23] Haziq Azfar: Um, hmm.
 
-[105:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:45:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[106:05] Rafizi Ramli: tiga orang tu dah dah di-
+[1:46:05] Rafizi Ramli: tiga orang tu dah dah di-
 
-[106:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:46:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[106:11] Rafizi Ramli: Yalah, dipecat lah.
+[1:46:11] Rafizi Ramli: Yalah, dipecat lah.
 
-[106:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:46:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[106:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:46:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[106:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:46:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[106:59] Haziq Azfar: um, sokongan kan.
+[1:46:59] Haziq Azfar: um, sokongan kan.
 
-[107:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:47:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[107:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:47:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[107:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:47:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[107:36] Rafizi Ramli: Do you think they would lose that one seat?
+[1:47:36] Rafizi Ramli: Do you think they would lose that one seat?
 
-[107:38] Haziq Azfar: They might.
+[1:47:38] Haziq Azfar: They might.
 
-[107:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:47:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[107:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:47:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[108:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:48:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[108:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:48:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[108:33] Rafizi Ramli: Okey.
+[1:48:33] Rafizi Ramli: Okey.
 
-[108:35] Haziq Azfar: Menarik.
+[1:48:35] Haziq Azfar: Menarik.
 
-[108:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:48:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[108:40] Haziq Azfar: No, yang yang
+[1:48:40] Haziq Azfar: No, yang yang
 
-[108:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:48:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[108:55] Rafizi Ramli: Okey.
+[1:48:55] Rafizi Ramli: Okey.
 
-[108:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:48:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[109:05] Haziq Azfar: um,
+[1:49:05] Haziq Azfar: um,
 
-[109:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:49:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[109:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:49:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[110:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:50:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[110:09] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:50:09] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[110:12] Rafizi Ramli: Konspirasi kan.
+[1:50:12] Rafizi Ramli: Konspirasi kan.
 
-[110:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:50:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[110:23] Rafizi Ramli: Lobikan?
+[1:50:23] Rafizi Ramli: Lobikan?
 
-[110:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:50:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[110:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:50:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[110:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:50:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[110:49] Haziq Azfar: Okey baik YB.
+[1:50:49] Haziq Azfar: Okey baik YB.
 
-[110:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:50:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[110:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:50:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[110:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:50:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[111:01] Haziq Azfar: Um, hmm.
+[1:51:01] Haziq Azfar: Um, hmm.
 
-[111:02] Rafizi Ramli: What would that do?
+[1:51:02] Rafizi Ramli: What would that do?
 
-[111:03] Haziq Azfar: Itu pun beria.
+[1:51:03] Haziq Azfar: Itu pun beria.
 
-[111:04] Rafizi Ramli: Itu so ada the dynamics
+[1:51:04] Rafizi Ramli: Itu so ada the dynamics
 
-[111:05] Haziq Azfar: of a coalition, di mana
+[1:51:05] Haziq Azfar: of a coalition, di mana
 
-[111:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:51:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[111:13] Haziq Azfar: Um, hmm.
+[1:51:13] Haziq Azfar: Um, hmm.
 
-[111:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:51:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[111:55] Rafizi Ramli: tiga orang tu dah dah di-
+[1:51:55] Rafizi Ramli: tiga orang tu dah dah di-
 
-[111:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:51:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[112:01] Rafizi Ramli: Yalah, dipecat lah.
+[1:52:01] Rafizi Ramli: Yalah, dipecat lah.
 
-[112:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:52:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[112:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:52:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[112:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:52:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[112:49] Haziq Azfar: um, sokongan kan.
+[1:52:49] Haziq Azfar: um, sokongan kan.
 
-[112:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:52:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[113:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:53:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[113:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:53:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[113:26] Rafizi Ramli: Do you think they would lose that one seat?
+[1:53:26] Rafizi Ramli: Do you think they would lose that one seat?
 
-[113:28] Haziq Azfar: They might.
+[1:53:28] Haziq Azfar: They might.
 
-[113:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:53:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[113:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:53:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[114:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:54:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[114:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[1:54:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[114:23] Rafizi Ramli: Okey.
+[1:54:23] Rafizi Ramli: Okey.
 
-[114:25] Haziq Azfar: Menarik.
+[1:54:25] Haziq Azfar: Menarik.
 
-[114:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[1:54:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[114:30] Haziq Azfar: No, yang yang
+[1:54:30] Haziq Azfar: No, yang yang
 
-[114:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[1:54:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[114:45] Rafizi Ramli: Okey.
+[1:54:45] Rafizi Ramli: Okey.
 
-[114:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[1:54:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[114:55] Haziq Azfar: um,
+[1:54:55] Haziq Azfar: um,
 
-[114:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[1:54:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[115:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[1:55:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[115:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[1:55:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[115:59] Haziq Azfar: Itu yang ini, eksklusif lah.
+[1:55:59] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[116:02] Rafizi Ramli: Konspirasi kan.
+[1:56:02] Rafizi Ramli: Konspirasi kan.
 
-[116:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[1:56:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[116:13] Rafizi Ramli: Lobikan?
+[1:56:13] Rafizi Ramli: Lobikan?
 
-[116:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[1:56:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[116:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[1:56:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[116:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[1:56:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[116:39] Haziq Azfar: Okey baik YB.
+[1:56:39] Haziq Azfar: Okey baik YB.
 
-[116:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[1:56:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[116:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[1:56:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[116:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[1:56:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[116:51] Haziq Azfar: Um, hmm.
+[1:56:51] Haziq Azfar: Um, hmm.
 
-[116:52] Rafizi Ramli: What would that do?
+[1:56:52] Rafizi Ramli: What would that do?
 
-[116:53] Haziq Azfar: Itu pun beria.
+[1:56:53] Haziq Azfar: Itu pun beria.
 
-[116:54] Rafizi Ramli: Itu so ada the dynamics
+[1:56:54] Rafizi Ramli: Itu so ada the dynamics
 
-[116:55] Haziq Azfar: of a coalition, di mana
+[1:56:55] Haziq Azfar: of a coalition, di mana
 
-[116:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[1:56:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[117:03] Haziq Azfar: Um, hmm.
+[1:57:03] Haziq Azfar: Um, hmm.
 
-[117:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[1:57:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[117:45] Rafizi Ramli: tiga orang tu dah dah di-
+[1:57:45] Rafizi Ramli: tiga orang tu dah dah di-
 
-[117:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[1:57:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[117:51] Rafizi Ramli: Yalah, dipecat lah.
+[1:57:51] Rafizi Ramli: Yalah, dipecat lah.
 
-[117:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[1:57:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[118:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[1:58:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[118:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[1:58:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[118:39] Haziq Azfar: um, sokongan kan.
+[1:58:39] Haziq Azfar: um, sokongan kan.
 
-[118:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[1:58:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[118:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[1:58:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[119:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[1:59:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[119:16] Rafizi Ramli: Do you think they would lose that one seat?
+[1:59:16] Rafizi Ramli: Do you think they would lose that one seat?
 
-[119:18] Haziq Azfar: They might.
+[1:59:18] Haziq Azfar: They might.
 
-[119:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[1:59:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[119:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[1:59:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[119:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[1:59:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[120:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:00:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[120:13] Rafizi Ramli: Okey.
+[2:00:13] Rafizi Ramli: Okey.
 
-[120:15] Haziq Azfar: Menarik.
+[2:00:15] Haziq Azfar: Menarik.
 
-[120:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:00:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[120:20] Haziq Azfar: No, yang yang
+[2:00:20] Haziq Azfar: No, yang yang
 
-[120:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:00:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[120:35] Rafizi Ramli: Okey.
+[2:00:35] Rafizi Ramli: Okey.
 
-[120:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:00:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[120:45] Haziq Azfar: um,
+[2:00:45] Haziq Azfar: um,
 
-[120:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:00:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[121:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:01:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[121:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:01:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[121:49] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:01:49] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[121:52] Rafizi Ramli: Konspirasi kan.
+[2:01:52] Rafizi Ramli: Konspirasi kan.
 
-[121:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:01:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[122:03] Rafizi Ramli: Lobikan?
+[2:02:03] Rafizi Ramli: Lobikan?
 
-[122:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:02:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[122:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:02:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[122:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:02:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[122:29] Haziq Azfar: Okey baik YB.
+[2:02:29] Haziq Azfar: Okey baik YB.
 
-[122:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:02:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[122:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:02:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[122:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:02:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[122:41] Haziq Azfar: Um, hmm.
+[2:02:41] Haziq Azfar: Um, hmm.
 
-[122:42] Rafizi Ramli: What would that do?
+[2:02:42] Rafizi Ramli: What would that do?
 
-[122:43] Haziq Azfar: Itu pun beria.
+[2:02:43] Haziq Azfar: Itu pun beria.
 
-[122:44] Rafizi Ramli: Itu so ada the dynamics
+[2:02:44] Rafizi Ramli: Itu so ada the dynamics
 
-[122:45] Haziq Azfar: of a coalition, di mana
+[2:02:45] Haziq Azfar: of a coalition, di mana
 
-[122:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:02:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[122:53] Haziq Azfar: Um, hmm.
+[2:02:53] Haziq Azfar: Um, hmm.
 
-[122:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:02:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[123:35] Rafizi Ramli: tiga orang tu dah dah di-
+[2:03:35] Rafizi Ramli: tiga orang tu dah dah di-
 
-[123:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:03:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[123:41] Rafizi Ramli: Yalah, dipecat lah.
+[2:03:41] Rafizi Ramli: Yalah, dipecat lah.
 
-[123:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:03:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[123:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:03:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[124:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:04:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[124:29] Haziq Azfar: um, sokongan kan.
+[2:04:29] Haziq Azfar: um, sokongan kan.
 
-[124:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:04:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[124:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:04:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[124:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:04:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[125:06] Rafizi Ramli: Do you think they would lose that one seat?
+[2:05:06] Rafizi Ramli: Do you think they would lose that one seat?
 
-[125:08] Haziq Azfar: They might.
+[2:05:08] Haziq Azfar: They might.
 
-[125:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:05:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[125:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:05:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[125:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:05:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[125:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:05:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[126:03] Rafizi Ramli: Okey.
+[2:06:03] Rafizi Ramli: Okey.
 
-[126:05] Haziq Azfar: Menarik.
+[2:06:05] Haziq Azfar: Menarik.
 
-[126:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:06:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[126:10] Haziq Azfar: No, yang yang
+[2:06:10] Haziq Azfar: No, yang yang
 
-[126:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:06:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[126:25] Rafizi Ramli: Okey.
+[2:06:25] Rafizi Ramli: Okey.
 
-[126:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:06:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[126:35] Haziq Azfar: um,
+[2:06:35] Haziq Azfar: um,
 
-[126:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:06:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[127:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:07:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[127:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:07:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[127:39] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:07:39] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[127:42] Rafizi Ramli: Konspirasi kan.
+[2:07:42] Rafizi Ramli: Konspirasi kan.
 
-[127:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:07:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[127:53] Rafizi Ramli: Lobikan?
+[2:07:53] Rafizi Ramli: Lobikan?
 
-[127:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:07:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[128:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:08:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[128:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:08:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[128:19] Haziq Azfar: Okey baik YB.
+[2:08:19] Haziq Azfar: Okey baik YB.
 
-[128:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:08:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[128:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:08:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[128:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:08:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[128:31] Haziq Azfar: Um, hmm.
+[2:08:31] Haziq Azfar: Um, hmm.
 
-[128:32] Rafizi Ramli: What would that do?
+[2:08:32] Rafizi Ramli: What would that do?
 
-[128:33] Haziq Azfar: Itu pun beria.
+[2:08:33] Haziq Azfar: Itu pun beria.
 
-[128:34] Rafizi Ramli: Itu so ada the dynamics
+[2:08:34] Rafizi Ramli: Itu so ada the dynamics
 
-[128:35] Haziq Azfar: of a coalition, di mana
+[2:08:35] Haziq Azfar: of a coalition, di mana
 
-[128:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:08:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[128:43] Haziq Azfar: Um, hmm.
+[2:08:43] Haziq Azfar: Um, hmm.
 
-[128:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:08:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[129:25] Rafizi Ramli: tiga orang tu dah dah di-
+[2:09:25] Rafizi Ramli: tiga orang tu dah dah di-
 
-[129:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:09:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[129:31] Rafizi Ramli: Yalah, dipecat lah.
+[2:09:31] Rafizi Ramli: Yalah, dipecat lah.
 
-[129:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:09:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[129:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:09:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[129:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:09:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[130:19] Haziq Azfar: um, sokongan kan.
+[2:10:19] Haziq Azfar: um, sokongan kan.
 
-[130:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:10:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[130:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:10:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[130:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:10:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[130:56] Rafizi Ramli: Do you think they would lose that one seat?
+[2:10:56] Rafizi Ramli: Do you think they would lose that one seat?
 
-[130:58] Haziq Azfar: They might.
+[2:10:58] Haziq Azfar: They might.
 
-[131:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:11:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[131:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:11:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[131:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:11:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[131:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:11:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[131:53] Rafizi Ramli: Okey.
+[2:11:53] Rafizi Ramli: Okey.
 
-[131:55] Haziq Azfar: Menarik.
+[2:11:55] Haziq Azfar: Menarik.
 
-[131:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:11:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[132:00] Haziq Azfar: No, yang yang
+[2:12:00] Haziq Azfar: No, yang yang
 
-[132:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:12:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[132:15] Rafizi Ramli: Okey.
+[2:12:15] Rafizi Ramli: Okey.
 
-[132:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:12:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[132:25] Haziq Azfar: um,
+[2:12:25] Haziq Azfar: um,
 
-[132:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:12:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[133:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:13:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[133:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:13:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[133:29] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:13:29] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[133:32] Rafizi Ramli: Konspirasi kan.
+[2:13:32] Rafizi Ramli: Konspirasi kan.
 
-[133:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:13:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[133:43] Rafizi Ramli: Lobikan?
+[2:13:43] Rafizi Ramli: Lobikan?
 
-[133:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:13:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[133:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:13:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[134:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:14:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[134:09] Haziq Azfar: Okey baik YB.
+[2:14:09] Haziq Azfar: Okey baik YB.
 
-[134:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:14:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[134:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:14:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[134:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:14:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[134:21] Haziq Azfar: Um, hmm.
+[2:14:21] Haziq Azfar: Um, hmm.
 
-[134:22] Rafizi Ramli: What would that do?
+[2:14:22] Rafizi Ramli: What would that do?
 
-[134:23] Haziq Azfar: Itu pun beria.
+[2:14:23] Haziq Azfar: Itu pun beria.
 
-[134:24] Rafizi Ramli: Itu so ada the dynamics
+[2:14:24] Rafizi Ramli: Itu so ada the dynamics
 
-[134:25] Haziq Azfar: of a coalition, di mana
+[2:14:25] Haziq Azfar: of a coalition, di mana
 
-[134:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:14:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[134:33] Haziq Azfar: Um, hmm.
+[2:14:33] Haziq Azfar: Um, hmm.
 
-[134:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:14:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[135:15] Rafizi Ramli: tiga orang tu dah dah di-
+[2:15:15] Rafizi Ramli: tiga orang tu dah dah di-
 
-[135:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:15:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[135:21] Rafizi Ramli: Yalah, dipecat lah.
+[2:15:21] Rafizi Ramli: Yalah, dipecat lah.
 
-[135:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:15:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[135:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:15:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[135:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:15:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[136:09] Haziq Azfar: um, sokongan kan.
+[2:16:09] Haziq Azfar: um, sokongan kan.
 
-[136:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:16:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[136:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:16:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[136:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:16:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[136:46] Rafizi Ramli: Do you think they would lose that one seat?
+[2:16:46] Rafizi Ramli: Do you think they would lose that one seat?
 
-[136:48] Haziq Azfar: They might.
+[2:16:48] Haziq Azfar: They might.
 
-[136:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:16:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[137:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:17:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[137:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:17:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[137:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:17:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[137:43] Rafizi Ramli: Okey.
+[2:17:43] Rafizi Ramli: Okey.
 
-[137:45] Haziq Azfar: Menarik.
+[2:17:45] Haziq Azfar: Menarik.
 
-[137:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:17:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[137:50] Haziq Azfar: No, yang yang
+[2:17:50] Haziq Azfar: No, yang yang
 
-[137:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:17:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[138:05] Rafizi Ramli: Okey.
+[2:18:05] Rafizi Ramli: Okey.
 
-[138:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:18:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[138:15] Haziq Azfar: um,
+[2:18:15] Haziq Azfar: um,
 
-[138:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:18:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[138:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:18:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[139:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:19:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[139:19] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:19:19] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[139:22] Rafizi Ramli: Konspirasi kan.
+[2:19:22] Rafizi Ramli: Konspirasi kan.
 
-[139:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:19:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[139:33] Rafizi Ramli: Lobikan?
+[2:19:33] Rafizi Ramli: Lobikan?
 
-[139:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:19:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[139:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:19:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[139:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:19:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[139:59] Haziq Azfar: Okey baik YB.
+[2:19:59] Haziq Azfar: Okey baik YB.
 
-[140:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:20:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[140:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:20:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[140:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:20:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[140:11] Haziq Azfar: Um, hmm.
+[2:20:11] Haziq Azfar: Um, hmm.
 
-[140:12] Rafizi Ramli: What would that do?
+[2:20:12] Rafizi Ramli: What would that do?
 
-[140:13] Haziq Azfar: Itu pun beria.
+[2:20:13] Haziq Azfar: Itu pun beria.
 
-[140:14] Rafizi Ramli: Itu so ada the dynamics
+[2:20:14] Rafizi Ramli: Itu so ada the dynamics
 
-[140:15] Haziq Azfar: of a coalition, di mana
+[2:20:15] Haziq Azfar: of a coalition, di mana
 
-[140:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:20:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[140:23] Haziq Azfar: Um, hmm.
+[2:20:23] Haziq Azfar: Um, hmm.
 
-[140:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:20:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[141:05] Rafizi Ramli: tiga orang tu dah dah di-
+[2:21:05] Rafizi Ramli: tiga orang tu dah dah di-
 
-[141:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:21:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[141:11] Rafizi Ramli: Yalah, dipecat lah.
+[2:21:11] Rafizi Ramli: Yalah, dipecat lah.
 
-[141:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:21:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[141:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:21:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[141:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:21:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[141:59] Haziq Azfar: um, sokongan kan.
+[2:21:59] Haziq Azfar: um, sokongan kan.
 
-[142:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:22:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[142:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:22:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[142:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:22:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[142:36] Rafizi Ramli: Do you think they would lose that one seat?
+[2:22:36] Rafizi Ramli: Do you think they would lose that one seat?
 
-[142:38] Haziq Azfar: They might.
+[2:22:38] Haziq Azfar: They might.
 
-[142:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:22:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[142:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:22:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[143:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:23:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[143:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:23:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[143:33] Rafizi Ramli: Okey.
+[2:23:33] Rafizi Ramli: Okey.
 
-[143:35] Haziq Azfar: Menarik.
+[2:23:35] Haziq Azfar: Menarik.
 
-[143:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:23:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[143:40] Haziq Azfar: No, yang yang
+[2:23:40] Haziq Azfar: No, yang yang
 
-[143:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:23:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[143:55] Rafizi Ramli: Okey.
+[2:23:55] Rafizi Ramli: Okey.
 
-[143:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:23:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[144:05] Haziq Azfar: um,
+[2:24:05] Haziq Azfar: um,
 
-[144:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:24:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[144:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:24:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[145:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:25:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[145:09] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:25:09] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[145:12] Rafizi Ramli: Konspirasi kan.
+[2:25:12] Rafizi Ramli: Konspirasi kan.
 
-[145:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:25:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[145:23] Rafizi Ramli: Lobikan?
+[2:25:23] Rafizi Ramli: Lobikan?
 
-[145:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:25:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[145:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:25:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[145:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:25:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[145:49] Haziq Azfar: Okey baik YB.
+[2:25:49] Haziq Azfar: Okey baik YB.
 
-[145:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:25:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[145:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:25:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[145:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:25:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[146:01] Haziq Azfar: Um, hmm.
+[2:26:01] Haziq Azfar: Um, hmm.
 
-[146:02] Rafizi Ramli: What would that do?
+[2:26:02] Rafizi Ramli: What would that do?
 
-[146:03] Haziq Azfar: Itu pun beria.
+[2:26:03] Haziq Azfar: Itu pun beria.
 
-[146:04] Rafizi Ramli: Itu so ada the dynamics
+[2:26:04] Rafizi Ramli: Itu so ada the dynamics
 
-[146:05] Haziq Azfar: of a coalition, di mana
+[2:26:05] Haziq Azfar: of a coalition, di mana
 
-[146:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:26:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[146:13] Haziq Azfar: Um, hmm.
+[2:26:13] Haziq Azfar: Um, hmm.
 
-[146:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:26:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[146:55] Rafizi Ramli: tiga orang tu dah dah di-
+[2:26:55] Rafizi Ramli: tiga orang tu dah dah di-
 
-[146:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:26:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[147:01] Rafizi Ramli: Yalah, dipecat lah.
+[2:27:01] Rafizi Ramli: Yalah, dipecat lah.
 
-[147:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:27:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[147:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:27:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[147:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:27:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[147:49] Haziq Azfar: um, sokongan kan.
+[2:27:49] Haziq Azfar: um, sokongan kan.
 
-[147:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:27:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[148:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:28:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[148:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:28:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[148:26] Rafizi Ramli: Do you think they would lose that one seat?
+[2:28:26] Rafizi Ramli: Do you think they would lose that one seat?
 
-[148:28] Haziq Azfar: They might.
+[2:28:28] Haziq Azfar: They might.
 
-[148:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:28:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[148:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:28:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[149:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:29:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[149:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:29:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[149:23] Rafizi Ramli: Okey.
+[2:29:23] Rafizi Ramli: Okey.
 
-[149:25] Haziq Azfar: Menarik.
+[2:29:25] Haziq Azfar: Menarik.
 
-[149:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:29:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[149:30] Haziq Azfar: No, yang yang
+[2:29:30] Haziq Azfar: No, yang yang
 
-[149:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:29:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[149:45] Rafizi Ramli: Okey.
+[2:29:45] Rafizi Ramli: Okey.
 
-[149:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:29:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[149:55] Haziq Azfar: um,
+[2:29:55] Haziq Azfar: um,
 
-[149:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:29:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[150:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:30:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[150:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:30:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[150:59] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:30:59] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[151:02] Rafizi Ramli: Konspirasi kan.
+[2:31:02] Rafizi Ramli: Konspirasi kan.
 
-[151:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:31:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[151:13] Rafizi Ramli: Lobikan?
+[2:31:13] Rafizi Ramli: Lobikan?
 
-[151:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:31:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[151:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:31:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[151:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:31:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[151:39] Haziq Azfar: Okey baik YB.
+[2:31:39] Haziq Azfar: Okey baik YB.
 
-[151:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:31:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[151:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:31:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[151:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:31:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[151:51] Haziq Azfar: Um, hmm.
+[2:31:51] Haziq Azfar: Um, hmm.
 
-[151:52] Rafizi Ramli: What would that do?
+[2:31:52] Rafizi Ramli: What would that do?
 
-[151:53] Haziq Azfar: Itu pun beria.
+[2:31:53] Haziq Azfar: Itu pun beria.
 
-[151:54] Rafizi Ramli: Itu so ada the dynamics
+[2:31:54] Rafizi Ramli: Itu so ada the dynamics
 
-[151:55] Haziq Azfar: of a coalition, di mana
+[2:31:55] Haziq Azfar: of a coalition, di mana
 
-[151:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:31:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[152:03] Haziq Azfar: Um, hmm.
+[2:32:03] Haziq Azfar: Um, hmm.
 
-[152:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:32:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[152:45] Rafizi Ramli: tiga orang tu dah dah di-
+[2:32:45] Rafizi Ramli: tiga orang tu dah dah di-
 
-[152:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:32:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[152:51] Rafizi Ramli: Yalah, dipecat lah.
+[2:32:51] Rafizi Ramli: Yalah, dipecat lah.
 
-[152:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:32:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[153:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:33:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[153:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:33:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[153:39] Haziq Azfar: um, sokongan kan.
+[2:33:39] Haziq Azfar: um, sokongan kan.
 
-[153:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:33:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[153:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:33:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[154:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:34:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[154:16] Rafizi Ramli: Do you think they would lose that one seat?
+[2:34:16] Rafizi Ramli: Do you think they would lose that one seat?
 
-[154:18] Haziq Azfar: They might.
+[2:34:18] Haziq Azfar: They might.
 
-[154:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:34:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[154:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:34:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[154:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:34:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[155:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:35:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[155:13] Rafizi Ramli: Okey.
+[2:35:13] Rafizi Ramli: Okey.
 
-[155:15] Haziq Azfar: Menarik.
+[2:35:15] Haziq Azfar: Menarik.
 
-[155:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:35:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[155:20] Haziq Azfar: No, yang yang
+[2:35:20] Haziq Azfar: No, yang yang
 
-[155:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:35:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[155:35] Rafizi Ramli: Okey.
+[2:35:35] Rafizi Ramli: Okey.
 
-[155:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:35:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[155:45] Haziq Azfar: um,
+[2:35:45] Haziq Azfar: um,
 
-[155:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:35:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[156:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:36:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[156:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:36:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[156:49] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:36:49] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[156:52] Rafizi Ramli: Konspirasi kan.
+[2:36:52] Rafizi Ramli: Konspirasi kan.
 
-[156:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:36:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[157:03] Rafizi Ramli: Lobikan?
+[2:37:03] Rafizi Ramli: Lobikan?
 
-[157:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:37:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[157:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:37:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[157:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:37:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[157:29] Haziq Azfar: Okey baik YB.
+[2:37:29] Haziq Azfar: Okey baik YB.
 
-[157:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:37:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[157:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:37:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[157:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:37:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[157:41] Haziq Azfar: Um, hmm.
+[2:37:41] Haziq Azfar: Um, hmm.
 
-[157:42] Rafizi Ramli: What would that do?
+[2:37:42] Rafizi Ramli: What would that do?
 
-[157:43] Haziq Azfar: Itu pun beria.
+[2:37:43] Haziq Azfar: Itu pun beria.
 
-[157:44] Rafizi Ramli: Itu so ada the dynamics
+[2:37:44] Rafizi Ramli: Itu so ada the dynamics
 
-[157:45] Haziq Azfar: of a coalition, di mana
+[2:37:45] Haziq Azfar: of a coalition, di mana
 
-[157:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:37:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[157:53] Haziq Azfar: Um, hmm.
+[2:37:53] Haziq Azfar: Um, hmm.
 
-[157:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:37:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[158:35] Rafizi Ramli: tiga orang tu dah dah di-
+[2:38:35] Rafizi Ramli: tiga orang tu dah dah di-
 
-[158:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:38:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[158:41] Rafizi Ramli: Yalah, dipecat lah.
+[2:38:41] Rafizi Ramli: Yalah, dipecat lah.
 
-[158:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:38:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[158:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:38:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[159:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:39:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[159:29] Haziq Azfar: um, sokongan kan.
+[2:39:29] Haziq Azfar: um, sokongan kan.
 
-[159:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:39:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[159:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:39:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[159:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:39:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[160:06] Rafizi Ramli: Do you think they would lose that one seat?
+[2:40:06] Rafizi Ramli: Do you think they would lose that one seat?
 
-[160:08] Haziq Azfar: They might.
+[2:40:08] Haziq Azfar: They might.
 
-[160:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:40:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[160:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:40:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[160:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:40:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[160:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:40:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[161:03] Rafizi Ramli: Okey.
+[2:41:03] Rafizi Ramli: Okey.
 
-[161:05] Haziq Azfar: Menarik.
+[2:41:05] Haziq Azfar: Menarik.
 
-[161:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:41:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[161:10] Haziq Azfar: No, yang yang
+[2:41:10] Haziq Azfar: No, yang yang
 
-[161:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:41:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[161:25] Rafizi Ramli: Okey.
+[2:41:25] Rafizi Ramli: Okey.
 
-[161:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:41:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[161:35] Haziq Azfar: um,
+[2:41:35] Haziq Azfar: um,
 
-[161:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:41:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[162:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:42:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[162:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:42:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[162:39] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:42:39] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[162:42] Rafizi Ramli: Konspirasi kan.
+[2:42:42] Rafizi Ramli: Konspirasi kan.
 
-[162:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:42:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[162:53] Rafizi Ramli: Lobikan?
+[2:42:53] Rafizi Ramli: Lobikan?
 
-[162:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:42:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[163:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:43:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[163:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:43:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[163:19] Haziq Azfar: Okey baik YB.
+[2:43:19] Haziq Azfar: Okey baik YB.
 
-[163:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:43:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[163:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:43:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[163:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:43:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[163:31] Haziq Azfar: Um, hmm.
+[2:43:31] Haziq Azfar: Um, hmm.
 
-[163:32] Rafizi Ramli: What would that do?
+[2:43:32] Rafizi Ramli: What would that do?
 
-[163:33] Haziq Azfar: Itu pun beria.
+[2:43:33] Haziq Azfar: Itu pun beria.
 
-[163:34] Rafizi Ramli: Itu so ada the dynamics
+[2:43:34] Rafizi Ramli: Itu so ada the dynamics
 
-[163:35] Haziq Azfar: of a coalition, di mana
+[2:43:35] Haziq Azfar: of a coalition, di mana
 
-[163:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:43:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[163:43] Haziq Azfar: Um, hmm.
+[2:43:43] Haziq Azfar: Um, hmm.
 
-[163:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:43:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[164:25] Rafizi Ramli: tiga orang tu dah dah di-
+[2:44:25] Rafizi Ramli: tiga orang tu dah dah di-
 
-[164:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:44:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[164:31] Rafizi Ramli: Yalah, dipecat lah.
+[2:44:31] Rafizi Ramli: Yalah, dipecat lah.
 
-[164:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:44:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[164:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:44:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[164:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:44:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[165:19] Haziq Azfar: um, sokongan kan.
+[2:45:19] Haziq Azfar: um, sokongan kan.
 
-[165:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:45:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[165:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:45:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[165:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:45:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[165:56] Rafizi Ramli: Do you think they would lose that one seat?
+[2:45:56] Rafizi Ramli: Do you think they would lose that one seat?
 
-[165:58] Haziq Azfar: They might.
+[2:45:58] Haziq Azfar: They might.
 
-[166:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:46:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[166:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:46:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[166:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:46:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[166:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:46:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[166:53] Rafizi Ramli: Okey.
+[2:46:53] Rafizi Ramli: Okey.
 
-[166:55] Haziq Azfar: Menarik.
+[2:46:55] Haziq Azfar: Menarik.
 
-[166:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:46:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[167:00] Haziq Azfar: No, yang yang
+[2:47:00] Haziq Azfar: No, yang yang
 
-[167:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:47:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[167:15] Rafizi Ramli: Okey.
+[2:47:15] Rafizi Ramli: Okey.
 
-[167:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:47:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[167:25] Haziq Azfar: um,
+[2:47:25] Haziq Azfar: um,
 
-[167:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:47:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[168:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:48:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[168:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:48:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[168:29] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:48:29] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[168:32] Rafizi Ramli: Konspirasi kan.
+[2:48:32] Rafizi Ramli: Konspirasi kan.
 
-[168:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:48:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[168:43] Rafizi Ramli: Lobikan?
+[2:48:43] Rafizi Ramli: Lobikan?
 
-[168:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:48:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[168:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:48:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[169:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:49:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[169:09] Haziq Azfar: Okey baik YB.
+[2:49:09] Haziq Azfar: Okey baik YB.
 
-[169:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:49:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[169:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:49:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[169:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:49:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[169:21] Haziq Azfar: Um, hmm.
+[2:49:21] Haziq Azfar: Um, hmm.
 
-[169:22] Rafizi Ramli: What would that do?
+[2:49:22] Rafizi Ramli: What would that do?
 
-[169:23] Haziq Azfar: Itu pun beria.
+[2:49:23] Haziq Azfar: Itu pun beria.
 
-[169:24] Rafizi Ramli: Itu so ada the dynamics
+[2:49:24] Rafizi Ramli: Itu so ada the dynamics
 
-[169:25] Haziq Azfar: of a coalition, di mana
+[2:49:25] Haziq Azfar: of a coalition, di mana
 
-[169:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:49:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[169:33] Haziq Azfar: Um, hmm.
+[2:49:33] Haziq Azfar: Um, hmm.
 
-[169:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:49:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[170:15] Rafizi Ramli: tiga orang tu dah dah di-
+[2:50:15] Rafizi Ramli: tiga orang tu dah dah di-
 
-[170:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:50:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[170:21] Rafizi Ramli: Yalah, dipecat lah.
+[2:50:21] Rafizi Ramli: Yalah, dipecat lah.
 
-[170:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:50:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[170:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:50:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[170:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:50:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[171:09] Haziq Azfar: um, sokongan kan.
+[2:51:09] Haziq Azfar: um, sokongan kan.
 
-[171:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:51:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[171:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:51:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[171:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:51:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[171:46] Rafizi Ramli: Do you think they would lose that one seat?
+[2:51:46] Rafizi Ramli: Do you think they would lose that one seat?
 
-[171:48] Haziq Azfar: They might.
+[2:51:48] Haziq Azfar: They might.
 
-[171:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:51:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[172:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:52:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[172:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:52:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[172:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:52:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[172:43] Rafizi Ramli: Okey.
+[2:52:43] Rafizi Ramli: Okey.
 
-[172:45] Haziq Azfar: Menarik.
+[2:52:45] Haziq Azfar: Menarik.
 
-[172:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:52:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[172:50] Haziq Azfar: No, yang yang
+[2:52:50] Haziq Azfar: No, yang yang
 
-[172:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:52:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[173:05] Rafizi Ramli: Okey.
+[2:53:05] Rafizi Ramli: Okey.
 
-[173:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:53:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[173:15] Haziq Azfar: um,
+[2:53:15] Haziq Azfar: um,
 
-[173:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:53:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[173:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:53:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[174:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[2:54:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[174:19] Haziq Azfar: Itu yang ini, eksklusif lah.
+[2:54:19] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[174:22] Rafizi Ramli: Konspirasi kan.
+[2:54:22] Rafizi Ramli: Konspirasi kan.
 
-[174:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[2:54:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[174:33] Rafizi Ramli: Lobikan?
+[2:54:33] Rafizi Ramli: Lobikan?
 
-[174:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[2:54:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[174:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[2:54:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[174:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[2:54:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[174:59] Haziq Azfar: Okey baik YB.
+[2:54:59] Haziq Azfar: Okey baik YB.
 
-[175:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[2:55:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[175:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[2:55:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[175:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[2:55:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[175:11] Haziq Azfar: Um, hmm.
+[2:55:11] Haziq Azfar: Um, hmm.
 
-[175:12] Rafizi Ramli: What would that do?
+[2:55:12] Rafizi Ramli: What would that do?
 
-[175:13] Haziq Azfar: Itu pun beria.
+[2:55:13] Haziq Azfar: Itu pun beria.
 
-[175:14] Rafizi Ramli: Itu so ada the dynamics
+[2:55:14] Rafizi Ramli: Itu so ada the dynamics
 
-[175:15] Haziq Azfar: of a coalition, di mana
+[2:55:15] Haziq Azfar: of a coalition, di mana
 
-[175:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[2:55:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[175:23] Haziq Azfar: Um, hmm.
+[2:55:23] Haziq Azfar: Um, hmm.
 
-[175:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[2:55:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[176:05] Rafizi Ramli: tiga orang tu dah dah di-
+[2:56:05] Rafizi Ramli: tiga orang tu dah dah di-
 
-[176:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[2:56:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[176:11] Rafizi Ramli: Yalah, dipecat lah.
+[2:56:11] Rafizi Ramli: Yalah, dipecat lah.
 
-[176:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[2:56:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[176:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[2:56:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[176:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[2:56:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[176:59] Haziq Azfar: um, sokongan kan.
+[2:56:59] Haziq Azfar: um, sokongan kan.
 
-[177:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[2:57:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[177:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[2:57:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[177:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[2:57:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[177:36] Rafizi Ramli: Do you think they would lose that one seat?
+[2:57:36] Rafizi Ramli: Do you think they would lose that one seat?
 
-[177:38] Haziq Azfar: They might.
+[2:57:38] Haziq Azfar: They might.
 
-[177:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[2:57:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[177:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[2:57:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[178:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[2:58:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[178:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[2:58:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[178:33] Rafizi Ramli: Okey.
+[2:58:33] Rafizi Ramli: Okey.
 
-[178:35] Haziq Azfar: Menarik.
+[2:58:35] Haziq Azfar: Menarik.
 
-[178:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[2:58:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[178:40] Haziq Azfar: No, yang yang
+[2:58:40] Haziq Azfar: No, yang yang
 
-[178:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[2:58:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[178:55] Rafizi Ramli: Okey.
+[2:58:55] Rafizi Ramli: Okey.
 
-[178:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[2:58:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[179:05] Haziq Azfar: um,
+[2:59:05] Haziq Azfar: um,
 
-[179:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[2:59:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[179:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[2:59:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[180:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:00:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[180:09] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:00:09] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[180:12] Rafizi Ramli: Konspirasi kan.
+[3:00:12] Rafizi Ramli: Konspirasi kan.
 
-[180:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:00:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[180:23] Rafizi Ramli: Lobikan?
+[3:00:23] Rafizi Ramli: Lobikan?
 
-[180:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:00:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[180:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:00:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[180:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:00:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[180:49] Haziq Azfar: Okey baik YB.
+[3:00:49] Haziq Azfar: Okey baik YB.
 
-[180:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:00:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[180:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:00:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[180:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:00:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[181:01] Haziq Azfar: Um, hmm.
+[3:01:01] Haziq Azfar: Um, hmm.
 
-[181:02] Rafizi Ramli: What would that do?
+[3:01:02] Rafizi Ramli: What would that do?
 
-[181:03] Haziq Azfar: Itu pun beria.
+[3:01:03] Haziq Azfar: Itu pun beria.
 
-[181:04] Rafizi Ramli: Itu so ada the dynamics
+[3:01:04] Rafizi Ramli: Itu so ada the dynamics
 
-[181:05] Haziq Azfar: of a coalition, di mana
+[3:01:05] Haziq Azfar: of a coalition, di mana
 
-[181:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:01:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[181:13] Haziq Azfar: Um, hmm.
+[3:01:13] Haziq Azfar: Um, hmm.
 
-[181:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:01:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[181:55] Rafizi Ramli: tiga orang tu dah dah di-
+[3:01:55] Rafizi Ramli: tiga orang tu dah dah di-
 
-[181:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:01:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[182:01] Rafizi Ramli: Yalah, dipecat lah.
+[3:02:01] Rafizi Ramli: Yalah, dipecat lah.
 
-[182:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:02:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[182:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:02:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[182:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:02:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[182:49] Haziq Azfar: um, sokongan kan.
+[3:02:49] Haziq Azfar: um, sokongan kan.
 
-[182:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:02:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[183:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:03:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[183:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:03:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[183:26] Rafizi Ramli: Do you think they would lose that one seat?
+[3:03:26] Rafizi Ramli: Do you think they would lose that one seat?
 
-[183:28] Haziq Azfar: They might.
+[3:03:28] Haziq Azfar: They might.
 
-[183:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:03:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[183:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:03:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[184:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:04:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[184:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:04:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[184:23] Rafizi Ramli: Okey.
+[3:04:23] Rafizi Ramli: Okey.
 
-[184:25] Haziq Azfar: Menarik.
+[3:04:25] Haziq Azfar: Menarik.
 
-[184:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:04:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[184:30] Haziq Azfar: No, yang yang
+[3:04:30] Haziq Azfar: No, yang yang
 
-[184:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:04:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[184:45] Rafizi Ramli: Okey.
+[3:04:45] Rafizi Ramli: Okey.
 
-[184:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:04:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[184:55] Haziq Azfar: um,
+[3:04:55] Haziq Azfar: um,
 
-[184:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:04:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[185:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:05:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[185:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:05:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[185:59] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:05:59] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[186:02] Rafizi Ramli: Konspirasi kan.
+[3:06:02] Rafizi Ramli: Konspirasi kan.
 
-[186:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:06:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[186:13] Rafizi Ramli: Lobikan?
+[3:06:13] Rafizi Ramli: Lobikan?
 
-[186:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:06:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[186:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:06:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[186:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:06:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[186:39] Haziq Azfar: Okey baik YB.
+[3:06:39] Haziq Azfar: Okey baik YB.
 
-[186:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:06:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[186:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:06:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[186:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:06:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[186:51] Haziq Azfar: Um, hmm.
+[3:06:51] Haziq Azfar: Um, hmm.
 
-[186:52] Rafizi Ramli: What would that do?
+[3:06:52] Rafizi Ramli: What would that do?
 
-[186:53] Haziq Azfar: Itu pun beria.
+[3:06:53] Haziq Azfar: Itu pun beria.
 
-[186:54] Rafizi Ramli: Itu so ada the dynamics
+[3:06:54] Rafizi Ramli: Itu so ada the dynamics
 
-[186:55] Haziq Azfar: of a coalition, di mana
+[3:06:55] Haziq Azfar: of a coalition, di mana
 
-[186:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:06:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[187:03] Haziq Azfar: Um, hmm.
+[3:07:03] Haziq Azfar: Um, hmm.
 
-[187:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:07:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[187:45] Rafizi Ramli: tiga orang tu dah dah di-
+[3:07:45] Rafizi Ramli: tiga orang tu dah dah di-
 
-[187:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:07:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[187:51] Rafizi Ramli: Yalah, dipecat lah.
+[3:07:51] Rafizi Ramli: Yalah, dipecat lah.
 
-[187:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:07:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[188:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:08:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[188:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:08:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[188:39] Haziq Azfar: um, sokongan kan.
+[3:08:39] Haziq Azfar: um, sokongan kan.
 
-[188:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:08:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[188:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:08:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[189:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:09:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[189:16] Rafizi Ramli: Do you think they would lose that one seat?
+[3:09:16] Rafizi Ramli: Do you think they would lose that one seat?
 
-[189:18] Haziq Azfar: They might.
+[3:09:18] Haziq Azfar: They might.
 
-[189:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:09:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[189:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:09:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[189:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:09:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[190:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:10:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[190:13] Rafizi Ramli: Okey.
+[3:10:13] Rafizi Ramli: Okey.
 
-[190:15] Haziq Azfar: Menarik.
+[3:10:15] Haziq Azfar: Menarik.
 
-[190:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:10:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[190:20] Haziq Azfar: No, yang yang
+[3:10:20] Haziq Azfar: No, yang yang
 
-[190:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:10:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[190:35] Rafizi Ramli: Okey.
+[3:10:35] Rafizi Ramli: Okey.
 
-[190:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:10:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[190:45] Haziq Azfar: um,
+[3:10:45] Haziq Azfar: um,
 
-[190:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:10:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[191:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:11:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[191:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:11:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[191:49] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:11:49] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[191:52] Rafizi Ramli: Konspirasi kan.
+[3:11:52] Rafizi Ramli: Konspirasi kan.
 
-[191:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:11:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[192:03] Rafizi Ramli: Lobikan?
+[3:12:03] Rafizi Ramli: Lobikan?
 
-[192:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:12:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[192:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:12:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[192:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:12:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[192:29] Haziq Azfar: Okey baik YB.
+[3:12:29] Haziq Azfar: Okey baik YB.
 
-[192:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:12:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[192:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:12:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[192:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:12:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[192:41] Haziq Azfar: Um, hmm.
+[3:12:41] Haziq Azfar: Um, hmm.
 
-[192:42] Rafizi Ramli: What would that do?
+[3:12:42] Rafizi Ramli: What would that do?
 
-[192:43] Haziq Azfar: Itu pun beria.
+[3:12:43] Haziq Azfar: Itu pun beria.
 
-[192:44] Rafizi Ramli: Itu so ada the dynamics
+[3:12:44] Rafizi Ramli: Itu so ada the dynamics
 
-[192:45] Haziq Azfar: of a coalition, di mana
+[3:12:45] Haziq Azfar: of a coalition, di mana
 
-[192:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:12:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[192:53] Haziq Azfar: Um, hmm.
+[3:12:53] Haziq Azfar: Um, hmm.
 
-[192:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:12:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[193:35] Rafizi Ramli: tiga orang tu dah dah di-
+[3:13:35] Rafizi Ramli: tiga orang tu dah dah di-
 
-[193:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:13:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[193:41] Rafizi Ramli: Yalah, dipecat lah.
+[3:13:41] Rafizi Ramli: Yalah, dipecat lah.
 
-[193:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:13:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[193:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:13:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[194:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:14:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[194:29] Haziq Azfar: um, sokongan kan.
+[3:14:29] Haziq Azfar: um, sokongan kan.
 
-[194:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:14:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[194:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:14:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[194:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:14:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[195:06] Rafizi Ramli: Do you think they would lose that one seat?
+[3:15:06] Rafizi Ramli: Do you think they would lose that one seat?
 
-[195:08] Haziq Azfar: They might.
+[3:15:08] Haziq Azfar: They might.
 
-[195:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:15:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[195:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:15:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[195:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:15:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[195:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:15:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[196:03] Rafizi Ramli: Okey.
+[3:16:03] Rafizi Ramli: Okey.
 
-[196:05] Haziq Azfar: Menarik.
+[3:16:05] Haziq Azfar: Menarik.
 
-[196:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:16:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[196:10] Haziq Azfar: No, yang yang
+[3:16:10] Haziq Azfar: No, yang yang
 
-[196:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:16:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[196:25] Rafizi Ramli: Okey.
+[3:16:25] Rafizi Ramli: Okey.
 
-[196:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:16:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[196:35] Haziq Azfar: um,
+[3:16:35] Haziq Azfar: um,
 
-[196:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:16:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[197:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:17:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[197:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:17:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[197:39] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:17:39] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[197:42] Rafizi Ramli: Konspirasi kan.
+[3:17:42] Rafizi Ramli: Konspirasi kan.
 
-[197:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:17:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[197:53] Rafizi Ramli: Lobikan?
+[3:17:53] Rafizi Ramli: Lobikan?
 
-[197:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:17:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[198:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:18:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[198:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:18:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[198:19] Haziq Azfar: Okey baik YB.
+[3:18:19] Haziq Azfar: Okey baik YB.
 
-[198:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:18:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[198:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:18:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[198:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:18:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[198:31] Haziq Azfar: Um, hmm.
+[3:18:31] Haziq Azfar: Um, hmm.
 
-[198:32] Rafizi Ramli: What would that do?
+[3:18:32] Rafizi Ramli: What would that do?
 
-[198:33] Haziq Azfar: Itu pun beria.
+[3:18:33] Haziq Azfar: Itu pun beria.
 
-[198:34] Rafizi Ramli: Itu so ada the dynamics
+[3:18:34] Rafizi Ramli: Itu so ada the dynamics
 
-[198:35] Haziq Azfar: of a coalition, di mana
+[3:18:35] Haziq Azfar: of a coalition, di mana
 
-[198:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:18:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[198:43] Haziq Azfar: Um, hmm.
+[3:18:43] Haziq Azfar: Um, hmm.
 
-[198:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:18:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[199:25] Rafizi Ramli: tiga orang tu dah dah di-
+[3:19:25] Rafizi Ramli: tiga orang tu dah dah di-
 
-[199:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:19:27] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[199:31] Rafizi Ramli: Yalah, dipecat lah.
+[3:19:31] Rafizi Ramli: Yalah, dipecat lah.
 
-[199:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:19:33] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[199:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:19:41] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[199:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:19:59] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[200:19] Haziq Azfar: um, sokongan kan.
+[3:20:19] Haziq Azfar: um, sokongan kan.
 
-[200:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:20:22] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[200:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:20:38] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[200:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:20:45] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[200:56] Rafizi Ramli: Do you think they would lose that one seat?
+[3:20:56] Rafizi Ramli: Do you think they would lose that one seat?
 
-[200:58] Haziq Azfar: They might.
+[3:20:58] Haziq Azfar: They might.
 
-[210:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:30:00] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[210:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:30:18] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[210:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:30:34] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[210:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:30:49] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[210:53] Rafizi Ramli: Okey.
+[3:30:53] Rafizi Ramli: Okey.
 
-[210:55] Haziq Azfar: Menarik.
+[3:30:55] Haziq Azfar: Menarik.
 
-[210:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:30:56] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[211:00] Haziq Azfar: No, yang yang
+[3:31:00] Haziq Azfar: No, yang yang
 
-[211:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:31:02] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[211:15] Rafizi Ramli: Okey.
+[3:31:15] Rafizi Ramli: Okey.
 
-[211:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:31:16] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[211:25] Haziq Azfar: um,
+[3:31:25] Haziq Azfar: um,
 
-[211:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:31:26] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[212:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:32:07] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[212:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:32:20] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[212:29] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:32:29] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[212:32] Rafizi Ramli: Konspirasi kan.
+[3:32:32] Rafizi Ramli: Konspirasi kan.
 
-[212:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:32:33] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[212:43] Rafizi Ramli: Lobikan?
+[3:32:43] Rafizi Ramli: Lobikan?
 
-[212:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:32:43] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[212:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:32:55] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[213:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:33:05] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[213:09] Haziq Azfar: Okey baik YB.
+[3:33:09] Haziq Azfar: Okey baik YB.
 
-[213:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:33:10] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[213:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:33:11] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[213:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:33:16] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[213:21] Haziq Azfar: Um, hmm.
+[3:33:21] Haziq Azfar: Um, hmm.
 
-[213:22] Rafizi Ramli: What would that do?
+[3:33:22] Rafizi Ramli: What would that do?
 
-[213:23] Haziq Azfar: Itu pun beria.
+[3:33:23] Haziq Azfar: Itu pun beria.
 
-[213:24] Rafizi Ramli: Itu so ada the dynamics
+[3:33:24] Rafizi Ramli: Itu so ada the dynamics
 
-[213:25] Haziq Azfar: of a coalition, di mana
+[3:33:25] Haziq Azfar: of a coalition, di mana
 
-[213:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:33:28] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[213:33] Haziq Azfar: Um, hmm.
+[3:33:33] Haziq Azfar: Um, hmm.
 
-[213:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:33:34] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[214:15] Rafizi Ramli: tiga orang tu dah dah di-
+[3:34:15] Rafizi Ramli: tiga orang tu dah dah di-
 
-[214:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:34:17] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[214:21] Rafizi Ramli: Yalah, dipecat lah.
+[3:34:21] Rafizi Ramli: Yalah, dipecat lah.
 
-[214:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:34:23] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[214:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:34:31] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[214:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:34:49] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[215:09] Haziq Azfar: um, sokongan kan.
+[3:35:09] Haziq Azfar: um, sokongan kan.
 
-[215:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:35:12] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[215:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:35:28] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[215:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:35:35] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[215:46] Rafizi Ramli: Do you think they would lose that one seat?
+[3:35:46] Rafizi Ramli: Do you think they would lose that one seat?
 
-[215:48] Haziq Azfar: They might.
+[3:35:48] Haziq Azfar: They might.
 
-[215:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:35:50] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[216:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:36:08] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[216:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:36:24] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[216:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:36:39] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[216:43] Rafizi Ramli: Okey.
+[3:36:43] Rafizi Ramli: Okey.
 
-[216:45] Haziq Azfar: Menarik.
+[3:36:45] Haziq Azfar: Menarik.
 
-[216:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:36:46] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[216:50] Haziq Azfar: No, yang yang
+[3:36:50] Haziq Azfar: No, yang yang
 
-[216:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:36:52] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[217:05] Rafizi Ramli: Okey.
+[3:37:05] Rafizi Ramli: Okey.
 
-[217:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:37:06] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[217:15] Haziq Azfar: um,
+[3:37:15] Haziq Azfar: um,
 
-[217:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:37:16] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[217:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:37:57] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[218:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:38:10] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[218:19] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:38:19] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[218:22] Rafizi Ramli: Konspirasi kan.
+[3:38:22] Rafizi Ramli: Konspirasi kan.
 
-[218:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:38:23] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[218:33] Rafizi Ramli: Lobikan?
+[3:38:33] Rafizi Ramli: Lobikan?
 
-[218:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:38:33] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[218:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:38:45] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[218:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:38:55] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[218:59] Haziq Azfar: Okey baik YB.
+[3:38:59] Haziq Azfar: Okey baik YB.
 
-[219:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:39:00] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[219:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:39:01] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[219:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:39:06] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[219:11] Haziq Azfar: Um, hmm.
+[3:39:11] Haziq Azfar: Um, hmm.
 
-[219:12] Rafizi Ramli: What would that do?
+[3:39:12] Rafizi Ramli: What would that do?
 
-[219:13] Haziq Azfar: Itu pun beria.
+[3:39:13] Haziq Azfar: Itu pun beria.
 
-[219:14] Rafizi Ramli: Itu so ada the dynamics
+[3:39:14] Rafizi Ramli: Itu so ada the dynamics
 
-[219:15] Haziq Azfar: of a coalition, di mana
+[3:39:15] Haziq Azfar: of a coalition, di mana
 
-[219:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:39:18] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[219:23] Haziq Azfar: Um, hmm.
+[3:39:23] Haziq Azfar: Um, hmm.
 
-[219:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:39:24] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[220:05] Rafizi Ramli: tiga orang tu dah dah di-
+[3:40:05] Rafizi Ramli: tiga orang tu dah dah di-
 
-[220:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:40:07] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[220:11] Rafizi Ramli: Yalah, dipecat lah.
+[3:40:11] Rafizi Ramli: Yalah, dipecat lah.
 
-[220:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:40:13] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[220:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:40:21] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[220:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:40:39] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[220:59] Haziq Azfar: um, sokongan kan.
+[3:40:59] Haziq Azfar: um, sokongan kan.
 
-[221:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:41:02] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[221:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:41:18] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[221:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:41:25] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[221:36] Rafizi Ramli: Do you think they would lose that one seat?
+[3:41:36] Rafizi Ramli: Do you think they would lose that one seat?
 
-[221:38] Haziq Azfar: They might.
+[3:41:38] Haziq Azfar: They might.
 
-[221:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:41:40] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[221:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:41:58] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[222:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:42:14] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[222:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:42:29] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[222:33] Rafizi Ramli: Okey.
+[3:42:33] Rafizi Ramli: Okey.
 
-[222:35] Haziq Azfar: Menarik.
+[3:42:35] Haziq Azfar: Menarik.
 
-[222:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:42:36] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[222:40] Haziq Azfar: No, yang yang
+[3:42:40] Haziq Azfar: No, yang yang
 
-[222:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:42:42] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[222:55] Rafizi Ramli: Okey.
+[3:42:55] Rafizi Ramli: Okey.
 
-[222:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:42:56] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[223:05] Haziq Azfar: um,
+[3:43:05] Haziq Azfar: um,
 
-[223:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:43:06] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[223:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:43:47] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[224:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:44:00] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[224:09] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:44:09] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[224:12] Rafizi Ramli: Konspirasi kan.
+[3:44:12] Rafizi Ramli: Konspirasi kan.
 
-[224:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:44:13] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[224:23] Rafizi Ramli: Lobikan?
+[3:44:23] Rafizi Ramli: Lobikan?
 
-[224:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:44:23] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[224:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:44:35] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[224:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:44:45] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[224:49] Haziq Azfar: Okey baik YB.
+[3:44:49] Haziq Azfar: Okey baik YB.
 
-[224:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:44:50] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[224:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:44:51] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[224:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:44:56] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[225:01] Haziq Azfar: Um, hmm.
+[3:45:01] Haziq Azfar: Um, hmm.
 
-[225:02] Rafizi Ramli: What would that do?
+[3:45:02] Rafizi Ramli: What would that do?
 
-[225:03] Haziq Azfar: Itu pun beria.
+[3:45:03] Haziq Azfar: Itu pun beria.
 
-[225:04] Rafizi Ramli: Itu so ada the dynamics
+[3:45:04] Rafizi Ramli: Itu so ada the dynamics
 
-[225:05] Haziq Azfar: of a coalition, di mana
+[3:45:05] Haziq Azfar: of a coalition, di mana
 
-[225:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:45:08] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[225:13] Haziq Azfar: Um, hmm.
+[3:45:13] Haziq Azfar: Um, hmm.
 
-[225:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:45:14] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[225:55] Rafizi Ramli: tiga orang tu dah dah di-
+[3:45:55] Rafizi Ramli: tiga orang tu dah dah di-
 
-[225:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:45:57] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[226:01] Rafizi Ramli: Yalah, dipecat lah.
+[3:46:01] Rafizi Ramli: Yalah, dipecat lah.
 
-[226:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:46:03] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[226:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:46:11] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[226:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:46:29] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[226:49] Haziq Azfar: um, sokongan kan.
+[3:46:49] Haziq Azfar: um, sokongan kan.
 
-[226:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:46:52] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[227:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:47:08] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[227:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:47:15] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[227:26] Rafizi Ramli: Do you think they would lose that one seat?
+[3:47:26] Rafizi Ramli: Do you think they would lose that one seat?
 
-[227:28] Haziq Azfar: They might.
+[3:47:28] Haziq Azfar: They might.
 
-[227:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:47:30] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[227:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:47:48] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[228:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:48:04] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[228:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:48:19] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[228:23] Rafizi Ramli: Okey.
+[3:48:23] Rafizi Ramli: Okey.
 
-[228:25] Haziq Azfar: Menarik.
+[3:48:25] Haziq Azfar: Menarik.
 
-[228:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:48:26] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[228:30] Haziq Azfar: No, yang yang
+[3:48:30] Haziq Azfar: No, yang yang
 
-[228:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:48:32] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[228:45] Rafizi Ramli: Okey.
+[3:48:45] Rafizi Ramli: Okey.
 
-[228:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:48:46] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[228:55] Haziq Azfar: um,
+[3:48:55] Haziq Azfar: um,
 
-[228:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:48:56] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[229:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:49:37] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[229:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:49:50] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[229:59] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:49:59] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[230:02] Rafizi Ramli: Konspirasi kan.
+[3:50:02] Rafizi Ramli: Konspirasi kan.
 
-[230:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:50:03] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[230:13] Rafizi Ramli: Lobikan?
+[3:50:13] Rafizi Ramli: Lobikan?
 
-[230:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:50:13] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[230:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:50:25] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[230:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:50:35] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[230:39] Haziq Azfar: Okey baik YB.
+[3:50:39] Haziq Azfar: Okey baik YB.
 
-[230:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:50:40] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[230:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:50:41] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[230:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:50:46] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[230:51] Haziq Azfar: Um, hmm.
+[3:50:51] Haziq Azfar: Um, hmm.
 
-[230:52] Rafizi Ramli: What would that do?
+[3:50:52] Rafizi Ramli: What would that do?
 
-[230:53] Haziq Azfar: Itu pun beria.
+[3:50:53] Haziq Azfar: Itu pun beria.
 
-[230:54] Rafizi Ramli: Itu so ada the dynamics
+[3:50:54] Rafizi Ramli: Itu so ada the dynamics
 
-[230:55] Haziq Azfar: of a coalition, di mana
+[3:50:55] Haziq Azfar: of a coalition, di mana
 
-[230:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:50:58] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[231:03] Haziq Azfar: Um, hmm.
+[3:51:03] Haziq Azfar: Um, hmm.
 
-[231:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:51:04] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[231:45] Rafizi Ramli: tiga orang tu dah dah di-
+[3:51:45] Rafizi Ramli: tiga orang tu dah dah di-
 
-[231:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:51:47] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[231:51] Rafizi Ramli: Yalah, dipecat lah.
+[3:51:51] Rafizi Ramli: Yalah, dipecat lah.
 
-[231:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:51:53] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[232:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:52:01] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[232:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:52:19] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[232:39] Haziq Azfar: um, sokongan kan.
+[3:52:39] Haziq Azfar: um, sokongan kan.
 
-[232:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:52:42] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[232:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:52:58] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[233:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:53:05] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[233:16] Rafizi Ramli: Do you think they would lose that one seat?
+[3:53:16] Rafizi Ramli: Do you think they would lose that one seat?
 
-[233:18] Haziq Azfar: They might.
+[3:53:18] Haziq Azfar: They might.
 
-[233:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:53:20] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[233:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:53:38] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[233:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:53:54] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[234:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:54:09] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[234:13] Rafizi Ramli: Okey.
+[3:54:13] Rafizi Ramli: Okey.
 
-[234:15] Haziq Azfar: Menarik.
+[3:54:15] Haziq Azfar: Menarik.
 
-[234:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[3:54:16] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[234:20] Haziq Azfar: No, yang yang
+[3:54:20] Haziq Azfar: No, yang yang
 
-[234:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[3:54:22] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[234:35] Rafizi Ramli: Okey.
+[3:54:35] Rafizi Ramli: Okey.
 
-[234:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[3:54:36] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[234:45] Haziq Azfar: um,
+[3:54:45] Haziq Azfar: um,
 
-[234:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[3:54:46] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[235:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[3:55:27] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[235:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[3:55:40] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[235:49] Haziq Azfar: Itu yang ini, eksklusif lah.
+[3:55:49] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[235:52] Rafizi Ramli: Konspirasi kan.
+[3:55:52] Rafizi Ramli: Konspirasi kan.
 
-[235:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[3:55:53] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[236:03] Rafizi Ramli: Lobikan?
+[3:56:03] Rafizi Ramli: Lobikan?
 
-[236:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[3:56:03] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[236:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[3:56:15] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[236:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[3:56:25] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[236:29] Haziq Azfar: Okey baik YB.
+[3:56:29] Haziq Azfar: Okey baik YB.
 
-[236:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[3:56:30] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[236:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[3:56:31] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[236:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[3:56:36] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[236:41] Haziq Azfar: Um, hmm.
+[3:56:41] Haziq Azfar: Um, hmm.
 
-[236:42] Rafizi Ramli: What would that do?
+[3:56:42] Rafizi Ramli: What would that do?
 
-[236:43] Haziq Azfar: Itu pun beria.
+[3:56:43] Haziq Azfar: Itu pun beria.
 
-[236:44] Rafizi Ramli: Itu so ada the dynamics
+[3:56:44] Rafizi Ramli: Itu so ada the dynamics
 
-[236:45] Haziq Azfar: of a coalition, di mana
+[3:56:45] Haziq Azfar: of a coalition, di mana
 
-[236:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[3:56:48] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[236:53] Haziq Azfar: Um, hmm.
+[3:56:53] Haziq Azfar: Um, hmm.
 
-[236:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[3:56:54] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[237:35] Rafizi Ramli: tiga orang tu dah dah di-
+[3:57:35] Rafizi Ramli: tiga orang tu dah dah di-
 
-[237:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
+[3:57:37] Haziq Azfar: Dia, dia dipecat lah, dipecat, dibubarkan keahlian, dia sebut enam
 
-[237:41] Rafizi Ramli: Yalah, dipecat lah.
+[3:57:41] Rafizi Ramli: Yalah, dipecat lah.
 
-[237:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
+[3:57:43] Haziq Azfar: Dia, um, kita tak mungkin tak akan tahulah selok-belok apa sebenarnya yang berlaku. Tetapi,
 
-[237:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
+[3:57:51] Haziq Azfar: um, secara lumrahnya, dia mustahil berlaku tanpa restu daripada pimpinan pusatlah, kan? Ah, Bersatu keluar statement, ah, awalnya, ah, bersedia menghadapi pilihan raya negeri dalam keadaan
 
-[238:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
+[3:58:09] Haziq Azfar: yang, um, pandangan saya kepada PH is a loose loose lah, um, kepada PH lah. Dengan keadaan PH sekarang, kalau ada pilihan raya negeri is a loose loose kepada, ah PH, especially selepas yang berlaku di, di Sabah. Dia tidak ada tanda-tanda ada perubahan
 
-[238:29] Haziq Azfar: um, sokongan kan.
+[3:58:29] Haziq Azfar: um, sokongan kan.
 
-[238:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
+[3:58:32] Haziq Azfar: Dan saya ingat the second day tu, um, bila tiba-tiba kena keluar kenyataan yang PH sokong PAS, perintah Perlis sampai tamat penggal. Maksudnya ni dah ada arahan daripada pimpinan pusatlah yang kau pandai-pandai
 
-[238:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
+[3:58:48] Haziq Azfar: pergi buat keputusan bersedia hadapi pilihan raya negeri ni. Tak tahulah yang kawan baik dengan Amin ni, Iqbal dah ni, Iqbal.
 
-[238:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
+[3:58:55] Rafizi Ramli: Tapi saya nak, saya, saya nak tanya, so kalau if you had to guess, kalau ada pilihan raya negeri yang berlaku sekarang, sekarang pun PH hanya ada satu kerusi kan dekat Perlis.
 
-[239:06] Rafizi Ramli: Do you think they would lose that one seat?
+[3:59:06] Rafizi Ramli: Do you think they would lose that one seat?
 
-[239:08] Haziq Azfar: They might.
+[3:59:08] Haziq Azfar: They might.
 
-[239:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
+[3:59:10] Rafizi Ramli: Sebab Indra Kayangan ni, um, um, walaupun I think Indra Kayangan ni lebih kurang 60 40. 60% um, Melayu, 40% bukan Melayu. Or even even lower than 40% Indra Kayangan kan. Um, so
 
-[239:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
+[3:59:28] Haziq Azfar: kita dah tengok rekod, kalau, um, mood pengundi Cina tu, um, sama macam yang berlaku di Sabah, dan sebenarnya dia punya discontent tu sebenarnya lagi besar di Semenanjung daripada di Sabah kan.
 
-[239:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
+[3:59:44] Rafizi Ramli: Jadi, um, kalau jumlah yang keluar mengundi, um, sama juga dalam 40%. and ada swing, PH hanya dapat sekitar 50%, 60% daripada undi tu kan.
 
-[239:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
+[3:59:59] Haziq Azfar: Then, um, even Indra Kayangan tidak selamat.
 
-[240:03] Rafizi Ramli: Okey.
+[4:00:03] Rafizi Ramli: Okey.
 
-[240:05] Haziq Azfar: Menarik.
+[4:00:05] Haziq Azfar: Menarik.
 
-[240:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
+[4:00:06] Rafizi Ramli: So tapi Amin jugalah yang beria.
 
-[240:10] Haziq Azfar: No, yang yang
+[4:00:10] Haziq Azfar: No, yang yang
 
-[240:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
+[4:00:12] Haziq Azfar: saya ingat, um, penyokong-penyokong dekat media sosial ni sekarang tengah tengah bersoraklah kan. Ha, penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni, Amanah.
 
-[240:25] Rafizi Ramli: Okey.
+[4:00:25] Rafizi Ramli: Okey.
 
-[240:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
+[4:00:26] Haziq Azfar: Sebab I, somehow I think dia ada emotional rivalry dengan PAS tu kan. Ha, sebab
 
-[240:35] Haziq Azfar: um,
+[4:00:35] Haziq Azfar: um,
 
-[240:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
+[4:00:36] Haziq Azfar: selalunya, PAS akan kata, dia orang ni stable, kemudian akan wala, akan ikut kepimpinan, um, dia tidak mementingkan kuasa kan. Jadi
 
-[241:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
+[4:01:17] Haziq Azfar: Ah, tapi apa yang berlaku di Perlis ini, um, saya rasa macam bukan retak menanti belah dah, memang terbelah dah lah hubungan di antara PAS dengan Bersatu.
 
-[241:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
+[4:01:30] Rafizi Ramli: Hmm, kejap saya nak mencelah. Ha. Sebab YB ada sebut tadi, Amin nak ganti Sem?
 
-[241:39] Haziq Azfar: Itu yang ini, eksklusif lah.
+[4:01:39] Haziq Azfar: Itu yang ini, eksklusif lah.
 
-[241:42] Rafizi Ramli: Konspirasi kan.
+[4:01:42] Rafizi Ramli: Konspirasi kan.
 
-[241:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
+[4:01:43] Haziq Azfar: Walaupun orang suruh saya keluar PKR, tapi gosip-gosip daripada PKR tu still sampai banyak lah. Dia antara
 
-[241:53] Rafizi Ramli: Lobikan?
+[4:01:53] Rafizi Ramli: Lobikan?
 
-[241:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
+[4:01:53] Haziq Azfar: Ah, lobi dan nama-namanya, nak kata lobi tu wallahualam lah kan, tapi nama-nama antara yang yang disebut-sebut lah, dipertimbangkan kan. Jadi,
 
-[242:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
+[4:02:05] Haziq Azfar: ah, janganlah kutuk dia sangat. Ha, kalaupun dia tak jadi MB Perlis, sebab saya selari dia jadi So far kan.
 
-[242:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
+[4:02:15] Haziq Azfar: Jadi, tak sia-sialah dia tweet sepanjang masa. Ha.
 
-[242:19] Haziq Azfar: Okey baik YB.
+[4:02:19] Haziq Azfar: Okey baik YB.
 
-[242:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
+[4:02:20] Rafizi Ramli: Eh, tu Iqbal nak cakap something tadi.
 
-[242:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
+[4:02:21] Haziq Azfar: Saya nak tanya pendapat, um, YB berkenaan dengan Bersatu 133 nama.
 
-[242:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
+[4:02:26] Rafizi Ramli: Pada to my knowledge, Bersatu is the minority party in the coalition dekat Perlis.
 
-[242:31] Haziq Azfar: Um, hmm.
+[4:02:31] Haziq Azfar: Um, hmm.
 
-[242:32] Rafizi Ramli: What would that do?
+[4:02:32] Rafizi Ramli: What would that do?
 
-[242:33] Haziq Azfar: Itu pun beria.
+[4:02:33] Haziq Azfar: Itu pun beria.
 
-[242:34] Rafizi Ramli: Itu so ada the dynamics
+[4:02:34] Rafizi Ramli: Itu so ada the dynamics
 
-[242:35] Haziq Azfar: of a coalition, di mana
+[4:02:35] Haziq Azfar: of a coalition, di mana
 
-[242:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
+[4:02:38] Haziq Azfar: ketua coalition tu dipimpin oleh seseorang dari parti minoriti.
 
-[242:43] Haziq Azfar: Um, hmm.
+[4:02:43] Haziq Azfar: Um, hmm.
 
-[242:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
+[4:02:44] Rafizi Ramli: No, dia, saya ingat, masa maksudnyalah, perebutan kuasa ni itu yang pandangan sayalah.
 
-[242:52] Haziq Azfar: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um
+[4:02:52] Haziq Azfar: Ah, perebutan kuasa ni tidak unik kepada, um, BN sahaja, UMNO sahaja, PKR sahaja, you know, di mana ada kuasa, di situlah ada perebutan, hatta dalam PAS sendirilah kan. Jadi, perebutan kuasa dekat Perlis tu, dia dah tak boleh contain. Um, tetapi, bila, um
