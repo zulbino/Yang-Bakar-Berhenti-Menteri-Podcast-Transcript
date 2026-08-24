@@ -176,29 +176,7 @@
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "ok",
-    "samples_matched": 3,
-    "samples_not_found_nearby": 9,
-    "samples_total": 12,
-    "max_drift_seconds": 1020,
-    "flagged": true,
-    "details": [
-      {
-        "claimed": 813,
-        "actual": 1081,
-        "drift": 268
-      },
-      {
-        "claimed": 1309,
-        "actual": 1375,
-        "drift": 66
-      },
-      {
-        "claimed": 1702,
-        "actual": 682,
-        "drift": -1020
-      }
-    ]
+    "status": "no_captions"
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
