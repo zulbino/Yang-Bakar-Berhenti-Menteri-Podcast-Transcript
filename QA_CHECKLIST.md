@@ -193,12 +193,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview-ms.md
   - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb**
-  - raw.md has a 21925-char block with no paragraph breaks (wall-of-text)
-  - raw.md has 1 duplicate block(s) repeated verbatim at different timestamps (450 chars, 0% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - interview.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.26 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - raw.md has a repetition-loop degeneration (880 chars repeating 'mmmmmmmm'...) -- model got stuck re-emitting the same short phrase
+  - interview.md looks truncated (ratio 0.34 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.34 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 3s, 2/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 
 ## Clean episodes
 

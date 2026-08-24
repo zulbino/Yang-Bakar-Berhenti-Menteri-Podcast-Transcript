@@ -71,7 +71,7 @@ plus two full episodes -- a plain interview and a heavy-crosstalk debate format)
 
 | Model | Result |
 |---|---|
-| `mesolitica/malaysian-whisper-medium-v2` | **Selected.** No repetition-loop hallucinations on any test case. |
+| `mesolitica/malaysian-whisper-medium-v2` | **Selected.** No repetition-loop hallucinations on the original test clips. A real one surfaced later in production on ep60 (~19s, "di atas" repeated ~140x on one noisy stretch) -- see Known Limitations below. |
 | `mesolitica/malaysian-distil-whisper-large-v3` | Repetition-loop hallucinations |
 | `mesolitica/malaysian-whisper-small-v3` | Repetition-loop hallucinations |
 | `openai/whisper-large-v3` (non-fine-tuned) | Repetition-loop hallucinations, plus entity errors at crosstalk moments (for example, hearing "Ampang" as "abang") |
@@ -260,6 +260,50 @@ repetition is short and genuine degeneration runs for thousands of characters.
 check, so a repetition loop that keeps normal timestamp breaks between
 repeats -- which would currently pass every other check silently -- gets
 caught directly instead of by coincidence.
+
+### Raw transcription: fabricated fake episodes when the continuation loop runs out of real audio
+
+ep60's raw.md transcribed the real 3h18m episode correctly up to a genuine
+sign-off and `[music/outro]` marker at `[1:52:58]`, then kept going: it invented
+a chain of eleven fake mini-episodes (self-labeled episodes 61-71, each with its
+own intro/guest/content/outro) to fill the remaining ~1h25m, including fabricated
+quotes attributed to real government ministers (Fahmi Fadzil, Hannah Yeoh, Nik
+Nazmi, and others) discussing topics they never actually raised. Confirmed false
+against YouTube's real auto-captions at the same claimed timestamps -- the real
+audio covers unrelated topics (university funding, foreign-worker minimum wage)
+with no mention of the fabricated ministers or subjects. Root cause: the
+continuation loop (two sections above) keeps prompting "continue from where you
+left off" toward the real, correct total duration; once there's no real content
+left to transcribe, Gemini generates plausible-sounding fake content instead of
+stopping. This is a materially different, higher-severity risk than the
+duplicate-block and repetition-loop failures above -- those produce garbled or
+repeated *nonsense*, easy to spot; this produces specific, internally-consistent
+false claims attributed to named real people, a misinformation/defamation risk
+if it shipped un-caught.
+
+A related but distinct failure, found in the same sweep, on two other episodes
+(ep05, ep31): instead of fabricating, the model explicitly gave up and leaked
+its own refusal into the transcript (*"I am unable to provide a word-for-word
+transcript..."*), abandoning tens of thousands of characters of real content.
+
+**Fix**: redo the raw stage via `--engine local` for all three. Acoustic ASR
+(Whisper) has no mechanism to invent people or topics that aren't in the
+audio, so this failure class isn't possible with the local fallback --
+confirmed on ep60's redo, which produced a normal, verifiably real sign-off
+in place of the fabricated tail. The local engine surfaced a different, much
+smaller-stakes failure of its own on the redo: a ~19s stretch where Whisper
+got stuck repeating "di atas" ~140 times on one noisy stretch of audio (see
+the model-selection table above) -- garbled nonsense, not a fabricated claim,
+hand-collapsed rather than guessed at.
+
+**Detection gap, not yet closed**: no automated check catches invented-content
+fabrication directly (as opposed to its downstream symptoms). ep60 was found by
+manually scanning for a `[music/outro]`-style marker followed by unusually long
+trailing content, then reading the flagged episodes for context -- not
+exhaustive, and a repo-wide re-scan after any future Gemini raw-stage batch is
+still worth doing. The leaked-refusal phrasing on ep05/ep31 ("I am unable to",
+"I cannot generate") also isn't covered by the existing leaked-reasoning check
+(`LEAKED_REASONING_RE`), which was tuned for a different phrasing pattern.
 
 ### Raw transcription: doubled blank lines between every turn
 
