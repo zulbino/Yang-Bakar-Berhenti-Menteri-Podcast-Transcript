@@ -953,21 +953,66 @@
   },
   "2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 764,
+    "max_drift_seconds": 602,
     "flagged": true,
     "details": [
       {
-        "claimed": 4152,
-        "actual": 3388,
-        "drift": -764
+        "claimed": 153,
+        "actual": 153,
+        "drift": 0
       },
       {
-        "claimed": 4900,
-        "actual": 4351,
-        "drift": -549
+        "claimed": 920,
+        "actual": 963,
+        "drift": 43
+      },
+      {
+        "claimed": 1492,
+        "actual": 2094,
+        "drift": 602
+      },
+      {
+        "claimed": 2797,
+        "actual": 2824,
+        "drift": 27
+      },
+      {
+        "claimed": 3714,
+        "actual": 3728,
+        "drift": 14
+      },
+      {
+        "claimed": 3852,
+        "actual": 4038,
+        "drift": 186
+      },
+      {
+        "claimed": 4557,
+        "actual": 4770,
+        "drift": 213
+      },
+      {
+        "claimed": 5820,
+        "actual": 5976,
+        "drift": 156
+      },
+      {
+        "claimed": 7414,
+        "actual": 7687,
+        "drift": 273
+      },
+      {
+        "claimed": 8894,
+        "actual": 8887,
+        "drift": -7
+      },
+      {
+        "claimed": 9121,
+        "actual": 9106,
+        "drift": -15
       }
     ]
   },
