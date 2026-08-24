@@ -8,7 +8,7 @@ duration_seconds: 9371
 duration: 2h 36m
 view_count: 108490
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Mike
 guests:
 - Faizal
@@ -19,7 +19,7 @@ topics:
 - Political landscape in Sabah
 - Ethics in political campaigning
 - Political credibility and government formation claims
-summary: In this episode of 'Yang Berhormat Menteri', Rafizi Ramli and his co-hosts
+summary: In this episode of 'Yang Berhormat Menteri', Rafizi and his co-hosts
   discuss a collection of trending social media topics and viral incidents. They analyze
   cases ranging from social media etiquette and airport security hoaxes to the complexities
   of political campaigning in Sabah and the credibility issues surrounding political
@@ -34,11 +34,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker 1:** Assalamualaikum dan salam sejahtera. Podcast *Yang Berhormat Menteri* episod 25. Episod kali ini agak istimewa, YB, sebab biasanya kita dua saja.
 
-**Rafizi Ramli:** Oh.
+**Rafizi:** Oh.
 
 **Speaker 1:** Kenapa istimewa? Apa yang istimewanya? Istimewanya sebab ada dua orang lagi. Jadi YB, ini tak pernah sangka, kut.
 
-**Rafizi Ramli:** Ah, yalah, saya duduk diam sajalah.
+**Rafizi:** Ah, yalah, saya duduk diam sajalah.
 
 **Speaker 1:** Jadi kali ini kita ada saudara Faizal sekali lagi. Apa khabar, saudara?
 
@@ -164,7 +164,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker 1:** So, dah *pass baton* lah sekarang ni, eh?
 
-**Rafizi Ramli:** Ya, Allahuakbar. Saya pun tak faham ah.
+**Rafizi:** Ya, Allahuakbar. Saya pun tak faham ah.
 
 **Speaker 1:** Yalah, Razif ada kat situ masa dia buat?
 
@@ -174,7 +174,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker 4:** Mungkin dialah, biasalah.
 
-**Rafizi Ramli:** Tak, dia itu juga. Yalah, ahli politik ni berbahaya sebab dalam risiko itu ada kepada semualah termasuklah saya apa kan. Sebab itu kita kena berhati-hati, selalu ingat jangan duduk dalam *bubble* kita kan. Jadi saya pun tak bolehlah, tak tahu kenapa dia cakap tu tapi satu kemungkinan besar ialah bila duduk di kalangan orang kita, buat sidang media di kalangan orang kita. Jadi dia seolah-olah nak bagi semangat kepada orang sendiri, dan satu cara itu juga ialah untuk memperli lah. Jadi mungkinlah.
+**Rafizi:** Tak, dia itu juga. Yalah, ahli politik ni berbahaya sebab dalam risiko itu ada kepada semualah termasuklah saya apa kan. Sebab itu kita kena berhati-hati, selalu ingat jangan duduk dalam *bubble* kita kan. Jadi saya pun tak bolehlah, tak tahu kenapa dia cakap tu tapi satu kemungkinan besar ialah bila duduk di kalangan orang kita, buat sidang media di kalangan orang kita. Jadi dia seolah-olah nak bagi semangat kepada orang sendiri, dan satu cara itu juga ialah untuk memperli lah. Jadi mungkinlah.
 
 **Speaker 1:** YB Fuziah ni rasa dengan memberitahu "kita cukup jumlah" tu, tak macam PAS, sebut cukup jumlah tapi tak boleh buat kerajaan. Ini cukup jumlah dan boleh buat kerajaan, tapi kerusi satu saja pun.
 

@@ -8,7 +8,7 @@ duration_seconds: 10854
 duration: 3h 0m
 view_count: 172130
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Speaker 1
 topics:
@@ -19,7 +19,7 @@ topics:
 - UMNO
 - Traffic safety behavior
 - Political accountability
-summary: In this episode, Rafizi Ramli discusses his experience being questioned by
+summary: In this episode, Rafizi discusses his experience being questioned by
   the MACC (SPRM), the political implications of 'good cop, bad cop' strategies involving
   figures like Nurul Izzah and Anwar Ibrahim, and various current political controversies
   including comments on UMNO figures and traffic safety behavior.
@@ -35,7 +35,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 1:** Ha. Waalaikumussalam.
 
-**Speaker 2:** Macam biasa bersama saudara Rafizi Ramli yang sihat selepas menempuhi...
+**Speaker 2:** Macam biasa bersama saudara Rafizi yang sihat selepas menempuhi...
 
 **Speaker 1:** Betul lah.
 
@@ -91,7 +91,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 1:** Yang ini kenyataan dia yang secara khusus merujuk kepada siasatan terhadap sayalah kan. Dia ada sebut nama aku tak ada? Dia ada sebut, cuma dia ada tulis satu artikel juga dekat FMT ke, mesti saya tak ingat. Dan dialah dia cakap tentang SPRM dan nama YB diselitlah... di tengah-tengah itu.
 
-**Speaker 2:** Adalah ada orang majukan (forward), yang apa nama ini, yalah nama aku disebut, yang apa dia cakap eh? Aku bukan baca sangat pun. Dia kata, dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi Ramli. Dan apa yang YB kena itu. Okey, masa blog kencing aku tak bersimpati pula. Saya tak boleh. Ha, jadi "polis baik, polis jahat". Ha itulah, dia ada konotasi "polis baik, polis jahat" kan? Sebab setiap kali ada soal siasat dengan pihak berkuasa, baik dengan polis ke, baik dengan SPRM, di mana-mana di dunialah kan. Soal siasat itu selalunya mesti ada polis baik dan polis jahat.
+**Speaker 2:** Adalah ada orang majukan (forward), yang apa nama ini, yalah nama aku disebut, yang apa dia cakap eh? Aku bukan baca sangat pun. Dia kata, dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi. Dan apa yang YB kena itu. Okey, masa blog kencing aku tak bersimpati pula. Saya tak boleh. Ha, jadi "polis baik, polis jahat". Ha itulah, dia ada konotasi "polis baik, polis jahat" kan? Sebab setiap kali ada soal siasat dengan pihak berkuasa, baik dengan polis ke, baik dengan SPRM, di mana-mana di dunialah kan. Soal siasat itu selalunya mesti ada polis baik dan polis jahat.
 
 **Speaker 1:** Soal siasat baru dia?
 
@@ -135,6 +135,6 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 2:** Selamat datang kluster mahkamah.
 
-**Speaker 2:** Moga-moga kau Rafizi Ramli ke penjara, sumpah laknat Datuk Seri Najib sedang landa kau sekarang. Selamat datang kluster mahkamah.
+**Speaker 2:** Moga-moga kau Rafizi ke penjara, sumpah laknat Datuk Seri Najib sedang landa kau sekarang. Selamat datang kluster mahkamah.
 
 **Speaker 2:** Maksud saya, apa yang hendak diributkan sangat tentang itu, kan? Maksud saya, Izzah, sampai dia nak kena keluarkan cerita dia, keluarkan hadis semua itu, kan. Maksud saya, apa yang anda harapkan? Anda pergi bentangkan secara terbuka begitu, memanglah orang ambil gambar, tangkap layar (screenshot). Tangkap layar itu akan keluarlah, kan. Jadi saya pun tak faham, kenapa dia sangat sensitif pasal benda ini, kan. Tambah lagi, bila dia keluarkan peringkat-peringkat dan senarai kerusi itu.

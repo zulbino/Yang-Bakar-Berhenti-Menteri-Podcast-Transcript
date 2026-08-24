@@ -8,7 +8,7 @@ duration_seconds: 5842
 duration: 1h 37m
 view_count: 95279
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Abie
 guests:
 - Iswardi Murni
@@ -27,7 +27,7 @@ topics:
 - Student Protests
 - Political Polling
 - Merdeka Center
-summary: In this episode of the ministerial stop podcast, Rafizi Ramli and Iswardi
+summary: In this episode of the ministerial stop podcast, Rafizi and Iswardi
   Murni discuss the complexities of Malaysia's electricity tariff system and Incentive-Based
   Regulation (IBR). They further debate the legal implications of the DNAA granted
   in Najib Razak's case, the government's stance on digital sovereignty regarding
@@ -51,7 +51,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iswardi Murni:** Asalnya kalau ikut pendidikan, saya belajar undang-undang di universiti di UK. Tahun yang sama dengan YB Rafizi.
 
-**Rafizi Ramli:** Ya ke? Kenapa kau nampak lagi tua?
+**Rafizi:** Ya ke? Kenapa kau nampak lagi tua?
 
 **Iswardi Murni:** Sebab aku ada janggut ni. Tahun sama saja, umur pun sama. Kami ni sama umur; sesiapa lahir tahun 1977 ni semua tak boleh pakai. Tapi lama-kelamaan, saya suka teroka banyak benda. Di samping itu, jika secara sambilan saya berminat, saya juga menggubah muzik. Pada masa yang sama, saya juga seorang penulis skrip.
 
@@ -63,15 +63,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iswardi Murni:** Saya dah buat selama 20 tahun, saya dah kaya! Termasuklah artis-artis yang pernah bekerja dengan saya—telefilem pertama yang saya tulis menampilkan Shaheizy Sam.
 
-**Rafizi Ramli:** Shaheizy Sam? Pengarah pertama siapa?
+**Rafizi:** Shaheizy Sam? Pengarah pertama siapa?
 
 **Iswardi Murni:** Ahmad Idham.
 
-**Rafizi Ramli:** Aku pun tak tahu. Sebab itulah dia pandai bercerita.
+**Rafizi:** Aku pun tak tahu. Sebab itulah dia pandai bercerita.
 
 **Moderator:** Alhamdulillah, saya korek benda yang betul dari Abang Is. Cuma satu lagi, sebelum kita masuk topik, nak kaitkan dengan tetamu tetap kita, YB Rafizi. Mungkin orang nak tahu bila YB mula terserempak dengan Abang Is?
 
-**Rafizi Ramli:** Saya rasa 2016 atau 2017. Eh, kau ada lagi kat sini? Tak ada, saya gurau saja. Saya ingat semua orang dah tukar moderator. Saya ingat ada Is saja tadi, bingung sekejap.
+**Rafizi:** Saya rasa 2016 atau 2017. Eh, kau ada lagi kat sini? Tak ada, saya gurau saja. Saya ingat semua orang dah tukar moderator. Saya ingat ada Is saja tadi, bingung sekejap.
 
 **Moderator:** Oh, ya ke? Saya minta maaf YB, ini minggu terakhir saya janji. Jadi kita mungkin boleh teruskan dengan perbincangan hari ini. Pihak produksi memaklumkan bahawa podcast "Yang Berhenti Menteri" selepas ini akan ada segmen-segmen fokus yang mungkin sedikit teknikal, dan selebihnya kita santai saja. Iswardi pun dah sibuk sekarang.
 
@@ -79,7 +79,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Moderator:** Baiklah, soalan pertama: tarif elektrik menjadi perbualan sekian lama dan tiba-tiba naik. Adakah akhirnya TNB dan hati rakyat sekali akan "terbakar"?
 
-**Rafizi Ramli:** Dia sebenarnya tidak naik, sebab dia guna jadual tarif yang lain. Kadang-kadang orang kita ini terburu-buru; orangnya belum keluar lagi, dan kita tidak faham bagaimana struktur tarif itu. Pada akhir tahun lepas, apabila ia diumumkan, ia dipanggil IBR. Orang kita, malah pihak bank pun, tidak selalunya faham apa itu IBR. Apa namanya, Kawal Selia Berasaskan Insentif (IBR) kan. Jadi masa itu TNB mengumumkan kerajaan telah bersetuju untuk menaikkan tarif asas ataupun *base tariff* daripada 39.6 sen kepada 45.5 sen. Dikira-kira, tarif asas naik 14% pada akhir tahun lepas.
+**Rafizi:** Dia sebenarnya tidak naik, sebab dia guna jadual tarif yang lain. Kadang-kadang orang kita ini terburu-buru; orangnya belum keluar lagi, dan kita tidak faham bagaimana struktur tarif itu. Pada akhir tahun lepas, apabila ia diumumkan, ia dipanggil IBR. Orang kita, malah pihak bank pun, tidak selalunya faham apa itu IBR. Apa namanya, Kawal Selia Berasaskan Insentif (IBR) kan. Jadi masa itu TNB mengumumkan kerajaan telah bersetuju untuk menaikkan tarif asas ataupun *base tariff* daripada 39.6 sen kepada 45.5 sen. Dikira-kira, tarif asas naik 14% pada akhir tahun lepas.
 
 Jadi, Malaysia dalam keadaan kacau-bilau. Pada bulan Julai, harga elektrik dijangka naik sebanyak 14%. Pada masa itu, saya mahu buat video TikTok untuk mengulas, tetapi mereka kata tidak mengapa, mari kita tunggu sehingga tarif terakhir kepada pengguna diumumkan, yang baru saja berlaku minggu lepas. Kerana itu akan bagi peluang yang baik untuk kita terangkan struktur tarif itu. Sebenarnya, kadang-kadang kita tengok benda sampai elektrik kat kita, bil kat kita kan. Saya ingat baik untuk rakyat Malaysia mula faham industri itu macam mana.
 
@@ -89,7 +89,7 @@ Jadi orang tanya saya, "Oh, kenapa kamu mahu membakarnya?" Bagaimana mungkin apa
 
 **Iswardi Murni:** Saya komen boleh? Berdasarkan apa yang saya baca dan saya mahu ulas dalam sesi *live*, ia dipanggil kawal selia berasaskan insentif. Ia berdasarkan penggunaan dan bagaimana kita gunakan tenaga itu. Contohnya, jika penggunaan TNB kurang daripada apa yang sepatutnya mengikut regulasi Suruhanjaya Tenaga, TNB boleh beri balik kepada pengguna kerana penjimatan yang dilakukan. Kalau lebih, kena bayarlah. Tetapi disebabkan penjimatan tersebut, saya rasa ia lebih baik kerana kita tidak menghukum mereka yang tidak menggunakan banyak elektrik berbanding mereka yang menggunakan banyak. Dengan kaedah ini, kita telah membebaskan TNB itu sendiri untuk memberikan kemudahan kepada pengguna. Mereka yang menggunakan kurang mendapat lebih insentif. Itulah yang saya faham sekarang, betul ke tidak?
 
-**Rafizi Ramli:** Ya, itulah sebabnya podcast ini penting. Salah satu perkara yang saya harap kita boleh buat ialah menjelaskan benda kompleks di mata rakyat. Sebenarnya ia cukup kompleks. Contohnya, TNB bagi pihak kerajaan kena beli pada harga yang dah naik 14%. Kenapa harga naik? Adakah TNB akan kaya-raya? Orang marah TNB sebab mereka untung berbilion-bilion. Orang kata, "Sila bagi rebat percuma kat aku sebab aku nak puji TNB!" Orang marah setiap kali tarif naik sedangkan TNB untung besar.
+**Rafizi:** Ya, itulah sebabnya podcast ini penting. Salah satu perkara yang saya harap kita boleh buat ialah menjelaskan benda kompleks di mata rakyat. Sebenarnya ia cukup kompleks. Contohnya, TNB bagi pihak kerajaan kena beli pada harga yang dah naik 14%. Kenapa harga naik? Adakah TNB akan kaya-raya? Orang marah TNB sebab mereka untung berbilion-bilion. Orang kata, "Sila bagi rebat percuma kat aku sebab aku nak puji TNB!" Orang marah setiap kali tarif naik sedangkan TNB untung besar.
 
 Sebenarnya, ini melibatkan Kementerian Ekonomi dan PETRA (Peralihan Tenaga dan Transformasi Air) serta Suruhanjaya Tenaga. Ia sama macam nak beli barang dari kilang; kilang tetapkan harga berdasarkan kos pekerja, sewa, dan bahan mentah. Elektrik pun sama. Daripada 100% kos yang dianggarkan untuk menetapkan kadar asas, terdapat kira-kira empat kategori. Yang paling besar sebenarnya adalah 69% daripada kos—iaitu kos tenaga, seperti arang batu atau gas. Yang paling kecil ialah tenaga boleh diperbaharui seperti solar.
 
@@ -101,7 +101,7 @@ Kalau nak kata mana-mana kerajaan boleh menurunkan harga elektrik, susah sikitla
 
 **Iswardi Murni:** Tapi ada yang komen, memandangkan kita hanya ada satu pemain iaitu TNB, kenapa kita tidak wujudkan lebih banyak pesaing? Dengan lebih banyak persaingan, mereka boleh bermain dengan harga. Contoh di UK, pembekal gas ada banyak, jadi kita ada alternatif. Macam syarikat telekomunikasi, banyak persaingan jadi harga boleh dimainkan di situ. Kenapa kita tak ada alternatif kepada TNB?
 
-**Rafizi Ramli:** Negara lain pernah melalui penyahkawalseliaan, maksudnya mereka merombak monopoli syarikat utiliti kerajaan dan membenarkan sesiapa saja membekalkan elektrik. Contoh pengalaman yang baik—maksud saya, saya boleh beritahu terus, saya tidak setuju jika kita tidak berhati-hati dengan penyahkawalseliaan seperti itu. Pengalaman di Eropah, terutamanya UK pada akhir 90-an, menunjukkan bahawa apabila terdapat banyak pemain, mereka sebenarnya menolak harga naik dan bukannya persaingan menurunkan harga. Beberapa tahun kemudian, ia tidak berlaku seperti yang diharapkan. UK dan negara lain perlahan-lahan kembali kepada model hibrid daripada persaingan pasaran bebas sepenuhnya.
+**Rafizi:** Negara lain pernah melalui penyahkawalseliaan, maksudnya mereka merombak monopoli syarikat utiliti kerajaan dan membenarkan sesiapa saja membekalkan elektrik. Contoh pengalaman yang baik—maksud saya, saya boleh beritahu terus, saya tidak setuju jika kita tidak berhati-hati dengan penyahkawalseliaan seperti itu. Pengalaman di Eropah, terutamanya UK pada akhir 90-an, menunjukkan bahawa apabila terdapat banyak pemain, mereka sebenarnya menolak harga naik dan bukannya persaingan menurunkan harga. Beberapa tahun kemudian, ia tidak berlaku seperti yang diharapkan. UK dan negara lain perlahan-lahan kembali kepada model hibrid daripada persaingan pasaran bebas sepenuhnya.
 
 Model yang ada di Malaysia ini sebenarnya baik. TNB bermula dengan monopoli total daripada penjanaan kepada penghantaran dan pengagihan. Kemudian datangnya IPP. Model sekarang ialah infrastruktur tulang belakang, kerana ia kepentingan negara, memang di bawah TNB. Talian penghantaran melibatkan pelaburan berbilion ringgit; bukan mudah untuk mempunyai dua atau tiga talian yang bersaing.
 
@@ -111,11 +111,11 @@ Proses untuk memastikan peranan TNB tidak dilihat sebagai "mencekik" melalui mon
 
 **Moderator:** Isu CRES itu sudah dilaksanakan? Dan adakah TNB sedar perkara ini?
 
-**Rafizi Ramli:** Sudah, semua sudah ada. Pihak swasta akan bekalkan terus daripada penjual ke pembeli di bawah CRES. Satu projek itu, katakanlah untuk kilang besar atau pusat data yang mahukan 500 megawatt, memerlukan pelaburan sekurang-kurangnya RM3-4 bilion. Dengan membuka ruang itu, kita berharap lebih banyak syarikat swasta masuk ke bidang solar. Ia tidak seperti dahulu; sekarang mereka boleh menjual terus dan hanya membayar caj penggunaan grid.
+**Rafizi:** Sudah, semua sudah ada. Pihak swasta akan bekalkan terus daripada penjual ke pembeli di bawah CRES. Satu projek itu, katakanlah untuk kilang besar atau pusat data yang mahukan 500 megawatt, memerlukan pelaburan sekurang-kurangnya RM3-4 bilion. Dengan membuka ruang itu, kita berharap lebih banyak syarikat swasta masuk ke bidang solar. Ia tidak seperti dahulu; sekarang mereka boleh menjual terus dan hanya membayar caj penggunaan grid.
 
 **Iswardi Murni:** Tapi daripada solar, adakah lebih baik jika kita beralih ke nuklear? Ada yang mempersoalkan sebab solar memerlukan banyak tanah dan terdapat kos lepas di situ.
 
-**Rafizi Ramli:** Dasar kerajaan sekarang memang sudah terbuka untuk nuklear. Cuma satu perkara tentang nuklear ialah kosnya masih sangat mahal. Orang kata nuklear murah, tapi kalau kita ada satu loji nuklear, tarif asas mungkin tidak jadi 45 sen—entah-entah jadi 60 sen. Memang ada teknologi baru, tapi nuklear adalah pilihan untuk jangka masa panjang kerana ia mengambil masa sekurang-kurangnya 10 tahun untuk dibangunkan mengikut undang-undang antarabangsa dan keselamatan. Jadi kita sudah ke arah itu, ia cuma persoalan bila ia akan diluluskan selepas meneliti aspek kewangan.
+**Rafizi:** Dasar kerajaan sekarang memang sudah terbuka untuk nuklear. Cuma satu perkara tentang nuklear ialah kosnya masih sangat mahal. Orang kata nuklear murah, tapi kalau kita ada satu loji nuklear, tarif asas mungkin tidak jadi 45 sen—entah-entah jadi 60 sen. Memang ada teknologi baru, tapi nuklear adalah pilihan untuk jangka masa panjang kerana ia mengambil masa sekurang-kurangnya 10 tahun untuk dibangunkan mengikut undang-undang antarabangsa dan keselamatan. Jadi kita sudah ke arah itu, ia cuma persoalan bila ia akan diluluskan selepas meneliti aspek kewangan.
 
 Pilihan terbaik untuk Malaysia masih lagi solar pada masa ini. Dan pilihan terbaik untuk rakyat ialah jangan membazir elektrik. Ia tidak akan menjadi lebih murah. Peraturan asas untuk solar ialah satu megawatt memerlukan lebih kurang empat ekar. Kalau 100 megawatt, 400 ekar. Kalau semua orang buat solar, kita nak makan apa? Satu Malaysia jadi ladang solar.
 
@@ -125,15 +125,15 @@ Di negara lain, syarikat sebenarnya menyewa bumbung rumah tersebut. Katakanlah s
 
 **Moderator:** Tapi YB baru saja cadangkan kepada kementerian?
 
-**Rafizi Ramli:** Itu adalah visi dalam NETR (Pelan Hala Tuju Peralihan Tenaga Negara). Kita tidak akan mampu memenuhi potensi solar jika hanya bergantung kepada ladang solar besar yang menggunakan beratus hektar. Kita kena cepat beralih ke solar atas bumbung kerana ia membantu kesinambungan bekalan dan membantu rakyat menjana pendapatan. Untuk itu berlaku, kita perlukan pasaran. Adakah orang jual kepada TNB atau kepada pasaran pertukaran? Saya harap dalam 3-4 tahun lagi ini mula berlaku supaya kita boleh cepatkan komposisi penjanaan solar.
+**Rafizi:** Itu adalah visi dalam NETR (Pelan Hala Tuju Peralihan Tenaga Negara). Kita tidak akan mampu memenuhi potensi solar jika hanya bergantung kepada ladang solar besar yang menggunakan beratus hektar. Kita kena cepat beralih ke solar atas bumbung kerana ia membantu kesinambungan bekalan dan membantu rakyat menjana pendapatan. Untuk itu berlaku, kita perlukan pasaran. Adakah orang jual kepada TNB atau kepada pasaran pertukaran? Saya harap dalam 3-4 tahun lagi ini mula berlaku supaya kita boleh cepatkan komposisi penjanaan solar.
 
 **Iswardi Murni:** Kepada siapa kita nak tanya ini? PETRA?
 
-**Rafizi Ramli:** Kepada PETRA, kepada Menteri Ekonomi, sesiapa pun beliau. Ia melibatkan rakyat. Tapi masih belum terjawab kenapa tarif asas 45 sen (naik 14%) tapi tiba-tiba jadual tarif jimat RM4?
+**Rafizi:** Kepada PETRA, kepada Menteri Ekonomi, sesiapa pun beliau. Ia melibatkan rakyat. Tapi masih belum terjawab kenapa tarif asas 45 sen (naik 14%) tapi tiba-tiba jadual tarif jimat RM4?
 
 **Moderator:** Belum jawab lagi. Boleh sempat Google?
 
-**Rafizi Ramli:** Saya tanya sebab dia kerja kat situ! Itu purata, ia tidak dicerminkan terus kepada pengguna akhir. Pengguna akhir ini tertakluk kepada tahap penggunaan dia. Seperti yang Is kata tadi, kerajaan tanggung kenaikan 14% itu daripada 39.6 sen ke 45.6 sen. Kerajaan kena bayar kepada TNB tau, banyak itu. Tapi bila kerajaan menetapkan jadual tarif, kerajaan ambil kira 85% daripada isi rumah kita guna elektrik bawah 600 kWh.
+**Rafizi:** Saya tanya sebab dia kerja kat situ! Itu purata, ia tidak dicerminkan terus kepada pengguna akhir. Pengguna akhir ini tertakluk kepada tahap penggunaan dia. Seperti yang Is kata tadi, kerajaan tanggung kenaikan 14% itu daripada 39.6 sen ke 45.6 sen. Kerajaan kena bayar kepada TNB tau, banyak itu. Tapi bila kerajaan menetapkan jadual tarif, kerajaan ambil kira 85% daripada isi rumah kita guna elektrik bawah 600 kWh.
 
 Kalau tengok laman web TNB, ada bermacam komponen kos seperti kos penjanaan dan ICPT (Pelepasan Kos Tidak Seimbang). Semua itu melibatkan rebat berdasarkan penggunaan. Contohnya, orang yang guna bawah 200 kWh sebulan hanya bayar RM25, maksudnya baki itu kerajaan bayar sebagai subsidi. Bila penggunaan makin tinggi, subsidi makin kurang. Jadual tarif baru ini, kalau anda cecah 1,000 kWh, anda kena bayar kos sebenar iaitu 45 sen. Kurang subsidi di situ. Untuk 85% rumah yang guna bawah 600 kWh, mereka masih dapat rebat sekitar 9 sen, bermakna mereka hanya bayar kos sekitar 36 sen. Sebab itu bila dibandingkan dengan jadual tarif baru, sebenarnya boleh jimat RM4.
 
@@ -141,17 +141,17 @@ Tapi sudah tentu, poket kiri masuk poket kanan kerana yang menanggung masih kera
 
 **Moderator:** Duit itu daripada pinjaman?
 
-**Rafizi Ramli:** Tak boleh pinjam. Mengikut Perlembagaan, subsidi adalah belanja mengurus dan mestilah daripada hasil negara. Jika subsidi elektrik naik mendadak sebanyak RM10 bilion, kita kena potong peruntukan di tempat lain, biasanya belanja pembangunan (hospital, sekolah, jalan raya) kerana belanja pembangunan boleh dipinjam. Begitulah mekaniknya. Panjang cerita kita, ini baru satu podcast. Lepas ini ramai rakyat boleh jadi menteri!
+**Rafizi:** Tak boleh pinjam. Mengikut Perlembagaan, subsidi adalah belanja mengurus dan mestilah daripada hasil negara. Jika subsidi elektrik naik mendadak sebanyak RM10 bilion, kita kena potong peruntukan di tempat lain, biasanya belanja pembangunan (hospital, sekolah, jalan raya) kerana belanja pembangunan boleh dipinjam. Begitulah mekaniknya. Panjang cerita kita, ini baru satu podcast. Lepas ini ramai rakyat boleh jadi menteri!
 
 Tarif asas 45 sen itu pun sebenarnya berdasarkan harga gas bersubsidi daripada PETRONAS. PETRONAS jual gas kepada penjana pada harga RM35 per MMBtu, sedangkan harga pasaran mungkin RM45 ke RM60. Perbezaan itu PETRONAS yang tanggung. Kalau PETRONAS tak tanggung, dividen kepada kerajaan mungkin lebih tinggi dan cukai mungkin kurang. Semuanya berkait. Jadi marilah menteri macam mana pun, anda tak boleh lari daripada realiti ini. Sebab itu saya kata, yang penting kurangkan penggunaan elektrik.
 
 **Iswardi Murni:** Memang betul, tapi orang akan kecamlah. Mereka kata, "Apalah jadi menteri suruh kurangkan guna elektrik? Kau bolehlah, kau menteri!" Tapi hakikatnya ia akan menjadi semakin mahal.
 
-**Rafizi Ramli:** Saya rasa saya dah jawab soalan pertama.
+**Rafizi:** Saya rasa saya dah jawab soalan pertama.
 
 **Moderator:** Belum, sebab soalannya adakah sesiapa akan "terbakar"?
 
-**Rafizi Ramli:** Kita tengoklah, tapi saya rasa tidak sebab 85% tidak terkesan. Seperti yang saya sebut sebelum ini, ramai orang bercakap tentang T20, tapi itu nasihat saya kepada semua. Banyak benda yang lebih kompleks daripada apa yang kita nampak. Dalam era Facebook ini, ada ahli parlimen yang tidak faham IBR tapi pukul canang satu Malaysia kata harga naik, harga naik. Kesannya, ada peniaga ambil kesempatan naikkan harga barang padahal tarif elektrik mereka tak naik pun. Kalau mereka faham tarif asas tidak sama dengan jadual tarif akhir, mereka takkan buat begitu. Pengajarannya, semaklah dulu. Tanya ChatGPT pun boleh.
+**Rafizi:** Kita tengoklah, tapi saya rasa tidak sebab 85% tidak terkesan. Seperti yang saya sebut sebelum ini, ramai orang bercakap tentang T20, tapi itu nasihat saya kepada semua. Banyak benda yang lebih kompleks daripada apa yang kita nampak. Dalam era Facebook ini, ada ahli parlimen yang tidak faham IBR tapi pukul canang satu Malaysia kata harga naik, harga naik. Kesannya, ada peniaga ambil kesempatan naikkan harga barang padahal tarif elektrik mereka tak naik pun. Kalau mereka faham tarif asas tidak sama dengan jadual tarif akhir, mereka takkan buat begitu. Pengajarannya, semaklah dulu. Tanya ChatGPT pun boleh.
 
 **Moderator:** Baiklah, kita transisi kepada isu semasa. Is, kau tanyalah sebab aku nak berehat. Isu seterusnya berkaitan dengan YB sedikit. Isu pertama ialah penggunaan DNAA (Melepas Tanpa Membebaskan) kepada Datuk Seri Najib Razak. YB dah keluar kenyataan, AGC pun dah jawab, tapi YB belum balas jawapan AGC itu. AGC kata dokumen tersebut digunakan untuk kes-kes lain. YB dan Is pun dah banyak kali turun naik mahkamah. Adakah alasan ini munasabah?
 
@@ -167,7 +167,7 @@ Kadang-kadang kita terlalu teruja nak mendakwa orang. Kita kena berpegang kepada
 
 **Moderator:** AGC tak jawab, tapi Abang Is tolong jawabkan. Macam mana YB?
 
-**Rafizi Ramli:** Secara undang-undang, itulah jawapannya. Tapi satu lagi adalah dari segi persepsi dan pandangan rakyat. Sebelum perbicaraan bermula, pendakwa dan peguam bela kena bertukar dokumen (*bundle of documents*). Selalunya memang guna fotostat. Asalkan anda boleh panggil "pembuat dokumen tersebut" untuk mengesahkan, ia boleh diterima sebagai bahan bukti. Jadi alasan tunggu kes 1MDB lain habis baru nak bagi dokumen itu memang buat orang garu kepala.
+**Rafizi:** Secara undang-undang, itulah jawapannya. Tapi satu lagi adalah dari segi persepsi dan pandangan rakyat. Sebelum perbicaraan bermula, pendakwa dan peguam bela kena bertukar dokumen (*bundle of documents*). Selalunya memang guna fotostat. Asalkan anda boleh panggil "pembuat dokumen tersebut" untuk mengesahkan, ia boleh diterima sebagai bahan bukti. Jadi alasan tunggu kes 1MDB lain habis baru nak bagi dokumen itu memang buat orang garu kepala.
 
 Ini menimbulkan kebimbangan tentang persepsi. Kerana ada beberapa siri kes melibatkan 1MDB yang dilihat "dilepaskan," sebahagian rakyat akan bertanya, "Adakah ini harga yang dibayar kerana UMNO berada di dalam Kerajaan Perpaduan?" Itu akan mendatangkan masalah. Sebagai ahli parlimen penyokong kerajaan, saya kena ingatkan kerajaan. Saya tak tahu apa yang berlaku sebenarnya di sebalik tabir, tapi rakyat biasa akan berfikir: kalau tengok rekod prestasi, adakah ini bermakna kes ini juga akan ditutup dan hilang begitu saja?
 
@@ -183,17 +183,17 @@ Benda inilah yang kita tunggu. Paling kurang perlu ada komitmen untuk memfailkan
 
 **Moderator:** YB, maaf sikit lagi. Secara praktikal, berkaitan dengan pendakwaan yang "cacat" ini, tidak adakah kawalan kualiti yang boleh kita buat?
 
-**Rafizi Ramli:** Jangan tanya aku, aku bukan peguam! Aku tak pernah kerja di kamar, aku yang selalu kena dakwa. Tanyalah Is.
+**Rafizi:** Jangan tanya aku, aku bukan peguam! Aku tak pernah kerja di kamar, aku yang selalu kena dakwa. Tanyalah Is.
 
 **Iswardi Murni:** Setiap kertas siasatan apabila sampai kepada pendakwa raya, mereka akan tengok. Ada peratusan tertentu yang perlu dipatuhi sebelum boleh dakwa. Mereka kena pastikan bukti dan dokumen cukup, contohnya 90% boleh sabit, baru dakwa. Kalau main dakwa saja, ia membazir masa mahkamah dan duit rakyat. Malah kalau kalah, kerajaan boleh disaman balik.
 
 Jadi mesti ada ambang tertentu. Ini membawa balik kepada persoalan tadi: kalau dah dakwa pada 2019, maksudnya ia dah melepasi ambang tersebut. Tapi kita sedia maklum ada orang biasa kena dakwa 3-4 tahun tapi tak bicara lagi. Bayangkan kalau mak ayah mereka di Rompin atau Pekan, kena berulang-alik ke mahkamah di Kuantan setiap kali sebutan ditunda. Proses ini yang perlu ditambah baik.
 
-**Rafizi Ramli:** Naiklah kan? Naik daripada Rompin ke Kuantan. Anak dia pula daripada penuh semangat nak pergi Kuantan. Anda tahu penderitaan manusia itu sebenarnya agak... Jadi, jika ada ambang tertentu, selesaikan kes dengan cepat. Dan perbicaraan tersebut, apabila dia mendapat perbicaraan, bukan dia yang memutuskan—DPP akan pergi ke pihak atasan, bosnya. Mereka akan meluluskan. Kelulusan itu sendiri menunjukkan bahawa mereka sudah bersedia. Tapi itulah hakikatnya.
+**Rafizi:** Naiklah kan? Naik daripada Rompin ke Kuantan. Anak dia pula daripada penuh semangat nak pergi Kuantan. Anda tahu penderitaan manusia itu sebenarnya agak... Jadi, jika ada ambang tertentu, selesaikan kes dengan cepat. Dan perbicaraan tersebut, apabila dia mendapat perbicaraan, bukan dia yang memutuskan—DPP akan pergi ke pihak atasan, bosnya. Mereka akan meluluskan. Kelulusan itu sendiri menunjukkan bahawa mereka sudah bersedia. Tapi itulah hakikatnya.
 
 **Abie:** Baik, selesai untuk itu... Nanti kita pula kena dakwa. Jadi kita pergi ke yang selanjutnya. Isu yang selanjutnya berkaitan dengan perintah mahkamah Telegram, di mana MCMC baru-baru ini telah memohon dan Mahkamah Tinggi telah memberikan injunksi. Berkenaan siasatan Edisi Siasat itu? ADC khas apa itu? Hilanglah segalanya. Janganlah duk ulang-ulang. Maaf, YB. Sekarang sebagai rakyat biasa melihat...
 
-**Rafizi Ramli:** Jadi menteri bukan rakyat biasa? Ada yang terasa rakyat biasa. Sebenarnya rakyat biasa, tapi konotasi itu salah tau. Jadi menteri saja dia dah tak jadi rakyat biasa. Walau apa pun, okay.
+**Rafizi:** Jadi menteri bukan rakyat biasa? Ada yang terasa rakyat biasa. Sebenarnya rakyat biasa, tapi konotasi itu salah tau. Jadi menteri saja dia dah tak jadi rakyat biasa. Walau apa pun, okay.
 
 **Abie:** Jadi orang nak seimbangkanlah antara kerajaan yang mungkin fikir kena ada kedaulatan digital—kena ada kawalan apa yang dicakap dalam itu—dan satu lagi bahagian adalah untuk kita imbangkan dengan kebebasan media termasuklah untuk pemberian maklumat (*whistleblowing*) dan sebagainya. Jadi macam mana kita nak mencari keseimbangan sebenarnya antara dua-dua ini? Tapi untuk isu ini dia lebih ekstrem lah sebab alasan yang diberi itu cuma sekadar ini akan menggugat institusi kerajaan, yang saya rasa... tak tahulah Abang Is boleh terima atau tidak. Tapi alasan yang diberi itulah.
 
@@ -213,7 +213,7 @@ Sebagai contoh, kes di Sabah, lelaki yang didedahkan tentang lima nama ADUN berk
 
 **Is:** Memang ada. Tapi YB, harga untuk menjadi seorang pemberi maklumat ini agak mahal. Sesetengah orang akan kehilangan segala-galanya. Jadi bukan mudah untuk mendedahkan diri anda. YB, apa pengalaman anda?
 
-**Rafizi Ramli:** Pasal Telegram, jadi ini dah jadi isulah kan. Tapi saya ingat dia kena cari keseimbangan begini. Alasan ataupun hujah yang kuat untuk kerajaan melesenkan—dan dengan lesen itu atau tindakan undang-undang, boleh mengarahkan platform untuk buang atau tutup—alasannya ialah untuk jenayah. Maksudnya jenayah penipu (*scammer*), seks, pelacuran dan segala-galanya. Jadi setiap undang-undang dan setiap tindakan itu, walaupun ia bermula dengan niat yang baik, jika anda tidak berhati-hati, ia akan disalah tafsir.
+**Rafizi:** Pasal Telegram, jadi ini dah jadi isulah kan. Tapi saya ingat dia kena cari keseimbangan begini. Alasan ataupun hujah yang kuat untuk kerajaan melesenkan—dan dengan lesen itu atau tindakan undang-undang, boleh mengarahkan platform untuk buang atau tutup—alasannya ialah untuk jenayah. Maksudnya jenayah penipu (*scammer*), seks, pelacuran dan segala-galanya. Jadi setiap undang-undang dan setiap tindakan itu, walaupun ia bermula dengan niat yang baik, jika anda tidak berhati-hati, ia akan disalah tafsir.
 
 Jika saya teringat tentang Edisi Siasat ini, jika sebenarnya ada 10 ke 20 tindakan yang sama mengenai benda-benda lain yang melibatkan penipu dan sebagainya, ia mungkin boleh mencari keseimbangan. Jadi bila tiba-tiba yang pertama diambil tindakan untuk tutup itu adalah Edisi Siasat, maka ya lah, akan ada orang rasa bahawa kerajaan ini tidak ada toleransi kepada ruang untuk berbeza pendapat. Saya setuju. Saya sebagai tokoh awam, jika anda perasan, saya tidak pernah menyaman sesiapa. Saya mahu menyaman Wan Fayhsal kerana dia sangat jelas—dia sombong dan memfitnah—tetapi saya fikir saya tidak mahu bermula. Pandangan peribadi saya adalah sebagai tokoh awam, anda mempunyai semua ruang untuk menjawab. Jadi jika anda mengambil tindakan menyaman orang—saya tidak setuju untuk menyaman saja—kita boleh jawab. Memang, bukan semua orang akan percaya. Walaupun anda pergi ke mahkamah, bukan semua orang akan percaya. Jika orang sudah berfikir begitu, mereka akan berfikir begitu.
 
@@ -229,15 +229,15 @@ Cuma satu tambahan saya, melalui maklumat dalaman, kalau halaman Telegram yang m
 
 **Is:** Tak, saya sebenarnya untuk jujur, saya setuju.
 
-**Rafizi Ramli:** Aku tak setuju.
+**Rafizi:** Aku tak setuju.
 
 **Is:** Saya setuju tutup, YB tak setuju.
 
-**Rafizi Ramli:** Sebab aku di belakang. Tak apa, berbeza pendapat itu. Tak, tak, tak, tipu saja. Ada orang betul-betul ambil itu, aku kena tangkap esok pula. Gurau saja.
+**Rafizi:** Sebab aku di belakang. Tak apa, berbeza pendapat itu. Tak, tak, tak, tipu saja. Ada orang betul-betul ambil itu, aku kena tangkap esok pula. Gurau saja.
 
 **Abie:** Okay baik, selesai yang itu. Isu yang terakhir sekali adalah isu berkaitan dengan pembakaran karikatur PMX yang dibuat oleh beberapa mahasiswa di UMS. Sudut yang saya nak cuba ambil ialah YB selalu kata bila kita nak bagi pendapat, kita kena ada kredibiliti. Saya melihat respon dari pelbagai orang muda—sayap A mengkritik, sayap B menyokong. Kita tengok rekod prestasi mereka, contohnya AMK lah kan. Sebenarnya logiknya sebagai sayap kerajaan, mereka ambil pendekatan menyokong. Cuma nampak macam orang tidak dapat menerima benda itu mungkin sebab Keadilan dan Pakatan Harapan dulu pernah terlibat dengan gimik yang begitu. Jadi bila dah jadi kerajaan, kita pula cakap "Beradablah, janganlah begitu." Jadi sukar sebagai sayap pemuda. Sebenarnya macam mana kita nak maklum balas terhadap pendekatan itu? Kita pernah bakar gambar Perdana Menteri? Walaupun kita tak pernah terpalit kan?
 
-**Rafizi Ramli:** Ya lah, saya maksudkan, saya fikir yang paling penting ialah jangan hukum pembawa mesej. Itu satu. Contohnya Fahmi Reza, siapa dia tidak kutuk? Siapa dia tidak lukis? Tetapi saya fikir macam saya kata tadi, tokoh awam kita ada ruang untuk menjawab. Dan walaupun ia dalam bentuk kritikan, pandangan peribadi berubah dan berbeza mengikut perasaan. Sesetengah orang tidak marah walaupun anda melukis kartun; sesetengahnya tidak risau walaupun anda membakarnya. Peraturan nombor satu ialah sebagai tokoh awam, jangan hukum pembawa mesej kerana hakimnya bukan anda. Hakimnya ialah rakyat.
+**Rafizi:** Ya lah, saya maksudkan, saya fikir yang paling penting ialah jangan hukum pembawa mesej. Itu satu. Contohnya Fahmi Reza, siapa dia tidak kutuk? Siapa dia tidak lukis? Tetapi saya fikir macam saya kata tadi, tokoh awam kita ada ruang untuk menjawab. Dan walaupun ia dalam bentuk kritikan, pandangan peribadi berubah dan berbeza mengikut perasaan. Sesetengah orang tidak marah walaupun anda melukis kartun; sesetengahnya tidak risau walaupun anda membakarnya. Peraturan nombor satu ialah sebagai tokoh awam, jangan hukum pembawa mesej kerana hakimnya bukan anda. Hakimnya ialah rakyat.
 
 Ia adalah benda yang dinamik. Katakanlah ada pimpinan A, kemudian ada protes dan cara protes itu katakanlah bakar. Sebenarnya apa rasa pimpinan A itu tidak penting. Yang penting ialah apa pandangan rakyat keseluruhan tentang episod itu berdasarkan reaksi pimpinan tersebut. Jadi sebenarnya masing-masing ada budi bicara. Sebab itu kalau saya, biarlah, saya tak ambil peduli pun orang buat. Dia nak bakar, bakarlah. Yang kedua, budak-budak. Kita semua pernah jadi budak-budak. Walaupun aku tak pernah bakar pun—satunya sebab aku takut main api, terbakar pula orang kan—itu hak masing-masing. Ada orang yang karakternya kasar, dan apabila mereka semakin dewasa, mereka akan melihat perspektif yang berbeza dalam hidup. Banyak pimpinan politik atau menteri sekarang yang dulu macam-macam jenis pun pernah dia buat. Jadi saya ingat dari segi itu, tak perlulah kita jadi menghukum. Yang penting ialah mesej itu, kerana akhirnya rakyat akan menghakimi sendiri.
 
@@ -247,7 +247,7 @@ Apa sebenarnya yang kita mahukan daripada generasi muda kita? Saya sebenarnya ma
 
 **Is:** Tapi mungkin AMK dengan mahasiswa boleh bergaduh? Saya setuju juga poin itu. Kita kena beri ruang kepada pelajar untuk menyuarakan pandangan mereka selagi ia dalam batasan undang-undang. Malah, adakah YB menonton video budak yang membakar sesuatu itu?
 
-**Rafizi Ramli:** Saya ada tengok sekejap.
+**Rafizi:** Saya ada tengok sekejap.
 
 **Is:** Bila dia tuang cecair dan nyalakan api, dia nampak sangat takut. Sebab itulah saya tidak berani dekat dengan api. Kalau hendak membakar, kena belajar dahulu. Lain kali, pergi kursus keselamatan dahulu. Tetapi bagi saya, kita buka ruang melalui dialog dan perbincangan. Saya sebenarnya suka akan pendapat dan pandangan yang berbeza. Saya tidak suka apabila orang hanya berkata, "Betul itu Is, awak yang terbaik." Saya suka pendapat yang membuatkan kita berfikir, "Betul juga budak ni cakap tadi." Kita nak melahirkan suasana begitu. Kalau dia nak bakar itu, mungkin dia rasa tidak ada ruang. Jadi kita sepatutnya sediakan ruang. Ada AMK yang mengutuk, tetapi adakah dia membakar sebab betul-betul marah atau itu sekadar gimik? Saya rasa ia lebih kepada gimik untuk menarik perhatian.
 
@@ -261,11 +261,11 @@ Satu lagi kepada kerajaan, wacana itu janganlah sekadar di permukaan atau *super
 
 **Abie:** Okay YB, kita dah cerita pasal negara, sekarang kita cerita politiklah. Melangkah ke hadapan, YB pernah hilang daripada radar politik pada 2019. Lepas ni, dengan keadaan yang berlaku dan YB pun kata rasa hati agak terluka juga, adakah lepas ni YB akan hilang lagi?
 
-**Rafizi Ramli:** Ia berbeza. Dulu pada 2019 itu saya bukan Ahli Parlimen. Dan hasrat untuk melihat kerajaan bertukar sudah pun berlaku. Isyarat daripada parti pun cukup jelas. Maksud saya, mereka yang menang dan menjadi menteri tidak mahu diganggu. Dato' Seri Anwar pula sibuk dengan persiapan untuk menjadi Perdana Menteri. Dari segi kepakaran saya, ia tidak diperlukan masa itu. Saya adalah seorang penggerak kempen; parti sudah pun menang. Jika anda berada di tempat saya, apakah status tempatan yang saya ada pada masa itu? Saya tidak mempunyai status tempatan. Bukan Ahli Parlimen, aku orang biasa, tak ada jawatan. Masa itu parti dipenuhi pimpinannya oleh menteri atau orang yang dah dimenangkan, dan parti tidak ada program khusus untuk menang pilihan raya kerana dah menang pun. Jadi khidmat saya tidaklah diperlukan masa itu. Saya ada kehidupan sendiri untuk dijalankan.
+**Rafizi:** Ia berbeza. Dulu pada 2019 itu saya bukan Ahli Parlimen. Dan hasrat untuk melihat kerajaan bertukar sudah pun berlaku. Isyarat daripada parti pun cukup jelas. Maksud saya, mereka yang menang dan menjadi menteri tidak mahu diganggu. Dato' Seri Anwar pula sibuk dengan persiapan untuk menjadi Perdana Menteri. Dari segi kepakaran saya, ia tidak diperlukan masa itu. Saya adalah seorang penggerak kempen; parti sudah pun menang. Jika anda berada di tempat saya, apakah status tempatan yang saya ada pada masa itu? Saya tidak mempunyai status tempatan. Bukan Ahli Parlimen, aku orang biasa, tak ada jawatan. Masa itu parti dipenuhi pimpinannya oleh menteri atau orang yang dah dimenangkan, dan parti tidak ada program khusus untuk menang pilihan raya kerana dah menang pun. Jadi khidmat saya tidaklah diperlukan masa itu. Saya ada kehidupan sendiri untuk dijalankan.
 
 **Is:** Tetapi tidakkah anda mempunyai tuntutan persaudaraan? Sebab selepas itu kita rasa kelemahan...
 
-**Rafizi Ramli:** Tidak, saya tidak tahu. Saya sedang berjoging masa itu. Saya pun manusia biasa. Kadang-kadang orang lupa saya ada keluarga. Selepas 2018, saya tiada gaji. Saya terpaksa pergi. Dan kerana saya tidak mempunyai tanggungjawab, adalah wajar untuk saya meneruskan hidup. Saya tidak mengganggu sesiapa dan saya menjalankan tugas saya. Sudah tentu sekarang berbeza kerana saya masih seorang Ahli Parlimen. Dua tahun lagi akan tiba, dan keadaan selepas itu adalah tidak menentu; kita tidak tahu apa yang akan berlaku. Kedudukan kewangan saya jauh lebih baik sekarang berbanding dahulu, jadi saya mempunyai lebih banyak ruang dan masa untuk terus bergiat dalam masyarakat.
+**Rafizi:** Tidak, saya tidak tahu. Saya sedang berjoging masa itu. Saya pun manusia biasa. Kadang-kadang orang lupa saya ada keluarga. Selepas 2018, saya tiada gaji. Saya terpaksa pergi. Dan kerana saya tidak mempunyai tanggungjawab, adalah wajar untuk saya meneruskan hidup. Saya tidak mengganggu sesiapa dan saya menjalankan tugas saya. Sudah tentu sekarang berbeza kerana saya masih seorang Ahli Parlimen. Dua tahun lagi akan tiba, dan keadaan selepas itu adalah tidak menentu; kita tidak tahu apa yang akan berlaku. Kedudukan kewangan saya jauh lebih baik sekarang berbanding dahulu, jadi saya mempunyai lebih banyak ruang dan masa untuk terus bergiat dalam masyarakat.
 
 Tambah lagi, dua tahun setengah sebagai Menteri Ekonomi, ada perkara-perkara yang saya rasa penting untuk negara yang kerajaan pun akan ambil masa untuk buat. Jadi itu ruang yang saya rasa saya boleh usahakan dulu lebih awal dengan masyarakat—sektor ketiga dan sebagainya. Ia adalah satu proses pembelajaran yang mengujakan bagi saya. Isu utama dalam negara ini ialah harga barang naik, harga makanan. Inflasi turun ke tahap paling rendah pun bulan lepas pada kadar 1.2%, tetapi harga nasi campur tidak akan turun. Elektrik tidak naik pun, harga tidak akan turun. Statistik nampak cantik, tetapi harganya tetap begitu.
 
@@ -275,15 +275,15 @@ Apabila saya membuat keputusan beberapa bulan lalu secara senyap-senyap bahawa j
 
 **Abie:** Tapi YB dah mula berkempen sejak 2016 untuk pilihan raya 2018. Adakah anda masih akan melakukannya selepas ini? Secara menyeluruh macam dulu atau fokus kawasan sahaja?
 
-**Rafizi Ramli:** Saya tidak rasa saya mempunyai mandat untuk bercakap bagi pihak parti atau PH. Sebagai individu, saya tidak mempunyai mandat itu. Tahun 2016 dulu lain kerana masa itu keadaan tidak bergerak. Orang sebut pengarah pilihan raya bersama Izzah, tapi sebenarnya dalam parti itu tidak berjalan langsung. Sebab itu kita tidak ada pilihan, kita kena keluar dan berkempen demi parti di luar.
+**Rafizi:** Saya tidak rasa saya mempunyai mandat untuk bercakap bagi pihak parti atau PH. Sebagai individu, saya tidak mempunyai mandat itu. Tahun 2016 dulu lain kerana masa itu keadaan tidak bergerak. Orang sebut pengarah pilihan raya bersama Izzah, tapi sebenarnya dalam parti itu tidak berjalan langsung. Sebab itu kita tidak ada pilihan, kita kena keluar dan berkempen demi parti di luar.
 
 **Abie:** Rasa sekarang ni berjalanlah?
 
-**Rafizi Ramli:** Itu tanggungjawab merekalah. Keadaan dia berbeza. Sekarang ada Perdana Menteri, ada menteri-menteri. Berbanding 2016, Pakatan Rakyat pun tiada, kita nak buat yang baru. Dato' Seri Anwar dalam penjara. Sebahagian besar pimpinan parti sebenarnya tidak mahu bergerak dan ada perselisihan pandangan kerana mereka mahu bersama UMNO. Jadi saya masa itu sebagai Naib Presiden dan Setiausaha Agung berada di tengah-tengah. Demi parti, kerana kita tahu Dato' Seri Anwar hanya boleh dibebaskan kalau Pakatan Harapan menang. Pilihan apa yang saya ada? Saya adalah penggerak kempen pilihan terakhir (*campaigner of last resort*). Tapi sekarang ramai orang, pempengaruh pun ramai. Ada banyak lagi kumpulan lain yang boleh dapat manfaat daripada tenaga kami, dan mungkin bukan melalui politik kepartian.
+**Rafizi:** Itu tanggungjawab merekalah. Keadaan dia berbeza. Sekarang ada Perdana Menteri, ada menteri-menteri. Berbanding 2016, Pakatan Rakyat pun tiada, kita nak buat yang baru. Dato' Seri Anwar dalam penjara. Sebahagian besar pimpinan parti sebenarnya tidak mahu bergerak dan ada perselisihan pandangan kerana mereka mahu bersama UMNO. Jadi saya masa itu sebagai Naib Presiden dan Setiausaha Agung berada di tengah-tengah. Demi parti, kerana kita tahu Dato' Seri Anwar hanya boleh dibebaskan kalau Pakatan Harapan menang. Pilihan apa yang saya ada? Saya adalah penggerak kempen pilihan terakhir (*campaigner of last resort*). Tapi sekarang ramai orang, pempengaruh pun ramai. Ada banyak lagi kumpulan lain yang boleh dapat manfaat daripada tenaga kami, dan mungkin bukan melalui politik kepartian.
 
 **Abie:** Akhir sekali, jika anda seorang ahli politik, anda mahu memberi impak kepada masyarakat. Merdeka Center telah mengeluarkan keputusan yang menunjukkan rakyat merasakan negara berada di landasan yang betul. Tetapi seperti yang anda katakan sebelum ini, hanya kerana orang kata PM itu bagus, tidak bermakna mereka akan mengundi kita. YB ada buat kajian terbaru?
 
-**Rafizi Ramli:** Sedang dibuat sekarang ni. Kami memang buat tiap-tiap bulan. Saya mula menjadi *pollster* sains data ini pun kerana tidak berpuas hati dengan Merdeka Center. Data yang sampai itu, mereka tidak pernah bertanya tentang "Siapa yang akan mengundi?". Survei ini sangat bergantung kepada soalan, tambah pula orang Melayu cakap berlapik-lapik. Kedua, saiz pensampelan survei biasanya hanya 1,200 ke 1,500 sahaja. Ia dipanggil julat ralat (*margin of error*), atau julat perbezaan. Untuk mendapatkan julat ralat 2-3%, anda hanya memerlukan sekitar 1,500 responden. Cabarannya bukan pada jumlah, tetapi memastikan mereka mewakili populasi (representatif).
+**Rafizi:** Sedang dibuat sekarang ni. Kami memang buat tiap-tiap bulan. Saya mula menjadi *pollster* sains data ini pun kerana tidak berpuas hati dengan Merdeka Center. Data yang sampai itu, mereka tidak pernah bertanya tentang "Siapa yang akan mengundi?". Survei ini sangat bergantung kepada soalan, tambah pula orang Melayu cakap berlapik-lapik. Kedua, saiz pensampelan survei biasanya hanya 1,200 ke 1,500 sahaja. Ia dipanggil julat ralat (*margin of error*), atau julat perbezaan. Untuk mendapatkan julat ralat 2-3%, anda hanya memerlukan sekitar 1,500 responden. Cabarannya bukan pada jumlah, tetapi memastikan mereka mewakili populasi (representatif).
 
 Saya tidak percaya kepada survei bersemuka. Ambil IDE (Institut Darul Ehsan) sebagai contoh; jika anda mengikut mereka, PKR menang 100 kerusi setiap kali. Mereka menghantar pelajar universiti ke kampung-kampung, pelajar itu mengetuk pintu atau pergi ke kedai kopi. Jika kedai kopi itu kebetulan merupakan kubu kuat PAS, semua orang akan menjawab PAS. Ia mestilah berkomputer—sistem yang mendail secara rawak. Jika seorang pelajar pergi ke kawasan flat dan kebetulan semuanya penyokong PKR, data tersebut akan berat sebelah.
 
@@ -293,13 +293,13 @@ Membina soalan itu sangat penting. Ia mesti berakhir dengan soalan "Kalau esok p
 
 **Abie:** Dari semua survei yang YB buat, patutkah kita bimbang?
 
-**Rafizi Ramli:** Sepatutnya ya. Saya sudah menyebutnya semasa kempen. Pakatan Harapan, terutamanya PKR dan Amanah, harus bimbang kerana sokongan pengundi Cina dan India adalah drastik bagi tempoh dua tahun ini. Kita telah melihat dalam pilihan raya kecil baru-baru ini, peratusan keluar mengundi hanya 40% ke 45%. Walaupun mengatakan 55% puas hati dengan Perdana Menteri, kita kena risau sebenarnya. Pada Jun, Julai, Ogos 2023 semasa PRN, angka-angkanya lebih kurang sama. Penarafan kelulusan PM bermula pada 60% dan merosot ke 50%. Masa itu, PKR menang berapa kerusi DUN sahaja? Selangor pun berapa sahaja? Kedah 2, Pulau Pinang pun bukan semua.
+**Rafizi:** Sepatutnya ya. Saya sudah menyebutnya semasa kempen. Pakatan Harapan, terutamanya PKR dan Amanah, harus bimbang kerana sokongan pengundi Cina dan India adalah drastik bagi tempoh dua tahun ini. Kita telah melihat dalam pilihan raya kecil baru-baru ini, peratusan keluar mengundi hanya 40% ke 45%. Walaupun mengatakan 55% puas hati dengan Perdana Menteri, kita kena risau sebenarnya. Pada Jun, Julai, Ogos 2023 semasa PRN, angka-angkanya lebih kurang sama. Penarafan kelulusan PM bermula pada 60% dan merosot ke 50%. Masa itu, PKR menang berapa kerusi DUN sahaja? Selangor pun berapa sahaja? Kedah 2, Pulau Pinang pun bukan semua.
 
 Jadi sebenarnya, itulah yang kita panggil korelasi dan penyebaban (*correlation and causation*). Akhir suku kedua dan separuh daripada suku ketiga 2023 menghasilkan keputusan PRN tersebut. Kita belum keluar daripada "keadaan bergelora" (*choppy water*). Jadi, baguslah orang mahu melambung-lambung (pujian) dan sebagainya, tetapi perlu juga ada "budak-budak jahat" yang memberi peringatan supaya anda tidak terlalu selesa.
 
 **Abie:** Adakah YB akan terus menyalurkan data kepada orang awam selepas ini?
 
-**Rafizi Ramli:** Ia bergantung. Biasanya, survei yang kami lakukan adalah atas permintaan pelanggan. Sesetengah pelanggan tidak mahu data itu dikeluarkan kerana mereka telah membayarnya.
+**Rafizi:** Ia bergantung. Biasanya, survei yang kami lakukan adalah atas permintaan pelanggan. Sesetengah pelanggan tidak mahu data itu dikeluarkan kerana mereka telah membayarnya.
 
 **Abie:** Okay, ada apa-apa lagi?
 

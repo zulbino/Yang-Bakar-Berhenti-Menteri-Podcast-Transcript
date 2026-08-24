@@ -8,7 +8,7 @@ duration_seconds: 7903
 duration: 2h 11m
 view_count: 32539
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests: []
 topics:
 - National Budget and Fiscal Outlook
@@ -18,7 +18,7 @@ topics:
 - Artificial Intelligence (AI) and Data Verification
 - Johor-Singapore Special Economic Zone (JS-SEZ)
 - Social Enterprise Initiatives (Kesum and FlexiMart)
-summary: In this episode of the 'Yang Berhenti Menteri' podcast, Rafizi Ramli shares
+summary: In this episode of the 'Yang Berhenti Menteri' podcast, Rafizi shares
   a critical macro-level analysis of the newly announced Malaysian budget, expressing
   concerns over the country's high national debt ceiling, rising debt service charges,
   and cuts to development expenditure. He also discusses current political issues,
@@ -35,169 +35,169 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Host:** Selamat datang ke "Yang Berhenti Menteri" episod ke-17, episod khas pada malam ini. Saya teruskan sajalah ya walaupun ter-start awal. YB... YB...
 
-**Rafizi Ramli:** Ini belum apa-apa dah kena pecat dah...
+**Rafizi:** Ini belum apa-apa dah kena pecat dah...
 
 **Host:** Saya minta maaf.
 
-**Rafizi Ramli:** Nasib baik aku tak bayar gaji kau kan, kalau tidak aku dah potong tiap-tiap bulan...
+**Rafizi:** Nasib baik aku tak bayar gaji kau kan, kalau tidak aku dah potong tiap-tiap bulan...
 
 **Host:** Ya lah, saya sebenarnya intern. Pengarah intern.
 
-**Rafizi Ramli:** Intern pun bayar gaji, engkau lagi teruk daripada intern.
+**Rafizi:** Intern pun bayar gaji, engkau lagi teruk daripada intern.
 
 **Host:** YB baru balik dari Parlimen ke?
 
-**Rafizi Ramli:** Ya, baru habis Parlimen.
+**Rafizi:** Ya, baru habis Parlimen.
 
 **Host:** Tak jogging lah hari ini?
 
-**Rafizi Ramli:** Tak, hari ini tak jogging.
+**Rafizi:** Tak, hari ini tak jogging.
 
-**Host:** Okey, baik YB. Kepada penonton yang baru masuk, saya mohon untuk *like*, *share*, dan *subscribe* halaman serta saluran YouTube Saudara Rafizi Ramli, dan juga di media sosial yang lain. Kita juga ada QR *code* kali ini, YB. Kalau sebelum ini kita kumpul soalan awal-awal, sekarang penonton boleh tanya soalan secara langsung dengan mengimbas QR *code* di sebelah saya ini. QR *code* tersebut akan sentiasa terpampang sepanjang siaran. *Alright* YB, kita ke segmen-segmen biasa, cuma kita cuba pendekkan supaya kita boleh beri lebih ruang untuk membincangkan Belanjawan. Baik, kita pergi ke pautan ini. QR *code* akan diletakkan di tepi skrin. Macam biasa, mari kita tengok orang-orang yang "poyo" minggu ini dalam segmen Beri Emat. Yang pertama, YB nampak tak?
+**Host:** Okey, baik YB. Kepada penonton yang baru masuk, saya mohon untuk *like*, *share*, dan *subscribe* halaman serta saluran YouTube Saudara Rafizi, dan juga di media sosial yang lain. Kita juga ada QR *code* kali ini, YB. Kalau sebelum ini kita kumpul soalan awal-awal, sekarang penonton boleh tanya soalan secara langsung dengan mengimbas QR *code* di sebelah saya ini. QR *code* tersebut akan sentiasa terpampang sepanjang siaran. *Alright* YB, kita ke segmen-segmen biasa, cuma kita cuba pendekkan supaya kita boleh beri lebih ruang untuk membincangkan Belanjawan. Baik, kita pergi ke pautan ini. QR *code* akan diletakkan di tepi skrin. Macam biasa, mari kita tengok orang-orang yang "poyo" minggu ini dalam segmen Beri Emat. Yang pertama, YB nampak tak?
 
-**Rafizi Ramli:** Okey, saya tidak mengikuti perkembangan ini. Ini pertama kali saya tengok.
+**Rafizi:** Okey, saya tidak mengikuti perkembangan ini. Ini pertama kali saya tengok.
 
 **Host:** Ini kes Fashion Valet. Eh, Prima Valet pula, suka hati saya sahaja.
 
-**Rafizi Ramli:** Boleh disaman kalau tersalah sebut begitu. Tapi, ya lah, itu hak dialah mengikut undang-undang dan hak masing-masing. Kalau kita lihat, perkara sebegini di mahkamah memang bergantung kepada budi bicara mahkamah. Saya rasa netizen pun janganlah terlalu zalim sangat. Kalau nak dibandingkan dengan ahli politik yang ada kes CBT [pecah amanah] atau menghadapi pelbagai dakwaan lain, *I think give them a chance lah*, asalkan dia mengikut peraturan dan juga kehendak mahkamah, saya rasa saya tidak mahu campur tangan.
+**Rafizi:** Boleh disaman kalau tersalah sebut begitu. Tapi, ya lah, itu hak dialah mengikut undang-undang dan hak masing-masing. Kalau kita lihat, perkara sebegini di mahkamah memang bergantung kepada budi bicara mahkamah. Saya rasa netizen pun janganlah terlalu zalim sangat. Kalau nak dibandingkan dengan ahli politik yang ada kes CBT [pecah amanah] atau menghadapi pelbagai dakwaan lain, *I think give them a chance lah*, asalkan dia mengikut peraturan dan juga kehendak mahkamah, saya rasa saya tidak mahu campur tangan.
 
 **Host:** Baik. Menarik, YB.
 
-**Rafizi Ramli:** Kau tidak puas hati dengan keputusan adil ke apa ini?
+**Rafizi:** Kau tidak puas hati dengan keputusan adil ke apa ini?
 
 **Host:** Tidak, saya okey sahaja.
 
-**Rafizi Ramli:** Yang ini pula... yang ini pun saya tidak begitu ikuti isunya.
+**Rafizi:** Yang ini pula... yang ini pun saya tidak begitu ikuti isunya.
 
 **Host:** YB tidak kenal?
 
-**Rafizi Ramli:** Kenal, bila tengok dia menggeleng-geleng dan menjegil-jegil mata itu, fahamlah. Tetapi saya tidak faham apa isunya.
+**Rafizi:** Kenal, bila tengok dia menggeleng-geleng dan menjegil-jegil mata itu, fahamlah. Tetapi saya tidak faham apa isunya.
 
 **Host:** Saya rasa ramai ahli politik yang turut bersama-sama menyambutnya pada malam tersebut.
 
-**Rafizi Ramli:** Oh. Tetapi belum apa-apa lagi, nampaknya netizen sudah kurang berpuas hati.
+**Rafizi:** Oh. Tetapi belum apa-apa lagi, nampaknya netizen sudah kurang berpuas hati.
 
 **Host:** Ya, betul.
 
-**Rafizi Ramli:** Tidak mengapalah, kalau dia mahu menunjukkan sokongan, bukankah itu tidak salah? Saya pertahankan juga lah. Asalkan jangan lebih sudu dari kuah [berlebih-lebihan daripada yang sepatutnya], sudahlah. Selalunya saya sendiri kurang menunggang perkara yang bukan kepakaran saya supaya tidak jadi isu seperti ini. Ahli politik kena berhati-hati. Kadang-kadang kita suka menonjolkan muka. Apabila sesuatu perkara sedang hangat, kita mahu menumpang gelombang tersebut. Ini satu peringatan kepada semua ahli politik kerana orang sentiasa memerhatikan kita. Jika kita tiba-tiba tersengih-sengih di situ tanpa ada kaitan yang jelas dengan isu yang dekat dengan hati atau yang kita perjuangkan sejak sekian lama, orang akan pertikaikan. Itu sebabnya ahli politik lain ada yang kurang gemar dengan pendekatan saya. Ada yang kata saya susah didekati, ada yang kata saya *judgmental* kepada orang lain. Tetapi itulah hakikatnya, dan akhirnya terpulang kepada netizen. Lagipun, kebanyakan ahli politik tidak membaca pun komen netizen, jadi mereka tidak kisah dengan apa yang orang katakan.
+**Rafizi:** Tidak mengapalah, kalau dia mahu menunjukkan sokongan, bukankah itu tidak salah? Saya pertahankan juga lah. Asalkan jangan lebih sudu dari kuah [berlebih-lebihan daripada yang sepatutnya], sudahlah. Selalunya saya sendiri kurang menunggang perkara yang bukan kepakaran saya supaya tidak jadi isu seperti ini. Ahli politik kena berhati-hati. Kadang-kadang kita suka menonjolkan muka. Apabila sesuatu perkara sedang hangat, kita mahu menumpang gelombang tersebut. Ini satu peringatan kepada semua ahli politik kerana orang sentiasa memerhatikan kita. Jika kita tiba-tiba tersengih-sengih di situ tanpa ada kaitan yang jelas dengan isu yang dekat dengan hati atau yang kita perjuangkan sejak sekian lama, orang akan pertikaikan. Itu sebabnya ahli politik lain ada yang kurang gemar dengan pendekatan saya. Ada yang kata saya susah didekati, ada yang kata saya *judgmental* kepada orang lain. Tetapi itulah hakikatnya, dan akhirnya terpulang kepada netizen. Lagipun, kebanyakan ahli politik tidak membaca pun komen netizen, jadi mereka tidak kisah dengan apa yang orang katakan.
 
 **Host:** Tapi YB sendiri membaca atau skrol ruangan komen?
 
-**Rafizi Ramli:** Saya skrol komen. Bukanlah sebab saya terlalu mengambil peduli dengan apa yang orang katakan, tetapi sebagai ahli politik, kita harus mempunyai pendirian. Tentu ada pendirian kita yang disukai dan ada yang tidak disukai. Kalau mahu sentiasa popular, jadilah artis, jangan jadi ahli politik. Namun, komen-komen tersebut memberi gambaran untuk membantu kita memahami sudut pandang kumpulan masyarakat yang berbeza-beza. Jadi, saya memang membaca dan meneliti komen-komen tersebut.
+**Rafizi:** Saya skrol komen. Bukanlah sebab saya terlalu mengambil peduli dengan apa yang orang katakan, tetapi sebagai ahli politik, kita harus mempunyai pendirian. Tentu ada pendirian kita yang disukai dan ada yang tidak disukai. Kalau mahu sentiasa popular, jadilah artis, jangan jadi ahli politik. Namun, komen-komen tersebut memberi gambaran untuk membantu kita memahami sudut pandang kumpulan masyarakat yang berbeza-beza. Jadi, saya memang membaca dan meneliti komen-komen tersebut.
 
 **Host:** Okey, baik YB. Ini baru kes yang kedua.
 
-**Rafizi Ramli:** Korang buat *loop* video itu berulang kali, tunjuk dia kejap keluar pintu, kejap masuk pintu lambat.
+**Rafizi:** Korang buat *loop* video itu berulang kali, tunjuk dia kejap keluar pintu, kejap masuk pintu lambat.
 
 **Host:** Kita tukar ke isu seterusnya, YB. Nanti penat pula melihatnya. Okey.
 
-**Rafizi Ramli:** Ha...
+**Rafizi:** Ha...
 
 **Host:** Yang ini pula adalah tentang satu kenyataan.
 
-**Rafizi Ramli:** Okey. Tidak mengapalah, kita tunggu sahaja dia menjadi Menteri Luar nanti.
+**Rafizi:** Okey. Tidak mengapalah, kita tunggu sahaja dia menjadi Menteri Luar nanti.
 
 **Host:** Oh, hebat.
 
-**Rafizi Ramli:** Takut nanti dia mahu menjemput Netanyahu pula. Mungkin kenyataan itu satu logik bagi dirinya untuk menjawab jawapan pendek daripada kerajaan. Sebelum ini, kerajaan menjelaskan bahawa Trump dijemput supaya kita boleh berhadapan dan menyampaikan pendirian kita secara terus. Bagi logik Wan Ahmad Fayhsal, jika begitu keadaannya, bukankah lebih baik bercakap terus dengan Netanyahu? Logik persendirian sebegitu mungkin boleh diterima dan dirasionalkan dalam kepalanya sendiri. Namun pada pandangan orang ramai, ia kelihatan agak kebudak-budakan. Ia seperti klip lama yang memanggil "mak kau hijau" sewaktu zaman persekolahan dahulu ketika bergaduh; seorang panggil bapak orang lain syaitan, yang seorang lagi membalas perkara sama, akhirnya kita semua mengenali satu sama lain disebabkan ejekan sebegitu. Tindakan ini seperti membaling batu untuk perkara yang kecil. Bukannya isu Palestin itu kecil, tetapi hujah bahawa jika kita menjemput Trump, kita juga perlu menjemput Netanyahu, adalah perkara yang tidak masuk akal yang tidak sepatutnya difikirkan pun oleh rakyat Malaysia secara umumnya. Tetapi ini Wan Ahmad Fayhsal, lagipun dia pun mahu menukar nama Rafflesia. Jadi, tidak mengejutkanlah.
+**Rafizi:** Takut nanti dia mahu menjemput Netanyahu pula. Mungkin kenyataan itu satu logik bagi dirinya untuk menjawab jawapan pendek daripada kerajaan. Sebelum ini, kerajaan menjelaskan bahawa Trump dijemput supaya kita boleh berhadapan dan menyampaikan pendirian kita secara terus. Bagi logik Wan Ahmad Fayhsal, jika begitu keadaannya, bukankah lebih baik bercakap terus dengan Netanyahu? Logik persendirian sebegitu mungkin boleh diterima dan dirasionalkan dalam kepalanya sendiri. Namun pada pandangan orang ramai, ia kelihatan agak kebudak-budakan. Ia seperti klip lama yang memanggil "mak kau hijau" sewaktu zaman persekolahan dahulu ketika bergaduh; seorang panggil bapak orang lain syaitan, yang seorang lagi membalas perkara sama, akhirnya kita semua mengenali satu sama lain disebabkan ejekan sebegitu. Tindakan ini seperti membaling batu untuk perkara yang kecil. Bukannya isu Palestin itu kecil, tetapi hujah bahawa jika kita menjemput Trump, kita juga perlu menjemput Netanyahu, adalah perkara yang tidak masuk akal yang tidak sepatutnya difikirkan pun oleh rakyat Malaysia secara umumnya. Tetapi ini Wan Ahmad Fayhsal, lagipun dia pun mahu menukar nama Rafflesia. Jadi, tidak mengejutkanlah.
 
 **Host:** Okey, baik YB. Kita tengok yang terakhir. Ada satu lagi yang terakhir.
 
-**Rafizi Ramli:** Mm.
+**Rafizi:** Mm.
 
 **Host:** Masih tidak berkesudahan lagi isu Kampung Sungai Baru ini, YB.
 
-**Rafizi Ramli:** Oh, laporan daripada Harakah. Kenyataan Shahidan Kassim mengatakan jika beliau masih menjadi Menteri Wilayah, pasti perkara ini tidak akan terjadi. Memanglah tidak akan terjadi kerana tiada pihak yang pergi menghasut. Sebahagian daripada pihak yang rancak menunggang isu ini telah menjadikannya sebagai isu partisan. Ia diterjemahkan secara tidak langsung kononnya jika berada di bawah kerajaan PH atau ada penglibatan DAP, maka orang Melayu akan dihalau dari kawasan bandar. Sentimen sebegini ditiupkan oleh kalangan PAS dan pihak pembangkang juga. Jadi, mungkin itu yang dimaksudkan oleh Shahidan.
+**Rafizi:** Oh, laporan daripada Harakah. Kenyataan Shahidan Kassim mengatakan jika beliau masih menjadi Menteri Wilayah, pasti perkara ini tidak akan terjadi. Memanglah tidak akan terjadi kerana tiada pihak yang pergi menghasut. Sebahagian daripada pihak yang rancak menunggang isu ini telah menjadikannya sebagai isu partisan. Ia diterjemahkan secara tidak langsung kononnya jika berada di bawah kerajaan PH atau ada penglibatan DAP, maka orang Melayu akan dihalau dari kawasan bandar. Sentimen sebegini ditiupkan oleh kalangan PAS dan pihak pembangkang juga. Jadi, mungkin itu yang dimaksudkan oleh Shahidan.
 
 **Host:** Okey, baik YB. YB mahu buat rating untuk segmen ini, atau tidak perlu?
 
-**Rafizi Ramli:** Minggu ini tidak perlulah ada rating.
+**Rafizi:** Minggu ini tidak perlulah ada rating.
 
 **Host:** Minggu ini kita rehatkan dahulu rating.
 
-**Rafizi Ramli:** Saya rasa lebih baik kita fokus kepada belanjawan sahaja nanti.
+**Rafizi:** Saya rasa lebih baik kita fokus kepada belanjawan sahaja nanti.
 
 **Host:** Okey YB, kita beralih ke segmen seterusnya. Saya mahu selitkan satu isu sahaja terlebih dahulu. Saya rasa saya perlu meminta izin daripada YB kerana mahu bertanya secara terus. Di platform Twitter, ramai mendakwa isu ini tidak mahu diulas oleh mana-mana ahli politik, sama ada daripada pihak kerajaan mahupun pembangkang.
 
-**Rafizi Ramli:** Ya ke? Bukan ke semua orang sedang mengulasnya?
+**Rafizi:** Ya ke? Bukan ke semua orang sedang mengulasnya?
 
 **Host:** Kecuali dalam kalangan ahli politik sendiri.
 
-**Rafizi Ramli:** Ya ke? Banyak sahaja yang dibincangkan di Parlimen.
+**Rafizi:** Ya ke? Banyak sahaja yang dibincangkan di Parlimen.
 
 **Host:** Maksud saya, untuk menyentuhnya secara sensitif dan mendalam kerana ia melibatkan individu-individu tertentu yang membuatkan orang lain tidak mahu mencari pasal. Jadi, YB okey untuk mengulasnya?
 
-**Rafizi Ramli:** Tidak mengapalah, alang-alang kau sudah letak isu ini di sini, takkanlah saya tidak mahu jawab.
+**Rafizi:** Tidak mengapalah, alang-alang kau sudah letak isu ini di sini, takkanlah saya tidak mahu jawab.
 
 **Host:** Maksud saya...
 
-**Rafizi Ramli:** Apa-apa hal, nanti saya "tendang" lah kau kemudian, selepas siaran ini.
+**Rafizi:** Apa-apa hal, nanti saya "tendang" lah kau kemudian, selepas siaran ini.
 
 **Host:** Okey. Disebabkan orang kata isu ini sensitif, saya tiada soalan yang spesifik. Saya terus bertanya kepada YB, bagaimana YB selaku ahli politik bertindak balas terhadap isu [naturalisasi pemain bola sepak] ini?
 
-**Rafizi Ramli:** Ya, saya rasa pada awalnya kebanyakan daripada kita bersikap husnuzon [bersangka baik] apabila isu ini mula timbul kerana kita tidak mempunyai maklumat terperinci. Sudah tentu masyarakat mempunyai pandangan yang berbeza-beza mengenai dua perkara berasingan di sini. Pertama, adalah mengenai strategi menggunakan pemain import (bukan kelahiran tempatan) untuk mewakili Malaysia. Hal ini ada kebaikan dan keburukannya (*pros and cons*), bergantung kepada pandangan masing-masing. Ada pihak merasakan bahawa membawa masuk pemain import ke Malaysia dapat meningkatkan mutu pasukan dan kelab kita agar mereka bukan sahaja berfungsi secara komersial dan lebih mampan (*sustainable*), malah mampu bersaing di peringkat serantau. Satu lagi pandangan pula berpendapat bahawa jika arena bola sepak tanah air dilihat terlalu didominasi oleh pemain bukan warga Malaysia, ia akan menenggelamkan dan menutup peluang bakat tempatan. Ini adalah hujah yang biasa saya dengar daripada kedua-dua belah pihak. Saya bukannya pakar dalam bidang ini, jadi itu adalah soal sukan bola sepak semata-mata. Sebab itulah pada peringkat awal timbul isu FIFA ini, saya tidak banyak memberi ulasan kerana saya tidak tahu dan ia bukan bidang yang saya perhatikan secara mendalam.
+**Rafizi:** Ya, saya rasa pada awalnya kebanyakan daripada kita bersikap husnuzon [bersangka baik] apabila isu ini mula timbul kerana kita tidak mempunyai maklumat terperinci. Sudah tentu masyarakat mempunyai pandangan yang berbeza-beza mengenai dua perkara berasingan di sini. Pertama, adalah mengenai strategi menggunakan pemain import (bukan kelahiran tempatan) untuk mewakili Malaysia. Hal ini ada kebaikan dan keburukannya (*pros and cons*), bergantung kepada pandangan masing-masing. Ada pihak merasakan bahawa membawa masuk pemain import ke Malaysia dapat meningkatkan mutu pasukan dan kelab kita agar mereka bukan sahaja berfungsi secara komersial dan lebih mampan (*sustainable*), malah mampu bersaing di peringkat serantau. Satu lagi pandangan pula berpendapat bahawa jika arena bola sepak tanah air dilihat terlalu didominasi oleh pemain bukan warga Malaysia, ia akan menenggelamkan dan menutup peluang bakat tempatan. Ini adalah hujah yang biasa saya dengar daripada kedua-dua belah pihak. Saya bukannya pakar dalam bidang ini, jadi itu adalah soal sukan bola sepak semata-mata. Sebab itulah pada peringkat awal timbul isu FIFA ini, saya tidak banyak memberi ulasan kerana saya tidak tahu dan ia bukan bidang yang saya perhatikan secara mendalam.
 
 Namun, perkara kedua ini berkaitan dengan isu kerakyatan. Isu kerakyatan ini bukan sekadar mengenai pemain itu sendiri, tetapi mengenai proses bagaimana kerakyatan tersebut diberikan, yang akhirnya mula melibatkan pihak kerajaan. Apabila Menteri Dalam Negeri, Datuk Seri Saifuddin Nasution memberikan jawapan, ringkasannya adalah beliau telah menggunakan kuasa dan haknya di bawah undang-undang setelah jawatankuasa serta proses-proses lain berpuas hati bahawa individu berkenaan layak diberikan kerakyatan. *Now, that is a public issue.*
 
 **Host:** Mm.
 
-**Rafizi Ramli:** *More than anything else, that is a public issue.* Itu pun saya tidak ulas pada awalnya. Namun, apabila FIFA mengeluarkan bukti dan hujah bahawa mereka telah menjejaki dokumen-dokumen kelahiran, dan terdapat bukti bahawa datuk dan nenek mereka (*the grandparents*) tidak dilahirkan di Malaysia, sebaliknya didaftarkan di Belanda dan tempat-tempat lain, ia mula menimbulkan beberapa persoalan serius. Pertama, ia menimbulkan tanda tanya mengenai bagaimana proses tersebut dijalankan di peringkat kementerian. Kedua, perkara ini memalukan negara. Jadi, apa sahaja jawapan yang diberikan oleh kerajaan, saya rasa majoriti rakyat kita tetap berasa muak kerana perkara ini memalukan Malaysia. Ketiga, dan mungkin lebih besar kesannya, adalah ramai yang akan berasa terkilan; contohnya mereka yang ibunya bukan warganegara Malaysia terpaksa menunggu berpuluh-puluh tahun untuk mendapatkan kerakyatan pun sangat sukar. Jadi, mengapa Datuk Seri Saifuddin tidak menggunakan hak dan kuasanya untuk mempermudah urusan mereka yang sudah berpuluh tahun beratur ini, sebagaimana dipermudahkan untuk kes ini? Berpunca daripada isu yang khusus kepada arena bola sepak, kini ia sudah bertukar menjadi masalah kerajaan apabila FIFA mendedahkan bukti sedemikian. Pada pandangan saya...
+**Rafizi:** *More than anything else, that is a public issue.* Itu pun saya tidak ulas pada awalnya. Namun, apabila FIFA mengeluarkan bukti dan hujah bahawa mereka telah menjejaki dokumen-dokumen kelahiran, dan terdapat bukti bahawa datuk dan nenek mereka (*the grandparents*) tidak dilahirkan di Malaysia, sebaliknya didaftarkan di Belanda dan tempat-tempat lain, ia mula menimbulkan beberapa persoalan serius. Pertama, ia menimbulkan tanda tanya mengenai bagaimana proses tersebut dijalankan di peringkat kementerian. Kedua, perkara ini memalukan negara. Jadi, apa sahaja jawapan yang diberikan oleh kerajaan, saya rasa majoriti rakyat kita tetap berasa muak kerana perkara ini memalukan Malaysia. Ketiga, dan mungkin lebih besar kesannya, adalah ramai yang akan berasa terkilan; contohnya mereka yang ibunya bukan warganegara Malaysia terpaksa menunggu berpuluh-puluh tahun untuk mendapatkan kerakyatan pun sangat sukar. Jadi, mengapa Datuk Seri Saifuddin tidak menggunakan hak dan kuasanya untuk mempermudah urusan mereka yang sudah berpuluh tahun beratur ini, sebagaimana dipermudahkan untuk kes ini? Berpunca daripada isu yang khusus kepada arena bola sepak, kini ia sudah bertukar menjadi masalah kerajaan apabila FIFA mendedahkan bukti sedemikian. Pada pandangan saya...
 
 **Host:** Mmm.
 
-**Rafizi Ramli:** Mungkin lebih baik tidak usah diulas atau dipertahankan lagi oleh pihak kerajaan, *just move on*. Sangat sukar untuk mempertahankan tindakan ini melainkan benar-benar ada bukti kukuh menunjukkan mereka dilahirkan di sini.
+**Rafizi:** Mungkin lebih baik tidak usah diulas atau dipertahankan lagi oleh pihak kerajaan, *just move on*. Sangat sukar untuk mempertahankan tindakan ini melainkan benar-benar ada bukti kukuh menunjukkan mereka dilahirkan di sini.
 
 **Host:** Betul, betul.
 
-**Rafizi Ramli:** Jika kita sekadar berhujah berdasarkan dokumen yang diserahkan kepada kita—tidak kiralah sama ada FAM memberikan alasan tersalah muat naik dokumen atau sebagainya—lalu kita berpuas hati dan mengeluarkan sijil kelahiran sendiri untuk membuat pengesahan, ia adalah sesuatu yang sangat sukar untuk dipertahankan. Oleh itu, saya rasa apabila Saifuddin memberikan jawapan sedemikian, ia hanya menambah lagi kemarahan orang ramai dan perkara ini akhirnya akan menjadi *a source of ridicule*, terutamanya dalam kalangan netizen.
+**Rafizi:** Jika kita sekadar berhujah berdasarkan dokumen yang diserahkan kepada kita—tidak kiralah sama ada FAM memberikan alasan tersalah muat naik dokumen atau sebagainya—lalu kita berpuas hati dan mengeluarkan sijil kelahiran sendiri untuk membuat pengesahan, ia adalah sesuatu yang sangat sukar untuk dipertahankan. Oleh itu, saya rasa apabila Saifuddin memberikan jawapan sedemikian, ia hanya menambah lagi kemarahan orang ramai dan perkara ini akhirnya akan menjadi *a source of ridicule*, terutamanya dalam kalangan netizen.
 
 **Host:** Baik YB. Itu sahaja isu berat untuk kali ini. Memang berat isunya bagi saya.
 
-**Rafizi Ramli:** Korang memang mahu mendengar isu sebegini sahaja, kan?
+**Rafizi:** Korang memang mahu mendengar isu sebegini sahaja, kan?
 
 **Host:** Begitulah. Tetapi saya rasa belum ada lagi ahli politik yang mengulasnya secara konklusif.
 
-**Rafizi Ramli:** Biasalah.
+**Rafizi:** Biasalah.
 
 **Host:** Tidak semua orang berani berkata sedemikian.
 
-**Rafizi Ramli:** Okey. Nampak sangat kau tidak menonton dan tidak membaca ulasan orang lain. Sebenarnya saya sentiasa mengikuti perkembangannya, *I've been following. I think people have been saying their peace.*
+**Rafizi:** Okey. Nampak sangat kau tidak menonton dan tidak membaca ulasan orang lain. Sebenarnya saya sentiasa mengikuti perkembangannya, *I've been following. I think people have been saying their peace.*
 
 **Host:** Okey.
 
-**Rafizi Ramli:** Hanya kau sahaja yang cuba mengelak daripada membincangkan isu ini secara terus.
+**Rafizi:** Hanya kau sahaja yang cuba mengelak daripada membincangkan isu ini secara terus.
 
 **Host:** Maksud saya, pihak yang sepatutnya memberikan jawapan yang tuntas adalah pihak kepimpinan utama yang bertanggungjawab.
 
-**Rafizi Ramli:** Maksudnya dalam hal mempertahankan Saifuddin ini. Jika saya masih berada dalam barisan pimpinan PKR sekali pun, sekiranya Saifuddin bertanyakan pandangan saya, saya akan menasihatinya bahawa adalah lebih baik perkara ini tidak usah dipertahankan lagi.
+**Rafizi:** Maksudnya dalam hal mempertahankan Saifuddin ini. Jika saya masih berada dalam barisan pimpinan PKR sekali pun, sekiranya Saifuddin bertanyakan pandangan saya, saya akan menasihatinya bahawa adalah lebih baik perkara ini tidak usah dipertahankan lagi.
 
 **Host:** Baik, sangat jelas mesej YB kepada mereka. Kita teruskan ke satu lagi segmen sebelum beralih ke topik utama, iaitu segmen Fuiyoh. Kali ini kita ada satu isu sahaja mengenai bagaimana penggunaan kecerdasan buatan (AI) yang membawa kepada kesilapan. Sekiranya YB perasan tentang isu ini, syarikat Deloitte ada mengeluarkan satu laporan yang mengandungi petikan (*citation*) dan fakta yang salah. Akhirnya, kerajaan Australia terpaksa menarik balik laporan yang telah diterbitkan itu disebabkan kesilapan tersebut. Jadi saya mahu bertanya terus kepada YB, *how should* kerajaan *react* dengan AI sebenarnya?
 
-**Rafizi Ramli:** Sebenarnya ini bukan sahaja persoalan untuk pihak kerajaan, malah untuk diri kita sendiri juga. Saya sendiri menggunakan ChatGPT dan DeepSeek hampir setiap hari.
+**Rafizi:** Sebenarnya ini bukan sahaja persoalan untuk pihak kerajaan, malah untuk diri kita sendiri juga. Saya sendiri menggunakan ChatGPT dan DeepSeek hampir setiap hari.
 
 **Host:** Okey.
 
-**Rafizi Ramli:** Tetapi kita tidak boleh menggunakannya secara membabi buta. ChatGPT atau DeepSeek ini sememangnya memudahkan tugas apabila kita sudah tahu apa yang kita mahukan, namun kesuntukan masa untuk membaca berpuluh-puluh halaman dokumen sebelum merangka tugasan itu sendiri. Kita boleh meminta AI meringkaskannya. Oleh itu, penggunaan AI sebenarnya memerlukan arahan (*prompt*) daripada kita itu mestilah tepat.
+**Rafizi:** Tetapi kita tidak boleh menggunakannya secara membabi buta. ChatGPT atau DeepSeek ini sememangnya memudahkan tugas apabila kita sudah tahu apa yang kita mahukan, namun kesuntukan masa untuk membaca berpuluh-puluh halaman dokumen sebelum merangka tugasan itu sendiri. Kita boleh meminta AI meringkaskannya. Oleh itu, penggunaan AI sebenarnya memerlukan arahan (*prompt*) daripada kita itu mestilah tepat.
 
 **Host:** Okey.
 
-**Rafizi Ramli:** Jadi ini bukan setakat masalah kerajaan, tetapi masalah manusia secara umum. Sekiranya kita tidak berhati-hati, ia akan menjejaskan tugasan dalam kerajaan, sektor swasta, sekolah, mahupun universiti. Namun, ada juga kebaikannya kerana ia dapat membezakan antara mereka yang benar-benar memegang amanah serta tahu seluk-beluk tugasan mereka, dengan mereka yang sekadar melepaskan batuk di tangga. Dalam kes di Australia itu, salah laku tersebut dikesan oleh orang awam dan penyelidik lain. Apabila penyelidik lain membuat rujukan silang, mereka mendapati data tersebut salah dan sengaja diada-adakan (*fabricated*). Pada pandangan saya, janganlah kita menyalahkan teknologi AI tersebut. Hakikatnya, pegawai kerajaan Australia dan pasukan penyelidik Deloitte itu sendiri yang bersikap acuh tak acuh dan malas kerana langsung tidak menyemak kerja itu terlebih dahulu. Sepatutnya, apabila kita menggunakan ChatGPT atau mana-mana aplikasi AI pada peringkat ini, setiap maklumat yang dijana mestilah disemak semula. Saya pernah mengalami situasi sebegini sekitar dua tiga bulan lepas sewaktu saya berasa bosan selepas tidak lagi bergelar menteri; saya cuba menyelesaikan semula soalan-soalan matematik peringkat Tingkatan 5 atau universiti yang sudah lama tidak saya sentuh. Kerana mahu mencuba, saya kemukakan soalan matematik yang sama kepada ChatGPT dan DeepSeek.
+**Rafizi:** Jadi ini bukan setakat masalah kerajaan, tetapi masalah manusia secara umum. Sekiranya kita tidak berhati-hati, ia akan menjejaskan tugasan dalam kerajaan, sektor swasta, sekolah, mahupun universiti. Namun, ada juga kebaikannya kerana ia dapat membezakan antara mereka yang benar-benar memegang amanah serta tahu seluk-beluk tugasan mereka, dengan mereka yang sekadar melepaskan batuk di tangga. Dalam kes di Australia itu, salah laku tersebut dikesan oleh orang awam dan penyelidik lain. Apabila penyelidik lain membuat rujukan silang, mereka mendapati data tersebut salah dan sengaja diada-adakan (*fabricated*). Pada pandangan saya, janganlah kita menyalahkan teknologi AI tersebut. Hakikatnya, pegawai kerajaan Australia dan pasukan penyelidik Deloitte itu sendiri yang bersikap acuh tak acuh dan malas kerana langsung tidak menyemak kerja itu terlebih dahulu. Sepatutnya, apabila kita menggunakan ChatGPT atau mana-mana aplikasi AI pada peringkat ini, setiap maklumat yang dijana mestilah disemak semula. Saya pernah mengalami situasi sebegini sekitar dua tiga bulan lepas sewaktu saya berasa bosan selepas tidak lagi bergelar menteri; saya cuba menyelesaikan semula soalan-soalan matematik peringkat Tingkatan 5 atau universiti yang sudah lama tidak saya sentuh. Kerana mahu mencuba, saya kemukakan soalan matematik yang sama kepada ChatGPT dan DeepSeek.
 
 **Host:** Okey.
 
-**Rafizi Ramli:** Ternyata, beberapa jawapan yang diberikan oleh ChatGPT dan DeepSeek adalah salah. Terdapat satu soalan algebra peringkat Tingkatan 5 atau tahun pertama universiti yang sepatutnya mudah diselesaikan, namun DeepSeek menyatakan tiada penyelesaian untuk soalan tersebut. Saya sengaja berbuat demikian untuk menguji sejauh mana ketepatan ChatGPT dan DeepSeek ini. Pada pandangan saya, dalam tugasan seharian, kita sememangnya wajib membuat semakan sendiri. Jika kita mahu integrasi AI ini membawa kesan yang positif kepada sektor awam, kita mesti memastikan setiap butiran disemak satu per satu dan tidak memupuk budaya malas dalam kalangan pekerja serta masyarakat. Sekiranya tidak, insiden yang berlaku di Australia itu boleh berlaku di Malaysia juga. Cumanya di Malaysia, jika ia berlaku sekali pun, bimbang tiada siapa yang tampil menyemak dan menegur kesilapan tersebut, lalu ia terlepas begitu sahaja.
+**Rafizi:** Ternyata, beberapa jawapan yang diberikan oleh ChatGPT dan DeepSeek adalah salah. Terdapat satu soalan algebra peringkat Tingkatan 5 atau tahun pertama universiti yang sepatutnya mudah diselesaikan, namun DeepSeek menyatakan tiada penyelesaian untuk soalan tersebut. Saya sengaja berbuat demikian untuk menguji sejauh mana ketepatan ChatGPT dan DeepSeek ini. Pada pandangan saya, dalam tugasan seharian, kita sememangnya wajib membuat semakan sendiri. Jika kita mahu integrasi AI ini membawa kesan yang positif kepada sektor awam, kita mesti memastikan setiap butiran disemak satu per satu dan tidak memupuk budaya malas dalam kalangan pekerja serta masyarakat. Sekiranya tidak, insiden yang berlaku di Australia itu boleh berlaku di Malaysia juga. Cumanya di Malaysia, jika ia berlaku sekali pun, bimbang tiada siapa yang tampil menyemak dan menegur kesilapan tersebut, lalu ia terlepas begitu sahaja.
 
 **Host:** Terlepas begitu sahaja. Baik, YB. Saya rasa cukup setakat itu untuk isu ini. Sebelum kita beralih ke segmen utama dalam edisi khas malam ini, saya ingin mengajak para penonton sekali lagi untuk menekan butang *like*, *share*, dan mengimbas QR *code* di sebelah saya ini untuk mengajukan soalan.
 
-**Rafizi Ramli:** Hari ini kita boleh balik awal, kan? Penat juga saya selepas seharian berada di Parlimen tadi. Ingatkan mahu bersambung sampai ke malam...
+**Rafizi:** Hari ini kita boleh balik awal, kan? Penat juga saya selepas seharian berada di Parlimen tadi. Ingatkan mahu bersambung sampai ke malam...
 
 **Host:** Kasihan kepada YB. Penonton boleh bertanya seberapa banyak soalan, tetapi kita akan pilih beberapa sahaja nanti. Baiklah, kita teruskan ke topik Belanjawan. Sebelum saya mulakan, ada baiknya jika saya bertanya tentang parameter atau penunjuk (*indicator*) yang YB gunakan untuk menilainya. Selaku Ahli Parlimen dan mantan Menteri Ekonomi, sebelum kita pergi lebih mendalam sama ada belanjawan kali ini okey ataupun tidak, *how do you feel?* Bagaimanakah cara YB menilai sesebuah belanjawan? Anggaplah ini sebagai pengenalan asas.
 
-**Rafizi Ramli:** Kejap ya. Dokumen belanjawan ini sangat panjang dan mengandungi beratus-ratus halaman. Memang jarang ada orang yang boleh membacanya sekaligus secara terus. Saya sendiri hanya mempunyai masa sekitar dua hingga tiga jam tadi untuk meneliti sebanyak mungkin dokumen tersebut. Penilaian ini sebenarnya bergantung kepada latar belakang individu masing-masing. Sewaktu saya bekerja dalam industri dahulu sebagai seorang akauntan, dan memandangkan sebahagian daripada pengkhususan saya adalah dalam bidang percukaian, setiap kali belanjawan diumumkan kira-kira 20 tahun lepas, sebaik sahaja Perdana Menteri atau Menteri Kewangan memulakan pembentangan, sekatan (*embargo*) dokumen akan ditarik balik untuk akses umum. Pada ketika itu, kami para akauntan akan segera meneliti dokumen tersebut untuk membuat ringkasan dasar. Bagi mereka yang berada dalam bidang kewangan, tumpuan utama pastinya diberikan kepada kesan cukai-cukai tertentu, perubahan cukai pendapatan, cukai tidak langsung, serta insentif pelaburan seperti elaun modal dipercepatkan (*accelerated capital allowance*), akta promosi, taraf perintis (*pioneer status*), dan pelepasan cukai. Berbeza pula dengan rakyat biasa yang kebiasaannya hanya menunggu pengumuman pemberian bantuan (*goodies*) dan menilai sesebuah belanjawan berdasarkan berapa banyak faedah terus yang mereka terima. Pihak media juga sering memberikan tumpuan yang sama dengan hanya memfokuskan kepada ucapan belanjawan sahaja. Sebagai ahli politik sejak dahulu lagi, saya sebenarnya jarang melihat kepada ucapan belanjawan semata-mata.
+**Rafizi:** Kejap ya. Dokumen belanjawan ini sangat panjang dan mengandungi beratus-ratus halaman. Memang jarang ada orang yang boleh membacanya sekaligus secara terus. Saya sendiri hanya mempunyai masa sekitar dua hingga tiga jam tadi untuk meneliti sebanyak mungkin dokumen tersebut. Penilaian ini sebenarnya bergantung kepada latar belakang individu masing-masing. Sewaktu saya bekerja dalam industri dahulu sebagai seorang akauntan, dan memandangkan sebahagian daripada pengkhususan saya adalah dalam bidang percukaian, setiap kali belanjawan diumumkan kira-kira 20 tahun lepas, sebaik sahaja Perdana Menteri atau Menteri Kewangan memulakan pembentangan, sekatan (*embargo*) dokumen akan ditarik balik untuk akses umum. Pada ketika itu, kami para akauntan akan segera meneliti dokumen tersebut untuk membuat ringkasan dasar. Bagi mereka yang berada dalam bidang kewangan, tumpuan utama pastinya diberikan kepada kesan cukai-cukai tertentu, perubahan cukai pendapatan, cukai tidak langsung, serta insentif pelaburan seperti elaun modal dipercepatkan (*accelerated capital allowance*), akta promosi, taraf perintis (*pioneer status*), dan pelepasan cukai. Berbeza pula dengan rakyat biasa yang kebiasaannya hanya menunggu pengumuman pemberian bantuan (*goodies*) dan menilai sesebuah belanjawan berdasarkan berapa banyak faedah terus yang mereka terima. Pihak media juga sering memberikan tumpuan yang sama dengan hanya memfokuskan kepada ucapan belanjawan sahaja. Sebagai ahli politik sejak dahulu lagi, saya sebenarnya jarang melihat kepada ucapan belanjawan semata-mata.
 
 **Host:** Baik.
 
-**Rafizi Ramli:** Kerana apabila kita berada di peringkat Ahli Parlimen, apatah lagi sebagai menteri, keutamaan saya adalah untuk melihat keutuhan kewangan kerajaan. Untuk menilai perkara ini, kita harus bermula dengan aspek makro. Analoginya mudah: jika kita mahu menilai sesebuah syarikat yang mendakwa boleh melaksanakan pelbagai perancangan, kita tidak boleh percaya begitu sahaja tanpa meneliti kunci kira-kira (*balance sheet*), penyata pendapatan (*income statement*), dan aliran tunai (*cash flow*) mereka. Sekiranya kunci kira-kira mereka rapuh, syarikat tersebut akan terdedah kepada pelbagai risiko. Jika penyata pendapatan mereka yang merekodkan hasil tidak kukuh, syarikat tersebut tidak akan mampu menampung perbelanjaannya secara berterusan. Kesannya, mereka terpaksa bergantung kepada pinjaman yang akhirnya akan menjejaskan aliran tunai. Disiplin yang sama saya gunakan setiap kali meneliti belanjawan negara dengan memberikan tumpuan kepada aspek makro terlebih dahulu.
+**Rafizi:** Kerana apabila kita berada di peringkat Ahli Parlimen, apatah lagi sebagai menteri, keutamaan saya adalah untuk melihat keutuhan kewangan kerajaan. Untuk menilai perkara ini, kita harus bermula dengan aspek makro. Analoginya mudah: jika kita mahu menilai sesebuah syarikat yang mendakwa boleh melaksanakan pelbagai perancangan, kita tidak boleh percaya begitu sahaja tanpa meneliti kunci kira-kira (*balance sheet*), penyata pendapatan (*income statement*), dan aliran tunai (*cash flow*) mereka. Sekiranya kunci kira-kira mereka rapuh, syarikat tersebut akan terdedah kepada pelbagai risiko. Jika penyata pendapatan mereka yang merekodkan hasil tidak kukuh, syarikat tersebut tidak akan mampu menampung perbelanjaannya secara berterusan. Kesannya, mereka terpaksa bergantung kepada pinjaman yang akhirnya akan menjejaskan aliran tunai. Disiplin yang sama saya gunakan setiap kali meneliti belanjawan negara dengan memberikan tumpuan kepada aspek makro terlebih dahulu.
 
 Untuk makluman penonton sekalian, dokumen belanjawan yang dibentangkan biasanya terdiri daripada lima jenis dokumen utama, manakala dokumen keenam hanyalah teks ucapan Menteri Kewangan yang sering dibaca oleh orang ramai. Ramai yang terlepas pandang lima dokumen utama yang lain kerana ia sangat tebal. Dokumen-dokumen ini boleh dimuat turun daripada portal rasmi belanjawan setiap tahun untuk diteliti. Dokumen pertama ialah Anggaran Perbelanjaan. Kedua ialah Tinjauan Fiskal (*Fiscal Outlook*) yang memperincikan anggaran hasil, trend perbelanjaan, dan kedudukan hutang negara. Ketiga ialah Tinjauan Ekonomi (*Economic Outlook*) yang membentangkan unjuran ekonomi negara untuk tahun hadapan serta beberapa tahun mendatang. Dokumen keempat pula jarang diteliti oleh orang ramai kerana ia merangkumi sehingga empat jilid besar yang mengandungi beribu-ribu halaman; dokumen ini menyenaraikan jumlah perjawatan bagi setiap agensi awam daripada peringkat paling bawah hinggalah ke atas. Sekiranya diteliti dengan mendalam, kita boleh melihat saiz perkhidmatan awam seperti bilangan guru serta tangga gaji mengikut pangkat masing-masing.
 
@@ -231,7 +231,7 @@ Akhir sekali, mari kita lihat komponen subsidi dan bantuan sosial. Dari satu sud
 
 **Host:** Terdapat banyak perubahan dasar dari segi penyasaran subsidi, malah kita juga memperkenalkan kaedah had kelayakan untuk penerima subsidi.
 
-**Rafizi Ramli:** Bukan, itu hanyalah sebahagian daripada langkah sahaja. Secara dasarnya, apabila kita melakukan penyasaran semula subsidi, matlamat utamanya adalah untuk mengelakkan ketirisan dan penyeludupan agar peruntukan tersebut dapat disalurkan terus kepada golongan yang benar-benar memerlukan dalam bentuk bantuan sosial yang lebih besar.
+**Rafizi:** Bukan, itu hanyalah sebahagian daripada langkah sahaja. Secara dasarnya, apabila kita melakukan penyasaran semula subsidi, matlamat utamanya adalah untuk mengelakkan ketirisan dan penyeludupan agar peruntukan tersebut dapat disalurkan terus kepada golongan yang benar-benar memerlukan dalam bentuk bantuan sosial yang lebih besar.
 
 Persoalan utama yang perlu kita fikirkan di sini ialah: apabila tanggungan subsidi dan bantuan sosial berjaya dikurangkan sebanyak RM8 bilion, mengapakah sebahagian daripada hasil penjimatan tersebut tidak dikekalkan untuk memberikan bantuan langsung yang lebih besar kepada rakyat berbanding apa yang telah diumumkan? Adakah adil sekiranya penjimatan hasil daripada penyasaran subsidi rakyat ini akhirnya digunakan semata-mata untuk menampung peningkatan bayaran faedah hutang negara yang melonjak sebanyak RM4 bilion?
 
@@ -241,7 +241,7 @@ Mungkin pihak Kementerian Kewangan atau Perbendaharaan akan berhujah bahawa ini 
 
 **Host:** Kalau dari perspektif layman, keadaan ini seperti tabiat kita menggunakan credit card. Kita mengelakkan diri daripada berhutang supaya dengan penjimatan tersebut, kita dapat mengurangkan ketirisan dalam perbelanjaan harian kita. Sebab jika kita terus menggunakan credit card, akhirnya beban dari segi interest dan sebagainya pada masa akan datang tidak akan mampu ditanggung lagi. Adakah situasinya begitu?
 
-**Rafizi Ramli:** Sekarang ini sudah menjadi amalan biasa, terutamanya bagi golongan muda, mereka menjadi muflis disebabkan oleh credit card. Ini kerana baki credit card lama-kelamaan menjadi semakin besar, dan kadar interest boleh mencecah 17% jika credit rating mereka rendah. Akhirnya, kehidupan mereka dipenuhi dengan hutang. Bagi pihak kerajaan, situasinya tidaklah semudah itu untuk kita samakan dengan individu yang berbelanja menggunakan credit card. 
+**Rafizi:** Sekarang ini sudah menjadi amalan biasa, terutamanya bagi golongan muda, mereka menjadi muflis disebabkan oleh credit card. Ini kerana baki credit card lama-kelamaan menjadi semakin besar, dan kadar interest boleh mencecah 17% jika credit rating mereka rendah. Akhirnya, kehidupan mereka dipenuhi dengan hutang. Bagi pihak kerajaan, situasinya tidaklah semudah itu untuk kita samakan dengan individu yang berbelanja menggunakan credit card. 
 
 Cuma satu perkara yang mungkin membuatkan orang dalam kerajaan, mahupun Datuk Seri Anwar sendiri, kurang selesa dengan saya adalah kerana saya sering bertanya: *how are we doing things differently?* Apa yang kita lihat sekarang, tumpuan yang banyak diberikan adalah untuk menambah hasil. Ada cukai SST yang baharu, kemudian stamp duty contohnya dikutip ke atas semua instrumen. Keadaan ini kadangkala memberi tekanan kepada syarikat-syarikat kecil kerana stamp duty ke atas employment contract pun terpaksa dibayar sekarang, sedangkan dahulu perkara itu tidak pernah dilaksanakan. 
 
@@ -267,41 +267,41 @@ Perkara ini yang sepatutnya menjadi tumpuan utama selepas ini. Insya-Allah, menj
 
 **Host:** Okey, baik YB. Sangat membimbangkan.
 
-**Rafizi Ramli:** Tidak jugalah sampai ke tahap sangat membimbangkan.
+**Rafizi:** Tidak jugalah sampai ke tahap sangat membimbangkan.
 
 **Host:** Saya first time dengar penjelasan sebegini.
 
-**Rafizi Ramli:** Tidaklah membimbangkan, tetapi sebab itu apabila Perdana Menteri kerap menekankan soal tata kelola, orang ramai mula mempersoalkannya. Sekiranya saya berada di tempat seorang penganalisis JP Morgan, misalnya...
+**Rafizi:** Tidaklah membimbangkan, tetapi sebab itu apabila Perdana Menteri kerap menekankan soal tata kelola, orang ramai mula mempersoalkannya. Sekiranya saya berada di tempat seorang penganalisis JP Morgan, misalnya...
 
 **Host:** Okey.
 
-**Rafizi Ramli:** ...*then I will start asking all these questions. How do you mix this, you know,* dan selepas dua ke tiga tahun, orang akan mula meneliti perkembangan ini. Tambahan pula, kita mempunyai pengalaman yang mana entiti GLIC seperti Tabung Haji...
+**Rafizi:** ...*then I will start asking all these questions. How do you mix this, you know,* dan selepas dua ke tiga tahun, orang akan mula meneliti perkembangan ini. Tambahan pula, kita mempunyai pengalaman yang mana entiti GLIC seperti Tabung Haji...
 
 **Host:** Mm.
 
-**Rafizi Ramli:** ...mengalami kerugian berpuluh bilion ringgit dan kehilangan nilai pelaburan akibat penglibatan dalam pelbagai pelaburan yang mengundang tanda tanya. Kita juga pernah melalui fasa yang sama dengan Felda...
+**Rafizi:** ...mengalami kerugian berpuluh bilion ringgit dan kehilangan nilai pelaburan akibat penglibatan dalam pelbagai pelaburan yang mengundang tanda tanya. Kita juga pernah melalui fasa yang sama dengan Felda...
 
 **Host:** Mm.
 
-**Rafizi Ramli:** ...di mana Felda diberikan suntikan dana sekitar RM10 bilion dalam tempoh dua ke tiga tahun kebelakangan ini.
+**Rafizi:** ...di mana Felda diberikan suntikan dana sekitar RM10 bilion dalam tempoh dua ke tiga tahun kebelakangan ini.
 
 **Host:** Ya.
 
-**Rafizi Ramli:** Dan jika kita lihat, jumlah hutang Felda yang dijamin oleh kerajaan sebenarnya tidaklah mencecah RM41 bilion. Jadi dalam kes PTPTN, sekiranya bukan keseluruhan RM41 bilion sekalipun yang ditanggung, apabila hutang tersebut mula matang, nilai RM10 bilion sahaja pun sudah cukup untuk membuatkan kerajaan pening kepala untuk membayarnya. Sebab itu saya lebih gemar sekiranya isu ini ditangani secara menyeluruh. Jika tidak, langkah kita hanya akan bersifat kosmetik. 
+**Rafizi:** Dan jika kita lihat, jumlah hutang Felda yang dijamin oleh kerajaan sebenarnya tidaklah mencecah RM41 bilion. Jadi dalam kes PTPTN, sekiranya bukan keseluruhan RM41 bilion sekalipun yang ditanggung, apabila hutang tersebut mula matang, nilai RM10 bilion sahaja pun sudah cukup untuk membuatkan kerajaan pening kepala untuk membayarnya. Sebab itu saya lebih gemar sekiranya isu ini ditangani secara menyeluruh. Jika tidak, langkah kita hanya akan bersifat kosmetik. 
 
 Sekiranya kita sekadar mengambil langkah kosmetik demi membuat pengumuman yang populis—seperti mengumumkan pendidikan percuma dan sebagainya—kita sebenarnya tidak menyelesaikan masalah yang asas. Keadaan ini umpama memberikan ubat Panadol...
 
 **Host:** Okey.
 
-**Rafizi Ramli:** ...sedangkan pesakit sebenarnya menghidap kanser.
+**Rafizi:** ...sedangkan pesakit sebenarnya menghidap kanser.
 
 **Host:** Ya.
 
-**Rafizi Ramli:** Dia akan berasa lega untuk seketika, tetapi keesokan harinya dia akan demam semula. Itulah kebimbangan saya mengenai isu PTPTN tadi. Berkenaan isu program SARA dan STR pula...
+**Rafizi:** Dia akan berasa lega untuk seketika, tetapi keesokan harinya dia akan demam semula. Itulah kebimbangan saya mengenai isu PTPTN tadi. Berkenaan isu program SARA dan STR pula...
 
 **Host:** Okey.
 
-**Rafizi Ramli:** ...saya berpandangan kerajaan perlu mula menumpukan usaha untuk menginstitusikan bantuan sosial ini sebagai program rasmi kerajaan, dan bukannya sekadar dilihat sebagai pemberian "durian runtuh" bermusim daripada kerajaan. Jika tidak, kita akan terus ternanti-nanti pengumuman tahunan mengenai kadar bantuan SARA atau STR. 
+**Rafizi:** ...saya berpandangan kerajaan perlu mula menumpukan usaha untuk menginstitusikan bantuan sosial ini sebagai program rasmi kerajaan, dan bukannya sekadar dilihat sebagai pemberian "durian runtuh" bermusim daripada kerajaan. Jika tidak, kita akan terus ternanti-nanti pengumuman tahunan mengenai kadar bantuan SARA atau STR. 
 
 Di negara-negara lain yang mengamalkan sistem *welfare state* (negara kebajikan)—malah dahulu PAS pun sering bercakap mengenai idea negara berkebajikan ini—pemberian bayaran social security dan childcare allowance tidak lagi dijadikan sebagai modal kempen politik. Mana-mana kerajaan yang memerintah akan terus mengekalkan bantuan tersebut kerana ia telah menjadi *part and parcel of governing*. Isu yang dibincangkan hanyalah tentang kerajaan mana yang mampu menambah baik sistem penyampaian tersebut. 
 
@@ -311,15 +311,15 @@ Setakat ini, STR atau SARA masih dilihat sebagai kesinambungan kepada program BR
 
 **Host:** Ada BSH, BPN, dan macam-macam nama lagi yang pernah digunakan sebelum ini.
 
-**Rafizi Ramli:** Tetapi sekiranya ia diinstitusikan, kerajaan akan menyalurkan bantuan tersebut secara bulanan kepada mereka yang layak, sama seperti kita menerima gaji setiap bulan. Perbincangan mengenai penginstitusian social safety net ini nampaknya tidak dibahas secara meluas dan tidak menjadi fokus utama dalam belanjawan kali ini.
+**Rafizi:** Tetapi sekiranya ia diinstitusikan, kerajaan akan menyalurkan bantuan tersebut secara bulanan kepada mereka yang layak, sama seperti kita menerima gaji setiap bulan. Perbincangan mengenai penginstitusian social safety net ini nampaknya tidak dibahas secara meluas dan tidak menjadi fokus utama dalam belanjawan kali ini.
 
 **Host:** Okey baik, YB. Temanya adalah kosmetik dan Panadol. Saya rasa kita hentikan perbincangan mengenai kosmetik dan Panadol di sini. Adakah YB akan mula berbahas di Parlimen bermula minggu hadapan?
 
-**Rafizi Ramli:** Insya-Allah, saya akan cuba untuk berbahas pada peringkat awal.
+**Rafizi:** Insya-Allah, saya akan cuba untuk berbahas pada peringkat awal.
 
 **Host:** Baik YB, kami semua menantikannya. Sekarang kita masuk ke sesi yang terakhir.
 
-**Rafizi Ramli:** Baguslah, ada baki 20 minit sahaja lagi.
+**Rafizi:** Baguslah, ada baki 20 minit sahaja lagi.
 
 **Host:** Tinggal 20 minit lagi. Kami ada beberapa soalan yang telah dihantar lebih awal, dan selepas itu kita akan melihat soalan yang ada di dalam QR code. Bagi penonton yang belum menghantar, anda boleh berbuat demikian sekarang. 
 
@@ -327,7 +327,7 @@ Mari kita lihat soalan yang pertama daripada Ridwan: *"YB merupakan individu yan
 
 Ini bukan sekadar satu soalan, YB, tetapi ada lapan soalan sekaligus. Kita peruntukkan 3 minit untuk soalan ini.
 
-**Rafizi Ramli:** Saya sering diajukan soalan sebegini, yang menyatakan bahawa JS-SEZ ini adalah projek rintisan saya, dan memandangkan saya tiada lagi dalam kerajaan, maka projek ini tidak akan diteruskan. Saya faham, ada pihak yang cuba menyindir mengenai isu peletakan jawatan tersebut, tetapi tanggapan sedemikian adalah kurang tepat. 
+**Rafizi:** Saya sering diajukan soalan sebegini, yang menyatakan bahawa JS-SEZ ini adalah projek rintisan saya, dan memandangkan saya tiada lagi dalam kerajaan, maka projek ini tidak akan diteruskan. Saya faham, ada pihak yang cuba menyindir mengenai isu peletakan jawatan tersebut, tetapi tanggapan sedemikian adalah kurang tepat. 
 
 Apabila kita yakin bahawa sesuatu dasar atau projek itu adalah baik untuk negara, ia pasti akan diteruskan oleh mana-mana kepimpinan kerajaan sekalipun. Malah, sekiranya Wan Fayhsal menjadi Perdana Menteri sekalipun selepas ini, saya yakin beliau juga akan sibuk mempromosikan JS-SEZ, malah mungkin menjemput Donald Trump untuk melawat ke sana. Jadi, jika projek itu memberi impak yang baik, ia akan diteruskan dan isu projek ini akan terkubur apabila saya tiada tidak seharusnya timbul. 
 
@@ -343,7 +343,7 @@ Sebaliknya, jika kita tidak mengawalnya dengan berhati-hati, projek ini akhirnya
 
 **Host:** Okey YB, jelas. Soalan yang kedua pula adalah mengenai penjajaran belanjawan dengan RMK-13: *"Bagaimana belanjawan negara 2026 yang baru diumumkan ini sejajar dengan pelan RMK Ke-13?"*
 
-**Rafizi Ramli:** Saya telah mengulas panjang lebar mengenai perkara ini tadi, walaupun tidak mengaitkannya secara langsung dengan RMK-13. Banyak aspek yang menjadi teras utama RMK-13, namun satu perkara pokok yang langsung tidak disentuh dalam belanjawan kali ini ialah mengenai isu pengurangan pekerja asing. Pelan RMK-13 telah menetapkan sasaran yang jelas untuk mengurangkan jumlah pekerja asing daripada 15% kepada 10%, dan seterusnya kepada 5% dalam tempoh lima tahun berikutnya. Perkara ini nampaknya tidak disebut langsung di dalam ucapan belanjawan baru-baru ini. 
+**Rafizi:** Saya telah mengulas panjang lebar mengenai perkara ini tadi, walaupun tidak mengaitkannya secara langsung dengan RMK-13. Banyak aspek yang menjadi teras utama RMK-13, namun satu perkara pokok yang langsung tidak disentuh dalam belanjawan kali ini ialah mengenai isu pengurangan pekerja asing. Pelan RMK-13 telah menetapkan sasaran yang jelas untuk mengurangkan jumlah pekerja asing daripada 15% kepada 10%, dan seterusnya kepada 5% dalam tempoh lima tahun berikutnya. Perkara ini nampaknya tidak disebut langsung di dalam ucapan belanjawan baru-baru ini. 
 
 Semasa kita membentangkan Kajian Separuh Penggal RMK-12 pada tahun 2023—iaitu dokumen perancangan pertama yang saya uruskan selaku Menteri Ekonomi—saya telah menegaskan bahawa teras utama pembaharuan ekonomi adalah dengan merombak sistem subsidi negara. Walaupun langkah tersebut tidak popular dan menerima pelbagai reaksi negatif, kita tetap melaksanakannya sehingga membawa kepada pelaksanaan penyasaran subsidi diesel dan petrol pada hari ini. 
 
@@ -355,15 +355,15 @@ Oleh itu, kita tidak boleh menilai keberkesanan dasar ini secara bulat-bulat han
 
 **Host:** Okey baik YB. Tepat pada masanya.
 
-**Rafizi Ramli:** Bukan tepat masa, jam randek ini yang sudah berhenti terlebih dahulu.
+**Rafizi:** Bukan tepat masa, jam randek ini yang sudah berhenti terlebih dahulu.
 
 **Host:** Baik, sekarang kita beralih kepada sesi soalan secara langsung daripada penonton. Di hadapan skrin saya ada beberapa soalan untuk YB. Memang ada banyak soalan, tetapi memandangkan kekangan masa...
 
-**Rafizi Ramli:** Kita ada baki 10 minit lagi, bukan? Hanya 10 minit sahaja lagi.
+**Rafizi:** Kita ada baki 10 minit lagi, bukan? Hanya 10 minit sahaja lagi.
 
 **Host:** Ya, kita ada masa 10 minit lagi. Baik, mari kita lihat soalan pertama yang terpapar: *"Apakah pandangan YB tentang penurunan kadar dividen Petronas? Adakah disebabkan kerajaan ingin mengurangkan kebergantungan kepada Petronas, ataupun disebabkan Petronas sendiri yang tidak mampu memberi sumbangan yang lebih banyak?"*
 
-**Rafizi Ramli:** Jawapannya mudah: Petronas sememangnya sudah tidak mampu untuk menyumbang dividen yang lebih tinggi. Kerajaan, jika diberikan pilihan, pastinya mahu mengambil seberapa banyak dividen yang boleh daripada Petronas untuk menunjukkan bahawa kadar defisit kita berkurang dan kita mempunyai lebih banyak dana untuk dibelanjakan bagi projek rakyat. 
+**Rafizi:** Jawapannya mudah: Petronas sememangnya sudah tidak mampu untuk menyumbang dividen yang lebih tinggi. Kerajaan, jika diberikan pilihan, pastinya mahu mengambil seberapa banyak dividen yang boleh daripada Petronas untuk menunjukkan bahawa kadar defisit kita berkurang dan kita mempunyai lebih banyak dana untuk dibelanjakan bagi projek rakyat. 
 
 Sepanjang saya bergelar Menteri Ekonomi, adakalanya saya berasa bimbang apabila berbincang dengan sesetengah pegawai di Kementerian Kewangan yang masih mempunyai mentaliti "tidak mengapa, kita kan ada Petronas". Walaupun saya merupakan bekas kakitangan Petronas, saya amat memahami cabaran sebenar yang dihadapi dalam industri minyak dan gas pada hari ini. Margin keuntungan industri ini sudah jauh mengecil berbanding dahulu; jika dahulu margin keuntungan bagi satu tong minyak boleh mencecah melebihi 30%, kini ia hanyalah sekitar 15% ke 22% sahaja disebabkan oleh peningkatan kos operasi yang tinggi. 
 
@@ -373,11 +373,11 @@ Keadaan ini akan mencetuskan *vicious cycle* di mana pengurangan aktiviti cari g
 
 **Host:** Okey, baik YB. Seterusnya soalan daripada Azam: *"Pada pendapat YB, adakah langkah pemotongan gaji menteri sebanyak 20% di bawah belanjawan ini wajar? Sebelum ini YB pernah menyatakan bahawa gaji menteri adalah kecil berbanding dengan jawatan tinggi di sektor swasta. Bukankah pemotongan sebegini boleh mendorong kepada ketirisan seperti rasuah akibat daripada gaji yang kecil? Adakah terdapat langkah yang lebih baik seperti mengehadkan jawatan yang dipegang oleh Ahli Parlimen?"*
 
-**Rafizi Ramli:** Soalan ini membuatkan saya berasa seperti diuji semula mengenai kenyataan lama saya. Berkenaan isu pemotongan gaji menteri sebanyak 20% ini, bukankah ia telah dilaksanakan sejak awal pembentukan kerajaan lagi? Adakah terdapat pengumuman kadar potongan yang baharu?
+**Rafizi:** Soalan ini membuatkan saya berasa seperti diuji semula mengenai kenyataan lama saya. Berkenaan isu pemotongan gaji menteri sebanyak 20% ini, bukankah ia telah dilaksanakan sejak awal pembentukan kerajaan lagi? Adakah terdapat pengumuman kadar potongan yang baharu?
 
 **Host:** Tidak ada yang baharu, penonton cuma bertanyakan semula mengenai wajarnya langkah tersebut.
 
-**Rafizi Ramli:** Maksudnya, gaji menteri yang sedia ada kecil dipotong lagi.
+**Rafizi:** Maksudnya, gaji menteri yang sedia ada kecil dipotong lagi.
 
 Bagi menteri daripada PKR, keadaannya adalah lebih mencabar kerana kami tertakluk kepada pemotongan 20% untuk sumbangan parti dan potongan 10% lagi untuk kerajaan, bermakna kami hanya menerima baki 70% daripada jumlah gaji pokok yang diperuntukkan. 
 
@@ -393,15 +393,15 @@ Rakyat dan ahli politik di peringkat akar umbi juga perlu mengubah minda mereka;
 
 **Host:** Baik, YB. Mungkin ini adalah soalan ketiga terakhir kita.
 
-**Rafizi Ramli:** Alhamdulillah, kita masih ada baki 10 minit lagi.
+**Rafizi:** Alhamdulillah, kita masih ada baki 10 minit lagi.
 
 **Host:** Seterusnya soalan daripada Irfan mengenai projek kemasyarakatan: *"Salam YB, boleh saya tahu apakah perkembangan terbaru projek social enterprise YB, Ayum Malaysia, dan bagaimana cara untuk kami sertai serta memberikan sokongan? Terima kasih."*
 
-**Rafizi Ramli:** Ini bukan soalan mengenai belanjawan negara, ya?
+**Rafizi:** Ini bukan soalan mengenai belanjawan negara, ya?
 
 **Host:** Bukan, ini adalah soalan umum daripada penonton.
 
-**Rafizi Ramli:** Dalam tempoh dua bulan kebelakangan ini, saya banyak menumpukan perhatian kepada pembangunan dua jenis *social enterprise*. 
+**Rafizi:** Dalam tempoh dua bulan kebelakangan ini, saya banyak menumpukan perhatian kepada pembangunan dua jenis *social enterprise*. 
 
 Pertama ialah sebuah kedai makan berkonsepkan "Value Meal" bernama "Kesum"—singkatan kepada "Asal Kenyangan, Sedap dan Murah"—yang menawarkan hidangan berkualiti pada harga RM5 ke bawah. Kedua ialah sebuah kedai serbaneka bernama "FlexiMart" yang menggabungkan penjualan makanan dan barangan harian secara fleksibel mengikut bajet pelanggan. 
 
@@ -415,14 +415,14 @@ Pada masa yang sama, bagi projek *social enterprise* yang lain seperti inisiatif
 
 **Host:** Baik, YB. *Thank you for the update.* Saya rasa setakat itu sahaja soalan untuk sesi kali ini.
 
-**Rafizi Ramli:** Alhamdulillah, perbincangan yang sangat produktif tepat pada masanya.
+**Rafizi:** Alhamdulillah, perbincangan yang sangat produktif tepat pada masanya.
 
 **Host:** Sesi yang sangat produktif. Terima kasih banyak-banyak kepada YB Rafizi dan semua penonton yang setia bersama kami.
 
-**Rafizi Ramli:** Nasib baik esok cuti hujung minggu.
+**Rafizi:** Nasib baik esok cuti hujung minggu.
 
 **Host:** Betul, esok hujung minggu.
 
-**Rafizi Ramli:** Penat juga menjawab sesi temuramah ini.
+**Rafizi:** Penat juga menjawab sesi temuramah ini.
 
 **Host:** Memandangkan sesi telah tamat, saya pun segan hendak mengulas lanjut. Kita berhenti di sini dan berjumpa lagi pada minggu hadapan. Terima kasih semua, sila kongsikan siaran ini kepada rakan-rakan yang lain. Kita jumpa lagi, terima kasih.

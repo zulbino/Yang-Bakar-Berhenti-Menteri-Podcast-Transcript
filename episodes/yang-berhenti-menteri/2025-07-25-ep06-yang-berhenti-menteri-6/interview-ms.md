@@ -8,7 +8,7 @@ duration_seconds: 7046
 duration: 1h 57m
 view_count: 57185
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Zaim Zulkifli
 topics:
@@ -19,7 +19,7 @@ topics:
 - Political culture and leadership
 - Role of student activism
 - Subsidy rationalization and macroeconomic management
-summary: This episode features a discussion between host Rafizi Ramli and student
+summary: This episode features a discussion between host Rafizi and student
   activist Zaim Zulkifli regarding political and institutional reforms, corruption,
   and economic policies under the Anwar Ibrahim administration. The conversation covers
   the complexities of governing, the necessity of balancing political stability with
@@ -35,11 +35,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Zaim:** Setakat ini, maklum balas daripada pihak yang mengatakan bos mereka mahu berdebat adalah daripada UMNO, iaitu Akmal Saleh. Namun, terdapat sedikit kelewatan disebabkan isu yang menimpa bapanya. Sehingga kini, kami masih menunggu. Kamil, yang datang daripada parti yang sepatutnya menggemari debat, tidak pernah datang lagi. Jadi, itulah masalahnya. YB, semasa YB muda dahulu, adakah YB juga pernah mengajak orang berdebat?
 
-**Rafizi Ramli:** Saya tidak ingat.
+**Rafizi:** Saya tidak ingat.
 
 **Moderator:** Masa apa? Masa Pemuda Keadilan?
 
-**Rafizi Ramli:** Ya. Sebenarnya, pada dua tahun awal PKR, keseluruhan fokus adalah untuk membebaskan Anwar. Jadi, tiada perdebatan. Kami menghabiskan banyak masa berkempen untuk membebaskan Anwar di luar negara, selain daripada aspek pesona (charm). Lagipun, apa yang anda fikirkan? Dia hanyalah seekor nyamuk; siapa yang mahu melayan dia? Anda mahu berdebat? Baiklah.
+**Rafizi:** Ya. Sebenarnya, pada dua tahun awal PKR, keseluruhan fokus adalah untuk membebaskan Anwar. Jadi, tiada perdebatan. Kami menghabiskan banyak masa berkempen untuk membebaskan Anwar di luar negara, selain daripada aspek pesona (charm). Lagipun, apa yang anda fikirkan? Dia hanyalah seekor nyamuk; siapa yang mahu melayan dia? Anda mahu berdebat? Baiklah.
 
 **Moderator:** Saudara Zaim juga merupakan Gen Z, boleh saya katakan—tetamu jemputan pertama kita daripada Gen Z. Bilakah Gen Z dilahirkan? 1997 sehingga 2010, saya rasa. Baiklah, dalam masa yang singkat ini, mungkin ada senarai soalan untuk anda ajukan, tetapi kita mungkin akan membenarkan anda bertanya soalan juga, supaya adil. Mari kita mulakan dengan anda dahulu, tanpa membuang masa.
 
@@ -47,7 +47,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 Tetapi masalahnya sekarang, walaupun anda bertanya kepada badan pemikir (think tank) seperti C4, IDEAS, dan sebagainya, apabila kerajaan Anwar naik, walaupun selepas dua hingga tiga tahun, reformasi itu sengaja dilengah-lengahkan, atau boleh kita katakan ditangguhkan. Sehinggakan ramai golongan progresif dan reformis telah lama hilang kepercayaan. Jadi, boleh kita katakan bahawa Pakatan Harapan agak lewat. Isu di sini ialah YB sendiri merupakan anggota kabinet yang memegang portfolio besar, dan sebagai orang kedua terpenting dalam parti, YB sekurang-kurangnya mempunyai pengaruh terhadap urusan kerajaan. Tapi kenapa reformasi masih lagi tidak boleh dilaksanakan, dan apa yang berlaku sebenarnya? Kita mahu faham.
 
-**Rafizi Ramli:** Satu ialah saya ingat kita perlu melihat daripada dua perspektif: satu perspektif kerajaan keseluruhan, dan satu lagi perspektif saya sebagai Menteri Ekonomi.
+**Rafizi:** Satu ialah saya ingat kita perlu melihat daripada dua perspektif: satu perspektif kerajaan keseluruhan, dan satu lagi perspektif saya sebagai Menteri Ekonomi.
 
 Masa kerajaan mengambil alih dahulu pada 22 November 2022, kita perlu melihat keadaan negara pada ketika itu, di mana kita berhadapan dengan sebahagian besar masalah ekonomi. Inflasi pada masa itu melonjak 4% lebih setiap bulan, mata wang jatuh, dan kita mempunyai masalah keberhutangan yang sangat tinggi. Kalau kita tidak selesaikan masalah defisit ataupun menyediakan landasan untuk mengurangkan defisit, ia akan memberi kesan besar kepada ekonomi, pelaburan, dan jumlah hutang negara.
 
@@ -63,7 +63,7 @@ Jika anda bertanya apa yang menteri lain boleh buat, kita boleh memberikan penda
 
 **Zaim:** Baiklah, menarik. YB cuba memisahkan kuasa Perdana Menteri, dan sudah tentu tidak mungkin untuk membatalkan keputusan kabinet. Tetapi kita tidak boleh lupa bahawa YB masih merupakan pemimpin kedua tertinggi dalam parti terbesar dalam kerajaan. Secara teknikalnya, PKR besar kerana Perdana Menteri adalah daripada PKR, dan pasukan YB memegang jawatan utama dalam parti. YB sebenarnya mempunyai banyak suara dalam parti untuk mendesak Anwar, Ahli Parlimen, atau menteri lain untuk melaksanakan reformasi. Adakah ini bermaksud YB memberi bayangan bahawa anda belum mendesak semampu yang boleh, atau adakah anda hanya bergantung kepada menguruskan garis halus tersebut tanpa menangani mengapa rakyat mengangkat anda ke tampuk kuasa—iaitu reformasi institusi di samping ekonomi?
 
-**Rafizi Ramli:** Anda melihat apabila anda berada dalam posisi ini, kita ada audiens yang akan bertepuk tangan untuk kita. Bagi PKR atau PH, audiens kita ialah 'urban crowd' yang fokus kepada isu-isu yang kita sebutkan tadi. Tapi audiens itu perlu diimbangkan dengan audiens lain, termasuk 'silent majority'.
+**Rafizi:** Anda melihat apabila anda berada dalam posisi ini, kita ada audiens yang akan bertepuk tangan untuk kita. Bagi PKR atau PH, audiens kita ialah 'urban crowd' yang fokus kepada isu-isu yang kita sebutkan tadi. Tapi audiens itu perlu diimbangkan dengan audiens lain, termasuk 'silent majority'.
 
 Malah, kerajaan ini adalah kerajaan campuran, bukan kesatuan tunggal. Selama enam atau tujuh bulan pertama, majoriti pihak berkepentingan di negara ini tidak pasti sama ada kerajaan ini akan bertahan atau tidak. Jadi isu utama adalah kestabilan kerajaan. Orang bertanya mengapa kestabilan itu sangat penting—ia bukan mengenai ahli politik kehilangan jawatan jika kerajaan jatuh. Negara sememangnya tidak mampu menanggung tempoh ketidakstabilan politik yang lain. Tempoh kerajaan perpaduan ini adalah 'litmus test' yang cukup penting untuk negara dalam suasana geopolitik yang rapuh. Kalau kita terus bertukar-tukar Perdana Menteri melalui langkah 'tebuk atap', orang politik tiada masalah, hidup diteruskan. Tetapi jika pertumbuhan ekonomi merosot dan keyakinan jatuh, impaknya dirasai oleh semua orang.
 
@@ -77,7 +77,7 @@ Dinamik pilihan raya dalam PKR agak mudah: satu kumpulan mewakili suara reformis
 
 Kedua, mengenai pertembungan atas kesucian reformasi, ambil contoh pelantikan semula Azam Baki untuk penggal kedua. YB secara khusus menyebut pada masa lalu bahawa sebaik sahaja kita menang, Azam Baki akan disingkirkan pada keesokan harinya. Namun Azam Baki dilantik semula semasa YB berada dalam kabinet dan memegang jawatan kedua tertinggi dalam parti teraju, tanpa sebarang desakan awam daripada YB atau pasukan anda. Adakah ini bermaksud YB juga memainkan kad selamat demi kelangsungan (longevity) berada dalam kuasa?
 
-**Rafizi Ramli:** Pertama, lantikan-lantikan ini adalah di bawah kuasa penuh Perdana Menteri. Bila ia kuasa penuh Perdana Menteri, ia tidak perlu dibawa atau dibincangkan di peringkat kabinet. Ia bukan seperti Perdana Menteri meminta kebenaran daripada kabinet untuk menyambung kontrak. Anda mengandaikan begitu kerana anda belum pernah berkhidmat dalam kerajaan.
+**Rafizi:** Pertama, lantikan-lantikan ini adalah di bawah kuasa penuh Perdana Menteri. Bila ia kuasa penuh Perdana Menteri, ia tidak perlu dibawa atau dibincangkan di peringkat kabinet. Ia bukan seperti Perdana Menteri meminta kebenaran daripada kabinet untuk menyambung kontrak. Anda mengandaikan begitu kerana anda belum pernah berkhidmat dalam kerajaan.
 
 Dalam kerajaan, setiap menteri mempunyai bidang kuasa yang jelas di bawah 'Ministerial Functions Order' (MFO). Menteri tidak ada kuasa untuk menentukan mana-mana kontrak atau duduk dalam lembaga perolehan. Perkara perolehan dikendalikan oleh pegawai kerajaan. Di bawah akta berkaitan, kuasa melantik Ketua Pesuruhjaya SPRM terletak di tangan Perdana Menteri secara mutlak tanpa perlu persetujuan kabinet.
 
@@ -89,11 +89,11 @@ Dinamik kuasa bergantung sangat kepada watak, pendekatan, dan gerakan politik da
 
 **Zaim:** Mendengar jawapan YB adalah menarik kerana satu artikel oleh Trisha Yeoh baru-baru ini menyifatkan YB sebagai 'non-conformist' apabila menganalisis pertandingan parti antara YB dan Nurul Izzah. Rasa agak janggal mendengar YB bergantung kepada hujah bahawa "memandangkan peraturan adalah seperti itu, kita mesti mengikutinya," kerana YB sentiasa dikenali sebagai 'non-conformist' yang mendesak untuk mengubah apa yang salah dan menetapkan apa yang betul. Adakah ini bermaksud YB mengambil pendekatan selamat dalam situasi semasa ini?
 
-**Rafizi Ramli:** Kalau aku mahu main selamat, tidak adalah aku meletakkan jawatan. Bila kau jadi menteri satu hari nanti, kau ingat senang mahu meletakkan jawatan? Sekarang sebagai mahasiswa, senanglah bercakap.
+**Rafizi:** Kalau aku mahu main selamat, tidak adalah aku meletakkan jawatan. Bila kau jadi menteri satu hari nanti, kau ingat senang mahu meletakkan jawatan? Sekarang sebagai mahasiswa, senanglah bercakap.
 
 **Zaim:** Tapi itulah semangat mahasiswa.
 
-**Rafizi Ramli:** Ketika saya seusia anda, saya lebih angkuh daripada anda semua. Tetapi apabila anda memegang jawatan penting, pertimbangan kita bukan berdasarkan perasaan peribadi semata-mata. Mahasiswa boleh kata A atau B dan mahu membakar semua perkara, tapi kalau anda buat begitu, negara tidak ranap. Bayangkan kalau seorang menteri membakar semua benda hanya kerana tidak berpuas hati.
+**Rafizi:** Ketika saya seusia anda, saya lebih angkuh daripada anda semua. Tetapi apabila anda memegang jawatan penting, pertimbangan kita bukan berdasarkan perasaan peribadi semata-mata. Mahasiswa boleh kata A atau B dan mahu membakar semua perkara, tapi kalau anda buat begitu, negara tidak ranap. Bayangkan kalau seorang menteri membakar semua benda hanya kerana tidak berpuas hati.
 
 Ia sama dengan peraturan. Kita mahu mengubah peraturan, tetapi anda tidak mengubahnya di kedai kopi. Anda perlu melalui parlimen, mengundi, dan berusaha ke atasnya selama dua tahun. Pentadbiran memerlukan pengurusan perkara yang mengambil masa berbanding perkara yang boleh disegerakan, yang menentukan sama ada sesuatu pentadbiran itu benar-benar berjiwa reformasi. Mengambil contoh Azam Baki, kita tidak boleh hanya mengganggu keseluruhan kabinet yang sedang bekerja hanya kerana kita tidak berpuas hati dengan satu lantikan. Anda perlu memerintah supaya negara kekal stabil sementara penambahbaikan dilakukan secara berterusan. Reformasi besar jarang berlaku hanya dengan memukul gendang; ia mesti berlaku secara konsisten.
 
@@ -109,29 +109,29 @@ Kami cuba sedaya upaya untuk mengambil pendirian berprinsip. Berundur bukan seka
 
 **Zaim:** Saya faham. Tapi mengapa tunggu sehingga selepas keputusan pilihan raya untuk bertindak atas isyarat itu? Mengapa tidak meletakkan jawatan lebih awal atau terus berhadapan dengan Anwar untuk menunjukkan apa yang betul?
 
-**Rafizi Ramli:** Bayangkan kalau saya sebagai Menteri Ekonomi meletakkan jawatan sebelum pemilihan bermula, apa alasan saya? Apa saya mahu cakap kepada umum? Simptom itu adalah apa yang anda rasakan secara peribadi, tetapi adakah anda fikir 30 juta rakyat Malaysia peduli? Pandangan kumpulan 50 orang anda tidak mewakili keseluruhan negara. Dunia tidak berputar di sekeliling kita. Lihat Adam Adli—beliau adalah ketua majlis perwakilan pelajar, dan sebagai menteri, beliau faham dunia tidak berputar di sekeliling aktivisme pelajar.
+**Rafizi:** Bayangkan kalau saya sebagai Menteri Ekonomi meletakkan jawatan sebelum pemilihan bermula, apa alasan saya? Apa saya mahu cakap kepada umum? Simptom itu adalah apa yang anda rasakan secara peribadi, tetapi adakah anda fikir 30 juta rakyat Malaysia peduli? Pandangan kumpulan 50 orang anda tidak mewakili keseluruhan negara. Dunia tidak berputar di sekeliling kita. Lihat Adam Adli—beliau adalah ketua majlis perwakilan pelajar, dan sebagai menteri, beliau faham dunia tidak berputar di sekeliling aktivisme pelajar.
 
 Jika saya meletakkan jawatan semata-mata atas perbezaan peribadi dengan Anwar, itu adalah mementingkan diri sendiri. Apa mesej yang akan dihantar kepada pasaran, pelabur, dan orang ramai? Ia akan mencetuskan spekulasi yang tidak berkesudahan. Keputusan pilihan raya memberikan konteks yang bersih dan difahami kepada orang ramai dan pasaran mengapa Rafizi perlu berundur, tanpa memerlukan saya mendedahkan pertikaian dalaman yang berlaku di belakang tabir selama dua tahun. Apabila garisan tertentu dilanggar, pilihan yang paling terhormat adalah untuk berundur daripada kabinet.
 
 **Moderator:** Zaim, ada apa-apa yang mahu ditambah?
 
-**Rafizi Ramli:** Ambil isu rasuah sebagai contoh. Anda bersetuju bahawa rasuah itu sistemik. Bagaimana anda mendefinisikan sistemik?
+**Rafizi:** Ambil isu rasuah sebagai contoh. Anda bersetuju bahawa rasuah itu sistemik. Bagaimana anda mendefinisikan sistemik?
 
 **Zaim:** Bagaimana anda mendefinisikan sistemik dalam istilah umum?
 
-**Rafizi Ramli:** Jika anda menjadi menteri, anda tidak boleh hanya mengisytiharkan kepada dunia bahawa rasuah itu sistemik tanpa parameter, bukti, dan fakta. Jadi mengapa anda kata ia sistemik?
+**Rafizi:** Jika anda menjadi menteri, anda tidak boleh hanya mengisytiharkan kepada dunia bahawa rasuah itu sistemik tanpa parameter, bukti, dan fakta. Jadi mengapa anda kata ia sistemik?
 
 **Zaim:** Ia sistemik kerana penerima manfaat mengeksploitasi kelompangan yang sedia ada dalam struktur.
 
-**Rafizi Ramli:** Berikan contoh.
+**Rafizi:** Berikan contoh.
 
 **Zaim:** Seperti yang YB sebutkan mengenai tender dan perolehan. Menteri mungkin tidak duduk dalam lembaga perolehan, tetapi mereka menggunakan pengaruh di luar struktur formal. Terdapat kelompangan struktur dalam ekosistem kita.
 
-**Rafizi Ramli:** Apakah parameter yang mendefinisikannya sebagai sistemik? Apabila pesakit mempunyai bacaan tekanan darah 180, anda tahu mereka sakit. Sebagai penggubal dasar, jika anda melabel sesuatu sebagai sistemik, apakah parameter yang anda gunakan?
+**Rafizi:** Apakah parameter yang mendefinisikannya sebagai sistemik? Apabila pesakit mempunyai bacaan tekanan darah 180, anda tahu mereka sakit. Sebagai penggubal dasar, jika anda melabel sesuatu sebagai sistemik, apakah parameter yang anda gunakan?
 
 **Zaim:** YB sebelum ini membangkitkan isu kehakiman dan pelantikan di mana kuasa eksekutif, khususnya Perdana Menteri, memegang kuasa berlebihan untuk melantik tokoh penting seperti Ketua SPRM, Ketua Polis Negara, dan Pengerusi Suruhanjaya Pilihan Raya. Sistem itu bertindak sebagai pemboleh (enabler).
 
-**Rafizi Ramli:** Mengapa ia tidak dilabelkan sistemik semasa era Tun Razak apabila kuasa eksekutif sama atau lebih tertumpu di bawah kerangka perlembagaan yang sama?
+**Rafizi:** Mengapa ia tidak dilabelkan sistemik semasa era Tun Razak apabila kuasa eksekutif sama atau lebih tertumpu di bawah kerangka perlembagaan yang sama?
 
 **Zaim:** Kerana pada masa itu, sistem itu masih baru bertapak. Semasa zaman Tun Razak, negara masih muda dan benihnya hadir, tetapi lama-kelamaan, tanpa semak dan imbang institusi, ia menjadi sebati sebagai isu sistemik.
 
@@ -139,15 +139,15 @@ Jika saya meletakkan jawatan semata-mata atas perbezaan peribadi dengan Anwar, i
 
 **Zaim:** Jika kita mahu menangani masalah dengan berkesan, kita mesti menyasarkan punca sebenar secara langsung.
 
-**Rafizi Ramli:** Apakah punca sebenar?
+**Rafizi:** Apakah punca sebenar?
 
 **Zaim:** Punca sebenar banyak berpunca daripada kuasa eksekutif yang tertumpu.
 
-**Rafizi Ramli:** Saya tidak bersetuju dengan itu.
+**Rafizi:** Saya tidak bersetuju dengan itu.
 
 **Zaim:** Apa yang anda anggap sebagai punca sebenar kalau begitu?
 
-**Rafizi Ramli:** 10 hingga 15 tahun lalu, apabila saya mula mendedahkan skandal dan rasuah, matlamat utama saya bukan sekadar menunjukkan integriti peribadi. Kebimbangan saya ialah masyarakat, terutamanya komuniti Melayu, melihat rasuah secara pasif—berfikir selagi mereka mendapat sedikit manfaat, ia boleh diterima.
+**Rafizi:** 10 hingga 15 tahun lalu, apabila saya mula mendedahkan skandal dan rasuah, matlamat utama saya bukan sekadar menunjukkan integriti peribadi. Kebimbangan saya ialah masyarakat, terutamanya komuniti Melayu, melihat rasuah secara pasif—berfikir selagi mereka mendapat sedikit manfaat, ia boleh diterima.
 
 Itu sebabnya saya fokus pendedahan pada institusi majoriti Melayu—1MDB, MARA, Tabung Haji, Felda—untuk menunjukkan bahawa rasuah adalah dosa merosakkan yang menindas orang biasa. Menyasarkan pegawai peringkat rendah tidak akan mengubah kesedaran awam, jadi kami fokus kepada ahli politik berprofil tinggi.
 
@@ -155,7 +155,7 @@ Walau bagaimanapun, punca sebenar rasuah melangkaui ahli politik yang datang dan
 
 **Zaim:** Mengapa pemikiran dan budaya itu wujud? Bukankah ia dibentuk oleh sistem asas dan pemimpinnya?
 
-**Rafizi Ramli:** Anda boleh mereka bentuk sistem yang paling sempurna, tetapi jika orang yang mengendalikannya tidak percaya secara asasnya kepada prinsipnya, mereka akan sentiasa mencari jalan keluar. Dalam banyak masyarakat Barat, terdapat konsensus budaya yang mendalam bahawa mengambil apa yang bukan milik anda adalah salah secara semula jadi. Mereka tidak bergantung semata-mata kepada senarai semak institusi yang lengkap kerana ketidakjujuran tidak boleh diterima secara budaya.
+**Rafizi:** Anda boleh mereka bentuk sistem yang paling sempurna, tetapi jika orang yang mengendalikannya tidak percaya secara asasnya kepada prinsipnya, mereka akan sentiasa mencari jalan keluar. Dalam banyak masyarakat Barat, terdapat konsensus budaya yang mendalam bahawa mengambil apa yang bukan milik anda adalah salah secara semula jadi. Mereka tidak bergantung semata-mata kepada senarai semak institusi yang lengkap kerana ketidakjujuran tidak boleh diterima secara budaya.
 
 Jika Perdana Menteri memasang sistem tanpa mengubah nilai masyarakat, rasuah akan berterusan. Jika masyarakat menghargai jalan pintas kepada kekayaan cepat—sama ada melalui politik atau skim spekulatif—berbanding dekad kerja keras, orang akan mengejar jalan pintas. Itu adalah isu budaya.
 
@@ -163,7 +163,7 @@ Walau bagaimanapun, memandangkan masyarakat Malaysia bersifat patriarki, kepimpi
 
 **Zaim:** Jadi sistem pendidikan memainkan peranan penting dalam membentuk pemikiran itu, bukan?
 
-**Rafizi Ramli:** Semuanya memainkan peranan, termasuk pendidikan. Tetapi tadi anda berhujah bahawa rasuah berpunca sepenuhnya daripada kuasa eksekutif yang tertumpu pada seorang individu dalam sistem. Hakikatnya, budaya, kepimpinan, dan kerangka institusi semuanya saling berkaitan.
+**Rafizi:** Semuanya memainkan peranan, termasuk pendidikan. Tetapi tadi anda berhujah bahawa rasuah berpunca sepenuhnya daripada kuasa eksekutif yang tertumpu pada seorang individu dalam sistem. Hakikatnya, budaya, kepimpinan, dan kerangka institusi semuanya saling berkaitan.
 
 Sistem merujuk kepada budaya dan juga tetapan masyarakat kita. Ia melibatkan segala-galanya daripada perniagaan kita, model kejayaan kita, sekolah kita, dan sebagainya. Dan sebab kita ada hujah ini adalah kerana satu hari nanti, apabila anda menjadi Perdana Menteri, adakah anda fikir anda boleh menghentikan rasuah hanya dengan meletakkan dua atau tiga orang untuk mengurus dan mengubah peraturan tertentu?
 
@@ -179,25 +179,25 @@ Jadi, apabila bercakap tentang sistem, saya beri gred D. Saya rasa perdebatan it
 
 **Moderator:** Sains Politik.
 
-**Rafizi Ramli:** Sains politik. Eh, tak apa. Hahaha. Rizal baru kuasai ini mungkin.
+**Rafizi:** Sains politik. Eh, tak apa. Hahaha. Rizal baru kuasai ini mungkin.
 
 **Moderator (Zaim Zulkifli):** Jadi, dulu lah masa PKR jadi pembangkang, malah seperti Anwar Ibrahim sendiri pun, jadi ketua pembangkang, pendekatan PKR terhadap ekonomi sangat berasaskan keperluan (needs-based), bukan berasaskan kaum (race-based). Tetapi tahun lepas, apabila anda menjadi menteri, anda melancarkan Pelan Transformasi Ekonomi Bumiputera 2035 (Dasar Bumiputera 35) bersama Zahid Hamidi dan Anwar Ibrahim. Ini adalah sesuatu yang agak kontroversi berbanding apa yang PKR perjuangkan secara sejarah. Jika ia berasaskan keperluan, mengapa fokus kepada dasar berasaskan kaum? Mengapa perubahan mendadak ini berlaku apabila anda berkuasa? Adakah ini sebahagian daripada "ujian kuasa" yang anda katakan tadi? Anda agak pandai memutar roda.
 
-**Rafizi Ramli:** Tidak, sebenarnya, kalau anda baca dokumen itu—anda baca atau tidak? Bumiputera 35 sebenarnya sangat berbeza daripada kongres ekonomi sebelum ini kerana terdapat banyak penekanan terhadap perkongsian sinergistik antara Melayu, Bumiputera, dan bukan Bumiputera. Sebab itulah dalam jawatankuasa pemandu, anda ada menteri bukan Melayu seperti Anthony Loke, Gobind Singh Deo, Ewon Benedick, dan sebagainya. Kemudian dokumen itu juga dengan jelas menyatakan mengenai keperluan dan juga perkongsian strategik dan sinergistik dengan bukan Bumiputera.
+**Rafizi:** Tidak, sebenarnya, kalau anda baca dokumen itu—anda baca atau tidak? Bumiputera 35 sebenarnya sangat berbeza daripada kongres ekonomi sebelum ini kerana terdapat banyak penekanan terhadap perkongsian sinergistik antara Melayu, Bumiputera, dan bukan Bumiputera. Sebab itulah dalam jawatankuasa pemandu, anda ada menteri bukan Melayu seperti Anthony Loke, Gobind Singh Deo, Ewon Benedick, dan sebagainya. Kemudian dokumen itu juga dengan jelas menyatakan mengenai keperluan dan juga perkongsian strategik dan sinergistik dengan bukan Bumiputera.
 
 Sekarang, masalahnya, sudah tentu orang akan mempermudahkan lagi. Anda boleh berkata, "Oh, kerana kita berasaskan keperluan, kita tidak boleh bercakap secara terus tentang ekonomi Bumiputera." Tetapi lihat demografi. Berapakah populasi Malaysia pada, katakan, 2050? Berapakah peratusan Bumiputera yang diunjurkan?
 
 **Moderator (Zaim Zulkifli):** Daripada keseluruhan populasi, berapa banyak Bumiputera? Apakah unjurannya? Saya rasa populasi Melayu diunjurkan berkembang jauh lebih besar.
 
-**Rafizi Ramli:** Berapa banyak?
+**Rafizi:** Berapa banyak?
 
 **Moderator (Zaim Zulkifli):** Menjelang 2050, saya tidak ingat angka tepatnya.
 
-**Rafizi Ramli:** Populasi dijangka memuncak pada 2060. Menjelang 2050 atau 2060, populasi Bumiputera sebenarnya akan menjadi 80% daripada 40 juta populasi kita. Kenapa soal pecahan populasi ini penting bila kita bincang tentang ekonomi?
+**Rafizi:** Populasi dijangka memuncak pada 2060. Menjelang 2050 atau 2060, populasi Bumiputera sebenarnya akan menjadi 80% daripada 40 juta populasi kita. Kenapa soal pecahan populasi ini penting bila kita bincang tentang ekonomi?
 
 **Moderator (Zaim Zulkifli):** Pecahan populasi. Kenapa soal Melayu, Cina, India, apabila anda melakukan pelan-pelan makroekonomi? Walaupun kita katakan kita satu negara, kenapa anda masih bercakap tentangnya? Adakah ia berkaitan dengan pendapatan dan cukai?
 
-**Rafizi Ramli:** Ya, pada dasarnya ia adalah pasaran. Kuasa beli, tenaga kerja, dan segala-galanya tentang negara ini dalam kira-kira 20 hingga 30 tahun akan datang akan didominasi oleh Bumiputera. Jadi jika terdapat jurang antara kuasa beli dan perkongsian antara Bumiputera dan bukan Bumiputera, ia akan menjejaskan seluruh negara. Seperti yang anda tahu, kumpulan yang paling makmur dari segi ekonomi di Malaysia sekarang adalah orang Cina. Tetapi apabila peratusan populasi mereka semakin kecil, jelas keupayaan mereka untuk memacu ekonomi secara tunggal semakin berkurangan. Begitu juga, apabila Bumiputera menjadi semakin besar sebagai peratusan populasi, mereka akan mempunyai lebih banyak pengaruh terhadap keteguhan ekonomi.
+**Rafizi:** Ya, pada dasarnya ia adalah pasaran. Kuasa beli, tenaga kerja, dan segala-galanya tentang negara ini dalam kira-kira 20 hingga 30 tahun akan datang akan didominasi oleh Bumiputera. Jadi jika terdapat jurang antara kuasa beli dan perkongsian antara Bumiputera dan bukan Bumiputera, ia akan menjejaskan seluruh negara. Seperti yang anda tahu, kumpulan yang paling makmur dari segi ekonomi di Malaysia sekarang adalah orang Cina. Tetapi apabila peratusan populasi mereka semakin kecil, jelas keupayaan mereka untuk memacu ekonomi secara tunggal semakin berkurangan. Begitu juga, apabila Bumiputera menjadi semakin besar sebagai peratusan populasi, mereka akan mempunyai lebih banyak pengaruh terhadap keteguhan ekonomi.
 
 Sebab itulah kita perlu merapatkan jurang ini; anda perlu membuat pai itu lebih besar. Contohnya, jika dasar Bumiputera mengatakan bahawa kerajaan hanya perlu menyumbang kepada Bumiputera 100%, dan yang miskin Cina, yang miskin India, semua ini, jangan dibantu—maka itu salah. Tetapi pelan ini tidak seperti itu. Kami sangat berhati-hati untuk tidak memastikan agenda Bumiputera itu menjadi alasan untuk mencipta budaya hak (entitlement culture) dalam kalangan Bumiputera hanya kerana mereka fikir, "Saya Bumiputera, jadi saya patut dapat ini, satu, dua, tiga, empat, lima."
 
@@ -211,45 +211,45 @@ Dogma parti sayap kanan di Malaysia ialah kerana kita tidak mempunyai kuasa ekon
 
 **Moderator (Zaim Zulkifli):** Saya faham. Saya malas mahu menghabiskannya, tetapi saya rasa ekonomi sangat buruk.
 
-**Rafizi Ramli:** Okeylah, aku dah tua, kau boleh jadi anak aku, kan?
+**Rafizi:** Okeylah, aku dah tua, kau boleh jadi anak aku, kan?
 
 **Moderator (Zaim Zulkifli):** Kacip. Saya akan semak GPT. Habislah. Berapa banyak lagi soalan boleh saya tanya?
 
-**Rafizi Ramli:** Ikut suka engkau lah mahu tanya. Adakah ini baru sejam?
+**Rafizi:** Ikut suka engkau lah mahu tanya. Adakah ini baru sejam?
 
 **Moderator (Zaim Zulkifli):** Oh, baru sejam?
 
-**Rafizi Ramli:** Ia mudah: jika anda bertanya terlalu banyak soalan dan orang tidak berminat, mereka hanya tidak akan menonton. Itu sahaja.
+**Rafizi:** Ia mudah: jika anda bertanya terlalu banyak soalan dan orang tidak berminat, mereka hanya tidak akan menonton. Itu sahaja.
 
 **Moderator (Zaim Zulkifli):** Benar. Tetapi perbualan mengalir dengan baik.
 
-**Rafizi Ramli:** Okey kawan-kawan, saya boleh bercakap lebih banyak lagi. Anda ada banyak soalan. Berapa hari anda ambil untuk sediakan ini?
+**Rafizi:** Okey kawan-kawan, saya boleh bercakap lebih banyak lagi. Anda ada banyak soalan. Berapa hari anda ambil untuk sediakan ini?
 
 **Moderator (Zaim Zulkifli):** Hanya satu hari.
 
-**Rafizi Ramli:** Satu hari? Gila. Okey, baiklah. Teruskan.
+**Rafizi:** Satu hari? Gila. Okey, baiklah. Teruskan.
 
 **Moderator (Zaim Zulkifli):** Kita telah bercakap tentang reformasi politik dan ekonomi, dan segala-galanya sentiasa kembali kepada parti. Saya percaya bahawa jika kita mahu mereformasikan negara, kita perlu bermula dengan mereformasikan halaman rumah kita sendiri—iaitu parti. Jika kita lihat model di Singapura, PAP mempunyai badan bebas sendiri untuk memantau tindakan dalaman, bertindak hampir seperti SPRM untuk mengawal selia parti mereka sendiri. Ia menunjukkan komitmen sebenar untuk memastikan diri mereka bersih.
 
 Secara hipotesis, kita boleh katakan bahawa anda tidak sehaluan dengan "Kami Tahu Siapa". Saya hanya mahu mengimbau memori anda, bukan cuba bertanya soalan yang tidak selesa. Apakah pelan tindakan (blueprint) anda? Apabila kita bercakap tentang keadilan dan reformasi, apakah pelan yang anda lihat untuk dilaksanakan supaya anda tidak terkena perintah politik? Bagaimana kita "walk the talk"? Apakah pelan tindakannya?
 
-**Rafizi Ramli:** Pelan tindakan untuk apa? Untuk mereformasikan parti?
+**Rafizi:** Pelan tindakan untuk apa? Untuk mereformasikan parti?
 
 **Moderator (Zaim Zulkifli):** Ya, pelan tindakan untuk mereformasikan parti.
 
-**Rafizi Ramli:** Baiklah, itu bukan tanggungjawab tunggal saya.
+**Rafizi:** Baiklah, itu bukan tanggungjawab tunggal saya.
 
 **Moderator (Zaim Zulkifli):** Impian untuk PKR, saya rasa.
 
-**Rafizi Ramli:** Saya tidak bermimpi tentang PKR semalam.
+**Rafizi:** Saya tidak bermimpi tentang PKR semalam.
 
 **Moderator (Zaim Zulkifli):** Tidak, bukan begitu, YB. Memandangkan anda berada dalam pimpinan, apa yang perlu dilakukan supaya PKR benar-benar memenuhi aspirasi reformasi rakyat? Kita telah berbincang panjang tentang punca rasuah tadi.
 
-**Rafizi Ramli:** Saya masih lagi rasa sebenarnya ia berkaitan dengan budaya—budaya politik, kan? PKR lahir semasa era reformasi daripada kebencian yang mendalam terhadap budaya politik pada masa itu. Budaya politik ketika itu adalah budaya mencium tangan, membodek, dan diam. Ia adalah budaya, "Saya sokong anda, tapi saya tidak berani bersuara." Betul?
+**Rafizi:** Saya masih lagi rasa sebenarnya ia berkaitan dengan budaya—budaya politik, kan? PKR lahir semasa era reformasi daripada kebencian yang mendalam terhadap budaya politik pada masa itu. Budaya politik ketika itu adalah budaya mencium tangan, membodek, dan diam. Ia adalah budaya, "Saya sokong anda, tapi saya tidak berani bersuara." Betul?
 
 **Moderator (Zaim Zulkifli):** Ya, betul. Itulah budaya politik masa itu.
 
-**Rafizi Ramli:** Masa awal-awal itu, kebanyakan daripada kami yang menyertai PKR—orang selalu kata PKR ini parti bekas-bekas UMNO, sebenarnya tidak, tahu? Walaupun ada yang datang daripada UMNO, kebanyakan mereka telah meninggalkan PKR. Apa yang tinggal, dan ramai antara kita, adalah orang yang sebelum ini tidak berparti. Kami sertai kerana kami bersemangat untuk membawa budaya baru. Dan saya rasa budaya politik yang kita mahu bawa itu memang ada 'traction' dengan rakyat lah. Orang yang menyertai PKR masa itu adalah rakyat biasa.
+**Rafizi:** Masa awal-awal itu, kebanyakan daripada kami yang menyertai PKR—orang selalu kata PKR ini parti bekas-bekas UMNO, sebenarnya tidak, tahu? Walaupun ada yang datang daripada UMNO, kebanyakan mereka telah meninggalkan PKR. Apa yang tinggal, dan ramai antara kita, adalah orang yang sebelum ini tidak berparti. Kami sertai kerana kami bersemangat untuk membawa budaya baru. Dan saya rasa budaya politik yang kita mahu bawa itu memang ada 'traction' dengan rakyat lah. Orang yang menyertai PKR masa itu adalah rakyat biasa.
 
 Anda tahu, kita perlu bermula dengan mengenali dan mengakui bahawa ada masalah. Itu kempen saya—bahawa PKR tidak boleh dalam penafian seolah-olah kita tidak ada masalah budaya sekarang. Semasa hari-hari reformasi, kita tiada pejabat, tiada jawatan kerajaan, dan tiada pengaruh. Jadi banyak yang berada dalam PKR awal-awal dulu ialah orang yang memang percaya kepada idealisme reformasi itu kerana anda perlu mengeluarkan duit sendiri dan berkorban. Tetapi sejak 2008, apabila kita menjadi kerajaan di Selangor, kuasa datang dengan 'perks'. Orang mendapat lantikan politik yang bergaji RM10,000. Sudah hampir 20 tahun sejak PKR pertama kali merasai kuasa pada 2008.
 
@@ -263,35 +263,35 @@ Saya tidak mempunyai data untuk menunjukkan betapa mendalamnya budaya ini dalam 
 
 **Moderator (Zaim Zulkifli):** Ia tidak boleh diubah langsung?
 
-**Rafizi Ramli:** Saya tidak tahu. Cuma saya tidak berada dalam posisi untuk mengubahnya.
+**Rafizi:** Saya tidak tahu. Cuma saya tidak berada dalam posisi untuk mengubahnya.
 
 **Moderator (Zaim Zulkifli):** Hanya kerana anda tidak mempunyai jawatan? Jika anda mempunyai jawatan, apa yang akan anda lakukan?
 
-**Rafizi Ramli:** Baiklah, jika saya mempunyai jawatan itu, kita pun tidak akan mengadakan perbualan ini kerana bagaimana mesej itu akan dijalankan. Tetapi mari kita tukar peranan: apa yang akan anda lakukan jika anda menjadi saya? Katakan saya presiden—atau presiden anda ialah Anwar Ibrahim—apa yang akan anda lakukan?
+**Rafizi:** Baiklah, jika saya mempunyai jawatan itu, kita pun tidak akan mengadakan perbualan ini kerana bagaimana mesej itu akan dijalankan. Tetapi mari kita tukar peranan: apa yang akan anda lakukan jika anda menjadi saya? Katakan saya presiden—atau presiden anda ialah Anwar Ibrahim—apa yang akan anda lakukan?
 
-**Moderator (Zaim Zulkifli):** Saya hanyalah seorang pelajar. Saya Zaim Zulkifli, bukan YB Rafizi Ramli. Ini hanya hipotesis. Tetapi kembali kepada apa yang anda katakan tentang pelan tindakan untuk menyemai penolakan terhadap rasuah: tidakkah anda fikir itu tidak boleh dicapai hanya dengan memberitahu orang supaya tidak korup? Ia seperti cikgu matematik lama saya, Lim Eng Chuan. Setiap kali dia mengajar, dia akan bertanya, "Adakah anda faham?" Jika kita mendefinisikan moraliti hanya dengan berceramah, tetapi kita tidak mempunyai pelan tindakan, pelan tindakan, atau sistem yang konkrit, ia tidak berkesan. Anda adalah pakar mekanisme.
+**Moderator (Zaim Zulkifli):** Saya hanyalah seorang pelajar. Saya Zaim Zulkifli, bukan YB Rafizi. Ini hanya hipotesis. Tetapi kembali kepada apa yang anda katakan tentang pelan tindakan untuk menyemai penolakan terhadap rasuah: tidakkah anda fikir itu tidak boleh dicapai hanya dengan memberitahu orang supaya tidak korup? Ia seperti cikgu matematik lama saya, Lim Eng Chuan. Setiap kali dia mengajar, dia akan bertanya, "Adakah anda faham?" Jika kita mendefinisikan moraliti hanya dengan berceramah, tetapi kita tidak mempunyai pelan tindakan, pelan tindakan, atau sistem yang konkrit, ia tidak berkesan. Anda adalah pakar mekanisme.
 
-**Rafizi Ramli:** Baiklah, biar saya tanya anda satu soalan. Lihat syarikat terbesar di dunia. Anda ada General Electric (GE), salah satu yang tertua, dan anda ada Nokia. Mereka tidak mampu bersaing dan mereka tumbang berbanding gergasi teknologi baru seperti Meta atau Amazon. Tidakkah anda fikir MNC ini, yang wujud selama beratus-ratus tahun dan lebih kaya daripada banyak negara—sepuluh kali ganda lebih kaya daripada Malaysia—mempunyai pelan tindakan? Pelan tindakan mereka sangat cemerlang. Habis, kenapa mereka tumbang?
+**Rafizi:** Baiklah, biar saya tanya anda satu soalan. Lihat syarikat terbesar di dunia. Anda ada General Electric (GE), salah satu yang tertua, dan anda ada Nokia. Mereka tidak mampu bersaing dan mereka tumbang berbanding gergasi teknologi baru seperti Meta atau Amazon. Tidakkah anda fikir MNC ini, yang wujud selama beratus-ratus tahun dan lebih kaya daripada banyak negara—sepuluh kali ganda lebih kaya daripada Malaysia—mempunyai pelan tindakan? Pelan tindakan mereka sangat cemerlang. Habis, kenapa mereka tumbang?
 
 Saya tidak tidak bersetuju bahawa anda perlu mempunyai pelan tindakan dan sebagainya, tetapi bagi saya, pelan tindakan adalah hasil sampingan daripada budaya dan kepimpinan. Jika kepimpinan dalam PKR sudah berkelakuan begitu, pelan tindakan apa yang anda mahu letakkan? Kepimpinan itu sendiri adalah pengesahan budaya itu. Jika anda tidak berhati-hati, mana-mana pelan tindakan atau sistem yang anda perkenalkan hanya akan digunakan untuk mengukuhkan budaya korup itu. Jadi, kepada soalan anda apa yang perlu dilakukan...
 
 **Moderator (Zaim Zulkifli):** Jadi kita hanya berserah kepada Allah? Sami'na wa ata'na?
 
-**Rafizi Ramli:** Tiada *sami'na*. Anda mungkin *sami'na wa ata'na*, tetapi saya tidak. Jika saya begitu, saya tidak akan melakukan podcast.
+**Rafizi:** Tiada *sami'na*. Anda mungkin *sami'na wa ata'na*, tetapi saya tidak. Jika saya begitu, saya tidak akan melakukan podcast.
 
 Apa yang saya maksudkan ialah ini: kita tidak mempunyai kuasa luar biasa untuk mengubah segala-galanya. Apabila anda seorang aktivis pelajar, adakah anda benar-benar fikir anda boleh mengubah negara dalam sekelip mata?
 
 **Moderator (Zaim Zulkifli):** Seperti yang anda katakan, segala-galanya bermula dengan harapan, dan daripada situ kita...
 
-**Rafizi Ramli:** Tidak, apakah objektif anda pada usia anda? Sebelum saya jawab, beritahu saya: apabila anda mencabar seseorang untuk berdebat, apakah objektif anda? Adakah anda fikir ia akan memberi impak yang besar?
+**Rafizi:** Tidak, apakah objektif anda pada usia anda? Sebelum saya jawab, beritahu saya: apabila anda mencabar seseorang untuk berdebat, apakah objektif anda? Adakah anda fikir ia akan memberi impak yang besar?
 
 **Moderator (Zaim Zulkifli):** Tidak semua impak perlu besar untuk mencipta perubahan.
 
-**Rafizi Ramli:** Tetapi dalam ekonomi, mengapa perlu membazir masa jika ia tidak membawa perubahan? Anda lebih baik melakukan perkara lain.
+**Rafizi:** Tetapi dalam ekonomi, mengapa perlu membazir masa jika ia tidak membawa perubahan? Anda lebih baik melakukan perkara lain.
 
 **Penemubual (Zaim Zulkifli):** Saya tidak fikir setiap perubahan perlu menjadi sesuatu yang besar untuk berjaya. Mungkin kita berfikir terlalu besar.
 
-**Rafizi Ramli:** Ia berbalik kepada persoalan impak. Itulah yang membezakan saya dengan orang lain. Saya tidak pernah merancang untuk menyelamatkan negara, mengubah segala-galanya, atau menjadi wira atau jeneral. Saya hanya mahu menjalani kehidupan yang bermakna. Kehidupan yang bermakna bermaksud memberi impak, dan impak itu bergantung kepada banyak perkara di luar kawalan saya.
+**Rafizi:** Ia berbalik kepada persoalan impak. Itulah yang membezakan saya dengan orang lain. Saya tidak pernah merancang untuk menyelamatkan negara, mengubah segala-galanya, atau menjadi wira atau jeneral. Saya hanya mahu menjalani kehidupan yang bermakna. Kehidupan yang bermakna bermaksud memberi impak, dan impak itu bergantung kepada banyak perkara di luar kawalan saya.
 
 Contohnya kalau dalam PKR sekarang, ia sudah di luar kawalan dan pengaruh saya, kan? Jika saya hanya mempunyai dua belas jam sehari, serta tenaga dan wang yang terhad, dan saya tahu saya tidak akan membawa impak, mengapa perlu bersusah payah? Saya lebih rela pergi dan melakukan sesuatu yang lain. Walaupun orang lain berfikir, "Oh, Rafizi tidak lagi popular, dia sudah pudar," saya mendefinisikan objektif saya dengan sama ada saya membawa impak kepada orang ramai atau tidak.
 
@@ -299,25 +299,25 @@ Sama juga di dalam kabinet: anda perlu membawa impak, tetapi anda perlu menjadi 
 
 **Penemubual (Zaim Zulkifli):** Apa?
 
-**Rafizi Ramli:** Anda akan menjadi sangat kecewa (bitter).
+**Rafizi:** Anda akan menjadi sangat kecewa (bitter).
 
 **Penemubual (Zaim Zulkifli):** Betulkah?
 
-**Rafizi Ramli:** Ya. Saya sudah tua. Saya telah melihat ratusan aktivis muda melalui perkara ini. Apabila anda sedar anda tidak membawa impak sedangkan orang lain berjaya, anda mula mempersoalkan mengapa anda perlu bersusah payah. Anda sama ada menyertai mereka dan menjadi seperti mereka, atau anda pergi, berkahwin, mencari wang, dan menjalani kehidupan anda. Lihat sahaja pemimpin pelajar dari era Fahmi Zainol.
+**Rafizi:** Ya. Saya sudah tua. Saya telah melihat ratusan aktivis muda melalui perkara ini. Apabila anda sedar anda tidak membawa impak sedangkan orang lain berjaya, anda mula mempersoalkan mengapa anda perlu bersusah payah. Anda sama ada menyertai mereka dan menjadi seperti mereka, atau anda pergi, berkahwin, mencari wang, dan menjalani kehidupan anda. Lihat sahaja pemimpin pelajar dari era Fahmi Zainol.
 
 **Penemubual (Zaim Zulkifli):** Adakah ini era Fahmi Zainol?
 
-**Rafizi Ramli:** Tidak, dia lebih tua. Saya ingat kerana sekali-sekala, saya duduk dan membimbing beberapa pemimpin pelajar. Anda bukan Superman. Anda tidak mempunyai tenaga, idealisme, atau wang yang tidak terhad. Jadi, apakah soalan anda tadi?
+**Rafizi:** Tidak, dia lebih tua. Saya ingat kerana sekali-sekala, saya duduk dan membimbing beberapa pemimpin pelajar. Anda bukan Superman. Anda tidak mempunyai tenaga, idealisme, atau wang yang tidak terhad. Jadi, apakah soalan anda tadi?
 
 **Penemubual (Zaim Zulkifli):** Kita sedang bercakap tentang pelan tindakan (blueprint), budaya, dan impak.
 
-**Rafizi Ramli:** Saya katakan bahawa memandangkan parti sudah di luar kawalan dan lingkungan pengaruh saya, tiada pelan tindakan saya yang akan berhasil. Anda kata walaupun impak yang kecil pun tidak mengapa, tetapi saya bersetuju dengan analogi menyiram tanaman: jika anda mempunyai air yang terhad, lebih baik curahkannya pada tanaman yang benar-benar boleh tumbuh. Apa gunanya mencurahkannya pada daun kering yang tidak memberikan sebarang impak?
+**Rafizi:** Saya katakan bahawa memandangkan parti sudah di luar kawalan dan lingkungan pengaruh saya, tiada pelan tindakan saya yang akan berhasil. Anda kata walaupun impak yang kecil pun tidak mengapa, tetapi saya bersetuju dengan analogi menyiram tanaman: jika anda mempunyai air yang terhad, lebih baik curahkannya pada tanaman yang benar-benar boleh tumbuh. Apa gunanya mencurahkannya pada daun kering yang tidak memberikan sebarang impak?
 
 Itulah yang orang tidak faham tentang pandangan saya terhadap parti. Kalau contohnya satu, sudah tidak ada keserasian, dan ia sangat berbeza daripada apa yang saya persetujui pada awalnya; keduanya, jika saya tidak lagi mempunyai sebarang pengaruh, saya tidak mahu menjadi sebahagian daripadanya; dan ketiganya, hanya kerana saya seorang ahli politik, tidak bermakna saya hanya mempunyai satu jalan. Saya ada banyak. Saya lebih rela menghabiskan masa saya membuat impak yang lebih kecil tetapi lebih bermakna kepada orang ramai melalui IU Malaysia atau perusahaan sosial. Baik aku lepak dengan korang, ketuk kepala korang, korang mungkin jadi jauh lebih baik daripada mereka yang sedang berkuasa sekarang, daripada menghabiskan masa saya bertemu pemimpin AMK yang pun tidak menganuti prinsip-prinsip ini. Betul tak?
 
 **Penemubual (Zaim Zulkifli):** Setuju.
 
-**Rafizi Ramli:** Setuju?
+**Rafizi:** Setuju?
 
 **Penemubual (Zaim Zulkifli):** Setuju. Ini perbincangan yang sangat menarik. Adakah kita sudah melalui semua soalan yang kita sediakan?
 
@@ -325,11 +325,11 @@ Itulah yang orang tidak faham tentang pandangan saya terhadap parti. Kalau conto
 
 **Penemubual:** 2004.
 
-**Rafizi Ramli:** Jadi, berapa umur anda sekarang?
+**Rafizi:** Jadi, berapa umur anda sekarang?
 
 **Penemubual:** 21, tetapi belum sampai hari jadi saya.
 
-**Rafizi Ramli:** 21. Itu membuatkan saya berasa sangat tua. Anda benar-benar boleh menjadi anak saya.
+**Rafizi:** 21. Itu membuatkan saya berasa sangat tua. Anda benar-benar boleh menjadi anak saya.
 
 Tetapi ya, budaya sememangnya boleh diubah melalui pendidikan; 100% daripadanya adalah pendidikan. Sebab itu saya selalu memarahi Fadhlina. Semuanya bermula di situ. Anda tidak boleh mengajar murid sekolah rendah untuk membenci rasuah dengan menggunakan istilah kompleks yang mereka tidak faham. Tapi, kultur itu contohnya, anda ajar mereka sejak awal bahawa terdapat model kejayaan yang berbeza. Contohnya, lebih baik hidup jadi orang biasa tapi hidup dengan beramanah, yang jaga orang, kita ada prinsip, daripada dia jadi menteri tapi dia rompak ke kanan dan ke kiri.
 
@@ -341,41 +341,41 @@ Apabila saya kembali untuk membimbing pelajar sekolah berasrama bertahun-tahun k
 
 **Penemubual (Zaim Zulkifli):** Jadi, anda sepatutnya menjadi Menteri Pendidikan.
 
-**Rafizi Ramli:** Sebenarnya, jika diberi peluang, saya tidak keberatan menjadi Menteri Pendidikan, walaupun sesetengah orang mungkin tidak suka pendekatan saya. Dan insya-Allah, aku tak akan diingati hanya dengan kasut hitam. Dalam jangka masa panjang, Kementerian Pendidikan adalah portfolio yang paling penting. Saya mengambil portfolio Kementerian Ekonomi atas dasar keperluan kerana kita perlu menayangkan naratif ekonomi yang kompeten untuk menstabilkan dan meyakinkan pasaran. Tetapi anda tidak boleh membaiki ekonomi jika anda tidak membaiki sistem pendidikan.
+**Rafizi:** Sebenarnya, jika diberi peluang, saya tidak keberatan menjadi Menteri Pendidikan, walaupun sesetengah orang mungkin tidak suka pendekatan saya. Dan insya-Allah, aku tak akan diingati hanya dengan kasut hitam. Dalam jangka masa panjang, Kementerian Pendidikan adalah portfolio yang paling penting. Saya mengambil portfolio Kementerian Ekonomi atas dasar keperluan kerana kita perlu menayangkan naratif ekonomi yang kompeten untuk menstabilkan dan meyakinkan pasaran. Tetapi anda tidak boleh membaiki ekonomi jika anda tidak membaiki sistem pendidikan.
 
 **Penemubual (Zaim Zulkifli):** Itu membawa kita kepada budaya buli. Dalam PKR, budaya pemujaan personaliti (personality cult) ini sering dibandingkan dengan tokoh-tokoh autoritarian. Anda sering menggunakan nama Stalin, yang dikenali dengan pemujaan personalitinya. Dalam PKR, kita ada Anwar Ibrahim, kita ada Azmin Ali. Kediktatoran terbina di sekitar pemujaan personaliti—Tito, Mao Zedong, Stalin.
 
-**Rafizi Ramli:** Betul, semua nama itu lah.
+**Rafizi:** Betul, semua nama itu lah.
 
 **Penemubual (Zaim Zulkifli):** Dan yang terbaru adalah Kamil, yang perlu kita sebutkan.
 
-**Rafizi Ramli:** Anda tidak boleh membandingkan Kamil dengan Stalin. Stalin adalah tokoh sejarah yang jauh lebih signifikan.
+**Rafizi:** Anda tidak boleh membandingkan Kamil dengan Stalin. Stalin adalah tokoh sejarah yang jauh lebih signifikan.
 
 **Penemubual (Zaim Zulkifli):** Benar, mereka tidak berada pada tahap yang sama. Tetapi ada budaya membodek yang mencipta tanggapan tertentu, di mana seseorang seperti Kamil sangat disanjungi di dalam parti.
 
-**Rafizi Ramli:** Adakah anda ahli PKR?
+**Rafizi:** Adakah anda ahli PKR?
 
 **Penemubual (Zaim Zulkifli):** Tidak, tetapi sebagai pelajar sains politik, saya perlu mengkaji perkara-perkara ini.
 
-**Rafizi Ramli:** Adakah anda menulis tesis tentang Kamil?
+**Rafizi:** Adakah anda menulis tesis tentang Kamil?
 
 **Penemubual (Zaim Zulkifli):** Tesis saya adalah mengenai populisme, jadi nama-nama seperti beliau secara semula jadi muncul.
 
-**Rafizi Ramli:** Saya tidak akan mengesyorkan anda membazir masa menulis tesis tentang Kamil.
+**Rafizi:** Saya tidak akan mengesyorkan anda membazir masa menulis tesis tentang Kamil.
 
 **Penemubual (Zaim Zulkifli):** Pemujaan personaliti ini lahir daripada budaya membodek. Bagaimana anda melihat perkara ini dalam PKR hari ini? Adakah benar-benar tiada apa yang boleh dilakukan mengenainya?
 
-**Rafizi Ramli:** Saya bersetuju dengan anda mengenai pemujaan personaliti. Sejak saya menyertai PKR sekitar umur anda, pada usia 21 tahun, sentiasa ada watak-watak seperti ini. Pada zaman saya, kami ada Chegubard dan Shamsul Iskandar. Chegubard menggayakan dirinya mengikut gaya Sukarno dan Che Guevara—begitulah cara dia mendapat nama "Chegubard". Adakah anda tahu itu?
+**Rafizi:** Saya bersetuju dengan anda mengenai pemujaan personaliti. Sejak saya menyertai PKR sekitar umur anda, pada usia 21 tahun, sentiasa ada watak-watak seperti ini. Pada zaman saya, kami ada Chegubard dan Shamsul Iskandar. Chegubard menggayakan dirinya mengikut gaya Sukarno dan Che Guevara—begitulah cara dia mendapat nama "Chegubard". Adakah anda tahu itu?
 
 **Penemubual (Zaim Zulkifli):** Tidak, saya tidak tahu.
 
-**Rafizi Ramli:** Ya, dia melihat dirinya sebagai seorang revolusioner. Tetapi saya tidak fikir dia pernah benar-benar membaca buku Che Guevara. Jika anda bertanya kepadanya sekarang, dia mungkin boleh menceritakan kehidupan Che Guevara, tetapi di sebalik gambar yang terkenal itu, dia mungkin tidak tahu banyak. Jika saya adalah Che Guevara, saya pun tidak mahu dikaitkan dengannya, kerana Che Guevara akhirnya ditembak di dalam hutan selepas benar-benar diperdaya dalam politik oleh Fidel Castro.
+**Rafizi:** Ya, dia melihat dirinya sebagai seorang revolusioner. Tetapi saya tidak fikir dia pernah benar-benar membaca buku Che Guevara. Jika anda bertanya kepadanya sekarang, dia mungkin boleh menceritakan kehidupan Che Guevara, tetapi di sebalik gambar yang terkenal itu, dia mungkin tidak tahu banyak. Jika saya adalah Che Guevara, saya pun tidak mahu dikaitkan dengannya, kerana Che Guevara akhirnya ditembak di dalam hutan selepas benar-benar diperdaya dalam politik oleh Fidel Castro.
 
 Tetapi kembali kepada poin anda: apabila orang muda masuk ke dalam politik dengan idealisme yang mentah, sangat mudah untuk hidup dalam gelembung. Gelembung itu membuatkan anda berasa seperti anda berada di puncak dunia. Saya tidak mahu hanya mengkritik Kamil; saya mahu menyerlahkan perangkap ahli politik muda. Apa gunanya belajar sains politik jika anda tidak terjun ke lapangan?
 
 **Penemubual (Zaim Zulkifli):** Saya mahu bekerja sebagai penganalisis dalam hubungan pelabur korporat.
 
-**Rafizi Ramli:** Ya, di situlah pasaran sekarang. Tetapi perangkap dalam politik adalah begini: bayangkan anda berusia 21 atau 22 tahun. Rakan sebaya anda di universiti, sedang bercinta, dan menjalani kehidupan biasa, sementara anda sudah bertemu menteri dan berjalan di lorong parlimen. Jika anda tidak berhati-hati, anda akan mula percaya bahawa anda seorang manusia yang hebat. Anda melihat gambar Che Guevara dan fikir anda adalah dia. Sangat mudah untuk menarik perhatian rakan sebaya anda kerana mereka bukan pakar politik.
+**Rafizi:** Ya, di situlah pasaran sekarang. Tetapi perangkap dalam politik adalah begini: bayangkan anda berusia 21 atau 22 tahun. Rakan sebaya anda di universiti, sedang bercinta, dan menjalani kehidupan biasa, sementara anda sudah bertemu menteri dan berjalan di lorong parlimen. Jika anda tidak berhati-hati, anda akan mula percaya bahawa anda seorang manusia yang hebat. Anda melihat gambar Che Guevara dan fikir anda adalah dia. Sangat mudah untuk menarik perhatian rakan sebaya anda kerana mereka bukan pakar politik.
 
 Apa yang lebih berbahaya adalah apabila anda diberikan akses kepada wang pada usia muda. Dengan sumber kewangan, sangat mudah untuk menjadikan rakan sebaya anda yang tidak stabil dari segi kewangan bergantung kepada anda. Begitulah cara pemujaan personaliti dibina. Itulah cabaran dengan Kamil. Anda ambil seorang lelaki dari Padang Rengas dan tiba-tiba, entah dari mana, dia dilayan seperti institusi politik utama. Dia mendapat akses kepada sumber kewangan daripada Kementerian Kewangan yang menteri seperti saya pun tidak dapat pada usianya. Orang muda yang tidak stabil dari segi kewangan akan tertarik kepada sumber itu, dan selebihnya adalah sejarah. Ia adalah pembaziran potensi.
 
@@ -385,11 +385,11 @@ Saya sering dikritik oleh ahli AMK yang mendakwa saya sombong atau bukan pemain 
 
 **Penemubual (Zaim Zulkifli):** Jadi kita tak boleh sertai PKR?
 
-**Rafizi Ramli:** Saya tidak boleh menjawabnya, tetapi mari kita asingkan pelajar supaya kita boleh buat TikTok nanti. Pelajar perlu sertai siaran langsung (live). Jika anda membantah terlalu banyak, saya akan keluarkan TikTok anda.
+**Rafizi:** Saya tidak boleh menjawabnya, tetapi mari kita asingkan pelajar supaya kita boleh buat TikTok nanti. Pelajar perlu sertai siaran langsung (live). Jika anda membantah terlalu banyak, saya akan keluarkan TikTok anda.
 
 **Penemubual (Zaim Zulkifli):** Kita telah menyebut banyak nama: Nurul Izzah, Kamil, Anwar, Samsul. Tetapi ada satu lagi nama yang kini hangat diperkatakan, seseorang dari Sabah yang kenyataan terbarunya telah menimbulkan banyak kebimbangan. Namanya Farhash. Dia sangat terkenal, dan kini dia berada dalam fasa pemberi maklumat (whistleblower), mendakwa terdapat ketidakteraturan mengenai kontrak penerokaan minyak dan gas tertentu. Anda pernah berkata bahawa di mana ada asap, di situ ada api. Apakah pandangan anda mengenai dakwaan ini?
 
-**Rafizi Ramli:** Saya belum melihat semua perincian lagi, tetapi saya telah membaca laporan-laporannya. Kita tahu landskapnya. Secara peribadinya, saya tidak begitu menyukai *Malaysia Now* kerana kita tahu ia bermotifkan politik dan mempunyai hubungan dengan Azmin Ali. Tetapi apabila melibatkan Farhash, anda tidak boleh sekadar menyalahkan pembawa mesej. Dakwaan dalam *Malaysia Now* disokong oleh dokumen.
+**Rafizi:** Saya belum melihat semua perincian lagi, tetapi saya telah membaca laporan-laporannya. Kita tahu landskapnya. Secara peribadinya, saya tidak begitu menyukai *Malaysia Now* kerana kita tahu ia bermotifkan politik dan mempunyai hubungan dengan Azmin Ali. Tetapi apabila melibatkan Farhash, anda tidak boleh sekadar menyalahkan pembawa mesej. Dakwaan dalam *Malaysia Now* disokong oleh dokumen.
 
 Ini bukan kali pertama nama Farhash timbul. Sejak Anwar Ibrahim menjadi PM, nama Farhash secara konsisten timbul. Saya membaca laporan daripada perhimpunan MOF beberapa hari lalu di mana Anwar berkata isu ini digunakan sebagai modal politik oleh pembangkang, menjadikannya seolah-olah mereka tidak menyokong usaha antirasuah beliau.
 
@@ -399,7 +399,7 @@ Ini adalah pil pahit yang orang lain mungkin tidak akan katakan kepada Anwar, te
 
 **Penemubual:** Bukan orang tidak menyokong usaha Banteras Rasuah; untuk keluarga Daim, jika ada kes, bawa semuanya. Masalahnya, dan saya fikir bagi rakyat, ia bagus—itu tugas anda, teruskan lakukannya. Tetapi masalahnya, jika kerajaan gabungan, terutamanya PKR-PH, kalau kekuatan kita selama ini dikenali sebagai anti-rasuah, tapi pada masa yang sama ada tokoh-tokoh yang dikaitkan dengan rasuah besar. Jadi apapun yang pentadbiran sekarang ni buat, dia tak akan mendapat orang kata sorakan yang besar lah. Kerana orang akan kata, "Yelah, kau pun sama saja." Jadi sebab itu, saya fikir kita sudah tidak boleh nak tutup bangkai gajah ini lah. Cerita Farhash ni—
 
-**Rafizi Ramli:** Farhash ni saya ingat lepas ini akan terus ada dokumen baru, tuduhan baru, akan jadi skandal dan dia akan terus mengheret Dato' Sri Anwar. Jadi kalau Dato' Sri Anwar rasa cukup dengan hanya menguruskan soal persepsi—ini menguruskan persepsi kan—orang yang dilihat cukup rapat dan berpengaruh dengannya akan menjadi liabiliti besar kepada kerajaan. Dan ini bukan benda baru. Kalau saya bekas menteri, duduk di Putrajaya, orang datang berjumpa, sama ada pegawai kerajaan atau orang korporat atau ahli perniagaan, ayatnya sama sahaja tentang Farhash.
+**Rafizi:** Farhash ni saya ingat lepas ini akan terus ada dokumen baru, tuduhan baru, akan jadi skandal dan dia akan terus mengheret Dato' Sri Anwar. Jadi kalau Dato' Sri Anwar rasa cukup dengan hanya menguruskan soal persepsi—ini menguruskan persepsi kan—orang yang dilihat cukup rapat dan berpengaruh dengannya akan menjadi liabiliti besar kepada kerajaan. Dan ini bukan benda baru. Kalau saya bekas menteri, duduk di Putrajaya, orang datang berjumpa, sama ada pegawai kerajaan atau orang korporat atau ahli perniagaan, ayatnya sama sahaja tentang Farhash.
 
 Maksud saya, pengaruh Farhash, walaupun Dato' Sri Anwar membuat kenyataan bahawa dia tidak ada kaitan dengannya, dia hanya bekas pegawai saya dan sebagainya, nampaknya persepsi dan juga pandangan pihak berkepentingan—orang yang bertanggungjawab dalam kerajaan dan sebagainya—memang mereka rasa Farhash mempunyai pengaruh yang besar. Dalam kes Farhash, dia bukan ahli politik, bukan anggota pentadbiran, bukan apa-apa. Satu-satunya titik itu ialah dikaitkan dengan Dato' Sri Anwar Ibrahim. Kan? Jadi dalam PKR ini bukan benda baru. Dalam PKR, memang inilah sebenarnya yang selalu menjadi pertembungan mengenai tokoh-tokoh ataupun orang-orang yang berada di sekeliling puncak kuasa itu yang berada dan dilihat rapat dengan Dato' Sri Anwar yang kita bimbang akan menjadi beban berat kepada PKR dan juga PH secara lanjutan lah. Bukan saya seorang yang cakap. Izzah pun cakap macam itu juga, cuma Izzah cakap belakang lah. Aku cakap depan terus.
 
@@ -411,11 +411,11 @@ So that is one major issue yang you know, I’m telling you, aku bukan ada apa-a
 
 **Penemubual:** Terus terdiam tak? Haa... Kau ingat aku tak berani nak cakap?
 
-**Rafizi Ramli:** Saya faham je, lagi-lagi melibatkan orang Kuala ni memang banyak tu lah masalah. Tak tahu nak cakap apa sebenarnya. Kesian orang Kuala Kangsar.
+**Rafizi:** Saya faham je, lagi-lagi melibatkan orang Kuala ni memang banyak tu lah masalah. Tak tahu nak cakap apa sebenarnya. Kesian orang Kuala Kangsar.
 
 **Penemubual:** Kenapa kau obses dengan Kuala Kangsar? Tadi cakap tentang Kamil, orang Kuala, sekarang cakap pasal Farhash, orang Kuala. Ni semua memang salah Kuala dah tu, ada sesuatu lah ni.
 
-**Rafizi Ramli:** YB, okay. Since dah tak ada pasal benda tu, cuma tadi kita dah sentuh banyak reform lah. Cuma saya rasa ada satu perkara berkaitan dengan reformasi ekonomi yang orang tanya lah, dengan pengumuman yang baru-baru ini berkaitan dengan bagi RM100 tapi Vincent Tan pun dapat. Kita nak kalahkan EV tapi RON95 pula dia turunkan. Orang tertanya-tanya, adakah kita ni memberi mesej yang salah dalam reformasi ekonomi?
+**Rafizi:** YB, okay. Since dah tak ada pasal benda tu, cuma tadi kita dah sentuh banyak reform lah. Cuma saya rasa ada satu perkara berkaitan dengan reformasi ekonomi yang orang tanya lah, dengan pengumuman yang baru-baru ini berkaitan dengan bagi RM100 tapi Vincent Tan pun dapat. Kita nak kalahkan EV tapi RON95 pula dia turunkan. Orang tertanya-tanya, adakah kita ni memberi mesej yang salah dalam reformasi ekonomi?
 
 **Penemubual:** Yelah, saya fikir kalau orang nak persoal kata apa nama ni... Ini tak betul dan sebagainya tu... Yelah... Bagi keluarga yang betul-betul memerlukan, dia ada kesan lah. Kalau dia dah dapat SARA sekarang 100, 200 sebulan, dia akan dapat 200, at least adalah tambahan kan. Sama juga pasal minyak turun, siapa yang tak suka? So, kepada rakyat, saya tidak fikir anda boleh mengharapkan respons yang seragam. Masing-masing ada pandangan sendiri. Jika golongan pertengahan, pendapatan mereka sedikit tinggi, mereka membayar faedah (interest), kan? Dia mungkin ada pandangan bahawa ini adalah poket kiri yang diberikan kepada poket kanan. Jadi mungkin harapan beliau sebenarnya adalah untuk kerajaan bertindak lebih baik dari segi perbelanjaan supaya faedah yang dia ambil adalah kurang. Mungkin dia lebih suka itu daripada mendapat 100, kan? Jadi, pandangan akan bercampur-campur. Itu adalah hak rakyat.
 
@@ -439,24 +439,24 @@ Ia bermakna jika kerajaan memberi keutamaan kepada sokongan rakyat dan popularit
 
 **Penemubual:** So, *backfire* boleh.
 
-**Rafizi Ramli:** Betul. Itu kau cakap lah. So, semua ini benda yang tak pasti. Dia dinamik. Dia bergantung kepada situasi ekonomi di dunia yang tidak berada di bawah kawalan kita. So peraturan saya sentiasa: saya akan mengawal apa yang berada dalam kawalan saya kerana saya tahu ada perkara yang saya tidak boleh kawal. Dan pengurusan risiko bermaksud anda cuba sedaya upaya untuk menguruskan apa yang dalam kawalan, supaya jika ada perkara yang tidak berada dalam kawalan anda yang merugikan anda, sekurang-kurangnya anda sudah bersedia. Sekarang ini kita tidak ada kemampuan itulah.
+**Rafizi:** Betul. Itu kau cakap lah. So, semua ini benda yang tak pasti. Dia dinamik. Dia bergantung kepada situasi ekonomi di dunia yang tidak berada di bawah kawalan kita. So peraturan saya sentiasa: saya akan mengawal apa yang berada dalam kawalan saya kerana saya tahu ada perkara yang saya tidak boleh kawal. Dan pengurusan risiko bermaksud anda cuba sedaya upaya untuk menguruskan apa yang dalam kawalan, supaya jika ada perkara yang tidak berada dalam kawalan anda yang merugikan anda, sekurang-kurangnya anda sudah bersedia. Sekarang ini kita tidak ada kemampuan itulah.
 
 **Penemubual:** Jangan nampak macam anda bimbang. Ini bukan masalah anda. Lain cerita kalau anda Menteri Kewangan Kedua atau apa. Sebagai rakyat Malaysia yang prihatin, ia bukan—Zahim, apa ni? Ia masalah kita. Ya, dia komited dengan politik Menteri Kewangan. Sebahagiannya adalah masalah kita untuk jelaskan kemudian. Kenapa anda sangat sukakan Kamil?
 
-**Rafizi Ramli:** Sebab dia orang Kuala.
+**Rafizi:** Sebab dia orang Kuala.
 
 **Penemubual:** Oh, sebab dia orang Kuala. So, kau akan kahwin dengan orang Kuala? Ya. Ada pesanan terakhir?
 
-**Rafizi Ramli:** Pesanan... Siapa yang anda maksudkan? Mungkin kita boleh bercakap sedikit tentang... Anda tidak bertanya kepada saya sama ada saya akan turun pada 2.6 PM [29 Jun] atau tidak?
+**Rafizi:** Pesanan... Siapa yang anda maksudkan? Mungkin kita boleh bercakap sedikit tentang... Anda tidak bertanya kepada saya sama ada saya akan turun pada 2.6 PM [29 Jun] atau tidak?
 
 **Penemubual:** Kenapa anda hendak turun?
 
-**Rafizi Ramli:** Kerana tadi di Parlimen, Dato’ Sri Shahidan dengan Dato' Sri Ismail Sabri lah kan, semalam kat Parlimen. So dia datang dan duduk di depan saya di Parlimen baru. Dia datang dan berhenti dan berkata hai. So dia kata, "Saya jumpa awak pada 2.6 PM." Saya macam, apa yang kita buat pada 2.6 PM? Saya membebel. So kemudian mereka kata, jika anda turun, ia akan menjadi berita dunia. Ramai orang akan menontonnya. Kemudian saya sedar, oh, satu perhimpunan. Saya tak pergi turun. Saya berpindah keluar. Saya terpaksa mengemas rumah.
+**Rafizi:** Kerana tadi di Parlimen, Dato’ Sri Shahidan dengan Dato' Sri Ismail Sabri lah kan, semalam kat Parlimen. So dia datang dan duduk di depan saya di Parlimen baru. Dia datang dan berhenti dan berkata hai. So dia kata, "Saya jumpa awak pada 2.6 PM." Saya macam, apa yang kita buat pada 2.6 PM? Saya membebel. So kemudian mereka kata, jika anda turun, ia akan menjadi berita dunia. Ramai orang akan menontonnya. Kemudian saya sedar, oh, satu perhimpunan. Saya tak pergi turun. Saya berpindah keluar. Saya terpaksa mengemas rumah.
 
 **Penemubual:** Tetapi jika YB turun, pastikan anda bawa satu salinan [songkok]. Supaya bila anda bercakap, anda boleh melihat imej itu. Itu yang Wan Fayhsal lakukan.
 
-**Rafizi Ramli:** Saya tidak melakukannya. Saya fikir ia popular pada masa lalu. Saya pernah memakai salinannya di mana-mana. Walaupun pada masa itu, orang... Ya, tetapi pada masa itu, orang membuat saya lebih banyak lagi.
+**Rafizi:** Saya tidak melakukannya. Saya fikir ia popular pada masa lalu. Saya pernah memakai salinannya di mana-mana. Walaupun pada masa itu, orang... Ya, tetapi pada masa itu, orang membuat saya lebih banyak lagi.
 
 **Penemubual:** Baiklah, baiklah, baiklah. Okay, dah boleh balik lah. Dua jam lebih kot ni. Yelah korang takut nak tunggu ni esok. Okay, itu saja daripada kami sehingga kita berjumpa lagi. So, Zahim, take care. Ya. Terima kasih kepada YB, saudara-saudara kita. Apa pula cakap take care kepada Zahim? Gila tak ganas. Kata sekretariat rakyat benci rasuah tapi gila tak... Sorry lah. Take care. Ayat betul dia "Salam Perjuangan."
 
-**Rafizi Ramli:** Oh, salam perjuangan. Menolak lupa. Itu saja. Bye-bye. Jumpa lagi minggu depan. Assalamualaikum.
+**Rafizi:** Oh, salam perjuangan. Menolak lupa. Itu saja. Bye-bye. Jumpa lagi minggu depan. Assalamualaikum.

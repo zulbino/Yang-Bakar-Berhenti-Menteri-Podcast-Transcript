@@ -16,7 +16,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [music/intro]
 
-[00:02] Speaker 1: Episod 42, podcast yang Menteri. Assalamualaikum dan salam sejahtera. Macam biasa bersama saudara Rafizi Ramli dan yang tak biasa bersama saudara Zikri, how are you?
+[00:02] Speaker 1: Episod 42, podcast yang Menteri. Assalamualaikum dan salam sejahtera. Macam biasa bersama saudara Rafizi dan yang tak biasa bersama saudara Zikri, how are you?
 
 [00:12] Speaker 2: Kau kena perkenalkan Zikri orang tak tahu, dia ni yang selalu cari pasal dengan orang ni. Oh.
 

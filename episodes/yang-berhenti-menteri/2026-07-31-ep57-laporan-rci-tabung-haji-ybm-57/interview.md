@@ -8,7 +8,7 @@ duration_seconds: 12623
 duration: 3h 30m
 view_count: 483215
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Haziq
 - Pa'an
@@ -19,7 +19,7 @@ topics:
 - Investment Failures & Impairments
 - Hajj Subsidies & Long-term Fund Sustainability
 - Malaysian Political Developments
-summary: In this episode of the Yang Berkhidmat podcast, Rafizi Ramli provides a detailed
+summary: In this episode of the Yang Berkhidmat podcast, Rafizi provides a detailed
   breakdown of the Royal Commission of Inquiry (RCI) report on Tabung Haji alongside
   brief commentary on current political developments. He explains past accounting
   manipulations, unsustainable hibah dividend payouts, negative financial reserves,
@@ -37,45 +37,45 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Welcome to Episode 57 of the *Yang Berkhidmat* podcast. Tonight we have a slightly different setup, YB. You have a massive calculator and a thick stack of notes on your desk. What should viewers expect from tonight's session?
 
-**Rafizi Ramli:** Tonight is meant for viewers who want to exercise their minds. If anyone is looking for superficial comments like the ones on TikTok, this session might not be for them. Typically, when a topic becomes data-heavy or technical, partisans from all sides react predictably: PAS supporters comment that I am irrelevant, Barisan Nasional or UMNO supporters ask if I miss Anwar Ibrahim, and PKR or Pakatan Harapan supporters tell me not to sulk. 
+**Rafizi:** Tonight is meant for viewers who want to exercise their minds. If anyone is looking for superficial comments like the ones on TikTok, this session might not be for them. Typically, when a topic becomes data-heavy or technical, partisans from all sides react predictably: PAS supporters comment that I am irrelevant, Barisan Nasional or UMNO supporters ask if I miss Anwar Ibrahim, and PKR or Pakatan Harapan supporters tell me not to sulk. 
 
 This session is for serious analysis. It is the first time I have brought a calculator to the studio. I also brought my reference notes—recycled paper cut into A5 size—and my reading glasses, because we will be scrutinizing official documents in detail.
 
 **Haziq:** Let us start with a brief review of current political developments during this election season before diving into the Royal Commission of Inquiry (RCI) report on Tabung Haji. First, we have seen various campaign antics from candidates across coalitions, from Perikatan Nasional to Pakatan Harapan—such as candidates breaking down in tears over missing their children while on the trail. However, public reception seems quite cynical.
 
-**Rafizi Ramli:** It comes across as overly theatrical.
+**Rafizi:** It comes across as overly theatrical.
 
 **Haziq:** Second, regarding campaigning styles, the UMNO candidate for DUN Lenggeng, Haji Asna, was caught on camera telling voters that if they do not explicitly state who they are voting for, it means they are voting for the opposition. You have previously advised against pressuring voters who prefer not to disclose their choices.
 
-**Rafizi Ramli:** Since UMNO lost in 2018—except for the 33 months after the backdoor government was formed in 2020—public attention naturally focused on whichever coalition was in power. Many younger voters forgot the traits historically associated with UMNO politicians. Beyond corruption, netizen commentary prior to 2018 frequently targeted political arrogance. 
+**Rafizi:** Since UMNO lost in 2018—except for the 33 months after the backdoor government was formed in 2020—public attention naturally focused on whichever coalition was in power. Many younger voters forgot the traits historically associated with UMNO politicians. Beyond corruption, netizen commentary prior to 2018 frequently targeted political arrogance. 
 
 With the recent shifts involving BN and PN, public scrutiny will shift away from youth leaders in PKR or AMK and move toward leaders in UMNO and PAS. You can already see early glimpses of that behavior in campaigns like Lenggeng—in the way candidates approach people face-to-face and demean opposing parties. I welcome them to continue pressuring voters in that manner.
 
 **Haziq:** Third, moving to another controversy: the recent developments regarding Nicky Liow.
 
-**Rafizi Ramli:** I do not want to comment at length tonight because I intend to dedicate a full session to this issue later. For those who remain sentimental about Pakatan Harapan or Anwar Ibrahim and frequently leave comments telling me to return to PH, I suggest they look at the recent media coverage showing Nicky Liow photographed alongside Anwar Ibrahim. Less than a week after those photos emerged, news broke that he was granted a Discharge Not Amounting to an Acquittal (DNAA) on money laundering charges.
+**Rafizi:** I do not want to comment at length tonight because I intend to dedicate a full session to this issue later. For those who remain sentimental about Pakatan Harapan or Anwar Ibrahim and frequently leave comments telling me to return to PH, I suggest they look at the recent media coverage showing Nicky Liow photographed alongside Anwar Ibrahim. Less than a week after those photos emerged, news broke that he was granted a Discharge Not Amounting to an Acquittal (DNAA) on money laundering charges.
 
 **Haziq:** Is there new information on that case?
 
-**Rafizi Ramli:** We need to look at the broader picture. For over a year, people have discussed the PKR party election, corporate mafias, and the attacks directed at my family. You can run from the truth, but it eventually emerges step by step. To those asking me to return to Anwar's fold, I ask: how does one reconcile that when he is pictured smiling next to Nicky Liow's network?
+**Rafizi:** We need to look at the broader picture. For over a year, people have discussed the PKR party election, corporate mafias, and the attacks directed at my family. You can run from the truth, but it eventually emerges step by step. To those asking me to return to Anwar's fold, I ask: how does one reconcile that when he is pictured smiling next to Nicky Liow's network?
 
 **Haziq:** Next, there are ongoing allegations regarding money politics and political funding across political divides.
 
-**Rafizi Ramli:** As I have always said, both sides operate similarly in that regard.
+**Rafizi:** As I have always said, both sides operate similarly in that regard.
 
 **Haziq:** Lastly, touching upon the Tabung Haji RCI report, UMNO Youth Chief Dr. Akmal Saleh issued statements shortly after the report was released, attempting to justify past actions.
 
-**Rafizi Ramli:** I have not read his entire statement, but it takes time to cross-reference these documents thoroughly—I spent a whole day doing so. Did he simply upload the report to ChatGPT and ask, "Find the word *sakau* [corrupt theft]," only for ChatGPT to say it was not there? I heard he brought up my name as well.
+**Rafizi:** I have not read his entire statement, but it takes time to cross-reference these documents thoroughly—I spent a whole day doing so. Did he simply upload the report to ChatGPT and ask, "Find the word *sakau* [corrupt theft]," only for ChatGPT to say it was not there? I heard he brought up my name as well.
 
 **Pa'an:** Many Barisan Nasional supporters are circulating claims that you were proven wrong by the RCI report.
 
-**Rafizi Ramli:** The last time they claimed I was wrong, Najib Razak ended up in prison. So let them continue. I am currently an independent voice; I do not need to protect anyone's feelings. If someone did wrong, I will uncover it. If UMNO feels confident, so be it. 
+**Rafizi:** The last time they claimed I was wrong, Najib Razak ended up in prison. So let them continue. I am currently an independent voice; I do not need to protect anyone's feelings. If someone did wrong, I will uncover it. If UMNO feels confident, so be it. 
 
 Now, let us move directly to the main subject: the Tabung Haji RCI report.
 
 **Haziq:** You were among the very first figures to raise alarms about Tabung Haji back in late 2015, and you published extensive financial analyses on your website. After reading the newly released 252-page RCI report, how do you dissect its contents for the public?
 
-**Rafizi Ramli:** To help viewers understand the report chapter by chapter, we must first establish the historical and political context. Politicians often change positions over time, forgetting that they leave a digital footprint. 
+**Rafizi:** To help viewers understand the report chapter by chapter, we must first establish the historical and political context. Politicians often change positions over time, forgetting that they leave a digital footprint. 
 
 My involvement began in late 2015 when I was a Member of Parliament. In December 2015, the Governor of Bank Negara Malaysia, Tan Sri Zeti Akhtar Hassan, wrote a letter to Tabung Haji raising a major red flag: Tabung Haji’s financial reserves had fallen into negative territory. 
 
@@ -99,7 +99,7 @@ The RCI report confirms that the early political narrative pushed by BN and PN�
 
 **Haziq:** How did the Royal Commission conduct its investigation, and what are the core focus areas of the report?
 
-**Rafizi Ramli:** The Commissioners faced constraints of time—they had six months—and limited staffing, supported by officers from the Attorney General’s Chambers. Rather than conducting an exhaustive criminal investigation under the Penal Code or MACC Act, they relied on top-level documentation, review reports by three consulting firms (EY, PwC, and Roland Berger), official financial statements, and witness testimonies. 
+**Rafizi:** The Commissioners faced constraints of time—they had six months—and limited staffing, supported by officers from the Attorney General’s Chambers. Rather than conducting an exhaustive criminal investigation under the Penal Code or MACC Act, they relied on top-level documentation, review reports by three consulting firms (EY, PwC, and Roland Berger), official financial statements, and witness testimonies. 
 
 The report focuses on four primary operational issues:
 1. **Financial Reserves:** Determining whether Tabung Haji’s reserves were genuinely negative.
@@ -113,7 +113,7 @@ Crucially, the report also uncovers issues regarding Shariah compliance and zaka
 
 **Haziq:** Let us examine the first core area: the negative reserves and the 2018 bailout.
 
-**Rafizi Ramli:** The RCI confirms that Tabung Haji’s financial reserves were negative continuously from 2014 through 2018. 
+**Rafizi:** The RCI confirms that Tabung Haji’s financial reserves were negative continuously from 2014 through 2018. 
 
 To understand why a rescue was necessary in late 2018, we must look at the timeline. The first Cabinet meeting on the restructuring took place on December 7, 2018. By December 14, the Special Purpose Vehicle (SPV), Urusharta Jama'ah Sdn Bhd (UJSB), was incorporated. By December 19, the asset transfer framework was set, and on December 27, the Asset Transfer Agreement was signed. A transaction involving tens of billions of ringgit was finalized in three weeks.
 
@@ -139,17 +139,17 @@ However, that annual RM800 million to RM900 million revenue was purely an accoun
 
 **Haziq:** Was there a better alternative available to the government at the end of 2018?
 
-**Rafizi Ramli:** The RCI evaluated four alternative recovery models submitted to the government at the time, including direct cash injections or immediate asset liquidations. The RCI concluded that given the fiscal constraints and legal parameters in late 2018, the government's chosen restructuring model was the correct step, subject to key execution caveats.
+**Rafizi:** The RCI evaluated four alternative recovery models submitted to the government at the time, including direct cash injections or immediate asset liquidations. The RCI concluded that given the fiscal constraints and legal parameters in late 2018, the government's chosen restructuring model was the correct step, subject to key execution caveats.
 
 **Haziq:** Let us move to the second core area: *hibah* practices and what you termed the "PakMan Telo" or Ponzi scheme dynamic.
 
-**Rafizi Ramli:** Under the Tabung Haji Act, *hibah* can only be distributed out of genuine realized profits after ensuring positive reserves. However, starting around 2010 and peaking between 2014 and 2017 under Najib Razak's administration, Tabung Haji declared exceptionally high *hibah* rates—6.25% annual plus 2% hajj *hibah* in 2014 (totaling 8.25%), 8% in 2015, 5.75% in 2016, and 6.25% in 2017.
+**Rafizi:** Under the Tabung Haji Act, *hibah* can only be distributed out of genuine realized profits after ensuring positive reserves. However, starting around 2010 and peaking between 2014 and 2017 under Najib Razak's administration, Tabung Haji declared exceptionally high *hibah* rates—6.25% annual plus 2% hajj *hibah* in 2014 (totaling 8.25%), 8% in 2015, 5.75% in 2016, and 6.25% in 2017.
 
 In reality, from 2014 onwards, Tabung Haji’s reserves were already negative. Realized returns from the stock market and bonds were averaging only 4% to 5%. To pay out RM2 billion to RM3 billion annually in *hibah* without underlying profits, Tabung Haji used fresh capital deposited by new depositors to pay "returns" to existing depositors. That is the definition of a Ponzi scheme.
 
 **Pa'an:** How was this legally and operationally possible without triggering institutional safeguards?
 
-**Rafizi Ramli:** The legal safeguard existed in the Tabung Haji Act, which prohibited dividend distributions during reserve deficits. To bypass this safeguard, Tabung Haji management engaged in what the RCI delicately describes as "creative accounting."
+**Rafizi:** The legal safeguard existed in the Tabung Haji Act, which prohibited dividend distributions during reserve deficits. To bypass this safeguard, Tabung Haji management engaged in what the RCI delicately describes as "creative accounting."
 
 Tabung Haji’s former CFO, Datuk Rozaida, argued before the RCI that the Tabung Haji Act did not explicitly specify adherence to standard accounting frameworks. Consequently, management ignored Malaysian Financial Reporting Standards (MFRS 136) regarding market impairment. Instead, they manufactured an internal pro-forma metric called *Realizable Asset Value* (RAV).
 
@@ -161,7 +161,7 @@ The RCI report strongly criticizes the Auditor-General (Ketua Audit Negara) at t
 
 **Haziq:** You mentioned earlier that the report also highlights Shariah and zakat compliance issues during this period.
 
-**Rafizi Ramli:** Yes. The report notes that in 2016, Tabung Haji unilaterally altered the deposit contract structure from *mudharabah* (profit-sharing) to *wadi'ah yad dhamanah* (guaranteed custody/savings). 
+**Rafizi:** Yes. The report notes that in 2016, Tabung Haji unilaterally altered the deposit contract structure from *mudharabah* (profit-sharing) to *wadi'ah yad dhamanah* (guaranteed custody/savings). 
 
 Under *mudharabah*, Tabung Haji was obligated to distribute profits according to an agreed ratio. However, management began using investment profits to fund heavy hajj subsidies without explicit consent from depositors. 
 
@@ -169,7 +169,7 @@ To bypass this restriction, they changed the contract to *wadi'ah*. Under *wadi'
 
 **Haziq:** Let us address the third core area: investment losses. Critics like Dr. Akmal Saleh have asked, "Where is the *sakau* [corruption/theft] in the RCI report?" Can you detail the specific investment failures identified?
 
-**Rafizi Ramli:** The RCI report details numerous problematic investments between 2014 and 2020 that resulted in massive financial destruction:
+**Rafizi:** The RCI report details numerous problematic investments between 2014 and 2020 that resulted in massive financial destruction:
 
 1. **PT TH Indo Plantations:** An Indonesian subsidiary involved in selling 83,000 hectares of land in Riau to PT Borneo Pacific. The agreed sale price of USD 910 million was arbitrarily reduced by USD 100 million (approximately RM400 million). Furthermore, Tabung Haji transferred share ownership to the buyer before receiving full payment and absurdly advanced RM178.6 million in loans to the buyer to cover obligations the buyer was supposed to pay.
 2. **Emas Kiara Industries Berhad:** Tabung Haji acquired a 15.3% equity stake for RM20.1 million in June 2016. A put option was executed in April 2017 requiring the vendor (Lingkaran Hartaniaga Sdn Bhd) to buy back the shares after a failed IPO listing. To date, only RM2 million of the RM20.3 million put option has been recovered, forcing a write-down.
@@ -186,13 +186,13 @@ This is why the RCI recommends full **forensic accounting investigations** and s
 
 **Haziq:** Which political figures and cabinet ministers bear responsibility for these failures?
 
-**Rafizi Ramli:** Ultimate oversight rested with the Prime Minister and Finance Minister at the time, Najib Razak, along with Second Finance Ministers Datuk Seri Ahmad Husni Hanadzlah and Datuk Seri Johari Ghani. Ministerial oversight of Tabung Haji fell under Minister in the Prime Minister's Department Datuk Seri Jamil Khir Baharom and his Deputy, Datuk Dr. Asyraf Wajdi Dusuki.
+**Rafizi:** Ultimate oversight rested with the Prime Minister and Finance Minister at the time, Najib Razak, along with Second Finance Ministers Datuk Seri Ahmad Husni Hanadzlah and Datuk Seri Johari Ghani. Ministerial oversight of Tabung Haji fell under Minister in the Prime Minister's Department Datuk Seri Jamil Khir Baharom and his Deputy, Datuk Dr. Asyraf Wajdi Dusuki.
 
 Decisions on *hibah* payouts and executive bonuses—which reached up to 11 months of salary during deficit years—required Finance Ministry approval. While Jamil Khir appeared out of his depth administratively during Parliamentary debates, figures like Asyraf Wajdi—who holds a PhD in Islamic Finance—repeatedly publicly dismissed warnings of reserves deficits as "fitnah" (slander).
 
 **Haziq:** Let us turn to the present and future. What is the current financial standing of Tabung Haji under the Madani government, and how does it align with the RCI's recommendations?
 
-**Rafizi Ramli:** Prime Minister Anwar Ibrahim recently stated that the RCI report was held back until Tabung Haji's balance sheet became strong enough to avoid public panic. However, an analysis of Tabung Haji's recent audited financial statements (2022 versus 2025) reveals persistent structural risks.
+**Rafizi:** Prime Minister Anwar Ibrahim recently stated that the RCI report was held back until Tabung Haji's balance sheet became strong enough to avoid public panic. However, an analysis of Tabung Haji's recent audited financial statements (2022 versus 2025) reveals persistent structural risks.
 
 First, let us examine depositor cash flows:
 * In **2022** (before the current administration took full effect), new deposits totaled **RM23 billion**, while total withdrawals were **RM21 billion**, resulting in a **positive net cash inflow of +RM2 billion**.
@@ -216,7 +216,7 @@ While the new sukuk carries a government guarantee and a fixed coupon, the under
 
 **Pa'an:** How does the escalating cost of hajj subsidies factor into this long-term risk?
 
-**Rafizi Ramli:** The RCI report explicitly warns that the current model of hajj subsidies is financially unsustainable. 
+**Rafizi:** The RCI report explicitly warns that the current model of hajj subsidies is financially unsustainable. 
 
 By **2030**, annual hajj subsidies are projected to reach **RM742 million**, with subsidies covering **60%** of the actual cost per muassasah pilgrim (while the pilgrim pays only 40%, or around RM12,000). To support this level of subsidy without depleting capital, Tabung Haji’s total fund size must maintain a massive threshold (around RM80 billion to RM88 billion) generating high returns.
 
@@ -226,7 +226,7 @@ If hajj subsidies consume RM740 million annually, it shaves roughly 0.4% to 1.0%
 
 **Haziq:** What are your final conclusions and recommendations moving forward?
 
-**Rafizi Ramli:** First, the narrative that Pakatan Harapan "sold off" Tabung Haji's assets in 2018 is completely debunked by the RCI. The report confirms that only one parcel of land was sold, and 75 out of 106 equity counters were liquidated under normal portfolio management, with Tabung Haji retaining first right of refusal on all UJSB assets.
+**Rafizi:** First, the narrative that Pakatan Harapan "sold off" Tabung Haji's assets in 2018 is completely debunked by the RCI. The report confirms that only one parcel of land was sold, and 75 out of 106 equity counters were liquidated under normal portfolio management, with Tabung Haji retaining first right of refusal on all UJSB assets.
 
 Second, the public and law enforcement agencies—including MACC and the police—must maintain pressure to ensure full forensic accounting investigations are carried out on the specific transactions highlighted in the report. Those responsible for deliberate financial mismanagement must be prosecuted.
 

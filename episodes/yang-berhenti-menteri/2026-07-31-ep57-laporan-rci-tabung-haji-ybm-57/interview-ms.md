@@ -8,7 +8,7 @@ duration_seconds: 12623
 duration: 3h 30m
 view_count: 483215
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Haziq
 - Pa'an
@@ -19,7 +19,7 @@ topics:
 - Investment Failures & Impairments
 - Hajj Subsidies & Long-term Fund Sustainability
 - Malaysian Political Developments
-summary: In this episode of the Yang Berkhidmat podcast, Rafizi Ramli provides a detailed
+summary: In this episode of the Yang Berkhidmat podcast, Rafizi provides a detailed
   breakdown of the Royal Commission of Inquiry (RCI) report on Tabung Haji alongside
   brief commentary on current political developments. He explains past accounting
   manipulations, unsustainable hibah dividend payouts, negative financial reserves,
@@ -35,45 +35,45 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Selamat datang ke Episod 57 podcast *Yang Berkhidmat*. Malam ini persediaan kita agak berbeza sikit, YB. Ada kalkulator bersaiz besar dan setebal nota di atas meja YB. Apa yang penonton boleh jangkakan daripada sesi malam ini?
 
-**Rafizi Ramli:** Sesi malam ini ditujukan khusus untuk penonton yang mahu memerah otak. Jika ada yang mencari komen-komen dangkal seperti di TikTok, sesi ini mungkin bukan untuk mereka. Kebiasaannya, apabila sesuatu topik menjadi padat dengan data atau teknikal, penyokong parti dari semua pihak akan bertindak balas secara jangkaan: penyokong PAS komen yang saya ini sudah tidak relevan, penyokong Barisan Nasional atau UMNO tanya sama ada saya rindu Anwar Ibrahim, dan penyokong PKR atau Pakatan Harapan beritahu saya supaya jangan merajuk. 
+**Rafizi:** Sesi malam ini ditujukan khusus untuk penonton yang mahu memerah otak. Jika ada yang mencari komen-komen dangkal seperti di TikTok, sesi ini mungkin bukan untuk mereka. Kebiasaannya, apabila sesuatu topik menjadi padat dengan data atau teknikal, penyokong parti dari semua pihak akan bertindak balas secara jangkaan: penyokong PAS komen yang saya ini sudah tidak relevan, penyokong Barisan Nasional atau UMNO tanya sama ada saya rindu Anwar Ibrahim, dan penyokong PKR atau Pakatan Harapan beritahu saya supaya jangan merajuk. 
 
 Sesi ini adalah untuk analisis serius. Ini kali pertama saya membawa kalkulator ke studio. Saya juga membawa nota rujukan—kertas terpakai yang dipotong saiz A5—dan cermin mata membaca saya, kerana kita akan meneliti dokumen-dokumen rasmi secara terperinci.
 
 **Haziq:** Mari kita mulakan dengan ulasan ringkas mengenai perkembangan politik semasa sepanjang musim pilihan raya ini sebelum mendalami laporan Suruhanjaya Siasatan Diraja (RCI) mengenai Tabung Haji. Pertama, kita telah melihat pelbagai gelagat kempen daripada calon-calon merentasi gabungan, daripada Perikatan Nasional hingga Pakatan Harapan—seperti calon yang menangis teresak-esak kerana merindui anak-anak mereka semasa berkempen. Walau bagaimanapun, penerimaan orang ramai nampaknya agak sinikal.
 
-**Rafizi Ramli:** Ia kelihatan terlalu teatrikal.
+**Rafizi:** Ia kelihatan terlalu teatrikal.
 
 **Haziq:** Kedua, mengenai gaya berkempen, calon UMNO bagi DUN Lenggeng, Haji Asna, telah dirakam memberitahu pengundi bahawa jika mereka tidak menyatakan secara jelas siapa yang mereka undi, itu bermakna mereka mengundi pembangkang. YB sebelum ini pernah menasihatkan agar tidak mendesak pengundi yang memilih untuk tidak mendedahkan pilihan mereka.
 
-**Rafizi Ramli:** Sejak UMNO kalah pada tahun 2018—kecuali untuk tempoh 33 bulan selepas kerajaan pintu belakang ditubuhkan pada 2020—tumpuan orang ramai secara semula jadinya terarah kepada mana-mana gabungan yang memegang kuasa. Ramai pengundi muda terlupa akan sifat-sifat yang secara sejarahnya dikaitkan dengan ahli politik UMNO. Selain isu rasuah, ulasan warganet sebelum 2018 kerap menyasar kepada keangkuhan politik. 
+**Rafizi:** Sejak UMNO kalah pada tahun 2018—kecuali untuk tempoh 33 bulan selepas kerajaan pintu belakang ditubuhkan pada 2020—tumpuan orang ramai secara semula jadinya terarah kepada mana-mana gabungan yang memegang kuasa. Ramai pengundi muda terlupa akan sifat-sifat yang secara sejarahnya dikaitkan dengan ahli politik UMNO. Selain isu rasuah, ulasan warganet sebelum 2018 kerap menyasar kepada keangkuhan politik. 
 
 Dengan pergeseran terkini yang melibatkan BN dan PN, penelitian awam akan beralih daripada pemimpin muda PKR atau AMK dan bergerak ke arah pemimpin UMNO serta PAS. Anda sudah boleh melihat gambaran awal tingkah laku tersebut dalam kempen seperti di Lenggeng—daripada cara calon berdepan secara bersemuka dengan orang ramai dan merendahkan parti lawan. Saya mengalu-alukan mereka untuk terus mendesak pengundi dengan cara sedemikian.
 
 **Haziq:** Ketiga, beralih kepada satu lagi kontroversi: perkembangan terkini mengenai Nicky Liow.
 
-**Rafizi Ramli:** Saya tidak mahu mengulas panjang malam ini kerana saya berhasrat untuk mengkhususkan satu sesi penuh mengenai isu ini kelak. Bagi mereka yang masih sentimental tentang Pakatan Harapan atau Anwar Ibrahim dan sering meninggalkan komen menyuruh saya kembali kepada PH, saya cadangkan mereka lihat liputan media terkini yang menunjukkan Nicky Liow bergambar di sebelah Anwar Ibrahim. Kurang daripada seminggu selepas gambar-gambar itu timbul, timbul berita bahawa beliau telah diberikan Pelepasan Tanpa Pembebasan (DNAA) atas pertuduhan pengubahan wang haram.
+**Rafizi:** Saya tidak mahu mengulas panjang malam ini kerana saya berhasrat untuk mengkhususkan satu sesi penuh mengenai isu ini kelak. Bagi mereka yang masih sentimental tentang Pakatan Harapan atau Anwar Ibrahim dan sering meninggalkan komen menyuruh saya kembali kepada PH, saya cadangkan mereka lihat liputan media terkini yang menunjukkan Nicky Liow bergambar di sebelah Anwar Ibrahim. Kurang daripada seminggu selepas gambar-gambar itu timbul, timbul berita bahawa beliau telah diberikan Pelepasan Tanpa Pembebasan (DNAA) atas pertuduhan pengubahan wang haram.
 
 **Haziq:** Adakah terdapat maklumat baharu mengenai kes itu?
 
-**Rafizi Ramli:** Kita perlu melihat gambaran yang lebih luas. Selama lebih setahun, orang ramai telah membincangkan pemilihan parti PKR, mafia korporat, dan serangan yang ditujukan kepada keluarga saya. Anda boleh lari daripada kebenaran, tetapi ia akhirnya akan terserlah langkah demi langkah. Kepada mereka yang meminta saya kembali ke pangkuan Anwar, saya bertanya: bagaimana seseorang boleh menerima perkara itu apabila beliau dirakam tersenyum di sebelah rangkaian Nicky Liow?
+**Rafizi:** Kita perlu melihat gambaran yang lebih luas. Selama lebih setahun, orang ramai telah membincangkan pemilihan parti PKR, mafia korporat, dan serangan yang ditujukan kepada keluarga saya. Anda boleh lari daripada kebenaran, tetapi ia akhirnya akan terserlah langkah demi langkah. Kepada mereka yang meminta saya kembali ke pangkuan Anwar, saya bertanya: bagaimana seseorang boleh menerima perkara itu apabila beliau dirakam tersenyum di sebelah rangkaian Nicky Liow?
 
 **Haziq:** Seterusnya, terdapat dakwaan berterusan mengenai politik wang dan pembiayaan politik merentasi jurang politik.
 
-**Rafizi Ramli:** Seperti yang sering saya katakan, kedua-dua pihak beroperasi dengan cara yang serupa dalam hal tersebut.
+**Rafizi:** Seperti yang sering saya katakan, kedua-dua pihak beroperasi dengan cara yang serupa dalam hal tersebut.
 
 **Haziq:** Akhir sekali, menyentuh mengenai laporan RCI Tabung Haji, Ketua Pemuda UMNO Dr. Akmal Saleh telah mengeluarkan kenyataan sejurus selepas laporan itu dikeluarkan, cuba membenarkan tindakan lalu.
 
-**Rafizi Ramli:** Saya belum membaca keseluruhan kenyataannya, tetapi ia mengambil masa untuk membuat rujukan silang dokumen-dokumen ini secara menyeluruh—saya menghabiskan masa seharian untuk berbuat demikian. Adakah beliau sekadar memuat naik laporan itu ke ChatGPT dan bertanya, "Cari perkataan *sakau*," hanya untuk ChatGPT memberitahu bahawa perkataan itu tiada di situ? Saya dengar beliau ada memetik nama saya juga.
+**Rafizi:** Saya belum membaca keseluruhan kenyataannya, tetapi ia mengambil masa untuk membuat rujukan silang dokumen-dokumen ini secara menyeluruh—saya menghabiskan masa seharian untuk berbuat demikian. Adakah beliau sekadar memuat naik laporan itu ke ChatGPT dan bertanya, "Cari perkataan *sakau*," hanya untuk ChatGPT memberitahu bahawa perkataan itu tiada di situ? Saya dengar beliau ada memetik nama saya juga.
 
 **Pa'an:** Ramai penyokong Barisan Nasional sedang menyebarkan dakwaan bahawa YB telah terbukti salah oleh laporan RCI tersebut.
 
-**Rafizi Ramli:** Kali terakhir mereka mendakwa saya salah, Najib Razak akhirnya masuk penjara. Jadi biarkan mereka meneruskannya. Saya kini merupakan suara bebas; saya tidak perlu menjaga hati sesiapa. Jika seseorang melakukan kesalahan, saya akan membongkarnya. Jika UMNO rasa berkeyakinan, biarkanlah. 
+**Rafizi:** Kali terakhir mereka mendakwa saya salah, Najib Razak akhirnya masuk penjara. Jadi biarkan mereka meneruskannya. Saya kini merupakan suara bebas; saya tidak perlu menjaga hati sesiapa. Jika seseorang melakukan kesalahan, saya akan membongkarnya. Jika UMNO rasa berkeyakinan, biarkanlah. 
 
 Sekarang, mari kita terus ke subjek utama: laporan RCI Tabung Haji.
 
 **Haziq:** YB merupakan antara tokoh paling awal yang membangkitkan amaran tentang Tabung Haji pada akhir tahun 2015, dan YB telah menerbitkan analisis kewangan yang meluas di laman web YB. Selepas membaca laporan RCI setebal 252 halaman yang baru dikeluarkan ini, bagaimanakah YB membedah kandungannya untuk tatapan orang ramai?
 
-**Rafizi Ramli:** Untuk membantu penonton memahami laporan ini bab demi bab, kita mesti menetapkan konteks sejarah dan politik terlebih dahulu. Ahli politik kerap mengubah pendirian dari semasa ke semasa, terlupa bahawa mereka meninggalkan jejak digital. 
+**Rafizi:** Untuk membantu penonton memahami laporan ini bab demi bab, kita mesti menetapkan konteks sejarah dan politik terlebih dahulu. Ahli politik kerap mengubah pendirian dari semasa ke semasa, terlupa bahawa mereka meninggalkan jejak digital. 
 
 Penglibatan saya bermula pada akhir tahun 2015 semasa saya menjadi Ahli Parlimen. Pada Disember 2015, Gabenor Bank Negara Malaysia, Tan Sri Zeti Akhtar Hassan, telah menulis surat kepada Tabung Haji membangkitkan amaran merah utama: rizab kewangan Tabung Haji telah jatuh ke wilayah negatif. 
 
@@ -97,7 +97,7 @@ Laporan RCI mengesahkan bahawa naratif politik awal yang didorong oleh BN dan PN
 
 **Haziq:** Bagaimanakah Suruhanjaya Diraja menjalankan siasatannya, dan apakah bidang fokus utama laporan tersebut?
 
-**Rafizi Ramli:** Para Pesuruhjaya menghadapi kekangan masa—mereka mempunyai masa enam bulan—dan tenaga kerja yang terhad, disokong oleh pegawai-pegawai daripada Jabatan Peguam Negara. Daripada menjalankan siasatan jenayah secara menyeluruh di bawah Kanun Keseksaan atau Akta SPRM, mereka bergantung kepada dokumentasi peringkat tinggi, laporan semakan oleh tiga firma perunding (EY, PwC, dan Roland Berger), penyata kewangan rasmi, serta keterangan saksi. 
+**Rafizi:** Para Pesuruhjaya menghadapi kekangan masa—mereka mempunyai masa enam bulan—dan tenaga kerja yang terhad, disokong oleh pegawai-pegawai daripada Jabatan Peguam Negara. Daripada menjalankan siasatan jenayah secara menyeluruh di bawah Kanun Keseksaan atau Akta SPRM, mereka bergantung kepada dokumentasi peringkat tinggi, laporan semakan oleh tiga firma perunding (EY, PwC, dan Roland Berger), penyata kewangan rasmi, serta keterangan saksi. 
 
 Laporan tersebut menumpukan kepada empat isu operasi utama:
 1. **Rizab Kewangan:** Menentukan sama ada rizab Tabung Haji benar-benar negatif.
@@ -111,7 +111,7 @@ Secara krusialnya, laporan tersebut turut membongkar isu-isu berkaitan kepatuhan
 
 **Haziq:** Mari kita periksa bidang fokus utama yang pertama: rizab negatif dan penyelamatan (*bailout*) 2018.
 
-**Rafizi Ramli:** RCI mengesahkan bahawa rizab kewangan Tabung Haji adalah negatif secara berterusan dari tahun 2014 hingga 2018. 
+**Rafizi:** RCI mengesahkan bahawa rizab kewangan Tabung Haji adalah negatif secara berterusan dari tahun 2014 hingga 2018. 
 
 Untuk memahami mengapa penyelamatan diperlukan pada akhir 2018, kita mesti melihat garis masa. Mesyuarat Kabinet pertama mengenai penstrukturan semula berlaku pada 7 Disember 2018. Menjelang 14 Disember, Syarikat Tujuan Khas (SPV), Urusharta Jama'ah Sdn Bhd (UJSB), telah diperbadankan. Menjelang 19 Disember, kerangka pemindahan aset telah ditetapkan, dan pada 27 Disember, Perjanjian Pemindahan Aset telah ditandatangani. Transaksi yang melibatkan puluhan bilion ringgit telah dimuktamadkan dalam masa tiga minggu.
 
@@ -137,17 +137,17 @@ Walau bagaimanapun, pendapatan RM800 juta hingga RM900 juta tahunan itu merupaka
 
 **Haziq:** Adakah terdapat alternatif yang lebih baik tersedia untuk kerajaan pada akhir tahun 2018?
 
-**Rafizi Ramli:** RCI telah menilai empat model pemulihan alternatif yang diserahkan kepada kerajaan pada masa itu, termasuk suntikan tunai terus atau pencairan aset serta-merta. RCI merumuskan bahawa memandangkan kekangan fiskal dan parameter undang-undang pada akhir 2018, model penstrukturan semula yang dipilih oleh kerajaan adalah langkah yang betul, tertakluk kepada kaveat pelaksanaan utama.
+**Rafizi:** RCI telah menilai empat model pemulihan alternatif yang diserahkan kepada kerajaan pada masa itu, termasuk suntikan tunai terus atau pencairan aset serta-merta. RCI merumuskan bahawa memandangkan kekangan fiskal dan parameter undang-undang pada akhir 2018, model penstrukturan semula yang dipilih oleh kerajaan adalah langkah yang betul, tertakluk kepada kaveat pelaksanaan utama.
 
 **Haziq:** Mari kita beralih kepada bidang fokus utama yang kedua: amalan *hibah* dan apa yang YB gelarkan sebagai dinamik skim "PakMan Telo" atau Ponzi.
 
-**Rafizi Ramli:** Di bawah Akta Tabung Haji, *hibah* hanya boleh diagihkan daripada keuntungan terealisasi yang sebenar selepas memastikan rizab berada dalam keadaan positif. Walau bagaimanapun, bermula sekitar tahun 2010 dan mencatatkan kemuncak antara 2014 hingga 2017 di bawah pentadbiran Najib Razak, Tabung Haji telah mengisytiharkan kadar *hibah* yang sangat tinggi—6.25% tahunan ditambah 2% *hibah* haji pada 2014 (berjumlah 8.25%), 8% pada 2015, 5.75% pada 2016, dan 6.25% pada 2017.
+**Rafizi:** Di bawah Akta Tabung Haji, *hibah* hanya boleh diagihkan daripada keuntungan terealisasi yang sebenar selepas memastikan rizab berada dalam keadaan positif. Walau bagaimanapun, bermula sekitar tahun 2010 dan mencatatkan kemuncak antara 2014 hingga 2017 di bawah pentadbiran Najib Razak, Tabung Haji telah mengisytiharkan kadar *hibah* yang sangat tinggi—6.25% tahunan ditambah 2% *hibah* haji pada 2014 (berjumlah 8.25%), 8% pada 2015, 5.75% pada 2016, dan 6.25% pada 2017.
 
 Pada hakikatnya, dari tahun 2014 dan seterusnya, rizab Tabung Haji sudah pun berada dalam keadaan negatif. Pulangan terealisasi daripada pasaran saham dan bon hanya purata 4% hingga 5%. Bagi membayar RM2 bilion hingga RM3 bilion setahun dalam bentuk *hibah* tanpa keuntungan asas, Tabung Haji menggunakan modal baharu yang didepositkan oleh pendeposit baharu untuk membayar "pulangan" kepada pendeposit sedia ada. Itulah definisi skim Ponzi.
 
 **Pa'an:** Bagaimanakah perkara ini boleh berlaku secara sah dan dari segi operasi tanpa mencetuskan kawalan perlindungan institusi?
 
-**Rafizi Ramli:** Kawalan perlindungan undang-undang sememangnya wujud dalam Akta Tabung Haji, yang melarang pengagihan dividen semasa defisit rizab. Bagi mengatasi kawalan ini, pihak pengurusan Tabung Haji terlibat dalam apa yang digambarkan oleh RCI secara halus sebagai "perakaunan kreatif" (*creative accounting*).
+**Rafizi:** Kawalan perlindungan undang-undang sememangnya wujud dalam Akta Tabung Haji, yang melarang pengagihan dividen semasa defisit rizab. Bagi mengatasi kawalan ini, pihak pengurusan Tabung Haji terlibat dalam apa yang digambarkan oleh RCI secara halus sebagai "perakaunan kreatif" (*creative accounting*).
 
 Bekas CFO Tabung Haji, Datuk Rozaida, berhujah di hadapan RCI bahawa Akta Tabung Haji tidak menyatakan secara eksplisit pematuhan kepada kerangka perakaunan standard. Akibatnya, pihak pengurusan mengabaikan Piawaian Pelaporan Kewangan Malaysia (MFRS 136) berkaitan kemerosotan nilai pasaran. Sebaliknya, mereka mereka metrik pro-forma dalaman yang dipanggil *Nilai Aset Boleh Realisasi* (*Realizable Asset Value* / RAV).
 
@@ -159,7 +159,7 @@ Laporan RCI mengkritik keras Ketua Audit Negara pada masa itu. Menerusi manipula
 
 **Haziq:** YB ada menyebut tadi bahawa laporan itu turut menyerlahkan isu-isu kepatuhan Syariah dan zakat dalam tempoh tersebut.
 
-**Rafizi Ramli:** Ya. Laporan itu mencatatkan bahawa pada tahun 2016, Tabung Haji secara sebelah pihak mengubah struktur kontrak deposit daripada *mudharabah* (perkongsian keuntungan) kepada *wadi'ah yad dhamanah* (simpanan dengan jaminan). 
+**Rafizi:** Ya. Laporan itu mencatatkan bahawa pada tahun 2016, Tabung Haji secara sebelah pihak mengubah struktur kontrak deposit daripada *mudharabah* (perkongsian keuntungan) kepada *wadi'ah yad dhamanah* (simpanan dengan jaminan). 
 
 Di bawah *mudharabah*, Tabung Haji berkewajipan mengagihkan keuntungan mengikut nisbah yang dipersetujui. Walau bagaimanapun, pihak pengurusan mula menggunakan keuntungan pelaburan untuk menampung subsidi haji yang besar tanpa kebenaran eksplisit daripada pendeposit. 
 
@@ -167,7 +167,7 @@ Bagi mengelakkan sekatan ini, mereka menukar kontrak kepada *wadi'ah*. Di bawah 
 
 **Haziq:** Mari kita tangani bidang fokus utama yang ketiga: kerugian pelaburan. Pengkritik seperti Dr. Akmal Saleh ada bertanya, "Di mana *sakau* dalam laporan RCI?" Boleh YB perincikan kegagalan pelaburan khusus yang telah dikenal pasti?
 
-**Rafizi Ramli:** Laporan RCI memperincikan pelbagai pelaburan bermasalah antara tahun 2014 hingga 2020 yang mengakibatkan kemusnahan kewangan yang amat besar:
+**Rafizi:** Laporan RCI memperincikan pelbagai pelaburan bermasalah antara tahun 2014 hingga 2020 yang mengakibatkan kemusnahan kewangan yang amat besar:
 
 1. **PT TH Indo Plantations:** Anak syarikat di Indonesia yang terlibat dalam penjualan 83,000 hektar tanah di Riau kepada PT Borneo Pacific. Harga jualan yang dipersetujui sebanyak USD 910 juta telah dikurangkan secara sewenang-wenangnya sebanyak USD 100 juta (kira-kira RM400 juta). Tambahan pula, Tabung Haji memindahkan pemilikan saham kepada pembeli sebelum menerima pembayaran penuh dan secara tidak masuk akal mendahulukan pinjaman RM178.6 juta kepada pembeli untuk menampung kewajipan yang sepatutnya dibayar oleh pembeli tersebut.
 2. **Emas Kiara Industries Berhad:** Tabung Haji memperoleh 15.3% pegangan ekuiti dengan harga RM20.1 juta pada Jun 2016. Opsyen jual (*put option*) telah dilaksanakan pada April 2017 yang memerlukan penjual (Lingkaran Hartaniaga Sdn Bhd) membeli balik saham tersebut selepas kegagalan penyenaraian IPO. Sehingga kini, hanya RM2 juta daripada opsyen jual bernilai RM20.3 juta yang telah dipulihkan, sekali gus memaksa pengurangan nilai (*write-down*).
@@ -184,13 +184,13 @@ Inilah sebabnya mengapa RCI mengesyorkan **siasatan perakaunan forensik** secara
 
 **Haziq:** Tokoh politik dan menteri kabinet manakah yang memikul tanggungjawab atas kegagalan-kegagalan ini?
 
-**Rafizi Ramli:** Pengawasan tertinggi terletak pada Perdana Menteri merangkap Menteri Kewangan ketika itu, Najib Razak, bersama Menteri Kewangan II Datuk Seri Ahmad Husni Hanadzlah dan Datuk Seri Johari Ghani. Pengawasan menteri ke atas Tabung Haji terletak di bawah Menteri di Jabatan Perdana Menteri Datuk Seri Jamil Khir Baharom dan Timbalannya, Datuk Dr. Asyraf Wajdi Dusuki.
+**Rafizi:** Pengawasan tertinggi terletak pada Perdana Menteri merangkap Menteri Kewangan ketika itu, Najib Razak, bersama Menteri Kewangan II Datuk Seri Ahmad Husni Hanadzlah dan Datuk Seri Johari Ghani. Pengawasan menteri ke atas Tabung Haji terletak di bawah Menteri di Jabatan Perdana Menteri Datuk Seri Jamil Khir Baharom dan Timbalannya, Datuk Dr. Asyraf Wajdi Dusuki.
 
 Keputusan mengenai pembayaran *hibah* dan bonus eksekutif—yang mencecah sehingga 11 bulan gaji semasa tahun-tahun defisit—memerlukan kelulusan Kementerian Kewangan. Walaupun Jamil Khir kelihatan tidak menguasai aspek pentadbiran semasa perbahasan Parlimen, tokoh seperti Asyraf Wajdi—yang memegang Ijazah Kedoktoran (PhD) dalam Kewangan Islam—berulang kali menolak amaran defisit rizab secara terbuka sebagai "fitnah".
 
 **Haziq:** Mari kita beralih kepada keadaan semasa dan masa depan. Apakah kedudukan kewangan Tabung Haji terkini di bawah kerajaan Madani, dan bagaimanakah ia selaras dengan syor-syor RCI?
 
-**Rafizi Ramli:** Perdana Menteri Anwar Ibrahim baru-baru ini menyatakan bahawa laporan RCI telah ditahan sehingga lembaran imbangan Tabung Haji menjadi cukup kukuh untuk mengelakkan kepanikan awam. Walau bagaimanapun, analisis ke atas penyata kewangan teraudit terkini Tabung Haji (2022 berbanding 2025) mendedahkan risiko berstruktur yang berterusan.
+**Rafizi:** Perdana Menteri Anwar Ibrahim baru-baru ini menyatakan bahawa laporan RCI telah ditahan sehingga lembaran imbangan Tabung Haji menjadi cukup kukuh untuk mengelakkan kepanikan awam. Walau bagaimanapun, analisis ke atas penyata kewangan teraudit terkini Tabung Haji (2022 berbanding 2025) mendedahkan risiko berstruktur yang berterusan.
 
 Pertama, mari kita periksa aliran tunai pendeposit:
 * Pada tahun **2022** (sebelum pentadbiran semasa mengambil alih sepenuhnya), deposit baharu berjumlah **RM23 bilion**, manakala jumlah pengeluaran adalah **RM21 bilion**, menghasilkan **aliran tunai masuk bersih yang positif sebanyak +RM2 bilion**.
@@ -214,7 +214,7 @@ Walaupun sukuk baharu itu membawa jaminan kerajaan dan kupon tetap, realiti asas
 
 **Pa'an:** Bagaimanakah peningkatan kos subsidi haji mempengaruhi risiko jangka panjang ini?
 
-**Rafizi Ramli:** Laporan RCI secara eksplisit memberi amaran bahawa model subsidi haji semasa adalah tidak mampan dari segi kewangan. 
+**Rafizi:** Laporan RCI secara eksplisit memberi amaran bahawa model subsidi haji semasa adalah tidak mampan dari segi kewangan. 
 
 Menjelang **2030**, subsidi haji tahunan diunjurkan mencecah **RM742 juta**, dengan subsidi menampung **60%** daripada kos sebenar bagi setiap jemaah muassasah (manakala jemaah hanya membayar 40%, atau sekitar RM12,000). Untuk menyokong tahap subsidi ini tanpa mengurangkan modal, jumlah saiz dana Tabung Haji mesti mengekalkan ambang yang sangat besar (sekitar RM80 bilion hingga RM88 bilion) yang menjana pulangan tinggi.
 
@@ -224,7 +224,7 @@ Jika subsidi haji mengagihkan RM740 juta setahun, ia mengurangkan kira-kira 0.4%
 
 **Haziq:** Apakah kesimpulan dan syor terakhir YB untuk langkah ke hadapan?
 
-**Rafizi Ramli:** Pertama, naratif bahawa Pakatan Harapan "menjual" aset Tabung Haji pada tahun 2018 telah disangkal sepenuhnya oleh RCI. Laporan itu mengesahkan bahawa hanya sebidang tanah sahaja yang dijual, dan 75 daripada 106 kaunter ekuiti telah dicairkan di bawah pengurusan portfolio biasa, dengan Tabung Haji mengekalkan hak penolakan pertama (*first right of refusal*) ke atas semua aset UJSB.
+**Rafizi:** Pertama, naratif bahawa Pakatan Harapan "menjual" aset Tabung Haji pada tahun 2018 telah disangkal sepenuhnya oleh RCI. Laporan itu mengesahkan bahawa hanya sebidang tanah sahaja yang dijual, dan 75 daripada 106 kaunter ekuiti telah dicairkan di bawah pengurusan portfolio biasa, dengan Tabung Haji mengekalkan hak penolakan pertama (*first right of refusal*) ke atas semua aset UJSB.
 
 Kedua, orang ramai dan agensi penguatkuasaan undang-undang—termasuk SPRM dan polis—mesti mengekalkan tekanan untuk memastikan siasatan perakaunan forensik secara penuh dijalankan ke atas transaksi khusus yang diserlahkan dalam laporan tersebut. Mereka yang bertanggungjawab atas salah urus kewangan secara sengaja mesti didakwa.
 

@@ -8,7 +8,7 @@ duration_seconds: 7033
 duration: 1h 57m
 view_count: 71607
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Host
 guests:
 - Faizal Rahman
@@ -31,23 +31,23 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** In the name of God, the Most Gracious, the Most Merciful. Peace be upon you and welcome to the third episode of the *The Minister Who Quitted* podcast. With us today is YB Rafizi Ramli, our regular speaker, and also our guest speaker, Tuan Faizal Rahman. How are you, sir?
+**Host:** In the name of God, the Most Gracious, the Most Merciful. Peace be upon you and welcome to the third episode of the *The Minister Who Quitted* podcast. With us today is YB Rafizi, our regular speaker, and also our guest speaker, Tuan Faizal Rahman. How are you, sir?
 
-**Rafizi Ramli:** You call him "Tuan"? How should I call him? Feudal? Brother Faizal or Abang... I’ve never met him before, although we are used to texting. Do you think you’re in court, Tuan?
+**Rafizi:** You call him "Tuan"? How should I call him? Feudal? Brother Faizal or Abang... I’ve never met him before, although we are used to texting. Do you think you’re in court, Tuan?
 
 **Faizal Rahman:** Brother Faizal has been practicing for a long time.
 
-**Rafizi Ramli:** How long?
+**Rafizi:** How long?
 
 **Faizal Rahman:** Yes, I was 18 years old when I started. I did both criminal and civil litigation.
 
 **Host:** And for YB Raf, when was the last time you met Faizal?
 
-**Rafizi Ramli:** I don’t remember. I think it was 10 years ago. The last time I got caught was in 2016 or 2017.
+**Rafizi:** I don’t remember. I think it was 10 years ago. The last time I got caught was in 2016 or 2017.
 
 **Host:** We are lucky to have Faizal here today. I want to ask directly, but I’ll start with YB first. The issue is that many are worried about the recent retirement of the Chief Justice. So, people on the streets are asking: if the Chief Commissioner of the MACC, Tan Sri Azam Baki, could get an extension, why not the Chief Justice?
 
-**Rafizi Ramli:** You have to ask the PM that. The main problem is that in the eyes of the people, the matter is simple. We have to look at it through the eyes of the people, the eyes of lawyers, and the eyes of the intelligentsia who read deeper. For example, there are other Federal Court judges—I believe there are four—who have already been given automatic service extensions of 6 months.
+**Rafizi:** You have to ask the PM that. The main problem is that in the eyes of the people, the matter is simple. We have to look at it through the eyes of the people, the eyes of lawyers, and the eyes of the intelligentsia who read deeper. For example, there are other Federal Court judges—I believe there are four—who have already been given automatic service extensions of 6 months.
 
 In a situation where we lack Federal Court judges, in a situation where Tun Tengku Maimun’s record is good, and in a situation where we will have a shortage due to the absence of the positions of Chief Judge of Malaya and President of the Court of Appeal, then in many cases, it will result in bad law. Naturally, ordinary people will find it strange—hey, why wasn't an extension given?
 
@@ -77,7 +77,7 @@ In such a situation, how will the judicial system function? In a situation where
 
 When this happens to the Chief Justice, it is reported as *unprecedented*. This means it is a practice that has never happened before. You have to understand that when the court’s functions do not operate according to the constitution, it will not work as it should. It is an important function in the administration of the country. Some netizens say, "I don't know because it doesn't have anything to do with me." My response is that the public will only notice when they themselves are suddenly caught up in it or get sued. When these maneuvers we are worried about occur, the victims will also be political people. We have been victims before. So when things are murky, netizens will only realize it once they are caught in the middle.
 
-**Rafizi Ramli:** I want to add a bit. It is indeed a difficult issue because ordinary people and netizens think about the things they face every day—prices of goods, traffic jams, or what’s happening on X (Twitter). We feel like the courts have nothing to do with us.
+**Rafizi:** I want to add a bit. It is indeed a difficult issue because ordinary people and netizens think about the things they face every day—prices of goods, traffic jams, or what’s happening on X (Twitter). We feel like the courts have nothing to do with us.
 
 That is why I always say we need citizenship or civic education. It starts with the understanding that this country has three branches. And this branch is not lower or higher than any other. Our institution is written in such a way as a balance and a guarantee so that there are no branches that can interfere with the rights of ordinary people.
 
@@ -101,7 +101,7 @@ Just imagine, there has been a vacancy for a year. Now we do not have a Chief Ju
 
 This is no longer a secret. Everyone is saying there is a government-preferred candidate being positioned to move up. In the field of law, many people mention his name because it is no longer a secret. We feel once again there is a conflict and the promised reforms are not happening.
 
-**Rafizi Ramli:** I feel Faizal is still "playing it safe." He’s a lawyer; he’s afraid of *contempt of court*. It’s okay, let me try. This thing is an open secret. The facts are as follows: there is a Federal Court judge now who was appointed "expressly" from his previous position as Attorney General directly to Federal Court Judge. He had only ever been a judge in the Sessions Court for about 3 years.
+**Rafizi:** I feel Faizal is still "playing it safe." He’s a lawyer; he’s afraid of *contempt of court*. It’s okay, let me try. This thing is an open secret. The facts are as follows: there is a Federal Court judge now who was appointed "expressly" from his previous position as Attorney General directly to Federal Court Judge. He had only ever been a judge in the Sessions Court for about 3 years.
 
 Legal practitioners know this is part of the plan. The rumor outside is that he will be appointed as the Chief Judge of Malaya and subsequently Chief Justice in a short period. This concern relates to morality and its impact on the institution. A respected judge is judged by the judgments they write. How can someone who has never been a High Court or Court of Appeal judge, and so far has only one judgment, be groomed to lead the judicial institution?
 
@@ -113,7 +113,7 @@ This is no longer a matter of a "6-month extension." This is a matter of institu
 
 **Host:** Speaking of maneuvering, I have another issue: the 13th Malaysia Plan (RMK-13) maneuvers. I read the comments on YB’s posts; some say, "It's normal, YB, when there's someone new, they have their own way and approach." Why isn't it that simple, YB?
 
-**Rafizi Ramli:** Well, if we were talking about curry puffs, we could change the menu in two weeks. The issue is that the Five-Year Malaysia Plan is a long-term plan that looks at the entire structure of the country—political, economic, educational, and social. Because it is the largest project in the country, the process of understanding issues and building goals is long.
+**Rafizi:** Well, if we were talking about curry puffs, we could change the menu in two weeks. The issue is that the Five-Year Malaysia Plan is a long-term plan that looks at the entire structure of the country—political, economic, educational, and social. Because it is the largest project in the country, the process of understanding issues and building goals is long.
 
 It starts with a *bottom-up* process. The Ministry of Economy handles workshops for diagnosis. We don’t just listen to the heads of ministries, but we sit down with teachers, parents, and stakeholders. That’s what takes a long time for us to filter and process.
 
@@ -123,7 +123,7 @@ That is why I question whether it can be done well in two weeks. If it’s just 
 
 **Host:** So you mean RMK-13 was actually ready to be presented in June 2025?
 
-**Rafizi Ramli:** The final presentation to the Cabinet was in February 2025. At that time, ministries were given a chance to provide feedback if they disagreed. The Ministry of Education disagreed the most. So in March and April, we went through a harmonization process led by the Prime Minister himself. There was already a consensus.
+**Rafizi:** The final presentation to the Cabinet was in February 2025. At that time, ministries were given a chance to provide feedback if they disagreed. The Ministry of Education disagreed the most. So in March and April, we went through a harmonization process led by the Prime Minister himself. There was already a consensus.
 
 Suddenly the view arose that we have to wait for the latest Q2 2025 figures. I said, the Malaysia Plan is a 5-year plan; it looks at the *overall trend*, it’s not very sensitive to one quarter's figures. We just want to know if the development budget is around RM400 billion or RM450 billion for 5 years. But the decision was made to postpone it to the end of July. This was before the reshuffle.
 
@@ -135,15 +135,15 @@ My concern is that this RMK-13 document won't get the proper attention from the 
 
 **Faizal Rahman:** But isn't it easier for those at the top when the people don't care? They can continue maneuvering.
 
-**Rafizi Ramli:** Not necessarily. The strength of the Unity Government now is administrative skill. Even PN supporters might admit PH is more skilled at administration. So to get the people's support, this document is important to convince them about the next reforms. If the focus is only on PN’s political issues, the government loses.
+**Rafizi:** Not necessarily. The strength of the Unity Government now is administrative skill. Even PN supporters might admit PH is more skilled at administration. So to get the people's support, this document is important to convince them about the next reforms. If the focus is only on PN’s political issues, the government loses.
 
 **Host:** RMK is the *core business* of the Ministry of Economy. But there is another issue people are asking about: PADU. People want to know in terms of implementation and *feasibility*, what stage is it at now?
 
-**Rafizi Ramli:** PADU is actually already finished. The original plan was like this...
+**Rafizi:** PADU is actually already finished. The original plan was like this...
 
 **Interviewer:** Since the beginning, we have known several things regarding how the government handles its systems. What were the primary considerations when you first looked at this?
 
-**Rafizi Ramli:** First, we know that the government spends a large amount to develop systems. The government spent RM12-13 billion to develop the IT system. It’s very expensive. Each agency wants to build an IT system; there is an IT system everywhere. I know because as the Minister of Economy, every request for an IT system must reach the Ministry of Economy, and finally, I will be the one to implement it in the budget process.
+**Rafizi:** First, we know that the government spends a large amount to develop systems. The government spent RM12-13 billion to develop the IT system. It’s very expensive. Each agency wants to build an IT system; there is an IT system everywhere. I know because as the Minister of Economy, every request for an IT system must reach the Ministry of Economy, and finally, I will be the one to implement it in the budget process.
 
 That 13 billion between development expenditure and operating expenditure is huge and it continues to increase from year to year. One of the reasons is that each system is developed in a silo. The ministry or agency wants to do it, and they will do it from A to Z—from the specs and the back-end database to the front-end. Then the people have to fill everything back in there, passwords and everything. Then they have their own app. Let's do the second agency; they do it too. It’s like that for the third agency as well. Meanwhile, the Malaysian people who have to navigate that, there are many of them.
 
@@ -151,7 +151,7 @@ Information is actually available in all government departments. The National Re
 
 **Interviewer:** So how does this translate into policy needs, specifically regarding subsidies?
 
-**Rafizi Ramli:** We also have other needs. For example, we need to readjust subsidies—retargeting subsidies so that only eligible families within a certain household income and expenditure category are eligible for subsidies, while others are not.
+**Rafizi:** We also have other needs. For example, we need to readjust subsidies—retargeting subsidies so that only eligible families within a certain household income and expenditure category are eligible for subsidies, while others are not.
 
 From the concept of a large subsidy, we can develop it not only for the petrol RON95 issue, but we can also use it for all other assistance—social programs, schools, PTPTN, everything—when we have information about the socio-economic situation at home. Then we also have the problem of having too many apps. People make apps, they forget to register, and so on. So, it should be that we only have one government app. Enter there, everyone can do everything there. If there is one integrated database, it will make things much easier to do.
 
@@ -159,7 +159,7 @@ For the sake of the country's economy and to increase government delivery effici
 
 **Interviewer:** Launching PADU by January 1, 2024, seems like a very tight timeline. How was that managed?
 
-**Rafizi Ramli:** The Ministry of Economy also felt, "Oh no, the government wants to do this in another 6 months." It had to be launched by January 1, 2024, because the original plan was that the first use case, the first use of PADU, would be for subsidy targeting. That was expected to be done in that time—beginning of 2024. So we did it.
+**Rafizi:** The Ministry of Economy also felt, "Oh no, the government wants to do this in another 6 months." It had to be launched by January 1, 2024, because the original plan was that the first use case, the first use of PADU, would be for subsidy targeting. That was expected to be done in that time—beginning of 2024. So we did it.
 
 In that six-month period, we used government funds. We didn't use external consultants. People said we used RM85 million, but what I actually remember is less than 20-something million. And out of that 20-something million, the IT cost wasn't even 10 million. And even that was only for servers and the bulk of it was to pay the e-KYC provider and API.
 
@@ -169,7 +169,7 @@ So, when we want to move, we take the contract of university students as MyStep 
 
 **Interviewer:** What was the result of that registration drive?
 
-**Rafizi Ramli:** It was successfully completed by the end of the first quarter of 2024. We got registrations for 21 million out of approximately 30 million Malaysians. That’s nearly 70% of the people in there, and it covers almost 12 million houses. If you ask other economists, PADU is one of the largest state data sources in the government. The largest is the Department of Statistics (DOSM), then PADU.
+**Rafizi:** It was successfully completed by the end of the first quarter of 2024. We got registrations for 21 million out of approximately 30 million Malaysians. That’s nearly 70% of the people in there, and it covers almost 12 million houses. If you ask other economists, PADU is one of the largest state data sources in the government. The largest is the Department of Statistics (DOSM), then PADU.
 
 The Ministry of Economy’s proposal regarding how to implement this subsidy is that we look at the area and the family; we look at the basic living expenses. If the family is large, where do they live—this is what is needed. If they are within the criteria, they get it. Those above the line don't.
 
@@ -177,11 +177,11 @@ And when they get it, they get monthly assistance. Some can get up to RM500 a mo
 
 **Interviewer:** But that proposal wasn't fully implemented as planned, was it?
 
-**Rafizi Ramli:** But it wasn't agreed upon. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, the information department or the Department of Communications (JCOM) failed to provide an explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
+**Rafizi:** But it wasn't agreed upon. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, the information department or the Department of Communications (JCOM) failed to provide an explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
 
 **Interviewer:** Is there a possibility that PADU will be forgotten entirely?
 
-**Rafizi Ramli:** PADU is indeed already being used within the government. For example, the Digital Ministry, as far as I know, is developing a "single window" application. This comes from the National Economic Action Council's decisions to direct the country to become a digital government. One goal is to combine all these applications into one—no need to download many apps or have multiple usernames. When they do that, they won't ask the people to re-register; they use PADU.
+**Rafizi:** PADU is indeed already being used within the government. For example, the Digital Ministry, as far as I know, is developing a "single window" application. This comes from the National Economic Action Council's decisions to direct the country to become a digital government. One goal is to combine all these applications into one—no need to download many apps or have multiple usernames. When they do that, they won't ask the people to re-register; they use PADU.
 
 Ministers come and go. When I joined as Minister of Economy, I didn't change my office, and I didn't change other policies that I felt were okay. My office is empty; people say it's crazy, but PADU is there for RMK-13. That thing is ready, and it is a very good database for the government. The original intention wasn't just for RON95. PADU was launched by the Prime Minister himself. It is proof to the region how fast Malaysia is moving towards digital administration. My view is that the Digital Ministry will use it.
 
@@ -189,33 +189,33 @@ When we built PADU, we knew that it would save hundreds of millions of public mo
 
 **Interviewer:** There is a perception that political stability is more important than clear policy. After the internal party elections, how do you see the current state of the government's policy clarity?
 
-**Rafizi Ramli:** I don't see much policy change now. Perhaps for the last two months, there have been many negative issues for the government, so I think the government has had to "maneuver" a lot. From SST, then issues with various commodities, and now the judiciary. It has become more defensive. I am actually worried that this government will eventually not succeed in highlighting policy because it is busy maneuvering.
+**Rafizi:** I don't see much policy change now. Perhaps for the last two months, there have been many negative issues for the government, so I think the government has had to "maneuver" a lot. From SST, then issues with various commodities, and now the judiciary. It has become more defensive. I am actually worried that this government will eventually not succeed in highlighting policy because it is busy maneuvering.
 
 **Interviewer:** What do you mean by political stability in this context? Is the Unity Government still stable following the PKR elections?
 
-**Rafizi Ramli:** Stability means there is no fighting within the components. I think PKR will continue to have an effect on PH. The most affected is Amanah, then DAP, because Amanah shares a similar profile to PKR. That turbulence will continue for a while within PKR and PH.
+**Rafizi:** Stability means there is no fighting within the components. I think PKR will continue to have an effect on PH. The most affected is Amanah, then DAP, because Amanah shares a similar profile to PKR. That turbulence will continue for a while within PKR and PH.
 
 The risk to political stability comes if the noise of the PKR elections persists and starts to show that the backbone and steering of the government, which is PH, is becoming defensive. Previously, supporters would defend the party no matter what. Now, one issue after another becomes critical. When supporters become critical, other components like GPS or BN might say, "We have a problem here because you can no longer deliver your part of the bargain."
 
 **Interviewer:** Is this shift in support obvious in the data?
 
-**Rafizi Ramli:** It is obvious. I usually wait for data before commenting. I have received the latest data, and it is not good for the government. I can’t share it yet because it belongs to others, but that data is quite bad for the government. There is a correlation between the noise on social media regarding internal elections, SST, and the decrease in support. Now I have received data that confirms it is obvious and worse than what I shared during the election campaign.
+**Rafizi:** It is obvious. I usually wait for data before commenting. I have received the latest data, and it is not good for the government. I can’t share it yet because it belongs to others, but that data is quite bad for the government. There is a correlation between the noise on social media regarding internal elections, SST, and the decrease in support. Now I have received data that confirms it is obvious and worse than what I shared during the election campaign.
 
 **Interviewer:** Regarding the PKR internal issues, the ROS is looking into complaints. If the elections were cancelled and you had to contest again, would you run for Deputy President or even President?
 
-**Rafizi Ramli:** I will move on. I will not contest any position in PKR even if the results are annulled. I feel the culture shown in PKR during this election is not something I want to be part of. Even if there are new elections, I don't feel I or we have the ability to clean the party of that culture.
+**Rafizi:** I will move on. I will not contest any position in PKR even if the results are annulled. I feel the culture shown in PKR during this election is not something I want to be part of. Even if there are new elections, I don't feel I or we have the ability to clean the party of that culture.
 
 I will respect my mandate as a Member of Parliament for the remaining time, but the matter of PKR is a matter of reform. We joined PKR before because we were convinced this was a platform with a good culture, bringing a new political culture that was free of *hanky-panky* and focused on the people. I don't feel I meet the conditions to influence that culture anymore. Even if I was given a "red carpet" to be the Deputy President again, I don't want to be appointed just to do the work while the culture remains permanent. I will go back to my "shop."
 
 **Interviewer:** You’ve been in PKR for 27 years since 1999. Is it really a matter of "moving on" like a breakup?
 
-**Rafizi Ramli:** It’s like being in love. There are good times and bad times. But if at one point, we feel that you have changed, I have changed, and we are no longer compatible. It’s better to move on. 27 years is a long time, but the party doesn't belong to the group that has been making noise for the last 4-5 months; it belongs to the tens of thousands who worked hard since 1999.
+**Rafizi:** It’s like being in love. There are good times and bad times. But if at one point, we feel that you have changed, I have changed, and we are no longer compatible. It’s better to move on. 27 years is a long time, but the party doesn't belong to the group that has been making noise for the last 4-5 months; it belongs to the tens of thousands who worked hard since 1999.
 
 In accounting terms, we say "substance over form." The form is still there—the party, the name—but the substance is very different from what I knew. If we have reached that level, it’s better for us to move on. I don’t have any interest in burning the "gifts" I was given; I’ll just put them in a box and keep them in the storeroom.
 
 **Interviewer:** Party leaders like Fuziah Salleh have suggested there is "incitement" involved. What is your comment?
 
-**Rafizi Ramli:** You guys are the ones inciting. I am not a sentimental or emotional person; I am factual and objective because of my training. Everything that happened in PKR, I mentioned directly to the Prime Minister. If Fuziah says someone is inciting, that’s "post-divorce obsession." I’ve moved on.
+**Rafizi:** You guys are the ones inciting. I am not a sentimental or emotional person; I am factual and objective because of my training. Everything that happened in PKR, I mentioned directly to the Prime Minister. If Fuziah says someone is inciting, that’s "post-divorce obsession." I’ve moved on.
 
 Don't take this lightly. The people being persecuted are the ordinary members down there who knock on doors and spend their own money. Leaders might think, "I have a big heart, win or lose I stay," but for the grassroots, it's about dignity. If a branch head gets cheated, where does he show his face at the coffee shop? Fuziah might lose in Kuantan but become a Senator or get a job, but the people below have a hard time.
 
@@ -223,7 +223,7 @@ If the attitude continues where you have the positions you wanted but you point 
 
 **Interviewer:** Many see you as a future Prime Minister candidate. Do you have that ambition?
 
-**Rafizi Ramli:** My observation is that anyone who is busy wanting to be Prime Minister or is being propped up to be Prime Minister usually doesn't end up being one. Politics is hard to read. In the 90s, it was just UMNO, and whoever climbed to the top became PM. Now, you can be PM today and not next week.
+**Rafizi:** My observation is that anyone who is busy wanting to be Prime Minister or is being propped up to be Prime Minister usually doesn't end up being one. Politics is hard to read. In the 90s, it was just UMNO, and whoever climbed to the top became PM. Now, you can be PM today and not next week.
 
 Ask me, my interest... I don't have much interest in this public service, to be a civil servant or MP. My personality is stubborn; I'm not good at "working" people. If becoming PM means I have to change my substance just to play the game—kissing this person or that person—then no thanks. In our society, people say you have to be patient and adjust to survive. That’s how the promise of reformation becomes something else.
 
@@ -231,7 +231,7 @@ If the people want a good candidate, it’s not about the candidate; it’s abou
 
 **Interviewer:** With 16 million voters, many "on the fence," how do you see the next general election?
 
-**Rafizi Ramli:** Since 2008, fence-sitters have indeed shifted their support. We do not have one dominant party, which is good for the country. It depends on the party’s leadership and essence. For PKR, the branding used to be a progressive, talented, merit-based party with integrity.
+**Rafizi:** Since 2008, fence-sitters have indeed shifted their support. We do not have one dominant party, which is good for the country. It depends on the party’s leadership and essence. For PKR, the branding used to be a progressive, talented, merit-based party with integrity.
 
 If the essence of PKR ends up being only Anwar Ibrahim, we will have a problem. Those who like him are okay, but for those on the fence who want something different, they won't find it. Any party needs vibrancy and variety. Don't be like PAS, where you have to have only one type of blind loyalty.
 
@@ -239,15 +239,15 @@ Only a party that displays integrity and a progressive nature has a chance with 
 
 **Interviewer:** The mantra from the Prime Minister’s circle seems to be that they have two years to fix everything. Is that realistic?
 
-**Rafizi Ramli:** That’s the theory—hold elections now so that within two years things will heal. But we see now that it still hasn't subsided. Look at PAS in 2015; the "anti-Anwarista" sentiment didn't heal; it ended with the formation of Amanah and PAS losing badly in 2018.
+**Rafizi:** That’s the theory—hold elections now so that within two years things will heal. But we see now that it still hasn't subsided. Look at PAS in 2015; the "anti-Anwarista" sentiment didn't heal; it ended with the formation of Amanah and PAS losing badly in 2018.
 
 The PKR situation isn't an "apple to apple" comparison because PKR is now in government, but those calculating should remember that when an election is "rough" and personal, involving things outside of gentlemanly practice, the wound is very hard to heal.
 
 **Interviewer:** Will you defend your seat in Pandan in the 16th General Election (PRU16)?
 
-**Rafizi Ramli:** One thing is there is a possibility that I indeed do not intend to participate in PRU16. If I resigned as a minister, why would I compete in the PRU? I haven't made a decision to compete. I want to contribute to building social enterprises and working with the community.
+**Rafizi:** One thing is there is a possibility that I indeed do not intend to participate in PRU16. If I resigned as a minister, why would I compete in the PRU? I haven't made a decision to compete. I want to contribute to building social enterprises and working with the community.
 
-**Rafizi Ramli:** In my experience over the last seven to eight years, the time outside of politics was the most productive time for me. When I left politics in 2018, most of the knowledge I learned that helped me become a minister was while I was establishing INVOKE and being an ordinary person running a startup business.
+**Rafizi:** In my experience over the last seven to eight years, the time outside of politics was the most productive time for me. When I left politics in 2018, most of the knowledge I learned that helped me become a minister was while I was establishing INVOKE and being an ordinary person running a startup business.
 
 That was the knowledge I learned most in those three to four years. So, it has been very productive for me when I am on the outside. That's why I'm excited, for example, if I don't stand—you know, if I take a break from politics after PRU16—I am sure my involvement and efforts with the ordinary grassroots to develop social enterprises, besides being able to serve the public, will also be a learning process that will be quite productive. Because there are things I still don't understand.
 
@@ -257,15 +257,15 @@ So that’s why for now, I haven't made a decision regarding what will happen af
 
 **Questioner:** Any more questions? One last thing. The final revelation three days before I stop, focusing on the case for the north, I revealed about Amazon S3.
 
-**Rafizi Ramli:** Oh, Amazon S3. I got this Amazon S3 thing from someone inside the system. So, before the fraud occurred, I was inside that system.
+**Rafizi:** Oh, Amazon S3. I got this Amazon S3 thing from someone inside the system. So, before the fraud occurred, I was inside that system.
 
 **Questioner:** To what extent is this Amazon S3 actually a database that was manipulated before being injected into the blockchain? This is actually the answer people said was valid before I revealed the Amazon S3 issue. At first, I revealed the blockchain. Some DMed me saying, "You need to explain the Amazon S3." But when I asked for the data, they went silent; maybe they were afraid at that time. After a month or two, the Amazon S3 data came back. How do we see the coordination there? From EKYC, it doesn't go straight into the blockchain because there is no door or gap there. It turns out it's true: it goes into Amazon S3 first and then is injected into the blockchain.
 
 So for me, YB, based on the data I received, this is a fraud. I don't know what YB's response is. That is my last question.
 
-**Rafizi Ramli:** That matter was indeed revealed to the last MPP (Central Leadership Council) until a big fight broke out. As I said, a big fight. Anwar Ibrahim shouted at me for 20 minutes at that time. That revelation showed the structure, including from the devices, it goes to EKYC first. Then, if EKYC clears, it only then goes to S3. So S3 definitely exists.
+**Rafizi:** That matter was indeed revealed to the last MPP (Central Leadership Council) until a big fight broke out. As I said, a big fight. Anwar Ibrahim shouted at me for 20 minutes at that time. That revelation showed the structure, including from the devices, it goes to EKYC first. Then, if EKYC clears, it only then goes to S3. So S3 definitely exists.
 
-**Rafizi Ramli:** What I explained, the whole structure, is indeed correct. That is what the developers presented to us, supposedly so that digital auditors could compare the final blockchain to the S3 server and various other things mentioned. I think even the developers, when they presented all that, thought we were all stupid. They thought we didn't understand IT; they forgot that I have a startup company.
+**Rafizi:** What I explained, the whole structure, is indeed correct. That is what the developers presented to us, supposedly so that digital auditors could compare the final blockchain to the S3 server and various other things mentioned. I think even the developers, when they presented all that, thought we were all stupid. They thought we didn't understand IT; they forgot that I have a startup company.
 
 That’s why we brought in an independent third-party technical team for an audit. So they observed and listed all the questions regarding everything that could happen, and those manipulations have indeed been submitted to the party and the public. Also regarding the source code. Because it's like this: from the device, it enters the server, whether it's on S3 or on EKYC. Wherever it is, it's the source code that will interpret where the candidate goes. So who actually checks this source code so that if the candidate is nominated as number one, he really interprets as candidate number one?
 
@@ -283,4 +283,4 @@ So, up to a certain point, by the time I was campaigning, I said I know I don't 
 
 So, blockchain is just a code. Let’s say they show the blockchain; the blockchain might have thousands of lines of code that mean nothing to us. So you say, "This is blockchain," and no one understands blockchain. Even Einstein doesn't understand blockchain. It’s just a screen full of these codes. We know that it's a scramble so people can't read it. That's why, to prove that blockchain is really good, we have to look at the screen recording. When you open the blockchain and decrypt it, you tally it. They don't want to decrypt the blockchain and show the tally. So, no matter how Hyperledger the blockchain is, it means nothing to anyone.
 
-**Host:** This has been the longest ministerial session in our third episode with our guest, Rafizi Ramli. Thank you very much, brothers. Thank you, YBM (The Honorable Minister), for inviting me. Oh, YBM? I thought you were being sarcastic just now. Okay, that is all from us. Good night. See you again next week. Peace be upon you.
+**Host:** This has been the longest ministerial session in our third episode with our guest, Rafizi. Thank you very much, brothers. Thank you, YBM (The Honorable Minister), for inviting me. Oh, YBM? I thought you were being sarcastic just now. Okay, that is all from us. Good night. See you again next week. Peace be upon you.

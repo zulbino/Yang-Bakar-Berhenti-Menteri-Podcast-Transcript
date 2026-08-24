@@ -8,7 +8,7 @@ duration_seconds: 10607
 duration: 2h 56m
 view_count: 185064
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Haziq
 - Iqbal
@@ -19,7 +19,7 @@ topics:
 - Krisis Dalaman PAS Perlis dan Isu Walak-un vs Mufti Perlis
 - Perubahan Budaya Politik dan Pengaruh Media Sosial terhadap Struktur Hierarki Parti
 - Langkah Pembaharuan Ekonomi dan Kerajaan Gabungan di Romania bawah Ilie Bolojan
-summary: Dalam episod 29 podcast Yang Berkhidmat Menteri, Rafizi Ramli bersama Haziq
+summary: Dalam episod 29 podcast Yang Berkhidmat Menteri, Rafizi bersama Haziq
   dan Iqbal membincangkan pelbagai isu tempatan dan antarabangsa. Perbincangan merangkumi
   insiden kelakar calon pemilihan KRT di Indonesia yang mengambil semula sumbangan
   mimbar surau selepas kalah, isu kebebasan SPRM dan integriti yang membabitkan kenyataan
@@ -34,13 +34,13 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum dan selamat tahun baru. Selamat malam. Selamat datang kepada... macam biasa...
+**Rafizi:** Assalamualaikum dan selamat tahun baru. Selamat malam. Selamat datang kepada... macam biasa...
 
 **Speaker 4:** Dah terpesong daripada skrip dalam minit pertama lagi.
 
 **Haziq:** Nak mula balik?
 
-**Rafizi Ramli:** Mula balik. Kita tak payah panjang-panjang. Selamat datang semua. Cuba jadikan ia santai seboleh mungkin.
+**Rafizi:** Mula balik. Kita tak payah panjang-panjang. Selamat datang semua. Cuba jadikan ia santai seboleh mungkin.
 
 **Iqbal:** Haziq dah berucap, aku cakap ho ho ho.
 
@@ -48,79 +48,79 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 4:** Baik, kita sedia untuk mula.
 
-**Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berkhidmat Menteri episod 29. Macam biasa, dengan saudara Rafizi Ramli, semestinya, yang kali ini akan menjadi penganalisis politik, dan seorang lagi penceramah jemputan kita, saudara Iqbal. Apa khabar?
+**Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berkhidmat Menteri episod 29. Macam biasa, dengan saudara Rafizi, semestinya, yang kali ini akan menjadi penganalisis politik, dan seorang lagi penceramah jemputan kita, saudara Iqbal. Apa khabar?
 
-**Rafizi Ramli:** Sekali ini sahaja ke aku jadi penganalisis politik?
+**Rafizi:** Sekali ini sahaja ke aku jadi penganalisis politik?
 
 **Haziq:** Tak, sebab isu kali ini sampai ke sudut politik.
 
 **Iqbal:** Ada beberapa kali ini.
 
-**Rafizi Ramli:** YB, cuma ada yang...
+**Rafizi:** YB, cuma ada yang...
 
 **Haziq:** Pasal Iqbal, berpakaian macam Iqbal, dia pakai baju PAS tu.
 
 **Iqbal:** Kita semua tiga-tiga pakai baju PN secara tidak sengaja.
 
-**Rafizi Ramli:** Secara tidak sengaja, ha.
+**Rafizi:** Secara tidak sengaja, ha.
 
 **Haziq:** Orang kata sengaja secara subliminal.
 
-**Rafizi Ramli:** Tak tak, aku cuma nak muat, aku ingat aku boleh muat baju Melayu ni yang tahun 2023 punya. Memang agak jelaslah aku masih gemuk lagi kan.
+**Rafizi:** Tak tak, aku cuma nak muat, aku ingat aku boleh muat baju Melayu ni yang tahun 2023 punya. Memang agak jelaslah aku masih gemuk lagi kan.
 
 **Iqbal:** Saya masih terbatuk-batuk sebab itu saya pilih baju yang longgar sikit.
 
-**Rafizi Ramli:** Iqbal berjangkit dari minggu lepas. Tapi tak apa, kali ini kita ada kelainan. Yang baru masa bangun, masa tidur terbangun ke?
+**Rafizi:** Iqbal berjangkit dari minggu lepas. Tapi tak apa, kali ini kita ada kelainan. Yang baru masa bangun, masa tidur terbangun ke?
 
 **Iqbal:** Alhamdulillah tidak. Hanya lepas bangun baru mula.
 
-**Rafizi Ramli:** Sebab aku rasa aku mungkin sampai ke tahap itu. Batuk aku sampai terbangun tengah tidur sebab batuk.
+**Rafizi:** Sebab aku rasa aku mungkin sampai ke tahap itu. Batuk aku sampai terbangun tengah tidur sebab batuk.
 
 **Iqbal:** YB dah pulih lah.
 
-**Rafizi Ramli:** Dah pulih, jauh lebih baik.
+**Rafizi:** Dah pulih, jauh lebih baik.
 
 **Iqbal:** Lepas saya, Haziq pula lepas ini.
 
 **Haziq:** YB, sebelum kita mula YB, tahun baru. YB malam tahun baru dekat mana?
 
-**Rafizi Ramli:** Ada tengah tengok New Scotland Yard Files dekat YouTube.
+**Rafizi:** Ada tengah tengok New Scotland Yard Files dekat YouTube.
 
 **Haziq:** Apa kes dia?
 
-**Rafizi Ramli:** Aku rasa kes pembunuhan di sebuah kampung. Satu kampung dekat mana entah di UK.
+**Rafizi:** Aku rasa kes pembunuhan di sebuah kampung. Satu kampung dekat mana entah di UK.
 
 **Haziq:** Ni tengok seorang-seorang ke atau tengok dengan keluarga?
 
-**Rafizi Ramli:** Kami tiga orang, jadi kami ada tiga TV, jadi setiap seorang daripada kami tengok benda berbeza. Jadi tak kongsi. Jadi aku tak tahu apa yang isteri aku tengok, apa yang anak lelaki aku tengok.
+**Rafizi:** Kami tiga orang, jadi kami ada tiga TV, jadi setiap seorang daripada kami tengok benda berbeza. Jadi tak kongsi. Jadi aku tak tahu apa yang isteri aku tengok, apa yang anak lelaki aku tengok.
 
 **Iqbal:** Masa mercun tu meletup-letup tak perasan?
 
-**Rafizi Ramli:** Aku tak peduli pun, aku teruskan menonton. Mereka turun keluar dekat beranda tengok sekejap.
+**Rafizi:** Aku tak peduli pun, aku teruskan menonton. Mereka turun keluar dekat beranda tengok sekejap.
 
 **Haziq:** Saya dekat tandas. Jadi ada...
 
-**Rafizi Ramli:** Terlalu banyak butiran. Mungkin tak payah kongsilah.
+**Rafizi:** Terlalu banyak butiran. Mungkin tak payah kongsilah.
 
 **Haziq:** Tapi itulah kali pertama boleh guna lawak 'hamba' tu kan. Masuk tandas semua. Maaf, macam mana dengan kau Iqbal?
 
 **Iqbal:** Saya tengok filem Avatar yang terbaru.
 
-**Rafizi Ramli:** Avatar, sekarang dah Avatar 3?
+**Rafizi:** Avatar, sekarang dah Avatar 3?
 
 **Iqbal:** Dah yang ketiga.
 
-**Rafizi Ramli:** Filem tu panjang sangatlah, aku rasa Avatar 2 pun aku tak tengok.
+**Rafizi:** Filem tu panjang sangatlah, aku rasa Avatar 2 pun aku tak tengok.
 
 **Iqbal:** Ha itulah, filem tu panjang. 13 tahun antara yang pertama dan kedua, lepas tu 3 tahun antara yang kedua dan ketiga. Tapi okay lah, berbaloi.
 
-**Rafizi Ramli:** Ya, jadi umur makin meningkat untuk semua orang. Sebab bila semakin tua, aku tak rasa berbaloi nak menghadap kesesakan lalu lintas pergi KLCC ke apa lah, boleh tengok dekat YouTube sahaja pertunjukan bunga api kan.
+**Rafizi:** Ya, jadi umur makin meningkat untuk semua orang. Sebab bila semakin tua, aku tak rasa berbaloi nak menghadap kesesakan lalu lintas pergi KLCC ke apa lah, boleh tengok dekat YouTube sahaja pertunjukan bunga api kan.
 
 **Haziq:** Baiklah YB, jom kita tengok apa yang ada pada minggu ini dalam episod yang ke-29. Segmen pertama: Ber-Iya-Iya. Kita ada beberapa lah YB ya.
 
 **Iqbal:** Pertama kita ada...
 
-**Rafizi Ramli:** Jangan hamba eh, okay.
+**Rafizi:** Jangan hamba eh, okay.
 
 **Iqbal:** Insya-Allah saya cuba. Kalah pemilihan KRT, ambil semula sumbangan.
 
@@ -128,31 +128,31 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iqbal:** Ni dekat Indonesia, Sulawesi.
 
-**Rafizi Ramli:** Jadi, sekejap. Apa sebenarnya jadi ni?
+**Rafizi:** Jadi, sekejap. Apa sebenarnya jadi ni?
 
 **Iqbal:** Ini memang buruk/teruklah, maksudnya kalau korang tak jumpa yang dekat Malaysia, Indonesia pun Indonesia lah. Tapi cerita dia kelakar, sangat kelakar. Haziq boleh ceritakan?
 
 **Haziq:** Yelah, hari Sabtu tu dia kalah pemilihan, hari Ahad tu dia dengan kawan-kawan dia terus pergi balik surau yang dia bagi sumbangan tu, dia keluarkan mimbar tu. Tapi dia bukannya bawa keluar apa pun, dia sorokkan di sesuatu tempat dalam masjid juga supaya orang tak guna. Dia letak bawah pokok rasanya.
 
-**Rafizi Ramli:** Dekat Indonesia pun ada KRT juga?
+**Rafizi:** Dekat Indonesia pun ada KRT juga?
 
 **Haziq:** Nama dia memang Ketua Rukun Tetangga, Rukun Tetangga lah.
 
 **Iqbal:** Saya tertanya-tanya apa hukum mengambil balik sumbangan?
 
-**Rafizi Ramli:** Orang Melayu kata buruk siku [memberi sesuatu dan mengambilnya semula].
+**Rafizi:** Orang Melayu kata buruk siku [memberi sesuatu dan mengambilnya semula].
 
 **Iqbal:** Jadi, jelas ada contoh terdahulu lah.
 
-**Rafizi Ramli:** Aku akan komen panjang kecualilah benda ni dekat Malaysia, dekat Pandan ke apa kan. Ini dekat Indonesia. Tapi kita pun ada juga KRT, Rukun Tetangga ni kan. Tapi ini bunyi tak cantik sikit lah. Selalunya kalau dekat Malaysia ni, geng KRT dia tak campur dengan geng surau. Sebab itu mula-mula aku tengok ni, "Wah, takkanlah..." Ini serba boleh betul ni, dia pun KRT, dia pun surau. Selalunya ia kumpulan berasingan dekat Malaysia. Baiklah.
+**Rafizi:** Aku akan komen panjang kecualilah benda ni dekat Malaysia, dekat Pandan ke apa kan. Ini dekat Indonesia. Tapi kita pun ada juga KRT, Rukun Tetangga ni kan. Tapi ini bunyi tak cantik sikit lah. Selalunya kalau dekat Malaysia ni, geng KRT dia tak campur dengan geng surau. Sebab itu mula-mula aku tengok ni, "Wah, takkanlah..." Ini serba boleh betul ni, dia pun KRT, dia pun surau. Selalunya ia kumpulan berasingan dekat Malaysia. Baiklah.
 
 **Iqbal:** Baik, YB.
 
-**Rafizi Ramli:** Hamba.
+**Rafizi:** Hamba.
 
 **Iqbal:** Tak cukup, YB?
 
-**Rafizi Ramli:** Tidak, sebab Indonesia.
+**Rafizi:** Tidak, sebab Indonesia.
 
 **Iqbal:** Baru mendunia untuk topik-topik perbincangan.
 
@@ -160,81 +160,81 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iqbal:** Yang ini bolehlah kata ber-iya.
 
-**Rafizi Ramli:** Sebab dia juga yang ber-iya tahun 2015, dia yang pergi sahkan pasal derma daripada Arab tu kan. Ni petikan kenyataan dia: "Pengarah Bahagian Siasatan SPRM, Datuk Azam Baki, ketika mengesahkan perkara itu berkata, 'Pertemuan tersebut berlaku di sebuah negara Asia Barat baru-baru ini'." Maksudnya dia kena tipulah. Tapi pada masa yang sama, dia juga yang paling awal sekali mengucapkan tahniah kepada pasukan penyiasat pendakwaan, "penat lelah sejak 2015". Kalau ikutkan, sepatutnya penyiasat yang terlibat dalam pasukan siasatan 1MDB, mereka ini mesti senyap-senyap diam-diam sebenarnya menyampah dekat Azam Baki. Sebab Azam Baki pada tahun 2015 dengan kenyataan dia itu menutup kes. Oleh sebab itulah akhirnya sebenarnya derma dan tidak ada kes. Aku dah suarakan pandangan aku.
+**Rafizi:** Sebab dia juga yang ber-iya tahun 2015, dia yang pergi sahkan pasal derma daripada Arab tu kan. Ni petikan kenyataan dia: "Pengarah Bahagian Siasatan SPRM, Datuk Azam Baki, ketika mengesahkan perkara itu berkata, 'Pertemuan tersebut berlaku di sebuah negara Asia Barat baru-baru ini'." Maksudnya dia kena tipulah. Tapi pada masa yang sama, dia juga yang paling awal sekali mengucapkan tahniah kepada pasukan penyiasat pendakwaan, "penat lelah sejak 2015". Kalau ikutkan, sepatutnya penyiasat yang terlibat dalam pasukan siasatan 1MDB, mereka ini mesti senyap-senyap diam-diam sebenarnya menyampah dekat Azam Baki. Sebab Azam Baki pada tahun 2015 dengan kenyataan dia itu menutup kes. Oleh sebab itulah akhirnya sebenarnya derma dan tidak ada kes. Aku dah suarakan pandangan aku.
 
 **Haziq:** Dan Apandi ada seorang lagi?
 
-**Rafizi Ramli:** Apandi tu sebenarnya nak komen tu susah, sebab dia cakap samar-samar. "Alpa" tu tak tahu maksudnya siapa. Kalau berspekulasi, kalau salah cakap nanti dia saman kau. Dia pernah saman Tan Sri Lim Kit Siang.
+**Rafizi:** Apandi tu sebenarnya nak komen tu susah, sebab dia cakap samar-samar. "Alpa" tu tak tahu maksudnya siapa. Kalau berspekulasi, kalau salah cakap nanti dia saman kau. Dia pernah saman Tan Sri Lim Kit Siang.
 
 **Iqbal:** Kes tu tak tahu dah lah.
 
-**Rafizi Ramli:** Tapi itulah, kalau aku berada di tempat mereka, dan saya boleh bangun setiap hari, pandang muka saya dalam cermin, tak rasa malu ke? Adakah rasa malu itu sesuatu benda yang tak boleh berada dalam badan seseorang yang bekerja dalam bidang-bidang ini?
+**Rafizi:** Tapi itulah, kalau aku berada di tempat mereka, dan saya boleh bangun setiap hari, pandang muka saya dalam cermin, tak rasa malu ke? Adakah rasa malu itu sesuatu benda yang tak boleh berada dalam badan seseorang yang bekerja dalam bidang-bidang ini?
 
 **Iqbal:** Anda belum pernah melangkah di lorong-lorong kekuasaan.
 
-**Rafizi Ramli:** Baiklah. Jadi sebab perihal itu, konsep itu tak wujud. Konsepnya ialah...
+**Rafizi:** Baiklah. Jadi sebab perihal itu, konsep itu tak wujud. Konsepnya ialah...
 
 **Iqbal:** Tak wujud ke tak boleh wujud?
 
-**Rafizi Ramli:** Sebenarnya untuk bersikap adil, bukan sahaja dekat Malaysia. Ia dekat mana-mana, malah kalau nak tengok persamaan yang paling baguslah. Dia selalunya yang betul-betul begitu, yang maksudnya hari ini orang itu kata macam ini, sembah orang itu. Esok bertukar sahaja kuasa, dia pergi sembah orang itu kan. Dia bermula dengan Stalin. Masa zaman Lenin, beliau bukanlah kegemaran. Malah Lenin pun dalam wasiat terakhirnya, ibaratnya, Stalin tidak pernah berada dalam gambaran. Jadi tiba-tiba naik Stalin. Kalau dalam konteks Malaysia ini, tiba-tiba naik Cheplos lah... Rahman kan. Jadi yang sebelum itu sebenarnya berbeza pandangan dengan Stalin, ataupun ada benda-benda yang memang bertentangan dengan Stalin. Hari seterusnya, minggu seterusnya, bulan seterusnya, semua bertukar. Dan selama 30 tahun seterusnya Stalin berkuasa, semuanya pasal menguji siapa yang boleh cium tangan beliau lebih daripada orang lain. Jadi ia menjadi satu kemahiran. Maksudnya kehormatan itu tidak wujud. Anda tidak dinilai berdasarkan sejauh mana anda konsisten, atau anda mempunyai prinsip; anda dinilai berdasarkan seberapa cepat anda boleh berpaling arah. Maksim itu menjadi asas budaya politik di banyak tempat di dunia. Dan untuk bersikap adil juga, gaya membodek, cium tangan semua ini, dekat AS pun memang dah berlaku secara terbuka dengan Trump. Jadi konsep bangun pada waktu pagi dan memandang ke dalam cermin serta melihat jauh ke dalam hati nurani anda, konsep itu tidak wujud.
+**Rafizi:** Sebenarnya untuk bersikap adil, bukan sahaja dekat Malaysia. Ia dekat mana-mana, malah kalau nak tengok persamaan yang paling baguslah. Dia selalunya yang betul-betul begitu, yang maksudnya hari ini orang itu kata macam ini, sembah orang itu. Esok bertukar sahaja kuasa, dia pergi sembah orang itu kan. Dia bermula dengan Stalin. Masa zaman Lenin, beliau bukanlah kegemaran. Malah Lenin pun dalam wasiat terakhirnya, ibaratnya, Stalin tidak pernah berada dalam gambaran. Jadi tiba-tiba naik Stalin. Kalau dalam konteks Malaysia ini, tiba-tiba naik Cheplos lah... Rahman kan. Jadi yang sebelum itu sebenarnya berbeza pandangan dengan Stalin, ataupun ada benda-benda yang memang bertentangan dengan Stalin. Hari seterusnya, minggu seterusnya, bulan seterusnya, semua bertukar. Dan selama 30 tahun seterusnya Stalin berkuasa, semuanya pasal menguji siapa yang boleh cium tangan beliau lebih daripada orang lain. Jadi ia menjadi satu kemahiran. Maksudnya kehormatan itu tidak wujud. Anda tidak dinilai berdasarkan sejauh mana anda konsisten, atau anda mempunyai prinsip; anda dinilai berdasarkan seberapa cepat anda boleh berpaling arah. Maksim itu menjadi asas budaya politik di banyak tempat di dunia. Dan untuk bersikap adil juga, gaya membodek, cium tangan semua ini, dekat AS pun memang dah berlaku secara terbuka dengan Trump. Jadi konsep bangun pada waktu pagi dan memandang ke dalam cermin serta melihat jauh ke dalam hati nurani anda, konsep itu tidak wujud.
 
 **Iqbal:** Tapi menarik apabila YB bangkitkan negara-negara lain, sebab contohnya kajian Indeks Jarak Kekuasaan (Power Distance Index), yang mana ia mengukur betapa... macam mana nak jelaskan Indeks Jarak Kekuasaan ini?
 
-**Rafizi Ramli:** Maksudnya bagaimana kuasa ditumpukan oleh hierarki. Hierarki yang paling tinggi, berapa banyak kuasa yang ditumpukan di tangan mereka berbanding dengan rakyat biasa.
+**Rafizi:** Maksudnya bagaimana kuasa ditumpukan oleh hierarki. Hierarki yang paling tinggi, berapa banyak kuasa yang ditumpukan di tangan mereka berbanding dengan rakyat biasa.
 
 **Iqbal:** Dan dalam kajian itu, ia mendapati bahawa Malaysia negara nombor satu, di mana jurang budaya berhierarki itu paling tinggi berbanding dengan negara-negara yang budayanya mungkin tidak mementingkan status.
 
-**Rafizi Ramli:** Macam feudal.
+**Rafizi:** Macam feudal.
 
 **Iqbal:** Ya. Macam mana Malaysia boleh jadi macam itu? Adakah itu memang sedia ada dalam budaya kita?
 
-**Rafizi Ramli:** Sebahagiannya ya. Kalau negara Barat, mereka mengambil masa 500 tahun untuk perlahan-lahan beralih daripada feodalisme. Revolusi Perancis adalah mengenai feodalisme, Bolshevik adalah mengenai feodalisme, dan Pemulihan Meiji di Jepun adalah mengenai anti-feodalisme. Jadi paling kurang negara lain 200 tahun meletakkan pembaharuan serta reformasi politik dan budaya. Jadi akhirnya, lebih banyak kuasa dan pengaruh itu diperturunkan kepada lebih ramai kumpulan. Kita ini sebenarnya tak sampai 100 tahun lagi. Kerana apabila kita merdeka, kita datang daripada sistem beraja, dan sistem beraja ini ada bangsawan. Kemudian apabila kita merdeka daripada British, British memberikan kemerdekaan dengan mengekalkan sistem itu, berbanding contohnya dengan Indonesia yang beralih sepenuhnya kepada sistem berpresiden. Jadi dari segi itu memang kita lebih pekatlah. Sebab itu lorong-lorong kekuasaan mengikut piawaian Malaysia ini memang betul-betul wujud. Jadi bagi mereka yang berlegar, akan timbul keadaan-keadaan macam ini. Cuma kalau saya Tan Sri Azam Baki, mungkin saya tak cepat sangat mengeluarkan kenyataan mengucapkan tahniah, penat lelah sejak 2015 ini. Dia mungkin kata dia mewakili SPRM, tapi pada masa yang sama dia menimbulkan keadaan yang ber-iya-iya macam ini. Sebab tahun 2015, dia juga yang mengesahkan ada pertemuan mengenai derma daripada Saudi itu, dan dia tak pernah komen lah sampai sekarang.
+**Rafizi:** Sebahagiannya ya. Kalau negara Barat, mereka mengambil masa 500 tahun untuk perlahan-lahan beralih daripada feodalisme. Revolusi Perancis adalah mengenai feodalisme, Bolshevik adalah mengenai feodalisme, dan Pemulihan Meiji di Jepun adalah mengenai anti-feodalisme. Jadi paling kurang negara lain 200 tahun meletakkan pembaharuan serta reformasi politik dan budaya. Jadi akhirnya, lebih banyak kuasa dan pengaruh itu diperturunkan kepada lebih ramai kumpulan. Kita ini sebenarnya tak sampai 100 tahun lagi. Kerana apabila kita merdeka, kita datang daripada sistem beraja, dan sistem beraja ini ada bangsawan. Kemudian apabila kita merdeka daripada British, British memberikan kemerdekaan dengan mengekalkan sistem itu, berbanding contohnya dengan Indonesia yang beralih sepenuhnya kepada sistem berpresiden. Jadi dari segi itu memang kita lebih pekatlah. Sebab itu lorong-lorong kekuasaan mengikut piawaian Malaysia ini memang betul-betul wujud. Jadi bagi mereka yang berlegar, akan timbul keadaan-keadaan macam ini. Cuma kalau saya Tan Sri Azam Baki, mungkin saya tak cepat sangat mengeluarkan kenyataan mengucapkan tahniah, penat lelah sejak 2015 ini. Dia mungkin kata dia mewakili SPRM, tapi pada masa yang sama dia menimbulkan keadaan yang ber-iya-iya macam ini. Sebab tahun 2015, dia juga yang mengesahkan ada pertemuan mengenai derma daripada Saudi itu, dan dia tak pernah komen lah sampai sekarang.
 
 **Iqbal:** Dia tidak dibayar ke tahap peguam bela seperti itu.
 
-**Rafizi Ramli:** Boleh tak kita katakan mungkin masa itu dia diarahkan...
+**Rafizi:** Boleh tak kita katakan mungkin masa itu dia diarahkan...
 
 **Iqbal:** Itulah jawapan semua orang.
 
-**Rafizi Ramli:** Yelah, kalau saya konsisten mengenai Tan Sri Azam Baki ini, semestinya kalau tanya orang macam dia atau pegawai lain, dia kata, "Saya mengikut arahan masa itu," ataupun, "Itu kehendak pemerintah masa itu." Tapi dalam tuntutan masyarakat dan rakyat yang mahukan SPRM ini betul-betul bebas, kita dah ada bukti-bukti paling besar daripada siasatan 1MDB 2015, yang mana Ketua Pesuruhjaya SPRM memang ada rekod yang dia boleh kata, "Saya menurut arahan." Jadi sudah tentulah kita tak boleh nak salahkan rakyat kalau rakyat ada keraguan mengenai kebebasan dan soal campur tangan dalam SPRM. Salah orang yang mengekalkan orang itu? Sebab itu daripada awal lagi pandangan saya, Datuk Seri Anwar, selagi dia mengekalkan Tan Sri Azam Baki, maka kredensial dan kredibiliti Pakatan Harapan mengenai rasuah itu akan terus terkikis.
+**Rafizi:** Yelah, kalau saya konsisten mengenai Tan Sri Azam Baki ini, semestinya kalau tanya orang macam dia atau pegawai lain, dia kata, "Saya mengikut arahan masa itu," ataupun, "Itu kehendak pemerintah masa itu." Tapi dalam tuntutan masyarakat dan rakyat yang mahukan SPRM ini betul-betul bebas, kita dah ada bukti-bukti paling besar daripada siasatan 1MDB 2015, yang mana Ketua Pesuruhjaya SPRM memang ada rekod yang dia boleh kata, "Saya menurut arahan." Jadi sudah tentulah kita tak boleh nak salahkan rakyat kalau rakyat ada keraguan mengenai kebebasan dan soal campur tangan dalam SPRM. Salah orang yang mengekalkan orang itu? Sebab itu daripada awal lagi pandangan saya, Datuk Seri Anwar, selagi dia mengekalkan Tan Sri Azam Baki, maka kredensial dan kredibiliti Pakatan Harapan mengenai rasuah itu akan terus terkikis.
 
 **Haziq:** Baik.
 
-**Rafizi Ramli:** Ber-iya. Tidak hamba dan ber-iya. Berjaya.
+**Rafizi:** Ber-iya. Tidak hamba dan ber-iya. Berjaya.
 
 **Haziq:** Nak buli DAP, tapi tak nak lepas jawatan. Ini kes UMNO Puchong memutuskan kerjasama dengan PH... Tetapi kita tak nampaklah dia letak jawatan Ahli Majlis ke, ketua kampung ke?
 
-**Rafizi Ramli:** Tak, yang paling penting perkara nombor empat: "Untuk penjelasan dan mengelakkan kekeliruan, keputusan ini tidak bermakna UMNO keluar dari Kerajaan Perpaduan di peringkat nasional atau negeri." Ia merupakan politik suku, maka tak ada yang meletak jawatan lah. Sebab mereka sudah tentu ada ahli majlis.
+**Rafizi:** Tak, yang paling penting perkara nombor empat: "Untuk penjelasan dan mengelakkan kekeliruan, keputusan ini tidak bermakna UMNO keluar dari Kerajaan Perpaduan di peringkat nasional atau negeri." Ia merupakan politik suku, maka tak ada yang meletak jawatan lah. Sebab mereka sudah tentu ada ahli majlis.
 
 **Iqbal:** Tapi dalam situasi begini, kita tak ada titik perbandingan ni?
 
-**Rafizi Ramli:** Cuma satu lagi yang aku nak cucuk daripada awal pasal ber-iyanya UMNO Bahagian Puchong ini. Aku tak ingat kali terakhir UMNO menang di Puchong, tahun bila? 2004 kot, 2003, sebab Puchong ini Parlimen memang DAP. Kemudian DUN dekat situ ada satu DAP dan satu lagi Amanah, Seri Serdang. Dan sebelum Amanah pun rasanya PAS, bukan UMNO pun. Jadi bagi satu bahagian UMNO yang kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah ber-iya untuk mengugut, memboikot, dan memutuskan kerjasama dengan PH di peringkat Parlimen dengan DUN, sebab besar kemungkinan ia tak ada kesan pun.
+**Rafizi:** Cuma satu lagi yang aku nak cucuk daripada awal pasal ber-iyanya UMNO Bahagian Puchong ini. Aku tak ingat kali terakhir UMNO menang di Puchong, tahun bila? 2004 kot, 2003, sebab Puchong ini Parlimen memang DAP. Kemudian DUN dekat situ ada satu DAP dan satu lagi Amanah, Seri Serdang. Dan sebelum Amanah pun rasanya PAS, bukan UMNO pun. Jadi bagi satu bahagian UMNO yang kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah ber-iya untuk mengugut, memboikot, dan memutuskan kerjasama dengan PH di peringkat Parlimen dengan DUN, sebab besar kemungkinan ia tak ada kesan pun.
 
 **Iqbal:** Ada tak apa-apa situasi di mana mungkin perkara begini boleh menunjukkan sesuatu parti ataupun sesuatu tempat itu sebenarnya timbul daripada dasar prinsip, bukannya tengah ber-iya sahaja?
 
-**Rafizi Ramli:** Maksud kau PH? Maksud kau UMNO?
+**Rafizi:** Maksud kau PH? Maksud kau UMNO?
 
 **Iqbal:** Untuk mereka. Adakah kalau mereka keluar daripada parti mereka, apa yang mereka boleh buat?
 
-**Rafizi Ramli:** Kalau ini perkara prinsip, dia tak boleh semata-mata gimik pergi buat demonstrasi dan memutuskan hubungan dengan PH di Puchong sahaja. Dia kena bawa proses yang sewajarnya di dalam UMNO itu. Atau pun paling kurang, kalau ada lantikan daripada UMNO Bahagian Puchong di peringkat majlis, di peringkat JKP (Jawatankuasa Penduduk) dalam mana-mana struktur yang melibatkan Kerajaan Negeri di bawah kerajaan PH, mereka kena letak jawatanlah. Barulah nampak prinsip itu lebih sikit. Kalau tidak, memang nampak ber-iya betul lah.
+**Rafizi:** Kalau ini perkara prinsip, dia tak boleh semata-mata gimik pergi buat demonstrasi dan memutuskan hubungan dengan PH di Puchong sahaja. Dia kena bawa proses yang sewajarnya di dalam UMNO itu. Atau pun paling kurang, kalau ada lantikan daripada UMNO Bahagian Puchong di peringkat majlis, di peringkat JKP (Jawatankuasa Penduduk) dalam mana-mana struktur yang melibatkan Kerajaan Negeri di bawah kerajaan PH, mereka kena letak jawatanlah. Barulah nampak prinsip itu lebih sikit. Kalau tidak, memang nampak ber-iya betul lah.
 
 **Iqbal:** Mungkin nak tanya satu lagi sudut lah, iaitu UMNO Puchong marah sebab hantaran YB. Kalau setakat demonstrasi semua tu, bukan tu dah macam keterlaluan ke kalau kita nak bandingkan reaksi orang dengan hantaran seseorang? Adakah YB rasa itu tindakan melampaui batas?
 
-**Rafizi Ramli:** Tak juga, sebab bagi saya, hak untuk mereka berdemonstrasi semua itu, hak dialah untuk bersuara. Lagipun, banyak sahaja daripada PH dulu, PKR ke, DAP ke, PAS, sikit-sikit demo, sikit-sikit laporan polis. Tak ada masalah, macam buat perhimpunan kilat untuk sesuatu isu. Jadi, menyuarakan itu satu hal, tetapi untuk anda diambil secara serius, dan kalau ia betul-betul berkenaan dengan prinsip, maka kalau anda rasa sangat yakin bahawa hala tuju parti itu tidak lagi kena, maka anda kena bawanya secara dalaman lah. Kalau tidak, ia jadi ber-iya lah.
+**Rafizi:** Tak juga, sebab bagi saya, hak untuk mereka berdemonstrasi semua itu, hak dialah untuk bersuara. Lagipun, banyak sahaja daripada PH dulu, PKR ke, DAP ke, PAS, sikit-sikit demo, sikit-sikit laporan polis. Tak ada masalah, macam buat perhimpunan kilat untuk sesuatu isu. Jadi, menyuarakan itu satu hal, tetapi untuk anda diambil secara serius, dan kalau ia betul-betul berkenaan dengan prinsip, maka kalau anda rasa sangat yakin bahawa hala tuju parti itu tidak lagi kena, maka anda kena bawanya secara dalaman lah. Kalau tidak, ia jadi ber-iya lah.
 
-**Rafizi Ramli:** Permulaan yang baik untuk tahun ini, kecuali yang mimbar tadi.
+**Rafizi:** Permulaan yang baik untuk tahun ini, kecuali yang mimbar tadi.
 
 **Haziq:** Yang baru YB satu: Nak jawatan atau sebab nak projek? Kes di Perlis, akhirnya Presiden PAS mendedahkan dua sebab, iaitu nak jawatan dan nak projek. Tetapi apabila diminta didedahkan oleh mufti, datanglah tukang pukul daripada PAS, Shahir Sulaiman, yang mengatakan jangan masuk campur dan sebagainya.
 
-**Rafizi Ramli:** Yang ini memang alasan biasa PAS tau. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif PKR ini nak minta projek, nak habiskan duit Kerajaan Negeri, tapi kita tak bagi. Padahal isu yang lebih pokok ialah isu mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang terjadi dekat mereka. Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Sebab ia bukan berlaku sekarang tau. Ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis ini, Cikgu Shukri, daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, kemudian tak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu dah berlaku lama. Tapi saya fahamlah, dalam PAS, sebab ada kecenderungan kepada Tan Sri Hadi, jadi hampir tidak boleh disentuh. Sebab itu mungkin menyebabkan ada sekumpulan di dalam PAS Perlis itu merasakan, "Kami kalis lah." Sebab kalau tidak, ia akan mengheret seluruh PAS Perlis. Itu yang geng kamikaze ini akhirnya buat keputusan itu. Tapi Tan Sri Hadi, alasan yang diberikan itu adalah kepada *walak-un*, dan dia menganggap bahawa seluruh rakyat Malaysia ini adalah *walak-un*. Jadi dia ulang benda yang sama, projek. Bila disebut pasal projek kepada *walak-un*, kita faham apa mesej yang dia nak berikan, iaitu memberi gambaran bahawa Istana minta projek dan campur tangan. Sebab itulah bila Mufti Perlis, Dr. Maza, menjawab, "Ente kalau nak tuduh kata orang minta projek semua ni, tak boleh tuduh sebarangan macam itu, anda kena berikan bukti nama dia," maka ber-iya-iyalah pembawa beg macam Shahir dan yang lain-lain ramai-ramai menghentam Mufti Perlis. Dan ada sampai komen yang kata orang agama atau Mufti tak payah komen pasal politik lah. Mufti sekarang tak boleh komen pasal politik pula, sedangkan asas PAS hari ini ialah agama dan politik tidak boleh dipisahkan. Jadi itu masalahnya apabila naratif PAS itu ber-iya-iya hanya kepada *walak-un*, bukan kepada rakyat biasa.
+**Rafizi:** Yang ini memang alasan biasa PAS tau. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif PKR ini nak minta projek, nak habiskan duit Kerajaan Negeri, tapi kita tak bagi. Padahal isu yang lebih pokok ialah isu mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang terjadi dekat mereka. Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Sebab ia bukan berlaku sekarang tau. Ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis ini, Cikgu Shukri, daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, kemudian tak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu dah berlaku lama. Tapi saya fahamlah, dalam PAS, sebab ada kecenderungan kepada Tan Sri Hadi, jadi hampir tidak boleh disentuh. Sebab itu mungkin menyebabkan ada sekumpulan di dalam PAS Perlis itu merasakan, "Kami kalis lah." Sebab kalau tidak, ia akan mengheret seluruh PAS Perlis. Itu yang geng kamikaze ini akhirnya buat keputusan itu. Tapi Tan Sri Hadi, alasan yang diberikan itu adalah kepada *walak-un*, dan dia menganggap bahawa seluruh rakyat Malaysia ini adalah *walak-un*. Jadi dia ulang benda yang sama, projek. Bila disebut pasal projek kepada *walak-un*, kita faham apa mesej yang dia nak berikan, iaitu memberi gambaran bahawa Istana minta projek dan campur tangan. Sebab itulah bila Mufti Perlis, Dr. Maza, menjawab, "Ente kalau nak tuduh kata orang minta projek semua ni, tak boleh tuduh sebarangan macam itu, anda kena berikan bukti nama dia," maka ber-iya-iyalah pembawa beg macam Shahir dan yang lain-lain ramai-ramai menghentam Mufti Perlis. Dan ada sampai komen yang kata orang agama atau Mufti tak payah komen pasal politik lah. Mufti sekarang tak boleh komen pasal politik pula, sedangkan asas PAS hari ini ialah agama dan politik tidak boleh dipisahkan. Jadi itu masalahnya apabila naratif PAS itu ber-iya-iya hanya kepada *walak-un*, bukan kepada rakyat biasa.
 
 **Iqbal:** Jadi benda ini agak menarik pada saya sebab kembali semula kepada perbincangan pasal Indeks Jarak Kekuasaan itu. Kecenderungan orang kita untuk mengekalkan struktur-struktur hierarki ini, ia bukan sahaja dari segi budaya, ia dari segi agama pun ada. Kita ada kecenderungan untuk menguatkuasakan struktur-struktur hierarki dalam dua-dua konteks yang berbeza, satu budaya dan satu agama. Tapi kali ini nampaknya struktur itu pelik sebab di satu pihak anda ada Mufti yang tengah mengkritik perbuatan ataupun percakapan Presiden PAS. Jadi boleh nampak kelesuan kognitif (*cognitive dissonance*). Ia jadi macam, "Okay, mana kita nak berbelah pihak sekarang ini?"
 
-**Rafizi Ramli:** Pandangan sayalah, dan saya ingat hampir semua parti politik takkan bersetujulah dengan saya. Ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—zaman dahulu ini maksudnya 30, 40 tahun ke belakang lah—semuanya dibina melalui struktur organisasi. Jadi struktur hierarki yang pernah ada itu, sebab itu macam contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa, kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas 40 tahun atau daripada tahun 60-an mereka memerintah. Daripada ada unit sampai ke peringkat DUN, sampai ke peringkat kampung. Ini pun sama di negara-negara lain, contohnya kalau parti-parti yang kuat dulu macam Parti Komunis atau Pergerakan Buruh, ia berasaskan hierarki mereka. UMNO pun begitu, daripada atas kemudian ada jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tidak ada akses maklumat. Jadi ia berpaksikan lebih kepada indoktrinasi, kurang kepada keputusan dan pertimbangan rakyat atau anggota. Tetapi saya rasa sejak 10, 15 tahun lalu, ada dua gelombang: satu gelombang internet, tetapi pengubah permainan yang sebenar ini sebenarnya adalah media sosial. Sebab itu kalau tengok Kerajaan China, dalam sistem politik yang Parti Komunis mengawal 100%, mereka membuat keputusan jauh lebih awal tahun 90-an dahulu—Google pun tak boleh masuk. Mereka buat semua media sosial sendiri, kerana mereka cukup faham bahawa teknologi akan melemahkan struktur organisasi. Kerana apabila orang ada akses kepada maklumat yang berlainan, maka mereka dah tak ikut dah garisan indoktrinasi semua ini. Jadi cabaran kepada semua parti yang ada sekarang, termasuklah parti-parti yang merasakan mereka sangat kuat sehingga ke akar umbi macam PAS, lama-lama bila kita masuk pilihan raya dan untuk mendapat tempat dengan pengundi, ia kurang bergantung kepada struktur organisasi, sebaliknya lebih kepada naratif pada masa depan. Sebab itu PAS bila kena melalui krisis ini—dan mengikut piawaian mereka ini krisis besar—kerana ada 2-3 perkara besar yang berlaku. Pertama, pimpinan PAS di Perlis sebahagiannya tak walak dah dekat Presiden. Jadi ia jadi fenomena anti-*walak-un*. Benda-benda macam ini igauan ngeri kepada PAS kerana perkara ini pernah berlaku tahun 2015 sehingga menyebabkan perpecahan dalam PAS dan adanya Amanah. Jadi bibit-bibit itu sangat traumatik pada mereka. Dan yang kedua, sehingga mereka hilang kuasa di Perlis. Apa sahaja orang PAS cakaplah, sebenarnya ini tamparan paling besar kepada PAS sejak tahun 2015. Mereka dah melalui trauma itu 9-10 tahun kemudian, berlaku balik. Sebab itu kalau kita tengok cara PAS menangani sekarang ini, lebih untuk mengepung sokongan di kalangan anggota mereka sahaja, kerana kelemahan utama PAS ialah naratif. Tiba-tiba keluar balik Sanusi sekarang cakap, "Kita nak mentadbir berlandaskan kepada Islam." Eh, tiba-tiba tak ada karaoke dah. 3-4 tahun yang lepas, pembawaan Sanusi cuba untuk kononnya membawa imej mesra rakyat, kurang penekanan terhadap Islam. Sebab itu mulut dia langsung tidak melambangkan mulut ustaz ke mulut PAS, dengan karaokenya. Sekarang ini tiba-tiba, oleh kerana krisis ini dan mereka tidak biasa menangani politik dari segi naratif yang lebih bersepadu, jadi ia kucar-kacir kiri, kanan, depan, belakang. Presiden kata macam ini, tersalah tembak muftilah, kemudian kantoi dengan muftilah. Dan saya ingat lepas ini akan ada krisis yang baru pula dengan Perikatan Nasional antara PAS dan Bersatu. Jadi perkara ini akan berterusan kerana kelemahannya ialah indoktrinasi tidak semestinya berkesan sepanjang masa, terutamanya dalam zaman media sosial yang ada sekarang.
+**Rafizi:** Pandangan sayalah, dan saya ingat hampir semua parti politik takkan bersetujulah dengan saya. Ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—zaman dahulu ini maksudnya 30, 40 tahun ke belakang lah—semuanya dibina melalui struktur organisasi. Jadi struktur hierarki yang pernah ada itu, sebab itu macam contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa, kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas 40 tahun atau daripada tahun 60-an mereka memerintah. Daripada ada unit sampai ke peringkat DUN, sampai ke peringkat kampung. Ini pun sama di negara-negara lain, contohnya kalau parti-parti yang kuat dulu macam Parti Komunis atau Pergerakan Buruh, ia berasaskan hierarki mereka. UMNO pun begitu, daripada atas kemudian ada jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tidak ada akses maklumat. Jadi ia berpaksikan lebih kepada indoktrinasi, kurang kepada keputusan dan pertimbangan rakyat atau anggota. Tetapi saya rasa sejak 10, 15 tahun lalu, ada dua gelombang: satu gelombang internet, tetapi pengubah permainan yang sebenar ini sebenarnya adalah media sosial. Sebab itu kalau tengok Kerajaan China, dalam sistem politik yang Parti Komunis mengawal 100%, mereka membuat keputusan jauh lebih awal tahun 90-an dahulu—Google pun tak boleh masuk. Mereka buat semua media sosial sendiri, kerana mereka cukup faham bahawa teknologi akan melemahkan struktur organisasi. Kerana apabila orang ada akses kepada maklumat yang berlainan, maka mereka dah tak ikut dah garisan indoktrinasi semua ini. Jadi cabaran kepada semua parti yang ada sekarang, termasuklah parti-parti yang merasakan mereka sangat kuat sehingga ke akar umbi macam PAS, lama-lama bila kita masuk pilihan raya dan untuk mendapat tempat dengan pengundi, ia kurang bergantung kepada struktur organisasi, sebaliknya lebih kepada naratif pada masa depan. Sebab itu PAS bila kena melalui krisis ini—dan mengikut piawaian mereka ini krisis besar—kerana ada 2-3 perkara besar yang berlaku. Pertama, pimpinan PAS di Perlis sebahagiannya tak walak dah dekat Presiden. Jadi ia jadi fenomena anti-*walak-un*. Benda-benda macam ini igauan ngeri kepada PAS kerana perkara ini pernah berlaku tahun 2015 sehingga menyebabkan perpecahan dalam PAS dan adanya Amanah. Jadi bibit-bibit itu sangat traumatik pada mereka. Dan yang kedua, sehingga mereka hilang kuasa di Perlis. Apa sahaja orang PAS cakaplah, sebenarnya ini tamparan paling besar kepada PAS sejak tahun 2015. Mereka dah melalui trauma itu 9-10 tahun kemudian, berlaku balik. Sebab itu kalau kita tengok cara PAS menangani sekarang ini, lebih untuk mengepung sokongan di kalangan anggota mereka sahaja, kerana kelemahan utama PAS ialah naratif. Tiba-tiba keluar balik Sanusi sekarang cakap, "Kita nak mentadbir berlandaskan kepada Islam." Eh, tiba-tiba tak ada karaoke dah. 3-4 tahun yang lepas, pembawaan Sanusi cuba untuk kononnya membawa imej mesra rakyat, kurang penekanan terhadap Islam. Sebab itu mulut dia langsung tidak melambangkan mulut ustaz ke mulut PAS, dengan karaokenya. Sekarang ini tiba-tiba, oleh kerana krisis ini dan mereka tidak biasa menangani politik dari segi naratif yang lebih bersepadu, jadi ia kucar-kacir kiri, kanan, depan, belakang. Presiden kata macam ini, tersalah tembak muftilah, kemudian kantoi dengan muftilah. Dan saya ingat lepas ini akan ada krisis yang baru pula dengan Perikatan Nasional antara PAS dan Bersatu. Jadi perkara ini akan berterusan kerana kelemahannya ialah indoktrinasi tidak semestinya berkesan sepanjang masa, terutamanya dalam zaman media sosial yang ada sekarang.
 
 **Haziq:** Ada isu baru, YB. Sama ada nak jawatan atau sebab nak projek. Dalam kes di Perlis, akhirnya Presiden PAS mendedahkan dua sebab, iaitu nak jawatan dan nak projek. Tetapi apabila diminta didedahkan oleh mufti, datanglah tukang pukul daripada PAS, Shahir Sulaiman, yang mengatakan jangan masuk campur dan sebagainya.
 
-**Rafizi Ramli:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi tak diberi. Padahal isu yang lebih pokok ialah mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor waktu itu. Sekarang perkara ini terjadi kepada mereka pula. Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Sebab ia bukan berlaku sekarang sahaja; ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis, Cikgu Shukri. Daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, sehinggalah tak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu sudah berlaku lama.
+**Rafizi:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi tak diberi. Padahal isu yang lebih pokok ialah mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor waktu itu. Sekarang perkara ini terjadi kepada mereka pula. Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Sebab ia bukan berlaku sekarang sahaja; ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis, Cikgu Shukri. Daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, sehinggalah tak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu sudah berlaku lama.
 
 Tapi saya faham, dalam PAS, sebab ada kecenderungan kepada Tan Sri Hadi, beliau hampir tidak boleh disentuh. Sebab itu mungkin menyebabkan ada sekumpulan di dalam PAS Perlis merasakan, "Kami kalis." Sebab kalau tidak, ia akan mengheret seluruh PAS Perlis. Itu yang geng kamikaze ini akhirnya buat keputusan tersebut. 
 
@@ -242,7 +242,7 @@ Tapi Tan Sri Hadi, alasan yang diberikan itu adalah kepada *walak-un* [pengikut 
 
 **Iqbal:** Benda ini agak menarik pada saya sebab merujuk kembali kepada perbincangan pasal Indeks Jarak Kekuasaan itu, kecenderungan orang kita untuk mengekalkan struktur hierarki ini bukan sahaja dari segi budaya, malah dari segi agama. Kita ada kecenderungan untuk menguatkuasakan struktur-struktur hierarki dalam dua-dua konteks yang berbeza: satu dalam konteks budaya, dan satu dalam konteks agama. Tapi kali ini nampaknya struktur itu pelik, sebab di satu pihak anda ada Mufti yang tengah mengkritik perbuatan ataupun percakapan Presiden PAS. Jadi, boleh nampak kelesuan kognitif. Ia jadi macam, "Okay, mana kita nak berbelah pihak sekarang ini?"
 
-**Rafizi Ramli:** Pada pandangan sayalah—dan saya ingat hampir semua parti politik takkan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 ke 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Ia sangat berhierarki. Sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas berpuluh tahun memerintah, daripada peringkat unit hingga ke peringkat DUN dan kampung. Ini sama juga di negara-negara lain. Parti-parti yang kuat dahulu, seperti Parti Komunis atau Pergerakan Buruh, semuanya berasaskan hierarki mereka. UMNO pun begitu, dari atas sehingga jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tidak ada akses maklumat, jadi ia lebih berpaksikan kepada indoktrinasi, kurang kepada keputusan atau pertimbangan rakyat dan anggota.
+**Rafizi:** Pada pandangan sayalah—dan saya ingat hampir semua parti politik takkan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 ke 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Ia sangat berhierarki. Sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas berpuluh tahun memerintah, daripada peringkat unit hingga ke peringkat DUN dan kampung. Ini sama juga di negara-negara lain. Parti-parti yang kuat dahulu, seperti Parti Komunis atau Pergerakan Buruh, semuanya berasaskan hierarki mereka. UMNO pun begitu, dari atas sehingga jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tidak ada akses maklumat, jadi ia lebih berpaksikan kepada indoktrinasi, kurang kepada keputusan atau pertimbangan rakyat dan anggota.
 
 Tetapi saya rasa sejak 10 hingga 15 tahun lalu, ada dua gelombang: satu gelombang internet, tetapi pengubah permainan yang sebenar sebenarnya adalah media sosial. Sebab itu kalau tengok Kerajaan China, dalam sistem politik di mana Parti Komunis mengawal 100%, mereka membuat keputusan jauh lebih awal pada tahun 90-an dahulu. Google pun tak boleh masuk. Kalau ada media sosial dari Barat, mereka buat sendiri kerana mereka cukup faham bahawa teknologi akan melemahkan struktur organisasi. Kerana bila orang ada akses kepada maklumat yang berlainan, anda tahu, mereka dah tak ikut garisan-garisan indoktrinasi semua ini.
 
@@ -252,15 +252,15 @@ Sebab itu kalau kita tengok cara PAS menangani krisis sekarang, ia lebih kepada 
 
 **Haziq:** Jadi sebelum kita...
 
-**Rafizi Ramli:** Jadi, minggu ini, dua isu ber-iya okay, kan?
+**Rafizi:** Jadi, minggu ini, dua isu ber-iya okay, kan?
 
 **Haziq:** Boleh lah.
 
-**Rafizi Ramli:** Okay lah kan. Permulaan yang baik untuk tahun ini, kecuali isu mimbar tadi.
+**Rafizi:** Okay lah kan. Permulaan yang baik untuk tahun ini, kecuali isu mimbar tadi.
 
 **Haziq:** Ada satu isu baru, YB: nak jawatan atau sebab nak projek? Dalam kes di Perlis, akhirnya Presiden PAS mendedahkan dua sebab, iaitu nak jawatan dan nak projek. Tetapi apabila diminta didedahkan oleh mufti, datanglah tukang pukul daripada PAS, Shahir Sulaiman, yang mengatakan jangan masuk campur dan sebagainya.
 
-**Rafizi Ramli:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014 masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif bahawa PKR ini nak minta projek, nak habiskan duit Kerajaan Negeri, tetapi kita tak bagi. Padahal isu yang lebih pokok sebenarnya ialah mengenai konsistensi dan kongruensi kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang perkara itu terjadi kepada mereka. 
+**Rafizi:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014 masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif bahawa PKR ini nak minta projek, nak habiskan duit Kerajaan Negeri, tetapi kita tak bagi. Padahal isu yang lebih pokok sebenarnya ialah mengenai konsistensi dan kongruensi kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang perkara itu terjadi kepada mereka. 
 
 Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis, sebab perkara ini bukan berlaku sekarang sahaja. Ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis, Cikgu Shukri. Daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, kemudian tidak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu sudah berlaku lama.
 
@@ -270,7 +270,7 @@ Sebab itulah bila Mufti Perlis, Dr. Maza, menjawab, "Ente kalau nak tuduh kata o
 
 **Iqbal:** Jadi benda ini agak menarik pada saya sebab merujuk kembali kepada perbincangan pasal Indeks Jarak Kekuasaan tadi, kecenderungan orang kita untuk mengekalkan struktur hierarki ini bukan sahaja dari segi budaya, tetapi dari segi agama juga. Kita ada kecenderungan untuk menguatkuasakan struktur-struktur hierarki dalam dua konteks yang berbeza: satu dalam konteks budaya, dan satu lagi dalam konteks agama. Tetapi kali ini nampaknya struktur itu pelik, sebab di satu pihak anda ada Mufti yang tengah mengkritik perbuatan ataupun percakapan Presiden PAS. Jadi, boleh nampak kelesuan kognitif. Ia macam, "Okay, mana kita nak berbelah pihak sekarang ini?"
 
-**Rafizi Ramli:** Pandangan sayalah—dan saya ingat hampir semua parti politik takkan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 hingga 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Ia sangat berhierarki. Sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana kerajaan dan mana PAS. Ia sangat boleh bertukar ganti selepas 40 tahun, atau daripada tahun 60-an mereka memerintah. Daripada situ, ada unit di peringkat DUN sampai ke peringkat kampung. 
+**Rafizi:** Pandangan sayalah—dan saya ingat hampir semua parti politik takkan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 hingga 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Ia sangat berhierarki. Sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana kerajaan dan mana PAS. Ia sangat boleh bertukar ganti selepas 40 tahun, atau daripada tahun 60-an mereka memerintah. Daripada situ, ada unit di peringkat DUN sampai ke peringkat kampung. 
 
 Perkara ini sama di negara-negara lain. Contohnya parti-parti yang kuat dahulu seperti Parti Komunis atau Pergerakan Buruh, ia sebenarnya berasaskan hierarki mereka. UMNO pun begitu; UMNO daripada atas kemudian ada jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tidak ada akses maklumat, jadi ia berpaksikan lebih kepada indoktrinasi dan kurang kepada keputusan serta pertimbangan rakyat atau anggota.
 
@@ -282,15 +282,15 @@ Tapi sebab itu kalau kita tengok cara PAS menangani sekarang ini, ia lebih untuk
 
 **Haziq:** Jadi sebelum kita...
 
-**Rafizi Ramli:** Jadi, minggu ini, dua isu ber-iya [bersungguh-sungguh], okay kan?
+**Rafizi:** Jadi, minggu ini, dua isu ber-iya [bersungguh-sungguh], okay kan?
 
 **Haziq:** Boleh lah.
 
-**Rafizi Ramli:** Okay lah kan. Permulaan yang baik untuk tahun ini, kecuali yang pasal mimbar tadi.
+**Rafizi:** Okay lah kan. Permulaan yang baik untuk tahun ini, kecuali yang pasal mimbar tadi.
 
 **Haziq:** Yang baru, YB, satu: nak jawatan atau sebab nak projek? Kes di Perlis, akhirnya Presiden PAS mendedahkan dua sebab, iaitu nak jawatan dan nak projek. Tetapi apabila diminta didedahkan oleh mufti, datanglah tukang pukul daripada PAS, Shahir Sulaiman, yang mengatakan jangan masuk campur dan sebagainya.
 
-**Rafizi Ramli:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka mainkan naratif kononnya PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi mereka tak bagi. Padahal isu yang lebih pokok ialah isu mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang benda ini terjadi kepada mereka pula.
+**Rafizi:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka mainkan naratif kononnya PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi mereka tak bagi. Padahal isu yang lebih pokok ialah isu mengenai konsistensi dan kongruens kepimpinan dalam Pakatan Rakyat di Selangor. Sekarang benda ini terjadi kepada mereka pula.
 
 Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Benda ini bukan baru berlaku sekarang. Ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis, Cikgu Shukri. Daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, kemudian tidak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu sudah lama berlaku. Tapi saya faham, dalam PAS, sebab ada kecenderungan kepada Tan Sri Hadi, jadi hampir tidak boleh disentuh. Itu mungkin menyebabkan ada sekumpulan di dalam PAS Perlis merasakan mereka kalis, sebab kalau tidak, ia akan mengheret seluruh PAS Perlis. Itu yang geng kamikaze ini akhirnya buat keputusan tersebut.
 
@@ -300,7 +300,7 @@ Tapi Tan Sri Hadi bercakap memberikan alasan itu kepada *walak-un* [golongan pen
 
 Tapi kali ini nampaknya struktur itu jadi pelik. Di satu pihak, anda ada Mufti yang sedang mengkritik perbuatan ataupun percakapan Presiden PAS. Jadi, boleh nampak kelesuan kognitif. Ia jadi macam, "Okay, mana satu kita nak berbelah pihak sekarang ini?"
 
-**Rafizi Ramli:** Pandangan sayalah, dan saya ingat hampir semua parti politik mungkin takkan bersetuju dengan saya. Ini sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—30 atau 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Jadi struktur hierarki yang pernah ada itu, sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas berpuluh tahun mereka memerintah sejak tahun 60-an. Daripada ada unit, sampai ke peringkat DUN, sampai ke peringkat kampung.
+**Rafizi:** Pandangan sayalah, dan saya ingat hampir semua parti politik mungkin takkan bersetuju dengan saya. Ini sebenarnya bukan sahaja soal PAS ataupun organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—30 atau 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Jadi struktur hierarki yang pernah ada itu, sebab itu contohnya PAS, satu sebab kenapa mereka boleh memegang Kelantan sedemikian rupa adalah kerana keseluruhan kerajaan Kelantan dan jentera itu, anda tidak boleh membezakan mana satu kerajaan dan mana satu PAS. Ia sangat boleh bertukar ganti selepas berpuluh tahun mereka memerintah sejak tahun 60-an. Daripada ada unit, sampai ke peringkat DUN, sampai ke peringkat kampung.
 
 Ini sama di negara-negara lain. Contohnya parti-parti yang kuat dahulu seperti Parti Komunis atau Pergerakan Buruh, ia sebenarnya berasaskan hierarki mereka. UMNO pun begitu—dari atas, kemudian ada jentera akar umbi yang kuat. Perkara itu sangat berkesan dahulu kerana tiada akses maklumat. Jadi, ia berpaksikan kepada indoktrinasi, kurang kepada keputusan dan pertimbangan rakyat atau anggota.
 
@@ -316,17 +316,17 @@ Sekarang ini tiba-tiba, oleh kerana melalui krisis ini dan mereka tidak biasa me
 
 **Haziq:** Jadi sebelum kita...
 
-**Rafizi Ramli:** Jadi, minggu ini dua "ber-iya", okay kan?
+**Rafizi:** Jadi, minggu ini dua "ber-iya", okay kan?
 
 **Haziq:** Bolehlah.
 
-**Rafizi Ramli:** Okaylah, kan. Permulaan yang baik untuk tahun ini, kecuali isu mimbar tadi.
+**Rafizi:** Okaylah, kan. Permulaan yang baik untuk tahun ini, kecuali isu mimbar tadi.
 
-**Rafizi Ramli:** Jadi, ini minggu dua "ber-iya", okay kan? Permulaan yang baik untuk tahun ini, kecuali yang pasal mimbar tadi.
+**Rafizi:** Jadi, ini minggu dua "ber-iya", okay kan? Permulaan yang baik untuk tahun ini, kecuali yang pasal mimbar tadi.
 
 **Haziq:** Ada satu perkara baru, YB. Nak jawatan atau sebab nak projek? Dalam kes di Perlis, akhirnya Presiden PAS mendakwa ada dua sebab, iaitu nak jawatan dan nak projek. Tetapi apabila diminta didedahkan oleh Mufti, datanglah tukang pukul daripada PAS, Shahir Sulaiman, yang mengatakan jangan masuk campur dan sebagainya.
 
-**Rafizi Ramli:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif bahawa PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi kita tak bagi. Padahal isu yang lebih pokok sebenarnya ialah isu mengenai konsistensi dan kongruensi kepimpinan dalam Pakatan Rakyat di Selangor ketika itu. 
+**Rafizi:** Yang ini memang alasan biasa PAS. Saya ingat tahun 2014, masa Langkah Kajang dulu, mereka akan mainkan naratif itu. Mereka akan mainkan naratif bahawa PKR nak minta projek dan nak habiskan duit Kerajaan Negeri, tapi kita tak bagi. Padahal isu yang lebih pokok sebenarnya ialah isu mengenai konsistensi dan kongruensi kepimpinan dalam Pakatan Rakyat di Selangor ketika itu. 
 
 Sekarang perkara sama terjadi kepada mereka. Isu sebenarnya ialah kelemahan dan perpecahan dalaman di dalam PAS Perlis. Perkara ini bukannya berlaku sekarang sahaja. Ada siri penolakan yang berkali-kali terhadap bekas Menteri Besar Perlis, Cikgu Shukri. Daripada kalah YDP Kawasan, kemudian kalah AJK Pusat, sehinggalah tidak lagi menjadi Pesuruhjaya PAS Negeri Perlis. Maksudnya isyarat itu sudah lama berlaku. 
 
@@ -338,7 +338,7 @@ Sebab itulah apabila Mufti Perlis, Dr. Maza, menjawab bahawa jika mahu menuduh o
 
 **Iqbal:** Benda ini agak menarik pada saya sebab kembali kepada perbincangan pasal *Power Distance Index*, iaitu kecenderungan orang kita untuk mengekalkan struktur hierarki. Ia bukan sahaja dari segi budaya, tetapi dari segi agama juga. Kita ada kecenderungan untuk menguatkuasakan struktur-struktur hierarki dalam kedua-dua konteks yang berbeza: satu dalam konteks budaya, dan satu lagi dalam konteks agama. Tetapi kali ini strukturnya agak pelik kerana dari satu sudut ada Mufti yang mengkritik perbuatan atau percakapan Presiden PAS. Jadi boleh nampak disonansi kognitif. Ia jadi seperti, "Okay, belah mana kita nak berpihak sekarang ini?"
 
-**Rafizi Ramli:** Pandangan sayalah—dan saya ingat hampir semua parti politik tidak akan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS atau organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 hingga 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Jadi struktur yang sangat berhierarki yang wujud pada waktu itu, sebab itulah contohnya PAS boleh memegang Kelantan sedemikian rupa kerana keseluruhan kerajaan Kelantan dan jentera PAS itu anda tidak boleh membezakannya, yang mana kerajaan dan yang mana PAS. Ia begitu saling boleh bertukar ganti selepas 40 tahun atau sejak tahun 1960-an mereka memerintah. Daripada situ, ada unit di peringkat DUN sampai ke peringkat kampung. Ini sama sahaja di negara-negara lain, contohnya parti-parti yang kuat dahulu seperti Parti Komunis atau Pergerakan Buruh, semuanya berasaskan hierarki mereka. UMNO pun begitu, daripada atas kemudian ada jentera akar umbi yang kuat. 
+**Rafizi:** Pandangan sayalah—dan saya ingat hampir semua parti politik tidak akan bersetuju dengan saya—ia sebenarnya bukan sahaja soal PAS atau organisasi agama. Teknologi telah berkembang. Politik dan kuasa di zaman dahulu—maksudnya 30 hingga 40 tahun ke belakang—semuanya dibina melalui struktur organisasi. Jadi struktur yang sangat berhierarki yang wujud pada waktu itu, sebab itulah contohnya PAS boleh memegang Kelantan sedemikian rupa kerana keseluruhan kerajaan Kelantan dan jentera PAS itu anda tidak boleh membezakannya, yang mana kerajaan dan yang mana PAS. Ia begitu saling boleh bertukar ganti selepas 40 tahun atau sejak tahun 1960-an mereka memerintah. Daripada situ, ada unit di peringkat DUN sampai ke peringkat kampung. Ini sama sahaja di negara-negara lain, contohnya parti-parti yang kuat dahulu seperti Parti Komunis atau Pergerakan Buruh, semuanya berasaskan hierarki mereka. UMNO pun begitu, daripada atas kemudian ada jentera akar umbi yang kuat. 
 
 Perkara itu sangat berkesan dahulu kerana tiada akses maklumat. Jadi ia berpaksikan kepada indoktrinasi, kurang kepada keputusan dan penilaian rakyat atau anggota. Tetapi saya fikir sepanjang 10 hingga 15 tahun yang lalu, ada dua gelombang: satu gelombang internet, tetapi pengubah keadaan yang sebenar sebenarnya adalah media sosial. Sebab itu kalau tengok Kerajaan China, dalam sistem politik di mana Parti Komunis mengawal 100%, mereka membuat keputusan jauh lebih awal pada tahun 1990-an. Google pun tidak boleh masuk. Jika ada media sosial dari Barat, mereka buat sendiri kerana mereka cukup faham bahawa teknologi akan melemahkan struktur organisasi. Apabila orang ada akses kepada maklumat yang berlainan, mereka tidak lagi mengikut garis indoktrinasi.
 
@@ -350,15 +350,15 @@ Sebab itu kalau kita tengok cara PAS menangani isu sekarang lebih kepada mengepu
 
 **Haziq:** Mengenai isu dunia pula, YB. Dah beberapa minggu seolah-olah Malaysia ini duduk di Pluto dan tiada dunia lain. Walaupun ini isu dunia, ia sangat berkait rapat dengan Malaysia. Apa yang berlaku di Romania, akhirnya Ilie Bolojan—seorang pemimpin sayap kanan sederhana daripada National Liberal Party—berjaya membentuk kerajaan gabungan bersama parti sayap kiri sederhana dan pelbagai spektrum politik, mendapat lebih 300 daripada 465 kerusi dewan. Sama seperti Kerajaan Perpaduan di Malaysia. Cuma kita tengok ketekunan beliau untuk mendesak reformasi ekonomi fiskal, dalam keadaan parti-parti dalam gabungan itu mungkin lebih konservatif atau mahu berbelanja lebih dan tidak berapa mementingkan reformasi fiskal. Perkara ini mungkin dilihat seperti mana YB sering dikatakan sebelum ini—sebagai seorang yang perlu melakukan perkara yang betul, walaupun perkara itu tidak popular demi kebaikan yang lebih besar.
 
-**Rafizi Ramli:** Apa pasal pula aku?
+**Rafizi:** Apa pasal pula aku?
 
 **Haziq:** Bukan YB, ini kan pasal Romania! Tapi konsepnya sama: orang yang perlu melakukan benda yang betul.
 
-**Rafizi Ramli:** Dia punya pusingan nak mendarat itu... Sebab itu sebelum bertanya kena baca secara terperinci dahulu!
+**Rafizi:** Dia punya pusingan nak mendarat itu... Sebab itu sebelum bertanya kena baca secara terperinci dahulu!
 
 **Iqbal:** Saya fikir kita juga perlu tegaskan bahawa Ilie ini sebenarnya dianggap sebagai seorang teknokrat yang dikatakan sanggup membuat keputusan paling sukar untuk Romania. Beliau berterus-terang dengan rakyat Romania bahawa ia tidak akan mudah, tetapi kita kena lakukan ini.
 
-**Rafizi Ramli:** Sebab itu muka dia macam itu, kan?
+**Rafizi:** Sebab itu muka dia macam itu, kan?
 
 **Iqbal:** Agak menakutkan kalau ada Perdana Menteri muka macam itu.
 
@@ -370,7 +370,7 @@ Satu dunia melihat sekarang kerana walaupun Romania ini sebuah negara kecil, mer
 
 **Iqbal:** Kalau muka macam itu memang takut sedikit. Tetapi adakah reformasi ini khusus dalam pengertian ekonomi sahaja, atau termasuk reformasi institusi dan lain-lain?
 
-**Rafizi Ramli:** Semua, semua, semua. Sebab ketidakstabilan itu sebahagiannya juga disebabkan oleh protes anti-rasuah. Ada persamaan bukan sahaja dengan Malaysia, tetapi negara-negara lain. Secara asasnya, pengundi sebenarnya sudah muak dengan semua kerajaan. Mereka sudah menderita hampir 35 ke 36 tahun. Nicolae Ceaușescu ditumbangkan pada tahun 1989. Diktator lama itu memerintah dari tahun 1965 sampai 1989 dan ditembak di khalayak ramai. Selepas itu masih lagi kerajaan komunis sehinggalah blok Soviet jatuh dan mereka mula menjadi demokrasi.
+**Rafizi:** Semua, semua, semua. Sebab ketidakstabilan itu sebahagiannya juga disebabkan oleh protes anti-rasuah. Ada persamaan bukan sahaja dengan Malaysia, tetapi negara-negara lain. Secara asasnya, pengundi sebenarnya sudah muak dengan semua kerajaan. Mereka sudah menderita hampir 35 ke 36 tahun. Nicolae Ceaușescu ditumbangkan pada tahun 1989. Diktator lama itu memerintah dari tahun 1965 sampai 1989 dan ditembak di khalayak ramai. Selepas itu masih lagi kerajaan komunis sehinggalah blok Soviet jatuh dan mereka mula menjadi demokrasi.
 
 Jika anda fikirkan tentangnya, lebih satu generasi telah melalui harapan untuk negara yang lebih baik selepas kejatuhan komunis. Mereka melihat bagaimana Poland bertambah jauh lebih baik, Czech bertambah jauh lebih baik. Jadi pengundi di Romania menjadi kecewa dan hilang kepercayaan terhadap harapan bahawa ekonomi akan jadi lebih baik, sedangkan rasuah dilihat sama sahaja. Sebab itu mereka mengalami pertukaran kerajaan berturut-turut dan bantahan awam yang mewujudkan fenomena pintu berputar. Sebab itu banyak persamaan dengan Malaysia.
 
@@ -378,11 +378,11 @@ Jadi, jika mereka mampu melakukannya, mereka kena laksanakan reformasi untuk sem
 
 **Haziq:** Tetapi bukankah kita mungkin perlu mengambil masa yang lebih lama sedikit untuk memerhati, terutamanya untuk menguruskan perbezaan itu?
 
-**Rafizi Ramli:** Ya. Tetapi sebenarnya sebahagian daripadanya, kalau tengok kepada pengalaman Argentina seperti Javier Milei, dari sudut ekonomi, dalam tempoh enam bulan anda sudah boleh nampak kesannya. Tidak perlu tunggu sampai setahun.
+**Rafizi:** Ya. Tetapi sebenarnya sebahagian daripadanya, kalau tengok kepada pengalaman Argentina seperti Javier Milei, dari sudut ekonomi, dalam tempoh enam bulan anda sudah boleh nampak kesannya. Tidak perlu tunggu sampai setahun.
 
 **Iqbal:** Javier Milei itu pendekatan yang sangat ekstrem, dengan gergaji berantai beliau dan sebagainya. Mungkin ada orang tidak suka.
 
-**Rafizi Ramli:** Secara jujurnya, apabila beliau menjadi Presiden, pendirian beliau tidaklah se-ekstrem itu, cuma cadangan dasar beliau memang ekstrem. Tetapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Saya pun sebenarnya terfikir gila atau apa beliau ini. Sesetengah perkara yang beliau cakap itu bukanlah sebenarnya penemuan hebat (Eureka) atau luar biasa sangat, tetapi untuk melakukannya di Argentina, semoga berjaya. Namun beliau sebenarnya berjaya melakukannya.
+**Rafizi:** Secara jujurnya, apabila beliau menjadi Presiden, pendirian beliau tidaklah se-ekstrem itu, cuma cadangan dasar beliau memang ekstrem. Tetapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Saya pun sebenarnya terfikir gila atau apa beliau ini. Sesetengah perkara yang beliau cakap itu bukanlah sebenarnya penemuan hebat (Eureka) atau luar biasa sangat, tetapi untuk melakukannya di Argentina, semoga berjaya. Namun beliau sebenarnya berjaya melakukannya.
 
 Dalam kes beliau, partinya menang pilihan raya seterusnya dengan keputusan lebih besar di peringkat tempatan. Dalam kes Argentina, kita tidak mendengar Argentina kena dana bantuan penyelamat (bailout). Walaupun pada awalnya orang fikir lepas ini mesti kena dana bantuan penyelamat, orang akan protes di atas jalan dan huru-hara, tetapi ia berkesan. Jadi saya mengandaikan dalam tempoh beberapa bulan, jika semuanya berjalan lancar, kita akan mendengar lebih banyak mengenai Romania.
 
@@ -390,19 +390,19 @@ Dalam kes beliau, partinya menang pilihan raya seterusnya dengan keputusan lebih
 
 **Haziq:** Jadi yang terakhir, isu dunia, YB. Sebab dah beberapa minggu seolah-olah Malaysia ni duduk dekat Pluto, tak ada dunia lain. Walaupun ini isu dunia, tetapi sangat berkait rapat dengan Malaysia: apa yang berlaku di Romania. Akhirnya Ilie Bolojan, seorang pemimpin sayap kanan sederhana daripada National Liberal Party, berjaya membentuk kerajaan bersama parti-parti daripada sayap kiri sederhana dan pelbagai spektrum politik. Dia mendapat sokongan melebihi 300 daripada 465 kerusi dewan tersebut, lebih kurang sama seperti di Malaysia dengan Kerajaan Perpaduan. Cuma kita tengok ketekunan beliau untuk mendesak berkaitan dengan reformasi ekonomi fiskal, dalam keadaan parti-parti dalam gabungan tersebut mungkin lebih konservatif atau mahu berbelanja lebih dan tak berapa pentingkan reformasi fiskal. Mungkin ini dilihat seperti mana YB yang selama ini dikatakan sebagai orang yang perlu melakukan benda yang betul—melakukan perkara yang betul—walaupun benda itu tak popular demi kebaikan yang lebih besar.
 
-**Rafizi Ramli:** Apa pasal pula aku?
+**Rafizi:** Apa pasal pula aku?
 
 **Haziq:** Bukan YB, ni pasal Romania.
 
-**Rafizi Ramli:** Ah.
+**Rafizi:** Ah.
 
 **Haziq:** Berkenaan orang yang perlu melakukan benda yang betul.
 
-**Rafizi Ramli:** Cara nak mendaratkan soalan tu... Sebab itu sebelum bertanya, kena baca secara terperinci dulu.
+**Rafizi:** Cara nak mendaratkan soalan tu... Sebab itu sebelum bertanya, kena baca secara terperinci dulu.
 
 **Iqbal:** Saya fikir kita juga perlu tegaskan bahawa Ilie ni sebenarnya dianggap sebagai seorang teknokrat yang sanggup membuat keputusan paling sukar untuk Romania. Dan dia berterus terang dengan rakyat Romania bahawa ia tidak akan mudah, tetapi kita kena lakukan ini.
 
-**Rafizi Ramli:** Sebab itu muka dia macam itu, kan?
+**Rafizi:** Sebab itu muka dia macam itu, kan?
 
 **Iqbal:** Agak menakutkan kalau anda ada Perdana Menteri muka macam itu.
 
@@ -414,32 +414,32 @@ Satu dunia sekarang ini memerhatikan Romania kerana mereka sebahagian daripada E
 
 **Iqbal:** Tapi kalau muka macam itu memang aku takut sikit. Tetapi adakah reformasi ini khusus dalam pengertian ekonomi sahaja, atau termasuk reformasi institusi dan lain-lain?
 
-**Rafizi Ramli:** Semua sekali. Sebab ketidakstabilan politik itu sebahagiannya berpunca daripada protes anti-rasuah. Ia hampir mempunyai persamaan bukan sahaja dengan Malaysia, tetapi negara-negara lain juga. Secara asasnya, pengundi sebenarnya dah muak dengan semua kerajaan. Rakyat Romania dah laluinya hampir 35 hingga 36 tahun. Nicolae Ceausescu ditumbangkan bila? 1989, kan?
+**Rafizi:** Semua sekali. Sebab ketidakstabilan politik itu sebahagiannya berpunca daripada protes anti-rasuah. Ia hampir mempunyai persamaan bukan sahaja dengan Malaysia, tetapi negara-negara lain juga. Secara asasnya, pengundi sebenarnya dah muak dengan semua kerajaan. Rakyat Romania dah laluinya hampir 35 hingga 36 tahun. Nicolae Ceausescu ditumbangkan bila? 1989, kan?
 
 **Iqbal:** Ya, 1989.
 
-**Rafizi Ramli:** Diktator lama mereka, Ceausescu, memerintah dari 1965 sampai 1989 sebelum beliau ditembak di khalayak ramai. Selepas itu, pentadbiran masih dikuasai bekas komunis sehinggalah blok Soviet jatuh dan mereka mula menjadi demokrasi. Jadi jika anda fikirkan tentangnya, hampir lebih daripada satu generasi telah melalui harapan untuk negara yang lebih baik selepas kejatuhan komunis. Apabila melihat Poland dan Republik Czech bertambah jauh lebih baik, pengundi di Romania jadi kecewa dan hilang kepercayaan. Janji ekonomi lebih baik tidak berlaku, manakala rasuah tetap sama. Sebab itu mereka mengalami pertukaran kerajaan berturut-turut dan bantahan, yang mewujudkan fenomena pintu berputar. Sebab itu banyak persamaan dengan Malaysia.
+**Rafizi:** Diktator lama mereka, Ceausescu, memerintah dari 1965 sampai 1989 sebelum beliau ditembak di khalayak ramai. Selepas itu, pentadbiran masih dikuasai bekas komunis sehinggalah blok Soviet jatuh dan mereka mula menjadi demokrasi. Jadi jika anda fikirkan tentangnya, hampir lebih daripada satu generasi telah melalui harapan untuk negara yang lebih baik selepas kejatuhan komunis. Apabila melihat Poland dan Republik Czech bertambah jauh lebih baik, pengundi di Romania jadi kecewa dan hilang kepercayaan. Janji ekonomi lebih baik tidak berlaku, manakala rasuah tetap sama. Sebab itu mereka mengalami pertukaran kerajaan berturut-turut dan bantahan, yang mewujudkan fenomena pintu berputar. Sebab itu banyak persamaan dengan Malaysia.
 
 Jadi jika mereka mampu melakukannya, mereka kena laksanakan reformasi untuk semuanya. Maksudnya, bila masuk EU dahulu, ada siri keperluan—bukan sahaja ekonomi, tetapi reformasi yang lain. Set reformasi milik EU jauh lebih panjang. Jadi jika mereka berjaya melakukannya, maka sudah tentu mereka lebih unik daripada Poland, sebab Poland tidak melalui fenomena pintu berputar seperti yang dialami Romania sejak beberapa dekad lalu. Dan mungkin kita patut hantar ahli-ahli Parlimen PH pergi ke Romania untuk belajar macam mana.
 
 **Haziq:** Tapi bukankah kita mungkin perlu mengambil masa yang lebih lama sedikit untuk memerhati, terutamanya dalam menguruskan perbezaan itu?
 
-**Rafizi Ramli:** Ya. Tapi sebenarnya, kalau tengok kepada pengalaman Argentina seperti Javier Milei dari sudut ekonomi, sebenarnya dalam tempoh enam bulan anda dah boleh nampak kesannya. Tak perlu tunggu sampai setahun.
+**Rafizi:** Ya. Tapi sebenarnya, kalau tengok kepada pengalaman Argentina seperti Javier Milei dari sudut ekonomi, sebenarnya dalam tempoh enam bulan anda dah boleh nampak kesannya. Tak perlu tunggu sampai setahun.
 
 **Iqbal:** Javier Milei itu pendekatan yang sangat ekstrem, dengan simbol gergaji berantai dia semua tu. Jadi mungkin ada orang tak suka.
 
-**Rafizi Ramli:** Secara jujurnya, bila dia jadi Presiden, retorik ekstrem dia tu berkurangan, cuma cadangan dasarnya memang ekstrem. Tapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Saya pun pada mulanya rasa seperti, "Gila ke apa dia ni?" Sesetengah perkara yang dia cakap tu bukanlah penemuan hebat (Eureka), tapi untuk melakukannya di Argentina—semoga berjaya, kan? Namun dia sebenarnya berjaya melakukannya. Dalam kes beliau, parti beliau menang lebih besar dalam pilihan raya tempatan yang seterusnya. Kita tidak mendengar Argentina memerlukan dana bantuan penyelamat (bailout), sedangkan pada awalnya orang fikir Argentina memerlukan bantuan penyelamat dan orang ramai akan protes di jalanan. Jadi saya mengandaikan dalam tempoh beberapa bulan, jika semuanya berjalan lancar, anda akan mendengar lebih banyak mengenai Romania.
+**Rafizi:** Secara jujurnya, bila dia jadi Presiden, retorik ekstrem dia tu berkurangan, cuma cadangan dasarnya memang ekstrem. Tapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Saya pun pada mulanya rasa seperti, "Gila ke apa dia ni?" Sesetengah perkara yang dia cakap tu bukanlah penemuan hebat (Eureka), tapi untuk melakukannya di Argentina—semoga berjaya, kan? Namun dia sebenarnya berjaya melakukannya. Dalam kes beliau, parti beliau menang lebih besar dalam pilihan raya tempatan yang seterusnya. Kita tidak mendengar Argentina memerlukan dana bantuan penyelamat (bailout), sedangkan pada awalnya orang fikir Argentina memerlukan bantuan penyelamat dan orang ramai akan protes di jalanan. Jadi saya mengandaikan dalam tempoh beberapa bulan, jika semuanya berjalan lancar, anda akan mendengar lebih banyak mengenai Romania.
 
 **Iqbal:** Javier Milei, itu pendekatan yang sangat ekstrem, dengan gergaji berantai beliau dan semuanya. Jadi, mungkin ada orang tak suka.
 
-**Rafizi Ramli:** Secara jujurnya, bila dia jadi Presiden, pendirian dia tu tak adalah begitu teruk. Cuma cadangan dasar dia memang ekstrem lah. Tapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Aku pun sebenarnya fikir, gila ke apa dia ni? Maksud aku, sesetengah perkara yang dia cakap tu, bukanlah sebenarnya penemuan hebat (Eureka) atau luar biasa sangat, tapi untuk melakukannya di Argentina, semoga berjayalah. Namun dia sebenarnya berjaya melakukannya. Dan dalam kes beliau, sebenarnya dia menang pilihan raya seterusnya; parti dia menang lebih besar dekat pilihan raya tempatan. Jadi dalam kes Argentina, kita tak dengar Argentina kena dana bantuan penyelamat (bailout). Sebab orang fikir lepas ni kena bailout, habislah, orang protes atas jalan, terbakar semua. Tetapi, jadi aku mengandaikan dalam tempoh beberapa bulan, kalau semuanya berjalan lancar, anda akan mendengar lebih banyak mengenai Romania lah.
+**Rafizi:** Secara jujurnya, bila dia jadi Presiden, pendirian dia tu tak adalah begitu teruk. Cuma cadangan dasar dia memang ekstrem lah. Tapi sebenarnya, dari sudut ekonomi, setakat ini orang ramai mempunyai lebih banyak keyakinan terhadap Javier Milei. Aku pun sebenarnya fikir, gila ke apa dia ni? Maksud aku, sesetengah perkara yang dia cakap tu, bukanlah sebenarnya penemuan hebat (Eureka) atau luar biasa sangat, tapi untuk melakukannya di Argentina, semoga berjayalah. Namun dia sebenarnya berjaya melakukannya. Dan dalam kes beliau, sebenarnya dia menang pilihan raya seterusnya; parti dia menang lebih besar dekat pilihan raya tempatan. Jadi dalam kes Argentina, kita tak dengar Argentina kena dana bantuan penyelamat (bailout). Sebab orang fikir lepas ni kena bailout, habislah, orang protes atas jalan, terbakar semua. Tetapi, jadi aku mengandaikan dalam tempoh beberapa bulan, kalau semuanya berjalan lancar, anda akan mendengar lebih banyak mengenai Romania lah.
 
 **Haziq:** Okay, baik YB. Dah 2 jam 35 minit.
 
-**Rafizi Ramli:** Okay.
+**Rafizi:** Okay.
 
 **Haziq:** Kita dah habis bahagian ini. Bolehlah kot kita tambah 10 minit lagi.
 
-**Rafizi Ramli:** Baik.
+**Rafizi:** Baik.
 
 **Haziq:** Jadi yang terakhir, isu dunia, YB. Sebab dah beberapa minggu macam Malaysia ni duduk dekat Pluto, tak ada dunia lain. Walaupun isu dunia, tetapi sangat berkait rapat dengan Malaysia. Apa yang berlaku di Romania—akhirnya Ilie Bolojan, seorang pemimpin sayap kanan sederhana daripada Parti Liberal Kebangsaan, mendapat sokongan daripada parti-parti sayap kiri sederhana dan pelbagai spektrum politik. Dia mendapat lebih 300 daripada 465 kerusi daripada dewan itu, sama macam Malaysia dengan kerajaan perpaduan ini. Cuma kita tengok ketekunan dia untuk mendesak berkaitan dengan reformasi ekonomi fiskal, dalam keadaan parti-parti yang ada di dalamnya pun mungkin sedikit konservatif ataupun mahu berbelanja lebih dan tak berapa mementingkan reformasi fiskal. Mungkin ini dilihat seperti mana selama ini YB dikatakan sebagai orang yang perlu melakukan perkara yang betul walaupun benda itu tak popular demi kebaikan yang lebih besar.

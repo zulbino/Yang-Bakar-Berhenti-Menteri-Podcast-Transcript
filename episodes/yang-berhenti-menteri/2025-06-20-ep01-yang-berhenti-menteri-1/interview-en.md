@@ -8,7 +8,7 @@ duration_seconds: 4853
 duration: 1h 20m
 view_count: 134859
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests: []
 topics:
 - Resignation as Minister of Economy
@@ -17,7 +17,7 @@ topics:
 - Economic Structural Reforms
 - The Third Sector and Civic Empowerment
 - Future Political Plans and Grassroots Strategy
-summary: In this episode, former Malaysian Minister of Economy Rafizi Ramli discusses
+summary: In this episode, former Malaysian Minister of Economy Rafizi discusses
   his decision to resign from the cabinet following internal PKR party elections.
   He addresses public criticisms regarding his resignation, political dynamics with
   Prime Minister Anwar Ibrahim, his achievements at the Ministry of Economy, the concept
@@ -32,11 +32,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Interviewer:** My intro is not important today because we have a very rare outfit, YB's Springfield Village. Where did you get it? Because no one got it, but suddenly YB got it.
 
-**Rafizi Ramli:** This is for free. I don't know, someone sent it to the office. But if I don't wear it, I'll die. I still call it Twitter now, even though everyone is calling it X.
+**Rafizi:** This is for free. I don't know, someone sent it to the office. But if I don't wear it, I'll die. I still call it Twitter now, even though everyone is calling it X.
 
 **Interviewer:** Apparently, these are the people who have changed their profile photos to characters from The Simpsons. Okay, I didn't actually watch The Simpsons, YB, sorry. Springfield Village, that place, is it in the story or not?
 
-**Rafizi Ramli:** Springfield is there, but you never know whether Springfield is in Ohio or Minnesota, because Springfield in the US is a common city name. So if you watch The Simpsons—I grew up with The Simpsons—the one mystery is actually which Springfield this is.
+**Rafizi:** Springfield is there, but you never know whether Springfield is in Ohio or Minnesota, because Springfield in the US is a common city name. So if you watch The Simpsons—I grew up with The Simpsons—the one mystery is actually which Springfield this is.
 
 **Interviewer:** But this is not a podcast about Springfield. So I just want to start. We don't want to talk about Springfield, but we want to talk about what people are actually saying. I think that's the whole conversation for today. That's what people say, whether you like it or you don't like it.
 
@@ -44,7 +44,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Interviewer:** We want to make a change, YB. Whatever the decision, YB has a platform to make a change as a minister. Why don't you just continue? Why do you have to resign? In people's eyes, they understand that a minister has the capacity and can do that—maybe some people think there's even a magic wand. But why did YB choose to resign?
 
-**Rafizi Ramli:** I don't think many people have been a minister. Before becoming a minister, I too had a different view of the process within government. It's not like if someone becomes a minister, they can just make decisions single-handedly and things immediately happen.
+**Rafizi:** I don't think many people have been a minister. Before becoming a minister, I too had a different view of the process within government. It's not like if someone becomes a minister, they can just make decisions single-handedly and things immediately happen.
 
 There are decisions that involve basic policy decisions. So when the policy decision is made, it must be brought to the cabinet and it must get approval from other ministries. Then after the decision is obtained, it must be implemented. So actually, if we want to bring about change, it means we have to change policies, and those policies need to get everyone's agreement.
 
@@ -62,11 +62,11 @@ It's quite different between private companies and the government, because the g
 
 **Interviewer:** YB, I want to try a bit. Earlier YB talked about change, *and it's not* like a *magic stick* where a minister creates PADU and it immediately happens. And YB also mentioned in your post that YB is no longer bound by secrecy, so let me try asking. For example, about PADU...
 
-**Rafizi Ramli:** Answer that later; otherwise we'll end up spending the whole night talking about technical stuff like that. Look at him trying. For me, it's easy—I just bully the moderator.
+**Rafizi:** Answer that later; otherwise we'll end up spending the whole night talking about technical stuff like that. Look at him trying. For me, it's easy—I just bully the moderator.
 
 **Interviewer:** Okay, alright. Let's move on to what people are saying next, YB. This is more from the perspective of pro-government supporters. They say that in every election, there are winners and losers. It's normal for the loser to be embraced, and the PM has already coaxed you, but why haven't you listened to this persuasion?
 
-**Rafizi Ramli:** Coaxing, as I mentioned earlier, it's not a matter of being coaxed or not. I don't feel there is any good for the country if you become a *lame duck* minister who will drag down your own ministry, because the message and signal are clear.
+**Rafizi:** Coaxing, as I mentioned earlier, it's not a matter of being coaxed or not. I don't feel there is any good for the country if you become a *lame duck* minister who will drag down your own ministry, because the message and signal are clear.
 
 I think the people who arranged all this didn't think it through either. That's why during the campaign I said that this matter should have been discussed and carefully considered. Why drag the government and the country into this? Because when there is a shake-up in the party like this, it will have an impact. *I think it's very naive to think that* those plans would not bring consequences, at least to the party.
 
@@ -98,7 +98,7 @@ If that matter is resolved, whether I'm in the party leadership or government or
 
 **Interviewer:** It's quite concerning when YB says you can't speak about this and that. But YB, this "sulking" narrative is actually the main argument of some supporters. To the public who might not get the full context, their logic is simple: YB was elected through an election in P100 Pandan, won, and became a minister. Then YB lost in an *internal election* that didn't involve the entire populace—only a small percentage was involved. So a view arises that resigning betrays the people's mandate. This is the public view from those who don't follow party elections closely.
 
-**Rafizi Ramli:** We need to run longer political education classes. In the past, *there was civic education at school.* When there was *civic education*, usually once someone passed Form 5, they understood the system of government. But now I feel your generation didn't go through *civic education*, so they equate working for a company with working for the government. The employers are different.
+**Rafizi:** We need to run longer political education classes. In the past, *there was civic education at school.* When there was *civic education*, usually once someone passed Form 5, they understood the system of government. But now I feel your generation didn't go through *civic education*, so they equate working for a company with working for the government. The employers are different.
 
 For company work, there is indeed an employer, we sign a contract, and we have to do the work. Once you receive a salary, do the job until it's finished. A minister is different, because the people only elect Members of Parliament. From among the MPs, if the MPs from a party meet the Constitutional requirements, their party leader can form a government and become the Prime Minister. The ones who appoint ministers are not the people; the person who appoints ministers is the Prime Minister.
 
@@ -116,15 +116,15 @@ If I may summarize further, the people want ministers to work, but ministers nee
 
 Okay YB, today we want to talk about what people are saying. I want to return to the argument of those pro-government supporters earlier...
 
-**Rafizi Ramli:** Why are you always busy with them?
+**Rafizi:** Why are you always busy with them?
 
 **Interviewer:** We have to, YB, because people will bring it up anyway...
 
-**Rafizi Ramli:** This is the problem, even the moderator has been influenced by these cybertroopers.
+**Rafizi:** This is the problem, even the moderator has been influenced by these cybertroopers.
 
 **Interviewer:** *We have a lot of big things.* But okay, I think YB has answered that question many times. There's another allegation: "not a team player". In any organization, when something succeeds, it is because of teamwork. If you disagree with this and that, you're considered *not a team player*. How do you govern then? Isn't that right?
 
-**Rafizi Ramli:** That's it, here we are spending tens of minutes answering just a group of four or five noisy people on TikTok and Twitter. It's easy to attack personally and commit *character assassination*.
+**Rafizi:** That's it, here we are spending tens of minutes answering just a group of four or five noisy people on TikTok and Twitter. It's easy to attack personally and commit *character assassination*.
 
 People who have been politicians for a long time like me actually don't care at all what people say. *Basically, your record should be your best defense; your record should speak for yourself.* In my case, people who make up stories and attack individuals can say whatever they want, but I've gone through a wonderful career for almost 26 years.
 
@@ -132,7 +132,7 @@ If I weren't a *team player*—because some say the PM doesn't like me because I
 
 **Interviewer:** 27.
 
-**Rafizi Ramli:** When I was 25, I was already a unit head, already a manager. I became Head of Business Planning for Petronas' Petrochemical business at age 27. If I weren't a *team player*, I wouldn't have been promoted so quickly.
+**Rafizi:** When I was 25, I was already a unit head, already a manager. I became Head of Business Planning for Petronas' Petrochemical business at age 27. If I weren't a *team player*, I wouldn't have been promoted so quickly.
 
 In politics too, in 2016 when we mobilized INVOKE until PKR won 47 seats in GE14 (PRU 2018), our campaign involved over 40,000 volunteers. *These are volunteers. Do you think it's easy for us to gather volunteers, to motivate them without paying them, and to arrange them to campaign systematically? If I had a problem working in a team, how could I manage 40,000-plus volunteers who had no prior connection with PKR?*
 
@@ -154,7 +154,7 @@ So yeah, we don't need to entertain all these pro-government attacks. My views c
 
 **Interviewer:** YB mentioned earlier a view regarding team players. In politics, if someone dissents from the direction, it can be tough. But with YB's experience, if someone disagrees with YB, is it welcomed for added value to get the work done?
 
-**Rafizi Ramli:** It's actually like this. If we are in a small team to do a program in a parliamentary constituency, everyone has a view—this person wants water, that person wants it done in front of his house, another says the neighbor is useless. Allow everyone to give their views.
+**Rafizi:** It's actually like this. If we are in a small team to do a program in a parliamentary constituency, everyone has a view—this person wants water, that person wants it done in front of his house, another says the neighbor is useless. Allow everyone to give their views.
 
 In that process, each person must have proper arguments and facts. At the same time, they must have a good track record and we know that if they say something, it's because they have the experience and *competency to carry it through.*
 
@@ -166,7 +166,7 @@ But in my case, when I was Deputy President, *the buck stops at me and also the 
 
 **Interviewer:** YB, *are you serious in getting the job done?* Because YB gave all sorts of formulas, and then YB *resigned*.
 
-**Rafizi Ramli:** Yes, I get a lot of messages and emails saying, "Oh, you have to stay to get the job done." First, at the risk of sounding repetitive, the dynamics of government are very important to understand. To carry out the work of reforming the economy, that's why the mandate is so important.
+**Rafizi:** Yes, I get a lot of messages and emails saying, "Oh, you have to stay to get the job done." First, at the risk of sounding repetitive, the dynamics of government are very important to understand. To carry out the work of reforming the economy, that's why the mandate is so important.
 
 *Because the mandate will be translated into the smoothness of reformation. If you lose the mandate, that means your view and the ideas you bring to the government are rejected.* When the signal is clearly one of disagreement, then if I were a government officer or another minister, *I shouldn't pay that much attention because this is not what the Prime Minister wants or he does not have a good endorsement from the Prime Minister.* So if I stay, it is not going to be smooth sailing and it will drag everyone down.
 
@@ -192,7 +192,7 @@ It's better if I become a regular MP who can voice opinions openly. Any governme
 
 **Interviewer:** YB, *having said that*, we understand the Ministry of Economy does a lot of macro planning. But there is a segment of society that feels YB's presence there didn't make any difference. How does YB respond to this criticism?
 
-**Rafizi Ramli:** Do I need to respond? *It's as I say: your track record speaks for itself.* Whether one is in government or not differs from person to person. Some people view politics as 100% power, where the goal is to become a minister. *If his mindset is that only through power as a minister can he contribute to change, I don't really agree with that.*
+**Rafizi:** Do I need to respond? *It's as I say: your track record speaks for itself.* Whether one is in government or not differs from person to person. Some people view politics as 100% power, where the goal is to become a minister. *If his mindset is that only through power as a minister can he contribute to change, I don't really agree with that.*
 
 If people want to say there's no impact or no contribution, *I think the public will judge.* I've explained these matters earlier, *and let the facts speak for themselves. Let us judge objectively.* Objectively speaking, 2024 was a very good year for the nation's economy—high growth, low inflation, good job opportunities and unemployment rates, good wage growth, and the best stock market performance in the last 10 years.
 
@@ -208,7 +208,7 @@ For me, the goal of being a politician isn't power or becoming a minister. *What
 
 Meaning, how we ensure the distribution of resources—property, land, jobs, education, and health—occurs fairly, efficiently, *and sustainable for the long run*. And that can only happen *if we establish a government based on values*—noble values from Islam such as fairness, honesty, and diligence, which are also universal values. *So that is politics.*
 
-**Rafizi Ramli:** To me, my understanding of what politics is: people have never said that politics is strictly the same as being the government, or being a prime minister, or a minister. Politics is basically the authoritative allocation of resources and values in society. So going forward, our societal model—where everyone looks at ministers, the Prime Minister, and politicians as a *magic wand* to solve all problems—is not *sustainable*. Because the resources to be allocated are getting fewer over time, and things are getting harder.
+**Rafizi:** To me, my understanding of what politics is: people have never said that politics is strictly the same as being the government, or being a prime minister, or a minister. Politics is basically the authoritative allocation of resources and values in society. So going forward, our societal model—where everyone looks at ministers, the Prime Minister, and politicians as a *magic wand* to solve all problems—is not *sustainable*. Because the resources to be allocated are getting fewer over time, and things are getting harder.
 
 There are more and more constraints. People will say, "We want healthcare like this—one, two, three, four—just go and get this and that." The population is growing. Expectations for healthcare quality are rising, but nobody is willing to pay taxes.
 
@@ -228,19 +228,19 @@ There are many more spaces that I think we can add value to. And I don't think w
 
 **Interviewer:** YB, when listeners hear this, there are two things they will look at. First, they observe what YB actually wants to do next. People expect a gung-ho approach to party politics, but end up asking: does YB feel politics no longer needs power, or does YB no longer want power?
 
-**Rafizi Ramli:** I don't say it doesn't need power. But if there is a politician who says, "If we are not in the government, we cannot do anything," then we are politicians who actually cannot do anything. Because of that mindset—whether beating the roof or cutting the pole—as long as I am in the government, only then can I help. That is wrong, because the very definition of politics itself is the authoritative allocation of resources and values. And there are many ways to allocate resources. Resources are not 100% from the government. In fact, the larger resources in society are owned by the private sector or owned by ordinary people.
+**Rafizi:** I don't say it doesn't need power. But if there is a politician who says, "If we are not in the government, we cannot do anything," then we are politicians who actually cannot do anything. Because of that mindset—whether beating the roof or cutting the pole—as long as I am in the government, only then can I help. That is wrong, because the very definition of politics itself is the authoritative allocation of resources and values. And there are many ways to allocate resources. Resources are not 100% from the government. In fact, the larger resources in society are owned by the private sector or owned by ordinary people.
 
 **Interviewer:** Okay, YB. Regarding the third sector, I think many might be hearing about it for the first time and want to know more. Realistically, how can we do this in Malaysia?
 
-**Rafizi Ramli:** Never mind, wait until I announce it later. Otherwise, because they've written in big letters over there that time is almost up.
+**Rafizi:** Never mind, wait until I announce it later. Otherwise, because they've written in big letters over there that time is almost up.
 
 **Interviewer:** Okay, YB. Next question...
 
-**Rafizi Ramli:** How long are we allowed to speak here? Are you guys trying to gag me here too?
+**Rafizi:** How long are we allowed to speak here? Are you guys trying to gag me here too?
 
 **Interviewer:** YB, a question from many people—I think we can't hold it back anymore. People are asking about YB's next topic of discussion. A new party—will YB be forming a new party?
 
-**Rafizi Ramli:** Yeah, party. There is a way to win over defeat. It's a new thing—usually people form a party to win over victory, so I will make a party to win over defeat in early July. But not a political party; that's a kenduri party, a feast party!
+**Rafizi:** Yeah, party. There is a way to win over defeat. It's a new thing—usually people form a party to win over victory, so I will make a party to win over defeat in early July. But not a political party; that's a kenduri party, a feast party!
 
 Jokes aside, people ask because our society remembers previous dramas. The political drama this week is, if a *schism* or difference of opinion occurs in one party, then the most confirmed thing that will happen is that there will be a new party. In the past, when Dato' Seri Anwar was ousted in 1998, there was PKR. In fact, PAS also had a split in 1977 during a meeting in Kelantan between two groups, which resulted in the birth of BERJASA, which worked with UMNO for the 1982 election. UMNO had the same thing when there was a confrontation between Tun Mahathir and Tengku Razali Hamzah in 1988, leading to Semangat 46. DAP is like that too—in the old days when there was a clash between two groups, some left to form MDP. DAP had MDP, it's very common.
 
@@ -268,7 +268,7 @@ So the answer is: there is no new party other than the feast party.
 
 **Interviewer:** But YB, there is a question related to that. If there is no new party, will YB and the team contest in the KEADILAN party election in 2028? That's what people will ask too.
 
-**Rafizi Ramli:** Yes, people will ask. But life is not in our hands—I've had a heart attack before, anything can happen. Talking about 2028 now is very premature, too early, because there are many variables. Between 2025 and 2028, many things can change.
+**Rafizi:** Yes, people will ask. But life is not in our hands—I've had a heart attack before, anything can happen. Talking about 2028 now is very premature, too early, because there are many variables. Between 2025 and 2028, many things can change.
 
 For example, if PKR is still the government in 2028, then everyone will race to contest, so it will turn into all kinds of drama again. If, for example, after the 16th General Election (GE16) in 2028 PKR loses badly, I don't think anyone would even want to contest even if seats are offered. It's too premature to say.
 
@@ -282,7 +282,7 @@ So there's nothing stopping me from focusing on that. What will happen one, two,
 
 **Interviewer:** YB, people expect a revolution—noise here and noise there. Others might already be bored. Don't you feel bored with what you want to do?
 
-**Rafizi Ramli:** I don't know. I mean, it's like you never know until you try. Bored or not bored, that depends on your perspective. I'm always reminded of one thing: I always tell myself that actually you are not competing with others, you are competing with yourself. You set the limit for yourself, you draw your plan, you decide what your objective is, you decide what your job satisfaction is, and then you compete with yourself.
+**Rafizi:** I don't know. I mean, it's like you never know until you try. Bored or not bored, that depends on your perspective. I'm always reminded of one thing: I always tell myself that actually you are not competing with others, you are competing with yourself. You set the limit for yourself, you draw your plan, you decide what your objective is, you decide what your job satisfaction is, and then you compete with yourself.
 
 I think it will be fun. There are many new things that can be done that have never been done in Malaysia. Whether it works or not, I remember when I first started Invoke, everyone said it was crazy. I remember senior DAP leaders and others cursed at me, saying, "You don't get it, you don't want to cooperate with Tun Mahathir. In politics, everything is based on the party; you have to follow the party structure." Whatever floats your boat. At least I don't disturb people. I wanted to build up seats because PH would not become the government unless PKR won a lot of seats. DAP would win their traditional seats anyway; the swing seats were all PKR. If PKR didn't win 30 or 40 more seats, PH couldn't form the government. Just like in GE 2022, DAP winning many seats without PKR crossing the 30–35 seat hurdle wouldn't create a big block.
 
@@ -294,7 +294,7 @@ After all, our understanding of politics is different. My understanding is that 
 
 **Interviewer:** Alright, YB. That's a lot of work to be done. I feel like time is running short. How long has this discussion been going on?
 
-**Rafizi Ramli:** I don't know. Is it already 4 hours? I think it's 70 minutes. 70 minutes. I think our listeners are waiting to see what we want to do. We can't reveal everything here at once—it's like Netflix series, right? I don't want to tell you everything immediately; if I do, it becomes boring. It's like exposing a scandal: the rule of thumb is that if you want an issue to stick in the public's mind, it must be delivered progressively so that it stays in the newsroom and is discussed by the people for at least two weeks.
+**Rafizi:** I don't know. Is it already 4 hours? I think it's 70 minutes. 70 minutes. I think our listeners are waiting to see what we want to do. We can't reveal everything here at once—it's like Netflix series, right? I don't want to tell you everything immediately; if I do, it becomes boring. It's like exposing a scandal: the rule of thumb is that if you want an issue to stick in the public's mind, it must be delivered progressively so that it stays in the newsroom and is discussed by the people for at least two weeks.
 
 So when I used to expose scandals, I would verify the facts and stretch out the narrative over two weeks. It's the same here. We want to do something new by introducing the third sector to the community. If you say it all at once, people hear it and go back to sleep. They need it bit by bit. God willing, in the coming weeks, months, and years, people will start to see it gradually. It's a long journey—nobody says change happens overnight, right? The journey is as important as the destination, so let's make it a worthwhile journey.
 
@@ -304,8 +304,8 @@ Humans don't just listen when you talk to them, no matter how much you explain o
 
 **Interviewer:** Alright, YB. Thank you, YB. So I promise I won't talk about *pro-bono* anymore... but we will focus.
 
-**Rafizi Ramli:** Yeah, you can go ahead and say it. Then I'll switch to another moderator! I already told him, if he doesn't do a good job or if I'm not satisfied, after the third episode I'll replace this guy!
+**Rafizi:** Yeah, you can go ahead and say it. Then I'll switch to another moderator! I already told him, if he doesn't do a good job or if I'm not satisfied, after the third episode I'll replace this guy!
 
 **Interviewer:** So guys, support me! Okay, we will focus on what we want to do, and God willing there will be a lot of content related to our plans and how everyone can join on board with us. That's all from us before we meet next week. Assalamualaikum.
 
-**Rafizi Ramli:** I don't understand why there is a salam like this!
+**Rafizi:** I don't understand why there is a salam like this!

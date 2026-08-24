@@ -8,7 +8,7 @@ duration_seconds: 9574
 duration: 2h 39m
 view_count: 44888
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Dr. Rais Hussein
 topics:
@@ -25,7 +25,7 @@ topics:
   sovereignty concerns)
 - 'Bersatu internal power struggle: Muhyiddin, Hamzah Zainuddin, Azmin Ali factions'
 - Zohran Mamdani's NYC mayoral election as political inspiration
-summary: In episode 21 of the "Podcast Yang Berhenti Menteri," host Rafizi Ramli speaks
+summary: In episode 21 of the "Podcast Yang Berhenti Menteri," host Rafizi speaks
   with guest Dato' Dr. Rais Hussein, former Bersatu Supreme Council member and current
   PKR figure. Dr. Rais recounts his political journey from Bersatu to PKR, revealing
   he was long sidelined within PKR due to suspicions over his closeness to Muhyiddin
@@ -51,19 +51,19 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod ke-21. Minggu ini tiada salam-salam dengan Arud — dah tak ada, saya dah bertobat. Tapi kita ada seorang lagi tetamu istimewa kita pada malam ini, iaitu satu misteri tetapi telah dikesan dengan betul oleh... ya, korang guna gambar dia, tentulah orang boleh kesan. Jangan minta gambar ini — kenapa tak letak gambar lain? Itu satu misteri. Dato' Dr. Rais Hussein — apa khabar, Dato'?
+**Rafizi:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod ke-21. Minggu ini tiada salam-salam dengan Arud — dah tak ada, saya dah bertobat. Tapi kita ada seorang lagi tetamu istimewa kita pada malam ini, iaitu satu misteri tetapi telah dikesan dengan betul oleh... ya, korang guna gambar dia, tentulah orang boleh kesan. Jangan minta gambar ini — kenapa tak letak gambar lain? Itu satu misteri. Dato' Dr. Rais Hussein — apa khabar, Dato'?
 
 **Dr. Rais Hussein:** Alhamdulillah, terima kasih kerana menjemput saya.
 
-**Rafizi Ramli:** Dato' Dr. Rais Hussein adalah bekas Ahli Majlis Pimpinan Tertinggi Bersatu.
+**Rafizi:** Dato' Dr. Rais Hussein adalah bekas Ahli Majlis Pimpinan Tertinggi Bersatu.
 
 **Dr. Rais Hussein:** Apa cara nak mula macam ni — banyak-banyak dia buat, kau mula dengan "bekas", "mantan".
 
-**Rafizi Ramli:** Tak, kapsyen you saya sambut saja. Cuma kalau saya boleh mula, Doktor — doktor keluar Bersatu pada bulan 10, Oktober 2022. Doktor menyatakan bahawa antara sebab perletakan jawatan itu adalah punca masalah kesihatan dan tugas lain. Cuma beberapa hari selepas itu, doktor menyertai PKR. Jadi... sebenarnya sebab apa, Doktor? Mungkin prinsipal doktor, apakah?
+**Rafizi:** Tak, kapsyen you saya sambut saja. Cuma kalau saya boleh mula, Doktor — doktor keluar Bersatu pada bulan 10, Oktober 2022. Doktor menyatakan bahawa antara sebab perletakan jawatan itu adalah punca masalah kesihatan dan tugas lain. Cuma beberapa hari selepas itu, doktor menyertai PKR. Jadi... sebenarnya sebab apa, Doktor? Mungkin prinsipal doktor, apakah?
 
 **Dr. Rais Hussein:** Bik! Tanya apa tu, dia bagi soalan mengarah pulak.
 
-**Rafizi Ramli:** Jawapan mengarah.
+**Rafizi:** Jawapan mengarah.
 
 **Dr. Rais Hussein:** Tapi memang begitulah keadaan kesihatan masa itu. Saya baru sahaja pulih daripada pembedahan pintasan empat salur (quadruple bypass) pada 2019, dan aktif dalam politik pun tak banyak dah. Jadi fokus saya lebih kepada penulisan dan penyelidikan. Dan masa itu saya diberi tugas di MDEC, untuk membersihkan MDEC dan membetulkan sistem — biasalah macam tu. Kemudian bila sampai kepada politik, saya hanya keluar memberi komen dan op-ed serta penulisan dan penampilan TV, jadi terhad. Tetapi bila saya melihat ada beberapa perkara yang tidak sehaluan dengan apa yang mula-mula saya berkecimpung dalam politik — saya tidak pernah menjadi ahli politik, sebenarnya Raf boleh sahkan, saya selalu suka guna perkataan "saya bukan ahli politik." Biasanya saya lebih sebagai teknokrat, telekom, IT dan sebagainya. Saya masuk pada tahun 2015, kali pertama ketika Tan Sri Muhyiddin dihantar keluar. Dan itu adalah masa yang memerlukan penglibatan dalam politik, tetapi lebih kepada administratif — menetapkan perlembagaan, logo, membawa orang berpengaruh untuk menyokong, strategi dan taktikal dan sebagainya.
 
@@ -75,25 +75,25 @@ Saya tidak pernah dibenarkan untuk aktif dalam parti PKR. Dan saya cukup kagum �
 
 Jadi bila saya tahu perkara itu, saya tak pernah main sebarang peranan dalam PKR. Dan sehingga hari ini itulah hakikatnya. Kerana ini telah disampaikan kepada saya bukan oleh seorang pemimpin kanan sahaja, tetapi tiga atau empat pemimpin kanan, yang mengatakan saya terlalu rapat dengan Tan Sri Muhyiddin, terlalu rapat dengan Tun Mahathir, dan oleh itu mereka curiga terhadap saya.
 
-**Rafizi Ramli:** Astaghfirullahalazim.
+**Rafizi:** Astaghfirullahalazim.
 
 **Dr. Rais Hussein:** Saya membuat langkah sebenar untuk menyertai parti supaya saya boleh memainkan peranan — bukan setakat jawatan atau kuasa, tetapi lebih kepada bagaimana saya boleh menyumbang kepada parti. Tapi itu dihalang. Dan pemimpin kanan ini memberitahu saya — bukan sekali dua, malah berkali-kali, daripada sumber yang berbeza-beza. Jadi saya kata, okay, saya ditakdirkan untuk jadi "orang lain punya orang".
 
-**Rafizi Ramli:** Sebelum kita mulakan segmen, Doktor — doktor juga terlibat bersama saya semasa perjanjian peralihan antara Tun Mahathir dan Datuk Seri Anwar. Boleh kongsi sikit?
+**Rafizi:** Sebelum kita mulakan segmen, Doktor — doktor juga terlibat bersama saya semasa perjanjian peralihan antara Tun Mahathir dan Datuk Seri Anwar. Boleh kongsi sikit?
 
 **Dr. Rais Hussein:** Pada masa itu saya juga banyak berbincang dengan Izzah. Saya ingat, di Hospital Pantai, semasa isteri saya masih di hospital menunggu untuk bersalin, ada satu kedai kopi berhampiran pantai situ — "Starbucks Zionis" itu. Di situlah kami habiskan lebih kurang dua jam berbincang apakah jalan ke hadapan untuk PM sekali lagi. Kenapa? Kerana saya kata itu satu-satunya cara untuk membawa keluar Dato' Sri Anwar — maafkan istilah ini, proses itu — pada masa itu. Sebab pada waktu itu, DAP tidak mahu menerima Tan Sri Muhyiddin sebagai calon PM, kalau Raf ingat betul. Tetapi pada ketika itu, inilah satu-satunya penyelesaian yang kami ada. Dan keesokan atau lusa harinya, Nurul — Izzah — pergi ke London untuk berbincang tentang itu.
 
 Jadi, perjanjian peralihan itu ditandatangani pada 14 Julai 2017. Saya tak boleh lupa kerana keesokan harinya anak kembar saya lahir. Dan malam itu, sehingga tengah malam, semua orang bertelagah di pejabat PKR. Kemudian Tun Mahathir berkata, "Kalau macam ini, kami akan keluar." Salahuddin — Allahyarham, kalau Raf ingat — dia bangun. Dia kata, "Kita tak boleh buat macam ini." Dia agak emosional sikit. "Kita tak boleh buat macam ini, kita perlu buat macam ini." Kemudian saya tanya, kalau Raf ingat, "Boleh bagi kami 15, 30 minit rehat? Kami akan bawa satu perjanjian."
 
-**Rafizi Ramli:** Jadi pada masa itu saya bawa satu draf perjanjian.
+**Rafizi:** Jadi pada masa itu saya bawa satu draf perjanjian.
 
 **Dr. Rais Hussein:** Saya juga bawa satu draf perjanjian. Dan dalam perjanjian itu, ramai yang lebih fokus kepada bahagian Datuk Sri Anwar, kalau Raf ingat — betul kan? Dalam perjanjian saya, semua yang Raf sebut — pindaan, peralihan, apa semua — ada disebut. Tapi kami juga fokus sikit kepada, apa nama ni... banyak fokus kepada Malaysia secara keseluruhan. Kenapa? Sebab pandangan saya, perjanjian ini akan bocor. Di Malaysia, semua benda akan bocor. Saya tahu ia akan bocor. Sebab itulah kami cadangkan macam itu. Jadi Raf mendesak untuk letak tempoh 24 bulan.
 
-**Rafizi Ramli:** Saya rasa saya yang bersungguh-sungguh nak letak 24 bulan tu — maksudnya sebelum Dato' Sri Anwar...
+**Rafizi:** Saya rasa saya yang bersungguh-sungguh nak letak 24 bulan tu — maksudnya sebelum Dato' Sri Anwar...
 
 **Dr. Rais Hussein:** Bukan, bukan — untuk jadi PM.
 
-**Rafizi Ramli:** Oh, ya, ya, ya — saya yang bersungguh-sungguh nak begitu.
+**Rafizi:** Oh, ya, ya, ya — saya yang bersungguh-sungguh nak begitu.
 
 **Dr. Rais Hussein:** Betul, awak yang bersungguh-sungguh. Saya kata, "Tolonglah" — saya dah lupa sebenarnya, tapi saya kata jangan, kalau buat macam itu... itulah sebabnya ia jadi terbuka (open-ended). Okay, biar saya terangkan, Raf — sebab kalau macam itu, dia akan jadi "itik terperap" perdana menteri. Sebab pada masa itu, ingat, saya bukan ahli politik, kan? Saya betul-betul percaya bahawa semua orang berada dalam ini bersama-sama. Saya tak boleh tak percaya macam itu, kan?
 
@@ -101,49 +101,49 @@ Dan yang pertama menandatangani perjanjian itu ialah Tun. Yang kedua Kak Wan. Ya
 
 Jadi itulah pengalaman saya dengan Raf. Kita selalu ada interaksi, positif dan macam-macam. Dan dia pernah cetuskan — saya ada MA Research, sampai sekarang pun ada, dibiayai sendiri. Itulah macam mana keadaannya pada masa itu. Saya teruja sebab ia memberi rangsangan tu, "wah, awak sedang buat sesuatu untuk negara."
 
-**Rafizi Ramli:** Tapi lepas beberapa lama...
+**Rafizi:** Tapi lepas beberapa lama...
 
 **Dr. Rais Hussein:** Rasa macam kena tumbuk besar pulak.
 
-**Rafizi Ramli:** Kenapa?
+**Rafizi:** Kenapa?
 
 **Dr. Rais Hussein:** Sebab... lepas jadi PM, atau ini... susah nak akses. Sebab ia dielakkan, kena dipandang rendah oleh sesetengah pihak. That's how it is. Dan yang menarik dengan Datuk Sri Anwar juga — sebelum menyertai, saya memang berkata kepadanya, di rumah dekat M-Corp Mall, saya kata, "Saya ni orang yang sangat kecewa dengan banyak perkara dalam politik ini. Saya sertai awak — tolong pastikan awak jaga rakyat, tolong jaga rakyat, kerana kemampuan (affordability) adalah perkara yang sangat penting." Kalau Raf ingat, dulu kita sering bincang tentang "ekonomi perut" — Tan Sri Muhyiddin guna istilah tu banyak kali. Pengurangan kos, kos sara hidup, penjagaan kesihatan yang mampu milik, perumahan yang mampu milik, pekerjaan yang bermartabat dan berkualiti — dan ada satu lagi, jadi lima perkara ini yang penting, lebih daripada 90% rakyat mahukan itu. Jadi kita akan buat perubahan.
 
 Tapi bila ia jadi "hit" macam itu, kali ini cerita lain pulak — "saya tak boleh percaya sebab dia terlalu rapat dengan Tun Mahathir dan Tan Sri Muhyiddin, dia orang Tan Sri Muhyiddin." Jadi saya keliru. Sebab itulah, Raf, sepanjang tahun-tahun selepas saya menyertai, saya tak pernah terlibat dalam arus perdana politik PKR. Ini pendedahan malam ini.
 
-**Rafizi Ramli:** Itulah hakikatnya.
+**Rafizi:** Itulah hakikatnya.
 
 **Dr. Rais Hussein:** Dan saya masih tak faham kenapa saya tidak dipercayai macam itu. Okay, bye, Doktor — tapi saya dilantik di Meranti oleh Datuk Sri Anwar.
 
-**Rafizi Ramli:** Baik, kita teruskan kepada segmen. Kita minta juga tetamu kita ni pergi melalui segmen-segmen yang kita biasa buat — supaya dapat kurangkan saya bercakap sikit.
+**Rafizi:** Baik, kita teruskan kepada segmen. Kita minta juga tetamu kita ni pergi melalui segmen-segmen yang kita biasa buat — supaya dapat kurangkan saya bercakap sikit.
 
 **Dr. Rais Hussein:** Kau tak penat ke?
 
-**Rafizi Ramli:** Cuma kita akan fokus kat "Beria" dan juga Bersatu, saya rasa. Yang lain tu kita akan percepatkan sikit.
+**Rafizi:** Cuma kita akan fokus kat "Beria" dan juga Bersatu, saya rasa. Yang lain tu kita akan percepatkan sikit.
 
 **Dr. Rais Hussein:** Baik, okay.
 
-**Rafizi Ramli:** Tak lain tak bukan, kita ada yang pertama, "Beria". "Beria" ni maksudnya, sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong laman Der Spiegel dan Dian. Poyo, tolong tayangkan yang pertama — ini kita nampak budak-budak, anak sendiri, digunakan untuk mempromosikan acara gaduh-gaduh.
+**Rafizi:** Tak lain tak bukan, kita ada yang pertama, "Beria". "Beria" ni maksudnya, sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong laman Der Spiegel dan Dian. Poyo, tolong tayangkan yang pertama — ini kita nampak budak-budak, anak sendiri, digunakan untuk mempromosikan acara gaduh-gaduh.
 
 **Dr. Rais Hussein:** Raf perasan benda ni?
 
-**Rafizi Ramli:** Ada nampak dalam garis masa, tapi saya tak ikuti sangat — ini pasal Muay Thai kan? Kalau tak silap, saya penat sangat lepas tu.
+**Rafizi:** Ada nampak dalam garis masa, tapi saya tak ikuti sangat — ini pasal Muay Thai kan? Kalau tak silap, saya penat sangat lepas tu.
 
 **Dr. Rais Hussein:** Saya rasa peraturan asas dia mudah je — budak bawah umur macam ni tak boleh. Saya cuba, dalam kes saya sendiri — mungkin ada orang suka anak dia jadi tokoh awam, seluruh keluarga tampil — tapi cabaran terbesar saya ialah untuk sembunyikan isteri dan anak-anak saya, kerana mereka berhak dapat kehidupan peribadi. Sebab ini kerja kita, tapi masyarakat kita masih tak berhati-hati tentang itu. Biasanya kita tak berhati-hati. Jadi ini sebenarnya, pada saya, melangkaui batas.
 
-**Rafizi Ramli:** Sensitif sangat ke ini? Tak apa — ini Muay Thai dah, budak-budak Muay Thai semua.
+**Rafizi:** Sensitif sangat ke ini? Tak apa — ini Muay Thai dah, budak-budak Muay Thai semua.
 
 **Dr. Rais Hussein:** Tapi ia... saya rasa ia hanya mengejutkan saya. Semua orang tahu lah dia macam ini kan.
 
-**Rafizi Ramli:** Doktor ada ikuti?
+**Rafizi:** Doktor ada ikuti?
 
 **Dr. Rais Hussein:** Saya nampak pada masa saya juga. Pertama, saya terkejut terperanjat tengok — bukan terperanjat biasa, terperanjat gorila tengok — sebab budak-budak ni terlalu muda untuk buat benda macam ini. Kalau 18, 19, 20 pun tak apa juga, tapi ini terlalu muda untuk mulakan perkara ini. Jadi sekali lagi, dalam konteks hari ini yang menggembirakan budaya gangster, menggembirakan nak bergaduh-gaduh, buli dan sebagainya — mungkin tak wajarlah. Itu pandangan saya. Saya tak akan benarkan anak saya — Kamal Hassan ada di sini — tapi saya tak akan benarkan dia buat benda macam ni, kerana ia bukan sesuatu yang kita mahu untuk anak kita. Main bola tak apa, badminton tak apa, belajar tak apa. Tapi cara macam itu, budaya timur dah hilang. Dan macam mana nak asuh anak bila kita ajar mereka jadi macam itu? Bila saya nampak tu, saya kata, biarkanlah — ini "zon perang", sebenarnya satu pertandingan, kejohanan untuk kanak-kanak. Seni mempertahankan diri campuran — untuk kanak-kanak.
 
-**Rafizi Ramli:** Ada kategori budak-budak?
+**Rafizi:** Ada kategori budak-budak?
 
 **Dr. Rais Hussein:** Ya, ada lah. Maksud saya, masyarakat kena terima bahawa kita, ibu bapa, kena tahu untuk diri sendiri — apa jua yang kita buat, elok kita tak libatkan anak-anak kita. Ya, anak-anak kita. Dan you tahu, MMA ni betul-betul pukul muka — ini isu besar, ego.
 
-**Rafizi Ramli:** Seterusnya, Oibie — kita ada "Abah PMX". Ini kena tanya Dr. Rais — doktor rumah kan? Doktor masih berhubung dengan Tan Sri Muhyiddin?
+**Rafizi:** Seterusnya, Oibie — kita ada "Abah PMX". Ini kena tanya Dr. Rais — doktor rumah kan? Doktor masih berhubung dengan Tan Sri Muhyiddin?
 
 **Dr. Rais Hussein:** Sangat kerap. Dan Tan Sri Muhyiddin, pada saya, secara peribadi, dia orang yang sangat baik, dan saya tak ada aduan tentang dia. Dan semasa dia jadi Perdana Menteri, saya ada akses yang agak mudah kepada dia, alhamdulillah. Dan kalau Raf ingat, semasa era beliau jadi PM, ada satu isu yang saya tak boleh sokong dan saya sangat menentang — iaitu rangkaian borong tunggal 5G, yang saya percaya adalah satu skim tipu. Saya pergi jumpa dia beberapa kali. Dia kata, "Raiz, awak sedar tak kita sedang buat ini?" Saya kata, "Ya, tapi ini skim tipu, Tan Sri — bagi saya 15 minit, saya akan terangkan kenapa." Dan saya terangkan kepada dia kenapa ia satu skim tipu. Rangkaian borong tunggal 5G adalah satu kegagalan di setiap negara, di setiap wilayah dan bidang kuasa — kecuali Brunei, tapi Brunei atas sebab unik mereka sendiri, kecil, 500,000 penduduk. Jadi saya sentiasa mengadvokasi rangkaian borong berbilang.
 
@@ -151,119 +151,119 @@ Bila Dato' Sri Anwar jadi PM, itulah satu-satunya masa saya ada sesi bersemuka d
 
 Menteri Kemboja yang datang ke Malaysia pun nak jumpa saya kerana isu yang sama untuk Kemboja. Saya mula dengan mengatakan bahawa kalau orang ada otak, mereka tak akan pergi untuk rangkaian borong tunggal. Menteri tu terkejut pada masa tu Kemboja nak pergi untuk rangkaian borong tunggal. Dan saya terangkan kepada mereka kenapa — ia gagal di mana-mana, Kenya, Manila, di mana-mana — Rwanda pun, demi Tuhan. Mereka buat dengan baik pergi ke rangkaian borong tunggal, lepas tu boleh kembali ke rangkaian borong berbilang...
 
-**Rafizi Ramli:** Macam Zafrullah cakap.
+**Rafizi:** Macam Zafrullah cakap.
 
 **Dr. Rais Hussein:** Tapi Tan Sri Muhyiddin sanggup dengar, dan dia orang yang sangat tenang dan bersahaja — bukan senang nak cakap dengan dia. Jadi itulah antara perkara-perkara yang... tentulah, saya tak setuju tentang pengambilalihan kerajaan itu. Sebab itulah, malah kalau Raf ingat, tiga empat hari sebelum perkara itu berlaku, saya ada di BFM dan saya merayu supaya perkara itu tidak berlaku. Tapi ia berlaku juga. Tapi dia orang yang baik.
 
-**Rafizi Ramli:** Jadi macam mana dia boleh setuju untuk jadi PM semula? Yakin Tan Sri Muhyiddin untuk konteks ini?
+**Rafizi:** Jadi macam mana dia boleh setuju untuk jadi PM semula? Yakin Tan Sri Muhyiddin untuk konteks ini?
 
 **Dr. Rais Hussein:** Untuk konteks ini... komen saya, komen saya sahajalah — ini orang yang baik dengan Tan Sri Muhyiddin. Macam mana nak melayarinya? Pandangan saya begini — jangan pandang rendah dia. Dia orang yang tenang dan bersahaja. Kedua, awak tahu awak dah buat dengan Invoke dan saya dah buat dengan MA Research. MA Research ada ketepatan yang baik bila sampai kepada ramalan keputusan pilihan raya — enam negeri terakhir, 95.6% tepat. Bila kami kata PN kosong, kami betul. Kami kena "hentam" sebelum itu — kawan-kawan kami di UMNO menghentam saya kiri kanan tengah — tapi itu kebenarannya. Angka-angka menunjukkan sokongan nasional ini, jangan pandang rendah dia, terutamanya di lingkaran Melayu (Malay belt). Jangan pandang rendah dia.
 
-**Rafizi Ramli:** Jadi kalau you setuju...
+**Rafizi:** Jadi kalau you setuju...
 
 **Dr. Rais Hussein:** Maaf, saya tak boleh setuju...
 
-**Rafizi Ramli:** Sudah jelas dia bersetuju — Dr. Rais kata gaya Tan Sri Muhyiddin ada peluang untuk jadi PM, angka-angka tunjukkan macam tu.
+**Rafizi:** Sudah jelas dia bersetuju — Dr. Rais kata gaya Tan Sri Muhyiddin ada peluang untuk jadi PM, angka-angka tunjukkan macam tu.
 
 **Dr. Rais Hussein:** Dan kecuali pihak lain mula buat apa yang sepatutnya mereka buat. Jadi kalau mereka buat apa yang sepatutnya...
 
-**Rafizi Ramli:** Tapi PAS tak sokong dia pun — PAS tak mahu dia jadi Perdana Menteri. Macam mana kalau kekuatan PN sebenarnya dari lingkaran Melayu, dan Bersatu bergantung kepada PAS? Sekarang PAS dah jelas nak Dato' Sri Hamzah, bukan Tan Sri Muhyiddin — macam mana itu akan berjalan?
+**Rafizi:** Tapi PAS tak sokong dia pun — PAS tak mahu dia jadi Perdana Menteri. Macam mana kalau kekuatan PN sebenarnya dari lingkaran Melayu, dan Bersatu bergantung kepada PAS? Sekarang PAS dah jelas nak Dato' Sri Hamzah, bukan Tan Sri Muhyiddin — macam mana itu akan berjalan?
 
 **Dr. Rais Hussein:** PAS biasanya akan mengubah keputusan mereka bila-bila masa diperlukan untuk mereka. Mereka akan izinkan. Kalau Raf ingat, PAS "halal" pada waktu pagi, "halal" pada tengah hari, "halal" lagi pada petang. Jadi cerita PAS tak setuju dengan Tan Sri ni datang sama ada dari khabar angin, atau daripada "satu Saiful dan satu Faizal". Jadi saya tak pasti sama ada itu betul atau tidak. Saya rasa PAS akan pergi kepada sesiapa yang mereka tahu boleh "menghasilkan". Itu pengalaman saya dengan PAS — kalau orang itu boleh menghasilkan dan memberi kepimpinan itu, mereka akan pergi dengan mereka.
 
 Kerajaan sekarang, DAP akan tetap ada — 38, 40 kerusi, mereka tak akan ke mana-mana jauh, walaupun sokongan Cina ada sedikit cabaran. Tapi yang lain, mereka perlu buat apa yang sepatutnya mereka buat.
 
-**Rafizi Ramli:** You cakap pasal PKR?
+**Rafizi:** You cakap pasal PKR?
 
 **Dr. Rais Hussein:** PKR dan...
 
-**Rafizi Ramli:** Maksud you PKR dan UMNO?
+**Rafizi:** Maksud you PKR dan UMNO?
 
 **Dr. Rais Hussein:** UMNO — saya selalu ada pandangan ini. Mereka asyik cakap, dan kebelakangan ini perkara ini timbul dengan kuat — mereka kata mereka tak menandatangani dengan Pakatan Harapan. Mereka kata mereka membentuk kerajaan perpaduan atas titah Tuanku Sultan, dan itu sahaja. Mereka tak cakap yang mereka "terikat". Pandangan saya, enam bulan atau beberapa bulan sebelum PRU16, UMNO akan kata, "Terima kasih atas masa yang diberikan, kami dah ada perjalanan yang baik, dan sekarang kami nak pergi dengan cara kami sendiri." Saya rasa itulah yang akan berlaku, sebab ia tak akan jadi macam yang kita fikir. Jadi mungkin selepas PRU16, kita bincang balik, bergantung kepada keputusan dan sebagainya.
 
 Saya tinggal di tempat yang dipanggil Bukit Jelutong, Shah Alam — ada Melayu pendapatan sederhana dan pendapatan tinggi. Mereka dah mula cakap, "Ini tak boleh jadi, ini yang berlaku sekarang, tak boleh jadi macam ni, kita perlu buat lebih baik, kita jangkakan lebih." Bila kita janji reformasi, reformasi mesti dikristalkan dalam tindakan. Tapi ia sama benda — "dua kali lima", kan? Bila perkataan "dua kali lima" ni timbul... beberapa daripada mereka dah mula kata, "Awak tahu, ahli politik ni macam lampin, kita kena tukar lampin atas sebab yang sama." Jadi itulah macam mana keadaannya. Jadi jangan hitung orang ni keluar. Pandangan saya, jangan hitung orang ni keluar — sikit pelarasan, Sabah Sarawak akan ikut pemenang. Awak ada 165 kerusi parlimen kat sini, dia akan ikut pemenang. Jadi jangan hitung orang ni keluar.
 
-**Rafizi Ramli:** Mesej untuk Wan Ahmad Faisal?
+**Rafizi:** Mesej untuk Wan Ahmad Faisal?
 
 **Dr. Rais Hussein:** Saya tak ada. Menarik, awak tahu, ini Saiful, Mazli dan Abu Hafiz — saya yang bawa mereka masuk Bersatu, dan meyakinkan Tan Sri untuk beritahu mereka kita perlukan calon yang baik, untuk jadikan mereka calon. Alhamdulillah, kesemua mereka jadi calon. Wan Faisal masih sangat muda dan bekerja untuk Sadiq. Dan Mazli menang pada masa itu, Wan Saiful tidak menang. Tapi menariknya macam mana Tan Sri sebenarnya banyak mengakomodasi Wan Faisal, dan banyak mengakomodasi Wan Saiful. Dan sekarang apa yang berlaku, berlakulah. Sebab itulah politik sangat sukar untuk difahami.
 
-**Rafizi Ramli:** Baiklah, jadi saya bercakap dengan seseorang yang mengorbankan hampir seluruh hidupnya untuk parti.
+**Rafizi:** Baiklah, jadi saya bercakap dengan seseorang yang mengorbankan hampir seluruh hidupnya untuk parti.
 
 **Dr. Rais Hussein:** Ya.
 
-**Rafizi Ramli:** Beria. Seterusnya — jangan main-main dengan stiker. Ini "Ultras Negeri Sembilan" — dia letak stiker atas kapal terbang.
+**Rafizi:** Beria. Seterusnya — jangan main-main dengan stiker. Ini "Ultras Negeri Sembilan" — dia letak stiker atas kapal terbang.
 
 **Dr. Rais Hussein:** Stiker apa tu, Negeri Sembilan?
 
-**Rafizi Ramli:** Ya — jadi ini kena tangkap ke?
+**Rafizi:** Ya — jadi ini kena tangkap ke?
 
 **Dr. Rais Hussein:** Ya, ya, kena tangkap.
 
-**Rafizi Ramli:** Apa syarikat penerbangan ni... ini stiker tanpa kebenaran, kemudian kawan dia yang di belakang rakam — dia rakam, ya, atau dia pencuri, dia rakam, dan daripada rakaman tu nampak. Ia agak berselerak — kalau orang nak buat macam ni, nak buat grafiti, kena buat sikit lebih kemas.
+**Rafizi:** Apa syarikat penerbangan ni... ini stiker tanpa kebenaran, kemudian kawan dia yang di belakang rakam — dia rakam, ya, atau dia pencuri, dia rakam, dan daripada rakaman tu nampak. Ia agak berselerak — kalau orang nak buat macam ni, nak buat grafiti, kena buat sikit lebih kemas.
 
 **Dr. Rais Hussein:** Saya tak pernah tahu melekatkan stiker macam ni pun satu kesalahan undang-undang. Saya tak pernah tahu.
 
-**Rafizi Ramli:** Sebab kalau boleh letak stiker, boleh je nanti semburkan cat dan sebagainya — habislah.
+**Rafizi:** Sebab kalau boleh letak stiker, boleh je nanti semburkan cat dan sebagainya — habislah.
 
 **Dr. Rais Hussein:** Ya, ya, ya — tapi sikit kurang, tak cukup kemas, jenayah. Lagi-lagi sebab dia buat tak kemas.
 
-**Rafizi Ramli:** Okay, kita pergi seterusnya, YB. Raya lambat lagi, tapi dah ada acara bermaaf-maafan. Beria, beria, ini orang beria. Dato' Rais, sedar tak dengan ini?
+**Rafizi:** Okay, kita pergi seterusnya, YB. Raya lambat lagi, tapi dah ada acara bermaaf-maafan. Beria, beria, ini orang beria. Dato' Rais, sedar tak dengan ini?
 
 **Dr. Rais Hussein:** Ya, ya, saya sedar dengan insiden ini. Saya nampak video tu di mana...
 
-**Rafizi Ramli:** Itu menteri tuangkan air kepada wartawan yang ambil gambar.
+**Rafizi:** Itu menteri tuangkan air kepada wartawan yang ambil gambar.
 
 **Dr. Rais Hussein:** ...Menteri Ngah cakap macam tu, "Saya akan cakap dengan editor awak juga." Yelah, kerja pertama saya adalah wartawan. Saya jadi wartawan di sebuah akhbar bernama The Sun, kemudian Star. The Sun tu meja jenayah, yang bagus untuk ahli politik — saya bergurau je, meja jenayah. Dan lepas tu saya masuk meja perniagaan. Jadi, banyak kali saya pun kena "hit" macam tu — pada masa tu, di bawah era Tun Mahathir. Jadi ahli politik, menteri-menteri tu macam "separuh dewa". Jadi ramai orang kena hit macam tu. Tapi sekarang, sebab kemunculan media sosial dan sebagainya, kalau you buat macam tu, you kena "hit" balik. Tapi saya rasa perkara yang baik ialah Ngah minta maaf — dia masuk "zon bebas ego" dan minta maaf. Kalau ada menteri yang terlalu penuh ego, dia tak nak buat macam tu, kan? Tapi yang ni dia nak selesaikan, dia minta maaf, okay.
 
-**Rafizi Ramli:** Ya, saya ada pandangan lain sikit lah. Sebenarnya, itu salah satu sebab kenapa orang Melayu ada kecurigaan dengan DAP — sebab, dengan Ngah — Kho Ming — minta maaf tu, you tak boleh salahkan rakyat. Malah sesetengah wartawan pun cakap benda yang sama, benda tu sebenarnya cetek. Sebab sikap yang keluar bila you saman wartawan, "saya akan telefon editor awak", "asingkan" dan sebagainya — itu sebenarnya lebih jujur, manifestasi lebih jujur apa yang you fikir, sebab ia spontan. Dan ini bukan kali pertama benda macam ni berlaku. Jadi ia tak membantu perjuangan Pakatan Harapan dengan orang Melayu. Jadi kalau DAP tanya, "Kenapa ada masalah, kenapa Melayu tak suka," kena hentikan benda-benda cetek macam ini. Dan sebahagian daripada sebab kenapa pengundi Melayu ada pandangan yang serong terhadap DAP kerana selalunya dia terlalu cetek. Jadi kalau nak melayukan, dia melayukan — berpantun sampai mati semua — sebab orang nampak tipu helah (gimmick) yang kita buat ni. Malah, kalau kita sebagai ahli politik terlalu bergantung kepada tipu helah, then you are in trouble, kerana orang nampak apa yang di belakang tipu helah itu. Jadi kalau dia "cuba terlalu keras", orang kata "cuba terlalu keras" semua, tiba-tiba keluar kejadian macam tadi — persepsi dan pandangan. Dan ini bukan orang PAS, orang PN tahu — ini pengundi Melayu atas pagar. Jadi dia mungkin nampak perkara kecil, dia sebut, kemudian dia buat ni, tapi ia tidak membantu kos Pakatan Harapan dengan pengundi Melayu. Ini yang melekat.
+**Rafizi:** Ya, saya ada pandangan lain sikit lah. Sebenarnya, itu salah satu sebab kenapa orang Melayu ada kecurigaan dengan DAP — sebab, dengan Ngah — Kho Ming — minta maaf tu, you tak boleh salahkan rakyat. Malah sesetengah wartawan pun cakap benda yang sama, benda tu sebenarnya cetek. Sebab sikap yang keluar bila you saman wartawan, "saya akan telefon editor awak", "asingkan" dan sebagainya — itu sebenarnya lebih jujur, manifestasi lebih jujur apa yang you fikir, sebab ia spontan. Dan ini bukan kali pertama benda macam ni berlaku. Jadi ia tak membantu perjuangan Pakatan Harapan dengan orang Melayu. Jadi kalau DAP tanya, "Kenapa ada masalah, kenapa Melayu tak suka," kena hentikan benda-benda cetek macam ini. Dan sebahagian daripada sebab kenapa pengundi Melayu ada pandangan yang serong terhadap DAP kerana selalunya dia terlalu cetek. Jadi kalau nak melayukan, dia melayukan — berpantun sampai mati semua — sebab orang nampak tipu helah (gimmick) yang kita buat ni. Malah, kalau kita sebagai ahli politik terlalu bergantung kepada tipu helah, then you are in trouble, kerana orang nampak apa yang di belakang tipu helah itu. Jadi kalau dia "cuba terlalu keras", orang kata "cuba terlalu keras" semua, tiba-tiba keluar kejadian macam tadi — persepsi dan pandangan. Dan ini bukan orang PAS, orang PN tahu — ini pengundi Melayu atas pagar. Jadi dia mungkin nampak perkara kecil, dia sebut, kemudian dia buat ni, tapi ia tidak membantu kos Pakatan Harapan dengan pengundi Melayu. Ini yang melekat.
 
 **Dr. Rais Hussein:** Baik-baik tu, walaupun dia beria lah tuang air tu.
 
-**Rafizi Ramli:** Baiklah, kita pergi ke seterusnya. Kita dah jadi "zoo negara" — kenyataan terbaru Presiden PAS. Saya selalu tertanya-tanya, bila ada "Minda Presiden" Datuk Seri Hadi Awang, yang ini betul-betul dia tulis ke, ataupun penulis dia? Dia ada cerita dalam. Tapi yang ini memang menarik — kira tak, ada berapa ekor, berapa jenis haiwan di situ? Ular, kemudian babi hutan, rusa, tapir, harimau, lembu, kerbau, kambing —
+**Rafizi:** Baiklah, kita pergi ke seterusnya. Kita dah jadi "zoo negara" — kenyataan terbaru Presiden PAS. Saya selalu tertanya-tanya, bila ada "Minda Presiden" Datuk Seri Hadi Awang, yang ini betul-betul dia tulis ke, ataupun penulis dia? Dia ada cerita dalam. Tapi yang ini memang menarik — kira tak, ada berapa ekor, berapa jenis haiwan di situ? Ular, kemudian babi hutan, rusa, tapir, harimau, lembu, kerbau, kambing —
 
 **Dr. Rais Hussein:** Berapa tu?
 
-**Rafizi Ramli:** Lapan.
+**Rafizi:** Lapan.
 
 **Dr. Rais Hussein:** Lapan.
 
-**Rafizi Ramli:** Kemudian ada cengkerik, lipas, belalang, katak, tikus — 13. Kemudian itu campur lagi ular lidi — 14. Jadi paling kurang babi hutan, paling kurang ada 15 jenis dalam lima perenggan. Sebenarnya tak habis lagi bawah tu, ada.
+**Rafizi:** Kemudian ada cengkerik, lipas, belalang, katak, tikus — 13. Kemudian itu campur lagi ular lidi — 14. Jadi paling kurang babi hutan, paling kurang ada 15 jenis dalam lima perenggan. Sebenarnya tak habis lagi bawah tu, ada.
 
 **Dr. Rais Hussein:** Tapi menarik — kerana Datuk Sri Hadi Awang ni suka guna perumpamaan binatang, bukan setakat kali ini, malah sebelum buku ini pun. Dia suka guna binatang. Jadi you betul, kita tak tahu sama ada ini dia sendiri, sebab dia suka baca buku banyak, atau ada beberapa "bias National Geographic" orang dalam pasukan penulisan dia yang tulis benda ni. Saya tak tahu. Kena berhati-hati, sebab... memang perumpamaan "ular lidi dengan anakonda" ni tak terlalu jauh dari kebenaran, kerana kalau you nak tengok saiz ekonomi, KDNK, kuasa tentera, semua tu — betul, kita kecil. Kapal yang kita dapat baru-baru ni umur 58 tahun. 58 tahun! Mereka nak buang kapal Tentera Laut AS tu, dan diberikan kepada kita. Jadi betul, anakonda bagi ular lidi tu. Tapi sebab itulah kita perlu sangat berhati-hati — perjanjian ni kena berhati-hati. Saya rasa dia bercakap pasal perjanjian, kita akan pergi kepada "pautan lain". Tapi kalau berdasarkan rekod Minda Presiden PAS setakat ini —
 
-**Rafizi Ramli:** Ini yang paling "beria" dengan binatang — dia tak pernah sampai 15 ekor.
+**Rafizi:** Ini yang paling "beria" dengan binatang — dia tak pernah sampai 15 ekor.
 
 **Dr. Rais Hussein:** Cuma, okeylah — saya tak tahu lah ini Dato' Sri Hadi sendiri. Perumpamaan dengan binatang ni tak semestinya kena — binatang ni tak ada akal, jadi binatang ni "survival yang paling gagah", betul kan? Jadi kalau dia letak macam ini — katakanlah PAS jadi kerajaan satu hari, kalau dia nak terangkan tentang perjanjian dagangan Malaysia dengan China, takkanlah dia akan nak bagi perumpamaan binatang sekali lagi. Masa dia Presiden PAS tak apalah, tapi kalau dia pemimpin kanan kerajaan, dilaporkan seluruh dunia pasal perumpamaan anakonda dan babi hutan — letih kita. Jadi sama ada ini ditulis, ataupun Minda Dato' Sri Hadi Awang sendiri, mungkin kena kurangkan sikit. Dan kalau nak pakai perumpamaan binatang, carilah yang comel sikit — kancil ke. Ini babi hutan, kerbau, kambing — mungkin untuk konsumsi domestik, kan, orang sini suka dengar macam ni.
 
-**Rafizi Ramli:** Beria, Doktor?
+**Rafizi:** Beria, Doktor?
 
 **Dr. Rais Hussein:** Beria, beria — boleh.
 
-**Rafizi Ramli:** Hari ni sebab ada Dr. Rais, kita suruh dia "beri markah" — tapi sebenarnya semua ni tak beria pun.
+**Rafizi:** Hari ni sebab ada Dr. Rais, kita suruh dia "beri markah" — tapi sebenarnya semua ni tak beria pun.
 
 **Dr. Rais Hussein:** Semua tak beria?
 
-**Rafizi Ramli:** Yang paling banyak pun tak beria?
+**Rafizi:** Yang paling banyak pun tak beria?
 
 **Dr. Rais Hussein:** Nampak gaya macam saya kata semua tak beria. Tak, tak — saya tak faham konsep "beria" ni, jadi biarkan sahaja. Okay, dua teratas bagi saya minggu ini — dua teratas ialah "zoo" dan juga "maafkan saya, maafkan saya".
 
-**Rafizi Ramli:** Okay, kami akan maafkan awak.
+**Rafizi:** Okay, kami akan maafkan awak.
 
 **Dr. Rais Hussein:** Maksudnya ia "tidak berfaedah" — sebab pusingan 180 darjah dia hebat. Daripada memarahi, kemudian terpaksa minta maaf pun okay — saya rasa munasabah untuk minta maaf. Tapi minta maaf dengan mengadakan majlis makan yang dibayar oleh kerajaan, itu lain sikit lah. Sebab itu saya Twitter — saya cuit kata boleh bagi makan, tapi atas perbelanjaan sendiri, bukan bawah KPKT. Ini gayanya — ini seriusnya, akhbar ni anjurkan majlis untuk bermaaf-maafan, besar kemungkinan kerajaan bayar. Jadi agak beria lah. Jadi yang ini saya bagi 4 bintang setengah.
 
-**Rafizi Ramli:** Tahniah. Kita ke segmen seterusnya — ada segmen kedua iaitu "Standing Order". Kita akan mengulas soalan-soalan lisan di Parlimen. Tapi kita tak masuk satu minggu ni — satu minggu yang awal-awal ni yang bising-bising.
+**Rafizi:** Tahniah. Kita ke segmen seterusnya — ada segmen kedua iaitu "Standing Order". Kita akan mengulas soalan-soalan lisan di Parlimen. Tapi kita tak masuk satu minggu ni — satu minggu yang awal-awal ni yang bising-bising.
 
 **Dr. Rais Hussein:** Tapi mungkin kita terlepas, bukan?
 
-**Rafizi Ramli:** Yang "kau bodoh, aku bodoh" tu — pukulan bodoh lah, ya Allah.
+**Rafizi:** Yang "kau bodoh, aku bodoh" tu — pukulan bodoh lah, ya Allah.
 
 **Dr. Rais Hussein:** Aku ada kat situ masa tu, aku dah give up dah masa tu. Letihnya masuk Parlimen — sana jerit "bodoh", sini jerit "bodoh", kau bodoh aku bodoh, kau bodoh kau bodoh — haha, letih betul lah.
 
-**Rafizi Ramli:** Tak apa, dah cover tu.
+**Rafizi:** Tak apa, dah cover tu.
 
 **Dr. Rais Hussein:** Ha, dah cover. Okay.
 
-**Rafizi Ramli:** Kita tengok soalan yang pertama, dari Pulai — minta Menteri Pelaburan, Perdagangan dan Industri menyatakan strategi kementerian untuk memastikan pusat data yang berpangkalan di Malaysia boleh menggunakan cip kecerdasan buatan (AI) yang berasal daripada Amerika Syarikat seperti Nvidia, dan China seperti Huawei Ascend, di sebalik pertembungan blok ekonomi ini. Apa jawapan kerajaan?
+**Rafizi:** Kita tengok soalan yang pertama, dari Pulai — minta Menteri Pelaburan, Perdagangan dan Industri menyatakan strategi kementerian untuk memastikan pusat data yang berpangkalan di Malaysia boleh menggunakan cip kecerdasan buatan (AI) yang berasal daripada Amerika Syarikat seperti Nvidia, dan China seperti Huawei Ascend, di sebalik pertembungan blok ekonomi ini. Apa jawapan kerajaan?
 
 **Dr. Rais Hussein:** Kita tak semak apa jawapan kerajaan — ini hari apa keluar ni? Kerana dalam konteks segala perkara yang berkaitan dengan perjanjian tarif ini, ini akan memberi impak — impak besar. Perjanjian ini menyatakan dengan jelas bahawa perkara-perkara yang berkaitan dengan teknologi ini perlu dibincang dan dirunding dengan AS. Jadi itu satu perkara — impak terus dia kepada cip mana yang kita nak pakai, terutamanya kalau China, Huawei, atau siapa-siapa lepas ni ada cip yang "berdiri sendiri".
 
@@ -277,7 +277,7 @@ Secara logiknya, negara seperti Malaysia sepatutnya "agnostik" pasal "tumpukan t
 
 Pandangan saya, demi kedaulatan negara, supaya kita tidak bergantung dan kita sentiasa ada pilihan, kita patut agnostik dengan teknologi ini. Sama juga dengan nuklear — sebab itu, bukan macam yang mereka kata, "kalau bagus, kenapa nak pergi ke pasaran teknologi lain" — itu pilihan kita, ke mana kita nak pergi. Tapi kita tak boleh dipaksa untuk hanya pilih satu, kerana pergantungan kepada satu sistem teknologi itu akan menghadkan kebebasan kita untuk membina teknologi yang lebih agnostik. Jadi yang ini saya tak tahu apa jawapan daripada MITI, tapi itu kesan jangka panjang 10-20 tahun akan datang.
 
-**Rafizi Ramli:** Awak setuju dengan apa yang saya cakap?
+**Rafizi:** Awak setuju dengan apa yang saya cakap?
 
 **Dr. Rais Hussein:** Kebanyakannya. Dan tambahan lagi — sebab saya "mengakomodasi" pusat data di... kata "diploma pusat data" di Malaysia. Pertamanya, kita tak boleh pastikan — sebab pusat data akan putuskan sendiri. Kalau pusat data "berasal Amerika", mereka putuskan apa yang mereka nak guna. Kalau China atau negara lain punya — macam ada beberapa "pusat data Singapura" — mereka akan guna apa yang mereka nak. Tapi maksudnya, bila kita dah ikat bahawa besar kemungkinan hanya GPU daripada AS sahaja, pelaburan dan pemain daripada negara lain akan kata, "ia tidak sesuai dengan teknologi saya, jadi saya tak boleh pergi, saya tak berminat dengan negara ini." Jadi kita mesti "neutral". Sebab itulah saya selalu bercakap tentang "neutraliti aktif" — kita perlu "neutral" dalam teknologi, "agnostik". Itulah yang sepatutnya.
 
@@ -289,19 +289,19 @@ Jadi kalau kita tengok Huawei, cara mereka buat dari segi teknologi, mereka sang
 
 Kemudian saya tanya, kalau GPU disekat — yang mana akan berlaku, ini lama sebelum ia berlaku — apa yang you nak buat? Dia kata, "Kami ada cara kami sendiri." Jadi maksudnya, mereka dah tahu awal-awal benda ni akan berlaku. Jadi dalam konteks Malaysia, kita mesti terus "neutral". Mereka tak boleh, sebab kalau kita tak "neutral", maka kita menghadkan pelaburan masuk kita. Dalam perjanjian ini, mereka kata walaupun pelaburan masuk, kena ada mekanisme untuk semak.
 
-**Rafizi Ramli:** Dalam teknologi ni, saya rasa Menteri Gobind hari ini bercakap tentang "berunding".
+**Rafizi:** Dalam teknologi ni, saya rasa Menteri Gobind hari ini bercakap tentang "berunding".
 
 **Dr. Rais Hussein:** Soalan saya — saya nak kahwin dengan seseorang, saya kena "berunding" dengan dia dulu sebelum kahwin? Kenapa kita perlu "berunding" dengan negara macam Amerika yang tak pernah berada dalam situasi "menang-menang" yang terbaik? Kemungkinan, kalau ada teknologi yang lebih baik, contohnya daripada China, dan ada kegunaan sebenar untuk itu — dalam 10-15 tahun, teknologi yang mungkin lebih baik dan akan lebih baik daripada teknologi Barat ialah teknologi China. Kemungkinannya, kalau kita "berunding", ia tak dibenarkan. AS akan kata, "tak dibenarkan." Jadi apa kita nak buat? Atau "takut". Dan kalau kita tak setuju dengan mereka, mereka akan "menggunakan" klausa di mana mereka berhak untuk menamatkan perjanjian, kenakan tarif semula. Jadi apakah "kesalingan" (reciprocity) itu?
 
-**Rafizi Ramli:** Itulah yang saya kata — ada orang tanya, apa pandangan you tentang perjanjian "bertimbal balik" ini? Saya kata, ini perjanjian "bertimbal balik" yang paling "tidak bertimbal balik".
+**Rafizi:** Itulah yang saya kata — ada orang tanya, apa pandangan you tentang perjanjian "bertimbal balik" ini? Saya kata, ini perjanjian "bertimbal balik" yang paling "tidak bertimbal balik".
 
 **Dr. Rais Hussein:** Kita tunggu dan lihat. Tapi jawapannya sangat umum — "pastikan Malaysia kekal dalam pertandingan teknologi AI, pastikan." Kita akan kata, "kita" — saya pun pernah jadi menteri dulu — "kita akan pastikan."
 
-**Rafizi Ramli:** Saya tidak faham... "Silicon Vision"... ekosistem infrastruktur dan inovasi seperti R&D, cip AI melalui VC Silicon dan kerjasama dengan pemain global seperti ARM.
+**Rafizi:** Saya tidak faham... "Silicon Vision"... ekosistem infrastruktur dan inovasi seperti R&D, cip AI melalui VC Silicon dan kerjasama dengan pemain global seperti ARM.
 
 **Dr. Rais Hussein:** Dulu MITI lah yang paling tak setuju dengan "Silicon Vision" ni — sebab itu sebut "Silicon Vision".
 
-**Rafizi Ramli:** Tak apalah, tapi ia akan jadi... macamlah Suhaizan tanya soalan ni, kerana soalan-soalan ini sebenarnya sepatutnya soalan macam inilah yang mencambahkan lagi wacana dalam masyarakat, supaya kita jangan terima bulat-bulat apa yang dimaklumkan oleh saluran rasmi.
+**Rafizi:** Tak apalah, tapi ia akan jadi... macamlah Suhaizan tanya soalan ni, kerana soalan-soalan ini sebenarnya sepatutnya soalan macam inilah yang mencambahkan lagi wacana dalam masyarakat, supaya kita jangan terima bulat-bulat apa yang dimaklumkan oleh saluran rasmi.
 
 Baik, kita ada satu lagi soalan — dari Pagoh, daripada Tan Sri. Yang ini tak apalah bagi Dr. Rais jawab. Saya baca dulu ya, Dato' — Pagoh minta Menteri Pertanian dan Keterjaminan Makanan menyatakan apakah strategi komprehensif kementerian bagi menangani inflasi makanan serta mencegah fenomena "beban berganda", iaitu kemiskinan dan malnutrisi dalam kalangan isi rumah B40 yang kini membelanjakan 71.9% pendapatan bulanan untuk keperluan asas, berbanding 64% golongan T20 untuk makanan berkhasiat. Kalau saya, Mat Sabu, saya tahu macam mana nak jawab, tapi saya tak tahu apa jawapan Mat Sabu, Dr. Rais.
 
@@ -317,13 +317,13 @@ Saya pergi ke tempat bernama Telangana dan Hyderabad, dan saya nampak dengan mat
 
 **Host:** Boleh cerita pengalaman you dengan kos barangan runcit sekarang ni?
 
-**Rafizi Ramli:** Satu troli, dulu lebih kurang RM300-400. Sekarang RM700-800, dan saya beli benda yang sama. Jadi saya tanya mereka, "Kenapa mahal sangat?" Dia kata dia selalu pergi ke tempat yang sama, tapi harga barang-barang tu memang dah naik — sama ada kiwi, atau pun buah tempatan macam pisang berangan, semuanya naik.
+**Rafizi:** Satu troli, dulu lebih kurang RM300-400. Sekarang RM700-800, dan saya beli benda yang sama. Jadi saya tanya mereka, "Kenapa mahal sangat?" Dia kata dia selalu pergi ke tempat yang sama, tapi harga barang-barang tu memang dah naik — sama ada kiwi, atau pun buah tempatan macam pisang berangan, semuanya naik.
 
 Ini isu yang sangat serius untuk kerajaan akan datang, untuk pilihan raya akan datang. Sesiapa yang boleh atasi isu keselamatan makanan ni akan ada peluang lebih baik untuk menang.
 
 **Host:** Tapi persoalannya ialah tentang keselamatan makanan dan malnutrisi.
 
-**Rafizi Ramli:** Ia bagus sebab Tan Sri Maidin bawa perkara ini untuk difokuskan. Cuma malnutrisi ni memang Malaysia — kalau untuk kanak-kanak bawah 12 tahun, saya rasa Malaysia adalah antara yang paling teruk di Asia Tenggara.
+**Rafizi:** Ia bagus sebab Tan Sri Maidin bawa perkara ini untuk difokuskan. Cuma malnutrisi ni memang Malaysia — kalau untuk kanak-kanak bawah 12 tahun, saya rasa Malaysia adalah antara yang paling teruk di Asia Tenggara.
 
 Tapi saya rasa soalan ini ditanya berdasarkan andaian bahawa keluarga miskin tidak mampu membeli makanan. Itu pada dasarnya andaiannya, yang tidak semestinya tepat, saya rasa. Sebab kalau kita lihat, ada faktor-faktor lain yang turut mempengaruhinya. Sebahagiannya ialah faktor sosioekonomi oleh kerana banyak ibu sebenarnya bekerja sekarang. Jadi anak-anak ni dia tak makan dengan sempurna, waktu makan tengah hari semua. Sebab bila ibu bapa bekerja, lepas sekolah tu, dia kena pandai-pandai sendiri. Dia tak macam zaman saya dulu, bila mak kita suri rumah sepenuh masa, waktu makan tengah hari tu memang dia masak betul-betul, budak-budak makan nasi betul-betul. Sekarang pun ada gaya hidup budak-budak ni — dia suka makan jajan, dia makan odeng ke apa, fishball semua tu kan.
 
@@ -335,15 +335,15 @@ Ada satu kajian PBB tentang golongan miskin bandar yang menyentuh soal ini, meng
 
 **Host:** Lepas ni kena saman dengan Nestlé, dengan Maggi semua ni — you dah hina mi segera, itu kegemaran Gen Z dan Gen Alpha tau!
 
-**Rafizi Ramli:** Dah berterus terang lah walaupun ia pahit — kata Rasulullah.
+**Rafizi:** Dah berterus terang lah walaupun ia pahit — kata Rasulullah.
 
 **Host:** Saman dia tau, bukan saman kita.
 
-**Rafizi Ramli:** Baik.
+**Rafizi:** Baik.
 
 **Host:** Okay, kita dah 57 minit. Kita masuk segmen seterusnya — ini main segmen lah, Dato', tentang isu-isu semasa. Mungkin saya boleh sentuh sikit untuk YB — seminggu FlexiMart. Kalau nak share apa-apa your thoughts?
 
-**Rafizi Ramli:** Okay lah, Alhamdulillah. Cuma ia menambah kepening kepala baru — macam saya dapat serangan kebimbangan tiap-tiap hari. Setiap kali saya semak jualan. Bagi saya, orang mungkin kata ini hobi, tapi ekonomi ada banyak perkara asas yang kerajaan buat, tapi itu pun soal pasaran — pasaran ni penawaran dan permintaan.
+**Rafizi:** Okay lah, Alhamdulillah. Cuma ia menambah kepening kepala baru — macam saya dapat serangan kebimbangan tiap-tiap hari. Setiap kali saya semak jualan. Bagi saya, orang mungkin kata ini hobi, tapi ekonomi ada banyak perkara asas yang kerajaan buat, tapi itu pun soal pasaran — pasaran ni penawaran dan permintaan.
 
 Cara konvensional setakat ini dalam menangani kos harian hidup ialah kerajaan akan bagi bantuan. Bila kos harian hidup tinggi, tak apa kita bagi SARA, tak apa kita bagi duit — baguslah. Tapi ada "tapi" kepada itu. Kalau kita tak uruskan bahagian pasaran ni — dan saya faham untuk mengawal selia pasaran ni tak mudah, sebab orang kata kenapa tak boleh kawal harga — kalau macam itu, kita kena tetapkan setiap harga barang, kemudian kita akan berhenti menjadi ekonomi pasaran. Contohnya bila kerajaan bagi SARA, bila kerajaan bagi STR yang lebih tinggi, kita sedang menyuntik wang ke dalam pasaran pengguna. Saya tak pasti sama ada kita ada semakan dan pastikan syarikat-syarikat yang dapat durian runtuh RM1 bilion, RM2 bilion suntikan wang ke dalam pasaran mereka — kita semak ke tidak dia naikkan harga, atau turunkan harga. Jadi oleh sebab itu, kalau kita tak uruskan soal pasaran, kita menormalisasikan kenaikan harga itu secara berpanjangan. Orang jual makan tengah hari RM10, RM15, kita tak cabar, kita menerima sahaja, dan bila kerajaan pula responsnya hanya "tak apa, kami maha pemurah, kami bagi duit" — duit tu duit cukai. Jadi kecuali kita fokus juga kepada soal konsumerisme dan pasaran, dan itulah sebenarnya apa yang kita cuba lakukan.
 
@@ -359,49 +359,49 @@ Jadi saya cukup positif kalau contohnya model ini boleh dibuktikan dalam satu du
 
 **Host:** Penat kan?
 
-**Rafizi Ramli:** Penat lah, penat. Hari ni aku belum semak lagi berapa.
+**Rafizi:** Penat lah, penat. Hari ni aku belum semak lagi berapa.
 
 **Host:** Okay, okay — kita orang lebih baik daripada semalam.
 
-**Rafizi Ramli:** Lebih baik daripada semalam tak bermaksud ia bagus. Semua ni muka-muka — Haziq pun banyak membantu di Kesom, saya bagi tugas semua diorang ni, dia kena gandakan usaha. Semua dah serik dah — tadi ada seorang budak kata, "Serik dah, lepas ni aku tak nak buat kerja ni dah." Tapi kepada yang menonton, saya rasa ini adalah seminggu yang luar biasa untuk saya. Sebenarnya orang Malaysia ni boleh bersatu hati tanpa kita campur aduk politik. Sebab bab ini memang betul — saya selalu dapat komen, "Saya tak sokong YB! Tapi ini saya sokong." Saya nak kata, tak payah lah cakap tak sokong saya — pergi je lah kat kedai tu. Tapi sebagai satu eksperimen sosial setakat ini, ia melangkaui jangkaan saya. Tapi kita tengok macam mana keadaannya dalam beberapa hari akan datang.
+**Rafizi:** Lebih baik daripada semalam tak bermaksud ia bagus. Semua ni muka-muka — Haziq pun banyak membantu di Kesom, saya bagi tugas semua diorang ni, dia kena gandakan usaha. Semua dah serik dah — tadi ada seorang budak kata, "Serik dah, lepas ni aku tak nak buat kerja ni dah." Tapi kepada yang menonton, saya rasa ini adalah seminggu yang luar biasa untuk saya. Sebenarnya orang Malaysia ni boleh bersatu hati tanpa kita campur aduk politik. Sebab bab ini memang betul — saya selalu dapat komen, "Saya tak sokong YB! Tapi ini saya sokong." Saya nak kata, tak payah lah cakap tak sokong saya — pergi je lah kat kedai tu. Tapi sebagai satu eksperimen sosial setakat ini, ia melangkaui jangkaan saya. Tapi kita tengok macam mana keadaannya dalam beberapa hari akan datang.
 
 Arwah ayah saya, salah satu perkara yang dia ada, dia ada syarikat pemforwardan dan juga sebuah kedai perniagaan. Jadi saya selalu tengok dia, macam mana dia buat perniagaan. Saya selalu cakap, retail ni — masa kecil-kecil lagi saya dah jadi ahli perniagaan, sejak umur 13 atau 14 tahun. Saya jual nasi lemak, kemudian saya juga jual salinan assignment dan caj 50 sen, dan daripada semua duit itu kemudian saya jadi ah long — saya bagi duit pinjaman, dapat riba. Adakah itu legal? Tak legal. Tapi di atas semua duit yang saya kumpul daripada perniagaan nasi lemak dan perniagaan menyalin assignment, saya sebenarnya jadi ah long. Kemudian, ada satu nasihat tentang kitaran ini dengan ayah saya, dan rahsia retail ni sangat mudah — dia kata semuanya bergantung kepada sumber dagangan yang kompetitif. Bagaimana anda memperoleh sumber barang yang anda jual semula di kedai. Macam orang biasa, lori atau apa datang hantar barang, kemudian mereka ambil je. Tapi dalam kes ayah saya, dia pergi KL hampir setiap hari. Dia pergi ke tempat yang boleh dapat pukal, lebih murah. Jadi dia lebarkan margin dia. Dan sangat efisien dijalankan.
 
 **Host:** Mama Putra, kedai Mama tu — mereka sangat particular pasal minuman. Saya terkejut margin dia 90 sen sebab...
 
-**Rafizi Ramli:** Tidak, tidak — ini kopi barista, itu kopi barista yang hebat, RM4.90, yang dijual tempat lain RM12.10. Sebab kacang kopi itu sendiri, satu cawan tu lebih kurang RM1 — kacang kopi itu sendiri. Anda campur semua yang lain, itulah kosnya.
+**Rafizi:** Tidak, tidak — ini kopi barista, itu kopi barista yang hebat, RM4.90, yang dijual tempat lain RM12.10. Sebab kacang kopi itu sendiri, satu cawan tu lebih kurang RM1 — kacang kopi itu sendiri. Anda campur semua yang lain, itulah kosnya.
 
 **Host:** Itu masuk akal, ya, itu masuk akal — sebab itulah orang lain jual pada dasarnya 200 hingga 300 peratus margin.
 
-**Rafizi Ramli:** Betul.
+**Rafizi:** Betul.
 
 **Host:** Saya akan pergi. Di mana ini terletak?
 
-**Rafizi Ramli:** Shah Alam.
+**Rafizi:** Shah Alam.
 
 **Host:** Shah Alam, di Seksyen Tujuh?
 
-**Rafizi Ramli:** Okey. Tapi ada satu benda yang kita tak terfikir langsung — ini bagus lah, satu minggu yang lepas ni dah bagi banyak perkara yang saya tak pernah terfikir. Kumpulan pengunjung paling besar — kita ingat sebab kita buka di Seksyen Tujuh tu dekat dengan UiTM.
+**Rafizi:** Okey. Tapi ada satu benda yang kita tak terfikir langsung — ini bagus lah, satu minggu yang lepas ni dah bagi banyak perkara yang saya tak pernah terfikir. Kumpulan pengunjung paling besar — kita ingat sebab kita buka di Seksyen Tujuh tu dekat dengan UiTM.
 
 **Host:** Tidak?
 
-**Rafizi Ramli:** Tidak — pengunjung paling besar ialah pasangan-pasangan Melayu tua. Jadi saya sedang mengkaji kenapa pasangan Melayu tua ni, pesara-pesara ini, suami isteri, suka pergi ke FlexiMart, beli kopi, makan di situ.
+**Rafizi:** Tidak — pengunjung paling besar ialah pasangan-pasangan Melayu tua. Jadi saya sedang mengkaji kenapa pasangan Melayu tua ni, pesara-pesara ini, suami isteri, suka pergi ke FlexiMart, beli kopi, makan di situ.
 
 **Host:** Wah, bagusnya itu. Dan untuk pelajar, saya rasa anda perlu buat banyak TikTok. Ada sebuah kedai mee goreng di sekitar Shah Alam ni, dia kata dia habiskan RM3,000 di TikTok dan keuntungannya naik dalam tiga minggu.
 
-**Rafizi Ramli:** Lebih macam menggabungkan perkara. Jadi kadang-kadang pelajar kan, dia nak macam tu, lagi-lagi sekarang generasi Alpha, Gen Z, macam-macam kan — mereka TikTok ni. Jadi mungkin lah, kita sedang mempelajari perangai lah. Maksudnya pelajar tu banyak, tapi itu memang given — tempat tu dekat UiTM. Cuma yang kita tak terfikir langsung ialah pasangan suami isteri pesara. Jadi saya rasa mereka suka saat-saat bersama, minum kopi dengan tenang. Jadi itu satu perkara yang saya tak pernah fikir bahawa pasangan pesara adalah pasaran besar untuk pelanggan. Mereka ada banyak masa, dan sebenarnya mereka ada duit.
+**Rafizi:** Lebih macam menggabungkan perkara. Jadi kadang-kadang pelajar kan, dia nak macam tu, lagi-lagi sekarang generasi Alpha, Gen Z, macam-macam kan — mereka TikTok ni. Jadi mungkin lah, kita sedang mempelajari perangai lah. Maksudnya pelajar tu banyak, tapi itu memang given — tempat tu dekat UiTM. Cuma yang kita tak terfikir langsung ialah pasangan suami isteri pesara. Jadi saya rasa mereka suka saat-saat bersama, minum kopi dengan tenang. Jadi itu satu perkara yang saya tak pernah fikir bahawa pasangan pesara adalah pasaran besar untuk pelanggan. Mereka ada banyak masa, dan sebenarnya mereka ada duit.
 
 **Host:** Okay, well, having said that, esok kita ada majlis pembukaan.
 
-**Rafizi Ramli:** Jadi saya rasa tak perlu penjelasan — cuma ramai orang perlu datang, pukul 9 pagi. Ini yang orang tanya — ramai yang hantar mesej kepada saya: "Ini betul ke YB, you boleh jual nasi minyak, ayam masak merah bawah RM5, semua bawah RM5, betul ke, sebab kita orang tak boleh?" Itulah eksperimen dia — kos dan ketidakefisienan yang paling besar dalam F&B ialah di dapur. Jadi untuk memastikan anda boleh beroperasi secara efisien dan menjual pada margin yang sangat rendah macam itu, kita mencuba cara baru di dapur. Bukan saya yang masak lah — kalau saya masak, memang mahal, sebab saya boroskan semua benda. Jadi kalau nak ikut, biarlah satu idea baru. FlexiMart berdasarkan fleksi — itu sebab kena guna mesin. Kalau detergen tu satu liter, anda boleh beli satu liter. Kesom pun, harap-harapnya, cara baru untuk melihat dapur. Jadi kalau nak tahu, sila datang. Esok saya akan berada di sana.
+**Rafizi:** Jadi saya rasa tak perlu penjelasan — cuma ramai orang perlu datang, pukul 9 pagi. Ini yang orang tanya — ramai yang hantar mesej kepada saya: "Ini betul ke YB, you boleh jual nasi minyak, ayam masak merah bawah RM5, semua bawah RM5, betul ke, sebab kita orang tak boleh?" Itulah eksperimen dia — kos dan ketidakefisienan yang paling besar dalam F&B ialah di dapur. Jadi untuk memastikan anda boleh beroperasi secara efisien dan menjual pada margin yang sangat rendah macam itu, kita mencuba cara baru di dapur. Bukan saya yang masak lah — kalau saya masak, memang mahal, sebab saya boroskan semua benda. Jadi kalau nak ikut, biarlah satu idea baru. FlexiMart berdasarkan fleksi — itu sebab kena guna mesin. Kalau detergen tu satu liter, anda boleh beli satu liter. Kesom pun, harap-harapnya, cara baru untuk melihat dapur. Jadi kalau nak tahu, sila datang. Esok saya akan berada di sana.
 
 **Host:** Pukul berapa, YB?
 
-**Rafizi Ramli:** Pukul 8 sudah ada. Tapi tempat itu kecil sikit, susah nak cari parking. Tapi sebab memang dekat kawasan pekerja, lokasi itu bagus — betul-betul di tengah-tengah Pandan Indah. Ada pejabat, ada kedai, dan sebenarnya berjiran juga dengan kawasan perumahan.
+**Rafizi:** Pukul 8 sudah ada. Tapi tempat itu kecil sikit, susah nak cari parking. Tapi sebab memang dekat kawasan pekerja, lokasi itu bagus — betul-betul di tengah-tengah Pandan Indah. Ada pejabat, ada kedai, dan sebenarnya berjiran juga dengan kawasan perumahan.
 
 **Host:** Betul, pasaran kumpulan pesara ni sebab saya selalu buat pemerhatian...
 
-**Rafizi Ramli:** Kaunter tu bergerak — jadi pesara ni, satu, kosnya, makan sekarang mahal. Kedua, mereka cuma dua orang je, nak masak untuk berdua di usia 70 tahun, tak berbaloi. Kalau nak order Grab pula, mahal sekarang sebab satu harga makanan tu dah kena reflek kos kepada margin Grab, kemudian penghantaran lagi. Jadi salah satu tujuan juga ialah kita nak tengok macam mana boleh serve kumpulan-kumpulan seperti itu, iaitu kumpulan pesara yang duduk di rumah. Sebab tu orang tanya, "YB, kenapa tak letak kat Grab?" Sebab model ini tak jalan kalau letak kat Grab — Grab fungsinya, lagi tinggi harga, lagi banyak margin dia. Jadi kalau harga makanan tu terlalu rendah, dia tak berminat pun, tak ada margin untuk dia. Takkan Kesom kita nak jual nasi lemak RM15 sebab tu. Jadi penghantaran ni, kita akan fikirkan caranya nanti. Buat masa ni, dalam sebulan pertama, kita nak pastikan operasi tu betul-betul efisien, kemudian ia bagi margin, dan bagi indikasi sebenarnya jumlah (volume) macam mana. Macam FlexiMart, kita roughly tahu tiap-tiap hari memang ada lebih 400 orang masuk. Dekat Kesom, sebaik saja lebih sebulan kita dapat data, itu akan bantu kita reka bentuk perkhidmatan penghantaran macam mana nanti, terutamanya kepada kumpulan pesara tua ni. Sebab dia memang tak berbaloi keluar rumah untuk dapatkan makanan untuk dua orang je, dan kalau nak order Grab dengan harga makanan yang ada di sana, sebenarnya mahal untuk dia.
+**Rafizi:** Kaunter tu bergerak — jadi pesara ni, satu, kosnya, makan sekarang mahal. Kedua, mereka cuma dua orang je, nak masak untuk berdua di usia 70 tahun, tak berbaloi. Kalau nak order Grab pula, mahal sekarang sebab satu harga makanan tu dah kena reflek kos kepada margin Grab, kemudian penghantaran lagi. Jadi salah satu tujuan juga ialah kita nak tengok macam mana boleh serve kumpulan-kumpulan seperti itu, iaitu kumpulan pesara yang duduk di rumah. Sebab tu orang tanya, "YB, kenapa tak letak kat Grab?" Sebab model ini tak jalan kalau letak kat Grab — Grab fungsinya, lagi tinggi harga, lagi banyak margin dia. Jadi kalau harga makanan tu terlalu rendah, dia tak berminat pun, tak ada margin untuk dia. Takkan Kesom kita nak jual nasi lemak RM15 sebab tu. Jadi penghantaran ni, kita akan fikirkan caranya nanti. Buat masa ni, dalam sebulan pertama, kita nak pastikan operasi tu betul-betul efisien, kemudian ia bagi margin, dan bagi indikasi sebenarnya jumlah (volume) macam mana. Macam FlexiMart, kita roughly tahu tiap-tiap hari memang ada lebih 400 orang masuk. Dekat Kesom, sebaik saja lebih sebulan kita dapat data, itu akan bantu kita reka bentuk perkhidmatan penghantaran macam mana nanti, terutamanya kepada kumpulan pesara tua ni. Sebab dia memang tak berbaloi keluar rumah untuk dapatkan makanan untuk dua orang je, dan kalau nak order Grab dengan harga makanan yang ada di sana, sebenarnya mahal untuk dia.
 
 **Host:** Okay, kami akan catat dengan sewajarnya. Jadi kau esok kau ada kat situ kan, Haziq?
 
@@ -409,17 +409,17 @@ Arwah ayah saya, salah satu perkara yang dia ada, dia ada syarikat pemforwardan 
 
 **Host:** Kau better be there.
 
-**Rafizi Ramli:** Haziq, selain daripada dia buat kerja percuma jadi moderator podcast ini, tak berbayar, dia juga buat kerja percuma untuk sediakan Kesom. Jadi kalau tak sedap, pukul dia. Sebab itu orang politik dalam PKR, banyak budak-budak tak suka kat saya — sebab bekerja dengan saya selalunya memang nak mampus. Kena buat dua tiga kerja, lepas tu tak dibayar. Tengok semua muka senyum je. Tapi macam mana anda boleh survive? Dia ada kerja dia lah — saya tak pernah percaya kepada ahli politik sepenuh masa. Budak-budak yang datang buat politik ni, kalau dia nak 100% kerja dengan politik jadi pegawai khas, memang kena halau dengan saya. Pandangan saya tentang budak-budak yang buat politik ni — anda perlu ada kerja 9 hingga 5. Buat kerja 9 hingga 5 anda, pada masa yang sama malam buat kerja ni, semua benda kena buat. Memang teman wanita marah lah. Dalam kes kau memang tak ada teman wanita, tak ada orang nak marah kau kan. Tapi saya rasa itulah tempat anda belajar kebebasan. Dalam hidup ni, satu, tak bergantung pada politik — anda ada kerja harian anda. Kedua, kebolehan untuk jaga dua tiga tanggungjawab. Ketiga, kalau anda betul-betul nak jadi ahli politik, khidmat masyarakat ni tak berbayar — anda kena belajar daripada awal, buat kerja ni memang tak ada duit. Cuma selalunya diorang, kalau tak berhati-hati, dia hilang arah. Jadi esok kau ada — basuh pinggan.
+**Rafizi:** Haziq, selain daripada dia buat kerja percuma jadi moderator podcast ini, tak berbayar, dia juga buat kerja percuma untuk sediakan Kesom. Jadi kalau tak sedap, pukul dia. Sebab itu orang politik dalam PKR, banyak budak-budak tak suka kat saya — sebab bekerja dengan saya selalunya memang nak mampus. Kena buat dua tiga kerja, lepas tu tak dibayar. Tengok semua muka senyum je. Tapi macam mana anda boleh survive? Dia ada kerja dia lah — saya tak pernah percaya kepada ahli politik sepenuh masa. Budak-budak yang datang buat politik ni, kalau dia nak 100% kerja dengan politik jadi pegawai khas, memang kena halau dengan saya. Pandangan saya tentang budak-budak yang buat politik ni — anda perlu ada kerja 9 hingga 5. Buat kerja 9 hingga 5 anda, pada masa yang sama malam buat kerja ni, semua benda kena buat. Memang teman wanita marah lah. Dalam kes kau memang tak ada teman wanita, tak ada orang nak marah kau kan. Tapi saya rasa itulah tempat anda belajar kebebasan. Dalam hidup ni, satu, tak bergantung pada politik — anda ada kerja harian anda. Kedua, kebolehan untuk jaga dua tiga tanggungjawab. Ketiga, kalau anda betul-betul nak jadi ahli politik, khidmat masyarakat ni tak berbayar — anda kena belajar daripada awal, buat kerja ni memang tak ada duit. Cuma selalunya diorang, kalau tak berhati-hati, dia hilang arah. Jadi esok kau ada — basuh pinggan.
 
 **Haziq:** Basuh pinggan.
 
 **Host:** Okay, kita ke segmen next lah — ini cerita berat.
 
-**Rafizi Ramli:** Ya.
+**Rafizi:** Ya.
 
 **Host:** Highlight of the podcast lah — drama ART. Ada banyak komen yang kata walaupun you kata "Saya penyokong YB, tapi saya tak setuju." Saya rasa itu diaturkan. Diaturkan, kan? Sebab lepas apa yang Malaysiakini dedahkan — Malaysiakini buat operation dia — apa dia panggil?
 
-**Rafizi Ramli:** Tak, dia ada istilah dia sendiri — Coordinated Unauthentic Behaviour ke apa dia panggil? Ya, Coordinated Unauthentic Behaviour (Tingkah Laku Tidak Autentik Berkoordinasi). Jadi tengok macam ada lah — diorang ni pun tak cerdik. Lain kali kalau nak buat macam itu, jangan pakai salin-tampal, pakai benda yang sama. Tapi banyak lah, terutamanya selepas Zafrul jawab. Banyak yang saya nak bagi, sebab saya rasa banyak yang telah diulas — Zafrul kata macam ni, Mani kata macam ni. Sebelum saya bagi kepada Dr. Rais untuk goreng sampai habis kan.
+**Rafizi:** Tak, dia ada istilah dia sendiri — Coordinated Unauthentic Behaviour ke apa dia panggil? Ya, Coordinated Unauthentic Behaviour (Tingkah Laku Tidak Autentik Berkoordinasi). Jadi tengok macam ada lah — diorang ni pun tak cerdik. Lain kali kalau nak buat macam itu, jangan pakai salin-tampal, pakai benda yang sama. Tapi banyak lah, terutamanya selepas Zafrul jawab. Banyak yang saya nak bagi, sebab saya rasa banyak yang telah diulas — Zafrul kata macam ni, Mani kata macam ni. Sebelum saya bagi kepada Dr. Rais untuk goreng sampai habis kan.
 
 Setakat ini jawapan kerajaan itu sebenarnya berasaskan satu benda asas — iaitu "percayalah kawan, percayalah kawan." Itulah sebabnya saya risau. Zafrul kata "percayalah kawan, kami boleh buat ini, kami boleh buat itu." Gobind kata "percayalah kami." Anda tahu, semua diorang. Kepada penyokong kerajaan, sentimen "Percayalah Kawan" tu okay. Sebelum saya jawab pasal Cambodia dan lain-lain, tapi dari segi teknik dan strategi untuk menangani kebimbangan rakyat, saya rasa kerajaan mesti lebih sofistikated daripada "Percayalah Kawan." Sekarang ni "Percayalah Kawan" je.
 
@@ -443,7 +443,7 @@ Dan saya rasa itu dah jadi kes dengan tarif ni — ia dah berlarutan lebih darip
 
 **Host:** Cuma YB dan Dato' Rais, kalau kita tengok dalam komen-komen tu, mereka minta YB mungkin lebih adil, sebab ini perjanjian sepihak (unilateral), dan kita bukannya nak fokus pada manfaat semata-mata, tapi AS ada kuasa untuk mendenda kita. Contohnya, Tengku Zafrul kata tarif boleh dikira sehingga 100%. Jadi macam mana you nak jawab?
 
-**Rafizi Ramli:** China pun dikurangkan. Dan macam saya sebut tadi, kita ada daya pengaruh kita. Kalau kenakan tarif 100%, ia akan mengganggu rantaian bekalan AS, sebab banyak alat ganti daripada kita, cip daripada kita — diorang pun tersekat. Jadi mungkin dia boleh ugut kita 30% contohnya. Kalau dia nak ugut kita sampai 40%, itu dah sama dengan China. Itu hujah yang sangat lemah. Sebab itu, itu yang saya kata, itu taktik ketakutan. Dan dia tak jawab apa yang saya kata sebelum ini, kenapa tergesa-gesa buat begitu.
+**Rafizi:** China pun dikurangkan. Dan macam saya sebut tadi, kita ada daya pengaruh kita. Kalau kenakan tarif 100%, ia akan mengganggu rantaian bekalan AS, sebab banyak alat ganti daripada kita, cip daripada kita — diorang pun tersekat. Jadi mungkin dia boleh ugut kita 30% contohnya. Kalau dia nak ugut kita sampai 40%, itu dah sama dengan China. Itu hujah yang sangat lemah. Sebab itu, itu yang saya kata, itu taktik ketakutan. Dan dia tak jawab apa yang saya kata sebelum ini, kenapa tergesa-gesa buat begitu.
 
 **Host:** Betul sekali.
 
@@ -483,11 +483,11 @@ Jadi mengapa kita begitu risau tentang ini? Kita ada breaks. Kita ada banyak ini
 
 Jadi, saya ada kawan-kawan yang orang Amerika. Saya juga ada kawan-kawan yang tak pernah balik Malaysia — saya telah tinggal di Washington sejak saya tamat pengajian, saya telah tinggal di sana selama 20 tahun. Jadi saya ada kawan-kawan di Washington yang bekerja di sana. Anda tahu, gurauannya kawan-kawan saya selalu kata — kalau anda termasuk dalam institusi-institusi Amerika ini, semua kelas pertengahan, kelas atasan di New York, di Washington khususnya, mereka bercakap tentang setiap negara seolah-olah ia halaman belakang mereka, hanya apabila ada kepentingan bersama. Di mana-mana sahaja di dunia adalah kepentingan bersama dan minat untuk AS — Grenada pun.
 
-**Rafizi Ramli:** Bukan Grenada — Greenland.
+**Rafizi:** Bukan Grenada — Greenland.
 
 **Dr. Rais Hussin:** Greenland — bukan kerana pertelingkahan dengan Denmark, tetapi kerana Greenland tidak mempunyai penduduk. Itu kepentingan bersama mereka. Di mana-mana sahaja di dunia adalah kepentingan bersama mereka. Jadi kalau kita mahu berkata, pada masa itu, "maaf, ini bukan kepentingan bersama anda," anda perlu membalas, "tidak, ini kepentingan bersama kami, ia penting kepada kami." Pada masa itu, adakah anda fikir kita ada kekuatan untuk berkata, "okay lah, ditamatkan"? Kita akan okey. Jadi saya tahu kesukaran mengimbangi, merundingkan dengan AS — tiada satu pun daripada ini mudah. Bukan sahaja Zafrul seorang yang telah berunding dengan negara lain atau syarikat besar — kita semua yang berpengalaman telah melaluinya. Kerana itu, sebaik mungkin, anda tidak mahu diikat dalam perjanjian, kerana sebaik sahaja anda mengikatnya dalam perjanjian, tangan anda dilemahkan selepas itu. Mereka akan berkata — dan mereka tidak akan berkelip mata pun — "ini kepentingan kami, dan ini penting kepada kami." Anda mesti berkata, "tetapi ia bukan..." — ya, tetapi dalam perjanjian, apabila ia adalah "kepentingan bersama," anda perlu menghormatinya. Tidak mudah untuk kita mengelak.
 
-**Rafizi Ramli:** Jadi itulah sebabnya, kalau anda lihat, seperti yang Dr. Rais kata tadi —
+**Rafizi:** Jadi itulah sebabnya, kalau anda lihat, seperti yang Dr. Rais kata tadi —
 
 **Dr. Rais Hussin:** Zafrul kata, janganlah hina ataupun pelekehkan penjawat awam kan. Sebenarnya, pengalaman saya menguruskan beberapa perjanjian — perkhidmatan awam, semua ini tak boleh main-main. Dia sangat berhati-hati. "Satu benda, ini tak boleh." Aku yang kadang-kadang frust — macam ni macam mana nak buat, benda ini tak boleh, yang itu tak boleh, yang ini tak boleh. Kan, jadi sebenarnya you kena argue dengan civil service ni, dengan Peguam Negara, yang ini bolehlah sikit gini-gini kan. Jadi saya tak rasa sebenarnya proses perundingan itu ada perunding yang setuju suka-suka dan letak semua itu. Chances-lah, ini terma yang US nak, sampai kepada perunding kita — perunding kita most probably tak pernah setuju, dia drag, drag, drag, drag kan. Kemudian bawa kepada menteri, dan akhirnya kepada Perdana Menteri. Sebab masih lagi jadi misteri — sama ada perjanjian, perkataan demi perkataan, ini dibentangkan di kabinet atau tidak.
 
@@ -513,7 +513,7 @@ Jadi saya beritahu mereka, saya fikir sebagai seorang Malaysia — sekali lagi, 
 
 Ye lah, jawapannya, "berunding dengan AS tidak mudah." Saya kata ya, tetapi untuk tidak berbuat apa-apa adalah lebih teruk lagi. Saya beritahu awak lah.
 
-**Rafizi Ramli:** Dua jam lima minit — okay, dua jam. Okay, seterusnya. Ada satu lagi yang sukar, saya fikir ia berkaitan dengan —
+**Rafizi:** Dua jam lima minit — okay, dua jam. Okay, seterusnya. Ada satu lagi yang sukar, saya fikir ia berkaitan dengan —
 
 **Dr. Rais Hussin:** Ini berkaitan — jadi, ini yang kita bincangkan tadi. Apabila dia memasuki perjanjian itu, walaupun Zafrul kata ia hanya berkaitan dengan kepentingan bersama — yang ini semua "kepentingan bersama," BRICS pun "kepentingan bersama." Jadi, Tok Mat pun dah kena kata ini — kita akan berhati-hati sebelum ini, oh, ini sangat teruk. Cuba bayangkan apa perasaan negara-negara lain memandang kita. Sebelum ini, aku yang pergi ke Sidang Kemuncak BRICS, membaca kenyataan negara, di depan Putin, di depan Xi Jinping semua — jadi dia akan kata, "anda tahu, dulu awak juga yang bersungguh-sungguh dengan BRICS, dulu awak juga yang nak neutral, dulu awak juga yang kata kita akan buat de-dollarisation — sekarang ni kena getak dengan Trump sikit terus tak boleh." Sebenarnya, ini tidak baik untuk kita. Itulah sebabnya kita kata benda ini menghuru-harakan semua dasar sedia ada kita.
 
@@ -521,15 +521,15 @@ Saya dah sebut pasal nuklear kan — kita dah memang secara terbuka kata kita ak
 
 Jadi, sebelum itu — saya kenal duta itu, dia kawan baik, saya kenal dia. Dia melaksanakan tugasnya sebagai duta AS. Tetapi apabila ada perjanjian, semua perkara yang Malaysia mahu lakukan boleh menjadi "kepentingan bersama." Dan ini kali pertama kita melihatnya.
 
-**Rafizi Ramli:** Betulkah Tok Mat kata begini?
+**Rafizi:** Betulkah Tok Mat kata begini?
 
 **Dr. Rais Hussin:** Ya, semalam di parlimen — dia menjawab soalan Wan Faisal. Ya, kerana kalau anda bandingkan, seperti yang saya katakan tadi, 347 [juta] berbanding 8.2 bilion — mengikut matematik itu, 4.2%, 85% berada dalam bantuan kewangan. Dan kemudian anda lihat, mengikut matematik itu, negara-negara BRICS — mereka pada 45, 47% dari segi KDNK global, dan dari segi populasi, lebih daripada 4.2 bilion.
 
-**Rafizi Ramli:** Bahagian itu saya nampak.
+**Rafizi:** Bahagian itu saya nampak.
 
 **Dr. Rais Hussin:** Bahagian itu saya tidak — saya tidak tahu. Ini jawapan kepada soalan Wan Faisal mengenai kesan kepada BRICS lah.
 
-**Rafizi Ramli:** Hmm. Okey, okey. Kita ada, ya, politik sikit. Yang ini, inilah, kita serahkan kepada Dr. Rais. Satu, "berdamai" — Doktor, kalau boleh cek sikit — sebab sebelum ini memang dikatakan Tan Sri Muhyiddin dah lost command, tapi bila keluar macam ini, tiba-tiba perang saudara yang dah lama ini berhenti. Jadi berdasarkan pemerhatian anda, macam mana benda ini boleh berlaku? Sama ada Muhyiddin dah dapat command parti semula, ataupun ada camp yang dah berjaya dimusnahkan, ataupun ada arahan tertentu, arahan terbaru daripada "tuan" atau "master" kepada Trojan Horse dalam Bersatu?
+**Rafizi:** Hmm. Okey, okey. Kita ada, ya, politik sikit. Yang ini, inilah, kita serahkan kepada Dr. Rais. Satu, "berdamai" — Doktor, kalau boleh cek sikit — sebab sebelum ini memang dikatakan Tan Sri Muhyiddin dah lost command, tapi bila keluar macam ini, tiba-tiba perang saudara yang dah lama ini berhenti. Jadi berdasarkan pemerhatian anda, macam mana benda ini boleh berlaku? Sama ada Muhyiddin dah dapat command parti semula, ataupun ada camp yang dah berjaya dimusnahkan, ataupun ada arahan tertentu, arahan terbaru daripada "tuan" atau "master" kepada Trojan Horse dalam Bersatu?
 
 **Dr. Rais Hussin:** Okay, apa yang saya tahu — kerana saya tidak terlibat secara langsung lagi dengan Bersatu, nanti senang orang fikir saya kata ini betul Tan Sri Muhyiddin punya orang — tapi apa-apa pun, Tan Sri Muhyiddin, seperti yang saya katakan, adalah seorang yang sangat stabil, dia tak mudah melatah. Dia hanya akan memerhati, apa semua itu.
 
@@ -551,29 +551,29 @@ Kaki untuk seorang Saiful, seorang Faizal. Wan Faizal bukan siapa-siapa — apab
 
 Dr. Mazuki, pada satu masa, sangat, sangat marah dengan saya kerana saya menulis rencana pendapat, terutamanya selepas PRU15, menjelaskan bagaimana mereka hampir menjadi kerajaan, bagaimana mereka memenangi banyak kerusi berdasarkan sains data dan ekonomi, bukan sekadar teka-teki. Tetapi orang-orang ini semuanya jenis yang mempunyai adab, mempunyai cara yang halus tentang diri mereka, dan Tan Sri Muhyiddin — dia tak mudah melatah, "awak cakap-lah apa yang awak nak cakap." Saya tidak bercakap tentang apa-apa selain itu. Dari segi politik, dia tidak mudah untuk berurusan, dan itulah sebabnya saya tidak menolak kemungkinannya.
 
-**Rafizi Ramli:** Ya, tapi okay, kembali kepada ini —
+**Rafizi:** Ya, tapi okay, kembali kepada ini —
 
 **Dr. Rais Hussin:** Saya lelaki yang begitu bodoh, kan — dia sebenarnya jadi — ialah, minat masyarakat ini atas dua benda yang berlaku: satu, SD — kalau ia dilaporkan, ia sekitar 80% daripada parti, saya rasa sekitar 100 lebih, 120 yang menandatangani. Kemudian, MP baru-baru ini — Saifuddin Abdullah menyebut semua ini — surat MP, ia 16, 17.
 
 Jadi apa yang saya maksudkan ialah, apa pun Tan Sri Muhyiddin, sekurang-kurangnya pada pandangan rakyat dan orang lain, dia sebenarnya telah kehilangan kawalan parti. Kalau Hamzah, operator itu, boleh berjaya mendapatkan lebih daripada 120 SD, minta dia serahkan kepada Hamzah. Kalau MP daripada yang ada 20 lebih ini, 16, dan sesetengah yang kata tak sign pun kononnya bersetuju juga — saya fikir dia sebut Putrajaya. Jadi bagaimana dia akan menavigasi ini? SD itu, apa yang saya diberitahu, pada asasnya bukan untuk memintanya pergi — ia lebih kepada memintanya menentukan peralihan. Bukannya minta dia pergi. MP itu sedikit berbeza — ada gabungan dua faktor: peralihan, dan meminta dia memberi laluan kepada Hamzah. Saya fikir itu didorong oleh gerakan Azmin.
 
-**Rafizi Ramli:** Jadi maksudnya, yang memecat Wan Saiful dengan Wan Faizal ini ialah Azmin?
+**Rafizi:** Jadi maksudnya, yang memecat Wan Saiful dengan Wan Faizal ini ialah Azmin?
 
 **Dr. Rais Hussin:** Well, mereka melalui jawatankuasa disiplin, dan semasa saya di sana, ia kurang penting, dan saya tidak benar-benar tahu bagaimana dan siapa pengerusinya. Ya, sekarang ini, Razali Manan — yang Pak Mentua kepada... okay, jadi kali lepas ia orang lain, kali lepas ia Nazmi — dia sangat ketat, itu bukan Harun, itu Yayasan Rayuan, Rayuan — itu baru-baru ini. Jadi saya tidak tahu betapa saksama ia, apa pun, tetapi itu proses disiplin. Tetapi untuk keluar dan mengherdik presiden begitu — maksud saya, perbezaan pendapat wujud, boss, parti mana yang tidak pernah bergaduh? Setiap parti melalui pergaduhan. Mereka akan berkata perkara yang sama tentang saya mengherdik Anwar Ibrahim. Tetapi anda tidak.
 
-**Rafizi Ramli:** Anda tidak.
+**Rafizi:** Anda tidak.
 
 **Dr. Rais Hussin:** Adakah saya? Bukankah saya? Tidak — lihat, anda ada pandangan berbeza. Dan, boss, saya mengikuti perjalanan anda semasa kempen pilihan raya, dan saya cuba sedaya upaya untuk melihat apa yang boleh dilakukan — saya bahkan mencadangkan patut ada seorang timbalan presiden juga, atau seorang lagi timbalan presiden, kerana kamu berdua — maksud saya, Raf mempunyai kekuatannya yang luar biasa, Azmin mempunyai kekuatannya — ia akan mengukuhkan parti. Walaupun saya kata saya berpotensi tidak boleh dipercayai dalam PKR, tetapi saya berfikir dari perspektif itu. Itulah sebabnya saya SMS anda — bukan pada WhatsApp, pada SMS biasa — dan saya jelas, mengatakan bahawa parti mengutamakan segalanya.
 
 Jadi dalam kes ini, saya fikir Wan Saiful dan Wan Faizal melampaui batas dan mahu mempercepatkan perkara ini. Dan kemudian mereka pergi ke podcast Zaid Ibrahim — saya melihat semua itu, dan saya terkejut, sepanjang hidup saya, dengan cara dia bercakap. Maksud saya, ayuhlah, mesti ada sedikit sopan santun. Anda tidak bercakap tentang Dato' Sri Anwar begitu.
 
-**Rafizi Ramli:** Anda tidak.
+**Rafizi:** Anda tidak.
 
 **Dr. Rais Hussin:** Bergantung siapa anda tanya, sudah tentu — tidak, sekurang-kurangnya secara rasmi, apabila saya lihat podcast anda dan semua itu, saya ikuti, tetapi saya tidak lihat begitu. Sangat tidak sopan. Jadi saya fikir kemungkinan mereka akan mendapat apa yang mereka patut dapat. Jadi apa yang akan berlaku? Sekarang nampaknya pada MPT [Majlis Pimpinan Tertinggi] yang terakhir, nampaknya ada gencatan senjata. Tetapi ia akan kembali kepada isu sebelah pihak dengan Wan Saiful dan Wan Faizal. Maksudnya, apa yang akan berlaku pada mereka itu akan jadi pencetus-lah — dia sampai ke Lembaga Rayuan, jadi kalau Lembaga Rayuan bersetuju untuk mereka dipecat, itu tidak akan reda.
 
 Saya fikir ada dua individu yang anda bercakap tentang sekarang — Wan Saiful dan Wan Faizal. Saya tidak berada dalam Bersatu, tetapi kalau saya di sana, inilah yang saya akan cuba lakukan: Wan Saiful telah membakar jambatannya dengan agak meluas — agak meluas. Wan Faizal masih muda, dan ada potensi pengurangan penggantungan daripada satu tahun kepada tempoh tertentu.
 
-**Rafizi Ramli:** Jadi, dia bergantung kepada berapa lama? Satu tahun?
+**Rafizi:** Jadi, dia bergantung kepada berapa lama? Satu tahun?
 
 **Dr. Rais Hussin:** Satu tahun — mungkin, mungkin. Dan kemudian akan ada perbincangan semula tentang pelan peralihan. Dan kalau saya jadi Bersatu semula, saya akan katakan bahawa untuk menghadapi pilihan raya yang akan datang — sama ada tahun depan atau tahun selepasnya — anda memerlukan seseorang yang boleh memimpin kumpulan itu. Dan siapa yang anda lihat dalam PAS? Ada orang bercakap tentang Dr. Ahmad Samsuri. Siapa yang anda lihat dalam Gerakan? Tiada siapa. Siapa yang anda lihat dalam parti lain? Siapa yang anda lihat dalam MCA? Tak ada. Siapa yang anda lihat dalam MIC? Tak ada. Fikir orang-orang ini akan menyertai mereka — dan siapa yang anda lihat dalam Bersatu? Hamzah bagus, seorang operator — dia dikenali sebagai operator, tetapi di sebalik tabir dia sangat suave. Tetapi yang boleh memberikan kepimpinan itu — jadi saya fikir akan ada, harap-harap, satu — saya tidak tahu sama ada gencatan senjata itu jenis gencatan senjata Gaza, atau gencatan senjata yang mempunyai sedikit kekekalan, di mana mereka boleh datang ke meja rundingan dan berbincang sesama sendiri, "okay, kita dah lakukan sekarang, kita tahu siapa itu siapa, siapa itu siapa, siapa itu siapa."
 
@@ -583,7 +583,7 @@ Cuba, okey — ia seperti, anda tahu, saya — kita adalah orang yang biasa bera
 
 Itu satu. Kedua, puak — saya andaikan Tan Sri Muhyiddin, sebagai umumnya negarawan senior parti, ahli-ahli pengasas lain boleh menerima dia. Tetapi jurang antara puak Azmin dan puak Dato' Sri Hamzah sangat besar. Dan saya tidak tahu, mengenali Azmin — susah nak tutup, kalau tutup pun sementara. Tan Sri Muhyiddin adalah — tetapi Hamzah akan melihat Tan Sri Muhyiddin sebagai pelindung Azmin, dan Azmin, juga, akan berkata Muhyiddin adalah pelindungnya. Jadi walau apa pun, saya mesti — sokongan untuk Tan Sri Muhyiddin kekal di sana untuk selama-lamanya, yang tidak boleh diterima oleh Hamzah. Jadi bagaimana anda keluar daripada kekusutan ini?
 
-**Rafizi Ramli:** Itu satu perkara yang sangat menarik. Baguslah saya moderator, hanya bertanya soalan — kalau tidak, saya terpaksa menjawab itu. Tetapi menarik bahawa dinamik ini wujud — Tan Sri Muhyiddin di sini, dan kedua-dua orang ini di sini. Dan kadang-kadang, anda berada dalam kedudukan di mana ia tidak membantu untuk cuba menguruskan masalah ini.
+**Rafizi:** Itu satu perkara yang sangat menarik. Baguslah saya moderator, hanya bertanya soalan — kalau tidak, saya terpaksa menjawab itu. Tetapi menarik bahawa dinamik ini wujud — Tan Sri Muhyiddin di sini, dan kedua-dua orang ini di sini. Dan kadang-kadang, anda berada dalam kedudukan di mana ia tidak membantu untuk cuba menguruskan masalah ini.
 
 **Dr. Rais Hussin:** Azmin — apa yang saya lihat dalam dirinya, semasa saya dalam persetujuan dahulu, dan semasa masanya dalam PKR juga — kebanyakan mesyuarat Pakatan Harapan kita, dia tidak menghadirinya, kalau anda ingat. Dia tidak bersetuju — dia sepenuhnya menentang Pakatan Harapan. Dan anda ingat dengan betul, apabila pengumuman Tun Mahathir sebagai calon Perdana Menteri dibuat, seluruh pasukannya keluar dari pusat konvensyen. Azizah [Ismail] duduk di sebelah saya pada masa itu — ia tidak mudah baginya, dia menangis.
 
@@ -593,40 +593,40 @@ Jadi pandangan saya ialah Tan Sri berada dalam kedudukan ini. Dan ya, angka-angk
 
 Dan itu tidak baik untuk siapa? Ia tidak baik untuk pentadbiran sedia ada — dengan syarat pentadbiran sedia ada sedar dan lakukan perkara yang betul. Kalau anda mahu berkata, selepas pilihan raya — sekali lagi, saya telah katakan ini berkali-kali secara terbuka, secara rasmi, apa-apa-lah — mereka tidak akan... mereka akan berkata — mereka sudah menggunakannya sekarang. Akhbar Saleh adalah satu manifestasi perkara sedemikian, tetapi mereka sudah menggunakan itu berkali-kali sekarang, mengatakan bahawa "kita tidak [akan] membentuk gabungan dengan Pakatan Harapan — kita berada dalam kerajaan, atau kesatuan, atas kebenaran Tunku Sultan, YDPA, dan itu sahaja." Dan dengan kemungkinan yang dilaporkan Khairy Jamaluddin dan Saifuddin Abdullah [Syaril Hamdan?] kembali ke UMNO, jadi UMNO akan mahu merangka jalan mereka sendiri, dan kemudian selepas pilihan raya, mereka akan putuskan apa yang perlu dilakukan, berdasarkan siapa yang mempunyai bilangan paling ramai dan semua itu. Jadi saya fikir pilihan raya seterusnya akan berlangsung agak awal. Dan dengan kemenangan Zohran Mamdani juga — mungkin mereka juga memberikan beberapa idea kepada...
 
-**Rafizi Ramli:** Independen dalam sejarah Malaysia, seorang sahaja yang pernah menang macam ni — Syarif Samad. Selain daripada itu, independen yang menang biasanya di Sabah, Sarawak — dan sekali lagi, Sabah, Sarawak adalah dinamik dan mekanisme yang sama sekali berbeza. Dekat sini lain, jadi di Semenanjung ni lain sikit. Jadi independen memang susah, tetapi dengan kemenangan Mamdani, mungkin orang mula berfikir kita perlukan seseorang yang tersenyum, yang bercakap dalam cara yang menjadikan New York lagi berharga untuk ramai orang. Itu Izzah, dah ada pun.
+**Rafizi:** Independen dalam sejarah Malaysia, seorang sahaja yang pernah menang macam ni — Syarif Samad. Selain daripada itu, independen yang menang biasanya di Sabah, Sarawak — dan sekali lagi, Sabah, Sarawak adalah dinamik dan mekanisme yang sama sekali berbeza. Dekat sini lain, jadi di Semenanjung ni lain sikit. Jadi independen memang susah, tetapi dengan kemenangan Mamdani, mungkin orang mula berfikir kita perlukan seseorang yang tersenyum, yang bercakap dalam cara yang menjadikan New York lagi berharga untuk ramai orang. Itu Izzah, dah ada pun.
 
 **Dato' Dr. Rais Hussin:** Well...
 
 **Dato' Dr. Rais Hussin:** Ya, anda tersenyum — betul. Maaf, saya suka mengusik orang. YB, anda cuma hosting, YB. YB kata dia nak sambung cerita pasal Trojan Horse tadi.
 
-**Rafizi Ramli:** Tidak, sudah malam ni — dah 2.30 petang, mana ada Trojan Horse. Tidak, serangan terhadap Azmin itu ialah dia dituduh sebagai Trojan Horse. Tapi saya dah terangkan sebelum ni — kalau kita letakkan diri kita dalam kedudukan satu kumpulan bersatu yang tidak bersetuju dengan Azmin, mereka akan kata, dulu ada kes safe house, apa jadi, kemudian ada berita kata ada laporan yang mengesahkan video, berita itu dah ada, kenapa tidak diambil tindakan, jadi — ia akan jadi logik lah. Perkara itu akan terus menghela Bersatu. Sebab itu saya tak yakin macam mana faksi ini boleh diselesaikan dalam keadaan sebegitu. Tidak mudah. Dan isu itu — terutamanya yang pertama — memang berleluasa semasa Pakatan Harapan 1.0 juga. Masa itu tak cakap apa pun. Wan Saiful pun tak cakap apa pun. Jadi kenapa tiba-tiba sekarang? Anda perlu renungkan itu. Itulah, ahli politik ni kadang-kadang — mereka seperti lampin, anda tahu. Perlu ditukar. Bagus lah, kalau tak ada semua ni, macam mana kita nak cari point untuk podcast. Terima kasih, Wan Saiful, dan kawan-kawan. Baik, itu sahaja untuk... Hidup ni keras. Kita ada segmen yang nak kita sambung — dah dua jam setengah. Mungkin kalau terakhir, Zohran Mamdani sikit.
+**Rafizi:** Tidak, sudah malam ni — dah 2.30 petang, mana ada Trojan Horse. Tidak, serangan terhadap Azmin itu ialah dia dituduh sebagai Trojan Horse. Tapi saya dah terangkan sebelum ni — kalau kita letakkan diri kita dalam kedudukan satu kumpulan bersatu yang tidak bersetuju dengan Azmin, mereka akan kata, dulu ada kes safe house, apa jadi, kemudian ada berita kata ada laporan yang mengesahkan video, berita itu dah ada, kenapa tidak diambil tindakan, jadi — ia akan jadi logik lah. Perkara itu akan terus menghela Bersatu. Sebab itu saya tak yakin macam mana faksi ini boleh diselesaikan dalam keadaan sebegitu. Tidak mudah. Dan isu itu — terutamanya yang pertama — memang berleluasa semasa Pakatan Harapan 1.0 juga. Masa itu tak cakap apa pun. Wan Saiful pun tak cakap apa pun. Jadi kenapa tiba-tiba sekarang? Anda perlu renungkan itu. Itulah, ahli politik ni kadang-kadang — mereka seperti lampin, anda tahu. Perlu ditukar. Bagus lah, kalau tak ada semua ni, macam mana kita nak cari point untuk podcast. Terima kasih, Wan Saiful, dan kawan-kawan. Baik, itu sahaja untuk... Hidup ni keras. Kita ada segmen yang nak kita sambung — dah dua jam setengah. Mungkin kalau terakhir, Zohran Mamdani sikit.
 
 **Dato' Dr. Rais Hussin:** Kalau nak, boleh je minggu depan ke, apa semua — tak mati.
 
-**Rafizi Ramli:** Tak mati. Sebab kalau saya jadi penonton sekarang, aku dah baling.
+**Rafizi:** Tak mati. Sebab kalau saya jadi penonton sekarang, aku dah baling.
 
 **Dato' Dr. Rais Hussin:** Yelah, paling lama lah setakat ni.
 
-**Rafizi Ramli:** Haa, dah lama.
+**Rafizi:** Haa, dah lama.
 
 **Dato' Dr. Rais Hussin:** Sebenarnya ni ahli politik lah — dia salahkan penonton. Sebenarnya aku nak balik.
 
-**Rafizi Ramli:** Yelah, dah lama ni, kan? Kita jumpa minggu depan lah.
+**Rafizi:** Yelah, dah lama ni, kan? Kita jumpa minggu depan lah.
 
 **Dato' Dr. Rais Hussin:** Baik.
 
-**Rafizi Ramli:** Kepuk kan. Itu je dah. Kita boleh disalahkan sebab kita bincang panjang tadi pasal perjanjian — sebab Dr. Rais dengan pengalaman yang ada itu, itu menambah nilai lebih kepada itu daripada yang... Dan kita memang bercakap tentang, bercakap tentang Mamdani apa pun. Kita pun bercakap tentang Mamdani. Sebab saya semak media sosial, setiap hari ada kongsi tujuh ke lapan posting tentang dia. Saya rasa semua orang tengah google Mamdani sekarang, semua dah tahu banyak lah kan. Saya suka itu, cara kempennya —
+**Rafizi:** Kepuk kan. Itu je dah. Kita boleh disalahkan sebab kita bincang panjang tadi pasal perjanjian — sebab Dr. Rais dengan pengalaman yang ada itu, itu menambah nilai lebih kepada itu daripada yang... Dan kita memang bercakap tentang, bercakap tentang Mamdani apa pun. Kita pun bercakap tentang Mamdani. Sebab saya semak media sosial, setiap hari ada kongsi tujuh ke lapan posting tentang dia. Saya rasa semua orang tengah google Mamdani sekarang, semua dah tahu banyak lah kan. Saya suka itu, cara kempennya —
 
 **Dato' Dr. Rais Hussin:** Sangat bagus. Saya fikir ada sesuatu yang kita boleh belajar.
 
-**Rafizi Ramli:** Cuma kita orang tak boleh rap.
+**Rafizi:** Cuma kita orang tak boleh rap.
 
 **Dato' Dr. Rais Hussin:** Kita boleh rap kan?
 
-**Rafizi Ramli:** Betul. Okey kot. Okay, terima kasih banyak-banyak, Dato' Dr. Rais Hussin. Dah malam ni — kalau anda pun esok nak pergi buka kedai... Saya tak sabar nak syuting. Terima kasih banyak-banyak. Baiklah, terima kasih. Kita jumpa lagi, Dato'. InsyaAllah. Kepada yang lain, tolong share. Dan esok, seawal 9 pagi, datang beramai-ramai ke Kesum di Pandan Indah. Letih ni, tau.
+**Rafizi:** Betul. Okey kot. Okay, terima kasih banyak-banyak, Dato' Dr. Rais Hussin. Dah malam ni — kalau anda pun esok nak pergi buka kedai... Saya tak sabar nak syuting. Terima kasih banyak-banyak. Baiklah, terima kasih. Kita jumpa lagi, Dato'. InsyaAllah. Kepada yang lain, tolong share. Dan esok, seawal 9 pagi, datang beramai-ramai ke Kesum di Pandan Indah. Letih ni, tau.
 
 **Dato' Dr. Rais Hussin:** Ya, memang letih, YB. Tapi okey, YB.
 
-**Rafizi Ramli:** Itu sahaja. Terima kasih, Dato'. Terima kasih, YB. Kita jumpa lagi minggu depan.
+**Rafizi:** Itu sahaja. Terima kasih, Dato'. Terima kasih, YB. Kita jumpa lagi minggu depan.
 
 **Dato' Dr. Rais Hussin:** Selamat malam.

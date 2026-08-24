@@ -8,7 +8,7 @@ duration_seconds: 8155
 duration: 2h 15m
 view_count: 57939
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Wabi
 guests:
 - Haziq
@@ -29,7 +29,7 @@ topics:
 - underage workers and TVET/vocational education reform
 - Akademi Dalam Industri apprenticeship program
 summary: In episode 23 of Podcast Yang Menteri-Menteri, host Wabi runs through the
-  'Beria' viral news segment with Rafizi Ramli, covering a mistaken Chinese-slang
+  'Beria' viral news segment with Rafizi, covering a mistaken Chinese-slang
   phone call, law graduates caught stealing TM cables, an MP questioning the failure
   of the Anti-Hopping Act while himself having hopped parties, a politician photographed
   at a house fire in Kemaman, a court rejecting a six-day Dubai transit request tied
@@ -61,9 +61,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Wabi:** Assalamualaikum dan selamat datang ke Podcast Yang Menteri-Menteri, episod ke-23, bersama saudara Rafizi Ramli. Jangan lupa follow media sosial saudara Rafizi Ramli — YouTube, Facebook, IG dan TikTok.
+**Wabi:** Assalamualaikum dan selamat datang ke Podcast Yang Menteri-Menteri, episod ke-23, bersama saudara Rafizi. Jangan lupa follow media sosial saudara Rafizi — YouTube, Facebook, IG dan TikTok.
 
-**Rafizi Ramli:** Motherly instinct, or whatever you call it — a man can have that instinct too. We will finish my instinct in less than two hours today. Actually, that's not an instinct, that's a necessity. But I have to do things that people, or viewers, don't like...
+**Rafizi:** Motherly instinct, or whatever you call it — a man can have that instinct too. We will finish my instinct in less than two hours today. Actually, that's not an instinct, that's a necessity. But I have to do things that people, or viewers, don't like...
 
 **Wabi:** Yelah, celah lah. Baik. Kita terus ke episod ke-23, segmen pertama — kita ada Beria. Kita tengok apa yang ada minggu ni.
 
@@ -71,71 +71,71 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Wabi:** Diberi nombor oleh seorang "Apik" ni, call dia, automatik aku terus cakap dengan slang China sikit. "Bos, ini rumah Luada Senang, mau datang hari ni?" Dia pun jawab, "Ok bos, wah, mali lagi lu puluh minit." Bila sampai-sampai, rupanya dua-dua Melayu. Aku Melayu, dia pun Melayu. Ini viral saya ambil.
 
-**Rafizi Ramli:** Fahamlah, tapi apa konteks dia sebenarnya? Assume — the power of assumption lah. Sebab dia dapat nama daripada orang Cina, dia terus cakap dengan Cina. Sama juga macam kita beli barang, YB, bila kita beli online, kita assume berdasarkan nama walaupun kita tak ada info langsung tentang orang tu, kita cakap dalam "slang" dia.
+**Rafizi:** Fahamlah, tapi apa konteks dia sebenarnya? Assume — the power of assumption lah. Sebab dia dapat nama daripada orang Cina, dia terus cakap dengan Cina. Sama juga macam kita beli barang, YB, bila kita beli online, kita assume berdasarkan nama walaupun kita tak ada info langsung tentang orang tu, kita cakap dalam "slang" dia.
 
 **Wabi:** Yang ini sebenarnya tak beriar pun. Kau lah yang beria kot.
 
-**Rafizi Ramli:** Sayalah beria kali ni, tapi bukan saya yang beria — actually the moment "beria" kena dijelaskan, dia dah tak jadi beria. Gagal.
+**Rafizi:** Sayalah beria kali ni, tapi bukan saya yang beria — actually the moment "beria" kena dijelaskan, dia dah tak jadi beria. Gagal.
 
 **Wabi:** Tapi ramai kata orang gelak pukul 3 pagi tengok ni.
 
-**Rafizi Ramli:** Tapi gagal lah.
+**Rafizi:** Tapi gagal lah.
 
 **Wabi:** Okay, saya harap ada yang gelak.
 
-**Rafizi Ramli:** I mean, maybe lah. Tapi nak kata dia poyo — maaf, dia tak poyo lah kot.
+**Rafizi:** I mean, maybe lah. Tapi nak kata dia poyo — maaf, dia tak poyo lah kot.
 
 **Wabi:** Kita tengok yang next. Ini pun saya takut tak poyo juga.
 
-**Rafizi Ramli:** Dia kan dah takut dah.
+**Rafizi:** Dia kan dah takut dah.
 
 **Wabi:** Okay, next. "Nak jumpa kabel, dapat kerja curi kabel TM" — graduan undang-undang antara empat orang didakwa cuba curi kabel TM.
 
-**Rafizi Ramli:** Ini jenayah lah, baby. Tapi sebelum ni pun kita pernah letak macam ni.
+**Rafizi:** Ini jenayah lah, baby. Tapi sebelum ni pun kita pernah letak macam ni.
 
 **Wabi:** Kabel TM ni tak matikah, boleh kena elektrik terus ke sebab...
 
-**Rafizi Ramli:** Itulah dia sebenarnya. Kalau anything yang beria di sini, bukan sangat soal curi kabel ni — curi kabel ni benda biasa lah, di mana-mana pun ada.
+**Rafizi:** Itulah dia sebenarnya. Kalau anything yang beria di sini, bukan sangat soal curi kabel ni — curi kabel ni benda biasa lah, di mana-mana pun ada.
 
 **Wabi:** Betul. Tapi buletin TV3 tu nak juga emphasize "graduan undang-undang."
 
-**Rafizi Ramli:** Clickbait. Yeah, this is clickbait. Saya tak faham kenapa mereka perlu letak "graduan undang-undang." Ada je orang yang graduan macam-macam bidang, latar belakang belajar dia pun tak tentu. Kalau tengok di US, awak pernah baca pasal Unabomber tak? Ted Kaczynski — dia seorang saintis yang hebat, belajar di Harvard, dan dia jadi salah seorang pengganas yang paling susah ditangkap. Dia ditangkap dari tahun 70-an sampai 1994. Selama dua dekad, dia menghantar bungkusan bom kepada saintis, doktor, peguam. Bukalah, meletup. Jadi bukan sahaja di Malaysia lah — di mana-mana, latar belakang apa pun, hidup ni keras.
+**Rafizi:** Clickbait. Yeah, this is clickbait. Saya tak faham kenapa mereka perlu letak "graduan undang-undang." Ada je orang yang graduan macam-macam bidang, latar belakang belajar dia pun tak tentu. Kalau tengok di US, awak pernah baca pasal Unabomber tak? Ted Kaczynski — dia seorang saintis yang hebat, belajar di Harvard, dan dia jadi salah seorang pengganas yang paling susah ditangkap. Dia ditangkap dari tahun 70-an sampai 1994. Selama dua dekad, dia menghantar bungkusan bom kepada saintis, doktor, peguam. Bukalah, meletup. Jadi bukan sahaja di Malaysia lah — di mana-mana, latar belakang apa pun, hidup ni keras.
 
 **Wabi:** Right. So kalau nak clickbait pun, common lah sebenarnya kes macam ni. Orang jenayah, dia tertangkap — okay, YB, ini macam-macam biasa lah, kita expect macam tu. Tapi standard YB memang scary.
 
 **Wabi:** Okay, seterusnya, politik. MP lompat, ditanya apa punca dia lompat. Ini soalan yang ditanya 19 November baru-baru ini. MP Beluran bertanya, mengapa Akta Anti-Lompat Parti gagal menghalang ahli parlimen daripada melompat parti, dan apakah tindakan kerajaan untuk memperkukuhkan undang-undang ini.
 
-**Rafizi Ramli:** Beria yang ini sebab konteksnya — sabar lah kan, Datuk Seri Ronald Kiandee ni tak puas hati. Sebab bagi dia, PRU ataupun PRN yang lepas, tahun 2020, Bersatu dilihat menang besar di Sabah, dan sebahagian besar yang menang tu kemudian melompat dan menubuhkan GRS. Tapi Bersatu di Sabah pun sebenarnya hasil daripada lompat juga — kerana daripada UMNO tahun 2018, ahli-ahli UMNO yang lompat itulah yang menubuhkan Bersatu. Beria — lompat. So he should be the one to answer. If you ask why the Anti-Hopping Act failed to prevent members of parliament from jumping the party, he should look at himself first.
+**Rafizi:** Beria yang ini sebab konteksnya — sabar lah kan, Datuk Seri Ronald Kiandee ni tak puas hati. Sebab bagi dia, PRU ataupun PRN yang lepas, tahun 2020, Bersatu dilihat menang besar di Sabah, dan sebahagian besar yang menang tu kemudian melompat dan menubuhkan GRS. Tapi Bersatu di Sabah pun sebenarnya hasil daripada lompat juga — kerana daripada UMNO tahun 2018, ahli-ahli UMNO yang lompat itulah yang menubuhkan Bersatu. Beria — lompat. So he should be the one to answer. If you ask why the Anti-Hopping Act failed to prevent members of parliament from jumping the party, he should look at himself first.
 
 **Wabi:** Okay, well baby. Beria — okay, ini tentang beria. Next.
 
 **Wabi:** Let the picture speak, for those who can't see. This is a fire. Tapi saya agak segan nak letak sebab konteksnya sebenarnya sedih. Tapi dia sendiri yang post di Facebook dia — bukan orang minta pun. Ini Haji Hanafi Ahmad.
 
-**Rafizi Ramli:** Cuba tengok kasut kulit dia dan seluar jeans dia, warna baju dia sama macam warna latar. Gaya dia macam photobomb atau acting je, kan? Macam dia dah bersedia nak bergaya.
+**Rafizi:** Cuba tengok kasut kulit dia dan seluar jeans dia, warna baju dia sama macam warna latar. Gaya dia macam photobomb atau acting je, kan? Macam dia dah bersedia nak bergaya.
 
 **Wabi:** Tak, tapi konteksnya sedih kot.
 
-**Rafizi Ramli:** Yelah, konteks rumah tu terbakar semua. Budak-budak ramai yang menangis, takut semua kan.
+**Rafizi:** Yelah, konteks rumah tu terbakar semua. Budak-budak ramai yang menangis, takut semua kan.
 
 **Wabi:** Oh, ini kejadian di Kemaman.
 
-**Rafizi Ramli:** Yes. Saya tak tahu ada undang-undang atau tidak, saya tak pasti boleh atau tidak buat begini. Saya check ChatGPT tadi sebelum masuk rakaman — memang civilian tak boleh mengendalikan kawasan operasi bomba macam ni, tak boleh, kerana ia membahayakan nyawa. Contohnya, kalau ada kebakaran dan bomba sedang menjalankan tugas, kemudian ada orang yang pergi menyibuk di situ untuk siasat, ini menghalang kerja bomba. Kalau ada apa-apa berlaku, ia menjejaskan usaha menyelamat. Jadi saya rasa, walaupun saya tak pasti sama ada undang-undangnya spesifik atau tidak, dari segi etika pun ia tak sepatutnya dibuat. Masalah dengan ahli politik ni, dia nak menyelitkan muka dia di mana-mana. Ada banyak lagi fungsi lain untuk dia buat. Kalau saya sendiri, kalau dah ada ambulans ataupun bomba ataupun pihak berkuasa yang menguruskan, jangan sibuk-sibuk di situ.
+**Rafizi:** Yes. Saya tak tahu ada undang-undang atau tidak, saya tak pasti boleh atau tidak buat begini. Saya check ChatGPT tadi sebelum masuk rakaman — memang civilian tak boleh mengendalikan kawasan operasi bomba macam ni, tak boleh, kerana ia membahayakan nyawa. Contohnya, kalau ada kebakaran dan bomba sedang menjalankan tugas, kemudian ada orang yang pergi menyibuk di situ untuk siasat, ini menghalang kerja bomba. Kalau ada apa-apa berlaku, ia menjejaskan usaha menyelamat. Jadi saya rasa, walaupun saya tak pasti sama ada undang-undangnya spesifik atau tidak, dari segi etika pun ia tak sepatutnya dibuat. Masalah dengan ahli politik ni, dia nak menyelitkan muka dia di mana-mana. Ada banyak lagi fungsi lain untuk dia buat. Kalau saya sendiri, kalau dah ada ambulans ataupun bomba ataupun pihak berkuasa yang menguruskan, jangan sibuk-sibuk di situ.
 
 **Wabi:** Fahamlah. Orang kita memang suka macam tu. Masalahnya, orang kita pun ada demand untuk itu.
 
-**Rafizi Ramli:** Mesti ada demand dia kan — "oh bagusnya wakil rakyat kita, sampai dia sendiri pergi padamkan kebakaran." Tapi sebenarnya, selain daripada soal undang-undang, etika pun sepatutnya melarang — termasuklah rakyat biasa. Kalau dah ada pihak profesional yang dipercayai dan dilatih untuk itu, kita tak boleh ganggu. Di negara lain, sudah ada tindakan diambil terhadap perbuatan macam ni — memang ada kemungkinan ia boleh dituntut sebagai gangguan terhadap tanggungjawab awam.
+**Rafizi:** Mesti ada demand dia kan — "oh bagusnya wakil rakyat kita, sampai dia sendiri pergi padamkan kebakaran." Tapi sebenarnya, selain daripada soal undang-undang, etika pun sepatutnya melarang — termasuklah rakyat biasa. Kalau dah ada pihak profesional yang dipercayai dan dilatih untuk itu, kita tak boleh ganggu. Di negara lain, sudah ada tindakan diambil terhadap perbuatan macam ni — memang ada kemungkinan ia boleh dituntut sebagai gangguan terhadap tanggungjawab awam.
 
 **Wabi:** Okay, YB. Ini calon "beria" ketiga. Okay, next. Transit di Dubai enam hari, tapi tak dibenarkan oleh mahkamah.
 
-**Rafizi Ramli:** Tak dibenarkan. Hakim kata, kau beli tiket awal-awal, it's on your own risk. Kalau kita benarkan, akan ada floodgates.
+**Rafizi:** Tak dibenarkan. Hakim kata, kau beli tiket awal-awal, it's on your own risk. Kalau kita benarkan, akan ada floodgates.
 
 **Wabi:** Ini sebab nak bincang langkah ke Dubai ni kan — sampai enam hari di Dubai. Dubai tu panas tau.
 
-**Rafizi Ramli:** Actually, boleh je pergi dua hari, satu ke dua hari. Transit dua hari pun dah lama.
+**Rafizi:** Actually, boleh je pergi dua hari, satu ke dua hari. Transit dua hari pun dah lama.
 
 **Wabi:** Bukankah kita nak cuba sependek yang mungkin? Maybe nak jumpa saudara-mara kat sana kot, tak tahu lah.
 
-**Rafizi Ramli:** Raya lah lagi.
+**Rafizi:** Raya lah lagi.
 
 **Wabi:** Yalah. But we don't actually know where Tan Sri Muhyiddin's daughter-in-law is staying — people say she's staying in Dubai.
 
@@ -143,15 +143,15 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Wabi:** Ini bukan hasil penyelidikan awal — orang cakap begitu, tapi tak ada bukti.
 
-**Rafizi Ramli:** Setahu saya, dia stay di London.
+**Rafizi:** Setahu saya, dia stay di London.
 
 **Wabi:** Okay, alright. Next. Dia dah bayar kompaun, tapi kena buat kerja lagi — orang ini sepupu kepada menantu Tan Sri Muhyiddin.
 
-**Rafizi Ramli:** Ha, macam mana pula ni berkait dengan Tan Sri Muhyiddin? Sepupu, saya rasa sepupu kepada menantu. Ini pun lucu jugak.
+**Rafizi:** Ha, macam mana pula ni berkait dengan Tan Sri Muhyiddin? Sepupu, saya rasa sepupu kepada menantu. Ini pun lucu jugak.
 
 **Wabi:** SPRM sekarang tengah mencari — nama dia apa, Datuk Adam Radlan kan — kerana beritanya dia telah meninggalkan Malaysia selepas membayar kompaun RM4.1 juta, menaiki jet peribadi Jana Wibawa. Ini yang Tan Sri Azam Baki beritahu.
 
-**Rafizi Ramli:** Saya ingat masa keputusan itu dibuat dulu, saya memang troll habis-habisan. Sebab dia didakwa dengan tuduhan pengubahan wang haram dan rasuah, jumlahnya lebih RM6 juta. Kemudian dia dibebaskan kerana dibenarkan membayar kompaun RM4 juta — dapat untung lagi dalam RM2 juta kan. Dan bila perkara ini disebut sendiri oleh Ketua Pesuruhjaya SPRM, ia jadi lebih beria lah untuk Tan Sri Azam Baki, sebab kalau kita tengok Akta SPRM, memang ada peruntukan untuk menawarkan kompaun. Tapi konteks kenapa peruntukan itu wujud, pada saya, tak sepatutnya diberikan kepada seseorang yang dituduh seperti Dato' Adam Radlan. Maksudnya, bila dia dikenakan kompaun, sepatutnya bukti terhadap dia dah cukup jelas — itu sebab dia sanggup bayar. Kalau memang bukti cukup jelas, ia patut diteruskan sebagai pendakwaan seperti orang lain. Tapi malangnya undang-undang kita ada peruntukan yang membenarkan SPRM menawarkan kompaun.
+**Rafizi:** Saya ingat masa keputusan itu dibuat dulu, saya memang troll habis-habisan. Sebab dia didakwa dengan tuduhan pengubahan wang haram dan rasuah, jumlahnya lebih RM6 juta. Kemudian dia dibebaskan kerana dibenarkan membayar kompaun RM4 juta — dapat untung lagi dalam RM2 juta kan. Dan bila perkara ini disebut sendiri oleh Ketua Pesuruhjaya SPRM, ia jadi lebih beria lah untuk Tan Sri Azam Baki, sebab kalau kita tengok Akta SPRM, memang ada peruntukan untuk menawarkan kompaun. Tapi konteks kenapa peruntukan itu wujud, pada saya, tak sepatutnya diberikan kepada seseorang yang dituduh seperti Dato' Adam Radlan. Maksudnya, bila dia dikenakan kompaun, sepatutnya bukti terhadap dia dah cukup jelas — itu sebab dia sanggup bayar. Kalau memang bukti cukup jelas, ia patut diteruskan sebagai pendakwaan seperti orang lain. Tapi malangnya undang-undang kita ada peruntukan yang membenarkan SPRM menawarkan kompaun.
 
 Jadi itu yang bahaya — bising-bising cakap pasal rasuah, cakap pasal tangkap, konon melalui siasatan penuh, tiba-tiba dilepaskan hanya kerana dia bayar kompaun. Dan kita dah lihat kejadian ini berlaku beberapa kali, melibatkan tokoh-tokoh yang ada kaitan dengan nama-nama besar yang didakwa. Sebenarnya peruntukan untuk menawarkan atau mengenakan kompaun itu konteksnya bukan macam ini. Contohnya, kalau ada dua orang — sama ada seorang memberi rasuah dan seorang menerima rasuah, atau dua-dua menerima rasuah, tetapi untuk pendakwa raya mendapatkan keterangan bagi mendakwa yang lebih besar makan rasuah, maka yang jadi saksi — the crown witness — ditawarkan untuk bayar kompaun. Kerana kalau dua-dua didakwa dan tak dapat keterangan yang diperlukan, kedua-duanya boleh terlepas. Itu sebab peruntukan kompaun wujud dalam Akta SPRM — bukan untuk orang yang disiasat penuh dan kemudian, "okay, kau bayar kompaun je."
 
@@ -159,47 +159,47 @@ Yang saya risau, kalau peruntukan kompaun ini nampak disalahgunakan, ia membuka 
 
 **Wabi:** Dia sebut "paying the court-imposed penalty" kan — dia tak sebut yang sebenarnya itu kompaun mengikut Akta SPRM.
 
-**Rafizi Ramli:** Jadi ia jadi lawak dan beria bila tiba-tiba SPRM pula yang maklumkan, "sebenarnya kami nak dia sekali lagi, tapi dia dah cabut." Jadi nasihat saya lepas ni, tak payah lah buat kompaun macam ini — beberapa tahun kes dia dibincang, tiba-tiba diberi kompaun, dan bagi-bagi kompaun macam ni, akhirnya jumpa lah dia di transit Dubai.
+**Rafizi:** Jadi ia jadi lawak dan beria bila tiba-tiba SPRM pula yang maklumkan, "sebenarnya kami nak dia sekali lagi, tapi dia dah cabut." Jadi nasihat saya lepas ni, tak payah lah buat kompaun macam ini — beberapa tahun kes dia dibincang, tiba-tiba diberi kompaun, dan bagi-bagi kompaun macam ni, akhirnya jumpa lah dia di transit Dubai.
 
 **Wabi:** Okay, YB. Tapi saya ada soalan — bayaran kompaun ni dianggap selesai serta-merta ke?
 
-**Rafizi Ramli:** Ya.
+**Rafizi:** Ya.
 
 **Wabi:** Serta-merta? Jadi maksudnya tak ada isu pasport?
 
-**Rafizi Ramli:** Selesai. Drop charges. Semua pertuduhan digugurkan.
+**Rafizi:** Selesai. Drop charges. Semua pertuduhan digugurkan.
 
 **Wabi:** Tapi macam mana boleh dikatakan digantung? Sebab kalau selesai serta-merta dan dia keluar ke luar negara, mesti ada rekod dia keluar negara.
 
-**Rafizi Ramli:** Ya, tapi itulah pasal — SPRM tahu dia dah keluar negara. Bila mereka nak cari dia, dia dah pun berada di luar negara.
+**Rafizi:** Ya, tapi itulah pasal — SPRM tahu dia dah keluar negara. Bila mereka nak cari dia, dia dah pun berada di luar negara.
 
 **Wabi:** Maksudnya boleh check dengan Imigresen, Imigresen boleh maklumkan pasport dia telah dikeluarkan.
 
-**Rafizi Ramli:** Betul, cuma itulah yang orang tanya — siapa yang minta beri kompaun awal-awal? Jadi ia jadi lawak yang beria lah — bagi dia kompaun, lepaskan dia, terutamanya kalau memang ada kes-kes lain yang sedang berjalan. Kalau contohnya SPRM sudah siasat Jana Wibawa dan juga aduan-aduan salah laku rasuah semasa pentadbiran Perikatan Nasional, mesti ada kaitan, kerana ada watak-watak yang sebenarnya jadi "broker." Jadi saya ingat, bila SPRM sedang mencari Datuk Adam Radlan ni, dalam siasatan "Max 2," maksudnya dia ada dalam macam-macam kes. Jadi semasa keputusan memberi kompaun dibuat, bukankah sepatutnya SPRM sudah nampak dia sama ada material witness atau person of interest dalam kes satu, kes dua, kes tiga — untuk apa kita bagi dia kompaun?
+**Rafizi:** Betul, cuma itulah yang orang tanya — siapa yang minta beri kompaun awal-awal? Jadi ia jadi lawak yang beria lah — bagi dia kompaun, lepaskan dia, terutamanya kalau memang ada kes-kes lain yang sedang berjalan. Kalau contohnya SPRM sudah siasat Jana Wibawa dan juga aduan-aduan salah laku rasuah semasa pentadbiran Perikatan Nasional, mesti ada kaitan, kerana ada watak-watak yang sebenarnya jadi "broker." Jadi saya ingat, bila SPRM sedang mencari Datuk Adam Radlan ni, dalam siasatan "Max 2," maksudnya dia ada dalam macam-macam kes. Jadi semasa keputusan memberi kompaun dibuat, bukankah sepatutnya SPRM sudah nampak dia sama ada material witness atau person of interest dalam kes satu, kes dua, kes tiga — untuk apa kita bagi dia kompaun?
 
 Paling kurang, kalau nak bagi kompaun pun, sepatutnya pegang pasport dia. Tapi itu pun akan ada masalah di mahkamah — kalau pendakwa raya dan SPRM kata, saya selalu pergi mahkamah, contohnya, "okay kompaun tapi kami nak pegang pasport dia," peguam pembela akan bantah. Kalau dia dah dibebaskan, tak ada pendakwaan, semua pertuduhan telah digugurkan, kenapa nak pegang pasport dia? Dan besar kemungkinan mahkamah akan bersetuju dengan bantahan itu.
 
 **Wabi:** Baik, kompaun memang masalah lah ni.
 
-**Rafizi Ramli:** Okay. Saya harap lepas ni kita tak dengar lagi cerita-cerita kompaun begini. Saya bimbang kalau ada kecenderungan di pihak SPRM atau kerajaan yang suka amalan kompaun ini, kerana ia membuka ruang untuk "kautim." Dia tak masuk mahkamah — siasat, siasat, siasat, tangkap, tangkap, tangkap, kemudian dia hilang. Sebab apa? Oh, sebenarnya dia telah membayar kompaun, jadi kes itu tidak dibawa ke mahkamah. Pendakwa raya pun tak boleh buat apa-apa lagi, kerana pihak yang menyiasat, contohnya seperti SPRM atau LHDN, boleh je kompaun kes itu. Ini berbahaya — ia membuka ruang. Contohnya, kalau cukai asal RM100 juta, tapi oleh kerana ada peruntukan kompaun, "kita kautim dulu lah" — kautim, satu juta jadi 20 juta, untuk mengurangkan daripada RM100 juta kepada RM20 juta, ada macam-macam pembayaran A, B, C. Jadi ia membuka ruang untuk "sokongan" secara tidak formal begini.
+**Rafizi:** Okay. Saya harap lepas ni kita tak dengar lagi cerita-cerita kompaun begini. Saya bimbang kalau ada kecenderungan di pihak SPRM atau kerajaan yang suka amalan kompaun ini, kerana ia membuka ruang untuk "kautim." Dia tak masuk mahkamah — siasat, siasat, siasat, tangkap, tangkap, tangkap, kemudian dia hilang. Sebab apa? Oh, sebenarnya dia telah membayar kompaun, jadi kes itu tidak dibawa ke mahkamah. Pendakwa raya pun tak boleh buat apa-apa lagi, kerana pihak yang menyiasat, contohnya seperti SPRM atau LHDN, boleh je kompaun kes itu. Ini berbahaya — ia membuka ruang. Contohnya, kalau cukai asal RM100 juta, tapi oleh kerana ada peruntukan kompaun, "kita kautim dulu lah" — kautim, satu juta jadi 20 juta, untuk mengurangkan daripada RM100 juta kepada RM20 juta, ada macam-macam pembayaran A, B, C. Jadi ia membuka ruang untuk "sokongan" secara tidak formal begini.
 
 Sebab itu saya tak selesa membaca kes-kes begini, terutamanya kes-kes besar. Sebab kalau kita orang biasa yang tertangkap dengan SPRM atau LHDN, saya rasa kita tak ada ruang untuk berbincang soal kompaun ini. Kerana peruntukan kompaun itu sebenarnya agak jelas — untuk tujuan kerjasama mensabitkan pertuduhan orang lain yang lebih besar. Kita sepatutnya jadi saksi, bukan digunakan untuk membebaskan orang yang memang dituduh rasuah.
 
 **Wabi:** Baik, YB. Clear — beria kepada SPRM. Ada lagi satu yang last — pas mengecam tulisan bahasa Cina.
 
-**Rafizi Ramli:** Yang itu apa tu — "Great Wall of China" ke apa tu?
+**Rafizi:** Yang itu apa tu — "Great Wall of China" ke apa tu?
 
 **Wabi:** Oh, "Sarang Semut" ke apa tu?
 
-**Rafizi Ramli:** Dia... commemoration punya batu.
+**Rafizi:** Dia... commemoration punya batu.
 
 **Wabi:** Oh, batu peringatan.
 
-**Rafizi Ramli:** Apa nama — Cheng San kan? Prince Cheng San.
+**Rafizi:** Apa nama — Cheng San kan? Prince Cheng San.
 
 **Wabi:** Yang ini jadi isu sebab biasanya penyokong-penyokong PAS dan PN, yang paling "pencinta bahasa Melayu," kalau ada bahasa Cina, Mandarin, ataupun tak ada bahasa Melayu, memang kena kecam, jadi isu besar.
 
-**Rafizi Ramli:** Saya pun tunggu, takut-takut Dr Akmal Saleh pula naik — tapi tak dengar apa-apa, sebab dulu cerita stokin pun jadi isu besar kan. Tapi bila kena kat dia sendiri, tak ada apa pun. Ini kan exco Kedah — panjang lebar sebenarnya. Cuma bila saya baca, terpaksa saya perasan — "ini projek kita, tak ada kena-mengena dengan Kedah" — satu patah pun dia tak sebut. Saya ingat, ini juga sebab dia exco Kedah. Awal tahun lepas, atau tahun lepas, di Dewan Undangan Negeri Kedah, dia begitu marah, tak mahu tandatangan kontrak untuk meneruskan projek di Kedah — Kulim Hi-Tech Park Fasa dan sebagainya. Dia buat cerita sedih. Selepas saya jawab dua tiga kali, dia terus diam, tak cerita kisah sebenar.
+**Rafizi:** Saya pun tunggu, takut-takut Dr Akmal Saleh pula naik — tapi tak dengar apa-apa, sebab dulu cerita stokin pun jadi isu besar kan. Tapi bila kena kat dia sendiri, tak ada apa pun. Ini kan exco Kedah — panjang lebar sebenarnya. Cuma bila saya baca, terpaksa saya perasan — "ini projek kita, tak ada kena-mengena dengan Kedah" — satu patah pun dia tak sebut. Saya ingat, ini juga sebab dia exco Kedah. Awal tahun lepas, atau tahun lepas, di Dewan Undangan Negeri Kedah, dia begitu marah, tak mahu tandatangan kontrak untuk meneruskan projek di Kedah — Kulim Hi-Tech Park Fasa dan sebagainya. Dia buat cerita sedih. Selepas saya jawab dua tiga kali, dia terus diam, tak cerita kisah sebenar.
 
 Ini sebenarnya berkaitan projek bernilai lebih kurang RM2 bilion — kilang tayar di Kedah Rubber City, di Padang Terap. Sebenarnya itu di bawah Kementerian Ekonomi — Kedah Rubber City itu adalah aset kerajaan persekutuan, dan diusahakan oleh kerajaan persekutuan. Tapi tengok, Dr Ha'im Hilman, kalau dia bercerita sesuatu yang tak benar, dia sanggup pergi ke Dewan Undangan Negeri, tak cerita keseluruhan cerita. Bila disoal, dia diam. Sama je macam ini — satu patah pun dia tak cerita bahawa sebenarnya ini tak ada kena-mengena dengan kerajaan negeri pun. Kedah Rubber City itu milik kerajaan persekutuan, aset NCIA — Northern Corridor Implementation Authority — di bawah Kementerian Ekonomi.
 
@@ -209,17 +209,17 @@ Jadi pada mulanya, sebagai menteri, kami kena buat keputusan — sama ada nak se
 
 **Wabi:** Tak nampak lah — dia tak tahu, "potong tangkona," dia tak dijemput pun, semua saya tak nampak lah. Begitulah keadaan di Malaysia.
 
-**Rafizi Ramli:** Betul lah.
+**Rafizi:** Betul lah.
 
 **Wabi:** Baik, YB. Untuk rating, mungkin YB pilih satu yang paling beria.
 
-**Rafizi Ramli:** Saya kena bagi kepada SPRM lah — tahniah kepada Datuk Seri Azam Baki, sebab lepas ni dia garu kepala. Beria lah kalau garu kepala macam ni.
+**Rafizi:** Saya kena bagi kepada SPRM lah — tahniah kepada Datuk Seri Azam Baki, sebab lepas ni dia garu kepala. Beria lah kalau garu kepala macam ni.
 
 **Wabi:** Okay, baik. Kita ke segmen "Hidup Keras." Kita pergi yang pertama terus.
 
 **Wabi:** Isu "pro-bono" ini — sudah "shot in the foot" untuk PMX ke? Sebelum saya mula, saya nak ikut sikit — YB dah sampaikan mesej kepada pemimpin-pemimpin kerajaan ke belum?
 
-**Rafizi Ramli:** Saya tweet, saya pasti tweet itu sampai kepada menteri. Tapi saya akan tulis surat, berkongsi pandangan saya bahawa Perdana Menteri, dengan pimpinan kerajaan, dengan PKR, mesti mengawal cyber trooper mereka. Kerana kita tahu cyber trooper ini dikawal — dikawal oleh sama ada orang-orang tertentu yang rapat dengan menteri, orang-orang tertentu yang ada kaitan dengan Pejabat Perdana Menteri. Mereka dikawal, sebab itu mesej itu dibuat secara tersusun — bukan organik. Jadi saya perlu ingatkan Perdana Menteri juga, contohnya bila mereka mencipta dan memfitnah mengenai ARM ini, kesan dia kepada negara besar. Satu, saya ingat majoriti rakyat Malaysia tidak biasa atau tidak tahu ARM ini apa.
+**Rafizi:** Saya tweet, saya pasti tweet itu sampai kepada menteri. Tapi saya akan tulis surat, berkongsi pandangan saya bahawa Perdana Menteri, dengan pimpinan kerajaan, dengan PKR, mesti mengawal cyber trooper mereka. Kerana kita tahu cyber trooper ini dikawal — dikawal oleh sama ada orang-orang tertentu yang rapat dengan menteri, orang-orang tertentu yang ada kaitan dengan Pejabat Perdana Menteri. Mereka dikawal, sebab itu mesej itu dibuat secara tersusun — bukan organik. Jadi saya perlu ingatkan Perdana Menteri juga, contohnya bila mereka mencipta dan memfitnah mengenai ARM ini, kesan dia kepada negara besar. Satu, saya ingat majoriti rakyat Malaysia tidak biasa atau tidak tahu ARM ini apa.
 
 Baik, bila nak buat chip, chip itu ada blueprint dia, ada architecture dia — kalau kita nak buat kuih, kita kena ada resepi. Chip pun ada resepi atau blueprint atau architecture dia. Dan hanya ada beberapa buah syarikat besar sahaja di dunia yang mempunyai pengaruh besar sebagai pembangun chip. Zaman 70-an dulu, model yang berjaya di dunia ialah model di mana syarikat chip itu membangunkan sendiri arkitektur mereka dan menghasilkan sendiri chip itu — sebab itu kita ada Intel, contohnya AMD, ini antara yang besar. Jadi antara tahun 70-an, 80-an, 90-an, pembuat chip yang dominan di dunia, seperti yang kita tahu, Intel — di Malaysia kita kenal Intel dan AMD. Chip yang mereka punya, intellectual property, IP, mereka miliki dan mereka hasilkan sendiri.
 
@@ -233,15 +233,15 @@ Jadi, fast forward, sudah 20 tahun berlalu sejak 90-an, sekarang 2020-an — chi
 
 **Wabi:** So contohnya kalau telefon Samsung, chip itu chip Samsung ke?
 
-**Rafizi Ramli:** Ya, betul, tapi itu ARM. Dia tak "letak" chip itu, tapi untuk setiap telefon Samsung, setiap chip Samsung, ARM dapat duit, kerana dia ambil royalti. Sama juga dengan China — tiba-tiba kita nampak China ada chip sendiri, tapi sebenarnya dari model itu, ARM — sebenarnya ia menggunakan teknologi ARM. Jadi cara ini lebih sesuai pada zaman sekarang untuk "scale up" semikonduktor.
+**Rafizi:** Ya, betul, tapi itu ARM. Dia tak "letak" chip itu, tapi untuk setiap telefon Samsung, setiap chip Samsung, ARM dapat duit, kerana dia ambil royalti. Sama juga dengan China — tiba-tiba kita nampak China ada chip sendiri, tapi sebenarnya dari model itu, ARM — sebenarnya ia menggunakan teknologi ARM. Jadi cara ini lebih sesuai pada zaman sekarang untuk "scale up" semikonduktor.
 
 **Wabi:** Latar belakang ini penting untuk orang bezakan — apa beza antara Intel dengan ARM? Macam OEM ke, maybe?
 
-**Rafizi Ramli:** Tak sama. OEM lain, sebab dia tak ada bahagian royalti. OEM maksudnya saya IP holder tapi saya tak nak ada kilang, jadi saya bagi kepada awak, awak yang buat, kemudian saya beli atau orang lain beli — tapi dia tak ada IP, tak ada royalti. Yang ini ada royalti untuk setiap satu. Ekosistem itu adalah ekosistem yang menjadi dominan sekarang dalam pembangunan chip.
+**Rafizi:** Tak sama. OEM lain, sebab dia tak ada bahagian royalti. OEM maksudnya saya IP holder tapi saya tak nak ada kilang, jadi saya bagi kepada awak, awak yang buat, kemudian saya beli atau orang lain beli — tapi dia tak ada IP, tak ada royalti. Yang ini ada royalti untuk setiap satu. Ekosistem itu adalah ekosistem yang menjadi dominan sekarang dalam pembangunan chip.
 
 **Wabi:** Baik.
 
-**Rafizi Ramli:** Jadi nak berbalik kepada isu "pro-bono" ini — asal-usulnya begini. Bila kami di Kementerian Ekonomi sedang menyediakan pelan ekonomi, kerangka Ekonomi Madani, kami buat kajian semasa awal penggal — ada satu jurang yang tidak boleh dinafikan dalam ekonomi kita, iaitu kita tidak boleh keluar daripada "middle income trap" ini, di mana kebanyakan daripada eksport kita, kebanyakan daripada aktiviti kita, ini adalah aktiviti perkilangan yang berada di tahap tengah atau rendah dalam rantaian nilai. Ambil contoh semikonduktor — ada orang kata, "alah, semikonduktor ini ada dari zaman Najib lagi," yalah, tapi modelnya tidak berubah. Semikonduktor itu dari segi rantaian nilai, dia besar — daripada mereka cipta, barulah keluar kepada design, daripada situ keluar kepada perkilangan, daripada situ pergi kepada apa yang dipanggil packaging. Kalau tengok kilang yang tengok "cucuk-cucuk" itu, itu packaging. Yang orang kata "manufacturing" itu lebih kepada wafer fabrication — dia buat wafer, kemudian dipotong, kemudian dicucuk-cucuk, itu dipanggil packaging, kemudian dia ship out.
+**Rafizi:** Jadi nak berbalik kepada isu "pro-bono" ini — asal-usulnya begini. Bila kami di Kementerian Ekonomi sedang menyediakan pelan ekonomi, kerangka Ekonomi Madani, kami buat kajian semasa awal penggal — ada satu jurang yang tidak boleh dinafikan dalam ekonomi kita, iaitu kita tidak boleh keluar daripada "middle income trap" ini, di mana kebanyakan daripada eksport kita, kebanyakan daripada aktiviti kita, ini adalah aktiviti perkilangan yang berada di tahap tengah atau rendah dalam rantaian nilai. Ambil contoh semikonduktor — ada orang kata, "alah, semikonduktor ini ada dari zaman Najib lagi," yalah, tapi modelnya tidak berubah. Semikonduktor itu dari segi rantaian nilai, dia besar — daripada mereka cipta, barulah keluar kepada design, daripada situ keluar kepada perkilangan, daripada situ pergi kepada apa yang dipanggil packaging. Kalau tengok kilang yang tengok "cucuk-cucuk" itu, itu packaging. Yang orang kata "manufacturing" itu lebih kepada wafer fabrication — dia buat wafer, kemudian dipotong, kemudian dicucuk-cucuk, itu dipanggil packaging, kemudian dia ship out.
 
 Malaysia berada di peringkat bawah itu — packaging dan testing. Yang kita ada selama ini sebenarnya packaging dan testing. Ada orang kata, "oh kita kena buat wafer" — kita memang ada cuba, ada syarikat bernama Silterra, tapi pelaburan untuk fabrikasi wafer sangat tinggi, dan di dunia hanya ada beberapa buah — di China pun cuma empat lima buah fabrikasi wafer. Jadi model yang biasa digunakan sekarang, terutamanya di negara Barat dan syarikat-syarikat China, mereka ambil IP ARM, gunakan kepakaran ARM untuk membina kepakaran sendiri, bina chip sendiri, kemudian jual, pasang dalam kereta — BYD, Xpeng, telefon, semua itu — tapi untuk setiap yang dijual, ARM sebenarnya dapat duit.
 
@@ -261,7 +261,7 @@ Sebelum saya pergi lebih jauh, saya nak sebut begini — bila mereka pandai-pand
 
 **Wabi:** Yes, right? Kerana jualan dia di China, Korea, Samsung, semua itu — jadi kenapa "bargaining chip" kita untuk tarif pun berkaitan sebelum sampai ke situ.
 
-**Rafizi Ramli:** Yang itu. Jadi apa yang saya maksudkan, bila mereka menuduh begini, ini bukan jenaka. Lain kali, pergi sekolah dulu sekejap — dan mereka yang mengarahkan pun cetek fikiran. Sebab kalau mereka nak teruskan, contohnya, "datang check akaun saya," datang check akaun James, saya cakap pasal James — pergi check semua, tak sen pun ada. Tapi kalau ia dibawa ke mahkamah, maksud saya, saya kena datang dan beri penjelasan. Betul, saya akan beri penjelasan, semua perjanjian akan dibuka, semua pegawai, PM, MIDA, siapa yang tandatangan semua ini, MITI, semua kena hadir. Dan Malaysia akan malu. Saya akan cakap, "apalah, ini perkara pertama yang kita buat, negara pertama yang cuba ada kerjasama seperti ini, tiba-tiba duduk bergaduh bodoh dengan 'ceplos'." Dan satu dunia akan tahu, kerana satu dunia sedang melihat kepada ARM. Ceplos.
+**Rafizi:** Yang itu. Jadi apa yang saya maksudkan, bila mereka menuduh begini, ini bukan jenaka. Lain kali, pergi sekolah dulu sekejap — dan mereka yang mengarahkan pun cetek fikiran. Sebab kalau mereka nak teruskan, contohnya, "datang check akaun saya," datang check akaun James, saya cakap pasal James — pergi check semua, tak sen pun ada. Tapi kalau ia dibawa ke mahkamah, maksud saya, saya kena datang dan beri penjelasan. Betul, saya akan beri penjelasan, semua perjanjian akan dibuka, semua pegawai, PM, MIDA, siapa yang tandatangan semua ini, MITI, semua kena hadir. Dan Malaysia akan malu. Saya akan cakap, "apalah, ini perkara pertama yang kita buat, negara pertama yang cuba ada kerjasama seperti ini, tiba-tiba duduk bergaduh bodoh dengan 'ceplos'." Dan satu dunia akan tahu, kerana satu dunia sedang melihat kepada ARM. Ceplos.
 
 Jadi sebab itu saya beritahu, bila ada orang tanya semua, saya kata, kalau sampai ke saham pun, memang kalah terus lah. Tapi Perdana Menteri Malaysia kena hadir situ, Senator Tengku Zafrul kena ada situ, Senator Amir Hamzah kena ada situ, ARM datang situ — memang Malaysia akan menjadi "popular for the wrong reason." Sama macam isu naturalisasi pemain-pemain kita. Sebab itu saya akan tulis nota kepada PM terlebih dahulu supaya mengawal "ceplos-ceplos" ini. Kalau pun, paling kurang, hantar mereka pergi kursus dahulu — jangan tembak bodoh macam ni.
 
@@ -271,7 +271,7 @@ Kalau ada duit, kalau ada perkara macam itu, saya dah lama kena. Sebab itu, sema
 
 **Wabi:** Contohnya dia tuduh James kan?
 
-**Rafizi Ramli:** Yes, James — saya keluar bayar RM1 bilion, kemudian saya letak pegawai saya, bekas pegawai saya, bekerja dengan ARM untuk jaga duit saya, dan duit itu dicuci untuk buat "Kesum." Pertama, tak ada orang bodoh dalam dunia ini kalau curi duit ratus-ratus juta pergi letak dekat restoran kecil untuk jual RM5 macam Kesum — margin pun tak ada kan. Keduanya, James — latar belakang dia, Haziq tanya tadi, kenapa mereka bersetuju? Bukan mudah lah.
+**Rafizi:** Yes, James — saya keluar bayar RM1 bilion, kemudian saya letak pegawai saya, bekas pegawai saya, bekerja dengan ARM untuk jaga duit saya, dan duit itu dicuci untuk buat "Kesum." Pertama, tak ada orang bodoh dalam dunia ini kalau curi duit ratus-ratus juta pergi letak dekat restoran kecil untuk jual RM5 macam Kesum — margin pun tak ada kan. Keduanya, James — latar belakang dia, Haziq tanya tadi, kenapa mereka bersetuju? Bukan mudah lah.
 
 Saya, bila PM — oleh kerana kami yang perkenalkan ARM ini kepada Malaysia dan juga kepada Datuk Seri Anwar sendiri, kami yang aturkan semuanya. Jadi bila sampai kepada susulan, itu Kementerian Ekonomi. Jadi saya hantar pasukan saya, diketuai oleh Timbalan Ketua Setiausaha kementerian ketika itu, Datuk Balu. Datuk Balu memang seorang yang sudah lama terlibat dalam menguruskan sektor ekonomi industri di Kementerian Ekonomi — itu memang bidang dia. James, dan dia ada dua lagi orang dalam pasukan, selain pegawai-pegawai lain. Dan dua orang itu bukan pegawai kerajaan, mereka daripada sektor swasta.
 
@@ -285,7 +285,7 @@ Jadi akhirnya, pengurusan ARM rasa mereka teruja melihat sebuah kerajaan yang sa
 
 **Wabi:** Ya, AI ni kan.
 
-**Rafizi Ramli:** Ini penting, kerana kita sibuk membina data center. Setiap kali kita bina data center, contohnya, MITI, Datuk Seri Anwar akan umumkan, "RM3 bilion." Yang tak diumumkan ialah, daripada FDI RM3 bilion itu, sebahagian besarnya dibayar keluar semula, kerana yang dibuat di sini yang berkaitan dengan Malaysia hanyalah tanah dan bangunan. Semua isi dalam itu — daripada rack, boleh lah kita buat sikit-sikit, tapi komputer, unit, chip — semua itu diimport daripada US.
+**Rafizi:** Ini penting, kerana kita sibuk membina data center. Setiap kali kita bina data center, contohnya, MITI, Datuk Seri Anwar akan umumkan, "RM3 bilion." Yang tak diumumkan ialah, daripada FDI RM3 bilion itu, sebahagian besarnya dibayar keluar semula, kerana yang dibuat di sini yang berkaitan dengan Malaysia hanyalah tanah dan bangunan. Semua isi dalam itu — daripada rack, boleh lah kita buat sikit-sikit, tapi komputer, unit, chip — semua itu diimport daripada US.
 
 Jadi banyak data center kita nanti tidak akan lepas daripada kitaran hayatnya — dalam lima tahun, dia perlu tukar chip, akan ada chip yang lebih baik, dan mereka sentiasa mencari chip yang kurang menggunakan tenaga dan tidak cepat panas. Kerana kos utama data center ialah elektrik dan juga air untuk menyejukkannya — lagi cekap tenaga chip itu, lagi bagus. Jadi setiap lima tahun akan ada chip baharu yang perlu ditukar. Kita tak boleh terus import daripada US, daripada negara lain, ODM daripada US. Selain itu, kita juga ada GLC kita sendiri yang mula membina data center — syarikat-syarikat Malaysia yang membina data center. Dan mereka sepatutnya sudah mula beralih menggunakan chip tempatan, kerana demand itu ada sendiri, syarikat kita sendiri yang beli. Kalau data center itu semuanya milik negara luar, mereka boleh kata, "kami tak nak Malaysia punya, kami nak beli daripada negara kami sendiri." Tapi kalau data center itu, bila GLC kita, syarikat swasta kita, dan kerajaan pun banyak membayar menggunakan data center, kita sepatutnya beralih untuk menggunakan chip kita sendiri — chip kita punya sendiri.
 
@@ -295,7 +295,7 @@ Dan bila perbincangan awal akhirnya mendapat keputusan Kabinet — buat pertama 
 
 Tapi saya juga sudah katakan, kita tak boleh cakap satu dunia kita ada rancangan, rancangan, semua ini, tapi kita tak mula, kita tak berani. Kena berani lah, kena buat lah. Kalau ada cita-cita dan kita ada, dan memang tugas kerajaan lah untuk menggerakkan segala yang kita ada ke arah itu.
 
-**Rafizi Ramli:** And in the end it got signed off, launched by Dato' Sri Anwar himself. It became big news, right? Everyone was all smiles that whole time — you could see it, so many people grinning there. Some even made content afterwards about it. That's "Made by Malaysia" — I kept repeating it: we need to shift our model from "Made in Malaysia" to "Made by Malaysia." There's also another point of view that this may have disrupted the previous government's policy status quo. People don't realise that when big FDI is announced, we're actually subsidising it. If a company announces RM3 billion, RM4 billion in investment, the government has promised to give them RM500 million.
+**Rafizi:** And in the end it got signed off, launched by Dato' Sri Anwar himself. It became big news, right? Everyone was all smiles that whole time — you could see it, so many people grinning there. Some even made content afterwards about it. That's "Made by Malaysia" — I kept repeating it: we need to shift our model from "Made in Malaysia" to "Made by Malaysia." There's also another point of view that this may have disrupted the previous government's policy status quo. People don't realise that when big FDI is announced, we're actually subsidising it. If a company announces RM3 billion, RM4 billion in investment, the government has promised to give them RM500 million.
 
 So imagine — we collect taxes from the people, but when it comes to bringing in that FDI, that part we never announce. I asked about it in Parliament; MITI refused to answer, MITI said it's a matter of national secrecy.
 
@@ -307,7 +307,7 @@ So from the start, from when we drafted the Ekonomi MADANI framework and then co
 
 **Host:** Okay, let's wrap up this part of the story.
 
-**Rafizi Ramli:** Everyone was happy, it became world news, everyone was grinning. Then I resigned. At that point ARM had just signed the deal and had just opened its office at TRX. We were the team representing the government managing the entire implementation — from the early meetings right through to it being operational here. Without that team — you resign, and the officer who was really the key driving force in all this is gone too. So if he's not there, what happens?
+**Rafizi:** Everyone was happy, it became world news, everyone was grinning. Then I resigned. At that point ARM had just signed the deal and had just opened its office at TRX. We were the team representing the government managing the entire implementation — from the early meetings right through to it being operational here. Without that team — you resign, and the officer who was really the key driving force in all this is gone too. So if he's not there, what happens?
 
 Based on that — I remember ARM offered James a place on their transition team, to help ensure their office and operations were properly set up. But more than a month after James joined them, once cheplos started spreading stories — "this is money laundering," all that — James resigned on the spot.
 
@@ -317,7 +317,7 @@ That's brain drain. He's not coming back, he's staying in the UK. So what can we
 
 **Host:** Please, go on.
 
-**Rafizi Ramli:** And don't let it come to me taking this to court. If they don't discipline these cheplos, I will sue. Just me and James — though honestly, it's a waste of time suing them, they don't even have money. Suing them would just be to vent frustration — sue them till they go bankrupt, they wouldn't gain anything from it, but in the end our country becomes world news again over this. I'm not even sure what ARM's view of all this is — because ARM is a monopoly, they'll probably feel it's simply not worth it. And what they said — "pay first, when there's nothing there yet" — that's not a joke, that's foolish. It's called IP, right, IP. It's true that with IP there's a five-year term with annual payments — once they release a design to us, we have to pay. But that effort has to happen at government and national level, to quickly secure companies that can make use of that IP. And before I stepped down, there were already three or four Malaysian and international companies wanting to come into Malaysia. That was also our argument to the government — instead of offering RM1.5 billion in cash, which wastes taxpayers' money, we should use this ARM IP to attract major companies, since they can't necessarily obtain that IP directly from ARM on their own.
+**Rafizi:** And don't let it come to me taking this to court. If they don't discipline these cheplos, I will sue. Just me and James — though honestly, it's a waste of time suing them, they don't even have money. Suing them would just be to vent frustration — sue them till they go bankrupt, they wouldn't gain anything from it, but in the end our country becomes world news again over this. I'm not even sure what ARM's view of all this is — because ARM is a monopoly, they'll probably feel it's simply not worth it. And what they said — "pay first, when there's nothing there yet" — that's not a joke, that's foolish. It's called IP, right, IP. It's true that with IP there's a five-year term with annual payments — once they release a design to us, we have to pay. But that effort has to happen at government and national level, to quickly secure companies that can make use of that IP. And before I stepped down, there were already three or four Malaysian and international companies wanting to come into Malaysia. That was also our argument to the government — instead of offering RM1.5 billion in cash, which wastes taxpayers' money, we should use this ARM IP to attract major companies, since they can't necessarily obtain that IP directly from ARM on their own.
 
 Malaysia holds the IP — for example, one of the most advanced EV companies in China, not the BYD type, but the kind making big, self-driving cars that use the most chips — they want to build their own chips. But if they go straight to ARM, it could take forever, because ARM is a monopoly and can dictate terms. But through us, Malaysia can say: come invest in Malaysia, a few hundred million, set up your factory here to manufacture chips, and you can access that IP. I don't know what happened after that.
 
@@ -325,29 +325,29 @@ So because of that, the government really needs to focus on this. We've already 
 
 **Host:** A stern warning?
 
-**Rafizi Ramli:** No, I don't give warnings. If I'm going to take action on anything, I just resign — no warnings, I just act. This time, let's see what his reaction is, because he needs to instruct the people in government who control these paid cyber troopers. If nothing is done, I will sue. So let's just wait and see. I'm still a patriot — I remember this was the result of my efforts and my colleagues' at the Ministry of Economy, meant to change the country's future. If I follow their behaviour and Malaysia ends up losing out — well, before it comes to that, let the Prime Minister and the government act first to discipline and manage these cyber troopers.
+**Rafizi:** No, I don't give warnings. If I'm going to take action on anything, I just resign — no warnings, I just act. This time, let's see what his reaction is, because he needs to instruct the people in government who control these paid cyber troopers. If nothing is done, I will sue. So let's just wait and see. I'm still a patriot — I remember this was the result of my efforts and my colleagues' at the Ministry of Economy, meant to change the country's future. If I follow their behaviour and Malaysia ends up losing out — well, before it comes to that, let the Prime Minister and the government act first to discipline and manage these cyber troopers.
 
 Many people may not know what a "cheplos" is. A cheplos is a cyber trooper paid by PKR — the name was given by PKR itself. And a large portion of them actually come from other parties, having only joined PKR after PKR became part of the government — in fact, they now outnumber the original ones. But there's a big question here, ever since this issue came up.
 
 **Host:** There's a big question — surely these cyber troopers and their "masters" haven't realised that this is a ticking time bomb that will sabotage themselves?
 
-**Rafizi Ramli:** They're not smart — that's exactly why they're called "cheplos."
+**Rafizi:** They're not smart — that's exactly why they're called "cheplos."
 
 **Host:** They probably don't have anything else to attack the YB with. And doesn't YB feel this has become something so desperate that they're willing to do anything just to attack you?
 
-**Rafizi Ramli:** Good luck to Najib if he wants to try that. But they don't realise — I mean, if PKR itself can do this kind of thing, other parties can too, forever. Other parties actually enjoy it, because normally my criticism means they don't even need to do any work themselves. So I'm in a sweet spot now, you know, right? People don't understand, right? No, I think the problem is, I don't think the paid cyber troopers even understand the background — what ARM is, what IP is, what all of this is. They're simply fed information by their paymasters, and those paymasters have access to government information. That's why I want to remind Dato' Sri Anwar — this is a different era, not like before. And because these paymasters aren't particularly bright either, and they're not involved at all in matters like this, they don't take into account, they don't do due diligence or a proper cost-benefit analysis for the country. As I said, this will turn Malaysia into a laughing stock of the world.
+**Rafizi:** Good luck to Najib if he wants to try that. But they don't realise — I mean, if PKR itself can do this kind of thing, other parties can too, forever. Other parties actually enjoy it, because normally my criticism means they don't even need to do any work themselves. So I'm in a sweet spot now, you know, right? People don't understand, right? No, I think the problem is, I don't think the paid cyber troopers even understand the background — what ARM is, what IP is, what all of this is. They're simply fed information by their paymasters, and those paymasters have access to government information. That's why I want to remind Dato' Sri Anwar — this is a different era, not like before. And because these paymasters aren't particularly bright either, and they're not involved at all in matters like this, they don't take into account, they don't do due diligence or a proper cost-benefit analysis for the country. As I said, this will turn Malaysia into a laughing stock of the world.
 
 About six or seven months ago, Malaysia was praised because it was the first country with the vision to produce its own chips, its own GPU — the silicon vision — in line with our push on AI and data-centre infrastructure. It looked good, everyone said Malaysia has a plan. But six months later, Malaysia got laughed at, because a cyber trooper sabotaged the country's own plan by turning it into a major court case.
 
 **Host:** Okay, alright — we're already over an hour, we're aiming for two hours. If they lose the lawsuit, maybe they'll have to work for KESUM for free for a year.
 
-**Rafizi Ramli:** I don't think we want any "food poisoning" here. Alright — that closes it off. I don't see them as disciplined people; otherwise they wouldn't be acting as paid cyber troopers.
+**Rafizi:** I don't think we want any "food poisoning" here. Alright — that closes it off. I don't see them as disciplined people; otherwise they wouldn't be acting as paid cyber troopers.
 
 **Host:** Okay, speaking of that, let's move to the next segment — ART again, for the third time now. But Minister Tengku Zafrul has admitted he's trying to have it amended — question mark. The government's arguments, and Tengku Zafrul as Minister, keep shifting, though from what I hear, it's gradually getting a bit more substantive. The Minister has admitted there is an attempt to amend it, since it hasn't been ratified yet. Over to you, YB.
 
 Some people say, since we're trying to amend it anyway, at least Article 5.1 should match what Cambodia has — that's actually what Tengku Zafrul himself said in his podcast. But to be fair to the government, it's also pointed out that the average import duty we impose on the US is around 7%, while Cambodia's is zero for exempted items. How would YB respond to that?
 
-**Rafizi Ramli:** No, what I'm saying is we need to look at how we got here in the first place. For weeks I was hammered by government cyber troopers, government people — heaps of criticism. Then, when I, YB Wong Chen, and YB Nik made statements and proposals, we got hammered just as much again.
+**Rafizi:** No, what I'm saying is we need to look at how we got here in the first place. For weeks I was hammered by government cyber troopers, government people — heaps of criticism. Then, when I, YB Wong Chen, and YB Nik made statements and proposals, we got hammered just as much again.
 
 Actually, almost everything Tengku Zafrul said in that podcast lines up with what we've been saying. Except Tengku Zafrul made it sound as if we don't really have a choice. That's exactly what the Malaysian public needs to judge fairly — whether we can be satisfied with such an answer, when for most Malaysians this is a major issue, because it's a matter of national sovereignty.
 
@@ -357,7 +357,7 @@ Imagine — now Tengku Zafrul himself admits he wants to change this agreement, 
 
 **Host:** I asked Wong Chen —
 
-**Rafizi Ramli:** In Parliament, we actually take turns on statements. On judiciary issues, I take the lead. I've already spoken a lot about this tariff issue outside Parliament. So in Parliament, Wong Chen — as Chairman of the Parliamentary Special Select Committee on International Trade — takes the lead, since that's his area of expertise, so I let him carry it.
+**Rafizi:** In Parliament, we actually take turns on statements. On judiciary issues, I take the lead. I've already spoken a lot about this tariff issue outside Parliament. So in Parliament, Wong Chen — as Chairman of the Parliamentary Special Select Committee on International Trade — takes the lead, since that's his area of expertise, so I let him carry it.
 
 I once asked Wong Chen, "Aren't you tired of doing this? The government doesn't really want to listen anyway. Even if we're right, they won't admit it" — that's normal for any government. I told him, "If you don't want to keep doing this, it's fine, we've already made our point." Do you know what Wong Chen said? He said, "This isn't about politics. I just want to sleep well at night." Because we both feel YB Wong Chen's responsibility is greater than mine — I'm just a regular MP, but he's the Chairman of the Select Committee on International Trade. He doesn't want people asking him later, "What did you actually do back then?"
 
@@ -367,23 +367,23 @@ The legal opinion given to me was that, by definition and by the standard method
 
 **Host:** Alright — now on the Cambodia tariff comparison, the argument used is that Malaysia can't be compared to Cambodia, because we can still impose tariffs while Cambodia's is zero percent.
 
-**Rafizi Ramli:** I think before we even get into a cost-benefit analysis that can be quantified — financial cost versus financial benefit, how many line items, what tariff percentages, and so on — the very first principle here is national sovereignty. If you ask an ordinary citizen and compare us to Cambodia, we might gain RM200 million. But unlike Cambodia, we're tied to the US on many fronts and have to follow them. Cambodia may not get that RM200 million, but they remain free as a sovereign nation. Ask people out there which they'd choose — they'd say, it's fine even if we don't get RM200 million, as long as we remain free, an independent country defending its sovereignty. That's what I mean when I say the government has failed to properly explain this ART agreement — because they keep reaching for reasons that don't actually align with public sentiment. People, especially older folks, will say, "We struggled so hard for independence back then — if it's going to be like this, why bother with independence?" To Zafrul, to MITI, to the researchers, maybe that doesn't seem important. But actually, that is the important thing. That should have been the red line from the very start — no need to even discuss anything else. Someone sent me a message joking that when the PM went to Ethiopia and announced trade cooperation with them, two or three people asked, "Don't remind the PM — he needs to check with the US first." Under this agreement, that's genuinely what we'd have to do — check with the US first. Lucky for us, this agreement isn't in force yet, but if it were, matters like that would indeed require clearance.
+**Rafizi:** I think before we even get into a cost-benefit analysis that can be quantified — financial cost versus financial benefit, how many line items, what tariff percentages, and so on — the very first principle here is national sovereignty. If you ask an ordinary citizen and compare us to Cambodia, we might gain RM200 million. But unlike Cambodia, we're tied to the US on many fronts and have to follow them. Cambodia may not get that RM200 million, but they remain free as a sovereign nation. Ask people out there which they'd choose — they'd say, it's fine even if we don't get RM200 million, as long as we remain free, an independent country defending its sovereignty. That's what I mean when I say the government has failed to properly explain this ART agreement — because they keep reaching for reasons that don't actually align with public sentiment. People, especially older folks, will say, "We struggled so hard for independence back then — if it's going to be like this, why bother with independence?" To Zafrul, to MITI, to the researchers, maybe that doesn't seem important. But actually, that is the important thing. That should have been the red line from the very start — no need to even discuss anything else. Someone sent me a message joking that when the PM went to Ethiopia and announced trade cooperation with them, two or three people asked, "Don't remind the PM — he needs to check with the US first." Under this agreement, that's genuinely what we'd have to do — check with the US first. Lucky for us, this agreement isn't in force yet, but if it were, matters like that would indeed require clearance.
 
 So from the public's point of view — if we want to nitpick over whether we impose 7%, we don't even really know the actual value of that 7% duty on US goods compared to what we're bound to give up in return. Maybe that's exactly what Cambodia did — maybe Cambodia said, "Actually, I also want the word 'sovereignty' written in there, I want to be free in this regard; if that means I forfeit RM100 million in duty, so be it, that's the price to pay." There is truth on that side too. Except the duty we would be forfeiting is RM40 billion — if we give up that 7% duty on US goods, and in exchange we defend our sovereignty, that RM40 billion is money we can't use to pay salaries and much else. But if the actual collection is only RM50 million, RM100 million — I don't think it comes anywhere near RM20-30 billion; our entire import duty collection altogether is only around RM6-7 billion. I don't think it's anywhere near that scale. So the question is, is that really the price or value we should be placing on our sovereignty?
 
 **Host:** Here's one more strong point from the Minister that we perhaps haven't discussed in detail over the last two episodes — that by signing ART, we become a "comprehensive strategic partner," a "trusted supply chain partner" of the US. That's an advantage YB himself may not be able to deny, or so people say.
 
-**Rafizi Ramli:** What's the substance — what does "comprehensive strategic partner" actually mean? If being a "comprehensive strategic partner" means we get led around by the nose by the US, then we don't need to be one at all. So does "comprehensive strategic partner" mean we're genuinely being elevated, or does it simply mean you have to comply with points 1, 2, 3, 4, and only then are you called a "strategic partner"? That's one view. So again — what's the substance, what's the real value of this "comprehensive strategic partner" status? On top of that, there's a second, more dangerous angle. When we become a "comprehensive strategic partner" and enter the US orbit, are we then seen as a lackey of the US? What happens to our relations with other countries of equal importance? For example, over the next 20 to 30 years, economists worldwide predict China will dominate the global economy. So if we're continually seen as a US lackey, that will damage our relationship with China, and it will affect how other nations view us — when our foreign policy, since the days of Tunku Abdul Rahman, has always been one of non-alignment, whatever happens.
+**Rafizi:** What's the substance — what does "comprehensive strategic partner" actually mean? If being a "comprehensive strategic partner" means we get led around by the nose by the US, then we don't need to be one at all. So does "comprehensive strategic partner" mean we're genuinely being elevated, or does it simply mean you have to comply with points 1, 2, 3, 4, and only then are you called a "strategic partner"? That's one view. So again — what's the substance, what's the real value of this "comprehensive strategic partner" status? On top of that, there's a second, more dangerous angle. When we become a "comprehensive strategic partner" and enter the US orbit, are we then seen as a lackey of the US? What happens to our relations with other countries of equal importance? For example, over the next 20 to 30 years, economists worldwide predict China will dominate the global economy. So if we're continually seen as a US lackey, that will damage our relationship with China, and it will affect how other nations view us — when our foreign policy, since the days of Tunku Abdul Rahman, has always been one of non-alignment, whatever happens.
 
 So suddenly, this "comprehensive strategic partner" status is being treated as if it fell from the sky to solve all our problems. It has pros and cons. The pros need to be examined — what do we actually get? Based on this ART agreement so far, being a "comprehensive strategic partner" means we're the ones who have to buy their goods, invest in them, follow them. Of course the US will say "you are a good partner" — that's exactly why our government cyber troopers love repeating this line, which honestly has no substance. Before we accept the premise that being a "comprehensive strategic partner" is a good thing, prove it — show us the value, what we actually get, and how. Only then can we look at the cons and do a proper cost-benefit analysis.
 
 **Host:** Alright, alright — last question, since we're pressed for time. To repeat Minister Tengku Zafrul's statement — he said that after signing ART, the ringgit has strengthened, our stock market, both the equity and debt capital markets, are stronger. The market looks positive, and he even said industries from the US will soon be coming in to invest. So according to him, this shows the benefits of ART.
 
-**Rafizi Ramli:** We need to be careful about linking market or ringgit strength to this agreement, because actually many other factors are at play. I've said this before — the currency in particular is heavily influenced by global conditions. If we recall, at the same time we were making noise about ART, what was the big thing happening in the US that actually affected the ringgit and dollar's value? The government shutdown — the longest government shutdown in US history. When a government shutdown drags on, it weakens the US because of the uncertainty it creates. Now that the shutdown is resolved, I think within the next two or three days we'll see the ringgit drop again. So I won't be quick to say this is all about ART. Usually, the market is more influenced by a few things: first, fundamentals — our GDP, exports, imports, the government's fiscal position, our deficit, our debt. That's usually what determines it. Second is market confidence — whether the market believes the government has a proper plan and so on. If you look back, there was a fairly long stretch of several months where the ringgit was stuck around 1.580-something, slow to cross 1.600, and it's only now reaching 1.630, compared to before when it quickly hit 1.680. If you ask several economists or bankers, they too are questioning how our GDP can be this good while our stock market still looks a bit wobbly, unlike in 2024. So I wouldn't quickly claim there's a direct causation between signing this agreement and the ringgit strengthening. We need to read a lot more reports, and most reports show the ringgit is influenced far more by other developments, particularly conditions in the US. In the past too, it was heavily influenced by US interest rate decisions — if it looked like the US was going to cut rates, the ringgit would strengthen, but if they were slow to cut, or said they'd cut next quarter and then didn't, the ringgit would fall back again.
+**Rafizi:** We need to be careful about linking market or ringgit strength to this agreement, because actually many other factors are at play. I've said this before — the currency in particular is heavily influenced by global conditions. If we recall, at the same time we were making noise about ART, what was the big thing happening in the US that actually affected the ringgit and dollar's value? The government shutdown — the longest government shutdown in US history. When a government shutdown drags on, it weakens the US because of the uncertainty it creates. Now that the shutdown is resolved, I think within the next two or three days we'll see the ringgit drop again. So I won't be quick to say this is all about ART. Usually, the market is more influenced by a few things: first, fundamentals — our GDP, exports, imports, the government's fiscal position, our deficit, our debt. That's usually what determines it. Second is market confidence — whether the market believes the government has a proper plan and so on. If you look back, there was a fairly long stretch of several months where the ringgit was stuck around 1.580-something, slow to cross 1.600, and it's only now reaching 1.630, compared to before when it quickly hit 1.680. If you ask several economists or bankers, they too are questioning how our GDP can be this good while our stock market still looks a bit wobbly, unlike in 2024. So I wouldn't quickly claim there's a direct causation between signing this agreement and the ringgit strengthening. We need to read a lot more reports, and most reports show the ringgit is influenced far more by other developments, particularly conditions in the US. In the past too, it was heavily influenced by US interest rate decisions — if it looked like the US was going to cut rates, the ringgit would strengthen, but if they were slow to cut, or said they'd cut next quarter and then didn't, the ringgit would fall back again.
 
 **Host:** Alright, that's clear. Let's move on to the next segment — this is the last week we're discussing ART, we're waiting for them to return to the Dewan. If they don't return after this, well, whoever becomes minister will carry it forward. Alright. Another tough issue — a judge who is still under question is not supposed to sit on the JAC. But there might be an argument — be careful, someone will say YB is insulting the court, be careful. This is just a social media argument: instead of choosing the most senior judge, we should choose Tan Sri Ahmad Terrirudin, who might have a longer remaining term so he can serve longer — like how Tun Mahathir chose Tun Tengku Maimun as Chief Justice even though she wasn't the most senior, because she could serve longer.
 
-**Rafizi Ramli:** Well, before we even get into "serving longer" or whatever — one thing I remember, as ordinary citizens we can comment on this: we know that this seat, which falls under judicial jurisdiction, on the JAC, is indeed entirely within the Prime Minister's power to appoint. So some people, some cheplos, ask, "Do a PC, do all this" — well, this is the PM's power, this is the PM's choice. But as an ordinary citizen, we can question a few things.
+**Rafizi:** Well, before we even get into "serving longer" or whatever — one thing I remember, as ordinary citizens we can comment on this: we know that this seat, which falls under judicial jurisdiction, on the JAC, is indeed entirely within the Prime Minister's power to appoint. So some people, some cheplos, ask, "Do a PC, do all this" — well, this is the PM's power, this is the PM's choice. But as an ordinary citizen, we can question a few things.
 
 The issue with Tan Sri Ahmad Terrirudin is this: there's a JAC meeting minute containing a serious allegation — that he allegedly attempted to interfere in a judicial decision. That's an official allegation. Which means, in a situation where he isn't the most senior Federal Court judge — I recall he's the second most junior — and the most senior one who isn't Chief Justice or President of the Court of Appeal is Tan Sri Nordin Hassan.
 
@@ -395,15 +395,15 @@ There will be vacancies coming up — for instance, the Chief Judge of Malaya's 
 
 **Host:** So, back to the earlier question — will YB bring back the PC motion, or has that already happened?
 
-**Rafizi Ramli:** If I had to frame it, my responsibility is to raise concerns, my responsibility is to remind. So back in June, I believe we succeeded in bringing national and public attention to the issue of judicial independence. I think the warning has been given. But after that warning was made, Dato' Sri Anwar still chose to proceed with this action. So I think the risk, and whatever happens from here, is now in his hands. We've fulfilled our responsibility — tonight, once again, on this podcast, is part of us carrying out that responsibility.
+**Rafizi:** If I had to frame it, my responsibility is to raise concerns, my responsibility is to remind. So back in June, I believe we succeeded in bringing national and public attention to the issue of judicial independence. I think the warning has been given. But after that warning was made, Dato' Sri Anwar still chose to proceed with this action. So I think the risk, and whatever happens from here, is now in his hands. We've fulfilled our responsibility — tonight, once again, on this podcast, is part of us carrying out that responsibility.
 
 **Host:** Alright, YB, crystal clear. Let's move to another issue that might be even hotter — the perception of misuse of government power. Recently the PM reportedly gave a stern warning to the political community. What was that about? The Digital Jelajah under the Ministry of Communications — this has surfaced in official government programmes throughout this week's campaign period, as compiled by Farhan and his colleagues. So when did MDEC's Malaysia Digital roadshow take place in Sabah? During the transition period? Yes, during the transition. Then there was the small-town "Santuni" townhall programme — what was that about? There was also the Sabah city planning programme. Then the Sabah Industry Union. And of course, that letter — yes, the cheplos say it's not a letter of support, it's just a lengthy letter. A lengthy letter? A lengthy letter. But the people of Keningau say it's a letter of support.
 
-**Rafizi Ramli:** If you ask me, I'm disappointed. When I was a minister, I gave clear instructions to my ministry and my agencies: don't get directly involved in any election campaign, and don't run programmes directly in my own constituency, Pandan.
+**Rafizi:** If you ask me, I'm disappointed. When I was a minister, I gave clear instructions to my ministry and my agencies: don't get directly involved in any election campaign, and don't run programmes directly in my own constituency, Pandan.
 
 **Host:** But did you win in Pandan?
 
-**Rafizi Ramli:** Whether I became a minister or remained a regular MP, the situation in Pandan didn't change. In fact, when I became a minister, suddenly there'd be big programmes — for example, under the Ministry of Economy there was an agency, CCUS, and suddenly there'd be a CCUS programme "for Pandan." No, no — I can honestly say I told them to stay away.
+**Rafizi:** Whether I became a minister or remained a regular MP, the situation in Pandan didn't change. In fact, when I became a minister, suddenly there'd be big programmes — for example, under the Ministry of Economy there was an agency, CCUS, and suddenly there'd be a CCUS programme "for Pandan." No, no — I can honestly say I told them to stay away.
 
 People might call me foolish — what's wrong with an MP running a programme in his own constituency? But for me, that itself is already a misuse. When we, as ministers, use our ministry's or our agencies' resources to create a programme funded by public and government resources purely for our own advantage, that, to me, is misuse. That's why, for instance, during the Sungai Bakap by-election, I drove my own car, and my bodyguard had to come along — I paid for it myself, I paid for the hotel, the allowance, the overtime, because he had to stay at the hotel with me.
 
@@ -417,7 +417,7 @@ This is something I've been uncomfortable with — ever since the unity governme
 
 **Host:** What does this have to do with the Malaysia Digital roadshow in Sabah?
 
-**Rafizi Ramli:** Malaysia Digital is meant for startups — I don't know why it was run there. But that's how it goes — once people become ministers, they don't want to go down to the ground in slippers to meet the people, worried they'll be embarrassed if only five or six people turn up. If the agency or ministry organises it, big kitchen, everything paid for, everyone fed, then they can mobilise a crowd, it looks impressive. So this does happen, and I think it's happening again now in the Sabah election. That's one thing I'm disappointed about.
+**Rafizi:** Malaysia Digital is meant for startups — I don't know why it was run there. But that's how it goes — once people become ministers, they don't want to go down to the ground in slippers to meet the people, worried they'll be embarrassed if only five or six people turn up. If the agency or ministry organises it, big kitchen, everything paid for, everyone fed, then they can mobilise a crowd, it looks impressive. So this does happen, and I think it's happening again now in the Sabah election. That's one thing I'm disappointed about.
 
 The same thing — people might think it's small — I remember during the Sungai Bakap by-election, I used my own car, my own "Reba," my own bodyguard, I paid the allowance, the hotel, everything, food and all. That morning I even ate at the garage before heading out to campaign — as I was walking towards the garage room, suddenly I heard sirens, outriders, all of that.
 
@@ -429,7 +429,7 @@ But for a minister, security usually means just one bodyguard. Ministers don't g
 
 **Host:** Who booked that?
 
-**Rafizi Ramli:** Syukri. Even so, don't put me in a shop-lot hotel like that — Parit Buntar isn't even that far. I remember pulling a sour face — even so, don't put me in a hotel like that. That hotel was so bad I've almost blocked it from memory. Anyway, so someone wanted to meet me about the election, so I went to a hotel where we'd agreed to meet. It turned out this officer [of the Deputy Minister] — there were ten people waiting there, shaking hands, "what's going on here?" "No, no, we're just waiting for the YB."
+**Rafizi:** Syukri. Even so, don't put me in a shop-lot hotel like that — Parit Buntar isn't even that far. I remember pulling a sour face — even so, don't put me in a hotel like that. That hotel was so bad I've almost blocked it from memory. Anyway, so someone wanted to meet me about the election, so I went to a hotel where we'd agreed to meet. It turned out this officer [of the Deputy Minister] — there were ten people waiting there, shaking hands, "what's going on here?" "No, no, we're just waiting for the YB."
 
 This is actually an easy thing to fix. If we wanted to stop it, it's simple. We can make excuses for some things — "oh, we're a unity government, reform has to happen gradually" — fine, we can repeal laws in stages. But when it comes to the misuse of agency vehicles, we don't need to ask UMNO, we don't need to ask anyone — this is entirely within our own will.
 
@@ -439,13 +439,13 @@ So if we're ordinary citizens, what hope is there for this country if the people
 
 **Host:** What did Pak Aman want to ask? No — I recall, during the general election campaign, there was a video released by YB about five things that should be abolished: outriders, banners, billboards, having someone carry your bag.
 
-**Rafizi Ramli:** Okay, so let me relate that back to my earlier answer. If YB is in a position of power, will YB put rules in place? Yes — and you have to state it clearly and tell people directly, because government officials also need that assurance so they don't get scolded by their minister for not doing certain things. Like me — from day one, all the KSU officers were waiting, my whole SUSK office was waiting, and I said right there on the spot, "get out of the car." First rule: don't carry my bag. If I'm the kind of person who can't even carry my own bag, then I shouldn't be a minister at all — and besides, I need the bag for exercise. So I think, to be fair to government officials, they'll always be caught in a bind — if they don't do it, the minister gets angry, and if the minister gets angry, that's the end of them. So this needs to be spelled out clearly, and the Prime Minister himself needs to say plainly: this, this, and this — stop doing it.
+**Rafizi:** Okay, so let me relate that back to my earlier answer. If YB is in a position of power, will YB put rules in place? Yes — and you have to state it clearly and tell people directly, because government officials also need that assurance so they don't get scolded by their minister for not doing certain things. Like me — from day one, all the KSU officers were waiting, my whole SUSK office was waiting, and I said right there on the spot, "get out of the car." First rule: don't carry my bag. If I'm the kind of person who can't even carry my own bag, then I shouldn't be a minister at all — and besides, I need the bag for exercise. So I think, to be fair to government officials, they'll always be caught in a bind — if they don't do it, the minister gets angry, and if the minister gets angry, that's the end of them. So this needs to be spelled out clearly, and the Prime Minister himself needs to say plainly: this, this, and this — stop doing it.
 
 **Host:** Yes.
 
 **Host:** Baik, ini kemudian nak kena masuk sedikit lah pasal Syamsul Iskandar ni kan.
 
-**Rafizi Ramli:** Dia tidak membantu Dato' Sri Anwar lah. Like my comment on TikTok yesterday — I said Datuk Syed [Syamsul] is already a headache in Parliament, especially when Pasir Mas raised it like that. Dan saya rasa Datuk Seri Anwar tak ada pilihan lain except to say he's given a stern warning. Yalah, bagi amaran keras macam mana pun, di mata rakyat — eh, takkan amaran keras je, patut pecat je lah kan.
+**Rafizi:** Dia tidak membantu Dato' Sri Anwar lah. Like my comment on TikTok yesterday — I said Datuk Syed [Syamsul] is already a headache in Parliament, especially when Pasir Mas raised it like that. Dan saya rasa Datuk Seri Anwar tak ada pilihan lain except to say he's given a stern warning. Yalah, bagi amaran keras macam mana pun, di mata rakyat — eh, takkan amaran keras je, patut pecat je lah kan.
 
 Sama juga soal orang kata ini bukan surat sokongan biasa — kami pun dapat macam-macam benda yang orang hantar ke pejabat saya. Usually, my officers will be in charge and do due diligence first — that's why some people may not like me, sebab susah nak jumpa saya masa saya jadi menteri. Kalau nak lobi terus dengan saya, saya tak berminat. Dalam dua setengah tahun saya jadi menteri, cuba kira berapa kerap saya jumpa orang yang bukan pegawai kerajaan — yang swasta ke, apa ke. Sebab kalau setakat nak tunjuk proposal, tak apalah, saya akan hantar — you deal dengan pegawai, biar pegawai buat due diligence.
 
@@ -467,7 +467,7 @@ So kalau saya rasa kecewa macam ni, ia normal. Dah setahun dua benda ni jadi. Me
 
 **Host:** Okay, clear? Dah satu jam lima puluh dua minit — ada lagi tak? Ada satu lagi yang agak berat, lepas tu kita tutup. Alhamdulillah. Okay, ini agak ringan sikit — soal masalah sosial ni. Tiga puluh satu remaja bawah umur kena buang kerja. Apa kesimpulan you? Sila sambung.
 
-**Rafizi Ramli:** Yang ni kesian lah juga kan sebenarnya. Yes, I mean, under age is under 17 years old — under 16, kan. Kita ada syarat kita — kalau pekerja dibenarkan bekerja pada umur 16 tahun, sepatutnya dia masih di sekolah, mungkin masih dalam Tingkatan 5. Sebab menurut undang-undang, persekolahan adalah wajib. Tapi mungkin ia tak dikuatkuasakan. Jadi kalau ada yang bawah 16 tahun dah bekerja, mesti ada something wrong dengan sistem kita. Mungkin YB nampak benda yang kita tak nampak.
+**Rafizi:** Yang ni kesian lah juga kan sebenarnya. Yes, I mean, under age is under 17 years old — under 16, kan. Kita ada syarat kita — kalau pekerja dibenarkan bekerja pada umur 16 tahun, sepatutnya dia masih di sekolah, mungkin masih dalam Tingkatan 5. Sebab menurut undang-undang, persekolahan adalah wajib. Tapi mungkin ia tak dikuatkuasakan. Jadi kalau ada yang bawah 16 tahun dah bekerja, mesti ada something wrong dengan sistem kita. Mungkin YB nampak benda yang kita tak nampak.
 
 Untuk orang lain, masalahnya secara undang-undang — kalau dia pakai identiti orang lain, secara undang-undang dia mungkin boleh dikenakan tindakan lah. Tapi itulah, ada terutamanya yang dah drop out sekolah, ada yang part time semua kan. Ini sebenarnya satu perkara yang kami cuba cari penyelesaian, dan memang dah ada pilot projek pun. Ada orang tidak bersetuju bila saya cakap macam ni, tapi benda ni dah jadi dasar pun dalam RMK13 — iaitu sekolah berakhir pada umur 16 tahun. Okay, itu satu.
 
@@ -501,7 +501,7 @@ Perkara ini tak berlaku sepenuhnya, jadi budak-budak sampai kena tangkap sebab i
 
 **Host:** Tapi saya nak tanya satu lah — konsep yang awak sebutkan tadi, "you kerja and training on the job" — itu satu konsep yang saya rasa banyak, especially parents in Malaysia, they won't be able to accept. Diorang masih nak anak-anak melalui proses yang sepenuhnya — pergi universiti, sambung belajar, dapat ijazah. Is there a mindset shift that has to happen?
 
-**Rafizi Ramli:** Ya, itu tugas kita — kalau yang dalam politik, anak kerajaan — tugas kita untuk membawa pengetahuan itu kepada ibu bapa. Dan ini memang saya ingat, dah 15 tahun lepas — sekarang tahun 2025, jadi ya, 15 tahun lepas — masa itu saya masih dipanggil ke sekolah-sekolah untuk bagi bengkel kerjaya kepada budak-budak.
+**Rafizi:** Ya, itu tugas kita — kalau yang dalam politik, anak kerajaan — tugas kita untuk membawa pengetahuan itu kepada ibu bapa. Dan ini memang saya ingat, dah 15 tahun lepas — sekarang tahun 2025, jadi ya, 15 tahun lepas — masa itu saya masih dipanggil ke sekolah-sekolah untuk bagi bengkel kerjaya kepada budak-budak.
 
 Jadi saya dari dulu beritahu — bagi yang nak buat bidang akaun, sebenarnya you tak payah pergi ambil ijazah, pergi buat ACCA. Kalau budak-budak buat ACCA sambil kerja, dalam tiga tahun mereka dah layak untuk bekerja penuh. Ramai yang teruja. Tapi apa masalahnya? Ibu bapa — "ini Dato' ni, Dato' doktor" — dia marah kat saya. Dia kata, "ini tak menjamin masa depan anak saya, saya nak anak saya buat ijazah jugak, dia kena pergi universiti jugak." Kesian budak tu — budak tu faham lebih daripada bapa dia sendiri yang asyik membebel. Jadi itu memang benar untuk keluarga T20 di Kuala Lumpur.
 
@@ -523,12 +523,12 @@ Tapi kita tak ada budaya macam itu. Kita — "oh nak TVET? Nak buat apa? Oh kena
 
 **Host:** Cukuplah dua jam. Baik, baik — dah cukup dua jam?
 
-**Rafizi Ramli:** Lebih sikit.
+**Rafizi:** Lebih sikit.
 
 **Host:** Lebih sikit. Okey, terima kasih banyak minggu ini — Episod 23. Kali ini kita jumpa lagi minggu depan. Tapi minggu ni banyak pedas sikit kot.
 
-**Rafizi Ramli:** Pedas ke? Macam tak pedas je.
+**Rafizi:** Pedas ke? Macam tak pedas je.
 
 **Host:** Okay, tak apa, tak terlalu pedas — seimbang lah. Okay, kita jumpa lagi di episod ke-24. Kita lihat siapa pula yang "terbakar" dalam episod akan datang.
 
-**Rafizi Ramli:** Mana ada yang terbakar. Dulu ada yang terbakar. Itu sahaja.
+**Rafizi:** Mana ada yang terbakar. Dulu ada yang terbakar. Itu sahaja.

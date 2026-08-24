@@ -8,7 +8,7 @@ duration_seconds: 8997
 duration: 2h 29m
 view_count: 158196
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Farhan
 - Haziq
@@ -18,7 +18,7 @@ topics:
 - UMNO grassroots sentiment on Kerajaan Madani
 - Institutional reform announcements and anti-corruption perception
 - Bersatu and Perikatan Nasional internal leadership dynamics
-summary: In episode 30 of the Yang Menteri podcast, Rafizi Ramli together with Farhan
+summary: In episode 30 of the Yang Menteri podcast, Rafizi together with Farhan
   and Haziq discuss recent Malaysian political developments. They analyze Dr Akmal
   Saleh's statements and responses from AMK's Kamil Munim, the political impact of
   Malay unity narratives on voter demographics, UMNO grassroots sentiment regarding
@@ -33,41 +33,41 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Farhan:** Assalamualaikum dan selamat datang ke episod ke-30 podcast *Yang Menteri*. Macam biasa, bersama saya dan saudara Rafizi Ramli. YB baru balik jogging ke?
+**Farhan:** Assalamualaikum dan selamat datang ke episod ke-30 podcast *Yang Menteri*. Macam biasa, bersama saya dan saudara Rafizi. YB baru balik jogging ke?
 
-**Rafizi Ramli:** Ya, petang ni kena jogging. Dah sebulan berehat, baju vest masih agak ketat.
+**Rafizi:** Ya, petang ni kena jogging. Dah sebulan berehat, baju vest masih agak ketat.
 
 **Farhan:** Maksudnya baru mula balik? Ke itu rahsia?
 
-**Rafizi Ramli:** Tak ada rahsia. Lagipun orang boleh akses Strava saya. Hujung tahun hari tu bukan tak nak berehat, tapi sebab selalu hujan. Sekarang cuaca dah bertambah baik.
+**Rafizi:** Tak ada rahsia. Lagipun orang boleh akses Strava saya. Hujung tahun hari tu bukan tak nak berehat, tapi sebab selalu hujan. Sekarang cuaca dah bertambah baik.
 
 **Farhan:** Alasan yang munasabah. Baik YB, kita teruskan ke segmen pertama kita.
 
-**Rafizi Ramli:** Okey, kita kena berdisiplin dengan segmen *Beriya* [overenthusiastic/over-the-top] ni. Ada orang kata tak payah, tapi sebenarnya ada pelbagai segmen penonton. Ada yang suka, ada yang tak suka. Jadi kita cuba pastikan ia ringkas dan padat.
+**Rafizi:** Okey, kita kena berdisiplin dengan segmen *Beriya* [overenthusiastic/over-the-top] ni. Ada orang kata tak payah, tapi sebenarnya ada pelbagai segmen penonton. Ada yang suka, ada yang tak suka. Jadi kita cuba pastikan ia ringkas dan padat.
 
 ---
 
 **Farhan:** Baik YB. Untuk isu *Beriya* yang pertama, kita ada tajuk "You've Got a Friend in Me". Ini berkenaan reaksi Kamil Munim, Ketua AMK Keadilan dan Setiausaha Politik Perdana Menteri, terhadap seruan Dr Akmal Saleh yang mahu UMNO keluar daripada kerajaan.
 
-**Rafizi Ramli:** Secara tradisinya, ketua-ketua sayap muda dalam mana-mana parti sepatutnya garang. Pendirian yang diambil oleh Dr Akmal ada kesan besar kepada kerajaan dan bos Kamil sendiri, iaitu Datuk Seri Anwar Ibrahim. Pandangan rakyat, mestilah singa berlawan dengan singa. Ini macam biri-biri pergi hulur kepala dekat singa.
+**Rafizi:** Secara tradisinya, ketua-ketua sayap muda dalam mana-mana parti sepatutnya garang. Pendirian yang diambil oleh Dr Akmal ada kesan besar kepada kerajaan dan bos Kamil sendiri, iaitu Datuk Seri Anwar Ibrahim. Pandangan rakyat, mestilah singa berlawan dengan singa. Ini macam biri-biri pergi hulur kepala dekat singa.
 
 **Farhan:** Kiranya beliau kena pertahankan kerajaan?
 
-**Rafizi Ramli:** Untuk pendengar podcast di Spotify, ini berkenaan reaksi Kamil Munim terhadap Dr Akmal. Kita ingatkan dia garang, tapi nadanya agak mendayu-dayu dan siap mengucapkan "Selamat maju jaya".
+**Rafizi:** Untuk pendengar podcast di Spotify, ini berkenaan reaksi Kamil Munim terhadap Dr Akmal. Kita ingatkan dia garang, tapi nadanya agak mendayu-dayu dan siap mengucapkan "Selamat maju jaya".
 
 **Haziq:** Atau mungkin mereka mahu membawa imej kematangan politik yang baharu? Mungkin ada setengah orang pandang dari sudut itu.
 
-**Rafizi Ramli:** Matang tak semestinya lembut. Matang bukan dinilai sama ada ia mendayu-dayu atau tidak. Matang bermaksud mengambil kira semua perspektif, kemudian membuat keputusan dan penilaian yang paling adil berteraskan perspektif tersebut.
+**Rafizi:** Matang tak semestinya lembut. Matang bukan dinilai sama ada ia mendayu-dayu atau tidak. Matang bermaksud mengambil kira semua perspektif, kemudian membuat keputusan dan penilaian yang paling adil berteraskan perspektif tersebut.
 
 Dalam hal ini, sepatutnya Ketua AMK menyatakan bahawa Barisan Nasional (BN) dan Pakatan Harapan (PH) telah membuat komitmen untuk memastikan kestabilan politik demi rakyat. Apa pun keadaannya, parti-parti komponen dalam Kerajaan Madani mestilah patuh kepada perjanjian yang telah ditandatangani. Matang bermaksud *calling a spade a spade* [bercakap jujur dan terus terang]. Sebab itu dia dikira *Beriya*—siap pegang perut Dr Akmal, dan Dr Akmal pun membelai balik.
 
 **Farhan:** Okey YB, kita tengok isu *Beriya* seterusnya. Masih mengenai Dr Akmal Saleh dan kenyataan daripada Ketua Bahagian Bersatu Bukit Bintang yang menyentuh isu penyatuan Melayu serta mendakwa "Melayu semakin berpecah".
 
-**Rafizi Ramli:** Dr Akmal merujuk kepada DAP dan pergaduhan dalam parti-parti Melayu. Manakala kenyataan Ketua Bahagian Bersatu Bukit Bintang itu adalah rentetan daripada pemecatan dan penggantungan pimpinan dalam Bersatu sendiri. Apa pun, biar mereka bergaduh. Lagi banyak mereka bergaduh, sebenarnya lagi bagus untuk rakyat Malaysia.
+**Rafizi:** Dr Akmal merujuk kepada DAP dan pergaduhan dalam parti-parti Melayu. Manakala kenyataan Ketua Bahagian Bersatu Bukit Bintang itu adalah rentetan daripada pemecatan dan penggantungan pimpinan dalam Bersatu sendiri. Apa pun, biar mereka bergaduh. Lagi banyak mereka bergaduh, sebenarnya lagi bagus untuk rakyat Malaysia.
 
 **Farhan:** Adakah mereka ini betul-betul mewakili orang Melayu secara keseluruhan, YB?
 
-**Rafizi Ramli:** Itu kena tanya pengundi. Kalau kita tengok sejak PRU 2018, malah dari PRU 2013 lagi, undi Melayu tidak pernah kekal kepada satu parti sahaja. Kali terakhir undi Melayu solid kepada UMNO-BN adalah pada tahun 2004. 
+**Rafizi:** Itu kena tanya pengundi. Kalau kita tengok sejak PRU 2018, malah dari PRU 2013 lagi, undi Melayu tidak pernah kekal kepada satu parti sahaja. Kali terakhir undi Melayu solid kepada UMNO-BN adalah pada tahun 2004. 
 
 Pada PRU 2008, walaupun UMNO-BN masih menang, undi popular Melayu kepada Pakatan Rakyat ketika itu adalah sekitar 43% hingga 45%. Pada PRU 2013, ia turun sedikit kepada 43%. Memasuki PRU 2018, undi Melayu terpecah kepada tiga gabungan utama: BN, PAS, dan PH. Keadaan itu berterusan sehingga sekarang. 
 
@@ -75,7 +75,7 @@ Data dan kajian selidik terbaru menunjukkan 52% pengundi Melayu merasakan semua 
 
 **Farhan:** Seterusnya, isu Dr Akmal memberi bayangan mahu mengundur diri.
 
-**Rafizi Ramli:** Tak perlulah sekadar memberi bayangan. Kalau nak berundur, berundurlah secara betul. Taktik memberi bayangan untuk letak jawatan ini hanya boleh dipakai sekali dua sahaja. Kalau kali pertama tak jadi, kali kedua sebut lagi tapi tak buat, orang takkan ambil serius sampai bila-bila.
+**Rafizi:** Tak perlulah sekadar memberi bayangan. Kalau nak berundur, berundurlah secara betul. Taktik memberi bayangan untuk letak jawatan ini hanya boleh dipakai sekali dua sahaja. Kalau kali pertama tak jadi, kali kedua sebut lagi tapi tak buat, orang takkan ambil serius sampai bila-bila.
 
 Cuma untuk Dr Akmal, jika pada usia 38 tahun ini dia betul-betul yakin bahawa penyatuan Melayu adalah nadi politik dan sumbangannya kepada negara, dia sepatutnya kekal dengan prinsip itu. Kalau dia tak letak jawatan sedangkan pimpinan tertinggi UMNO telah menegaskan kekal dalam Kerajaan Madani, dia akan berada dalam situasi dilema yang amat sukar. 
 
@@ -85,7 +85,7 @@ Tetapi kalau dia betul-betul meletakkan jawatan kerana berpegang kepada prinsipn
 
 **Haziq:** Kejadian itu melibatkan pekerja lelaki sebuah salon di Subang Jaya yang memakai tudung dan meminum bir semasa *Christmas dinner*. Ia tular selepas dimuat naik oleh majikannya di media sosial, dan polis telah memanggil mereka untuk siasatan di bawah Seksyen 298.
 
-**Rafizi Ramli:** Nasihat saya, janganlah sesiapa yang bukan wanita *Beriya-beriya* pakai tudung. Lelaki tidak wajib menutup kepala, bukan aurat. Hargailah rambut yang ada. Kedua, jika orang Islam, janganlah meminum arak. 
+**Rafizi:** Nasihat saya, janganlah sesiapa yang bukan wanita *Beriya-beriya* pakai tudung. Lelaki tidak wajib menutup kepala, bukan aurat. Hargailah rambut yang ada. Kedua, jika orang Islam, janganlah meminum arak. 
 
 Untuk segmen *Beriya* minggu ini, pemenangnya ialah isu lelaki memakai tudung tersebut. Majikannya pun sama *Beriya* pergi muat naik video berkenaan secara terbuka di media sosial.
 
@@ -93,7 +93,7 @@ Untuk segmen *Beriya* minggu ini, pemenangnya ialah isu lelaki memakai tudung te
 
 **Farhan:** Baik YB, kita masuk ke topik utama. Berkeliling perbincangan Konvensyen Pemuda UMNO baru-baru ini, pelbagai suara akar umbi mula timbul. Adakah retorik atau pendirian UMNO ini memberi impak positif dari segi lonjakan sokongan kepada mereka?
 
-**Rafizi Ramli:** Kena tengok kepada segmen pengundi. Keutamaan penyatuan Melayu dari perspektif penyokong tegar UMNO adalah lebih kepada strategi politik: jika pengundi Melayu disatukan di bawah satu bumbung, oleh kerana pengundi Melayu adalah majoriti, maka mereka boleh menang banyak kerusi dan berkuasa semula dengan mudah. Mereka ada nostalgia zaman lalu di mana menyertai UMNO bermakna peluang tinggi untuk menjadi menteri.
+**Rafizi:** Kena tengok kepada segmen pengundi. Keutamaan penyatuan Melayu dari perspektif penyokong tegar UMNO adalah lebih kepada strategi politik: jika pengundi Melayu disatukan di bawah satu bumbung, oleh kerana pengundi Melayu adalah majoriti, maka mereka boleh menang banyak kerusi dan berkuasa semula dengan mudah. Mereka ada nostalgia zaman lalu di mana menyertai UMNO bermakna peluang tinggi untuk menjadi menteri.
 
 Namun, realiti pengundi Melayu hari ini sudah berbeza dan lebih kompleks:
 1. **Pengundi Melayu bandar berpendidikan:** Sejak 2008, kelompok ini telah menolak UMNO. Mereka lebih mementingkan tata kelola, ketelusan, dan kebertanggungjawaban berbanding dominasi parti.
@@ -112,11 +112,11 @@ Ujian sebenar buat Datuk Seri Zahid Hamidi adalah bagaimana mahu membawa UMNO me
 
 **Haziq:** Menerusi perhatian di media sosial, ada reaksi positif terutamanya mengenai had tempoh jawatan PM. Namun masih ada suara skeptikal yang bertanya mengapa baru sekarang pengumuman ini dibuat setelah tiga tahun berkuasa, adakah disebabkan tekanan politik tertentu atau faktor pilihan raya.
 
-**Rafizi Ramli:** Jika ditanya kepada rakyat biasa yang mungkin hanya memperuntukkan masa satu jam seminggu untuk mengambil tahu hal politik, sejauh mana pengumuman empat reformasi institusi ini mengubah kehidupan harian mereka?
+**Rafizi:** Jika ditanya kepada rakyat biasa yang mungkin hanya memperuntukkan masa satu jam seminggu untuk mengambil tahu hal politik, sejauh mana pengumuman empat reformasi institusi ini mengubah kehidupan harian mereka?
 
 **Farhan:** Secara langsung mungkin tiada, tetapi untuk pengundi atas pagar di bandar, ia memberi *feel-good factor*.
 
-**Rafizi Ramli:** Ini sama seperti pencapaian ekonomi makro—pertumbuhan kukuh, pelaburan masuk, dan mata wang mengukuh, tetapi tidak diterjemahkan kepada sorakan gembira di peringkat bawah kerana rakyat tidak merasainya secara langsung.
+**Rafizi:** Ini sama seperti pencapaian ekonomi makro—pertumbuhan kukuh, pelaburan masuk, dan mata wang mengukuh, tetapi tidak diterjemahkan kepada sorakan gembira di peringkat bawah kerana rakyat tidak merasainya secara langsung.
 
 Sesebuah kerajaan reformasi mesti mengenalpasti *low-hanging fruits* [sasaran mudah yang berimpak tinggi] yang berada di tangga teratas dalam keutamaan rakyat. Mengenai reformasi institusi, perkara nombor satu yang dimahukan rakyat ialah kebebasan institusi penguatkuasaan.
 
@@ -134,12 +134,12 @@ Isu *low-hanging fruit* yang sebenar adalah kebebasan institusi seperti Suruhanj
 
 **Haziq:** Ramai melihat peletakan jawatan yang tergantung ini sebagai mesej gertakan Muhyiddin kepada PAS bahawa PN memerlukan Bersatu.
 
-**Rafizi Ramli:** Ada pemimpin Bersatu seperti Datuk Saifuddin Abdullah yang cuba mengambil kesempatan daripada situasi ini. Pada pandangan saya, perjalanan politik Saifuddin sangat merugikan. Beliau mula ditampilkan pada PRU 2008 sebagai reformis dalaman UMNO yang berintelek. Selepas meninggalkan UMNO, beliau menyertai PKR, dan kemudian berpindah ke Bersatu. Malangnya, imej intelek dan reformis yang dibina sebelum ini terhakis secara beransur-ansur. 
+**Rafizi:** Ada pemimpin Bersatu seperti Datuk Saifuddin Abdullah yang cuba mengambil kesempatan daripada situasi ini. Pada pandangan saya, perjalanan politik Saifuddin sangat merugikan. Beliau mula ditampilkan pada PRU 2008 sebagai reformis dalaman UMNO yang berintelek. Selepas meninggalkan UMNO, beliau menyertai PKR, dan kemudian berpindah ke Bersatu. Malangnya, imej intelek dan reformis yang dibina sebelum ini terhakis secara beransur-ansur. 
 
 Apabila Bersatu berdepan krisis kepimpinan dan hala tuju seperti sekarang, pilihan ruang politik beliau menjadi sangat terhad.
 
 **Farhan:** Baik YB, perbincangan yang amat padat untuk episod kali ini. Terima kasih YB.
 
-**Rafizi Ramli:** Terima kasih semua. Selamat malam dan Assalamualaikum.
+**Rafizi:** Terima kasih semua. Selamat malam dan Assalamualaikum.
 
 **Farhan:** Selamat malam dan bye-bye.

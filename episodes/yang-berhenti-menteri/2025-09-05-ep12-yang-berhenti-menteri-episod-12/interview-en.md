@@ -8,7 +8,7 @@ duration_seconds: 7321
 duration: 2h 2m
 view_count: 38990
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Aiman
 topics:
@@ -20,7 +20,7 @@ topics:
 - Petronas & Sarawak Oil Royalty
 - Youth Age Limit Policy
 - Teacher Training and Education System Reform
-summary: In episode 12 of the Yang Berhenti Menteri Podcast, Rafizi Ramli and co-host
+summary: In episode 12 of the Yang Berhenti Menteri Podcast, Rafizi and co-host
   Aiman discuss parliamentary developments, economic policies, and major public issues.
   Rafizi shares insights on backbencher concerns regarding the Urban Renewal Act (URA)
   and the hasty passing of the Government Procurement Bill (RUU Perolehan), system
@@ -36,121 +36,121 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** Peace be upon you and welcome to Episode 12 of the *Yang Berhenti Menteri* Podcast. How is everyone doing? For those still tuned in with us, tap the screen and fill up our comment section. It's been a while since I last met YB Rafizi.
 
-**Rafizi Ramli:** Lucky I didn't just get fired. Praise be to God.
+**Rafizi:** Lucky I didn't just get fired. Praise be to God.
 
 **Host:** But YB, since it's been a long time since I last saw you, I want to ask a question. Asking "how are you" is very mainstream. So I want to ask, on your diet and weight loss journey, how much weight have you actually lost since I last saw you?
 
-**Rafizi Ramli:** That's a personal question. End of topic! [laughs] That wasn't in the script and wasn't discussed.
+**Rafizi:** That's a personal question. End of topic! [laughs] That wasn't in the script and wasn't discussed.
 
 **Host:** But is the progress good, YB?
 
-**Rafizi Ramli:** Not as good as before, but for someone who's suffered a heart attack, actually it's not bad. The discipline is good. I went jogging before this podcast, you know.
+**Rafizi:** Not as good as before, but for someone who's suffered a heart attack, actually it's not bad. The discipline is good. I went jogging before this podcast, you know.
 
 **Host:** Just now too?
 
-**Rafizi Ramli:** Yes.
+**Rafizi:** Yes.
 
 **Host:** Okay, YB. We have a new format this time, and we'll try to keep it a bit short and sweet. I don't want to talk too much either. Okay, let's head straight to our first segment, "Beria Mat" [Over the Top]. This segment is simple: I'll show a picture, and YB has to comment whether it's over the top or not. Okay, next up, YB.
 
-**Rafizi Ramli:** Of course everything you put here is over the top.
+**Rafizi:** Of course everything you put here is over the top.
 
 **Host:** But your standards are high, YB; I'm worried some might not measure up. Okay, first. What do you see, YB?
 
-**Rafizi Ramli:** I wasn't in Parliament at the time, I just read about it. Then it went viral for a bit—Wan Fayhsal wanted to change the name of the flower. I have a better suggestion. He was definitely being over the top. If you ask whether it's over the top or not, it definitely is. It was in Parliament, right? But I have a better suggestion. Rather than asking to change the name of the Rafflesia—the flower's name—isn't his party the "Flower Party"? They might as well just take that flower and change Bersatu's hibiscus logo to elevate the Rafflesia. I suggest Wan Fayhsal just bring it up in a Bersatu meeting, no need to bring it to Parliament. To elevate the Rafflesia, just replace Bersatu's hibiscus logo with the Rafflesia flower.
+**Rafizi:** I wasn't in Parliament at the time, I just read about it. Then it went viral for a bit—Wan Fayhsal wanted to change the name of the flower. I have a better suggestion. He was definitely being over the top. If you ask whether it's over the top or not, it definitely is. It was in Parliament, right? But I have a better suggestion. Rather than asking to change the name of the Rafflesia—the flower's name—isn't his party the "Flower Party"? They might as well just take that flower and change Bersatu's hibiscus logo to elevate the Rafflesia. I suggest Wan Fayhsal just bring it up in a Bersatu meeting, no need to bring it to Parliament. To elevate the Rafflesia, just replace Bersatu's hibiscus logo with the Rafflesia flower.
 
 **Host:** Okay, so it's quite over the top then.
 
-**Rafizi Ramli:** Definitely over the top! Hey, you guys should have a scoring system for over-the-top antics. So how much should I give this one? Let's comment first, and at the end we'll give the scores for which one is the most over the top or whatever.
+**Rafizi:** Definitely over the top! Hey, you guys should have a scoring system for over-the-top antics. So how much should I give this one? Let's comment first, and at the end we'll give the scores for which one is the most over the top or whatever.
 
 **Host:** Okay.
 
-**Rafizi Ramli:** So for the scoring, people can watch and comment, then I'll give my score. Let's say one to five. Five is insanely over the top. One means it shouldn't even be here because it's not over the top enough. Right, right.
+**Rafizi:** So for the scoring, people can watch and comment, then I'll give my score. Let's say one to five. Five is insanely over the top. One means it shouldn't even be here because it's not over the top enough. Right, right.
 
 **Host:** Okay, ready for the next one, YB? Okay, Pay Forward.
 
-**Rafizi Ramli:** Ah, the Pay Forward one. Over the top, over the top, over the top.
+**Rafizi:** Ah, the Pay Forward one. Over the top, over the top, over the top.
 
 **Host:** What do you see, YB?
 
-**Rafizi Ramli:** I see eggs, I see the Chief Minister and the Deputy President of PKR doing a publicity stunt going grocery shopping at a store. I don't know how many times a year he actually goes grocery shopping like this. Shopping like this is over the top. This is about Izzah asking PKR elected representatives to give RM100. I don't actually think any PKR representative intended to use that RM100 MySara just to film a video. Otherwise, it's really embarrassing—all these older folks queuing up, then paying with RM100 using their IC. So yes, the intention was eager to ask for this RM100 to be given to those in need. That's good, but it's a given. Supposedly, if I were Izzah, or Amir or whoever, the issue for politicians regarding this should be more about: if from the start when planning these hand-outs and gifts for the people, those who are already rich don't need to be given any. With enough data, give the poor, the B40, the M40 maybe RM200 or RM300 each, take it away from MPs or people who are already rich. So Izzah wouldn't need to push so hard telling all the MPs to give. If I were an ordinary citizen, I'd say "you could have settled this from the start." So when it turns out like this, people will just say it's a stunt. Just a stunt. Quite over the top.
+**Rafizi:** I see eggs, I see the Chief Minister and the Deputy President of PKR doing a publicity stunt going grocery shopping at a store. I don't know how many times a year he actually goes grocery shopping like this. Shopping like this is over the top. This is about Izzah asking PKR elected representatives to give RM100. I don't actually think any PKR representative intended to use that RM100 MySara just to film a video. Otherwise, it's really embarrassing—all these older folks queuing up, then paying with RM100 using their IC. So yes, the intention was eager to ask for this RM100 to be given to those in need. That's good, but it's a given. Supposedly, if I were Izzah, or Amir or whoever, the issue for politicians regarding this should be more about: if from the start when planning these hand-outs and gifts for the people, those who are already rich don't need to be given any. With enough data, give the poor, the B40, the M40 maybe RM200 or RM300 each, take it away from MPs or people who are already rich. So Izzah wouldn't need to push so hard telling all the MPs to give. If I were an ordinary citizen, I'd say "you could have settled this from the start." So when it turns out like this, people will just say it's a stunt. Just a stunt. Quite over the top.
 
 **Host:** Over the top. Okay, over the top. Okay, next.
 
-**Rafizi Ramli:** Does it really need your soundtrack?
+**Rafizi:** Does it really need your soundtrack?
 
 **Host:** Soundtrack. Did you notice, YB?
 
-**Rafizi Ramli:** Ah, I remember, I know, I know. Okay, he's not just extra, he's over the top. Once you're caught red-handed, you're caught; no need to spin things around. It's nothing new now; Facebook has shown edit histories for a long time. Once you're caught red-handed, trying to spin it is just super over the top.
+**Rafizi:** Ah, I remember, I know, I know. Okay, he's not just extra, he's over the top. Once you're caught red-handed, you're caught; no need to spin things around. It's nothing new now; Facebook has shown edit histories for a long time. Once you're caught red-handed, trying to spin it is just super over the top.
 
 **Host:** Manipulated, YB. Manipulated.
 
-**Rafizi Ramli:** So the one at fault is the person who pointed out that he edited it, his initial comment. He went out of his way writing a long post, when it was actually quite straightforward. Ha, this is the kind of behavior in our society—in his head, everything in this world is the fault of the Chinese. If his beard turned white like mine, I bet that would be the fault of the Chinese too. So he really went out of his way trying to cover up after getting caught. But I hope this serves as a lesson to everyone after this. Don't do things like this anymore because netizens nowadays are diligent. Netizens were also extra enough to go check his history. Double over the top! Double over the top. Okay, anything else?
+**Rafizi:** So the one at fault is the person who pointed out that he edited it, his initial comment. He went out of his way writing a long post, when it was actually quite straightforward. Ha, this is the kind of behavior in our society—in his head, everything in this world is the fault of the Chinese. If his beard turned white like mine, I bet that would be the fault of the Chinese too. So he really went out of his way trying to cover up after getting caught. But I hope this serves as a lesson to everyone after this. Don't do things like this anymore because netizens nowadays are diligent. Netizens were also extra enough to go check his history. Double over the top! Double over the top. Okay, anything else?
 
 **Host:** There's more, YB. Okay, last one, I think. Ah, here it is. Did you notice, YB?
 
-**Rafizi Ramli:** Which one is this?
+**Rafizi:** Which one is this?
 
 **Host:** This...
 
-**Rafizi Ramli:** This is the one whose bald head looks like mine.
+**Rafizi:** This is the one whose bald head looks like mine.
 
 **Host:** He's an influencer, YB. He made what do we call it...
 
-**Rafizi Ramli:** A flotilla.
+**Rafizi:** A flotilla.
 
 **Host:** A flotilla. There's a house on top, a car underneath. Then floating, floating, floating, suddenly got arrested by the Terengganu Maritime Enforcement Agency.
 
-**Rafizi Ramli:** He was swimming?
+**Rafizi:** He was swimming?
 
 **Host:** He wasn't swimming, he was floating.
 
-**Rafizi Ramli:** So the flotilla moved?
+**Rafizi:** So the flotilla moved?
 
 **Host:** It moved. Okay.
 
-**Rafizi Ramli:** Extremely over the top. Who is this guy? An influencer?
+**Rafizi:** Extremely over the top. Who is this guy? An influencer?
 
 **Host:** An influencer. I don't remember his name. This was done to make content.
 
-**Rafizi Ramli:** To make content. But that's the thing—he got arrested presumably because it was dangerous or he didn't have a license.
+**Rafizi:** To make content. But that's the thing—he got arrested presumably because it was dangerous or he didn't have a license.
 
 **Host:** But it was worth it, YB, it attracted attention. Nowadays it's not easy to get that.
 
-**Rafizi Ramli:** Hm, I don't know what this is for, to get YouTube payouts. Don't know whose car that is. Be careful because of climate change now. Going all out doing this, if a wave comes or a tsunami... But yeah, whether you're an influencer or whatever, we still have laws, we still have regulations. Just like the Manjoi Assemblyman earlier, if you want to comment or whatever, or things like this, let's not become a society that does everything just for content. Recently, this is one example of someone going over the top to do this. But if we look at it from the perspective of doing things for content, we had a case two weeks ago where an English teacher was brought to court...
+**Rafizi:** Hm, I don't know what this is for, to get YouTube payouts. Don't know whose car that is. Be careful because of climate change now. Going all out doing this, if a wave comes or a tsunami... But yeah, whether you're an influencer or whatever, we still have laws, we still have regulations. Just like the Manjoi Assemblyman earlier, if you want to comment or whatever, or things like this, let's not become a society that does everything just for content. Recently, this is one example of someone going over the top to do this. But if we look at it from the perspective of doing things for content, we had a case two weeks ago where an English teacher was brought to court...
 
 **Host:** Yes, yes, yes.
 
-**Rafizi Ramli:** ...for making content. In Parliament, it was informed that regarding her content fabricating the story about the late Zara being put into a washing machine, when asked, we were informed her answer was that she wanted to make content. So yeah, this culture of going over the top to create content is fine, but first, we still have laws, and second, we have common sense. Don't let it inconvenience people, spread fake stories, or in this case, needlessly add work for enforcement officers who ended up having to tow him, take pictures, and so on. But I hope it was worth it.
+**Rafizi:** ...for making content. In Parliament, it was informed that regarding her content fabricating the story about the late Zara being put into a washing machine, when asked, we were informed her answer was that she wanted to make content. So yeah, this culture of going over the top to create content is fine, but first, we still have laws, and second, we have common sense. Don't let it inconvenience people, spread fake stories, or in this case, needlessly add work for enforcement officers who ended up having to tow him, take pictures, and so on. But I hope it was worth it.
 
 **Host:** Worth it. Okay YB, I think that's all. So all of them pass the over-the-top score.
 
-**Rafizi Ramli:** For me, I'm a bit stingy, a bit strict. So based on a score of one to five, the highest score—a four—goes to this one. Truly over the top. Then which other ones were there?
+**Rafizi:** For me, I'm a bit stingy, a bit strict. So based on a score of one to five, the highest score—a four—goes to this one. Truly over the top. Then which other ones were there?
 
 **Host:** Ah, let's go back.
 
-**Rafizi Ramli:** Ah, okay. Second place, with scores of three each, we give to Hafiz Sabri and also to Wafari. Quite over the top, right? And okay, Izzah and Amir, well, they wanted to make content too, going over the top to make content. But their content invited all sorts of comments, so we'll give them a two.
+**Rafizi:** Ah, okay. Second place, with scores of three each, we give to Hafiz Sabri and also to Wafari. Quite over the top, right? And okay, Izzah and Amir, well, they wanted to make content too, going over the top to make content. But their content invited all sorts of comments, so we'll give them a two.
 
 **Host:** Okay, clear YB. So next week there'll be more for the audience.
 
-**Rafizi Ramli:** There'll be more. Make sure you guys go find ones that are really over the top.
+**Rafizi:** There'll be more. Make sure you guys go find ones that are really over the top.
 
 **Host:** Leave a comment if you have any, okay. If there's anything over the top, you can send it to us. Okay YB, let's move on to the next segment: Standing Order. Have you heard of Standing Order, YB? What is Standing Order actually about?
 
-**Rafizi Ramli:** Parliament, of course. Standing Orders, Standing Orders. Especially now. Back during my first term when we were in opposition, I rarely stood up on Standing Orders. Because in my view, if Standing Orders are used repeatedly, it wastes parliamentary time. Parliament is for debating substantive matters. Recently, I notice what's being debated are Standing Orders. Every little thing is "misleading the house", every little thing "misleading the house", especially from the opposition. So if I were an ordinary citizen watching parliament, I'd say, "Our representatives have a problem, they get confused easily. Every little thing, Standing Order." So what is this about? Parliament commentary? So the second segment is about Parliament.
+**Rafizi:** Parliament, of course. Standing Orders, Standing Orders. Especially now. Back during my first term when we were in opposition, I rarely stood up on Standing Orders. Because in my view, if Standing Orders are used repeatedly, it wastes parliamentary time. Parliament is for debating substantive matters. Recently, I notice what's being debated are Standing Orders. Every little thing is "misleading the house", every little thing "misleading the house", especially from the opposition. So if I were an ordinary citizen watching parliament, I'd say, "Our representatives have a problem, they get confused easily. Every little thing, Standing Order." So what is this about? Parliament commentary? So the second segment is about Parliament.
 
 **Host:** Yes, parliamentary issues because the Dewan Rakyat just concluded last week. So let's look at a few highlights of what happened, okay.
 
-**Rafizi Ramli:** I didn't skip, I was there. Now Parliament is tough because they display attendance.
+**Rafizi:** I didn't skip, I was there. Now Parliament is tough because they display attendance.
 
 **Host:** Yes, Aiman.
 
 **Host (Aiman):** Okay, one question YB. I'll try to keep it short and concise. Back when you were in government, as a Minister, you gave speeches about the benefits of this URA [Urban Renewal Act]. You explained and supported it. Now, many MPs associated with you—YB Nik Nazmi, YB Rodziah...
 
-**Rafizi Ramli:** Associated. Just say my friends in Parliament.
+**Rafizi:** Associated. Just say my friends in Parliament.
 
 **Host (Aiman):** Your friends in Parliament are opposing it and advocating for it to be postponed. Have you changed your stance or is it the same?
 
-**Rafizi Ramli:** No. That also needs to be corrected. I think the views of MPs like Subang, Ampang, Wangsa Maju, Gopeng, then Nik, and my view—I believe Nik and I held the same view when we were in parliament and government before. For those asking about our time in government: the process for any law has two stages at the government level. One is the policy decision stage. The policy decisions that we were part of, because the detailed bill came after Nik and I were no longer in the cabinet. So what we participated in was during the policy decision.
+**Rafizi:** No. That also needs to be corrected. I think the views of MPs like Subang, Ampang, Wangsa Maju, Gopeng, then Nik, and my view—I believe Nik and I held the same view when we were in parliament and government before. For those asking about our time in government: the process for any law has two stages at the government level. One is the policy decision stage. The policy decisions that we were part of, because the detailed bill came after Nik and I were no longer in the cabinet. So what we participated in was during the policy decision.
 
 So we have to ask that question: on principle, do we need improvements to facilitate urban redevelopment? Yes. Because, for instance, if we don't have specific laws to facilitate and protect the interests of all involved parties, maybe in other areas it's not felt as much. But in Kuala Lumpur, urban areas in Penang, parts of Johor, and elsewhere—even in opposition-held states like Kedah and Kuala Terengganu—our urban areas will continue to age.
 
@@ -182,15 +182,15 @@ So, praise be to God [alhamdulillah]. I hope after this, listen to them and cons
 
 **Host (Aiman):** So there are some elements of being a rubber stamp here.
 
-**Rafizi Ramli:** Ah, that's it. For other things too, my advice is to take time. I recall drafting two bills during my two years. We took our time; for instance with CCS [Carbon Capture and Storage], we sat down for months. Otherwise, backbenchers will feel like, "So what do you want us to do? If we don't support it, you get angry, but you don't give us a chance. If first reading is today and second reading is tomorrow, when are we supposed to give feedback?"
+**Rafizi:** Ah, that's it. For other things too, my advice is to take time. I recall drafting two bills during my two years. We took our time; for instance with CCS [Carbon Capture and Storage], we sat down for months. Otherwise, backbenchers will feel like, "So what do you want us to do? If we don't support it, you get angry, but you don't give us a chance. If first reading is today and second reading is tomorrow, when are we supposed to give feedback?"
 
 **Host (Aiman):** Alright, clear, spot on. Next up, YB.
 
-**Rafizi Ramli:** Hmm, anything else?
+**Rafizi:** Hmm, anything else?
 
 **Host (Aiman):** One more. The Government Procurement Bill. PN says this centralizes power in the Minister of Finance. The Second Minister of Finance says this decentralizes power away from the Minister of Finance. Which one is right and which one is wrong?
 
-**Rafizi Ramli:** Haha, actually depending on which perspective you look at it. Okay. But before I comment on that question, let me share the origins of this Procurement Bill. Because what was highlighted—and I recall even the Second Minister of Finance, when answering, read a text prepared by officers. Civil servants, well, they can't touch on politics. That's why when I was a minister, I wrote my own speeches, you know. What I spoke contained inputs I examined, but the final framing of my speech was mine, not an officer's. Officers' speeches can't touch on those things.
+**Rafizi:** Haha, actually depending on which perspective you look at it. Okay. But before I comment on that question, let me share the origins of this Procurement Bill. Because what was highlighted—and I recall even the Second Minister of Finance, when answering, read a text prepared by officers. Civil servants, well, they can't touch on politics. That's why when I was a minister, I wrote my own speeches, you know. What I spoke contained inputs I examined, but the final framing of my speech was mine, not an officer's. Officers' speeches can't touch on those things.
 
 That's why the primary context of this Procurement Bill wasn't effectively communicated to the public due to weaknesses in government communication. Why do we actually need a Procurement Bill? People ask, every time leakages occur, every year there's the Auditor-General's Report. There's this issue, that issue, and so on. Investigate, investigate, investigate, no one is found guilty. At best, disciplinary action. Why? Because we don't have a law establishing accountability regarding government procurement. What exists are circulars. Circulars are essentially SOPs, processes.
 
@@ -218,21 +218,21 @@ I hope—though nothing can be done now, the bill was passed that day. When it c
 
 **Host (Aiman):** PKR as well, or...
 
-**Rafizi Ramli:** Yes, and other parties too. Oji, yeah. So my view that day was, once it reached the second reading stage, the dilemma fell on the MPs. It should be the government's duty not to put MPs (regardless of party) in a dilemma. Because if I said abstain or don't support, that would be unfair to the civil servants who worked tirelessly on this bill. And that wouldn't reflect my actual stance on the Procurement Bill, which I genuinely support.
+**Rafizi:** Yes, and other parties too. Oji, yeah. So my view that day was, once it reached the second reading stage, the dilemma fell on the MPs. It should be the government's duty not to put MPs (regardless of party) in a dilemma. Because if I said abstain or don't support, that would be unfair to the civil servants who worked tirelessly on this bill. And that wouldn't reflect my actual stance on the Procurement Bill, which I genuinely support.
 
 If planning at the Ministry of Finance level were better, if you want to present something like this, plan it properly. Take 4–5 months, put down the first reading first, gather everyone's views, don't bulldoze. Because in that final parliamentary week, government MPs and backbenchers were in a dilemma. We already voiced out on the URA. Then if we voice out on this too because you bulldozed it, people will say you're trying to bring down the government or whatever. It was such a dilemma that could have been avoided if this bill hadn't been bulldozed. When you asked about being a rubber stamp, actually the first thing in my mind wasn't the URA, but the Procurement Bill. I feel like I really was a rubber stamp that day.
 
 **Host (Aiman):** Alright, understood. Okay YB?
 
-**Rafizi Ramli:** I hope when the Speaker hears this, he pauses to reflect like that. So that next time... I know the Speaker has to balance everything. But we are a party of reform, so let's not get to a point where people mock us. In the future, if we talk about parliamentary reform, people will say, "Ah, you guys bulldozed it back then. Something that should have been referred to the Select Committee, you said 'oh no need because we have to wait for a letter'." If you're truly serious, make sure laws aren't bulldozed, each one goes through properly, and then everyone feels they participated fully. And that makes it easier for me so every time there's a vote, people aren't coming left and right asking, "Should we vote or not?"
+**Rafizi:** I hope when the Speaker hears this, he pauses to reflect like that. So that next time... I know the Speaker has to balance everything. But we are a party of reform, so let's not get to a point where people mock us. In the future, if we talk about parliamentary reform, people will say, "Ah, you guys bulldozed it back then. Something that should have been referred to the Select Committee, you said 'oh no need because we have to wait for a letter'." If you're truly serious, make sure laws aren't bulldozed, each one goes through properly, and then everyone feels they participated fully. And that makes it easier for me so every time there's a vote, people aren't coming left and right asking, "Should we vote or not?"
 
 **Host (Aiman):** What did you tell them?
 
-**Rafizi Ramli:** I told them to vote. Because I said we can't abstain, as that would raise unnecessary government-related issues right now. And as I mentioned, if we don't vote or support it, it's unfair to the civil servants who drafted all of this. Because the decision on when to place and bulldoze the first and second readings wasn't the civil servants' decision, but the ministers' decision. Those ministers being Anwar Ibrahim and the Second Minister of Finance.
+**Rafizi:** I told them to vote. Because I said we can't abstain, as that would raise unnecessary government-related issues right now. And as I mentioned, if we don't vote or support it, it's unfair to the civil servants who drafted all of this. Because the decision on when to place and bulldoze the first and second readings wasn't the civil servants' decision, but the ministers' decision. Those ministers being Anwar Ibrahim and the Second Minister of Finance.
 
 **Host (Aiman):** True, true. Worrying, but we need to move to other questions. So on to the next segment. I have to read this: "Life is tough, kid; life is tough, kid." Okay. This segment covers a few current issues that show we're living in a tough world. And I think we face tough lives too. So the first hardship is about getting MYSAHARA, but then the system goes down. So is this meant to burden the people or what, YB?
 
-**Rafizi Ramli:** Well, it goes back to what I said earlier. First, my view differed from the Ministry of Finance's view throughout my time in government. First of all, I don't support us appearing as if "cash is king". I tend to disagree with that. If we want to implement something, it must be structural economic reform in nature. For instance, my view—whether regarding RON95 or SARA—is that people shouldn't actually have to wait and then receive a handout from the government. When announced occasionally like this, of course people will flock in droves.
+**Rafizi:** Well, it goes back to what I said earlier. First, my view differed from the Ministry of Finance's view throughout my time in government. First of all, I don't support us appearing as if "cash is king". I tend to disagree with that. If we want to implement something, it must be structural economic reform in nature. For instance, my view—whether regarding RON95 or SARA—is that people shouldn't actually have to wait and then receive a handout from the government. When announced occasionally like this, of course people will flock in droves.
 
 What I always advocated previously was that our social protection system should be structured better and targeted. Meaning, with data already in PADU, we know the family's situation—their financial standing and dependents. If they qualify for RM300 a month, it goes straight into their bank account every month according to requirements. When we publicly announce handouts to the people, everyone receives it starting August 31st, so naturally people will flock in droves. The government can't say, "Oh, too many people went," because people will reply, "Of course lots of people went."
 
@@ -240,7 +240,7 @@ Then regarding the system—this is another thing the public rarely asks about. 
 
 **Host (Aiman):** The MyKasih system.
 
-**Rafizi Ramli:** Yeah, Yayasan MyKasih is actually a third party. Was this discussed? Because for instance, when we built PADU, the big uproar was about personal data. Yet when we built PADU, that was precisely what we guarded heavily—the confidentiality of citizens' data. Now does this mean... to my knowledge, the MyKasih system isn't a government system built by the government. It's a third-party system being used, meaning the Ministry of Finance collaborates with them. This implies they possess data on every Malaysian.
+**Rafizi:** Yeah, Yayasan MyKasih is actually a third party. Was this discussed? Because for instance, when we built PADU, the big uproar was about personal data. Yet when we built PADU, that was precisely what we guarded heavily—the confidentiality of citizens' data. Now does this mean... to my knowledge, the MyKasih system isn't a government system built by the government. It's a third-party system being used, meaning the Ministry of Finance collaborates with them. This implies they possess data on every Malaysian.
 
 The issue starts right there. Then when the system is a third-party system, how does the government ensure it meets government specifications? So it becomes a long story. That's why when implementation happens like this, there isn't enough bandwidth. When there isn't enough bandwidth, people will ask, "Hey, when you were planning, didn't you think about capacity beforehand?" These questions will arise.
 
@@ -250,7 +250,7 @@ However, the larger question actually is: if we use MYSAHARA and encounter syste
 
 **Host (Aiman):** Okay, for petrol.
 
-**Rafizi Ramli:** ...to purchase RON95 later. I hope the Ministry of Finance is working tirelessly now, because the Prime Minister announced fuel prices will drop in September, right? It's September now. There are also news reports stating that moving forward, subsidized RON95 quotas will be capped—meaning limited to 300, 400, 500 liters a month or whatever. That also requires IC. If MYSAHARA turns out like this, imagine trying to execute it using IC. Because if the system goes down, people can't buy petrol. Long queues forming... good luck to the government. Don't be mad at me, because I've voiced my concerns from the start about using IC and so forth. The balance between cash transfers using PADU giving RM200, RM300, RM400 a month based on family needs versus operational difficulties of executing something via IC. That's why my view remains that direct cash transfers are better.
+**Rafizi:** ...to purchase RON95 later. I hope the Ministry of Finance is working tirelessly now, because the Prime Minister announced fuel prices will drop in September, right? It's September now. There are also news reports stating that moving forward, subsidized RON95 quotas will be capped—meaning limited to 300, 400, 500 liters a month or whatever. That also requires IC. If MYSAHARA turns out like this, imagine trying to execute it using IC. Because if the system goes down, people can't buy petrol. Long queues forming... good luck to the government. Don't be mad at me, because I've voiced my concerns from the start about using IC and so forth. The balance between cash transfers using PADU giving RM200, RM300, RM400 a month based on family needs versus operational difficulties of executing something via IC. That's why my view remains that direct cash transfers are better.
 
 Because if it turns out like this, when it starts disrupting... if you ask petrol stations, their biggest concern is customer experience. You guys are young, you didn't live through the 80s and 90s. Back in our day, older folks had to queue up, pay, and only then return to refuel. Oil companies in Malaysia succeeded in reducing friction and improving customer experience because many now use Setel or cards, refueling themselves. So it's fast. That eases traffic and people don't feel tormented refueling.
 
@@ -258,11 +258,11 @@ Imagine moving forward, having to queue is one thing, having to use a card to va
 
 **Host (Aiman):** What if the government U-turns after hearing comments like this, YB? Is it okay for the government to U-turn?
 
-**Rafizi Ramli:** There won't be a U-turn. I've been hearing this for two years. Is it okay for the government to U-turn? Which U-turn?
+**Rafizi:** There won't be a U-turn. I've been hearing this for two years. Is it okay for the government to U-turn? Which U-turn?
 
 **Host (Aiman):** When they see this, take it as a lesson that RON95 can't be done this way...
 
-**Rafizi Ramli:** I don't see that happening, because from the start the difference of opinion was clear. I don't see it, meaning the Ministry of Finance and Finance Minister are adamant it must be this way. But my warning and reminder: if you proceed, make sure—make sure there are no technical glitches. I have a technical background, worked with systems, built platforms. Technical glitches are real. It's not enough to just attend a meeting where 4–5 people say, "Oh, we tested everything, like this, everything is fine."
+**Rafizi:** I don't see that happening, because from the start the difference of opinion was clear. I don't see it, meaning the Ministry of Finance and Finance Minister are adamant it must be this way. But my warning and reminder: if you proceed, make sure—make sure there are no technical glitches. I have a technical background, worked with systems, built platforms. Technical glitches are real. It's not enough to just attend a meeting where 4–5 people say, "Oh, we tested everything, like this, everything is fine."
 
 Sometimes with systems, during user acceptance testing (UAT) everything is fine, during final acceptance testing (FAT) everything is fine. Once it goes live online, issues pop up. For minor things, that's okay; even for MYSAHARA it's okay because it's a one-off. But for refueling happening every minute nationwide—in rural areas internet coverage is poor, some IC chips don't work. I had to replace my IC twice because the chip didn't work. For people like that, who never used the chip before, suddenly trying to refuel and it can't be read. They won't know if the card reader is faulty or what, then station staff inform them, and suddenly they have to replace their IC.
 
@@ -270,7 +270,7 @@ So once the decision is made—and I don't think the government will U-turn—th
 
 **Host:** Okay YB, MYSAHARA. Now we have another issue: the case of the late Zara Khairina. Regardless of explanations, I think what our public sees is no matter how the government explains or what the inquest says, the public finds it hard to accept. What do you think, YB?
 
-**Rafizi Ramli:** This has been in the news over the past couple of days. I think many Malaysians followed the inquest proceedings. The doctor and pathology expert testifying stated that the likelihood, the probability of the late Zara falling or being pushed was low. It's true that if you look at comments on social media, many people don't believe it. I feel that is unfortunate for our society. This is a challenge for both government and society in this digital media age.
+**Rafizi:** This has been in the news over the past couple of days. I think many Malaysians followed the inquest proceedings. The doctor and pathology expert testifying stated that the likelihood, the probability of the late Zara falling or being pushed was low. It's true that if you look at comments on social media, many people don't believe it. I feel that is unfortunate for our society. This is a challenge for both government and society in this digital media age.
 
 When it reaches a point where even what is explained in legal proceedings isn't believed—and this isn't the government speaking. This is a specialist doctor handling it, who went to inspect, measured the washing machine size, the load capacity, and so on. If our society no longer believes facts, we are in trouble. As an ordinary citizen and a parent, I just want to know the truth. I want to know what actually happened, and the best indications we have are scientific indicators that can paint a picture of what truly transpired that night, not TikTok stories.
 
@@ -280,7 +280,7 @@ When this first happened, I asked friends in Papar. They are ordinary people, no
 
 **Aiman:** Right, understood. But what we might not have noticed is that this issue was a time bomb that exploded. Based on your observation, YB, what were the early symptoms that occurred that we might have missed before it became an exploding time bomb?
 
-**Rafizi Ramli:** I'm not an expert on Indonesia, so I didn't closely follow whether there were early symptoms. As outsiders, we aren't there and aren't part of their populace, so we don't fully comprehend their psychology. Looking at Indonesia's economic growth and performance over the last 20 years, their growth was actually better than Malaysia's. Looking at their GDP and economic size, the graph rose sharply over 20 years compared to Malaysia. From an outsider's lens, Indonesia looked increasingly promising.
+**Rafizi:** I'm not an expert on Indonesia, so I didn't closely follow whether there were early symptoms. As outsiders, we aren't there and aren't part of their populace, so we don't fully comprehend their psychology. Looking at Indonesia's economic growth and performance over the last 20 years, their growth was actually better than Malaysia's. Looking at their GDP and economic size, the graph rose sharply over 20 years compared to Malaysia. From an outsider's lens, Indonesia looked increasingly promising.
 
 However, following developments via TikTok and YouTube over the past week or two, there were several iconic incidents that triggered this. First, clips of DPR-RI (House of Representatives of the Republic of Indonesia) MPs standing up and dancing. That was iconic. Then, comments from MP Ahmad Sahroni labeling those demanding parliament be dissolved as "the dumbest people in the world." The ultimate trigger was when a police vehicle struck and killed the late Affan Kurniawan.
 
@@ -298,7 +298,7 @@ The success in reining in inflation at 1.8% is important so that prices of goods
 
 **Aiman:** Speaking of that wealth issue, one of the main subjects is the perks and salaries of members of parliament. When raised, Malaysian MPs are also targeted with various claims about allowances. At the same time, there are statements such as from the MP for Subang, Wong Chen, who said that current MP salaries are insufficient. We see MP salaries in Singapore, for example, are quite high to prevent corruption. How do we strike the balance between these two?
 
-**Rafizi Ramli:** A good way is to look at the multiplier or ratio of an MP's salary compared to the minimum wage or median wage. In Malaysia, the amount is less than nine times. If the median wage is around RM3,000 and the total salary and allowance of an MP is around RM26,000, it is roughly nine times. In Indonesia, the ratio is much higher.
+**Rafizi:** A good way is to look at the multiplier or ratio of an MP's salary compared to the minimum wage or median wage. In Malaysia, the amount is less than nine times. If the median wage is around RM3,000 and the total salary and allowance of an MP is around RM26,000, it is roughly nine times. In Indonesia, the ratio is much higher.
 
 Second, the reality is that not all these allowances are received by all MPs. Next week, I will show my payslip as an MP. During July, my first full month as an MP, my salary plus allowances was around RM26,000. After deducting contributions to PKR of around RM4,000, I received RM22,000. My August salary was down to RM17,000 because PKR deducted close to RM9,000. 
 
@@ -316,15 +316,15 @@ If planning at the Ministry of Finance level were better, take 4 to 5 months aft
 
 **Aiman:** Right, understood.
 
-**Rafizi Ramli:** I hope the Speaker will think about this when he hears it. We are a reformist party; let's not let people mock us. In the future, if we talk about parliamentary reform but we bulldoze laws without referring them to the Special Select Committee (JKPK), people will question our credibility. Ensure every law is processed properly so that all parties feel they have participated well, and make it easy for me so that every time there is a vote, no one has to ask about my stance.
+**Rafizi:** I hope the Speaker will think about this when he hears it. We are a reformist party; let's not let people mock us. In the future, if we talk about parliamentary reform but we bulldoze laws without referring them to the Special Select Committee (JKPK), people will question our credibility. Ensure every law is processed properly so that all parties feel they have participated well, and make it easy for me so that every time there is a vote, no one has to ask about my stance.
 
 **Aiman:** What did you tell them at the time, YB?
 
-**Rafizi Ramli:** I asked them to vote in support. Because if they didn't support it, it would raise government stability issues that are not needed right now. And as I mentioned, it would be unfair to the civil servants. The decision to bulldoze the first and second readings was not the decision of civil servants, but the decision of ministers, namely Anwar Ibrahim and the Second Finance Minister.
+**Rafizi:** I asked them to vote in support. Because if they didn't support it, it would raise government stability issues that are not needed right now. And as I mentioned, it would be unfair to the civil servants. The decision to bulldoze the first and second readings was not the decision of civil servants, but the decision of ministers, namely Anwar Ibrahim and the Second Finance Minister.
 
 **Aiman:** That's right. Moving on to the next segment, "Life Is Tough, Kid." This segment is about several current issues. The first issue is when MYSAHARA was received, its system went down. Is this inconveniencing the public or how, YB?
 
-**Rafizi Ramli:** My views have indeed differed from the Ministry of Finance throughout my time in government. First, I do not support us being seen as "cash is king." What we do must be structural economic reforms. 
+**Rafizi:** My views have indeed differed from the Ministry of Finance throughout my time in government. First, I do not support us being seen as "cash is king." What we do must be structural economic reforms. 
 
 My view, both regarding RON95 and the SARA program, is that it does not need to be done through periodic prize-like announcements that cause the public to flock together in anticipation. The view I proposed previously was that our social protection system should be implemented in a targeted manner using the data in PADU. If a family is eligible to receive RM300 a month based on their financial position and dependents, that payment should go directly into their bank account every month according to the conditions. When we make a simultaneous announcement, people will naturally flock together, and the government cannot be surprised at why it happens.
 
@@ -342,13 +342,13 @@ The lesson from this SARA issue must be taken into account by the government bef
 
 **Aiman:** What if the government U-turns after hearing comments like these? Is it okay for the government to U-turn?
 
-**Rafizi Ramli:** I don't see the government U-turning because the Ministry of Finance and the Finance Minister are insisting on this method. My reminder is simply, if you want to proceed, make sure no technical glitches occur. 
+**Rafizi:** I don't see the government U-turning because the Ministry of Finance and the Finance Minister are insisting on this method. My reminder is simply, if you want to proceed, make sure no technical glitches occur. 
 
 As someone with a technical background who has developed platforms, technical glitches are a reality. Meetings and assurances from testing are not enough. Sometimes during User Acceptance Testing (UAT) and Final Acceptance Testing (FAT) everything is OK, but when the system operates online on a large scale, problems can still arise. For daily matters like refueling across the country—including rural areas where internet coverage is unsatisfactory—any disruption will cause big problems. Once a decision has been made, the government must ensure it runs smoothly.
 
 **Aiman:** Right, clear YB. We have the next question from the "Asking Too Much" segment from viewers. First from Aiman: "Sarawak has only received RM49 billion since 1975, whereas 95% of oil and gas revenues go to Petronas. Is this fair?"
 
-**Rafizi Ramli:** This is why facts matter. The assumption that 95% of oil and gas revenues go to Petronas is based on Production Sharing Contracts (PSC). Every oil block has a PSC that sets a 5% royalty for Sarawak and 5% for the Federal Government. 
+**Rafizi:** This is why facts matter. The assumption that 95% of oil and gas revenues go to Petronas is based on Production Sharing Contracts (PSC). Every oil block has a PSC that sets a 5% royalty for Sarawak and 5% for the Federal Government. 
 
 The remaining 90% covers various other costs. What is not mentioned is how many hundreds of billions Petronas has spent to develop infrastructure and the oil industry in Sabah and Sarawak. All those facilities involve huge costs and are not free.
 
@@ -356,13 +356,13 @@ Petronas also has partners in those PSCs. The profits earned by Petronas are ult
 
 **Aiman:** The next question is from Amir: "Youth age limit of 30 years: real reform or a subtle way of removing the mature generation?"
 
-**Rafizi Ramli:** I am not from a youth association, and this age limit issue is sensitive in PKR. But looking ahead, public life expectancy is increasing—currently around 72 to 73 years, and it might reach 80 years in 10 years' time. My generation (Gen-X) is expected to live up to 90 years due to better healthcare quality.
+**Rafizi:** I am not from a youth association, and this age limit issue is sensitive in PKR. But looking ahead, public life expectancy is increasing—currently around 72 to 73 years, and it might reach 80 years in 10 years' time. My generation (Gen-X) is expected to live up to 90 years due to better healthcare quality.
 
 If life expectancy increases up to 90 years, what is the appropriate definition of youth? Could the youth age limit need to take into account average life expectancy? In the past, when the age limit was set, the average life expectancy was perhaps around 60 years, where 40 years old was already considered middle age. Now middle age is around 45 to 50 years. This is something that needs to be thought through from a policy perspective.
 
 **Aiman:** Question from Sufi Fauzi: "Why does YB Rafizi so rarely comment on or mention health financing or health issues from an economic perspective? Is the health issue in Malaysia a structural problem or an implementation problem?"
 
-**Rafizi Ramli:** First, because it is a very complex problem and there is no silver bullet. My academic view—which may be less popular with netizens—is that the existing healthcare system in Malaysia is actually good. The question is whether we can sustain it to ensure this system remains sustainable in the future.
+**Rafizi:** First, because it is a very complex problem and there is no silver bullet. My academic view—which may be less popular with netizens—is that the existing healthcare system in Malaysia is actually good. The question is whether we can sustain it to ensure this system remains sustainable in the future.
 
 If we look at other countries, their models lie at two extreme ends. One is the model like the National Health Service (NHS) in the UK, where 100% is funded by the government through taxes. When I worked in the UK for four years, I paid around 10% of my salary for National Health Insurance. But I never used it because the waiting list to see a general practitioner (GP) or specialist was too long. When a system is 100% funded by taxpayers, costs become too high and waiting lists become extremely long.
 
@@ -378,7 +378,7 @@ Regarding the question of whether it is a structural or implementation problem, 
 
 **Aiman:** The next question is from Kenneth: "GE16: Azmin Ali predicts that there will be a GE in the near future. Your views, YB?"
 
-**Rafizi Ramli:** The opposition anywhere will naturally play up the narrative that parliament will be dissolved early. There are two objectives: first, to build a narrative that the existing government is weak and will not last long. Second, to motivate and prepare their party machinery earlier. Back when PKR was in opposition, we did the same thing too.
+**Rafizi:** The opposition anywhere will naturally play up the narrative that parliament will be dissolved early. There are two objectives: first, to build a narrative that the existing government is weak and will not last long. Second, to motivate and prepare their party machinery earlier. Back when PKR was in opposition, we did the same thing too.
 
 However, in terms of records and administrative practice, a Prime Minister will usually serve until the end of the 5-year term—just like Datuk Seri Najib Razak did previously. When someone holds governing power, there is no reason to shorten that period simply due to pressure.
 
@@ -386,7 +386,7 @@ In addition, based on government administrative experience, reports from governm
 
 **Host:** Alright YB, the next question is from Aiman. Sarawak has only received RM49 billion since 1975, whereas 95% of oil and gas revenues go to Petronas. Is this fair?
 
-**Rafizi Ramli:** That is why facts are important. It is easy to hold differing views if we take half-baked figures. The view that 95% of oil and gas revenues go to Petronas is based on the Production Sharing Contract (PSC) agreement. Every single block has its own PSC, and the PSC has stipulated that royalties to Sarawak are 5%, while royalties to the Federal Government are 5%. The remaining 90% is for other costs. 
+**Rafizi:** That is why facts are important. It is easy to hold differing views if we take half-baked figures. The view that 95% of oil and gas revenues go to Petronas is based on the Production Sharing Contract (PSC) agreement. Every single block has its own PSC, and the PSC has stipulated that royalties to Sarawak are 5%, while royalties to the Federal Government are 5%. The remaining 90% is for other costs. 
 
 What is not mentioned regarding the 95% said to go to Petronas is how many hundreds of billions have been spent to develop the oil industry in Sabah and Sarawak. Building all these facilities involves enormous costs; it is not free. So Petronas has to deduct those costs. After deducting, and with partners and that split, ultimately a portion of Petronas's profits is returned to Sarawak through Federal Government allocations. 
 
@@ -394,7 +394,7 @@ I am not saying it is wrong for Sarawak to have more of a say, or to have the ri
 
 **Host:** Sorry Aiman, you were chosen by YB Rafizi to be roasted in this week's session. Next, a question from Amir: "Youth age limit of 30 years. Real reform or a subtle way of removing the mature generation?"
 
-**Rafizi Ramli:** I am not part of the youth crowd and have never been involved in youth associations. I don't want to comment further on whether 30 years is suitable or not. Besides, the question regarding this age limit is quite sensitive in PKR—remember the issue with Kamil's age limit back then to pass his age limit. 
+**Rafizi:** I am not part of the youth crowd and have never been involved in youth associations. I don't want to comment further on whether 30 years is suitable or not. Besides, the question regarding this age limit is quite sensitive in PKR—remember the issue with Kamil's age limit back then to pass his age limit. 
 
 There is just one thing we might need to look ahead to: public life expectancy is increasing. If current average life expectancy is around 72 or 73 years, maybe in 10 years it will reach 80 years. Like I mentioned before, people like me from Gen-X, due to better quality of health and standard of living, are expected to live up to 90 years. In fact, in China, discussions between President Xi Jinping, Putin, and Kim Jong Un jokingly remarked that after this, humans could live up to 150 years. 
 
@@ -402,7 +402,7 @@ So returning to this 30-year youth age limit: if life expectancy reaches 90 year
 
 **Host:** Next question from Kenneth Menon: "YB Rafizi, our education system has been declining since the late 90s. In the past, a teaching career was considered a noble profession. How can we bring back that sense of pride? Is teacher training the main key or are there other more pressing reforms?"
 
-**Rafizi Ramli:** I was briefly a teacher during summer holidays, and my sister as well as many of my cousins are teachers. Yesterday I met with Datuk Seri Aminuddin, the Chief Minister of Negeri Sembilan; we are family friends and his wife is also a former teacher. There are various views and feedback regarding the teaching profession. I don't think anyone questions, whether back then or now, that teaching is a noble profession. I always repeat that the future of a country begins in the classroom. I don't think anyone questions the contribution of teachers. 
+**Rafizi:** I was briefly a teacher during summer holidays, and my sister as well as many of my cousins are teachers. Yesterday I met with Datuk Seri Aminuddin, the Chief Minister of Negeri Sembilan; we are family friends and his wife is also a former teacher. There are various views and feedback regarding the teaching profession. I don't think anyone questions, whether back then or now, that teaching is a noble profession. I always repeat that the future of a country begins in the classroom. I don't think anyone questions the contribution of teachers. 
 
 Regarding Kenneth's question on how we can bring back that sense of pride—does that mean teachers today do not feel proud—from my work at the Ministry of Economy while preparing RMK-13, which involved many focus groups with teachers, as well as conversations with my own former teachers, I think they are very proud of being a teacher.
 
@@ -422,8 +422,8 @@ Then, only then if you fix the asset, then you can sweat the asset. When we maxi
 
 **Host:** All right YB, clear. Thank you to YB for speaking for up to two hours.
 
-**Rafizi Ramli:** I just did the talking. It's actually fun with no other panelists; two hours just by myself. How many calories have been burned?
+**Rafizi:** I just did the talking. It's actually fun with no other panelists; two hours just by myself. How many calories have been burned?
 
 **Host:** All right, that's all from us. I think next week will be even hotter because YB will be sharing his payslip and various other things we are looking forward to. Good night everyone, sleep tight.
 
-**Rafizi Ramli:** Sleep tight? Sleep tight... Is this a greeting to a girlfriend or what?
+**Rafizi:** Sleep tight? Sleep tight... Is this a greeting to a girlfriend or what?

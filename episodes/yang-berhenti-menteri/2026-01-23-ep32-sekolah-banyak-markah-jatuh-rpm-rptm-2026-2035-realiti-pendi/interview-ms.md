@@ -9,7 +9,7 @@ duration_seconds: 10466
 duration: 2h 54m
 view_count: 126786
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Haziq
 topics:
@@ -19,7 +19,7 @@ topics:
 - Khairy Jamaluddin's potential political comeback
 - Ong Kian Ming's lobbying efforts
 - Cultural sensitivity and corporate branding
-summary: In this 32nd episode, Rafizi Ramli and his moderator, Haziq, discuss several
+summary: In this 32nd episode, Rafizi and his moderator, Haziq, discuss several
   contemporary issues in Malaysia, including the challenges faced by civil servants
   participating in political podcasts, the political discourse surrounding local rice
   supply and the UMNO-era legacy, the political aspirations of Khairy Jamaluddin and
@@ -30,87 +30,87 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Selamat datang ke episod ke-32 kita. Seperti biasa, saya Rafizi Ramli. Minggu ini kita membincangkan beberapa topik berat, tetapi jangan risau, kita ada segmen hiburan di hujung nanti. Kita akan mulakan dengan perbincangan serius, kemudian beralih kepada pendidikan dan ekonomi, dan akhirnya, segmen hiburan kita.
+**Rafizi:** Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Selamat datang ke episod ke-32 kita. Seperti biasa, saya Rafizi. Minggu ini kita membincangkan beberapa topik berat, tetapi jangan risau, kita ada segmen hiburan di hujung nanti. Kita akan mulakan dengan perbincangan serius, kemudian beralih kepada pendidikan dan ekonomi, dan akhirnya, segmen hiburan kita.
 
 **Speaker 2:** Segmen hiburan itu berkaitan dengan Syamsul Iskandar. YB cuba merahsiakan tetamu kita untuk malam ini.
 
-**Rafizi Ramli:** Baiklah, tetapi sebelum itu, YB.
+**Rafizi:** Baiklah, tetapi sebelum itu, YB.
 
 **Speaker 2:** Adakah berita mengejutkan?
 
-**Rafizi Ramli:** Ya, berita mengejutkan. Lihat foto itu—itu bukan foto awak menangis, bukan?
+**Rafizi:** Ya, berita mengejutkan. Lihat foto itu—itu bukan foto awak menangis, bukan?
 
 **Speaker 2:** Itu foto saya dalam dilema.
 
-**Rafizi Ramli:** Dilema.
+**Rafizi:** Dilema.
 
 **Speaker 2:** Untuk manfaat penonton yang telah mengikuti kita selama 31 episod.
 
-**Rafizi Ramli:** Ini mungkin episod terakhir Haziq sebagai moderator. Ia bukan kerana aduan daripada penonton—jika anda periksa komen, ramai sebenarnya telah jatuh hati dengan Haziq. Beliau ialah "Podcast Sweetheart."
+**Rafizi:** Ini mungkin episod terakhir Haziq sebagai moderator. Ia bukan kerana aduan daripada penonton—jika anda periksa komen, ramai sebenarnya telah jatuh hati dengan Haziq. Beliau ialah "Podcast Sweetheart."
 
 **Speaker 2:** Kita sudah tahu tentang perkara ini sejak dua atau tiga minggu lalu. Mungkin Haziq boleh kongsikan mengapa ini mungkin episod terakhirnya dan mengapa dia perlu meletakkan jawatan.
 
-**Rafizi Ramli:** Seperti yang disebut YB, terdapat aduan—bukan daripada penonton, tetapi daripada pihak tertentu. Pihak tertentu dari kalangan politik, yang agak signifikan.
+**Rafizi:** Seperti yang disebut YB, terdapat aduan—bukan daripada penonton, tetapi daripada pihak tertentu. Pihak tertentu dari kalangan politik, yang agak signifikan.
 
 **Speaker 2:** Apakah aduan tersebut? Adakah mereka tidak suka awak mengucapkan *Assalamualaikum* atau sesuatu?
 
-**Rafizi Ramli:** Saya rasa itu sebahagian daripadanya; ia sangat menjengkelkan. "Gajah di dalam bilik" (isu besar yang tidak diperkatakan)—kita tidak boleh sebut perkataan itu terlalu kerap. Tetapi isu sebenar ialah Haziq bekerja untuk kerajaan. Apabila seorang penjawat awam menjadi moderator untuk podcast yang dilihat mengkritik kerajaan, kata dua telah diberikan. Bermaksud sama ada berhenti menjadi moderator atau berhenti kerja. Itulah dilemanya.
+**Rafizi:** Saya rasa itu sebahagian daripadanya; ia sangat menjengkelkan. "Gajah di dalam bilik" (isu besar yang tidak diperkatakan)—kita tidak boleh sebut perkataan itu terlalu kerap. Tetapi isu sebenar ialah Haziq bekerja untuk kerajaan. Apabila seorang penjawat awam menjadi moderator untuk podcast yang dilihat mengkritik kerajaan, kata dua telah diberikan. Bermaksud sama ada berhenti menjadi moderator atau berhenti kerja. Itulah dilemanya.
 
 **Speaker 2:** Satu plot twist. Adakah dia akan meletak jawatan atau tidak? Apabila saya diberitahu tentang aduan itu, saya beritahu Haziq dia perlu membuat keputusan—sama ada berhenti sebagai moderator di sini atau meletak jawatan sebagai penjawat awam.
 
-**Rafizi Ramli:** Patutkah kita membiarkan penonton tertunggu-tunggu, atau bagaimana?
+**Rafizi:** Patutkah kita membiarkan penonton tertunggu-tunggu, atau bagaimana?
 
 **Speaker 2:** Biarkan mereka tunggu. Tunggu sehingga penghujung.
 
-**Rafizi Ramli:** Saya rasa jika ini episod satu hingga sepuluh, dia mungkin sudah meletak jawatan selepas dikritik, tetapi sekarang dia adalah "Podcast Sweetheart." Ia tidaklah seteruk itu lagi.
+**Rafizi:** Saya rasa jika ini episod satu hingga sepuluh, dia mungkin sudah meletak jawatan selepas dikritik, tetapi sekarang dia adalah "Podcast Sweetheart." Ia tidaklah seteruk itu lagi.
 
 **Speaker 2:** Jadi jika anda tidak mahu Haziq diganti, sila komen. Tulis "Haziq Sweetheart" banyak kali. Hantar banyak emoji kasih sayang. Tetapi jika tiada siapa yang menghantar emoji kasih sayang sehingga tamat, dia mungkin benar-benar akan dibuang.
 
-**Rafizi Ramli:** Benar. Sebenarnya tiada siapa yang membencinya. Jadi, Haziq akan mendedahkan keputusannya pada penghujung episod ini. Atau adakah anda mahu membiarkan mereka menunggu sehingga minggu depan?
+**Rafizi:** Benar. Sebenarnya tiada siapa yang membencinya. Jadi, Haziq akan mendedahkan keputusannya pada penghujung episod ini. Atau adakah anda mahu membiarkan mereka menunggu sehingga minggu depan?
 
 **Speaker 2:** Tidak perlu. Nanti jadi basi. Kepada penjawat awam lain yang ingin memulakan podcast, berhati-hati. Anda akan mendapat aduan rasmi dan perlu membuat pilihan, dan akhirnya anda akan menangis seperti Haziq. Tetapi sebenarnya, YB, podcast ini agak berhantu. Dari awal lagi, tidak mudah untuk mencari tetamu, dan sekarang, sesiapa yang muncul di podcast ini akan menghadapi akibatnya.
 
-**Rafizi Ramli:** Tepat sekali. Itulah sebabnya pada mulanya, orang bertanya mengapa hanya kami berdua yang bercakap. Ia kerana ramai yang takut untuk muncul. Kadang-kadang mereka bersetuju dan kemudian membatalkan pada saat-saat akhir. Akhirnya, kami memutuskan, "Haziq pun Haziq lah."
+**Rafizi:** Tepat sekali. Itulah sebabnya pada mulanya, orang bertanya mengapa hanya kami berdua yang bercakap. Ia kerana ramai yang takut untuk muncul. Kadang-kadang mereka bersetuju dan kemudian membatalkan pada saat-saat akhir. Akhirnya, kami memutuskan, "Haziq pun Haziq lah."
 
 **Speaker 2:** Sedih. Jalan terakhir, jalan terakhir.
 
-**Rafizi Ramli:** Baiklah, cukup dengan cerita itu. Itu tidak penting. Seterusnya, mari kita lihat orang yang "beria" (cuba terlalu keras).
+**Rafizi:** Baiklah, cukup dengan cerita itu. Itu tidak penting. Seterusnya, mari kita lihat orang yang "beria" (cuba terlalu keras).
 
 **Speaker 2:** Tidak lain tidak bukan yang pertama daripada kita, dari UMNO.
 
-**Rafizi Ramli:** Kembali lagi.
+**Rafizi:** Kembali lagi.
 
 **Speaker 2:** "Beras tempatan hilang kerana UMNO tiada kuasa." Perwakilan mana ini? Kedah. Daripada Kedah. Secara verbatim, YB.
 
-**Rafizi Ramli:** Secara verbatim. Dia berkata apabila UMNO hilang kuasa, beras tempatan juga hilang. Mereka benar-benar cuba terlalu keras. Saya malas, tetapi jika saya berada di sana, saya akan mengangkat tangan untuk bertanya kepadanya: pada realitinya, sistem yang kita ada memusatkan bekalan beras kepada satu syarikat, iaitu Bernas.
+**Rafizi:** Secara verbatim. Dia berkata apabila UMNO hilang kuasa, beras tempatan juga hilang. Mereka benar-benar cuba terlalu keras. Saya malas, tetapi jika saya berada di sana, saya akan mengangkat tangan untuk bertanya kepadanya: pada realitinya, sistem yang kita ada memusatkan bekalan beras kepada satu syarikat, iaitu Bernas.
 
 **Speaker 2:** Itu adalah sesuatu yang kita warisi daripada UMNO, bukan? Keseluruhan rejim bekalan beras—adakah *perbekalan* atau *pembekalan*? Apa bezanya? Saya tidak sempat untuk Google. Saya rasa *perbekalan* adalah rang undang-undang bekalan. Mengenai perundangan dan perbelanjaan, ia adalah *pembekalan*. Dalam konteks beras, ia bermaksud *pembekalan*. Keseluruhan rejim bekalan beras di negara kita mempunyai Bernas sebagai komponen utama. Bernas ditubuhkan pada zaman UMNO. Jadi, sama ada orang berkata monopoli bekalan dan import beras oleh Bernas menyumbang kepada keadaan semasa, atau kita perlukan persaingan, atau rejim kawalan harga tidak lagi sesuai—itu semua adalah legasi UMNO. Jika dia mahu meluahkan sentimen tentang UMNO, jangan katakan bahawa apabila UMNO hilang kuasa, beras tempatan hilang. Kerana UMNO sudah hampir sepuluh tahun tidak berkuasa, dan saya masih belum turun berat badan.
 
-**Rafizi Ramli:** Maksudnya masih banyak beras. Saya cuma tidak boleh makan; saya sudah turun berat badan.
+**Rafizi:** Maksudnya masih banyak beras. Saya cuma tidak boleh makan; saya sudah turun berat badan.
 
 **Speaker 2:** Awak perlu kurangkan gula jika mahu turun berat badan.
 
-**Rafizi Ramli:** Soalan itu tidak serasi dengan punchline.
+**Rafizi:** Soalan itu tidak serasi dengan punchline.
 
 **Speaker 2:** Baiklah, mari tukar topik. Saudara, jangan kena pukul dengan geng Sanusi apabila balik ke Kedah nanti.
 
-**Rafizi Ramli:** Belum jadi PM, tetapi sudah melobi untuk jawatan?
+**Rafizi:** Belum jadi PM, tetapi sudah melobi untuk jawatan?
 
 **Speaker 2:** Mari kita selesaikan, saudara. Jadi, adakah KJ akan membentuk parti baharu atau bagaimana?
 
-**Rafizi Ramli:** Dia dijemput menghadiri Perhimpunan Agung UMNO baru-baru ini. Ada khabar angin dia akan membuat *comeback*, dan yang lain mengatakan dia tidak boleh. Dia juga dalam dilema.
+**Rafizi:** Dia dijemput menghadiri Perhimpunan Agung UMNO baru-baru ini. Ada khabar angin dia akan membuat *comeback*, dan yang lain mengatakan dia tidak boleh. Dia juga dalam dilema.
 
 **Speaker 2:** Ini bukan tentang KJ; ini tentang Khian Ming. Jika KJ menjadi Perdana Menteri satu hari nanti—jika UMNO menerimanya—saya rasa jalan untuk melantik seseorang tanpa jawatan politik sebagai menteri masih berliku. Ia tidak akan semudah itu. Khian Ming boleh terus berharap, tetapi ada banyak langkah. Pertama, KJ mesti masuk UMNO. Kemudian dia mesti menjadi Presiden UMNO, kemudian UMNO mesti menang Pilihan Raya Umum. Dan jika ditakdirkan KJ menjadi Perdana Menteri, dia masih perlu melepasi halangan terakhir: melantik seseorang yang tidak mempunyai asas politik untuk menjadi menteri. Tetapi saya tabik dia kerana melobi bersungguh-sungguh. Ini dipanggil "hedging"—melabur untuk masa depan di tengah-tengah segala ketidaktentuan.
 
-**Rafizi Ramli:** Betul, betul. Pelabur awal. Ini benar-benar Angel Investor. Walaupun tanpa *pitch deck*, dia sudah menandatangani cek. Bagus.
+**Rafizi:** Betul, betul. Pelabur awal. Ini benar-benar Angel Investor. Walaupun tanpa *pitch deck*, dia sudah menandatangani cek. Bagus.
 
 **Speaker 2:** Baiklah, apa seterusnya?
 
-**Rafizi Ramli:** FlexiMart. Mereka mahu menjadikan segala-galanya satu isu.
+**Rafizi:** FlexiMart. Mereka mahu menjadikan segala-galanya satu isu.
 
 **Speaker 2:** "Huruf T di hujung FlexiMart nampak seperti Salib Kristian. Ubahlah supaya tidak mengelirukan." Patutkah kita letak papan tanda di FlexiMart mengatakan "T di atas bukan Salib Kristian"?
 
-**Rafizi Ramli:** Ini isu budaya. Saya ingat masa saya Tingkatan Dua di sekolah asrama, kami diperiksa oleh pengawas bertugas. Mereka akan masuk ke kelas untuk memeriksa segala-galanya. Saya tidak akan memanggilnya trauma, tetapi saya mendapat "Eureka moment" ketika itu tentang betapa bodohnya orang kita boleh jadi. Pengawas itu Tingkatan Empat dan mahu menunjukkan betapa cerdiknya dia kepada kami junior. Dia mula bercakap tentang salib, mendakwa orang Kristian "menyelitkannya" secara halus. Dia menunjuk ke tingkap dan berkata, "Lihat tingkap ini, semuanya mempunyai salib Kristian." Saya fikir, "Ya Tuhan, begitulah cara tingkap dibuat." Apa yang anda mahu lakukan, buat tingkap bulat? Selepas 30 tahun, ia masih karut yang sama.
+**Rafizi:** Ini isu budaya. Saya ingat masa saya Tingkatan Dua di sekolah asrama, kami diperiksa oleh pengawas bertugas. Mereka akan masuk ke kelas untuk memeriksa segala-galanya. Saya tidak akan memanggilnya trauma, tetapi saya mendapat "Eureka moment" ketika itu tentang betapa bodohnya orang kita boleh jadi. Pengawas itu Tingkatan Empat dan mahu menunjukkan betapa cerdiknya dia kepada kami junior. Dia mula bercakap tentang salib, mendakwa orang Kristian "menyelitkannya" secara halus. Dia menunjuk ke tingkap dan berkata, "Lihat tingkap ini, semuanya mempunyai salib Kristian." Saya fikir, "Ya Tuhan, begitulah cara tingkap dibuat." Apa yang anda mahu lakukan, buat tingkap bulat? Selepas 30 tahun, ia masih karut yang sama.
 
 **Speaker 2:** Di sekolah asrama, ada ritual malam pemeriksaan oleh pengawas bertugas. Dua pengawas akan masuk ke kelas untuk memeriksa kami. Saya tidak akan memanggil diri saya trauma olehnya, tetapi ia adalah detik pencerahan bagi saya—detik "Eureka", jika anda mahu, tentang betapa konyolnya sesetengah orang kita. Saya teringat seorang pengawas yang mungkin mahu menunjuk-nunjuk betapa cerdiknya dia. Kami Tingkatan Dua, dia Tingkatan Empat. Pengawas ini sering berkongsi macam-macam cerita untuk membina kuasa mereka dan menunjukkan kepada junior betapa hebatnya mereka. Satu malam, dia masuk ke kelas kami dan mula bercakap tentang salib. Dia bercakap tentang bagaimana orang Kristian "cucuk secara halus." Dia memberi contoh: "Lihat tingkap," katanya, "semuanya ada salib Kristian." Saya terfikir, "Ya Allah, memang begitulah cara tingkap dibuat!" Adakah mereka menjangkakan ia berbentuk bulat?
 
@@ -196,41 +196,41 @@ Sudah lebih 30 tahun, jadi itu berita lama, tetapi saya menasihatkan penjawat aw
 
 **Speaker 1:** Beras tempatan hilang kerana UMNO tiada kuasa. Ini daripada wakil dari mana? Kedah. Daripada Kedah. Ini secara verbatim, YB.
 
-**Rafizi Ramli:** Kita sebenarnya mewarisi perkara itu daripada UMNO, bukan? Keseluruhan rejim bekalan beras—adakah *perbekalan* atau *pembekalan*? Saya tidak sempat untuk Google. Saya rasa *pembekalan* merujuk kepada Rang Undang-Undang Bekalan, yang berkaitan dengan perbelanjaan. Dalam konteks beras, ia merujuk kepada bekalan. Keseluruhan rejim bekalan beras di negara kita mempunyai Bernas sebagai komponen utama, dan Bernas ditubuhkan pada zaman UMNO. Jadi, sama ada orang berkata monopoli bekalan dan import beras oleh Bernas menyumbang kepada keadaan sekarang, atau kita memerlukan persaingan, atau rejim kawalan harga tidak lagi sesuai—itu semua adalah legasi UMNO. Jika mereka mahu meluahkan sentimen tentang UMNO, jangan katakan bahawa apabila UMNO hilang kuasa, beras tempatan hilang. Sudah hampir sepuluh tahun UMNO hilang kuasa, dan saya masih belum turun berat badan.
+**Rafizi:** Kita sebenarnya mewarisi perkara itu daripada UMNO, bukan? Keseluruhan rejim bekalan beras—adakah *perbekalan* atau *pembekalan*? Saya tidak sempat untuk Google. Saya rasa *pembekalan* merujuk kepada Rang Undang-Undang Bekalan, yang berkaitan dengan perbelanjaan. Dalam konteks beras, ia merujuk kepada bekalan. Keseluruhan rejim bekalan beras di negara kita mempunyai Bernas sebagai komponen utama, dan Bernas ditubuhkan pada zaman UMNO. Jadi, sama ada orang berkata monopoli bekalan dan import beras oleh Bernas menyumbang kepada keadaan sekarang, atau kita memerlukan persaingan, atau rejim kawalan harga tidak lagi sesuai—itu semua adalah legasi UMNO. Jika mereka mahu meluahkan sentimen tentang UMNO, jangan katakan bahawa apabila UMNO hilang kuasa, beras tempatan hilang. Sudah hampir sepuluh tahun UMNO hilang kuasa, dan saya masih belum turun berat badan.
 
 **Speaker 1:** Maksudnya masih banyak beras. Tidak, saya tidak boleh makan, saya sudah turun berat badan.
 
-**Rafizi Ramli:** Anda perlu kurangkan gula jika mahu melakukannya.
+**Rafizi:** Anda perlu kurangkan gula jika mahu melakukannya.
 
 **Speaker 1:** Baiklah, soalan itu tidak benar-benar sepadan dengan *punchline*.
 
-**Rafizi Ramli:** Baiklah, mari kita tukar, YB. Jadi, mereka sangat beria-ia. Saudara, apabila anda balik ke Kedah nanti, jangan kena pukul dengan geng Sanusi, okay?
+**Rafizi:** Baiklah, mari kita tukar, YB. Jadi, mereka sangat beria-ia. Saudara, apabila anda balik ke Kedah nanti, jangan kena pukul dengan geng Sanusi, okay?
 
 **Speaker 1:** Ha. Seseorang sudah melobi untuk jawatan sebelum mereka menjadi Perdana Menteri? Baiklah.
 
-**Rafizi Ramli:** Mari kita selesaikan, saudara. Jadi, adakah KJ akan membentuk parti baharu atau bagaimana?
+**Rafizi:** Mari kita selesaikan, saudara. Jadi, adakah KJ akan membentuk parti baharu atau bagaimana?
 
 **Speaker 1:** Tetapi dia dijemput menghadiri Perhimpunan Agung UMNO baru-baru ini. Ada khabar angin dia akan membuat *comeback*, dan yang lain mengatakan dia tidak boleh membuat *comeback* lagi. Dia dalam dilema juga.
 
-**Rafizi Ramli:** Tetapi ini bukan tentang KJ; ini tentang Khian Ming. Walaupun KJ menjadi Perdana Menteri satu hari nanti, dengan andaian UMNO menerimanya, saya rasa ia masih menjadi jalan yang berliku untuk melantik seseorang tanpa kedudukan politik sebagai menteri. Ia tidak semudah itu. Khian Ming boleh terus berharap, tetapi ada banyak langkah yang terlibat. Pertama, KJ perlu masuk UMNO. Kemudian dia perlu menjadi Presiden UMNO, dan UMNO perlu memenangi pilihan raya umum. Walaupun begitu, jika ditakdirkan KJ menjadi Perdana Menteri, dia masih perlu melepasi halangan terakhir untuk melantik seseorang yang tidak mempunyai asas politik untuk menjadi menteri. Tetapi saya tabik semangat untuk melobi itu; ini yang mereka panggil *hedging*—melabur di masa depan di sebalik segala ketidaktentuan.
+**Rafizi:** Tetapi ini bukan tentang KJ; ini tentang Khian Ming. Walaupun KJ menjadi Perdana Menteri satu hari nanti, dengan andaian UMNO menerimanya, saya rasa ia masih menjadi jalan yang berliku untuk melantik seseorang tanpa kedudukan politik sebagai menteri. Ia tidak semudah itu. Khian Ming boleh terus berharap, tetapi ada banyak langkah yang terlibat. Pertama, KJ perlu masuk UMNO. Kemudian dia perlu menjadi Presiden UMNO, dan UMNO perlu memenangi pilihan raya umum. Walaupun begitu, jika ditakdirkan KJ menjadi Perdana Menteri, dia masih perlu melepasi halangan terakhir untuk melantik seseorang yang tidak mempunyai asas politik untuk menjadi menteri. Tetapi saya tabik semangat untuk melobi itu; ini yang mereka panggil *hedging*—melabur di masa depan di sebalik segala ketidaktentuan.
 
 **Speaker 1:** Bagus, bagus. Pelabur awal. Ini pelabur awal yang sebenar. Dalam dunia *startup*, ini seperti Angel Investor. Sebelum ada *pitch deck* pun, dia sudah menandatangani cek. Bagus.
 
-**Rafizi Ramli:** Baiklah, apa lagi yang kita ada?
+**Rafizi:** Baiklah, apa lagi yang kita ada?
 
 **Speaker 1:** FlexiMart. Sesuatu yang tidak ada mesti dibuat supaya ada.
 
-**Rafizi Ramli:** Huruf 'T' di hujung nama FlexiMart kelihatan seperti salib Kristian. Adalah lebih baik untuk memindanya sedikit supaya tidak mengelirukan. Selepas ini, kami perlu meletakkan papan tanda di FlexiMart yang mengatakan 'T' di atas bukan salib Kristian, betul?
+**Rafizi:** Huruf 'T' di hujung nama FlexiMart kelihatan seperti salib Kristian. Adalah lebih baik untuk memindanya sedikit supaya tidak mengelirukan. Selepas ini, kami perlu meletakkan papan tanda di FlexiMart yang mengatakan 'T' di atas bukan salib Kristian, betul?
 
 **Speaker 1:** Tetapi, yalah, ini juga isu budaya. Saya tidak boleh menyalahkan mereka, sebenarnya. Ia sudah berlaku sejak saya sekolah lagi. Saya ingat semasa saya di Tingkatan Dua.
 
-**Rafizi Ramli:** Di sekolah asrama, pada waktu malam, ada pemeriksaan oleh pengawas bertugas. Dua pengawas akan masuk ke kelas dan memeriksa segala-galanya. Saya tidak akan mengatakan saya trauma, tetapi di situlah saya mendapat kesedaran. Ia adalah detik Eureka, menyedari betapa bodohnya sesetengah orang kita. Saya ingat pengawas itu mahu menunjukkan betapa cerdiknya dia—kami Tingkatan Dua, dia Tingkatan Empat. Pengawas kadang-kadang perlu menceritakan segala macam cerita untuk menunjukkan betapa hebatnya mereka kepada junior. Dia masuk ke kelas kami dan mula bercakap tentang salib. Dia menjelaskan bagaimana Kristian "menyusup masuk secara halus" ke dalam perkara-perkara. Dia memberi contoh: "Lihat tingkap-tingkap itu, semuanya mempunyai salib Kristian." Saya fikir, "Ya Tuhan, begitulah cara tingkap dibina." Jika anda mahu membina tingkap, anda perlu mempunyai bentuk 'T'. Apa yang anda mahu lakukan, buat semuanya bulat? Selepas lebih 30 tahun, ia berita lama. Kepada penjawat awam lain yang mahu membuat podcast, berhati-hati. Anda mungkin mendapat aduan rasmi dan akhirnya menangis seperti Haziq. Tetapi, YB, podcast ini agak "berhantu." Tidak mudah untuk mencari tetamu sejak dari awal. Dan sekarang, sesiapa yang muncul di podcast ini berdepan dengan akibatnya. Itulah sebabnya orang bertanya pada mulanya mengapa hanya kami berdua yang bercakap; itu kerana ramai orang takut untuk muncul. Kadang-kadang mereka bersetuju, kemudian membatalkan pada saat terakhir. Jadi, kami memutuskan, jika perlu Haziq, maka Haziq lah.
+**Rafizi:** Di sekolah asrama, pada waktu malam, ada pemeriksaan oleh pengawas bertugas. Dua pengawas akan masuk ke kelas dan memeriksa segala-galanya. Saya tidak akan mengatakan saya trauma, tetapi di situlah saya mendapat kesedaran. Ia adalah detik Eureka, menyedari betapa bodohnya sesetengah orang kita. Saya ingat pengawas itu mahu menunjukkan betapa cerdiknya dia—kami Tingkatan Dua, dia Tingkatan Empat. Pengawas kadang-kadang perlu menceritakan segala macam cerita untuk menunjukkan betapa hebatnya mereka kepada junior. Dia masuk ke kelas kami dan mula bercakap tentang salib. Dia menjelaskan bagaimana Kristian "menyusup masuk secara halus" ke dalam perkara-perkara. Dia memberi contoh: "Lihat tingkap-tingkap itu, semuanya mempunyai salib Kristian." Saya fikir, "Ya Tuhan, begitulah cara tingkap dibina." Jika anda mahu membina tingkap, anda perlu mempunyai bentuk 'T'. Apa yang anda mahu lakukan, buat semuanya bulat? Selepas lebih 30 tahun, ia berita lama. Kepada penjawat awam lain yang mahu membuat podcast, berhati-hati. Anda mungkin mendapat aduan rasmi dan akhirnya menangis seperti Haziq. Tetapi, YB, podcast ini agak "berhantu." Tidak mudah untuk mencari tetamu sejak dari awal. Dan sekarang, sesiapa yang muncul di podcast ini berdepan dengan akibatnya. Itulah sebabnya orang bertanya pada mulanya mengapa hanya kami berdua yang bercakap; itu kerana ramai orang takut untuk muncul. Kadang-kadang mereka bersetuju, kemudian membatalkan pada saat terakhir. Jadi, kami memutuskan, jika perlu Haziq, maka Haziq lah.
 
-**Rafizi Ramli:** Sedih. Ia jalan terakhir.
+**Rafizi:** Sedih. Ia jalan terakhir.
 
 **Speaker 1:** Baiklah, Haziq, cukup dengan cerita itu. Itu tidak penting. Seterusnya, mari kita lihat orang-orang yang beria-ia ini. Kita akan mulakan dengan yang pertama, daripada UMNO.
 
-**Rafizi Ramli:** Mereka kembali. Ucapan seperti ini kembali.
+**Rafizi:** Mereka kembali. Ucapan seperti ini kembali.
 
 **Speaker 2:** Semasa kami di sekolah asrama, ada pemeriksaan pada waktu malam oleh pengawas bertugas. Dua pengawas akan masuk ke kelas kami dan melihat sekeliling. Ia bukan pengalaman yang trauma, tetapi ia adalah "detik Eureka" untuk saya—ia hanya menunjukkan betapa jahilnya sesetengah daripada kita. Saya rasa pengawas itu cuba menunjuk-nunjuk kerana kami Tingkatan 2 dan dia Tingkatan 4. Dia mahu kelihatan bijak dan berkuasa di hadapan junior. Dia masuk ke kelas kami dan mula bercakap tentang salib, mendakwa bahawa orang Kristian "mencucuk" (menyusup masuk) kami dengan cara yang halus. Dia menunjuk ke bingkai tingkap dan berkata, "Lihat, itu semua salib Kristian." Saya terfikir, "Tuhan saya, itu hanya bingkai tingkap." Jika anda membina tingkap, ia perlu mempunyai bentuk 'T'—apa yang anda mahu, tingkap bulat?
 

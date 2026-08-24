@@ -9,7 +9,7 @@ duration_seconds: 5931
 duration: 1h 38m
 view_count: 102632
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Moderator
 guests:
 - Prof. Emeritus Dr. Barjoyai Bardai
@@ -24,7 +24,7 @@ topics:
 - Civil Service Bureaucracy and Risk-Taking
 - Gig Economy and E-Hailing Regulation
 - PADU Database and Aging Population Planning
-summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi Ramli and
+summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi and
   the moderator converse with economic expert Prof. Emeritus Dr. Barjoyai Bardai.
   The discussion centers on restructuring Malaysia's economy, focusing on shifting
   from bulk to targeted subsidies, the implementation of a progressive wage policy,
@@ -53,7 +53,7 @@ Sebelum kita mulakan, YB, kita ada tetamu istimewa pada episod kali ini, iaitu P
 
 First, I want to start with a broader topic. Now, I am listening to the term Libertarian Economy. It is said that in Malaysia, we are heading towards a Libertarian Economy. Basically, a Libertarian Economy means a free-enterprise, market-based system. Dan kerana itu, kita menjadi malu untuk memberi subsidi kepada isi rumah. In other words, we have to abolish subsidies at one point. Jadi, adakah ini arah kita pada masa hadapan?
 
-**Rafizi Ramli:** Oh, dia tak kasi *can*! Hahaha.
+**Rafizi:** Oh, dia tak kasi *can*! Hahaha.
 
 Saya tak pasti berapa ramai orang yang betul-betul faham tentang *libertarian*. Ekonomi yang adil kepada ekstrem, di mana melakukan perniagaan sehingga ia menghasilkan ketidakcekapan. Tetapi pada masa yang sama, kerajaan juga perlu ada *baseline* untuk tumpu kepada kumpulan-kumpulan yang memerlukan pembelaan.
 
@@ -65,7 +65,7 @@ Tapi soal subsidi juga, kalau subsidi pukal itu pergi kepada *the group that act
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** Okey, sekarang sedikit berkait dengan itu. Kalau misalnya matlamat kita ialah kebahagiaan isi rumah, ia mestilah mengambil kira *the household*. When we have numbers like GDP or per capita income, it doesn't make sense to them. Today, for example, our economy is rising. We are in an economic cycle where the economy is rising, and we expect that until 2025 or maybe 2026, we will still rise. But the households below say, "Apa yang diorang cakap ini, kami tak rasalah." Mereka kata ekonomi menaik, tapi mereka sengsara. Jadi, macam mana kita nak *rationalize* benda itu?
 
-**Rafizi Ramli:** Sebab itu, *between my focus and the ministry from the beginning*, saya faham dengan semua *noise*, *especially the political noise*, it is not easy to see the focus and clarity in what we are trying to do. Our focus is on household income and wages. It is not easy.
+**Rafizi:** Sebab itu, *between my focus and the ministry from the beginning*, saya faham dengan semua *noise*, *especially the political noise*, it is not easy to see the focus and clarity in what we are trying to do. Our focus is on household income and wages. It is not easy.
 
 It's precisely on that basis, Prof. Kita contohnya, *based on our trajectory*, macam Prof kata, *we will be given the condition to grow on average 4% per year. Then the ringgit is around 4.50 in 2 to 3 years. By 2027 or 2028, we will be a high-income country.* We will be considered a developed country. But the disparity in society is important. That's one of the things I did at the beginning—whether the public understands it or not—is to put a focus on quarterly wage statistics. Because when we look at quarterly wage statistics, you can see, when we contextualize it, the country can grow by 5% GDP, but the fact is 50% of our formal workers are paid di bawah RM2,600.
 
@@ -83,7 +83,7 @@ Cuma, dalam masa yang terakhir ini... Ini moderator lepas ini memang tak ada fun
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** Kalau GDP meningkat tetapi *share of income by industry* merosot daripada 37% kepada 32%, bila kita melihat angka yang berat begini, kita rasa seolah-olah kita dieksploitasi oleh industri. Tapi sebenarnya kalau kita lihat industri-industri spesifik, ada industri yang meningkat dan ada industri yang menurun seperti pembinaan. Jadi ini yang menjadi isu. Sekarang soalnya kepada isi rumah, mereka tak memahami aspek ini. Kenapa gaji mereka tak naik?
 
-**Rafizi Ramli:** Ya, betul. Saya pernah menguruskan syarikat bersama Prof. Menguruskan syarikat, walaupun konsepnya sama iaitu kita nak *push the value*, ia lebih mudah sebab kita fokus kepada apa yang ada di depan kita. Di dalam negara dan ekonomi ini, seperti Prof kata, *there are many sectors and many different and unique groups with their own problems.*
+**Rafizi:** Ya, betul. Saya pernah menguruskan syarikat bersama Prof. Menguruskan syarikat, walaupun konsepnya sama iaitu kita nak *push the value*, ia lebih mudah sebab kita fokus kepada apa yang ada di depan kita. Di dalam negara dan ekonomi ini, seperti Prof kata, *there are many sectors and many different and unique groups with their own problems.*
 
 So let's take productivity. It is true that if we look at the overall productivity of the country, it is increasing. But if we translate it to the makeup composition of our economy, then we will be quite alarmed. For example, 97% of our enterprises are small, medium, and micro enterprises (MSMEs). Only 2% of companies are big. But these big companies basically drive about 50% plus of the GDP, and the number of employees they employ is slightly higher than all SMEs or non-formal companies.
 
@@ -95,7 +95,7 @@ So, they are the ones who actually have the ability to make automation investmen
 
 Sebenarnya kita agak tertinggal. Kalau kita tengok sekarang ini di seluruh dunia, mereka sudah mula memikirkan tentang *universal wage*—tentang gaji asas khusus kepada semua orang. This has been introduced in Canada, and across Europe it will be a standard for the European Union. So we may need to look at that too, alongside what YB mentioned earlier about social protection. We can do it together because we want to make sure—there are several countries where, when *universal wage* was introduced, poverty dropped by up to 30%. What is your view on *universal wage*?
 
-**Rafizi Ramli:** *Universal wage* is Universal Basic Income. Yes, that's right. If we had the means, Prof, I think we would go for it straight away. Masalahnya, kita juga kena terima bahawa kedudukan fiskal kita agak parah dari segi defisit.
+**Rafizi:** *Universal wage* is Universal Basic Income. Yes, that's right. If we had the means, Prof, I think we would go for it straight away. Masalahnya, kita juga kena terima bahawa kedudukan fiskal kita agak parah dari segi defisit.
 
 Kami kena buat pilihan. Contohnya, *is it sustainable* untuk kita terus berhutang bayar subsidi pukal dan pada masa yang sama bagi *basic wage*? We could become popular for a short while, *but it's not sustainable*. Malah, my concern is that if we continue straight on that basis, we may even destroy the economy because we do not push the right sectors to reach a certain productivity level for them to be competitive in the future.
 
@@ -123,7 +123,7 @@ Saya nak beri contoh apa yang berlaku di Norway dengan *oil fund* mereka. Bila m
 
 Kita belum terlambat untuk bermula. Kita masih ada Petronas yang bernilai hampir RM800 bilion, kita ada Khazanah, PNB, dan banyak lagi. 40% daripada syarikat tersenarai di Malaysia adalah milik kerajaan. Why don't we move it to an endowment fund like a Waqf Fund? Kemudian ia diuruskan secara profesional macam EPF. EPF *is doing very well*. Hasilnya nanti akan digunakan untuk membiayai program-program *social protection*. Jadi kita tak usik prinsipalkannya, *and because of that, it will become sustainable for the long term.* YB, bagaimana dengan ekonomi wakaf?
 
-**Rafizi Ramli:** Ya, kalau contoh dari segi syarikat-syarikat besar yang banyak tersenarai itu, ia memang sudah milik rakyat. Permodalan PNB dibiayai oleh amanah saham yang dimiliki rakyat biasa. Begitu juga CIMB, Tenaga, dan EPF yang dimiliki rakyat melalui caruman mereka.
+**Rafizi:** Ya, kalau contoh dari segi syarikat-syarikat besar yang banyak tersenarai itu, ia memang sudah milik rakyat. Permodalan PNB dibiayai oleh amanah saham yang dimiliki rakyat biasa. Begitu juga CIMB, Tenaga, dan EPF yang dimiliki rakyat melalui caruman mereka.
 
 Saya ingat ada dua kumpulan syarikat besar yang tidak dipunyai secara terus oleh rakyat seperti itu. Satu ialah Petronas milik negara, dan satu lagi ialah Khazanah. Petronas ini sebenarnya memang sudah pun menyumbang kepada *endowment fund* iaitu Kumpulan Wang Amanah Negara (KWAN). KWAN ini tidak pernah disentuh sehinggalah masa COVID-19 dulu.
 
@@ -147,7 +147,7 @@ Kita perlu mengubah arah. Kalau kita bandingkan Singapura dengan Hong Kong, Sing
 
 Sekarang 70% tenaga kerja kita tiada kelayakan sehingga dianggap kurang mahir atau *semi-skilled*. Mereka perlu ditingkatkan kemahirannya. Kita boleh gunakan *Progressive Wage* sebagai *carrot*. Kita katakan, "Okey, kalau nak kenaikan gaji tahunan, kena ikuti latihan ini dan tingkatkan kemahiran." It's conditional on employee upskilling.
 
-**Rafizi Ramli:** Alhamdulillah, *that's good*. Kalau saya boleh tambah sedikit daripada apa yang Prof sebutkan tadi, *the split between FDI and domestic direct investment (DDI) was actually higher 10 years ago or in the 90s*. Peratusan DDI dulu jauh lebih tinggi daripada sekarang.
+**Rafizi:** Alhamdulillah, *that's good*. Kalau saya boleh tambah sedikit daripada apa yang Prof sebutkan tadi, *the split between FDI and domestic direct investment (DDI) was actually higher 10 years ago or in the 90s*. Peratusan DDI dulu jauh lebih tinggi daripada sekarang.
 
 Bila ada FDI, DDI akan datang sekali. Cabaran kita sekarang ialah untuk *pivot* ekonomi kita. Saya setuju kita tak boleh bergantung sepenuhnya kepada FDI. Kelangsungan daya saing ekonomi kita banyak bergantung kepada kebolehan kita *unlock* DDI ini supaya ia menghasilkan kerja berpendapatan lebih tinggi.
 
@@ -159,13 +159,13 @@ FDI mungkin masuk RM3 bilion hingga RM4 bilion dalam sektor berteknologi tinggi 
 
 **Moderator:** Maksudnya sekarang kita nak manfaatkan tenaga kerja tempatan menerusi sektor pertanian moden. Kita *utilize more labor*, tapi yang lebih *skilled-up* sikitlah?
 
-**Rafizi Ramli:** Ini *balance* yang kita kena buat. Kita bercakap pasal *high-growth, high-value sectors*, betul kita perlukan teknologi untuk *push the economy*. Tapi kita tak boleh lupa bahawa *job creation* bagi sektor begitu adalah lebih kecil berbanding dulu. Sebab itu kita tak boleh lari daripada sektor yang ada *spillover effect* dan *job creation* yang lebih mampan untuk rakyat.
+**Rafizi:** Ini *balance* yang kita kena buat. Kita bercakap pasal *high-growth, high-value sectors*, betul kita perlukan teknologi untuk *push the economy*. Tapi kita tak boleh lupa bahawa *job creation* bagi sektor begitu adalah lebih kecil berbanding dulu. Sebab itu kita tak boleh lari daripada sektor yang ada *spillover effect* dan *job creation* yang lebih mampan untuk rakyat.
 
 Sebab itu bila orang kritik saya kata tiada pelan besar, saya tak kisah ambil jalan yang jauh sikit asalkan kita fokus kepada perkara yang memberi perbezaan nyata. Projek RM50 bilion kalau semua guna pekerja asing, berapa banyak *job creation* yang betul-betul sampai kepada rakyat? Itu *artificial*. Walaupun langkah pertanian moden ini tidak begitu *sexy* dan tiada pengumuman gergasi, ia membina *job creation* pada paras gaji yang betul.
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** Dengan pendekatan YB ini, berapa lama masa yang diambil sebelum rakyat boleh merasai kesan *job creation* yang sebenar ini?
 
-**Rafizi Ramli:** Di sinilah yang mungkin Prof ingat saya ini *libertarian*, kan? Hahaha.
+**Rafizi:** Di sinilah yang mungkin Prof ingat saya ini *libertarian*, kan? Hahaha.
 
 I don't think the government's job is to provide everything—it's not sustainable. But the government's job is to give focus, policy signaling, and create the impetus for something good to happen. Untuk orang susah, kita sediakan *social protection*. Untuk *job creation* dan industri, penting untuk sediakan infrastruktur dan pelaburan awal untuk mengurangkan risiko kebolehlaksanaan (*feasibility*).
 
@@ -183,7 +183,7 @@ Katakan ada 200,000 ekar, kita ajak 2 juta anak muda menyumbang RM2,000 seorang,
 
 Di Selangor sendiri masih ada 120,000 hektar ladang. Negeri maju seperti Selangor tidak patut ada ladang seluas itu lagi; ia patut ditukar kepada projek pertanian moden ini. Saya juga menantikan *rendering machine* yang bakal dipasang di UiTM sebagai model yang menarik. Semua ini boleh dibuat menerusi *crowdfunding*.
 
-**Rafizi Ramli:** Saya ada *reservation* sikit, Prof. Dalam kes Boustead, situasinya agak unik sebab mereka kena bayar hutang mereka. Kalau ambil model *crowdfunding* untuk orang awam masuk, saya tak pasti sama ada kita boleh capai.
+**Rafizi:** Saya ada *reservation* sikit, Prof. Dalam kes Boustead, situasinya agak unik sebab mereka kena bayar hutang mereka. Kalau ambil model *crowdfunding* untuk orang awam masuk, saya tak pasti sama ada kita boleh capai.
 
 Tapi saya faham konsep itu—iaitu melibatkan lebih ramai orang supaya mereka ada *skin in the game* dan komitmen, daripada dapat semuanya secara percuma.
 
@@ -197,15 +197,15 @@ Setakat ini, projek rintis IPR membuktikan ia *viable*. Kita letak *floor* penda
 
 Ia *doable* sebab kita mengawal risiko perniagaan—daripada pembukaan tanah, pelaburan infrastruktur moden, hinggalah pembeli terjamin (*off-taker*). Bila kita dapat buktikan dalam skala tertentu, baru orang ramai percaya ia boleh dilakukan. Kita memang akan teruskan...
 
-**Rafizi Ramli:** Yalah, kritikan bahawa dia terlalu perlahan, *I'm trying my best to get it*. Sebab itu saya yang memohon untuk menyertai IPR [Inisiatif Pendapatan Rakyat] ni.
+**Rafizi:** Yalah, kritikan bahawa dia terlalu perlahan, *I'm trying my best to get it*. Sebab itu saya yang memohon untuk menyertai IPR [Inisiatif Pendapatan Rakyat] ni.
 
 **Host:** Sekarang, *update* sikit YB, macam mana IPR ni? Dia punya sambutan ke?
 
-**Rafizi Ramli:** Sambutan dia baik. Dia ada puluhan ribu yang menunggu. 
+**Rafizi:** Sambutan dia baik. Dia ada puluhan ribu yang menunggu. 
 
 **Host:** Semua dapat?
 
-**Rafizi Ramli:** Tak semua dapat sebab dia bergantung pada tanah. Jadi setiap tapak tu, *size* dia antara—kalau di Semenanjung—antara 10 ke 20 hektar untuk di antara 20 ke 40 orang lah penerima kan. Yang menunggunya ni berpuluh ribu. Tapi nak dapat 10 ke 20 hektar tu pun, berpeluh kita nak cari 20 hektar tanah kerajaan. Kalau di Sabah dan Sarawak, lagi mudah. Sabah contohnya, satu tapak dia tu boleh sampai 200 hektar dan sebagainya lah kan. *But, you know, we will continue to* pergi cari tanah *because* untuk membuka satu tapak IPR ni, kami kena pergi jumpa dengan jabatan tuan punya tanah. Jadi kita cari—dekat Hospital Bahagia, Tanjung Rambutan, hospital besar kan, dia ada tanah dia yang tak buat apa. Jadi memang kita kena pergi ketuk pintu, kata kami nak ambil, nak pinjam tanah tu.
+**Rafizi:** Tak semua dapat sebab dia bergantung pada tanah. Jadi setiap tapak tu, *size* dia antara—kalau di Semenanjung—antara 10 ke 20 hektar untuk di antara 20 ke 40 orang lah penerima kan. Yang menunggunya ni berpuluh ribu. Tapi nak dapat 10 ke 20 hektar tu pun, berpeluh kita nak cari 20 hektar tanah kerajaan. Kalau di Sabah dan Sarawak, lagi mudah. Sabah contohnya, satu tapak dia tu boleh sampai 200 hektar dan sebagainya lah kan. *But, you know, we will continue to* pergi cari tanah *because* untuk membuka satu tapak IPR ni, kami kena pergi jumpa dengan jabatan tuan punya tanah. Jadi kita cari—dekat Hospital Bahagia, Tanjung Rambutan, hospital besar kan, dia ada tanah dia yang tak buat apa. Jadi memang kita kena pergi ketuk pintu, kata kami nak ambil, nak pinjam tanah tu.
 
 *So, I previously thought that one direction would be done. It doesn't work like that. Even though we have said all this, you have to go down and ask. And the team at the Ministry of Economy that is working on this internally, there are at least 5 to 6 people, so we have to be fair to them as well. The problem is in terms of expectations of how it can go. But at least the business case* telah dibuktikan. Ia boleh berlaku.
 
@@ -217,7 +217,7 @@ Ia *doable* sebab kita mengawal risiko perniagaan—daripada pembukaan tanah, pe
 
 **Professor:** *As long as they work, they feel they will get enough salary. So, if we compare with what is in Thailand, we can see that the people of Thailand are soft and respectful. That's interesting.* Saya pergi ke Indonesia, ke Singapura, dan ke Batam. Batam sebenarnya telah dibangunkan dengan baik. Dulu kawasan itu agak terbiar, tapi sekarang *it's full of beautiful houses and beautiful restaurants. Now people are shopping there, and the shopping experience is different from other places.* So why is it interesting? *Because they are the ones who are welcoming and engaging with the tourists. We in Langkawi, our tourism workers are not engaging enough. We have to be angry with the people of Langkawi.* Itu saja. Kalau Professor suka dengan komen saya ni, saya katakan ini memang sah kita kena marah.
 
-**Rafizi Ramli:** *It's hard to answer. How about training? I think the customer service needs to be better, so maybe we can tackle it as training. We don't have the exact data to explain why, but I think the view that the Prof gave is repeated by many of us.* 
+**Rafizi:** *It's hard to answer. How about training? I think the customer service needs to be better, so maybe we can tackle it as training. We don't have the exact data to explain why, but I think the view that the Prof gave is repeated by many of us.* 
 
 Satu isu ialah mahal. *Because if I ask the kids who go to Hat Yai, they actually think that if they have RM400 to RM500, they can cover two nights, travel, and everything else. Then they go to eat, the price is lower, the sellers smile, and so on. The situation in Langkawi is more expensive, and the price is definitely higher than RM400 for two nights.* Jadi faktor harga dan faktor-faktor yang lain itu membuatkan ia kurang menarik.
 
@@ -241,7 +241,7 @@ Sebab kalau kita tengok dalam syarikat, *board of directors, they have meetings 
 
 Jadi ia bermakna kita perlu jelaskan bahawa kerja pelaksanaan adalah kerja kakitangan kerajaan. Kalau kakitangan kerajaan itu cekap, melakukannya dengan cukup murni dan jujur, saya rasa tak ada korupsi yang akan berlaku. Sebab korupsi, *okay*, mungkin dia datang daripada atas, daripada politik, tapi kalau penjawat awam tidak bersetuju, ia tidak akan berjalan. *So now in Malaysia, my problem is that our implementation is too dependent on the politicians to move things forward. That may be an issue, and that needs to be resolved first if we want to see smooth implementation.*
 
-**Rafizi Ramli:** Itu komen yang kalau *pass* kat saya, silap cakap memang kena kecam. Soalan perangkap ya! Tapi saya rasa, *comment* saya ni *as a reflection* selepas 14 bulan berkhidmat dalam kerajaan bersama penjawat-penjawat awam yang lain. 
+**Rafizi:** Itu komen yang kalau *pass* kat saya, silap cakap memang kena kecam. Soalan perangkap ya! Tapi saya rasa, *comment* saya ni *as a reflection* selepas 14 bulan berkhidmat dalam kerajaan bersama penjawat-penjawat awam yang lain. 
 
 Satu *problem*, *I think, is that if we look at the private sector, where the board of directors makes a decision, approves the budget, and then the CEO and the executive run it, that works. Or if we have a presidential system, it's different. The problem in our system is we can't easily replace people. In the private sector, if you don't meet your target, you get a new CEO or GM. The public sector is a bit difficult because the political executive comes and goes, but the civil service continues to run.*
 
@@ -259,7 +259,7 @@ Kalau PADU, kita nak buat PADU kan? *If we wanted to do this the traditional way
 
 **Host:** *That's why YB is now the minister who gets the most flak!*
 
-**Rafizi Ramli:** *It's okay. Any publicity is still publicity, even if it's negative. It's okay if people want to be upset, but at least people are talking about it. In fact, that's the added value I believe I can bring to the government: risk-taking. Of course, some people, maybe other politicians, are not comfortable with this, saying, "This will cause us to lose the election." Okay, but that is not my focus. I believe we should not be afraid of taking hits. Once we show that courage, it gives confidence to our teams in the ministries to take action.*
+**Rafizi:** *It's okay. Any publicity is still publicity, even if it's negative. It's okay if people want to be upset, but at least people are talking about it. In fact, that's the added value I believe I can bring to the government: risk-taking. Of course, some people, maybe other politicians, are not comfortable with this, saying, "This will cause us to lose the election." Okay, but that is not my focus. I believe we should not be afraid of taking hits. Once we show that courage, it gives confidence to our teams in the ministries to take action.*
 
 **Host:** Saya nak tanya tentang isu hangat sekarang, iaitu mengenai gig ekonomi. Saya rasa ada masalah besar dalam sektor ini sekarang.
 
@@ -279,7 +279,7 @@ Ini semua akan mewujudkan nilai tambah baharu kepada P-hailer, supaya mereka tid
 
 **Host:** Adakah pihak kerajaan melihat ke arah ini?
 
-**Rafizi Ramli:** Yang ini, saya kena huraikan dengan lebih mendalam. Pandangan saya ialah apabila kita bercakap tentang gig ekonomi, seperti yang Professor katakan tadi, terdapat banyak kategori. Jika gig ekonomi itu merujuk kepada *freelancers* bernilai tinggi, contohnya pengaturcara (*coders*) atau artis kreatif, itu tidak menjadi masalah kerana penawaran dan permintaan adalah kompetitif.
+**Rafizi:** Yang ini, saya kena huraikan dengan lebih mendalam. Pandangan saya ialah apabila kita bercakap tentang gig ekonomi, seperti yang Professor katakan tadi, terdapat banyak kategori. Jika gig ekonomi itu merujuk kepada *freelancers* bernilai tinggi, contohnya pengaturcara (*coders*) atau artis kreatif, itu tidak menjadi masalah kerana penawaran dan permintaan adalah kompetitif.
 
 Yang spesifik di Malaysia, bila kita kata pasal gig ekonomi ni, ia lebih kepada p-hailing dan e-hailing. Dan dia ada dua tiga perspektif yang mana saya selalu kena kecam. Pertama ialah saya secara prinsipnya, gig ekonomi melalui e-hailing ni bagus kerana dia memberi fleksibiliti untuk menambah pendapatan. Sebab *you can do something else*. Dulu saya ada *startup*, pekerja saya ada yang bergaji RM3,000 lebih, bekerja sampai pukul 5 petang. Malam, dia buat *delivery* untuk tambah pendapatan. *So the concept is good, the purpose is good*, tapi dia selalu ada *unintended consequences*.
 
@@ -299,7 +299,7 @@ Sebab itu pandangan saya selalu kena kecam, kerana saya tak rasa penyelesaiannya
 
 **Host:** One of the solutions I see that the government wants to do is through merger laws. I heard MyCC is looking into this to avoid companies becoming too dominant.
 
-**Rafizi Ramli:** Ia bukan sekadar isu e-hailing; ia sebenarnya adalah lumrah bagi syarikat-syarikat teknologi. *In order to be financially viable, they have to be dominant.* Sebab itu kita tengok gergasi teknologi yang ada di dunia ni—Google, Microsoft, Amazon, Apple kan. *By nature, they have to cannibalize and kill each other to become dominant. They need to capture their audience first before they cut subsidies. But before that, they will subsidize.* Masa mula-mula kita pakai Grab atau platform sebegini, kita dah biasa dan rasa sebati dengan hidup kita, *they have made a big investment for that. So sekarang, they need to claw back those returns.*
+**Rafizi:** Ia bukan sekadar isu e-hailing; ia sebenarnya adalah lumrah bagi syarikat-syarikat teknologi. *In order to be financially viable, they have to be dominant.* Sebab itu kita tengok gergasi teknologi yang ada di dunia ni—Google, Microsoft, Amazon, Apple kan. *By nature, they have to cannibalize and kill each other to become dominant. They need to capture their audience first before they cut subsidies. But before that, they will subsidize.* Masa mula-mula kita pakai Grab atau platform sebegini, kita dah biasa dan rasa sebati dengan hidup kita, *they have made a big investment for that. So sekarang, they need to claw back those returns.*
 
 Jadi kalaupun kita ada *anti-monopoly or anti-competition laws*, dan salah satu caranya adalah dengan mengawal selia penggabungan (*mergers*), *you know it is not easy. It creates a moral hazard.* Sebagai contoh, secara hipotetikal—saya tak boleh sebut nama syarikat nanti kena saman—Syarikat A mahu mengambil alih Syarikat B, dan mereka telah bersetuju dengan harga tertentu. Tetapi MyCC berkata, "Tidak, ini adalah anti-persaingan." Tapi masalahnya, tiada pembeli lain untuk Syarikat B itu. Jika tiada pembeli lain, Syarikat B akan bungkus. Maka, ribuan pekerja terpaksa diberhentikan (*laid off*).
 
@@ -313,7 +313,7 @@ Sebab itu, *I think, by nature*, sebaik yang mungkin kita nak lebih banyak *comp
 
 **Professor:** Alhamdulillah, saya rasa kita mempunyai ramai rakan-rakan yang memberi maklum balas. Tetapi mengenai PADU sebelum ini, saya melihat ramai yang merungut kerana mereka tidak nampak apa yang akan dihasilkan oleh PADU selain daripada penyaluran subsidi bersasar. Mereka curiga bahawa jika mereka mengisi borang tersebut, kalau dulu mereka dapat bantuan, takut lepas ni kena *delisted* pula. Jadi, itu yang memerlukan lebih banyak promosi untuk memastikan bahawa dalam jangka panjang, *everyone will benefit*. Rakan-rakan saya yang lebih berusia berkata, "Kami ni dah nak mati pun, kenapa kena isi juga?" Saya katakan kepada mereka, "Kita sedang menuju ke arah negara baru." Kalau kita belum mati dalam masa terdekat, macam mana pula? Kita tak boleh berpura-pura kita dah mati sedangkan kita masih hidup. Jadi, promosi yang mantap memang sangat diperlukan.
 
-**Rafizi Ramli:** *Yes, it is exactly like what the Professor said. The responsibility of the government is to foresee issues before they hit the ground. You have to be able to anticipate what is coming. One major challenge we will face is becoming an aging nation. Those who are watching may not fully understand what an aging nation implies.*
+**Rafizi:** *Yes, it is exactly like what the Professor said. The responsibility of the government is to foresee issues before they hit the ground. You have to be able to anticipate what is coming. One major challenge we will face is becoming an aging nation. Those who are watching may not fully understand what an aging nation implies.*
 
 Maksudnya begini, profil penduduk sesebuah negara itu akan melalui proses demografi tertentu. Pada awalnya, sesebuah negara mempunyai lebih ramai golongan bekerja yang produktif, yang boleh menjana hasil dan membayar cukai. Jadi, pendapatan negara meningkat, dan pendapatan itulah yang digunakan untuk menjaga *vulnerable groups*.
 
@@ -331,7 +331,7 @@ Malah pada tahun 2024 ini, Kementerian Ekonomi sedang membangunkan kertas dasar 
 
 **Host:** Okay guys, terima kasih banyak-banyak. Terima kasih YB, dan terima kasih juga Professor atas perkongsian ini. Tapi mesti penonton di media sosial akan kata episod kali ini tidak cukup "terbakar" atau kurang panas.
 
-**Rafizi Ramli:** Tidak, saya rasa lama-kelamaan, saya berharap kepada sesiapa yang mendengar—tidak kira berapa ramai pun—mereka faham sebenarnya kita di sini bukan nak bergaduh betul-betul, tetapi kita nak berbincang secara ilmiah. *It is important to raise our society's understanding of the economy.* Dulu orang ingat ekonomi ni benda yang susah, *but actually it is not; it is about our daily lives.* Betul, memang ada pelbagai pandangan yang berbeza. *The more we do this*, walaupun sesetengah orang rasa bosan, jika ilmu ini sampai kepada sepuluh orang pun sudah memadai. *The higher the level of understanding, the better people understand where we are as a country.* 
+**Rafizi:** Tidak, saya rasa lama-kelamaan, saya berharap kepada sesiapa yang mendengar—tidak kira berapa ramai pun—mereka faham sebenarnya kita di sini bukan nak bergaduh betul-betul, tetapi kita nak berbincang secara ilmiah. *It is important to raise our society's understanding of the economy.* Dulu orang ingat ekonomi ni benda yang susah, *but actually it is not; it is about our daily lives.* Betul, memang ada pelbagai pandangan yang berbeza. *The more we do this*, walaupun sesetengah orang rasa bosan, jika ilmu ini sampai kepada sepuluh orang pun sudah memadai. *The higher the level of understanding, the better people understand where we are as a country.* 
 
 Jadi, terima kasih Professor kerana sudi menjadi "*super sub*" kita hari ini. Kita cari punya cari, akhirnya Professor yang sudi tampil. Yang garang-garang membakar di media sosial sebelum ni, semua tak nak datang bila kita jemput. Jadi, kalau ada yang nak marah saya atau Professor sebab diskusinya kurang "terbakar," *well, this is as hot as a constructive policy discussion can get.*
 

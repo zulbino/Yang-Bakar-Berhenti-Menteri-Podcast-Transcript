@@ -8,7 +8,7 @@ duration_seconds: 6861
 duration: 1h 54m
 view_count: 56799
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Dato Syed Azwan
 topics:
@@ -21,41 +21,41 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum, dan selamat datang ke Podcast Yang Berhenti Menteri, episod 5, bersama Saudara Fizy Ramli. Tetamu kita malam ini ialah Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
+**Rafizi:** Assalamualaikum, dan selamat datang ke Podcast Yang Berhenti Menteri, episod 5, bersama Saudara Fizy Ramli. Tetamu kita malam ini ialah Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
 
 **Dato' Syed Azwan:** Saya baik, saya baik. Saya sihat.
 
-**Rafizi Ramli:** Dato', saya nak tanya sesuatu — bila kali pertama Dato' jumpa saya?
+**Rafizi:** Dato', saya nak tanya sesuatu — bila kali pertama Dato' jumpa saya?
 
 **Dato' Syed Azwan:** Saya kali pertama jumpa di Alor Star, melibatkan urusan RMK13.
 
-**Rafizi Ramli:** Oh, ya ya, okay baik-baik. Sebab RMK13 tu memang sensitif.
+**Rafizi:** Oh, ya ya, okay baik-baik. Sebab RMK13 tu memang sensitif.
 
 **Dato' Syed Azwan:** Haa, sensitif tu. Saya pun ada sentuh juga dalam YouTube live saya, mengenai penangguhan itu — saat-saat akhir, saat-saat akhir.
 
-**Rafizi Ramli:** Itu bila, dah bulan berapa?
+**Rafizi:** Itu bila, dah bulan berapa?
 
 **Dato' Syed Azwan:** Tahun ini, di Alor Star, saya rasa bulan kedua atau ketiga.
 
-**Rafizi Ramli:** Oh ya, sebab kali terakhir kita buat semasa banjir Kedah.
+**Rafizi:** Oh ya, sebab kali terakhir kita buat semasa banjir Kedah.
 
 **Dato' Syed Azwan:** Ya, ia ditangguhkan ke bulan kedua, kemudian ditolak ke bulan kesembilan. Jadi akhirnya ia jadi bulan terakhir.
 
-**Rafizi Ramli:** Dato', disebabkan Dato' penaja kita — Pintu Topi — pada malam ini, jadi kita ada lebih masa untuk perkenalkan Dato'. Siapa DSA sebenarnya, selain daripada yang kita jumpa kat live dan YouTube?
+**Rafizi:** Dato', disebabkan Dato' penaja kita — Pintu Topi — pada malam ini, jadi kita ada lebih masa untuk perkenalkan Dato'. Siapa DSA sebenarnya, selain daripada yang kita jumpa kat live dan YouTube?
 
 **Dato' Syed Azwan:** Hi DSA here, Assalamualaikum, Salam Nusyamadani — jadi saya selalu, bila saya buat konten, tanda tangan saya ialah "Hi DSA here." Dari awal, saya tak tahu betul macam mana nak keluarkannya. Saya dulu buat banyak kerja, tapi lepas COVID saya tak tahu nak buat apa. Saya sebenarnya cukup skeptikal dengan media sosial. Bila dengar TikTok, saya fikir, kenapa TikTok, itu benda budak-budak main. Tapi saya selalu keluar negara untuk konferens perniagaan saya. Jadi bila Thailand membuka pintu untuk pergi ke negara mereka, saya rasa saya lah orang pertama yang tergedik-gedik nak pergi. Jadi saya ambil penerbangan, saya nak pergi tengok tempat-tempat yang pernah saya buat konferens dulu.
 
 Jadi di Chiang Mai tu yang membuka minda saya. Macam mana? Saya pergi satu kedai kopi, nama dia Graf. Bila saya masuk situ, saya rasa "inilah kehidupan aku." Kerana saya pernah menjalani hidup yang turun naik — selepas COVID tu memang saya terus jatuh. Sebelum COVID, apa saya nak buat, saya buat je, duit ada, seronok, saya travelling sahaja. Tapi bila jatuh macam tu lepas COVID, saya rasa saya perlu buat sesuatu. Saya kata, kenapa tidak buat akaun TikTok? Jadi akaun TikTok saya bermula di Chiang Mai, di kedai Graf itu.
 
-**Rafizi Ramli:** Bila Dato' pergi Chiang Mai tu, kenapa Dato' pergi situ — sebab semua orang main TikTok?
+**Rafizi:** Bila Dato' pergi Chiang Mai tu, kenapa Dato' pergi situ — sebab semua orang main TikTok?
 
 **Dato' Syed Azwan:** Tak, kedai tu sebenarnya kedai kopi yang ada banyak signature coffee. Chiang Mai memang terkenal dengan biji kopinya. Jadi bila saya masuk, sebab nama kedai tu, dia ada sebut yang kehidupan kita ini ibarat "graf" — naik turun. Jadi dia menukar persepsi saya, kenapa tak saya buat sesuatu dalam media sosial. Jadi saya pun buat satu video.
 
-**Rafizi Ramli:** Dan agak baru-baru ini maksudnya bila Dato' mula balik tu?
+**Rafizi:** Dan agak baru-baru ini maksudnya bila Dato' mula balik tu?
 
 **Dato' Syed Azwan:** Ya, 20 Julai rasanya — Julai 2022.
 
-**Rafizi Ramli:** 2022 — agak baru-baru ini, agak baru-baru ini. Baru 3 tahun Dato' dalam ni. Lebih kurang sama dengan masa saya buka akaun TikTok. Kena paksa jugak — Julai 2022.
+**Rafizi:** 2022 — agak baru-baru ini, agak baru-baru ini. Baru 3 tahun Dato' dalam ni. Lebih kurang sama dengan masa saya buka akaun TikTok. Kena paksa jugak — Julai 2022.
 
 **Dato' Syed Azwan:** Wah, sama! Lebih kurang sama, hebat lah, terbaik. Saya tak tahu apa niche saya sebenarnya, saya pun tak tahu. Saya main hentam dulu — hentam mula-mula buat konten, cerita pasal peribadi. Tapi saya tengok orang tak minat pun cerita pasal peribadi kita. Jadi saya mula sentuh sikit mengenai politik.
 
@@ -65,27 +65,27 @@ Saya terpaksa paksa diri sendiri main TikTok, sebab lepas 2018 saya tak terlibat
 
 Tapi bagi saya, TikTok — anak-anak saya pernah tanya, "Walid, kenapa nak main TikTok? Hidup Walid relaks, orang tak kenal, orang tak benci." Saya kata, saya nak buat sesuatu yang baru — sesuatu yang tak boleh dibeli dengan wang.
 
-**Rafizi Ramli:** Saya kali pertama jumpa konten DSA pasal budak-budak, pasal anak muda. Lepas tu saya follow. Apa nama konten tu?
+**Rafizi:** Saya kali pertama jumpa konten DSA pasal budak-budak, pasal anak muda. Lepas tu saya follow. Apa nama konten tu?
 
 **Dato' Syed Azwan:** Cerita pasal budak-budak yang nak masuk universiti, nak belajar. Ya, budak-budak yang kadang-kadang termotivasikan oleh duit. Duit itu segala-galanya dalam hidup — kalau kita tak ada ilmu, kita boleh jadi kaya? Bagi saya, tak boleh. Kita nak jadi kaya, kita perlukan ilmu.
 
-**Rafizi Ramli:** Saya suka sangat konten tu. Okay, Dato'. Malam ni untuk Dato', kita buka meja — meja kosong, tapi bukanya untuk Dato'. Dato' akan tanya soalan kepada Saudara Rafizi, Saudara Rafizi akan jawab, dan kalau Dato' ada jawapan sendiri, Dato' boleh jawab balik. Kalau tak ada, saya akan tanya lagi dan "bakar" balik. Boleh, Dato'?
+**Rafizi:** Saya suka sangat konten tu. Okay, Dato'. Malam ni untuk Dato', kita buka meja — meja kosong, tapi bukanya untuk Dato'. Dato' akan tanya soalan kepada Saudara Rafizi, Saudara Rafizi akan jawab, dan kalau Dato' ada jawapan sendiri, Dato' boleh jawab balik. Kalau tak ada, saya akan tanya lagi dan "bakar" balik. Boleh, Dato'?
 
 **Dato' Syed Azwan:** Ya, boleh. Okay, jom mula, Dato'. Sebenarnya, Sabtu ni saya nak pergi ke Kuala Terengganu, ada haul Tokku Paloh — Tokku Zaid Paloh, haul bapanya, Tokku Tuan Besar. Saya berada dalam geng Syarifah tu, mereka desak saya balik ke sana. Saya kata, okay saya nak pergi, nak dapat sikit lagi berkat. Kita kadang-kadang tergesa-gesa, tak sempat.
 
 Jadi malam ni saya pun terkejut, sebab saya tengok podcast YB ada satu tajuk — pertama kali memang hebat: "YB dah kembali." Saya tengok media YB, saya pegang ayat itu — "Selamat kembali YB." Sebelum kita pergi jauh, saya nak tanya, kenapa wartawan cakap "selamat kembali YB"?
 
-**Rafizi Ramli:** Masa mana — sidang media hari itu?
+**Rafizi:** Masa mana — sidang media hari itu?
 
 **Dato' Syed Azwan:** Masa sidang media di Subang Jaya. Ayat itu yang saya pegang — "Selamat kembali YB."
 
-**Rafizi Ramli:** Saya ingat dulu, sebelum saya jadi menteri, saya ada hubungan rapat dengan wartawan media semua, sebab saya yang paling banyak buat sidang media. Sidang media saya ni selalunya tiap-tiap minggu ada dua tiga, jadi benda itu benda biasa bagi mereka. Dan media, dalam pemahaman saya, mereka perlukan satu cerita. Jadi, kalau anda seorang ahli politik yang selalu membawa cerita, anda akan menjadi rapat dan popular dengan media.
+**Rafizi:** Saya ingat dulu, sebelum saya jadi menteri, saya ada hubungan rapat dengan wartawan media semua, sebab saya yang paling banyak buat sidang media. Sidang media saya ni selalunya tiap-tiap minggu ada dua tiga, jadi benda itu benda biasa bagi mereka. Dan media, dalam pemahaman saya, mereka perlukan satu cerita. Jadi, kalau anda seorang ahli politik yang selalu membawa cerita, anda akan menjadi rapat dan popular dengan media.
 
 Tapi bila saya jadi kerajaan, sebenarnya kita tak boleh banyak main media, sebab itu bukan tugas kita. Kalau wartawan tanya, benda ini tak boleh komen, benda itu tak boleh sentuh. Saya ingat dalam tempoh dua tahun setengah tu, memang jarak saya dengan media itu boleh dirasakan. Jadi hari itu ramai-ramai, terutamanya wartawan senior yang mula bekerja sekitar masa muda-muda dulu, lebih kurang sama masa saya mula jadi ahli politik. Jadi ia hampir seperti satu perjumpaan semula selepas dua tahun setengah.
 
 **Dato' Syed Azwan:** Saya sebenarnya, YB jadi menteri, saya ada buat konten juga — saya "balun" YB. "Apa khabar ni, YB Rafizi ni dah jadi menteri, air hilang tarik." Memang saya ada dua tiga konten saya main sebelum ini, saya tengok balik. Saya duduk kata malam ni saya nak jumpa. Jadi saya kata, kenapa YB ni, masa jadi menteri dah jadi macam "orang Perlis kata tak ada telur." Sila berasa bebas untuk suka, langgan dan sokong konten kami.
 
-**Rafizi Ramli:** Begitukah? Ya, kerana ini, kita ada dua bidang tanggungjawab sebagai menteri — satu berkaitan tugas kita sebagai menteri, satu lagi sebagai ahli politik. Jadi bila kerajaan dibentuk, Kementerian Ekonomi itu sebenarnya yang paling rumit untuk dinavigasi, sebab ia mendominasi semua bidang — perangkutan, dasar, pendidikan, ekonomi, semua.
+**Rafizi:** Begitukah? Ya, kerana ini, kita ada dua bidang tanggungjawab sebagai menteri — satu berkaitan tugas kita sebagai menteri, satu lagi sebagai ahli politik. Jadi bila kerajaan dibentuk, Kementerian Ekonomi itu sebenarnya yang paling rumit untuk dinavigasi, sebab ia mendominasi semua bidang — perangkutan, dasar, pendidikan, ekonomi, semua.
 
 Tapi setiap kementerian itu memang ada tugasan yang dilihat bertindih, jadi keputusan jemaah menteri ialah menteri lain tak boleh komen hal lain. Jadi maksudnya, Kementerian Ekonomi memang tak boleh komen apa-apa, sebab kalau soal dasar itu berlapik dengan benda-benda lain. Kecualilah benda-benda yang memang orang lain tak nak komen — contohnya harga barang, inflasi — yang itu ditinggalkan kepada saya. Tapi bab-bab lain, saya pernah ditegur beberapa kali oleh PM — "ini tak boleh sentuh, ini tak boleh sentuh." Jadi akhirnya memang susah kita nak bersuara, hanya Kementerian Ekonomi buat.
 
@@ -95,7 +95,7 @@ Itu yang saya kata, saya pun buat konten pasal ekonomi juga. Saya buat konten te
 
 **Dato' Syed Azwan:** Ingat Padu tu — nak guna lagi ke ataupun?
 
-**Rafizi Ramli:** Dia ada dari segi data yang ada dalam Padu itu — perkara itu berguna kepada semua kementerian. Jadi saya ingat itu akan terus digunakan. Lagipun, secara umumnya, tujuan kita ada Padu supaya kita ada satu pangkalan data back-end. Jadi kalau setiap kementerian atau agensi nak buat aplikasi baru, dia tak payah buat yang back-end tu — dia menjimatkan belanja lebih 50%, sebab back-end database yang mahal untuk ambil data. Jadi saya ingat dari segi itu, Padu akan terus digunakan.
+**Rafizi:** Dia ada dari segi data yang ada dalam Padu itu — perkara itu berguna kepada semua kementerian. Jadi saya ingat itu akan terus digunakan. Lagipun, secara umumnya, tujuan kita ada Padu supaya kita ada satu pangkalan data back-end. Jadi kalau setiap kementerian atau agensi nak buat aplikasi baru, dia tak payah buat yang back-end tu — dia menjimatkan belanja lebih 50%, sebab back-end database yang mahal untuk ambil data. Jadi saya ingat dari segi itu, Padu akan terus digunakan.
 
 Cuma yang rakyat — orang kata aspek daripada Padu ni ialah dalam bentuk program bantuan tunai yang mengambil kira perkara-perkara yang DSA sebut tadi. Yang ini yang saya ingat, beberapa bulan lepas pun nampaknya keputusan kerajaan bukan ke arah itu. Ada pandangan berbeza — yang paling dominan ialah pandangan Kementerian Kewangan, yang mengatakan ia terlalu rumit untuk dilaksanakan. Kalau nak ambil kira pendapatan, rumah dan sebagainya, mereka kata rakyat kita mungkin tak faham, susah. Itulah beza pandangan saya dengan Kementerian Kewangan.
 
@@ -105,7 +105,7 @@ Dengan ketiadaan saya, maksudnya saya ingat pandangan Kementerian Kewangan itu a
 
 Sebenarnya, YB, saya nak cakap — ini kebetulan, saya pergi konvensyen bersama, wakil UMNO cakap mereka tak suka YB bagi bantuan langsung kepada rakyat, pegawai-pegawai adik mereka nak — apa-apa bantuan yang datang kepada IC, mereka harap ia melalui mereka. Apa komen YB kenapa mereka tak suka bantuan pergi terus? Walaupun ada saudara pegawai — ada satu, Dato' Gapak, kawan saya sebut nama saya malam tadi, dia puji YB, dia kata "terima kasih YB bagi kami bantuan." Lepas tu YB komen sikit.
 
-**Rafizi Ramli:** Yang ini saya ingat, dia rujuk kepada IKR — Inisiatif Kemudahan Rakyat. Dalam kerajaan, orang politik memang berbeza-beza pandangan. Ada pandangan lama daripada PKR sendiri, kawan-kawan dalam kerajaan, yang mengatakan IKR ini akan melunturkan pengaruh orang politik, kerana rakyat boleh minta terus. Tambah lagi bila kita bagi terus kepada majlis daerah, ini akan menyebabkan tak ada kawalan politik sedikit — kalau ikut sistem lama, pergi ke Pejabat Pembangunan Negeri, pergi ke ICU, semua boleh dikawal. Yang itu berjalan macam biasa — maksudnya setiap tahun ICU akan mengangkat permohonan peruntukan kepada Kementerian Ekonomi untuk projek-projek yang diuruskan ICU di negeri masing-masing, di bawah Jabatan Perdana Menteri kot, mereka suka macam itu.
+**Rafizi:** Yang ini saya ingat, dia rujuk kepada IKR — Inisiatif Kemudahan Rakyat. Dalam kerajaan, orang politik memang berbeza-beza pandangan. Ada pandangan lama daripada PKR sendiri, kawan-kawan dalam kerajaan, yang mengatakan IKR ini akan melunturkan pengaruh orang politik, kerana rakyat boleh minta terus. Tambah lagi bila kita bagi terus kepada majlis daerah, ini akan menyebabkan tak ada kawalan politik sedikit — kalau ikut sistem lama, pergi ke Pejabat Pembangunan Negeri, pergi ke ICU, semua boleh dikawal. Yang itu berjalan macam biasa — maksudnya setiap tahun ICU akan mengangkat permohonan peruntukan kepada Kementerian Ekonomi untuk projek-projek yang diuruskan ICU di negeri masing-masing, di bawah Jabatan Perdana Menteri kot, mereka suka macam itu.
 
 Tapi sebenarnya, di bawah Kementerian Ekonomi, sejak era selepas Merdeka, setiap tahun majlis daerah di seluruh Malaysia meminta bantuan daripada kerajaan untuk projek-projek kecil, kerana saya rasa hanya 3-4 majlis daerah di Malaysia yang ada duit untuk buat infrastruktur sendiri — kutipan cukai pintu dan sebagainya pun cukup-cukup untuk bayar gaji sahaja. Sebab itulah kerajaan negeri pula, oleh kerana hampir semua kerajaan negeri tidak ada hasil mencukupi untuk belanja pembangunan yang boleh diberi kepada majlis bandaran, projek-projek kecil ini terbengkalai.
 
@@ -119,19 +119,19 @@ Sebab itu rakyat memohon terus. Bila rakyat memohon, kalau macam di Kedah — me
 
 **Dato' Syed Azwan:** Okaylah, bab-bab RMK ni pun — sudahlah kan RMK tu, tinggal seminggu lebih je lagi nak dijahatkan. Saya pun ada buat konten pasal itu, YB, sebab RMK ini saya pun tak setuju. Saat-saat akhir orang dah buat semua, tiba-tiba nak ubah semua, kita tak tahu nak letak "bayi" ini kat mana.
 
-**Rafizi Ramli:** Selepas saya bukan lagi Menteri Ekonomi, saya tak hubungi dia langsung, disebabkan peraturan saya sendiri untuk tak menyusahkan pegawai. Saya rasa kesian, dia yang jadi mangsa kalau ada salah cakap. Tapi saya memahami rumitnya proses ini — dia ambil masa setahun setengah untuk siapkan semua ini. Jadi kalau tempoh dua minggu nak diubah, saya rasa itu tak masuk akal.
+**Rafizi:** Selepas saya bukan lagi Menteri Ekonomi, saya tak hubungi dia langsung, disebabkan peraturan saya sendiri untuk tak menyusahkan pegawai. Saya rasa kesian, dia yang jadi mangsa kalau ada salah cakap. Tapi saya memahami rumitnya proses ini — dia ambil masa setahun setengah untuk siapkan semua ini. Jadi kalau tempoh dua minggu nak diubah, saya rasa itu tak masuk akal.
 
 Sebelum zaman saya, orang kerajaan yang di politik ini melihat RMK sebagai tempat untuk mohon projek — "aku nak jambatan kat sini," begitu-begitu. Bila kami ambil alih daripada 2022, arahan saya ialah rancangan lima tahun ini sebenarnya bukan senarai projek, tapi projek-projek yang bersesuaian untuk menggerakkan dasar. Jadi saya tak tahulah, dalam tempoh dua minggu ini, senarai daripada kementerian dan menteri-menteri yang datang, "aku nak yang ini, aku nak yang itu" — saya tak tahu macam mana ia berlaku sekarang.
 
 **Dato' Syed Azwan:** Mungkin YB, disebabkan pendekatan YB macam tu, ramai orang cuba nak letak projek-projek ini, YB tolak macam mana?
 
-**Rafizi Ramli:** Tak, tapi pada peringkat ini RMK tidak melibatkan projek. Kalau kementerian kata mereka nak buat "pusat langit," ini pun sebahagian daripadanya, tapi dia tak boleh mahu setiap projek kecil, kerana kita luluskan permohonan pembangunan mengikut rolling plan. Jadi saya letak syarat — saya harap ia tidak diubah — projek modal kecil di bawah nilai tertentu ditanam setiap tahun, kerana ia boleh disiapkan dalam tempoh satu hingga dua tahun. Projek yang besar, yang memerlukan perancangan besar, hanya boleh dimohon setiap dua tahun — rolling plan pertama, rolling plan ketiga, begitulah. Jadi projek-projek itu akan datang kemudian.
+**Rafizi:** Tak, tapi pada peringkat ini RMK tidak melibatkan projek. Kalau kementerian kata mereka nak buat "pusat langit," ini pun sebahagian daripadanya, tapi dia tak boleh mahu setiap projek kecil, kerana kita luluskan permohonan pembangunan mengikut rolling plan. Jadi saya letak syarat — saya harap ia tidak diubah — projek modal kecil di bawah nilai tertentu ditanam setiap tahun, kerana ia boleh disiapkan dalam tempoh satu hingga dua tahun. Projek yang besar, yang memerlukan perancangan besar, hanya boleh dimohon setiap dua tahun — rolling plan pertama, rolling plan ketiga, begitulah. Jadi projek-projek itu akan datang kemudian.
 
 Sebab itu, dalam tempoh dua minggu ini, saya rasa okay lah, kita tengok. Saya akan cuba semak semua dokumen draf akhir yang saya lalui dulu, supaya bila siap, saya boleh tengok mana yang perlu dibuang, mana yang perlu ditambah.
 
 **Dato' Syed Azwan:** Saya baru nampak Menteri Pertahanan, YB, tiba-tiba nak beli aset — saya pun terkejut, pada masa itu saya tak sempat jumpa YB pun.
 
-**Rafizi Ramli:** Tak, prosesnya berlaku semasa fasa permohonan. Kerajaan ada kitaran perancangan tahunan yang panjang. Sebagai contoh, permohonan pembelian aset dibuat setiap tahun mengikut rolling plan — ia perlu dikemukakan kepada Kementerian Ekonomi selepas bulan kedua. Kemudian dari bulan kedua hingga keenam, Kementerian Ekonomi akan "kejar" setiap permohonan — apa nak dipotong, kenapa, berapa harga. Kemudian antara bulan ketujuh hingga kelapan, sebelum ini saya semak satu persatu — jadi saya "kejar" mereka selama dua bulan. Kita tutup pada pertengahan Ogos, ditangguh sehingga 10 Julai. Tapi bila kita tutup pada Ogos, kementerian akan mula kembali, mula bermula kitaran seterusnya.
+**Rafizi:** Tak, prosesnya berlaku semasa fasa permohonan. Kerajaan ada kitaran perancangan tahunan yang panjang. Sebagai contoh, permohonan pembelian aset dibuat setiap tahun mengikut rolling plan — ia perlu dikemukakan kepada Kementerian Ekonomi selepas bulan kedua. Kemudian dari bulan kedua hingga keenam, Kementerian Ekonomi akan "kejar" setiap permohonan — apa nak dipotong, kenapa, berapa harga. Kemudian antara bulan ketujuh hingga kelapan, sebelum ini saya semak satu persatu — jadi saya "kejar" mereka selama dua bulan. Kita tutup pada pertengahan Ogos, ditangguh sehingga 10 Julai. Tapi bila kita tutup pada Ogos, kementerian akan mula kembali, mula bermula kitaran seterusnya.
 
 Jadi sebenarnya, permohonan peruntukan itu memang berlaku setiap tahun. Cuma cabaran kerajaan ialah untuk memastikan perbelanjaan itu betul-betul diperlukan — itulah tugasan utama pegawai-pegawai Kementerian Ekonomi. Sebab itu kita di Kementerian Ekonomi ada jurutera, ada arkitek, ada pakar senjata, ada doktor — mereka semak semua, "kau nak buat macam ini ke?"
 
@@ -149,11 +149,11 @@ Sekarang ini sebenarnya, sebab itu banyak soalan dalam parlimen — soalan tanya
 
 **Dato' Syed Azwan:** Okay, saya faham, saya setuju dengan itu. Dan rakyat pun nak tahu apa yang YB sedang buat — apa projek yang akan datang ke kawasan kami. Okay, kita akan ubah susunan soalan sikit — tapi YB akan bangkit lebih agresif di parlimen selepas ini?
 
-**Rafizi Ramli:** Nak bangkit macam mana pula? Saya tengok dulu apa keadaan sebenarnya.
+**Rafizi:** Nak bangkit macam mana pula? Saya tengok dulu apa keadaan sebenarnya.
 
 **Dato' Syed Azwan:** Okay, macam ini pula — kita dalam kerajaan gabungan. Saya pun kadang-kadang, YB, kadang-kadang kita nak mengecam rakan sekutu kita — UMNO, Amanah. Kadang-kadang kita rasa, "kalau saya terus mendesak, apa akan jadi — gabungan hilang?" Ini masalahnya, YB. Jadi saya selalu dalam konten live saya kata kerajaan perpaduan ini tidak akan bertahan sampai akhir, YB, boleh pecah bila-bila masa. Apa yang saya nampak di Malaysia agak lebih lama berbanding negara lain yang dah musnah. Jadi saya nak tanya YB, situasi sekarang, dalam dua tiga tahun lagi — YB ingat, selepas PRU16, adakah entiti parti-parti ini sama atau berubah?
 
-**Rafizi Ramli:** Maksudnya apa, entiti dalam kerajaan perpaduan? Ya, parti-parti itu, adakah ia akan berubah? Kita tak tahu daripada situasi sekarang. Saya ingat senarionya masih belum jelas, sebab asal-usul kerajaan perpaduan ini ialah atas keperluan semasa ketika itu — parlimen tergantung, tiada mana-mana gabungan yang boleh membentuk kerajaan, maka dititahkan pembentukan kerajaan perpaduan.
+**Rafizi:** Maksudnya apa, entiti dalam kerajaan perpaduan? Ya, parti-parti itu, adakah ia akan berubah? Kita tak tahu daripada situasi sekarang. Saya ingat senarionya masih belum jelas, sebab asal-usul kerajaan perpaduan ini ialah atas keperluan semasa ketika itu — parlimen tergantung, tiada mana-mana gabungan yang boleh membentuk kerajaan, maka dititahkan pembentukan kerajaan perpaduan.
 
 Pandangan di dalam setiap gabungan itu pun saya lihat berbeza-beza. Contohnya di dalam PH sendiri, ada pandangan yang merasakan perlu masuk PHBN sebagai kerajaan perpaduan. Pandangan GPS pula sangat jelas — kerajaan perpaduan ini adalah sehingga akhir penggal, noktah — maksudnya dia terbuka kepada apa yang berlaku selepas itu. Dalam PH sendiri pula, ada pandangan yang baik daripada PKR, tapi sekarang lebih mencabar daripada Amanah, yang mahukan PH bertanding lawan BN, bukan berpakat dengan BN. Situasi yang sama sebenarnya berlaku dalam BN.
 
@@ -165,7 +165,7 @@ Jadi buat masa sekarang yang saya perhatikan — sama ada Datuk Seri Anwar denga
 
 Apa komen, YB? Ini, ini, ini — soalan terus atau soalan berlapik?
 
-**Rafizi Ramli:** Ini terus, tapi tak apa kalau saya jawab. Begini, saya faham — contohnya bila PKR membentuk kerajaan pada 2022, akhir 2022, kita perlukan pimpinan yang dikira berpengalaman dan senior. Atas dasar itu, Datuk Seri Saifuddin — dan pada ketika itu beliau adalah Setiausaha Agung — memang betul, dia pimpinan kanan yang lama dan pernah jadi menteri. Jadi untuk membentuk kerajaan waktu itu, saya faham akan ada keperluan seperti itu.
+**Rafizi:** Ini terus, tapi tak apa kalau saya jawab. Begini, saya faham — contohnya bila PKR membentuk kerajaan pada 2022, akhir 2022, kita perlukan pimpinan yang dikira berpengalaman dan senior. Atas dasar itu, Datuk Seri Saifuddin — dan pada ketika itu beliau adalah Setiausaha Agung — memang betul, dia pimpinan kanan yang lama dan pernah jadi menteri. Jadi untuk membentuk kerajaan waktu itu, saya faham akan ada keperluan seperti itu.
 
 Cuma kita kena ambil kira pandangan rakyat — ini sebenarnya kejayaan reformasi dan PKR juga. Kita dulu tepuk meja untuk pastikan ada mandat rakyat menang, sebab kita tak suka main-main. Sebab bila orang yang kalah itu dilantik, ia membuka ruang kepada satu budaya politik yang membodek. Itu sebabnya orang akan "cium tangan Perdana Menteri" sampai akhir — sebab okay je kalau saya kalah, saya tak perlu jaga rakyat, sebab kalau saya kalah, PM akan bagi saya jawapan.
 
@@ -175,11 +175,11 @@ Rakyat faham kenapa melantik yang kalah ini adalah satu budaya yang tidak diingi
 
 **Dato' Syed Azwan:** Terus, kan? Terus. Saya setuju, saya pun macam itu. Kadang-kadang di Kedah saya kata, "eh, ini menteri, mana dia? Dia kalah." Dia upset, dia main dengan naratif macam itu. Satu lagi, maaf YB — PMX kita, dia kata ini amaran, kerana orang itu seorang pemimpin — jadi ia amaran sebagai ketua kepimpinan. Tapi adakah relevan untuk orang yang sudah...
 
-**Rafizi Ramli:** Bagi saya, patutnya dah boleh berehat. Tapi kalau dilantik untuk jawatan-jawatan yang kritikal — mungkin ya, saya tak tahu, ia hanya satu perkhidmatan.
+**Rafizi:** Bagi saya, patutnya dah boleh berehat. Tapi kalau dilantik untuk jawatan-jawatan yang kritikal — mungkin ya, saya tak tahu, ia hanya satu perkhidmatan.
 
 **Dato' Syed Azwan:** Sebab, kalau nak ambil contoh, ketua JKOM, lebih baik ambil DSA. Sekurang-kurangnya... akaun saya kena "ban" nanti!
 
-**Rafizi Ramli:** Tak tak, itu memang antara sebab sesetengah orang dalam PKR tak berapa minat dengan saya, kerana mereka rasa saya ini terlalu "brutal." Maksudnya, kita semua kawan baik, saya kenal awak lama. Tapi kalau awak tak boleh buat kerja itu, awak tak boleh buat kerja itu — itu bukan soal saya suka awak, awak orang baik, saya rasa awak dah lama, awak dah "terbakar" berkhidmat. Bila kita ambil jawatan awam yang dibayar dengan wang rakyat, kita ada tanggungjawab kepada rakyat, dan satu lagi, ada tanggungjawab kepada parti, kerana kita kena jalankan tugas itu dengan cukup baik supaya nama parti kekal baik.
+**Rafizi:** Tak tak, itu memang antara sebab sesetengah orang dalam PKR tak berapa minat dengan saya, kerana mereka rasa saya ini terlalu "brutal." Maksudnya, kita semua kawan baik, saya kenal awak lama. Tapi kalau awak tak boleh buat kerja itu, awak tak boleh buat kerja itu — itu bukan soal saya suka awak, awak orang baik, saya rasa awak dah lama, awak dah "terbakar" berkhidmat. Bila kita ambil jawatan awam yang dibayar dengan wang rakyat, kita ada tanggungjawab kepada rakyat, dan satu lagi, ada tanggungjawab kepada parti, kerana kita kena jalankan tugas itu dengan cukup baik supaya nama parti kekal baik.
 
 Jadi bila kita kata orang ini "berjasa" atau apa, ia jadi subjektif. Bagi saya, kalau sebab dia kawan kita atau anak kawan kita, itu okay, tapi lihat jawatan-jawatan — jangan letak pada jawatan yang terlalu kritikal, yang ada interaksi dengan rakyat, kerana ia perlukan seseorang yang benar-benar mahir. Saya bagi contoh — dalam parti, ada orang yang marah saya kerana bila saya jadi menteri, ramai pegawai saya bukan orang parti.
 
@@ -191,7 +191,7 @@ Tapi kalau jawatan itu diberikan hanya kerana saya nak mengenang jasa dia — sa
 
 Okay, saya cuma berminat dengan satu — saya suka Johari, Johari Ghani. Saya suka dia. Dalam banyak konten saya buat pasal UMNO, saya selalu "naikkan" dia. Saya kata, ini presiden UMNO masa depan, dan juga bakal Perdana Menteri. Sebab baru-baru ini dia kata, untuk jadi calon — calon rakyat — bukan sebab "awak kawan saya, awak dah lama, awak sepatutnya." Dia kata, untuk jadi calon rakyat, rakyat kena suka kawan itu, walaupun dia bukan ahli parti. Saya rasa ini berbeza. Jadi kita nak tengok, apa pandangan YB — betul ke apa yang dia cakap, calon rakyat, rakyat kena suka dia?
 
-**Rafizi Ramli:** Akhirnya, secara keseluruhan, pandangan saya begini — kita kena imbangkan. Katakan ambil contoh PKR, kalau bertanding 100 kerusi, masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat — di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding.
+**Rafizi:** Akhirnya, secara keseluruhan, pandangan saya begini — kita kena imbangkan. Katakan ambil contoh PKR, kalau bertanding 100 kerusi, masuk pilihan raya ini memerlukan persepsi yang bagus di semua peringkat — di peringkat nasional dan juga di peringkat parlimen atau DUN yang kita bertanding.
 
 Di peringkat nasional, orang akan melihat imej keseluruhan calon-calon yang kita tampilkan. Di peringkat bawah pula, kita juga kena imbangkan dengan keupayaan untuk membuat kerja bakti di bawah dan bagaimana ia diterima oleh ahli umum kita di bawah. Jadi sebenarnya, kalau kita letak 100 calon, ada banyak ruang untuk kita pastikan ada keseimbangan. Ada kawasan yang, walaupun calon itu bukan berjawatan tinggi atau hebat pada peringkat nasional, tapi orang kenal dia dan memang dia orang yang baik di situ — bagi saya, calon di peringkat cabang seperti itu perlu ada.
 
@@ -201,7 +201,7 @@ Kalau langsung orang tak kenal, atau orang memang kenal tapi tahu dia "penyangak
 
 **Dato' Syed Azwan:** YB, maaf — jadi saya tak tahu ini radikal atau tidak. Kenapa kita tak buang sahaja sistem cabang yang ada sekarang, seperti parti politik di luar negara?
 
-**Rafizi Ramli:** Kita kena ada keseimbangan yang adil. Kita nak kata bahagian cabang, "pas panggil nama kawasan," semua ini salah — untuk berlaku adil, zaman 20-40 tahun yang lepas tak ada media sosial. Jadi bila tak ada media sosial, jentera dan organisasi di bawah itu cukup penting, kerana dia kena ketuk pintu, kena kuat organisasi. Jauh lebih popular daripada wakil rakyat sendiri, sebab dia buat kerja tiap-tiap malam.
+**Rafizi:** Kita kena ada keseimbangan yang adil. Kita nak kata bahagian cabang, "pas panggil nama kawasan," semua ini salah — untuk berlaku adil, zaman 20-40 tahun yang lepas tak ada media sosial. Jadi bila tak ada media sosial, jentera dan organisasi di bawah itu cukup penting, kerana dia kena ketuk pintu, kena kuat organisasi. Jauh lebih popular daripada wakil rakyat sendiri, sebab dia buat kerja tiap-tiap malam.
 
 Dengan adanya media sosial, maksudnya kempen dan capaian kepada rakyat itu lebih kepada skrin daripada pertemuan fizikal. Jadi oleh sebab itu, kekuatan parti itu tidak lagi bergantung 100% kepada kekuatan cabang. PKR dan DAP — DAP tu ahli berapa je? 100 ribu je, daripada dulu — masuk hampir sama je angka itu, tapi imej dan capaian dia yang membezakan. PKR pun macam itu — cabang macam mana pun, banyak yang "sendu" (lemah), Kedah pun banyak yang sendu. Tapi bila kita masuk pilihan raya, kenapa orang tertanya-tanya — kenapa daripada kalah PRN Melaka, Johor, tiba-tiba dalam tempoh 7-8 bulan boleh "bernyawa" sampai boleh bentuk kerajaan?
 
@@ -217,7 +217,7 @@ Bagi saya, kalau awak tak siaran, macam mana nak main "sinaran" (populariti)? Ja
 
 **Hos:** Ahli MPP (Majlis Kepimpinan Pusat) yang baru dilantik — pertama sekali, Sang Geta ada berkata bahawa PKR sekarang perlu menubuhkan satu pasukan kempen media untuk membina semula reputasi PMX [Anwar]. Apa komen tentang itu?
 
-**Rafizi Ramli:** Saya nak komen tentang kenyataan itu. Ia daripada Syamsul Iskandar — saya tak akan panggil "YB", saya akan panggil je Syamsul Iskandar. Daripada pengalaman saya dengannya, dari hari pertama dalam parti ini, sebenarnya — apa dia panggil dirinya, apa istilah yang dia guna? "Pemimpin siaran" [pemimpin siaran]. Tak, dia tak nak jadi pemimpin siaran. Dia seorang "pemimpin tersembunyi" [pemimpin sembunyian]. Sebab dia macam ini, awak tahu — dia ada banyak watak-watak macam ini di sekelilingnya. Dia beritahu orang macam DSA, atau saya, atau yang lain: "biar kita yang berkempen dengan rakyat, menyiarkan kepada rakyat, semua itu." Dia sendiri duduk di belakang tabir, dan bila kita menang dan jawatan itu jadi matang untuk diambil, dia pergi dan ambil.
+**Rafizi:** Saya nak komen tentang kenyataan itu. Ia daripada Syamsul Iskandar — saya tak akan panggil "YB", saya akan panggil je Syamsul Iskandar. Daripada pengalaman saya dengannya, dari hari pertama dalam parti ini, sebenarnya — apa dia panggil dirinya, apa istilah yang dia guna? "Pemimpin siaran" [pemimpin siaran]. Tak, dia tak nak jadi pemimpin siaran. Dia seorang "pemimpin tersembunyi" [pemimpin sembunyian]. Sebab dia macam ini, awak tahu — dia ada banyak watak-watak macam ini di sekelilingnya. Dia beritahu orang macam DSA, atau saya, atau yang lain: "biar kita yang berkempen dengan rakyat, menyiarkan kepada rakyat, semua itu." Dia sendiri duduk di belakang tabir, dan bila kita menang dan jawatan itu jadi matang untuk diambil, dia pergi dan ambil.
 
 Jadi sebab itu, akhirnya, bila satu keputusan pilihan raya tidak selaras dengan kehendak rakyat di lapangan, ia jadi masalah dalam parti. Sebab orang tanya, "siapa awak? Saya tak pernah nampak awak, saya tak pun kenal awak." Sebab itu, seperti yang saya katakan, kembali kepada soalan tadi —
 
@@ -233,11 +233,11 @@ Kita tidak boleh terus mengudara dan bercakap kosong sahaja, kerana rakyat akan 
 
 **Host:** Tapi sekarang ada lebih banyak kebisingan seputar pelantikan Duta Amerika Syarikat — Nick Adams. Apa pandangan YB?
 
-**Rafizi Ramli:** Saya rasa ia positif, kerana Trump memilihnya kerana dia seorang influencer politik yang berpengaruh. Ya, dia memang berpengaruh. Kenapa Trump menghantar Nick Adams? Ada orang yang mahu membuat kecoh tentang perkara ini, tetapi bagi saya, itu hak prerogatif Trump. Jika dia mahu menghantar sesiapa sahaja — walaupun dia mahu menghantar J-Lo sekalipun, dia boleh. Tapi Nick Adams — macam mana dia? Kenapa Trump —
+**Rafizi:** Saya rasa ia positif, kerana Trump memilihnya kerana dia seorang influencer politik yang berpengaruh. Ya, dia memang berpengaruh. Kenapa Trump menghantar Nick Adams? Ada orang yang mahu membuat kecoh tentang perkara ini, tetapi bagi saya, itu hak prerogatif Trump. Jika dia mahu menghantar sesiapa sahaja — walaupun dia mahu menghantar J-Lo sekalipun, dia boleh. Tapi Nick Adams — macam mana dia? Kenapa Trump —
 
 **Host:** Tiba-tiba, bukan diplomat, tiba-tiba dia hantar seorang influencer dari Australia untuk menjadi duta di sini. Perkara seperti ini tidak pernah berlaku sebelum ini. Haa?
 
-**Rafizi Ramli:** Saya belum benar-benar mengikuti latar belakangnya dengan teliti, cuma sekadar meninjau beberapa perkara tentang Adams. Tetapi ada satu perkara yang kita perlu fahami.
+**Rafizi:** Saya belum benar-benar mengikuti latar belakangnya dengan teliti, cuma sekadar meninjau beberapa perkara tentang Adams. Tetapi ada satu perkara yang kita perlu fahami.
 
 Dalam sistem Amerika Syarikat, pelantikan duta kebanyakannya merupakan pelantikan politik. Ia tidak seperti sistem kita, di mana majoriti duta merupakan diplomat kerjaya. Itu memang amalan mereka — secara sejarah, malah bapa JFK sendiri, Joseph Kennedy, pernah dilantik sebagai duta ke UK. Itu perkara biasa di sana. Jadi, seperti yang telah dikatakan oleh DSA, ia sebenarnya prerogatif Presiden dan kerajaan Amerika Syarikat. Presiden Amerika Syarikat menggunakan jawatan duta sebagai ganjaran kepada penyokong mereka.
 
@@ -261,7 +261,7 @@ Saya lihat apa yang sebenarnya Trump mahukan. Vietnam turun daripada melebihi 40
 
 **Host:** Adakah ini strategi Trump kerana dia tidak mahu Malaysia menjadi dominan dalam hal ini? Sebelum ini 24%, sekarang naik ke 25%. Sebelum ini 40%, sekarang 20%. 36% menjadi 19%. Apa sebenarnya yang Trump mahukan?
 
-**Rafizi Ramli:** Kenapa dia tidak mahu menurunkan kadar Malaysia adalah soalan yang sukar saya jawab, kerana saya tidak tahu apa yang ada dalam fikiran Trump. Kadangkala kita memang tidak dapat membaca fikiran Trump, tetapi apa yang kita tahu ialah Trump seorang "dealmaker".
+**Rafizi:** Kenapa dia tidak mahu menurunkan kadar Malaysia adalah soalan yang sukar saya jawab, kerana saya tidak tahu apa yang ada dalam fikiran Trump. Kadangkala kita memang tidak dapat membaca fikiran Trump, tetapi apa yang kita tahu ialah Trump seorang "dealmaker".
 
 Dia seorang ahli perniagaan, jadi hubungan peribadi amat penting baginya. Jika dia suka kita, dia suka kita — dia jenis begitu. Berbeza dengan Malaysia, Presiden Amerika Syarikat mempunyai kuasa eksekutif yang hampir mutlak. Jadi jika kita bandingkan Malaysia dengan Vietnam — Vietnam telah aktif melobi di sana untuk tempoh yang lama, kita pun tidak tahu apa yang telah mereka tawarkan — tarif ini sebenarnya bertujuan untuk membetulkan defisit perdagangannya.
 
@@ -277,7 +277,7 @@ jadi cari cara untuk membuat perjanjian dengannya.
 
 **Host:** Dato', sedikit — pandangan YB tentang Nick Adams sebenarnya agak berbeza dan cukup rasional. Cuma apabila dia berada di sini, ia akan menyukarkan Anwar Ibrahim dan kerajaan untuk menjawab tentang naratif pro-Zionis dan sebagainya. Itulah sebenarnya jawapan kepadanya — maksudnya, jika sebagai duta dia membuat kenyataan pro-Zionis —
 
-**Rafizi Ramli:** sebenarnya, kita sebagai sebuah negara, dan juga wakil-wakil parti, NGO dan sebagainya, mempunyai hak sepenuhnya untuk membantah, bukan? Dan kita boleh menghantar nota diplomatik, kerana ia akan bercanggah dengan pendirian bebas kita sendiri. Jadi kita tidak boleh sekadar ikut sahaja sesuatu semata-mata untuk memenangi perang media sosial, atau semata-mata kerana takut diserang. Contohnya, walaupun PAS yang menjadi kerajaan —
+**Rafizi:** sebenarnya, kita sebagai sebuah negara, dan juga wakil-wakil parti, NGO dan sebagainya, mempunyai hak sepenuhnya untuk membantah, bukan? Dan kita boleh menghantar nota diplomatik, kerana ia akan bercanggah dengan pendirian bebas kita sendiri. Jadi kita tidak boleh sekadar ikut sahaja sesuatu semata-mata untuk memenangi perang media sosial, atau semata-mata kerana takut diserang. Contohnya, walaupun PAS yang menjadi kerajaan —
 
 anda rasa Trump akan kisah jika dia mahu menghantar Nick Adams? Dia akan tetap menghantar Nick Adams; alasan tertentu akan dicari kemudian. Apa sahaja yang kita buat, dia akan tetap menghantar Nick Adams. Jadi perkara yang munasabah, pada peringkat hubungan antarabangsa, ialah ada peraturan dalam permainan ini. Ada perkara yang kita setuju, dan ada perkara yang kita tidak setuju — kita boleh nyatakan ketidaksetujuan kita. Tetapi kita juga perlu menghormati hak dan kedaulatan negara itu untuk menghantar wakil pilihannya. Jadi kita perlu bersikap profesional tentangnya. Namun begitu, setakat ini, jika kita boleh pastikan kita mendapat manfaat daripada rundingan tarif — dan saya fikir ia tanggungjawab kerajaan untuk menjelaskan hal ini kepada orang ramai —
 
@@ -295,7 +295,7 @@ Jadi semua yang dia katakan tentang YB adalah benar. Tetapi apabila kita lihat d
 
 apa maksudnya sebenarnya, kan? Orang luar mengiktiraf kita sebagai ahli strategi yang tajam, namun [kita mengalami] kerugian. Saya ingin dengar daripada YB tentang hal ini — saya sentiasa hanya mendengarnya melalui media. Itulah sebabnya saya ingin bertanya: siapakah sebenarnya "pemimpin tersembunyi" ini?
 
-**Rafizi Ramli:** Tidak — sebenarnya, saya ingat, bukan sahaja dalam PKR, tetapi dalam mana-mana parti, akan sentiasa ada konflik antara dua kumpulan.
+**Rafizi:** Tidak — sebenarnya, saya ingat, bukan sahaja dalam PKR, tetapi dalam mana-mana parti, akan sentiasa ada konflik antara dua kumpulan.
 
 Ambil contoh di luar Malaysia — kembali ke era Lenin dan Stalin.
 
@@ -351,7 +351,7 @@ Jadi jika suatu hari nanti YB menjadi Presiden PKR dan mahu membentuk kerajaan, 
 
 kerana untuk membentuk kerajaan, adakah ia bermakna kamu terpaksa mengambil orang-orang ini? Jika tidak kamu tidak boleh membentuk kerajaan? Itu yang saya ingin tanya.
 
-**Rafizi Ramli:** Baiklah, saya tidak tahu apa akan berlaku jika saya menjadi presiden mana-mana parti — mungkin menjadi presiden "Persatuan Podcaster Malaysia" lebih berpengaruh! Tetapi sebenarnya, apa yang berlaku —
+**Rafizi:** Baiklah, saya tidak tahu apa akan berlaku jika saya menjadi presiden mana-mana parti — mungkin menjadi presiden "Persatuan Podcaster Malaysia" lebih berpengaruh! Tetapi sebenarnya, apa yang berlaku —
 
 dengan pembentukan kerajaan perpaduan pada 2022 — sebenarnya ada hikmahnya, kerana di negara lain, sudah lama menjadi amalan bahawa kerajaan gabungan atau campuran hanya dibentuk selepas pilihan raya.
 
@@ -399,7 +399,7 @@ orang sentiasa tertanya-tanya di mana mereka boleh meletakkan jawatan mereka. Sa
 
 Sekarang, Obi ada sebut tadi — maksudnya, parti ini tiada masalah dengan UMNO atau PAS, jika mereka bersetuju, itu tidak apa. Tetapi kita perlu pastikan syarat-syarat yang kita tetapkan tidak mencairkan jiwa dan idealisme parti.
 
-**Rafizi Ramli:** Jadi, sebagai contoh, jika prinsip reformasi mengatakan pelantikan-pelantikan utama mesti dibawa ke Parlimen —
+**Rafizi:** Jadi, sebagai contoh, jika prinsip reformasi mengatakan pelantikan-pelantikan utama mesti dibawa ke Parlimen —
 
 mereka perlu bersetuju dengan itu; mereka perlu bersetuju. Jika mereka tidak bersetuju, maka ia tidak boleh berlaku. Apa yang berlaku pada 2022 — saya sendiri yang merangkanya — kita tidak pernah sampai ke tahap terperinci itu; kita hanya ada prinsip-prinsip umum, seperti itu. Jadi saya rasa ini perkembangan positif, kerana jika kita cuba memaksa orang ramai menerima formula yang terlalu rigid dengan serta-merta, orang ramai pun tidak akan menerimanya. Ini satu proses yang akan berkembang dari satu pilihan raya ke satu pilihan raya. Jika, contohnya, syarat-syarat yang PKR tetapkan sekadar terlalu tidak serasi, maka tiada gunanya membentuk kerajaan dengan kita — kamu akan musnah, dan saya juga.
 
@@ -433,7 +433,7 @@ Adakah itu saat YB akan meluruskan keadaan?
 
 Adakah "Ayuh Malaysia" ini sesuatu yang berbeza sama sekali? Wallahu'alam, tetapi saya tahu —
 
-**Rafizi Ramli:** sebenarnya, malam ini ada taklimat dan mesyuarat — bukan yang besar — dianjurkan oleh Syamsul Iskandar. Saya dihantar pautannya.
+**Rafizi:** sebenarnya, malam ini ada taklimat dan mesyuarat — bukan yang besar — dianjurkan oleh Syamsul Iskandar. Saya dihantar pautannya.
 
 Saya sebenarnya terfikir untuk menjemput semua orang untuk turut serta dan mendengar apa yang dia mahu bincangkan, tetapi tidak mengapa — kita ada podcast sendiri. Saya tidak tahu apa yang akan diumumkan; saya sendiri pun tidak tahu
 
@@ -481,7 +481,7 @@ Apakah istilah yang tepat untuk ini? Adakah ia mungkin? Bolehkah ia berlaku baha
 
 jika kita tidak membetulkan keadaan, adakah ia akan "bertaut" dengan sendirinya? Kita tidak ada masa lama sebelum Raya — saya tidak percaya bahawa sebaik orang tidak lagi mahu, mereka akan —
 
-**Rafizi Ramli:** Saya percaya kepada peribahasa Melayu lama — orang dahulu bijak dengan kiasan mereka. Tetapi seperti yang dikatakan tadi, sama ada ia benar-benar kiasan yang tepat adalah satu hal lagi — hal "kiambang bertaut" ini. Jika kamu sudah meracun kiambang itu, semburkan racun ke atas semuanya, bagaimana ia hendak bertaut semula? Adakah ia masih mampu berbuat demikian? Dalam parti ini, sejak tahun 2000, dari —
+**Rafizi:** Saya percaya kepada peribahasa Melayu lama — orang dahulu bijak dengan kiasan mereka. Tetapi seperti yang dikatakan tadi, sama ada ia benar-benar kiasan yang tepat adalah satu hal lagi — hal "kiambang bertaut" ini. Jika kamu sudah meracun kiambang itu, semburkan racun ke atas semuanya, bagaimana ia hendak bertaut semula? Adakah ia masih mampu berbuat demikian? Dalam parti ini, sejak tahun 2000, dari —
 
 saya ingat pilihan raya parti pertama yang saya perhatikan sendiri ialah pada 2001 —
 
@@ -529,7 +529,7 @@ Kamu mahu selesaikan hal dengan orang seperti Samsul Iskandar, Azman Bidin, Chan
 
 **Host:** Sembang punya sembang, tak tahu apa yang dipercakapkan. Dulu, sebelum ini, semasa YB jadi menteri, YB tak tanya. Tapi lepas ni YB dah jadi ahli parlimen — walaupun ahli parlimen perpaduan — adakah YB akan lantang bertanya kepada Perdana Menteri semasa PMQT?
 
-**Rafizi Ramli:** Bagi saya, jika kita lihat asal usul budaya PMQT, ia datang daripada Westminster, kan? PMQT sebenarnya satu platform untuk backbencher, setiap minggu, untuk menyoal PM. Jadi, saya bukan pembantah, dan saya tidak berniat mengutuk kerja Anwar Ibrahim — kecuali jika ada perkara besar yang perlu ditanya. Saya memang tidak berniat menjadikan parlimen tempat bergaduh. Semasa saya menjadi backbencher dahulu, saya hanya menggunakan parlimen untuk mengejar Najib dan 1MDB.
+**Rafizi:** Bagi saya, jika kita lihat asal usul budaya PMQT, ia datang daripada Westminster, kan? PMQT sebenarnya satu platform untuk backbencher, setiap minggu, untuk menyoal PM. Jadi, saya bukan pembantah, dan saya tidak berniat mengutuk kerja Anwar Ibrahim — kecuali jika ada perkara besar yang perlu ditanya. Saya memang tidak berniat menjadikan parlimen tempat bergaduh. Semasa saya menjadi backbencher dahulu, saya hanya menggunakan parlimen untuk mengejar Najib dan 1MDB.
 
 Saya tidak keliru, saya fokus. Semua soalan saya berkaitan dengan fakta dan skandal, tetapi para menteri tidak tahu jawapannya apabila saya tanya satu persatu — mungkin pegawai mereka sendiri sekadar mahu menjatuhkan mereka. Saya tanya, dan mereka beri jawapan.
 
@@ -539,7 +539,7 @@ Tetapi soalan-soalan saya, kita perlu hantar dahulu — saya telah pun menghanta
 
 Kerajaan ini perlu dikekalkan — bukan sebab saya tak setuju dengan Anwar, atau tak sokong beliau atas kuasa, tapi kerana negara ni tak boleh melalui satu pertukaran kuasa sekarang, dalam keadaan kita berdepan cabaran ekonomi yang teruk. Singapura sendiri boleh berkurangan pertumbuhan sampai 2-3% sahaja. Kalau itu berlaku — katakanlah pertumbuhan kita 3% atau lebih rendah — itulah keadaan Malaysia dalam satu dua tahun ini. Jadi kita perlukan kerajaan yang stabil, so that he can finish this term until the election. That means Anwar Ibrahim needs to remain as Prime Minister until the election is held.
 
-**Rafizi Ramli:** Saya mungkin tidak dapat mempengaruhi apa yang akan berlaku apabila pilihan raya tiba, kerana saya bukan pemimpin PKR atau PH — strategi dan kempen itu terserah kepada Anwar dan pemimpin-pemimpin lain. Tetapi sebagai ahli parlimen, tugas saya adalah untuk memastikan kerajaan ini melakukan yang terbaik untuk mengharungi cabaran yang teruk ini dalam masa satu dua tahun akan datang. Kalau PAS tak nak buat kerja tu, saya boleh buat.
+**Rafizi:** Saya mungkin tidak dapat mempengaruhi apa yang akan berlaku apabila pilihan raya tiba, kerana saya bukan pemimpin PKR atau PH — strategi dan kempen itu terserah kepada Anwar dan pemimpin-pemimpin lain. Tetapi sebagai ahli parlimen, tugas saya adalah untuk memastikan kerajaan ini melakukan yang terbaik untuk mengharungi cabaran yang teruk ini dalam masa satu dua tahun akan datang. Kalau PAS tak nak buat kerja tu, saya boleh buat.
 
 Bukan kerana saya nak menggulingkan kerajaan atau tidak menyukai Anwar Ibrahim — ia adalah tugas seorang ahli parlimen, kerana cabaran sekarang ini serius. Tetapi saya harap, sebagai ahli parlimen biasa dalam PKR, kita tidak perlu lebih agresif daripada itu. Apa sahaja yang saya cakap, kalau ia benar, terimalah dengan baik, kerana niat kita sama: untuk memastikan rakyat dapat menghargai kualiti kerajaan yang ada, supaya mereka fikir — walaupun saya tidak bersetuju sepenuhnya dengan segala-galanya — kerajaan ini lebih baik daripada alternatif, dan ia seolah-olah mendengar kritikan, dan ia boleh berubah dan bertambah baik.
 
@@ -551,7 +551,7 @@ Okey, itu sahaja.
 
 **Host:** Apa yang YB cakap tadi tu, orang luar boleh nilai lah — kita tak ada niat pun nak menjatuhkan [kerajaan].
 
-**Rafizi Ramli:** Kita perlu membantu — macam saya, setiap hari, kalau saya nampak apa-apa tentang PM, saya akan buat kandungan mengenainya, walaupun saya tidak mendapat apa-apa daripadanya, tetapi itu satu tanggungjawab. Kalau anda lihat studio saya, ada gambar Perdana Menteri di belakang saya — saya ingat saya seorang sahaja yang berani letak gambar PM di belakang saya. Itulah keadaannya. Ingat mak — bayangkan. Kalau mak kita tak pernah marah, kita mati. Bila kita membesar, dari kecil sampai sekarang, semasa kecil mak akan marah, marah; bila kita dah besar, dia marah dengan cara yang lain. Tapi bayangkan keadaan bila kita dah besar, mak kita marah 100 kali — dia bukan manusia kalau tak marah. Memang dalam budaya kita, ada orang yang perlu dimarahi, dan cara marah itu...
+**Rafizi:** Kita perlu membantu — macam saya, setiap hari, kalau saya nampak apa-apa tentang PM, saya akan buat kandungan mengenainya, walaupun saya tidak mendapat apa-apa daripadanya, tetapi itu satu tanggungjawab. Kalau anda lihat studio saya, ada gambar Perdana Menteri di belakang saya — saya ingat saya seorang sahaja yang berani letak gambar PM di belakang saya. Itulah keadaannya. Ingat mak — bayangkan. Kalau mak kita tak pernah marah, kita mati. Bila kita membesar, dari kecil sampai sekarang, semasa kecil mak akan marah, marah; bila kita dah besar, dia marah dengan cara yang lain. Tapi bayangkan keadaan bila kita dah besar, mak kita marah 100 kali — dia bukan manusia kalau tak marah. Memang dalam budaya kita, ada orang yang perlu dimarahi, dan cara marah itu...
 
 Ada yang agak kasar, agak pedih. Jangan tembak pembawa mesej — ambil mesejnya, itu yang penting. Budaya dalam politik kita belum sampai ke tahap itu. Itu tugas kita — untuk buat rakyat biasa dengan itu. Sebab akhirnya, ini yang PKR selalu cakap sejak awal — rakyat perlu bersuara, supaya bila rakyat mendesak, kerajaan — sesiapa pun kerajaan itu — mesti ikut suara rakyat. Jadi ini satu proses yang berlaku, ada hikmahnya. Kalau saya jadi menteri semula, mungkin benda ini akan tersekat di tengah jalan, sebab tak ramai orang dalam PKR atau PH yang berani "menyakat" sikit. Mungkin buat masa sekarang, untuk kita tegas, untuk kita berubah menjadi lebih baik, kita memang perlukan suara macam ini.
 
@@ -559,20 +559,20 @@ Ya, saya sertai PKR sebab saya nak jadi orang baik. Saya selalu cakap dalam kand
 
 **Host:** Nombor dua, Melayu yang miskin. Lepas tu tiga, DAP lah.
 
-**Rafizi Ramli:** Lepas tu, ya.
+**Rafizi:** Lepas tu, ya.
 
 **Host:** Jadi bagi saya, apa yang YB buat ini penting untuk mendidik rakyat.
 
-**Rafizi Ramli:** Kita perlu mendidik rakyat. Sama juga dengan media. Kalau saya ikut, saya tak hairan siapa akan dilantik jadi hakim. Tapi macam mana YB bawa cerita itu — sekarang saya pun jadi macam pakar — Perkara 122B, JAC seksyen 209 — saya tak amik peduli pun sebenarnya [pada mulanya]. Yang penting, anak-anak muda sekarang yang akan pergi ke depan, lebih baik mereka datang daripada orang yang sudah terdidik untuk menilai pemimpin kita — pemimpin yang buat kerja, itu sahaja yang penting.
+**Rafizi:** Kita perlu mendidik rakyat. Sama juga dengan media. Kalau saya ikut, saya tak hairan siapa akan dilantik jadi hakim. Tapi macam mana YB bawa cerita itu — sekarang saya pun jadi macam pakar — Perkara 122B, JAC seksyen 209 — saya tak amik peduli pun sebenarnya [pada mulanya]. Yang penting, anak-anak muda sekarang yang akan pergi ke depan, lebih baik mereka datang daripada orang yang sudah terdidik untuk menilai pemimpin kita — pemimpin yang buat kerja, itu sahaja yang penting.
 
 **Host:** Baik, Dato'. Terima kasih banyak. Ada lagi?
 
-**Rafizi Ramli:** Tak ada. Banyak dah tu — satu jam lima puluh minit, yang sangat produktif.
+**Rafizi:** Tak ada. Banyak dah tu — satu jam lima puluh minit, yang sangat produktif.
 
 **Host:** Terima kasih, Dato', sebab datang jauh-jauh.
 
-**Rafizi Ramli:** Saya ada banyak masa. Nanti kalau ada kesempatan, boleh saya datang studio DSA main-main. Bila saya pergi Jitra pun lama saya tak pergi.
+**Rafizi:** Saya ada banyak masa. Nanti kalau ada kesempatan, boleh saya datang studio DSA main-main. Bila saya pergi Jitra pun lama saya tak pergi.
 
 **Host:** Baiklah — sayang anak, tangan-tangankan; sayang kerajaan, tegur-tegurkan. Podcast Bincang Menteri, episod kelima sudah. Kita jumpa lagi minggu hadapan.
 
-**Rafizi Ramli:** Salam juga untuk Syamsul Iskandar, tangan-tangankan juga. Selamat malam, jumpa lagi.
+**Rafizi:** Salam juga untuk Syamsul Iskandar, tangan-tangankan juga. Selamat malam, jumpa lagi.
