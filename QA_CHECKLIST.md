@@ -210,7 +210,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2025-06-27-ep02-yang-berhenti-menteri-2
 - [x] 2025-07-04-ep03-yang-berhenti-menteri-3
 - [x] 2025-07-11-ep04-yang-berhenti-menteri-4
-- [x] 2025-07-18-ep05-yang-berhenti-menteri-5
+- [x] 2025-07-18-ep05-yang-berhenti-menteri-5 (models: raw.md=mesolitica/malaysian-whisper-medium-v2)
 - [x] 2025-07-25-ep06-yang-berhenti-menteri-6
 - [x] 2025-08-01-ep07-yang-berhenti-menteri-7
 - [x] 2025-08-08-ep08-yang-berhenti-menteri-8 (models: raw.md=gemini-3.7-flash)
